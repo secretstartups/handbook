@@ -19,7 +19,7 @@ The foundation of the GitLab Services Program consists of two elements on which 
 1. <a href="https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview">Certifications</a>:  GitLab offers GitLab Certified Service Partner Badges, that include training for service delivery teams which enable partners to meet program compliance requirements. 
 2. <a href="https://partners.gitlab.com/prm/English/c/Services">GitLab Partner Portal Services Page</a>:  Partners can utilize GitLab Channel Service Packages to assist their teams as they build the service offerings, market and sell their services, and support their service business growth. 
     <br>a. <a href="https://partners.gitlab.com/prm/English/c/Channel_Service_Packages">GitLab Channel Service Packages</a>
-    <br>b. <a href="https://partners.gitlab.com/prm/English/c/GitLab_Channel_Service_Sales_GTM">GitLab Channel Service Sales Got To Market</a>
+    <br>b. <a href="https://partners.gitlab.com/prm/English/c/GitLab_Channel_Service_Sales_GTM">GitLab Channel Service Sales Go To Market</a>
     <br>c. <a href="https://partners.gitlab.com/prm/English/c/GitLab_Channel_Service_Development_Framework">GitLab Channel Service Development Framework</a>
 
 ## GitLab Certified Service Partner Program Overview
