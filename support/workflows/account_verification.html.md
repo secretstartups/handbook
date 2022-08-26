@@ -169,7 +169,7 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
        <p>/assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
        <p>/label ~"2FA Reset" ~"Awaiting confirmation"
 
-1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that three pieces of information be added to a customer's Zendesk organization:
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) to request that three pieces of information be added to a customer's Zendesk organization:
    1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/` in the notes.
    1. A link to the customer's account management project in the notes.
    1. The `skip_2fa_automation` tag so that users requesting this won't get the autoresponder.
