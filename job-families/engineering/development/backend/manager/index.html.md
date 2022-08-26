@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: Backend Engineering Manager
+description: "The Backend Engineering Manager specializes in Backend Engineering Management as a manager of people."
 ---
 
 The Backend Engineering Manager specializes in Backend Engineering Management as a manager of people. Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
@@ -44,10 +45,10 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Passionate about open source and developer tools
 
 ## Levels
-* [Intermediate](/job-families/engineering/development/backend/intermediate)
-* [Senior](/job-families/engineering/development/backend/senior)
-* [Staff](/job-families/engineering/development/backend/staff)
-* [Backend Engineering Manager](/job-families/engineering/development/backend/manager)
+* [Intermediate](/job-families/engineering/development/backend/intermediate/)
+* [Senior](/job-families/engineering/development/backend/senior/)
+* [Staff](/job-families/engineering/development/backend/staff/)
+* [Backend Engineering Manager](/job-families/engineering/development/backend/manager/)
 
 ## Performance Indicators
 Backend Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
