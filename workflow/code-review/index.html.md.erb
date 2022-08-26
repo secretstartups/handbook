@@ -36,7 +36,7 @@ Maintainers are GitLab engineers who are experts at code review, know the GitLab
 
 Every project should have at least two maintainers, but most should have more. Some projects have separate maintainers for different specialties. For example, [the main GitLab codebase](https://gitlab.com/gitlab-org/gitlab) has separate maintainers for frontend, backend, and database.
 
-[We do not expect maintainers to know every single part of such a massive project](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything). That expectation simply doesn't scale with an organization of our size. As such we expect our reviewers and maintainers to know their limits and pass to or request additional reviews from domain experts if they feel they don't fully understand the code in question.
+Great engineers are often also great reviewers, but code review is a skill in and of itself and not every engineer, no matter their seniority, will have had the same opportunities to hone that skill. It's also important to note that a big part of being a good maintainer comes from knowing the existing product and codebase extremely well, which lets them spot inconsistencies, edge cases, or non-obvious interactions with other features that would otherwise be missed easily.
 
 Becoming a reviewer/maintainer means you are taking on a broader responsibility beyond your immediate group. Your available capacity should be adjusted accordingly to make room for you to work effectively. There is no strict formula for this as each project comes with a different workload, but do make sure to discuss this with your manager to avoid burnout and to ensure your manager understands how this may impact your team's capacity.
 
@@ -63,48 +63,27 @@ Communication happens easier when you are familiar with the person reviewing the
 
 **This applies specifically to backend, frontend and database maintainers. Other areas (docs, etc.) may have separate processes.**
 
-As a reviewer, a great way to improve your reviewing skills is to participate in MRs. Add your review notes, pass them on to maintainers, and follow the conversation until the MR is closed. If a comment doesn't make sense to you, ask the commenter to explain further. If you missed something in your review, figure out why you didn't see it, and note it down for next time.
+Interested reviewers should check in regularly with their manager to discuss progress towards maintainership and review any recent detailed reviews, for example during their 1-on-1s. Reviewers are encouraged to also seek out a [maintainer mentor](#reviewer-mentorship-program) for further perspective on their reviews. Reviewers are encouraged to think of their eligibility for maintainership in the terms of "I could be ready at any time to be a maintainer as long as it is justified".
 
-We have two guidelines for project maintainership, but no concrete rules:
+At any time, the manager, mentor, or reviewer may choose to open a merge request adding the reviewer as a maintainer. This merge request should have a justification as to why the reviewer should become a maintainer.
 
-1. In general, the further along in their career someone is, the more we expect them to be capable of becoming a maintainer.
-1. Maintainers should have an advanced understanding of the GitLab project that they wish to maintain. Before applying for maintainership, a person should get a good feel for the project codebase, expertise in one or more domains, and deep understanding of our coding standards.
 
-Apart from that, someone can be considered as a project maintainer when both:
+Before opening the merge request, the reviewer should:
 
-1. The MRs they've reviewed consistently make it through maintainer review without significant additionally required changes.
-1. The MRs they've written consistently make it through reviewer and maintainer review without significant required changes.
+1. Review justifications for several of the reviewer's recent merge requests.
+1. Reach out to at least two of the maintainers privately for feedback on the reviewer. The reviewer may have some suggestions on who these maintainers could be.
 
-Once those are done, they should:
+Before merging, the manager should:
 
-1. Create a MR to add the maintainership for the project they wish to maintain to their team page entry.
-1. Explain in the MR body why they are ready to take on that responsibility.
-1. Use specific examples of recent "maintainer-level" reviews that they have performed. These include but are not limited to:
-    1. MRs that introduce non-trivial changes (architectural changes, refactors, developer experience upgrades)
-    1. MRs that improve our quality of the project (tests, performance)
-    1. MRs that deliver full features (ideally this is done iteratively, so a good maintainer can guide someone to break down large MRs to smaller ones)
-    1. **Note:** MRs that introduce very simple changes are good, but should not be the only source of reviews
-1. Assign the MR to their manager and mention the existing maintainers of the relevant project (GitLab, GitLab Shell, etc) and area (backend, frontend, etc.).
+1. Approve the merge request if it was opened by someone other than the manager.
+1. Mention the maintainers from the given specialty and ask them to provide feedback to the manager directly.
+1. Leave the merge request open for 1 week, to give the maintainers time to provide feedback to the manager.
+1. Have at least 2 approvals from existing maintainers.
 
-The approval process to follow is:
+**If the manager is given feedback that indicates the reviewer is not ready to become a maintainer**: the manager should close the merge request and provide the feedback directly to the reviewer to address the gaps before the reviewer is re-submitted. The earlier the manager can solicit this feedback the better.
 
-1. The MR will remain open for 5 working days.
-   1. For a maintainer category that consists of 10 or fewer maintainers, if **more than half** of the existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
-**and** there are no blocking concerns raised during this period; we've got a new maintainer!
-   1. For a maintainer category that consists of 11 or more maintainers, if 5 existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
-**and** there are no blocking concerns raised during this period; we've got a new maintainer!
-   1. Maintainers should consider being an approver only if they can support the approval with multiple examples of the trainee's skills, likely from MRs they reviewed together.
-1. If the MR does not have enough approvals after this period, **and** no blocking concerns, then the manager
-should mention the existing maintainers again in a new comment as well as in the relevant Slack channel (e.g. `#backend`) and keep the MR open for 5 more working days.
-1. After the extra period, any missing feedback from a maintainer should be counted as a neutral response and the manager can merge the MR given no blocking concerns were raised!
-1. Normal non-blocking feedback should be submitted as comments to the MR. To support Gitlab Values and avoid [groupthink](https://en.wikipedia.org/wiki/Groupthink), any [blocking negative feedback](https://about.gitlab.com/handbook/values/#negative-feedback-is-1-1) should be instead submitted to the manager of the aspiring maintainer. The manager will then share the feedback with the aspiring maintainer and post a generic message with a "TL;DR" in the MR.
-1. If _there are blocking concerns_ raised at any point in the approval process, the maintainers who raised the concern should actively work with the maintainer nominee's manager to develop a plan on how to resolve the concern.
-
-Since the manager of the new maintainer is the MR assignee, they should be the one merging the MR.
-
-It is helpful if the person merging the MR also leaves a comment with a summary, see [example 1](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22212#note_166997960) or [example 2](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29148#note_212342171) for reference.
-
-When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the **Engineering Week-in-Review document**. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
+1. Announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`.
+1. Post an update in the **Engineering Week-in-Review document**. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
 
 #### After becoming a maintainer
 
@@ -115,19 +94,29 @@ If you've become a new maintainer, follow these instructions to request relevant
 - Request access to the GitLab maintainer group you belong: [frontend](https://gitlab.com/gitlab-org/maintainers/frontend), [backend](https://gitlab.com/gitlab-org/maintainers/rails-backend), or [database](https://gitlab.com/gitlab-org/maintainers/database).
 - Request maintainer permissions on the projects you will act as a maintainer using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) issue template. Once you've created the issue, request another maintainer to grant you those permissions.
 
-#### Trainee maintainer
+#### Learning to be a maintainer
 
-To help grow the maintainer base with the team, we allow for 'trainee maintainers'. These are reviewers who have shown a specific interest in becoming a maintainer, and are actively working towards that goal.
+While any reviewer may be recommended by their manager to become a maintainer at any time, reviewers who wish to become maintainers should follow a few basic steps on each review in order to get into a maintainer mindset, and learn from feedback from maintainers.
 
-Anyone may nominate themselves as a trainee by opening a tracking issue using the [Trainee backend maintainer template], [Trainee frontend maintainer template], [Trainee database maintainer template], or [Trainee quality maintainer template]. It's normally a good idea to check with at least one maintainer or your manager before creating the issue, but it's not required.
+Create a merge request and indicate your role as a `project-name: reviewer` or `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). Assign MR to your manager for merge.
 
-After opening your tracking issue, create a Merge Request for the [team page](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person) proposing yourself as a trainee maintainer.
 
-Most backend trainees, working full-time without significant interruptions (for example, parental leave) reach the point where they are ready to become a maintainer in five to seven months. If it takes longer, that's OK.
+After each review, reviewers should summarize why they believe a merge request is ready to be merged:
 
-Trainees should feel free to discuss process or progress with their manager or any maintainer, at any time. We recommend that the managers of trainee maintainers arrange a check-in every six weeks or so during the process, to assess where they are and what remains to be done.
+For example:
+> Looks good!  I believe this MR resolves the issue and it looks safe because the code change is relatively isolated.
 
-If you'd like to work towards becoming a maintainer, discuss it in your regular [1:1 meetings] with your manager. They will help you to identify areas to work on before following the process above.
+> LGTM! I feel this MR is a good iteration. And it has low risk because it is behind a feature flag.
+
+Maintainers should respond to the comment from the reviewer with a 👍 if they agree, and upon merging if there were additional comments they feel should have been caught, they should ping any reviewers so they are aware of the comments.
+
+Some reviewers find it helpful to track their progress. This is not required, but a few ways people have done this are:
+
+- Keep an issue with all of the various reviews and feedback comments from maintainers they have received. There are some tools to help with this type of issue:
+  - https://gitlab.com/nolith/review-tanuki
+  - https://gitlab.com/caalberts/review-tanuki
+  - https://gitlab.com/arturoherrero/trainee
+- Use an emoji to mark all MRs they received feedback from maintainers on so they are easily searchable.
 
 #### Trainee maintainer mentorship pilot program
 
