@@ -29,10 +29,10 @@ Quality Engineering Manager: Ramya Authappan
 
 | S.No 	| Stage     	| Group                    	| SET Counterpart                                                      	|
 |------	|-----------	|--------------------------	|---------------------------------------------------------------------	|
-| 1    	| Create    	| [Source Code]            	| Anastasia McDonald                                                        	|
-| 2    	| Create    	| [Code Review]            	| Jay McCure                                                           	    |
-| 3    	| Create    	| [Editor]                 	| Jason Zhang                                                   	|
-| 4    	| Manage    	| [Access]                 	| Sanad Liaquat                                                        	|
+| 1    	| Create    	| [Source Code]            	| Anastasia McDonald                                                    |
+| 2    	| Create    	| [Code Review]            	| Jay McCure                                                           	|
+| 3    	| Create    	| [Editor]                 	| Jason Zhang                                                   	    |
+| 4    	| Manage    	| [Authentication & Authorization]                 	| Sanad Liaquat                                                        	|
 | 5    	| Manage    	| [Workspace]              	| Valerie Burton                                                        |
 | 6    	| Manage    	| [Compliance]             	| TBH                                                                  	|
 | 7    	| Manage    	| [Import]                 	| Andrejs Cunskis                                                      	|
@@ -49,8 +49,30 @@ Quality Engineering Manager: Ramya Authappan
 (<a href="https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard" target="_blank">Sisense↗</a>)
 <embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: 'Development_Section' , value: 'dev' }]}) %>">
 
+## Bugs Prioritization
+
+As part of the [Cross functional prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization), the SETs or the QEMs (in the absence of a dedicated SET for the product group) prioritise the list of bugs and help in the planning of the upcoming milestone. The [Bug Prioritization Dashoard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) is used for this process.
+
+Please find below the relevant projects/epics/issue boards used by various product groups to plan monthly releases.
+
+| **S.No** | **Group**            | **DRI for Bugs Prioritization** | **Planning Issues**                                                                                                                                                                                                                |
+|----------|----------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | [Source Code]        |  Anastasia McDonald             | [Planning Issue](https://gitlab.com/gitlab-org/create-stage/-/issues/?search=Planning&sort=created_date&state=opened&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20)                                                       |
+| 2        | [Code Review]        | Jay McCure                      | [Planning Issue](https://gitlab.com/gitlab-org/create-stage/-/issues/?search=Planning&sort=created_date&state=opened&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=20)                                                       |
+| 3        | [Editor]             | Jason Zhang                     |      [Planning Issue](https://gitlab.com/gitlab-com/create-stage/editor/-/issues/?sort=created_asc&state=all&label_name%5B%5D=Planning%20Issue&first_page_size=20) |                                                                                                                                     
+| 4        | [Authentication & Authorization]        | Sanad Liaquat                   | [Planning Issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&first_page_size=20) |
+| 5        | [Workspace]          | Valerie Burton                  | [Planning Issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aworkspace&first_page_size=20)                            |
+| 6        | [Compliance]         | Ramya Authappan                 | [Planning Issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Acompliance&first_page_size=20)                           |
+| 7        | [Import]             | Andrejs Cunskis |[Planning Issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aimport&first_page_size=20)              |
+| 8        | [Optimize]           | Ramya Authappan                 | [Planning Issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aoptimize&first_page_size=20)                             |
+| 9       | [Project Management] | Désirée Chevalier               | [Planning Issue](https://gitlab.com/gitlab-org/plan/-/issues/?search=Release%20Planning&sort=created_date&state=opened&label_name%5B%5D=group%3A%3Aproject%20management&first_page_size=20)                                              |
+| 10       | [Product Planning]   | Ramya Authappan                 | [Planning Issue](https://gitlab.com/gitlab-org/plan/-/issues/?search=Release%20Planning&sort=created_date&state=opened&label_name%5B%5D=group%3A%3Aproduct%20planning&first_page_size=20)                                                |
+| 11       | [Certify]            | Ramya Authappan                 | [Planning Issue](https://gitlab.com/gitlab-org/plan/-/issues/?search=Release%20Planning&sort=created_date&state=opened&label_name%5B%5D=group%3A%3Aproduct%20planning&first_page_size=20)                                                |
+| 12       | [Integrations]       | Sean Gregory                    | [Planning Issue](https://gitlab.com/gitlab-org/ecosystem-stage/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aintegrations&first_page_size=20)                        |
+| 13       | [Foundations]        | Ramya Authappan                 | [Planning Issue](https://gitlab.com/gitlab-org/ecosystem-stage/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Afoundations&first_page_size=20)                         |
+
 [Dev section]: /handbook/product/categories/#dev-section
-[Access]: /handbook/product/categories/#access-group
+[Authentication & Authorization]: /handbook/product/categories/#authentication--authorization-group
 [Workspace]: /handbook/product/categories/#workspace-group
 [Compliance]: /handbook/product/categories/#compliance-group
 [Import]: /handbook/product/categories/#import-group
@@ -58,7 +80,6 @@ Quality Engineering Manager: Ramya Authappan
 [Source Code]: /handbook/product/categories/#source-code-group
 [Code Review]: /handbook/product/categories/#code-review-group
 [Editor]: /handbook/product/categories/#editor-group
-[Gitaly]: /handbook/product/categories/#gitaly-group
 [Project Management]: /handbook/product/categories/#project-management-group
 [Product Planning]: /handbook/product/categories/#product-planning-group
 [Certify]: /handbook/product/categories/#certify-group
