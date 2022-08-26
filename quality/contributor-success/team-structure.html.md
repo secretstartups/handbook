@@ -17,8 +17,7 @@ description: Learn about the teams that work on the GitLab Community!
 
 ## Community at GitLab
 
-There's several teams accross various reporting structures that work on making
-the GitLab Community great.
+There's several teams across various reporting structures that work on making the GitLab Community great.
 
 ## Structure
 
@@ -38,4 +37,4 @@ graph TD
 
 ### Community teams
 
-As part of the Contributor Success team charter, we are also going to setup teams of contributors into community teams. This is aimed to have a collective group of contributors that consists of multiple domain expertise (Development, Quality, UX and etc) and that can work as a team together.
+As part of the Contributor Success team charter, we are also going to setup teams of contributors into community teams. The aim is to have a collective group of contributors that consists of multiple domain expertise (Development, Quality, UX, etc.) and that can work together as a team.
