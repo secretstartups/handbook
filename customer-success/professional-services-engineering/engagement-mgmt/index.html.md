@@ -55,3 +55,4 @@ Check out our team of Engagement Managers on our [team page](https://about.gitla
 - [Tracking Professional Services Opportunities](tracking-opps/)
 - [Engagement Scoping Information](scoping-information/)
 - [SOW Creation](sow-processing/)
+- [Quote Creation process for opportunities with both Custom Services and Fixed Price Training on a single SOW](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#creating-a-professional-services-quote-for-scopedcustom-education-or-services)
