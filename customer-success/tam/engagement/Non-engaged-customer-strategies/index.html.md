@@ -23,7 +23,7 @@ The playbook contains the following steps:
    1. We know they are interested in xxx so reach out offering to discuss new feature yyy
    1. Review support tickets and build on any conversation that is happening to offer value
 1. Create Triage Issue If no engagement in step 2
-   1. Escalate via the triage issue: At this point the tracking of engagement strategies will live in the Triage Issue. In this issue, loop in a more senior GitLab resource (decide level based on size of customer with CSM Manager) to reach out to someone on the customer side if still no response after 1 month.  Craft the email and provide any context on business objectives available to the GitLab senior resource.
+   1. [Escalate via the triage issue](/handbook/customer-success/tam/health-score-triage/#gitlab-account-triage-project): At this point the tracking of engagement strategies will live in the Triage Issue. In this issue, loop in a more senior GitLab resource (decide level based on size of customer with TAM Manager) to reach out to someone on the customer side if still no response after 1 month.  Craft the email and provide any context on business objectives available to the GitLab senior resource.
 
 ## Additional strategies to consider
 
