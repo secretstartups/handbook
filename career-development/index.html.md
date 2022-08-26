@@ -164,7 +164,7 @@ For more details on logistics of ending an interim or acting period please refer
   click eng:stf "/job-families/engineering/development/frontend/#staff-frontend-engineer";
 
   eng:fem(Frontend Engineering Manager);
-  click eng:fem "/job-families/engineering/development/frontend/manager";
+  click eng:fem "/job-families/engineering/development/frontend/manager/";
 
   %% backend roles
   eng:jbe(Intern Backend Engineer);
