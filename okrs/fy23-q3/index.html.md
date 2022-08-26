@@ -38,7 +38,7 @@ Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams. Since Al
 1. **CEO KR:** Complete 2 key Fulfillment initiatives to improve systems and data architecture.
 
 ### 2. CEO: Improve user and wider-community engagement
-1. **CEO KR:** Evolve the resident contributor strategy by conducting 5 customer conversations with current “resident contributors” in seat.
+1. **CEO KR:** Complete 10 resident contributor organization workshops.
 1. **CEO KR:** Certify 1,000 team members and 10,000 wider-community members (external people) in MECC (The Workplace OS).
 1. **CEO KR:** Have a successful Level Up launch with 5,000 registrations.
 1. **CEO KR:** Improve key usability through delivering the basic design for addressing one major key cross-product workflow usability deficiency, completing the secure usability benchmarking effort, and resolving 40 S1/S2 SUS-impacting issues.
