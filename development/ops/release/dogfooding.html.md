@@ -30,28 +30,28 @@ project's releases page](https://gitlab.com/gitlab-org/gitlab/-/releases).
 At a high level, the automated release creation process works like this:
 
 1. Product and engineering managers follow the [release post
-   process](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to
-   create `*.yml` files in the [`gitlab-com/www-gitlab-com`
-   repo](https://gitlab.com/gitlab-com/www-gitlab-com) for each new feature that
-   should be announced
-   ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/cd2509aeb941ddd842873b16a733c9b44de67d6b/data/release_posts/unreleased/manage-display-selected-timezone-on-users-profile.yml)).
+    process](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to
+    create `*.yml` files in the [`gitlab-com/www-gitlab-com`
+    repo](https://gitlab.com/gitlab-com/www-gitlab-com) for each new feature that
+    should be announced
+    ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/cd2509aeb941ddd842873b16a733c9b44de67d6b/data/release_posts/unreleased/manage-display-selected-timezone-on-users-profile.yml)).
 1. A [pipeline step in the `gitlab-com/www-gitlab-com`
-   repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/cd2509aeb941ddd842873b16a733c9b44de67d6b/.gitlab-ci.yml#L289)
-   executes the [`update_project_releases_page` rake
-   task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/dee4996288caffa143f7efdc1e4c0f4e4a82097b/lib/tasks/update_gitlab_project_releases_page.rake).
-   1. All `*.yml` files are parsed and rendered as Markdown for use as the
-      description for each release
-   1. A request is made to the appropriate project (either
-      [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab/) or
-      [`gitlab-org/gitlab-foss`](https://gitlab.com/gitlab-org/gitlab-foss/))
-      using the [release REST
-      API](https://docs.gitlab.com/ee/api/releases/#list-releases) to fetch all
-      the existing releases
-   1. Each release generated from the `*.yml` files is compared to the list of
-      existing releases. If the release doesn't yet exist (or if an existing
-      release's content has been changed), the release is created (or updated)
-      using the [release REST
-      API](https://docs.gitlab.com/ee/api/releases/#create-a-release).
+    repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/cd2509aeb941ddd842873b16a733c9b44de67d6b/.gitlab-ci.yml#L289)
+    executes the [`update_project_releases_page` rake
+    task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/dee4996288caffa143f7efdc1e4c0f4e4a82097b/lib/tasks/update_gitlab_project_releases_page.rake).
+    1. All `*.yml` files are parsed and rendered as Markdown for use as the
+        description for each release
+    1. A request is made to the appropriate project (either
+        [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab/) or
+        [`gitlab-org/gitlab-foss`](https://gitlab.com/gitlab-org/gitlab-foss/))
+        using the [release REST
+        API](https://docs.gitlab.com/ee/api/releases/#list-releases) to fetch all
+        the existing releases
+    1. Each release generated from the `*.yml` files is compared to the list of
+        existing releases. If the release doesn't yet exist (or if an existing
+        release's content has been changed), the release is created (or updated)
+        using the [release REST
+        API](https://docs.gitlab.com/ee/api/releases/#create-a-release).
 
 ### FAQ
 
@@ -77,11 +77,11 @@ As of this writing, this process is untested 😕
 If something goes wrong, here are some things to check:
 
 - Ensure the tag exists in the repository and is formatted correctly (e.g.
-  `v14.1.0-ee` for EE, or `v14.1.0` for FOSS)
+    `v14.1.0-ee` for EE, or `v14.1.0` for FOSS)
 - Ensure the group milestone exists in the `gitlab-org` group and is named
-  correctly (e.g. `14.1`)
+    correctly (e.g. `14.1`)
 - Ensure the API token is available as an environment variable named
-  `GITLAB_BOT_TOKEN`
+    `GITLAB_BOT_TOKEN`
 
 Both the tag and milestone must exist _before_ the process attempts to create
 the release.
@@ -92,63 +92,40 @@ succeeding.
 
 ### Testing locally
 
-Local testing can be accomplished using the [Release Dogfooding Test
-Group](https://gitlab.com/gitlab-org/ci-cd/release-group/release-dogfooding-test-group),
-which mimics the structure of the [`gitlab-org`](https://gitlab.com/gitlab-org)
-group. It contains two test projects: [GitLab EE Releases Test
-Project](https://gitlab.com/gitlab-org/ci-cd/release-group/release-dogfooding-test-group/gitlab-ee-releases-test-project),
-which mimics [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab/) and
-[GitLab FOSS Releases Test
-Project](https://gitlab.com/gitlab-org/ci-cd/release-group/release-dogfooding-test-group/gitlab-foss-releases-test-project),
-which mimics
-[`gitlab-org/gitlab-foss`](https://gitlab.com/gitlab-org/gitlab-foss/).
+To test this script locally:
 
-This test group/projects have been pre-populated with the necessary tags and
-milestones for the process to succeed.
-
-To test using these projects:
-
+1. Fork the [GitLab EE project](https://gitlab.com/gitlab-org/gitlab) to your personal namespace.
+1. Fork the [GitLab FOSS project](https://gitlab.com/gitlab-org/gitlab-foss) to your personal namespace
 1. Generate a new [personal access token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#create-a-personal-access-token) with the `api` scope. Alternatively, generate a maintainer project token for each project with the `api` scope.
+1. Set environment variables:
 
-1. Temporarily update `update_gitlab_project_releases_page.rake` to point to
-   these test projects:
+    ```shell
+    export GITLAB_BOT_TOKEN="YOUR TOKEN"
+    export GITLAB_EE_PROJECT_ID="YOUR GITLAB FORK ID"
+    export GITLAB_FOSS_PROJECT_ID="YOUR GITLAB FOSS FORK ID"
+    ```
 
-   ```diff
-   diff --git a/lib/tasks/update_gitlab_project_releases_page.rake b/lib/tasks/update_gitlab_project_releases_page.rake
-   index 08d9c4d70be..4dfade35691 100755
-   --- a/lib/tasks/update_gitlab_project_releases_page.rake
-   +++ b/lib/tasks/update_gitlab_project_releases_page.rake
-   @@ -7,8 +7,13 @@ require "gitlab"
-   require_relative "../../generators/releases"
+1. Populate your projects with necessary milestones:
 
-   namespace :release do
-   -  GITLAB_FOSS_PROJECT_ID = 13083
-   -  GITLAB_EE_PROJECT_ID = 278964
-   +  # GITLAB_FOSS_PROJECT_ID = 13083
-   +  # GITLAB_EE_PROJECT_ID = 278964
-   +
-   +  # TEMP
-   +  GITLAB_FOSS_PROJECT_ID = 28654245
-   +  GITLAB_EE_PROJECT_ID = 28654237
-   +
+    ```shell
+    bundle exec pry
+    ```
 
-      CORE = "core"
-      STARTER = "starter"
-   ```
+    ```ruby
+    require "gitlab"
+    gitlab_client = Gitlab.client(endpoint: "https://gitlab.com/api/v4", private_token: ENV['GITLAB_BOT_TOKEN'])
+    (13..18).each { |major| (0..13).each { |minor| gitlab_client.create_milestone(ENV['GITLAB_EE_PROJECT_ID'], "#{major}.#{minor}") } }
+    (13..18).each { |major| (0..13).each { |minor| gitlab_client.create_milestone(ENV['GITLAB_FOSS_PROJECT_ID'], "#{major}.#{minor}") } }
+    ```
 
-1. Execute the following commands. Replace `<token here>` with the token
-   generated above.
+1. Update the releases pages.
 
-   ```sh
-   # For FOSS
-   GITLAB_BOT_TOKEN=<token here> bundle exec rake release:foss:update_project_releases_page
+    ```sh
+    # For FOSS
+    bundle exec rake release:foss:update_project_releases_page
 
-   # For EE
-   GITLAB_BOT_TOKEN=<token here> bundle exec rake release:ee:update_project_releases_page
-   ```
+    # For EE
+    bundle exec rake release:ee:update_project_releases_page
+    ```
 
-1. Check the two **Releases** pages to see if the process resulted in the correct changes:
-   - [gitlab-ee-releases-test-project](https://gitlab.com/gitlab-org/ci-cd/release-group/release-dogfooding-test-group/gitlab-ee-releases-test-project/-/releases)
-   - [gitlab-foss-releases-test-project](https://gitlab.com/gitlab-org/ci-cd/release-group/release-dogfooding-test-group/gitlab-foss-releases-test-project/-/releases)
-
-1. Before commiting your changes, undo the changes made in step <span>#</span>2.
+1. Check the two **Releases** pages to see if the process resulted in the correct changes on your test projects.
