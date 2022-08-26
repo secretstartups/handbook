@@ -363,6 +363,7 @@ graph LR
 * Automation conditions:
   - The `workflow::ready for review` label was added
   - The MR has the `Community contribution` label set
+  - The MR does not have the `Technical Writing` label set
   - MR has documentation changes
   - No existing note asking for documentation review
 * Automation actions:
@@ -442,6 +443,16 @@ graph LR
   - Posts the contributor feedback note in the `#mr-feedback` Slack channel (internal)
 * Rate limiting: once per requester/MR per day
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb>
+
+#### Resident contributions labeler
+
+* Automation conditions:
+  - MR was opened or updated
+  - The MR does not have the `Resident Contributor` label set
+  - The MR author is a [resident contributor](/handbook/engineering/workflow/code-review/#resident-contributor) based on the data we have on Sisense
+* Automation actions:
+  - Adds the `Resident Contributor` label
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/label_resident_contribution.rb>
 
 #### Hackathon labeler
 
