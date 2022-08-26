@@ -69,13 +69,29 @@ When using the admin panel search, be aware that results will be based on search
 
 We recommend searching by email address, partial email address (e.g. company domain), or company name. When searching by name, enter only first *or* last name.
 
+After your initial search, you can further filter the search results.
+
+In the search results, any account which has a subscription tied to it will have a "Subscription" badge next to their name.
+
 ### Account
 
-#### Adding another account to manage subscription
+#### Edit Account Details
+
+To edit an account's details, such as name.
+
+1. Impersonate the user.
+1. Follow the [user documentation on updating details](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details).
+
+#### Edit SFDC or Zuora account
 
 1. Find existing customer and click on `Edit`.
-1. Copy the Zuora and SFDC IDs.
-1. Paste the IDs into the same fields for the requesting customer.
+1. Edit the SFDC or Zuora ID as needed.
+1. Save.
+
+### View history of account changes
+
+1. Find existing customer.
+1. Click on `History`.
 
 #### GitLab Groups
 
