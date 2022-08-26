@@ -31,9 +31,22 @@ Complement the CEO through being a cross-functional linchpin for GitLab when it 
 ## Contact Us
 * [`#ceo-chief-of-staff-team`][CoST-Slack] on Slack (GitLab Team Members only)
 
+## Current CoST Projects
+
+| Initiative | CoS Team Member | Description | Links |
+| ------ | ------ |------ | ------ |
+| SaaS Free User Efficiency | @ipedowitz | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1) |
+| Resident Contributor Strategy | @epetoskey| Increase number of monthly unique contributors as part of the User Engagement Initiative. | [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880), [User Engagement Initiative](https://gitlab.com/groups/gitlab-com/-/epics/1794#note_1039614259) |
+| Managing so Everyone Can Contribute (MECC) | @dmurph and @jessicareeder | MECC is a new management philosophy to speed up company progress by creating the environment for better decisions and improved execution of them. | [Handbook](https://about.gitlab.com/handbook/mecc/) [Certification](https://levelup.gitlab.com/learn/course/managing-so-everyone-can-contribute-mecc) [MR Label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&state=merged&label_name%5B%5D=MECC)|
+
 ## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
 
+Given the cross-functional nature of the [Top 12 Cross-Functional Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#12-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits. 
+
+The CoST does a quarterly recap summarizing current and completed work. [Q2FY23 CoST Highlights](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cost-monthly-update/-/issues/7)
+
+### Project Criteria
 The CoS to the CEO and their team may work on projects that fit *any combination* of the following:
 * cross-functional projects that need ownership until a maintainer is identified
 * projects that are so broad that they can't live within a function but are too much work for the CEO
