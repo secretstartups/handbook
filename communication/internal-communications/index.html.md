@@ -31,7 +31,7 @@ If your project includes a change with a significant impact on team members,or i
 ### Considerations for a change proposal
 
 1. Consider whether the change subject is [public by default.](/handbook/communication/confidentiality-levels/#not-public)
-1. [Everything should start with a Merge Request](/handbook/communication/#everything-starts-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
+1. [Everything should start with a Merge Request](/handbook/communication/#start-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
 
 ### Things to include when contacting internal communications
 1. Summary of what you are solving for in simple terms, include the **Who** is affected, **What** the change is, **When** you're working to work through this, **Why** the change is being made, and **How** it is anticipated to effect people)
