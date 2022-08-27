@@ -46,12 +46,12 @@ New or updated leads acquired by an [MDF Funded Campaign](https://about.gitlab.c
 
 1. LeanData reviews for a lead to account match to evaluate any existing partner accounts.
 2. LeanData updates the `Prospect Share Status` = `Sending to Partner` and `Partner Propsect Status` = `Qualifying` which enables the lead to be synced into the Vartopia Prospect module. 
-3. LeanData assigns the lead to `Marketo Integration` if Partner Account is `NULL`.
+3. LeanData assigns the lead to `Partner Queue` if Partner Account is `NULL`.
 
 #### Joint events with partners
 New or updates leads who attended a [Joint GitLab and Partner Event](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) are routed based on waterfall LeanData process. 
 
-1. If lead to partner account match is not present, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns the lead to `Marketo Integration` 
+1. If lead to partner account match is not present, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns the lead to `Partner Queue` 
 2. If lead to partner account match is not present and DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status = Sending to Partner`
 3. If lead to partner account match is present and has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData assigns to appropriate SDR
 

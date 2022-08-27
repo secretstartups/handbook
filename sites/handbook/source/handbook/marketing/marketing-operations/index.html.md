@@ -541,3 +541,13 @@ For more information regarding our data deduplication process visit the [Ringlea
 3. All contacts in our SFDC instance get enriched weekly, every Saturday. 
 
 You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
+
+### Cleaning Test Leads
+
+Testing processes and automation are critical for quality assurance in our systems.
+
+As a tester, you create test leads to ensure processes work as expected. These test leads are mixed among real records, causing inaccuracies in our reporting. Marketing Operations has created best practices that make it easier to spot and delete test leads. 
+
+The next time you test a program, remember set `Job Title` = `Test` and they will be removed promptly.
+
+Notice any test leads? Please open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the Marketing Operations team.

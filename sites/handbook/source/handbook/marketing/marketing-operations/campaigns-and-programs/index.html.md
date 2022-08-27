@@ -291,6 +291,7 @@ Any webcast that is hosted and held by GitLab. There are a few different groups 
 - [Campaign webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#campaign-webcasts)
 - [Field Marketing webcasts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
 - [Partner webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
+- [On24 webcasts](/handbook/marketing/marketing-operations/on24)
 
 
 **Bizible:** This is tracked as an _online_ Bizible channel.
@@ -513,6 +514,26 @@ Using an integration from Allocadia > Marketo, Marketo > SFDC, the information y
 Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - `Budgeted Cost` in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly. **Please Note:** `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign. If cost is $0 list `$1` in the `Budgeted Cost` field. There needs to be at least a $1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+
+### Owned Event - Waitlist processing
+If you need to change an event from registration to waitlist, or you want to start off with a waitlist, use these instructions.
+- Confirm that the email copy you would like to use is set-up in the `Confirm - Waitlist` email. This email uses tokens and should be set for you, but you can customize as necessary.
+- Confirm that the {{my.event owner email address}} is completed in the tokens section. The Waitlist program will send an alert to this email address so you know each time someone is added to the waiting list based on this token.
+- Deactivate the `01b Registration` Smart Campaign
+- Activate the `01a Waitlist` Smart Campaign
+- Activate the `01c Waitlist to Registered` Smart Campaign
+You have now activated the waiting list processing. If you need to reactivate Registration, you will deactivate the two Waitlist campaigns, and reactivate `01b Registration`. 
+
+### Owned Event - Moving from Waitlist to Registered
+Use these instructions to move people from the waiting list to Registered.
+- Click on the Marketo program (the name of the campaign)
+- Click on `Members`
+- Change the filter to `Waitlisted`
+- Click on the person/people you would like to move to Registered. They will highlight when they are selected.
+- Click on `Change Status`
+- Select `Registered`
+Once you click `Registered`, the status will change and the `01c Waitlist to Registered` Smart Campaign will send the Registration Confirmation email.
+
 
 ## Steps to Setup in-person Conferences
 

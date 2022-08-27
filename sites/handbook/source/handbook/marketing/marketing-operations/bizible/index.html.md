@@ -132,16 +132,16 @@ The Custom Attribution Model, based on the Machine Learning Algorithm is a livin
 
 To allow for the most up to date weights, the Marketing Operations team does constant refreshes of the Custom Attribution Model. As to have proper documentation, here in the handbook you can see the weight changes made, and when they occured.  
 
-Currently, the custom machine learning model has the following weights for each stage (updated April 18th 2022): 
+Currently, the custom machine learning model has the following weights for each stage (updated July 15th 2022): 
 
-- **First Touch** - 22.7%
-- **Lead Creation** - 23%
-- **Opportunity Creation** - 16.5%
-- **SAO** - 10.3%
-- **Closed (Lost, Won)** - 17.5%
+- **First Touch** - 18.9%
+- **Lead Creation** - 18.7%
+- **Opportunity Creation** - 18.2%
+- **SAO** - 12%
+- **Closed (Lost, Won)** - 22.2%
 - **Middle Touches** - 10.0%
 
-The custom model weights, get updated every 3 months, on the third Friday (starting April 15th 2022). The previous weights can be seen [here](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 
+The custom model weights, is scheduled to be updated on a yearly basis, at the end of the FY (first week into the new FY). The previous weights can be seen [here](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 
 
 #### How GitLab Calculates Linear Attribution IACV
 Here is an example of how we calculate linear IACV:    
