@@ -91,3 +91,5 @@ Note that [reseller customers will not have access to customers.gitlab.com](http
 1. Customer cannot purchase because the `Address`, `City`, and `Postal code` have invalid information:
    - [ZenDesk 167403](https://gitlab.zendesk.com/agent/tickets/167403)
    - [Sentry Event log](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/1211792/events/32521404/)
+1. Customer cannot purchase CI minutes because `State` was not provided in CustomersDot:
+   - [Zendesk 318385](https://gitlab.zendesk.com/agent/tickets/318385)
