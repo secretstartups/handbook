@@ -23,7 +23,8 @@ This job family represents the Product Operations function within the Product Di
 # Requirements
 
 - Ability to use GitLab
-- Share our valuesand work in accordance with those values
+- Proficient at all product manager [base requirements](https://about.gitlab.com/job-families/product/product-manager/#base-requirements-across-all-levels)
+- Share our values and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Comfortable with fast-pace and rapid iteration
 - Experience with contributing to Product Operations (either formally or informally) at organizations of various sizes
@@ -73,6 +74,8 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
    - Can use the GitLab application including issues and merge requests (ability to maintain, debug, and setup pipelines is preferred)
    - Comfortable with using the command line and command line applications (shell, git, homebrew, asdf or other version manager)
    - Comfortable with using a text editor of your choice (e.g., vim, emacs, VS Code, SublimeText, Textmate)
+- Excellent verbal and written communication skills
+- Excellent organizational skills and ability to manage competing priorities
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
 
@@ -120,7 +123,7 @@ As the Group Manager, Product Operations, you will be deeply passionate and know
 - Ability to partner with and align with stakeholders across the business such as marketing, Support, Sales and Customer Success
 - Experience in companies that employ modern product management & software development techniques
 - Ability to make decisions based on combined qualitiative and quantitative data
-- Excellent verbal and written communication skills
+- Exceptional verbal and written communication skills
 - Exceptional organizational skills and ability to manage competing priorities
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
