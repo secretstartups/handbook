@@ -160,4 +160,11 @@ For example, work to enable a sales partner that will not be incorporated into t
 | Sales | [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/) |
 | Professional Services | [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/) |
 | Marketing | [Marketing Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/) |
-| G & A | Ellen Boyd and Christine Machado |
+| G & A | Ellen Boyd and Jess Smith |
+
+### Types of Work that the team does
+
+1. Level 1: Keeping the lights on activity. Always striving to make this area as efficient as possible so more Layer 2 focus can be attained. Example: closing the books.
+1. Level 2: Operational Efficiencies, Business Engagement and Partnering, actionable insights for the organization. Examples: improving close process, partnering with sales to make a business decision
+
+
