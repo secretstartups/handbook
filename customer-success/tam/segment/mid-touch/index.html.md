@@ -22,7 +22,7 @@ For more information about the Growth team's regions and books of business, plea
 
 Growth accounts have their own unique lifecycle journey to ensure they reach their full return on investment and can scalably grow and expand.
 
-![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_tam.png)
+![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
 ### Align and Onboard
 
