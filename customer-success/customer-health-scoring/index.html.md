@@ -31,9 +31,15 @@ Product usage data informs three different scores. They each have a distinct and
 
 ### Platform Value Score
 - **Audience**: Internal GitLab Teams
-- **Purpose**: Each account will have a single Platform Value Score (PVS) used to understand how much value the account is currently receiving from Gitlab as a Platform.
-- **Metrics**: 5–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score. 
+- **Purpose**: Each customer will have a single Platform Value Score used to understand how much value the customer is currently receiving from Gitlab as a Platform.
+- **Metrics**: 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score. 
 - NOTE: No handbook page available yet as this is a work in progress in FY23-Q3.
+
+### Use Case Adoption Scorecards
+- **Audience**: Internal GitLab Teams **and** customers
+- **Purpose**: Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement.
+- **Metrics**: 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption.
+- [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/)
 
 ### DevOps Score 
 - **Audience**: GitLab customers
