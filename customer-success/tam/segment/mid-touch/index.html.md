@@ -204,9 +204,8 @@ The [Cockpit](/handbook/customer-success/tam/gainsight/ctas/#cockpit) houses all
 1. At the top right where it says `Due Date`, click the dropdown and select `Type`.
    - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](/handbook/customer-success/tam/gainsight/ctas/#types-of-ctas).
    - In your Cockpit, you'll now have categories where CTAs are automatically sorted into.
-       -`Activity` will show:
+      - `Activity` will show:
           - Any action items (`to-do`) you add to timeline entries
-          - Stale CSM Sentiment CTAs, notifying you that there has not been a CSM Sentiment update within the past 90 days. Once you've updated the sentiment, close this CTA.
           - Account handoff CTAs
           - Responses to the All-Customer survey, notifying you to action them and thank your customers.
       - `Lifecycle` will show:
