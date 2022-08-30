@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Technical Account Management Handbook"
-description: "The Technical Account Management team at GitLab is a part of the Customer Success department, acting as trusted advisors to our customers and helping them realize value faster."
+title: "Customer Success Management Handbook"
+description: "The Customer Success Management team at GitLab is a part of the Customer Success department, acting as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -18,14 +18,14 @@ description: "The Technical Account Management team at GitLab is a part of the C
 
 ## Mission Statement
 
-Aligning passionate TAMs with customers to ensure their success by...  
+Aligning passionate CSMs with customers to ensure their success by...  
 - Driving progress aligned with their business outcomes
 - Identifying and enabling the customer in their current and future GitLab use cases
 - Expanding ROI with GitLab  
 
-## What is a Technical Account Manager/Customer Success Manager (TAM/CSM) at GitLab?
+## What is a Customer Success Manager (CSM) at GitLab?
 
-TAMs/CSMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a TAM/CSM: 
+CSMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a CSM: 
 
 - **Customer Adoption -**  Ensure the customer is working towards or adopting their desired use cases to maturity. Ensure the successful onboarding of all intended users. Identify areas of adoption risk and establish mitigating plays and programs. 
 - **Delivering Positive Business Outcomes -** Ensure customers are meeting and exceeding their desired business outcomes so that customers can quantify and support their investment.
@@ -35,23 +35,23 @@ TAMs/CSMs are accountable for customer adoption, measurable outcomes, customer s
 
 ## Responsibilities and Services
 
-Please reference this page for an overview of the areas your TAM will engage with you in: [TAM Points of Engagement](https://about.gitlab.com/handbook/customer-success/tam/services/)
+Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](https://about.gitlab.com/handbook/customer-success/tam/services/)
 
 ## FY23 Goals (Big Rocks)
 **Objective:**  Define the 3 ‘big rocks’ to take on in FY23 with the overall goal of moving our team forwards.  These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
 
 **What are 'big rocks'?**  
-As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through TAM leadership discussions and final input from individual contributors.
+As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through CSM leadership discussions and final input from individual contributors.
 
-### Big Rock 1: (Re)Define the TAM Role
+### Big Rock 1: (Re)Define the CSM Role
 [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/77) (GitLab Internal-Only)
 
-The goal of the TAM is to drive growth. However, the role of the TAM has become increasingly broad over the past few years, deterring from the growth conversation with customers.  As we have added more to the role (migration & infrastructure guidance, cross-functional escalation ownership, consultative support), the ability to focus as a TAM on growth has become increasingly challenging. 
+The goal of the CSM is to drive growth. However, the role of the CSM has become increasingly broad over the past few years, deterring from the growth conversation with customers.  As we have added more to the role (migration & infrastructure guidance, cross-functional escalation ownership, consultative support), the ability to focus as a CSM on growth has become increasingly challenging. 
 
-To continue to build a scalable TAM team focused on excellent customer experience and driving customer growth, we need to refine the role of the TAM.  This initiative will include what a TAM is and what a TAM is not.  
+To continue to build a scalable CSM team focused on excellent customer experience and driving customer growth, we need to refine the role of the CSM.  This initiative will include what a CSM is and what a CSM is not.  
 
 Key areas of exploration:
-1. Definition by TAM segment: High-touch, Mid-touch, Scale
+1. Definition by CSM segment: High-touch, Mid-touch, Scale
 1. Reducing overlap: Looping in of support/timing
 1. Infrastructure conversations and ownership
 1. Escalation improvements; streamlining
@@ -72,7 +72,7 @@ Key areas of exploration:
 ### Big Rock 3: Deepen our customer engagement
 [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/79) (GitLab Internal-Only)
 
-The TAM relationship with the customer has been architected primarily on engagement with GitLab admins, who are not responsible for platform adoption or business case value.  Due to the TAM being pigeon-holed into these admin conversations, we are often not engaging with the right people in order to ensure excellent customer experience, use case adoption and growth.  In FY23 we will seek to engage the development team leads and key users of the GitLab platform early and often, to ensure consistent growth strategies with our customers. 
+The CSM relationship with the customer has been architected primarily on engagement with GitLab admins, who are not responsible for platform adoption or business case value.  Due to the CSM being pigeon-holed into these admin conversations, we are often not engaging with the right people in order to ensure excellent customer experience, use case adoption and growth.  In FY23 we will seek to engage the development team leads and key users of the GitLab platform early and often, to ensure consistent growth strategies with our customers. 
 
 Key areas of exploration: 
 1. Expectation setting: from presales
@@ -84,33 +84,33 @@ Key areas of exploration:
 
 ## Handbook Directory
 
-[TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
+[CSM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
-### TAM Learning & Development
+### CSM Learning & Development
 
 - [Overview of available resources, training plans & career paths](https://about.gitlab.com/handbook/customer-success/tam/tam-development/)
 
-### TAM Responsibilities
+### CSM Responsibilities
 
-- [TAM Onboarding](/handbook/customer-success/tam/tam-onboarding/)
-- [TAM Rhythm of Business](/handbook/customer-success/tam/rhythm/)
+- [CSM Onboarding](/handbook/customer-success/tam/tam-onboarding/)
+- [CSM Rhythm of Business](/handbook/customer-success/tam/rhythm/)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
-- [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
-- [TAM and Product Interaction](/handbook/customer-success/tam/product/)
-- [TAM and Professional Services Interaction](https://about.gitlab.com/handbook/customer-success/tam/engaging-with-ps/)
-- [TAM and Support Interaction](/handbook/customer-success/tam/support/)
-- [TAM and Partner Interaction](/handbook/customer-success/tam/engaging-with-partners/)
+- [CSM Responsibilities and Services](/handbook/customer-success/tam/services/)
+- [CSM and Product Interaction](/handbook/customer-success/tam/product/)
+- [CSM and Professional Services Interaction](https://about.gitlab.com/handbook/customer-success/tam/engaging-with-ps/)
+- [CSM and Support Interaction](/handbook/customer-success/tam/support/)
+- [CSM and Partner Interaction](/handbook/customer-success/tam/engaging-with-partners/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
   *  [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/tam/escalations/infrastructure/)
-- [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
-- [TAM Roleplay Scenarios](/handbook/customer-success/tam/roleplays/)
-- [TAM Retrospectives](/handbook/customer-success/tam/retrospectives/)
-- [TAM PTO Guidelines](/handbook/customer-success/tam/pto/)
-- [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
+- [CSM-to-CSM Account Handoff](/handbook/customer-success/tam/account-handoff/)
+- [CSM Roleplay Scenarios](/handbook/customer-success/tam/roleplays/)
+- [CSM Retrospectives](/handbook/customer-success/tam/retrospectives/)
+- [CSM PTO Guidelines](/handbook/customer-success/tam/pto/)
+- [CSM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
 ### Customer Journey
 
-##### TAM-Assigned:
+##### CSM-Assigned:
 
 - [Transitioning a Customer from Pre-Sales to Post-Sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/)
 - [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
@@ -137,20 +137,20 @@ Key areas of exploration:
 ##### Digital Customer Programs:
 
 - [Digital Customer Programs Handbook Page](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-  * [TAM Assigned Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#tam-assigned-account-programs)
+  * [CSM Assigned Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#tam-assigned-account-programs)
 
 
-### TAM Managers
+### CSM Managers
 
-- [TAM Manager Processes and TAM Leadership Team](/handbook/customer-success/tam/tam-manager/)
-- [TAM Manager QBR Template](https://docs.google.com/presentation/d/1M18LeKTrzTIKNgl3Y_URC3z9xBUNUtPRJFiWXaEUuzM/edit?usp=sharing) (GitLab Internal)
-- [TAM Promotion Template](https://docs.google.com/document/d/1UOcfUtrseaucIbnFmJkL8XsQwz4xKfj0IQcYbcRGSvI/edit) (GitLab Internal)
+- [CSM Manager Processes and CSM Leadership Team](/handbook/customer-success/tam/tam-manager/)
+- [CSM Manager QBR Template](https://docs.google.com/presentation/d/1M18LeKTrzTIKNgl3Y_URC3z9xBUNUtPRJFiWXaEUuzM/edit?usp=sharing) (GitLab Internal)
+- [CSM Promotion Template](https://docs.google.com/document/d/1UOcfUtrseaucIbnFmJkL8XsQwz4xKfj0IQcYbcRGSvI/edit) (GitLab Internal)
 
 
 - - -
 
 
-## TAM Tools
+## CSM Tools
 
 The following articulates where collaboration and customer management is owned:
 
@@ -164,17 +164,17 @@ The following articulates where collaboration and customer management is owned:
 
 ### Education and Enablement
 
-As a Technical Account Manager, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+In Customer Success Management, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ## SFDC useful reports 
 
 ### Tracking opportunities for your assigned Strategic Account Leader (SALs)
 
-To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
+To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since CSM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 
 Next steps for you:
 
-1. Customize [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) where “Account Owner = your SALs”; “TAM = You”
+1. Customize [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) where “Account Owner = your SALs”; “CSM = You”
 1. Save report
 1. Subscribe to report when “Record Count Greater Than 0” and Frequency = Weekly (You’ll get a weekly email as a reminder to look at the report)
 1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example(https://about.gitlab.com/handbook/customer-success/tam/#tam-tools)])

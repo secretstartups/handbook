@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Webinar Calendar"
+title: "CSM/CSE Webinar Calendar"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,7 +8,7 @@ title: "TAM Webinar Calendar"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM/CSE-related handbook pages.
 
 Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 

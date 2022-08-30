@@ -8,7 +8,7 @@ title: "Scale CSE Operating Rhythm"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM/CSE-related handbook pages.
 
 ---
 
@@ -74,7 +74,7 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
 
 ## Scale Engagement Request Process
 
-Account owners (AEs, SALs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to track ad-hoc engagement requests through the [Scale Engagement Request](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request) GitLab project to help qualify the engagement and help the CSE prepare for a productive conversation with the customer.
+Account owners (AEs, SALs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to track ad-hoc engagement requests through the [Scale Engagement Request](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request) GitLab project to help qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
 ### Requesting Scale CSE Engagement (Account Owners only - AEs, SALs)
 
@@ -89,7 +89,7 @@ To make a request, [open an issue](https://gitlab.com/gitlab-com/customer-succes
 
 Once a template has been selected, please populate the description with as much information as possible to help the Scale CSE team qualify the request, and prepare for engagement. Selecting the appropriate template will automatically assign to the covering CSE for that segmentation and region. The CSE will let you know if the engagement is accepted and if they have any follow-up questions.
 
-- For more information about the scope and qualifications for Scale CSE engagement, refer to [Scale TAM: Qualifications/Scope Document for Scale TAM Engagement](https://docs.google.com/document/d/1UVUPVTpEd3uYN8X1a_-LgB0GVY3fW6Y-S8sXfh-W65M/edit#)
+- For more information about the scope and qualifications for Scale CSE engagement, refer to [Scale CSM: Qualifications/Scope Document for Scale CSM Engagement](https://docs.google.com/document/d/1UVUPVTpEd3uYN8X1a_-LgB0GVY3fW6Y-S8sXfh-W65M/edit#)
 
 Once the engagement has completed, the CSE will mark the issue as closed
 
@@ -103,11 +103,11 @@ When a CSE has accepted a Scale CSE engagement request, the CSE must then create
    - Type: Digital Journey
    - Reason: Other Digital Journey Reason
    - Priority: (select the most appropriate type based on the request)
-   - Playbook: One-Off Scale TAM Outreach
+   - Playbook: One-Off Scale CSM Outreach
 
 Once the call is complete, the call must be [logged as an activity](/handbook/customer-success/tam/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
 
-The CSE should then prepare a follow-up email to be sent to the customer through the email-assist in the task: `Follow Up Email Post One-off Scale TAM Outreach Call Completion`
+The CSE should then prepare a follow-up email to be sent to the customer through the email-assist in the task: `Follow Up Email Post One-off Scale CSM Outreach Call Completion`
 
 This ensures that a CSAT survey is deployed to the recipients of the email.
 

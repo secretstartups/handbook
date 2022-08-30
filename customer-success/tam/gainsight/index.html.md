@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Gainsight as a TAM"
-description: "The key aspects of how Technical Account Managers use Gainsight to drive success for customers."
+title: "Using Gainsight as a CSM"
+description: "The key aspects of how Customer Success Managers use Gainsight to drive success for customers."
 ---
 
 ## On this page
@@ -12,13 +12,13 @@ description: "The key aspects of how Technical Account Managers use Gainsight to
 
 *For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
-## Gainsight for Technical Account Managers
+## Gainsight for Customer Success Managers
 
-TAMs use Gainsight for a multitude of purposes, including logging their customer calls, updating their call-to-actions (CTAs), updating success plans, and gaining insights on their customer’s product usage data.
+CSMs use Gainsight for a multitude of purposes, including logging their customer calls, updating their call-to-actions (CTAs), updating success plans, and gaining insights on their customer’s product usage data.
 
-One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) (internal-only) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
+One of our CSMs created an [8 minute video](https://youtu.be/yk95b6u26So) (internal-only) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
-The table below represents the steps a TAM would typically take in Gainsight. Please reference each handbook page for further information. 
+The table below represents the steps a CSM would typically take in Gainsight. Please reference each handbook page for further information. 
 
 #### Overview 
 - [Using Gainsight at GitLab](/handbook/sales/gainsight/)
@@ -41,7 +41,7 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 #### Calls to Action
 - [Calls to Action (CTAs)](/handbook/customer-success/tam/gainsight/ctas/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/#ebrs-in-gainsight)
-- [Account Handoff TAM-to-TAM Checklist](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+- [Account Handoff CSM-to-CSM Checklist](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/#timeframe)
 - [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/tam/renewals/#at-risk-process)
 
@@ -92,7 +92,7 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 - [Gainsight Foundations](https://education.gainsight.com/gainsight-foundations-nxt-fka-101)
 - [Gainsight Enablement 1](https://youtu.be/PL9shBdCMmo): health score, call logging, and creating a success plan
 - [Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Qad4&feature=youtu.be)
-- [Gainsight TAM Dashboard and Customer 360](https://www.youtube.com/watch?v=01IhQpSN2us&feature=youtu.be)
+- [Gainsight CSM Dashboard and Customer 360](https://www.youtube.com/watch?v=01IhQpSN2us&feature=youtu.be)
 - [Gainsight Assist Gmail Plugin](https://www.youtube.com/watch?v=7_gPQv-CHHA&feature=youtu.be)
 - [Gainsight Account Triage](https://drive.google.com/file/d/1-jM7j-tpY3kC6kZR4xjXS8iUPrkoBrn9/view)
 - [Executive Business Reviews with Gainsight](https://www.youtube.com/watch?v=LE1aNw4OiHw&feature=youtu.be)
@@ -116,11 +116,11 @@ When updating account information, be sure that you select the correct account. 
 
 ### Emails
 
-Gainsight offers a semi-automated email feature called Email Assist, which is accessible to TAMs using Calls to action in the Cockpit. We recommend using Email Assist tasks when TAMs need more control over the scheduling and content of the email. A TAM will select the individual contacts to send the email to, and the email contents can be customized as needed.
+Gainsight offers a semi-automated email feature called Email Assist, which is accessible to CSMs using Calls to action in the Cockpit. We recommend using Email Assist tasks when CSMs need more control over the scheduling and content of the email. A CSM will select the individual contacts to send the email to, and the email contents can be customized as needed.
 
 A full list of available emails can be found in a GitLab-only [Google Doc](https://docs.google.com/document/d/1NSxAH_CynFMeHUo05_N_bsh0ZRg1xyV69174l15zYaI/edit?usp=sharing). In the future, we'll move this information to a GitLab project.
 
-TAMs can send these emails to customers in one of two ways:
+CSMs can send these emails to customers in one of two ways:
 
 **1. Directly in Gainsight**: To send an email directly from Gainsight, create a basic CTA for the customer with the email subject/purpose. Once it's opened, click on the CTA, click the three vertical dots at the top right, then click "Send Email". Then choose the appropriate email template from the dropdown and fill in the recipient's email address and send.
 
@@ -130,7 +130,7 @@ Please note we recommend [BCCing Salesforce](/handbook/customer-success/using-sa
 
 ## Salesforce and Zendesk syncing
 
-Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so TAMs can view customer support tickets within Gainsight.
+Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so CSMs can view customer support tickets within Gainsight.
 
 **Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours (based on "Call" or "Meeting" [activity type](/handbook/customer-success/tam/gainsight/timeline/)).
 
@@ -142,7 +142,7 @@ For information on how we manage the backend data for Gainsight, please see our 
 
 ### Updating fields
 
-The `TAM Name` field in Gainsight indicates which TAM owns a specific account, and determines which accounts will appear for a TAM on dashboards, etc. This field syncs to the `Technical Account Manager` field in Salesforce. It can only be edited in Gainsight, and any changes to the field in Gainsight will sync over to Salesforce within one minute. If you see any discrepancies between these two fields in the two systems, please report to the CS Ops team.
+The `CSM Name` field in Gainsight indicates which CSM owns a specific account, and determines which accounts will appear for a CSM on dashboards, etc. This field syncs to the `Customer Success Manager` field in Salesforce. It can only be edited in Gainsight, and any changes to the field in Gainsight will sync over to Salesforce within one minute. If you see any discrepancies between these two fields in the two systems, please report to the CS Ops team.
 
 `Account Owner`, `Solutions Architect`, `Renewal Date`, `ARR`, subscription and opportunity info, etc. are all updated in Salesforce and synced to Gainsight on a daily basis.
 

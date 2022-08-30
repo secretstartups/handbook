@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: TAM Segments
+title: CSM Segments
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,17 +8,17 @@ title: TAM Segments
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ---
 
 ## Overview
 
-The Technical Account Manager organization is distributed across different customer segments, based on customer size and Annual Recurring Revenue.
+The Customer Success Manager organization is distributed across different customer segments, based on customer size and Annual Recurring Revenue.
 
 ## Segment criteria
 
-Segment criteria are [defined in the Technical Account Manager wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments).
+Segment criteria are [defined in the Customer Success Manager wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/tam-segments).
 
 ## Segments
 
