@@ -11,7 +11,7 @@ The Manager, Data reports to the [Director/Senior Director, Data and Analytics](
 
 ### Manager, Data (Intermediate)
 
-The Manager, Data reports to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
+The Manager, Data may report to the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) or to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
 
 #### Job Grade
 
@@ -34,6 +34,8 @@ The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensati
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 * Share [our values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 * 5+ years hands on experience in a data analytics/engineering/science role
+* 2+ years hands on experience performing quantitative analysis to tackle business problems with a focus on feature and usage metrics to increase conversion and retention OR reporting for key business metrics, including revenue, sales metrics, and customer metrics
+* 1+ years hands on experience creating dimensional models composed of facts and dimensions
 * 1+ years leading or managing a team of 3 or more data analysts/engineers/scientists
 * Demonstrate ability to understand and communicate end-to-end data systems: from compute to ETL to Reporting to Analysis
 * Exceptional experience creating and developing partnerships with internal team members towards delivery of impactful analytics solutions
