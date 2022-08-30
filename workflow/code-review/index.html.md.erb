@@ -65,8 +65,9 @@ Communication happens easier when you are familiar with the person reviewing the
 
 Interested reviewers should check in regularly with their manager to discuss progress towards maintainership and review any recent detailed reviews, for example during their 1-on-1s. Reviewers are encouraged to also seek out a [maintainer mentor](#reviewer-mentorship-program) for further perspective on their reviews. Reviewers are encouraged to think of their eligibility for maintainership in the terms of "I could be ready at any time to be a maintainer as long as it is justified".
 
-At any time, the manager, mentor, or reviewer may choose to open a merge request adding the reviewer as a maintainer. This merge request should have a justification as to why the reviewer should become a maintainer.
+After each review is complete, the reviewer should write up a justification about why they believe the merge request is ready to merge. This justification is then reviewed by the maintainer and if the maintainer agrees with the justification they should add a 👍 reaction to the comment, even if they have additional non-blocking comments. The maintainer should leave a comment highlighting any blocking concerns that were missed in the initial review.
 
+At any time, the manager/mentor may choose to open a merge request, adding the reviewer as a maintainer. This merge request should have a justification from the manager as to why the reviewer should become a maintainer. You are also welcome to open this merge request yourself at any time.
 
 Before opening the merge request, the reviewer should:
 
@@ -75,7 +76,6 @@ Before opening the merge request, the reviewer should:
 
 Before merging, the manager should:
 
-1. Approve the merge request if it was opened by someone other than the manager.
 1. Mention the maintainers from the given specialty and ask them to provide feedback to the manager directly.
 1. Leave the merge request open for 1 week, to give the maintainers time to provide feedback to the manager.
 1. Have at least 2 approvals from existing maintainers.
@@ -100,7 +100,6 @@ While any reviewer may be recommended by their manager to become a maintainer at
 
 Create a merge request and indicate your role as a `project-name: reviewer` or `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). Assign MR to your manager for merge.
 
-
 After each review, reviewers should summarize why they believe a merge request is ready to be merged:
 
 For example:
@@ -118,34 +117,33 @@ Some reviewers find it helpful to track their progress. This is not required, bu
   - https://gitlab.com/arturoherrero/trainee
 - Use an emoji to mark all MRs they received feedback from maintainers on so they are easily searchable.
 
-#### Trainee maintainer mentorship pilot program
+### Reviewer mentorship program
 
 Training and onboarding new maintainers is an important process. As the engineering team grows and the total number of MRs rapidly expands, the number of MR reviews per maintainer quickly becomes unsustainable.
 
 [Recent research](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8504) has shown that the trainee process for new maintainers is hindered by several key factors:
 
-- Trainees self-perceived readiness and confidence
-- Trainees ability to review a substantial quantity of MRs
-- Trainees ability to review a diversity of MRs covering enough breadth across the codebase
+- Reviewers self-perceived readiness and confidence
+- Reviewers ability to review a substantial quantity of MRs
+- Reviewers ability to review a diversity of MRs covering enough breadth across the codebase
 
-Structure
+#### Structure
 
-1. Participation is voluntary for both Maintainers and Trainees.
-1. Maintainers may directly mentor up to 4 Trainees at a time.
-1. Mentor / Trainee assignments are coordinated within a [maintainer_mentorship.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/maintainer_mentorship.yml) file.
-1. New Trainees need to locate an existing Maintainer that has an opening available in [maintainer_mentorship.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/maintainer_mentorship.yml) and contact the Maintainer directly.
-1. Trainees and mentors can join the `#trainee_maintainers` Slack channel to discuss the program or ask questions.
-1. Every 6 weeks the Maintainer will check-in with each Trainee. This could happen async or via Coffee chat.
+1. Participation is voluntary for both maintainers and reviewers.
+1. Maintainers may directly mentor up to 4 reviewers at a time.
+1. Mentor / reviewer assignments are coordinated within a [maintainer_mentorship.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/maintainer_mentorship.yml) file.
+1. Reviewers and mentors can join the `#trainee_maintainers` Slack channel to discuss the program or ask questions.
+1. Every 6 weeks the maintainer will check-in with each reviewer. This could happen async or via Coffee chat.
 1. The goal of the checkin is to: review MRs, answer questions, clarify any doubts, and track readiness toward graduating.
-1. Mentorship is capped at 12 months by which the Trainee should be prepared to graduate.
-1. At least 1 additional check-in should be scheduled once the Trainee has graduated to celebrate the achievement and answer any further questions.
-1. Make sure to remove the graduated Trainee to make space for new Trainees.
+1. Mentorship is capped at 12 months by which the reviewer should be prepared to graduate.
+1. At least 1 additional check-in should be scheduled once the reviewer has graduated to celebrate the achievement and answer any further questions.
+1. Make sure to remove graduated reviewers from the [maintainer_mentorship.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/maintainer_mentorship.yml) file to make space for new mentees.
 
-Benefits
+#### Benefits
 
 1. It develops and expands mentorship skills among maintainers
-1. Gives trainees a regular touch point for skilling-up in deficient areas
-1. Creates stronger networks amongst trainees/maintainers than currently exists
+1. Gives reviewers a regular touch point for skilling-up in deficient areas
+1. Creates stronger networks amongst reviewers/maintainers than currently exists
 1. Mentoring directly under a maintainer should catalyze more competence and confidence in taking ownership of the GitLab codebase.
 
 #### After becoming a maintainer
