@@ -109,7 +109,7 @@ To optimize productivity, GitLab field team members must be able to consistently
 
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
-| GitLab Sales Plays | - [Sales Play: GitLab Runner & CI](https://youtu.be/dzu7SojmPYo) (Feb 2022, 30 minutes) <br>- [Sales Play: Infrastructure Automation with GitOps](https://youtu.be/aXg3zGg54sg) (May 2021, 30 minutes) <br> - [GitLab Premium to GitLab Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8) (Apr 2021, 25 minutes)|
+| GitLab Sales Plays | - [FY23-Q3 Revenue Play: Winning with Ultimate](https://youtu.be/nBV-_LrTqKQ) (Aug 2022, 17 minutes) <br>- [Sales Play: GitLab Runner & CI](https://youtu.be/dzu7SojmPYo) (Feb 2022, 30 minutes) <br>- [Sales Play: Infrastructure Automation with GitOps](https://youtu.be/aXg3zGg54sg) (May 2021, 30 minutes) <br> - [GitLab Premium to GitLab Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8) (Apr 2021, 25 minutes)|
 | Qualification Best Practices | - [Figuring out if you truly have an opportunity](https://youtu.be/S2MpIS18noM) (Dec 2020, 25 minutes)|
 | What are the critical skills and behaviors needed to succeed in a field role at GitLab? | - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) |
 | What is social selling? | - [Social Selling Handbook page](/handbook/sales/training/social-selling/)<br>- [Social Selling Basics presentation](https://docs.google.com/presentation/d/1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A/edit?usp=sharing) |
