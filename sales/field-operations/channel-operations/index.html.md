@@ -29,7 +29,29 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Aura Villalobos - Partner Operations Analyst
 - Nick Scala - Director, Channel Operations
 - Bhano Pippala - Channel Operations Specialist
+- Jeff Cho - Channel Operations Specialist
+- Morgan Fuller - Channel Operations Specialist
+- Nikhil Mordia - Channel Operations Specialist
 - Marcella Summers - Manager, Alliance Operations
+
+### Department Responsiblities
+
+#### Alliance Operations (Marcella)
+- Provide operational support and enablement to our [Alliances team](https://about.gitlab.com/handbook/alliances/) focusing on improving efficiency, effectiveness, and productivity
+- Onboard new alliance partners, develop and document quote-to-cash processes and best practices
+- Collaborate with our alliance partners, marketplace vendors, and internal departments to create systems integrations that support marketplace transactions
+
+#### Channel Operations (Nick, Bhano, Jeff, Morgan, Nikhil)
+- Develop, manage, and improve operational processes for the Channel (Distributor and Reseller) sales organization
+- Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g., opportunities, quotes and orders, pricebooks, reporting)
+
+Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreadsheets/d/1kzlowacL9c5bh3C5lN2FWVA9gFO8RXf2OmFg8qmd69E/edit?usp=sharing) for details on Channel Operations Specialist alignment by Geo, Channel Sales Director, and Distributor.
+
+#### Partner Operations (Niles, Aura, Dennis)
+- Operationalize process changes for the partner organizaition (Channel and Alliances)
+- Translate business requirements to technical deliverables, test deliverables in staging environments, deploy changes and communicate process changes to the broader field team
+- Oversee compensation close cycles, SSOT reporting and process automation
+
 
 ### How to Contact Us
 The **#channel-programs-ops** Slack channel can be leveraged for inquiries. Both the Channel Operations Team and the Channel Programs Team monitor this slack channel.
