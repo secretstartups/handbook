@@ -114,7 +114,6 @@ and improving the success rate of working groups in their current form first.
 | Member                   | Grzegorz Bizon | Principal Backend Engineer |
 | Member                   | Lucas Charles | Staff Backend Engineer, Sec::Static Analysis |
 | Member                   | João Pereira | Staff Backend Engineer, Package |
-| Member                   | Chad Woolley | Senior Engineer, Editor |
 | Member                   | Natalia Tepluhina | Staff Frontend Engineer, Plan |
 
 
