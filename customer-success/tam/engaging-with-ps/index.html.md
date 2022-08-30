@@ -16,7 +16,7 @@ description: "Guidelines for CSMs on how best to enagage with professional servi
 The following outlines the steps/means for a CSM to engage with Professional Services throughout a PS engagement with an existing customer.  Once a project is closed-won in Salesforce, PS Ops engages with the customer to [establish the key project criteria](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/#initiate).  Once this criteria is received, the project manager is assigned.  The following steps are completed by the project manager:
 
 1. Invites CSM to internal PS kick-off meeting (PSE, PM, CSM)
-1. Invites CSM to Account Team (Sales) to PS hand-off meeting
+1. Invites CSM to Account Team (Sales) to PS transition meeting
 1. Invites CSM to customer kick-off meeting
 1. Invites CSM to join standups (weekly, daily, etc)
 1. Invites CSM to PS slack channel
