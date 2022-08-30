@@ -104,6 +104,8 @@ The Observability team is involved in the introduction of several new technologi
 
 The [GitLab Monitor Stage Product Direction Handbook Page](/direction/monitor/#gitlab--opstrace--on-by-default-observability) has information about the product strategy for integrating GitLab and Opstrace.
 
+We also encourage you to read our [architecture documentation](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/docs/architecture).
+
 ### ClickHouse Datastore
 
 Observability and analytics features have big data and insert heavy requirements which are not a good fit for Postgres or Redis.  [ClickHouse](https://github.com/ClickHouse/ClickHouse) was selected as a good fit to meet these features requirements.  ClickHouse is an open-source column-oriented database management system. It is attractive for these use cases because it can efficiently filter, aggregate, and sum across large numbers of rows. ClickHouse is not intended to replace Postgres or Redis in GitLab's stack.
