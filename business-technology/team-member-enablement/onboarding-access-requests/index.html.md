@@ -293,7 +293,7 @@ It will make the RMA process much easier in case you need it.
 Team members can choose to refresh their laptop, no questions asked, after 3 years of use (not necessarily 3 years of employment if a used laptop was issued at the time of onboarding).
 
 Team members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding.
-If the team member has completed 1 calendar year or more at GitLab at the time of offboarding, they can opt to keep their laptop at no cost.
+If the team member has completed 1 calendar year or more at GitLab at the time of offboarding or refresh, they can opt to keep their laptop at no cost.
 If the team member hasn't completed 1 calendar year at the time of offboarding or has received a laptop refresh within the past year, they have the option to purchase their laptop for current market value from GitLab.
 
 IT Ops will email the team member asking if they would like to send back or purchase their laptops.
