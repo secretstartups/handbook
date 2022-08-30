@@ -358,7 +358,7 @@ Additionally, during an incident investigation, knowing which high-risk features
 
 - **We have a question that is not answered here?**
 
-    Please raise an issue to [Infrastructure team's queue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) and we will be happy to get back to you as soon as we can.
+    Please raise an issue to [Infrastructure team's queue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) and we will be happy to get back to you as soon as we can.
 
 # Exceptions
 
