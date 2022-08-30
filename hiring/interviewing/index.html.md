@@ -56,7 +56,7 @@ There are situations in which multiple internal applicants apply for the same ro
 
 #### Reminders For Recruitment
 
-- Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ have job admin access to any role they apply for, or to be able to see those who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove all of the access manually. In some cases, it may be appropriate to schedule using the Candidate Experience Specialists' calendar, if the candidates' colleagues or they have access to the Interview Calendar in gCal. 
+- Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ have any access to any role they apply for, or to be able to see those who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove all of the access manually. In some cases, it may be appropriate to schedule using the Candidate Experience Specialists' calendar, if the candidates' colleagues or they have access to the Interview Calendar in gCal. 
 - When scheduling internal interviews, as with all other interviews, please mark these as `private` on the calendar. Many team members at GitLab have their calendar event details set to be [internally viewable](https://about.gitlab.com/handbook/communication/#google-calendar). Setting up interviews as `private` is important to maintain confidentiality of applicants/candidates during the interview process.
 
 ### Adjustments to our Interview Process
@@ -134,26 +134,6 @@ The GitLab team understands the importance of inclusive interviewing, and we str
 <details open="open">
 <summary markdown="span">Best practices</summary>
 
-- **We will make our best effort so that each candidate's full interview panel has at least one non-male GitLab team-member on it.**
-- **The following teams will _always_ have one non-male team member in the same department as the candidate on the interview panel.** We are working to make it so that every team practices our value of diversity, inclusion and belonging in their hiring practices. We are improving, but we aren't there yet. According to our value of iteration, we aren't waiting for a system to be in place for the entire company, but instead are practicing diversity, inclusion and belonging now by listing the teams that can currently commit to this practice. Hiring managers can make MRs to add their team to this list when they are able to meet this requirement.
-    - Accounting
-    - Business Operations
-    - Corporate Marketing
-    - Customer Support
-    - Demand Generation
-    - Development
-    - Field Marketing
-    - Finance
-    - Growth Marketing
-    - Marketing Operations
-    - People Operations
-    - Product Management
-    - Quality
-    - Talent Acquisition
-    - Revenue Marketing
-    - Sales Development
-    - UX
-
 -**We don't ask for your pronouns in the application form**. This information is "sensitive information" according to GDPR and other applicable privacy acts. We encourage our interviewers to utilize Zoom's Pronoun feature and you're welcome to disclose your pronouns in any way you feel comfortable doing so. 
 
 </details>
@@ -175,7 +155,7 @@ Example questions include:
 1. What is your current location and do you have any plans to relocate? (relevant in context of compensation, country-hiring guidelines, and in case an offer would be made)
 1. Do you require visa sponsorship or a work/study permit to work for GitLab? Or do you require the work permit to be transferred to GitLab? If the answer is yes, we will not be able to proceed, [unless you currently hold a work permit in the Netherlands](/handbook/people-group/visas/#dutch-work-permits). You can refer to the [Visa and Sponsorship](/handbook/people-group/visas/#visas-and-sponsorhip) handbook section for further clarity.
 1. What is the notice period you would need if you were hired?
-1. Is this salary range in line with your expectations? At GitLab, we are committed to paying competitively and equitably. Therefore, we set our offers based on market pay rather than a candidate's pay history. We walk through the [Compensation Calculator](https://comp-calculator.gitlab.net/) with each candidate so that we can address any gaps in expectations early on. Only candidates who are in the screening stage or later can access our [compensation calculator](https://comp-calculator.gitlab.net/) by following `applicants sign up`.
+1. Is this salary range in line with your expectations? At GitLab, we are committed to paying competitively and equitably. Therefore, we set our offers based on market pay rather than a candidate's pay history. We walk through the [Compensation Calculator](https://comp-calculator.gitlab.net/) with each candidate so that we can address any gaps in expectations early on. Only candidates who are in the team interview stage or later can access our [compensation calculator](https://comp-calculator.gitlab.net/) by following `applicants sign up`.
 1. Do you know how GitLab will employ you in the country you’re based? (As GitLab keeps growing rapidly it is important to share how we can employ people in each country. We should redirect the candidates to the [Contracts and International Expansion](/handbook/people-group/employment-solutions/) page and go through it with them.)
 
 At the end of the screening call, the recruiter will tell you what the next steps will be, if any. There should be time for you to ask any questions you may have.
