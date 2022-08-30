@@ -22,7 +22,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 |  **Name** | **GitLab Handle** | **Title** |
 | :--------------- | :----------------- | :----------------- |
-| Alex Martin | @alex_martin | Sr. Mgr, Self-Service & Online Sales Data |
+| Alex Martin | @alex_martin | Dir., Self-Service & Online Sales Data |
 | Max Fleisher | @mfleisher |  Mgr, Self-Service & Online Sales Data |
 | Sara Gladchun | @sglad | Sr. Analyst, Self-Service & Online Sales Data |
 
