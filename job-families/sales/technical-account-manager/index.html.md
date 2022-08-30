@@ -1,12 +1,12 @@
 ---
 layout: job_family_page
-title: "Technical Account Manager"
-description: "The Technical Account Management (TAM) team focuses on the themes of align, enable, and expand."
+title: "Customer Success Management"
+description: "The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand."
 ---
 
-The Technical Account Management (TAM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment. 
+The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment. 
 
-Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [TAM handbook](/handbook/customer-success/tam).
+Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [CSM handbook](/handbook/customer-success/tam).
 
 ## Responsibilities
 
@@ -33,15 +33,15 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ### Levels
 
-## Associate TAM
+## Associate Customer Success Manager (CSM)
 
-The Associate TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
 
-### Associate TAM Job Grade
+### Associate CSM Job Grade
 
-The Associate TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Associate TAM Responsibilities
+### Associate CSM Responsibilities
 
 * Provide immediate onboarding activities such as installation and training 
 * Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
@@ -50,21 +50,21 @@ The Associate TAM is a job grade [level 5](/handbook/total-rewards/compensation/
 * Provide insights with respect to the availability and applicability of new features in GitLab as relevant
 * Support GitLab Services in identifying and recommending training opportunities
 
-### Associate TAM Requirements
+### Associate CSM Requirements
 
 * Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 
-## Technical Account Manager (TAM) (Intermediate)
+## Customer Success Manager (CSM) (Intermediate)
 
-The TAM (Intermediate) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
 
-### TAM (Intermediate) Job Grade
+### CSM (Intermediate) Job Grade
 
-The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### TAM (Intermediate) Responsibilities
+### CSM (Intermediate) Responsibilities
 
-- Extends the TAM (Associate) responsibilities
+- Extends the CSM (Associate) responsibilities
 - Establish a trusted/strategic advisor relationship with each assigned customer and drive continued value of our solution and services
 - Assist and provide expert deployment, operational best practices, and establishing a GitLab Center of Excellence
 - Assist in workshops to help customers leverage the full value of GitLab solution
@@ -72,36 +72,36 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - Translate customer product usage data into actionable advice for customers 
 - Establish regular touchpoints with assigned customers per the established SLAs, to review progress against strategic and technical objectives
 
-### TAM (Intermediate) Requirements
+### CSM (Intermediate) Requirements
 
-- Extends the TAM (Associate) requirements
+- Extends the CSM (Associate) requirements
 - Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 - Understanding of Git and typical branching strategies
 - Knowledge of software development lifecycle and development pipeline
 - Understanding of continuous integration, continuous deployment, DevSecOps
 
-## Senior TAM
+## Senior CSM
 
-The Senior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
 
-### Senior TAM Job Grade
+### Senior CSM Job Grade
 
-The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior TAM Responsibilities
+### Senior CSM Responsibilities
 
-* Extends the TAM (Intermediate) responsibilities
+* Extends the CSM (Intermediate) responsibilities
 * Strategize on the overall objectives and long-range goals of the team
-* Provide mentorship for Associate and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
+* Provide mentorship for Associate and Intermediate CSMs to help them grow in their technical knowledge and provide premium customer experience
 * Work cross-departmentally to find solutions to complex scenarios and integration issues
 * Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
 * Help drive team expertise and technical thought leadership
 * Maintain deep knowledge of the GitLab platform
 * Clearly communicate and drive adoption of complex technical solutions, with constant attention to promoting "boring solutions"
 
-### Senior TAM Requirements
+### Senior CSM Requirements
 
-* Extends the TAM (Intermediate) requirements
+* Extends the CSM (Intermediate) requirements
 * Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
 * Strong knowledge of Customer Success best practices, with experience defining process and providing enablement programs to promote adoption in CS and across the company
 * Knowledgable in GitLab internals and deployment methods for cloud or on-premise deployments
@@ -110,19 +110,19 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 * Advanced project management experience & skills
 * Advanced SCM admin and/or PS experience
 
-## Staff TAM (Account)
+## Staff CSM (Account)
 
-The Staff TAM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other TAMs and develop improvements to our customer engagement model.
+The Staff CSM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model.
 
-The Staff TAM (Account) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff CSM (Account) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
 
-### Staff TAM Job Grade
+### Staff CSM Job Grade
 
-The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff, CSM (Account) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Staff TAM (Account) Responsibilities
+### Staff CSM (Account) Responsibilities
 
-- Extends the Senior TAM responsibilities
+- Extends the Senior CSM responsibilities
 - Owns the customer relationship within a global account and actively manages the stakeholder relationship at all levels (i.e., executive, management, technical leaders) including strategic roadmap discussions
 - Can develop and nurture relationships and adjust value and adoption messaging according to the levels and interests of customer stakeholders
 - Actively searches for additional business cases to expand GitLab usage within the account and its subsidiaries
@@ -131,14 +131,14 @@ The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 - Has proven ability to deeply understand customer health scoring and predictive risk management and is well versed in risk prevention and risk resolution.
 - Continuously drives communication and customer advocacy into various GitLab departments including Sales, Support, Product and Channel to provide customer insights and ensure an orchestrated customer experience
 - Expands personal research combined with best practices across disciplines, actively builds/shares playbooks and customer enablement/expansion workshops focused on driving to greater adoption and value realization.
-- Identifies and create solutions to address TAM needs, improve effectiveness and efficiency, and delivery to or exceed key customer metrics such as Quantitative Success Plans, Time-to-Value, use case expansion, EBRs completed, and gross/net retention.
-- Identifies challenges in TAM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions. Work transparently to surface the problems and allow others to participate in solving them.
+- Identifies and create solutions to address CSM needs, improve effectiveness and efficiency, and delivery to or exceed key customer metrics such as Quantitative Success Plans, Time-to-Value, use case expansion, EBRs completed, and gross/net retention.
+- Identifies challenges in CSM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions. Work transparently to surface the problems and allow others to participate in solving them.
 - Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
 
-### Staff TAM (Account) Requirements
+### Staff CSM (Account) Requirements
 
-- Extends the Senior TAM requirements
-- Experience and a proven track record with the additional responsibilities of a Staff TAM
+- Extends the Senior CSM requirements
+- Experience and a proven track record with the additional responsibilities of a Staff CSM
 - Ability to manage executive relationships and discussions (VP/CxO)
 - High-performance ability to pitch and execute stage expansions, balancing business and technical and adjusting messaging to audience (technical / exec).
 - Skilled in bringing in a SAL/AE/ISR to see through upsell opportunities, whilst maintaining executive overlay and ensuring a positive customer experience.
@@ -147,62 +147,62 @@ The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Staff TAM (Account) Performance Indicators 
+### Staff CSM (Account) Performance Indicators 
 
 * Extends the Customer Success KPIs articulated here
 * 3.75m ARR book of business maintained
 * 6 enablement contributions to global CS team per fiscal year
 
-## Staff TAM (Product)
+## Staff CSM (Product)
 
-The Staff TAM (Product) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff CSM (Product) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
 
-### Staff TAM Job Grade
+### Staff CSM Job Grade
 
-The Staff TAM (Product) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff CSM (Product) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Staff TAM (Product) Responsibilities
+### Staff CSM (Product) Responsibilities
 
-- Extends the Senior TAM responsibilities
+- Extends the Senior CSM responsibilities
 - Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/) 
 - Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor within an account
 - Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
 - Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise
 - Periodically leads research and analysis of industry/market trends within customer success, with a focus on Customer Success data and trends 
 - Helps ensure GitLab is listening and hearing our customers and can remain responsive to them
-- Increase global TAM team knowledge and thought leadership within the realm of their expertise
+- Increase global CSM team knowledge and thought leadership within the realm of their expertise
 - Contributes to our docs, YouTube channel, and other enablement programs such as the Digital Journey
 - Serves as advisor to Product Team providing constructive feedback to promote customer use cases and assist in product feature prioritization
-### Staff TAM (Product) Requirements
+### Staff CSM (Product) Requirements
 
-- Extends the Senior TAM requirements
-- Experience and a proven track record with the additional responsibilities of a Staff TAM
+- Extends the Senior CSM requirements
+- Experience and a proven track record with the additional responsibilities of a Staff CSM
 - Technical / DevOps domain expertise
 - Proven ability to overlay in customer technical risk situations and architect successful solutions.
 - Proven ability to consult and be consulted on topics requiring product/technical expertise
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Staff TAM (Product) Performance Indicators
+### Staff CSM (Product) Performance Indicators
 
 * 2.75m ARR book of business maintained
-* 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Technical Account Managers
+* 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Customer Success Managers
 * 1 technical/product enablement per quarter
 
-## Manager, TAM
+## Manager, CSM
 
-The Manager, TAM, reports to the [Director of Technical Account Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
 
-### Manager, TAM Job Grade
+### Manager, CSM Job Grade
 
-The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Manager, TAM Responsibilities
+### Manager, CSM Responsibilities
 
 * Mentor and enable the team to exceed company growth and retention forecasts
-* Work with the Customer Success Director to help establish and manage goals and responsibilities for TAMs
-* Manage a team of highly motivated, customer-focused TAMs to manage the overall health and care of accounts (e.g., onboarding customers, stage adoption, executive business reviews, and successful renewals)
-* Ensure the TAMs exceed Gitlab expectations in core knowledge, communication, and execution
+* Work with the Customer Success Director to help establish and manage goals and responsibilities for CSMs
+* Manage a team of highly motivated, customer-focused CSMs to manage the overall health and care of accounts (e.g., onboarding customers, stage adoption, executive business reviews, and successful renewals)
+* Ensure the CSMs exceed Gitlab expectations in core knowledge, communication, and execution
 * Challenge the team and yourself to learn and grow as trusted advisors to customers continually
 * Provide leadership and guidance to coach, motivate and lead the team members to their optimum performance levels and career development, providing timely feedback and development assistance
 * Manage resource assignments and staffing levels, including recruitment as needed
@@ -214,7 +214,7 @@ The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 * Work together with the other managers to execute strategies and vision with the Director
 * Represent Gitlab leadership and reflect our [Gitlab values](/handbook/values/) in internal and external interactions
 
-### Manager, TAM Requirements
+### Manager, CSM Requirements
 
 * Proven track record in software/technology sales or consulting
 * Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
@@ -231,40 +231,40 @@ The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 * Ability to connect technology with measurable business value
 * Strategic thinking about business, products, and technical challenges
 
-## Senior Manager, TAM
+## Senior Manager, CSM
 
-The Senior Manager, TAM reports to the [Director of Technical Account Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
 
-### Senior Manager, TAM Job Grade
+### Senior Manager, CSM Job Grade
 
-The Senior Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Manager, TAM Responsibilities
+### Senior Manager, CSM Responsibilities
 
-* Extends the Manager, TAM responsibilities
-* DRI for one or more initiatives beyond the TAM manager role that includes: customer growth, expansion programs, and processes
+* Extends the Manager, CSM responsibilities
+* DRI for one or more initiatives beyond the CSM manager role that includes: customer growth, expansion programs, and processes
 * Action upon identified opportunities for continuous improvement across the customer lifecycle
-* Consistent representation of our values to the customer, our TAM team, and the company as a whole. Lead in cross-functional work representing customer success in GitLabs more strategic revenue-focused initiatives
-* Owns and manages more than just the TAM manager purview - defined by looking for and solving larger team or organizational challenges, and owning initiatives that span wider than the TAM manager role
-* Aligned with the objectives of Gitlab and is responsible for ensuring that the TAM team as a whole is contributing to our company objectives
-* Strategic in thinking to solve challenges for the entire TAM team and make improvements that will positively impact all customers
+* Consistent representation of our values to the customer, our CSM team, and the company as a whole. Lead in cross-functional work representing customer success in GitLabs more strategic revenue-focused initiatives
+* Owns and manages more than just the CSM manager purview - defined by looking for and solving larger team or organizational challenges, and owning initiatives that span wider than the CSM manager role
+* Aligned with the objectives of Gitlab and is responsible for ensuring that the CSM team as a whole is contributing to our company objectives
+* Strategic in thinking to solve challenges for the entire CSM team and make improvements that will positively impact all customers
 
-### Senior Manager, TAM Requirements
+### Senior Manager, CSM Requirements
 
-* Extends the Manager, TAM requirements
+* Extends the Manager, CSM requirements
 * Demonstrated progressive management experience leading teams in a software company
 * Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 5+ people
 * Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
 
-## Director of TAMs
+## Director of Customer Success Management
 
-The Director of TAMs reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/). 
+The Director of CSMs reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/). 
 
-###  Director of TAMs Job Grade
+###  Director of Customer Success Management Job Grade
 
-The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of CSM is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-###  Director of TAMs Responsibilities
+###  Director of CSM Responsibilities
 
 * Set the overall vision and strategic plan for the Account Management organization, focusing on driving product adoption, leading customer outcomes, and experiences, and driving growth through gross renewals and net retention improvements.
 * Architect the post-sales customer experience and lifecycle by building a world-class customer success management practice and organization
@@ -275,7 +275,7 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 * Define and optimize customer lifecycle by driving programs and initiatives to improve engagement approaches based on customer segmentation and leading a culture of continuous improvement
 * Develop company-wide customer success motion integrating processes, content and data to/from stakeholder organizations (e,g., Marketing, Sales, Product/Engineering, etc)
 * Proven ability to develop strategies, translate them into initiatives and track successful delivery
-* Build and lead world-class Technical Account Management team:
+* Build and lead world-class Customer Success Management team:
   - Recruit and develop a high performing team
   - Foster collaboration within the GitLab team and across customer stakeholders (i.e., technical, management and executives)
   - Lead enablement and operational practices to track and improve the performance of the teams and individuals
@@ -288,7 +288,7 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 * Build a world-class post-sales organization by implementing technology and processes
 * This role is focused on customer success management and is not a technical support-related role.
 
-###  Director of TAMs Requirements
+###  Director of CSM Requirements
 
 * Demonstrated progressive management experience leading teams in a software company 
 * Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 30 people+
@@ -301,53 +301,53 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 * Experience successfully working with senior (C-level) executives
 * Holds strong operational skills that will drive organizational efficiencies and customer satisfaction
 
-## Senior Director of TAMs
+## Senior Director of Customer Success Management
 
-The Senior Director of TAMs reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/)
+The Senior Director of CSM reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/)
 
-###  Senior Director of TAMs Job Grade
+###  Senior Director of CSM Job Grade
 
-The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of CSM is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-###  Senior Director of TAMs Responsibilities
+###  Senior Director of CSM Responsibilities
 
-* Extends that of the Director of TAMS responsibilities
+* Extends that of the Director of CSM responsibilities
 * Define and deliver strategies and plans that enhance and integrate into GitLab's Go-To-Market strategies and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams
 * Build engagement approaches (e.g., onboarding, success plan management, expansion plays, etc.) based on industry best practices while incorporating GitLab's unique value proposition and values
 * Build and iterate on segmentation strategies based on customer economics, propensity to grow, lifecycle stage, and customer preferences, incorporating digital engagement at all segments
 * Manage and nurture executive relationships with customers, including management of executive-level escalations
 
-###  Senior Director of TAMs Requirements
+###  Senior Director of CSM Requirements
 
-* Extends that of the Director of TAMs requirements
+* Extends that of the Director of CSM requirements
 * Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
-### Vice President of Technical Account Management (TAM) 
+## Vice President of Customer Success Management
 
-The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Vice President of TAMs Responsibilities
+### Vice President of Customer Success Management Responsibilities
 
-- Extends the Sr. Director of TAMs responsibilities
+- Extends the Sr. Director of CSM responsibilities
 - Define and deliver strategies and plans to create and influence GitLab's Go-To-Market strategy and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams/
 - Provide strategic influence with customers accounts as well internally for programs and initiatives, continuously improving customer journey, segmentation approaches, and digital approaches.
 - Lead new developments and improvements across Gitlab to improve customer experience, customer-centricity, and growth for GitLab.
 - Provide executive sponsorship for strategic accounts.
 - Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission,vision, and values.  
-- Align and influence the Executive Team and senior leadership on TAM and GTM strategies and tactics.
+- Align and influence the Executive Team and senior leadership on CSM and GTM strategies and tactics.
 - Partner with the sales organization to drive growth and retention and improve efficiency.
 - Lead company-wide strategies and initiatives to improve the customer experience and deliver voice-of-customer metrics and reporting across GitLab. 
 
-### Vice President of TAMs Requirements
+### Vice President of Customer Success Management Requirements
 
-- Extends the Sr. Director of TAMs requirements
+- Extends the Sr. Director of CSM requirements
 - Demonstrated experience in cross-functional leadership to influence internal organizations on strategic GTM initiatives. 
-- Track record of successfully building, growing, and scaling global Customer Success Management or Technical Account Management teams, delivering to revenue and customer metrics.
+- Track record of successfully building, growing, and scaling global Customer Success Management teams, delivering to revenue and customer metrics.
 - Ability to influence, negotiate and build consensus with the Executive Team and senior leadership.
 - Brings experience building, scaling, and developing global teams
-- Serves as an expert in Technical Account Management internally and with customers, partners, and industry communities.
+- Serves as an expert in Customer Success Management internally and with customers, partners, and industry communities.
 
-#### Vice President of TAMs Performance Indicators
+#### Vice President of Customer Success Management Performance Indicators
 * Gross and net retention
 * Customer metrics (onboarding, time-to-first value, use case and platform adoption, use case expansion, sentiment measured by NPS, CSAT, or surveys)
 
@@ -357,20 +357,20 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
-### Customer Success Manager, Growth Accounts
+### Growth 
 
 * Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
 * Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
 * Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
 * Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g., onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
 * Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
-* Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale TAMs to create content and webinars to address these needs
+* Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale CSM to create content and webinars to address these needs
 * Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
 
 ### Scale
 
 - Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
-- Collaborate across a number of other teams to drive effective customer programs (digital editor, TAM team, digital campaign manager, marketing, growth)
+- Collaborate across a number of other teams to drive effective customer programs (digital editor, CSM team, digital campaign manager, marketing, growth)
 - Understand the nuances of digital relationships and automated engagements and architects positive customer experiences to ensure the customer feels valued while obtaining value from the GitLab platform
 - Utilize automation and digital engagements, isolating some customers for reach-outs based on product usage data insights coupled with the customer's point in their lifecycle
 - Create blanket contact campaigns of monthly or quarterly e-newsletters, data triggered email campaigns, on-demand training and guidance
@@ -384,36 +384,36 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 
 ### Customer Programs 
 
-- Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
+- Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial CSM and Sales team
 - Capture customer insights (e.g., common reasons for stalled adoption, contraction and churn) in the SMB segment through data analysis and customer engagement
 - Create solution guides and videos to deliver technical enablement to a large audience across the SMB and Mid-Market segments primarily
 - Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
 - Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
 - Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
 
-###  Public Sector Technical Account Manager
-####  Public Sector Technical Account Manager Responsibilities
+###  Public Sector Customer Success Manager
+####  Public Sector Customer Success Manager Responsibilities
 
-- Extends the corresponding Technical Account Manager level responsibilities:
+- Extends the corresponding Customer Success Manager level responsibilities:
 - Work exclusively with Public Sector customers
 
-####  Public Sector Technical Account Manager Requirements
+####  Public Sector Customer Success Manager Requirements
 
-- In addition to the corresponding Technical Account Manager level requirements:
+- In addition to the corresponding Customer Success Manager level requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and demonstrated progressive experience with Public Sector customers
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
 ### Customer Success Engineer (CSE)
 
-The Customer Success Engineer (CSE) role provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside TAMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
+The Customer Success Engineer (CSE) role provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
 
 #### CSE Responsibilities
 
 - Engage with customers, both onsite and remote, in a technical consultancy and advisor role during the post-sales process while providing technical and solution guidance
 - Have demonstrated the ability to become a trusted technical advisor to customer and business leaders
 - Drive the achievement of measurable value (business outcomes), leading to product adoption, renewal, and expansion
-- Align with Technical Account Managers to provide customer-facing subject matter expertise based on the customer's business objectives
+- Align with Customer Success Managers to provide customer-facing subject matter expertise based on the customer's business objectives
 - Focus on solution-based programs that are customized to fit an individual customer's needs
 - Develop and collaborate on customer workshops, demos, and other enablement
 - Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners
@@ -434,11 +434,11 @@ The Customer Success Engineer (CSE) role provides deep subject matter expertise 
 ## Performance Indicators
 
 * net ARR (i.e., retention and expansion) 
-* [TAM-related metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/).
+* [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/).
 
 ## Career Ladder
 
-The next steps for the TAM Job Family are to move to the [Manager, Customer Experience](/job-families/sales/manager-customer-experience/) Job Family or the [Director, Customer Success](/job-families/sales/director-customer-success/) Job Family.
+The next steps in the Customer Success Management job family is to move to a senior leadership job family.
 
 ## Hiring Process
 
@@ -450,11 +450,11 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 
 ### Written Assessment
 
-The assessment is a written questionnaire, completed and submitted prior to interviews with members of the Technical Account Manager team. The Recruiter working with the candidate will provide the written assessment following a successful [recruiter screening interview](#recruiter-screening).
+The assessment is a written questionnaire, completed and submitted prior to interviews with members of the Customer Success Manager team. The Recruiter working with the candidate will provide the written assessment following a successful [recruiter screening interview](#recruiter-screening).
 
 ### Hiring Manager Interview
 
-The hiring manager interview is the first of the interviews with the Technical Account Manager team. This interview is with the manager of the team the candidate is applying to join. It is a 30 minute interview.
+The hiring manager interview is the first of the interviews with the Customer Success Manager team. This interview is with the manager of the team the candidate is applying to join. It is a 30 minute interview.
 
 ### Peer Interview
 
@@ -462,14 +462,14 @@ The peer interview is conducted by an individual contributor who is a member of 
 
 ### Panel Interview
 
-The panel interview consists of several members of the Technical Account Manager team. It typically includes the hiring manager and two other team members. This is a 60 minute interview, with the following format:
+The panel interview consists of several members of the Customer Success Manager team. It typically includes the hiring manager and two other team members. This is a 60 minute interview, with the following format:
 
 - Live demonstration based on the guidance provided ahead of the interview by the recruiter
 - General discussion and questions from the panel
 
 ### Executive Interview
 
-Conducted by the [Senior Director of TAMs](/job-families/sales/technical-account-manager/#senior-director-of-tams), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
+Conducted by the [Senior Director of CSMs](/job-families/sales/technical-account-manager/#senior-director-of-CSMs), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
 
 ### Reference and Background Check
 
