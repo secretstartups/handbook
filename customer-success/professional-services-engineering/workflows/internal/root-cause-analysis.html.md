@@ -35,7 +35,6 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
   - [Say Thanks](/handbook/communication/#say-thanks)
   - **No ego** Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.
   - **Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
-1. All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 #### Discussion
 1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md).
@@ -50,7 +49,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
 1. Ensure any IaC lessons learned are created as an MR to the mainline IaC repository
 
 #### Assign Action Items
-All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
+All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be a top priority leaving the meeting, don't make it a follow up item.
 
 ### Sources
 * [Google SRE Handbook](https://landing.google.com/sre/book/chapters/postmortem.html)
