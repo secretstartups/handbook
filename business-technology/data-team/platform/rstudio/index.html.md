@@ -16,9 +16,9 @@ description: "RStudio Guide"
 
 ## What is R?
 
-Similar to [Python](https://www.python.org/), [R](https://cran.r-project.org/)  is an open-source statistical software that is used to clean and analyze data. It is popular within the data science community and has many packages that make statistical modeling easier for statisticians and data scientists. [Here](https://www.dataquest.io/blog/three-mighty-good-reasons-to-learn-r-for-data-science/) is an idea of why it might be worth considering learning R.
+Similar to [Python](https://www.python.org/), [R](https://cran.r-project.org/)  is an open-source statistical software that is used to clean and analyze data. It is popular within the data science community and has many packages that make statistical modeling easier for statisticians and data scientists. To get an idea of why it might be worth learning R, [this blog post](https://www.dataquest.io/blog/three-mighty-good-reasons-to-learn-r-for-data-science/) give a great explanation and is worth a read.
 
-To download R, go to the [CRAN webiste](https://cran.r-project.org/) and download the version of R for your system. 
+To download R, go to the [CRAN website](https://cran.r-project.org/) and download the version of R for your system. 
 
 ## What is RStudio?
 
@@ -29,7 +29,7 @@ To download R, go to the [CRAN webiste](https://cran.r-project.org/) and downloa
 - [RStudio Blog](https://www.rstudio.com/blog/)
 - [RMarkdown Documents](https://rmarkdown.rstudio.com/)
 
-To download RStudio, go to the [RStudio webiste](https://www.rstudio.com/products/rstudio/download/) and download the version of RStudio for your system.
+To download RStudio, go to the [RStudio website](https://www.rstudio.com/products/rstudio/download/) and download the version of RStudio for your system.
 
 **NOTE** _R and RStudio may be used interchangeably throughout this page._
 
