@@ -168,4 +168,4 @@ This indicates the epic is blocked by the issue being added.
 ## Useful links
 
 * [GitLab Milestones documentation](https://docs.gitlab.com/ee/user/project/milestones/)
-* [GitLab Epics docuemtnation](https://docs.gitlab.com/ee/user/group/epics/)
+* [GitLab Epics documentation](https://docs.gitlab.com/ee/user/group/epics/)
