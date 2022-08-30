@@ -42,3 +42,5 @@ If you're comfortable using Git and GitLab and want to help team members trouble
    ```
    <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge Request Buddy</a></li>
    ```
+
+1. Optionally [request maintainer access](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) to <https://gitlab.com/gitlab-com/www-gitlab-com> to be able to merge team members merge requests for this project as an MR Buddy
