@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Sec Section
 description: >-
   The Sec Section is composed of development teams working on Secure
-  and Protect features of the GitLab DevOps Platform.
+  and Govern features of the GitLab DevOps Platform.
 ---
 
 ## On this page
@@ -12,19 +12,19 @@ description: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-<%= devops_diagram(["Secure","Protect"]) %>
+<%= devops_diagram(["Secure","Govern"]) %>
 
 ## Teams and Handbook Pages
 
 The following teams comprise the sub-department:
 
-- Protect stage - [handbook](/handbook/engineering/development/sec/protect/)
-  - Container Security group
+- Govern stage - [handbook](/handbook/engineering/development/sec/govern/)
+  - Security Policies group
+  - Threat Insights group - [handbook](/handbook/engineering/development/sec/govern/threat-insights/)
 - Secure stage - [handbook](/handbook/engineering/development/sec/secure/)
   - Composition Analysis group - [handbook](/handbook/engineering/development/sec/secure/composition-analysis/)
   - Dynamic Analysis group - [handbook](/handbook/engineering/development/sec/secure/dynamic-analysis/)
   - Vulnerability Research group - [handbook](/handbook/engineering/development/sec/secure/vulnerability-research/)
-  - Threat Insights group - [handbook](/handbook/engineering/development/sec/secure/threat-insights/)
 - Anti-Abuse stage - [handbook](/handbook/engineering/development/sec/anti-abuse/)
 
 It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious. This is documented on a dedicated [delineation page](delineate-sec.html).
@@ -49,12 +49,12 @@ In general, we want to keep as few projects in `security-products` as necessary.
 - Demos
 - Historical projects that are difficult to move. 
 
-`secure` and `protect` should have projects for: 
+`secure` and `govern` should have projects for: 
 - End-to-end testing
 - Benchmarks / Stats 
 - Tooling
 
-There may be projects that should belong in `secure` or `protect` but for technical reasons are much easier to have in `security-products`. In those cases, we can locate the project in `security-products` if reasonable efforts were made to get the project in `secure` or `protect` but were unsuccessful.   
+There may be projects that should belong in `secure` or `govern` but for technical reasons are much easier to have in `security-products`. In those cases, we can locate the project in `security-products` if reasonable efforts were made to get the project in `secure` or `protect` but were unsuccessful.   
 
 ### Other settings
 
@@ -77,14 +77,14 @@ issues:
 
 ## Slack channels
 
-- [#sec-section](https://gitlab.slack.com/archives/C02087FTL5V) - Sec Section discussions spanning the Protect, and Secure stages.
+- [#sec-section](https://gitlab.slack.com/archives/C02087FTL5V) - Sec Section discussions spanning the Govern, and Secure stages.
 - [#sec-growth-modelops-people-leaders](https://gitlab.slack.com/archives/C033F69CQCB) - Engineering people leaders in Sec, Growth, and ModelOps.
 - [🔒sec-growth-modelops-leadership-confidential](https://gitlab.slack.com/archives/GKWF00Y3E) - Private channel for engineering people leaders in Sec, Growth, and ModelOps.
 
 ## Staying Informed and Informing Team Members
 
 - [Sec Week In Review Google Document](https://drive.google.com/drive/search?q=%22Sec%20Section%20Week%20In%20Review%22) - is an asynchronous weekly document of notables things happening in Sec. The document is inspired by the [Engineering Week In Review](https://about.gitlab.com/handbook/engineering/#communication).
-- Slack channels #s_secure, #s_protect, #g_anti-abuse are informative since they are all part of Sec Section. 
+- Slack channels #s_secure, #s_govern, #g_anti-abuse are informative since they are all part of Sec Section. 
 
 ## Planning in the Section
 
@@ -163,7 +163,7 @@ The table below captures characteristics (requirements?) of work that is in-scop
 | Is not already covered by architecture guidelines/handbook | x | x | |
 | Has broad impact within #secure[^1] | x | | |
 | Is a new unit of work | x | x | |
-| Is strictly #secure or #protect | x | x |  |
+| Is strictly #secure or #govern | x | x |  |
 | Could not come to an agreement (escalation) | | ? | |
 | Involves architecture decisions | x | x | |
 
@@ -178,7 +178,7 @@ GitLab’s Stance for Architectural issues: https://about.gitlab.com/handbook/en
 | Team | Representative |
 | --- | --- |
 | [Composition Analysis](#composition-analysis) | <%= link_to_team_member('fcatteau') %>  |
-| [Container Scanning](/handbook/engineering/development/protect/) | <%= link_to_team_member('mparuszewski') %> |
+| [Security Policies](#security-policies) | <%= link_to_team_member('mparuszewski') %> |
 | [Dynamic Analysis](#dynamic-analysis) | <%= link_to_team_member('cam_swords') %> |
 | [Static Analysis](#static-analysis) | <%= link_to_team_member('theoretick') %>  |
 | [Threat Insights](#threat-insights) | <%= link_to_team_member('minac') %> |
