@@ -15,7 +15,7 @@ Any GitLab team-member can perform an RCA on issues they're responsible for, as 
 
 ## What is a Root Cause Analysis?
 
-A Root Cause Analysis (RCA) is the process of finding the source of failures and accomplishments after completing a project. While RCAs are common after incidents, they do not only fit into this model of incident management. An RCA can be done after any project; whether it was technical or non-technical. While a RCA can be done in any manner, there is a template that has consolidated input from multiple teams to develop an [issue template](https://gitlab.com/gitlab-com/gl-security/secops/operations/blob/master/.gitlab/issue_templates/rca.md) and Engineering provides a great overview of their [RCA process](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html).
+A Root Cause Analysis (RCA) is the process of finding the source of failures and accomplishments after completing a project. While RCAs are common after incidents, they do not only fit into this model of incident management. An RCA can be done after any project; whether it was technical or non-technical. While a RCA can be done in any manner, there is a template that has consolidated input from multiple teams to develop an [issue template](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md) (internal) and Engineering provides a great overview of their [RCA process](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html).
 
 Your process may be different - but the RCA template is a great starting point.
 
@@ -31,7 +31,7 @@ While RCAs can take any shape or form, we have tried to consolidate the process 
 
 To perform an RCA simply leverage the template provided below and open an issue in your teams issue tracker (you can use the template to make your own issue template in your teams tracker as well). By going step-by-step in the issue, answering all of the questions, and collecting all of the information, we aim to maximize RCAs effectiveness and make the process as repeatable as possible.
 
-Please reference [the RCA template](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md) in Operations for a step-by-step overview of questions to answer in an RCA.
+Please reference [the RCA template](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md) (internal) in Operations for a step-by-step overview of questions to answer in an RCA.
 
 For a more in-depth overview of an established RCA process, please review [this handbook page](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html).
 
