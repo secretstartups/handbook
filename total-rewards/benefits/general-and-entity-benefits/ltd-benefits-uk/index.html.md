@@ -208,7 +208,7 @@ If you decide to opt out of the scheme you can do this within one month of the e
 
  - **If you don't opt out by this date**, you can stop contributing at any time, in accordance with the pension scheme rules. If you do this, both your contributions and GitLab's, up to that point, will remain invested in your pension pot until you take your benefits.
 
- - You can also opt-out by completing the Scottish Widows ‘Opt-out form for Group Pension Scheme’.  The form can be found line at http://www.scottishwidows.co.uk/aethirdparty. The form must be printed and completed, then returned to People Operations.
+ - You can opt-out by completing the Scottish Widows ‘Opt-out form for Group Pension Scheme’.  The form can be found line at http://www.scottishwidows.co.uk/aethirdparty. The form must be printed and completed, then returned to Total Rewards at total-rewards@gitlab.com
 
 - The pension provider will also be able to tell you when the one month opt-out period started, if you aren’t sure.
 
