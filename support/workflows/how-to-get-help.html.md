@@ -72,7 +72,7 @@ is an operating principle of Results.
 
 Starting from `2022-06-13` the Support Team and the Development Teams are rolling out a series of projects that will enable support engineers to request help from a GitLab Development group, for more information on this please review the [associated proposal](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4023). The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the various Development Sections for any technical issues which they are currently unable to progress.  Please note that this is an iterative process, which aims to roll out the process for each of the 10 development sections at GItLab. If the Development Section that you require assistance from is not listed in the table below then please continue to use the existing methods for contacting the relevant Development Teams, such as Slack. 
 
-### List of Development Sections and corresponding links to the Projects for requesting help
+#### List of Development Sections and corresponding links to the Projects for requesting help
 
 | Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help | 
 | ----------- | -------------- | -------- | 
