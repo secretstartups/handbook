@@ -29,7 +29,6 @@ the customer will acquire.
 
 In response to this type of issue, please take the following actions:
 
-1. Add the correct plan tag to the organization's tags.
 1. Enter in a new organization note, or append to the existing note, the content
    described in the [Organization Note Content](#organization-note-content)
    topic on this page.
@@ -39,8 +38,9 @@ In response to this type of issue, please take the following actions:
 
 > This customer is in the process of migrating from one product offering to
 > another. To ensure that during this process their support tickets are given
-> an SLA so that Support Engineers will work on them, we have modified the
-> organization record.
+> an SLA so that Support Engineers will work on them, you will need to modify
+> the tags on the ticket by removing the starting product's tag and adding the
+> ending product's tag.
 > 
 > Migration information:
 > 
@@ -50,7 +50,8 @@ In response to this type of issue, please take the following actions:
 > * SaaS tag(s): SAAS_TAG
 >
 > When you see this note in a ticket and you are the first to work that ticket,
-> please remove the unneeded SLA tag based on the subject matter of the ticket.
+> please remove the unneeded SLA tag and add the needed tag based on the
+> subject matter of the ticket.
 
 Be sure to replace the ALL-CAPS tokens with the appropriate values, as
 described in this table:
@@ -59,5 +60,5 @@ described in this table:
 |---|---|---|
 | INITIAL_OFFERING | The product from which they are migrating | `SM`, `SaaS` | |
 | ENDING_OFFERING | The product to which they are migrating | `SM`, `SaaS` |
-| SM_TAG | The self-managed tag the organization is using | `basic`, `starter`, `premium`, `ultimate` |
+| SM_TAG | The self-managed tag the organization is using | `starter`, `premium`, `ultimate` |
 | SAAS_TAG | The SaaS tag the organization is using | `bronze`, `silver`, `gold` |
