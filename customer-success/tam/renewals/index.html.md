@@ -102,6 +102,11 @@ CSMs can use Red, Yellow, and Green to reflect their sentiment of a customer's c
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
       1. Close out CTA with success criteria (Closed-Lost, loss reasons)
 
+**Tips**:
+1. **Keep the CTA open until fully resolved**. Resolved can be the customer is won back, contraction has happened, or they will churn
+1. Use `closed-won` when we saved the customer AND had a flat or positive net ARR opportunity
+1. Use `closed-lost` when we churned the customer or had contraction
+
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 
@@ -147,7 +152,7 @@ When a CSM considers an account at-risk of contraction or churn, they should set
 * **Loss of Budget** - The prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss
 * **Corporate Decision** - Due to management decision or policy, the prospect or customer chose a different product but not because of product gaps, adoption, etc. This would be a top-down decision (e.g., ELA, decision to commit to a single provider)
 * **Other** - other company issues that contribute to a blocker for the renewal
-
+ 
 ### Manually Creating At-Risk CTA
 
 **CTA creation steps**
