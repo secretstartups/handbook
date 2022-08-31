@@ -301,9 +301,9 @@ It's possible for engineers to pick any of the remaining issues for the mileston
 ### Workflow
 
 We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
-1. `workflow::problem validation` - needs clarity on the problem to solve
+1. `workflow::problem validation` - needs clarity and/or validation on the problem to solve
 1. `workflow::design` - needs a clear proposal (and mockups for any visual aspects)
-1. `workflow::solution validation` - designs need to be evaluated by customers, and/or other GitLab team members for usability and feasibility
+1. `workflow::solution validation` - designs need to be evaluated to make sure they solve the problem
 1. `workflow::planning breakdown` - needs a Weight estimate
 1. `workflow::scheduling` - needs a milestone assignment
 1. `workflow::ready for development`
@@ -327,6 +327,18 @@ We follow the Quad Planning process defined [here](https://about.gitlab.com/hand
 
 [Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
 
+### User Experience
+
+We strive to provide excellent usability in all of our workflows, creating a balance between user and business needs. Product Designers work closely with Product Managers and Engineers. Visit the [Fulfillment User Experience](/handbook/engineering/ux/stage-group-ux-strategy/fulfillment/) page for details. 
+
+In summary,
+- We follow the [Product Designer Workflows](/handbook/engineering/ux/product-designer/). 
+- We track user research efforts using `UX Problem Validation` and `UX Solution Validation` labels.
+- We weight issues using the [UX issue weighting process](/handbook/engineering/ux/product-designer/#ux-issue-weights).
+- We create separate [UX] and [Engineering] issues to aid in tracking issue weights. 
+- [UX] issues are the SSOT for designs and should reflect the latest design decisions. Related implementation issues should link to the [UX] issue for the design details to maintain the SSOT.
+- Fulfillment Product Designers participate in GitLab's reviewer roulette, but at this time only Fulfillment Product Designers should review CustomersDot MRs and GitLab MRs that require connection to CustomersDot (e.g., the GitLab.com purchase flow). 
+
 ### Approving and merging the work
 
 We have approval rules enabled, so every MR that targets `staging` or `master` needs at least one approval (different from the author/committer).
@@ -341,6 +353,7 @@ In addition to the approval rules, MRs may require additional reviews as suggest
 2. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/appsec-reviews.html#adding-features-to-the-queue)
 3. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
 4. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
+5. Changes to the user experience require a [UX Review(/handbook/engineering/ux/product-designer/mr-reviews/)]. 
 
 ### Weekly async issue updates
 
