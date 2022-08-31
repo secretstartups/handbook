@@ -235,7 +235,7 @@ Follow the guidance and instructions above to expedite the approval process.
 
 1. Director of Product or above (of the affected stage group)
     * They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
-1. Director of Infrastructure or up
+1. Senior Manager of Infrastructure or up
     * They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
 
 ### Error Budget Improvements
