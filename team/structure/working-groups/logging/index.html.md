@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/logging/"
 | Property     | Value |
 |--------------|-------|
 | Date Created | 2022-06-15 |
-| Date Ended   | 2022-10-01 |
+| Date Ended   | TBD |
 | Slack        | [wg-glsecurity-logging](https://gitlab.slack.com/archives/C03JXV6KMFA) |
 | Google Doc   | [Logging Working Group](https://docs.google.com/document/d/1vOQCWtF75J8zEiU5BV9HXggE72F8cP8KTYbMTj2tatM/edit#heading=h.6upuyp25d0wm) |
 | Issue Label  | WG_Logging |
@@ -26,8 +26,6 @@ canonical_path: "/company/team/structure/working-groups/logging/"
 1. Increase [efficiency](https://about.gitlab.com/handbook/values/#efficiency) by having a highly available simplified logging structure used by GitLab security to monitor, manage, detect, alert, respond, and audit events.
 2. Increase [collaboration](https://about.gitlab.com/handbook/values/#collaboration) by having a simplified logging system for GitLab security to share and collaborate on events.
 3. Increase [results](https://about.gitlab.com/handbook/values/#results) by having relevant and actionable data for GitLab Security to make more accurate and informed decisions to threats to GitLab 
-
-
 
 ## Exit Criteria
 
@@ -40,46 +38,7 @@ canonical_path: "/company/team/structure/working-groups/logging/"
 
 ## Other Investigations
 
-### What do other companies do?
-### Where do logs go today?
-
-* A non exaustive list of the different logs sources going to Panther can be found [here](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/infrastructure/-/blob/master/docs/Log%20Sources%20in%20Panther.md).
-* Unstructured logs (redis, etc) stored in [GCS](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#gcs)
-* Logs are forwarded from GCP to a central AWS S3 bucket (via fluentd)
-* Panther consumes logs from the central AWS S3 bucket
-* Structured logs related to `gitlab.com` are sent to [Infrastructure's ELK](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#es)
-* BigQuery is used for archived logs
-* SaaS vendor's logs depend on Panther's integrations (Tenable for example) or custom built integrations (Tenable for example)
-
-### Noted issues
-* **Data collection issues:** 
-- missing OOB collection method:  _List sources here. (a first list can be found by looking at diff between wishlist: https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/sirt-meta/-/issues/3#note_961806821 and actual collection in panther today: https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/infrastructure/-/blob/master/docs/Log%20Sources%20in%20Panther.md )_
-- unreliable collection method: (scale/performance/stability issue). List sources here.
-
-**Data Quality issues:**<br>
-- Incomplete logs 
-- Substandard logs
-- Inconsistent formats
-
-**Data parsing issues:**<br>
-- missing OOB Schema for sources (list sources)
-- missing OOB Mapping to security DataModel 
-
-**Infrastructure Issues:**<br>
-- Scalability
-- Efficiency/cost (data distribution/using all nodes at 100%)
-- Performance
-* Incomplete logs
-* Substandard logs
-* Inconsistent formats
-* No documented logging standard
-* Infrastructure scalability
-
-## Related Issues
-
-* [Pain Points of using Panther](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/sirt-meta/-/issues/3)
-* [Security Logging Enhancement](https://gitlab.com/groups/gitlab-com/gl-security/engineering-and-research/-/epics/1)
-
+[Moved Here](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/projects/security-logging/-/issues/3)
 
 ## Roles and Responsibilities
 
