@@ -60,6 +60,16 @@ For some people, there are issues with installing a verification app on their ph
 If there is some reason that this is not appropriate for your geography or other reasons, please submit an issue to [Opt Out](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/issues/new?issuable_template=okta_verify_optout) and we can add you to an authentication group that will make Okta Verify optional.
 Please note that we still recommend that you set up at least two MFA factors, in case something happens to one of your factors.
 
+### I occassionally get an additional challenge in Okta Verify when signing in, why and how do I deal with it?
+
+Okta Verify will provide an additional challenge when a high-risk sign-on is performed (new device, changing locations, etc.) Example: computer (left), phone (right).
+
+<div style="text-align:center;">
+  <img src="/handbook/business-technology/Okta-PC-Number-Challenge.png" alt="Okta PC Number Challenge" width="300"/>
+  <img src="/handbook/business-technology/Okta-Phone-Number-Challenge.png" alt="Okta Phone Number Challenge" width="300"/>
+  </div>
+<br>
+
 ## I forgot my password/my login doesn't work, what do I do?
 
 There is a "need help signing in?" button on the login screen.
@@ -77,19 +87,13 @@ You will be issued a temporary password at which point you can reset your access
 
 ## I need to reconfigure Okta 2FA/MFA! What do I do?
 
-
 ### I still have my old phone and its not wiped
 
 Great! Firstly sign into your Okta account by going to [gitlab.okta.com](https://gitlab.okta.com) use your email, password, and the 2FA code on your old phone.
 
 Once you're on the Okta webpage click on your name in the top right corner and then click settings.
 
-<div style="text-align:center;">
-  <img src="/handbook/business-technology/Top-right-settings.png" alt="Okta Settings" width="500"/>
-</div>
-<br>
-
-In the settings page, press the edit profile button. You may be promted for your Okta password and 2FA (On old device)
+In the settings page, press the edit profile button. You may be prompted for your Okta password and 2FA (On old device)
 
 <div style="text-align:center;">
   <img src="/handbook/business-technology/Edit-profile-button.png" alt="Edit Profile" width="500"/>
@@ -102,6 +106,34 @@ Scroll down until you see "Extra Verification", once you're there click "remove"
   <img src="/handbook/business-technology/Extra-verification-Okta.png" alt="Okta 2FA" width="700"/>
 </div>
 <br>
+
+### I want to add Touch ID / Face ID / Yubikey to Okta
+
+1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
+2. Choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator` in the `Extra Verification` section of the page. 
+3. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
+4. After pressing `Enroll`, a prompt from your web browser will appear.
+5. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
+
+    <img src="/handbook/business-technology/Okta-Add-Biometric-1.png" alt="Okta Add Biometric #1" width="300"/>
+
+6. For Touch ID or Face ID, another prompt will appear asking you to authenticate using that method.
+
+    <img src="/handbook/business-technology/Okta-Add-Biometric-2.png" alt="Okta Add Biometric #2" width="300"/>
+
+7. For Security Key, relevant prompts will appear.
+
+    <img src="/handbook/business-technology/Okta-Add-SecurityKey-1.png" alt="Okta Security Key #1" width="300"/>
+
+8. You may be prompted for a PIN, and then finally click `Allow`. 
+
+    <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
+
+### I want to increase my security by removing Google Authenticator as a valid factor, and primarily use Biometric and Security Keys for authentication
+
+Great - these factors are phishing resistent! To do so, choose "Remove" next to the relevant factor under "Extra Verification". If you plan to use biometric solely, we recommend having at least one Yubikey as a backup in order to be able to add a new device in a self-service way.
+
+At this time, it is not possible to permanently remove Okta Verify as a valid factor, and if you do so, you will be prompted to re-add it upon next login.
 
 ### I don't have my old phone but have a Yubikey
 
