@@ -12,7 +12,7 @@ canonical_path: "/company/team/structure/working-groups/token-management/"
 {:toc}
 
 ## Attributes
- 
+
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | August 16, 2022   |
@@ -40,6 +40,7 @@ The Token Management Working Group will deliver:
 | Member         | Andrew Kelly    | AppSec Manager            |
 | Member         | Chris Moberly   | Red Team Manager          |
 | Member         | Grzegorz Bizon  | Principal Engineer, Ops   |
+| Member         | Stan Hu         | Engineering Fellow        |
 
 
 ## Direction
