@@ -70,17 +70,24 @@ is an operating principle of Results.
 
 ### How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team
 
-Starting from `2022-06-13` the Support Team and the `Ops Section` of the Development Group are running a pilot project. See [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4276) for details of the pilot. The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the [Ops Section](https://about.gitlab.com/handbook/product/categories/ops/) for any technical issues which they are currently unable to progress. Please note that Slack may still be used for asking the Ops Development Group simple or brief questions, however issues are now the preferred approach if the question requires any research or collaboration involving this Development team.
+Starting from `2022-06-13` the Support Team and the Development Teams are rolling out a series of projects that will enable support engineers to request help from a GitLab Development group, for more information on this please review the [associated proposal](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4023). The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the various Development Sections for any technical issues which they are currently unable to progress.  Please note that this is an iterative process, which aims to roll out the process for each of the 10 development sections at GItLab. If the Development Section that you require assistance from is not listed in the table below then please continue to use the existing methods for contacting the relevant Development Teams, such as Slack. 
+
+### List of Development Sections and corresponding links to the Projects for requesting help
+
+| Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help | 
+| ----------- | -------------- | -------- | 
+| Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) | 
+| Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) | 
 
 The steps for submitting a help request are as follows:
 
-1. Go to the [Section Ops Request for Help Repository](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help)
-1. In the [ReadMe](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/-/blob/main/README.md) (displayed on the project page):
-   1. Read the [Support Engineer User Guidance](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#support-engineer-user-guidance) section and follow the steps outlined.
-   2. Read the [Development groups and their corresponding templates](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels) section and use the Handbook links provided if you are unsure as to which `Ops` Section Sub Group and corresponding template you should use.
+1. Review the above table and click the link to open the corresponding GitLab.com Development Section Project that you require help from.
+1. Within each GitLab Project there is a `ReadMe` (displayed on the project page):
+   1. Read the `Support Engineer User Guidance` section and follow the steps outlined.
+   2. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
 1. Submit a new issue to the project using the template you've identified.
    - The issue will be automatically assigned to the relevant developers for triaging
-1. If you encounter any problems, such as obtaining a timely response from development, then please make the Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from the [list of Ops Section handbook links](https://gitlab.com/gitlab-com/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels).
+1. If you encounter any problems, such as obtaining a timely response from development, then please make the corresponding Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`
 1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
 
 
