@@ -22,7 +22,7 @@ This page provides an overview on relevant CSM leadership processes.
 
 | Name | Region | Role | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | [CSM Segment](/handbook/customer-success/tam/segment/) |
 |--------------------------------------------------------------------------------|-----------|-------------|-------------------------|-----------------------|
-| [Sherrod Patching](https://about.gitlab.com/company/team/#spatching)           | Global    | Sr Director | All (ENT, COMM, PubSec) | All CSM Segments      |
+| [Sherrod Patching](https://about.gitlab.com/company/team/#spatching)           | Global    | VP         | All (ENT, COMM, PubSec) | All CSM Segments      |
 | [Christiaan Conover](https://about.gitlab.com/company/team/#christiaanconover) | AMER      | Director    | Enterprise              | Strategic & Mid-Touch |
 | [Taylor Lund](https://about.gitlab.com/company/team/#taylorlund)               | Global    | Manager     | All (ENT, COMM, PubSec) | Scale                 |
 | [Chloe Whitestone](https://about.gitlab.com/company/team/#chloe)               | AMER      | Manager     | All (ENT, COMM, PubSec) | Mid-Touch             |
