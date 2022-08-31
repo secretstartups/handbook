@@ -37,9 +37,10 @@ The Token Management Working Group will deliver:
 | Member         | Joaquin Fuentes   | Director Security Operations           |
 | Member         | Valentine Mairet   | SIRT Manager           |
 | Member         | Philippe Lafoucrière    | Security Architect           |
-| Member         | Andrew Kelly   |  AppSec Manager          |
+| Member         | Andrew Kelly    | AppSec Manager            |
 | Member         | Chris Moberly   | Red Team Manager          |
-                                         
+| Member         | Grzegorz Bizon  | Principal Engineer, Ops   |
+
 
 ## Direction
 TBD
