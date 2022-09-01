@@ -54,6 +54,52 @@ to providing team members earlier in their careers content that instills a passi
 The program helps build technical, trusted advisory muscle memory, places team members in a role serving the SMB segment, and in a function where there is 
 high awareness of priorities that are aligned to visible results.
 
+#### Supplemental Onboarding Content
+
+The Associate SA Program aims to embody as many GitLab values as possible as it aims to instill a passion for DevOps, Open-Source Software, and GitLab.  Key values and sub-values include:
+
+* [Dogfooding](/handbook/values/#dogfooding) (Results Sub-value)
+* [Self-service and self-learning](/handbook/values/#self-service-and-self-learning) (Efficiency Sub-value)
+* [Be a mentor](/handbook/values/#be-a-mentor) (Diversity, Inclusion & Belonging Sub-Value)
+* [Iteration](/handbook/values/#iteration)
+* [Transparency](/handbook/values/#transparency)
+
+The content is supplemental to the [30/60/90 day onboarding](/handbook/customer-success/solutions-architects/sa-onboarding/#30-60-90-day-program) that all SAs go through.  
+
+| Activity / Content                       | Timeline / Frequency            | Description                             |
+|------------------------------------------|---------------------------------|-----------------------------------------|
+| **End of Week Debrief**         |  Weekly from Week 1         |  The SA Manager overseeing the Associate SA Cohort will setup an end of week debrief for 30 minutes where the cohort can ask questions and provide feedback on the week thus far. This time is also used to review and provide synchronous feedback on any assignments that were due throughout the week.  Please note that any synchronous feedback should be secondary as the preferred way of relating feedback to individuals us [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) |
+| **[Call Review](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=Bi-Weekly%20Call%20Review)**                |  Bi-Weekly, first 3 months        | Upon receiving access to Chorus, the cohort ought to review a single call at least every other week |
+| **[Getting Good with Troops](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=Getting%20Good%20With%20Troops)** | For 4 weeks at the 3-4 months mark | Associate SAs should plan to attend at least 3 calls per week and record these calls via Troops |
+|**[GitLab Exercise](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=GitLab%20Exercise)**||The goal of this activity is to become comfortable with GitLab mechanisms for educating oneself about the wider GitLab initiatives throughout the organization|
+|**[Capability Deep Dives](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=Weekly%20Capability%20Deep%20Dive)**|Weekly upon Completion of Demo2Win|These weekly capability deep dives aim to solidify good Tell-Show-Tell practices. These ought to continue until SAs begin doing demos with customers.|
+|**[SA-to-AE Coffee Chats](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=SA-to-AE%20Coffee%20Chats)**||As the cohort becomes comfortable with demoing and taking the lead on calls, it is important to begin establishing relationships with the Account Executives they will support. |
+
+#### Cohort Coaches
+
+Coaches meet with the entire cohort for either a specific session or multiple sessions. 
+
+##### Americas May Cohort
+
+| Coaches        | Frequency     | Description                                                 |
+|----------------|---------------|-------------------------------------------------------------|
+| Taylor Medlin  | Weekly        |                                                             |
+| Joe Randazzo   |               |                                                             |
+| Noah Ing       |  One-time     |  Kubernetes                                                 |
+| Jan Kunzmann   |               |  Observability 101                                          |
+
+#### Cohort Mentors
+
+Coaches meet with the entire cohort for either a specific session or multiple sessions. 
+
+##### Americas May Mentors
+
+| Mentor            | Associate SA     |
+|-------------------|------------------|
+| Taylor Medlin     | Jerez Solis      |
+| Sarah Bailey      | Sophia Manicor   |
+| Corina Patachia   | Christian Nnachi |
+
 #### How to Get Engaged with the Program!
 
 **If you are looking to coach or mentor Associate SAs** that are going through the program you can do so by helping the Associate SAs understand
