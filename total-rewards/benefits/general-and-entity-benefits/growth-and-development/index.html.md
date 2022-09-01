@@ -150,6 +150,7 @@ The following programs have been contributed by leaders across the organization.
 | Security | [Defcon Trainings](https://defcon.org/) | Two-day courses that are held immediately following the normal Defcon conference. |
 | Security | [Black Hat Trainings](https://www.blackhat.com/trainings/) | Two to four-day courses held on a schedule not connected to the yearly conference. |
 | Security | [SANS Trainings](https://www.sans.org/) | Remote and in-person trainings and certifications. |
+| Any | [The Power of Habit](https://cruciallearning.com/the-power-of-habit/) | 3-5 hours of self-paced learning. Read a review from GitLab team member [here](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/597#note_1083831440) |
 
 ### Crucial Conversations training 
 
