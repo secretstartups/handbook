@@ -30,7 +30,7 @@ This part will help you with:
 
 
 #### SalesForce existing accounts 
-Everyone has a book of business of 700-1000 accounts. In order to prioritize your time effectively use [this report - add later](add later) - training video - [add video that explains how the account view works]
+Everyone has a book of business of 700-1000 accounts. In order to prioritize your time effectively use the [MMKAFO - My Accounts Report](https://gitlab.my.salesforce.com/00O8X000008QuqP). This [training video](https://gitlab.zoom.us/rec/share/MNUlHlU-91xHVg8nMBHM-rpd74Cg9xGQMrbYbNFqj4LtvG2qGVHJhg5hm8CbzmVv.yAzAYbT7hjU1N-1r) will explain how we use the report, what we focus on in the report, and how often we should be using this report. Please contact Jacob Potter for the video passcode.
 
 This report filters by 6 main categories:  
 
