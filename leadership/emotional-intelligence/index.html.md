@@ -13,9 +13,11 @@ title: Emotional Intelligence
 
 At GitLab, we place a high level of importance on interpersonal skills for workplace effectiveness. Employee interpersonal skills have an impact on productivity, morale, engagement, performance, and help us [live up to our values](/handbook/values/). Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness.
 
-One of the most important factors in people's decisions to stay or leave a job is the quality of the relationship they have with their immediate boss and their coworkers. There are practical ways to learn and apply interpersonal skills in a remote environment. In this section of the handbook we are going to review the key characteristics of EQ and how you can improve your interpersonal skills professionally and personally. You'll learn how to work more effectively with others. 
+One of the most important factors in people's decisions to stay or leave a job is the quality of the relationship they have with their immediate boss and their coworkers. There are practical ways to learn and apply interpersonal skills in a remote environment. In this section of the handbook we review the key characteristics of emotional intelligence (EQ) and how to improve your interpersonal skills professionally and personally. You'll learn how to work more effectively with others. 
 
 ## What is emotional intelligence?
+
+![ven diagram explanining elements of emotional intelligence.](eq-diagram.jpg){: .shadow.medium.center}
 
 EQ is defined as the ability to understand and manage your own emotions, as well as recognize and influence the emotions of those around you, according to [Harvard Business review](https://online.hbs.edu/blog/post/emotional-intelligence-in-leadership). At GitLab, we operate in an [all-remote environment](/company/culture/all-remote/guide/) where [team members communicate](/handbook/communication/) virtually across the globe. By fostering EQ, we can establish a level of connection in an all-remote environment.
 
@@ -32,38 +34,24 @@ It is a tool that is helping GitLab build an [inclusive environment for everyone
 ## Components of EQ
 
 There are five main components of EQ:
-1.  **Self Awareness.** The ability to identify and understand your own emotions and the impact we have on others. 
-    *  Associated Self-Awareness Competencies:
-        *  Emotional Self-Awareness
-        *  Accurate Self-Assessment
-        *  Self-Confidence
-2.  **Social Skills.** The ability to understand the emotions of others through empathy by identifying what others feel and sharing emotion.
-    *  Associated Social-Skills Competencies:
-        *  Empathy
-        *  Organizational Awareness
-        *  Service
-3.  **Self Regulation.** The ability to manage emotions and behaviors. When we are aware of our emotions we can begin to manage them.
-    *  Associated Self-Regulation Competencies:
-        *  Emotional Self-Control
-        *  Transparency
-        *  Adaptability & Initiative
-4.  **Relationship Management.** The ability to build and maintain healthy relationships through conflict management, teamwork, and to inspire others.
-    * Associated Relationship Management Competencies:
-        *  Inspirational Leadership
-        *  Influence
-        *  Developing Others & Teamwork
-        *  Conflict Management
-5.  **Motivation.** The ability to pursue goals with energy and persistence and a passion to work for reasons that go beyond money or status.
-    *  Associated Motivation Comptencies: 
-        *  Optimism 
-        *  Organizational Committment 
-        *  Achievement 
+
+| What it's called | What it means | Competencies to measure |
+| ----- | ----- | ----- |
+| **Self Awareness.**  | The ability to identify and understand your own emotions and the impact we have on others. | Emotional Self-Awareness, Accurate Self-Assessment, and Self-Confidence |
+| **Social Skills.** | The ability to understand the emotions of others through empathy by identifying what others feel and sharing emotion. | Empathy, Organizational Awareness, and Service |
+| **Self Regulation.** | The ability to manage emotions and behaviors. When we are aware of our emotions we can begin to manage them. | Emotional Self-Control, Transparency, and Adaptability & Initiative |
+| **Relationship Management.** | The ability to build and maintain healthy relationships through conflict management, teamwork, and to inspire others. | Inspirational Leadership, Influence, Developing Others & Teamwork, and Conflict Management |
+| **Motivation.** | The ability to pursue goals with energy and persistence and a passion to work for reasons that go beyond money or status. | Optimism , Organizational Committment, and Achievement  |
 
 The components of EQ were developed by psychologist and writer [Daniel Goleman and his colleages](http://jbedwardsandassociates.com/wp-content/uploads/2015/12/HBR-What-makes-a-great-leader-D.-Goleman.pdf). They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management. 
 
 Pure technical skills and intellectual ability are prerequisites for top positions, but they do not differentiate top performers from the rest as well as interpersonal abilities do. 
 
 ## How to develop your EQ in a remote environment
+
+_Click the numbers in the interactive image below to learn more._
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 99.45%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1083" height="1077" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/630fb3c75f08a40011b7201c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 1. **Control your self-expression and perceptions.** At GitLab, we rely on [written communication](/company/culture/all-remote/effective-communication/) and [virtual calls](/handbook/communication/#video-calls) as opposed to working in an office where we can rely on [in-person interactions](/company/culture/all-remote/in-person/). As remote workers, we not only have to collaborate on projects but we are also responsible for building relationships, trust, and rapport with other colleagues through a screen. To build trust with a team, we need to understand how we express emotions to others through various communication methods. 
 
