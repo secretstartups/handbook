@@ -15,10 +15,9 @@ The **Respond** group at GitLab is responsible for building tools that enable De
 
 ## Exciting things and accomplishments
 This section details the happenings within the Respond group. At any given time this section will have the top exciting things and/or accomplishments of the team.
-1. The team released the first iteration of the [Incident Timelines](https://about.gitlab.com/releases/2022/07/22/gitlab-15-2-released/#incident-timeline) to ensure the most relevant information is visible so stakeholders can track progress during an on-going incident.
-1. Two team members received discretionary bonuses; [Sarah Yasonik](https://gitlab.com/syasonik) and [Rajendra Kadam](https://gitlab.com/rkadam3).
-1. We had a community contributor, [Nicholas Fason](https://gitlab.com/nfason), fix a [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/345394#note_1031596335) for us!!!
-1. [Nicole Galang](https://gitlab.com/nicolegalang) updated and revamped the [Respond Group Dashboard](https://app.periscopedata.com/app/gitlab/1032030/DRAFT:-Respond-Group-Dashboard) for our performance indicators.
+1. The team released the first iteration of the [Linked Resources](https://docs.gitlab.com/ee/operations/incident_management/linked_resources.html#linked-resources-in-incidents) to allow users to more easily surface links to incident resources relevant to resolving incidents.
+1. [James Rushford](https://gitlab.com/jrushford) led a live coding session during [Community Office Hours](https://docs.google.com/document/d/18ddf5d5xASImrYnAG9P8VJXe0I63SBXy7ufDBBNB5H4/edit#).
+1. Our Error Budget 28d rolling average has been green for 3+ weeks!!!
 
 ## Peformance Indicators
 The Respond Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
@@ -55,6 +54,7 @@ Work with Nicole to clean up this section
 ## Snowplow Events
 Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/1032030/Respond-Group-Dashboard?widget=15225900&udv=0) for a list of events we have instrumented for Monitor:Respond Events.
 
+<details><summary>Table of Snowplow Events</summary>
 | Event Category | Event Action | 
 |----------------|--------------|
 | Incident Management | view_alerts_list |
@@ -64,10 +64,12 @@ Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/103203
 | Incident Management | view_incident_details |
 | Incident Management | toggle_incident_comments_into_timeline_view |
 | Incident Management | create_incident_button_clicks |
+</details>
 
 ## Service Ping
 Service Ping is used for self-managed customers.  The table below was generated from https://metrics.gitlab.com/.
 
+<details><summary>Table of Service Ping Events</summary>
 | Event Category | Event Action | 
 |----------------|--------------|
 | Incident Management | counts.issues_created_gitlab_alerts |
@@ -142,6 +144,7 @@ Service Ping is used for self-managed customers.  The table below was generated 
 | Incident Management | counts.status_page_projects |
 | On-Call Schedule Management | redis_hll_counters.quickactions.i_quickactions_page_monthly |
 | On-Call Schedule Management | redis_hll_counters.quickactions.i_quickactions_page_weekly |
+</details>
 
 ## Communication
 
@@ -214,12 +217,6 @@ This team maps to the [Respond Group](/handbook/product/categories/#respond-grou
 
 * If there's 80% of a decision but still some unknowns, **it can be ok to use "I'm just going to improvise" as the plan** for the remaining pieces. Just state it explicitly in advance & communicate the outcome afterward.
     * The best path forward is sometimes the path of least resistance. **It often doesn't matter *what* you do, as long as it's well communicated.**
-
-
-## Repos we own or use
-* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
-* [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee) - Where much of the user facing code lives
-* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
 
 ## Issue boards
 
@@ -404,7 +401,7 @@ The following people are owners of this account and can [grant access](https://z
 For more information on how to use Zoom see theirs [guides](https://marketplace.zoom.us/docs/guides) and [API reference](https://marketplace.zoom.us/docs/api-reference/introduction).
 
 ## Recurring Meetings
-While we try to keep our process pretty light on meetings, we do hold a [Monitor:Monitor Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
+While we try to keep our process pretty light on meetings, we do hold a [Monitor:Respond Team](https://docs.google.com/document/d/1_z-VJYnobq5UN0PbFoABWLK3PNn9IXlDo8WO51DF2Ls/edit#heading=h.8jytjqyq0he2) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
 ## Labels
 The Respond team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
