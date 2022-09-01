@@ -119,7 +119,7 @@ The questions are usually in the form of:
 
 "Can you tell me about a time when...?"
 
-The kind of answer that we are looking for is to get a story that is structured following the **Situation, Task, Action, and Result (STAR)**. Ask for an overview, an executive summary, of the case at hand. Try to avoid lengthy answers from the candidate at this stage.
+The kind of answer that we are looking for is to get a story that is structured following the **Situation, Task, Action, and Result ([STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result))**. Ask for an overview, an executive summary, of the case at hand. In order to avoid lengthy answers from the candidate at this stage consider briefly explaining the STAR structure before asking your first behavioral question. Stating something like - "These questions are behavioral, so try and structure your response by briefly outlining the situation, describing the task to be performed, outlining the actions you took and explaining the results."
 
 Some things to pay attention to:
 
