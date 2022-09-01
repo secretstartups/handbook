@@ -126,7 +126,7 @@ All onboarding related employment templates (country and role based) can be foun
 * [GitLab onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/)
 * [GitLab Onboarding Feedback](/handbook/people-group/general-onboarding/onboarding-feedback/)
 * [Merge Request buddies](/handbook/people-group/general-onboarding/mr-buddies/)
-* [Onboarding Processes](/handbook/people-group/general-onboarding/onboarding-processes/)
+* [Onboarding Processes](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/)
 * [Quality team onboarding](/handbook/engineering/quality/onboarding/)
 * [Sales team onboarding](/handbook/sales/onboarding/)
 * [Support team onboarding](/handbook/support/training/)
