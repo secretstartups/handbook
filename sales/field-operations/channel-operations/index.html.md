@@ -105,7 +105,6 @@ There are a number of different slack channels to serve the different needs of t
 | pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  [Team Coverage](https://docs.google.com/spreadsheets/d/1fCaRgYn0qJ5lT3Qgaq-Vqkw3X6wa53py3Qm7yPYYlA4/edit#gid=0) | any | any |
 | apac_partners | A channel for the APAC channels team and stakeholders can collaborate | _blank_ | any | any |
 | channel-services | Questions and comments about channel services program, enablement and field engagement |  | any | any |
-| channel-team-announcements* | Updates to channel team members ONLY | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | channel and alliance team members ONLY | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey |
 | alliances | A channel for collaboration with the alliances Team | https://about.gitlab.com/handbook/alliances/ | any | any |
 | alliance_sales_ops | Questions and comments about alliance operations | https://about.gitlab.com/handbook/alliances/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 
@@ -147,7 +146,7 @@ Sales Reps are responsible for quoting all GitLab direct and reseller-direct quo
 - Reseller name
 
 ### Transacting Through Distribution
-*   All US PubSec deals are transacted through Carahsoft (gitlab@carahsoft.com) or Immix (GSA only).
+*   All US PubSec deals are transacted through Carahsoft (gitlab@carahsoft.com) or Immix (GSA only). PubSec distribution is not managed by Partner Order Operations.
 *   Open track Commercial partners in AMER are encouraged to transact through our AMER distributor Arrow ECS at gitlabteam@arrow.com.
 *   Open track partners in EMEA are required to transact through our EMEA distributor Amazic at gitlab@amazic.com.
 *   All partners in India are required to transact through our India distributor Redington at gitlab@redington.co.in.
@@ -155,7 +154,7 @@ Sales Reps are responsible for quoting all GitLab direct and reseller-direct quo
 
 Distributors are equipped to self-quote new business or other order types without receiving an official GitLab quote, as long as partner discounts are confirmed to them. So, there may be times, especially in multiple bid scenarios, where you may not be aware of all the partners bidding on an opportunity if they haven’t submitted a Deal Registration, until we receive a PO.
 
-If a reseller requests a quote from a distributor via the aliases above, the distributor will contact partnerorderops@gitlab.com to request an official quote and Partner Operations will generate the quote for the distributor to generate their official PO to place an order.
+If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnerorderops@gitlab.com to request an official quote and Partner Operations will generate the quote for the distributor to generate their official PO to place an order.
 
 #### Internal Distributor Quote Requests 
 If you are working with an Open partner and need a distributor quote sent, please email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnerorderops@gitlab.com.
