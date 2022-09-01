@@ -49,7 +49,15 @@ We avoid deploying minor or major releases of the navigation on release post day
 To update the navigation in the repositorys that consume it, for example www-gitlab-com, or buyer-experience:
 - Go to `package.json`, find the `be-navigation` line item, and increment to the latest version
 - run `npm install` to update the package
-- commit your changes, do extensive testing in the review app, and merge. 
+- commit your changes so that you can do extensive testing in the review app
+- Once the review app is built, check the following for bugs or strange behaviour. Remember that this component is on every page, sitewide:
+  - Click all top level navigation headers. Do their menus show up properly?
+  - Tab through all items in one of the navigation sections using your keyboard
+  - Check that the Close, Login, and Support buttons all work as expected
+  - Check that the logos in Alliance Partners look alright, and that Resources -> Get Started icons are aligned
+  - Scroll down to the footer and click on a regular link, and `Cookie Preferences`, and `Edit in Web IDE` to make sure they work as expected
+  - Go to mobile view and click through all links
+- Does anything seem off? If it's breaking, hotfix it in the navigation repo and release a new version. If it's a minor bug, create a new issue to be triaged. 
 
 _Note: You will have to visit pages built by that repository in order to see your navigation changes. For example, the website [homepage](https://about.gitlab.com) is built in `Buyer Experience`, so you can visit the homepage in your review app to see your navigation changes. However the [handbook](/handbook/) is built by `www-gitlab-com`, so you'll need to go to a handbook page in order to test your navigation changes in the `www` review app._
 
