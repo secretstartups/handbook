@@ -42,6 +42,8 @@ The Token Management Working Group will deliver:
 | Member         | Connor Gilbert  | Sr. Product Manager, Secure:Static Analysis |
 | Member         | Grzegorz Bizon  | Principal Engineer, Ops   |
 | Member         | Stan Hu         | Engineering Fellow        |
+| Member         | Michelle Gill   | Senior Engineering Manager, Manage |
+| Member         | Hannah Sutor    | Senior Product Manager, Manage:Auth |
 
 ## Direction
 TBD
