@@ -39,9 +39,9 @@ The Token Management Working Group will deliver:
 | Member         | Philippe Lafoucrière    | Security Architect           |
 | Member         | Andrew Kelly    | AppSec Manager            |
 | Member         | Chris Moberly   | Red Team Manager          |
+| Member         | Connor Gilbert  | Sr. Product Manager, Secure:Static Analysis |
 | Member         | Grzegorz Bizon  | Principal Engineer, Ops   |
 | Member         | Stan Hu         | Engineering Fellow        |
-
 
 ## Direction
 TBD
