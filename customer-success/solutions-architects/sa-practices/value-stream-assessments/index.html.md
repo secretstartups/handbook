@@ -15,7 +15,7 @@ title: Value Stream Assessments
 
 When working with GitLab, many prospects and customers have software delivery performance improvement as a critical business outcome. Unfortunately, due to the inherent and increasing complexity in the software delivery process, an organization's software delivery value stream often consists of dozens, if not hundreds, of manual configuration touch points and handoffs. Usually, there is a lack of understanding and visibility into the current process, making it challenging to identify and measure software delivery improvements. Without understanding the current value stream, organizations risk slower progress in improving their software delivery performance.
 
-Where applicable, GitLab account teams should assist prospects and customers by providing a assessment of their value stream. The content on this page outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers. By creating a better understanding of the current process by identifying bottlenecks and establishing a baseline measurement of software delivery performance, GitLab can ensure our prospects and customers can realize improvements more quickly and continuously.
+Where applicable, GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The content on this page outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers. By creating a better understanding of the current process by identifying bottlenecks and establishing a baseline measurement of software delivery performance, GitLab can ensure our prospects and customers can realize improvements more quickly and continuously.
 
 ## Process
 
@@ -206,7 +206,7 @@ The process which we will go through, at a high level, is as follows:
 
 ### Executive Briefing - Summarize the Findings
 
-The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called a executive presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
+The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called an executive presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
 
 1. Summary of planning outcomes; what process was to be mapped and what target goals were created
 1. Summary of the current state mapping (with VSM diagram)
