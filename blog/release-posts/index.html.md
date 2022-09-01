@@ -982,7 +982,7 @@ The Release Post Manager will solicit MVP nominations via an [MVP Issue](https:/
 - The Release Post Manager will choose an MVP based on feedback in the MVP Issue.
 - They should not wait for consensus.
 - There can only be one MVP per release post.
-- A contributor is eligible to be MVP once per two major release cycles. For example, if they are MVP during any 13.\* milestone, they cannot be an MVP during any 14.\* milestone.
+- A contributor is eligible to be MVP once per major release cycle. For example, if they are MVP during any 13.* milestone, they cannot be an MVP again until the 14.0 milestone.
 - The MVP will receive a GitLab swag pack in celebration of their contribution.
 
 #### MVP content block
