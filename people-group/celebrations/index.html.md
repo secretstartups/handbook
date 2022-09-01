@@ -18,16 +18,7 @@ At GitLab we like to acknowledge and celebrate team member milestones and contri
 Along with this, all celebrants regardless of length of tenure will receive a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
 #### Anniversary Gifts
-On the last day of the month of celebration, team members can anticipate an email with a unique link which will lead them to the GitLab Anniversary Gift ordering portal where they can make the relevant size and shipping selections (where applicable).
-
-The average shipping time taking into account current restrictions as a result of global events is three weeks.  In an instance where an order has been placed and not received we encourage team members to reach out to People Connect in the **#people-connect** channel.
-
-| Year | Gift | 
-| --- | --- | 
-| **Year 01** | Celebratory Confetti Tanuki Socks (Unique to the Anniversary Program) or Corkcicle Tumbler |
-| **Year 03** | GitLab Tanuki Vest or Orange Puffer Jacket (limited sizes) |
-| **Year 05** | Travel Bag / Backpack |
-| **Year 10** | $500 Travel Grant |
+Anniversary gifts are not currently available. We ask for your patience as we work through securing a new method to distribute swag across our global structure. Once we have identified a path forward you or your Team Member will receive an email notifying you on steps to take to request your anniversary gifts. 
 
 ### Team Member Birthdays
 GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
