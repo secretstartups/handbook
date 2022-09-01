@@ -449,7 +449,7 @@ Team members should be aware of key GitLab policies and asks.
 1. Associated activities should comply with local laws.
 1. Events should be outdoors as much as possible to reduce COVID risk.
 1. Team member safety should be considered in event planning. Funds should not be used toward risky activities. 
-1. Events should not involve activities that would not be covered under insurance (for example, skydiving).
+1. Events should not involve activities that would not be covered under insurance. Please reach out to total-rewards@gitlab.com for any questions related to what activities are covered.
 1. Team members should consult travel advisories, for example the one provided by the [U.S. Department of State](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) and avoid international travels to places against travel advice or with known unrest. 
 1. Team members should not use this program to subsidize existing travel plans. This grant exists to get team members together. Expenses should reflect this intent. 
 
