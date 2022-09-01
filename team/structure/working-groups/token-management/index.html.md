@@ -41,6 +41,8 @@ The Token Management Working Group will deliver:
 | Member         | Chris Moberly   | Red Team Manager          |
 | Member         | Grzegorz Bizon  | Principal Engineer, Ops   |
 | Member         | Stan Hu         | Engineering Fellow        |
+| Member         | Michelle Gill   | Senior Engineering Manager, Manage |
+| Member         | Hannah Sutor    | Senior Product Manager, Manage:Auth |
 
 
 ## Direction
