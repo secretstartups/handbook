@@ -97,7 +97,7 @@ There are a number of different slack channels to serve the different needs of t
 
 | Slack Channel | Description | Topic | Audience | Posting Permissions |
 | ------ | ------ | ------ | ------ | ------ |
-| channel-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #channel-programs-ops or #channel-sales | _blank_ | any | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey
+| partner-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #channel-programs-ops or #channel-sales | _blank_ | any | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey
 | channel-program-ops | Questions and comments about channel programs and operations | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 | channel-sales |  Questions and comments about opportunities, partner connections, field engagement, and other channel sales questions | _blank_ | any | any |
 | channels-emea | A channel for the EMEA channels team and stakeholders to collaborate | Team coverage: Matthew: France, Russia, Spain, MEA; Ilaria: DACH, Poland, Italy, Cze; Kevin: UK, I, Nordics, BeneLux; Bastian: Commercial (Open partners pan EMEA + Amazic); Camille: Partner Support Helpdesk; Adrian: Solutions Architect - pan EMEA | any | any |
@@ -627,7 +627,7 @@ After all product approvals are complete, Channel Operations will request approv
 
 ### Internal Price File Communications
 
-Channel Operations will post a message on the slack channel #channel-fyi to share the updated Price Files and call out any major changes. 
+Channel Operations will post a message on the slack channel #partner-fyi to share the updated Price Files and call out any major changes. 
 
 ### External Price File Communications
 
