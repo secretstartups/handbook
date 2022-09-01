@@ -186,7 +186,7 @@ The format to follow is:
 
 `- [ ]  @usernameofdeprovisioner @usernameofdeprovisioner2: Remove the team member from System Name`
 
-If the system will be accessed by multiple departments, update all the relevant templates. Once your MR is ready, you can mention `@gl-people-exp` for approval and merge.
+If the system will be accessed by multiple departments, update all the relevant templates. Once your MR is ready, you can mention `@gl-people-connect-team` for approval and merge.
 
 
 <div id="js-tech-stack-overview"></div>
