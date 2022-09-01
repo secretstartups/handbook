@@ -26,6 +26,29 @@ For the CSM team in driving use-case enablement, there are two critical motions:
 
 **Note:** To ensure that your use-case Enablement or use-case Expansion CTA is included in reporting, please make sure to attach a playbook to the CTA.
 
+### Reporting on expansion and enablement objectives
+
+Each Use Case (CI, DevSecOps...) is determined by the Playbook Name, which is selected by the TAM when initially created. This automation (using the Playbook Name) automates the process so there is not an additional field to complete.
+
+The filter used to identify Closed Enable/Expand CTAs are:
+
+**Expand**
+
+1. Playbook Name contains “Expand” in the case of Expand CTAs
+    OR 
+1. Objective Category == Expansion Stage Adoption
+	AND
+1. (Playbook Name does not contain "OLD" 
+
+**Enable**
+
+1. Playbook Name contains “Enable” in the case of Enable CTAs
+    OR 
+1. Objective Category == Enablement Stage Adoption
+	AND
+1. (Playbook Name does not contain "OLD" 
+
+
 ## When do I open a CTA/playbook?
 
 1. Use-case Expansion: open the playbook when you plan to **start** the motion of exploring this expansion with the customer through the discovery process. This timing is incredibly key, since capturing the 'no' reasons helps articulate through data the roadblocks to expansion, and helps build scaleable plays for overcoming these roadblocks.  We expect to see more than 50% of our playbooks here being closed-no success for reasons of timing, internal challenges or otherwise!  The goal here is to continue exploring expansion with the customer as it pertains to furthering their business value with GitLab and collecting common reasons for no-success in order to establish more plays to help us overcome objections.

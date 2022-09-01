@@ -205,6 +205,8 @@ Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) 
 1. How to categorize the stage adoption objective within the CTA so that it reflects the correct stage
 1. What is not considered stage adoption
 
+For understanding the Use Case Enablement and Expansion reporting, see [Reporting on Expansion and Enablement Objectives](https://about.gitlab.com/handbook/customer-success/tam/stage-enablement-and-expansion/#reporting-on-expansion-and-enablement-objectives).
+
 #### Business Outcomes vs. Value Drivers
 
 When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](/handbook/customer-success/tam/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
