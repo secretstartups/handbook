@@ -1,27 +1,27 @@
 ---
 layout: job_family_page
-title: "Internal Communications"
+title: "People Communications & Engagement"
 ---
 
 ## Levels
 
-### Internal Communications Associate
+### People Communications & Engagement Associate
 
-The Internal Communications Associate reports to the Senior Manager, Internal Communications.
+The People Communications & Engagement Associate reports to the Senior Manager, People Communications & Engagement.
 
-#### Internal Communications Associate Job Grade
+#### People Communications & Engagement Associate Job Grade
 
-The Internal Communications Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Communications & Engagement Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Internal Communications Associate Responsibilities
+#### People Communications & Engagement Associate Responsibilities
 
 * Develop and execute proactive and strategic communication initiatives, programs, and events in collaboration with global teams across GitLab
 * Own the internal editorial calendar, through vehicles such as our company newsletter, manager communication, executive videos and/or other communications channels
-* Partner closely with internal stakeholders and E-Group to develop change management communications with clarity and empathy
+* Partner closely with internal stakeholders to develop change management communications with clarity and empathy
 * Have an eye and ear to the ground across GitLab team members and teams with the goal of maximizing the team member experience and to ensure GitLab remains a place where all team members belong and are included
 * Be a shining example for GitLab’s culture, infusing GitLab’s mission, culture, and values into everything we do
 
-#### Internal Communications Associate  Requirements
+#### People Communications & Engagement Associate Requirements
 
 * Relevant communications experience
 * Self-motivated and ability to work as a Manager of one
@@ -32,23 +32,23 @@ The Internal Communications Associate is a [grade 5](/handbook/total-rewards/com
 * Ability to use GitLab
 * Aligns to GitLab's Values
 
-### Internal Communications Program Manager
+### People Communications & Engagement Program Manager
 
-The Internal Communications Program Manager reports to the Senior Manager, Internal Communications.
+The People Communications & Engagement Program Manager reports to the Senior Manager, People Communications & Engagement.
 
-#### Internal Communications Program Manager Job Grade
+#### People Communications & Engagement Program Manager Job Grade
 
-The Internal Communications Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Communications & Engagement Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Internal Communications Program Manager Responsibilities
+#### People Communications & Engagement Program Manager Responsibilities
 
 * Develop and execute proactive and strategic communication initiatives, programs, and events in collaboration with global teams across GitLab
 * Own the internal editorial calendar and be the chief storyteller, whether it’s through our company newsletter, manager communication, executive videos and/or other communications channels
-* Partner closely with internal stakeholders and E-Group to develop change management communications with clarity and empathy
+* Partner closely with internal stakeholders and leaders to develop change management communications with clarity and empathy
 * Have an eye and ear to the ground across GitLab team members and teams with the goal of maximizing the team member experience and to ensure GitLab remains a place where all team members belong and are included
 * Be a shining example for GitLab’s culture, infusing GitLab’s mission, culture, and values into everything we do
 
-#### Internal Communications Program Manager Requirements
+#### People Communications & Engagement Program Manager Requirements
 
 * Relevant communications experience
 * Self-motivated and ability to work as a Manager of one
@@ -61,24 +61,26 @@ The Internal Communications Program Manager is a [grade 6](/handbook/total-rewar
 * Ability to use GitLab
 * Aligns to GitLab's Values
 
-### Senior Internal Communications Manager
+### Senior People Communications & Engagement Program Manager
 
-The Senior Internal Communications Manager reports to the Senior Manager, Internal Communications.
+The Senior People Communications & Engagement Program Manager reports to the Senior Manager, People Communications & Engagement.
 
-#### Senior Internal Communications Manager Job Grade
+#### Senior People Communications & Engagement Program Manager Job Grade
 
-The Senior Internal Communications Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Communications & Engagement Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Internal Communications Manager Responsibilties
+#### Senior People Communications & Engagement Program Manager Responsibilties
 
 * Develop and execute proactive and strategic communication initiatives, programs, and events in collaboration with global teams across GitLab
 * Own the internal editorial calendar and be the chief storyteller, whether it’s through our company newsletter, manager communication, executive videos and/or other communications channels
-* Partner closely with internal stakeholders and E-Group to develop change management communications with clarity and empathy
+* Partner closely with internal stakeholders, leaders, and E-Group members to develop change management communications with clarity and empathy
 * Have an eye and ear to the ground across GitLab team members and teams with the goal of maximizing the team member experience and to ensure GitLab remains a place where all team members belong and are included
+* Support engagement activities that are intended to improve team member engagement and build culture
+* Organize and operate culture champions program to ensure we have a trusted group of team members to ideate and collaborate with
 * Be a shining example for GitLab’s culture, infusing GitLab’s mission, culture, and values into everything we do
-* Once internal communications team grows, partner and provide dedicated communications support to certain E-Group members and leaders of their functions (think People Business Partner type model)
+* Partner with and provide dedicated communications support to certain various cross-functional team and leaders of their functions providing communications expertise to functional teams
 
-#### Senior Internal Communications Manager Requirements
+#### Senior People Communications & Engagement Program Manager Requirements
 
 * Relevant communications experience
 * Demonstrate the capability to drive initiatives, develop thoughtful communication strategies, and deliver results at a senior level
@@ -92,42 +94,42 @@ The Senior Internal Communications Manager is a [grade 7](/handbook/total-reward
 * Ability to use GitLab
 * Aligns to GitLab's Values
 
-### Staff Internal Communications Manager
+### Staff People Communications & Engagement Manager
 
-The Staff Internal Communications Manager reports to the Senior Manager, Internal Communications.
+The Staff People Communications & Engagement Manager reports to the Senior Manager, People Communications & Engagement.
 
-#### Staff Internal Communications Manager Job Grade
+#### Staff People Communications & Engagement Manager Job Grade
 
-The Staff Internal Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff People Communications & Engagement Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Internal Communications Manager Responsibilities
+#### Staff People Communications & Engagement Manager Responsibilities
 
-* Extends that of the Senior Internal Communications Manager responsibilities
-* Partner with the Internal Communications leader in providing ‘internal PR’ support, including crisis communications
-* Once internal communications team grows, partner and provide dedicated communications support to certain E-Group members and leaders of their functions (think HR Business partner type model)
+* Extends that of the Senior People Communications & Engagement Program Manager responsibilities
+* Partner with the People Communications & Engagement leader in providing ‘internal PR’ support, including crisis communications
+* Partner with and provide dedicated communications support to certain various cross-functional team and leaders of their functions providing communications expertise to functional teams
 
 
-#### Staff Internal Communications Manager Requirements
+#### Staff People Communications & Engagement Manager Requirements
 
-* Extends that of the Senior Internal Communications Manager requirements
+* Extends that of the Senior People Communications & Engagement Program Manager requirements
 * Out-of-the-box thinker who is both creative and strategic
 * Intellectual curiosity and want to learn anything and everything
 
-### Senior Manager, Internal Communications 
+### Senior Manager, People Communications & Engagement
 
-The Senior Manager, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
+The Senior Manager, People Communications & Engagement reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
 
-#### Senior Manager, Internal Communications Job Grade
+#### Senior Manager, People Communications & Engagement Job Grade
 
-The Senior Manager, Internal Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Communications & Engagement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager, Internal Communications Responsibilities
+#### Senior Manager, People Communications & Engagement Responsibilities
 
-* Drive a three-year internal communications roadmap
-* Lead, hire, and coach the growing  internal communications team
-* Influence and collaborate with E-Group and members of the Marketing and People teams to plan and improve company-wide team member communications including Slack, issue comments, and other asynchronous communication, Handbook education, company calls, breakout calls, group conversations, AMAs, etc.
-* Help drive CEO internal communications through supporting Group Conversations, Contribute and priority initiatives through crafting messaging and creating materials
-* Help moderate internal communications to ensure GitLab values are upheld as well as compliance with our code of conduct
+* Drive a communications and engagement strategy, roadmap, and communications calendar to help maintain and improve team member engagement
+* Lead, hire, and coach the growing  people communications & engagement team
+* Collaborate with various leaders and members of the Marketing and People teams to plan and improve company-wide team member communications including Slack, issue comments, and other asynchronous communication, Handbook education, company calls, etc.
+* Help moderate internal communications across general & administrative teams to ensure GitLab values are upheld as well as compliance with our code of conduct
+* Drive engagement activities that are intended to improve team member engagement and build culture
 * Provide ‘internal PR’ support, including crisis communications
 * Act as a communications consultant to team members to help develop campaigns for internal programs or initiatives (e.g. GitLab referral program)
 * Curate and publish key internal news (e.g., “Here are the 3 things you need to know” digest) on a weekly basis
@@ -135,7 +137,7 @@ The Senior Manager, Internal Communications is a [grade 9](/handbook/total-rewar
 * Collaborate with key stakeholders to develop specific communication plans (e.g., work with People Business Partners and People Operations on Engagement Survey communication)
 * Plan, communicate, and coordinate celebratory occasions, company communication initiatives, volunteer activities, and other team member engagement opportunities
 
-#### Senior Manager, Internal Communications Requirements
+#### Senior Manager, People Communications & Engagement Requirements
 
 * Relevant communications experience
 * Demonstrate the capability to drive initiatives, develop thoughtful communication strategies, and deliver results at a senior level.
@@ -152,37 +154,37 @@ The Senior Manager, Internal Communications is a [grade 9](/handbook/total-rewar
 * You share and can role model our values, and work in accordance with those values
 * Ability to use GitLab
 
-### Director, Internal Communications
+### Director, People Communications & Engagement
 
-The Director, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
+The Director, People Communications & Engagement reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
 
-#### Director, Internal Communications Job Grade
+#### Director, People Communications & Engagement Job Grade
 
-The Director, Internal Communications is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, People Communications & Engagement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Internal Communications Responsibilities
+#### Director, People Communications & Engagement Responsibilities
 
 * Design and execute an internal communications strategy that connects every GitLab team member to our mission, culture, values, and priorities.
-* Own and drive the CEO’s internal storytelling and narrative building
 * Drive a three-year internal communications roadmap
 * Provide strategic internal communications counsel to E-Group 
 * Lead, hire, and coach the growing  internal communications team
 * Manage planning and execution of Quarterly All Hands (GitLab Assembly)
-* Instill a data-driven mindset and robust two-way communication approach to internal communication effectiveness
+* Instill a data-driven mindset and robust two-way communication approach to how we communicate and share information with team members
 * Establish operating rhythm with key business functions to ensure key projects and priorities are effectively communicated
 * Lead ‘internal PR’ support, including crisis communications
 * Develop innovative ways of engaging team members across various communications channels
 
-#### Director, Internal Communications Requirements
+#### Director, People Communications & Engagement Requirements
 
 * Relevant Experience with internal and/or executive communications 
 * Experience building a high-growth, scaling global internal communications function 
 * Outstanding leadership skills and someone who takes initiative, makes hard decisions, and is accountable
-* Proven track record of working closely with an executive leadership team 
+* Proven track record of working closely with an executive leadership team
+* Ability to influence senior leaders using data and expertise  
 * Demonstrated capability to drive initiatives, develop thoughtful communication strategies, and deliver results at a senior level
 * Willingness to roll sleeves up and work on complex issues and crises on deadline
 * High emotional intelligence, matched with the ability to execute
-* Enthusiasm for leading internal communications in a unique, fully remote environment where email and face-to-face meetings are not the standard communication media
+* Enthusiasm for leading a team in a unique, fully remote environment where email and face-to-face meetings are not the standard communication media
 * Bias for action with an ability to work in a fast-paced environment with ever-changing priorities
 * Highly collaborative and team-oriented
 * Adapt to change quickly and be a change agent for others
@@ -193,9 +195,10 @@ The Director, Internal Communications is a [grade 10](/handbook/total-rewards/co
 
 ## Performance Indicators
 
-* [Percent of sent Slack messages that are not DMs > 25%](h/handbook/communication/#avoid-direct-messages)
 * [Team member engagement survey score](/handbook/people-group/engagement/)
 * [Team member retention](/handbook/people-group/people-group-metrics/#team-member-retention)
+* [Team member sentiment about working at GitLab](https://www.greatplacetowork.com/certified-company/7013799)
+* Qualitative feedback from GitLab senior leaders
 * Ad hoc feedback from team members on specific programs and initiatives
 
 ## Career Ladder
