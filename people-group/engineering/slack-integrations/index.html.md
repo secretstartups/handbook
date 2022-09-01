@@ -64,11 +64,7 @@ Currently, the pipeline is scheduled to be run at 02:00 PM on every Wednesday.
 
 ### Offboarding sheet
 
-There's a Google sheet that keeps track of team members that need to be offboarded.
-The integration checks daily if anyone needs to be offboarded today or tomorrow. When
-people need to be offboarded, it will post a message saying so with a link to that
-Google Sheet. This is posted to the private Slack channel [`#people-exp-ops`](https://gitlab.slack.com/archives/C010VHN2EMC) with no
-personal information in the message.
+There is a Google form that People Connect submits scheduled or voluntary offboardings into, this is then stored within a Google Sheet which we check every day to determine whether or not anyone is being offboarded within the hour. This automation runs every hour to check and see if we have any new team members that are being offboarded, if there are any, we then open the related offboarding issues automatically.
 
 ### Employment survey
 
