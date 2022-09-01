@@ -142,11 +142,11 @@ The recommendation is to use public channels even while it may sometimes feel un
 | ------ | ------ | ------ |
 | #alliances | public | Questions regarding alliance partners |
 | #channel-sales | public | Topics related to channel sales |
-| #channel-programs | public | Topics related to channel programs |
+| #channel-programs-ops | public | Topics related to channel programs and operations |
 | #channel-marketing | public | Topics related to channel marketing |
-| #channel-ops | public | Questions regarding channel operations |
 | #channel-services | public | Topics related to channel services |
 | #channel-accred-mvp | public | Communication about the channel partner accreditation program |
+| #partner-fyi | public | Communicates updates to the Channel & Alliances teams on program, operations, enablement and marketing. |
 
 ### Helpful Company Slack Channels
 The below channels are owned by teams outside of the field organization but might be helpful for field team members to follow given the nature of their roles.
