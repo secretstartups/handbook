@@ -56,10 +56,10 @@ Prospecting:
 * Develop a strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
 
 Deal execution:
-* Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
+* Support acquisitions engagements start to finish, from qualifying targets, through closing and integration
+* Support the Sr. Director of Corporate Development in deal terms negotiation
 * Lead the cross-functional due-diligence process
-* Negotiate term sheet and final agreement document
-* Act as a subject matter expert on valuation and deal structuring
+* Work to establish valuations and ROI potential for deals by building financial models and conducting valuation analysis
 
 Integration:
 * Lead post-acquisition integrations as the directly responsible individual (DRI), driving the roadmap acceleration objectives to successful completion
@@ -70,11 +70,11 @@ Collaboration:
 
 #### Requirements
 
-* 2+ years experience developing, leading, negotiating and executing acquisitions focused on the enterprise tech industry
-* Demonstrated experience building valuation models for acquisition of pre-revenue and post-revenue companies
-* Demonstrated experience at constructing varied deal consideration structures and integration plans
-* Demonstrated understanding of technology with an acumen to engage with product and engineering leaders on tech roadmaps
-* Demonstrated experience with managing cross-functional teams and navigating complex communications with internal and external stakeholders.
+* 4+ years of experience in strategic, operational, or analytical environments such as Corp Dev, Investment Banking, Management Consulting or VC preferably in tech
+* Experience building valuation models for companies
+* Experience at constructing varied deal consideration structures and integration plans
+* Experience in partering with cross-functional teams and navigating communications with internal and external stakeholders.
+* Ability to formulate business opportunities thoroughly, propose sound business cases and line up the decisions at hand in order to drive progress
 * Preferred requirements:
   * Familiarity with the DevOps, Cyber and open-source spaces
 * You share our [values](/handbook/values/), and work in accordance with those values
@@ -98,7 +98,7 @@ Prospecting:
 Deal execution:
 * Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
 * Lead the cross-functional due-diligence process
-* Negotiate term sheet and final agreement document
+* Support the Sr. Director of Corporate Development in deal terms negotiation
 * Act as a subject matter expert on valuation and deal structuring
 
 Integration:
@@ -111,11 +111,12 @@ Collaboration:
 
 #### Requirements
 
-* 5+ years experience developing, leading, negotiating and executing complex acquisitions focused on the enterprise tech industry
-* Demonstrated experience building valuation models for acquisition of pre-revenue and post-revenue companies
-* Demonstrated experience at constructing varied deal consideration structures and integration plans
-* Demonstrated understanding of technology with an acumen to engage with product and engineering leaders on tech roadmaps
-* Demonstrated experience with managing cross-functional teams and navigating complex communications with internal and external stakeholders.
+* 3+ years experience developing, leading, negotiating and executing complex acquisitions focused on the enterprise tech industry
+* Experience building valuation models for acquisition of pre-revenue and post-revenue companies
+* Experience at constructing varied deal consideration structures and integration plans
+* Understanding of technology with an acumen to engage with product and engineering leaders on tech roadmaps
+* Experience with managing cross-functional teams and navigating complex communications with internal and external stakeholders.
+* Ability to formulate business opportunities thoroughly, propose sound business cases and line up the decisions at hand in order to drive progress
 * Preferred requirements:
   * Familiarity with the DevOps, Cyber and open-source spaces
 * You share our [values](/handbook/values/), and work in accordance with those values
