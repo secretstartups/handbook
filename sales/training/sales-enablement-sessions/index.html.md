@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 1 | VMware Tanzu Enablement session  | Vick K.  |
 | Sep 8 | Legal Subscription Agreement Update  | Matthew T.  |
 | Sep 15 | Storage & Transfer Limits  | Josh L.  |
 | Sep 22 | FY23 - Q3 Sales Ops Update - Clari Refresher  | Amber S. & Kathleen R.  |
@@ -40,6 +39,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-09-01 | **[VMware Partnership and Go-to-Market Approaches.](https://youtu.be/Hx_QE65GDKA)**  | Private  |
 | 2022-08-25 | **[Q3 Rev Program Update](https://youtu.be/nBV-_LrTqKQ)**  | Private  |
 | 2022-08-18  | **[Automated Software Delivery (AutoSD) Integrated Campaign](https://youtu.be/Eq-DdOGkAlk)**  | Private  |
 | 2022-08-11 | **[FY23 - Q3 Channel Update](https://youtu.be/7H4tJptEJ_Y)**  | Private  |
