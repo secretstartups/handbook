@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Plan:Product Planning & Plan:Certify Engineering Team
+title: Plan:Product Planning Engineering Team
 ---
 
 ## On this page
@@ -9,25 +9,24 @@ title: Plan:Product Planning & Plan:Certify Engineering Team
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Plan:Product Planning & Plan:Certify team
+## Plan:Product Planning team
 
-The Plan:Product Planning & Plan:Certify team works on both the backend and frontend parts of
-GitLab's [Product Planning] and [Certify] categories in the [Plan stage].
+The Plan:Product Planning team works on both the backend and frontend parts of
+GitLab's [Product Planning] category in the [Plan stage].
 
 For more details about the vision for this area of the product, see the
 [Plan stage] page.
 
 [Product Planning]: /handbook/product/categories/#product-planning-group
-[Certify]: /handbook/product/categories/#certify-group
 [Plan stage]: /direction/plan/
 
 ### Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Plan:Product Planning') %>
+<%= direct_team(manager_role: 'Interim Engineering Manager, Plan:Product Planning') %>
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Product Planning)/, direct_manager_role: 'Fullstack Engineering Manager, Plan:Product Planning') %>
+<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Product Planning)/, direct_manager_role: 'Interim Engineering Manager, Plan:Product Planning') %>
 
 ### Hiring chart
 
@@ -50,14 +49,6 @@ Check out our [jobs page](/jobs/) for current openings.
 ### Stage-wide
 
 <%= partial("handbook/engineering/development/dev/plan/scalability_targets") %>
-
-### Product Planning & Certify
-
-| Type | Description | Estimated Timeline for Failure | Resolution Due Date | 12 Month Target | Issue | Status |
-| ---- | ---          | ---                            | ---                | ---    | ---   | ---    |
-| Redis Primary CPU | `EmailReceiverWorker` creates expensive `lpush` and `hset` operations on `redis-sidekiq` primary  | September 2021 | September 2021 | [1200 Service Desk][servicedesk] issues per day | [gitlab-com/gl-infra&469](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/469) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Resolved</span> |
-
-[servicedesk]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#service-desk
 
 ## Work
 
