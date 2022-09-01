@@ -363,46 +363,6 @@ Pages that are visited often should be prioritized over pages that rarely have a
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.
 
-#### Known Product Usage Behaviors
-In this section we document for the benefit of our community our known current product usage behaviors. This helps us ensure that we are aware of not just averages of usage but also upper bounds. When building new capabilities we will ensure that we accommodate behavior within the range and keep observed upper-bounds in mind when building for scale.
-
-| Metric                                  | Average |  Lower Range | Upper Range | Observed Min | Observed Max |
-|:----------------------------------------|--------:|-------------:|------------:|-------------:|-------------:|
-| Lines of Code Changed / MR<sup>1</sup>        | 137 | 6 | 1375 | 0 | 14280733 |
-| Files changed / MR<sup>1</sup>        | 6 | 1 | 28 | 0 | 5984 |
-| Commits / MR<sup>1</sup>       | 3 | 1 | 16 | 1 | 8802 |
-| Diff Size / MR<sup>1</sup>        | 238 | 18 | 1718 | 0 | 110732 |
-| Pipelines / Project<sup>2</sup>               | 103 | 1 | 5430 | 1 | 3021708 |
-| Projects / Top Level Namespace ([TBD](https://gitlab.com/gitlab-org/gitlab/-/issues/346210))    | | | | | |
-| Subgroups / Top Level Namespace ([TBD](https://gitlab.com/gitlab-org/gitlab/-/issues/346211))   | | | | | |
-| Issues / Top Level Namespace ([TBD](https://gitlab.com/gitlab-org/gitlab/-/issues/346212))      | | | | | |
-| Epics / Top Level Namespace ([TBD](https://gitlab.com/gitlab-org/gitlab/-/issues/346213))      | | | | | |
-| Environments / Project               | 1 | 0 | 2.5 | 0 | 231 |
-| Jobs / Pipeline ([TBD](https://gitlab.com/gitlab-org/gitlab/-/issues/346208))                   | | | | | |
-| Size (GB) / Repository ([TBD](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12702))            | | | | | |
-| Size (Lines of Code) / Repository ([TBD](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12701)) | | | | | |
-| Image tags / Container Registry ([REF]())   | 20 | 2 | 47 | 1 | 206,011 |
-| Packages / Registry ([REF]())               | 44 | 1 | 1762 | 0 | 177,144 |
-| Kubernetes clusters / environment ([TBD](https://gitlab.com/gitlab-org/configure/general/-/issues/173))     | | | | | | 
-| Variables / Project  | | | | | | 
-| Variables / Namespace  | | | | | | 
-| Parent child pipeline / project | | | | | |
-| Multi project pipeline / Project | | | | | | 
-| TBA | | | | | | 
-
-#### Product Usage Behavior Definition
-- Average - The average value across all data
-- Lower Range - Two standard deviations below the average
-- Upper Range - Two standard deviations above the average
-- Observed Min - The minimum value observed
-- Observed Max - The maximum value observed
-- Time Frame - TBD. We want to iterate on this view to represent data from the last 12 month for active projects to better represent current usage behaviors.
-
-#### Notes
-
-1. Merge request diffs follow [collection limits](https://docs.gitlab.com/ee/development/diffs.html#diff-limits) in application
-2. Within this metric distribution of projects is not "normal" so two standard deviations below the mean is reported as a negative. 
-
 #### Restriction of closed source JavaScript
 
 In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html),
