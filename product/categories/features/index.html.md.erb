@@ -29,6 +29,7 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
         <% groupLine << "Product Manager".pluralize([*group.pm].count) + ": " + [*group.pm].map{ |pm| "[#{pm}]" }.join(", ") if group.pm %>
         <% groupLine << "Product Marketing Manager: [#{group.pmm}]" if group.pmm %>
         <% groupLine << "Engineering Manager: [#{group.em}]" if group.em %>
+        <% groupLine << "Fullstack Managers: " + Array(group.fullstack_managers).map{ |fem| "[#{fem}]"}.join(", ") if group.fullstack_managers %>
         <% groupLine << "Backend Engineering Manager: [#{group.backend_engineering_manager}]" if group.backend_engineering_manager %>
         <% groupLine << "Frontend Engineering Manager: [#{group.frontend_engineering_manager}]" if group.frontend_engineering_manager %>
 #### <%= "#{stage.display_name}:#{group.name}" %> Group
