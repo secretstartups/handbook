@@ -33,7 +33,7 @@ We also use a values alignment indicator to competencies:
 * [Results](/handbook/values/#results) - (R) 
 * [Efficiency](/handbook/values/#efficiency) - (E)
 * [Diversity, Incusion, and Belonging](/handbook/values/#diversity-inclusion) - (D)
-* [Iteration](/handbook/values/#iteration) - (I
+* [Iteration](/handbook/values/#iteration) - (I)
 * [Transparency](/handbook/values/#transparency) - (T) 
 
 #### What is the difference between CDF reviews and Talent Assessments? 
