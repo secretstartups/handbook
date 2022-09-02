@@ -415,7 +415,7 @@ Team members are expected to manage their individual expenses and adhere to expe
 
 ##### What can be expensed
 
-In addition to transportation, team members can expense hotels when traveling outside of their [local area](#local-area), meals with other team members, passport, visas, COVID testing, and activities with other team members.
+In addition to transportation, team members can expense hotels when traveling outside of their [local area](#local-area), meals with other team members, passport, visas, COVID testing, and activities with other team members. As long as 4 team members are present on a given day, accommodations and related travel expenses will be covered. Team members may expense accomodations for the night prior to the event only if best efforts have been exhausted to arrive the day of the event. 
 
 ##### Additional spending guidelines
 
