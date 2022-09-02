@@ -9,50 +9,60 @@ The VP, IT is a [grade 12](/handbook/total-rewards/compensation/compensation-cal
 
 
 ## Responsibilities
-1. Strategic and operational ownership for systems, business processes and data company wide.
-1. Lead IT strategic and operational planning to achieve business goals.
-1. Prioritize IT initiatives company wide.
-1. Coordinate the evaluation, deployment, and management of current and future IT systems.
-1. Identify opportunities for appropriate and cost-effective investment in information systems.
+
+1. Build, hire, develop and manage a strong information technology team that lives GitLab’s values.
+1. Deliver business results in the areas of IT Operations, IT Security and compliance, Enterprise business systems, business process, and system integration
+1. Lead IT strategic and operational planning to achieve business goals including managing a roadmap that will support rapid growth.
+1. Prioritize and coordinate project teams for IT initiatives company wide collaborating with a diverse set of stakeholders across Product, Engineering, Sales, Marketing, Security, People Ops, Finance and Legal.
+1. Develop the roadmap to optimize the business processes of Quote to Cash, Record to Report, Hire to Retire and Procure to Pay with the goal of driving more revenue or increasing operational efficiency.
+1. Drive the evaluation, deployment, and management of the GitLab Corporate system architecture and make decisions on current and future IT systems.
 1. Evaluate and make recommendations on staffing, outsourcing, purchasing, and in-house development of systems and processes.
-1. Responsible for information systems budget oversight and cost control.
-1. Work in partnership with business functions to build a strategy and roadmap that will support rapid growth.
-1. Participate in and facilitate the strategic and operational process improvement of the organization.
-1. Coordinate project teams throughout the organization as it relates to Information Systems.
-1. Identify potential bottlenecks and prepare the company for hyper-growth.
+1. Manage the $XM information systems budget including making business cases for additional budget and staffing.
+1. Build and lead an IT Program Management function 
+1. Develop and execute the infrastructure for scale to lead GitLab through hyper growth
+1. Be customer zero for GitLab product features that enable an IT organization. Build an engineering culture that contributes back to the GitLab product.
+
+
 
 ## Requirements
-1. 4 years of experience as VP Information Technology, CIO or similar role.
+1. Experience leading IT in a high growth environment and at scale - VP Information Technology, CIO or similar role.
 1. Outstanding knowledge of modern tech stack of cloud applications.
-1. Extensive hands on experience with design, development and implementation of IT systems.
-1. Solid understanding of data analysis and data engineering in a hyper growth company.
+1. Extensive hands-on experience with design, development and implementation of IT systems.
 1. Demonstrated knowledge of budgeting, financial planning and business operations.
 1. Analytical mind and great problem-solving skills.
-1. Have or had extensive experience with IT helpdesk function including hardware deployment and system access.
+1. Have or had extensive experience with IT helpdesk function including hardware deployment and system access ideally in a globally distributed company.
+1. Demonstrated ability to set direction for an IT function, influence strategy with company wide impact, and lead through change
 1. Outstanding communication and interpersonal abilities and history of success working with executives across an organization.
-1. BSc/BA in computer science or relevant field. MSc/MA is a big plus.
-1. Ability to use GitLab
+1. Ability to combine industry leading solutions with internal tools to create solutions that meet GitLab’s unique needs
+1. Demonstrated success building, developing, and leading global, remote teams 
+
+
 
 ## Performance Indicators
-1. [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
-1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
-1. [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-1. [% of company data in data warehouse](/handbook/business-technology/metrics/#percent--of-company-data-in-data-warehouse)
-1. [New Data or Functionality every 3 months](/handbook/business-technology/metrics/#new-data-or-functionality-every-3-months)
+- IT Program based impact to revenue or efficiency
+- SLA achievement for IT Support Issue Resolution
+- IT Team member satisfaction score
+
+
 
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below.
-1. Screening call with a team member from our recruiting team.
-1. Interview with Director of Business Operations
-1. Interview with 2+ Business Operations Department members
-1. Interview with 1-2 executive team members
-1. Interview with CEO plus 1-2 board members
+- Candidates for this position can expect the hiring process to follow the order below.
+- Screening call with a team member from our recruiting team.
+- Interview with VP, Finance and Business Technology
+- Interview with VP, Corporate Controller 
+- Interview with Sr. Director, Sales Systems 
+- Interview with Sr. Director Data Platform
+- Interview with VP, Security
+- Interview with VP, People Ops or CPO
+- Interview with CFO 
 
-Please note that a candidate may declined from the position at any stage of the process.
+
+Please note that a candidate may be declined from the position at any stage of the process. 
+
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 
-The next step in the VP, IT job family is to move to an EVP or C-level role. 
+The next step in the VP, IT job family is to be determined in the future.
 
