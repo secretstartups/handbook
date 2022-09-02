@@ -33,10 +33,11 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Morgan Fuller - Channel Operations Specialist
 - Nikhil Mordia - Channel Operations Specialist
 - Marcella Summers - Manager, Alliance Operations
+- Jack Cassidy - Alliance Operations Analyst 
 
 ### Department Responsiblities
 
-#### Alliance Operations (Marcella)
+#### Alliance Operations (Marcella, Jack)
 - Provide operational support and enablement to our [Alliances team](https://about.gitlab.com/handbook/alliances/) focusing on improving efficiency, effectiveness, and productivity
 - Onboard new alliance partners, develop and document quote-to-cash processes and best practices
 - Collaborate with our alliance partners, marketplace vendors, and internal departments to create systems integrations that support marketplace transactions
