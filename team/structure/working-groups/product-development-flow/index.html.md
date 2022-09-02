@@ -112,7 +112,7 @@ To propose an idea or solution that addresses one of the [defined problems](http
 | Executive Sponsor     | Anoop Dawar | VP, Product Management |
 | Executive Sponsor     | Christie Lenneville | VP of UX |
 | Facilitator           | Farnoosh Seifoddini | Principal PM, Product Operations |
-| Functional Lead       | Vincy Wilson (QE) | Manager, Quality Engineering - Growth & Protect |
+| Functional Lead       | Vincy Wilson (QE) | Manager, Quality Engineering - Growth & Govern |
 | Functional Lead       | Jackie Bauer (UX/Product Design) | UX Manager, Enablement & Growth |
 | Functional Lead       | Jeff Crow (UX Research) | Senior UX Researcher, Growth|
 | Functional Lead       | Michael Karampalas (Product Management) | Principal PM, Growth |
@@ -139,7 +139,7 @@ To propose an idea or solution that addresses one of the [defined problems](http
 |-----------------------|-----------------------|--------------------------------|
 | Contributor       | Farnoosh Seifoddini | Principal PM, Product Operations |
 | Contributor       | Wayne Haber (Engineering) | Director Engineering, Threat Management |
-| Contributor       | Vincy Wilson (QE) | Manager, Quality Engineering - Growth & Protect |
+| Contributor       | Vincy Wilson (QE) | Manager, Quality Engineering - Growth & Govern |
 | Contributor       | Jacki Bauer (UX/Product Design) | Product Design Manager, Growth & Fulfillment |
 | Contributor       | Michael Karampalas (Product Management) | Principal PM, Growth |
 | Contributor       | Justin Farris (Product Management) | GPM, Plan |

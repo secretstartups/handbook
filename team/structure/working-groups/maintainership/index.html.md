@@ -75,7 +75,7 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Functional Lead (Enablement)      		| Alex Ives                              | Engineering Manager, Database     |                            
 | Functional Lead (Fulfillment)      		| Jerome Ng                              | Senior Manager of Fulfillment |
 | Functional Lead (Ops)      				| Sam Goldstein                          | Director of Ops |
-| Functional Lead (Dev)      				| Max Woolf                              | Senior Backend Engineer, Manage:Compliance |
+| Functional Lead (Dev)      				| Max Woolf                              | Senior Backend Engineer, Govern:Compliance |
 | Functional Lead (Sec, ModelOps, Growth)   | Thomas Woodham                         | Sr. Engineering Manager, Secure Analyzers | 
 | Functional Lead (Maintainer - Frontend)         | Natalia Tepluhina | Staff Frontend Engineer |
 | Functional Lead (Non-Maintainer - Backend)      | Manoj M J | Senior Backend Engineer |
@@ -93,11 +93,11 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member            | Michał Zając       		 | Senior Backend   |
 | Member            | Douglas Barbosa Alexandre  | Staff Backend    |
 | Member 		     | Paul Gascou-Vaillancourt   | Senior Frontend,   |
-| Member            | Dennis Tang 				 | Engineering Manager, Manage:Compliance |
+| Member            | Dennis Tang 				 | Engineering Manager, Govern:Compliance |
 | Member            | Nick Nguyen 				 | Senior Engineering Manager, Datastores |
 | Member            | Kyle Wiebers 				 | Engineering Manager, Engineering Productivity | 
 | Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
-| Member            | Jiaan Louw 				 | Senior Frontend Engineer, Manage:Compliance |
+| Member            | Jiaan Louw 				 | Senior Frontend Engineer, Govern:Compliance |
 | Member            | Rémy Coutable 		 | Staff Backend Engineer, Contributor Success |
 
 ## Communicating changes

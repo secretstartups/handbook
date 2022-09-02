@@ -67,7 +67,7 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Facilitator                                | Steve Loyd            | Infrastructure VP                    |
 | Development:Dev&Ops&CICD Functional Lead   | Nick Thomas           | Staff Backend Engineer               |
 | Development:Dev&Ops&CICD Functional Lead   | Natalia Tepluhina     | Staff Frontend Engineer               |
-| Development:Secure&Protect Functional Lead  | James Johnson         | Staff Security Engineer              |
+| Development:Secure&Govern Functional Lead  | James Johnson         | Staff Security Engineer              |
 | Development:Enablement&Growth Functional Lead | DJ Mountney           | Staff Engineer                      |
 | Infrastructure Functional Lead             | Alessio Caiazza       | Staff Backend Engineer               |
 | Quality Functional Lead                    | Zeff Morgan           | Senior Software Engineer in Test     |

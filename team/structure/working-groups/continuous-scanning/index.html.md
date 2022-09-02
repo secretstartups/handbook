@@ -37,8 +37,8 @@ Our exit criteria maps to the proposal found in [this Epic](https://gitlab.com/g
 | Working Group Role | Person             | Title                                           |
 |--------------------|--------------------|-------------------------------------------------|
 | Executive Sponsor  | Hillary Benson     | Director of Product Management, Sec & ModelOps  |
-| Engineering DRI    | Thiago Figueiró    | Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security |
-| Product DRI        | Sam White          | Principal Product Manager, Protect              |
+| Engineering DRI    | Thiago Figueiró    | Backend Engineering Manager, Govern:Threat Insights, Govern:Security Policies |
+| Product DRI        | Matt Wilson        | Senior Product Manager, Govern                  |
 | Member             | Igor Frenkel       | Senior Backend Engineer, Secure:Composition Analysis |
 | Member             | Brian Williams     | Senior Backend Engineer                         |
-| Advisor            | Mehmet Emin Inac   | Staff Backend Engineer, Secure:Threat Insights  |
+| Advisor            | Mehmet Emin Inac   | Staff Backend Engineer, Govern:Threat Insights  |
