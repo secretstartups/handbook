@@ -338,7 +338,7 @@ Red Team specialists emulate adversary activity to better GitLab’s enterprise 
 * Utilize threat modeling concepts and frameworks such as MITRE ATT&CK, STRIDE, etc. to continually identify ways to protect and defend GitLab assets by executing attacks that emulate a range of adversaries
 * Focus on designing, researching, and executing attacks to challenge the blue team
 * Strive to identify weaknesses within GitLab products and corporate network and demonstrate the associated risks
-* Contribute to the GitLab Secure and Protect products
+* Contribute to the GitLab Secure and Govern products
 * Incorporate current security trends, advisories, publications, and academic research
 * Understand CND technologies to bypass these security controls and stay undetected
 * Report on the Red Team engagements providing an in-depth analysis of the security issues identified

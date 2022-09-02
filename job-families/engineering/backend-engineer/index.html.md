@@ -312,9 +312,9 @@ the Container Registry and is responsible for items listed under [Package produc
 * Create and maintain observability of the newly defined features
 * Work with customers on defining their needs to replace existing package repository solutions
 
-### Protect
+### Govern
 
-Focus on security protection features for GitLab (including container security, container scanning, and policy management). This role will report to and collaborate directly with the Protect Engineering Manager.
+Focus on security protection features for GitLab (including policy, vulnerability, dependency, and compliance management). This role will report to and collaborate directly with a Govern Engineering Manager.
 
 #### Requirements
 * Strong engineer with Go and Ruby experience.

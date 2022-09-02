@@ -126,7 +126,7 @@ Read more about what a [specialty](/handbook/hiring/#definitions) is at GitLab h
 ### Security (Sec)
 
 * The Security specialty maps to the [Sec department](/handbook/product/categories/#sec-department) at GitLab. 
-* This specialty covers the Secure and Protect stages of the [DevOps lifecycle](/stages-devops-lifecycle/). 
+* This specialty covers the Secure and Govern stages of the [DevOps lifecycle](/stages-devops-lifecycle/). 
 * As a Security specialist, you are responsible for covering topics that fall under these stages. For example: Application security, SAST, DAST, container security, open source security, and continuous security testing.
 
 ### Email

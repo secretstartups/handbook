@@ -134,9 +134,9 @@ Runner engineers are primarily responsible for the [GitLab-Runner](https://gitla
 * Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
 * Desirable: Strong experience with observability tools, including metrics (Prometheus is a plus), structured logging and distributed tracing.
 
-### Protect
+### Govern
 
-Focus on security protection features for GitLab (including container security, container scanning, and policy management). This role will report to and collaborate directly with the Protect Engineering Manager.
+Focus on security protection features for GitLab (including policy, vulnerability, dependency, and compliance management). This role will report to and collaborate directly with a Govern Engineering Manager.
 
 #### Requirements
 * Strong engineer with Go and Ruby experience.

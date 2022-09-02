@@ -141,7 +141,7 @@ The Director of Product Management, Dev is the PM DRI for the Dev parts of the
 ##### Sec
 The Director of Product Management, Sec is the PM DRI for the 
 [Secure](/handbook/product/categories/#secure-stage) and 
-[Protect](/handbook/product/categories/#protect-stage) parts of the
+[Govern](/handbook/product/categories/#govern-stage) parts of the
 [DevOps lifecycle](/handbook/product/categories/#devops-stages)
 and reports to the VP of Product.
 

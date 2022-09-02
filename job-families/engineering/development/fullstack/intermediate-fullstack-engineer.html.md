@@ -73,11 +73,11 @@ The [Growth sub-department](/handbook/engineering/development/growth/) analyzes 
 
 * Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend.
 
-### Protect
+### Govern
 
-The [Protect sub-department](/handbook/engineering/development/protect/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
+The [Govern sub-department](/handbook/engineering/development/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
 
-#### Protect Requirements
+#### Govern Requirements
 
 * Passion for security.
 * Understanding of all levels of OSI network model and common network protocols.
