@@ -567,10 +567,10 @@ Static Application Security Testing (SAST), Dynamic Application Security Testing
 
 Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team to compare totals from different data sets. 
 
-* [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Secure:Threat Insights Group
+* [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Govern:Threat Insights Group
 
-* [Secure & Protect GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
-This dashboard shows various MAU metrics for Secure and Protect. 
+* [Secure & Govern GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
+This dashboard shows various MAU metrics for Secure and Govern. 
 
 * [Secure SCA - PI - Software Composition Analysis](https://app.periscopedata.com/app/gitlab/749790/Secure-SCA---PI---Software-Composition-Analysis---Schwartz) Secure:Composition Analysis Group
 
@@ -609,7 +609,7 @@ WHERE field = stage_name
 
 **Team members**
 
-[Product categoeries page section to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
+[Product categories page section to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
 
 [Secure Handbook page section to find Secure engineering team members to collaborate with](/handbook/engineering/development/sec/secure/#team-members)
 
@@ -617,15 +617,15 @@ WHERE field = stage_name
 </details>
 
 
-#### Protect Stage
+#### Govern Stage
 
-Cloud native protections, including unified policy management, container scanning, and container network and host security.
+Manage security vulnerabilities, policies, and compliance across your organization.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Container Security Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Protect:Container Security Group
+* [Security Policies Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Govern:Security Policies Group
 
 
 **Important data documentation**
@@ -640,14 +640,14 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Protect Stage YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr)
+[Govern Stage YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr)
 
-[Protect UX YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrUL59mDTOdERpYEXGyMPVz)
+[Govern UX YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrUL59mDTOdERpYEXGyMPVz)
 
 
 **Product direction link**
 
-[Protect product direction page - 1 Year Plan](https://about.gitlab.com/direction/protect/#1-year-plan)
+[Govern product direction page - 1 Year Plan](https://about.gitlab.com/direction/govern/#1-year-plan)
 
 **Performance indicators**
 
@@ -655,17 +655,17 @@ WHERE field = stage_name
 
 **Key handbook pages**
 
-[Protect stage primary handbook page](https://about.gitlab.com/handbook/engineering/development/sec/protect/)
+[Govern stage primary handbook page](https://about.gitlab.com/handbook/engineering/development/sec/govern/)
 
 **Slack channels**
 
-**#s_protect**
+**#s_govern**
 
 **Team members**
 
-[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
+[Handbook page to find Govern team members to collaborate with](/handbook/product/categories/#govern-stage)
 
-[Protect Handbook page section to find Protect engineering team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/sec/protect/#sub-department-development-people-leaders)
+[Govern Handbook page section to find Govern engineering team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/sec/govern/#sub-department-development-people-leaders)
 
 </details>
 

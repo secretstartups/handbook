@@ -935,21 +935,21 @@ When the categories change, we should:
 
 ##### Adding a new Stage
 
-When GitLab decides to address additional needs within the single application, a new Stage may need to be created. For example, `Protect` may be created to
+When GitLab decides to address additional needs within the single application, a new Stage may need to be created. For example, `Govern` may be created to
 address additional needs beyond what `Secure` focuses on.
 
 When a new Stage is added, and its Group has yet to be formed, we should:
 
-1. Ensure all issues for the new Stage are assigned with the Stage labels, like `devops::protect` and `Protect`
+1. Ensure all issues for the new Stage are assigned with the Stage labels, like `devops::govern` and `Govern`
 1. Identify an existing Group, like `Secure`, which will be initially responsible for the new Stage
-1. The existing Group will prioritize across a common backlog of both Stages, in this example `devops::protect` and `devops::secure`
+1. The existing Group will prioritize across a common backlog of both Stages, in this example `devops::govern` and `devops::secure`
 1. Update `categories.yml` and `stages.yml`, listing the new Stage with the members of the existing responsible Group. Update `_categories-names.erb` with the member name, if necessary.
 
 Once the first PM or EM is hired, a new Group for the Stage should be formed:
 
 1. The other PM/EM's will need to continue working across both groups. For example if a backend EM is hired, the frontend EM and PM will continue to work across both groups until additional hires are made.
-1. EM's and engineers should work together to staff the new Group, like `Protect`. Each Group should have at least two backend engineers.
-1. Now that the new Group is formed, both Groups can focus on their respective Stages. In this case, `Secure` on Secure and `Protect` on Protect.
+1. EM's and engineers should work together to staff the new Group, like `Govern`. Each Group should have at least two backend engineers.
+1. Now that the new Group is formed, both Groups can focus on their respective Stages. In this case, `Secure` on Secure and `Govern` on Govern.
 1. Update `stages.yml` to reflect the new Group and its members. Update `_categories.erb` with the member name, if necessary.
 
 As the rest of the EM/PM's are hired, they take over that role for the new Group.
@@ -1486,22 +1486,22 @@ When the categories change, we should:
 
 #### Adding a new Stage
 
-When GitLab decides to address additional needs within the single application, a new Stage may need to be created. For example, `Protect` may be created to
+When GitLab decides to address additional needs within the single application, a new Stage may need to be created. For example, `Govern` may be created to
 address additional needs beyond what `Secure` focuses on.
 
 When a new Stage is added, and its Group has yet to be formed, we should:
 
-1. Ensure all issues for the new Stage are assigned with the Stage labels, like `devops::protect` and `Protect`
+1. Ensure all issues for the new Stage are assigned with the Stage labels, like `devops::govern` and `Govern`
 1. Create a "Label change" issue in [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops) listing affected label to have the change reflected retroactively in Engineering Dashboards.
 1. Identify an existing Group, like `Secure`, which will be initially responsible for the new Stage
-1. The existing Group will prioritize across a common backlog of both Stages, in this example `devops::protect` and `devops::secure`
+1. The existing Group will prioritize across a common backlog of both Stages, in this example `devops::govern` and `devops::secure`
 1. Update `categories.yml` and `stages.yml`, listing the new Stage with the members of the existing responsible Group. Update `_categories.erb` with the member name, if necessary.
 
 Once the first PM or EM is hired, a new Group for the Stage should be formed:
 
 1. The other PM/EM's will need to continue working across both groups. For example if a backend EM is hired, the frontend EM and PM will continue to work across both groups until additional hires are made.
-1. EM's and engineers should work together to staff the new Group, like `protect`. Each Group should have at least two backend engineers.
-1. Now that the new Group is formed, both Groups can focus on their respective Stages. In this case, `Secure` on Secure and `Protect` on Protect.
+1. EM's and engineers should work together to staff the new Group, like `govern`. Each Group should have at least two backend engineers.
+1. Now that the new Group is formed, both Groups can focus on their respective Stages. In this case, `Secure` on Secure and `Govern` on Govern.
 1. Update `stages.yml` to reflect the new Group and its members. Update `_categories.erb` with the member name, if necessary.
 
 As the rest of the EM/PM's are hired, they take over that role for the new Group.

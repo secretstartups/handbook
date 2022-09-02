@@ -39,7 +39,7 @@ The categories form a hierarchy:
 
 1. **Sections**: Are a collection of stages. We attempt to align these logically along common workflows like Dev, Sec and Ops.
 Sections are maintained in [`data/sections.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/sections.yml).
-1. **Stages**: are aligned logically starting with the 7 **loop stages** of Plan, Create, Verify, Package, Release, Configure, and Monitor. We then add the **value stages** that we talk about in marketing, these include Manage, Secure, and Protect. Lastly, we add the **team stages**, Ecosystem, Growth, and Enablement. These stages have groups that rally around the same users, GitLab integrators, GitLab itself, and GitLab administrators respectively.
+1. **Stages**: are aligned logically starting with the 7 **loop stages** of Plan, Create, Verify, Package, Release, Configure, and Monitor. We then add the **value stages** that we talk about in marketing, these include Manage, Secure, and Govern. Lastly, we add the **team stages**, Ecosystem, Growth, and Enablement. These stages have groups that rally around the same users, GitLab integrators, GitLab itself, and GitLab administrators respectively.
 Stages are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
 Each stage has a corresponding [`devops::<stage>` label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) under the `gitlab-org` group.
 1. **Group**: A stage has one or more [groups](/company/team/structure/#product-groups).
@@ -250,7 +250,7 @@ We have boundless [ambition](/handbook/product/product-principles/#how-this-impa
 1. Data, maybe leveraging [Meltano product](https://meltano.com/)
 1. Networking, maybe leveraging some of the [open source standards for networking](https://www.linux.com/news/5-open-source-software-defined-networking-projects-know/) and/or [Terraform networking providers](https://www.terraform.io/docs/providers/type/network-index.html)
 1. Design, we already have [design management](https://gitlab.com/groups/gitlab-org/-/epics/1445) today
-1. Govern, combined dashboards for secure, protect, and maybe things like requirements management
+1. Govern, combined dashboards for secure, govern, and maybe things like requirements management
 
 Stages are different from the [application types](/direction/maturity/#application-type-maturity) you can service with GitLab.
 
@@ -297,9 +297,12 @@ Maybe we should make our features easier to search to replace the section below.
 
 ### Other functionality in [Secure](/handbook/product/categories/#secure-stage) stage
 
-#### [Composition Analysis group](/handbook/product/categories/#composition-analysis-group)
+### Other functionality in [Govern](/handbook/product/categories/#govern-stage) stage
 
-- [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#dependency-list)
+#### [Security Policies group](/handbook/product/categories/#security-policies-group)
+
+- [Policy Settings](https://gitlab.com/groups/gitlab-org/-/epics/2075)
+- [Security Approvals](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests)
 
 #### [Threat Insights group](/handbook/product/categories/#threat-insights-group)
 
@@ -308,12 +311,9 @@ Maybe we should make our features easier to search to replace the section below.
 - [Security Dashboards](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
 - Security Reports Integration
 
-### Other functionality in [Protect](/handbook/product/categories/#protect-stage) stage
+#### [Dependency Management group](/handbook/product/categories/#dependency-management-group)
 
-#### [Container Security group](/handbook/product/categories/#container-security-group)
-
-- [Policy Settings](https://gitlab.com/groups/gitlab-org/-/epics/2075)
-- [Security Approvals](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests)
+- [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#dependency-list)
 
 ### Other functionality in [Monitor stage](/handbook/product/categories/#monitor-stage)
 

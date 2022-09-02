@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Secure and Protect Internship Program"
+title: "Secure and Govern Internship Program"
 ---
 
 ## On this page
@@ -16,7 +16,7 @@ we have the opportunity to get more direct product feedback and help folks
 learn more about security at the same time.
 
 For folks interested in learning more about security and/or Product Management,
-we are offering the opportunity to an internship with the Secure and Protect
+we are offering the opportunity to an internship with the Secure and Govern
 Product Management team.
 
 ## Internship options and scope
@@ -25,7 +25,7 @@ Each iteration of the internship will be slightly different, depending on the
 intern's interests and expertise, the specific projects involved, as well as the
 mentor. Interns should choose one of the following two internship track options:
 
-1. An internship focused on adding our Secure and Protect features to open source projects hosted on GitLab.com
+1. An internship focused on adding our Secure and Govern features to open source projects hosted on GitLab.com
 1. An internship where the intern shadows a Product Manager and plays an active, mentored role in taking responsibility for a feature
 
 All interns will be paired with a mentor. Before starting the internship program,
@@ -81,7 +81,7 @@ This program benefits everyone involved in a variety of different ways.
 1. Gain insights into how and why prioritization decisions are made as well as some of the constraints that limit what can be done when.
 1. Broaden their experience with the GitLab values of Iteration and Collaboration as they relate to product development.
 1. Experience first-hand exposure to customer, prospects, and users and their needs.
-1. Deepen their understanding of the capabilities of the Secure and Protect stages and their respective value propositions and place in the market.
+1. Deepen their understanding of the capabilities of the Secure and Govern stages and their respective value propositions and place in the market.
 
 ### For projects
 
@@ -108,7 +108,7 @@ This program benefits everyone involved in a variety of different ways.
 
 **Shadow intern track**
 
-1. Helps inform and evangelize the capabilities of the Secure and Protect stages to other departments in the company.
+1. Helps inform and evangelize the capabilities of the Secure and Govern stages to other departments in the company.
 
 **Both**
 

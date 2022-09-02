@@ -185,7 +185,7 @@ flowchart LR
   A(Plan)
   B(Create)
   C(Release)
-  D(Protect)
+  D(Govern)
   E(Configure)
   F(Monitor)
   G(Verify)
