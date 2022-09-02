@@ -14,7 +14,7 @@ The Govern engineering sub-department is responsible for the [Govern Stage](/han
 
 ## Vision
 
-Protect our users' applications, services, and infrastructure from the ever-evolving threat landscape.
+Help users manage security vulnerabilities, policies, and compliance across their organization.
 
 ## Sub-department development people leaders
 
@@ -25,11 +25,21 @@ department_regexp = /(#{Regexp.union(departments)})/
 direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
 %>
 
-### Backend
+### Security Policies Backend
+
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'thiagofigueiro') %>
 
-### Frontend
+### Security Policies Frontend
+
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'nmccorrison') %>
+
+### [Threat Insights](threat-insights/)
+
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'thiagofigueiro') %>
+
+### [Threat Insights Frontend](threat-insights/)
+
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
 
 ## Stable Counterparts
 
@@ -41,18 +51,12 @@ The following members of other functional teams are our stable counterparts:
       other_manager_roles: [
         'Frontend Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
         'Backend Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
+        'Frontend Engineering Manager, Secure:Threat Insights, Govern:Security Policies',
+        'Backend Engineering Manager, Secure:Threat Insights, Govern:Security Policies',
         'Director of Engineering for Growth, Sec, and ModelOps',
         'Senior Engineering Manager, Anti-Abuse, Growth, Govern and Secure'
       ])
 %>
-
-## Open-source projects
-
-The Govern uses and [contributes](https://gitlab.com/gitlab-org/protect/general/-/blob/master/README.md#outgoing-mrs) to a number of open source projects including:
-* [Kubernetes](https://kubernetes.io/)
-* [Trivy](https://github.com/aquasecurity/trivy)
-* [Grype](https://github.com/anchore/grype)
-
 
 ## Skills
 
@@ -83,7 +87,7 @@ We are constantly iterating on our [planning process](./planning/) as a team. To
 
 ### Slack
 
-* [Stage #s_govern](https://gitlab.slack.com/archives/s_protect)
+* [Stage #s_govern](https://gitlab.slack.com/archives/s_govern)
 * [Group #g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 
 ### Technical Documentation Links

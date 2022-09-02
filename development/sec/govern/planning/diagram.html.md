@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Protect Product Development Flow
+title: Govern Product Development Flow
 ---
 
 # On this page
