@@ -23,7 +23,7 @@ This list is **not** exhaustive but provides the Solution Architect (SA) with a 
 | `Release` | N/A |
 | `Configure` | N/A |
 | `Monitor` | N/A |
-| `Protect` | N/A | 
+| `Govern` | N/A | 
 | `Integration Technologies` | 1. [Elasticsearch: Advanced Searching](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/integration-technologies/) |
 
 ## Contribution Guidelines
