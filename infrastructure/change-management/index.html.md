@@ -292,9 +292,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 |-----------------------------|------------|-------------------------------|
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
-| 2022-07-01         | Hard       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
-| 2022-07-04         | Soft       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
-| 2022-09-01 23:00 UTC -> 2022-09-02 23:59 UTC | Hard       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  | 
+| 2022-09-01 23:00 UTC -> 2022-09-02 23:59 UTC | Hard       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  |
 | 2022-09-05         | Soft       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  |
 
 There are 2 types of PCLs: soft and hard.
@@ -310,7 +308,7 @@ During the soft PCL, feature flags can be conditionally toggled, depending on th
 
 ### Hard PCL
 
-Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
+In addition to all of the restrictions in the Soft PCL, Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
 In case of an emergency, the EOC should interact with the Incident Manager On Call prior to making any decision.
 It is at EOC and Incident Manager On Call discretion to make a decision on whether a change should be approved and executed. If the change is approved, Incident Manager On Call should inform the VP of Infrastructure of this decision (who will inform the executive team as necessary).
 
