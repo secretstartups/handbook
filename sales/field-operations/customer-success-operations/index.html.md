@@ -64,6 +64,8 @@ The CS Ops team uses issues and issue boards to track our projects and tasks. If
 
 CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/3156857?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo.
 
+See the [global issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/boards/4341765?label_name[]=CS%20Ops%20Technical%20Writing) for CS Ops Technical Writing.
+
 ### Groups
 
 - Use the `gitlab.com` group for epics that may include issues within and outside the Sales Team group.
