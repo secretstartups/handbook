@@ -25,22 +25,13 @@ department_regexp = /(#{Regexp.union(departments)})/
 direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
 %>
 
-### Security Policies Backend
-
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'thiagofigueiro') %>
-
-### Security Policies Frontend
-
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'nmccorrison') %>
-
-### [Threat Insights](threat-insights/)
-
+### Threat Insights
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'thiagofigueiro') %>
 
-### [Threat Insights Frontend](threat-insights/)
-
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
-
+### Security Policies
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'nmccorrison') %>
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'thiagofigueiro') %>
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
@@ -49,12 +40,10 @@ The following members of other functional teams are our stable counterparts:
       role_regexp: /[,&] Govern/,
       direct_manager_role: nil,
       other_manager_roles: [
-        'Frontend Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
-        'Backend Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
-        'Frontend Engineering Manager, Secure:Threat Insights, Govern:Security Policies',
-        'Backend Engineering Manager, Secure:Threat Insights, Govern:Security Policies',
+        'Fullstack Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
+        'Fullstack Engineering Manager, Govern:Threat Insights, Govern:Security Policies',
         'Director of Engineering for Growth, Sec, and ModelOps',
-        'Senior Engineering Manager, Anti-Abuse, Growth, Govern and Secure'
+        'Senior Engineering Manager, Anti-Abuse, Govern, and Growth'
       ])
 %>
 
@@ -87,8 +76,10 @@ We are constantly iterating on our [planning process](./planning/) as a team. To
 
 ### Slack
 
-* [Stage #s_govern](https://gitlab.slack.com/archives/s_govern)
-* [Group #g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
+* Stage [#s_govern](https://gitlab.slack.com/archives/s_govern)
+* Sub-department [#sd_govern_engineering](https://gitlab.slack.com/archives/C040C6LNANB)
+* Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
+* Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 
 ### Technical Documentation Links
 
