@@ -73,13 +73,27 @@ While the SAL owns the transition-to-CSM aspect, the CSM Manager will then ensur
 On a regular basis, the CSM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis). Consider:
 
 1. How many and which accounts are in onboarding?
-1. What do Time to Value metrics look like? 
-1. After looking at the detail, what are areas we want to improve and areas to celebrate?
+2. What do Time to Value metrics look like? 
+3. After looking at the detail, what are areas we want to improve and areas to celebrate?
 
 #### Onboarding Resources
 
 - [Account Onboarding Handbook](/handbook/customer-success/tam/onboarding/)
 - Gainsight Dashboard - **CSM Portfolio** or **Customer Onboarding**
+
+#### KPI Tracking in Gainsight
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Vm32wtRqkK8" title="Onboarding Metrics - Why and Where/How They Are Tracked - Gainsight" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+- **Time to engagement** is calculated by the addition of a timeline entry or type Cadence Call or Meeting.
+- **Time to first value** uses license utilisation as a proxy for users actively using the platform with a threshold of 10%
+  - Automatically calculated when Cloud Licensing turned on (*Note:* If Cloud Licensing is not enabled from the outset, this automation can cause invalid outliers, in this scenario manually correct)
+  - Manually collected by the CSM in collaboration with the customer when License data isn't available
+- **Time to onboard** is calculated by onboarding enablement complete *not* infrastrucure ready
 
 ### Success Plan Review
 
