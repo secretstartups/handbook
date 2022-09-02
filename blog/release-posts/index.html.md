@@ -72,7 +72,7 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 
 ### On the 18th
 
-- <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>: **Release Post Manager** [aggregates the content blocks](#content-assembly-merging-release-post-items-content-blocks-to-your-branch) with `bin/release-post-assemble`
+- <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>: **Bot** performs content assembly
 - **Release Post Manager** adds the MVP for the release and selects a cover image
 - **Release Post Manager** picks features to highlight and creates the introduction content
 
@@ -218,67 +218,6 @@ If you have not been assigned to a Release Post X.Y MR by the end of the day on 
 - Reach out to Product Operations `@brhea` in Slack #release-post
 - If `@brhea` is unavailable, work with your Technical Advisor to run [`bundle exec rake release_post:start`](#release-post-branch-creation-rake-task) to kickoff the X-Y Release Post, or
 - Follow these steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
-
-### Local dev environment setup to run content assembly script
-
-**Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions), or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
-{:.alert .alert-info}
-
-Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. Doing this early on in the process is recommended as, sometimes, updates to the www-gitlab-com project or the content assembly script could cause your Ruby version or Ruby libraries (gems) to be outdated. If unknown errors arise during this verification, reach out to [the release post DRI](https://gitlab.com/fseifoddini) for advisement.
-
-1. Open a terminal window and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
-1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
-
-**How do I know if I already have a Ruby Version Manager installed?**
-
-Open a terminal window, and then run one of these commands:
-
-- `which asdf`
-- `which rbenv`
-- `which rvm`
-
-If the returned output is something other than `asdf not found`, `rbenv not found`,
-or `rvm not found`, you probably have one of these installed. A path to one of
-those tools is returned to the screen if a Ruby version manager is installed.
-
-**What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar.
-
-### Content assembly: merging release post items (content blocks) to your branch
-
-**Important**: This procedure applies until the 18th, at <time datetime="07:59">7:59 am UTC (18th 2:59 am ET / 17th 11:59 pm PT)</time>. After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation on how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
-{:.alert .alert-info}
-
-When it is time to assemble the release post, this will be done by moving the
-content block files from `data/release_posts/unreleased` to
-`data/release_posts/X_Y`, and images from `source/images/unreleased` to
-`source/images/X_Y`.
-
-Those block items comprise of the [release post items](#pm-contributors) that
-each PM creates for each feature.
-
-The `bin/release-post-assemble` script makes this easy to do:
-
-```bash
-  git checkout master
-  git pull
-  git checkout release-X-Y
-  git pull
-  git merge master
-  bin/release-post-assemble
-  git status
-  # confirm that content blocks and images have moved from `unreleased` to `X_Y`
-  git add .
-  git commit -m "Content assembly"
-  git push origin release-x-y
-```
-
-Sometimes `bin/release-post-assemble` may fail if there is a Ruby version update (or updated Ruby libraries) between the time the release post manager updates their local environment by the 7th and when content assembly starts on the 18th. The script may even fail for unknown reasons at times. If for some reason `bin/release-post-assemble` fails, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement. If all else fails, you can use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
-
-1. Verify you've completed steps 1-3 above.
-1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`). | _Note: Leave the `/samples` directory in the same location, don't move it._
-1. Manually move all the images in `/source/images/unreleased/` to `/source/images/x_y/`.
-1. Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
-1. `git commit` and `git push` and you should be good to go.
 
 ### Communication
 
@@ -864,7 +803,6 @@ The good news is that the release post technical hurdles are often reasonably ea
 
 Below are the types of problems the release post managers may need help with.
 
-- Assist with setup of [local dev environment](#local-dev-environment-setup-to-run-content-assembly-script)
 - Triaging various automations and [technical aspects](#technical-aspects) of the release post
 - Triaging pipeline errors and suggest changes or provide a fix to related merge requests
 - Resolving merge conflicts with the release post
@@ -883,7 +821,7 @@ What we have seen with previous challenges during the Release Post Assembly stag
 
 - Review the output of the assembly script including git status
 - Consider running ./bin/doctor and review the output
-- Reference the [list of previous problems](#possible-script-errors-with-corrective-actions)
+- Reference the [list of previous problems](/manual-release-post-kickoff/#possible-script-errors-with-corrective-actions)
 
 Following your best judgement with the resolution of the incident, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
@@ -1723,89 +1661,6 @@ It does not check if:
 - `issue_url` is supplied, since there are other alternatives
 
 The schema is implemented using [Rx](http://rx.codesimply.com/index.html).
-
-### Release post assembly
-
-The [release post assembly](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/validate-release-post-item) script moves release post content blocks and their images to the current release directory.
-
-It uses a simple regexp to locate content files and images. It performs no validation. In the future, it would be simple to combine the functionality with the linter to reduce the number of scripts to maintain.
-
-In preparation for content assembly on the 18th of the month, the Release Post Manager should ensure their local dev environment is up to date (e.g., running latest version of Ruby). Follow the steps in the "Content assembly and initial review" section of the [release post MR checklist](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) to prepare a local dev environment in advance.
-
-#### Possible Script Errors with Corrective Actions
-
-The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md) contains steps to setup your local development environment.
-
-Here are some of the common errors that a user might encounter where it may not be clear as what to do.
-
-**You are missing a required Ruby Gem**
-
-You might receive obscure error such as this:
-
-```bash
-Traceback (most recent call last):
-  6: from ./bin/release-post-item:5:in `<main>'
-  5: from ./bin/release-post-item:5:in `require_relative'
-  4: from /Users/chase/work/www-gitlab-com/lib/release_posts.rb:13:in `<top (required)>'
-  3: from /Users/chase/work/www-gitlab-com/lib/release_posts.rb:13:in `require_relative'
-  2: from /Users/chase/work/www-gitlab-com/lib/release_posts/post_entry.rb:6:in `<top (required)>'
-  1: from /Users/chase/.asdf/installs/ruby/2.6.6/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:117:in `require'
-/Users/chase/.asdf/installs/ruby/2.6.6/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:117:in `require': cannot load such file -- styled_yaml (LoadError)
-```
-
-In this case, Ruby is trying to load a file named `styled_yaml`. It's not clear that this is a gem (a self-contained Ruby library), but the `require` statement in the output is a clue that there is some unresolved dependency here. **The action you should take in this case is to run `bundle install`**. You can also run `./bin/doctor` and it _should_ provide guidance on what to do. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
-
-**Ruby mismatch**
-
-If you have a Ruby version manager installed, you may receive an error in your terminal along the lines of `ruby  3.0.0  Not installed. Run "asdf install ruby 3.0.0"`
-
-It's possible that your Ruby version is out of date with what is required to run handbook scripts. You should be able to run `./bin/doctor` to compare your current Ruby version with that in the `.tool-versions` file.
-
-**The action you can take is to install the required Ruby version**
-
-To install Ruby in the most popular Ruby version managers, try:
-
-- For asdf, run the following: `asdf install ruby 3.0.0`
-- For rbenv, run the following: `brew upgrade rbenv ruby-build && rbenv install 3.0.0`
-- For rvm, run the following: `rvm install 3.0.0`
-
-If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
-
-Note that the handbook currently [suggests](https://about.gitlab.com/handbook/git-page-update/#4-install-ruby-version-manager-rvm) `rvm`, while engineering has adopted `asdf`. You may find other references to `rbenv` in this documentation too. Any of these are fine, but they all work a bit differently and you _**only need one Ruby version manager installed**_.
-
-It is also possible that your ruby version manager is misconfigured or your settings have been altered because of an upgrade to macOS especially from earlier versions to Catalina or higher. It's difficult to suggest an action for this scenario, you may want to reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
-
-**Gems install correctly, but you still have a missing gem error**
-
-The ruby gem package manager is called bundler. Depending on the version of bundler you have installed, it is possible to configure bundler to install gems in a location different from the usual (and required) location by passing the `--path that_other_directory` are remembered between invocations and will be stored in `./.bundle/config` or in `./bundle/config`.
-
-If you look in the `./bundle/config` file you might see:
-
-```yaml
-BUNDLE_PATH: "that_other_directory"
-```
-
-**The action you can take here is to edit that file `./bundle/config` and possibly `./bundle/config` to remove the BUNDLE_PATH setting and re-run `bundle install`.** You may also want to remove the `that_other_directory` which is often `vendor`. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
-
-**Locking support**
-
-You might encounter a message like this about locking support when you push a local commit to origin.
-
-```bash
-Locking support detected on remote "origin". Consider enabling it with:
-  $ git config lfs.https://work-gitlab/gitlab-com/www-gitlab-com.git/info/lfs.locksverify true
-```
-
-You can probably safely ignore this suggestion. More documentation on [Git LFS file locking](https://github.com/git-lfs/git-lfs/wiki/File-Locking).
-
-**JAMF and git-lfs conflict**
-
-In the process of trying to push your commits to gitlab.com git is trying to verify the SSL cert. If you have JAMF installed (and you should for compliance reasons), git might find a different certificate for gitlab.com and throw an error about `Post "https://gitlab.com/gitlab-com/www-gitlab-com.git/info/lfs/locks/verify": x509: certificate signed by unknown authority
-error: failed to push some refs to 'gitlab.com:gitlab-com/www-gitlab-com.git'`.
-
-**The action you can take here is to contact IT**
-
-More information can be found [in this issue](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/1263#note_491341250).
 
 ### Deprecation rake task troubleshooting
 
