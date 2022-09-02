@@ -117,7 +117,7 @@ Partners will appreciate the size of the Ultimate deals as well as the stickines
 
 Which GitLab stages/feature make up this sales play: 
 
-* Create, Verify, Release, Secure, Protect 
+* Create, Verify, Release, Secure, Govern 
 
 **Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster**
 
