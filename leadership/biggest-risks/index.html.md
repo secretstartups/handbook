@@ -38,7 +38,7 @@ To ensure we safeguard our customers data, we:
 1. [Utilizing bug bounty programs](/handbook/engineering/security/#vulnerability-reports-and-hackerone) like HackerOne
 1. Conducting [threat intelligence](/handbook/engineering/security/#threat-intelligence)
 1. Have an [internal Red Team](/handbook/engineering/security/#red-team)
-1. Enable our customers to secure their applications via our [Protect Stage](/handbook/product/categories/#protect-stage) categories and features
+1. Enable our customers to secure their applications via our [Govern Stage](/handbook/product/categories/#govern-stage) categories and features
 1. Prioritize meeting the [security](https://about.gitlab.com/security/) requirements of team members, users, customers, and other community members
 
 ## 2. GitLab.com Reliability
