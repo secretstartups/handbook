@@ -21,9 +21,7 @@ The detail below is a guide to defining what it takes to say a customer has adop
 
 Using 2 of the following:
 
-- Making use of [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) at the instance level as part of managing GitLab.
 - Using [Code Analytics](https://about.gitlab.com/direction/manage/code-analytics/) and [Insights](https://docs.gitlab.com/ee/user/group/insights/) within GitLab.
-- Using [Compliance Management](https://about.gitlab.com/direction/manage/compliance-management/) within GitLab.
 - Using [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/) within GitLab.
 
 Usage Discovery Questions:
@@ -149,10 +147,13 @@ Usage Discovery Questions:
 1. How are you monitoring the stability and performance of your GitLab instance?
 1. What do you use to monitor your deployed applications?
 
-## Protect
+## Govern
 
-- [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
-- [Security Orchestration](https://about.gitlab.com/direction/protect/security_orchestration/)
+- [Vulnerability List](https://docs.gitlab.com/ee/user/application_security/vulnerability_report/)
+- [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_list/)
+- [Security Policies](https://docs.gitlab.com/ee/user/application_security/policies/)
+- Making use of [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) at the instance level as part of managing GitLab.
+- Using [Compliance Management](https://about.gitlab.com/direction/manage/compliance-management/) within GitLab.
 
 
 Usage Discovery Questions:

@@ -199,11 +199,11 @@ To align our education and enablement with our product, each of the topics below
 - [Secret Detection Feature Docs](https://docs.gitlab.com/ee/user/application_security/secret_detection/)
 - [Vulnerability Management Feature Docs](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
 
-### Protect Stage
+### Govern Stage
 ***
 ##### Foundations Level
-- [Protect Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/protect/)
-- [Protect Stage Direction and Roadmap](https://about.gitlab.com/direction/protect/)
+- [Govern Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/govern/)
+- [Govern Stage Direction and Roadmap](https://about.gitlab.com/direction/govern/)
 ##### Intermediate Level
 - [Container Scanning Feature Docs](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
 - [Security Orchestration Feature Doc](https://docs.gitlab.com/ee/user/application_security/threat_monitoring/#configuring-network-policy-alerts)
