@@ -1118,7 +1118,7 @@ It is a required field.
   - [`configure`](/stages-devops-lifecycle/configure/)
   - [`monitor`](/stages-devops-lifecycle/monitor/)
   - [`secure`](/stages-devops-lifecycle/secure/)
-  - [`protect`](/stages-devops-lifecycle/protect/)
+  - [`govern`](/stages-devops-lifecycle/govern/)
   - [`enablement`](/handbook/product/categories/#enablement-stage)
 
 The stages display as an icon next to the product tiers' badges linking
