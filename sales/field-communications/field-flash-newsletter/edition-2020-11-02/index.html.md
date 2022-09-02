@@ -31,7 +31,7 @@ The GitLab vs. GitHub decision kit has been updated to include [GitLab SAST vs. 
 
 Developer-led (consumed, influenced, purchased) products account for $40B in annual revenues, and the market is growing at 19%. Check out more meaningful insights in this full analysis of the developer-led landscape. [Read More -->](https://tylerjewell.substack.com/p/c7c150f4-1f04-453f-a97f-0902ee782416)
 
-Check out a new FAQ deck aimed at Security Pros that can help you better address customer and prospect questions related to our Secure and Protect capabilities – backed with specific market research, customer testimonials, and more. [Check It Out -->](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g2823c3f9ca_0_9)
+Check out a new FAQ deck aimed at Security Pros that can help you better address customer and prospect questions related to our Secure and Govern capabilities – backed with specific market research, customer testimonials, and more. [Check It Out -->](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g2823c3f9ca_0_9)
 
 Learn how digital product dev studio Potato reduced toolchain complexity and improved project management workflow by using GitLab as a single platform for CI and workflow efficiency. And, learn why network monitoring company Paessler upgraded from Starter to Premium for an improved Jira integration, reduced build time, and superior project management. [Read More - Potato London -->](https://about.gitlab.com/customers/potato-london/) [Read More - Paessler -->](https://about.gitlab.com/customers/paessler-prtg/)
 
