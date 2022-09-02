@@ -84,7 +84,7 @@ Listen to the panel discussion on cross-cultural communication below hosted on 2
 
 **Key Session Takeaways**
 
-1. In remote spaces, intentioinality is important to build trust on teams. Ideas on how to do this include adding a social question to team meetings or hosting a social event to share about people's localities.
+1. In remote spaces, intentionality is important to build trust on teams. Ideas on how to do this include adding a social question to team meetings or hosting a social event to share about people's localities.
 1. Assuming positive intent when communicating async can help us recognize and have compassion for other's experiences.
 1. Everyone can be an ally and has a responsibility to check and fix their own biases when collaborating with others
 
