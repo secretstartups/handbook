@@ -11,7 +11,7 @@ description: "This page provides an overview on the executive search process"
 During an executive search process, it is imperative that the Roles & Responsibilities are defined upfront to ensure a positive process and outcome. For e-group hires, we have a talent DRI and a Hiring DRI. 
 
 * Talent DRI: VP, Talent & Engagement (or individual chosen by E-group)
-* Hiring DRI: Hiring Manager (CEO for e-group)
+* Hiring DRI: Hiring Manager (CEO for E-group)
 
 **Talent DRI**
 * When made aware of open role, organizes intake meeting
