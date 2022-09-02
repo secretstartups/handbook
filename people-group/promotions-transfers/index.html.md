@@ -96,8 +96,8 @@ Below is the timeline for FY23:
 
 - FY23-Q4:
   - Planning: September 15 to September 30
-  - Calibrations: October 3 to October 10 
-  - Processing: October 10 to November 1 (promotions must be added to HRIS by October 20)
+  - Calibrations: October 3 to October 14 
+  - Processing: October 17 to November 1 (promotions must be added to HRIS by October 20)
      - Effective date for promotions: 2022-11-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
      - After communicated 1:1 with individuals **on or after 2022-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
