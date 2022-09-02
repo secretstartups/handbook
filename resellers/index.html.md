@@ -673,12 +673,20 @@ GitLab has introduced a new partner portal that serves as the primary source of 
 
 Visit the portal at partners.gitlab.com.  There is a walk-through video available on the portal or you can visit [the walk-through video here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view?usp=sharing).
 
+**Partner Communications and Resources **
+
+Gitlab uses the Partner Portal, and our News on Demand Platform to communicate with Partners.  Partners will automatically receive the newsletter and other communications when they have access to the portal. Gitlab will deliver communications in the following manner.
+
+* **Partner Flash Newsletter** - Once in the portal, navigate to the **News** tab to set preferences. A Partner can elect to receive the newsletter daily, weekly, or bi-weekly and select what content type to receive. Example: Only interested in Marketing content? You can opt out of Technical content.
+* **Partner Webcasts**- At times, Channel Programs or Channel Leadership might host a Partner webcast to announce a program change or essential updates. Channel Marketing hosts a monthly Marketing Webcast; other Channel facing teams might elect to host a Webcast for our Partners.
+* **Partner Portal Notifications**- this is not a primary form of communication; it augments other communication vehicles. Partners can see notifications near the search bar at the top of the portal. Click the bell image to see active notifications.
+* **Notifications via email** - occasionally, we will use email notifications to communicate out-of-cycle announcements, send surveys, or Partner SKO/Summit notifications.
+
+* **Not receiving communications?** Typically a person has opted out. Contact the [Partner Help Desk](mailto:partnersupport@gitlab.com), and we can add you back in. Partners can access archived articles by accessing the **News** tab at the top of the portal.
 
 #### The GitLab Handbook
 
 The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over[ 8,000 pages of text](/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is[ open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Although the Portal is your first source of partner information, we often link to the Handbook for detailed information.  If you are unable to find information you need on the Partner Portal, you are encouraged to search pages of GitLab Handbook.
-
-
 
 #### Contact Us
 
