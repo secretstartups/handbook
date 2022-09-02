@@ -11,7 +11,6 @@ The GitLab Professional Education Services team currently provides the following
 - [Self Paced training](https://about.gitlab.com/learn/)
 - [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings. 
 - [Train-the-Trainer](https://about.gitlab.com/services/education/train-the-trainer/)
-- [Custom Training](https://about.gitlab.com/services/specialized/)
 
 ## What's in Progress?
 
