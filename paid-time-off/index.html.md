@@ -78,6 +78,8 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
    ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
 
+3. Please note that Public Holidays will be listed in PTO Roots with a Length of 0 days (0 hours).
+
 ### Communicating Your Time Off
 
 Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.
