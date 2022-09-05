@@ -168,6 +168,13 @@ If you could not find the user's specific error in Sentry, then consider asking 
 Please use your best judgement to **try to limit the number of purchase retries you ask the user to attempt** 
 so that their card does not get locked or blocked.
 
+## Handling failed credit card verifications
+
+If a customer contacts Support informing that their attempt to use their credit card for verification in order to use CI/CD minutes on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
+
+1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed' 
+2. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/engineering/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
+
 # Finding an error message in Sentry
 
 <i class="fas fa-exclamation-triangle color-orange"></i> The Error message displayed in the top section of an issue is not always
