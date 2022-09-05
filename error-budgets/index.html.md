@@ -193,7 +193,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 
 |**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** | **Review Date**|
 |------------------|---------------------|---------------------|---------------------|
-| All fulfillment stages |  <= 3.65 hours/month about 5 mins/day  (99.5%)    | We are prioritizing [adding more endpoints to Prometheus so the error budgets have more data points](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/701).<br/> |  2022-07-31 |
+| Fulfillment:Provision | 50% | We are prioritizing [resolving errors causing sidekiq to go below error budgets](https://gitlab.com/gitlab-org/gitlab/-/issues/365263).<br/> |  2022-10-31 |
 | Global Search | 1 hour/month (99.83%) | [The SLI and SLO are being redesigned to better reflect the system status and the work is working-in-progress](https://gitlab.com/groups/gitlab-org/-/epics/7892). | 2022-10-30 |
 | Manage:Workspace | 99.85% | To allow time for the group to address issues with the endpoints connected with listing many projects at once, cooperate with other teams and API working group on that problem. Described in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108039) | 2022-12-31 |
 
