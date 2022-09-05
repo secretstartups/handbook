@@ -673,7 +673,7 @@ GitLab has introduced a new partner portal that serves as the primary source of 
 
 Visit the portal at partners.gitlab.com.  There is a walk-through video available on the portal or you can visit [the walk-through video here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view?usp=sharing).
 
-**Partner Communications and Resources **
+**Partner Communications and Resources**
 
 Gitlab uses the Partner Portal, and our News on Demand Platform to communicate with Partners.  Partners will automatically receive the newsletter and other communications when they have access to the portal. Gitlab will deliver communications in the following manner.
 
