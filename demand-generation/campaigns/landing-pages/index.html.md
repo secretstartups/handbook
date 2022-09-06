@@ -57,7 +57,7 @@ _Curious how to estimate when a landing page due date should be set? We've tried
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
 * Webcast registration page
-  * [Handbook page to reference process and details](https://about.gitlab.com//handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
+  * [Handbook page to reference process and details](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1A4c2OodEAsOlN4Ek-rBiLlwkdF0AvX5YBiY4mhkZd-M/edit#gid=666473040)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
 * Event meeting request or general info pages
