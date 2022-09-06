@@ -160,5 +160,35 @@ Please review the **application rules** and **best practices** below:
 
 1. Add `https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=` immediately before a course link to direct users to the course page after signing in via SSO.
 
+## Roles
+
+Some users may need to have elevated permissions in the platform to perform specific functions like reporting or creating content. Here's some information about how to assign new roles, and create dual roles for users.
+
+### Assigning Reporting access for the Internal Team Members panorama to users
+
+1. First, please ask the user to create an access request for Level Up reporting access.
+1. In the admin menu, navigate to `Users`, then `Learners`. Search for the relevant user.
+1. Click into their profile, then under the `Role` section, click the `Select a New Role` dropdown, and select `Reporting Access`.
+1. Click `Save` at the bottom of the profile page.
+1. In the sidebar, click `Managers` and search for the user again.
+1. Click into their profile, and then click the `Access` tab.
+1. In the `Select a Group` dropdown, choose `Main` and click Save.
+1. The user should now have reporting access within the Internal Team Members panorama.
+
+Remember to set the user up with a dual role so they can continue use the system as a Learner, see detail below.
+
+### Dual Roles
+
+Users can either be `Managers` in the platform or `Learners`. Managers have access to the backend admin options, Learners to the frontend learning experience. Therefore, if you are elevating a users permissions so they have access to admin options, it's important you remember to assign them a `Dual Role`. This grants access to both the admin and learner sides of the platform.
+
+### Creating a dual role
+
+To create a dual role, you first need to navigate to the user profile in the admin panel. 
+
+1. From the admin view, click `Users` then `Managers`. 
+1. Click the name of the user who needs to be assigned a dual role to enter their profile.
+1. In the `Details` tab, scroll down to the `Role` section.
+1. Under Dual Role, click `Create Learner Profile`. This creates the Learner profile, meaning the user can now access the platform both for their admin needs, and as a learner.
+1. Scroll to the bottom of the page and click `Save`.
 
 
