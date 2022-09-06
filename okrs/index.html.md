@@ -266,9 +266,9 @@ Once OKRs are loaded into Ally, you can build dashboards and reports for differe
 
 Example Dashboards:
   
-![Whole Company Dashboard](sites/uncategorized/source/company/okrs/Companywide Dashboard.png. "Image Title")
+![Whole Company Dashboard](/images/Companywide-Dashboard.png "Companywide Dashboard")
 
-![Manager or Functional Leader Dashboard](sites/uncategorized/source/company/okrs/Manager or Functional Lead Dashboard.png "Image Title")
+![Manager or Functional Leader Dashboard](/images/Manager-or-Functional-Lead-Dashboard.png "Manager of Functional Leader Dashboard")
 
 ##### Dashboard Resources
 * This short video (3 min) from Ally provides an overview of how to build a dashboard [Configuring Team Dashboards](https://www.loom.com/share/fb73cef1335d435bb04ab9a574005cc6)
