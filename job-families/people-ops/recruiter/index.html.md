@@ -327,6 +327,29 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 - Proven success in leading and running an early career program at scale
 - Proficiencies with LinkedIn Talent Insights and talent mapping
 
+### Internal Mobility 
+
+#### Responsibilities
+- Partner closely with our Talent Acquisition Leadership Team, developing a proposition and execution plan for our Internal recruiting strategy.
+- Develop a working relationship and partnership with our Diversity, Inclusion and Belonging (DIB) team to ensure equitable internal hiring processes and policies
+- Work closely with the business teams to ensure that they have input on the strategy and use influence to ensure positive interaction and partnering with the internal recruiting program
+- Own the end to end internal recruiting experience for our internal team members
+- Develop and execute against an OKR focussing on experience
+- Develop a relationship with our counterparts in finance to build predictability into our internal hiring processes 
+- Use qualitative and quantitative data, with the ability to present data and influence decisions
+- Be able to keep developing our program with the view of it transitioning to have more influence on broader internal mobility programs
+- Work with the People Business Partner (PBP) teams and the L&D teams to innovate in this space
+
+#### Requirements
+- Experience of influence and program build and execution, preferably in a global capacity within the software industry 
+- Proven success in a recruiting role
+- Passionate about candidate experience and career development
+- Proficiencies with LinkedIn Talent Insights and talent mapping
+- Strong project management skills, with an eye for continuous improvement
+- Experience within the development tools or open source space is a plus
+- Experience with Workday is a plus
+- Remote working experience in a technology startup will be an added advantage
+
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
