@@ -47,8 +47,8 @@ The collaboration project template includes a [meeting agenda issue template](ht
 
 The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the CSM engagement. The following names for the cadence call have been used with success and are recommended - ordered by popularity:
 
-- "Gitlab / <CUSTOMER_NAME> CSM Call" 
-- "Gitlab - Bi-weekly Collaboration" (Adopt, depending on the frequency)
+- "GitLab / <CUSTOMER_NAME> CSM Call" 
+- "GitLab - Bi-weekly Collaboration" (Adapt, depending on the frequency)
 - "GitLab - CSM Call"
 
 By developing an agenda and doing advance preparation for the meeting, the CSM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
