@@ -29,7 +29,7 @@ If the product cost is higher in your location, confirm that an equivalent produ
 
 #### Expense constraints
 
-1. If the item you want to purchase is not in the [Price guide for common home office items](#price-guide-for-common-home-office-items), it is typically not reimbursable. If you feel that you do need equipment that is not listed here in order to do your job, please discuss with your manager and direct your questions to the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel.
+1. If the item you want to purchase is not in the [Price guide for common home office items](#price-guide-for-common-home-office-items), it is not reimbursable. If you feel that you need equipment that is not listed here in order to do your job, please create an issue tagging both AP and Procurement teams as it will require an approval from a VP or higher.
 1. If the item you want to purchase is over the amount in the [price guide](#price-guide-for-common-home-office-items), we will allow up to 20% over the price if you have exercised due diligence in finding the best price. If the purchase is over the 20% threshold, you can ONLY expense the price guide amount plus 20%, and then pay the remaining balance personally.
 
 #### Price guide for common home office items
@@ -64,5 +64,4 @@ If the product cost is higher in your location, confirm that an equivalent produ
   * If you would like to see some examples or suggested items, please reference our [Amazon list](https://a.co/gtDSu2K). These exact items may not fit your needs or may not be available in your location, but can be used as a guideline for options within our suggested price ranges above.
 
 See also the [Laptop Configuration page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations) before purchasing.
-Please message the `#expense-reporting-inquires` channel if you are unsure what you would like to purchase is reimbursable.
 
