@@ -135,7 +135,7 @@ The GitLab Partner Program consists of two tracks that support the different way
   *   Field Support
 
   Open partners must meet the  minimum requirements in the Program Requirements and Benefits below to earn program benefits:
-  *   Sales:  completion of GitLab Sales Core (Verification) in the region specified in your GitLab Partner Contract. 
+  *   Sales:  completion of GitLab Sales Professional certification in the region specified in your GitLab Partner Contract. 
   *   Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
 
 2. **Select** partners make a greater investment in expertise, develop services practices around GitLab and are expected to drive greater product recurring revenues. Participation in the Select Partner track is by invitation only. We provide:
