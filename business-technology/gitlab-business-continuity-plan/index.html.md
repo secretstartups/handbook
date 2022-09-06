@@ -59,21 +59,21 @@ The Recovery Time Objective (RTO) is the duration of time a service level or bus
 
 For a business continuity plan to be effective, it needs to be triggered as soon as possible; too early or late can reduce its efficacy. Key decision points to consider when a BCP has to be triggered or invoked are given below:
 
-- When an incident turns into an event like a disaster, breach, or something which classifies is as a [Severity 1](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)
+- When an incident turns into an event like a disaster, breach, or something which classifies as a [Severity 1](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)
 - When the estimated time of resolution for a potential breach is greater than the normal estimated time for regular [security incidents](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html)
 - When the recovery of an incident is uncertain, a decision must be made to invoke the business continuity plan if the disruption cannot be resolved within the specified [incident recovery timelines](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html)
 - When resolution of an incident with critical customers, depending on their service-level agreements is delayed, then the BC plan must be triggered
 
 ### Data Continuity System
 
-This section provides details about the production environment that must be available for GitLab.com to run effectively:
+This section provides details about the production environment that must be available for GitLab.com (for both SaaS services Dedicated and Commercial) to run effectively:
 
-Both GitLab.com and customers.gitlab.com are hosted on Google cloud platform.
+Both GitLab.com and customers.gitlab.com are hosted on Google cloud platform. Dedicated is hosted on AWS. 
 
 **Priority::1: Outage would have immediate impact on GitLab customer/user operations**
 
-1. Disruption of service of Google Cloud Platform, specifically the region in which GitLab.com and dev.gitlab.org are hosted.
-    - Effect: a loss or degradation of service, of the Google Cloud Platform means that GitLab.com is not available. This affects anyone who uses GitLab.com to host their repositories and may prevent GitLab team members from completing their work. GitLab.com is also the primary server where GitLab CE and EE source code and packages are hosted.
+1. Disruption of service of Google Cloud Platform and AWS, specifically the region in which GitLab.com and dev.gitlab.org are hosted. for both (Dedicated and Commercial).
+    - Effect: a loss or degradation of service, of either Google Cloud Platform or AWS means that GitLab.com or GitLab Dedicated are not available. This affects anyone who uses GitLab.com or GitLab Dedicated to host their repositories and may prevent GitLab team members from completing their work. GitLab.com is also the primary server where GitLab CE and EE source code and packages are hosted.
     - Solution(s): There are many other servers across the globe where GitLab CE is readily available.
     - Effect: Security releases are developed and staged on dev.gitlab.org before being brought to production on GitLab.com; these may be lost or unavailable for the duration of the disruption.
     - Solution(s): Depending on the duration and nature of the disruption, the solution is to wait for service to be restored (minimal duration), or build a new staging server. Using VM snapshots, recovery from backup is relatively quick.
@@ -128,6 +128,9 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 
 A plan cannot be successful without restoring customer confidence. As a final step, ensure that there is a detailed vendor communication plan as part of the Business continuity preparation plan. This plan will check for all the systems and services to ensure normal operations have resumed as intended once the damage is repaired in the area. Also, include the section to check with the main service providers on restoration and access.
 
+### Root Cause Analysis
+Any time the business continuity plan is activated, a root cause analysis should be performed to identify lessons-learned. The root cause analysis should review the trigger of the event and recommend remediations that prevent future occurences of the issue. Additionally, if opportunities for improvements in the response to the specific business continuity scenario are identified, the business continuity plan and applicable procedures should be updated to reflect those lessons learned.
+
 ## Business Continuity Test
 
 After formalizing the business continuity plan, or BCP,  the next important step is to test the plan. Testing verifies the effectiveness of the plan, trains plan participants on what to do in a real scenario, and identifies areas where the plan needs to be strengthened. A test of the plan review, has to be conducted at least annually.
@@ -139,7 +142,7 @@ GitLab's first test of the business continuity plan was performed in April 2020 
 - To ensure that the current backup facilities and procedures are feasible and compatible to achieve the determined RTO.  Can backup systems withstand a cyberattack.
 - To confirm that your continuity objectives are met (RTO and RPO). Accordingly provide training to the team managers and team members.
 - To evaluate the company’s response to various kinds of disruptive events .. Emergency communication strategy, is it functioning as expected. - How quickly can everyone be informed about an incident.
-- To identify areas in the plan that need modification. Improve systems and processes based on test findings. And accordingly maintain and update the BC plan
+- To identify areas in the plan that need modification. Improve systems and processes based on test findings. And accordingly maintain and update the BC plan.
 
 ### Testing the plan
 
@@ -148,7 +151,7 @@ Also an initial "dry run" of the plan can be performed, by conducting a structur
 Subsequent tests can occur during normal business hours. An actual test-run can be performed eventually.
 Based on the gaps and weaknesses learnt from the testing, underlying problems should be corrected and the plan updated accordingly.
 The various types of tests that can be conducted include: checklist tests, simulation tests, parallel tests, and full interruption tests
-Not testing the plan, will put both the business and customer confidence at risk.
+Not testing the plan will put both the business and customer confidence at risk.
 
 ### Business Continuity Plan Testing Scenarios
 
