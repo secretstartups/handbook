@@ -180,6 +180,7 @@ The list may not be up to date.  If something is missing, please add it.
   - `g_delivery`
   - `g_scalability`
   - `infra_capacity-planning`
+  - `reliability-lounge`
   - `ansible`
   - `kubernetes`
   - `terraform`

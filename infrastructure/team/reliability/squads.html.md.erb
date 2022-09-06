@@ -1,0 +1,64 @@
+---
+layout: handbook-page-toc
+title: "Reliability Projects"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# Reliability Squads
+
+As laid out in the [Projects page](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html.md.erb), the Reliability team is currently divided into Squads to organize work and promote collaboration.
+
+
+
+## Squad Membership
+
+|Squad | Lead | Assigned EM |
+|----|------|----|
+| DB Squad | @kwanyangu | @kwanyangu & <br/> @dawsmith |
+| Foundations Squad | @f_santos | @amoter |
+| On-Call Improvements | @cmcfarland | @afappiano |
+| Priority Issues | @afappiano | @afappiano |
+| Solo Flyer | @jarv | n/a|
+| Gitaly Stable Counterparts | @steveazz | @kwanyangu |
+| Runners Stable Counterparts | @rehab | @dawsmith |
+
+-----
+<br/>
+
+## Work In Progress
+
+
+|Work| Squad | Boards and Resources | Swimlane | 
+|----------|-----------|-----------|-----------|
+| DB OS upgrade and DB Decomposition| DB Squad |[Bi-Weekly milestone](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/198#tab-issues)<br><br> [Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/3406753?label_name[]=Database&label_name[]=board%3A%3Aautomate)  | Database |
+| Secrets Mgmt <br /> Consul Upgrade| Foundations |[&787](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/787) <br/> [&789](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/789) | Foundations | 
+| Apdex, SLI, Alerting Improvements | On-Call Improvements | [&766](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/766)  <br/> [Bi-Weekly milestone](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/201#tab-issues) <br /> [Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/3422703)| General and Observability|
+| Corrective Actions, EOC follow ups, Teleport, <br/> Cloudflare increments, General Queue | Priority Issues | [General Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=None)<br><br> [&740](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/740), [&670](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/670) | General and Observability |  
+| Optimize Gitaly storage costs  | Solo Flyer | [&780](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/780) |
+| Improving alert mapping for incidents | Solo Flyer | [&775](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/775) |
+| Stable counterpart for Gitaly  | Gitaly Stable Counterparts | [&783](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/783) <br/> [Milestone](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/205#tab-issues) <br/> [Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/4696185?milestone_title=Squad%206%20-%20W35%2C%20W36&group_by=epic) | Stable counterpart |
+| Stable counterpart for GitLab Runner  | Runners Stable Counterparts | TBD | Stable counterpart |
+
+<br/>
+
+### Next
+|Topic| Epics/Issues | Summary |
+|-----|------------|-------------|
+|  Data Integrity for Gap Assessment: SOC 2 Availability Criteria | [601](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/issues/601) | it is recommended restoration tests currently performed, documented and tested in [BCD-12 assessment for gitlab.com](https://gitlab.zengrc.com/sor/info/Assessment/1506/info#), also tests the completeness and integrity of data within the backup|
+
+<br/>
+
+### On-Hold and/or Blocked
+|Topic| Epics/Issues | Blocked on |
+|-----|------------|-------------|
+Implement gitaly shard inventory balancing automation| [&357](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/357) |This production change issue is a requirement to unblock the progress: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/5028 | 
+Full Gitaly Cluster Roll Out to Production | [&363](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/363) | [Dependency on Gitaly team](https://gitlab.com/gitlab-org/gitaly/-/issues/3952#note_790021403)|
+Database cluster creation and Gitaly cluster | [&492](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/492) | Depency on the sharding team |
+Take ownership of the monitoring infrastructure (Prometheus, Thanos, ...) | [&530](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/530) | |
+Create images for provisioning the Database ecosystem using Packer | [&611](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/611) | |
+
