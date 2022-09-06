@@ -20,8 +20,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO) 
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
 * Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
-* Kirsten Shepard (interim EBA) supporting Sid Sijbrandij (CEO) in calendaring capacity
-* TBD supporting Stella Treas (Chief of Staff to the CEO)
+* Aimee David supporting Sid Sijbrandij (CEO) and Stella Treas (CoS)
 * Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
 * Jennifer Garcia (EBA) supporting David DeSanto (VP of Product)
