@@ -151,7 +151,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 
 ### Instructions for participating in a Meal Train
 
-1. All Meal Trains are posted by a Total Rewards Analyst in the #whats-happening-at-gitlab and #total-rewards slack channels. You can also check the [Total Rewards issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues) where all Meal Trains will be designated as such. 
+1. All Meal Trains are posted by a Total Rewards Analyst in the #whats-happening-at-gitlab and #total-rewards slack channels. You can also check the [Total Rewards issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues) where all Meal Trains will be designated as such.
 1. If there is a Meal Train occuring, please read through the entire issue. If you are interested in participating, please edit the issue and add your name to the date you would like to contribute to. There is also a field to add the meal you will be providing or the meal delivery service you intend to gift. More instructions for how to proceed as a team member will be located in the issue.
     * Please note, it is typically only possible to gift a gift card from within the same country. The Total Rewards team is researching possible ways to participate from a different country than the recipient, but until we have a solution, we don't advise participating in this from a different country and can not help facilitate this.
 1. Ensure you can follow through on the date you sign up for or please help coordinate a replacement as soon as you know you can no longer participate. 
