@@ -220,7 +220,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > 
 > - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
 > - Ideally, one study you present should be relevant to the work you'd expect do at GitLab. This could be because the study involved research into the [persona(s)](/handbook/product/personas/#user-personas) you'd study at GitLab, the study related to the DevOps or Developer tooling industry, the study relates to the [Stage](/handbook/product/categories/#devops-stages) you're interviewing for, is a study that went across multiple methods, or was a study that would be considered complex in nature. 
-> - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
+> - You share the recording using either a [unlisted Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
 > - Your presentation to address each of the topics listed above.  
 > 
 > ## Some useful resources
