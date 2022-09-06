@@ -21,7 +21,7 @@ Visit the [GitLab Team page](/company/team/) and search for 'Merge Request Buddy
 
 If you're comfortable using Git and GitLab and want to help team members troubleshoot problems and accelerate their learning, please follow these steps to indicate your availability as a `Merge Request Buddy`:
 
-1. Find your entry in the [team.yml](/handbook/git-page-update/#11-add-yourself-to-the-team-page) file.
+1. Find your [yml file](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
 1. Add `Merge Request Buddy` to the `departments` section in your entry (keeping your existing departments):
 
    ```

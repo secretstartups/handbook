@@ -88,7 +88,7 @@ Have questions about mental health resources at GitLab? Or maybe you have a thou
 | ----- | ----- |
 | GitLab PTO policy | [#total-rewards Slack channel](https://app.slack.com/client/T02592416/CTVK60M32/thread/CETG54GQ0-1609232817.392300) |
 | Learning opportunities about mental health and burnout management | [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CETG54GQ0-1609232817.392300) |
-| Ideas, contrbutions, and feedback about this newsletter | [Discussion Issue](https://gitlab.com/gitlab-com/people-group/learning-development/mental-health/-/issues/1) |
+| Ideas, contributions, and feedback about this newsletter          | [Discussion Issue](https://gitlab.com/gitlab-com/people-group/learning-development/mental-health/-/issues/1) |
 
 
 
