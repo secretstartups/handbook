@@ -73,7 +73,7 @@ Collaboration:
 * 4+ years of experience in strategic, operational, or analytical environments such as Corp Dev, Investment Banking, Management Consulting or VC preferably in tech
 * Experience building valuation models for companies
 * Experience at constructing varied deal consideration structures and integration plans
-* Experience in partering with cross-functional teams and navigating communications with internal and external stakeholders.
+* Experience in partnering with cross-functional teams and navigating communications with internal and external stakeholders.
 * Ability to formulate business opportunities thoroughly, propose sound business cases and line up the decisions at hand in order to drive progress
 * Preferred requirements:
   * Familiarity with the DevOps, Cyber and open-source spaces
