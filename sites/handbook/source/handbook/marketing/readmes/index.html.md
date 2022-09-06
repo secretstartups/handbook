@@ -11,4 +11,4 @@ description: "Learn more about working with various members of the marketing tea
 - [Nathan Dubord's README (Frontend Engineer)](/handbook/marketing/readmes/nathan-dubord.html)
 - [Tyler Williams' README (Fullstack Engineer)](/handbook/marketing/readmes/tyler-williams.html)
 - [Wil Spillane's README  (Head of Social)](/handbook/marketing/readmes/wspillane.html)
-- [Ashley Kramer's README (Chief Marketing & Strategy Officer]
+- [Ashley Kramer's README (Chief Marketing & Strategy Officer)](/handbook/marketing/readmes/ashley-kramer.html)
