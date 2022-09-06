@@ -85,7 +85,7 @@ The admin home page is a place for platform administrators to access:
 1. **Snippets:** Frequently used HTML text that can be used across all content when authoring.
 1. **Add to Queue:** Navigate to `settings` -> `content` -> toggle on `add to queue` to allow user to save content for later.
 
-## Certification and Gammification Settings
+## Certification and Gamification Settings
 
 ### Certificates
 <!-- blank line -->
@@ -191,4 +191,33 @@ To create a dual role, you first need to navigate to the user profile in the adm
 1. Under Dual Role, click `Create Learner Profile`. This creates the Learner profile, meaning the user can now access the platform both for their admin needs, and as a learner.
 1. Scroll to the bottom of the page and click `Save`.
 
+## Content
+
+### Content Types
+
+Several different content types are available to use as templates in Level Up choosing the right content type is important for formatting your content, but also for reporting. Choosing the right content type for building out your learning material is important both for providing the right template & format for your content, but also for reporting and for letting learners know what type of content they can expect when choosing a learning item, e.g. a LinkedIn Learning Course, a Video, or a SCORM course.
+
+Existing content types in the platform are as follows:
+
+ - Course
+ - SCORM
+ - Blog
+ - VILT
+ - Micro Course
+ - Video
+ - Certification Exam
+ - LinkedIn Learning Course
+ - Self-paced
+ - ILT
+ - Certified Training Partner Kit
+ - Education Services Customer ILT Event
+ - External Training
+
+To create a new content type:
+
+1. Access the Level Up Admin view.
+1. In the side bar, click `Settings`, then `Content`, then `Content Types`.
+1. In the top right hand corner, click, `Add Content Type`.
+1. Fill in the details for your new content type, and choose a template based off one of the existing content types in the platform. When you've added all relevant information, click `Save`.
+1. Now, when you go to add a new item of content, you will be able to select your new content type as an option from which to start building.
 
