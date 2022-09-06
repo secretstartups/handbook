@@ -137,13 +137,14 @@ Please refer to [JiHu Contribution Review Process](./jihu-contribution-review-pr
 
 Contributions in projects that have proprietary and upstream contributions will use the following guidelines to have a streamlined review.
 
-1. The `gitlab-jh` Engineering team will open two MRs:
-   1. JH MR with all changes on <https://jihulab.com/gitlab-cn/gitlab>.
-   1. Inc MR with all non-`jh/` changes against the default branch in `gitlab-org/gitlab`.
-1. The GitLab Inc MR will be reviewed by the `gitlab-org/gitlab` team members. Reviewers should follow the [guidelines for reviewing JiHu (JH) Edition related merge requests](https://docs.gitlab.com/ee/development/jh_features_review.html).
-1. After merging, the updates will be mirrored to <https://jihulab.com/gitlab-cn/gitlab> via pull mirroring and synced to the `main-jh` `https://jihulab.com/gitlab-cn/gitlab` branch with a [code sync](https://jihulab.com/gitlab-cn/code-sync).
-1. The `gitlab-jh` Engineering team will remove all non-`jh/` changes from the JH MR.
-1. The `gitlab-jh` Engineering team will review and merge the JH MR against the `gitlab-jh/gitlab` default branch.
+1. The JiHu Engineering team will open two MRs:
+   1. JiHu MR with all changes against the default branch in [JiHu project](https://jihulab.com/gitlab-cn/gitlab).
+   1. GitLab Inc MR with all non-`jh/` changes against the default branch in [GitLab Inc project](https://gitlab.com/gitlab-org/gitlab).
+1. The GitLab Inc MR will be reviewed by the GitLab Inc team members. Reviewers should follow the [guidelines for reviewing JiHu (JH) Edition related merge requests](https://docs.gitlab.com/ee/development/jh_features_review.html).
+1. After merging, the updates will be mirrored to JiHu project via pull mirroring and synchronized via [code sync](https://jihulab.com/gitlab-cn/code-sync), merging into the default branch [`main-jh`](https://jihulab.com/gitlab-cn/gitlab/-/commits/main-jh) in the JiHu project.
+1. The JiHu Engineering team will remove all non-`jh/` changes from the JiHu MR.
+1. The JiHu Engineering team will review and merge the JiHu MR in the JiHu project.
+1. A scheduled pipeline every 2 hours will run in [compliance-verification](https://gitlab.com/gitlab-org/gitlab-jh-mirrors/compliance-verification) against the [JiHu project pulling mirror](https://gitlab.com/gitlab-org/gitlab-jh-mirrors/gitlab) to verify that there are no code difference outside of `jh/` directory beside [agreed difference for `package.json` and `yarn.lock`](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/170#note_892043256).
 
 ![](gitlab-jh-mr-process.png)
 
