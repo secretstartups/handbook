@@ -34,7 +34,7 @@ Reviewers are responsible for working with contributors to ensure that changes m
 
 Additionally, in the spirit of "everyone can contribute", anyone who is interested is encouraged to be a Reviewer. There should be no barrier preventing anyone from reviewing available merge requests. We encourage any interested party to participate.
 
-Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/git-page-update/#11-add-yourself-to-the-team-page).
+Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
 
 When looking for merge requests to review, consider checking the [Merge Request Report][] to see what reviews are in danger of breaching the [Review-response SLO][].
 
