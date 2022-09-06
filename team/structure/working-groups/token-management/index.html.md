@@ -45,6 +45,7 @@ The Token Management Working Group will deliver:
 | Member         | Michelle Gill   | Senior Engineering Manager, Manage |
 | Member         | Hannah Sutor    | Senior Product Manager, Manage:Auth |
 | Member         | Alex Hanselka   | Senior Site Reliability Engineer |
+| Member         | Dominic Couture | Staff Security Engineer, Application Security |
 
 ## Direction
 TBD
