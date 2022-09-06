@@ -85,7 +85,7 @@ Please refer to the specific linked issue for each event for details as they unf
 - [GitLab Commit, 24-Hour Virtual Event](https://about.gitlab.com/events/commit/) - August 26
 
 **AMER**
-- [How Trek10 modernizes Application Development using GitLab CI/CD on AWS](https://about.gitlab.com/webcast/trek10-aws-cicd/) - August 4
+- How Trek10 modernizes Application Development using GitLab CI/CD on AWS - August 4
 - [Capital Group DevCon Virtual Conference](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1599) - August 4
 - [Lead Dev Day, NYC, Virtual Conference](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/844) - August 11- 12
 - [Virtual Captive Eight Summit: Palo Alto](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1378) - August 13

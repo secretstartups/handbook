@@ -97,7 +97,7 @@ Please refer to the specific linked issue for each event for details as they unf
 - [Virtual DevOps Automation Workshop: PubSec](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1389) - July 16, 2020
 - [Collaboration without Boundaries - Faster Delivery with GitLab](https://about.gitlab.com/webcast/collaboration-without-boundaries/) - July 21, 2020
 - [Digital DevOps Series: How to Reduce DevOps Cost](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1262) - July 22, 2020
-- [Rethinking DevOps for Business Resiliency](https://about.gitlab.com/webcast/rethinking-devops-resiliency/) - July 23, 2020
+- Rethinking DevOps for Business Resiliency - July 23, 2020
 - [How to supercharge mobile app dev with GitLab CI/CD and Google Firebase](https://about.gitlab.com/webcast/gitlab-cicd-firebase/) - July 28, 2020
 - [Virtual NADOG West DevOps Talk](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1494) - July 28, 2020
 - [GitLab Program Management Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1416) - July 30, 2020
@@ -110,7 +110,7 @@ Please refer to the specific linked issue for each event for details as they unf
 - [France: 'What is your biggest DevOps Dilemma?' Virtual Round Table w/ Programmez & ZDNet](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2804) - July 7, 2020
 - [Continuous Delivery Ecosystem SKILup Day](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1422) - July 16, 2020
 - [Imago Techmedia DevOps Webinar](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1226) - July 30, 2020
-- [Managing Security & Compliance with GitLab](https://about.gitlab.com/webcast/managing-compliance-with-gitlab/) - July 2, 2020
+- Managing Security & Compliance with GitLab - July 2, 2020
 
 We have launched **two additional use case integrated campaigns for GitOps and Version Control & Collaboration (VC&C)**. For a list of all of our active integrated campaigns by region, see [here](/handbook/marketing/campaigns/#active-integrated-campaigns).
 
