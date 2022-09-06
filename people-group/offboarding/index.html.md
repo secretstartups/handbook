@@ -103,7 +103,7 @@ The manager and the team member should have walked through the guidelines on [un
 1. **TMR/Manager**: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
 1. **TMR**: If the team member is a risk to the production environment, the TMR should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Connect, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the TMR will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
 
-## Facilitating the Call
+### Facilitating the Call
 
 1. **Manager**: Deliver the bad news up-front, do not beat around the bush and prolong the inevitable pain for everyone involved. The Manager will make it clear that the decision is final, but will also explain what led to this decision and will point to the process that was followed to reach this decision. A sample leading sentence can be _"Thanks for joining the call, [team member name]. Unfortunately, the reason I wanted to speak with you is because we have decided that we have to let you go and end your employment / contract with GitLab because of xyz."_
 1. **TMR**: As soon as the conversation begins, the TMR will complete the offboarding form which will post to `#offboardings` Slack channel with the name of the team member to immediately start the offboarding process.
@@ -113,17 +113,17 @@ The manager and the team member should have walked through the guidelines on [un
 1. **TMR**: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
 1. **TMR**: Once the conversation is complete, the TMR will stage the severance document in DocuSign for review and signatures.
 
-### Critical Points During Offboarding Call
+#### Critical Points During Offboarding Call
 {: #offboarding-points}
 
-#### All Team Members
+##### All Team Members
 1. **Final Pay:** "Your final check (or invoice period) is for the pay period of X and includes X days of pay”.
 1. **Company Property:** “Please return all property as explained in the handbook, also please delete GitLab’s email connection from your phone”.
 1. **Business Expenses:** “Please create your final expense report to Expensify (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner”.
 1. **Confidentiality and Non-Disclosure:** “We know you are a professional, please keep in mind the agreement you signed when you were hired”.
 1. **Personal Particulars:** If you would like GitLab to share your personal email with the rest of the company, please send an email to People Ops or a farewell message that can be forwarded on your behalf.
 
-#### US Team Members
+##### US Team Members
 1. **COBRA:** “Your benefits will cease on last day of the month you are eligible for Consolidated Omnibus Budget Reconciliation Act (“COBRA”), the carrier (Lumity) has been notified and the carrier will send out the paperwork to your home address on file”.
 1. **PPACA:** "You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace.
 If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month”.
@@ -155,7 +155,6 @@ People Connect will generate the offboarding issue at the end of the team member
 1.  **TMR**: TMR will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The TMR can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
 1.  **TMR**: TMR will work with People Connect to ensure the offboarding issue has the correct dates and that all stakeholders in Payroll, Compensation and Benefits (Total Rewards), Security and Stock Administration have been communicated to and understand the correct offboarding date. 
 
-
 ### Sample Offboarding Memo
 
 If appropriate (to be determined by conversation with the manager, the Group Executive, and People Ops), use the following [offboarding memo](https://docs.google.com/document/d/11Uk8p4VJrLnDD5IAtbTwswPUUEnmeEOazS1kJMhOu70/edit?usp=sharing), which is provided here as an openly viewable Google Doc, but of course needs to be personalized and tailored to each individual's situation.
@@ -175,7 +174,6 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. **TMR**: The TMR Partner/Specialist will share with the PBP and Legal for final review/approval. 
 1. **TMR**: The TMR Partner/Specialist will stage the document in DocuSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
-
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
     *  Select the `assign signature order` option in DocuSign to ensure the team member signs the document first
@@ -191,7 +189,6 @@ _Important Notes:_
 
 * Make sure you understand the rules for over 40.
 * You must use language in your exit meeting that is in no way forceful of the ex-team member to sign the agreement. Use phrasing such as “if you choose to sign”; “you have a right to have legal council review this document before you sign”, etc.
-
 
 ### Team Member Leave during an Investigation
 
