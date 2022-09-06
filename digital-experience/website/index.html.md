@@ -513,7 +513,7 @@ To update the responsible person for a role, follow these steps:
 
 Here's an [example Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22765).
 
-If the person is not yet listed on the [team page](/company/team/), please follow [these instructions](/handbook/git-page-update/#11-add-yourself-to-the-team-page) to add them.
+If the person is not yet listed on the [team page](/company/team/), please follow [these instructions](/handbook/git-page-update/#12-add-yourself-to-the-team-page) to add them.
 
 ### Adding features to webpages
 
