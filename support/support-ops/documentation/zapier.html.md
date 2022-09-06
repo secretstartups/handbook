@@ -48,13 +48,6 @@ can be found [here](https://youtu.be/CbonOpLRB_0).
 
 ### Support Ops - GitLab.com
 
-#### Account Deletion Process automation
-
-* Zap: [117251854](https://zapier.com/app/zap/117251854)
-* Owner: Jason Colyer
-* What it does: This processes requests from the account deletion form and
-  generates account deletion issues
-
 #### Usage ping request
 
 * Zap: [125573569](https://zapier.com/app/zap/125573569)
