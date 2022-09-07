@@ -120,6 +120,135 @@ Connecting to, and configuring, your cluster can be done locally using [gcloud](
 
 Please use [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) to create credentials for AWS.
 
+#### EKS testing Environment with Helm
+
+<details>
+<summary>Open me for instructions on how to quickly create an EKS deployment using Helm</summary>
+<div markdown="1">
+
+The following guide is designed to help you quickly deploy a Kubenertes environment using EKS and Helm for testing purposes on this environment.
+
+Pre-requisites:
+
+* A domain name
+* A [GitLab Sandbox Cloud](https://gitlabsandbox.cloud) account
+
+Install the following programs on your local computer:
+
+* [Helm v3 (3.3.1 or higher)](https://helm.sh/docs/intro/install/)
+* [Kubectl](https://kubernetes.io/docs/tasks/tools/)
+* [eksctl](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [Certbot](https://certbot.eff.org/instructions?ws=other&os=osx) (If you are using other OS than OSX please look for your specific OS.)
+
+For OS X, you can install all of the programs above by running:
+
+```shell
+brew install certbot helm kubectl
+``` 
+
+##### Getting an AWS IAM Access Key
+
+1. Log in to your [Sandbox Cloud](https://gitlabsandbox.cloud/)
+2. Log into your AWS individual account in Sandbox Cloud
+3. [Create an IAM Access key](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html) 
+
+When they key has been created successfully, you'll get an **Access key ID** and a **Secret key**.
+
+##### Configure locally your AWS IAM Access Key
+
+Go to your terminal to configure the AWS CLI to use the IAM Access Key:
+
+1. Type `aws configure`
+2. Enter the **Access key ID** and **Secret key** when prompted
+3. Optionally, set a region
+4. Choose the [output format](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html) (This controls what format the AWS CLI will use when printing out data. Options include `json`, `yaml` and `text`.)
+
+##### EKS Setup
+
+A [bootstrap script](https://gitlab.com/gitlab-org/charts/gitlab) has been created to setup an easier and automated cluster creation using Cloud Formation.
+Clone this project locally and navigate to `gitlab/scripts` and execute `./eks_bootstrap_script up`. This script will use a CloudFormation stack to deploy all the required resources for your cluster so it will take a while to complete. After successful completion you will see something similar this output:
+
+```shell
+2022-07-18 16:47:40 [ℹ]  node "ip-192-168-63-211.us-east-2.compute.internal" is ready
+2022-07-18 16:47:41 [ℹ]  kubectl command should work with "/Users/cats/.kube/config", try 'kubectl get nodes'
+2022-07-18 16:47:41 [✔]  EKS cluster "gitlab-cluster" in "us-east-2" region is ready
+```
+
+Once your cluster is ready create a certificate for your domain using Certbot by running:
+
+```shell
+sudo certbot --server https://acme-v02.api.letsencrypt.org/directory --manual --preferred-challenges dns-01 certonly -d "*.<DOMAIN NAME>"
+``` 
+Certbot will create a TXT DNS record that you need to add on your DNS Registrar so that your domain will have a valid HTTPS certificate to be used by your GitLab instance. 
+
+After your record had been added to your registrar create a secret for your cluster to use the certificate by running: 
+
+```shell
+sudo kubectl create secret tls tls-star-<SECRET NAME> --cert=/etc/letsencrypt/live/<DOMAIN NAME>/fullchain.pem --key=/etc/letsencrypt/live/<DOMAIN NAME>/privkey.pem
+```
+
+(Optional) If you also want to have GitLab Pages in your cluster then you will need to create another certificate for your domain and another secret for your cluster
+
+```shell
+sudo certbot --server https://acme-v02.api.letsencrypt.org/directory --manual --preferred-challenges dns-01 certonly -d "*.pages.<DOMAIN NAME>"
+``` 
+```shell
+sudo kubectl create secret tls tls-star-pages-<SECRET NAME> --cert=/etc/letsencrypt/live/pages.<DOMAIN NAME>/fullchain.pem --key=/etc/letsencrypt/live/pages.<DOMAIN NAME>/privkey.pem
+```
+
+
+##### Helm Setup and Chart deploy
+
+* Add the GitLab repository charts to your Helm environment 
+
+```shell
+helm repo add gitlab https://charts.gitlab.io/
+```
+* Update your repository to the latest version 
+
+```shell
+helm repo update
+```
+
+* Create a `values.yml` file with the desired values you wish to deploy your instance. (A sample file can be found [here](https://gitlab.com/-/snippets/2402111))
+* Deploy GitLab using 
+
+```shell
+helm install gitlab gitlab/gitlab -f <values.yml>
+```
+* To get the loadbalancer hostname of your GitLab deployment run
+
+```shell
+kubectl get ingress/gitlab-webservice-default -ojsonpath='{.status.loadBalancer.ingress[0].hostname}'
+``` 
+* Create a CNAME record with the name `gitlab` pointing to your loadbalancer hostname to access your instance on HTTPS.
+* (Optional) If you want to setup GitLab Pages create another CNAME record using `*.pages` pointing to the same loadbalancer hostname.
+* Get your initial root password by executing 
+
+```shell
+kubectl get secret gitlab-gitlab-initial-root-password -ojsonpath='{.data.password}' | base64 --decode ; echo
+```
+
+:tada: Your GitLab instance is up and running!
+
+Once these steps are completed you can visit your GitLab instance using `gitlab.<DOMAIN NAME>`.
+
+##### Destroy and recreate your environment
+* Once you're done using your EKS instance run `./eks_bootstrap_script down` to destroy all resources used.
+* When creating a new cluster you will need to run:
+1. `./eks_bootstrap_script up`. 
+1. Create kuberetes secrets as before.
+1. Deploy your Helm chart.
+1. Update your CNAME with the new loadbalancer in your registrar. 
+
+**Note**: You might need to wait for your TTL to reset after you updated your loadbalancer in your registrar before accessing the instance.
+
+
+
+</div>
+</details>
+
 ### Azure Testing Environment
 
 For *Group* SAML/SCIM (GitLab.com) testing, shared account credentials can be located within the 1password entry `Azure Active Directory Sandbox (SAML Testing)`. This level of access should be sufficient for the majority of test cases.
