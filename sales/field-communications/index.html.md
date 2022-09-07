@@ -171,9 +171,8 @@ If you have an announcement that is relevant *only* for the external partner aud
 #### Recurring Announcements
 Some teams, including Strategic Marketing and Competitive Intelligence, are consistently creating new content and resources for the Field team. In the spirit of efficiency, Field Comms creates a container issue for each of these teams each month that serves as an aggregator of new/updated content as well as a collaboration space to allow for these teams to achieve a steady drumbeat cadence of updates to the Field. For example, 1-2 Slack notifications throughout the month sharing new/updated content and a list of all or most-impactful content in the Field Flash newsletter at the end of the month. 
 
-These monthly issues can be found in the epics below: 
-- [Strategic Marketing Monthly Field Announcements](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/23)
-- [Competitive Intelligence Monthly Field Announcements](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/24)
+These monthly epics can be found in the parent epics below: 
+-  [FY23 Product Marketing / Field Communications Planning Epics](https://gitlab.com/groups/gitlab-com/-/epics/1935)
 
 ## Sharing Feedback
 Ongoing feedback and participation from the field is imperative to the success of the Field Communications team and its programs. If you have feedback on the current processes or programs, requests for a certain type of content, and/or ideas for ways we can further improve communication with the field, please follow this process: 
