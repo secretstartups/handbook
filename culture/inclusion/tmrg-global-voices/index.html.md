@@ -22,13 +22,14 @@ The Global Voices TMRG has determined the three main objectives to generate impa
 
 
 ## Leads
-1. Eliran Mesika - Lead
-1. Marin Jankovski - Co-Lead
-1. Seth Berger - Co-Lead 
+1. [Eliran Mesika](https://www.gitlab.com/eliran.mesika) - Lead
+1. [Marin Jankovski](https://www.gitlab.com/marin) - Co-Lead
+1. [Seth Berger](https://www.gitlab.com/sethgitlab) - Co-Lead 
 
 
 ## Executive Sponsors
 We are in the process of identifying the executive sponsors for this TMRG.
 
-## How to Join
-* Join the #global-voices-tmrg Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself and tell us where you are based when you join the channel!
+## How to Participate
+* Join the [#global-voices-tmrg](https://gitlab.slack.com/archives/C03UHGX4F1P) Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself and tell us where you are based when you join the channel!
+* Open an issue on our GitLab project, https://gitlab.com/gitlab-com/global-voices-tmrg
