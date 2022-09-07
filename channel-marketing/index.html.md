@@ -90,9 +90,6 @@ that details the FMM process where CAMs can read more about how to complete [the
 
 ## Requesting MDF funds
 * Approved Select Partners will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
-    + The Channel Marketing DRI will create a confidential new issue [`new_channel_mdf_request`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#new_channel_mdf_proposal) for the review and approval process for the MDF proposal - This kicks off the official process
-       +  All documentation, analysis, thoughts and approvals will be captured within that issue
-       +  Each issue will be associated to the appropriate `Quarterly MDF Epic`
     +  The MDF proposal will go through 3 levels of approvals 
        + Level 1 approval - Channel Account Manager (CAM)
        + Level 2 approval - Samara Souza, Sr Partner Program Manager
