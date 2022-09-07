@@ -145,6 +145,7 @@ In an effort to keep AWS spend down, initiatives are being taken to automaticall
 ### Customer Success Tools and Scripts
 
 By customer or internal request, we sometimes develop tools to automate certain GitLab tasks using the API. The resulting tools and scripts are publicly available for everyone to use and contribute to in the [GitLab CS Tools group](https://gitlab.com/gitlab-cs-tools).
+**Note : Those tools are not supported by GitLab Support.**
 
 ### Communities of Practice
 
