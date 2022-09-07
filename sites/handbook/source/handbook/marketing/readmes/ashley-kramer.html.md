@@ -38,7 +38,7 @@ Ashley has an MSBA with a Concentration in Computer Information Science from Col
 
 ## Interests
 
-I spend most of my time in Lake Tahoe with my husband, Bobby, and two yellow labs, Bruce and Betty - you can find them on the GitLab Pet page! For fun I enjoy skiing, snowboarding and snow shoeing in the winter, and surfing, paddle boarding and golfing in the summer. I am an avid traveler and particularly love visiting Hawaii, New Zealand and anywhere in Europe.
+I spend most of my time in Lake Tahoe with my husband, Bobby, and two yellow labs, Bruce and Betty - you can find them on the [GitLab Pet page](https://about.gitlab.com/company/team-pets/#360-bruce-and-betty)! For fun I enjoy skiing, snowboarding and snow shoeing in the winter, and surfing, paddle boarding and golfing in the summer. I am an avid traveler and particularly love visiting Hawaii, New Zealand and anywhere in Europe.
 
 I also love engaging with earlier stage companies and up and coming entrepreneurs and am a Board Director for [Seeq Corporation](https://www.seeq.com/), an Advisor for [Snorkel AI](https://snorkel.ai/) and [Alation](https://www.alation.com/), an L.P. in the Stage 2 Capital and Artisanal funds, as well as an angel investor.
 
