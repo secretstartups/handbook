@@ -36,7 +36,7 @@ Digital programs will automate the Intro to GitLab CS program outlining what a C
 - Email 1: Introduction to GitLab CS Experience (what a CSM does)
 - Email 2: Onboarding Email - Intro, first steps, how to get help
 - Email 3: Onboarding Email - Security, backup and restore
-- Email 4: Onboarding Email - Monitor gitlab, API and rate limits
+- Email 4: Onboarding Email - Monitor GitLab, API and rate limits
 - Email 5: Onboarding Email - Additional training and support
 
 These emails will automatically be sent to any customer contacts who are labeled as a `GitLab Admin`, and at least one contact should have been labeled as part of the pre-sales process. It is recommended to label multiple contacts if possible as a `GitLab Admin` so they receive the emails as well, ensuring the enablement content is received.
