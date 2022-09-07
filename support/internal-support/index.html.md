@@ -127,6 +127,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Customer needs the license resent to a new person | Use this to request sending a license to a different user. Please note we cannot send licenses to anyone other than the account owner. To send it to someone else, please ask the customer to file a ticket so we can go through the contact change process. An exemption can be made for a temporary license. |
 | Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed.
 | Self-managed NFR license request | Use this for Self-Managed NFR license generation |
+| Cloud Licensing exemption | Use this for SCL exemptions |
 | **Self-Managed Trial Related** | |
 | Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. |
 | Modify an existing Self-managed trial | Use this when you want to make changes to the number of users and/or the plan of a currently active trial |
