@@ -28,7 +28,7 @@ The Global Voices TMRG has determined the three main objectives to generate impa
 
 
 ## Executive Sponsors
-We are in the process of identifying the executive sponsors for this TMRG.
+[Sid Sijbrandij](https://gitlab.com/sytses), CEO.
 
 ## How to Participate
 * Join the [#global-voices-tmrg](https://gitlab.slack.com/archives/C03UHGX4F1P) Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself and tell us where you are based when you join the channel!
