@@ -10,6 +10,8 @@ description: "Guidelines and process for use of Publicity Waiver and Release agr
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 ### Is a Publicity Waiver and Release agreement required?
 
 Subject to the exceptions listed below, a Release is required when:  
