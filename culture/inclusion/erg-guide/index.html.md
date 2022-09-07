@@ -70,6 +70,60 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 - Alternatively, the TMRG can ask the DIB Team to identify a suitable Executive Sponsor. Upon which the DIB Team will ask the E-Group (Via the E-Group Weekly Meeting) for recommendations from their Direct Reports who are at VP level who could be suitable executive sponsors. 
 - The Chief of Staff to the CEO or the Chief People Officer will ensure that this is added to the agenda of the E-Group Weekly Meeting when the situation occurs. 
 
+### The Importance of Executive Sponsorship 
+
+#### Being a Diverse Business is important for business success 
+
+Being a diverse business has been shown to greatly benefit a business on multiple fronts, with Talent, Investors and Customers all wanting to see clear and meaningful impact. Here are some interesting insights from a number of reports: 
+
+The [McKinsey latest report Diversity Wins](The McKinsey latest report Diversity Wins provided some amazing insights into how diversity can enhance business performance had some interesting and exciting statistics:
+    * Top quartile on gender diversity meant a 25% likelihood of financial outperformance than the bottom quartile
+    * Top quartile on ethnic diversity meant a 36% likelihood of financial outperformance than the bottom quartile
+
+The [Deloitte 2021 Global Human Capital Trends: Special report](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html)  also provided some great insights into how Diversity, Inclusion & Belonging is perceived by team members & outside talent. 
+    * Organizations embracing a diverse and inclusive culture have a 22% lower turnover rate and a 22% increase in employee productivity
+    * 93% of respondents agreed that belonging drives organisational performance 
+    * 55% of respondents felt that leadership only addressed racial injustice by writing or speaking about it, not by taking action
+
+In the [2021 Edelman Trust research](https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf) it shows that it may be very important to customers and investors to know where an organization stands on societal issues. 86% percent of global respondents expect CEOs to publicly speak out about societal challenges, which of course can extend to the wider E-Group. 
+
+[2021 Axios-Harris Poll 100](
+The Axios Harris Poll 100 - Harris Pollhttps://theharrispoll.com › Partners › Media Partners), which ranks US organizations for their reputation in the marketplace, noted that organizations “with a clear point of view and that deliver not only great products but also an impact on society” ranked at the top of the list.
+
+**This shows that the impact on being an awesome Executive Sponsor can and will drive business outcomes!**
+
+#### Being an effective Executive Sponsor
+
+In the [A 2021 Great Place to Work survey](https://www.greatplacetowork.com/resources/blog/new-research-shows-leaders-are-missing-the-promise-and-problems-of-employee-resource-groups) they measured data around Executive Sponsorship and showed: 
+
+    * 100% of Executive Sponsors say company leadership encourages participation across ERGs. Only 52% of ERG leaders think that’s true.
+    * 78% of Executive Sponsors believe involvement in ERGs support career advancement, but only 40% of ERG leaders agree.
+    * 91% of Executive Sponsors feel a sense of belonging at work, but only 76% of ERG leaders say the same.
+
+We want to ensure our Executive Sponsors are the exception to this data. 
+    * We should ensure we are using TMRGs as a great proving ground for career advancement. 
+    * That as leaders of the business you are setting the standard for participation for the wider team. 
+    * That TMRG leaders feel valued and that they are at the height of belonging at GitLab. 
+
+**Tips and Advice on being a great Executive Sponsor**
+
+    * Be an excellent listener to TMRG leads and members 
+    * Don’t just acknowledge concerns, work to understand concerns
+    * Listen first, understand next and act/help later
+    * Advocate for the TMRGs needs at throughout GitLab 
+    * Share the TMRGs concerns with other executives 
+    * Work to advocate for the TMRGs mission to wider audiences 
+    * Actively evangelise new policies, programs and celebrations 
+    * Challenge the TMRG Leads to think creatively & big 
+        * TMRGs should start small and build momentum but when the time is right get the TMRG to think creatively and bigger. 
+        * Provide a sounding board and access to support to allow this to occur. 
+    * Become a mentor to TMRG Leads - this is a great opportunity to build our leaders of the future
+    * Ensure that the TMRG are aligning to DIB and Business Goals
+    * Provide key insights into GitLab
+    * Provide Feedback on Mission, Strategy and Goals
+    * Above all, create a Psychologically Safe space for leaders 
+
+
 ## Benefits of TMRGs
 In general, TMRGs are an excellent support system and key to providing awareness, respect, and building diversity, inclusion and belonging within the workplace. These groups are a proven way to increase cultural competency, retention of team members, provide marketplace insights to the business, attract diverse talent, and more.  The endorsement of TMRGs gives team members the opportunity to identify common interests, and decide how they can be shared with others.
 
