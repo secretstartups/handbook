@@ -50,10 +50,9 @@ Planned:
 
 | Working Group Role                       | Person                           | Title                                                           |
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
-| Executive Stakeholder                    | Eric Johnson                     | CTO                                                             |
+| Executive Stakeholder                    | Steve Loyd                       | VP of Infrastructure                                                  |
 | Facilitator/DRI                          | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
 | Functional Lead                          | Fabian Zimmer                    | Group Product Manager, Enablement                               |
-| Member                                   | Steve Loyd                       | VP of Infrastructure                                            |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
 | Development DRI                          | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
 | Product Management DRI                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
