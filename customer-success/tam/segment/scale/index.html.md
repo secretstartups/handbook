@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Scale"
+title: "CSE Segment: Scale"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,7 +8,7 @@ title: "TAM Segment: Scale"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ---
 
@@ -27,15 +27,15 @@ The [Scale CSE operating rhythm](/handbook/customer-success/tam/segment/scale/sc
 
 The diagram below outlines the customer lifecycle for our Scale Customers:
 
-![Customer Lifecycle Journey Scale TAM](/images/handbook/customer-success/customer_lifecycle_journey_with_metrics_-_scale_tam_2.png)
+![Customer Lifecycle Journey Scale CSE](/images/handbook/customer-success/customer_lifecycle_journey_with_metrics_-_scale_tam_2.png)
 
 ## Motions
 
 ### Align
 
-This cohort is enabled primarily through shared content and one-to-many webinars. See our [TAM Webinar Calendar](https://about.gitlab.com/handbook/customer-success/tam/segment/scale/webinar-calendar/) for upcoming events. The primary focus for one-to-one interactions will put all first-year customers on a path for success through removing barriers in the first few months of their onboarding and adoption. Our secondary focus is around engaging with specific at-risk customers throughout the customer journey. 
+This cohort is enabled primarily through shared content and one-to-many webinars. See our [CSM/CSE Webinar Calendar](https://about.gitlab.com/handbook/customer-success/tam/segment/scale/webinar-calendar/) for upcoming events. The primary focus for one-to-one interactions will put all first-year customers on a path for success through removing barriers in the first few months of their onboarding and adoption. Our secondary focus is around engaging with specific at-risk customers throughout the customer journey. 
 
-A key metric we will use to systematically identify at-risk customers will be license utilization. For example, customers who haven't reached 75% license utilization and are past the six-month mark in their license will be triggered to Scale TAMs to engage. 
+A key metric we will use to systematically identify at-risk customers will be license utilization. For example, customers who haven't reached 75% license utilization and are past the six-month mark in their license will be triggered to Scale CSEs to engage. 
 
 ### Enable
 
@@ -78,8 +78,8 @@ A core responsiblity for Scale CSEs is engaging with the customer base in target
 
 - 15 customer calls per week (3 per day)
 
-For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale TAM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
+For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale CSE Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
 
 ### Additional Resources
 
-Check out the "[How GitLab Scaled Customer Value For Long Tail Customers](https://www.valuize.co/all-resources/gitlab-scale-strategy-webinar/)" webinar with Sherrod Patching, Head of Global TAM (Customer Success) at GitLab, and Ross Fulton, Founder & CEO at Valuize. This discussion is about how GitLab built its scale strategy through a programmatic, data-driven approach and various methods of driving value throughout the customer journey.
+Check out the "[How GitLab Scaled Customer Value For Long Tail Customers](https://www.valuize.co/all-resources/gitlab-scale-strategy-webinar/)" webinar with Sherrod Patching, Vice President of Technical Account Management (Customer Success) at GitLab, and Ross Fulton, Founder & CEO at Valuize. This discussion is about how GitLab built its scale strategy through a programmatic, data-driven approach and various methods of driving value throughout the customer journey.
