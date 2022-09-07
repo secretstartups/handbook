@@ -71,7 +71,7 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 - Load time about 4 hours
 - Executed every 24 hours
 
-The extraction methodology is determined via the manifest file. 
+The extraction methodology is determined via the [manifest file](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline/manifests_decomposed). 
 
 ### Manual Backfill of table from Postgres To Snowflake
 
