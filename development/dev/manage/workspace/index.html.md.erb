@@ -63,14 +63,31 @@ Prior to release kickoff, the Engineering Manager needs to provide the total tea
 
 In order to more accurately understand what work can be planned for a release without exhausting our team members, we provide weight estimations after a preliminary, surface-level investigation. We recognize that estimations may not be precise! However this is key in ensuring that the capacity planning estimate above is not overwhelming to the team.
 
+There are two important factors to consider for an issue weight: volume of work, and complexity.
+
+The volume of work refers to the expected size of the change to the code base. A small change may involve a single change to a single file, while a large change could involve many changes across many files and areas of our code base.
+
+Complexity in practice can be split into two considerations: how well the problem is understood, and the level of problem solving difficulty we expect to encounter.
+
+A well understood and thus low complexity issue is to rename a method that is only called in one location. A poorly understood and thus high complexity issue is to rename a method that exists several layers deep and is called directly and indirectly in many different locations.
+
+A low level of problem solving and thus low complexity issue is to order a membership query by access level. A high level of problem solving and thus high complexity issue is to integrate shared groups into a membership query.
+
+The factors to consider can be summarized like so:
+
+- Volume of work
+- Complexity
+  - Problem understanding
+  - Problem solving difficulty
+
 When estimating development work, please assign an issue the appropriate weight:
 
 | Weight | Description (Engineering) |
 | ------ | ------ |
-| 1 | The simplest possible change. We are confident there will be no side effects. |
-| 2 | A simple change (minimal code changes), where we understand all of the requirements. |
-| 3 | A simple change, but the code footprint is bigger (e.g. lots of different files, or tests affected). The requirements are clear. |
-| 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. We should challenge ourselves to break this issue into smaller pieces. |
+| 1 | The simplest possible change. We are confident there will be no side effects. Negligible complexity. |
+| 2 | A simple change (minimal code changes), where we understand all of the requirements. Some small uncertainties exist but we are confident of a solution. |
+| 3 | A simple change, but the code footprint is bigger (e.g. lots of different files, or tests affected). There are uncertainties that we will need to work through. |
+| 5 or higher | A more complex change that will impact multiple areas of the codebase. There may also be some refactoring involved. Requirements are poorly understood and you feel there are multiple important gaps in understanding. We will need to break this issue into smaller pieces before we can begin a merge request. |
 
 We do not provide estimates greater than 5 without encouraging iteration, splitting the issue, collaborating on what a lower effort MVC might be, or working with our counterparts to understand the unknowns.
 
