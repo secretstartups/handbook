@@ -22,7 +22,7 @@ These four approachs "Explorational', "Ad-Hoc","Business Insights", and "Trusted
 | When To Use | **Prototyping / Flexible Analysis** |  **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
 | Manual adding data | optional | N/A| N/A | N/A |
 | Creating own data structures | optional | N/A | N/A | N/A | 
-| Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | optional | **required** | **required** |
+| Visualization using [SiSense](/handbook/business-technology/data-team/platform/sisensecdt) | optional | optional | **required** | **required** |
 | Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | optional | **required** |
 | Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | N/A | optional | **required** | **required** |
 | Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | N/A | optional | optional | **required** |
