@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "TMRG - GitLab Pride"
 description: "We are the GitLab Pride Team Member Resource Group (TMRG) founded in the fall of 2019. Learn more!"
-canonical_path: "/company/culture/inclusion/erg-gitlab-pride/"
+canonical_path: "/company/culture/inclusion/tmrg-gitlab-pride/"
 ---
 
 ## On this page
