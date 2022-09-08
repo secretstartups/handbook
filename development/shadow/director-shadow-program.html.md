@@ -104,14 +104,14 @@ No, not at this time.
 
 A given week should be considered open for shadowing unless it is listed below.
 
-| Week of | Shadow |
-| ------ | ------ |
-| 9/20/2021 | @warias |
-| 11/15/2021 | @mlindsay |
-| 12/13/2021 | @mlindsay |
-| 2/21/2022 | @oregand |
-| 2/28/2022 | @dmishunov |
-| 3/28/2022 | @rossfuhrman |
-| 4/25/2022 | @sam.figueroa |
-| 7/18/2022 | @bradleylee |
-| 9/12/2022 | @fjdiaz |
+| Week of | Shadow | Department | 
+| ------ | ------ | ----- |
+| 9/20/2021 | @warias | Marketing |
+| 11/15/2021 | @mlindsay | Professional Serivces | 
+| 12/13/2021 | @mlindsay | Professional Serivces | 
+| 2/21/2022 | @oregand | Development |
+| 2/28/2022 | @dmishunov | Development |
+| 3/28/2022 | @rossfuhrman | Development |
+| 4/25/2022 | @sam.figueroa | Development |
+| 7/18/2022 | @bradleylee | Customer Success |
+| 9/12/2022 | @fjdiaz | Marketing |
