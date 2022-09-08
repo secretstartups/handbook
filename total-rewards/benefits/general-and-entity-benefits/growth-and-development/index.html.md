@@ -81,9 +81,13 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
 * Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications). Please make sure the Growth & Development issue matches your Expensify claim amount. Your Expensify claim will be audited against the Growth & Development issue amount. 
+* For conference and workshop meals and lodging that cost $1,000 USD and below per receipt, please follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
-* For conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
+* For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab` once you have signed up. 
+* For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. 
+* For professional development and certifications, please sned a copy of your certificate or proof of completion to `growth-development@gitlab`.
+* Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 * Total Rewards will then notify payroll to begin the reimbursement process.
 
 ## Recoupment of Growth and Development Reimbursements
