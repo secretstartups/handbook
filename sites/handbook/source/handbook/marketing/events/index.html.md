@@ -8,19 +8,17 @@ title: GitLab Event Information
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-  {:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
 
 # Events at GitLab
 
-**This page outlines details for in-person events. For virtual event information, please visit the [Virtual Events Page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).**
+**This page outlines details for in-person events. For virtual event information, please visit the [Virtual Events Page](/handbook/marketing/virtual-events/).**
 
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
 - [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
 - [Corporate Events](/handbook/marketing/corporate-marketing/#corporate-events)
-- [Field Marketing](/handbook/marketing/revenue-marketing/field-marketing/)
-
-[Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/) supports Corporate and Field Marketing in relation to all events with communication timeline, technical tracking, reporting, email deployment, landing page creation, and more as required by the event.
+- [Field Marketing](/handbook/marketing/field-marketing/)
 
 ## COVID-19 Event Disclaimer
 
@@ -30,7 +28,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
-### Legal verbiage that should be included in all event contracts thoughout FY21
+### Legal verbiage that should be included in all event contracts thoughout FY22
 
 - This language is what we should be adding to supplier agreements (when agreeing on their template):
   - "Termination for Convenience. GitLab may terminate this Agreement, any SOW or Order, or all at any time, for no reason or for any reason, upon notice to Vendor. Upon receipt of notice of such termination, Vendor shall inform GitLab of the extent to which it has completed performance as of the date of the notice, and Vendor will collect and deliver to GitLab whatever Work Product then exists, if applicable. GitLab will pay Vendor for all Work acceptably performed through the date of notice of termination, provided that GitLab will not be obligated to pay any more than the payment that would have become due had Vendor completed and GitLab had accepted the Work. GitLab will have no further payment obligation in connection with any termination. Upon termination or expiration of this Agreement, Vendor shall return or destroy any GitLab Confidential Information and provide certification thereof."
@@ -41,7 +39,7 @@ Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidanc
 ## Which events is GitLab already sponsoring?
 
 - Internal tracking of in person events, please add our [Events and Sponsorship Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to your calendar.
-- Internal tracking of virtual events [can be found here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar).
+- Internal tracking of virtual events [can be found here](/handbook/marketing/#calendar).
 - External facing event tracker can be found at [https://about.gitlab.com/events/](/events/)
 
 ## Interested in attending an event we are already sponsoring?
@@ -51,7 +49,9 @@ Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidanc
 
 ## Suggesting an Event
 
-To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`.
+To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`. 
+
+*Note: If a GitLab team member receives an inbound request for sponsorship, please direct the requestor to this section of the handbook so that person can determine the best course of action.*
 
 Please _only request_ event support/sponsorship if your proposed event fits the following criteria:
 
@@ -61,47 +61,29 @@ Please _only request_ event support/sponsorship if your proposed event fits the 
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
-- [**Community Relations**](https://gitlab.com/gitlab-com/marketing/community-relations/evangelist-program/general/issues/new?issuable_template=sponsorship-request)
-  - `For Corporate Event DRIs:` If you are the DRI for the event see below for "event execution" for next steps once you have opened and completed issue template. We are using Epics as the SSOT for the event over Meta Issues.
-- [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request) - use the "Event-Request" template
+- **Community Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23. 
+- [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Sponsored_Corporate_Events) - use the "Event-Request" template
 - **Field Marketing**
-  `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets MQL objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
+  `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets SAO objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
 
-Be sure you review the issue template and provide all necessary information that is asked of you in the issue. We especially need goals/ reason to attend.
+Be sure you review the issue template and provide all necessary information that is asked of you in the issue. 
 
 ## Event Execution
 
-### Step 1- Issue Creation
+### Step 1 - Issue Creation
 
-#### All Events - New issue Creation
-
-1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
+1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Request) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
 1. Add as much information about the event as possible. For the event to move into contracting, we will specifically need to know the cost and ROI.
 
-### Step 2- Campaign Tag Creation
+### Step 2 - Allocadia ID or Campaign Tag Creation
 
-#### All events - Setting up the `Campaign Tag`
-
-**NOTE**: Event owners are DRI to create/setup campaign names & tags!
-
-1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will create the campaign tag in the details panel in the field `Campaign Tag to be Created`. 
-    1. `Campaign Tag` = `ISO date` (**first** day of event if multiday) underscore `tactic name` - Example: AWS reInvent Dec 2-5, 2019 - `Campaign Tag` = `20191202_AWSreInvent`. **Note:** Your `tactic name` in the tag should not be more than **14 characters long** and should **not contain any special characters**. 
-    1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
-
-### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
-
-1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item) AND `Campaign Tag` (under the `Campaign Tag to be Created` field also in your details panel that was created during [this process](/handbook/marketing/events/#all-events---setting-up-the-campaign-tag)) into the event details section of the main event issue. This concatenated campaign tag formula = `Allocadia ID` dash `ISO date` (**first** day of event if multiday) underscore `tactic name` (example: 1114023-20211005_TheBestEvent). Full campaign tag should not include any special characters and stay within the **31 character limit**, including the Allocadia ID. **Helpful Note:** Your `tactic name` in the tag should not be more than **14 characters long** as the combination of the `Allocadia ID` and `ISO date` (including dash and underscore) is 17 characters. 
-1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request the above combination tag be created in Netsuite. Please note that since this tag is what is entered into Netsuite, this will also be the tag utilized in Expensify for all expense reporting.
-1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match.
-1. When creating the Marketo Program and SFDC Campaign, DRI (for Field Marketing, the FMCs) will still utilize just the `Campaign Tag` as the name of the campaign and not the combination tag mentioned above.
-
-##### **NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process.
+Please see [this handbook page](/handbook/marketing/#how-marketing-tracks-campaign-expenses) for details on how Marketing sets up Allocadia IDs and Campaign Tags.
 
 ### Ancillary Events
 
 If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
 
-**⏰ SLAs for YES/NO section to be filled out for an ancillary event before moving to WIP:**
+**⏰ SLAs for section to be filled out for an ancillary event before moving to WIP:**
 
 - **45 business days:** if the ancillary event will _require Marketo invitation_.
 - **20 business days:** if the ancillary event will only need tracking and follow up email.
@@ -110,38 +92,25 @@ The purpose of creating a new issue for each ancillary event is to better facili
 
 **Steps for Ancillary Events:**
 
-1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI & MPM DRI.
-   - For each ancillary event issue, fill out the MPM YES/NO checklist to communicate if there will be a landing page, invitation & reminder, and/or follow-up as part of the ancillary event.
+1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI.
    - Note: All copy (both for the overall event and the ancillary events) is kept in a single copy doc and linked from the Event Epic
-   - Timeline and SLAs will follow existing agreement [FM/MPM](/handbook/marketing/events/#timelines-and-slas-between-field-marketing-and-marketing-programs), [Corp/MPM](/handbook/marketing/events/#timelines-and-slas-between-corporate-marketing-and-marketing-programs)
-1. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.**
+1. **Corp DRI will add the related necessary execution issues** as indicated by the required section in the issue. **This section must be complete before the issue moves to `status:wip`.**
    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
-1. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
-1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procurement/purchase-request-process/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along. The finance issue will include:
-   - ROI calculation for event in the final cost section.
-   - Add the finance issue as a `Related issue` to the original issue for reference.
-   - Add in any discounts or contract negotiations you have already completed.
-   - **Link to main event issue.**
-1. DRI to complete all relevant steps in the contract issue and close it out.
+1. **Corp DRI will add as a new line item for each ancillary event in the [FY23 All-Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)**
 
-### Step 5- Contract Completed - FMM
+### Step 3 - Contract Completed - FMM
 
-1. When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
-   - At this point, all relevant details (loation, venue, time, date, etc.) and the MPM Checklist in the Field Marketing issue must be completed.
-   - The designated MPM will begin the backend execution using this information. [See MPM steps to set up event epic](/handbook/marketing/events#mpm-steps-to-set-up-event-epic)
-   - The designated MPM will begin the backend execution.
-   - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
-   - The MPM will also associate any issues opened for the event to the Epic.
+1. Please reference the Plan to WIP process [here](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
 
-### Step 5- Contract Completed- Corporate Event DRI
+### Step 3 - Contract Completed- Corporate Event DRI
 
-1. For **Corporate Event DRI**,When contract has been signed the DRI will being event **epic creation process**.
-   - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track.
+1. For **Corporate Event DRI**, when contract has been signed the DRI will being event **epic creation process**.
+   - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events.
 
-#### Step A (Corporate Marketing): DRI creates the event epic
+#### Step 4 (Corporate Marketing): DRI creates the event epic
 
 - DRI creates epic for the event
-  - **please note that this epic should only be used for in-person events**) Use the [sponsored virtual conference epic](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference) for virtual conferences
+  - **please note that this epic should only be used for in-person events**) Use the [sponsored virtual conference epic](/handbook/marketing/virtual-events/external-virtual-events/) for virtual conferences
 - Naming convention: [Event Name] - [3-letter Month][date], [Year]
 - DRI copy/pastes epic template below into the epic description.
 - In "Issue Creation" section, DRI deletes any pieces that aren't necessary.
@@ -184,40 +153,28 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 
 ## Issues to be created
 
-* [ ] [Facilitate tracking issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-01-facilitate-tracking">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-01-facilitate-tracking</a>) - Event owner creates, issue goes through triage
-* [ ] [List clean and upload issue created](<a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list">https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list</a>) - MOps creates, assigned to event owner and MOps
-* [ ] [Follow up email issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email</a>) - Event owner creates, issue goes through triage
-* [ ] [Add to nurture issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-add-to-nurture">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-add-to-nurture</a>) -(Optional) Event owner creates, issue goes through triage
-* [ ] [Marketo landing page copy issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=marketo-landing-page-copy">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=marketo-landing-page-copy</a>) - Event owner creates, assign to Corp/FMM and FMC
-* [ ] [Marketo landing page creation issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=marketo-landing-page-creation">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=marketo-landing-page-creation</a>) - Event owner creates, issue goes through triage
-* [ ] [Invitation and reminder issue created](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder</a>) - (Optional) Event owner creates, issue goes through triage
-* [ ] [Target segment issue created](<a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request">https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request</a>) - (Optional) MOps creates, assigned to event owner and MOps
-* [ ] [Onsite registration form & landing page](<a href="https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp">https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp</a>) - (Optional) Event owner creates, issue goes through triage
+* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - Corp DRI creates, assigns to Verticurl
+* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI
+* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_invite) - Corp DRI creates one for each invitation requested, assigns to Corp DRI and Verticurl
+* [ ] [Intelligent Nurture Email Add](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_intelligent_nurture_add) - Corp DRI creates, assigns to Corp DRI and Campaign Manager
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - Corp DRI creates, assigns to Corp DRI and Verticurl
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, assigns to Corp DRI and MOps
+* [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
 
 cc @jburton to create list upload issue and DMA request as required
 
 ```
+#### Corporate Marketing: Issue best practices
 
-#### Step B (Corporate Marketing): Templates to create the necessary issues listed above and add to epic
-
-- Using the relevant issue templates MPMs and MOps create issues in proper project and then link from the epic.
-  - [Follow up email](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email)
-  - [Landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-02-landing-page)
-  - [Invitations & reminder](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder)
-  - [Add to nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-Add-to-Nurture)
-  - [List clean and upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list)
-  - [Target segment](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request)
-  - [Onsite registration form & landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp)
-- Naming convention: `[Issue naming convention] - [Event Name]`
 - During these issue creations, DUE DATE is required to be added by issue creator.
 - Issue creator associates all issues to the event epic.
-- **IF** there are ancillary events associated with the main event, the DRI will have created a separate event issue for each ancillary event. Each ancillary event will need it's own YES/NO checklist to create related necessary issues (ex: Landing Page - Happy Hour - Event Name). ONce created tag your MPM. MPM will add all issues and new program links (Marketo/SFDC) to the overall event Epic.
+- **IF** there are ancillary events associated with the main event, the DRI will have created a separate event issue for each ancillary event. Each ancillary event will need it's own YES/NO checklist to create related necessary issues (ex: Landing Page - Happy Hour - Event Name).
 
 ⚠️ Note: MOps is required to create their list clean and upload issue, and DMA list issue in their project with the proper template and associate back to the epic.
 
 ☝️ _Tip: DRIs use [this document](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0) to auto-populate timelines / SLAs for events. They will add the event as a new row when it is created with a status of Plan, add the start and end date, and look at the resulting due dates for each action item._
 
-### Step 6- DRI Event Admin Tasks
+### Step 4- DRI Event Admin Tasks
 
 1. Add the event to Events Cal and [Events Page](/events/).
    - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
@@ -232,7 +189,7 @@ cc @jburton to create list upload issue and DMA request as required
 1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/strategic-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events.
 1. Landing Pages for Events (detailed instructions)
    - Corporate event landing pages are generated from the `events.yml` - Detailed instructions
-   - The MPM will create an issue for content to be provided working with Alliances &/or Product Marketing team on copy.
+   - The Corp DRI will create an issue for content to be provided working with Alliances &/or Product Marketing team on copy.
    - A collaborative decision will be made to include a form on the landing page.
    - Owned events will use a landing page generated by the `events.yml` **OR** a Marketo landing page. (Detailed instructions) Marketo will be used if **ALL** of the following criteria are met:
    - The event is **owned** by Field Marketing
@@ -249,21 +206,22 @@ cc @jburton to create list upload issue and DMA request as required
 1. Social
    - Start issue using the `Social Request` template for general social awareness posts and any social ads that need to be created.
    - For complete instructions on how to obtain social support at your event, please review the [social requests instructions](/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-).
+1. PR
+   - Start issue using the [announcement template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) in the Corporate Marketing project for any company, partner or product news that is expected to be announced/timed around  the event. More details on the Request for External Announcements process can be found in the Corporate Communications handbook [here](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements).
 1. Design
    1. For the latest approved booth design & messaging, email `events@gitlab.com`.
    1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
    1. For any content or major layout changes, tag Strategic Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
 1. Digital
-   - Coordinate all digital marketing requests with your regional MPM. See [Requesting Digital Marketing Promotions](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#requesting-digital-marketing-promotions) for more info.
+   - Coordinate all digital marketing requests with the digital marketing team. See [Requesting Digital Marketing Promotions](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#requests) for more info.
 1. For Corporate events - Meeting Setting
-   1. All leads gathered through meeting setting must be tracked in their own campaign which will be set up by the MPM and associated to the main event campaign.
+   1. All leads gathered through meeting setting must be tracked in their own campaign which will be set up by our Marketo agency and associated to the main event campaign.
    1. We generally provide a small give (under \$50 USD or country equivalent) for anyone who takes a meeting with us.
    - **NOTE**: We share these prep documents with the client. The document is intended to provide everyone attending the meeting with background information on the prospect &/or customer. The document should also include any objectives or topics to cover in the meeting.
    1. All on-site meetings must have a [meeting prep doc](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit), which will be linked in the master planning sheet.
    - The event spreadsheet will be locked 24 hours before the event starts.
    - Any changes need to be submitted by making a **Comment** on the spreadsheet and assigning it to the **Field Marketing** DRI.
    1. Most **Corporate events** will have an onsite meeting setting initiative tied to the event goals.
-   1. Corporate Marketing will work with the regional Field Marketing DRI and designated event MPM to decide on best meeting setting strategy.
    1. If any Executives are attending, all meetings scheduled for them will be coordinated through the designated EA for that event.
    1. Meetings are tracked on the master event spreadsheet.
 1. Demos, booth decks and documentation
@@ -275,7 +233,7 @@ cc @jburton to create list upload issue and DMA request as required
    - Coordinate ordering with one of the preferred swag vendors.
    - Order extra storage at the event if all swag will not fit witin the booth.
 1. Leads and Campaign Setup
-   - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with the MPM and MktgOps within 24 hours of event close or as soon as received by event coordinators.
+   - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with MktgOps within 24 hours of event close or as soon as received by event coordinators.
    - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
@@ -283,7 +241,7 @@ cc @jburton to create list upload issue and DMA request as required
 
 If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
 
-**⏰ SLAs for YES/NO section to be filled out for an ancillary event before moving to WIP:**
+**⏰ SLAs for section to be filled out for an ancillary event before moving to WIP:**
 
 - **45 business days:** if the ancillary event will _require Marketo invitation_.
 - **20 business days:** if the ancillary event will only need tracking and follow up email.
@@ -292,108 +250,26 @@ The purpose of creating a new issue for each ancillary event is to better facili
 
 **Steps for Ancillary Events:**
 
-1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI & MPM DRI.
-   - For each ancillary event issue, fill out the MPM YES/NO checklist to communicate if there will be a landing page, invitation & reminder, and/or follow-up as part of the ancillary event.
+1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI.
    - Note: All copy (both for the overall event and the ancillary events) is kept in a single copy doc and linked from the Event Epic
-   - Timeline and SLAs will follow existing agreement [FM/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-field-marketing-and-marketing-programs), [Corp/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-corporate-marketing-and-marketing-programs)
-1. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.**
+1. **Corp DRI will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.**
    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
-1. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
+1. **Corp DRI will add as a new line item for each ancillary event in the [FY23 All-Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)**
 
-## MPM steps to set up event epic- transitioning out of this process
 
-Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. Please comment in the [#marketing_programs slack](https://gitlab.slack.com/messages/CCWUCP4MS) if you have any questions.
-
-#### Step 1: The event issue (in the field marketing or corporate marketing repo) moves to Status:WIP
-
-- When the FMM/Corporate issue moves to WIP, all relevant details (loation, venue, time, date, etc.) **must** be included by the event organizer at the top of the issue.
-- At this point, the FMM/Corporate DRI must have already documented the elements (i.e. landing page, speaking session, etc.) needed for the event.
-
-⚠️ \*If the FMM does not list the elements needed of the MPM in the issue, the MPM will not be able to move forward. Having this information up-front will minimize back-and-forth with MPM and let them take action appropriately and efficiently.
-
-#### Step 2: DRI creates the event epic
-
-- When "status:wip" is on the issue and necessary elements are documented, MPM creates epic for the event.
-- Naming convention: [Event Name] - [3-letter Month][date], [Year]
-- MPM copy/pastes code below into the epic
-
-```
-## [Main Issue >>]()
-
-## [Copy for landing page and emails >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
-
-## Event Details
-  * `place details from the event issue here`
-  * [ ] [main salesforce campaign]()
-  * [ ] [main marketo program]()
-  * [ ] campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
-
-## Issue creation
-
-* [ ] [List clean and upload issue created](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - MOps creates, assigned to event owner and MOps
-* [ ] [Follow up email issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email) - MPM creates, assigned to event owner and MPM
-* [ ] [Add to nurture issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-add-to-nurture) -(Optional) MPM creates, assigned to event owner and MPM
-* [ ] [Landing page issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-02-landing-page) - (Optional) MPM creates, assigned to event owner and MPM
-* [ ] [Invitation and reminder issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder) - (Optional) MPM creates, assigned to event owner and MPM
-* [ ] [Target segment issue created](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request) - (Optional) MOps creates, assigned to event owner and MOps
-* [ ] [Onsite registration form & landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp) - (Optional) MPM creates, assigned to event owner and MPM
-
-cc @jburton to create list upload issue and DMA request as required
-```
-
-#### Step 3: MPM updates the event epic details
-
-- In epic description, MPM copies over the "need-to-know" event details section from the WIP main issue.
-- In "Issue Creation" section, MPM deletes any pieces that aren't necessary based on the FMM answers for event elements at top of main event issue.
-
-#### Step 4: MPM and MOps create the necessary issues and add to epic
-
-- Using the relevant issue templates MPMs and MOps create issues in proper project and then link from the epic.
-  - [Follow up email](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email)
-  - [Landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-02-landing-page)
-  - [Invitations & reminder](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder)
-  - [Add to nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-Add-to-Nurture)
-  - [List clean and upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list)
-  - [Target segment](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request)
-  - [Onsite registration form & landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp)
-- Naming convention: `[Issue naming convention] - [Event Name]`
-- During these issue creations, DUE DATE is required to be added by issue creator.
-- Issue creator associates all issues to the event epic.
-- **IF** there are ancillary events associated with the main event, the FM will have created a separate FM event issue for each ancillary event. The MPM will follow the usual YES/NO checklist for each ancillary event to create related necessary issues (ex: Landing Page - Happy Hour - Event Name). MPM will add all issues and new program links (Marketo/SFDC) to the overall event Epic.
-
-⚠️ Note: MOps is required to create their list clean and upload issue, and DMA list issue in their project with the proper template and associate back to the epic.
-
-☝️ _Tip: MPMs use [this document](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0) to auto-populate timelines / SLAs for events. They will add the event as a new row when it is created with a status of Plan, add the start and end date, and look at the resulting due dates for each action item._
-
-## Timelines and SLAs between Field Marketing and Marketing Programs
+## Timelines for Corporate Marketing
 
 In this timeline, BD = Business Days, and incorporates US public holidays and T = start date of the event.
 
-- **T-45 BD:** Final landing page copy and invitation 1 copy due by FMM to MPM
-- **T-40 BD:** Final landing Page launched
-- **T-30 BD:** Invitation 1 is sent
-- **T-20 BD:** Final copy for invitation 2 due by FMM to MPM
-- **T-15 BD:** Invitation 2 is sent
-- **T-10 BD:** (Optional) Final copy for invitation 3 due by FMM to MPM
-- **T-5 BD:** (Optional) Invitation 3 is sent
-- **T-5 BD:** Final copy for reminder email due by FMM to MPM
-- **T-3 BD:** Final copy for follow up emails due by FMM to MPM
-- **T-1 Day:** Reminder Email is sent _Note - not business day_
-- **T+2 BD:** Follow up email(s) are sent
-
-## Timelines and SLAs between Corporate Marketing and Marketing Programs
-
-In this timeline, BD = Business Days, and incorporates US public holidays and T = start date of the event.
-
-- **T-70 BD:** Final landing page copy and invitation 1 copy due by Corp Mktg to MPM
+- **T-70 BD:** Final landing page copy and invitation 1 copy due by Corp Mktg
 - **T-65 BD:** Final landing Page launched
 - **T-30 BD:** Invitation 1 is sent
-- **T-20 BD:** Final copy for invitation 2 due by Corp Mktg to MPM
+- **T-20 BD:** Final copy for invitation 2 due by Corp Mktg
 - **T-15 BD:** Invitation 2 is sent
-- **T-10 BD:** (Optional) Final copy for invitation 3 due by Corp Mktg to MPM
+- **T-10 BD:** (Optional) Final copy for invitation 3 due by Corp Mktg
 - **T-5 BD:** (Optional) Invitation 3 is sent
-- **T-5 BD:** Final copy for reminder email due by Corp Mktg to MPM
-- **T-3 BD:** Final copy for follow up emails due by Corp Mktg to MPM
+- **T-5 BD:** Final copy for reminder email due by Corp Mktg
+- **T-3 BD:** Final copy for follow up emails due by Corp Mktg
 - **T-1 Day:** Reminder Email is sent _Note - not business day_
 - **T+2 BD:** Follow up email(s) are sent
 
@@ -403,14 +279,13 @@ Sometimes, it becomes necessary to change the date of an offline event. Once the
 
 - Update the event date and the campaign tag on the main event issue and in the Budget Document.
 - In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.
-- Tag the MPM for the event in a comment to notify them that the date has changed.
 
 If the change in the date is related to COVID-19, the **FMM** will:
 
 - Remove the line item from your region tab in the budget document.
 - Complete the [COVID-19 Cancellations Tracker - FM Only](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A1) - ONLY if we have made a payment against the cancelled event, as this is where Finance and Accounting will go to track the refunds we may need to account for.
 
-If the date changes after the MPM set up the issues, epic, and tracking for the event, the **MPM** must make the following updates:
+If the date changes after the Corp DRI set up the issues, epic, and tracking for the event, the **Corp DRI** must make the following updates:
 
 - **No Registrations Received:** If no registrations have been processed for the event (even if members have been added to the campaign as "Marketing Invited"):
   - SFDC: Change the ISO date in the SFDC Campaign name to the new date.
@@ -425,27 +300,27 @@ If the date changes after the MPM set up the issues, epic, and tracking for the 
 
 #### When Owned Offline Events turn to Virtual Owned events
 
-FMM and MPM determine format of this virtual event from [documented options.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/) FMM lets interested teams know that the event has switched to digital, the existing landing page is no longer accepting registrations and sales-nominated flow has been stopped (if applicable).
+FMM determines format of this virtual event from [documented options.](/handbook/marketing/virtual-events/) FMM lets interested teams know that the event has switched to digital, the existing landing page is no longer accepting registrations and sales-nominated flow has been stopped (if applicable).
 
 - **If this is a self-service ZOOM Meeting with promotion:**
   - FMM: create the new epic, issues needed (e.g. list upload) and ZOOM meeting.
   - FMM: provide new campaign tag (if applicable).
-  - MPM: create new marketo program under Virtual Events cloning `YYYYMMDD_HostName_Topic (External Webcast Template)` template and save to the `GitLab Webcasts` folder. If you are using the same campaign tag as the original live event, add "OLD" to the beginning of the existing live event Marketo program as Marketo will not allow two programs with the same name.
-  - MPM: create a new folder in the `GitLab Webcasts` folder for the virtual event.
-  - MPM: create new SF campaign by syncing new marketo program to SFDC.
-  - MPM: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
-  - MPM: follow standard processes with tokens, program activation, etc.
-  - FMM: set up Zoom Meeting and provide Zoom link and ID to MPM.
+  - FMC: create new marketo program under Virtual Events cloning `YYYYMMDD_HostName_Topic (External Webcast Template)` template and save to the `GitLab Webcasts` folder. If you are using the same campaign tag as the original live event, add "OLD" to the beginning of the existing live event Marketo program as Marketo will not allow two programs with the same name.
+  - FMC: create a new folder in the `GitLab Webcasts` folder for the virtual event.
+  - FMC: create new SF campaign by syncing new marketo program to SFDC.
+  - FMC: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
+  - FMC: follow standard processes with tokens, program activation, etc.
+  - FMM: set up Zoom Meeting and provide Zoom link and ID to FMC.
 - **If this is a GitLab Hosted ZOOM Webcast:**
   - FMM: provide new campaign tag (if applicable).
-  - MPM: If Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
-  - MPM: Create new marketo program under `Virtual Events` cloning `YYYYMMDD_WebcastTopic_Region (Single time slot)` or `YYYYMMDD_WebcastTopic_Region (Multiple Time Slot)` template and save to the `GitLab Webcasts` folder. If you are using the same campaign tag as the original live event, add "OLD" to the beginning of the existing live event Marketo program as Marketo will not allow two programs with the same name.
-  - MPM: create a new folder in the `GitLab Webcasts` folder for the virtual event.
-  - MPM: create new SF campaign by syncing new marketo program to SFDC.
-  - MPM: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
-  - MPM: follow standard processes with tokens, program activation, etc.
-  - MPM: [set up ZOOM Webcast](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-configure-zoom)
-- **Existing event Marketo program MPM tasks (applies to both types):**
+  - FMC: If Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/virtual-events/) If Epic was created, change it to the Virtual Event Epic Code.
+  - FMC: Create new marketo program under `Virtual Events` cloning `YYYYMMDD_WebcastTopic_Region (Single time slot)` or `YYYYMMDD_WebcastTopic_Region (Multiple Time Slot)` template and save to the `GitLab Webcasts` folder. If you are using the same campaign tag as the original live event, add "OLD" to the beginning of the existing live event Marketo program as Marketo will not allow two programs with the same name.
+  - FMC: create a new folder in the `GitLab Webcasts` folder for the virtual event.
+  - FMC: create new SF campaign by syncing new marketo program to SFDC.
+  - FMC: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
+  - FMC: follow standard processes with tokens, program activation, etc.
+  - FMC: [set up ZOOM Webcast](/handbook/marketing/virtual-events/webcasts/#step-1-configure-zoom)
+- **Existing event Marketo program FMC tasks (applies to both types):**
   - Move the existing event marketo program under the new folder you have created and add `OLD` at the beginning of the title.
   - Deactivate the `Registration` and `Interesting Moments` smart campaigns.
   - Deactivate any invitations (ex: sales-nominated) smart campaigns that are live and stop all promotions.
@@ -458,29 +333,29 @@ FMM and MPM determine format of this virtual event from [documented options.](/h
     - Update the page copy with virtual event details
   - If the landing page has not been promoted: Unapprove the landing page.
   - When the new campaign is completely set up (landing page, Zoom, etc), use the `Reminder Email` smart campaign from the original event program to send a note to those that have already registered with directions about how to re-register for the virtual event.
-- **Salesforce MPM tasks (applies to both types):**
+- **Salesforce FMC tasks (applies to both types):**
   - Change the existing SF campaign to status: `aborted`
 
 #### When Offline Field Events & Conferences turn to Virtual
 
 These will be Virtual Sponsorships with booths (not just a sponsored webcast).
 
-- MPM: if Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
+- FMC: if Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/virtual-events/) If Epic was created, change it to the Virtual Event Epic Code.
 - FMM/CMM: let interested teams know that the event has switched to digital and sales-nominated flow has been stopped (if applicable).
-- MPM: Add [Virtual] to the beginning of the epic and all supporting issues.
+- FMC: Add [Virtual] to the beginning of the epic and all supporting issues.
 - FMM/CMM: Add a note to the epic and the main issue: `This event has changed from live to virtual. Original date [2020-xx-xx], New Date: [2020-xx-xx], This [epic/issue] reflects information for the virtual event.` Date can be left off if it is the same.
 - FMM/CMM: provide new campaign tag (if applicable).
-- MPM: Create new marketo program under `Virtual Events` cloning `YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)` template and save to the `Virtual Sponsorships` folder. If you are using the same campaign tag as the live event, add "OLD" to the beginning of the existing Marketo program as Marketo will not allow two programs with the same name.
-- MPM: create a new folder in the `Virtual Sponsorships` folder for the virtual event.
-- MPM: create new SF campaign by syncing new marketo program to SFDC.
-- MPM: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
-- MPM: follow standard processes with tokens, program activation, etc.
-- MPM: For conferences: update event YML with event’s virtual details (change location to virtual, update copy dates if needed)
-- **Existing event Marketo program MPM tasks:**
+- FMC: Create new marketo program under `Virtual Events` cloning `YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)` template and save to the `Virtual Sponsorships` folder. If you are using the same campaign tag as the live event, add "OLD" to the beginning of the existing Marketo program as Marketo will not allow two programs with the same name.
+- FMC: create a new folder in the `Virtual Sponsorships` folder for the virtual event.
+- FMC: create new SF campaign by syncing new marketo program to SFDC.
+- FMC: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
+- FMC: follow standard processes with tokens, program activation, etc.
+- FMC: For conferences: update event YML with event’s virtual details (change location to virtual, update copy dates if needed)
+- **Existing event Marketo program FMC tasks:**
   - Move the existing event marketo program under the new folder you have created and add `OLD` at the beginning of the title. If the original Marketo program wasn’t being used yet (no invites, no members, only linked to SFDC) it can also be deleted or moved to an archived folder.
   - Deactivate the `Interesting Moments` smart campaign.
   - Deactivate any invitations (ex: sales-nominated) smart campaigns that are live and stop all promotions.
-- **Salesforce MPM tasks (applies to both types):**
+- **Salesforce FMC tasks (applies to both types):**
   - Change the existing SF campaign to status: `aborted`
 
 ### Cancellation of Offline Events
@@ -488,20 +363,15 @@ These will be Virtual Sponsorships with booths (not just a sponsored webcast).
 Once the DRI has identified that an event is cancelled, the **FMM** will:
 
 - Update the event issue with [Cancelled] in the event title.
-- Tag the MPM and relevant internal contacts for the event in a comment to notify them that the date has changed.
-- Close the main Field/ Corporate Marketing event issue.
-- Remove the event line item from the regional tab
-  - FMM DRI will add requested refund info directly [into field budget document](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A2).
-  - See [instructions](https://gitlab.com/gitlab-com/finance/-/issues/2287) on how to technically obtain a refund with finance.
-  - For Corporate Events please track cancellations refunds in [this doc](https://docs.google.com/spreadsheets/d/1WVWZjSF6f5jAFqHO4hXcV8mN975ITT4eXScSn0F_FU8/edit#gid=1109485360). Only add events where we will be getting money back from a vendor at this time.
-- For owned events, work with the MPM to draft a cancellation notice to registered attendees.
+- Tag the relevant internal contacts for the event in a comment to notify them that the date has changed.
+- Close the main Field/Corporate Marketing event issue.
 - Remove the calendar invite from the internal `Sponsorships and Events` calendar
 
 The FMC will:
 
 - Remove the event from our external facing events page - about.gitlab.com
 
-If an offline event is cancelled after the MPM set up the issues, epic, and tracking for the event, the **MPM** will:
+If an offline event is cancelled after the set up of the issues, epic, and tracking for the event, the DRI will:
 
 - **Field Event and Conference:**
   - SFDC: Change the event campaign status to `Aborted`. No other changes.
@@ -527,11 +397,11 @@ The above planning list is not exhaustive - see planning issue template in field
 - The event DRI determines how many staffers we need at the event and is responsible for ensuring the staffers are all set to attend the event.
 - If the event is more enterprise-focused we try to send more marketing/sales. Regional Sales Managers in partnership with FM select team members based on who has the most potential contacts in the area or going to an event.
 - If the event is more user-focused we will lean towards sending more technical people to staff and fewer sales.
-- Suggestion for staffing: Field Marketing will evalute GitLabbers who live in the area that might be a good fit for the audience.
+- Suggestion for staffing: Field Marketing will evalute GitLab team members who live in the area who might be a good fit for the audience.
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
-- We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you would like to or would like to suggest someone participate in an event.
+- We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you personally would like to attend or if you would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
-- A lot of times a technical sales resource needs to also be assigned to attend an event. In order to do so, please review the SA handbook for [instructions](/handbook/customer-success/solutions-architects/#when-and-how-to-engage-a-solutions-architect) on how to secure one of our awesome SA's. Tag the meta issue with technical-staff::required and once staffing attained change to label technical-staff::complete.
+- A lot of times a technical sales resource needs to also be assigned to attend an event. In order to do so, please review the SA handbook for [instructions](/handbook/customer-success/solutions-architects/#when-and-how-to-engage-a-solutions-architect) on how to secure one of our awesome SA's. Tag the issue with technical-staff::required and once staffing attained change to label technical-staff::complete.
 - All those attending will need their manager's approval.
 - If you have been approved by the DRI and your manager to help staff an event, all your travel will be included during the time for the event/ expo days. You need to be onsite and ready to help out as soon as the first expo hall shift opens up and you may book travel any time after the expo hall closes. We will cover the night of lodging before the expo hall opens through to the night it closes. Any additional nights will need to be covered by the individual.
 - Event staffing list will close 2 weeks for **field** events or 3 weeks for **corporate** events before commencement of the event.
@@ -541,7 +411,7 @@ The above planning list is not exhaustive - see planning issue template in field
 
 Some events require technical staffing (Solutions Architects and/or others from the Customer Success team). To request technical staffing, do the following:
 
-- Add the label `technical-staff::required` to the meta issue - this will make it appear on the [Event Technical Staffing board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1254947)
+- Add the label `technical-staff::required` to the issue - this will make it appear on the [Event Technical Staffing board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1254947)
 - Add a note in the staffing section how many people you need and any particular criteria
 - Add one or more of the `technical-staff-type` labels to the issue to indicate which group(s) might be able to send staff. For example, if the event is on the west coast of the USA, consider adding `technical-staff-uswest` and `technical-staff-commercial`
 - CC the SA manager for the group(s) indicated
@@ -552,61 +422,64 @@ Some events require technical staffing (Solutions Architects and/or others from 
 It is important that we are communicating with our customers and prospects that we are monitoring COVID-19. Please include the following in all email outreach for hosted events.
 
 - GitLab is taking extra precautions to ensure the safety of our attendees including adopting a no-handshake policy at the event and is asking attendees to practice respiratory hygiene (wash hands often and cough into your elbow instead of your hand).
-- Additionally, we are requiring that all attendees who may have traveled to China, South Korea, Japan, Singapore, and Italy in the weeks leading up to the event only attend the event, if more than 14 days have passed between the time they join us onsite and the time they left any of these areas, and that they have shown no flu-like symptoms in that time.
 - For the safety of everyone, we ask that anyone who is feeling ill skips the event and substitutes a colleague in their place. We apologize to those attendees whom this affects and hope you understand that we are enacting measures we feel are necessary to ensure the safety of all attendees. Thank you in advance for taking these precautions and we look forward to welcoming you to our event.
 
 ### Event Outreach
 
-It is important that we are communicating with our customers and prospects when are attending an event. This is done through a targeted email sent through Marketo & also through SDR & SAL outreach.
+It is important that we are communicating with our customers and prospects when we are attending an event. This is done through a targeted email sent through Marketo & also through BDR & AE/SAL outreach.
 
-- Receive attendee list and contact customers and prospects before event using talking points provided by content DRI with the goal of setting up meetings/ demos at the event. Invite them to anything specific we have happening at or around event.
+- Most of the time we do not receive a pre event attendee list, but if we do, that will be shared in the issue. 
+- We recommend BDRs & AE/SALs contact customers and prospects before event using talking points provided by content DRI with the goal of setting up meetings/ demos at the event. Invite them to anything specific we have happening at or around event.
 - If there is not an attendee list process is as follows:
-- Target speakers for outreach.
-- Utilize previous years attendee list that can be found in SFDC. That person may not be attending, but their colleague might be. Ask for intros.
-- Follow event hashtags to see who will be attending.
-- Join local meetup and pre event events (this works well for large events like AWS).
-- Join LinkedIn Groups and slack channels dedicated to event.
-- Download event app and engage with attendees via app.
-  - You can search for relevant talks and see who has registered for talks that might apply to potential customers.
+   - Target speakers for outreach.
+   - Utilize previous years attendee list that can be found in SFDC. That person may not be attending, but their colleague might be. Ask for intros.
+   - Follow event hashtags to see who will be attending.
+   - Join local meetup and pre event events (this works well for large events like AWS).
+   - Join LinkedIn Groups and slack channels dedicated to event.
+   - Download event app and engage with attendees via app.
+   - You can search for relevant talks and see who has registered for talks that might apply to potential customers.
+   - Follow the [Demandbase list building process](/handbook/marketing/account-based-marketing/demandbase/#glossary) for a FMM Marketo email invite or BDR outreach
 
 #### Email alias usages for outreach
 
 We use several email aliases for pre and post event outreach. Below are guidlines as to which one should be used based on the event
 
 - Corporate events (all communications): `info@`
-- Field marketing events (invitations and follow up emails): `info@`
-- Field marketing event day before reminders: `fieldmarketing@`
+- Field marketing events (invitations and follow up emails): `<amer,emea,apac,uspubsec>field@gitlab.com`
+- Field marketing event day before reminders: `<amer,emea,apac,uspubsec>field@gitlab.com`
 
 #### Pre-Event Registration Tracking & Reporting
 
-As propects register for the event the Field Marketing team has the ability to track any potential dietary concerns:
+##### Dietary Restrictions
 
-- [LEAD report](https://gitlab.my.salesforce.com/00O4M000004dr8v)
-- [CONTACT report](https://gitlab.my.salesforce.com/00O4M000004dr95)
+During the registration process, it is important to track any potential dietary concerns. Please note that there is no longer a separate field in the registration form for dietary restrictions and this information is not tracked in SFDC. The FMM will need to include a note on the LP copy doc, instructing registrants to email with any specific dietary restrictions. It is up to the FMM if they would like to utilize their personal `@gitlab.com` email address & cc `regional@` alias.
 
-If the FM DRI for an event needs to reach out to someone prior to the event, they will do so leveraging their personal `@gitlab.com` email address & cc `fieldmarketing@` alias.
+**Example Verbiage for LP:**  
 
-The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs if they are needing to send a bulk email of any kind.
+At GitLab we aim to make our events accessible to everyone, regardless of disability or special needs. We vet all of our venues for accessibility. If you have a disability, special needs, or specific dietary restrictions, please reach out to us by responding to this email to let us know and we will follow up with you pre-event. This information will be kept private and will be distributed only to the individuals who need it to complete your accommodation request.
 
-#### For Field Events
+##### Registrant Communication
 
-- Adding Records to the Campaign in order for the record to receive an invite to the event:
+If the FM DRI for an event needs to reach out to someone prior to the event, they will do so leveraging their personal `@gitlab.com` email address & cc `regional@` alias.
+
+#### Sales Nominated process 
+The sales nominated process allows for records to be added to the campaign in order for the record to receive an invite to the event
 - SALs/SDRs should add members to campaign to be invited to event, using the appropriate `Campaign Status`:
   - `Sales Invited` = You have personally invited the person to the event.
   - `Sales Nominated` = Marketing will invite the person on your behalf. They will receive invitation email pre-event plus any confirmations/reminders if they register. [Video training on how add is also available.](https://drive.google.com/open?id=1QNB3DXXWtnmMBvzeHPkT7cRmigJdIWq5)
   - `Marketing Invited` = Marketing will be sending geo-targted invitation emails to specific events pulling the names from our active database. Anyone included in this master send will be added to the campaign with this status.
-  - **Any other Status** = Do not assign any other status to records. The campaign members will be updated by MPM or automated through registration.
+  - **Any other Status** = Do not assign any other status to records. The campaign members will be updated by FMC/Marketing Ops or automated through registration.
 
 #### Employee Booth Guidelines
 
 - Perfect your Pitch
   - Most people have two ears and one mouth. Successful pitching is two parts listening to one part talking. Be engaged and interested in folks that visit. Be genuinely curious about their story. Understand them first before you start telling them about us.
-  - A great way to start is to offer a handshake and say,
+  - A great way to start is to offer a welcome and say,
     1. "Hi, my name is [your_name]”
        1. “Hi I’m [their_name]”
     1. “[their_name, are you familiar with GitLab?”
        1. “Yes”
-          1. “Thanks for using us, are you using just the source code management or are you also using the built-in GitLab CI/CD?”
+          1. “Thanks for using us, I'm curious which aspect of the DevOps platform you're using?”
        1. “No” - “Great, in a nutshell we <140 character description> - for example, what company do you work for?”
           1. “Company X”
           1. And what’s your role at company x?
@@ -635,7 +508,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
   - The booth should be clean and organized at all times.
 - Avoid eating meals in booth, please keep lids on beverages and out of sight.
 - If we have the bandwidth or the traffic is slow do not be afraid to walk around to other booths and talk to people. Make friends we could partner with, create interesting content with, or just have friendly beers.
-- If press comes to the event feel free to put them in contact with CMO.
+- If press comes to the event feel free to put them in contact with our press team.
 - Engage the competition.
   - Be friendly and polite to competitors to come by the booth.
 - Don't forget your business cards.
@@ -643,7 +516,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 #### Scanning Best Practices
 
 - Be an active but polite Badge Scanner
-  1. Don’t reach for the badge without first asking if you can scan someone’s badge and don't lead a conversation with can I scan you. Ask folks politely, “Would you appreciate a follow up email?” or “Mind if I scan your badge?” Many folks will say, “yes.” If they say, “Not really.” You can say, “Great, we don’t want to clutter up your inbox. You can always go online to about.gitlab.com if you’d like to check back in with us.”
+  1. Don’t reach for the badge without first asking if you can scan someone’s badge and don't lead a conversation with "May I scan you." Ask folks politely, “Would you appreciate a follow up email?” or “Mind if I scan your badge?” Many folks will say, “yes.” If they say, “Not really.” You can say, “Great, we don’t want to clutter up your inbox. You can always go online to about.gitlab.com if you’d like to check back in with us.”
   1. Trade scans for all swag if the attendee consents. If we have the space and staff, someone should be in charge of distributing and organizing swag, and scanning folks who come by for swag.
 - Take good notes:
   1. Your initials (This way the email can be more personalized to say, “We saw you chatted with [name] in the booth.”) Add your initials + “follow up” if you personally can send them an email within a week of the conference.
@@ -653,6 +526,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 ##### Suggested Attire
 
 - Wear at least one piece of branded GitLab clothing. If you prefer to wear something dressier than the GitLab branded items available that is also acceptable. Feel free to wear our sticker on your clothing.
+- GitLab branded lanyard, to be provided to you by the event DRI. 
 - If the conference is business casual try some nice jeans (no holes) or dress pants.
 - Clean, closed-toed shoes please.
 - A smile.
@@ -662,26 +536,29 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 - Bring:
   - Generic business cards
   - Stickers + any other swag
-  - Events laptop (for slideshow) + charger + dongles
+  - Events laptop (for slideshow) + HDMI cable + charger + dongles
   - Backup power banks
   - Mints & hand sanitizer
-  - One pagers + GitLab cheat sheets
+  - One pagers + GitLab cheat sheets - don't bring too much paper though. 
+
+- An in person pre-event booth meeting is to be scheduled by event DRI the day before or morning of the event and is to held within the booth. All event attendees should be in attendance. The event DRI should have this added as a calendar invite on the attendees calendar and should include the event venue, address, booth number, and link to the event issue within the calendar invite. 
 
 ##### Quick Booth quality check
 
 - Check on cleanliness of booth
   - Monitor(s) there and in right place
-  - Printematerials in good supply and in right places
-  - Are badge scanners and other rentail items accounted for?
-  - make sure swag is orderly
-  - remove any personal device son booth surfaces?
-  - renmove any open containers or food waste?
+  - Printed materials in good supply and in right places
+  - Are badge scanners and other rental items accounted for?
+  - Swag is orderly
+  - Remove any personal devices on booth surfaces and securely store them
+  - Remove any open containers or food waste
   - Do we have too many or not enough people staffing?
-- send pic of booth to be sent out on social
+  - Post a picture of the booth to your social profiles
 
 ##### Day of Booth Staffing
 
 - Ideally booth shifts will be around 3 hours or less.
+- A calendar invite is to be added to all booth staff's calendar by the event DRI. The calendar invite should include: the name of the event venue, address of the venue, booth number, and link to the event issue within the calendar invite
 - Staff more people during peak traffic hours.
 - Avoid shift changes during peak hours.
 - Aim to staff the booth with individuals with a variety of expertise and backgrounds- ideally technical and non-technical people from various departments should be paired.
@@ -692,9 +569,9 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 #### Post Event
 
-- Add event debrief to event issue in marketing project. The debrief should include the following if applicable:
+- Add event debrief to event issue. The debrief should include the following if applicable:
   - Was the event valuable?
-    - Would you go again? Should we go again?
+    - Would you go again? If yes, what would you do differently to improve on current experience?
     - Did we get good leads/contacts? What was the audience profile like?
     - Best questions asked and conversations. Trends in questions asked.
     - Was our sponsorship/involvement successful? Did we go in at the proper sponsorship level?
@@ -707,26 +584,24 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
   - Contests
     - Did the contest(s) effectively build our brand and connecting with our target audience?
 
-#### Event List
+#### Lead list
 
 1. List received by event DRI from event organizers
-1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/sales/field-operations/gtm-resources/)
+1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/marketing/marketing-operations/list-import/)
 1. List is sent to Marketing Ops for upload to Marketo & associate to related Campaign (w/in 24hrs of receipt from event)
    - Marketo will match based on `Email Address` to existing records regardless if LEAD or CONTACT object.
 1. Marketo will sync to SFDC automatically. LeanData assigns records based on Territory ownership.
-1. Marketing Ops will create a LEAD & CONTACT view in SFDC for the SDR team to facilitate follow up.
-   - LEAD/CONTACT views will be retained in SFDC for no more than **90 days**
-1. Marketing Ops notifies MPM/FMM in the list clean issue when the upload has been completed so the follow up email(s) can be scheduled.
-1. Marketing Ops makes a post on the `#sdr_global` slack channel with a link to SFDC campaign, link to SDFC LEAD & CONTACT view, and link to Outreach view (if exists).
+1. Marketing Ops notifies DRI in the list clean issue when the upload has been completed so the follow up email(s) can be scheduled.
+1. Marketing Ops makes a post on the `#sdr_global` slack channel with a link to SFDC campaign, link to SDFC LEAD & CONTACT view, and link to Outreach view (if exists) as well as posting to the `#event_list_upload` channel as well.
    - Ops will ping the `sdr` slack alias and cc the `@sdr-leadership` slack alias.
 1. Event DRI follow up on leads to make sure expected followup completed and lead status changed.
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
@@ -735,10 +610,9 @@ For **FIELD** events that don't have badge scanners onsite, the FMM event owner 
 
 **How to create an onsite registration form**
 
-- FMM to request the creation of the onsite registration form & landing page via the MPM checklist (YES/NO/MAYBE) on the field event issue template. This form can be utilised ONLY when there are no badge scanners available onsite.
-- MPM to create issue under the event epic, using the [Onsite Registration Form & Landing Page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp) template.
-- MPM to navigate to the Marketo program for the event and find `No Lead Scanner - Onsite Reg` landing page under assets. Update the URL to be relevant to the event.
-- MPM to navigate to the Marketo program for `03 No Lead Scanner - Onsite Event Reg` Campaign and check that Smartlist and Flow are set up correctly for the relevant landing page. MPM then to **ACTIVATE** this campaign.
+- FMM to request the creation of the onsite registration form & landing page via the [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_mkto_landing_page) - FMC creates, assigns FMM (issue will be triaged) This form can be utilised ONLY when there are no badge scanners available onsite.
+- FMC to navigate to the Marketo program for the event and find `No Lead Scanner - Onsite Reg` landing page under assets. Update the URL to be relevant to the event.
+- FMC to navigate to the Marketo program for `03 No Lead Scanner - Onsite Event Reg` Campaign and check that Smartlist and Flow are set up correctly for the relevant landing page. FMC then to **ACTIVATE** this campaign.
 
 **How to use the onsite registration form**
 
@@ -748,7 +622,7 @@ For **FIELD** events that don't have badge scanners onsite, the FMM event owner 
 - - If the Notes field has notes > campaign status = `Follow Up Requested` > lead status = `MQL`
 - - If the Notes field is empty > campaign status = `Visited Booth` > lead status = `Inquiry`
 - Booth staff will have 24hrs post-event to go to the event salesforce campaign and add any further notes they have about a campaign member.
-- Once the event has ended, MPM should notify Marketing Ops via the Onsite registration form & Landing Page issue to de-activate the form and landing page.
+- Once the event has ended, FMC should notify Marketing Ops via the Onsite registration form & Landing Page issue to de-activate the form and landing page.
 
 #### Marketo Check-in App
 
@@ -766,11 +640,11 @@ For **OWNED** events, the Marketo program is pushed to the Marketo Check-in app 
 
 ##### How to activate the Marketo Check-in App
 
-1. MPM to navigate to the Marketo program event
+1. FMC to navigate to the Marketo program event
 1. At the top of the page, change `View: Summary` to `View: Schedule`
 1. You should see the event on the right side of the calendar
    ^ Events are displayed intially based on the program <b>`created date`</b>, not the event date
-1. Double click your event, update `date`,`end`, and event times (remember all times are based on the MPM's timezone setting in Marketo)
+1. Double click your event, update `date`,`end`, and event times (remember all times are based on the FMC's timezone setting in Marketo)
 1. Click the slide bar to change event from `tentative` to `confirmed`. Slide bar will change from _gray_ to _orange_ when done correctly.
    _The event will not be visible in the Marketo Check-in app until 7 days prior to the event_
 
@@ -803,6 +677,8 @@ If you need support, use the #mktgops slack channel.
 
 Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](/handbook/marketing/corporate-marketing/#swag). For event related swag and tracking purposes, we utilize the tags `swag_corporate` and `swag_community`.
 
+For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-swag).
+
 ## Specifics for Community Relations
 
 GitLab's Community Relations team reviews and manages our community events (typically an event with less than 250 attendees that is targetting end users of GitLab) including [Meetups](/handbook/marketing/community-relations/evangelist-program/#meetups). The [Community Relations handbook](/handbook/marketing/community-relations/evangelist-program/#community-events) has additional information on the events the Community Relations team will support.
@@ -813,36 +689,79 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 ## Specifics for Field Marketing Events
 
-- For events where a field marketing representative cannot be present, the FM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
+- For events where a field marketing representative cannot be present, the FMM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
 
-### Field Marketing Campaign Tags
+### Field Marketing QR Codes for Events
 
-For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags).
+Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator.com/) so that FMMs can follow the instructions below to print and display QR codes at events for raffles, contact info collection, etc. In AMER, tabletop signs to display the QR codes are available in the [Boundless portal](/handbook/marketing/field-marketing/#boundless-portal) under the `Event Assets` section.
 
-### Field Marketing Swag and Event Assets
+#### Steps to Generating a QR Code
+Corporate Events utilizes [QR Code Generator](https://www.qr-code-generator.com/) to create specific QR Codes to track how many people are visiting CTA weblinks. We  promote through different pieces of collateral passed out at the booth and signage we have created promoting registration for an on-site ancillary or virtual event. Other use cases such as people scanning to attend onsite virtual activities such as coding challenges or UX surveys.
 
-For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-swag).
+For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
+1. Make a copy of the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.* 
+1. Proceed to fill in all required information including: 
+    * Event title
+    * Event description (optional)
+1. Proceed to fill in all required information you'd like to collect from participants. If you are using the QR code for lead collecting purposes, please include the following fields (remember to make all fields mandatory):
+    * First Name
+    * Last Name
+    * Email Address
+    * Phone Number (optional)
+    * Title
+    * Company
+    * Country
+    * State/Province for US and Canada only (if you are not located in the US or Canada, please respond with n/a)
+1. If you are collecting addresses for a swag or raffle send, please make sure to add the following verbiage to your form - `By giving us your address, you are giving us permission to mail items to your home or office. We will not use this data for any other purposes.`
+1. Integrate your Google Form with your planning spreadsheet 
+    * With an established Planning Spreadsheet for your event (preferred method)
+      * Navigate to the `responses` tab of your Google form
+      * Select the 3-button stop sign icon
+      * Click `Select response destination`
+      * Click `Select existing spreadsheet`
+      * Choose the established Planning Spreadsheet from your Google Drive 
+      * Select `Ok`
+      * Now the established Planning Spreadsheet will be linked to your Google form
+    * Without an established Planning Spreadsheet
+      * Navigate to the `responses` tab of your Google form
+      * Select the 3-button stop sign icon
+      * Select `Create a new spreadsheet` and title the spreadsheet
+      * Click `Create`
+      * Now the newly created spreadsheet will be linked to your Google form
+1. Create your QR Code and link your Google Form
+    * Navigate to the [QR Code Generator](https://login.qr-code-generator.com/) website and log in using the password found in the Marketing 1Pass
+    * In the upper right-hand corner of the screen select `Create QR Code` 
+    * Select your QR Code `Type`
+    * Click `Next` at the bottom of the page
+    * Fill out QR Code Title & Description 
+    * Create QR Code to Design Specs:
+    
+        1. Use solid black tanuki only 
+        2. Make sure background behind tanuki is removed
+        3. Best if #171321 hex color is used to ensure proper contrast (other brand approved colors can be used but no need to get fancy with gradients or anything)
+        4. Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes)   
+    
+        1. Body Shape = Top Row third choice from the left with the dots
+        2. Eye Frame Shape = Top Row fourth choice from the left 
+        3. Eye Ball Shape = Top Row fourth choice from the left - should match the eye frame but filled in 
+        
+      **NOTE: Also, the design team advises that the QR code should be no smaller than 1" x 1"**
+5. Add in URL link to CTA. Example CTAs listed below:
 
-### AMER Field Marketing QR Codes for Events
+        1. Survey Links
 
-A QR code with a general GitLab PathFactory track and a QR code with a general PubSec PathFactory track are available for use. FMMs/DRIs can follow the links below to print and display at events. Table-top signs to display the QR codes are available in Nadel - search for `Tabletop Display`.
+        2. Gated Collateral Piece
 
-- [General track QR code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/4e60a958192f8d3e336d1d963bfbe551/General-Track-Qr-Sign.pdf)
-- [PubSec track QR code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/3538c3694620b1d8c1a4e3ec99427b00/gitlab-pubsec-events-path-factory-qr-code-8_5x11in.pdf)
+        3. GitLab landing pages
 
-Field Marketing is able to create additional QR code signs using a template by following instructions [here](https://docs.google.com/presentation/d/1H36fbkRxyPLMWJ5xqKge4yINJQlUsKZ0tuGujCf7-fA/edit?usp=sharing). Please be sure to make a copy of the file rather than editing directly.
+        4. Video
 
-If this template does not meet your needs, additional designs may be requested by opening an issue in the corporate marketing [repo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/). Be sure to include:
+        5. Code Challenge landing page
 
-- what the sign is for
-- verbiage for the sign
-- URL to attach to the QR code
-- whether or not the URL needs tracking
-  - If YES and the QR code is for a specific event, pull the existing UTM from the related event epic and attach to the end of the URL that needs tracking
-  - Please loop in your MPM for assistance with campaign UTMs, or `@mnguyen4` & `@shanerice` if your MPM is not available
-
-Design will then create and provide a PDF for the FMM/FMC to print on their own for the event.
+        6. Eventbrite Registration Page for ancillary event
+6. Generate and save as a PDF, jpg, or ai file
+7. Test QR Code personally and send to at least 1 teammate to confirm the QR Code is live and analytics are being collected in the QR Code Generator portal.
 
 ### AMER Field Marketing Badge and Event Check-In Process
 
@@ -905,7 +824,7 @@ At GitLab owned events we will sometimes host 10 minute lightning meetings with 
 
 #### Process
 
-- Written & verbal announcement is made to audience either prior to the event in the Know before you go email or the announcement is made onsite at the event.
+- Written & verbal announcement is made to audience either prior to the event in the know before you go email or the announcement is made onsite at the event.
 - The location should be clearly communicated to the audience as well as the 10 min time limit.
 - The DRI for these meetings is responsible for writing down the attendees name and company as attendees arrive to form the queue of folks who will be meeting with the CXO.
 - This should be done in the shared google sheet event briefing in a separate tab.
@@ -933,18 +852,21 @@ In an effort to publicly share where people can find GitLab at events in person 
 If you need more information about our exact involment in an specific event please visit the marketing project in gitlab.com and search the name of the event for any realted issues. The "Meta" issue should include the most thorough and high level details about each event we are participating in. Place your event in the order in which it is happening. The list runs from soonest to furthest in the future.
 Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/events)
 
+
+If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/digital-experience/) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
+
 ### Details to be included (all of which are mandatory in order for your MR to pass the build):
 
 {:.no_toc}
 
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
-  `MeetUp`, `Speaking Engagement`, `Webinar`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
+  `MeetUp`, `Speaking Engagement`, `Webcast`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
 - **Date starts** - Day event starts
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
-- **Location** - city, state,provinces, districts, counties (etc depending on country), country where event will take place
-- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, or `Online`
+- **Location** - city, state, provinces, districts, counties (etc depending on country), country where event will take place
+- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, `PubSec`, or `Global`
 - **Social tags** - hashtag for event shared by event host
 - **Event URL** - homepage for event
 
@@ -988,173 +910,45 @@ featured:
     background: background/image/src/here.png
 ```
 
-## Creating an event specific landing page
-
-**All landing pages** require the involvement of a Marketing Program Manager (MPM) as there are required steps to set up programs & tracking in both Marketo/Salesforce to correctly manage inbound submissions from the landing page.
-
-For corporate tradeshows we will want to create an event specific page that links from the [about.gitlab.com/events](/events/) page. The purpose of this page is to let people know additional details about GitLab’s presence at the event, how to get in touch with us at the event, and conference sessions we are speaking in (if applicable).
-
-For select Field Marketing events, that meet the critera below, a Marketo landing page is used instead of an `events.yml` created landing page. By doing this, the MPMs own the creation of these pages and they are the only ones who will have edit access to these pages.
-
-When to specifically use a Marketo landing page vs. the events yml:
-
-1. This is an event owned by Field Marketing.
-1. The event cost the company less than \$50,000 (or your country's equivalent).
-1. We will be driving traffic to the marketo landing page for less than 1.5 months.
-
-Steps to take to create the new `events.yml` generated landing page:
-
-1. Create new a new branch of the [www-gitlab-com project.](https://gitlab.com/gitlab-com/www-gitlab-com). - Branch name should be what event you’ve added.
-1. From new Branch, navigate to `Data`, then to `events.yml`
-1. Scroll down to the area where its date appropriate to add the event
-1. Add event using instructions in [handbook](#how-to-add-an-event-to-the-eventsyml)
-1. To create the event specific page you need to add a subset of the following information:
-
-- **url:** - you make this up based on what you want the URL to be from about.gitlab.com
-- **header_background:** choose from an image already in the images folder or add your own image. If you do not know how to do this, please watch [this tutorial](https://drive.google.com/open?id=14wCjHZLbcUUDArGYBNeinsHAlET6ubMy).
-- **header_image:** choose from an image already in the images folder or add your own. (optional- if you prefer not to include, remove field altogether)
-- **header_description:** what CTA would you like the person to do on the page
-- **booth:** booth number at event, if there is no booth number, then remove this line of code (optional)
-- **form:** code that tells the system to add the contact info form. Marketing Ops will provide you with this number. They need to create a specific form for each page associated with a campaign in sfc.
-- **title:** CTA for why someone would want to give their contact info. Also used in `contact:` to distinguish a header title.
-- **description:** additional info on why someone would want to give their contact info
-- **number:** Marketo form number - Marketing Operations will need to give this number to you. Under `form:`
-- **content:** all of the information in the example section is all optional based on your event. If its not needed, simply delete. "Content" block to take markdown.
-
-1. Please watch [this tutorial](https://drive.google.com/open?id=14wCjHZLbcUUDArGYBNeinsHAlET6ubMy) for additional help.
-
-### Example
-
-{:.no_toc}
-
-```
-- topic: AWS re:Invent
-  type: Conference
-  date_starts: December 2, 2019
-  date_ends: December 6, 2019
-  description: |
-             AWS re:Invent 2019 is the Amazon Web Services annual user conference dedicated to cloud strategies, IT architecture and infrastructure, operations, security and developer productivity.
-  location: Las Vegas, NV, USA
-  region: AMER
-  social_tags: AWSreInvent2019
-  event_url: https://about.gitlab.com/events/aws-public-sector-summit/
-  # Giving the following data will give this event it's own dedicated page on about.gitlab.com, must provide a unique url.
-  # If it is text, it needs to be wrapped in "double quotes". This is so you can use characters like : and ' without breaking anything.
-  url: aws-reinvent
-  header_background: /images/blogimages/gitlab-at-vue-conf/cover_image.jpg
-  header_image: /images/events/aws-reinvent.svg
-  header_description: "Drop by our booth to see a demo and speak with our GitLab experts!"
-  booth: "S1607"
-  form:
-      title: "Request a meeting!"
-      description: "Let us show you how GitLab can impact your business."
-      number: 1691
-      success message: "Thank you for requesting to meet! We'll be in touch shortly with more information."
-  content:
-    - title: "Make sure to stop by the GitLab booth at AWS re:Invent!"
-      body: "Speak with our experts and learn how GitLab simplifies your deployment pipeline to accelerate delivery by 200%. See a live demo, learn about our latest releases, and explore what’s on the roadmap for GitLab."
-    - title: "Request a meeting"
-      body: "Fill out the form to request a meeting with GitLab. We'll share how we can impact your business as a complete DevOps platform, delivered as a single application. From project planning and source code management to CI/CD, monitoring, and security."
-    - title: "Activities at AWS re:Invent"
-      list_links:
-        - text: "Register for our happy hour!"
-          link: "#"
-        - text: "Join our speaking sessions - see details below."
-  speakers:
-    - name: "Priyanka Sharma"
-      title: "Director of Technical Evangelism"
-      image: /images/team/priyankasharma-crop.jpg
-      date: "Wednesday, May 22"
-      time: "14:00 - 14:35"
-      location: "Hall 8.0 F5"
-      topic: "[The Serverless Landscape and Event Driven Futures](https://kccnceu19.sched.com/event/MPeI/the-serverless-landscape-and-event-driven-futures-dee-kumar-cncf-priyanka-sharma-gitlab?iframe=no&w=100%&sidebar=yes&bg=no)"
-      description: "Serverless design patterns have grown in popularity amongst developers and enterprises alike and the ecosystem is exploding. Developers like moving faster by focusing on business logic without worrying about the underlying infrastructure. Today, there are umpteen solutions and OSS projects in the market and the space needs some organization to maximize effort. There is a lot of curiosity and confusion around serverless computing. What is it? Who is it for? Is it a replacement for IaaS, PaaS, and containers? Does that mean the days of servers are over? The CNCF created the Serverless Working Group to explore the intersection of cloud native and serverless technology. The first output of the group was creation of serverless landscape. The landscape lists some of the more common/popular Serverless projects, platforms, tooling, and services."
-    - name: "John Jeremiah"
-      title: "Director, Product Marketing"
-      image: /images/team/johnjeremiah-crop.jpg
-      date: "June 12, Wednesday"
-      time: "1:25 PM–1:45 PM"
-      location: "Partner Pavilion"
-      topic: "Accelerating Speed to Mission: A Digital Transformation"
-      description: "Velocity and speed of execution determine the winners. The faster your software teams can deliver, the bigger your advantage. The traditional software development processes have multiple layers of friction, checkpoints, and bottlenecks, often making simple projects complex, expensive, and lengthy. One of the hardest parts of delivering software is keeping everyone aligned and focused. Teams waste time waiting for inputs, fixing mistakes, shifting from one tool to another, waiting for infrastructure, and maintaining complexly integrated toolchains; this all creates friction and slows innovation. It doesn't have to be slow, learn how to accelerate your software delivery and increase your mission velocity."
-```
-
-### Template
-
-{:.no_toc}
-
-```
-- topic:
-  type:
-  date_starts:
-  date_ends:
-  description: |
-
-  location:
-  region:
-  social_tags:
-  event_url:
-  # Giving the following data will give this event it's own dedicated page on about.gitlab.com, must provide a unique url.
-  # If it is text, it needs to be wrapped in "double quotes". This is so you can use characters like : and ' without breaking anything.
-  url:
-  header_background:
-  header_image:
-  header_description:
-  booth:
-  form:
-      title:
-      description:
-      number:
-      success message:
-  content:
-    - title:
-      body:
-    - title:
-      list_links:
-        - text:
-          link:
-        - text:
-          link:
-        - text:
-          link:
-  speakers:
-    - name:
-      title:
-      image:
-      date:
-      time:
-      location:
-      topic:
-      description:
-    - name:
-      title:
-      image:
-      date:
-      time:
-      location:
-```
-
 ## Creating a Marketo Landing Page
 
-[This has been moved to the Landing Page handbook page to focus on conversion best practices and add details for page creation](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/landing-pages)
+[This has been moved to the Landing Page handbook page to focus on conversion best practices and add details for page creation](/handbook/marketing/demand-generation/campaigns/landing-pages)
 
 ## Email Process for Events
 
-[Please see Emails & Nurture handbook page for in-depth details on email marketing](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture)
-
-**Email Approval:**
-
-1. MPM send yourself a test email and check that it is ready for DRI to review/approve
-1. If email is ready for DRI approval, Click 'print', select 'Save as PDF' as your destination. Click 'More settings' and check the Options box for Background graphics, then save file (example - 20191016_Roadshow_NYC_reminder).
-1. Add file to the description in your related issue (invitation-reminder or follow-up-email)
-1. MPM to @ mention the DRI to let them know the email has been created and is in the description
-1. DRI will review email for grammatical errors, event details, remove any gendered language, and links and provide feedback and/or approval.
-1. DRI will provide @ MPM for any requested changes, and MPM will make update and follow the process again.
+[Please see Emails & Nurture handbook page for in-depth details on email marketing](/handbook/marketing/lifecycle-marketing/emails-nurture)
 
 ## Speaking at events
 
 If you’re looking for information about speaking at an events head over to our [Corporate Marketing page](/handbook/marketing/corporate-marketing/#speakers) for complete details.
 
+### Paying for Speaker travel 
+At times, GitLab may offer to pay for a person's travel if they will be speaking about their usage of GitLab at an event. 
+
+There is no contract that needs to be in place in order for payment to happen. The GitLab team member should do the following:
+
+#### Option A 
+ 
+1. Ensure that the expense is accounted for in a line items within (Allocadia)[/handbook/marketing/strategy-performance/allocadia/]. The spend type should default to what was selected at the `Sub-Category` level. 
+1. Open a [Coupa virtual card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card) for the amount of money you believe will need to be on the card to account for the trip. 
+   * Take into consideration airfare, car service, hotel stay, and dining. 
+   * Ensure you've added the correct Allocadia ID to the virtual card. 
+1. Once the virtual card has been created, share the card number with the speaker and ask that the speaker use this card for all travel related items where possible. 
+   * Also recommend to the speaker to add the virtual card to their digital wallet that will allow them to tap and pay from their mobile device without having a physical card. 
+1. Supporting documentation - could be an email that confirms this person will travel for GitLab - should be uploaded for the Coupa card to be created.  
+
+##### Hotel stay 
+While we would like for the hotel to be secured using the Coupa Virtual Card as well, at times a hotel may ask for a physical card to be provided upon check-in for incidentals. The speaker may either present their own card and then apply for reimbursement OR a GitLab team member may provide their own credit card. 
+
+If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report: 
+1. Category = Marketing Field Events OR Brand Marketing - depending on if you are in Field Marketing vs. another group in marketing - by selecting one of these categories, it puts the expense in the program spend bucket vs. the employee travel bucket within the financial systems. 
+1. Classification = MUST add the Allocadia ID that has been created in Netsuite for this event 
+
+#### Option B 
+The speaker would like to pay for everything themselves and would like for GitLab to reimburse them. 
+
+In this case the speaker will need to complete a [reimbursement form](https://docs.google.com/spreadsheets/d/1CxJMQ06GK_DCqihVaZ0PXxNhumQYzgG--nw_ibPV0XA/edit#gid=0) and submit with receipts back to GitLab. GitLab will pay immediately upon receipt. 
+
 ## Virtual Events
 
-- See [virtual event best practices guide](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices/). Includes best practices for running a virtual event, tips for speakers, attendees, partners, and speakers.
+- See [virtual event best practices guide](/handbook/marketing/virtual-events/#best-practices). Includes best practices for running a virtual event, tips for speakers, attendees, partners, and speakers.
