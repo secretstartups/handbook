@@ -80,7 +80,7 @@ Important notes:
 1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KRs in Ally.io as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
-1. [Top 12 cross-functional initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
+1. [Top cross-functional initiatives](/company/team/structure/working-groups/#top-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
