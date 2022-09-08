@@ -1,0 +1,23 @@
+This is a collection of links for monitoring Integrations features.
+
+### Grafana dashboards
+
+- [Ecosystem:Integrations group dashboard][grafana-dashboard], which contains:
+    - Links to various Kibana logs, filtered to our feature categories
+    - Our [error budget](#error-budget) spend attribution
+- [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch) where you can switch queues with the `queue` dropdown
+
+### Sentry errors
+
+- [Matching "ServicesController"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+ServicesController)
+- [Matching "Integrations"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+Integrations)
+- [Matching "Jira"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+Jira)
+
+### Kibana logs
+
+#### JiraConnect workers
+
+- [`JiraConnect::SyncMergeRequestWorker`](https://log.gprd.gitlab.net/goto/309f97d4a5c3e918e2c07754fefc94ee) errors.
+- [`JiraConnect::SyncBranchWorker`](https://log.gprd.gitlab.net/goto/96364e957898896c4dc7e9ee5534b6de) errors.
+- [`JiraConnect::SyncProjectWorker`](https://log.gprd.gitlab.net/goto/5f0e03847ddc1b074d6346199c8bc4d2) errors.
+- [All JiraConnect sync worker](https://log.gprd.gitlab.net/goto/39348f2d169e6929c41dba2d6fb063ee) timeout errors.
