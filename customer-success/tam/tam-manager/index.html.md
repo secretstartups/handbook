@@ -21,21 +21,22 @@ This page provides an overview on relevant CSM leadership processes.
 ## CSM Leadership
 
 | Name | Region | Role | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | [CSM Segment](/handbook/customer-success/tam/segment/) |
-|--------------------------------------------------------------------------------|-----------|-------------|-------------------------|-----------------------|
-| [Sherrod Patching](https://about.gitlab.com/company/team/#spatching)           | Global    | VP         | All (ENT, COMM, PubSec) | All CSM Segments      |
-| [Christiaan Conover](https://about.gitlab.com/company/team/#christiaanconover) | AMER      | Director    | Enterprise              | Strategic & Mid-Touch |
-| [Taylor Lund](https://about.gitlab.com/company/team/#taylorlund)               | Global    | Manager     | All (ENT, COMM, PubSec) | Scale                 |
-| [Chloe Whitestone](https://about.gitlab.com/company/team/#chloe)               | AMER      | Manager     | All (ENT, COMM, PubSec) | Mid-Touch             |
-| [Christina Souleles](https://about.gitlab.com/company/team/#csouleles)         | EMEA      | Manager     | Enterprise & Commercial | Mid-Touch             |
-| [Patrick Harlan](https://about.gitlab.com/company/team/#pharlan)               | Global    | Sr Manager  | Commercial              | Strategic             |
-| [Sophie Pouliquen](https://about.gitlab.com/company/team/#spouliquen1)         | AMER East | Manager     | Enterprise              | Strategic             |
-| [John Woods](https://about.gitlab.com/company/team/#jwoods06)                  | AMER West | Sr Manager  | Enterprise              | Strategic             |
-| [Jamie Reid](https://about.gitlab.com/company/team/#jrreid)                    | AMER West | Manager     | Enterprise              | Strategic             |
-| [Dave Thompson](https://about.gitlab.com/company/team/#dthompson3)             | APAC      | Manager     | Enterprise              | Strategic             |
-| [Michael Leutz](https://about.gitlab.com/company/team/#mrleutz)                | EMEA      | Sr Manager  | Enterprise              | Strategic             |
-| [James Wormwell](https://about.gitlab.com/company/team/#jwormwell)             | EMEA      | Manager     | Enterprise              | Strategic             |
-| [Robert Clark](https://about.gitlab.com/company/team/#robclark14)              | PubSec    | Manager     | PubSec                  | Strategic             |
-| [Steven Terhar](https://about.gitlab.com/company/team/#SteveTerhar)            | PubSec    | Manager     | PubSec                  | Strategic             |
+|--------------------------------------------------------------------------------|-----------|-------------|-------------------------|--------------------|
+| [Sherrod Patching](https://about.gitlab.com/company/team/#spatching)           | Global    | VP          | All (ENT, COMM, PubSec) | All CSM Segments   |
+| [Christiaan Conover](https://about.gitlab.com/company/team/#christiaanconover) | AMER      | Director    | Enterprise              | Strategic & Growth |
+| [Taylor Lund](https://about.gitlab.com/company/team/#taylorlund)               | Global    | Manager     | All (ENT, COMM, PubSec) | Scale              |
+| [Chloe Whitestone](https://about.gitlab.com/company/team/#chloe)               | AMER      | Manager     | All (ENT, COMM, PubSec) | Growth             |
+| [Christina Souleles](https://about.gitlab.com/company/team/#csouleles)         | EMEA      | Manager     | Enterprise & Commercial | Growth             |
+| [Patrick Harlan](https://about.gitlab.com/company/team/#pharlan)               | Global    | Sr Manager  | Commercial              | Strategic          |
+| [Sophie Pouliquen](https://about.gitlab.com/company/team/#spouliquen1)         | AMER East | Manager     | Enterprise              | Strategic          |
+| [Tiffany McAtee](https://about.gitlab.com/company/team/#tiffanymcatee.gitlab)  | AMER East | Manager     | Enterprise              | Strategic          |
+| [John Woods](https://about.gitlab.com/company/team/#jwoods06)                  | AMER West | Sr Manager  | Enterprise              | Strategic          |
+| [Jamie Reid](https://about.gitlab.com/company/team/#jrreid)                    | AMER West | Manager     | Enterprise              | Strategic          |
+| [Dave Thompson](https://about.gitlab.com/company/team/#dthompson3)             | APAC      | Manager     | Enterprise              | Strategic          |
+| [Michael Leutz](https://about.gitlab.com/company/team/#mrleutz)                | EMEA      | Sr Manager  | Enterprise              | Strategic          |
+| [James Wormwell](https://about.gitlab.com/company/team/#jwormwell)             | EMEA      | Manager     | Enterprise              | Strategic          |
+| [Robert Clark](https://about.gitlab.com/company/team/#robclark14)              | PubSec    | Manager     | PubSec                  | Strategic          |
+| [Steven Terhar](https://about.gitlab.com/company/team/#SteveTerhar)            | PubSec    | Manager     | PubSec                  | Strategic          |
 
 ## Review Processes
 
