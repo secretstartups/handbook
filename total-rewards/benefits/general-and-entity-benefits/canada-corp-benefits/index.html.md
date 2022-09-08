@@ -589,12 +589,85 @@ More information can be found on the [Government of Manitoba website](https://ww
 </details>
 
 
-### Administrative Details for Benefits Team
+## Administrative Details for Benefits Team
 
-On the pay changes deadline (every 2 weeks) the following steps should be taken:
-1. Review any pending accounts and approve if they are actively employed with GitLab Canada Corp.
-1. Create a payroll deduction detail report of all active enrollments and update any changes in the Canada Payroll Changes file to be processed on the next payroll.
-1. Once payroll has been processed, the Payroll team will provide a report of $ amounts deducted from team members. This should be returned to our contact at Canada Life or uploaded directly through the portal (preferred method).
+### Onboarding & Offboarding in Collage
+
+1. Total Rewards is tagged in Onboarding & Offboarding issues
+1. Total Rewards will update Collage with new hire information/termination 
+1. Team Member receives onboarding notification and enrolls in to the plans
+
+### Updating Payroll with Employer Premium Rates (Monthly)
+
+Prior to the 1st Canada Payroll Cutoff date of the Month, Total Rewards will look up Employer Premium changes Amounts on the Canada Life Website & New Hires since the Last month
+
+New Hires
+
+1. Log on to Workday. Pull a report of Canada Team Members that have started within the past month (or since the last time the report was pulled)
+1. Log on to the Canada Life Portal. Select "Enrollment" > "Mantain/Inquire on Employee"
+1. Enter the following
+- Function: View In Force Premiums and Taxes
+- Employee ID of the team member
+- Effective date: Todays Date
+1. Locate the details under the "Total Benefit Cost Including Tax" column and enter these details to the Canada Payroll Change Report in the following columns:
+- Employee ID
+- Effective Date
+- Tier
+- Total Monthly Cost
+- Basic Employee Life
+- Accidental Death and Dismemberment
+- Long Term Disability
+- Healthcare
+- Dentalcare 
+
+Adjustments for Current Team Members
+
+1. Log on to Group Net Canada Life portal
+1. Select "Billing" > View or Print Bill > Current month's Bill
+1. Open up the Current Statment. Scroll down to the "Adjustments for Prior Periods" section. Anyone on this list needs to have thier Employer Premiums. 
+1. On the Canada Life Portal Select "Enrollment" > "Mantain/Inquire on Employee"
+1. Enter the following
+- Function: View In Force Premiums and Taxes
+- Employee ID of the team member
+- Effective date: Todays Date
+1. Locate the details under the "Total Benefit Cost Including Tax" column and enter these details to the Canada Payroll Change Report in the following columns:
+- Employee ID
+- Effective Date
+- Tier
+- Total Monthly Cost
+- Basic Employee Life
+- Accidental Death and Dismemberment
+- Long Term Disability
+- Healthcare
+- Dentalcare 
+
+### Updating Collage with Employee Salary Changes (Monthly)
+1. Log on to the Canada Payroll Changes Report 
+1. Review the Compensation changes that have occurred in the last 2 months
+1. Log on to Collage
+1. Search for the team member > click their name > Job > Update Employment Info > Update Salary Details > Save
+
+### Checking if Employees are Eligible for Excess LTD Insurance & need underwriting (Quarterly)
+1. Log on to Group Net Canada Life 
+1. Enrollment tab > request reports> coverage summary> effective date(today’s date)> sort by Employee name
+1. Review this data to identify  if the team member is eligible for more Life Insurance and LTD Coverage than they are currently receiving 
+1. Collect this list and share it with Darren so that we can request for the team member to complete documentation to be eligible for the excess cover
+
+### RRSP Process (Semi-monthly)
+
+1. Team members create Canada Life account and sign up for RRSP
+1. Total Rewards logs on to Canada Life, approves RRSP requests: Menu > Administrative Functions > Online Enrollments > Search for a list: All Full Time Employees - 01. Add an Enrolment date and Approve the enrolment. 
+1. Total Rewards generates a Canada Life report that lists all of the Contribution %s: Menu > Client Reporting & Tools > Create Reports
+ - Select a report: Payroll Deduction details
+ - Select a plan: Registered Retirement Savings Plan
+ - Select a subgroup: All Full time Employees - 01
+ - Select a layout: Excel File, includes SIN
+ - Select details to be displayed on report: Payroll deduction instructions for active members as of current date 
+1. Total Rewards identifies changes since the last report, by preforming a vlook up against last month's report and includes them in the Canada Payroll Change report
+1. Canada Payroll deducts the percentage from team member’s pay and sends TR the dollar amount that was deducted in a Remittance Report
+1. Total Rewards sends this report to Canada Life and the remit the payments
+Canada Life Charges the total to GitLab, and we pay out the amount
+
 
 Offboarding:
 * The Canada Life RRSP portal is not able to be connected to Collage so team members will need to be manually removed from the RRSP plan upon termination.
