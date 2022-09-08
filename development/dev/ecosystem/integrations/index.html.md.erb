@@ -142,36 +142,6 @@ Deliverable / Stretch Board tracks `~Deliverable` and `~Stretch` issues.
 
 - [Important Board](https://gitlab.com/groups/gitlab-org/-/boards/1438588) tracks important issues: infradev, security, reliability, approaching-SLO, missed-SLO, performance and application limits issues.
 
-### Error budget
-
-GitLab uses [error budgets][error-budgets-handbook] to measure the availability and performance of our features.
-Each engineering group has its own budget spend. The current 28-day spend for the Integrations team
-shows in this [Grafana dashboard][grafana-dashboard].
-
-Error budget spend happens when either of the following exceeds a certain threshold:
-
-- Error rate of an endpoint or worker
-- Apdex (latency) of an endpoint
-
-#### Determine the highest-impact fixes
-
-To determine the highest-priority problems in our [Grafana dashboard][grafana-dashboard]:
-
-1. Go to the **Error budget** panel.
-1. Expand **Budget spend attribution**. The **Budget failures** panel is ordered by top failures.
-1. In **Failure log links**, click the corresponding links.
-
-Fixing the top offenders will have the biggest impact on the budget spend.
-
-#### Further resources
-
-Learn more about error budgets with these resources:
-
-- [Error budgets and how they are calculated][error-budgets-handbook]
-- [What Apdex is and how it works](https://docs.gitlab.com/ee/development/application_slis/rails_request_apdex.html)
-- [Error budget in Grafana dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#error-budget)
-- [Feature categorization](https://docs.gitlab.com/ee/development/feature_categorization): our code is attributed to us by `feature_category: :integrations`
-
 ### Capacity Planning
 
 <%= partial("handbook/engineering/development/dev/ecosystem/integrations/capacity_planning.erb") %>
@@ -187,6 +157,10 @@ Learn more about error budgets with these resources:
 ## Monitoring
 
 <%= partial("handbook/engineering/development/dev/ecosystem/integrations/monitoring.erb") %>
+
+## Error budgets
+
+<%= partial("handbook/engineering/development/dev/ecosystem/integrations/error_budgets.erb") %>
 
 ## Employee Development
 
