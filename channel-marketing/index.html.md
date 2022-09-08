@@ -176,6 +176,56 @@ Partners can access and manage their GitLab leads in the same interface as their
 
 When requesting support from our team, we commit to responding to your [issue](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new?issuable_template=channel_partner_request) within 2 business days (when request is easily understood) or a Zoom meeting invite to understand the request, scope, timeline, goals and expectations.  
 
+## Alliances Partner Marketing Roles and Responsibilities
+**Alliances Marketing Team**
+
+The role of alliances partner marketing manager is to own and develop the demand generation plan for and with our alliances partners based on the account strategy developed by Alliances Director and in alignment with company SAO goals for the segment and region.
+
+**Account assignment/alignment as of Sept 2022:** 
+
+* **Lindsey Lopez**: AWS, Microsoft aligned to Pete Goldberg
+* **Hank Belz**: GCP aligned to Jason Mero and Oracle, Cisco and Nutanix aligned to Vick Kelkar
+* **Gabby Chorny**: IBM and RedHat aligned to Brett Egloff and VMware aligned to Vick Kelkar.
+
+  Gabby will also provide support to the **ISV partners** in the form of up to 5 solution briefs per quarter at the direction/priority of Mike LeBeau, Alliances manager. 
+
+  *As of Sept 2022 Gabby will commit to providing 5 solution briefs for key ISV partners.  Future support will require discussion, planning and budget.  See **Coleen Greco** for additional details.
+
+While each account does have it’s own unique go to market motion the **following is a list of what the Alliance marketing manager is responsible for:** 
+
+* **Develop and maintain the alliance partner marketing relationships.**
+   * Our goal is to work with the assigned marketing manager but expand our relationships far and wide within the marketing org to support our strategic objectives. 
+* **Based on the Alliance Director’s strategy, the Alliance marketing manager will develop a long-term, strategic marketing plan that reflects the goals and objectives of the partnership.** 
+   * Alliances Directors must ensure the marketing managers have consistent visibility into pipeline goals by segment and by region including average deal size, sales cycle and etc. 
+* **Develop the plan and tactics that support demand generation activities and in alignment with the marketing strategy.** 
+   * Demand generation tactics include but are not limited to: solution briefs, ebooks, blogs, social, digital, webinars and events.
+* **Campaign management**
+   * Marketing managers are responsible for the components of the campaign including the set up, testing and execution of: 
+      * Campaign nurture tracks (unless executing a field mktg event)
+         * Accurate lead flow
+      * Marketo campaigns (unless executing a field mktg event)
+      * Weekly reporting (Sales Accepted Opptys, New First Order)  
+* **Content editing**
+* **Content creation with an external party** 
+    * Note: marketing managers do not author the content but coordinate with outside vendors, and subject matter experts to execute and ensure legal and brand compliance.
+* **Marketing managers are the Alliance sales team single interface with/to any other GitLab marketing team**
+    * Corporate events
+    * Public Relations
+    * Analyst relations
+    * Brand
+    * etc.
+
+Our team is small but mighty and there are a few things that are simply **outside of our scope as of Sept 2022:** 
+* **Content development**
+   * Alliance marketing managers are responsible for ensuring alliances messaging is incorporated into company lightning strikes, but isn’t the author of that content.  Solution architects or other subject matter experts are best suited to author integration content.  
+* **Enablement content**
+   * Enablement is a sales and/or technical motion and the marketing manager can review or include the training as part of a larger initiative (and should) but would not be the one to author the content.  Alliances marketing manager can also lean on our enablement team to help provide resources/assistance.
+* **Sales incentives**
+   * Sales incentives are funded out of the Partner Operations team.  The alliances marketing manager will include the incentive as part of a larger initiative but would not be the one to author or fund the incentive.  
+
+**For additional questions, concerns or requests please direct them to: Coleen Greco, Director, Global Channel and Alliances Marketing.** 
+
+
 ## Meet the Team
 
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
@@ -193,9 +243,11 @@ When requesting support from our team, we commit to responding to your [issue](h
         
 **Alliances Marketing Team**
         
-*   **Gabby Chorny**: Senior Alliances Marketing Manager, Gabby will be focusing on supporting our alliances marketing initiatives
+*  **Hank Belz**: Senioar Alliances Marketing Manager. GCP, Oracle, Nutanix and Cisco.
+
+*   **Gabby Chorny**: Senior Alliances Marketing Manager.  IBM, RedHat, VMware and developing solution brief for up to 5 ISV partners per quarter.
         
-*   **Lindsey Lopez**:  Alliances Marketing Manager, Lindsey will be focusing on supporting our alliances marketing initiatives 
+*   **Lindsey Lopez**:  Alliances Marketing Manager. AWS and Microsoft.
 
 
 
