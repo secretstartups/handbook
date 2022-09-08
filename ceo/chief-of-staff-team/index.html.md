@@ -42,7 +42,7 @@ Complement the CEO through being a cross-functional linchpin for GitLab when it 
 ## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
 
-Given the cross-functional nature of the [Top 12 Cross-Functional Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#12-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits. 
+Given the cross-functional nature of the [Top Cross-Functional Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits. 
 
 The CoST does a quarterly recap summarizing current and completed work. [Q2FY23 CoST Highlights](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cost-monthly-update/-/issues/7)
 
