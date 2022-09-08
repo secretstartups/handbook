@@ -65,7 +65,21 @@ Because we have a wide range of domains to cover, it requires a lot of different
 
 We are constantly iterating on our [planning process](./planning/) as a team. To maximize our velocity and meet our deliverables, we follow a [refinement process for all issues](./planning/#refinement).
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Govern" } %>
+#### Cross-functional Backlog
+
+**[Sisense](https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard)**
+
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
+
+<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "govern") } %>
+
+#### Merged Merge Request Types
+
+**[Sisense](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)**
+
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
+
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "govern") } %>
 
 ### Product Documentation Links
 
