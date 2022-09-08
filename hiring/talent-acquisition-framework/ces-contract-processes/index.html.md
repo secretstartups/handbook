@@ -30,7 +30,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 
 | Entity | Signatory | 
 |-------- | -----|
-| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
+| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. LOAs can be signed by Morgan Wilkins  | 
 | GitLab Federal LLC    |       Bob Stevens     |  
 | GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
@@ -45,6 +45,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab South Korea | Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh |
 | GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
+| LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
+| PEOs | The Candidate Experience Specialist processing the offer. For LOAs, choose Morgan Wilkins or Marissa Ferber |
 
 #### Offer Details Access steps
 Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
@@ -299,12 +301,12 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 
 ## Letter of Adjustment
 
-When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to the Total Rewards team for processing.
+When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to peopleops@gitlab.com team for processing.
 
-Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th). These effective dates do not need to be on a business day and should be adhered to payroll purposes. 
+Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes. 
 Please note that LOAs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
-The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
+The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to Workday & BambooHR. The signed letter is uploaded into Workday under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. 
 
 When an internal transition is taking place and the start date for that LOA is amended, please ensure to update the People Connect team via Slack in the `#people-exp_ces` channel of the new start date.
 
@@ -312,8 +314,8 @@ If a team member goes through a promotion through BambooHR versus Greenhouse, a 
 
 CES: Follow the instructions below on how to create and send a letter of adjustment. 
 
-1. Confirm that the start date is either on the 1st or 16th of the month. This is for payroll purposes and does not need to be on a business day. 
-1. The signatory is Director, Total Rewards, Brittany Rhodes. 
+1. Confirm that the start date is either on the 1st or 16th of the month. For Sales or Sales Development, the start date should be the 1st. This is for payroll purposes and does not need to be on a business day. 
+1. The signatory matches the appropriate entity. If the candidate is located in the US (including Federal), Morgan Wilkins can be a signatory. If the candidate is employed through a PEO, Morgan Wilkins and Marissa Ferber can be signatories (this process is subject to change)
 1. Next, Click Generate 
 1. Select Letter of adjustment template in Greenhouse:
 - Letter of Adjustment w/ OTE
@@ -328,7 +330,7 @@ CES: Follow the instructions below on how to create and send a letter of adjustm
 - #3 Nitin Upadhyay (receives a copy)
 - This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the People Experience for an update of records. 
 1. Then click "Done".
-1. When LOA is signed, ensure that you merge profiles before Hiring into BambooHR to avoid creating duplicate profile
+1. When LOA is signed, ensure that you merge profiles before Hiring to avoid creating duplicate profile
 
 ## Rehires
 
