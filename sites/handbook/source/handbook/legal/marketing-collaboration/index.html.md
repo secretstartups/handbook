@@ -94,11 +94,11 @@ From time to time, GitLab sponsors promotional games. While these seem simple en
 
 If you are planning a promotional game, you will need legal approval for the proposed promotional game. Please use the [Promotional Games Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=promotional_games_legal_template) housed in the Marketing Ops repo. 
 
-The following explanations will help you fill out the form completely. This is essential, as all of the questions were developed based on legal requirements. Issues that do not answer all the questions will not be approved.
+The following explanations will help you fill out the form completely. This is essential, as all of the questions were developed based on legal requirements. **Issues that do not answer all the questions will not be approved.**
 
 - **Type of Promotional Game.** Please check the type of event you are hosting or add an additional type if the options do not fit your promotional game. This is an important step as the type of promotional game is often the starting point for knowing what laws to review.
-  - Giveaway: This is where every participant that completes the prescribed action gets the prize. Official rules may not be required for givewaways, provided the giveaway description includes clear conditions of participation (what you must do) and any restritions (such as max of 100 prizes, first come first serve).
-  - Prize Draw: This is a promotional game where there is an element of chance in the determination of a winner. These promtional games may include objective qualifying requirements but the winner(s) are selected at random from a pool of qualified entries.
+  - Giveaway: This is where every participant that completes the prescribed action gets the prize or complimentary gift. Official rules may not be required for givewaways, provided the giveaway description includes clear conditions of participation (what you must do) and any restritions (such as max of 100 prizes/complimentary gifts, first come first serve).
+  - Prize Draw/Sweepstakes: This is a promotional game where there is an element of chance in the determination of a winner. These promtional games may include objective qualifying requirements but the winner(s) are selected at random from a pool of qualified entries.
   - Game of Skill: This is a contest or competition - where the winner is selected as the result of the best entry and would include objective standards/criteria upon which the entry is judged.
 
 - **Hosting Country.** Because [laws vary based on locale](https://www.dlapiperintelligence.com/prizepromotions/insight/index.html?t=), it is necessary for Legal to know as much as possible about where the promotional game will take place. (In the case of remote events, please tell us the intended audience. For example, it may be targeted to EMEA users/prospects. Legal will then review our internal guidelines to determine which country we will designate as the host country.)
@@ -109,7 +109,7 @@ The following explanations will help you fill out the form completely. This is e
 
 - **Questions.** The questions you intend to use for a survey or quiz as part of a promotional game must be submitted for review. This is mainly for informational purposes so that Legal can understand more about the promotional game and what rules may apply. It is unlikely that we will "disallow" the questions, but we may have input for wording. The questions will also help us know what language to include in customized rules.
 
-- **Prize Values.** Local law often hinges on the value of the prizes, so it is necessary to know what prizes and how many prizes will be awarded prior to creating rules. Legal may request a change in prizes if the value amount is over a certain threshhold and adds significant Legal requirements to event. This will vary from country to country and sometimes from state to state.
+- **Prize Values.** Local law often hinges on the value of the prizes, so it is necessary to know what prizes and how many prizes will be awarded prior to creating rules. Legal may request a change in prizes if the value amount is over a certain threshhold and adds significant Legal requirements to event. This will vary from country to country and sometimes from state to state.  As a rule, prize values should not exceed US$599.00, to avoid U.S. tax form requirements, and the total value of all prizes in a promotion should not exceed US$5,000.00, to avoid registration and bonding requirements in certain U.S. states. 
 
 - **Awarding Prizes.** The method and criteria for winning a prize must be detailed, as this will affect what the rules will include.
 
@@ -126,20 +126,9 @@ Any promotional game sponsored by GitLab must be accompanied by Official Rules. 
 
 The ability to communicate and market to customers and prospects is an essential activity for GitLab. To do this, we must ensure the collection of personal information and the ability to contact is done in a manner compliant with applicable laws.  It is also beneficial for GitLab to use consistent language across our sites and forms when obtaining consent to communicate with our customers.  [The Marketing Rule Book](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing) is intended to be a reference guide to (a) help understand the email and phones rules for a few select countries; and (b) provide the standard consent language to be used, depending on the scenario. 
 
-## Media Consent and Model Release 
+## Publicity Waiver and Release 
 
-For requests related to the use of an individual's image or voice in print or digital media, use the [Media Consent and Model Release Form](https://drive.google.com/drive/folders/168iq07H0D6zdVe2_IRSoKc_ymvU_5ZOI?usp=sharing) and follow these steps: 
-
-1. Open the [Media Consent and Model Release Form](https://drive.google.com/drive/folders/168iq07H0D6zdVe2_IRSoKc_ymvU_5ZOI?usp=sharing)
-    (**_NOTE:_** This template is only available for GitLab Team Members)
-
-2. Update the "Description of Images" Section of the Media Consent and Model Release Form
-
-3. Once updated, prepare and send for signature to the intended recipient using an electronic signature tool (e.g., DocuSign)
-    (**_NOTE:_** Do not send the Form as a PDF as it may be modified by the recipient) 
-
-4. Once executed by the recipient, please upload the signed Media Consent and Model Release Form into [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
-    (**_NOTE_** Please be certain to upload the executed version into the "01" Folder) 
+For requests related to the use of an individual's image or voice in print or digital media, for team members and non-team members, refer to the [Publicity Waiver and Release Guidelines and Process](https://about.gitlab.com/handbook/legal/publicity-waiver-release/).  
 
 ### CAN-SPAM
 
