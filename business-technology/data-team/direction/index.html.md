@@ -129,23 +129,25 @@ graph LR
    PREP-->PROD
 ```
  
-Currently there are about 30 [source systems](/handbook/business-technology/data-team/platform/#data-sources) extracted:
+Currently there are about 35 [source systems](/handbook/business-technology/data-team/platform/#data-sources) extracted:
 - Data is landed in 1900 different tables
 - There are over 1700 dbt models 
 - Multiple different end points (including i.e. Sisense, Data Pump, Data Spigot, Qualtrics, Snowflake GUI)
  
-Currently there is monitoring available to check failures in the process, from extracting until making it available for the different end points. This is done via our [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) with defined tests in [dbt](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) and monitored in our [triage](/handbook/business-technology/data-team/how-we-work/triage/) process. 
+Currently there is monitoring available to check failures in the process, from extracting until making it available for the different end points. This is done via our [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) with by default monitors in [Monte-Carlo](/handbook/business-technology/data-team/platform/monte-carlo/), defined tests in [dbt](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) and monitored in our [triage](/handbook/business-technology/data-team/how-we-work/triage/) process. 
  
 Data observability is a methodology to actively monitor data sets inside a data platform for the existing health status. When the data is healthy, data is trusted and can be used in the decision making process, without facing the risk of making a decision on the wrong information.
  
-Currently the Data Team is looking beyond our current technologies, to see if there is tooling available that can help us in this process.
+In FY23-Q2 the Data Platform team implemented the Data Observability tool [Monte-Carlo](https://www.montecarlodata.com/). 
  
 - It helps us to find anomalies that we are not actively searching for (find the unknown).
 - It reduces costs of implementing new tests.
 - It reduces false positives and false negatives.
 - It gives a clear overview which we can communicate with business stakeholders -> impact for them.
  
-In FY23, the Data Team will continue to take next steps by exploring new technologies to support the data team in observing the data and finding any anomalies in the data for business users.
+In FY23, the Data Team will continue the implementation by creating new monitors in Monte-Carlo. Migrating existing tests out of dbt towards Monte-Carlo is not on the roadmap, because;
+- the Data Team needs to mature in Monte-Carlo,
+- monitor as a code is not implemented.
 
 ## Data Value Pyramid
 
