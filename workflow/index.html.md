@@ -100,7 +100,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
      * Ask for assistance in the `#development` Slack channel if there is no
        merge request that caused the `~"master:broken"`.
 1. Communication
-   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend` using the Slack Workflow. Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`. 
+   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend` using the Slack Workflow. Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
@@ -223,7 +223,7 @@ Next, merge the merge request:
 - If the "Merge" button is enabled (this is unlikely), then click it.
 - Otherwise, you must:
   1. Unset the
-    ["Pipelines must succeed" setting](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html#only-allow-merge-requests-to-be-merged-if-the-pipeline-succeeds)
+    ["Pipelines must succeed" setting](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html#require-a-successful-pipeline-for-merge)
     for the [`gitlab-org/gitlab` project](https://gitlab.com/gitlab-org/gitlab/edit).
   1. Click the "Merge" button.
   1. Set the "Pipelines must succeed" setting to be on again.
@@ -407,7 +407,7 @@ We have the following deadlines:
   - Kickoff document is updated with relevant items to be included.
 - By month `M-1, 13th` (at least 5 days before milestone `m` begins):
    - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
-   - Kickoff document is updated with relevant items to be included. 
+   - Kickoff document is updated with relevant items to be included.
 - By month `M-1, 16th` (at least 1 day before milestone `m` begins):
   - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
@@ -422,7 +422,7 @@ We have the following deadlines:
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 21st`:
-  - [Group Retrospective issues](/handbook/engineering/management/group-retrospectives/) are updated with shipped and missed deliverables and team-members are tagged in the discussion. 
+  - [Group Retrospective issues](/handbook/engineering/management/group-retrospectives/) are updated with shipped and missed deliverables and team-members are tagged in the discussion.
 - On `M, 19th`, or `M, 20th`, or `M, 21st`:
   - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
 - On month `M, 22nd`: **Release Day** 🚀
@@ -816,7 +816,7 @@ Issues are nominated to the board through the inclusion of the label `infradev` 
 
 Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.
 
-`~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue. 
+`~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue.
 
 Additionally, an automated status report is generated in the [gitlab-org/infradev-reports](https://gitlab.com/gitlab-org/infradev-reports/-/issues) issue tracker. A new report is opened weekly, and updated regularly. The report categorizes each infradev issue according to several criteria, and can help with the triage and priorization process.
 
