@@ -675,3 +675,21 @@ Here is the config table for the automation logic for reference:
   * `reviewAccOppsLamDevChangingCompNewLogo`
  
 
+### Account Pub Sec Type
+**Business Process this supports:** This is the process of how the Pub Sec Type (`PubSec_Type__c`) is determined on an account. This is important in order to determine Public Sector status on the basis of account demogrpahic information instead of ownership.
+**Overview:** The criteria that is used to determine if an account is Public Sector or not is based on the inputs listed below. Additionally if the Account needs to be over written to a Pub Sec type that is different from what the job is producing that is possible using the `PubSec_Type_Override__c` field
+  * `Website`
+  * `zi_sub_industry__c`
+  * `Industry`
+  * `Account_Demographics_UPA_Country__c`
+**Related Issues:** 
+  * [Pub Sec Type](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2663)
+ 
+ **Logic Locations:**
+* [AccountJob_SetPubSecType.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountJob_SetPubSecType.cls)
+* [AccountJob_SetPubSecTypeTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountJob_SetPubSecTypeTest.cls)
+* [AccountClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClass.cls)
+  * `setPubSecType`
+  * `determinePubSecType`
+* [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
+  * `determinePubSecType`
