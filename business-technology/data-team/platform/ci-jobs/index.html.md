@@ -21,7 +21,7 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * If a weekend has passed re-run any CLONE steps which were performed prior, every Saturday all old pipeline databases are dropped from SnowFlake. 
 * Merge master branch. Due to how dbt handles packages pipelines can fail due to package failures which should always be handled in the latest branch. 
 * Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing. 
-* If still uncertain, tag @gitlab-data/data-engineers (or any individual engineer if urgent assistance is required) on your issue and request assistance in resolving the issue.  
+* If still uncertain or facing any issues, request assistance in the #data Slack channel  
 
 ### Pipeline variables not being passed to the job
 
@@ -176,17 +176,17 @@ Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
 
 #### ➕🏗🛺️run_changed_models_sql
-Runs all of the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
+Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
 #### ➕🏗️🛺🦖run_changed_models_sql_l
-Runs all of the models in the MR diff whose SQL has been edited against an L warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files.
+Runs all the models in the MR diff whose SQL has been edited against an L warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
 #### ➕🏗️🛺🐘run_changed_models_sql_xl
-Runs all of the models in the MR diff whose SQL has been edited against an XL warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files. 
+Runs all the models in the MR diff whose SQL has been edited against an XL warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files. 
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
@@ -205,7 +205,7 @@ These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-dat
 
 #### 🧠all_tests
 
-Runs all of the tests
+Runs all the tests
 
 - Note: it is not necessary to run this job if you've run any of the dbt_run stage jobs as tests are included.
 
@@ -331,7 +331,7 @@ Runs automatically when MR is merged or closed. Do not run manually.
 
 # Data Test Pipelines 
 
-All of the below run against the Prod DB using the changes provided in the repo. No cloning is needed to run the below. 
+All the below run against the Prod DB using the changes provided in the repo. No cloning is needed to run the below. 
 
 #### 🧠 all_tests_prod
 
@@ -339,11 +339,11 @@ Runs through all tests in the analytics & data tests repo.
 
 #### 💾 data_tests_prod
 
-Runs through all of the data tests in the analytics & data tests repo's. 
+Runs through all the data tests in the analytics & data tests repo's. 
 
 #### schema_tests_prod
 
-Runs through all of the schema tests in the analytics & data tests repo's. 
+Runs through all the schema tests in the analytics & data tests repo's. 
 
 #### specify_tests_prod
 
