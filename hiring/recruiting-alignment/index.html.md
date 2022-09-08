@@ -11,29 +11,29 @@ description: "This page is an overview of the search team alignment and the tale
 | Executive          | Rich Kahn   | Chriz Cruz | Davie Soomalelagi  |
 | Enterprise Sales, NA | Kevin Rodrigues |  N/A | Sruthy Menon |
 | Enterprise Sales, NA | Jill Hind |  N/A | Sruthy Menon |
-| Enterprise Sales, EMEA | Debbie Harris |  TBH | Lerato Thipe |
-| Commercial Sales,	AMER | Marcus Carter | TBH  | Davie Soomalelagi |
+| Enterprise Sales, EMEA | Debbie Harris |  TBH |  |
+| Commercial Sales,	AMER | Marcus Carter | TBH  | Fernando Khubeir |
 | Commercial Sales,	AMER | Hannah Stewart | TBH  | Sruthy Menon |
 | Commercial Sales,	EMEA | Ben Cowdry | TBH | Lerato Thipe |
-| Channel Sales, US/EMEA | Debbie Harris & Kanwal Matharu | TBH | Lerato Thipe |
-| Field Operations,	US/EMEA | Kelsey Hart | Loredana Iluca | Sruthy Menon |
+| Channel Sales, US/EMEA | Kanwal Matharu | TBH | Lerato Thipe |
+| Field Operations,	US/EMEA | Kelsey Hart | Loredana Iluca | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Muttiah & Ornella Gerca | Loredana Iluca | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff | Loredana Iluca | Sruthy Menon |
 | All Sales, APAC | Yas Priatna | N/A | Lerato Thipe |
 | Marketing, Global | Sarah Sherwood | Alina Moise | Davie Soomalelagi |
 | Marketing, BDR/SDR (AMER)| Caroline Rebello | Caroline Rebello | Alice Crosbie |
 | Marketing, BDR/SDR (EMEA/APAC)| TBH, Caroline Rebello (Interim) | Caroline Rebello (Interim) | Alice Crosbie |
-| G&A, Finance, People, CEO | Maria Gore | Alina Moise | Alice Crosbie |
-| G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
+| G&A, Finance, People, CEO | Maria Gore | Alina Moise |  |
+| G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Fernando Khubeir |
 | Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Development: Ops | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development: Dev | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development: Dev | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Teranay Dixon |
 | Development: Analytics, Growth, Secure | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Quality: Quality Engineering | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
 | Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Guido Rolli |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Alice Crosbie |
-| Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
+| Security | Nicky Kunstman |  Zsuzsanna Kovacs | Teranay Dixon |
 | Incubation | Matt Angell  |  Zsuzsanna Kovacs | Alice Crosbie |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
 | Product Management  | Matt Allen | Chris Cruz | Michelle Jubrey |
