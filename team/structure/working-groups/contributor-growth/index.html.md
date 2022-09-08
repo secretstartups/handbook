@@ -36,7 +36,7 @@ Implement key business iterations that results in substantial and sustained incr
    2. We further iterated towards the concepts of [Resident Contributors](https://docs.google.com/document/d/1ctO5ZLRnGb22tJwo4vb2ca5t-EwIpaVIFB6-IwdtCPg/edit) (only accessible from within the company)
 1. Setup first iteration of community cohort team 
 1. Define follow up working process between Community Relations and Contributor Success teams
-   1. We are continuing our efforts with a weekly stand-up as part of the User Engagement initiative that is one of the [top 12 cross functional initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives)
+   1. We are continuing our efforts with a weekly stand-up as part of the User Engagement initiative that is one of the [top cross functional initiatives](/company/team/structure/working-groups/#top-cross-functional-initiatives)
 
 Following exit criteria will be owned by the [Contributor Success team](handbook/engineering/quality/contributor-success/) as it is being built out
 1. Deliver 3 key iterations to our contribution guidelines

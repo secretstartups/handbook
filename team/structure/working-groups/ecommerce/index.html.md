@@ -22,7 +22,7 @@ canonical_path: "/company/team/structure/working-groups/ecommerce/"
 
 ## Business Goals
 
-Self-service and e-commerce are key levers to the success of our business (also now part of 12 Cross-Functional Initiatives). They drive customer satisfaction and adoption, deliver GTM efficiency, assist in channel development and ultimately, expand our revenue and improve our position in the market.
+Self-service and e-commerce are key levers to the success of our business (also now part of Top Cross-Functional Initiatives). They drive customer satisfaction and adoption, deliver GTM efficiency, assist in channel development and ultimately, expand our revenue and improve our position in the market.
 
 As the demands of the business grow in complexity and the areas that self-service touches increase, it will be crucial for us to align on one, common self-service strategy.
 
