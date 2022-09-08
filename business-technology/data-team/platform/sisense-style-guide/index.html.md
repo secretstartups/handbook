@@ -29,6 +29,28 @@ description: "SiSense Style Guide"
 
 ### Choosing the Right Chart
 
+#### Bar charts
+
+A bar chart is commonly used to compare data across several categories. Typically, the categories are displayed along the Y-axis, while the values are displayed along the X-axis. The values can also be broken down further by another category.
+
+In creating a bar chart in Sisense, we must first determine the categories and values. The number of categories must be at least 1 and at most 2. The number of values, however, must also be at least 1, but there is no limit as to how many can be added. When the number of values is more than 1, each value will be represented in the chart with different colors and areas.
+
+There are different design options available to fine-tune a Bar chart. We can choose from the following appearances:
+1. Classic: Columns are displayed side by side.
+2. Stacked: Columns are stacked on top of each other and do not overlap. The tooltips over the columns show the percentage distribution among the Values.
+3. Stacked 100: Columns are stacked on top of each other (but do not overlap) and the combined column is stretched to represent 100%. This option is most commonly used when the relative distribution of the values is more important than their aggregation.
+
+##### How to Create a Bar chart in Sisense
+
+Here is how you can create a bar chart in Sisense:
+
+1. Once you have the data, in the Series Settings panel, choose the Bar option.
+2. Under the charts options, you can see the list of fields. Determine the field/s that will be the category/categories and assign them in the X-axis (min of 1, max of 2).
+3. Determine the values fields and assign them in the Y-axis (min of 1).
+4. If more than 1 value field is determined: Under the Series panel, you can further choose the fields to be assigned in either of the two Y-axis.
+
+We can also change the color theme by following the [Gitlab Standard Color Pallete](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
+
 #### Pie charts
 
 Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem aplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
