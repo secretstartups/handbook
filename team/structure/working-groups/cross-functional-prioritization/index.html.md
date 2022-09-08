@@ -78,7 +78,7 @@ Note: This does not preclude other stages beyond create to complete the exit cri
 
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
-| Executive Sponsor     | Eric Johnson                                         | CTO                                                        |
+| Executive Sponsor     | Ashely Kramer                                        | Acting CTO                                                 |
 | Facilitator           | Justin Farris                                        | Senior Director of Product Management |
 | Functional Lead       | Wayne Haber                                          | Director of Engineering |
 | Functional Lead       | Christopher Lefelhocz                                | VP of Development                                          |
