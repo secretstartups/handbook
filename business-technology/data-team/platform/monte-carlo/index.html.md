@@ -18,6 +18,8 @@ description: "Monte Carlo Guide"
 
 [Monte Carlo](https://www.montecarlodata.com/) (MC) is our [Data Observability](https://www.montecarlodata.com/blog-what-is-data-observability/) tool and helps us **deliver better results more efficiently**.
 
+The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](/handbook/business-technology/data-team/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
+
 ## How We Operate Monte Carlo
 
 We use the [#data-pipelines](https://gitlab.slack.com/archives/C0384JBNVDJ) Slack channel for MC platform related alerts.
@@ -32,7 +34,7 @@ graph TD
 
 mc(Monte Carlo)
 sf(Snowflake Data Warehouse)
-de(Data Engineer)
+de(GitLab Team Member)
 
 mc --> |alerts| de
 de --> |improves| sf
@@ -104,5 +106,22 @@ The data observability user is stored on our internal data vault.
 Please note this is an exception to our usual permission-handling procedure, where we rely on Permifrost, because observability permissions are an edge-case for Permifrost and not yet supported by the tool.
 There is an ongoing [feature request](https://gitlab.com/gitlab-data/permifrost/-/issues/120) on Permifrost for adding granularity to the way permissions are set, but no solution has been agreed on yet.
 
+## Notification strategy
+
+All incidents are reported in MonteCarlo incident portal. For triage purposes the most important (which requires action) are routed towards Slack. The following matrix shows per data area which type of monitors are routed and towards which channel:
+
+| Database | DataScope                                               | Volume               | Freshness      |  Schema changes                                   | Custom monitors|
+|-----------|------------------------------------------------------|----------------------|----------------------|-------------------------------------|----------------------|
+| RAW       | TIER1                                                | #data-pipelines      | #data-pipelines      | #analytics-pipelines (once per day) | #data-pipelines      |
+|           | TIER2                                                | #data-pipelines      | #data-pipelines      | #analytics-pipelines (once per day) | #data-pipelines      |
+|           | TIER3                                                | #data-pipelines      | #data-pipelines      | #analytics-pipelines (once per day) | #data-pipelines      |
+| PREP      | n/a                                                  | -                    | -                    | -                                   | -                    |
+| PROD      | COMMON `*` | #analytics-pipelines | #analytics-pipelines | -                                       | #analytics-pipelines                                       |
+|           | WORKSPACE  `**`                                      | -                    | -                    | -                                   | -                    |
+|           | WORKSPACE-DATA-SCIENCE     | #data-science-pipelines | #data-science-pipelines                     | -                                   | #data-science-pipelines |
+|           | LEGACY `***`                                         | -                    | -                    | -                                   | -                    |
 
 
+`*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes COMMON_PREP and COMMON_MAPPING    
+`**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy    
+`***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)

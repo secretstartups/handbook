@@ -738,8 +738,15 @@ See the [Trusted Data Framework](/handbook/business-technology/data-team/platfor
 
 #### Schema To Golden Data Coverage
 
-We implement 5 categories of Trusted Data Framework (TDF) tests:
+We implement 12 categories of Trusted Data Framework (TDF) monitors and tests (monitors are created in and executed by [Monte-Carlo](/handbook/business-technology/data-team/platform/monte-carlo/), tests are created with and executed by dbt):
 
+1. `Freshness monitors` Monitor for unusual delays in table and field updates
+1. `Schema monitors` Monitor fields that are added, removed or changed
+1. `Volume monitors` Monitor for unusual changes in table size based on the numbers of rows
+1. `Field health Monitor` Monitor fields for dips or spikes in stats like % null, % unique, and more. Our ML sets the thresholds.
+1. `SQL rule monitor` Write a SQL statement to check for any expressable condition across 1 or more tables in your data.
+1. `JSON schema monitor` Monitor for schema changes in JSON data added to a table field.
+1. `Dimension tracking` Monitor for changes in the distribution of values within a low-cardinality table field.
 1. [Schema tests](/handbook/business-technology/data-team/platform/dbt-guide/#schema-tests) to validate the integrity of a schema
 1. [Column Value tests](/handbook/business-technology/data-team/platform/dbt-guide/#column-value-tests) to determine if the data value in a column matches pre-defined thresholds or literals
 1. [Rowcount tests](/handbook/business-technology/data-team/platform/dbt-guide/#rowcount-tests) to determine if the number of rows in a table over a pre-defined period of time match pre-defined thresholds or literals
