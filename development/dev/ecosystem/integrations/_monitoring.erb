@@ -21,3 +21,36 @@ This is a collection of links for monitoring Integrations features.
 - [`JiraConnect::SyncBranchWorker`](https://log.gprd.gitlab.net/goto/96364e957898896c4dc7e9ee5534b6de) errors.
 - [`JiraConnect::SyncProjectWorker`](https://log.gprd.gitlab.net/goto/5f0e03847ddc1b074d6346199c8bc4d2) errors.
 - [All JiraConnect sync worker](https://log.gprd.gitlab.net/goto/39348f2d169e6929c41dba2d6fb063ee) timeout errors.
+
+### Error budgets
+
+GitLab uses [error budgets][error-budgets-handbook] to measure the availability and performance of our features.
+Each engineering group has its own budget spend. The current 28-day spend for the Integrations team
+shows in this [Grafana dashboard][grafana-dashboard].
+
+Error budget spend happens when either of the following exceeds a certain threshold:
+
+- Error rate of an endpoint or worker
+- Apdex (latency) of an endpoint
+
+#### Determine the highest-impact fixes
+
+To determine the highest-priority problems in our [Grafana dashboard][grafana-dashboard]:
+
+1. Go to the **Error budget** panel.
+1. Expand **Budget spend attribution**. The **Budget failures** panel is ordered by top failures.
+1. In **Failure log links**, click the corresponding links.
+
+Fixing the top offenders will have the biggest impact on the budget spend.
+
+#### Further resources
+
+Learn more about error budgets with these resources:
+
+- [Error budgets and how they are calculated][error-budgets-handbook]
+- [What Apdex is and how it works](https://docs.gitlab.com/ee/development/application_slis/rails_request_apdex.html)
+- [Error budget in Grafana dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#error-budget)
+- [Feature categorization](https://docs.gitlab.com/ee/development/feature_categorization): our code is attributed to us by `feature_category: :integrations`
+
+[error-budgets-handbook]: /handbook/engineering/error-budgets/ "Error budgets handbook page"
+[grafana-dashboard]: https://dashboards.gitlab.net/d/stage-groups-integrations/stage-groups-group-dashboard-ecosystem-integrations?orgId=1 "Grafana Error Budget Dashboard"
