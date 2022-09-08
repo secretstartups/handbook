@@ -223,7 +223,7 @@ These include:
 
 ### Pre-offsite discussion topics
 
-1. Review of Top Annual Cross-Functional Initiatives. [Top 12 Cross-Functional Initiatives in FY23](/company/team/structure/working-groups/#12-cross-functional-initiatives) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Review of Top Annual Cross-Functional Initiatives. [Top Cross-Functional Initiatives in FY23](/company/team/structure/working-groups/#top-cross-functional-initiatives) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
 
 ### Team norms
 
