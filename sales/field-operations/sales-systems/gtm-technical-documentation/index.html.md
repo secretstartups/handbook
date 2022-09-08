@@ -654,7 +654,24 @@ Here is the config table for the automation logic for reference:
 **Logic Locations:**
 * [Email Templates](https://gitlab.my.salesforce.com/00X?setupid=CommunicationTemplatesEmail&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DCommunicationTemplates)
 * [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
+
+### Opportunity New Logo Tracking (Comp/Clari)
+**Business Process this supports:** This supports the sales compensation and forecasting processes. This process is used to identify Opportunities that should be compensated for a New Logo. 
+**Overview:** This process maintains the values on two field on the Opportunity Recrod, `Comp_New_Logo_Override__c` and `New_Logo_Override_Clari__c`. As the names suggest the `Comp_New_Logo_Override__c` is a field that feeds into the Compensation process and is leveraged by the compensation team in Xactly and `New_Logo_Override_Clari__c` is a corresponding field that shares similar characteristics as the Comp field but feeds directly into Clari for forecasting needs. 
+**Related Issues:** 
+  * [New_Logo_Override_Clari__c Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3138)
  
- 
+ **Logic Locations:**
+* [OpportunityClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls)
+  * `stampCompNewLogoOverride`
+* [OpportunityClassTests.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClassTests.cls)
+  * `stampCompNewLogoOverrideEnt`
+  * `stampCompNewLogoOverrideEntAPAC`
+  * `stampCompNewLogoOverrideCom`
+  * `stampCompNewLogoOverrideSMB `
+* [AccountClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClass.cls)
+  * `reviewAccOppsLamDevChangingComp`
+* [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
+  * `reviewAccOppsLamDevChangingCompNewLogo`
  
 
