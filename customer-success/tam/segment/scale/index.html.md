@@ -27,7 +27,7 @@ The [Scale CSE operating rhythm](/handbook/customer-success/tam/segment/scale/sc
 
 The diagram below outlines the customer lifecycle for our Scale Customers:
 
-![Customer Lifecycle Journey Scale CSE](/images/handbook/customer-success/customer_lifecycle_journey_with_metrics_-_scale_tam_2.png)
+![Customer Lifecycle Journey Scale CSE](/images/handbook/customer-success/Customer_Lifecycle_Journey_with_Metrics_-_Scale_CSE.png)
 
 ## Motions
 
