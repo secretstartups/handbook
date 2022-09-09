@@ -168,6 +168,8 @@ In an all-remote, asynchronous organization, each team member should practice ha
 
 [Private Project](https://gitlab.com/gitlab-com-private/www-gitlab-com)
 
+__Note: If you don't have appropriate permission, you will get 404 error.__
+
 #### Why is there a staging handbook?
 
 For E-Group, information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
