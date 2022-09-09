@@ -17,7 +17,17 @@ description: >-
 ## Overview
 An A/B test is when we release two versions of a page and compare how well they perform (comparing version A to version B). When running an experiment, we are testing a hypothesis using a control variant and a test variant, similar to how one typically employs the scientific method.
 
-We currently use [LaunchDarkly](https://launchdarkly.com/) to control whether or not a test is showing, at what percentage, and gather metrics about a test's performance. Within LaunchDarkly, you can create events that fire when a user does something. For our case, our most common example would be a click. We also push the experiment ID into the GA dataLayer so we know what version of the page the user viewed.
+We currently use [LaunchDarkly](https://launchdarkly.com/) to control whether or not a test is showing, at what percentage, and gather metrics about a test's performance. Within LaunchDarkly, you can create events that fire when a user does something. For our case, our most common example would be a click. We also push the experiment ID into the Google Analytics dataLayer so we know what version of the page the user viewed.
+
+```
+window.dataLayer = window.dataLayer || [];
+
+dataLayer.push({
+ 'event': 'launchDarklyExperiment',
+ 'launchDarklyExperimentName': 'name of experiment',
+ 'launchDarklyExperimentId': '0 or 1' //0 = control, 1 = variant 
+});
+```
 
 [This project](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing) is for the ideation and refinement of AB Tests to be conducted on GitLab's Marketing site. Anyone can contribute an AB testing issue.
 
