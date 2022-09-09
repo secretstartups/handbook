@@ -106,10 +106,11 @@ The Managing Editor is a [grade 8](/handbook/total-rewards/compensation/compensa
 - Set the publishing strategy, directives, and goals.
 - Oversee all daily publishing operations.
 - Identify and facilitate high-potential posts.
-- Report on and use data to inform publishing strategy.
+_ Work with SEO team on optimization goals.
 - Improve and enforce GitLab's editorial style guide, including brand style, tone, and voice.
-- Drive improvements to user experience on the GitLab blog.
 - Work cross-functionally with social, PR, and other marketing groups to develop distribution and amplification strategies.
+- Collaborate with technical stakeholders across the organization to create relevant content to support messaging goals.
+- Create content as needed.
 
 #### Requirements
 
@@ -131,22 +132,22 @@ The Senior Managing Editor is a [grade 9](/handbook/total-rewards/compensation/c
 
 #### Responsibilities
 
-- Define strategy and drive execution of branded blog:
-  - Own the direction and identity of GitLab's digital magazine.
-  - Set the publishing strategy, directives, and goals.
-  - Drive improvements to user experience on the GitLab blog.
-- Effectively and efficiently partner with peer groups within marketing to ensure editorial strategy aligns with and supports broader marketing strategy
+- Define strategy and direction, and drive execution of GitLab's blog:
+  - Serve as GitLab's go-to source for all things editorial.
+  - Set the publishing strategy, directives, and goals, together with the managing editor.
+  - Drive improvements to user experience on the GitLab blog, working with Digital Experience, Design, SEO, and other involved teams.
+- Effectively and efficiently partner with peer groups within marketing to ensure editorial strategy aligns with and supports broader marketing strategy:
 - Take a data-driven approach to editorial strategy:
   - Report on and socialise results 
   - Make recommendations to teams/groups who contribute
   - Identify opportunities to consolidate, update, and rework successful content (do more with less) 
 - Manage the editorial team:
   - Coach and enable team to take ownership of OKRs and drive their own initiatives
-- Continually improve publishing operations:
-  - Implement systems and documentation to make team self sufficient
-  - Identify and advocate for more efficient processes
-- Improve and enforce GitLab's editorial style guide, including brand style, tone, and voice. 
-- Manage the editorial budget
+- Continually improve publishing operations.
+- Improve and enforce GitLab's editorial style guide, including brand style, tone, and voice alongside the managing editor. 
+- Manage the editorial budget.
+- Lead special editorial projects and initiatives including, but not limited to, our annual DevSecOps Survey.
+- Create content as needed.
 
 #### Requirements
 
