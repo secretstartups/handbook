@@ -34,7 +34,7 @@ Currently the local APJ CS team has Solutions Architects & Technical Account Man
 
 - [Manager, Solutions Architects](https://about.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
-- [Manager, Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam) responsibilities
+- [Manager, Technical Account Manager](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam) responsibilities
 - [Technical Account Manager](/handbook/customer-success/tam/) responsibilities
 
 Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto). The [Manager, Technical Account Manager](https://about.gitlab.com/company/team/#dthompson3) reports to the 

@@ -101,7 +101,7 @@ These are videos of actual 8-hour courses given live to customers by GitLab's Ed
 ## Career development
 
 ### Within the CSM job family
-- The [CSM Job Family page](https://about.gitlab.com/job-families/sales/technical-account-manager/) is kept updated with the roles and responsibilities of each level within the CSM job family
+- The [CSM Job Family page](https://about.gitlab.com/job-families/sales/customer-success-management/) is kept updated with the roles and responsibilities of each level within the CSM job family
 - The [CSM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit#gid=0) enables a CSM to determine areas of opportunity in working towards their next level of seniority
 
 

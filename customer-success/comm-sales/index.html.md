@@ -29,7 +29,7 @@ Solutions Architects are aligned to the Commercial Sales Account Executives by a
 
 Customer Success Managers that support Commercial Sales are aligned by region (Americas East, Americas West, EMEA, and APAC). Not all accounts will have a dedicated CSM. Account qualification is required.
 
-* [Customer Success Manager role description](/job-families/sales/technical-account-manager/)
+* [Customer Success Manager role description](/job-families/sales/customer-success-management/)
 * [Customer Success Manager overview](/handbook/customer-success/tam/)
 * [When and how a CSM is engaged](/handbook/customer-success/tam/engagement/)
 

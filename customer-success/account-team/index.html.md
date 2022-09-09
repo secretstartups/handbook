@@ -23,7 +23,7 @@ An Enterprise account team is comprised of the following people:
 
 - [Strategic Account Leader (SAL)](/job-families/sales/strategic-account-leader/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
-- [Customer Success Manager (CSM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
 
 
 ### Commercial/Mid-Market
@@ -31,7 +31,7 @@ An Enterprise account team is comprised of the following people:
 A Mid-Market account team is comprised of the following people:
 
 - [Account Executive (AE)](/job-families/sales/account-executive/)
-- [Customer Success Manager (CSM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
