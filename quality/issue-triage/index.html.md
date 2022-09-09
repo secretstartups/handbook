@@ -54,6 +54,7 @@ The priority label is used to indicate the importance and guide the scheduling o
 | `~priority::4` | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM, EM, or QEM of that product group, based on work type |
 
 ## Severity
+Note: Theses severity definitions apply to issues only. Please see [Severity Levels section](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#severities) of the [Incident Management page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) for details on incident severity.
 
 Severity labels help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`.
 
