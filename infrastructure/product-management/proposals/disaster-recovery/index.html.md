@@ -37,7 +37,7 @@ We identify the following failure scenarios based on portion of infrastructure a
 This document focuses on addressing scenario #1 since we don’t currently have any protection against a GCP regional outage, but have some durability against zonal failures. Recovery Time Objective (RTO) and Recovery Point Objective (RPO) targets proposed later in this document, however, should apply to all scenarios above. To better improve our durability against zonal outages, we are planning to roll out HA solutions like Gitaly Cluster and move critical frontend services to [zonal clusters](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1175). While some of the capabilities we build to address scenario #1 may be used in situations #2 and #3, those use cases are not the primary focus of this effort. Individual repo and project restores for specific customers are also out of scope for this document. 
 
 ## Target Customer
-We are primarily targeting GitLab.com customers in Silver+ with this initiative. However, we recognize that many small teams/hobbyist developers in the free tiers rely on GitLab.com to host important projects so we must have basic DR capabilities in place for them as well. Because we already provide a [great deal of value](https://about.gitlab.com/pricing/) in the free tier and are trying to [increase the number of customers in higher tiers](/direction/enablement/dotcom/#overview), as a business we can tolerate higher RTO/RPO times for free customers compared to premium customers.
+We are primarily targeting GitLab.com customers in Premium+ with this initiative. However, we recognize that many small teams/hobbyist developers in the free tiers rely on GitLab.com to host important projects so we must have basic DR capabilities in place for them as well. Because we already provide a [great deal of value](https://about.gitlab.com/pricing/) in the free tier and are trying to [increase the number of customers in higher tiers](/direction/enablement/dotcom/#overview), as a business we can tolerate higher RTO/RPO times for free customers compared to premium customers.
 
 ## Customer Feedback
 In general when buyers are considering GitLab.com, they want to be assured that we have the ability to restore service to GitLab.com in the case of a disaster. In-flight opportunities mentioning the need for Disaster Recovery add up to $5MM in ARR.
@@ -73,7 +73,7 @@ With this option, we spin up a copy of the environment in the secondary region f
 **Cons:** Longest RPO/RTO times of the three options since we have to build the env from scratch and restore data from backups
 
 ## Proposal
-### Silver and Gold customers
+### Premium and Ultimate customers
 RTO: Based on an SLA goal of 99.95% we can afford to be down for [22 minutes per month](https://uptime.is/99.95), or ~66 min per quarter at which point we breach SLA. Therefore we set our RTO target for premium customers at **1 hour**. 
 
 RPO: Looking at the [Analytics tab for the GitLab project](https://gitlab.com/gitlab-org/gitlab/-/value_stream_analytics), over past 30 days there were 5482 commits, which equates to ~7.5 commits per hour or 1 commit every 8 minutes. Assuming the GitLab project is representative of the size/activity of what enterprises might store on gitlab.com, we therefore set the RPO target to **10 minutes**.  Note, for commits that were not picked up by the replication process within the 10 minute timeframe, we recommend that customers rely on their local git history to restore them. 
