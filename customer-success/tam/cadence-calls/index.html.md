@@ -191,7 +191,7 @@ These are suggestions that can be used at any time on customer calls.
 - Ask about any gaps in or outdated information in Gainsight (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
 - If self-managed, review their current version, planned upgrades, and if they need [Upgrade Assistance](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance)
 - If self-managed, review if there are any planned, upcoming, or ongoing deployment changes (e.g. Geo, HA, etc.) and ensure they are familiar with support
-- If self-managed, iscuss their backup/recovery plans and if they have recently tested restoring from a backup
+- If self-managed, discuss their backup/recovery plans and if they have recently tested restoring from a backup
 - If self-managed, discuss if they have [signups enabled](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html)
 - If self-managed, raise the importance of GitLab Security patches and use it as an additional argument to enable usage/service ping reports of GitLab
 - If using a collaboration project, the CSM can configure a scheduled job to create agenda issues on a monthly frequency. Instructions for that are in each collaboration project's [instructions file](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/PLEASE-READ-THESE-INSTRUCTIONS.md).
