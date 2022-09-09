@@ -143,6 +143,19 @@ Our GKE nodes are configured from the start with this mirror already in place pr
 
 [Source](https://docs.google.com/drawings/d/1BWb1Q-hJzCZs8krvYwi5V9F_hJe-4CJdtIORfVGWJLo/edit), GitLab internal use only
 
+#### Redis Architecture
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRlVEM91d_D4YzzQCzb7kaclbw-F4QvYg7Ml7Xz9S9aAcNCEUM6RGMF3Uadx8jYaniE1NCOmLP754xz/pub?w=960&h=720">
+
+[Source](https://docs.google.com/drawings/d/1-j_nFW7EJ01Te26f6zZzFNaPboVzVUtAmuFBbqzztVQ/edit), GitLab internal use only
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRbtcZrFV_XALpBm-kKaWGPR1Si0hKIc4QWh0PiAs00NftY4ZqVke_3e5fDc3yPzj7ENPBNivMFRtpJ/pub?w=960&h=720">
+
+[Source](https://docs.google.com/drawings/d/1uXr2NVEdpWgmIrrveJBapYdTwZcm8NdQGbQCVsGut-Y/edit), GitLab internal use only
+
+GitLab.com uses several redis shards for various use cases such as caching, rate-limiting, sidekiq queueing. More info on various redis shards, their
+configuration, and usage can be found in the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/tree/master/roles) and [GitLab](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/redis).
+
 #### Network Architecture
 
 <img src="/images/handbook/engineering/infrastructure/production-architecture/network-arch.png">
