@@ -4,13 +4,13 @@ title: "Program Manager, Customer Programs"
 description: "The Program Manager, Customer Programs is a part of the Technical Account Manager team, and focuses on  enabling the onboarding-only and digital customer segments."
 ---
 
-The Program Manager, Customer Programs is a part of the [Technical Account Manager](/job-families/sales/technical-account-manager/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
+The Program Manager, Customer Programs is a part of the [Technical Account Manager](/job-families/sales/customer-success-management/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
 
 ## Levels
 
 ### Program Manager, Customer Programs (Intermediate)
  
-The Program Manager, Customer Programs (Intermediate) reports to the [Director of Technical Account Managers](/job-families/sales/technical-account-manager/#director-of-tams).
+The Program Manager, Customer Programs (Intermediate) reports to the [Director of Technical Account Managers](/job-families/sales/customer-success-management/#director-of-tams).
  
 #### Program Manager, Customer Programs (Intermediate) Job Grade
  
@@ -42,7 +42,7 @@ The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/co
 
 ### Senior Program Manager, Customer Programs
  
-The Program Manager, Customer Programs reports to the [Director of Technical Account Managers](/job-families/sales/technical-account-manager/#director-of-tams).
+The Program Manager, Customer Programs reports to the [Director of Technical Account Managers](/job-families/sales/customer-success-management/#director-of-tams).
  
 #### Senior Program Manager, Customer Programs Job Grade
  
@@ -67,7 +67,7 @@ The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rew
  
 ## Career Ladder
  
-The Customer Programs Job Family would flow into the [Technical Account Managers](/job-families/sales/technical-account-manager/) Job Family.
+The Customer Programs Job Family would flow into the [Technical Account Managers](/job-families/sales/customer-success-management/) Job Family.
  
 ## Hiring Process
  

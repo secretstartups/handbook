@@ -3,13 +3,13 @@ layout: job_family_page
 title: "Technical Writer, Customer Programs"
 ---
 
-The Technical Writer, Customer Programs is a part of the [Technical Account Manager](/job-families/sales/technical-account-manager/) team, and focuses on creating the content to enable our customer digital journey, while also contributing to Gitlab docs and blog posts to ensure the ‘how-to’ learnings shared across our team are memorialized for our customer to benefit.
+The Technical Writer, Customer Programs is a part of the [Technical Account Manager](/job-families/sales/customer-success-management/) team, and focuses on creating the content to enable our customer digital journey, while also contributing to Gitlab docs and blog posts to ensure the ‘how-to’ learnings shared across our team are memorialized for our customer to benefit.
 
 ## Levels
 
 ## Senior Technical Writer, Customer Programs
 
-The Senior Technical Writer, Customer Programs reports to the [Director of Technical Account Managers](/job-families/sales/technical-account-manager/#director-of-tams).
+The Senior Technical Writer, Customer Programs reports to the [Director of Technical Account Managers](/job-families/sales/customer-success-management/#director-of-tams).
 
 #### Senior Technical Writer, Customer Programs Job Grade
 
@@ -57,7 +57,7 @@ The Senior Technical Writer, Customer Programs is a [grade 7](/handbook/total-re
 
 ## Career Ladder
 
-The Customer Programs Job Family would flow into the [Technical Account Managers](/job-families/sales/technical-account-manager/) job family.
+The Customer Programs Job Family would flow into the [Technical Account Managers](/job-families/sales/customer-success-management/) job family.
 
 ## Hiring Process 
 

@@ -35,7 +35,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ## Associate Customer Success Manager (CSM)
 
-The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers)
 
 ### Associate CSM Job Grade
 
@@ -56,7 +56,7 @@ The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/
 
 ## Customer Success Manager (CSM) (Intermediate)
 
-The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers).
 
 ### CSM (Intermediate) Job Grade
 
@@ -82,7 +82,7 @@ The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ## Senior CSM
 
-The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers).
 
 ### Senior CSM Job Grade
 
@@ -114,7 +114,7 @@ The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 The Staff CSM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model.
 
-The Staff CSM (Account) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff CSM (Account) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
 
 ### Staff CSM Job Grade
 
@@ -155,7 +155,7 @@ The Staff, CSM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 
 ## Staff CSM (Product)
 
-The Staff CSM (Product) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff CSM (Product) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
 
 ### Staff CSM Job Grade
 
@@ -191,7 +191,7 @@ The Staff CSM (Product) is a [grade 9](/handbook/total-rewards/compensation/comp
 
 ## Manager, CSM
 
-The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-technical-account-managers).
 
 ### Manager, CSM Job Grade
 
@@ -233,7 +233,7 @@ The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 
 ## Senior Manager, CSM
 
-The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-technical-account-managers).
 
 ### Senior Manager, CSM Job Grade
 
@@ -469,7 +469,7 @@ The panel interview consists of several members of the Customer Success Manager 
 
 ### Executive Interview
 
-Conducted by the [Senior Director of CSMs](/job-families/sales/technical-account-manager/#senior-director-of-CSMs), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
+Conducted by the [Senior Director of CSMs](/job-families/sales/customer-success-management/#senior-director-of-CSMs), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
 
 ### Reference and Background Check
 
