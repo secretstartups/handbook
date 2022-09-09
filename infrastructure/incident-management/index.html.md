@@ -444,7 +444,16 @@ Status can be set independent of state. The only time these must align is when a
 
 ### Incident Severity
 
-**Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it**. Detailed definitions are provided for each severity, and these definitions are reevaluated as new circumstances become known. Incident management uses our standardized severity definitions, which can be found under [availability severities](/handbook/engineering/quality/issue-triage/#availability).
+Incident severity should be assigned at the beginning of an incident to ensure proper response across the organization.  Incident severity should be determined based on the information that is available **at the time**.  Severities can and should be adjusted as more information becomes available.
+
+Incident Managers and Engineers On-Call can use the following table as a guide for assigning incident severity.
+
+| Severity | Description     | Example Incidents     |
+| ------------- | ------------- | -------------|
+| `~severity::1` |  &emsp;  - GitLab.com is unavailable or severely degraded for the typical GitLab user<br>&emsp;  - Any data loss directly impacting customers<br>&emsp;  - The [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) is put in jeopardy<br>&emsp;  - It is a [high impact security incident](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br><br>[Incident Managers](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::1` incidents| Past `severity::1` [Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A1&first_page_size=100)|
+| `~severity::2` |   &emsp;  - GitLab.com is unavailable or degraded for a small subset of users <br>&emsp;- Gitlab.com is degraded but a reasonable workaround is available<br>&emsp;- Any [moderate impact security incident](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br><br>[Incident Managers](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::2` incidents| Past `severity::2` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A2&first_page_size=100)|
+| `~severity::3` |   &emsp;  - Broad impact on GitLab.com and minor inconvenience to typical user's workflow <br>&emsp;- A workaround is not needed<br>&emsp;- Any [low impact security incident](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br><br>Incident Managers should **NOT** be paged for `~severity::3` incidents| Past `severity::3` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A3&first_page_size=100)|
+| `~severity::4` |   &emsp;  - Minimal impact on GitLab.com typical user's workflow<br><br>Incident Managers should **NOT** be paged for `~severity::4` incidents| Past `severity::4` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A4&first_page_size=100)|
 
 ### Alert Severities
 
@@ -633,3 +642,4 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
 
 [related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
+
