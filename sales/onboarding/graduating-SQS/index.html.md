@@ -30,7 +30,7 @@ In order to officially “graduate” from Sales Onboarding at GitLab and be awa
    * Professional Services - (50 minutes)
    * Field Security - (30 minutes)
    * Mock Calls - (4 hours) 
-*  Complete 1 mock discovery call at the SQS Workshop with a PMM, Manager, or a more experienced SA or TAM
+*  Complete 1 mock discovery call at the SQS Workshop with a PMM, Manager, or a more experienced SA or CSM
    *  Articulate the Command of the Message Mantra
    *  Articulate the 30 second GitLab elevator pitch (memorized)
 
