@@ -12,11 +12,7 @@ description: "Resources and direction for career development and mobility for al
 
 ## What is Career Development
 
-Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future. Watch and listen below to this 18 minute career development discussion with Eric Johnson, CTO at GitLab
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future. Utilize the recources on this page to help you navigate your career development journey.
 
 ## Resources for Team Members
 
