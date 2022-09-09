@@ -106,9 +106,9 @@ Once the entity of the chosen candidate has been determined and the CES team has
     1. Check all of the token/fields to ensure they are formatted correctly (`{{ }}`). For each of the fields with curly brackets (`{ }`) in the template on Google Drive, find and replace that field (including the curly brackets) with the corresponding Greenhouse tokens (including the curly bracket). For example, `{Contributor Name}` in the Drive template will be replaced with `{{CANDIDATE_NAME}}`.
 1. To delete a contract template from Greenhouse, click the three dots `...` to the right of the template name, then click delete and confirm.
 
-The SSOT for the contract templates are on [this handbook page updated by Legal and People Operations](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/). Any updates to contracts will be done there first, and then the talent acquisition team needs to be pinged to be made aware of the changes so they can update the corresponding Greenhouse template.
+The SSOT for the contract templates are on [this handbook page updated by Legal and People Connect](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/). Any updates to contracts will be done there first, and then the talent acquisition team needs to be pinged to be made aware of the changes so they can update the corresponding Greenhouse template.
 
-These steps are executed by the **People Operations and Legal teams** when contracts are being updated, but for reference, if any changes need to be made to the templates, these tasks can be referenced below:
+These steps are executed by the **People Connect and Legal teams** when contracts are being updated, but for reference, if any changes need to be made to the templates, these tasks can be referenced below:
    1. Some fields that are not necessarily clear are the compensation fields as there are separate fields for the _vacancy_ and for the _candidate_; we want the candidate fields for the contract, so in Greenhouse, the appropriate token for salary is `{{CURRENCY}}`, bonus is `{{BONUS_AMOUNT}}`, and stock options is `{{STOCK_OPTIONS}}`. Another field that is easily confused is the title; the `{{JOB_NAME}}` is the name of the vacancy, which is not always necessarily the same as the title the candidate will have; to make sure it is always correct and includes the appropriate level and specialty for the candidate, use the token `{{FULL_TITLE__INCLUDING_LEVEL_AND_SPECIALTY_}}`.
    1. The one exception to the curly bracket find and replace process is the Belgian contract. The fields that need to be edited are highlighted.
    1. When removing optional clauses, take care that the paragraph / section numbering still makes sense.
@@ -125,7 +125,7 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
 1. If you have not been notified by the recruiter that there is a family relationship in play, there is now a field in the 'Offer Details' that will show whether a relationship exists. There should also be a *Family Member* tag on their profile. It, however, will not show who that family member is.
 1. The Recruiter will post the name of the family member in the Private Notes within the Greenhouse profile. If not there, the CES will reach out to the recruiter to find out who the current GitLab team member is.
 1. Once the family member is identified, you will send the [Family Member Relationship Acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) via DocuSign to the new hire as well as the GitLab team member for signing.
-1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members BambooHR profile.
+1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members Workday profile.
 
 ### How to Update a Start Date After the Contract is Signed
 
@@ -230,17 +230,16 @@ The Candidate Experience Specialist who initiated the contract process is expect
 
 ## Amended Contracts
 
-Contract amendments or modifications are processed by the Candidate Experience Specialist if the team member has not started or by the People Operations Specialist if they have.
+Contract amendments or modifications are processed by the Candidate Experience Specialist if the team member has not started or by the People Connect Team member if they have.
 
 ### Amendments prior to starting with GitLab:
 
 If an amendment needs to be made and the previous contract was never active, the Candidate Experience Specialist should:
 
-* Delete the previous contract from BambooHR
-* Upload the updated contract in the BambooHR file 'Contracts and Changes'
-* Notify the People Operations Specialist of the change in the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit#gid=1721125348)
+* Ask People Connect in the `people-exp_ces` Slack channel to delete the previous contract from Workday.
+* Upload the updated contract in the Documents section of the team member Workday profile, using the 'Contracts and Changes' document category. 
 
-_Note: It is essential that People Operations Specialists are informed of all changes, as various fields must be updated in BambooHR._
+_Note: It is essential that People Connect Team members are informed of all changes, as various fields must be updated in BambooHR._
 
 ### Amendments to contracts for new hires with planned relocations
 
@@ -277,14 +276,13 @@ _Note: It is essential that People Operations Specialists are informed of all ch
 
 A contractor requests a modification to their contract due to a name change/company incorporation (Example: The individual recently incorporated a company, and would like to invoice GitLab through their company versus individually)
 
-* The People Operations Specialist should log the requested change in BambooHR in the `Contracts & Changes`
-section of the employee's profile
-* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-probation-periods/#employment-agreements) section. ***Please remember to always make a copy of the template before editing.***
+* The People Connect Team member should log the requested change in the Documents section of the team member Workday profile, using the 'Contracts and Changes' document category.
+* The People Connect Team member should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-probation-periods/#employment-agreements) section. ***Please remember to always make a copy of the template before editing.***
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
-* The People Operations Specialist should stage the contract in DocuSign to be signed by both the team member and the Director of People Operations.
-* Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
+* The People Connect Team member should stage the contract in DocuSign to be signed by both the team member and the Director of People Operations.
+* Once siged by both parties, the contract should be uploaded to the Documents section of the team member Workday profile, using the 'Contracts and Changes' document category.
 
 ### How to Unhire a Candidate After Contract is Signed
 If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. Please note that the steps below are assuming that the person will not be working for GitLab; if you are hoping to just amend their offer after they've been marked as hried, please view the Resend process above. 
