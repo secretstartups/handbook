@@ -503,7 +503,7 @@ the correct vault:
 
 
 ### Saving Logins
-
+ 
 When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
 
@@ -513,6 +513,44 @@ the login with a dialog like this:
 
 If you do want to save it, make sure the appropriate **Vault** is selected
 first.
+
+### CLI integration
+
+[1Password CLI integration](https://developer.1password.com/docs/cli) supports secure 
+handling of secrets used in command line tools, config files, and scripts executed on your laptop.
+To setup the CLI integration, follow the [getting started guide](https://developer.1password.com/docs/cli/get-started/).
+
+It is recommended to store secrets such as [personal access tokens](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+in 1Password. Avoid storing secrets in unencrypted files.
+
+Example for configuring [glab](https://gitlab.com/gitlab-org/cli) with 1Password CLI:
+
+- Store your access token in 1Password. In the entry for your GitLab account, create a new section `pat`
+ and add a field `api`. Insert the value of your PAT into the newly created field `api`.
+<div style="text-align:center;">
+  <img src="/handbook/security/1pass-pat-setup.png" alt="Save login" width="600"/>
+</div>
+
+- Store a secret reference to the access token in an `.env` file:
+
+```sh
+# format is op://vault-name/item-name/[section-name/]field-name
+echo "GITLAB_TOKEN=op://Private/GitLab/pat/api" > $HOME/.gitlab-pat.env
+```
+
+- Define an alias in your shell profile to invoke `glab` with the PAT
+
+```sh
+alias glab="op run --env-file=$HOME/.gitlab-pat.env -- glab"
+```
+
+- To verify the configuration, run `glab api version`. This should print 
+the version of gitlab.com if the configuration succeeded.
+
+```sh
+glab api version
+{"version":"15.4.0-pre","revision":"3e84f577d51"}
+```
 
 ### Several accounts and unlocking the app
 
