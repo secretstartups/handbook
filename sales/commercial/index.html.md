@@ -266,17 +266,27 @@ Follow instructions for using [Chorus Scheduler](https://about.gitlab.com/handbo
 
 ## Deal Reviews
 
-### Top 3 
+### Project 35
 
-Every account owner needs to know their top three deals open.  Area Sales Managers are iterating on steps to review these on an ongoing basis and to collaborate across teams. 
+As we continue to grow as an organization, developing our sales skills to deliver an impeccable sales experience is a critical component of the customer experience, either leading them to enjoy working with GitLab or not, depending on the quality of that experience. We’ve created a program called “Project 35” to help you improve your selling skills. We are utilizing our largest opportunities for the quarter to hone in our selling skills with the goal of these skills being valuable on all other sales opportunities. 
 
-Currently, **Top 3** is a weekly session where all owners have a list of their top deals where up to two opportunities overall are actively reviewed in a group setting.  Following the format listed below, these deal reviews have a similar focus to opportunity consults and lighweight deal reviews in order to grow sales skills.
+As part of Project 35 we will be focusing on the following core selling skills:
+1. Running excellent sales calls & importance of pre-call prep 
+1. Stronger discovery to uncover Command Plan (why now, why GitLab, why do anything at all)
+1. Building ROI
+1. Finding & cultivating champions 
+1. Negotiation
+1. Complex Deal Management
+1. Collaboration - amongst peers and leadership
+1. Preparation for your next role & large deal management 
 
-1. Prep for a _no_. What are all the questions or reasons they will say no? 
+During a Project 35 call, The AE who is discussing their opportunity will answer the following questions: 
+1. Prep for a no. What are all the questions or reasons they will say no?
 1. Are we building a relationship (onsite, something else?)
 1. Nail the project name and the timing of the project (sell services)
 1. Selling against a ROI slide
 1. Based on the information uncovered in the prior questions, use supporting reasons for AEs to update their next steps live. Managers should enter their comments in the Manager Notes section for any deals they review live or asynchronously.
+
 
 ### Opportunity Consults and Lightweight Deal Reviews
 
@@ -285,16 +295,6 @@ An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-
 
 A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.
 
-
-#### SMB
-
-- An Opportunity Consult happens when the opportunity Net ARR threshold is $10K +
-- A Light Weight Deal Review happens when the opportunity Net ARR threshold is $5K and is forecasted to close this month or next month.
-
-#### Mid-Market
-
-- An Opportunity Consult happens when the opportunity Net ARR threshold is $20K +
-- A Light Weight Deal Review happens when the opportunity Net ARR threshold is $10K and is forecasted to close this month or next month.
 
 ### Opportunity Next Steps Best Practices
 
