@@ -16,10 +16,15 @@ The Senior Treasury Analyst is a [grade #7](https://about.gitlab.com/handbook/to
 #### Senior Treasury Analyst Responsibilities
 
 - Partner effectively across functional teams (AP, Payroll, Accounting, Legal, and Tax) to drive key Treasury initiatives and cross-functional projects involving Treasury
-- Assist in day-to-day global cash and liquidity operations including cash positioning for global entities, FX settlements, settlement of intercompany balances and intercompany funding
-- Assist with ongoing bank account administration including opening and closing of accounts, updating account documentation and maintain authorized signatories
-- Ensure SOX and policy compliance while demonstrating a strong understanding of treasury controls and policies
+- Responsible for maintaining worldwide banking relationships
+- Drive the 13-week Cash Forecasting Process and recommend/implement ways to improve accuracy
+- Execute and continuously improve daily treasury operations not limited to cash management, Treasury systems, processes and controls, foreign exchange, domestic and international intercompany settlement/funding and short-term investments
+- Assist with ongoing bank account administration including opening and closing of accounts, updating account documentation, maintain authorized signatories, and KYC (Know Your Customer) requirements
+- Ensures compliance with SOX controls, FBAR, anti-money laundering regulations, and other rules governing cash transactions and banking
+- Actively monitor and analyze bank fees, FX pricing and other treasury-specific budgets
+- Prepare monthly, quarterly and ad-hoc management reporting
 - Support internal /external audit requirements and reporting
+- Ad-hoc Treasury projects as needed
 
 #### Senior Treasury Analyst Requirements
 
@@ -89,8 +94,6 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Meet with Director Treasury for 50 minutes
-- Meet with VP Controller - for 30 minutes each
 - Meet with VP Cash Management for 30 minutes
-- Meet with PAO for 30 minutes
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
