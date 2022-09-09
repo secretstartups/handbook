@@ -97,7 +97,7 @@ Examples:
 
 ### Will Churn (Grey)
 
-Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the 'will churn' stage can be applied.  Applying this stage will remove the customer from health scoring reporting, so that at-risk reviews are spent productively.
+Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the 'will churn' lifecycle stage can be applied in 360º Attributes.  Applying this stage will remove the customer from health scoring reporting, so that at-risk reviews are spent productively.
 
 In order for a customer to move to the 'will churn' stage, the following must be completed:
 
@@ -107,7 +107,7 @@ In order for a customer to move to the 'will churn' stage, the following must be
 - [ ] Customer Success Manager links from the triage issue to the newly created "Will Churn" issue, and closes the triage issue
 - [ ] Listed personas in the "Will Churn" issue provide feedback and approval
 - [ ] SAL/AE has marked the opportunity as 'Will Churn'
-
+- [ ] CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to "Will Churn"
 
 ## Communication Guidelines
 
