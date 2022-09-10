@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 8 | Legal Subscription Agreement Update  | Matthew T.  |
 | Sep 15 | Storage & Transfer Limits  | Josh L.  |
 | Sep 22 | FY23 - Q3 Sales Ops Update - Clari Refresher  | Amber S. & Kathleen R.  |
 | Sep 29 | Collaborating with Community Programs  | Christina H. & Bryan B.  |
@@ -39,6 +38,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-09-08 | **[Basics of Legal Subscription Agreements](https://youtu.be/8cmfmqc6iag)**  | Private  |
 | 2022-09-01 | **[VMware Partnership and Go-to-Market Approaches.](https://youtu.be/Hx_QE65GDKA)**  | Private  |
 | 2022-08-25 | **[Q3 Rev Program Update](https://youtu.be/nBV-_LrTqKQ)**  | Private  |
 | 2022-08-18  | **[Automated Software Delivery (AutoSD) Integrated Campaign](https://youtu.be/Eq-DdOGkAlk)**  | Private  |
