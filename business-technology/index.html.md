@@ -81,7 +81,15 @@ Our department focuses on managing the framework of how GitLab procures, impleme
 
 As we move from Foundation to Scale as a Business Technology organization, we will continue to take a fresh look at how we assess our application landscape and apply our heat map methodology.
 
-In the past, it was a very simplistic view of capabilities and just looking at foundational platform implementations. As we enter the scaling era, we will need to look deeper into the foundational applications that have been deployed and prioritize ways to get more value. This needs to include enabling specific features, seamless integrations between systems, building more automation and enabling more mature business processes.
+The broader Finance and Business Technology team is focused on the priciples of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The Business Technology team also lives by the following philosophy. 
+
+1. Build for scale with Enterprise grade systems.
+1. Focus on end customer and team member experience.
+1. Buy SaaS solutions wherever possible to increase time to value.  
+1. Be customer 0 for GitLab. 
+1. Contribute to the GitLab Product.
+1. Lead with data: measure impact and metrics in all we do
+
 
 - [FY23 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
 - FY23 Planning - Information available to internal GitLab team members only
@@ -92,7 +100,7 @@ In the past, it was a very simplistic view of capabilities and just looking at f
 
 As GitLab has grown organically, several departments and functional groups have their own System Administrators ("System Owners") to handle day-to-day management of the tech stack applications that are specific to that department or functional group, within the framework of organization-wide compliance, infrastructure, and security best practices.
 
-To support this "shadow IT" model, each tech stack application has a System Owner that is the DRI for handling the implementation and day-to-day operational support for the team members that utilize that application (in their department or functional group). This has an added benefit of preventing the traditional IT department from being a bottleneck and allows each department to self-service as part of GitLab's [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group) subvalue.
+To support this "shadow IT" model, [each tech stack application](/handbook/business-technology/tech-stack-applications/) has a System Owner that is the DRI for handling the implementation and day-to-day operational support for the team members that utilize that application (in their department or functional group). This has an added benefit of preventing the traditional IT department from being a bottleneck and allows each department to self-service as part of GitLab's [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group) subvalue.
 
 As a SaaS company, our Engineering division also has an [infrastructure SRE team](/handbook/engineering/infrastructure/) and [security team](/handbook/engineering/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
 
