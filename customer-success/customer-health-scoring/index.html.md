@@ -24,28 +24,15 @@ The Customer Health Score assists GitLab Account Teams in understanding the rela
 
 Product usage data informs three different scores. They each have a distinct and separate purpose, are meant for different audiences, and use different metrics.
 
-### Customer Health Score
-- **Audience**: Internal GitLab Teams
-- **Purpose**: To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why. 
-- **Metrics**: Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](/handbook/customer-success/customer-health-scoring/#account-health-predictor) above.
+| Name | Purpose | Audience | Metrics | Notes |
+| ----- | ----- | ----- | ----- | ----- |
+| **Customer Health Score**        | To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why | Internal GitLab Teams                   | Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](/handbook/customer-success/customer-health-scoring/#account-health-predictor) above |                                                              |
+| **Platform Value Score**         | Each customer will have a single Platform Value Score used to understand how much value the customer is currently receiving from Gitlab as a Platform | Internal GitLab Teams                   | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score | No handbook page available yet as this is a work in progress in FY23-Q3. |
+| **Use Case Adoption Scorecards** | Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement | Internal GitLab Teams **and** customers | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption | [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/) |
+| **DevOps Score**                 | For the customer to understand their DevOps status compared to top-performing instances (self-managed only) | GitLab customers                        | 10 metrics across Use Cases, displayed as a % of users who have utilized a feature in the past month, compared to how top-performing instances utilized that feature (self managed only - [https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed](https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed)) | [Handbook Link](https://about.gitlab.com/blog/2021/12/15/devops-adoption/#devops-score) |
+| **DevOps Adoption**              | DevOps Adoption shows you how groups in your organization adopt and use the most essential features of GitLab. | GitLab customers                        | Specific metrics across Dev, Sec, and Ops to show a customer's overall adoption. requires configuration (group and project level for SaaS, whereas instance for self-managed - [https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#key-differences-between-gitlab-saas--self-managed](https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#key-differences-between-gitlab-saas--self-managed)) | [Docs Link](https://docs.gitlab.com/ee/user/group/devops_adoption/) |
 
-### Platform Value Score
-- **Audience**: Internal GitLab Teams
-- **Purpose**: Each customer will have a single Platform Value Score used to understand how much value the customer is currently receiving from Gitlab as a Platform.
-- **Metrics**: 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score. 
-- NOTE: No handbook page available yet as this is a work in progress in FY23-Q3.
 
-### Use Case Adoption Scorecards
-- **Audience**: Internal GitLab Teams **and** customers
-- **Purpose**: Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement.
-- **Metrics**: 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption.
-- [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/)
-
-### DevOps Score 
-- **Audience**: GitLab customers
-- **Purpose**: For the customer to understand their DevOps status compared to top-performing instances.
-- **Metrics**: 10 metrics across Use Cases, displayed as a % of users who have utilized a feature in the past month, compared to how top-performing instances utilized that feature. 
-[Handbook Link](https://about.gitlab.com/blog/2021/12/15/devops-adoption/#devops-score)
 
 ## Account Health
 
