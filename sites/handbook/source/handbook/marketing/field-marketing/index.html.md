@@ -808,8 +808,8 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Juliette Francon | Tristan Ouin |
 | EMEA MEA | Juliette Francon | Matthew Coughlan |
-| EMEA Northern Europe | Elena Sheveleva | Kevin Franklin |
-| EMEA UK/I | Elena Sheveleva | Kevin Franklin |
+| EMEA Northern Europe | Elena Sheveleva | Michal Kulakowski |
+| EMEA UK/I | Neha Pujari | Matthew Coughlan |
 | EMEA Central Europe | Sarina Kraft | Ilaria Pazienza |
 | EMEA CEE | Sarina Kraft | Ilaria Pazienza |
 | EMEA Russia | Elena Sheveleva | Matthew Coughlan |
