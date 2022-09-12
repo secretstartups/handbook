@@ -35,6 +35,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
 * [Definitive Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/)
 * [Definitive Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+* [Definitive Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
 
 ## [GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
 
