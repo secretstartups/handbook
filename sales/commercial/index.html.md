@@ -47,6 +47,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. Make sure your calendar is always up to date so that you can get meetings from SDRs without having to moving them around.
 1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard.
 1. Add your own tips to this page as you onboard to pay it forward for the next new rep!
+1. Get familiar with GitLab and seaching for Issues, MR's and handbook pages. This will significantly speed things up as you progress through onboarding.
 
 ### Continuous Learning
 
