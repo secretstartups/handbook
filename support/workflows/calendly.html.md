@@ -44,7 +44,7 @@ The above video shows how to set this up, but the general gist is:
 
 ### GitLab Support group account
 
-You'll need to be added to the GitLab Support group account to enable the
+You need to be added to the GitLab Support group account to enable the
 Calendly Pro account features, including the ability to add multiple
 ["event types"](https://help.calendly.com/hc/en-us/categories/203257248-Customize-Event-Types)
 for scheduling calls with customers and colleagues as recommended in the
@@ -56,7 +56,7 @@ To get added to the group account:
 1. Assign to your manager, and they'll approve and assign it over to a team
 member who provisions Calendly.
 
-This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
+This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Support Engineers that will be handling tickets for self-managed customers.
 
 ### Availability increment
 
@@ -71,6 +71,14 @@ or a (say) a 14:30-15:30 window available, then reducing the increment to 30 min
 
 If you have any other meeting lengths available, consider whether it makes sense to offer different start times.
 You can view your calendly availability using a private/incognito browser session.
+
+### Temporarily changing your timezone
+
+If you are temporarily working hours different to your usual schedule, you can update Calendly so that customer calls will be booked during your updated timezone.
+
+1. Log in to Calendly. Click the `Availability` tab (or use [this URL](https://calendly.com/app/availability/schedules)).
+1. In the `Schedule` > `Default Hours` area, use the `TIME ZONE` dropdown to select your updated timezone. Changes are automatically saved.
+1. Set a calendar reminder for yourself, to reset your timezone when your working hours have reverted to usual. 
 
 ## Support calls in the team calendar
 
