@@ -352,7 +352,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday October 18 | Product | Product Leadership | October 13 |
 | Wednesday October 19  | UX | Christie Lenneville | N/A |
 | Thursday Oct 20 | People | People Leadership | Oct 12 |
-| Tuesday October 25 | Revenue Marketing | JB Larramendy | N/A |
+| Tuesday October 25 | **Available** | **Available** | Key Review Date? |
 | Wednesday October 26  | Alliances | Nima Badiey | N/A |
 | Thursday October 27 | Marketing | Marketing Leadership | October 13 |
 | Tuesday November 1 | **Available** | | Key Review Date? |
