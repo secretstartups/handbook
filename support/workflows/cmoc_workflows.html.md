@@ -18,6 +18,12 @@ To disambiguate this term on other pages, you may see the acronym ICMOC or see t
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
+### How to be added to the CMOC PagerDuty rotation
+
+To be added to the CMOC Rotation:
+  1. First, complete the [GitLab-com CMOC training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new).
+  2. After discussion and agreement with your manager, create a new [PagerDuty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) requesting that you are added to the appropriate regional CMOC rotation. 
+
 ## Things to Know
 
 Before getting started, take note of the following sections or to get straight into the workflow start at [Incident Management](#incident-management).
