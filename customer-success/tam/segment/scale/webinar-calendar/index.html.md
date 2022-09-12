@@ -22,21 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### September 2022
 
-### Intro to GitLab
-#### September 7th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yDIlG884SISbzaTyolRWSA)
-
-### Intro to GitLab Office Hours
-#### September 7th, 2022 at 12:00PM-1:00PM Eastern Time/4:00-5:00 PM UTC
-
-In our office hours following our Intro to GitLab webinar, we will focus on questions that are commonly asked by new users of GitLab.
-To help us prepare, please submit your questions as comments to [this issue](https://gitlab.com/gitlab-com/customer-success/scale-office-hours/-/issues/1). 
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Wf0_IvT1RMKdMsaOe0nYLQ)
-
 ### Intro to CI/CD 
 #### September 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
