@@ -30,8 +30,13 @@ title: Individual Use Software
 
 | Application | Data Classification | Pre-Approval Expiration | Notes and Restrictions |
 | ------ | ------ | ------ | ------ |
+| Adobe Acrobat Pro | Orange | 06/28/2023 | N/A |
 |Alfred Powerpack|Green|N/A| Base application only, does not apply to Alfred Workflows or Alfred Remote |
 |Brain.fm|Green|N/A| Base application only |
+| Calendly | Orange | 11/24/2022 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
+| Gitpod | Orange | 07/14/2023 | N/A |
+| Grammarly | Green | N/A | N/A |
+| Krisp.ai | Green | N/A | N/A |
 |Microsoft Office- Home & Student|Green|N/A| Approval applies to the offline version only. Microsoft Office 365 is not approved.|
 
