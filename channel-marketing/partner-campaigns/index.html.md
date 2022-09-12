@@ -33,7 +33,7 @@ Leads that are actively being worked by the partner will be excluded from scorin
 The account in SFDC must be set to `Vartopia Partner Account: Vartopia Access = Yes` in order to be passed leads. If that field is marked false, a SFDC error will occur when `Partner Account ID` tries to be set. If this error occurs, the lead will not sync from marketo to sfdc, or if they are already existing in SFDC, that field will not be populated.
 ## Passing to Vartopia and Partner Visibility
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
-1. `Partner Account ID` not equal to `NULL` (set by Marketo)
+1. `Vartopia Partner Account` not equal to `NULL` (set by Marketo)
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
@@ -138,7 +138,7 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 
 1. Form is hosted on a GitLab or Partner landing page. Partners should always use the `FORM 2983: Partner Self-Hosted Enterprise Trial Form` Form. 
    - This form has a hidden field that captured `utm_partnerid`
-1. Once submitted, Marketo then appends that value `Vartopia Partner Account ID` fields
+1. Once submitted, Marketo then appends that value `Vartopia Partner Account` fields
 1. Marketo processes the lead and sends the trial activation key via email to the prospect
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC
@@ -148,7 +148,11 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 1. Vartopia picks up lead and assigns to partner in Vartopia based on ID
 1. Lead/Contact fields for Partner information are automatically populated
 
+### Returning Trial Requesters
 
+GitLab allows only one self-managed trial license key per user. In the case, when a lead returns and attempts to fill out the self-managed trial form from Partners, they will be prompt with a rejection email. 
+
+As partner leads are [suspended](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) from receiving marketing communciations, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient. 
 
 # Setup in Marketo
 
@@ -179,9 +183,9 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
  1.  (no setup needed) Marketo will process...
         1. If no `partner crm id` is captured via the form, will be marked as GitLab sourced (`Dietary Restriction` = `Vegan`)
         1. If there is a `partner crm id` 
-        1. Sets `Vartopia Partner Account ID` fields
-            - If `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account ID` will be updated with the value in `Partner CRM ID` from the form
-            - If `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account ID` will be updated with the token value set at the program level
+        1. Sets `Vartopia Partner Account` fields
+            - If `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account` will be updated with the value in `Partner CRM ID` from the form
+            - If `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account` will be updated with the token value set at the program level
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that. (`Dietary Restriction` = `Nut Allergy`)
 1. (no setup needed) LeanData picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
 
@@ -195,8 +199,8 @@ If a form isn't available to capture registration, follow these steps:
 1. In List upload issue, add a column for CRM Partner ID and add the value. - All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). If the partner did not source the lead (AKA GitLab did), then leave that column blank.
 1. Mark in the list upload issue that this is a joint event and the partner will be following up with leads
 1. (no setup needed) Turned on by person who loads the list into Marketo.
-    1. If a `CRM Partner ID` was captured on the list, then Marketo will set `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account ID` will be updated with the value in `Partner CRM ID` from the form.
-    1. If a `CRM Partner ID` was not captured on the list,  `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account ID` will be updated with the token value set at the program level
+    1. If a `CRM Partner ID` was captured on the list, then Marketo will set `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account` will be updated with the value in `Partner CRM ID` from the form.
+    1. If a `CRM Partner ID` was not captured on the list,  `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account` will be updated with the token value set at the program level
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
 
 The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
