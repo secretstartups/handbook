@@ -208,7 +208,7 @@ If you are interested in participating in an active working group, it is general
 
 ## Top Cross-Functional Initiatives
 
-In FY22-Q4, we identified top cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives. 
+We identify annual top cross-functional initiatives that are key to GitLab's success in the fiscal year and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives. 
 
 Please note that a limited set of team members currently have access to the linked Epics. We are exploring ways to make more information available to all team members and the wider-community while keeping sensitive information contained to a smaller group.
 
