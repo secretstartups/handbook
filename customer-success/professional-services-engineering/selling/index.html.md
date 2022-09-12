@@ -16,7 +16,7 @@ You can also [watch the sales enablement session](/handbook/customer-success/pro
 ## A Note on Partner Professional Services
 Please remember to follow the [Rules of Engagment for Selling Professional Services](/handbook/sales/selling-professional-services) with the following highlights:
 - Always start by finding out if your customer/prospect has a qualified and preferred professional services partner and start by engaging with that partner to explore a solution for your customer/prospect
-- Please route all **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services)
+- **SMB** clients are welcome to purchase [SKU offerings](/services/catalog/). Please route all custom **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services). Please see additional detail in the FAQ below.
 - Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.
 
 ## Workflow for GitLab selling Professional Services
@@ -132,3 +132,9 @@ Customer is under license utilization and we need to prevent churn, help expand 
 GitLab CE is ideal for personal projects or small groups with minimal user management and workflow control needs.  Because these groups don't typically need a lot of focus on scaled implementation or training, we currently do not offer implementation, integration or training services to our CE customers.  Many of our [partners](/partners/) offer such services.  However, we find that many customers who have been running a CE instance and are looking to transition to a scaled implementation of GitLab may require a [Discovery Engagement](/handbook/customer-success/professional-services-engineering/offerings/#discovery-engagement) to determine the customer's long-term needs.
 
 If a customer is upgrading from CE to EE, Professional Services should be engaged to scope out the requirements for the transition if the customer will need services in the transition.
+
+#### What options exist for SMB Customers?
+
+SMB customers often do not have sufficient budget for our professional services offerings, and we traditionally try to meet their needs through [channel partners](https://about.gitlab.com/partners/). If your client had budget for one or more of our [SKUs](/services/catalog/), you are welcome to attach the SKU and do not need to create a scoping issue with the professional services team. 
+
+Please note: Migrations to GitLab SaaS currently require the use of an admin token, which is unavailable to partners. Therefore, these migrations **must** run through our GitLab professional services team currently.
