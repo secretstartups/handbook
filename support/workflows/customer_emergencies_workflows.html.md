@@ -18,6 +18,10 @@ The Customer Emergencies rotation is one of the rotations that make up [GitLab S
 
 ## Expectations for Support Engineers in the Customer Emergencies Rotation
 
+### How to be added to the Customer Emergencies PagerDuty rotation
+
+To be added to the Customer Emergency On Call Rotation, you should have first completed the [Customer Emergency On-Call training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new) and then after agreement with your manager, you should raise a new [Pager Duty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) with the Support-Ops team requesting that you are added to the appropriate Pager Duty rotation. 
+
 ### Communicate
 
 When you get an alert, you should immediately start a Slack thread and take notes therein. Tag the Technical Account Manager (TAM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-technical-account-manager-tam) for how to identify TAMs). This creates visibility around the situation and opens the door to let the team join in.
