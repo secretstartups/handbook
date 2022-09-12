@@ -58,7 +58,7 @@ The Remote Work Foundation Certification will be free to complete. *We are itera
 
 GitLab is actively building new certifications for FY23 and beyond. While we're iterating:
 1. Enroll in GitLab's [Remote Team Management course hosted on Coursera](https://www.coursera.org/learn/remote-team-management). 
-1. [Sign up](/handbook/mecc/#mecc-certification) to be the first to take GitLab's Management Philosophy Certification based on [MECC (Managing so Everyone Can Contribute)](/handbook/mecc/).
+1. [Sign up](/handbook/teamops/#teamops-certification) to be the first to take GitLab's TeamOps Certification.
 
 ## Questions
 
