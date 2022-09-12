@@ -442,9 +442,18 @@ To demote one of your direct reports, a manager should follow the following step
 
 Job information changes are anything that requires an update to the team member's profile in Workday that is not compensation related. The current manager is the person who needs to submit all job information change requests (including requests to change team member's manager). These changes need to get requested through Workday to have an approval trail for compliance reasons.
 
+**TO UPDATE**
+
 **Process for the current manager:**
 
-**TO UPDATE**
+[This job aid](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit?usp=sharing) will help provide people managers with instructions on how to move team members to another manager within Workday.
+If the manager you need to move your direct report to is not available, it likely means they do not have a supervisory organization set up. Even if their management level shows “Manager” a supervisory organization is needed in Workday for a team member to have a direct report. Supervisory organizations should have a name unique to the team they are managing (e.g. Commercial Sales - EMEA, Content Marketing (John Smith), Backend Engineering - Ruby).
+Please reach out to #people-connect with the name of the team member who needs the supervisory organization set up, the unique name, and the effective date of the supervisory organization. We can gladly help get it set up in Workday.
+
+### For People Connect: Processing Manager changes
+1. The People Connect Specialist logs into Workday via Okta to approve the transfer in Workday > click on Inbox in top right corner
+1. Review the business process titled 'Transfer' and reason 'Manager to Another Manager' > click: approve
+1. Log into BambooHR and update the manager, as this is currently connected to PTO by roots: Click on tab: Job > scroll to: Job Information > Click on: Update Job Information > Fill in the following fields: Under 'Effective Date' add the same effective date as in Workday and select under 'Reports To' the applicable new manager > click: save
 
 **Process for EBA to update senior leadership:**
 1. Send an email to People Connect, `people-connect@gitlab.com` requesting the changes to be made in Workday
