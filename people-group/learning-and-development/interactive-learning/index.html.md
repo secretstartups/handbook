@@ -100,7 +100,7 @@ In the team Articulate - Rise 360 license, there is a block template for iframes
 
 Consider copying and pasting the iframe tag below to apply the strategies outlined in the training. GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
 
-1. <iframe src=“link-to-your-page” title=“title for iframe metadata” scrolling="yes" height="500" width=“800"></iframe>
+1. <iframe src="link-to-your-page" title="title for iframe metadata" scrolling="yes" height="500" width="800"></iframe>
 
 
 ### Using highlighted links in the handbook
