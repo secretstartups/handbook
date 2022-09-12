@@ -23,12 +23,12 @@ This section highlights the current health status of each KPI based on the resul
 
 | **KPI**                                                                                                                                                                                 | **Current Health Status** |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| [Deal Desk Case SLA](/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |      Green      |
+| [Deal Desk Case SLA](/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |      Red (Note: Data is skewed due to global Private Offer support centralized in west coast AMER)      |
 | [Deal Desk Support Satisfaction](/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)                                                          |      Green      |
 | [Opportunity Approval SLA](/handbook/sales/field-operations/sales-operations/order-management/#1-standard-opportunity-approval-sla)                                                     |      Green      |
-| [Opportunity Approval Accuracy](/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |      Green      |
-| [Regional Support Satisfaction](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Yellow       |
-
+| [Opportunity Approval Accuracy](/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |      Yellow      |
+| [Regional Support Satisfaction: Deal Desk](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Green       |
+| [Regional Support Satisfaction: Order Management](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Yellow       |
 
 ### Key Performance Indicators 
 
@@ -62,7 +62,25 @@ Order Management KPIs are outlined on the [Order Management handbook page](/hand
 
 #### Q2FY23
 
-Results posted Aug 2023. 
+| **Deal Desk KPIs**                       | **Target** | **Actual (AVG)** | **Total Record Count** | 
+|------------------------------------------|------------|------------------|------------------|
+| **Deal Desk Case Resolution**            | 6 Hours    | 8 Hours 16 Min   | 12,278 Cases |
+| Time to close Sales support cases         |            |                  |             |
+| **Regional Support Satisfaction**        | 92%        | 94.12%           |     32/34 positive responses        |
+| Measured via [Q2FY23 CSAT Survey](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/262)               |            |                  |
+| **Q2C Efficiency Improvements**          | See: [Q2FY23 CSAT Survey Results](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/262)          |  [FY23 Q2 Q2C Systems Issues](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/90)        | 34 Q2C Systems Issues closed in Q2FY23 |
+
+
+| **Order Management KPIs**                                        | **Target**   | **Actual (AVG)** | **Total Record Count** |
+|------------------------------------------------------------------|--------------|------------------|--------------|
+| **Opportunity Approval SLA**                                     |   24 Hours   |  17 Hours, 24 Min | 3,670 Opportunities |
+| Opportunity Booking Process                                      |              |                  |  |
+| **Opportunity Approval Accuracy**                                | 95% Accuracy |      94.73%      | 185 rejections | 
+| 95% of all opportunities submitted to finance should be accurate |              |                  |  |
+| **Regional Support Satisfaction**                                |      92%     |      88.24%      | 30/34 positive responses |
+| Measured via [Q2FY23 CSAT Survey](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/262))                           |              |                  |  |
+
+*All results are global. For region-specific results, review the [Q2FY23 Global Deal Desk Order Management KPI Results Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/249).
 
 #### Q3FY23
 
