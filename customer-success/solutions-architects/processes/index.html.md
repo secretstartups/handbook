@@ -38,7 +38,12 @@ To following process maps are best viewed in full screen.  Please note that many
 
 Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
 
-We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement 
+We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement
+
+## Positioning Professional Services
+
+Solutions Architects should be pitching professional services at every qualified customer opportunity due to long term customer sucess and growth. Please use this [deck](https://docs.google.com/presentation/d/1pXPE84FAv4zhFBwwM7cSy0WbhjUeJ7mrbp1PPjxLBaA/edit#slide=id.g122779ad4b2_0_0) and [rubric](https://docs.google.com/presentation/d/1pXPE84FAv4zhFBwwM7cSy0WbhjUeJ7mrbp1PPjxLBaA/edit#slide=id.g122779ad4b2_0_0) to familirize yourself with the catalog listed [here](https://about.gitlab.com/services/catalog/).
+Please add "Positioned PS" as SA activity type after you have positoned it for your opportunity. 
 
 ## Engaging Professional Services
 
