@@ -89,16 +89,6 @@ The EBA to the CEO should coordinate sharing the needed passwords for the AV Equ
 The AV Equipment is on a cart with wheels and can be moved into the room where needed.
 It is recommended to set up the cart at the head of the table, placing the main speaker/microphone in the center of the table while placing the expansion mics towards the two heads of the table.
 
-#### Offsites in the era of COVID-19
-
-COVID-19 has lead GitLab to [suspend all non-essential travel](/handbook/travel/#travel-guidance-covid-19){:data-ga-name="suspend all non-essential travel"}{:data-ga-location="body"}.
-That includes the E-Group offsite.
-
-In the circumstance of a fully remote E-Group offsite, instead of 2.5 days of in-person meetings, the E-Group offsite occurs over 4 all-remote half-day sessions.
-This is because some people may find Zoom makes the meeting more intense.
-The CEO Skips follow up call will happen on the business day immediately following the final inclusion.
-
-
 ## Schedule
 
 The off-site is a quarterly meeting scheduled over 4 days (including travel time).
@@ -116,6 +106,16 @@ Scheduling for a fully remote offsite generally follows:
 1. Monday through Thursday from 8am-12:20pm Pacific time each day.
 1. The following Monday after the offsite concludes, the E-Group hosts a [ceo skips zoom call](#ceo-skips-zoom-call)
 
+E-Group Offsites typically happen at the start of the last month of the quarter. The timeline has the following benefits:
+1. While the quarter is not yet complete, leadership has an informed view of success against business objectives.
+1. Supports planning for the coming quarter.
+1. Gives space between the end of/start of quarter activities, QBRs, earnings call prep, and board prep.
+
+While we have chosen not to do so to date, we have explored moving E-Group Offsites to the first two weeks of the quarter. While this would bump up against key start of quarter activities and limit our ability to plan for the coming quarter, reasons for doing this include:
+1. Having complete end of quarter data.
+1. Good timing to celebrate successes, analyze learnings on the prior quarter and discuss action plans (if needed). 
+1. Less of a delay between offsites and Board Meetings, so these can better be used as a forum for Board alignment. 
+
 The E-Group offsite generally occurs in:
 - March or early April
 - June or early July
@@ -124,6 +124,7 @@ The E-Group offsite generally occurs in:
 
 The following dates have been confirmed for future E-Group offsites (starting dates):
 - 2022-10-03
+- 2023-01-09
 
 The following dates were previous E-Group offsites (starting dates):
 - 2021-06-28
@@ -131,6 +132,38 @@ The following dates were previous E-Group offsites (starting dates):
 - 2022-01-10
 - 2022-04-04
 - 2022-06-13
+
+## Offsite Topic Calendar
+
+While E-Group Offsites often happen about two months in advance of Board Meetings, we reserve time to discuss upcoming Board Meeting topics during each offsite.
+
+**Q1 Offsite**
+1. E-Group Offsite Month: April
+1. Following Board Meeting Month: June
+1. Planning Priorities: Strategy refresh
+1. E-Group Planning Topic: Finish strategy refresh
+1. Other E-Group Topics to Support Board Cadence: Non-product engineering review, e.g. architecture, infrastructure
+
+**Q2 Offsite**
+1. E-Group Offsite Month: June
+1. Following Board Meeting Month: September
+1. Planning Priorities: 3-year LRO
+1. E-Group Planning Topic: LRO scenarios, capabilities and dependencies
+1. Other E-Group Topics to Support Board Cadence: Talent strategy / succession planning
+
+**Q3 Offsite**
+1. E-Group Offsite Month: October
+1. Following Board Meeting Month: December
+1. Planning Priorities: FY budget review
+1. E-Group Planning Topic: FY25 Budget workstreams, final decisions
+1. Other E-Group Topics to Support Board Cadence: GTM learnings. Org design
+
+**Q4 Offsite**
+1. E-Group Offsite Month: January
+1. Following Board Meeting Month: March
+1. Planning Priorities: Final FY budget
+1. E-Group Planning Topic: Start strategy refresh
+1. Other E-Group Topics to Support Board Cadence: Product roadmap, competitive differentiation. Talent strategy / succession planning
 
 ## Timeline
 
@@ -162,16 +195,6 @@ There are a number of reasons why participants are invited to join specific Offs
 1. Understand expectations for your participation 
 1. Ensure that you have context about what is being discussed. If you are invited to a meeting and don't have context, proactively start an async conversation or schedule a 15 minute meeting with the E-Group sponsor and other participants. You should not need to attend a meeting without knowing what will be discussed or do any pre-work without clear direction
 1. **Don't** spend hours preparing unless there is a direct ask to do so
-
-## Data team member on call
-
-A data team member is available on-call during the offsite.
-The CoS to the CEO gives the data team a heads up at least two weeks before, so that they data team can plan appropriately.
-
-## Finance business partner available in case of questions
-
-A finance business partner is available during offsite agenda sessions related to reviews of the financials or budgets.
-The CoS to the CEO gives the finance team exec admin and fp&a team a heads up at least two weeks before, so that the finance team can plan and block calendars appropriately.
 
 ## Agenda and Documenting
 
@@ -224,6 +247,7 @@ These include:
 ### Pre-offsite discussion topics
 
 1. Review of Top Annual Cross-Functional Initiatives. [Top Cross-Functional Initiatives in FY23](/company/team/structure/working-groups/#top-cross-functional-initiatives) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
 
 ### Team norms
 
