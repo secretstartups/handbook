@@ -39,10 +39,10 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
+| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
 | [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
-| [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
-| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 | [TBH](https://boards.greenhouse.io/gitlab/jobs/6258102002) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 
@@ -458,7 +458,8 @@ Status in the table below means:
 | Prospecting - General | outbound |  | Active |
 | Prospecting - LeadIQ | outbound |  | Inactive |
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
-| Zoominfo | outbound |  | Active |
+| Zoominfo | outbound | Sourced by SDR/BDR/AE/SAL/ASM | Active |
+| Cognism | outbound | Sourced by SDR/BDR | Active |
 | Advertisement | paid demand gen |  | Inactive |
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
 | Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Inactive |
@@ -491,7 +492,7 @@ Until then, if pulling metrics around source buckets for CAC calculations please
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Lead . Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status.
+The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status. To learn more on how we manage our lifecycle including lead/contact status and Lifecycle Classifications, please see [here](https://about.gitlab.com/handbook/marketing/marketing-operations/lead-lifecycle/).
 
 | Status | Definition |
 | ------ | ---------- |
@@ -501,8 +502,8 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Accepted | Actively working to get in touch with the lead/contact |
 | Qualifying | In 2-way conversation with lead/contact |
 | Qualified | Progressing to next step of sales funnel (typically SAO created & hand off to Sales team) |
-| Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
-| Nurture | Record is not ready for our services or buying conversation now, possibly later |
+| Disqualified | Contact information is not now or ever valid in future; Spam form fill-out |
+| Recycle | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
 | Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review |
 
@@ -551,3 +552,37 @@ As a tester, you create test leads to ensure processes work as expected. These t
 The next time you test a program, remember set `Job Title` = `Test` and they will be removed promptly.
 
 Notice any test leads? Please open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the Marketing Operations team.
+
+## Communication Compliance Best Practices
+
+### Internal DNC (Do Not Call) Lists
+
+Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#cold-calling-checklist) section to find out more about it. 
+
+### External DNC (Do Not Call) Lists
+
+To be compliant with international DNC (Do Not Call) regulations and minimize the risk of litigation, a process was implemented for making sure the records that appear on external DNC lists are not contacted via phone (this applies to both `Direct Dial Phone Numbers` and `Mobile Phone Numbers`). 
+
+This information gets passed to us with the help of Zoominfo, which populates the `[ZI] Do Not Call - Direct Phone` and `[ZI] Do Not Call - Mobile Phone` fields with the `Yes` value whenever a phone number is found to be on an external DNC list. 
+
+With Marketo automation we are then using these two fields to hide the phone number information on the following fields: `[ZI] Phone Number`, `Phone` (standard field - only if it matches the `[ZI] Phone Number` value), `[ZI] Mobile Phone Number` and `Mobile Phone` (standard field - only if it matches the `[ZI] Mobile Phone Number` value).
+
+For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933). 
+
+### Zoominfo Opt Out Lists
+
+[Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) is our SSOT when it comes to data enrichment of our leads/contacts and accounts. 
+
+To be compliant with the latest privacy policies and safeguard our database from potential litigation, Zoominfo's recommendation for contacts that have opted out of their database is to: 
+
+>If you have downloaded any of these contact records from ZoomInfo or uploaded them to your internal systems, you must remove >them unless you have an independent lawful basis to possess and use such person's personal data.
+ 
+**Note:** This only applies for leads/contacts that do NOT currently have an existing business relationship
+
+After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database. 
+
+The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activites that could qualify as independent lawful basis to be kept. If they lack said activites they will be removed from our database. 
+
+For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933). 
+
+If you have any questions or concerns feel free to open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the Marketing Operations team.

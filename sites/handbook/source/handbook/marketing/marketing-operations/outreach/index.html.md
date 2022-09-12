@@ -17,7 +17,11 @@ Outreach is a sales engagement platform helps efficiently and effectively engage
 ### Set-Up  
 
 ##### Non-admin users
-User set-up instructions can be found [here](https://docs.google.com/document/d/1VJpZaoDoGtwN4Dp21g_OuhVauN2prHNyUtmIWKuROUY/edit#heading=h.v6blhaepsusl).
+Users will be able to access Outreach through OKTA within 24 hours of gaining access. Please set up the following once you have access:
+
+- Connect your inboxes and calendar to Outreach. Please be aware when you connect your email, Outreach is set up to create prospects from your gmail if they don't already exist in Outreach. Outreach admins and managers can see your email activity to anyone you may email; however, they can only see the subject line of who you are emailing and not the body of the email. Please ensure that you do not put any personal or private information unrelated to work in the subject lines of your gmail messages.   
+- Update your email signature. If you are a BDR/SDR, then your signature is managed through Terminus.Log into Terminus and update your details and within 24 hours it will update in Outreach.
+- Download and install the [Outreach Everywhere](https://support.outreach.io/hc/en-us/articles/115004084328-Installing-the-Outreach-Everywhere-Chrome-Extension) chrome extension.
 
 ##### Admin users
 When provisioning new users or altering current users' credentials for role changes, there are a few things to keep in mind:
@@ -51,9 +55,6 @@ Example: | **OB EMEA SDRCOMM Trial FollowUp HT DE** OR **OB EMEA FMM EVT Contrib
 
 Please see here a [spreadsheet](https://docs.google.com/spreadsheets/d/12YXwIE126g0rmmNi7QYy2s0SewIV-2JWCr9YUPcqfaQ/edit?usp=sharing) that will help with your naming conventions.
 
-We currently have two types of sequences. Primary and personal. Primary sequences are created to be shared and used across teams. Personal are for your own use. Please use the above naming sequence for both primarty and personal. Note: please use the tags to denote if the sequence is Primary or Personal.
-
-When creating a new primary sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
 
 ### Sequence Settings
 You may choose the best delivery schedule and ruleset applicable to your goals. 
@@ -96,6 +97,7 @@ The current meeting templates will sync to an SFDC event. Please be aware that O
 |Meeting Type|Use Case|Notes|
 |----|----|----|
 |IQM (30)|For qualified prospects being sent from the XDR team to Sales to determine next steps with GitLab.| If no template is selected in the drop down this is the default meeting type used.|
+|IQM (15)| For qualified prospects being sent from the XDR team to Sales to determine next steps with GitLab but a shorter call duration.|
 |Discovery Call (30)|To be used as an intro call for potential clients and qualify their needs.|
 |Evaluation Orchestration Call (25)|A deeper dive into a potential clients needs.| 25 minute evaluation.|
 |Evaluation Orchestration Call (45)|A deeper dive into a potential clients needs.|This is a longer duration at 45 minutes rather than 25.|
@@ -197,6 +199,8 @@ As such there are [sending limits built into the Outreach platform](https://supp
     * If you max out in Outreach, your emails will be queued to try again in 24 hours, when your account drops below this hard limit.
 
 ### Importing SFDC Reports
+
+Only Management and Operations have the ability to import SFDC records as they bypass our filters that keep our data in Outreach clean. 
 
 Step 1:
 Create your SFDC report and save it into the `Unfiled Public Reports` folder.

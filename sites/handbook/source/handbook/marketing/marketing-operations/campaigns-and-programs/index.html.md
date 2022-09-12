@@ -127,7 +127,7 @@ White Paper or other content offer.
 
 Any type of inbound request that requires follow up.
 
-**Bizible:** This is tracked as an _online_ channel.
+**Bizible:** This is tracked as an _online_ channel with the exception of Linkedin LeadGen campaigns which are tracked as an offline activity.
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -376,7 +376,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Click on the appropriate template for your tactic below (you must be logged into Marketo to proceed)
 - Right click on the template in Marketo and select `Clone`
 - In the `Clone To` field, select `A campaign folder`
-- In the `Name` field, input the campaign name (this should be the campaign name previously created in Allocadia - example: 20220704_BestEventEver)
+- In the `Name` field, input the campaign name (this should be the campaign name previously created in Allocadia - example: 20220704_BestEventEver)  - The date should be the START date of your campaign. 
 - In the `Folder` field, select the appropriate folder based on your campaign type. Most folders are also organized by fiscal year and quarter.
 - In the `Description` field, paste your epic URL
 - Click `Create`
@@ -515,7 +515,7 @@ Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campa
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - `Budgeted Cost` in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly. **Please Note:** `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign. If cost is $0 list `$1` in the `Budgeted Cost` field. There needs to be at least a $1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 
-### Owned Event - Waitlist processing
+### Waitlist processing - Owned Event, Workshop, Webcasts
 If you need to change an event from registration to waitlist, or you want to start off with a waitlist, use these instructions.
 - Confirm that the email copy you would like to use is set-up in the `Confirm - Waitlist` email. This email uses tokens and should be set for you, but you can customize as necessary.
 - Confirm that the {{my.event owner email address}} is completed in the tokens section. The Waitlist program will send an alert to this email address so you know each time someone is added to the waiting list based on this token.
@@ -524,7 +524,7 @@ If you need to change an event from registration to waitlist, or you want to sta
 - Activate the `01c Waitlist to Registered` Smart Campaign
 You have now activated the waiting list processing. If you need to reactivate Registration, you will deactivate the two Waitlist campaigns, and reactivate `01b Registration`. 
 
-### Owned Event - Moving from Waitlist to Registered
+### Moving from Waitlist to Registered - Owned Event, Workshop, Webcasts
 Use these instructions to move people from the waiting list to Registered.
 - Click on the Marketo program (the name of the campaign)
 - Click on `Members`
@@ -721,7 +721,7 @@ Important Notes:
    - `{{my.hopin event name}}` - You can pull the `Event Name` from the HopIn platform - This is the name of the event exactly as it appears in Hopin.
    - `{{my.hopin ticket code}}` - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. Copy the URL of the ticket name you want to use, and strip out everything but the number at the end (keep everything after the word `code=` in the URL).
      - If you are only registering for a single ticket, all you need to do is update the token, but if you have multiple ticket options, you will need to create a select dropdown in the form that holds the Integration Codes as stored values - ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
-1. `01a Registration from Hopin` is used if you are using HopIn registration pages (skip to next step if you are using a Marketo landing page). This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. **THIS WILL ONLY PASS `First Name`, `Last Name`, `Email`, and the name of the event. In order to capture any of the custom fields (like company name), you'll need to set up the next step to capture registrants from Marketo. Otherwise, a dataload will be required**
+1. (Skip if using a marketo form) `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. **THIS WILL ONLY PASS `First Name`, `Last Name`, `Email`, and the name of the event. In order to capture any of the custom fields (like company name), you'll need to set up the next step to capture registrants from Marketo. Otherwise, a dataload will be required**
    - The program token `{{my.hopin event name}}` must be populated to use this with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. 
    - If token is updated, you can turn on. No changes are necessary for the Flow.
    - Do not turn on if you are not utilizing HopIn registration pages. You will not use this if you are using a Marketo landing page.
