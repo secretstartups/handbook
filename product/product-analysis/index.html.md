@@ -86,6 +86,7 @@ We ask that PMs apply a `pm-priority::` label to issues to indicate relative pri
 | `pm-priority::2` | Medium |
 | `pm-priority::3` | Low, non-urgent |
 
+
 ### Iteration Planning
 
 Final commitment and prioritization will occur during the iteration planning meeting, which 
@@ -108,9 +109,9 @@ planning.
 
 | Label | Priority |
 | ----- | -------- |
-| `pdi-priority::1` | High and/or urgent |
-| `pdi-priority::2` | Medium |
-| `pdi-priority::3` | Low, non-urgent |
+| `pdi-priority::1` | **High / Urgent Priority** Any analysis requests that are required to be completed within the current iteration. All requests that have Priority 1 should have a direct KPI and/or OKR that will be affected by the analysis.| 
+| `pdi-priority::2` | **Medium Priority** This is where most requests would fall into. This can be any net-new analysis, reporting (dashboard creation), or exploratory analysis that is needed for decision making. | 
+| `pdi-priority::1` | **Consultant:** This is for any analysis that does not have a direct action as a result of the analysis and/or other low-level, non-urgent requests that can be placed in an analyst's backlog.|
 
 Most issues will fall under `pdi-priority::2` and `pdi-priority::3`.
 
