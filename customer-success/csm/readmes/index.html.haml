@@ -1,0 +1,9 @@
+---
+layout: markdown_page
+title: "Technical Account Manager READMEs"
+---
+
+- pages = sitemap.resources.select { |resource| resource.path.start_with?("handbook/customer-success/csm/readmes/") }
+- pages = pages.reject{|page| page.data.job.nil?}
+
+= partial "handbook/customer-success/csm/readmes/toc.html.haml", locals: {pages: pages}
