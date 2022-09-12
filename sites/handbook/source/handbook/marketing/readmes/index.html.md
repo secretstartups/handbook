@@ -15,3 +15,4 @@ description: "Learn more about working with various members of the marketing tea
 - [Christine Lee's README (Sr. Director Marketing Strategy & Analytics)](/handbook/marketing/readmes/christine-lee.html)
 - [Ray Leihe's README (VP Marketing Strategy & Platforms)](/handbook/marketing/readmes/ray-leihe.html)
 - [Dave Steer's README (VP Product Marketing)](/handbook/marketing/readmes/dave-steer.html)
+- [Jean-Baptiste Larramendy's README (AVP, Sales Dev)](/handbook/marketing/readmes/jean-baptiste-larramendy.html)
