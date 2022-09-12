@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Revenue Operations"
+title: "Revenue Accounting"
 ---
 
 ## On this page
@@ -13,9 +13,9 @@ title: "Revenue Operations"
 
 {::options parse_block_html="true" /}
 
-## Welcome to the Revenue Operations Handbook 
+## Welcome to the Revenue Accounting Handbook 
 
-The Revenue Operations Team handbook page is currently a work in process.
+The Revenue Accounting Team handbook page is currently a work in process.
 
 ## Charter
 
@@ -25,9 +25,9 @@ The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group.
 
 ## Helpful Links & Resources
 
-## Communicating with Revenue Operations
+## Communicating with Revenue Accounting
 
-Avoid contacting any Revenue Operations team members [directly via Slack](https://about.gitlab.com/handbook/communication/#avoid-direct-messages).
+Avoid contacting any Revenue Accounting team members [directly via Slack](https://about.gitlab.com/handbook/communication/#avoid-direct-messages).
 
 * Salesforce: `@revenue`
 
@@ -35,7 +35,7 @@ Avoid contacting any Revenue Operations team members [directly via Slack](https:
 
 ## Functional Responsibilities
 
-## Revenue Operations Performance Indicators (PI)
+## Revenue Accounting Performance Indicators (PI)
 
 * [Deals reviewed for revenue recognition = 100%](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
 * [Non GAAP Revenue (Ratable Recognition)](/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
@@ -45,14 +45,14 @@ Avoid contacting any Revenue Operations team members [directly via Slack](https:
 
 ### Salesforce
 
-Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Revenue Operations Team utilizes SFDC to view all related customer documentation and account information.
+Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Revenue Accounting Team utilizes SFDC to view all related customer documentation and account information.
 See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/) 
 
 ### Zuora Revenue
 
-## Revenue Operations FAQs
+## Revenue Accounting FAQs
 
-## Revenue Operations Job Family
+## Revenue Accounting Job Family
 
 [Revenue Accounting Job Family Page](https://about.gitlab.com/job-families/finance/revenue-accounting/)
 
