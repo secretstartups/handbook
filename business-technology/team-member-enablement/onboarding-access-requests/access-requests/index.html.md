@@ -163,6 +163,27 @@ While this application automation will take place in Okta, "true" system provisi
 
 ---
 
+#### Name Change Request
+
+_You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/Name_change_request.md) when your name changes._
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-success">
+
+**Instructions:**
+{: .panel-heading}
+
+<div class="panel-body">
+
+1. Title the issue `Full Previous Name to Full New Name - Name Change Request`.
+1. Please complete all applicable sections as described in the issue template.
+
+</div>
+</div>
+
+---
+
 ## Working on Access Requests
 
 ##### Department Access Request Boards
