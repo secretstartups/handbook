@@ -52,7 +52,13 @@ We are a small team with a leader and data analysts.
 
 **Slack channels**
 
-We can be reached via our own #mktg-strat-perf channel, although we also monitor the general [#marketing](https://about.gitlab.com/handbook/marketing/) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
+We can be reached via our own [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
+
+**Office Hours**
+
+Every 2 weeks MS&A holds [office hours](https://calendar.google.com/calendar/u/0/r/eventedit/ZmsyMW9wc3Q0NWJrZXFwNnFiMGQ2c2tyY2ZfMjAyMjA5MjJUMTYzMDAwWiBkZWdhbkBnaXRsYWIuY29t) where all are welcome to ask questions on any marketing reporting questions. We use [an agenda](https://docs.google.com/document/d/1ZzJfdQZeMsOmtPWKhIdgMr3dLbNSjshy-LxzUO3MqQc/edit#) to track questions and will be present even if the agenda is blank.
+
+If you have a question related to marketing reporting, this is a great informal place to ask.
 
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
 
