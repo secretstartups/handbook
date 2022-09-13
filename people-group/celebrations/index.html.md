@@ -18,7 +18,7 @@ At GitLab we like to acknowledge and celebrate team member milestones and contri
 Along with this, all celebrants regardless of length of tenure will receive a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
 #### Anniversary Gifts
-Anniversary gifts are not currently available. We ask for your patience as we work through securing a new method to distribute swag across our global structure. Once we have identified a path forward you or your Team Member will receive an email notifying you on steps to take to request your anniversary gifts. 
+**Last Updated on 2022-09-01** Anniversary gifts are not currently available. We ask for your patience as we work through securing a new method to distribute swag across our global structure. Once we have identified a path forward you or your Team Member will receive an email notifying you on steps to take to request your anniversary gifts. 
 
 ### Team Member Birthdays
 GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
