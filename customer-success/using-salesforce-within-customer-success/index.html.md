@@ -10,15 +10,15 @@ title: "Using Salesforce within Customer Success"
 {:toc .hidden-md .hidden-lg}
 
 - Using Salesforce within Customer Success *(Current)*
-- [Account Onboarding](/handbook/customer-success/tam/onboarding/)
-- [Customer Success Manager Summary](/handbook/customer-success/tam/)
-- [Account Triage](/handbook/customer-success/tam/health-score-triage/)
-- [Account Engagement](/handbook/customer-success/tam/engagement/)
+- [Account Onboarding](/handbook/customer-success/csm/onboarding/)
+- [Customer Success Manager Summary](/handbook/customer-success/csm/)
+- [Account Triage](/handbook/customer-success/csm/health-score-triage/)
+- [Account Engagement](/handbook/customer-success/csm/engagement/)
 
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
 
 * Health Score - A field to record the overall customer health
-CSM Sentiment - A field to list the CSM's sense of the [customer's health](/handbook/customer-success/tam/health-score-triage/)
+CSM Sentiment - A field to list the CSM's sense of the [customer's health](/handbook/customer-success/csm/health-score-triage/)
 * GitLab Customer Success Project - Where you enter the URL of the project created using the template described above
 * Customer Slack Channel - A field to record Slack channel(s) used for internal and external customer collaboration. If a channel is internal, make sure it follows the naming convention `#a_<customer-name>-internal` per [Communication Chat](/handbook/communication/chat/#account-channels-a_)
 * Solutions Architect - The Solutions Architect aligned with the account
@@ -146,7 +146,7 @@ For all new Zendesk tickets that are created, the Customer Success Manager and A
 
 ### Tracking Emails within Salesforce
 
-Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value.
+Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/csm/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value.
 
 To log an email in Salesforce:
 

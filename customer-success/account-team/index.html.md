@@ -23,7 +23,7 @@ An Enterprise account team is comprised of the following people:
 
 - [Strategic Account Leader (SAL)](/job-families/sales/strategic-account-leader/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#tam-alignment)
 
 
 ### Commercial/Mid-Market
@@ -31,7 +31,7 @@ An Enterprise account team is comprised of the following people:
 A Mid-Market account team is comprised of the following people:
 
 - [Account Executive (AE)](/job-families/sales/account-executive/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#tam-alignment)
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
@@ -61,7 +61,7 @@ The account team should meet in order to drive strategic growth towards accounts
 
 - Coordinated customer growth/expansion strategies, including renewals and upgrades
 - Onboarding of new customers requiring additional attention
-- Triage if they have a [health score other than Green](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
+- Triage if they have a [health score other than Green](/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)
 
 As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding CSM Manager(s).
 

@@ -10,7 +10,7 @@ description: "A key part of the customer relationship lifecycle is the renewal p
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional TAM-related handbook pages.
 
 
 

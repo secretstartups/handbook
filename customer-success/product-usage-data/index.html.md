@@ -73,8 +73,8 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Success Planning and Outcome Delivery
 
-- When a TAM is engaged, the usage data will be a key measure for the [customer success plan](/handbook/customer-success/tam/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/tam/ebr/).
-- In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](/handbook/customer-success/tam/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey. 
+- When a TAM is engaged, the usage data will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
+- In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](/handbook/customer-success/csm/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey. 
 
 #### Onboarding
 

@@ -30,8 +30,8 @@ Solutions Architects are aligned to the Commercial Sales Account Executives by a
 Customer Success Managers that support Commercial Sales are aligned by region (Americas East, Americas West, EMEA, and APAC). Not all accounts will have a dedicated CSM. Account qualification is required.
 
 * [Customer Success Manager role description](/job-families/sales/customer-success-management/)
-* [Customer Success Manager overview](/handbook/customer-success/tam/)
-* [When and how a CSM is engaged](/handbook/customer-success/tam/engagement/)
+* [Customer Success Manager overview](/handbook/customer-success/csm/)
+* [When and how a CSM is engaged](/handbook/customer-success/csm/engagement/)
 
 ## Sales Engagement Guidelines
 
@@ -45,7 +45,7 @@ For commercial accounts, we do not currently offer our customers Slack channels 
 - Premium tier or above
 - 100k+ IACV
 
-[Collaborative projects](/handbook/customer-success/tam/engagement/#managing-the-customer-engagement) may be suggested with few possible exceptions (such as reference customers, early adopters or strategic partnerships).  If the customer is evaluating GitLab or doing a POV for an upgrade, SAs or CSMs can request an ephemeral Slack channel, but the channel should be closed within 90 days if it does not meet the criteria shown above. Slack channels are simply too intensive to scale for Mid-Market and SMB.
+[Collaborative projects](/handbook/customer-success/csm/engagement/#managing-the-customer-engagement) may be suggested with few possible exceptions (such as reference customers, early adopters or strategic partnerships).  If the customer is evaluating GitLab or doing a POV for an upgrade, SAs or CSMs can request an ephemeral Slack channel, but the channel should be closed within 90 days if it does not meet the criteria shown above. Slack channels are simply too intensive to scale for Mid-Market and SMB.
 
 It is also not scalable for every customer to have a collaboration project, and the CS team will determine the need for a project on a per-customer basis.
 
@@ -63,11 +63,11 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Evaluate the state of the account's license including an assessment of active users and if a true-up is necessary
 * Evaluate the state of tickets to ensure any open critical issues are addressed
 * Retrieve any architectural diagrams, machine specifications, and gitlab configuration files to assess current environment
-* Review the [Account Handoff](/handbook/customer-success/tam/account-handoff/) checklist for additional info
+* Review the [Account Handoff](/handbook/customer-success/csm/account-handoff/) checklist for additional info
 
 ### Account Executive to CSM (existing accounts without a CSM)
 
-* AE or SA qualifies the account [meets the threshold for CSM services](/handbook/customer-success/tam/tam-manager/#account-assignment) and raises the account requiring a CSM in the SAL-SA-CSM meeting. CSM managers also review their 'accounts requiring CSM' dashboard in Gainsight on a weekly basis as a fail-safe.
+* AE or SA qualifies the account [meets the threshold for CSM services](/handbook/customer-success/csm/tam-manager/#account-assignment) and raises the account requiring a CSM in the SAL-SA-CSM meeting. CSM managers also review their 'accounts requiring CSM' dashboard in Gainsight on a weekly basis as a fail-safe.
 * SA or CSM creates a GitLab project [here](https://gitlab.com/gitlab-com/account-management/commercial) if applicable
 * Add CSM name to account team in Salesforce
 * Identify any relevant Outreach sequences or templates
@@ -76,7 +76,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 
 ### SA to CSM (new accounts)
 
-When an opportunity reaches stage `7-Negotiating` and is above the [account value threshold](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial), the Commercial CSM Manager will be automatically flagged for a new account to be assigned to a CSM. Once a CSM is assigned to the account, the CSM will arrange a Technical Internal Plan meeting with the SA to review account notes. Prior to the Technical Internal Plan meeting, the following are expected to be updated:
+When an opportunity reaches stage `7-Negotiating` and is above the [account value threshold](https://about.gitlab.com/handbook/customer-success/csm/services/#commercial), the Commercial CSM Manager will be automatically flagged for a new account to be assigned to a CSM. Once a CSM is assigned to the account, the CSM will arrange a Technical Internal Plan meeting with the SA to review account notes. Prior to the Technical Internal Plan meeting, the following are expected to be updated:
   * The Command Plan for the opportunity should be up to date on their Why Now and specific pain points in Identify Pain.
   * The Custom Pitch Deck (attached to the opportunity) ought to provide current state assessments of their environment and initial plans for adoption of GitLab.  
   * Raw notes available in the Activity History in Salesforce to provide the CSM any additional context necessary.

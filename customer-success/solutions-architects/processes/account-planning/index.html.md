@@ -70,4 +70,4 @@ It is important to note that Gainsight brings the entire account team onto a sin
 # Additional Reading:
 - Documentation about Gainsight Go-To-Market Technical Documentation is located [here](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
 - More information about how Sales uses Gainsight can be found on the Using [Gainsight within Sales page](https://about.gitlab.com/handbook/sales/gainsight/account-planning/)
-- Information about how Customer Success uses Gainsight is located on the [Using Gainsight within Customer Success page](https://about.gitlab.com/handbook/customer-success/tam/gainsight/)
+- Information about how Customer Success uses Gainsight is located on the [Using Gainsight within Customer Success page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/)

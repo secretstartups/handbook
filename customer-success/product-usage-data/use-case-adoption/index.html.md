@@ -4,12 +4,12 @@ title: "Customer Use Case Health Scoring"
 description: "How we measure a customer's health score for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
  
 
 ## License Utilization
 
-See [Health Score Triage](/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) for specifics.
+See [Health Score Triage](/handbook/customer-success/csm/health-score-triage/#license-usage-health-table) for specifics.
 
 ## Use Case Health Scoring
 
