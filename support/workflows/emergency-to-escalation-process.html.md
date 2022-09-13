@@ -21,7 +21,7 @@ In our day-to-day work, Support Engineers are naturally reactive: ticket is crea
 
 ## When to start an Account Escalation
 
-Follow the guidelines in the [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/). You should consult with the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) to make the decision together.
+Follow the guidelines in the [Customer Success Escalations Process](/handbook/customer-success/csm/escalations/). You should consult with the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) to make the decision together.
 
 Here are some questions to guide the decision:
 
@@ -33,9 +33,9 @@ Here are some questions to guide the decision:
 
 ## How to start an Account Escalation
 
-1. Decide which Escalation Level to use by consulting the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels).
-1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/tam/escalations/#escalation-dri). If there is no TAM for the customer, work with the on-call Support Manager to determine DRI.
-1. Follow the steps to [open the escalation](/handbook/customer-success/tam/escalations/#opening-the-escalation). 
+1. Decide which Escalation Level to use by consulting the [TAM handbook for escalation levels](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
+1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/csm/escalations/#escalation-dri). If there is no TAM for the customer, work with the on-call Support Manager to determine DRI.
+1. Follow the steps to [open the escalation](/handbook/customer-success/csm/escalations/#opening-the-escalation). 
 
 ## Expectations during an Account Escalation
 
@@ -52,5 +52,5 @@ Here are a few things to keep in mind:
 
 ## Closing an Account Escalation
 
-If you are the Escalation DRI, follow the steps to [close the escalation](/handbook/customer-success/tam/escalations/#closing-the-escalation). 
+If you are the Escalation DRI, follow the steps to [close the escalation](/handbook/customer-success/csm/escalations/#closing-the-escalation). 
 

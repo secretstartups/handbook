@@ -27,9 +27,9 @@ Use the [finding the customer’s account owner](/handbook/support/workflows/loo
 
 ### **Role: Technical Account Manager (TAM)**
 
-A Technical Account Manager typically manages the customer’s relationship with GitLab. A comprehensive list of services provided by them is listed [here](/handbook/customer-success/tam/services/#responsibilities-and-services).
+A Technical Account Manager typically manages the customer’s relationship with GitLab. A comprehensive list of services provided by them is listed [here](/handbook/customer-success/csm/services/#responsibilities-and-services).
 
-Since TAMs are assigned based on [certain criteria](/handbook/customer-success/tam/services/#tam-alignment), you might not find a TAM listed for every customer. For those that do have a TAM assigned, follow the same process as above on SFDC, but look at the `Technical Account Manager` field instead.
+Since TAMs are assigned based on [certain criteria](/handbook/customer-success/csm/services/#tam-alignment), you might not find a TAM listed for every customer. For those that do have a TAM assigned, follow the same process as above on SFDC, but look at the `Technical Account Manager` field instead.
 
 |Escalation Scenario|Channel|Relevancy|
 |--|--|--|
@@ -42,5 +42,5 @@ Since TAMs are assigned based on [certain criteria](/handbook/customer-success/t
 
 #### Resources
 
-- [TAM Responsibilities and Services](/handbook/customer-success/tam/services/#tam-alignment)
-- [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/index.html)
+- [TAM Responsibilities and Services](/handbook/customer-success/csm/services/#tam-alignment)
+- [Customer Success Escalations Process](/handbook/customer-success/csm/escalations/index.html)
