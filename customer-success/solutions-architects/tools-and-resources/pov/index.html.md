@@ -151,7 +151,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 
 - SA: Ensure the customer architecture is prepared to support the POV (if self-managed)
 - SA: Ensure customer network has access to GitLab.com (if SaaS evaluation)
-- SA: Customer Success project is created in GitLab as per the [TAM Handbook page](/handbook/customer-success/tam/#to-start-a-new-customer-engagement)
+- SA: Customer Success project is created in GitLab as per the [TAM Handbook page](/handbook/customer-success/csm/#to-start-a-new-customer-engagement)
 - SA: POV document is created if this is required by the customer, otherwise default to the Customer Success project
 - SA: Ensure POV goals and business outcomes are clearly identified prior to kickoff
 - SA: For the largest strategic opportunities, notify GitLab Support of POV dates, customer, and other relevant information using the applicable Slack channel related to Self-Managed or GitLab.com support

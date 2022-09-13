@@ -96,7 +96,7 @@ While the opportunity progresses through commercial discussions, the CSM should 
 
 ### Shifting responsibility from SAL & SA to CSM
 
-Once the opportunity moves [stage](/handbook/sales/field-operations/gtm-resources/) to `Closed Won` the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the CSM program. Please [review the details for the CSM kickoff call](/handbook/customer-success/tam/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
+Once the opportunity moves [stage](/handbook/sales/field-operations/gtm-resources/) to `Closed Won` the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the CSM program. Please [review the details for the CSM kickoff call](/handbook/customer-success/csm/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
 
 Now that the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the SAL & SA will transition to the CSM at this point.
 
@@ -120,7 +120,7 @@ At the conclusion of the pre-sales engagement, the Account Executive should set 
 
 The AE/SA will need to ensure that Command Plan and Pitch Deck (R7) are complete before scheduling an internal transition meeting to brief the CSM. AE/SA will then introduce the CSM via email. 
 
-From this initial introduction, the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the CSM program. Please [review the details for the CSM kickoff call](/handbook/customer-success/tam/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
+From this initial introduction, the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the CSM program. Please [review the details for the CSM kickoff call](/handbook/customer-success/csm/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
 
 ### Shifting responsibility from AE & SA to CSM
 

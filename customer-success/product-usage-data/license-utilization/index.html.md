@@ -37,7 +37,7 @@ If the data looks good (no missing data), see how to [report bad data](/handbook
 
 ### Scorecard
 
-There is a health scorecard measure called License Usage within the Product Usage measure. This results in green/yellow/red based on the account's license usage health per [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations). 
+There is a health scorecard measure called License Usage within the Product Usage measure. This results in green/yellow/red based on the account's license usage health per [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations). 
 
 For more on Product Usage Data health scoring in Gainsight, see [Product Usage Data](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) and [Customer Product Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/).
 

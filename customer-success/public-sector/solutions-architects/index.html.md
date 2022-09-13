@@ -42,11 +42,11 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 
 ## Success Management Program Introduction
 
-During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/tam/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available CSM programs and GitLab Professional Services.
+During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/csm/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available CSM programs and GitLab Professional Services.
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales relationships for support, guidance, advocacy and growth
-2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
+2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/csm/stage-adoption/)
 3. Validate customer access to [GitLab Support](https://about.gitlab.com/handbook/support/)
 4. Help the customer choose their level of CSM engagement after procurement
 5. Ensure the customer understands available [GitLab Professional Services and Enablement](https://about.gitlab.com/services/catalog/) options

@@ -25,17 +25,17 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 
 | Field Name | Description | Best Practices | Reference |
 |:---|:---|:---|:---|
-| [GS] Customer Conversion Source  | The purpose is understanding where the customer came from — this is about sourcing (e.g., marketing/SDR'ing as an analogy). | During customer onboarding, these fields should be filled out in Gainsight. | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/deployment-types/) |
-| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License data is in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.<br>Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/tam/onboarding/#time-to-first-value) |
+| [GS] Customer Conversion Source  | The purpose is understanding where the customer came from — this is about sourcing (e.g., marketing/SDR'ing as an analogy). | During customer onboarding, these fields should be filled out in Gainsight. | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/) |
+| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License data is in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.<br>Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) |
 | [GS] Geo? | Is your customer using Geo? Manually filled by the TAM |  | [Link](https://about.gitlab.com/solutions/geo/) |
 | [GS] GitLab Issue Link | Account related Gitlab Issue(s) |  |  |
 | [GS] Google Doc Notes | Google Doc Notes URL Manually filled by the TAM |  |  |
 | [GS] High Availability? | Does your customer require High Availability (HA) solutions and/or zero-downtime upgrade? Manually filled by the TAM |  | [Link](https://about.gitlab.com/solutions/reference-architectures/) |
-| [GS] Hosting | What is their (primary) hosting setup? Manually filled by the TAM |  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/deployment-types/#hosting) |
-| [GS] Last Activity Date | This field reflects the latest Call, Meeting, or Email activity entry logged for the customer. See handbook for details |  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#last-activity-date) |
-| [GS] Last TAM Activity Date | Last activity as recorded in GS by TAMs to track synchronous conversations with their customer |  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#last-activity-date) |
+| [GS] Hosting | What is their (primary) hosting setup? Manually filled by the TAM |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#hosting) |
+| [GS] Last Activity Date | This field reflects the latest Call, Meeting, or Email activity entry logged for the customer. See handbook for details |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
+| [GS] Last TAM Activity Date | Last activity as recorded in GS by TAMs to track synchronous conversations with their customer |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
 | [GS] Lifecycle Stage | Each customer deployment goes through the following lifecycle stages: <br>Onboarding<br>Implementation<br>Adoption<br>Optimize & Grow |  | [Link](https://about.gitlab.com/handbook/customer-success/vision/#lifecycle-stages) |
-| [GS] Provider | Logs what (cloud) provide the customer uses or if they’re on-premises. Manually filled by the TAM  |  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/deployment-types/#provider) |
+| [GS] Provider | Logs what (cloud) provide the customer uses or if they’re on-premises. Manually filled by the TAM  |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#provider) |
 | [GS] Slack Channel Link | Customer slack channel URL |  |  |
 | [GS] Summary | This is a general summary field for TAMs to add relevant and helpful information to manage the account.  |  | [Link](https://about.gitlab.com/handbook/sales/gainsight/account-planning/#the-account-snapshot) |
 | [GS] TAM Prioritization | This field is used to prioritize accounts, usually for renewals or expansion opportunities. See handbook for details |  | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data) |
@@ -56,16 +56,16 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 | [GS] Health: Overall Product Usage | The summary health of the different product usage data health components, such as License Utilization and use cases | Useful to know how the customer is at adopting the product by seeing an overall usage data score of License Utilization and use cases |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
 | [GS] Health: SCM | SCM Adoption is measured based on: # of users running merge requests in last 28 days / total licenses soldAutomated scoring of the customer’s usage of the SCM use case. See Handbook for details | Useful to understand the customer’s adoption and usage of SCM as a use case. For example, did the customer buy for SCM and they’re red, or do they not care at all? |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#source-code-management-scm)|
 | [GS] Health Score | Account Health Score is an aggregation of key metrics, as a numerical, for a multi-perspective view of the customer. |  |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#customer-health-score)|
-| [GS] Health Score Color | This is the Overall Health Score Color for this customer as pushed over to SFDC from Gainsight | Good metric to understand how the customer is doing, broadly speaking |[Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)|
-| [GS] TAM Sentiment | If TAM-owned, this is what the TAM thinks the health of this account should be. Gainsight is the SSOT for this field and its value can only be updated in Gainsight. | If TAM-led, this Signifies the TAM’s perceived view of the account. Useful for spotting any risks if yellow or red |[Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#tam-sentiment)|
+| [GS] Health Score Color | This is the Overall Health Score Color for this customer as pushed over to SFDC from Gainsight | Good metric to understand how the customer is doing, broadly speaking |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)|
+| [GS] TAM Sentiment | If TAM-owned, this is what the TAM thinks the health of this account should be. Gainsight is the SSOT for this field and its value can only be updated in Gainsight. | If TAM-led, this Signifies the TAM’s perceived view of the account. Useful for spotting any risks if yellow or red |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tam-sentiment)|
 
 ## Opportunity
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
-| Opportunity Health | Opportunity Health is the Account's Health at the time of the Opportunity and is updated throughout the Opp until it is closed - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/tam/renewals/#account-health)  | 
-| Risk Reasons | Risk Reasons are inputted by TAMs which are relevant to that Renewal Opportunity - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/tam/renewals/#risk-reason)  | 
-| Risk Type | Risk Type is inputted by TAMs for the type of risk faced in the renewal (downtier, seat loss, full churn...) - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/tam/renewals/#risk-type)  |
+| Opportunity Health | Opportunity Health is the Account's Health at the time of the Opportunity and is updated throughout the Opp until it is closed - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#account-health)  | 
+| Risk Reasons | Risk Reasons are inputted by TAMs which are relevant to that Renewal Opportunity - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-reason)  | 
+| Risk Type | Risk Type is inputted by TAMs for the type of risk faced in the renewal (downtier, seat loss, full churn...) - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-type)  |
 
 ## Contacts
 
@@ -87,16 +87,16 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 | Field Name | Description | Reference |
 |:---|:---|:---|
 | Program Emails | Some of the Program Emails can be found cataloged within the Account Page > Activity History section in SFDC. There you can see the log of the Email Subject Line & see the `Assigned to` field = “Gainsight Integration” |  |  
-| Survey Results | These surveys are used to measure customer loyalty, satisfaction, and enthusiasm with GitLab and can act as an early warning system about a customer’s adoption.  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores/#customer-npscsat-surveys)  |  
-| Timeline Activities  | The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time. | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline)  |  
+| Survey Results | These surveys are used to measure customer loyalty, satisfaction, and enthusiasm with GitLab and can act as an early warning system about a customer’s adoption.  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/c360-overview/nps-csat-scores/#customer-npscsat-surveys)  |  
+| Timeline Activities  | The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time. | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline)  |  
 
 ## Customer Subscriptions
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
-| [GS] Time to First 10 | The # of days to reach 10% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
-| [GS] Time to First 50 | The # of days to reach 50% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
-| [GS] Time to First 80 | The # of days to reach 80% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
+| [GS] Time to First 10 | The # of days to reach 10% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#license-usage-health-table) |
+| [GS] Time to First 50 | The # of days to reach 50% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#license-usage-health-table) |
+| [GS] Time to First 80 | The # of days to reach 80% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#license-usage-health-table) |
 | [GS] Time to First CI | The # of days for a healthy % of users to deploy CI as defined in the handbook | [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#continuous-integration-ci) |
 | [GS] Time to First SCM | The # of days for a healthy % of users to deploy SCM as defined in the handbook | [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#source-code-management-scm) |
 | [GS] Time to First DSC | The # of days for a healthy % of users to deploy DevSecOps as defined in the handbook | [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#devsecops) |

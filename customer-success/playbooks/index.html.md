@@ -17,7 +17,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 ## Structure of Playbooks
 
-**Procedure**: Each Playbook contains the outline of steps to position, apply discovery questions, lead value discussions, and drive adoption (TAM only). The will be driven and tracked [via Gainsight](/handbook/customer-success/tam/gainsight/).
+**Procedure**: Each Playbook contains the outline of steps to position, apply discovery questions, lead value discussions, and drive adoption (TAM only). The will be driven and tracked [via Gainsight](/handbook/customer-success/csm/gainsight/).
 
 **Positioning**: Stage and use case value proposition and positioning with supporting collateral linked within Gainsight CTAs and Playbooks.
 
@@ -48,7 +48,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 ## Catalog of Playbooks
 
-The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/tam/gainsight/#ctas)) to a Customer.
+The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/csm/gainsight/#ctas)) to a Customer.
 
 | Playbook Name                                                   | Automated/Manual | Type            | Internal Reference Link                                      |
 |-----------------------------------------------------------------|------------------|-----------------|--------------------------------------------------------------|
@@ -56,7 +56,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Low License Utilization                                         | Automated        | Risk            |                                                              |
 | Non-Engaged Customer                                            | Manual           | Risk            |                                                              |
 | Product Risk                                                    | Manual           | Risk            |                                                              |
-| Risk Escalation                                                 | Manual           | Risk            | [Opening an At-Risk CTA](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#triage-cta)                                         |
+| Risk Escalation                                                 | Manual           | Risk            | [Opening an At-Risk CTA](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#triage-cta)                                         |
 | Create Success Plan                                             | Automated        | Lifecycle       |                                                              |
 | Customer Offboarding                                            | Automated        | Lifecycle       |                                                              |
 | Executive Business Review (EBR)                                 | Automated        | Lifecycle       | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)                                             |
@@ -65,7 +65,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | New Customer Digital Onboarding: Self-Managed Email Series      | Manual           | Lifecycle       |                                                              |
 | New Customer Onboarding                                         | Automated        | Lifecycle       |                                                              |
 | Onboarding Pilot                                                | Automated        | Lifecycle       |                                                              |
-| Usage Data Enablement                                           | Manual           | Lifecycle       | [Service Ping FAQ](https://about.gitlab.com/handbook/customer-success/tam/service-ping-faq/)                                               |
+| Usage Data Enablement                                           | Manual           | Lifecycle       | [Service Ping FAQ](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/)                                               |
 | Agile Enablement Stage Adoption                                 | Manual           | Objective       |                                                              |
 | Agile Expansion Stage Enablement                                | Manual           | Objective       |                                                              |
 | CD Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Delivery/Release](https://about.gitlab.com/handbook/customer-success/playbooks/cd-release.html)                                  |
@@ -97,10 +97,10 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Update Stale TAM Sentiment                                      | Manual           | Activity        |                                                              |
 | Upcoming Renewal                                                | Automated        | Renewal         |                                                              |
 | Digital Adoption - CI Enablement                                | Manual           | Digital Journey |                                                              |
-| Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)                            |
+| Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
 | Digital Onboarding - Self-Managed Alternative Backup Strategies | Manual           | Digital Journey |                                                              |
-| Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)                            |
+| Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
 | Digital Onboarding - Welcome Email                              | Manual           | Digital Journey |                                                              |
 | TAM Account Transitions                                         | Manual           | Digital Journey |                                                              |
 
-TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/tam/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
+TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/csm/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.

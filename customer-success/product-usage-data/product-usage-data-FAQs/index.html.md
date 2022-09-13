@@ -43,7 +43,7 @@ _Last updated 2022-05-17._
 #### What is Service Ping?
 - Service Ping is a GitLab process that collects customer analytics on self-managed instances and sends a weekly payload to GitLab. The payload provides important high-level data that helps our product, support, and sales teams understand how GitLab is used.
 - [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)
-- [Service Ping FAQ](https://about.gitlab.com/handbook/customer-success/tam/service-ping-faq/)
+- [Service Ping FAQ](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/)
 
 #### How can we confirm that they have opted into Service Ping?
 - The only way to confirm if they have opted into Service Ping is if we have data for them. [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
