@@ -434,7 +434,7 @@ The Customer Success Engineer (CSE) role provides deep subject matter expertise 
 ## Performance Indicators
 
 * net ARR (i.e., retention and expansion) 
-* [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/).
+* [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/csm/customer-segments-and-metrics/).
 
 ## Career Ladder
 
