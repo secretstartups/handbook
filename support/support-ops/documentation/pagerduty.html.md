@@ -92,12 +92,12 @@ As per
   * Notify the following users or schedules
     * Customer Emergencies - AMER
     * Customer Emergencies - EMEA
-    * Customer Emergencies - AMER Shadow
     * Customer Emergencies - APAC Group 1
     * Customer Emergencies - APAC Group 2
-    * Customer Emergencies - Global Training / Shadow 1
-    * Customer Emergencies - Global Training / Shadow 2
-    * Customer Emergencies - APAC Group 2 Shadow
+    * Shadow - Customer Emergencies - AMER
+    * Shadow - Customer Emergenices - APAC 1
+    * Shadow - Customer Emergenices - APAC 2
+    * Shadow - Customer Emergencies - EMEA
   * Escalates after 10 min
 * Level 2
   * Notify the following users or schedules
@@ -128,7 +128,10 @@ As per
     * Incident Management - CMOC (EMEA)
     * Incident Management - CMOC (APAC Group 1)
     * Incident Management - CMOC (APAC Group 2)
-    * CMOC Shadow
+    * Shadow - Incident Management - CMOC (AMER)
+    * Shadow - Incident Management - CMOC (APAC 1)
+    * Shadow - Incident Management - CMOC (APAC 2)
+    * Shadow - Incident Management - CMOC (EMEA)
   * Escalates after 10 min
 * Level 2
   * Notify the following users or schedules
@@ -184,14 +187,6 @@ This rotation is used for emergencies filed by customers during AMER hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PIQ317K)
 * Timezone: (UTC+01:00) Amsterdam
-* Layer 2 Hours:
-  * Sunday:    1700-0100
-  * Monday:    1700-0100
-  * Tuesday:   1700-0100
-  * Wednesday: 1700-0100
-  * Thursday:  1700-0100
-  * Friday:    1700-0100
-  * Saturday:  1700-0100
 * Layer 3 Hours:
   * Sunday:    N/A
   * Monday:    1700-2100
@@ -418,6 +413,118 @@ This rotation is used for assigning Support Managers SSAT reviewing duties.
   * Thursday:  0000-2400
   * Friday:    0000-2400
   * Saturday:  0000-2400
+
+### Shadow - Customer Emergencies - AMER
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#POZRZ6R)
+* Timezone: (UTC+02:00) Amsterdam
+* Layer 1 Hours:
+  * Sunday:    N/A
+  * Monday:    1700-2100
+  * Tuesday:   1700-2100
+  * Wednesday: 1700-2100
+  * Thursday:  1700-2100
+  * Friday:    1700-2100
+  * Saturday:  N/A
+* Layer 2 Hours:
+  * Sunday:    N/A
+  * Monday:    2100-0100
+  * Tuesday:   2100-0100
+  * Wednesday: 2100-0100
+  * Thursday:  2100-0100
+  * Friday:    2100-0100
+  * Saturday:  N/A
+
+### Shadow - Customer Emergenices - APAC 1
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PY3KXMC)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0100-0500
+  * Tuesday    0100-0500
+  * Wednesday: 0100-0500
+  * Thursday:  0100-0500
+  * Friday:    0100-0500
+  * Saturday:  N/A
+
+### Shadow - Customer Emergenices - APAC 2
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#P6HFQDO)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0500-0900
+  * Tuesday    0500-0900
+  * Wednesday: 0500-0900
+  * Thursday:  0500-0900
+  * Friday:    0500-0900
+  * Saturday:  N/A
+
+### Shadow - Customer Emergencies - EMEA
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PGS0SE3)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0900-1700
+  * Tuesday    0900-1700
+  * Wednesday: 0900-1700
+  * Thursday:  0900-1700
+  * Friday:    0900-1700
+  * Saturday:  N/A
+
+### Shadow - Incident Management - CMOC (AMER)
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    1700-0100
+  * Tuesday    1700-0100
+  * Wednesday: 1700-0100
+  * Thursday:  1700-0100
+  * Friday:    1700-0100
+  * Saturday:  N/A
+
+### Shadow - Incident Management - CMOC (APAC 1)
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0100-0500
+  * Tuesday    0100-0500
+  * Wednesday: 0100-0500
+  * Thursday:  0100-0500
+  * Friday:    0100-0500
+  * Saturday:  N/A
+
+### Shadow - Incident Management - CMOC (APAC 2)
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0500-0900
+  * Tuesday    0500-0900
+  * Wednesday: 0500-0900
+  * Thursday:  0500-0900
+  * Friday:    0500-0900
+  * Saturday:  N/A
+
+### Shadow - Incident Management - CMOC (EMEA)
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#)
+* Timezone: (UTC+02:00) Amsterdam
+* Hours
+  * Sunday:    N/A
+  * Monday:    0900-1700
+  * Tuesday    0900-1700
+  * Wednesday: 0900-1700
+  * Thursday:  0900-1700
+  * Friday:    0900-1700
+  * Saturday:  N/A
 
 ## Subscribing to a Schedule
 
