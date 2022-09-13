@@ -24,3 +24,11 @@ Solution Architects have various practices:
 [Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias/)
 
 [Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/)
+
+## SA Practices - Pre-sales
+
+The following practice and process are lead by the Solutions Architects during pre-sales:
+
+[Proof of Value](/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
+
+[Strategic Solution Selling](/handbook/customer-success/solutions-architects/sa-practices/strategic-solution-selling/)
