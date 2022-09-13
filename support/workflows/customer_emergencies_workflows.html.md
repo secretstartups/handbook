@@ -117,6 +117,30 @@ When the call has ended:
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
+#### When the emergency is resolved
+
+As soon as the emergency is resolved, mark the emergency ticket as solved. Consider whether an emergency summary is necessary to add in an internal comment. Any follow up work should be in a separate ticket.
+
+- **Option 1: A related ticket already exists:**
+   1. Add an internal comment linking to the (closed) emergency ticket.
+   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow up ticket.
+   1. Check that the priority of the ticket fits
+   1. Add a comment letting customer know that follow up work will continue in this ticket
+
+- **Option 2: There is no related ticket:**
+   1. Use a browser incognito window to create a new ticket via the [support portal](https://support.gitlab.com) (not via Zendesk itself). Use the customer email address in the "Your email address" field. Review the new ticket to ensure it is properly associated to the correct customer Organization.
+   1. Let customer know in the ticket description, that follow up work will continue in this ticket.
+   1. Add an internal comment linking to the (closed) emergency ticket.
+   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow up ticket.
+   1. The new ticket will now be picked up by the round robin automation and assigned to an SGG, like any other ticket. Optionally, an engineer involved in the emergency can take ownership of the ticket instead.
+
+Why do follow up work in another ticket?      
+- Emergency tickets have specific ZenDesk settings that exclude them from the SGG views, which effectively makes them "invisible" to anyone other than the ticket assignee. The consequences are:
+   - If the assignee is on PTO, nobody will see customer responses.
+   - Collaboration on follow up work becomes unlikely.
+- Emergency tickets have a shorter internal NRT SLO to encourage us to respond very quickly.
+- Emergency tickets count differently in our statistics.
+
 ## What to do if you don't know what to do
 
 First, remember that your primary role is incident management. You are not expected to have all the answers personally and immediately.
