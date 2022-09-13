@@ -86,7 +86,7 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 * For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab` once you have signed up. 
 * For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. 
-* For professional development and certifications, please sned a copy of your certificate or proof of completion to `growth-development@gitlab`.
+* For professional development and certifications, please send a copy of your certificate or proof of completion to `growth-development@gitlab`.
 * Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 * Total Rewards will then notify payroll to begin the reimbursement process.
 
