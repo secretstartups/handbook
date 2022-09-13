@@ -147,7 +147,7 @@ You can copy/paste this to make sure you don't miss anything:
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards: 
 
 - [Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for product managers
-- [Customer Requested Issues (TAM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---TAM-Customer-View) for  Sales, CS and TAMs
+- [Customer Requested Issues (CSM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---TAM-Customer-View) for  Sales, CS and CSMs
 
 These dashboards represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours.  You can find more context about priority labels on the [customer issues prioritization framework handbook page](/handbook/product/product-processes/customer-issues-prioritization-framework/index.html#priority-points).
 
