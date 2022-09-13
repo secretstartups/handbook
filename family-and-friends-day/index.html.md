@@ -20,7 +20,6 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 
 ## Upcoming Family and Friends Days
 
-1. 2022-08-29
 1. 2022-09-26
 1. 2022-10-07
 
@@ -53,6 +52,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 1. A twenty-third Family and Friends day was held on `2022-05-27`.
 1. A twenty-fourth Family and Friends day was held on `2022-06-24`. 
 1. A twenty-fifth Family and Friends day was held on `2022-07-11`. 
+1. A twenty-sixth Family and Friends day was held on `2022-08-29`.
 
 ## FAQ about Family and Friends Day
 
@@ -62,7 +62,7 @@ Any GitLab team member is able to propose a Family and Friends Day. If there are
 1. Submit a merge request to modify the `Upcoming Family and Friends Days` section of this page with the date of your Family and Friends Day proposal.
 1. Post the MR in the `#e-group` Slack channel and `@mention` the `@exec-group` and `@exec-admins` for feedback.
 1. If feedback is positive, assign the MR to our Chief People Officer, Wendy Barnes.
-1. Once the Merge Request is approved, the Total Rewards team will annouce the Family & Friends day on the `#company-fyi`, `#whats-happening-at-gitlab` and `#people-connect` Slack Channels. The Total Rewards team will post upcoming Family and Friends Days on the `GitLab Team Meeting` Google calendar.
+1. Once the Merge Request is approved, the Total Rewards team will announce the Family & Friends day on the `#company-fyi`, `#whats-happening-at-gitlab` and `#people-connect` Slack Channels. The Total Rewards team will post upcoming Family and Friends Days on the `GitLab Team Meeting` Google calendar.
 
 ### I'm in a role which requires me to work that day. How can I still benefit from this initiative?
 If you are in a role that requires you to work or your team has other coverage requirements on Family and Friends Day (for example, [Customer Support](https://about.gitlab.com/handbook/support/support-time-off.html#how-support-handles-family-and-friends-days)), you can work with your manager to find an alternative day. We encourage you to consider the following business day as the preferred second choice for a day away, but do what works best for you and your team.
