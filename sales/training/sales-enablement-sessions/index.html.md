@@ -23,8 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 15 | Storage & Transfer Limits  | Josh L.  |
-| Sep 22 | FY23 - Q3 Sales Ops Update - Clari Refresher  | Amber S. & Kathleen R.  |
+| Sep 15 | FY23 - Q3 Sales Ops Update - Clari Data Analytics & Best Practices | Meri G.  |
+| Sep 22 | TBD  | TBD  |
 | Sep 29 | Collaborating with Community Programs  | Christina H. & Bryan B.  |
 | Oct 6 | FY23 - Q3 Product Update  | TBD  |
 | Oct 13 | FY23 - Q3 Competitive Update  | Joe K.  |
