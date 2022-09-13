@@ -444,15 +444,15 @@ graph LR
 * Rate limiting: once per requester/MR per day
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb>
 
-#### Resident contributions labeler
+#### Leading Organizations labeler
 
 * Automation conditions:
   - MR was opened or updated
-  - The MR does not have the `Resident Contributor` label set
-  - The MR author is a [resident contributor](/handbook/engineering/workflow/code-review/#resident-contributor) based on the data we have on Sisense
+  - The MR does not have the `Leading Organization` label set
+  - The MR author is from a [leading organization](/handbook/engineering/workflow/code-review/#leading-organizations) based on the data we have on Sisense
 * Automation actions:
-  - Adds the `Resident Contributor` label
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/label_resident_contribution.rb>
+  - Adds the `Leading Organization` label
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/label_leading_organization.rb>
 
 #### Hackathon labeler
 
