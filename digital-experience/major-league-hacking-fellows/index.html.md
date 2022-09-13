@@ -38,7 +38,7 @@ Please list all stakeholders (name, email, title/role) who will be involved with
 | Name      | Role | GitLab Handle |
 | ----------- | ----------- | ----------- |
 | Lauren Barker| maintainer | @laurenbarker |
-| TBD| maintainer |  |
+| Megan Filo | maintainer | @meganfilo |
 | TBD| MLHF Pod Leader |  |
 | TBD| MLHF Fellow | |
 | TBD| MLHF Fellow | |
