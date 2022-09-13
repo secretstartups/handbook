@@ -14,7 +14,7 @@ description: "The Field Operation team's vision is to manage field business proc
 
 “Manage field business processes, systems, architecture, enablement, champion data integrity, provide insights and predictability through analytics”
 
-The term *"sales"* refers to the Sales Team and *"field"* includes the Customer Success Team. 
+The term *"sales"* refers to the Sales Team and *"field"* includes the Customer Success, Channel, and Alliances Teams.
 
 ### Key Tenets
 **Clarity**: for definitions, processes and events   
