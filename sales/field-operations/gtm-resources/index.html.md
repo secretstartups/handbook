@@ -1046,7 +1046,7 @@ Through the Executive Sponsor Program, we seek to:
 
 Example Sponsor Activities 
 - Introduction between the GitLab executive sponsor and customer contact
-- [Executive business reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/) 
+- [Executive business reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) 
 - Provide strategic and executive guidance, collaboration, and communication with customer contacts
 - Participate and contribute to account meetings and social events like dinner or lunch
 - Check-in/status emails to note progress and open lines of communication and feedback

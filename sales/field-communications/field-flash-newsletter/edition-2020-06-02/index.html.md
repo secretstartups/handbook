@@ -58,7 +58,7 @@ We have **launched a new read-only Slack channel called #field-fyi** to help str
 ----
 Our TAMs **launched Gainsight to manage customer relationships.** Gainsight enables us to manage customer health, execute Command Plan goals through success plans, and drive customer stage adoption – all to increase growth, retention, and predictability.
 
-Watch the [6-minute Gainsight Overview video](https://www.youtube.com/watch?v=vXwsWB8zAXA&feature=youtu.be) and [learn more in the handbook](/handbook/customer-success/tam/gainsight/).
+Watch the [6-minute Gainsight Overview video](https://www.youtube.com/watch?v=vXwsWB8zAXA&feature=youtu.be) and [learn more in the handbook](/handbook/customer-success/csm/gainsight/).
 
 ----
 There are **two new Education Services offerings** for customers and prospects:

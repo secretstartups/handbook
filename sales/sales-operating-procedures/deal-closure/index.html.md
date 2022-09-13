@@ -83,7 +83,7 @@ Additionally, during the negotiation phase you should also be working with the C
 
 This activity should produce a document that clearly articulates what done looks like and when done is successful. The document should be signed by an accountable individual from both parties and verbally discussed.
 
-#### 3.2.2 [Create Customer Success Plan](/handbook/customer-success/tam/success-plans/)   
+#### 3.2.2 [Create Customer Success Plan](/handbook/customer-success/csm/success-plans/)   
 
 **The SA and TAM work with the customer to create a Customer Success Plan.**  A Success Plan is an interactive map to align the purchase (including renewals!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re obtaining significantly more value than the cost of a product or service. Click on the link above to follow the steps to create a Customer Success Plan.
 

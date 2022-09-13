@@ -135,10 +135,10 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read about the [Proof of Value Deliverable](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 *  **Technical Account Managers (Material, - Handbook - 15 minutes)**
    - GitLab's Technical Account Managers serve as trusted advisors to GitLab's customers. This section outlines to TAM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
-   - Read the [TAM Handbook](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam)
-   - Read about [Customer Health Scores in the Handbook](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/)
-   - Read about [Success Plans in the Handbook](/handbook/customer-success/tam/success-plans/)
-   - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/tam/ebr/)
+   - Read the [TAM Handbook](/handbook/customer-success/csm/#what-is-a-technical-account-manager-tam)
+   - Read about [Customer Health Scores in the Handbook](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
+   - Read about [Success Plans in the Handbook](/handbook/customer-success/csm/success-plans/)
+   - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/csm/ebr/)
 *  **Professional Services Engineers (Material - Handbook - 10 minutes)**
    -Professional Services Engineers (PSEs) provide professional services on-site or remote deployment of GitLab technology and solutions as well as training. The PSE will act as the technical representative leading the direct interaction with the customer’s personnel and project teams by rolling out best practices.
    - Read the [PSE Role job description](https://about.gitlab.com/job-families/sales/professional-services-engineer/)
@@ -403,8 +403,8 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 #### Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
-   - [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
-   - [Using Gainsight within Customer Success](/handbook/customer-success/tam/gainsight/)
+   - [Customer Onboarding](/handbook/customer-success/csm/onboarding/)
+   - [Using Gainsight within Customer Success](/handbook/customer-success/csm/gainsight/)
    - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
 *  **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
