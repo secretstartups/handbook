@@ -678,7 +678,7 @@ For any questions regarding our Alliance partners, please reach out to the #alli
 ***Use Case 1: Partner Co-Sell (Marketplace transaction with no source credit)*** 
 
 If a deal is being transacted through **GCP Marketplace** or **AWS Marketplace**, then the following fields need to be filled out on the opportunity:
-- **Partner Co-Sell** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)* or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*  
+- **Resale Partner** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)* or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*  
 _*Be sure to use the correct SFDC account. Click on the link to confirm the GCP and/or AWS account.)_  
  
 ***Use Case 2: Partner Sourced Deal Registration (No Marketplace transaction)***  
