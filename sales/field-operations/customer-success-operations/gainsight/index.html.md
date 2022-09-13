@@ -591,6 +591,23 @@ GitLab customers will have an account and may have multiple subscriptions. Each 
 
 In Gainsight there is a tri-level structure, so an account will have multiple instances related to it. While we have the subscription ID mapped so we can see which subscriptions have instances, the visualization in Gainsight is a one-to-many relationship (Account:instances).
 
+### Journey Orchestrator Program Names
+
+When the CS Ops team creates a new program in Journey Orchestrator, utilizing an easy-to-follow naming convention will allow other Gainsight Administrators to understand its context. Try to use the following order:
+
+1. Issue # - Related issue number from the Customer Success Operations GitLab Project.
+2. Segment - CSM/CSE or Sales Segment this JO Program affects.
+3. Title - Description of the program’s purpose or objective.
+4. Region - The region/timezone this program is designed to serve.
+
+The naming convention is as follows:
+
+<strong>[Issue #] - Segment - Title (Region)</strong>
+
+E.g., `1661 - Scale - CI Enablement  (APAC)`
+
+From this program name, we are ble to quickly understand that it relates to Issue #1661, focuses on Scale segment customers in the Asia-Pacific region and is a CI Enablement program. Don’t forget to add the program to your preferred folder!
+
 ## Snowflake tables
 
 - [Monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_product_usage_wave_1_3_metrics_monthly) metrics
