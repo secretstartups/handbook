@@ -232,7 +232,7 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 | [Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Field Operations | Go-to resource for deal processing and facilitation |
 | [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Field Operations | Handbook page for GitLab Deal Desk and associated processes |
 | [Renewals Process Guide](https://about.gitlab.com/handbook/sales/sales-renewal-process/) | Field Operations | Handbook page outlining renewal process and policies | 
-| [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/tam/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SALs, TAMs, Customer Success) |
+| [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SALs, TAMs, Customer Success) |
 | [ISR Renewal Management](https://drive.google.com/drive/u/0/search?q=%22Renewal%20Oppty%20Management%22) | Shared doc | A shared document outlining the renewal management process for ISRs |
 | [Community Education / EDU Program](https://about.gitlab.com/handbook/marketing/community-relations/education-program/) | Community Relations | Resource that outlines The GitLab for Education Program which provides GitLab for free to students and faculty at educational institutions around the globe |
 

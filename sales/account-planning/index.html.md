@@ -49,7 +49,7 @@ Choose the "Land Account Plan" template in Gainsight. The team will not have as 
 
 ### Expand Account plans
 
-Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, TAM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/tam/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the TAM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
+Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, TAM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/csm/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the TAM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
 
 ## Components of an Account Plan
 
@@ -175,7 +175,7 @@ Account plans are living documents and are never truly complete. Plans will cont
 - What can we measure?
 - Have I verified my understanding with my champion?
 
-If a Technical Account Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/tam/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
+If a Technical Account Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
 
 A quarterly cadence to review and update plans can help to ensure that plans reflect our current understanding of the account and keep the account team aligned on plan strategy and execution. Major changes such as personnel changes, mergers/aquisitions, and competitive threats may trigger immediate review and updates. Structured review sessions can help keep the account team aligned and keep leadership informed of changes involving customers.
 

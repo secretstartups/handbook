@@ -202,7 +202,7 @@ TAMs can use the Customer Programs Research Template to research new program opp
 
 ## Create a CTA with a Digital Program playbook
 
-Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
+Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/csm/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
 
 See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/customer-success/playbooks/) for a list of current playbooks.
 

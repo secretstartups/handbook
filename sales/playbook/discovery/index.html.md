@@ -97,7 +97,7 @@ Leverage the TED questioning model (see below) to get the prospect to open up an
 <!-- blank line -->
 
 #### Five Whys
-Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
+Use the [Five Whys](/handbook/customer-success/csm/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
 
 <!-- blank line -->
 <figure class="video_container">
