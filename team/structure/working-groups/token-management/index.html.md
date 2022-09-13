@@ -46,6 +46,9 @@ The Token Management Working Group will deliver:
 | Member         | Hannah Sutor    | Senior Product Manager, Manage:Auth |
 | Member         | Alex Hanselka   | Senior Site Reliability Engineer |
 | Member         | Dominic Couture | Staff Security Engineer, Application Security |
+| Member         | Thomas Woodham  | Senior Engineering Manager, Secure |
+| Member         | Amar Patel      | Engineering Manager, Secure:Static Analysis |
+| Member         | Zach Rice       | Senior Backend Engineer, Secure:Static Analysis |
 
 ## Direction
 TBD
