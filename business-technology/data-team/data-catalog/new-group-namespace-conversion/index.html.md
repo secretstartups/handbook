@@ -60,8 +60,8 @@ Much of the data within and supporting the Group Namespace Conversion Dashboard 
 
 - Group Namespace: Top-level namespaces, which can hold subgroups and projects. The data in these KPIs and the related dashboard exclude personal namespaces.
 - Namespace Creation Date: Date (week) that new group namespace was created
-- [Verify Stage](https://about.gitlab.com/handbook/customer-success/tam/stage-adoption/#verify): Successful if group namespace registers a [ci_pipelines](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#continuous-integration) event in the first X days
-- [Create Stage](https://about.gitlab.com/handbook/customer-success/tam/stage-adoption/#create):  Successful if group namespace completes the [action_monthly_active_users_project_repo](https://about.gitlab.com/handbook/product/stage-and-group-performance-indicators/#create---smau---mau-conducting-git-write-operations) event in the first X days
+- [Verify Stage](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/#verify): Successful if group namespace registers a [ci_pipelines](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#continuous-integration) event in the first X days
+- [Create Stage](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/#create):  Successful if group namespace completes the [action_monthly_active_users_project_repo](https://about.gitlab.com/handbook/product/stage-and-group-performance-indicators/#create---smau---mau-conducting-git-write-operations) event in the first X days
 - Paid Plan: Indicates if namespaces are currently paid or free
 
 ### Available Dashboard Filters

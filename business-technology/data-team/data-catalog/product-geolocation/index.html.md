@@ -17,7 +17,7 @@ Understanding where your product is used around the world is an important step t
 
 Currently, the majority of GitLab's customers choose to [download, install, and host a GitLab self-managed instance](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#why-you-probably-want-gitlabcom), which is why we are [focused heavily on delivering a great self-managed customer experience](/direction/#strategic-challenges).
 
-To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/why-gitlab/) sends GitLab a weekly [service ping](/handbook/customer-success/tam/service-ping-faq/) at an instance-level by [enabling service ping on their self-managed instance](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#instance-level-statistics) or by sharing the values with our Customer Success team.
+To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/why-gitlab/) sends GitLab a weekly [service ping](/handbook/customer-success/csm/service-ping-faq/) at an instance-level by [enabling service ping on their self-managed instance](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#instance-level-statistics) or by sharing the values with our Customer Success team.
 
 This instance-level data allows GitLab to understand country-level statistics and trends in instance adoption, version adoption rate, and instance life cycle.
 
