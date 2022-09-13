@@ -190,7 +190,7 @@ Customers can get their subscription information and a list of users using a sea
 ### I Want to Escalate a Ticket
 
 To keep the term "_escalation_" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
-[account escalations](/handbook/customer-success/tam/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+[account escalations](/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
 
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
@@ -201,11 +201,11 @@ any of these are true:
 
 [More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
 
-Please open an **[account escalation](/handbook/customer-success/tam/escalations/)** if: 
+Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if: 
  - There is account level risk because of a single ticket or an aggregation of several issues.
  - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
-[More about account escalations](/handbook/customer-success/tam/escalations)
+[More about account escalations](/handbook/customer-success/csm/escalations)
 
 Please open an **emergency ticket** if:
  - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"

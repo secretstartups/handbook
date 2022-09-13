@@ -54,7 +54,7 @@ A very high percentage of starred tickets involve licenses and renewals. For gui
 
 **NOTE:** There are two other distinct situations, not discussed on this page:
 
-1. [Account Escalations / Escalated Customers](/handbook/customer-success/tam/escalations/)
+1. [Account Escalations / Escalated Customers](/handbook/customer-success/csm/escalations/)
 1. [Emergencies that become Account Escalations](/handbook/support/workflows/emergency-to-escalation-process.html)
 
 ### Mechanics of handling starred tickets
