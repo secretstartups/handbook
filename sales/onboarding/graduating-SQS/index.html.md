@@ -13,7 +13,7 @@ title: "Graduating from Sales Onboarding"
 In order to officially “graduate” from Sales Onboarding at GitLab and be awarded the [Sales Quick Start - Core Curriculum badge](https://gitlab.badgr.com/public/badges/4zi-duhsTHG-jtWFYVgGRQ), we have identified a few components that are considered milestones of achievement (many of these must be done concurrently to ensure completion): 
 
 #### Sales, Customer Success and SDR Roles:
-*  Complete [Sales Quick Start learning path in EdCast](https://gitlab.edcast.com/pathways/sales-quick-start) prior to the SQS Workshop (at least 80% completion required, though 100% is preferred). The Sales Quick Start pre-work is an 8 hour time commitment consisting of 16 action items.
+*  Complete [Sales Quick Start learning path in LevelUp](https://levelup.gitlab.com/courses/sales-quick-start) prior to the SQS Workshop (at least 80% completion required, though 100% is preferred). The Sales Quick Start pre-work is an 8 hour time commitment consisting of 16 action items.
    * 9 eLearning Courses
    * 7 Quizzes (Total of 60 multiple choice questions) 
    * 4 Free Response Questions 
