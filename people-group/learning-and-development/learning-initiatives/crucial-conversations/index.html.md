@@ -92,6 +92,7 @@ After you've completed the Crucial Conversations course at GitLab, there are a f
 # L&D Administrative Tasks: Setting up the Training 
 
 1. Open an issue on the Growth and Development issue board to organize sign ups and manager approval
+   1. Here is an example of a [past issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/353)
 1. When cohort is full, create Google sheet to organize participant information
 1. Tag the Total Rewards team on the issue with the participant user sheet and request that the license costs are added to their Growth and Development budget totals. Close the issue.
 1. Email Crucial Learning and requst an order form for the licenses needed. Indicate the start date as the day you'll have team members sign up for the course (1 week before self paced learning starts)
@@ -107,7 +108,3 @@ After you've completed the Crucial Conversations course at GitLab, there are a f
 1. Add all participants to the live event calendar invites 
 1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
 1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
-
-
-
-
