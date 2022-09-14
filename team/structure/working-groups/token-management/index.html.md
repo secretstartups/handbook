@@ -49,6 +49,7 @@ The Token Management Working Group will deliver:
 | Member         | Thomas Woodham  | Senior Engineering Manager, Secure |
 | Member         | Amar Patel      | Engineering Manager, Secure:Static Analysis |
 | Member         | Zach Rice       | Senior Backend Engineer, Secure:Static Analysis |
+| Member         | Lucas Charles   | Staff Backend Engineer, Secure:Static Analysis |
 
 ## Direction
 TBD
