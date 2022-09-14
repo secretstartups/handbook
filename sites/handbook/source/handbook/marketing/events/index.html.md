@@ -852,9 +852,9 @@ At GitLab owned events we will sometimes host 10 minute lightning meetings with 
 
 ## How to add events to [about.gitlab.com/events](/events/)
 
-In an effort to publicly share where people can find GitLab at events in person throughout the world, we have created [about.gitlab.com/events](/events). This page is to be updated by the person responsible for the event. To update the page, you will need to contribute to the [event master.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/events.yml).
+In an effort to publicly share where people can find GitLab at events in person throughout the world, we have created [about.gitlab.com/events](/events). This page is to be updated by the person responsible for the event. To update the page, you will need to contribute to the [events.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/content/events/index.yml#L70) starting after the `events` section (roughly line 70).
 If you need more information about our exact involment in an specific event please visit the marketing project in gitlab.com and search the name of the event for any realted issues. The "Meta" issue should include the most thorough and high level details about each event we are participating in. Place your event in the order in which it is happening. The list runs from soonest to furthest in the future.
-Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/events)
+Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/static/nuxt-images/events)
 
 
 If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/digital-experience/) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
@@ -866,7 +866,7 @@ If you don't have merge permissions, or if you're having trouble with the pipeli
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
   `MeetUp`, `Speaking Engagement`, `Webcast`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
-- **Date starts** - Day event starts
+- **Date starts** - Day event starts (Ex. `October 21, 2021`)
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
 - **Location** - city, state, provinces, districts, counties (etc depending on country), country where event will take place
@@ -883,11 +883,12 @@ If you don't have merge permissions, or if you're having trouble with the pipeli
   type: Conference
   date_starts: January 1, 2050 # Month DD, YYYY
   date_ends: January 3, 2050 # Month DD, YYYY
-  description: |
-               The Best DevOps Conference Ever brings together the best minds in the DevOps land. The conference consists of 3 full days of DevOps magic, literally magic. Attendees will have the opportunity to partake in fire talks and moderated sessions. This is one you won’t want to miss.
+  description: The Best DevOps Conference Ever brings together the best minds in the DevOps land. 
   location: Neverland, NVR
   region: APAC
-  social_tags: DEVOPS4LIFE
+  social_tags: 
+    - DEVOPS4LIFE
+    - DevOps
   event_url: https://2050.bestdevops.org
 ```
 
