@@ -144,45 +144,46 @@ team. The current division of responsibilities is:
 | Access Requests     | Internal License Requests  | @nabeel.bilgrami | @dnolan1         |
 |                     | Offboarding                | @jcolyer         | @nabeel.bilgrami |
 |                     | Onboarding                 | @jcolyer         | @lyle            |
-| Audits              |                            | @jcolyer         | @dnolan1         |
+| [Audits](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits) | | @jcolyer | @dnolan1 |
 | Calendly            | Management                 | @avilla4         | @lyle            |
 |                     | Procurement                | @jcolyer         | @dtragjasi       |
-| Forms               | Account Deletions          | @dtragjasi       | @jcolyer         |
-|                     | Internal Requests          | @dtragjasi       | @jcolyer         |
-|                     | Usage Ping Requests        | @dtragjasi       | @dnolan1         |
-| Pagerduty           | Management                 | @jcolyer         | @avilla4         |
+| Forms | [Account Deletions](https://gitlab.com/gitlab-com/support/support-ops/forms/account-deletion) | @dtragjasi | @jcolyer |
+| | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests-form) | @dtragjasi | @jcolyer |
+| | [Usage Ping Requests](https://gitlab.com/support/usage-ping-request) | @dtragjasi | @dnolan1 |
+| | [Customer Ticket Generator](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) | @jcolyer | @avilla4 |
+| Pagerduty | [Management](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty) | @jcolyer | @avilla4 |
 |                     | Provisioning               | @jcolyer         | @avilla4         |
-| Slack               | SGG Slackbot               | @dtragjasi       | @jcolyer         |
+| Slack | [SGG Slackbot](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot) | @dtragjasi | @jcolyer |
 |                     | Workflows                  | @dtragjasi       | @jcolyer         |
 | Status.io           | User management            | @jcolyer         | @lyle            |
 | Zapier              | Support Zap management     | @jcolyer         | @nabeel.bilgrami |
-| Zendesk Global      | Agent Sync                 | @nabeel.bilgrami | @avilla4         |
-|                     | Articles                   | @avilla4         | @jcolyer         |
-|                     | Automations                | @avilla4         | @dtragjasi       |
-|                     | Forms and Fields           | @nabeel.bilgrami | @avilla4         |
-|                     | Macros                     | @avilla4         | @dtragjasi       |
-|                     | Organizations              | @nabeel.bilgrami | @avilla4         |
-|                     | Procurement                | @jcolyer         | @lyle            |
-|                     | SLAs                       | @jcolyer         | @nabeel.bilgrami |
-|                     | Theme                      | @dtragjasi       | @jcolyer         |
-|                     | Ticket Round Robin         | @nabeel.bilgrami | @jcolyer         |
-|                     | Triggers                   | @avilla4         | @dtragjasi       |
-|                     | Views                      | @avilla4         | @dtragjasi       |
-|                     | ZD<>SFDC Sync              | @jcolyer         | @nabeel.bilgrami |
-|                     | Zendesk Apps               | @dtragjasi       | @avilla4         |
-| Zendesk US Federal  | Agent Sync                 | @dnolan1         | @jcolyer         |
-|                     | Automations                | @dnolan1         | @jcolyer         |
-|                     | Forms and Fields           | @jcolyer         | @dnolan1         |
-|                     | Macros                     | @dnolan1         | @jcolyer         |
-|                     | Organizations              | @dnolan1         | @jcolyer         |
-|                     | Procurement                | @jcolyer         | @lyle            |
-|                     | SLAs                       | @jcolyer         | @dnolan1         |
-|                     | Theme                      | @dnolan1         | @jcolyer         |
-|                     | Ticket Round Robin         | @dnolan1         | @jcolyer         |
-|                     | Triggers                   | @dnolan1         | @jcolyer         |
-|                     | Views                      | @dnolan1         | @jcolyer         |
-|                     | ZD<>SFDC Sync              | @jcolyer         | @dnolan1         |
-|                     | Zendesk Apps               | @dnolan1         | @jcolyer         |
+| Zendesk Global | [Agent Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/agents) | @nabeel.bilgrami | @avilla4 |
+| | [Articles](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/articles) | @avilla4 | @jcolyer |
+| | [Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations) | @avilla4 | @dtragjasi |
+| | [Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields) | @nabeel.bilgrami | @avilla4 |
+| | [Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros) | @avilla4 | @dtragjasi |
+| | [Organizations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations) | @nabeel.bilgrami | @avilla4 |
+| | Procurement                | @jcolyer         | @lyle            |
+| | [SLAs](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/sla-policies) | @jcolyer | @nabeel.bilgrami |
+| | [Theme](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-theme) | @dtragjasi | @jcolyer |
+| | [Ticket Round Robin](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-round-robin) | @nabeel.bilgrami | @jcolyer |
+| | [Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers) | @avilla4 | @dtragjasi |
+| | [Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views) | @avilla4 | @dtragjasi |
+| | [ZD<>SFDC Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global) | @jcolyer | @nabeel.bilgrami |
+| | [Zendesk Apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps) | @dtragjasi | @avilla4 |
+| Zendesk US Federal  | [Agent Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents) | @dnolan1 | @jcolyer |
+| | [Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations) | @dnolan1 | @jcolyer |
+| | [Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)           | @jcolyer | @dnolan1 |
+| | [Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)                     | @dnolan1 | @jcolyer |
+| | Organizations | @dnolan1 | @jcolyer |
+| | Procurement | @jcolyer | @lyle |
+| | SLAs | @jcolyer | @dnolan1 |
+| | [Theme](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme) | @dnolan1 | @jcolyer |
+| | [Ticket Round Robin](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-round-robin) | @dnolan1 | @jcolyer |
+| | [Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers) | @dnolan1 | @jcolyer |
+| | [Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views) | @dnolan1 | @jcolyer |
+| | [ZD<>SFDC Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal) | @jcolyer | @dnolan1 |
+| | [Zendesk Apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps) | @dnolan1 | @jcolyer |
 
 ## Code freeze
 
