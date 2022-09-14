@@ -337,25 +337,23 @@ If it’s impossible to find a replacement and the team member ends up taking th
 _Note: To stay in compliance with local laws we would follow [the New Zealand government website](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/) with regards to compensation for worked time during on-call._
 
 
-### Sick Leave
-
-* Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). 
-* Team members in New Zealand are entitled to 10 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least ten days’ sick leave. 
+### Statutory Sick Leave
+ 
+* Team members in New Zealand are entitled to 10 days' of statutory sick leave after six months of current continuous employment with GitLab. For each 12 months after meeting the above criteria, each team member gets at least ten days sick leave. 
 * If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
 
-* Sick Leave runs concurrently with GitLab PTO. 
+* Sick Leave runs concurrently with GitLab's [Sick Time Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting).
 
 *How to Apply:*
 * Team members must contact leaves@gitlab.com when reporting their leave.  
-    - In accordance with the Holidays Act, GitLab may require a medical certificat
+    - In accordance with the Holidays Act, GitLab may require a medical certificate
 
 * Designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
-
 
 * Unused sick leave will not be paid out to the team member upon termination of employment.
 
 **Injured Leave**
-* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. 
+* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO/Sick Time. 
 
 *How to Apply:*
 * Team members must notify the Absence Management team (leaves@gitlab.com) as soon as possible when they will need to go out on injured leave.
@@ -422,7 +420,7 @@ For more information related to this policy, please reivew the [Employment New Z
 <summary>Leave for Defence Force Volunteers</summary>
 
 * Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. 
-* This leave runs concurrently with GitLab PTO. 
+* This leave runs concurrently with GitLab PTO for up to 25 days. 
 
 *How to Apply:*
 * Team members must email the Absence Management team `leaves@gitlab.com` as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
