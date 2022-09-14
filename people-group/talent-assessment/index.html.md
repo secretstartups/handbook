@@ -144,6 +144,7 @@ Performance against these competencies should be weighted at 40%.
 
 * [Values Competencies](/handbook/competencies/#values-competencies)
 * [Remote Working Competencies](/handbook/competencies/#remote-work-competencies)
+* [Job Frameworks](https://about.gitlab.com/company/team/structure/#job-frameworks)
 * _(if applicable)_ [Manager and Leadership Competencies](/handbook/competencies/#manager-and-leadership-competencies) 
 
 ## What is "Growth"?
