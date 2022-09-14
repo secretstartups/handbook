@@ -34,8 +34,57 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
 - **Account Expansion -** Lead adoption expansion beyond the customer's desired use cases and further customer return on investment (ROI). Partner with Sales to identify expansion opportunities and ensure we realize the expansion potential of a customer account.
 - **Leading Business Reviews -**  Review and celebrate progress towards, or achievement of, the customer's desired business outcomes. Address challenges with a plan for mitigation, align on upcoming and future customer business objectives.
 
-## Responsibilities and Services
+## High-Level Responsibilities of a CSM
 
+<table>
+<thead>
+  <tr>
+    <th>Responsibility</th>
+    <th>Context</th>
+    <th>How We Measure</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/success-plans/">Success Plans</a></td>
+    <td>These plans are created in partnership with the customer and outline the agreed path to getting a customer to their desired business outcomes (e.g., improve cycle time) and the technical milestones required to get to these objectives (e.g., migration onto GitLab, overcoming a constraint)<br><br>These mutual plans enable the CSM to be proactive in the relationship, ensuring that progress towards the agreed outcomes. As trusted advisors, our role is to ensure that we understand what will drive value for the customer and have the associated plan.</td>
+    <td>Strategic: Every customer must have an active success plan<br><br>Growth: Here, the plans are more adoption-focused, with PR1 customers having a more tailored plan and PR2 customers being focused on successfully adopting their primary use case &amp; expanding into greater adoption</td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/onboarding/">Onboarding</a></td>
+    <td>Onboarding is a crucial time in the customer lifecycle, during which a positive or negative sentiment can last the partnership's length. This includes the period after upsell, where additional investment has been made, and often at which point a CSM is first assigned.<br><br>There are several onboarding steps in both the new and existing customer onboarding playbooks. The CSM's role is to ensure all of these topics and enablements have been covered and documented.</td>
+    <td>All customers for both Strategic and Growth are to be taken through the appropriate playbook (New, Existing Customer)</td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/cadence-calls/">Cadence Calls</a></td>
+    <td>The cadence call is a proactive call. For this call to be proactive, the CSM's responsibility includes:<br>
+    <ul><li>Preparing for the call by reviewing the success plan, what steps have been taken towards the customer's objectives, and what next steps need to occur</li><li>Creating an agenda that clearly calls out the next steps to be taken in the call, in addition to agenda points the customer has requested</li><li>Updating the agenda/preparing in advance progress made towards/completion of steps agreed in the previous call or async exchanges</li><li>Including recently released features that are in line with the customer's objectives and use cases</li><li>Actively listening throughout the call, asking questions to understand the customer's needs and requirements</li><li>Follow-up in email or via the collaboration issue on the agreed next steps and the dates by which the customer can require these next steps to be completed</li></ul></td>
+    <td>Call frequency:<br><ul><li>Strategic: a PR1 customer is engaged bi-weekly, and a PR2 customer monthly at a very minimum</li><li>Growth: PR1 is monthly or bi-monthly with occasionally bi-weekly depending on need, and a PR2 customer is typically quarterly</li></ul><br><br>A CSM/CSE can expect to conduct a minimum number of calls as follows:<br><ul><li>Strategic CSMs: 5 calls per week</li><li>Growth CSMs: 10 calls per week</li><li>Scale CSEs: 15 calls per week</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/stage-enablement-and-expansion/">Adoption &amp; Expansion</a></td>
+    <td><ul><li>Drive the platform adoption (use cases and licenses) in line with a customer's desired business outcomes is at the heart of the CSM role</li><li>Understand what the customer is currently adopting and partner with the customer on enabling this use case/feature</li><li>When an enablement or expansion playbook is open, the CSM actively drives the associated motion in the customer account</li></ul></td>
+    <td>Strategic: At any given time, a Strategic CSM will be driving enablement with at least half of their customer base (~6) and actively driving expansion with 3-4<br><br>Growth: Growth CSMs' primary objective is adoption, so CSMs should be driving enablement towards the primary use case for all of their customers in line with the success plan, and they should be driving expansion for half of their PR1 customers (~6)</td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/ebr/">Executive Business Reviews</a></td>
+    <td><ul><li>We hold the business review at month 6, which provides enough time in a contract year to get a relationship back on track if positive progress is not made</li><li>The CSM is the DRI for scheduling, preparing for, presenting, and following up on the EBR</li><li>When a customer is resistant, the CSM uses an upcoming cadence call for a 'mini-EBR' to drive the value of having the 'zoom-out’ conversation to realign on progress, objectives and advocate for a more strategic EBR as a follow-up</li></ul></td>
+    <td><ul><li>Strategic: 1 EBR per customer per year at a minimum</li><li>Growth: 20% of book of business is offered an EBR per year, in-line with the goal of having 20% of the book of business be PR1</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/renewals/">Renewal</a></td>
+    <td><ul><li>It is the job of the CSM to ask the ‘soft’ renewal question 3-4 months before the renewal</li><li>This conversation and the outcome of this conversation are tracked in Gainsight using the 'renewal call’ meeting type (within the timeline entry)</li></ul></td>
+    <td>Every customer regardless of segment or priority</td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/risk-mitigation/">Managing Risk</a></td>
+    <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for often communicating to the account team and their manager about risk in their accounts and [triggering/leading the escalation process](/handbook/customer-success/csm/escalations/) where needed</li></ul></td>
+    <td><ul><li>Risk is actively managed for both Strategic and Growth</li><li>Once red, a customer becomes PR1 in both segments</li></ul></td>
+  </tr>
+</tbody>
+</table>
+
+Please reference this page for an overview of the [CSM Rhythm of Business (daily to yearly)](https://about.gitlab.com/handbook/customer-success/csm/rhythm/)
 Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](/handbook/customer-success/csm/services/)
 
 ## FY23 Goals (Big Rocks)

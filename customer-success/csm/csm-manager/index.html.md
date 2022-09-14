@@ -38,6 +38,45 @@ This page provides an overview on relevant CSM leadership processes.
 | [Robert Clark](https://about.gitlab.com/company/team/#robclark14)              | PubSec    | Manager     | PubSec                  | Strategic          |
 | [Steven Terhar](https://about.gitlab.com/company/team/#SteveTerhar)            | PubSec    | Manager     | PubSec                  | Strategic          |
 
+## CSM Manager Responsibilities & Requirements
+
+<table>
+<thead>
+  <tr>
+    <th>Responsibility</th>
+    <th>Context</th>
+    <th>How We Measure</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Account Reviews in 1:1s</td>
+    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a weekly basis, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/tam/tam-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
+    <td>Accounts are reviewed with CSMs on a weekly basis.</td>
+  </tr>
+  <tr>
+    <td>Reviews &amp; Coaching</td>
+    <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming call agendas, open playbooks and recently closed playbooks, account health and triage issues and success plans for coaching opportunities - see below for more detail on these reviews</li></ul></td>
+    <td>Managers follow the <a href="/handbook/customer-success/tam/tam-manager/#customer-onboarding-review">review guidelines documented</a>, review outside of the 1:1 </td>
+  </tr>
+  <tr>
+    <td>Call Reviews</td>
+    <td><ul><li>For coaching, a CSM manager is to review CSM calls</li><li>It is encouraged that the CSM suggests the call for review, highlighting a call that went very well, or one in which there was a challenge, and talking through coaching would be of value to the CSM</li></ul></td>
+    <td>1-2 calls per week (total) from Chorus for their team.</td>
+  </tr>
+  <tr>
+    <td>Team development</td>
+    <td><ul><li>Once per quarter, the manager schedules an additional 1-hour sync with their team member to discuss their IDP and progress/obstacles</li><li>The CSM is responsible for building and maintaining this document in partnership with their manager</li><li>When a CSM is working towards a promotion, the promotion doc is built and collaborated on in partnership between the CSM and CSM manager. It is the manager’s role to ensure the areas the CSM needs to work on in order to move towards the promotion are clear and articulated with the CSM</li></ul></td>
+    <td>An active IDP in place for every team member, reveiwed on a quarterly basis</td>
+  </tr>
+  <tr>
+    <td><a href="/handbook/customer-success/csm/escalations/">Escalations</a></td>
+    <td>It is the role of the manager to understand <a href="/handbook/customer-success/csm/escalations/">the escalation process</a>, coach their CSM through it, and step in to assist in managing when the CSM is not getting the progress needed.</td>
+    <td>Active manager participation in an escalation, including ensuring the update cadence is met and the teams are aligned</td>
+  </tr>
+</tbody>
+</table>
+
 ## Review Processes
 
 Below are some of the top processes to be performed by CSM Managers on a recurring cadence. The overall goal is to ensure the CSM Manager has a strong grasp on their team's group of customers through various data points (health, Support tickets, Onboarding objects, renewals, etc.). Resources such as Dashboards and videos are included for easy reference.
