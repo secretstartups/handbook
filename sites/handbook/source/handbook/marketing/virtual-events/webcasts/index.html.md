@@ -980,7 +980,7 @@ In the event you need to change the date of your webcast, please follow the step
 1. Update the webcast epic so the new date is reflected on the title
 1. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
 1. Update issue due dates based on the new timeline and communicate changes to relevant team members.
-1. Update on the [events page](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/events.yml) and [resources page](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/resources.yml).
+1. Update on the [events page](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) and [resources page](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/resources.yml).
 1. Update the date in BrightTALK
    * *An email will automatically send from BrightTALK to the registrants.*
 
