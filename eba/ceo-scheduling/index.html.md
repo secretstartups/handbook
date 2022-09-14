@@ -116,7 +116,7 @@ The initial content review for the CEO should be in bullet points only.
 Then the CEO can talk through the slides and a team member can capture the CEO's tone of voice as he talks through the talk.
 This helps ensure the talk track is in the CEO's voice.
 
-The Chief of Staff to the CEO is responsible for making sure that all of the CEO's Evangelism engagements are on our events page by updating the [events.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/events.yml) file.
+The Chief of Staff to the CEO is responsible for making sure that all of the CEO's Evangelism engagements are on our events page by updating the [events.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) file.
 
 ### Pick Your Brain meetings
 
