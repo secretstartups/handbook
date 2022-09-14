@@ -77,13 +77,10 @@ Please identify and describe the deliverables for your project(s) and the ideal 
 
 | **Issue**      | **Description** | **Deadline** |
 | ----------- | ----------- | ----------- |
-| [Add 0 to spacing helper classes](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/193)| Center the caret in the dropdown component. | October, 17th |
 | [Vertically align dropdown caret](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/194)| Vertically align dropdown caret | October, 17th |
 | [Accordion component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/133)| Create a accordion component in the design system | November, 17th |
 | [ENG: Accessible and compliant dropdowns](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/132)| Iterate on dropdown component to. be accessible | November, 17th |
 | [Implement the Storybook/Figma plugin](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/168)| Implement the Storybook/Figma plugin and make it available for use in the project | November, 17th |
-| [ENG: Use yarn as the package manager for this project](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/156)| Implement yarn as the package manager for the Slippers Design System | December, 17th |
-| [Clean-up component documentation](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/191)| Cleaner, easier maintain solution for our storybook documentation. | December, 17th |
 
 ## MLH Partner Success Contact
 

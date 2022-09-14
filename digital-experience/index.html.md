@@ -315,7 +315,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
       <li><a href="/handbook/marketing/digital-experience/marketo-page-template/">Marketo Page Template</a></li>
       <li><a href="/handbook/marketing/digital-experience/navigation-repository/">Navigation Repository</a></li>
       <li><a href="/handbook/marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
-      <li><a href="/handbook/marketing/digital-experience/slippers-design-system/">Slippers Design System</a></li>
+      <li><a href="https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui">Slippers Design System</a></li>
       <li><a href="/handbook/marketing/digital-experience/video-bands/">Video Bands</a></li>
       <li><a href="/handbook/marketing/digital-experience/website/">Website</a></li>
     </ul>
