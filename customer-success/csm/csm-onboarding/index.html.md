@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Onboarding"
+title: "CSM Onboarding"
 ---
 
 ## On this page
@@ -9,7 +9,7 @@ title: "TAM Onboarding"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -20,7 +20,7 @@ Onboarding for Technical Account Managers is a guided, methodical process to ens
 
 #### Chorus Playlist
 
-- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
 
 ## Meeting shadowing
 
@@ -28,6 +28,6 @@ To learn how we conduct both customer meetings and internal planning meetings, a
 
 [Meeting Shadowing](/handbook/customer-success/csm/csm-onboarding/shadowing/)
 
-## TAM Office Hours
+## CSM Office Hours
 
-We host a TAM office hour weekly at 3:00PM and 11:00PM UTC to answer questions in a judgment-free space. You can add your questions to the agenda document linked in the Google Calendar invite and hop on the call to work through questions or learn how to find helpful resources.
+We host a CSM office hour weekly at 3:00PM and 11:00PM UTC to answer questions in a judgment-free space. You can add your questions to the agenda document linked in the Google Calendar invite and hop on the call to work through questions or learn how to find helpful resources.
