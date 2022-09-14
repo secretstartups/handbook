@@ -68,7 +68,7 @@ Field team members and their managers are encouraged to have regular coaching an
 1. Encourage team members to conduct their own self-assessment to
     - Identify 2 or more strengths field team members intend to continue to leverage to deliver positive results
     - Identify 2 specific skills / behaviors field team members would like to improve upon
-1. Complete a similar assessment for each of his or her direct reports
+1. Complete a similar assessment for each of their direct reports
 1. Next, meet with team members to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
 
 Field team members are also encouraged to identify and regularly engage with an accountability partner to maintain focus on development plans and provide ongoing feedback.
