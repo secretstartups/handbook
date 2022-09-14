@@ -63,7 +63,7 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/stage-enablement-and-expansion/">Adoption &amp; Expansion</a></td>
-    <td><ul><li>Drive the platform adoption (use cases and licenses) in line with a customer's desired business outcomes is at the heart of the CSM role</li><li>Understand what the customer is currently adopting and partner with the customer on enabling this use case/feature</li><li>When an enablement or expansion playbook is open, the CSM actively drives the associated motion in the customer account</li></ul></td>
+    <td><ul><li>Driving platform adoption (use cases and licenses) in line with a customer's desired business outcomes is at the heart of the CSM role</li><li>Understand what the customer is currently adopting and partner with the customer on enabling this use case/feature</li><li>When an enablement or expansion playbook is open, the CSM actively drives the associated motion in the customer account</li></ul></td>
     <td>Strategic: At any given time, a Strategic CSM will be driving enablement with at least half of their customer base (~6) and actively driving expansion with 3-4<br><br>Growth: Growth CSMs' primary objective is adoption, so CSMs should be driving enablement towards the primary use case for all of their customers in line with the success plan, and they should be driving expansion for half of their PR1 customers (~6)</td>
   </tr>
   <tr>
