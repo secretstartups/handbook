@@ -409,9 +409,11 @@ Thank you for your interest in this [insert event type]. This event has conclude
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
 ## Adding a Registrant after Marketo LP is Closed
-If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions. 
+If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions.
 
-** Important context: The landing page and form themselves have no bearing on whether or not someone is synced. The sync relies solely on `Program Members` and their statuses. Thus, a person can fill out a form, but if their program member status is never updated to `Registered`, they will never sync over into the webcast in Zoom. Likewise, we can update someone's status to `Registered` without any form every being filled out, and they will still sucessfully sync to Zoom.
+**IMPORTANT NOTE:** Field Marketing does not have access for the below actions. Please ping Marketing Operations in the `#mktgops` Slack channel to add registrants when needed.
+
+Important context: The landing page and form themselves have no bearing on whether or not someone is synced. The sync relies solely on `Program Members` and their statuses. Thus, a person can fill out a form, but if their program member status is never updated to `Registered`, they will never sync over into the webcast in Zoom. Likewise, we can update someone's status to `Registered` without any form every being filled out, and they will still sucessfully sync to Zoom.
 
 1. Navigate to the `Database` tab in Marketo
 1. In the quick find box, type in the person's email and click the magnifying glass to search (If they do not exist, click `NEW` in the upper ribbon and add a `new person`. It will take up to 10 minutes for them to then show in the lead database)
