@@ -76,19 +76,18 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 
 Being a diverse business has been shown to greatly benefit a business on multiple fronts, with Talent, Investors and Customers all wanting to see clear and meaningful impact. Here are some interesting insights from a number of reports: 
 
-The [McKinsey latest report Diversity Wins](The McKinsey latest report Diversity Wins provided some amazing insights into how diversity can enhance business performance had some interesting and exciting statistics:
+The [McKinsey latest report Diversity Wins](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters) provided some amazing insights into how diversity can enhance business performance had some interesting and exciting statistics:
     * Top quartile on gender diversity meant a 25% likelihood of financial outperformance than the bottom quartile
     * Top quartile on ethnic diversity meant a 36% likelihood of financial outperformance than the bottom quartile
 
 The [Deloitte 2021 Global Human Capital Trends: Special report](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html)  also provided some great insights into how Diversity, Inclusion & Belonging is perceived by team members & outside talent. 
-    * Organizations embracing a diverse and inclusive culture have a 22% lower turnover rate and a 22% increase in employee productivity
-    * 93% of respondents agreed that belonging drives organisational performance 
-    * 55% of respondents felt that leadership only addressed racial injustice by writing or speaking about it, not by taking action
+    - Organizations embracing a diverse and inclusive culture have a 22% lower turnover rate and a 22% increase in employee productivity
+    - 93% of respondents agreed that belonging drives organisational performance 
+    - 55% of respondents felt that leadership only addressed racial injustice by writing or speaking about it, not by taking action
 
 In the [2021 Edelman Trust research](https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf) it shows that it may be very important to customers and investors to know where an organization stands on societal issues. 86% percent of global respondents expect CEOs to publicly speak out about societal challenges, which of course can extend to the wider E-Group. 
 
-[2021 Axios-Harris Poll 100](
-The Axios Harris Poll 100 - Harris Pollhttps://theharrispoll.com › Partners › Media Partners), which ranks US organizations for their reputation in the marketplace, noted that organizations “with a clear point of view and that deliver not only great products but also an impact on society” ranked at the top of the list.
+[2021 Axios-Harris Poll 100](https://theharrispoll.com/partners/media/axios-harrispoll-100/), which ranks US organizations for their reputation in the marketplace, noted that organizations “with a clear point of view and that deliver not only great products but also an impact on society” ranked at the top of the list.
 
 **This shows that the impact on being an awesome Executive Sponsor can and will drive business outcomes!**
 
@@ -309,7 +308,7 @@ A GitLab team member or team members who are responsible and accountable for str
 * Operational lead/leaders of the TMRG
 * Meets with the DIB team on a quarterly basis as a minimum
 * Responsible for submitting annual strategy using the [Annual Strategy Template](https://docs.google.com/presentation/d/1Zpz6z_0x3rbjYzUd6fSAojg8ME3FKfWPrI7cD4HmV48/edit?usp=sharing) 
-* Responsible for submitting a quarterly strategy using the [Quarterly Strategy issue template] () for the TMRG
+* Responsible for submitting a quarterly strategy using the [Quarterly Strategy issue template in the DIB project](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new#) for the TMRG
 * Work with business leaders on the success of DIB and the TMRG at GitLab
 * Facilitate TMRG meetings both async and sync ensuring inclusivity across geographical regions
 * Serve as contact for any team, department, or other GitLab team member requesting partnership or education with the TMRG
