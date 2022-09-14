@@ -27,6 +27,6 @@ Click here for a [downloadable version](https://lucid.app/documents/view/fd53487
 
 
 
-#### Mid-Touch Rhythm of Business
+#### Growth Rhythm of Business
 
-While the motions in the rhythm of business will remain the same as above, the [Mid-Touch](/handbook/customer-success/csm/segment/mid-touch/) CSM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Mid-Touch CSM, please see the [Mid-Touch Segment handbook page](/handbook/customer-success/csm/segment/mid-touch/#rhythm-of-business).
+While the motions in the rhythm of business will remain the same as above, the [Growth](/handbook/customer-success/csm/segment/mid-touch/) CSM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Growth CSM, please see the [Growth Segment handbook page](/handbook/customer-success/csm/segment/mid-touch/#rhythm-of-business).
