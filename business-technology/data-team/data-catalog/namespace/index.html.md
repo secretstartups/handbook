@@ -16,7 +16,7 @@ description: "This page defines the Namespace along with the relationship to Wor
 **NAMESPACE** 
 is a container or grouping of common features available in the application.  Features are determined by a subscription assigned to a namespace and subsequent namespaces will have the same features. Subscriptions can only be assigned to top level `Ultimate Namespaces`.  Namespace Types are User, Group, Subgroup and Project.  Only User and Group namespaces can be top level namespaces.  
 
-For additional existing documentation on Namespaces, please refer to the dedicated docs.gitlab.com section on Namespaces [here](https://docs.gitlab.com/ee/user/group/index.html#namespaces). 
+For additional existing documentation on Namespaces, please refer to the dedicated docs.gitlab.com section on Namespaces [here](https://docs.gitlab.com/ee/user/namespace/). 
 
 Paid Features are purchased through [Subscriptions and Licenses](https://about.gitlab.com/pricing/licensing-faq/#what-do-i-need-in-order-to-use-my-subscription-or-license).  `Subscriptions` are assigned to a namespace for Gitlab.com SaaS Instances and `Licenses` are assigned at the Instance level of Self-Managed Implementations.  
 
