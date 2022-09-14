@@ -53,7 +53,7 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 | Issue | Test Length | Status | 
 | ------ | ------ | ------ |
-| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1) | 2022-09-14 to 2022-09-28 | Contruction |
+| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1) | 2022-09-14 to 2022-09-28 | Live |
 |  |  |  |
 
 ### Completed A/B Tests & Results 
