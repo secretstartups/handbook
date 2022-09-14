@@ -16,3 +16,4 @@ description: "Learn more about working with various members of the marketing tea
 - [Ray Leihe's README (VP Marketing Strategy & Platforms)](/handbook/marketing/readmes/ray-leihe.html)
 - [Dave Steer's README (VP Product Marketing)](/handbook/marketing/readmes/dave-steer.html)
 - [Jean-Baptiste Larramendy's README (AVP, Sales Dev)](/handbook/marketing/readmes/jean-baptiste-larramendy.html)
+- [Carrie Maynard's README (VP, Integrated Marketing)](/handbook/marketing/readmes/carrie-maynard.html)
