@@ -20,10 +20,10 @@ The following incentives are available for GitLab team members. Also see our sep
 
 The number of discretionary bonuses given divided by the total number of team members, in a given period as defined. The discretionary bonuses per team member target is > 0.1. This analysis can be found on the [People Group Dashboard](https://app.periscopedata.com/app/gitlab/482006/People-Group-KPIs).
 
-Discretionary bonuses are measured in BambooHR, as are the number of team members, in a given period as defined.
+Discretionary bonuses are measured in Workday, as are the number of team members, in a given period as defined.
 
 1. Calculate the number of the discretionary bonuses per month
-  * Pull the "Bonus" Report from BambooHR.
+  * Pull the "GitLab Team Member Discretionary Bonus" Report from Workday.
   * Add the report to the metrics spreadsheet. Remove all data for bonuses other than discretionary bonuses and those not within the last rolling 12 months.
   * Populate the Last Rolling 12 Months Expense Table
 1. Determine the percentage of bonuses granted for the Company
@@ -79,7 +79,7 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 *Examples of a valid discretionary bonus*
  - The reason for the bonus is that this person (X, a Technical Writer) has single-handedly stepped in to act as a part-time documentation engineer in the absence of a full-time engineer.
 The person's history of contributions is plain to see here: (Nominator included links to boards, issues or merge requests)
-In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continues to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically: Been active to see the Technical Writing team to succeed: /handbook/values/#see-others-succeed. X delivers for the team in lots of MVCs: /handbook/values/#minimal-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are boring: /handbook/values/#boring-solutions, in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
+In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continue to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically: Been active to see the Technical Writing team to succeed: /handbook/values/#see-others-succeed. X delivers for the team in lots of MVCs: /handbook/values/#minimal-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are boring: /handbook/values/#boring-solutions, in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
 
 * I’d like to nominate X for a discretionary bonus for exhibiting the values for results, efficiency, and collaboration. While the whole backend engineers in the X team were OOO, despite it wasn’t his team, X stepped in and handled a problem (link) that was blocking a deploy. X was able to debug the problem, not an easy one by the way, communicate it to the different counterparts, and also fix it. X also spotted that it could affect other features and provide a way to fix them as well.
 
@@ -88,7 +88,7 @@ You can read more about the process in [our handbook](/handbook/incentives/#nomi
 
 *Examples of invalid discretionary bonus*
 
-* "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answer to questions.  X truly embodies GitLab's value of efficiency, collaboration and results"
+* "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answers questions.  X truly embodies GitLab's value of efficiency, collaboration and results"
 * "X has continually met or exceeding their sales quota for 3 months"
 * "X is always willing to jump in even at the last moments to help out a team member"
 * "X has helped to update handbook pages, keeping the handbook alive"
@@ -104,8 +104,8 @@ Some tips for knowing if someone is going above and beyond:
 
 - Look at other successfully approved bonuses in that person's stage. Is this work similar?
 - Look at the level above the person's current job responsibilities. Do their actions exceed their current role?
-- Look at the impact of the person's work across the wider organization. Is the work done has a large-scale impact outside of their team or stage?
-Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the nominator / manager will be asked to provide further content and details.
+- Look at the impact of the person's work across the wider organization. Does the work have a large-scale impact outside of their team or stage?
+Any bonus submitted that does not include clear and valid reasons for submission may be denied and the nominator / manager will be asked to provide further content and details.
 
 #### Multiple Discretionary Bonuses
 
@@ -155,7 +155,7 @@ graph TD;
 ```
 
 #### Working Group Bonus
-1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group Working Group Bonus.
+1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, use the  Working Group Bonus.
 1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a Working Group Bonus.
 1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-workday) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
@@ -216,7 +216,7 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
   * Quirkiness: What to say? Do you want someone washing grapes or painting a wall in a call, just invite him.
 
 * A Marketing team member received a bonus for:
-  * Transparency: The marketing team member always works in the open. In our 1:1s she is very clear on her focus and aligns priorities with team priorities. Every thing she is working on links to an issue.
+  * Transparency: The marketing team member always works in the open. In our 1:1s she is very clear on her focus and aligns priorities with team priorities. Everything she is working on links to an issue.
   * Efficiency: The marketing team member is an excellent example of someone who can get multiple things done in a short amount of time. She can efficiently manage many high quality projects without getting bogged down in the details.
   * Collaboration: The marketing team member worked with the VP of Scaling to update the general handbook to make it prettier. This shows she collaborates well outside of her team. The marketing team member has also been helping a colleague with content management.
   * Directness: The marketing team member gives excellent review feedback on blog posts. She is very direct and not afraid of perfection.
@@ -276,7 +276,7 @@ We aim to make a significant impact in our efforts to foster an environment wher
 We do the smallest thing possible and get it out as quickly as possible. The value award for Iteration should be awarded to a team member that contributed or displayed iteration that led to faster results through for example: setting a due date, minimal viable change (MVC) or low level of shame.
 
 #### [Transparency](/handbook/values/#transparency) Award
-By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for transparency should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of single source of truth and saying why not what.
+By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for transparency should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of a single source of truth and saying why not what.
 
 #### Criteria for value awards:
 - Significant contribution or display of GitLab Value in this Fiscal year.
@@ -291,9 +291,9 @@ All team members can make nominations for both The DZ Award and Values Awards. W
 
 ##### Overview of the nomination process:
 - When the nomination window opens managers and the Department Heads can gather nominations.
-- The Department Head has to ensure the nominations come in the correct format as described below and the People Business Partners will work with the leaders to finalise the list of nominees:
+- The Department Head has to ensure the nominations come in the correct format as described below and the People Business Partners will work with the leaders to finalize the list of nominees:
   - For The DZ Award there’s [this nomination template](https://docs.google.com/document/d/1I1zpTCmoC1_1uU56xBmLXMwZYvODsmyVU0CEAPBekYg/edit#heading=h.5ahg1o4v53q7) which should be filled out to bring forward a nomination.
-  - For The Values awards we’ll gather nominations via [this form](https://forms.gle/Pt8iPA3wg1iiG3nHA) and fill out [this template](https://docs.google.com/document/d/1M8GMh7JtcBDHw6A5wNlkq08YvCSwUjrkjqNK_5hEVlE/edit#) only for final nominees on a Division level.
+  - For The Values awards we’ll gather nominations via [this form](https://forms.gle/Pt8iPA3wg1iiG3nHA) and fill out [this template](https://docs.google.com/document/d/1M8GMh7JtcBDHw6A5wNlkq08YvCSwUjrkjqNK_5hEVlE/edit#) only for final nominees at theDivision level.
 - When the nomination window closes People Business Partners will ensure all nomination documents are completed before calibration.
 - People Business Partners will then calibrate between department nominations with the E-group leader to select one team member nomination for The DZ Award and up to one team member per Value for the Values Awards.
   - Engineering and Sales will be able to nominate two team members for The DZ Award.
@@ -328,7 +328,7 @@ If a team member has been referred, the People Connect team will review team mem
 
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
 
-* In the event that someone wants to refer another candidate to GitLab before they have started the referring party must have a sign contract at the time of the new candidate's application.
+* In the event that someone wants to refer another candidate to GitLab before they have started, the referring party must have a signed contract at the time of the new candidate's application.
 
 * In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter screens the candidate a referring party cannot be added to their profile after. The candidate source would be Prospecting by the GitLab sourcer.
 
@@ -340,8 +340,8 @@ If a team member has been referred, the People Connect team will review team mem
 
 #### Temporary Add-on Campaign additional tracking for payout
 
-1. Talent Acquisition Manager will track all referrals set to hired in time period of Add-on campaign.
-2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
+1. Talent Acquisition Manager will track all referrals set to hired in the time period of Add-on campaign.
+2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referred new hire's 3 month employment at GitLab.
 3. People Connect will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Get Together Grant
@@ -352,7 +352,7 @@ Start your quarter off by getting to know someone new at GitLab, or meeting some
 1. To use the grant, get together with a team member and expense up to $50 USD for in-person meet-ups or $25 USD for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug, and Nov) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
 _Please note, Get Together expenses that are submitted outside of these months will not be approved and any amount over the allotted $50 USD per person for in-person and $25 USD per person for remote get togethers will not be approved. Limit one Get Together Grant per person the first month of each quarter._
 1. Team members can plan, pay for, and expense a Get Together in an eligible month (Feb, May, Aug, and Nov) for an activity or expense that allows them to get together with another team member later in that quarter.
-1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26).
+1. Once you participate in a Get Together with another team member, share your experience and a few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26).
 
 #### Group Get Togethers
 
@@ -397,9 +397,9 @@ All events should include at least *4 people.* Please ensure the activity is one
 Please list any events or activities in our [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing), so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
 
 When traveling and attending the event, please:
-- Use "Conference" PTO in PTO by Roots to mark your plans timeframe.
+- Use "Conference" PTO in PTO by Roots to mark your plan timeframe.
 - Change your GitLab status to reflect that you are not available for work. 
-- Make sure your manager and your team is aware of your plans.
+- Make sure your manager and your team are aware of your plans.
 
 Everyone is encouraged to plan their Visiting Grant activities according to our [Flexible PTO](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) policies.
 
@@ -408,10 +408,10 @@ Everyone is encouraged to plan their Visiting Grant activities according to our 
 Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets.
 
 1. Team members should plan to have gatherings with a group of at least 4 people. 
-1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accomodations. 
+1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accommodations. 
 1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses.
 1. Each team member can choose to participate in as many events as they like as long as they can do this within budget. If the team member is attending both local and long-distance events, the $500 local events budget is supplemented by an additional $500 for a grand total of the $1000 travel budget.
-1. For some team members, $1,000 is insufficient for participation in at least one event. To qualify for an exception, you would not have any available options within the $1,000 expense cap. This means that the team member is in a relatively remote area and does not have viable options for meeting with other team members within budget. If the team member lives in an area with at least four team members, they should explore meeting with this group before requesting any exception. For example, if there were not an event planned in DC, a team member should first explore opportunities to meet with the over 70 team members in the DC metro area before requesting additional funds. If you believe that you fall into the exception bucket, please fill out the [exception form](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/new) by choosing the Fy23Q3VisitingGrantExceptions template that can be found in the "description" dropdown. Your situation can be considered by your manager and then a member of the CoST to the CEO Team who will evaluate based on the criteria captured above. 
+1. For some team members, $1,000 is insufficient for participation in at least one event. To qualify for an exception, you would not have any available options within the $1,000 expense cap. This means that the team member is in a relatively remote area and does not have viable options for meeting with other team members within budget. If the team member lives in an area with at least four team members, they should explore meeting with this group before requesting any exception. For example, if there is  not an event planned in DC, a team member should first explore opportunities to meet with the over 70 team members in the DC metro area before requesting additional funds. If you believe that you fall into the exception bucket, please fill out the [exception form](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/new) by choosing the Fy23Q3VisitingGrantExceptions template that can be found in the "description" dropdown. Your situation can be considered by your manager and then a member of the CoST to the CEO Team who will evaluate based on the criteria captured above. 
 
 ##### What can be expensed
 
@@ -427,7 +427,7 @@ Preference using your budget toward booking air travel through TripActions befor
 
 To reimburse GitLab, please fill out the [Travel Grant Reimbursements template](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/new#) by choosing the "Fy23Q3VistingGrantReimbursements" description to alert your manager and allow us to track repayments. Direct deposit instructions will be sent to you and tailored to your location. All reimbursement deposits **must be received by GitLab by 2022-10-31**.
 
-If more than 10 people are traveling to a central location and booking a hotel, or if you are booking catering for the event, we require these purchases to have a purchase order to ensure the best rates. All purchases must be made following the [procument process](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab).
+If more than 10 people are traveling to a central location and booking a hotel, or if you are booking catering for the event, we require these purchases to have a purchase order to ensure the best rates. All purchases must be made following the [procurement process](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab).
 
 You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event.
 
@@ -462,8 +462,8 @@ We'll attempt to document answers to frequently asked questions in the handbook,
 1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
    1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 1. Am I eligible to participate in the Q3 Visiting Grant if I'm on an approved Leave of Absence?  
-   1. While utilizing the Visiting Grant is completely optional and voluntary, and since it's intent is to allow Team Members to get together in person, yes, you are eligible to participate in the Q3 Visiting Grant program as this is not considered a business related expense. Other business expenses related to completing work during a leave of absence are not allowed, as per our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/#-expense-policy-summary).
-1. My significant other will be traveling with me, should I use the TripActions portal to book and then pay back to GitLab for the significant other booking fees? 
+   1. While utilizing the Visiting Grant is completely optional and voluntary, and since its intent is to allow Team Members to get together in person, yes, you are eligible to participate in the Q3 Visiting Grant program as this is not considered a business related expense. Other business expenses related to completing work during a leave of absence are not allowed, as per our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/#-expense-policy-summary).
+1. My significant other will be traveling with me.  Should I use the TripActions portal to book and then pay back to GitLab for the significant other booking fees? 
    1. TripActions Business Travel is paid by GitLab's corporate card, so you need to use your personal card (personal booking or outside TripActions) for that portion that is +1, not yours. To book both tickets together, you should pay for the flights on your personal card and expense your own ticket with the rest of your trip/event related fees. See [personal bookings](https://about.gitlab.com/handbook/travel/#booking-travel-through-tripactions-) for more guidance. 
 
 #### Sharing your Visiting Grant stories
