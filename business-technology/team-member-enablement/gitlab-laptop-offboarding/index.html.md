@@ -24,12 +24,12 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) (for Mac’s). If you have a laptop with Linux, please reach out to #it-help in slack to have the Linux laptop enrolled in [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) before your last day.
 
 The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe: Calendly links will be provided in your Gitlab Off-boarding Email Packet. 
-- Marc DiSabatino - AMER time zone
-- Jenny Wong - AMER time zone
-- Jeff Ford - AMER time zone
-- Paul Laurinavicius - EMEA time zone
-- Ian Forde - EMEA time zone
-- APAC - please reach out in #it_help on Slack
+    - Jeff Ford - [appointment schedule](https://calendar.app.google/Qc1wwN94q6RqEyGL9) - AMER
+    - Jenny Wong - [appointment schedule](https://calendar.app.google/HJoCYkbf4XnApqSU6) - AMER
+    - Alex Kruseic - [appointment schedule](https://calendar.app.google/xsTHAQWxHmT3tpr86) - AMER
+    - Paul Laurinavicius - [appointment schedule](https://calendly.com/plaurinavicius) - EMEA 
+    - Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA
+    - APAC - please reach out in #it_help on Slack
  
 **Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted.** 
  
