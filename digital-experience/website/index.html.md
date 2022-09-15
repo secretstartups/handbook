@@ -598,20 +598,13 @@ To update the course content data:
 1. Open an MR to the [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) file. Follow the existing syntax in the file. For ease of adding a new course, we recommend copying an existing entry and updating the values based on the new course being added, populating every field.
 1. Add content to the list as soon as it is planned. 
 1. To indicate that a course is planned for the future, include a live_date in the future. You can see an example in [this MR #94773](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94773). 
-1. You can see the full list of valid values to use in course classification fields (e.g., maintainer, level) in the [classification.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml) file. This classification file has the underlying data for our [GitLab Learn Classification page](/learn/classification/). 
-1. If you'd like to use a new value for the course that you're adding, make sure to add it to classification.yml as part of your MR. 
-
-Please avoid leaving any classification fields empty if they apply, since that would prevent the course from appearing in the appropriate filtered results. If a value for a data field is not yet available, for example the url for a future course, leave the field empty. 
 
 Important guidelines to keep in mind: 
-1. [learn.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml) is our SSOT for GitLab-produced content, including all existing and future planned content. 
-1. When planning new learning content, add it to [learn.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml) as soon as possible, at a minimum monthly, and aim to include what you plan to produce over the upcoming 6 months or more. This gives visibility to all other GitLab team members producing learning content as to what has been planned. 
-1. Before producing new content, check [learn.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml) for redundancy, as other teams may have developed or plan to develop similar content. 
+1. [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) is our SSOT for GitLab-produced content, including all existing and future planned content. 
+1. When planning new learning content, add it to [learn.yml]https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) as soon as possible, at a minimum monthly, and aim to include what you plan to produce over the upcoming 6 months or more. This gives visibility to all other GitLab team members producing learning content as to what has been planned. 
+1. Before producing new content, check [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) for redundancy, as other teams may have developed or plan to develop similar content. 
 1. Communicate updates with other DRIs working on learning content by posting on the #gitlab-learn-updates Slack channel (available to team members only)
 
-### Creating a new page listing learning resources
-
-When creating new pages to list subsets of our learning resources, you should make the lists autogenerate based on the SSOT [learn.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml) file. Here are a few examples of how to do this, you can edit these to generate other variations based on the course attributes available at [classification.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/classification.yml).
 
 ### Creating a DevOps tools comparison page
 
