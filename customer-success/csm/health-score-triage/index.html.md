@@ -144,9 +144,16 @@ CSMs update CSM Sentiment in determining overall account health. The guidelines 
 
 The CSM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/csm/gainsight/timeline/) and select a value from the CSM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the CSM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
 
-TAM Sentiment health scores become stale after 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If you notice your account is marked as stale, but you've updated the TAM Sentiment within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). Accounts with a stale TAM Sentiment will also be monitored via the TAM Burn-Down Dashboard in Gainsight and discussed in account planning meetings.
-
 There are a number of [enablement videos](/handbook/customer-success/csm/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
+
+#### Clearing Stale Health Measures
+
+**CSM Sentiment**
+`CSM Sentiment` health scores become stale after 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If an account is marked as stale, but you've updated the `CSM Sentiment` within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). Accounts with a stale `CSM Sentiment` will also be monitored via the CSM Burn-Down Dashboard in Gainsight and discussed in account planning meetings. Sentiment scores will be set to NA if they have not been updated in more than 120 days to remove outdated values.
+
+**Support Measures**
+Support measures are considered stale if they have not been updated in more than 30 days. They will be automatically set to NA after 30 days without an update.
+
 
 #### Gainsight Scorecard Attributes and Calculations
 
@@ -156,6 +163,7 @@ Health score criteria is either manually or automatically applied to determine t
 * In instances where a measure is N/A, the percentage weighting will be redistributed to the other health measures.
    * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, CSM Sentiment...). Heavier weighter measures, such as CSM Sentiment, would receive a bigger allocation because it's already the largest.
    * Example 2: If we're receiving Product Usage Data but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage Data measures. So CI health would go from, say, 5% to 7%.
+
 
 | Group (PROVE)             | Measure                                                      | Description                                                  | Method           | Calculation                                                  | Measure Weight | Group Weighting |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------------- | --------------- |
@@ -173,11 +181,6 @@ Health score criteria is either manually or automatically applied to determine t
 | **Engagement**            |                                                              |                                                              |                  |                                                              |                | 10%             |
 |                           | Meeting Cadence                                              | Based on recency of last call/meeting with the customer      | Automatic        | For `CSM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `CSM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 90 days | 50%            |                 |
 |                           | [Persona Engagement](/handbook/customer-success/csm/engagement/#customer-personas) | Are we meeting with the correct personas in the Account?     | Automatic        | Persona Engagement is based on the roles of External Attendees added on timeline entries. - Green: both Dev Lead and Security Lead are listed as external attendees on a timeline entry in the past three months <br> - Yellow: one of the two personas attend <br> Red: neither personas are listed as having attended a meeting | 50%            |                 |
-
-
-
-
-
 
 
 ##### License Usage health table
