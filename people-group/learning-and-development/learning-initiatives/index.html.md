@@ -184,11 +184,11 @@ After the Call:
 
 ## Skill of the Month 
 
-The L&D team outlines a skill of the month for team members to learn more about a particular topic. This provides team members with direction about what topics to learn more about and where to find information on these topics. This initiative begins in April 2021. 
+The L&D team outlines a skill of the month for team members to learn more about a particular topic. This provides team members with direction about what topics to learn more about and where to find information on these topics. This initiative began in April 2021. 
 
 ### Goals
 
-1. Get team members engaged with our learning platforms (GitLab Learn and LinkedIn Learning). 
+1. Get team members engaged with our learning platforms (Level Up and LinkedIn Learning). 
 1. Provide opportunities for Growth and Development. 
 1. Encourage team members to take time out to learn. 
 
@@ -216,6 +216,9 @@ This is the list of topics that will be focused on in FY23.
 - April: Managing High Performing Teams: Building Trust
 - May: Managing Mental Health at Work
 - June: Allyship
+- July: (Suspended due to learning system tranistion)
+- August: (Suspended due to learning system tranistion)
+- September: Creativity
 
 ### Organizing a Skill of the Month 
 
