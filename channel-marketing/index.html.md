@@ -123,22 +123,13 @@ These activities are captured as `Campaign Type Details` on the campaign level i
 * Once Step 1 is completed, Samara Souza will send Finance the invoice for their review and reimbursement payment to the partner
 
 ## Requesting Swag for Channel Events and Awards
-CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. 
+CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. The event start date cannot be within 3 weeks of the request as items may not arrive in time. Please allow plenty of time for the Swag to be delivered.
 
-**To view the portal and see types of Swag available:**
-1. Go to the portal: https://www2.nationsprint.com/clients/gitlab/
-2. Create your own login using your gitlab email address
-3. Once logged in, you can view Swag items currently available
-
-If you are ordering Swag for one person (vs an entire event), you can place your own order using the portal as long as you have the recipient’s shipping address.  Make sure you have received approval from your manager to place the order.
-Postcard notes are available to customize your shipment.  Just select the postcard from the ordering portal and add your own customized text to be printed on the notecard.
-
-**To request Swag for a virtual event:**
-1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, expected number of attendees that would be eligible for swag, desired dollar amount of swag items and links to MDF request, event Issue, and any other pertinent information.  If you’d like a custom post card note included in your order, please provide the text so we can create the card as part of your order.
-2. Once your request is approved, we will create a unique swag bundle with unique ordering url and provide you with the url you can share with the attendees post event.  This way each attendee can enter their own shipping information and process their own order request directly into the portal.
-
-**To request Swag for an in-person event:**
-1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, event shipping address including attn info any required shipping info, number and type of items being requested, first and last date items can arrive and whether you need a return label for non-used items.  Please allow 15 business days for the approval and processing of your request.  
+**Please note we have a new vendor, and the new portal information will be available shortly. In the meantime please follow the following steps to get your swag ordered**
+1. Reach out to Samara Souza via Slack @samarasouza
+2. Have the following information ready: date of the envent, contact information and shipping address
+3. Samara will coordinate with the CAM directly to get the items shipped
+ 
 
 ## Partner-Initiated GitLab Free Trial Lead Gen Program
 
