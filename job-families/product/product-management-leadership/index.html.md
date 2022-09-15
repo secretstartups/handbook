@@ -39,7 +39,7 @@ This job family represents all Managers in the Product Management department. Th
 This role typically manages 2-4 Product Managers, and reports either to a [Director of Product](#director-of-product-management), a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product](#vp-of-product).
 
 #### Group Manager, Product (GMP) - Job Grade 
-The Group Manager, Product is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Group Manager, Product (GMP) - Responsibilities
 **Team responsibilities**
