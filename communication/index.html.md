@@ -62,7 +62,7 @@ The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/sa
 
 1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy.
 1. **Morale risk:** Raising GitLab sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale.
-1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally.
+1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. Consider that a discussion in a public MR or issue is a demonstration of our [values](https://about.gitlab.com/handbook/values/) to those outside of GitLab who are looking to learn more about how we collaborate. 
 
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
