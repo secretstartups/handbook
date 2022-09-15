@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Strategic"
+title: "CSM Segment: Strategic"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,7 +8,7 @@ title: "TAM Segment: Strategic"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -19,7 +19,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 The Strategic segment focuses on planning, enablement, expansion for our largest customers, as defined by our [segment criteria](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments).
 
-Iteration 1 - Strategic TAM Customer Lifecycle Journey
+Iteration 1 - Strategic Customer Success Manager (CSM) - Customer Lifecycle Journey
 
 <img src="/images/handbook/customer-success/ht-tam-customer-journey.png">
 
@@ -27,17 +27,17 @@ Iteration 1 - Strategic TAM Customer Lifecycle Journey
 
 [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/80)
 
-## TAM Strategic Activities
+## CSM Strategic Activities
 
 ### Align & Onboard
 
-Transitioning an account to a TAM during the pre-sales cycle helps the TAM set expectations early in the relationship and ensures a seamless experience as the prospect becomes a customer and enters onboarding. Aligning on a Success Plan and onboarding is critical to getting a customer started on a successful journey with GitLab. This is our opportunity to ensure the customer achieves value and success from the start of their GitLab usage. It also sets expectations on joint goals and  the collaboration between the customer and GitLab.
+Transitioning an account to a CSM during the pre-sales cycle helps the CSM set expectations early in the relationship and ensures a seamless experience as the prospect becomes a customer and enters onboarding. Aligning on a Success Plan and onboarding is critical to getting a customer started on a successful journey with GitLab. This is our opportunity to ensure the customer achieves value and success from the start of their GitLab usage. It also sets expectations on joint goals and  the collaboration between the customer and GitLab.
 
 | Description | Metrics | DRI |
 |---|---|---|
-| [Account Transition & Introduction](/handbook/customer-success/pre-sales-post-sales-transition/) TAM introduction to the prospect at the Proposal stage of the Sales cycle |  |  |
+| [Account Transition & Introduction](/handbook/customer-success/pre-sales-post-sales-transition/) CSM introduction to the prospect at the Proposal stage of the Sales cycle |  |  |
 | A [Success Plan](/handbook/customer-success/csm/success-plans/) is a roadmap that connects a customer's desired business outcomes to GitLab. This focus ensures that we are spending time on ensuring customer success and growth while defending customer retention. | 100% Management-qualified green Success Plans |  |
-| [Onboarding ](/handbook/customer-success/csm/onboarding/) Get the customer to first value as soon as possible. Set expectations for the TAM-customer relationship and establish regular check-in calls. | Time to first engage = 14 days, Time to 1st Value = 30 days, Time to Onboard = 45 days |  |
+| [Onboarding ](/handbook/customer-success/csm/onboarding/) Get the customer to first value as soon as possible. Set expectations for the CSM-customer relationship and establish regular check-in calls. | Time to first engage = 14 days, Time to 1st Value = 30 days, Time to Onboard = 45 days |  |
 
 ### Enable
 
