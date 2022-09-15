@@ -5,7 +5,7 @@ description: "This document explains the workflow for anyone working with issues
 ---
 
 This document explains the workflow for anyone working with issues in GitLab Inc.
-For the workflow that applies to everyone please see [PROCESS.md](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/PROCESS.md).
+For the workflow that applies to the wider community see the [contributing guide](https://docs.gitlab.com/ee/development/contributing/).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
