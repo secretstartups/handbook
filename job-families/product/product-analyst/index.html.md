@@ -1,157 +1,238 @@
 ---
 layout: job_family_page
 title: "Product Analyst"
+description: "Product Analysts at GitLab have a unique opportunity to improve the product 
+through data-driven insights and recommendations" 
 ---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Role
 
 Product Analysts at GitLab are curious, highly strategic, and focused on making GitLab better 
 through trusted data insights. Working with product teams, they look at customer behaviors 
-across the customer journey and help make the customer experience and business outcomes better. 
+across the customer journey and help make improvements to the customer experience and 
+business outcomes.
+
 As a member of the Product Data Insights team, the successful candidate will develop BI 
-solutions to understand usage activity, create and own multiple Product Key Performance 
-Indicators, develop a deep understanding of product health and the customer experience, 
-advance data acumen across the company, and promote strategic decisions through data storytelling.
+solutions to understand product usage and customer activity, create and own multiple Product 
+Key Performance Indicators, develop a deep understanding of product health and the customer 
+experience, advance data acumen across the company, and promote strategic decisions through 
+data storytelling.
 
-## Levels
+We work in a very unique way at GitLab, where flexibility and independence meet
+a high paced, pragmatic way of working. And everything we do is [in the open](/handbook/).
 
-There are levels below in this job family. 
+We recommend looking at our [about page](/company/) and at the 
+[Product Data Insights handbook](/handbook/product/product-analysis) to get started.
 
-### Product Analyst (Intermediate)
+<a id="base-pa-requirements"></a>
+### Base Requirements Across All Levels
 
-This role reports to the [Manager, Product Data Insights](/job-families/product/product-analyst/#manager-product-data-insights)
-
-#### Job Grade
-
-This role is a [Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) Level 6
-
-#### Responsibilities
-
-- Perform strategic and ad-hoc data work in support of Product Managers
-- Identify opportunities in data to accelerate product adoption, retention, engagement, and/or 
-monetization
-- Develop dashboards and define metrics that inform success for the Product Team
-- Help design, execute and evaluate A/B tests to improve the user journey
-- Explore large, complex, and loosely defined datasets to create actionable insights
-- Serve as the Technical DRI for the Product Key Performance Indicators
-- Serve as the Business DRI for the Product areas of the Enterprise Dimensional Model -- the 
-future of Trusted Data at GitLab
-- Explain trends across data sources, potential opportunities for growth or improvement, and 
-data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive 
-data projects
-- Develop user archetypes and build dashboards to demonstrate their usage patterns
-- Capture and document data user stories, use cases, and workflows
-- Craft code that meets our internal standards for style, maintainability, and best practices
-- Operate in an iterative mindset, focused on delivering improvements and value at high velocity
-- Document every action in either issue/MR templates, the handbook, or READMEs so your learnings 
-turn into repeatable actions and then into automation following the GitLab tradition of handbook 
-first!
-- Work collaboratively with product team members such as: product managers, engineering, design, 
-as well as with core data team members such as analytics engineers and data engineers
-
-#### Requirements
-
-- 3+ years of experience, leveraging descriptive and predictive data techniques
+- 3+ years of data analysis experience, leveraging descriptive and predictive data techniques
 - 2+ years of experience focused on feature and usage metrics, A/B testing, conversion and 
 retention, segmentation, and developing user archetypes and their usage patterns
 - 1+ years of experience uncovering data insights to form hypotheses, designing product 
-experiments, evaluating results and making recommendation
+experiments, evaluating results and making recommendations
+- Experience supporting product team
 - Advanced Level SQL
-- Advanced BI dashboard development (we use Sisense)
-- Experience working with a Data Warehouse built using Kimball dimensional modeling
-- Ability to design, document, and communicate models using Entity Relationship Diagrams 
-- Able to read Ruby to trace data flows and code paths
+- Advanced BI dashboard development (we use Sisense for Cloud Data Teams)
 - Comfort working in a highly agile, intensely iterative software development process
-- Effective communication skills: Regularly achieve consensus with peers, and clear status updates
-- Experience owning a project from concept to production, including proposal, discussion, 
+- Excellent proficiency in English
+- Effective communication skills: Regularly achieve consensus with peers, explain complex data 
+concepts to non-technical stakeholders, and provide clear status updates
+- Experience owning a project from conception to production, including proposal, discussion, 
 and execution
 - Self-motivated and self-managing, with strong organizational skills
-- Share our values, and work in accordance with those values
-- Ability to thrive in a fully remote organization, being collaborative and supportive
+- Ability to thrive in a fully remote organization, comfortable with asynchronous collaboration
 - Ability to use GitLab
-- Previous experience supporting product or growth team
-- Comfortable with fast-pace and  ambiguity in a start-up environment
+- You share our [values](/handbook/values/), and work in accordance with those values
+- You are living wherever you want and are excited about the [all remote](/company/culture/all-remote/) lifestyle
+- Bonus points: Experience working with a Data Warehouse built using Kimball dimensional modeling
+- Bonus points: Experience working with dbt
+- Bonus points: Experience using python or R for analysis
+- Bonus points: Able to read Ruby to trace data flows and code paths
+- Bonus points: Experience with GitLab, Git, and the Git workflows
 
-### Senior Product Analyst
 
-This role reports to the [Manager, Product Data Insights](/job-families/product/product-analyst/#manager-product-data-insights)
+***
 
-#### Job Grade
+## Career paths
 
-This role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+### In role levels
 
-#### Requirements
+Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab.
 
-Similar to Product Analyst, with the experience requirements adjusted to:
+#### Product Analyst (Intermediate)
 
-- 6+ years of experience, leveraging descriptive and predictive data techniques
+##### Job Grade
+
+The Product Analyst position is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+<a id="base-pa-expectations"></a>
+##### Expectations
+
+**Collaborate with product teams**
+
+- Perform strategic and ad-hoc analysis in support of product team members such as: product 
+managers, engineers, UX, design
+- Serve as the Technical DRI for the Product Key Performance Indicators
+- Develop dashboards and define metrics that inform success for the Product Team
+- Identify opportunities in data to accelerate product adoption, retention, engagement, and/or 
+monetization
+- Help design, execute and evaluate A/B tests to improve the user journey
+- Explain trends across data sources, potential opportunities for growth or improvement, and 
+data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive 
+data projects
+
+**Navigate GitLab data environment and community**
+
+- Explore large, complex, and loosely defined datasets to create actionable insights
+- Serve as the Business DRI for the Product areas of the Enterprise Dimensional Model -- the 
+future of Trusted Data at GitLab
+- Craft code that meets our internal standards for style, maintainability, and best practices
+
+**Demonstrate GitLab values on a daily basis**
+
+- Operate in an iterative mindset, focused on delivering improvements and value at high velocity
+- Document every action in either an issue, MR, the handbook, or READMEs so analyses and 
+findings are discoverable, following the GitLab value of [transparency](/handbook/values/#transparency) 
+and the [handbook-first culture](/company/culture/all-remote/handbook-first-documentation)
+
+##### Requirements
+
+Product Analysts are expected to meet the [base requirements](#base-pa-requirements) outlined 
+above.
+
+#### Senior Product Analyst
+
+Senior Product Analysts are expected to be product data subject matter experts and are viewed as 
+such within the Product and Data communities at GitLab. They are expected to prioritize 
+and manage their work with minimal guidance.
+
+##### Job Grade
+
+The Senior Product Analyst role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Expectations
+
+Senior Product Analysts are leaders at GitLab. In addition to the [expectations for Product Analysts](#base-pa-expectations), 
+Senior Product Analysts are expected to:
+
+**Bring subject matter expertise to the product teams**
+
+- Senior Product Analysts are expected to be the subject matter expert in the data related to 
+their assigned product team
+- Articulate both the "what" and the "why" to stakeholders via written and verbal communication
+- Bridge the gap between complex data concepts and less technical stakeholders
+
+**Contribute to the data community**
+
+- Collaborate with central Data team to improve data infrastructure, models, and process
+- Identify opportunities to create efficiencies in team processes and tooling, including enabling 
+other teams to self-serve on product data
+- Help connect the dots across disparate bodies of work across the Data program
+
+<a id="senior-pa-requirements"></a>
+##### Requirements
+
+Senior Product Analysts are expected to meet the [base requirements](#base-pa-requirements), 
+with the experience requirements adjusted to:
+
+- 6+ years of data analysis experience, leveraging descriptive and predictive data techniques
 - 4+ years of experience focused on feature and usage metrics, A/B testing, conversion and 
 retention, segmentation, and developing user archetypes and their usage patterns
+- 2+ years of experience supporting product teams
 - 2+ years of experience uncovering data insights to form hypothesis, designing product 
 experiments, evaluating results and making recommendations
+- Expert Level SQL
 
-### Staff Product Analyst
+#### Staff Product Analyst
 
-This role reports to the [Manager, Product Data Insights](/job-families/product/product-analyst/#manager-product-data-insights)
+The Staff Product Analyst role extends the Senior Product Analyst role expectations.
 
-#### Job Grade
+##### Job Grade
 
-This role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Staff Product Analyst role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Requirements
+##### Expectations
 
-All of the requirements of a Senior Product Analyst, extended to:
+**Lead by example**
 
-- 8+ years of experience, leveraging descriptive and predictive data techniques
+- Mentor less experienced Product Analysts to enable them add more value sooner
+- Be a thought partner to other members of the team, including delivering feedback on 
+analysis
+- Advocate for the team's work to meet internal standards for code style, quality, 
+maintainability, and best practices
+
+**Elevate product data at GitLab**
+
+- Proactively and independently identify areas of opportunity for analysis
+- Regularly contribute to the Product Data Insights and Data handbooks, elevating data literacy 
+and enabling responsible use of data across GitLab
+- Act as a trusted voice of product data and insights in meetings and presentations
+
+##### Requirements
+
+Staff Product Analysts are expected to meet the [Senior Product Analyst requirements](#senior-pa-requirements),
+with the experience requirements adjusted to:
+
+- 8+ years of data analysis experience, leveraging descriptive and predictive data techniques
+- 4+ years of experience supporting product teams
 - 2+ years of experience conducting independent exploratory analysis
 - 2+ years of mentoring other teammates or analysts
 - Experience leading large, strategic initiatives
 
-### Manager, Product Data Insights
+#### Manager, Product Data Insights
 
-This role reports to the [Senior Director, Product Monetization & Operations](/job-families/product/product-management-leadership/#senior-director-of-product-monetization)
+The Manager, Product Data Insights role extends the Senior Product Analyst role expectations.
 
-#### Job Grade
+##### Job Grade
 
-This role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Product Data Insights role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Requirements
+##### Expectations
 
-All of the requirements of a Senior Product Analyst, plus relevant management experience:
+**Manage a small team of ICs (individual contributors)**
+
+- Manage and lead a high performing team of ICs, including day-to-day assignments, weekly 1-1s, 
+bi-weekly iteration planning, quarterly reviews, and quarterly objectives
+- Proactively identify strategic opportunities for product team via data analysis 
+- Ensure team is delivering high-quality work and maintaining a consistent [velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
+- Mentor and coach members of the team
+- Work with stakeholders and product leadership to align the team's priorities with those of 
+the company
+- Be a thought partner to other members of the team, including delivering feedback on 
+analysis
+- Ensure the team's work, including code, meets our internal standards for style, 
+maintainability, and best practices
+
+**Be a leader in the GitLab data community**
+
+- Help create a leading product Data Program to support GitLab's vision and advocate for a 
+data-driven culture 
+- Act as a central contributor to cross-functional groups and initiatives like 
+[FACE (Functional Analytics Center of Excellence)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
+
+**Be an individual contributor**
+
+- Managers are expected to contribute in a Senior Product Analyst capacity, as outlined above
+
+##### Requirements
+
+Manager, Product Data Insights are expected to meet the [Senior Product Analyst requirements](#senior-pa-requirements),
+with the experience requirements adjusted to:
 
 - 2+ years of experience managing and developing a data analytics team
-- 2+ years of experience responsible for planning, solutioning, work allocation & prioritization, 
-stakeholder management and cross-functional collaboration as a data team lead
+- 2+ years of experience being responsible for planning, solutioning, work allocation & 
+prioritization, stakeholder management, and cross-functional collaboration as a data team lead
 
-#### Responsibilities
+## Relevant links
 
-This manager is expected to manage a small team of ICs, while also contributing in the Senior 
-Product Analyst capacity, as described above. 
-- Manage and lead a high performing team of ICs, including day-to-day assignments, weekly 1-1s, 
-bi-weekly milestone planning, quarterly reviews, and annual objectives 
-- Create efficient process to prioritize data requests and maximize the output of the team
-- Proactively identify strategic opportunities for product team via data analysis 
-- Collaborate with central data team to improve data infrastructure & process
-- Help create a leading product Data Program to support GitLab's vision and advocate a 
-data-driven culture 
-
-## Performance Indicators
-
-- Work completed per two-week iteration ([Velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
-- [TMAU]/[SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau)
-- [SPU](/handbook/product/performance-indicators/#stages-per-user-spu)
-- [Direct Signup ARR Growth Rate](/handbook/product/performance-indicators/#direct-signup-arr-growth-rate)
-- [Free to Paid ARR Growth Rate](/handbook/product/performance-indicators/#free-to-paid-arr-growth-rate)
-- [ Net retention rate](/handbook/sales/performance-indicators/#net-retention) 
-- [Gross retention rate](/handbook/sales/performance-indicators/#gross-retention)
-
-## Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please 
-keep in mind that applicants can be declined from the position at any stage of the process. To 
-learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-
-- Selected candidates will be invited to schedule a 30 min. [screening call](/handbook/hiring/interviewing/#screening-call) 
-with one of our Global Recruiters
-- Next, candidates will be invited to schedule a first interview with the hiring manager
-- Next, candidates will be invited to interview with 1-4 teammates, stakeholders, and collaborators
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+- [Product Data Insights Handbook](/handbook/product/product-analysis/)
+- [Data Team Handbook](/handbook/business-technology/data-team/)
+- [Product Handbook](/handbook/product/)
