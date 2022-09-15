@@ -306,10 +306,9 @@ _Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, an
 | 12    | VP               | Fellow                    |
 | 11    | Senior Director  | Senior Distinguished      |
 | 10    |	Director	       | Distinguished  <br> Senior Principal Product Manager           |
-| 9.5   | Manager, Product | Principal Product Manager |
-| 9	    | Senior Manager   | Principal <br> Senior Product Manager    |
-| 8	    | Manager          | Staff <br> Product Manager <br> Consultant |
-| 7			|                  | Senior	                   |
+| 9	    | Senior Manager <br> Group Manager, Product   | Principal <br> Principal Product Manager    |
+| 8	    | Manager          | Staff <br> Senior Product Manager <br> Consultant |
+| 7			|                  | Senior <br> Product Manager	                   |
 | 6			|                  | Intermediate              |
 | 5			|                  | Junior                    |
 | 4			|                  | Intern                    |
