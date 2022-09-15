@@ -18,15 +18,6 @@ description: "Coupa Virtual Card Guide"
 
 GitLab’s preferred method of payment for suppliers is electronic funds transfer with supplier invoice. In the instances where this option is not available with the supplier, the Virtual Card, which is a temporary credit card, can be used as an alternative payment method. Virtual Card can be selected as a payment option by the requestor via the **Request Virtual Card** icon on the Home page in Coupa. 
 
-<div class="panel panel-danger">
-**IMPORTANT NOTE**
-{: .panel-heading}
-<div class="panel-body">
-
-**Virtual Card is only available for GitLab Inc subsidiary at this time**
-
-</div>
-</div>
 
 
 ## How to request a Virtual Card
@@ -81,7 +72,7 @@ There are two different scenarios for Virtual Cards:
 </div>
 </div>
 <br>
-**Step 4.** Review the Cart Items section and verify the Billing information is correct. **NOTE - only GitLab Inc is available for Virtual Card at this time.**
+**Step 4.** Review the Cart Items section and verify the Billing information is correct.
 
 <div class="panel panel-warning">
 **NOTE**
