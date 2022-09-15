@@ -55,34 +55,15 @@ We strongly believe in open source software and publish many of our repositories
 
 ## Tech Stack
 
-All of our IT Engineering applications use the [Laravel](https://laravel.com/docs) framework.
+IT Engineering uses a variety of languages and frameworks. 
 
-We use [TailwindCSS](https://tailwindcss.com/) for front-end development with a progressive refactoring for legacy applications. 
+We subscribe to the principle that we only use mature and well tested frameworks for the respective language to ensure that the fallacies of each language are mitigated through the use of framework documented best practices.
 
-We currently use MySQL databases for our Laravel applications but are in the process of evaluating a migration to PostgreSQL.
+Many of our legacy applications and tools were written in [Laravel](https://laravel.com/docs) (PHP) based on our small team's experience with Laravel (instead of Ruby on Rails at the time) and a desire to live our efficiency, iteration, and results values. 
 
-#### FAQ: Why did you choose Laravel/PHP? Why not use Ruby on Rails?
+Although Laravel has seen tremendous commmunity [adoption and popularity](https://trends.google.co.in/trends/explore/TIMESERIES/1648478400?hl=en-GB&tz=420&date=2014-01-01+2022-03-28,2014-01-01+2022-03-28,2014-01-01+2022-03-28,2014-01-01+2022-03-28&geo=,,,&q=%2Fm%2F06y_qx,%2Fm%2F0505cl,%2Fm%2F0bbxf89,%2Fm%2F0jwy148&sni=3), the team has decided to build our next generation applications with Ruby on Rails to allow more contributors from across the company. We still love Laravel, the Laravel community, and continue to maintain our Laravel internal applications and tools that provide valuable services for our team members that are not a priority to be refactored at this time.
 
-We get asked this question a lot since GitLab is predominately a Rails company.
-
-We have many frameworks/languages used across GitLab. The GitLab product and the Engineering division predominantly use Ruby on Rails, Go, and Vue.js. There are several software engineering teams (outside of the Engineering Development department) that build internal apps and tools that help us run the business. This includes Python, Node.js, PHP, and a few corner cases of others for demos and small tools.
-
-There are many perceptions about software languages and many people have opinions that are strongly held ("the language debate"). Whether or not this is the language or framework that you would pick, each team has different needs and different skill sets, and one size does not fit all. 
-
-We subscribe to the principle that we only use mature and well tested frameworks for the respective language to ensure that the fallacies of each language are mitigated through the use of framework documented best practices. 
-
-There are no Rails engineers in IT and we do not have any collaboration or team members in the Engineering Development department that contribute to our initiatives and projects. We believe it is prudent to have senior/seasoned developers who know their craft and their tools writing source code instead of learning a new framework from scratch to build and maintain multiple production-grade applications with only two engineers. 
-
-We love using Laravel, the same way many team members love using Rails or other languages. 
-
-As part of our efficiency and results values and boring solutions operating principle, the IT team standardized on the same framework for all of our applications and tools based on the IT team's proficiency with a collective 11 years of Laravel experience among our two engineers. The use of Laravel has been decided by the DRIs and approved by leadership and security. Please see our [disagree, commit, and disagree operating value](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree) to learn more.
-
-This also allows us to [dogfood](/handbook/values/#dogfooding) GitLab CI/CD capabilities for PHP projects.
-
-As part of our [collaboration](/handbook/values/#collaboration) [diversity and inclusion value](/handbook/values/#diversity-inclusion), we are sensitive to and cognizant of language and framework bashing. In this case, most opinions of PHP being a "bad language" have been dispelled as the language has matured and refactored in version 5.x, 7.x, and 8.x. 
-
-Laravel itself is a modern and mature framework that rivals Ruby on Rails and Python's Django. Laravel has seen tremendous community adoption and popularity in recent years.
-
-Sources:
-* [Framework Download Stats](https://packagist.org/packages/laravel/framework/stats)
-* [Google Trends](https://trends.google.co.in/trends/explore/TIMESERIES/1648478400?hl=en-GB&tz=420&date=2014-01-01+2022-03-28,2014-01-01+2022-03-28,2014-01-01+2022-03-28,2014-01-01+2022-03-28&geo=,,,&q=%2Fm%2F06y_qx,%2Fm%2F0505cl,%2Fm%2F0bbxf89,%2Fm%2F0jwy148&sni=3)
+* **Full Stack Frameworks:** Ruby on Rails, Laravel (PHP)
+* **Databases:** PostgreSQL, MySQL (legacy)
+* **UI:** Bootstrap, TailwindCSS, Alpine.js, Vue.js
+* **Infrastructure-as-Code:** Terraform, Ansible
