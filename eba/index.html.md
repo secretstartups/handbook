@@ -30,7 +30,7 @@ This page details processes and general guidelines specific to the Executive Bus
 ### All-Directs EBAs 
 * Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), David Helfer (Interim, VP of Worldwide Channels), and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (Sr. EBA) supporting Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales), and David Sakamoto (VP of Customer Success)
-* Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate) and Robert Nalen (Sr. Director, Contracts & Legal Operations)
+* Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate), Robert Nalen (Sr. Director, Contracts & Legal Operations), and Stacy Cline (Sr. Director, ESG)
 * Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Jack Andrews (VP of Investor Relations), Jim Gladen (VP Tax) 
 * Blaire Sullivan (EBA) supporting Dave Steer (VP of Product Marketing), Carrie Maynard (VP of Integrated Marketing), Ray Leihe (VP Marketing Strategy & Platforms), Jean-Baptiste Larramendy (AVP of Sales Development) and Christina Lee (Sr. Director - Marketing Strategy & Platforms)
 
