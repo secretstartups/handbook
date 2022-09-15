@@ -16,26 +16,17 @@ View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional
 {: .alert .alert-warning}
 
 ## CSE Mission
-The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
+The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices in order to drive measurable value for GitLab customers.  CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities, leading to product adoption, expansion, and greater value realized by our customers.
 
 ## Role & Responsibilities
 Engage with customers in a technical consultancy and advisor role during their GitLab Journey while providing technical and solution guidance. This is achieved by driving towards measurable value (business outcomes), leading to product adoption, renewal, and expansion opportunities. The team is focused on solution-based programs that are customized to fit an individual customer's needs. 
 
-## GitLab Use Cases supported by CSEs
+## GitLab Use Cases to supported by CSEs (WIP)
 
-⚠️ The CSE role is in active development, so not all use cases may be currently supported. Please check with CSM/CSE leadership for your territory on coverage & availability.
-
-CSEs will support the following GitLab use cases:
-
-- Agile Planning
-- SCM
-- CI
-- CD
-- DevSecOps
-- DevOps Platform Scaling
-- API usage and Automation
-- Value Stream Assessment
-- CSM Office Hours
+- Technical Discovery in-line with a customer's desired business outcomes
+- Infrastructure Discovery (initial exploration on direction, complexity)
+- Hands-on workshops to drive adoption
+- CSM Office Hours, enablement
 
 ## Deliverables & Scope per Use Case
 - CSE is working on a fixed (time), scoped (deliverables) engagement with a dedicated area/business unit/team (aligned) within an existing customer.
@@ -61,8 +52,8 @@ Engagement Qualification:
 1. Capacity Planning (DRI: Manager, CSE)
 
 ## Metrics & Key Performance Indicators
-1. 100% adoption & growth per defined use case and metric
-1. 80% achievement of deliverable within defined timeline
+1. Green Success Plans (% complete) with technical milestones & objectives in place, in collaboration with the CSM
+1. % Achievement of deliverable within defined timeline
 1. NPS/CSAT Post-CSE Engagement Survey
 1. Updated Docs and Guidelines (1 per customer engagement)
 
