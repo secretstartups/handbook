@@ -51,13 +51,13 @@ This page provides an overview on relevant CSM leadership processes.
 <tbody>
   <tr>
     <td>Account Reviews in 1:1s</td>
-    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a weekly basis, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/tam/tam-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
+    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a weekly basis, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/csm/csm-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
     <td>Accounts are reviewed with CSMs on a weekly basis.</td>
   </tr>
   <tr>
     <td>Reviews &amp; Coaching</td>
     <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming call agendas, open playbooks and recently closed playbooks, account health and triage issues and success plans for coaching opportunities - see below for more detail on these reviews</li></ul></td>
-    <td>Managers follow the <a href="/handbook/customer-success/tam/tam-manager/#customer-onboarding-review">review guidelines documented</a>, review outside of the 1:1 </td>
+    <td>Managers follow the <a href="/handbook/customer-success/csm/csm-manager/#customer-onboarding-review">review guidelines documented</a>, review outside of the 1:1 </td>
   </tr>
   <tr>
     <td>Call Reviews</td>
@@ -93,7 +93,7 @@ For CSM Managers, here is a short checklist to assist in the review:
 
 ### Account Assignment
 
-Accounts are assigned at point of sale by the CSM Manager when a new Account in their region fits the criteria in [CSM Responsibilities and Services](/handbook/customer-success/csm/services/#tam-alignment).
+Accounts are assigned at point of sale by the CSM Manager when a new Account in their region fits the criteria in [CSM Responsibilities and Services](/handbook/customer-success/csm/services/#csm-alignment).
 
 When an Account meets the critera, the following will happen:
 
