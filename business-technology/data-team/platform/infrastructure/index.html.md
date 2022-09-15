@@ -19,7 +19,7 @@ title: "Data Infrastructure"
 [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab){:.btn .btn-purple-inv}
 [Monte Carlo](/handbook/business-technology/data-team/platform/monte-carlo){:.btn .btn-purple-inv}
 [Python Guide](/handbook/business-technology/data-team/platform/python-guide){:.btn .btn-purple-inv}
-[Snowflake Guiode](/handbook/business-technology/data-team/platform/snowflake){:.btn .btn-purple-inv}
+[Snowflake Guide](/handbook/business-technology/data-team/platform/snowflake){:.btn .btn-purple-inv}
 
 ## System Diagram
 
