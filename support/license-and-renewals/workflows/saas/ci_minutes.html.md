@@ -50,7 +50,7 @@ Please do **not** use the enabling CI minutes process for validating a user acco
 
 Requirements:
 
-1. Requester has [filed an internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Wider%20Community%20Contributor%20Shared%20Runner%20SaaS%20CC%20bypass.md) or ZenDesk ticket to track request.
+1. Requester has [filed an internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) or ZenDesk ticket to track request.
 1. Request is approved or created by a [Community Relations](https://about.gitlab.com/handbook/marketing/community-relations/#-meet-the-team) team member.
 1. GitLab.com admin account
 
