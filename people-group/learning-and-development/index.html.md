@@ -122,6 +122,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
+*[Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla) 
 
 ## Contact Us
 
