@@ -11,7 +11,7 @@ category: Handling tickets
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Support Uploader
+# Global Support Uploader
 
 The [project](https://gitlab.com/gitlab-com/support/support-uploader) is accessible to all Support team members at [https://uploader.gitlab.support](https://uploader.gitlab.support) (NOTE: currently, this requires both GitLab Pages and Okta authentication, both should happen automatically if you are signed in).
 
@@ -21,6 +21,7 @@ The [project](https://gitlab.com/gitlab-com/support/support-uploader) is accessi
 
 * The expiration time for the upload request bundle is 48 hours (after 48 hours from the time the bundle was generated, file uploads won't work using them)
 * The limit per file is 3 GB
+* The Support Uploader is not compatible with the US Federal Support Portal
 
 These are the current defaults but may change in the future.
 
