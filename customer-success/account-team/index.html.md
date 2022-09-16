@@ -40,6 +40,8 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 ### Strategic Account Leader (SAL) / Account Executive (AE)
 - Negotiates contracts and price on initial sale and renewals
 - Should have a strategy for prospects and how to close
+- Works with the Solutions Architect (SA) on pre-sales prospects and post-sale upgrades
+- Works with the Customer Success Manager (CSM) on account planning and renewals
 
 ### Solutions Architect (SA)
 - Should lead discovery calls to find out where and why the prospect is having issues in the SDLC
@@ -49,11 +51,17 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 - Owns the technical side for responding to RFP/RFIs
 
 ### Customer Success Manager (CSM)
-- Trusted strategic and technical advisor to the customer
-- Should handle all things post-sales for the customer (onboarding, stage adoption, EBRs, lunch and learns, etc.)
+- Trusted strategic advisor to the customer
+- [Responsible](/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
+   - Onboarding
+   - Success Planning 
+   - Stage adoption & expansion
+   - Executive Business Reviews
+   - Risk Mitigation
+   - Renewal Discussions
 - Leads regular cadence calls and keeps the customer collaboration projects up-to-date
 - Maintains Gainsight records of customer health and triaging as necessary
-- Escalation PoC
+- Account escalation point of contact for [High or Critical Escalations](/customer-success/csm/escalations/)
 
 ## Account Team Meetings
 
