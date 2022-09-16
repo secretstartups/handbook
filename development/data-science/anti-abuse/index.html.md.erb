@@ -35,13 +35,9 @@ The following people are permanent members of the Anti-Abuse Group:
 | --- | --- |
 | [Alex Buijs](https://about.gitlab.com/company/team/#alexbuijs) | Senior Fullstack Engineer |
 | [Eugie Limpin](https://about.gitlab.com/company/team/#eugielimpin) | Senior Fullstack Engineer |
-| [Guillermo De los Santos García](https://about.gitlab.com/company/team/#GuillermoDLSG) | Senior Backend Engineer |
 | [Hinam Mehra](https://about.gitlab.com/company/team/#hmehra) | Fullstack Engineer |
 | [Jay Swain](https://about.gitlab.com/company/team/#jswain) | Engineering Manager |
 | [Jensen Stava](https://about.gitlab.com/company/team/#jstava) | Sr. Product Manager |
-
-
-
 
 ## How to contact us
 
@@ -62,40 +58,17 @@ Our team uses a hybrid of Scrum for our project management process. This process
 
 Our team use the following workflow stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-### Epic roadmap
-
-We use an epic roadmap to track epic progress on a quarterly basis.
-
 ### Issue boards
 
-We use a team specific [issue board](https://gitlab.com/groups/gitlab-org/-/boards/4292845?milestone_title=Any%20Milestone&label_name%5B%5D=group%3A%3Aanti-abuse) which can be [grouped by epic](https://gitlab.com/groups/gitlab-org/-/boards/4292845?milestone_title=Any%20Milestone&label_name[]=group%3A%3Aanti-abuse&group_by=epic) to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
+We use a team specific [issue board](https://gitlab.com/groups/gitlab-org/-/boards/4292845?milestone_title=Any%20Milestone&label_name[]=group%3A%3Aanti-abuse&group_by=epic) to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work.
 
 ### Iteration
 
 We follow the [iteration process](/handbook/engineering/development/principles/#iteration) outlined by the Engineering function.
 
-### Weekly refinement
+### Refinement
 
-Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in our group channel. During refinement, we make sure that every issue on the issue board is kept up to date with the necessary details and next steps.
-
-Each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
-
-```
-<!---
-Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
-- ~"workflow::In dev"
-- ~"workflow::In review"
-- ~"workflow::verification"
-- ~"workflow::blocked"
--->
-### Async issue update
-1. Please provide a quick summary of the current status (one sentence).
-1. When do you predict this feature to be ready for maintainer review?
-1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
-1. Were expectations met from a previous update? If not, please explain why.
-```
-
-We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
+Refinement is the responsibility of every team member. While planning out an epic or a feature we break it down into small consumable chunks. This process is challenging, and takes time. This is why we've set a [weekly refinement meeting](#team-meetings).
 
 ### Milestone Planning and Timeline
 
@@ -128,3 +101,27 @@ We tag each issue and MR with the planned milestone or the milestone at time of 
 Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](https://about.gitlab.com/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
 
 We have a weekly team sync meeting with rotating [EMEA/AMER](https://drive.google.com/drive/folders/1nm7FRZ0f9T4ajbmJvz4LYLVWl5cXiXiQ?usp=sharing) and [AMER/APAC](https://drive.google.com/drive/folders/1wLdWWi3f6Aho6E2m4Xbhv1Nuoy_ZSC1e?usp=sharing) friendly time slots: Weds 14:30 UTC and Thurs 00:00 UTC.
+
+We have a weekly refinement session Friday 00:00 UTC.
+
+## Pipeline Validation Service responsibility
+
+[PVS](https://gitlab.com/gitlab-org/modelops/anti-abuse/pipeline-validation-service) is an internal service that belongs to the Anti-abuse team. It’s a combination of heuristic-based (text matching, etc) and behavior-based rules (duplicate builds, etc). The [Trust and Safety team](https://about.gitlab.com/handbook/engineering/security/security-operations/trustandsafety/) leverages this service the most, and acts as the customer for feature requests.
+
+### Heuristic rules
+
+Due to the nature of cryptomining attacks, heuristics are going to change quickly and need to be implemented rapidly. Accordingly, T&S is invited to submit MR’s to PVS that are heuristic based, or alternatively [request these changes](https://gitlab.com/gitlab-org/modelops/anti-abuse/pipeline-validation-service/-/issues/new?issuable_template=pvs_miss) from the Anti-abuse team.
+
+### Behavior rules
+
+Behavior rules are more slow to change and potentially cast a much wider net (vs a very targeted heuristic rule). Changes to behavior rules are expected to come from T&S, and implemented by the Anti-abuse team.
+
+### Severity and Priority
+
+[Severity](https://about.gitlab.com/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) and priority will be added on all issues/merge requests created by T&S so that Anti-abuse can act on them accordingly.
+
+Priority will be based on impact and likelihood of the attacker returning.
+
+### Iteration
+
+Anti-abuse will periodically review the accuracy of PVS alerts to see where there are opportunities to reduce the False Positive rate, without impacting the true positives, and Trust and Safety will help provide the required information to do this.
