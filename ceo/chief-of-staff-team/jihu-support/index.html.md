@@ -99,6 +99,16 @@ graph LR
   repo(GitLab Inc. Repo)
 ```
 
+#### Upstream feature contribution guidelines
+
+For large initiatives, ones that take multiple MRs or have broad-range implications, upstream feature contributions are more efficient and predictable when there's joint upfront planning. In order to set up both teams for success they should follow these guidelines:
+
+1. **At least one milestone prior to the milestone where implementation starts** - JiHu team creates an upstream feature planning issue that provides an overview of the feature scope in English, intended uses, and iterative implementation plan. JiHu will ask the relevant team's PM and EM for feedback on the issue and implementation plan. 
+   - The relevant GitLab product group will provide feedback on the feature, the relevant iterative implementation plan and provide feedback to JiHu.
+1. **During implementation start** - JiHu team will author MRs following the implementation plan and upstream guidelines below. The review will be done based on the agreement in the feature planing issue.
+
+Example upstream planning issue: TBD
+
 ##### Guidelines for iterative contributions
 
 Bigger product feature contributions should follow GitLab
