@@ -62,6 +62,7 @@ Based on the identified type of risk, the CSM can use some of the following ques
 
 ### Product Usage (not using features & functionality in their license tier)
 #### Ultimate Customer not using Secure
+We should generally begin by presenting our DevSecOps Maturity Score demonstrating to the customer their current usage of GitLab Secure. Once they understand the level to which they're using Secure, we can dig a bit deeper with some discovery questions...
    1. `What kind of security tests are mandated or recommended within your organization?`
       - If they give any answer related to 3rd party products, just to question 2.
       - If they say “nothing is mandated/recommended”, ask “why”.
@@ -106,13 +107,13 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 ### Product Usage (not using features & functionality in their license tier)
 #### Ultimate Customer not using Secure
-- Offer a [Secure Workshop](/handbook/customer-success/workshops/secure/)
-- Try to come up with an adoption strategy that will get them to use more Secure
+- Offer a [Secure Workshop](/handbook/customer-success/workshops/secure/) if they don't understand the value of GitLab Secure.
+- Present our [DevSecOps Adoption Path](https://docs.google.com/presentation/d/16dQw4KI-swX85G8utpdVUkT_BXGYsvtlu3Qb_-VP6Bg/edit#slide=id.g14710b3b06d_0_232) **[Internal Link]** to a Development Team Lead to help guide the customer to adopting GitLab Secure functionality. Presenting to the right persona is critical as they have the influence to enact/enforce the adoption path recommendations
 - Try to identify teams who are willing to test out Secure functionality at a small scale
 - Try to engage with the Security team to find out what policies aren't being followed
-- Try to engage with the Economic Buyer and let them know of the lack of adoption and your concerns
+- Try to engage with the Economic Buyer and let them know of the lack of adoption (through a DevSecOps Maturity Score presentation) and your concerns
    - Encourage them to implement a top-down mandate to use more GitLab Secure
-
+- Track adoption progress during cadence calls by presenting updated DevSecOps Maturity Scores and trend patterns
 ### Lack of engagement/Loss of champion
 - For lack of engagement, please see our [Strategies for Non-Engaged Customers](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) handbook page.
 - For a loss of champion, this will require more legwork from the CSM and SAL.
