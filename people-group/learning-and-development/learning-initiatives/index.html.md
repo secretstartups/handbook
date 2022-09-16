@@ -14,7 +14,7 @@ description: "The Learning & Development team is rolling out learning programs t
 
 The Learning & Development team is rolling out learning programs to enable a culture of curiosity and continual learning. The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics.
 
-Check out our [monthly announcements](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/monthly-announcements) for upcoming programs for team members.
+Team members can follow our [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/G018JT50VH7-1663352618.329159) for upcoming programs.
 
 We record our [past initiatives](/handbook/people-group/learning-and-development/learning-initiatives/past-initiatives) so that we can share and revisit our programs over time.
 
