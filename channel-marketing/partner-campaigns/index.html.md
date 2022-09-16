@@ -115,6 +115,8 @@ When a lead/contact is associated to a campaign the following steps occur:
 1. Marketo processes the lead, marks as `Marketing Suspended` and syncs to SFDC
 1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
 
+DRI for the operalization of this process: Channel Marketing
+
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
 
@@ -130,6 +132,7 @@ When a lead/contact is associated to a campaign the following occurs:
     1. If lead/contact is marked as `Vegan` and has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData will assign to appropriate SDR
     1. If lead/contact is marked as `Vegan` and DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
 
+DRI for the operalization of this process: Field Marketing 
 
 ## Trials from Partners
 Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner.  
