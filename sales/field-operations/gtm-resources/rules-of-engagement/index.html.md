@@ -48,7 +48,7 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
     1. SALs and AEs should not be selling into non-owned Accounts. Two policies apply to prevent this behavior:
         1. "Chalk the Line" applies when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner.  
         1. "Lame Duck" applies when a SAL or AE knows an Account is not theirs but they do not take action to have it moved to the correct segment and/or owner. 
-    1. Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE manager's discretion as to applicable disciplinary action. 
+    1. Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action. 
 1. **Account Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
         1. Field Sales Management temporarily covering an account
