@@ -84,7 +84,7 @@ Please create your final expense report to Expensify (for employees), OR, please
 
 #### How do I submit reimbursable expenses if I don’t have a GitLab access to Expensify?
 
-Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
+Please follow the process as listed on the Expense Handbook [page](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
 
 #### Other Reimbursements, Refunds or Repurchasements
 
