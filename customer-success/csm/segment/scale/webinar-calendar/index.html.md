@@ -22,21 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### September 2022
 
-### Intro to CI/CD 
-#### September 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RUr9MxU6SEa7H2rhZ-2YEQ)
-
-### Intro to CI/CD Office Hours
-#### September 13th, 2022 at 12:00PM-1:00PM Eastern Time/4:00-5:00 PM UTC
-
-In our office hours following our Intro to CI/CD webinar, we will focus on questions that are commonly asked by new users of CI/CD with GitLab.
-To help us prepare, please submit your questions as comments to [this issue](https://gitlab.com/gitlab-com/customer-success/scale-office-hours/-/issues/2). 
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BqVPDefxTpu5R4r8tvJgvA)
-
 ### Advanced CI/CD
 #### September 21st, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
