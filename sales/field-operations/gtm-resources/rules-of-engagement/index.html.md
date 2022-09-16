@@ -45,9 +45,9 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
 
 1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Account Demographics](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.thpuid9gpo74) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain Unknown until resolved through manual research and a link to a reputable data is provided to the Sales Operations team to confirm. Follow the process to request changes to the Account Demographics inputs if the account information is missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as SMB with a placeholder of -1 employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process below.
 1. **Non-Owned Accounts:**
-    1. SALs and AEs should not be selling into non-owned Accounts. Two policies apply to prevent this behavior:
-        1. "Chalk the Line" applies when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner.  
-        1. "Lame Duck" applies when a SAL or AE knows an Account is not theirs but they do not take action to have it moved to the correct segment and/or owner. 
+    1. SALs and AEs should not be selling into accounts they do not own. Two policies apply to prevent this behavior:
+        1. **Chalk the Line** applies when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner.  
+        1. **Lame Duck** applies when a SAL or AE knows an Account is not theirs but they do not take action to have it moved to the correct segment, region and/or owner. 
     1. Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action. 
 1. **Account Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
