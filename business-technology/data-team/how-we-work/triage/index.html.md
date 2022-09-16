@@ -47,7 +47,7 @@ Steps to uplevel triaging process:
 | [Product Data Insights](https://gitlab.com/gitlab-data/product-analytics) |
 | [Business Analytics](https://gitlab.com/gitlab-com/business-analytics) |
 | [Engineering Analytics](https://gitlab.com/gitlab-com/quality/engineering-analytics) |
-| [People Analytics](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2) |
+| [People Analytics](https://gitlab.com/gitlab-com/people-group/people-analytics) |
 | [Customer Success Operations - Use CSAnalytics label](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations) |
 | [Online Sales and Self-Service](https://gitlab.com/gitlab-com/sales-team/self-service) |
 
