@@ -106,7 +106,7 @@ In particular for long running Rails console tasks, it *may* be acceptable to in
 
 ### Criticality 1
 
-These are changes with high impact or high risk. If a change is going to cause downtime to the environment, it is always categorized a `C1`.
+These are changes with high impact or high risk. If a change is going to cause downtime to the Production environment, it is always categorized a `C1`.
 
 **Examples of Criticality 1:**
 
@@ -133,7 +133,9 @@ The EOC must be engaged for the entire execution of the change.
 
 ### Criticality 2
 
-These are changes that are not expected to cause downtime, but which still carry some risk of impact if something unexpected happens. For example, reducing the size of a fleet of cattle is usually ok because we've identified over-provisioning, but we need to take care and monitor carefully before and after.
+These are changes with high impact or high risk. If a change is going to cause downtime to the Staging environment, it is always categorized a `C2`.
+
+These are changes that are not expected to cause downtime in Production, but which still carry some risk of impact if something unexpected happens. For example, reducing the size of a fleet of cattle is usually ok because we've identified over-provisioning, but we need to take care and monitor carefully before and after.
 
 **Examples of Criticality 2:**
 
