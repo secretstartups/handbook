@@ -20,6 +20,51 @@ these challenges**. The **Architecture Evolution Workflow** is intended to
 provide influence amplification and iteration framework to drive the solution
 of complex problems both technically and organizationally.
 
+## Blueprints
+
+Blueprints are the primary artifact that the workflow revolves around.
+They are version controlled documents that are released alongside our
+[user-facing documentation](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints).
+
+Long-term iterations, either on features or complex architectural changes, are
+challenging because it is easy to lose consensus, conceptual integrity,
+architectural consistency, or alignment in why and how we are doing something.
+
+A blueprint describes a technical vision and a set of principles that evolve as
+we move forward. It acts as guardrails to keep team aligned. A blueprint gets
+constantly updated with new insights and knowledge, after every iteration, to
+become even more useful as we make progress with implementing it.
+
+### Why are blueprints tracked?
+
+Blueprints are tracked as version controlled documents. This enables anyone to propose
+changes in the form of merge requests. By doing so we can ensure that:
+
+- there is always a single document that represents the current state of a given proposal
+- you do not have to traverse multiple issues or threaded discussions to grok our direction
+- feedback can be given and applied in the form of concrete suggestions
+
+### Does my thing require a blueprint?
+
+A blueprint is required for changes that meet any of the following conditions:
+
+- a blog post would be written about after its release
+- requires coordination across multiple functions
+- could impact overall system stability
+- requires significant effort or changes GitLab in a significant way
+  (ex. something that would take 10 person-weeks to implement,
+  introduce or redesign a system component, or introduces API changes)
+- impacts the operation of GitLab substantially, will require manual upgrades,
+  or introduce special handling across distributions and deployments
+- adds a new service outside of the rails monolith, or an additional data source.
+
+Invoking this workflow is unecessary if:
+
+- fixing a flaky test
+- minor refactoring of code
+- performance improvements, which are only visible to users as faster API operations
+- upgrading API-compatible versions of dependencies
+
 ## Workflow: TL;DR
 
 As an engineer, you and your manager determine whether to invoke the
