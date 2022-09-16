@@ -21,29 +21,18 @@ title: "Frontend Group"
 
 ### Frontend domain experts
 
-Do you have a question concerning the frontend for a product area? As a product manager do you want to run a new idea by a frontend engineer? Do you want to learn more about how the current implementation works? Do you have specific frontend technology questions or have some idea/inputs?
+You can find engineers with expertise in various frontend domains on the engineering 
+projects page under the following sections:
 
-**Wait no more, here are our frontend domain experts who can help you out**
-- Merge Requests - [Phil Hughes](/company/team/#iamphill)
-- Design Management - [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
-- Portfolio Management + Geo - [Kushal Pandya](/company/team/#Kushal_Pandya)
-- Web IDE - [Denys Mishunov](/company/team/#mishunov), [Paul Slaughter](/company/team/#pslaughter)
-- Content Editor - [Enrique Alcántara](/company/team/#ealcantara)
-- Source Editor - [Denys Mishunov](/company/team/#mishunov)
+- [GitLab maintainers with domain expertise](/engineering/projects/#gitlab_maintainers_frontend)
+- [GitLab reviewers with domain expertise](/engineering/projects/#gitlab_reviewers_frontend)
 
-Technical:
-- Testing - [Illya Klymov](/company/team/#xanf), [Paul Slaughter](/company/team/#pslaughter) 
-- UI Components - [Clement Ho](/company/team/#ClemMakesApps), [Enrique Alcántara](/company/team/#ealcantara)
-- Webpack + Tooling - [Mike Greiling](/company/team/#mikegreiling)
-- NPM Dependency Janitor - [Lukas Eipert](/company/team/#leipert)
-- GraphQL - [Illya Klymov](/company/team/#xanf), [Kushal Pandya](/company/team/#kushalpandya), [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
+You can reach out to these experts to get help on:
 
-**They are responsible for**
-- Person to contact about a specific topic
-- Analyzing and Estimation of Deliverables
-- Active Deliverable Creation (especially technical topics)
-- Analysis of topics in that area (by example Research Linters for Security Checks)
-- Active Bug tracking of bugs in that area
+- discussing and defining the architecture of complex frontend features.
+- frontend technical topics like Vue, GraphQL, CSS, testing, tooling, etc.
+- proposing changes to the cross-domain frontend architecture via an RFC. 
+- Questions about the frontend for a product area like design management, merge requests, pipelines, etc.
 
 ### Frontend group calls
 
