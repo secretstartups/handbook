@@ -26,7 +26,7 @@ Remote-work events can be a great place to meet others who have experience and c
 >A conference is a company or industry-specific meeting where people gather to discuss topics related to their field. 
 >
 
-A remote work conference happens online and is usually somewhat formal. Speakers have been chosen ahead of time to deliver presentations or participate in panel discussions, such as the [REMOTE by GitLab](https://remotebygitlab.com/) and other global [conferences featuring GitLab speakers](/events/?type=conference&location=any+location+type&region=any+region+type).
+A remote work conference happens online and is usually somewhat formal. Speakers have been chosen ahead of time to deliver presentations or participate in panel discussions, such as the [REMOTE by GitLab](https://remotebygitlab.com/) and other global [conferences featuring GitLab speakers](/events/).
 
 ### REMOTE by GitLab 
 
