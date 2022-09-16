@@ -314,6 +314,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - kubernetes
 - news
 - open source
+- partners
 - patch releases
 - performance
 - product 
