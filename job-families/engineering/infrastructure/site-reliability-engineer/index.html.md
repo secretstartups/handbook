@@ -95,7 +95,7 @@ The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensatio
    1. Provision and setup logs and queries for general questions
    1. Operating system (Linux) configuration, package management, startup and troubleshooting
    1. Block and object storage configuration
-   1. Netwotking VPCs, proxies and CDNs
+   1. Networking VPCs, proxies and CDNs
 
 1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
 
