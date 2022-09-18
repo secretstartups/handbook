@@ -198,18 +198,20 @@ The CSM Manager is responsible for developing and delivering a [Quarterly Busine
 ## Gainsight/Customer Review in Director/CSM Manager 1:1 Cadence: 
 
 1st week: 
-- Onboarding Metrics, Overdue onboarding (burn-down) EBRs due & completed
+- Onboarding Metrics, Overdue onboarding (burn-down) EBRs overdue, Engagement/Cadence Calls overdue (focus on PR1)
 - Development: Personal Growth Plan
 - Recruiting update: open headcount hiring status, quality and pipeline
 - Discussion
 
 2nd week:
 - Success Plan Review (2 SPs)
+- Upcoming At-Risk Renewals (Contractions, Churn, for rolling 90 days)
 - OKR /Big Rock initiatives progress
 - Discussion
 
 3rd week:
-- Adoption/Expansion Playbooks by CSM, Adoption Metrics (CSM Proactive Dashboard) 
+- Adoption Playbooks Opened, Closed Quarter to Date
+- Adoption Risk (Red DevSecOps, Low License)
 - Recruiting update: open headcount hiring status, quality and pipeline
 - Discussion
 
