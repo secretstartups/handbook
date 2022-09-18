@@ -12,8 +12,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-⚠️ This information is under active development and will continue to evolve. This page will be updated on an ongoing basis with our roll-out iterations.
-{: .alert .alert-warning}
+### [Request Assistance from a Scale CSE (Internal Request form for AEs and SALs)](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#requesting-scale-cse-engagement-account-owners-only---aes-sals)
 
 ## Overview
 
