@@ -140,6 +140,16 @@ For more questions and answers about Attorney-Client Privilege in the corporate 
 A litigation hold is the process GitLab uses to preserve all forms of relevant evidence, whether it be emails, instant messages, physical documents, handwritten or typed notes, voicemails, raw data, backup tapes, and any other type of information that could be relevant to pending or imminent litigation or when litigation is reasonably anticipated. Litigation holds are imperative in preventing spoliation (destruction, deletion, or alteration) of evidence which can have a severely negative impact on a company's case, including leading to sanctions. Once GitLab becomes aware of potential litigation, a GitLab attorney will provide notice to the impacted team members, instructing them not to delete or destroy any information relating to the subject matter of the litigation. The litigation hold applies to paper and electronic documents. During a litigation hold, all retention policies must be overridden.
 </details>
 
+## Freedom of Information Act Requests
+
+<details>
+ <summary markdown="span">What is a Freedom of Information Act (FOIA) request?</summary>
+The Freedom of Information Act (“FOIA”) provides public access to all United States federal agency records except for those records (or portions of those records) that are protected from disclosure by any of [nine exemptions or three exclusions](https://www.dhs.gov/foia-exemptions) (reasons for which an agency may withhold records from a requestor). Occasionally the records of a federal agency under a FOIA request may include GitLab records in the possession of the agency (i.e. when the agency is a customer of Gitlab). In such an event, the federal agency will notify GitLab of the FOIA request and provide GitLab with the documents that the federal agency intends to release in response to the FOIA request. A GitLab legal team member will review the list and content of the documents identified by the federal agency pursuant to the FOIA request and will provide the appropriate response and/or make redactions to those documents, as necessary, prior to their release. 
+
+In the event you receive a notification from a US federal agency pursuant to a FOIA request, indicating that GitLab documents or information have been identified for release by an agency , please immediately forward the request to FOIA@gitlab.com.
+
+</details>
+
 ## Foreign Corrupt Practices Act
 
 <details>
