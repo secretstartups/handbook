@@ -31,12 +31,9 @@ initial proposal and add your thoughts to the discussion on
 
 ## Responsibilities
 
-Buddies will be expected to adhere to a minimum set of responsibilities. These
-responsibilities include:
+At a minimum, Time Of Buddies are expected to review their buddy's tickets each day until their return, and action them accordingly. This _does not_ mean that buddies must _work_ the tickets, but instead that they should be prepared to interact with anything that needs attention.
 
-1. Something
-1. Something else
-1. Something more
+Since this is intended to be a low barrier program, the baseline responsibilities are intentionally simple. Time Off Buddies are welcome to work with their buddy to develop additional responsibilities as they see fit.
 
 ## Tips
 
@@ -45,6 +42,8 @@ included here to get you started.
 
 - Set up a "time off" pairing session with your buddy 1-2 days prior to going on vacation to discuss tickets and expectations.
 - Set up a "catch-up" pairing session with your buddy 1-2 days after your return to get up-to-speed on the state of your tickets.
+- Inform your buddy of upcoming OOO as soon as it's scheduled
+- Set your buddy as covering for ticket reopens (and other agreed-upon responsibilities) in PTO by Roots
 
 ### Use pairings
 
