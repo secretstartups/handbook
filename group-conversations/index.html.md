@@ -340,11 +340,11 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday September 20 | CosT  | Stella Treas | N/A |
 | Wednesday September 21 | General (CEO) | Sid Sijbrandij | N/A |
 | Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
-| Tuesday September 27 | CRO | Mike Pyle | N/A|
+| Tuesday September 27 | Quality | Mek Stittri | September 22 |
 | Wednesday September 28 | Support | Tom Cooney| September 14 |
 | Thursday September 29 | MECC AMA | Darren Murph | N/A |
 | Tuesday October 4 | Finance | Brian Robbins | September 27 |
-| Wednesday October 5 | Quality | Mek Stittri | September 22 |
+| Wednesday October 5 | CRO | Mike Pyle | N/A |
 | Thursday October 6 | Development | Christopher Lefelhocz | September 28 |
 | Tuesday October 11 | **Available** | | Key Review Date? |
 | Wednesday October 12 | **Available** | | Key Review Date? |
