@@ -60,7 +60,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
 
 1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
 1. If necessary click Edit Profile to update the candidate's name to their legal name (given during the reference/background check stage) and list any preferred names in quotes as the first name. Legal names are required on contracts and for proper export to Bamboo HR.
-1. Ensure the start date is on a Monday, unless Monday is a holiday/[no start date](/handbook/people-group/people-experience-team/#people-experience-team-availability) or the non-Monday date is legally required.
+1. Ensure the start date is on a Monday, unless Monday is a holiday/[no start date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/#people-connect-availability) or the non-Monday date is legally required.
 1.  Update signatory and entity by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
 1. Next you'll need to update the signatory's permissions to ensure we're able to send the DocuSign contract to them.
     - Navigate to `Job Setup` at the top of the page.
