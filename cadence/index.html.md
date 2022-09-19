@@ -17,38 +17,14 @@ The period of each cadence differs.
 The timescale between periods are about 4x, varying from 3x to 5x.
 Below are the cadences we have at GitLab:
 
-1. Day
-1. Week (5 workdays)
-1. Month (4.3 weeks)
-1. Quarter (3 months)
-1. Year (4 quarters)
-1. Strategy (3 years)
-1. Vision (10 years, 3.3x)
 1. Mission (30 years, 3x)
-
-## Day
-
-1. [Group conversation](/handbook/group-conversations/){:data-ga-name="group conversation"}{:data-ga-location="body"}
-
-## Week
-
-1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
-1. [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/){:data-ga-name="wow rule"}{:data-ga-location="body"}
-1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
-
-## Month
-
-1. [Key Reviews](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}
-1. [Release](/releases/){:data-ga-name="releases"}{:data-ga-location="body"}
-1. [Retrospective](/handbook/communication/#kickoffs){:data-ga-name="retrospective"}{:data-ga-location="body"}
-1. [Most KPIs](/company/kpis/){:data-ga-name="metrics"}{:data-ga-location="body"}
-
-## Quarter
-
-1. [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
-1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
-1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
-1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
+1. Vision (10 years, 3.3x)
+1. Strategy (3 years)
+1. Year (4 quarters)
+1. Quarter (3 months)
+1. Month (4.3 weeks)
+1. Week (5 workdays)
+1. Day
 
 ## Year
 
@@ -57,6 +33,31 @@ Below are the cadences we have at GitLab:
 1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
 1. [Annual Strategy Review](/company/offsite/#recurring-discussion-topics)
 1. [Top Cross-Functional Initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives)
+
+## Quarter
+
+1. [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
+1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
+1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
+1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
+
+## Month
+
+1. [Key Reviews](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}
+1. [Release](/releases/){:data-ga-name="releases"}{:data-ga-location="body"}
+1. [Retrospective](/handbook/communication/#kickoffs){:data-ga-name="retrospective"}{:data-ga-location="body"}
+1. [Most KPIs](/company/kpis/){:data-ga-name="metrics"}{:data-ga-location="body"}
+
+## Week
+
+1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
+1. [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/){:data-ga-name="wow rule"}{:data-ga-location="body"}
+1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
+
+## Day
+
+1. [Group conversation](/handbook/group-conversations/){:data-ga-name="group conversation"}{:data-ga-location="body"}
+
 
 ```mermaid
 gantt
