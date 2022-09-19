@@ -130,7 +130,7 @@ The manager and the team member should have walked through the guidelines on [un
 If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month”.
 1. **HIPAA:** " Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from People Ops”.
 1. **Unemployment Insurance:** "It is up to your state's labor agency (in CA: EDD) to decide if you are eligible for unemployment insurance”.
-1. ** Keep GitLab Informed:** "If you move I want to be sure your W-2 gets to you at the end of the year.
+1. **Keep GitLab Informed:** "If you move I want to be sure your W-2 gets to you at the end of the year.
 You may also contact X at GitLab (provide phone number and email address) with any other questions that you may have" (consider inviting them to contact you at anytime for any reason).
 
 ### Initiating an Involuntary Termination in Workday
