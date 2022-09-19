@@ -1676,6 +1676,15 @@ There are several benefits and reasons to sharing your calendar with everyone at
 
 If you add blocks of time spent on recurring tasks to your Google Calendar to remind yourself to do things (e.g. "Check Google Analytics"), consider marking yourself "Free" for those events so that coworkers know they may schedule a meeting during that time if they can't find another convenient time.
 
+### Google Calendar Appointment Scheduling
+
+This feature allows you to create a link to an availability schedule that you can send to your customers or coworkers for them to schedule a call according to your availability.
+
+This allows you to only show available spots while keeping your other calls private. This also avoids having to go back and forth between you and other person figuring out what day and time works best for both of you. Since this is a native Google Calendar functionality, there is no need to set up integrations with your calendar like other scheduling tools.
+
+A member of our Customer Success team created a [demo video of how to use this feature](https://youtu.be/NqJu_tg4aLs).
+
+
 ## Posting or streaming to YouTube
 
 See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
