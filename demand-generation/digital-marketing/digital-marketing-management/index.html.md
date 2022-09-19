@@ -33,7 +33,7 @@ We also support these objectives (ordered from top to bottom funnel):
 <!-- DO NOT CHANGE THIS ANCHOR -->
 *Note*: Some of the following labels only exist on the [Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing) level.
 
-* **Digital Marketing**: General label to track all issues related to Digital Marketing
+* **Digital Marketing Programs**: General label to track all issues related to Digital Marketing
 * **SEM**: Used for issues that require organic and paid search initiatives
 * **Paid Ads**: Used for any paid advertising campaign such as Google Ads
 * **Paid Social**: Used for paid social campaigns such as LinkedIn and Facebook Ads 
@@ -66,7 +66,7 @@ The Digital Marketing team’s strategy & execution ultimately leads to filling 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Who is PMG Digital?
 
-All paid digital campaigns are executed with the help of our digital agency PMG. PMG fees are a percentage of the paid digital spend, so total budgets will include the effective spend with a PMG fee. The only exception is account-centric Paid Display which is handled directly through [Demandbase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/), but PMG still handles regular Paid Display with GDN (Google Display Network) and DV360 (Google Display and Video 360). For GitLab digital initiatives, PMG provides:
+All paid digital campaigns are executed with the help of our digital agency PMG. PMG fees are a percentage of the paid digital spend, so total budgets will include the effective spend with a PMG fee. For GitLab digital initiatives, PMG provides:
 
 
 * Strategy & planning - Covering full-funnel paid strategy both holistically and granularly, considering the GitLab brand and audience for all channels and tactics.
@@ -159,6 +159,13 @@ Publisher sponsorships are when we engage a specific publisher in order to purch
 
 [Steps to set up Content Syndication in Marketo & SFDC](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
 
+**Project Managing Publisher Activities:**
+- PMG will create an issue to contract with Publishers. It is important to add specific filtering for all programs (region, personas, country limits, etc.)
+- Once under contract, create an epic in the marketing project ([epic code template](https://docs.google.com/document/d/1tvp-TGCFlRXO1GjlakDmXt5S1W1S-UE77VqnDNM2Fkc/edit)) and the additional issues `program tracking` and `list clean upload` and relate them to the epic. Follow instructions for the remaining issues.
+- Assign `program tracking` issue to the Campaign Manager that supports the region and assign the `list clean upload` issue to Jameson
+- Once the leads are received, you should process them and submit them to MOPs in 24-48 hours
+
+
 ### Media Planning
 {: #media-plan}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -173,7 +180,7 @@ For more information around our planning strategy with PMG, please refer to the 
 ### Digital Campaign Ad Specs
 {: #specs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Each paid channel has its own unique design specifications, ad copy character limits, and recommendations for their ad types to ensure ads can run at their optimal performance. If you do not yet have creative assets secured for your campaign, the design team can use this section as their guide when producing your creative.
+Each paid channel has its own unique design specifications, ad copy character limits, and recommendations for their ad types to ensure ads can run at their optimal performance. If you do not yet have creative assets secured for your campaign, the design team can use this section as their guide when producing your creative. The standard requests for paid social images based on PMG recommendations are 1080x1920px, 1080x1080px, and 628x1200px. 
 
 #### Paid Social
 {: #social-specs}
@@ -350,6 +357,8 @@ For information on the Financial Planning processes & timelines for Digital Mark
 <!-- DO NOT CHANGE THIS ANCHOR -->
 If you would like to request a paid digital marketing promotion in paid search, paid social, paid sponsorships or other paid marketing to support your event, content marketing, webcast, asset, etc. create an issue in the [Digital Marketing Project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues) and then follow the [Paid Digital Request template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/blob/master/.gitlab/issue_templates/paid-digital-request.md).
 
+The digital marketing team reviews our [triage board](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/boards/3859975) twice weekly to determine whether a request is complete and whether the request fits within the scope of our budget, segment plan, and GTM motion goals. If the request is missing key details, it will be reassigned to the request and stay in `triage` status. Below are the pertainent fields. 
+
 ### Issue Items Defined
 {: #issue-items}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -476,7 +485,20 @@ The implementation of Lead Gen Forms (LGF) in our LinkedIn sponsored ads has inc
 
 Since inquiries are submitted in-app within our LinkedIn ads and not via GitLab owned landing pages, these inquiries are considered offline touchpoints and do not generate the same Bizible touchpoint data as normal inquiries. 
 
-The Marketo programs that listen for LinkedIn Lead Gen Forms can be found in the social media content](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6504A1) folder. Each GTM has it's own program, with different flow steps based on the content utm that trigger the correct autoresponder email. Autoresponder emails need to be created for new assets before launching. 
+The Marketo programs that listen for LinkedIn Lead Gen Forms can be found in the [social media content](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6504A1) folder. Each GTM has it's own program, with different flow steps based on the content utm that trigger the correct autoresponder email. Autoresponder emails need to be created for new assets before launching. 
+
+**Steps for creating Lead Gen Forms**
+Step-by-step Marketo Program [instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) are available. In most cases, you will NOT need a brand new Marketo program and you will add flow steps to the existing GTM programs. New programs are required for localized assets or assets being used for PubSec. i.e. if you have a new DevOps asset, you will build everything in the `2021_social_devopsgtm_LinkedIn Lead Gen` program. 
+
+1. Digital - Request PMG (in digital advertising issue) to create a new LinkedIn LGF. The issue must contain `utm_campaign` and `utm_content` for PMG to create
+2. Digital - Create a LinkedIn LGF issue and assign to campaign manager aligned to the GTM
+  - Includes steps for program set up, auotresponder, testing, and approvals
+  - No copy doc, email should be a copy/clone of the gated asset autoresponder
+3. Digital - Request PMG (in digital advertising issue) to submit a test LGFs
+4. Digital/Campaigns - Confirm email address is in the program and correct autoresponder delivered
+5. MOPs - Tag `insert handle` in issue for review of program for any necessary exclusions or troubleshooting
+6. Digital -  Approve PM launch doc and request PMG to go live
+
 
 ### LinkedIn Targeting
 {: #linkedin-targeting}
