@@ -59,6 +59,8 @@ also refer to insights around the demonstration purpose and area of product walk
   * The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
   * The SA debriefed internally with their SAL/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
 
+- **Guided Trial** - This activity type is used in case a prospect or existing customer needs support from an SA during their self-evaluation via the GitLab Free trial offering.
+
 - **Security Questionnaire / RFP** - The SA should use this activity type to record actions related to completing security assessments or progressing opportunities through tender processes. Examples of activities that fit into this category are;
   * Security Assessment: Although technically speaking part of the tendering process, Security Assessment generally involve the SA to interact with GitLab governing divisions ensuring accuracy and legal responses. As such, the SA engages with a GitLab division internally to address those Security specific requirements but ahead of the process, the SAs have a responsibility to attempt in the form of a first attempt to the queries.
   * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
@@ -67,7 +69,13 @@ also refer to insights around the demonstration purpose and area of product walk
 
 - **Technical Support** - SA conducts the technical support sessions as the account team and with GitLab Support to troubleshoot and address specific technical issues and challenges.
 
-- **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.  
+- **Positioned Professional Services** - This activity type should be used when positioned Professional services as part of the [Solution Architects Processes](/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)  
+
+- **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.
+
+- **SA Assistance - Subject Matter** - A [SA] is requested to support another Gitlab Team Member with their advanced knowledge and understanding in a certain subject, without owning the particular engagement or opportunity.
+
+- **SA Assistance - Manager** - To be used by [SA] Manager in case of assisting a customer engagement.
 
 ### Description for Strategic Field SA Activity
 
