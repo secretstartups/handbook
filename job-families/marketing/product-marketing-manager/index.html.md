@@ -13,7 +13,7 @@ We work in a unique way at GitLab, where flexibility meets a high paced, pragmat
 
 ### Job Grade 
 
-The Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -64,7 +64,7 @@ Senior product marketing managers are leaders and bring deep experience in a spe
 
 ### Job Grade 
 
-The Senior Product Marketing Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Product Marketing Managers also
 
@@ -91,7 +91,7 @@ The Senior Product Marketing Manager is a [grade 9](/handbook/total-rewards/comp
 
 ### Job Grade 
 
-The Principal Product Marketing Manager is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Product Marketing Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The principal level of this role exists at GitLab to ensure thought leadership in the market to inform future strategy. This role protects revenue growth in future fiscal years. This is a very niche role, with a specialised skill set reporting to the Director, Product Marketing.
 
@@ -298,34 +298,6 @@ Support the GitLab reference program, market research activities, and serve as a
 
 
 
-### Partner and Channel Marketing
-
-As the Partner Product Marketing Manager, you will work with our marketing, business development and sales teams, to develop and execute global go-to-market strategies and programs to drive customer acquisition and revenue growth for GitLab. Reporting to the Director, Product Marketing, you will have a global charter to enable partners and resellers within our growing partner and channel ecosystems. In addition, you’ll be responsible for crafting and implementing co-marketing campaigns targeting developers and IT professionals, to increase awareness and adoption of GitLab. You will work to shape go-to-market messaging and strategy for new offerings with partners and work with partners and resellers to build an effective and scalable ecosystem.
-
-#### Requirements
-
-#### Channel Marketing:
-
-* Extends that of the Intermediate or Senior level Product marketing manager requirements
-* Develop our worldwide channel marketing strategy, and train the field marketing team on regional execution that maximizes our reach and scale with channel partners.
-* Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
-* Spearhead enablement activity with resellers to drive end-user adoption, and manage MDF program.
-* Assist sales team in the development of actionable and measurable programs for our channel partners.
-* Work with field marketing to execute channel marketing programs, regionally.
-* Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
-* Assist in the preparation of reports to help evaluate activity and reseller effectiveness, conversion rate, and relative performance.
-* Market to, and through our channel. Ensure prospective resellers understand the value of partnering with GitLab.
-* Complete other duties as assigned to meet company channel goals.
-
-#### Partner Marketing:
-
-* Initiate and develop co-marketing initiatives to execute in tandem with our partners.
-* Market the benefit of our technology partnerships to all GitLab prospects.
-* Develop and execute marketing programs when announcing new technology partnerships.
-* Develop sales enablement programs for new partnerships, training the sales team on added functionality and associated benefits.
-* Develop an ROI performance analysis for partner marketing initiatives and utilize findings to tailor future initiatives.
-* Develop outreach plan for existing partnerships maintaining a steady development of joint content and demand generation activities.
-* Create partnership positioning program for a cloud native approach and associated ecosystem.
 
 ### Market Insights
 
@@ -333,13 +305,13 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 
 #### Responsibilies  
 
-**Grade 8:**
+**Grade 7:**
 * Conduct research on current and future Enterprise IT trends through written reports, surveys, interviews and interactions with market analysts, industry conferences, self-study, and interactions with our customers to develop key insights for GitLab.
 * Help GitLab develop a deep knowledge and understanding of enterprise buyers including their challenges and goals that help them drive success for their companies.
 * Assess the DevOps ecosystem to distill the trends that influence GitLab’s addressable market.
 * Contribute to a consumable deliverable (in-person discussion, presentation, written report) in collaboration with the senior/principal MIM
 
-**Grade 9:** 
+**Grade 8:** 
 * Evaluate, analyze and present research results in a consumable and actionable format - whitepapers, web pages, case studies, conference presentations, sales enablement sessions, and executive presentations.
 * Help build and grow GitLab as a thought leader in the DevOps space by translating market insights into actionable recommendations for Product investment and GTM.
 * Participate and help prepare for industry analyst briefings as required.
@@ -347,7 +319,7 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 * Engage with internal stakeholders in two-way communication to drive the product in the right direction by leveraging the actionable recommendations into product issues that drive positive results against identified OKRs.
 * Strong communication skills that include the capability of representing GitLab externally at trade shows, customer events, conferences, etc. Solid presentation skills at all levels of the company.
 
-**Grade 9.5:**
+**Grade 9:**
 * Leverage the expertise in market research, syndicated data, customer insights and advanced data analytics to identify category-level market data sources that will contribute to the overall marketing insights strategy data set.
 * Design, document, manage, and present findings on primary (quantitative and qualitative) market insights research methodology recommendations to drive the overall approach to market insights research efforts.
 
