@@ -523,40 +523,74 @@ Alternatively, some of the following qualifications, may not necessarily be all 
 The Ecosystem team is responsible for seamless integration between GitLab and 3rd party products as well as making GitLab products available on cloud service providers’ marketplaces such as AWS. The team plays a critical role in developing APIs and SDK and expanding GitLab market opportunities.
 
 #### Responsibilities
+
 * Design, build, and maintain APIs, Webhooks, and SDK of Gitlab products.
 * Design, build, and maintain solutions to integrate to partner and 3rd party platforms.
 * Design, build, and maintain solutions for integrating with cloud service provider marketplaces, such as AWS.
 * Develop documentation and instructions of how to work with GitLab SDK & APIs.
 
 #### Requirements
+
 * Previous experience developing REST and/or GraphQL APIs using a variety of technologies.
 * Previous experience working with Open API standards such as Swagger.
 * Proficient with Ruby.
 * Proficient or fluent with one or more of other common languages: Go, Python, Java, Node, JavaScript, etc.
 * Familiar with full web technology stack (e.g. HTTP, cookies, asset loading, caching).
 
-### Gitaly
+### <a name="Gitaly"></a>Cluster
 
-Gitaly is a new service in our architecture that handles git and other filesystem operations for GitLab instances, and aims to improve reliability and performance while scaling to meet the needs of installations with thousands of concurrent users, including our site GitLab.com. This position reports to the Gitaly Lead.
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/create/gitaly/) page. This position reports to the Gitaly lead.
+
+Gitaly's high-availability storage requires developers who understand distributed storage systems, their management, observability and availability. **Cluster team** contributes features, fixes bugs and improves performance of this software stack.
 
 #### Responsibilities
+
 * Participate in architectural discussions and decisions surrounding Gitaly.
+* Design RPC interfaces for the Gitaly service.
 * Scope, estimate and describe tasks to reach the team’s goals.
-* Collaborate on designing RPC interfaces for the Gitaly service
+* Develop Gitaly in accordance with the product's goals.
 * Instrument, monitor and profile Gitaly in the production environment.
 * Build dashboards and alerts to monitor the health of your services.
 * Conduct acceptance testing of the features you’ve built.
 * Educate all team members on best practices relating to high availability.
 
 #### Requirements:
-* Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
-* Highly desirable: a good understanding of git’s internal data structures or experience running git servers. You can reason about software, algorithms, and performance from a high level.
-* Mandatory: willingness to learn Ruby.
-* Highly desirable: Experience working with Go. It’s important that candidates must be willing to learn and work in Go.
-* Highly desirable: experience with gRPC.
-* Understanding of how to build instrumented, observable software systems.
-* Experience highly-available systems in production environments.
 
+* Mandatory: proven [professional experience](#professional-experience) building, debugging, optimising software in large-scale, high-volume environments.
+* Mandatory: proven [professional experience](#professional-experience) writing and testing high-quality code.
+* Mandatory: a good understanding of building instrumented, observable software systems.
+* Highly desirable: proven [professional experience](#professional-experience) writing and testing quality code **in Go**.
+* Highly desirable: a good understanding of git’s internal data structures or experience running git servers.
+* Highly desirable: experience with gRPC.
+* Highly desirable: willingness to learn Ruby.
+* Highly desirable: experience running highly-available systems in production environments.
+
+### Git
+
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/create/gitaly/) page. This position reports to the Git team lead.
+
+Gitaly uses the open-source Git product under the hood to implement the business logic for repository access. **Git team** contributes features, fixes bugs and improves performance of upstream Git in accordance with product direction for both Git and GitLab/Gitaly.
+
+#### Responsibilities
+
+* Participate in architectural discussions and decisions surrounding Git and Gitaly.
+* Participate in the Git community, connect and bridge discussions in the opensource community with GitLab.
+* Scope, estimate and describe tasks to reach the team’s goals.
+* Develop Git in accordance with both the team's and the community's goals.
+* Adapt Gitaly to make best use of Git, including integrating new features.
+* Conduct acceptance testing of the features you’ve built and integrated.
+* Be a good citizen of the open-source community.
+
+#### Requirements:
+
+* Mandatory: a good understanding of building instrumented, observable software systems.
+* Mandatory: a good understanding of git’s code and data structures or experience running git servers.
+* Mandatory: proven [professional experience](#professional-experience) writing and testing quality code **in C**.
+* Mandatory: accepted contributions to the Git project.
+* Highly desirable: proven [professional experience](#professional-experience) writing and testing quality code **in Go**.
+* Highly desirable: experience with Linux internals (processes, memory management, I/O, filesystems).
+* Highly desirable: experience building, debugging, optimising software in large-scale, high-volume environments.
+* Highly desirable: experience running highly-available systems in production environments.
 
 ### Database
 
