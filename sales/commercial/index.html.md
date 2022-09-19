@@ -735,7 +735,7 @@ The GitLab Commercial departnment expects all Team members to uphold the highest
 Additionally, it is our expectation that if participating in the program, team members will make their best effort to attend meetings and learning activities. If they are unable to attend, participants should give the facilitator as much advance notice as possible. If participants are not present in the course, they will be removed from the program.
 
 **Who is eligible to participate?**
-Any Commercial team member that is in good performance standing (not currently on a performance or behavioral warning). We will be selecting 12 participants for this first cohort. It is our itention that this program continue after the first pilot program to continue to give Commercial team members a chance to grow their skills. 
+Any Commercial team member that is in good performance standing (not currently on a performance or behavioral warning) and has been in their current role for over 3 months.  We will be selecting 12 participants for this first cohort. It is our itention that this program continue after the first pilot program to continue to give Commercial team members a chance to grow their skills. 
 
 
 
