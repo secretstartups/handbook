@@ -108,7 +108,12 @@ If you get an error, use admin following the instructions in the next section.
 1. Click `Save`.
 
 
-### How to extend an NFR (Not for resale) SaaS trial using the rails console.
+### How to create an NFR (Not for resale) SaaS License 
+
+A NFR SaaS 'license' must begin with either an existing trial or a new trial on a GitLab namespace.  
+Console acccess is then required to convert from trial to an NFR subscription.
+
+## How to extend an NFR (Not for resale) SaaS trial using the rails console.
 
 To extend a trial SaaS extension.
 
