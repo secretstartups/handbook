@@ -41,12 +41,12 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 
 ### Performance indicators
 
-- [UX hiring actual vs plan](/handbook/engineering/ux/performance-indicators/#ux-hiring-actual-vs-plan)
-- [UX average location factor](/handbook/engineering/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook update frequency](/handbook/engineering/ux/performance-indicators/#ux-handbook-update-frequency)
-- [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](/handbook/engineering/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
-- [Technical Writing collaboration on UI text](/handbook/engineering/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
+- [UX hiring actual vs plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
+- [UX average location factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
+- [UX Handbook update frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
+- [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
+- [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
+- [Technical Writing collaboration on UI text](/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ### Hiring Process
 
@@ -74,7 +74,7 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 * Identify opportunities for process improvement, including automation, and coordinating the implementation and communication of these changes.
 * Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 * Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
-* Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/).
+* Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
 
 
 
@@ -106,11 +106,11 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 
 ### Performance indicators
 
-- [UX Hiring Actual vs Plan](/handbook/engineering/ux/performance-indicators/#ux-hiring-actual-vs-plan)
-- [UX Average Location Factor](/handbook/engineering/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook Update Frequency](/handbook/engineering/ux/performance-indicators/#ux-handbook-update-frequency)
-- [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](/handbook/engineering/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
+- [UX Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
+- [UX Average Location Factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
+- [UX Handbook Update Frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
+- [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
+- [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
 
 ### Hiring Process
 
@@ -138,7 +138,7 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 * Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 * Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
 
-* Independently manage [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/).
+* Independently manage [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
 * Communicate significant Technical Writing strategy decisions to senior leadership.
 * Manage the Technical Writing budget with oversight from the VP of UX.
 
@@ -166,10 +166,10 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 
 ### Performance indicators
 
-* [Hiring Actual vs Plan](/handbook/engineering/ux/performance-indicators/#hiring-actual-vs-plan)
-* [Diversity](/handbook/engineering/ux/performance-indicators/#diversity)
-* [Handbook Update Frequency](/handbook/engineering/ux/performance-indicators/#handbook-update-frequency)
-* [Team Member Retention](/handbook/engineering/ux/performance-indicators/#team-member-retention)
+* [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+* [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+* [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+* [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 ### Hiring Process
 
