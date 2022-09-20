@@ -558,7 +558,7 @@ The tasks are included in the [release post MR template](https://gitlab.com/gitl
 ## TW Lead
 
 **Note:** Technical writers review the individual release post items according
-to the [stage/group they are assigned to](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
+to the [stage/group they are assigned to](/handbook/product/ux/technical-writing/#designated-technical-writers).
 Each month, one of the technical writers is also responsible for the structural
 check of the final release post merge request. This section is about the latter.
 {: .alert .alert-info}
@@ -746,7 +746,7 @@ For instructions, see the GitLab docs [Monthly release process](https://gitlab.c
 
 Each person in the Technical Writing team is responsible for the review
 of each individual release post item and deprecation item that falls under their
-[respective stage/group](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
+[respective stage/group](/handbook/product/ux/technical-writing/#designated-technical-writers).
 
 When the PM creates a release post item merge request, or creates a [deprecation entry](#creating-a-deprecation-announcement), they should assign it to the TW
 of their group for review (required). The process for TW reviews is described in the:
@@ -784,7 +784,7 @@ _Each PM is responsible for pinging their Product Design counterpart when they n
 
 Product Designers should collaborate on release post items and review:
 
-- **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s [Job to be Done](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/).
+- **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s [Job to be Done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/).
 - **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially important when considering items that are [under construction](https://about.gitlab.com/handbook/values/#under-construction), or contribute toward a Category’s maturity.
 - **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used.
 
@@ -1286,7 +1286,7 @@ This video will walk you through the process of announcing a deprecation or remo
 1. Create a merge request using the [deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) MR template for the change description.
 1. Assign reviewers as recommended in the template.
 1. If this deprecation will result in a breaking change upon removal, change the `breaking_change` value from `false` to `true`.
-1. Assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
+1. Assign the MR to the technical writer [assigned to the stage](/handbook/product/ux/technical-writing/#designated-technical-writers).
 
 ##### Reviewing and merging a deprecation announcement
 
@@ -1335,7 +1335,7 @@ Please see the [Terminology section of our Deprecation guidelines](https://docs.
 
 ##### Reviewing and merging a removal announcement
 
-1. Assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
+1. Assign the MR to the technical writer [assigned to the stage](/handbook/product/ux/technical-writing/#designated-technical-writers).
 1. The TW Reviewer reviews the content, adds a commit that [updates the removals doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th. The new removal will be visible on the [Removals documentation page](https://docs.gitlab.com/ee/update/removals) within four hours after merging.
 1. If the MR is at risk of missing the cut off date, apply the `pick into X.Y` label to the MR.
 1. When approved, add the "Ready" label to the MR before merging.
@@ -1354,7 +1354,7 @@ To edit an existing entry:
 1. Find and edit the `.yml` file in the [`data/deprecations` or `data/removals`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/) directory.
 1. Create a merge request for the change, and use the appropriate [Deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) or [Removals](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) MR template for your change.
 1. Assign reviewers as recommended in the template.
-1. Assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers). (By the 15th if revising an entry for the upcoming release)
+1. Assign the MR to the technical writer [assigned to the stage](/handbook/product/ux/technical-writing/#designated-technical-writers). (By the 15th if revising an entry for the upcoming release)
 1. The TW Reviewer reviews the content, adds a commit that [updates the docs](#update-the-deprecations-and-removals-docs), and merges the MR. (By the 17th)
 
 ---
@@ -1379,7 +1379,7 @@ upgrade:
       Veritatis, quisquam.
 ```
 
-Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+Once complete, assign the MR to the [technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
 When approved, include the Ready label in the MR before merging.
 
