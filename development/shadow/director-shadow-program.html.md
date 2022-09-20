@@ -44,7 +44,7 @@ Blog on one shadow's experiences in the program: [The engineering director shado
 
 ## How does the shadowing work?
 
-The engineering director shadow will have a chance to work alongside engineering director [Wayne Harber](https://gitlab.com/wayne) in the following ways:
+The engineering director shadow will have a chance to work alongside engineering director [Wayne Haber](https://gitlab.com/wayne) in the following ways:
 
 * Attend all of scheduled meetings which are not marked as `private`, unless anyone in the meeting requests privacy (discussing compensation, etc.) You will be able to attend 1-1s, group meetings, and much more
 * Review Documents, Issues, and Merge Requests linked to the meetings
