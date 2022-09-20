@@ -111,7 +111,7 @@ The DevOps Platform brings together developers, operations and security professi
 
 #### More Accessible
 1. Allow anyone to be a creator
-1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/engineering/ux/performance-indicators/system-usability-scale/) score
+1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/product/ux/performance-indicators/system-usability-scale/) score
 1. Visibility into DevOps success
 
 ## Purpose Resources 
