@@ -349,7 +349,7 @@ It is common for Dutch employers to offer a second temporary contract when the f
 The process for New Hires is as follows:
 
 1. The offer is made by the recruiter per the [hiring process](https://about.gitlab.com/handbook/hiring/).
-1. The Candidate Experience Specialist emails the new team member the Contract Info Request - the Netherlands from GreenHouse.
+1. If the BSN and date of birth are not filled out and cannot be found in a reference check form, the Candidate Experience Specialist can use the emails the email template Contract Info Request - the Netherlands from GreenHouse and send to the candidate.
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
 1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours.
@@ -428,7 +428,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 
 The process for creating and sending an agreement is as follows:
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
+1. If the Nationality field is not filled out and cannot be found in the Reference Check form, CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
@@ -463,7 +463,7 @@ GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Afr
 To create the contract:
 
 1. Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. The Candidate Experience Specialist emails the new team member the Contract Info Request - Remote.com from GreenHouse.
+1. If the Nationality field is not filled out and cannot be found in the Reference Check form, CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
     -Click “Email CANDIDATE NAME”
     -Select “Contract Info Request-Remote.com” from dropdown.
     -CC Recruiter
