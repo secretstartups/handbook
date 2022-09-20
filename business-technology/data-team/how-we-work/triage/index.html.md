@@ -66,7 +66,7 @@ Steps to uplevel triaging process:
 | `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 | `@Raul Rendon` | |  `@lily` |	
 |	                  | Engineering Data Fusion |		| `@Peter Empey` 	| 	|		|     |     |
 | `@DataPlatformTriage` |	Data Platform | | `@vprakash` / `@csnehansh` (shadowing) | `@Paul Armstrong` | `@Radovan Bacovic` |	`@Rigerta Demiri` | `@jstark` |
-| `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Ken` |	`@Ken` 	| | |	
+| `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Ken` |	`@Ken` 	| `@Ken` | |	
 
 
 ### Enterprise Data Program Triage Instructions 
