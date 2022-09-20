@@ -56,7 +56,7 @@ The priority label is used to indicate the importance and guide the scheduling o
 ## Severity
 Note: Theses severity definitions apply to issues only. Please see [Severity Levels section](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#severities) of the [Incident Management page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) for details on incident severity.
 
-Severity labels help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`.
+Severity labels help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`. Severity is also applicable to non-`type::bug` `~SUS::Impacting` issues.
 
 The presence of bug category labels `~availability`, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category. When a `~"type::bug"` correspond to multiple categories, the severity to apply should be the higher, for example, if an issue has a `~severity::2` for `~availability` and a `~severity::1` for `~performance` then the severity assigned to the issue should be `~severity::1`.
 
