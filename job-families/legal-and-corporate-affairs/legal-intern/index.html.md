@@ -35,11 +35,11 @@ The Legal Intern is a grade 4 (/handbook/total-rewards/compensation/compensation
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
-* Next, candidates will be invited to schedule an interview with our Director of Legal, Employment
-* Next, candidates will be invited to schedule with additional team members of the legal department 
-* Next, candidates will be invited to schedule an interview with our Chief Legal Officer
-* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
+* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters.
+* Next, candidates will be invited to schedule an interview with our Director of Legal for the function area.
+* Next, candidates will be invited to schedule with additional team members of Legal and Corporate Affairs.
+* Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
+* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas. 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Working at GitLab
