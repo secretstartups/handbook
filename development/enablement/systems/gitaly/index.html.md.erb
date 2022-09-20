@@ -12,7 +12,7 @@ title: "Enablement:Gitaly Team"
 ## What is the Gitaly team?
 
 The Gitaly team is responsible for building and maintaining systems to ensure
-that the git data storage tier of GitLab instances, and _GitLab.com in particular_,
+that the Git data storage tier of GitLab instances, and _GitLab.com in particular_,
 is reliable, secure and fast. For more information about Gitaly, see our [Direction](https://about.gitlab.com/direction/gitaly/) page.
 
 ## Mission
@@ -30,6 +30,14 @@ The following people are permanent members of the Gitaly Team:
 The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[&,] Systems:Gitaly/, direct_manager_role: 'Backend Engineering Manager, Gitaly') %>
+
+## Gitaly functional boundary
+
+While GitLab is the primary consumer of the Gitaly project, Gitaly is a standalone project which can be used external to GitLab. As such, we strive to achieve a functional boundary around Gitaly. The goal of this is to ensure that the Gitaly project creates an interface to manage Git data, but does not make business decisions around how to manage the data.
+
+For example, Gitaly can provide a robust and efficient set of APIs to move Git repositories between storage solutions, but it would be up to the calling application to decide when such moves should occur.
+
+Processes fully independent of business inputs (such as repository maintenance) should be fully contained within Gitaly as they provide substantial value to anyone using the Gitaly project.
 
 ## How to contact the team
 
