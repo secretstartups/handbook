@@ -629,7 +629,7 @@ Occasionally an opportunity will require a unique structure that is outside of t
 
 Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 month subscription before the renewal date. They can also be used if a customer needs to change a billing date or would like to change the term length, mid term. Contract reset can only be requested via the same party that originally purchased the subscription.
 
-*   Open the Renewal opportunity and click the **“New Quote”** button.
+*   Open the related open Renewal opportunity and click the **“New Quote”** button.
 *   Select **existing billing account.**
 *   When prompted **select “New Subscription for this Billing account,”** and select the appropriate subscription. 
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
