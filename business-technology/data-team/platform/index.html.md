@@ -361,7 +361,7 @@ To use our credit consumption effectively, we try to minimize the amount of ware
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs and testing new Meltano loaders                           | 60                  |
-| `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
+| `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 5 minute timeout.            | 30*                 |
 | `transforming_xs`    | These are for production dbt jobs                                                               | 120                 |
 | `transforming_s`     | These are for production dbt jobs                                                               | 120                 |
 | `transforming_l`     | These are for production dbt jobs                                                               | 240                 |
@@ -377,28 +377,7 @@ If you're running into query time limits please check your query for optimisatio
    - Every warehouse suspends after a set period, but when idle (time between query result and the suspend time), we still consume snowflake credits
    - In general we don't spend more money if we run concurrent queries.
 
-#### Warehouse Reporting size change
-
-Currently Sisense is using 2 users `PERISCOPE` & `SISENSE_RESTRICTED_SAFE`, both are using the warehouse `REPORTING`. This warehouse is running almost 24/7, making this the most expensive warehouse inside our Snowflake environment. To minimize the cost, we set the size of the warehouse to `MEDIUM` on peak hours (9.00AM UTC untill 9.00PM UTC on weekdays) and to `SMALL` on non peak hours (all other). The warehouse has been set in the roles.yml as standard `SMALL`, so we size up via a task inside Snowflake. Changing the size of the warehouse is done via a scheduled tasks in Snowflake.
-
-```sql
-CREATE TASK SIZE_DOWN_REPORTING_WAREHOUSE
-  WAREHOUSE = REPORTING
-  SCHEDULE = 'USING CRON 0 21 * * 1-5 UTC'
-  COMMENT = 'Task to size down the Reporting warehouse to SMALL'
-AS
-  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = SMALL; 
-
-ALTER TASK SIZE_DOWN_REPORTING_WAREHOUSE RESUME;
-
-CREATE TASK SIZE_UP_REPORTING_WAREHOUSE
-  WAREHOUSE = REPORTING
-  SCHEDULE = 'USING CRON 0 9 * * 1-5 UTC'
-  COMMENT = 'Task to size up the Reporting warehouse to Medium'
-AS
-  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = MEDIUM; 
-
-```
+* The query timeout in Snowflake is set to 30 minutes for the `REPORTING` warehouse. Sisense has a threshold that has been set to 10 minutes to time-out in order to prevent queuing on the Sisense platform.
 
 ### Data Storage
 
