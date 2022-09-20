@@ -398,19 +398,19 @@ When the subscription has multiple products listed, then the quantity (seats) is
 
 #### Parameters
 
-This function requires an order object
+This function requires a subscription name.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
-| `:order` | *Yes* | Order `object`]` to associate  the user count |
+| `:subscription_name` | *Yes* | Subscription name as it appears in Zuora, e.g., `A-S12345678` |
 
 #### Sample
 
 ```ruby
-irb(main):180:0> order = Order.find 0000
-irb(main):021:0> associate_full_user_count_with_group(order)
+irb(main):021:0> associate_full_user_count_with_group("A-S12345678")
 => {:success=>true}
 ```
+
 ### enable_ci_minutes
 
 This function allows removal of the CC validation **only for sale supported trials** to prevent having to enroll these users credit cards to use CI/CD by adding additional minutes.
