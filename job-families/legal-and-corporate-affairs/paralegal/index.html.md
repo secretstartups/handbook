@@ -211,7 +211,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiter.
 * Next, candidates are invited to schedule a first interview with the hiring manager.
-* Next, candidates are invited to schedule with additional team members.
-* Finally, candidates are invited to interview with the director.
+* Next, candidates are invited to schedule with additional members of the Legal and Corporate Affairs Team. 
+* Finally, candidates are invited to interview with the Director of Legal for the functional area. 
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
