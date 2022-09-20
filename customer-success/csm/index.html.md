@@ -73,7 +73,7 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/renewals/">Renewal</a></td>
-    <td><ul><li>It is the job of the CSM to ask the ‘soft’ renewal question 3-4 months before the renewal</li><li>This conversation and the outcome of this conversation are tracked in Gainsight using the 'renewal call’ meeting type (within the timeline entry)</li></ul></td>
+    <td><ul><li>It is the job of the CSM to ask the [‘soft’](/handbook/customer-success/csm/renewals/#renewal-question) renewal question 3-4 months before the renewal</li><li>This conversation and the outcome of this conversation are tracked in Gainsight using the 'renewal call’ meeting type (within the timeline entry)</li></ul></td>
     <td>Every customer regardless of segment or priority</td>
   </tr>
   <tr>
