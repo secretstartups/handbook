@@ -234,7 +234,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
     1. **Director of UX: [Help make the GitLab product more loveable by sharing UX work broadly and frequently to reinforce our overall vision.](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5571)**
         1. Director of UX KR: Get 16 total stages to participate in 4 UX Showcases, and share the resulting video in the Engineering Week in Review.
         1. Director of UX KR: Include Product Design and UX Research results in 5 Group Conversations.
-        1. Director of UX KR: Post all new [UX Scorecards](https://about.gitlab.com/handbook/engineering/ux/ux-scorecards/) and newly completed Pajamas components (Create, Build, and Style stages), post it to the [Engineering Week in Review](https://docs.google.com/document/d/1Oglq0-rLbPFRNbqCDfHT0-Y3NkVEiHj6UukfYijHyUs/edit#heading=h.wl5oryd6kv3u).
+        1. Director of UX KR: Post all new [UX Scorecards](https://about.gitlab.com/handbook/product/ux/ux-scorecards/) and newly completed Pajamas components (Create, Build, and Style stages), post it to the [Engineering Week in Review](https://docs.google.com/document/d/1Oglq0-rLbPFRNbqCDfHT0-Y3NkVEiHj6UukfYijHyUs/edit#heading=h.wl5oryd6kv3u).
     1. **Fellow**: Finish documenting architecture and [identify 3 most significant areas for architecture improvement](https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=wg-isolation) => 60%
 1. **CMO: Building scalable future capabilities**
     1. **Community: Grow Heroes program, with a Q4 focus in North America.**

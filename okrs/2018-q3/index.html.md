@@ -569,7 +569,7 @@ canonical_path: "/company/okrs/2018-q3/"
   * Despite an increasing number of deliverables per milestone and unexpected UX needs for the 2019 vision, we were able to achieve 100% and 90% respectively on our two OKRs.
   * Our department's comradery and ability to remain aligned and connected has not been impacted by the company and department's rapid growth.
   * Designers embedded in cross-functional teams (stable counterparts) has enhanced collaboration and allowed the UX department to dig deeper into existing features.
-  * We added a [UX Vision](https://about.gitlab.com/handbook/engineering/ux/#ux-vision) to our department handbook, setting the tone and direction for all of our efforts.
+  * We added a [UX Vision](https://about.gitlab.com/handbook/product/ux/#ux-vision) to our department handbook, setting the tone and direction for all of our efforts.
 * Bad
   * Design pattern library and design system issues take a long time to review and merge.
   * Our old UX guide is still live as not all of it's material have been moved to design.gitlab.
