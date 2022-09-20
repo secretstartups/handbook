@@ -543,6 +543,36 @@ For active employees: Up to 180 days after plan year has concluded (also known a
  
 For terminated employees: Up to 90 days after the termination date.
  
+### Navia - Health Reimbursement Arrangement (HRA)
+
+Effective 2022-10-01, GitLab offers a TravelHealth Reimbursement Arrangement (HRA) benefit to reimburse eligible team members and their dependents for transportation and lodging expenses related to travel while obtaining medical care not offered within 100 miles of the location the member resides. 
+
+To be eligible for the Travel HRA benefit, team members and their dependents must be enrolled in one of the Cigna Medical Plans. Navia Benefit Solutions administers the HRA benefit.
+
+The HRA Benefit is split into a pre-tax account, in which team members can receive reimbursement of up to $2,100 USD for eligible pre-tax travel expenses, and a post-tax account of $900 USD for eligible travel expenses that exceed the pre-tax travel limits.
+
+
+Please see the [HRA Summary of Benefits and Coverage](https://drive.google.com/file/d/1NWUiDsVV9ECaACkjJujgt_oU-jfGVDN6/view?usp=sharing) document for information on coverage and the [Navia Navigation Guide](https://drive.google.com/file/d/1mTGCLX73yFTEbBWYhabaYwhM7kOsBKMx/view?usp=sharing) for information on claim eligibility and how to submit claims. Additional details can be found in our [Health Reimbursement Arrangement (HRA) FAQ](https://docs.google.com/document/d/1ZpVaDB62vG2djOOjYNBjHnoKVEvwcbELF9gMdwwM2Go/edit?usp=sharing)
+
+#### How to Submit an HRA Claim
+
+To access the benefit, eligible team members can create an account on the [Navia Portal](https://app.naviabenefits.com/app/#/signup), first time users will click the Register button in the top right corner of the page.
+
+To register for online account access you will be requested to provide the following
+information:
+- Last Name, First Initial
+- E-mail Address
+- Employer Code: Please click the link to receive the [GitLab Employer Code](https://docs.google.com/document/d/1VTuyywdcPpfzMjQzVwaED_smzePzSgYxPwq_z-P1620/edit?usp=sharing) 
+- Last four digits of your social security number/employeeID
+- Date of Birth
+- Choose a Username
+- Answer three security questions
+
+Reminder!  review and accept the Terms and Conditions. After clicking Submit for online access, you will receive an email confirmation with a temporary link to set your
+password to complete your registration.
+
+If you are a newly hired GitLab Team Member, please allow 1 month following your start date to access the portal. Should you require access to the portal earlier, please contact Total-Rewards@gitlab.com. Once you have access to the portal you can submit a claim directly with Navia, and view plan documents. 
+
 ### Cigna Supplemental Life Insurance/AD&D
  
 Team members who wish to elect additional life insurance above what is provided by GitLab through the Basic Life Insurance or elect life insurance for their dependents, can elect [Voluntary Life Insurance](https://drive.google.com/file/d/1yY1tFJTuj1wCMlorUvnfcgWwZUuP279r/view?usp=sharing) through Cigna.
