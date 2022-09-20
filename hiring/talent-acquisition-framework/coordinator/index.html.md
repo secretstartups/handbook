@@ -154,28 +154,23 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Login to [Sterling](https://sterlingcheck.app/dashboard/#/dashboard/) and click `Submit Invite` on the lefthand side toolbar.
 1. `Account` and `Workflow` will auto-populate with Gitlab,Inc -SD and Consent Plus.
 1. On the Position dropdown, select `GitLab`.
-1. Next, select `à la carte` from the Screening Package dropdown.
-1. Next, select `Criminal-International` from the Add-Ons dropdown (can search in the search bar), and push TAB to populate the "Jurisdiction for Criminal-International" box on the righthand side.
-   - If you are submitting a background check for a candidate located in Japan or Russia, **or if you need to run a financial check for Finance team candidates**, you will select `Extended Global Sanctions` instead of "Criminal-International".
-   - If you are submitting a background check for the Netherlands, do not order a `Criminal-International` check and move on to the next step.
-1. Next, select `Verification-Employment (International)` from the Add-Ons drowpdown.
-1. Next, select the candidate's country from the dropdown on the righthand side under `Add-On Details`.
-1. Next, enter in the candidate's location under `Location of Employment`.
+1. Next, select the country name or International package from the dropdown. For the US, choose `Comprehensive Criminal with Employment`.
+   - **If you need to run a financial check for Finance team candidates**, select `Extended Global Sanctions` unless the check is in Japan, Russia, Ireland, Brazil, or Germany, where that check is already being run.
 1. Click `Next` at the bottom.
 1. Enter in the candidate's First name, Last name, and Email.
 1. Click `Submit`.
 
 #### Escalating Criminal Charges or Employment Discrepancies
 
-Once the CES team gets the background checks back, if there are criminal charges or any employment verification discrepancies - the CES team will escalate to the Team Member Relations team.
+Once the CES team gets the background checks back, if there are criminal charges or any employment verification discrepancies - the Enablement team will escalate to the Team Member Relations team.
 
 1. Gather all details you can from the Sterling report
-1. Post all details in the shared Slack channel with the PBP's `employment-criminal-escalations` with PDF version of the report
+1. Send all details to a member of the Team Member Relations Team via slack with PDF version of the report
    - Make sure to include candidate's name, the job applied for, and start date.
 1. The Team Member Relations Partners have their own criteria/process for providing their recommendation on how to proceed to the business
 1. Once they has come to a recommendation, they will share the details of that recommendation with us and the Hiring Manager, if appropriate.
    - It is ultimately up to the business on whether they would like to proceed with the candidate
-1. If approval to move forward is given, we will upload the approval to the BambooHR profile once created
+1. If approval to move forward is given, we will upload the approval to the WorkDay profile once created
 1. If approval is not given to move forward, the CES will loop in the Recruiter to make sure the decision and why is communicated correctly to the candidate
 
 ### Speaking with TMRG team members in the hiring process
@@ -184,7 +179,7 @@ Our hiring process includes an **optional** step where candidates can request to
 
 All current TMRGs have agreed to take part in this process. You can find the group list [here](https://about.gitlab.com/company/culture/inclusion/erg-guide/).
 
-When a candidate requests to meet with a TMRG team member, the Candidate Experience Specialist will do the following:
+When a candidate requests to meet with a TMRG team member via the Reference Check Form, the Candidate Experience Specialist will do the following:
 1. Reach out to TMRG volunteers for this call in the dedicated #candidate_tmrg-call slack channel.
     - Select Shortcuts button - looks like a plus sign with lightening bolt
     - Fill in appropriate details
@@ -218,15 +213,13 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
          -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name should be provided for the [background check](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name.
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
-      - Is it clear how many (if any) RSUs this person should receive?
       - Is all necessary information (start date, salary, location, etc.) up to date?
-      - Is the start date one that is not a "no start date" and provides an adequate amount of time for People Experience to have one weeks' notice?
+      - Is the start date one that is not a "no start date" and provides an adequate amount of time for People Connect and IT to have sufficient notice? Ideally, we are providing 10 days notice, but the teams can work with less if we let them know.
       - Has the signatory been determined by the Candidate Experience Specialist and updated?
       - Has the Entity been selected based on the New Hire's location? If the job title has Federal or PubSec included, please check with the Recruiter if they set up the contract as Inc rather than Federal LLC to confirm.
    1. [Generate the contract within Greenhouse](/handbook/hiring/talent-acquisition-framework/ces-contract-processes) using a template based on the details found in the offer package.
    1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background check information page).
-   1. The Signatory will be either the Talent Acquisition Manager, VP of Talent Acquisition, Chief People Officer, or the CES for PEOs. This can be determinted by the Candidate Experience Specialist sending a message to the Contracts to Sign channel in Slack.
-   1. Ensure that, if the contract was created outside of Greenhouse, the contract has been reviewed and approved by the Senior Director of Legal Affairs or a Total Rewards Analyst.
+   1. If the contract was created outside of Greenhouse, ensure that the contract has been reviewed and approved by the Senior Director of Legal Affairs or a Total Rewards Analyst.
    1. [Stage the contract in DocuSign from within Greenhouse](/handbook/hiring/talent-acquisition-framework/ces-contract-processes), which emails the contract to the signing parties, with the recruiter, talent acquisition manager, and the hiring manager cc'd. It will be sent to the designated signatory as previously determined in Offer Details.
    1. When the contract is signed by all parties, the Candidate Experience Specialist will verify that the start date in Greenhouse is correct.
      - Ensure the candidate has completed the PIAA section with either a `Yes` and the specific details **or** `None`. (Its important that it is not just a GitLab or Github link and more specific info.)
