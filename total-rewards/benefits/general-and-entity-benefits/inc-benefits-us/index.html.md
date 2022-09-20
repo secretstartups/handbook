@@ -495,7 +495,13 @@ If you leave GitLab and would like to rollover your 401(k) account, contact Bett
  
 ### 401(k) Committee
  
-The 401(k) Committee meets on a regular cadence with Betterment to review how the plan is doing as well as updates from the Betterment investment team. 
+The 401(k) Committee meets on a regular cadence with Betterment to review how the plan is doing as well as updates from the Betterment investment team. The Committee Members are:
+
+Chief People Officer
+Principal Accounting Officer
+Director, Total Rewards
+Director, Treasurer
+Note: Chief Legal Officer will serve as an committee observer.  
  
 ## Optional Plans Available at Team Member Expense
  
