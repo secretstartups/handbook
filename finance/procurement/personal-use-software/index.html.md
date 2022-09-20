@@ -34,7 +34,7 @@ title: Individual Use Software
 |Alfred Powerpack|Green|N/A| Base application only, does not apply to Alfred Workflows or Alfred Remote |
 |Brain.fm|Green|N/A| Base application only |
 | Calendly | Orange | 11/24/2022 | N/A |
-| Clockwise | Orange | 8/16/203 | N/A |
+| Clockwise | Orange | 8/16/2023 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
 | Gitpod | Orange | 07/14/2023 | N/A |
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
