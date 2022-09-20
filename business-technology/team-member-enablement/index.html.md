@@ -112,9 +112,13 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - Senior Director, IT Operations - [Robert Rea](https://about.gitlab.com/company/team/#rrea1), rrea@gitlab.com, @rrea1
 
-- Manager of IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
+- Senior Manager, IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
 
-- Senior, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
+- Senior Manager, IT - [Michael Beltran](https://about.gitlab.com/company/team/#mbeee), mbeltran@gitlab.com, @mbeee
+
+- Business Systems Analyst - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
+
+- IT Analyst - Alex Krusiec, akrusiec-ext@gitlab.com, @akrusiec-ext
 
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 
@@ -126,8 +130,22 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 
-- IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
+- Senior IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
 
 - Senior IT Systems Engineer -  [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), jmartin@gitlab.com, @jeffersonmartin
 
 - Senior IT Systems Engineer - [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), mwhitaker@gitlab.com, @mwhitaker
+
+#### Laptop Wipe Schedules for IT Analysts
+
+- Jeff Ford - [appointment schedule](https://calendar.app.google/Qc1wwN94q6RqEyGL9) - AMER
+
+- Alex Kruseic - [appointment schedule](https://calendar.app.google/xsTHAQWxHmT3tpr86) - AMER
+
+- Jenny Wong - [appointment schedule](https://calendar.app.google/HJoCYkbf4XnApqSU6) - AMER
+
+- Paul Laurinavicius - [appointment schedule](https://calendly.com/plaurinavicius) - EMEA
+
+- Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA 
+
+- Steve Ladgrove - currently away - APAC
