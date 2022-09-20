@@ -130,7 +130,9 @@ You will need a copy of vanilla Ubuntu copied onto a UEFI bootable USB drive (la
 
 ## Usage of Java
 
-Some applications used on Linux may require Java. There is OpenJDK and Oracle Java, with the latter not being a free version. GitLab team members should be using the OpenJDK version on their laptops. To ensure you are using the correct version, use the `java -version` command.
+Some applications used on Linux may require Java. The last open-source version of Oracle Java that was released was in January of 2019. All new versions since then require a paid/licensed scubscription. Therefore GitLab no longer supports Oracle Java, and requires all team-members to use an open-source alternative like OpenJDK. Oracle periodicaly audits all downloads of Oracle Java and actively pursues companies that are out of compliance. The IT department therefore enforces a policy that will remove all instances of Oracle Java that are found on team-members machines
+
+To ensure you are using the correct version, use the `java -version` command.
 
 If OpenJDK is installed, the response will look similar to this:
 
