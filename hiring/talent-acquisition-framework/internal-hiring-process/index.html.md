@@ -8,7 +8,7 @@ description: "This page discusses the Internal Hiring Process"
 
 ## Team Member Responsibilities
 
-* Meet with your current manager to discuss the internal opportunity you’d like to pursue prior to subitting your application. If you are not comfortable with having this discussion with your manager, please connect with [your PBP](/handbook/people-group/#people-business-partner-alignment-to-division). 
+* Meet with your current manager to discuss the internal opportunity you’d like to pursue prior to submitting your application. If you are not comfortable with having this discussion with your manager, please connect with [your PBP](/handbook/people-group/#people-business-partner-alignment-to-division). 
 * Ensure you have met your department specific eligibility requirements:
    * Guidelines for performance eligibility:
       * Team members who are assessed at a Performing or Exceeding Performance level during Talent Assessment are eligible to be considered for another role
