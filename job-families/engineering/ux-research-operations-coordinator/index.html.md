@@ -91,8 +91,8 @@ The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/co
 
 ## Performance Indicators
 
-* [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability)
-* [Proactive vs Reactive UX Work](/handbook/engineering/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
+* [Perception of System Usability](/handbook/product/ux/performance-indicators/#perception-of-system-usability)
+* [Proactive vs Reactive UX Work](/handbook/product/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
 
 ## Career Ladder
 
@@ -126,7 +126,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### Some useful resources
 > 
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
-> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
 

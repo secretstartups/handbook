@@ -79,7 +79,7 @@ The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/com
 
 * Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
 
-* Demonstrate thought leadership by delivering 2 [strategic research](/handbook/engineering/ux/ux-research-training/strategic-research-at-gitlab/) projects per year.
+* Demonstrate thought leadership by delivering 2 [strategic research](/handbook/product/ux/ux-research-training/strategic-research-at-gitlab/) projects per year.
 
 * Communicate, advocate for, and socialize actionable insights in a clear and compelling way
 
@@ -127,7 +127,7 @@ At GitLab, engineering has a formal [dual career track](/handbook/engineering/ca
 
 * Develop and maintain the GitLab strategic research program. Educate and mentor others on strategic research while demonstrating the value of strategic research.
 
-* Demonstrate thought leadership by delivering six [strategic research](/handbook/engineering/ux/ux-research-training/strategic-research-at-gitlab/) projects per year to showcase.
+* Demonstrate thought leadership by delivering six [strategic research](/handbook/product/ux/ux-research-training/strategic-research-at-gitlab/) projects per year to showcase.
 
 * Deliver impactful research that informs decisions across our product lifecycle.
 
@@ -189,7 +189,7 @@ At GitLab, engineering has a formal [dual career track](/handbook/engineering/ca
 
 - Lead and mentor other Researchers.
 
-- **Impact:** Provide positive influence on [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability) through deeper understanding of the "why" behind usability complaints and [UX Research Velocity](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) through guidance that enables other functions (like Product Management and Product Design) to conduct their own research.
+- **Impact:** Provide positive influence on [Perception of System Usability](/handbook/product/ux/performance-indicators/#perception-of-system-usability) through deeper understanding of the "why" behind usability complaints and [UX Research Velocity](/handbook/product/ux/performance-indicators/#ux-research-velocity) through guidance that enables other functions (like Product Management and Product Design) to conduct their own research.
 
 ## Career Ladder
 
@@ -226,7 +226,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ## Some useful resources
 > 
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
-> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
 

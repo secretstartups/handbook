@@ -23,7 +23,7 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 * **Design quality:** Be an active participant in monthly milestones by reviewing UX deliverables (such as research and designs) that your team creates, and provide feedback to ensure high-quality output.
 * **Research:** Identify strategic user research initiatives that span multiple stage groups (and possibly the entire product), and work with other Product Design/Research Managers to organize research efforts.
 * **UX evangelism:** Communicate the value of UX to cross-functional GitLab team members and work with them to leverage the [Product Development Flow](/handbook/product-development-flow/). Work closely with PMs to provide visibility and awareness into UX initiaties (including OKRs) and advocate for their prioritization.
-* **Usability:** Help the product teams of areas you support to prioritize UX initiatives including [UX debt](/handbook/engineering/ux/performance-indicators/#ux-debt), [SUS-impacting issues](/handbook/engineering/ux/performance-indicators/#sus-impacting-issues-openedclosed-each-month), and overall usability improvements to the product.
+* **Usability:** Help the product teams of areas you support to prioritize UX initiatives including [UX debt](/handbook/product/ux/performance-indicators/#ux-debt), [SUS-impacting issues](/handbook/product/ux/performance-indicators/#sus-impacting-issues-openedclosed-each-month), and overall usability improvements to the product.
 * **UX process**: Set up and manage collaborative processes within your team to ensure Product Designers, Technical Writers, and Researchers are actively working together. Make sure they have exposure to the work that is happening within the broader team. Collaborate with your peers to make improvements to how we work across the design organization.
 * **Hiring:** Help source talent, interview, and conduct portfolio reviews of Product Design candidates to hire a world-class team. Review and provide feedback on interview scorecards to maintain a high-quality interview process. 
 * **Vision and direction:** Contribute to product direction conversations, and stay involved in the strategy and vision of the areas you're assigned. 
@@ -78,14 +78,14 @@ The Senior Manager of Product Design is a [grade 9](/handbook/total-rewards/comp
 * **Product knowledge:** Understand the technology and features across all [product sections](/handbook/product/categories/) in order to drive cross-product workflows and identify improvement opportunities.
 * **Cross-product collaboration:** Actively advocate for Product Design throughout the organization. Coach Product Design Managers on how to identify large, strategic UX opportunities and how to move them forward.
 * **Design quality:** Use your product knowledge across all stages to have a positive impact in design reviews, UX Showcases, and Group Conversations. Mentor Product Design Managers to be an active participant in monthly milestones to ensure high-quality output.
-* **Research:** Improve research quality and [frequency](/handbook/engineering/ux/performance-indicators/#average-research-projects-per-product-designer) by helping Product Design Managers identify strategic user research initiatives.
+* **Research:** Improve research quality and [frequency](/handbook/product/ux/performance-indicators/#average-research-projects-per-product-designer) by helping Product Design Managers identify strategic user research initiatives.
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 * **UX process:** Improve processes across the organization to ensure that Product Design is an active participant throughout the entire [product development flow](/handbook/product-development-flow/). Identify efficiency improvements and scale them across the organization.
 * **Hiring:** Help identify growth opportunities needed to support business goals. Hire and retain a world-class team of Product Designers and Product Design Managers.
 * **Vision and direction**: Actively influence and guide the experience strategy and vision of the areas you’re assigned.
 * **Career development:** Provide coaching for those on your team to grow management/coaching skills and develop career paths using methods such as weekly [1:1s](/handbook/leadership/1-1), Individual Growth Plans, and routine Career Development check-ins.
 * **People management:** Coach Product Design Managers on how to recognize and prevent burnout while managing performance. Impact the happiness and productivity of your team through methods such as capacity management coaching. Conduct quarterly skip-levels with your reports’ direct reports.
-* **Goal setting and performance tracking:** Define and manage [performance indicators](/handbook/engineering/ux/performance-indicators/) and [FY Directional Next Steps](/handbook/engineering/ux/#fy23-direction) for the Product Design team. Facilitate the creation and execution of Product Design [OKRs](https://about.gitlab.com/company/okrs/) in collaboration with the Product Design team and UX Leadership.
+* **Goal setting and performance tracking:** Define and manage [performance indicators](/handbook/product/ux/performance-indicators/) and [FY Directional Next Steps](/handbook/product/ux/#fy23-direction) for the Product Design team. Facilitate the creation and execution of Product Design [OKRs](https://about.gitlab.com/company/okrs/) in collaboration with the Product Design team and UX Leadership.
 
 ### Requirements
 
@@ -121,7 +121,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 
 ### Responsibilities
 
-* **Performance tracking:** Define and manage performance indicators for the Product Design team by independently managing product design KPIs on the [UX KPIs](/handbook/engineering/ux/performance-indicators/) page in the handbook.
+* **Performance tracking:** Define and manage performance indicators for the Product Design team by independently managing product design KPIs on the [UX KPIs](/handbook/product/ux/performance-indicators/) page in the handbook.
 * **Cross-product collaboration:** Actively advocate for Product Design throughout the organization by ensuring Product Design responsibilities are reflected in the Product Development Flow.
 * **Product knowledge:** Help drive cross-product workflows by having an awareness of what's happening across all sections through active participation in design reviews, UX Showcases, and Group Conversations.
 * **Goal setting:** Independently manage the creation and execution of product design [OKRs](/company/okrs/) with feedback from the Product Design team and UX Leadership.
@@ -201,10 +201,10 @@ See more details about our hiring process on the [hiring handbook](/handbook/hir
 
 ## Performance indicators
 
-* [Hiring Actual vs Plan](/handbook/engineering/ux/performance-indicators/#hiring-actual-vs-plan)
-* [Diversity](/handbook/engineering/ux/performance-indicators/#diversity)
-* [Handbook Update Frequency](/handbook/engineering/ux/performance-indicators/#handbook-update-frequency)
-* [Team Member Retention](/handbook/engineering/ux/performance-indicators/#team-member-retention)
+* [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+* [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+* [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+* [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 ## Career Ladder
 

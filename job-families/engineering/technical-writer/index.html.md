@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Technical Writer"
 ---
 
-At GitLab, our [team of technical writers](https://about.gitlab.com/handbook/engineering/ux/technical-writing/) is responsible for ensuring that the [documentation](https://docs.gitlab.com/) for all of our products is clear, correct, comprehensive, and easy to use. We are looking for great writers with strong technical proficiencies to help our users succeed with our [rapidly evolving suite of DevOps tools](https://about.gitlab.com/releases/).
+At GitLab, our [team of technical writers](https://about.gitlab.com/handbook/product/ux/technical-writing/) is responsible for ensuring that the [documentation](https://docs.gitlab.com/) for all of our products is clear, correct, comprehensive, and easy to use. We are looking for great writers with strong technical proficiencies to help our users succeed with our [rapidly evolving suite of DevOps tools](https://about.gitlab.com/releases/).
 
 ## Responsibilities
 * Collaborate with GitLab engineers, who typically write the first draft of documentation for the new features they create.
@@ -83,7 +83,7 @@ Extends the Senior Technical Writer responsibilities in complexity and scope.
 * **Content**: Efficiently create, merge, and maintain product documentation within groups as needed, or across product groups. Guide improvements to merge requests. Suggest and balance priorities.
 * **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
 * **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
-* **User interface**: Create model examples of user interface text, including field labels or error messages, with a cross-stage focus. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content related to user interface text.
+* **User interface**: Create model examples of user interface text, including field labels or error messages, with a cross-stage focus. Actively improve style guide and [Pajamas](/handbook/product/ux/pajamas-design-system/) content related to user interface text.
 * **Reviews**: Model review practices that improve the quality of contributions over time. Support and guide team members to improve reviews in their groups and stages.
 * **Product knowledge**: Understand the technology and features of both the development stage to which you’re assigned and the end-to-end GitLab product to help improve the information architecture of the docs site.
 * **Process**: Actively contribute [Handbook](/handbook/) changes that help the organization evolve the culture and best practices.
@@ -107,7 +107,7 @@ Extends the Staff Technical Writer responsibilities in complexity and scope.
 - **Content**: Efficiently create, merge, and maintain product documentation within groups as needed, or across product groups. Guide improvements to merge requests. Help set priorities at a team level.
 - **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
 - **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
-- **User interface**: Provide expert guidance on user interface text. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content.
+- **User interface**: Provide expert guidance on user interface text. Actively improve style guide and [Pajamas](/handbook/product/ux/pajamas-design-system/) content.
 - **Reviews**: Foster effective review practices for team and community contributions to GitLab documentation and user interface changes.
 - **Product knowledge**: Deeply understand the technology and features of the development stage to which you’re assigned, and have a general understanding of the end-to-end GitLab product to help improve the information architecture of the docs site.
 - **Process**: Actively contribute [Handbook](/handbook/) changes that help the organization evolve the culture and best practices, and lead efforts to encourage other team members regarding contributions.
@@ -119,9 +119,9 @@ Extends the Staff Technical Writer responsibilities in complexity and scope.
 
 ## Performance Indicators
 
-- [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](/handbook/engineering/ux/performance-indicators/#distribution-of-technical-writing-team-documentation-effort)
-- [Technical Writing collaboration on UI text](/handbook/engineering/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
+- [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/#technical-writing-team-member-mr-rate)
+- [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/#distribution-of-technical-writing-team-documentation-effort)
+- [Technical Writing collaboration on UI text](/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ## Career Ladder
 

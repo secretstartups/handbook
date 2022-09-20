@@ -21,7 +21,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and [skip-level](/handbook/leadership/skip-levels/) 1:1s with all members of their team
 * Provide your team with management mentorship
 * Enable [quad planning team](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/company/team/structure/#product-groups)
-* Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/engineering/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
+* Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 * Ensure psychological safety on your team
 * Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
