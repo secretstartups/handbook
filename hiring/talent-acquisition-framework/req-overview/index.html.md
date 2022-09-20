@@ -147,9 +147,9 @@ If at any time during the interview process a candidate is declined due to compe
 
 ### **Step 6: References**
 
-Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will email the candidate to request their references contact details as well as details that will help with an offer letter such as Legal name and background check. A template can be found in Greenhouse to send at this stage.
+Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will send the appropriate form to the candidate that is found in the Reference Check stage. If no forms are listed, please contact the Enablement team to get them added. The form will request their references' contact details as well as details that will help with an offer letter such as Legal name and background check. 
 
-In the reference email template in Greenhouse, you will find a note to the candidate specifying that if they live in NYC, they will be receiving an invitation to submit their employment verification through Sterling if you have not already taken this step. Please send a Greenhouse note tagging @ces to ask them to initiate this process.
+If you would like the Hiring Manager to receive an email when the form has been received, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed.
 
 ### **Step 7: Justification (Engineering Only)**
 
