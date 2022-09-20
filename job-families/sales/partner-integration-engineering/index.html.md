@@ -7,9 +7,21 @@ The Partner Integration Engineering job family will provide technical guidance t
 
 ## Levels
 
+### Associate Partner Integration Engineer
+
+The Associate Partner Integration Engineer reports to Manager, Partner Integration Engineers.
+
+#### Associate Partner Integration Engineer Job Grade
+
+The Associate Partner Integration Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Partner Integration Engineer Responsbilities
+
+The Associate Partner Integration Engineer has the same responsibilites and requirements as a Partner Integration Engineer, but with less experience.
+
 ### Partner Integration Engineer
 
-The Partner Integration Engineer reports to Director, Partner Solutions Architecture.
+The Partner Integration Engineer reports to Manager, Partner Integration Engineers.
 
 #### Partner Integration Engineer Job Grade
 
@@ -31,7 +43,7 @@ The Partner Integration Engineer is a [grade 6](/handbook/total-rewards/compensa
 #### Partner Integration Engineer Requirements
 
 * Relevant experience as a Partner Engineer, Sales Engineer, Developer Evangelist, or similar roles
-* B.A/B.S. or M.S. in Computer Science or equivalent degree or experience
+* B.A/B.S. or M.S. or equivalent degree or experience
 * Experience software in languages like Python, Objective-C, PHP, C/C++, Ruby, C# or other programming languages
 * Experience working with GitLab software and GitLab’s core architecture
 * Experience working with Web technology stack
@@ -46,6 +58,49 @@ The Partner Integration Engineer is a [grade 6](/handbook/total-rewards/compensa
 * You share our values, and work in accordance with those values.
 * Ability to use GitLab
 * Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
+
+
+### Manager, Partner Integration Engineers
+
+The Manager, Partner Integration Engineers reports to Director, Partner Solutions Architecture.
+
+#### Manager, Partner Integration Engineers Job Grade
+
+The Manager, Partner Integration Engineers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Partner Integration Engineers Responsbilities
+
+* Communicate strategic information and context from the company and organization to the team and other stakeholders
+* Set clear expectations, and assign projects aligned with team strengths, skills and motivations, and adjust management style to match the needs of the individual
+* Lead with care, recognize individual contributions, give and seek timely feedback, ensuring the team is healthy and sustaining productive relationships
+* Build and scale the team by identifying skills needed, interviewing, hiring, and on-boarding new employees
+* Be a Player-Coach and empower people to execute against their priorities and hold them accountable for success
+* Partner with appropriate stakeholders to make ongoing program and project decisions, leverage insights from the team, and make recommendations and/or decisions when issues arise
+* Serve as a technology/business subject matter expert within the team and provide consultation on domain-level projects
+* Lead problem definition and requirements gathering that can frame high-level goals of ambiguous projects and drive reasonable solutions
+* Influence a positive outcome in partner relationships and technical projects. 
+
+
+#### Manager, Partner Integration Engineers Requirements
+
+* Has experience as a software engineer, partner/sales engineer
+* Has experience leading a team of software engineering or partner/sales engineering
+* Experienced in mentoring people, including giving and receiving constructive feedback
+* Experienced in collaborating with other managers and executing strategies
+* B.A/B.S. or M.S. or equivalent degree or experience
+* Technical presentation and communication skills
+* Prior experience as a Partner Engineer, Sales Engineer, Developer Evangelist, or similar roles
+* Experience in software in languages like Python, Objective-C, PHP, C/C++, Ruby, C# or other programming languages
+* Knowledge of the end-to-end software development lifecycle
+* You have modern SDLC experience with one of the following:
+   * DevSecOps
+   * Continuous integration and delivery
+   * IAC: Infrastructure as code
+   * Application performance monitoring
+* You have a history of contributing to Open Source projects, and maintain a handful of your own OSS repositories.
+* Experience working with Web technology stack
+* Ability to travel if needed and comply with the company’s travel policy
+
 
 ## Performance Indicators
 (As maintained in SFDC)
