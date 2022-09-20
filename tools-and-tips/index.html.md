@@ -861,7 +861,7 @@ As already stated, **this should never be the final resting place for shared fil
 
 There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here):
 
-- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](/handbook/engineering/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
+- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](/handbook/product/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
 - [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg) - This houses all shared files from the entire Marketing organization.
 The best practice is for sub-organizations to have their own directory inside this space (e.g. [Strategic Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).
 - [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM) - This houses all the shared files from the Sales organization.
