@@ -23,7 +23,7 @@ Pick the option from this list that most closely aligns to you to see a tailored
 
 ## For the Business
 You can think of Platypus as a central hub for system integrations where data can flow in real-time around the Enterprise Applications ecosystem.
-Platypus provides us with a repeatable way to ensure we're building robust, well-tested, secure, and compliant integrations at GitLab. It is used as an alternative to building 
+Platypus provides us with a repeatable way to ensure we're building robust, well-tested, secure, and compliant integrations at GitLab. It is used as an alternative to building
 point to point integrations between systems.
 The Enterprise Applications Integrations team will also more easily be able to support integrations that are built in Platypus as they can be monitored in our central logging and alerting tools.
 An additional benefit to housing your integrations in Platypus is that you have the option to tap into a growing ecosystem of other systems and data that might enhance your ability to deliver in your specific tools
@@ -87,7 +87,7 @@ This is the integrations team's first official release of Platypus. It contains 
 - Feature flags
     - [Unleash project](https://docs.getunleash.io/)
     - [GitLab Unleash docs](https://docs.gitlab.com/ee/operations/feature_flags.html)
-- Authentication & Authorization Strategies
+- Authentication and Authorization Strategies
     - OAuth2 Client Credentials
     - HTTP Basic Auth
     - GitLab Webhook Header API Key auth
