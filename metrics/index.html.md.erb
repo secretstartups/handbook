@@ -197,7 +197,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"maintenance::workflow"`: Improvements of the engineering tooling like Danger, RuboCop, linters, issue templates, etc.
 
 If these labels are missing, it will be tracked in the `undefined` bucket instead.
-The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly.
+The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly. If you do not feel the purpose of this issue matches one of the types, you may apply the `~type::ignore` label to exclude it from type tracking metrics and future prompts, this can be good for issues marked `~Planning Issue`.
 
 Classifying work types may require context. All work to deliver a feature with security, performance and quality meeting the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#mr-merge) should be classified as feature work. For example if you are anticipating the performance needs of a feature and implement an application limit as part of the introduction of that feature it should be classified as `feature:addition`. If you discovered an issue scaling an existing feature and implemented an application limit that issue would likely start as a bug and the associated MR would be classified as `bug:performance`.
 
