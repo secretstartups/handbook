@@ -1322,7 +1322,8 @@ Please see the [Terminology section of our Deprecation guidelines](https://docs.
 
 - To be added by Product Managers or Engineering Managers and merged by Technical Writers during the milestone in which the removal will happen. To reduce confusion for customers, removal announcements should not be merged into Docs until the code removal has happened in the product.
 - Create a separate MR for each removal announcement.
-- Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward-compatible and breaking changes are recommended for a major release, whereas backward-compatible changes can be introduced in a minor release.
+- Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward-compatible and breaking changes are recommended for a major release, whereas backward-compatible changes can be introduced in a minor release. 
+     - **If you need to introduce a breaking change outside a major release XX.0, make sure you've already followed the guidance in [Breaking changes, deprecations, and removing features](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features.** 
 
 ##### Creating a removal announcement
 
