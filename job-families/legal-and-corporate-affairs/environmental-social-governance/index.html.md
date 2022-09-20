@@ -89,11 +89,12 @@ Information regarding growth for the ESG job family will be provided in the Lega
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
  
-* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
-* Next, candidates will be invited to schedule an interview with our Senior Director, ESG
-* Next, candidates will be invited to schedule with additional team members of the legal department
-*Next, candidates will be invited to schedule an interview with our Chief Legal Officer
-* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
+* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters.
+* Candidates will be invited to schedule an interview with our Senior Director of Legal, ESG.
+* Candidates will be invited to schedule with additional team members of the Legal and Corporate Affairs Team.
+* Candidates may be invited to schedule interviews with Directors or team members in relevant functional areas.
+* Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
+* Successful candidates will subsequently be made an offer via email.
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
