@@ -145,14 +145,14 @@ team. The current division of responsibilities is:
 |                     | Offboarding                | @jcolyer         | @nabeel.bilgrami |
 |                     | Onboarding                 | @jcolyer         | @lyle            |
 | [Audits](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits) | | @jcolyer | @dnolan1 |
-| Calendly            | Management                 | @avilla4         | @lyle            |
-|                     | Procurement                | @jcolyer         | @dtragjasi       |
+| Calendly            | Management                 | @avilla4         | @dtragjasi       |
+|                     | Procurement                | @jcolyer         | @lyle            |
 | Forms | [Account Deletions](https://gitlab.com/gitlab-com/support/support-ops/forms/account-deletion) | @dtragjasi | @jcolyer |
 | | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests-form) | @dtragjasi | @jcolyer |
 | | [Usage Ping Requests](https://gitlab.com/support/usage-ping-request) | @dtragjasi | @dnolan1 |
 | | [Customer Ticket Generator](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) | @jcolyer | @avilla4 |
-| Pagerduty | [Management](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty) | @jcolyer | @avilla4 |
-|                     | Provisioning               | @jcolyer         | @avilla4         |
+| Pagerduty | [Management](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty) | @jcolyer | @dtragjasi |
+|                     | Provisioning               | @jcolyer         | @dtragjasi       |
 | Slack | [SGG Slackbot](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot) | @dtragjasi | @jcolyer |
 |                     | Workflows                  | @dtragjasi       | @jcolyer         |
 | Status.io           | User management            | @jcolyer         | @lyle            |
