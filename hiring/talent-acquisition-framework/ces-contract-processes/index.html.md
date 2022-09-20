@@ -203,6 +203,13 @@ In rare cases, we may rescind our offer before a candidate signs the contract. W
 1. Void the contract in DocuSign utilizing the same communication that was emailed.
 1. Reject the candidate in Greenhouse. Be sure to select 'Reject and Don't Send Email.'
 
+### How to Void a Contract when the candidate declines the offer and not marked as hired in the system
+ 
+In cases where the candidate has declined the offer verbally or via email to the talent acquisition team or CES, follow these steps once the recruiter confirms it is okay to void the contract:
+1. Go to the docusign portal, under the “ waiting for others” tab, click on the candidate’s name whose contract needs to be voided. 
+1. Under “More” tab, click “Void”. Enter the reason for voiding the contract e.g "Candidate declined offer" then click on Void.
+1. Go to the candidate’s Greenhouse profile, make a note saying the contract is voided by copying the recruiter. This will prompt the recruiter to reject the candidate in GH if it hasn’t been done.
+
 ### How to Resend a Contract After Being Marked as Hired
 
 There are certain times when a contract needs to get resent to the candidate after they have been hired into the system, should that happen. Follow the steps below:
