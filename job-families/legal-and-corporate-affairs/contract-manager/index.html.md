@@ -131,9 +131,9 @@ The next step in the Contract Manager job family is not yet defined at GitLab.
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Candidates will then be invited to schedule a 30 minute interview with the Hiring Manager (Director of Contracts and Legal Operations).
-* Candidates will then be invited to schedule a 30 minute interview with a member of the Contract Management team.
-* Next candidates will be invited to schedule an interview with a partner from both the Sales and Finance teams.
+* Candidates will then be invited to schedule an interview with the Hiring Manager. 
+* Candidates will then be invited to schedule an interview with a member of the Commercial Legal Team.
+* Next candidates will be invited to schedule an interview with a member from either the Sales or Finance team.
 * Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
