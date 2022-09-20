@@ -14,7 +14,32 @@ description: "Tableau Style Guide"
 
 ## Overall Look and Feel
 
-`coming soon`
+Tableau's robust visualization capability allows for more options and flexibility around customizing the look-and-feel for our dashboards. In order to create consistent front-end designs that are true to GitLab's branding, we recommend following the tips and tricks, along with resources, provided below:
+
+**[GitLab Branding Resource](https://design.gitlab.com/brand/overview/)**
+
+The in-depth branding guidelines at GitLab provides instructions on leveraging company-specific images and colors for upholding our brand image in our work. For information on how to use logo images, please refer to the following links:
+
+* [Core logo](https://design.gitlab.com/brand-logo/core-logo/)
+* [Logomark](https://design.gitlab.com/brand-logo/logomark/)
+* [Branded lockups](https://design.gitlab.com/brand-logo/branded-lockups/)
+
+The company branding resource site also provides excellent guidance around [data visualization](https://design.gitlab.com/data-visualization/overview). For example, the color palettes are useful in creating accurate coloring to charts via hex codes: 
+
+* [Color](https://design.gitlab.com/data-visualization/color)
+* [Charts](https://design.gitlab.com/data-visualization/charts)
+
+Please also refer to our Tableau Design folder (TBD) for files that can be used in adding branding elements to your Tableau dashboards. For [example](https://drive.google.com/file/d/1N-6fCA8WTOmNLv3D2hr_zA4fhl4zBS8p/view?usp=sharing), our logo can be added to the upper left-hand corner of our dasbhoard, above the filter section that is using our GitLab color scheme.
+
+**Tableau Help**
+
+To create custom colore palettes in Tableau, you can update the Preferences.tps file with the code (below under our Standard Color Palette section) to reflect your intended color scheme.
+
+Please refer to the below sites for more instructions from Tableau around customizing texts and colors in workbooks:
+
+* [Creating Custom Palettes](https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_colors.htm)
+* [Format Text](https://help.tableau.com/current/pro/desktop/en-us/formatting_fonts_beta.htm)
+* [Use Custom Fonts](https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_fonts.htm)
 
 ### Choosing the Right Chart
 
@@ -28,7 +53,91 @@ For an in-depth explanation of the limitations of pie charts, please read Stephe
 
 ### Standard Color Pallete
 
-`coming soon`
+GitLab's brand approved colors can be found [here](https://design.gitlab.com/data-visualization/color/). Custom palettes can be created in Tableau Desktop by following the instructions [here](https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_colors.htm). The example below will create a palette with GitLab's brand approved colors, and a second palette with a darker shade of those colors.
+
+- In the Documents folder, locate the **Preferences.tps** file
+- Open the file with a preferred text editor (ex- Visual Studio Code, TextEdit)
+- Enter the desired colors for your palette into the Preferences file.
+- <details>
+  <summary>Example palettes to paste into **Preferences.tps** file</summary>
+  
+  ```
+  <?xml version='1.0'?>
+  <workbook>
+  <preferences>
+
+  <color-palette name="GitLab Palette 1" type="regular">
+  <color>#2078D0</color>
+  <color>#2D9ED8</color>
+  <color>#FCA326</color>
+  <color>#FFCC02</color>
+  <color>#1DA855</color>
+  <color>#A989F5</color>
+  <color>#6B4FBB</color>
+  <color>#FC6D26</color>
+  <color>#B7D5F4</color>
+  <color>#E24329</color>
+  <color>#7759C2</color>
+  <color>#6FDAC9</color>
+  <color>#ff9d73</color>
+  <color>#AEA5D6</color>
+  <color>#5829CB</color>
+  <color>#54448A</color>
+  <color>#F9980D</color>
+  <color>#FF675F</color>
+  <color>#CEB3EF</color>
+  <color>#E38701</color>
+  <color>#FB722D</color>
+  <color>#4CEACC</color>
+  <color>#FFD1BF</color>
+  <color>#FFB9C9</color>
+  <color>#D0C5E2</color>
+  <color>#D1D0D3</color>
+  <color>#BFBFBF</color>
+  <color>#A2A1A6</color>
+  <color>#74717A</color>
+  <color>#45424D</color>
+  </color-palette>
+
+  <color-palette name="GitLab Palette 1 Darker" type="regular">
+  <color>#075FB6</color>
+  <color>#1485BF</color>
+  <color>#E4890C</color>
+  <color>#E6B200</color>
+  <color>#048F3C</color>
+  <color>#9070DC</color>
+  <color>#5236A1</color>
+  <color>#E3540E</color>
+  <color>#E6B8A6</color>
+  <color>#C82911</color>
+  <color>#5F40A9</color>
+  <color>#55C2B0</color>
+  <color>#E68359</color>
+  <color>#958CBD</color>
+  <color>#E6A0B0</color>
+  <color>#3A2B71</color>
+  <color>#E07F00</color>
+  <color>#E64D46</color>
+  <color>#B59BD6</color>
+  <color>#CB6F00</color>
+  <color>#E25914</color>
+  <color>#33D1B2</color>
+  <color>#9EBCDB</color>
+  <color>#3F0FB2</color>
+  <color>#B7ACC9</color>
+  <color>#B8B7BA</color>
+  <color>#A6A6A6</color>
+  <color>#89888C</color>
+  <color>#5A5862</color>
+  <color>#2B2934</color>
+  </color-palette>
+
+  </preferences>
+  </workbook>
+  ```
+  </details>
+- Save **Preferences.tps** file and close
+- Restart Tableau and the palette should now be available at the bottom of the list
 
 ### Rounding
 
