@@ -118,6 +118,35 @@ If at some point in the future you do not want to use the product anymore, pleas
 
 [Tech Stack]: https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml
 
+## Usage of Java
+
+Some applications used on MacOS may require Java. The last open-source version of Oracle Java that was released was in January of 2019. All new versions since then require a paid/licensed scubscription. Therefore GitLab no longer supports Oracle Java, and requires all team-members to use an open-source alternative like OpenJDK. Oracle periodicaly audits all downloads of Oracle Java and actively pursues companies that are out of compliance. The IT department therefore enforces a policy that will remove all instances of Oracle Java that are found on team-members machines
+
+To ensure you are using the correct version, use the `java -version` command.
+
+If OpenJDK is installed, the response will look similar to this:
+
+``` shell
+$  java -version
+openjdk version "18.0.1" 2022-04-19
+OpenJDK Runtime Environment Zulu18.30+11-CA (build 18.0.1+10)
+OpenJDK 64-Bit Server VM Zulu18.30+11-CA (build 18.0.1+10, mixed mode, sharing)
+```
+
+If Oracle Java is installed, the response will look similar to this:
+
+``` shell
+$ java -version
+java version "16.0.1" 2021-04-20
+Java(TM) SE Runtime Environment (build 16.0.1+9-24)
+Java Hotspot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
+```
+
+Most systems will be running either the OpenJDK version or Java will not be installed. If Java is not installed and you wish to install OpenJDK, open the **Self Service** app located in your Applications folder and double-click on the app called [Java 18 - Open Source](<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">).
+
+If you are running the Oracle Java version, you will be automatically notified by the IT Deptartment with a [pop-up that looks like this](<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">) and it will be removed from your machine.
+
+
 ## macOS utilities
 
 The following macOS utilities are favourites among GitLab team members.
