@@ -1,0 +1,67 @@
+---
+layout: handbook-page-toc
+title: "Runner UX"
+description: "A documentation of the practices, objectives, achievements and plans of the Runner UX team."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The UX team in the [Verify:Runner Group](/handbook/engineering/development/ops/verify/runner/) is responsible for [Runner SaaS](/handbook/direction/verify/runner_saas/) and [Runner self-managed](/handbook/direction/verify/runner_fleet/). We are focused on supporting the [Runner JTBDs](/handbook/engineering/development/ops/verify/runner/jtbd/) by understanding what users are struggling with, solving for those problems, and improving the overall experience to make it easy as possible to use runners and CI/CD.
+
+We measure our success through a combination of experience scores, through [SUS evaluations](/engineering/ux/performance-indicators/system-usability-scale) of the GitLab product, [UX scorecards](/handbook/product/ux/ux-scorecards/) and [Category Maturity scorecards](/handbook/product/ux/category-maturity-scorecards/) and usage metrics (we are in progress of integrating and making use of these more often). Our goal is to provide the easiest feature set to manage, use and "not have to worry about" runners.
+
+## Runner fleet UX vision
+
+[Platform engineers](/product/personas/#priyanka-platform-engineer) struggle managing large fleets of runners today. They are not equipped with enough configuration capabilities to manage and administer the fleet. This negatively impacts their teams as they sometimes end up running into blockers when using the runners. We have captured many issues, including customer requests and [FY22-Q3 UX scorecard recommendations](https://gitlab.com/gitlab-org/gitlab-design/-/issues/1666), in the [Runner fleet meta epic](https://gitlab.com/groups/gitlab-org/-/epics/7475) that further document this problem and how we plan to solve it.
+
+The vision for this problem is to provide users with a flexibile set of management capabilities to troubleshoot quickly and support their teams. To do this, we've broken down the vision into:
+  - [Search and attribution](https://gitlab.com/gitlab-org/gitlab/-/issues/343810): Visionary features to enhance the search and filter capabilities in the Admin runners UI to, for example, view all runners assigned to a single project. We would like to use this as a foundation to include automation in the future as well, such as, stale runner garbage collection. Watch the [summary video](https://www.youtube.com/watch?v=8nSos4pbMng) for the full vision, including mockups.
+  - [CI/CD job queues](https://gitlab.com/gitlab-org/gitlab/-/issues/345594): Visionary features to provide more insight into the job queues of a runner, which is important when identifying why runners are not working as expected, as well as to prevent overloaded runners. This vision is in progress.
+
+## Runner UX Plan for FY23
+
+### Ongoing Initiatives
+
+In FY22-FY23Q2, we are focused on first [improving the overall usability of the runner admin page](https://gitlab.com/groups/gitlab-org/-/epics/5665), to set a solid foundation to ultimately add [new runner management features](https://gitlab.com/groups/gitlab-org/-/epics/6716). The improvements to the admin page can be used to then improve the Runner SaaS experience for [group runners](https://gitlab.com/groups/gitlab-org/-/epics/6714).
+- [14.6 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/344052)
+- [14.7 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/345031)
+- [14.8 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/349619)
+
+In FY23Q3-FY23Q4, we plan to tackle the CI/CD job queues problem by adding [monitoring features](https://gitlab.com/groups/gitlab-org/-/epics/5667) to the Admin view that enable platform engineers to get a better glimpse of what is happening across their fleet of runners. We also plan to incorporate [features with automated recommendations](https://gitlab.com/groups/gitlab-org/-/epics/6720) based on your fleet of runners, so that you can keep them up to the best standards.
+- [14.9 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/350079)
+- [14.10 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351456)
+- [15.0 Runner UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/352037)
+
+## How we work
+
+### UX and Engineering collaboration
+
+We use workflow labels, pretty closely following the [product development flow](//handbook/product-development-flow/#workflow-summary), to indicate that an issue needs design work. We add `~workflow::ready` for design when an issue is ready to be taken on by design. Design is responsible for capturing issues that could be taken on in the next milestone, and communicating with the PM and engineering to finalize the list.
+
+When design takes on an issue, the `~workflow::design` label is applied and the [UX DoD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/#ux-definition-of-done-dod) should be added into the description. During the design process, a technical writer is brought into the process to be able to review the UI copy throughout the iterations. If copy was approved, then a comment is left on the issue saying so. Collaboration with development should also be consistent throughout the design process - this especially helps with considering the feasibility of features.
+
+Once design is approved, the `~workflow::ready for development` label is applied. Design and development should collaborate to ensure the issue is properly broken down and planned for development. 
+
+Issues will not get a milestone attached to them until they are considered as a candidate for an upcoming milestone.
+
+### UX Definition of Done (DoD)
+
+We use the [CI/CD UX Definition of Done (DoD)](/handbook/product/ux/stage-group-ux-strategy/ci-cd/#ux-definition-of-done-dod) as a tool for assessing the readiness of an issue and tracking the expected deliverables, objectives, and the approval process. 
+
+### UX Weight
+
+We use the [UX Weight definitions](/handbook/product/ux/product-designer/#ux-weight-definitions) for milestone capacity.
+
+### Common links
+
+| **Product Designer** | [Gina Doyle](/company/team/#gdoyle) |
+| **Product Designe Manager** | [Rayana Verissimo](/company/team/#rayana) |
+| **Slack Channel** | [`#g_runner`](https://gitlab.slack.com/app_redirect?channel=g_runner) and [`#ux_ci-cd`](https://gitlab.slack.com/app_redirect?channel=ux_ci-cd) |
+| **Youtube playlist** | [Runner UX on Unfiltered](https://youtube.com/playlist?list=PL05JrBw4t0Kr1B8ktQVCMZbUkZbP-0RuE) |
+

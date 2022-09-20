@@ -1,0 +1,128 @@
+---
+layout: handbook-page-toc
+title: "Pipeline Execution UX"
+description: "A documentation of the practices, objectives, achievements and plans of the Pipeline Execution UX team."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The [Verify:Pipeline Execution Group](/handbook/engineering/development/ops/verify/pipeline-execution/) is focused on all the functionality with respect to Pipeline Execution, as part of [GitLab Continuous Integration](/stages-devops-lifecycle/continuous-integration/). This UX team is responsible for the following categories:
+
+- **[Continuous Integration](/direction/verify/continuous_integration/)**: Making it easy to run a pipeline is our first focus and this applies to both running a pipeline manually as well as triggering one automatically when submitting a code commit or a merge request. In addition, we want to provide data for examining your pipeline's performance, so that you can optimize CI configurations to make your pipelines run more efficiently.
+- [**Continuous Integration Scaling**](/direction/verify/continuous_integration_scaling/): In FY22, we have committed to SaaS First. In the Verify Stage, this means prioritizing the scale of Continuous Integration and ensuring our users on GitLab.com are leveraging a reliable and available service. 
+- [**Merge Trains**](/direction/verify/merge_trains/): A merge train is a queued list of merge requests waiting to be merged into the target branch. The changes in each merge request are combined with the changes in earlier merge requests and tested before merge.
+
+## Pipeline Execution UX Plan
+
+### Vision for categories under Pipeline Execution
+- **[Continuous Integration](/direction/verify/continuous_integration/)**: Looking to the future, we have plans to help you better monitor and understand your pipeline [epic#4794](https://gitlab.com/groups/gitlab-org/-/epics/4794). Having details about pipeline activities (such as job duration) will allow you to see and react to what's happening while your pipeline is running. Beyond using data simply for reactive purposes, we have plans for a customisable UI for historical pipelines analytics so you can see the trends that will guide your planning and decision making.
+
+We'd love to create a holistic approach to automatically merging when pipelines succeed via [gitlab#8128](https://gitlab.com/gitlab-org/gitlab/-/issues/8128), which offers great collaboration between [Code Review](/direction/create/code_review/) and Continuous Integration. 
+
+- [Merge Trains](/direction/verify/merge_trains/): Our top vision item is [Merge Trains should support fast forward merge](https://gitlab.com/gitlab-org/gitlab/issues/35628) as this will eliminate the
+frequent need for manually rebasing. We have heard from many developers that a large portion of their day is dedicated to this activity, and with this functionality, Merge Trains will take care of this for them.  
+
+### Ongoing Initiatives
+
+In FY23-Q1, we are focused on improving the SUS score of the product by working on the following issues:
+- [14.9 UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351574)
+- [14.10 UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351575)
+- [15.0 UX tracking issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351576)
+
+## How we work
+
+### UX and Engineering collaboration
+
+The [Pipeline Execution design tracking epic](https://gitlab.com/groups/gitlab-org/-/epics/5866) and regular syncs are used by the product manager and product designer to keep track of issues that are ready for design, usually aligned to a quarterly theme. 
+
+In Pipeline Execution group, design works ahead of development. Therefore, the issues that are being worked on by the designer get assigned to a milestone only after the design proposal has been added, and the status moved from `workflow::design` to `workflow::planning breakdown`.
+
+We dedicate ~10% of our capacity by weight in each milestone to working on [UX Debt](/handbook/product/ux/performance-indicators/#ux-debt) issues and address them within their SLOs. Read more about the collaboration between UX and engineering on the [Pipeline Execution group page](/handbook/engineering/development/ops/verify/pipeline-execution/#collaboration-with-ux-and-engineering).
+
+### UX Definition of Done (DoD)
+
+We use the [CI/CD UX Definition of Done (DoD)](/handbook/product/ux/stage-group-ux-strategy/ci-cd/#ux-definition-of-done-dod) as a tool for assessing the readiness of an issue and tracking the expected deliverables, objectives, and the approval process. 
+
+### UX Weight
+
+We use the [UX Weight definitions](/handbook/product/ux/product-designer/#ux-weight-definitions) for milestone capacity.
+
+### UX Debt and UI Polish issues
+
+The UX Debt and UI Polish issues for CI are tracked in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/4667). Our goal is to work on a minimum of one of these issues each milestone.
+
+## Cross-stage collaboration
+
+| Issue | Scope | Stage-groups impacted |
+|-------|-------|-----------------------|
+| [Simplify merge strategies with `Auto merge`](https://gitlab.com/groups/gitlab-org/-/epics/6687) | Merge Widget, Settings Page | `group::source code` `group::code review` |
+| [Removing user access to Shared Runners UI](https://gitlab.com/gitlab-org/gitlab/-/issues/35346/) | Admin controls | `group::runner` |
+| [Provide visibility for shared runner usage for user namespaces](https://gitlab.com/gitlab-org/gitlab/-/issues/345795) | Merge widget | `group::runner` |
+| [Categorize Permissions](https://gitlab.com/gitlab-org/gitlab/-/issues/281169) | RBAC/User access | `group::AUthentication and authorization`  |
+| [Re-organize merge strategy/checks options on settings page](https://gitlab.com/gitlab-org/gitlab/-/issues/340393) | Project and Group Settings >> General | `group::source code` |
+
+### Merge Request Reviews
+The development merge requests get assigned to a product designer by the [GitLab Roulette](/handbook/product/ux/product-designer/mr-reviews/#how-to-assign-mr-reviews). We follow the standard guidelines for the [reviewing process and hand-off](/handbook/product/ux/product-designer/mr-reviews/#workload-and-response-times) as well. 
+
+There are areas in Pipeline Executions that can be tricky to setup the test data for reviewing the merge request. Depending on the requirement, we clone projects from the [CI sample projects pool](https://gitlab.com/gitlab-org/ci-sample-projects) on the local GDK ot Gitpod instance and test. 
+
+#### Setting up test data for CI/CD minutes features
+Merge requests related to CI/CD minutes and shared runner usage usually require some historical usage data, which can be difficult to set up if it doesn't exist already on the local GDK environment. Below is a video and instructions for how to set that up in under 7 minutes.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/ym-fU1U-anE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+#### Instructions
+Checkout the branch in the MR and open rails console using `bundle exec rails console`.
+
+**1. Edit CI minutes**
+
+```
+ApplicationSetting.current.update(shared_runners_minutes: 400)
+project = Project.find(20)
+root_namespace = project.root_namespace
+
+namespace_usage = Ci::Minutes::NamespaceMonthlyUsage.find_or_create_current(namespace_id: root_namespace.id)
+Ci::Minutes::NamespaceMonthlyUsage.update_counters(namespace_usage, amount_used: 100, shared_runners_duration: 100)
+
+project_usage = Ci::Minutes::ProjectMonthlyUsage.find_or_create_current(project_id: project)
+Ci::Minutes::ProjectMonthlyUsage.update_counters(project_usage, amount_used: 100, shared_runners_duration: 100)
+```
+
+Type `:wq` to exit the log lines. Do not exit the rails console. 
+
+**2. Add helper method to rails console**
+
+```
+def increase_ci_usage(project:, date:, amount_used:, shared_runners_duration:)
+  date = date.utc.beginning_of_month
+
+  project_usage = Ci::Minutes::ProjectMonthlyUsage.where(date: date).safe_find_or_create_by(project_id: project.id)
+  Ci::Minutes::ProjectMonthlyUsage.update_counters(project_usage, amount_used: amount_used, shared_runners_duration: shared_runners_duration)
+
+  root_namespace = project.root_namespace
+  namespace_usage = Ci::Minutes::NamespaceMonthlyUsage.where(date: date).safe_find_or_create_by(namespace_id: root_namespace.id)
+  Ci::Minutes::NamespaceMonthlyUsage.update_counters(namespace_usage, amount_used: amount_used, shared_runners_duration: shared_runners_duration)
+end
+```
+
+**3. Use helper method**
+
+```
+increase_ci_usage(project: project, date: 1.month.ago, amount_used: 10, shared_runners_duration: 20)
+```
+The usage quota page should now reflect the changes data.
+
+If you wish to educate yourself further around the updates realted to this area, watch [this video](https://youtu.be/n0aMc9MFQtU) by our Product Manager, James Heimbuck.
+
+
+

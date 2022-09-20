@@ -145,17 +145,17 @@ When the planning issue is created the Product Designer should follow these step
 Every milestone will have more work than we can commit to. Product designers know the approximate number of issue weights they can take on in order to do the work to our high standards. Never take on more issue weights than you can, and don't compromise other important tasks such as professional development and UX department initiatives. This leads to burnout. Follow the escalation instructions to make your wider team aware of the issues you can't take on so that they can explore additional options or tradeoffs.
 
 #### How UX Works
-We follow the [Product Designer workflows](/handbook/engineering/ux/product-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [Product Design section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
+We follow the [Product Designer workflows](/handbook/product/ux/product-designer/) and [UX Researcher workflows](/handbook/product/ux/ux-research/) described in the [Product Design section](/handbook/product/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
 - we have issue boards so we can see what everyone is up to. Refer to issue boards in our planning issues. For example, this is the [template for Acquisition Planning issues](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/growth_acquisition_planning_template.md). 
 - we **label** our issues with `UX`, `devops::growth` and `group::`.
-- we will label experiments with `UX problem validation` and `UX solution validation` according to the [UX Research Workflow](/handbook/engineering/ux/ux-department-workflow/#how-we-use-labels) definitions to indicate the type of learning the experiment achieves. The purpose of these labels is to track [this UX KPI](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) related to research velocity.
+- we will label experiments with `UX problem validation` and `UX solution validation` according to the [UX Research Workflow](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) definitions to indicate the type of learning the experiment achieves. The purpose of these labels is to track [this UX KPI](/handbook/product/ux/performance-indicators/#ux-research-velocity) related to research velocity.
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A) for regular issues and [experiment workflow labels](/handbook/engineering/development/growth/#experiment-workflow-labels) for experiment issues.
 - we use **milestones** to aid in planning and prioritizing the four growth groups of Acquisition, Conversion, Expansion and Retention.
     - PMs provide an [ICE score for experiments](https://docs.google.com/spreadsheets/d/1yvLW0qM0FpvcBzvtnyFrH6O5kAlV1TEFn0TB8KM-Y1s/edit#gid=0) and by using [priority labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) for other issues.
     - The Product Designer applies the milestone in which they plan to deliver the work (1-2 milestones in advance, or backlog for items that are several months out. For example, if an issue is not doable for a designer in the current milestone, they can add the next milestone to the issue, which will communicate to the PM when the work will be delivered.
     - If the PM has any concern about the planned milestone, they will discuss trade-offs with the Product Designer and other Growth PMs.
-- we use [UX issue weights](https://about.gitlab.com/handbook/engineering/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
+- we use [UX issue weights](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
     - Label the issue for UX work with `UX` and assess the issue weight. Issues larger than an **8** should be broken down further.
     - Use the scoped labels starting with `design weight` to add the UX weight to an issue.
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
@@ -188,9 +188,9 @@ There are times when it isn't possible or practical for a designer to complete t
 
 #### UX Scorecards
 All of the planned, in progress and completed UX Scorecards for Growth can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/2015).
-For more information, read about [UX Scorecards](/handbook/engineering/ux/ux-scorecards/).
+For more information, read about [UX Scorecards](/handbook/product/ux/ux-scorecards/).
 
-UX Scorecards can be used to evaluate onboarding experiences and we also include onboarding criteria in our [UX Heuristics](/handbook/engineering/ux/heuristics/).
+UX Scorecards can be used to evaluate onboarding experiences and we also include onboarding criteria in our [UX Heuristics](/handbook/product/ux/heuristics/).
 
 
 #### UX Themes and Labels
