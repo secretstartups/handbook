@@ -242,7 +242,7 @@ We can address this by:
 * [living out our customer results value](/handbook/values/#customer-results)
 * product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 * [dogfooding](/handbook/values/#dogfooding) so we experience the same pain points our customers do
-* optimizing for [user experience and usability](/handbook/engineering/ux/). We manage toward improving performance for [UX KPIs](/company/kpis/#ux-department-kpis), including [SUS score](/handbook/engineering/ux/performance-indicators/#system-usability-scale-sus-score)
+* optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs](/company/kpis/#ux-department-kpis), including [SUS score](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
 
 ## 12. Remote proliferation
 {:#remote-proliferation}
@@ -272,7 +272,7 @@ and [wider community contributions per release](/handbook/marketing/performance-
 Due to the breadth of our product scope, and the fact that our product and engineering teams work in isolation in stages and groups, there is a risk that the end-to-end experience in the application will break down.
 
 In order to avoid this negative outcome, we:
-* Have [research team interview personas](/handbook/engineering/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
+* Have [research team interview personas](/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
 * Ensure adequate [product leadership](/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
 
 ## 15. Bad, insufficient and missing data
@@ -427,7 +427,7 @@ Otherwise, we have a [clear and consistent prioritization framework across engin
 While building enterprise software, we run the risk of optimizing the software for the buyer only while creating a bad experience for the end-users of the software.  This is seen in the [Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12)
 
 In order to prevent this effect, we will:
-* Create and maintain [UX scorecards](/handbook/engineering/ux/ux-scorecards/) and interviews from UX
+* Create and maintain [UX scorecards](/handbook/product/ux/ux-scorecards/) and interviews from UX
 * [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
 ## 26. Frankenstein product
