@@ -289,7 +289,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
 | [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month| | EBA to Engineering | 
-| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
+| [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
