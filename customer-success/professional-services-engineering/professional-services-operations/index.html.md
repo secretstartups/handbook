@@ -139,110 +139,7 @@ The PM sends out the request for acceptance to the customer and then updates the
 
 #### Training Planning and Scheduling
 
-1: **Closed Order Notification** - Project Coordinators receive an automated Salesforce.com email notification when an order has closed and the opportunity is in a closed won stage.
-   * The Project Coordinator reviews the purchased training documentation in Salesforce by reviewing the Quote Charge Summaries section within the Salesforce opportunity and attachments.
-   * The Project Coordinator reviews the `Professional Services Value` and `Comp Pro Serv Value` fields within the Salesforce opportunity to ensure that they are populated with the correct amounts.  If they are not populated, then post a message to `@Sales-Support` within the Salesforce opportunity chatter to update the fields.
-   * The Project Coordinator updates the corresponding Mavenlink project per the [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process. 
-
-2: **GitLab.com Professional Services epics** are used for tracking training-related information and checklist including the following:
-   * Training dates
-   * Class times
-   * Assigned instructor
-   * Teleconferencing set up
-   * Send out customer follow up email with class details
-   * Add attendance roster to Mavenlink
-   * Send out post training email and recording information
-   * Close out the project
-
-**Scenario 1** - If a customized training is purchased, then a GitLab.com Professional Services epic should already exist as part of the scoping process.
-   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
-   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
-   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
-
-**Scenario 2** - If only standard training is purchased, then a GitLab.com Professional Services epic most likely will not already have been created.  Use the [GitLab Services Calculator](https://services-calculator.gitlab.io/) to create an epic.
-   * Enter the customer name, your GitLab handle, and your email address into the GitLab Services Calculator and click the **Create PS Scoping Issue** button.  You should see a message that the pipeline is creating.
-   * After the epic has been created, you should receive an email notification with the link to the Scope Engagement and Write SoW issue.  Go to the _Scope Engagement and Write SoW_ issue and close it.
-   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
-   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
-   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
-
-3: Contact the Account Sales representative via the Salesforce opportunity Chatter feed to request customer PoC confirmation.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to post your message.
-
-4: **Post-Sales Training Intake Questionnaire** - Use the [template](https://docs.google.com/document/d/15Ame5jLudiX-oztJ3padL-syu5g4yKphK4z8WMkfaNE/edit?usp=sharing) to make a copy of the questionnaire for the customer to complete.  Make sure to save the copy in the correct PMO > Active Projects Google Drive folder.  Update the customer’s training intake questionnaire as necessary and add the customer point of contact to the Google doc with edit rights.
-
-5: **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing).
-
-6: **Training Scheduling** - After receiving customer confirmation and training intake questionnaire feedback, review trainer schedules in Mavenlink and confirm availability.
-   * Propose training dates and times to the customer.
-      * Add soft allocations to the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and to the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing).
-      * Add a placeholder on the Professional Services Training calendar and invite the trainer per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
-   * Upon receiving the customer's confirmation of training dates and times, change the soft allocations to hard allocations within the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and update the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing) accordingly.
-      * Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing), and notify the trainer that the customer confirmed the training dates.
-   * **Partner Training Work Authorization** - If you are using a partner to deliver the training, create a draft of the applicable Training Work Authorization form and send to the partner for signature using the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
-      * After receiving the signed Training Work Authorization form, save a copy in the partner SFDC account and the Professional Services Partner Google Drive folder.
-      * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
-
-7: **Training Preparation Meeting** - Schedule a training preparation call with the customer and assigned trainers to discuss logistics, training topics, and system requirements.  After confirming the meeting date and time with the customer and trainers, send a meeting invitation to the customer, trainers, and the GitLab account team with the Professional Services Education Services Manager as an optional attendee.
-   * Create a draft of the Training Event Plan notes per the [Training Event Plan template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing) prior to the meeting and add the trainers to the document with edit rights.  You will update the document during the training planning meeting.
-   * Use the following suggested meeting name when creating the meeting invite.  
-      **GitLab Training Preparation / customer name - course name**
-   * Within the meeting description, add the applicable information per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
-   * Post a message to the trainers in the Mavenlink project to inform them of the customer training preparation meeting confirmation and next steps.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your message.
-   * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing) to draft the message.
-   * Save a copy of the customer call notes to the customer Active Projects folder.
-
-8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
-   * If **Zoom** is the preferred teleconferencing system, then the Project Coordinator sets up the Zoom sessions per the [set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/). Make sure to add the trainers as alternate hosts for the sessions in order for the trainers to gain host rights for the meeting.
-   * If **Webex** is the preferred teleconferencing system, then the Project Coordinator sets up the Webex sessions per the [set up instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing).  Make sure to add the trainers as attendees for the sessions so they can add the calendar placeholders.  The trainers will need to start the meeting via GitLab's shared account to gain host rights for the meeting.  The training attendees are also typically added to the meeting invite instead of requiring registration.  
-
-9: **Training Calendar Update** - Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to include the teleconferencing information and notify the trainer.   
-
-10: As you work through the training scheduling and preparation tasks, update the Professional Services GitLab.com epic training checklist.   
-
-#### Training Preparation (T-1 Week)
-One week prior to the class start date, the Project Coordinator will send the following reminders and perform preparation tasks leading up to the training delivery.  
-
-1: **Registration Report** - Run the registration report approximately one week prior to the class start date, and save a copy in the PS PMO Active Project folder.
-   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
-
-2: **Customer Reminder** - Send an email to the customer approximately 1 week prior to the class start date as a reminder for the system requirements and attach a copy of the registration report, if applicable.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your email message to the customer.
-
-3: **Demo Cloud Invitation Code** - Generate invitation code for the upcoming class per [these instructions](https://about.gitlab.com/handbook/customer-success/demo-systems/#invitation-code-creation).
-
-4: **Trainer Friendly Reminders** - Post a trainer reminder message per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) within the Mavenlink project after setting up demo cloud lab invitation code.  Make sure to @ mention the trainer within the post and link the post to the applicable Mavenlink task.
-
-#### Training Preparation (T-1 Day)
-1: **Training Roster** - Run the registration report one day prior to the class start date, and save a copy in the PS PMO Active Project folder.  Also attach a copy of the roster to the Mavenlink project and task by replying to your trainer friendly reminder post; make sure to @ mention the trainer within the post.
-   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
-
-2: Follow up with the trainers and customers if any last minute preparations are required.
-
-#### Training Delivery
-The Project Coordinator will monitor Slack channels and emails in case any last minute triaging is required.
-
-#### Training Close-out
-Upon training delivery completion, the Project Coordinator will perform the following close-out tasks.
-
-1: **Attendance Report** - Run the attendance report, and save a pdf copy in the PS PMO Active Project folder.
-   * **Zoom** - [Attendance report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
-   * **Webex** - [Attendance report instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
-
-2: **Recordings** - If GitLab's teleconferencing system was used for the training, then access the recording links via the instructions below.
-   * **Zoom** - [Recording link instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
-   * **Webex** - [Recording link instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
-   * Add the recording link information to the Professional Services GitLab.com epic under the applicable training course checklist task.
-
-3: **Mavenlink Project** - Save a pdf copy of the attendance report to the applicable milestone, and update Mavenlink project to close out the project.
-
-4: **Course Slide Deck** - Send a Slack message to the trainer asking if a customized or standard version of the slide deck was used during the training class.
-   * **Customized Slide Deck** - Download a pdf copy of the slide deck from the trainer and save to the Professional Services > PMO > Active Projects Google Drive folder.
-   * **Standard Slide Deck** - Download a pdf copy of the slide deck from the applicable Course Content Packages Google Drive folder, and save a copy to the Professional Services > PMO > Active Projects Google Drive folder.
-
-5: **Customer Post-Training Correspondence** - Send the post-training email with the recording links, course attendance, slide deck, lab guide, survey, and certification assessment information per the [example template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing).
-
-6: **GitLab.com Epic** - Update the training checklist as you complete the activities.  After all trainings per the order have been completed for _training-only orders_, go to the GitLab.com epic.  
-   * Close all issues associated with the epic.
-   * Close the epic.
+Refer to this [internal page](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home#calendar_spiral-training-operations) for more information.
 
 ___
 
@@ -467,7 +364,7 @@ Expenses are to be invoiced in the month in which they have incurred.
 
 ### Mavenlink Project Status/ Colors
 
-| Mavenlink Status |  |
+| Mavenlink Status | Status Definition |
 | ------ | ------ |
 | Estimate- Gray | Projects that are tracking Internal time for GitLab PS & GitLab Partners |
 | Prospect- Gray | PC is setting up Mavenlink project/ Project is at a Stage 5- start reviewing staffing plan |
@@ -479,6 +376,20 @@ Expenses are to be invoiced in the month in which they have incurred.
 | On Hold- Gray| Project is delayed |
 | Backlog- Gray | No work is planned |
 | Cancelled- Blue | Project Created but will not be worked for various reasons |
+
+For **training-only projects**, use the following Mavenlink/Kantata statuses:
+
+| Mavenlink/Kantata Status | Status Definition |
+| ------ | ------ |
+| Prospect- Gray | Project has not booked yet and is at a Stage 5 |
+| In Set Up- Gray | SFDC opportunity has closed / PC is setting up Mavenlink-Kantata project |
+| Okay to Start- Light Green | Project setup complete / Welcome to GitLab Education Services email |
+| Active- Dark Green | PC is actively working on scheduling the project / Training dates are proposed to the customer |
+| Closed- Blue | **Onsite training projects only** / Training delivery has been completed but waiting for expense reports |
+| Completed- Blue | All training activities are completed / Ready for billing and revenue |
+| On Hold- Gray| Partial training activities are completed; customer is not ready to schedule the remaining training activities |
+| Backlog- Gray | Customer is not ready to schedule the training activities, and it has been at least a month since the order booking date |
+| Cancelled- Blue | Project created but will not be worked for various reasons |
 
 
 | Mavenlink Project Colors |  |
