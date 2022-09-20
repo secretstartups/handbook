@@ -347,7 +347,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 5 | CRO | Mike Pyle | N/A |
 | Thursday October 6 | Development | Christopher Lefelhocz | September 28 |
 | Tuesday October 11 | **Available** | | Key Review Date? |
-| Wednesday October 12 | **Available** | | Key Review Date? |
+| Wednesday October 12 | Remote Development | Eric Schurter | N/A |
 | Thursday October 13 | CRO Group Conversation | CRO Leadership | N/A |
 | Tuesday October 18 | Product | Product Leadership | October 13 |
 | Wednesday October 19  | UX | Christie Lenneville | N/A |
