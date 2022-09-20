@@ -69,8 +69,6 @@ The newsletter will...
 - Giving feedback or making requests will be easy, and all input will be considered and addressed.
 - The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.
 
-**Bolster our sense of entity and team**
-- Each newsletter will include a spotlight on a sales or CS team member so the wider team has a chance to get to know them better and learn something from them.
 
 ## Format 
 Based on the requirements above, this is the current iteration of the newsletter format: 
