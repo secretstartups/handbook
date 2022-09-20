@@ -265,10 +265,11 @@ The next step in the Legal Counsel job family is not yet defined at GitLab.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
  
-* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
-* Next, candidates will be invited to schedule an interview with our Director of Legal, Privacy and Product
-* Next, candidates will be invited to schedule with additional team members of the legal department
-*Next, candidates will be invited to schedule an interview with our Chief Legal Officer
-* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
+* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters.
+* Next, candidates will be invited to schedule an interview with the hiring manager.
+* Next, candidates will be invited to schedule an interview with the Director of Legal for the functional area.
+* Next, candidates will be invited to schedule with additional team members of Legal and Corporate Affairs.
+* Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
+* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas.
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
