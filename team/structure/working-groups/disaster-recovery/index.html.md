@@ -40,7 +40,7 @@ This working group is working towards [the proposed targets for both RPO and RTO
 
 Planned:
 
-1. Create and update [a single handbook page](/handbook/engineering/infrastructure/production/architecture/disaster-recovery.html), and deprecate resources in other locations. **DRI:** Fabian Zimmer
+1. Create and update [a single handbook page](https://internal-handbook.gitlab.io/handbook/engineering/gitlab-com-disaster-recovery), and deprecate resources in other locations. **DRI:** Fabian Zimmer
 1. [Define and clarify the FY24 recovery goals](https://app.ally.io/objectives/2228900?time_period_id=155987) **DRI:** Steve Loyd
 1. [Complete an assessment of zonal outage and identify next step iterations towards 4 hour recovery goal](https://app.ally.io/objectives/2235994?time_period_id=155987) (Epic: [gitlab.com&1900](https://gitlab.com/groups/gitlab-com/-/epics/1900)). **DRI:** John Jarvis
 1. Define the strategy to deliver a short-term DR solution for GitLab.com and [incorporate work into the Reliability Cross-Functional Initiative](https://app.ally.io/objectives/2228902?time_period_id=155987)  **DRI:** Steve Loyd
