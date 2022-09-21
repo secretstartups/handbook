@@ -39,10 +39,7 @@ Creating a Fieldnote issue does not necessarily signal to other engineers that y
 
 ## Fieldnote Workflow
 
-- Once an Assigned ZD Ticket becomes non-trivial, create a new Fieldnote for it, and link it to the Ticket (we have [a script to do this for you](https://gitlab.com/gitlab-com/support/toolbox/dotfiles/-/blob/main/scripts/create_fieldnote.rb)):
-  1. Create an issue in [the Fieldnotes Project](https://gitlab.com/gitlab-com/support/fieldnotes/), labeled `~fieldnote` (use a Description Template to get you started)
-  1. Hyperlink the ticket within the new issue (there is a place for this in the template)
-  1. Link to the issue within the assigned ticket, in the **GitLab Issues** custom field on Zendesk
+- Once an Assigned ZD Ticket becomes non-trivial, create a new Fieldnote for it, and link it to the Ticket. We have a [Zendesk App](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/fieldnotes-app/) to do the linking work for you, which also lists the fieldnote URL once created
 - Investigate the customer request/incident on the issue, making notes in the comments as you go
 - There will be false starts, and wild goose chases for some investigations. This is fine, _**always be commenting**_: don't try to filter anything within the issue
 - Remember to update the Fieldnote Description
@@ -63,13 +60,9 @@ Creating a Fieldnote issue does not necessarily signal to other engineers that y
 
 - Keep the Description up-to-date
 
-- We have more than one issue template for Fieldnotes: chose one to suit your need, and add more of your own
+- We have more than one description template for Fieldnotes: chose one to suit your need, and add more of your own
 
-- There is a Ruby script in the [Support dotfiles project](https://gitlab.com/gitlab-com/support/toolbox/dotfiles/-/tree/main/scripts) which will create a new Fieldnote issue for you and automatically populate it with a links back to the ticket. You can use it like this:
-
-    ```
-    bundle exec create_fieldnote.rb -i <ticket_id> -s '<subject of ticket>' [-t <template>] [-p <PAT_with_api_scope>]
-    ```
+- Fieldnotes created with the Zendesk Fieldnote app will use the `fieldnote.md` template, but you can change templates if another would better suite the ticket
 
 - Use browser bookmarks with keywords. Here are some suggestions to make searching for Fieldnote and GitLab issues easier:
 
@@ -90,7 +83,7 @@ Creating a Fieldnote issue does not necessarily signal to other engineers that y
   | `i` | creates a new ***I***ssue |
   | `e `| ***E***dit issue Description
   | `r ` | ***R***eply (add a comment) |
-  | `r ꜛ` (up arrow)| ***R***eply to thread |
+  | `r ▲` (up arrow)| ***R***eply to thread |
   | `l` | change ***L***abels |
   | `g i` | ***G***oes to the ***I***ssues |
   | `g f` | ***G***oes to the ***F***iles |
