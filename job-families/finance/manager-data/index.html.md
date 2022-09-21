@@ -121,5 +121,32 @@ The job requirements of this specialization include all of the requirements for 
 * Assigning tasks across team and advising team members on how to get to expected outcomes including improving performance of models
 * Ability to translate model outcomes to prescriptive, predictive and descriptive solutions and lead others on how to do it
 
+### Data Platform
+
+#### Manager, Data Platform Description
+ 
+The [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team) closely partners with various teams across GitLab to facilitate making better decisions faster by developing and maintaining a Big Data Platform.
+ 
+The job description of this specialization include all of the responsibilities for the **Manager, Data** role. In addition, responsibilities for the specialization include:
+ 
+#### Manager, Data Platform Responsibilities 
+
+* Define, collaborate, and communicate key influences and impacts to technical and non-technical audiences
+* Plan and prioritize projects and work amongst stakeholders throughout the organization and Data Platform Team members
+* Assigning tasks across team and advising team members on how to get to expected outcomes including data architecture and infrastructural recommendations
+* Guide, help and support Data Engineers in their daily job
+* Own one or more operational areas of the Data Platform, measuring successful results against established SLOs
+* Assigning tasks across the Data Platform Team and advising team members on how to achieve expected results including data architecture and infrastructural recommendations
+* Foster collaboration and partnerships with the Data Fusion Team and Data functions accross GitLab
+
+#### Manager, Data Platform Requirements
+ 
+The job requirements of this specialization include all of the requirements for the **Manager, Data** role. In addition, requirements for the specialization include:
+ 
+* This is a hands-on role and requires experience as a Data Engineering, Data Infrastructure or Data Architecture Individual Contributor
+* Ability to make technical (data, infrastructure or architecture) decisions regarding the direction of the project
+* Experience leading end-to-end data projects like adding new data sources, updating core infrastructure and adding new technologies to our modern data stack
+* Up to date with technologies and trends in the modern data stack world
+* Ability to use SQL for analyzing and visualizing data
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
