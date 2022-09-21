@@ -32,19 +32,19 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. LOAs can be signed by Morgan Wilkins  | 
 | GitLab Federal LLC    |       Bob Stevens     |  
-| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab GmbH | Rob Allen & Pattie Egan. Backup: Igor Groenewegen-Mackintosh | 
-| GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab Ireland LTD | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab UK Ltd | Rob Allen, Pattie Egan, Dale Brown. Backup: Igor Groenewegen-Mackintosh | 
+| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel| 
+| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
+| GitLab GmbH | Rob Allen & Pattie Egan| 
+| GitLab PTY Ltd, Australia | Craig Mestel| 
+| GitLab PTY Ltd, New Zealand | Craig Mestel| 
+| GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
+| GitLab UK Ltd | Rob Allen, Pattie Egan, Dale Brown| 
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
-| GitLab IT BV | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
-| GitLab France S.A.S. | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh |
-| GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
+| GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab Singapore PTE. LTD. | Dale Brown|
 | LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For LOAs, choose Morgan Wilkins or Marissa Ferber |
 
