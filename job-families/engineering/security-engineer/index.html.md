@@ -142,7 +142,7 @@ The Distinguished Security Engineer role extends the [Principal Security Enginee
 
 The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Staff+ Driven Initiatives
+## Staff+ Initiatives
 
 At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
 * Career Growth through increased scope and responsibility
@@ -157,6 +157,11 @@ Initiatives are selected with the following criteria:
 * Impactful: The initiative should have a positive impact in making GitLab more secure and/or maturing our Security program
 * (Preferably) Within Team Member’s Domain: To increase the team member’s ability to succeed and ability to control influence and outcome, the chosen work should fall within the team member’s domain of work.  The team member does not need to be at an expert level as growth and development in skillset is not only encouraged, but intended.
 * Solves a Problem:  The initiative should be designed to produce an outcome that remediates or mitigates a security concern.
+
+All staff+ initiatives are tracked as epics with the `~"Staff+ Initiative"` label in both of our top-level namespaces with corresponding epic boards for global transparency and tracking:
+
+* [**gitlab-com** Staff+ Initiatives Epic Board](https://gitlab.com/groups/gitlab-com/-/epic_boards/29521?label_name%5B%5D=Staff%2B%20Initiative) for intra-department staff+ initiatives
+* [**gitlab-org** Staff+ Initiatives Epic Board](https://gitlab.com/groups/gitlab-org/-/epic_boards/29522?label_name%5B%5D=Staff%2B%20Initiative) for product-focused staff+ initiatives
 
 ### Project Expectations:
 
