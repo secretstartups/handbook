@@ -49,6 +49,18 @@ This method involves running a single ZSH script which will complete all of the 
 1. Copy `/bin/zsh -c "$(curl -fsSL https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/scripts/setup-macos-dev-environment.sh)"` and paste into your terminal.
 1. Press enter to run the command
 
+#### Switch from HTTPS to SSH
+
+This script clones the `www-gitlab-com` repo to your local machine using HTTPS. If you have [added an SSH key to your GitLab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account), you should switch your local repo from HTTPS to SSH.
+
+To switch your local repo from HTTPS to SSH, run the following in your local `www-gitlab-com` repo: 
+
+```bash
+git remote set-url origin git@gitlab.com:gitlab-com/www-gitlab-com.git
+```
+
+See the [GitLab SSH docs](https://docs.gitlab.com/ee/user/ssh.html) for more information.
+
 ### Troubleshooting
 * The script failed mid-execution, what do I do now?
   * You can try and run it again, it's built to be run repeatedly if it is necessary.
