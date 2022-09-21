@@ -111,5 +111,13 @@ The CSE should then prepare a follow-up email to be sent to the customer through
 
 This ensures that a CSAT survey is deployed to the recipients of the email.
 
+## Scale Office Hours
+
+As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also hosts an hour long Office Hours segment to provide a forum for Scale customers to get their best practice questions answered as they don’t have the opportunity for proactive outreach to a TAM as TAM-owned accounts do.
+
+In addition to the webinar live Q&A, office hours provides increased engagement with the ultimate goal of further enabling customers without having an ongoing relationship with a CSE.
+
+Office hour sessions are added to the [webinar calendar page](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) and are also included in the monthly webinar invite email. Customers will have the opportunity to join a Zoom meeting or a public Slack channel and, if their question is not answered within the alloted time they will be offered a separate follow-up meeting with a CSE.
+
 
 
