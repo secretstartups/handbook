@@ -17,13 +17,13 @@ Sales Kickoff is too big to have a single DRI for everything. The Field Enableme
 - CRO leader interlocks & communication
 - SKO Ambassador program
 
-Additional SKO responsibilities will be split into 3 sub-teams with category DRIs responsible for specific aspects of SKO as outlined below. The SKO core team will include the following sub-teams, all of which have supporting team members underneath them:
+See the [SKO 2023 parent epic](https://gitlab.com/groups/gitlab-com/sales-team/sales-kick-off/-/epics/10). Additional SKO responsibilities will be split into 3 sub-teams with category DRIs responsible for specific aspects of SKO as outlined below. The SKO core team will include the following sub-teams, all of which have supporting team members underneath them:
 1. **Event Support & Logistics DRI**
-    - See the [SKO 2022 Event Support & Logistics epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/3) for additional details
+    - See the [SKO 2023 Event Support & Logistics epic](https://gitlab.com/groups/gitlab-com/sales-team/sales-kick-off/-/epics/11) for additional details
 1. **Content DRI**
-    - See the [SKO 2022 Content epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/4) for additional details
+    - See the [SKO 2023 Content epic](https://gitlab.com/groups/gitlab-com/sales-team/sales-kick-off/-/epics/13) for additional details
 1. **Communications DRI**
-    - See the [SKO 2022 Communications epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/5) for additional details
+    - See the [SKO 2023 Communications epic](https://gitlab.com/groups/gitlab-com/sales-team/sales-kick-off/-/epics/12) for additional details
 
 The SKO core team also includes an executive sponsor (VP, Field Ops) with responsibilities that include:
 - Champion and socialize CRO Leaders' POV in SKO planning conversations
@@ -51,15 +51,15 @@ The SKO core team also includes an executive sponsor (VP, Field Ops) with respon
 | Production Video | - Video for mainstage sessions <br>- Video content production for SKO and Partner Summit, Event recording, and Other | - Events<br>- Digital Production<br>- Field Enablement<br>- Channel |
 
 ## Managing SKO Work
-Scheduling and logistics are managed in a [Sales Kickoff (SKO) 2022 Agenda & Logistics](https://docs.google.com/spreadsheets/d/1jhcTMj5ypA5KWEqXvHhp5ujnzV70jkMpIjO9h_Y9jOU/edit?usp=sharing) Google sheet, while actual work is managed in GitLab. 
+Scheduling and logistics are managed in a [Sales Kickoff (SKO) 2023 Agenda & Logistics](https://docs.google.com/spreadsheets/d/1aHNxXv432TdXoMt_BDt39hMH5PDE8si0OErl1fVmrxw/edit#gid=1074572255) Google sheet, while actual work is managed in GitLab. 
 
-SKO work within GitLab is managed in epics and issues (see [SKO 2022 meta epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/2)). Sub-team DRIs are empowered to manage their child epics and issues as they see fit.
+SKO work within GitLab is managed in epics and issues (see [SKO 2023 meta epic](https://gitlab.com/groups/gitlab-com/sales-team/sales-kick-off/-/epics/10)). Sub-team DRIs are empowered to manage their child epics and issues as they see fit.
 
-The [Sales Kickoff (SKO) 2022 Agenda & Logistics](https://docs.google.com/spreadsheets/d/1jhcTMj5ypA5KWEqXvHhp5ujnzV70jkMpIjO9h_Y9jOU/edit?usp=sharing) Google sheet contains:
+The Sales Kickoff (SKO) 2023 Agenda & Logistics Google sheet contains:
 
 1. SKO Mainstage Agenda
 1. SKO Breakout Schedule
-1. Partner Summit schedule
+1. Partner SKO schedule
 1. Ancillary Events schedule
 1. SKO Planning Timeline
 1. Due Dates
@@ -69,25 +69,27 @@ The sub-team DRIs are responsible for maintaining the efficacy of this document 
 
 ## SKO Planning Meetings & Cadence 
 
-The SKO planning team has two 50-minute planning meetings that map to the sub-teams below:
-- SKO Event Support & Logistics
-    - Q2: Monthly
-    - Q3: 2x/month
-    - Q4: Weekly
-- SKO Content
-    - Q3: Kickoff then 2x/month
-    - Q4: Weekly
+The SKO planning team has one 50-minute planning meeting that includes ALL DRIs and sub-DRIs + team members leading planning and content for keynote sessions.
+
+- SKO Core Team Weekly Meeting
+   - Q2: Monthly 
+   - Q3: Weekly
+   - Q4: 2x weekly (consider making one occurrence 25 min)
 
 In addition, the SKO planning team delivers CRO Leader Status Updates in the following cadence: 
 
-- Q2 (2021.08.17): SKO 2022 planning overview, high-level objectives, theme, and draft agenda discussion
-- Q3 (Sep): SKO detailed goals & objectives discussion 
-- Q3 (Oct): Progress review
-- Q4 (Nov-Jan): Bi-weekly status reviews
+- Q3 (September 2022): SKO 2022 planning overview, high-level objectives, theme, and draft agenda discussion
+- Q3 (October 2022): SKO theme confirmation and messaging hierarchy kickoff (detailed goals & objectives)
+- Q4 (Nov-Jan): Bi-weekly progress reviews
 
 ## SKO "Call for Content"
 
-In order to drive relentless prioritization based on GitLab Sales Kickoff (SKO) theme/sub-themes/goals, gather content in a timely manner and secure executive consensus early, the SKO Core Team implements a "Call for Content" for SKO breakout sessions. A secondary benefit of this process is that it gives [Field Enablement](/handbook/sales/field-operations/field-enablement/) a strong backlog of well-rounded training and enablement topics for topic submissions not selected or prioritized for SKO (e.g. webcast topics, etc.) in future months/quarters to support continuous education initiatives for the field organization.
+In order to drive relentless prioritization based on GitLab Sales Kickoff (SKO) theme/sub-themes/goals, gather content in a timely manner and secure executive consensus early, the SKO Core Team implements a "Call for Content" for SKO breakout sessions. A secondary benefit of this process is that it gives [Field Enablement](/handbook/sales/field-operations/field-enablement/) a strong backlog of well-rounded training and enablement topics for topic submissions not selected or prioritized for SKO (e.g. webcast topics, etc.) in future months/quarters to support continuous education initiatives for the field organization. There are two types of breakout sessions: 
+
+1. **Role-Based Breakout Sessions:** Teaching skills and behaviors aligned to specific role(s) within the organization. 
+   1. Submit a role-based breakout session idea [using this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-role-based-submission)
+1. **"Choose Your Own Adventure" Breakout Sessions:** Allow attendees to step out of the role-based breakout experience and select from a list of breakout topics for the final breakout. These topics can be a deep-dive into a keynote topic (ex. diving into a feature that Product discussed in their keynote) or a broader topic or soft-skill (ex. DIB in Sales, Project Management, etc.).
+   1. Request a topic or focus for a "Choose Your Own Adventure" breakout [using this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-choose-adventure-submission)
 
 Note that we will also use the Call for Content submission form for Mainstage sessions to tease out the learning objectives and outlines, but we will not implement a formal selection process as there is already a prescriptive "formula" for which speakers/teams give keynotes.
 
@@ -102,7 +104,8 @@ Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) 
 1. Field Enablement Program Managers to meet with segment VPs and determine on what types of content (topic, format, etc.) to solicit in their Call for Content.
 1. Field Enablement Program Managers open their segment's "Call for Content" and socialize it in relevant meetings/Slack channels.
 1. Call for Content stays open for 3 weeks. 
-1. Call for Content submissions are made via the [SKO Call for Content Submission issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-submission)
+1. Call for Content submissions for role-based breakout sessions are made via the [SKO Call for Content Submission issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-role-based-submission)
+1. Call for Content submissions for "Choose Your Own Adventure" breakout sessions are made via the [SKO Call for Content Submission issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-choose-adventure-submission)
 1. Submissions are managed on [this issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/boards/3428335?scope=all&label_name[]=sko%20content%20submission) with the following labels for organization: 
    1. Static labels: ~field enablement ~field events ~FE priority::1 ~sko ~sko content submission
    1. Scoped labels: ~sko content::triage, ~sko content::accepted, ~sko content::deferred, ~FE status::triage
@@ -117,7 +120,7 @@ Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) 
 Below is are the criteria used to select submissions for SKO breakout sessions.
 
 **Criteria** 
-1. Content directly supports the SKO theme and sub-themes
+1. Content directly supports the [SKO objectives](/handbook/sales/training/SKO/#sales-kickoff-sko-overview)
 1. Proposed session is interactive and takes advantage of in-person modality
 1. High content quality
 1. Fresh content (not a rehash of old ideas or topics)
