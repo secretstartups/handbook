@@ -138,6 +138,7 @@ If you are interested in participating in an active working group, it is general
 * [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
 * [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
 * [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
+* [Engineering Internship](/company/team/structure/working-groups/engineering-internship/)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
 * [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
