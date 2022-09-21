@@ -243,7 +243,7 @@ If an exception request is made to end a probation period early, this should be 
 1. If a manager is requesting an extension of a team members probation period who is employed via a PEO, the manager will work with Team Member Relations and they will need to send an email to the appropriate point of contact to request an extention of a probation period.
 1. The People Connect Specialist will add in the extension of the probation period into Workday. 
 
-Current Locations With Probationary Periods:
+### Current Locations With Probationary Periods
 
 <% entities_with_prob = data.entity_mapper.select {|entity| entity.fetch('probation_months', 0) > 0}.sort_by {|k, v| k['country']}%>
 
