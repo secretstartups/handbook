@@ -429,7 +429,7 @@ To reimburse GitLab, please fill out the [Travel Grant Reimbursements template](
 
 If more than 10 people are traveling to a central location and booking a hotel, or if you are booking catering for the event, we require these purchases to have a purchase order to ensure the best rates. All purchases must be made following the [procurement process](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab).
 
-You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event.
+You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event. For large purchases related to the event (ie. group meals, activities), it is preferred that the DRI be responsible for paying upfront and splitting the expense in Expensify by team member in the ‘Attendees’ section.
 
 Expensify can be used to reimburse other expenses within budget. In Expensify, the team member should code any related expense to the Category  "Company Functions" and to the Classification "FY23-Q3 Visiting Grant". 
 
