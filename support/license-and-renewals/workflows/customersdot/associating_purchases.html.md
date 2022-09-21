@@ -24,18 +24,31 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
 
 **Ensure that the requestor has exhausted all self-service options:**
 
-1. If the requestor is the existing Owner, suggest that they [change the account details](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details),
-and issue a [password reset](https://customers.gitlab.com/customers/password/new) to the new Owner's email.
-1. If they have access to the existing Owner's email address, suggest that the requestor issue a [password reset](https://customers.gitlab.com/customers/password/new)
-to the existing Owner's email, and [claim the account](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details).
-1. For **SaaS customers** who use a self-service option, mention that we highly recommend the new Owner to log in
-and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
-to ensure their subscription is kept in sync with the linked GitLab group.
-
+1. If the requestor is the existing Customers Portal account owner, inform them that
+   to transfer account ownership they need only:
+   1. [change the personal details](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information)
+      to be the new account owner's personal details
+   2. issue a
+      [password reset](https://customers.gitlab.com/customers/password/new)
+      to the new owner's email
+   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
+      to ensure their subscription is kept in sync with the linked GitLab group
+1. Otherwise, if they have access to the existing Customer Portal account owner's
+   email address, guide them to:
+   1. issue a [password reset](https://customers.gitlab.com/customers/password/new)
+      to the existing owner's email
+   2. [claim the account](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information)
+      by changing over the personal details
+   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
+      to ensure their subscription is kept in sync with the linked GitLab group
 
 ### Ownership verification
 
-Before we add a subscription management contact, we need **one** of the following, once the above requirements have been met:
+Only after ruling out the self-service options above will we consider making
+the requested ownership change.
+
+First, we need **one** of the following in order to verify eligibility for the
+ownership change:
 
 1. Approval from the existing contact
 1. Prior subscription contract
