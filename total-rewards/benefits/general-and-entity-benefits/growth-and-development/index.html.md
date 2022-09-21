@@ -67,7 +67,10 @@ The Growth and Development policy is meant to further team members' learning and
   - Customer Success: David Sakamoto (VP of Customer Success)
   - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
   - Field Operations: David Hong (VP of Field Operations)
-  - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
+  - Worldwide Channels: David Helfer (interim VP of Worldwide Channels) 
+
+* **Sales Development organization executive signature should be routed by the following:**
+ - Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
 
 **Step 4:** Claim for reimbursement: 
 * If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
