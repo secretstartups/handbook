@@ -215,3 +215,18 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 ## Career Ladder
 
 The next step in the Corporate Development job family is to move to a VP role in Corporate Development which is not yet defined at GitLab. 
+
+## Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
+
+* Selected candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+* Candidates will then be invited to schedule an interview with the Hiring Manager (Sr. Director of Corporate Development).
+* Candidates will then be invited to schedule an interview with the Director of Product (Section leader).
+* Next, candidates will be invited to schedule an interview with the Senior Director of Legal, Corporate. 
+* Next, candidates may be invited to schedule an interview with the Chief Legal Officer (as applicable). 
+* Successful candidates will subsequently be made an offer via email.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+
