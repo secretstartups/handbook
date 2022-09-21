@@ -50,7 +50,9 @@ A few guidelines when selecting tasks for your study:
 - Consider setting a 'cut off' time limit for each task to ensure you get through all of them.
 - Be careful. when describing tasks to the participant. Use language that is accurate but doesn't align exactly with UI text, so that you don't unintentionally lead participants to the right answer.
 - Go through each yourself, and record the 'happy' or expected path. Get confirmation from your stakeholders if you are uncertain.
+- Recruit 1 or 2 pilot participants to test out the task instructions, so you can make modifications if users are too unclear on what they need to do.
 - Enumerate the completion criteria for each task. This will serve as a checklist of sorts to ensure you are consistent when recording completion. 
+- Identify all of the ways users can complete a task. In some cases, GitLab offers different routes to the same outcome (for example, users can approve a deployment on two unique pages in the UI, so either option would count as a successful task).
 - Consider applying a weight or points to each task to help calculate priority or severity. 
 
 Here is an example of a singular task as written in the task list:
@@ -170,7 +172,7 @@ Preparing and conducting a benchmarking study takes time. Below is a sample time
 | Plan: Test environment | Set up your test environment with any projects and [sample data](/handbook/product/ux/ux-research-training/ux-cloud-sandbox) you will use for testing | 2 weeks |
 | Recruitment | Open a research recruitment issue at least a month prior to when you wish to run your sessions. A typical benchmarking study uses about 20 participants. | Opening ticket: 1 day. Recruitment itself: 1 month |
 | Run Pilot(s) | The week before your sessions, run 1 or 2 pilot sessions to perfect your protocol and tasks. | 1-2 days |
-| Run Sessions | Benchmarking sessions typically last from 90 minutes to two hours. Meaning that for 20 participants, conducting two sessions per day, you are looking at a solid two weeks of conducting sessions.  | 2 weeks |
+| Run Sessions | Benchmarking sessions typically last from 90 minutes to two hours. Meaning that for 20 participants, conducting two sessions per day, you are looking at a solid two to four weeks of conducting sessions. Note that you will need to invite more participants than necessary to fill 20 sessions, since not everyone who qualifies will accept the research invite. In order to maximize participant attendance and avoid late cancelations, send reminder emails within 24 hours of each session. | 2-4 weeks |
 | Analyze the results. | Calculate metrics, extract recommendations, pull verbatim, put things into Dovetail, and so on.  | 2 weeks |
 | Prepare the report and share it. | Produce research report, slides, recordings, and so on to disseminate your findings. | 2 weeks |
 
@@ -196,6 +198,10 @@ A: To borrow an analogy, you might think of CMS/UX scorecards as looking at usab
 Benchmarking is more time intensive. It is not meant to be lightweight. You will speak with more participants (~20) for a longer period of time (~120 minutes, and you will run through more tasks (~25) that might cover more than one JTBD.
 Benchmarking reports many of the same metrics (and more!), and those metrics are more likely to be representative due to greater N. At GitLab, we report metrics using industry-standard statistics (confidence intervals at 95%, adjusted Wald calculation for completion rate, and so on). In this sense, you can use benchmarking in concert with CMS or UX scorecards to validate and update those findings.
 Benchmarking is also meant to be a program, rather than a one-off study. Benchmarking generates very granular recommendations for usability improvements, and once enough of those recommendations have been implemented, you can run the benchmarking again and start to see trends over time.
+
+**Q: Does conducting a usablity benchmarking study mean that I do not need to run a UX Scorecard or CM Scorecard study?**
+
+A: No, you should still conduct UX Scorecard and CM Scorecard studies in addition to usability benchmarking studies. All three types of studies are valuable for understanding the users' experience with the product. 
 
 **Q: How should I view this score vs the UX Scorecard score vs the CM Scorecard score?**
 
