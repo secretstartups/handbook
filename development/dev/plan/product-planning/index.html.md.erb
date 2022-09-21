@@ -73,17 +73,17 @@ See the [Plan stage page] and the [Plan:Project Management backend team page].
 
 #### Consider a Spike and/or a Design Document
 
-Work that arrives in ~"workflow::ready for development" that is out of scope 
-or ill-defined should be 
+Work that arrives in ~"workflow::ready for development" that is out of scope
+or ill-defined should be
 [returned to ~"workflow::planning breakdown" for further refinement][1].
-To avoid the disruption this introduces we try to reduce the number of times 
-it happens by planning more carefully. While it's not always possible, we aim 
-to identify complexity before the build phase, such as by assigning an engineering 
+To avoid the disruption this introduces we try to reduce the number of times
+it happens by planning more carefully. While it's not always possible, we aim
+to identify complexity before the build phase, such as by assigning an engineering
 [DRI][dri] during the design and validation phase.
 
-However, sometimes complexity can't be accurately estimated until development 
+However, sometimes complexity can't be accurately estimated until development
 work starts. If you anticipate this during planning, consider creating a spike to produce a
-design document. Notify the participants in the issue, especially the PM, that 
+design document. Notify the participants in the issue, especially the PM, that
 a spike is required, create a separate issue and follow these
 steps:
 
@@ -93,13 +93,13 @@ steps:
 1. List decisions, architectural or otherwise, that need to be made;
 1. Identify specializations required to complete the spike (e.g. Backend, Frontend and UX) assign a DRI from each;
 1. Mark the issue as blocking the original, and
-1. Label with ~"workflow::ready for development" and assign to the current 
+1. Label with ~"workflow::ready for development" and assign to the current
 milestone.
 
 The deliverable is a design document that answers the questions set out in the
 issue description. This can simply be the issue itself, containing a summary
 of the discussion in the description, answers to the questions and links to
-any PoC MRs produced. 
+any PoC MRs produced.
 
 [1]: https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test
 [dri]: https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/
@@ -116,11 +116,11 @@ As a team we often work on features that require close collaboration. We've iden
   1. Participants in the spike take part in delivery of the feature.
   1. Prior to closing the description is updated with Acceptance Criteria, with sign-off by each assignee + PM. This is what will be delivered.
   1. For efforts that are part of larger initiatives (like [Work Items](https://docs.gitlab.com/ee/development/work_items.html)), architectural documents are kept up to date with larger decisions; for example, around API design or functionality.
-1. Requirements are well-defined with a goal that is achievable within a single milestone and provides business value. For larger features, work may be spread out over several milestones. 
+1. Requirements are well-defined with a goal that is achievable within a single milestone and provides business value. For larger features, work may be spread out over several milestones.
 1. Items that must be delivered in separate milestones are identified and prioritized first; such as migrations, security issues, and other [multi-version compatibility](https://docs.gitlab.com/ee/development/multi_version_compatibility.html) issues.
 1. The stable counterpart from documentation is included at the start of the spike.
 1. Reviews are kept inside the team where possible to ensure domain expertise, capacity and a low level of context switching.
-1. EM and PM work to remove or limit unneccessary/distracting work. 
+1. EM and PM work to remove or limit unneccessary/distracting work.
 1. Feature is set as primary deliverable.
 1. Due dates defined well in advance.
 1. DRIs assigned to every upcoming and in-progress piece of work.
@@ -131,7 +131,7 @@ As a team we often work on features that require close collaboration. We've iden
 
 #### Workflow Labels
 
-Most issues, especially features, involve working with other disciplines. A 
+Most issues, especially features, involve working with other disciplines. A
 single issue will often be shared between frontend and backend and it
 can be difficult to know which workflow label should be applied, especially
 when progress is at different stages.
@@ -148,8 +148,8 @@ get involved before proceeding with development.
 
 #### Using the ~"backend complete" label
 
-The ~"backend complete" label is added to issues with multiple specializations (usually backend and 
-frontend) to indicate that the backend component is complete. Backend engineers should add this label when the backend work is 
+The ~"backend complete" label is added to issues with multiple specializations (usually backend and
+frontend) to indicate that the backend component is complete. Backend engineers should add this label when the backend work is
 functionally complete, merged and verified but frontend, or other, work is ongoing.
 
 #### Health Status
@@ -160,17 +160,17 @@ Using health status allows stakeholders, such as product and engineering manager
 
 #### Documentation
 
-Documentation should accompany code for any [new or changed functionality] as per our 
-[definition of done]. This can become tricky when collaborating on a feature that is 
+Documentation should accompany code for any [new or changed functionality] as per our
+[definition of done]. This can become tricky when collaborating on a feature that is
 behind a feature flag.
 
 Since all feature flags start as disabled by default, we should aim to document the
 feature as soon as it's safe for testing by users using the [feature flag template].
 Don't wait until a feature is performant and stable to document it, instead do so once
-it's secure and won't leave data in a corrupt, interim state. 
+it's secure and won't leave data in a corrupt, interim state.
 
-Try to include docs with the first MR to introduce usable functionality. If this is 
-an API addition with no UI, document that and allow the FE engineers to update it as 
+Try to include docs with the first MR to introduce usable functionality. If this is
+an API addition with no UI, document that and allow the FE engineers to update it as
 work proceeds. As the feature flag rollout proceeds, the [documentation should be updated].
 
 This avoids the rush to provide documentation that often accompanies the release cutoff.
@@ -205,12 +205,12 @@ it, but please post in [#s_plan] if that's the case, as this probably
 means the issue should be better specified.
 
 [workflow columns]: /handbook/product-development-flow/
-[Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?not[milestone_title]=Backlog
+[Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1235846?label_name[]=group%3A%3Acertify&milestone_title=Started
 [#s_plan]: https://gitlab.slack.com/archives/s_plan
 
 ### Direction Items
 
-Items that are customer-facing deliverables and high impact are labeled with ~"direction". We strive to have these items in production by two days before the release cut-off to give ample time for validation. 
+Items that are customer-facing deliverables and high impact are labeled with ~"direction". We strive to have these items in production by two days before the release cut-off to give ample time for validation.
 
 #### High Severity Issues
 
@@ -253,4 +253,3 @@ When you pick something to work on, please:
 ## Useful links
 
 <%= partial("handbook/engineering/development/dev/plan/useful_links", locals: { board: { name: 'Plan:Product Planning', url: 'https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management' }}) %>
-

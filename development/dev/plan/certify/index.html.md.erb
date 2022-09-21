@@ -34,15 +34,15 @@ Check out our [jobs page](/jobs/) for current openings.
 
 ### Team metrics dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_dashboard") %>
+<%= partial("handbook/engineering/development/dev/plan/certify/metrics_dashboard") %>
 
 ### Application performance dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_application_dashboard") %>
+<%= partial("handbook/engineering/development/dev/plan/certify/application_dashboard") %>
 
 ## OKRs
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_backend_okrs") %>
+<%= partial("handbook/engineering/development/dev/plan/certify/engineering_okrs") %>
 
 ## Scalability Targets
 
@@ -83,17 +83,17 @@ Using health status allows stakeholders, such as product and engineering manager
 
 #### Documentation
 
-Documentation should accompany code for any [new or changed functionality] as per our 
-[definition of done]. This can become tricky when collaborating on a feature that is 
+Documentation should accompany code for any [new or changed functionality] as per our
+[definition of done]. This can become tricky when collaborating on a feature that is
 behind a feature flag.
 
 Since all feature flags start as disabled by default, we should aim to document the
 feature as soon as it's safe for testing by users using the [feature flag template].
 Don't wait until a feature is performant and stable to document it, instead do so once
-it's secure and won't leave data in a corrupt, interim state. 
+it's secure and won't leave data in a corrupt, interim state.
 
-Try to include docs with the first MR to introduce usable functionality. If this is 
-an API addition with no UI, document that and allow the FE engineers to update it as 
+Try to include docs with the first MR to introduce usable functionality. If this is
+an API addition with no UI, document that and allow the FE engineers to update it as
 work proceeds. As the feature flag rollout proceeds, the [documentation should be updated].
 
 This avoids the rush to provide documentation that often accompanies the release cutoff.
@@ -129,7 +129,7 @@ means the issue should be better specified.
 
 ### Direction Items
 
-Items that are customer-facing deliverables and high impact are labeled with ~"direction". We strive to have these items in production by two days before the release cut-off to give ample time for validation. 
+Items that are customer-facing deliverables and high impact are labeled with ~"direction". We strive to have these items in production by two days before the release cut-off to give ample time for validation.
 
 #### High Severity Issues
 
@@ -172,4 +172,3 @@ When you pick something to work on, please:
 ## Useful links
 
 <%= partial("handbook/engineering/development/dev/plan/useful_links", locals: { board: { name: 'Plan:Product Planning', url: 'https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management' }}) %>
-
