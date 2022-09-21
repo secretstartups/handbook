@@ -10,17 +10,26 @@ job: "Engineering Director"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Wayne Haber README
+# Priorities
 
-I’m the director of engineering for the [growth stage](/handbook/engineering/development/growth/), [sec stage](/handbook/engineering/development/sec/secure/), [govern stage](/handbook/engineering/development/sec/govern/) ,and the [data science stage](/handbook/engineering/development/data-science/).  I am also an SME for security at the company.
+I’m the director of engineering for the [growth](/handbook/engineering/development/growth/), [secure](/handbook/engineering/development/sec/secure/), [govern](/handbook/engineering/development/sec/govern/), and [data science](/handbook/engineering/development/data-science/) development sub-departments. 
+
+In addition to leading development for these development sub-departments, I also focus on:
+
+* Protecting GitLab from attackers
+* Coordinating escalations for specific large customers
+* Public speaking on various topics
+* Mentoring inside and outside of GitLab
+
+# Background
+
+I’m a veteran of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/wayne)
 * [LinkedIn](https://www.linkedin.com/in/waynehaber/)
 * [Twitter](https://twitter.com/waynehaber)
 * [WayneHaber.com](https://www.waynehaber.com)
-
-I’m a veteran of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
 
 # How to collaborate with Wayne
 
@@ -68,16 +77,7 @@ I use these dashboards to inform me on metrics for my teams:
 * [Cross functional prioritization](https://app.periscopedata.com/app/gitlab/1042933/Cross-Functional-Prioritization)
 * [Merge request trends](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)
 
-# Goals and priorities
-
-In addition to leading development for various sections (growth, secure, govern, and data science), I also focus on:
-* Protecting GitLab from attackers
-* Coordinate escalations with specific large customers
-* Public speaking on various topics
-* Mentoring inside and outside of GitLab
-
-
-# OKRs (Objectives and Key Results)
+# My OKRs (Objectives and Key Results)
 
 My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=155987)
 
