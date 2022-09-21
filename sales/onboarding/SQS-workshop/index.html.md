@@ -49,4 +49,25 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 |September 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
 |September 23, 2022 | 10:30a ET | 11:20a ET | Intro to the Competition | Competitive Intelligence |
 
+### SQS 29 - October 2022
+
+* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
+
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+| Oct 11, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
+| Oct 12, 2022 | 10:00a ET | 11:20a ET | Value Card Exercise | Field Enablement |
+| Oct 12, 2022 | 11:30a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
+| Oct 13, 2022 | 09:30a ET | 10:50a ET | Differentiator Exercise | Field Enablement  |
+| Oct 14, 2022 | 10:00a ET | 11:20a ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+| Oct 17, 2022 | 09:30a ET | 09:50a ET | Field Security | Field Security Team   |
+| Oct 17, 2022 | 10:00a ET | 10:50a ET | Intro to Competition | Competitive Intelligence  |
+| Oct 17, 2022 | 11:00a ET | 11:50a ET | Alliances | Alliances Team  |
+| Oct 18, 2022 | 10:00a ET | 10:50a ET  | Discussion: Professional Services | Professional Services Team  |
+| Oct 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+| Oct 19, 2022 | 10:00a ET | 10:50a ET  | Legal / Deal Desk | Legal & Deal Desk Team  |
+| Oct 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+| Oct 20, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team  |
+| Oct 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+
 
