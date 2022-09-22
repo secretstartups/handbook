@@ -56,7 +56,7 @@ Recommended sites:
 
 The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
 
-To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `FY22_EmployeeGiftsFlowers` in the `classification` section of the expense.  
+To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `EmployeeGiftsFlowers` in the `classification` section of the expense.  
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
