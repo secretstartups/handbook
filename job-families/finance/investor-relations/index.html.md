@@ -14,26 +14,26 @@ The Investor Relations Analyst is a [grade 6](/handbook/total-rewards/compensati
 
 #### Responsibilities
 
-1.Develop a deep understanding of GitLab’s initiatives, the broader DevOps ecosystem, and the competitive environment to shape the investment thesis.
-1. Assist in the quarterly earnings process including overall messaging development, datapoint collection and synthesis, scripts, Q&A prep, and conference call prep.
-1. Analyze competitors' business models through their financial announcements, SEC filings and analyst days; report with quantitative and qualitative analysis to execs with information and perspective that might impact the company.
-1. Maintain competitive peer analysis, including the development of industry and peer company performance benchmarks.
-1. Prepare execs to meet investors with appropriate materials and context.
-1. Plan and assist with investor meeting logistics and other corporate access events.
-1. Develop strategies and implement programs to keep the financial community current on company performance and industry trends.
-1. Manage sell-side analyst models and monitor consensus vs. our forecast.
-1. Track investor base and aid in targeting efforts to appropriate investors, to expand and maintain key ownership positions.
+* Develop a deep understanding of GitLab’s initiatives, the broader DevOps ecosystem, and the competitive environment to shape the investment thesis.
+* Assist in the quarterly earnings process including overall messaging development, datapoint collection and synthesis, scripts, Q&A prep, and conference call prep.
+* Analyze competitors' business models through their financial announcements, SEC filings and analyst days; report with quantitative and qualitative analysis to execs with information and perspective that might impact the company.
+* Maintain competitive peer analysis, including the development of industry and peer company performance benchmarks.
+* Maintain competitive peer analysis, including the development of industry and peer company performance benchmarks.
+* Prepare execs to meet investors with appropriate materials and context.
+* Plan and assist with investor meeting logistics and other corporate access events.
+* Develop strategies and implement programs to keep the financial community current on company performance and industry trends.
+* Manage sell-side analyst models and monitor consensus vs. our forecast.* Track investor base and aid in targeting efforts to appropriate investors, to expand and maintain key ownership positions.
 
 
 #### Requirements
 
-1.Bachelor’s degree in business or related field; advanced degree is preferred.
-1. 2+ years’ experience in investment banking, private equity, equity research, corporate development or similar field.
-1. Highly organized, analytical and ability to multitask.
-1. Strong analytical skills, fluency in performing rigorous financial, valuation and broad quantitative analyses.
-1. Proficient in presentation and spreadsheet tools.
-1. Ability to source databases and the public internet for competitive intelligence.
-1. Communication skills to interact with cross-functional partners 
+* Bachelor’s degree in business or related field; advanced degree is preferred.
+* 2+ years’ experience in investment banking, private equity, equity research, corporate development or similar field.
+* Highly organized, analytical and ability to multitask.
+* Strong analytical skills, fluency in performing rigorous financial, valuation and broad quantitative analyses.
+* Proficient in presentation and spreadsheet tools.
+* Ability to source databases and the public internet for competitive intelligence.
+* Communication skills to interact with cross-functional partners 
 
 
 
