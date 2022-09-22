@@ -24,7 +24,7 @@ Assign to Jeff Beaumont.
 
 ## Gainsight overview
 
-[Gainsight](https://www.gainsight.com/) is a customer success software that our Technical Account Managers (TAMs) and Enterprise Sales team use in order to support our customers and manage their workflows. This page shows the data structure, integrations, and other technical information about how GitLab uses Gainsight. Gainsight is owned by CS Operations, and Sales Operations and Sales Systems play very active and important roles in its continual expansion and improvement.
+[Gainsight](https://www.gainsight.com/) is a customer success software that our Customer Success Managers (CSMs) and Enterprise Sales team use in order to support our customers and manage their workflows. This page shows the data structure, integrations, and other technical information about how GitLab uses Gainsight. Gainsight is owned by CS Operations, and Sales Operations and Sales Systems play very active and important roles in its continual expansion and improvement.
 
 ## Gainsight support
 
@@ -109,7 +109,7 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 <details>
 <summary markdown='span'>Gainsight bundles and access categories</summary>
 
-| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL Users | View_Group | TAM Journey Orchestrator | TAM Users | GS Admin sans provisioning |
+| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL Users | View_Group | CSM Journey Orchestrator | CSM Users | GS Admin sans provisioning |
 |---------------------------------------|-----------------------------------------------------------------------------|-----------------------------|-----------|------------|--------------------------|-----------|----------------------------|
 | Home                                  | Dashboard view access                                                       | ✓                           | ✓         |            | ✓                        | ✓         | ✓                          |
 | Timeline                              | End user account Timeline history view                                      | ✓                           | ✓         | ✓          |                          | ✓         | ✓                          |
@@ -128,9 +128,9 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 
 ### Page Layouts
 C360 page layouts allow us to hide or display different C360 views to users in Gainsight. We currently have three main page layouts:
-- Default Layout: The default layout for TAMs and non-SALs. The TAM field is displayed but not editable.
-- TAM Edit Layout: An exact copy of the default layout except the TAM field is editable.
-   - This is assigned to users where the `TAM Edit?` field on the User object = Yes
+- Default Layout: The default layout for CSMs and non-SALs. The CSM field is displayed but not editable.
+- CSM Edit Layout: An exact copy of the default layout except the CSM field is editable.
+   - This is assigned to users where the `CSM Edit?` field on the User object = Yes
 - Account planning: Layout specifically for Sales/SALs for account planning.
    - This is assigned to users where the `Page Layout` field on the User object = Account Planning
 
@@ -176,7 +176,7 @@ These are some notable standard/system objects in Gainsight:
 
 | Object Name | Data Source | Description |
 | --- | --- | --- |
-| Company | Salesforce Account, manual inputs, calculations from inside Gainsight | Information about specific accounts. Mapping to Account object in Salesforce. Most used object. Where TAMs conduct their work. |
+| Company | Salesforce Account, manual inputs, calculations from inside Gainsight | Information about specific accounts. Mapping to Account object in Salesforce. Most used object. Where CSMs conduct their work. |
 | User | Salesforce User object | Gainsight users, populated by the User object in Salesforce |
 | Person/Company Person | Salesforce Contact object, manual inputs | Gainsight contacts, maps to Contact object in Salesforce |
 | Scorecard object |  |  |
@@ -195,11 +195,11 @@ These are some notable custom objects that we have created in Gainsight:
 | Customer Subscription | Salesforce Customer Subscription object |  |
 | Gainsight Opportunity | Salesforce Opportunity object |  |
 | Stage Adoption | Account Object (SFDC) |  |
-| TAM History Tracking | Real time rule in Gainsight |  |
+| CSM History Tracking | Real time rule in Gainsight |  |
 | Zendesk Tickets V2 | Zendesk Organization and Ticket objects |  |
 | MonthlyMart SelfManaged Usage Data | Snowflake | All basic product usage from [Snowflake unioned dbt table](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_product_usage_paid_user_metrics_monthly).<br> This product has many records per instance. It should have one record per month per instance.<br> See how this was set up in [this video](https://gainsight.hubs.vidyard.com/watch/oMU8aPjpxK7azFDr87iFVt?). |
 | Product Usage Metrics | Data Designer: MonthlyMart SelfManaged Usage Data <br> SaaS Usage Data | Calculated metrics (A/B = C) based on the MonthlyMart table. |
-| Instance Data | Data Designer: MonthlyMart SelfManaged Usage Data | Updated rule is set to de-dupe the fetch from MonthlyMart data designer down to a single record for each UUID/Hostname/SFDC_AcctID combination.<br>  SSOT for which instances (self-managed) are Production or not.<br> This object allows TAMs to label the instance as one of the following:<br>  - Unknown (default) <br> - Production <br> - Non-production <br> - Obsolete <br> - Geo secondary mode  <br> This object has only one record per instance. |
+| Instance Data | Data Designer: MonthlyMart SelfManaged Usage Data | Updated rule is set to de-dupe the fetch from MonthlyMart data designer down to a single record for each UUID/Hostname/SFDC_AcctID combination.<br>  SSOT for which instances (self-managed) are Production or not.<br> This object allows CSMs to label the instance as one of the following:<br>  - Unknown (default) <br> - Production <br> - Non-production <br> - Obsolete <br> - Geo secondary mode  <br> This object has only one record per instance. |
 
 <br>
 
@@ -358,7 +358,7 @@ The following fields are pushed from Gainsight to their associated Salesforce fi
 | Company                          | Stage Count                | Account                    | [GS] Stage Count                   |
 | Company                          | Current Score --> Color    | Account                    | [GS] Health Score Hex code         |
 | Company                          | First Value Date           | Account                    | [GS] First Value Date              |
-| Company                          | TAM Prioritization         | Account                    | [GS] TAM Prioritization            |
+| Company                          | CSM Prioritization         | Account                    | [GS] CSM Prioritization            |
 | Company                          | Customer Conversion Source | Account                    | [GS] Customer Type                 |
 | Company                          | Hosting                    | Account                    | [GS] Hosting                       |
 | Company                          | Provider                   | Account                    | [GS] Provider                      |
@@ -368,7 +368,7 @@ The following fields are pushed from Gainsight to their associated Salesforce fi
 | Unified Scorecard Fact - Company | SCM Adoption               | Account                    | [GS] Health: SCM                   |
 | Unified Scorecard Fact - Company | License Utilization        | Account                    | [GS] Health: License Utilization   |
 | Unified Scorecard Fact - Company | Product Usage              | Account                    | [GS] Health: Overall Product Usage |
-| Unified Scorecard Fact - Company | TAM Sentiment              | Account                    | [GS] TAM Sentiment                 |
+| Unified Scorecard Fact - Company | CSM Sentiment              | Account                    | [GS] CSM Sentiment                 |
 | Company Person                   | Email Opt Out              | Contact                    | Email Opt Out                      |
 | Company Person                   | Inactive Contact           | Contact                    | Inactive Contact                   |
 | Company Person                   | GitLab Role                | Contact                    | Role                               |
@@ -388,24 +388,24 @@ The [rules engine](https://support.gainsight.com/Gainsight_NXT/03Rules_Engine) i
 
 We have a team email address cs-ops@gitlab.com that we use for rule failure emails in Gainsight.
 
-### TAM assignment push to SFDC
+### CSM assignment push to SFDC
 
-Gainsight is the single source of truth (SSoT) on this field (`CSM` often labeled as `TAM Name` in GS and `Technical Account Manager` in SFDC).
+Gainsight is the single source of truth (SSoT) on this field (`CSM` often labeled as `CSM Name` in GS and `Technical Account Manager` in SFDC).
 
 - This field is updated in Gainsight and synced one-way to Salesforce. It is locked in Salesforce so users are unable to update there.
-- The update is done with a real-time rule called `Push TAM change to SFDC`. This is triggered any time the field changes, and any change should load to Salesforce within seconds. The rule uses the SFDC User ID found in the `CSM` field in Gainsight to push to the `Technical Account Manager` field in Salesforce.
+- The update is done with a real-time rule called `Push CSM change to SFDC`. This is triggered any time the field changes, and any change should load to Salesforce within seconds. The rule uses the SFDC User ID found in the `CSM` field in Gainsight to push to the `Technical Account Manager` field in Salesforce.
 
-### TAM History Tracking object
+### CSM History Tracking object
 
-You can pull reports on when the TAM changed on an account with this object.
+You can pull reports on when the CSM changed on an account with this object.
 
-The `CSM Change Date Stamp` rule runs every time the `CSM` field changes in Gainsight, for any account. It loads some information to the `TAM History Tracking` object which includes:
+The `CSM Change Date Stamp` rule runs every time the `CSM` field changes in Gainsight, for any account. It loads some information to the `CSM History Tracking` object which includes:
 
 - The old CSM name
 - The new CSM name
 - The timestamp when the `CSM` field was changed
 
-A field on the `Company` object called `TAM First Assigned Date` was created based on the MIN date of the CSM Change Date Stamp per Account.
+A field on the `Company` object called `CSM First Assigned Date` was created based on the MIN date of the CSM Change Date Stamp per Account.
 
 ### Create Gainsight CTAs and success plans
 
@@ -426,14 +426,14 @@ Rules in place:
 - Baseline rule
 - Changes rule
 - Blanks rule
-- TAM sentiment
+- CSM sentiment
 - Engagement
 - ROI
 - Data designers (null)
 
 #### Rules to null scorecard measures
 
-A rule exists to null Health Score Measures (ROI, Engagement, TAM Sentiment) for Non-TAM owned accounts, or when no TAM is assigned on accoun. The rule runs once per week on Monday.
+A rule exists to null Health Score Measures (ROI, Engagement, CSM Sentiment) for Non-CSM owned accounts, or when no CSM is assigned on accoun. The rule runs once per week on Monday.
 
 ### Admin Daily - Stage Adoption
 
@@ -447,13 +447,21 @@ These rules act as field rollups to calculate fields within Gainsight:
 When an account record is deleted or merged in Salesforce, the matching record in Gainsight is not automatically deleted/merged. In order to catch these records and clean them up in Gainsight we have some rules and reports to identify them.
 
 ### Rules
-- `Admin - Mark old Account records to be Deleted/Merged`: this rule brings in a list of all accounts in Salesforce and a list of all accounts in Gainsight. It then compares the lists and retains only the accounts that exist in Gainsight but NOT in Salesforce. The rule also looks to see if the Gainsight record has any important information attached to it such as a TAM name, CTAs, Success Plans, or Timeline activities. If the Gainsight record does have these items, the boolean field `Merge?` is checked. If none of these items exist on the account, the field `Delete?` is checked. The account name will also be appended with either "TO BE MERGED NO LONGER IN SALESFORCE" or "TO BE DELETED NO LONGER IN SFDC."
+- `Admin - Mark old Account records to be Deleted/Merged`: this rule brings in a list of all accounts in Salesforce and a list of all accounts in Gainsight. It then compares the lists and retains only the accounts that exist in Gainsight but NOT in Salesforce. The rule also looks to see if the Gainsight record has any important information attached to it such as a CSM name, CTAs, Success Plans, or Timeline activities. If the Gainsight record does have these items, the boolean field `Merge?` is checked. If none of these items exist on the account, the field `Delete?` is checked. The account name will also be appended with either "TO BE MERGED NO LONGER IN SALESFORCE" or "TO BE DELETED NO LONGER IN SFDC."
   - The rules `Load to Company: Count CTAs`, `Load to Company: Count Success Plans`, and `Load to Company: Last Timeline Activity` all calculate information about the account that is then used in the `Admin - Mark old Account records to be Deleted/Merged` rule to determine if the account needs to be merged or deleted.
 
 ### Reports
 The following reports are located on the CS Ops dashboard in Gainsight. They are also scheduled to be emailed to the CS Ops email address every Monday morning so that a member of the team can be reminded to review them weekly.
 - `Accounts Flagged to Merge`: This report identifies accounts where the `Merged?` field is checked. The accounts that appear on this report need to be reviewed and merged with the correct account. This can be done in the Data Operations section in Gainsight by filtering to accounts where `Merge?` = Yes. More instructions on merging accounts in Gainsight can be found on the [Gainsight documentation website](https://support.gainsight.com/Gainsight_NXT/02Data_Management/02Managing_Data_In_Gainsight/Company_Merge).
 - `Accounts Flagged to Delete`: This report identifies accounts where the `Delete?` field is checked. These accounts need to be deleted completely from Gainsight. This can be done in the Data Operations section in Gainsight by filtering to accounts where `Delete?` = Yes. More instructions on deleting accounts in Gainsight can be found on the [Gainsight documentation website](https://support.gainsight.com/Gainsight_NXT/02Data_Management/03Gainsight_Standard_Objects/01Data_Operations#Delete_Records).
+
+#### GS Admin quick tip on resetting dashboards
+
+Some of our Gainsight users and champions have reported not being able to see new field, field values added to GS Dashboards. One known reason why that can happen is that Gainsight caches dashboards for quicker loading.  This includes both the state of the dashboard and the data in reports. When GS Admins make changes to dashboards, it is likely for users to still see the cached version of the dashboard (previous version). 
+
+In order to reset the cache, GS Admins can take one of the following actions:
+1. Next to “Save Layout” click on the 3 dots and select “Clear State”.  This will clear the cached state and the next time a user loads the dashboard, it will be the most recent version of the dashboard.
+2. A GS admin can add and remove a filter to the dashboard.  The act of adding a filter automatically clears the state. 
 
 ## Gainsight sync timing
 
@@ -498,9 +506,9 @@ See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team
 | Rules Chains | Rules should be put into rules chains when applicable for more efficient management and workflow. | Group CTA rules into a CTA Rule Chain. Group Scorecard Rules into a Scorecard Rule Chain. |
 | Inactive Rules | <ul><li>For inactive rules, if they will need to be referenced in the future for any reason, deactivate the rule and put it in a deprecated folder.</li><li>For rules that will never need to be referenced or used in the future, delete the rule entirely to keep the instance clean and the # of inactive rules low.</li></ul> |  |
 | Reports and Dashboards | <ul><li>Report naming should be up to each admins own discretion to name it accordingly.</li><li>Stay active on deleting reports that were created or cloned for testing purposes.</li><li>Do not keep reports that are no longer needed.</li></ul> |  |
-| Report Folders | The best naming convention for report folders is to name them by either who they are created for, or the general purpose of the reports; | C360 Reports TAM Reports Manager Reports Executive Reports |
+| Report Folders | The best naming convention for report folders is to name them by either who they are created for, or the general purpose of the reports; | C360 Reports CSM Reports Manager Reports Executive Reports |
 | Dashboards | Dashboards should be named to clearly indicate the purpose/meaning of the dashboard or the user profile/team the dashboard is created for. |  |
-| Dashboard Folders | <ul><li>Creating Dashboard folders is often not necessary and can be repetitive. They are useful when your Gainsight instance is very large and there are a lot of different user profiles (TAM, Onboarding, CSM, etc).</li><li>Remove any unused dashboards or dashboard folders; there is rarely a strong reason to keep deprecated dashboards.</li></ul> |  |
+| Dashboard Folders | <ul><li>Creating Dashboard folders is often not necessary and can be repetitive. They are useful when your Gainsight instance is very large and there are a lot of different user profiles (Onboarding, CSM, etc).</li><li>Remove any unused dashboards or dashboard folders; there is rarely a strong reason to keep deprecated dashboards.</li></ul> |  |
 | Data Model Improvements and Upkeep | <ul><li>When managing MDA data tables out of Data Management, always remove unused Data tables to limit technical debt. The only tables that should exist are those that are active or in staging.</li><li>Always add descriptions to every custom MDA table. The description should clearly indicate what data resides in the table.</li></ul> |  |
 | Journey Orchestrator | <ul><li>Remove old/unused templates as well as outdated programs that are no longer in use and analytics will not need to be referenced in the future.</li><li>Create folders for different types of programs.</li></ul> | (Onboarding Programs, Adoption Programs, Retention Programs, Growth Programs) |
 | Templates | For any templates used in Email Assist or Programs start all templates with | Email Assist: `{Insert Template Name}` or Email Program: `{insert Template Name}` Email # - subject Example: Email Onboarding Program: Email 1 - Intro to GitLab |
@@ -520,7 +528,7 @@ We are currently using the following scorecard groups and measures:
 | Group Name | Measure Name | Rules and Methodology |
 | --- | --- | --- |
 | Customer Outcomes | ROI |  |
-| Customer Sentiment | TAM Sentiment |  |
+| Customer Sentiment | CSM Sentiment |  |
 |  | Engagement |  |
 | Support Experience | Support Issues |  |
 | Product Usage | License Usage |  |
