@@ -76,53 +76,53 @@ The Support Operations Team usually make the critical changes over weekends
 and communicate them via Slack channel [`#support_ops-annoucements`](https://gitlab.slack.com/archives/C02EK1QV5K9)
 and SWIR ([/handbook/support/#support-week-in-review](/handbook/support/#support-week-in-review)).
 
-### Support Ops Change Criticalities
+## Support Ops Change Criticalities
 
 Mirroring [infrastructure's change management criticalities](/handbook/engineering/infrastructure/change-management/#change-criticalities) Support Ops
 defines changes on a C1 - C4 scale that helps determine appropriate planning horizons. 
 
 Criticalities can be estimated during a [Requested Change](/handbook/support/managers/change-management.html#creating-a-requested-change-issue-andor-mrs) and will be finalized once an issue is moved to the Support Ops project. The [scheduling intervals](#scheduling-intervals-and-exceptions) indicate the delay between change annoucement and change deployment.
 
-#### Support Operations Criticality 1
+### Support Operations Criticality 1
 
 These are changes with high impact or high risk that may significantly modify Support Engineer or Customer experience. If a change is going to cause downtime to the environment, it is always categorized a C1.
 
-##### Examples of Support Operations Criticality 1
+#### Examples of Support Operations Criticality 1
 
 1. Changing the functionality of a widely used Zendesk View
 1. Altering Zendesk in a way to support a significant process change
 1. Changes to any SLA policy in use
 
-#### Support Operations Criticality 2
+### Support Operations Criticality 2
 
 These are changes that aren't expected to significantly impact Support Engineer or Customer experiences, but which still carry some risk of impact if something unexpected happens. 
 
-##### Examples of Support Operations Criticality 2
+#### Examples of Support Operations Criticality 2
 
 1. Updating the theme on the Support Portal
 1. Changing SLA timers on a subset of tickets
 
-#### Support Operations Criticality 3
+### Support Operations Criticality 3
 
 These are changes with either no or very-low risk of negative impact, but where there is still some inherent complexity, or it is not fully automated and hands-off.
 
-##### Examples of Support Operations Criticality 3
+#### Examples of Support Operations Criticality 3
 
 1. Adding a new form field on a Support form
 1. Bulk removing expired Zendesk organizations
 1. Adding a new Zendesk app that will make things more convenient for Support Engineers
 
 
-#### Support Operations Criticality 4 
+### Support Operations Criticality 4 
 
 These are changes that are exceedingly low risk and commonly executed, or which are fully automated. Often these will be changes that are mainly being recorded for visibility rather than as a substantial control measure.
 
-##### Examples of Support Operations Criticality 4
+#### Examples of Support Operations Criticality 4
 
 1. Adding or removing users from a ZD organization
 1. Updating the language in a macro
 
-#### Scheduling intervals and exceptions
+### Scheduling intervals and exceptions
 
 Each criticiality has a required time interval that ensures adequate time for Ops scheduling and for the change creator to go through an appropriate change management process. If the change is of high priority, the required interval can be overriden pending the approval at the appropriate level.
 
