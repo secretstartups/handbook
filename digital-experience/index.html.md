@@ -195,17 +195,13 @@ We release videos for:
 
 All videos are accessible in our [Digital Experience playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba).
 
-### Repository Health Day
+### Repository Health Contributions
 
-At the end of every sprint cycle, Digital Experience will spend 10% or one day to work on issues related to improving the health of about.gitlab.com, the developer experience, tackle tech debt, or improve our documentation.
+At the end of every sprint cycle, Digital Experience team members can spend 10% or one day to work on issues related to improving the health of about.gitlab.com, the developer experience, tackle tech debt, or improve our documentation.
 
-The structure of Repository Health Day is as follows: 1. Team members will choose what they wish to work on for this day. 1. Each team member will submit a single merge request to the `www-gitlab-com` repository by the end of repository health day. 1. This merge request will be related to an issue from any partner or group within GitLab.
+The structure of Repository Health Day is as follows: 1. Team members will choose what they wish to work on for this day. 1. Each team member will submit a single merge request to the [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui), [Navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), or [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) repository by the end of repository health day. 1. This merge request will be related to an issue from any partner or group within GitLab.
 
-By allowing our team members to contribute to the health of our repository for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for the `www-gitlab-com` repository. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better repository that is inclusive of the team members that use it everyday.
-
-### Repository Health Week
-
-Digital Experience will dedicate one week or 8.33% per quarter to work on projects that improve the health of the `www-gitlab-com` repository, the developer experience, or tackle larger tech debt projects. These are projects that can not be completed in a single repository health day and require a higher degree of effort.
+By allowing our team members to contribute to the health of our repositories for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for https://about.gitlab.com/. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better tech stack that is inclusive of the team members that use it everyday.
 
 ### Data Studio Dashboard
 
