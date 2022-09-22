@@ -263,7 +263,7 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 **Ensure that the requestor has exhausted all self-service options:**
 
 - If the existing Owner's account does not have 2FA enabled, suggest that the requestor issue a password reset to the existing Owner's account, and [claim the account](https://docs.gitlab.com/ee/user/group/#change-the-owner-of-a-group).
-- If the existing Owner's account has 2FA enabled, suggest the requestor contact the existing Owner to request that the existing Owner provide the one time password, backup codes, or private ssh key to allow the requestor to regain access, and [claim the account](https://docs.gitlab.com/ee/user/group/#change-the-owner-of-a-group).
+- If the existing Owner's account has 2FA enabled, suggest the requestor contact the existing Owner to request that the existing Owner provide the one time password, backup codes, or private ssh key to allow the requestor to regain access, and [claim the account](https://docs.gitlab.com/ee/user/group/manage.html#change-the-owner-of-a-group).
 
 **If no self-service options are viable, follow the steps below:**
 
