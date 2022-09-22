@@ -79,7 +79,7 @@ After triaging failed tests, possible follow up actions are:
 
 ### Report the failure
 
-Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage reponsilibities](../#responsibility) for further guidance.
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage reponsilibities](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#responsibility) for further guidance.
 
 If there are multiple failures we recommend that you identify whether each one is new or old (and therefore already has an issue open for it). For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 
@@ -108,6 +108,7 @@ In the relevant Slack channel:
 Please use this step if there are no issues created to capture the failure. If there is already an issue please skip this step.
 
 1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template. For failures in CustomersDot tests, open an issue in [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues) project.
+    - Apply the `~"type::ignore"` label to the issue until the investigation is complete and an [issue type](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) is determined.
     - Inform the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) about the failure.
     - For system failures, it may make sense to open an issue in a different project such as [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/issues), [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/issues), or [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner/issues).
     - For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
