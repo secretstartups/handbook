@@ -142,9 +142,15 @@ Java(TM) SE Runtime Environment (build 16.0.1+9-24)
 Java Hotspot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
 ```
 
-Most systems will be running either the OpenJDK version or Java will not be installed. If Java is not installed and you wish to install OpenJDK, open the **Self Service** app located in your Applications folder and double-click on the app called [Java 18 - Open Source](<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">).
+Most systems will be running either the OpenJDK version or Java will not be installed. If Java is not installed and you wish to install OpenJDK, open the **Self Service** app located in your Applications folder and double-click on the app called Java 18 - Open Source.
 
-If you are running the Oracle Java version, you will be automatically notified by the IT Deptartment with a [pop-up that looks like this](<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">) and it will be removed from your machine.
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">
+
+If you are running the Oracle Java version, you will be automatically notified by the IT Deptartment with a pop-up that looks like this 
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTeAjSa-DIhqmF4Gd9uEuF_0RP0AnnlwhVtm0Xjggo75kQIVu0Vqo8TGsvYyDMbwjq_3QnXmrTEdbR6/pub?w=480&amp;h=360">
+
+and it will be removed from your machine.
 
 
 ## macOS utilities
