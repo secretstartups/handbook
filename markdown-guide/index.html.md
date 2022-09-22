@@ -304,17 +304,25 @@ Note:
 
 ## Lists
 
-Both ordered and unordered lists are very straightforward to produce. There are a few ways
-to produce the same results, but let's stick with the following, again, to maintain
-some standards.
+Both ordered and unordered lists are very straightforward to produce. There are a few ways to produce the same results, but let's stick with the following, again, to maintain some standards.
 
-Always use **3** blank spaces to indent a nested list (to create sub items).
+1. Always start list items with a capital letter.
+1. Always leave a blank line before and after a list.
+1. Begin a line with spaces (not tabs) to denote a nested sub-item. Items nested in lists should always align with the first character of the list item.
+   1. For [Unordered lists](#unordered-lists), use two spaces for each level of indentation.
+   1. For [Ordered lists](#ordered-lists), use three spaces for each level of indentation.
 
 Tip: don't leave blank lines **between the items**, unless you have a reason to do so.
 
-**Important:** always leave a blank line between the paragraph or heading and the subsequent list!
-If you don't, the list will not render.
-{:.alert .alert-info}
+**Important:** always leave a blank line between [Headings](#headings) and the subsequent list! If you don't, the list will not render.
+{: .alert .alert-info}
+
+The [Writing Style Guide](https://about.gitlab.com/handbook/communication/#writing-style-guidelines) recommends using [ordered lists](#ordered-lists) when you have multiple items, because `Numbered lists are easier to reference during a discussion over bulleted lists`.
+
+**Note:** This guidance does not apply to product documentation.
+{: .note}
+
+See the [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/#lists) for other helpful tips.
 
 ### Ordered lists
 
@@ -390,8 +398,8 @@ Paragraph:
 - Item 1
 - Item 2
 - Item 3
-   - Sub item 1
-   - Sub item 2
+  - Sub item 1
+  - Sub item 2
 - Item 4
 ```
 
@@ -407,8 +415,8 @@ Paragraph:
 - Item 1
 - Item 2
 - Item 3
-   - Sub item 1
-   - Sub item 2
+  - Sub item 1
+  - Sub item 2
 - Item 4
 
 </div>
@@ -422,8 +430,8 @@ markup `^` to indicate the end of a list and the beginning of the next:
 ```md
 - list one - item 1
 - list one - item 2
-   - sub item 1
-   - sub item 2
+  - sub item 1
+  - sub item 2
 - list one - item 3
 ^
 - list two - item A
@@ -443,8 +451,8 @@ markup `^` to indicate the end of a list and the beginning of the next:
 
 - list one - item 1
 - list one - item 2
-   - sub item 1
-   - sub item 2
+  - sub item 1
+  - sub item 2
 - list one - item 3
 ^
 - list two - item A
