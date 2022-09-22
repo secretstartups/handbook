@@ -16,27 +16,27 @@ description: "How to request the creation or modification of a SKU."
 
 ## How to request the creation or modification of a SKU
 
-We use issues to log requests related to SKUs. There are 4 templates that the user can choose from to help logging their request.
+We use issues to log requests related to SKUs. There are 3 issue templates in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) that the user can choose from to help log their request.
 
-Two things that you need to have in consideration when choosing your template:
-- If the request is for a Professional Services SKU.
-   - If it is, make sure to select the correct template (it should be either `New_PS_SKU` or `Retiring_PS_SKU`). 
-- The request type.
-   - If you're requesting a new SKU, updating an existing one or retiring it.
+Two things to consider when choosing your issue template:
+- Are you requesting to create a new SKU or modify an existing SKU?
+    - Select the issue template `CM: Add_New_PS_SKU` for Professional Service SKUs
+    - Select the issue template `CM: Add_New_SKU` for Non-Professional Service SKUs
+- Are you requesting to retire a SKU so that it will no longer be sold?
+    - Select the issue template `CM: Retire_SKU` and indicate the type of SKU under the `Request Type` on the issue
 {: .alert .alert-warning}
 
 The most common use cases are described below. Find the one that applies to your need and follow the proposed steps:
-- If you need to **create** or **update** a **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `New_PS_SKU` template and follow the steps from the **[How to Create New or Update a Professional Services SKU](#how-to-create-new-or-update-a-professional-services-sku)** section to complete it.
-- If you need to **retire** an existing **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_PS_SKU` template and follow the steps from the **[How to Retire a Professional Services SKU](#how-to-retire-a-sku)** section to complete it.
-- If you need to **create** a new SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Add_New_SKU` template and follow the steps from the **[How to Create New or Update a SKU](#how-to-create-new-or-update-a-sku)** section to complete it.
-- If you need to **retire** an existing SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_SKU` template and follow the steps from the **[How to Retire a SKU](#how-to-retire-a-sku)** section to complete it.
+- If you need to **create** or **update** a **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the `CM: Add_New_PS_SKU` template and follow the steps from the **[How to Create New or Update a Professional Services SKU](#how-to-create-new-or-update-a-professional-services-sku)** section of this handbook page.
+- If you need to **create** or **update** a **Non-Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the `CM: Add_New_SKU` template and follow the steps from the **[How to Create New or Update a SKU](#how-to-create-new-or-update-a-sku)** section of this handbook page.
+- If you need to **retire** an **existing SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the `CM: Retire_SKU` template and follow the steps from the **[How to Retire a SKU](#how-to-retire-a-sku)** section of this handbook page.
 
 ### How to Create New or Update a Professional Services SKU
 
 #### Request Type
 
-This section determine if the request is for the creation of a new SKU or for the update of an existing one.
-Check the correct box according to your need.
+This section determines if the request is for the creation of a new SKU or for the update of an existing one.
+Check the correct box according to your need. If you are updating an existing Professional Services SKU, provide the rationale for the change requested.
 
 #### Submitter
 
@@ -50,22 +50,19 @@ Check the correct box according to your need.
 
 #### 1. Product Information
 
-_Completion of all fields is necessary for approvals. Any missing or incomplete fields will result in a delay to the review and/or approval of your request._
+_It is the Submitters responsibility to ensure all required information is provided. Non-standard SKU configuration requests (marked with *** in the issue) will require Cross-functional Approval. Any missing or incomplete fields will result in a delay to the review and/or approval of your request._
 
-**Description of Product/Service**
-- Itemize exactly the SKU that needs to be created and the value provided to the Customer.
-
-**Change Description**
-- Describe the reasoning behind the need of the request.
+**Overview of Product/Service**
+- Provide an overview of the SKU that needs to be created and the value provided to the Customer.
 
 **Name**
-- List out what will be the display name that will show up on quotes and in the product.
+- Identify the name of the SKU that will be displayed in quotes and in the product.
 
 **Desired Go-Live Date**
 - Add the specific date of when the new SKU is expected to be used.
 
 **How is the proposed SKU (meant to be) sold to Customers**
-- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team.
+- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fullfillment Approval required in Section 2)
 - Select `Sales-assisted (SFDC Quote)` if the customer will need to go through the sales team to purchase the proposed SKU.
 
 **Product/Service Type for Quoting**
@@ -73,10 +70,10 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 
 **Charge Type**
 - There are 3 charge types. Select the correct one for your use case based on the explanation below:
-  - Recurring Charges / Period: a charge that is billed on a regular basis until removed from a Subscription.
+  - Recurring Charges: a charge that is billed on a regular basis until removed from a Subscription.
   - One-Time Charges: a charge that is only billed once.
   - Usage Charges: a charge that is billed in arrears based on consumption.
-    - When `Usage` is selected, the `Any Included Units?` option appears. Add here if anything will be included in the charge, for example: _phone plan with 1000 included minutes with overage fees after_. 
+    - When `Usage` is selected, the `Any Included Units?` option appears. Identify if there will be any units included in the charge, for example: _phone plan with 1000 included minutes with overage fees after_. 
 
 **Unit of Measure (UOM)**
 - The most common unit of measure is `Seat`. Select `Other` if your need is related to a different UOM and name it (example: Each, Instance, License, Workshop, Minutes, Packs).
@@ -89,68 +86,53 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
    - With `Volume` the product/service is priced based on the volume purchased.
 
 **Charge Timing**
-- Select how the Customer is expected to be paid, if `after invoice upon completed services` or `upfront for amount of the services`.
+- Select how the Customer is expected to pay, if `after invoice upon completed services` or `upfront for amount of the services`.
 
 **List Price**
 - Add the dollar amount per unit of measure. Example: _$250/seat/quarter_
 
-#### 2. Stakeholder Pre-Configuration Approval For Pricing and Non-Standard Requests (if applicable)
-- Tag the Fulfillment stakeholder (`@tgolubeva`) for approval in case both `Usage` option has selected as the Charge Type **AND** `Self-serve` in the _How is the proposed SKU (meant to be) sold to Customers_ section. 
-- Tag the Finance/SalesOps stakeholder (`@jrabbits`) for approval in case any non-standard Charge Type, Charge Model, Charge Timing options have been selected above.
-   - Check the _[What are Non-Standard Requests](#what-are-non-standard-requests)_ section for more information.
-- Always tag the Pricing stakeholder (`@xli1`) for approval.
+#### 2. Cross-functional Approval For Pricing and Non-Standard Requests (if applicable)
+_For non-standard SKUs (marked with *** in the sections above), additional approval from key stakeholders is required before progressing to following steps. This will allow those teams to do a pre-evaluation of the request and escalate any concerns within their teams. It is the Submitters responsibility to accurately assign the Issue for approval and follow up with approvers before progressing to Step 3._
 
+- To reduce the overall time required to get a new SKU reviewed and approved, consider making an accompanying slack channel similar to [this one](https://gitlab.slack.com/archives/C03KMK6LASY). 
 
+### Pricing
+Pricing approval required on ALL SKU creation or update requests and the following must be provided:
+   - Link to Cost of Goods Sold (COGS) spreadsheet (Make a copy of [this template](https://docs.google.com/spreadsheets/d/1em_4RiKOzvA3W9N4FxjmDxH6Rtr4my_o6ZifSXEWz0o/edit#gid=1853638008))
+   - Justification if project margins are below 55% for internally delivered services
+### Fulfillment
+Fullfillment approval required if:
+   - Proposed SKU (meant to be) sold to Customers: `Self-serve`
+   - Any non-standard (***) Charge Type, Charge Model, Charge Timing requests
+### Sales Operations
+Sales Operations approval required if:
+   - If SKU has limited quoting availability (only available to sell by certain groups)
+   - Any non-standard (***) Charge Type, Charge Model, Charge Timing requests
 
 <div class="panel panel-success">
 **Next Steps**
 {: .panel-heading}
 <div class="panel-body">
 
-- Once all approvals from Step 2 are obtained, assign the issue to `@andrew_murray` for input in Step 3.
-- Once Revenue/Billing and Tax tasks from Step 3. Finance are complete, assign the Issue to the approvers in Step 4 (`@michael_lutz`, `@brobins`, `@james_harrison`, `@dsakamoto`, `@mmcb`).
+- Once all approvals from Step 2 are obtained, assign the issue to `@andrew_murray` for Finance Approval in Step 3.
+- After Finance Approval is obtained assign the issue to:
+   - `@msubramanian` for input on the Invoicing, Revenue, and Custom Fields sections
+   - `@jgladen` for input on the Taxation section and confirm if these professional services are used to support the self-managed (SM) software, SaaS or both
+- Once Finance is complete, assign the Issue to the approvers in Step 4 (`@michael_lutz`, `@brobins`, `@james_harrison`, `@dsakamoto`, `@mmcb`).
    - Note that it is the Submitters responsibility to ensure all the appropriate approvals are obtained before progressing to Step 5.
-- After approvals are obtained, please add the `BT Finance Systems` label.
-   - No assignee changes required.
+- After approvals are obtained, please add the `BT Finance Systems` label and assign `@brianmwong` to configure the SKU in Zuora and Salesforce.
+- After the SKU is configured and the SKU will be sold through the channel, assign `@bpippala` to add this link to the [quarterly update issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/485) to ensure this new SKU/Product is added in the upcoming Pricebook and any other necessary information
+- If the SKU requires a service description, it is the submitter's responsibility to complete step 7
 
 </div>
 </div>
-
-### How to Retire a Professional Services SKU
-
-#### Request Type
-
-This section is for information only and determine the request type. No input needed here.
-
-#### Submitter
-
-**Please assign the SKU Retire Issue to yourself and complete all sections of Step 1**
-
-- On the right-hand panel of the issue, make sure to add yourself as the assignee by clicking on the `Edit` button and assigning yourself.
-
-#### 1. Product Information
-
-_Completion of all fields is necessary for approvals. Any missing or incomplete fields will result in a delay to the review and/or approval of your request._
-
-**Identify Rate Plans to be retired**
-- In this section, list all the rate plan IDs that need to be retired.
-
-**When is the SKU expected to be retired**
-- Add the specific date of when the SKU is expected to be retired.
-
-#### 2. Stakeholder Approval for SKU Retiring
-- Once step 1 has been filled out, assign the issue to the approvers listed on Step 2 (`@tgolubeva`, `@james_harrison`, `@jrabbits`, `@andrew_murray`).
-   - Note that it is the Submitters responsibility to ensure all the appropriate approvals are obtained before progressing to Step 3.
-- After approvals are obtained, please add the `BT Finance Systems` label.
-   - No assignee changes required.
-
 
 ### How to Create New or Update a SKU
 
 #### Request Type
 
-This section determine if the request is for the creation of a new SKU or for the update of an existing one.
-Check the correct box according to your need.
+This section determines if the request is for the creation of a new SKU or for the update of an existing one.
+Check the correct box according to your need. If you are updating an existing Non-Professional Services SKU, provide the rationale for the change requested.
 
 #### Submitter
 
@@ -164,36 +146,30 @@ Check the correct box according to your need.
 
 #### 1. Product Information
 
-_Completion of all fields is necessary for approvals. Any missing or incomplete fields will result in a delay to the review and/or approval of your request._
+_It is the Submitters responsibility to ensure all required information is provided. Non-standard SKU configuration requests (marked with *** in the issue) will require Cross-functional Approval. Any missing or incomplete fields will result in a delay to the review and/or approval of your request._
 
-**Description of Product/Service**
-- Itemize exactly the SKU that needs to be created and the value provided to the Customer.
-
-**Change Description**
-- Describe the reasoning behind the need of the request.
+**Overview of Product/Service**
+- Provide an overview of the SKU that needs to be created and the value provided to the Customer.
 
 **Name**
-- List out what will be the display name that will show up on quotes and in the product.
+- Identify the name of the SKU that will be displayed in quotes and in the product.
 
 **Desired Go-Live Date**
 - Add the specific date of when the new SKU is expected to be used.
 
 **How is the proposed SKU (meant to be) sold to Customers**
-- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team.
+- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fullfillment Approval required in Section 2)
 - Select `Sales-assisted (SFDC Quote)` if the customer will need to go through the sales team to purchase the proposed SKU.
-
-**License Type**
-- If the license will be for SaaS (cloud-based) or self-managed (On-premise) customers.
 
 **Product/Service Type for Quoting**
 - Add On Product is the only option for Professional Services SKUs.
 
 **Charge Type**
 - There are 3 charge types. Select the correct one for your use case based on the explanation below:
-  - Recurring Charges / Period: a charge that is billed on a regular basis until removed from a Subscription.
+  - Recurring Charges: a charge that is billed on a regular basis until removed from a Subscription.
   - One-Time Charges: a charge that is only billed once.
   - Usage Charges: a charge that is billed in arrears based on consumption.
-    - When `Usage` is selected, the `Any Included Units?` option appears. Add here if anything will be included in the charge, for example: _phone plan with 1000 included minutes with overage fees after_. 
+    - When `Usage` is selected, the `Any Included Units?` option appears. Identify if there will be any units included in the charge, for example: _phone plan with 1000 included minutes with overage fees after_. 
 
 **Unit of Measure (UOM)**
 - The most common unit of measure is `Seat`. Select `Other` if your need is related to a different UOM and name it (example: Each, Instance, License, Workshop, Minutes, Packs).
@@ -206,29 +182,43 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
    - With `Volume` the product/service is priced based on the volume purchased.
 
 **Charge Timing**
-- Select how the Customer is expected to be paid.
+- Select how the Customer is expected to pay, if `after invoice upon completed services` or `upfront for amount of the services`.
 
 **List Price**
 - Add the dollar amount per unit of measure. Example: _$250/seat/quarter_
 
-#### 2. Stakeholder Pre-Configuration Approval For Pricing and Non-Standard Requests (if applicable)
-- Tag the Fulfillment stakeholder (`@tgolubeva`) for approval in case both `Usage` option has selected as the Charge Type **AND** `Self-serve` in the _How is the proposed SKU (meant to be) sold to Customers_ section. 
-- Tag the Finance/SalesOps stakeholder (`@jrabbits`) for approval in case any non-standard Charge Type, Charge Model, Charge Timing options have been selected above.
-   - Check the _[What are Non-Standard Requests](#what-are-non-standard-requests)_ section for more information.
-- Always tag the Pricing stakeholder (`@xli1`) for approval.
+#### 2. Cross-functional Approval For Pricing and Non-Standard Requests (if applicable)
+_For non-standard SKUs (marked with *** in the sections above), additional approval from key stakeholders is required before progressing to following steps. This will allow those teams to do a pre-evaluation of the request and escalate any concerns within their teams. It is the Submitters responsibility to accurately assign the Issue for approval and follow up with approvers before progressing to Step 3._
 
+- To reduce the overall time required to get a new SKU reviewed and approved, consider making an accompanying slack channel similar to [this one](https://gitlab.slack.com/archives/C03KMK6LASY). 
 
+### Pricing
+Pricing approval required on ALL SKU creation or update requests and the following must be provided:
+   - Link to Cost of Goods Sold (COGS) spreadsheet (Make a copy of [this template](https://docs.google.com/spreadsheets/d/1em_4RiKOzvA3W9N4FxjmDxH6Rtr4my_o6ZifSXEWz0o/edit#gid=1853638008))
+   - Justification if project margins are below 55% for internally delivered services
+### Fulfillment
+Fullfillment approval required if:
+   - Proposed SKU (meant to be) sold to Customers: `Self-serve`
+   - Any non-standard (***) Charge Type, Charge Model, Charge Timing requests
+### Sales Operations
+Sales Operations approval required if:
+   - If SKU has limited quoting availability (only available to sell by certain groups)
+   - Any non-standard (***) Charge Type, Charge Model, Charge Timing requests
 
 <div class="panel panel-success">
 **Next Steps**
 {: .panel-heading}
 <div class="panel-body">
 
-- Once all approvals from Step 2 are obtained, assign the issue to `@andrew_murray` for input in Step 3.
-- Once Revenue/Billing and Tax tasks from Step 3. Finance are complete, assign the Issue to the approvers in Step 4 (`@david`, `@brobins`, `@james_harrison`, `@dhong`, `@mmcb`).
+- Once all approvals from Step 2 are obtained, assign the issue to `@andrew_murray` for Finance Approval in Step 3.
+- After Finance Approval is obtained assign the issue to:
+   - `@msubramanian` for input on the Invoicing, Revenue, and Custom Fields sections
+   - `@jgladen` for input on the Taxation section and confirm if these professional services are used to support the self-managed (SM) software, SaaS or both
+- Once Finance is complete, assign the Issue to the approvers in Step 4 (`@david`, `@brobins`, `@james_harrison`, `@dsakamoto`, `@mmcb`).
    - Note that it is the Submitters responsibility to ensure all the appropriate approvals are obtained before progressing to Step 5.
-- After approvals are obtained, please add the `BT Finance Systems` label.
-   - No assignee changes required.
+- After approvals are obtained, please add the `BT Finance Systems` label and assign `@brianmwong` to configure the SKU in Zuora and Salesforce.
+- After the SKU is configured and the SKU will be sold through the channel, assign `@bpippala` to add this link to the [quarterly update issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/485) to ensure this new SKU/Product is added in the upcoming Pricebook and any other necessary information
+- If the SKU requires a service description, it is the submitter's responsibility to complete step 7
 
 </div>
 </div>
@@ -237,9 +227,10 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 
 #### Request Type
 
-This section is for information only and determine the request type. No input needed here.
+This section is to determine whether the request is to retire a Professional Services SKU or a Non-Professional Services SKU. Check the correct box according to your need. Different stakeholder approval is required depending on the request type.
 
 #### Submitter
+_It is the Submitters responsibility to ensure all required information and appropriate approvals are obtained for each Step prior to progressing forward in the SKU retirement process._
 
 **Please assign the SKU Retire Issue to yourself and complete all sections of Step 1**
 
@@ -256,10 +247,27 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 - Add the specific date of when the SKU is expected to be retired.
 
 #### 2. Stakeholder Approval for SKU Retiring
-- Once step 1 has been filled out, assign the issue to the approvers listed on Step 2 (`@tgolubeva`, `@james_harrison`, `@jrabbits`, `@andrew_murray`).
-   - Note that it is the Submitters responsibility to ensure all the appropriate approvals are obtained before progressing to Step 3.
-- After approvals are obtained, please add the `BT Finance Systems` label.
-   - No assignee changes required.
+
+_Approval from key stakeholders is required before progressing to following steps. This will allow those teams to do a pre-evaluation of the request and escalate any concerns within their teams. It is the Submitters responsibility to accurately assign the Issue for approval and follow up with approvers before progressing to Step 3._
+
+### Approval Required Based On Request Type
+- Professional Services: Michael Lutz `@michael_lutz` - {+Required for retiring a Professional Services SKU+}
+- Fulfillment: Tatyana Golubeva `@tgolubeva` - {+Required for retiring a Non-Professional Services SKU+}
+
+### Approval Required for ALL SKU Retirement Requests
+- Sales: James Harrison `@james_harrison`
+- Sales Operations: Jesse Rabbits `@jrabbits`
+- Finance: Andrew Murray `@andrew_murray` 
+
+<div class="panel panel-success">
+**Next Steps**
+{: .panel-heading}
+<div class="panel-body">
+
+- Once all approvals from Step 2 are obtained, please add the label `BT Finance Systems` assign the issue to `@brianmwong` to retire the SKU in Zuora and Salesforce
+
+</div>
+</div>
 
 
 ## FAQ
