@@ -133,7 +133,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   <tr>
     <td class="tg-0lax">Commercial</td>
     <td class="tg-0lax">Americas</td>
-    <td class="tg-0lax">Interim: Agnes Oetama `@aoetama` </td>
+    <td class="tg-0lax"> Meilynda Herbst `@_meilynda` </td>
   </tr>
   <tr>
     <td class="tg-0lax">Commercial</td>
@@ -202,7 +202,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 - Campaigns DRI for UTM strategy
 - Campaigns DRI for weekly tech demo series
 
-**Interim: Agnes Oetama** _Manager, Marketing Campaigns_
+**Meilynda Herbst** _Senior Marketing Campaign Manager_
 
 - **Campaign strategy for Commercial (Mid-Market and SMB) Segment, *Americas***
   - Plan, organize, implement, and optimize campaign strategy for commercial segment
