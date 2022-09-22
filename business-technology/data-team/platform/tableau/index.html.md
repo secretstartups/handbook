@@ -50,20 +50,21 @@ Every user that is granted access to Tableau Online needs to [sign off](https://
 
 ### Tableau Online Access
 
-Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. AR Template is `coming soon`, in the meantime copy this [issue](https://gitlab.com/gitlab-data/analytics/-/issues/13864) in your request. 
+Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
 
 Access to Tableau requires having [SAFE Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/), for most Creators it also requires [Snowflake access](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/), a defined use case, manager approval, and approval by your respective Tableau department owner. Please tag the designated Lead Approver(s) for your team / department from below for review and approval in your AR issue:
+
 | **Team / Department** | **Approver(s) / Project Leader** |
 | ------- |------- |
 | Business Insights | Sindhu Tatimatla (TBD) |
-| Customer Success  | @jdbeaumont  |
-| Data              | @mlaanen, @ttnguyen28 |
-| Marketing         | @jahye1 |
-| People            | @aperez349, @mccormack514) |
-| Product           | @cbraza |
-| Sales             | @mvilain |
-| Finance: Sales Finance  | @ofalken |
-| Finance: FP&A | @james.shen |
+| Customer Success  | `@jdbeaumont`  |
+| Data              | `@mlaanen`, `@ttnguyen28` |
+| Marketing         | `@jahye1` |
+| People            | `@aperez349`, `@mccormack514` |
+| Product           | `@cbraza` |
+| Sales             | `@aileenlu` |
+| Finance: Sales Finance  | `@ofalken` |
+| Finance: FP&A | `@james.shen` |
 
 Once approved, the Data Collaboration team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups). 
 
@@ -71,11 +72,11 @@ Once approved, the Data Collaboration team will then add the user to the `okta-t
 
 | **Primary / Backup** | **User** |  Designated Support Contact with Tableau Support |
 | ------- |------- | ------- |
-| Primary | @ttnguyen28 | Yes |
-| Primary | @mlaanen | Yes |
-| Backup  | @snalamaru  | Yes |
-| Backup  | @pempey  | Yes |
-| Okta  | @mwhitaker |
+| Primary | `@ttnguyen28` | Yes |
+| Primary | `@mlaanen` | Yes |
+| Backup  | `@snalamaru`  | Yes |
+| Backup  | `@pempey`  | Yes |
+| Okta  | `@mwhitaker` |
 
 ### Permissions Best Practices for Admins & Project Leaders
 
@@ -219,14 +220,24 @@ Note: training videos listed above are provided for free by third parties and th
 1. Post your questions in the [Tableau Community](https://community.tableau.com/s/) to see if someone in the wider Tableau user community has the answer.
 1. Open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
     - Anyone can open a support case, however if you want expediated response and resolutions times based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs ask one of the designated support contacts to open the support case for you instead. Currently the listed contacts are:
-        - @mlaanen
-        - @ttnguyen28
-        - @snalamaru
-        - @pempey
+        - `@mlaanen`
+        - `@ttnguyen28`
+        - `@snalamaru`
+        - `@pempey`
 
 #### Tableau Office Hours
 
 We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to regularly meet and showcase their work, as well as discuss topics / ask questions on anything relating to the tool. Please refer to our running [Meeting Agenda and Question & Answer document](https://docs.google.com/document/d/1i23bIsoupKC7rTepbU2lVXTHB5vxKuAgl07kAQq2EBA/edit) for content covered in our sessions.
+
+#### Tips and Tricks
+
+| Environment | Tips | 
+| ------- | ------- | 
+| Tableau Desktop | Certain features are only available to Creators when using Tableau Desktop, and might not be there in Tableau Online. For the best experience building dashboards, use Tableau Desktop if the size of the data and the performance of your laptop allows it. |
+| Tableau Online / Desktop | When your data set allows it, use data extracts for the best performance and end user experience | 
+| Tableau Online | Always save a newly created workbook first in your personal space before working on it. If you run into any issues while developing, the latest draft version can always be retrieved from there. If you don't it could disappear if you run into any issues. |
+| Tableau Desktop | If you run into a problem where Tableau Desktop crashes, clear out the logs and try to reproduce the error. Then send the logs to @mlaanen or @ttnguyen28 or post it in our external slack channel with Tableau. Follow these steps to generate the logs: Close Tableau Desktop, go to Documents > My Tableau Repository > logs, delete all the logs, Open Tableau Desktop, replicate the issue, close Tableau Desktop, open up the log files in the file path mentioned above. |
+
 
 #### Common Problems
 
@@ -236,5 +247,5 @@ We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to re
 | Tableau Online | Invalid Consent Request when opening a workbook that asks you to log into Snowflake. | If the data source for the workbook was created using Oauth, have the workbook owner republish it using the `Embed password for data source` feature, or alternatively ask the Data Team to switch it to using the service account instead. |
 | Tableau Desktop | When publishing to Tableau Online from Tableau Desktop, all project folders are greyed out. | Click on the `>` icon next to your department's foldername to see the subfolders. You should be able to publish into those subfolders. | 
 | Tableau eLearning | Error Message: "Missing Authentication Cookie" |  Change your browser settings as described on the [Skilljar Help Center](https://support.skilljar.com/hc/en-us/articles/360033553054) | 
-| Tableau Online or Desktop | When using "Initial SQL": "An error occured when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. || Tableau Online | There was an error while working on a newly created workbook, and the workbook has disappeared | Always save a newly created workbook first in your personal space before working on it. If you run into any issues while developing, the latest draft version can always be retrieved from there. |
+| Tableau Online or Desktop | When using "Initial SQL": "An error occured when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. |
 
