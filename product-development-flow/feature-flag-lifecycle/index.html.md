@@ -206,7 +206,7 @@ For information about how the user will interact with features behind flags, see
    1. Ensure that the [feature flag documentation process](https://docs.gitlab.com/ee/development/documentation/feature_flags.html) has been followed.
    1. Ensure the flag is removed from the code and from the database with the [chatops feature flag removal command](https://docs.gitlab.com/ee/development/feature_flags/controls.html#cleanup-chatops).
    1. If your team closes the feature issue after the feature flag has been removed, it should be closed here.
-   1. If the originating issue will be included in the Release Post coordinate with Engineering Manager, Product Manager, Product Marketing Manager, and Technical writer to include the Release Post Item
+   1. If the originating issue will be included in the Release Post coordinate with Engineering Manager, Product Manager, Product Designer, Product Marketing Manager, and Technical writer to include the Release Post Item
 
 ### Flowchart
 
