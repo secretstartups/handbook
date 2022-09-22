@@ -17,13 +17,12 @@ This is the rotation schedule for FY23-Q3 and Q4 (August 2022 - January 2023). L
 | Designer               | Design Pair            |
 |------------------------|------------------------|
 | Katie Macoy            | Matt Nearents          |
-| Nadia Sotnikova        | Camellia Yang          |
 | Veethika Mishra        | Michael Le             |
 | Matej Latin            | Jeremy Elder           |
 | Ali Ndlovu             | Daniel Mora            |
 | Sunjung Park           | Gina Doyle             |
 | Kevin Comoli           | Andy Volpe             |
-| Dan Mizzi-Harris       | Sascha Eggenberger     |
+| Dan Mizzi-Harris       | Sascha Eggenberger, Camellia Yang     |
 | Pedro Moreira da Silva | Nick Leonard           |
 | Mike Nichols           | Nick Brandt            |
 | Michael Fangman        | Emily Bauman           |
