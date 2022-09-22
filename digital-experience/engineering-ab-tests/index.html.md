@@ -53,13 +53,13 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 | Issue | Test Length | Status | 
 | ------ | ------ | ------ |
-| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1) | 2022-09-14 to 2022-09-28 | Live |
+|  |  |  |
 |  |  |  |
 
 ### Completed A/B Tests & Results 
 
 | Issue | Variant A | Variant B | Winner |
-| ------ | ------ | ------ | ------ 
+| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1)| [Variant A Image](source/images/digital-experience/ab-tests/remove-register-nav/variantA.png)| [Variant B Image](source/images/digital-experience/ab-tests/remove-register-nav/variantB.png) | Variant B
 |  |  |  |
 
 ## How do we engineer tests
