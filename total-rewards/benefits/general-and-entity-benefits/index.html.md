@@ -253,6 +253,16 @@ It's important to acknowledge that returning to work after [parental leave](#par
 You can learn more about parental leave and how to apply in the [Benefits section of the GitLab Handbook](#parental-leave).
 
 ### Return-to-work Resources
+
+#### Your 4th Trimester
+
+[Your 4th Trimester](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view) is a 90-day coaching program to help parents transition back to work.
+
+- All team members taking Parental Leave are welcome to participate in this program (regardless of gender)
+- Expecting parents sign up for the program before they start their Parental Leave. (If you decide you would like to participate in this program while on leave that is ok too!)
+- Barbara (from [Your 4th Trimester](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view)) will start working with the team member prior to their leave and 30 days before the end of their Parental Leave
+- To apply for this coaching program, please notify Total Rewards that you would like to participate in the program by sending an email to growth-development@gitlab.com
+
 #### Tips for a smoother transition
 
 GitLab team members compiled tips in a four-part blog series, linked below, looking at an array of issues surrounding working remotely with children. These shed light on parental leave policies worldwide, provide an inside view of working at GitLab with a newborn, and highlight strategies for working remotely with older children.
