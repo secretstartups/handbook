@@ -50,8 +50,7 @@ For documentation purposes, the following table was devised as a reference guide
 
 ### Daily Pairing Sessions
 
- - EMEA/AMER friendly pairing sessions are held every weekday from 14:30 to 15:30 UTC.
- - AMER friendly pairing sessions are held every weekday from 18:00 to 19:00 UTC.
+ - EMEA/AMER friendly pairing sessions are held every weekday from 15:30 to 16:30 UTC.
 
 **Goal**: Meet as a group and work toward our [Definition of Success](../index.html.md#success-of-their-group-means).
 
