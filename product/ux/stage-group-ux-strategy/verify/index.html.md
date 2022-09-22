@@ -27,7 +27,7 @@ Our biggest partners are the stages under the CI/CD section ([Release](/directio
 ## Verify UX Team
 
 - [Veethika Mishra](https://gitlab.com/v_mishra) - Senior Product Designer for Pipeline Execution (PE)
-- [Nadia Sotnikova](https://gitlab.com/nadia_sotnikova) - Product Designer for Pipeline Authoring (PA)
+- TBD - Product Designer for Pipeline Authoring (PA)
 - [Gina Doyle](https://gitlab.com/gdoyle) - Product Designer for Pipeline Insights (PI) and Runner
 - [Rayana Verissimo](https://gitlab.com/rayana) - Product Design Manager
 - [Marcel Amirault](https://gitlab.com/marcel.amirault) and [Suzanne Selhorn](https://gitlab.com/sselhorn) - Technical Writers
