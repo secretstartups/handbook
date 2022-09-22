@@ -11,7 +11,7 @@ title: "Gitlab IT 101"
 
 ## Welcome To Gitlab!
 
-Congratulations on joining Gitlab! This page is dedicated to the IT onboarding experience, here at Gitlab we use many applications and the latest hardware to enable you to complete your work to the best of your ability! While it may seen a little bit overwhelming at the start the Team member enablement team is here to make the proccess as easy as possible!
+Congratulations on joining Gitlab! This page is dedicated to the IT onboarding experience, here at Gitlab we use many applications and the latest hardware to enable you to complete your work to the best of your ability! While it may seen a little bit overwhelming at the start the Team member enablement team is here to make the process as easy as possible!
 
 ## Getting Started
 
@@ -26,15 +26,15 @@ The first time your MacBook Pro starts up, Setup Assistant walks you through the
 
 - Choose a country or region to set the language and time zone for your Mac. You can respond to all the prompts, or skip some and choose “Set up later” when you see that option.
 
-- Connect to a Wi-Fi network: Choose the network and enter a password, if necessary. (If youʼre using Ethernet, you can also choose Other Network Options.) To change the network later, click the Wi-Fi status icon  in the menu bar or in Control Center, click Other Networks, then choose a Wi-Fi network and enter the password. You can also choose to turn Wi-Fi on or off here.
+- Connect to a Wi-Fi network: Choose the network and enter a password, if necessary. (If you're using Ethernet, you can also choose Other Network Options.) To change the network later, click the Wi-Fi status icon  in the menu bar or in Control Center, click Other Networks, then choose a Wi-Fi network and enter the password. You can also choose to turn Wi-Fi on or off here.
 
-Tip: After setup, if you don’t see the Wi-Fi status icon  in the menu bar, you can add it. Open System Preferences, then click Network. Click Wi-Fi in the list on the left, then select “Show Wi-Fi status in menu bar.”
+Tip: After setup, if you don’t see the Wi-Fi status icon in the menu bar, you can add it. Open System Preferences, then click Network. Click Wi-Fi in the list on the left, then select “Show Wi-Fi status in menu bar.”
 
 - Transfer information: If you’re setting up a new computer and you haven’t previously set up a Mac, click “Don’t transfer any information now.”
 
 #### Apple ID
  
-- We recommend creating a new Apple ID for Gitlab to keep your personal and work data separate. You can also reinburse apps using an Apple ID created with your Gitlab account. Your Apple ID consists of an email address and a password. It’s the account you use for everything you do with Apple—including using the App Store, Apple TV app, Apple Book Store, iCloud, Messages, and more.
+- We recommend creating a new Apple ID for Gitlab to keep your personal and work data separate. You can also reimburse apps using an Apple ID created with your Gitlab account. Your Apple ID consists of an email address and a password. It’s the account you use for everything you do with Apple—including using the App Store, Apple TV app, Apple Book Store, iCloud, Messages, and more.
 
 #### Initial Setup Part 2
 
@@ -57,9 +57,9 @@ Tip: If two or more users use the same MacBook Pro, each user can add a fingerpr
 If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
 <details><summary>Click Here for Tips!</summary>
 
-![mactips2.png](./mactips2.png)
+![mactips2.png](mactips2.png)
 
-![mactips1.png](./mactips1.png)
+![mactips1.png](mactips1.png)
 
 </details>
 
@@ -81,7 +81,7 @@ Linux: Currently we do not have an endpoint management tool for Linux. However w
 
 ### Laptop Encryption
 
-It is essential to encrypt your laptops hard drive using Mac's filevault or Linux's built in encryption. This will prevent unauthorised access of the contents in your hard drive. Please refer to our security pages to complete this. 
+It is essential to encrypt your laptops hard drive using Mac's FileVault or Linux's built in encryption. This will prevent unauthorised access of the contents in your hard drive. Please refer to our security pages to complete this. 
 
 - [Macbook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
 - [Linux Encryption](https://about.gitlab.com/handbook/tools-and-tips/linux/#initial-installation)
