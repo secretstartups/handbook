@@ -40,3 +40,16 @@ The next step in the Director, Globalization & Localization job family is not ye
 - Total localization costs relative to content volume / format; fully-loaded price per word
 - Non-English SEO lift; % uplift in organic traffic and conversions for target markets
 - New pipeline lift; % uplift in Marketing Qualified Leads & Sales Accepted Opportunities for target markets
+
+### Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Global Recruiters.
+- A 45 minute interview with our VP, Marketing Strategy & Platforms
+- A 45 minute interview with our Director, Digital Experience or Group Product Manager, Growth
+- A 45 minute interview with our Director, Marketing Operations or Manager, Marketing Operations
+- A 45 minute interview with our VP, Integrated Marketing or Director, Global Field Marketing
+- A 30 minute interview with our VP, Field Operations or VP, Sales Strategy & Analytics
+- A 30 minute interview with our Chief Marketing Officer or VP, Product Marketing
+- A 45 minute interview with our Director, People Business Partner 
+
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
