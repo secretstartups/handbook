@@ -13,7 +13,7 @@ title: "Committee Composition"
 
 ## Disclosure Committee Composition 
 - **Chairperson**: Chief Executive Officer, Chief Financial Officer, Chief Legal Officer and Principal Accounting Officer 
-- **Members**: Chief Revenue Officer, Chief People Officer, Chief Technology Officer, Chief Marketing Officer, VP, Corporate Controller, VP of Internal Audit, VP of Finance, Director of Legal, Corporate, Director of SEC & SOX, VP of Product, and Senior Director of Product Monetization 
+- **Members**: Chief Revenue Officer, Chief People Officer, Chief Technology Officer, Chief Marketing Officer, VP, Corporate Controller, VP of Internal Audit, VP of Finance, Senior Director of Legal- Corporate, Director of R2R, Chief Product Officer 
 - **Management DRI**: Chief Financial Officer
 
 ## Disclosure Committee Charter
