@@ -44,10 +44,13 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
 **Understanding Account Assignment, Rules and Definitions**
 
 1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Account Demographics](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.thpuid9gpo74) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain Unknown until resolved through manual research and a link to a reputable data is provided to the Sales Operations team to confirm. Follow the process to request changes to the Account Demographics inputs if the account information is missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as SMB with a placeholder of -1 employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process below.
-1. **Non-Owned Accounts:**
-    1. SALs and AEs should not be selling into accounts they do not own. Two policies apply to prevent this behavior:
+1. **Qualifying Accounts:**
+    1. SALs/AEs should be qualifying new Accounts assigned to them by reviewing the hierarchy and determining if it is a duplicate Account. 
+    1. If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAL/AE should not engage in any capacity unless the correct Account owner confirms agreement to engage.
+    1. In the event a SAL/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
+    1. SALs/AEs should not be selling into accounts they do not own. Two policies apply to prevent this behavior:
         1. **Chalk the Line** applies when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner.  
-        1. **Lame Duck** applies when a SAL or AE knows an Account is not theirs but they do not take action to have it moved to the correct segment, region and/or owner. 
+        1. **Lame Duck** applies when an Account's employee count deems it to move segments during the fiscal year, and there has been no SFDC activity records logged within the last 4 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the correct owner.  
     1. Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action. 
 1. **Account Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
