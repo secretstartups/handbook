@@ -30,21 +30,21 @@ This team evaluates all initiatives and makes prioritization decisions based on 
 1. Justin Farris: Sr. Director Product Monetization
 1. Omar Fernandez: Director of Product, Fulfillment
 1. Sarah McCauley: Director of Billing & AR
-1. TBD, Q2C Process Owner
-1. TBD, Enterprise Applications
+1. TBD: Q2C Process Owner
+1. TBD: Enterprise Applications
 
 ### Extended Team Members
-1. Keith Cheung, Sr Dir Pricing 
-1. Jack Brennan, Sr Dir Sales Systems
-1. Jesse Rabbits: Sr. Manager Deal Desk & Order Management
-1. Jerome Ng, Sr eng Mgr Fulfillment: Jerome
-1. Alix Tucker, VP GTM FP&A
-1. TBD, Field Enablement
-1. TBD, Support Leader
+1. Keith Cheung: Sr Dir Pricing 
+1. Jack Brennan: Sr Dir Sales Systems
+1. Jesse Rabbits: Sr Manager Deal Desk & Order Management
+1. Jerome Ng: Sr Eng Mgr Fulfillment: Jerome
+1. Alix Tucker: VP GTM FP&A
+1. TBD: Field Enablement
+1. TBD: Support Leader
 
 ## Roadmap
 
-* [Order-to-Cash Roadmap (Internal)](https://docs.google.com/spreadsheets/d/17IfBrltEWM49z6__NxbyuYkqdIWRAdqIJ6_UHgOa0no/edit#gid=1276538540)
+* [Order-to-Cash Roadmap (Internal) Slides](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit)
 
 
 ## Existing documentation
