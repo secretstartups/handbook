@@ -17,9 +17,9 @@ as a technical evangelist at key trade shows and customer meetings.
 
 ## Job Grade
 
-The Technical Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Senior Technical Marketing Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technical Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 * Teach our audiences about modern software delivery methods and how it can be valuable to them, introducing them to new concepts which can help them achieve their goals.
