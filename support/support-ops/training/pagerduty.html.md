@@ -16,149 +16,218 @@ description: 'Training documentation concerning Pagerduty'
 This training material will cover the following topics:
 
 * Pagerduty user management
-* Pagerduty rotations (adding/editing)
-* adding and removing users from a rotation
+* Pagerduty escalation policy management
+* Pagerduty schedule management
 
 ## Pagerduty user management
 
-To manage users in Pagerduty, you will first need to go to the
-[Users page](https://gitlab.pagerduty.com/users). You can get there by clicking
-on `People` at the top of the page and then selecting `Users` in the sub-menu
-that appears.
+<!-- VIDEO TO BE CREATED AND WILL GO HERE -->
 
-### Creating users in Pagerduty
+### Creating a user in Pagerduty
 
-From the [Users page](https://gitlab.pagerduty.com/users), click the blue
-`Add Users` button in the top-right of the page. You will then enter the new
-user's full name, email address, and select a role (User for most, Admin for
-Support Operations team members). After doing so, click the blue `Add` button to
-have an invite sent out to that person.
+The steps to create an user in Pagerduty are:
 
-### Editing users in Pagerduty
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Users` to go to the
+   [users page](https://gitlab.pagerduty.com/users-new)
+1. Click the blue `+ Add Users` button at the top-right of the page
+1. Input the first and last name of the user in the first box
+1. Input the email address of the user in the second box
+1. Select the appropriate role
+   * `Limited User` for Support Engineers, Support Managers, and Support Directors
+   * `Admin` for Support Readiness
+1. Click the blue `Add` button on the right-hand side
 
-From the [Users page](https://gitlab.pagerduty.com/users), locate the user you
-wish to edit and click on their name (far left column). After doing so, locate
-the settings you wish to change (role is the most common, which is under
-`User Settings`). Click the box with a pencil in it icon, make the changes, and
-click the blue `Save` button.
+## Editing a user in Pagerduty
 
-### Deleting users in Pagerduty
+**NOTE** The user in question should be doing this for everything they are able.
+We should only do this for things requiring admin capabilities, such as `Role`.
 
-From the [Users page](https://gitlab.pagerduty.com/users), locate the user you
-wish to edit and click the `Delete` link on their row (far right column). Doing
-so will have a Javascript confirmation box appear asking you to confirm the
-deletion. Click the OK button to confirm the deletion.
+The steps to edit an user in Pagerduty are:
 
-## Pagerduty schedules
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Users` to go to the
+   [users page](https://gitlab.pagerduty.com/users-new)
+1. Search for the user (email works best). Once you locate them, click on their
+   name.
+1. Go the appropriate tab for the changes you need to make
+   * `Contact Information` for editing name, title, timezone, phone number,
+     email address
+   * `Notification rules` for various notification rules
+   * `User settings` for login email, password, role, and schedule color
+1. Click the edit box on the right-hand side of the item being modified
+1. Make the changes and click the blue `Save` button
 
-When working with pagerduty schedules, keep the following diagram in mind:
+## Removing a user in Pagerduty
 
-One to many relationship:
+**NOTE**: User must not be present in _any_ schedule or escalation policy to be
+deleted.
 
-```mermaid
-graph TD;
-  A["Escalation Policy"] --> B["Schedule"];
-  A["Escalation Policy"] --> C["Schedule"];
-  A["Escalation Policy"] --> D["Schedule"];
-  E["Escalation Policy"] --> F["Schedule"];
-  E["Escalation Policy"] --> G["Schedule"];
-  E["Escalation Policy"] --> H["Schedule"];
-  I["Escalation Policy"] --> J["Schedule"];
-  I["Escalation Policy"] --> K["Schedule"];
-  I["Escalation Policy"] --> L["Schedule"];
-```
+The steps to remove an user from Pagerduty are:
 
-This helps illustrate that for a schedule to work properly, it must be within a
-escalation policy. A bit of a catch-22 is the escalation policy normally needs
-a schedule or list of users to use in the targets, so you normally have to
-either use an existing escalation policy or create the schedule first and then
-create the escalation policy.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Users` to go to the
+   [users page](https://gitlab.pagerduty.com/users-new)
+1. Search for the user (email works best). Once you locate them, click on their
+   name.
+1. Click the red `Delete User` button on the right-hand side
 
-This can be tedious, so the general workflow we recommend is:
+## Pagerduty escalation policy management
 
-```mermaid
-graph TD;
-  A --> B;
-  B --> C;
-  C --> D;
-  A["Create escalation policy"];
-  B["Have it use your user for the notification target"];
-  C["Create the schedule"];
-  D["Edit the escalation policy to use the schedule instead of your user"];
-```
+<!-- VIDEO TO BE CREATED AND WILL GO HERE -->
 
-## Creating an escalation policy
+### Creating an escalation policy
 
-To create an escalation policy, you will first need to go to the
-[Escalation Policies page](https://gitlab.pagerduty.com/escalation_policies).
-You can locate this by clicking `People` at the top of the page and then
-clicking `Escalation Policies` on the sub-menu that appears.
+The steps to create an escalation policy in Pagerduty are:
 
-From there, click the blue `+ New Escalation Policiy` button. You will then give
-the escalation policy a name and description.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Escalation Policies` to go to the
+   [escalation policies page page](https://gitlab.pagerduty.com/escalation_policies)
+1. Click the blue `New Escalation Policy` button on the top-right of the page
+1. Enter a name for your escalation policy
+1. For the description, enter something sensible that makes it clear what it is
+   for. Ensure you add the issue link that caused the creation.
+1. Set `Send On-Call Handoff Notifications:` to `when in use by a service`
+1. For the first escalation rule:
+   1. Set the `Notify the following users or schedules` to use the schedule or
+      persons for the first level of escalation (if the schedule does not exist
+      yet, use `Support Ops Bot` as a placeholder).
+   1. Set the
+      `escalates after xx min. (must be at least 1 minute for a single target.)`
+      value to what is appropriate for the request.
+1. Click the blue plugs button (or the blue `Add a new Escalation Rule` to add
+   a second escalation rule
+   1. Set the `Notify the following users or schedules` to use the schedule or
+      persons for the first level of escalation (if the schedule does not exist
+      yet, use `Support Ops Bot` as a placeholder).
+   1. Set the
+      `escalates after xx min. (must be at least 1 minute for a single target.)`
+      value to what is appropriate for the request.
+1. Repeat step 8 to add more escalation rules is needed
+1. Click the checkbox next to
+   `If no one acknowledges, repeat this policy xx times` and set it to 5
+1. Click the blue `Save` button on the bottom-right of the page
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
 
-In the `Notify the following users or schedules` section, click the textbox and
-select your user for the time being. You will later replace this with the
-schedule or set of users you wish to utilize.
+### Editing an escalation policy
 
-After doing so, click the blue `Save` button to finish creating the escalation
-policy.
+The steps to edit an escalation policy in Pagerduty are:
 
-## Editing an escalation policy
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Escalation Policies` to go to the
+   [escalation policies page page](https://gitlab.pagerduty.com/escalation_policies)
+1. Use the search on the right-hand side of the page to search for the
+   escalation policy you wish to edit
+1. Click the blue text of the escalation policy once located
+1. Click the `Edit Escalation Policy` button on the top-right of the page
+1. Make the needed modifications
+1. Click the blue `Save` button at the bottom-left of the page
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
 
-To create an escalation policy, you will first need to go to the
-[Escalation Policies page](https://gitlab.pagerduty.com/escalation_policies).
-You can locate this by clicking `People` at the top of the page and then
-clicking `Escalation Policies` on the sub-menu that appears.
+### Deleting an escalation policy
 
-From there, locate the escalation policy you wish to edit and click on the name.
-You will then click the white button on the top-right that reads
-`Edit Escalation Policy`.
+**NOTE** No schedule or user can be using the escalation policy for it to be
+deleted. You might need to edit it first to remove rules and persons first.
 
-From here, you can change the name, description, and escalation rules. After you
-have done so, click the blue `Save` button.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `Escalation Policies` to go to the
+   [escalation policies page page](https://gitlab.pagerduty.com/escalation_policies)
+1. Use the search on the right-hand side of the page to search for the
+   escalation policy you wish to edit
+1. Click the blue text of the escalation policy once located
+1. Click the `Edit Escalation Policy` button on the top-right of the page
+1. Click the red `Delete` button on the bottom-right of the page
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+
+## Pagerduty schedule management
+
+<!-- VIDEO TO BE CREATED AND WILL GO HERE -->
 
 ### Creating a schedule
 
-To create a schedule, you will first need to go to the
-[Schedules page](https://gitlab.pagerduty.com/schedules). You can locate this by
-clicking `People` at the top of the page and then clicking `On-Call Schedules` on the sub-menu that appears.
+NOTE This does not add the schedule to an escalation policy. Until that is done,
+he scehdule is classified as "unused".
 
-From there, click the blue `+ New On-Call Schedule` button at the top-right of
-the page. On this page, you will give your schedule a name, description,
-timezone to use, and layers to use (this contains the list of users and times to
-use). Once you are done, review the preview of the schedule at the bottom of the
-page. If it looks accurate, click the blue `Create Schedule` button at the
-top-right of the page.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `On-Call Schedules` to go to the
+   [schedules page](https://gitlab.pagerduty.com/schedules-new)
+1. Click the blue `New Schedule` button at the top-right of the page
+1. Enter a name for your schedule
+1. For the description, enter something sensible that makes it clear what it is
+   for. Ensure you add the issue link that caused the creation.
+1. Set the timezone to something appropriate
+   * For schedules used only by AMER, the timezone should be
+     `Pacific Time (US & Canada)`
+   * For schedules used only by APAC, the timezone should be `Brisbane`
+   * For schedules used only be EMEA, the timezone should be `Amsterdam`
+   * For schedules used by multiple regions, the timezone should be either `UTC`
+     (preferred) or `Pacific Time (US & Canada)`
+1. Configure your first layer
+   1. Add the users to the layer (the order you add them is very specific, as it
+      will determine the oncall order)
+   1. Set the rotation type to `Weekly`
+   1. Set the `Handoff time` to the first day of the rotation (set the time to
+      the start time for the rotation of that specific day)
+   1. If the layer is does not have persons oncall for every day of the week:
+      1. Click the checkbox next to `Restrict on-call shifts to specific times`,
+         which should cause a pop-up to appear
+      1. Click the radio item next to
+         `Restrict on-call duty to specific times-of-the-week`
+      1. Set the items here to align with the specifications of the request
+         * To add more, click the `+` icon to the far right of each line
+         * To remove one, click the blue `X` icon to the far right of each line
+      1. Click the blue `Apply` button
+   1. Set the `Start time for this layer` to the date for when the schedule
+      should go live (set the time to the start time for the rotation of that
+      specific day)
+1. Click `Add Another Layer` if multiple layers are required
+1. Repeat step 7 for the new layer(s)
+1. Review the rendered schedule to ensure it aligns with the specifications for
+   the request
+1. Click the blue `Save Schedule` button
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update
+   [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 
-**Note**: Step 3 of a layer let's you specify _when_ a layer applies. This is
-important when creating or making schedules that should be applied at a future
-point and not right now. Changes to this will reflect in the schedule preview,
-so make sure to review it carefully.
+### Modifying a schedule
 
-### Editing a schedule
+**NOTE** These should never be scheduled for the same day, as they often impact
+others. Review [our workflows](../workflows/pagerduty.html) on managing
+pagerduty for more information.
 
-To create a schedule, you will first need to go to the
-[Schedules page](https://gitlab.pagerduty.com/schedules). You can locate this by
-clicking `People` at the top of the page and then clicking `On-Call Schedules` on the sub-menu that appears.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `On-Call Schedules` to go to the
+   [schedules page](https://gitlab.pagerduty.com/schedules-new)
+1. Search for the name of the schedule using the search-bar
+1. Click on the blue name of the schedule you wish to edit
+1. Click the `Edit this Schedule` button on the top-right of the page
+1. Make the needed changes to the layer(s) of the schedule
+1. Review the rendered schedule to ensure it aligns with the specifications for
+   the request
+1. Click the blue `Save Schedule` button at the bottom-left of the page
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update
+   [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 
-From there, locate thr schedule you wish to edit and click on the name of the
-schedule. After doing so, click the white `Edit this Schedule` button at the
-top-right of the page.
+### Deleting a schedule
 
-On this page, can edit the schedule a name, description, timezone to use, and
-layers to use (this contains the list of users and times to use). Once you are
-done, review the preview of the schedule at the bottom of the page. If it looks
-accurate, click the blue `Save Changes` button at the top-right of the page.
+**NOTE** You cannot delete a schedule while it is still present on an escalation
+policy. You need to remove it first.
 
-**Note**: Step 3 of a layer let's you specify _when_ a layer applies. This is
-important when creating or making schedules that should be applied at a future
-point and not right now. Changes to this will reflect in the schedule preview,
-so make sure to review it carefully.
+1. Login to [pagerduty](https://gitlab.pagerduty.com/)
+1. Hover over `People` and click `On-Call Schedules` to go to the
+   [schedules page](https://gitlab.pagerduty.com/schedules-new)
+1. Search for the name of the schedule using the search-bar
+1. Click on the blue name of the schedule you wish to delete
+1. Click the red `Delete this Schedule`
+1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update
+   [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 
 ## Useful links
 
-* [GitLab Pagerduty](https://gitlab.pagerduty.com/)]
+* [GitLab Pagerduty](https://gitlab.pagerduty.com/)
 * [Pagerduty Users page](https://gitlab.pagerduty.com/users)
 * [Pagerduty Escalation Policies page](https://gitlab.pagerduty.com/escalation_policies)
 * [Pagerduty Schedules page](https://gitlab.pagerduty.com/schedules)
+* [Our Pagerduty workflows](../workflows/pagerduty.html)
