@@ -304,3 +304,31 @@ Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes
 1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
 
  </details>
+
+ ### Process to Request Updates to Territory Ownership
+
+ #### Territory Ownership (Sales)
+
+1. Create an issue in the Sales Operations project - utilizing the [Territory Change Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=Territory_Change_Request).
+2. Follow the directions within the template and provide all requested details.
+    - If an Individual Contributor is requesting the change, add your manager to the `/assign` command.
+    - If a Manager is requesting the change, submit the issue and it will auto-assign to Sales Ops.
+3. Sales Operations will update SFDC.
+4. Sales Operations will make the change on the Territory Management document.
+5. Sales Operations will update LeanData.
+6. Territory Management updates will be uploaded to LeanData by Sales Operations.
+
+#### Territory Ownership (ISR)
+
+1. Create an issue in the Sales Operations project - utilizing the [ISR Territory Change template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange).
+2. Follow the directions within the template and provide all requested details.
+3. Sales Operations and Sales Systems to update SFDC.
+4. Sales Operations to update the [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).
+5. To request ISR ownership exceptions for individual opportunities, please chatter your ISR manager on the opportunity for approval before looping in Sales-Support.
+If the opportunity is in a closed period, the ISR Manager and Sales Comp need to approve having the ISR added to the opportunity before tagging Jesse Rabbits directly to make the update. 
+    - Note: Only James Harrison or Jesse Rabbits can update closed opportunities at this time. 
+
+**Warning:** Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
+
+Questions? Ask in the #sales Slack channel and ping @sales-ops.
+
