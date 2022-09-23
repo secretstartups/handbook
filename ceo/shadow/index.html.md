@@ -199,8 +199,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-10-17 | 2022-10-21 | NO SHADOWS | NO SHADOWS |
 | 2022-10-24 | 2022-10-28 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA  | AVAILABLE - REMOTE |
 | 2022-10-31 | 2022-11-04 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | 
-| 2022-11-07 | 2022-11-11 | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager | AVAILABLE - REMOTE |
-| 2022-11-14 | 2022-11-18 | AVAILABLE - REMOTE | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
+| 2022-11-07 | 2022-11-11 | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications |
+| 2022-11-14 | 2022-11-18 | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
 | 2022-12-05 | 2022-12-09 | AVAILABLE - REMOTE  | AVAILABLE - REMOTE  |
