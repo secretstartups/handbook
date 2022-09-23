@@ -16,25 +16,19 @@ We are responsible for developing solutions to give customers insights into thre
 
 ## Common Links
 
-* Slack channel: #g_govern_threat_insights
-* Slack alias: @threat_insights_be
+* Slack channels:
+  * Main channel: [`#g_govern_threat_insights`](https://gitlab.slack.com/archives/CV09DAXEW/p1663788936706469)
+  * Stand-up updates: [`#g_govern_threat-insights_standup`](https://gitlab.slack.com/archives/C01U7T6DPNY)
+  * Engineering team Navy: [`#g_govern_threat_insights_navy`](https://gitlab.slack.com/archives/C042WT4PJN9)
+  * Engineering team Tangerine: [`#g_govern_threat_insights_tangerine`](https://gitlab.slack.com/archives/C043G312PHS)
+* Slack aliases: `@govern_threat_insights_be`, `@govern_threat_insights_fe`
 * Google groups: eng-dev-secure-threat-insights-members@gitlab.com
 
 ## How we work
 
 ### Prioritization
 
-We use our [Threat Insights Priorities](https://gitlab.com/gitlab-org/gitlab/-/issues/299275) issue to track what we are doing, and what order to do it in.  Each initiative includes these fields:
-
-1. Name - Description and link to the epic
-1. BE DRI / FE DRI - indicates the backend and frontend [DRIs](/handbook/engineering/development/sec/govern/planning/#epic-engineering-dri) who will be actively involved. 
-1. Status
-   - Not started: No implementation issues should be scheduled. There is likely a Design issue in progress, and there may be issues in planning breakdown. We may have implementation issues if we're planning to start it soon.
-   - Started: The scope of the epic should be locked-down, and we have implementation issues scheduled.
-   - Complete: Epic is code complete and is in production but may be behind a feature flag. The epic may contain open issues; in this case the issues may be moved to a new epic.
-1. Comment - Additional details or capacity needs
-
-Complete items are removed from the table once the code is in production without a feature flag, and a release post, if applicable, has been merged. The epic is closed at this point.
+We use our [Threat Insights Priorities](https://gitlab.com/groups/gitlab-org/-/epics/8544) issue to track what we are doing, and what order to do it in.
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Threat Insights" } %>
 
@@ -91,11 +85,8 @@ It's advisable to run the QA job on the latest pipeline at least once during the
 
 ## Monitoring
 
-- [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-group-dashboard-secure-threat-insights?orgId=1)
-
-## Largest Contentful Paint (LCP) 
-
-As part of FY22-Q1 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-domains=gitlab_com&var-pages=Secure_Instance_Dashboard_Settings&var-pages=Secure_Instance_Security_Dashboard&var-pages=Secure_Instance_Vulnerability_Report&var-pages=Secure_Group_Security_Dashboard&var-pages=Secure_Group_Vulnerability_Report&var-pages=Secure_Project_Security_Dashboard&var-pages=Secure_Project_Vulnerability_Report&var-pages=Secure_Standalone_Vulnerability&var-browser=chrome&var-connectivity=cable&var-function=median).
+- [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-threat-insights-group-dashboard)
+- [Largest Contentful Paint (LCP)](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-domains=gitlab_com&var-pages=Secure_Instance_Dashboard_Settings&var-pages=Secure_Instance_Security_Dashboard&var-pages=Secure_Instance_Vulnerability_Report&var-pages=Secure_Group_Security_Dashboard&var-pages=Secure_Group_Vulnerability_Report&var-pages=Secure_Project_Security_Dashboard&var-pages=Secure_Project_Vulnerability_Report&var-pages=Secure_Standalone_Vulnerability&var-browser=chrome&var-connectivity=cable&var-function=median) for our web pages.
 
 ## Contributing
 
