@@ -543,26 +543,53 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 - [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
 
 
-## Account Ownership Rules of Engagement for Commercial Sales
+## Account Ownership Rules of Engagement for Commercial Sales updated 2022-09-22
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
+The Commercial Sales Team follows the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
 
-1. Check **Datafox** data - wholly wrong? Go to step 2
-1. Check **Zoominfo** data - wholly wrong? Go to step 3
-1. Check **LinkedIn** Data - wholly wrong?
-1. Search for **3rd party resources** which provide SMB/MM segment prove (only needed when 1 of the above resources do not provide leading data to go with)
-1. Paste the source and the gaps all found that led you to it in Chatter on the `Account level` and **cc VP Commercial Sales** to review
-1. VP of Commercial Sales will provide the leading decision
+Account will be organized into the following two categories:
+1. Accounts who were customers before February 1st of the fiscal year
+1. Accounts who became customers on or after February 1st of the fiscal year
 
-**Note:**
+#### Accounts who became customers before February 1st of the fiscal year will follow this process:
 
-- **Priority order:** only go to the next source IF the data number is wholly wrong / inaccurate
-- **REQUIRED:** `Never` ask the customer/prospect to provide information on the company size
-- **Currently:** Leading decision will be based on the fact if the Account was SMB/MM segment during the **Feb 2019 size clean up**
-- **From Q4 on** - Leading decision will be based on the fact if Account was SMB/MM segment based on the **Nov 2019 size clean up**
+It is the responsibility of the Account Executive who owns the account to qualify how many employees the account has prior to February 1st.
+Accounts who have less than 100 employees on or before February 1st will be owned by SMB for the fiscal year
+Accounts who have 100 or more employees on or before February 1st will be owned by Mid Market for the fiscal year
+
+- As an Account Executive, if you qualify an account and are unsure of the rules of engagement by the number of employees or corporate address, you should screenshot the data you are reviewing, post it on the account in chatter and edit Account Rank Notes. Tag your Area Sales Manager when research is complete for further review by @ mentioning them. If the ASM has reviewed the data provided by the Account Executive as well as doing their own due diligence and is unsure of the rules of engagement, they should screenshot their research, post it on the account in chatter and tag the Regional Director for review by @ mentioning them. Finally, if a Regional Director is unsure of the rules of engagement after reviewing the data provided and doing their own due diligence, they should screenshot their research, post it on the account in chatter and tag the Regional Vice President for review and final decision. All final decisions for Commercial account and opportunity ownership are up to the sole discretion of the Regional Vice President of the Commercial Division. 
+
+#### Accounts who became customers on or after February 1st of the fiscal year
+
+Accounts will be separated into the following categories
+
+1. Sales Assisted First Order
+1. Web Direct First Order
+
+For sales assisted first orders, it is the responsibility of the account executive who conducts the initial discovery with the prospect to research and qualify the number of employees and headquarter location for the account. 
+If the account has less than 100 employees the account will be managed by SMB for the remainder of the fiscal year
+If the account 100 employees or greater the account will be managed by Mid Market for the remainder of the fiscal year
+If the account has greater than 500 employees or greater than 100 LAM dev please see the Rules of Engagement Between MMKAFO and Mid-Market Territory for FY '23 for proper lead routing
+
+For web direct first orders we understand there may be a degree of differentiation of actual employee count versus what our systems capture based on the tools utilized to enrich data. It is the responsibility of the Account Executive who owns the first order to identify the correct number of employees after the web direct first order and ensure that the employee count is not "wholly wrong". Wholly wrong is used only for accounts that upon initial assignment are assigned by automation i.e. no team member reviewed them at first transaction. 
+
+Wholly wrong is defined as the following
+Mid Market owned accounts with less than 80 employees
+SMB owned accounts with greater than 120 employees
+
+If an account is wholly wrong, it is the responsibility of the account owner to chatter @sales-support to reassign the first order and the account to the correct segment. 
+
+If an account is not wholly wrong but above or below the segment line (respectively) is it the responsibility of the account owner to chatter @sales-support to flag the account to move to the appropriate segment at the beginning of the following fiscal year. 
+
+All accounts that are not researched or identified as being assigned to the wrong segment will be reassigned.
+
+If the AE qualifies this and then keeps it, this can lead to disciplinary action.
+
+
+As part of the qualification process tt is expected to qualify the location of company headquarters and employee count so we can best support the customer. It is not acceptable to qualify location and employee count in a manner that jeopardizes the customer experience. If you are unsure, always tag your manager in chatter to review the data before involving the customer. 
 
 ### Rules of Engagement Between MMKAFO and Mid-Market Territory for FY '23
 
