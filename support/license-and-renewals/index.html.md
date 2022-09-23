@@ -43,7 +43,7 @@ are:
 
 * Overall DRI: Shaun McCann
 * Collaborating with Sales: Mike Dunninger
-* Collaborating with Fulfillment: Tom Atkins
+* Collaborating with Fulfillment: John Lyttle
 * Coordinating Mechanizer development: Ronnie Alfaro
 
 ### Support Stable Counterparts
