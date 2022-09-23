@@ -1,0 +1,53 @@
+---
+layout: handbook-page-toc
+title: "Marketo Tech Stack Guide"
+description: "Reference for how Zuora Revenue is implemented."
+---
+
+{::options parse_block_html="true" /}
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Marketo Tech Stack Guide
+
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+
+<% data.tech_stack.each do |stack| %>
+<% if stack.title == "Marketo" %>
+- **Description:** <%= stack.description %>
+- **Provisioner:** <%= stack.provisioner %>
+- **Deprovisioner:** <%= stack.deprovisioner %>
+- **Okta Enabled:** <%= stack.need_move_to_okta %>
+- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
+<% end %>
+<% end %>
+
+### Implementation
+
+TBD
+
+### System Diagrams
+
+TBD
+```
+### Data Model
+
+TBD
+
+### Integrations
+
+TBD
+
+### Key Reports / Dashboards
+
+TBD
+
+
+
