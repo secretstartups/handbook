@@ -60,7 +60,7 @@ Follow the README instructions for setting your local development environment.
 
 -   Create a GitLab account and [set up SSH keys](https://docs.gitlab.com/ee/user/ssh.html).
     
--   [https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md)
+-   [https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
     
 -   If you don’t know VueJS 2.0, you can get started on this [guide](https://v2.vuejs.org/v2/guide/)
     
