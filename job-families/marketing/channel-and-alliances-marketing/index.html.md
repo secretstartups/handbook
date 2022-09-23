@@ -53,7 +53,7 @@ This team works from a global charter to develop key services offerings and repe
 
 ### Job Grade
 
-The Channel Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -94,7 +94,7 @@ This team works from a global charter to develop key services offerings and repe
 
 ### Job Grade
 
-The Senior channel marketing manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -185,7 +185,7 @@ The Senior Partner Program manager, Programs reports to the Director of Global C
 
 ### Job Grade
 
-The Senior Partner Program manager, Programs is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Program manager, Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -228,7 +228,7 @@ The Senior Partner Program manager, Executive Engagement reports to the Director
 
 ### Job Grade
 
-The Senior Partner Program manager, Executive Engagement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Program manager, Executive Engagement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -273,7 +273,7 @@ Alliances Marketing Managers are responsible for driving alliance marketing prog
 
 ### Job Grade
 
-The Alliances marketing manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Alliances Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
