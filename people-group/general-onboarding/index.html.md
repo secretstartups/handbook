@@ -132,4 +132,4 @@ All onboarding related employment templates (country and role based) can be foun
 * [Support team onboarding](/handbook/support/training/)
 * [SRE onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
 * [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
-* [UX Researcher onboarding](/handbook/product/ux/uxresearcher-onboarding/)
+* [UX Researcher onboarding](/handbook/product/ux/ux-research/)
