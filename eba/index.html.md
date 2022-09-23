@@ -23,7 +23,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Aimee David supporting Sid Sijbrandij (CEO) and Stella Treas (CoS)
 * Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
-* Jennifer Garcia (EBA) supporting David DeSanto (VP of Product)
+* Gena Schwam (Sr. EBA) supporting David DeSanto (VP of Product)
 
 
 
