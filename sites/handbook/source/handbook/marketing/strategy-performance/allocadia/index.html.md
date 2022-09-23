@@ -111,6 +111,8 @@ This button allows users to delete a line item or category.. The Delete button i
 
 This button can be used to request funds from another department. Specific approvers have been set up in Allocadia to be notified by email and can approve or deny the transfer. See more details in the Budget Reallocation link above. Note that on the Home page, the `transfer` will show in red until it has been resolved.
 
+To see what transfers have been made, from the activity plan you're interested in digging into, click the transfers column and sort by the status youre interested in learnign more about. [Video walk through](https://www.youtube.com/watch?v=jKtgDtuo-Hc). (Must be logged into Unfiltered.)
+
 ##### Within the grid
 
 - Hierarchy - this is where categories, subcategories and the line items are organized.
