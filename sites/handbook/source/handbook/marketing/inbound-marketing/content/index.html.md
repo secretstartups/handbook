@@ -97,6 +97,8 @@ All content should have a distribution strategy. It's generally better to have f
 
 ### Building a distribution plan
 
+The **[Content in Campaigns Handbook Page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)** has a detailed process to enable distribution across all marketing channels (email, paid digital, social, etc.). Please be sure that the Marketing Campaigns team is aware of all new content being created, so that they can follow the epic/issue creation process far in advance of content being delivered.
+
 Aim for [a boring solution](/handbook/values/#boring-solutions). 
 
 1. Create an issue in the Corporate Marketing project to request consideration from our Corporate Communications (and PR agency partners). Create this issue as soon as you aware that an asset will exist, even if it's months in advance. This provides maximum runway for our communication partners to plan and amplify your content. Even if you're unsure if an asset is pitchable, create the issue and share in the `#external-comms` Slack channel. It is better to be told that an asset does not fit into a communications plan than to not share. 
