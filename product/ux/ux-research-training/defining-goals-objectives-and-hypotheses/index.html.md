@@ -41,7 +41,7 @@ A strong hypothesis is usually driven by existing evidence. Ask yourself: Why do
     * What questions does the research need to answer?
     * What are we trying to learn?
     * What *must* the research achieve?
-    * Does any [prior research](/handbook/product/ux/ux-research/#how-to-find-existing-research) exist? 
+    * Does any [prior research](/handbook/product/ux/ux-research-training/finding-existing-research/#how-to-find-existing-research) exist? 
         * What did prior research tell us?
 
 | **Start thinking of a problem** | **Questions we need answers to** | **Hypothesis** | **Goal** | **Objectives**
