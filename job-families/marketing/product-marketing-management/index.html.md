@@ -9,7 +9,7 @@ The Manager, Product Marketing reports to the Director of Product Marketing.
 
 #### Manager, Product Marketing Job Grade 
 
-The Manager, Product Marketing is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Product Marketing Responsibilities
 
