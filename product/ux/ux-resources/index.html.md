@@ -90,7 +90,7 @@ Coming soon.
 
 ## Research resources
 
-The following resources may be helpful to UX Researchers, Product Designers, and Product Managers, since all of these roles conduct user research. For more information, see the [UX Research](/handbook/product/ux/ux-research/#remote-design-sprint) section of the handbook.
+The following resources may be helpful to UX Researchers, Product Designers, and Product Managers, since all of these roles conduct user research. For more information, see the [UX Research](/handbook/product/ux/design-sprint/#remote-design-sprint) section of the handbook.
 
 ### UX Research project
 

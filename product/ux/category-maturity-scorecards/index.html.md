@@ -26,7 +26,7 @@ Sometimes the JTBD you need to evaluate occurs over a period of time, such as a 
 
 Occasionally, teams run into situations where they learn something surprising from a CM Scorecard -- for example, even though the score for this single research initiative is high enough to move maturity up, they believe based on the findings that it's not ready, yet. In this case, the Product Manager and Product Designer should use their good judgement about addressing fundamental problems before changing maturity and communicate that decision to stakeholders.
 
-If you have questions, suggestions for improvement, or find this process doesn’t meet the needs of your users or product category, reach out to the [UX Researcher for your group](/handbook/product/ux/ux-research/#ux-researcher-assignments).
+If you have questions, suggestions for improvement, or find this process doesn’t meet the needs of your users or product category, reach out to the [UX Researcher for your group](/handbook/product/categories/).
 
 Any Category Maturity Scorecard effort should have a corresponding issue created in the GitLab UX Research project. Ensure the label `CM Scorecard` is applied to the issue to aid in tracking UX research efforts.
 
