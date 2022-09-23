@@ -43,9 +43,14 @@ To see an overview of the FY23 ABM Plan, GitLab team members can search Google D
 
 **OKRs = Objective + Key Result**
 
-#### FY23-Q2 OKRs (https://gitlab.com/groups/gitlab-com/marketing/-/epics/2825)
+#### FY23-Q3 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3192))
 
-- [Update ICP in Demandbase in collaboration with Product Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2827)
+- [Uplift engagement by 50% in 1:1 accounts and 30% in 1:few accounts](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/1059)
+- [Deliver 90 SAOs out of Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3287)
+- [Refresh Key Account List with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3293)
+
+#### FY23-Q2 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2825))
+
 - [Deliver 90 SAOs from Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2826)
 
 #### FY23-Q1 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
