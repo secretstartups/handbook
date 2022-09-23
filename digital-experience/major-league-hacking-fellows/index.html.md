@@ -40,9 +40,9 @@ Please list all stakeholders (name, email, title/role) who will be involved with
 | Lauren Barker| maintainer | @laurenbarker |
 | Megan Filo | maintainer | @meganfilo |
 | [Gideon Tong](https://www.linkedin.com/in/gideontong/)| MLHF Pod Leader |  |
-| [Chukwuemeka Mba](http://linkedin.com/in/emekamba)| MLHF Fellow | |
-| [Uy Seng](http://linkedin.com/in/uy-seng-704843196)| MLHF Fellow | |
-| [Seung Yoo](http://linkedin.com/in/seungmin-yoo-01376932)| MLHF Fellow | |
+| [Chukwuemeka Mba](http://linkedin.com/in/emekamba)| MLHF Fellow | @Chukwuemeka-Mba|
+| [Uy Seng](http://linkedin.com/in/uy-seng-704843196)| MLHF Fellow | @nova44056 |
+| [Seung Yoo](http://linkedin.com/in/seungmin-yoo-01376932)| MLHF Fellow | @SssngM |
 
 #### Fellow Technical Onboarding
 
@@ -78,10 +78,10 @@ Please identify and describe the deliverables for your project(s) and the ideal 
 
 | **Issue**      | **Description** | **Assignee** | **Deadline** |
 | ----------- | ----------- | ----------- | ----------- |
-| [Vertically align dropdown caret](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/194)| Vertically align dropdown caret |  TBD | October, 17th |
+| [Vertically align dropdown caret](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/194)| Vertically align dropdown caret | Seung Yoo | October, 17th |
 | [Loading components](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/204)| Vertically align dropdown caret |  TBD | October, 17th |
-| [Create tooltip component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/205)| Create a accordion component in the design system |  TBD | November, 17th |
-| [Loading components](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/204)| Vertically align dropdown caret |  TBD | October, 17th |
+| [Create tooltip component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/205)| Create a accordion component in the design system |  Chukwuemeka Mba | November, 17th |
+| [Loading components](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/204)| Vertically align dropdown caret | Uy Seng (Wei)| October, 17th |
 | [ENG: Accessible and compliant dropdowns](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/132)| Iterate on dropdown component to. be accessible |  TBD | November, 17th |
 | [Implement the Storybook/Figma plugin](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/168)| Implement the Storybook/Figma plugin and make it available for use in the project |  TBD | November, 17th |
 | More issues if there's capacity from fellows|  TBD | TBD |  December, 17th |
