@@ -44,4 +44,4 @@ With our mission and objectives in mind, we are taking a goal-oriented approach 
 ## How to Participate
 * Join the [Google Group](https://groups.google.com/a/gitlab.com/g/globalvoices/)
 * Join the [#global-voices-tmrg](https://gitlab.slack.com/archives/C03UHGX4F1P) Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself and tell us where you are based when you join the channel!
-* Open an issue on our GitLab project, https://gitlab.com/gitlab-com/global-voices-tmrg
+* Open an issue on our GitLab project, [gitlab-com/global-voices-tmrg](https://gitlab.com/gitlab-com/global-voices-tmrg)
