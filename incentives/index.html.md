@@ -16,28 +16,6 @@ The following incentives are available for GitLab team members. Also see our sep
 
 ### Discretionary Bonuses
 
-#### Discretionary Bonuses per Team Member
-
-The number of discretionary bonuses given divided by the total number of team members, in a given period as defined. The discretionary bonuses per team member target is > 0.1. This analysis can be found on the [People Group Dashboard](https://app.periscopedata.com/app/gitlab/482006/People-Group-KPIs).
-
-Discretionary bonuses are measured in Workday, as are the number of team members, in a given period as defined.
-
-1. Calculate the number of the discretionary bonuses per month
-  * Pull the "GitLab Team Member Discretionary Bonus" Report from Workday.
-  * Add the report to the metrics spreadsheet. Remove all data for bonuses other than discretionary bonuses and those not within the last rolling 12 months.
-  * Populate the Last Rolling 12 Months Expense Table
-1. Determine the percentage of bonuses granted for the Company
-  * Using a pivot table, add in the count per month as well as headcount as of the last day of the month.
-  * The formula will convert this to a percentage.
-1. Determine the spread of bonuses granted by Division
-  * Using the report filtered in the first section, generate a pivot table around the number of bonuses granted by division for the metrics month currently under review. For example, on July 1st you would be looking at the June metrics.
-  * Pull the headcount report to add in the number of people in each division for that month.
-  * The formulas will determine the percent per division on bonuses granted
-  * Review the delta of the percent of headcount granted a bonus and add it to the Prior Change Column.
-1. Outline any large deltas and note any takeaways for review at the next monthly metric meeting for People Ops.
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/fe963ce6-510e-44ac-88f0-052002b6dc30?embed=true" height="2400"> </iframe>
-
 #### Discretionary Bonuses for Individuals
 
 1. Every now and then, individual GitLab team members really shine as they live our values.  We especially like to celebrate the special moments that exemplify the behavior we want to see in all GitLab team members.
@@ -83,7 +61,7 @@ In particular, X's implementation of a Global Navigation and GitLab iconography 
 
 * I’d like to nominate X for a discretionary bonus for exhibiting the values for results, efficiency, and collaboration. While the whole backend engineers in the X team were OOO, despite it wasn’t his team, X stepped in and handled a problem (link) that was blocking a deploy. X was able to debug the problem, not an easy one by the way, communicate it to the different counterparts, and also fix it. X also spotted that it could affect other features and provide a way to fix them as well.
 
-* I am nominating X for the values efficiency and results for the Nominator Bot. This bot assists us to nominate a team member for Discretionary Bonus without logging into BambooHR. This new bot speeds up the process probably by half the time it took to get approvals (for both me that administers the process and managers for approval) and directly now impacts our PI to increase discretionary bonuses. X is managing all the debugging and going above and beyond to solve any problems, without anyone asking X or having to follow up and this is out of scope of "just building a nominator" bot.
+* I am nominating X for the values efficiency and results for the Nominator Bot. This bot assists us to nominate a team member for Discretionary Bonus without logging into Workday. This new bot speeds up the process probably by half the time it took to get approvals (for both me that administers the process and managers for approval) and directly now impacts our PI to increase discretionary bonuses. X is managing all the debugging and going above and beyond to solve any problems, without anyone asking X or having to follow up and this is out of scope of "just building a nominator" bot.
 You can read more about the process in [our handbook](/handbook/incentives/#nominator-bot-process)
 
 *Examples of invalid discretionary bonus*
@@ -121,7 +99,7 @@ If you received the same nomination twice (for the same person and the same reas
 
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
-**Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR.
+**Note:** Kindly use Nominator Bot for discretionary bonus requests instead of Workday.
 
 ##### Nominator Bot Process
 
@@ -151,7 +129,7 @@ graph TD;
   F -->|Approve| L;
   L{People Connect}
   L -->|Reject| M[Bot logs];
-  L -->|Approve| N[Bot logs and sends to BambooHR];
+  L -->|Approve| N[Bot logs and sends to Workday];
 ```
 
 #### Working Group Bonus
@@ -176,7 +154,7 @@ graph TD;
 
 **Manager Process**
 
-1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday
+1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday.
 
 **Approval Process:**
 
@@ -187,7 +165,7 @@ graph TD;
 
 #### Communicating Discretionary Bonuses
 
-As a general rule, the nominated team member's direct manager should be the only person who communicates discretionary bonuses. The manager will receive final notification via BambooHR or the nominator bot (depending on where the nomination process was initiated) and will know when the nomination has gone through all levels of approval.
+As a general rule, the nominated team member's direct manager should be the only person who communicates discretionary bonuses. The manager will receive final notification via the nominator bot and will know when the nomination has gone through all levels of approval.
 
 The exception to this rule could be for working group bonuses if a single person nominated a group. If the nominator would like to announce on behalf of the group, they should:
 * **Confirm that all bonuses have gone through all layers of approval**
@@ -196,11 +174,6 @@ The exception to this rule could be for working group bonuses if a single person
 #### Discretionary bonus reporting
 
 On a quarterly basis there's a review of the discretionary bonuses data. This includes: # approved per manager, # rejected per manager and any trends on the reason for rejection. This way we can act on any trends and ensure an efficient and consistent process across the whole organization.
-
-#### GitLab Anniversaries
-
-At 10:00 UTC on Thursday of every week, `PeopleOps Bot` slack bot will send a shout out on the `#team-member-updates` channel congratulating all team members who celebrates a hire date anniversary that week.
-Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniversary-gifts) section for more information about the gifts.
 
 ### Real Examples of Real Team Members Who Received Bonuses for Doing Great Things
 
@@ -231,7 +204,7 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
 Each fiscal year the GitLab Awards program recognizes team members who made great impact as a result of displaying our [Values](/handbook/values/#credit). The GitLab Awards Program consists of two different types of awards: The DZ Award and Values Awards. Generally we open the window for nominations in the fourth quarter of the fiscal year. Winners will be announced before the end of the fiscal year.
 
 #### The DZ Award
-In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://gitlab.edcast.com/insights/dz), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions).
+In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://levelup.gitlab.com/learn/video/dz-video), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions).
 
 The DZ award details:
 - The recipient of The DZ award will receive a one time cash bonus equivalent to $10,000 USD at using the local exchange rate. This is designed to honor DZ's 10 years of contributions to GitLab and the recipient's role in continuing DZ's legacy.
@@ -317,13 +290,13 @@ The following is an *example* of a cumulative Referral Bonus:
 
 For information regarding the program details and team member eligibility and understanding, please visit our [guide in the Hiring section of GitLab's handbook](/handbook/hiring/referral-process/).
 
-If a team member has been referred, the People Connect team will review team members' self-identification data in BambooHR including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Connect team will edit the referrer's referral bonus as applicable. People Connect will confirm the bonus amount when it is entered into BambooHR and will process the bonus.
+If a team member has been referred, the People Connect team will review team members' self-identification data in Workday including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Connect team will edit the referrer's referral bonus as applicable. People Connect will confirm the bonus amount when it is entered into Workday and will process the bonus.
 
 * Exceptions
    * no bonus for hiring people who report to you directly or are in your direct reporting chain,
    * no bonus for a current executive team member (VP and above) who's referral is hired,
    * no bonus if you refer current team members,
-   * no bonus for referring a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/),
+   * no bonus for referring a Boomerang Team Member (returning team member),
    * no bonus for a referring team member will be applicable if the team members employment is terminated prior to the referral bonus payout date. You need to be an active team member.
 
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
@@ -342,7 +315,12 @@ If a team member has been referred, the People Connect team will review team mem
 
 1. Talent Acquisition Manager will track all referrals set to hired in the time period of Add-on campaign.
 2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referred new hire's 3 month employment at GitLab.
-3. People Connect will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
+3. People Connect will follow [steps outlined above](/handbook/incentives/#referral-bonus-in-processing)
+
+#### GitLab Anniversaries
+
+At 10:00 UTC on Thursday of every week, `PeopleOps Bot` slack bot will send a shout out on the `#team-member-updates` channel congratulating all team members who celebrates a hire date anniversary that week.
+Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniversary-gifts) section for more information about the gifts.
 
 ### Get Together Grant
 
