@@ -119,8 +119,8 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
 
 ## Scheduling for David DeSanto, VP Product 
-* Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with EBA, Jennifer Garcia
-* All meeting requests should go through the EBA for Product, Jennifer, and should include an agenda doc
+* Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with Sr. EBA, Gena Schwam
+* All meeting requests should go through the Sr. EBA for Product, Gena, and should include an agenda doc
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
 * 1:1's with direct reports should occur weekly unless scheduling conflicts
 * Biweekly Product Meeting and Weekly Product Leadership meetings cannot be scheduled over
