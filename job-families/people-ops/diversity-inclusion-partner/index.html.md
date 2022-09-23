@@ -121,14 +121,14 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 8](/handbook/total-r
 #### Manager, Diversity Inclusion, and Belonging Responsibilities
 - Extends the Diversity, Inclusion, and Belonging Partner responsibilities
 - Partner with People Group Leaders to publish an easily understood DIB plan  
-- Provide coaching and development to DIB team members to aid their career advancement - monitoring  progress of issues and mentor / coach DIB team members on how to get issues to fruition.  Analysis and monitor capacity of DIB team and drive efficiencies and automations to free up capacity as identified
-- Translate GitLab's DIB aspiration and plan into programmatic outcomes and an implementation roadmap.  Defining roles and responsibilities of the DIB team in alignment with GitLab's overall goals. Efficiently manage programs against approved DIB budgets. Conduct quarterly reviews of DIB sponsorships in an effort to understand and maintain budget allotment and spend.  Advise necessary adjustments to the sponsorship process. Prepare DIB materials as needed for inclusion in presentations
-- Serves as an DIB subject matter expert by giving perspective, insights, and knowledge in a consultative manner; partnering with all leaders and team members to implement DIB initiatives.  Work closely with the E Group and all leaders across the company to advise, influence, build practices and drive implementation of programs to affect the Company’s DIB strategy
-- Partner with Communications, Legal, Recruiting and other internal teams to produce GitLabs Annual DIB, survey, DIB messaging for GitLab, CEO, ICs, TMRGs, leaders, etc.  Act as DIB contact point when working with CEO and PR teams both internal and external on company DIB responses.  Provide additional guidance in support to the DIB Partner and or Specialist of GitLabs TMRGs in how they can align to work being done on the leadership and executive level, growth opportunities, connection opportunities, etc
-- Partner with and advise Recruiting, Talent Brand teams and partner resources to ensure the attraction and engagement of a talented and diverse workforce.  Determine DIB related surveys to participate, in an effort to increase GitLabs DIB brand, opportunities for benchmarking against other companies and increase talent brand/attraction
+- Provide coaching and development to DIB team members to aid their career advancement - monitoring  progress of issues and mentor / coach DIB team members on how to get issues to fruition.  
+- Efficiently manage programs against approved DIB budgets. 
+- Conduct quarterly reviews of DIB TMRGs in an effort to understand and maintain budget allotment and spend.  
+- Advise necessary adjustments to the TMRG process. 
+- Prepare DIB materials as needed for inclusion in presentations
+- Serves as an DIB subject matter expert by giving perspective, insights, and knowledge in a consultative manner; partnering with all leaders and team members to implement DIB initiatives.  
+- Provide additional guidance in support to the DIB Partner and or Specialist of GitLabs TMRGs in how they can align to work being done on the leadership and executive level, growth opportunities, connection opportunities, etc  
 - In partnership with PBP and leaders, develop strategies for their respective departments based on metrics  
-- Represent GitLab in various DIB related media/press discussion, interviews, etc
-- Maintain relationships with diversity related orgs and community, with the intention of working together and improving GitLab brand
 - Serve as a subject matter expert and partner to the business by continuously analyzing and presenting talent demographics, monitoring data trends, and providing insights into the metrics collected
 
 #### Manager, Diversity Inclusion, and Belonging Requirements
@@ -136,7 +136,6 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 8](/handbook/total-r
 - 7+ years of experience in human resources or related business experience
 - 5+ years of experience leading diversity projects, diversity sourcing initiatives, and/or recruiting initiatives
 - 3+ years leadership experience, preferably in the DIB space
-- 3+ years of strong people management experience 
 - [Bias towards action](/handbook/values/#bias-for-action) 
 - Proven ability to achieve results 
 - Excellent program / project management and analytical skills
