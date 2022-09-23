@@ -128,7 +128,7 @@ Please refer to the [Company Pension Plan FAQ](https://drive.google.com/file/d/1
 
 ### Salary Sacrifice
 
-From November 2019 GitLab will be offering the option to contribute to your Company Pension Scheme via Salary Exchange. As part of this Salary Exchange offering GitLab will be passing on their employer NI saving to you as an employee in the form of an increased pension contribution. You can find more information in the following [document](https://drive.google.com/file/d/1raP4uLizlTIBxZBX7q0h-op9yhWFVOYT/view?usp=sharing) detailing the benefits and potential disadvantages of changing to a Salary Exchange arrangement.
+From November 2019 GitLab will be offering the option to contribute to your Company Pension Scheme via Salary Exchange. Please note that you have to request to opt in to the Salary Sacrifice Scheme. You can do so by emailing total-rewards@gitlab.com. As part of this Salary Exchange offering GitLab will be passing on their employer NI saving to you as an employee in the form of an increased pension contribution. You can find more information in the following [document](https://drive.google.com/file/d/1raP4uLizlTIBxZBX7q0h-op9yhWFVOYT/view?usp=sharing) detailing the benefits and potential disadvantages of changing to a Salary Exchange arrangement.
 
 **Salary Sacrifice FAQ**
 * Can we change the amount during the period we're contracted for salary exchange?
@@ -139,7 +139,7 @@ From November 2019 GitLab will be offering the option to contribute to your Comp
     * Your definition of pensionable pay is basic salary the percent will not automatically be applied to the bonus. Should you wish to contribute part of you bonus to your pension pot you can do that.
 * Is it possible to start from any month?
     * Yes it is; it would be processed on the next available payroll.
-* How do I make changes to my salary sacrifice amount?
+* How do I opt in or make changes to my salary sacrifice amount?
     * Email total-rewards@gitlab.com with the new percentage of your salary that you would like to sacrifice.
 
 ### Auto-Enrollment
@@ -155,13 +155,13 @@ If an employee does not meet these criteria then they will be considered an **En
 - **Entitled workers** must be offered the opportunity to join the pension scheme. They can make contributions to the pension scheme if they choose. However, there is no requirement for GitLab to make a contribution
 - **Non-Eligible jobholders** must be offered the opportunity to opt in to an automatic enrollment scheme.
 
-### Scottish Widows Group Personal Pension Scheme
+### Scottish Widows Group Personal Pension Scheme & Enrollment
 
 The following process is followed by GitLab People Operations to join the Scheme during onboarding:
 
-*  During onboarding, the People Connect Team informs Vistra Payroll of a new hire that joined the company in the UK.
-*  Once Vistra payroll has this information, the employee will be set up on the payroll and added to the pension file for Scottish Widows in preparation to be uploaded.
-*  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 20th October) Scottish Widows will be notified around 6th November
+*  During onboarding, the People Connect Team informs Papaya Payroll of a new hire that joined the company in the UK.
+*  Once Papaya payroll has this information, the employee will be set up on the payroll and added to the pension file for Scottish Widows in preparation to be uploaded.
+*  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 15th October) Scottish Widows will be notified around 6th November
 *  Any employee who joins after 20th or has not been included on the pension file will be picked up in the following month’s file.
 *  Scottish Widows receive the pension file around 6th of each month and will process all joiners/changes/leavers accordingly.
 *  New joiners should expect to receive their welcome pack within 14 working days after Scottish Widows receives the pension file.
@@ -172,7 +172,7 @@ When an employee joins the scheme they will be sent a welcome pack stating that 
 - There are over 50 funds and 9 lifestyle profile options  
 - This is a personal pension which means it can be taken with the employee if they leave GitLab
 - Employees will receive tax relief on their contributions, between 20% and 45% depending on their current income tax band
-- Each individual plan has an Annual Management Charges (AMC) of 0.70% per annum.
+- Each individual plan has an Annual Management Charges (AMC) of 0.60% per annum.
 - There are no charges on contributions or transfers into the plan
 - There are no charges on transfers out of the plan
 - Scottish Widows has a workplace pension webpage with lots of documentation about the scheme. Find the URL in [this document.](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbXTiMFXYVPTa20UQ/view?usp=sharing)
