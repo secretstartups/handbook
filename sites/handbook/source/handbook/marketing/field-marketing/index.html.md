@@ -1365,6 +1365,29 @@ Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-bas
 # Field Marketing during COVID-19 Pandemic
 The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section. 
 
+# Tiers of support from Field Marketing for Corporate lead events 
+In an effort to support the events the corporate marketing team runs, Field Marketing will rank the shows on an annual basis that corporate marketing runs. 
+
+## Tier 1 
+Field Marketing will: 
+1. Run a meeting setting program at this event - this means that sales leadership has agreed that they want their sales team spending time on driving these meetings.
+1. Evangelize the event is taking place with all regional sales teams. 
+1. If not already being planned by the corporate marketing team, run an auxiliary event driving registration with the sales teams. 
+1. Be onsite to support the event as needed 
+1. Participate in Corporate Events lead stakeholder calls 
+
+### FY23 Tier 1 
+1. AWS re:Invent 
+
+## Tier 2 
+Field Marketing will: 
+1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or 
+1. Will not be on onsite to support the event. 
+
+### FY23 Tier 2 
+1. DevOps Enterprise Summit - US
+1. KubeCon US 
+
 # Deprecated handbook content
 We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
 
