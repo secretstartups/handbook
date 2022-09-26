@@ -161,7 +161,7 @@ process.
 
 ### The Process Change Rollout Plan
 When it's time at last to make the change, create a
-[Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/managers/change-management/issues/new?issuable_template=support-change-rollout).
+[Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=support-change-rollout).
 The process change rollout plan template contains instructions to guide you
 through filling in all the appropriate details. And the issue itself then
 describes your full action plan.
