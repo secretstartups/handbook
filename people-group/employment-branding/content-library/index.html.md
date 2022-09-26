@@ -86,6 +86,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | ------ | ------ |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
+| [GitLab is Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | General |
 | [The Most Rewarding Teams in Tech are Looking For Talent. Are You in?](https://builtin.com/job-search-recruiting/most-rewarding-teams-tech-looking-talent) | General |
 | [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
 | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | General |
@@ -96,6 +97,9 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | ------ | ------ |
 | [Sales at GitLab](https://vimeo.com/675024697) | Sales |
 | [A Conversation with Ragnar Hardarson, Engineering Manager at GitLab](https://vimeo.com/716075220) | Engineering |
+| [A Conversation with Monmayuri Ray, Engineering Manager, ModelOps at GitLab](https://vimeo.com/745189253) | Engineering |
+| [A Conversation with Nick Nguyen, Sr. Engineering Mgr., Enablement at GitLab](https://vimeo.com/745463953) | Engineering |
+| [A Conversation with Eliran Mesika, Sr. Dir. of Corporate Development at GitLab](https://vimeo.com/752283651) | G&A |
 | [GitLab's Engineering Team: An Inside Look](https://venturefizz.com/videos/gitlab-engineering-team) | Engineering |
 | [Ishita's Life at GitLab](https://vimeo.com/677814891) | Team Member Spotlight |
 | [Kyla's Life at GitLab](https://vimeo.com/677779723) | Team Member Spotlight |
@@ -109,6 +113,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [What is GitLab?](https://youtu.be/MqL6BMOySIQ) | General |
 | [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
 | [Working remotely at GitLab](https://youtu.be/NoFLJLJ7abE) | General |
+| [Black is Tech](https://vimeo.com/746975612) | DIB |
 
 There are a number of additional videos on our [corporate YouTube channel](https://www.youtube.com/gitlab), as well as the GitLab Unfiltered YouTube channel about working at GitLab.
 
