@@ -268,6 +268,8 @@ To learn more on when to use asynchronous and synchronous communication, example
    When you announce anything, include links to the respective Handbook pages for more information. Consider adding link to an Issue if the information is not public yet.
 1. Optional AMA.
    If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the `#people-connect` Slack channel, and include a Google Doc in the invite for questions.
+1. Remember we are a global company with significant time-zone differences. Unless there is a reason to do otherwise, ensure any time-sensitive calls to action or announcements are made when the whole company has enough time to action. Consider different timezones, non-linear work days, and PTO. Announcements should be made ideally 72 hours (at minimum 24 hours) in advance of a due date. This is to prevent APAC/EMEA team members missing important announcements posted outside their normal working hours.
+Sometimes a late announcement is better than none at all, and acknowledging those who will miss it might be a kind gesture, such as "Apologies to our APAC/EMEA friends for the late notice".
 
 ### Ask Me Anything meetings
 
