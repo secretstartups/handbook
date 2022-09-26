@@ -139,17 +139,9 @@ Specify which model to run using an L warehouse with the variable `DBT_MODELS`
 
 Specify which model to run using an XL warehouse with the variable `DBT_MODELS`
 
-#### ➖🐭specify_exclude
+#### ➕specify_dbt_parameters
 
-Specify which model to exclude with the variable `DBT_MODELS`
-
-#### ➖🦖specify_l_exclude
-
-Specify which model to exclude using an L warehouse with the variable `DBT_MODELS`
-
-#### ➖🐘specify_xl_exclude
-
-Specify which model to exclude using an XL warehouse with the variable `DBT_MODELS`
+Specify how to run dbt using the variable `DBT_PARAMETERS`. This job essentially just puts everything in DBT_PARAMETERS variable into a command after `dbt run`, and can be used for excluding models. 
 
 #### ➕🐭🥩specify_raw_model
 
