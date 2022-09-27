@@ -84,7 +84,7 @@ Some examples of Criticality 3 requests are:
 * Bulk removing expired Zendesk organizations
 * Adding a new Zendesk app that will make things more convenient for Support
   Engineers
-* Removing or deactivating macros
+* Removing or deactivating active macros
 
 ### Criticality 4
 
