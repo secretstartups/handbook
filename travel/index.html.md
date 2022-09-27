@@ -34,8 +34,7 @@ Check with your health plan to see if you are eligible for reimbursement for the
 ## Self Stay Incentive Policy <a name="self-stay"></a>
 
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
-the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides. This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on
-accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice. Employees will be paid through payroll by submitting the screenshot by email to People Operations for processing.
+the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides. This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice. Team Members Employed through a GitLab Entity should submit the screenshot for approval via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#-introduction).
 
 ## Booking travel and lodging<a name="TripActions"></a>
 
