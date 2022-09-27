@@ -20,7 +20,9 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 
 ## Process
 
-1. Confirm if the email address the user has used to raise their request matches an email address associated with the account the request is intended for. Only proceed to the next steps once a match is confirmed.
+1. Only proceed with the next steps if any of the following scenarios is true:
+    1. The email address the user has used to raise their request matches an email address associated with the account the request is intended for. 
+    1. The user account is classified as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) and an owner of the top-level group raises the ticket. 
 1. If the account is blocked, look for the admin note on the account to determine why it has been blocked.
     - The [(GitLab user lookup app](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively -
 	- If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
