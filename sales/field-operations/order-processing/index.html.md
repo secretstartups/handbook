@@ -837,7 +837,10 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 
 #### Opportunity Booking Requirements
 
-There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
+There are unique requirements for different methods of selling GitLab. 
+Please see the general summary presentation of our booking requirements [here](https://docs.google.com/presentation/d/1Di6aPQQmu3pRFUeX1Qk_Ky52856T0weRTti1AwBZvNU/edit#slide=id.g123a13deda8_0_405).
+
+Review the drop down below related to your order type.
 
 
 <details>
