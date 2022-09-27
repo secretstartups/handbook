@@ -23,7 +23,7 @@ The CES team utilizes [GitLab Service Desk](/stages-devops-lifecycle/service-des
    - 1 - Candidate emails
    - 2 - Reschedules
    - 3 - Schedule Interviews
-   - 4 - Background checks and Offboarding
+   - 4 - Offboarding
 - The CES team utilizes a program called [Guide](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#using-the-candidate-guide) to enhance the candidate experience and create a more transparent view into the talent acquisition processes. This program also allows us to rename interview subject lines to make them more candidate-friendly and succinct.
 
 #### How the CES Team will run the Service Desk
@@ -170,8 +170,8 @@ Once the CES team gets the background checks back, if there are criminal charges
 1. The Team Member Relations Partners have their own criteria/process for providing their recommendation on how to proceed to the business
 1. Once they has come to a recommendation, they will share the details of that recommendation with us and the Hiring Manager, if appropriate.
    - It is ultimately up to the business on whether they would like to proceed with the candidate
-1. If approval to move forward is given, we will upload the approval to the WorkDay profile once created
-1. If approval is not given to move forward, the CES will loop in the Recruiter to make sure the decision and why is communicated correctly to the candidate
+1. If approval to move forward is given, we will mark them as cleared in our background check tracking sheet
+1. If approval is not given to move forward, TMR and Enablement will discuss with the Recruiter and Hiring Manager to determine next steps. 
 
 ### Speaking with TMRG team members in the hiring process
 
