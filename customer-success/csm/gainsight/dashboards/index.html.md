@@ -105,6 +105,8 @@ Below are select dashboards, with descriptions of what each widget on the dashbo
 1. **CI Adoption Health**
     1. Bar chart comparing CI Adoption Health across selected filters.
     1. Details on how CI Adoption is measured here: [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
+1. **Customers Using Secure**
+    1.  This report shows a customer's usage of Free/Premium scanning features such as `SAST`, `Container Scanning`, and `Secret Detection`. This should allow CSMs to gauge the customer's interest in DevSecOps and prompt conversations around up-tiering to Ultimate.
 
 ### CSM Key Metrics Dashboard
 
