@@ -348,6 +348,22 @@ The Secure group reviews analytics to help understand customers and their usage 
 
 - https://app.periscopedata.com/app/gitlab/895813/Secure-Scan-metrics
 
+## Cross-functional Backlog
+
+**[Sisense](https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard)**
+
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
+
+<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+
+## Merged Merge Request Types
+
+**[Sisense](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)**
+
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
+
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+
 ## Common Links
 
 - [Secure team board]
