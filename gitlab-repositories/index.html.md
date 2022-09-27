@@ -52,7 +52,14 @@ Following is the default `.gitlab-ci.yml` config that all projects under the `gi
 include:
   - template: 'Workflows/MergeRequest-Pipelines.gitlab-ci.yml'
 
-# Or if the project needs to support stable/security branches, use the following instead
+default:
+  tags:
+    - gitlab-org
+```
+
+Or if the project needs to support stable/security branches, use the following instead:
+
+```yaml
 workflow:
   rules:
     # For merge requests, create a pipeline.
@@ -94,11 +101,4 @@ windows_job:
 
 ### Publishing a Project
 
-When publishing a project to a package repository, please follow these steps:
-
-1. Use a shared account when publishing.
-    - For example, when publishing a ruby gem to
-    [rubygems.org](https://rubygems.org), use an `@gitlab.com` email
-    alias when creating the rubygems.org account and place the credentials in a
-    [1Password](/handbook/security/#1password-guide) vault for your team.
-1. If publishing to rubygems.org, follow [these directions](/handbook/developer-onboarding/#ruby-gems).
+To publish a project to a package repository, please follow [these directions](/handbook/developer-onboarding/#ruby-gems).
