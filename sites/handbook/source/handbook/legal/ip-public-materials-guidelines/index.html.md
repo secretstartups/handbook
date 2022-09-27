@@ -100,6 +100,20 @@ Just because something is available for free on the internet (including on Googl
 * Use the entirety, or a large portion, of an article, paper or blog post.
 * Use excerpts, quotes or headlines of print and online news articles without following Corporate Communications’ [Sharing Media Coverage guidelines](/handbook/marketing/corporate-marketing/corporate-communications/#sharing-media-coverage).
 
+### Quotes
+
+##### Do
+
+* If using an unsolicited quote from a company or person not affiliated with GitLab, use the quote verbatim.
+* If desired when using an unsolicited quote, hyperlink the quote's source. 
+* If using a quote that references a GitLab customer or partner by name, confirm with [#customer_references](https://app.slack.com/client/T02592416/CLFCPMF8E) (for customers) or [#channel-marketing](https://app.slack.com/client/T02592416/C013DF4A7QV) (for partners) that sufficient rights and approvals are in place for the proposed use. 
+
+##### Don't
+
+* Reference the company or person by name if using a non-solicited quote.
+* Change the sense of the quoted material, whether by quoting out of context, altering the quote itself, or inaccurately paraphrasing.
+
+
 ### Audio content including music, sounds, and sound effects
 
 ##### Do
