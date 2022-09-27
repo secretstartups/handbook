@@ -102,6 +102,7 @@ Change orders are common elements of Professional Services engagements that can 
 Apply the following steps to create a change order issue for tracking and approval purposes
 * Note the engagement Epic number and the scoping issue number
 * [Create a Change Order type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
+   * Use this [Change Order document template](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit) and attach to the Change Order Issue
 * Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description under **Quick Actions** with the epic number e.g. `&65` 
 * Replace `<!-- ADD SCOPING ISSUE NUMBER HERE, e.g. #1234-->` at the bottom of the description under **Quick Actions** with the scoping issue number e.g. `#1234` 
 
