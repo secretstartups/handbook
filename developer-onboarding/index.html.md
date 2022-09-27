@@ -122,21 +122,27 @@ as the reason for a longer expiration.
 
 ### Ruby Gems
 
-When building and publishing Gems for GitLab, be sure to add [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) to the
-[Gem Owners](https://guides.rubygems.org/managing-owners-using-ui), to ensure that the gem doesn't end up orphaned or
-unable to be published for any reason. In addition, be sure to follow the [gem development documents](https://docs.gitlab.com/ee/development/gemfile.html#gitlab-created-gems). 
+When publishing gems for GitLab, you should:
 
-You can additionally add some, or all of the following as co-owners, and other
-relevant developers as well:
+1. Ensure the gem doesn't become orphaned, or unable to be published, by either:
+   - Using the [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) RubyGems.org user.
+     The user credentials can be found in the 1password `Engineering` vault.
+   - Adding it to the list of [Gem Owners](https://guides.rubygems.org/managing-owners-using-ui) on RubyGems.org. You can also do this from a command line with the `gem` tool. For example, run this command to make the `gitlab-qa` user a co-owner:
 
-* [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
-* [Rémy Coutable](https://rubygems.org/profiles/rymai)
-* [Stan Hu](https://rubygems.org/profiles/stanhu)
-* [GitLab-QA](https://rubygems.org/profiles/gitlab-qa)
+      ```shell
+      $ gem owner <gem_name> --add gitlab-qa
+      ```
+
+1. Follow the [gem development documents](https://docs.gitlab.com/ee/development/gemfile.html#gitlab-created-gems).
+1. Optional. Add some or all of the following users as co-owners:
+   - [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
+   - [Rémy Coutable](https://rubygems.org/profiles/rymai)
+   - [Stan Hu](https://rubygems.org/profiles/stanhu)
+1. Optional. Add any other relevant developers as co-owners.
 
 #### New version release
 
-Gem projects should use the [shared CI config](https://gitlab.com/gitlab-org/quality/pipeline-common/-/blob/master/ci/gem-release.yml)
+Gem projects should use the [shared CI/CD config](https://gitlab.com/gitlab-org/quality/pipeline-common/-/blob/master/ci/gem-release.yml)
 to release and publish new gem versions by adding the following to their `.gitlab-ci.yml`:
 
 ```yaml
@@ -144,6 +150,9 @@ include:
   - project: 'gitlab-org/quality/pipeline-common'
     file: '/ci/gem-release.yml'
 ```
+
+Note that this will include access token configuration inherited from the `gitlab-org` group, which will
+be used to upload the gem package to rubygems.org.
 
 Make sure to create a `v0.0.0` tag if you don't already have any [SemVer](https://semver.org) tag so
 that the auto-release can compute the diff when releasing the actual first version of the gem.
