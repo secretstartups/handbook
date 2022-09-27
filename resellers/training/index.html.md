@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Channel Partner Training, Certifications, and Enablement'
+title: 'Partner Training, Certifications, and Enablement'
 description: >-
   Learning program including functional, soft skills, and technical training for channel and alliances partners to support and scale GitLab's and our partners' growth and success
 ---
