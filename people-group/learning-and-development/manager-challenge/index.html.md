@@ -15,6 +15,8 @@ title: Manager Challenge
 
 Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for external training opportunities.
 
+You can learn more about our current manager development program on our [Elevate handbook page](/handbook/people-group/learning-and-development/elevate/). 
+
 ## Introduction
 
 Developing mangerial skills is no small task. While taking on a new or expanded role as a manager brings great rewards, it also introudces new challenges. To be successful as a manager it requires management training that develops your ability to lead a functioning team while implementing management skills and abilities such as adaptive leadership, building trust, psychological safety, and conflict resolution. 
