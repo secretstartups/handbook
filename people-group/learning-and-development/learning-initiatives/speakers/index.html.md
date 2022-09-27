@@ -20,6 +20,15 @@ The L&D team hosts quarterly Learning Speaker Series open to all team members. T
 
 ### Past Learning Speaker Series calls
 
+### FY23 Q3 Series: Emotional Intelligence
+
+| Date | Session Title + Link |
+| ----- | ----- |
+| 2022-09-20 | [Being Human with Claire Doody](https://youtu.be/ai6DbsNIOF4) |
+| 2022-10-19 | Coming Soon: Diversity in Emotional Intelligence with Reini Chipman |
+| 2022-10-24 | Coming Soon: Emotional Intelligence for Modern Leaders with Christopher Connors |
+| 2022-11 | Coming Soon: Trust and Know your Audience with Camilla Boyer |
+
 ### FY23 Q2 Series: Collaborating with Compassion
 
 | Date | Session Title + Link |
