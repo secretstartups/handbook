@@ -297,20 +297,28 @@ Issues that we're expecting to work on in the milestone will have the `workflow:
 
 #### Refinement
 
-After we complete problem and solution validation, the next step is refinement, where engineers break down requirements and present a high-level design and feasible estimated solution. 
+We follow the [Product Development Flow](/handbook/product-development-flow/). After [problem](/handbook/product-development-flow/#validation-phase-2-problem-validation) and [solution validation](/handbook/product-development-flow/#build-track) are complete, the next step is refinement, where engineers break down requirements and present a high-level MVC and feasible estimated solution.
 
-Issues needing refinement are labeled `needs refining`. This label can be added by anyone throughout the beginning of the issue lifecycle. 
-This makes them discoverable so they can be added to the milestone planning issue by the Product Manager.
+Any issues needing refinement are labeled `workflow::refinement`. This label can be added by anyone throughout the issue lifecycle. 
 
-The product manager schedules issues to be refined in a milestone by applying the `workflow::planning breakdown` label adding to the milestone planning issue. A DRI is assigned to the issue to drive the refinement. 
-The DRI is not necessarily the person completing the refinement tasks, but is responsible for ensuring they are completed within the assigned milestone. 
-The product or engineering manager should assign anyone involved in the issue as DRI in a semi-random pattern.
+Issues that will likely be scheduled for implementation in the current quarter must have both the quarter label (e.g. `FY23::Q3`) and `workflow::refinement`. Having both labels makes issues that will soon be refined by engineers discoverable for the product designer. The product designer ensures the issue is still relevant, the issue description is complete, and the designs are up-to-date.
 
-During refinement, engineers can create more issues if necessary based on guidelines below. A single engineer can do the refinement. They can ask other team members for a review or seek input to understand the domain knowledge better when in doubt. 
+The product manager will determine issues that need to be refined by the engineers in the upcoming milestone and apply the label `workflow::refinement`. The expectation is by the end of the milestone, all of those issues have been refined by the engineers and move to `workflow::ready for development`. 
 
-At the end of refinement, engineers apply the label `workflow::ready for development`.
+To drive refinement, we use a randomly assigned refinement [DRI](/handbook/people-group/directly-responsible-individuals/). The refinement DRI is not necessarily the person completing the refinement tasks, but is responsible for ensuring they are completed within the assigned milestone. 
 
-Guidelines:
+Before the milestone starts:
+* The product manager determines which issues need to be refined by engineers and applies the `workflow::refinement` label
+* Issues needing to be refined are listed on the [milestone planning issue](https://gitlab.com/groups/gitlab-org/-/epics/3591)
+
+When the milestone starts:
+* The product manager, engineering manager, or product designer randomly assigns refinement issues to DRIs.
+
+Before the milestone is finished:
+* The engineers refine each issue with the label `workflow::refinement` from the milestone planning issue
+* When refinement is complete, each issue is moved to `workflow::ready for development`
+
+Refinement guidelines:
 
 - Identify and resolve outstanding questions or discussions.
     - Does the issue has a clear, updated, and confirmed design associated?
@@ -331,6 +339,7 @@ Guidelines:
     - Should we use a feature flag?
 - Assign labels. 
 - Assign a weight to the issue according to [weighting guidelines](/handbook/engineering/development/ops/package/#issue-weighting).
+- Create any follow-up issues that come out of refinement
 
 
 #### Milestone Priorities
