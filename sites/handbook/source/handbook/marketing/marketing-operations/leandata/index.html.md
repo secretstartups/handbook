@@ -41,19 +41,30 @@ Leads that are not yet MQLs or that are no longer being worked by the Sales Deve
 US PubSec leads are assigned to US PubSec BDRs regardless of `Lead Status`, if they have been identified as part of a US PubSec account. This is an exception to our standard lead management process where non-US PubSec leads that have not yet MQLed would be assigned to a [queue](#queue-assignment) until that condition is met.  
 
 ### Partner lead management (via the Vartopia Prospect module)
-#### MDF and partner-managed trial leads
-New or updated leads acquired by an [MDF Funded Campaign](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-only-campaigns---mdf-funded) or a [Partner Managed Trial](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) are routed to the lead flowbuilder.
+#### MDF Campaign
+New and updated campaign members acquired by an [MDF Funded Campaign](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-only-campaigns---mdf-funded) is routed to the lead flowbuilder.
 
-1. LeanData reviews for a lead to account match to evaluate any existing partner accounts.
-2. LeanData updates the `Prospect Share Status` = `Sending to Partner` and `Partner Propsect Status` = `Qualifying` which enables the lead to be synced into the Vartopia Prospect module. 
-3. LeanData assigns the lead to `Partner Queue` if Partner Account is `NULL`.
+1. LeanData reviews for the campaign field for `Will there be MDF funding` = `Yes`.
+1. LeanData updates the `Prospect Share Status` = `Sending to Partner` and `Partner Propsect Status` = `Qualifying` which enables the lead to be synced into the Vartopia Prospect module.
+1. LeanData assigns the lead to `Partner Queue` if `Partner Account` is `NULL`.
 
-#### Joint events with partners
-New or updates leads who attended a [Joint GitLab and Partner Event](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) are routed based on waterfall LeanData process. 
+#### Self-Managed Free Trial
 
-1. If lead to partner account match is not present, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns the lead to `Partner Queue` 
-2. If lead to partner account match is not present and DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status = Sending to Partner`
-3. If lead to partner account match is present and has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData assigns to appropriate SDR
+New and updated campaign members acquired by [Partner Managed Trial](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) is routed to the lead flowbuilder.
+
+1. LeanData reviews for the campaign name for `Partner - Trial - Self-managed`.
+1. LeanData updates the `Prospect Share Status` = `Sending to Partner` and `Partner Propsect Status` = `Qualifying` which enables the lead to be synced into the Vartopia Prospect module.
+1. LeanData assigns the lead to `Partner Queue` if `Partner Account` is `NULL`.
+
+#### Joint Events with Partners
+
+New and updated campaign members acquired by attended a [Joint GitLab and Partner Event](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) are routed to the lead flowbuilder.
+
+1. LeanData reviews the campaign fields for `Is a Channel Partner Involved?` = `Yes` and `Campaign Member Status` with regards to partner engagement.
+1. LeanData verifies the campaign member is not actively worked by GitLab, thus `Person Status` is not `Accepted`, `Qualifying` nor `Qualified`, or `Actively Being Sequenced` = `False`.
+1. If all above is
+    1. True, then LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns the lead to `Partner Queue`
+    1. False, then LeanData assigns to appropriate SDR.
 
 #### Exceptions to this rule
 When a lead/contact engages with GitLab in any shape or form, for example, via an inbound marketing request, the lead/contact owner is responsibility for following up with the partner lead, regardless of their stage within the partner lead lifecycle.

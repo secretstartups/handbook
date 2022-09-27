@@ -5,24 +5,24 @@ description: "This page is a dedicated resource for information on how GitLab ma
 ---
 # Lead Lifecycle
 
-This page is a dedicated resource for all information on how we manage our lead lifecycle. We have two elements covering the lifecyle - The Lead/ Contact Status in SFDC, and the Lifecycle Classifications Fields in SFDC. 
+This page is a dedicated resource for all information on how we manage our lead lifecycle. We have two elements covering the lifecyle - The Lead / Contact Status in SFDC, and the Lifecycle Classifications Fields in SFDC. 
 
-## Lead/Contact Status
+## Lead / Contact Status
 
-We have 9 Lead/Contact status to represent where the lead is sitting within our sales cycle in Salesforce. 
+We have nine Lead / Contact Statuses to represent where the lead currently sits within our sales cycle in Salesforce. Each `Status` that represents a situation where Sales Development is not actively engaging a lead or contact record has a corresponding queue that owns records until they meet the criteria to be assigned to Sales Development again for reengagement and qualification. This means there are currently "holding" queues for Lead / Contact Statuses with a queue indicated in the third column of the table below. (Note: The renaming or replacement of these queues with ones that match the updated Lead / Contact Statuses is ongoing and this handbook page will be updated with their new names as soon as the queues are created and actively being used in Salesforce.) 
 
-| Status | Definition |
-|--------|--------|
-| Raw | Untouched prospect, default status |
-| Inquiry | Action was taken by the record to specifically give their contact information to GitLab |
-| MQL | Marketing Qualified through systematic means |
-| Accepted | Actively working to get in touch with the lead/contact |
-| Qualifying | In 2-way conversation with lead/contact |
-| Qualified | SAO created & hand off to Sales team |
-| Disqualified | Person has been disqualified from our sales cycle |
-| Recycle | Record is not ready for our services or buying conversation now, possibly later |
-| Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
-| Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review |
+| Status | Definition | Related Salesforce queue, if applicable |
+|--------|--------|--------|
+| Raw | Untouched prospect, default status | N/A, `Raw` leads should always be owned by the XDR who sourced them while they're being worked |
+| Inquiry | Action was taken by the record to specifically give their contact information to GitLab | `Inquiry Queue` |
+| MQL | Marketing Qualified through systematic means | N/A, `MQL`s are owned by the XDR responsible for engaging and qualifying them  |
+| Accepted | Actively working to get in touch with the lead/contact | N/A, `Accepted` leads are owned by the XDR engaging and qualifying them |
+| Qualifying | In 2-way conversation with lead/contact | N/A, `Qualifying` leads are owned by the XDR engaging and qualifying them |
+| Qualified | SAO created & hand off to Sales team | N/A, `Qualified` leads represent leads that have been converted, most often to create an opportunity |
+| Disqualified | Person has been disqualified from our sales cycle | `Unqualified Queue` (name change in progress) |
+| Recycle | Record is not ready for our services or buying conversation now, possibly later | `Nurture Queue` (name change in progress) |
+| Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means | `Bad Data Queue` |
+| Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review | N/A at the moment, queue creation in progress |
 
 In addition to our statuses, there are substatus that are required for XDRs to use. The substates are in use for the following Statuses: Disqualified, Ineligilble, Recycle & Bad Data:
 

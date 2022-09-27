@@ -36,7 +36,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
-| [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
@@ -58,11 +58,13 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
+    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
-    <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
+    <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
     <a href="/handbook/marketing/channel-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel and Alliances Marketing</a>
+    
 </div>  
 
 <div class="flex-row" markdown="0" style="height:80px">

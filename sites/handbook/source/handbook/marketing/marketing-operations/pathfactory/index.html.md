@@ -61,11 +61,12 @@ The Marketing Operations team is responsible for managing access requests & prov
 
 ### User Roles
 
-There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool. 
+There are four levels of access - `Admin`, `Author`, `Reporter`, and `Viewer` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool. 
 
 - `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
-- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. 
+- `Viewer` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. 
+- `Reporter` access allows users to view all analytics pages within our instance of PathFactory. 
 - `Sales User` is anyone who has a valid email domain associated with our PathFactory instance, but who does not have a login. These users are not able to login to PathFactory, but they will be able to share any content tracks that `Admins` select on the `Sales Configuration` page.
 
 For more info on the capabilities of each role, [see the knowledge base article](https://nook.pathfactory.com/nook/s/article/user-roles). 
@@ -78,7 +79,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Content Marketing | `Author` | Add content, quality assurance, participate in quarterly content audits |
 | Campaign Managers | `Author` | Add content, create and edit tracks for use in campaigns, define form strategy for conversion on tracks, participate in quarterly content audits |
 | Product Marketing | `Author` (select users), `Reporter` (select users) | Upload new content, participate in quarterly content audits, collaborate with `Authors` of tracks on content selection |
-| Field Marketing | `Author` (select users), `Reporter` (select users) | Upload content from virtual workshops, clone existing workshop tracks for use in follow-up emails, view content performance |
+| Field Marketing | `Author` (select users), `Viewer` (select users) | Upload content from virtual workshops, clone existing workshop tracks for use in follow-up emails, view content performance |
 | Account-Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
 | Customer Reference Programs | `Author` | Upload new case studies and customer content |
 | Developer Evangelism | `Author` | Upload new technical content |
