@@ -76,6 +76,12 @@ I use these dashboards to inform me on metrics for my teams:
 * [Cross functional prioritization](https://app.periscopedata.com/app/gitlab/1042933/Cross-Functional-Prioritization)
 * [Merge request trends](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)
 
+Corresponding handbook pages:
+* [Secure](https://about.gitlab.com/handbook/engineering/development/sec/secure/#cross-functional-backlog)
+* [Govern](https://about.gitlab.com/handbook/engineering/development/sec/govern/#cross-functional-backlog)
+* [Data Science](https://about.gitlab.com/handbook/engineering/development/data-science/#dashboards)
+* [Growth](https://about.gitlab.com/handbook/engineering/development/growth/#cross-functional-backlog)
+
 # My OKRs (Objectives and Key Results)
 
 My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=155987)
