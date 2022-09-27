@@ -664,8 +664,16 @@ This is considered a complex set-up. It is recommended that you engage Marketing
   * :thumbs-up: If all of the above apply, move on to activating the smart campaigns!
 1. **Marketo**: Update the smart campaigns (activate and deactivate)
    * Under "Schedule" on the `01a Registration Flow (single timeslot)` or `01b Registration Flow (Multi-timeslot)` smart campiagn, click `Deactivate` once the webcast has completed.
-   * Under "Schedule" on the `04 Viewed On Demand` smart campiagn, click `Activate`.
-1. (Optional: Only if applicable/requested to add webcast leads to nurture) Click the `Add to Engagement Program Nurture` smart campaign, select the appropriate Engagement Program/Stream in the flow step. Run once.
+   * On the `04 Viewed On Demand` smart campaign - Smart List: 
+       * The second trigger for Fills out Form should be set to Form Name is "Form 2074: PF General". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * The third trigger for Fills out Form should be set to Form Name is "Pathfactory Webhook". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * Filter 1 - Filled Out Form should already be set properly. This will be Form Name is `FORM 2076: On-demand Webcast`. Web Page is (the name of your landing page).
+       * Filter 2 - Filled Out Form should be set to Form Name is "Form 2074: PF General". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * Filter 3 - Filled out Form should be set to Form Name is "Pathfactory Webhook". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops. Date of Activity should already be set to in the past 1 hour.
+       * Filter 4 - Pathfactory Engagement Time greater than 600 is set as the default. 600 is the Pathfactory view threshold for Webcasts. 
+       * Advanced filters will be set to 1 or 2 or (3 and 4)
+   * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
+   * Under "Schedule" on the `04 Viewed On Demand` smart campaign, click `Activate`.
 
 #### Test your follow up emails and set to send - Zoom
 {: #zoom-follow-up-emails .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
