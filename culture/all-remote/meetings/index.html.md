@@ -74,8 +74,8 @@ Meeting agendas should be include:
 1. A relevant meeting title
 1. Attendees with titles and organization names, if not in the same company
 1. Background Information or context. This should answer:
-  1. What do folks need to know or review in order to meaningfully participate in the meeting or meeting sequence?
-  1. Why is this group gathering? The meeting's desired outcome should be clear.
+    * What do folks need to know or review in order to meaningfully participate in the meeting or meeting sequence?
+    * Why is this group gathering? The meeting's desired outcome should be clear.
 1. The date (if multiple meetings on a topic, you can use the same agenda document, but put dates as H1s or H2s in Google Docs for easier navigation)
 1. Questions or details. A place in the agenda where participants can add thoughts either synchronously or asynchronously. 
 1. If the meeting was recorded, after the meeting, update the agenda document with a link to the recording. 
