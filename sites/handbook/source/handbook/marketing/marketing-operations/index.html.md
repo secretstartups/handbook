@@ -44,7 +44,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
-| [TBH](https://boards.greenhouse.io/gitlab/jobs/6258102002) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
+| [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
