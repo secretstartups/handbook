@@ -60,6 +60,16 @@ Illinois employers will also need to begin reviewing and potentially modifying t
 - Employer Information Report EEO-1: If required to file an EEO-1 report with the EEOC, a copy of the organization’s most recently filed EEO-1 report for each IL county in which the business has a facility or employee(s);
 - List of employees: Separated by gender and race/ethnicity categories as reported in the business’s most recently filed EEO-1 report and the total wages as defined by Section 2 of the Illinois Wage Payment and Collection Act paid to each employee during the past calendar year.
 
+# Australia
+
+## Workplace Gender Equality Act (WGWA) Report
+
+The [Workplace Gender Equality Act 2012](https://www.wgea.gov.au/what-we-do/reporting) requires non-public sector employers with 100 or more employees (for 6 months or more of a reporting period) to submit a report to the Workplace Gender Equality Agency. 
+
+Each year, the WGEA Portal opens on 1 April for reporting. Organisations then have two months to submit their reports, with reports due on 31 May. Reports cover the preceding 12-month reporting period. The reporting period is the same each year, from 1 April (the previous year) to 31 March (the current year). 
+
+GitLab is tracking our headcount in Australia, so that in the event that we fall under the headcount requirement, we will ensure to submit our WGEA report by May 31, 2023.
+
 # Ireland
 
 ## Gender Pay Gap Report
