@@ -38,15 +38,18 @@ graph TD
 
 A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
 
-Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their usage:
+The single source of truth for what forms exist is the [Current active forms](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_forms.html#current-active-forms) list in the Support Ops handbook section.
+
+Below is a list of some commonly used Zendesk forms with a brief explanation regarding their usage:
 
 - Self-Managed: An issue where the customer is maintaining their own local instance of GitLab
 - SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
 - SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
-- Accounts Receivable: refunds, VAT, and invoices.
-- L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
+- L&R (License and Renewals): subscription and purchase issues, see also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
 - Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support/#free-users). See [Handling Free User tickets](#handling-free-user-tickets) for further instructions on how to handle free user tickets.
 - Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
+
+**Please note:** It's recommended to always use the `General::Forms::Incorrect form used` macro to _change_ the ticket form, unless it's between Self-Managed, SaaS (GitLab.com) and SaaS Account.
 
 ### For security related matters
 
