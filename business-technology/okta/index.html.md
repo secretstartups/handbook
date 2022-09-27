@@ -48,7 +48,7 @@ Follow the GitLab Okta [Getting Started Guide](https://docs.google.com/document/
 
 We have also prepared Introductory Videos on [Okta Setup](https://youtu.be/upJ4p3lKYKw), [Setting up MFA/Yubikeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
 
-We recommend particularly that once your account is set up, you set up an additional MFA factor (either YubiKey or Google Authenticator/TOTP) in case there's an issue with one of your MFA factors.
+We recommend particularly that once your account is set up, you set up an additional MFA factor [either YubiKey or biometric](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) in case there's an issue with one of your MFA factors.
 
 ### Setting up my Okta Account requires me to use the app Okta Verify on my phone, and I don't like that.
 
@@ -109,25 +109,29 @@ Scroll down until you see "Extra Verification", once you're there click "remove"
 
 ### I want to add Touch ID / Face ID / Yubikey to Okta
 
+1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers. 
+
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
-2. Choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator` in the `Extra Verification` section of the page. 
-3. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
-4. After pressing `Enroll`, a prompt from your web browser will appear.
-5. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
+1. Choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator` in the `Extra Verification` section of the page. 
+1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
+1. After pressing `Enroll`, a prompt from your web browser will appear.
+1. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
 
     <img src="/handbook/business-technology/Okta-Add-Biometric-1.png" alt="Okta Add Biometric #1" width="300"/>
 
-6. For Touch ID or Face ID, another prompt will appear asking you to authenticate using that method.
+1. For Touch ID or Face ID, another prompt will appear asking you to authenticate using that method.
 
     <img src="/handbook/business-technology/Okta-Add-Biometric-2.png" alt="Okta Add Biometric #2" width="300"/>
 
-7. For Security Key, relevant prompts will appear.
+1. For Security Key, relevant prompts will appear.
 
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-1.png" alt="Okta Security Key #1" width="300"/>
 
-8. You may be prompted for a PIN, and then finally click `Allow`. 
+1. You may be prompted for a PIN, and then finally click `Allow`. 
 
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
+
+ 
 
 ### I want to increase my security by removing Google Authenticator as a valid factor, and primarily use Biometric and Security Keys for authentication
 
