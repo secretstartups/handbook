@@ -6,11 +6,32 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-Application Security Engineers work closely with development teams, product managers (PM), and third-party groups (including the paid bug bounty program) to ensure that GitLab products are secure.
+## What's it like to work in security at GitLab?
+
+🤝 Application Security Engineers work closely with development teams, product managers (PM), and third-party groups (including the paid bug bounty program) to ensure that GitLab products are secure.
+
+🎉 **Hear from two team members about what it's like working here at GitLab in our Security department.** 🎉
+
+*AppSec Engineer [Nick Malcolm](/company/team/#nmalcolm) talks about what makes him proud to work at GitLab and what makes the experience unique, as well as what helps someone succeed on the team.*
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/DgJhvait4gI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+*[Andrew Kelly](/company/team/#ankelly), one of our AppSec team managers talks about his experience here at GitLab, including what makes GitLab a unique and exciting place to learn and grow.*
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/5RYc0KqX48Q" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 
 ## Responsibilities
 
-* Perform security-focussed code reviews
+* Perform security-focused code reviews
 * Support and consult with product and development teams in the area of application security, including threat modeling and appsec reviews
 * Assist teams in reproducing, triaging, and addressing application security vulnerabilities.
 * Support the bug bounty program.
