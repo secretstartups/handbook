@@ -150,7 +150,7 @@ There are a few steps to get this enabled for personal meetings:
 1. Towards the bottom of the page, select "Edit" and check the "Waiting Room" box.
 1. Select "Save".
 
-Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.
+Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.  If you use this feature, please be sure to note in the meeting invite itself that this has been enabled.  
 
 ### Enable passcodes for all meetings
 * *Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled*
