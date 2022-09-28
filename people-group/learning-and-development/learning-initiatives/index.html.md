@@ -100,7 +100,7 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
   <iframe src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Social Learning can also occur in GitLab's Learning Experience Platform - [Level Up](https://levelup.gitlab.com/learn/dashboard) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
+Social Learning can also occur in GitLab's Learning Experience Platform - [Level Up](https://levelup.gitlab.com/learn/dashboard) and asynchronous forums using GitLab. (i.e. [Elevate](https://about.gitlab.com/handbook/people-group/learning-and-development/elevate/))
 
 
 ## Learning & Development Quarterly Newsletter
