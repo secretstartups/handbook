@@ -49,6 +49,7 @@ The Learning & Development team has a number of resources to help team members l
   <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
     <a href="/handbook/people-group/learning-and-development/learning-initiatives/speakers/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Speaker Series</a>
+    <a href="/handbook/people-group/learning-and-development/elevate/" class="btn btn-purple" style="width:200px;margin:5px;">Elevate Manager Training</a>
     
     
   </div>
@@ -172,7 +173,6 @@ The L&D team uses GitLab issue boards to track priorities, organize collaboratio
 * When an issue is closed, it should remain in the given milestone.
 * At the end of the sprint, the milestone can be removed from the board, or the milestone list can be hidden on the issue board.
 * The `L&D Requests` list should be used to organize requests for L&D support or courses coming from other teams.
-* The `manager-challenge` list holds issues related to each Manager Challenge and can be hidden on the sprint board.
 * The `advanced-software-engineering-course` list houses issues related to external software engineer courses can can be hidden on the sprint board.
 
 Additional planning and notes around the sprint board can be found in [this issue.](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/111)
