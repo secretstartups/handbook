@@ -17,9 +17,9 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 ## Quick facts
 
-| Fact | To date 2022-08-09 |
+| Fact | To date 2022-09-28 |
 | ------ | ------ |
-| Headcount | 1,900+ |
+| Headcount | 2,000+ |
 | Countries | 62 |
 | Remote team members | 100% |
 | Pets | 330+ |
