@@ -242,45 +242,20 @@ Example:
 - A team member has consistently and proactively looked for opportunities to fill gaps and take on stretch projects. When another team member left the team, you leaned on this team member to help keep projects moving forward until you found a suitable backfill. They regularly ask for feedback from peers and adapt their approach accordingly. This has given your team member skills beyond their current job requirements, and broader understanding of the business.
 
 
-## Calibration Session Guidelines
+## Calibration 
 
-The portion of the Performance/Growth matrix that often entails the most significant time commitment is the live calibration session of team members with leadership. The calibration session is very valuable to ensure consistency across the Job Family and level, raise any questions, and provide cross-departmental and/or cross-divisional feedback on team members to capture the assessment of different managers as opposed to the opinion of the direct manager exclusively. 
+The calibration session is an opportunity for managers/leaders to discuss and review their assessments as a group. Calibration is an essential part of the Talent Assessment process to:
 
-### Pre Work
+- Ensure consistency and fairness in assessments 
+- Calibrate on approach and thought process behind assessments
+- Provide cross-departmental and/or cross-divisional feedback
+- Provide an additional checkpoint to check for [unconscious bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/)
 
-It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration session is as efficient and productive as possible. Pre work includes:
-
-- For calibration sessions you can leverage [this agenda template](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit)
-- Please ensure that the [Talent Assessment Calibration Sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit) (found in the [Resources section](/handbook/people-group/talent-assessment/#resources)) is updated with initial Performance and Growth Assessments prior to the live calibration session. The [Talent Assessment Calibration Sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit) will be considered the SSOT for final ratings, while the [agenda document](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit) serves to help capture the “why” behind changes and provide a format to provide and review pre-work.
-- Review the team member's own [Self-Evaluation](/handbook/people-group/talent-assessment/#team-member-self-evaluations), if they wished to complete one.
-- Review the Job Family/Families that will be reviewed in detail
-- Review our competencies 
-    - [Values competencies](/handbook/competencies/#values-competencies)
-    - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
-    - [Functional competencies](/handbook/competencies/#functional-competencies) _(if applicable)_
-- Review our [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already. 
-- Review the [Performance/Growth Matrix Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit), which delves into definitions for each box. 
-- Determine the appropriate box for each of your team members
-- Add notes for each of your team members to the agenda, at least 12 hours before the session 
-    - An example of notes could include:
-        - 2-3 strengths/accomplishments (and supporting examples)
-        - 2-3 improvement areas
-        - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
-- Keep the [SBI Model](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided. 
-- Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
-- If you did not attend the people manager live training session in August 2022, please watch the Performance/Growth Training video overview below:
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/siI3wRtQYQA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Calibration can be done asynchronously or synchronously, and should be done by level (I.E. Manager calibration for their directs, Director calibration for their directs, etc.) so as not to disclose Talent Assessment evaluations amongst peers.
 
 ### Calibration Session
 
-The calibration session is one of the most important pieces of the Performance/Growth Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Below are a few communication guidelines to ensure efficiency and fairness during the calibration session discussion. 
-
-Starting in FY'23, we will implement a formal Talent Assesment tool. For the FY'22 cycle, we will leverage spreadsheets during calibration sessions for Performance, Growth, and Key Talent assessments. 
-
-We ask that you use the [following template](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit#gid=0) for Performance/Growth assessment and calibration to ensure a format that is compatible for direct upload to BambooHR to minimize opportunity for error. Please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions.
+The calibration session is one of the most important pieces of the Performance/Growth Potential Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Below are a few communication guidelines to ensure efficiency and fairness during the calibration session discussion. 
 
 #### Best Practices
 
@@ -305,6 +280,35 @@ A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
 - Team members in Box 3 ("Exceeding Growth" and "Performing Performance") to highlight potential development opportunities from peer groups
 - Outliers based on Performance alone (I.E. everyone "Developing Performance" and everyone "Exceeding performance")
 
+#### Calibration Session Pre-Work
+
+It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration session is as efficient and productive as possible. Pre work includes:
+
+- For calibration sessions you can leverage [this agenda template](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit)
+- Review the team member's own [Self-Evaluation](/handbook/people-group/talent-assessment/#team-member-self-evaluations), if they wished to complete one.
+- Review the Job Family/Families that will be reviewed in detail
+- Review our competencies 
+    - [Talent Assessment Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
+    - [Values competencies](/handbook/competencies/#values-competencies)
+    - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
+    - [Functional competencies](/handbook/competencies/#functional-competencies) _(if applicable)_
+    - [Job framework](https://about.gitlab.com/company/team/structure/#job-frameworks)
+- Review our [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already. 
+- Review the [Performance/Growth Potential Matrix Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit), which delves into definitions for each box. 
+- Determine the appropriate box for each of your team members
+- Add notes for each of your team members to the agenda, at least 12 hours before the session 
+    - An example of notes could include:
+        - 2-3 strengths/accomplishments (and supporting examples)
+        - 2-3 improvement areas
+        - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
+- Keep the [SBI Model](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided. 
+- Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
+- If you did not attend the people manager live training session, please watch the training video below:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QPPo7sDenEw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 #### Topics To Avoid
 
 While we want to encourage open and transparent conversation during calibration session, there are certain topics that should be avoided to ensure we respect team member privacy.
@@ -314,11 +318,12 @@ While we want to encourage open and transparent conversation during calibration 
 
 ## Identifying Action 
 
-After the calibration sessions the performance and growth outcomes can be used as input for the following: 
+After the calibration sessions the performance and growth potential outcomes can be used as input for the following: 
 * [Career Development Conversations](https://about.gitlab.com/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 * Promotion planning 
 * Identifing [L&D opportunities](/handbook/people-group/learning-and-development/)
 * Succession Planning
+
 
 # Q4 Formal Talent Assessment 
 
