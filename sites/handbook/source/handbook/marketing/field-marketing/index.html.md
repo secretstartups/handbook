@@ -1290,7 +1290,7 @@ Field Marketing utilizes regional email aliases for pre and post tactic outreach
 ## Monthly Calls
 
 - The World Wide Field Marketing team has one standing call on the calendar.
-- The team meets on the 1st Wednesday of each month.
+- The team meets on the 1st Thursday of each month.
 - All team members are invited to each call although, if the call is scheduled outside of the team member's normal working hours, the team member is NOT expected to attend. The calendar invite simply serves as a reminder to the team member to check out the recording of the meeting the next working day and to also review the agenda.
 - The purpose of the team call is to share relevant company, marketing, and Field Marketing announcements.
 - Anyone on the team should feel empowered to add content to the team meeting agenda.
