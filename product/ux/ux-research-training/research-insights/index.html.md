@@ -102,30 +102,28 @@ Actionable insights are tracked at GitLab for:
 * **Accountability:** If there’s something that needs to be done as a result of conducting research, it should be done. This process helps prevent those actionable insights from getting lost, dismissed, or taking too long to be acted upon.
 * **Measuring research impact:** Presently, it’s difficult to accurately measure the impact of a research project on the product. Tracking actionable insights allows us to refer back to a particular research project, see what actions were identified as a result of the research findings, and determine what action was taken within the product since those actions were identified.
 
-The proposed data that will be tracked and possibly measured in the future:
+The following data is presently being tracked:
 
-* **Number of total actionable insights currently open, no activity** (>6 month of no activity)
-   * Total number of actionable insights that have not seen activity in at least a month.  These actionable insights will be followed up to understand why there hasn’t been activity.
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14975251&udv=0)
-* **Number of total of actionable insights currently open, being addressed** (activity <= 6 months ago)
-   * Total number of actionable insights that have seen activity within the past month.  It’s implied that these are actively being addressed in some way and not discarded.
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14975242&udv=0)
-* **Percentage of studies using the `~"Actionable Insight::Product change"` and `~"Actionable Insight::Exploration needed"` scoped labels**
-   * Broken down by '~"workflow"' label, including problem validation and solution validation
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14930425&udv=0)
-* **Number of total actionable insights**
-   * Total number of Insights with the `~"Actionable Insight::Product change"` and `~"Actionable Insight::Exploration needed"` scoped labels, both closed and open
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14931500&udv=0)
-* **Number of total actionable insights currently open with no activity**, ordered by the number of months since the issues has been edited.
-   * Total number of actionable insights that have not seen activity in at least a month. These actionable insights will be followed up to understand why there hasn’t been activity.
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14931468&udv=0)
-* **List of actionable insights currently open with no activity**, ordered by the number of months since the issues has been edited.
-   * List of actionable insights that have not been edited in at least a month, ordered by the months it has been since being edited. List has accompanying information on the issues title and author user name
-   * [Sisense chart](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights?widget=14931132&udv=0)
-* Remaining tracking Actionable Insight issues
-   * [Sisense dashboard](https://app.periscopedata.com/app/gitlab/1043584/Public-Actionable-Insights)
+* **Number of newly opened and closed actionable insights issues, by quarter**
+   * How many new actionable insight issues were created, per quarter
+   * How many actionable insight issues were closed, per quarter - and why they were closed
+* **Average number of days it takes for an actionable insight issue to close to completion**
+   * Important to understand how long it's taking to address actionable insights within the product
+* **Breakdown of all actionable insight issues, to date**
+   * Provides us with an understanding of how many total actionable insights there are, broken down by open and closed statuses
+
+The data for the above can be viewed for each actionable insight scoped label:
+* [Actionable insight::Product change](https://app.periscopedata.com/app/gitlab/1076087/Actionable-Insights::Product-Change)
+* [Actionable insight::Exploration needed](https://app.periscopedata.com/app/gitlab/1076091/Actionable-Insights::Exploration-Needed)
 
 Over time, once there's enough data, we might be able to slice this data at the stage/group level to help us understand what is (or isn't) working well. Based on what we learn, we’ll iterate on the approach.
+
+Future data tracking considerations for actionable insights:
+
+* **Number of total actionable insights currently open, no activity within the issue** (>6 month of no activity)
+   * Total number of actionable insights that have not seen activity in at least a month.  These actionable insights will be followed up to understand why there hasn’t been activity.
+* **Number of total of actionable insights currently open, activity within the issue** (activity <=6 months ago)
+   * Total number of actionable insights that have seen activity within the past month.  It’s implied that these are actively being addressed in some way and not discarded.
 
 #### Creating useful insights
 It's important to remember that insights often need context, since people may read them in isolation and misinterpret them. As you work on reporting on your study, it's important to keep the audience in mind and think about what you'd like them to learn from the study.
