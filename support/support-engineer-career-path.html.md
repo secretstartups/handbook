@@ -95,7 +95,7 @@ Recommendations to explore this path:
 - Read [Transitioning from Individual Contributor to Manager](/handbook/engineering/development/dev/create/engineers/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](/handbook/engineering/career-development/#trying-the-management-track).
 - Read about the [Interim Manager](/handbook/engineering/career-development/#interim-manager) role.
-- Read about the [Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/) and consider participating.
+- Read about [Elevate](/handbook/people-group/learning-and-development/elevate/) and consider participating.
 
 Considerations when building your path:
 
