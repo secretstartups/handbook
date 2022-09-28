@@ -44,8 +44,6 @@ The following are suggestions only. There is no particular order or requirement 
     - informing low-risk groups of the groups that are currently `at risk+` (see table below), and asking them to try to help with FRT and possibly with assignment, too
     - identifying 1-2 volunteers from group(s) that are not at risk to act as Tanukis for the day
     
-![Screen_Shot_2022-07-28_at_10.46.09_AM](/uploads/d4dae550b4ff0be8011e7d8ae8029cdb/Screen_Shot_2022-07-28_at_10.46.09_AM.png)
-
 **What is a Tanuki?**
 A Tanuki is a Support Engineer who will divide their time (i.e. "float") between their SGG and another SGG that is low on staff to help with tickets (FRTs and/or NRTs, depending on where the help will be most effective).
 
