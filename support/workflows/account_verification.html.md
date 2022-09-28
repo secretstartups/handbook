@@ -16,50 +16,6 @@ description: "Workflow detailing how and when to verify account ownership includ
 
 This workflow covers how a user can provide account verification. While the workflow focuses on disabling [Two-factor Authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) on a GitLab.com account, it should be used for any [account changes](/handbook/support/workflows/account_changes.html).
 
-2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
-
-## GitLab Team Members
-
-If the user is a GitLab team member, have them contact IT Ops.
-
-## Self Service 2FA Removal
-
-In most cases, users can disable 2FA themselves and regain access to their accounts, using one of the following methods:
-
-1. Use a saved [two-factor recovery code](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
-1. [Generate new recovery codes via SSH](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
-    - If a user has an SSH key tied to their account but receives a `Permission denied (publickey)` error, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/#configure-ssh-to-point-to-a-different-directory) for guidance on how to solve this.
-
-> As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
-
-## Disable 2FA With Support Intervention
-
-If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
-
-If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
-
-#### Note
-
-For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
-
-### Conditions for 2FA Reset Consideration
-
-In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
-
-1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
-1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases.
-1. GitLab team member (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
-
-More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
-
-While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
-
-1. [Owner vouch](#authenticating-an-owner-vouch) is required.
-1. Primary email of the account must match the company domain.
-1. User must still prove account ownership following the [workflow](#workflow).
-   - Include the paid namespace when determining the data classification level.
-1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
-
 ## Workflow
 
 The workflow applies to all cases where account verification is required.
@@ -129,6 +85,52 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 1. If the user is unable to pass the available challenges:
    1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the `Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Final Response` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
    1. Mark the ticket as "Solved".
+
+## 2FA Removal
+
+2FA removal and other account actions can only be completed if the [workflow](#workflow) above is successful.
+
+## GitLab Team Members
+
+If the user is a GitLab team member, have them contact IT Ops.
+
+## Self Service 2FA Removal
+
+In most cases, users can disable 2FA themselves and regain access to their accounts, using one of the following methods:
+
+1. Use a saved [two-factor recovery code](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
+1. [Generate new recovery codes via SSH](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
+    - If a user has an SSH key tied to their account but receives a `Permission denied (publickey)` error, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/#configure-ssh-to-point-to-a-different-directory) for guidance on how to solve this.
+
+> As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
+
+## Disable 2FA With Support Intervention
+
+If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
+
+If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+
+#### Note
+
+For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
+
+### Conditions for 2FA Reset Consideration
+
+In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
+
+1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
+1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases.
+1. GitLab team member (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+
+More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
+
+While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
+
+1. [Owner vouch](#authenticating-an-owner-vouch) is required.
+1. Primary email of the account must match the company domain.
+1. User must still prove account ownership following the [workflow](#workflow).
+   - Include the paid namespace when determining the data classification level.
+1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
 
 ## Large Customers
 
