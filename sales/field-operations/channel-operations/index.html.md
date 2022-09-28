@@ -697,7 +697,18 @@ If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting 
 
 If GCP or AWS support a deal and help drive the customer to buy GitLab, but were not the original source of the opportunity nor are they transacting the deal, then the following field should be filled out on the Opportunity:
 - **Influence Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
- 
+
+### Marketplace Transaction Fees
+Deals booked through the Amazon and Google markeplaces use the following fee schedule (non-negotiable):
+
+***Google Cloud***
+
+- Google Marketplace fee: 3% of the value of the booking for all orders through Marketplace
+
+***Amazon Web Services (AWS)***
+
+- Amazon Marketplace fee: 8% for New/FO deal <$1M; 6% for New/FO deal >$1M; 3% for renewals (based on value of the order). About 85% of our AWS transactions at the 3% traunch so for most deals Amazon and Google are at parity. 
+
 ### Requesting Google Cloud Credits
 Required fields when requesting Google Cloud Credits on an Opportunity
 1. Have you engaged with the GCP Team already? (Drop down: Yes, No)
