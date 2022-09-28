@@ -22,13 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### September 2022
 
-### DevSecOps/Compliance
-#### September 27th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_vowi9PkyRQWpJUHuU93CJw)
-
 ### Getting Started with Continuous Delivery and GitOps
 #### September 29th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
@@ -52,15 +45,22 @@ In our office hours following our Intro to GitLab webinar, we will focus on ques
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_-9NWyZpSQOCRhmmT9EaV7Q)
 
-### Intro to CI/CD
+### Holistic Approach to Securing the Development Lifecycle
 #### October 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
+
+This webinar will focus on the many security capabilities that are available to you through GitLab Ultimate. We will show how you can quickly take an application with a few security flaws and make it secure using the various security scans and reports that GitLab Ultimate provides.We will also show you how you can prevent this in the future with our compliance features such as compliance pipelines, event audits, and policy compliance.
+ 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_6GLZk2LrTnypPFbY-4qeng)
+
+### Intro to CI/CD
+#### October 14th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
 Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_PeY0d4XDRDq91m8bR4CW-A)
 
 ### Intro to CI/CD Office Hours
-#### October 13th, 2022 at 12:00PM-12:45PM Eastern Time/4:00-4:45 PM UTC
+#### October 14th, 2022 at 12:00PM-12:45PM Eastern Time/4:00-4:45 PM UTC
 
 Are you new to CI/CD? In our office hours following our Intro to CI/CD webinar, we will focus on questions that are commonly asked by new users of CI/CD with GitLab. To help us prepare, please submit your questions as comments to [this issue](https://gitlab.com/gitlab-com/scale-cse-office-hours/-/issues/2). Our office hours are provided in a webinar format where we will address questions from our attendees submitted ahead of time via [the issue](https://gitlab.com/gitlab-com/scale-cse-office-hours/-/issues/2) and questions submitted live using the Zoom Q&A function
 
