@@ -11,6 +11,34 @@ title: "People Compliance"
 
 People Compliance forms part of the People Operations Team at GitLab, and is directly responsible for managing all compliance-related efforts relating to People Operations processes and affecting all GitLab team members. This team will be collaborating very closely with all People Operations and People Success teams, as well as Talent Acquisition, Total Rewards, and Legal teams.
 
+## Senior Background Check Specialist
+The Senior Background Specialist reports to Director, People Operations
+
+### Job Grade
+The Senior Background Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior Background Check Specialist Responsibilities
+- Partner with both the Candidate Experience Specialist and People Connect Teams to ensure verifications are completed with urgency for all new hires
+- Manage all background check and verification processes in partnership with our external background check vendors, ensuring they are handled in strict accordance with applicable local, state, federal and country specific guidelines.
+- Oversee our Right to Work process for EU countries
+- Create and implement training materials and documentation related to background check process, investigation, compliance and regulatory needs. 
+- Maintain a relationship with external background check vendors.
+- Collaborate with our Legal team, Team Member Relations Team,  and People Compliance Partner to keep our verification process up to date with global laws and regulations including escalations as needed.
+- Conduct regular audits to ensure that all processes are being followed, and educate adjacent teams on matters related to the background check and verification process.
+- Ensure new hires receive timely and thoughtful messaging throughout the pre-hire process.
+
+
+### Senior Background Check Specialist Requirements
+- Experience becoming a subject matter expert in or owner of a technical tool.
+- Experience working on background checks globally.
+- Experience with the following tools is a plus: Sterling, Greenhouse, Workday, and GitLab.
+- Ability to work within a distributed team in a fast-paced, changing environment.
+- Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
+- Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company to ensure compliance needs are met.
+- High level of independence, with an ability to work autonomously with high attention to detail.
+- Ability to appropriately handle highly sensitive and confidential information.
+
+
 ## People Compliance Specialist
 The People Compliance Specialist reports to the Vice President of People Operations, Technology and Analytics.
 
