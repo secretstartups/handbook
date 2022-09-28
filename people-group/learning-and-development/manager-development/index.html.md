@@ -67,8 +67,8 @@ Leaders should ensure that new remote hires read a [getting started guide](/comp
 #### Create a personalized learning pathway
 Take a moment to reflect on where you are in this transition. Then use this [google form](https://forms.gle/WUpxZNG2VcYFQLon9) to add your thoughts about the challenges you face, how you plan to overcome them, and what resources you have found helpful so far. The Learning and Development team will review this feedback to personalize your development pathway as a manager at GitLab. This may include developing custom training modules, pairing you with a mentor, or providing you with opportunities to practice skills.
 
-#### Participate in the Manager Challenge program
-The GitLab Learning & Development runs a quarterly [manager enablement program](/handbook/people-group/learning-and-development/manager-challenge/) to equip new and existing managers with a set of skills to managing all-remote teams. The program covers foundational management practices. One of the key benefits of the program is networking and social learning. You will learn from other managers and build a sense of community across people leaders at GitLab. Sign-up for the [next cohort](/handbook/people-group/learning-and-development/manager-challenge/#introduction)! 
+#### Participate in the Elevate program
+[Elevate](/handbook/people-group/learning-and-development/elevate/) equips new and existing managers with a set of skills to managing all-remote teams. The program covers foundational management practices. One of the key benefits of the program is networking and social learning. You will learn from other managers and build a sense of community across people leaders at GitLab.
 
 ### Transitioning to a Manager Video
 <!-- blank line -->
