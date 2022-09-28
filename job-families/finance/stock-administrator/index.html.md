@@ -6,6 +6,36 @@ description: "Responsible for administering GitLab’s equity incentive program 
 
 ## Levels
 
+## Stock Administrator
+
+### Stock Administrator
+
+The Stock Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Stock Administrator Responsibilities
+
+* Support day-to-day administration of the company’s equity programs, including processing new equity awards, exercises, cancellations and repurchases.
+* Maintain data in Equity Edge Online/E*TRADE database to ensure accuracy of participant information.
+* Respond to employee inquiries regarding equity programs and education while providing excellent service to plan participants at all levels.
+* Collaborate with PeopleOperations, Legal and Payroll teams on equity related items as needed.
+* Prepare reports for internal partners and respond to ad hoc data requests.
+* Assist with development and delivery of employee trainings and communications.
+* Responsible for the tracking and reporting of 83-B information and reporting requirements.
+* Owns responsibility for ensuring compliance with US and international tax laws regarding equity incentive.
+
+#### Stock Administrator Requirements
+
+* 2-4 years of relevant equity administration experience on the Equity Edge Online platform.
+* Experience with both Option and RSU programs.
+* Familiarity with U.S. federal and state taxation relating to equity compensation.
+* Familiarity with International tax law relating to equity programs.
+* Strong analytical, communication and organization skills.
+* Sensitivity to employee privacy laws such as GDPR and ability to maintain strict confidentiality.
+* Ability to interact with employees at all levels.
+* CEP Level I Completion (or in process of obtaining CEP Level I).
+* Experience with Google Workspace.
+* Ability to use GitLab
+
 ## Senior Stock Administrator
 
 The Senior Stock Adminstrator reports to the Director, Stock Administrator.
@@ -45,6 +75,43 @@ The Senior Stock Administrator is a [grade 7](/handbook/total-rewards/compensati
 * CEP Level II Completion (or in process of obtaining CEP Level II).
 * Experience with Online systems.
 * Ability to use GitLab
+
+## Manager, Stock Administration
+
+### Manager, Stock Administration
+
+The Manager, Stock Administration is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Stock Administration Responsibilities
+
+
+* Everything under Senior Stock Administrator" plus the following items:
+* Assist with the preparation of stock related tables for 10Q/10K/Proxy filings
+* Perform monthly reconciliations with HR, Payroll and external vendors
+* Provide reporting for SOX controls
+* Ensure global equity reporting and compliance with international tax and regulatory requirements, including year end equity related tax filings
+
+
+#### Manager, Stock Administration Requirements
+
+
+* Considered a specialist in the field within the function.
+* Demonstrates an ability to coordinate multiple projects simultaneously.
+* A seasoned, experienced professional with a full understanding of area of specialization; resolves a wide range of issues in creative ways.
+* Demonstrates further technical development and a track record of project success.
+* 8+ years of relevant equity administration experience on the Equity Edge Online platform.
+* Experience with both Option and RSU programs.
+* Familiarity with U.S. federal and state taxation relating to equity compensation.
+* Familiarity with International tax law relating to equity programs.
+* Strong analytical, communication and organization skills.
+* Prior responsibility working with Big 4 CPA firms in connection with audits.
+* Sensitivity to employee privacy laws such as GDPR and ability to maintain strict confidentiality.
+* Ability to interact with employees at all levels.
+* Experience with international stock options and equity grants.
+* CEP Level III Completion (or in process of obtaining CEP Level III).
+* Experience with Google Workspace.
+* Ability to use GitLab
+ 
 
 ### Director, Stock Adminstrator
 
