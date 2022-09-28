@@ -91,7 +91,7 @@ These status updates are used to:
 
 #### Incident Timeline Updates - EOC/Incident Manager
 
-1. During an active incident, the EOC is initially responsible for ensuring that actions and events relevant to the issue and its resolution are captured in the timeline. These timeline updates should be captured in the `Timeline` section of the incident issue description, but can be captured in a comment thread, if rapid capture of events is needed. If capturing these events in comments on the incident issue, utilize the same format as the `Timeline` section of the incident issue.
+1. During an active incident, the EOC is initially responsible for ensuring that actions and events relevant to the issue and its resolution are captured in the timeline. These timeline updates should be captured in the `Timeline` tab of the incident issue.
 1. Once an Incident Manager has been engaged in the incident these responsibilities shift to the Incident Manager. With the Incident Manager taking the initiative to capture these to preserve space for the EOC to work on mitigation. The EOC should therefore update the Incident Manager in the incident call with items relevant to the timeline.
 
 ##### Incident Mitigation Methods - EOC/Incident Manager
