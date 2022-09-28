@@ -81,7 +81,7 @@ Prior to the call, review the following items:
 - License utilization - if it is lower and the customer is in the second half of their annual contract, discuss the trends around this and expected behavior; if it is above or close to their purchased amount, ensure they are aware and loop in your SAL/AE
 - Use case scoring, identifying areas where the customer is not green - discuss one or two on the call and include the value of adoption these areas and suggest enablement opportunities
 
-With every customer call, always be sure to have an agenda prepared and share it with the customer in advance.
+With every customer call, always be sure to have an agenda prepared and share it with the customer in advance. Here is [a template](https://docs.google.com/document/d/1sAt4dFCnPm0vupfFEpZT9dCFLfhgdfCdcj0nOjCM9SI/edit) that some CSMs use to prepare agendas for customer meetings.
 
 Additionally, there may be specific items that are worthwhile to discuss about their self-managed subscription on a regular basis:
 - Discuss monthly releases & inquire about frequency of their planned upgrades, letting them know about our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
