@@ -61,7 +61,8 @@ There are 3 types of installations that we need to estimate for:
 
 <details markdown=1>
 
-<summary><b>Technical implementation details</b></summary>
+<summary><b>Technical implementation details</b>
+</summary>
 
 * Identifying active subscriptions
   * Whether a subscription is "active" within a given month is determined by 1 of 2 things:
@@ -151,7 +152,8 @@ considered to be operational).
 
 <details markdown=1>
 
-<summary><b>Technical implementation details</b></summary>
+<summary><b>Technical implementation details</b>
+</summary>
 
 Whether a subscription meets this condition is determined in [`rpt_ping_subscriptions_on_versions_counts_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_on_versions_counts_monthly).
 
@@ -176,7 +178,8 @@ was released in version 13.7 on CE and 13.8 on EE)
 
 <details markdown=1>
 
-<summary><b>Technical implementation details</b></summary>
+<summary><b>Technical implementation details</b>
+</summary>
 
 Whether a subscription meets this condition is determined in [`rpt_ping_subscriptions_reported_estimate_factors_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_estimate_factors_monthly).
 
@@ -202,7 +205,8 @@ other words, an installation with 5 seats is treated/weighted the same as one wi
 
 <details markdown=1>
 
-<summary><b>Technical implementation details</b></summary>
+<summary><b>Technical implementation details</b>
+</summary>
 
 Subscription counts are determined by a subscription's presence in [`fct_charge`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_charge) 
 with a status of either `Active` or `Cancelled`, but we also include subscriptions appearing 
@@ -252,7 +256,8 @@ the installation's size.
 
 <details markdown=1>
 
-<summary><b>Technical implementation details</b></summary>
+<summary><b>Technical implementation details</b>
+</summary>
 
 Seat counts are determined by `quantity` found within the [`fct_charge`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_charge) 
 model. This is surfaced as `total_licensed_users` in [`rpt_ping_subscriptions_reported_counts_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_counts_monthly) 
