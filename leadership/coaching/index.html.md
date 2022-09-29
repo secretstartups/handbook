@@ -75,7 +75,8 @@ The GROW Model is a four-step method for holding coaching conversations with a c
 Effective coaches use a defined set of skills to enable coaching coversations. Those skills include: 
 
 <details>
-<summary>Questioning</summary>
+<summary>Questioning
+</summary>
 
   Asking powerful, open-ended questions is a core skill. Coaching is about coming from a place of asking, not telling, while empowering team members to create their solutions. Coaching works to "pull out" insight from an individual. 
 
@@ -103,7 +104,8 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 </details>
 
 <details>
-<summary>Listening</summary>
+<summary>Listening
+</summary>
 
   Listening is a critical skill because it enables openness and curiosity. It also signals to the coachee that you are being fully present. To ask great questions, you need to be fully listening.
 
@@ -145,7 +147,8 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 </details>
 
 <details>
-<summary>Encouragement</summary>
+<summary>Encouragement
+</summary>
 
 Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the <a href="/handbook/people-group/guidance-on-feedback/">feedback</a> has landed.<br>
 
@@ -171,7 +174,8 @@ Encourage and show enthusiasm by identifying strengths in the coachee to build t
 </details>
 
 <details>
-<summary>Challenge</summary>
+<summary>Challenge
+</summary>
 
   Challenging your coachee helps them raise the bar, stretch, and grow. Challenge the coachee to get out of their comfort zone, raise the bar, and play a bigger role. Your role as a coach is to hold a bigger picture of what's possible.
   
@@ -189,7 +193,8 @@ Encourage and show enthusiasm by identifying strengths in the coachee to build t
 </details>
 
 <details>
-<summary>Be Present</summary>
+<summary>Be Present
+</summary>
 
   Be in the moment, focus on the other person, free of judgment. Give your coachee your undivided attention. Closeout other programs during a virtual coaching session. Be open and curious by identifying what's working and what's not. Be truly present physically, mentally, and emotionally. 
 
