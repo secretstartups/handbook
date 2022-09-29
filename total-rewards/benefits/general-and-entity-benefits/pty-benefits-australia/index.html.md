@@ -201,7 +201,8 @@ Unpaid carer’s leave can be taken:
 
 <details markdown="1">
 
-<summary>Family and Domestic Violence Leave</summary>
+<summary>Family and Domestic Violence Leave
+</summary>
 
 * All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify the Absence Management team (leaves@gitlab.com) if they need to make use of this leave.
 * For more information on Family and Domestic Violence Leave, please visit the Fair Work Ombudsman Website.
@@ -218,7 +219,8 @@ Unpaid carer’s leave can be taken:
 
 <details markdown="1">
 
-<summary>Compassionate and Bereavement Leave</summary>
+<summary>Compassionate and Bereavement Leave
+</summary>
 
 All team members are entitled to 2 days of paid compassionate leave if:
 
@@ -250,7 +252,8 @@ This leave runs concurrently with GitLab PTO. Team members should select `Bereav
 
 <details markdown="1">
 
-<summary>[Public Holidays](https://www.fairwork.gov.au/leave/public-holidays)</summary>
+<summary>[Public Holidays](https://www.fairwork.gov.au/leave/public-holidays)
+</summary>
 
 * All team members are entitled to at least their base pay rate for all hours worked on public holidays.
 * Team members who take time off for public holidays are entitled to their base pay rate for the ordinary hours they would have worked. GitLab encourages all team members to take time off for the holidays they observe.
@@ -260,7 +263,8 @@ This leave runs concurrently with GitLab PTO. Team members should select `Bereav
 
 <details markdown="1">
 
-<summary>Community Service Leave</summary>
+<summary>Community Service Leave
+</summary>
 
 * All team members are entitled to unpaid community service leave for voluntary emergency management activities. Team members are also entitled to paid community service leave for jury duty.
 * A team member engages in a voluntary emergency management activity if:
@@ -273,7 +277,8 @@ This leave runs concurrently with GitLab PTO. Team members should select `Bereav
 
 <details markdown=1>
 
-<summary>Jury Duty</summary>
+<summary>Jury Duty
+</summary>
 * Team members are entitled to “make-up pay” for the first 10 days of jury selection and jury duty. GitLab will supplement the difference between the amount that the team member has been paid and their ordinary pay to ensure that the team member receives 100% of their salary for the first 10 days of jury duty/selection.
 * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 * Team members must notify their manager of the period or expected period of leave as soon as possible and provide evidence showing they attended jury selection or jury duty.
@@ -402,7 +407,8 @@ Partner Leave
 
 <details markdown="1">
 
-<summary>Stress Leave</summary>
+<summary>Stress Leave
+</summary>
 
 * A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#sick-leave) apply. 
 * This leave runs concurrently with GitLab PTO. 
@@ -419,7 +425,8 @@ For more information related to this policy, please reivew the [Employment New Z
 
 <details markdown="1">
 
-<summary>Leave for Defence Force Volunteers</summary>
+<summary>Leave for Defence Force Volunteers
+</summary>
 
 * Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. 
 * This leave runs concurrently with GitLab PTO. 
@@ -434,7 +441,8 @@ For more information related to this policy, please reivew the [Employment New Z
 
 <details markdown="1">
 
-<summary>Election Voting Leave</summary>
+<summary>Election Voting Leave
+</summary>
 
 * Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to [take time off to vote](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) or volunteer at the polls. 
 * This leave runs concurrently with GitLab PTO. Team members must select `Public Service/Volunteer` in PTO by Roots to ensure that statutory entitlements are properly tracked.
@@ -445,7 +453,8 @@ For more information related to this policy, please reivew the [Employment New Z
 
 <details markdown="1">
 
-<summary>Jury Service</summary>
+<summary>Jury Service
+</summary>
 
 * All team members who have been called for jury service are entitled to unpaid leave for the duration of the service. Team members who attend jury service receive an attendance fee from the Ministry of Justice. 
 * Jury Service Leave runs concurrently with GitLab PTO. Team members must select `Jury Duty` in PTO by Roots to ensure that statutory entitlements are properly tracked.
@@ -456,7 +465,8 @@ For more information related to this policy, please reivew the [Employment New Z
 
 <details markdown="1">
 
-<summary>Bereavement Leave</summary>
+<summary>Bereavement Leave
+</summary>
 
   All team members who have been employed for six months are entitled to three days of paid leave in the event of the death of a spouse or partner, parent, child, sibling, grandparent, grandchild, or parent of a spouse or partner, and one day in the event of the death of another person not previously listed.
 * This leave runs concurrently with GitLab PTO. Team members must designate this time off as `Bereavement Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
@@ -468,7 +478,8 @@ For more information related to this policy, please reivew the [Employment New Z
 
 <details markdown="1">
 
-<summary>Family Violence Leave</summary>
+<summary>Family Violence Leave
+</summary>
 
   All team members who have been employed for a six month continuous period are entitled to 10 days of paid leave if they have been affected by family violence. 
 * This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
@@ -483,7 +494,8 @@ For more information regarding this policy, please reivew the [Employment New Ze
 
 <details markdown="1">
 
-<summary>COVID-19 and the workplace</summary>
+<summary>COVID-19 and the workplace
+</summary>
 
   GitLab and its team members need to work together to protect New Zealand and keep each other safe during the global COVID-19 pandemic. This means that normal obligations to keep in regular contact and to act in good faith are more important than ever. 
 * This leave runs concurrently with GitLab PTO. Team members must designate this time off as `Out Sick` in PTO by Roots to ensure that statutory entitlements are properly tracked.
@@ -494,7 +506,8 @@ For more information pleave review the [Employment New Zealand website](https://
 
 <details markdown="1">
 
-<summary>Garden Leave</summary>
+<summary>Garden Leave
+</summary>
 
   A GitLab team member may use Garden Leave when they have provided their resignation and a Garden Leave is mutually agreed upon by both the team member and GitLab.  Team members can not be forced to take a Garden Leave, but both the team member and GitLab may find it useful in the following situations:  
 
@@ -515,7 +528,8 @@ For more information pleave review the [Employment New Zealand website](https://
 
 <details markdown="1">
 
-<summary>Leave Without Pay</summary>
+<summary>Leave Without Pay
+</summary>
 
   Leave without pay is when GitLab allows an team member time off work when they would otherwise be working, but doesn’t pay them for this time. Leave without pay (LWOP) doesn’t end an team member’s employment, and usually the team member returns to their same position and terms and conditions after taking leave without pay (unless the employee and team member agree otherwise). Leave without pay can affect the employee's annual holidays payment and entitlement in some situations.  
 
@@ -527,7 +541,8 @@ For more information regarding Leave without Pay, please review the [Employment 
 
 <details markdown="1">
 
-<summary>Long Service Leave</summary>
+<summary>Long Service Leave
+</summary>
 
   While not a legal requirement, long service leave may be negotiated between a team member and GitLab as additional entitlements under their employment agreement.
 
