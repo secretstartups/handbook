@@ -23,11 +23,7 @@ It is so important to take time off to recharge batteries and refresh the mind s
 
 This page is written with a focus on vacation. The below recommendations on communicating your time off apply to time off for all reasons where possible and avoid concerns of health, safety, or job abandonment.
 If taking time off for medical needs or sick time, whether physical or mental, please follow our [Sick Time Policy](/handbook/paid-time-off/#sick-time-procedures---all-team-members).
-
-In the United States, team members may experience a qualifying condition under the Family Medical Leave Act (FMLA) after 3 days of continuous or non-continuous absences (if related to the same condition).  Team Members may notify GitLab as of the 3rd day of their absence, but are required to notify their Absence Management Team at [leaves@gitlab.com] no later than the 5th consecutive/non-consecutive absence so that the team can process your time off under the applicable leave laws. Your pay will be administered under our Sick Time policy for the first 25 days, and then you should move onto [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or the equivalent State pay benefits. 
-    
-* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away.
-    
+ 
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ## A GitLab team members Guide to Time Off
@@ -145,6 +141,8 @@ Sick time refers to the time away a team member needs to recover from short-term
 
 In keeping with our values of [CREDIT](/handbook/values/), we have crafted the following protocols around GitLab's global sick time policy available to all GitLab team members.  Team members may be eligible for their own country's [Sick Time Policies](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) and should review eligiblilty under these policies as they may offer more time away or have different reporting procedures.  We understand team members experience situations when they need continuous time away from work (5 days or more) to care for themselves or a family member, or situations when they just need a few days (less than 5), GitLab's Sick Time policy is applicable in both situations.  
 
+*Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance.
+
 #### Sick Time Procedures - All Team Members
 
 **Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
@@ -158,12 +156,11 @@ If you or a loved one is ill, we want you to take care of yourself or your loved
 If you end up needing sick leave for more than 5 consecutive calendar days, or 5 non-continuous calendar days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 #### Sick Time Procedures - USA
+In the United States, team members may experience a qualifying condition under the Family Medical Leave Act (FMLA) after 3 days of continuous or non-continuous absences (if related to the same condition).  If you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes. Team Members may notify GitLab as of the 3rd day of their absence, but are required to notify the Absence Management Team [leaves@gitlab.com] no later than the 5th consecutive/non-consecutive absence so that the team can process your time off under the applicable leave laws. 
 
-In the United States, if you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes.  Employees of GitLab Inc. are eligible for our Sick Time policy; which will run concurrently with any State or FMLA leave entitlement, but must report their absence as early as the 3rd day but no later than the 5th day of absence. Team Members are under no obligation to reveal details to their manager directly, but they do need to report their absence to the Absence Management team [leaves@gitlab.com]. 
+* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away.
 
-* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away. 
-
-Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance.
+Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), and/or the equivalent State pay benefits. 
 
 #### Sick Time Procedures - Netherlands
 
@@ -178,19 +175,25 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 - If the team members is on long-term sick leave (8 days of more), Team Member Relations will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
 - Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
-#### Doctor's Note
+#### Medical Certificate/Doctor's Note
 
-Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time. Please review your employment contract or your [country's](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) Sick Time policy to determine what documentation may be needed.
+Please be aware that certain countries require a medical certificate, doctor's note or similar type of documentation for your sick time. Please review your employment contract or your [country's](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) Sick Time policy to determine what documentation may be needed.
 
-To add a Doctor's note to BambooHR, please upload it to the employee uploads folder and let the Absence Management team (leaves@gitlab.com) know that you have added it. 
+Eligibility for GitLab's Sick Time policy will require team members to provide evidence, in accordance with local requirements, supporting the need for Sick Leave.
+
+Team Members may add the evidence to BambooHR themselves or email the Absence Management team (leaves@gitlab.com).  If you choose to upload the evidence, please email leaves@gitlab.com and inform them that you have added it. 
 
 ## Communicating Illness-Related Leave
 
-In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the Absence Management Team `leaves@gitlab.com`. The Sr. Absence Management Partner will inform the People Business Partner and Manager on a need-to-know basis, and if needed will only provide details related to leave dates; not illness. If the manager does become aware of the team members illness, the manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
+In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the Absence Management Team `leaves@gitlab.com`. The Absence Management Team will inform the People Business Partner and Manager on a need-to-know basis, but will only provide details related to leave dates; not illness. If the manager does become aware of the team members illness, the manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
 ## Accommodations
 
-If a team member does choose to start the conversation about [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) in the [US] or [accommodations in the EU], please have the team member reach out to the Absence Management Team by emailing `leaves@gitlab.com`. If the team member starts the conversation with the manager, we would ask the manager to reach out to the Absence Management Team, by emailing `leaves@gitlab.com`. The Absence Management Team will keep a log of all accommodation requests. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location.
+If you believe you need reasonable accommodations to perform the essential functions of your job in accordance with applicable law(s), please email leaves@gitlab.com (Non-US Only).  [US team members](/handbook/people-policies/inc-usa/#reasonable-accommodation) please follow the steps outlined in the handbook. 
+
+If a team member starts the conversation with their manager, or People Business Partner, the manager or People Business Partner should either reach out to the Absence Management Team by emailing `leaves@gitlab.com`, or direct the team member to follow the steps outline in the handbook (links above). 
+
+The Absence Management Team will keep a log of all accommodation requests. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location.
 
 ### Communicating with team members while they are leave of absence
 For team members who are on paid or unpaid leave of absence like [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), [short or long-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or [other approved leaves](/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time. Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being. For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence. An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.
@@ -200,45 +203,10 @@ We do understand that during extended periods of time off team members may still
 For managers it is ok to reach out to a team member every 3-4 weeks to just to say hello. These conversations should remain social and avoid work related topics.
 
 ## Unpaid Leave of Absence
-Unpaid Personal Leave is a GitLab company policy which affords team members up to 30 calendar days of unpaid, unprotected time away from work.  This leave policy is intended to provide time away when a team member's leave reason does not meet eligibility for our other [leave policies](/handbook/people-policies/leave-of-absence/) or additional paid time under our PTO policy can not be provided. This policy is not intended to be used to extend, replace, or delay reporting time away under our other leave policies. 
-
-Requests of more than 30 calendar days must receive functional Vice President and group People Business Partner approval.
-
-### Requesting this Leave
-1. Team members should first email leaves@gitlab.com. The Absence Management team will review the request to determine if there are statutory leave programs they may be eligible for in their country.  
-1. If the Absence Management team informs you that you are not eligible for any statutory leave programs, this request should then be discussed with your Manager.  
-    - Team members must be fully performing in role (including both attendance and performance) and the business must be able to support the time away.
-   
-Managers may deny this request if a team member does not meet these requirements or the business can not support the time away, but they should reach out to Team Member Relations to discuss the reason for the denial prior to communicating with the Team Member. 
-
-#### Additional Information
-* If a team member incorrectly receives a payroll payment while on unpaid leave, they are to immediately notify leaves@gitlab.com via email.  Any funds paid in error are subject to immediate repayment.
-* The team member should confirm their intent to return to work at least 2 weeks prior to their return to work date. 
-* Vesting and company-sponsored benefits will be paused as soon as this leave is approved.
-    - Vesting and benefits will be reinstated effective the date the team member returns to work.
-* Time away should be categorized as `Vacation` in PTO by Roots.
-
-### Admin Steps:
-#### Managers, please follow these steps to process a Personal leave request: 
-Ensure the team member has first reached out to leaves@gitlab.com, and then follow the steps below.  If the team member has not yet emailed the Absence Management team, please direct them to do so next.
-
-#### If approving the leave:
-* Please email leaves@gitlab.com. Include in the email:
-    - Team Member's Name
-    - Confirm your approval of the leave
-    - Start date and End date of the leave
-    - Confirm you have explained to the team member their leave will be unpaid, and both vesting and benefits will be paused.
-
-#### If denying the leave:
-* Please email team Team Member Relations (teammemberrelations@gitlab.com).  Include in your email:
-    - Team Member's Name
-    - Reason(s) why you are denying their request.
-
-#### Absence Management Team:
-* Once an unpaid personal leave request has been approved, the Absence Management team will update Bamboohr and inform Payroll.  
-* Once the team member has a confirmed their return to work date, the Absence Management team will notify the team member's manager, update BambooHR (if applicable) and notify payroll, benefits and stock admin to reinstate benefits.
+Details relating to Unpaid Personal Leave can be found on the [Leave of Absence page](/handbook/people-policies/leave-of-absence/).
 
 ## PTO by Roots
+All team members and Managers, including those employed under a PEO, are expected to log all time away requests into PTO by Roots (Vacation, Public Holiday, Friends & Family, Sick Time, etc.)
 
 [PTO by Roots](https://treehoppr.com/pto-ninja) allows team members and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
@@ -264,7 +232,6 @@ You can find the Home Tab by visiting `Apps` in the menu bar within Slack, and s
 * View your OOO dashboard to edit, add or remove OOO events.
 * Modify your profile and calendar settings.
 * Opt-in and out for reminders, including monthly messages prompting you to consider what PTO you may take this month.
-
 
 ### PTO by Roots / BambooHR Time Off Sync
 
@@ -305,8 +272,6 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
    - Update your BambooHR email by logging into BambooHR - selecting the personal tab and scroll to the bottom. Update the Work Email field with the correct email address.
 1. Once these two emails match, it will take a few hours for the sync to catch up to the change.
 1. If these two are the same, please reach out in the `#people-connect` channel.
-
-
 
 ### Additional Features
 
@@ -421,9 +386,9 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 1. Pull a report of PTO taken in the previous quarter
 1. Notice the kind of PTO that your team has taken. Consider the following questions and manager actions:
     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
-     - How much sick leave did your team take? If you have a team member who has taken multiple sick days, please contact Team Member Relations at `teammemberrelations@gitlab.com` to address the next steps to take in line with applicable law.
-     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative).
-     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working.
+     - How much sick leave did your team take? If you have a team member who has taken 5 or more consecutive sick days, or non-consecutive if related to the same illness, please contact the Absence Management Team at `leaves@gitlab.com` to address the next steps to take in line with applicable law.
+     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative) and labeling the time away as `Friends and Family` in PTO by Roots.
+     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and lableing the time away as `Public Holiday` in PTO by Roots.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
@@ -510,21 +475,23 @@ Take care not to burn yourself out!
 
 The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, team members can still make use of GitLab's Flexible time off policy.
 
-1. GitLab LTD (UK Employees)
-    * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK government has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calendar years (2020-2021,2021-2022).
-1. GitLab BV (Netherlands Employees)
-    * Employees are entitled to at least 20 statutory vacation days per calendar year. The days will accrue at 1.67 days/month from the team members start date. Any unused statutory vacation days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
+1. GitLab LTD (UK)
+    * Team members are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However, given the situation surrounding COVID-19 team members may be eligible to carry over unused vacation days if team members have a COVID-related reason that prevented them from being able to utilize vacation.  [UK government announcement](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19).
+1. GitLab BV (Netherlands)
+    * Team members are entitled to at least 20 statutory vacation days per calendar year. The days will accrue at 1.67 days/month from the team members start date. Any unused statutory vacation days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
+1. GitLab BV (Finland)
+    * Team members with less than 1 year of tenure are entitled to 2 days/month totaling 2 weeks per year.  Team members with 1 year or more of tenure are entitled to 2.5 day/month totaling 30 days per year.  Team members are allowed to carry over up to 24 workdays into the next calendar year, but expire 1 year from the accrual on April 1st. 
 1. GitLab BV (Belgium)
-    * Employees are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
+    * Team members are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
 1. GitLab IT BV (Contractors)
     * Contractors do not have statutory vacation requirements, but are eligible for our Flexible Time Off Policy.
 1. GitLab GmbH (Germany)
-    * Employees are entitled to at least 20 vacation days. The days will accrue from the start date. In general, employees must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
+    * team members are entitled to at least 20 vacation days. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
 1. GitLab PTY (Australia & New Zealand)
-    * Employees are entitled to a minimum of four weeks’ annual holidays per year. Annual leave does not expire and can be carried over each year.   
-    * New Zealand Only:  GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice.
+    * Team members are entitled to a minimum of four weeks’ annual holidays per year. Annual leave does not expire and can be carried over each year.   
+    * New Zealand Only:  GitLab may set expectations on how much annual leave team members may accumulate and may require team members to take entitled leave with 14 days notice.
 1. GitLab GK (Japan)
-    * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when employees leave companies unless otherwise provided in the work rules or employment contracts.
+    * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when team members leave companies unless otherwise provided in the work rules or employment contracts.
 1. GitLab Inc. (USA)
     * The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
 1. GitLab Canada Corp (Canada)
@@ -554,6 +521,27 @@ The following is a list of all statutory annual vacation entitlements by entity 
 | Quebec Only                  | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
 | Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
 | Ontario | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
+1. GitLab Ireland
+    * Team members are entitled to accrue 20 days per year at a rate of 1.67 days/month from the team member's start date. The holiday year will run from January 1st to December 31st of each year. Unused vacation days cannot ordinarily be carried forward into the following holiday year, however, if the team member is unable to take vacation due to long-term sick leave, then unused vacation days can be carried forward for up to 15 months from the end of the relevant holiday year.
+1. GitLab Korea Limited
+    * Team members with 0-1 year of service are entitled to 1 day/month or 12 days/year.
+    * Team members with 1-3 years of service are entitled to 1.25 days/month or 15 days/year.
+    * Team members with 3+ years of service are entitled to one additional day for every two years continuously worked up to 25 days/year.
+    * Accrual balances reset January 1st of every year.
+1. GitLab PTE Ltd. (Singapore)
+    * After 3 months of employment, accrual rates will be based on tenure. Team members are allowed to carry over unused vacation up to the statutory accrual limit based on tenure.
+    * 1 year of service:  7 days/year
+    * 2 years of service:  8 days/year
+    * 3 years of service:  9 days/year
+    * 4 years of service:  10 days/year
+    * 5 years of service:  11 days/year
+    * 6 years of service:  12 days/year
+    * 7 years of service:  13 days/year
+    * 8 years of service:  14 days/year
+1. GitLab S.A.S (France)
+    * Team members are entitled to a minimum of 5 weeks of statutory vacation per year. The accrual period in France is June 1st - May 31st and accruals are prorated based on the number of months worked in the accrual period.  Any unused statutory vacation days will be carried into the next accrual period, but expire one year after it's accrued. 
+    * Reduction of working time (RTT):
+The 25-day holiday entitlement is an employee's right based on a 35-hour workweek. In cases where employees need to work beyond the legal 35 hours, certain roles within GitLab may benefit from reduced working time (RTT)of up to two days per month to compensate for the extended working hours. RTT is calculated by taking the working days in the year and subtracting the contracted days. Employees cannot carry RTT days to the following year. 
 
 ## Processing Vacation Requirements (People Ops Instructions)
 
@@ -563,7 +551,6 @@ Review above section `Statutory Minimum Vacation Time` for questions around date
 1. In **January**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure no team members are rolling over a negative balance. 
 
 1. In **June**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure team member's PTO does not exceed 10 days in accordance with The Netherlands regulations. 
-
 
 ##### GitLab BV (Belgium)
 1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year.
