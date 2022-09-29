@@ -44,7 +44,8 @@ The Partner Integration Engineer is a [grade 6](/handbook/total-rewards/compensa
 
 * Relevant experience as a Partner Engineer, Sales Engineer, Developer Evangelist, or similar roles
 * B.A/B.S. or M.S. or equivalent degree or experience
-* Experience software in languages like Python, Objective-C, PHP, C/C++, Ruby, C# or other programming languages
+* Experience in languages and frameworks used at GitLab including Ruby, Ruby on Rails and Go lang
+    * Alternatively, proven experience in other popular backend and systems languages such as Python, Rust or Java and a willingness to learn and work with Ruby and Go lang
 * Experience working with GitLab software and GitLab’s core architecture
 * Experience working with Web technology stack
 * Experience communicating and partnering with cross-functional teams
@@ -90,7 +91,8 @@ The Manager, Partner Integration Engineers is a [grade 9](/handbook/total-reward
 * B.A/B.S. or M.S. or equivalent degree or experience
 * Technical presentation and communication skills
 * Prior experience as a Partner Engineer, Sales Engineer, Developer Evangelist, or similar roles
-* Experience in software in languages like Python, Objective-C, PHP, C/C++, Ruby, C# or other programming languages
+* Experience in languages and frameworks used at GitLab including Ruby, Ruby on Rails and Go lang
+    * Alternatively, proven experience in other popular backend and systems languages such as Python, Rust or Java and a willingness to learn and work with Ruby and Go lang
 * Knowledge of the end-to-end software development lifecycle
 * You have modern SDLC experience with one of the following:
    * DevSecOps
