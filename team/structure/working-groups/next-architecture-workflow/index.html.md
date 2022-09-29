@@ -122,6 +122,7 @@ and improving the success rate of working groups in their current form first.
 | Member                   | Lucas Charles                   | Staff Backend Engineer, Sec::Static Analysis   |
 | Member                   | João Pereira                    | Staff Backend Engineer, Package                |
 | Member                   | Natalia Tepluhina               | Staff Frontend Engineer, Plan                  |
+| Member                   | Tyler Amos                      | Staff Backend Engineer, Fulfillment Platform  |
 
 
 [slack-channel]: https://gitlab.slack.com/archives/CJ4DB7517
