@@ -53,7 +53,7 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 | Issue | Test Length | Status | 
 | ------ | ------ | ------ |
-|  |  |  |
+| [Add borders around pricing tiers on /pricing based on DemandBase data](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/16) | 2022-09-29 to 2022-10-12 | Live |
 |  |  |  |
 
 ### Completed A/B Tests & Results 
