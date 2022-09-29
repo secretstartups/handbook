@@ -18,7 +18,7 @@ This page details processes and general guidelines specific to the Executive Bus
 ### E-Group Member EBAs
 * Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO)
 * Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO) 
-* Cindy King (Sr. EBA) supporting Brian Robins (CFO) and Dale Brown (Principal Accounting Officer) and Brijen Joshi (VP on Internal Audit)
+* Darci Tadich (Sr. EBA) supporting Brian Robins (CFO) 
 * Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
 * Aimee David supporting Sid Sijbrandij (CEO) and Stella Treas (CoS)
 * Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
@@ -33,6 +33,8 @@ This page details processes and general guidelines specific to the Executive Bus
 * Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate), Robert Nalen (Sr. Director, Contracts & Legal Operations), and Stacy Cline (Sr. Director, ESG)
 * Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Jack Andrews (VP of Investor Relations), Jim Gladen (VP Tax) 
 * Blaire Sullivan (EBA) supporting Dave Steer (VP of Product Marketing), Carrie Maynard (VP of Integrated Marketing), Ray Leihe (VP Marketing Strategy & Platforms), Jean-Baptiste Larramendy (AVP of Sales Development) and Christina Lee (Sr. Director - Marketing Strategy & Platforms)
+* Cindy King (Sr. EBA) Dale Brown (Principal Accounting Officer) and Brijen Joshi (VP on Internal Audit)
+
 
 
 
