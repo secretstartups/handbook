@@ -861,7 +861,8 @@ This is a link to our [documentation on how to implement a video band](/handbook
 
 <details markdown="1">
 
-<summary>Why isn't this form working?</summary>
+<summary>Why isn't this form working?
+</summary>
 
 ### Why isn't this form working?
 
@@ -873,7 +874,8 @@ If you have tried the above solutions but are still having trouble using a form,
 </details>
 <details markdown="1">
 
-<summary>Why can't I see something in the review apps?</summary>
+<summary>Why can't I see something in the review apps?
+</summary>
 
 ### Why can't I see something in the review apps?
 
@@ -883,7 +885,8 @@ If you need to **temporarily** preview an item in the review app before release,
 </details>
 <details markdown="1">
 
-<summary>What logos do we have permission to use?</summary>
+<summary>What logos do we have permission to use?
+</summary>
 
 ### What logos do we have permission to use?
 
@@ -891,7 +894,8 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
 </details>
 <details markdown="1">
 
-<summary>Can I request a specific project release time?</summary>
+<summary>Can I request a specific project release time?
+</summary>
 
 ### Can I request a release time?
 
@@ -915,7 +919,8 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
 </details>
 <details markdown="1">
 
-<summary>How do I fix a stuck merge train?</summary>
+<summary>How do I fix a stuck merge train?
+</summary>
 
 ### How do I fix a stuck merge train?
 
