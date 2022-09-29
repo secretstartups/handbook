@@ -50,6 +50,9 @@ Suggested communication cadence:
 
 ### How do I create and conduct research using a panel?
 
+#### Establish a DRI for the panel
+Before creating a panel, you will need to establish a Panel DRI. This person is responsible for steps within the creation of the panel, communicating with participants, and panel management and tracking.
+
 #### Creating a panel
 To create a panel, follow the steps below. If you have any questions, please contact a UX Research Operations Coordinator to assist you.
 
@@ -62,13 +65,13 @@ To create a panel, follow the steps below. If you have any questions, please con
 3. **Find your participants by creating a research recruitment request**
 - To populate your panel, open a [research recruitment request](/handbook/engineering/ux/ux-research-training/recruiting-participants/#how-to-recruit-participants-when-you-arent-sure-where-to-find-them) and indicate that the request is for a research panel.
 - You can find participants yourself and skip this step.  
-- Who does this: Research project DRI and Research Operations
+- Who does this: Panel DRI and Research Operations
 4. **Decide who will be in your panel and use the [Panel Tracking & Reimbursement Template](https://docs.google.com/spreadsheets/d/1uQO7BfvXCB-ysIRMivH5ReG8LB5nptGw0ma7E4Rz5gM/copy) to compile participants**
 - After respondents complete the screener, you will need to review responses and determine who qualifies for the panel based on your criteria.
 - Add the panelists and their information in the Panelist Information sheet in the [Panel Tracking & Reimbursement Template](https://docs.google.com/spreadsheets/d/1uQO7BfvXCB-ysIRMivH5ReG8LB5nptGw0ma7E4Rz5gM/copy). To do so, download the results from Qualtrics and transfer to the Panelist Information sheet. 
-- Who does this: Research project DRI
+- Who does this: Panel DRI
 5. **Communicate with participants regarding their inclusion in the panel, who their point of contact will be for the research effort, and frequency and length of participation.** [Refer to Communication guidelines for participant outreach](/handbook/engineering/ux/ux-research-training/research-panel-management/#panel-management-and-tracking).
-- Who does this: Research project DRI
+- Who does this: Panel DRI
 - See [Participant email communication examples](https://docs.google.com/document/d/1vEthOeiZl-yly-afd6eZrh5DIXL-DzH79BZBOKxzqlM/edit?usp=sharing) for templates.  
 
 #### Conducting research with your panel
@@ -77,13 +80,13 @@ After you have established your panel, follow these steps to utilize panel parti
 1. **Identify participants you want to reach out to in your panel**
 - Sometimes you may want to use a mixture of panelists and other recruitment methods for a study. 
 - Check in the [Panel Tracking & Reimbursement](https://docs.google.com/spreadsheets/d/1uQO7BfvXCB-ysIRMivH5ReG8LB5nptGw0ma7E4Rz5gM/copy?usp=sharing) template to see how many times they have participated in previous studies. If they have already participated in (4) 60-minute sessions during the calendar year, remove them from the panel.
-- Who does this: Research project DRI
+- Who does this: Panel DRI
 2. **Schedule your sessions**
 - Schedule your [sessions using Calendly](/handbook/engineering/ux/ux-research-training/recruiting-participants/#create-a-calendly-event). Here is an [email template](https://docs.google.com/document/d/1vEthOeiZl-yly-afd6eZrh5DIXL-DzH79BZBOKxzqlM/edit?usp=sharing) you can use when scheduling sessions with panelists. 
-- Who does this: Research project DRI
+- Who does this: Panel DRI
 3. **Compensate your participants by submitting a incentives request**
 - To compensate panelists as they participate in studies, follow our existing process for incentives by submitting an [incentives request](/handbook/engineering/ux/ux-research-training/recruiting-participants/#when-do-i-submit-an-incentives-request-with-ux-research-operations).
-- Who does this:  Research project DRI
+- Who does this: Panel DRI
 
 **As you use your panel, you will need to continually manage and track panelist information and engagement. Refer to the [Panel management and tracking](/handbook/engineering/ux/ux-research-training/research-panel-management/#panel-management-and-tracking) section.**
 
