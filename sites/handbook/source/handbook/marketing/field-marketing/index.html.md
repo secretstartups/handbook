@@ -1395,7 +1395,8 @@ We feel like this info is too good to delete, and while we currently aren't usin
 
 <details markdown="1">
 
-<summary>We will be deprecating usage of Printfection and will use Reachdesk or our selected swag vendor for direct mail. Expand below to see details regarding Printfection</summary>
+<summary>We will be deprecating usage of Printfection and will use Reachdesk or our selected swag vendor for direct mail. Expand below to see details regarding Printfection
+</summary>
 
 
 The below steps can be followed to set up and run a giveaway campaign using Printfection for field marketing. If you come across any steps that you can’t follow in Printfection, post in the [#swag Slack channel](https://app.slack.com/client/T02592416/C66R8N98F) so a Community Advocate can update your permissions levels.
@@ -1433,7 +1434,8 @@ using the Direct Mail campaign status progressions. (for example, when a person'
 
 <details markdown="1">
 
-<summary>Expand below to see details regarding Account-Centric Micro-Campaigns</summary>
+<summary>Expand below to see details regarding Account-Centric Micro-Campaigns
+</summary>
 
 
 The purpose of the regional integrated micro-campaign is to build and drive a specific strategy in a region (with a specific list of targeted accounts/look-a-like accounts). This could be based on intent data pulled from our ABM tool, DemandBase, or it could be based on accounts you’ve agreed to target with your SAL. A micro-campaign must include a minimum of 2 different account-centric tactics.
@@ -1593,7 +1595,8 @@ For example - You have created a micro-campaign that will include a self-service
 
 <details markdown="1">
 
-<summary>Expand below to see details regarding SimplyDirect</summary>
+<summary>Expand below to see details regarding SimplyDirect
+</summary>
 
 #### Overview
 SimplyDirect is a third party company that helps companies identify buyers and early adopters using the latest in big data tools and high-response surveys. The program from SimplyDirect includes surveying (through GatePoint Research), responder intelligence, and custom content creation in the shape of a Pulse Report highlighting the overall findings from survey responses.  These custom built surveys are developed via collaboration with GitLab sellers, Product Marketing, and Sales Development Reps, where the aim is to target accounts to create actionable sales intelligence which reveals an account’s needs, pain, plans and trends. In addition, GatePoint Research provides an incentive of a free gift upon completing the survey.
