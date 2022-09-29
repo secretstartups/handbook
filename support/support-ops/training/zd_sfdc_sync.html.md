@@ -48,7 +48,8 @@ data from Salesforce using various
 queries:
 
 <details>
-<summary>Global SFDC query</summary>
+<summary>Global SFDC query
+</summary>
 <div><pre><code>
 SELECT
   Account.Account_ID_18__c,
@@ -97,7 +98,8 @@ WHERE
 </details>
 
 <details>
-<summary>US Federal SFDC query (accounts)</summary>
+<summary>US Federal SFDC query (accounts)
+</summary>
 <div><pre><code>
 SELECT
   Account.Account_ID_18__c,
@@ -141,7 +143,8 @@ Account_Territory__c LIKE 'USPUB-FED%' AND
 </details>
 
 <details>
-<summary>US Federal SFDC query (contacts)</summary>
+<summary>US Federal SFDC query (contacts)
+</summary>
 <div><pre><code>
 SELECT
   Contact.Name,
