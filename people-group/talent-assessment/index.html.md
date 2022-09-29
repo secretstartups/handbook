@@ -336,11 +336,11 @@ After the calibration sessions the performance and growth potential outcomes can
 ## Timeline
 Below is the high level timeline for the formal assessment in Q4 FY23 (Nov, Dec, Jan). Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions. 
 
-- **2022-10-03: **Training and Enablement
+- **2022-10-03:**Training and Enablement
 - **2022-10-19:** Kick off Optional Self-Evaluation cycle for all Team Members and Required Manager Evaluation in Workday
 - **2022-11-04:** Due date for all Manager Evaluations to be complete
 - **2022-11-04 - 2022-11-29:** Time for calibration and finalising assessments
-- **2022-11-30: ** Workday Talent Assessment will be locked 
+- **2022-11-30:** Workday Talent Assessment will be locked 
 - **2022-12-01 - 2022-12-08:** Total Rewards and E-Group review and approval
 - **2022-12-09 - 2022-12-14:** Managers will have access to Workday Talent Assessment to finalize evaluations
 - **2022-12-19 - 2023-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
@@ -393,7 +393,7 @@ Aligned with the [timeline](https://about.gitlab.com/handbook/people-group/talen
 The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the Q4 FY23 Talent Assessment cycle is **November 1, 2022** aligned with the cycle kick off. Guidelines are as follows: 
 
 1. **If a team member is promoted with an effective date _on or before_ November 1, 2022, they should be assessed at the newly promoted level.** 
-    * For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2022 in BambooHR (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.  
+    * For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2022 in Workday (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.  
 1. **If a team member is promoted with an effective date _after_ November 1, 2022, they should be assessed at the pre-promotion level.**
     * For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of December 1, 2022, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
 
