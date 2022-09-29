@@ -257,6 +257,7 @@ For more details on logistics of ending an interim or acting period please refer
     qual:jset(Intern Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
     qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
     qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
+    qual:ifsecs(Intermediate Fullstack Engineer, Contributor Success)-->qual:sfsecs(Senior Fullstack Engineer, Contributor Success);
   end
 
   subgraph Based on Merit &amp; Company Need
@@ -265,6 +266,8 @@ For more details on logistics of ending an interim or acting period please refer
 
     qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
     qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+
+    qual:sfsecs(Senior Fullstack Engineer, Contributor Success)-->qual:stfsecs(Staff Fullstack Engineer, Contributor Success)
 
     qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
     qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
