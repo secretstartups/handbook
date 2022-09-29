@@ -44,7 +44,8 @@ Why are these groupings called 'Stages'? At GitLab, we build a product that supp
 #### Manage Stage
 This Stage helps teams manage their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity. Insights, authentication, audits, compliance, user management, group & sub-group management, and project management.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 
 **Top dashboards referenced by this team**
@@ -113,7 +114,8 @@ This link breaks down the performance indicators for each Manage Group clearly a
 #### Plan Stage
 Enable teams to effectively plan and execute work in a single application. This stage enables portfolio planning and management through epics, groups (programs), milestones, etc. to organize and track progress
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -175,7 +177,8 @@ Create provides tools that support the beginning of the DevOps Life Cycle. Sourc
 
 [Start on the GitLab website page](https://about.gitlab.com/features/?stage=create) dedicated to Create to get an understanding of features included in this Stage. 
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -242,7 +245,8 @@ Contains helpful information about how Create operates and current team members
 #### Verify Stage
 Verify provides teams with tools that help facilitate continuous integration. This includes but is not limited to pipelines and runners. 
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -315,7 +319,8 @@ Slack channel for the Verify:Pipeline Insights product category.
 #### Package Stage
 The Package team works on the package and container registries, as well as the Dependency Proxy.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -397,7 +402,8 @@ GitLab Docs are awesome!
 
 GitLab's integrated CD solution allows users to ship code with zero-touch, be it on one or one thousand servers.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -449,7 +455,8 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 Enabling users to configure applications and infrastructure. Auto DevOps, Kubernetes Management and ChatOps.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -503,7 +510,8 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 Helps reduce the severity and frequency of incidents. Incident management and error tracking.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -559,7 +567,8 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning 
 
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -621,7 +630,8 @@ WHERE field = stage_name
 
 Manage security vulnerabilities, policies, and compliance across your organization.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -676,7 +686,8 @@ WHERE field = stage_name
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Systems Stage includes Distribution, Gitaly and Geo Groups.
 
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
@@ -734,7 +745,8 @@ OR
 #### Data Stores Stage
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Data Stores Stage includes Memory, Global Search, Database and Pods Groups.
 
-<details markdown="1"><summary>Click to expand</summary>
+<details markdown="1"><summary>Click to expand
+</summary>
 
 **Top dashboards referenced by this team**
 
