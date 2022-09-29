@@ -51,7 +51,7 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
     1. SALs/AEs should not be selling into accounts they do not own. Two policies apply to prevent this behavior:
         1. **Chalk the Line** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year. 
             1. Upon discovery of inaccurate ZoomInfo data resulting in incorrect assignment (examples: bad data, wrong parent account), the Account ownership should be resolved immediately. 
-        1. **Stale Account** implies when an Account's employee count deems it should move segments during the fiscal year, and there has been no SFDC activity records logged within the last 8 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the new owner.  
+        1. **Stale Accounts Exception to Chalk the Line** implies when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 8 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the new owner.  
     1. Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action. 
 1. **Account Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
@@ -191,7 +191,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
      - The secondary purpose of holdovers is to give individual contributor Account Owners (AEs and SALs) an opportunity to be compensated on labor-intensive deals that are near closure at the time an account is transitioned
      - However, holdovers delay account transition and the formation of new pipeline by the new account owner because new account owners are not paid on holdover net ARR.
 1. **Minimize holdover volume** - volume should be minimized to the most impactful and mature deals in flight at the time of account transition
-1. Stage based criteria is not applicable for opportunities moving out of the Commercial segment.
+1. Stage based criteria is not applicable for opportunities moving out of the Commercial segment. Stage criteria does not apply to holdovers for Commercial because Commercial leadership does not want this criteria to artificially inflate the value of the pipeline. Holdovers should be selected wisely as there will be no extensions to the holdover timeline.
 #### Opportunity Holdover Criteria
 The following criteria make a deal eligible for a holdover:
 
