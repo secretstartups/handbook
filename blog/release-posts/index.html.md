@@ -573,7 +573,6 @@ The TW Lead is responsible for a final review of:
 - [Usability improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
 - Verifying the deprecations and removals sections in the release post link to GitLab the corresponding pages in GitLab Docs.
-- [Releasing the next version of the documentation](#versioned-documentation-release)
 
 While individual TW reviewers and product managers have ultimate responsibility for the style and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found.
 
@@ -734,10 +733,9 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 
 ### Versioned documentation release
 
-When a new GitLab version is released on the 22nd, the TW Lead also sets up the release
-of the published documentation for that version.
+When a new GitLab version is released on the 22nd, the Technical Writer who completed the release post structural check for the previous milestone sets up the release of the published documentation for that version.
 
-For instructions, see the GitLab docs [Monthly release process](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
+For instructions, see the GitLab docs [monthly release process](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
 
 ## TW Reviewers
 
