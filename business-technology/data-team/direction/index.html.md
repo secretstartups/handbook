@@ -19,14 +19,48 @@ title: "Data Team Direction"
 
 ## FY23 Data Strategy
 
-In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Stragy, and Customer Success.
+In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Strategy, and Customer Success.
 
 - [Strategy Worksheet](https://docs.google.com/spreadsheets/d/11fkA6hAGcZGrVj7Ho2LIzHk9JGukG-x77KbC9Unsj0Q/edit#gid=0)
 - [Project Team Issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10588) 
 
+We are in progress of running the exercise for Q4.
+
 ## Strategy
 
 As an important step towards achieving our [mission](/handbook/business-technology/data-team/#mission), meeting our [responsibilities](/handbook/business-technology/data-team/#responsibilities), and helping GitLab [become a successful public company](/handbook/being-a-public-company/), we are creating an Enterprise Data Platform (EDP), a single unified data and analytics stack, along with a broad suite of Data Programs such as Self-Serve Data and Data Quality. The EDP will power GitLab's KPIs, cross-functional reporting and analysis, and in general, allow all team members to make better decisions with trusted data. Over time, the EDP will further accelerate GitLab's analytics capabilities with features such as data publishing and products - enriched and aggregated data integrated into business systems or into the GitLab product for use by our customers. This acceleration happens through the development of "Data Flywheels", much like GitLab's [Open Core and Development Spend](https://about.gitlab.com/company/strategy/#dual-flywheels) flywheels.
+
+### 1) Customer Centricity
+KPI: Revenue/Efficiency gains from Data Products
+Definition:
+1. Visibility and deep understanding of how our customers use our product and interact with our teams
+1. Focus on the Customer Journey Lifecycle & Related Analytics
+1. Build a Better GitLab for our Customers. Be customer zero.
+
+### 2) Data Community
+KPI: Data Engagement measured by MAU
+Definition:
+1. Create a community where everyone can make their best decisions with data built on SSOT Data Architecture and One Data Warehouse
+1. Best-in Class Talent, Tenure, and Growth
+
+### 3) GitLab Culture of Data First
+KPI: % of Top cross functional & LRO Projects with Measurement plans 
+Definition:
+1. All product features logged for analysis in a centrally governed way
+1. Iteration and experimentation to drive business value
+1. Strong visibility into key business results, business processes, product behavior and programs
+1. Data Governance across business systems, product, and warehouse so we all speak the same language
+1. Be customer zero for ML Ops
+
+### 4) World class data and analytics capabilities
+KPI: % Analytics Time on Level 1 / 2 work
+Definition:
+1. Scalable data platform, data collection, modeling, and visualization
+1. Master data management 
+1. Create unified data models with robust governance
+1. Cutting-edge data and analytics tools available to team members 
+1. Integrate advanced analytics with our business processes
+
 
 ## Data Capability Model
 
