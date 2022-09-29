@@ -58,6 +58,9 @@ and execution
 - Bonus points: Able to read Ruby to trace data flows and code paths
 - Bonus points: Experience with GitLab, Git, and the Git workflows
 
+### Primary Performance Indicator for the Role
+
+Work completed per two-week iteration ([Total Issue Velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
 
 ***
 
