@@ -212,7 +212,8 @@ The following actions are performed by Data Team Triager:
 
 #### Graphical representation of the process
 
-<details><summary>Click to expand graphical representation of the process</summary>
+<details><summary>Click to expand graphical representation of the process
+</summary>
 
 ```mermaid
 flowchart TD

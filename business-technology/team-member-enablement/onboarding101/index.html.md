@@ -55,7 +55,8 @@ Tip: If two or more users use the same MacBook Pro, each user can add a fingerpr
 ## Macbook Cheat Sheet 
 
 If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
-<details><summary>Click Here for Tips!</summary>
+<details><summary>Click Here for Tips!
+</summary>
 
 ![mactips2.png](mactips2.png)
 
