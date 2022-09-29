@@ -407,7 +407,7 @@ graph LR
 * Automation conditions:
   - A new MR note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches
     `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*` or is `backend`, `frontend`,
-    `workflow::in dev`, `workflow::ready for review`
+    `workflow::in dev`, `workflow::ready for review`, `workflow::blocked`
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Adds the requested label to the MR
