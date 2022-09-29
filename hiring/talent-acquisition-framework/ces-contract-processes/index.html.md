@@ -30,7 +30,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 
 | Entity | Signatory | 
 |-------- | -----|
-| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. LOAs can be signed by Morgan Wilkins  | 
+| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. LOAs can be signed by Morgan Wilkins  | 
 | GitLab Federal LLC    |       Bob Stevens     |  
 | GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel| 
 | GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
