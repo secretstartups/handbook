@@ -95,7 +95,8 @@ This PI encompasses the 100% accuracy of personal information held in our HRIS f
 
 <details markdown="1">
 
-<summary>Meet the People Compliance team</summary>
+<summary>Meet the People Compliance team
+</summary>
 
 ## Meet the People Compliance team
 
