@@ -109,6 +109,8 @@ Scroll down until you see "Extra Verification", once you're there click "remove"
 
 ### I want to add Touch ID / Face ID / Yubikey to Okta
 
+**Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for administrators, and highly recommended for all team members.**
+
 1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers. 
 
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
