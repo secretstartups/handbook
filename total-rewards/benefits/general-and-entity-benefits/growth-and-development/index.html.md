@@ -75,6 +75,7 @@ The Growth and Development policy is meant to further team members' learning and
 **Step 4:** Claim for reimbursement: 
 * If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
 * For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [table below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
+* If you reimburse through Expensify, you might be asked to provide screenshots of your approval issue by Montpac. Attach issue screenshots when you submit for reimbursement to avoid delay.
 
 ### Your 4th Trimester Applications
 For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`.
