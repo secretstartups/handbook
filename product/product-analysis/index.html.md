@@ -254,7 +254,8 @@ data self-service. Since topics are limited to 30 minutes, we ask that stakehold
 of the types of items they add to the agenda. When in doubt, add the topic and we can help scope 
 it. Here are some examples of topics for office hours:
 
-<details><summary>👍 Example Topic 1: Experiment Setup</summary>
+<details><summary>👍 Example Topic 1: Experiment Setup
+</summary>
 
 I am interested in launching an experiment to see if we can increase adoption of Secure.
 * How would you go about setting the experiment up? 
@@ -263,7 +264,8 @@ I am interested in launching an experiment to see if we can increase adoption of
 
 </details>
 
-<details><summary>👍 Example Topic 2: Approach to Analysis</summary>
+<details><summary>👍 Example Topic 2: Approach to Analysis
+</summary>
 
 I am trying to do an analysis on the relationship between users with SSO enabled and invite 
 acceptance rate.
@@ -274,7 +276,8 @@ acceptance rate.
 
 </details>
 
-<details><summary>👍 Example Topic 3: Code Review</summary>
+<details><summary>👍 Example Topic 3: Code Review
+</summary>
 
 I wrote a query to calculate xMAU for namespaces that converted from a trial to a paid plan.
 * Is this `JOIN` correct?
@@ -286,7 +289,8 @@ data source, etc.
 
 </details>
 
-<details><summary>👍 Example Topic 4: Dashboard Updates</summary>
+<details><summary>👍 Example Topic 4: Dashboard Updates
+</summary>
 
 I am looking to make some updates or enhancements to this existing dashboard.
 * Can you help me incorporate a filter into this dashboard that would allow me to limit the charts 
@@ -295,7 +299,8 @@ to activity within 30 days of namespace creation?
 
 </details>
 
-<details><summary>👍 Example Topic 5: Follow-Up Questions</summary>
+<details><summary>👍 Example Topic 5: Follow-Up Questions
+</summary>
 
 In the last key meeting, you presented an [analysis on early trial adoption](https://docs.google.com/presentation/d/1ESH797L8zwT_28n3Ypqp1xckKhvtt3jr-8eWpexgmto/edit#slide=id.ge35de508d3_0_0). 
 * Can you walk me through your methodology?
@@ -303,7 +308,8 @@ In the last key meeting, you presented an [analysis on early trial adoption](htt
 
 </details>
 
-<details><summary>👍 Example Topic 6: Scope and Define New Issue</summary>
+<details><summary>👍 Example Topic 6: Scope and Define New Issue
+</summary>
 
 I am going to open an issue for a new analysis.
 * Can we discuss the overall scope and details?
@@ -316,13 +322,15 @@ addressed during office hours and should be captured in an issue. Please note th
 are welcome to come to office hours to discuss the scope and details of the subsequent issue 
 (see example topic 6 above).
 
-<details><summary>👎 Example Topic 7: Net-New Dashboard</summary>
+<details><summary>👎 Example Topic 7: Net-New Dashboard
+</summary>
 
 Can you build a dashboard to help me understand invite acceptance rate?
 
 </details>
 
-<details><summary>👎 Example Topic 8: Net-New Analysis</summary>
+<details><summary>👎 Example Topic 8: Net-New Analysis
+</summary>
 
 Can you look into the relationship between stage adoption and retention?
 

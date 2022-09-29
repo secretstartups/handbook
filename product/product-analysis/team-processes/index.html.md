@@ -150,11 +150,13 @@ conversation on Slack, discussion in meeting, etc)
 * Code is included in (or linked to) the issue
   * Using a collapsed section in markdown is your friend here!
   <details markdown=1>
-    <summary>Example collapsed section</summary>
+    <summary>Example collapsed section
+</summary>
 
     ```
     <details markdown=1>
-      <summary>This is the name of the section</summary>
+      <summary>This is the name of the section
+</summary>
     
       ```
     
