@@ -22,7 +22,7 @@ We record our [past initiatives](/handbook/people-group/learning-and-development
 
 ### Live Learning
 
-Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
+Live Learning sessions are conducted on an ad hoc. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
 
 <details>
   <summary markdown='span'>
