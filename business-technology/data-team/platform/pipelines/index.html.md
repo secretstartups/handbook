@@ -243,9 +243,34 @@ If you are adding Certificates to SheetLoad, refer to the instructions in the [P
 
 ## GCS External
 
-A currently hardcoded SQL pipeline for transforming  and loading data from an external GCS stage. Currently only used for [Container Registry Log data (issue linked)](https://gitlab.com/groups/gitlab-data/-/epics/579), which was too large to completely replicate into `RAW`. Currently the DAG runs SQL daily that creates a new table for each date partition, if this is a method we want to continue a future iteration should include a smarter abtraction of the SQL into a manifest of some kind, but at this point it is difficult to assess requirements for the future.
+Using a Snowflake Integration we are able to extract and load data directly from files stored in GCS. This can be used for load operations as well as for [External tables](https://docs.snowflake.com/en/user-guide/tables-external-intro.html). GCS External pipelines are those for which the source of truth remains within a GCS bucket.
 
-Another consideration is that external tables might be a better solution to this all around, but would require more control or collaboration upstream in how the data is partitioned into the GCS bucker.
+This allows us to make general use of data, especially large data, without need for complicated load processes. External tables may serve as a means [to a data lake/lakehouse](https://www.snowflake.com/blog/external-tables-are-now-generally-available-on-snowflake/) within our existing data stack.
+
+![image-6.png](./image-6.png)
+
+### GCP Billing Data
+
+We have created an export of our GCP Billing Data to BigQuery using Google's provided [Cloud Billing Export service](https://cloud.google.com/billing/docs/how-to/export-data-bigquery). This data is exported in Summary and Detail tables that are difficult to replicate in Snowflake because of a lack of unique keys and what otherwise look like duplicates in the Summary data. This, along with the relatively large size of the detail data, led us to an implementation of external tables.
+
+Data is exported from BigQuery to GCS using 
+- [Our BigQuery Client](https://gitlab.com/gitlab-data/analytics/-/blob/master/orchestration/big_query_client.py)
+- [An Airflow DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/external_gcp_billing.py)
+- [`/gcs_external/src/gcp_billing/gcs_external.py`](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/gcs_external/src/gcp_billing/gcs_external.py)
+- [`/gcs_external/src/gcp_billing/gcs_external.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/gcs_external/src/gcp_billing/gcs_external.yml)
+
+Export queries for BigQuery are generated via details in the `gcs_external.yml` and logic within `gcs_external.py`, which are run by the Airflow DAG, which also runs a external table refresh via dbt.
+
+The detail table is partitioned daily, which matches the current schedule interval in the DAG, the summary table however is partitioned monthly, though run daily. **This means that when backfilling the summary table you only need to run one task instance per month**.
+
+This data is then accessed in Snowflake via external tables created with the [dbt external table package](https://github.com/dbt-labs/dbt-external-tables), which is implemented for this GCS billing pipeline in [`/sources/gcp_billing/sources.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/sources/gcp_billing/sources.yml#L25).
+
+This pattern should be expanded or replicated for any future BigQuery to GCS export use cases.
+
+### Container Registry Logs
+
+A [hardcoded SQL pipeline](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/gcs_external/src/container_registry.py) that queries directly from the external stage is used for filtering and loading data from an external GCS stage. Currently only used for [Container Registry Log data (issue linked)](https://gitlab.com/groups/gitlab-data/-/epics/579), which was too large to completely replicate into `RAW`. Currently [the DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/container_reg.py) runs SQL daily that creates a new table for each date partition, the business [has indicated](https://docs.google.com/document/d/1kwL3KGSmTbtKD7vliRbWOp1uY6gu6FLms6SPb4wXwA4/edit#heading=h.5kovd39dcksw) that this is unlikely to become a business critical data source.
+
 
 ## Prometheus / Thanos (Periodic Queries)
 
