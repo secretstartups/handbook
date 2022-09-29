@@ -26,6 +26,7 @@ title: Travel
 If you are nursing while traveling on GitLab approved business, you can reimburse costs in order to travel with breast milk or ship your breast milk back home. You can expense:
 
 - Fees associated with a milk shipment service, such as [MilkStork](https://www.milkstork.com/)
+- If a milk shipment service is unavailable, you may expense the cost of checking a bag while flying
 - Coolers or containers to store breast milk while traveling
 - Shipment costs and materials, including dry ice, packaging, styrofoam coolers, and labels. 
 
