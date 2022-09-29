@@ -77,7 +77,8 @@ Create a [webcast idea issue](https://gitlab.com/gitlab-com/marketing/demand-gen
 ## :books: Issue creation
 
 <details>
-<summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.</summary>
+<summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.
+</summary>
 
 * [ ] Zoom license date request issue created
 * [ ] Secure presenters and schedule dry runs issue created
@@ -770,7 +771,8 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 ## :books: Issue creation
 
 <details>
-<summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.</summary>
+<summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.
+</summary>
 
 * [ ] Zoom license date request issue created
 * [ ] Secure presenters and schedule dry runs issue created
