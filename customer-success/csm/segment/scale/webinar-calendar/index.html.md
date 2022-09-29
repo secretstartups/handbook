@@ -83,14 +83,14 @@ Are you beyond CI/CD fundamentals? In our office hours following our Advanced CI
 ### GitLab Adminstration on SaaS
 #### October 20th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
+Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_AOEEvVMQQW2jN4Ok89VUJQ)
 
 ### DevSecOps/Compliance
 #### October 27th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
-Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_CPl3Yw1JRo6pKNrx8Ej8uw)
 
