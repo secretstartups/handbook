@@ -32,7 +32,7 @@ At GitLab, UX Research Operations Coordinators collaborate with our Product Desi
 
 ### UX Research Operations Coordinator (Intermediate)
 
-The UX Research Operations Coordinator (Intermediate) reports to a [UX Research Manager](/job-families/engineering/ux-research-manager/#manager-ux-research).
+The UX Research Operations Coordinator (Intermediate) reports to a [UX Research Manager](/job-families/product/ux-research-manager/#manager-ux-research).
 
 #### Job Grade
 
@@ -65,7 +65,7 @@ The UX Research Operations Coordinator (Intermediate) is a [grade 6](/handbook/t
 
 ### Senior UX Research Operations Coordinator
 
-The Senior UX Research Operations Coordinator reports to a [UX Research Manager](/job-families/engineering/ux-research-manager/#manager-ux-research).
+The Senior UX Research Operations Coordinator reports to a [UX Research Manager](/job-families/product/ux-research-manager/#manager-ux-research).
 
 #### Senior UX Research Operations Coordinator Job Grade
 
