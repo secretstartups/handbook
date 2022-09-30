@@ -15,9 +15,9 @@ canonical_path: "/company/team/structure/working-groups/gitlab-com-saas-data-pip
 
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Date Created    | 2022-09-09                                                                                                                                       |
+| Date Created    | 2022-09-30                                                                                                                                       |
 | Target End Date | 2023-10-01                                                                                                                                        |
-| Slack           | [#wg_gitlab_to_snowflake_pipeline) (only accessible from within the company)                                         |
+| Slack           | `#wg_gitlab_to_snowflake_pipeline` (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1plhr7UkyxVoIAP_RHJ6HU3QprQlFxIwTZg9wOlMAr4w/edit?usp=sharing) (only accessible from within the company) |
 | Issue Board     | [Issue Board]()                                                |
 
@@ -29,7 +29,7 @@ Provide reliable, stable, scalable and secure data feed for reporting and analyt
 
 Implement a data pipeline that captures `create`, `update` and `delete` operations and stores them in the GitLab Data platform to be available for further processing and analytics. 
 
-![High Level Design](/sites/uncategorized/source/company/team/structure/working-groups/gitlab-com-saas-data-pipeline/HLD.png)
+![High Level Design](HLD.png)
 
 ## Exit Criteria
 
