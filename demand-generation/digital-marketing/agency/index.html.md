@@ -158,7 +158,7 @@ Before the beginning of each fiscal year, GitLab and PMG meet to review the Digi
 
 - **[Please refer to this Mural for GitLab's FY23 Paid Digital Campaign structure](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431).**
 
-Before each upcoming quarter, the teams will meet for [media planning](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#media-plan) sessions to determine the coverage mix for our paid digital programs. Given the quarter’s KPI goals as a whole & per segment/region, the media planning’s key topics include the degree of coverage for the following (tiers listed in order of [visualization](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431):
+Before each upcoming quarter, the teams will meet for [media planning](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#digital-campaign-planning-timeline) sessions to determine the coverage mix for our paid digital programs. Given the quarter’s KPI goals as a whole & per segment/region, the media planning’s key topics include the degree of coverage for the following (tiers listed in order of [visualization](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431):
 
 - Audience Targeting
    - Segments: Enterprise, Mid-Market, and SMB
@@ -189,7 +189,7 @@ PMG forecasts an optimal campaign budget based on target audience size and avera
 
 **Optimization**
 
-Top metrics include CPI (cost per inquiry) and INQ, MQL & SAO conversion rates. After exiting the [learning phase](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#campaign-duration), PMG will monitor the new campaign/asset for any unusual or inefficient performance. During monthly performance recaps, PMG will highlight new campaign/asset performance in relation to the baseline top metrics of the regional, segment & platform historical performance and provide optimization recommendations if necessary.
+Top metrics include CPI (cost per inquiry) and INQ, MQL & SAO conversion rates. After exiting the learning phase, PMG will monitor the new campaign/asset for any unusual or inefficient performance. During monthly performance recaps, PMG will highlight new campaign/asset performance in relation to the baseline top metrics of the regional, segment & platform historical performance and provide optimization recommendations if necessary.
 
 ### Demand Gen Ancillary Campaigns
 {: #ancillary-campaigns}
@@ -202,7 +202,7 @@ PMG provides pulse checks & tracking toward KPIs more frequently for ancillary c
 {: #external-campaigns}
 **Intake Process**
 
-1. All departments outside of Digital/Demand Generation must first go through the [Coupa Purchase Order process](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#po-process) in order to start the intake process with PMG.
+1. All departments outside of Digital/Demand Generation must first go through the [Coupa Purchase Order process](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-use-coupa-for-purchasing) in order to start the intake process with PMG.
    * Please see PMG's Statement of Work template and sample SOWs [here](https://drive.google.com/drive/u/1/folders/1HPq7enmJYNkIbVJG7G_IkSNR_YWOlxC0).
 2. GitLab submits a [campaign request issue](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/blob/master/.gitlab/issue_templates/campaign_request.md) for PMG containing all required campaign materials, as well as a detailed description explaining the purpose and goal for this event or new initiative.
 3. PMG reviews the request and forecasts an optimal campaign budget based on target audience size and average costs & conversion rates.

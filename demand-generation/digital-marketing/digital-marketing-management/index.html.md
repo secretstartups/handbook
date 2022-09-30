@@ -9,7 +9,7 @@ title: "Digital Marketing Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Digital Marketing Managers
+## Digital Marketing Team
 {: #digital-marketing-management}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -17,17 +17,67 @@ title: "Digital Marketing Management"
 {: #goals-objectives}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Generating INQs (Inquiries) that lead to MQLs (Marketing Qualified Leads) and SAOs (Sales Accepted Opportunities), and helping improve our conversion rate of INQ > MQL and MQL > SAO
+**Team Charter:**
 
-We also support these objectives (ordered from top to bottom funnel):
-- Brand Awareness
-- Website Traffic
-- Webcast Views
-- Content Downloads
-- Lead Generation
-- Event Registrations
+Develop the digital strategy to drive INQ’s and MQL’s that lead to SAO’s  for GitLab full funnel campaigns across all segments and regions.  Our core competency is to deliver a plan inclusive of the best digital channels in order to maximize the dollars and closely monitor campaigns and their assets for peak optimization.
 
-## Digital Marketing Communication
+Digital marketing managers own the INQ and MQL number that drive SAO’s for the region and segment they align to.  They are responsible for daily monitoring of campaign goals and the digital strategy component of that lightning strike. Their plans are representative across all funnel stages and each have unique channel expertise.  The team is broken down as follows: 
+
+**Sara Valko:** PubSec, ENT, EMEA, Auto-SD, Security & Compliance, brand strategy & visual brand
+
+**Joon Shin:** SMB, MM, AMER, APAC, Auto-SD Test, team enablement, digital experience & All Remote 
+
+**Zac Badgley:** (parental leave through Nov so some assignments are TBD), ABM and Campaigns teams
+
+**In Scope:**<br>
+End to end campaign management<br>
+Asset performance optimization<br>
+Daily/Weekly/Monthly/Quarterly reporting<br>
+Issue management<br>
+Agency liaison<br>
+Paid traffic conversion rate optimization<br>
+
+**Out of scope:**<br>
+Pure brand awareness<br>
+SEO<br>
+
+### How Do We Get There? 
+We take a unified approach to long term planning.  We are given our direction from the focal topics/areas that product marketing has deemed market worthy.  They engage the campaigns team who pull us in to develop the key tenets of the campaign.  Prior to a lightning strike kickoff call, we conduct research to validate campaign key terms, their effectiveness, and the addressable market for the various channels that comprise our digital marketing plans.
+
+Upon agreement and alignment with the research findings, we develop a recommendation of the number of assets and asset types that are most effective in digital across all media types.  We feed the core planning team this intelligence at the beginning of the campaign kickoff so that they can plan the asset creation and campaign accordingly.  With these recommendations, we encourage the core team to consider whether or not assets already exist and simply need to be refaced or if they need to be developed/net-new.  The SSoT for content is PathFactory and internal assets SSoT is HighSpot.  The digital marketing team is not responsible for allocating budget to the creation of these assets however we will happily support applying budget to adjust an asset for improved performance in a digital channel. (ex. Asset size, color, etc).  This content creation must be baked into the overall planning timeline we review later on this page.
+
+Once the types of assets are identified, the digital marketing issue should be created using the [digital campaign request template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new#?issuable_template=digital-campaign-request) in GitLab.  Historically similar design requests and ad copy requests have been made by multiple teams so it’s the teams hope that by placing this request at the beginning of the planning process will remove such instances of duplication.
+
+While the digital marketing team would love to support any and all requests that are asked of us in support of the business, we have a finite budget and finite resources and will do our best to maximize both.  Sub-region campaigns or campaigns to drive event attendance have proven ineffective in many historical cases and are an example of where we are currently unable to afford these low outcome campaigns. 
+
+### Digital Campaign Planning Timeline
+
+The digital marketing manager will need to be briefed on the campaign by the core team in advance of the kickoff call to define the “elevator pitch” for the campaign (ex. This campaign targets mid market IT Directors who need x pain point solved) so we can work with our agency to determine the market opportunity within digital and validate keywords across multiple channels to focus on.  Understanding the source of this elevator pitch came from (i.e. market research, sales feedback, customer advisory board, etc) is important for the team to know when crafting their marketing plan recommendations.  We expect this research (inclusive of competitive updates and options as well as campaign naming conventions) to take 2 weeks to return back to the digital team who will then share key learnings with the core planning team.  At this point, we should be no sooner than 12 weeks prior to campaign launch.<br>
+
+ **T-12 weeks to campaign launch:**<br>
+   * Understand proposed campaign assets, their status and who is creating them<br>
+   * Digital team to develop the media plan, their goals, the channel mix, spend, keyword list, and campaign calls to action <br>
+**T-10 weeks to campaign launch:** <br>
+   * Tracking pixels, landing pages developed (digital experience team) with input from digital marketing team <br>
+   * UTM parameters created by campaigns team.  URL’s created.<br>
+**T-8 weeks to campaign launch:**<br> 
+   * Freeze all changes to campaign scope and targets.  No further changes or launch date with slip.<br>
+**T-6 weeks to campaign launch:** <br>
+   * Digital marketing team should have possession of all assets for build out.<br>
+**T-4 weeks to campaign launch:** <br>
+   * Assets are loaded for campaign set up/build out.<br>
+**T-2 weeks to campaign launch:** <br>
+   * Test leads entered, tracked and final campaign adjustments complete.  Ready for launch.<br>
+
+
+
+
+
+
+
+
+
+## Using GitLab: Digital Marketing Project
 ### Labels
 {: #labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -55,32 +105,57 @@ We also support these objectives (ordered from top to bottom funnel):
 <!-- DO NOT CHANGE THIS ANCHOR -->
 - Top of Funnel (Awareness): Introduce GitLab brand to potential customers with awareness and educational content.
 - Middle of Funnel (Consideration): Nurturing engaged prospects with solutions-based assets, consideration-stage content and events.
-- Bottom of Funnel (Purchase): Leading prospects to conversion by retargeting with relevant down-funnel content and demo/free trial.
+- Bottom of Funnel (Conversion): Leading prospects to conversion by retargeting with relevant down-funnel content and demo/free trial.
 
 [Click here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#channel-definitions) to see channel definitions and where they fit in buyer journey. 
 
 The Digital Marketing team’s strategy & execution ultimately leads to filling pipeline, while closely analyzing down-funnel metrics & results in order to influence & optimize top of funnel strategy in a feedback loop.
 
-### Working with PMG, our Digital agency
+### External Agencies
 {: #agency}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Who is PMG Digital?
+We work with external agencies to help support campaign execution including competitive research, media buys, campaign optimization and reporting.  GitLab is responsible for campaign set up and monthly and quarterly read outs to our core planning team members.
 
-All paid digital campaigns are executed with the help of our digital agency PMG. PMG fees are a percentage of the paid digital spend, so total budgets will include the effective spend with a PMG fee. For GitLab digital initiatives, PMG provides:
+GitLab Digital Marketing works directly with agencies within the GitLab [Digital Advertising project](https://gitlab.com/gitlab-com/marketing/digital-advertising), which is strictly for Digital Marketing & agency communication only.
 
+For more detailed information on our partnership, communication, and invoicing, please see our [handbook page](/handbook/marketing/demand-generation/digital-marketing/agency/).
 
-* Strategy & planning - Covering full-funnel paid strategy both holistically and granularly, considering the GitLab brand and audience for all channels and tactics.
-* Buying & executing - Gathering all necessary campaign materials (goals & objectives, creative, copy, targeting, etc) to launch, and strategically bidding/negotiating for ad units/packages and optimizing for more efficient costs towards goals throughout campaigns.
-* Insights & reporting - Aggregating all digital performance into custom report dashboards, offering actionable insights for audience, asset, regional, and  campaign performance within each issue, and reviewing overall performance over time to uncover trends & opportunities.
-* Billing - Handling all paid digital spend directly with publishers & platforms, then syncing with GitLab finance to manage invoicing.
+### Quarterly planning and strategy creation
+We don’t invest in assets, we invest in campaigns.  We need to understand the campaign's objectives and goals.  We triage each request and analyze and with the required information to develop a point of view as to what we can reasonably do with the dollars we have. 
 
-GitLab Digital Marketing works directly with PMG within the GitLab [Digital Advertising project](https://gitlab.com/gitlab-com/marketing/digital-advertising), which is strictly for Digital Marketing & PMG communication only. To learn how PMG is involved in the paid digital request process, please refer to the [Digital Marketing Request Workflow](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#workflows) section below.
+We need to understand the buyer persona we are targeting, the segment and the region and with that information, develop a point of view that determines what’s possible.
 
-For more detailed information on our partnership, communication, and invoicing with PMG, please see our [PMG handbook page](/handbook/marketing/demand-generation/digital-marketing/agency/).
+The segment and regional goals are built from the TOPO model so everything we do, maps back to that.  The goals we align to, add up to the ultimate goal so if we get there through campaign A or B is irrelevant.  We need to get there in the most efficient way possible. 
+
+By monitoring these campaigns regularly we’ll be able to dial up and dial down the investment to make sure we are getting maximum performance.  We are laser focused on driving high volume balanced with high quality, so if an asset is not performing, we take it down, right away.  If it’s exceeding expectations, we put more money behind it.  We need to be able to shift on a dime and have developed criteria and a process for evaluating these assets.
+
+Each sales segment and region have varying ASP’s and average sales cycles - those are taken into consideration as we set the goals for the campaign and as we begin to track results.  For a campaign that has just gone live, we need to be sure to set the expectation upfront about when we will start to see results and will they come in the form of INQ’s, MQL’s or SAO’s  By setting the expectations in advance, we can track to those goals and keep all pertinent teams apprised of results.
+
+Finally, each campaign will have an end date that will prompt further discussion and evaluation.  The end date is determined at the time of issue creation and should not exceed 6 months.  Assets will be consistently evaluated for effectiveness, need for refresh or revision.
+
+### Partnering with Other Important GitLab Teams
+We need to have connection points into and from other teams.  Our team sees this engagement as catch and release.
+Catch: Who are we catching info from - who do we need insight from to understand what they are doing, why they are doing it and how it might factor into the work we do?<br>
+	ABM (understanding who is being targeted so we can omit from digital marketing efforts) - Zac<br>
+	Campaigns - Zac<br>
+	Customer References - TBD<br>
+PR - TBD<br>
+	Digital experience - Joon<br>
+	All remote team - Joon<br>
+	Brand strategy - Sara<br>
+	Visual brand- Sara<br>
+Release: Which GitLab teams should have visibility into the campaigns we are running in an effort to align messages or understand how the public is responding to campaigns.<br>
+	ABM: sharing the content we are using in segments and regions for awareness purposes.<br>
+	Field marketing<br>
+	Channel marketing<br>
+	Alliances marketing<br>
+   MS&P<br>
 
 ## Digital Campaign Channels
 {: #campaign-channels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+**(incomplete list)**
+
 Digital Marketing will recommend specific channels based on your campaign goals. The most common type is Paid Social based on robust targeting criteria and successful performance in reach and inquiry volume.
 
 ### Channels
@@ -165,17 +240,44 @@ Publisher sponsorships are when we engage a specific publisher in order to purch
 - Assign `program tracking` issue to the Campaign Manager that supports the region and assign the `list clean upload` issue to Jameson
 - Once the leads are received, you should process them and submit them to MOPs in 24-48 hours
 
+### Reporting
+Our key stakeholders for ongoing reporting include:<br>
+Campaigns teams and product marketing<br>
+GEO Sales leadership<br>
+IM Leadership 
 
-### Media Planning
-{: #media-plan}
+It is important to work through the digital marketing team for your paid media reporting requests as we have significant challenges that are currently being addressed.  Please do not pull your own dashboard data, the output is very familiar to us and we want to be sure our stakeholders are pulling the right information, in the right format for ultimate accuracy.
+
+We will also provide insight into asset specific performance and what we should expect from an asset should that differ greatly from the goals that are set.  This should prompt an open and collaborative discussion.
+
+
+## Finance
+{: #finance}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-The Digital Marketing team has an annual fiscal year budget that must be allocated across quarters & months to align with TOPO goals, seasonality, GTM planning, and sales cycles. While reviewing the overall total budget for the year, we take the Digital Marketing target goals created in the TOPO model, create a bottoms up approach to calculate budgets needed to hit those numbers, then map out budgets for each channel to accommodate segment & regional goals across each quarter. Due to this scientific method of media planning, we discourage major shifts in budget since it would affect the methodology behind these numbers and create a negative impact on our goal tracking.
 
-When reviewing the current year's [Paid Digital budget](https://drive.google.com/drive/u/1/folders/1MEi5woxoKjcMJxP_fYGqOYozIpRldkzs), keep in mind that we list an **all-in budget** and **effective spend**.
-- **All-in budget**: This is the total budget that matches our Digital line items in Allocadia, the single soure of truth for our department's budget.
-- **Effective Spend**: This is the actual spend of our campaigns through [PMG](/handbook/marketing/demand-generation/digital-marketing/agency/) which is then combined with PMG's agency fee to total the **All-in budget**.
+### Allocadia
+{: #allocadia}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Allocadia is the single source of truth for Digital Marketing's planned and forecasted budget throughout the fiscal year. 
 
-For more information around our planning strategy with PMG, please refer to the [PMG handbook page](/handbook/marketing/demand-generation/digital-marketing/agency/#campaigns) for a more granular breakdown of our budget line items.
+#### Monthly Process
+Each month's forecast is locked around the middle of the current month, so Digital will confirm planned budgets by this date and also update the forecast based on shifts between certain line items. We monitor the Pipeline X-ray report to find gaps in coverage for specific regions & segments, so if we see a shortage in the current quarter's pipeline, we can strategically reallocate funds to ultimately generate more inquiries & MQLs for the region(s) or segment(s) that need it most. For example, if we are not utilizing our full Publisher budget for the month, we can move the remaining budget into LinkedIn for the Enterprise segment within the APAC region if it's experiencing low pipeline.
+
+Once our monthly plan is locked in Allocadia, Digital will review their tab in the monthly Marketing AvB file for any further changes necessary before the end of the month.
+
+#### Quarterly Process
+Each quarter's plan is locked in Allocadia at least 2-3 days before the next quarter.
+
+Since our budget is originally planned to accommodate our quarterly goals, we need to reconcile spend with Allocadia every month to make sure we are on pace to spend our planned budget. Since budget is strictly fluid within the quarter, Finance will alert Digital Marketing if we are pacing behind budget for a quarter in case we need to redistribute those funds.
+
+### Accruals & Invoices
+{: #accruals-invoices}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Due at least 4-5 business days before the end of the month, Digital Marketing works closely with PMG to prepare accruals (estimated billing amounts) for end of the month. Aside from the core Digital campaigns, PMG will notate which department (such as Field Marketing, ABM, Corporate, etc) is responsible for accrued spend, and Digital Marketing will verify the Allocadia IDs and Coupa POs related to each line item.
+
+Once the month has ended, PMG will update the accruals sheet with actuals (final invoice amounts) with related invoice numbers, and there is typically a small buffer between estimated accruals & actuals. PMG will email PDF invoices to Digital Marketing and GitLab Accounting, automatically pushing invoices into Coupa for approval. Digital Marketing will verify that invoices are 1:1 match with actuals in the accrual sheet, then approve the invoices in Coupa.
+
+For information on the Financial Planning processes & timelines for Digital Marketing, please follow the [Marketing Finance handbook page](/handbook/finance/financial-planning-and-analysis/marketing-finance/).
 
 ### Digital Campaign Ad Specs
 {: #specs}
@@ -325,341 +427,6 @@ Each paid channel has its own unique design specifications, ad copy character li
    - Copy: Headline: 30 character limit, up to 15 options per ad
    - Copy: Display URL path: 15 character limit, up to 2 per ad
 
-## Finance
-{: #finance}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-### Allocadia
-{: #allocadia}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-As mentioned in the [Media Planning section](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#media-plan), Allocadia is the single source of truth for Digital Marketing's planned and forecasted budget throughout the fiscal year. 
-
-#### Monthly Process
-Each month's forecast is locked around the middle of the current month, so Digital will confirm planned budgets by this date and also update the forecast based on shifts between certain line items. We monitor the Pipeline X-ray report to find gaps in coverage for specific regions & segments, so if we see a shortage in the current quarter's pipeline, we can strategically reallocate funds to ultimately generate more inquiries & MQLs for the region(s) or segment(s) that need it most. For example, if we are not utilizing our full Publisher budget for the month, we can move the remaining budget into LinkedIn for the Enterprise segment within the APAC region if it's experiencing low pipeline.
-
-Once our monthly plan is locked in Allocadia, Digital will review their tab in the monthly Marketing AvB file for any further changes necessary before the end of the month.
-
-#### Quarterly Process
-Each quarter's plan is locked in Allocadia at least 2-3 days before the next quarter.
-
-Since our budget is originally planned to accommodate our quarterly goals, we need to reconcile spend with Allocadia every month to make sure we are on pace to spend our planned budget. Since budget is strictly fluid within the quarter, Finance will alert Digital Marketing if we are pacing behind budget for a quarter in case we need to redistribute those funds.
-
-### Accruals & Invoices
-{: #accruals-invoices}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-* Due at least 4-5 business days before the end of the month, Digital Marketing works closely with PMG to prepare accruals (estimated billing amounts) for end of the month. Aside from the core Digital campaigns, PMG will notate which department (such as Field Marketing, ABM, Corporate, etc) is responsible for accrued spend, and Digital Marketing will verify the Allocadia IDs and Coupa POs related to each line item.
-
-Once the month has ended, PMG will update the accruals sheet with actuals (final invoice amounts) with related invoice numbers, and there is typically a small buffer between estimated accruals & actuals. PMG will email PDF invoices to Digital Marketing and GitLab Accounting, automatically pushing invoices into Coupa for approval. Digital Marketing will verify that invoices are 1:1 match with actuals in the accrual sheet, then approve the invoices in Coupa.
-
-For information on the Financial Planning processes & timelines for Digital Marketing, please follow the [Marketing Finance handbook page](/handbook/finance/financial-planning-and-analysis/marketing-finance/).
-
-## Requesting Digital Marketing Promotions
-{: #requests}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-If you would like to request a paid digital marketing promotion in paid search, paid social, paid sponsorships or other paid marketing to support your event, content marketing, webcast, asset, etc. create an issue in the [Digital Marketing Project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues) and then follow the [Paid Digital Request template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/blob/master/.gitlab/issue_templates/paid-digital-request.md).
-
-The digital marketing team reviews our [triage board](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/boards/3859975) twice weekly to determine whether a request is complete and whether the request fits within the scope of our budget, segment plan, and GTM motion goals. If the request is missing key details, it will be reassigned to the request and stay in `triage` status. Below are the pertainent fields. 
-
-### Issue Items Defined
-{: #issue-items}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-* **Campaign Name**: Name of the campaign that you are requesting, or the Integrated / Use Case campaign this new initiative falls under
-* **Campaign Budget**: How much budget you would like to allot to this campaign
-* **Allocadia ID**: Add your Allocadia ID so we can reference during monthly accruals & invoicing
-* **Purchase Order Number:** From Coupa, please provide the PO number that is generated from your approved requisition
-* **Team Making Promotion**: Team that we should bill to (i.e. Field Marketing - AMER, Corporate Marketing, etc)
-* **Campaign Description**: Brief description of the campaign and what you are trying to achieve
-* **Campaign Start and End Dates**: Dates of when the campaign should start and end
-* **Campaign Goal**: What is the numeric goal and KPI for the campaign (registrations, page views, downloads, etc)
-* **Campaign Target Audience**: The type of people that you want to reach in this campaign
-* **Campaign Creative Asset**: If you have a creative set already for this campaign, please provide links to the creative. If not, this may require a separate ask for Design team, please make a request in tthe Corporate project and factor into the timeline. Digital Marketing iterates on designs in Canva for testing & variations, so you also have the option of providing a design that you’d like to iterate on.
-
-### Purchase Orders Required for Campaign Requests
-{: #po-process}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Because GitLab is now a publicly traded company, our finances are required to be [Sarbanes-Oxley compliant](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/). In order to be compliant, each campaign request will need to have an associated purchase order to the campaign prior to launching the campaign. Below is the following workflow in order to obtain a purchase order number and documentation needed to be compliant:
-
-1. Open a [Campaign Request issue](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#requests) and request that Digital Marketing team obtain a statement of work (SOW) from our digital advertising agency [PMG](/handbook/marketing/demand-generation/digital-marketing/agency/). Note that Campaign Request template will need to be fully filled out with detail in order for a statement of work to be requested.
-1. When the SOW is created (template can be found [here](https://drive.google.com/drive/u/1/folders/1HPq7enmJYNkIbVJG7G_IkSNR_YWOlxC0)), Digital Marketing team will post the SOW back in the Campaign Request issue so the campaign requester can start the process of creating a [Coupa requistion](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition).
-1. Once the Coupa requistition is approved, a PO will be created. Campaign requester will then update the Campaign Request template with the appropriate purchase order number.
-1. Digital Marketing will then create an issue for PMG to start to executing the campaign.
-1. Digital Marketing will make sure PMG includes the following information on the invoice for billing in the notes of the invoice:
-     - Purchase order number
-     - Allocadia ID
-     - Flight dates of the campaign
-     - Team to be billed
-
-### Digital Marketing Request Workflows
-{: #workflows}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**1. Paid Ads  (Search, Social, Display)** 
-* Before creating an issue in Digital Marketing, this information is required:
-   * Allocadia ID
-   * Coupa PO
-   * Budget
-   * Start and end dates
-   * General targeting parameters (target buyer/user persona, job title, industry, etc)
-   * Target account list (if applicable)
-   * Geo targeting within certain regions
-   * Landing Page URL(s)
-   * If you would like guidance from the Digital Marketing team around certain items, please make a comment within the issue.
-* Assign to both Leslie Stinson and Zac Badgley
-* Digital Marketing will then create an issue for our digital agency PMG.
-   * Only Digital Marketing can create issues within Digital Advertising (our project for PMG).
-   * Digital Marketing will liaise between the campaign owner and the agency within separate issues so wires are not crossed.
-   * Please do not comment in PMG issues within Digital Advertising unless you are added as a participant.
-* Digital Marketing or Campaign Manager will create a design request issue if no creative is provided.
-   * Please specify if you'd like to iterate on an existing design for Digital Marketing to execute on in Canva.
-* Digital Marketing will approve copy & mockups.
-   * PMG will generate copy & CTAs based on the landing page or content brief.
-   * Digital Marketing will approve copy and mockups, unless approval from the campaign owner is requested.
-* If testing is requested, Digital Marketing will secure testing variations (copy, CTA, and/or creative) and propose a schedule for testing rounds.
-* PMG will launch campaign and Digital Marketing will confirm launch within the issue.
-* Digital Marketing will provide campaign summary and report(s) after the campaign ends.
-
-**2. Publisher Engagements (Content Syndication, Hosted Webinars, Lead Generation Packages, and Sponsorships)** 
-* For each publisher engagement, the requester must submit an issue with information around the campaign’s goals (target segment, persona, region, lead cost, etc) so PMG can generate an RFP covering 3-5 partners with programs that align with those goals. Some program types include:
-   * Sponsorships: ad placement information, including creative specs
-   * Content Syndication: content to promote (PDF file recommended)
-   * Lead Generation Packages: lead list information and upload & implementation strategy 
-   * Hosted Webinar: webinar information, event date, presentation assets
-   * If you would like guidance from Digital Marketing around certain items, please make a comment within the issue.
-* Assign to Leslie Stinson and Zac Badgley.
-* Digital Marketing will then create an issue for our digital agency PMG.
-   * Only Digital Marketing can create issues within Digital Advertising (our project for PMG).
-   * Digital Marketing will liaise between the campaign owner and the agency within separate issues so wires are not crossed.
-* Digital Marketing or Campaign Manager will create a design request issue if creative is needed for this campaign.
-   * Please specify if you'd like to iterate on an existing design for Digital Marketing to execute on in Canva.
-* Digital Marketing will approve copy & mockups if needed for this campaign.
-   * PMG will generate copy & CTAs based on the landing page or content brief (if applicable)
-   * Digital Marketing will approve copy and mockups, unless approval from the campaign owner is requested.
-* Digital Marketing will confirm launch within the issue.
-* Digital Marketing will set up tracking & nurture with the Campaign Manager, and provide the sponsorship program’s lead list to Marketing Ops to upload.
-* Reporting will be provided via Publisher, and PMG can also provide Publisher Reporting through Google Data Studio.
-
-### Digital Marketing Request Timing
-{: #timing}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-* Time required to get a campaign into market
-   * Ideally, we need at least 3-4 weeks before the proposed launch date in order to plan strategy, forecast goals, and secure all creative assets.
-* Turnaround time for mock-ups (if applicable)
-   * Once creative & copy are generated, PMG can produce ad mockups for review upon request.
-* Turnaround time to populate audiences (if applicable)
-   * If the campaign is targeting a named account list, it can take 24-48 hours to populate within a platform.
-* Turnaround time for Design
-   * Depending on the request size, the campaign owner’s request for new designs from the brand design team  could take at least 5-10 business days. 
-   * Digital Marketing can iterate on designs within Canva, so this option can reduce turnaround time if examples and copy is provided early.
-   * A request for 2 LinkedIn images will take much less time than a request for a fully integrated campaign that requires multiple display & paid social sizes.
-* Timing required for publisher engagements (sponsorships)
-   * This will depend primarily on the publisher response time. Once PMG is connected with the publisher contact, 
-* Expectations for reporting
-   * Current DataStudio report(s) - request from Digital Marketing
-
-### Campaign Duration & Learning Phase
-{: #campaign-duration}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-We require campaigns to run at least 3-4 weeks (this is typically for event/webcasts promotions) in order to successfully exit the initial “learning phase” for our platforms’ algorithms. The learning phase is the period when the ad delivery system still has a lot to learn about a new campaign. During the learning phase, the delivery system is exploring the best way to deliver your ads - this means performance is less stable and costs are usually worse. Each time an ad is shown, the delivery system learns more about the best people and places to show the ad. The more an ad is shown, the better the delivery system becomes at optimizing the ad’s performance.
-
-### Campaign Request Requirements & Best Practices
-{: #requirements-best-practices}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-- Field Campaigns: In alignment with the FY23 contract (which can be found in ContractWorks) GitLab has with our digital vendor [PMG](/handbook/marketing/demand-generation/digital-marketing/agency/), paid campaign promotion for marketing teams outside of Digital Marketing (Field, ABM, Corporate, etc) is limited to 9 campaign launches per quarter.
-   * Please check with Digital Marketing first to confirm availability before requesting a paid campaign.
-   * If you have a campaign that spans multiple quarters, that campaign only counts against 9 count limit in the original quarter it is launched and does not count against the 9 count limit in later quarters.
-- Landing Pages: All landing pages should be GitLab-owned (about.gitlab, learn.gitlab, and page.gitlab) so we are able to track conversion/inquiry performance. Conversion data increases the success of campaigns by advancing the platform learning phase and providing PMG with valuable data & insights to make manual optimizations. 
-   * 3rd party landing pages are not able to report on conversions within our platforms, so they can significantly decrease campaign performance. Furthermore, if paid campaigns are not able to attribute their conversions/inquiries from 3rd party landing pages, reporting will lack correct data and show major inefficiencies. 
-   * If you are planning on using a 3rd party landing page, please [open an issue in the  Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) before a contract is signed so we can determine how to capture conversions and measure success.
-- Localization/Translation: While our ads are mainly in English, we are able to run campaigns in different languages but recommend all materials are translated by either Smartling or a GitLab team member. This means the creative copy, ad copy, landing page, and nurture have a fully localized, seamless experience from end to end.
-- Lead Time + Flight Time: We recommend followng our [Request Timing section](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#timing) to ensure your campaign is set up for success.
-- Ad Creative: We recommend adding a CTA (call to action) button, and using shorter copy within the image (typically 4-7 words) and leaning on the headline/introduction text to convey more of your message.
-
-## LinkedIn Campaigns
-{: #linkedin}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-LinkedIn is one of our top channels based on targeting capabilities, lead quality and efficient costs across regions & segments. Due to the success in this channel, we have expanded our presence and now utilize certain ad units and features that are specific to LinkedIn advertising only.
-
-### LinkedIn Lead Gen Forms
-{: #linkedin-lgf}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-The implementation of Lead Gen Forms (LGF) in our LinkedIn sponsored ads has increased our CPI efficiency and reach in the channel. LGFs are native forms that come pre-filled with accurate LinkedIn profile data, and the single-click submit reduces the number of steps before conversion. Digital Marketing uses LGF autoresponders for LinkedIn campaigns, so users receive an automated email once they have subbmited a lead gen form, and the email then takes them to their requested ungated asset in Pathfactory.
-
-Since inquiries are submitted in-app within our LinkedIn ads and not via GitLab owned landing pages, these inquiries are considered offline touchpoints and do not generate the same Bizible touchpoint data as normal inquiries. 
-
-The Marketo programs that listen for LinkedIn Lead Gen Forms can be found in the [social media content](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6504A1) folder. Each GTM has it's own program, with different flow steps based on the content utm that trigger the correct autoresponder email. Autoresponder emails need to be created for new assets before launching. 
-
-**Steps for creating Lead Gen Forms**
-Step-by-step Marketo Program [instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) are available. In most cases, you will NOT need a brand new Marketo program and you will add flow steps to the existing GTM programs. New programs are required for localized assets or assets being used for PubSec. i.e. if you have a new DevOps asset, you will build everything in the `2021_social_devopsgtm_LinkedIn Lead Gen` program. 
-
-1. Digital - Request PMG (in digital advertising issue) to create a new LinkedIn LGF. The issue must contain `utm_campaign` and `utm_content` for PMG to create
-2. Digital - Create a LinkedIn LGF issue and assign to campaign manager aligned to the GTM
-  - Includes steps for program set up, auotresponder, testing, and approvals
-  - No copy doc, email should be a copy/clone of the gated asset autoresponder
-3. Digital - Request PMG (in digital advertising issue) to submit a test LGFs
-4. Digital/Campaigns - Confirm email address is in the program and correct autoresponder delivered
-5. MOPs - Tag `insert handle` in issue for review of program for any necessary exclusions or troubleshooting
-6. Digital -  Approve PM launch doc and request PMG to go live
-
-
-### LinkedIn Targeting
-{: #linkedin-targeting}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-LinkedIn features a powerful selection of targeting criteria that aligns with Demand Gen’s segmentation and GTM plans.
-
-Matched Audiences - covering both company and individual contact lists, Matched Audiences is the most effective tool in reaching specific accounts & contacts through a list upload (typically exported from SFDC or Marketo). Our LinkedIn advertising account usually hits a 90%+ match rate, so ads can reach most users within our target lists. Please note that uploading a new audience list can take 24-48 hours to populate.
-Firmographic Targeting - using first party & up-to-date firmographic data, we can target audiences based on company size, industry, job titles, skills, seniority, etc. This targeting feature helps us segment based on buyer/user personas and sales segments.
-LinkedIn Groups & Interests - this type of targeting reaches members who share interests or professional associations by belonging to the same LinkedIn Group, and member interest topics based on actions and engagement with specific content on LinkedIn.
-
-### InMail & Conversation Ad Campaigns
-{: #inmail-conversation-campaigns}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-#### InMail (Message Ads)
-{: #inmail}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-LinkedIn InMail Ads (also known as Message Ads) are static messages delivered directly to LinkedIn member inboxes, creating a personalized ad experience between the user and GitLab. These ads are highly effective for middle-funnel campaigns, targeting specific individuals with custom tailored content relevant to their persona and/or organization. Since many users also have LinkedIn notify their personal or work email address when they have received an InMail, this results in up to 2x higher open rates and click throughs than traditional single email campaigns. Unlike our main paid digital bid type of costs per click, we pay for the message open which generally costs around $1 - $1.50 each. However, when a user shares the ad to other users, those users' opens and clicks are free. As a result, the free sharing feature allows our campaigns to obtain greater reach at a lower cost. This is especially useful in Account Based Marketing campaigns; a manager receiving an InMail to attend an upcoming GitLab webinar can share with other users in their organization. InMail/Message Ads can be used to re-engage and nurture accounts with upcoming events, new content assets, or by simply opening the conversation. 
-
-#### Conversation Ads
-{: #conversation-ads}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Conversation Ads are similar to InMail Ads in terms of placement, costs, and targeting, but instead of a static message, the user is able to engage through a sequence of messages prompted by specific CTA buttons, creating an interactive experience with GitLab. Conversation Ads are delivered directly to the LinkedIn member’s inbox, starting off with an intro message offering a variety of CTA buttons and proceeding through a custom sequence with each button click, resulting in several layers of interactions. LinkedIn reporting features visualization into engagement through the message flow, highlighting which messages & CTAs users found most relevant and where conversation drops off. These CTAs can click through to the next message  (“Tell me more”), click out to a relevant landing page (“See case studies”), click out to an event registration page (“Register now”), or open an lead generation form (“Sign up now”). Conversation Ads are essentially a Choose Your Own Adventure interaction that provide target audiences with more options and provide us with more audience insights.
-
-If you are requesting InMail or Conversation Ads, create an issue in the general [Paid Digital Request template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/blob/master/.gitlab/issue_templates/paid-digital-request.md).
-
-
-#### Sender Collaboration
-{: #inmail-collaboration}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-InMail & Conversation Ad campaigns must have a designated sender in order to send messages on behalf of GitLab, putting a friendly face to the company name. The ads displayed in a member’s inbox will appear to be sent from the designated sender, which allows for increased personalization and message relevance to targeted members.
-
-In order for our digital agency PMG to set up sender permissions, they’ll need to send requests to those whom we want to grant sender permissions, which are typically SDRs but can include a variety of titles & teams at GitLab. Since sender requests can only be sent to 1-degree connections, a member of the PMG team will first send a LinkedIn connection request, then the sender request once the connection is approved. When the designated team member receives a request to be a sender on a LinkedIn Messaging campaign, they can approve or reject this request by following the link provided in the email. The GitLab team member can also [use this link](https://www.linkedin.com/ad/accounts?destination=sponsored-inmail-sender-permissions) to manage their sender permissions and see whether they have sender access for a campaign. Once the GitLab team member has accepted their sender permissions to be added as a sender on the account, they will need to notify the Digital Marketing team member by confirming within the campaign issue.
-
-#### Copy
-{: #inmail-conversation-copy}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Although Digital Marketing can generate copy, we highly recommend that the sender, another member of the sender’s team, or a PMM generate the copy to be used in messages since they have more insight & context around targeted accounts, user/buyer persona, and/or the promoted content. When creating an InMail or Conversation Ad campaign, the Ad Copy Template doc (included for both ad types in the [Paid Digital Request template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/blob/master/.gitlab/issue_templates/paid-digital-request.md) will be cloned for your specific campaign and used as a collaborative space for the sender to generate messaging and other campaign members to edit where necessary. Conversation Ad copy will be more complex, as it includes several layers of messages and multiple CTA options for each layer. Please note that due to the high volume of messages within a given campaign, LinkedIn restricts replies from the target audience to the sender. If the sender prefers replies, they can include a link to their Calendly or email address in the message. One of the key benefits of InMail & Conversation Ads is that you can personalize copy with macros. Macros allow you to pull a member’s LinkedIn profile data and insert them dynamically into your ad for more personalization. Profile data options include first name, last name, job title, company name, and industry.
-
-**InMail Copy Best Practices:**
-* Customize the greeting with the member’s name 
-* Refer to their job title  
-* Try using the word “you"
-* The copy is fewer than 1,000 characters
-* The CTA is clear
-* The landing page is optimized for mobile
-
-Best performing subject lines often use some of the following keywords:
-* Thanks 
-* Exclusive invitation  
-* Connect 
-* Job opportunities  
-* Join us  
-
-Additional ways that we can test with message tone of voice:
-* Genuine
-* The Helpful Advisor
-* VIP Invitation - sending personalized invites to 'exclusive' events
-* The Cliffhanger
-
-**Conversation Ad Copy Best Practices:**
-* Always start with your main goal and/or objective: What is the ideal action you want the member to take when they receive your Conversation Ad? 
-* To drive brand consideration: Link to your blog posts, pre-recorded webinars, or industry trends and analysis
-* To drive leads and turn prospects into customers: Share product demos or tutorials, customer success stories, or invite prospects to attend an event
-* Introduce yourself: When using an individual as a sender, use the opening message to introduce yourself and let members know why you’re reaching out
-* There’s no subject line for Conversation Ads. Like any other LinkedIn message, the first sentence will appear as the subject. Because your audience will see this in their LinkedIn Messaging, make your first sentence count. 
-* Use multiple messages & buttons: Your conversation should have 2 to 5 layers. Each layer will consist of message text and at least 2 CTA buttons with responses to the question in your message. For instance, if your goal is to drive content downloads, share two pieces of content that your audience can choose from. 
-* Don’t include “Not Interested” or “No Thanks” CTAs: Avoid including this in the first layer of your conversation. Prospects who aren’t interested will just close the ad. Instead, focus on using CTAs they can learn from.
-* Ask your email marketing team for ideas: Check in with your email marketing team to understand what works best for them. Use their top performing email copy as inspiration for your Conversation Ad. 
-* Keep copy short & sweet: Conversation Ads are meant to feel more like a live conversation. Keep your messages short and friendly, and don’t forget about the character limits. Consider using language that is more casual, the way you would over the phone.
-* Stick to a conversational tone: While you may be engaging a B2B audience, remember that it’s people who make the decisions to buy your product or service, and they want to know that your brand is human and authentic.
-
-
-## Reporting
-{: #reporting}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-### Reporting Metrics Defined
-{: #reporting-metrics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Front End:
-- Spend: Total effective spend (not including PMG fee)
-- Clicks: Total ad clicks
-- Impressions: Total ad views served
-- CTR: Click-through rate (clicks divided by Impressions)
-- CPM: Average cost per 1,000 impressions (typically in Display campaigns only)
-- CPC: Cost per click (cost divided by clicks)
-- Inquiries (INQ) (commonly known as conversions): Form fills on the campaign landing page + form fills tagged with the campaign utms anywhere on our marketing site.
-- CPI: Cost per inquiry
-- CVR: Conversion rate (inquiries divided by clicks)
-
-Back End:
-- MQL: Marketing qualified lead (number of campaign inquiries that have MQL’ed)
-- Cost per MQL: Cost of MQLs generated from campaign (spend divided by MQLs)
-- SDR Accepted: Number of campaign inquiries worked by the SDRs
-- SAO: Sales accepted opportunity (number of MQLs that have converted to SAO)
-- Cost per SAO: Cost of SAOs generated from campaign (spend divided by SAOs)
-- INQ to MQL rate: percentage of leads that convert from Inquiry to MQL (MQLs divided by INQs)
-- MQL to SAO rate: percentage of leads that convert from MQL to SAO (SAOs divided by MQLs)
-
-### Digital Marketing Reports
-{: #digital-marketing-reports}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-#### Sisense Reports
-{: #sisense-reports}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**[Demand Gen Dashboard in Sisense](https://app.periscopedata.com/app/gitlab/793304/WIP:-Demand-Gen-Dashboard):** This dashboard provides an overview of demand gen campaigns performance, measured by our key performance indicators (KPIs): Inquiries, MQLs, and SDR Accepted. These metrics are pulled using Bizible touchpoints data, while Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV$ metrics are pulled using the Linear Bizible Attribution Touchpoints model.
-
-#### Data Studio reports
-{: #data-studio-reports}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**[PMG Digital Campaign Report](https://datastudio.google.com/s/kIiVtvUZyWQ):** This Data Studio report features all front end digital marketing performance through [PMG](/handbook/marketing/demand-generation/digital-marketing/agency/) and can be drilled down to audience, content, region, etc. Only back end performance shown covers Inquiries (total inquiries, cost per inquiry (CPI), and inquiry conversion rates). This report can be filtered by:
-- Integrated / Use Case Campaign name (UTM campaign name)
-- Content (UTM content)
-- Geo (Regions and sub-regions)
-- Targeting
-   - Prospecting (pr)
-   - Target Account List (abm)
-   - Retargeting (rtg)
-   - Target Account List Retargeting (abm-rtg)
-   - Retargeting with Marketo Smart Lists (rtg-marketo)
-- Medium (UTM medium)
-   - Paidsocial
-   - Cpc
-   - Display
-   - Sponsorship
-- Source (UTM source)
-   - Google
-   - LinkedIn
-   - Twitter
-   - Facebook
-   - DV360
-- Content Type
-   - Webcast
-   - Gated download
-   - eBook
-   - Free trial
-   - Demo
-
-**[PMG Field Marketing Campaign Report](https://datastudio.google.com/s/vHd-LcgPH5E):** For Field Campaigns only, can be filtered by:
-- Campaign Code (UTM campaign name, typically campaign finance tag)
-- Content (UTM content)
-- Geo (Regions and sub-regions)
-- Targeting
-   - Prospecting (pr)
-   - Target Account List (abm)
-   - Target Account List Retargeting (abm-rtg)
-- Medium (UTM medium)
-   - Paidsocial
-   - Sponsorship
-- Source (UTM source)
-   - LinkedIn
-   - Facebook
-   - Sponsor Name
-
-#### SFDC reports
-{: #salesforce-reports}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- **[FMM - WW FMM Digital Campaign Leads report](https://gitlab.my.salesforce.com/00O4M000004aA0V):** Provides overview of field campaign inquiries with lead status and touchpoint data
-- **[LinkedIn Lead Gen Forms](https://gitlab.my.salesforce.com/00O4M000004aXN1):** Provides overview of lead gen form (LGF) campaign inquiries
-
-
 ## UTMs for URL tagging and tracking
 {: #utm-tracking}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -727,3 +494,6 @@ If you would not like to see GitLab ads, you are able to opt-out of ads as you s
 * Note that this does not necessarily block all ads, just that specific ad. You would need to do this on all the ads you see from GitLab
 * You could block @gitlab in your profile to no longer see ads. However you block all ability to engage with the @gitlab Twitter accounts as well (seeing Tweets, Retweeting, mentioning, etc). 
 
+### Localization
+
+Localization is a core tenet of the campaign managers GANTT chart that serves to manage the campaign and the digital team will do our best to support localization if we can ensure it doesn’t severely impact campaign efficiency.  Future versions of our investment model will contain a workback formula to help us evaluate whether or not localization would be effective, and affordable.
