@@ -28,7 +28,7 @@ We are responsible for Capacity Planning and Error Budgets.
 
 ### Capacity Planning
 
-We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/capacity-planning/).
+We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/capacity-planning/). This is a controlled activity covered by SOC 2. Please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/observation-management/-/issues/604) for further details
 
 The goal of this process is to predict and prevent saturation incidents on GitLab.com.
 
@@ -39,9 +39,19 @@ the label of `Saturation Metrics`.
 #### Capacity Planning Triage Rotation
 
 The responsibility for reviewing Tamland reports rotates between team members and includes the Engineering Manager. 
-The rotation is arranged alphabetically by first name. 
-The rotation lasts for a minimum of three weeks. There is flexibility in the schedule to allow for OOO. 
+
+The rotation is arranged alphabetically by first name and lasts for a minimum of three weeks. There is flexibility in the schedule to allow for OOO and on-call responsibilities. 
+
 The purpose of having a longer rotation cycle is to provide exposure to the wide variety of capacity warnings that occur and to enable each person to gain context on every component that we monitor. 
+
+The triage duties are:
+1. Review all capacity planning issues that are past their due date. Or new since the the last report, the new ones will not have a `capacity-planning::` workflow label.
+1. For each item, check if the warning still applies and follow up with the DRI or other engineers for an updated status.
+1. Set appropriate due dates for the next review.
+1. Raise any significant concerns through the Engineering Allocation meeting (currently on Tuesdays in UTC afternoon) by adding them to the meeting agenda. If something is really pressing, please verbalize or find someone in the team to do it.
+1. Check that Tamland is running and generating output and bring this to the team's attention if it is not running. Check the scheduled pipelines on ops for this: https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipelines?page=1&scope=all&source=schedule. There should be a daily job populating the cache, and a weekly job for tamland without failures.
+
+
 When your rotation is finished, you need to provide handover notes in the #infra_capacity-planning channel for the incoming person. 
 
 ### Error Budgets
