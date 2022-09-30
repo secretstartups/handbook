@@ -26,7 +26,7 @@ If taking time off for medical needs or sick time, whether physical or mental, p
  
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-## A GitLab team members Guide to Time Off
+## A GitLab Team Members Guide to Time Off
 
 A support engineer remarked that “In the 3 months I've been at GitLab, I've taken more time off than the last 2 years at my previous job.”
 
@@ -118,7 +118,8 @@ Communicate broadly when you will be away so other people can manage time effici
         - _**Note** - remove the vacation delegate after your PTO_
 
 ### Communicating Time Off for Emergency Situations
-Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in BambooHR. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone.
+
+Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in Workday. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone. We also recommend that if you are able, to use the `Public Emergency` OOO category in PTO by Roots.
 
 ### Returning from PTO
 
@@ -239,6 +240,7 @@ It should be noted that the sync between PTO by Roots and BambooHR will only tak
 
 * The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
 * The **Public Service / Volunteer** OOO type in PTO by Roots syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
+* The **Public Emergency** OOO type in PTO by Roots syncs to **Employee Accruals** in the Team Members Time Off tab in BambooHR.
 * The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team members Time Off tab in BambooHR.
 * The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team members Time Off tab in BambooHR.
 * The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots **do not sync** to BambooHR.
