@@ -202,8 +202,7 @@ The following are active GTM motion nurture programs, which each contain content
 Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to accelerate INQ > MQL conversion. [Issue for Reference >](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/670)
 
 <details>
-<summary>See inactive nurture programs here
-</summary>
+<summary>See inactive nurture programs here</summary>
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/7889a7fb-e1f0-4c67-92ae-7becd009625f" id="XA5ojeoO~Tej"></iframe></div>
 
