@@ -86,11 +86,9 @@ Whether you are a new partner just getting started with a service portfolio or y
 
 At GitLab, Service Partner Badges are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Badge allows you to enhance your service capabilities and unlock key partner benefits in our program. 
 
-
-
-<div align = "center"><img src="/images/channel-service-program/service-program-requirements-and-progression.png" width="" alt="alt_text" title="image_tooltip"></div>
-
+![Service Program Requirements and Progression](/images/channel-service-program/service-program-requirements-and-progression.png)
 <br>
+
 ## Becoming a Certified Service Partner
 
 All GitLab Service Partner tracks have program compliance and training requirements that must be completed before you can obtain the associated certification.
@@ -102,7 +100,8 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 All GitLab Service Partner Badges are reviewed periodically. Non-compliant partners at the time of the review will have one quarter to return to compliance.
 
 ### GitLab Professional Services Partner Requirements
-<div align= "center"><img src="/images/channel-service-program/gitlab-professional-services-partner-badge.png" width="200" alt="GitLab Professional Services Partner Badge" title="image_tooltip"> </div>
+
+![GitLab Professional Services Partner Badge](/images/channel-service-program/gitlab-professional-services-partner-badge.png)
 
 <table>
    <tr>
@@ -165,7 +164,7 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
 <br>
 ### GitLab Training Service Partner Requirements  
 
-<div align= "center"><img src="/images/channel-service-program/gitlab-training-services-partner-badge.png" width="200" alt="GitLab Training Services Partner Badge" title="image_tooltip"></div>
+![GitLab Training Services Partner Badge](/images/channel-service-program/gitlab-training-services-partner-badge.png)
 
 <table>
   <tr>
