@@ -129,8 +129,7 @@ Team members should contact the Absence Management team (leaves@gitlab.com) to r
 
 <details markdown="1">
 
-<summary>Child Care Leave
-</summary>
+<summary>Child Care Leave</summary>
 Team Members are eligible for child care leave beginning after parental leave and lasting until the child reaches the age of 3. A child care benefit is payable for this period by the Social Insurance Institution.  
 
 The entitlement to unpaid childcare leave of the parent of an adopted child continues for at least 2 years following adoption, but not beyond the time when the child starts school. The minimum period for childcare leave is 1 month. This leave may only be taken by one of the parents or guardians of a child at a time. The leave can be taken in one or two periods of at least one month unless the employee and GitLab agree on more than 2 periods or a period shorter than 1 month. Employment Contract Act,(as amended 2021) Sec 3 (Chap 4).
@@ -139,8 +138,7 @@ The entitlement to unpaid childcare leave of the parent of an adopted child cont
 
 <details markdown="1">
 
-<summary>Study Leave
-</summary>
+<summary>Study Leave</summary>
 
 Unpaid Study leave is available to team members whose full-time employment with GitLab has lasted for one year in one or more periods. The maximum length of study leave is two years over a period of five years in one or more installments. If the employment has lasted for less than a year but at least three months, the maximum length of study leave is 5 days.
 
@@ -150,8 +148,7 @@ If the study leave is interrupted due to sickness, maternity, accident, etc, and
 
 <details markdown="1">
 
-<summary>Job Alteration Leave
-</summary>
+<summary>Job Alteration Leave</summary>
 
 Job alternation leave is an arrangement enabling a team member to take a temporary leave of absence from work lasting from 100 to 180 calendar days. The compensation for leave is not paid by GitLab but is paid via an unemployment fund or the Social Insurance Institution of Finland (Kela).
 
@@ -161,8 +158,7 @@ Team Members are eligible for job alternation leave when they have an employment
 
 <details markdown="1">
 
-<summary>Partial Care Leave
-</summary>
+<summary>Partial Care Leave</summary>
 
 A Team Member who has been employed by the same employer for a period of at least 6 months in the previous 12 month calendar period is entitled to unpaid leave in order to take care of the child until the child finishes the second year of school, or, if the child has to start school one year earlier than normal, until the end of the third school year. 
 
@@ -174,8 +170,7 @@ The length of the leave and its time are determined by the team member’s prese
 
 <details markdown="1">
 
-<summary>Temporary Child Care Leave
-</summary>
+<summary>Temporary Child Care Leave</summary>
 
 The parents of children under the age of 10 have a right to a 4 working days’ temporary unpaid child care leave in case of a sudden illness of the child. The team member must inform GitLab of the temporary care leave and its estimated duration as soon as possible. Employment Contract Act,(as amended 2021) Sec 6 (Chap 4).
 
@@ -183,8 +178,7 @@ The parents of children under the age of 10 have a right to a 4 working days’ 
 
 <details markdown="1">
 
-<summary>Leave for Family and Relatives
-</summary>
+<summary>Leave for Family and Relatives</summary>
 
 A team member shall be entitled to a temporary absence from work if their immediate presence is necessary for an unforeseeable and compelling reason affecting their family due to illness or accident. The team member must inform GitLab of the absence and the reason for it as soon as possible. At the request of GitLab, the employee must provide a reliable explanation of the reason for the absence.
 
@@ -194,8 +188,7 @@ If the team members’s absence is necessary for the special care of a member of
 
 <details markdown="1">
 
-<summary>Government Duty Leave
-</summary>
+<summary>Government Duty Leave</summary>
 
 Team members are entitled to receive time off their work in order to attend to a position of trust in the municipal government. Section 18 (418/2015) of the Employment Contract Act.
 
@@ -203,8 +196,7 @@ Team members are entitled to receive time off their work in order to attend to a
 
 <details markdown="1">
 
-<summary>Natural Event Leave
-</summary>
+<summary>Natural Event Leave</summary>
 
 If an employee is prevented from performing his or her work due to a fire, exceptional natural occurrence, or similar cause beyond their control, the employee shall be entitled to pay for the period of the impediment, up to a maximum of 14 days. Employment Contracts Act, No. 55 of 2001 (as amended), Sec 12.
 
