@@ -34,6 +34,8 @@ GitLab is modifying the policy for team member gifts and piloting a new gift giv
 
 The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift. If a gift card is given, the value cannot exceed $25 USD (or local currency equivalent).  
 
+GitLab has allocated $100 per team member for holiday celebreations.  If you would like to buy holiday gifts for your team, these need to be done personally and should not be expensed.
+
 People Managers are to use their own personal card for expense reimbursement, EBA's Corporate Cards are not to be used for these gifts.  People Managers will need to be sure to use `EmployeeGiftsFlowers` and the account 6028 in [Expensify](/handbook/finance/expenses/) for the expense.   
 
 For further questions regarding expensing of gifts, please reach out to the AP team via the `#expense-reporting-inquiries` Slack channel or through email (`ap@gitlab.com`).
