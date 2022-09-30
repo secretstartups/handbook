@@ -16,18 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 ## Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars during the months of September and October.
+We’d like to invite you to our free upcoming webinars during the month of October.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-### September 2022
-
-### Getting Started with Continuous Delivery and GitOps
-#### September 29th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-In this webinar you will learn the concepts behind continuous delivery, continuous deployment and GitOps. You will also learn how to set up a DevOps pipeline that deploys your application to several environments on Kubernetes.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_S7hSXhryT4eTwWxH1lCFgQ)
 
 ### October 2022
 
