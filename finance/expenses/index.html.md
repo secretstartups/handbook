@@ -55,6 +55,7 @@ Team members are reimbursed on different schedules depending on their location. 
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
    - You can verify the policy that you are reporting in by review the title of your report: `Report Title: Team Member Name | Receipt Date: YYYY-MM-DD to YYYY-MM-DD | **Policy Name: GitLab- Amex** | Report ID: ######## | Total $XXX.XX`
    - The value next to *Policy Name* should match the entity, PEO, Country and COGS/Non-COGS department that you are employed with.  If these values are not a match, you can change them on the right hand side of the page - under Details, then under policy there is a drop down to choose from any policies you are a part of.
+1. Expenses use live currency conversion rates
 1. Gift cards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
@@ -220,6 +221,14 @@ AP will do their best to process and pay the reimbursement to the individual wit
 ## Rejected Expenses
 
 Sometimes expenses get rejected by our third party accounting team (Montpac). Please ensure the expenses you are asking to reimburse are covered in this policy before purchasing. For example, an expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
+
+## Currency conversion
+
+The handbook [uses USD when describing budgets](/handbook/handbook-usage/#fine-points). When budgeting and submitting expenses in other currencies, team members should use live currency conversion rates (exchange rates).
+
+**Example:** a team event has a meal budget of USD25 per person. A team member notes that this is $50 in local currency, at current exchange rates. The team member can purchase a meal in their local currency up to $50, and expense it in their local currency.
+
+Note: live exchange rates do not apply to compensation, which [uses fixed exchange rates](/handbook/total-rewards/compensation/#exchange-rates).
 
 - - -
 
