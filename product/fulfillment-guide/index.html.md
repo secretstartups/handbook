@@ -27,9 +27,10 @@ This page is for product and process documentation.
 
 This section shows how customers interact with GitLab Fulfillment systems during their trial and purchase journey.
 
-### Current processes
+### User Experiences
 
-Removed as these were out of date. We can add updated ones once available. 
+A good way to see Fulfillment workflows in action is to view [UX Scorecards for Fulfillment](https://gitlab.com/groups/gitlab-org/-/epics/2015). This is when we take a critical look at our UX and see where we can improve.
+
 
 ## CustomersDot Admin Panel
 
