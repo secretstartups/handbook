@@ -342,10 +342,10 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
 | Tuesday September 27 | Quality | Mek Stittri | September 22 |
 | Wednesday September 28 | Support | Tom Cooney| September 14 |
-| Thursday September 29 | MECC AMA | Darren Murph | N/A |
-| Tuesday October 4 | Finance | Brian Robbins | September 27 |
-| Wednesday October 5 | CRO | Mike Pyle | N/A |
-| Thursday October 6 | Development | Christopher Lefelhocz | September 28 |
+| Thursday September 29 | Infrastructure   | Steve Loyd | September 14 |
+| Tuesday October 4 | Development | Christopher Lefelhocz | September 28 |
+| Wednesday October 5 | Finance| Brian Robins | September 27 |
+| Thursday October 6 | **Available*** | | Key Review Date? |
 | Tuesday October 11 | **Available** | | Key Review Date? |
 | Wednesday October 12 | Remote Development | Eric Schurter | N/A |
 | Thursday October 13 | CRO Group Conversation | CRO Leadership | N/A |
@@ -360,14 +360,26 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday November 3 | Security | Johnathan Hunt | October 25 |
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
-| Thursday November 10 | **Available** | | Key Review Date? |
+| Thursday November 10 | UX | Christie Lenneville | October 26 |
 | Tuesday November 15 | **Available** | | Key Review Date? |
 | Wednesday November 16  | **Available** | | Key Review Date? |
 | Thursday November 17 | **Available** | | Key Review Date? |
 | Tuesday November 22 | **Available** | | Key Review Date? |
 | Wednesday November 23 | **Available** | | Key Review Date? |
 | Thursday November 24 | **Available** | | Key Review Date? |
-| Wednesday Nov 30 | People | People Leadership | Nov 10 | 
+| Wednesday November 30 | People | People Leadership | Nov 10 |
+| Tuesday December 6 | Development | Christopher Lefelhocz | November 23 |
+| Wednesday December 7 | **Available** | | Key Review Date? |
+| Thursday December 8 | **Available** | | Key Review Date? |
+| Tuesday December 13 | Quality | Mek Stittri | December 1 |
+| Wednesday December 14 | **Available** | | Key Review Date? |
+| Thursday December 15 | **Available** | | Key Review Date? |
+| Tuesday December 20 | Infrastructure | Steve Loyd | December 8 |
+| Wednesday December 21 | Support | Tom Cooney | December 7 |
+| Thursday December 22 | **Available** | | Key Review Date? |
+| Tuesday December 27 | **Available** | | Key Review Date? |
+| Wednesday December 28 | **Available** | | Key Review Date? |
+| Thursday December 29 | **Available** | | Key Review Date? |  
 
 ## Examples of Past Group Conversations
 
