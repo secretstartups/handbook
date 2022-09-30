@@ -46,7 +46,7 @@ The Junior Sales Commissions Analyst is a [grade 5](/handbook/total-rewards/comp
 
 ### Job Grade 
 
-The Junior Sales Commissions Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Sales Commissions Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 * Assist with worldwide commission calculations, reporting, and first-tier end user support
 * Track and research compensation issues and provide analysis to facilitate timely resolution
