@@ -84,8 +84,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 ## The four styles and how to apply the model
 
 <details>
-<summary>The Driving Style
-</summary>
+<summary>The Driving Style</summary>
 
   Team members that may be classified as Drivers may be action oriented that prefer fast-paced and structured environments.
 
@@ -130,8 +129,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 </details>
 
 <details>
-<summary>The Analytical Style
-</summary>
+<summary>The Analytical Style</summary>
 
   Team members that may be classified as Analytical may be oriented towards thinking and prefer to live life according to facts, principles, logic, and consistency.
 
@@ -167,8 +165,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 </details>
 
 <details>
-<summary>The Amiable Style
-</summary>
+<summary>The Amiable Style</summary>
 
   Team members that may be classified as Amiable may be oriented towards relationships and tend to interpret the world on a personal basis and get involved in the feelings and relationships between people.
 
@@ -215,8 +212,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 </details>
 
 <details>
-<summary>The Expressive Style
-</summary>
+<summary>The Expressive Style</summary>
 
   Team members that may be classified as Expressive may be oriented towards spontaneity. They tend to focus their attention on the future with intuitive visions and they may want to be appreciated.
 
