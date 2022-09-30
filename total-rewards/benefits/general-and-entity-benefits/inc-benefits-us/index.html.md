@@ -20,14 +20,6 @@ Related Pages:
  
 US based benefits are arranged through Willis Towers Watson and managed on the PlanSource platform. The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available. 
  
-## 2023 Plan Year
-
-2023 US Benefit Plan Guides, FAQs, and additional details will be posted here soon. 
-
-### Open Enrollment
-GitLab’s US Benefits Open Enrollment for Calendar Year 2023 which will take place from 2022-10-31 to 2022-11-11. This year will be a passive enrollment, which means that if you do not wish to make changes to your health benefits (medical, dental and vision), you do not have to re-enroll for 2023; your 2022 elections will automatically roll over, with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. We are staying with our current carriers (Cigna, Kaiser, etc). Please note the new 2023 Cigna & Kaiser Medical Rates listed below in the sections below. 
-
-
 ## 2022 Plan Year
 
 Please see additional information on the 2022 US Benefit Plans: 
@@ -197,56 +189,6 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 
 Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
 
-##### Cigna 2023 Calendar Year Plans
-
-**Coverages:**
- 
-Cigna plans are available to team members located in all US states, with the exception of Hawaii. 
-
- 
-In Network:
- 
-| Plan Details               | 2023 Cigna HDHP- HSA |  2023 Cigna EPO (PPO $0) | 2023 Cigna PPO 500   |
-|:---------------------------|:----------------------:|:------------------:|:-----------------:|
-| Deductible (Single/Family) | $2,000 / $3,000        | $0 / $0            | $500 / $1,000     |
-| Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
-| Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
-| Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
-| Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
-| Emergency Room             | 20%                    | $100 per visit     | $100 per visit    |
-| Hospital Inpatient         | 20%                    | $250 per admission | 10%               |
-| Hospital Outpatient        | 20%                    | 0%                 | 10%               |
-| Generic                    | $10                    | $10                | $10               |
-| Brand - Preferred          | $30                    | $30                | $30               |
-| Brand - Non-Preferred      | $50                    | $50                | $50               |
-| Rx Plan^                   | Standard 3-tier | Standard 3-tier | [Standard 3-tier |
-| Summary Plan Descriptions  | TBD | TBD       | TBD             |
-
-
-** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.
- 
-*** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
- 
-^ The Prescription Drug List is subject to change. When making a change mid-year, Cigna states that they will send out the following communication to impacted members: centralized notification 60 days prior, 2 letters before the change, and 1 letter after the change.
-
-Accredo is Cigna's specialty pharmacy. For more information on managing your speciality medication please review the [Accredo Customer Flyer](https://drive.google.com/file/d/1qnRKNGj9a9L9j-7Of-ru32sNSEm__2FD/view?usp=sharing).
- 
-
-**Team Member Costs:**
- 
-
-_2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HDHP-HSA | EPO  | PPO  |
-|--------------------------|:---:|:----:|:----:|
-| Team Member Only         | $0  | $0   | $0   |
-| Team Member + Spouse     | $0  | $320 | $308 |
-| Team Member + Child(ren) | $0  | $242 | $234 |             
-| Family                   | $0  | $548 | $528 |
-
-Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
-
-
 ##### Cigna Emotional Well-Being Virtual Support
 
 Enrolled Cigna members can find in-network mental health providers by logging in to their mycigna.com account, selecting "connect now" under "My Health Team". For more information on virtual support please see the the [Emotional Well-Being Virtual Support flyer](https://drive.google.com/file/d/12-4LPGTPPsw4rBH7l-BBz_dbr3nPwHRm/view?usp=sharing). 
@@ -294,9 +236,7 @@ Virtual visits for Cigna members can be accessed by visiting [myCigna](https://m
 Benefits for services and supplies received outside the Service Area are covered only for medical emergencies and other urgent situations where treatment could not have been reasonably delayed until the insured person was able to return to the United States
 
 #### Kaiser Medical Plans
-
-
-
+ 
 ##### Kaiser 2022 Calendar Year Plans
 
 The following Kaiser options are availble for Hawaii residents.
@@ -337,44 +277,6 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 | Team Member + Child(ren) | $194         | $194         | $284   | $144   |         
 | Family                   | $378         | $378         | $566   | $356   |
 
-##### Kaiser 2023 Calendar Year Plans
-
-The following Kaiser options are availble for Hawaii residents.
-Residents in California and Colorado have the Kaiser options below, in addition to the Cigna plan options. 
-
- 
-| Plan Details               | 2023 HMO NorCal | 2023 HMO 20 SoCal |  2023 HMO 20 CO  | 2023 HMO 20 HI   |
-|----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
-| Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
-| Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
-| PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
-| Emergency Room             | $100                 | $100            | $250            | $100            |
-| Urgent Care                | $20                  | $20             | $50             | $15             |
-| Hospital Inpatient         | $250/admit           | $250/admit      | $300/admit      | 10%             |
-| Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
-| **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | See SBC (tier 1), $3 (tier 1a), $15 (tier 1b)             |
-| Brand - Preferred          | $35                  | $35             | $30             | $50             |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | $50             |
-| Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | $200            |
- 
-Please see the [2022 Kaiser Colorado Enrollment Guide](https://drive.google.com/file/d/1oOqIMImcUShku7gKKd3IKkyMv2z7wRto/view?usp=sharing) for more information on the Kaiser Colorado plan. 
-
-**Team Member Costs:**
- 
-The following costs are monthly rates which would be deducted from your paycheck.
-
-_2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HMO CA North | HMO CA South | HMO HI |
-|--------------------------|:------------:|:------------:|:------:|
-| Team Member Only         | $0           | $0           |  $0    |
-| Team Member + Spouse     | $252         | $252         | $170   |
-| Team Member + Child(ren) | $200         | $200         | $138   |         
-| Family                   | $388         | $388         |  $340  |
-
- 
-Review the [Kaiser Permanente Chiropractic and Acupuncture Benefits flyer](https://drive.google.com/file/d/1UtDITIjSk43hPDYml-bNubmju4qIx_Ac/view?usp=sharing) for more information on these plans. 
 
 ##### Kaiser Telehealth
  
@@ -451,35 +353,6 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $14  |
 | Team Member + Child(ren) | $20  |
 | Family                   | $36  |
-
-#### Dental 2023 Calendar Year Plan
- 
-**Coverages:**
- 
-| Plan Details                         | DDPO 2023 | 
-|--------------------------------------|:----------:|
-| Deductible (Single/Family)           | $50 / $150 |
-| Maximum Benefit                      | $2,000     |
-| Preventive Care CoInsurance (in/out) | 0% / 0%    |
-| Basic Care Coinsurance (in/out)      | 20% / 20%  |
-| Major Care Coinsurance (in/out)      | 50% / 50%  |
-| Out of Network Reimbursement         | 90th R&C   |
-| **Orthodontia**                      |            |
-| Orthodontic Coinsurance (in/out)     | 50% / 50%  |
-| Orthodontic Max Benefits             | $1,500     |
- 
-**Team Member Costs:**
- 
-The following costs are monthly rates which would be deducted from your paycheck.
-
- _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | DPPO |
-|--------------------------|:----:|
-| Team Member Only         | $0   |
-| Team Member + Spouse     | $16 |
-| Team Member + Child(ren) | $20  |
-| Family                   | $36  |
  
 ##### Cigna Dental Period to Submit Claims
  
@@ -514,7 +387,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 | Single Vision                     | $0           | 
 | Bifocal                           | $0           |
 | Trifocal                          | $0           |
-| Frame Allowance                   | up to $150   |
+| Frame Allowance                   | up to $130   |
 | Elective Lenses Contact Allowance | up to $130   |
  
 **The Frame allowance has increase to up to $150 for the Vision 2022 Calendar Year Plan.**
@@ -531,36 +404,6 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $2.40  |
 | Team Member + Child(ren) | $1.80  |
 | Family                   | $4.80  |
-
-#### Vision 2023 Calendar Year Plan
- 
-**Coverages:**
-
- 
-| Plan Details                      | Vision 2023    | 
-|-----------------------------------|:------------:|
-| Frequency of Services             | 12 months   |
-| Copay Exam                        | $20          | 
-| Copay Materials                   | -            |
-| Single Vision                     | $0           | 
-| Bifocal                           | $0           |
-| Trifocal                          | $0           |
-| Frame Allowance                   | up to $150   |
-| Elective Lenses Contact Allowance | up to $130   |
- 
-
-**Team Member Costs:**
- 
-The following costs are monthly rates which would be deducted from your paycheck.
-
-2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | Vision |
-|--------------------------|:------:|
-| Team Member Only         | $0     |
-| Team Member + Spouse     | $2.40  |
-| Team Member + Child(ren) | $1.70  |
-| Family                   | $4.40  |
 
 
 ##### Cigna Vision Period to Submit Claims
@@ -882,9 +725,7 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
 If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact WEX (Discovery) Benefits directly: (866) 451-3399.
  
 ### Costs per Month
-
-#### 2022 
-
+ 
 **Medical**
  
  2022
@@ -919,39 +760,3 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Team Member + Spouse           |   $15.35   |         
 | Team Member + Child(ren)       |   $12.99   |
 | Family                         |   $21.43   |
-
-#### 2023
-
-**Medical**
- 
-
-| Tier                           | Cigna EPO   | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO HI |
-|--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $792.55   |   $538.26    | $764.39   |     $560.23       |     $560.23     |    $496.90    |
-| Team Member + Domestic Partner | $1,727.87 |   $1,171.76  | $1,666.35  |  $1,293.75     |     $1,293.75 |      $993.80    |
-| Team Member + Spouse           | $1,727.87  |   $1,171.76   | $1,666.35 |     $1,293.75     |     $1,293.75   |       $993.80     |           
-| Team Member + Child(ren)       | $1,499.90  |   1,017.39     | $1,446.58    |    $1,142.88     |     $1,142.88  |      $894.42   |
-| Family                         | $2,396.00 |   $1,624.26   | $2,310.64  |     1697.11     |     1697.11    |      $1,490.70  |
-
-
-**Dental**
-
-
-| Tier                           | Cigna DPPO |
-|--------------------------------|:----------:|
-| Team Member Only               |   $42.15   |
-| Team Member + Domestic Partner |   $83.76  |
-| Team Member + Spouse           |   $83.76   |
-| Team Member + Child(ren)       |   $96.89  |
-| Family                         |   $148.64  |
- 
-**Vision**
- 
-| Tier                           | Cigna VPPO |
-|--------------------------------|:----------:|
-| Team Member Only               |   $7.13    |
-| Team Member + Domestic Partner |   $14.30  |
-| Team Member + Spouse           |   $14.30   |         
-| Team Member + Child(ren)       |   $12.10  |
-| Family                         |   $19.96   |
-
