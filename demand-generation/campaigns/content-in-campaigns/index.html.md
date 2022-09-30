@@ -121,8 +121,7 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
 <details>
-<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.
-</summary>
+<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
@@ -204,8 +203,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple Teams
 
 <details>
-<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.
-</summary>
+<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
 * [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page) - Analyst Relations
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing (DO NOT OPEN FOR ANALYST CONTENT)
