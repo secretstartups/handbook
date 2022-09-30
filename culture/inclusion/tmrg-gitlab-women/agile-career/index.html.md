@@ -60,7 +60,7 @@ Participants interested in `Activate your Agile Career` should expect and commit
 3. Attend 3 live training sessions. Recordings will be available for those who cannot attend live.
      - 2022-10-19 @ 3pm UTC - 60 minutes
      - 2022-11-09 @ 4pm UTC - 90 minutes
-     - 2022-01-11  @ 4pm UTC - 90 minutes
+     - 2023-01-11  @ 4pm UTC - 90 minutes
 4. Complete post-session self paced homework and reflections (total of 7-10 hours)
 5. Read or listen to [Activate Your Agile Career: How Responding to Change Will Inspire Your Life's Work](https://www.amazon.com/Activate-Your-Agile-Career-Responding/dp/0998953121). You can [expense work related books](/handbook/finance/expenses/#-expense-policy-summary).
 6. Attend monthly cohort accountability sync sessions (5 total) along with participants with similar career goals - 25 minutes each
