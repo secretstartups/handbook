@@ -57,7 +57,7 @@ Participants interested in `Activate your Agile Career` should expect and commit
 
 1. Apply via Google Forms by 2022-10-17
 2. Complete all pre and post program assessments and feedback forms
-3. Attend 3 live training sessions. Recordings will be available for those who cannot attend live.
+3. Attend 3 live training sessions. Recordings will be available for those who cannot attend live. If your working hours are outside these live sessions, please still consider applying. You can watch the recordings and collaborate with a cohort that meets within your timezone.
      - 2022-10-19 @ 3pm UTC - 60 minutes
      - 2022-11-09 @ 4pm UTC - 90 minutes
      - 2023-01-11  @ 4pm UTC - 90 minutes
@@ -80,6 +80,10 @@ Excellent! Bring your IGP with you to any and all live sessions. One of our goal
 **How will this be different than other career development opportunities at GitLab?**
 
 GitLab offers multiple career development resources. The goal of this program specifically is to provide a framework and accountability network around your career development.
+
+**The live sessions are outside my working hours. Can I still participate?**
+
+Yes! All 3 live sessions will be recorded. Cohorts will be organized across timezones, so the accountability and book reading discussions will happen in your working hours. We understand the value in attending training sessions live and hope that results from this program will allow us to expand in future quarters to provide additional live sessions.
 
 
 
