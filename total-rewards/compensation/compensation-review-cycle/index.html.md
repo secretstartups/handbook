@@ -113,7 +113,7 @@ Team members hired after October 31st will be reviewed to ensure their salary do
 <iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
 
-Performance and Growth Factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
+Performance and Growth Potential Factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
 
 ### Performance Factor
 
@@ -148,12 +148,12 @@ If a manager has a team member on their team who is red circled (paid over the t
 
 Once all Performance Factors have been reviewed and approved and the Performance Factor Executive Audit has been complete, managers will be communicated to that they can share the final performance factor with their direct report. This will occur before Annual Compensation Review takes place intentionally so that way it is more focused on the growth and development of the team member rather than how this ties into compensation.
 
-### Growth Factor 
+### Growth Potential Factor 
 
-While Performance Factors are used to calibrate on cash compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy, we encourage managers to use the Growth Factor (developing - growing - exceeding) as an input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member. 
+While Performance Factors are used to calibrate on cash compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy, we encourage managers to use the Growth Potential Factor (developing - growing - exceeding) as an input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member. 
 
 In calibrating the equity refresh, we recommend managers to take the following into account: 
-* [Growth factor](/handbook/people-group/talent-assessment/#what-is-growth)
+* [Growth Potential factor](/handbook/people-group/talent-assessment/#what-is-growth)
 * Unvested Equity Holdings
 * Value Vesting the next fiscal year 
 
@@ -169,7 +169,7 @@ When you review your team member's card in Compaas, you will see the recommended
 
 1. Managers to take a holistic view of cash compensation and equity compensation. 
   * The recommendation for cash compensation is not to add automatically adjust based on market changes, rather to use the new range an overall factor in determining what the increase should be.
-  * The recommendation for equity compensation is not to formulaicly tie the refresh grant to the growth factor, but instead to ensure the team member has a competitive total rewards package for the next fiscal year. 
+  * The recommendation for equity compensation is not to formulaicly tie the refresh grant to the growth potential factor, but instead to ensure the team member has a competitive total rewards package for the next fiscal year. 
 1. Managers should use the minimum market adjustment from Total Rewards to make sure the team member is within their band if they are performing at a commendable level. As a manager you can review the Compensation band in the [Compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/).
 1. Managers should take into account any changes in compensation during FY22 when analyzing the FY23 compensation. 
 1. Managers should review how team members fall within their band after the proposed increase to ensure pay equality amongst peers. (This is also audited by Total Rewards as part of the cycle).  
@@ -225,7 +225,7 @@ For any feedback around the manager review portion of Compensation Review or the
 * ![summary page](/images/handbook/people-group/compaas-summary.png)
 1. Your Reports: Under each report will be the team member's name, title, benchmark, and department. 
   * Underneath the job title is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the input that is used for determining the compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer, Individual Contributor.
-1. The Performance/Growth column depicts the [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/) from the November 2021 Talent Assessment. 
+1. The Performance/Growth Potential column depicts the [performance/growth potential factor](https://about.gitlab.com/handbook/people-group/talent-assessment/) from the November 2021 Talent Assessment. 
 1. The Raise (and Raise as %) is where the manager or indirect manager can enter in the proposed increase for the team member for FY23 Cash Compensation. Please note this is all in USD and will be converted to local currency once the cycle has closed.
 1. The team member's compensation before (light) and after (bold) any adjustments is listed to the right of the percent increase.
   * If there is an "OTE" next to the compensation values, this indicates that part of cash compensation is a bonus component. Total Rewards works in OTE during Annual Compensation Review and then allocates to base/variable based on the desired split per role.
@@ -263,7 +263,7 @@ Clicking the background of a person's card expands it to reveal additional infor
 **Stock Tab**
 1. The stock grant is where a slate owner can recommend a grant to the team members they are reviewing. This will be submitted as a dollar amount in USD to vest over 4 years. 
 1. Similar to the other tabs, each team member will have a card with information to help you propose a grant. 
-1. On this card, there will be the team member's performance/growth rating, when their last grant was approved, a box to allocate the recommended grant, and a target range. The target range is the same as the refresh range in the compensation calculator. 
+1. On this card, there will be the team member's performance/growth potential rating, when their last grant was approved, a box to allocate the recommended grant, and a target range. The target range is the same as the refresh range in the compensation calculator. 
 1. Clicking on the card will expand it to reveal information on the team member's current grants and custom notes. The custom notes that are important for review on the tab is the team member's Total Unvested Equity and Value Vesting.
 * ![Stock Tab](/images/handbook/people-group/stock-compaas.png)
 1. If the team member is being recommended for a promotion, they will still be eligible for a refresh grant based on their current (pre-promotion) range. The Total Rewards team will add in the pending promotion grant value to the custom notes that appear when clicking on the card for additional context. **Slate owners do not need to recommend extra in the grant to account for the promotion as this is being done automatically by Total Rewards.**
