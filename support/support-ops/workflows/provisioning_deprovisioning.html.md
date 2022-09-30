@@ -54,8 +54,7 @@ works using the following process:
    of this email can be seen below.
 
 <details>
-<summary>The Python script used
-</summary>
+<summary>The Python script used</summary>
 <div><pre><code>
 def check_email_domain(email):
   email_domain = email.split('@')[1]
@@ -100,8 +99,7 @@ output
 </details>
 
 <details>
-<summary>Outbound email contents
-</summary>
+<summary>Outbound email contents</summary>
 <blockquote>
 <p>Hi,</p>
 <p></p>

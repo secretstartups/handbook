@@ -16,16 +16,14 @@ From time to time, you may need to grant additional CI minutes to a namespace
 _without_ affecting the namespace's usual monthly quota.
 
 <details>
-<summary>Using Support Forms Processor
-</summary>
+<summary>Using Support Forms Processor</summary>
 
 Use the <a href="https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html">
 Extra Minutes form</a>.
 </details>
 
 <details>
-<summary>Using GitLab.com ChatOps
-</summary>
+<summary>Using GitLab.com ChatOps</summary>
 
 View the <a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
 Support ChatOps documentation</a> for more information.

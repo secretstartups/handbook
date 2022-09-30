@@ -102,8 +102,7 @@ Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](ht
 **Note:** If you are using GKE to test GitLab Runners, it is recomended to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). GitLab Runners required the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control).  The `support-resources` GCP project  does not allow the user enough permision to create the required roles.
 
 <details>
-<summary>Open me for instructions on how to manually create GKE on your own project.
-</summary>
+<summary>Open me for instructions on how to manually create GKE on your own project.</summary>
 <div markdown="1">
 
 1. Ensure you have selected your own project at the top of [GCC](ttps://console.cloud.google.com).
