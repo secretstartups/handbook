@@ -544,6 +544,12 @@ When testing postgres pipeline (pgp) locally in Airflow, there are a few things 
 
 ## Docker
 
+As an alternative to Docker Desktop we use Rancher desktop as suggested in [`/handbook/tools-and-tips/mac`](/handbook/tools-and-tips/mac/#docker-desktop). We use version `1.4.1`, which can be found on [the rancher dektop releases page](https://github.com/rancher-sandbox/rancher-desktop/releases/tag/v1.4.1).
+
+Make sure that "check for updates automatically" is **unchecked** as later versions have had problems connecting to our Kubernetes cluster. 
+
+![rancher-updates.png](./rancher-updates.png)
+
 ### Compose
 
 We use Docker compose to [define and run](https://gitlab.com/gitlab-data/analytics/blob/master/docker-compose.yml) our different images and applications. These are activated by users via the [Makefile](https://gitlab.com/gitlab-data/analytics/blob/master/Makefile).
