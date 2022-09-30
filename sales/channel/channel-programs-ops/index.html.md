@@ -649,12 +649,11 @@ Partner Logos may be accessed in GitLab Partner Portal in the Asset Library unde
 
 When initiating a project the Channel Team needs to be engaged in each part of the project from ideation to approval.  The Channel Engagement process is depicted in Diagram 1 below:
 
-Diagram 1:
+![Channel Program Engagement Process](/images/channel-program-ops/project-charlies-angels.png)*Diagram 1*
 
+<br>
 
-<div align= "center"><img src="/images/channel-program-ops/project-charlies-angels.png" width="" alt="Channel Program Engagement Process" title="image_tooltip"></div>
-
-<br>Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
+Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
 
 Table 1 outlines the DRIs responsible for each step in the Channel Program Engagement process. 
 
@@ -724,8 +723,9 @@ Table 1:
 
 
 ## **Partner Enablement Tools**
-The Channel Programs and Enablement team is responsible for the maintence and management of enablement tools used to support the GitLab Partner ecosystem. The three main tools that we use are: Highspot, ImParnter(Partner Portal), and EdCast. Please reference the chart below to determine where an enablement asset should reside. 
-<div align= "center"><img src="/images/channel-program-ops/Partner-Enablement-Tools.png" width="" alt="Partner Enablement Tools" title="image_tooltip"></div>
+The Channel Programs and Enablement team is responsible for the maintence and management of enablement tools used to support the GitLab Partner ecosystem. The three main tools that we use are: Highspot, ImParnter(Partner Portal), and EdCast. Please reference the chart below to determine where an enablement asset should reside.
+
+![Partner Enablement Tools](/images/channel-program-ops/Partner-Enablement-Tools.png)
 
 ## **Partner Communications**
  
