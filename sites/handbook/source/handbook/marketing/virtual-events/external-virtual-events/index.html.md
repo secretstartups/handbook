@@ -302,8 +302,7 @@ Please delete the generic issue creation section above if you are a FMC creating
 
 
 <details>
-<summary>Corporate Marketing Activation: Expand below for quick links to issues to be created and linked to the epic.
-</summary>
+<summary>Corporate Marketing Activation: Expand below for quick links to issues to be created and linked to the epic.</summary>
 
 * [ ] Activate*: [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Corp creates, assignment in issue
 * [ ] Activate*: [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Corp creates, assignment in issue
