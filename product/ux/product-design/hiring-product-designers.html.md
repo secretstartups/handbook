@@ -18,7 +18,7 @@ Product Designers follow the [Engineering hiring process](https://about.gitlab.c
 
 General resources:
 - [Interviewing at GitLab](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
-- [Product Designer job family](https://about.gitlab.com/job-families/engineering/product-designer/)
+- [Product Designer job family](https://about.gitlab.com/job-families/product/product-designer/)
 
 ## Interviews for Product Designers
 
@@ -28,7 +28,7 @@ Each Product Designer candidate is interviewed by a panel of interviewers that i
 - Director of Product Design
 - Product Manager
 
-A [detailed description of each stage of our interview process](https://about.gitlab.com/job-families/engineering/product-designer/#hiring-process) is available along with the job description.
+A [detailed description of each stage of our interview process](https://about.gitlab.com/job-families/product/product-designer/#hiring-process) is available along with the job description.
 
 We have established a set of questions we ask at each stage of the process. All questions are available in the Greenhouse scorecard for the candidate. We ask the same questions to every candidate to ensure fairness--during the interview and when evaluating each candidate.
 

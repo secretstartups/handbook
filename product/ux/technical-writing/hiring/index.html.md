@@ -22,8 +22,8 @@ Technical Writers follow the [Engineering hiring process](/handbook/engineering/
 General resources:
 
 - [Interviewing at GitLab](/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
-- [Technical Writing Manager job family](https://about.gitlab.com/job-families/engineering/technical-writing-manager/)
-- [Technical Writing job family](https://about.gitlab.com/job-families/engineering/technical-writer/)
+- [Technical Writing Manager job family](https://about.gitlab.com/job-families/product/technical-writing-manager/)
+- [Technical Writing job family](https://about.gitlab.com/job-families/product/technical-writer/)
 
 ## Interviews for Technical Writing
 
