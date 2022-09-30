@@ -55,8 +55,7 @@ As listed below in the documentation for each snippet, there will be a series of
 #### Namespaces with Additional Filtering
 _Simplifed namespaces data set that includes enhanced filtering_
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
 
@@ -116,8 +115,7 @@ LIMIT 5
 #### Namespaces with Trials and Subscriptions
 _Simplifed namespaces data set that includes trials and subscriptions_
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
 
@@ -190,8 +188,7 @@ LIMIT 5
 
 _See namespace stage adoption metrics such as stages adopted and active users within first X days since namespace creation._
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
 - Copy/paste `[growth_data_spo]` into your Sisense report.
@@ -242,8 +239,7 @@ than `First_X_Days_Filter` days before today
 
 _See namespace-level stage adoption metrics such as time to first adoption, stage usage days, and unique namespace users that adopted stage_
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
 - Copy/paste `[growth_data_stage_adoption]` into your Sisense report.
@@ -304,8 +300,7 @@ LIMIT 5
 
 _Group namespace-level invites. More details on invite data [below](/handbook/product/product-analysis/growth-data-guide/#invites)_
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
 - Copy/paste `[growth_data_group_namespace_invites]` into your Sisense report.
@@ -414,8 +409,7 @@ _Collection of snippets, query templates, and dashboards designed to facilitate 
 
 _Sisense snippet that can easily be adjusted any experiment using Snowplow events data._
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Granularity:** One record per `event_id`
 
@@ -464,8 +458,7 @@ LIMIT 10
 
 _Template for calculating a funnel with multiple Snowplow events_
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Granularity:** One record per stage
 
@@ -496,8 +489,7 @@ _Date-level granularity can be removed._
 
 _At a glance, see if the experiment is reporting data, for which events, and what the candidate/control distribution looks like._
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **[Visit Dashboard](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation)**
 
@@ -520,8 +512,7 @@ _A brief guide clarifying the granularity, important fields, recommended filters
 
 _Provides helpful fields on every namespace such as the `dim_namespace_id`, `created_at` date, and `namespace_type`._
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 `common.dim_namespace` [(dbt)](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace)
 
@@ -550,8 +541,7 @@ _Provides helpful fields on every namespace such as the `dim_namespace_id`, `cre
 _Two main tables used to calculate invites, [`legacy.gitlab_dotcom_members`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members) 
 and [`legacy.gitlab_dotcom_memberships`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships)._
 
-<details markdown="1"><summary>Click to expand
-</summary>
+<details markdown="1"><summary>Click to expand</summary>
 
 **Two different types of "invites"**
 
