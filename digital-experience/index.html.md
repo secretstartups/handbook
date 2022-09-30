@@ -251,16 +251,14 @@ We love collaborating on work that drives our North Star and supporting metrics.
 ## Digital Experience FAQ
 
 <details>
-    <summary>Previous <b>Quarterly Plans & OKRs</b>
-</summary>
+    <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107">FY23Q2 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85">FY23Q1 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>    
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
 </details>
 <details>
-    <summary>Content Wireframe Instructions
-</summary>
+    <summary>Content Wireframe Instructions</summary>
     The Digital Experience team is primarily responsible for facilitating content, not creating it. Please prepare a content plan:
     <li>Provide the layout you think would work best from existing pages or existing blocks</li>
     <ul>
@@ -276,8 +274,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 </details>
 <details>
-    <summary>Requesting homepage promotion
-</summary>
+    <summary>Requesting homepage promotion</summary>
     <ul>
       <li>Use <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion">this template</a> to request addition to the content calendar for homepage promotion</li>
       <li>If this is for a campaign, please put in the request as part of the initial campaign distribution plan</li>
@@ -285,15 +282,13 @@ We love collaborating on work that drives our North Star and supporting metrics.
     </ul>
 </details>
 <details>
-    <summary>Image Requirements
-</summary>
+    <summary>Image Requirements</summary>
     <ul>
       <li>See <a href="https://about.gitlab.com/handbook/marketing/digital-experience/image-guidelines/">image guidelines</a> for specs</li>
     </ul>
 </details>
 <details>
-    <summary>SEO Requirements
-</summary>
+    <summary>SEO Requirements</summary>
     <li>Know the URL and keywords you want to use</li>
     <ul>
       <li>SEO and keyword analysis from the Search Team <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=keyword-research-request">Issue Templates</a> is recommended.</li>
@@ -301,8 +296,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
     </ul>
 </details>
 <details>
-    <summary>Related Pages
-</summary>
+    <summary>Related Pages</summary>
     <ul>
       <li><a href="/handbook/marketing/digital-experience/data-dictionary/">Data Attribute Dictionary</a></li>
       <li><a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>
@@ -323,8 +317,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
     </ul>
 </details>
 <details>
-    <summary>Checklists
-</summary>
+    <summary>Checklists</summary>
     <ul>
       <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md">All Merge Requests</a></li>
       <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md">AB Test MR</a></li>
