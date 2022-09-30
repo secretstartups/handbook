@@ -27,7 +27,7 @@ As the UX Research Director, I hold myself accountable that the Research team is
 - Generating actionable insights
 - Aligned to the company business strategy
 
-The [UX Research Director job description](https://about.gitlab.com/job-families/engineering/ux-research-manager/#director-of-ux-research) calls out the specifics of my role. Some responsibilities that I'm particularly excited about include:
+The [UX Research Director job description](https://about.gitlab.com/job-families/product/ux-research-manager/#director-of-ux-research) calls out the specifics of my role. Some responsibilities that I'm particularly excited about include:
 
 - Create an open and collaborative culture based on trust in the UX Research team.
 - Set an ambitious vision for UX Research that other companies use as a benchmark for their own research initiatives.

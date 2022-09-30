@@ -15,7 +15,7 @@ Hi, I am Lauren Evans and I am a UX Research Manager at GitLab. I joined the tea
 
 ## My role as a UX Research Manager
 - I am super excited to be managing this team of amazing UX researchers. 
-- From [the Manager, UX Research job description](https://about.gitlab.com/job-families/engineering/ux-research-manager/): Managers in the UX Research department at GitLab see the team as their product. While they are credible as researchers and know the details of what UX Researchers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of UX Research commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
+- From [the Manager, UX Research job description](https://about.gitlab.com/job-families/product/ux-research-manager/): Managers in the UX Research department at GitLab see the team as their product. While they are credible as researchers and know the details of what UX Researchers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of UX Research commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
 
 
 ## My leadership style
