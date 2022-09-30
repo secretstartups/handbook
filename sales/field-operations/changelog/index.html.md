@@ -16,6 +16,14 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY23
 
+### 2022-10-03 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/185))
+
+**Deal Desk/Fulfillment: [Quarterly Subscription Reconciliation (QSR) Notifications Now Available in SFDC](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4592)**
+
+**Marketing Ops: [Marketo Sales Insights Access Removal](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight)**
+
+**Marketing Ops/Sales Systems: [Changes to MQL fields](systems#2697)**
+
 ### 2022-09-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/174))
 
 **Sales Ops: [NEW Required Opportunity Field for Intended Product](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2808)**
