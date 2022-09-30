@@ -144,6 +144,7 @@ If you are interested in participating in an active working group, it is general
 * [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 * [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
+* [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
 * [Revenue Globalization](/company/team/structure/working-groups/globalization/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
 * [Learning Experience](/company/team/structure/working-groups/learning-experience/)
