@@ -51,7 +51,7 @@ what fields are populated with information from Zendesk in the
 As a lot relies on organizations being setup properly, this feature requires
 admin level abilities currently. If an organization needs to be edited, an issue
 should be filed using the
-[Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
+[Zendesk Organization](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new)
 issue template.
 
 ## Organizations with outdated information
@@ -62,7 +62,7 @@ sync integration has hit an issue. Luckily, we have the GitLab built sync script
 that runs every hour to rectify such issues.
 
 In your due diligence, you would want to create an issue via the
-[support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new)
+[Zendesk Organization Repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new)
 so support-ops can double check to ensure there is nothing blocking the sync.
 
 ## Organization Notes
@@ -72,6 +72,8 @@ page in Zendesk. These notes are automatically placed on a ticket (along with
 other organization informaiton) as soon as the ticket has an organization
 present. This is done via the
 [`Ticket::Internal Comment::Organization Info` trigger](https://gitlab.com/search?utf8=%E2%9C%93&search=id%3A+360015531940&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar).
+
+To add, edit or remove the organization notes, you can use [Zendesk Organization Issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) to make the appropriate changes.
 
 ## How does SLA factor in?
 
