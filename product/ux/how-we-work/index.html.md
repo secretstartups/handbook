@@ -57,7 +57,7 @@ We're currently working to find the right balance between proactive and reactive
 
 ### Examples of proactive UX
 
-One example of proactive UX work is our [UX Scorecards](/handbook/product/ux/ux-scorecards/) initiative. Another example is the foundational research that our UX Researchers lead (while inviting cross-functional partners to participate). Yet another example is the ongoing effort to beautify our UI, both through [small, tactical changes](https://gitlab.com/groups/gitlab-org/-/epics/989) and through our [Pajamas Design System][pajamas].
+One example of proactive UX work is our [UX Scorecards](/handbook/product/ux/ux-scorecards/) initiative. Another example is the foundational research that our UX Researchers lead (while inviting cross-functional partners to participate). Yet another example is the ongoing effort to [beautify our UI](/handbook/product/ux/product-design/#beautifying-our-ui), both through [small, tactical changes](https://gitlab.com/groups/gitlab-org/-/epics/989) and through our [Pajamas Design System][pajamas].
 
 **UX Scorecards** <br>
 Designers use [UX Scorecards](/handbook/product/ux/ux-scorecards/) to benchmark common user tasks. In many cases, tasks involve multiple stages of the product, giving designers visibility into how users traverse across stages. Designers follow with [Experience Recommendations](/handbook/product/ux/ux-scorecards/) for how to improve the experience in upcoming milestones.
@@ -157,7 +157,7 @@ These roles should be well balanced, so that each group can contribute to the pr
 There are three essential parts to great collaboration: shared processes, appropriate tools, and psychological safety.
 
 ### Collaboration essential 1: Shared process
-We follow GitLab's shared process referred to as the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
+We follow GitLab's shared process referred to as the [Product Development Flow](/handbook/product-development-flow/).
 
 UX research and design are essential componenents throughout the Product Development Flow. Talking to customers or potential customers to understand their problems is at the core of this idea.
 
@@ -328,12 +328,12 @@ the right help.
    about the problem.
 1. **Gitpod**
     1. Ask for help in the `#gitpod-gdk` Slack channel.
-    1. Reach out to a UX help volunteer: [Marcel van Remmerden](https://about.gitlab.com/company/team/#mvanremmerden)
+    1. Reach out to a UX help volunteer: [Marcel van Remmerden](/company/team/#mvanremmerden)
   (add yourself!)
 1. **GDK**
     1. Review the [getting help](https://gitlab.com/gitlab-org/gitlab-development-kit#getting-help).
     1. Ask for help in the `#gdk` Slack channel.
-    1. Reach out to a UX help volunteer: [Taurie Davis](https://about.gitlab.com/company/team/#tauriedavis), [Sunjung Park](https://about.gitlab.com/company/team/#sunjungp)
+    1. Reach out to a UX help volunteer: [Taurie Davis](/company/team/#tauriedavis), [Sunjung Park](/company/team/#sunjungp)
     (add yourself!)
 
 ## Root Cause Analysis (RCA)
