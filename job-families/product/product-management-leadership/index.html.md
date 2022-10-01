@@ -82,6 +82,8 @@ Responsible for the [Geo](https://about.gitlab.com/handbook/product/categories/#
 * Previous experience with self-managed products and their lifecycle operations
 * Strong communications skills and ability to work cross-functionally, as these groups affect many parts of GitLab
 
+#### Data Science
+
 ##### ModelOps
 Responsible for leading the team of PMs who manage the [ModelOps stage groups](https://about.gitlab.com/handbook/product/categories/#modelops-stage). This stage leader sets the vision and direction for how to empower GitLab users to leverage data science as part of their DevOps program—both by enabling users to build and run data science workloads, as well as by enriching existing GitLab product functionality with capabilities powered by machine learning. This individual will lead an expansion of GitLab’s [core personas](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#personas) to address the needs of data science teams and will work cross-functionality with [other GitLab stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) in leveraging machine learning to deepen our [core differentiators](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#top-3-gitlab-differentiators). This individual will be responsible for developing new revenue-generating products as well as enhancing existing products used by millions of users across the world.
 
@@ -90,6 +92,26 @@ Responsible for leading the team of PMs who manage the [ModelOps stage groups](h
 * Familiarity with the technical differences and operational requirements of various AI disciplines (e.g. supervised and unsupervised machine learning, deep learning, natural language processing, neural networks, etc.)
 * Deep understanding of the production pain points of data science products
 * Prior experience with data science products and use cases
+
+#### Sec 
+
+##### Secure
+Responsible for leading the team of PMs who manage the [Secure stage groups](https://about.gitlab.com/handbook/product/categories/#secure-stage). This stage leader sets the vision and direction for how to enable GitLab users to minimize their security risk with continuous identification and prioritization of high-impact vulnerabilities and weaknesses across every stage of the DevOps process. This scope includes identifying, prioritizing, and managing security research requirements across the entire Sec section and working with GitLab's Vulnerability Research team to prioritize those requirements. The Secure GMP works hand in hand with the [Govern stage](https://about.gitlab.com/handbook/product/categories/#govern-stage) leader to ensure that their teams, together, are providing a holistic and world-class user experience across all of GitLab's security & compliance offerings. 
+
+**Requirements**
+* Prior experience building or operating Application Security Testing (AST) products (e.g., SCA, SAST, DAST, etc.) products 
+* Strong ability to understand the technical details underpinning security testing and software engineering concepts
+* Strong ability to define and maintain alignment on product vision and strategy 
+* Excellent communication skills and ability to drive cross-functional execution
+
+##### Govern
+Responsible for leading the team of PMs who manage the [Govern stage groups](https://about.gitlab.com/handbook/product/categories/#govern-stage). This stage leader sets the vision and direction for how to enable GitLab users with an effective, scalable, and lovable security and compliance solution. This individual also maintains and champions GitLab's [Software Supply Chain Security (SSCS) direction](https://about.gitlab.com/direction/supply-chain/) and coordinates execution of the SSCS roadmap across all GitLab stages. The Govern GMP works hand in hand with the [Secure stage](https://about.gitlab.com/handbook/product/categories/#secure-stage) leader to ensure that their teams, together, are providing a holistic and word-class user experience across all of GitLab's security & compliance offerings. 
+
+**Requirements**
+* Prior experience building operating security or compliance products
+* Deep knowledge of challenges in Software Supply Chain Security and how it intersects with each phase of the DevOps process
+* Strong ability to define and maintain alignment on product vision and strategy 
+* Excellent communication skills and ability to drive cross-functional execution
 
 #### Group Manager, Product (GMP) - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
