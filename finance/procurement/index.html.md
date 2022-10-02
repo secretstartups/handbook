@@ -63,6 +63,7 @@ Includes RFP Templates, scorecards and Vendor Guidelines for doing business with
 ## <i class="fas fa-stream" id="biz-tech-icons"></i>  When does procurement negotiate my contract and how long does that take?
 - The procurement team negotiates SaaS contracts >$25K, and one-time contracts > $100K. 
 - Plan on the negotiation, review and approval cycle to take 3-4 weeks. Large and/or complex contracts can take longer to negotiate and finalize.
+- If this step is not taken, purchase orders will not be approved until procurement is able to negotiate.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I create a Purchase Request in Coupa?
 If purchasing Home Office Equipment and/or Software for your individual work use <$5K USD, see [Other Services Process](https://about.gitlab.com/handbook/finance/procurement/#-what-are-other-services-procurement-supports) since a Coupa Purchase Request is not required in these instances.
