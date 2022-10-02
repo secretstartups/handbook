@@ -136,9 +136,9 @@ The Director, Corporate Development is a [grade 10](/handbook/total-rewards/comp
 #### Responsibilities
 
 * Own end-to-end deal management
-  * Create a target list of potential acquisitions
-  * Validate fit for terms, product roadmap, and other criteria
-  * Value the companies in a financial model
+  * Validate target fit for terms, product roadmap, and other criteria
+  * Develop acquisition rationale and compose the Business Case for acquisitions
+  * Collaborate with Product Section lead/s to formulate a strategic plan for growth through acquisitions
   * Negotiate terms of the deal
   * Prepare all acquisition related documents such as Non-Disclosure Agreements, Letters of Intent, and Purchase Agreements with our legal team and legal counsel
   * Integrate the acquisition into the company
