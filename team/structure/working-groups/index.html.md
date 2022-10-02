@@ -135,7 +135,6 @@ If you are interested in participating in an active working group, it is general
 
 * [API Vision](/company/team/structure/working-groups/api-vision/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
-* [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
 * [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
 * [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
 * [Engineering Internship](/company/team/structure/working-groups/engineering-internship/)
@@ -167,6 +166,7 @@ If you are interested in participating in an active working group, it is general
 * [China Service](/company/team/structure/working-groups/china-service/)
 * [CI Queue Time Stabilization](/company/team/structure/working-groups/ci-queue-stability/)
 * [Commercial & Licensing](/company/team/structure/working-groups/commercial-licensing/)
+* [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
 * [Contributor Growth](/company/team/structure/working-groups/contributor-growth)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Development Metrics](/company/team/structure/working-groups/development-metrics/)
