@@ -112,7 +112,6 @@ Data as of 2022-07-31
 **Due to data and or legal limitations, this is not an exhaustive list of all of our underrepresented groups.  Those with disabilities, those that identify as LGBTQIA+, etc. who choose not to disclose or underrepresented ethnicities outside of the US. 
 
 The DIB Team is actively working on finding data sets outside the US and inclusion metrics for underrepresented groups we cannot report on as team member representation. 
-  * Of Note: Management refers to Team Members who are People Managers, whereas Leadership denotes Team Members who are in Director-level positions and above.
 
 **Of Note**: `Management` refers to Team Members who are *People Managers*, whereas `Leadership` denotes Team Members who are in *Director-level positions and above*.
 
