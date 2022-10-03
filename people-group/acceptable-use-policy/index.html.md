@@ -150,3 +150,4 @@ Exceptions to this policy must be approved by Security, Legal and PeopleOps Depa
 
 ## References
 * Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* GitLab's [Community Code of Conduct](/community/contribute/code-of-conduct/) applies to all members of the GitLab community
