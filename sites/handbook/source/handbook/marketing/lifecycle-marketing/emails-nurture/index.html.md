@@ -32,7 +32,7 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
     - this is an ongoing effort led by Campaigns in collaboration with Content Mktg, Product Mktg, Technical Mktg
     - [see the epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1530)
 * Logic-based Marketo nurture programs by segment
-    - this is an ongoing effort led by Campaigns, and specifically spearheded by our Email Marketing Campaign Manager @nbsmith.
+    - this is an ongoing effort led by Campaigns, and specifically spearheded by our Email Marketing Campaign Manager [@Aklatzkin](https://gitlab.com/Aklatzkin).
     - [see this epic for holding location of projects to be prioritized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1040)
 
 ### Quick Links
