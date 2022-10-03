@@ -319,7 +319,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 
 ### Leadership Development Opportunities 
 
-1. Managers can participate in our [manager challenge program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing management skills to lead all-remote teams.
+1. Managers can participate in our [Elevate program](/handbook/people-group/learning-and-development/elevate/), focused on developing management skills to lead all-remote teams.
 2. Leadership development coaching with the [growth & development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#introduction). More details about a formal GitLab coaching program to come. 
 3. [Self-led opportunities to be a mentor](/handbook/people-group/learning-and-development/mentor/) - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
 4. [Join the women's TMRG mentorship group](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) to either be a mentor to practice leadership or get paired with a leader to learn from.

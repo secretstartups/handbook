@@ -103,7 +103,7 @@ You can:
 
 ## Live Learning Session
 
-During Week 3 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
+During Week 3 of our Manager Challenge Pilot, we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
 
 A recording of the second of two sessions can be found here:
 
