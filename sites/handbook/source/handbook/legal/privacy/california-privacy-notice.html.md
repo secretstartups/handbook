@@ -4,7 +4,7 @@ title: "California Privacy Notice"
 description: "Privacy Notice applicable for residents of California."
 ---
 
-Last updated: 
+Last updated: June 10, 2022
 
 ## What is Provided under the California Consumer Privacy Act ("CCPA")?
 
