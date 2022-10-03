@@ -210,7 +210,9 @@ If you are interested in participating in an active working group, it is general
 
 ## Top Cross-Functional Initiatives
 
-We identify annual top cross-functional initiatives that are key to GitLab's success in the fiscal year and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives. 
+We identify annual top cross-functional initiatives that are key to GitLab's success in the fiscal year and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevate these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
+
+These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives. Other projects may be of great importance throughout the business, for example meeting recruiting targets or category leadership, but these are workstreams led by individual functions and central to their key business responsibilities. When alignment or ongoing reporting is required for an initiative clearly owned by a single function, the responsible E-Group lead should ensure that Key Reviews, E-Group Weeklies, Group Conversations and other existing forums are used for updates. 
 
 Please note that a limited set of team members currently have access to the linked Epics. We are exploring ways to make more information available to all team members and the wider-community while keeping sensitive information contained to a smaller group.
 
