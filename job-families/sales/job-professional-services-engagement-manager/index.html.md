@@ -9,7 +9,7 @@ The Engagement Manager plays the critical role for setting customers up for Succ
 
 ### Professional Services Engagement Manager (Intermediate)
 
-The Professional Services Engagement Manager (Intermediate) reports to the Sr. Director, Professional Services.
+The Professional Services Engagement Manager (Intermediate) reports to the Sr. Manager, Engagement Management.
 
 #### Professional Services Engagement Manager (Intermediate) Job Grade 
 
@@ -30,7 +30,6 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 #### Professional Services Engagement Manager (Intermediate) Requirements
 
 * Demonstrated progressive experience delivering consulting services, including team leadership and active involvement in selling professional services
-* Demonstrated progressive experience in managing C-level client relationships, including escalation resolution
 * Demonstrated progressive enterprise-level project management experience
 * Demonstrated progressive experience operating in a pre-sales environment, shaping and scoping large and complex implementation projects
 * Extremely strong written and verbal communication skills, executive level presence and experience in working in a client advisory role
@@ -47,7 +46,7 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 
 ### Senior Professional Services Engagement Manager
 
-The Senior Professional Services Engagement Manager reports to the Sr. Director, Professional Services.
+The Senior Professional Services Engagement Manager reports to the Sr. Manager, Engagement Management.
 
 #### Senior Professional Services Engagement Manager Job Grade 
 
@@ -62,13 +61,14 @@ The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/t
 
 #### Senior Professional Services Engagement Manager Requirements
 
-* Extends that the Professional Services Engagement Manager (Intermediate) requirements
-* Analyzes market trends to identify new service offerings go to market opportunities
+* Extends that the Professional Services Engagement Manager (Intermediate) requirements.
+* Analyzes market trends to identify new service offerings go to market opportunities.
 * Builds strategy and executes on continuous improvement plan focused on reducing the cost of revenue. 
-* Leads cross-departmental efforts to improve selling efficiency. 
+* Proactively performs territory and account planning with Area Sales Managers and their Account Leaders. 
+* Designs and executes efforts to improve selling efficiency. 
 
 ### Senior Manager, Professional Services Engagement Management
-The Senior Manager, Professional Services Engagement Management, reports to the Sr. Manager, Professional Services Practice Management
+The Senior Manager, Professional Services Engagement Management, reports to the Director, Professional Services Engagement Management
 
 #### Senior Manager, Professional Services Engagement Management Job Grade 
 The Senior Manager, Professional Services Engagement Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -97,6 +97,31 @@ The Senior Manager, Professional Services Engagement Management is a [grade 9](/
 * Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners.
 * Ability to use GitLab
 
+### Director, Engagement Management
+The Director, Professional Services Engagement Management, reports to the Director, Professional Services Practice Management
+
+The Director, Professional Services Engagement Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+- Extends the responsibilities of Sr. Manager of Professional Services
+- Forecast and deliver to the Professional Services bookings plan and supporting delivery and revenue recongition goals. 
+- Develop strategies and plan to improve services selling, increase service attach, and increase efficiency of services sales processes
+- Develop data-driven growth plan for Engagement Manager team. Execute on hiring plan to staff team appropriately to hit customer satisfaction and financial goals. 
+- Contribute to thought leadership and practice development efforts in order to help evolve and mature practice service areas of GitLab Professional Services.
+- Craft and lead the pursuit strategy for Services for both direct and partner services opportunities to ensure customers get the most value with GitLab Solutions.
+- Deeply understand customer's needs and requirements to efficiently and effectively provide a solution and expand Gitlab's scope in every opportunity.
+- Partner with Sales, Customer Success, and Channel leadership to develop integrated GTM strategies and integrate services selling into sales and adoption strategies and processes to optimize globally for positive customer and business outcomes. 
+- Support opportunity progression and negotiation to deliver to booking plan while ensuring services deals are setup to ensure quality delivery, reliable revenue recognition, customer outcome delivery.
+- Lead, drive and implement our business strategy and plans to meet all business goals.
+
+#### Requirements
+* 5+ years of experience managing, leading, and/or delivering professional services or customer success.
+* 3+ years of experience with a subscription-based business model, delivering on-premises and SaaS solutions.
+* 3+ years of experience in Professional Services sales
+* Experience with consulting services focused on Software Development Lifecycle, Agile/DevOps transformation, Cloud Computing, implementation and migration services.  
+* Experience partnering with Account Executives, presenting solutions, and implementation methodology during a sales process
+* Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners.
+* Ability to use GitLab
 
 ## Performance Indicators
 
