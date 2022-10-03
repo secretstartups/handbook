@@ -107,7 +107,7 @@ As first option we should **always** ask the customer to reset the account passw
 For any situation where the customer is not able to complete the self-served option on CustomersDot:
 
 1. If the customer has already created a new account and wants the ownership to be transferred.
-    - Point them to [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) and explain that might cause purcharing problems.
+    - Point them to [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) and explain that might cause purchasing problems.
     - Change the email in the new account for example: `person@example.com` to `person_edited@example.com`
 1. Update the `Name` and `Email` of the current account.
 1. For SaaS only, use the [unlink GitLab.com Account mechanizer function](mechanizer.html#unlink-gitlabcom-account).
