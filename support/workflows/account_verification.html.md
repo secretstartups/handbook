@@ -248,7 +248,7 @@ Once the customer has approved the request, disable 2FA on the user's account, a
 
 ## **Account Ownership Changes**
 
-There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab. Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
+There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab. Our [support page](https://about.gitlab.com/support/gitlab-com-policies/#ownership-disputes) outlines that these processes are not available for unpaid groups.
 
 The outcome of a successful request is a new or existing user in the namespace will have the Owner role.
 
