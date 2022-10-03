@@ -289,7 +289,10 @@ will close all the onboarding issues created before 60 days from that date.
 
 ## Values-check in Email
 
-This is the [email](/handbook/people-group/values-check-in/) that is sent to our team members after 90 days of employment.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/team_member_values_check_in.md
+) that is sent to our team members after 90 days of employment.
+
+> We also send their manager [this email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/manager_values_check_in.md) as well to notify them of the values check in.
 
 Every day at 10 AM UTC we run a scheduled pipeline. This pipeline will fetch all the team members that are eligible to get this values check-in.
 For every eligible team member we send out two emails:
@@ -297,4 +300,4 @@ For every eligible team member we send out two emails:
 - one to the team member
 - one to the team member's manager: this is determined by the manager for the team member on Workday
 
-The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
+The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: people-connect@gitlab.com` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
