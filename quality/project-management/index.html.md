@@ -73,7 +73,7 @@ Upon joining the Quality department, team members are granted either developer, 
 The following guidelines will help you to become a maintainer. Remember that there is no specific
 timeline on this, and that you should work together with your manager and current maintainers.
 
-To start the process as a trainee maintainer, see the [trainee maintainer section](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer)
+To start the process of becoming a maintainer, see the [maintainer section](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer)
 of the code review guidelines.
 
 In general, you're required to author and review 3 - 10 MRs that demonstrate good overall understanding
@@ -86,12 +86,6 @@ Your approval means you think it is ready to merge.
 It is your responsibility to set up any necessary meetings to discuss your
 progress with current maintainers, as well as your manager. These can be at any
 frequency that is right for you.
-
-It is also recommended that you invite current maintainers to share feedback in your
-[trainee maintainer issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=trainee-quality-maintainer),
-positive _and_ negative, if they notice contributions of yours that are relevant to your progress
-towards becoming a maintainer. Please be aware that feedback may be shared there regardless,
-so you're encouraged to invite it rather than be surprised!
 
 ## Project Management
 
