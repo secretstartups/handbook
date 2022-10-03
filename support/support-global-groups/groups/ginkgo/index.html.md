@@ -25,6 +25,18 @@ description: Home Page for Support's Ginkgo Group
 
 ## Ginkgo workflows and processes
 
+### Daily status updates
+
+It's encouraged to post a meaningful status update at the start of your work day as a reply to the Support Team Bot message. Doing ticket work is the assumed default, so any mention of it should be specific and deliberate.
+
+A meaningful status update covers:
+- Anything that stands out (unusual tickets, complex Docs MRs, specific Training modules, etc.) – let others know what you plan on doing _other than_ ticket work that day
+- Blockers: Think of anything that may pull you away from following through with your plans for the day
+
+The status update is meant to promote collaboration. Letting others know what you'll be doing gives them an opportunity to reach out. If you're having a hard time with something, this is a great opportunity to let others know early so they can offer help.
+
+**Beware of comparison creep:** Doing "just" ticket work is the main part of our job. Many days will be "only" doing ticket work. Don't feel the need to write a meaningful update everyday – if you still want to post out of a sense of belonging, a waving emoji is a perfectly fine status update to signal normal availability and a "boring" ticket work day ahead.
+
 ### Breach notifications bot
 
 We have an automation in place: The Support Team Bot posts a message in our Slack channel if a ticket in our FRT queue is set to breach within the next two hours. Combined with having set up [Slack notifications for the channel](#slack-notifications), this is a powerful tool to help avoiding breaches and having ease of mind about the queue without constant manual checking.
