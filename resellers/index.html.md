@@ -165,10 +165,10 @@ Since participation in the Select Track is by invitation only, partners are not 
 |------------------|:---------------------------:|:---:|
 | **Overall Program Requirements** |  |  |
 | GitLab Partner Agreement | X | X |
-| # of Sales Verified (Sales Core) resources | 2 | 4 |
-| # of GitLab Sales Professional Certificatied resources |   | 1 |
-| # of Solution Architect Verified resources | 1 | 2 |
-| # of Professional Services Certified resources |   | 1 |
+| # of Sales Verified Associate (Sales Core) resources | 2 | 4 |
+| # of GitLab Sales Accredited Professional resources |   | 1 |
+| # of Solution Architect Verified Associate resources | 1 | 2 |
+| # of Certified Professional Services  resources |   | 1 |
 | Exec Sponsored Joint Business Plan |  | X |
 | Program Rev Targets Min - BusPlan Committed |  | $300K |
 |  |  |  |
@@ -237,16 +237,10 @@ Your company has unique expertise and best practices in helping companies optimi
  As part of our GitLab Partner Program, we provide resources, training and other investments to help you build out your services practice.  Your Channel Account Manager will help you develop a plan and utilize GitLab resources to build your GitLab services business.
 
 
-#### Training and Certification Program and Requirements
+#### Training Accreditation, and  Certification Program and Requirements
 
-GitLab has developed core training and certification for sales, solution architects (pre-sales engineers), and post sales engineers and consultants.  The GitLab certification program is designed to provide our partners with similar training as GitLab employees themselves.  GitLab is announcing three certifications for the GitLab Partner Program:
+GitLab has developed core training, accreditation and certification for sales, solution architects (pre-sales engineers), and post sales engineers and consultants.  The GitLab Partner Enablement Program is designed to provide our partners with similar training as GitLab employees themselves.  For details on available training resources visit the [Channel Training, Certifications and Enablement](https://about.gitlab.com/handbook/resellers/training/) page.
 
-1. **GitLab Sales Core** - This is the basic certification for sales and the prerequisite for pre-sales technical professionals.  The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab.  By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales accreditation and meet the program requirement for Sales certification.  At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
-2. **GitLab Advanced Use Cases** - The Advanced Use cases provide additoinal sales training depth for reps developing expertise in specific GitLab DevOps solutions.  Individuals earn badges for each use case completed.  Completing the Sales Core plus the all the Advanced Use Cases earns and individual GitLab Sales Certification.
-2. **GitLab Solution Architect Core** - This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions.  This certification is a mix of online learning and hands-on labs.  GitLab Sales Core is the prerequisite for GitLab Solution Architect Core.  GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification.  
-3. **Professional Services Engineer** - Individuals who earn the GitLab Professional Services Engineer certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to support services for the most common GitLab customer use cases. Estimated completion time: 20-25 hour
-
-For more details, visit the [Channel Training, Certifications and Enablement](https://about.gitlab.com/handbook/resellers/training/) page.
 
 
 #### Discounts and Referral Fees
