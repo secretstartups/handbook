@@ -22,14 +22,14 @@ This is the rotation schedule for FY23-Q3 and Q4 (August 2022 - January 2023). L
 | Ali Ndlovu             | Daniel Mora            |
 | Sunjung Park           | Gina Doyle             |
 | Kevin Comoli           | Andy Volpe             |
-| Dan Mizzi-Harris       | Sascha Eggenberger, Camellia Yang     |
-| Pedro Moreira da Silva | Nick Leonard           |
+| Dan Mizzi-Harris       | Sascha Eggenberger     |
 | Mike Nichols           | Nick Brandt            |
 | Michael Fangman        | Emily Bauman           |
 | Emily Sybrant          | Amelia Bauerly         |
 | Becka Lippert          | Philip Joyce           |
 | Alexis Ginsberg        | Annabel Gray           |
 | Austin Regnery         | Libor Vanc             |
+| Camellia Yang          | Nick Leonard           |
 
 ### Temporary pairing
 
