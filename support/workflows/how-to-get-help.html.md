@@ -78,6 +78,7 @@ Starting from `2022-06-13` the Support Team and the Development Team are rolling
 | ----------- | -------------- | -------- | 
 | Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) | 
 | Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) | 
+| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
 
 The steps for submitting a help request are as follows:
 
@@ -85,8 +86,9 @@ The steps for submitting a help request are as follows:
 1. Within each GitLab Project there is a `ReadMe` (displayed on the project page):
    1. Read the `Support Engineer User Guidance` section and follow the steps outlined.
    2. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
-1. Submit a new issue to the project using the template you've identified.
-   - The issue will be automatically assigned to the relevant developers for triaging
+1. Before submitting a new issue search the existing issues to check if a similar request has been made before.
+1. If not, then submit a new issue to the project using the template you've identified.
+   - The issue will be automatically assigned to the relevant developers for triaging.
 1. If you encounter any problems, such as obtaining a timely response from Development, then please make the corresponding Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`
 1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
 
