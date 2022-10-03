@@ -85,6 +85,7 @@ For more information and compilations of our past events check out our [previous
 [This policy](https://drive.google.com/a/gitlab.com/file/d/0B4eFM43gu7VPVl9rYW4tXzIyeUlMR0hidWIzNk1sZjJyLUhB/view?usp=sharing) provides coverage for team members who travel domestic and internationally for business purposes. This policy will provide Emergency Medical and Life Insurance coverage should an emergency happen while you are traveling. In accompaniment, there is coverage for security evacuations, as well a travel assistance line which helps with pre-trip planning and finding contracted facilities worldwide.
    * Coverage:
       - Accidental Death [enhanced coverage]: 5 times Annual Salary up to USD 500,000.
+      - The treatment of Covid is covered like any other illness under the Out-of-Country Medical Expense coverage, however there are no covid quarantine benefits covered under our policy.
       - Out of Country Emergency Medical: Coverage up to $250,000 per occurrence. If there is an injury or sickness while outside of his or her own country that requires treatment by a physician.
       - Security Evacuation with Natural Disaster: If an occurrence takes place outside of his or her home country and Security Evacuation is required, you will be transported to the nearest place of safety.
       - Personal Deviation: Coverage above is extended if personal travel is added on to a business trip. Coverage will be provided for 25% of length of the business trip.
