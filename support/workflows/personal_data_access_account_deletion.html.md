@@ -140,6 +140,11 @@ If all of the automated checks succeed, the user will receive a set of [Verifica
 
 During this period, add the `Awaiting::Challenge Answers` label.
 
+#### Sole Owner Exception
+{:.no_toc}
+
+If a user is the sole owner of their group(s) and project(s), but fails account verification, we can follow the [exception workflow for sole owners](#challenge-questions-verification-fail-sole-owner-exception).
+
 #### No Response After 14 days
 {:.no_toc}
 
@@ -174,6 +179,32 @@ If the user fails the challenge questions, apply the `Account Verification Faile
 
   <p>Regards,</p>
 </details>
+
+#### Challenge Questions Verification Fail (Sole Owner Exception)
+{:.no_toc}
+
+If the user fails the challenge questions, but they are the sole owner of groups and projects, we can consider approval for an exception by working through the following:
+
+1. Validate that the user is the *only* owner / member of projects and groups.
+1. Check that the user has not logged in for at least 1 year.
+1. Check that the projects and groups owned by the user have not been updated in at least 1 year.
+1. Reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to engage a Support Manager and Privacy for review and approval (approver will add `Deletion Request::Exception Approved` to the issue if approved).
+1. Proceed with the deletion process.
+
+**Note:** If a situation requires further review, and falls outside of the above criteria for a sole owner, please reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to discuss approving an exception with a Support Manager and the Privacy team.
+
+If the user has logged in and/or updated their project and groups within the last year, respond with the following before closing the issue:
+
+<details>
+  <summary markdown="span">Request Closed - Verification Failed</summary>
+
+  <p>Greetings,</p>
+
+  <p>Unfortunately, the answers to our verification challenges have failed, and your account appears to have had recent activity within the last year. As a result, we are unable to process your account deletion request at this time. This issue will be closed, however you may try your request again at a later date.</p>
+
+  <p>Regards,</p>
+</details>
+
 
 #### Challenge Questions Verification Pass
 {:.no_toc}
@@ -256,7 +287,7 @@ Use this workflow for requests to access full details about what data we have on
 Use this workflow for general question submissions.
 
 1. If the question is something Support can answer, respond to the user's inquiry.
-1. If needed, [engage the Legal team](information-request.html#other-legal-related-questions) for guidance and messaging.
+1. If needed, engage a Support Manager or the Privacy team for guidance and messaging. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to ask for help.
 1. Close the issue once the users question(s) have been answered.
 
 ## Exceptions
