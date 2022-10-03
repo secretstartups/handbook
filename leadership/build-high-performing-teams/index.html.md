@@ -441,7 +441,7 @@ On 2021-01-11, we launched the second iteration of the Manager Challenge Program
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9MWk2ScRZpFr4kgZ1VGAbPnbqgpsCSRevsrx4xveUPvi4Bxa22WprTs9WJoYXQpm_aBD1kyrXFvI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-During Week 4 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building High Performing Teams. The [slide deck](https://docs.google.com/presentation/d/1qQelNkqtoFoaGgeMldzqCx5voOU4cpUBEBt-kSfjJ_o/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/17Ik6JxuRhldPWnIUGZrJiLc6dentI6_eE7QPABiXyvo/edit?usp=sharing) follow along with the session.
+During Week 4 of our Manager Challenge Pilot, we had a course covering Building High Performing Teams. The [slide deck](https://docs.google.com/presentation/d/1qQelNkqtoFoaGgeMldzqCx5voOU4cpUBEBt-kSfjJ_o/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/17Ik6JxuRhldPWnIUGZrJiLc6dentI6_eE7QPABiXyvo/edit?usp=sharing) follow along with the session.
 
 A recording of the second of two sessions can be found here:
 
@@ -451,7 +451,7 @@ A recording of the second of two sessions can be found here:
 
 ### Roadmap Excercise
 
-During the [May Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/), participants in the live learning challenge completed the building high performing teams roadmap as a group while a few completed independently asynchronously. 
+During the May Manager Challenge, participants in the live learning challenge completed the building high performing teams roadmap as a group while a few completed independently asynchronously. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKm7AxyNsTjeyzOYqrvxCa1Q6fgTq0UmxVihEkJSVFT27NvHiZ8H4JwA0V5E0MLxjRfvZmPfAvl77p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
