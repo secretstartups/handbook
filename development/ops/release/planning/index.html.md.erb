@@ -74,14 +74,28 @@ During planning breakdown, the correct labels should be applied. The required la
 
 This signifies that from both a product and engineering point of view, this issue is prepared and ready for weighting and scheduling.
 
+##### Needs Weight/Refinement Issue
+
+In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down ahead of a new sprint.
+A **Needs Weight/Refinement** issue will be created every milestone for issues that require additional refinement by the team. Small changes and bug fixes typically won’t require this analysis.
+Engineers will look for assigned issues with the `workflow::planning breakdown` label that have user stories defined, as well as functional, performance, documentation, and security acceptance criteria.
+See [Build phase](/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow for more details.
+Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for the feature. ***Tip:** When you're having hard time to estimate MR count, [consider a PoC step](./poc.html).*
+
+Once the refinement is done, the following steps should be taken:
+
+* The issue should be moved forward in the workflow to `workflow::ready for development`.
+* The `needs weight` label should be removed.
+* Those updates to the issue will signal that the issue has been properly scoped and is ready to be worked on in an upcoming milestone.
+
 ##### Weights
 
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a
 feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the
 planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the
-team can do in a milestone. This metric also aligns with the merge request rate metric currently measured by engineering teams.
+team can do in a milestone. This metric also aligns with the [merge request rate metric](/handbook/engineering/metrics/) currently measured by engineering teams.
 
-Every milestone a "Needs weight/Research" issue is created by the PM. The PM will work together with the EM to assign issues for weighting to each engineer on the team. These are issues that will likely be scheduled in the following 1+ milestones. During the first week of each milestone, the engineers will be responsible for weighing their assigned issues. 
+Every milestone a ["Needs Weight/Refinement"](https://gitlab.com/gitlab-org/ci-cd/release-group/release/-/blob/master/.gitlab/issue_templates/needs%20weight.md) issue is created by the PM. The PM will work together with the EM to assign issues for weighting to each engineer on the team. These are issues that will likely be scheduled in the following 1+ milestones. During the first week of each milestone, the engineers will be responsible for weighing their assigned issues. 
 
 After a weight has been entered, the engineer should remove the `needs weight` label, and add the `workflow::ready for development` label. This signals that the issue is ready to be scheduled in a future milestone.
 

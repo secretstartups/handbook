@@ -131,19 +131,6 @@ Below is a high level description of each stage, its meaning, and any requiremen
 * `workflow::verification`
   * This stage indicates that everything has been merged and the issue is waiting for verification after a deploy.
 
-### Engineering Evaluation & Estimation
-In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down before the start of a sprint. In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis). Engineers will look for assigned issues with the `workflow::planning breakdown` label that have user stories defined, as well as functional, performance, documentation, and security acceptance criteria. See [Build phase](/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
-Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for the feature. ***Tip:** When you're having hard time to estimate MR count, [consider a PoC step](./poc.html).*
-Once an implementation plan has been finalized, the following steps should be taken:
-* The issue description should be updated to include the details of the implementation plan along with a checklist to show the planned breakdown of merge requests.
-* The weight of the issue should be updated to reflect the number of merge requests estimated as part of the implementation plan. For smaller changes and bugs, the weight should be 1.
-* The issue should be moved forward in the workflow to `workflow::scheduling`.
-* The `needs weight` label should be removed.
-* Those updates to the issue will signal that the issue has been properly scoped and is ready to be worked on in an upcoming milestone.
-
-#### Merge request count as a measure of issue weight
-As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [merge request rate metric](/handbook/engineering/metrics/) currently measured by engineering teams.
-
 ### Error budget
 The [Release Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1) is used to identify and prioritize issues that are impacting our customers and infrastructure performance. 
 
