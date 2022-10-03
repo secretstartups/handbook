@@ -24,7 +24,7 @@ A POV is conducted with a GitLab trial license either using GitLab.com or a self
 ### POV Guidelines and Requirements
 
 - The typical duration for a POV is between 1 and 8 weeks which depends on complexity and style of engagement. 
-- A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management.  The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project.  When utilizing a collaborative project, follow the instructions in README.md closely to configure the entire project properly.
+- A GitLab Customer Success [collaboration project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management.  The project template is only accessible by GitLab team members, but once a collaboration project is created, the customer will be granted access to that project.  When utilizing a collaboration project, follow the instructions in README.md closely to configure the entire project properly.
 - GitLab Solutions Architects should limit the number of concurrent POV's the SA is engaged in to provide the optimal focus for successful opportunity outcomes.  In collaboration with the sales team and their manager, the SA should prioritize all SA activity, including POVs, based on workload, opportunity qualification, and regional or segment strategy.
 - A POV must be fully qualified before commencement
 - A POV must be tracked in Salesforce
@@ -79,7 +79,7 @@ To track a POV, click the _Proof of Values_ tab from the top menu bar in Salesfo
 
 Complete the following fields at minimum:
 
-- **POV Owner** - this is the Strategic Account Leader
+- **POV Owner** - this is the Solutions Architect
 - **Technical Account Manager** - this is the TAM who will be introduced during the POV
 - **Solutions Architect** - this is the SA who owns execution of the POV
 - **Proof of Value Name** - this commonly is named identical to the opportunity name
@@ -161,7 +161,7 @@ Below is best practice guidance for conducting each type of POV. These processes
     - The Customer Package requires an NDA, and contains commonly requested security information (SOC2, Penetration Test Results, etc) and can be requested via a [Field Security Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=Security%20Documents%20CAA)
 - SAL/AE: Schedule Internal kick off meeting (detailed below)
 - SAL/AE: Schedule kickoff meeting with customer
-- TAM: Review collaborative project content prior to internal kickoff meeting
+- TAM: Review collaboration project content prior to internal kickoff meeting
 - SA: For SaaS trials that need CI/CD, request trial runner activation per the [handbook](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans).
 
 ## POV Meeting Recordings
@@ -326,7 +326,7 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
 
 ## POV Template Document
 
-As an alternative (or in addition) to using a collaborative GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.
+As an alternative (or in addition) to using a collaboration GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.
 
 This document suggests and verifies specific success criteria for any POV, as well as outlining a mutual commitment between GitLab and the identified prospect parties. It also specifies the limited timeframe in which the POV will occur.
 
