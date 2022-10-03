@@ -40,7 +40,7 @@ When looking for merge requests to review, consider checking the [Merge Request 
 
 ## Maintainers
 
-Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [Trainee Maintainers](/handbook/engineering/workflow/code-review/#trainee-maintainer), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [Review-response SLO][] in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
+Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [enrolled in the Reviewer mentorship program](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [First-response SLO][] in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
 
 ## Assigning Merge Requests
 

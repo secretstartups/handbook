@@ -35,9 +35,9 @@ See company guidelines and how to become a maintainer in the [Engineering Review
 
 Becoming a maintainer involves consistent contributions to the codebase, a high degree of "mantainer-level" merge requests, and an understanding of the specific [gotchas](#gotchas) involved with both the Secure stage as well as Static Analysis projects themselves.
 
-##### Trainee Maintainer
+##### Reviewer mentorship program
 
-We follow the same trainee maintainer program as documented in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#trainee-maintainer). Anyone may nominate themselves as a trainee by opening a tracking issue using [the Trainee SAST maintainer template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/trainee-sast-maintainer.md)
+We follow the same reviewer mentorship program as documented in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program).
 
 ### Gotchas
 
