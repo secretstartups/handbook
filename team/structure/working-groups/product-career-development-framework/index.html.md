@@ -63,7 +63,6 @@ description: "Learn more about the Product Career Development Framework Working 
 | Reviewer              | Sam Kerr | Principal PM|
 | Reviewer              | Taylor McCaslin | Principal PM, ModelOps|
 | Reviewer              | Viktor Nagy | Senior Product Manager|
-| Reviewer              | Keith Chung | Senior Director, Pricing |
 
 ## Meetings
 
