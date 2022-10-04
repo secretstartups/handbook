@@ -72,7 +72,7 @@ Are you beyond CI/CD fundamentals? In our office hours following our Advanced CI
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_NzyK7sTcTWanLNsVTcG9Iw)
 
-### GitLab Adminstration on SaaS
+### GitLab Administration on SaaS
 #### October 20th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
 Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
