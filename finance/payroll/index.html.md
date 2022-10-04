@@ -59,6 +59,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    - Global Upside: India, Costa Rica, Chile, & Kenya will get their salary wired by the last day of the month. Philippines have 2 check dates: the 15th and last day of the month, respectively. Latvia will be paid on the 25th of each month (unless it falls on a holiday).
    - Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Remote.com will get their salary wired on the 25th of the month. Remote.com will send payslips electronically through their HR portal.
+   - Papaya Global - UAE payday is on the 28th of each month unless it falls on a holiday. 
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
 
@@ -229,7 +230,7 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 ### Changing bank information
 
-1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update BambooHR accordingly.
+1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update Workday accordingly.
 
 ### Global Upside - France
 
@@ -304,6 +305,7 @@ For Leavers, you can request for extended access to the iiPay portal to retrieve
 - Czech Republic
 - Slovenia
 - Serbia
+- Armenia
 
 Team members from the above countries will get paid through CXC Global on or around the 25th of each month: 
 
@@ -344,6 +346,12 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Luxembourg
 
 The internal cut off is by the 8th of each month for team members to have expenses fully approved in order to meet the Payroll. Payroll changes will be sent to Remote by the 10th of each month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
+
+#### Papaya Global
+
+- UAE
+
+The internal cut off is by the 8th of each month for team members to have expenses fully approved in order to meet the Payroll. Payroll changes will be sent to Papaya by the 10th of each month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. The Paydate for UAE is the 28th of each month.
 
 ## Payroll cut off dates
 
