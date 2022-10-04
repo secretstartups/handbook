@@ -103,46 +103,155 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 [FY23Q3 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/136)
 
-# Our Process
+# Iteration Process
 
 We release every 2 weeks, always on a Wednesday. We can push MRs at any time but for collaborative work initiatives, we plan a package for delivery to ensure we’re consistently improving our prospective customer’s experience.
 
-### Sprint Cycle
+**Iteration Cycle**
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ------ | ------- | --------- | -------- | ------ |
-| Sprint Begins |  |  |  |  |
-|  |  | Sprint Release Async | Sprint Ends |  |
+| Iteration Begins |  |  |  |  |
+|  |  | Sprint Release Async | Iteration Ends |  |
 
 <figure class="video_container">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
-### Issue Board
-
+## Issue Board
 - [Digital Experience Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288685)
 
-### Sprint Planning
+## Refinement
+The primary focus of a refinement session is to ensure issues are prepared for upcoming iterations. This involves deleting obsolete/duplicate issues, adding missing context/labels, and moving issues to either the backlog, or further refinement. Keeping the backlog organized is a must, it eliminates clutter and creates cohesion between issues. Enabling the team to navigate and contribute more efficiently.
 
-We use the following boards to plan sprints:
-- [Current Sprint](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288486?iteration_id=Current)
-- [DEX All](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288685)
+**Cadence:** 25min, bi-weekly (zoom)
 
-Before a sprint starts, our team reviews potential work for the upcoming sprint. We identify issues that need to be written, write them, wieght them and add the to-do label.
+**Who:** Engineering representative, Product management
 
-A team member should enter sprint planning with an opinion on what the most important issues to work on are and be ready to make the sprint plan in collaboration with the team.
+**What**:
+* Move issues to refinement/backlog.
+* Close obsolete/duplicate issues.
+* Assign labels:
+    * dex-status
+    * dex-group
+    * dex-engineering/dex-design
+* Assign weight points.
 
-**Weighting**
 
-We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day. In a full two-week sprint, we plan to deliver 20 points per team member.
+## Prioritization
+The purpose of the prioritization meeting is to create a list of refined issues that meet our current goals. This list will include a combination of bugs, features, and optimizations. These issues are manually added to the next iteration until the desired weight point limit is reached.
 
-### Weekly Check In
+**Cadence:** 25min, bi-weekly (zoom)
+
+**Who:** Engineering representative, Product management
+
+**What:**
+* Review backlog for iteration candidates.
+* Populate the next iteration with prioritized issues.
+
+
+## Planning (Iteration Plan Sync)
+Iteration planning is an event that kicks off the start of an iteration. The purpose of the meeting is to collaboratively spread the prioritized list of issues amongst the team. These meetings are recorded and uploaded to our [Digital Experience playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba).
+
+**Cadence:** 25min, bi-weekly (zoom)
+
+**Who:** [Digital Experience groups](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
+
+**What:**
+* The team distributes the prioritized list of issues.
+* Communicate timelines, dependencies, etc.
+
+
+## Release
+An event to showcase what the team has accomplished over the past iteration. These meetings are recorded and uploaded to our [Digital Experience playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba).
+
+**When:** Thursdays, 25min, bi-weekly (zoom)
+
+**Who:** [Digital Experience groups](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
+
+**What:**
+* Showcase what has been released in the past iteration.
+
+
+## Retrospective
+The retrospective is an event held at the end of an iteration, used to discuss what went well, and what can be improved on. An ongoing agenda can be found [here](https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing). This meeting is recorded and uploaded to our [Digital Experience playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba).
+
+**When:** Thursdays, 40min, bi-weekly (zoom)
+
+**Who:** All of Digital Experience
+
+**What:**
+* Discuss what went well and what can be improved on.
+* Communicate any process changes, etc. This is the only meeting where the whole team is present.
+
+
+## **FAQ:**
+### Iteration boards
+**How long is an iteration?**
+
+An iteration is 2 weeks, running from Monday to the following Thursday.
+
+**Where can I find the iteration boards?**
+
+Iteration boards are created at the [team level](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288486?iteration_id=Current&_gl=1*xlvfjl*_ga*MTMyODM2NjQzOC4xNjU3OTA0NDQ2*_ga_ENFH3X7M5Y*MTY2MzgwNzk2NC4xMDMuMS4xNjYzODA4NDg1LjAuMC4w), and the individual level:
+
+[Digital Experience](https://gitlab.com/gitlab-com/marketing/digital-experience) > Issues - Boards > Then selecting an individual's name from the dropdown.
+
+**What are the iteration boards used for?**
+
+Iteration boards are meant to give an overview of what the team is working on, and to provide a rough idea on what the team is capable of producing in an iteration.
+
+**How do I move issues from start to finish?**
+
+At the start of an iteration, all issues will have the dex-status::todo label. As issues are worked on, the dex-status label will need to be updated. This can be done by dragging (on your individual board) between columns, or manually changing the dex-status label on the issue.
+
+**What if I wasn’t able to complete my iteration board?**
+
+Don’t stress, weight points are estimates, unforeseen events happen. Any carryover can be added to the next iteration.
+
+**What if I complete my iteration board early?**
+
+A few options for when an an individual's iteration board is complete:
+1. Offer assistance to other team members.
+2. Pull a new issue from the backlog into the current iteration.
+3. Sharpen skills/tools.
+4. General housekeeping.
+
+
+### Weight points
+**What is a weight point?**
+
+A weight point is a unit of measurement that’s used to develop a rough estimate of the work required to complete an issue. 1 weight point is measured as .5 days.
+
+**How many weight points should an issue be?**
+
+The suggested task duration is between 2-4 weight points (1-2 days). There will be exceptions, but it’s recommended to break issues into smaller units of work. Small units of work allow for quicker review cycles, and facilitates collaboration.
+
+
+### Issues
+**What should I do if I’m assigned new issues mid-iteration?**
+
+Generally if an issue is added mid-iteration, it's high priority. It’s recommended to work with your team to remove the same amount of weight points from your iteration to make room. These removed issues should go back in the backlog.
+
+**Do I need to add any labels?**
+
+Before entering an iteration, an issue should already be refined with the proper labels. The only label that changes is the [dex-status](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/labels?subscribed=&search=dex-status) label (as the issue moves from start to finish).
+
+**What if I’m assigned an issue that I can’t close due to content/data gathering?**
+
+Unfortunately there will always be edge case issues that cannot be resolved in an iteration To mitigate the amount of carryover, it’s recommended to break the issue into smaller chunks
+
+Example A: If an issue is open while waiting on content/assets, it’s best to create a content/asset gathering issue and close the original issue.
+
+Example B: An issue is open while gathering data from an AB test, it may be best to create an issue to start the information gathering, and an issue to analyze the data at the end.
+
+## Weekly Check In
 
 We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress.
 
 Each member of the Digital Experience team should be listed as a participant in the weekly check ins, and everyone should have permissions to manage the application for our team. The app can be configured through the [Geekbot Dashboard](https://app.geekbot.com/dashboard/), which you can visit directly, or find by clicking the **Geekbot** Slack conversation, navigating to the **About** tab, and clicking **App Homepage**.
 
-### Code Reviews
+## Code Reviews
 
 Our team makes every attempt to complete [code reviews](/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
 
@@ -152,7 +261,7 @@ When a team member is requested for review, it is good practice for them to post
 
 Digital Experience code request reviews should include the [merge request checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md) as referenced on the [reviewing merge requests](/handbook/marketing/digital-experience/website/merge-requests/) handbook page. Merge requests involving a URL redirect should also include the [redirect checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md).
 
-### Production Change Lock (PCL)
+## Production Change Lock (PCL)
 
 Similar to [the engineering department](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
 
@@ -166,36 +275,17 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 During PCL periods, merge requests and deployments can only be made by senior team members, managers, and levels of management above our team.
 
-### Figma Process
+## Figma Process
 
 - [How we use Figma](https://about.gitlab.com/handbook/marketing/digital-experience/figma/)
 
-### GitLab Product Process
+## GitLab Product Process
 
 From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](/handbook/marketing/digital-experience/engineering-gitlab-product)
 
-### Sprint Releases
-
-On the second Wednesday of each sprint, we have a calendar reminder for: “Sprint Release Async”, which serves as a reminder for team members to add to our [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit).
-
 **Special cases during release post schedule:** we hold off on making changes to the `www-gitlab-com` repository during [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-posts) days. The release post process is handled by a different team, and it can be disruptive to their work when we release changes to dependencies, CI/CD, or other major changes around their monthly release cadence.
 
-### Sprint Retros
-
-Sprint Retros allow us to reflect on what went well and what we can to do continuously improve our process.
-
-This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing)
-
-### Sprint Videos
-
-We release videos for: 
-* [Sprint Planning](#sprint-planning) 
-* [Sprint Releases](#sprint-releases) 
-* [Sprint Retros](#sprint-retros) 
-
-All videos are accessible in our [Digital Experience playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba).
-
-### Repository Health Contributions
+## Repository Health Contributions
 
 At the end of every sprint cycle, Digital Experience team members can spend 10% or one day to work on issues related to improving the health of about.gitlab.com, the developer experience, tackle tech debt, or improve our documentation.
 
@@ -203,7 +293,7 @@ The structure of Repository Health Day is as follows: 1. Team members will choos
 
 By allowing our team members to contribute to the health of our repositories for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for https://about.gitlab.com/. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better tech stack that is inclusive of the team members that use it everyday.
 
-### Data Studio Dashboard
+## Data Studio Dashboard
 
 The Digital Experience team utilizes [Data Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE). 
 
