@@ -100,7 +100,7 @@ Support Readiness - Training and keep Support Managers informed about coaching
 opportunities.
 * Regularly review Support Satisfaction (SSAT) scores to provide meaningful insights
 on trends in feedback.
-* Liase with Product and Engineering based on insights gathered from tickets and SSAT
+* Liaise with Product and Engineering based on insights gathered from tickets and SSAT
 to help inform priorities based on customer impact.
 * Build two-way roads between Product and Support by working with the pool of 
   global Support Engineers acting as [Support Stable Counterparts](https://about.gitlab.com/handbook/support/#support-stable-counterparts)
