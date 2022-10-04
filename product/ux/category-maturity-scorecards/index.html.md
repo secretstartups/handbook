@@ -254,7 +254,7 @@ By following the Category Maturity Scorecard [testing script](https://docs.googl
 - **Success/failure**
 The goal for analyzing Category Maturity Scorecard data is to establish a baseline measure for the current experience as it relates to the JTBD(s). Over time, our product will change as new features/functions are added/changed. We can review the data collected here to understand how these changes impacted the user experience and use it to make improvements.
 
-**To analyze:** Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1w3GZNc11PSZ9sN_2II5SI3fwK4tH9LLSb2bci_o2mWg/copy to aid in calculating the CM Scorecard score, per scenario. Additionally, look for themes behind the reason why participants scored the way they did.
+**To analyze:** Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1w3GZNc11PSZ9sN_2II5SI3fwK4tH9LLSb2bci_o2mWg/copy) to aid in calculating the CM Scorecard score, per scenario. Additionally, look for themes behind the reason why participants scored the way they did.
 
 **To document:** Document and highlight areas for improvement via issues, utilizing the [‘Actionable Insight’ scoped labels](/handbook/product/ux/ux-research-training/research-insights/#how-to-document-actionable-insights), to make further improvements to the experience.
 
