@@ -52,4 +52,5 @@ Implement a data pipeline that captures `create`, `update` and `delete` operatio
 | Member                          | Justin Wong             | Data Engineer                       |
 | Member - Infra                  | Gerardo Lopez-Fernandez |  Engineering Fellow, Infrastructure |
 | Member - Product                |                         |                                     |
-| Member - Security               | Kyle Smith              | Sr. Security Risk Engineer        |
+| Member - Security               | Kyle Smith              | Sr. Security Risk Engineer          |
+| Member - Development            | Nick Nguyen             | Senior EM, Enablement: Data Stores  |
