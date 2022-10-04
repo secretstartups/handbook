@@ -363,7 +363,7 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **Product Marketing:** Blog posts authored or contributed to by members of the [Product Marketing](/handbook/marketing/strategic-marketing/pmmteam/) team.
 1. **Technical Marketing:** Blog posts authored or contributed to by members of the [Technical Marketing](/handbook/marketing/strategic-marketing/technical-marketing/) team.
 1. **edu-program:** Blog posts authored or contributed by [Education Program Team](/handbook/marketing/community-relations/community-programs/education-program/)
-1. **oss-program:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/community-relations/opensource-program/)
+1. **oss-program:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/community-relations/community-programs/opensource-program/)
 
 Use the `postType` frontmatter option to set the content definition.
 
