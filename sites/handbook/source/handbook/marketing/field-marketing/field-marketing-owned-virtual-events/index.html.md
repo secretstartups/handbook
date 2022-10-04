@@ -559,6 +559,11 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 * Q&A Support 2 (optional)  =  SA support for more advanced classes
 * FMM 2 = Timekeeper, and Q&A transcribing from Zoom to Slack and back to Zoom
 
+## Budget for Workshops
+**DRI: FMM**  
+
+Our new demo environment, gitlab.com group Learn Labs + Instruqt, involves a per attendee cost. The FMM is to budget $2500 per workshop for this cost. However, there are exceptions for using Instruqt and as of now, the DevOps Automation Workshop does NOT utilize Instruqt. As a result, the FMM will NOT budget a demo enviornment cost for this particular workshop. There is the potential for other workshops to not require Instruqt in the future as well (resulting in zero cost) and those adjustments will be communicated and updated here.
+
 ## Virtual Workshop Epic Code
 **DRI: FMM and FMC**
 
@@ -611,12 +616,9 @@ Please follow the instructions [here](/handbook/marketing/field-marketing/field-
 1. Once you get approval on the sample email copy, schedule the email programs.
 
 #### Pre-Event Demo Environment Demo Code and Reminder Email
-**DRI: Verticurl** 
+**DRI: FMC** 
 
-1. FMCs will have already added the demo code from [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#setting-up-the-webcast-in-marketosfdc-and-integrating-to-zoom).
-1. Provide the sample email to the workshop owner for final review.
-1. 3-4 days prior to the workshop, send the `Week prior - Demo code for registrants (operational)` to all registrants. Note that this email is operational as it provides a demo code necessary for the workshop.
-   - Note that this started as a week prior email, but we are currently testing a few days prior (in the same week, after the weekend) to see if there are fewer login issues on this schedule.
+Please note that our new demo environment, gitlab.com group Learn Labs + Instruqt, still requires a demo code, but we no longer provide that code to attendees in advance via the reminder email. The FMC will no longer need to include that code in the Marketo token and the reminder email Marketo templates have been updated with the new instructions. Our reminder emails are sent the business day before the workshop date.
 
 #### On-Demand for Workshops
 **DRI: Verticurl and Campaign Manager** 
