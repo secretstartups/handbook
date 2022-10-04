@@ -291,14 +291,6 @@ We do what we promised to each other, customers, users, and investors.
 We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
 off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
-##### Dogfooding
-{:.no_toc}
-1.  We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
-Our development organization uses GitLab.com to manage the DevOps lifecycle of GitLab itself.
-1.  Our entire company uses GitLab to collaborate on this handbook.
-We also capture other content and processes in Git repos and manage them with GitLab.
-1.  When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community.
-
 ##### Customer results
 {:.no_toc}
 Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
@@ -327,6 +319,14 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
 1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
 1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
+
+##### Dogfooding
+{:.no_toc}
+1.  We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
+Our development organization uses GitLab.com to manage the DevOps lifecycle of GitLab itself.
+1.  Our entire company uses GitLab to collaborate on this handbook.
+We also capture other content and processes in Git repos and manage them with GitLab.
+1.  When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community.
 
 ##### Give agency
 {:.no_toc}
