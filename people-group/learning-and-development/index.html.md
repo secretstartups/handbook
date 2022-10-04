@@ -99,10 +99,10 @@ _Performance indicators_
 ## GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfTwBDgrL07yg9Zpk08CQ1U52ZpvaYN5qB9YsSphS55-AbRYAmJBeCb0ClN-Cb4-SKKObk8pnTXLhD/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS60qIAFhoF3saPi4642GBzYl8lP_DvOCNJc998r0oskitOkhadAHLHlRQxNg976H_LOrdg30HJ5eEG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-**Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
+**Learn more about our [FY23 Roadmap](https://docs.google.com/presentation/d/1ExMwnZA1zUphJdrdTKMLEFE7hmXh54Wt7JgQqhsemlk/edit#slide=id.g123a13deda8_0_405)**.
 
 ## FY23 Learning & Development Calendar
 
@@ -114,7 +114,7 @@ _Performance indicators_
 
 Internally, the GitLab People Group uses a calendar to track cross-functional efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
 
-## Learning & Development Organization
+## Learning & Development Team
 
 We are a small team, but we've got a big role to play at GitLab! 
 
@@ -122,7 +122,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
-*[Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla) 
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla) 
 
 ## Contact Us
 
