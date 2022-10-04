@@ -1697,7 +1697,7 @@ Anyone can test their knowledge on GitLab Communication. To obtain a certificate
 
 ## Daily Sync Escalation Process
 
-GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/crisis-process).
+GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/daily-sync-escalation-process/).
 
 ## Avoid using Git in Project Names
 
