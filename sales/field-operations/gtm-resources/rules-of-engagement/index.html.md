@@ -163,7 +163,6 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
         1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
             - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAL owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-                - If a paying customer is also interested in a free EDU license, the Commumity Programs team will always reach out to the AE/SAL prior to engaging with the customer.  
         1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
     1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
