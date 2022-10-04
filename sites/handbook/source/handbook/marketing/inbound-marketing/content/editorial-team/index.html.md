@@ -255,7 +255,7 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
 ### What to look for
 
 - Has another member of the Editorial team already reviewed the pitch and responded? If so, no need to review.
-- Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/#requests-for-announcements) instead?
+- Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) instead?
 - If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-suggest-a-blog-post)).
 - Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#featured).
 - Does the pitch meet the requirements and answer the questions outlined in [How to pitch a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post)
@@ -418,7 +418,7 @@ If a blog post is about a GitLab customer, the team member proposing the post sh
 
 ### Posts with updates that will impact customers
 
-Communication of changes that will impact GitLab customers/users should be initiated by opening an [announcement request per the PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements). If it's agreed by PR and Editorial that we will publish a blog post to communicate the news, the PR team member involved must confirm if they need to approve the post before publishing.
+Communication of changes that will impact GitLab customers/users should be initiated by opening an [announcement request per the PR handbook](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements). If it's agreed by PR and Editorial that we will publish a blog post to communicate the news, the PR team member involved must confirm if they need to approve the post before publishing.
 
 ### Posts concerning the GitLab Board
 
