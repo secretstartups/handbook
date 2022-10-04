@@ -44,7 +44,7 @@ Implement a data pipeline that captures `create`, `update` and `delete` operatio
 
 | Working Group Role              | Person                  |  Title                              |
 |---------------------------------|------------------------ | ----------------------------------- |
-| Executive Stakeholder           | Brian Robins            | Chief Financial Officer             |
+| Executive Stakeholder           | David Sakamoto | VP, Customer Success |
 | Working Group DRI / Facilitator | Dennis van Rooijen      | Senior Manager Data                 |
 | Functional Lead Data            | Ved Prakash             | Staff Data Engineer                 |
 | Functional Lead Infra           |                         |                                     |
