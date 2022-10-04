@@ -94,3 +94,13 @@ In order to facilitate an environment of learning and development, the Solutions
 
 More information can be found on the [Customer Success Education & Enablement page](/gitlab-com/www-gitlab-com/-/blob/master/handbook/customer-success/education-enablement).
 
+### Linkedin Learning Platform
+
+Linkedin Learning is another platform with various resources to help SA's during their onboarding journeys. 
+Here are courses relevant to Associate SAs:
+
+- [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) 
+- [Learning Docker](https://www.linkedin.com/learning/learning-docker-2018) 
+- [DevOps Foundations - CI/CD](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917)
+
+These courses are part of the learning path [Become a DevOps Engineer](https://www.linkedin.com/learning/paths/become-a-devops-engineer).
