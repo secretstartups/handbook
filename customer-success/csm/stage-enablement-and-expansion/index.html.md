@@ -28,7 +28,7 @@ For the CSM team in driving use-case enablement, there are two critical motions:
 
 ### Reporting on expansion and enablement objectives
 
-Each Use Case (CI, DevSecOps...) is determined by the Playbook Name, which is selected by the TAM when initially created. This automation (using the Playbook Name) automates the process so there is not an additional field to complete.
+Each Use Case (CI, DevSecOps...) is determined by the Playbook Name, which is selected by the CSM when initially created. This automation (using the Playbook Name) automates the process so there is not an additional field to complete.
 
 The filter used to identify Closed Enable/Expand CTAs are:
 
