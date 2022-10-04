@@ -43,6 +43,9 @@ Examples:
 
 ## Demonstration Role Play
 
+## Demo Jam
+Similar to lightning talks, [Demo Jam](/handbook/customer-success/solutions-architects/processes/commercial/#commercial-demo-jam) is practiced amongst the Commercial SA Team as a safe place to continously practice showcasing features, managing objections, and improving storytelling.
+
 ## Objection Handling Workshops
 
 To ensure that GitLab Solution Architects are as best prepared as they can be, the practice of Objection Handling is something we would love all SA's to be well versed in.  The SA Handbook has an [entire page](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/) devoted to effective Objection Handling.

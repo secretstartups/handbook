@@ -101,3 +101,13 @@ Below are a few example responses an SA can provide customers that reach out for
 - Solutions Architects need time to provide follow up with information in as near real-time as possible. We aim to minimize scheduling “back-to-back” meetings as this can compromise our ability to provide our best possible response for the customers/prospects we're supporting.
 - [Mid-Market Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=Mid-Market) | [SMB Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=SMB)
 - [Whitepapers, Analyst Reports, etc...](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit#gid=0)
+
+## Commercial Demo Jam
+
+With the continous iteration and releases of GitLab, it's important to stay up to date on the newest capabilities while staying sharp on existing use-cases to best serve customers. The Commercial Demo Jam serves as a safe forum for the Commercial SA team to practice demoing features, discuss potential customer objections, and articulate value through storytelling. 
+
+### Structure
+- Demo Jams are hosted every two weeks and the Wheel of Names is used to randomly select a team member.
+- This is a 25 minute meeting with two presentators.
+- Each presentation has ~5 minutes to present and ~5 minutes for feedback/discussion.
+- Recordings are published to the [Solutions Architecture playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY) on GitLab Unfiltered.
