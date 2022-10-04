@@ -65,6 +65,7 @@ The Privacy, Product and Trade Compliance Team collaborates with all GitLab team
 ## GitLab Policies
 
 * [Anti-Corruption Policy](https://about.gitlab.com/handbook/legal/anti-corruption-policy/)
+* [Anti-Fraud Policy](https://about.gitlab.com/handbook/legal/anti-fraud-policy/)
 * [Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/)
 * [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
 * [Corporate Communication Policy](https://about.gitlab.com/handbook/legal/corporate-communications/)
@@ -73,12 +74,12 @@ The Privacy, Product and Trade Compliance Team collaborates with all GitLab team
 * [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
 * [Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
 * [Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
+* [Partner Code of Ethics](/handbook/legal/partner-code-of-ethics/)
 * [Privacy Policy](https://about.gitlab.com/privacy/)
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/)
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
 * [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
 * [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
-* [Partner Code of Ethics](/handbook/legal/partner-code-of-ethics/)
 
 *Only available to GitLab Team Members.
 
