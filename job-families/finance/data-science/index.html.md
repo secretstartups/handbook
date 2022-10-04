@@ -122,4 +122,32 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule a third interview with the business division DRI
 * Next, candidates will be invited to schedule a fourth interview with a member from our Data team
 
+
+## Specialties
+
+### Full Stack Data Scientist
+
+#### Full Stack Data Scientist Description 
+
+Full Stack Data Scientist is a hybrid position between [Data Scientist](https://about.gitlab.com/job-families/finance/data-science/) and [Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer/) 
+
+In order for the Data Science team to scale and be successful, we need to develop and promote skills of Analytics Engineers on the team to deliver predictive models faster and more accurately. Full Stack Data Scientist will perform duties of Data Scientist by building predictive models, but also be responsible for backend to ensure smooth delivery.
+
+The job description of this specialization include all of the resposibilities for the **Data Scientist** role. In addition, resposibilities for the specialization include:
+
+* Collaborate with team members to collect business requirements, define successful analytics outcomes, and design data models to support data science projects
+* Build trust in all interactions and with Trusted Data Development to expand data science capabilities
+* Serve as the Directly Responsible Individual for major sections of the Enterprise Dimensional Model and data science models
+* Design, develop, and extend dbt code to feed and automate predictive models 
+
+
+#### Full Stack Data Scientist Requirements
+
+The job requirements of this specialization include all of the requirements for the **Data Scientist** role. In addition, requirements for the specialization include:
+
+* Demonstrated experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
+* 2+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 2+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 2+ years experience building reports and dashboards in a data visualization tool
+
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
