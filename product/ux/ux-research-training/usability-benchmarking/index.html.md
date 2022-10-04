@@ -29,6 +29,11 @@ Every benchmarking study has a similar 'skeleton' - the basic elements one needs
 - Metrics: Before your study begins, be explicit about what data you are gathering, which metrics you plan to report on, and the reasoning behind your methodology.
 - Timeline: Planning, conducting, and analyzing a benchmarking study takes time. Creating a timeline for yourself and your stakeholders keeps the study on track and keeps your team informed.
 
+## Planning for a benchmarking study
+When leading a benchmarking study, you will need to coordinate with several stakeholders including the Product Manager (PM) and Product Designer (PD) to ensure that everyone agrees upon the study protocol, tasks, metrics, and timeline.
+
+The early planning stages are crucial for setting the rest of your study up for success. In order to maximize the first few weeks of study planning, communicate with your stakeholders on how they would prefer to provide feedback. If you are getting feedback async, make sure to provide firm deadlines that are non-negotiable. In cases where those deadlines are not being met, try pivoting to sync communication such as a scheduled meeting to help stay on the research timeline.
+
 ### Protocol
 Each protocol is tailored to the topic and specifics of the study it belongs to, but often contains similar sections. Generally, you will want to cover the following (many of these are commmon to all moderated studies):
 
