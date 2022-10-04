@@ -30,7 +30,7 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-re
 #### Digital Experience Analyst Requirements
  
 * Relevant digital analytics experience, working with developers and marketing teams
-* Must have Google Analytics 360, Google Tag Manager 360,and Google BigQuery expertise
+* Must have Google Analytics 360, Google Tag Manager 360, and Google BigQuery expertise
 * Extensive experience working with tag management platforms and data layers
 * Strong grasp of website and ecommerce metrics and optimization.
 * Google Analytics Certification and Tag management certifications preferred
@@ -47,7 +47,40 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-re
 * Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
 * Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
-* Prior experience in an analytics role, or equivalent education
+* Prior experience in an analytics role or equivalent education
+
+### Digital Experience Operations Manager
+
+The Digital Experience Operations Manager reports to the Director, Digital Experience.
+
+#### Digital Experience Operations Manager Job Grade
+
+The Digital Experience Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Digital Experience Operations Manager Responsibilities
+
+* **Sprint Planning and Management:** collaborating with Product and Engineering Management to proactively set biweekly sprint plans and strive to achieve 90% burndown completion.
+* **Sprint Management:** organize and track issues, clarify project scopes, proactively manage risks, collaborate on prioritization, and problem-solve.
+* **Stakeholder Management:** enable Efficiency across multiple teams and drive Results. Engage with key stakeholders to define requirements and help cross-functional teams with delivery.
+* **Team Facilitation:** ensure effective communication between Groups and roles on the Digital Experience team to reduce bottlenecks and increase visibility.
+* **Escalation:** raising blockers to the correct stakeholders to ensure efficient results.
+* **Communication:** reporting Digital Experience progress to senior leaders.
+* **Continuous Improvement:** evaluated Digital Experience team performance metrics and streamline processes. Simplify delivery, manage objective and key results (OKRs), release on time.
+* **Roadmapping:** collaborate with Product Manager on 3 to 6 month roadmaps. Adjusting in real-time based on team progress.
+* **Documentation:** ensuring scalability and efficiency by adding processes to the Digital Experience handbook.
+
+
+#### Digital Experience Operations Manager Requirements
+
+* Exceptional communication and interpersonal skills.
+* Experience in product development planning and providing leadership.
+* Advanced knowledge of the full life-cycle of digital product development.
+* Ability to collaborate with Product Managers, Product Designers,Engineers and report to senior managers.
+* Extensive experience in software product engineering, deployment, and integration.
+* Ability to evaluate product performance metrics, as well as diagnose and resolve issues.
+* Proficiency with Figma.
+* You share our [values](/handbook/values/), and work in accordance with those values.
+* Ability to use GitLab.
 
 ## Manager, Digital Experience
 
@@ -61,13 +94,13 @@ The Manager, Digital Experience is a [grade 8](/handbook/total-rewards/compensat
 
 * **Product knowledge:** Understand the features and value of the end-to-end GitLab product.
 * **Cross-product collaboration:** Proactively identify large, strategic digital marketing opportunities that span the Marketing team. Work with other cross-functional Managers to drive Marketing initiatives.
-* **Deliverables:** Review deliverables (sprint plans, KRs, research, designs, etc.) that your team creates, and provide feedback to ensure high-quality output.
+* **Deliverables:** Review deliverables (sprint plans, KRs, research, designs, etc.) that your team creates and provide feedback to ensure high-quality output.
 * **Research:** Identify strategic user research initiatives and work with cross-functional Managers to organize research efforts.
 * **UX evangelism:** Communicate the value of UX to cross-functional GitLab team members, and influence the teams you support to prioritize UX initiatives.
 * **UX process**: Set up and manage collaborative processes within your team to ensure Product Designers, Data Scientists, and Researchers are actively working together. Make sure everyone has exposure to the work that is happening within the broader team.
 * **Team building:** Collaborate with Product Manager and Technical Product Owner to hire a world-class team of Product Designers, Engineers, Researchers, and Data Scientists.
 * **Public presence:** Engage in social media efforts, including writing blog articles and responding on Twitter, as appropriate.
-* **Vision and direction:** Have an awareness of strategy, and vision of the Marketing digital experience
+* **Vision and direction:** Have an awareness of strategy and vision of the Marketing digital experience
 * **People management:** Hold regular 1:1s with every member of your team and create Individual Growth Plans with monthly check-ins.
 
 #### Manager, Digital Experience Requirements
@@ -93,12 +126,12 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
 
 #### Senior Manager, Digital Experience  Responsibilities
 
-* Extends that of the the Manager, Digital Experience responsibilities.
+* Extends that of the Manager, Digital Experience responsibilities.
 * Collaborating with cross-functional leaders to define quarterly OKRs that support Marketing's goals.
 * Organizational design to increase collaboration and efficiency.
 * Engaging with Finance teams to contribute to forecasting and reporting on business performance.
 * Conducting skip level 1:1s every quarter with the [Digital Experience team](/handbook/marketing/digital-experience/)
-* Pro-actively connecting with cross-functional GitLab team members to identify opportunities.
+* Proactively connecting with cross-functional GitLab team members to identify opportunities.
 * Demonstrating GitLab's CREDIT values and modelling GitLab's Leadership traits.
 
 #### Senior Manager, Digital Experience Requirements
@@ -108,29 +141,29 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
 * Advanced level of HTML, CSS, and JS.
 * Experience as agile project manager a plus.
   
-### Director of Digital Experience
+### Director, Digital Experience
 
-The Director of Digital Experience reports to the Director, Strategy and Operations. The Technical Product Owner and Product Manager (Marketing) report to the Director of Digital Experience.
+The Director, Digital Experience reports to the VP, Marketing Strategy and Platforms. The Product Manager (Marketing), Engineering Manager, and Digital Experience Operations Manager report to the Director, Digital Experience.
 
-#### Director of Digital Experience Job Grade
+#### Director, Digital Experience Job Grade
 
-The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Digital Experience is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director of Digital Experience Responsibilities
+#### Director, Digital Experience Responsibilities
 
 * Extends the Senior Manager, Digital Experience responsibilities.
-* **Performance tracking:** Define and manage performance indicators for the Digital Experience team by independently managing Inbound Marketing KPIs.
+* **Performance tracking:** Define and manage performance indicators for the Digital Experience team by independently managing Marketing Strategy and Platforms KPIs.
 * **Cross-product collaboration:** Actively advocate for Digital Experience throughout the organization by ensuring Digital Experience responsibilities are reflected in the Marketing organization.
 * **Product knowledge:** Help drive cross-functional workflows by having an awareness of what's happening across all Marketing teams through active participation in reviews, showcases, and Group Conversations.
-* **Goal setting:** Independently manage the creation and execution of Digital Experience OKRs with feedback from the Inbound Marketing team and Marketing Leadership.
+* **Goal setting:** Independently manage the creation and execution of Digital Experience OKRs with feedback from the Marketing Strategy and Platforms team and Marketing Leadership.
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 * **Design strategy:** Communicate significant Digital Experience design strategy decisions to leadership and the wider company.
-* **People management:** Coach Product Manager (Marketing) and Technical Product Owner (Marketing) on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
+* **People management:** Coach direct reports on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
 * **Vision and direction**: Have an awareness of opportunities, strategy, and visions across Marketing. 
 * **Team building:** Hire and retain a world-class team.
 
-#### Director of Digital Experience Requirements
+#### Director, Digital Experience Requirements
 
 * Extends the Senior Manager, Digital Experience requirements.
 * Relevant experience managing engineers, designers, researchers, data scientists, product managers, and product owners and leading digital experience for a SaaS company.
@@ -142,8 +175,6 @@ The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compe
 * Collaborative team spirit with great communication skills.
 * You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
-
-## Performance Indicators
 
 ## Performance Indicators
 * [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
