@@ -147,7 +147,7 @@ The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compe
 
 ## Performance Indicators
 * [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#sprint-planning)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
 * [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 
