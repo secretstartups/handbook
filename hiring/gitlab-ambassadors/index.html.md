@@ -172,18 +172,15 @@ For additional guidance on using LinkedIn Recruiter for sourcing, check out this
 
 As you share more about life at GitLab and get involved in sourcing candidates, you'll likely start to get more direct outreach from people interested in working here.
 
+If you do not know someone who messages you on social media and you do not have a shared connection in common, then it is up to your discretion if you want to engage with them.
+
 Here's a suggestion for how to respond to these messages, particularly if you don't know the potential candidate.
 Feel free to make this your own and personalize it based on the specific message or questions you received:
 
->  Hi, {NAME}, thank you for your interest in GitLab!
-It's an exciting time to be part of our team. We're one of the largest all-remote companies in the world, with team members in more than 65 countries.
-The best way to share your information with our talent acquisition team is to apply to a relevant role on our [careers page](/jobs/). But first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
-You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
-I also recommend reading through our [company values](/handbook/values/) to understand how we work and interact as a team.
-GitLab is an incredibly unique place to work, and I'm happy to point you in the right direction if you have more questions.
-
-Thanks again for your interest in joining the team.
-All the best,
+>  Hi, {NAME}, thank you for your interest in GitLab! It's an exciting time to be part of our team. 
+The best way to share your information with our talent acquisition team is to apply to a relevant role on our [careers page](https://about.gitlab.com/jobs/). I'd also encourage you to take a look through our [company handbook](https://about.gitlab.com/handbook/) and our [Life at GitLab Content Library](https://about.gitlab.com/handbook/people-group/employment-branding/content-library/) to learn a bit more about our culture.
+GitLab is an incredibly unique place to work.
+Thanks for reaching out,
 {YOUR NAME}
 
 
