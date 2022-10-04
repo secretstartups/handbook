@@ -33,7 +33,7 @@ Traffic from posts: Ideally every post we publish should support our goal of dri
 {:toc .hidden-md .hidden-lg}
 
 ## Other related pages
-- [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
+- [Process for making an announcement](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements)
 - [Blog dashboard](/handbook/marketing/blog/blog-metrics/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/inbound-marketing/content/editorial-team/)
@@ -61,7 +61,7 @@ If your post is time-sensitive, please ping @ValSilver on slack. Otherwise the e
 
 First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue.
 
-If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
+If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
 
 ### Disclosure process for posts concerning third parties
 
@@ -85,7 +85,7 @@ We should not proceed to publish the blog post until the partner manager has rec
 
 ### Joint announcements
 
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @Sgittlen.
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @Sgittlen.
 
 ### Guest posts by GitLab partners
 
