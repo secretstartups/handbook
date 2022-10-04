@@ -16,7 +16,7 @@ The [Release stage](/stages-devops-lifecycle/release/) includes all features tha
 
 The Release UX team's goal is to enable these complex flows by providing the best experience in software delivery. Our design mission is bring to the forefront simple, clean ways to make GitLab the tool of choice for deploying where, when, and how users want to.
 
-Our biggest partners are the stages under the Ops section ([Verify](/direction/ops/#verify), [Package](/direction/ops/#package), [Configure](/direction/configure/) and [Monitor](/direction/monitor/)), Dev section ([Manage:Optimize](/direction/dev/#manage-1)), and Infrastructure ([Delivery](/handbook/engineering/infrastructure/team/delivery/)).
+Our biggest partners are the stages under the Ops section ([Verify](/direction/ops/#verify), [Package](/direction/ops/#package), [Configure](/direction/configure/) and [Monitor](/direction/monitor/)), Dev section ([Plan:Optimize](/direction/dev/#manage-1)), and Infrastructure ([Delivery](/handbook/engineering/infrastructure/team/delivery/)).
 
 ### Release UX Team
 

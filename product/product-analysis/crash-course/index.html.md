@@ -70,9 +70,9 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Manage:Optimize YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KopcuINFaWBEHYlaDnbDxpl)
+[Plan:Optimize YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KopcuINFaWBEHYlaDnbDxpl)
 
-Team meetings, AMAs, etc. for the Manage:Optimize Group
+Team meetings, AMAs, etc. for the Plan:Optimize Group
 
 [Manage:Access YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kot4GcDlWPsZOM8YgncnPUi)
 
