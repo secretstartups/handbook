@@ -45,7 +45,7 @@ description: "This page defines Self-Managed and provides directions for Self-Ma
 * [map_license_subscription_account](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.map_license_subscription_account) - table to map license, subscription and crm accounts  
 
 <details>
-<summary>queries</summary>
+<summary markdown="span">query</summary>
 
 ```
 SELECT * FROM prod.common.dim_installation ORDER BY dim_instance_id, host_name
@@ -72,7 +72,7 @@ SELECT * FROM prod.common_mapping.map_license_subscription_account ORDER BY dim_
 
 
 <details>
-<summary>queries</summary>
+<summary markdown="span">query</summary>
 
 ```
 SELECT * FROM PROD.common.dim_product_detail ORDER BY product_rate_plan_charge_id
@@ -96,7 +96,7 @@ SELECT TOP 5 * FROM PROD.common.dim_ping_instance WHERE ping_delivery_type = 'Se
 
 
 <details>
-<summary>queries</summary>
+<summary markdown="span">query</summary>
 
 ```
 -- Year over Year Ping Count Comparison (counting Last Pings of the Month Only)
@@ -150,7 +150,7 @@ WHERE
 * [dim_location_country](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_location_country) countries mapped to larger regions
 
 <details>
-<summary>queries</summary>
+<summary markdown="span">query</summary>
 
 ```
 SELECT * FROM prod.common.dim_location_country ORDER BY continent_name, country_name
