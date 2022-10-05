@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "TMG - Team Member Group Guide"
+title: "TMRG - Team Member Resource Group Guide"
 description: "An overview of what is needed to start and sustain a Team Member Resource Group or a Team Member Discussion Group"
 canonical_path: "/company/culture/inclusion/erg-guide/"
 ---
@@ -14,7 +14,7 @@ canonical_path: "/company/culture/inclusion/erg-guide/"
 ##  Introduction
 On this page you will be provided an overview of what is needed to start and sustain a GitLab TMRG (Team Member **Resource** Group) or a Team Member **Discussion** Group.
 
-## Definition of the TMG - Team Member Groups
+## Definition of the TMRG - Team Member Resource Groups
 TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 
 Team Member **Resource Group** provide support for an underrepresented group
@@ -34,13 +34,13 @@ There are many types of groups and not all of them meet the criteria of being a 
 
 **NOTE:** “GitLab supported TMRG” means the group is formally recognized by the company as a GitLab TMRG.
 
-## How to Join Current TMGs and their Slack Channels
+## How to Join Current TMRGs and their Slack Channels
 
-The following groups have completed the process to be an TMG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups). Click the signup link (GitLab team members only) to join:
+The following groups have completed the process to be an TMRG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups). Click the signup link (GitLab team members only) to join:
 
-Ordered alphabetically to avoid the perception that any TMG is more important than any other TMG.
+Ordered alphabetically to avoid the perception that any TMRG is more important than any other TMRG.
 
-| **TMG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMG Agenda** | Executive Sponsor |
+| **TMRG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMRG Agenda** | Executive Sponsor |
 | ------ | ------ | ------ | ------ | ------ |------ |
 | [GitLab API - Asia Pacific Islander](/company/culture/inclusion/tmrg-gitlab-api/) | [Christopher Wang](https://gitlab.com/cs.wang) [Steve Xu](https://gitlab.com/steve_xu) [Sheela Viswanathan](https://gitlab.com/sheelaviswanathan) | #api-tmrg | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/api-tmrg) | [API Agenda](https://docs.google.com/document/d/17zJuZlWVg40mPjcybnGlj_mK2f4SEpRdrjq3s3Cseow/edit?usp=sharing) | David Hong and David Sakamoto |
 | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) | [Kaitlyn Chappell](https://gitlab.com/kchappell) [Wil Spillane](https://gitlab.com/wspillane) | #diverse_ability | [Sign up for future meetings (google form)](https://forms.gle/5g2wVB577Lr7M3CH7) | [DiversABILITY Agenda](https://docs.google.com/document/d/130LH9QPewms025z4OFxNNUYnjcQ53D1049EZOL2WdWc/edit?usp=sharing) | TBC |
