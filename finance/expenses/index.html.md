@@ -224,7 +224,7 @@ Sometimes expenses get rejected by our third party accounting team (Montpac). Pl
 
 ## Currency conversion
 
-The handbook [uses USD when describing budgets](/handbook/handbook-usage/#fine-points). When budgeting and submitting expenses in other currencies, team members should use live currency conversion rates (exchange rates).
+The handbook [uses USD when describing budgets](/handbook/handbook-usage/#fine-points). When budgeting and submitting expenses in other currencies, team members should use live currency conversion rates (exchange rates). These can be looked up online using a site such as [OANDA](https://www.oanda.com/currency-converter/en/).
 
 **Example:** a team event has a meal budget of USD25 per person. A team member notes that this is $50 in local currency, at current exchange rates. The team member can purchase a meal in their local currency up to $50, and expense it in their local currency.
 
