@@ -456,7 +456,7 @@ The [Career Development handbook page](/handbook/people-group/learning-and-devel
 
 **How should we be communicating Growth Potential to team members who we haven't communicated this to before?**
 
-First, ensure the team member understands what we mean when we say we are assessing Growth, including the [4 pillars](/handbook/people-group/talent-assessment/#what-is-growth) that you considered when making the assessment. Be prepared with specifics that led to your evaluation.
+First, ensure the team member understands what we mean when we say we are assessing Growth Potential, including the [4 pillars](/handbook/people-group/talent-assessment/#what-is-growth) that you considered when making the assessment. Be prepared with specifics that led to your evaluation.
 Remember, Growth Potential can change over time as team members are promoted, develop new interests, as new opportunities for growth arise, and as team members continue to broaden their knowledge, skills, and abilities. Avoid making promises, but if your team member sees themselves in a higher position, help them understand behaviors you expect to be able to assess them differently next time.
 
 **I received unexpected feedback about my team member from a crossfuntional stakeholder in my calibration session. What should I do?**
@@ -472,7 +472,7 @@ As the Talent Assessment impacts compensation, and Acting/Interim periods are no
 
 **My team member is performing at a high level in terms of results, but they struggle with behavioral alignment to one or more of our values. How do I take the “how” into account when I am assessing their performance and growth?** 
 
-Review the handbook content on how we [measure Performance](/handbook/people-group/talent-assessment/#measuring-performance) and how we [measure Growth](/handbook/people-group/talent-assessment/#measuring-growth). When a high output/results-oriented team member is struggling with soft skills and/or behavior, this is oftentimes related to improvement areas in terms of alignment to our [values competencies](/handbook/people-group/talent-assessment/#gitlab-competencies), and/or our [Growth Potential pillars](/handbook/people-group/talent-assessment/#measuring-growth) (particularly, but not limited to, Self-Awareness). Considering our measurement guidelines for Performance and Growth Potential holistically, and be sure that your assessment takes all of our competencies, job family responsibilities, and pillars into account. 
+Review the handbook content on how we [measure Performance](/handbook/people-group/talent-assessment/#measuring-performance) and how we [measure Growth Potential](/handbook/people-group/talent-assessment/#measuring-growth). When a high output/results-oriented team member is struggling with soft skills and/or behavior, this is oftentimes related to improvement areas in terms of alignment to our [values competencies](/handbook/people-group/talent-assessment/#gitlab-competencies), and/or our [Growth Potential pillars](/handbook/people-group/talent-assessment/#measuring-growth) (particularly, but not limited to, Self-Awareness). Considering our measurement guidelines for Performance and Growth Potential holistically, and be sure that your assessment takes all of our competencies, job family responsibilities, and pillars into account. 
 
 **My team member has the skills to perform, but there are [will-based performance issues](/handbook/leadership/underperformance/#will-based-performance) that are impacting their ability or the team’s ability to succeed. How should I think about this in terms of assessing their performance?**
 
@@ -523,14 +523,14 @@ If you have any questions or concerns about next steps, please contact your mana
 
 * **Why does this matter to me?** <br> 
 The Talent Assessment involves all team members and managers. 
-    * Team Members are assessed according to [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Team Members should be prepared to have a conversation with their manager about their performance and growth potential in **December/January** each year. <br>
-    * Managers assess their team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' ratings are discussed and evaluated to ensure consistency and minimize bias. Once the program closes, managers are responsible for communicating Performance/Growth Potential Factor to team members.<br>
+    * Team Members are assessed according to [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth potential](/handbook/people-group/talent-assessment/#what-is-growth). Team Members should be prepared to have a conversation with their manager about their performance and growth potential in **December/January** each year. <br>
+    * Managers assess their team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth potential](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' ratings are discussed and evaluated to ensure consistency and minimize bias. Once the program closes, managers are responsible for communicating Performance/Growth Potential Factor to team members.<br>
 
 * **How does this impact the way I work at GitLab?** 
     * [The Performance Assessment](/handbook/people-group/talent-assessment/#what-is-performance) is an evaluation of your performance against [job family responsibilities](/handbook/people-group/talent-assessment/#job-family-responsibilities-and-functional-competencies) and [GitLab competencies](/handbook/people-group/talent-assessment/#gitlab-competencies) and [Growth](/handbook/people-group/talent-assessment/#what-is-growth) is evaluated against the 4 pillars of Growthm Potential. Both can help you determine strengths and improvement areas that you can apply in your day to day work/way you work.<br>
 
 * **How does this impact the teams I lead?** 
-    * As a manager, you assess your team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' assessments are discussed and evaluated to ensure consistency and minimise bias. Once the program closes, managers are responsible for communicating Performance/Growth Potential Factor to team members.<br>
+    * As a manager, you assess your team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth potential](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' assessments are discussed and evaluated to ensure consistency and minimise bias. Once the program closes, managers are responsible for communicating Performance/Growth Potential Factor to team members.<br>
 
 * **Who I can reach out to in supporting me during Talent Assessments for my team?**  
     * You can reach out to your manager or your [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). <br>
@@ -540,11 +540,11 @@ The Talent Assessment involves all team members and managers.
     * While everyone within the Developing category isn't automatically Underperforming, a team member who is Underperforming would also be grouped into the Developing category, because Performing is not an accurate assessment. 
     * Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), are not eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/).
 
-* **How should I factor in COVID impact when assessing performance and growth?** 
+* **How should I factor in COVID impact when assessing performance and growth potential?** 
     When assessing team members affected by COVID (reduced schedules, modified working hours, more extended time off, mental health impact, etc.), please keep in mind:
 
     -  Team members should be assessed at the _agreed upon and expected level_. For example, if manager and team member have agreed that the team member will be working at 80% for a period of time, the team member's performance should be assessed at 80% during that period (not at 100%).  
-    - We should be looking _holistically_ at performance and growth. This performance review should assess the team member's last 12 months of tenure (or less if the team member has joined more recently). Please ensure you are mindful of [recency bias](https://en.wikipedia.org/wiki/Recency_bias), particularly for those team members who have struggled with COVID impact. 
+    - We should be looking _holistically_ at performance and growth potential. This performance review should assess the team member's last 12 months of tenure (or less if the team member has joined more recently). Please ensure you are mindful of [recency bias](https://en.wikipedia.org/wiki/Recency_bias), particularly for those team members who have struggled with COVID impact. 
 
     Team members: It is very important that you are transparent with your manager if you are experiencing significant impact from COVID that has affected your overall performance. Managers cannot be mindful of the points above during assessment periods if they are not aware and expectations are not aligned. If it is helpful, feel free to use the [COVID Self-Evaluation template](/handbook/total-rewards/benefits/covid-19/#self-evaluation) to facilitate a discussion with your manager.
 
