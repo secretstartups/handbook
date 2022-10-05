@@ -360,8 +360,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday November 3 | Security | Johnathan Hunt | October 25 |
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
-| Thursday November 10 | UX | Christie Lenneville | October 26 |
-| Tuesday November 15 | **Available** | | Key Review Date? |
+| Thursday November 10 | Product | Product Leadership | October 13 |
+| Tuesday November 15 | UX | Christie Lenneville | October 13 |
 | Wednesday November 16  | **Available** | | Key Review Date? |
 | Thursday November 17 | **Available** | | Key Review Date? |
 | Tuesday November 22 | **Available** | | Key Review Date? |
@@ -372,7 +372,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday December 7 | **Available** | | Key Review Date? |
 | Thursday December 8 | **Available** | | Key Review Date? |
 | Tuesday December 13 | Quality | Mek Stittri | December 1 |
-| Wednesday December 14 | **Available** | | Key Review Date? |
+| Wednesday December 14 | Product | Product Leadership | TBD |
 | Thursday December 15 | **Available** | | Key Review Date? |
 | Tuesday December 20 | Infrastructure | Steve Loyd | December 8 |
 | Wednesday December 21 | Support | Tom Cooney | December 7 |
