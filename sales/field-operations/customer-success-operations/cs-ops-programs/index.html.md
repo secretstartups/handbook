@@ -53,9 +53,9 @@ Programs can be any of the following:
 
 ### Program recipients
 
-Customer programs are sent to our tech touch and scaled TAM customer segments where there is a GitLab Admin contact. If there is no GitLab Admin on the account the program will send to the sold to contact.
+Customer programs are sent to our tech touch and scaled CSM customer segments where there is a GitLab Admin contact. If there is no GitLab Admin on the account the program will send to the sold to contact.
 
-For these TAM segments we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
+For these CSM segments we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
 
 - `New - First Order`
 - `New - Connected`
@@ -93,7 +93,7 @@ Programs are available to specific customer types.
 
 ### Digital customer programs
 
-The programs below are available to our tech touch and scaled TAM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
+The programs below are available to our tech touch and scaled CSM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
 
 | Program                         | Category    | Content  | Recipients                                              |
 |---------------------------------|-------------|----------|---------------------------------------------------------|
@@ -114,22 +114,22 @@ The programs below are available to our tech touch and scaled TAM customer segme
 
 <br>
 
-### TAM-assigned account programs
+### CSM-assigned account programs
 
-The programs below are available to **TAM-assigned accounts** only and are sent to a GitLab Admin contact.
+The programs below are available to **CSM-assigned accounts** only and are sent to a GitLab Admin contact.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
-| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1YEVaiIxKrHUZC_FN1-E-jU7ISTKMqOSS7LztMbTbUiM/edit?usp=sharing) | When a customer is first assigned a TAM (GitLab Admin OR Sold to Contact) |
-| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM (Sold to Contact) |
+| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1YEVaiIxKrHUZC_FN1-E-jU7ISTKMqOSS7LztMbTbUiM/edit?usp=sharing) | When a customer is first assigned a CSM (GitLab Admin OR Sold to Contact) |
+| AE <> CSM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a CSM (Sold to Contact) |
 | Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays to GitLab Admin contacts                 |
 | NPS/CSAT Post-Onboarding Survey*      |  Onboarding          | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days & GitLab Admin             |
 | NPS/CSAT Pre-Renewal Survey*          |   Retention         | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date         |
 | NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date                           |
-| TAM Enrolled CI Enablement Campaigns          |   Enablement         | [Copy doc](https://docs.google.com/document/d/1GpYLFAGJoV_K1baiDrnOaXbGQGDs02hrUUdH_ymGIMs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
-| TAM Enrolled CD Enablement Campaigns          |     Enablement       | [Copy doc](https://docs.google.com/document/d/1klfKz4ixhOO8YkDzPL9yYKc38C_SjF5Yqums1hWw5sk/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
-| TAM Enrolled DevSecOps Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1olvOJaO5ElhWDMhcMOH-y83yxmNUYVJtLCIZJqc90E8/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
-| TAM Enrolled Agile Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1D7v4BJi3VJefNRjBBr0A3qdff7pXmacg5Nqm93Cfyxs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions          |
+| CSM Enrolled CI Enablement Campaigns          |   Enablement         | [Copy doc](https://docs.google.com/document/d/1GpYLFAGJoV_K1baiDrnOaXbGQGDs02hrUUdH_ymGIMs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| CSM Enrolled CD Enablement Campaigns          |     Enablement       | [Copy doc](https://docs.google.com/document/d/1klfKz4ixhOO8YkDzPL9yYKc38C_SjF5Yqums1hWw5sk/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| CSM Enrolled DevSecOps Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1olvOJaO5ElhWDMhcMOH-y83yxmNUYVJtLCIZJqc90E8/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| CSM Enrolled Agile Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1D7v4BJi3VJefNRjBBr0A3qdff7pXmacg5Nqm93Cfyxs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions          |
 
 _* Monthly newsletters and NPS/CSAT surveys require a GitLab Admin contact_<br>
 
@@ -189,20 +189,46 @@ When reviewing, please keep the following in mind:
 
 </details>
 
+## Tutorial and guide development workflow for GitLab Docs
+
+The Product teams may wish to request new tutorials and guides to be added to the GitLab Docs pages.
+
+### What is the difference between a guide and a tutorial?
+
+A tutorial is intended as a step-by-step instruction to perform a task or tasks. For example, we may want a tutorial for how to set up Two-Factor Authentication. A tutorial would go through the steps in order to complete the process.
+
+A guide may link back to a tutorial, but is less instructional and works to provide guidance, recommendations, and troubleshooting help for a feature. For example, we may want to explain how to set up CI at a high level, then link to tutorials for each step of the process.
+
+### Review workflow
+
+The Product team creates the framework of the tutorial or guide. This includes:
+
+- Basic concepts of the tutorial. For example, “How to migrate from self-managed to SaaS.”
+- A list of steps, processes, or workflows needed for a customer to get from start to finish with the tutorial.
+- Recommendations or frequently asked questions from customers that provide value to customers.
+
+1. The CS technical writer reviews and organizes the content provided.
+1. A structure is determined, including the order of the information, how much information is presented, and where and how links to existing documentation may fit.
+1. This first draft is provided to the Product team for review.
+1. The Product team reviews the draft version of the document and approves it, or makes the changes needed to approve.
+1. The CSE/CSM and SA teams review the draft and make suggestions and recommendations to fill out the content as needed.
+1. The Docs team performs the final review of the content and approves, or suggests changes for approval.
+1. The CS technical writer completes the process and finalizes the content in the Google Doc or MR.
+
 ## Request customer program research with the Research Template
 
-TAMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases. This template provides suggestions for information we can use to create valuable programs for our customers.
+CSE/CSMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases. This template provides suggestions for information we can use to create valuable programs for our customers.
 
 **To create a Program Research issue**:
 
-1. Create a new issue using the [TAM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=TAM%20Program%20Research%20Template).
+1. Create a new issue using the [CSM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=CSM%20Program%20Research%20Template).
 1. 1. Use the questions in the template to gather as much information as possible for the stage or use case.
-1. Assign the template to a TAM or TAM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
-1. Once TAM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
+1. Assign the template to a CSM or CSM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
+1. Once CSM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
 
 ## Create a CTA with a Digital Program playbook
 
-Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/csm/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
+Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/csm/gainsight/#ctas) in Gainsight. These need to be sent manually by the CSM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
 
 See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/customer-success/playbooks/) for a list of current playbooks.
 
