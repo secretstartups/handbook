@@ -5,7 +5,7 @@ job: "Group Product Manager, Manage"
 ---
 
 
-Hi! Thanks for visiting my README, inspired by [Sid Sijbrandij](/handbook/ceo/), [Eric Johnson](/handbook/engineering/readmes/eric-johnson/), [Kenny Johnston](/kencjohnston/README) and others at GitLab who have done the same. You can see the rest of the Product team ones [here](/handbook/product/readme/)
+Hi! Thanks for visiting my README, inspired by [Sid Sijbrandij](/handbook/ceo/), [Kenny Johnston](/kencjohnston/README) and others at GitLab who have done the same. You can see the rest of the Product team ones [here](/handbook/product/readme/)
 
 
 ## Orit's README
