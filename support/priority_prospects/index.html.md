@@ -38,6 +38,9 @@ Free access to support granted in this way is not for any customer who wants it,
 * All response times are reasonable effort and will be given an internal SLO of
   24 hours.
 * Everything within [the statement of support](/support/statement-of-support/) applies.
+* This is solely for **prospects**. This means the account type in Salesforce
+  is `Prospect`. This cannot be applied to any type of account other than a
+  `Prospect`.
 
 ## Requests
 
