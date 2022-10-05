@@ -25,8 +25,11 @@ All our OKRs are public and listed on the pages below.
 [OKRs](https://en.wikipedia.org/wiki/OKR) stand for Objectives and Key Results and are our quarterly objectives.
 OKRs are _how_ to achieve the goal of the Key Performance Indicators [KPIs](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"}.
 They lay out our plan to execute our [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} and help make sure our goals and how to achieve them are clearly defined and aligned throughout the organization.
-The **Objectives** help us understand *what* we're aiming to do,
-and the **Key Results** help paint the picture of *how* we'll measure the success of the objective.
+
+**Objectives** are an aspirational goal to be achieved. They define *what* we're aiming to do, and they show how individual, team, or department work impacts the overall direction of GitLab by connecting work to overall company strategy.
+
+**Key Results** are measures of progress against aligned objectives. They capture *how* we measure success in obtaining the objective. By achieving a Key Result (outcome), we create progress for the linked objective.
+
 You can use the phrase “We will achieve a certain OBJECTIVE as measured by the following KEY RESULTS…” to know if your OKR makes sense.
 The OKR methodology was pioneered by Andy Grove at Intel and has since helped align and transform companies around the world.
 
@@ -48,9 +51,55 @@ Watch EVP, Engineering Eric Johnson discuss the power of OKRs from his perspecti
   <iframe src="https://www.youtube.com/embed/aT66up3SyVU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### OKRs are stretch goals by default
+## Fundamentals of Impactful OKRs
 
-OKRs should be ambitious but achievable. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
+When writing objectives and key results focus on what you want to accomplish (the objective) and how you will measure the success (the key result). 
+
+### Criteria for Objectives
+
+Objectives should be:
+1. **Ambitious** - More than just "business as usual" or incremental change, an objective describes an aspirational yet attainable transformation, growth, improvement that significantly improves the current situation. A few examples:
+      1. Introduce disruptive innovations
+      1. Establish differences between GitLab Inc. and competitors
+      1. Be recognized as an industry leader in a category
+1. **Meaningful** - A top priority that advances GitLab’s strategy and greater mission; provides direction to departments, teams, and individuals about where we are going and how we are getting there. 
+1. **Inspirational** - By providing an aspirational yet meaningful target, empower teams to reprioritize work to focus on what makes the most progress against an objective; to accomplish this, objective should also be easy to remember.
+1. **Align Teams & Individuals** - Need to be broad enough broad enough to be relevant to at least more than one department, team, or individual one level down, but also specific enough that the objective can be measurable by up to three key results; if associated Key Results are satisfied, Objective should be achieved.
+   1. For example, a product-related OKR at CEO level such as increase users by 100% would have the Product leader as the DRI but every other function would also need to contribute to achieve that KR.
+1. **Clear, Responsible Party** - While aspirational objectives will often require collaboration and teamwork, they should have one DRI responsible for ensuring the completion the objective. This prevents [diffusion of responsbility](https://www.britannica.com/topic/bystander-effect/Diffusion-of-responsibility).
+1. **Focused** - A person or team should have no more than 3 Objectives in order to focus on only the highest priority items; this also provides clarity on **what we will not do** in order to remain focused. 
+1. **Transparent** - Allow individuals, teams, and departments to see how their work contributes to the overall goals of GitLab. By sharing OKRs, individual, team, and departments are able to spell out their priorities and avoid having others disrupt focus with non-priority items. 
+
+### Criteria for Key Results
+
+Key Results should be: 
+1. **Aspirational** - Aggressive but realistic stretch goals; if it feels uncomfortable, it's a good KR.
+   1. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
+1. **Linked** - Be aligned to an Objective and be relevant to teams one level down; this alignment also allows KRs to easily roll down to become objectives one level down.
+   1.  KRs should not be too specific that the KR needs to be rolled more than one level down. 
+1. **Clear, Responsible Party** - one single person or team responsible for Key Result.
+1. **Influenceable** - the Key Result owner (department, team, or individual) should be able to impact Key Result through the owner's actions. 
+   1. **Example**: an individual KR to change company-wide net retention is too broad; there are too many other conflating factors for an individual to determine impact. However, net retention could be appropriate KR for an entire department.
+1. **Time Bound** - has a due date. At GitLab, unless otherwise stated, this is within the quarter. 
+1. **Measurable** - As Key Results provide the milestones for how we’ll complete objective, KR should be either a *qualitative* (i.e. completed Y/N or number of steps of project completed) or *quantitative* (increased a metric by x) measure that can prove we accomplished the Key Result. *Quantifying Key Results strongly preferred.*
+1. **Mutually Exclusive** - Measure one component of progress for an objective without overlapping with progress represented by other Key Results. Progress for one Key Result shouldn’t count towards another Key Result.
+   1. **Example**: A Key Result for number of transactions and a Key Result for average dollar amount of transactions are an example of mutually exclusive Key Results: one KR measures *volume* while the other Key Result measures *quality* of volume. On the other hand, a Key Result for total number of transactions and a Key Result for number of transactions from North America is an example of an overlap: progress gets ‘double-counted’ for both Key Result.
+1. **Collectively Exhaustive** - Key Results should fully account for what’s required to achieve an objective. If all Key Results are achieved, then, by default, the Objective must also be achieved.  
+1. **Few Words and Ubiquitous Language** - [As defined in Handbook](https://docs.google.com/document/d/1SBDZj6NPjba-Uweeoh4gMCq1IwhOiNa0FTdE6GcUG7I/edit#:~:text=GitLab%20Communication).
+
+*You can score your OKRs against these criteria to determine whether your OKRs are effective.*
+
+### How to Write OKRs
+
+The following formula can be used to write objectives: 
+Verb + What you want to do + In order to/for/so that (what you hope to achieve or rationale for objective). 
+**Objective Example**: Increase awareness of company in the market in order to increase sales.
+
+The following formula can be used to write Key Results: 
+Verb + what you’re going to measure + from “x to y”.
+**Key Result Example**: 100% of employees certified on OKR expectations and process.
+
+### Measuring Brand New Initiatives
 
 Some KRs will measure new approaches or processes in a quarter. When this happens, it can be difficult to determine what is ambitious and achievable because we lack experience with this kind of measurement. For these first iterations, we prefer to set goals that seem ambitious and expect a normal distribution of high, medium, and low achievement across teams with this KR.
 
@@ -60,8 +109,7 @@ If there is something important that requires two (or more) parts of our organiz
 
 ### OKRs are what is different
 
-The OKRs are what initiatives we are focusing on this quarter specifically.
-Our most important work are things that happen every quarter.
+The OKRs are what we are focusing on this quarter specifically. Our most important work are things that happen every quarter.
 Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis){:data-ga-name="key performance indicators"}{:data-ga-location="body"}.
 Part of the OKRs will be or cause changes in KPIs.
 
@@ -103,14 +151,7 @@ For example, individual SDRs don't have OKRs, but the SDR team does.
 If Legal is one person but represents a unique function, Legal has OKRs.
 Part of the individual performance review is the answer to: how much did this person contribute to the team objectives?
 
-## Writing Impactful OKRs
-When writing objectives and key results focus on what you want to accomplish (the objective) and how you will measure the success (the key result). 
-* Objectives should be actionable, aspirational, and meaningful. 
-* The following formula can be used to write objectives: Verb + What you want to do + In order to/for/so that (what you hope to achieve). 
-* **Objective Example**: Refresh the OKR process to increase company alignment. 
-* Key Results should be focused, measurable and aggressive. 
-* The following formula can be used to write Key Results: Verb + what you’re going to measure + from “x to y”.
-* **Key Result Example**: 100% of employees certified on OKR expectations and process. 
+ 
 
 ## OKR Process at GitLab
 
