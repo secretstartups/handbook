@@ -40,7 +40,7 @@ but report to someone else, or in a totally different department.
 - **You feel safe pushing back**
 - **We'll tell each other if there's something we could have done better**
 
-### Greatest Strengths / Greatest Weakenesses
+### Greatest Strengths / Greatest Weaknesses
 **I'm a collaborative leader and accept input readily.** At its best, this means
 you'll feel empowered. At its worst it means that you'll feel like I don't have a
 vision for what I want.
