@@ -22,20 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### October 2022
 
-### Intro to GitLab
-#### October 5th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BP6rcGcwRh6IERVmQpbkXA)
-
-### Intro to GitLab Office Hours
-#### October 5th, 2022 at 12:00PM-12:45PM Eastern Time/4:00-4:45 PM UTC
-
-In our office hours following our Intro to GitLab webinar, we will focus on questions that are commonly asked by new users of GitLab. To help us prepare, please submit your questions as comments to [this issue](https://gitlab.com/gitlab-com/scale-cse-office-hours/-/issues/1). Our office hours are provided in a webinar format where we will address questions from our attendees submitted ahead of time via [the issue](https://gitlab.com/gitlab-com/scale-cse-office-hours/-/issues/1) and questions submitted live using the Zoom Q&A function
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_-9NWyZpSQOCRhmmT9EaV7Q)
-
 ### Holistic Approach to Securing the Development Lifecycle
 #### October 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
