@@ -40,7 +40,7 @@ _please note that this breakdown is an ideal allocation based on useage and tota
 
 | Department | % Licenses Allocated |
 | ----- | ----- |
-| Engineering | 45% |
+| Development | 45% |
 | Support | 30% |
 | Quality, Infra, Security | 10% |
 | Other as needed | 10% |
