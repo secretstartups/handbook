@@ -45,6 +45,7 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 Check that the ticket meets basic eligibility for STAR treatment:
 
 1. **Is the ticket about L&R (subscription, plan, renewal, licensing, trials)?** Please see our [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html) and its decision flowchart. Requests for customer convenience (that is, when a loss of functionality is not imminent) may not be prioritized.
+   * L&R STAR requests must include all relevant information, like group name, subscription name, license holder.  
 1. **Are we waiting for information from the customer, or from you?** Ensure the latest response is *from the customer* (or from a GitLab team member, in the case of Internal Requests). If the latest response is from GitLab Support, we are waiting for necessary information.
 1. **Is the ticket within SLA?** Review the SLA associated with the ticket, and the amount of time left until breach, by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. 
    * If a ticket was opened in the last 0-30 minutes, and has the correct [Severity](https://about.gitlab.com/support/definitions/#definitions-of-support-impact), a STAR request is not necessary.
@@ -52,7 +53,12 @@ Check that the ticket meets basic eligibility for STAR treatment:
    * Our [SLAs](https://about.gitlab.com/support/#service-level-agreement-sla-details) apply to first-responses to tickets. GitLab Support targets a 95% SLA achievement KPI. This means that some breaching is expected.
    * If the ticket has already had the first reply, then you are looking at a possible "internal (next reply) breach", for which there are no contractual SLAs.
    * If you make a STAR request when a ticket is still within SLA, the Support Manager will discuss with you the best approach.
-
+1. ** Is the ticket missing information? ** 
+   * If a ticket doesn't have all the necesary information it won't qualify for STAR, for example:
+      * A log was requested but not provided by the customer.
+      * 2FA requests without all the necessary challenges completed.
+      * Unanswered questions asked by Support Engineer in the ticket.
+      
 **Note:** You cannot use the Internal Request Form without a Zendesk account. If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to obtain it.
 
 
