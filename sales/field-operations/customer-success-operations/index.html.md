@@ -75,6 +75,16 @@ See the [global issue board](https://gitlab.com/gitlab-com/sales-team/field-oper
 
 Create issues in the [CS Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations).
 
+### Issue Weighting
+
+- Weight = 1: 0-1 hours of work
+- Weight = 3: 1-3 hours of work
+- Weight = 5: 3-5 hours of work
+- Weight = 7: 5-7 hours of work
+
+Anything that takes longer than a day of work should be captured in an epic/multiple issues
+
+
 ### Labels
 
 Labels to use when creating new issues or MRs for CS Ops:
