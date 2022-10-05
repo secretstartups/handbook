@@ -97,7 +97,7 @@ description: "GitLab sales onboarding learning obejctives"
 - Describe our different features and explain how we stack up against our competitors. Recognize where to find the resources you'll need during the sales cycle.
 - Identify the differences between GitLab and GitHub and practice articulating them with your peers/prospects/customers.
 - Identify the differences between GitLab and Cloudbees/Jenkins and practice articulating them with your peers/prospects/customers.
-- Observe from other sellers at Gitlab how they would approach a sales conversation involving a competitor.
+- Observe from other sellers at GitLab how they would approach a sales conversation involving a competitor.
 </details>
 
 <details>
