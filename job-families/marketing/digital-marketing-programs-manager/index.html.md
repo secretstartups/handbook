@@ -102,11 +102,46 @@ The Manager, Digital Marketing is a [grade 8](/handbook/total-rewards/compensati
 - In-depth industry experience and knowledge in at least one digital marketing or marketing programs specialty.
 - Strong technical marketing and advanced digital analytics skills
 
+#### Director, Digital Strategy
+
+##### Job Grade 
+
+The Director, Digital Strategy is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Responsibilities
+
+- Lead the global media strategy and planning to drive awareness and acquisition growth across SMB, Mid Market and Enterprise segments
+- Partner with Campaigns, Brand, and ABM teams, as well as agency partners to build programmatic, content syndication and search campaigns
+- Own and deliver reporting analysis on performance and business impact, as well as conceiving and executing testing strategies
+- Accountable for conversion efficiency across multiple personas and creating full-funnel programs, including moving effectively from awareness to consideration stage
+- Guide, mentor and lead a team of digital media strategies and specialists, in addition to managing our important agency relationships
+
+##### Requirements
+
+- 12+ years experience in direct response, B2B demand gen and media planning
+- Experience in driving differentiated strategies across multiple segments, including SMB and Enterprise, from trial flows to ABM execution
+- Deep understanding and practical experience of planning global, regional and localized campaigns, including emerging markets
+- Deep understanding of programmatic media buying and experience with paid social media platforms
+- Skilled in audience insights, segmentation, persona targeting and integrating propensity models
+- Experience in analyzing and reporting on digital media performance to a range of audiences, including marketing counterparts and business stakeholders
+- Extensive team management skills, including career development and coaching 
+- Experience partnering cross-functionally across marketing, internal stakeholders and agency partners 
+
+## Key Performance Indicators
+- # of leads/MQLs created, cost per lead
+- % increase in MQL to SAO conversion rate and nurture progression
+- % of SMB/MM leads from digital source, cost per trial acquisition
+- % YoY growth in accounts engaged
+branded/non-branded Search volume, keyword rankings
+- Campaign conversion rates
+
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-* Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
-* Selected candidates will be invited to schedule an interview with the Senior Director, Revenue Marketing.
-* Candidates will then be invited to schedule two separate interviews with members of the Digital Marketing Programs team.
-* Finally, candidates may be asked to interview with our CMO
+* Qualified candidates will be invited to a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+* Candidates will be invited to a 50 min interview with the VP, Integrated Marketing
+* Candidates will be invited to a 50 min interview with the Sr. Manager, Campaigns (and ABM)
+* Candidates will be invited to a 50 min interview with the Director, Content
+* Candidates will be invited to a 50 min interview with the Marketing - Director, People Business Partner
+
 * Successful candidates will subsequently be made an offer via video or phone call
