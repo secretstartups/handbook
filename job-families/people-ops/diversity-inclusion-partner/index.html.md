@@ -55,10 +55,10 @@ The Diversity, Inclusion and Belonging Specialist is a [grade 6](/handbook/total
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- 30-45 minute interview with the DIB Manager
+- 30-45 minute interview with the VP, DIB
 - 30 minute interview with a member of the Learning and Development team 
 - 30 minute interview with a People Business Partner
-- 30 minute interview with someone on the People Success Operations team
+- 30 minute interview with someone on the People Operations team
 - Final, the candidate may be asked to create a DIB related project/scenario approach
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
@@ -104,8 +104,8 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 7](/handbook/total-r
 #### Diversity, Inclusion, and Belonging Partner Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging 
 - Next, candidates will be invited to schedule a 45 minute panel interview with one of our People Business Partners, member of our L&D team and People Operations leadership
-- Next, candidates will be invited to schedule a 45 minute interview with our Senior Director, People Success 
 - After that, candidates will be invited to schedule a 30 minute interview with our Chief People Officer
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
@@ -113,7 +113,7 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Manager, Diversity Inclusion, and Belonging
-The Manager, Diversity Inclusion, and Belonging reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/#senior-director-people-success).
+The Manager, Diversity Inclusion, and Belonging reports to the [Vice President, Diversity Inclusion, and Belonging](https://about.gitlab.com/job-families/people-ops/diversity-inclusion-partner/#vice-president-diversity-inclusion-and-belonging).
 
 #### Manager, Diversity Inclusion, and Belonging Job Grade 
 The Diversity, Inclusion, and Belonging Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -147,8 +147,8 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 8](/handbook/total-r
 #### Manager, Diversity Inclusion, and Belonging Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45 minute panel interview with one of our People Business Partners, member of our L&D team and People Operations leadership
-- Next, candidates will be invited to schedule a 45 minute interview with our Senior Director, People Success 
+- Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging
+- Next, candidates will be invited to schedule a 45 minute panel interview with one of our Diversity Inclusion, and Belonging Partner, People Business Partners, member of our L&D team, and/or People Operations leadership
 - After that, candidates will be invited to schedule a 30 minute interview with our Chief People Officer
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
