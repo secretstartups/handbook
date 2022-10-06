@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Executive Diversity Inclusion & Belonging Council
 description: "A strategic group of Senior leaders URG Leaders who assist the DIB team to implement the strategy and align the strategy to the Division's strategic imperatives"
-canonical_path: "/company/culture/inclusion/executive-dib-council"
+canonical_path: "/company/culture/inclusion/executive-dib-council/"
 ---
 
 # Executive Diversity Inclusion & Belonging Council 
