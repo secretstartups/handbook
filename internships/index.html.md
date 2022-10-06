@@ -118,7 +118,7 @@ Internships at GitLab offered in the framework described on this page will be pa
 ## Recruitment
 For interns we will target students or career switchers and would look at our Talent community. We would not limit candidate intake to university students and are open to all qualifying candidates.
 
-We exclusively focus all our active sourcing activities on candidates from [underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
+We exclusively focus all our active sourcing activities on candidates from [underrepresented groups](/company/culture/inclusion/#examples-of-select-underrepresented-groups).
 
 ### Advertising
 We advertise on all the traditional talent acquisition platforms as well as the GitLab vacancies page. Additional advertising is done on internship focussed job boards (e.g. Youtern, angel.co etc.)
