@@ -18,7 +18,7 @@ than the one used on the purchasing account.
 
 ## Add or change subscription management contact workflow
 
-This process should be a last resort for **non-reseller customers**, and self-service options must first be explored.
+This process should be a last resort for **non-reseller customers**, and [self-service options must first be explored](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information).
 
 Reseller customers **do not** have access to CustomersDot -- for such customers, proceed to the [ownership verification](#ownership-verification) steps.
 
