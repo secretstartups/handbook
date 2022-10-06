@@ -14,7 +14,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Pattie Egan, VP of People Operations, Technology, and Analytics
 
-* Please schedule all meetings through the People Function's EBA, Katrina Allen
+* Please schedule all meetings through the People Function's Sr. EBA, Stephanie Kusmirek
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
@@ -24,7 +24,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Rob Allen, VP, Talent Acquisition
 
-* Please schedule all meetings through the People Function's EBA, Katrina Allen
+* Please schedule all meetings through the People Function's Sr. EBA, Stephanie Kusmirek
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
@@ -34,10 +34,10 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Sales VPs
 
-**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, Michelle Hodges, Nima Badiey**
+**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, David Helfer (interim), Nima Badiey**
 
-* Please reach out to Victoria Reinhardt (EBA) to schedule or reschedule any meetings for David Sakamoto, Mike Pyle, and Ryan O'Nell
-* Please reach out to Dana Pelton (Sr EBA) to schedule or reschedule any meetings for David Hong, Michelle Hodges, and Nima Badiey
+* Please reach out to Victoria Reinhardt (Sr. EBA) to schedule or reschedule any meetings for David Sakamoto, Mike Pyle, and Ryan O'Nell
+* Please reach out to Dana Pelton (Sr. EBA) to schedule or reschedule any meetings for David Hong, David Helfer (interim), and Nima Badiey
 * Don't schedule over DNB or any CRO calls without reaching out for approval from VP and EBA
 * For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
@@ -55,16 +55,17 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Finance VPs and Sr. Leadership
 
-**Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO**
+**Craig Mestel, VP of FP&A - Dale Brown, PAO**
 
-* Please reach out to To Be Hired to schedule or reschedule any meetings
+* Please reach out to Anita Mall (EBA) to schedule or reschedule any meetings with Craig Mestel
+* Please reach out to Cindy King (Sr. EBA) to schedule or reschedule any meetings with Dale Brown
 * Don't schedule over DNB blocks
-* For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
+* For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
-* Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the Sr. EBA to request a meeting using the meeting request requirements as a guideline
+* Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the EBA to request a meeting using the meeting request requirements as a guideline
 * A calendar key is available for viewing in their daily schedule
-* External meeting requests (with those outside of GitLab): email Sr. EBA and VP / Sr. Leadership and loop them in with external parties. Sr. EBA will then schedule directly with external parties.
-* For internal meeting requesting please contact Sr. EBA, include the following in your slack/email:
+* External meeting requests (with those outside of GitLab): email EBA and VP / Sr. Leadership and loop them in with external parties. EBA will then schedule directly with external parties.
+* For internal meeting requesting please contact EBA, include the following in your slack/email:
   * Must have/optional attendees
   * Urgency/ Desired timeframe: in the next two days, in the next week or two, etc
   * Duration: 25 mins, 50 mins, etc.
