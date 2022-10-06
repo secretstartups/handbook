@@ -16,13 +16,18 @@ description: "Guidelines for project management for the Quality Department at Gi
 The Quality team currently works cross-functionally and our task ownership spans multiple projects.
 
 - **GitLab.org**
-  - [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
-  - [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
-  - [GitLab](https://gitlab.com/gitlab-org/gitlab/)
+  - [GitLab](https://gitlab.com/gitlab-org/gitlab)
+  - [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa)
+  - [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage)
+  - [GitLab Roulette](https://gitlab.com/gitlab-org/gitlab-roulette)
   - [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
+  - **Ruby gems**
+    - [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
+    - [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
   - **Quality Group**
-    - [Quality team tasks](https://gitlab.com/gitlab-org/quality/team-tasks/)
-    - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
+    - [Quality team tasks](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks)
+    - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
+    - [Quality toolbox](https://gitlab.com/gitlab-org/quality/toolbox)
     - [Nightly tests](https://gitlab.com/gitlab-org/quality/nightly)
     - [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
     - [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
@@ -43,13 +48,19 @@ Upon joining the Quality department, team members are granted either developer, 
 - [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
   - Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
   - Reviewed 5 MRs that make substantial improvements.
-- [GitLab Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
-  - Completed 5 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
+- [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage)
+  - Authored 5 merged MRs.
   - Reviewed 5 MRs.
   - After completing the above requirement the maintainer should be vetted by an existing maintainer in the Engineering Productivity team. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
   - After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
-- [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
-  - Engineers who authored and reviewed at least 10 merged MRs should be given Maintainer access.
+- [GitLab Roulette](https://gitlab.com/gitlab-org/gitlab-roulette)
+  - Authored or reviewed 2 MRs in total.
+- [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
+  - Authored or reviewed 2 MRs in total.
+- [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
+  - Authored or reviewed 5 MRs in total.
+- [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
+  - Authored or reviewed 10 MRs in total.
 - [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
   - Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
   - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
