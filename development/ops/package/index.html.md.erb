@@ -222,13 +222,11 @@ While it is encouraged to participate in the full variety of daily questions, it
 
 The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!).
 
-#### Async Issue and Epic Updates
+#### Async Issue Updates
 
 The purpose of daily updates is to inspect progress and adapt upcoming planned work as necessary. In an all-remote culture, we keep the updates asynchronous and put them directly in the issues.
 
 The async daily update communicates the progress and confidence using an issue comment and the milestone health status using the Health Status field in the issue. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress.
-
-A weekly async update should be added to epics, providing an overview of the progress across related issues.
 
 When communicating the health status, the options are:
 - `on track` - when the issue is progressing as planned
@@ -266,6 +264,26 @@ Ask yourself, how confident am I that my % of completeness is correct?.
 
 For things like bugs or issues with many unknowns, the confidence can help communicate the level of unknowns. For example, if you start a bug with a lot of unknowns on the first day of the milestone you might have low confidence that you understand what your level of progress is.
 
+#### Epic weekly updates
+
+A weekly async update should be added to epics related to quarter goals and to epics actively being worked on. The update should provide an overview of the progress across the feature. Consider adding an update if epic is blocked, if there are competing priorities, and even when not in progress, what is the confidence level to deliver by the end of the milestone/quarter. A weekly update may then be skipped until the situation changes. Anyone working on issues assigned to an epic can post weekly updates. At the beginning of the quarter, we look for a DRI for a feature, and they should be responsible for the parent epic updates.
+
+Slackbot has been configured to send reminders to `#s_package`
+
+The epic updates communicate a high level view of progress and status for quarterly goals using an epic comment. It does not need to have issue or MR level granularity because that is part of each issue updates.
+
+The weekly update comment should include:
+- Status: ok, so-so, bad? Is there something blocked in the general effort?
+- How much of the total work is done? How much is remaining? Do we have an ETA?
+- What's your confidence level on the completion percentage?
+- What is next?
+- Is there something that needs help/support? (tag specific individuals so they know ahead of time)
+
+##### Examples
+
+Some good examples of epic updates that cover the above aspects:
+- https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793 
+- https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901
 
 ### Workflow
 
