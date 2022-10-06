@@ -12,20 +12,32 @@ title: Commercial SA Engagement Model
 
 ## Commercial Solutions Architecture Engagement Model
 
-Wherever possible, let's bring synchronicity back to our sales and customer-facing team members and relationships.
-
-Anytime we use text-based communication, we might miss a chance to connect with someone - which can be critical to our personal and business relationships. While asynchronous communication is important, it can sometimes hamper our ability to clearly communicate. In contrast, a conversation allows us to establish a relationship with the other person and perhaps communicate clearer.
-
 The Commercial SA Engagement Model intends to foster collaboration and influence and even greater iteration amongst ourselves and customers.
 
-#### SA Engagement Considerations
+Given that Landed Addressable Market (LAM or LAM Dev) might not always be correct and the Opportunity Net ARR isn't always indicative of the potential, this model segments an SA team's engagement by the AE role, so that the SA engagement model is aligned with the AE team structures.  
 
-- All Solutions Architect (SA) requests are submitted via [Customer Success Triage Request Form](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/cs-triage-request/#/).
-- SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
-- Deal qualification for Mid-Market, Named Accounts and SMB is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
-- Deal qualification for First Order is a deal that **is piped at $2k and higher**.
-- All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7)).
-- Compelling events are clearly defined or the issue (i.e. triage request) has a clear statement indicating why that information isn’t available yet and how the SA can help obtain it.
+Solutions architects are responsible for owning their engagement on opportunities. The "engagement model" is a general recommendation, not a rule, and will be left to the discretion of the solutions architect.
+
+### SA Engagement Considerations
+
+- Solutions Architects (SAs) help prospects and new customers that are wanting to buy and consume more of GitLab's offering.  CSMs and CSEs help customers adopt what customers have already purchased. 
+- All requests for SAs are submitted via [Customer Success Triage Request Form](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/cs-triage-request/#/).
+- Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7)).
+- Compelling events are clearly defined in the Command Plan on an opportunity with a positive Net ARR.
+- When SAs engage, their notes and activities are logged within Salesforce (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)) and the [Customers & Prospects](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?resourcekey=0-MBirIe2vWyQXYi8cJEkH2Q&usp=sharing) Google Drive directory.
+
+#### SA Engagement for Mid-Market
+
+1. **Mid-Market First Order**: Early-stage `2-Scoping` through `4-Proposal` for opportunities where a Command Plan and Custom Pitch Deck are being leveraged where an SA is necessary. The goal is to complete the `3-Technical Evaluation` prior to 15 days of the Close Date.
+1. **Mid-Market Named**: Opportunities (regardless of stage) where an SA is necessary through the course of the opportunity. The goal is to complete the `3-Technical Evaluation` prior to 30 days of the Close Date.
+1. **Mid-Market Territory**: `3-Technical Evaluation` for opportunities where a Command Plan and Custom Pitch Deck are being leveraged and where an SA is necessary. The goal is to complete the `3-Technical Evaluation` prior to 30 days of the Close Date.
+
+#### SA Engagement for SMB
+
+1. **SMB First Order**: Late-stage `2-Scoping` and `3-Technical Evaluation` for opportunities where a Command Plan and Custom Pitch Deck are being leveraged where an SA is necessary. The goal is to complete the `3-Technical Evaluation` prior to 15 days of the Close Date.
+1. **SMB Named**: Late-stage `2-Scoping` and `3-Technical Evaluation` for opportunities where a Command Plan and Custom Pitch Deck are being leveraged where an SA is necessary.  The goal is to complete the `3-Technical Evaluation` within 15 days of the Close Date.
+1. **SMB First Year Expand**: AEs should rely on the CSM and CSEs as much as possible for First Year Expand opportunities given that the focus of a customer's first year is to adopt as much of what they have purchased as possible.  If a customer has demonstrable adoption of GitLab and is looking for more of GitLab's offering to use, then AEs ought to have the opportunity reviewed by their ASM prior to getting an SA engaged.
+1. **SMB Pooled**: Requests ought to be brought forth by the AE and approved by the ASM and SA Manager to ensure that the need for an SA is justified.
 
 #### Meeting Expectations
 
@@ -34,33 +46,20 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
     - What are our meeting objectives/goals?
     - Agenda and list of attendees should be provided in advance;<u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
 - SA activities include:
-  - Discovery calls
-  - Demonstrations
-  - [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices)
-    - POV's should  be positioned for engagements that are $25k or higher
-    - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm GitLab as their best path forward. "Production" and "Pre-production" level POVs/evals should be discouraged or provided as paid engagement option as part of a license purchase.
-
-_Please Note: Exceptions can and should be made via the issue commenting, mentioning both the ASM (aka Area Sales Manager as well as the Commercial SA Leader)._
-
-#### Opportunities below $10K
-
-In the spirit of supporting the sales floor and deals below $10k we’d like to continue to use Slack offering same day SLA’s for initial response and validation of the ask with mutually agreed upon delivery on formal answers to the question(s) posed.
-
-**Now Available:** [SA Office Hours (US)](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/33) and SA Slack Channels (EMEA)
-
-To help with deals below $10k, we have introduced office hours as a forum that allows AE's to ask questions of the SA team in a one-to-many fashion that may help accelerate a smaller engagement, increase their knowledge of GitLab and other industry related technologies.
-
-_Please Note: If an exception needs to be made please copy both the ASM and Commercial SA Leader should a response be needed quicker though we can’t guarantee that this will be fulfilled._
+  - Discovery calls allow for pain to be identified and can be effective way to help build an awareness of the consequences of that pain both for the customer and the GitLab account team.
+  - Demonstrations align value to capabilities within the product, aiming to speak to the needs of the customer. 
+  - Technical Deep Dives are used to show off a very specific function or capability within GitLab's product.
+  - Reverse AMAs where the SAs evaluate the customer environment and provide recommendations on ways to more effectively use GitLab.
 
 #### Post-Sales Engagement
 
-As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a [Technical Account Manager](https://gitlab.com/gitlab-com/customer-success/tam/-/blob/master/README.md#americas-mid-market) when the customer meets necessary thresholds or the SA and AE can begin preparing the contacts for receiving digital onboarding emails upon closing of a deal.
+As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
 
-Solutions Architects ought to be primarily engaged in opportunities that have active opportunities in Salesforce.  When we work with customers, it's easy to build a trusted advisor relationship with them that persists past the end of the sale.  In these cases, SAs must use their judgment in determining when to redirect a customer to the proper support channel for follow-up questions.
+Solutions Architects ought to be primarily engaged with accounts that have active opportunities in Salesforce.  When we work with customers, it's easy to build a trusted advisor relationship with them that persists past the end of the sale.  In these cases, SAs must use their judgment in determining when to redirect a customer to the proper support channel for follow-up questions.
 
 Below are a few example responses an SA can provide customers that reach out for help after a deal closes. Please leverage your personal connection to them and their company to customize these as you see fit.
 
-##### Accounts without a Technical Account Manager
+##### Accounts without a Customer Success Manager
 
 > Thanks for reaching out!
 > 
@@ -70,11 +69,11 @@ Below are a few example responses an SA can provide customers that reach out for
 > 
 > You can go to [support.gitlab.com](https://support.gitlab.com/hc/en-us/requests/new) and submit a new request. Please use your company email address and an account and password will be created for you. There are more details regarding [reaching out to support](https://about.gitlab.com/support/#first-time-reaching-suppor).
 
-##### Accounts with a Technical Account Manager
+##### Accounts with a Customer Success Manager
 
 > Thanks for reaching out!
 > 
-> In order to best direct your question and provide you a timely response, can you submit a support ticket with our support team? Additionally, I have copied your Technical Account Manager and Account Executive, as well, as they can help escalate your request if necessary. Below are some links to get started with GitLab support.
+> In order to best direct your question and provide you a timely response, can you submit a support ticket with our support team? Additionally, I have copied your Customer Success Manager and Account Executive, as well, as they can help escalate your request if necessary. Below are some links to get started with GitLab support.
 > 
 > I thoroughly enjoyed getting a chance to work with you and role is primarily focused on our customers that are involved in pre-sales engagements; and being a person of one, I don't want to be a bottleneck to you getting a response.
 > 
@@ -93,7 +92,7 @@ Below are a few example responses an SA can provide customers that reach out for
 
 ##### Team meetings
 
-- We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - we expect that unless we’re being asked to participate in a critical customer call that our folks attend our meetings.
+- Team meetings are held on Mondays (Americas) at 10:30am PST for 25 minutes.
 - Try to be respectful of our scheduled 1:1's meetings, though they can be more easily rescheduled in favor of customer engagement.
 
 ##### Meeting Follow up/Research
