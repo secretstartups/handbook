@@ -22,6 +22,7 @@ These responsibilities of the Support onboarding buddy are an extension of [the 
 1. Communicate often with the new hire, and either help (or direct them to get help) when stuck.
 1. Help the new Support Engineer adapt to and learn the role, by having frequent calls and pairing sessions to learn about our day-to-day duties.
 1. Encourage the new Support Engineer to work tickets that push them out of their initial comfort zone.
+1. If you will be out of office in the first 2 weeks, or have numerous commitments, consider discussing with your manager about either having someone else take on the role or to help clear some of your commitments, so that you can make sure you are present and can commit to the role.
 
 ## Structure
 
