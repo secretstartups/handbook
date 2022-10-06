@@ -37,12 +37,12 @@ Please list all stakeholders (name, email, title/role) who will be involved with
 
 | Name      | Role | GitLab Handle |
 | ----------- | ----------- | ----------- |
-| Lauren Barker| maintainer | @laurenbarker |
-| Megan Filo | maintainer | @meganfilo |
-| [Gideon Tong](https://www.linkedin.com/in/gideontong/)| MLHF Pod Leader |  |
-| [Chukwuemeka Mba](http://linkedin.com/in/emekamba)| MLHF Fellow | @Chukwuemeka-Mba|
-| [Uy Seng](http://linkedin.com/in/uy-seng-704843196)| MLHF Fellow | @nova44056 |
-| [Seung Yoo](http://linkedin.com/in/seungmin-yoo-01376932)| MLHF Fellow | @SssngM |
+| Lauren Barker| Maintainer | [@laurenbarker](https://gitlab.com/laurenbarker) |
+| Megan Filo | Maintainer | [@meganfilo](https://gitlab.com/meganfilo) |
+| [Gideon Tong](https://www.linkedin.com/in/gideontong/)| MLHF Pod Leader | [@gideontong](https://gitlab.com/gideontong) |
+| [Chukwuemeka Mba](http://linkedin.com/in/emekamba)| MLHF Fellow | [@Chukwuemeka-Mba](https://gitlab.com/Chukwuemeka-Mba)|
+| [Uy Seng](http://linkedin.com/in/uy-seng-704843196)| MLHF Fellow | [@nova44056](https://gitlab.com/nova44056) |
+| [Seung Yoo](http://linkedin.com/in/seungmin-yoo-01376932)| MLHF Fellow | [@SssngM](https://gitlab.com/SssngM) |
 
 #### Fellow Technical Onboarding
 
@@ -80,10 +80,15 @@ Please identify and describe the deliverables for your project(s) and the ideal 
 | ----------- | ----------- | ----------- | ----------- |
 | [Vertically align dropdown caret](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/194)| Vertically align dropdown caret | Seung Yoo | October, 17th |
 | [Loading components](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/204)| Vertically align dropdown caret |  TBD | October, 17th |
-| [Create tooltip component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/205)| Create a accordion component in the design system |  Chukwuemeka Mba | November, 17th |
 | [Loading components](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/204)| Vertically align dropdown caret | Uy Seng (Wei)| October, 17th |
-| [ENG: Accessible and compliant dropdowns](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/132)| Iterate on dropdown component to. be accessible |  TBD | November, 17th |
+| [Address v::deep errors on build on Slippers repo](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/208) | Update v::deep references that are now deprecated | TBD | October, 17th |
+| [Add Slippers variable names next to colors](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/214) | Add the matching Slippers variable within `_variables.scss` to the table on our color page | TBD | October, 17th |
+| [Add Slippers variable names next to spacing](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/215) | Add the matching Slippers variable within `_variables.scss` to the table on our spacing page | TBD | October, 17th |
+| [Create tooltip component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/205)| Create a accordion component in the design system |  Chukwuemeka Mba | November, 17th |
+| [ENG: Accessible and compliant dropdowns](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/132)| Iterate on dropdown component to be accessible |  TBD | November, 17th |
 | [Implement the Storybook/Figma plugin](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/168)| Implement the Storybook/Figma plugin and make it available for use in the project |  TBD | November, 17th |
+| [Update Slippers Intro/Landing page](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/212) | Improve our Slippers Design System landing page | TBD | November, 17th |
+| [Create Component Overview page](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/213) | Improve our UX by creating a component overview page | TBD | November, 17th |
 | More issues if there's capacity from fellows|  TBD | TBD |  December, 17th |
 
 ## MLH Partner Success Contact
