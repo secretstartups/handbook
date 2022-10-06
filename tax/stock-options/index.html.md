@@ -52,4 +52,4 @@ For the sake of clarity: the word “spread” used in the table below means the
 | Spain | Income tax is due on the spread at exercise. Social insurance contributions likely not due.| No withholding of income taxes on the spread at exercise or reporting of the taxable amount to the tax authorities.|
 | Taiwan | Income tax due on the spread at exercise. Social insurance contributions not due.| No withholding of income taxes or reporting of any income at exercise of the option.|
 | Ukraine | Income tax likely due on the entire sale proceeds. Social insurance contributions not due. It may be possible to deduct the exercise price from the sale proceeds.| No withholding of any taxes or report any income at exercise of the option.|
-| United States | Read this section of the [Handbook](/handbook/stock-options/#us-service-providers-with-nonqualified-statutory-options-nsos)|Withholding is typically not required, however when the service provider fails to provide a valued tax identification number in form 1099, GitLab has to ensure backup withholding (roughly 25%).|
+

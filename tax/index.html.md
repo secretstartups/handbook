@@ -238,7 +238,7 @@ All non-US entities are supported by local tax consultants to prepare and file i
 
 ## Tax Procedure for Reporting Taxable Gains on Option Exercises
 
-1. Options are exercised by following this [procedure](/handbook/stock-options/#how-to-exercise-your-stock-options)
+1. Options are exercised by following this [procedure](/handbook/stock-options/#exercising-your-options)
 1. CFO provides options exercise file on monthly basis to Payroll & Payments Lead
 1. Payroll & Payments Lead ensures wage tax compliance for employees per country as defined in the table below
 1. Employee receives gain from exercise according to the common monthly salary payment procedure
