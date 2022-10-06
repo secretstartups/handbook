@@ -1,53 +1,60 @@
 ---
 layout: job_family_page
-title: "IT Compliance Manager"
-description: "As an IT compliance manager, you will assist in the assessment of technology-related compliance issues across the organization." 
+title: "IT Compliance"
+description: "IT Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. This includes working with systems owners and administrators to identify, document and monitor current risks and controls."
 ---
 
-As an IT compliance manager, you will assist in the assessment of technology-related compliance issues across the organization including information security, identity management, user access, and data integrity. This includes working with systems owners and administrators to identify, document and monitor current risks and controls.
+As part of the IT Compliance team, you will assist in the assessment of technology-related compliance issues across the organization including information security, identity management, user access, and data integrity. This includes working with systems owners and administrators to identify, document and monitor current risks and controls.
 
-## IT Compliance Manager
+In general, all IT Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. They are comfortable operating within our transparent compliance programs and understand how compliance works with cloud-native technology stacks. 
 
-### Job Grade
+## Levels
 
+### IT Compliance Engineer
+This position reports to the Manager, IT Compliance role at GitLab.
+
+#### IT Compliance Engineer (Intermediate) Job Grade
 The IT Compliance role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
 * Be the main point of contact for IT and assist on all internal and external audit teams where IT inquiry is required
 * Monitor activities of assigned IT areas to ensure compliance with internal policies and procedures including monthly, quarterly, and annual account and activity reviews
+* Conduct ITGC/security control test of design and test of operating effectiveness activities
+* Identify observations and manage remediation tasks through to closure while adhering to strict deadlines
 * Ensure execution of required testing and auditing activities for the IT Department by internal and external parties leading to successful certification of the company on an ongoing basis
 * Triage Change Management issues and provide recommendations
 * Work collaboratively with Security Compliance and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations
-* Make broad recommendations on improving compliance related processes and/or procedures as it pertains to the IT department
+* Make broad recommendations on improving compliance related processes and/or procedures as it pertains to the IT department and Identify opportunities for ITGC/security compliance control automation
 * Partner with management, business teams, and/or data team to implement solutions
 
 ### Requirements
 
-* BA/BS in a business related field and/or equivalent years of education and experience working in a related field
-* 3-5 years experience in Information Technology or Information Security experience.
-* Certified Information Systems Security Professional (CISSP) preferred
-* Knowledge of policies and procedures related to GDPR, CCPA, and PCI
-* Excellent interpersonal, verbal, and written communication skills with the ability to communicate compliance related concepts to a broad range of technical and non-technical staff
-* Successful experience working, collaborating, and establishing credibility and relationships with senior leadership, colleagues, and clients
-* Demonstrated success working with internal audit, external auditors, outside consultants, and legal affairs
-* Demonstrated experience leading large-scale projects
-* Ability to use GitLab
+* A minimum of 2 years' experience working with security compliance programs
+* Demonstrated experience with at least two security control frameworks (e.g. SOX, SOC 2, ISO, NIST, COSO, COBIT, etc.)
+* Familiarity with common compliance standards (SOX, SOC2, PCI-DSS, GDPR etcCOSO, COBIT, NIST, and/or ISO 27001.) and experience working directly with internal or external auditors for at least one of the listed standards. (previous external audit experience a plus)
+* Working understanding of how compliance works with cloud-native technology stacks
 
-## Senior IT Compliance Manager
+## Senior IT Compliance Engineer
 
-### Job Grade
+### Senior IT Compliance Engineer Job Grade
 
-The IT Compliance role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior IT Compliance role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
-All the responsibilities of a Business Systems Analyst, plus:
+All the responsibilities of an IT Compliance Engineer, plus:
 
-* Develop, maintain, and publish the Business Continuity and Disaster Recovery plan with a supporting Business Impact Analysis report and assist with customer audit inquiries
-* Identify remediating controls and performance gaps compared to industry best practice to help gain stakeholder buy-in
-* Assist organizations in the identification and management of IT security risks by assessing the current state
-* Prioritize improvements and conduct compliance projects to reduce risk and improve regulatory compliance
-* Create Compliance frameworks in issue templates and updating handbook with relevant procedural information
+* The responsibilities of a IT Compliance Engineer, plus;
+* Execute end to end compliance initiatives in accordance with the compliance roadmap
+* Design high-quality test plans and direct ITGC/security control test activities
+* Continuously improve GitLab's security control framework
+* Draft and implement handbook pages, procedures and runbooks related to IT security compliance
+* Direct external audits 
+* Build and maintain security controls that map to GitLab security compliance requirements and provide implementation recommendations
+* Peer review control test worksheets and provide feedback and guidance to Security Compliance Engineers
+* Identify manual security compliance controls that can be improved through automation
+* Design requirements for security compliance automation tasks
+* Recommend new security compliance metrics and automate reporting of existing metrics
 
 ### Requirements
 This role includes all of the requirements above, plus:
@@ -58,28 +65,36 @@ This role includes all of the requirements above, plus:
 * Ability to use GitLab
 * Solid knowledge and understanding of concepts and philosophies regarding the design and deployment of information technologies and associated architectural concepts, principles, and tools
 
-## Staff IT Compliance Manager (Staff level is only obtainable through career development)
+## Staff IT Compliance Engineer (Staff level is only obtainable through career development)
 
 ### Job Grade
-The IT Compliance role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff IT Compliance role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
-This role includes all of the responsibilities above, plus:
-Mentor other IT Compliance Managers and improve quality and quantity of the team’s output
-Program-level leadership across teams outside of IT Compliance
-Anticipate internal and external audit requirements in advance
-Keep abreast of changing regulatory requirements and appropriately adjust the scope of the IT Compliance program to accommodate these changes
+* The responsibilities of a Senior IT Compliance Engineer, plus;
+* Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape designs for the sake of security compliance efficiencies
+* Participate in the development and continuous improvement of IT compliance metrics
+* Provide actionable and constructive advisement to cross-functional teams, to include driving remediation activities for high and select moderate risk Observations across several GitLab departments
+
+* Implement security compliance technical and process improvements
+* Mentor other IT Compliance Engineers and improve quality and quantity of the team's output
+* Design and implement major iterations on GitLab's security control framework in alignment with industry trends
+* Participate in IT Security and Compliance roadmap development based on customer needs
+* Predict future industry trends and demands to position GitLab as an industry expert of IT Compliance and execute initiatives to support these trends
+* Create dynamic open-source IT security compliance programs that deliver value to our internal stakeholders
+* Build the GitLab IT Security Compliance brand through regular internal and external presentations and publications
+* Design, develop, and deploy scripts to automate continuous control monitoring, administrative tasks and metric reporting for all IT security compliance programs
+* Successfully execute on quarterly KRs associated with OKRs
 
 ### Requirements
 This role includes all of the requirements above, plus:
 
-* Identify, maintain, and publish the requirements for the IT department to achieve compliance and privacy standards including GDPR, SOX, ISO 27001 and other standards
-* Proven ability to create new IT Compliance programs and deliver successful results
-* Proven experience building IT Compliance programs from the ground up
-* Proven experience with successful first-time internal and external audits
-* Ability to use GitLab
-* Detailed and comprehensive knowledge of all GitLab tools, service, and infrastructure
+* A minimum of 10 years' experience defining and shaping compliance programs with a minimum of 3 years' experience building new compliance programs
+* Proven experience building, maintaining and improving compliance programs from the ground-up
+* Proven experience with successful first-time external certification and attestation audits
+* Demonstrated experience with at least six security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
+* Expert understanding of how compliance works with cloud-native technology stacks
 
 ## Manager, IT Compliance
 
@@ -106,13 +121,6 @@ This role includes all of the requirements above, plus:
 * Ability to use GitLab
 * Experience building and maintaining corporate IT Compliance policies and processes
 
-## Performance Indicators (PI)
-
-*  [Average Issues](/handbook/business-technology/metrics/#average-issues)
-*  [Average Merge Requests](/handbook/business-technology/metrics/#average-merge-request)
-*  Evaluate compliance of IT tools or processes
-*  Evaluate changes to IT tools and processes based on risk
-*  Provide more detailed and more practical guidance to the organization with the goal of improving compliance related processes and/or procedures.
 
 ### Hiring Process
 
