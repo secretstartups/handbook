@@ -10,4 +10,5 @@ description: "Get to know the Legal Team in our individual README pages"
 - [Rashmi Chachra (Sr. Director of Legal, Corporate)](https://about.gitlab.com/handbook/legal/readmes/rashmichachra.index.html)
 - [Rob Nalen (Sr. Director of Legal Operations & Contracts)](https://about.gitlab.com/handbook/legal/readmes/robnalen.index.html)
 - [Miguel Silva (Senior Legal Counsel)](https://about.gitlab.com/handbook/legal/readmes/miguelsilva.index.html)
+- [Stacy Cline (Senior Director, ESG)](https://about.gitlab.com/handbook/legal/readmes/stacycline.index.html)
 
