@@ -555,6 +555,8 @@ irb(main):180:0>  update_group_mins(1234,50000)
 
 Update a group's additional runner minutes.
 
+> **WARNING:** Additional minutes added using this function will last **indefinitely** until used. If the request is to provide "extra minutes" during a trial period only, use the [update_group_mins function](#update_group_mins) to change the monthly usage quota, or the [update_gitlab_plan function](#update_gitlab_plan) which will set the usage quota to match a paid plan.
+
 #### Parameters
 
 | Name | Required | Details |
