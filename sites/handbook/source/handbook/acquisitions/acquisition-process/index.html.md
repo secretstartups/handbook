@@ -91,7 +91,9 @@ The process is comprised of four key stages:
             - Risk Register and status of risks
             - Results of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
-    1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
+    1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days. 
+        1. Findings and all technical related note-taking of meetings (external and internal) which are engineering-centric should be recorded in a separate, internal Google Doc
+        1. Naming should follow the following structure: Project [code-name] Technical Evaluation
     1. Technical call: a hands-on product and code screen-share session (2 hours) in which the technical lead, as assigned by the respective Engineering champion, together with the respective Product champion will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
         1. Objectives:
             1. Technically validate the functionalities and competencies of the product which have been presented throughout our process thus far
@@ -102,6 +104,7 @@ The process is comprised of four key stages:
             1. Walkthrough of the architecture and the mechanisms of the product
             1. Review the code repositories and practices
             1. Start discussing the technical aspects of a potential path for the integration
+        1. Internal notes of the call should be recoreded in the Technical Evaluation Google Doc
     1. Founder technical interviews - founders will go through two rounds of interviews to assess technical and cultural alignment.
 1. Resume review - Review of all employee resumes
 1. Compensation review to identify any gaps and possible flags led by the HR Business Partner
