@@ -36,6 +36,8 @@ Some entities also use Tipalti for reimbursement. If you are in BV, Ireland, Gmb
 
 Expense reports are to be submitted at least once a month and must be submitted within 90 days of the invoice date, service date or purchase date. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
 
+We suggest that all expenses in a month would be on one report as it helps us to be [efficient](https://about.gitlab.com/handbook/values/#efficiency) by reducing time reviewing and tracking expenses.
+
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
 Team members should also consider the terms and conditions of their respective contractor agreements when submitting invoices to the company.
