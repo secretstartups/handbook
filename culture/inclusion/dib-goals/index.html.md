@@ -19,7 +19,7 @@ In this page you will find the current Diversity, Inclusion and Belonging Goals 
 
 ### Geographic Diversity (Team Member representation outside of NORAM)
 
-We do not currently have a company wide goals for Geographic Diversity and this will remain in place for FY'23. Instead we will execute on department level OKRs as it relates to Geographic Diversity. 
+We do not currently have a company wide goal for Geographic Diversity and this will remain in place for FY'23. Instead we will focus on increasing Director+ representation outside of the US as team member representation is currently outpacing leadership representation. It would not prove advantageous to take a goal to contiue to increase team members external to the US without first focusing on increasing our leadership population external to the US. In Q3, we will execute on department level OKRs as it relates to Geographic Diversity. 
 
 **Engineering OKR for Q3:** Provide an opportunity to increase and leverage communication between our Engineering team both in NORAM and external to NORAM around their thoughts on our presence outside of the US.
 
