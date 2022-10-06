@@ -23,7 +23,7 @@ This applies to all paying GitLab.com SaaS customers on [Premium or Ultimate](ht
 
 ## Who is involved in this process?
 
-Technical Account Managers (TAMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
+Customer Success Managers (CSMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
 
 GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request.
 
