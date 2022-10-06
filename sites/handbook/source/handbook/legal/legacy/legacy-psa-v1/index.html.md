@@ -12,6 +12,8 @@ description: "Learn more about GitLab Professional Services Agreement."
 
 ## GitLab Professional Services Agreement
 
+Deprecated: October 31, 2021
+
 ### 1. Services
 
 1.1 Statements of Work. GitLab will provide Customer with software-related professional services (“Services”) as set forth in, one or more, mutually agreed to and signed, statement of work, which shall contain without limitation, a description of the Services, the Services rate(s) and payment terms (each an “SOW”). The parties agree that SOWs may not be complete statements of Services required by Customer and additional Services may be required which would be difficult to determine as of the date of this Service Agreement or of the applicable SOW. At Customer’s request, the SOW may include an estimate of charges for the Services, but such estimate shall not be binding on GitLab or convert the SOW into a fixed price contract with respect to such Services. GitLab is under no obligation to perform any Services other than pursuant to an SOW. Notwithstanding the foregoing, if GitLab performs Services at the direction of Customer and the parties have not signed an SOW for such Services, then such Services shall be subject to all terms and conditions of this Service Agreement, and GitLab’s then-current rates for such Services shall apply. GitLab may provide Services through its third-party contractors but, in all such cases, GitLab will remain subject to the obligations hereunder.
