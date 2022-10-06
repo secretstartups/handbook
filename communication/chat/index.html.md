@@ -142,7 +142,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_nigeria`](https://app.slack.com/client/T02592416/CDB11DSRH) |  |
 | [`#loc_noco_aka_loconoco`](https://app.slack.com/client/T02592416/CJPLQ4LEM) | Connect GitLab team members who are in Boulder, Larimer and Weld Counties of Northern Colorado |
 | [`#loc_nyc`](https://app.slack.com/client/T02592416/C0XBJTC00) | Coordinate NYC-area coworking days and other events. Let us know if you're coming to town, and see our visitors doc! 🇺🇸 🗽 https://docs.google.com/document/d/1aTW4P0V44S9hBppStCOVl3bfLq6qW6hoJFW_Er6HOdA/   |
-| [`#loc_nz`](https://app.slack.com/client/T02592416/CF8MAMD39) | 🇳🇿 Auckland Co-working day April 30th https://gitlab.slack.com/archives/CF8MAMD39/p1618454902083600<br>https://docs.google.com/document/d/1VijZowFu8WpyV17MtRtrvz1GUqw9Y5Bcf-OkUOEU774/edit |
+| [`#loc_nz`](https://app.slack.com/client/T02592416/CF8MAMD39) | 🇳🇿 For those visiting, living in or interested in Aotearoa New Zealand. Also half of #loc_australia is in here too. https://docs.google.com/document/d/1VijZowFu8WpyV17MtRtrvz1GUqw9Y5Bcf-OkUOEU774/edit |
 | [`#loc_ottawa`](https://app.slack.com/client/T02592416/C01KH7P3KBR) |  |
 | [`#loc_pdx`](https://app.slack.com/client/T02592416/CS7N7UFGR) | For GitLab team members in/around Portland Oregon |
 | [`#loc_perth`](https://app.slack.com/client/T02592416/CQ6LTSP4L) | Join us (me) for enthralling (adequate) Perth, Australia conversation |
@@ -190,6 +190,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc-utah`](https://app.slack.com/client/T02592416/C1F6XRA77) |  |
 | [`#loc-west-lafayette`](https://app.slack.com/client/T02592416/CQ8HG9NNA) | West Lafayette, IN GitLab team members |
 | [`#locnewyork`](https://app.slack.com/client/T02592416/CPLALPZ1Q) |  |
+| [`#loc_usa`](https://app.slack.com/client/T02592416/????) | General channel for USA |
 
 #### Project Channels (proj_)
 
@@ -246,6 +247,7 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 * **[`#emilys`](https://gitlab.slack.com/archives/emilys)**: For all the Emily/ie/ia/ees at GitLab.
 * **[`#fitlab`](https://gitlab.slack.com/archives/fitlab)**: Channel to discuss fitness and related topics.
 * **[`#gaming`](https://gitlab.slack.com/archives/gaming)**: Discuss gaming (both tabletop and video). We also have a Discord linked in the topic.
+* **[`#i-made-this`](https://gitlab.slack.com/archives/i-made-this)**: Did you make a thing? Or are you in the process of making a thing? Whatever it is, tell us about it and post a photo!
 * **[`#office-today`](https://gitlab.slack.com/archives/office-today)**: Where’s your office today? Share a photo or use words to describe it.
 * **[`#lego`](https://gitlab.slack.com/archives/lego)**: Build, inspire, play. Share your builds and invite your children.
 * **[`#lgbtq`](https://gitlab.slack.com/archives/lgbtq)**: Space for LGBTQ people and allies in GitLab to chat and support each other.
