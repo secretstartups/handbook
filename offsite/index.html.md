@@ -236,6 +236,7 @@ If you are the person who owns a topic, you are responsible for:
 There are some topics discussed at every E-Group offsite.
 These include:
 1. Reviewing action items from the last offsite
+1. Offsite peer feedback session (10 minute prep, 3 minute sessions, 10 minute closing conversation) (50 minutes)
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
     1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
