@@ -53,11 +53,12 @@ Check that the ticket meets basic eligibility for STAR treatment:
    * Our [SLAs](https://about.gitlab.com/support/#service-level-agreement-sla-details) apply to first-responses to tickets. GitLab Support targets a 95% SLA achievement KPI. This means that some breaching is expected.
    * If the ticket has already had the first reply, then you are looking at a possible "internal (next reply) breach", for which there are no contractual SLAs.
    * If you make a STAR request when a ticket is still within SLA, the Support Manager will discuss with you the best approach.
-1. ** Is the ticket missing information? ** 
+1. **Is the ticket missing information?** 
    * If a ticket doesn't have all the necesary information it won't qualify for STAR, for example:
       * A log was requested but not provided by the customer.
       * 2FA requests without all the necessary challenges completed.
       * Unanswered questions asked by Support Engineer in the ticket.
+      * [Proof of support entitlment](https://about.gitlab.com/support/managing-support-contacts/#proving-your-support-entitlement)
       
 **Note:** You cannot use the Internal Request Form without a Zendesk account. If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to obtain it.
 
