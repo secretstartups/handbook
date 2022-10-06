@@ -67,7 +67,7 @@ When scheduling a meeting at GitLab, we value people's time and prefer the "spee
 
 ### 4. All meetings must have an agenda
 
-"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite at the time that the invite is added to calendars. 
+"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a single live doc agenda affixed to the calendar invite at the time that the invite is added to calendars. 
 
 Meeting agendas should be include:
 
@@ -87,6 +87,8 @@ Meeting agendas should be include:
 1. Have adequate time to contribute asynchronously within the agenda.
 
 We've created a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) that you can copy and use in your organization. There is additional guidance and a separate template for [1:1 meetings](/handbook/leadership/1-1/#the-1-1-agenda). [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) do not require agenda as their function is informal communication. 
+
+While it is problematic to have no agenda, it is also problematic to have more than one agenda. Meeting and meeting notes require a single source of truth. If you are in a meeting with more than one agenda, stop the meeting as soon as this is known. Clarify the agenda to use with other attendees and immediately deprecate the additional agenda. Add a link to the agenda being used from the deprecated agenda, so anyone who discovers it is aware of the source of truth agenda.
 
 ### 5. Document everything live (yes, everything)
 
