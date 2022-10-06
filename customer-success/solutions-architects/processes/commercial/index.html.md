@@ -101,6 +101,7 @@ Below are a few example responses an SA can provide customers that reach out for
 - [Mid-Market Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=Mid-Market) | [SMB Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=SMB)
 - [Whitepapers, Analyst Reports, etc...](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit#gid=0)
 
+
 ## Commercial Demo Jam
 
 With the continous iteration and releases of GitLab, it's important to stay up to date on the newest capabilities while staying sharp on existing use-cases to best serve customers. The Commercial Demo Jam serves as a safe forum for the Commercial SA team to practice demoing features, discuss potential customer objections, and articulate value through storytelling. 
@@ -110,3 +111,14 @@ With the continous iteration and releases of GitLab, it's important to stay up t
 - This is a 25 minute meeting with two presentators.
 - Each presentation has ~5 minutes to present and ~5 minutes for feedback/discussion.
 - Recordings are published to the [Solutions Architecture playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY) on GitLab Unfiltered.
+
+## Team Links
+
+- [Commercial Solutions Architect Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/3487724) - Used to track Solutions Architect requests for SMB and Mid-Market companies.
+- [Solutions Architect GitLab Group](https://gitlab.com/gitlab-com/customer-success/solutions-architecture) - Used to share things across Solutions Architects such as links to demos, snippets, training, etc.
+- [Customer Success Tools](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools) - Used to store customer success automation and migration tools.
+- [SA Leadership Initiatives](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/)- Used as the single location for all initiatives that are being worked on across the Solutions Architecture Organization.
+- [FIRE Collaborations](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/firecollaborations) - Used to track collaborations.
+- [Guided Explorations on GitLab](https://gitlab.com/guided-explorations) - Used to create and store example production projects with customers.
+- [Customer & Prospects Drive](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?resourcekey=0-MBirIe2vWyQXYi8cJEkH2Q) - Used to store all customer files such as notes, etc.
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY) - Used to store saved videos by the SA team.
