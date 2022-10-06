@@ -2,7 +2,6 @@
 layout: markdown_page
 title: "Top Cross-Functional Initiatives"
 description: "Top cross-functional initiatives are key to GitLab's success in the fiscal year and beyond"
-canonical_path: "/company/team/structure/working-groups/top-cross-functional-initiatives/"
 ---
 
 ## On this page
