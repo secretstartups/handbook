@@ -30,7 +30,11 @@ In the app you will have the option to select from the following request types:
 
 ### Set CI Minutes to namespace
 
-Allows setting additional minutes to a customer namespace to the value specified in the `Extra minutes` field. The form has two required fields:
+Allows setting additional minutes to a customer namespace to the value specified in the `Extra minutes` field.
+
+> **WARNING:** Additional minutes added this way will last **indefinitely** until used. If the request is to provide "extra minutes" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlab-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
+
+The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
 - **Extra minutes**: The number of minutes to add
