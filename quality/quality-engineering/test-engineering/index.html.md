@@ -247,7 +247,7 @@ How can we use these heuristics? Are there others? The next section answers thos
   - Beginning, Middle, End
   - Example:
     - Edit text at the beginning, in the middle, and the end of a record.
-    - Change correspnding items in a list.
+    - Change corresponding items in a list.
 - Location
   - Solutions often have logic that is related to geographic location as can be represented in:
     - Timezones
