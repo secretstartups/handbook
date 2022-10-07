@@ -67,7 +67,7 @@ At GitLab, we promote on a quarterly cadence. This means that there is **one eff
 | [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
 | [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion-or-compensation-change) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse). 
 
-**Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#quarterly-promotion-cadence-exceptions) and not part of the quarterly cycle and timeline outlined below.
+**Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotionstransfers-processed-outside-of-the-quarterly-promotion-calibration-process) and not part of the quarterly cycle and timeline outlined below.
 
 Below is the timeline for FY23: 
 
@@ -188,7 +188,7 @@ Promotion budget is held at the division leader level, and optionally scaled dow
 Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how quarterly promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
 
 
-## Promotions/Transfers Processed Outside of the Quarterly Promotion Calibration Process 
+## Promotions/Transfers Exceptions Processed Outside of the Quarterly Promotion Calibration Process 
 
 Certain types of promotions/transfers can be handled outside of the Quarterly Promotion Calibration process:
 1. Application to a new, approved headcount in Greenhouse: 
