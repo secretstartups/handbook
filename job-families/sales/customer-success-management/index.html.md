@@ -11,7 +11,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 ## Responsibilities
 
 - Partner with our customers in taking that established in the pre-sales command plan, and turning the customers desired positive business outcomes into actionable objectives
-- Know the Gitlab platform, our more common best practices, and use cases in order to guide the customer
+- Know the GitLab platform, our more common best practices, and use cases in order to guide the customer
 - Understand the customer journey and be able to guide them on future adoption
 - Act as the GitLab liaison for GitLab questions, issues, or escalations.  Work with GitLab Support, Product Management (i.e., roadmaps), or other teams as needed
 - Own a book of assigned customers, with a focus on increasing adoption, ensuring retention and growth, and overall customer satisfaction
@@ -43,9 +43,8 @@ The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/
 
 ### Associate CSM Responsibilities
 
-* Provide immediate onboarding activities such as installation and training 
+* Provide immediate onboarding activities
 * Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
-* Manage the assigned customers to the established SLAs
 * Program manage account escalations
 * Provide insights with respect to the availability and applicability of new features in GitLab as relevant
 * Support GitLab Services in identifying and recommending training opportunities
@@ -104,23 +103,21 @@ The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/com
 * Extends the CSM (Intermediate) requirements
 * Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
 * Strong knowledge of Customer Success best practices, with experience defining process and providing enablement programs to promote adoption in CS and across the company
-* Knowledgable in GitLab internals and deployment methods for cloud or on-premise deployments
 * Expert in GitLab usage and able to train others in its usage
 * Advanced knowledge of software development lifecycle and development pipeline
 * Advanced project management experience & skills
-* Advanced SCM admin and/or PS experience
 
-## Staff CSM (Account)
+## Staff CSM
 
-The Staff CSM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model.
+Market Justification: The business need for an individual contributor Staff CSM role is to have a team member who is a subject matter expert in customer engagement, success planning, and driving platform adoption. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model. In the market, there are over 20 organizations that typically have 2-3 Staff CSMs.
 
-The Staff CSM (Account) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
+The Staff CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
 
 ### Staff CSM Job Grade
 
-The Staff, CSM (Account) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Staff CSM (Account) Responsibilities
+### Staff CSM Responsibilities
 
 - Extends the Senior CSM responsibilities
 - Owns the customer relationship within a global account and actively manages the stakeholder relationship at all levels (i.e., executive, management, technical leaders) including strategic roadmap discussions
@@ -135,7 +132,7 @@ The Staff, CSM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 - Identifies challenges in CSM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions. Work transparently to surface the problems and allow others to participate in solving them.
 - Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
 
-### Staff CSM (Account) Requirements
+### Staff CSM Requirements
 
 - Extends the Senior CSM requirements
 - Experience and a proven track record with the additional responsibilities of a Staff CSM
@@ -147,47 +144,11 @@ The Staff, CSM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Staff CSM (Account) Performance Indicators 
+### Staff CSM Performance Indicators 
 
 * Extends the Customer Success KPIs articulated here
 * 3.75m ARR book of business maintained
 * 6 enablement contributions to global CS team per fiscal year
-
-## Staff CSM (Product)
-
-The Staff CSM (Product) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
-
-### Staff CSM Job Grade
-
-The Staff CSM (Product) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Staff CSM (Product) Responsibilities
-
-- Extends the Senior CSM responsibilities
-- Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/) 
-- Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor within an account
-- Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
-- Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise
-- Periodically leads research and analysis of industry/market trends within customer success, with a focus on Customer Success data and trends 
-- Helps ensure GitLab is listening and hearing our customers and can remain responsive to them
-- Increase global CSM team knowledge and thought leadership within the realm of their expertise
-- Contributes to our docs, YouTube channel, and other enablement programs such as the Digital Journey
-- Serves as advisor to Product Team providing constructive feedback to promote customer use cases and assist in product feature prioritization
-### Staff CSM (Product) Requirements
-
-- Extends the Senior CSM requirements
-- Experience and a proven track record with the additional responsibilities of a Staff CSM
-- Technical / DevOps domain expertise
-- Proven ability to overlay in customer technical risk situations and architect successful solutions.
-- Proven ability to consult and be consulted on topics requiring product/technical expertise
-- Excellent moderation and communication skills
-- Extensive experience within a technical or account management area
-
-### Staff CSM (Product) Performance Indicators
-
-* 2.75m ARR book of business maintained
-* 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Customer Success Managers
-* 1 technical/product enablement per quarter
 
 ## Manager, CSM
 
@@ -331,7 +292,7 @@ The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/
 - Extends the Sr. Director of CSM responsibilities
 - Define and deliver strategies and plans to create and influence GitLab's Go-To-Market strategy and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams/
 - Provide strategic influence with customers accounts as well internally for programs and initiatives, continuously improving customer journey, segmentation approaches, and digital approaches.
-- Lead new developments and improvements across Gitlab to improve customer experience, customer-centricity, and growth for GitLab.
+- Lead new developments and improvements across GitLab to improve customer experience, customer-centricity, and growth for GitLab.
 - Provide executive sponsorship for strategic accounts.
 - Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission,vision, and values.  
 - Align and influence the Executive Team and senior leadership on CSM and GTM strategies and tactics.
@@ -408,10 +369,10 @@ The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/
 
 The Customer Success Engineer (CSE) role provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
 
-#### CSE Responsibilities
+#### Customer Success Engineer Responsibilities
 
 - Engage with customers, both onsite and remote, in a technical consultancy and advisor role during the post-sales process while providing technical and solution guidance
-- Have demonstrated the ability to become a trusted technical advisor to customer and business leaders
+- Providing technical, architectural and best practice guidance
 - Drive the achievement of measurable value (business outcomes), leading to product adoption, renewal, and expansion
 - Align with Customer Success Managers to provide customer-facing subject matter expertise based on the customer's business objectives
 - Focus on solution-based programs that are customized to fit an individual customer's needs
@@ -419,17 +380,77 @@ The Customer Success Engineer (CSE) role provides deep subject matter expertise 
 - Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners
 - Continuously improve professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others
 
-#### CSE Requirements
+#### Customer Success Engineer Requirements
 
 - Experience with a GitLab use case (SCM, CI, CD, DevSecOps, Agile Planning) to provide in-depth customer guidance and enablement
 - Proficiency using DevSecOps tools or highly technical tooling in adjacent fields
 - Specialize in GitLab use cases to provide in-depth guidance and enablement to customers of all sizes, including large enterprise organizations
 - Technical experience in development or systems engineering
 - Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
+- Have demonstrated the ability to become a trusted technical advisor to customer and business leaders
 - Exceptional verbal, presentation, and written communication skills
 - Excellent time management and ability to work with several different teams at any given time
 - Alignment with [GitLab values](/handbook/values/) and ability to work in accordance with those values
 - Ability to travel if needed and comply with the company's [travel policy](/handbook/travel/)
+
+### Senior Customer Success Engineer
+
+The Senior CSE reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+
+### Senior Customer Success Engineer Job Grade
+
+The Senior CSE is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior Customer Success Engineer Responsibilities
+
+* Extends the Customer Success Engineer responsibilities
+* Strategize on the overall objectives and long-range goals of the team
+* Provide mentorship for CSEs to help them grow in their technical knowledge and provide premium customer experience
+* Work cross-departmentally to find solutions to complex scenarios and integration issues
+* Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
+* Help drive team expertise and technical thought leadership
+* Maintain deep knowledge of the GitLab platform
+
+### Senior Customer Success Engineer Requirements
+
+* Extends the Customer Success Engineer requirements
+* Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
+* Expert in GitLab usage and able to train others in its usage
+* Advanced knowledge of software development lifecycle and development pipeline
+* Advanced project management experience & skills
+
+### Staff Customer Success Engineer
+
+Market Justification: The business need for an individual contributor Staff CSE role is to have a team member who is a subject matter expert (SME) with deep subject matter expertise positioned to train on and refine the practice of the CSE function. The Staff CSE collaborates closely with the CSE and TAM/CSM leadership in further refining the direction and enablement of the CSE specialty within Customer Success Management. In the market, there are over 20 organizations that typically have 2-3 Staff CSEs.
+
+The Staff CSE reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+
+##### Staff Customer Success Engineer Job Grade
+
+The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Staff Customer Success Engineer Responsibilities
+
+- Extends the Senior Customer Success Engineer responsibilities
+- Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/) 
+- Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor
+- Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
+- Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise
+- Periodically leads research and analysis of industry/market trends within customer success, with a focus on Customer Success data and trends 
+- Helps ensure GitLab is listening and hearing our customers and can remain responsive to them
+- Increase global CS team knowledge and thought leadership within the realm of their expertise
+- Contributes to our docs, YouTube channel, and other enablement programs such as the Digital Journey
+- Serves as advisor to Product Team providing constructive feedback to promote customer use cases and assist in product feature prioritization
+
+##### Staff Customer Success Engineer Requirements
+
+- Extends the Senior Customer Success Engineer requirements
+- Experience and a proven track record with the additional responsibilities of a Staff TAM
+- Technical / DevOps domain expertise
+- Proven ability to overlay in customer technical risk situations and architect successful solutions.
+- Proven ability to consult and be consulted on topics requiring product/technical expertise
+- Excellent moderation and communication skills
+- Extensive experience within a technical or account management area
 
 ## Performance Indicators
 
