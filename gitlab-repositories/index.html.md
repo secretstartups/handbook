@@ -16,9 +16,12 @@ GitLab consists of many subprojects. A curated list of GitLab projects can be fo
 When creating a new project, please follow these steps:
 
 1. Read and familiarize yourself with our stance on [Dogfooding](/handbook/engineering/development/principles/#dogfooding). Be aware that as part of a product development organization that builds a tool for people like us, that our default is to add features and tooling to the GitLab project. This is still true when the effort to do so is 2-5x. Despite this, if you still feel you need to create a project outside of GitLab, you must follow this process to [document the decision](/handbook/product/product-processes/#dogfooding-process)
-1. Please avoid creating projects directly at the top-level/root namespaces unless necessary (E.g. `gitlab-org/NEW_PROJECT`). Doing so creates context and permission inheritance complications. Ensure that the project is under a subgroup of:
+1. Ensure the project is under a subgroup of:
    * [`gitlab-org`](https://gitlab.com/gitlab-org) for anything related to the application.
    * [`gitlab-com`](https://gitlab.com/gitlab-com) for anything strictly company related.
+   
+   To avoid complications with context and permissions inheritance, creating projects directly under these root namespaces (e.g. `gitlab-org/NEW_PROJECT`) is discouraged. Only Maintainers can create projects there when necessary, but should also avoid doing so for the reason mentioned before. 
+   If you don't have the permissions to create a project there, you can create an [Access Request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and ping one of the Maintainers ([gitlab-org](https://gitlab.com/groups/gitlab-org/-/group_members?sort=access_level_desc), and [gitlab-com](https://gitlab.com/groups/gitlab-com/-/group_members?sort=access_level_desc)) for approval. 
 1. Configure the project repository to use `main` as the name of the default branch.
 1. [Add the project to the list of GitLab projects in `projects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/projects.md).
 1. Help [AppSec](/handbook/engineering/security/security-engineering-and-research/application-security/) [categorizing your new project](/handbook/engineering/security/security-engineering-and-research/application-security/inventory.html#how-to-categorize-projects).
