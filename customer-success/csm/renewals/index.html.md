@@ -19,14 +19,13 @@ A key part of the customer relationship lifecycle is the renewal phase. CSMs mus
 
 ## Timeframe
 
-Six months before the renewal date for a customer, a CTA will trigger in Gainsight to prompt the CSM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days. This leaves four months to execute any renewal strategy, such as an account triage.
+4 months before the renewal date for a customer, a CTA will trigger in Gainsight to prompt the CSM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within the following 30 days. This leaves three months to execute any renewal strategy, such as an account triage.
 
 ## Renewal Playbook Steps
 
 1. Renewal Review: Internal sync with SAL/AE and potentially SA as defined below
-1. Renewal Question
-1. Renewal Plan
-1. Update `CSM Sentiment`
+1. CSM asks 'Soft' Renewal Question
+1. Update `CSM Sentiment` as appropriate
 
 Once the above tasks are complete, the playbook and CTA can be closed out as all actionable items have been performed.
 
@@ -38,27 +37,14 @@ A “Renewal Review” meeting should have the following attendees:
 - Customer Success Manager
 - Solutions Architect (if an upsell is being discussed)
 
+For CSMs with larger books of business, it is appropriate to update an AE or SAL async that they are going to ask the soft renewal question in their next sync, to ensure they are aligned with other conversations that are ensuing.  
 
-The agenda of a “Renewal Review” meeting should include at least the following:
 
- 1. Review of the customer's business objectives as documented in the success plan, and progress/completion of these goals
- 1. Review of the customer health score and any changes over the past few months - changes can be seen in the Timeline in Gainsight.
- 1. Review usage data to identify low/high adoption of licenses and use cases to identify risks or expansion opportunities
- 1. Review of support issues and the underlying reasons for any escalations.
- 1. Review of high priority feature requests.
- 1. Review of the customer's utilization of the product.
- 1. Review of any known risk in the account
- 1. Agree who will ask the renewal question (s) of the customer
+## 'Soft' Renewal Question
 
-From this meeting a set of action items should be created to improve customer utilization and satisfaction with the product. These items can include:
+The CSM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.  An example of this soft question is 'I know you have your renewal coming up in the next few months - how are you feeling about the renewal currently, and are there any changes you are considering that we can prepare for?'
 
- 1. **Architecture review** with Professional Services to address any underlying architectural weaknesses that could have contributed to an “Urgent” support escalation.
- 1. **Product utilization review** to explore GitLab functionally that the customer is not using but could benefit from.
- 1. **Roadmap review** to show the customer features that will be added to the product in the near term that may be valuable to them. This could include a discussion with Product Management for strategic customers.
-
-## Renewal Question
-
-The CSM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.
+If the status of the renewal is already known (renewal conversation with SAL or AE has happened, negotiations or contract is in-flight), the CSM can close the renewal CTA selecting the appropriate close reason. 
 
 ## Renewal Plan
 
