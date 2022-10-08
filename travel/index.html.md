@@ -115,7 +115,7 @@ Please read through these FAQ **entirely**.
 1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
     - There are other things that [the company will not reimburse](/handbook/finance/accounting/#non-reimbursable-expenses), such as dog boarding.
 
-> We base elibibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
+> We base eligibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
 >
 > It is common for manufacturers to design seating that comfortably accomodates only a certain percentage of the populate. For example, see [how Herman Miller designs their chairs to accomodate the 95th percentile](https://www.hermanmiller.com/research/categories/white-papers/the-evolution-of-anthropometrics-and-user-control/).
 
