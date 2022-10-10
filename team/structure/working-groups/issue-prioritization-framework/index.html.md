@@ -97,7 +97,6 @@ Verify and measure at scale:
 | Member                | Sophie Pouliquen         | Senior Techical Account Manager |
 | Member                | Martin Brümmer         | Senior Techical Account Manager |
 | Member                | Mek Stittri              | Director of Quality Engineering |
-| Member                | Kyle Wiebers             | Engineering Manager, Engineering Productivity |
 | Member                | Farnoosh Seifoddini      | Product Operations |
 | Member                | Jonathan Fullam          | Solutions Architecture |
 | Member                | Sherrod Patching         | Director, Technical Account Managers |

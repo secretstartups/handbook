@@ -95,7 +95,6 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member 		     | Paul Gascou-Vaillancourt   | Senior Frontend,   |
 | Member            | Dennis Tang 				 | Engineering Manager, Govern:Compliance |
 | Member            | Nick Nguyen 				 | Senior Engineering Manager, Datastores |
-| Member            | Kyle Wiebers 				 | Engineering Manager, Engineering Productivity | 
 | Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
 | Member            | Jiaan Louw 				 | Senior Frontend Engineer, Govern:Compliance |
 | Member            | Rémy Coutable 		 | Staff Backend Engineer, Contributor Success |

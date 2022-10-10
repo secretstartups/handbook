@@ -89,7 +89,7 @@ Note: This does not preclude other stages beyond create to complete the exit cri
 | Functional Lead       | Farnoosh Seifoddini                                  | Head of Product Operations |
 | Functional lead       | Lily Mai                                             | Staff Engineering Analyst |
 | Functional Lead                | Tanya Pazitny                                        | Director of Quality Engineering |
-| Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
+| Member                | Jennifer Li                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
 | Member                | Neil McCorrison                                      | Frontend Engineering Manager, Secure |
