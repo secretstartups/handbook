@@ -309,6 +309,8 @@ If a team member has been referred, the People Connect team will review team mem
 
 * In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter screens the candidate a referring party cannot be added to their profile after. The candidate source would be Prospecting by the GitLab sourcer.
 
+* If the referral was submitted on or before 2022-06-01, then refer to the bonus amounts as listed under [Referral Operations](https://about.gitlab.com/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team).
+
 #### Referral Bonus Processing
 
 1. The People Connect team processes referral bonuses weekly out of the GitLab Referral Bonus Audit Workday report
