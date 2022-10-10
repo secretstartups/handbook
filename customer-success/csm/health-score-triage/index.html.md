@@ -210,17 +210,14 @@ When an account has multiple GitLab instances identified as Production (Instruct
 2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
 3. Select "Opt-Out" rather than null, or the system may overwrite your update
 
-<p>
 <details>
-<summary>
 
-#### Multiple Production Instances: Gainsight Admin Processes
-
-</summary>
+<summary markdown='span'>Multiple Production Instances: Gainsight Admin Processes</summary>
+<br>
 
 Because the DevSecOps health measure looks to the account as "Ultimate", this step was added to make sure the correct production instance is scored in the case of multiple subscriptions under a given account. 
 
-If a CSM has marked a production instance under a Premium subscription, DevSecOps health will appear as be “NA”. Meaning, even if there are two subs with one being Premium and the other being Ultimate, as long as the CSM marked the Premium one for health scoring, you will no longer see a DevSecOps health score (generally red) on the account.
+If a CSM has marked a production instance under a Premium subscription, DevSecOps health will appear as be “NA”. Meaning, even if there are two subscriptions with one Premium and another Ultimate, as long as the CSM marked the Premium one for health scoring, you will no longer see a DevSecOps health score (generally red) on the account.
 
 **Gainsight Rules:**
 
@@ -230,7 +227,6 @@ If a CSM has marked a production instance under a Premium subscription, DevSecOp
    1. The rule looks at the `Plan Name` on the Product Usage Instance Metrics object instead of the `Products Purchased` on the Company object
 
 </details>
-</p>
 
 ### At-Risk CTA
 
