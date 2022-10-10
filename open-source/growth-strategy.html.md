@@ -37,11 +37,11 @@ flowchart LR
 
 ### Improve Contribution Velocity
 
-Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. Improve Contributor Journey, making it easier and efficient to contribute. Gather feedback from Wider community contributors and product teams on contribution friction.
+Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. Improve Contributor Journey, making it easier and more efficient to contribute. Gather feedback from wider community contributors and product teams on contribution friction.
 
 #### Reduce Open Community MR Age
 
-* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.  
+* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest OCMA. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.  
 * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1](https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
 * **DRI:** Contributor Success team (Engineering)
 
