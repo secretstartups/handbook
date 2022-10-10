@@ -190,7 +190,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc-utah`](https://app.slack.com/client/T02592416/C1F6XRA77) |  |
 | [`#loc-west-lafayette`](https://app.slack.com/client/T02592416/CQ8HG9NNA) | West Lafayette, IN GitLab team members |
 | [`#locnewyork`](https://app.slack.com/client/T02592416/CPLALPZ1Q) |  |
-| [`#loc_usa`](https://app.slack.com/client/T02592416/????) | General channel for USA |
+| [`#loc_usa`](https://gitlab.slack.com/archives/C045SQKUX6X) | General channel for USA |
 
 #### Project Channels (proj_)
 
