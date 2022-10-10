@@ -338,6 +338,20 @@ We love collaborating on work that drives our North Star and supporting metrics.
 1. Review the FAQ section related to pre-work that will increase the chances your issue is prioritized.
 2. Create an issue using [this template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#)
 
+### DEX team members with platform access
+<details>
+    <summary>LaunchDarkly</summary>
+    <li>@dennischarukulvanich</li>
+    <li>@fqureshi</li>
+    <li>@jgarc</li>
+    <li>@justin.vetter</li>
+    <li>@mpenagos-ext</li>
+    <li>@meganfilo</li>
+    <li>@miraclebanks</li>
+    <li>@ndubord</li>
+    <li>@tywilliams</li>
+</details>
+
 ## Digital Experience FAQ
 
 <details>
