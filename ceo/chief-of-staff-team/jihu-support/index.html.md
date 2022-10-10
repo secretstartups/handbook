@@ -46,7 +46,6 @@ Process to be added below.
 | --- | --- |
 | [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
 | [Kevin Chu](https://about.gitlab.com/company/team/#kevinchu) | Product DRI |
-| [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator |
 | [Lin Jen-Shin](https://about.gitlab.com/company/team/#godfat) | Engineering Facilitator |
 
 ### Projects
