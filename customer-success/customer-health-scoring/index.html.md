@@ -65,7 +65,7 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 | **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
 | -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
 | **Product**    | License Activation         | The customer has assigned all licenses                                            | Has the customer deployed their licenses? This is an indicator of seat reduction / expansion                      | License utilization                                          | All              | 100%          |
-| **Product**    | User Engagement            | 73% of users are Monthly Active Users                                         | Are users logging in and using the product?                  | Unique Monthly Active Users / billable_user_count               | All              | 0%          |
+| **Product**    | User Engagement            | 73% of users are Monthly Active Users                                         | Are users logging in and using the product?                  | Unique Monthly Active Users / billable_user_count               | All              | 50%; [in progress](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/387)          |
 | **Product**    | Adoption (Use Case)        | Use Case adoption                                            | Is the customer adopting use cases and progressing into “stickier” areas of GitLab? | SCM —> CI —> DevSecOps adoption                              | All              | 100%          |
 | **Risk**       | CSM Sentiment              | The sentiment as determined by the CSM, if applicable        | What has the CSM determined from cadence calls?              | CSM Sentiment                                                | CSM owned        | 100%         |
 | **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | CSM owned        | 100%         |
@@ -99,12 +99,6 @@ The following graph (Early Warning Segmentation Framework) is used to provide a 
 
 For a fuller list of the project roadmap, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gbc45c07eca_0_135).
 
-## FY22
-
-- Basic Customer Health Scoring to describe the health of the customer at that point in time for 80%+ of customers
-- Auto-enroll digital customers in campaigns based on usage
-- Data is available to all GTM teams via Gainsight and Salesforce
-
 ## FY23
 
 - Advanced metrics and methodology to move from reactive to proactive account management
@@ -132,25 +126,6 @@ Example: CI has ten individual features with one metric per feature and each met
 
 While the product usage health will be summarized, a separate health view will allow users to view each individual component. This allows users to quickly skim overall health and, when applicable, to look into the details to see which features are not being utilized.
 
-### Health scoring for accounts with multiple production instances
-
-#### Problem
- 
-When an account has multiple GitLab instances identified as Production, (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)) the Product Usage health measure uses the most recently updated instance. That means the Product Usage health measure lacks precision on which instance it scores. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
-
-#### Solution
-
-[Video Instructions](https://youtu.be/N0JUABX88Hg) on how to update instance data in Gainsight to include only one instance in Product Usage health measure.
-
-1. Go to the account C360 and scroll to the Instance and Namespace Details Section. 
-2. Scroll right to see the “Included in Health Measure” column. 
-3. To exclude instances, click the three dots, Edit, and then select “Opt-Out” in the Included in Health Measures section. NOTE: Make sure you select “Opt-Out” rather than null, or the system will overwrite your update. Then click Update.
-4. For the instances you want included in the health score, click on the three dots, Edit, and click “Included in health Score.” Then click Update.
-
-Important to Note: 
-1. Best practice is to only have ONE instance marked as "Included in Health Measure" 
-2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
-3. Select "Opt-Out" rather than null, or the system may overwrite your update.
 
 ## Predictive Analytics
 
@@ -236,6 +211,3 @@ Segmentation will primarily follow the level of service (CSM Priority 1, 2, 3), 
 
 - [MVC Early Warning System epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/25)
 - [Customer Analytics Roadmap (internal-only document)](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gb3e6c0a32e_0_5) (slide deck)
-- [Project Compass #3 - GTM Product Analytics - Improve product and customer analytics to capture richer data about users](https://gitlab.com/groups/gitlab-com/-/epics/1246)
-- [Project Compass #15 - Build analytics capabilities and CRM integration to improve cross-sell/up-sell](https://gitlab.com/groups/gitlab-com/-/epics/1247)
-- [Renewal Operations Strategy (internal only document)](https://docs.google.com/document/d/1cQGAzrpdZyqq7P5X40AZrh-HLvv2PwmHfHcv3iq_2M8/edit#)
