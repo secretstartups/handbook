@@ -68,7 +68,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 |---|----------------|----------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | TBD            | 10%       | @g.hickman      | [Define the vision of the GitLab API for the future years](https://gitlab.com/groups/gitlab-org/-/epics/8633) |
 | 2 | TBD            | 0%       | @alexkalderimis | [Set the foundation of a cohesive development strategy going forward](https://gitlab.com/groups/gitlab-org/-/epics/8634)                        |
-| 3 | TBD            | 0%       | @fabiopitino    | [Improve the API or capture the work needed to have a world-class API](https://gitlab.com/groups/gitlab-org/-/epics/8635)                       |
+| 3 | TBD            | 0%       | @fabiopitino    | [Capture work needed for next generation API](https://gitlab.com/groups/gitlab-org/-/epics/8115)                       |
 | 4 | TBD            | 15%       | @.luke          | [Clarify the lifecycle of the API](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
 | 5 | TBD            | 15%       | @kpaizee        | [Improve the documentation of the API](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
 | 6 | TBD            | 0%       | @arturoherrero | [Create learning paths and content to contribute to the API](https://gitlab.com/groups/gitlab-org/-/epics/8637) |
