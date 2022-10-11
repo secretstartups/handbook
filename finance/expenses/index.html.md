@@ -44,7 +44,7 @@ Team members are reimbursed on different schedules depending on their location. 
 
 Expense reports are to be submitted at least once a month and must be submitted within 90 days of the invoice date, service date or purchase date. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
 
-We suggest that all expenses in a month would be on one report as it helps us to be [efficient](https://about.gitlab.com/handbook/values/#efficiency) by reducing time reviewing and tracking expenses. You can do this automatically in Expensify by doing the following:
+When possible and if not impacting your finances, we suggest that all expenses in a month would be on one report as it helps us to be [efficient](https://about.gitlab.com/handbook/values/#efficiency) by reducing time reviewing and tracking expenses. You can do this automatically in Expensify by doing the following:
 
 1. Go to **Settings** -> **Policies** -> **Individual**.
 1. If no policy exists here, create one.
