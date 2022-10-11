@@ -22,7 +22,7 @@ Currently, GitLab does not provide additional benefits over and above the mandat
 
 GitLab and team members contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
 
-Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/gtai-en/invest/investment-guide/employees-and-social-security-659058).
+Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/en/invest/investment-guide/employees-social-security-659058).
 
 ## Personal Accident Insurance
 
