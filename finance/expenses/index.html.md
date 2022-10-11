@@ -34,16 +34,23 @@ GitLab utilizes Expensify as our team member expense reimbursement tool. All tea
 
 Some entities also use Tipalti for reimbursement. If you are in BV, Ireland, GmbH, GK or PTY Ltd you will also receive an invite from Tipalti to set up your banking details.
 
-Expense reports are to be submitted at least once a month and must be submitted within 90 days of the invoice date, service date or purchase date. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
-
-We suggest that all expenses in a month would be on one report as it helps us to be [efficient](https://about.gitlab.com/handbook/values/#efficiency) by reducing time reviewing and tracking expenses.
-
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
 Team members should also consider the terms and conditions of their respective contractor agreements when submitting invoices to the company.
 
 Team members are reimbursed on different schedules depending on their location. Please see the reimbursement process below to find the listing of reimbursement dates based on your location or employment status.
 
+### Submitting Expenses
+
+Expense reports are to be submitted at least once a month and must be submitted within 90 days of the invoice date, service date or purchase date. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
+
+We suggest that all expenses in a month would be on one report as it helps us to be [efficient](https://about.gitlab.com/handbook/values/#efficiency) by reducing time reviewing and tracking expenses. You can do this automatically in Expensify by doing the following:
+
+1. Go to **Settings** -> **Policies** -> **Individual**.
+1. If no policy exists here, create one.
+1. Otherwise, click on the existing individual policy.
+1. Go to **Reports**.
+1. Enabled **Scheduled Submit** with **Monthly** frequency and an appropriate report submission date. You can find cut-off dates per location in [Reimbursement Payout Timelines](#reimbursement-payout-timelines).
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Policy Summary
 
