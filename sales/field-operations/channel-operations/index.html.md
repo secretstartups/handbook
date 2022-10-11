@@ -526,6 +526,28 @@ Partner Help Desk’s primary internal communication channel is Salesforce Chatt
 **Please do not tag PHD team members directly in chatter or make a request through Slack direct message. Always use @Partner Help Desk for SFDC requests or post in #channel-programs-ops in Slack for general questions.**. This ensures our team is working as efficiently as possible for everyone and that you are covered in case the team member who replied first becomes unavailable.
 If someone is working on a case, they will continue to support until the case is closed. If a matter was resolved, but needs to be revisited, please chatter @Partner Help Desk to reopen a case.
 To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opportunity or account page and a short sentence on your request. If the PHD team needs more information or needs to pull in another team, we will follow up directly via Chatter. If you need to involve a partner, please email partnersupport@gitlab.com, instead of an individual PHD team member so any team member can jump in as something moves forward.
+
+### Tagging Partner Operations or Partner Help Desk in Salesforce
+
+Here is a general list of items that can help you decide when to tag @Partner Operations or @Partner Help Desk in Salesforce. Please continue to refer to our respective handbooks for in-depth information before tagging. 
+
+**Partner Operations**
+Most internal Salesforce (SFDC) and Vartopia system questions and changes, including:
+- Channel Compensation Questions
+- Channel Manager Territory Mapping and Account Assignment
+- Deal Registration Record Updates
+- Specific Channel Quoting Questions (Discounts, Approvals,etc.)
+- Distributor Quote Requests
+- SFDC Reporting Issues
+
+**Partner Help Desk**
+Most partner-facing questions and changes to the Impartner (Partner Portal) system, including:
+- General Channel Program Questions
+- Partner Portal Access Issues and Resources
+- Reseller Deal Registration Activation
+- Partner Training and Certifications
+- Partner Rebates and Payment Set-Up in Coupa
+- Partner Not-for-Resale (NFR) Licenses
  
  
 ##  Program and Incentive Definitions
@@ -613,7 +635,7 @@ The following departments/people will be tagged for gathering this information:
 The following departments/people will be tagged for FYI/Additional Input:
 
 * **Partner Operations:** Colleen Farris, Nick Scala, Niles Jamshaid
-* **Channel Programs**: Evon Collett, Kim Yaegar
+* **Channel Programs**: Evon Collett, Kim Jaegar
 * **Deal Desk**: Jesse Rabbits
 * **PubSec Channel**: Pilar Meija
 
