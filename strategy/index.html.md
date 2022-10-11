@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "GitLab Strategy"
-description: "GitLab has a 3 year strategy for becoming the leading complete DevOps platform delivered as a single application."
+description: "GitLab has a 3 year strategy to be the leading complete DevSecOps platform delivered as a single application."
 canonical_path: "/company/strategy/"
 ---
 
@@ -11,56 +11,118 @@ canonical_path: "/company/strategy/"
 - TOC
 {:toc}
 
+**This strategy page is an early draft to better align the strategy to the OKR process. Expect updates as we discuss this within the company.**
 
 ## Three Year Strategy
 
 Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy){:data-ga-name="strategy"}{:data-ga-location="body"}. It also maps to and reflects GitLab's [mission](/company/mission/){:data-ga-name="mission"}{:data-ga-location="body"}, [vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} and [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}. It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration){:data-ga-name="iterate"}{:data-ga-location="body"} when there is reason to do so.
 
 Along the road to realizing our mission of **everyone can contribute**, our
-strategic goal is to be known as the leading complete [DevOps Platform](/solutions/devops-platform/){:data-ga-name="devops platform"}{:data-ga-location="body"}
- (or, what Gartner calls the DevOps Value Stream Delivery platform) delivered as a [single application](/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"}.  We will help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels){:data-ga-name="flywheel"}{:data-ga-location="body"} (single application + open-core model) will propel us to efficiently be the default choice in the Enterprise market.
+strategic goal is to be the leading complete [DevSecOps Platform](/solutions/devops-platform/){:data-ga-name="devops platform"}{:data-ga-location="body"}. We help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels){:data-ga-name="flywheel"}{:data-ga-location="body"} (single application + open-core model) will propel us to efficiently be the default choice in the Enterprise market.
 
 To achieve this, we will endeavor to:
 
-### 1) Accelerate market maturity around the DevOps Platform
-Ensure that when customers buy DevOps software the single application approach is the default.
+### 1) ARR: Customer Results
+Ensure that GitLab is the default when customers buy DevSecOps software.
+**Note:** See our SEC filings on the SEC's Edgar website for information regarding ARR.
 
-1. **Deliver products:** Have mature and enterprise ready products across a broad range of categories ([50%](/company/strategy/2023/){:data-ga-name="strategy 2023"}{:data-ga-location="body"} of our [categories](/handbook/product/categories/){:data-ga-name="categories"}{:data-ga-location="body"} are at [lovable maturity](/direction/maturity/){:data-ga-name="lovable maturity"}{:data-ga-location="body"}).
-1. **Drive product adoption:** Focus on usability for new customers and cross promoting stages to achieve 25m estimated [Combined Monthly Active Users](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users){:data-ga-name="monthly active users"}{:data-ga-location="body"}.
-1. **Be a thought leader:** Be the trusted voice about the future of the DevOps. If you ask our potential customers what GitLab is, 70% should say a [DevOps Platform](/solutions/devops-platform/){:data-ga-name="70% devops platform"}{:data-ga-location="body"}. This is how the analysts define the category.  
-1. **Create a strong partner ecosystem:** Develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiated opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio){:data-ga-name="partner initiated opportunities"}{:data-ga-location="body"} to contribute 30% of incremental ARR and 20% of new logos.
+1. Even easier to buy
+  1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
+  1. E-commerce experience => [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
+  1. [Consumption add-ons](https://about.gitlab.com/pricing/)
+  1. Sales efficiency
+    1. [LAM as the top metric](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
+    1. Segmentation
+    1. Non-US revenue
+    1. Channel
+    1. Renewals
+    1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
+  1. [Registration features](/direction/registration-initiatives/
+1. Prove value
+  1. Advocate Training
+  1. Advocate Certification
+  1. Standardize customer value data
+  1. [Exec dashboards](https://gitlab.com/gitlab-org/gitlab/-/issues/370887) 
+#registration-features)
+1. Co-create
+  1. [Leading Organizations](/handbook/marketing/community-relations/leading-organizations/)
+    1. Reaching 1000 monthly contributors
+    1. Internal experts at our largest customers
+    1. Ensure customers see it as their own product
+  1. [Dogfooding](/handbook/values/#dogfooding)
+    1. [Professional Services](/services/)
+    1. Information technology service management 
+    1. [Service desk](/stages-devops-lifecycle/service-desk/) 
+
+### 2) Product: Mature the product
+Build upon our current platform to meet current and future user needs. 
+
+1. Be recognized as the leader in the DevSecOps Platform Category
+  1. [GitHub best in class comparison](/devops-tools/github-vs-gitlab/) and differentiation 
+  1. GitHub Differentiation 
+  1. DIY best in class comparison
+  1. [Plan](/direction/plan/)
+    1. Provide mature planning solution to Ultimate customers
+    1. Custom fields
+    1. Workflow automation
+    1. Great importers
+  1. [Create](/direction/create/)
+    1. Code suggestions 
+    1. Remote Dev 
+  1. [Verify](/direction/ops/#verify)
+    1. Build, test, and deployment automation
+    1. Increase speed
+  1. [Ops](/direction/ops)
+    1. Monitor UI library 
+    1. Agent using environments 
+    1. [GitOps](/topics/gitops/)
+  1. [Incubation engineering](/handbook/engineering/incubation/) 
+    1. [OKRs](/company/okrs/)
+    1. [MLOps](/handbook/engineering/incubation/mlops/)
+1. Scaling
+  1. Dedicated (see ARR strategy pillar for details)
+  1. Free user limits 
+  1. Storage measurement 
+  1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/) 
+  1. Standardize Usage data 
+  1. [Pods](/direction/pods/) 
+  1. Data archival 
+  1. Import sandbox 
+  1. Yubikeys
+  1. Clickhouse sharding 
+1. Curated experience 
+  1. Fulfillment efficiency (see ARR strategy pillar for details)
+  1. Usability benchmarking 
+  1. Customer Executive Dashboards
+  1. AI removes security dupes 
+  1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
+  1. [DORA documentation](https://docs.gitlab.com/ee/api/dora/metrics.html)
+  1. Snyk migration 
+  1. Duplicate efforts
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="direction page"}{:data-ga-location="body"}.
 
-### 2) Build on our Open Core strength
+### 3) People: Growing careers
+Support GitLab team members in excelling within GitLab and beyond. Be a company to externally emulate and have a training impact that extends beyond the wider-community. 
 
-We will strive to increase the contributions of the wider community.
+1. Accountability
+  1. [Bias for action](/handbook/values/#bias-for-action)
+  1. [Iteration](/handbook/values/#iteration)
+  1. Fast pace
+  1. [Identifying underperformance early](/handbook/leadership/underperformance/)
+1. [Increase team diversity](/company/culture/inclusion/)
+  1. Ethnicity
+  1. Gender
+  1. Geo
+1. Great training
+  1. [TeamOps](/handbook/teamops/) 
+  1. [Low voluntary turnover](/handbook/people-group/people-success-performance-indicators/#voluntary-team-member-turnover-rolling-12-months)
+  1. People who leave voluntarily do very well
+  	1. Note: we are confirming our ability to measure this
+  1. [Vision](/company/vision/) 
+  1. GitLab Foundation 
 
-1. **Contributions:** Grow to 1000 contributors per month by being responsive and encouraging full-time contributors at customers.
-1. **Enterprise leading usability:** Enable contributions that improve the user experience of our application through purpose driven user research and product development, leading to a [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/#sus-and-gitlab){:data-ga-name="SUS"}{:data-ga-location="body"} score > 77.
-1. **Connect with users on self-managed free:** Know the organization and be in contact with at least one person in organizations that collectively host more than 10m active users of our open source product. Do this via SaaS services for self-managed and proprietary features that can be used for free.
-
-### 3) Customer centricity
-The customer will be the center of our operations including how we develop, market, and support our products. While we ship fast every month, we are committed to a seamless change management experience for our customers so they can get the best of GitLab in a predictable way.  We have a goal that over one thousand of our customers become references.
-
-1. **Land and expand:** Acquire high-potential new customers for an initial purchase sized to land quickly. We will help the customer realize value and ROI from GitLab through product experience, customer success and channel services.  Through guided realization of value, we believe customers will choose to expand paid usage of additional users, higher tiers, and adopt additional features and DevOps lifecycle stages. Y% of GitLab customers consume strategy, management, implementation, and training services. Maintain a net retention rate of over 130%.
-1. **Use case driven conversion:** Use the product and our customer-facing teams to be empathetic and drive conversion through the customer journey to achieve a growth efficiency above 1.0: 
-Focus efforts toward increasing free to paid conversion for SaaS to 1.2% and free to paid conversion for self-managed to 1.5%. Have 1,800 product qualified leads per month. Add the next whole complete product capability in the customer journey each year to prompt customers to upgrade from Premium to Ultimate at a rate of 6% per year.
-1. **Strong data insights:** Invest in our data infrastructure to understand how 100% of our paid customers utilize GitLab so we can best prioritize and improve our products and enhance the customer experience.
-1. **Best in class commerce experience:** Ensure that it is easy for customers to try GitLab and do business with us whether they buy through our website, sales team or channel ecosystem with an industry-leading commercial systems capability. Today we sell GitLab by the seat and we aim to expand our product offering into providing SaaS services for self-managed customers. 100% of our customers transact through this system with less than 5% customer support rate.
-
-### 4) Inclusive growth & development for team members
-Developing our team members is a core operating principle at GitLab.  We offer a competitive, performance-based total rewards package, in addition to robust learning & career advancement opportunities. GitLab is considered a best place to work for our high performing team members as measured by its talent brand and internal team member satisfaction ( >90%).
-
-1. **High performance culture:** Build on our strength of living our CREDIT values everyday and drive intentional career advancement of underrepresented groups through focused talent development programs. Have top talent team-member satisfaction above 90% with 90% of top talent answering, "My team is a highly performing team," in the affirmative.
-1. **Build a diverse team** to drive extraordinary outcomes with 40%+ of team members identifying as non-male and 50% of all Senior Leadership and Executive hires to identify as non-male
-1. **All remote:** Hire, retain, and develop the best talent across the world to build a diverse company, while continuing to innovate as thought leaders in talent acquisition and operating as an efficient, scalable all-remote company.
-90% of the candidates added to our outbound funnel have indicators that suggest they will add to our diversity in some way.
-Host the deepest catalog of remote work content of any company in the world.
-1. **Best in class learning experience:** Remote L&D influencer through applying GitLab best practices to enable asynchronous/personalized learning and development programs for our team members and the wider community. Invest in learning programs for managers with 90% of team members rate their managers as effective.
-
-As we execute on our strategy, it is important to use our [financial targets](/handbook/being-a-public-company/#long-term-targets-underpin-efficient-durable-growth){:data-ga-name="OKRs"}{:data-ga-location="finalcial targets"} as guide rails and mature our internal processes for building a durable business for the long-term.
-
+As we execute on our strategy, it is important to use our financial targets as guide rails and mature our internal processes for building a durable business for the long-term.
 
 ## Principles
 
@@ -74,7 +136,7 @@ As we execute on our strategy, it is important to use our [financial targets](/h
 
 ### Seed then nurture
 
-Our GitLab product [vision](/direction/#vision){:data-ga-name="vision"}{:data-ga-location="body"} is to deliver a single application for the entire DevOps lifecycle.  This is a very expansive product vision that requires us to build an enormous amount of product surface area.  Because we are capital constrained, we need to build GitLab as a community. When we are early in a particular area of the product, we will plant seeds by shipping a small [MVC](/handbook/values/#minimal-viable-change-mvc){:data-ga-name="mvc"}{:data-ga-location="body"}. Shipping functionality that is incomplete to expand the scope sometimes goes against our instincts. However, planting those seeds even in an incomplete state allows others to see our path and contribute. With others contributing, we'll iterate faster and will accelerate the [maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} of our offering faster than GitLab could on its own.  We can have a **long tail** of categories that are at a minimal [maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} that don't get investment until they show traction. While these come with a [low level of shame](/handbook/values/#low-level-of-shame){:data-ga-name="low level of shame"}{:data-ga-location="body"} they allow the wider community to contribute and people to express interest. It is much more common for people to contribute to categories that already exist and express interest in categories already shipping in the product. A minimal category is the placeholder to channel energy, and it is our responsibility to till the earth with minimal iterations.
+Our GitLab product [vision](/direction/#vision){:data-ga-name="vision"}{:data-ga-location="body"} is to deliver a single application for the entire DevOps lifecycle.  This is a very expansive product vision that requires us to build an enormous amount of product surface area.  Because we want to be efficient with capital, we want to build GitLab as a community. When we are early in a particular area of the product, we will plant seeds by shipping a small [MVC](/handbook/values/#minimal-viable-change-mvc){:data-ga-name="mvc"}{:data-ga-location="body"}. Shipping functionality that is incomplete to expand the scope sometimes goes against our instincts. However, planting those seeds even in an incomplete state allows others to see our path and contribute. With others contributing, we'll iterate faster and will accelerate the [maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} of our offering faster than GitLab could on its own.  We can have a **long tail** of categories that are at a minimal [maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} that don't get investment until they show traction. While these come with a [low level of shame](/handbook/values/#low-level-of-shame){:data-ga-name="low level of shame"}{:data-ga-location="body"} they allow the wider community to contribute and people to express interest. It is much more common for people to contribute to categories that already exist and express interest in categories already shipping in the product. A minimal category is the placeholder to channel energy, and it is our responsibility to till the earth with minimal iterations.
 
 GitLab the product should eventually have depth in every category it offers.  To build out real depth requires a shift in focus, from planting seeds to nurturing the product area to maturity. We should concentrate our nurture investments in the categories that have demonstrated [monthly active usage](/handbook/product/performance-indicators/#structure){:data-ga-name="monthly active usage"}{:data-ga-location="body"}, revenue contribution, and demonstrated customer demand.  As a product team, we'll be particularly focused on driving monthly active usage at the stage and group level.  This should lead to more Stages per Organization, which is important as each stage added [triples paid conversion](/direction/#product-strategy){:data-ga-name="triples paid conversion"}{:data-ga-location="body"}!  We'll also be heavily focused on driving usability, by measuring our [system usability score](/handbook/product/ux/ux-resources/#system-usability-score){:data-ga-name="system usability score"}{:data-ga-location="body"}, which is a measure of the user perception of GitLab's usability.
 
