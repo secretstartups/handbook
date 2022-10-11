@@ -16,16 +16,16 @@ description: "The Customer Success Operations team's handbook page. This covers 
 
 ## Mission
 
-Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through creating trust in data, clarity in effective processes, and predictability in outcomes.
+Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through trust in data, clarity in effective processes, and predictability in customer and GitLab outcomes.
 
 ## Strategy
 
 Develop and operationalize Customer strategies leveraging analytics and insights for key expansion and renewal initiatives, resulting in increased net ARR.
 
-1. Operationalize Product Usage Data
-1. Expand Customer Programs
-1. Develop Renewal Operations
-1. Enhance Gainsight Buildout
+1. Operationalize Product Usage Data for customer value realization and outcomes
+1. Enable customers through Digital Programs
+1. Support customer renewal effectiveness through Renewal Operations
+1. Increase Sales and CS effectiveness through systems and tools
 
 
 ## What we do
