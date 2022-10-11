@@ -915,7 +915,7 @@ Leave the no headphones to:
 - People who don't have them handy at that time
 - People from outside the company
 
-Suggested headphone models can be found in the handbook under [spending company money](/handbook/finance/expenses/#headphones-and-earbuds).
+Further headphone advice can be found in the [home office setup](/company/culture/all-remote/workspace/#headphones) guide.
 
 If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html), that is fine, but please ensure the microphone is active.
 
