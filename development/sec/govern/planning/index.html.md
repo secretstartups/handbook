@@ -111,7 +111,7 @@ The goal of the refinement process is to ensure an issue is ready to be worked o
      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-new-contributors).
 1. Refinement Review.
    * If the weight you've assigned to the issue is 1, move the issue directly to `~"workflow::ready for development"`.
-   * If the weight of the issue is greater than 1, unassign the issue from yourself and request a review from another engineer.
+   * If the weight of the issue is greater than 3, unassign the issue from yourself and request a review from another engineer.
    * When the reviewer agrees with the implementation plan and weight, they will unassign themself
      and move the issue to `~"workflow::ready for development"`.
 
