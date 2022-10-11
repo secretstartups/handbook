@@ -167,25 +167,64 @@ We have limited capacity in the recruiting team so hiring managers are experimen
 - What might you do differently next time?
 ```
 
-## Weekly Async Updates (No Status In Meetings)
+## Async Updates (No Status In Meetings)
 
-We have a policy in Ops to keep status updates out of meetings.  Instead of reporting on status in meetings, Directors, Senior Engineering Managers, Engineering Managers and Principal Engineers provide weekly async updates.  The content of these updates may vary by individual and role but generally cover:
+We have a policy in Ops to keep status updates out of meetings. Instead of reporting on status in meetings Directors, Senior Engineering Managers, Engineering Managers and Principal Engineers provide regular async updates.  
 
-1. Team projects, priorities, KPIs, OKRs
-2. Other priorities (e.g. Working groups, OKRs, special initiatives, etc.)
-3. Highlights & Accomplishments
-4. Announcements & topics of interest to those reading the report
+The content of these updates varies by individual and role:
+
+### Async Update Guidance
+
+#### Engineering Manager
+
+1. Cadence: Weekly
+1. Topics:
+    1. Highlights & Accomplishments
+    1. Team Projects & Priorities (progress, blockers, key decisions, etc.)
+    1. Team Health (team dynamic, team morale, hiring, team concerns, etc.)
+    1. Team Metrics and SLAs (e.g. Security SLAs, etc.)
+    1. Other Announcements & topics of interest to those reading the report
+
+#### Senior Engineering Manager
+
+1. Cadence: Monthly
+1. Topics:
+    1. Milestone Review
+        1. Allocation of focus in milestone plans (major features, maintenance, etc.)
+        1. What tradeoffs or decisions should be made prior to Milestone kickoff? For example:
+            1. Is the team overcommitted?
+            1. Does the allocation of effort need to shift to meet specific goals? (e.g. Security SLAs)
+
+#### Principal Engineer
+
+1. Cadence: Weekly
+1. Topics: 
+    1. Highlights & Accomplishments
+    1. Projects & Priorities (progress, blockers, key decisions, etc.)
+
+#### Director
+
+1. Cadence: Monthly
+1. Topics: 
+    1. Summary of Highlights & Accomplishments across the section
 
 ### To create a weekly async update:
 
 1. Create a GitLab issue in any project.
-2. Apply the label `~OpsSection::Weekly-Update`.
+2. Apply the label `~OpsSection::AsyncUpdate`.  (The label `~OpsSection::Weekly-Update` can also be used for backwards compatibility reasons.)
 3. Choose a descriptive title.  Include your update in the issue description.
+
+### To HIGHLIGHT an item for inclusion in the Director update
+
+1. Begin any paragraph in your update with the text `HIGHLIGHT:`
+1. These paragraphs will automatically be copied into the Highlights & Accomplishments section of the monthly Director's update.
 
 ### To review Ops weekly async updates:
 
-1. All issues with the `~OpsSection::Weekly-Update label` are summarized in weekly issues in the [Ops Status Updates](https://gitlab.com/gitlab-com/ops-sub-department/ops-status-updates/-/issues) project.
-1. You are encouraged to comment and ask questions in weekly async update issues.  This provides useful feedback to the author and opportunities to collaborate.
+1. All issues with the `~OpsSection::AsyncUpdate` or `~OpsSection::Weekly-Update` label are summarized in weekly issues in the [Ops Status Updates](https://gitlab.com/gitlab-com/ops-sub-department/ops-status-updates/-/issues) project.
+1. All team members are encouraged to comment and ask questions in weekly async update issues.  This provides useful feedback to the author and opportunities to collaborate.
+1. Director reviews all updates weekly (from the prior week) and provides feedback.
+1. Senior EMs reviews all updates from their teams weekly (from the prior week) and provides feedback.
 
 ### Benefits of reporting and reviewing status async vs. synchronously in meetings:
 
