@@ -108,13 +108,13 @@ People who are neurodivergent can miss social cues or not provide certain social
 
 #### Our Team Members 
 
-You will read real transcripts from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
+You will learn from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
 
-[Kaitlyn Chappell](https://docs.google.com/document/d/14IXQimwsBqf8ppI3mtmDE2Ts9yhxqUCYAOKQgXRLlhE/edit?usp=sharing)
+Kaitlyn Chappell: [Transcript](https://docs.google.com/document/d/14IXQimwsBqf8ppI3mtmDE2Ts9yhxqUCYAOKQgXRLlhE/edit?usp=sharing) - [Video](https://www.youtube.com/watch?v=FMTG9VL_bzs)
 
-[Matt Wilson](https://docs.google.com/document/d/1Ii78o4MizjGI8HygkgQ0JvcE7goBT88V-6TAt3V6xDU/edit?usp=sharing)
+Matt Wilson: [Transcript](https://docs.google.com/document/d/1Ii78o4MizjGI8HygkgQ0JvcE7goBT88V-6TAt3V6xDU/edit?usp=sharing) - [Video](https://www.youtube.com/watch?v=LDOZ0gPHthE)
 
-[Mike Lindsay](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG669-UwDcVuvS88JZwlw_TM4QdqsY/edit?usp=sharing)
+Mike Lindsay: [Transcript](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG669-UwDcVuvS88JZwlw_TM4QdqsY/edit?usp=sharing) - [Video](https://www.youtube.com/watch?v=qM3FYf5sUXs)
 
 #### What can you do next: Building a more inclusive environment for neurodiverse team members 
 
