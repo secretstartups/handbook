@@ -56,5 +56,5 @@ This Working Group has the following goals:
 | Member | Liam McAndrew | Engineering Manager, Scalability |
 | Member | Markus Koller | Senior Backend Engineer, Integrations |
 | Member | Grant Hickman | Sr Product Manager, Integrations |
-
+| Architecture Evolution Coach | Andrew Newdigate | Distinguished Engineer, Infrastructure |
 
