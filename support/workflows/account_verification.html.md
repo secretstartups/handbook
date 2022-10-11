@@ -246,6 +246,8 @@ As stressed in the Slack notification template, we will wait for the customer's 
 
 Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
 
+Peer review is **not** required. You may make the change yourself.
+
 ## **Account Ownership Changes**
 
 There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab. Our [support page](https://about.gitlab.com/support/gitlab-com-policies/#ownership-disputes) outlines that these processes are not available for unpaid groups.
