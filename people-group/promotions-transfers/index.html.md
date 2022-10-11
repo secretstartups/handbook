@@ -363,7 +363,7 @@ This section describes the approval chain after a manager submits a promotion or
 
 ## Interim and Acting Roles
 
-### Interim (Engineering-Specific)
+### Interim 
 
 As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
 
@@ -386,7 +386,7 @@ When the interim period comes to a close, one of two outcomes can occur:
 - The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
 
   - As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
-  - The hiring manager should submit a formal offer through Greenhouse including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
+  - The People Business Partner should submit the promotion request through Workday using the [Change Job](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) job aid including the promotion document to make the change official. In Workday, the reason for the change should be `Promotion - Promotion`. The accomplishments leading up to the interim and during the interim can be used for the promotion document. The manager is responsible for creating the promotion document and [recommending a compensation increase](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommending-a-compensation-increase). _Note: Promotion documents are only required if the team member move results in a promotion. For lateral moves, we do not require promotion documents._
 
 - The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
 
