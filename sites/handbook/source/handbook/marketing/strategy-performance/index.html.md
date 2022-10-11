@@ -60,6 +60,16 @@ Every 2 weeks MS&A holds [office hours](https://calendar.google.com/calendar/u/0
 
 If you have a question related to marketing reporting, this is a great informal place to ask.
 
+We've established a rotation so one team member is always present for the entire duration of office hours. For the first ten minutes the entire MS&A team will join and take questions, if we run out questions all but one team member may drop. The team member who stays on the call will remain for the duration of the call and can request help the MS&A team if needed. Its expected that every member of MS&A be available for the entire duration of office hours.
+
+The rotation is:
+
+- Robert 
+- David
+- Jerome
+- Djordje
+
+
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
 
 <div class="flex-row" markdown="0">
