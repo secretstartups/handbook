@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Product Usage Data in Gainsight"
-description: "Effective ways to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
+title: "Using Product Usage Reporting in Gainsight"
+description: "Effective ways to apply product usage reporting for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -17,17 +17,17 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 
 ## Purpose
 
-To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns.
+To guide users in how to use the customer's product usage reporting within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns.
 
-For a richer explanation of the purpose and intended outcomes, see the [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
+For a richer explanation of the purpose and intended outcomes, see the [Product Usage Reporting Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
 
-For the overall 3-year vision, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.p) (internal GitLab document). 
+For the overall 3-year vision, see [Product Usage Reporting Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.p) (internal GitLab document). 
 
 ## Videos
 
-For a high level overview (7 minutes), see `Using Product Usage Data in Gainsight - Introduction` video.
+For a high level overview (7 minutes), see `Using Product Usage Reporting in Gainsight - Introduction` video.
 
-- [Using Product Usage Data in Gainsight - Introduction](https://youtu.be/bny-SoH-MNc)
+- [Using Product Usage Reporting in Gainsight - Introduction](https://youtu.be/bny-SoH-MNc)
 - [What is Product Usage Reporting and Health Scoring and How to Find it in Gainsight](https://www.youtube.com/watch?v=H6l3_AmQif8)
 - [How to Find License Utilization and What it Means in Gainsight](https://www.youtube.com/watch?v=Mezt6knBxI0)
 
@@ -45,15 +45,15 @@ For a high level overview (7 minutes), see `Using Product Usage Data in Gainsigh
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Customer Use Case Health Scoring</a>
-<a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Using Gainsight Data <br> in Salesforce</a>
+<a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Using Gainsight Usage Reporting <br> in Salesforce</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">License Utilization <br> in Gainsight</a>
 <a href="/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard <br> Attributes and Calculations</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">SaaS Free/Trial <br>Usage Data</a>
-<a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Product Usage Data FAQs</a>
+<a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">SaaS Free/Trial <br>Usage Reporting</a>
+<a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Product Usage Reporting FAQs</a>
 </div>
 
 
@@ -61,7 +61,7 @@ For a high level overview (7 minutes), see `Using Product Usage Data in Gainsigh
 
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts. However, when on the Account C360 page, these topics are most relevant for evaluating usage:
+Use the [Product Usage Reporting - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts. However, when on the Account C360 page, these topics are most relevant for evaluating usage:
 
 | Report Name | Description | Application |
 | ------ | ------ | ------ |
@@ -76,11 +76,11 @@ There will be several limitations with the MVC deployment; however, as you come 
 
 | Topic | Description | Questions to Address | References |
 | :--- | --- | --- | --- |
-| **Understand my customer's basic usage** | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data. <br> Use this to see all instances and namespaces related to your account (Production and non-Production) and their activity. <br> **Note** : This only works for instances that are tied to an active subscription. | - Who is sending us their service ping data? <br> &bull; Are they sending Production data? <br> &bull; Is their activity in line with my expectations? <br>&bull; Does the activity found in the product usage data agree with what I know about their usage? | <br>&bull; [VIDEO: Using Product Usage Data in Gainsight - Introduction](https://www.youtube.com/watch?v=bny-SoH-MNc)<br> &bull; [VIDEO: What is Product Usage Data and How to Find it in Gainsight](https://youtu.be/H6l3_AmQif8) |
+| **Understand my customer's basic usage** | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their usage data. <br> Use this to see all instances and namespaces related to your account (Production and non-Production) and their activity. <br> **Note** : This only works for instances that are tied to an active subscription. | - Who is sending us their service ping data? <br> &bull; Are they sending Production data? <br> &bull; Is their activity in line with my expectations? <br>&bull; Does the activity found in the product usage data agree with what I know about their usage? | <br>&bull; [VIDEO: Using Product Usage Data in Gainsight - Introduction](https://www.youtube.com/watch?v=bny-SoH-MNc)<br> &bull; [VIDEO: What is Product Usage Data and How to Find it in Gainsight](https://youtu.be/H6l3_AmQif8) |
 | **C360: Instance and Namespace Details** | To better support my customer, I need to know what GitLab version they're on so I can help them upgrade or patch their self-managed instance. | <br>&bull; What version(s) are my customers on?<br>&bull; If multiple instances, how do I know which instance is on which version?<br>&bull; What is their namespace? | C360: Instance and Namespace<br><br> Product Usage Data Dashboard (`Self Managed Instances - Current GitLab Version Details` report) |
 | **How many licenses has my customer deployed?** | Understand my customers' License Utilization (see above) to know how many licenses have been deployed  `billable_user_count/licensed seats`. <br> For example, a customer may have purchased 200 licenses and have only deployed 80 after 9 months. | <br>&bull; What trends can I see?<br>&bull; How do I understand my customer's License Utilization? | <br>&bull; [VIDEO: How to Find License Utilization and What it Means in Gainsight](https://youtu.be/Mezt6knBxI0)<br>&bull; C360: User Adoption Metrics<br>&bull; Product Usage Data dashboard<br>&bull; [License Utilization Handbook](/handbook/customer-success/product-usage-data/license-utilization/)<br>&bull; [VIDEO: Using Product Usage Data in Gainsight - Introduction](https://www.youtube.com/watch?v=bny-SoH-MNc) |
 | **Understand my customer's GitLab adoption** | Know the metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption.<br> Use the [Use Case Adoption guide](/handbook/customer-success/product-usage-data/use-case-adoption/) for specific definitions around whether a customer has adopted a specific stage. <br> See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. | <br>&bull; Which use cases has my customer adopted?<br>&bull; To what degree have they adopted?<br>&bull; Which features of each use case have they adopted?</li><li>Does feature adoption align to customer purchase intent? | C360: Scorecard<br><br>Product Usage Data dashboard |
-| **How do I understand the health score with Product Usage Data?** | Use Gainsight for a quick, high level roll-up of the customer's adoption per use case. Use it to identify if the customer is on track for each GitLab use case. |<br>&bull; My customer’s Use Case health is red, yellow, or green — how is that calculated?<br>&bull; How is Product Usage Data weighted?<br>&bull; What is "good" health? | [Use Case Adoption methodology](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)<br><br>[Health Score Measure Weightings](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#enterprise)<br><br>[VIDEO: What is Product Usage Data and How to Find it in Gainsight](https://youtu.be/H6l3_AmQif8)<br><br>[Product Usage Data v2 dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) |
+| **How do I understand the health score with Product Usage Reporting?** | Use Gainsight for a quick, high level roll-up of the customer's adoption per use case. Use it to identify if the customer is on track for each GitLab use case. |<br>&bull; My customer’s Use Case health is red, yellow, or green — how is that calculated?<br>&bull; How is Product Usage Data weighted?<br>&bull; What is "good" health? | [Use Case Adoption methodology](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)<br><br>[Health Score Measure Weightings](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#enterprise)<br><br>[VIDEO: What is Product Usage Reporting and How to Find it in Gainsight](https://youtu.be/H6l3_AmQif8)<br><br>[Product Usage Data v2 dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) |
 
 <br>
 
@@ -92,7 +92,7 @@ For specifics on Use Cases and their health methodology, see [Use Case Adoption]
 
 ## Using Gainsight Data in Salesforce
 
-A variety of product usage data points are pushed back from Gainsight to Salesforce. To see a complete list of customer health related fields that are synced back from Gainsight to Salesforce, please review [Customer Health](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/#customer-health) within the [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/) page.
+A variety of product usage statistics are pushed back from Gainsight to Salesforce. To see a complete list of customer health related fields that are synced back from Gainsight to Salesforce, please review [Customer Health](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/#customer-health) within the [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/) page.
 
 <br>
 
@@ -140,7 +140,7 @@ See our technical documentation for our [instance of Gainsight's Adoption Explor
 
 ### User and Project Adoption Metrics
 
-See User & Project Adoption Metrics tab on [Product Usage Data for Gainsight Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=650262484) for calculated metrics.
+See User & Project Adoption Metrics tab on [Product Usage Reporting for Gainsight Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=650262484) for calculated metrics.
 
 
 ## Data
@@ -187,11 +187,11 @@ When they activate with Cloud Licensing, customers share `Subscription Data`, wh
 
 ##### Service Ping (self-managed)
 
-We utilize Service Ping to derive self-managed customer usage data. For more details, see [Service Ping FAQs](/handbook/customer-success/csm/service-ping-faq/). Any references to "Service Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
+We utilize Service Ping to derive self-managed customer usage reporting. For more details, see [Service Ping FAQs](/handbook/customer-success/csm/service-ping-faq/). Any references to "Service Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
 
 ##### SaaS (Snowplow)
 
-SaaS customer data is in Gainsight and collected via the Snowplow collector.
+SaaS customer usage is in Gainsight and collected via the Snowplow collector.
 
 ##### Mapping Licenses to Subscriptions
 

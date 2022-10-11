@@ -73,7 +73,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Success Planning and Outcome Delivery
 
-- When a TAM is engaged, the usage data will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
+- When a TAM is engaged, the usage stats will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
 - In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](/handbook/customer-success/csm/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey. 
 
 #### Onboarding
@@ -85,13 +85,13 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on operational data. Depending on the adoption progress, resulting actions could be:
   - TAM may provide enablement content (product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
   - TAM engages with customers to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
-  - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage data.
+  - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage statistics.
   - When mature adoption of desired use case(s) is complete, we may recommend additional use cases or capabilities that would provide added value to the customer. 
 - The customer's services usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
 
 #### Process and Playbooks
 
-- The quality of key engagement processes and playbooks like onboarding, adoption, and expansion will be measured by usage data to determine if changes drive desired improvements with customer adoption. Some objects may include: 
+- The quality of key engagement processes and playbooks like onboarding, adoption, and expansion will be measured by usage stats to determine if changes drive desired improvements with customer adoption. Some objects may include: 
   - Accelerating time-to-value and time to mature adoption of use cases
   - Improving speed or sequence of adopting features and capabilities
   - Improving customer experience and satisfaction
@@ -106,13 +106,13 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 #### Marketing
 
 - Identify and market to community users who could get additional value from paid subscription tiers
-- Utilize usage data from customers to provide contextually relevant content and lifecycle marketing campaigns
+- Utilize usage stats from customers to provide contextually relevant content and lifecycle marketing campaigns
 
 ### Metrics
 
-- [Time-to-First Value](/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case data in the future
+- [Time-to-First Value](/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case stats in the future
 - [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
-- [xMAU](/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage data and is a key performance indicator (KPI) for the Product Team
+- [xMAU](/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage stats and is a key performance indicator (KPI) for the Product Team
 - Use case expansion playbook success will be measured by customer use case adoption
 - Use case health score will leverage use case adoption (scored as minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
 - Customer health scores (planned) will leverage use case health scores. This is used to analyze and understand the customer's overall health through engagement and depth of deployment. This will also leverage other inputs like support cases and NPS/customer sentiment surveys.

@@ -22,7 +22,7 @@ The Customer Health Score assists GitLab Account Teams in understanding the rela
 
 ## Scoring Methodologies
 
-Product usage data informs three different scores. They each have a distinct and separate purpose, are meant for different audiences, and use different metrics.
+Product usage statistics inform three different scores. They each have a distinct and separate purpose, are meant for different audiences, and use different metrics.
 
 | Name | Purpose | Audience | Metrics | Notes |
 | ----- | ----- | ----- | ----- | ----- |
@@ -83,9 +83,9 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 
 The Account Health Score does and will include many factors with different weightings per group and per individual measure with the goal being a multi-perspective approach, measuring what matters to the customer, and measuring the features that they have access to and can utilize. 
 
-<u>Note</u>: if data is missing for any health measure, it is counted as `NULL` instead of a value (i.e., red).
+<u>Note</u>: if stats are missing for any health measure, it is counted as `NULL` instead of a value (i.e., red).
 
-<u>Tier-based Product Usage Data</u>: will evaluate the customer’s usage based on their current tier and feature access. For example, if a customer is on Premium, we will base their health on Premium-level features to understand their level of adoption. If their health is red or yellow, it signifies risk. If green, it can signify expansion or flat renewal.
+<u>Tier-based Product Usage Stats</u>: will evaluate the customer’s usage based on their current tier and feature access. For example, if a customer is on Premium, we will base their health on Premium-level features to understand their level of adoption. If their health is red or yellow, it signifies risk. If green, it can signify expansion or flat renewal.
 
 <u>Leading and lagging indicators</u>: Some metrics are more leading or lagging indicators. While we will lean toward a predictive solution, lagging metrics are incorporated to assess past performance.
 
@@ -97,7 +97,7 @@ The following graph (Early Warning Segmentation Framework) is used to provide a 
 
 # Success Criteria
 
-For a fuller list of the project roadmap, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gbc45c07eca_0_135).
+For a fuller list of the project roadmap, see [Product Usage Reporting Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gbc45c07eca_0_135).
 
 ## FY23
 
