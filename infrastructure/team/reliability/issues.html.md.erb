@@ -83,9 +83,16 @@ Corrective actions and security issues labeled as `~"corrective action"` or `~"s
 For these issues, `severity::*` labels are set to meet specific SLOs.
 
 - For security issue see the [Time to resolve table by severity](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)
-- For corrective actions see [SLOs set by the Quality department](/handbook/engineering/quality/issue-triage/#severity-slos)
+- Corrective Actions SLOs are currently based on definitions from [Quality](/handbook/engineering/quality/issue-triage/#severity-slos):
 
-For issues labeled with `~"security"` and `~"corrective action"` we do not use the `~"priority::*"` labels, if added they will be removed. Please use the `Reliability::P*` labels instead.
+| Corrective Action Label | SLO (days after issue has been created) |
+| ------ | ------ |
+| severity::1 | 1 week |
+| severity::2 | 30 days |
+| severity::3 | 60 days |
+| severity::4 | 90 days |
+
+**Note**: For issues labeled with `~"security"` and `~"corrective action"` we do not use the `~"priority::*"` labels, if added they will be removed. Please use the `Reliability::P*` labels instead.
 {: .alert .alert-info}
 
 ### Labels
