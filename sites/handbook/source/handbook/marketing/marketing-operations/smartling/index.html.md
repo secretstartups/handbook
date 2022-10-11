@@ -16,7 +16,7 @@ description: "Smartling is our localization platform that is used to translate p
 
 ## Uses
 
-Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral. The [global content team](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) is primarily responsible for our [localization](https://about.gitlab.com/handbook/marketing/localization/) initiatives and translations. Follow our progress for fully rolling out Smartling in this [epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1405). 
+Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral. The [integrated marketing team](https://about.gitlab.com/handbook/marketing/demand-generation/) is primarily responsible for our [localization](https://about.gitlab.com/handbook/marketing/localization/) initiatives and translations. 
 
 ## Support
 
@@ -47,7 +47,7 @@ Smartling is our localization platform that is used to translate pages on our we
 1. [Respond to Issues](https://help.smartling.com/hc/en-us/articles/115004480513)
 1. [Supported File Types](https://help.smartling.com/hc/en-us/articles/360007998893-Supported-File-Types)
 1. [Localization Terminology](https://help.smartling.com/hc/en-us/articles/115004194054-Localization-Terminology-)
-1. [Standard and rush delivery turnaround times for translation jobs](https://drive.google.com/file/d/1LE1tkqoS3fRanIs5D0eq11zwisGfDOV5/view?usp=sharing)
+1. [Standard turnaround times for translation jobs](https://drive.google.com/file/d/1atIW9HGWBnJ7_P-7bKu7wGaFAuGRbBWi/view?usp=sharing)
 
 ## Roles
 
@@ -58,7 +58,16 @@ Smartling is our localization platform that is used to translate pages on our we
 
 See more details on [Smartling's help article](https://help.smartling.com/hc/en-us/articles/115003066573-User-Permissions) regarding user permissions. 
 
+#### Access to Smartling
+To request access to Smartling, [open an access request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).
+
+In your request, be sure to indicate if you need access to submit jobs for translation, or if you will be an internal reviewer. Standard access for job submission is granted as a `Project Manager` to allow you to authorize your jobs. Internal Reviewers are granded `Translation Resource` access. 
+
+Smartling does not allow one account to request translation and review translations. If you will be doing both, indicate that in your request as two accounts are required.
+
 ## Supported Languages
+
+Our current contract with Smartling allows access to any language we require. However, we only have the following languages set-up. If additional languages are required, open an issue for Marketing Ops and it will be reviewed.
 
 1. French (Europe)
 1. German
@@ -71,23 +80,19 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 
 ## Translation Costs and SLAs
 
-Any assets being translated into the supported language pairs will need to be allocated from the requester team's budget. At the end of each month, Marketing Ops will split the invoice by team and finance will charge the relevant team by that amount.
+Translation costs are managed from a centralized budget. Please [document](https://docs.google.com/spreadsheets/d/1807MsKzy3CxnO8jpWp38bNhfFHB5GafgUg2tULtwK5Q/edit#gid=0) your requests and submissions so we can track them against the available budget. If you are planning a large translation job (more than $3k based on Smartling in-platform estimates), please ask for assistance in the `#mktgops` Slack channel. 
 
-Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. 
-
-Please use the follow naming convention: `Language Abbreviation - Campaign Name or Name of Asset - FYFQ - DRI or Team`. This is only applicable to the `Documents` and `Marketo` projects as the `GDN` and repo connector job submissions are handled differently. Where possible, please include as much detail as you can. The assets submitted through the `Marketo` project will have an auto-generated name due to the connector. Once your Marketo job shows up in the Smartling UI, click into the job and rename it according to the naming conventions above. It is important to follow these standard naming conventions so finance can accurately allocate translation costs across teams. 
-
-### Per-Word Rates
-
-You can access the per-word rates by language in [this Google sheet](https://docs.google.com/spreadsheets/d/1ZRZkfvboxwc-TPUCPvdn8-M_DvGNEGRcwfbxIvSpXMM/edit#gid=0). **Do not share these rates publicly.**
+Please use the follow naming convention: `Language Abbreviation - Campaign Name or Name of Asset - FYFQ - DRI or Team`. This is only applicable to the `Documents` and `Marketo` projects as the `GDN` is handled differently. Where possible, please include as much detail as you can. The assets submitted through the `Marketo` project will have an auto-generated name due to the connector. Once your Marketo job shows up in the Smartling UI, click into the job and rename it according to the naming conventions above. It is important to follow these standard naming conventions so finance can accurately allocate translation costs across teams. 
 
 ### Cost Estimate
 
-Total word count (word count of the source file/language, not the translated file/language) multiplied by the per word rate (rate differs based on language) minus discounted rates from matches on previous translations (repetitions).
+Total word count (word count of the source file/language, not the translated file/language) multiplied by the per word rate (rate differs based on language) minus discounted rates from matches on previous translations (repetitions). You can view the cost estimate for your job in Smartling before you authorize it for translation. You will record this number in the tracker above.
 
-### Due Date
+### Due Dates
 
-Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
+There are two `Due Date` fields in Smartling. 
+- `SLS Due Date` is the date the translator is expected to be done with the translation. You cannot edit this date. 
+- `Overall Job Due Date` is the date that you expect internal review and DTP (if applicable) to be complete.  
 
 ## Using Smartling 
 
@@ -97,9 +102,31 @@ Smartling categorizes translation jobs by the integration type (Marketo, documen
 1. **SMARTLING LANGUAGE SERVICES (WITH IR)**: This workflow is the default for all languages. After the asset is translated, it will go to an internal review step to be performed by one of our internal reviewrs. They will review and if happy with the translated, publish the asset. Please check [here](https://about.gitlab.com/handbook/marketing/localization/#process-for-requesting-a-review-via-smartling) for our list of internal reviewers and how to notify them of a job.
 1. **DTP**: This workflow will send your asset to a designer in Smartling and they will format your assets. Before going to DTP, it will be reviewed by an internal reviewer. Please see [below](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files) for more information on this process.
 
-**Field Marketing use of Smartling**
+## Internal reviews
+Detailed instructions and expectations for reviewers can be found on the [Smartling Reviewers](/handbook/marketing/marketing-operations/smartling/smartling-reviewers/) page.
 
-For information on how Field Marketing uses translations, please head to [that page](/handbook/marketing/field-marketing/#fmm-localization-process).
+#### Process for requesting a review
+If you are using a workflow above that requires internal review, please follow the process below.
+
+1. Submit job in Smartling 
+1. Open a [translation review request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-translation-review)
+1. Complete all requested fields in the issue.
+1. Assign to all potential reviewers for the language you are translating into. You can also send a message to the `#smartling-reviewers` Slack channel to find out who has the time to pick up the job before assigning it.
+1. Reviewers have 24-48 hours to claim the job in Smartling. They will receive a notification from Smartling that there is a new job to accept.
+1. If it’s not claimed, the job requester has right to assign the job to one of the reviewers on the Gitlab issue.
+1. Once it’s ready to review, the reviewer will get an email notification alert them that their job is ready to review (if they accepted it or it was assigned by the requester).
+1. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the job requester know - it would be great if they could also let them know the quality of the translation.
+
+| Language | Reviewers |
+| -------- | --------- |
+| German | @KSetschin, @JulianBede, @jkunzmann, @ddornseiff, @mbrandner1 |
+| Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
+| Japanese | @toshitakaito, @yuki_murakami, @Tea_Tatsuki, @mueda1, @skawaguchi1, @Yohanesses |
+| Korean | @taehohyun, @iyoo, @kko4, @Yohanesses |
+| French | @pgascouvaillancourt |
+| Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla, @lvieiradossantos |
+| Spanish (LATAM) | @jaime, @ricardoamarilla, @lvieiradossantos |
+| Italian | @Valelomby @agulina |
 
 ## Notifications
 
@@ -113,8 +140,7 @@ Projects are organized by the integration type:
 
 1. [Documents](#documents) (.docx, .csv, .idml, .srt)
 1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
-1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
-1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
+1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/160)
 
 ### Documents
 
@@ -181,6 +207,8 @@ When the translation job is complete, Smartling will automatically download thos
 
 The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
 
+A note about translations directly from Marketo: Our experience has been that this is more expensive as strings that you do not need translated are pulled in (for example, tokens, URLS, image names, etc). You can manually exclude these strings, but it is time-consuming. Be aware of this if you use the Marketo Connector and try to exclude strings that do not require translation or submit a file through `Documents` instead if it is a smaller job. If the job is large, the Marketo Connector will save you a significant amount of time. 
+
 <details>
 <summary markdown='span'>
 Request a job in the Marketo project
@@ -191,7 +219,8 @@ Request a job in the Marketo project
 1. From the `Translate` drop down, select the type of Marketo asset you wish to translate (snippets, forms, landing pages, emails, programs). 
 1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
 1. Once you have selected the assets you want translated, click the `Request Translation` button. 
-1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
+1. Select the languages for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
+1. Remove strings that do not need to be translated by using the `Exclude Strings` functionality.
 
 </details>
 
@@ -201,7 +230,7 @@ In the Marketo connector within Smartling, `Translation Progress` will show you 
 
 ## Jobs
 
-Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way. As a result, we recommend opening a job per file type- you can have as many languages on one job as needed.
+Each job is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way. As a result, we recommend opening a job per file type- you can have as many languages on one job as needed.
 
 You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
 
@@ -209,7 +238,9 @@ All saved jobs must be authorized before they are submitted for translation.
 
 ## [CSV](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files)
 
-Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
+Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as a CSV file. This has been successful for many files. 
+
+The other option is to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
 
 ### Directives
 
@@ -241,6 +272,7 @@ The `DTP` workflow in Smartling will format your file to support the new transla
     * Source PDF.
 1. In the "Attachment Description" field, enter the name of the asset and indicate that it is the artwork files. Click `Upload`.
 1. After the job is complete, you will download your files from the `Job Attachments` section in the sidebar of the Job.
+1. If an asset has been designed using Smartling's DTP service, be sure to upload the localized design files to the [translations folder](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/publications/_translations) for our internal design team.
 
 
 ## Attachments

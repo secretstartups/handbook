@@ -328,7 +328,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
   - Outreach
   - ZoomInfo
   - Linkedin Sales Navigator
-  - PathFactory
+  - PathFactory (`author` and `admin` roles)
   - On24
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
   - Terminus (formerly Sigstr)

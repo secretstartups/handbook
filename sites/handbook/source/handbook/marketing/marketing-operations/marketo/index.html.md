@@ -19,9 +19,28 @@ description: "Marketo is our marketing automation platform used for email market
 
 [Marketo](https://www.marketo.com/) is our marketing automation platform used for email marketing, lead management, and program management. 
 
+
+
+## Marketo Tech Stack Guide
+
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+
+<% data.tech_stack.each do |stack| %>
+<% if stack.title == "Marketo" %>
+- **Description:** <%= stack.description %>
+- **Provisioner:** <%= stack.provisioner %>
+- **Deprovisioner:** <%= stack.deprovisioner %>
+- **Okta Enabled:** <%= stack.need_move_to_okta %>
+- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
+<% end %>
+<% end %>
+
+
+### Integrations
+
 To see the different systems that are connected to Marketo, please visit the [Marketo System Infrastructure Mapping Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1604947309706/7aec5684a2fa4671823c5acd352348b04562950f).
 
-### Marketo <> Salesforce.com Connection
+#### Marketo <> Salesforce.com Connection
 
 When any lead/contact is created in SFDC, it will automatically sync and create in Marketo - nothing is held back. Likewise, when a lead/contact is deleted in SFDC, it will delete in Marketo as well. Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to. 
 
@@ -41,13 +60,13 @@ Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be c
 
 When large updates are made to SFDC, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
 
-## Custom Sync Rules with Salesforce
+#### Custom Sync Rules with Salesforce
 Because certain processes create records with a blank email address in SFDC we want to avoid having those records flowing into Marketo since they are not actionable and the database has increasing costs per the number of records.
 
 Together with Sales Systems, we implemented a custom formula field called `Block_Marketo_Sync__c`. When the field is checked, records will be blocked from syncing by the custom sync rule. Likewise, when the field is unchecked, it will flow to Marketo.
 
 
-## Multi-thread Sync
+### Multi-thread Sync
 
 To avoid or clear SFDC backlogs, multi-thread sync is availible to use in Marketo. It enables the use of multiple lanes of data flowing from SFDC to Marketo, greatly increasing the sync rate depending on the resources availible on the Marketo servers. Each record in Marketo is marked with a value between `1-9` on the field `Marketo Thread ID` based on the first letter of the email address. Records will be synced and distributed on threads based on the value of `Marketo Thread ID`.
 
@@ -136,9 +155,9 @@ dataLayer.push(
 
 Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo. 
 
-1. [Marketing Contact Datamart & Pump](https://internal-handbook.gitlab.io/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart)
-
-2. [SaaS Trial & Handshakes](https://internal-handbook.gitlab.io/marketing-operations/product-data/#saas-trials--handraise) 
+1. [Marketing Contact Datamart & Pump](https://internal-handbook.gitlab.io/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
+2. [SaaS Trial & Handshakes](https://internal-handbook.gitlab.io/marketing-operations/product-data/#saas-trials--handraise) : Fields start with `[PQL]`
+3. [Propensity to Buy Models](): Fields start with [PTPT] - TBC
 
 ### Campaign Limits
 
@@ -276,7 +295,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+10|	{{my.Function - Low}}	|	Trigger on creation or Update to Title|	Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-20	|{{my.Function - Negative}}		|Trigger on creation or Update to Title|	Once|
 
-|Country - P0, P1|[Country = P0, P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
+|Country - Tier 1, Tier 2 |[Country = Tier 1, Tier 2](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 
 ## Lists and Segmentation
 
@@ -353,11 +372,11 @@ The following segmentations that are approved and live.
 
 Complete list of priority countries as found [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6648).
 
-- P0
-- P1
-- P2
-- P3
+- Tier 1
+- Tier 2
+- Tier 3
 - Embargoed
+- Default
 
 </details>
 

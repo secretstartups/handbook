@@ -63,6 +63,17 @@ Please note, you will not be able to access these trainings until you have an ON
 - [ON24 Knowledge Center](https://on24support.force.com/Support/s/knowledge)
 - [ON24 Office Hours](https://training.on24.com/office-hours-webinars?next=%2Foffice-hours-webinars%2F869178) 
 
+## Things to know
+
+- Customize your webcast list view by using the 3 vertical lines as seen in the screenshot. Use this to see additional webcast information
+-  Reminder emails, follow up emails and registration emails are all being handled by Marketo at this time. We may consider a different workflow as we become more accustomed to the platform
+
+## Use of tags
+
+We will add additional tags as we progress with the platform. Current tags in use:
+  - `DO NOT USE`: self- explanatory hopefully 
+  - `Template`: Use this webcast when cloning a new webinar event
+
 ## Customizing Your CTA
 
 Each ON24 Console Templates will have a placeholder for a CTA. It is up to the DRI for the webcast to decide what the CTA is. In order to customize the CTA, following these steps:
@@ -71,8 +82,9 @@ Each ON24 Console Templates will have a placeholder for a CTA. It is up to the D
 1. If you have not already, create a copy of the console template you wish to use by clicking the `create copy` icon on the right side of the page
 1. Once you've created the copy, add the details of your webcast in the `Overview` section. Then select `Console Builder` from the left hand menu
 1. Once in the console, click on the `CTA Placeholder` icon from the bottom menu. This icon looks like a pointer finger with signal bars above it. You will see `CTA Placeholder` when you hover over it. 
-1. When the `CTA Placeholder` wdget opens in the console, click on the gear in the right hand corner of the widget window. 
+1. When the `CTA Placeholder` widget opens in the console, click on the gear in the right hand corner of the widget window. 
 1. Click on `Attributes`. Update the `Name` field and select/deselect any of the options as needed. 
+  1. Use one of this four options: `Talk to an Expert`, `Talk to Sales`, `Contact Us` or `Request a Demo`.
 1. Click the gear again and select `Configuration`. Update the `Text`, `Button Text`, and `URL`. 
 
 All changes are auto-saved. 
@@ -155,4 +167,34 @@ Follow these steps to apply a console template:
 4. When applying a console template, all setting and tools from the saved template will override the existing console. A confirmation dialogue will pop-up to prevent you from accidentally wiping out your current console.
 
 ![confirmation dialogue screenshot](/handbook/marketing/marketing-operations/on24/confirmation-screenshot.jpeg) 
+
+### Connecting On24 Web Events to Marketo Programs
+
+After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo.
+1. From the previous event set up, please be sure to have the `Event ID` and `Audience URL` handy.
+1. Navigate to the Marketo template folder `Templates On24 - Webcast`. Located in this folder is the program template `YYYYMMDD_EventName_EventType_On24_template`. Make a copy of this program template in the appropriate folder.
+1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `Added to ON24 Attendee` trigger filter:
+    1. 04 On24 Processing - Attended
+    1. 04 On24 Processing - Follow Up Requested
+    1. 04 On24 Processing - No Show
+    1. 04 On24 Processing - On Demand
+1. Next activate the following smart trigger campaigns:
+    1. 01 Registration Flow (choose single or multi)
+    1. 00 Interesting Moments
+    1. 01a Registration flow (single timeslot) or 01b Registration Flow (Multi-timeslot)
+    1. 04 On24 Processing - Attended
+    1. 04 On24 Processing - Follow Up Requested
+    1. 04 On24 Processing - On Demand. 
+        - Only activate this smart campaign if it is appropriate for the webinar, such as in the event the webinar will be left available for on-demand viewing. 
+    1. 04 On24 Processing - No Show. 
+        - No Show will not be activated as a trigger, but as a batch campaign scheduled to run 6 hours after the event.
+1. Unlike other tools, the On24 room and Marketo program do not need to be connected via the `Event Partner` field on the Marketo program. All data transfer is done via the `Event ID` and smart campaigns.
+1. Update the program tokens as needed within the program. Important tokens to review:
+  - `my.webcastDate`, `my.webcastTitle` and `my.event location` are standard to update.
+  - `my.on24URL`: This token needs to be updated as upon registration the registrant is sent an automatic email with the Audience URL attached to this token.
+  - `my.On24password`: Update this with the webinar password. If no password was set up in the console, completely remove token from `registration confirmation` email as it is not necessary.
+  - `my.bullet1` - `my.bullet4` may appear on the `registration confirmation` email so be sure to update either the tokens or the email template to accommodate 
+  - Update others as needed
+1. Please note the `Registration Flow` smart campaigns will send out the `Audience URL` for the event and have tokens arranged to share event passwords.
+
 

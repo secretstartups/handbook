@@ -8,6 +8,30 @@ description: "This page is a dedicated resource for Smartling internal reviewers
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Translation Internal Review Process
+All Smartling reviewers should be a member of the `#smartling-reviewers` Slack channel. 
+
+To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Below are some expectations, as we will sometimes have hard deadlines to try to hit.
+
+Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. However, reviewers may want provide preferred translations during the review process and they are welcome to do so. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator.
+
+**Guidelines for reviewers**
+
+1. Identify copy mistakes.
+1. Identify areas where the context did not translate well and needs more attention.
+1. Identify words or phrases that should **not** be translated.
+1. If by the second page it is clear that the translation is too poor to be used, stop reading and let the requestor know that translation is not usable and should be resumbitted.
+
+**Timeframe guideline for reviewers**
+
+1. Stay in communication with the job requester - if you will be delayed reviewing a job please make sure to update the job requester. 
+2. If you are tagged in a review issue along with others, please respond ASAP with if you have the bandwidth to take on the job. 
+3. If you have claimed a job in Smartling, please complete the review in 5 - 7 business days. Delays are fine, as mentioned above, just stay in communication with the job requester. 
+4. If you have trouble with Smartling, please put your question/issue into the slack channel: `#mktgops` and tag the job requester. 
+
+## How will you be notified of jobs?
+Please see the [internal review request process](/handbook/marketing/marketing-operations/smartling/) and [Notifications](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/smartling-reviewers/#notifications).
+
 ## Smartling Reviewer Platform
 
 As you log onto the platform, you will be on your jobs page. There are three important side bars on this page:

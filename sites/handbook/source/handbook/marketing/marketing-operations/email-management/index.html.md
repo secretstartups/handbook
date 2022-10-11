@@ -39,6 +39,19 @@ At GitLab, we strive to communicate with people in a way that is beneficial to t
 
 Each form will have the appropriate opt-in language specifid. However, to check you may [visit here](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing).
 
+### Email filters
+All email sends must use the relevant `Emailable` Smart List. This is in addition to filters to address the relevant audience.
+- [SSOT - WEBCASTS EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52991024A1) 
+- [SSOT - LIVE EVENTS EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52991025A1)
+- [SSOT - NEWSLETTER EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52991026A1)
+- [SSOT - EDUCATION NEWSLETTER EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52991027A1)
+- [SSOT - ALL EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52996261A1)
+- [NURTURE EMAILABLE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52969344A1)
+
+To apply these filters in your Smart List in Marketo, select `Member of Smart List` and use the filter:  `Member of Smart List in [select the appropriate emailable list from above]`.
+
+You do not need to use the compliance segmentation in Marketo in your email sends, only the Smart Lists above as the segments are incorporated into the Smart Lists.
+
 ### Localized email footer snippet
 We have a [Localized email footer snippet](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SN15Z1B2ZN16) that can be used on localized email. This footer will include our standard unsubscribe and preference center in the language preferred by the person being emailed, based on their language preference segment. To add this footer to a nurture email (instructions are the same for most emails on the modular template):
 - Delete the existing footer section by clicking the Settings button on the section
