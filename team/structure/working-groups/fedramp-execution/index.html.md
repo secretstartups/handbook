@@ -29,11 +29,12 @@ This working group will organize all the domain experts needed, surface critical
 
 | Working Group Role             | Team Member     | Functional Title                           |
 |--------------------------------|-----------------|--------------------------------------------|
-| Facilitator                    | Johnathan Hunt  | VP of Security                             |
+| Facilitator                    | Julia Lake      | Sr. Director, Security Assurance           |
 | Functional Lead: PM            | Connor Gilbert  | Sr. Product Manager, Secure:Static Analysis |
 | Functional Lead: Pub Sec       | Bob Stevens     | Area Vice President, Public Sector Sales   |
-| Functional Lead: Compliance    | Julia Lake      | Director, Security Assurance               |
-| Executive Stakeholder          | Eric Johnson    | Chief Technology Officer                   |
+| Functional Lead: Infrastructure | Stephen Dumesnil | Engineering Manager, US Public Sector Services   |
+| Functional Lead: Compliance    | Corey Oas       | Manager, Security Compliance, Dedicated Markets |
+| Executive Stakeholder          | David DeSanto  | VP, Product                       |
 | Member                         | Jim Riley       | Federal ASM, Public Sector Sales           |
 | Member                         | Chris Maurer    | Public Sector Manager, Customer Success    |
 | Member                         | Vincy Wilson    | Quality Engineering Manager, Fulfillment, Growth, Sec, Enablement |
