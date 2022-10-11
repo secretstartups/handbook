@@ -6,123 +6,41 @@ description: Handbook page for localization processes.
 
 ## Introduction
 
-This page contains guidelines for localization at GitLab. This page is maintained by the Global Content team.
+This page contains guidelines for localization at GitLab. This page is currently maintained by the Marketing Operations team.
 
 ## Overview
 
-GitLab is a global company that does business around the world. In order to best serve our global customers, we localize our content and campaigns into native languages.
+GitLab is a global company that does business around the world. In order to best serve our global customers, we localize some of our content and campaigns into native languages.
 
 ## Current State
 
-Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our P0 countries. Additionally, we are enabling our field marketing teams to get lighweight translations that don't require internal development or design resources.
+Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We use [Smartling](/handbook/marketing/marketing-operations/smartling/) for translation, and to date, most translations have focused on eBooks, landing pages, emails, digital marketing advertisements, and partner marketing materials.
+
+**Field Marketing use of Smartling**
+
+For information on how Field Marketing uses translations, please head to [that page](/handbook/marketing/field-marketing/#fmm-localization-process).
 
 ### Internal Reviews
 
-To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Below are some expectations, as we will sometimes have hard deadlines to try to hit.
-
-Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. However, reviewers may want provide preferred translations during the review process and they are welcome to do so. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator.
-
-**Guidelines for job requesters**
-
-1. State any specific deadlines or expected SLAs in the review request issue.
-1. Stay in communication with internal reviewer about expectations and deadlines.
-
-**Guidelines for reviewers**
-
-1. Identify copy mistakes.
-1. Identify areas where the context did not translate well and needs more attention.
-1. Identify words or phrases that should **not** be translated.
-1. If by the second page it is clear that the translation is too poor to be used, stop reading and let the requestor know that translation is not usable and should be resumbitted.
-
-**Timeframe guideline for reviewers**
-
-1. Stay in communication with the job requester - if you will be delayed reviewing a job please make sure to update the job requester. 
-2. If you are tagged in a review issue along with others, please respond ASAP with if you have the bandwidth to take on the job. 
-3. If you have claimed a job in Smartling, please complete the review in 5 - 7 business days. Delays are fine, as mentioned above, just stay in communication with the job requester. 
-4. If you have trouble with Smartling, please put your question/issue into the slack channel: `#mktgops` and tag the job requester. 
-
-#### Process for requesting a review
-
-1. Open a [translation review request](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
-1. Complete all requested fields in the issue.
-1. Content DRI to assign the reviewer. Reviewers are rotated in the order listed below.
-
-| Language | Reviewers |
-| -------- | --------- |
-| French | @k33g |
-| German | @skraft |
-
-#### Process for requesting a review via Smartling
-
-For some languages, a review step is built within the translation process in [Smartling](/handbook/marketing/marketing-operations/smartling). We have internal reviewers that are trained on Smartling to review and send back to the translators if there are any issues. 
-
-Languages that the Smartling step is enabled for:
-
-1. German
-2. Russian
-3. Japanese
-4. Korean
-
-Internal reviewers for these languages that will review via Smartling:
-
-| Language | Reviewers |
-| -------- | --------- |
-| German | @KSetschin, @JulianBede, @jkunzmann, @ddornseiff, @mbrandner1 |
-| Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
-| Japanese | @toshitakaito, @yuki_murakami, @Tea_Tatsuki, @mueda1, @skawaguchi1, @Yohanesses |
-| Korean | @taehohyun, @iyoo, @kko4, @Yohanesses |
-| French | @pgascouvaillancourt |
-| Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla, @lvieiradossantos |
-| Spanish (LATAM) | @jaime, @ricardoamarilla, @lvieiradossantos |
-| Italian | @Valelomby @agulina |
-
-Please follow the below process for requesting a review but please do so at the same time of opening the Smartling job:
-
-1. Submit job in Smartling
-2. Directly after, create a review issue and tag all the reviewers of language.
-3. Reviewers have 24-48 hours to claim the job.
-4. If it’s not claimed, the job requester has right to assign the job to one of the reviewers on the Gitlab issue.
-5. Reviewer needs to claim the job on Smartling. Once it’s ready to review, they will get an email notification alert them that their job is ready to review
-6. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the job requester know - it would be great if they could also let them know the quality of the translation.
+To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Both translation and reviews are conducted in Smartling, and detailed instructions for internal review can be found on the [Smartling page](/handbook/marketing/marketing-operations/smartling/smartling-reviewers/).
 
 ### Priority Countries
 
-Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: [Priority Country Analysis](https://docs.google.com/spreadsheets/d/14GOJvADjS7R-zonQvx3ejiCgJGsCks3U0IbjwiFChRQ/edit#gid=2086431214&range=A1:L1). 
-
-Our current localization capabilities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lightweight translations that don't require internal development or design resources.
+Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: [Globalization Tracker](https://docs.google.com/spreadsheets/d/14GOJvADjS7R-zonQvx3ejiCgJGsCks3U0IbjwiFChRQ/edit#gid=427771731). 
 
 ### Tools & Capabilities
 
-| Vendor | Capabilities | Access |
-| ------ | ------------ | ------ |
-| Rev | English language transcriptions, foreign language subtitles | Open an access request issue |
-| [Smartling](/handbook/marketing/marketing-operations/smartling) | Localization platform | Open an access request issue |
+| Vendor | Capabilities | How to Access |
+| ------ | ------------ | ------ | 
+| [Smartling](/handbook/marketing/marketing-operations/smartling) | Localization platform | [Instructions for access](/handbook/marketing/marketing-operations/smartling/#access-to-smartling) 
 
 ### Translating content for campaigns
 
-Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. Content marketers are responsible for campaigns that fall within their subject area domain:
+Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. 
 
-| Use Case | DRI |
-| -------- | --- |
-| VCC | TBD |
-| CI | TBD|
-| DevSecOps | TBD |
-| Simplify DevOps/DevOps platform | TBD |
-| GitOps | TBD |
-| CD | TBD |
-| Agile | TBD |
-| Cloud Native | TBD |
+### Language preference segmentation
 
-If an asset has been designed using Smartling's DTP service, be sure to upload the localized design files to the [translations folder](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/publications/_translations) for our internal design team.
-
-### Language preference 
-
-The following language preference segmentations are available in Marketo:
-1. [French](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950653A1)
-2. [German](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950651A1)
-3. [Japanese](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950655A1)
-4. [Korean](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52953988A1)
-5. [Default (English)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950659A1)
+In order to offer content and events in preferred languages where available, we have a `Language Preference` Segmentation created in Marketo. Only Marketing Ops can edit these segments. Available languages for this segmentation can be found on the [Marketo page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations). A person will be added to a `Language Preference` segment if they complete a form on our website or respond to a campaign that was offered in one of the available languages.
 
 ### Translated URL structure
 
@@ -162,13 +80,8 @@ Aleyda Solis maintains a great [tool to build `hreflang` tags](https://www.aleyd
 
 ### List of Localized Websites
 
-| Language | Localized Website | Status |
+| Language | Localized Landing Page | Status |
 | ------ | ------------ | ------ |
 | French | https://about.gitlab.com/fr-fr/ | Live |
 | Japanese | https://about.gitlab.com/ja-jp/ | Live |
 | German | https://about.gitlab.com/de-de/ | Live |
-| Korean | https://about.gitlab.com/ko-kr/ | In progress |
-| Italian | https://about.gitlab.com/it-it/ | In progress |
-| Portugese | https://about.gitlab.com/pt-br/ | In progress |
-| Spanish | https://about.gitlab.com/es-es/ | In progress |
-| Russian | https://about.gitlab.com/ru-ru/ | In progress |
