@@ -347,7 +347,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 5 | Finance| Brian Robins | September 27 |
 | Thursday October 6 | **Available*** | | Key Review Date? |
 | Tuesday October 11 | **Available** | | Key Review Date? |
-| Wednesday October 12 | Remote Development | Eric Schurter | N/A |
+| Wednesday October 12 | **Available** | | Key Review Date? |
 | Thursday October 13 | CRO Group Conversation | Mike Pyle/Michel Isnard | N/A |
 | Tuesday October 18 | Product | Product Leadership | October 13 |
 | Wednesday October 19  | UX | Christie Lenneville | N/A |
@@ -356,7 +356,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 26  | Alliances | Nima Badiey | N/A |
 | Thursday October 27 | Marketing | Marketing Leadership | October 13 |
 | Tuesday November 1 | **Available** | | Key Review Date? |
-| Wednesday November 2 | **Available** | | Key Review Date? |
+| Wednesday November 2 | Remote Development | Eric Schurter | N/A |
 | Thursday November 3 | Security | Johnathan Hunt | October 25 |
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
