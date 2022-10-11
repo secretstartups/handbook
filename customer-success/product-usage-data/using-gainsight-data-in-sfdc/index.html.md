@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Gainsight: Using Gainsight Data in SFDC"
+title: "Gainsight: Using Gainsight Statistics in SFDC"
 description: "This page is intended for the broader GitLab team to know what Gainsight metrics, fields, entries, and other attributes are available to them in Salesforce. Example: With syncing customer health to Salesforce, it is important to know what those fields are and how to use them."
 ---
 
@@ -18,7 +18,7 @@ description: "This page is intended for the broader GitLab team to know what Gai
 ## Overview
 This page is intended for the broader GitLab team to know what Gainsight metrics, fields, entries, and other attributes are available to them in Salesforce. Example: with syncing customer health to Salesforce, it is important to know what those fields are and how to use them.
 
-For more information on general Product Usage Data, see [Using Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
+For more information on general Product Usage Reporting, see [Using Product Usage Reporting in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
 
 ## Account
 ### Customer Attributes
@@ -26,7 +26,7 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 | Field Name | Description | Best Practices | Reference |
 |:---|:---|:---|:---|
 | [GS] Customer Conversion Source  | The purpose is understanding where the customer came from — this is about sourcing (e.g., marketing/SDR'ing as an analogy). | During customer onboarding, these fields should be filled out in Gainsight. | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/) |
-| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License data is in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.<br>Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) |
+| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License stats are in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License stats are not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.<br>Required TAM action: confirm Cloud License stats are in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) |
 | [GS] Geo? | Is your customer using Geo? Manually filled by the TAM |  | [Link](https://about.gitlab.com/solutions/geo/) |
 | [GS] GitLab Issue Link | Account related Gitlab Issue(s) |  |  |
 | [GS] Google Doc Notes | Google Doc Notes URL Manually filled by the TAM |  |  |
@@ -53,7 +53,7 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 | [GS] Health: CI  | Automated scoring of the customer’s usage of the CI use case. See Handbook for details | Helpful indicator to know if the customer is using CI across their team. Since CI is a sticky feature in GitLab, this is a good indicator of risk and strength for an existing customer |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#devops-score)|
 | [GS] Health: DevSecOps  | Automated scoring of the customer’s usage of the DevSecOps use case (applicable only to Ultimate). See Handbook for details | Very important to know if the customer is using Ultimate-level features. Good indicator of downside risk |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#devsecops)|
 | [GS] Health: License Utilization | Health of the customer’s consumption of licenses relative to the number purchased. See Handbook for details | Very helpful to know if the customer is appropriately deploying their purchased licenses. Good warning risk if the customer is red or yellow |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
-| [GS] Health: Overall Product Usage | The summary health of the different product usage data health components, such as License Utilization and use cases | Useful to know how the customer is at adopting the product by seeing an overall usage data score of License Utilization and use cases |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
+| [GS] Health: Overall Product Usage | The summary health of the different product usage health components, such as License Utilization and use cases | Useful to know how the customer is at adopting the product by seeing an overall usage score of License Utilization and use cases |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
 | [GS] Health: SCM | SCM Adoption is measured based on: # of users running merge requests in last 28 days / total licenses soldAutomated scoring of the customer’s usage of the SCM use case. See Handbook for details | Useful to understand the customer’s adoption and usage of SCM as a use case. For example, did the customer buy for SCM and they’re red, or do they not care at all? |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#source-code-management-scm)|
 | [GS] Health Score Value | Account Health Score is an aggregation of key metrics for a multi-perspective view of the customer. Represented as a number between 0-100. |  |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#customer-health-score)|
 | [GS] Overall Health Score  | This is the Overall Health Score Color for this customer as pushed over to SFDC from Gainsight | Good metric to understand how the customer is doing, broadly speaking |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)|

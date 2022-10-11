@@ -159,10 +159,10 @@ Support measures are considered stale if they have not been updated in more than
 
 Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
 
-* Except for CSM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
+* Except for CSM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient stats and inaccurate results, such as Engagement.
 * In instances where a measure is N/A, the percentage weighting will be redistributed to the other health measures.
-   * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, CSM Sentiment...). Heavier weighter measures, such as CSM Sentiment, would receive a bigger allocation because it's already the largest.
-   * Example 2: If we're receiving Product Usage Data but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage Data measures. So CI health would go from, say, 5% to 7%.
+   * Example 1: If all product usage stats are missing, then it's entirely reallocated to the other measures (Engagement, ROI, CSM Sentiment...). Heavier weighter measures, such as CSM Sentiment, would receive a bigger allocation because it's already the largest.
+   * Example 2: If we're receiving Product Usage Statistics but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage stats measures. So CI health would go from, say, 5% to 7%.
 
 
 | Group (PROVE)             | Measure                                                      | Description                                                  | Method           | Calculation                                                  | Measure Weight | Group Weighting |
@@ -240,7 +240,7 @@ An account risk issue should be created in the [Account Triage Project](https://
 
 When an account is in triage, keep the triage issue updated as follows:
 
-- **Red:** All next steps should have an associated date and the update frequency needs to be ahead of expiring due dates.  The minimum update frequency on a red account should be bi-weekly to ensure that data is fresh and focus is not lost.
+- **Red:** All next steps should have an associated date and the update frequency needs to be ahead of expiring due dates.  The minimum update frequency on a red account should be bi-weekly to ensure that usage stats are fresh and focus is not lost.
 - **Yellow:** At a minimum monthly, ahead of pending due dates and as new information is available
 
 If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
