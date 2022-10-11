@@ -148,4 +148,4 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA 
 
-- Steve Ladgrove - currently away - APAC
+- Steve Ladgrove - [appointment schedule](https://calendar.app.google/sno1aJBB9YhQUHXh8) - APAC
