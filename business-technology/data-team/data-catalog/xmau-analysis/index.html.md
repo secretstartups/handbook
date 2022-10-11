@@ -94,10 +94,25 @@ the Service Ping metric .yml files, which are linked in the [Service Ping Metric
 Updates to `performance_indicator_type` for a specific metric will propagate downstream to the
 xMAU charts in Sisense and the internal handbook PI pages.
  
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+**Service Ping-to-xMAU Metric Mappings**
+{: .panel-heading}
+<div class="panel-body">
+
 There should be a 1-1 mapping of Service Ping metrics to xMAU. We cannot dedupe users across
 distinct metrics, so multiple metrics mapped to a single group's GMAU, stage's SMAU, etc will
 lead to double-counting.
-{: .alert .alert-warning}
+
+
+**Edge case:** Currently 2 distinct Service Ping metrics are mapped to Release SMAU. This means 
+that Release SMAU is _not_ a distinct count of users, but rather a sum of users across 2 metrics. 
+This is a temporary solution while we determine if we would like to implement a new metric for 
+Release SMAU. Details on the metrics and the reasoning for the edge case can [be found here](https://gitlab.com/gitlab-data/product-analytics/-/issues/565#note_1066839312). 
+
+</div>
+</div>
  
 ### Service Ping metrics
 
