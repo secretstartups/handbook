@@ -27,78 +27,78 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
 **Note:** See our SEC filings on the SEC's Edgar website for information regarding ARR.
 
 1. Even easier to buy
-  1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
-  1. E-commerce experience => [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
-  1. [Consumption add-ons](https://about.gitlab.com/pricing/)
-  1. Sales efficiency
-    1. [LAM as the top metric](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
-    1. Segmentation
-    1. Non-US revenue
-    1. Channel
-    1. Renewals
-    1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
-  1. [Registration features](/direction/registration-initiatives/
+    1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
+    1. E-commerce experience => [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
+    1. [Consumption add-ons](https://about.gitlab.com/pricing/)
+    1. Sales efficiency
+       1. [LAM as the top metric](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
+       1. Segmentation
+       1. Non-US revenue
+       1. Channel
+       1. Renewals
+       1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
+    1. [Registration features](/direction/registration-initiatives/)
 1. Prove value
   1. Advocate Training
-  1. Advocate Certification
-  1. Standardize customer value data
-  1. [Exec dashboards](https://gitlab.com/gitlab-org/gitlab/-/issues/370887) 
+    1. Advocate Certification
+    1. Standardize customer value data
+    1. [Exec dashboards](https://gitlab.com/gitlab-org/gitlab/-/issues/370887) 
 #registration-features)
 1. Co-create
-  1. [Leading Organizations](/handbook/marketing/community-relations/leading-organizations/)
-    1. Reaching 1000 monthly contributors
-    1. Internal experts at our largest customers
-    1. Ensure customers see it as their own product
-  1. [Dogfooding](/handbook/values/#dogfooding)
-    1. [Professional Services](/services/)
-    1. Information technology service management 
-    1. [Service desk](/stages-devops-lifecycle/service-desk/) 
+    1. [Leading Organizations](/handbook/marketing/community-relations/leading-organizations/)
+      1. Reaching 1000 monthly contributors
+      1. Internal experts at our largest customers
+      1. Ensure customers see it as their own product
+    1. [Dogfooding](/handbook/values/#dogfooding)
+      1. [Professional Services](/services/)
+      1. Information technology service management 
+      1. [Service desk](/stages-devops-lifecycle/service-desk/) 
 
 ### 2) Product: Mature the product
 Build upon our current platform to meet current and future user needs. 
 
 1. Be recognized as the leader in the DevSecOps Platform Category
-  1. [GitHub best in class comparison](/devops-tools/github-vs-gitlab/) and differentiation 
-  1. GitHub Differentiation 
-  1. DIY best in class comparison
-  1. [Plan](/direction/plan/)
-    1. Provide mature planning solution to Ultimate customers
-    1. Custom fields
-    1. Workflow automation
-    1. Great importers
-  1. [Create](/direction/create/)
-    1. Code suggestions 
-    1. Remote Dev 
-  1. [Verify](/direction/ops/#verify)
-    1. Build, test, and deployment automation
-    1. Increase speed
-  1. [Ops](/direction/ops)
-    1. Monitor UI library 
-    1. Agent using environments 
-    1. [GitOps](/topics/gitops/)
-  1. [Incubation engineering](/handbook/engineering/incubation/) 
-    1. [OKRs](/company/okrs/)
-    1. [MLOps](/handbook/engineering/incubation/mlops/)
+    1. [GitHub best in class comparison](/devops-tools/github-vs-gitlab/) and differentiation 
+    1. GitHub Differentiation 
+    1. DIY best in class comparison
+    1. [Plan](/direction/plan/)
+      1. Provide mature planning solution to Ultimate customers
+      1. Custom fields
+      1. Workflow automation
+      1. Great importers
+    1. [Create](/direction/create/)
+      1. Code suggestions 
+      1. Remote Dev 
+    1. [Verify](/direction/ops/#verify)
+      1. Build, test, and deployment automation
+      1. Increase speed
+    1. [Ops](/direction/ops)
+      1. Monitor UI library 
+      1. Agent using environments 
+      1. [GitOps](/topics/gitops/)
+    1. [Incubation engineering](/handbook/engineering/incubation/) 
+      1. [OKRs](/company/okrs/)
+      1. [MLOps](/handbook/engineering/incubation/mlops/)
 1. Scaling
-  1. Dedicated (see ARR strategy pillar for details)
-  1. Free user limits 
-  1. Storage measurement 
-  1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/) 
-  1. Standardize Usage data 
-  1. [Pods](/direction/pods/) 
-  1. Data archival 
-  1. Import sandbox 
-  1. Yubikeys
-  1. Clickhouse sharding 
+    1. Dedicated (see ARR strategy pillar for details)
+    1. Free user limits 
+    1. Storage measurement 
+    1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/) 
+    1. Standardize Usage data 
+    1. [Pods](/direction/pods/) 
+    1. Data archival 
+    1. Import sandbox 
+    1. Yubikeys
+    1. Clickhouse sharding 
 1. Curated experience 
-  1. Fulfillment efficiency (see ARR strategy pillar for details)
-  1. Usability benchmarking 
-  1. Customer Executive Dashboards
-  1. AI removes security dupes 
-  1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
-  1. [DORA documentation](https://docs.gitlab.com/ee/api/dora/metrics.html)
-  1. Snyk migration 
-  1. Duplicate efforts
+    1. Fulfillment efficiency (see ARR strategy pillar for details)
+    1. Usability benchmarking 
+    1. Customer Executive Dashboards
+    1. AI removes security dupes 
+    1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
+    1. [DORA documentation](https://docs.gitlab.com/ee/api/dora/metrics.html)
+    1. Snyk migration 
+    1. Duplicate efforts
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="direction page"}{:data-ga-location="body"}.
 
@@ -106,21 +106,21 @@ More detail on our product strategy can be found on our [direction page](/direct
 Support GitLab team members in excelling within GitLab and beyond. Be a company to externally emulate and have a training impact that extends beyond the wider-community. 
 
 1. Accountability
-  1. [Bias for action](/handbook/values/#bias-for-action)
-  1. [Iteration](/handbook/values/#iteration)
-  1. Fast pace
-  1. [Identifying underperformance early](/handbook/leadership/underperformance/)
+    1. [Bias for action](/handbook/values/#bias-for-action)
+    1. [Iteration](/handbook/values/#iteration)
+    1. Fast pace
+    1. [Identifying underperformance early](/handbook/leadership/underperformance/)
 1. [Increase team diversity](/company/culture/inclusion/)
-  1. Ethnicity
-  1. Gender
-  1. Geo
+    1. Ethnicity
+    1. Gender
+    1. Geo
 1. Great training
-  1. [TeamOps](/handbook/teamops/) 
-  1. [Low voluntary turnover](/handbook/people-group/people-success-performance-indicators/#voluntary-team-member-turnover-rolling-12-months)
-  1. People who leave voluntarily do very well
-  	1. Note: we are confirming our ability to measure this
-  1. [Vision](/company/vision/) 
-  1. GitLab Foundation 
+    1. [TeamOps](/handbook/teamops/) 
+    1. [Low voluntary turnover](/handbook/people-group/people-success-performance-indicators/#voluntary-team-member-turnover-rolling-12-months)
+    1. People who leave voluntarily do very well
+  	  1. Note: we are confirming our ability to measure this
+    1. [Vision](/company/vision/) 
+    1. GitLab Foundation 
 
 As we execute on our strategy, it is important to use our financial targets as guide rails and mature our internal processes for building a durable business for the long-term.
 
