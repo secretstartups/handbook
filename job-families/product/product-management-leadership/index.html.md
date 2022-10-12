@@ -158,7 +158,7 @@ The next step for a Director of Product Management is to move to [Senior Directo
 ##### Dev
 The Director of Product Management, Dev is the PM DRI for the Dev parts of the
 [DevOps lifecycle](/handbook/product/categories/#dev-section)
-(e.g [Manage](https://about.gitlab.com/direction/manage/), [Plan](https://about.gitlab.com/direction/plan/), [Create](https://about.gitlab.com/direction/create/), and [Ecosystem](https://about.gitlab.com/direction/ecosystem/) Stages) and reports to the VP of Product.
+(e.g [Manage](https://about.gitlab.com/direction/manage/), [Plan](https://about.gitlab.com/direction/plan/) and [Create](https://about.gitlab.com/direction/create/)) Stages) and reports to the VP of Product.
 
 ##### Sec
 The Director of Product Management, Sec is the PM DRI for the 
