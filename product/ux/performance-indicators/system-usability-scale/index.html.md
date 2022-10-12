@@ -132,7 +132,6 @@ Every quarter, an issue will be created and assigned to the PDMs to categorize t
 | Manage     |   #s_manage                    |      
 | Plan       |   #s_plan                      |      
 | Create     |   #s_create                    |      
-| Ecosystem  |  #s_ecosystem                  |      
 | Verify     |  #s_verify, #ops_section       |      
 | Package    |  #s_package, #ops_section      |      
 | Release    |  #s_release, #ops_section      |      
