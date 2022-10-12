@@ -9,35 +9,27 @@ title: "Enablement:Gitaly Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What is the Gitaly team?
+## What is Gitaly?
 
 The Gitaly team is responsible for building and maintaining systems to ensure
 that the Git data storage tier of GitLab instances, and _GitLab.com in particular_,
-is reliable, secure and fast. For more information about Gitaly, see our [Direction](https://about.gitlab.com/direction/gitaly/) page.
+is reliable, secure and fast. For more information about Gitaly, see our [Direction](https://about.gitlab.com/direction/gitaly/) page and [roadmap](https://gitlab.com/groups/gitlab-org/-/epics/7608).
 
-## Mission
+Gitaly team consists of two subgroups, [Gitaly:Cluster team](#cluster-team) and [Gitaly:Git team](#git-team), together referred to as **Gitaly**.
 
-Provide a durable, performant, and reliable Git storage layer for GitLab.
+### Functional boundary
 
-## Team Members
+While GitLab is the primary consumer of the Gitaly project, Gitaly is a standalone product which can be used external to GitLab. As such, we strive to achieve a functional boundary around Gitaly. The goal of this is to ensure that the Gitaly project creates an interface to manage Git data, but does not make business decisions around how to manage the data.
 
-The following people are permanent members of the Gitaly Team:
+For example, Gitaly can provide a robust and efficient set of APIs to move Git repositories between storage solutions, but it would be up to the calling application to decide when such moves should occur.
 
-<%= direct_team(manager_slug: 'andrashorvath', role_regexp: /Gitaly/) %>
+Processes fully independent of business inputs (such as repository maintenance) should be fully contained within Gitaly as they provide substantial value to anyone using the Gitaly project.
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[&,] Systems:Gitaly( API)?/, direct_manager_role: 'Backend Engineering Manager, Gitaly') %>
-
-## Gitaly functional boundary
-
-While GitLab is the primary consumer of the Gitaly project, Gitaly is a standalone project which can be used external to GitLab. As such, we strive to achieve a functional boundary around Gitaly. The goal of this is to ensure that the Gitaly project creates an interface to manage Git data, but does not make business decisions around how to manage the data.
-
-For example, Gitaly can provide a robust and efficient set of APIs to move Git repositories between storage solutions, but it would be up to the calling application to decide when such moves should occur.
-
-Processes fully independent of business inputs (such as repository maintenance) should be fully contained within Gitaly as they provide substantial value to anyone using the Gitaly project.
 
 ## How to contact the team
 
@@ -83,8 +75,24 @@ These are typically [Corrective Actions or other followup items](https://about.g
 SLO tracking. They will be scheduled through either of the above paths, by EM
 and/or PM polling these dashboards:
 
-- Dashboard for [Out of SLO Infradev issues](https://gitlab.okta.com/app/periscopedata/exk3fzi3sc0TkcYSj357/sso/saml)
-- [All Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by team)
+
+## Cluster team
+
+**Mission**: Provide a durable, performant, and reliable Git storage layer for GitLab.
+
+[Responsibilities](https://about.gitlab.com/job-families/engineering/backend-engineer/#cluster) |
+[In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalycluster-group)
+
+<%= department_team(base_department: 'Gitaly Cluster Team') %>
+
+## Git team
+
+**Mission**: Develop Git in accordance with the goals of the community and GitLab, and integrate it into our products.
+
+[Responsibilities](https://about.gitlab.com/job-families/engineering/backend-engineer/#git) |
+[In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalygit-group)
+
+<%= department_team(base_department: 'Gitaly Git Team') %>
 
 ## Working with product
 
@@ -111,18 +119,14 @@ The Gitaly consumers are:
 * [GitLab Workhorse](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/workhorse/index.md)
 * [GitLab Elasticsearch Indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer)
 
-### Retrospectives
-
-At the beginning of each release, the Gitaly EM will create a retrospective issue
-to collect discussion items during the release. The first weekly Gitaly meeting
-after the 18th that issue will be used to discuss what was brought up.
-
 ## Metrics
 
 ### Useful links
 
 * [Actual pending Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by group, focus on gitaly)
+- [Out of SLO Infradev issues](https://gitlab.okta.com/app/periscopedata/exk3fzi3sc0TkcYSj357/sso/saml)
 * [Error budget](https://dashboards.gitlab.net/d/stage-groups-detail-gitaly/stage-groups-gitaly-group-error-budget-detail?orgId=1)
+- [MR review workload](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitaly)
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Gitaly" } %>
 
@@ -130,7 +134,7 @@ after the 18th that issue will be used to discuss what was brought up.
 
 ### Onboarding
 
-To complete team-specific onboarding, file an issue
+To complete team-specific onboarding, please file an issue
 [here](https://gitlab.com/gitlab-org/gitaly/-/issues/new?issuable_template=Team%20Member%20Onboarding).
 
 ### Offboarding
