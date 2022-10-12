@@ -47,6 +47,12 @@ The behavioural interview may cover any topics of the previous interviews where 
 
 Candidates successful in all previous interviews may proceed to a _Senior Manager_ or _Director, Customer Support_ interview.
 
+### Scorecard Feedback
+
+**GitLab Participants**: Support Manager, Senior Support Manager
+
+Managers are invited to provide feedback on scorecards submitted by other interviewers, in order to help improve the interviewing process. This feedback should be provided directly to the individual interviewer.
+
 ## Getting involved
 If you want to be involved in the hiring process - let your manager know! The main ways you can be involved are:
 - reviewing technical assessments
