@@ -48,7 +48,7 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 #### Simplify & improve contribution guides 
 
 * **Why:** Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand. 
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/16](https://gitlab.com/groups/gitlab-com/quality/-/epics/16)
 * **DRI:** Community Relations team (Marketing)
 
 #### Improve contribution tooling
@@ -65,12 +65,12 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 ### Increase Contribution Value
 
-Incentivise, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
+Incentivize, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
 
 #### Define contributor value proposition 
 
 * **Why:** We need a clear definition of what drives people to contribute to GitLab and to present a compelling value proposition for increasing code contribution.
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/11](https://gitlab.com/groups/gitlab-com/quality/-/epics/11)
 * **DRI:** Community Relations team (Marketing)
 
 #### Developer badges & certification 
@@ -89,34 +89,34 @@ Incentivise, attract and retain contributors by providing a compelling value and
 
 * **Why:** In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement. 
 * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/5](https://gitlab.com/groups/gitlab-com/quality/-/epics/5)
-* **DRI:** Contributor Success team (Engineering) 
+* **DRI:** Contributor Success team (Engineering)
 
 ### Expand Outreach
 
-Increase awareness with content and events to drive large amounts of contributors. Our outreach efforts so far have been limited. A proactive and focused effort to bring awareness and drive members from external communities will be required. Engineering to work along side Community Relations in expanded outreach events.
+Increase awareness with content and events to drive large amounts of contributors. Our outreach efforts so far have been limited. A proactive and focused effort to bring awareness and drive members from external communities will be required. Engineering to work alongside Community Relations in expanded outreach events.
 
 #### Increase contribution backlog exposure
 
 * **Why:**  Contributing as a new member to a massive project can be overwhelming, which can lead to analysis paralysis and potentially losing contributors. We should offer a lens into a discoverable, sizable set of issues we can direct newcomers to. Consider using established 3rd party platforms.
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/12](https://gitlab.com/groups/gitlab-com/quality/-/epics/12)
 * **DRI:** Community Relations team (Marketing)
 
 #### Scale contributor events
 
 * **Why:** Build a sense of belonging, provide the social environment for contributors to have their voice, meet with their peers, share knowledge and celebrate.
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/13](https://gitlab.com/groups/gitlab-com/quality/-/epics/13)
 * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
 
 #### Community office hours
 
 * **Why:** We need to scale office hour calls that have traditionally been a unique opportunity for product groups to provide support, guidance to code contributors as well as gather feedback.
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/14](https://gitlab.com/groups/gitlab-com/quality/-/epics/14)
 * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
 
 #### Increase social presence
 
 * **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, gitter), which will allow us to tap into existing developer communities.  
-* **Epic:** TBD
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/15](https://gitlab.com/groups/gitlab-com/quality/-/epics/15)
 * **DRI:** Community Relations team (Marketing)
 
 ### Scale the Community
