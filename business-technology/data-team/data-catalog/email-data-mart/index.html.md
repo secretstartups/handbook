@@ -20,15 +20,15 @@ In partnership with enterprise applications and marketing teams, we have created
 
 #### The goal of this page:
 
-* Help you to use the [TD: Email Marketing Data Mart README](https://docs.google.com/spreadsheets/d/1z0-QQbudAYU3pYS5CrdQMoyLxMipbx0rQzKTjx6AEZo/edit#gid=1701629744) to generate email campaigns.
-* Help you understand the data models used to create the TD: Email Marketing Data Mart.
+* Help you to use the TD: Email Marketing Data Mart to generate email campaigns.
+* Help you understand the data models used to create the [TD: Email Marketing Data Mart](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_marketing_contact).
 * `Coming Soon` Assess your understanding by taking a certification most applicable to your role at GitLab.
 * How to add new fields to the Data Mart and Marketo
 * And overall help everyone contribute!
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://docs.google.com/spreadsheets/d/1z0-QQbudAYU3pYS5CrdQMoyLxMipbx0rQzKTjx6AEZo/edit#gid=1701629744" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">README - TD: Email Marketing Database</a>
+  <a href="https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_marketing_contact" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Documentation - TD: Email Marketing Database</a>
 <a href="https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/edit?page=kW05tjmZX.Hv#" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">ERD - TD: Email Marketing Database</a>
 </div>
 <br><br><br><br><br><br><br><br><br>
@@ -81,7 +81,9 @@ Facts:
 <summary markdown='span'>
   Key Fields and Business Logic
 </summary>
-* The grain of the Email Marketing Data Mart is one row per unique email address. There is a one to many relationship between each email address and different dimensions such as product tier, product delivery, and subscriptions. Therefore, in the Data Mart, we have used aggregation logic to create fields to describe the email addresses. For example, there are fields named `group_owner_of_saas_premium_tier` and `group_owner_of_saas_ultimate_tier` which are boolean fields. It is possible that a group owner could have a TRUE value for both of these fields if they are owners of both a Premium and Ultimate plan. 
+* The grain of the Email Marketing Data Mart is one row per unique email address. There is a one to many relationship between each email address and different dimensions such as product tier, product delivery, subscriptions and namespaces. Therefore, in the Data Mart, we have used aggregation logic to create fields to describe the email addresses. For example, there are fields named `group_owner_of_saas_premium_tier` and `group_owner_of_saas_ultimate_tier` which are boolean fields. It is possible that a group owner could have a TRUE value for both of these fields if they are owners of both a Premium and Ultimate plan.
+
+For more information around what fields are in the Email Marketing Data Mart, please refer to [the documentation page](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_marketing_contact#description).
 </details>
 
 <style> #headerformat {
@@ -114,12 +116,11 @@ Entity Relationship Diagram (ERD):
 <summary markdown='span'>
   Example Queries
 </summary>
-Let's pull some email lists. You can use these queries in both Snowflkae and Sisense.
+Let's pull some email lists. You can use these queries in Snowflake. 
 <br>
 ```
 --Pull ALL owners and individual namespaces for Paid SaaS Plans
-SELECT DISTINCT 
-  email_address
+SELECT email_address
 FROM "PREP"."SENSITIVE"."MART_MARKETING_CONTACT"
 WHERE GROUP_OWNER_OF_SAAS_BRONZE_TIER = TRUE
   OR GROUP_OWNER_OF_SAAS_PREMIUM_TIER = TRUE
@@ -127,7 +128,19 @@ WHERE GROUP_OWNER_OF_SAAS_BRONZE_TIER = TRUE
   OR INDIVIDUAL_NAMESPACE_IS_SAAS_BRONZE_TIER
   OR INDIVIDUAL_NAMESPACE_IS_SAAS_PREMIUM_TIER
   OR INDIVIDUAL_NAMESPACE_IS_SAAS_ULTIMATE_TIER
+
+--Pull ALL contacts related to paid Self Managed instances
+SELECT email_address
+FROM "PREP"."SENSITIVE"."MART_MARKETING_CONTACT"
+WHERE is_self_managed_delivery
+
+--Pull ALL customers associated with a trial
+SELECT email_address
+FROM "PREP"."SENSITIVE"."MART_MARKETING_CONTACT"
+WHERE days_until_saas_trial_ends IS NOT NULL
 ```
+
+Since this data is classified as **ORANGE** as it is customer / email data, in Sisense we only expose a non-sensitive view of it [mart_marketing_contact_no_pii](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_marketing_contact_no_pii). You can use substitude the table above and the `email_address` field with the `dim_marketing_contact_id` to have an idea on how big an email pull will be.
 
 </details>
 <br>
@@ -148,6 +161,15 @@ The process to add fields to the DataMart and Pump is below. There are several t
     -  If you have the reference SQL snippet, please add to the issue
 1. Data team creates an MR to build column in
 1. Data team [creates an issue](https://gitlab.com/gitlab-com//business-technology/enterprise-apps/integrations/platypus/-/issues/new?issuable_template=Change) to build out the integration in Platypus from the Data Mart to Marketo.
+
+
+<style> #headerformat {
+background-color: #6666c4; color: black; padding: 5px; text-align: center;
+}
+</style>
+<h1 id="headerformat">Making an email pull request </h1>
+
+To make an email list pull request, please open an issue in [the Marketing Performance Project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) with the list use case and requirements so the request can be prioritized.
 
 
 <style> #headerformat {
