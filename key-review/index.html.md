@@ -55,6 +55,7 @@ Functions that have these meetings are:
 1.  Quality (Mek Stittri - function DRI) scheduled 6 times per year
 1.  UX (Christie Lenneville - function DRI) scheduled 6 times per year
 1.  Security (Johnathan Hunt - function DRI) scheduled 6 times per year
+1.  IT (Craig Mestel - function DRI) scheduled once per quarter
 
 
 If you would like to be added to a function's Key Review post in [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
