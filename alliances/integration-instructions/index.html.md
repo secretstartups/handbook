@@ -81,4 +81,4 @@ We are here to help. The Alliance team works from issues and issue boards. If yo
 
 ## Troubleshooting
 
-We're always here to help you through your efforts of integration. If there's a missing API call from our current API, or you ran into other difficulties in your development please feel free to create a new issue on the [Community Edition issue tracker](https://gitlab.com/gitlab-org/gitlab-foss/issues) and apply the `Ecosystem` label.
+We're always here to help you through your efforts of integration. If there's a missing API call from our current API, or you ran into other difficulties in your development please feel free to create a new issue on the [GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and apply the `devops::ecosystem` label.
