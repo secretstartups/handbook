@@ -147,3 +147,7 @@ A given week should be considered open for shadowing unless it is listed below.
 | 4/25/2022 | [@sam.figueroa](https://gitlab.com/sam.figueroa )| Development |
 | 7/18/2022 | [@bradleylee](https://gitlab.com/bradleylee) | Customer Success |
 | 9/12/2022 | [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
+| 11/21/2022 | No shadows | N/A |
+| 11/28/2022 | No shadows | N/A |
+| 12/19/2022 | No shadows | N/A |
+| 12/26/2022 | No shadows | N/A |
