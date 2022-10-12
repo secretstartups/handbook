@@ -344,7 +344,7 @@ Below is the high level timeline for the formal assessment in Q4 FY23 (Nov, Dec,
 - **2022-11-30:** 5:00pm PST Workday Calibration will be locked 
 - **2022-12-01 - 2022-12-08:** Total Rewards and E-Group review and approval
 - **2022-12-09 - 2022-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
-- **2022-12-19 - 2023-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2023-01-03 - 2023-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
 - **2023-01-05:** Annual Compensation Review Kicks off for Managers
 
 ### Cadence
