@@ -32,7 +32,7 @@ But more importantly, be sure that there is a product fit. If what is asked for 
 
 ### Process of Responding to RFx
 
-Generally, RFx's have a fixed timeline. GitLab issues can assist in this process as everything needed to manage a task is available. The best place to create the issue is in the Account project, if one exists, or in a central project where such activites are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
+Generally, RFx's have a fixed timeline and require input from different functions within Gitlab e.g. Solution Architects, Professional Services, Legal, etc.. The DRI (Direct Responsible Individual) is the Strategic Account Executive (SAL) for the Account. A GitLab issues assist in the coordination, task assignment and tracking of the progress. The best place to create the issue is in the Account project, if one exists, or in a central project where such activities are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
 
 1. Any customer’s instructions regarding organization
 1. A rational organization of information that will answer all of the questions and requirements
@@ -40,7 +40,7 @@ Generally, RFx's have a fixed timeline. GitLab issues can assist in this process
 1. Compliance with all requirements
 1. Links to appropriate Account or Opportunity in Salesforce
 
-Typically a SAL or ISR will be involved in the process and should be assigned to the issue along with the SA. Lay out the tasks and assign owners so that every team member's duties are clear. And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer. This provides a small buffer in case of last minute adjustments or approvals that may be needed.
+Typically a SAL will create the issue and should be assigned to the issue along with the SA and other required team member. Lay out the tasks and assign owners so that every team member's duties are clear. And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer. This provides a small buffer in case of last minute adjustments or approvals that may be needed. In case ambiguity in the task assignment exists a synchronous meeting with all relevant team members is recommended to speed up the process.
 
 ### Responding to RFx
 
