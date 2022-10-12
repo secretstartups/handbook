@@ -51,6 +51,14 @@ Solutions architects are responsible for owning their engagement on opportunitie
   - Technical Deep Dives are used to show off a very specific function or capability within GitLab's product.
   - Reverse AMAs where the SAs evaluate the customer environment and provide recommendations on ways to more effectively use GitLab.
 
+#### Async Slack support
+
+In some cases SA support might be required in early stage or not fully qualified opportunities. Slack can be used for answering technical questions, providing additional customer outreach materials or helping an Account Executive with a narrowly-scoped customer inquiry. These requests can be served asynchronously via Slack:
+ - AMER: `#cs-commercial`
+ - EMEA: `#cs-commercial-emea-sa-support`
+
+These Slack channels are considered to be a safe harbor for all Commercial AE <-> SA communication. When asking questions, please ensure you provide as much context as possible; including the SFDC URL, and type of subscription (SaaS or Self-Managed). Solutions Architecture will monitor and provide best effort support on these requests.
+
 #### Post-Sales Engagement
 
 As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
