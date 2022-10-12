@@ -143,7 +143,7 @@ Every quarter, an issue will be created and assigned to the PDMs to categorize t
 | Growth     |  #s_growth                     |      
 | Fulfillment|  #s_fulfillment                |      
 | Enablement |      #s_enablement             |      
-| Foundations|     #g_ecosystem_foundations   | 
+| Foundations|     #g_manage_foundations   | 
 
 Use the following sample messaging text when sharing out the stage-specific insights:
 
