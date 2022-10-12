@@ -19,7 +19,7 @@ While it's important to understand the how (how do I accomplish my goal? how do 
   
 Promotions within the Support Department are guided by the [Support Career Framework Matrix](/handbook/engineering/career-development/matrix/engineering/support/), following [this track of role promotions](/handbook/engineering/career-development/#support-department). Consider the matrix (competency requirements) and promotion path as your expected baseline targets. Utilize the resources and recommendations in this document to explore your *why*, and to build your path to promotion with an extended view of what you can expect as you decide on your direction.
 
-When you are ready to start building your path to promotion, review the tips on [creating and building a promotion doc](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document). Ask for manager guidance and feedback as necessary.
+When you are ready to start building your path to promotion, review the section on [creating and building a promotion doc](/handbook/people-group/promotions-transfers/#promotion-document). Ask for manager guidance and feedback as necessary.
 
 ### General Recommendations and Useful Resources (Applies to Any Promotion Path)
 
