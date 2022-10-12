@@ -24,22 +24,71 @@ As Top Cross-Functional Initiatives are Working Groups, the same [process](/comp
 
 This is the list of our active Top Cross-Functional Initiatives. 
 
-| Initiative | DRI / Sponsor | Description | Links | Quarter Started/Starting |
-| ------ | ------ |------ | ------ | ------ |
-| Usage Reporting | @jdbeaumont / @david   | Ensure customer product usage and utilization metrics are surfaced to the right teams at the right time to drive improvements in customer adoption and flag high potential user growth/tier-upgrade opportunities. | [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1) | FY23-Q1 |
-| FedRAMP | @Julia.Lake / @robin | Achieve FedRAMP Moderate Certification. | [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3) | FY23-Q1 |
-| GitLab Dedicated | @rwedmore  / @david  | Offering a scalable single tenant SaaS solution. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/4)  | FY23-Q1 |
-| SaaS Reliability | @sloyd / @akramer  | Achieve enterprise grade security and reliability for our SaaS. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5) | FY23-Q1 |
-| SaaS Free User Efficiency | @ipedowitz / @akramer  | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1) | FY23-Q1 |
-| User Engagement | @johncoghlan / @akramer  | Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions. | [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1794) | FY23-Q1 |
-| Project Matterhorn |  @david   | [Limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7) | FY23-Q1 |
-| AWS/GCP Partnerships | @nbadiey @mmcb   | Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)  | FY23-Q1 |
-| E-Commerce | @ronell / @mmcb | Create world-class buyer experience and significant self-serve customer base / ARR. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/12)  | FY23-Q1 |
-| Shift LAM to Primary Metric | TBD / TBD   | Shift LAM to our primary metric for top of funnel and decision-maker.| TBD | FY23-Q3 |
-| Fulfillment Efficiency | @ofernandez2 / @sytses  | Rollout new Quote Studio using new Zuora Orders API and Ramps functionality. Move CustomersDot to use Zuora Orders APIs. Align to Zuora Billing Account as a Customer Account. SSO / combine CDot and Gitlab user databases. Link ArrowSphere to CustomersDot. | [FY23 Roadmap](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405) | FY23-Q3 |
-| DevSecOps Adoption | @spatching  / @mmcb   | No customers in red on DevSecOps Adoption within 2 months of purchase.  | TBD | FY23-Q4 |
-| Consumption Add-Ons | TBD  / @david   | Finalize research for introducing consumption-based and user-based add-ons. Update our Fulfillment and product capabilities to support these new types of add-ons. Update GTM motions and messaging to support these new add-ons.  | TBD | FY23-Q4 |
-| Leading Organization Growth | @epetoskey / @akramer | Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25Q4. Follows User Engagement Initiative | TBD  | FY23-Q4 |
+1. Usage Reporting
+   1. DRI / Sponsor: @jdbeaumont / @david
+   1. Description: Ensure customer product usage and utilization metrics are surfaced to the right teams at the right time to drive improvements in customer adoption and flag high potential user growth/tier-upgrade opportunities. 
+   1. Links: [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1) 
+   1. Quarter Started/Starting: FY23-Q1 
+1. FedRAMP
+   1. DRI / Sponsor: @Julia.Lake / @robin
+   1. Description: Achieve FedRAMP Moderate Certification.
+   1. Links: [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3)
+   1. Quarter Started/Starting: FY23-Q1
+1. GitLab Dedicated
+   1. DRI / Sponsor: @rwedmore / @david
+   1. Description: Offering a scalable single tenant SaaS solution.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/4)
+   1. Quarter Started/Starting: FY23-Q1
+1. SaaS Reliability
+   1. DRI / Sponsor: @sloyd / @akramer
+   1. Description: Achieve enterprise grade security and reliability for our SaaS.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5)
+   1. Quarter Started/Starting: FY23-Q1
+1. SaaS Free User Efficiency
+   1. DRI / Sponsor: @ipedowitz / @akramer
+   1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
+   1. Quarter Started/Starting: FY23-Q1
+1. User Engagement
+   1. DRI / Sponsor: @johncoghlan / @akramer
+   1. Description: Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1794)
+   1. Quarter Started/Starting: FY23-Q1
+1. Project Matterhorn
+   1. DRI / Sponsor: @justinfarris / @david
+   1. Description: [Limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
+   1. Quarter Started/Starting: FY23-Q1
+1. AWS/GCP Partnerships
+   1. DRI / Sponsor: @nbadiey / @mmcb
+   1. Description: Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
+   1. Quarter Started/Starting: FY23-Q1    
+1. Shift LAM to Primary Metric
+   1. DRI / Sponsor: TBD / TBD 
+   1. Description: Shift LAM to our primary metric for top of funnel and decision-maker.
+   1. Links: TBD
+   1. Quarter Started/Starting: FY23-Q3
+1. Fulfillment Efficiency
+   1. DRI / Sponsor: @ofernandez2 / @sytses 
+   1. Description: Rollout new Quote Studio using new Zuora Orders API and Ramps functionality. Move CustomersDot to use Zuora Orders APIs. Align to Zuora Billing Account as a Customer Account. SSO / combine CDot and Gitlab user databases. Link ArrowSphere to CustomersDot.
+   1. Links: [FY23 Roadmap](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
+   1. Quarter Started/Starting: FY23-Q3
+1. DevSecOps Adoption
+   1. DRI / Sponsor: @spatching  / @mmcb 
+   1. Description: No customers in red on DevSecOps Adoption within 2 months of purchase. 
+   1. Links: TBD
+   1. Quarter Started/Starting: FY23-Q4
+1. Consumption Add-Ons
+   1. DRI / Sponsor: @justinfarris / @david
+   1. Description: Finalize research for introducing consumption-based and user-based add-ons. Update our Fulfillment and product capabilities to support these new types of add-ons. Update GTM motions and messaging to support these new add-ons.
+   1. Links: TBD
+   1. Quarter Started/Starting: FY23-Q4
+1. Leading Organization Growth
+   1. DRI / Sponsor: @epetoskey / @akramer
+   1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25Q4. Follows User Engagement Initiative.
+   1. Links: TBD
+   1. Quarter Started/Starting: F4-Q1 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
 
 ### Managing, Adding and Removing Top Cross-Functional Initiatives
 
@@ -72,8 +121,19 @@ We are tracking in epics and issues in a separate namespace to comply with [SAFE
 
 This is a a list of top cross-functional initiatives that have been retired. 
 
-| Initiative | DRI / Sponsor | Description | Links | Start / Year |
-| ------ | ------ |------ | ------ | ------ |
-|Category Leadership | @melsmo / @akramer   | Become the overall leader of The DevOps Platform through defining and owning the category. **This is still important to GitLab, but it will be managed by the Marketing Team, not as a top cross-functional initiative** | [Working group page](/company/team/structure/working-groups/category-leadership/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10) | FY23-Q1 - FY23-Q2 |
-| Cloud Licensing | @ofernandez2 / @david  | Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2) | FY23-Q1 - FY23-Q3 |
-| First Order | @christinelee / @akramer   | Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth. |[Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)  | FY23-Q1 - FY23-Q3 |
+1. Category Leadership
+   1. DRI / Sponsor: @melsmo / @akramer 
+   1. Description: Become the overall leader of The DevOps Platform through defining and owning the category. **This is still important to GitLab, but it will be managed by the Marketing Team, not as a top cross-functional initiative**
+   1. Links: [Working group page](/company/team/structure/working-groups/category-leadership/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10)
+   1. Start - End: FY23-Q1 - FY23-Q2
+1. Cloud Licensing
+   1. DRI / Sponsor: @ofernandez2 / @david  
+   1. Description: Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2)
+   1. Start - End:  FY23-Q1 - FY23-Q3
+1. First Order
+   1. DRI / Sponsor: @christinelee / @akramer  
+   1. Description: Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)
+   1. Start - End: FY23-Q1 - FY23-Q3
+
