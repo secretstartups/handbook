@@ -403,7 +403,7 @@ our [best decision was one that changed an earlier one](https://youtu.be/4BIsON9
 In a manager-report circumstance, usually the report is the directly responsible individual (DRI).
 The manager may disagree with the final decision, but they still commit to the decision of the DRI.
 
-In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
+In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. Sometimes, [many or all individuals may disagree yet choose not to speak up](https://en.wikipedia.org/wiki/Abilene_paradox), because no one believes they would get agreement from the group. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
 Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
 
 When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](/handbook/values/#assume-positive-intent).
