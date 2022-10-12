@@ -1627,6 +1627,7 @@ To ensure the generator script runs correctly follow the process below:
 1. Make sure the issue is open.
 1. Make sure the issue is not confidential. If you need to link to a confidential issue you will need to manually create the Release Post Item Merge Request as the [release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) does not currently create MRs from confidential issues.
 1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later) specifically having it contain both a `Description:` then a `Documentation:`.
+1. Make sure there is only plain text in the content beneath `### Release notes`. If there is any additional formatting, the script will fail.
 1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied
 1. Apply one of the `release post item::` scoped labels. This will make the generator script pick up your issue next time it runs (once per hour)
 
