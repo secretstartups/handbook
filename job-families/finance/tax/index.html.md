@@ -108,13 +108,13 @@ The Manager, Tax is a [grade 8](/handbook/total-rewards/compensation/compensatio
 
 ### Director, Tax
 
-The Director, Tax reports to the [VP, Tax](/job-families/finance/vice-president-of-tax/).
+The Directors, Tax report to the [VP, Tax](/job-families/finance/vice-president-of-tax/).
 
-#### Director, Tax Job Grade
+#### Director, Global Tax Accounting and Domestic Tax Job Grade
 
 The Director, Tax  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Tax Responsibilities
+#### Director, Global Tax Accounting and Domestic Tax Responsibilities
 
 * Staff mentoring and supervision
 * SOX control implementation, testing, and narrative writing
@@ -129,7 +129,7 @@ The Director, Tax  is a [grade 10](/handbook/total-rewards/compensation/compensa
 * Tax account reconciliation
 * Working with Finance team members on intercompany settlements
 
-#### Director, Tax Requirements
+#### Director, Global Tax Accounting and Domestic Tax Requirements
 
 * Bachelor’s Degree (B.S.) in Accounting. Master’s Degree in Business Taxation preferred.
 * JD and/or CPA preferred.
@@ -137,13 +137,52 @@ The Director, Tax  is a [grade 10](/handbook/total-rewards/compensation/compensa
 * Technical understanding of ASC 740, ASC 718, and ASC 805 for global operations
 * Spreadsheet modeling for ASC 740, tax return workpapers, and project planning
 * Tax and tax provision issues relating to stock based compensation, including contra-DTAs produced by Sec. 162M
-* Some working knowledge of VAT/GST, transfer pricing, and US international taxes including FDII, GILTI, BEAT, FTCs and Subpart F 
 * Project management
 * Audit supervision
 * Memo writing
 * Taking initiative and also working as a team player
 * Experience with NetSuite, SalesForce, Zuora, Coupa, GSuite and Avalara are plusses.
 * Ability to use GitLab
+
+### Director of International Tax
+
+#### Job Grade
+The Director of International Tax is a job [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+ 
+
+#### Director of International Tax Responsibilities
+- Plans for, models, and operationalizes our economic ownership of IP
+- Maintains CFC tax basis, earnings and profits and Subpart F calculations
+- Maintains BEAT, GILTI and FDII calculations
+- Engages and supervises our transfer pricing contemporaneous documentation and country by country reporting
+- Engages and supervises our tax preparers for international income tax compliance, both locally and from a U.S. perspective
+- Maintains all digital service taxes and similar taxes
+- Manages tax and transfer pricing audits
+- Maintains per-country effective tax rates for US GAAP purposes
+- Maintains cumulative book/tax differences for local and US GAAP purposes. Works with our Accounting team to understand GAAP to statutory book differences.
+- VAT/GST compliance and audits
+- Holds the lead role in new entity setup, working with our legal, finance, and human resources teams
+- Works with our stock-based comp and payroll teams regarding per-country stock based compensation issues
+- Works with our legal and finance teams to hold subsidiary directors’ meetings
+- Works with our finance and treasury teams to fund international operations
+- Outlines and drafts intercompany agreements
+
+#### Director of International Tax Requirements 
+- The candidate will have Big-4 or comparable US-based multinational company experience. Specifically, the candidate will have demonstrable, progressive experience in:
+- Transfer pricing and functional analysis
+- CBC reporting
+- Tax Cuts and Jobs Act of 2017
+- Permanent establishment issues
+- New entity setup and maintenance 
+- US international tax compliance supervision
+- Local international tax compliance supervision
+- International funding, contributions and distributions
+- Identification of issues and project management (knowledge of GitLab merge requests is a plus)
+- Initiating and settling intercompany transactions
+Maintaining capital preservation, minimizing any excess cash held by international subsidiaries
+Supervising managers and creating leaders
+The Director of International Tax will have a BS/BA in Accounting or Finance with an MST, MBT, or LLM in taxation. A CPA is preferred.
+
 
 ## Specialties
 
