@@ -218,6 +218,8 @@ Asking for someone's pronouns is the same as asking for their name. In the same 
 
 In English, there are [many common pronouns](https://uwm.edu/lgbtrc/support/gender-pronouns/) such as the singular they/them and ze/hir/hirs. To learn more see this [Time article on pronouns](http://time.com/4327915/gender-neutral-pronouns/).
 
+For more information on pronouns, check out [Pronoun Guidance and Information](/handbook/people-group/pronouns/).
+
 ### What if I accidentally use the wrong pronouns?
 
 Quickly apologize, correct yourself and move on. Don't make a big deal out of it. It happens.
