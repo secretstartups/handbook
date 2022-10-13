@@ -85,6 +85,18 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
   - a link to the Support Team page showing the group's membership
   - a link to a permanent Zoom room for that group to use in collaborating
 
+##### Daily Stand-up Bot 
+
+The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot) Daily Stand-up posts each morning for each region regularly, in a number of channels to advise global groups of different information. For further details of the different variations, please refer to the SGG handbook page of the group you are curious about. 
+
+###### Daily Stand-up Bot for Licensing and Renewals in APAC 
+
+In the APAC region, team members who have a shared focus on the Licensing and Renewals work also utilises the Daily Stand-up Bot, posted to the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack, which supports them in ensuring support coverage reliability of the Licensing and Renewal tickets across APAC [Support hours](https://about.gitlab.com/support/#definitions-of-gitLab-global-support-hours). 
+
+###### Modifying your group's Daily Stand-up Bot
+
+To request modifications to the Daily Stand-up Bot in your channel, please create an [SGG Slackbot issue.](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot/-/issues/new)
+
 ### SE Responsibilities and Priorities
 
 ---

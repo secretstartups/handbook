@@ -116,6 +116,17 @@ When creating an individual/bulk access request, use the following information:
   > Support Engineers need their own Salesforce accounts to better collaborate
   > with Sales team members as they work on customer licensing issues. 
 
+#### Slack
+{:.no_toc}
+
+Discussion of Licensing & Renewals tickets and customer issues occurs in the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack. This ensures: 
+> - L&R team members will have one channel to collaborate in       
+> - Increased visibility in queries and shared knowledge
+> - Increased cohesion in the L&R team regardless of region and/or experiments
+
+At the commencement of the APAC region's Support Hours (23:00 UTC) there is a 
+[Daily Stand-up Bot for Licensing and Renewals in APAC](/handbook/support/support-global-groups/#daily-stand-up-bot-for-licensing-and-renewals-in-apac) post which tags all Support Engineers who have a shared focus on Licensing and Renewal tickets. This thread notifies the team of who is away for the current week, and allows team members to provide updates to each other about when they're working on the queue. This helps ensure coverage reliability of the Licensing and Renewals tickets across the APAC region's support hours. 
+
 #### Zuora
 {:.no_toc}
 
