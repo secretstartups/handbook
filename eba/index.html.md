@@ -260,10 +260,14 @@ Sample Questions:
 * [Speakeasy VIRTUAL Team Building Events](https://www.thespeakeasysf.com/) ---> Brochure: https://drive.google.com/file/d/13qtyaplMP3t_zawqvPw4a4ROB4Xib168/view?usp=sharing - recommended by David Sakamoto
 * [Teambonding](https://www.teambonding.com/virtual-events/) - Quickfire Olympics - FieldOps team did this event (wasn’t as good as Survey Says!) 
 * [Teambuilding](https://teambuilding.com/) - Trivia - FieldOps team enjoyed Trivia, hosts were high energy.
+* [Watson Adventures](https://watsonadventures.com/) - Museum Scavenger Hunt, Murder Mystery, etc.  Really well thought out and engaging.
+* [Avital](https://avitaltours.com/virtual-events/) - Bartending, cooking classes, etc.
 
 ### Not Hosted
 * [Online Team Building Bingo (free!)](https://teambuilding.com/blog/online-team-building-bingo)
 * [Virtual Time Capsule (free!)](https://teambuilding.com/blog/virtual-team-building-activities#virtual-time-capsule) 
+* [Virtual Pictionary (free!)](https://www.drawasaurus.org/)
+* Bob Ross Painting Tutorial - Watch a Bob Ross video while your team paints in a computer based arts program.  Share as you go, see who is a true digital artist.
 
 ### Escape Rooms 
 * [The Escape Room](https://theescapegame.com/remote-adventures/)
@@ -318,6 +322,11 @@ Sample Questions:
 
 
 ### In-person team events and activities (by location)
+* Seattle, WA
+  * [Reinhaus](https://www.rheinhausseattle.com/) - Bocce Ball/Food
+  * [Chihuly Glass Museum](https://www.chihulygardenandglass.com/) - reception space
+  * [Sail Seattle](https://sailingseattle.com/) - Sailing... 
+  
 * Scottsdale, AZ
   * [Escape the Room](https://www.google.com/url?q=https://escapetheroom.com/phoenix/?utm_source%3DGMBlisting%26utm_medium%3Dorganic&sa=D&source=calendar&ust=1659284723638928&usg=AOvVaw16YFkD7VjhRbQ7jWRFszmZ)
   * [Octane Racing - Velocity VR Experience](https://zerolatencyvr.com/experience/)
