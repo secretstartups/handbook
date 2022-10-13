@@ -74,6 +74,8 @@ The content is supplemental to the [30/60/90 day onboarding](/handbook/customer-
 |**[GitLab Exercise](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=GitLab%20Exercise)**||The goal of this activity is to become comfortable with GitLab mechanisms for educating oneself about the wider GitLab initiatives throughout the organization|
 |**[Capability Deep Dives](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=Weekly%20Capability%20Deep%20Dive)**|Weekly upon Completion of Demo2Win|These weekly capability deep dives aim to solidify good Tell-Show-Tell practices. These ought to continue until SAs begin doing demos with customers.|
 |**[SA-to-AE Coffee Chats](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/associate-program/training/-/issues/new?issuable_template=SA-to-AE%20Coffee%20Chats)**||As the cohort becomes comfortable with demoing and taking the lead on calls, it is important to begin establishing relationships with the Account Executives they will support. |
+|**[Associate SA Reference Materials](https://drive.google.com/drive/folders/1NRp-a8WHdaY3nq_lLb6ejJt4Am0JEyG2)**||Associate SAs can refer to examples of demos leveraging Demo2win strategies along with the slide deck, as well as other supplemental materials. |
+
 
 #### Cohort Coaches
 
