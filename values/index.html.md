@@ -981,7 +981,7 @@ We demonstrate iteration when we do the smallest viable and valuable thing, get 
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Actively looks for opportunities to iterate and contribute to boring solutions. Balances short term gains and long term benefit with team’s help. Ships things that aren't 100% knowing that you'll either be able to improve them in the next revision. Asks questions with abandon. Publicly shares failures if you'll help colleagues learn.</td>
+    <td class="tg-0lax">Actively looks for opportunities to iterate and contribute to boring solutions. Balances short term gains and long term benefit with team’s help. Ships things that aren't 100% knowing that you'll be able to improve them in the next revision. Asks questions with abandon. Publicly shares failures if you'll help colleagues learn.</td>
   </tr>
   <tr>
     <td class="tg-0lax"><br>7</td>
