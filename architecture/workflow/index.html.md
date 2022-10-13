@@ -58,7 +58,7 @@ A blueprint is required for changes that meet any of the following conditions:
   or introduce special handling across distributions and deployments
 - adds a new service outside of the rails monolith, or an additional data source.
 
-Invoking this workflow is unecessary if:
+Invoking this workflow is unnecessary if:
 
 - fixing a flaky test
 - minor refactoring of code
@@ -72,17 +72,14 @@ Architecture Evolution Workflow. When in doubt, do not hesitate to reach out to
 a Principal+ Engineer for input.
 
 1. Determine with your manager whether to invoke the workflow.
-1. Open an architecture evolution issue in
-   [architecture/tasks](https://gitlab.com/gitlab-org/architecture/tasks)
-   project, which tracks progress of the workflow itself. Briefly describe your
-   ideas there. Link to relevant issues / documents.
 1. Start writing a blueprint somewhere! Depending on whether the content can be
    considered [SAFE](/handbook/legal/safe-framework/) or not you may want to do
-   that in a private space first.
+   that in a private space first. If you don't know how what content to start
+   with you can use [a template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/_template.md?plain=1).
+1. Post a link to your blueprint with a brief description in the internal
+   [`#architecture`](https://gitlab.slack.com/archives/CJ4DB7517) channel on Slack.
 1. Involve Architecture Evolution Coach, a Principal+ Engineer who will
    support you throughout the process.
-1. Post a link to your blueprint in the internal
-   [`#architecture`](https://gitlab.slack.com/archives/CJ4DB7517) channel on Slack.
 1. Open an architecture evolution blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
    if you have not done it already.
 1. Work with Architecture Evolution Coach, a Product Manager, Engineering
@@ -228,6 +225,10 @@ associated with a blueprint once we enter the execution phase.
 
 Merged blueprints will be published on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints)
 public pages.
+
+If you don't know what content you should put into a blueprint, you can use
+[this template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/_template.md?plain=1)
+as a starting point.
 
 Please be conscious of our [SAFE](/handbook/legal/safe-framework/) framework
 guidelines, and start collaborating on a blueprint in a private space (like a
