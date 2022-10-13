@@ -345,3 +345,13 @@ You must make your own decision about what is right for you regarding travel. Pl
 - [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
 - [Government of Canada Guidance](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - TripActions Application found via Okta - TripActions has information regarding [Travel Restrictions](https://app.tripactions.com/app/user2/travel-restrictions)
+
+## Sustainable travel considerations
+
+Even as an all-remote company, GitLab recognizes that some travel is necessary. These considerations aim to reduce the environmental impact of travel:
+
+- Prefer virtual meetings and attendance over personal meetings, except when the event's objective is enhanced by meeting in real life.
+- For short-distance travel, consider ground travel over air travel for information on short distance travel recommendations visit these examples from the [University of Bern](https://www.klimaneutral.unibe.ch/mobility/business_trips/travel_policy/index_eng.html, [University of Lund](https://www.lucsus.lu.se/sites/lucsus.lu.se/files/lucsus_travel_policy.pdf).
+- Select trips with lower carbon emissions. When [booking travel though Tripactions](https://about.gitlab.com/handbook/travel/#booking-travel-through-tripactions-) you can view the total CO2 footprint for at the checkout screen. 
+- If you organize an in-person meeting, aim for a location that allows as many people as possible to travel in a sustainable way.
+- Carbon offsets [offered by airlines have dubious value](https://www.nationalgeographic.com/travel/article/should-you-buy-carbon-offsets-for-your-air-travel), so aim to avoid air travel where it makes sense.
