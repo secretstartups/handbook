@@ -313,68 +313,6 @@ For more details on logistics of ending an interim or acting period please refer
   click supe:ds "/job-families/engineering/support-management#director-of-support";
 ```
 
-#### UX Department
-
-```mermaid
-  graph LR;
-  subgraph Merit Based
-    eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
-    eng:uxrc(UX Research Operations Coordinator)-->eng:suxrc(Senior UX Research Operations Coordinator);
-    eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
-    eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
-  end
-
-subgraph Based on Merit &amp; Company Need
-  eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
-  eng:stpd(Staff Product Designer)-->eng:ppd(Principal Product Designer);
-
-  eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
-  eng:pdm(Product Design Manager)-->eng:spdm(Senior Product Design Manager);
-  eng:spdm(Senior Product Design Manager)-->eng:dpd(Director of Product Design);
-  eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
-
-  eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
-  eng:stuxr(Staff UX Researcher)-->eng:puxr(Principal UX Researcher);
-
-  eng:suxr(Senior UX Researcher)-->eng:muxr(Manager of UX Research);
-  eng:muxr(Manager of UX Research)-->eng:smuxr(Senior Manager of UX Research);
-  eng:smuxr(Senior Manager of UX Research)-->eng:duxr(Director of UX Research);
-  eng:duxr(Director of UX Research)-->eng:vpux(VP of User Experience);
-
-  eng:stw(Senior Technical Writer)-->eng:sttw(Staff Technical Writer);
-  eng:sttw(Staff Technical Writer)-->eng:ptw(Principal Technical Writer);
-
-  eng:stw(Senior Technical Writer)-->eng:mtw(Technical Writing Manager);
-  eng:mtw(Technical Writing Manager)-->eng:stwm(Senior Technical Writing Manager);
-  eng:stwm(Senior Technical Writing Manager)-->eng:dtw(Director of Technical Writing);
-end
-
-  click eng:pd "/job-families/product/product-designer/";
-  click eng:spd "/job-families/product/product-designer/";
-  click eng:stpd "/job-families/product/product-designer/";
-  click eng:ppd "/job-families/product/product-designer/";
-  click eng:pdm "/job-families/product/product-design-management/";
-  click eng:spdm "/job-families/product/product-design-management/";
-  click eng:dpd "/job-families/product/product-design-management/";
-  click eng:uxrc "/job-families/product/ux-research-operations-coordinator/";
-  click eng:suxrc "/job-families/product/ux-research-operations-coordinator/";
-  click eng:uxr "/job-families/product/ux-researcher/";
-  click eng:suxr "/job-families/product/ux-researcher/";
-  click eng:stuxr "/job-families/product/ux-researcher/";
-  click eng:puxr "/job-families/product/ux-researcher/";
-  click eng:muxr "/job-families/product/ux-research-manager/";
-  click eng:smuxr "/job-families/product/ux-research-manager/";
-  click eng:duxr "/job-families/product/ux-research-manager/";
-  click eng:tw "/job-families/product/technical-writer/";
-  click eng:stw "/job-families/product/technical-writer/";
-  click eng:sttw "/job-families/product/technical-writer/";
-  click eng:ptw "/job-families/product/technical-writer/";
-  click eng:mtw "/job-families/product/technical-writing-manager/";
-  click eng:stwm "/job-families/product/technical-writing-manager/";
-  click eng:dtw "/job-families/product/technical-writing-manager/";
-  click eng:vpux "/job-families/product/product-design-management/";
-```
-
 #### Infrastructure Department
 
 ```mermaid
