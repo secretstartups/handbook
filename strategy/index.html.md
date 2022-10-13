@@ -22,9 +22,8 @@ strategic goal is to be the leading complete [DevSecOps Platform](/solutions/dev
 
 To achieve this, we will endeavor to:
 
-### 1) ARR: Customer Results
+### 1) Customer Results
 Ensure that GitLab is the default when customers buy DevSecOps software.
-**Note:** See our SEC filings on the SEC's Edgar website for information regarding ARR.
 
 1. Even easier to buy
     1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
@@ -54,7 +53,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
       1. Information technology service management 
       1. [Service desk](/stages-devops-lifecycle/service-desk/) 
 
-### 2) Product: Mature the product
+### 2) Mature the Platform
 Build upon our current platform to meet current and future user needs. 
 
 1. Be recognized as the leader in the DevSecOps Platform Category
@@ -102,7 +101,7 @@ Build upon our current platform to meet current and future user needs.
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="direction page"}{:data-ga-location="body"}.
 
-### 3) People: Growing careers
+### 3) Grow Careers
 Support GitLab team members in excelling within GitLab and beyond. Be a company to externally emulate and have a training impact that extends beyond the wider-community. 
 
 1. Accountability
