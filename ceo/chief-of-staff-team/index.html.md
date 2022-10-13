@@ -212,6 +212,12 @@ The CoS to the CEO plays an important [role](/company/offsite/#roles).
 It's [3 to 4 days long](/company/offsite/#schedule) with a CEO Skips meeting within the following days.
 There are [recurring discussion topics](/company/offsite/#recurring-discussion-topics) as well as a [discussion on content](/company/offsite/#content-choice) chosen by the CEO.
 
+In addition, the CoS to the CEO is responsible for preparing the CEO for offsites by:
+
+1. Finalizing the agenda to include CEO input
+1. Working with the CEO on what to cover in offsite introductions and closings
+1. Helping the CEO to prepare for sessions that the CEO will faciliate
+
 ## CEO Performance Evaluation
 
 In Q1 of a new fiscal year, the Chairperson of the Compensation Committee conducts the annual CEO Evaluation. The Chairperson meets with all members of GitLab's Board and E-Group for their feedback on the CEO's performance over the past Fiscal Year. The Chairperson meets with the CEO for their self-assessment at the beginning of the evaluation cycle.
