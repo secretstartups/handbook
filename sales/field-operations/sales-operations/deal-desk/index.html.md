@@ -527,7 +527,7 @@ On this new Guided Selling "True Ups" screen, you must select the appropriate Tr
 There are 2 types of co-terming:
 1. **Automatic/ Same Subscription:** Creating a co-termed Amendment quote to an existing subscription. The Amendment quote will have the same start date and initial/ renewal term as the related existing subscription by default.
 
-2.  **Manual/ Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription, you will need to use the monthly SKU and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example, if the existing subscription runs from 15 February 2022 to 15 February 2023, and they need another subscription with the same end date but as of April start date, you would create a new subscription quote with 15 April 2022 start date, set the initial term to 10 months and select the monthly product SKU instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix. Additionally, New Business or Renewal Subscriptions with <12 month term lengths require approval, unless the subscription is meant to co-term with another pre-existing subscription.
+2.  **Manual/ Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription, you will need to use the monthly SKU and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example, if the existing subscription runs from 15 February 2022 to 15 February 2023, and they need another subscription with the same end date but as of April start date, you would create a new subscription quote with 15 April 2022 start date, set the initial term to 10 months and select the monthly product SKU instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix. Additionally, New Business or Renewal Subscriptions with < 12 month term lengths require approval, unless the subscription is meant to co-term with another pre-existing subscription.
 
 #### Quoting Guide: Starter/Bronze End of Availability + Tier Re-naming
 
@@ -620,7 +620,21 @@ To learn more about the SuperSonics Billing and Subscription Management experien
     *   Cost Estimate (COGS) spreadsheet (Link provided by the PS team)
     *   A supporting Purchase Order (PO), or email from the Customer stating that a PO is not required for invoicing
 
+### My Customer Bought the wrong Product! 
 
+If a deal was booked with SaaS but the customer wanted Self Managed (vice versa), you will need to build an Add On Opp and Amendment quote to make the change to the subscription. 
+
+1. Navigate to the Closed Won opportunity. Click "Create New Add On Opportunity" button. 
+1. Once the Add On Opp has been created, follow the guide above to create an **Amendment Quote**. 
+1. On the Amendment quote, in the product section: 
+      - Remove the incorrect product line. There is an arrow with a drop down to remove the SKU on the left side of the screen, near the product name. 
+      - Add the correct product line (either Self Managed or SaaS). The quantity and price should be the exact same as the original order. 
+1. Save the quote. The subtotal on the quote should be $0.00. There may be tax implications due to switching from Self Managed to SaaS. 
+1. Generate a PDF of the order form. The customer **must sign the order form** to acknowledge the change to the subscription. 
+1. Attach the signed order form to the opportunity and submit the opp for approval. 
+1. No PO is required for $0 opportunities. 
+
+Once the deal has been closed won, the customer will be issued the correct product. 
 
 ### **Non-Standard Quotes**
 
