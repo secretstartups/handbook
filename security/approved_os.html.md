@@ -17,25 +17,41 @@ Please see the [Data Classification Policy](/handbook/engineering/security/data-
 
 ## Approved Operating Systems
 
-_last updated 2020-01-08_
+_last updated 2022-08-31_
 
 ### macOS
 
-macOS 10.13.6 or later
+macOS 12.5.1 or later
 
-### Linux & *BSD
+### Linux
 
-GitLab requires that you run an actively updated and supported Linux distro or BSD flavour. It will be your responsibility to maintain your Linux environment.
+GitLab requires that you run an actively updated and supported Linux distro. It will be your responsibility to maintain your Linux environment.
+
+The list of Linux versions below is based on what our [EDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution will be required.
+
+Linux versions are therefore limited to:
+- CentOS 7.0-7.9, 8.0
+- Red Hat Enterprise Linux (RHEL) 7.0-7.9, 8.0-8.6, 9.0
+- Ubuntu - 18.04, 19.04, 19.10, 20.04, 22.04
+- SUSE Linux Enterprise Server 12.X, 15.X
+- Debian 10, 11
+- Virtuozzo 7
+- Scientific Linux 6, 7
+- AlmaLinux 8.4, 8.5, 8.6, 9.0
+- RockyLinux 8.4, 8.5, 8.6, 9
+- Amazon Linux 2
+- Fedora 35-36
+- Oracle 7.0-7.9, 8.0-8.6, 9.0
 
 Further details are available at the [Linux Tools & Tips](/handbook/tools-and-tips/linux/) page.
 
 ### Android
 
-Android 7.1.2 or later
+Android 12 or later
 
 ### iOS
 
-iOS 10.3.4 or later
+iOS 15.6.1 or later
 
 ### Windows
 
@@ -44,6 +60,10 @@ As described in the [Acceptable Use Policy](/handbook/people-group/acceptable-us
 **Note:** Even if a Windows machine is approved for use via the above Exception Process, that machine cannot be used to access GitLab corporate services (e.g. Slack, G-Suite, GitLab.com); the Windows machine can only be used in addition to a GitLab-managed Mac machine.
 
 ## Access Change Schedule
+
+### August 31, 2022
+
+Allowed Linux distros listed.
 
 ### January 20th, 2020
 
