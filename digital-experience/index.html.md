@@ -323,6 +323,10 @@ Our team works from a quarterly plan, for example: [FY22Q3](https://gitlab.com/g
 
 We do our best to assist team members but do not operate as an internal agency so all requests will be prioritized against commitments in our current quarterly plan.
 
+### Approving Changes to the Marketing Site
+
+Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md). 
+
 ### Things we don't do
 
 1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
