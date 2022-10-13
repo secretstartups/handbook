@@ -429,6 +429,7 @@ Before pinging the release post manager, ask yourself if your content absolutely
   - PM Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`.
   - PM requests a review of the release post item MR from the release post manager, release post tech advisor (`@brhea`), and release post DRI (`@fseifoddini`). Quick action: `/assign_reviewer @brhea @fseifoddini RP-manager`
   - PM notifies release post team in the `#X-Y-release-post` Slack channel that the late addition has been requested with a link to the MR.
+  - The MR can be approved and merged by the release post manager or Product Operations: `@fseifoddini` or `@brhea`.
 - If the feature is primary and you had not previously added it to `features.yml`, you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch).
 
 ### Process for removing merged content blocks
@@ -1759,7 +1760,7 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
     - It is recommended to strive for a balance of features available to both free and paid users. If we only include Ultimate features, non-Ultimate users may stop engaging.
 1. The release post manager will create a new MR in the `gitlab.com/gitlab-org/gitlab` project
    1. Use this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml) to create a new file in the `gitlab/data/whats_new` directory.
-   1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`.
+   1. Title the file as `YYYYMMDD0001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`.
    1. Using the content that is in the release post items, duplicate the content for What's New.
       1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 1. Images are not required, but encouraged when possible.
