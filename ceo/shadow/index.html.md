@@ -197,15 +197,21 @@ Exceptional community members may be able to participate, as well.
 | 2022-10-03 | 2022-10-07 | NO SHADOWS | NO SHADOWS |
 | 2022-10-10 | 2022-10-14 | NO SHADOWS | NO SHADOWS |
 | 2022-10-17 | 2022-10-21 | NO SHADOWS | NO SHADOWS |
-| 2022-10-24 | 2022-10-28 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA  | AVAILABLE - REMOTE FOR SHADOW ALUMNI |
-| 2022-10-31 | 2022-11-04 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | 
+| 2022-10-24 | 2022-10-28 | NO SHADOWS | NO SHADOWS |
+| 2022-10-31 | 2022-11-04 | NO SHADOWS | NO SHADOWS |
 | 2022-11-07 | 2022-11-11 | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications |
 | 2022-11-14 | 2022-11-18 | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
 | 2022-12-05 | 2022-12-09 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) - Director of Product, Fulfillment | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
 | 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) - Director of Product, Fulfillment |
-
+| 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
+| 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
+| 2023-01-02 | 2023-01-06 | AVAILABLE - REMOTE | AVAILABLE for Shadow Alumni - REMOTE | 
+| 2022-01-09 | 2023-01-13 | NO SHADOWS | NO SHADOWS |
+| 2023-01-16 | 2023-01-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2022-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
+| 2023-01-30 | 2023-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
 
 If you have questions regarding the planned rotation schedule, please ping the [Chief of Staff to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
