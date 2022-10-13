@@ -56,7 +56,10 @@ ownership change:
    - This option is not available for customers who purchased through a reseller. Instead, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity.
 1. Copy of last loaded license (Self-Managed only) in text format only.
    - Screenshots are not valid
-   - Customer can quickly and easily [retrieve the license text data](https://docs.gitlab.com/ee/subscriptions/self_managed/index.html#export-your-license-usage) from `/admin/subscription` -> `Export license usage file` button on the right-hand side (or directly from `/admin/license/usage_export.csv`).
+   - To obtain the license code:
+     - GitLab version 14.2 and newer: Use [license usage export](https://docs.gitlab.com/ee/subscriptions/self_managed/index.html#export-your-license-usage).
+     - GitLab version 14.1, run the command `sudo gitlab-rails runner 'print License.current.data'` on the GitLab instance. N.B. this command can take a few minutes to complete.
+     - GitLab versions older than 14.1, use `Download license` from the `Admin area > License` page.
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
 
 **NOTE:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
