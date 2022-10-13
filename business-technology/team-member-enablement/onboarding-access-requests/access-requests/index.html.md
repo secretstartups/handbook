@@ -58,6 +58,7 @@ _You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/acc
 ```
 **Step 3: Assign to Manager for approval**
 1. If you are a manager requesting access for one of your reports, please skip to step 4.
+1. Add the label `AR-Approval::Needs Manager Approval` to the issue.
 1. Assign the issue to your manager. When access is being requested for multiple people who report to different managers but are part of the same department or division, approval can be obtained by the manager at the highest level; that is, the Director, Vice President, or Executive of the department or division.
 
 **Step 4: Managers to do**
