@@ -167,6 +167,9 @@ Make sure to use with headphones, and give it 10-15 minutes for your brain to ge
 
 ### Calendly
 
+**Note**: Google Calendar has added support to [create appointment schedules](https://support.google.com/calendar/answer/10729749?hl=en),
+which are similar to the functionality provided by Calendly.
+
 [Calendly](https://calendly.com/) connects to your Google Calendar so people outside GitLab can easily book a time with you.
 If you are scheduling a meeting with a GitLab team-member, please use Google Calendar and follow handbook guidance when [scheduling a meeting](/handbook/communication/#scheduling-meetings).
 
