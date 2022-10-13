@@ -64,7 +64,7 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 
 ## Resources and Projects
 - [Source of Truth Fields for Reporting](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/): WIP reference page for analysts, the output of Q1FY23 FACE quarterly project
-
+- [Email Domain Classification](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/email-domain-classification/)
 
 
 
