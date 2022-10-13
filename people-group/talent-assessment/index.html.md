@@ -283,6 +283,9 @@ A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
 - Team members who have changed assessments from the previous fiscal year (I.E. "Performing Performance" to "Exceeding Performance")
 - Team members in Box 3 ("Exceeding Growth Potential" and "Performing Performance") to highlight potential development opportunities from peer groups
 - Outliers based on Performance alone (I.E. everyone "Developing Performance" and everyone "Exceeding performance")
+- Anyone hired in the last 3 months assessed as Performing or Exceeding for Performance aligned with eligibility guidance
+- Anyone identified as Key Talent
+
 
 #### Calibration Session Pre-Work
 
