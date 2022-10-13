@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Oct 13 | FY23 - Q3 Competitive Update  | Joe K.  |
 | Oct 20 | *No session during the last two weeks of the quarter* | N/A |
 | Oct 27 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
@@ -34,6 +33,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-10-13 | **[How GitLab Competes with Snyk](https://youtu.be/SzAbgQGQ8Wg)**  | Private  |
 | 2022-10-06 | **[Security & Governance Enablement](https://youtu.be/O3osCCcZbt4)** | Private  |
 | 2022-09-29 | **[Collaborating with Community Programs](https://youtu.be/B75IPB5L4yI)**  | Private  |
 | 2022-09-15 | **[FY23 - Q3 Sales Ops Update - Clari Data Analytics & Best Practices](https://youtu.be/tNgYhYQH_N0)** | Private  |
