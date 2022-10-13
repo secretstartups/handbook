@@ -57,7 +57,7 @@ For GitLab team member prospective shadows:
 1. After your manager approves, assign the MR to me to review and merge.
 
 For non-GitLab prospective shadows:
-1. For non-GitLab team members, schedule time to discuss with me via my [calendly link](https://calendly.com/whabergitlab/30min).
+1. For non-GitLab team members, fill out this [form](https://forms.gle/EoHLLvdaVZLnFNuB7) to apply.
 
 ## How does the shadowing work?
 
