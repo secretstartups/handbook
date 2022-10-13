@@ -22,14 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### October 2022
 
-### Holistic Approach to Securing the Development Lifecycle
-#### October 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-This webinar will focus on fundamental practices for a secure software development lifecycle (SSDL) strategy, and how GitLab Ultimate helps you accelerate the end-to-end delivery of that SSDL strategy.
-We will also address the security principle of shifting left and what that means when implementing the suite of security, compliance and audit capabilities available in GitLab Ultimate.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_6GLZk2LrTnypPFbY-4qeng)
-
 ### Intro to CI/CD
 #### October 14th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
