@@ -52,8 +52,8 @@ Users may send in deletion or personal data access requests in a few different w
 
 When a request is received through a Zendesk ticket, do the following:
 
-1. For **account deletions**, apply the [Support::SaaS::Account Deletion Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro, and mark the ticket as solved.
-1. For **data access requests**, apply the [General::Personal Data Access Request Instructions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043149613) macro, and mark the ticket as solved.
+1. For **account deletions**, apply the [Support::SaaS::Account Deletion Instructions - GitLab.com](https://gitlab.com/search?search=360027176693&nav_source=navbar&project_id=17008590&group_id=15990755&search_code=true&repository_ref=master) macro, and mark the ticket as solved.
+1. For **data access requests**, apply the [General::Personal Data Access Request Instructions](https://gitlab.com/search?search=6147154241180&nav_source=navbar&project_id=17008590&group_id=15990755&search_code=true&repository_ref=master) macro, and mark the ticket as solved.
 
 ### Email Submissions
 
