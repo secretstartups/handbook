@@ -87,6 +87,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
 | [GitLab is Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | General |
+| [Building an all-remote company](https://hbr.org/podcast/2022/09/advice-from-the-ceo-of-an-all-remote-company) | General / All-remote |
 | [The Most Rewarding Teams in Tech are Looking For Talent. Are You in?](https://builtin.com/job-search-recruiting/most-rewarding-teams-tech-looking-talent) | General |
 | [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
 | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | General |
