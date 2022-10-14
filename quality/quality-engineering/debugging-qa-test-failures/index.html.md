@@ -118,7 +118,7 @@ Please use this step if there are no issues created to capture the failure. If t
 
 #### Special consideration for Staging-Canary
 
-`Staging-Canary` is unique when it comes to its blocking `smoke` and `reliable` tests that are triggered by the `deployer` pipeline. `Staging-Canary` executes `smoke/reliable` tests for both `Staging-Canary` AND `Staging` environments. This special configuration is designed to help catch issues that occur when incompatabilities arise between the shared and non-shared components of the environments.
+`Staging-Canary` is unique when it comes to its blocking `smoke` and `reliable` tests that are triggered by the `deployer` pipeline. `Staging-Canary` executes `smoke/reliable` tests for both `Staging-Canary` AND `Staging` environments. This special configuration is designed to help catch issues that occur when incompatibilities arise between the shared and non-shared components of the environments.
 
 `Staging-Canary` and `Staging` both share the same database backend, for example. Should a migration or change to either of the non-shared components during a deployment create an issue, running these tests together helps expose this situation. When the `deployer` pipeline triggers these test runs, they are reported serially in the `#qa_staging` Slack channel and they appear as different runs.
 
@@ -132,7 +132,7 @@ Note the diagram has been upadted as part of increasing rollback availability by
 
 #### Special consideration for Preprod
 
-`Preprod` is used to perform validation of release candidates. Every month around the 22nd, and the few days before, it is essential that there are no unexpected failures in the pipeline that will delay the release. There is a pipeline scheduled to run prior to deployment of the release candidate, to give us a chance to identify and resolve any issues with tests or the test environment. This scheduled pipeline should be given equal priority with `Production` and `Staging` pipelines because of the potential impact failures can have on a release.
+[`Preprod`](/handbook/engineering/infrastructure/environments/#pre) is used to perform validation of release candidates. Every month around the 22nd, and the few days before, it is essential that there are no unexpected failures in the pipeline that will delay the release. There is a pipeline scheduled to run prior to deployment of the release candidate, to give us a chance to identify and resolve any issues with tests or the test environment. This scheduled pipeline should be given equal priority with `Production` and `Staging` pipelines because of the potential impact failures can have on a release.
 
 Tests pipelines are also triggered by the [Kubernetes Workload configuration project](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) to ensure that any configuration changes are valid.
 
@@ -177,31 +177,40 @@ Failure examples can be seen in [Training Videos](#training-videos).
 You can run the test (or perform the test steps manually) against your local GitLab instance to see if the failure is reproducible. For example:
 
 ``` plaintext
-CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost:3000 qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
+WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost:3000 qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
 Orchestrated tests are excluded by default. To run them, use `-- --tag orchestrated` before your file name. For example:
 
 ``` plaintext
-CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost:3000 -- --tag orchestrated qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
+WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost:3000 -- --tag orchestrated qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
 #### Run the test against a GitLab Docker container
 
-You can also use the same Docker image (same sha256 hash) as the one used in the failing job to run GitLab in a container on your local.
-In the logs of the failing job, search for `Downloaded newer image for gitlab/gitlab-ce:nightly` or `Downloaded newer image for gitlab/gitlab-ee:nightly`
-and use the sha256 hash just above that line.
+You can also use the same Docker image as the one used in the failing job to run GitLab in a container on your local.
+In the logs of the failing job, search for `gitlab-ee` or `gitlab-ce` and use its tag to start the container locally.
 
-To run GitLab in a container on your local, the docker command similar to the one shown in the logs can be used. E.g.:
+To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, the docker command similar to the one shown in the logs can be used. E.g.:
 
-``` plaintext
-docker run --publish 80:80 --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"' --name gitlab --hostname localhost gitlab/gitlab-ce:nightly@sha256:<hash>
+```shell
+docker run \
+  --hostname localhost \
+  --publish 443:443 --publish 80:80 --publish 22:22 \
+  --name gitlab \
+  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"'
+  --shm-size 256m \
+  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
 ```
+
+Note that to be able to pull the docker image from `registry.gitlab.com` you need to [authenticate with the Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/#authenticate-with-the-container-registry).
+
+To run Nightly images change `registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>` from the Docker command above to `gitlab/gitlab-ee:nightly` or `gitlab/gitlab-ce:nightly`.
 
 You can now run the test against this Docker instance. E.g.:
 
-``` plaintext
-CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
+``` shell
+WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
 #### Run the tests against CustomersDot staging environment
@@ -359,7 +368,7 @@ If the failure is in a `smoke` or a `reliable` test, it will block deployments. 
 
 Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. You may also want to post to Quality's Slack channel, `#quality`, depending on the impact of the failure.
 
-If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` slack channel, this will automatically prevent deployments (if the incident is at least an S2).
+If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` Slack channel, this will automatically prevent deployments (if the incident is at least an S2).
 
 ## Following up on test failures
 
@@ -509,7 +518,7 @@ If you decide the test is still valuable but don't want to leave it quarantined,
 
 ## Training Videos
 
-These videos walking through the triage process were recorded and uploaded to the [GitLab Unfilitered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
+These videos walking through the triage process were recorded and uploaded to the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
 - [Quality Team: Failure Triage Training - Part 1](https://www.youtube.com/watch?v=Fx1DeWoTG4M)
   - Covers the basics of investigating pipeline failures locally.
