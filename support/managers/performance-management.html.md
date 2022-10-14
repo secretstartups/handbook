@@ -67,7 +67,7 @@ Managers should act early by having a conversation with their direct report when
 Once you and your manager agree, the next steps are to: 
 - [loop in the Team Member Relations Partner](/handbook/leadership/underperformance/#loop-in-the-team-member-relations-partner)
 - Have a conversation with your direct report:
-   - review [GitLab's guidelines on providing feedback](/handbook/people-group/guidance-on-feedback/#all-feedback), and any additional training you have received (such as the [LifeLabs Learning](/handbook/leadership/life-labs-learning/) course on coaching and feedback)
+   - review [GitLab's guidelines on providing feedback](/handbook/people-group/guidance-on-feedback/#all-feedback), and any additional training you have received
    - communicate that you have identified specific behaviors that indicate the team member is not currently performing to standards (include specific examples)
    - be clear that this discussion is not a formal verbal warning or written warning
    - ensure [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/) and provide space for the team member to respond and raise concerns
