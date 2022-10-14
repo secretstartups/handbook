@@ -11,7 +11,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 {:toc .hidden-md .hidden-lg}
 
 ## Welcome to GitLab Professional Services Operations 
-Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
+Professional Services Operations is a collaboration of our consulting, training, scheduling, reporting and backend processes to support the Professional Services team.
 
 ___
 
@@ -41,7 +41,7 @@ If project work is required to start the project prior to the opportunity bookin
 
 #### Customer Consulting Project Scheduling
 
-The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utlized to track the progress of each project as we work through Mavenlink project set up, project team assignment and partner paperwork. 
+The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utilized to track the progress of each project as we work through Mavenlink project set up, project team assignment and partner paperwork. 
 
 #### Scheduling Request for Consulting Projects
 
@@ -56,7 +56,7 @@ Before contacting the Operations team to discuss scheduling on a consulting proj
 | Executed MSA/PSA | Opportunity Owner |
 | Agreed close plan with the customer | Opportunity Owner |
 | Skills pushed to the Customer Epic | Assigned Engagement Manager |
-| [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist)  | Requestor of Scheduing Request |
+| [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist)  | Requestor of Scheduling Request |
 
 For staffing requirements or questions, add the details to the PC Checklist Issue and tag the assigned Project Coordinator
 
@@ -128,7 +128,7 @@ For T&M projects, revenue is released at each month end. Project hours are submi
 ##### Revenue Release FP Projects
 
 For FP projects, revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
-The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink.  When counting the passive acceptance days, day 1 would be the date the notifiation is sent, from the date sent then business days is calculated for the passive acceptance.
+The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink.  When counting the passive acceptance days, day 1 would be the date the notification is sent, from the date sent then business days is calculated for the passive acceptance.
 *  Update Sign Off Sent, when email request is sent
 *  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
 *  Update if Passive Acceptance has been utilized for sign off
@@ -299,7 +299,7 @@ Internal projects are set up to track internal time that is not customer project
 
 Professional Services has a hard close at each month end.
 
-Our agreed schedule with finance is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
+Our agreed schedule with finance is [Monthly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
 
    * By Noon ET, Time Sheets will need to be submitted on -3 working day from the last business day of the month
      * Time would include hours for that day along with an estimate of hours for the final 2 business days of the month
@@ -318,7 +318,7 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 #### Month End Revenue and Billing Timelines
 
-Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
+Our agreed schedule with finance is [Monthly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
 
 All timesheets and fixed priced items will be signed off and completed on the monthly and quarterly deadline, then timesheets approvals and reports are submitted the following day.
 
@@ -356,8 +356,8 @@ GitLab Partner Travels:
 
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
 The Project Manager or Project Coordinator will provide the partner the travel budget.  
-Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
-   * Seperate line item for expenses on the invoice 
+Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the following details
+   * Separate line item for expenses on the invoice 
    * One PDF document to include receipts for each expense
 Expenses are to be invoiced in the month in which they have incurred.
 
@@ -451,7 +451,7 @@ TO DO
    * What is the estimated spend?
       * For the most part, answer “no”
    * Requisition Information
-      * Add Parnter Name
+      * Add Partner Name
       * Description/ Item 
          * GitLab -Partner Name- Customer Name- PSE/ PM Name
          * Training- Training:  partner name / year month day
