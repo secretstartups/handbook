@@ -80,6 +80,17 @@ Some questions we discussed so far:
  - Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
  - Nutella – with or without butter underneath?
 
+### APAC Sync Call
+
+ The APAC Ginkgo team hosts an end-of-week sync call in the *Ginkgo Zoom Room*, held on Fridays at 03:30 UTC. The structure is free-form, so can be used for one or more of the following: 
+
+ - Ticket/Crush Sessions
+ - Week In Review
+ - Social Call
+ - Ginkgo Group Retrospective (if planning, it is recommended to invite a manager to facilitate as a coach/mentor on the call)
+
+The meeting chair is rotated between available Ginkgo team members, and the call is available to all GitLab team members to join in and participate! Further details can be found in the GitLab Support shared calendar. 
+
 ### Slack
 
 #### Slack notifications
@@ -98,3 +109,5 @@ We have dedicated Slack group handles in place that allow us to easily target sp
  - `@spt-ginkgo-amer`
  - `@spt-ginkgo-apac`
  - `@spt-ginkgo-emea`
+
+![multiple tanuki celebrating a party under a ginkgo tree in cartoon style](/handbook/support/support-global-groups/groups/ginkgo/sgg_ginkgo_party.png)
