@@ -9,7 +9,7 @@ title: "Questions & Techniques for Success Plan Discovery"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
@@ -163,7 +163,7 @@ It can be helpful to ask what your champion’s manager or department is focused
 
 ## Leveling Up from Operational/Technical to Strategic
 
-As TAMs, customers often expect that our focus is on the technical details of their GitLab usage and environment. While we should be preprared to discuss technical and operational concerns, particularly related to GitLab implementation, we should always be thinking (and talking) about how those details relate to strategic business outcomes.
+As CSMs, customers often expect that our focus is on the technical details of their GitLab usage and environment. While we should be preprared to discuss technical and operational concerns, particularly related to GitLab implementation, we should always be thinking (and talking) about how those details relate to strategic business outcomes.
 
 When the conversation moves into a highly technical space, these questions can help you level it up to business outcomes again, and tie those technical details back to the larger strategy.
 
@@ -188,27 +188,27 @@ Frequently when talking to our champion or their team, the things they will tell
 
 For example:
 
-> **TAM:** As we enter in to the second half of this year, would you please help me to better understand what your key focus is?
+> **CSM:** As we enter in to the second half of this year, would you please help me to better understand what your key focus is?
 >
 > **Customer:** My primary focus is setting up a HA infrastucutre.
 >
-> **TAM:** Great! Would you please help me for my understanding what current challenges you are looking to solve for with HA?
+> **CSM:** Great! Would you please help me for my understanding what current challenges you are looking to solve for with HA?
 >
 > **Customer:** We want to increase our uptime and scalability.
 >
-> **TAM:** That makes sense, and is a pretty common scenario for our customers. What are your primary concerns related to uptime and scalability right now?
+> **CSM:** That makes sense, and is a pretty common scenario for our customers. What are your primary concerns related to uptime and scalability right now?
 >
 > **Customer:** We've been adding users to our GitLab instance and have seen some performance problems during times of peak usage, with occasional outages when the system is under heavy load.
 >
-> **TAM:** Ah ok, good to know! What impact is that performance decrease having to your business, and what improvement are you looking to achieve by implementing HA?
+> **CSM:** Ah ok, good to know! What impact is that performance decrease having to your business, and what improvement are you looking to achieve by implementing HA?
 >
 > **Customer:** Improving GitLab's performance and reliability will make our development teams more effective, since they can count on GitLab to work well throughout the day.
 >
-> **TAM:** That sounds like a big productivity benefit! How does developer efficiency relate to your company's larger software development objectives?
+> **CSM:** That sounds like a big productivity benefit! How does developer efficiency relate to your company's larger software development objectives?
 >
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
-By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the CSM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the CSM can [ask about metrics](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
 
 If you'd like to see more examples of how to use the Five Whys framework and what it could look like in practice, take a look at the [Five Whys breakout session from SKO 2021](https://gitlab.edcast.com/insights/breakout-leveling).
 
