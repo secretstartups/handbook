@@ -170,7 +170,7 @@ While often they match, the organization name a customer provides will not alway
 Since [the ZD organization information is synced from the SFDC Account](/handbook/support/support-ops/responsibilities.html#account---organization-sync-from-salesforce),
 if you're unsure, [look up the account in Salesforce](looking_up_customer_account_details.html#within-salesforce) for the org name.
 
-You can search for organizations using the ZD search (see screenshot below).
+You can search for organizations in the ZD search using their [SFDC ID](/handbook/support/support-ops/training/searching-in-zendesk.html#searching-by-custom-organization-field) that is [obtained from customers.gitlab.com](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_account_details.html#within-customersgitlabcom) (see screenshot below).
 
 ![Selecting an organization in ZD](/images/handbook/support/zendesk_needs_org-finding-org.png)
 
