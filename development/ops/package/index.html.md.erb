@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Package Group - We design, build and maintain the GitLab Package stage
+title: Package Stage
 ---
 
 ## On this page
@@ -11,8 +11,7 @@ title: Package Group - We design, build and maintain the GitLab Package stage
 
 ## 🎯 Mission and Vision
 
-The Package group works on the part of GitLab concerning the [Package
-stage], which integrates with [GitLab's CI/CD product](/direction/ops/).
+The Package stage integrates with [GitLab's CI/CD product](/direction/ops/).
 
 Our mission is to create a secure environment where both source code and dependencies can live by
 allowing you to publish, consume, and discover packages of a large variety of languages and platforms
@@ -20,34 +19,20 @@ all in one place.
 
 For more details about the vision for this product area, see the [product vision] page.
 
-## The team
+## Who We Are
 
-The package group is a [Fullstack team](/handbook/engineering/starting-new-teams/#fullstack-teams) which means that all the engineers, Frontend and Backend, report to a single [Fullstack Engineering Manager](/job-families/engineering/development/management/fullstack-manager/). Using this model increases efficiency and drives results by building a process that supports all team members towards our goals. This means that all engineers participate in conversations in the group and contribute broadly to group process iteration.
+The Package stage is made up of two groups:
 
-The package group is made up of 3 functional teams:
-- Go engineers primarily responsible for:
-  - [Container Registry](/direction/ops/#container-registry/)
-  - [Helm Chart Registry](/direction/ops/#helm-chart-registry)
-- Ruby engineers who are primarily responsible for:
-  - [Package Registry](/direction/ops/#package-registry)
-  - [Dependency Proxy](/direction/ops/#dependency-proxy)
-  - [Dependency Firewall](/direction/ops/#dependency-firewall)
-- Frontend engineers who are primarily responsible for
-  - Implementation of User Experience spanning all categories
+1. [Package:Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/)
+1. [Package:Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/)
 
-Due to these small functional teams, the Package group deliverables are sometimes more at risk given that there are fewer people who can help out.
-
-### Team Members
-
-The following people are permanent members of the Package Group:
+### Package:Container Registry
 
 <%= direct_team(manager_slug: 'michelletorres') %>
 
-### Stable Counterparts
+### Package:Package Registry
 
-The following members of other functional teams are our stable counterparts:
-
-<%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'michelletorres') %>
+<%= direct_team(manager_slug: 'michelletorres') %>
 
 ## 📈 Measuring results
 
@@ -61,7 +46,6 @@ In order to better align our effort with our customer's needs we will use the fo
 1. We will reevaluate our ability to deliver on our long term goals in each iteration.
 
 ### Product maturity goals
-
 
 The below epics detail the work required to move each respective category to the next maturity level.
 
@@ -105,10 +89,6 @@ These dashboards are all internal and can be only accessed by GitLab Team member
 - [Package usage funnel](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel) (SiSense)
 - [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs) (SiSense)
 - [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption) (SiSense)
-
-
-
-
 
 ### Error Budget
 
