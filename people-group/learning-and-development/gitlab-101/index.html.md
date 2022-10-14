@@ -123,7 +123,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-Please complete the Lesson 1 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-101-certification)
+Please complete the Lesson 1 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
 
 ## Lesson 2: GitLab Issues
 
@@ -224,7 +224,7 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 
 ### Quiz - Lesson 2: GitLab Issues
 
-Please complete the Lesson 2 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-101-certification)
+Please complete the Lesson 2 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
 
 ## Lesson 3: GitLab Merge Requests
 
@@ -269,10 +269,10 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
 
 ### Quiz - Lesson 3: GitLab Merge Requests
 
-Please complete the Lesson 3 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-101-certification)
+Please complete the Lesson 3 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
 ## Feedback
 
-We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-101-certification).
+We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101).
