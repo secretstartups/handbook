@@ -16,6 +16,12 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY23
 
+### 2022-10-17 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/192))
+
+**Sales Ops: [Chorus Data Retention Policy Extension](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#security--privacy-controls)**
+
+**Sales Ops: [Update to Changing Opportunity Ownership in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#changing-opportunity-ownership-in-salesforce)**
+
 ### 2022-10-03 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/185))
 
 **Deal Desk/Fulfillment: [Quarterly Subscription Reconciliation (QSR) Notifications Now Available in SFDC](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4592)**
