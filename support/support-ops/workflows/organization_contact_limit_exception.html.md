@@ -23,7 +23,7 @@ page:
 > organization on Zendesk Global.
 
 When at this limit, the organization is no longer eligible to add more contacts,
-have a shared organization setup, etc. 
+have a shared organization setup, etc.
 
 In rare circumstances, we grant temporary contact limit exceptions.
 
@@ -32,7 +32,7 @@ In rare circumstances, we grant temporary contact limit exceptions.
 
 ### Requester portion
 
-The process will beging with the organization's sales representative (AM, TAM,
+The process will beging with the organization's sales representative (AM, CSM,
 SA) filing a
 [Support Contact Exception Request issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Contact%20Limit%20Exception%20Request)
 within the
@@ -66,7 +66,7 @@ current user list of the organization in question.
 
 Start by un-associating all users not within the approved contact list. After
 doing so, associate or create any users in the approved contact list but not
-under the organization. 
+under the organization.
 
 The next step is to add a note under the organization's `Details` section with
 the following:
@@ -102,7 +102,7 @@ date.
 Finish up the request by:
 
 * Adding the time spent on the issue
-* Adding the label ~"SupportOps::Completed" 
+* Adding the label ~"SupportOps::Completed"
 * Commenting confirming all of the above have been completed
 * Closing out the issue
 
