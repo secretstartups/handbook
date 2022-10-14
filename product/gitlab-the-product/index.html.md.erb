@@ -138,23 +138,30 @@ Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/gl-infra/
 - ready for production use at any scale
 - fully documented and [supported](https://about.gitlab.com/support/statement-of-support/#starter-premium-and-ultimate-users)
 
-### Breaking changes, deprecations, and removing features
+### Deprecations, removals, and breaking changes
 
-![Deprecation, End of Support, Removal process](deprecation_removal_process.png)
+#### Breaking changes
 
-A breaking change may occur when you intentionally plan to change or remove functionality. Breaking changes can sometimes result from the addition of new features. It is the responsibility of the PM and EM for a category to carefully consider the risk and impact of introducing a breaking change as they can cause severe disruption to customers.
+A breaking change is defined as a non-backward compatible change that:
 
-If you are introducing a breaking change, you must notify the user community and customers through a deprecation notice in the monthly release post as soon as possible. Follow the [process outlined below for deprecations and removals](#process-for-deprecating-and-removing-a-feature).
+- causes other areas of the GitLab product to fail, or
+- alters product behavior such that dependent workflows can no longer be completed and no workaround can be provided. 
 
-#### Examples of breaking changes
+A breaking change may occur when you intentionally plan to change or remove functionality. Breaking changes can sometimes result from the addition of new features. It is the responsibility of the PM and EM for a category to carefully consider the risk and impact of introducing a breaking change as they can cause severe disruption to users.
 
-- API Changed
-- Behavior Changed
-- Default Changed
+If you are introducing a breaking change, you must notify the user community and users through a deprecation notice in the monthly release post as soon as possible. Follow the [process outlined below for deprecations and removals](#process-for-deprecating-and-removing-a-feature).
+
+#### Is this a breaking change?
+
+If the answer is yes to any of the following questions, the change is to be considered a breaking change and should only be introduced in a major version.
+
+- Does this change require an action from the customer to ensure continuity of function? (For example, removing background upload for object storage meant users needed to migrate objects to a supported object storage provider)
+- Does this change cause a disruption to a customer's workflows or tasks? (For example, removing support for the "WIP" prefix in MRs meant users would need to use the "Draft:" prefix instead)
+- Does this change cause other parts of the product to fail? (For example, removing certificate-based cluster integration means users can no longer install additional applications via GitLab Managed Apps)
 
 #### Deprecating and removing features
 
-Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our customers. As you move through the process, use the language `deprecated` or `removed` to specify the current state of the feature that is going to be or has been removed.
+Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our users. As you move through the process, use the language `deprecated` or `removed` to specify the current state of the feature that is going to be or has been removed.
 
 **Note** - some deprecations or removals do not result in a breaking change. So in your deprecation or removal notice, you need to be explicit about the following:
 
