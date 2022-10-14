@@ -370,7 +370,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday November 30 | People | People Leadership | Nov 10 |
 | Tuesday December 6 | Development | Christopher Lefelhocz | November 23 |
 | Wednesday December 7 | **Available** | | Key Review Date? |
-| Thursday December 8 | **Available** | | Key Review Date? |
+| Thursday December 8 | Finance| Brian Robins | November 23 |
 | Tuesday December 13 | Quality | Mek Stittri | December 1 |
 | Wednesday December 14 | Product | Product Leadership | TBD |
 | Thursday December 15 | **Available** | | Key Review Date? |
