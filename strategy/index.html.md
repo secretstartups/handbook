@@ -38,7 +38,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
        1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
     1. [Registration features](/direction/registration-initiatives//#registration-features)
 1. Prove value
-1. Advocate Training
+    1. Advocate Training
     1. Advocate Certification
     1. Standardize customer value data
     1. [Exec dashboards](https://gitlab.com/gitlab-org/gitlab/-/issues/370887) 
@@ -60,23 +60,23 @@ Build upon our current platform to meet current and future user needs.
     1. GitHub Differentiation 
     1. DIY best in class comparison
     1. [Plan](/direction/plan/)
-      1. Provide mature planning solution to Ultimate customers
-      1. Custom fields
-      1. Workflow automation
-      1. Great importers
+        1. Provide mature planning solution to Ultimate customers
+        1. Custom fields
+        1. Workflow automation
+        1. Great importers
     1. [Create](/direction/create/)
-      1. Code suggestions 
-      1. Remote Dev 
+        1. Code suggestions 
+        1. Remote Dev 
     1. [Verify](/direction/ops/#verify)
-      1. Build, test, and deployment automation
-      1. Increase speed
+        1. Build, test, and deployment automation
+        1. Increase speed
     1. [Ops](/direction/ops)
-      1. Monitor UI library 
-      1. Agent using environments 
-      1. [GitOps](/topics/gitops/)
+        1. Monitor UI library 
+        1. Agent using environments 
+        1. [GitOps](/topics/gitops/)
     1. [Incubation engineering](/handbook/engineering/incubation/) 
-      1. [OKRs](/company/okrs/)
-      1. [MLOps](/handbook/engineering/incubation/mlops/)
+        1. [OKRs](/company/okrs/)
+        1. [MLOps](/handbook/engineering/incubation/mlops/)
 1. Scaling
     1. Dedicated (see ARR strategy pillar for details)
     1. Free user limits 
