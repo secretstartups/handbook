@@ -247,7 +247,7 @@ The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/comp
 
 ### Director, Corporate Events
 
-Director, Corporate Events reports to VP, Corporate Marketing. 
+Director, Corporate Events reports to VP, Integrated Marketing. 
 
 ### Director, Corporate Events Job Grade
 
@@ -255,18 +255,31 @@ The Director, Corporate Events is a [grade 10](/handbook/total-rewards/compensat
 
 #### Director, Corporate Events Responsibilities
 
-* Extends that of Senior Manager, Corporate Events responsibilities.
-* Thinks strategically and forward looking about overall team, budget and resources needed to execute corporate events.
-* Sets OKRs and overall goals for the team. 
-* Works collaboratively with leaders across the organization to align on objectives and overall structure for coroprate events.
-* Shares overall results of events, and then takes feedback and data to iterate on future events.
+* Drives the development of the overall event marketing strategy for GitLab, communicating and championing the approach to senior leadership, cross-org and to their team
+* Leads planning and production for large scale 1st and 3rd party events, including project management, designing and delivering the event experience
+* Coaches, develops and  mentors a high-performing team of event specialists and production teams, in addition to cross-functional contributors to achieve the highest level of execution
+* Manages the corporate events budget, including sponsorship, event booth execution and experience, while balancing ROI and aligning spend to strategic goals
+* Negotiates and proactively secures opportunities for GitLab to fully leverage our investment and presence in key industry events and moments
+* Elevates the event experience to differentiate GitLab and engage customers and prospects
+* Supports team with on-site execution and management, including staffing and resourcing
+* Owns and delivers reporting analysis on performance and business impact
+* Develops and leverages high performing teams to create a competitive advantage.
+* Provides leadership and across teams direction through senior managers, managers, and senior individual contributors
+* Communicates strategy and makes sound decisions that support the strategy. Cascades important and relevant information to their teams in a timely manner.
+* Effectively communicates with complex external audiences and at cross-org leadership levels.
+
 
 #### Director, Corporate Events Requirements
 
-* Extends that of the Senior Manager, Corporate Events requirements.
-* Relevant, progressive experience
-* Proven experience managing and growing teams.
-* Proven experience managing agencies and contractors to accomplish goals.
+* 10+ years experience in managing large scale, B2B events client-side or in-house
+* Strong relationship builder, ability to lead cross-functional contributors, in addition to direct reports
+* Collaborative and transparent communicator at all levels of organization, including managing conflict and challenging conversations
+* Track record of empowering team to achieve high level of execution and supporting individuals personal deelopment
+* Equally comfortable and extensive experience with core event logistics and managing complex event programs and related decision making
+* Skilled at delivering creative and innovative experiential elements that are authentic to the organization and support overall messaging
+* Expert in budget and project management and superior organizational skills
+* Extensive experience collaborating and communicating with Sales, Product, Marketing; agencies and vendors
+
 * Ability to travel if needed and comply with the company’s travel policy. 
 * If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
@@ -286,9 +299,11 @@ The next step in the Corporate Events job family is not yet defined at GitLab.
  
 Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
  
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with the Hiring Manager
-* Next, candidates will be invited to interview with 2-5 team members
-* There may be a final executive interview
+* Qualified candidates will be invited to a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters
+* Candidates will be invited to a 50 minute interview with the VP, Integrated Marketing
+* Candidates will be invited to a 50 minute interview with the Director, Field Marketing
+* Candidates will be invited to a 50 minute interview with the Director, Partner Marketing
+* Candidates will be invited to a 50 minute interview with the Marketing - Director, People Business Partner
+
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
