@@ -234,8 +234,66 @@ with the experience requirements adjusted to:
 - 2+ years of experience being responsible for planning, solutioning, work allocation & 
 prioritization, stakeholder management, and cross-functional collaboration as a data team lead
 
+#### Senior Manager, Product Data Insights
+
+The Senior Manager, Product Data Insights role extends the Manager, Product Data Insights role expectations.
+
+##### Job Grade
+
+The Senior Manager, Product Data Insights role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Expectations
+
+**Lead a team of ICs and Managers**
+
+- Manage and lead a high performing team comprised of managers, and ICs
+- Effective at leading through frontline managers
+- Proactively identify strategic opportunities for product team via data analysis 
+- Ensure team is delivering high-quality work and maintaining a consistent [velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
+- Mentor and coach members of the team, including managers to increase the impact of their teams
+- Conduct and maintain skip-level 1:1s and feedback sessions ensuring the team is operaring in line with GitLab's values
+- Work cross-functionally with other leaders through the company (including Product, IT, Sales, and Marketing) ensuring the team's direction is aligned with company needs.
+- Be a thought partner to other members of the team, including delivering feedback on analysis
+- Proacively identify and prioritize high impact, cross section work for the Product division. 
+- Ensure the team's work, including code, meets our internal standards for style, 
+maintainability, and best practices
+
+**Be a leader in the GitLab data community**
+
+- Help create a leading product Data Program to support GitLab's vision and advocate for a 
+data-driven culture 
+- Act as a central contributor to cross-functional groups and initiatives like 
+[FACE (Functional Analytics Center of Excellence)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
+- Actively provide feedback on Product strategy direction leveraging insights derived from the team 
+- Contribute to GitLab's [Analytics section](https://about.gitlab.com/direction/analytics/) providing feedback on tools, technology and use cases for Product Analytics.  
+
+**Be an individual contributor**
+
+- Senior Managers are expected to contribute in a Staff Product Analyst capacity, as outlined above
+
+##### Requirements
+
+Senior Manager, Product Data Insights are expected to meet the [Staff Product Analyst requirements](#senior-pa-requirements),
+with the experience requirements adjusted to:
+
+- 4+ years of experience managing and developing a data analytics team
+- 2+ years of experience managing managers
+- 6+ years of experience being responsible for planning, solutioning, work allocation & 
+prioritization, stakeholder management, and cross-functional collaboration as a data team lead
+
 ## Relevant links
 
 - [Product Data Insights Handbook](/handbook/product/product-analysis/)
 - [Data Team Handbook](/handbook/business-technology/data-team/)
 - [Product Handbook](/handbook/product/)
+
+## Performance Indicator
+
+Product Data Insights Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
+
+1. Support of all section's Product Performance Indicators
+1. Our global Product KPIs
+1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
+1. Hiring versus plan and new hire location factor
+1. Ensuring individuals meet and maintain their ([Performance Indicator](/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
+
