@@ -25,7 +25,7 @@ As an open source project, we want to stay healthy and be open for growth, but a
 our community. In order to achieve that, we've [outlined a strategy](growth-strategy.html) that is a collaboration between multiple departments.
 
 ## General notes
-- [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95)
+- [GitLab Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)
 - [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) 
 
 ## Creating an open source project
