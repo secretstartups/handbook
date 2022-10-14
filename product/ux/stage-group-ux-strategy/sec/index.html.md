@@ -176,6 +176,7 @@ At the start of each Milestone, we create a Team Milestone Planning Issue (using
     Flex Capacity is any extra weight points you'll hold in reserve to accommodate any OKR, UX Dept or any other extracorricular work that you expect will pop-up during this milestone  -->
     | Designer | Group Capacity | Flex Capacity | TOTAL Capacity |
     | -------- | ------ | ------ | ------ |
+    | Alex     |        |        |        |
     | Andy     |        |        |        |
     | Becka    |        |        |        |
     | Camellia |        |        |        |
@@ -184,6 +185,7 @@ At the start of each Milestone, we create a Team Milestone Planning Issue (using
      ### Product Designer's Out Of Office (OOO)
      | Designer | OOO Start - End |
      | -------- | --------------- |
+     | Alex     |                 |
      | Andy     |                 |
      | Becka    |                 |
      | Camellia |                 |
@@ -193,7 +195,44 @@ At the start of each Milestone, we create a Team Milestone Planning Issue (using
      NOTE: We need to strive to act upon these issues quickly as they will impact our usability
      * [SUS Related Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/3738104?label_name[]=SUS&label_name[]=severity%3A%3A2)
 
-    ### Composition Analysis UX Needs - UX Roadmap Theme: `<theme link here>`
+    ### Pajamas Migrations
+    Please commit to doing at least 1 migration per milestone. Here is a [link](#) of things that need migrating. Once you've selected one add it to the OKR/Extras table at the bottom and be sure to subtract it from your Flex Capacity.
+
+    ## Summary Of Work This Milestone
+    | Stage | UX Theme/Issue | status | Designer | 
+    | ---| --- | --- | --- |
+    | Compliance  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+    | Composition Analysis  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+    | Container Security  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+    | Dynamic Analysis  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+    | Static Analysis  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+    | Threat Insights  | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  |
+
+    ### Compliance UX Needs
+    
+    #### UX Theme 
+    <!-- Working in themes is a goal we should always aim for. It allows teams to design holistically instead of in small parts of a whole, issue-by-issue. Sometimes things don't fit nicely into a theme, add those issues to the Non-theme related needs table. -->
+    | UX Theme | Theme status | Designer | Vision Design Ready By (Milestone or :white_check_mark:)  | Est Milestone Weight | 
+    | --- | --- | --- | --- | --- | 
+    | <!-- theme issue here -->  | <!-- ~"workflow::design", ~"workflow::solution validation" --> | <!-- @ designer -->  | <!-- MS or :white_check_mark: -->  |<!-- weight here --> |  
+
+    ##### Theme MVC Issues
+    <!-- Once a Theme's Vision design has been completed (:white_check_mark:) you'll work with your counterparts to break it down into manageable MVCs. This is where the higher fidelity work (coloring in the wireframe if you will) will happen. -->
+
+    | Priority | Issue/Epic | State | 💯 Need / 💪 Nice to have | Designer | Ready for Build By | ≅ Weight | Carryover Notes |
+    | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+    | 1 | <!-- link goes here  --> | <!-- Ready for design --> | <!-- 💯  --> | <!-- designer name  --> | <!-- Milestone --> | <!-- approx weight --> | <!-- Add notes why not done in prev milestone --> |
+    | 2 | <!--  link goes here  --> | <!-- Needs solution validation --> | <!-- 💪  --> | <!-- designer name  --> | <!-- Milestone  --> | <!-- approx weight --> | <!-- Add notes why not done in prev milestone --> |
+
+    #### Non-theme related needs
+
+    <!-- Issue priority is determined by looking at the first Priority column's priority number, measuring that against the Need/Nice to have a column, and then finally against when it needs to be Ready for Build By. All of these items together will determine an overall priority that can be used as a measure against another issue in another Group's table. This can be helpful when determining if a designer needs to drop an issue in one Group to pick up another issue in a different Group. -->
+
+    | Priority | Issue/Epic | State | 💯 Need / 💪 Nice to have | Designer | Ready for Build By | ≅ Weight | Carryover Notes |
+    | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+    | 1 | <!-- link goes here  --> | <!-- Ready for design --> | <!-- 💯  --> | <!-- designer name  --> | <!-- Milestone --> | <!-- approx weight --> | <!-- Add notes why not done in prev milestone --> |
+
+    ### Composition Analysis UX Needs
     
     #### UX Theme 
     <!-- Working in themes is a goal we should always aim for. It allows teams to design holistically instead of in small parts of a whole, issue-by-issue. Sometimes things don't fit nicely into a theme, add those issues to the Non-theme related needs table. -->
@@ -313,8 +352,8 @@ At the start of each Milestone, we create a Team Milestone Planning Issue (using
     | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
     | 1 | <!-- link goes here  --> | <!-- Ready for design --> | <!-- 💯  --> | <!-- designer name  --> | <!-- Milestone --> | <!-- approx weight --> | <!-- Add notes why not done in prev milestone --> |
 
-    ### OKR/Extra UX Needs
-    | Priority | Issue/Epic | State | 💯 Need / 💪 Nice to have | Designer | Ready for Build By | ≅ Weight |
+    ### OKR/Extra UX Needs (include anything that you know about or already committed to doing)
+| Priority | Issue/Epic | State | 💯 Need / 💪 Nice to have | Designer | Ready for Build By | ≅ Flex Weight |
     | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
     | 1 | <!-- link goes here  --> | <!-- Ready for design --> | <!-- 💯  --> | <!-- designer name  --> | <!-- Milestone --> | <!-- approx weight --> |
     | 2 | <!--  link goes here  --> | <!-- Needs solution validation --> | <!-- 💪  --> | <!-- designer name  --> | <!-- Milestone  --> | <!-- approx weight --> |
