@@ -103,6 +103,8 @@ Select these [SA] Activity types when capturing activities by the Alliance/Chann
 
 - **Internal Enablement and SME Assistance** [Alliances][Channel] - Calls, meetings, webinars for internal field SA enablement and assistance.  
 
+- **Partner Assisted Demand Gen** [Alliances][Channel] - Webinars, workshops, roadshows and similar activities in collaboration with a partner, focussed on demand generation.  
+
 ### Description for Value Stream Assessment
 
 - **VSA Pitch** - This is an initial VSA pitch to the customers/prospects to get their buy in, discuss next steps, send follow ups before the VSA planning meeting
