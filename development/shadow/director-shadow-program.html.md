@@ -74,12 +74,12 @@ The engineering director shadow will have a chance to work alongside engineering
 * Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are only a few attendees). Tell participants who you are, what your non-shadow role is, and that you are a shadow in this meeting.
 * Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](/handbook/values/). 
 * Please let Wayne know if you notice him interrupting speakers, speaking too quickly, or not pausing often enough. These are things he is working on improving.
+* Ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.  This slack channel will not include discussions of confidential topics because it will include non-Gitlab team members via adding them to slack as a "one channel participant".
 
 For GitLab team member shadows: 
 * Attend all of the scheduled meetings which are not marked as `private` that Wayne has accepted. You can attend 1-1s, group meetings, and much more.
 * Review documents linked to the meetings.
 * Take notes in the meeting documents in order to collect main points and outcomes. 
-* GitLab team members should feel free to ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.  Non-GitLab team members will do the same via a different method of async communication TBD.
 * Review Slack messages I have written in public channels.
 * Review Wayne's assigned [issues](https://gitlab.com/dashboard/issues?assignee_username=wayne), [assigned merge requests](https://gitlab.com/dashboard/merge_requests?assignee_username=wayne), and [merge requests for review](https://gitlab.com/dashboard/merge_requests?reviewer_username=wayne)  
 
@@ -105,10 +105,9 @@ For Gitlab team members, it is not a performance evaluation or a step for a futu
 1. Reduce your workload by at least 75% during the shadowing time period. Don't plan to do your normal amount of usual non-shadow work.
 1. Review my [readme](/handbook/engineering/readmes/wayne-haber/).
 1. Read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend.
-
+1. Slack me in `#wayne_shadow_program` to let me know a couple of days before your first shadow
 
 For GitLab team member shadows: 
-1. Slack me in `#wayne_shadow_program` to let me know a couple of days before your first shadow
 1. Schedule these coffee chats a couple of days before your first shadow:
     1. With me (Wayne), especially if we have not met previously
     1. With one of the previous shadows (See list below)
