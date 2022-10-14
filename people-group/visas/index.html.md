@@ -106,7 +106,7 @@ It is possible to make an appointment within 2 weeks.
 
 ### Right to Immigrate to the Netherlands
 
-Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
+Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The requirements are:
 
 1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card)
 - Note, that the Dutch government has a higher requirement for team members aged 30 and above. The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
@@ -142,7 +142,7 @@ Sid and Marin discuss the history of GitLab's right to immigrate to the Netherla
 
 ## EU Blue Card Germany
 
-GitLab may be able to offer employment agreements to selected highly skilled candidates seeking employment in Germany, who apply for a German EU Blue card.
+GitLab may be able to offer employment agreements to selected highly skilled candidates seeking employment already in Germany, who apply for, or already hold a German EU Blue card.
 
 Please note: GitLab does not cover any costs for the application nor does it guarantee the issuance of the EU Blue card.  The employment agreement offered includes the condition that the candidate will hold the sufficient right to work and if a Blue card is required that they will be able to obtain the Blue Card.  If the Blue Card is denied, the employment agreement would be rescinded. 
 
@@ -189,6 +189,16 @@ More detailed links on the process:
 #### Changing Employer 
 
 If there is a change in employer within Germany and the blue card has been held for less than two years then you will need to apply to the immigration service in Germany (LEA). If it has been held for more than two years you are free to change employer without needing to amend the blue card, but the new employment contract must still meet the required threshold for eligibility. 
+
+### Right to Immigrate to Germany via Blue card
+
+Everyone that meets the following requirements can request to immigrate and relocate to Germany, but you will also still need to pass the formal visa application process to qualify. The requirements are:
+
+1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the salary requirement for [Requirements to receive a Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
+- The following pay elements are not included in the salary criterion and can't be used to meet the mimimum salary requirement: The value of payment made in kind; Uncertain, non-regular pay elements (for example overtime allowances, variable bonus and payments from funds).
+- _Note: This calculation should be based on what GitLab *would* pay the team member in Germany in accordance with the compensation calculator, *not* based on the team member's current salary._
+1. You have been a team member at GitLab for one year.
+1. You are not on a Performance Improvement Plan (PIP).
 
 #### Resources
 
