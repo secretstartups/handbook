@@ -27,7 +27,7 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 | [Product Data Insights](/handbook/product/product-analysis/) | Carolyn Braza |
 | [Business Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/) | Sindhu Tatimatla |
 | Marketing Analytics | Jerome Ahye |
-| [Self-Service & Online Sales](/handbook/sales/self-service/) | Alex Martin |
+| [Self-Service & Online Sales](/handbook/sales/self-service/) | Max Fleisher |
 | [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera |
 | Customer Success Analytics | Michael Arntz |
 | Digital Experience | Dennis Charukulvanich  |
