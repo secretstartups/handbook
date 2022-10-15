@@ -15,7 +15,7 @@ description: Information on GitLab's Employee Assistance Program.
 
 GitLab offers mental health care services to all team members and their eligible family members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 6 coaching sessions and 6 therapy sessions each at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles. 
 
-For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/1dodfWAPP3XDWUmDI9bB5jaqxOe3Bieqe/view?usp=sharing) in April 2021 and another session in [December 2021](https://drive.google.com/file/d/1emrCtcTiOJzxma1895qOzEXLKtpXsj9d/view?usp=sharing) that walks a team member through valuable information about this benefit and how to start utilizing it.
+For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/10jn8_UoqtMwHpYLaKQpGRfDwgxeN_65h/view?usp=sharing) in October 2022 that walks team members through valuable information about this benefit and how to start utilizing it.
 
 ### What does Modern Health offer?
 
@@ -60,9 +60,19 @@ Modern Health’s model is grounded in evidence-based approaches, primarily Cogn
 Your benefits reset on March 20, 2022.
 Note: Unused sessions do not rollover when your benefits reset.
 
-### What languages is Modern Health available in?
+### What languages/countries is Modern Health available in?
 
 The platform is currently available in English and Spanish. If English or Spanish is not your preferred language, please note Care is provided in most languages. Feel free to email `help@joinmodernhealth.com` to find out more.
+
+Modern Health is available globally.
+
+For members that are recommended to therapy and are located in the United States, Canada, Mexico, Costa Rica, France, India, South Korea, Japan, Australia, Ireland, & United Kingdom, they will be able to match with a therapist right within the Modern Health application. 
+
+For members that are recommended to therapy and are located outside of one of these countries, the member will be notified that the Modern Health Care Matching team will reach out to the member directly to match them with the best fit therapist based on their needs and their assessment. These members will be introduced to their therapist via email. If a member in this scenario would like to change their therapist, please reach out to help@modernhealth.com.
+
+For members in any location that are not initially recommended to therapy (perhaps, they are recommended to Coaching or another modality of care), but would like to engage with a therapist, we ask that they contact our Member Support team at help@modernhealth.com to express their needs and they will work to make an appropriate match.
+
+
 
 ### What family members are eligible for Modern Health?
 
