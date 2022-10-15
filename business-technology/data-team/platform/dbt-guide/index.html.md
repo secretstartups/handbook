@@ -1211,6 +1211,106 @@ Views and snippets included in the output will be surrounded by square brackets 
     }
 ```
 
+## Model Performance
+
+Performance should be balanced between model execution times, which directly affect Snowflake Credit spend, and developer time, which impacts how long a developer is waiting during development, troubleshooting, and bug fixes. Generally, model execution should strike a balance between running as fast as possible and with as little cost as possible. This can be a difficult balance as some of the methods to improve run time also increase the cost, however there are methods and techniques that can be used to achieve both improved run time and decreased cost. As the number and complexity of models grow, general model run time performance criteria is needed. The overall performance goals for the data warehouse are that:  
+
+- All models should individually execute in less than 60 minutes.
+- All models should be run on the smallest warehouse allowable 
+
+#### Categorization
+
+To provide a basis for communication and criteria for applying methods of improvements, categorizations for model and table size have been developed as follows:
+
+##### Model Run Time
+
+Defined as the total run time of all queries associated with the execution of a model.  [Categorization Details](https://gitlab.com/gitlab-data/analytics/-/issues/13941#note_1107497369)
+
+| Categorization | Execution Seconds > | Execution Seconds >= |
+|----------------|---------------------|----------------------|
+| XS             | 0                   | 60                   |
+| S              | 60                  | 300                  |
+| M              | 300                 | 900                  |
+| L              | 900                 | 1800                 |
+| XL             | 1800                | 3600                 |
+| XL+            | 3600                |                      |
+
+##### Model Size
+
+Defined as the rows and bytes of the table produced by the model.  [Categorization Details](https://gitlab.com/gitlab-data/analytics/-/issues/13941#note_1107271393)
+
+| Categorization | Rows >        | Rows <=       | GB >  | GB <= |
+|----------------|---------------|---------------|-------|-------|
+| XS             | 0             | 1,000,000     | 0     | 1     |
+| S              | 1,000,000     | 10,000,000    | 1     | 10    |
+| M              | 10,000,000    | 100,000,000   | 10    | 100   |
+| L              | 100,000,000   | 1,000,000,000 | 100   | 1,000 |
+| XL             | 1,000,000,000 |               | 1,000 |       |
+
+##### Model Efficiency 
+
+Defined as the total bytes spilled compared to the total bytes written of all the queries of a model.  [Categorization Details](https://gitlab.com/gitlab-data/analytics/-/issues/13941#note_1107564876)
+
+| Categorization | GB Spilled Local  | GB Spilled Remote |
+|----------------|-------------------|-------------------|
+| Good           | 0                 | 0                 |
+| Acceptable     | <= 5 * GB Written | 0                 |
+| Poor           | > 5 * GB Written  | 0                 |
+| Very Poor      |                   | > 0               |
+
+### Methods
+
+When looking for opportunities to improve model performance, the overall impact of the effort should be kept in mind. For example, spending a lot of effort on a model with a run time classification of S and model efficiency classification of Poor is not likely to yield a significant improvement on overall dbt invocations. The methods provided in this section are meant to be a guide for performance improvements, they are not a strict set of rules that can be enforced without thought to their implication.
+
+#### Model Materialization
+
+The way a model is materialized will directly impact how long the model runs during execution. Some materializations will improve a model's performance, but decrease the performance of downstream models and queries while others will improve performance at the cost of increased complexity. When possible, quantifiable criteria are used to guide the materialization recommendations, but it is more likely that the developer will have to use their best judgement to select the materialization.
+
+- View models should be used when the transformations are light or the impact of the transformations are minor on the performance of downstream models.
+- Ephemeral models should be used when a transformation is simple and needs to be used across multiple other models. 
+- Table models should be used when there is complex query logic that negatively impacts downstream queries if it were to be performed with each query.
+- Incremental models should be used when the table is a size M or larger, the model run time is a size L or larger, and existing source data changes very little day to day.
+  - Incremental models should be set to never full refresh if the table a XL size or larger, the source data does not update old records, and there is low risk of the schema of the source data changing.
+
+#### Query Optimization
+
+Query optimization involves looking at the way the query executes and making changes that will allow the model to run more efficiently. General guidance for optimizing query performance is as follows:
+
+- Reduce spilling to local and remote storage by reducing the columns and rows that are used in the query
+- Ensure that the order `JOIN` clauses are operating on as few rows as feasible 
+- Minimize fan out of rows and cartesian results in `JOIN` clauses
+
+#### Clustering
+
+The application of clustering, and automatic reclustering, will be very dependent on the situation and would typically be placed on the source tables in the lineage of the model where a performance increase is desired. Clustering should be considered in the following circumstances:
+
+- Partition pruning is poor in the model build query.
+- There are specific and consistent columns used for filtering and joining in queries against the source table.
+
+#### Adjusting the Warehouse size
+
+Adjusting the warehouse size for improved performance is not straight forward as there are many factors that go into how a query will perform.  Warehouse size adjustment may be considered under the following circumstances:
+
+- Increasing Warehouse Size
+  - The model efficiency is regularly categorized as poor or very poor.
+- Decreasing Warehouse Size 
+  - The model efficiency is good and the model run time is XS.
+
+
+#### Other potential methods
+
+- Search Optimization
+  - https://community.snowflake.com/s/article/Search-Optimization-When-How-To-Use
+
+#### System Level Optimization
+
+There are a number of other potential system level optimizations that can be considered to improve overall performance.
+
+- Invocation Threads
+- Max Concurrent Query level
+- Auto Scaling Policy
+- Warehouse Max Clusters
+
 ## Upgrading dbt
 See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.
 
