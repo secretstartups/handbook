@@ -22,7 +22,6 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 |  **Name** | **GitLab Handle** | **Title** |
 | :--------------- | :----------------- | :----------------- |
-| Alex Martin | @alex_martin | Dir., Self-Service & Online Sales Data |
 | Max Fleisher | @mfleisher |  Mgr, Self-Service & Online Sales Data |
 | Sara Gladchun | @sglad | Sr. Analyst, Self-Service & Online Sales Data |
 
@@ -48,17 +47,17 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 ### Quarterly Work: Weekly Progress
 
-|  **Quarter** | **Alex** | **Max** | **Sara** |
+|  **Quarter** | **Max** | **Sara** |
 | :--------------- | :----------------- | :----------------- | :----------------- |
-| FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/101) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/106) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/108) |
-| FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/150) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/151) |
+| FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/106) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/108) |
+| FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/151) |
 
 ### Epics
 - [Low Touch](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/51)
 - [FY23-Q3](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/54)
 
 ## Working with us
-**Purpose**: outline how the broader Self-Service team can engage the Self-Service Data Squad (Alex, Max, Sara)
+**Purpose**: outline how the broader Self-Service team can engage the Self-Service Data Squad (Max, Sara)
 
 **Goal**: minimize dependencies/blockers to insights while providing transparent engagement model
 
@@ -75,7 +74,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 - Fill out all items under the “Filled out by Requestor” section
 - Add the “Self-Service Data” and “Self-Service Data Ad Hoc” labels
-- If business stopping: tag Alex in slack (ideally in “self-service_squad” channel) with link to issue.
+- If business stopping: tag Max in slack (ideally in “self-service_squad” channel) with link to issue.
 
 ## How we prioritize ad hoc requests
 The more points the better!
