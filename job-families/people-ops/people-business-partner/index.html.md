@@ -198,13 +198,14 @@ The Director People Business Partner is a [grade 10](/handbook/total-rewards/com
 ## Performance Indicators
 Performance indicators are done in partnership with the PBP and the organizational leaders.
 
-- [Discretionary Bonuses](https://about.gitlab.com/handbook/incentives/#valid-and-invalid-criteria-for-discretionary-bonuses) approved to defined criteria
-- [12 Month Team member retention](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-retention)
-- [12 Month voluntary team member turnover](https://about.gitlab.com/handbook/people-group/people-operations-metrics/#team-member-turnover)
-- [12 Month PIP and PDP success rate](https://about.gitlab.com/handbook/people-group/people-operations-metrics/#regrettable-attrition)
-- Release Agreement Acceptance Rate > 90%
-- Career Development Conversations > 75% across all departments
-- [Percent of team members over compensation band](https://about.gitlab.com/handbook/people-group/people-operations-metrics/#percent-over-compensation-band)
+- Organizational Design and [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/) to drive leadership effectiveness - Complete Talent Assessment for 100% of eligible team members on time annually
+- In collaboration with leadership: Organizational Health Metrics - Turnover aligned with People Group OKRs, [Team Member Engagement](https://about.gitlab.com/handbook/people-group/engagement/)
+- Change management related to organizational and leadership iterations - measured by engagement scores and regrettable turnover
+
+
+
+
+
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
