@@ -103,13 +103,10 @@ To ensure a successful completion of the onboarding issue, it is important that 
 These templates are used by the People Connect team to onboard new team members.
 
 - [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
-- [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_intern_engineering.md)
+- [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_intern_engineering.md) 
 
 #### <i class="fas fa-suitcase fa-fw color-orange font-awesome"></i>Role Specific Templates
 All onboarding related employment templates (country and role based) can be found in the [public repository](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks)
-
-
-
 
 ### Supplemental onboarding issue templates
 
@@ -119,6 +116,10 @@ All onboarding related employment templates (country and role based) can be foun
 * [Production engineering onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
 * [Security products technical onboarding issue](https://gitlab.com/gitlab-org/secure/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md)
 * [Support engineer onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md)
+
+### Temporary Service Provider (Contractor/Consultant) Onboarding
+
+The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information. 
 
 ### Additional onboarding pages
 
