@@ -49,7 +49,7 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 * Enable product managers to make the most effective decisions when [prioritizing R&D investment](/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](https://about.gitlab.com/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
 * Convene a set of stable counterparts for your assigned [Product Hierarchy](/handbook/product/categories/#hierarchy) and [Use Cases](/handbook/marketing/strategic-marketing/usecase-gtm/#directly-responsible-individuals-dris-per-use-case) to ensure R&D and GTM [KPIs](https://about.gitlab.com/handbook/ceo/kpis/) are met
 * Join customer and partner visits that spawn ideas for new features
-* Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](/devops-tools/) and category directions relevant to their markets are up to date
+* Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](/competition/) and category directions relevant to their markets are up to date
 * Keep relevant [/direction](/direction) pages up to date as our high level roadmap
 * Prioritize, build and assess business cases for new or existing opportunities in your group that have no investment
 * Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
