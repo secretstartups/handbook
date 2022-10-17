@@ -71,3 +71,7 @@ The hiring plan is as follows:
 1. Peer call 
 1. Panel 
 1. Senior CS leadership call
+
+## Resources & References
+
+- [CSE Google Drive](https://drive.google.com/drive/folders/1AKVpZRXDC4cHlr794gH-RUZCdiNb114I?usp=sharing) (GitLab internal only)
