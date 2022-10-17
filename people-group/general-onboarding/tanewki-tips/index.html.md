@@ -65,8 +65,8 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
-| AMA | Ask Me Anything | 
-| AR | Access Request | 
+| AMA | [Ask Me Anything](https://about.gitlab.com/handbook/communication/ask-me-anything/) | 
+| AR | [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) | 
 | DRI | Directly Responsible Individual | 
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
@@ -76,10 +76,17 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | MECC| [Managing so Everyone Can Contribute](https://about.gitlab.com/handbook/mecc/)|
 | MR | Merge Request  | 
 | MVC| [Minimum Viable Change](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) (not related to Model-View-Controller)|
-| OKRs | Objectives & Key Results |
-| PTO | Paid Time Off |
-| SIRT | Security Incident Response Team |
+| OKRs | [Objectives & Key Results](https://about.gitlab.com/company/okrs) |
+| PTO | [Paid Time Off](https://about.gitlab.com/handbook/paid-time-off) |
+| SIRT | [Security Incident Response Team](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt) |
 | TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
+
+
+**Customer Success Related Acronyms**
+
+| Acronym| Word/Saying/Title | 
+|:---------------|:---------------|
+| VSA |  [Value Stream Assessment](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments) |
 
 **Engineering Related Acronyms**
 
