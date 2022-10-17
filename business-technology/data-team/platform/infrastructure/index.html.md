@@ -814,7 +814,6 @@ copy into raw.demandbase.account (jsontext, uploaded_at)
 
 Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK resume;`.  Each task continues to run daily and loads any new files from GCS into the Snowflake `raw.demandbase` schema.
 
-
 ## Data Refresh
 
 If a full refresh is required due to a failing test leading to an SLO breach, take time to investigate the root cause of the failing test. Make an [incident](/handbook/business-technology/data-team/how-we-work/#incidents) and document any findings before triggering the full refresh. It may also be useful to copy the data to another temporary table to allow the full refresh to continue unimpeded.
@@ -869,7 +868,152 @@ WHERE LOWER(table_schema) = '<DATA_SCHEMA>';
 * Resume the old Stitch replication job so incremental data will start flowing again.
 * ONLY when it is clear that the refreshed data is complete and as expected, drop the old data by running `drop schema clone_<DATA_SCHEMA> cascade;`.
 
-### dbt models full refresh
+### DBT Full Refresh
+
+#### Business Summary
+
+Data Producers create data in source applications and we extract that data towards the Snowflake data warehouse. A key feature of our ELT processes is to do incremental extractions of source data towards Snowflake AND do incremental loads of data in downstream dbt transformations. The benefit for an incremental load above a full load is efficiency. An incremental load only loads newly added or changed data which is only a small piece of the total data set that is otherwise processed incase of a full load. The incremental logic is typically based on checking for data that has been created or updated since the last incremental extraction or dbt model transformation. In many cases, the data that is created or updated in the source applications on a given calendar day is loaded into an endpoint which our incremental extraction and transformation processes are able to recognize as having been created since the last incremental data extraction and subsequently process in the ELT and make available to end users in both Sisense and Snowflake. However, this ideal state does not always happen and we sometimes need to fully refresh the `prep` and `prod` databases. This could be because the `raw` database requires a full refresh or because an incremental dbt model relies on a data source with the possibilty of back-dated data. What follows is a summary of the incremental behavior in extraction and transformation processess.
+
+#### Current State of Incremental Extractions 
+
+Incremental data extraction is the default. To extract data incrementally we are depending on the source, if the source provides a mechanism to identify newly created, updated or deleted data we will use that. Prerequisites on source level to supports incremental data selection:
+- a table has a insert/update timestamp column that indicates per record when the data is inserted/updated or,
+- incremental key (insert only) and,
+- data is not **deleted** or,
+- change data captured (CDC) mechanism is provided/enabled.
+
+#### Current State of Incremental DBT Model Runs
+
+In dbt, we create models using an incremental configuration whereby the data model checks for records that have been created/updated since the last incremental model run. Those subset of records are transformed and inserted into the table. This is a great feature that optimizes the performance and compute needed to run the model in the daily DAG. Backdated data causes a problem in these models because if there are records available in the `raw` database that have created/updated dates in the past, before the last dbt model run, the incremental logic will miss loading these records. This backdated data is the root cause of why we need to do scheduled full refreshes of the `prep` and `prod` databases. The backdated data has a ripple effect where the source application and `raw` database becomes out of sync with the incremental models in the `prep` and `prod` databases. Therefore, we need to do a full refresh of the incremental models in order to align the incremental dbt models with the data in the `raw` database and source application. 
+
+#### Current State of Extraction Full Refreshes
+
+Full refreshes are performed when the prerequisites are not met. In some cases there is a full refresh requested ad-hoc. This is likely because of:
+- an issue/incident,
+- a data migration been performed and subsequently the prerequisites were not met,
+- the source has changed,
+- extra columns needs to be extracted. 
+
+#### Target State of Extraction Full Refreshes
+
+Because of the prerequisites data extractions have to deal with full refreshes in the future. 
+
+#### Current State of DBT Model Full Refreshes
+
+We currently have two options for dbt model full refreshes:
+
+1. Manual full refresh (Add link)
+1. Scheduled full refresh every Sunday (Add link)
+
+#### Target State of DBT Model Full Refreshes
+
+In the target state, we would continue to have the manual full refresh since it has utility for being responsive to the business and building models on an ad-hoc basis. However, we would significantly evolve the cadence of the scheduled, weekly full refresh that happens on Sunday. The target state would be to build and configure the data extractions and transformations in such a way that we could ultimately end-up with a quarterly scheduled full refresh on the models that truly needed to be refreshed. This would take significant collaboration between Business Data Champions, Data Producers, and the Central Data Team. We will take a multi-quarter, iterative approach to arrive at the target state.
+
+### Data Source and Data Lineage Information Used to Determine Full Refresh Policy 
+
+There are many variables and considerations that need to be evaluated when determining the full refresh policy for data models in a data lineage. The following sections provide information about data sources and lineages that can used to determine the full refresh policy for data models.
+
+#### Instance Service Ping: Version App - Manual Service Ping
+
+1. **Is there backdated data:** Yes, the Product Intelligence team checks for service ping payloads from customers on a rolling 10 week basis. Therefore, it is possible to receive backdated service ping data.
+1. **How far back can data be backdated:** 10 weeks
+1. **Are live models eligible for incremental configuration:** Yes, the live models can be set to incremental; however, must be careful with derived models that join in a time_frame or xMAU metric mapping for example which can update for metrics. 
+1. **Are snapshot models eligible for incremental configuration:** Yes, the snapshot service ping models take a snapshot of the final xMAU report models and there is no backdated data or need to full refresh.
+1. **Size of data:** Service Ping is big data with the atomic Service Ping fact weighing in at over 600 GBs of data. It is necessary to use incremental models where possible in this lineage for model build performance and cost optimization. The combination of incremental models, backdated data, and size of data needs to be considered in model development and model runs.  
+1. **Are there incremental dbt models in this lineage:** Yes, the prep tables and atomic facts in the lineage are incremental. However, the downstream derived facts that join in dimension attributes need to full refresh so they can be updated with current state of the time_frame and xMAU metric mapping attributes which can change over time in some cases. 
+1. **Can the model be set to not full refresh:** No, due to the backdated data that can be received from service ping, we'll need to keep the full refresh for the time being. However, this full refresh will become compute prohibitive as the data grows and we may come to a point where we cannot full refresh the model. A possibility is that we could fetch incremental records on a rolling 10 week basis to align to the source application's receipt of backdated service pings on a rolling 10 week basis. In that case, we could potentially not run a full refresh. 
+
+#### Instance Service Ping: Snowflake - Automated Service Ping
+
+1. **Is there backdated data:** 
+1. **How far back can data be backdated:** 
+1. **Are live models eligible for incremental configuration:** 
+1. **Are snapshot models eligible for incremental configuration:** 
+1. **Size of data:**   
+1. **Are there incremental dbt models in this lineage:** 
+1. **Can the model be set to not full refresh:**  
+
+#### Namespace Service Ping: Snowflake - Automated Service Ping
+
+1. **Is there backdated data:** 
+1. **How far back can data be backdated:** 
+1. **Are live models eligible for incremental configuration:** 
+1. **Are snapshot models eligible for incremental configuration:** 
+1. **Size of data:**   
+1. **Are there incremental dbt models in this lineage:** 
+1. **Can the model be set to not full refresh:**  
+
+#### Gitlab.com Postgres Database
+
+1. **Is there backdated data:** No we don't expect backdated data from gitlab.com. 
+1. **How far back can data be backdated:** Not applicable.
+1. **Are live models eligible for incremental configuration:**  Yes, the prep tables in the lineage are incremental.The downstream model are mix of both incremental and full refresh. 
+1. **Are snapshot models eligible for incremental configuration:** Yes 
+1. **Size of data:** This is one of the biggest data source at the moment with volumne 4.6 TB and increasing daily. 
+1. **Are there incremental dbt models in this lineage:** Yes we do have incremental DBT Model in this lineage but they are part of legacy code. 
+1. **Can the model be set to not full refresh:**  Yes the downstream model can be set for incremental run only. 
+
+#### Snowplow
+
+1. **Is there backdated data:** No.
+1. **How far back can data be backdated:** N/a
+1. **Are live models eligible for incremental configuration:** Yes, the live models can be set to incremental
+1. **Are snapshot models eligible for incremental configuration:** Yes, the snapshots models can be set to incremental
+1. **Size of data:** Data is separated per month in a separate schemas, approx size is `~50m` records per day or `~33TB` in summary (for the entire dataset),
+1. **Are there incremental dbt models in this lineage:** Yes, several models in the lineage are incremental
+1. **Can the model be set to not full refresh:** Yes, but some refactoring is required. 
+
+#### Salesforce
+
+1. **Is there backdated data:** Yes
+1. **How far back can data be backdated:** Integration is set to retrieve data from December 27, 2012, earliest data available in the DB is 2015-06-30T00:00:00Z
+1. **Are live models eligible for incremental configuration:** No, live models cannot be set to incremental status because they need to have refreshed, updated data on a daily basis as records are updated in Salesforce. Salesforce is a small data set and models are very performant with full refreshes finishing in less than 30 minutes.
+1. **Are snapshot models eligible for incremental configuration:** Yes, snapshot models that are 100% recreations of prior days can be set to incremental. However, snapshot models that have joins to live dimension tables will need to be periodically full refreshed. 
+1. **Size of data:** Medium, depending on the table. Total schema size for all Salesforce Stitch data is 15GB. Full refresh for the entire schema takes ~24 hours
+1. **Are there incremental dbt models in this lineage:** Not on the SFDC level but some of the snapshot & EDM models built on top of this lineage are incremental. 
+1. **Can the model be set to not full refresh:** Yes, but SFDC will be a more challenging data source to do this for. The integration from Stitch often receives late arriving data, so we would first need to confirm how late these can arrive and set the incremental model to allow for a longer time period (i.e. delete/insert or insert new arrivals for last week of data on each refresh) 
+
+#### Zuora
+
+1. **Is there backdated data:**  No we don't expect backdated data from Zuora.
+1. **How far back can data be backdated:**   Not applicable 
+1. **Are live models eligible for incremental configuration:** No, live models cannot be set to incremental status because they need to have refreshed, updated data on a daily basis as records are updated in Zuora. Zuora is a small data set and models are very performant with full refreshes finishing in less than 30 minutes.
+1. **Are snapshot models eligible for incremental configuration:** Yes, snapshot models that are 100% recreations of prior days can be set to incremental. However, snapshot models that have joins to live dimension tables will need to be periodically full refreshed. 
+1. **Size of data:** It sum up to 4 GB of data.
+1. **Are there incremental dbt models in this lineage:** It is if full refresh at the moment. 
+1. **Can the model be set to not full refresh:** 
+
+### Roadmap to Achieve Target State of DBT Model Full Refreshes
+
+#### Iteration 1 (FY23-Q3)
+
+1. As a boring solution that will have a minimal amount of impact to the business, we will update the scheduled full refresh to be the first Sunday of the month. The monthly cadence provides a balance between cost and data impact. The full refresh is much more costly compared to the regular, incremental dbt DAG that runs daily. This schedule will allow the business to receive the fully refreshed data from the prior month on the same schedule they receive it now. The most important analysis that depend on models with incremental configurations such as service ping and gitlab.com models are generally done on a monthly basis. However, there are important use cases that happen daily or weekly; however, the incremental runs do a good job picking up the data on a daily basis. There is a risk that the analyses that are conducted on daily and weekly cadences would not have the backdated data. We will continue to work on this in iteration 2 where will get more precise with the incremental model configurations and DAGs to allow a period of rolling historical data to full refresh more frequently than monthly. 
+
+1. With the scheduled monthly refresh, we will rebuild the **complete** `prep` and `prod` layer via DBT monthly on the first Sunday of the month. In this case, we overrule any existing incremental models delta selection and we are sure we have all the data available on the first Sunday of the month. We have a dedicated data `dbt_full_refresh_weekly` DAG. This DAG performs a full refresh of all the models and will be running only on the first Sunday of the month. Currently, the only model excluded from full refresh is `+gitlab_dotcom_usage_data_events+`.
+
+1. As part of the first iteration, we will start the **Data Source and Data Lineage Information Used to Determine Full Refresh Policy** section of the handbook page. The results of this analysis will be used as an input to the second iteration.
+
+#### Iteration 2 (FY23-Q4 and FY24-Q1)
+
+The full refresh is costly and comes with a risk that the analyses that are conducted on daily and weekly cadences would not have the backdated data with the monthly full refresh cadence. Ideally, the full refresh should only be performed on models that require a scheduled full refresh, based on a required cadence. During the 2nd iteration, we will perform the following tasks:
+
+1. The scope of the models to review will be limited to the model lineages in the `COMMON_PREP`, `COMMON_MAPPING`, `COMMON`, AND `COMMON_MART_` schemas and the `legacy` models that are used to satsify P1 Product and Engineering Analytics use cases that are still done out of the `legacy` schema. The models in the `COMMON_` schema are our Trusted Data Models and power the majority of the P1 analytics use cases. However, not all P1 use cases are done using Trusted Data Models so it will be necessary to bring a selection of `legacy` models into scope. The models found in these schemas would trace back to `source` models in the `prep` database that would also be in scope. There are incremental models used in the model lineages from the `prep` database through the `prod` database. Limiting the scope to these interdependent models will allow us to make a significant iteration without making the task too big.
+
+1. Determine which incremental models and lineages have no backdated data behavior and do not need to have any scheduled full refresh. We will use the Backdated Data Considerations for Primary Data Sources (add link) as an input to this review. Configure these models and lineages to never full refresh. The Snowplow data source will be a good candidate for this since there is either a low risk or no risk backdated event data. This has to be done on a model by model, lineage by lineage basis to insure the desired results are achieved. 
+
+1. For the models that have backdated data behavior such as service ping and the Gitlab.com Postgres database lineages, consider adding incremental date logic that checks for created/updated records on a rolling 30 day basis. This would allow the daily and weekly analytical use cases to have backdated data available on a rolling 30 day basis. We have installed this technique with the `fct_event` model. It adds more compute to the model build, but it strikes a balance between cost, performance, and providing the business with backdated data. We would need to check that all models in the lineage have the same type of rolling days incremental date logic so that all of the backdated data flows through the lineage. 
+
+#### Iteration 3 (FY24-Q2)
+
+Iteration 3 will focus on moving to a quarterly scheduled full refresh. 
+
+### DBT Model Scheduled Full Refresh
+
+In some data sources, we have to handle backdated data which is data that is received later than expected. In the case of an incremental dbt model where a field, typically a created at or updated at timestamp, is used to determine which data has to be loaded into a data model, there is a risk of missing backdated data entries due to some source application behavior that results in backdated data. This could be a data quality issue or it could be the case the data arrives in the source application on a backdated basis.
+
+1. Dennis, please add references to Sunday full refresh DAG...
+
+### DBT Model Manual Full Refresh
 
 Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model from scratch.
 
@@ -887,6 +1031,7 @@ dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_FULL_REFRESH 
 See the following demo video on how to perform a DBT Full Refresh in Airflow:
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
+
 
 
 ## GitLab Data Utilities
