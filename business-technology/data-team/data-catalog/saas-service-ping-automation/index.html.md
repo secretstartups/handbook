@@ -231,7 +231,8 @@ For error handling solution, refer to [runnbooks Automated Service Ping](https:/
 
 ##### New metrics checks
 
-The `Data team` created an app and delivered it to the PI team as they are able to autonomically use it when any of the metrics are changed (SELECT statement) or added. This will prevent the issue with failing the pipeline in production, the common error is related to executing SQL on a non-existing object in the Snowflake database. The example issue should be found in the issue [2022-09-28 | dbt-test | Failure in test instance_sql_error_rowcount](https://gitlab.com/gitlab-data/analytics/-/issues/14316). Here is the idea of how it is working:
+The `Data team` created an app and delivered it to the PI team as they are able to autonomically use it when any of the metrics are changed (SELECT statement) or added. This will prevent the issue with failing the pipeline in production, the common error is related to executing SQL on a non-existing object in the Snowflake database. The example issue should be found in the issue [2022-09-28 dbt-test Failure in test instance_sql_error_rowcount](https://gitlab.com/gitlab-data/analytics/-/issues/14316). Here is the idea of how it is working:
+
 
 ```mermaid
 graph TD
