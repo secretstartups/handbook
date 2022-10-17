@@ -1393,4 +1393,4 @@ We have a page which documents our [biggest risks](/handbook/leadership/biggest-
 
 ## GitLab Values Knowledge Assessment
 
-Anyone can test their knowledge on our GitLab values. To obtain a badge, you will need to complete this [learning pathway](https://gitlab.edcast.com/pathways/ECL-19a443fa-73d2-4084-92a3-4ad84fd57989) in GitLab Learn and earn at least an 80%. Once the quiz has been passed, you will receive a badge for your GitLab Learn profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone can test their knowledge on our GitLab values. To obtain a certificate, you will need to complete this [learning course](https://levelup.gitlab.com/courses/gitlab-values) in Level Up and earn at least an 80%. Once the quiz has been passed, you will receive a certificate for your Level Up profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
