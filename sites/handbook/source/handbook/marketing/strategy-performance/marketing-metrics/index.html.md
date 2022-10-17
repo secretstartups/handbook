@@ -56,8 +56,17 @@ A Marketing Qualified Lead (MQL) is a stage of the lead/contact objects in SFDC.
 ##### First Order MQLs
 MQLs that are part of a parent account that has not made an order through GitLab are classified as first-order MQLs. To find them, we join the account table to the person table on the MQL account ID. If the field `has_first_order_available` is true on the account, the MQL is first order. If the MQL does not have an account associated with it, it is also first order.
 
+There is a set of fields that show information regarding the First Order (FO) status of a MQL: 
+1. `Is First Order Person` - this shows whether or not the record is currently a FO record
+1. `FO Intial MQL` - this shows whether or not, at the time of the `Intitial MQL DateTime` (the first time the record MQL'd), the record was a FO record
+1. `FO MQL` - this shows whether or not, at the time of the `MQL DateTime` (the most recent time the record MQL'd), the record was a FO record
+
 ##### Date of MQL
-Finding when a lead/contact became an MQL requires accounting for leads/contacts who skipped the MQL stage. To do this take the lesser of `mql_date` and `mql_inferred_date`.
+Finding when a lead/contact became an MQL requires accounting for leads/contacts who skipped the MQL stage. 
+
+To do this we take the lesser of `mql_date`(`Marketo MQL DateTime` in SFDC) and `mql_inferred_date` (`SFDC MQL DateTime` in SFDC). Note: Both of these fields are hidden from views and only the SoT fields below are visible, for simplicity and consistency. 
+
+There are two new fields in SFDC, `MQL DateTime` that is the lesser of the above two fields and `Initial MQL DateTime` which is the SoT for the first time a record MQL'd - these are the only two fields that should be used in reporting on when a record MQLs. 
 
 The logic for finding when a person became an MQL is captured in the `mql_reporting_date` field. The `mql_reporting_date` field should always be used to report inquiries unless you are looking for something specific.
 
