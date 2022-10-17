@@ -19,7 +19,9 @@ Log into Chorus by clicking on the Chorus SSO tile in your [Okta dashboard](http
 
 ## Chorus Training & Enablement
 - Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
+
 - All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/chorus-ai-compliance) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
+
   - Once the team member has completed training, they will notify SalesOps to have their license updated to a Recorder license in Chorus.
   - SalesOps will verify course completion via an [EdCast report](https://edcast-536.domo.com/page/1681897168/kpis/details/58622395).
 
@@ -27,26 +29,37 @@ Log into Chorus by clicking on the Chorus SSO tile in your [Okta dashboard](http
 To comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Chorus Scheduler creates a Go-Link, which routes attendees to a designated landing page for location-based compliance capture so that a meeting host can obtain explicit consent from the participants to record meetings. If meeting hosts do not use Chorus Scheduler for customer meetings, Chorus will not record the meeting. For step-by-step instructions on using Chorus Scheduler, please watch [this 3-minute demo](https://drive.google.com/file/d/1toKxvu2DKqxF9Oo_8eogTZgPRUSAyIIp/view?usp=sharing) and refer to the [Call Compliance with Chorus Schedulers deck](https://drive.google.com/file/d/1U7VCxuQk1MtLTZ88XLdQt7y1_VBMYe8d/view?usp=sharing) for additional information.
 
 - If you are required by a customer to use a different conference platform than Zoom or Google Meet, please follow the instructions on the Static Link Flow slide of the [Call Compliance with Chorus Schedulers deck](https://drive.google.com/file/d/1U7VCxuQk1MtLTZ88XLdQt7y1_VBMYe8d/view?usp=sharing).
+
 - For situations where you are a participant in a meeting and are seeking to record, you may download the [Chorus App for Zoom](https://docs.chorus.ai/hc/en-us/articles/1260803823989-The-Chorus-App-for-Zoom-Meetings). This app allows you to add Chorus to a live call to record the meeting and take notes without leaving Zoom. In order to comply with local privacy laws, you will need to verbally obtain consent from your customer to record before doing so. If the customer does not consent to recording, you may not record the meeting.
-    - For troubleshooting regarding the Chorus App for Zoom, please follow the steps below.
-        1. Open Zoom SSO via [Okta](https://gitlab.okta.com/app/UserHome?iss=https%3A%2F%2Fgitlab.okta.com)
-        2. Click on Settings then Zoom Apps
-        3. Make sure “Zoom Apps Quick Launch Button” is turned on
-        4. Open a Zoom meeting on your desktop app
-        5. You should now be able to see Chorus App and utilize the tool
+
+  For troubleshooting regarding the Chorus App for Zoom, please follow the steps below:
+
+  1. Open Zoom SSO via [Okta](https://gitlab.okta.com/app/UserHome?iss=https%3A%2F%2Fgitlab.okta.com)
+  2. Click on Settings then Zoom Apps
+  3. Make sure “Zoom Apps Quick Launch Button” is turned on
+  4. Open a Zoom meeting on your desktop app
+  5. You should now be able to see Chorus App and utilize the tool
 
 ## Security & Privacy Controls
 
-The data retention policy for recorded calls in Chorus is 90 days as of March 1, 2022.
-- Any action that would result in bypassing the 90 day data retention policy will need to be approved by GitLab's Legal team, including, but not limited to:
-    - Preserving snippets of recordings in EdCast indefinitely
-    - Downloading recordings
-    - Retaining playlists past the 90 day data retention period
-- In order to request Legal approval to retain a playlist, or any other action that would bypass the 90 day data retention policy, the GitLab team member will need to submit an issue in the [Legal and Compliance project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new#) using the Chorus Approval template.
-   - **When requesting approval, please note the following:**
-       - A request to retain a recording must be received by Legal *no later than 15-days prior to the end of the 90-day retention window*. For example, the request to retain a recording created on May 1st that will automatically be deleted 90-days later on July 30th must be received by Legal no later than July 15th. Please note that any request submitted within 14-days of the end of the retention window may not be reviewed in time or approved.
-       - Snippets saved to any playlists will be preserved
-       - Snippets saved on the call itself will be deleted according to the retention policy
+The data retention policy for recorded calls in Chorus is 365 days as of September 27, 2022.
+
+Any action that would result in bypassing the 365 day data retention policy will need to be approved by GitLab's Legal team, including, but not limited to:
+
+  - Preserving snippets of recordings in LevelUp indefinitely
+  - Downloading recordings
+  - Retaining recordings past the 365 day data retention period
+
+**If you have a unique circumstance that will require you to preserve a recording past 365-days, please submit a [Legal Issue - Chorus_Approval template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new) and follow the instructions.  You will not receive automatic reminders regarding calls that will be purged after 365 days so it would be a best practice to submit a Legal Issue for preservation at your earliest convenience.**
+
+**When requesting approval, please note the following:**
+
+   - A request to retain a recording must be received by Legal *no later than 15-days prior to the end of the 365-day retention window*. For example, the request to retain a recording created on May 1st that will automatically be deleted 365-days later must be received by Legal no later than April 15th. Please note that any request submitted within 14-days of the end of the retention window may not be reviewed in time or approved.
+   - Snippets saved to any playlists will be preserved
+   - Snippets saved on the call itself will be deleted according to the retention policy
+
+Other notable items:
+
 - Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user must complete this action individually.
 - As a best practice, if you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
   - For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
@@ -61,10 +74,10 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 ## Swim Lanes
 ### Recorder Access
 - US SALs and AEs
-- US TAMs and SAs
+- US CSM and SAs
 - US SDRs and BDRs
-- ROW SALs, AEs, TAMs, and SAs upon completion of [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd)
-- ROW SDRs and BDRs upon completion of [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd)
+- ROW SALs, AEs, CSM, and SAs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
+- ROW SDRs and BDRs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
 
 ### Listener Access
 - All Public Sector team members
@@ -75,9 +88,10 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 
 ![live-on-zoom](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
 
-- The banner "Live on Zoom with Chorus.ai" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text.
-    - This banner means that your meeting is being actively recorded by Chorus.ai and will be stored within the Chorus.ai platform for a period of 90 days, in accordance with GitLab's data retention policy for Chorus.ai.
-    - To stop recording your meeting at any point, click on the dropdown next to "Live on Zoom with Chorus.ai" and choose "Stop Live Stream". Then click on the square stop symbol to completely stop recording.
+The banner "Live on Zoom with Chorus.ai" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text.
+
+  - This banner means that your meeting is being actively recorded by Chorus.ai and will be stored within the Chorus.ai platform for a period of 90 days, in accordance with GitLab's data retention policy for Chorus.ai.
+  - To stop recording your meeting at any point, click on the dropdown next to "Live on Zoom with Chorus.ai" and choose "Stop Live Stream". Then click on the square stop symbol to completely stop recording.
 
 ## Recording with Breakout Rooms
 
