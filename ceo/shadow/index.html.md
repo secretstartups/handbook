@@ -806,7 +806,7 @@ We have six monitors at Mission Control. They show the following content:
 | **Top Right** | [Why GitLab](/why-gitlab/) |
 
 | **Bottom Left** | [Category Maturity](/direction/maturity/) |
-| **Bottom Middle** | [Who we replace](/devops-tools/) |
+| **Bottom Middle** | [Who we replace](/competition/) |
 | **Bottom Right** | [Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
 
 ##### Configuring the Monitors
