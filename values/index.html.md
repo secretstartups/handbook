@@ -378,7 +378,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
   1. Proactively critiquing ourselves
      1. [Highlight where we fall short](/direction/maturity/)
      1. [Have outside experts rate us](/why-gitlab/)
-     1. [Have users compare us to the alternative](/devops-tools/)
+     1. [Have users compare us to the alternative](/competition/)
   1. Increasing engagement with GitLab
      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
      1. [Certifications](/learn/certifications/public/)
