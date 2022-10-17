@@ -20,7 +20,7 @@ description: "Describes the processes for scoping migrations."
 
 # Migration Scoping Details
 
-This page describes scoping migrations from GitLab, Bitbucket Server or GitHub (Enterprise or .com) to a destination GitLab instance (Self Managed or SaaS).  The migrations typically utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately.
+This page describes scoping migrations from GitLab, Bitbucket Server or GitHub (Enterprise or .com) to a destination GitLab instance (Self-Managed or SaaS).  The migrations typically utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately. 
 
 Using the [services calculator](https://services-calculator.gitlab.io/), an SA or CSM/TAM can create scoping issue, and work with an Engagement Manager to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the SCM Migration Scoping Questions, which can be previewed below
 
@@ -60,12 +60,15 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA o
 - see [TEMPLATE Professional Services Presentation](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) for a summary of our migration approach and which features get migrated or not.  This also includes a description of our SaaS Discovery, SSO configuration and Security configuration activities, which we often add for new SaaS customers.
 
 ## GitLab Self-Managed to GitLab Self-Managed
-- You can use congregate but you also have other options at your disposal:
+- You can use Congregate but you also have other options at your disposal:
    - **Backup and restore** using rake-tasks. This enables you to restore all of the data from one instance of GitLab to another. This can be used to shorten the migration period, but will cause complete downtime as the source instance will need to be locked during the time it takes to backup. Also, this could take many hours to days depedening on the size of the data. 
-   - **Geo Replication**. This method allows you to setup the new gitlab instance as a GEO secondary. The data will sync over the course of time. Then you can perform a failover to make the new instance primary. This tends to be more complex and requires a more specialized skillset than the backup/restore approach. 
+   - **Geo Replication**. This method allows you to setup the new gitlab instance as a Geo secondary. The data will sync over the course of time. Then you can perform a failover to make the new instance primary. This tends to be more complex and requires a more specialized skillset than the backup/restore approach. 
+
+## GitLab Self-Managed to GitLab Dedicated Instance
+- As with self-managed to self-managed migrations, self-managed to dedicated instance migrations can be performed using Congregate, a backup and restore approach, or Geo replication. If the Congregate option is used, projects can be migrated in waves of up to 500. 
 
 ## GitHub Source 
-### GitHub Enterprise to GitLab Self Managed
+### GitHub Enterprise to GitLab Self-Managed
 - This is one of our strongest combinations of source and destination systems. We have migrated 7,000+ projects per wave in our best case. 
 - If minimizing the transition period is a concern, we will want to maximize the number of projects per wave.
     - To do this, we need to have full control over the GitHub API Rate limit setting.
@@ -79,7 +82,7 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA o
 - GitLab self managed should be on 13.7+ or later to take advantage of an API change that allows us to specify a specific github hostname in the import call (rather than defaulting to github.com). 
 - Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
 
-### Github.com to GitLab Self Managed
+### Github.com to GitLab Self-Managed
 - The Github.com API rate limit is very low per user so we workaround by using multiple userIDs provided by the customer. 
 - The total projects migrated per day should not exceed 200 until we deliver this to a customer at scale. We've done it at small scale in terms of number of projects. But some of those projects were gigantic (70K+ Pull Requests).
 - Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
@@ -91,14 +94,14 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA o
 ## Bitbucket Source 
 _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on Bitbucket is equivalent to a GitLab project._
 
-### Bitbucket Server to GitLab Self Managed
-- Theoretically, migrations with this pair of source/destination should be able to be scaled as high as GHE to GL Self Managed. Its safe to increase the projects per wave to 1,000. 
+### Bitbucket Server to GitLab Self-Managed
+- Theoretically, migrations with this pair of source/destination should be able to be scaled as high as GHE to GL Self-Managed. Its safe to increase the projects per wave to 1,000. 
 - If minimizing the transition period is a concern, we will want to maximize the number of projects per wave.
    - To do this, we need to have full control over the BitBucket API Rate limit setting.
    - We also want to ensure there is a strong enough network connection between the BitBucket Server and GitLab SM instance to support moving the data. We don't have a hard number, but ask them about moving hundreds of GB over a few hours across lots of connections. Their network team should be able to answer.
 - If the customer wants to reorganize their groups/project structure, we can support this (see below common customer requests).
 
-### Bitbucket Cloud to GitLab Self Managed
+### Bitbucket Cloud to GitLab Self-Managed
 - GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
 - Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
 
