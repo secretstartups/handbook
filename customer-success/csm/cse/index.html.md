@@ -18,6 +18,8 @@ View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional
 ## CSE Mission
 The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices in order to drive measurable value for GitLab customers.  CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities, leading to product adoption, expansion, and greater value realized by our customers.
 
+![cse-value-acceleration](/handbook/customer-success/csm/cse/LandAdoptExpand.png)
+
 ## Role & Responsibilities
 Engage with customers in a technical consultancy and advisor role during their GitLab Journey while providing technical and solution guidance. This is achieved by driving towards measurable value (business outcomes), leading to product adoption, renewal, and expansion opportunities. The team is focused on solution-based programs that are customized to fit an individual customer's needs. 
 
