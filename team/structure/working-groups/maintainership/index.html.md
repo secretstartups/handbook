@@ -48,15 +48,15 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 - ~"workflow::production"
    - The issue has been completed and should be closed.
 
-### Exit Criteria (75% completed)
+### Exit Criteria (95% completed)
 
 
 | #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------ | ------         | ------     | ------   |
 | 1  |  2022-06-01       | 2022-07-22 | TBD            | @nhxnguyen | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)|
 | 2  |  2022-04-26       | 2022-07-22 | 2022-07-18      | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
-| 3  |  2022-05-04       | 2022-08-05 | TBD            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
-| 4  |  2022-05-18       | 2022-08-05 | TBD            | @oregand | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
+| 3  |  2022-05-04       | 2022-08-05 | 2022-10-04            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
+| 4  |  2022-05-18       | 2022-08-05 | 2022-10-04            | @oregand | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
 | 5  |  2022-06-01       | 2022-08-05 | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
 
 ### Data and dashboards
@@ -199,22 +199,22 @@ Here are a few different categorizations of changes that can help you decide whi
 
 ##### By exit criteria
 
-Exit Criteria | Relevant Channels
------------ | -----------------
-[Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817) | Channels for the projects directly effected by the changes.
-[Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) | <ul><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
-[Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) | <ul><li>`#trainee_maintainers`</li><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#database_maintainers`</li><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
-[Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) | <ul><li>`#trainee_maintainers`</li><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#database_maintainers`</li><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
+| Exit Criteria | Relevant Channels |
+| ----------- | ----------------- |
+| [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817) | Channels for the projects directly effected by the changes. |
+| [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) | `#eng_managers`<br />Engineering staff meetings |
+| [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) | `#trainee_maintainers`<br />`#backend_maintainers`<br />`#frontend_maintainers`<br />`#database_maintainers`<br />`#eng_managers`<br />Engineering staff meetings |
+| [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) | `#trainee_maintainers`<br />`#backend_maintainers`<br />`#frontend_maintainers`<br />`#database_maintainers`<br />`#eng_managers`<br />Engineering staff meetings |
 
 ##### For `gitlab-org/gitlab` (GitLab Rails)
 
-Topic | Relevant Channels
------ | -----------------
-Backend | <ul><li>`#backend`</li><li>`#backend_maintainers`</li></ul>
-Frontend | <ul><li>`#frontend`</li><li>`#frontend_maintainers`</li></ul>
-Database | <ul><li>`#database`</li><li>`#database_maintainers`</li></ul>
-Trainee updates | <ul><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#trainee_maintainers`</li></ul>
-Responsibility/process updates | Any of the above channels and `#eng_managers`
+| Topic | Relevant Channels |
+| ----- | ----------------- |
+| Backend | `#backend`<br />`#backend_maintainers` |
+| Frontend | `#frontend`<br />`#frontend_maintainers` |
+| Database | `#database`<br />`#database_maintainers` |
+| Trainee updates | `#backend_maintainers`<br />`#frontend_maintainers`<br />`#trainee_maintainers` |
+| Responsibility/process updates | Any of the above channels and `#eng_managers` |
 
 ##### Other projects
 
