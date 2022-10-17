@@ -131,7 +131,7 @@ Our Diversity, Inclusion & Belonging value
 
 **Do you have a helpful tip for working at GitLab to share?**
 
-GitLab has great competitive content publicly available on our [DevOps Tools page](https://about.gitlab.com/devops-tools/) that can help you improve your posture in competitive deals.  Use it with customers and feel free to share your feedback with us in the #competition Slack channel!
+GitLab has great competitive content publicly available on our [DevOps Tools page](https://about.gitlab.com/competition/) that can help you improve your posture in competitive deals.  Use it with customers and feel free to share your feedback with us in the #competition Slack channel!
 
 **What is a hobby or skill you have that the team might not know about?**
 

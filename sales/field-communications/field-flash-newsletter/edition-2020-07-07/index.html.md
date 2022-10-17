@@ -18,7 +18,7 @@ In this month's [Field Flash](/handbook/sales/field-communications/field-flash-n
 ### Your Latest Competitive Resources
 There are multiple **new Competitive Intelligence resources** available to aid you in customer conversations. For the latest-and-greatest, make sure you've checked out:
 1. GitLab's new [Compete Page](https://about.gitlab.com/compete) - This will take the place of Crayon as your SSOT for competitive sales resources. For more information, watch the latest [Competitive Intelligence Sales Enablement Webinar](https://youtu.be/S_z_hgf3ASc).
-   - Heads up - GitLab will continue to maintain the [DevOps Tool Landscape](https://about.gitlab.com/devops-tools/) page.
+   - Heads up - GitLab will continue to maintain the [DevOps Tool Landscape](https://about.gitlab.com/competition/) page.
 1. [GitLab vs. BitBucket Comparison Guide](https://about.gitlab.com/devops-tools/bitbucket-vs-gitlab.html) - This page was created by an independent third party group, giving it increased credibility in customer conversations. It is aligned to the Use Case go-to-market and features an improved user experience and more engaging content.
 1. [Hear Sid's POV on GitHub](https://www.youtube.com/watch?v=ZpJany2-mts&feature=youtu.be) - Listen as Sid highlights key differentiators between GitLab and GitHub and how well-positioned we are in the DevOps market.
 

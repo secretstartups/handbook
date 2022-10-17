@@ -45,7 +45,7 @@ Learn how the U.S. Army Cyber School created secure, collaborative coursework wi
 ----
 **The Competitive Intelligence team made updates to more than 8 competitive resources last month** in order to keep information updated and comprehensive for your use in conversations with customers and prospects. 
 
-[See this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/614) for the full list of updates. Remember that you can find all competitive content on the [DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/).
+[See this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/614) for the full list of updates. Remember that you can find all competitive content on the [DevOps Tools Landscape page](https://about.gitlab.com/competition/).
 
 ----
 In the spirit of Iteration and Collaboration, **the Risk and Field Security Team has launched several new pieces of Sales and Customer Success Collateral**:

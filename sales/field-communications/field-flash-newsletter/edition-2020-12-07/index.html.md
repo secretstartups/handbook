@@ -58,7 +58,7 @@ GitLab is running **multiple integrated campaigns meant to highlight our CI, sec
 1. [GitHub Competitive Campaign](https://gitlab.com/groups/gitlab-com/-/epics/1031) - Dec. 1
 1. [Jenkins Competitive Campaign](https://gitlab.com/groups/gitlab-com/-/epics/1029) - Nov. 16
 
-Find more information and supporting resources in the epic links above. Remember that you can add a prospect to a nurture campaign [using this issue template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture), and you can access all of our competitive content, including detailed Decision Kits, from the [DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/). 
+Find more information and supporting resources in the epic links above. Remember that you can add a prospect to a nurture campaign [using this issue template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture), and you can access all of our competitive content, including detailed Decision Kits, from the [DevOps Tools Landscape page](https://about.gitlab.com/competition/). 
 
 ----
 There are **only 2 months left to secure your spot at President’s Club 2021 at the Ritz Carlton in Maui, Hawaii from May 11-14, 2021**! Check out the leaderboard across roles in the [President’s Club Dashboard](https://app.periscopedata.com/app/gitlab/670929/FY21-President's-Club-Dashboard) and refresh your memory on President's Club selection criteria and FAQs on the [President's Club Handbook page](/handbook/sales/club/).
