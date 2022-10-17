@@ -103,7 +103,7 @@ For each feedback issue labeled "satisfaction::good":
 To share positive feedback in the Support Week in Review, each week an issue will be created in the [Support Week In Review Tracker](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues) and tagged with `~"SWIR::SSAT"`.
 If you're the SSAT Reviewing manager it should be assigned to you automatically, but you can also [search for the label](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues?label_name%5B%5D=SWIR%3A%3ASSAT).
 
-Anything you add to the body of this issue will be included in the SWIR digest for the week.
+Anything you add to the body of this issue will be included in the SWIR digest for the week. No further action is required other than having the body of the issue updated. Please do be aware of some considerations in [formatting feedback in the SWIR issue](#formatting-feedback-in-swir-issue).
 
 **Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
 
@@ -122,6 +122,14 @@ When adding the comment to the SSAT issue in the `support-week-in-review` tracke
 - be aware that headers will be included in the table of contents in the issue
 
 Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
+
+#### Automatically collectin positive feedback
+
+The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"`. To run this job:
+1. Create a new pipeline by going to CI/CD -> Pipelines -> Run Pipeline
+2. Click the "Play" button on the manual `populate_ssat` job
+
+You can safely re-run this task as many times as you'd like as it will append to the issue.
 
 ### Handling "Bad" Reviews
 
