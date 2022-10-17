@@ -110,7 +110,7 @@ Examples of companies who have product/features pages:
 
 ### Compare sections
 
-There are two comparison sections on our website, `/compare/` and [DevOps tools](/devops-tools/).
+There are two comparison sections on our website, `/compare/` and [DevOps tools](/competition/).
 
 The DevOps tools section provides an in-depth, feature by feature comparison of GitLab and our competitors. Pages in the DevOps tools section are maintained by the Competitive Intelligence team, which is part of the [Strategic Marketing](/handbook/marketing/strategic-marketing/) team.
 
@@ -523,7 +523,7 @@ It is the single source of truth for multiple pages across the website including
 
 - [Product pages](/stages-devops-lifecycle/) e.g. [continuous integration](/stages-devops-lifecycle/continuous-integration/)
 - [Pricing](/pricing/)
-- [Compare](/devops-tools/)
+- [Compare](/competition/)
 - [ROI](/calculator/)
 - [Features](/features/)
 
@@ -608,7 +608,7 @@ Important guidelines to keep in mind:
 
 ### Creating a DevOps tools comparison page
 
-The [`/devops-tools`](/devops-tools/) section of the website shows info about DevOps tools and a feature comparison of those tools to GitLab. Comparison pages are auto-generated from `features.yml` and `devops_tools_list.yml`. All you need to do is add a tool to the `devops_tools` section in `devops_tools_list.yml` and add that tool id to some features and the page will be created.
+The [`/devops-tools`](/competition/) section of the website shows info about DevOps tools and a feature comparison of those tools to GitLab. Comparison pages are auto-generated from `features.yml` and `devops_tools_list.yml`. All you need to do is add a tool to the `devops_tools` section in `devops_tools_list.yml` and add that tool id to some features and the page will be created.
 
 To add a new comparison page:
 
