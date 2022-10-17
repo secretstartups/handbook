@@ -119,8 +119,10 @@ other stakeholders.
 
 For any given proposal, the following people should be involved:
 
-* An Architecture Evolution Coach (a Principal+ Engineer) who will be a coach and a mentor guiding the author through the process,
-* A Management Engineering Leader, who is a people's leader supposed to support the process,
+* An Architecture Evolution Coach (a Principal+ Engineer) who will be a coach
+  and a mentor guiding the author through the process,
+* A Management Engineering Leader, who is a people's leader supposed to support
+  the process,
 * A Product Manager responsible for finding a way to fund the initiative.
 
 During the process of working on the proposal, the author collaborates with an
@@ -131,6 +133,11 @@ first need to understand what is the scope of their proposal, what departments
 and teams will need to help to get the work done and how important it is for
 the organization, then they can involve the Architecture Evolution Coach to
 guide them through the workflow.
+
+Once the blueprint has enough content to evaluate the proposal (it can still be
+fairly short and simple) new processes and workflows become available for you,
+to make the proposal visible to the right people. See the section about
+[amplification](#amplification).
 
 ### Roles
 
@@ -258,6 +265,28 @@ The concept of a Working Groups can be an extension of the Architecture
 Evolution Workflow, but if it is not applicable in a particular case, a
 different process can be followed, like the suggested one that is described
 below.
+
+### Amplification
+
+We recognize the challenge of implementing complex architectural changes, over
+many months or even years. It is difficult to start such a work, fund it in the
+long term and avoid disruptive distractions as the implementation moves
+forward.
+
+Blueprints are often written by individual engineers, yet these documents
+usually describe far-reaching visions. Implementing such a vision takes time
+and might require funding. The Architecture Evolution Workflow has been built
+to better support teams in getting this kind of work done. There are a few
+associated processes, established to increase the likelihood of a success.
+
+One of processes designed to help is a monthly Architecture Evolution Sync
+meeting with Engineering Fellows and VP of Development, among others. The
+purpose of this meeting is to:
+
+- Increase visibility and awareness of blueprints.
+- Coordinate large initiatives across the organization.
+- Provide status updates about the most important initiatives.
+- Receive guidance regarding staffing and funding.
 
 ### Evolution
 
