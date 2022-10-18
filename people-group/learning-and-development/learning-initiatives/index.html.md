@@ -49,20 +49,6 @@ Live Learning sessions are conducted on an ad hoc. There will be a Zoom video co
 
 <details>
   <summary markdown='span'>
-    Live Learning Schedule
-  </summary>
-
-<b>The upcoming Live Learning schedule is as follows:</b>
-
-<ul>
-<li>January - 3 Week Manager Challenge</li>
-</ul>
-
-</details>
-
-
-<details>
-  <summary markdown='span'>
     Past Live Learning Sessions
   </summary>
 
@@ -105,7 +91,7 @@ Social Learning can also occur in GitLab's Learning Experience Platform - [Level
 
 ## Learning & Development Quarterly Newsletter
 
-The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community.
+The L&D team hosted a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for five quarters for the community.
 
 ## Take Time Out To Learn Campaign
 
@@ -125,11 +111,11 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 
 ## CEO Handbook Learning Sessions
 
-GitLab's Handbook pages grow every day. Each page serves as GitLab's primary source of [learning and development material](/handbook/people-group/learning-and-development/#handbook-first-training-content). Throughout FY22, the L&D team and the CEO will hold recorded interactive learning sessions to analyze Handbook pages. The goal of the sessions will be to incorporate more video-based learning into the handbook.
+GitLab's Handbook pages grow every day. Each page serves as GitLab's primary source of [learning and development material](/handbook/people-group/learning-and-development/#handbook-first-training-content). Throughout FY22, the L&D team and the CEO held recorded learning sessions to analyze Handbook pages. The goal of the sessions will be to incorporate more video-based learning into the handbook.
 
 Three types of CEO handbook learning sessions:
 
-1. **Handbook Readout:** Bit-sized recording where the L&D team and the CEO review what is on the page. (5 minute video)
+1. **Handbook Readout:** Bite-sized recording where the L&D team and the CEO review what is on the page. (5 minute video)
 1. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. (25 minute video)
 1. **Handbook Interview:** The Learning and Development team will create new pages, create sub-pages, or update existing pages based on interview topics discussed during a targeted Q&A. The video will serve as the foundation for new learning content at GitLab.
 
@@ -149,7 +135,7 @@ Preparing for the Call:
 
 During the Call: 
 
-1. Give Sid and other speakers, if applicable, a few minutes at the beginning of the call to populate answers. 
+1. Give CEO and other speakers, if applicable, a few minutes at the beginning of the call to populate answers. 
 1. Once everyone is ready, stream to YouTube Live. 
 1. Make the title of the agenda, the same as the YouTube Video. 
 1. Do a quick introduction. 
@@ -227,9 +213,3 @@ The following process outlines steps for the L&D team to take when planning and 
 Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
-
-
-
-
-
-
