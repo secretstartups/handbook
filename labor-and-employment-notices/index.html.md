@@ -367,6 +367,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Sick Time](https://www.oregon.gov/boli/employers/Documents/BOLI_SickLeave.pdf)
 * [Oregon OSHA's COVID-19 Standard for all Workplaces](https://osha.oregon.gov/OSHAPubs/5504.pdf)
 * [Workplace Accommodations Notice](https://drive.google.com/file/d/1qe-dqjG5ClcglfGFo75bojPXgIAkmAg7/view?usp=sharing)
+* [Paid Leave Notice Poster](https://paidleave.oregon.gov/DocumentsForms/Paid-Leave-ModelNotice-Poster-EN.pdf)
 
 ### Pennsylvania
 * [Minimum Wage Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-1.pdf)
