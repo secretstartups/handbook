@@ -82,6 +82,8 @@ Use the Material- and Purpose-specific Publicity Waiver and Release template for
 ### Event Photography and Videography Likeness Release
 When capturing photos or video at events, don't capture attendee name badges, or blur them where they appear.
 
-For internal and external events at which photography or videography by or on behalf of GitLab will be captured, include the [Event Photography and Videography Likeness Release](https://docs.google.com/document/d/11ihdyShiPngTZg9gtl2LvoU6Uixp2ohEE5mVQEv18NM/edit) as a provision in the event registration terms and conditions, ensuring you have first completed the yellow-highlighted fields.
+For internal and external events at which photography or videography by or on behalf of GitLab will be captured, include the [Event Photography and Videography Likeness Release](https://docs.google.com/document/d/11ihdyShiPngTZg9gtl2LvoU6Uixp2ohEE5mVQEv18NM/edit) Registration form language as a provision in the event registration terms and conditions, ensuring you have first completed the yellow-highlighted fields. 
+
+In addition, place [Notice of Photography and Filming posters](https://docs.google.com/document/d/11ihdyShiPngTZg9gtl2LvoU6Uixp2ohEE5mVQEv18NM/edit#bookmark=id.9bgkjm7gij8e) throughout the event space, or at the GitLab booth as appropriate, to notify attendees that photography and filming are taking place.
 
 {::options parse_block_html="false" /}
