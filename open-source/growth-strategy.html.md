@@ -42,26 +42,26 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 #### Reduce Open Community MR Age
 
 * **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest OCMA. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.  
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1](https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
-* **DRI:** Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/1>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 #### Simplify & improve contribution guides 
 
 * **Why:** Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand. 
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/16](https://gitlab.com/groups/gitlab-com/quality/-/epics/16)
-* **DRI:** Community Relations team (Marketing)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/16>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/)
 
 #### Improve contribution tooling
 
 * **Why:** Provide fast and efficient contributor experience via our tooling. Our contributor tooling needs to be optimized for contributor productivity
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/2](https://gitlab.com/groups/gitlab-com/quality/-/epics/2)
-* **DRI:** Engineering Productivity team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/2>
+* **DRI:** [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/)
 
 #### Product groups focus
 
 * **Why:** Contribution submissions, backlog, and technology stack vary amongst all [product groups](/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/3](https://gitlab.com/groups/gitlab-com/quality/-/epics/3)
-* **DRI:** Product Ops, Community Relations & Contributor Success 
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/3>
+* **DRI:** [Product Operations](/handbook/product/product-operations/), [Community Relations team](/handbook/marketing/community-relations/) & [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 ### Increase Contribution Value
 
@@ -70,26 +70,26 @@ Incentivize, attract and retain contributors by providing a compelling value and
 #### Define contributor value proposition 
 
 * **Why:** We need a clear definition of what drives people to contribute to GitLab and to present a compelling value proposition for increasing code contribution.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/11](https://gitlab.com/groups/gitlab-com/quality/-/epics/11)
-* **DRI:** Community Relations team (Marketing)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/11>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/)
 
 #### Developer badges & certification 
 
 * **Why:** Implement a badging system and eventually work towards a certification program for GitLab developers 
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/4](https://gitlab.com/groups/gitlab-com/quality/-/epics/4)
-* **DRI:** Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/4>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 #### Contributor recognition
 
 * **Why:** Provide sustained and impactful recognition to recognize & retain our contributors. Increase frequency and targeted recognition to types and persona of contributors
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/7](https://gitlab.com/groups/gitlab-com/quality/-/epics/7)
-* **DRI:** Contributor Success team (Engineering) & Community Relations team (Marketing)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/7>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/) & [Community Relations team](/handbook/marketing/community-relations/)
 
 #### Contributor career advancement
 
 * **Why:** In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement. 
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/5](https://gitlab.com/groups/gitlab-com/quality/-/epics/5)
-* **DRI:** Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/5>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 ### Expand Outreach
 
@@ -98,45 +98,51 @@ Increase awareness with content and events to drive large amounts of contributor
 #### Increase contribution backlog exposure
 
 * **Why:**  Contributing as a new member to a massive project can be overwhelming, which can lead to analysis paralysis and potentially losing contributors. We should offer a lens into a discoverable, sizable set of issues we can direct newcomers to. Consider using established 3rd party platforms.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/12](https://gitlab.com/groups/gitlab-com/quality/-/epics/12)
-* **DRI:** Community Relations team (Marketing)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/12>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/)
 
 #### Scale contributor events
 
 * **Why:** Build a sense of belonging, provide the social environment for contributors to have their voice, meet with their peers, share knowledge and celebrate.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/13](https://gitlab.com/groups/gitlab-com/quality/-/epics/13)
-* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/13>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/) & [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 #### Community office hours
 
 * **Why:** We need to scale office hour calls that have traditionally been a unique opportunity for product groups to provide support, guidance to code contributors as well as gather feedback.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/14](https://gitlab.com/groups/gitlab-com/quality/-/epics/14)
-* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/14>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/) & [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
 #### Increase social presence
 
 * **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, gitter), which will allow us to tap into existing developer communities.  
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/15](https://gitlab.com/groups/gitlab-com/quality/-/epics/15)
-* **DRI:** Community Relations team (Marketing)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/15>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/)
 
 ### Scale the Community
 
 Leverage the full-time customer contributor model and create wider community teams for rapid growth.
 
-#### Create community teams
+#### Create a governance model & allow community participation in decision-making
 
-* **Why:** Create teams of wider community members with multiple domain expertise. We would like to depart from having contributors work single-handedly and create a team that can do more together.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/8](https://gitlab.com/groups/gitlab-com/quality/-/epics/8)
-* **DRI:** Contributor Success team (Engineering) 
+* **Why:** A decision making model that works for the entire community allows us to make decisions faster. It allows wider community members with multiple domain expertise to make decisions on GitLab changes. It allows the maintainers to have the final sign-off. It lets the community be in the driving seat and fosters growth.
+* **Epic:** TBD
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
-#### Customers as contributors
+#### Returning & Frequent Contributors
 
-* **Why:** Increased contribution by our customers eventually builds towards customers having teams inside their organization contributing to GitLab. Engineering representative that can ride along with the evangelist and program manager in interaction with customers.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/9](https://gitlab.com/groups/gitlab-com/quality/-/epics/9)
-* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Why:** Increased contribution by motivating recurring contributions from organizations that use or extend GitLab, such as customers, partners and OSS communities. Reward those that achieve that status with GitLab benefits that are valuable to the individual and the organization.
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/9>
+* **DRI:** [Community Relations team](/handbook/marketing/community-relations/) & [Contributor Success team](/handbook/engineering/quality/contributor-success/)
 
-#### Contribution specialization 
+#### Foster more collaboration
+
+* **Why:** To surface contribution opportunities tailored to tech professions, implement frontend, backend, UX, Test and etc specialization in contribution types and MR coaches. This also allows a more aligned interaction between contributor and MR coaches of the same specialization. We would like to depart from having contributors work single-handedly and create a team that can do more together.
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/8>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
+
+#### Contribution specialization
 
 * **Why:** To surface contribution opportunities tailored to tech professions, implement frontend, backend, UX, Test and etc specialization in contribution types and MR coaches. This also allows a more aligned interaction between contributor and MR coaches of the same specialization.
-* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/10](https://gitlab.com/groups/gitlab-com/quality/-/epics/10)
-* **DRI:** Contributor Success team (Engineering)
+* **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/10>
+* **DRI:** [Contributor Success team](/handbook/engineering/quality/contributor-success/)
