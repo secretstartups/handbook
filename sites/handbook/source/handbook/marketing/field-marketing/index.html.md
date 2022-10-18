@@ -682,10 +682,10 @@ In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-
 | ------ | ------ | -------------- | -------------- |
 | [AMER East - NE, SE, Mid-Atlantic, NYC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?&label_name%5B%5D=East) | Beth Parker | `@BParker` |
 | [AMER East - South Central, LATAM](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Ginny Reib | `@GReib` |
-| [AMER West - NW, North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@mmacfarlane` |
+| [AMER West - NW, North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@GReib` |
 | [AMER West - SW, New First Order](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
 | [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey | & `@KiraAubrey` |
-| [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | TBH | `TBH` |
+| [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Kate Baker | `@kbaker4` |
 | Japan - link WIP | Shu Kawaguchi | `@skawaguchi1` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
  [EMEA MEA](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426540?&label_name[]=MEA) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
@@ -806,7 +806,7 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | AMER West-PacNorWest | Matthew Macfarlane | Jen Bailey |
 | AMER West - NorCal/SoCal/Rockies | Lisa Rom | Jen Bailey |
 | AMER Public Sector | Kira Aubrey | Chris Novello|
-| APAC | TBH | Dirk de Vos |
+| APAC | Kate Baker | Dirk de Vos |
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Juliette Francon | Tristan Ouin |
 | EMEA MEA | Juliette Francon | Matthew Coughlan |
