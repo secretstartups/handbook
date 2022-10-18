@@ -18,7 +18,7 @@ twitter_creator: "@gitlab"
 
 The GitLab Strategy and Operations (Workplace) Team evolved from the All-Remote Marketing team. It is responsible for:
 1. The creation, curation, and continued iteration of [GitLab's guide to all-remote](/company/culture/all-remote/guide/), a deep library of guides that covers every facet of how GitLab functions as a remote team.
-2. Stewarding, iterating, and evangelizing GitLab's management philosophy, [MECC (Managing so Everyone Can Contribute)](/handbook/mecc/). 
+2. Stewarding, iterating, and evangelizing GitLab's management philosophy and people practice, [TeamOps](/teamops/).
 3. Building an overarching methodology for the modern workplace throughout FY23 and FY24.
 
 **This page is the single source of truth for all-remote positioning, evangelism, approvals, vision, and strategy**.
@@ -56,7 +56,7 @@ graph BT;
 
 GitLab is an influencer and educator in remote work. It serves the community by creating valuable content that furthers the proliferation and ubiquity of [remote-first](/company/culture/all-remote/how-to-work-remote-first/) and [all-remote](/company/culture/all-remote/terminology/) organizations, while enhancing the operations of colocated and [hybid-remote](/company/culture/all-remote/hybrid-remote/) companies by sharing implementable remote-first practices.
 
-We believe that the [management philosophy](h/handbook/mecc/) and [operating principles](/handbook/values/#operating-principles) relied on by GitLab are applicable even to colocated companies, and educating on pillars such as [asynchronous workflows](/company/culture/all-remote/asynchronous/) and [informal communication](/company/culture/all-remote/informal-communication/) can benefit all organizations.
+We believe that the [people practice](/teamops/) and [operating principles](/handbook/values/#operating-principles) relied on by GitLab are applicable even to colocated companies, and educating on pillars such as [asynchronous workflows](/company/culture/all-remote/asynchronous/) and [informal communication](/company/culture/all-remote/informal-communication/) can benefit all organizations.
 
 ## Evangelism Materials
 
@@ -84,11 +84,11 @@ GitLab's overview video on its [all-remote culture](/company/culture/all-remote/
 {::options parse_block_html="true" /}
 
 <div class="panel panel-gitlab-orange">
-**Updates incoming for MECC**
+**Updates incoming for TeamOps**
 {: .panel-heading}
 <div class="panel-body">
 
-We plan to refresh the below content in Q3-FY23 to reflect GitLab's brand refresh and the creation of [MECC](https://about.gitlab.com/handbook/mecc/).
+We plan to refresh the below content in Q4-FY23 to reflect GitLab's brand refresh and the creation of [TeamOps](/teamops/).
 
 </div>
 </div>
@@ -231,7 +231,9 @@ The course, titled "[How to Manage a Remote Team](https://www.coursera.org/learn
 
 ### GitLab Remote Work Foundation Certification
 
-Anyone in the world (yes, this includes those who are not employed by GitLab) may take the [GitLab Remote Work Foundation Certification](/company/culture/all-remote/remote-certification/) to improve their remote fluency. (*Note: We are refreshing this page and building a public certification for [MECC](/handbook/mecc/). This section will update once those are live.*)
+Anyone in the world (yes, this includes those who are not employed by GitLab) may take the [GitLab Remote Work Foundation Certification](/company/culture/all-remote/remote-certification/) and [TeamOps practitioner certification](https://levelup.gitlab.com/learn/course/teamops) to improve their remote fluency. 
+
+
 
 
 ### Social media assets and guidelines
@@ -302,7 +304,7 @@ For example, 86% of respondents believe remote work is the future and 62% of res
 
 ### Work-from-Home Field Guide
 
-The [Work-from-Home Field Guide](/company/culture/all-remote/work-from-home-field-guide/) was co-created by GitLab and Herman Miller. It combines GitLab's expertise on [remote work](https://learn.gitlab.com/allremote/remote-playbook) and [management philosophy](/handbook/mecc/) with Herman Miller's deep understanding of workspaces and design. 
+The [Work-from-Home Field Guide](/company/culture/all-remote/work-from-home-field-guide/) was co-created by GitLab and Herman Miller. It combines GitLab's expertise on [remote work](https://learn.gitlab.com/allremote/remote-playbook) and [management philosophy](/teamops/) with Herman Miller's deep understanding of workspaces and design. 
 
 ### Remote Work playlist on GitLab Unfiltered
 
@@ -393,7 +395,7 @@ Field Marketing will look up account ownership in SFDC (Salesforce.com) and make
 
 ### Web
 
-The team's primary home for publishing informational guides and content is the [all-remote section of GitLab's handbook](/company/culture/all-remote/). This will be the preeminent home to all-remote content, positioned for consumption by media, investors, prospective customers and candidates. This links readers to the guides that make up [The Remote Playbook](https://learn.gitlab.com/allremote/remote-playbook), as well as [Managing so Everyone Can Contribute (MECC)](/handbook/mecc/). Future web experiences are being evaluated.
+The team's primary home for publishing informational guides and content is the [all-remote section of GitLab's handbook](/company/culture/all-remote/). This will be the preeminent home to all-remote content, positioned for consumption by media, investors, prospective customers and candidates. This links readers to the guides that make up [The Remote Playbook](https://learn.gitlab.com/allremote/remote-playbook), as well as [TeamOps](/teamops/). Future web experiences are being evaluated.
 
 ### Video
 
@@ -497,7 +499,7 @@ Our scheduled asynchronous weeks in 2022 are:
 
 ### Contact us
 
-- Slack: Find us in `#remote`, `#mecc`, and `#ceo-chief-of-staff-team`
+- Slack: Find us in `#remote`, `#teamops`, and `#ceo-chief-of-staff-team`
 
 
 ----
