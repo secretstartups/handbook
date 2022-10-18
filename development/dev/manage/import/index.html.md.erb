@@ -57,10 +57,10 @@ The breakdown phase will be used for:
 **Tasks**:
 1. PM: Milestone planning issue gets created.
   We utilize a planning issue to keep our team organized during the planning phase. 
-1. PM: Moves and order issues of interest into the `~"workflow::refinement"` list of the [Refinment Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527) 
+1. PM: Moves and order issues of interest into the `~"workflow::refinement"` list of the [Refinment Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport) 
 1. PM and EM add `~"ready for next refinement"` to top priority issues every week by Thursday end of day. 
 
-1.  Engineering and Product Designer to refine issues with `~"ready for next refinement"` label on [Refinement Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527)
+1.  Engineering and Product Designer to refine issues with `~"ready for next refinement"` label on [Refinement Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport)
 1. Engineering: weight issues
 1. Engineering: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
 1. EM: coordinate with FE & BE work.
@@ -126,17 +126,9 @@ We have a weekly refinement process which consists of the following steps:
 * In the following week, engineers, PM and UX will refine these 3 issues in the `ready for next refinement` column over a sync call (Tuesday, 08:30am CET). The discussion should be time-boxed and we aim on spending ~10mins per issue.
 * Before the sync call, engineers and UX should familiarize themselves with the `ready for next refinement` issues and bring up any questions in the issue.
     * Any outcome of the sync call discussion (problems, solution proposal, etc.) needs to be documented in the issue.
-    * Once an issue is refined and a weight has been added the `workflow::ready for development` label (along with the `Next Up` label which should already be there) should be added. Also, the `ready for next refinement` label should be removed afterwards. This will automatically add the issue to the build board.
+    * Once an issue is refined and a weight has been added the `workflow::ready for development` label should be added. Also, the `ready for next refinement` label should be removed afterwards. This will automatically add the issue to the build board.
     * Engineers need to make sure that issues will be added at the bottom of the `workflow::ready for development` column (otherwise priorities don't match anymore).
 * We will be constantly reviewing the process in the monthly retrospective issues and make further adjustments if needed.
-
-###### Next Up
-
-* To identify issues that need refinement, use the "Next Up" label.
-  * The purpose of the "Next Up" label is to identify issues that are currently in _any_ workflow stage before `workflow::ready for development`. By using this "Next Up" label in addition to workflow labels, we're able to see exactly what is being refined, e.g., problem, design, solution. This helps identify which issues are closer to being ready to schedule.
-* Issues shouldn't receive a milestone for a specific release (e.g. 13.0) until they've received a 👍 from both Product and Engineering. This also means the issue should not be labeled as `workflow::ready for development`.
-  * Product approval is represented by adding the `ready for next refinement` label.
-  * Engineering approval is represented by an issue weight measuring its complexity.
 
 ##### Breaking down or promoting issues
 
@@ -203,7 +195,7 @@ Although we have a bias for asynchronous communication, synchronous meetings are
 | Weekly    | Group-level meeting                  | Backend Engineering Managers | Ensure current release is on track by walking the board, unblock specific issues                       |
 | Monthly   | Planning meetings                    | Product Managers         | See [Planning](/handbook/engineering/development/dev/manage/#planning) section |
 
-For one-off, topic specific meetings, please always consider recording these calls and sharing them (or taking notes in a [publicly available document](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit)).
+For one-off, topic specific meetings, please always consider recording these calls and sharing them.
 
 Agenda documents and recordings can be placed in the [shared Google drive](https://drive.google.com/drive/u/0/folders/0ALpc3GhrDkKwUk9PVA) (internal only) as a single source of truth.
 
@@ -233,7 +225,7 @@ The following people are permanent members of the group:
   * Manage:Import [#g_manage_import](https://gitlab.slack.com/messages/CLX7WMSKW)
   * Daily standups [#g_manage_import_daily](https://gitlab.slack.com/archives/C01099NRZ7B)
 * Issue boards
-  * Import [build board](https://gitlab.com/groups/gitlab-org/-/boards/4172737) and [refinement board](https://gitlab.com/groups/gitlab-org/-/boards/4175527)
+  * Import [build board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name%5B%5D=group%3A%3Aimport) and [refinement board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport)
 * Onboarding videos (GitLab Unfiltered Youtube)
   * [Manage:Import Onboarding - GitLab Migration](https://www.youtube.com/watch?v=vVQ6Ex9fSl8)
   * [Manage:Import Onboarding - Introduction to GitHub Importer](https://www.youtube.com/watch?v=TxHopzXop5s)
