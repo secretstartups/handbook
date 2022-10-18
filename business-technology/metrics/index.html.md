@@ -9,29 +9,62 @@ title: "Business Technology Performance Indicators"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# Key Performance Indicators (KPI)
+
+## Engineering Contribution Rate
+
+Engineering Contribution Rate is a key indicator showing how productive our team members are based on two factors. 
+1. the total MRs created for contributions to GitLab or to IT Applications 
+  1. [Handbook Link](https://about.gitlab.com/handbook/business-technology/it/engineering/development/)
+1. the number of IT engineering issues that are actioned each month. 
+  1. [Access requests](https://about.gitlab.com/handbook/business-technology/it/engineering/access-mgmt/)
+  1. [IT infrastructure](https://about.gitlab.com/handbook/business-technology/it/engineering/infrastructure/) 
+  1. [IT Eng Ops](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker/-/issues) 
+  1. [IT change management](https://about.gitlab.com/handbook/business-technology/it/engineering/change-mgmt/)
+
+[Full Contribution Reports](https://gitlab.com/gitlab-com/business-technology/engineering/standup-reports/-/tree/main/contribution-reports)
+
+Target: TBD
+
+## FinSys team Contribution Rate
+
+FinSys Contribution Rate is a key indicator showing how productive our team members are based on the total change management issues that are completed per month. 
+
+Target: TBD
+
+## Laptop on-time delivery
+
+This performance indicator tracks the number of laptops that arrive before a team members start date. 
+
+Target: The goal is that 99% of laptops will arrive prior to start date.
+
+## CSAT of IT Requests
+
+This performance indicator measures how satisfied our customers' (internal GitLab team members) are with their interaction with the GitLab IT team. This is based on survey responses from team members.
+
+Target: 95% CSAT
+
+Note: This cannot be measured currently.
+
+### Cycle Time for IT Support Issue Resolution SLA
+
+This performance indicator tracks against the SLA for requests.
+
+**Aligns with the following core business objectives**:
+
+- Triage all IT related questions as they arise
+- On call support for immediate software and hardware issues during local business hours
+
+Target: 95% SLA achievement
+
+Note: This cannot be measured currently.
+
+
 # Performance Indicators (PI)
 
 ## All teams
 
-### Average Merge Request
-
-This performance indicator tracks the growth of the knowledge base across teams.
-
-**Aligns with the following core business objectives**:
-
-**Data Team**
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Ensure goal to keep systems up and running while giving insights into partnership with Infrastructure team.
-- Ensure data availability for data analytics and reporting for business units to make data-driven decisions.
-
-**IT Systems**
-
-- Build a knowledge base of IT practices and pragmatic problem solving in the handbook
-- Support Weekly IT Onboarding Sessions for new Team Members
-- Train end-users how to setup and use new technologies
-
-### Average Issues
+### Average Merge Requests to the handbook
 
 This performance indicator tracks the growth of the knowledge base across teams.
 
@@ -52,28 +85,6 @@ This performance indicator tracks the growth of the knowledge base across teams.
 ### Cost Actual vs Plan
 
 This performance indicator is tracked by several metrics including: Infrastructure Cost vs Plan and Hiring Cost vs Plan. This PI is to track the financial position of all the team cost vs. the budget set by the team.
-
-**Aligns with the following core business objectives**:
-### Discretionary bonus per employee per month > 0.1
-
-**Aligns with the following core business objectives**:
-
-- [Discretionary Bonuses](/handbook/incentives/#discretionary-bonuses)
-
-
-### New Hire Location Factor < 0.69
-
-- [Average Location Factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
-- [Finance Team KPIs](/company/kpis/#finance-team-kpis)
-
-### Percent (%) of team who self-classify as diverse
-
-Percentage of team who self-classify as diverse. This is one metric of many to track the diversity lifecycle.
-
-**Aligns with the following core business objectives**:
-
-
-- [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/)
 
 
 ## Data Team
@@ -156,102 +167,12 @@ Percentage of all company data in data warehouse
 - Helps to achieve an unified data warehouse that allows for the mapping of user journeys.
 
 
-## Enterprise Applications
-
-### Evaluating System or Process Efficiency
-
-This performance indicator tracks the efficiency of new or updated system or processes.
-
-**Aligns with the following core business objectives**:
-
-- Understand system capabilities and business requirements, and drive standard & scalable solutions. Anticipate risks and mitigating them before they become serious.
-- Identify opportunities to increase efficiency and productivity within the context of the overall business strategy
-
-### Number of days since last environment audit
-
-Number of days since the last audit on all the data, processes, and users within a given system. We will set a cadence that will be the cap we will measure against.
-
-**Aligns with the following core business objectives**:
-
-**Data Team**
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-
-### System roll out vs plan
-
-This performance indicator tracks the time it took to roll out a new system vs the planned time for that system roll out.
-
-**Aligns with the following core business objectives**:
-
-- Creating a road-map for system changes
-- Understanding bandwidth constraints on the IT team
-
 ## IT
 
-### Average Delivery Time of Laptop Machines < 21 days
-
-This performance indicator tracks the average delivery time of laptop machines. The goal is that 99% of laptops will arrive prior to start date or 21 days from the date of order.
-
-**Aligns with the following core business objectives**:
-
-- Ensure system / hardware availability
-
-### Customer Satisfaction Survey (CSAT)
-
-This performance indicator measures how satisfied our customers' (internal GitLab employees) are with their interaction with the GitLab IT team. This is based on survey responses from customers.
 
 
-### Cycle Time for IT Support Issue Resolution
-
-This performance indicator tracks against the SLA for requests.
-
-**Aligns with the following core business objectives**:
-
-- Triage all IT related questions as they arise
-- On call support for immediate software and hardware issues during local business hours
-
-### IT ROI
-
-This performance indicator tracks the financial position of the IT systems by looking at the net profits of an investment and what it cost to implement it. This is often expressed as a percentage comparing the profits to the cost.
-
-**Aligns with the following core business objectives**:
-
-- Build, scale and manage our IT Operations and Helpdesk teams to support our needs as distributed company
-- Create and execute a plan to develop and mature our IT capabilities
-
-### Mean Time to Repair (MTTR)
-
-This performance indicator tracks the mean time to get the system back up and running based on set cadence.
-
-**Aligns with the following core business objectives**:
-
-**Data Team**
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Ensure goal to keep systems up and running while giving insights into partnership with Infrastructure team.
-- Ensure data availability for data analytics and reporting for business units to make data-driven decisions.
-
-**IT Systems**
-
-- Diagnose computer errors and provide technical support
-- Troubleshoot software and hardware
-
-### Number of days since last environment audit
-
-Number of days since the last audit on all the data, processes, and users within a given system. We will set a cadence that will be the cap we will measure against.
-
-**Aligns with the following core business objectives**:
 
 
-- Develop tooling and process to facilitate end-user asset management, provisioning and tracking
-
-### Support Tickets and Access Request Closed per Employee
-
-This performance indicator tracks the number or percentage of support tickets closed per Employee.
-
-**Aligns with the following core business objectives**:
-
-- Track productivity and resource allocation.
 
 ### SLO achievement per data source
 
@@ -276,6 +197,27 @@ This performance indicator tracks all metrics related to achieve the service-lev
 - Follow and improve our processes for maintaining high quality data and reporting.
 - Build rapport with internal stakeholders to encourage data-driven decision-making.
 - Encourage DataOps across the company.
+
+## Enterprise Applications
+
+### Evaluating System or Process Efficiency
+
+This performance indicator tracks the efficiency of new or updated system or processes.
+
+**Aligns with the following core business objectives**:
+
+- Understand system capabilities and business requirements, and drive standard & scalable solutions. Anticipate risks and mitigating them before they become serious.
+- Identify opportunities to increase efficiency and productivity within the context of the overall business strategy
+
+### System roll out vs plan
+
+This performance indicator tracks the time it took to roll out a new system vs the planned time for that system roll out.
+
+**Aligns with the following core business objectives**:
+
+- Creating a roadmap for system changes
+- Understanding bandwidth constraints on the IT team
+
 
 
 ## Procurement
