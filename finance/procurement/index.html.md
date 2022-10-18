@@ -26,7 +26,7 @@ Anytime a purchase is being made on behalf of GitLab that does not qualify as a 
 
 
 
-#### Shared Goals
+### Shared Goals
 Procurement is a cross-functional team that supports GitLab as a public company. We have four key objectives monitored in the following ways:
 1. Risk Management and Compliance
     - Reported and monitored via internal and external audit which gets reported to our shareholders. 
@@ -36,6 +36,27 @@ Procurement is a cross-functional team that supports GitLab as a public company.
     - Reported through the twice annual NPS survey
 1. Responsible Sourcing and Diversity
     - Monitored via Coupa Supplier Onboarding
+
+### Metrics
+
+#### Vendor cost avoidance
+
+Monitor the cost avoidance achieved through the procure to pay process. Cost Avoidance is the savings achieved off of the initial vendor proposal price. Note this is not directly tied to budget.
+
+**Aligns with the following core business objectives**:
+
+- Control spend and build a culture of long-term savings on procurement costs.
+- Streamline the purchasing process.
+- Minimize financial risk.
+
+#### Percent (%) of vendor spend on Purchase Order
+
+Percentage of all vendor spend for any department that is purchased via PO.
+
+**Aligns with the following core business objectives**:
+
+- SOX Compliance.
+- Streamline the purchasing process.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> When do I start the Procurement Process?
 - Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
