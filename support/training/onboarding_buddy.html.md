@@ -32,7 +32,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 | ----------- | ----------- |
 | [Weeks 1-2](#first-1-2-weeks) | Call to meet the new Support Engineer, help them get acclimated, answer any general questions they may have, discuss schedules, and share anything else they may find useful as they get started.       |
 |   | Open the lines of communication in Slack. Throughout this process, check in with them periodically to see how their onboarding module is progressing and ask if they need help.        |
-| |Call to help them update the team page, support-resources, the GDK, or anything else they may have questions about or trouble with. |
+| |Call to help them update the team page, GitLab Sandbox Cloud for GCP, the GDK, or anything else they may have questions about or trouble with. |
 | [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
 | | Invite them to shadow you on any customer calls. |
 | | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) these tickets. |
@@ -54,7 +54,7 @@ Note that everyone's needs are different, so consider the following as a list of
   - Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
   - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
   - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-  - Show them how to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources)
+  - Show them our [Testing Environments](https://about.gitlab.com/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
   - Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings
@@ -72,7 +72,7 @@ Note that everyone's needs are different, so consider the following as a list of
   - Share your screen and answer a few easy tickets with them
   - If they brought any tickets to the call, answer those first
   - Alternate who shares their screen and answers the tickets
-  - Reproduce problems whenever you can. Show them how to quickly spin up an instance using your preferred method (Docker, support-resources, GCP, etc.)
+  - Reproduce problems whenever you can. Show them how to quickly spin up an instance using your preferred method (Docker, GitLab Sandbox Cloud for GCP, etc.)
 
 - Customer calls:
   - Ping them when you have a customer call so they can shadow it
