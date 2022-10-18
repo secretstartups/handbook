@@ -434,14 +434,21 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 | Folder in snowflake-dbt/models/ | db.schema | Details | Queryable in Sisense |
 |-|-|-|:-:|
 | common/ | prod.common | Top-level folder for facts and dimensions. Do not put models here. | Yes |
-| common/prep/ | prep.preparation | Prep models used to create facts/dims. | No |
+| common/bridge | prod.common | Sub-folder for creating many-to-many mappings between data that come from different sources. | Yes |
+| common/dimensions_local | prod.common | Sub-folder with directories containing dimensions for each analysis area. | Yes |
+| common/dimensions_shared | prod.common | Sub-folder with dimensions that relate to every analysis area. | Yes |
+| common/facts_financial | prod.common | Sub-folder with facts for the financial analysis area. | Yes |
+| common/facts_product_and_engineering | prod.common | Sub-folder with facts for the product and engineering analysis area. | Yes |
+| common/facts_sales_and_marketing | prod.common | Sub-folder with facts for the sales and marketing analysis area. | Yes |
 | common/sensitive/ | prep.sensitive | Facts/dims that contain sensitive data. | No |
-| common/curate/ | prod.curate |  | Yes |
-| common/prod/ | prod.common | Production fact/dim tables. | Yes |
-| common_mapping/ | prod.common_mapping | Contains mapping, bridge, or look-up tables | Yes |
-| common_mapping/prep/ | prod.common_mapping | Preparation tables for mapping, bridge, and look-up tables | Yes |
-| marts/ | prod.`marts` | Contains mart-level data. | Yes |
-| prep/ | prep.preparation | General preparation models for production. | No. |
+| common_mapping/ | prod.common_mapping | Used for creating one-to-one mappings between data that come from different sources. | Yes |
+| common_mart/ | prod.common_mart | Joined dims and facts that are relevant to all analysis areas. | Yes |
+| common_mart_finance/ | prod.common_mart | Joined dims and facts that are relevant to finance.  | Yes |
+| common_mart_marketing/ | prod.common_mart | Joined dims and facts that are relevant to marketing. | Yes |
+| common_mart_product/ | prod.common_mart | Joined dims and facts that are relevant to product. | Yes |
+| common_mart_sales/ | prod.common_mart | Joined dims and facts that are relevant to sales. | Yes |
+| common_prep/ | prod.common_prep | Preparation tables for mapping, bridge, dims, and facts. | Yes |
+| marts/ | varies | Contains mart-level data and data pumps that send data to third party sources. | Yes |
 | legacy/ | prod.legacy | Contains models built in a non-dimensional manner | Yes |
 | sources/ | prep.`source` | Contains source models. Schema is based on data source | No |
 | workspaces/ | prod.workspace_`workspace` | Contains workspace models that aren't subject to SQL or dbt standards.  | Yes |
