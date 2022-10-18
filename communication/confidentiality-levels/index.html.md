@@ -50,7 +50,7 @@ The following items are internal:
 1. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
 1. When there is a product offering being developed that is expected to generate very high demand that cannot be quickly met, it should be kept internal in order to give the team the time to create the right solution.
 1. Changes to GitLab.com free tier limits such as storage, data transfer, user limits or CI/CD minutes are not public as they are similar to Pricing and Packaging as discussed below in limited access.
-1. Specific details about our hiring processes such as our scoring rubrics & criteria are not public as we want to ensure candidates provide an accurate overview of their experience and do not falsify their responses to meet our criteria. [High-level interview plans are public and documented in each job family](/hiring/job-families/#job-family-template-1). 
+1. Specific details about our hiring processes such as our scoring rubrics & criteria are not public as we want to ensure candidates provide an accurate overview of their experience and do not falsify their responses to meet our criteria. [High-level interview plans are public and documented in each job family](/handbook/hiring/job-families/#job-family-template-1). 
 
 ### Limited access
 
