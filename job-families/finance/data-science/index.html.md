@@ -3,7 +3,7 @@ layout: job_family_page
 title: Data Science
 ---
 
-The Data Science program at GitLab focuses on developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
+The [Data Science program](/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
 
 Data Scientists work with peers on the Data Team and functional teams to:
   * perform ad-hoc exploratory analysis
@@ -27,8 +27,6 @@ Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here
 
 ### Data Scientist (Intermediate)
 
-Data Scientists (Intermediate) share the same requirements and responsibilities outlined above.
-
 #### Data Scientist (Intermediate) Job Grade
 
 The Data Scientist (Intermediate)  is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -48,8 +46,7 @@ The Data Scientist (Intermediate)  is a [grade 6](/handbook/total-rewards/compen
 #### Data Scientist (Intermediate) Requirements
 
 * Ability to use GitLab
-* 4+ years professional experience in an analytics role
-* 2+ years professional experience in a predictive analytics, data science, or similar role
+* 4+ years professional experience in an analytics role OR 2+ years professional experience in a predictive analytics, data science, or similar role
 * Developed 2 or more automated machine learning models for production use
 * Developed and presented 4 or more predictive analytical projects
 * Familiarity with the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) analytics development model
@@ -86,7 +83,7 @@ The Senior Data Scientist is a [grade 7](/handbook/total-rewards/compensation/co
 
 The Senior Data Scientist has all of the responsibilities of an Intermediate Data Scientist, plus:
 
-*  Improve predictive models with data from multiple models 
+*  Improve predictive models with data from multiple sources 
 *  Automate feedback loops for algorithms/models in production  
 *  Create repeatable processes and scalable data products
 *  Influence functional teams and develop best practices across the organization
@@ -96,20 +93,84 @@ The Senior Data Scientist has all of the responsibilities of an Intermediate Dat
 
 The Senior Data Scientist meets all of the requirements of an Intermediate Data Scientist, plus:
 
-* 6+ years professional experience in an analytics role
-* 4+ years professional experience in a predictive analytics, data science, or similar role
+* 6+ years professional experience in an analytics role OR 4+ years professional experience in a predictive analytics, data science, or similar role
 * Developed 4 or more automated machine learning models for production use
 * Developed and presented 6 or more predictive analytical projects
 * Developed communication skills with ability to explain statistic and mathematical concepts to non-experts
 * Extensive knowledge, application, and experience in creating and implementing recommendation systems, machine learning, NLP, statistics, and deep learning
 * Ability to quantify improvements from business efficiency or customer experience based on research outcomes 
 
-#### Performance Indicators
+#### Senior Data Scientist Performance Indicators
 
 * Number of Models Operationalized
 * Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
 * Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 * Merge Request Rate
+
+### Staff Data Scientist 
+
+#### Job Grade
+
+The Staff Data Scientist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+The Staff Data Scientist has all of the responsibilities of a Senior Data Scientist, plus:
+
+* Focus on strategic business impact through activation of Data Product use cases
+* Coordinate with a cross-functional group of team members to effect change
+* Develop a technical data science team vision and strategy
+* Review, scale, and enhance operationalized statistical models and algorithms 
+* Mentor data scientists and data analysts 
+
+#### Requirements
+
+The Staff Data Scientist meets all of the requirements of a Senior Data Scientist, plus:
+
+* 5+ years professional experience in a predictive analytics, data science, or similar role
+* Knowledge and experience automating machine learning models at scale
+* Expertise solving complex and highly impactful quantitative business problems
+* Demonstrated proficiency with python (pandas, numpy, etc.), SQL, and cloud environments
+* Expert understanding of statistics and the math behind data science algorithms
+* Identify and spearhead new data science initiatives, projects, and collaborations that improve results
+* Willingness to experiment and to confront the hardest or most complex problems
+
+#### Staff Data Scientist Performance Indicators
+
+* Number of Data Products Released
+* Number of Use Cases Activated
+* Measurable $ARR Impact (New Business, Cost Savings, or Efficiency Improvement)
+
+### Principal Data Scientist 
+
+#### Job Grade
+
+The Principal Data Scientist is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+The Principal Data Scientist has all of the responsibilities of an Staff Data Scientist, plus:
+
+* Assist management with project forecasting, roadmapping, and resourcing
+* Lead major strategic data science projects and initiatives, spanning 6 months or more
+* Attain a measurable positive impact on the performance of multiple team members and teams
+* Regularly participates in the Data Community/Industry outside of GitLab through writing, speaking, and networking
+
+#### Requirements
+
+The Principal Data Scientist meets all of the requirements of an Staff Data Scientist, plus:
+
+* 8+ years professional experience in a predictive analytics, data science, or similar role
+* Experience leading strategic projects and large initiatives spanning multiple teams, people, and roles
+* Demonstrated track record of forming effective cross-functional partnerships; desire to work collaboratively and in a diverse team
+* Stays current on the state of data science research, processes, tools, and algorithms
+* Recognized as a leader in the Data Science space across the company
+
+#### Principal Data Scientist Performance Indicators
+
+* $ARR Impact (New Business, Cost Savings, or Efficiency Improvement)
+* # of Business Functions which achieve Level 4 of the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model)
+* E-Group Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 
 ## Hiring Process
 
