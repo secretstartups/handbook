@@ -23,6 +23,25 @@ This page is for product and process documentation.
 4. [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/): documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, such as revenue-based KPIs or sensitive project documentation.
 
 
+## Fulfillment Feature Availability
+
+Not all Fulfillment features are available at the time for all types of customers, please refer to the availability matrix below.
+
+### Cloud Licensing, Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data availability
+
+| Customer Type | Cloud Licensing (Y/N) | Auto-Renewals (Y/N) | Quarterly Subscription Reconciliation (Y/N) | Operational Data (Y/N) |
+| ------------- | --------------------- | ------------------- | ------------------------------------------- | ----------------------- |
+| Customers with credit card on file | Yes | Yes | Yes | Yes |
+| Customers paying with invoice | Yes | Yes | Yes | Yes |
+| Customers requiring a PO | Yes | No | No | Yes |
+| Customers with an MSA | Yes | No | No | No |
+| Customers with multi-year deals | Yes | No | Yes<br>_(term length must be divisible by 12)_ | Yes |
+| Customers purchasing through a GitLab Reseller or other Channel/Alliance Partner | Yes | No | No | Yes |
+| Public Sector Customers | Yes | No | No | Yes |
+| Customers with offline/airgapped environments | Yes<br>_([Offline cloud license](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licenses) released in GitLab 15.0)_ | No | No | No |
+| GitLab for Education, Open Source and Startups Customers | No | No | No | No |
+| Free Tier Users | No | No | No | No |
+
 ## Customer subscription lifecycle
 
 This section shows how customers interact with GitLab Fulfillment systems during their trial and purchase journey.
