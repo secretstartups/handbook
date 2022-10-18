@@ -126,7 +126,7 @@ Please contact [Payroll](mailto:payroll@gitlab.com) for any tax-related question
 
 The course must be from a credentialed college or university and must be relevant to your career development goals and development. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program. The relevance of the classes taken for each semester will be subject to the approval of the manager. The grade must be equivalent to a “B”.
 
-**Elidibility for Reimbursement:** A final grade report or transcript is required to receive reimbursement. 
+**Eligibility for Reimbursement:** A final grade report or transcript is required to receive reimbursement. 
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -134,7 +134,7 @@ The course must be from a credentialed college or university and must be relevan
 
 **Desription:** Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD.
 
-**Elidibility for Reimbursement:** Team members returning from Parental Leave. The provider will invoice GitLab directly.
+**Eligibility for Reimbursement:** Team members returning from Parental Leave. The provider will invoice GitLab directly.
 
 ### Professional Coaching
 
@@ -146,7 +146,7 @@ When you're ready to apply, open a Growth and Development approval issue using t
 
 **The specifics of your coaching sessions will not be communicated to GitLab**. While not required, we strongly encourage you to share your experience, learnings, reflections,  and discoveries with your manager so they can reinforce them and support you on this journey. Individual contributors below Grade 8 are encouraged to receive coaching and mentorship from their managers and our [internal resources](/handbook/leadership/coaching/).
 
-**Elidibility for Reimbursement:** Managers or Individual Contributors Grade 8 and above. Coaching Right Now will invoice GitLab directly.
+**Eligibility for Reimbursement:** Managers or Individual Contributors Grade 8 and above. Coaching Right Now will invoice GitLab directly.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -165,7 +165,7 @@ Examples of English Language Courses:
      8. [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
      9. English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university. 
 
-**Elidibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Expensify.
+**Eligibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Expensify.
 
 **Approver (above $1,000 USD):** Course amount aren't likely to exceed $1,000 USD. If this does exceed $1,000 USD, the academic study criteria would apply.
 
@@ -173,7 +173,7 @@ Examples of English Language Courses:
 
 **Desription:** Any certifications/licenses that you and your manager think will be relevant to your development. 
 
-**Elidibility for Reimbursement:** Certifications and licenses related to your career development goals. For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement.
+**Eligibility for Reimbursement:** Certifications and licenses related to your career development goals. For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -181,7 +181,7 @@ Examples of English Language Courses:
 
 **Desription:** Any professional development membership or dues that will be relevant to your growth and development. 
 
-**Elidibility for Reimbursement:** Professional membership to an accredited organization that aligns with your role. Professional dues needed in order to continue members in an accredited organization. An invoice for the dues/membership is required.
+**Eligibility for Reimbursement:** Professional membership to an accredited organization that aligns with your role. Professional dues needed in order to continue members in an accredited organization. An invoice for the dues/membership is required.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -189,7 +189,7 @@ Examples of English Language Courses:
 
 **Desription:** Work-related conferences including registration, lodging, and meals. The training budget does not include the cost for traveling to and from an event. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
 
-**Elidibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/#business-essential) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. 
+**Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/#business-essential) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. 
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -197,7 +197,7 @@ Examples of English Language Courses:
 
 **Desription:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission](/company/mission/) of GitLab as a company.
 
-**Elidibility for Reimbursement:** A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
+**Eligibility for Reimbursement:** A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -205,7 +205,7 @@ Examples of English Language Courses:
 
 **Desription:**The company will pay for courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. 
 
-**Elidibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
+**Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -215,7 +215,7 @@ Examples of English Language Courses:
 
 **Desription:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
 
-**Elidibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Expensify. 
+**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Expensify. 
 
 **Approver (above $1,000 USD):**  N/A as an annual license cost does not exceed $1,000 USD.
 
