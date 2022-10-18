@@ -17,7 +17,7 @@ Please see the [Data Classification Policy](/handbook/engineering/security/data-
 
 ## Approved Operating Systems
 
-_last updated 2022-08-31_
+_last updated 2022-10-18_
 
 ### macOS
 
@@ -32,7 +32,7 @@ The list of Linux versions below is based on what our [EDR](/handbook/business-t
 Linux versions are therefore limited to:
 - CentOS 7.0-7.9, 8.0
 - Red Hat Enterprise Linux (RHEL) 7.0-7.9, 8.0-8.6, 9.0
-- Ubuntu - 18.04, 19.04, 19.10, 20.04, 22.04
+- Ubuntu - 18.04, 20.04, 22.04
 - SUSE Linux Enterprise Server 12.X, 15.X
 - Debian 10, 11
 - Virtuozzo 7
@@ -60,6 +60,10 @@ As described in the [Acceptable Use Policy](/handbook/people-group/acceptable-us
 **Note:** Even if a Windows machine is approved for use via the above Exception Process, that machine cannot be used to access GitLab corporate services (e.g. Slack, G-Suite, GitLab.com); the Windows machine can only be used in addition to a GitLab-managed Mac machine.
 
 ## Access Change Schedule
+
+### October 18, 2022
+
+Removed outdated Ubuntu versions 19.04 and 19.10.
 
 ### August 31, 2022
 
