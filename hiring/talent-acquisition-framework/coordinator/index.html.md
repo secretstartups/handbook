@@ -108,72 +108,54 @@ GitLab will obtain references and complete a criminal [background check](https:/
    - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust.
 - The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
-- Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication
-- Candidates in **Canada** require a form to be filled out by the employer (GitLab). The candidate will send the form with 2 forms of approved ID (listed on the form) and the CES will verify the name on each form of ID, enter it on the background check form. The CES will enter their signature on the form (either by editing a PDF or staging in DocuSign) and send back to the candidate.
-- Employment Verification results will be reviewed and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner
+- Background check results will be received by Manager, Global Enablement and escalated to Team Member Relations where appropriate
 
 For additional information on reviewing Background checks see [this page](/handbook/people-policies/#background-checks).
 
 #### Initiating a Background Check through Greenhouse
 
-**US Candidates Only**
-
 1. Log in to [Greenhouse](https://app2.greenhouse.io/dashboard) and go to the candidate's profile.
 1. Click the `Private` tab.
 1. Click `Export to Sterling`.
 1. Click `Complete Report`, which will redirect you to the Sterling website.
-1. Scroll down and click `Add Screening`.
-1. Next to `Comprehensive Criminal with Employment`, click on `Ticket`.
-1. If you need to run a financial check as well for Finance team members, you will need to submit a second ticket.
-      1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
-      1. Click `Add Screening`.
-      1. Next to `Federal Criminal District Search` click `Ticket`.
-1. Check off that you agree to your obligations as a user.
-1. Under `Disclosure and Authorization Options`, select the first option to have Sterling send the candidate a disclosure form.
-1. Click `Generate Ticket`.
-1. Make a note in the Greenhouse profile that the Background Check has been started
+1. Click `Invite`, and then follow the steps below starting at the second step.
+1. If the candidate is located in New York City and you have already initiated Step 1, please order NYC Step 2 instead of a traditional US check. 
+
 
 #### Initiating a Background Check through Sterling Talent Solutions
-
-**Non-US Candidates Only**
 
 1. Log in to [Sterling](https://secure.sterlingdirect.com/login/Default.aspx) and E-invite the candidate by inputting their email address.
 1. Under "Applicant Information" enter in the candidate's first and last name, as well as their email address to confirm.
 1. Next, select "GitLab" from the "Job Position" drop down menu.
-1. Next, select "A La Carte" from the "Screening Packing".
-1. After that, you will select "Criminal-International". A drop down menu will appear, and you will select the country the candidate is located in. Then click "Add". Do this for any country other than Japan, Russia, Germany, Ireland, or the Netherlands (details below).
-1. You'll then select "Verification-Employment (International") and click "Add".
-1. If you are submitting a background check for a candidate located in Japan, Germany, Ireland, or Russia **or if you need to run a financial check for Finance team candidates**, you will select `Extended Global Sanctions` instead of "Criminal-International". Then click "Add"
-1. If you are submitting a background check for the Netherlands, please skip the criminal international check and proceed only with employment verification. The candidate will be completing a VoGS/Certificate of Good Conduct with HRSavvy instead.
-1. Make sure each of the checks you have requested are listed in the "Search" box.
+1. Next, select the name of the country where the candidate is located. If the candidate is located in the US, the package will be called `Comprehensive Criminal with Employment`. If the country is not listed, choose `Global Screening`
+1. If the candidate is in Finance or Accounting, and are not located in Japan, Germany, Ireland, Spain, or Russia (which already include this check), you should also select "A La Carte" from the "Screening Packing" and choose `Extended Global Sanctions`. Then click "Add". 
 1. Finally, scroll to the bottom of the page and click "Send"
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
-**Non-US Candidates Only (New Sterling Dashboard View)**
 
-1. Login to [Sterling](https://sterlingcheck.app/dashboard/#/dashboard/) and click `Submit Invite` on the lefthand side toolbar.
-1. `Account` and `Workflow` will auto-populate with Gitlab,Inc -SD and Consent Plus.
-1. On the Position dropdown, select `GitLab`.
-1. Next, select the country name or International package from the dropdown. For the US, choose `Comprehensive Criminal with Employment`.
-   - **If you need to run a financial check for Finance team candidates**, select `Extended Global Sanctions` unless the check is in Japan, Russia, Ireland, Brazil, or Germany, where that check is already being run.
-1. Click `Next` at the bottom.
-1. Enter in the candidate's First name, Last name, and Email.
-1. Click `Submit`.
+### Reference Check Forms
 
-#### Escalating Criminal Charges or Employment Discrepancies
+Prior to giving an offer, Recruiters are required to request references and other offer-related information by sending a form in the Reference Check stage. There are a few versions of this form available on every job based on the country where the candidate is located. When CES receives a form in the Service Desk, there are 3-4 fields to look at: NYC status, PIAA (Employee Invention Assignment Agreement), Outside Work disclosure, and TMRG requests. 
 
-Once the CES team gets the background checks back, if there are criminal charges or any employment verification discrepancies - the Enablement team will escalate to the Team Member Relations team.
+**NYC Location**
 
-1. Gather all details you can from the Sterling report
-1. Send all details to a member of the Team Member Relations Team via slack with PDF version of the report
-   - Make sure to include candidate's name, the job applied for, and start date.
-1. The Team Member Relations Partners have their own criteria/process for providing their recommendation on how to proceed to the business
-1. Once they has come to a recommendation, they will share the details of that recommendation with us and the Hiring Manager, if appropriate.
-   - It is ultimately up to the business on whether they would like to proceed with the candidate
-1. If approval to move forward is given, we will mark them as cleared in our background check tracking sheet
-1. If approval is not given to move forward, TMR and Enablement will discuss with the Recruiter and Hiring Manager to determine next steps. 
+USA Reference Check forms only: If the candidate has selected "Yes" to indicate that they are located in NYC, you will need to initiate the first part of the NYC background check. These checks are employment verification only, and the criminal check will be completed after they receive their offer at the same time as CES would normally send a background check for other locations. 
 
-### Speaking with TMRG team members in the hiring process
+To do this, log into Sterling and use the candidate's email address to initiate their background check. Select "NYC Step 1" as the package name, and click the checkbox that says "Create Custom Invitation E-Mail" toward the bottom of the page. You can then select the NYC Step 1 template. 
+
+This process has been added due to NYC law, which separates the employment verification from the criminal check. Keep an eye on your inbox for when that first check clears and let the Recruiter know.
+
+Make yourself a reminder in Greenhouse to initiate the NYC Step 2 background check during the offer instead of the traditional Comprehensive Criminal.
+
+**PIAA**
+
+In the form, you'll find a question that informs the candidate that they will be required to sign an Employee Invention Assignment Agreement. They are asked for invention disclosures. If they state "none" or "n/a", you can skip this step. If the candidate discloses any outside activities, CES will notify the People Connect Team by emailing people-connect@gitlab.com with the link to the candidate's Greenhouse profile and the PDF form attached. Please remember to put the name of the candidate in the email subject line. People Connect will follow our standard process per the [internal handbook](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Reach out to legal_employment@gitlab.com with any questions about things written in a PIAA.
+
+**Outside Work**
+
+If the candidate writes "none" or "n/a", you can skip this step. If a candidate discloses any outside activities, Email the Team through Greenhouse using the template `CES - Outside Work Email` and send this email to the Hiring Manager. The Recruiter, Coordinator, and Team Member Relations will automatically be CC'ed. Once you have approval, take a screenshot of the email conversation and upload that approval to WorkDay once they have been marked hired. See more information about this process [here](/people-group/contracts-probation-periods/#approval-for-outside-activities). 
+
+**TMRG Conversations**
 
 Our hiring process includes an **optional** step where candidates can request to meet with a TMRG team member. We will offer this to a candidate when they complete their interview process before an offer is made. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
 
