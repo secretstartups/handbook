@@ -158,10 +158,13 @@ The [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to interact 
 
 ## How to Use Git with RStudio
 
+This documentation was creating using RStudio version 2022.07.1.
+
 ### Objectives
 1. Set up and install Git
 2. Set up Git in RStudio
 3. Clone an existing project from GitLab
+4. Troubleshooting
 
 ### Part 1: Installation and Setup
 - Download and install [R](https://cloud.r-project.org/) (if not already installed).
@@ -203,6 +206,17 @@ The [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to interact 
         - Select **Create New Project**
 - The GitLab Project should now be visible in R Studio
 - [Source](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) for Walkthrough Instructions
+
+### Part 4: Troubleshooting
+- Error: 
+    ```
+    Cloning into 'repo-name'
+    gitlab.com: Permission denied (publickey).
+    fatal: Could not read from remote repository.
+
+    Please make sure you have the correct access rights and repository exists.
+    ```
+  -Solution: This is a known issue in certain versions of RStudio that is working to be resolved. Reinstalling an [older version](https://dailies.rstudio.com/version/2022.02.4+500.pro1/) should resolve the issue ([Source](https://community.rstudio.com/t/git-authentication-error-in-rstudio/145686/2)).
 
 ## How to Update a GitLab Project with Updates from R Studio
 - Before uploading changes made locally to a GitLab project ensure that you are working with the most current branch by selecting **Pull with Rebase** from the **Git** section in R (Ensure that you are rebasing from the **main** branch)
