@@ -267,10 +267,10 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Bite-sized learning | A short course to learn a skill. Bite-sized can be a compentent of training or a separate learning element (i.e. a video, a PDF cheat-sheet, an infographic) | Max 15 minutes, 5 to 10 minute average |
 | Self-paced course | Learner has the control over the amount of material they want to consume and the duration of time needed to learn the new information. | Pre-defined by the designer (i.e. hours, days, etc.) |
 | Curriculum | A series of learning paths that comprise a course of study on a skill-based topic | Varies |
-| Certification | See definition on the [certification page](/learn/certifications/public/#minimum-requirements-of-a-gitlab-certification) | Varies |
-| Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
+| Certification | A certification indicates that an individual community member has acquired the knowledge, skills, and abilities required to perform a specific skill or job. Certifications include an examination process.
 
-This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
+ | Varies |
+| Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
 
 ### Learning Delivery Methods - Definitions
 
