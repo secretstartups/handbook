@@ -77,7 +77,7 @@ This is the list of our active Top Cross-Functional Initiatives.
 1. DevSecOps Adoption
    1. DRI / Sponsor: @spatching  / @mmcb 
    1. Description: No customers in red on DevSecOps Adoption within 2 months of purchase. 
-   1. Links: TBD
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
    1. Quarter Started/Starting: FY23-Q4
 1. Consumption Add-Ons
    1. DRI / Sponsor: @justinfarris / @david
