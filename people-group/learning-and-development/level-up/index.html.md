@@ -42,16 +42,12 @@ For questions not answered below, reach out in the #learninganddevelopment Slack
 **I'm a GitLab team member and I have a question or problem related to Level Up.**
      - Please reach out to the #learninganddevelopment Slack channel for support. 
 
-**I was told my completion history would be transferred from the old learning system, but they aren't showing in my learning history.**
-     - Don’t worry, we’re working on transferring learning completion but it will take a couple of weeks for the transfer to be fully completed. You can follow updates in the #learninganddevelopment Slack channel.
-
 **I have a question about how to use the Level Up platform.**
      - When you're logged into Level Up, click the drop down menu next to your profile photo and select `Support`. Here, you'll see both general and Gitlab-specific help resources related to using Level Up. See screenshots below.
 
      ![Adding custom content field in Thought Industries](support.jpg){: .medium.center}
 
      ![Adding custom content field in Thought Industries](support-page.jpg){: .medium.center}
-
 
 # Administrator Resources
 
@@ -156,9 +152,13 @@ Please review the **application rules** and **best practices** below:
 1. Wherever possible, use existing custom content fields and sub fields as opposed to creating new ones
 1. Review [TI support docs](https://support.thoughtindustries.com/hc/en-us/articles/360046307213-Using-Custom-Fields-vs-Curated-Categories) when questions arise
 
-### Share a course link externally
+### Share a course link with team members
 
 1. Add `https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=` immediately before a course link to direct users to the course page after signing in via SSO.
+
+### Share a course link with users external to GitLab
+
+1. Add `https://levelup.gitlab.com/access/openid/login/?returnTo=`immediately before a course link to direct users to the course page after signing in via SSO.
 
 ## Roles
 
@@ -221,3 +221,13 @@ To create a new content type:
 1. Fill in the details for your new content type, and choose a template based off one of the existing content types in the platform. When you've added all relevant information, click `Save`.
 1. Now, when you go to add a new item of content, you will be able to select your new content type as an option from which to start building.
 
+## Admin actions
+
+### Manually assigning completion to a user
+
+1. Go to Users > Learners and search for the relevant user
+1. Click their name to enter their profile
+1. Click `Access` and in the `Search for Content to Add` box, search for the content you want to add completion for.
+1. The content should appear under the `Has access to the following content`.
+1. Once the content has appeared (or if it was already there), select `Completed` from the dropdown and click `Save`
+1. If the course had an associated certificate, this can also be manually attributed. Go to the `Activity` tab in the user profile after following the above steps, find the relevant Certificate then click `Issue Certificate`. This will trigger an email being sent to the user to notify them of the certificate being awarded.
