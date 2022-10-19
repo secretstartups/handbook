@@ -43,7 +43,7 @@ The Technical Accounting Manager is a [grade 8](/handbook/total-rewards/compensa
 
 #### Job Grade
 
-The Director, Technical Accounting Managers is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Technical Accounting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -59,10 +59,6 @@ All of the above responsibilities, plus
 All of the above requirements, plus
 * Proven leadership of Technical Accounting team (hire, develop, coach, mentor, engage)
 * Strong knowledge of SEC filing requirements, experience highly preferred.
-
-## Career Ladder
-
-The next step in the Technical Accounting Management job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family. 
 
 ## Performance Indicators
 
@@ -81,5 +77,40 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will then be invited to schedule a 45 minute interview with our CFO
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
+
+### Senior Director, Technical Accounting
+
+#### Job Grade
+
+The Senior Director, Technical Accounting is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Be the trusted advisor to the PAO and CFO on all complex accounting matters and lead strategic accounting initiatives
+* Provide global oversight of technical accounting policies and proactively assess the impact of new U.S. GAAP accounting standards and SEC regulations
+* Provide strategic direction to the technical accounting team, including recruiting, retaining, and developing top talent
+* Partner with leadership, team members and other stakeholders across GitLab to address technical accounting matters
+* Establish themselves as a key business partner and “go-to” resource to provide technical accounting guidance to senior management and others
+* Document analysis of complex accounting matters and communicate results succinctly for non-accountants to understand
+* Support GitLab’s quarterly and annual SEC filings and partner with the SEC Reporting team during the quarterly reporting cycle
+* Incorporate and maintain SOX controls within the Technical Accounting function
+* Coordinate with the accounting team/advisors/external valuation firms/founders of targets for all financial reporting related matters for asset and business acquisitions
+* Draft responses to SEC comments on the financial statements
+
+#### Requirements
+
+* CPA or CPA equivalent with 12+ years of  professional experience preferably with a large public accounting firm or a public company in the technology sector
+* Experience of working on IPOs and interacting with the SEC staff
+* Thorough knowledge of US GAAP, strong technical writing skills and experience in the implementation and handling of complex U.S. GAAP accounting matters with proven ability to research and clearly articulate and document complex technical accounting issues
+* Strong problem solving skills and ability to manage multiple projects simultaneously
+* Effective communication skills, including an ability to listen to the needs of the business units, research and comprehend complex matters, articulate issues in a clear and simplified manner, and present findings and recommendations in both oral and written presentations
+* Excellent interpersonal skills and a proven ability to build and maintain stakeholder relationships at all levels
+* Ability to think strategically and support business objectives while effectively balancing risk/reward trade-offs
+* Previous experience in a remote work environment would be an added advantage
+* Ability to use GitLab
+
+## Career Ladder
+
+The next step in the Technical Accounting Management job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family. 
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
