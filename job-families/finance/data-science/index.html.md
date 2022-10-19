@@ -169,8 +169,8 @@ The Principal Data Scientist meets all of the requirements of an Staff Data Scie
 #### Principal Data Scientist Performance Indicators
 
 * $ARR Impact (New Business, Cost Savings, or Efficiency Improvement)
-* # of Business Functions which achieve Level 4 of the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model)
-* E-Group Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
+* Number of Business Functions which achieve Level 4 of the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model)
+* E-Group Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction)) of 4 or higher
 
 ## Hiring Process
 
@@ -178,11 +178,10 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to fill out a short questionnaire.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a first interview with our Senior Director, Data and Analytics
-* Next, candidates will be invited to schedule a second interview with a member from our Data team
-* Next, candidates will be invited to schedule a third interview with the business division DRI
-* Next, candidates will be invited to schedule a fourth interview with a member from our Data team
-
+* Next, candidates will be invited to schedule an interview with a member from our Data Science team 
+* Next, candidates will be invited to schedule an interview with a member from our Data team
+* Next, candidates will be invited to schedule an interview with the business division DRI
+* Next, candidates will be invited to schedule an interview with the Senior Director, Data and Analytics
 
 ## Specialties
 
