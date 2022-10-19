@@ -189,7 +189,7 @@ Before you can associate a user with an organization, please ensure that you hav
 1. [identified the user as a customer](#identifying-customers)
 1. verified their proof of entitlement
 
-If these conditions are not fulfilled, ping their AM/TAM in the `#account-management` _before_ adding the user.
+If these conditions are not fulfilled, ping their AM/CSM in the `#account-management` _before_ adding the user.
 
 #### Add the user to the organization
 
@@ -219,7 +219,7 @@ When the prerequisites above are complete,
 **Note**: The original method for handling cases where the user is absent
 in both SFDC and Zendesk is as follows:
 
-- If the user does not exist in both SFDC and Zendesk,  you can ping their TAM/AM in the `#account-management`
+- If the user does not exist in both SFDC and Zendesk,  you can ping their CSM/AM in the `#account-management`
   Slack channel to ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal.
 
 ### Removing a user from an organization
@@ -277,7 +277,7 @@ the following cases for your ease:
   1. Once added in SFDC, merge the personal email with the associated email found in SFDC.
 - Customer does not have generic email and business email listed in SFDC: 
   - Request for the customer to create a new ticket with business email. Alternatively, follow the steps below: 
-     1. Request for TAM/AM in Slack channel #account-management to add the business email in SFDC.
+     1. Request for CSM/AM in Slack channel #account-management to add the business email in SFDC.
      1. Once added in SFDC, use [this process to associate the personal email to organization](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization).
      1. Merge the personal email with business email. (Contact Support Ops if you are unable to add secondary email).
 - Customer have both generic email and business email listed in SFDC but only one email is present in Zendesk:

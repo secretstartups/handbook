@@ -15,7 +15,7 @@ Select Partners may contact us by submitting a ticket from the
 which helps to prevent first response delays, they should:
 
 1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000837100)
-1. verify in advance with their GitLab TAM or GitLab Sales team member that
+1. verify in advance with their GitLab CSM or GitLab Sales team member that
    they have a contact record in Salesforce that is associated with their
    company's correct account record
 

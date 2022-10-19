@@ -165,7 +165,7 @@ In order for a SaaS user to be a candidate for the [workflow](#workflow), one of
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
 1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases.
-1. GitLab team member (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 
@@ -183,7 +183,7 @@ For customers who are large enough to have an account management project, a diff
 
 ### Setup (For CS & Sales)
 
-The steps to follow depend on whether or not the customer has a shared Slack channel with us. Either the customer's Technical Account Manager (CS) or Account Manager (Sales) is responsible for performing this setup. Please proceed to [Shared Slack Channel](#shared-slack-channel) if they do or [No Shared Slack Channel](#no-shared-slack-channel) if they don't.
+The steps to follow depend on whether or not the customer has a shared Slack channel with us. Either the customer's Customer Success Manager (CS) or Account Manager (Sales) is responsible for performing this setup. Please proceed to [Shared Slack Channel](#shared-slack-channel) if they do or [No Shared Slack Channel](#no-shared-slack-channel) if they don't.
 
 #### Shared Slack Channel
 

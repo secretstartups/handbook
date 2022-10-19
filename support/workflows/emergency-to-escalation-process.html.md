@@ -33,8 +33,8 @@ Here are some questions to guide the decision:
 
 ## How to start an Account Escalation
 
-1. Decide which Escalation Level to use by consulting the [TAM handbook for escalation levels](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
-1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/csm/escalations/#escalation-dri). If there is no TAM for the customer, work with the on-call Support Manager to determine DRI.
+1. Decide which Escalation Level to use by consulting the [CSM handbook for escalation levels](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
+1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/csm/escalations/#escalation-dri). If there is no CSM for the customer, work with the on-call Support Manager to determine DRI.
 1. Follow the steps to [open the escalation](/handbook/customer-success/csm/escalations/#opening-the-escalation). 
 
 ## Expectations during an Account Escalation

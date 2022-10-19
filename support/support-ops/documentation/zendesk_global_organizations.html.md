@@ -40,7 +40,7 @@ what fields are populated with information from Zendesk in the
 | Sales Segmentation | sales_segmentation | Text | * |
 | Account Owner | account_owner | Text | * |
 | Account Type | account_type | Dropdown | Authorized Reseller, Customer, Former Customer, Integrator, Partner, Prospect, Unofficial Reseller, Reseller |
-| Customer Success Manager | technical_account_manager | Text     | * |
+| Technical Account Manager | technical_account_manager | Text     | * |
 | AM Project ID | am_project_id | Text | * |
 | Number of Seats | seats_decimal | Decimal | * |
 | Manual Support Upgrade | manual_support_upgrade | Checkbox | True, False |

@@ -66,7 +66,7 @@ Support Ops are:
 | Field                      | API Name                          | Why its important |
 |----------------------------|-----------------------------------|-------------------|
 | [GS] Health Score Color    | GS_Health_Score_Color__c          | The Gainsight health score, we sync this to Zendesk |
-| Customer Success Manager	 | Technical_Account_Manager_Name__c | The CSM, we sync this to Zendesk |
+| Technical Account Manager	 | Technical_Account_Manager_Name__c | The TAM, we sync this to Zendesk |
 | Solutions Architect	       | Solutions_Architect_Lookup__r     | The SA, we sync this to US Federal Zendesk |
 
 ### Contacts

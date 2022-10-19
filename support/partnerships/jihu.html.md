@@ -8,7 +8,7 @@ description: "Support specific information for the JiHu partnership"
 
 **Note**: Prior to reaching out to support, you will need an account
 pre-created for you in the [support portal](https://support.gitlab.com). To
-have this done, please reach out to your Technical Account Manager, Account
+have this done, please reach out to your Customer Success Manager, Account
 Manager, Sales representative, or Support representative first!
 
 JiHu Partnership members contact us via the

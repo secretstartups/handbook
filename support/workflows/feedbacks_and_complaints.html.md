@@ -38,7 +38,7 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 
 If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) workflow.
 
-### Customer Feedback submitted in the ticket, or feedback provided indirectly to a Sales or TAM team member
+### Customer Feedback submitted in the ticket, or feedback provided indirectly to a Sales or CSM team member
 
 A customer always has the option to submit feedback about their support
 experience via the
@@ -46,7 +46,7 @@ experience via the
 The link to this form is included in the signature of all outgoing replies from
 Support Engineers in Zendesk.
 
-Sometimes a customer may provide feedback via the ticket directly, or they may provide the feedback to their TAM or Sales contact. To ensure
+Sometimes a customer may provide feedback via the ticket directly, or they may provide the feedback to their CSM or Sales contact. To ensure
 this feedback is captured, please create an issue in the Customer Feedback
 project using the
 [Indirect Feedback template](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback)
@@ -76,4 +76,4 @@ When the feedback is specific to a feature or service, search for an existing is
 
 If a customer rates a ticket by submitting a survey then an email will be sent to the support engineer and the Zendesk SSAT manager. The on-call SSAT Manager will then follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.
 
-If the customer gives feedback or raises concerns within a ticket, please bring it to your manager's attention. It's important that this feedback is reviewed and acted on. For example, there may be a need to get the Account Manager or TAM involved. Typical examples may include feedback on the product, the support process, the technical handling of a ticket or Support team responsiveness. 
+If the customer gives feedback or raises concerns within a ticket, please bring it to your manager's attention. It's important that this feedback is reviewed and acted on. For example, there may be a need to get the Account Manager or CSM involved. Typical examples may include feedback on the product, the support process, the technical handling of a ticket or Support team responsiveness. 

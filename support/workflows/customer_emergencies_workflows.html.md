@@ -24,7 +24,7 @@ To be added to the Customer Emergency On Call Rotation, you should have first co
 
 ### Communicate
 
-When you get an alert, you should immediately start a Slack thread and take notes therein. Tag the Technical Account Manager (TAM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-technical-account-manager-tam) for how to identify TAMs). This creates visibility around the situation and opens the door to let the team join in.
+When you get an alert, you should immediately start a Slack thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
 
 Good notes in Slack help others follow along, and help you with your follow-ups after the call.
 
@@ -34,9 +34,9 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 
 ### Assume good intent
 
-If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](/support/#definitions-of-support-impact), inform the customer's Technical Account Manager or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
+If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](/support/#definitions-of-support-impact), inform the Customer Success Manager for the customer or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
 
-We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the customer's TAM or a Support Manager can discuss that with the customer.
+We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
 
 ### (Optional) Contact the on-call Support Manager
 
@@ -180,7 +180,7 @@ There may be times when a customer's subscription expires over the weekend, leav
 For non-trial subscriptions, you can remind the customer that subscriptions have [a 14 days grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the expiration will not fall outside the grace period before the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should reduce the priority of the case and inform the L&R team of the issue.
 
 Otherwise, you will need to login to [CustomersDot Admin](https://customers.gitlab.com/admin) and generate a short term (7-14 days) **trial license** for them by following [this workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html). 
-The idea is to get them through the weekend so they can solve this with their TAM, Sales Rep, and the L&R Support team during the regular workweek.
+The idea is to get them through the weekend so they can solve this with their CSM, Sales Rep, and the L&R Support team during the regular workweek.
 
 ### SaaS Subscription Emergencies
 {:.no_toc}

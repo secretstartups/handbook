@@ -76,7 +76,7 @@ something like `{% for comment in ticket.comments %}`.
 | Organization | `notes`                                   | The organization's notes text box |
 | Organization | `custom_fields.saleforce_id`              | The Salesforce ID for an organization |
 | Organization | `custom_fields.arr`                       | The ARR for an organization |
-| Organization | `custom_fields.technical_account_manager` | The CSM for an organization |
+| Organization | `custom_fields.technical_account_manager` | The TAM for an organization |
 | Organization | `custom_fields.account_owner`             | The AM for an organization |
 | Organization | `custom_fields.org_region.title`          | The organization's region |
 | Organization | `custom_fields.support_level.title`       | The organization's support level |

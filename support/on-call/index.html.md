@@ -39,7 +39,7 @@ Be proactive in communicating your availability. Sometimes you can't be _immedia
 
 ### Communicate
 
-**Involve relevant stakeholders**: whether it's the e-group, a TAM, subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
+**Involve relevant stakeholders**: whether it's the e-group, a CSM, subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
 
 ### Ask for help when needed
 

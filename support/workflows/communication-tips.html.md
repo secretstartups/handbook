@@ -22,7 +22,7 @@ welcome here. It is meant to be an extension of the
  1. *How can a Support Engineer efficiently talk to other Support Engineers via
     Slack, Zoom or e-mail?*
  2. *How can a Support Engineer get the most out of their interaction with a
-    Technical Account Manager?*
+    Customer Success Manager?*
 
 ---
 

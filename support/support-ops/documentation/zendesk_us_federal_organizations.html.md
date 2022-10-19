@@ -40,7 +40,7 @@ what fields are populated with information from Zendesk in the
 | ARR | aar | Decimal | * |
 | Support Level | support_level | Dropdown | Starter, Premium, Ultimate, Basic |
 | Market Segment | market_segment | Text | * |
-| Customer Success Manager | technical_account_manager | Text     | * |
+| Technical Account Manager | technical_account_manager | Text     | * |
 | Account Owner | account_owner | Text | * |
 | Solutions Architect | solutions_architect | Text | * |
 | Number of Seats | seats_decimal | Decimal | * |
