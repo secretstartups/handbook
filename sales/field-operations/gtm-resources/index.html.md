@@ -303,8 +303,8 @@ Extending self-managed trials requires access to the internal `Licensing App`.
 
 United States
 
-- **Public** University = [Public Sector team](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.kmwfoob114yv)
-- **Private** University = [Public Sector team](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.kmwfoob114yv)
+- **Public** University = [Public Sector team](https://internal-handbook.gitlab.io/handbook/sales/public-sector/#us-state--local-government)
+- **Private** University = [Public Sector team](https://internal-handbook.gitlab.io/handbook/sales/public-sector/#us-state--local-government)
 
 Rest of the World
 
@@ -344,11 +344,17 @@ If you believe you have been incorrectly assigned a record that should belong to
 ### Changing Account Ownership in Salesforce
 
 Only Sales Systems, Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on Account Demographic outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement). 
+
+To request an update to the account owner, please tag @sales-support in Salesforce Chatter on the account record you are attempting to update.
+
 - **Note**: Only approved Profiles (those noted above) will have the appropriate buttons on their layouts in SFDC to change owners. The buttons auto-select the correct default behaviors when clicked.
 
 ### Changing Opportunity Ownership in Salesforce
 
-Only Sales Systems, Sales Operations, Channel Operations, Deal Desk, and Finance have the ability to change the opportunity owner in Salesforce. This is to ensure the Rules of Engagement are followed and opportunity assignment to the correct owner based on the corresponding Account Owner (see [Opportunity Ownership](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement) for exceptions), Account Demographic outputs, parent/child association, and compensation plan. If there is an issue with opportunity assignment, follow the exception process outlined in the [Opportunity Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement). 
+Only Sales Systems, Sales Operations, Channel Operations, Deal Desk, and Finance have the ability to change the opportunity owner in Salesforce. This is to ensure the Rules of Engagement are followed and opportunity assignment to the correct owner based on the corresponding Account Owner (see [Opportunity Ownership](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement) for exceptions), Account Demographic outputs, parent/child association, and compensation plan. If there is an issue with opportunity assignment, follow the exception process outlined in the [Opportunity Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement).
+
+To request an update to the opportunity owner, please tag @sales-support in Salesforce Chatter on the opportunity record you are attempting to update.
+
 - **Note**: Only approved Profiles (those noted above) will have the appropriate buttons on their layouts in SFDC to change owners. The buttons auto-select the correct default behaviors when clicked.
 
 ### Changing Contact Ownership in Salesforce
