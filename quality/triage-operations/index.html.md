@@ -353,6 +353,7 @@ graph LR
   - The `workflow::ready for review` label was added
   - The MR has the `Community contribution` label set
   - The MR is not opened in a distribution project listed at <https://gitlab.com/gitlab-org/distribution/monitoring/-/raw/master/lib/data_sources/projects.yaml>
+  - The MR is not opened in a project which has an external review process (as defined in the processor).
 * Automation actions:
   - If the MR already has reviewers, nudge them to perform a review, reassign or set the `workflow::in dev` label
   - If the MR has no reviewers, nudge and assign (as reviewer) a coach based on the MR's group (or a random coach otherwise), to review, reassign or set the `workflow::in dev` label
