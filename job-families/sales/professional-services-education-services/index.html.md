@@ -113,6 +113,136 @@ The Senior Manager of Education Curriculum Development is a [grade 9](/handbook/
   * Strong project management, leadership, change management, and cross-functional collaboration skills with a track record of managing complex learning projects
 * Experience collaborating across multiple stakeholder groups to deliver global solutions
 
+## Technical Instructor
+
+The Techincal Instructor (Intermediate) reports to the Senior Manager, Professional Education Services
+
+### Technical Instructor (Intermediate) Job Grade
+
+The Technical Instructor (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Technical Instructor (Intermediate) Responsibilities
+
+* Teach technical concepts clearly and concisely to large audiences in an engaging manner
+ 
+* Collaborate with the Curriculum team on the development and updates of new courses and course release updates
+ 
+* Collaborate with the Training Operations team for continuous improvement of our LMS (Learning Management System), virtual training platform and processes 
+
+* Ability to work on your own initiative with high attention to detail
+ 
+* Strong customer advocacy, relationship building, and verbal and written communication skills
+ 
+* Comfortable working remotely in a highly distributed team
+ 
+* Flexible mindset and willingness to accommodate and support changing priorities in a growing company
+ 
+* Deliver multi-day virtual and on-site GitLab training courses and workshops to enable our customers and drive business value
+ 
+* Strong eye for design, making complex training concepts easy to comprehend in a blended educational delivery model.
+ 
+* Deliver excellent customer-service during training events including arriving and running training sessions punctually and professionally.
+ 
+* Review customer feedback and collaborate with team members to continually improve the customer learning experience.
+ 
+* Deliver contents and cross train on delivery best practices using a variety of presentation formats including engaging lectures, live demonstration, and technical labs.
+ 
+* Collaborate cross-functionally with team members to plan and develop slides and labs for instructional sessions.
+ 
+* Stay up to date with the latest GitLab feature releases and incorporate them into training deliveries.
+ 
+* Serve as a subject matter expert for certification program design and assessment development.
+ 
+* Meet all milestones and final deliverables by deadlines; when delays do occur, work with the team to estimate, monitor, adjust, and proactively communicate revised deadlines as needed
+
+### Technical Instructor (Intermediate) Requirements
+ 
+* B.S. or M.S. or relevant work experience in Computer Science or related engineering discipline
+ 
+* 3+ years experience working as an instructor, technical trainer, engineer, developer, consultant, integrator or presales engineer in search or related technologies 
+ 
+* Ability to travel up to 50% both within the United States and internationally
+ 
+* Excellent written and verbal communication skills
+ 
+* Experience working with a variety of Learning Management System (e.g., Thought Industries) and hands-on labs tooling (Instruqt, Katacoda, Strigo, etc)
+ 
+* Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices) 
+* Relationships in the software DevSecOps space are a plus
+
+  
+## Senior Technical Instructor
+
+  
+The Senior Techincal Instructor reports the Senior Manager, Professional Education Services
+
+  
+### Senior Technical Instructor Job Grade
+
+The Senior Technical Instructor is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+  
+### Senior Technical Instructor Responsibilities
+
+* Extends the Technical Instructor (Intermediate) responsibilities
+
+* Has extensive knowledge of GitLab’s education tech stack (Thought Industries, Instruqt, Credly)
+
+* Viewed as a subject matter expert and trusted advisor by key stakeholders
+
+* Innovates and continually improves the Education Services offerings
+
+* Acts a player/coach and regularly shares best practices and provides constructive feedback to members of the Education Services team and its partners
+
+* Exerts influence on the overall objectives and long-range goals of the Education Services team
+
+* Lead and provide direction to other technical instructors on Education Services deliverables.
+
+* Acts as a mentor and model for GitLab’s Values (Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Iteration, and Transparency)
+
+
+### Senior Technical Instructor Requirements
+
+* Extends that of the Technical Instructor (Intermediate) Requirements
+
+* Demonstrated progressive experience in an technical instructor role along with strong experience designing technical course content
+
+* Experience with the GitLab product as a user, contributor, or DevOps maintainer
+
+* Maintain all GitLab DevOps Professional Technical Certifications
+
+* Proven ability to deliver all GitLab Instructor-led offerings
+
+ 
+## **Job Grades**
+
+Read more about grades at GitLab [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). As Education Services falls under Customer Success, the specific grades are [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success)
+
+
+## **Hiring Process**
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our  [team page](https://about.gitlab.com/company/team/).
+
+-   Videoconference (or phone) screen interview with a GitLab Talent Acquisition team member
+-   Videoconference interviews with 2-3 additional GitLab team members
+-   Final videoconference interviews with the Director, Education Services Additional details about our process can be found on our  [hiring page](https://about.gitlab.com/handbook/hiring/).
+
+Candidates may be invited to additional interviews.
+
+Successful candidates will be made an offer after references are verified.
+ 
+
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+
+## **Performance Indicator**
+
+* <span  style="text-decoration:underline;">Technical Instructor: [Billable utilization](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 40%
+
+## **Career Ladder**
+
+* The next steps for individual contributors in to progress from Intermediate to Senior
+
+
 ### Senior Manager, Education Delivery
 
 The Senior Manager, Education Delivery reports to the Senior Director, Global Education.
