@@ -20,9 +20,9 @@ You can find more tools and tips in the following sub-pages:
 - [`git` page](/handbook/tools-and-tips/git/)
 - [`rubocop` page](/handbook/tools-and-tips/rubocop/)
 
-## GitLab tips
+# GitLab tips
 
-### Change your username at GitLab.com
+## Change your username at GitLab.com
 
 - Starting point: let's say your username is `old-mary` and you want it to be just `mary`.
 - **Note:** each GitLab account is tracked by an **userID**, which is a number stored in a database.
@@ -30,14 +30,14 @@ If we change the username, the userID does not change.
 And all the permissions, issues, MRs, and relevant stuff within GitLab are related to your **userID**, not with your username.
 - **Note:** if you are not a GitLab Team member, the same process applies except your e-mail ([STEP 2](#change-username-step-2)), which will be different (will not be @gitlab.com email), so you can replace it with your own email account.
 
-##### STEP 1: Request your new username
+### STEP 1: Request your new username
 
 - Access the username you want to request via `https://gitlab.com/mary`.
 - Check its activity and projects to see if they are an inactive user [according to the name squatting policy](/handbook/support/workflows/namesquatting_policy.html).
 - If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/).
 - There's no guarantee that the username will be available for you.
 
-##### STEP 2: Create a new account with your new username
+### STEP 2: Create a new account with your new username
 {: #change-username-step-2}
 
 - If support replies to you telling that the username is free to use, create a new GitLab.com account with it.
@@ -47,7 +47,7 @@ Use a personal email to register your new account and choose one that has not be
 - Navigate to [https://gitlab.com/profile/notifications](https://gitlab.com/profile/notifications) and choose the notifications email: `mary+something@gitlab.com`.
 - Open your old account in one browser and the new one in another browser (e.g., Chrome and Firefox, or Chrome and Safari) - log in to both accounts at the same time.
 
-##### STEP 3: Let's have some fun (kidding, this is critical!)
+### STEP 3: Let's have some fun (kidding, this is critical!)
 
 - Navigate to [https://gitlab.com/profile/account](https://gitlab.com/profile/account) in both your accounts.
 - Look for your username.
@@ -64,7 +64,7 @@ Immediately, click **update** on the other one (`old-mary` to `mary`).
 - Immediately, rename the `mary-1` to your old one `old-mary` and click **update username** again.
 - Ta-Da! 🙌
 
-##### STEP 4: Move your projects (or not)
+### STEP 4: Move your projects (or not)
 
 - Now, if you have any personal projects, you might want to import them to your new account (the one that has your old username now).
 To do that, in your new account (the one with the old username), click **Create a New Project**, give it the very same name as the original one, click **Git - add repo by url**, and paste the `https://` URL of your project there.
@@ -82,26 +82,24 @@ That's it! Don't forget to update your username in the following places:
 - [Marketing Handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/index.html.md), in case you're a Marketing Team member.
 - Workday - GitLab Username under 'Additional Data' > 'View all' in your profile actions
 
-### GitLab team members' resources
+## GitLab team members' resources
 
 The [GitLab team-member resources project](https://gitlab.com/gitlab-com/gitlab-team-member-resources) has a wiki for sharing among [GitLab team-members](/company/team/structure/#team-and-team-members).
 
 It's for topics like parenting where people may want to share knowledge, but the handbook is not the best fit.
 
-### GitLab team members' setups
+## GitLab team members' setups
 
 [@tipyn](https://gitlab.com/tipyn)'s [home office equipment and macOS setup](https://gitlab.com/tipyn/tipyn/blob/master/mac-os-setup.md)
 
-### Linking Gravatar photo
+## Linking Gravatar photo
 
 Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://en.gravatar.com/).
 It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLab team-members and our brains are comfortable with recognizing people; let's use them.
 
 _**Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default._
 
-
-
-### Using Mermaid
+## Using Mermaid
 
 Mermaid is a tool that allows us to create flowcharts, graphs, diagrams, Gantt charts, etc. within GitLab! Check out the [examples in the GitLab docs](https://docs.gitlab.com/ee/user/markdown.html#mermaid) on how to use Mermaid.
 
@@ -119,11 +117,11 @@ A few additional resources that can be helpful when working with Mermaid are:
 
 _Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live._
 
-### Visual help to differentiate between GitLab servers
+## Visual help to differentiate between GitLab servers
 
 If you are working on multiple GitLab instances and want to have a visual differentiation, you can change the default [Navigation theme](https://docs.gitlab.com/ee/user/profile/preferences.html#navigation-theme) to a different color.
 
-### Calculating the GitLab handbook page count
+## Calculating the GitLab handbook page count
 
 Page counts are determined through a simple two-step process:
 
@@ -131,7 +129,7 @@ Page counts are determined through a simple two-step process:
 This can be done by running `find source/handbook -type f | xargs wc -w` from the root directory of the repository.
 1. Submit the word count to [WordCounter](https://wordcounter.net/words-per-page) for conversion to a page count.
 
-### Trainee maintainer issue upkeep
+## Trainee maintainer issue upkeep
 
 Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
@@ -144,7 +142,7 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 
 **Note:** When using these tools, avoid adding mentions to maintainers in existing comments. There is a [known issue](https://gitlab.com/gitlab-org/gitlab/-/issues/118779) where users are not notified by email when mentioned in an edited comment. It only generates a TODO which a maintainer may not use.
 
-## www-gitlab-com Tips
+# www-gitlab-com Tips
 
 The [https://about.gitlab.com](https://about.gitlab.com) site (this site!) lives in the
 [www-gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/) repo.
@@ -153,24 +151,24 @@ The documentation for the site itself is in markdown documents under the
 [`doc` folder in the repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/doc).
 We have decided, for [various reasons](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7234#note_371346396), not to include this documentation in the handbook itself.
 
-### Local development on www-gitlab-com
+## Local development on www-gitlab-com
 
 If you are looking to do local development on the site,
 [doc/development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md)
 is probably the best place to start.
 
-### Cloud development on www-gitlab-com with gitpod.io
+## Cloud development on www-gitlab-com with gitpod.io
 
 If you don't want to configure your local machine, there is now a new alternative option
 to use gitpod.io for "local" development in a cloud based environment. See
 [doc/gitpod.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/gitpod.md)
 for more details.
 
-## Image and gif tips
+# Image and gif tips
 
 Many of the tips shown in this section require ImageMagick, an image manipulation tool. The installation is described in the [ImageMagick section](#imagemagick).
 
-### ImageMagick
+## ImageMagick
 
 [ImageMagick](https://imagemagick.org/) provides the `convert` CLI command which can be used to resize images, add drop shadows, edit gifs, etc.
 
@@ -187,11 +185,11 @@ $ sudo dnf install ImageMagick
 $ sudo apt install imagemagick
 ```
 
-### Creating gifs
+## Creating gifs
 
 We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
 
-### Resizing images
+## Resizing images
 
 [ImageMagick](#imagemagick) provides the `convert` CLI command which can be used to resize images. Our blog images do not need resolutions higher than 1920x1080. This saves bandwidth and makes the website load faster.
 
@@ -203,7 +201,7 @@ convert blogimage.jpg -resize 1920x1080 blogimage.jpg
 
 You can also use percentage values for the `-resize` parameter. The `convert` CLI command can do more things explained in the [documentation](https://imagemagick.org/script/convert.php).
 
-### Add drop shadow to images
+## Add drop shadow to images
 
 [Install ImageMagick](#imagemagick) and use the `convert` CLI command to add a drop shadow. The `-shadow` parameter may need adjustments on the dimension. 
 
@@ -211,9 +209,9 @@ You can also use percentage values for the `-resize` parameter. The `convert` CL
 $ convert input.png \( +clone -background black -shadow 80x20+0+15 \) +swap -background transparent -layers merge +repage output.png
 ```
 
-## Troubleshooting
+# Troubleshooting
 
-### 2FA debugging
+## 2FA debugging
 
 If 2FA stops working unexpectedly (no new phone or computer) it's usually because of improperly configured date & time on either device.
 Make sure that "Automatic Date & Time" is **enabled** on both devices.
@@ -229,9 +227,9 @@ Links for finding the settings:
 For Android there's no definitive link, since most vendors have different UIs for their settings.
 But in the Settings-app, look for "Date & Time" and there should be a "Automatic Date & Time" toggle.
 
-### Check which process occupies a given port
+## Check which process occupies a given port
 
-#### Using Netstat
+### Using Netstat
 
 Netstat is a command line tool which can be useful to print network connections, routing tables, interface statistics, etc. One of the most common uses for netstat during troubleshooting is to display a list of open ports listening for connections.
 
@@ -252,7 +250,7 @@ If you find a port already in use, you won't be able to successfully start up a 
 - Stop the service currently running on the needed port and confirm the port is no longer in use
 - Review documentation to determine whether it is possible to specify an alternate port for either process (the existing one or your new service)
 
-#### Known Port Conflicts
+### Known Port Conflicts
 
 When the GitLab Development Kit cannot start using the `./run` command and Unicorn terminates because port 3000 is already in use, you will have to check what process is using it.
 Running `sudo lsof -iTCP:3000 -sTCP:LISTEN -n -P` will yield the offender so this process can be killed.
@@ -274,9 +272,9 @@ which you can use like so:
 
 and it will kill whatever process is currently using port 3000.
 
-## Terminal
+# Terminal
 
-### Display current git branch in the console
+## Display current git branch in the console
 
 By adding this small configuration you will be able to view the git branch that you are using currently.
 If you are not inside a git repository, it only displays the username and the current directory.
@@ -320,7 +318,7 @@ The changes will show on the next terminal or immediately by running.
 . ~/.zshrc
 ```
 
-### Shell aliases
+## Shell aliases
 
 Use command aliases in your shell to speed up your workflow.
 Take a look at [these aliases](https://gitlab.com/sytses/dotfiles/blob/master/zsh/aliases.zsh) and others in [Sid's dotfiles project](https://gitlab.com/sytses/dotfiles/tree/master).
@@ -345,7 +343,7 @@ $ vim ~/.oh-my-zsh/custom/aliases.zsh
 
 An example can be found in [Michael Friedrich's dotfiles project](https://gitlab.com/dnsmichi/dotfiles/-/tree/main/.oh-my-zsh/custom).
 
-#### Delete local Git branches where remote branch was deleted
+### Delete local Git branches where remote branch was deleted
 
 In order to delete local Git branches which are deleted on the remote server, you'll need to combine the `--prune` pull/fetch command with more commands. `git branch -vv` lists all details of local branches, the followed `grep` filters for all marked gone in the default remote `origin` and prints the results with `awk`. This argument is passed into `git branch -d`, and executed for all matching results. Note that `-d` does not delete unmerged branches. `-D` has more impact but can accidentally delete branches.
 
@@ -360,7 +358,7 @@ Run the command without the final deletion command to see the potential affected
 $ git fetch --prune && git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}'
 ```
 
-### Dotfiles
+## Dotfiles
 
 You can use dotfiles to customize your system, and keep all configuration in a central place. The name `dot file` is derived from Linux/Unix where all configuration files started with a dot, hiding them from the default list view `ls`.
 
@@ -370,9 +368,9 @@ Team member dotfiles projects:
 - [Michael Friedrich's dotfiles](https://gitlab.com/dnsmichi/dotfiles), more details in [this blog post](/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
 - [Brendan O'Leary's dotfiles](https://gitlab.com/brendan/dotfiles)
 
-## Travelling
+# Travelling
 
-### Long haul flights
+## Long haul flights
 
 Note: you have to pay for these items yourself.
 
@@ -382,11 +380,11 @@ Note: you have to pay for these items yourself.
 - [Melatonin](https://www.webmd.com/vitamins-supplements/ingredientmono-940-melatonin.aspx?activeingredientid=940) (possible unsafe during pregnancy and breast-feeding)
 - Sleeping pills (over the counter is fine)
 
-### WorkFrom
+## WorkFrom
 
 [WorkFrom](https://workfrom.co/) is a crowd-sourced resource of coffee shops and other such places that are remote-work friendly.
 
-## Wi-fi usage
+# Wi-fi usage
 
 When using unsecured Wi-Fi, consider a personal VPN.
 We [don't have a corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) but consider [purchasing](/handbook/finance/expenses/#reimbursements) a [personal VPN](/handbook/tools-and-tips/personal-vpn/) if you travel for GitLab or use unknown networks often.
@@ -401,23 +399,23 @@ When connecting to a network with a [captive portal](https://en.wikipedia.org/wi
 Your device will try and compensate for this, but it can be tough to manage manually.
 If you have trouble, try connecting to [http://captive.apple.com/](http://captive.apple.com/) first, which is intentionally only HTTP and will load the captive portal.
 
-## U2F
+# U2F
 
 Universal 2nd Factor (U2F) is a cryptographically strong 2FA (2-factor authentication) method. It is hardware-based, and is typically deployed via a USB or NFC device. The standard is open and is maintained by the [FIDO Alliance](https://fidoalliance.org/). U2F is the preferred method of 2FA and is highly recommended by GitLab's Security Department. One of the points of 2FA is that while you are authenticating with a username and password for the first factor, a secondary factor should use a separate - or "out of band (OOB)" - communication channel for the authentication. U2F certainly meets that criteria, better than all other methods. There are other 2FA methods [outlined below](#other-2fa-methods).
 
-### How it works
+## How it works
 
 During the authentication process, you enter in your username and your password. On systems with 2FA enabled and using U2F, the hardware token is queried. By pressing a button or tapping a sensor on the U2F device, the U2F device completes the authentication process in a cryptographically strong way. It is generally considered the most secure form of 2FA. It is also more convenient than manually entering codes generated by a [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) application.
 
 During the registration of the U2F device, a public/private key pair is generated, with the public key being registered with the service you will be authenticating with, and the private key is stored on a secure chip in the U2F device. When authenticating, after you've entered in your username and password, the U2F is queried via an encrypted message that can only be authenticated by the private key, so a button or sensor is pressed on the U2F device to allow the query to be completed, and the user is then granted access to the system.
 
-### U2F devices
+## U2F devices
 
 YubiKey: The most popular U2F device is Yubico's YubiKey. There are a wide variety of sizes and styles of YubiKeys. Yubico (along with Google) helped develop the original U2F standard before it was moved to the FIDO Alliance. Most GitLab team members that have U2F devices have a YubiKey. It should be noted that for a long time Yubico's source code for its firmware was open source, but some of the newer versions of firmware are closed source. This has caused some concern in the security community, particularly those that prefer to use open source whenever possible.
 
 Solo Security Key: Solokeys' Solo Security Key is growing in popularity, and while it often lags behind in certain features, it is also used by a few GitLab team members with success. The company began as a Kickstarter project, both the hardware designs and firmware source code are open source for Solokeys, and the open source nature is the reason a number of team members favor it.
 
-### Are They Secure?
+## Are They Secure?
 
 Both the YubiKey and the Solo have been examined by both the security industry at large, third party audits by both keys' companies, and by the Security Team. Either company's offerings are more than suitable for use within GitLab and work fine with U2F-compatible systems.
 
@@ -429,7 +427,7 @@ In rare cases, a security issue involving a hardware token arises that requires 
 
 Most of the attack models that impact the U2F tokens require physical access to the token itself. That is, the security advisories involve coding issues that can only be exploited via access to the token or the computer that the token is plugged into. This in itself makes the devices more secure.
 
-### Recommendations
+## Recommendations
 
 Either device is fine for GitLab use, and there are other hardware tokens that are also decent (if you have questions, ask the Security Team in the `#security` Slack channel). The Security Team has looked at Yubico and Solokeys devices, and while both are secure, there are a few differences listed below one should keep in mind (current as of July 9, 2020):
 
@@ -443,31 +441,31 @@ If you are concerned about potentially losing your U2F hardware token, you can a
 
 Usage of 2FA is mandatory for GitLab team members. While it is not mandatory to use a U2F hardware token at GitLab as your 2FA solution, it is highly recommended as it is one of the most secure and convenient ways to meet 2FA requirements.
 
-## Other 2FA Methods
+# Other 2FA Methods
 
 In addition to [U2F](#u2f), there are additional protocols used for 2FA. There is "cryptographic push", [TOTP](https://en.wikipedia.org/wiki/Time-based_One-Time_Password), and SMS-based authentication (text message). Pluses and minuses to each are listed below.
 
-### Cryptographic Push
+## Cryptographic Push
 
 This is usually shortened to simply "push technology". It is called "push" because during the authentication process, after you've entered your username and password, the service you are authenticating with automatically "pushes" a secondary authentication via a separate communications channel to a device you possess. This is usually your phone, and it is facilitated via a phone app that is specific to that process. Like U2F, during the registration process a cryptographically-secure key pair is generated, and the app uses that key pair to uniquely identify the Push as coming from the service you are authenticating to. Typically the app then either directly notifies you or you access the app, which will pop up a message asking if you were in fact trying to authenticate. Answer yes and the authentication process is complete. GitLab team members may be familiar with this Push method as it is used by [Okta Verify](https://help.okta.com/eu/en-us/Content/Topics/end-user/ov-overview.htm).
 
-#### Push Caveats
+### Push Caveats
 
 This method is not quite as secure as U2F, as typically the U2F stores data securely on the secure chip on the hardware device itself. It is possible that the Push phone app is also storing secret data on the local secure chip on the phone, however the entire process is dependent on the service's servers being up, and U2F is more self-contained. But note that Push technology is still considered extremely secure, and once configured it is fairly convenient to use.
 
-### TOTP
+## TOTP
 
 Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password](handbook/security/#two-factor-authentication-and-time-based-one-time-passwords) to manage TOTP codes.
 
-#### TOTP Caveats
+### TOTP Caveats
 
 The main problem with TOTP is that during this 2FA process it typically involves the end user entering in all values through a single communications channel (usually a web browser). As this is the case, it is possible that an attacker could send you a fake web page for you to enter in your credentials, including your TOTP value. Granted, the attacker would have to be reading your replies and sending in all of your credential information extremely quickly and get the entire process completed with 30 seconds so the risk is greatly reduced, but it still exists. Both U2F and Push are preferred over TOTP, but as long as you are the one initiating the communication and you are not clicking on a link in email, you should be okay.
 
-### SMS
+## SMS
 
 One of the more popular (and most common) methods of 2FA is SMS-based text messaging. It is similar to TOTP, but instead of using a locally-stored application to calculate the six digit number, the service you are authenticating to sends the six digits to you via an SMS text message. When you set up your account, you provide the service with your cell phone number so they know which phone number to send the six digits to.
 
-#### SMS Caveats
+### SMS Caveats
 
 Due to the number of caveats, SMS is only recommended if there is no other 2FA option available. Here are the main problems with SMS messaging.
 
@@ -476,7 +474,7 @@ Due to the number of caveats, SMS is only recommended if there is no other 2FA o
 - An attacker could contact your phone carrier, impersonate you and state you lost your phone, and set up a new SIM card. Unfortunately many times your account is protected with a security question such as "mother's maiden name", "favorite restaurant", or some other simple question - all information that could be determined from a website that does family trees or via social media where you post pictures of your dinner.
 - An older attack known as "[SIMJacker](https://simjacker.com/)" allowed an attacker to send your phone an SMS message with a malicious payload that allows for direct manipulation of the SIM card itself. This attack still works on older SIM cards, although more modern SIMs are no longer vulnerable to this. Most of the known attacks using SIMJacker involved Latin and South America, the Middle East, Northern Africa, parts of Eastern Europe, and parts of Southeast Asia.
 
-#### If You Must Use SMS
+### If You Must Use SMS
 
 There may be services that only offer SMS as their 2FA solution, so in those cases it is better than nothing. If this is the case, there are a few things you can do to secure things ever so slightly.
 
@@ -485,15 +483,15 @@ There may be services that only offer SMS as their 2FA solution, so in those cas
 - Set a SIM PIN. For iOS devices, follow these [instructions from Apple](https://support.apple.com/en-us/HT201529). For Android devices, start with [these instructions](https://www.digitalcitizen.life/how-change-or-remove-sim-pin-android-2-steps/) but contact your phone's manufacturer website if the instructions do not fit your particular model.
 - Complain to the service to offer more than just SMS for 2FA! The more complaints they get, the more likely they might be to offer more secure options.
 
-### Additional 2FA Concerns
+## Additional 2FA Concerns
 
 Remember the purpose of 2FA - it is a secondary authentication method, invoked after the primary authentication method has succeeded. You should only acknowledge a 2FA request if you personally have just successfully completed the primary authentication. An unsolicited 2FA request means someone has your password, and is in the process of trying to log in as you. This is why 2FA exists, to help protect your user account from attacks involving your password.
 
 If you experience any such irregularities, please bring it to the attention of the Security Team. For more information, review the handbook regarding [Security Awareness](https://about.gitlab.com/handbook/security/#security-awareness)
 
-## Slack
+# Slack
 
-### Do Not Disturb Hours
+## Do Not Disturb Hours
 
 Slack now supports "Do Not Disturb Hours" so you won't be pinged in the middle of the night or while you are dealing with family matters.
 You can set your "Do Not Disturb Hours" by clicking on the bell at the top of the left pane in the Slack app.
@@ -501,7 +499,7 @@ You also have the option of snoozing for 20 minutes or up to 24 hours.
 Note: Do Not Disturb can be overridden in the event of an emergency.
 See Slack documentation for more information.
 
-### Browse Channels
+## Browse Channels
 
 You can browse all available GitLab channels by clicking on "Channels" on the left pane in the Slack app.
 From there, you can see every channel, who created it, and how many members there are.
@@ -509,13 +507,13 @@ Feel free to ask for recommendations from other team members for their favorite 
 Every team member is automatically added to the `#company-fyi` and `#whats-happening-at-gitlab` channels, where announcements are made and information for the entire company is shared.
 There are also a few default channels that every new hire is added to, such as: `#celebrations`, `#new_team_members`, `#questions`, `#random`, & `#thanks`; these channels are optional, but we think they are a great place for team members to interact and get to know each other.
 
-### Organize Channels in Sidebar Sections
+## Organize Channels in Sidebar Sections
 
 Slack now supports [organizing channels in sections](https://slack.com/intl/en-de/help/articles/360043207674-Organize-conversations-with-custom-sections). Previously this only was possible through "Starred" channels. Navigate into the Slack **preferences** and select the `Sidebar` navigation item. Click on `Create Section` to create a new section on the left sidebar. You can also do that from the settings menu of each existing section.
 
 Feel free to organize this with your most frequent used channels, or specific team grouping. You can drag and drop and also hide sections. You can for example create the `info` section and add `#company-fyi` and `#whats-happening-at-gitlab` as channels. Additionally, add the `team` section and move all related channels there.
 
-### Channels Access
+## Channels Access
 
 In addition to GitLab team-members, designated groups such as the [Core Team](/community/core-team/) members and advisors outside of GitLab may be granted access to our Slack channels.
 However, internal channels that start with `#a_` will be restricted to GitLab team-members who have been invited to those channels only.
@@ -523,7 +521,7 @@ Any confidential conversations regarding our customers should be restricted only
 The rationale for internal channels is that it could be a breach of many of our contracts for third parties to have knowledge of GitLab customers.
 This is especially the case when third parties could be customers' competitors.
 
-### Slack Status
+## Slack Status
 
 Slack allows you to set your [status](https://slackhq.com/set-your-status-in-slack) for your fellow GitLab team members by using your choice of standard messages such as "Away" and "Lunch" or a custom message and your choice of emoji.
 If you're off work for a holiday or vacation you can update your status by using [PTO by Roots](/handbook/paid-time-off/#pto-by-roots).
@@ -531,38 +529,38 @@ This is a great way to let your team know whether you are available.
 
 To have your Slack status automatically set to "In a meeting" based on your Google Calendar, add the [Google Calendar app](https://gitlab.slack.com/apps/ADZ494LHY-google-calendar?next_id=0) to your Slack account.
 
-### Invite
+## Invite
 
 There are [multiple ways](https://get.slack.help/hc/en-us/articles/201980108-Invite-members-to-a-channel) to invite people into a Slack channel.
 The easiest way is to use the invite command by typing `/invite @jenny`.
 Avoid inviting people through a mention message.
 E.g. `@jenny` as it can create a message that distracts others.
 
-### Quick Switcher
+## Quick Switcher
 
 Quick Switcher is a great feature to know about if you want to get productive with Slack.
 As the name suggests, it allows you to switch between channels and direct messages quickly.
 Invoke it with<kbd>Cmd</kbd>+<kbd>k</kbd>on Mac or<kbd>Ctrl</kbd>+<kbd>k</kbd>on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in.
 You can then navigate the suggestions with<kbd>↑</kbd>and<kbd>↓</kbd>keys and hit<kbd>enter</kbd>to select.
 
-### Display only unread conversations
+## Display only unread conversations
 
 With lots of channels and direct messages, Slack can become overwhelming. To help
 keep track of activity on Slack, and to simplify the interface, consider
 [displaying only unread conversations](https://slack.com/intl/en-au/help/articles/360043207674-Organise-your-sidebar-with-customised-sections-Organise-your-sidebar-with-customised-sections-Organise-your-sidebar-with-customised-sections#manage-conversation-display).
 
-### Minimize Visual Distractions
+## Minimize Visual Distractions
 
 Animated images and emoji can add meaning to conversation, but they can also be distracting.
 If you would prefer to have static images and emoji, disable the animation.
 For details, see [Manage animated images and emoji](https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji).
 
-### Sort channels and direct messages with stars
+## Sort channels and direct messages with stars
 
 To sort direct messages and channels, open the direct message or channel and click on the star icon.
 For details, see [Star channel or direct message](https://get.slack.help/hc/en-us/articles/201331016-Star-channels-messages-or-files#star-a-channel-or-dm).
 
-### Unfurling Links in Messages
+## Unfurling Links in Messages
 
 Slack has a built-in feature to [Unfurl](https://api.slack.com/docs/message-link-unfurling) links included in messages posted to Slack.
 This will post a preview of the link alongside the message.
@@ -575,11 +573,11 @@ In the confirmation prompt you may also see a checkbox to _"Disable future attac
 As a workspace admin if you select the disable option **this will denylist the link/domain across the workspace and will impact every user**.
 If you do happen to denylist a link or a domain, they can be modified in the Workspace admin portal under [Settings & Permissions](https://gitlab.slack.com/admin/attachments).
 
-### Change Group DMs to Private Channels
+## Change Group DMs to Private Channels
 
 If you are in a group direct message with multiple people, you can [change it to a private channel](https://get.slack.help/hc/en-us/articles/217555437-Move-group-DMs-to-a-private-channel), in order to avoid extra pings and allow additional team members to be added or removed to the channel.
 
-### Custom theme
+## Custom theme
 
 The interface colors can be customized in Slack.
 This is especially useful when using multiple slack accounts, setting up different themes makes it really easy to differentiate them instantly.
@@ -587,7 +585,7 @@ The theme selector is available under Preferences > Themes.
 
 In order to setup a GitLab theme, send yourself the following message: `#643685,#634489,#FC6D26,#ffffff,#71558f,#ffffff,#FCA326,#e24329`, and press the `Switch sidebar theme` button.
 
-### Slack Apps
+## Slack Apps
 
 Many applications can integrate with Slack.
 Recommended apps:
@@ -596,7 +594,7 @@ Recommended apps:
 Most important - 1 minute before a meeting begins, you'll receive a message with the meeting info, including a link to join meetings that are occurring in Zoom.
 You can set up the integration by typing /gcal into any message field.
 
-### Slack Reminders
+## Slack Reminders
 
 Slack reminders help you to remember things without having to keep it all in your head.
 You can set reminders for yourself or other team members.
@@ -606,7 +604,7 @@ You can use natural language with the `/remind` command.
 Type `/remind help` to get some tips.
 For full information on Slack reminders [see the Slack help](https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder).
 
-## Zoom
+# Zoom
 
 There is a lot of information pertaining to Zoom, as it is a critical part of GitLab's
 communication. See the [Zoom handbook page](/handbook/tools-and-tips/zoom).
@@ -614,13 +612,13 @@ communication. See the [Zoom handbook page](/handbook/tools-and-tips/zoom).
 The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is the single source of truth for the Zoom link. Avoid linking the Zoom link in Google Document agendas since those may quickly become out of date. If the zoom link changed around the start of the meeting it is OK to have it in there temporarily.
 
 
-## Google
+# Google
 
 Need a new document or new slide deck quickly? Use shortcuts like http://doc.new or http://slide.new. The full list (not even restricted to Google products) is available at https://whats.new/shortcuts/.
 
-### Google Docs
+## Google Docs
 
-#### Google Docs Pro Tips
+### Google Docs Pro Tips
 
 1. Quickly create a new Google Doc in chrome: type "docs.new" in the chrome address bar.
 Likewise "sheets.new" for a Google Sheet etc...
@@ -633,7 +631,7 @@ This is great when someone is speaking about something they are typing on a vide
 
 See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
 
-### Google Analytics
+## Google Analytics
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
 It receives data from both about.gitlab.com and docs.gitlab.com websites.
@@ -665,13 +663,13 @@ To find the referrals for a certain page, continue from the steps above.
 - GA will output the referrals, including **Previous Page Path** and **Next Page Path**:
 ![Google Analytics - see referrals](/images/handbook/tools-and-tips/google-analytics-referrals.png)
 
-### Set your picture in Google
+## Set your picture in Google
 
 Optional: [Set your picture](https://myaccount.google.com/personal-info) in Google so that your picture will show where you are in a Google document (vs showing just your first intial). This will allow others to more easily follow a discussion when meeting attendees move around in a document.
 
-### Google Calendar
+## Google Calendar
 
-#### Finding a time
+### Finding a time
 
 Please make use of the Find a Time tab in Google Calendar, especially when scheduling events with teammates in other parts of the world:
 
@@ -686,18 +684,18 @@ To use Find a Time:
     - Guests who are optional will not appear in the availability table by default.
     You can add them by checking their name in the "Guests" area on the right hand side.
 
-#### GitLab Availability Calendar
+### GitLab Availability Calendar
 
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
 We have created [tools and tips for managing your time off](/handbook/paid-time-off/).
 
-#### Setting Working Hours
+### Setting Working Hours
 
 To help other team members to schedule meetings with you, you can set your normal [working hours in Google Calendar](https://support.google.com/calendar?p=working_location). The preferred times will show up when someone tries to schedule a meeting with you.
 
 To set your working hours, go to Settings -> General -> Working Hours and Location.
 
-#### GitLab Team Meetings Calendar
+### GitLab Team Meetings Calendar
 
 The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list after it's added. To add the GitLab Team Meetings Calendar to your list of calendars:
 
@@ -717,7 +715,7 @@ If you are creating a new team meeting, please [add it](#adding-an-event-to-the-
 
 Please reach out to the People Connect Team in the `#people-connect` Slack channel with any questions, requests or changes to the GitLab Team Meetings calendar.
 
-##### Adding an event to the GitLab Team Meetings calendar
+#### Adding an event to the GitLab Team Meetings calendar
 
 1. Create your calendar invite
 1. Add your Zoom link
@@ -729,7 +727,7 @@ Please reach out to the People Connect Team in the `#people-connect` Slack chann
 
    ![Adding Gitlab Team Meetings](/images/handbook/tools-and-tips/adding-gitlab-team-meetings.png)
 
-#### Managing invite responses
+### Managing invite responses
 
 If you are familiar with queries in Gmail, add a filter to remove invites responses from your inbox with the following query:
 
@@ -745,20 +743,20 @@ Then click Create filter:
 - Skip the Inbox
 - Apply the label (of your choosing)
 
-#### Modifying Events
+### Modifying Events
 
 Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels.
 You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
 
 ![Google Calendar - Guests can modify events setting](/images/handbook/tools-and-tips/google-calendar-guestsmodifyevent.png)
 
-#### Notifications
+### Notifications
 
 You can change the default notification settings by calendar (add or remove notifications for all-day events, add a second default notification to all events...). This is accessible through Settings -> `Settings for my calendars` -> pick the calendar -> `Event notifications` and `All-day event notifications`.
 
 If you change the default notifications, all existing events will inherit that as well (unless their notifications have been customized).
 
-#### Restore Deleted Calendar Items
+### Restore Deleted Calendar Items
 
 (This assumes you are using [Google's new Calendar](https://support.google.com/calendar/answer/7541906)).
 
@@ -769,7 +767,7 @@ When you have accidentally deleted something from the Team Meetings calendar, yo
 - Make sure you are on the correct calendar, by clicking on the name of the calendar in the left sidebar.
 - Hover over the item you'd like to restore and click the arrow to "Restore".
 
-#### Sharing
+### Sharing
 
 We recommend you set your Google Calendar access permissions to 'Make available for GitLab - See all event details'. Team member calendars should **not** have access permissions set to 'Make available to public' due to the risk of sensitive data exposure and [zoombombing](https://en.wikipedia.org/wiki/Zoombombing).
 
@@ -795,14 +793,14 @@ If you'd like to share your calendar with e.g. your partner you can use the 'Sha
 
 ![Share with specific people](/images/handbook/tools-and-tips/share-with-specific-people.png)
 
-#### Speedy Meetings
+### Speedy Meetings
 
 Enable speedy meetings to automatically provide a buffer at the end of events you schedule.
 This thoughtfully allows participants with back-to-back events the opportunity to use the restroom or grab a cup of coffee without being late to their next function.
 
 ![Google Calendar - Enable speedy meetings](/images/handbook/tools-and-tips/google-calendar-speedy-meetings.png)
 
-#### World Clock
+### World Clock
 
 Add as many time zone world clocks as you wish by, in Google Calendar, going to `Settings -> World Clock` in order to see team members' local times. 
 
@@ -810,30 +808,30 @@ Add as many time zone world clocks as you wish by, in Google Calendar, going to 
 
 You can also use sites like [TimeAndDate](https://www.timeanddate.com/worldclock/converter.html) to convert times to/from UTC for example. 
 
-#### Time Zone
+### Time Zone
 
 Check `Display secondary time zone` and select `(GMT+00:00) Coordinated Universal Time` (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
 
 ![Google Calendar - Time Zone](/images/handbook/tools-and-tips/google-calendar-timezone.png)
 
-### Google Cloud Platform
+## Google Cloud Platform
 
 See the [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a listing of cloud resources and how to gain access to them.
 
-### Google Drive
+## Google Drive
 
-#### First, an important message - Don't use Google Drive/Apps (unless you have to)
+### First, an important message - Don't use Google Drive/Apps (unless you have to)
 
 We would be remiss if we didn't start this section off with this IMPORTANT message: **Your default storage place for information that needs to persist and be available to others in the company should be ON THE WEBSITE/IN THE COMPANY HANDBOOK and not in Google Drive and Google Apps files!!** This is from the top.
 This is how we operate, because Google Docs/Apps can only be found and contributed to by team members, and not by users, customers, advocates, future employees, Google handbook searches, or developers.
 
-#### Do not link directly to Google Drive/Apps
+### Do not link directly to Google Drive/Apps
 
 Having said that, there is content which doesn’t make sense to be created on the website directly (e.g. large collections of data in tables, spreadsheets for calculations, etc) or for which Google Drive storage makes sense.
 
 When directing folks to these files in Google Drive please include name of the file in the handbook so that team members can search for it in Google Drive. If you link directly to the URL, people from outside the organization can request access, creating workload and the potential for mistakes.
 
-#### Keeping it organized
+### Keeping it organized
 
 It is important that we not just throw files into random or general places in the shared Google Drives.
 Doing so makes it harder for others to find and work with the content.
@@ -843,7 +841,7 @@ Here are some guidelines to organizing the Google Drive content:
 - then by subject (e.g. analysts relations)
 - then by sub-subjects as deep as necessary (e.g. Gartner -> 2018 ARO MQ)
 
-#### Using Google Drive
+### Using Google Drive
 
 For starters, when your GitLab Google company account is created you automatically get a Google Drive with unlimited storage allocation in your own "home" directory (called My Drive).
 You can get to it by:
@@ -857,7 +855,7 @@ If you create Google files using Google Apps and don't specify where to store th
 This is great for storing your own working files.
 As already stated, **this should never be the final resting place for shared files** that are meant to be used by the rest of the company (or beyond).
 
-#### Existing GitLab Google Drive repositories
+### Existing GitLab Google Drive repositories
 
 There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here):
 
@@ -882,7 +880,7 @@ To add these links to your Google Drive My Drive directory, do the following:
 1. From the resulting pop-up menu, select "Add to My Drive"
 1. From now on you can get to that directory by first going to your drive (https://drive.google.com) and then opening that link
 
-#### Adding Google Drive to your Mac
+### Adding Google Drive to your Mac
 
 To really make your Google Drive easier to access, you can have your Google Drive show up on your Mac Finder as a regular drive.
 With this it is easier to store and view files such as videos, analyst reports (PDFs), etc.
@@ -900,14 +898,14 @@ If it does this you won't see "Download & install Drive File Stream" on the page
 Switch to your GitLab account.
 1. Download and install
 
-### Google Forms
+## Google Forms
 
 Use these [GitLab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k) when creating internal or external surveys or forms.
 Make a copy of the form and only edit the copy; do not edit the template itself.
 
-### Google Mail (Gmail)
+## Google Mail (Gmail)
 
-#### Auto-advance
+### Auto-advance
 
 If you use the archive function, you normally return to your overview.
 With Auto-advance you can select whether to advance to the next or previous message.
@@ -915,11 +913,11 @@ With Auto-advance you can select whether to advance to the next or previous mess
 This reveals the Auto-advance settings in the General section under Settings.
 The default setting of showing the previous (older) message is usually preferred.
 
-#### Email signature
+### Email signature
 
 Set up an [email signature](https://support.google.com/mail/answer/8395) which includes your full name and job title so people can quickly know what you do.
 
-##### Example
+#### Example
 
 _Note: You can copy and paste the template below to use it in your own signature._
 
@@ -928,9 +926,9 @@ _Note: You can copy and paste the template below to use it in your own signature
 
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
 
-#### Filters
+### Filters
 
-##### Apply label on mention
+#### Apply label on mention
 
 It might be useful to add a Gmail filter that adds a label to any GitLab notification email in which you are specifically mentioned, as opposed to a notification that you received simply because you were subscribed to the issue or merge request.
 
@@ -941,7 +939,7 @@ It might be useful to add a Gmail filter that adds a label to any GitLab notific
 1. Check **Also apply filter to matching conversations**.
 1. Click **Create filter**.
 
-##### Apply label to all GitLab-generated emails
+#### Apply label to all GitLab-generated emails
 
 GitLab issues and merge requests can generate a lot of email notifications depending on your settings and how in-demand your attention is.
 It can be useful to apply a label to these generated emails and move them out of your immediate inbox.
@@ -957,7 +955,7 @@ It can be useful to apply a label to these generated emails and move them out of
 You can learn more about how to use Gmail filters to organize your inbox in [Productivity Hack video](https://www.youtube.com/watch?v=YOgm-vZVqng).
 To import downloaded [filter export](https://drive.google.com/file/d/1vm_psZOXjYZ9ulKYmdMqrTk435KcR1DL/view) go to Gmail => Settings => Filters and Blocked Addresses => Import filters.
 
-#### Keyboard shortcuts
+### Keyboard shortcuts
 
 Keyboard shortcuts only work if you've turned them on in Gmail Settings.
 
@@ -969,7 +967,7 @@ Steps below:
 
 [Here are some shortcuts you can use](https://support.google.com/mail/answer/6594?hl=en&ref_topic=3394150)
 
-#### Split screen
+### Split screen
 
 List your inbox and preview mails in one view with this configuration change:
 
@@ -981,7 +979,7 @@ List your inbox and preview mails in one view with this configuration change:
 - Save changes
 - Reload inbox
 
-### Disable Google Meet and Chat in Google Mail
+## Disable Google Meet and Chat in Google Mail
 
 The integration for Google Meet and Google Chat is enabled by default. It can consume too much space in the left menu listing mailbox folders. In order to disable the integration in Google Mail, navigate to `Settings` at the right top, `See all settings`, `Mail and Chat` and select the following:
 
@@ -990,12 +988,12 @@ The integration for Google Meet and Google Chat is enabled by default. It can co
 
 Save the changes and wait for Google Mail to reload.
 
-### Google Slides
+## Google Slides
 
 Use this general [FY23 GitLab Theme Template](https://docs.google.com/presentation/d/1xuw2RrjoSPx69p9v7aacrustmVto8cKWaFn_YK7Riug) when creating slide decks for internal and external use.
 Make a copy of the slide deck and only edit the copy; please do not edit the template itself. To avoid potentially editing the source deck, you can go to the [Template gallery](https://docs.google.com/presentation/?ftv=1) and click on the `FY23 GitLab Theme Template` to quickly make a copy and begin a new deck.
 
-#### Updating your existing slide deck theme
+### Updating your existing slide deck theme
 
 Here are a few quick steps for updating your existing slide decks to match the most recent template:
 
@@ -1006,11 +1004,11 @@ Here are a few quick steps for updating your existing slide decks to match the m
 1. Find the `FY23 GitLab Theme Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
 1. Minor adjustments may be needed once the new theme is applied; the 'Layout' button in the toolbar will help you find the right slide layout for your content.
 
-### Google Jamboard
+## Google Jamboard
 
 Jamboard is a collaborative whiteboarding platform, accessible at https://jamboard.google.com/. The results are persisted in Drive and are shareable like any other object.
 
-### Google Chrome
+## Google Chrome
 
 - Search and find things by typing words from document/issue/etc page titles into the urlbar (anything that appears in the page title). The search is "best effort" but surprisingly efficient at finding that doc or issue you've accessed recently.
 - "Search engines" help even more! Typing "drive" and pressing Tab, for example, searches in Google Drive. To discover and customize them, go to `Settings > Search engine`.
