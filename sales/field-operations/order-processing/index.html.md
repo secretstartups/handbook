@@ -974,7 +974,7 @@ Quoting:
 Requirements to Close Deal:
 
 1. A Private Offer must have been created, accepted by the customer,and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
-1. Once the Private Offer has been accepted by the customer,Deal Desk will chatter on the opportuniuty to submit for processing by attaching offer acceptance email. Then sales rep needs to submit the opportunity for approval. 
+1. Once the Private Offer has been accepted by the customer,Deal Desk will chatter on the opportunity to submit for processing by attaching offer acceptance email. Then sales rep needs to submit the opportunity for approval. 
 
 Closing the Deal:
 
