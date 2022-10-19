@@ -106,6 +106,7 @@ the winner as the next DRI for that time zone.
 | 2021-08-17 | A kilobyte of fun | Mark |
 | 2021-10-05 | What's the most mind-blowing fact you've ever learned? | Miguel |
 | 2022-07-26 | What's the best swag (from any company) you've ever gotten or seen, and why? | Kushal |
+| 2022-08-16 | If you got a chance to watch (re-watch) a movie in theater (a movie that released before year 2000), which one would you pick? | No winners, we are all made equal and deserve love |
 
 ### Frontend calendar
 
