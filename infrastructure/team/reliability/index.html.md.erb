@@ -51,16 +51,59 @@ All larger features, configuration changes, and new services must go through a [
 
 We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at [GitLab SaaS Reliability - work queue](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509) and represents the current state of project work assigned within squads. That epic references projects detailed in the form of sub-epics.
 
-### How We Work -- SRE Roles
+### How We Work -- Team Configuration
 
-As Reliability, we have three main work streams and each varies in the type of work. Each stream has an associated role:
+#### On-Call
+ * Manage alerts and incidents as described on the [Incident Management Page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities)
 
-1. Engineer On Call (EOC)
-  - 1 engineer per region (APAC/EMEA/Americas)
-  - Respond to alerts and incidents
-  
-2. Projects
-  - These are pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability.  Current project assignments can be seen [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).  Projects are more involved and generally take longer than non-project issues.
+#### Standing Squads
+##### Observability Squad
+
+ * Build, maintain, and improve observability services.
+ * Provide long term improvements to observability services.
+ * Services: Prometheus, Thanos, Grafana, [Logging](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging), 
+ * Examples:
+ 	* [Prometheus Service Issues
+](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3APrometheus)
+   * [Thanos Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Service%3A%3AThanos&first_page_size=100)
+   * [Elastic Search Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3AElasticsearch)
+
+##### Reliability Foundations Squad
+  * Build, maintain, and improve core infrastructure services.
+  * Assist customers with infrastructure related application support.
+  * Services and Tools: [GKE / K8s Workloads](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads), Chef, Terraform, Vault, Edge Services (Load Balancing, DNS, CDN)
+  * Examples:
+   * [Sev1/2 Corrective Actions](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3164592?label_name%5B%5D=corrective%20action)
+   	* [OS Upgrades](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15029)
+   	* [Security Patching](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/6605)
+   	* [General Requests from the backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/592) that DO NOT require a dedicated project squad.
+
+##### Standing Squad Membership Duration
+  * Minimum of 2 quarters 
+  * Recommended maximum of 4 quarters
+  * The Squad Membership SSOT is here: https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/squads.html
+
+##### Standing Squad Roles
+1. Squad DRI
+  * Organize communication between squad members
+  * Prioritize incoming work and identify new opportunities for the squad
+  * Report squad results [as documented on the Projects Page](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html)
+  * Train Shadow Squad DRI to be the future Squad DRI
+  * Squad DRIs can be Reliability Engineers _OR_ SREs.
+2. Shadow Squad DRI (SSD)
+  * Spend two quarters shadowing the DRI in preparation for becoming DRI.
+  * Provide squad leadership support when Squad DRI is OOO or On-Call.
+   	
+#### Permanent Teams
+These squads maintain members permanently and filled based on expertise.  Permanent squad members do not rotate to any other squads or participate in the SRE On-Call schedules
+
+##### Database Reliability Squad
+Database Reliability Engineers (DBREs) are focused .
+
+ * Build, maintain, and improve database services.
+
+#### Project Squads 
+Work on pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability, Infrastructure and beyond.  Current project assignments can be seen [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).
 
 ### How We Work -- General Workflow
 
