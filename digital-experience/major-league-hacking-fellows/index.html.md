@@ -89,6 +89,7 @@ Please identify and describe the deliverables for your project(s) and the ideal 
 | [Implement the Storybook/Figma plugin](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/168)| Implement the Storybook/Figma plugin and make it available for use in the project |  TBD | November, 17th |
 | [Update Slippers Intro/Landing page](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/212) | Improve our Slippers Design System landing page | TBD | November, 17th |
 | [Create Component Overview page](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/213) | Improve our UX by creating a component overview page | TBD | November, 17th |
+| [Accordion component](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui/-/issues/133) | Build the accordion component as designed in Figma into Slippers. | Seung Yoo | November, 17th |
 | More issues if there's capacity from fellows|  TBD | TBD |  December, 17th |
 
 ## MLH Partner Success Contact
