@@ -19,17 +19,17 @@ In this page you will find the current Diversity, Inclusion and Belonging Goals 
 
 ### Geographic Diversity (Team Member representation outside of NORAM)
 
-We do not currently have a company wide goal for Geographic Diversity and this will remain in place for FY'23. Instead we will focus on increasing Director+ representation outside of the US as team member representation is currently outpacing leadership representation. It would not prove advantageous to take a goal to contiue to increase team members external to the US without first focusing on increasing our leadership population external to the US. In Q3, we will execute on department level OKRs as it relates to Geographic Diversity. 
+We do not currently have a company wide goal for Geographic Diversity and this will remain in place for FY'23. Instead we will focus on increasing Director+ representation outside of NORAM as team member representation is currently outpacing leadership representation. It would not prove advantageous to take a goal to contiue to increase team members external to NORAM without first focusing on increasing our leadership population external to NORAM. In Q3, we will execute on department level OKRs as it relates to Geographic Diversity. 
 
-**Engineering OKR for Q3:** Provide an opportunity to increase and leverage communication between our Engineering team both in NORAM and external to NORAM around their thoughts on our presence outside of the US.
+**Engineering OKR for Q3:** Provide an opportunity to increase and leverage communication between our Engineering team both in NORAM and external to NORAM around their thoughts on our presence outside of NORAM.
 
 **Problem Statement & Data:** 
 
-What is a timeline to create a non-US leadership KPI and/or OKR?
+What is a timeline to create a NORAM leadership KPI and/or OKR?
 
 **Hypothesis:**
-- Hiring occurs predominantly in the US/NORAM.
-- Leadership is predominantly in the US/US Centric
+- Hiring occurs predominantly in NORAM.
+- Leadership is predominantly in NORAM Centric
 - We are not currently hiring in enough countries 
 
 **Data:**
