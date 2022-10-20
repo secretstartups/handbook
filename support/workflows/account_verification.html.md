@@ -83,7 +83,8 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 1. To verify the challenge answers, use [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html), the [Zendesk GitLab User Lookup App](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
 1. Using the [Risk Factor Worksheet: Zendesk requests](https://docs.google.com/spreadsheets/d/1NBH1xaZQSwdQdJSbqvwm1DInHeVD8_b2L08-V1QG1Qk/edit#gid=0) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges. Leave a comment with the `Support::SaaS::2FA::2FA Internal Note` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
-   - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).  However, challenge responses can be accepted from any (paid or unpaid) group or project associated with the user.
+   - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).
+   - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#conditions-for-2fa-reset-consideration) for further guidance.
    - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, you can accept the owner's answers on the user's behalf. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the on vouching).
    - Once you're familiar with the Risk Factor Worksheet, feel free to use the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app) to post your assessment of the verification questions.
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
@@ -171,7 +172,7 @@ More succinctly: they're paid, they use the account to pay, or we use the accoun
 
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
-1. [Owner vouch](#authenticating-an-owner-vouch) is required.
+1. An [Owner vouch](#authenticating-an-owner-vouch) from an owner in the paid namespace is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.
