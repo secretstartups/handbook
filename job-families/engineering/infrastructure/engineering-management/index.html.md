@@ -98,6 +98,19 @@ In addition to the same requirements, responsibilities, and performance indicato
 - Familiarity with operating SaaS services which adhere to compliance requirements like SOC2 and FedRAMP
 - Being a US Citizen, living and working in the United States, willing and able to achieve US federal security clearance (minimum Public Trust Position)
 
+### Manager, Engineering (Cloud Efficiency Engineering)
+
+The Engineering Manager, Infrastructure Cloud Efficiency Engineering leads programs and contributes to tools which directly increase the efficient use of cloud provider services. The primary focus for this leader is establishing tools and practices which result in improved spend efficiency. Additionally, this role will also engage to ensure we continually improve our partnership with primary Cloud providers through product engagement, training, and other collaborative efforts. This leader engages with our cloud providers to ensure that we are getting the most value out of their services.
+
+In addition to the same requirements, responsibilities, and performance indicators defined above, this specialty requires:
+
+-  Specific knowledge and experience about AWS and GCP cost structures, methods, and discounting tools.
+-  Experience operating a program of activities which lead to improved cloud unit cost economics.
+-  Experience creating effective reporting for key counterparts in finance organizations.
+-  Effective third-party vendor communication and coordination skills along with experience driving initiatives among multiple providers.
+
+This role collaborates most frequently with the SREs on their team as well as peer Engineering Managers in Infrastructure. Stable Counterparts for this Cloud Efficiency Engineering role include Finance Planning & Analysis, Product Managers, Development Engineering Managers, and the entire Cloud Service Provider team.
+
 ### Senior Engineering Manager, Infrastructure (Platform)
 
 The Senior Engineering Manager, Platform manages multiple teams within the Infrastructure Platform Section specialty, who work on GitLab.com and contribute to our on-premise product.
