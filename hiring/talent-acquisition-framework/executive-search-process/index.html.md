@@ -45,6 +45,25 @@ It is common for GitLab to engage a recruiting/sourcing partner (vendor) for e-g
 
 The Talent DRI will obtain vendor references where necessary or applicable and share the decision with the Hiring DRI.
 
+### External Vendor Criteria
+
+The business can use an external vendor if any of the following is true:
+
+1. Search is a C-Level search
+1. Search is Director or above level search and Hiring manager spent a minimum of four weeks sourcing a broad diverse set of candidates in collaboration with the executive recruiting team
+1. Search is Director or above level search and Hiring manager spent a minimum of two weeks sourcing a broad diverse set of candidates and there is no internal executive search capacity
+1. Search is in a geography where we don't have expertise
+
+If the business chooses to use an external vendor for a candidate search, that expense will come out of their budget so the business must also have budget for an external recruiter.
+
+### External Vendor process
+
+If a hiring manager wishes to use an executive recruiter. The process is:
+1. Hiring manager confirms it meets the criteria documented above in External Vendor Criteria
+1. The budget has been confirmed by the FP&A business partner
+1. The external vendor has been approved by VP Talent and VP Finance
+1. Procurement is involved in the commericials discussion and no work should be completed by the vendor before we have a signed agreement. Procurement will treat these requests as the highest tier priority when procurement rolls out a tiered priority system.
+
 
 ## Communication Cadences
 **Slack Channels**
