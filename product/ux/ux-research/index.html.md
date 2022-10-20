@@ -99,6 +99,7 @@ Below is a full list of our UX Research team handbook content:
 ### Resources for UX Researchers
 
 - [How the UX Research team operates at GitLab](/handbook/product/ux/ux-research-training/how-uxr-team-operates/)
+- [UX Researcher pairings](/handbook/product/ux/ux-research-training/ux-researcher-pairings/)
 - [Research prioritization](/handbook/product/ux/ux-research-training/research-prioritization/)
 - [The IP Assignment and when to show it](/handbook/product/ux/ux-research-coordination/IP-Assignment/)
 - [How to fill in for a UX Research Operations Coordinator](/handbook/product/ux/ux-research-coordination/research-coordinator-fill-in/)
