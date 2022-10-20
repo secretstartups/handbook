@@ -44,7 +44,10 @@ State pension (AOW) is standard and will be paid out at retirement age. Starting
 **Pension Plan Summary:**
 * Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
 pension and a partner's pension that pays benefits upon their death after their retirement via monthly contributions. 
-* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. 
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
+
+The beneficiary is also entitled to additional lifelong partner's pension that is bough by the invested pension capital upon death. See article 18of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
+
 * Incapacity for Work: This is a waiver of premium for incapacity for work. If a team member becomes partially or fully incapacitated for
 work, this portion of the plan continues to pay part or all of the pension contributions for team members to keep building up their pension fund and remain covered for the elected benefits. 
 
@@ -58,10 +61,26 @@ A team member can have the pension value accrued at a former employer transferre
 **Investment Profile:**
 Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by ASR. Furthermore, you can choose to put all the contributions in a savings fund.
 
+## Accident Policy
+
+Effective November 1, 2022, all team members in the Netherlands will be enrolled in GitLab's Group Accident Insurance Policy with Hienfeld. 
+
+This cover provides peace of mind in the event of an accident. All team members are automatically enrolled at no cost to you.  The insured benefit per person is 2x annual salary in case of death or permanent disability due to an accident (maximum annual salary 250,000 euro per person.) You can find the General Terms and Conditions in [English](https://drive.google.com/file/d/10zMEoicyznarbiT_sJbwdKoQOdJb2rNK/view?usp=sharing) & [Dutch](https://drive.google.com/file/d/11dIBfZoIEIavIBYg-gWu7iZUbSxrnPJd/view?usp=sharing). 
+ 
+Because the insurance also pays out in case you pass away due to an accident, we urge you to inform your spouse about this benefit as well.
+ 
+In the unfortunate event of an accident, please fill in the claim form and send it to total-rewards@gitlab.com as soon as possible. In case of death at least 36 hours before the funeral or cremation. The form is available both in [English](https://drive.google.com/file/d/1btOAO8HaIndD3rNyy2ZGM2v6pOqd5qet/view?usp=sharing) and [Dutch](https://drive.google.com/file/d/1TXDy9-OHgifVUtBht_vWoQ8Vdnr59pMe/view?usp=sharing) 
+ 
+Intern Coverage is a flat coverage amount: 50,000 Euro upon accidental death and 50,000 Euro in case of permanent disability.  
+
+
 
 ## Life Insurance
 
-GitLab does not offer life insurance in the Netherlands at this time. Team members are automatically covered up to 70% of their last wage in case of disability by the governmental Employee Insurance Agency.
+GitLab offers Death Benefits via the Pension scheme: 
+
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
+The beneficiary is also entitled to an additional lifelong partner's pension that is bought by the invested pension capital upon death. See article 18 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
 
 ## 30% Tax Ruling
 
