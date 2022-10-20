@@ -237,6 +237,8 @@ The handbook [uses USD when describing budgets](/handbook/handbook-usage/#fine-p
 
 **Example:** a team event has a meal budget of USD25 per person. A team member notes that this is $50 in local currency, at current exchange rates. The team member can purchase a meal in their local currency up to $50, and expense it in their local currency.
 
+**Example:** when visiting other countries - you should convert the currency to your local currency when submitting the expense. Currency rate should be done using rates on the day the expense occurred (these can be looked up online using a site such as  [OANDA](https://www.oanda.com/currency-converter/en/)). i.e. if you spent EUR50 whilst visiting Germany but you live in the UK, you should convert the EUR50 to GBP43.66 (your local Currency) and submit the expense with the valid receipt.
+
 Note: live exchange rates do not apply to compensation, which [uses fixed exchange rates](/handbook/total-rewards/compensation/#exchange-rates).
 
 - - -
