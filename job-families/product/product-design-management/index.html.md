@@ -107,7 +107,7 @@ The Senior Manager of Product Design is a [grade 9](/handbook/total-rewards/comp
 * Interview with Manager, Product Design. In this interview, the interviewer will focus on understanding your experience with driving design strategy, managing managers, and influencing the wider organization in which you worked. Examples of large, complex projects that had a significant impact on product experience will be helpful. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
 * Interview with Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, what types of teams you have led and your management style. The interviewer will also want to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
 * Interview with Director of Product (Product Management).
-* Interview with VP of Engineering.
+* Interview with VP of UX.
 
 ## Director of Product Design
 
@@ -205,7 +205,3 @@ See more details about our hiring process on the [hiring handbook](/handbook/hir
 * [Diversity](/handbook/product/ux/performance-indicators/#diversity)
 * [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
 * [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
-
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
