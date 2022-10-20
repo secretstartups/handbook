@@ -38,7 +38,7 @@ The difference in these two types of grants are, generally, as follows:
 
 ### Restricted Stock Units (RSUs) 
 
-In September 2021, in connection with our IPO that occurred on October 14, 2021, our board of directors and stockholders approved the  2021 Equity Incentive Plan (the “2021 Plan”) as a successor to our 2015 Plan (together the “Plans”). The  2021 Plan authorizes the award of both stock options, which are intended to qualify for tax treatment  under Section 422 of the Internal Revenue Code, and nonqualified stock options, as well for the award of  restricted stock awards (“RSAs”), stock appreciation rights (“SARs”), restricted stock units (RSUs), and performance and stock  bonus awards. Pursuant to the 2021 Plan, NQ stock options may be granted only to our team  members. Since September 2021, we have issued RSUs for grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. For RSU Grant Cadence and Vesting please see: [ttps://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447]
+In September 2021, in connection with our IPO that occurred on October 14, 2021, our board of directors and stockholders approved the  2021 Equity Incentive Plan (the “2021 Plan”) as a successor to our 2015 Plan (together the “Plans”). The  2021 Plan authorizes the award of both stock options, which are intended to qualify for tax treatment  under Section 422 of the Internal Revenue Code, and nonqualified stock options, as well for the award of  restricted stock awards (“RSAs”), stock appreciation rights (“SARs”), restricted stock units (RSUs), and performance and stock  bonus awards. Pursuant to the 2021 Plan, NQ stock options may be granted only to our team  members. Since September 2021, we have issued RSUs for grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. For RSU Grant Cadence and Vesting please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447)
 
 ### Sell-to-cover - RSUs			
 
@@ -87,11 +87,11 @@ In September 2021, the Company’s board of directors and its stockholders appro
   * Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
   * Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
 
-Details on eligibility, enrollment, calculations, pricing and dollar value can be found at ESPP Training Deck - Google Slides [https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39]
+Details on eligibility, enrollment, calculations, pricing and dollar value can be found at [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39)
 
 ## Alternate ESPP Non-US
 
-The Alternate ESPP is for team members not eligible for the ESPP, mainly in PEO countries.  Team Members in the Alternate ESPP will be eligible to receive RSUs on the expected earnings as if they would have been able to participate in the ESPP.  There are no payroll deductions or contributions required. The RSUs will be automatically granted to team members as calculated by the following formula for each 6 month purchase period:  Details on eligibility, enrollment, calculations, pricing and dollar value can be found at ESPP Training Deck - Google Slides [https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39]
+The Alternate ESPP is for team members not eligible for the ESPP, mainly in PEO countries.  Team Members in the Alternate ESPP will be eligible to receive RSUs on the expected earnings as if they would have been able to participate in the ESPP.  There are no payroll deductions or contributions required. The RSUs will be automatically granted to team members as calculated by the following formula for each 6 month purchase period:  Details on eligibility, enrollment, calculations, pricing and dollar value can be found at [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39)
 
 ## What is an Offering Period? 
 
@@ -99,26 +99,26 @@ The Alternate ESPP is for team members not eligible for the ESPP, mainly in PEO 
 * Team members can only be enrolled in one Offering Period at a time. 
 * Your Offering Period might be different from the one your coworker is enrolled in. 
 
-ESPP Calendar for Offering periods can be found here at ESPP Training Deck [https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gb84b7497fb_0_24]
+ESPP Calendar for Offering periods can be found at [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gb84b7497fb_0_24)
 
 ## When do Purchases Occur? 
 
-On the respective Purchase Dates  at the end of each Purchase Period. Only whole shares can be purchased.  Purchase dates are normally May 31 and November 30 of each year.
+On the respective Purchase Dates at the end of each Purchase Period. Only whole shares can be purchased.  Purchase dates are normally May 31 and November 30 of each year.
 
 ## Other ESPP references:  
-* ESPP FAQs [https://docs.google.com/document/d/1Be1gz-_iGGNjuOku7N4ipnEFhGLfbxOZp68PEcoXUYU/edit]
-* ESPP/RSU Vesting AMA - Google Docs [https://docs.google.com/document/d/1ELjTI_X29KKpmO1AuI8IMXW8oNqnKexy2jRs8T-SiLE/edit#]
-* ESPP 101 - Google Docs [https://docs.google.com/document/d/12KQBTHz7QbXSkC4HncUp4rT4DINvysPu1emLnRDO2xs/edit]
+* [ESPP FAQs](https://docs.google.com/document/d/1Be1gz-_iGGNjuOku7N4ipnEFhGLfbxOZp68PEcoXUYU/edit)
+* [ESPP/RSU Vesting AMA](https://docs.google.com/document/d/1ELjTI_X29KKpmO1AuI8IMXW8oNqnKexy2jRs8T-SiLE/edit#)
+* [ESPP 101](https://docs.google.com/document/d/12KQBTHz7QbXSkC4HncUp4rT4DINvysPu1emLnRDO2xs/edit)
 
 ## Grant Levels
 
-RSUs and at times Option Grants (Option Grants are rare since September 2021) are determined by Grade Level. If you have any questions on what grant should be offered to a new hire, please reach out to the Compensation and Benefits team by email to total-rewards@@gitlab. References and information for Grant Levels is held within the  compensation calculator. 
+RSUs and at times Option Grants (Option Grants are rare since September 2021) are determined by Grade Level. If you have any questions on what grant should be offered to a new hire, please reach out to the Compensation and Benefits team by email to `total-rewards@gitlab.com`. References and information for Grant Levels is held within the  compensation calculator. 
 
 Note: All stock options and RSU grants are subject to approval by the Board of Directors and no grants are final until such approval has been made. The Company reserves the right in its own determination to make any adjustments to stock option grants at its sole discretion including the decision not to make a grant at all.
 
 ## Promotions
 
-Promotion grants are based on the differential between the new hire equity dollar value at the new grade minus the new hire equity dollar value at the current grade using the median of the compensation range. The vesting schedule for the new equity grant will align to the terms and conditions of the equity plan for RSUs [https://about.gitlab.com/handbook/stock-options/#restricted-stock-units].
+Promotion grants are based on the differential between the new hire equity dollar value at the new grade minus the new hire equity dollar value at the current grade using the median of the compensation range. The vesting schedule for the new equity grant will align to the terms and conditions of the equity plan for [RSUs](#restricted-stock-units-rsus).
 
 Formula for number of Promotion Equity Grant: (New Hire Equity Grant Dollar Value Median at Promoted Level - New Hire Equity Grant Dollar Value Median at Previous Level)
 
@@ -128,13 +128,13 @@ The output of this calculation will also be compared to 0.5x of the Refresh Equi
 
 ## Refresh Grants
 
-As part of the updated Annual Compensation Review process [https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review], eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of equity dollar value a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will vest in accordance with the equity plan agreement between GitLab and the team members.
+As part of the updated [Annual Compensation Review process](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review), eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of equity dollar value a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will vest in accordance with the equity plan agreement between GitLab and the team members.
 
 Note: All equity grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to equity grants including the decision not to make a grant at all.
 
 ## Annual Refresh Grant Program Eligibility
 
-Team members may be eligible to participate in the annual refresh grant cycle review if they have completed six months of service with the company. However, participation will be based upon individual team member talent assessments (including if a team member is currently in good standing) and key talent criteria [https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria]. Therefore, not all team members will receive a refresh grant in the annual review cycle. Leaders will have discretion on the size of the refresh grant based on talent assessments and equity budget as allocated to each E-group member’s division. All proposed grants will be reviewed by the People team for pay equality. All proposed equity grants are subject to review and approval by the GitLab Board of Directors.
+Team members may be eligible to participate in the annual refresh grant cycle review if they have completed six months of service with the company. However, participation will be based upon individual team member talent assessments (including if a team member is currently in good standing) and [key talent criteria](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria). Therefore, not all team members will receive a refresh grant in the annual review cycle. Leaders will have discretion on the size of the refresh grant based on talent assessments and equity budget as allocated to each E-group member’s division. All proposed grants will be reviewed by the People team for pay equality. All proposed equity grants are subject to review and approval by the GitLab Board of Directors.
 
 ## Option Vesting
 
@@ -144,7 +144,7 @@ Vesting means that you have to remain employed by, or are otherwise a service pr
 
 RSUs are grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. New hire grants vest after 6 months, quarterly thereafter over the 4 years.  Refresh grants vest quarterly over 4 years.
 
-Per our SAFE [https://about.gitlab.com/handbook/legal/safe-framework/] framework, we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following slide deck [https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447].
+Per our [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/), we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447).
 
 * RSUs begin vesting on the corresponding grant date.
 * RSUs are reviewed for approval quarterly.
@@ -161,8 +161,8 @@ While the company has the right to repurchase the unvested shares upon your term
 
 For trading in an open trading window, please find the following instructions for specifics on exercise and trading options. 
 
-* GitLab Stock Plan Non-US  [https://drive.google.com/file/d/1pBZsudczsgSv_xxPEJlMc1wA0TumDm97/view]
-* GitLab Stock Plan RSUs & Stock Options [https://drive.google.com/file/d/16Hby-UdCKA-BJDHvZQ9bpbU5cEQlzeUE/view]
+* [GitLab Stock Plan Non-US](https://drive.google.com/file/d/1pBZsudczsgSv_xxPEJlMc1wA0TumDm97/view)
+* [GitLab Stock Plan RSUs & Stock Options](https://drive.google.com/file/d/16Hby-UdCKA-BJDHvZQ9bpbU5cEQlzeUE/view)
 
 ## Questions about your stock plan or retail account:  
  ## E-TRADE Securities Customer Service 12 a.m. Monday to 11:59 p.m. Friday ET   Closed holidays  (800-838-0908)
@@ -183,13 +183,13 @@ If your employment ends for whatever reason, you have a 90 day window to exercis
 
 ## Equity Administration
 
-Administration of (i.e. RSUs, stock options, ESPP share transactions) and equity grant transactions at GitLab are conducted on the ETrade platform.  Equity Grants are approved by the Board of Directors “or their designee” at regularly scheduled quarterly board meetings, which contain  information relevant to the grant including the number of shares, exercise price, vesting period and other key terms. This information is then recorded in your account at ETrade. New participant grants, will need to accepted the Grant Agreements in ETrade document under “Grant Acceptance” under the Plan Elections section in your E-TRADE account. Please see GitLab Stock Plan RSUs & Stock Options [https://drive.google.com/file/d/16Hby-UdCKA-BJDHvZQ9bpbU5cEQlzeUE/view]. 
+Administration of (i.e. RSUs, stock options, ESPP share transactions) and equity grant transactions at GitLab are conducted on the ETrade platform.  Equity Grants are approved by the Board of Directors “or their designee” at regularly scheduled quarterly board meetings, which contain  information relevant to the grant including the number of shares, exercise price, vesting period and other key terms. This information is then recorded in your account at ETrade. New participant grants, will need to accepted the Grant Agreements in ETrade document under “Grant Acceptance” under the Plan Elections section in your E-TRADE account. Please see [GitLab Stock Plan RSUs & Stock Options](https://drive.google.com/file/d/16Hby-UdCKA-BJDHvZQ9bpbU5cEQlzeUE/view). 
 
 With the implementation of WorkDay, interfaces to ETrade provide for electronic files for status updates to participants, such as terminations and change in Cost Centers. 
 
 ## Taxes
 
-Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the tax team's stock options [https://about.staging.gitlab.com/handbook/tax/stock-options/] page for more information on taxation of stock options.
+Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](https://about.gitlab.com/handbook/tax/stock-options/) page for more information on taxation of stock options.
 
 ## US employees with Incentive Stock Options (ISOs)
 
@@ -202,13 +202,13 @@ Taxation from the US perspective is not as straightforward as you might like. Yo
  
 Please note, however, that any gain upon exercise of an ISO (difference between the exercise price and fair market value at date of exercise), even if you do not sell the shares, may be counted as a "tax preference" towards the Alternative Minimum Tax limit. For instance, under scenario 1 above you have to make an adjustment in your tax return for the Alternative Minimum Tax (AMT) that equals the so-called bargain element. Each scenario has a different tax treatment, so be careful of the tax consequences when you exercise your options. In the long term, holding onto your stock does save taxes, however be aware of the AMT that you will be confronted with. It is strongly advised that you contact a tax advisor to be aware of the US tax consequences.
 
-In addition to the benefits of a longer holding period, the IRS does have an additional benefit for holders of Qualified Small Business Stock (QSBS for short). GitLab meets the criteria for QSBS treatment for options exercised prior to August, 2018, however (again), the Company is not in a position to offer tax or legal advice nor does it make any representation about compliance with the QSBS provisions, so check with your own tax and financial advisors. We found this article helpful [https://blog.wealthfront.com/qualified-small-business-stock-2016/] in describing the QSBS program in greater detail.
+In addition to the benefits of a longer holding period, the IRS does have an additional benefit for holders of Qualified Small Business Stock (QSBS for short). GitLab meets the criteria for QSBS treatment for options exercised prior to August, 2018, however (again), the Company is not in a position to offer tax or legal advice nor does it make any representation about compliance with the QSBS provisions, so check with your own tax and financial advisors. We found [this article](https://blog.wealthfront.com/qualified-small-business-stock-2016/) helpful  in describing the QSBS program in greater detail.
 
 ## US service providers with Non-qualified Statutory Options (NQs)
 
 For non-employees of GitLab that have been granted stock options, their stock options are treated as NQs.
 
-GitLab's stock is actively traded on NASDAQ, the NQ is taxed at exercise. The gain of the exercise (fair market value minus the exercise price) has to be reported by form 1099-MISC (box 7)[https://www.irs.gov/pub/irs-pdf/f1099msc.pdf]. Withholding is typically not required, however when the service provider fails to provide a valued tax identification number in form 1099, GitLab has to ensure backup withholding (roughly 25%).
+GitLab's stock is actively traded on NASDAQ, the NQ is taxed at exercise. The gain of the exercise (fair market value minus the exercise price) has to be reported by form [1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf) (box 7). Withholding is typically not required, however when the service provider fails to provide a valued tax identification number in form 1099, GitLab has to ensure backup withholding (roughly 25%).
 
 ## Netherlands, Germany and Australia
 
