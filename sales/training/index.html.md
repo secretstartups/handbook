@@ -143,3 +143,6 @@ Live customer success enablement videocasts are held roughly every other Wednesd
 *  Learn about GitLab customer training on the [GitLab Training Tracks site](/learn/)
 *  Learn about the [weekly GitLab Sales Enablement webcast series](/handbook/marketing/strategic-marketing/enablement/)
 *  Learn about the [weekly GitLab SDR Enablement webcast series](/handbook/marketing/strategic-marketing/enablement/#xdr-bdrsdr-coaching)
+
+# **Test Image**
+*  ![](https://docs.google.com/drawings/d/1BV3WdlowqxpTHypP0Ss8yAnbwhH-oNcHb1EeUNTc9sI/export/svg)
