@@ -57,17 +57,19 @@ These are videos of actual 8-hour courses given live to customers by GitLab's Ed
 
 > The Education Services team is working on shorter, edited versions of these class videos. They'll replace these links with the edited versions when they're available. For now just fast-forward through labs and breaks in these unedited class recordings.
 
+Access codes and recording links can be found in this [internal doc](https://docs.google.com/document/d/1WNwz_2TbavLgEVG86eENu4Mf_StjYt77h-d-364l3bM/edit?usp=sharing). 
+
 - GitLab with Git Basics - presented by Chris Cowell
-  - [Part 1](https://drive.google.com/file/d/1HHjUVuDNVal2Mg2-1CYga7rH5466UF2P/view?usp=sharing)
-  - [Part 2](https://drive.google.com/file/d/1koyQSyfZkCJzLKLkwi1anzrdaquEmH2s/view?usp=sharing)
+  - Part 1 
+  - Part 2
 - CI/CD - presented by Nick Lotz
-  - [Part 1](https://gitlab.zoom.us/rec/share/NtTQqjbpgj8w5ZiIMZ5mAKGpQydWPRrT6E4TBgo0RFAb7BkE3kDOlRHX5CpYRNT8.ny2ZlrustZRHrZU-) use access code `3Qc@@JGl` 
-  - [Part 2](https://gitlab.zoom.us/rec/share/ijqTagykCcWkdrIPptzoTQSykGRqa-vjfV68Fb36tkNssUTPHKTZndzUyzpdJPlq.uMhWsdWCkt05J4nu?startTime=1638294587000) use access code `1&v0^X?8`
+  - Part 1
+  - Part 2
 - Security Essentials - presented by Chris Cowell
-  - [Part 1](https://drive.google.com/file/d/1uwC_QgZxLaCg4bWZ_DhzeT_dgS-ncgFF/view?usp=sharing)
-  - [Part 2](https://drive.google.com/file/d/1hZ9CScv-U2GgDRykMHRbh_3N-g5BVR-K/view?usp=sharing)
+  - Part 1
+  - Part 2
 - GitLab for Project Managers - presented by Nick Lotz and Chris Cowell
-  - [Part 1 and Part 2](https://gitlab.zoom.us/rec/share/r4IPil5j2ASi0-HMTjHJpZwlBFrPvbWU49CbcxML0OGTmvmqJrsBdFI3h5VBmi3N.LHCFoHc4a8pOqVWE) use access code `!LUr$3zD`
+  - Part 1 and Part 2 
   
 ### Soft skills
 - [Developing your Emotional Intelligence](https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence)
