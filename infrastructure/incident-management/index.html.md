@@ -147,6 +147,12 @@ When there are multiple incidenets and you decide that additional incident manag
 
 If a second incident zoom is desired, choose which incident will move to the new zoom and create a new meeting in zoom.  Be sure to edit the channel topic of the incident slack channel to indicate the correct zoom link. 
 
+#### Weekend Escalations
+
+EOCs are responsible for responding to alerts even on the weekends.  Time should not be spent mitigating the incident _unless_ it is a `~severity::1` or `~severity::2`.  Mitigation for `~severity::3` and `~severity::4` incidents can occur during normal business hours, Monday-Friday.  If you have any questions on this please reach out to an [Infrastructure Engineering Manager](https://gitlab.com/gitlab-com/gl-infra/managers).
+
+If a `~severity::3` and `~severity::4` occurs multiple times and requires weekend work, the multiple incidents should be combined into a single `severity::2` incident.
+If assistance is needed to determine severity, EOCs and Incident Managers are encouraged to contact [Reliability Leadership via PagerDuty ](https://gitlab.pagerduty.com/schedules#P12EH0Z)
 ### Incident Manager Responsibilities
 
 1. When the Incident Manager is engaged on an incident, they are responsible for keeping the `Current Status` section of the incident issue regularly updated.
