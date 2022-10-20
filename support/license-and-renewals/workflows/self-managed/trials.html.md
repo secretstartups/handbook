@@ -33,9 +33,11 @@ We are allowed to issue trial licenses because they:
 - Don't affect historical data tracking
 - Aren't tied to any subscriptions for revenue purposes
 
-### How to create a trial license
+### How to create a new trial license
 
-To create a new trial license, follow these steps:
+Clients should initiate a request on their own by clicking on the following link:  https://about.gitlab.com/free-trial/?hosted=self-managed
+
+### How to extend an expired or soon to expire trial license
 
 1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
