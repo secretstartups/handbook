@@ -94,10 +94,6 @@ The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/co
 * [Perception of System Usability](/handbook/product/ux/performance-indicators/#perception-of-system-usability)
 * [Proactive vs Reactive UX Work](/handbook/product/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
 
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
