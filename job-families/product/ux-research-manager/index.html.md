@@ -177,10 +177,6 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 
 **NOTE:** In the compensation calculator below, fill in "Director" in the `Level` field for this role.
 
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
-
 ## Performance indicators
 * [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
 * [Diversity](/handbook/product/ux/performance-indicators/#diversity)
