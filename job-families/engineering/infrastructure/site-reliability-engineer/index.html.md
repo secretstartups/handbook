@@ -260,6 +260,17 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 1. Develop a fully automated multi-environment observability stack based on the existing SaaS system, and extend it to predict capacity needs based on the usage patterns.
 1. Plan for new service roll-outs, expansion and capacity management of existing services, and work with users to optimise their resource consumption.
 
+### Cloud Efficiency Engineering
+
+SRE's with Cloud Efficiency Engineering specialization primarily focus on improving our overall utilization of cloud provider resources. This includes improving tooling and adoption of tagging/labeling, analyzing and leveraging use of discounting tools such as RIs and CUDs, and collaborating across various teams to increase efficienciency of GitLab itself.
+
+#### Responsibilities
+
+1. Establish clear ongoing cloud efficiency metrics, highlighting both how we should measure success and identifying methods to achieve those improved results.
+1. Understand and instrument discounting mechanisms in collaboration with our cloud infrastructure providers.
+1. Implement tools, practies, and process to enable other teams to contribute to efficiency in their areas.
+1. Plan and implement needed changes in our cloud environments to drive better observability of usage and improved efficiency.
+
 ## Career Ladder
 
 Further career progression is available as a Principle Engineer, [Distinguished Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-fellow/).
