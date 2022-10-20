@@ -93,12 +93,12 @@ Programs are available to specific customer types.
 
 ### Digital customer programs
 
-The programs below are available to our tech touch and scaled CSM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
+The programs below are available to our Tech Touch and Scale CSM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
 
 | Program                         | Category    | Content  | Recipients                                              |
 |---------------------------------|-------------|----------|---------------------------------------------------------|
-| Onboarding intro and enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer within the last 3 days                         |
-| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |               |
+| Onboarding intro and enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | Customer within the last 3 days                         |
+| Onboarding full series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |               |
 | Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
 | Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
 | Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
