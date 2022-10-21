@@ -496,7 +496,7 @@ As teams grow in both scope and size it is important to determine whether they s
 
 ### Gearing Ratios
 It is intended that gearing ratios not become overly complicated. In support of this, there is a default gearing ratio which can be assumed by all product groups. As long as this default supports the product group mission, nothing further is required.
-* One Staff Software Engineer reports to an Engineering Manager (a manager of ICs)
+* One Staff Software Engineer reports to an Engineering Manager+ (a manager of ICs)
 * One Principal Engineer reports to a Senior Manager+ (a manager of managers)
 * One Distinguished Engineer reports to Director+
 * One Engineering Fellow reports to VP+
