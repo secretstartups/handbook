@@ -100,6 +100,7 @@ When possible and if not impacting your finances, we suggest that all expenses i
 | Transportation/Parking | Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable. |
 | Travel (Other) | Please refer to our [Travel Handbook Page](https://about.gitlab.com/handbook/travel/). |
 | VPN Subscription | Please read [Why We Don't Have A Corporate VPN](https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn), and check out our [Personal VPN page](https://about.gitlab.com/handbook/tools-and-tips/personal-vpn/) regarding usage at GitLab. |
+| Wire fees (Equity compensation) | Team members **outside of the USA** where there is no option to disburse equity funds from E*TRADE without incurring wire fees may expense those fees. |
 
 ## Redacting Personal Information from Receipts - A Caution
 
