@@ -502,11 +502,12 @@ Learn more about designing and building [SmartPages](https://help.highspot.com/h
 #### Creating pitch templates 
 Highspot offers what they call pitch templates, which are email templates that can be created by GitLab and sent to prospects and customers with pre-written messages and pre-selected content attached. These templates include built-in tracking and analytics capabilities, and are intended for 1-to-1 or 1-to-few communications.
 
-Once a pitch template is created, currently anyone with access to the Pitch Template Spot can access that template, customize it as/if they see fit, send the template to a prospect or customer, and view all tracked activities.
+Once a pitch template is created, currently anyone with access to the Company Pitch Template Spot can access that template, customize it as/if they see fit, send the template to a prospect or customer, and view all tracked activities.
 
 The Highspot Help Center provides instructions on how to create pitch templates, which you can read [here](https://help.highspot.com/hc/en-us/articles/214982823-Create-a-Pitch-Template). In addition, follow these steps to help keep GitLab's pitch templates organized and consistent:  
 
-   * Create new pitch templates in the Pitch Templates Spot. Users can bookmark templates to their own Spot, and Spot Owners can bookmark or filter pitch templates in SmartPages to quickly surface these items.
+   * Create new pitch templates in the Company Pitch Templates Spot. Users can bookmark templates to their own Spot, and Spot Owners can bookmark or filter pitch templates in SmartPages to quickly surface these items.
+      * If you do not already have Editor access to the Company Pitch Templates Spot, you will not be able to add a new template. You can gain access by creating an Issue using [this Template] (https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request).
    * Add a descriptive title and description. These fields are internal to Highspot and should help users know when/how/why to use the template. Titles should be consistent, such as when adding a sequence of templates.  
    * Add a message using text and dynamic fields (i.e. Customer name, Company), which will auto-fill for the user when pitching. Users can edit the message when pitching. This will not affect the template. However, the user's edits will show clearly in their own Pitches Spot, as well as in SFDC.
    * Attach an item. All pitch templates must include at least one piece of content from within Highspot. If no content is selected when creating the pitch template, users must add an item when pitching.
