@@ -51,7 +51,7 @@ The primary objective in enabling our customers is to get a customer to value qu
 
 ### Expand & Renew
 
-This phase is about going beyond a customer’s existing use cases, into additional adoption/expansion and tier upgrades.  In ensuring a customer gets to value quickly, in understanding a customer’s desired business outcomes, and in engaging strategically through touchpoints such as EBRs in addition to cadence calls, a TAM is ‘given permission’ as a trusted advisor to introduce and advocate for the idea of growth. This phase also includes the prepartion of an upcomming renewal discussion.
+This phase is about going beyond a customer’s existing use cases, into additional adoption/expansion and tier upgrades.  In ensuring a customer gets to value quickly, in understanding a customer’s desired business outcomes, and in engaging strategically through touchpoints such as EBRs in addition to cadence calls, a CSM is ‘given permission’ as a trusted advisor to introduce and advocate for the idea of growth. This phase also includes the prepartion of an upcomming renewal discussion.
 
 | Description | Metrics | DRI |
 |---|---|---|
@@ -59,7 +59,7 @@ This phase is about going beyond a customer’s existing use cases, into additio
 | Expansion Enablement & Workshops | Expansion Playbooks Completed (QoQ), Days per Playbook Completed per Stage (QoQ), Win rate for expansion playbooks (QoQ) |  |
 | [Renewal & Customer Goal Setting](/handbook/customer-success/csm/renewals/) | Renewal Rate |  |
 
-## TAM Internal Activities
+## CSM Internal Activities
 
 ### Account Risk Management & Triage
 
@@ -69,7 +69,7 @@ This phase is about going beyond a customer’s existing use cases, into additio
 
 ### Account Growth Planning & Renewal Planning
 
-In the Strategic TAM motion TAMs are able to spend more time with their customers and are able to work with multiple teams and stakeholders in the organization. The TAM is also able to work with multiple subsidiaries and build comprehensive account knowledge. This leads to valuable insights on the customers strategic business goals and future roadmap. To accelerate the GitLab Adoption and Growth, the Account Growth Plan helps to consolidate the information and builds a baseline for multiple GitLab internal stakeholders. This includes Product, Sales Planning and Exec Sponsorship decisions. To quantify an investable customer initiative with data, the Account Growth Plan builds the single source of truth. The Account Growth Plan contains GitLab Objectives and Actionable next steps.
+In the Strategic CSM motion CSMs are able to spend more time with their customers and are able to work with multiple teams and stakeholders in the organization. The CSM is also able to work with multiple subsidiaries and build comprehensive account knowledge. This leads to valuable insights on the customers strategic business goals and future roadmap. To accelerate the GitLab Adoption and Growth, the Account Growth Plan helps to consolidate the information and builds a baseline for multiple GitLab internal stakeholders. This includes Product, Sales Planning and Exec Sponsorship decisions. To quantify an investable customer initiative with data, the Account Growth Plan builds the single source of truth. The Account Growth Plan contains GitLab Objectives and Actionable next steps.
 
 In addtion to [Success Planning](/handbook/customer-success/csm/success-plans/) where the focus is on building a shared plan between the customer and GitLab on how the customer achieves their desired business outcomes the Account Growth Plan includes actions to achieve growth and expansion within an account. The joint plans are used to bridge the gap between enablement into a strategic growth motion. 
 
