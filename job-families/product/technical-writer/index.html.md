@@ -74,9 +74,6 @@ The Staff Technical Writer reports to the Senior Manager, Technical Writing.
 #### Staff Technical Writer Job Grade
 The Staff Technical Writer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification for Staff Level:** 
-At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
-
 #### Staff Technical Writer Responsibilities
 Extends the Senior Technical Writer responsibilities in complexity and scope.
 
@@ -97,9 +94,6 @@ The Principal Technical Writer reports to the Director, Technical Writing.
 
 #### Principal Technical Writer Job Grade
 The Principal Technical Writer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Principal Technical Writer has extensive experience in a Staff-level role.
-
-**Market Justification for Principal Level:** 
-At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
 
 #### Principal Technical Writer Responsibilities
 Extends the Staff Technical Writer responsibilities in complexity and scope.
@@ -122,10 +116,6 @@ Extends the Staff Technical Writer responsibilities in complexity and scope.
 - [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/#technical-writing-team-member-mr-rate)
 - [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/#distribution-of-technical-writing-team-documentation-effort)
 - [Technical Writing collaboration on UI text](/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
-
-## Career Ladder
-
-For more details about the engineering career ladders, review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
 
