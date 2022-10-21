@@ -56,7 +56,7 @@ Access to Tableau requires having [SAFE Access](https://about.gitlab.com/handboo
 
 | **Team / Department** | **Approver(s) / Project Leader** |
 | ------- |------- |
-| Business Insights | Sindhu Tatimatla (TBD) |
+| Business Insights | (TBD) |
 | Customer Success  | `@jdbeaumont`  |
 | Data              | `@mlaanen`, `@ttnguyen28` |
 | Marketing         | `@jahye1` |
@@ -146,7 +146,14 @@ The number of licenses is limited for the duration of the pilot, and is meant fo
 * Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
     1. Home/Explore > New > Workbook
     1. Files > Drag and drop a file / Upload from computer
-* Google Docs `(coming soon)`
+* Google Sheets 
+    1. Home/Explore > New Workbook
+    1. Connectors > Google Drive
+    1. Sign in with Google
+    1. Check all the boxes
+    1. Click `Allow`
+    1. Double click on the Google Sheet you want to use
+
 
 **Using Tableau Desktop or Tableau Prep Builder:**
 
@@ -171,7 +178,15 @@ The number of licenses is limited for the duration of the pilot, and is meant fo
 * Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
     1. Home/Explore > New > Workbook
     1. Files > Drag and drop a file / Upload from computer
-* Google Docs `(coming soon)`
+* Google Sheets 
+    1. Home/Explore > New Workbook
+    1. Connectors > Google Drive
+    1. Sign in with Google
+    1. Check all the boxes
+    1. Click `Allow`
+    1. Click on the Google Sheet you want to use
+    1. Click Connect
+
 
 ### Dashboard Access
 
@@ -248,4 +263,5 @@ We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to re
 | Tableau Desktop | When publishing to Tableau Online from Tableau Desktop, all project folders are greyed out. | Click on the `>` icon next to your department's foldername to see the subfolders. You should be able to publish into those subfolders. | 
 | Tableau eLearning | Error Message: "Missing Authentication Cookie" |  Change your browser settings as described on the [Skilljar Help Center](https://support.skilljar.com/hc/en-us/articles/360033553054) | 
 | Tableau Online or Desktop | When using "Initial SQL": "An error occured when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. |
-
+| Tableau Online or Desktop | Error "There was a problem connecting to the data source "Untitled Data Source"" when connecting to Virtual Connections  |  The password for the Snowflake service account expired. For Tableau admins: Connect to Snowflake via Oath as the service account. It will prompt you to change the password. Afterwards, edit all the virtual connections and republish them. |
+| Tableau Online or Desktop | Nondescript error when connecting to Virtual Connections |  The underlying table changed, likely with fields removed. Ask a Tableau admin to Edit the virtual connection, find the affected table/field (check 'Alerts' when editing the virtual connection), and `Exclude` the deleted field. Then republish the virtual connection. |
