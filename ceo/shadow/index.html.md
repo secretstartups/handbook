@@ -168,43 +168,14 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - NO SHADOWS | E-GROUP OFFSITE - NO SHADOWS |
-| 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
-| 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
-| 2022-04-25 | 2022-04-29 | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
-| 2022-05-02 | 2022-05-06 | AVAILABLE - REMOTE | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer |
-| 2022-05-09 | 2022-05-13 | NO SHADOWS| NO SHADOWS|
-| 2022-05-16 | 2022-05-20 | NO SHADOWS | NO SHADOWS|
-| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE |AVAILABLE - REMOTE 
-| 2022-05-30 | 2022-06-03 | [Victor Brew](https://gitlab.com/Vbrew) - Pub Sec ISR  | AVAILABLE - REMOTE |
-| 2022-06-06 | 2022-06-10 | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer | [Victor Brew](https://gitlab.com/Vbrew) - Pub Sec ISR  |
-| 2022-06-13 | 2022-06-17 | NO SHADOWS| NO SHADOWS |
-| 2022-06-20 | 2022-06-24 | NO SHADOWS| NO SHADOWS|
-| 2022-06-27 | 2022-07-01 | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer |
-| 2022-07-04 | 2022-07-08 | NO SHADOWS | NO SHADOWS|
-| 2022-07-11 | 2022-07-15 | NO SHADOWS | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring |
-| 2022-07-18 | 2022-07-22 | NO SHADOWS  | NO SHADOWS  |
-| 2022-07-25 | 2022-07-29 | NO SHADOWS  | NO SHADOWS  |
-| 2022-08-01 | 2022-08-05 | NO SHADOWS  | NO SHADOWS  |
-| 2022-08-08 | 2022-08-12 | NO SHADOWS  | NO SHADOWS  |
-| 2022-08-15 | 2022-08-19 | NO SHADOWS | NO SHADOWS |
-| 2022-08-22 | 2022-08-26 | NO SHADOWS | NO SHADOWS |
-| 2022-08-29 | 2022-09-02 | NO SHADOWS | NO SHADOWS |
-| 2022-09-05 | 2022-09-09 | NO SHADOWS | NO SHADOWS |
-| 2022-09-12 | 2022-09-16 | NO SHADOWS | NO SHADOWS |
-| 2022-09-19 | 2022-09-23 | NO SHADOWS | NO SHADOWS |
-| 2022-09-27 | 2022-09-30 |  [Ed Bao](https://gitlab.com/ebao2) - Assoc Sales Dev Operations Manager  | [Ellie Bertani](https://www.linkedin.com/in/ellie-bertani-1000/) |
-| 2022-10-03 | 2022-10-07 | NO SHADOWS | NO SHADOWS |
-| 2022-10-10 | 2022-10-14 | NO SHADOWS | NO SHADOWS |
-| 2022-10-17 | 2022-10-21 | NO SHADOWS | NO SHADOWS |
 | 2022-10-24 | 2022-10-28 | NO SHADOWS | NO SHADOWS |
 | 2022-10-31 | 2022-11-04 | NO SHADOWS | NO SHADOWS |
 | 2022-11-07 | 2022-11-11 | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications |
 | 2022-11-14 | 2022-11-18 | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
-| 2022-12-05 | 2022-12-09 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) - Director of Product, Fulfillment | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
-| 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) - Director of Product, Fulfillment |
+| 2022-12-05 | 2022-12-09 | AVAILABLE - REMOTE | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
+| 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | AVAILABLE - REMOTE |
 | 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
 | 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
 | 2023-01-02 | 2023-01-06 | AVAILABLE - REMOTE | AVAILABLE for Shadow Alumni - REMOTE | 
@@ -1158,4 +1129,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-05-30 | 2022-06-10 | [Victor Brew](https://gitlab.com/Vbrew) | Pub Sec ISR | |
 | 2022-06-06 | 2022-07-01 | [Alexander Turinske](https://gitlab.com/aturinske) | Sr. Frontend Engineer | |
 | 2022-06-27 | 2022-07-15 | [Tiffany Rea](https://gitlab.com/treagitlab) | SET - Verify::Pipeline Authoring | |
+| 2022-09-27 | 2022-09-30 | [Ellie Bertani](https://www.linkedin.com/in/ellie-bertani-1000/) | CEO, GitLab Foundation | |
 | 2022-10-27 | 2022-10-30 | [Ed Bao](https://gitlab.com/ebao2) | Assoc Sales Dev Operations Manager | |
