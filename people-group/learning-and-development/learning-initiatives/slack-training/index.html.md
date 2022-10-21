@@ -20,12 +20,12 @@ Sign up for the Communicate at GitLab: Slack Training by completing [this Google
 
 **Results**
 
-As of 2022-06-14:
+As of 2022-10-18:
 
-1. 94.4% of learners would recommend this training to other team members
-1. 91.7% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
-1. 86.1% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training
-1. 83.4% of learners agree that the training helped them feel empowered with knowledge and resources needed to speak up for GitLab values and correct usage of Slack
+1. 96.3% of learners would recommend this training to other team members
+1. 94.4% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
+1. 85.2% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training
+1. 81.5% of learners agree that the training helped them feel empowered with knowledge and resources needed to speak up for GitLab values and correct usage of Slack
 
 **What learners are saying:**
 
@@ -33,6 +33,7 @@ As of 2022-06-14:
 >This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.
 >It was a great refresher for me!
 >Thank you for offering this! Always nice to learn something new about a tool so ubiquitous in remote work.
+>These quick snippets and tasks have been super cool, easy to follow and participate in. I've been using Slack for 10+ years now and there was a bunch of stuff in this training that I hadn't discovered. The moving from Slack to an Issue was particularly cool! Thanks all!
 
 
 ### Is this training right for me?
