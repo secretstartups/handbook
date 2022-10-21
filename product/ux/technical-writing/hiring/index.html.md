@@ -17,8 +17,6 @@ process is important for a consistent hiring process.
 
 ## Hiring process
 
-Technical Writers follow the [Engineering hiring process](/handbook/engineering/#hiring-practices).
-
 General resources:
 
 - [Interviewing at GitLab](/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
