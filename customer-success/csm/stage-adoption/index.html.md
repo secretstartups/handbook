@@ -54,7 +54,7 @@ Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.git
 
 Usage Discovery Questions:
 
-1. Where do you manage you code base?
+1. Where do you manage your code base?
 1. What processes do you follow for code reviews?
 
 ## Verify
