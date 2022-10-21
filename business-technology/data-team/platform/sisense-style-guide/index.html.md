@@ -29,6 +29,23 @@ description: "SiSense Style Guide"
 
 ### Choosing the Right Chart
 
+#### Line charts
+
+A line chart is commonly used to compare data over time or to show trend data by plotting data points in a line. An example is when you want to analyze the MR rate of a certain department for the last year. The X-axis is typically used to represent time while the Y-axis contains the values. 
+
+We can also use line charts when comparing changes over time for more than one group or category. When comparing the MR rate of several departments for example, each department will be represented by different lines in the chart. 
+
+##### How to Create a Line chart in Sisense
+
+Here is how you can create a line chart in Sisense:
+
+1. Once you have the data, in the Series Settings panel, choose the Line option.
+2. Under the series settings, you can see the list of fields. Determine the field that will represent the time or period and assign it in the X-axis.
+3. Determine the values fields and assign them in the Y-axis. We can choose multiple fields that will be represented by multiple lines too.
+4. If more than 1 value field is determined: Under the Series panel, you can further choose the fields to be assigned in either of the two Y-axis.
+
+We can also change the color theme by following the [Gitlab Standard Color Pallete](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
+
 #### Bar charts
 
 A bar chart is commonly used to compare data across several categories. Typically, the categories are displayed along the Y-axis, while the values are displayed along the X-axis. The values can also be broken down further by another category.
