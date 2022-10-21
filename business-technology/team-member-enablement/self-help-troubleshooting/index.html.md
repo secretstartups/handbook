@@ -51,17 +51,17 @@ Follow these steps to successfully set up 2FA for your [Google account](https://
 
 Follow these steps to reset your 2fa for [Okta](https://about.gitlab.com/handbook/business-technology/okta/#i-changed-my-phone-and-now-cant-do-mfa-what-do-i-do)
 
-When you get a new device, before you get rid of the old one, make sure to set up your authenticator app on the new device.
-You will need to log into your accounts with the old device and disable 2FA for your accounts.
-Then delete the accounts off the old device and re-enable the 2FA on your accounts on the authenticator app on the new device.
-If you still need a 2FA reset, please reach out to #it_help on slack with the system that needs it and the issue you are encountering.
+When you get a new device, before you get rid of the old one, make sure to install an authenticator app on the new device
+
+You will need to log into your Okta and GitLab related accounts on your laptop and authenticate with the 2FA appplication old device. Disable the 2FA for your accounts, then enable the 2FA on your accounts with the authenticator app on the new device.
+
+If you are unable to move 2FA from your old to the new device, please reach out to #it_help on Slack with which system you can't log into. 
+
+An IT Analyst will need to verify that it is you over a Zoom before doing a 2FA reset or any password resets, this is required for security purposes.
 
 ### Forgot my password
 
-We understand sometimes life happens and passwords get forgotten or deleted.
-If it is for a system that requires immediate access, please reach out on the slack #it_help channel.
-Provide as much information as possible.
-Password resets to sensitive systems such as your Google Workspace account and Okta require a zoom call to verify.
+If you require IT to reset your password and it requires immediate access, please reach out on the slack #it_help channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta. They require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
 
 ### Using GMail app on phone with Okta log in
 
