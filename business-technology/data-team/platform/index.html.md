@@ -614,7 +614,7 @@ The implementation details of these tests are documented in our [dbt guide](/han
 
 #### Trusted Data Dashboard
 
-The Trusted Data Dashboard in Sisense can be found [here](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
+The [Trusted Data Dashboard](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard) as available in Sisense.
 
 #### Test Run
 
@@ -773,7 +773,7 @@ There are 3 types of objects available in Google Data Studio:
  
 The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
  
-A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner.
+A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner. Note that [Red Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#red) should never be stored or transmitted within Google Data Studio.
 
 
 
