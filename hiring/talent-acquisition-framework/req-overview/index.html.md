@@ -163,9 +163,6 @@ If the candidate for the position is internal, you should wait until you've pres
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
-If your candidate is located in Italy, there will be additional fields for you to fill out in Greenhouse. You will need to know the job level of the current role you're offering and their most recent role, which may be the one they're in today. The image below can be a helpful tool to determining both, but please contact the Legal or Enablement teams if you're unsure. 
-![Job Levels for Italy](/images/talent_acquisition/Job_Level_Italy.png)
-
 ### **Step 9: Verbal Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
