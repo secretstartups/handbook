@@ -369,11 +369,11 @@ Adaptive Quarterly Roadmap
 
 #### Detailed Expectations for FP&A
 1. **Throughout quarter,** FP&A maintains alignment with business needs.
-FBPs, with the functional leaders, maintain a RLOA file of key incremental investments from the business
-FBPs, with the functional leader, prioritize the RLOA and develop a recommendation following the below timeline
+   - FBPs, with the functional leader(s), maintain a RLOA file of key incremental investments from the business
+   - FBPs, with the functional leader(s), prioritize the RLOA and develop a recommendation following the below timeline
 2. **During quarterly RLOA process,** FP&A team finalizes RLOA proposal to share with eGroup, and communicates decisions to functional leaders to enable business execution. Below is the timeline
    - **WD-1:** Corporate FP&A locks Prelim Forecast version and shares detailed daily calendar with FBPs
-   - **WD+1:** FBPs prepare prelim variance package and review with BPs (Async)
+   - **WD+1:** FBPs prepare prelim variance package and review with BPs (Async) to help the business prioritize the asks
    - **Acct Close +2:** Forecast pencils down
       - Corporate FP&A and VP of Finance review Forecast prior to Final Forecast Lock
       - Corporate FP&A provide Prelim Forecast vs. Final Forecast view to FBPs
@@ -391,3 +391,19 @@ FBPs, with the functional leader, prioritize the RLOA and develop a recommendati
    - **After eGroup Review Meeting,** FP&A team communicates approved incremental investments to functional leaders to begin execution
 
    _Note: WD is defined as Working Days, which are Mondays through Fridays, excluding Federal holidays._
+
+#### Q4-FY23 RLOA Timeline
+   - **From August to early November (by 11/14),** FP&A maintains alignment with business needs.
+     - FBPs, **with the functional leader(s),** maintain a RLOA file of key incremental investments from the business
+     - FBPs, **with the functional leader(s),** prioritize the RLOA and develop a recommendation following the below timeline
+   - **2022-10-31:** Corporate FP&A locks Prelim Forecast version and shares detailed daily calendar with FBPs
+   - **2022-11-01:** FBPs prepare prelim variance package and review with BPs (Async) to help the business prioritize the asks
+   - **2022-11-09:** Forecast pencils down
+      - Corporate FP&A and VP of Finance review Forecast prior to Final Forecast Lock
+      - Corporate FP&A provide Prelim Forecast vs. Final Forecast view to FBPs
+   - **2022-11-10:** Final Forecast Lock, used for guidance, tax, etc. 
+   - **2022-11-14:** FBPs finalize prioritized RLOA list and submit to Corporate FP&A
+   - **2022-11-15:** Corporate FPA creates a brief RLOA section (~2-3 slides) to include in CFO Variance Review package
+   - **2022-11-17:** At CFO Variance Meeting, FP&A team reviews RLOA proposal with CFO & VP of Finance
+   - **2022-11-21:** At eGroup Review Meeting, CFO shares proposal for formal approval and inclusion into investor guidance
+   - **2023-01-16:** Corporate FPA updates this section of the Handbook page with the timeline for the next RLOA review for Q1-FY24.
