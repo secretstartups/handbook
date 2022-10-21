@@ -174,8 +174,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-11-14 | 2022-11-18 | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
-| 2022-12-05 | 2022-12-09 | AVAILABLE - REMOTE | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
-| 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | AVAILABLE - REMOTE |
+| 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
+| 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
 | 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
 | 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
 | 2023-01-02 | 2023-01-06 | AVAILABLE - REMOTE | AVAILABLE for Shadow Alumni - REMOTE | 
