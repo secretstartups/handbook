@@ -13,8 +13,8 @@ description: "Things to know when helping customers migrate to SaaS."
 # Migrating from Self-Managed GitLab to SaaS
 
 ## Options for customers migrating from self-managed GitLab to SaaS
- - self-service ui based migration using [group import/export](https://docs.gitlab.com/ee/user/group/settings/import_export.html) and [project import/export](https://docs.gitlab.com/ee/user/project/settings/import_export.html#project-importexport)
- - api based migration using [group import/export api](https://docs.gitlab.com/ee/api/group_import_export.html) and [project import/export api](https://docs.gitlab.com/ee/api/project_import_export.html)
+ - Self-service ui based migration using [group import/export](https://docs.gitlab.com/ee/user/group/settings/import_export.html) and [project import/export](https://docs.gitlab.com/ee/user/project/settings/import_export.html#project-importexport)
+ - API based migration using [group import/export api](https://docs.gitlab.com/ee/api/group_import_export.html) and [project import/export api](https://docs.gitlab.com/ee/api/project_import_export.html)
  - Professional services automated migration using the [Congregate Automation Tool](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate)
 
 ## Why choose Professional Services for migrations to SaaS?
