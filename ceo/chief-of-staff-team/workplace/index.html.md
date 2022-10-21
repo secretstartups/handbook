@@ -81,17 +81,8 @@ GitLab's overview video on its [all-remote culture](/company/culture/all-remote/
 
 ### Presentations (slide deck)
 
-{::options parse_block_html="true" /}
 
-<div class="panel panel-gitlab-orange">
-**Updates incoming for TeamOps**
-{: .panel-heading}
-<div class="panel-body">
-
-We plan to refresh the below content in Q4-FY23 to reflect GitLab's brand refresh and the creation of [TeamOps](/teamops/).
-
-</div>
-</div>
+GitLab's Workplace team collaborated with Brand and Corporate Communications to create a **TeamOps Presentation Template** on Google Slides, entitled [Making Teamwork an Objective Discipline](https://docs.google.com/presentation/d/1jYsr0rFOEUdZlbULmM25qvLOxP7QL5A2tnhio4x3ymw/edit?usp=sharing). Please *make a copy* of this presentation to edit photos and names, personalizing it to your specific need. 
 
 You may be asked to give a presentation on how GitLab works as an all-remote team, including requests that are specific to your role (sales, engineering, finance, people, etc.).
 
