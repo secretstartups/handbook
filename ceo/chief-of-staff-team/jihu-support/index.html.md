@@ -223,7 +223,7 @@ The [Product DRI](#rd-roles) has the following responsibilities:
   * Provide regular updates and raise awareness of GitLab investment themes and roadmap
   * Disseminate JiHu plans and roadmap with the appropriate party
 * Liaise with JiHu CTO on product data
-* Be the DRI for cross-company development efforts. For example - this [confidential issue](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/186)
+* Work with stage groups to implement solutions that pertains to JiHu or China related requirements
 * Partner with Engineering DRI and Engineering Facilitators to define and maintain processes that ensures the smooth functioning between GitLab and JiHu
 
 ### Product Manager responsibilities
