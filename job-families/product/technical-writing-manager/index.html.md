@@ -118,7 +118,6 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 * Interview with Technical Writer. The interviewer will spend time learning about the experiences and challenges you've had as a manager, along with the documentation-related tooling you are comfortable with, and how you've addressed various content usability considerations.
 * Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a substantial impact on the user experience, and specific examples of large content initiatives.
 * Interview with VP of UX. The interviewer will spend time learning about the experience you have as a manager, what types of teams you have led, your management style, how you define strategy, your approach to content usability and improvement, how you've handled difficult situations, and how you've helped mentor technical writers. Be prepared to talk about your work and technical abilities, too.
-* Interview with a VP of Engineering. The interviewer will spend time learning about your leadership experience, management style, and why you want to join GitLab.
 
 ## Director, Technical Writing
 
@@ -137,7 +136,6 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 * Identify opportunities for process improvement, including automation, and coordinating the implementation and communication of these changes.
 * Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 * Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
-
 * Independently manage [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
 * Communicate significant Technical Writing strategy decisions to senior leadership.
 * Manage the Technical Writing budget with oversight from the VP of UX.
@@ -178,8 +176,3 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 * Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a substantial impact on the user experience, and specific examples of large content initiatives.
 * Interview with Senior Manager of Tech Writing. 
 * Interview with VP of UX. The interviewer will spend time learning about the experience you have as a manager, what types of teams you have led, your management style, how you define strategy, your approach to content usability and improvement, how you've handled difficult situations, and how you've helped mentor technical writers. Be prepared to talk about your work and technical abilities, too.
-
-
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
