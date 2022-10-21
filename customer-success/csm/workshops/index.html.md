@@ -8,25 +8,25 @@ title: Workshops and Enablement Sessions
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/csm/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
 ## Overview
 
-One of the tools TAMs have to speed customer onboarding, increase user adoption, and drive stage adoption is to offer their customers Workshops and/or Lunch-and-Learns (generically referred to as sessions). 
+One of the tools CSMs have to speed customer onboarding, increase user adoption, and drive stage adoption is to offer their customers Workshops and/or Lunch-and-Learns (generically referred to as sessions). 
 
 ## Frequency
 
-The TAM should offer sessions during onboarding so the customer is aware that they are available and the list of typical sessions that can be done.  Additionally, the TAM should offer a specific session when working with a customer on a stage enablement. The customer collaboration project now has a default issue that has the list of current offerings with a brief description.
+The CSM should offer sessions during onboarding so the customer is aware that they are available and the list of typical sessions that can be done.  Additionally, the CSM should offer a specific session when working with a customer on a stage enablement. The customer collaboration project now has a default issue that has the list of current offerings with a brief description.
 
 Sessions should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).  Record the date and type of session it was as well as an approximate number of attendees.
 
 ## Type of sessions
 
-There are two main types of sessions that can be offered.  Workshops are generally 1.5-2 hours and include the presentation, demo, and Q&A. These require more preparation and planning and are usually organized by the TAM in collaboration with other TAMs and SAs.
+There are two main types of sessions that can be offered.  Workshops are generally 1.5-2 hours and include the presentation, demo, and Q&A. These require more preparation and planning and are usually organized by the CSM in collaboration with other CSMs and SAs.
 
-Enablement sessions are generally 1 hour and involve presentation, demo, and Q&A and are usually given by the TAM themselves.
+Enablement sessions are generally 1 hour and involve presentation, demo, and Q&A and are usually given by the CSM themselves.
 
 ### Currently available sessions
 
@@ -57,9 +57,9 @@ If you are interested in a session that doesn't exist yet, but you're not able o
 
 ### Offering the session
 
-TAMs should offer sessions early during onboarding, and whenever working on a stage enablement. If the customer wants a session on a topic we do not already have slides for, request more time to prepare, and then work with the Customer Success team to help pull together some slides for the session. Then the newly created session can be added to the list of existing sessions available to other TAMs.
+CSMs should offer sessions early during onboarding, and whenever working on a stage enablement. If the customer wants a session on a topic we do not already have slides for, request more time to prepare, and then work with the Customer Success team to help pull together some slides for the session. Then the newly created session can be added to the list of existing sessions available to other CSMs.
 
-It is recommended to invite another GitLab team member to the session to help with notes, audience management, and Q&A. This helper could be the Solutions Architect or Strategic Account Leader for the account, or it could be a fellow TAM.
+It is recommended to invite another GitLab team member to the session to help with notes, audience management, and Q&A. This helper could be the Solutions Architect or Strategic Account Leader for the account, or it could be a fellow CSM.
 
 Consider the typical length of the session when scheduling. It is recommended to coordinate with your champion on the following information:
 
@@ -71,9 +71,9 @@ It is highly recommended to have someone from your regular cadence calls on the 
 
 ### Preparation for the session
 
-The TAM should review the available content for [Workshops](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2) and [Lunch-and-Learns](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc) for the topic requested. TAMs can use the content as-is if they feel it will meet their needs or they can make a copy of the slides and customize it for their customer's needs.
+The CSM should review the available content for [Workshops](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2) and [Lunch-and-Learns](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc) for the topic requested. CSMs can use the content as-is if they feel it will meet their needs or they can make a copy of the slides and customize it for their customer's needs.
 
-TAMs should review the speaker notes to ensure they understand each slide, and add clarifications and notes to them as needed. Ensure you have a plan for what you want to communicate for each slide, but don't try to memorize what you are going to say.
+CSMs should review the speaker notes to ensure they understand each slide, and add clarifications and notes to them as needed. Ensure you have a plan for what you want to communicate for each slide, but don't try to memorize what you are going to say.
 
 ### Conducting the session
 
