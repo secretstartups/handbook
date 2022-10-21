@@ -23,7 +23,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, Global | Sarah Sherwood | Alina Moise | Davie Soomalelagi |
 | Marketing, BDR/SDR (AMER)| Caroline Rebello | Caroline Rebello | Alice Crosbie |
 | Marketing, BDR/SDR (EMEA/APAC)| TBH, Caroline Rebello (Interim) | Caroline Rebello (Interim) | Alice Crosbie |
-| G&A, Finance, People, CEO | Maria Gore | Alina Moise |  |
+| G&A, Finance, People, CEO | TBH | Alina Moise |  |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Fernando Khubeir |
 | Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Development: Ops | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
@@ -52,7 +52,7 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 
 | Department                    | Leader      | 
 |--------------------------|-----------------|
-| Talent Acquisition         | Rob Allen |
+| Talent Acquisition         | Rob Allen / Jess Dallmar | 
 | Talent Brand and Enablement | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (Marketing) | Jake Foster / Steph Sarff |
