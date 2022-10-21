@@ -34,6 +34,8 @@ For ease of use for team members, the email domain classification has been surfa
 1. **public_email_domain_classification**: Email domain classification for the public_email field.
 1. **commit_email_domain_classification**: Email domain classification for the commit_email field.
 
+An occurrence of a NULL value in the above fields indicates a business email domain.
+
 ### Updating the Email Domain Classification table
 
 New email domains are emerging everyday, so a way to update this information is crucial. To upload the Email Domain Classification data table to our Datawarehouse we rely on the GCP Driveload process. The following steps can be used to update the Email Domain Classification data table:
