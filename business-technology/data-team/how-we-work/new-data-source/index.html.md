@@ -148,3 +148,11 @@ When the execution of the work is finished, the issue is in review and follows t
  
 ### workflow::X - blocked
 When the execution could not continue due to the need of external intervention, the issue is `blocked`. There must be a clear problem statement given and the right people need to be assigned on the shortest notice possible.
+
+## Red Data
+
+Red data is not allowed to be stored in our Data Platform (Snowflake). 
+
+When extracting new data towards Snowflake;
+- The Data Team will perform an analysis of data that is sent to Snowflake to validate whether or not there is a business justification per column/attribute.
+- For instances where Red or Customer personal data must be ingested into Snowflake, [masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking) will be applied. For instances where it is not required, it will be deleted from the platform.
