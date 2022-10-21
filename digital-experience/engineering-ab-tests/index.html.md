@@ -53,15 +53,16 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 | Issue | Test Length | Status | 
 | ------ | ------ | ------ |
-| [Update Homepage Sub Copy](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/1297) | 2022-10-05 to 2022-10-12 | Live |
-| [Pricing Page: Free SaaS Trial + Self Managed Install CTAs](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/1432) | 2022-10-11 to 2022-10-25 | Live |
+| [Homepage Featured Blocks vs Carousel](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/169) | | scheduled |
 
 ### Completed A/B Tests & Results 
 
 | Issue | Variant A | Variant B | Winner |
 | ------ | ------ | ------ | ------ |
-| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1)| [Variant A Image](source/images/digital-experience/ab-tests/remove-register-nav/variantA.png)| [Variant B Image](source/images/digital-experience/ab-tests/remove-register-nav/variantB.png) | Variant B 
-| [Add borders around pricing tiers on /pricing based on DemandBase data](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/16) | [Variant A Image](source/images/digital-experience/ab-tests/pricing-borders/pricing-variantA.jpg) | [Variant B Image](source/images/digital-experience/ab-tests/pricing-borders/pricing-variantB.jpg) | Variant B
+| [Remove 'register' from the navigation (top right) on about.gitlab.com](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/1)| [Variant A Image](source/images/digital-experience/ab-tests/remove-register-nav/variantA.png)| [Variant B Image](source/images/digital-experience/ab-tests/remove-register-nav/variantB.png) | Variant B |
+| [Add borders around pricing tiers on /pricing based on DemandBase data](https://gitlab.com/gitlab-com/marketing/digital-experience/ab-testing/-/issues/16) | [Variant A Image](source/images/digital-experience/ab-tests/pricing-borders/pricing-variantA.jpg) | [Variant B Image](source/images/digital-experience/ab-tests/pricing-borders/pricing-variantB.jpg) | Variant B |
+| [Update Homepage Sub Copy](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/1297) | [Variant A Image](source/images/digital-experience/ab-tests/home-subcopy/home-control.jpg)| [Variant B Image](source/images/digital-experience/ab-tests/home-subcopy/home-variant.jpg) | Variant B |
+| [Pricing Page: Free SaaS Trial + Self Managed Install CTAs](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/1432) | [Variant A Image](source/images/digital-experience/ab-tests/pricing-free-tier/pricing-free-tier-control.jpg)| [Variant B Image](source/images/digital-experience/ab-tests/pricing-free-tier/pricing-free-tier-variant.jpg) | Variant B|
 
 ## How do we engineer tests
 
