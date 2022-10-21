@@ -88,6 +88,10 @@ This space is only about limiting access to sensitive sales organization dashboa
 | SAFE Dashboard | AR with manager and departmental VP (or equivalent) approval | AR with manager and departmental VP (or equivalent) approval |
 | Sales Organization | AR with manager, departmental VP (or equivalent) and space owner approval | AR with manager, departmental VP (or equivalent) and space owner approval |
 
+### Tableau
+
+Access to Tableau dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, dashboards are classified as dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need. All Tableau users need prior access to the Sisense SAFE space.
+
 ### Snowflake
 
 All SAFE Data are stored in tables and views within seperate database schemas in Snowflake. Access to 1 table provides access to all SAFE tables. Access to SAFE data requires:
