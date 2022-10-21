@@ -39,8 +39,7 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
 {: #quick-links}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* [FY21 Email Marketing Database Snapshot](https://docs.google.com/presentation/d/1PGeNl3grnb1G3XFIFsck4tf-vJVL3ny0yi39Q1MhpW4/edit#slide=id.gbd5795ae24_0_18)
-* [Request for FY22 to-date email audit](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/1736)
+* [FY22 Email Marketing Database Snapshot](https://docs.google.com/presentation/d/15LWtkYRyFo0SowPLQ_t3VnkyQ0FbZs-cvEyYKgr1saA/edit#slide=id.g117f491c230_4_98)
 
 
 ## GitLab Email Calendar
@@ -86,6 +85,69 @@ In the event of an severity::1 (critical) security vulnerability email communica
 * [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
 * [CTA & UTM documentation experienece prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
 
+#### Labels for Intelligent Nurture Progress
+{: #intelligent-nurture-labels}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+We created several GitLab labels for a better organization of each asset that we are adding to the intelligent nurture.
+
+Below we explain the labels created and what each one is for:
+
+* [intel-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture&first_page_size=20): This label is global and will help us identify that the issue we are working on is directly for the intelligent nurture. All "add to intelligent nurture" issues must have this label, and it is included in the issue template.
+* [intel-nurture::write-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Awrite-copy&first_page_size=20): This label helps us know that the issue is in the process of email copy development. We cannot move on to the next step (email-build) until the copy is final.
+* [intel-nurture::email-build](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aemail-build&first_page_size=20): This label helps us to know that the email is in production. Verticurl is responsible for building the emails.
+* [intel-nurture::email-test](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aemail-test&first_page_size=20): This label tells us that the email has already been built and that the Verticurl team has sent tests to both the requesters AND the lifecycle marketing team for review. In this step we check that the links work correctly, that the content of the email is correct and that the correct utm values are used for appropriate tracking of the links. Once the email is approved, we proceed to the last step.
+* [intel-nurture::add-to-streams](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aadd-to-streams&first_page_size=20): This label helps us to identify that the issue is in its final stage where we proceed to add the email to the relevant nurture streams.
+   - **PLEASE NOTE: the requester indicates the desired streams in the description of the issue, but the Lifecycle Marketing team makes the final decision on which streams are relevant. Please reference [the stream alignment rules](/handbook/marketing/lifecycle-marketing/emails-nurture/#nurture-stream-offer-alignment) for what content type is relevant for each stream.**
+
+### Intelligent Email Nurture Stream Schedule
+{: #intelligent-nurture-stream-schedule}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The following shows the day of the week and cadence of the different streams in the Intelligent Nurture:
+
+* Enterprise
+   - AMER: Thursday, 5:00AM PDT
+   - EMEA: Tuesday, 1:00AM PDT 
+   - APAC: Tuesday, 6;30PM PDT
+   - LATAM: Wednesday, 9:00AM PDT
+   - Unknown Region: Tuesday, 9:00AM PDT
+* Mid-Market
+   - AMER: Thursday, 9:00AM PDT
+   - EMEA: Tuesday, 1:00AM PDT
+   - APAC: Tuesday, 6:30PM PDT
+   - LATAM: Tuesday, 9:00AM PDT 
+   - Unknown Region: Tuesday, 9:00AM PDT
+* SMB
+   - AMER: Thursday, 9:00AM PDT
+   - EMEA: Tuesday, 1:00AM PDT
+   - APAC: Tuesday, 6:30PM PDT
+   - Unknown Region: Tuesday, 5:00AM PDT
+* Localized
+   - Spanish: Inactive
+   - French: Tuesday, 1:00AM PDT
+   - German: Inactive
+   - Japanese: Tuesday, 5:00PM PDT
+   - Korean: Tuesday, 5:00PM PDT
+   - Portuguese: Inactive
+* PubSec
+   - PubSec Default: Wednesday, 7:00AM PDT 
+   - Civilian (CIV): Inactive
+   - Department of Defense (DoD): Inactive
+   - Federal Systems Integrators (FSI): Inactive
+   - National Security Group (NSG): Inactive
+   - SLED: Inactive 
+* Region, No Segment
+   - AMER: Tuesday, 6:00AM PDT
+   - EMEA: Tuesday, 1:00AM PDT
+   - APAC: Tuesday, 6:30PM PDT
+   - LATAM: Tuesday, 7:00AM PDT
+* Non-Demand Generation Nurture
+   - All Remote: Tuesday, 6:00AM PDT 
+
+### Intelligent Nurture Processes
+{: #intelligent-nurture-processes}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
 #### Creating a nurture email program for the Intelligent Nurture
 {: #create-nurture-email}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -119,6 +181,28 @@ Work with the Campaigns Team to indicate the appropriate streams for the offer t
    - `Activate` if it is not an upcoming event
    - `Edit Availability` if it is an upcoming event and set the "End Date" for the date of the event. This will automatically stop the email from sending when the event has taken place.
 
+#### Alignment of Offer Types (CTAs) in Intelligent Nurture Streams
+{: #nurture-stream-offer-alignment}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The following is where different offer types should align in the email nurture streams. This is based on the essence of the offers, and the maturity of the person in terms of education about GitLab (i.e. advanced workshops are **not** a fit for RAW > INQ stream as these are leads who have taken no prior action with GitLab and should be receiving top funnel content).
+
+[SEE THIS DIAGRAM FOR WHERE CONTENT IS FIT FOR THE INTELLIGENT NURTURE](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit#slide=id.g165f27d5f94_0_10)
+
+#### Adding an A/B test to Intelligent Nurture
+{: #ab-test-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+Because our intelligent nurture is setup calling to programs, we cannot use Marketo's Champion/Challenger to A/B test emails. 
+
+Instead, we should take the following steps:
+1. Build a second email and create a description of what was changed in the name i.e "Subject line test version" (or even saying the test)
+2. Add it as a random sample in the send controller as shown in the flow below (use 50% for 2 versions, or split between 100% for more versions):
+
+![Screen_Shot_2022-09-16_at_3.46.35_PM](/uploads/533b314c7f58cb045e069cbf17c7d320/Screen_Shot_2022-09-16_at_3.46.35_PM.png)
+
+3. Monitor results on an email report
+4. Document results on [A/B testing tracker](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit#gid=2079991889)
 
 #### Reading for those unfamiliar with Marketo
 {: #marketo-nurutre-reading}
@@ -169,87 +253,16 @@ Which would lead us to the next solution. Once the contacts fall into exhausted 
 {: #setup-trial-nurture}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-[Marketo Program]()
+[Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP8569A1)
 
-UTMs
+UTMs: ?utm_medium=email&utm_source=marketo&utm_campaign=trial-nurture&utm_content=(custom per email)
 
-###
-
-### Active Nurture Programs (Prior to Intelligent Nurture)
-{: #active-nurture-programs}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-#### GTM motion nurtures
-{: #gtm-motion-nurtures}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet. The Prespriptive Buyers Journey Nurtures have separate tracks for Practitioners and for Managers. They are designed so that they send the right content at the right time to the right persona (aligning with to stage of the buyers journey).
-
-- [CI Use Case Prespriptive Buyers Journey Nurture](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/809) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7537B2), sends on Wednesdays)
-    - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5239A1), sends on Thursdays)
-    - [German CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5299A1), sends on Thursdays)
-    - [Spanish CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4863A1), sends on Tuesdays)
-    - [Portuguese CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5038A1), sends on Thursdays)
-- [DevSecOps Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/901) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4864A1), sends on Tuesdays)
-- [GitOps Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2769) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5545A1), sends on Thursdays)
-- [Version Control & Collaboration Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2435) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5465A1), sends on Thursdays)
-- [AWS Partner Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4204A1), sends on Wednesdays)
-- [Jenkins Take Out Prescriptive Buyers Journey Nurture - ](https://gitlab.com/groups/gitlab-com/-/epics/1036) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6880A1), sends on Thursdays)
-    - The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution.
-- [Public Sector Digital Transformation Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1659) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6828A1), sends on Tuesdays)
-- [SMB Mixed Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/epics/2) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7116A1), sends on ?)
-
-Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to accelerate INQ > MQL conversion. [Issue for Reference >](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/670)
-
-<details>
-<summary>See inactive nurture programs here</summary>
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/7889a7fb-e1f0-4c67-92ae-7becd009625f" id="XA5ojeoO~Tej"></iframe></div>
-
-</details>
-
-### How nurture programs are set up in Marketo
-{: #nurture-program-setup}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Note: Salesforce campaigns should NEVER be created for emails or nurture programs. This is because the utms within the emails are captured on the Bizible touchpoints to tell us about this channel driving engagement.**
-
-### Nurture entry (system logic and manual flow)
-{: #nurture-entry}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Note: in our future state nurture system, leads would be nurtured appropriately through logic based on:**
-* Stage in the buyer lifecycle
-* Indicated GTM Motion(s) of interest (either through inbound source, self-selected, or segmentation)
-
-These future state nurture programs will be aligned to GTM Motions, with three streams to clearly designate the stage of the [buyer journey](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) (Awareness, Consideration, and Purchase/Decision) and therefore deliver content relevant to their stage of the buyer journey.
-
-#### Add to nurture within Marketo programs
-{: #add-to-nurture-in-program}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-With Intelligent Email Nurture launched, all net-new leads will be automatically added to their appropriate nurture program. We are still migrating existing leads into the programs, so in the meantime, for programs that were set up before 2021-12-15, there still be an `add to nurture` smart campaign. That should be updated as follows:
-
-**Update the smartlist and run:** Remove all other smartlist steps except the two noted below
-* Smart List (filter): (Must meet both criteria (ALL/AND))
-    - Member of Program: (current program, success status) - `NOTE: These are pre-built in the templates, no need to edit!`
-    - Subscription Filters: `Member of smartlist` IN `Nurture Emailable - DO NOT EDIT`
-* Flow
-    - Request Campaign - `*Air Traffic Control Automation.00 - Movement - Existing Leads Processor`
-* Schedule
-    - Select `Run Once` > Choose `Run Now` > Click `Run`
-
-Once activated, the leads will flow through the appropriate processing campaigns to put them in the right nurture. If they are already in an existing nurture program, they will not be added. That means you do not need to filter out new vs existing leads when updating the smart campaign above.
-
-#### Requesting to add leads to a nurture program
-{: #add-to-nurture-request}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-There is no need to request addition of leads to a nurture, since all leads will be in their appropriate nurture at all times.
 
 #### In Product Email Campaigns
 {: #in-product-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+**Sent through Mailgun**  
+These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
 To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
 
 To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-ZlMijqaSBA1l29WIn06Z8OAYAgX9_g9CQu3B4/edit#slide=id.g540caf0310_0_0)
@@ -269,12 +282,10 @@ To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-Zl
 We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
 
 **Who’s part of this project?**  
-- Luis Diego Dambrosio (replaced Nout Boctor-Smith) - email marketing DRI, mailgun analytics, & assist technical setup
-- Michael Karampalas (Create path)
-- Sam Awezek (Trial and add Team paths)
-- Jensen Stava (Verify path)
+- Allie Klatzkin (replaced Nout Boctor-Smith) - email marketing DRI, mailgun analytics, & assist technical setup
+- Sam Awezec (Growth)
+- Gayle Doud (Growth)
 - Growth engineers - technical setup
-- Valerie Silverthorne - copywriter
 
 **So what’s the deal?**  
 Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has 3 emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series.
@@ -292,14 +303,12 @@ Basically, we have a series of emails that deploy to net new namespaces. The goa
 
 **From email and reply-to email**  
 `team @ gitlab.com` -  which is a group inbox. Amy is also a member of this group inbox.
-
-**Mailgun**  
-These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
-
 **HTML files**  
 All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
 
 **For more in-depth information about how these emails are implemented, please view the [project epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/62) and all associated project issues.**
+
+
 
 ## Newsletter
 {: #newsletter .gitlab-purple}
@@ -432,7 +441,7 @@ All links in email sends, going to about.gitlab.com will need to be appended wit
 Below are the information from the issue template that will need to be filled out before the Campaign Manager will create the email in the appropriate system:
 
 - **Sender Name**: Typically we use GitLab Team for most outgoing communications; for Security Alerts we use GitLab Security. Choosing a name that is consistent with the type and/or content of email being sent is important, if unsure make a note and we will make recommendation.
-- **Sender Email Address**: What email address should be used?
+- **Sender Email Address**: What email address should be used? Default is info@gitlab.com
 - **Approvers**: All approvers must be listed on the email request. At least one individual who will receive the replies to the email must be listed an as approver. For example, if the email is coming from security@, someone who will receive replies to the email should be listed as one of the approvers. See approval table below.
 - **Subject Line**: 50 character max is preferred (30-40 characters for mobile devices)
 - **Email Body Copy**: Can be a text snippet within issue, clearly identified comment on issue or attach a Google Doc with copy. The copy must be approved before requesting the email.
@@ -472,6 +481,8 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+Please see our most up to date email best practices in our guide [here](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit?usp=sharing)
+
 ### Subject line best practices (and preview text)
 {: #best-practices-subject-lines}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -498,13 +509,15 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Email copy should be shorter and more conversion-oriented
-* Avoid walls of text when possible
-* Use extremely clear wording and remove words that don't provide value
-* Minimize CTAs (calls-to-action)
-* Take advantage of content hierarchy
-* Use humor when it makes sense
+* Email copy should be clear and concise. Brevity is key. Think about conversion, not sharing every detail from the LP
 * Focus on value-first content and CTAs. Ask yourself: "what's in it for the subscriber?"
+* Avoid walls of text when possible - think facts, not fluff
+* Lead with benefits and add details where appropriate
+* Use extremely clear wording and remove words that don't provide value
+* 1-2 CTAs per email is best practice (calls-to-action)
+* Take advantage of content hierarchy
+* Write for people not technology, this means you can use humor when it makes sense
+
 * Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
 
 ### Design best practices
@@ -521,6 +534,8 @@ The approval table below applies to non-Marketing emails.
 ### A/B testing best practices
 {: #best-practices-testing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+Add your tests to the [A/B testing tracker here](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit?usp=drive_web&ouid=108363637241363942191)
 
 *  Each test group should include at least 1000 people
 *  You need a bigger test group if you're testing for click-through rate versus testing for open rate
@@ -554,13 +569,13 @@ How is the open rate calculated? Number of emails opened divided by the number o
 
 Example: 200/1000 = 20% Open Rate
 
-**Click Through Open Rate:**
+**Click To Open Rate:**
 
-There are several factors which could go into a low click-through-to-open rate, such as our email design, our content, our call to action — really any element in the body of our email.
+There are several factors which could go into a low click-to-open rate, such as our email design, our content, our call to action — really any element in the body of our email.
  
-It is a little more challenging to isolate what may be causing a low click-through-to-open rate, which is why we need to set up some A/B test splits to determine the cause.
+It is a little more challenging to isolate what may be causing a low click-to-open rate, which is why we need to set up some A/B test splits to determine the cause.
  
-How to calculate the Click Through Open Rate: Unique Clicks divided by number of emails open.
+How to calculate the Click To Open Rate: Unique Clicks divided by number of emails open.
 
 Example: 50/200 = 25%
 
@@ -656,7 +671,7 @@ Also, in case of not having access to Marketo to download the report you can go 
 {: #email-templates .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Please see [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/759) for more details and to see how the email templates look.
+#### Please see [this epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/6164) for more details and to see how the email templates look.
 
 **What are email templates?** An email template is a reusable HTML file that is used to build email campaigns (according to Litmus).
 
@@ -666,11 +681,19 @@ Also, in case of not having access to Marketo to download the report you can go 
 
 | Template Name in MKTO | Use For | Image Specs | Notes |
 | ------ | ------ | ------ | ------ |
-| A - Event Invite v2.0  | Events or asset downloads | Background image - jpg 600px wide. Example here. |  Top button is not removable |
-| B - Newsletter Dark Mode v1.0 | DevOps Download developer newsletter only | The only image we swap out is the background image of the release section - 600px wide. The top image (infinity loop) is 600px wide also. | For DevOps Download newsletter only |
-| C - Event Invite 2 buttons and speakers v1.0 | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
+| A - Event Invite v3.0  | Events or asset downloads | Background image - jpg 600px wide. Example here. |  Top button is not removable |
+| B - Advanced Event Template | Larger events/assets with more modules to add with speakers; Speaker images - 300px wide  | Do not use all modules at once |
+| C - Simple email template | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
 | D - Letter format v1.0 | Any letter-like communication such as account update | N/A | N/A |
-| E - Newsletter Remote v1.0  | Remote newsletter only | TBD | N/A |
+
+| E - Newsletter Dark Mode | DevOps Download developer newsletter only | The only image we swap out is the background image of the release section - 600px wide. The top image (infinity loop) is 600px wide also. | For DevOps Download newsletter only|
+
+| F - Level Up Certification Invite Template | Level-up certification content | TBD | N/A |
+
+| Old C - still in use - Event Invite 2 buttons and speakers v1.0 | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
+
+| Old E - Newsletter Remote v1.0 - still in use  | Remote newsletter only | TBD | N/A |
+
 
 - A - Event Invite v2.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu)
 - B - Newsletter Dark Mode v1.0 **(Only for use by the DevOps Download newsletter)**
@@ -717,7 +740,7 @@ Sales Nominated automation smart lists are applied to Marketo program templates 
 
 **Review the Email**:
 
-Send sameple to the DRI for the program (i.e. workshop owner) who is responsible for testing and QAing the email. The email can be found under the `Assets` folder in the program. For some programs, the Marketo My Tokens are included in the Sales Nominated invite to make the email setup more efficient.
+Send sample to the DRI for the program (i.e. workshop owner) who is responsible for testing and QAing the email. The email can be found under the `Assets` folder in the program. For some programs, the Marketo My Tokens are included in the Sales Nominated invite to make the email setup more efficient.
 
 **Review the smartlist and schedule recurrence of email:**
 * Smart List (filter):
@@ -740,6 +763,37 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
 To cancel a send, follow [these directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
+
+## Email process for corporate conferences
+{: #corporate-conference-promotion}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+Upon request, we will work with the Corporate Events team to promote and follow-up from our sponsored corporate conferences.
+
+Promotion will only be done for Tier 1 events and events that have ancillary events added to them. We will promote to audiences who have previously attended the event, in addition to local audiences that match the persona. For full criteria and steps, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing). 
+
+The process must kick off a month before the event, to ensure we have all of the relevant information for promotion and follow-up.
+
+## Template and process for mass-uploading issues for promotional events
+{: #email-mass-upload}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+1. Duplicate [spreadsheet](https://docs.google.com/spreadsheets/d/1NW9KSx_lP-1mrx1Iidfgi42rXx1BMYFbNPVQKZmcxGE/edit?usp=sharing)    
+      Simple = 2 emails, follow-up for no show and attendee, audience sizing
+      Complex = multiple emails and follow-ups, audience sizing (think Commit)
+2. Update issue titles in the 1st column
+3. Update due dates in the 3rd column
+4. Update template to have the epic by searching ("Command/CTRL F") EPICNAME then the three dots on the side and replace with your epic name.
+
+For the following, you can update 1 issue then drag it down (at least for email descriptions):
+5. Add any additional assignees at the bottom of the issue, it'll automatically assign to you
+6. Choose any labels that you want added and add them to the bottom using /label ~"labelname"
+7. Make any adjustments to audience, email names
+8. Upload issue to the campaigns project using the import button.
+https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/uploads/c644b04f8460d6f1007e731093ff16fc/Screen_Shot_2022-08-11_at_2.10.56_PM.png 
+
+9. Check to make sure your issues uploaded correctly and are in the right epic!
+
 
 ## Adding “add to calendar” links in our emails without using 3rd party tools
 {: #email-add-to-calendar}
