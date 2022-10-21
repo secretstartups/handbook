@@ -87,6 +87,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_atx`](https://app.slack.com/client/T02592416/CLHPXPX5W) | Austin, Texas! |
 | [`#loc_australia`](https://app.slack.com/client/T02592416/CHHFS9DR7) | Australia Specific Chat |
 | [`#loc_austria`](https://app.slack.com/client/T02592416/CH49EGEHM) | A channel around the beautiful city of Vienna, come and visit us! |
+| [`#loc_avl`](https://app.slack.com/client/T02592416/C0477ERH8CF) | Asheville, North Carolina 🍂🏔️🍂 |
 | [`#loc_bali`](https://app.slack.com/client/T02592416/CQL1DF5FX) | Channel for those traveling to Bali in 2022. |
 | [`#loc_bayarea`](https://app.slack.com/client/T02592416/C03ATS0N2) | House channel for Mountain View. |
 | [`#loc_bc`](https://app.slack.com/client/T02592416/C011GM1LDDW) |  |
