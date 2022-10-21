@@ -19,14 +19,14 @@ Usability benchmarking takes a collection of related workflows, breaks them down
 Benchmarking can be a useful method for generating longitudinal, quantitative comparisons (for example, tracking the time it takes to complete a task before and after a significant change to the user interface). Because of the benefits of running benchmarking studies several times, it can be useful to think of benchmarking as a research *program*, as opposed to a one-off *activity*. This is how we tend to think of it at GitLab.
 
 ## Benchmarking at GitLab
-Benchmarking is a thorough and time-intensive undertaking that requires a high degree of rigor from the research lead. This section lists some guidelines and best practices to ensure the quality and uniformity of our benchmarking efforts, while also reducing 'start-up costs' for new benchmarking efforts.
+Benchmarking is a thorough and time-intensive undertaking that requires a high degree of rigor from the research lead. This page lists guidelines and best practices to ensure the quality and uniformity of our benchmarking efforts and measues, while also reducing 'start-up costs' for new benchmarking efforts.
 
 ## Anatomy 
 Every benchmarking study has a similar 'skeleton' - the basic elements one needs in order to successfully run the study. Typically, these are:
 
 - Protocol: The blueprint for each session that you run. This includes the things you (or the moderator) will say to each participant to introduce and explain the study, including each question you will ask and in what order. It generally serves as the script by which you conduct each session.
 - Tasks: These are the discrete tasks that you will ask the participant to perform and that you will measure for your study.
-- Metrics: Before your study begins, be explicit about what data you are gathering, which metrics you plan to report on, and the reasoning behind your methodology.
+- Metrics: Before your study begins, be explicit about what data you are gathering, which metrics you plan to report on, and the reasoning behind your methodology. With usability benchmarking, it's important to report out the same metrics being used across other benchmarks. However, additional metrics can also be reported out at the stage level if they add value.
 - Timeline: Planning, conducting, and analyzing a benchmarking study takes time. Creating a timeline for yourself and your stakeholders keeps the study on track and keeps your team informed.
 
 ## Planning for a benchmarking study
@@ -143,14 +143,14 @@ Average the severity score for each task, and assign the overall severity accord
 For example, pretend you have 10 participants in a study. For task A, the severity scores on the individual runs are *1, 4, 1, 2, 2, 3, 4, 5, 1, 3*, which sums to 26. Divide by 10, and you'll get the average of 2.6 and a severity assignment of *2: Critical* for that task. 
 
 #### Per-task overall grade calculation
-For each task, calculate a final grade using the criteria below. **Note:** This is an example. There are other potential ways to grade your study that might make more sense for your team or situation.
+For each task, calculate a final grade using the criteria below. 
 
 1. Start with the number of completions for each task (for example, you might have 15 completions from 20 participants).
 1. Add the average CES score for that task to the number of completions. (Your avg. CES might be 5/7, so 5 + 15 = 20).
-1. Subtract the avg error count from this running total (if avg. error count = 2, running score becomes 20-2 = 18).
-1. Divide this number by the total possible points (total possible is the number of participants plus the highest possible CES score, in our case 20 + 7 = 27). For our example, we have 18 points out of 27, so 18/27 = 0.67.
-1. Multiply the result by 100 (to convert from a decimal) - so 0.67 * 100 = 67.
-1. Use a letter-grading rubric (90-100 = A, 80-89 = B, and so on) to get your final grade: 67 = D. 
+1. Next, add the average severity score for that task. (Take the 2.6 from above, for a score of 22.6).
+1. Divide this number by the total possible points. Here, the total possible is the number of participants (20), plus the highest possible CES score (7), plus the highest (best) severity score (5). in our case 20 + 7 + 5 = 32). For our example, we have 22.6 points out of 32, so 22.6/32 = 0.70.
+1. Multiply the result by 100 (to convert from a decimal) - so 0.70 * 100 = 70.
+1. Use a letter-grading rubric (90-100 = A, 80-89 = B, and so on) to get your final grade: 70 = C. 
 
 Here's our above example in table form:
 
@@ -158,10 +158,9 @@ Here's our above example in table form:
 |-------|--------|---------|
 | Number off completions (out of total # of participants) | - | 15 (of 20) |
 | Avg. CES for task (of 7) | add to completions | avg CES = 5, running score = 20 |
-| Avg. error count | subtract from total | avg. errors = 2, running score = 18 |
-| Running total | Divide by total possible | 18 / 27 = 0.67 |
-| Decimal result | multiply by 100 | 67 |
-| Integer result | map to grading scale (letter grades in this case) | 67 = D |
+| Running total | Divide by total possible | 20 / 27 = 0.74 |
+| Decimal result | multiply by 100 | 74 |
+| Integer result | map to grading scale (letter grades in this case) | 74 = C |
 
 #### Timeline
 Preparing and conducting a benchmarking study takes time. Below is a sample timeline for starting a typical benchmarking program and running the first study. 
@@ -246,7 +245,7 @@ A: Rather than aiming for a specific score off the bat, what you really want to 
 
 A: As it stands, no. You should consider maturity during the analysis and when setting expectations, but benchmarking just measures the current experience, however mature it is at the time.
 
-**Q: How do designers process and manage the recommendations?**
+**Q: How do Product Designers process and manage the recommendations?**
 
 A: For benchmarking, the UX Researcher is responsible for much of the 'processing'. The UX Research team has an [FY23 objective](https://gitlab.com/groups/gitlab-org/-/epics/7367) to better utilize actionable insights. One of the main outputs of benchmarking is a set of recommendations that will then go through the process of turning into actionable insights or informative insights. Part of this [process](https://about.gitlab.com/handbook/product/ux/ux-research-training/research-insights/#how-to-document-actionable-insights) involves categorizing actionable insights into either 'exploration needed' or 'product change' categories, each of which becomes an issue with this label.
 
@@ -263,3 +262,7 @@ A: No, not at this time. To use the analogy above, [Competitive usability evaula
 **Q: How can my team request a benchmarking study?**
 
 A: Speak with the UX Researcher on your team to get the process started!
+
+**Q: What can I change about the benchmark study protocol?**
+
+A: A key charactertistic of a benchmark study is consistentcy. However, flexibility can exist in many ways, such as: driving efficiencies with the data, workshopping the results to collaborate on the recommendations, how you shape your issues/epics, your storytelling, etc. You can even gather additional data around your tasks, too. If you would like to make a proposal for anything else, such as the metrics captured, start a Google document. In the Google document proposal, include the proposed change, the benefit of the change, the impact of the change, potential concerns you may be introducing, and how might that change get executed. 
