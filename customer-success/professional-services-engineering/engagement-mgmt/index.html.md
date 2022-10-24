@@ -56,3 +56,4 @@ Check out our team of Engagement Managers on our [team page](https://about.gitla
 - [Engagement Scoping Information](scoping-information/)
 - [SOW Creation](sow-processing/)
 - [Quote Creation process for opportunities with both Custom Services and Fixed Price Training on a single SOW](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#creating-a-professional-services-quote-for-scopedcustom-education-or-services)
+- [Transacting ProServ business through AWS Marketplace](aws-marketplace/)
