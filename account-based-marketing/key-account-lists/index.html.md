@@ -137,7 +137,7 @@ As part of the development of our ideal customer profile, we purchased data from
 
 | Data point | Salesforce field | Description & how to use the data |
 | ------ | ------ | ------ |
-| Number of developers | `Aberdeen Ultimate Parent Developer Count`  | This number is the total number of current developer contacts that Aberdeen has in their database for all sites of a company.  Because it is impossible to have a database of ALL contacts at a company, we look to this data point to verify if an account has over 500 developers IF the account has a number >500 in this field but we don't exclude an account from our TAM if thecount is lower than 500 due to the nature of the data point, rather, we go to our next best data point to verify. |
+| Number of developers | `Aberdeen Ultimate Parent Developer Count`  | This number is the total number of current developer contacts that Aberdeen has in their database for all sites of a company.  Because it is impossible to have a database of ALL contacts at a company, we look to this data point to verify if an account has over 500 developers IF the account has a number >500 in this field but we don't exclude an account from our CSM if thecount is lower than 500 due to the nature of the data point, rather, we go to our next best data point to verify. |
 | Competitive technology | `Aberdeen Ultimate Parent Technology Stack` | This field identifies if a company has a certain technology in their technology stack that is part of our ideal customer profile |
 | Cloud provider | `Aberdeen Ultimate Parent Cloud Provider` | Tells us if an account has AWS, GCP, or both as their cloud provider. |
 -->

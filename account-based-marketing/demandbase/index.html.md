@@ -446,7 +446,7 @@ FMMs should be filling out the [SDR request template](https://gitlab.com/gitlab-
 In order to make a Workshop functional there are a number of teams that have to collaborate. They are (but not limited to):
 
 - SA’s & SA Leadership - Workshop Creation and Validation
-- TAM’s & TAM Leadership - Staffing
+- CSM’s & CSM Leadership - Staffing
 - Digital Marketing - Ad Asset Creation & Ad Purchase
 - Demo Environment Team (Jeff and James)
 - PMM’s (If Necessary)
