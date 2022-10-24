@@ -44,7 +44,7 @@ _The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and 
 * [How to create an opportunity/build a quote? ](/handbook/sales/field-operations/sales-operations/deal-desk/)
 * [Order requirements](/handbook/sales/field-operations/order-processing/)
 * [Contacting the Legal team](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
-* [Questions about licenses and plans](/handbook/support/internal-support/#common-internal-requests---sales-team--technical-account-managers--accounts-receivable)
+* [Questions about licenses and plans](/handbook/support/internal-support/#common-internal-requests---sales-team--customer-success-managers--accounts-receivable)
 * [Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)
 
 ## Communicating with Billing
