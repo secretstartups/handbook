@@ -735,20 +735,17 @@ _Note: Intentionally hoarding knowledge is in direct conflict with our [transpar
 
 ## Process To Determine Key Talent
 
-The first time we assessed Key Talent in March FY'22, Key Talent was determined at the ["all-directs" level](https://about.gitlab.com/company/team/structure/#all-directs). The All-Directs group is made up of anyone who reports directly to the e-group. It is made up of some ICs, some managers, some directors, and some senior leaders. 
+It is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when calibrating key talent and making final recommendations in the organization. There are several factors that can help determine the level at which key talent should be assessed, including things like reporting lines and span of control. As a general rule, if a people manager meets the following requirements, key talent calibrations should start at their level:
 
-It is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. There are several factors that can help determine the level at which key talent should be assessed, including things like reporting lines and span of control. As a general rule, if a people manager meets the following requirements, key talent recommendations should start at their level:
 - Senior Manager level or above
 - 20+ direct and indirect reports
 
 The process to determine Key Talent is as follows: 
 
-   1. Senior Managers (if applicable), Directors, and Senior Directors can propose Key Talent to their manager and ultimately [All Directs](https://about.gitlab.com/company/team/structure/#all-directs) leader by highlighting team members in their division's key talent sheet. The fields that will be captured mirror [this template for the sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit#gid=0) explaining how team members meet the Key Talent [criteria](/handbook/people-group/talent-assessment/#key-talent). 
-   2. The Senior Manager (if applicable), Director, Senior Directors, VP, and People Business Partner (PBP) discuss and calibrate the Key Talent nominations.
-   3. All proposals are gathered in one overview sheet for the Department. 
-   4. The PBP can use this sheet to review distributions levels across diversity factors and department/team/division.
+   1. Direct managers make initial key talent recommendations in Workday. The direct manager should include the key talent recommendation along with the Performance and Growth Potential recommendation. The [key talent criteria](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria) that is met should be noted in Workday.
+   1. During sub-department calibration sessions, Senior Managers+ should calibrate on the initial key talent recommendations and make adjustments as appropriate, keeping in mind both [key talent criteria](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria), and number of individuals identified as key talent, as key talent makes up only ~10% of team members company-wide.
+   2. The Senior Manager (if applicable), Director, Senior Directors, VP, and People Business Partner (PBP) discuss and calibrate the Key Talent nominations at the department level calibration sessions.
    5. A final proposal goes to the E-Group member who adds in their Key Talent and reviews for final approval on Division level.
-   6. PBP and E-Group member deliver sheet to Total Rewards to be uploaded in BHR.
 
 ## Organizational Value
 
