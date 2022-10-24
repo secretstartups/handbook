@@ -50,7 +50,7 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 
 <details>
 <summary markdown="span">Quick Links</summary>
-- [Partner Guide](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)
+- [Partner Guide (internal-only)](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)
 - [Gitlab Partner Portal](https://partners.gitlab.com/English/)
 - [PHD Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/4547475?label_name%5B%5D=Partner%20Help%20Desk)
 - [Channels Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel)
@@ -78,6 +78,15 @@ _These links are useful to share with authorized reseller partners who already h
 </details>
 
   
+## Creating a Partner Portal Login
+_This information can also be found in the Partner Guide [internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)_
+If a partner organization already exists in our system (Impartner/SFDC), but a new rep needs a login, the instructions are fairly simple. That person should visit our [partner portal](partners.gitlab.com), and scroll down to the login section. On the left side of the page, there's an option to "Request Portal Access."   
+
+![PHD_HB_Request_Portal_Access](/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png) 
+
+The partner will be directed to a page that asks them to confirm the company they work for. After they confirm, they should click next, and fill in their information. After submitting the information, they'll receive login credentials.
+
+
 _More Information to Come!_  
 
 
