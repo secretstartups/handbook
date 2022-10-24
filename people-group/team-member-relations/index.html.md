@@ -144,8 +144,5 @@ Since situations differ, managers should immediately reach out to a team member 
 
 Please review the [underperformance](https://about.gitlab.com/handbook/leadership/underperformance/) page in the handbook for further information regarding managing team member performance.  
 
-### Reasonable Accommodation Management
-
-The Team Member Relations team will receive and manage all requests or discussions for [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation), on a global scale. The Team Member Relations team will follow the stated accommodation process as listed in the People Operations Internal Handbook, [Reasonable Accommodations](https://gl-people-operations.gitlab.io/internal-handbook/team_member_relations/reasonable_accommodation/) section.
 
 
