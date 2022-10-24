@@ -22,7 +22,7 @@ description: "Describes the processes for scoping migrations."
 
 This page describes scoping migrations from GitLab, Bitbucket Server or GitHub (Enterprise or .com) to a destination GitLab instance (Self-Managed or SaaS).  The migrations typically utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately. 
 
-Using the [services calculator](https://services-calculator.gitlab.io/), an SA or CSM/TAM can create scoping issue, and work with an Engagement Manager to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the SCM Migration Scoping Questions, which can be previewed below
+Using the [services calculator](https://services-calculator.gitlab.io/), an SA or CSM/CSM can create scoping issue, and work with an Engagement Manager to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the SCM Migration Scoping Questions, which can be previewed below
 
 <!--DEBT: below should be embedded from the SSOT locaed https://gitlab.com/services-calculator/services-calculator.gitlab.io/-/blob/master/make-ps-creates.py#L25-->
 

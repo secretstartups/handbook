@@ -15,7 +15,7 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
 ![](./ta-roadmap.png)
 ### Pre Sales
 Working with Professional Service Pre-Sales to provide:
- 1. Assistance to Sales Area Managers, Solution Architects, Technical Account Managers and Professional Services Engagement Managers providing technical sales.
+ 1. Assistance to Sales Area Managers, Solution Architects, Customer Success Managers and Professional Services Engagement Managers providing technical sales.
        - Follow meddpicc sales qualification methodology
        - Become a trusted advisor to the customer early in the qualification period
        - Understand the [Customer Journey](https://about.gitlab.com/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)

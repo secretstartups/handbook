@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: "Engaging with Partners"
 ---
 
-## Process for Engaging with Partners in [CSM-Assigned](/handbook/customer-success/csm/customer-segments-and-metrics/#tam-assigned-segment) Customer Accounts
+## Process for Engaging with Partners in [CSM-Assigned](/handbook/customer-success/csm/customer-segments-and-metrics/#csm-assigned-segment) Customer Accounts
 
 
 

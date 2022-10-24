@@ -96,7 +96,7 @@ A variety of product usage statistics are pushed back from Gainsight to Salesfor
 
 <br>
 
-## TAM Actions
+## CSM Actions
 
 ### Viewing all Unknown Self-Managed Instances
 

@@ -31,7 +31,7 @@ _Note_: *To increase the size of the diagram, press "full screen" icon in the to
 
 Strategic Outcomes play a key role in the overall Strategic Solution Selling process. The below points provide a short introduction.
 
-**Roadmap** - shows key milestones focusing on GitLab solutions and capabilities. The roadmap should be aligned with the customer's business strategy and key initiatives and be supported by the IT / Business alignment deliverables. Additionally, the roadmap will be very beneficial for the Technical Account manager (TAM) to understand the required next steps and the strategic decisions clearly.
+**Roadmap** - shows key milestones focusing on GitLab solutions and capabilities. The roadmap should be aligned with the customer's business strategy and key initiatives and be supported by the IT / Business alignment deliverables. Additionally, the roadmap will be very beneficial for the Technical Account manager (CSM) to understand the required next steps and the strategic decisions clearly.
 
 **Stakeholders** - identified essential technical and business stakeholders who will drive the initiatives, pre-sales and post-sales engagement. 
 From the Solution Architecture point of view, it is important to identify the technical decision makers, internal advocates or champions, influencers, as well as saboteurs (the person who is benefiting from the current solution). 

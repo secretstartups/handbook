@@ -69,7 +69,7 @@ Here are the main labels specific to the Education Practice Management projects.
 1. When new Education Services are launched they include external communications to GitLab ecosystem as per the Marketing Strategy, including:
     * Nurture campaign emails
     * In-product banner
-    * Recommended by SA or TAM
+    * Recommended by SA or CSM
     * Included on Training Tracks page
     * Included on Education Services pages
     * Mentioned in product release updates
@@ -85,7 +85,7 @@ Here are the main labels specific to the Education Practice Management projects.
 * **Community and Evangelism**:
     * **GitLab Heros**: Pilot with GitLab Heros to test out certifications. Have Heros participate in training in advance of commit and then iterate based on that. Offer trainings for free and offer free exam to get gitlab certified ahead of time (John Coghlan is contact)
     * **GitLab Evangelism team**: Collaboration initiatives TBD
-* **Add to Customer Success Plan**: Make certifications part of success plan from TAM. Set metrics against percentage of users who complete certifications
+* **Add to Customer Success Plan**: Make certifications part of success plan from CSM. Set metrics against percentage of users who complete certifications
 * Offerings integrated into customer adoption nurture campaign
 * In-product awareness
 * Direct marketing on 3rd party platforms/communities where target audience lives

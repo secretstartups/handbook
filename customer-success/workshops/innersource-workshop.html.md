@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Innersource Workshop"
-Description: "Guidance for TAMs on leading innersource workshops and deep-dives."
+Description: "Guidance for CSMs on leading innersource workshops and deep-dives."
 ---
 
 ## On this page

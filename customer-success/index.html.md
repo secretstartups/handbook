@@ -82,7 +82,7 @@ See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-t
 ### Customer Success Managers
 
 - [Customer Success Manager handbook](/handbook/customer-success/csm/)
-- [Commercial CSM handbook](/handbook/customer-success/comm-sales/#technical-account-managers)
+- [Commercial CSM handbook](/handbook/customer-success/comm-sales/#customer-success-managers)
 
 ### Demo Systems
 

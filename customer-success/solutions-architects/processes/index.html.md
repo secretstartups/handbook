@@ -84,12 +84,12 @@ handbook page.
 
 ### Working Agreements
 
-Enterprise Solutions Architects typically support sales teams made up of Sales Development Representatives, Strategic Account Leaders and Technical Account Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:
+Enterprise Solutions Architects typically support sales teams made up of Sales Development Representatives, Strategic Account Leaders and Customer Success Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:
 
 1. **Customer response time for emails and meeting followups** I will always do my best to provide same-day responses to customer inquiries and follow ups unless otherwise noted. I like to provide customers top-notch service, but interruptions can affect that target. I will use my out of office when traveling so customers can expect delayed responses during those times. Feel free to contact me if it's approaching the end of the day and you didn't see me address a customer request. Slack is the easiest way to find me most of the time.
 1. **Delivery Excellence** If the nature of my response requires a top-notch service needing me to contextualise my response in better and higher quality to our customers, I will collaborate with my GitLab sales team and set reasonable timelines for completions. Examples could be customized and tailored summaries of technical guidance as per our documentation (not just a url), suggested reference solutions architectures, and/or integrations with third-party technologies to GitLab. 
 1. **Calendar** Schedule things as necessary right on my calendar during working hours - I'll do my best to keep my calendar up to date. However, if you see only one empty slot for a day or if it looks like the meeting would be back to back with something else, please check with me before confirming dates and times with the customer. If you want me at my best for you, I will need time to prepare and followup. If we schedule back to back, I've found I'm often late to arrive due to the last meeting, flustered as I context shift, lacking answers for known questions, unprepared with demo environments that were altered in the last call, etc.
-1. **Regular communication** A weekly strategy hour-long call with the SA, SAL, SDR and TAM is preferred. If more frequent synchronous communication is desirable or required, we should work together as a team to identify a viable cadence, required attendees, convenient time and agenda for those calls. In either of those regular communication methods, documenting discussion points and agreements is essential.
+1. **Regular communication** A weekly strategy hour-long call with the SA, SAL, SDR and CSM is preferred. If more frequent synchronous communication is desirable or required, we should work together as a team to identify a viable cadence, required attendees, convenient time and agenda for those calls. In either of those regular communication methods, documenting discussion points and agreements is essential.
 1. **Elevated conversations** The more we focus on value and stay away from very deep technical and troubleshooting conversations, the more I can help you achieve target sales. I'm happy to review and contribute to business plans and strategies so we remain in sync.
 1. **Professional Services** After careful assessment of the clients needs to drive faster adoption, I'm happy to recommend and propose required services for prospects and customers. I will write the initial SOW and get approvals from the Professional Services team.
 1. **Travel** While strategic enterprise sales absolutely require travel, each day on the road can increase the volume of work and calls on other days of the week as my dialogs with customers often require extensive time commitments to research and model specific customer solutions. Please plan strategically when looking at on-sites, considering that I support at least two sales teams in my region. Additionally, please work with the customer when arranging for an on-site (or F2F) visit with 1 week's notice. This will allow me to ensure my commitment to attend and take alternative arrangements for family and other matters if needed.
@@ -100,10 +100,10 @@ Enterprise Solutions Architects typically support sales teams made up of Sales D
 
 1. **Salesforce**
 [To-do] Add info on views and reports to use during the sales cycle. Also, guidance on SA being listed on opportunities and accounts (there is not any info in our current handbook)
-1. **Gainsight** Primarily for account planning in partnership with SAL and TAM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](/handbook/sales/gainsight/account-planning/) page for details.
+1. **Gainsight** Primarily for account planning in partnership with SAL and CSM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](/handbook/sales/gainsight/account-planning/) page for details.
 1. **Slack** Create a public internal team slack channel for your cross-functional team. This will allow you to collaborate easily without sending DM's.
 1. **Google Drive** There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder. Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
-1. <b>[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)</b> may be used for a POV and/or TAM collaboration with a customer post-sale.
+1. <b>[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)</b> may be used for a POV and/or CSM collaboration with a customer post-sale.
 1. <b>[Chorus.ai](https://chorus.ai/)</b> is used to record meetings. The GitLab Notetaker will automatically join meetings with people outside of GitLab once your account is set up.
 
 ### Account Planning 
@@ -152,13 +152,13 @@ Solution Architects should participate in [technical discovery](#technical-disco
 - [Security Audits](https://about.gitlab.comhandbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html)
 - [SOW Scoping with Professional Services] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 
-SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
+SA's may also work in tandem with a CSM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a CSM assigned.
 
-#### [SA/TAM Engagement Overlap]
+#### [SA/CSM Engagement Overlap]
 
-- On a high level note, SAs are the pre-sales advisors for our prospective as well as existing customers and TAMs manage the post-sales relationship of existing customers and are responsible for the GitLab adoption.  
+- On a high level note, SAs are the pre-sales advisors for our prospective as well as existing customers and CSMs manage the post-sales relationship of existing customers and are responsible for the GitLab adoption.  
 
-Further details can be found here: (https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-technical-account-managers)
+Further details can be found here: (https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers)
 
 #### Technical Discovery and Demo Preparation
 
@@ -236,14 +236,14 @@ SA engagement for customer interactions, RFP's, audits and more ([how to engage 
 APAC SAs are aligned regionally into regions such as ANZ, SEA (South-East Asia), India, South Korea and Japan in close alignment to the Strategic Account Leaders, Commercial AEs and Channels Managers territories. Teams collaborate to the standards [Working Agreements](#working-agreements). 
 
 ### Alliances SA Engagement Model
-The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / TAM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
+The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / CSM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
 
 ### Channel SA Engagement Model
 The Channel SA's are aligned globally with the Channel program team as well as regionally with Channel Sales Directors and Channel Account Managers. Channel SA's are primarily focused on developing Partner relationships as opposed to direct Customer relationships.  Our primary community served are the regional Channel Sales Directors and their Channel Account Managers (CAMs), Partner teams, and our own managment.  Generally for direct customer opportunity support, engage the appropriate GitLab SA community for your customer.  Channel SA's can provide backup to the Customer SA community in support of a Partner aligned opportunity.  
 
 Most Opportunity based enagement should start with the CAM and they should identify the appropriate Channel SA to engage.  If you do not know the CAM for your account / partner reach out via the `#channel-sales` slack channel for general sales questions about working with partners or finding help with a specific channel opportunity.  
 
-In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / TAM.  For more details, click on [how to engage a Channel SA](/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
+In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / CSM.  For more details, click on [how to engage a Channel SA](/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
 
 ### Issue Creation Details
 

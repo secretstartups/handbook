@@ -45,20 +45,20 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - Provide adoption insights to monitor and manage customer health and experiences 
 - Measure quality of processes and methods like onboarding, enablement content, and adoption playbooks
 - Leverage customer health to manage account plans and assist planning and forecasting
-- Provide efficiency through automation in both TAM-led and digitally-led engagement throughout the customer journey
+- Provide efficiency through automation in both CSM-led and digitally-led engagement throughout the customer journey
 - Identify customers who are at risk of attrition or churn, as well as identify potential expansion opportunities (i.e., license and/or subscription tier)
 
 ## Use Cases
 *Note: The use cases, approaches, and metrics below include current and planned use cases. The following are some examples of how GitLab may use operational data. Use cases may also be dependent on customer settings or consents the customer has provided to GitLab.* 
 
 #### Identifying Expansion Opportunities
-1. Triggered CTA (call to action) and associated playbook for a TAM when a customer begins to adopt a new use case such as scanning. Often the central DevOps teams are not up to speed on how all of their users are using the platform. These these playbooks will guide the TAM in exploring the expansion with the customer and optimizing for this additional use case across the customer's broader user base.
+1. Triggered CTA (call to action) and associated playbook for a CSM when a customer begins to adopt a new use case such as scanning. Often the central DevOps teams are not up to speed on how all of their users are using the platform. These these playbooks will guide the CSM in exploring the expansion with the customer and optimizing for this additional use case across the customer's broader user base.
 
 #### Identifying Enablement Opportunities
 1. Each customer's use case adoption will be measured against a maturity matrix/score, enabling customized enablement roadmaps per use case per customer based on areas of potential improvement
 
 #### Identifying & Mitigating Risk
-1. Triggered alerts in Gainsight to notify a TAM to take action when there are concerning patterns within the month over month operational data.  
+1. Triggered alerts in Gainsight to notify a CSM to take action when there are concerning patterns within the month over month operational data.  
 1. Reporting and alerts when adoption across a use case goes from 'Green' to 'Yellow' or 'Red', indicating potential movement from a team off of the platform
 
 
@@ -73,7 +73,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Success Planning and Outcome Delivery
 
-- When a TAM is engaged, the usage stats will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
+- When a CSM is engaged, the usage data will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
 - In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](/handbook/customer-success/csm/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey. 
 
 #### Onboarding
@@ -83,11 +83,11 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 #### Adoption and Expansion
 
 - In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on operational data. Depending on the adoption progress, resulting actions could be:
-  - TAM may provide enablement content (product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
-  - TAM engages with customers to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
-  - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage statistics.
+  - CSM may provide enablement content (product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
+  - CSM engages with customers to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
+  - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage data.
   - When mature adoption of desired use case(s) is complete, we may recommend additional use cases or capabilities that would provide added value to the customer. 
-- The customer's services usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
+- The customer's services usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the CSM, sales representative, or digitally. 
 
 #### Process and Playbooks
 
@@ -124,7 +124,7 @@ The collection and use of operational data will governed in accordance with the 
 ## Relevant Links
 
 - [Customer Success Vision Page](/handbook/customer-success/vision/)
-- [Operational Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for TAM and digital engagement
+- [Operational Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for CSM and digital engagement
 - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions on how each product usage health score is calculated
 - [License Utilization in Gainsight](/handbook/customer-success/product-usage-data/license-utilization/): includes definitions and calculation methodology for License Utilization
 - [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)

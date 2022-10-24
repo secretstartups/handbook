@@ -28,7 +28,7 @@ When first discussing a Secure Workshop with your customer, you can use these po
 - The Secure Workshop is tailored to your interest in Secure capabilities.
 - We will work with you to determine which information to cover, and the objectives you are looking to achieve with Secure.
 - We will work with you to determine when to schedule the workshop, who to invite, and what to expect.
-- Your TAM will deliver the workshop and answer questions and may bring additional team members for support.
+- Your CSM will deliver the workshop and answer questions and may bring additional team members for support.
 - Depending on the number of topics to be covered the workshop, length will vary, but you should plan for a minimum of 60 minutes.
 
 ### Discovery Questions
@@ -55,7 +55,7 @@ The materials for this workshop are intended to be delivered based on the custom
 
 The slide decks provided contain information for the entire Secure stage. Please make a copy of the deck(s) you need for your workshop and tailor the content to the features you'll be covering with the customer.
 
-- [Secure Workshop](https://docs.google.com/presentation/d/1lot1zN4p4dBUcnRNnsxQ-nj0f_NLhkk1vS7LUnRkXA0/edit#slide=id.g600299cddc_0_0) _This deck is built by the TAM team and provides the slides needed to deliver the workshop directly, with a talk track and click-through demo._
+- [Secure Workshop](https://docs.google.com/presentation/d/1lot1zN4p4dBUcnRNnsxQ-nj0f_NLhkk1vS7LUnRkXA0/edit#slide=id.g600299cddc_0_0) _This deck is built by the CSM team and provides the slides needed to deliver the workshop directly, with a talk track and click-through demo._
 - [GitLab Security & Compliance Capabilities](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit?usp=sharing) _This deck is built by product marketing and will likely be best used as an initial overview of Secure, either as part of selling the workshop or as a basic introduction_.
 
 ### Team Support

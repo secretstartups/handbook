@@ -26,29 +26,29 @@ For more information on general Product Usage Reporting, see [Using Product Usag
 | Field Name | Description | Best Practices | Reference |
 |:---|:---|:---|:---|
 | [GS] Customer Conversion Source  | The purpose is understanding where the customer came from — this is about sourcing (e.g., marketing/SDR'ing as an analogy). | During customer onboarding, these fields should be filled out in Gainsight. | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/) |
-| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License stats are in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License stats are not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.<br>Required TAM action: confirm Cloud License stats are in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) |
-| [GS] Geo? | Is your customer using Geo? Manually filled by the TAM |  | [Link](https://about.gitlab.com/solutions/geo/) |
+| [GS] First Value Date | Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is a manual input on the customer's Attributes section of the C360. | If Cloud License stats are in Gainsight, the First Value Date will be automatically populated by the system when Known License Utilization meets or exceeds 10%. If Cloud License stats are not available, it is the responsibility of the CSM to manually update the date field based on their best estimate.<br>Required CSM action: confirm Cloud License stats are in Gainsight, if not, then manually update the First Value Date | [Link](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) |
+| [GS] Geo? | Is your customer using Geo? Manually filled by the CSM |  | [Link](https://about.gitlab.com/solutions/geo/) |
 | [GS] GitLab Issue Link | Account related Gitlab Issue(s) |  |  |
-| [GS] Google Doc Notes | Google Doc Notes URL Manually filled by the TAM |  |  |
-| [GS] High Availability? | Does your customer require High Availability (HA) solutions and/or zero-downtime upgrade? Manually filled by the TAM |  | [Link](https://about.gitlab.com/solutions/reference-architectures/) |
-| [GS] Hosting | What is their (primary) hosting setup? Manually filled by the TAM |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#hosting) |
+| [GS] Google Doc Notes | Google Doc Notes URL Manually filled by the CSM |  |  |
+| [GS] High Availability? | Does your customer require High Availability (HA) solutions and/or zero-downtime upgrade? Manually filled by the CSM |  | [Link](https://about.gitlab.com/solutions/reference-architectures/) |
+| [GS] Hosting | What is their (primary) hosting setup? Manually filled by the CSM |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#hosting) |
 | [GS] Last Activity Date | This field reflects the latest Call, Meeting, or Email activity entry logged for the customer. See handbook for details |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
-| [GS] Last TAM Activity Date | Last activity as recorded in GS by TAMs to track synchronous conversations with their customer |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
+| [GS] Last CSM Activity Date | Last activity as recorded in GS by CSMs to track synchronous conversations with their customer |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
 | [GS] Lifecycle Stage | Each customer deployment goes through the following lifecycle stages: <br>Onboarding<br>Implementation<br>Adoption<br>Optimize & Grow |  | [Link](https://about.gitlab.com/handbook/customer-success/vision/#lifecycle-stages) |
-| [GS] Provider | Logs what (cloud) provide the customer uses or if they’re on-premises. Manually filled by the TAM  |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#provider) |
+| [GS] Provider | Logs what (cloud) provide the customer uses or if they’re on-premises. Manually filled by the CSM  |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#provider) |
 | [GS] Slack Channel Link | Customer slack channel URL |  |  |
-| [GS] Summary | This is a general summary field for TAMs to add relevant and helpful information to manage the account.  |  | [Link](https://about.gitlab.com/handbook/sales/gainsight/account-planning/#the-account-snapshot) |
-| [GS] TAM Prioritization | This field is used to prioritize accounts, usually for renewals or expansion opportunities. See handbook for details |  | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data) |
+| [GS] Summary | This is a general summary field for CSMs to add relevant and helpful information to manage the account.  |  | [Link](https://about.gitlab.com/handbook/sales/gainsight/account-planning/#the-account-snapshot) |
+| [GS] CSM Prioritization | This field is used to prioritize accounts, usually for renewals or expansion opportunities. See handbook for details |  | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data) |
 | [GS] Total Number of Account Plans | Total number of account plans recorded in the record |  |  |
 | [GS] Total Number of Success Plans | Total number of success plans recorded in the record |  |  |
-| [GS] Triage Issue URL  | Deep link to triage issue. Remove link once triage period is complete. Manually filled by the TAM | Quick link to the GitLab triage issue if the customer is at-risk | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data) |
+| [GS] Triage Issue URL  | Deep link to triage issue. Remove link once triage period is complete. Manually filled by the CSM | Quick link to the GitLab triage issue if the customer is at-risk | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data) |
 | [GS] Support Issues Measure | This is the Product Risk Measure as it is pushed over from Gainsight to Salesforce |  |  |
 
 ### Customer Health
 
 | Field Name | Description | Best Practices | Reference |
 |:---|:---|:---|:---|
-| [GS] Architecture Diagram Link | The URL for the customer’s architectural diagram, whether housed in Gitlab or elsewhere. Manually filled by the TAM  |  |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
+| [GS] Architecture Diagram Link | The URL for the customer’s architectural diagram, whether housed in Gitlab or elsewhere. Manually filled by the CSM  |  |[Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#gainsight-to-salesforce-sync-data)|
 | [GS] Health: CD  | Automated scoring of the customer’s usage of the CD use case. See Handbook for details | Measures the customer’s overall adoption of CD. Useful for a high level view of the use case adoption, very helpful to compare with other use cases as well. |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#continuous-delivery-cd)|
 | [GS] Health: CI  | Automated scoring of the customer’s usage of the CI use case. See Handbook for details | Helpful indicator to know if the customer is using CI across their team. Since CI is a sticky feature in GitLab, this is a good indicator of risk and strength for an existing customer |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#devops-score)|
 | [GS] Health: DevSecOps  | Automated scoring of the customer’s usage of the DevSecOps use case (applicable only to Ultimate). See Handbook for details | Very important to know if the customer is using Ultimate-level features. Good indicator of downside risk |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#devsecops)|
@@ -57,21 +57,21 @@ For more information on general Product Usage Reporting, see [Using Product Usag
 | [GS] Health: SCM | SCM Adoption is measured based on: # of users running merge requests in last 28 days / total licenses soldAutomated scoring of the customer’s usage of the SCM use case. See Handbook for details | Useful to understand the customer’s adoption and usage of SCM as a use case. For example, did the customer buy for SCM and they’re red, or do they not care at all? |[Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#source-code-management-scm)|
 | [GS] Health Score Value | Account Health Score is an aggregation of key metrics for a multi-perspective view of the customer. Represented as a number between 0-100. |  |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#customer-health-score)|
 | [GS] Overall Health Score  | This is the Overall Health Score Color for this customer as pushed over to SFDC from Gainsight | Good metric to understand how the customer is doing, broadly speaking |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)|
-| [GS] TAM Sentiment | If TAM-owned, this is what the TAM thinks the health of this account should be. Gainsight is the SSOT for this field and its value can only be updated in Gainsight. | If TAM-led, this Signifies the TAM’s perceived view of the account. Useful for spotting any risks if yellow or red |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tam-sentiment)|
+| [GS] CSM Sentiment | If CSM-owned, this is what the CSM thinks the health of this account should be. Gainsight is the SSOT for this field and its value can only be updated in Gainsight. | If CSM-led, this Signifies the CSM’s perceived view of the account. Useful for spotting any risks if yellow or red |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tam-sentiment)|
 
 ## Opportunity
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
 | Opportunity Health | Opportunity Health is the Account's Health at the time of the Opportunity and is updated throughout the Opp until it is closed - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#account-health)  | 
-| Risk Reasons | Risk Reasons are inputted by TAMs which are relevant to that Renewal Opportunity - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-reason)  | 
-| Risk Type | Risk Type is inputted by TAMs for the type of risk faced in the renewal (downtier, seat loss, full churn...) - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-type)  |
+| Risk Reasons | Risk Reasons are inputted by CSMs which are relevant to that Renewal Opportunity - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-reason)  | 
+| Risk Type | Risk Type is inputted by CSMs for the type of risk faced in the renewal (downtier, seat loss, full churn...) - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/csm/renewals/#risk-type)  |
 
 ## Contacts
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
-| Company Person Inactive Contact | Allows TAMs to identify inactive contacts | 
+| Company Person Inactive Contact | Allows CSMs to identify inactive contacts | 
 | Company SFDC Account Id | Id associated with a customer account in Salesforce | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#salesforce-connector)  |  |
 | Email | Company Person’s Email Id | [Link](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/#salesforce-connector)  |  |
 | First Name | Company Person’s  First Name |  |  |

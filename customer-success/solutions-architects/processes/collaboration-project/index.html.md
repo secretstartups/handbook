@@ -40,7 +40,7 @@ Customers should raise issues when they have specific questions, use cases, or t
 
 
 ### How does a Solution Architect utilise a Collaboration Project?
-Once a solution architect has determined that an opportunity will span across multiple internal or customer teams they will create a project in the <TBC> group on GitLab.com. Key participants should be added as members of the project (SAL, TAM, PS, Product, Customer Stakeholders) 
+Once a solution architect has determined that an opportunity will span across multiple internal or customer teams they will create a project in the <TBC> group on GitLab.com. Key participants should be added as members of the project (SAL, CSM, PS, Product, Customer Stakeholders) 
 
 Participants can then use GitLab issues to raise key use cases and questions. 
 These issues are the key collaboration point between GitLab team members and the customer team, they can be used to share architecture diagrams, documentation links, and answer questions raised by the customer.
@@ -57,12 +57,12 @@ When using a Collaboration Project, it is important to stay consistent to meet t
 Collaboration projects allow the Solution Architect to track questions outside of email or meeting notes in a transparent way with the customer and allows for easy collaboration across multiple stakeholder engagements. 
 Customers are enabled to have a long term record of answers to questions in an organised way, which allows them to take the information and use it to speed up the creation of internal processes and documentation.
 Dogfooding GitLab early in the opportunity cadence helps to get customers more familiar with the GitLab User Interface and workflows.
-GitLab Issues allow Solutions Architecture to integrate with existing workflows in the TAM, PS, and Product divisions enabling increased collaboration across the GitLab departments.
+GitLab Issues allow Solutions Architecture to integrate with existing workflows in the CSM, PS, and Product divisions enabling increased collaboration across the GitLab departments.
 
 - Context can get lost via emails
 - G-docs shared with customer are usually sequential; hard to separate issues based on topics or use-cases
 - New stakeholders and team members will be able to ramp up quickly
-- Handover to the TAM Organisation is a lot easier for these sort of accounts
+- Handover to the CSM Organisation is a lot easier for these sort of accounts
 - Linked Issues from customers provide direct feedback to Product. Likewise, product can chime in on customer issues and ask questions asynchronously
 
 ### Example Collaboration Projects (Internal)

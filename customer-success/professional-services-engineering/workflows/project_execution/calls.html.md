@@ -11,4 +11,4 @@ category: Project Execution
 
 ## Internal 
 * 15 minute standup
-* TAM, SAL, IE(s), Manager, PS
+* CSM, SAL, IE(s), Manager, PS

@@ -89,7 +89,7 @@ GitLab has [export/import functionality](https://docs.gitlab.com/ee/user/project
 * Target & Destination servers need to be very similar versions. [See compatible versions here](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
 
 ## Tools & Resources
-There are a number of teams and tools that can assist the TAM and the customer in the migration process.
+There are a number of teams and tools that can assist the CSM and the customer in the migration process.
 
 * [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance) - This is the best tool for testing the performance of the new server and is what our Quality team uses for testing our own reference architectures.
 * [GitLab Smoke Tests](https://gitlab.com/gitlab-com/support/toolbox/gitlab-smoke-tests) - This test uses GitLab CI to quickly test if GitLab features are working as intended.

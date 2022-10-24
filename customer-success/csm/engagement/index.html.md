@@ -32,7 +32,7 @@ Customer Success Managers will typically manage customer engagements via a GitLa
 ### Start a customer upgrade engagement
 
 1. After the Customer Success Manager has been aligned with the account, they will assign themselves to the “Customer Success Manager” field within Salesforce.
-1. Provided that the customer is part of the [CSM-Assigned segment](/handbook/customer-success/csm/customer-segments-and-metrics/#tam-assigned-segment), confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Customer Success Manager who is best aligned with the customer account transition. For Commercial accounts, the CSM will determine if it is beneficial to have a customer project.
+1. Provided that the customer is part of the [CSM-Assigned segment](/handbook/customer-success/csm/customer-segments-and-metrics/#csm-assigned-segment), confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Customer Success Manager who is best aligned with the customer account transition. For Commercial accounts, the CSM will determine if it is beneficial to have a customer project.
 1. Verify that the project complies with the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template.
 1. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
@@ -75,8 +75,8 @@ For an example of a prep doc and additional materials that received positive fee
 
 There are situations when a CSM needs to disengage with a customer. Examples include:
 
-- A customer downgrades or churns and is [below the CSM alignment threshold](/handbook/customer-success/csm/services/#tam-alignment)
-- A CSM has been engaged with a customer [below the CSM alignment threshold](/handbook/customer-success/csm/services/#tam-alignment) for a strategic purpose such as a tier upgrade that was unsuccessful
+- A customer downgrades or churns and is [below the CSM alignment threshold](/handbook/customer-success/csm/services/#csm-alignment)
+- A CSM has been engaged with a customer [below the CSM alignment threshold](/handbook/customer-success/csm/services/#csm-alignment) for a strategic purpose such as a tier upgrade that was unsuccessful
 
 When this happens, it is important to manage the disengagement so that the customer understands the reason, and is clear on who they should communicate with going forward. Here are some recommendations for how to have this conversation:
 

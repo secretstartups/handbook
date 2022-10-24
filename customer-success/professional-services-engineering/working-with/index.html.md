@@ -77,10 +77,10 @@ As there may be many projects and proposals in flight at any time, there are a f
 
 #### Custom services SOW creation and approval
 
-When scoping custom SOWs, the Professional Services Engagement Manager partners with the SA/TAM/SAL to create a custom engagement that will help meet the customer's needs, and push the SOW through the appropriate approval process. All Custom SOW's will require approval from PS Leadership.
+When scoping custom SOWs, the Professional Services Engagement Manager partners with the SA/CSM/SAL to create a custom engagement that will help meet the customer's needs, and push the SOW through the appropriate approval process. All Custom SOW's will require approval from PS Leadership.
 
 ##### Estimate creation
-* The SA/TAM can initiate the process by creating a new scoping issue via the [Services Calculator](https://services-calculator.gitlab.io/). Through this process the SA/TAM/SAL will be asked some high-level questions, and a SSOT table will arrive in the issue to drive the scoping process. The SA/TAM should work with the Customer to complete this as well as they can. The Professional Services Engagement Manager wil this create a Estimate - based upon the inputs provided, and provide a link for review.
+* The SA/CSM can initiate the process by creating a new scoping issue via the [Services Calculator](https://services-calculator.gitlab.io/). Through this process the SA/CSM/SAL will be asked some high-level questions, and a SSOT table will arrive in the issue to drive the scoping process. The SA/CSM should work with the Customer to complete this as well as they can. The Professional Services Engagement Manager wil this create a Estimate - based upon the inputs provided, and provide a link for review.
 
 ##### SOW creation
 * Once the Estimate has been reviewed by the account team and Customer, any feedback received, and refinement made, we can then move to generating the SOW. As part of the scoping issue, the Engagement Manager will need to understand whether there is an MSA in place, or standard terms are to be used.

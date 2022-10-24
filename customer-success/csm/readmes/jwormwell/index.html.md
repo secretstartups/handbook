@@ -6,7 +6,7 @@ description: "This page is James Wormwell's readme and is intended to be helpful
 
 ## James' README
 
-Hi, I'm James, I'm currently a [Manager of Technical Account Managers in EMEA](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam-responsibilities). This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
+Hi, I'm James, I'm currently a [Manager of Customer Success Managers in EMEA](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-csm-responsibilities). This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
 ## Related pages
 

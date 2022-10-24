@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "TAM Secure Workshop Discovery Questionnaire"
+title: "CSM Secure Workshop Discovery Questionnaire"
 ---
 
 Use this questionnaire to determine what information to cover in the workshop you are conducting with your customer. Copy the information below into an issue in your customer collaboration project, and fill in the details either by asking the questions during your initial planning session (recommended), or asynchronously by asking the customer to answer the questions in the issue.

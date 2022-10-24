@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Use Case Adoption Scoring"
-description: "An overview of Adoption Scoring, how it is calculated, and how TAMs can use the information with customers in their conversations."
+description: "An overview of Adoption Scoring, how it is calculated, and how CSMs can use the information with customers in their conversations."
 ---
 
 ## On this page
@@ -12,12 +12,12 @@ description: "An overview of Adoption Scoring, how it is calculated, and how TAM
 
 *For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
-For an overview of how TAMs use Gainsight, please refer to the [Gainsight TAM Overview Page](/handbook/customer-success/csm/gainsight)
+For an overview of how CSMs use Gainsight, please refer to the [Gainsight CSM Overview Page](/handbook/customer-success/csm/gainsight)
 
 ## Adoption Scoring
 
-Use case Adoption scoring will assist TAMs in understanding a customer's adoption state based on a specific list of metrics. 
-By looking at the Adoption scores, the TAM will gain an understanding of the customer's current state in the adoption journey.
+Use case Adoption scoring will assist CSMs in understanding a customer's adoption state based on a specific list of metrics. 
+By looking at the Adoption scores, the CSM will gain an understanding of the customer's current state in the adoption journey.
 
 
 ### CI Adoption Scoring
@@ -38,8 +38,8 @@ The following primary and ancillary metrics are used to determine a customer's C
 - [Value Statements for CI Adoption Score](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
     - This should help guide the conversation around how CI Adoption is measured and how to improve adoption.
 
-#### Additional TAM Enablement 
-In this (internal) video a fellow TAM walks you through:
+#### Additional CSM Enablement 
+In this (internal) video a fellow CSM walks you through:
 - How the CI Adoption score is calculated 
 - Template slides to showcase a customer's Adoption
 - Key conversation drivers such as:
@@ -75,6 +75,6 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
         - Instructions on using the sheet can be found in this [internal video](https://youtu.be/pLp2Y0oZuc0)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
-- Additional TAM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
+- Additional CSM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate

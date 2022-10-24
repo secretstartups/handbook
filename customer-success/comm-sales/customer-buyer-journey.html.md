@@ -48,7 +48,7 @@ Technical evaluation is where the prospective customer evaluates the fit of GitL
 * Copy all emails to Salesforce using your emailtosalesforce alias on bcc
 * Link any external running call notes and GitLab projects in the Salesforce Notes area on the Account
 * Add any call notes (when not redundant of the AE) from calls and demos using Log a Call (under Activity History) in SFDC
-* Create a customer collaborative account if a TAM will own the account post-sale
+* Create a customer collaborative account if a CSM will own the account post-sale
 * Share applicable case studies, example projects and/or relevant documentation
 * Recommended: Execute a self-managed implementation review
 * Optional: create and execute a new POV if > $10K IACV
@@ -79,7 +79,7 @@ Services may be proposed anytime during earlier steps, but every product purchas
 
 ## Step 4a: Technical Evaluation Won
 
-Once the technical evaluation is complete and successful, preparation begins for the production implementation as well as the transition to the Technical Account Manager.
+Once the technical evaluation is complete and successful, preparation begins for the production implementation as well as the transition to the Customer Success Manager.
 
 ### Deliverables
 * Salesforce transition out of stage 3
@@ -87,7 +87,7 @@ Once the technical evaluation is complete and successful, preparation begins for
 
 ### Responsibilities
 * Close out POV status, decision and notes (if applicable)
-* Introduce TAM (if sufficient IACV)
+* Introduce CSM (if sufficient IACV)
 * Ensure Salesforce transitions to next stage promptly
 * Create collaborative Success Plan project (or evolve POV plan to success plan) if sufficient IACV
 
@@ -120,7 +120,7 @@ Gracefully transition the customer to Technical Account Management and Professio
 
 ### Deliverables
 * Meet with the customer and Professional Services Engineer for Professional Services delivery kickoff
-* Meet with the customer and Technical Account Manager (TAM) for formal account transition, introduction to collaborative account use and other considerations
+* Meet with the customer and Customer Success Manager (CSM) for formal account transition, introduction to collaborative account use and other considerations
 
 ### Responsibilities
 * Thank customer for their time and collaboration during the entire journey (on a call and/or via email)

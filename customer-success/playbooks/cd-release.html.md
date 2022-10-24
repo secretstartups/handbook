@@ -16,7 +16,7 @@ View the [Customer Success homepage](/handbook/customer-success/) for additional
 
 ### Procedure 
 
-The following are the recommended steps to discover, position, lead value discussions, and drive adoption (TAM only).
+The following are the recommended steps to discover, position, lead value discussions, and drive adoption (CSM only).
 
 1. 
 

@@ -22,11 +22,11 @@ For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/prof
 [Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit#slide=id.gbfb62d0c00_0_58) (GitLab Team Members Only)
 
 ## 1. Positioning
-- **DRI**: Account Team (SAL/AE, SA, TAM)
+- **DRI**: Account Team (SAL/AE, SA, CSM)
 - **Supported By**: Engagement Manager
 
 ### MEDDPICC
-Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or TAM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
+Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or CSM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
 
 For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved.
 
@@ -38,7 +38,7 @@ Once its identified that the customer will likely want to engage with profession
 
 ## 2. Scoping
 - **DRI**: Engagement Manager
-- **Supported By**: PS Practice, Account Team (SAL/AE, SA, TAM)
+- **Supported By**: PS Practice, Account Team (SAL/AE, SA, CSM)
 
 ### Gather Data
 After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, the engagement manager gathers data asynchronously from the account team. Questions about the potential engagement can sometimes be answered by the Account Team from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. In some cases when the account team cannot provide the level of detail to create an egagement, the EM will meet with the Account team and Customer to ask additional discovery questions to get to a level of detail needed.

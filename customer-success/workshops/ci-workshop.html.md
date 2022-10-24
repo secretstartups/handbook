@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "CI Workshop"
-Description: "Guidance for TAMs on leading continuous integration deep-dive workshops"
+Description: "Guidance for CSMs on leading continuous integration deep-dive workshops"
 ---
 
 ## On this page
@@ -18,7 +18,7 @@ Description: "Guidance for TAMs on leading continuous integration deep-dive work
 
 ## CI Workshop Overview
 
-This workshop is intended to provide enablement for new or existing customers such that a TAM or SA could:
+This workshop is intended to provide enablement for new or existing customers such that a CSM or SA could:
 
 * Select either the "Basic" or "Advanced" CI Workshop deck that's best suited to the customer's level of experience and areas of interest
 * Pitch to a customer using our [Collaboration Project Issue Template](#collaboration-project-issue-template)
@@ -44,7 +44,7 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
     1. You will have a list of attendees to follow up with.  This part is incredibly significant as this workshop becomes a means to engage with dev leads and end users, that we often do not have otherwise. 
 1. **Make a copy** of the [Intro to CI/CD Lunch and Learn slides](https://docs.google.com/presentation/d/1AO4z6Q8lQE10zCzjNRT5fGcYbYdMZf4AXUAAIodib3E/edit#slide=id.g719d32106a_0_0) or the [Advanced CI Workshop Slides](https://docs.google.com/presentation/d/1CBcpyFqmfG99JyzNS2CexRLAhQ4IziMDINFXoKuy9_w/edit) as the starting point for Basic or Advanced workshops, respectively.
 1. Customize the slide deck as agreed with the customer.
-1. Find a partner to present with... another TAM, the SA for the customer or one of the creators of this workshop. It's always better to have someone to take notes or bounce questions off of. It's recommended to have one co-facilitator for every 20 attendees.
+1. Find a partner to present with... another CSM, the SA for the customer or one of the creators of this workshop. It's always better to have someone to take notes or bounce questions off of. It's recommended to have one co-facilitator for every 20 attendees.
 
 ## Workshop Materials
 

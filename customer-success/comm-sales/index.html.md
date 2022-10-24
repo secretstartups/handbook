@@ -67,7 +67,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 
 ### Account Executive to CSM (existing accounts without a CSM)
 
-* AE or SA qualifies the account [meets the threshold for CSM services](/handbook/customer-success/csm/tam-manager/#account-assignment) and raises the account requiring a CSM in the SAL-SA-CSM meeting. CSM managers also review their 'accounts requiring CSM' dashboard in Gainsight on a weekly basis as a fail-safe.
+* AE or SA qualifies the account [meets the threshold for CSM services](/handbook/customer-success/csm/csm-manager/#account-assignment) and raises the account requiring a CSM in the SAL-SA-CSM meeting. CSM managers also review their 'accounts requiring CSM' dashboard in Gainsight on a weekly basis as a fail-safe.
 * SA or CSM creates a GitLab project [here](https://gitlab.com/gitlab-com/account-management/commercial) if applicable
 * Add CSM name to account team in Salesforce
 * Identify any relevant Outreach sequences or templates

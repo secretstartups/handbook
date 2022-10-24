@@ -17,7 +17,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 ## Structure of Playbooks
 
-**Procedure**: Each Playbook contains the outline of steps to position, apply discovery questions, lead value discussions, and drive adoption (TAM only). The will be driven and tracked [via Gainsight](/handbook/customer-success/csm/gainsight/).
+**Procedure**: Each Playbook contains the outline of steps to position, apply discovery questions, lead value discussions, and drive adoption (CSM only). The will be driven and tracked [via Gainsight](/handbook/customer-success/csm/gainsight/).
 
 **Positioning**: Stage and use case value proposition and positioning with supporting collateral linked within Gainsight CTAs and Playbooks.
 
@@ -48,7 +48,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 ## Catalog of Playbooks
 
-The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/csm/gainsight/#ctas)) to a Customer.
+The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the CSM can manually add any Playbook ([instructions](/handbook/customer-success/csm/gainsight/#ctas)) to a Customer.
 
 | Playbook Name                                                   | Automated/Manual | Type            | Internal Reference Link                                      |
 |-----------------------------------------------------------------|------------------|-----------------|--------------------------------------------------------------|
@@ -70,7 +70,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Agile Expansion Stage Enablement                                | Manual           | Objective       |                                                              |
 | CD Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Delivery/Release](https://about.gitlab.com/handbook/customer-success/playbooks/cd-release.html)                                  |
 | CD Expansion Stage Adoption                                     | Manual           | Objective       |                                                              |
-| CI Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Integration/Verify](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/) <br> [TAM CI Workshop](https://about.gitlab.com/handbook/customer-success/playbooks/ci-verify.html)               |
+| CI Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Integration/Verify](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/) <br> [CSM CI Workshop](https://about.gitlab.com/handbook/customer-success/playbooks/ci-verify.html)               |
 | CI Expansion Stage Adoption                                     | Manual           | Objective       |                                                              |
 | Configure Enablement Stage Adoption                             | Manual           | Objective       |                                                              |
 | Configure Expansion Stage Adoption                              | Manual           | Objective       |                                                              |
@@ -94,13 +94,13 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Server Migration - Self-Managed to GitLab SaaS                  | Manual           | Objective       | [GitLab Server Migrations Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)                               |
 | Ultimate Uptier for Existing Customers                          | Manual           | Objective       | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)                                                |
 | Account Handoff                                                 | Manual           | Activity        |                                                              |
-| Update Stale TAM Sentiment                                      | Manual           | Activity        |                                                              |
+| Update Stale CSM Sentiment                                      | Manual           | Activity        |                                                              |
 | Upcoming Renewal                                                | Automated        | Renewal         |                                                              |
 | Digital Adoption - CI Enablement                                | Manual           | Digital Journey |                                                              |
 | Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
 | Digital Onboarding - Self-Managed Alternative Backup Strategies | Manual           | Digital Journey |                                                              |
 | Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
 | Digital Onboarding - Welcome Email                              | Manual           | Digital Journey |                                                              |
-| TAM Account Transitions                                         | Manual           | Digital Journey |                                                              |
+| CSM Account Transitions                                         | Manual           | Digital Journey |                                                              |
 
-TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/csm/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
+CSMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/csm/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.

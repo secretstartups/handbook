@@ -31,8 +31,8 @@ When hovering on the far left of the screen, a sidebar will pop up that has a fe
 - Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/csm/gainsight/ctas/) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
 
 #### Further detail on specific dashboards
-1. [CSM Burn-Down Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#tam-burn-down-dashboard)
-1. [CSM Proactive Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#tam-proactive-dashboard)
-1. [CSM Key Metrics Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#tam-key-metrics-dashboard)
+1. [CSM Burn-Down Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#csm-burn-down-dashboard)
+1. [CSM Proactive Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#csm-proactive-dashboard)
+1. [CSM Key Metrics Dashboard](/handbook/customer-success/csm/gainsight/dashboards/#csm-key-metrics-dashboard)
 
 

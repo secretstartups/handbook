@@ -34,7 +34,7 @@ It increases efficiecies towards the achievement of regional goals and objective
 Deliberate practice allows the team to sharpen their skills and continue delivering deal-winning engagements. The SA Manager needs to support ongoing role play exercises and dry-runs for key accounts. This includes facilitating sessions, helping the team make this a priority, and ensure the team is adhering to key delivery methodologies, including MEDDPPICC and Demo2Win. Important tools include Google Slides, Role Plays, and the [wheel of Names](http://weelofnames.com/).
 
 ### Regular Syncs with ASM  
-Meeting regularly with your ASM counterpart provides time to discuss SAL/ SA/ TAM Team health, review strategic territory deals, and review opportunity close analysis and regional data. It is recommended to use a combination of SFDC Opportunity Records, Sisense Dashboard Data, and to take notes in Google Docs. Every meeting should have an agenda. 
+Meeting regularly with your ASM counterpart provides time to discuss SAL/ SA/ CSM Team health, review strategic territory deals, and review opportunity close analysis and regional data. It is recommended to use a combination of SFDC Opportunity Records, Sisense Dashboard Data, and to take notes in Google Docs. Every meeting should have an agenda. 
 
 ### Quarterly Business Reviews
 The SA Manager is responsible for developing and delivering a [Quarterly Business Review](/handbook/sales/qbrs/) for their team each quarter.

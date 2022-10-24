@@ -14,7 +14,7 @@ View the [Customer Success homepage](/handbook/customer-success/) for additional
 
 ---
 
-The following items are for the CI/Verify workshop that the TAM team will deliver to the customer in conjunction with the SA and sometimes PS as half-day, free workshop to enable the customer to see first-hand how easy CI is with GitLab:
+The following items are for the CI/Verify workshop that the CSM team will deliver to the customer in conjunction with the SA and sometimes PS as half-day, free workshop to enable the customer to see first-hand how easy CI is with GitLab:
 
 
 ### Workshop Deliverables:

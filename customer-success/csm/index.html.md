@@ -227,7 +227,7 @@ Next steps for you:
 1. Customize [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) where “Account Owner = your SALs”; “CSM = You”
 1. Save report
 1. Subscribe to report when “Record Count Greater Than 0” and Frequency = Weekly (You’ll get a weekly email as a reminder to look at the report)
-1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example](/handbook/customer-success/csm/#tam-tools))
+1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example](/handbook/customer-success/csm/#csm-tools))
 
 ## Related pages
 

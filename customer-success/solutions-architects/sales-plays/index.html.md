@@ -29,7 +29,7 @@ As a general guideline, no more than 2 Solutions Architects should join any sing
 Who is this sales play for?
 
 - Primary: SALs, SDRs and SAs who handle new accounts, new teams in existing customers
-- Secondary: TAMs who help in discovery with new teams in existing customers
+- Secondary: CSMs who help in discovery with new teams in existing customers
 
 ## Who to meet
 {: .alert .alert-gitlab-orange}

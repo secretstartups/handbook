@@ -30,9 +30,9 @@ A POV is conducted with a GitLab trial license either using GitLab.com or a self
 - A POV must be tracked in Salesforce
 - A POV should not be used to implement a scaled architecture for the customer's unique infrastructure
 - A POV is not a full or production quality implementation of the solution 
-- A POV is not a self run, technical trial to test out a feature for the existing license (can be covered in the TAM cadence for expansion on adoption)
+- A POV is not a self run, technical trial to test out a feature for the existing license (can be covered in the CSM cadence for expansion on adoption)
 - A POV is not an individual team member on the customer side performing self-learning and certification (can promote PS education services)
-- A POV is not a self-paced exploration of GitLab (this can is covered in the TAM cadence)
+- A POV is not a self-paced exploration of GitLab (this can is covered in the CSM cadence)
 - A POV is not an informal review of GitLab by a new logo prospect
 
 ### POV Qualification
@@ -79,8 +79,8 @@ To track a POV, click the _Proof of Values_ tab from the top menu bar in Salesfo
 
 Complete the following fields at minimum:
 
-- **POV Owner** - this is the Solutions Architect
-- **Technical Account Manager** - this is the TAM who will be introduced during the POV
+- **POV Owner** - this is the Strategic Account Leader
+- **Customer Success Manager** - this is the CSM who will be introduced during the POV
 - **Solutions Architect** - this is the SA who owns execution of the POV
 - **Proof of Value Name** - this commonly is named identical to the opportunity name
 - **Account** - this is the company name
@@ -143,7 +143,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 
 - Strategic Account Leader (SAL) or Account Executive (AE) - Relationship manager, owner of licensing
 - Solutions Architect (SA) - Primary technical contact, POV owner and project manager
-- Technical Account Manager (TAM) - _Only for qualified accounts._ Introduced for customer visibility, occasional POV assistance
+- Customer Success Manager (CSM) - _Only for qualified accounts._ Introduced for customer visibility, occasional POV assistance
 - Professional Services - rarely as needed in a pre-sales capacity
 - Support Team - only if needed for technical errors, engaged via the customer per the [Internal Support page](/handbook/support/internal-support/#note-on-zendesk-and-supportgitlabcom)
 
@@ -151,7 +151,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 
 - SA: Ensure the customer architecture is prepared to support the POV (if self-managed)
 - SA: Ensure customer network has access to GitLab.com (if SaaS evaluation)
-- SA: Customer Success project is created in GitLab as per the [TAM Handbook page](/handbook/customer-success/csm/#to-start-a-new-customer-engagement)
+- SA: Customer Success project is created in GitLab as per the [CSM Handbook page](/handbook/customer-success/csm/#to-start-a-new-customer-engagement)
 - SA: POV document is created if this is required by the customer, otherwise default to the Customer Success project
 - SA: Ensure POV goals and business outcomes are clearly identified prior to kickoff
 - SA: For the largest strategic opportunities, notify GitLab Support of POV dates, customer, and other relevant information using the applicable Slack channel related to Self-Managed or GitLab.com support
@@ -161,7 +161,7 @@ Below is best practice guidance for conducting each type of POV. These processes
     - The Customer Package requires an NDA, and contains commonly requested security information (SOC2, Penetration Test Results, etc) and can be requested via a [Field Security Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=Security%20Documents%20CAA)
 - SAL/AE: Schedule Internal kick off meeting (detailed below)
 - SAL/AE: Schedule kickoff meeting with customer
-- TAM: Review collaboration project content prior to internal kickoff meeting
+- CSM: Review collaboration project content prior to internal kickoff meeting
 - SA: For SaaS trials that need CI/CD, request trial runner activation per the [handbook](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans).
 
 ## POV Meeting Recordings
@@ -241,7 +241,7 @@ Agenda:
 
 Attendees:
 
-- GitLab: Strategic Account Leader, Solutions Architect, Technical Account Manager
+- GitLab: Strategic Account Leader, Solutions Architect, Customer Success Manager
 - Customer: Executive contact, Technical POV Lead
 
 Agenda:
@@ -321,8 +321,8 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
 - Upon completion of POV, update Salesforce record with POV result as successful or unsuccessful and provide supportive reasons in the associated freeform fields
     - For a successful POV:
         - SA adds any other known information in README.md, then moves the project from the Pre-sales group to [Commercial](https://gitlab.com/gitlab-com/account-management/commercial)
-        - TAM and AE determine TAM eligibility and engagement based on Account Tier and IACV.
-        - TAM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
+        - CSM and AE determine CSM eligibility and engagement based on Account Tier and IACV.
+        - CSM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
 
 ## POV Template Document
 

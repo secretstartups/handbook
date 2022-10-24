@@ -30,14 +30,14 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 The WW ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
 
 ## APJ Customer Success Team
-Currently the local APJ CS team has Solutions Architects & Technical Account Managers in the team. The team reports to the Manager, Solutions Architects and the Manager, Technical Account Manager respectively.
+Currently the local APJ CS team has Solutions Architects & Customer Success Managers in the team. The team reports to the Manager, Solutions Architects and the Manager, Customer Success Manager respectively.
 
 - [Manager, Solutions Architects](https://about.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
-- [Manager, Technical Account Manager](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam) responsibilities
-- [Technical Account Manager](/handbook/customer-success/csm/) responsibilities
+- [Manager, Customer Success Manager](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-csm) responsibilities
+- [Customer Success Manager](/handbook/customer-success/csm/) responsibilities
 
-Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto). The [Manager, Technical Account Manager](https://about.gitlab.com/company/team/#dthompson3) reports to the 
+Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto). The [Manager, Customer Success Manager](https://about.gitlab.com/company/team/#dthompson3) reports to the 
 [Senior Director, Technical Account Management](https://about.gitlab.com/company/team/#spatching) who reports the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto).
 
 | Role | Name | Base location |
@@ -51,10 +51,10 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | Solutions Architect | [**Inchul Yoo**](https://gitlab.com/iyoo) | Seoul, South Korea |
 | Solutions Architect | [**Jonathan Lim**](https://gitlab.com/jonlimr) | Singapore, Singapore |
 | Solutions Architect | [**Robert Williams**](https://gitlab.com/r_williams) | Sydney, Australia |
-| Manager, Technical Account Manager | [**Dave Thompson**](https://gitlab.com/dthompson3) | Sydney, Australia | 
-| Senior Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/bma) | Sydney, Australia |
-| Technical Account Manager | [**Rohan Shah**](https://gitlab.com/rmsrohan) | Mumbai, India |
-| Technical Account Manager | [**Zane J Chua**](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
+| Manager, Customer Success Manager | [**Dave Thompson**](https://gitlab.com/dthompson3) | Sydney, Australia | 
+| Senior Customer Success Manager | [**Benjamin Ma**](https://gitlab.com/bma) | Sydney, Australia |
+| Customer Success Manager | [**Rohan Shah**](https://gitlab.com/rmsrohan) | Mumbai, India |
+| Customer Success Manager | [**Zane J Chua**](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
 
 The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
@@ -97,7 +97,7 @@ Our open-door policy encourages any discussion point, concern, suggestion, propo
 
 
 ## Weekly Strategic meeting (all APJ CS team members)
-**Objective of the meeting: This is the weekly main meeting where all technical Solutions Architects as well as Technical Account Managers discuss strategy, highlights and lowlights of GitLab Platform related findings. Everyone in APJ Customer Success is encourage to partake in the meeting.**
+**Objective of the meeting: This is the weekly main meeting where all technical Solutions Architects as well as Customer Success Managers discuss strategy, highlights and lowlights of GitLab Platform related findings. Everyone in APJ Customer Success is encourage to partake in the meeting.**
 
 The APJ Customer Success team meets weekly to celebrate major customer achievements, reviews internal & external announcements related to GitLab, discusses company announcements, shares best customer success practises and acts as a tactical planning ground for success.
 

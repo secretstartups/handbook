@@ -35,7 +35,7 @@ The list of job responsibilities is in ranked order with the highest priority ta
 - Providing estimate to account team and customer for feedback
 
 **Suggested SLAs:**
-- 24 hours from initial scoping issue creation to EM interaction/reminder to SA or TAM to provide information about customer need
+- 24 hours from initial scoping issue creation to EM interaction/reminder to SA or CSM to provide information about customer need
 - 72 hours from customer scoping call to estimate in customer’s hands for review
 
 ### Territory Opportunity Management
