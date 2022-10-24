@@ -207,10 +207,10 @@ Initial discovery with sales have led to assignment of 1 SA/new logo account tea
 - The successful outcome of the meeting
 
 Sales Plays that SAs are expected to be involved in includes:
-- Discovery(more important here)
-- Demo
+- Discovery (more important here)
+- Demo (following at least one SA led Discovery call)
 - Workshops
-- Trials where the account team will be expected to utilize support for technical issues. Trials should involve max of 3 SA touch points
+- Guided Trials where the account team will be expected to utilize support for technical issues. Guided Trials should involve max of 3 SA touch points and include success criteria
 Please note no hands-on POVs are permitted for opportunities less than 100k. 
 
 Please submit an exception request [here](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-west-enterprise-new-logo-exceptions/-/boards) if you need additional support from the SA team. Please include the below information in the new issue.
