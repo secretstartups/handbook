@@ -58,10 +58,10 @@ Since participation in the Select track is by invitation only, partners are not 
 |------------------|:---------------------------:|:---:|
 | **Overall Program Requirements** |  |  |
 | GitLab Partner Agreement | X | X |
-| # of Sales Verified Associate (Sales Core) resources | 2 | 4 |
-| # of GitLab Sales Accredited Professional resources |   | 1 |
+| # of Verified Sales Associate (Sales Core) resources | 2 | 4 |
+| # of Accredited Sales Professional resources |   | 1 |
 | # of Solution Architect Verified Associate resources | 1 | 2 |
-| # of Certified Professional Services resources |   | 1 |
+| # of Certified Professional Services Engineer resources (2021 certification) |   | 1 |
 | Exec Sponsored Joint Business Plan |  | X |
 | Program Rev Targets Min - BusPlan Committed |  | $300K |
 |  |  |  |
