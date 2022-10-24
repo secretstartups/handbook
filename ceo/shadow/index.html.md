@@ -1029,28 +1029,28 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2019-10 | 2019-11 | [Clement Ho](https://gitlab.com/ClemMakesApps) | Frontend Engineering Manager, Monitor:Health |  |
 | 2019-11 | 2019-11 | [Brendan O'Leary](https://gitlab.com/brendan) | Sr. Solutions Manager |  |
 | 2019-11 | 2019-11 | [Gabe Weaver](https://gitlab.com/gweaver) | Sr. Product Manager, Plan: Project Management |  |
-| 2019-11 | 2020-01 | [Chenje Katanda](https://gitlab.com/ckatanda) | Technical Account Manager |  |
+| 2019-11 | 2020-01 | [Chenje Katanda](https://gitlab.com/ckatanda) | Customer Success Manager |  |
 | 2020-01 | 2020-01 | [Dov Hershkovitch](https://gitlab.com/dhershkovitch) | Senior Product Manager, Monitor |  |
 | 2020-01 | 2020-01 | [Keanon O'Keefe](https://gitlab.com/kokeefe) | Senior Product Manager, Plan : Portfolio Management |  |
 | 2020-01 | 2020-01 | [Dylan Griffith](https://gitlab.com/DylanGriffith) | Staff Backend Engineer, Search |  |
 | 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
 | 2020-01 | 2020-02 | [Nadia Vatalidis](https://gitlab.com/Vatalidis) | Senior Manager, People Operations |  |
 | 2020-02 | 2020-02 | [Diana Stanley](https://gitlab.com/dstanley) | Senior Support Engineer |  |
-| 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Technical Account Manager |  |
+| 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Customer Success Manager |  |
 | 2020-02 | 2020-02 | [Sarah Waldner](https://gitlab.com/sarahwaldner) | Senior Product Manager - Monitor: Health |  |
 | 2020-02 | 2020-03 | [Shaun McCann](https://gitlab.com/shaunmccann) | Support Engineering Manager | [CEO Shadow AMA with Support Engineering](https://www.youtube.com/watch?v=A80HKDBRaNE) |
 | 2020-03 | 2020-03 | [Lien Van Den Steen](https://gitlab.com/lienvdsteen) | People Ops Fullstack Engineer |  |
-| 2020-03 | 2020-03 | [Michael Terhar](https://gitlab.com/mterhar) | Technical Account Manager | [The HyperGrowth Calendar](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44584) |
+| 2020-03 | 2020-03 | [Michael Terhar](https://gitlab.com/mterhar) | Customer Success Manager | [The HyperGrowth Calendar](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44584) |
 | 2020-03 | 2020-04 | [Christen Dybenko](https://gitlab.com/cdybenko) | Sr Product Manager |  |
 | 2020-04 | 2020-04 | [Scott Stern](https://gitlab.com/sstern) | Frontend Engineer |  |
 | 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff to the CEO |  |
-| 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Technical Account Manager |  |
+| 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Customer Success Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
 | 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
 | 2020-05-11 | 2020-05-22 | [Emily Kyle](https://gitlab.com/emily) | Manager, Corporate Events |  |
 | 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging Manager |  |
-| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager |  |
+| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Customer Success Manager |  |
 | 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) |
 | 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program? Why should you apply to participate? How did I see the GitLab values in action? |
 | 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector |  |
