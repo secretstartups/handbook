@@ -1,8 +1,19 @@
-## The Marketing Development Funds (MDF) Program
+---
+layout: handbook-page-toc
+title: “Marketing Devopment Funds”
+ description: “Marketing Development Funds Overview”
+---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+- TOC
+{:toc .hidden-md .hidden-lg}
 
-GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program. These funds are to support our Select partners demand generation efforts. 
+## MDF Program Introduction
+
+GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program. These funds are intended to support our Select partners' demand generation efforts. 
 
 ### MDF Investment Objectives
+
 **Demand Generation**
    *  The objective of these activities is to gain net-new end-user customers for you and GitLab. Examples of eligible activities include seminars, workshops, telemarketing or email marketing campaigns, participation in trade shows, exhibitions, and direct mail.
    *  Eligible costs may include mailing costs, fulfillment items, lead qualification, distribution, venue costs, food and beverages (excluding alcoholic beverages), speakers’ fees, management costs, and lead capture.
@@ -25,7 +36,7 @@ Please note GitLab will only cover **50%** of the total cost of the activity.
 Once approved, the partner is able to execute on the activity.  GitLab MDF is a reimbursement model.  Partners must submit a claim through the GitLab Partner Portal no later than **30 days following the activity end date** and include all relevant and required proof of performance (POP).  A partner generated invoice is part of the required documentation for a successfully submitted claim.
 
 
-### Eligible Activities and Required Proof of Performance MDF Activities
+## Eligible Activities and Required Proof of Performance MDF Activities
 
 Proof of performance (POP) includes partner-generated invoice AND at least one of the activities listed in the table below that shows GitLab and partner representation. For activities that require a lead list, you must also submit it in an excel format, as part of your POP.
 
@@ -41,7 +52,7 @@ Proof of performance (POP) includes partner-generated invoice AND at least one o
 | **Webcast/Webinar** | A syndicated or on-demand web event with the purpose of either lead generation or continuing education. This can be conducted in collaboration with GitLab or GitLab-approved third-party vendors. | • URL to recorded online event, podcast, or presentation that shows integration of GitLab brand and solutions• Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Invitation to the online event/podcast• Follow up/additional activities |
 
 
-### Marketing Efforts
+## Marketing Efforts
 
 You are asked to use reasonable efforts to promote and market GitLab products and services to prospects within your territory.
 
@@ -49,13 +60,13 @@ You are asked to use reasonable efforts to promote and market GitLab products an
 *   You conduct business in a manner that reflects favorably at all times on GitLab products and services and the good name, goodwill, and reputation of GitLab. You may not engage in any deceptive, misleading, illegal, or unethical practices that you realize would be detrimental to GitLab, GitLab products and services, or the public, including but not limited to, disparagement of GitLab, its products and services, and make no false or misleading statements or representations with respect to itself, GitLab, or GitLab products and services.
 *   You are authorized to use GitLab’s names, marks, logos, and other identifiers as approved in advance in writing, on or in connection with your own marketing and promotion of GitLab products and services. Your use of GitLab logos needs to be solely in accordance with the GitLab Partner Program Agreement and any additional trademark guidelines GitLab provides.
 
-#### Passing Leads
+### Passing Leads
 
 GitLab has the ability to automatically pass marketing-qualified leads (MQL’s) to partners that appear in the GitLab partner portal.  These leads must be accepted within 5 business days, and actioned upon within 10 business days.  Instructions on how to accept/reject/reassign a lead or register a deal and submit to GitLab for approval can be found via [this link](https://www.youtube.com/watch?v=BmmiH_ctALk) or in the [partner portal](https://partners.gitlab.com/English/).  Leads not accepted within 5 business days and/or not actioned upon within 10 business days, will automatically be reclaimed by GitLab and re-assigned.
 
 MDF reimbursement requirements for demand-generation efforts include a copy of the joint event lead list. This list is considered confidential and the property of both GitLab and the authorized GitLab partner, and will be used for the sole purpose of tracking lead progress and calculating the activities return on investment. By submitting your MDF request, you agree to these terms and conditions.
 
-#### Requesting Marketing Development Funds - MDF
+## Requesting MDF
 
 To obtain marketing development funds (MDF), please complete the following steps prior to any activity being performed or expense incurred. Any activity that does not follow the process below and has the appropriate approvals is not eligible for reimbursement.
 
@@ -66,11 +77,9 @@ Note: MDF requests must be submitted prior to the start of an activity or the re
 *   **Canceling and Reallocating Funds for an Activity** – If the originally approved activity will not take place, please notify your GitLab Channel Marketing Manager. You may be able to reallocate your funds to another activity that is equal to or less than the original approved activity that takes place within the same time frame.
 
 
-#####  Proof of Performance (POP) and Claiming Funds
+### Proof of Performance (POP) and Claiming Funds
 
 Because the GitLab MDF Program is proposal based, the following conditions must be met for prior approved marketing claims to be reimbursed:
-
-
 *   You must submit a payment claim within 30 calendar days of completion of the activity via the MDF Reimbursement Request form on the GitLab Partner Portal.
 *   Proof of performance (POP) as defined above for each activity must be submitted. Proof of performance must demonstrate that both the activity occurred and that GitLab has been appropriately represented.
 *   International currency: Claims may be paid in local currency upon GitLab’s discretion; currency rates are based on the date GitLab pays the reimbursement.
@@ -78,12 +87,10 @@ Because the GitLab MDF Program is proposal based, the following conditions must 
 
 Note: If MDF claims are not submitted in the given timeline, you will forfeit the funds.
 
-
-##### Marketing Development Funds – Terms and Conditions
+### MDF Terms and Conditions
 
 Marketing development funds (MDFs) may not be used for capital expenses or the normal cost of business.
-
-*   Activities/expenses NOT covered under the GitLab MDF Program include alcohol, cash, charity events/activities, product discounts, travel, and lodging expenses.
+*  Activities/expenses NOT covered under the GitLab MDF Program include alcohol, cash, charity events/activities, product discounts, travel, and lodging expenses.
 *  Activities that involve multiple vendors will not be supported at 100% funding by GitLab. The local Channel Marketing Manager may approve a percentage of funding based on the number of vendors and visibility of GitLab versus other participating vendors.
 *  GitLab reserves the right to modify or terminate the MDF Program upon 30-days advance written notice, which is provided on the GitLab Partner Portal. Such modification or termination will not affect prior approved requests for activities that ran before the effective date of the modification or termination, nor will it affect prior approved plans in progress at the time of the change.
 *  If claims are not submitted within 30 calendar days following the activity, the funding allotment and/or allocation may be null and void, and you may forfeit any unallocated or unclaimed funds.
@@ -98,12 +105,12 @@ Marketing development funds (MDFs) may not be used for capital expenses or the n
 *  If GitLab subsequently denies an MDF claim for good cause after reimbursement, you must immediately return such funding to GitLab.
 *  The terms of these MDF guidelines are in addition to the applicable Channel Partner Agreement in place with GitLab; they are valid only when specifically referenced from the applicable Channel Partner Agreement, program guide, or otherwise made available to a channel party by GitLab in writing. All terms not otherwise defined herein have the meaning set forth in the applicable Channel Partner Agreement.
 
-
-#####  Entering a MDF Request and Proof of Performance
+###  Entering a MDF Request and Proof of Performance
 
 Partners can access the MDF Request Form from the GitLab Partner Portal home page. Navigate to Marketing and select “MDF Request.” Upon selecting MDF Request, complete the first part of the form to create a fund request. Once completed, click “submit it” and it will be routed to a GitLab representative for approval within 14 business days.
+
 Once the marketing or enablement activity is completed, return to the original request and complete the POP documentation as outlined in the Proof of Performance section above.
 
+## Contact us
 
-##### Contact us
-For more information please reach out to partner-marketing@gitlab.com
+For more information on marketing development funds, please email us at partner-marketing@gitlab.com
