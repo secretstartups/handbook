@@ -768,7 +768,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
    1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
    1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
 1. To highlight high-impact issues which need additional discussion, please add an agenda item.
-1. If a guest attendee would be helpful for collaboration, please forward the invite. For example, a TAM or Support Engineer may have information that would be helpful for an upcoming topic.
+1. If a guest attendee would be helpful for collaboration, please forward the invite. For example, a CSM or Support Engineer may have information that would be helpful for an upcoming topic.
 
 ## Infradev
 
