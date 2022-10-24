@@ -137,6 +137,51 @@ At the moment of writing, the target for this PI is defined in this [key result]
 
 MTTP is further broken down into charts and tables at the [Delivery Team Performance Indicators Sisense dashboard][Delivery Sisense PIs].
 
+## Delivery domain ownership between Delivery teams
+
+The Delivery Group owns the tools and capabilities needed for GitLab deployments and releases. The diagram below shows the split of domain ownership between the two teams and the current release managers. Where the domain overlaps with teams outside of the Delivery Group, we focus primarily on the deployments and releases capabilities and needs. 
+
+![Delivery Group domain](img/Delivery-domain.png)
+- [Diagram source](https://docs.google.com/presentation/d/1KdrrdYpjdHinYyUa2V3nUCWico74twXWfCCJg-m0ODI/edit?usp=sharing)
+
+### Release Manager ownership
+
+Release Managers are members of the Delivery group but during their time as release managers they're wearing a different hat. The primary customer is GitLab users
+
+1. Auto-deploys: Release Managers operate the auto-deploy process. Largely this will make use of capabilities provided by the Orchestration team, but the Orchestration tools will be making use of the System team capabilities. Environment health checks are an example of a System capability that will be integral to the process and tools the release managers use.
+2. Self-managed releases: Release Managers operate the release processes (patch and security) using the capabilities provided by the Orchestration team.
+3. Post-deploy migrations: Release Managers operate the PDM process using the capabilities provided by the Orchestration team.
+4. Hot patch process: Release Managers, working with EOCs, will manage the hot patch process. Hot patch capabilities are provided by the Orchestration team with heavy dependence on System capabilities due to the shortened process and therefore reduced pipeline jobs.
+5. Deployment blockers: Release Managers are responsible for identifying, and reporting on deployment blockers in order to provide Orchestration and System with data needed to plan improvements.
+6. Release Manager dashboards: Release Managers own https://dashboards.gitlab.net/d/delivery-release_management/delivery-release-management?orgId=1 plus have the freedom to create any additional dashboards that they think would be useful for release management. The data needed for dashboards will be made available from a centralized place, owned by System (see point 18).
+
+### Delivery:Orchestration ownership
+
+The primary customers of the Orchestration team are the internal GitLab users who want to deploy & release changes i.e., Release Managers and Stage Groups.
+
+7. Deployment changelock: Orchestration will make sure that all deployments observe planned and ad-hoc changelocks. Examples include PCLs, S1/S2 incidents, as well as other Change Requests.
+8. Pipeline visibility: Providing visibility of pipeline configuration, status, and outcome.
+9. Deployment change management tooling: Providing the ability for changes to be included, or excluded from deployments.
+10. Release change management tooling: Providing the ability for changes to be included, or excluded from releases to Self-Managed users.
+11. Deployment execution log: Ensuring that an accurate log of deployments is maintained.
+12. Deployment & release metadata: Tracking component versions and dependencies to allow for quality gates to be accurate, and to ensure predictable releases.
+13. QA test execution & results visibility: Ensuring that all deployments and releases pass the required testing. Orchestration will be particularly concerned with timing of test execution and making sure that the correct dependencies are in place for reliable results.
+14. Deployment dashboards: Orchestraction will own a set of dashboards to guide the team's work on designing effective deployment and release processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual deployment and release pipelines.
+
+### Delivery:System ownership
+
+The primary customer of the System team is the Delivery::Orchestration team.
+
+15. Environment changelock: System will make sure that environments can be locked to schedule, or on an ad-hoc basis if required by planned maintenance or poor environment health. Guaranteeing that changes are rolled out in a predictable way will also be a System responsibility.
+16. Environment health: Ensuring that environment health is assessed and available to guide deployment decisions.
+17. Release & deployment metrics: Providing A centralized store for metrics related to deployments & releases. System will primarily be concerned with providing a metrics capability to allow all deployment and release pipelines to record metrics in a useful way to fuel all required dashboards.
+18. Application rollout: System will be responsible for applying changes to the required clusters and environments. Rollout strategies, e.g., canary, blue/green, with gradual traffic increase etc, will be capabilities provided by System.
+19. Release Publishing: publishing packages to various distribution sites (e.g., packages.gitlab.com, Docker Hub, etc.), publishing tooling, and guaranteeing a reliable publishing process.
+20. Rollout dashboards: System will own a set of dashboards to guide the team's work on managing effective rollouts to all environments. Examples could include the timing of changes applied to individual servers and visibility into environment use.
+21. Canary environments: System will own the rollout capability of the canary environments. They'll work closely with Reliability to ensure full environment management.
+22. Deployment and release test environments: Pre, Staging, Release: System will own the rollout capability of the test environments. They'll work closely with Reliability to ensure full environment management.
+23. Deployment and release production environment: System will own the rollout capability of the Production environment. They'll work closely with Reliability to ensure full environment management.
+
 ## How we work
 
 ### Project Management
