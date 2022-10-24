@@ -33,11 +33,11 @@ Slack handle: `@kayokocooper` <br>
 Location and Timezone: USA, EDT/EST  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
-**Mark Quitevis - Senior Business Systems Analyst**  
-GitLab handle: [@mquitevis](https://gitlab.com/mquitevis)  
-Slack handle: `@Mark Quitevis`   
-Location and Timezone: USA, CDT/CST  
-Linkedin Profile: [/mark-quitevis-b314b968](https://www.linkedin.com/in/mark-quitevis-b314b968/)
+**Nicholas Sandoval - Business Systems Analyst**  
+GitLab handle: [@nicosando](https://gitlab.com/nicosando)  
+Slack handle: `@Nico Sandoval` <br>
+Location and Timezone: USA, EDT/EST  
+Linkedin Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicolas-sandoval-331900b3/)
 
 **Santhosh Baranidharan - Senior Business Systems Analyst**  
 GitLab handle: [@sbaranidharan](https://gitlab.com/sbaranidharan)  
