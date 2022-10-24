@@ -48,7 +48,8 @@ In order for a SaaS user to be a candidate for the [workflow](#workflow), one of
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
 1. The user is the primary billing contact on a current invoice for a SaaS purchase.
-1. GitLab team member (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
+
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 

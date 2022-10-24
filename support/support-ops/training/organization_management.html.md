@@ -70,7 +70,7 @@ are:
 * Sales Segmentation - the market segment they fall into
 * Account Owner - The organization's AM
 * Account Type - the type of account
-* Technical Account Manager - the organization's TAM
+* Customer Success Manager - the organization's CSM
 * AM Project ID - the project ID where information about the organization is
   held (such as architecture diagram, allowed users, etc.)
 * Number of Seats - the number of seats in their license

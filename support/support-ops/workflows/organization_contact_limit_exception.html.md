@@ -32,7 +32,7 @@ In rare circumstances, we grant temporary contact limit exceptions.
 
 ### Requester portion
 
-The process will beging with the organization's sales representative (AM, TAM,
+The process will beging with the organization's sales representative (AM, CSM,
 SA) filing a
 [Support Contact Exception Request issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Contact%20Limit%20Exception%20Request)
 within the
