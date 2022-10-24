@@ -858,7 +858,7 @@ All campaigns we are working with channel partners must flow through the outline
 Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
 
 ### Useful Fields in SFDC that relate to Vartopia 
-1. Please refer to [this handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#sfdc-partner-prospect-admin) for further details. 
+1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#sfdc-partner-prospect-admin) for further details. 
 
 ### Channel Program 
 The below list is not exhaustive. 
