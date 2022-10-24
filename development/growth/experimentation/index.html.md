@@ -53,7 +53,7 @@ The duration of each experiment will vary depending on how long it takes for exp
 - When our product managers make the call, we initiate experiment and feature flag cleanup, either adding the experiment feature to the product or reverting
 1. Engineering & PM collaborate on getting the experiment activated according to the defined rollout plan
     - PM or Engineering update the [experiment rollout](#experiment-rollout-issue) issue, setting the experiment scoped label to `~"experiment::active"` when the experiment is live
-    - PM or Engineering notify interested parties (their team, data team, support, TAMs, etc.) by at-mentioning them in a comment on the [experiment rollout](#experiment-rollout-issue) issue, and on the `#production` Slack channel
+    - PM or Engineering notify interested parties (their team, data team, support, CSMs, etc.) by at-mentioning them in a comment on the [experiment rollout](#experiment-rollout-issue) issue, and on the `#production` Slack channel
 1. PM monitors the experiment via data sent to Sisense, adjusting the rollout strategy in the [experiment rollout](#experiment-rollout-issue) issue as necessary
 1. PM compares recorded data to the experiment's criteria for measuring success
     - if experiment (variant) is successful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to fully integrate the successful flow into the product
