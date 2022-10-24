@@ -48,7 +48,7 @@ When choosing the right method for problem validation research, first ask yourse
 
  * **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem. 
 
-Problem validation research is not only conducted with end users. Often, sales, support, and TAMs (technical account managers) can offer valuable insights into customer behavior. They typically interact with a large number of customers and have a well developed understanding of what needs customers have and what issues they have faced.
+Problem validation research is not only conducted with end users. Often, sales, support, and CSMs (technical account managers) can offer valuable insights into customer behavior. They typically interact with a large number of customers and have a well developed understanding of what needs customers have and what issues they have faced.
 
 ### Foundational research methods
 
