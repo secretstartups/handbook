@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Technical Enablement Program Manager"
 ---
 
-The Technical Enablement Program Manager is responsible for leading and managing technical learning programs for GitLab technical sales and customer success professionals (Solution Architects and Technical Account Managers) across the technical sales professional lifecycle.
+The Technical Enablement Program Manager is responsible for leading and managing technical learning programs for GitLab technical sales and customer success professionals (Solution Architects and Customer Success Managers) across the technical sales professional lifecycle.
 
 ## Levels 
 

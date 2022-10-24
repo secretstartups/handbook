@@ -92,7 +92,7 @@ trends, working cross-functionally to communicate those trends. To do this you'l
 
 * Work with Support Managers and the Director of Support Readiness to identify
 ticket trends and health by customer and ticket types.
-* Proactively engage with customers, their Technical Account Managers and 
+* Proactively engage with customers, their Customer Success Managers and 
   Support Management when ticket trends turn unhealthy to facilitate a return to
   normal.
 * Monitor trending product usage, adoption and satisfaction issues in tickets to provide insights to your counterparts in

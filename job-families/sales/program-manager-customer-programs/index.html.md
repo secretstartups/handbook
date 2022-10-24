@@ -1,16 +1,16 @@
 ---
 layout: job_family_page
 title: "Program Manager, Customer Programs"
-description: "The Program Manager, Customer Programs is a part of the Technical Account Manager team, and focuses on  enabling the onboarding-only and digital customer segments."
+description: "The Program Manager, Customer Programs is a part of the Customer Success Manager team, and focuses on  enabling the onboarding-only and digital customer segments."
 ---
 
-The Program Manager, Customer Programs is a part of the [Technical Account Manager](/job-families/sales/customer-success-management/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
+The Program Manager, Customer Programs is a part of the [Customer Success Manager](/job-families/sales/customer-success-management/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
 
 ## Levels
 
 ### Program Manager, Customer Programs (Intermediate)
  
-The Program Manager, Customer Programs (Intermediate) reports to the [Director of Technical Account Managers](/job-families/sales/customer-success-management/#director-of-tams).
+The Program Manager, Customer Programs (Intermediate) reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-tams).
  
 #### Program Manager, Customer Programs (Intermediate) Job Grade
  
@@ -20,9 +20,9 @@ The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/co
  
 - Manage the Gainsight build and implementation of the onboarding and digital enablement programs, including rule creation, report creation, data testing, journey creation and analytics
 - Work closely with the technical writer, customer programs, and CS Operations to build customer enablement programs based on available insights and product analytics triggers
-- Provide regular updates on the efficacy of the onboarding and digital enablement programs, recommending and leading changes in partnership with TAM management
+- Provide regular updates on the efficacy of the onboarding and digital enablement programs, recommending and leading changes in partnership with CSM management
 - Architect content flows through Gainsight Journey Orchestrator and iterate in short cycles based on user feedback
-- Develop, deliver, and measure the success of adoption campaigns, collaborating with regional TAM leaders
+- Develop, deliver, and measure the success of adoption campaigns, collaborating with regional CSM leaders
 - Iterate on content flows based on increasingly available product analytics data, continuing to improve the customer experience and the effectiveness of the digital enablement
 - Collaborate cross-functionally to ensure the customer programs work synergistically with other customer touch-points from other Gitlab teams like Growth and Marketing
 - Document all processes in the handbook and update as needed.
@@ -42,7 +42,7 @@ The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/co
 
 ### Senior Program Manager, Customer Programs
  
-The Program Manager, Customer Programs reports to the [Director of Technical Account Managers](/job-families/sales/customer-success-management/#director-of-tams).
+The Program Manager, Customer Programs reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-tams).
  
 #### Senior Program Manager, Customer Programs Job Grade
  
@@ -67,7 +67,7 @@ The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rew
  
 ## Career Ladder
  
-The Customer Programs Job Family would flow into the [Technical Account Managers](/job-families/sales/customer-success-management/) Job Family.
+The Customer Programs Job Family would flow into the [Customer Success Managers](/job-families/sales/customer-success-management/) Job Family.
  
 ## Hiring Process
  

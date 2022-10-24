@@ -18,7 +18,7 @@ The Director, Digital Success is a [grade 10](/handbook/total-rewards/compensati
   * Customer journey development 
   * Go-to-market (GTM) and/or customer adoption campaigns, including collaboration with Marketing, Product, Data Teams, and Sales Operations
   * Digital journey development, content creation and curation, and metrics
-  * Enhance and augment digital experience for TAM-led customers
+  * Enhance and augment digital experience for CSM-led customers
 * Cross-functionally align the digital experience across email, in-app, the customer portal, Product feedback, etc. for a cohesive customer experience
 * Define, lead and track strategic and operational digital programs to successful completion
 * Design, evaluate, and measure digital programs against internal targets for continuous improvement 
