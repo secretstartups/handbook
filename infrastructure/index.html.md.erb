@@ -51,10 +51,9 @@ Contribute new platform management capabilities to expand our ability to meet ou
 
 ### 3) Develop Depth in Key Technical Areas
 
-1. Continue new contributions from our expansion of both the Scalability and Delivery teams and evolve that focus as the stage in the lifecycle of the challenge changes. This may involve new teams in our Reliability compartment focused on a vertical technology (like Redis) while Scalability and Delivery move on to new challenges.
-1. Iterate further on what we’ve started in the [Squad project model](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads----squad-list) now that we've both expanded the Reliability SRE team and achieved scale with our Reliability leadership team. 
-1. Utilize continuing Reliability compartment expansion to create clear ownership of key underlying technologies. Establish roadmaps for the future in owned areas and enable team members to expand their skills with opportunities for specialization.
-1. Partner with Development teams to fulfill initial [Stable Counterpart](https://about.gitlab.com/handbook/engineering/infrastructure/#stable-counterparts) influence. As our staffing increases above the minimum oncall level, dedicate a larger percentage of new team member capacity towards enabling more efficiency and ownership across all of Engineering.
+1. Continue current Redis focus from the new second Scalability team and evolve that focus as the scale increases but the maintenance becomes more boring. This may involve new teams focused on a vertical technology (like Redis) while Scalability moves on to a new challenge.
+1. Build on what we’ve started in the [Squad project model](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads----squad-list) and see more results from small groups focusing on fewer concurrent efforts.
+1. Partner with Development teams to fulfill initial [Stable Counterpart](/handbook/engineering/infrastructure/stable-counterpart.html) influence. As our staffing increases above the minimum oncall level, dedicate a larger percentage of new team member capacity towards enabling more efficiency and ownership across all of Engineering.
 
 ### 4) Invest in Team Members Capabilities
 
@@ -131,28 +130,9 @@ For details on the Department's structure, see the [**Infrastructure Teams Handb
 
 ## Stable Counterparts
 
-Infrastructure [Reliability Engineering Squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads----squad-list) may be aligned with [stage groups](/handbook/product/categories/#categories-a-z) as [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/). The responsibility of a stable counterpart varies from:
+Infrastructure [Reliability Engineering Squads](./team/reliability/projects.html#project-squads----squad-list) may be aligned with [stage groups](/handbook/product/categories/#categories-a-z) as [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/).
 
-1. Be the bridge for the stage group to the infrastructure department.
-1. Grow expertise in the service.
-1. Reviewing the stage group design documents, and readiness review.
-1. Enable the stage group to self-serve in infrastructure.
-1. Address any operational risks for that group.
-1. Route domain specific requests to other infrastructure teams.
-
-|**Stage Group**|**Reliability Team Members**|
-|--------------|-----------------------------|
-<% data.sections.each do |sectionKey, section| %>
-  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
-    <% if stage.groups %>
-      <% stage.groups.each do |groupKey, group| %>
-        <% if group.infra_reliability_team_tag %>
-          <%= "| [#{stage.display_name}:#{group.name}](/handbook/product/categories/##{group.name.downcase}-group) | #{team_links_from_group(group: group.infra_reliability_team_tag)} |" %>
-        <% end %>
-      <% end %>
-    <% end %>
-  <% end %>
-<% end %>
+[Stable Counterparts](./team/stable-counterpart.html) are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](#teams).  
 
 ## Meetings 
 

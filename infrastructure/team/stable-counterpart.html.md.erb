@@ -1,0 +1,115 @@
+---
+layout: handbook-page-toc
+title: "Reliability Stable Counterparts"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# Stable Counterparts
+Stable Counterparts are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams).  
+
+# Overview
+![Stable Counterpart Overview](img/stable-counterpart-overview.png)
+
+ * Stage Group Counterparts work in conjunction with Infrastructure Counterparts to build, maintain, and improve services and ensure the [SLO](https://about.gitlab.com/handbook/engineering/error-budgets/error-budget-by-stage-group-example.html#sli-slo-sla) is met.
+ * To achieve [results](https://about.gitlab.com/handbook/values/#results), it is important for Stable Counterparts to be great [collaborators](https://about.gitlab.com/handbook/values/#collaboration). 
+
+## Configuration and Participation
+
+ * Stage Groups are assigned: 
+   * 1 [DRI](#dri) - Manager or Engineer from either the Stage Group or the Infrastructure Department 
+    * A minimum of 1 Stage Group Engineer
+    * A minimum of 1 Infrastructure Engineer.
+
+ * Assignments for Engineers last between 2 and 4 quarters depending on the service and the scope of work required to meet business needs.
+
+ * Aside from participating in on-call rotations, Stable Counterpart work should be the top priority for both Stage Group and Infrastructure Engineers when they are assigned the role.
+
+### DRI
+A Stable Counterpart DRI should be selected before any work or planning happens.  DRIs can be Engineering Managers from either the service stage group or from within the Infrastructure Department.
+
+#### DRI - Responsibilities
+
+ * [Manage Work](#dri---manage-work) 
+ * [Manage Collaboration](#dri---manage-collaboration)
+ * [Manage Reporting](#dri---manage-reporting)
+
+##### DRI - Manage Work
+ * Establish, manage, and balance the roadmap for short, medium, and long term service OKRs.  
+ * Prioritize new and existing work.
+   * S1/S2/S3 Corrective Actions
+   * Observability Adjustments (engage with the Observability Squad within Reliability)
+    * Non-Actionable Alerts
+    * SLO/SLI/SLA Adjustments
+ * Manage Long Term Projects
+   
+##### DRI - Manage Collaboration
+ * In establishing service OKRs it is important to involve the right people.  The DRI is responsible for locating and organizing these resources as required.
+ * Schedule and run weekly syncs involving the correct team members even beyond assigned Counterparts.
+ * Encourage [brainstorming](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) amongst Counterparts as service goals are progressed.
+
+##### DRI - Manage Reporting
+ * Update the `stable-counterpart` Epic each week with a summary of current Counterpart progress.  The [suggested template](#suggested-reporting-template-for-dris) can be used for this purpose.
+
+#### DRI - Getting Started
+You've been assigned to be a Stable Counterpart DRI for a service, great!  Now what?
+
+ 1. Arrange a synchronous kickoff meeting and create an initial [agenda](#stable-counterpart-weekly-sync-agenda-template).
+    * The kickoff meeting should involve assigned counterparts, DRIs, and as many members of the stage group team as possible.  Broad async participation in the kick-off meeting is encouraged. 
+ 2. Identify goals for next 2-4 quarters
+    * Goals should benefit both the stage group team and the infrastructure engineers
+ 3. Create an epic within the [`gl-infra`](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics) project and add the `stable-counterpart` label.
+ 4. For each goal identified, add a sub epic or issues to the main `stable-counterpart` epic.
+ 5. Schedule a weekly sync with both counterparts using the [agenda template](#-stable-counterpart-weekly-sync-agenda-template).
+
+# Resources
+## Stable Counterpart Weekly Sync Agenda Template
+
+```
+Date:
+
+Participants:
+
+1. New Items
+   1. ...
+2. Standing Items
+   1. Incidents and Corrective Actions
+   2. Observability Adjustments
+   3. Long Term Work
+   4. Ideas for Improvements
+     1. Automation
+     2. Self-Service
+```
+
+
+## Suggested Reporting Template for DRIs
+
+ * What happened last week:
+   * Provide 1-2 sentences summarizing work completed.  Include relevant links as needed.
+ * What's happening this week? 
+   * Provide 1-2 sentences summarizing work completed.  Include relevant links as needed.
+   * Mention counterpart absences if applicable.
+ * Things to be aware of
+   * If Counterpart members are pulled in to incidents or other unrelated work.
+   * Service problems or work that could impact other services
+   * Link discussions regarding the future of the service here.
+
+## Current assigned counterparts
+
+|**Stage Group**|**Reliability Team Members**|
+|--------------|-----------------------------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% if stage.groups %>
+      <% stage.groups.each do |groupKey, group| %>
+        <% if group.infra_reliability_team_tag %>
+          <%= "| [#{stage.display_name}:#{group.name}](/handbook/product/categories/##{group.name.downcase}-group) | #{team_links_from_group(group: group.infra_reliability_team_tag)} |" %>
+        <% end %>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %> 
