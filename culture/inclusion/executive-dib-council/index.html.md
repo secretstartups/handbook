@@ -26,7 +26,8 @@ A strategic group of Senior leaders Leaders who assist the DIB team in implement
 Senior leadership representative (Snr. Dir +) from each Department and a person from an underrepresented group who is manager+ where representation at Snr Dir+ is not possible. 
 
 * Engineering x 2 
-* Product x 2
+* Product x 1
+* Security x 1
 * Sales x 2
 * Marketing 
 * Finance
