@@ -24,6 +24,7 @@ For many of our automations, we use tokens owned by the
 | [ADWR](https://ops.gitlab.net/gitlab-com/support/adwr) | Support Ops - ADWR |
 | [Agents (Global)](https://ops.gitlab.net/gitlab-com/support/zendesk-global/agents) | Support Ops - Agents (Global) |
 | [Agents (US Federal)](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/agent-signatures) | Support Ops - Agents (US Federal) |
+| [Customer Feedback](https://gitlab.com/gitlab-com/support/feedback) | Support Ops - Customer Feedback |
 | [DEWR](https://gitlab.com/gitlab-com/support/toolbox/dewr) | Support Ops - DEWR |
 | [Fieldnotes App](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/fieldnotes-app) | Support Ops - Field notes app |
 | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests) | Support Ops - Internal Requests |
