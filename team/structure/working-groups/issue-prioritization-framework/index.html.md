@@ -46,7 +46,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 - ✅  `Cost of Delay / Duration` will serve as the primary model to run a pilot against.
 - ✅  We've determined how to assign monetary value for issues with links to SFDC.
 - ✏️ [Determine model inputs for issues that do not have SFDC links](https://gitlab.com/gitlab-com/Product/-/issues/1639).
-- ✅ [Define TAM inputs](https://gitlab.com/gitlab-com/Product/-/issues/1635).
+- ✅ [Define CSM inputs](https://gitlab.com/gitlab-com/Product/-/issues/1635).
 
 #### Step 2: [Implement & validate model](https://gitlab.com/gitlab-com/Product/-/issues/1563) `=> 100%`
 
@@ -66,11 +66,11 @@ Limited pilot (select IC PMs):
 - Process for mapping issues/epics to themes and product investments is finalized, documented, and has the support of Product, Sales, and Customer Success. 
   - Current: `No`
 
-Scaled pilot (IC PM / TAM focused) measures of success:
+Scaled pilot (IC PM / CSM focused) measures of success:
 
 - `> 80%` of Product Managers regularly use the dashboards powered by the framework and find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
   - Current: N/A
-- `> 80%` of Technical Account Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the TAM dashboard as measured by quarterly survey responses. 
+- `> 80%` of Customer Success Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the CSM dashboard as measured by quarterly survey responses. 
   - Current: N/A
 
 Verify and measure at scale:
@@ -93,13 +93,13 @@ Verify and measure at scale:
 | Functional Lead       | Israel Weeks               | Manager, Data |
 | Functional Lead       | Jeff Beaumont            | Senior Manager, CS Ops |
 | Functional Lead       | TBD (Sales)              | TBD |
-| Member                | Patrick Harlan           | Manager, Technical Account Managers (Commercial) |
+| Member                | Patrick Harlan           | Manager, Customer Success Managers (Commercial) |
 | Member                | Sophie Pouliquen         | Senior Techical Account Manager |
 | Member                | Martin Brümmer         | Senior Techical Account Manager |
 | Member                | Mek Stittri              | Director of Quality Engineering |
 | Member                | Farnoosh Seifoddini      | Product Operations |
 | Member                | Jonathan Fullam          | Solutions Architecture |
-| Member                | Sherrod Patching         | Director, Technical Account Managers |
+| Member                | Sherrod Patching         | Director, Customer Success Managers |
 
 ## Meetings
 

@@ -35,7 +35,7 @@ Allow mirroring or downloading of all the needed information for an offline use.
 |--------------------|------------------|---------------------------------------------------|
 | Facilitator        | Todd Stadelhofer | Director of Engineering, Secure                   |
 | Quality Lead       | Mek Stittri      | Director of Quality                               |
-| TAM Lead           | Kevin Chasse     | Federal Technical Account Manager                 |
+| CSM Lead           | Kevin Chasse     | Federal Customer Success Manager                 |
 | PM Lead            | Nicole Schwartz  | Product Manager, Secure, Composition Analysis     |
 | Member             | David DeSanto    | Director, Product, Sec                |
 | Member             | Olivier Gonzalez | Engineering Manager, Secure, Composition Analysis |

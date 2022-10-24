@@ -57,7 +57,7 @@ Previously, the customer had to do this on their own, which was time consuming, 
 | Tech Writing Lead     | Achilleas (Axil) Pipinellis | Technical Writer         |
 | Member                | Tom Cooney            | Director of Support            |
 | Member                | Francis Potter        | Solutions Architect            |
-| Member                | John Woods            | TAM Manager                    |
+| Member                | John Woods            | CSM Manager                    |
 | Member                | Tanya Pazitny         | Quality Engineering Manager    |
 | Member                | Andrew Newdigate      | Distinguished SRE              |
 | Member                | Nailia Iskhakova      | Software Engineer in Test      |

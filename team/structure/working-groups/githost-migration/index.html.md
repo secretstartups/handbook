@@ -49,7 +49,7 @@ Successfully migrate a key customer from GitHost.io to GitLab.com. More details 
 | Member                | Sanad Liaquat         | Senior Software Engineer in Test, Manage   |
 | Member                | Glen Miller           | Professional Services Engineer             |
 | Member                | Petar Prokic          | Professional Services Engineer, EMEA       |
-| Member                | Sean Hoyle            | Technical Account Manager                  |
+| Member                | Sean Hoyle            | Customer Success Manager                  |
 | Member                | Luca Williams         | Product Manager, Manage:Spaces             |
 | Member                | Lyle Kozloff          | Support Engineering Manager                |
 
