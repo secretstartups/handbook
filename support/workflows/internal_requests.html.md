@@ -115,4 +115,4 @@ Console escalation requests can also serve a purpose when further information (u
 
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request. Common or custom functions can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
 
-Any request requiring disk access, which cannot be done via rails console, requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
+Any request requiring disk access or a big data pull request similar to this [example](https://gitlab.zendesk.com/agent/tickets/336085), which cannot be done via rails console, requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues). Please note that infra does not have an SLO on these requests and may, in the customer's view, take an unreasonable amount of time to action on.
