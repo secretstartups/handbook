@@ -243,15 +243,15 @@ Due to the overhead involved and the risk of detracting from impact mitigation e
 Implementing a direct customer interaction call for an incident is to be initiated by the current Incident Manager by taking these steps:
 1. Identify a second Incident Manager who will be dedicated to the customer call. If not already available in the incident, announce the need in #imoc_general with a message like `/here A second incident manager is required for a customer interaction call for XXX`.
 1. Page the [Infrastructure Leadership pagerduty rotation](https://gitlab.pagerduty.com/schedules#PBSMJH2) for additional assistance and awareness.
-1. Identify a Technical Account Manager who will act as the primary TAM and also be dedicated to the customer call. If this role is not clear, also refer to Infrastructure Leadership for assistance.
+1. Identify a Customer Success Manager who will act as the primary CSM and also be dedicated to the customer call. If this role is not clear, also refer to Infrastructure Leadership for assistance.
 1. Request that both of these additional roles join the main incident to come up to speed on the incident history and current status. If necessary to preserve focus on mitigation, this information sharing may be done in another Zoom meeting (which could then also be used for the customer conversation)
 
 After learning of the history and current state of the incident the Engineering Communications Lead will initiate and manage the customer interaction through these actions:
-1. Start a new Zoom meeting - unless one is already in progress - invite the primary TAM.
-1. The Engineering Communications Lead and TAM should appropriately set their Zoom name to indicate `GitLab`, as well as their Role, `TAM` `Engineering Communications Lead`
-1. Through the TAM, invite any customers who are required for the discussion.
+1. Start a new Zoom meeting - unless one is already in progress - invite the primary CSM.
+1. The Engineering Communications Lead and CSM should appropriately set their Zoom name to indicate `GitLab`, as well as their Role, `CSM` `Engineering Communications Lead`
+1. Through the CSM, invite any customers who are required for the discussion.
 1. The Engineering Communications Lead and the Incident Manager need to prioritize async updates that will allow for the correct information to flow between conversations. Consider using the incident slack channel for this but agree before the customer call starts.
-1. Both the Engineering Communications Lead and TAM should remain in the Zoom with the customers for the full time required for the incident. To avoid loss of context, neither should "jump" back and forth from the internal incident Zoom and the customer interaction Zoom.
+1. Both the Engineering Communications Lead and CSM should remain in the Zoom with the customers for the full time required for the incident. To avoid loss of context, neither should "jump" back and forth from the internal incident Zoom and the customer interaction Zoom.
 
 In some scenarios it may be necessary for most all participants of an incident (including the EOC, other developers, etc.) to work directly with a customer. In this case, the customer interaction Zoom shall be used, NOT the main GitLab Incident Zoom. This will allow for the conversation (as well as text chat) while still supporting the ability for primary responders to quickly resume internal communications in the main Incident Zoom. Since the main incident Zoom may be used for multiple incidents it will also prevent the risk of confidential data leakage and prevent the inefficiency of having to frequently announce that there are customers in the main incident zoom each time the call membership changes.
 
