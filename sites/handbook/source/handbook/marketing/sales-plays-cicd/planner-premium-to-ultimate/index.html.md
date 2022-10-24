@@ -55,7 +55,7 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 
 
 #### **Sales teams** {#sales-teams}
- SALs, Account managers, and TAMs
+ SALs, Account managers, and CSMs
 
 
 #### **Pipeline goal**  {#pipeline-goal}
@@ -136,7 +136,7 @@ Which GitLab stages/feature make up this sales play:
 * Vulnerability Management
 * Security Approvals in Merge Requests
 
-Ultimate also includes priority support (4 business hour support), upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
+Ultimate also includes priority support (4 business hour support), upgrade assistance, and a Customer Success Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
 #### **Which combination delivers the overall outcome to a customer**  {#which-combination-delivers-the-overall-outcome-to-a-customer}
 

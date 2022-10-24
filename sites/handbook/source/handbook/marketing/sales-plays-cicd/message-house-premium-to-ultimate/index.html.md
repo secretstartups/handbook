@@ -40,7 +40,7 @@ Think *security and reducing risk, protecting the business's intellectual proper
 | **Why GitLab** | Reduce exposure and unify teams | Reduce risk, easily scalable |  Completely integrated from idea to production | Single source of truth to focus on remediation, less friction  |
 
 Additional Ultimate value: 
-- Enterprise-grade priority support, including 24/7 uptime support, a dedicated Technical Account Manager (TAM), and upgrade assistance are all still included with Ultimate.
+- Enterprise-grade priority support, including 24/7 uptime support, a dedicated Customer Success Manager (CSM), and upgrade assistance are all still included with Ultimate.
 - Access to free guest users
 - Project, portfolio and requirements management [value](https://about.gitlab.com/pricing/ultimate/#project-portfolio-and-requirements-management)
 - Modern CD with compliance

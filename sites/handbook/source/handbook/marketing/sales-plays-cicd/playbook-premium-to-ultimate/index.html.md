@@ -24,7 +24,7 @@ Note: Think of a sales play as a recipe. If you follow the recipe, we can achiev
 
 Who is this sales play for?  
 * Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
-* Secondary: SAs and TAMs who support one or more existing GitLab Premium customers  
+* Secondary: SAs and CSMs who support one or more existing GitLab Premium customers  
 
 *Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.*
 
@@ -125,7 +125,7 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 GitLab Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance.
 
-*Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
+*Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 CI/CD minutes, a named CSM, and more…*
 
 ### How GitLab Does It
 
