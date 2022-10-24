@@ -43,7 +43,6 @@ Planned:
 1. Create and update [a single handbook page](https://internal-handbook.gitlab.io/handbook/engineering/gitlab-com-disaster-recovery), and deprecate resources in other locations. **DRI:** Fabian Zimmer
 1. [Define and clarify the FY24 recovery goals](https://app.ally.io/objectives/2228900?time_period_id=155987) **DRI:** Steve Loyd
 1. [Complete an assessment of zonal outage and identify next step iterations towards 4 hour recovery goal](https://app.ally.io/objectives/2235994?time_period_id=155987) (Epic: [gitlab.com&1900](https://gitlab.com/groups/gitlab-com/-/epics/1900)). **DRI:** John Jarvis
-1. Define the strategy to deliver a short-term DR solution for GitLab.com and [incorporate work into the Reliability Cross-Functional Initiative](https://app.ally.io/objectives/2228902?time_period_id=155987)  **DRI:** Steve Loyd
 1. Define a medium to long term strategy for DR capabilities for GitLab Dedicated and Pods via Geo.  **DRI:** Sampath Ranasinghe 
 
 ## Roles and Responsibilities
@@ -56,6 +55,7 @@ Planned:
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
 | Development DRI                          | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
 | Product Management DRI                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
+| Member                                   | John Jarvis                      | Staff SRE, Infrastructure                                       |
 | Member                                   | Michele Bursi                    | Engineering Manager, Delivery                                   |
 
 ## Related Links
