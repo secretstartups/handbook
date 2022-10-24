@@ -454,7 +454,7 @@ The following table outlines some of the possible lateral transfer options at an
 | Backend Engineer    | Support Engineer          |
 | Support Engineer    | Backend Engineer          |
 | Support Engineer    | Solutions Architect       |
-| Support Engineer    | Technical Account Manager |
+| Support Engineer    | Customer Success Manager |
 | Support Engineer    | Implementation Specialist |
 | Automation Engineer | Backend Engineer          |
 | Backend Engineer    | Automation Engineer       |
