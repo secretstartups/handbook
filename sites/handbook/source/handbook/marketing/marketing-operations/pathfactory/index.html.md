@@ -86,7 +86,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
 | All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
 | Partner Marketing | `Author` (select users) | View content library, create and clone content tracks for partners, reporting |
-| Customer Programs | `Author` (select users) | View content library, create content tracks for customer onboarding where a TAM is not assigned or requested, reporting |
+| Customer Programs | `Author` (select users) | View content library, create content tracks for customer onboarding where a CSM is not assigned or requested, reporting |
 
 ## Support
 
