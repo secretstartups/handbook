@@ -272,7 +272,7 @@ Sample Questions:
 ### Escape Rooms 
 * [The Escape Room](https://theescapegame.com/remote-adventures/)
 * [Reason](https://www.tryreason.com/)
-* [Mystery Escape Room](https://www.mysteryescaperoom.com/) - the TAM and FieldOps teams did this one
+* [Mystery Escape Room](https://www.mysteryescaperoom.com/) - the CSM and FieldOps teams did this one
 
 ### Murder Mysteries 
 * [Whudunnit](https://www.eventbrite.com/e/virtual-mystery-for-private-events-tickets-106555751120)
