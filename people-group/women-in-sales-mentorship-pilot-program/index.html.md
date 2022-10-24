@@ -94,9 +94,9 @@ The program will last for up to 3-months if both the mentor and the mentee remai
 | **Mark Rogge** Director, Regional Sales|  **Taylor Medlin** Solutions Architect |
 | **Dale Richard Brown** Principal Accounting Officer| **Amy Brandenburg** Technology Partner Manager |
 | **Michelle Hodges** VP of Global Channels| **Susannah Reed** Strategic Account Leader|
-| **Bryan Wise** VP, IT|  **Sophie Pouliquen** Senior Technical Account Manager |
-| **Eric Brinkman** Senior Director, Product Management| **Jenna McCarthy** Technical Account Manager|
-| **Kristen Lawrence** Director, Customer Success|  **Chloe Whitestone** Technical Account Manager|
+| **Bryan Wise** VP, IT|  **Sophie Pouliquen** Senior Customer Success Manager |
+| **Eric Brinkman** Senior Director, Product Management| **Jenna McCarthy** Customer Success Manager|
+| **Kristen Lawrence** Director, Customer Success|  **Chloe Whitestone** Customer Success Manager|
 | **Craig Mestel** VP, Finance |  **Kyla Gradin** Account Executive - Mid Market|
 | **David Sakamoto** VP, Customer Success|  **Annette Kristensen** Strategic Account Leader |
 | **Ryan O'Nell** VP, Commercial Sales |  **Katherine Evans** Strategic Account Leader |

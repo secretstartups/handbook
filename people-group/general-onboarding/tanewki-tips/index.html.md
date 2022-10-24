@@ -123,7 +123,7 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | SAL | Strategic Account Leader | 
 | SQL | Sales Qualified Lead |
 | SRE | Site Reliability Engineer |
-| TAM | Technical Account Manager | 
+| CSM | Customer Success Manager | 
 | TAM | Total Addressable Market | 
 | TCV | Total Contract Value |
 
