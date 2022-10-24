@@ -50,7 +50,7 @@ graph TB
   click D2 "./#positioning-value"
 
   Z3[Sales Tactics] -.- A3[SALs / AEs] 
-  A3 -.- B3[SAs / TAMs]
+  A3 -.- B3[SAs / CSMs]
   B3 -.- C3[SDRs]
   click Z3 "./#sales-tactics"
   click A3 "./#sals-aes" 
