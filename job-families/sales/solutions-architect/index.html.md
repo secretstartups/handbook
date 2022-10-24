@@ -134,7 +134,7 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 * Build and maintain select subject matter expertise related to GitLab targeted technology sectors through industry monitoring and participation in external working groups, committees and development projects.
 * Keep up to date on GitLab-relevant emerging methodologies and technologies and leverage that knowledge to drive solution strategy and influence product strategy.
 * Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
-* Use technical and market knowledge to create solutions and influence product to expand GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
+* Use technical and market knowledge to create solutions and influence product to expand GitLabs revenue base - especially Total Addressable Market (CSM) and Launch Addressable Market (LAM).
 * Exert influence on the overall objectives, key results, and other long-range measurable goals and strategies of the team.
 * Create reference implementations for 3rd party integrations and effectively communicate the design and it's value to customers, partners and GitLab team members.
 * Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
@@ -277,7 +277,7 @@ Specialty responsibilities and requirements may extend or overlay [Level roles](
 * Engage in a technical consultancy role for channel and system integrator partners, providing technical assistance and guidance specific to the selling and service delivery readiness of Gitlab Channel partners.
 * Create and maintain relationships with external partner leaders that contribute to large Net ARR deals and customer success.
 * In partnership with the channel sales team, formulate and execute a sales, solution and practice strategy to exceed revenue targets through the delivery of solutions & services that drive the adoption of GitLab.
-* Work with Customer Success teams (SA, TAM, Sales) to ensure the partner is acting in good faith and effectively when delivering GitLab services to a customer.
+* Work with Customer Success teams (SA, CSM, Sales) to ensure the partner is acting in good faith and effectively when delivering GitLab services to a customer.
 * Educate channel partners of all sizes on the value proposition of GitLab, and participate in all levels of discussions throughout the organization to ensure our solution is set up for successful deployment.
 * Work on site with strategic channel partners, delivering solutions architecture consulting, technical guidance, knowledge transfer, and earn “trusted advisor status.”
 * Enable the partners to provide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
@@ -375,7 +375,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Extends the responsibilities of Principal Solutions Architect
 - Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth)
 - Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
-- Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+- Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
 - Act as a prospect / customer advocate on DevSecOps transformation initiatives
 
 #### Field CTO Requirements
@@ -399,7 +399,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Act as a prospect / customer advocate on security related matters
 - Curate and manage security related field feedback, while collaborating with the product team on issue prioritization
 - Contribute to security sales strategy and playbooks in while collaborating with marketing and product teams
-- Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+- Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
 - Bootstrap security Communities of Practice at GitLab for cross-functional collaboration in order to drive ARR for GitLab
 
 #### Field Security Officer Requirements
@@ -426,7 +426,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 * Guide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
 * Curate and manage Public Sector DevOps related field feedback, while collaborating with the marketing and product team on issue prioritization
 * Contribute to Public Sector sales strategy and playbooks in while collaborating with marketing and product teams
-* Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+* Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
 * Build deep relationships with people within customer environments to enable them to be GitLab advocates.
 * Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 * Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.

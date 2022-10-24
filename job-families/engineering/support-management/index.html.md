@@ -201,7 +201,7 @@ If you look forward to the challenges and opportunities and meet the requirement
 ##### Additional Responsibilities Unique to US Federal Include:
 {:.no_toc}
 
-- Work closely with Public Sector TAM and SALs in order to adapt to the needs of the unique user base
+- Work closely with Public Sector CSM and SALs in order to adapt to the needs of the unique user base
 - Be responsible for maintaining customer confidentiality and data security when working with cases
 
 

@@ -6,7 +6,7 @@ description: "The Customer Success Management (CSM) team focuses on the themes o
 
 The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment. 
 
-Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [CSM handbook](/handbook/customer-success/tam).
+Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [CSM handbook](/handbook/customer-success/csm).
 
 ## Responsibilities
 
@@ -35,7 +35,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ## Associate Customer Success Manager (CSM)
 
-The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers)
+The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers)
 
 ### Associate CSM Job Grade
 
@@ -55,7 +55,7 @@ The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/
 
 ## Customer Success Manager (CSM) (Intermediate)
 
-The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers).
+The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
 ### CSM (Intermediate) Job Grade
 
@@ -81,7 +81,7 @@ The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ## Senior CSM
 
-The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-technical-account-managers).
+The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
 ### Senior CSM Job Grade
 
@@ -152,7 +152,7 @@ The Staff, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-
 
 ## Manager, CSM
 
-The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-technical-account-managers).
+The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
 ### Manager, CSM Job Grade
 
@@ -194,7 +194,7 @@ The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 
 ## Senior Manager, CSM
 
-The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-technical-account-managers).
+The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
 ### Senior Manager, CSM Job Grade
 

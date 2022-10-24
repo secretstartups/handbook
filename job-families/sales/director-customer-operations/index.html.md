@@ -24,7 +24,7 @@ The Director Customer Success Operations is a [grade 10](/handbook/total-rewards
   * Customer Health Scoring
   * Go-to-market (GTM) and/or adoption campaigns, including collaboration with Marketing, Product / Growth, Data Teams, and Sales * Operations
   * Digital journey development, content creation and curation, and metrics
-  * Processes and playbooks for Solution Architect and Technical Account Manager
+  * Processes and playbooks for Solution Architect and Customer Success Manager
 * Internal or customer-related programs and initiatives
 * Own partnership with Product, bringing “voice of customer” to Product teams, including interlock, reporting, metrics, and facilitating customer engagement (e.g., surveys, interviews, etc.) 
 * Leverage data and analytics to develop, lead, and measure results for GTM sales and adoption-related initiatives, programs, and campaigns 
