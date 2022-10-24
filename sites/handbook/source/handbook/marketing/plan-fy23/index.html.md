@@ -91,7 +91,7 @@ When a new campaign is being developed, the campaign core team will work togethe
 ## Value Plays
 {: #value-plays .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
-A value play's intended audience is sales (SALs, SAs, TAMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
+A value play's intended audience is sales (SALs, SAs, CSMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
 
 *Note: this section to be updated in conversation with Allison Gleisner, or point instead to her updated handbook page(s).*
 
