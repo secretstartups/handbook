@@ -62,9 +62,11 @@ Do not tag individual team members in opportunities. Using `@billing-ops` will e
 
 The Billing Team performs a billing reconciliation and Bill Run in Zuora daily.The daily bill run will encompass all closed won opportunities from the prior day.
 
-The expected close to invoice cycle is 24-48 hours depending on the complexity of the related opportunity.
+The expected Deal Desk/Order Management to Stage `Close Won` cycle is 12-15 hours depending on the complexity of the opportunity
+The expected `Close Won` to invoice cycle is 24-48 hours depending on the complexity of the related opportunity.
 
-> Any manual updates to invoices concerning invoice templates should go through Legal.
+> - Any manual updates to invoices concerning invoice templates should go through Legal.
+> - SLAs will not be applicable to any opportunity that is rejected due to any related booking error.
 
 ## Functional Responsibilities
 
