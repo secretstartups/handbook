@@ -63,6 +63,7 @@ To view Timeline entires where the CSM Sentiment was updated:
 Customer is very likely to renew and/or expand with no known or assumed risk of downsell or churn. Customer's experience: engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey. Examples:
 
 - Progressive adoption of GitLab use cases as defined by their success plan, considering their stage in their journey
+- Alignment with stakeholders who can drive desired outcomes
 - Regular communication and engagement in meetings
 - Positive feedback on the product and experience and/or high scores on NPS surveys
 - Leveraging support services as defined by creation of tickets (1-5 tickets per month)
@@ -76,7 +77,7 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Customer lacks definition of goals or success criteria
 - High number of support cases, critical / blocker product issue(s), or poor experience based on the customer's expectations
 - Lack of engagement, responsiveness or participation in meetings and/or events
-- Changes of roles (e.g., sponsor or champion), organizational change or acquisition
+- Loss of sponsor or champion due to change of role or organization or acquisition
 - Lack of adoption of releases (self-managed only) where they are more than a major release behind the current release
 - Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the CSM that Support is the best path to resolution for an issue(s))
 - Poor experiences with Support, Professional Services or another part of GitLab
@@ -89,11 +90,11 @@ There might be well understood reasons within the account team why a customer is
 Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer.
 Examples:
 
+- Lack of alignment with stakeholders who can drive desired outcomes
 - Product does not deliver expected value or outcomes as defined by success plan
 - No or low product adoption with no progression
 - Communication of poor sentiment
 - Lack of any engagement
-- Loss of sponsor or champion due to change of role or organization or acquisition
 - Significantly poor experiences with Support or Professional Services
 - Significant number of support tickets (16+ per month)
 
