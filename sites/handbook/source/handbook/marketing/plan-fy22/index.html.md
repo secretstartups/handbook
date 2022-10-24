@@ -183,7 +183,7 @@ May include:
 {: #sales-plays .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-A sales play's intended audience is sales (SALs, SAs, TAMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
+A sales play's intended audience is sales (SALs, SAs, CSMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
 
 The Sales Play should include (at minimum):  
 - Context (promise/offer)
@@ -239,7 +239,7 @@ Campaigns and Sales Plays.
 * **Team Captain:** Scrum Leader for the team Responsible for project planning and backlog refinement. Provides updates and participates in the scrum of scrums. Responsible for ensuring that due dates and timelines are defined and committed to by team members performing the work.  
 * **Product Marketing:** Responsible for the Solution GTM Strategy including narrative, messaging, and positioning. DRI for sales plays. Marketing DRI for Sales and SDR enablement . DRI for buyer and influencer personas. Responsible for fostering participation of the entire team in the research, positioning, messaging, general strategy.
 * **Marketing Campaigns:** DRI for marketing campaigns, both for overall GTM motions and campaigns related to Sales Plays. Responsible for the production of lead generation campaigns and rallying relevant teams and team members to deliver integrated marketing plans.
-* **Technical Marketing:** Responsible for technical narrative and value proposition. DRI for practitioner personas. DRI for Customers Success enablement including SAs, TAMs, and Support. Responsible for technical content production such as demos, blogs, workshops, webinars, etc.
+* **Technical Marketing:** Responsible for technical narrative and value proposition. DRI for practitioner personas. DRI for Customers Success enablement including SAs, CSMs, and Support. Responsible for technical content production such as demos, blogs, workshops, webinars, etc.
 * **Content Marketing:** Responsible for content strategy and production related to the GTM motions and collaborating with other teams on prescriptive buyer journeys.
 * **Digital Marketing:** Responsible for digital strategy and defining ideal marketing channels to reach goals.
 * **Brand:** Responsible for cohesive branded journey across all tactics and between GTM Motions.
