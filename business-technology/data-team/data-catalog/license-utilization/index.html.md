@@ -13,7 +13,7 @@ title: "License Utilization Analysis"
 
 ## License Utilization Analysis
 
-Understanding how our customers consumes the licenses they ordered is a very important step towards developing a more complete picture of our customers. That would help product identify potential adoption problems, Sales and TAM teams understand better their customer and identify potential risks of churn or downgrade.
+Understanding how our customers consumes the licenses they ordered is a very important step towards developing a more complete picture of our customers. That would help product identify potential adoption problems, Sales and CSM teams understand better their customer and identify potential risks of churn or downgrade.
 
 This page is a MVC and needs to be seen as a declaration of intent for the next quarters.
 

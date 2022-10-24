@@ -17,7 +17,7 @@ The Account IQ dashboard can be used to inspire development of new product usage
 
 ## Who is the audience of the Account IQ dashboard? 
 - Sales BDRs and SDRs who want to understand how an account is using GitLab
-- TAMs who want to understand how an account is using GitLab and which features are being adopted
+- CSMs who want to understand how an account is using GitLab and which features are being adopted
 - Product Managers who want to understand usage patterns of specific customers
 
 ## Metrics
