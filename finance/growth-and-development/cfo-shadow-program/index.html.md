@@ -134,6 +134,4 @@ Finance team members have a high workload and may not be able to complete a full
 | August 30th | September 1st |
 | October 18th | October 20th | Robert Callam
 | October 25th | October 27th | Robert Callam |
-| November 1st | November 3rd |
 | November 8th | November 10th |
-| November 29th | December 1st |
