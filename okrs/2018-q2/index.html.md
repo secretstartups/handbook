@@ -41,11 +41,11 @@ canonical_path: "/company/okrs/2018-q2/"
 * CRO: Success Plans for all eligible customers.
   * Customer Success: Enabling a transition to Transformational Selling
     * Solutions Architects: Each Solutions Architect record video's of top 5 specialized use cases (including pitching services), reviewed by Customer Success leadership team.
-    * Technical Account Managers: Do a quarterly business review for all eligible customers
+    * Customer Success Managers: Do a quarterly business review for all eligible customers
     * Professional Services Engineering: 75% of Big and Jumbo opportunities include Professional Services line item
   * Customer Success: 80% of opportunities advanced to stage 4 (Proposal) from stage 3 (Technical Evaluation) stage based on guided POC’s.
     * Solutions Architects: 100% of Solutions Architect team members participate in at least 1 guided POC.
-    * Technical Account Managers: 100% of TAM team members participate in at least 1 guided POC.
+    * Customer Success Managers: 100% of TAM team members participate in at least 1 guided POC.
     * Professional Services Engineering: Create top 3 integration demonstration / test systems (LDAP, Jenkins, JIRA).
 * CRO: Effective sales organization. 70% of salespeople are at 100% of quota.
   * Dir Channel: Increase Channel ASP by 50%

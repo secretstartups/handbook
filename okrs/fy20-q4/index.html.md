@@ -82,7 +82,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
         1. **TAM: Improve engagement approaches for key processes (EBR, TAM account reviews, GitLab days).**
             1. TAM KR: Processes for each 3. => [Complete](https://gitlab.com/gitlab-com/customer-success/okrs/issues/21)
             1. TAM KR: 2 Templates (EBR and reviews). => [Complete](https://gitlab.com/gitlab-com/customer-success/okrs/issues/21)
-            1. TAM KR: Enablement for 90% of TAMs. => [Complete](https://gitlab.com/gitlab-com/customer-success/okrs/issues/21)
+            1. TAM KR: Enablement for 90% of CSMs. => [Complete](https://gitlab.com/gitlab-com/customer-success/okrs/issues/21)
         1. **TAM Comm: Develop scalable onboarding approach.**
             1. TAM Comm KR: 2 webinars.
             1. TAM Comm KR: 1 Email campaigns.
