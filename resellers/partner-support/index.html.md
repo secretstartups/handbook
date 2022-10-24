@@ -34,6 +34,7 @@ This page is intended for Sales and Channel team members to review quick links a
 
 ### Out of Scope
 - Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
+   - Please note that `@partner operations` is responsible for distributor quoting. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
 - SFDC opportunity record assistance (please chatter `@partner operations` on the record)
 - Billing account set-up (please chatter the partner account owner or `@billing ops`)
 
