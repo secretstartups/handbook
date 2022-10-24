@@ -133,9 +133,9 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - GitLab's Solutions Architects (SAs) are trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements.
    - Read the [Solutions Architect Role Description](https://about.gitlab.com/job-families/sales/solutions-architect/)
    - Read about the [Proof of Value Deliverable](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
-*  **Technical Account Managers (Material, - Handbook - 15 minutes)**
-   - GitLab's Technical Account Managers serve as trusted advisors to GitLab's customers. This section outlines to TAM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
-   - Read the [TAM Handbook](/handbook/customer-success/csm/#what-is-a-technical-account-manager-tam)
+*  **Customer Success Managers (Material, - Handbook - 15 minutes)**
+   - GitLab's Customer Success Managers serve as trusted advisors to GitLab's customers. This section outlines to CSM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
+   - Read the [CSM Handbook](/handbook/customer-success/csm/#what-is-a-customer-success-manager-csm)
    - Read about [Customer Health Scores in the Handbook](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
    - Read about [Success Plans in the Handbook](/handbook/customer-success/csm/success-plans/)
    - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/csm/ebr/)
@@ -303,9 +303,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ## Customer Success Quick Start - Role Based Curriculum
 
 <details>
-<summary markdown="span">Technical Deep Dive (SA, TAM, and PSE ONLY</summary> 
+<summary markdown="span">Technical Deep Dive (SA, CSM, and PSE ONLY</summary> 
 
-### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
+### 12. Technical Deep Dive (SA, CSM, and PSE ONLY)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
    -Review the [GitLab Ultimate Demo](https://chorus.ai/meeting/1837148?tab=summary&call=5E63AE4EDCAD4960A59BEBBEF4CEE1BF)
 * **Auto DevOps (Material - GitLab Docs - 15 minutes)**
@@ -343,10 +343,10 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 
 <details>
-<summary markdown="span">Integrations (SA, TAM, and PSE Only)</summary> 
+<summary markdown="span">Integrations (SA, CSM, and PSE Only)</summary> 
 
 
-### 13. Integrations (SA, TAM, and PSE Only)
+### 13. Integrations (SA, CSM, and PSE Only)
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**
@@ -391,9 +391,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">TAMs Only: Certifications to Complete and Lifecycle Processes</summary> 
+<summary markdown="span">CSMs Only: Certifications to Complete and Lifecycle Processes</summary> 
 
-### 15. TAMs Only: Certifications to Complete and Lifecycle Processes
+### 15. CSMs Only: Certifications to Complete and Lifecycle Processes
 
 #### Certifications:
 1. Success Plans
@@ -402,7 +402,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 #### Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
-   - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
+   - Customer on-boarding is a 45 day time period. Customer Success Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
    - [Customer Onboarding](/handbook/customer-success/csm/onboarding/)
    - [Using Gainsight within Customer Success](/handbook/customer-success/csm/gainsight/)
    - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)

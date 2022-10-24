@@ -35,7 +35,7 @@ The Field Accreditation Program will include functional and soft skills training
 * [Strategic Account Leaders](/handbook/sales/training/field-certification/sal/)
 * [Account Executives](/handbook/sales/commercial/enablement/required7/)  
 * [Solution Architects](/handbook/sales/training/field-certification/sa/)  
-* [Technical Account Managers](/handbook/sales/training/field-certification/tam/)
+* [Customer Success Managers](/handbook/sales/training/field-certification/csm/)
 * [Partners](/handbook/resellers/training/)
 
 

@@ -50,7 +50,7 @@ The higher the Opportunity Consult Coverage, the greater confidence sales leader
 - Coaches/managers should encourage reps to
     1. **Commit to specific, concrete, actionable next steps** (e.g., “I am going to do X, Y, and Z to test my Champion” instead of “I am going to test my Champion”) and
     1. **Document action items in a shared way** (e.g. document in Salesforce or send a summary wrap-up communication after the meeting)
-- Consider including key account team members (e.g. SAs and TAMs) in Opportunity Consults from time to time to facilitate improved transparency and collaboration
+- Consider including key account team members (e.g. SAs and CSMs) in Opportunity Consults from time to time to facilitate improved transparency and collaboration
 - Coach sales team members on the best practices related to the Close Plan within a [Command Plan](/handbook/sales/command-of-the-message/command-plan/)
     - Close plans should be updated in real time and, at minimum, on a weekly basis for later-stage (Stage 4+) deals
     - Time stamp the latest update at the top with the date of the refresh so each line item starts with a specific date

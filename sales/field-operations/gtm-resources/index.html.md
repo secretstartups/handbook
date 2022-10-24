@@ -71,7 +71,7 @@ description: "Operations, Procedures, Documentation"
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
 | SQO | Sales Qualified Opportunity |
-| TAM | Technical Account Manager |
+| CSM | Customer Success Manager |
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | UPA | Ultimate Parent Account
 | Won Opportunity | Contract signed to Purchase GitLab |
@@ -1062,7 +1062,7 @@ Example Sponsor Activities
 #### Account Team
 
 - SAL or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). 
-- TAM should contribute to sponsor updates and engagement, including:
+- CSM should contribute to sponsor updates and engagement, including:
   - Progress on delivering to outcomes, progress, and customer successes and wins
   - Updates on any notable issues (past or present), concerns, and/or key customer requirements
   - Inclusion into key customer meetings like Executive Business Reviews 

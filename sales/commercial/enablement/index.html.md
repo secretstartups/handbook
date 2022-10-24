@@ -199,7 +199,7 @@ Understand the importance of customer health checks to create lasting relationsh
 **First order (Pre-Sale-Day 1)**: The objective is to prepare the customer for a successful customer journey with GitLab, meaning they can achieve their business outcomes with a great experience. This includes evaluating our products for their needs, clearly defining their buying process and determining the timeline of key milestones to ensure a seamless handoff. 
 
 **Implementation (Day 1-Day 90)**: This is a very important step in the customer lifecycle.  During the implementation stage the customer is evaluating their needs and how GitLab is going to ensure they meet those needs.  There may be learning opportunities that present themselves, so multiple touches will take place to ensure we provide support to move them into the adoption stage.  
-- Schedule first meeting w/customer within 7 days of first order. Invite appropriate CS/TAM partners based on scope. 
+- Schedule first meeting w/customer within 7 days of first order. Invite appropriate CS/CSM partners based on scope. 
 - On first call review notes from FO process on what they want to accomplish w/GL over the subscription period and in what order
 - Define goals for first 30 days of license (get users added, first project setup, migrate repos, etc)
 - Schedule appropriate follow up calls for technical teams based on requirements

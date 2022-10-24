@@ -16,10 +16,10 @@ It is essential that Area Sales Managers (ASMs) support the Account Planning and
 * GitLab is making a significant investment to help Strategic Account Leaders (SALs) be successful in reaching their Peak Performance in FY22 and beyond!
 * We are bringing on Gainsight as our Account Planning Platform. This tool will augment the strategy development and execution you already do to land and expand and meet your goals while also providing you with valuable capabilities and insights that will help you uncover customer pain points, growth opportunities, and more.
 * Gainsight was selected by GitLab SALs, for GitLab SALs. We understand how crucial account planning is to your success, which is why we underwent a lengthy evaluation of multiple tools led by a core team of your peers who have a proven track record of account planning excellence.
-* Gainsight supports our values of Results and Collaboration. It will enable us to work even better as a cross-functional team – bringing SALs, SAs, TAMs, Channel & Alliances in one place to learn from one another and codify "what good looks like" so we can all grow and develop our skills and reach our Peak Performance together.
+* Gainsight supports our values of Results and Collaboration. It will enable us to work even better as a cross-functional team – bringing SALs, SAs, CSMs, Channel & Alliances in one place to learn from one another and codify "what good looks like" so we can all grow and develop our skills and reach our Peak Performance together.
 
 ### Examples of What Good Looks Like 
-These links will take you to the account in Gainsight. Once you're logged into Gainsight, scroll down to "Success Plans" and make sure you are looking at the Account Plan, not the TAM's Success Plan. 
+These links will take you to the account in Gainsight. Once you're logged into Gainsight, scroll down to "Success Plans" and make sure you are looking at the Account Plan, not the CSM's Success Plan. 
 
 * [Example #1](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFW2TN7OSIREEMQD0TZXJ) 
 * [Example #2](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFW27TN3MZRTY5SZ1ZKVH)
@@ -30,7 +30,7 @@ These links will take you to the account in Gainsight. Once you're logged into G
 
 While there is no such thing as a "complete" account plan, there are things the ASM can look for that could indicate a plan is on the right track. Remember, we want to encourage thoughtful planning, NOT compliance. This is not a check the box activity, but a process/tool that will facilitate collaboration, strategic thinking and execution. 
 
-A common theme across all of the account planning components is collaboration. At every stage, verify that the SAL is working with the Solutions Architect, Technical Account Manager, and their Channel and Alliances Partners. Be sure to ask follow up questions to understand how they are working with their teams and ensure that partners are being leveraged. 
+A common theme across all of the account planning components is collaboration. At every stage, verify that the SAL is working with the Solutions Architect, Customer Success Manager, and their Channel and Alliances Partners. Be sure to ask follow up questions to understand how they are working with their teams and ensure that partners are being leveraged. 
 
 One method for reviewing the account plan with the SAL is to ask open-ended questions. The SALs should already be thinking about [these questions](/handbook/sales/account-planning/#account-profile) and be able to speak to them in a 1:1. 
 
@@ -68,7 +68,7 @@ Going beyond this, did the SAL...
 - Seek to understand what the customer would like to improve with how they develop and deploy applications and why?
 - Identify what the customer wants/needs to accelerate their software delivery process? Reduce costs? Mitigate security and compliance risk? 
 - Identify what it would mean to the organization if they were to achieve these improvements? What are the implications if they fail to do so?
-- Engage in a discovery dialogue (with the customer, SA, TAM, or partner) to identify positive business outcomes the organization hopes to achieve and the gap between their current state of operations and their desired future state?
+- Engage in a discovery dialogue (with the customer, SA, CSM, or partner) to identify positive business outcomes the organization hopes to achieve and the gap between their current state of operations and their desired future state?
 - Identify the customer's likes and dislikes about each of the vendor technologies currently being utilized, their annual investment with each vendor, when those contracts are up for renewal?
 
 ### Action Plan

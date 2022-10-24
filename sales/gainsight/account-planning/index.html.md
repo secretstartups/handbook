@@ -73,7 +73,7 @@ This section of the account plan serves to capture relevant information about ou
 | Overall Account Plan Goals (6, 12, 18 months) | What is your vision for the customer for the next 6 months? What about 12, and 18 months? Has the customer shared their vision/ strategy for the next year with you?                                                                     |
 | GitLab Initiatives                            | Information about any relevant internal initiatives that could impact the customer. For example are there impending pricing changes, or incentives around GitLab Ultimate?                                                               |
 | Threats/ Risks                                | Are you aware of any threats to your customer’s business, to the health of their GitLab adoption, or your plans to expand within the account? For example, are they downsizing? Is Microsoft making a strong play for their CI business? |
-| Action Plan                                   | Based on your vision for the next 6, 12, and 18 months, how do you plan to get there? Have you considered the role of yourself, the SDR, the SA, and the TAM?                                                                            |
+| Action Plan                                   | Based on your vision for the next 6, 12, and 18 months, how do you plan to get there? Have you considered the role of yourself, the SDR, the SA, and the CSM?                                                                            |
 
 ### Relationship and Influence Mapping
 
@@ -84,7 +84,7 @@ This section of the account plan serves to capture relevant information about ou
 
 ### Whitespace Mapping
 
-This activity is best done as a team, Solutions Architects and Technical Account Managers can help ensure this section reflects the team's understanding of the opportunities within the account. 
+This activity is best done as a team, Solutions Architects and Customer Success Managers can help ensure this section reflects the team's understanding of the opportunities within the account. 
 1. In Gainsight, there are two different sections for whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
       - **Whitespace (Use Case):** This is where you will enter the data. It will flow back into Salesforce but cannot be edited in Salesforce at this time. 
       - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual representation of the data.  There are multiple views from which to choose. 

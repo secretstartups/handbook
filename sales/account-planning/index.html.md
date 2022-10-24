@@ -17,7 +17,7 @@ description: >-
 
 An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and the Strategic Account Leader's (SAL) strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship.
 
-The SAL should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account. Like a CEO, the SAL need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Technical Account Manager, and Channel Partners as you strategize and build the account plan!
+The SAL should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account. Like a CEO, the SAL need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Customer Success Manager, and Channel Partners as you strategize and build the account plan!
 
 ## Why Account Planning?
 
@@ -49,7 +49,7 @@ Choose the "Land Account Plan" template in Gainsight. The team will not have as 
 
 ### Expand Account plans
 
-Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, TAM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/csm/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the TAM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
+Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, CSM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/csm/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the CSM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
 
 ## Components of an Account Plan
 
@@ -175,15 +175,15 @@ Account plans are living documents and are never truly complete. Plans will cont
 - What can we measure?
 - Have I verified my understanding with my champion?
 
-If a Technical Account Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
+If a Customer Success Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
 
 A quarterly cadence to review and update plans can help to ensure that plans reflect our current understanding of the account and keep the account team aligned on plan strategy and execution. Major changes such as personnel changes, mergers/aquisitions, and competitive threats may trigger immediate review and updates. Structured review sessions can help keep the account team aligned and keep leadership informed of changes involving customers.
 
 ### Additional Considerations
 
-- Account plans should be thoughtful, collaborative, and cross-functional with contributions and input from the entire account team including Solutions Architects, Technical Account Managers, Sales Leadership, Partners, and more
+- Account plans should be thoughtful, collaborative, and cross-functional with contributions and input from the entire account team including Solutions Architects, Customer Success Managers, Sales Leadership, Partners, and more
 - Account plans are living documents, and a customer’s business and strategies are always subject to change; share the account plan with the account team regularly to maintain a fresh understanding of the customer's needs and to keep everyone informed and aligned
-- Account reps should use QBRs and/or other recurring meetings such as SAL-SA-TAM calls to review progress, update objectives and/or action plans, and align on next steps
+- Account reps should use QBRs and/or other recurring meetings such as SAL-SA-CSM calls to review progress, update objectives and/or action plans, and align on next steps
 - If you would like to work with your customer to build an account plan, there is a [GoogleSlide Template](https://docs.google.com/spreadsheets/d/1Rqpy6qz9f90GBw4XNn5RyJIZU0ShboraF7LR9gHmQw0/edit?usp=sharing) you can print out and bring to the customer meeting to work on together.
 - Review the below ten reasons why strategic plans fail according to [this Forbes article](https://www.forbes.com/sites/aileron/2011/11/30/10-reasons-why-strategic-plans-fail/) and take proactive steps to avoid these pitfalls
     1. Having a plan simply for plan's sake

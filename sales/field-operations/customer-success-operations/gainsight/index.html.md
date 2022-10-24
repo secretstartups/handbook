@@ -307,7 +307,7 @@ Note: The Upsert key for contacts is their email address. This is useful when it
 | Billing Zip/Postal Code              | string           | Billing Postal Code                  |
 | Number of Licenses (This Account)    | double           | Licensed User Count                  |
 | Parent Account ID                    | id               | Parent Company                       |
-| Technical Account Manager            | id               | CSM                                  |
+| Customer Success Manager            | id               | CSM                                  |
 
 </details>
 
@@ -390,10 +390,10 @@ We have a team email address cs-ops@gitlab.com that we use for rule failure emai
 
 ### CSM assignment push to SFDC
 
-Gainsight is the single source of truth (SSoT) on this field (`CSM` often labeled as `CSM Name` in GS and `Technical Account Manager` in SFDC).
+Gainsight is the single source of truth (SSoT) on this field (`CSM` often labeled as `CSM Name` in GS and `Customer Success Manager` in SFDC).
 
 - This field is updated in Gainsight and synced one-way to Salesforce. It is locked in Salesforce so users are unable to update there.
-- The update is done with a real-time rule called `Push CSM change to SFDC`. This is triggered any time the field changes, and any change should load to Salesforce within seconds. The rule uses the SFDC User ID found in the `CSM` field in Gainsight to push to the `Technical Account Manager` field in Salesforce.
+- The update is done with a real-time rule called `Push CSM change to SFDC`. This is triggered any time the field changes, and any change should load to Salesforce within seconds. The rule uses the SFDC User ID found in the `CSM` field in Gainsight to push to the `Customer Success Manager` field in Salesforce.
 
 ### CSM History Tracking object
 

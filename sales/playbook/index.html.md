@@ -94,7 +94,7 @@ View internal data resources in our [internal handbook for Territory Planning he
 - [LeanData](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/) is automatically pulled into Salesforce as data that you can use to better understand contacts and accounts. You don’t need to request access.
 
 **Understanding your customers current product usage**
-- [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your TAM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight.
+- [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your CSM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight.
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see [overview video here](https://youtu.be/G9JuHXqV5LM)): most customers have an account that breaks down their purchases and provides some insight into SaaS usage. Also good for linking purchases to VersionDot usage data
 
 View the [Commercial Sales Playbook](https://about.gitlab.com/handbook/sales/commercial/) here.

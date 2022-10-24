@@ -247,9 +247,9 @@ _Documents are in their final state ready to be executed._
 
 **Primary Activities** to Complete in This Stage:
 
-- $50K+ deals- [SA/AE introduce TAM](https://about.gitlab.com/handbook/customer-success/comm-sales/#sa-to-tam-new-accounts) (introducing Partner were applicable)
+- $50K+ deals- [SA/AE introduce CSM](https://about.gitlab.com/handbook/customer-success/comm-sales/#sa-to-csm-new-accounts) (introducing Partner were applicable)
 - Under $50K: SA and AE can begin preparing the contacts for receiving [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
-- TAM creates [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/tam-manager/#success-plan-review) (working with Partner where applicable)
+- CSM creates [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/csm-manager/#success-plan-review) (working with Partner where applicable)
 
 **Exit Criteria:**
 
@@ -289,16 +289,16 @@ _Verifying the completeness of the documentation and opportunity to confirm read
 
 _Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance._
 
-- TAM starts new [customer engagement](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam) ($50K+)
+- CSM starts new [customer engagement](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-csm-existing-accounts-without-a-csm) ($50K+)
 - AE engages with the customer & Partner (where applicable) to ensure success 
 - Kick-off Partner Services (if applicable)
 - AE to schedule an initial 30 day follow up meeting with the customer (Named/Territory, + higher value opportunities)
 - Named/Territory AE - create account review cadence with customer
 - Named/Territory AE creates 18-24 month growth plan based on [Account Rank](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) of 1, 1.5, and 2 
 - AE builds case study expectations with the customer (how far out will you be able to give me feedback about what's working, what's not, and when we might be able to go to legal with a case study? What would we need to do to earn your respect to build a case study, or would you be willing to meet with another customer as a reference? Or participate in a panel, e.g.) 
-- TAM assigned account - establish [EBR](https://about.gitlab.com/handbook/customer-success/csm/ebr/) process for high priority accts
+- CSM assigned account - establish [EBR](https://about.gitlab.com/handbook/customer-success/csm/ebr/) process for high priority accts
 - Professional Services introduced (if applicable)
-- Initiate customer onboarding or premium support onboarding (accts with no TAM)
+- Initiate customer onboarding or premium support onboarding (accts with no CSM)
 - [First Order handoff](https://about.gitlab.com/handbook/sales/commercial/#first-order-handoff-process) to Named Account AE 
 
 ----

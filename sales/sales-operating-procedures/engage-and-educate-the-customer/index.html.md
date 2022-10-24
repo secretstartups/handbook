@@ -58,7 +58,7 @@ Work with your extended team to analyze your territory and build your strategy. 
 - SDR
 - ISR
 - SA
-- TAM
+- CSM
 - Reseller Channel Mgr
 - SI Channel Manager
 - OEM/Cloud Channel Manager

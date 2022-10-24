@@ -56,7 +56,7 @@ Thanks to the Sales Ops/Systems team for demonstrating Iteration, Results & Coll
 We have **launched a new read-only Slack channel called #field-fyi** to help streamline important field-related news and announcements. ⭐️ Star this channel to stay up to date. ⭐️ Learn more about [how to use this channel](/handbook/sales/sales-google-groups/field-fyi-channel/) and see our updated [Communicating with the Field](/handbook/sales/sales-google-groups/) Handbook page for a full list of field Google Groups and Slack channels.
 
 ----
-Our TAMs **launched Gainsight to manage customer relationships.** Gainsight enables us to manage customer health, execute Command Plan goals through success plans, and drive customer stage adoption – all to increase growth, retention, and predictability.
+Our CSMs **launched Gainsight to manage customer relationships.** Gainsight enables us to manage customer health, execute Command Plan goals through success plans, and drive customer stage adoption – all to increase growth, retention, and predictability.
 
 Watch the [6-minute Gainsight Overview video](https://www.youtube.com/watch?v=vXwsWB8zAXA&feature=youtu.be) and [learn more in the handbook](/handbook/customer-success/csm/gainsight/).
 

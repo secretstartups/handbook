@@ -22,7 +22,7 @@ You have obtained the verbal commit from the economic buyer and it’s now time 
 
 ## 1. Create a Mutual Close Plan
 
-A mutual close plan is a visual timeline of all the necessary tasks, individuals, and deadlines necessary to get the deal through closure and into deployment. A mutual close plan must have mutual outcome. It is created with your champions, advocates, and economic buyers. It will highlight gaps on both sides of the table so that they can be addressed and advance the deal to closure and deployment. Additionally, it allows you to coordinate/facilitate closure of the deal through your guidance of the process. Here is a [example/template](https://docs.google.com/presentation/d/1noScuDwweIX_rBSqvPqaTR5ag4GbD9e8WqE5x7_OqJ4/edit#slide=id.g80210dcfb3_7_222) you can download to complete with your champion, economic buyer, SA, and TAM.
+A mutual close plan is a visual timeline of all the necessary tasks, individuals, and deadlines necessary to get the deal through closure and into deployment. A mutual close plan must have mutual outcome. It is created with your champions, advocates, and economic buyers. It will highlight gaps on both sides of the table so that they can be addressed and advance the deal to closure and deployment. Additionally, it allows you to coordinate/facilitate closure of the deal through your guidance of the process. Here is a [example/template](https://docs.google.com/presentation/d/1noScuDwweIX_rBSqvPqaTR5ag4GbD9e8WqE5x7_OqJ4/edit#slide=id.g80210dcfb3_7_222) you can download to complete with your champion, economic buyer, SA, and CSM.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -85,7 +85,7 @@ This activity should produce a document that clearly articulates what done looks
 
 #### 3.2.2 [Create Customer Success Plan](/handbook/customer-success/csm/success-plans/)   
 
-**The SA and TAM work with the customer to create a Customer Success Plan.**  A Success Plan is an interactive map to align the purchase (including renewals!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re obtaining significantly more value than the cost of a product or service. Click on the link above to follow the steps to create a Customer Success Plan.
+**The SA and CSM work with the customer to create a Customer Success Plan.**  A Success Plan is an interactive map to align the purchase (including renewals!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re obtaining significantly more value than the cost of a product or service. Click on the link above to follow the steps to create a Customer Success Plan.
 
 ## 4. Final Quote Creation
 
@@ -122,6 +122,6 @@ The final stage is signature. By this time the due diligence, negotiations, and 
 ## 6. Next Steps
 
 1. Update the opportunity in Salesforce as Closed/Won or Lost
-2. AE/SAL coordinates a [Welcome Call](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/24) to introduce the TAM to the customer stakeholders.
+2. AE/SAL coordinates a [Welcome Call](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/24) to introduce the CSM to the customer stakeholders.
 
 Congratulations! You are now ready to move the deal to the [Retain and Expand](/handbook/sales/sales-operating-procedures/retain-and-expand/) phase.

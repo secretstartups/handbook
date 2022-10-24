@@ -642,7 +642,7 @@ The GitLab partner network is ready to work with GitLab Account Executive's in o
 - Extended reach and capabilities via Partner sales and services capacity and reach via GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.
 - Accelerated reach to new customer logos “<b>_Land_</b>”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements.
 - Increased customer “<b>_Expand_</b>” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.
-- Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services.
+- Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also CSM-like customer success services.
 - In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
 
 #### How do AEs work with partners for increased customer value & Net ARR?
@@ -721,7 +721,7 @@ combined), a handoff email can be used.
     - Named AE please respond to the handoff email/meeting invite to introduce yourself.
 1. Look in the account activities for the notes from the First Order AE, and based on those notes open an appropriate growth opportunity.
 1. Read through all notes tagged (ii) to gain an understanding of the account and its potential.
-1. Determine if a TAM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
+1. Determine if a CSM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
 1. Create a growth/add on opportunity for any growth that will happen before the first renewal date.
 
 **Note 1:** Once the account is handed off to the new AE, the new account owner is responsible for the success of the account. This includes any troubleshooting, support, ticket escalations, etc. The exception to this will be if there are any billing issues that arise on the initial order. Because billing issues related to the first order are assigned to the account owner. In some cases, the First Order AE can better fix such problems. In these cases, Named AE can re-assign the issue to the First Order AE for resolution.

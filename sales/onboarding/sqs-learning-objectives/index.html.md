@@ -65,7 +65,7 @@ description: "GitLab sales onboarding learning obejctives"
 
 - Discover the different sales roles at GitLab and identify what constitutes "meeting expectations" when it comes to your particular role.
 - Discover how the SA role at GitLab relates with your role and the prospect/customer.
-- Discover how the TAM role at GitLab relates with your role and the prospect/customer.
+- Discover how the CSM role at GitLab relates with your role and the prospect/customer.
 - Discover how the PSE role at GitLab relates with your role and the prospect/customer.
 - Recognize where to find your CS resources at GitLab.
 </details>

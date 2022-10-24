@@ -43,7 +43,7 @@ Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.go
 
 Renewal Operations supports the SMB Sales Team: Directors & Account Sales Managers, Account Executives, and collaborates with Customer Success Operations, and Sales Operations.
 
-**SMB Sales Team** is Renewal Operations’ direct focus, our primary customer being the VP Commercial Sales; the insights, strategies, and actionable campaigns are built to assist the Account Executives with the renewal process. These solutions are important because SMB customers under $50k ARR are not assigned Technical Account Managers (TAM). Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Executives to allow a more focused approach.
+**SMB Sales Team** is Renewal Operations’ direct focus, our primary customer being the VP Commercial Sales; the insights, strategies, and actionable campaigns are built to assist the Account Executives with the renewal process. These solutions are important because SMB customers under $50k ARR are not assigned Customer Success Managers (CSM). Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Executives to allow a more focused approach.
 
 **Customer Success Operations** helps organize and collect pertinent product usage, and  customer health data that the Renewal Operations Team uses to identify insights and engagement strategies. For example, creating automated one-to-many campaigns in Gainsight to support product adoption.
 

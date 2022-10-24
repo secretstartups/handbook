@@ -89,7 +89,7 @@ GitLab Sales Kickoff 2021 consisted of half-day virtual sessions (due to COVID-1
 | Strategies to Win Without a Long PoV (Proof of Value) | [slides](https://docs.google.com/presentation/d/1TfrWlH6lhGbbBd0y6LOL5SYYvoqCgGz0fW1o_GBMn-U/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-strategies) (GitLab internal) |
 | Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-leveling) (GitLab internal) |
 
-## Technical Account Managers
+## Customer Success Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |

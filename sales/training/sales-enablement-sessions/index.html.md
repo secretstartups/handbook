@@ -68,7 +68,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2021-09-20 | **[NEW DevOps Platform customer deck](https://youtu.be/mtQ1HbnXjb4)** | Private |
 | 2021-09-09 | **[Bitbucket Sales Play](https://youtu.be/SjvL0hyV3Zo)** | Private |
 | 2021-09-02 | **[Verify: Testing Vision & Positioning](https://youtu.be/Zisa9Qfh8v8)** | Public |
-| 2021-08-26 | **[Digital Programs for non-TAM-assigned accounts](https://www.youtube.com/watch?v=_2J71ruCqH8)** | Private |
+| 2021-08-26 | **[Digital Programs for non-CSM-assigned accounts](https://www.youtube.com/watch?v=_2J71ruCqH8)** | Private |
 | 2021-08-19 | **[Deal Review Panel Discussion](https://youtu.be/Onn7K9k3jsw)**   | Private | 
 | 2021-08-12 | **[ServiceNow <> GitLab: Better Together](https://youtu.be/bUl1-mAmMY4)**    |    Public    |
 | 2021-08-05 | **[Q3FY22 Channel Update](https://youtu.be/mwSnV5s_CsQ)**    |  Private    |

@@ -67,7 +67,7 @@ Account Owners always do a form of preparation and research before every live in
 
 Though not mandatory, team call preps are a great way to gain a different perspective on your opportunities during a sales cycle and encouraged for collaboration on the team. Thus, allowing you to be more prepared for following meetings. To create a team call prep:
 
-- Put time on the calendar to connect with a fellow SMB team member or someone else of choice (Solution Architect, Technical Account Manager, Area Sales Manager)
+- Put time on the calendar to connect with a fellow SMB team member or someone else of choice (Solution Architect, Customer Success Manager, Area Sales Manager)
 - Be prepared with the Salesforce link to the opportunity, as well as your deck/call notes if applicable
 - During or after the Call Prep, **log an activity** on the opportunity labeled `Prep w/ [team member name]`.
 
@@ -157,9 +157,9 @@ Customer success planning should be broken into three categories based off the p
 * [Process for Agreement Terms Negotiations](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 - [Recommended books for SMB team](https://docs.google.com/document/d/19KOw5A84uUvKLBI9zdspbGpP4t3OOqsQLLKj6eTBjFw/edit)
 
-### Solutions Architect & Technical Account Manager Rules of Engagement
+### Solutions Architect & Customer Success Manager Rules of Engagement
 
-- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect.
+- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Customer Success Manager or Solution Architect into the conversation with a customer or prospect.
 - If limited on resources, encourage clients to submit questions to the following communities:
     - Community Forum: https://forum.gitlab.com/
     - Reddit: https://www.reddit.com/r/gitlab/

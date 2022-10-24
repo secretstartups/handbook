@@ -16,7 +16,7 @@ title: "Targeted Sales & Customer Success Roles for Sales Quick Start (SQS)"
    - Mid-Market and SMB Account Executives (AEs)
    - Inside Sales Reps (ISRs)
    - Solution Architects (SAs) 
-   - Technical Account Managers (TAMs) 
+   - Customer Success Managers (CSMs) 
    - Professional Services Engagement Managers and Practice Managers
    - Area Sales Managers (ASMs) and Regional Directors (RDs)
    - Customer Success Managers and Directors

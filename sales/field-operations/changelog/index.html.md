@@ -143,7 +143,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [FY22-Q4 Cannonball Run](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2636) Completed**
 
-**Customer Programs: [TAM-Assigned Customer Enablement Enrollment](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)**
+**Customer Programs: [CSM-Assigned Customer Enablement Enrollment](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)**
 
 **Marketing Ops: [New Outreach Sequence Fields in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2387)**
 
@@ -203,13 +203,13 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **SOPS: [New process for US PubSec to select preferred co-sell partners for opps](https://gitlab.com/gitlab-com/channel/channels/-/issues/668)**
 
-CSOPS: [Gainsight Dashboard filtering: added TAM Manager as filter](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/445)
+CSOPS: [Gainsight Dashboard filtering: added CSM Manager as filter](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/445)
 
 CSOPS: [At-Risk Customer Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615), [issue](https://gitlab.com/groups/gitlab-com/-/epics/1462) and [handbook page](/handbook/customer-success/csm/renewals/#tracking-account-health-and-risks)
 
 CSOPS: [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](/handbook/customer-success/product-usage-data/license-utilization/)
 
-Customer Programs: [Updated digital onboarding program and TAM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)
+Customer Programs: [Updated digital onboarding program and CSM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)
 
 Customer Programs: [Launched Customer Newsletter program highlighting 14.2 release](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)
 

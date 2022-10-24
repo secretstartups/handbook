@@ -108,7 +108,7 @@ Labels to use when creating new issues or MRs for CS Ops:
 - **CSOps::bug** - A bug issue to be addressed by CS Ops.
 
 **Team Requestor Labels** - for tracking where the request(s) came from
-- **CSOps - TAM** - Request originating from, or to benefit the TAM team.
+- **CSOps - CSM** - Request originating from, or to benefit the CSM team.
 - **CSOps - PS** - Request originating from, or to benefit the PS team.
 - **CSOps - SA** - Request originating from, or to benefit the SA team.
 - **CSOps - Ops** - Request to benefit the CSOps team.

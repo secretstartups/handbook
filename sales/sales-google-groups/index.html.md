@@ -116,9 +116,9 @@ The below channels are specific to the field organization.
 
 **Customer Success**
 Consistent with company guidance to use [public channels](/handbook/communication/#use-public-channels), there are instances where private channels are preferred. As we want to ensure an [inclusive environment](/handbook/values/#diversity-inclusion), the feedback from some of the team is that private channels are sometimes preferred as there is a perception of being judged (i.e., imposter syndrome). The recommendation is to use public channels as it:
-- Allows for broader collaboration (i.e., SA/TAM/PS, Product, Marketing, Sales) on solutions, recommendations, and best practices
+- Allows for broader collaboration (i.e., SA/CSM/PS, Product, Marketing, Sales) on solutions, recommendations, and best practices
 - Provides ability for broader learning for things such as customer challenges, enablement needs, product documentation improvements, etc.
-- Enables the ability to harvest the information for content (i.e., TAM solutions, adoption content for digital journey, product documentation)
+- Enables the ability to harvest the information for content (i.e., CSM solutions, adoption content for digital journey, product documentation)
 The recommendation is to use public channels even while it may sometimes feel uncomforable as we [want to embrace this](/handbook/values/#embracing-uncomfortable-ideas-and-conversations).
 
 | Channel Name | Channel Access (Private/Public) | Description |

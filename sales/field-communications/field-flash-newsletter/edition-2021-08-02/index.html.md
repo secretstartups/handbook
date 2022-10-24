@@ -57,9 +57,9 @@ Watch the [LevelUp Enablement Webinar recording](https://www.youtube.com/watch?v
 For more information on Smart Templates and self-service legal language, review the [Sales Order Processing handbook page](/handbook/sales/field-operations/order-processing/#quote-template-types). For more specific quoting instructions surrounding Smart Templates and self-service legal language, review the [Deal Desk handbook page](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). Reach out in #sales-support if you have any questions.
 
 ----
-**We have expanded [Digital Programs content](/handbook/customer-success/csm/digital-journey/) to < $50K ARR, non-TAM assigned accounts in the Enterprise segment**! In addition, we have expanded the scope of eligible customers and will now **require that a GitLab Admin be added to `New - First Order`, `New - Connected` and `Growth` deals** at the time of Opportunity approval submission for non-TAM assigned customers below $50K ARR in the **Commercial and Enterprise segments**. 
+**We have expanded [Digital Programs content](/handbook/customer-success/csm/digital-journey/) to < $50K ARR, non-CSM assigned accounts in the Enterprise segment**! In addition, we have expanded the scope of eligible customers and will now **require that a GitLab Admin be added to `New - First Order`, `New - Connected` and `Growth` deals** at the time of Opportunity approval submission for non-CSM assigned customers below $50K ARR in the **Commercial and Enterprise segments**. 
 
-This means that Digital Programs are now officially available to our entire customer-base of < $50K ARR, non-TAM assigned accounts! See the [technical documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required) and [quick demo video](https://www.loom.com/share/99dbbeacd4b54bfaa27881ccd375cb80). Reach out in #cs-questions.
+This means that Digital Programs are now officially available to our entire customer-base of < $50K ARR, non-CSM assigned accounts! See the [technical documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required) and [quick demo video](https://www.loom.com/share/99dbbeacd4b54bfaa27881ccd375cb80). Reach out in #cs-questions.
 
 ----
 **The [360 Feedback survey](/handbook/people-group/360-feedback/) launches today (2021-08-02)** and is a great opportunity to help our team members succeed and grow, while also receiving valuable feedback for our own development. Please look out for an email from Culture Amp to start this process. Note that any team member who started after 2021-06-01 will not be automatically included. If you would like to be included, please reach out in #people-connect to be manually added.
@@ -95,7 +95,7 @@ This quarter's 16 Sales & CS enablement sessions helped us fine-tune the skills 
 --
 
 Welcome our newest members of the Field Enablement team! 
-- [Pallavi Daliparthi](https://about.gitlab.com/company/team/#pdaliparthi) - Supporting TAM enablement
+- [Pallavi Daliparthi](https://about.gitlab.com/company/team/#pdaliparthi) - Supporting CSM enablement
 - [Thabo Bopape](https://about.gitlab.com/company/team/#tbopape) - Supporting SA enablement 
 - [Emelie Rodriguez](https://about.gitlab.com/company/team/#emelier) - Supporting ENT enablement 
 

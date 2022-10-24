@@ -178,7 +178,7 @@ Knowledge x Practice = Capability
     - [Misty Martin-Zimmerman](/company/team/#mzimmers) (Sr. Program Manager, Commercial Sales Enablement (AMER))
     - [Cristian Enache](https://about.gitlab.com/company/team/#cenache) (Program Manager, Commercial Sales Enablement (EMEA & APAC))
     - [Blair Fraser](/company/team/#bfraser) (Sr. Program Manager, Partner Enablement)
-    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Technical Account Manager Enablement)
+    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Customer Success Manager Enablement)
     - TBH (Sr. Program Manager, Solution Architect Enablement)
 - **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
     - [Allison Gleisner](/company/team/#agleisner) 

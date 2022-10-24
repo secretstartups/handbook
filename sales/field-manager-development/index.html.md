@@ -146,6 +146,6 @@ This program will leverage content from the GitLab Manager Challenge and address
     - [Dave Astor](/company/team/#disastor) (Manager, Solutions Architects, US East)
     - [Robbie Byrne](/company/team/#RobbieB) (Area Sales Manager, EMEA)
     - [Ed Cepulis](/company/team/#ecepulis) (Sr. Director, Channel Programs and Enablement)
-    - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
+    - [Michael Leutz](/company/team/#mrleutz) (Manager, Customer Success Managers, EMEA)
     - [Helen Mason](/company/team/#hmason) (Area Sales Manager (Mid-Market), EMEA)
     - [Jacob Potter](/company/team/#jpotter1) (Area Sales Manager, Mid Market First Order)

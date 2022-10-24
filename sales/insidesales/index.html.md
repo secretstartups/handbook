@@ -31,7 +31,7 @@ The mission of the Inside Sales department is to create valuable experiences for
 | ------------------ | ---------------------- |
 | **1. Manage & grow renewals with < or equal to $50k in ARR Basis** | Collaborate closely with SALs, ASMs, and regional sales teams to build account plans to retain, grow, and upgrade customers. Work with customers and partners to get 90-120 days ahead of all renewals. Conduct Renewal health checks to review current usage and potential for growth or upgrades. Support customers and partners with license procurement and fulfillment. |
 | **2. Drive nARR with upgrades and add-ons for growth opportunities with <$50k in ARR Basis** |  Support SALs and the field sales team with strategic growth including add-on and upgrade opportunities, assist with account planning, discovery, qualification, quoting & paper process, internal approvals, partner management, as well as licensing and fulfillment |
-| **3. Maintain & improve renewal rate** | Work closely with SALs, ASMs, CAMs, and TAMs to ensure on-time renewals. Work closely with channel partners, deal desk, internal teams and develop a process to stay 90 - 180 days ahead of all renewals |
+| **3. Maintain & improve renewal rate** | Work closely with SALs, ASMs, CAMs, and CSMs to ensure on-time renewals. Work closely with channel partners, deal desk, internal teams and develop a process to stay 90 - 180 days ahead of all renewals |
 
 ## ISR Alignment
 
@@ -94,7 +94,7 @@ ASMs with ISRs available to support with renewals and growth.
 Yes. And once the value crosses over the $50k threshold, SALs should be looped in to coordinate and drive the opportunity to close alongside the ISR and ASM. 
 
 **What should an ISR do if they identify signficiant growth potential from a sub $50k renewal?**
-Loop in the SAL and ASMs and other account team resources (SAs and TAMs). These growth oppotunities should be a collaborative effort between the ISR, SAL, and ASM.
+Loop in the SAL and ASMs and other account team resources (SAs and CSMs). These growth oppotunities should be a collaborative effort between the ISR, SAL, and ASM.
 
 **How should ISRs work with Solution Architects?**
 [Engaging Solution Architects](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#engaging-an-sa-during-the-sales-cycle) is ultimately the responsibility of the SAL (or ASM). ISRs should work closely with SALs to ensure the SA qualification criteria is uncovered and there is strategic growth or upgrade potential.
@@ -113,7 +113,7 @@ Once you have been assigned a territory:
 6. Schedule and lead a recurring call with the Regional Director(s) and Area Sales Manager(s) to review regional priorities (bi-weekly cadence suggested). Work with RDs and ASMs to make sure you are invited to the appropriate team calls, slack channels, etc.
 7. Schedule time to introduce yourself and educate supported SALs or AEs on your role and responsibilities. Develop a working cadence and document how you plan to communicate and stay aligned on priorities.
 8. Ensure that you are added to regional sales team calls.
-9. Ensure you are added (as an optional attendee) to all relevant SAL and TAM calls or opportunity reviews.
+9. Ensure you are added (as an optional attendee) to all relevant SAL and CSM calls or opportunity reviews.
 10. Review and document Current- and Next-FQ Renewals and Opportunities that you will "actively manage" as the ISR. Tag all "actively managed" opportunities following the process outlined in the "Actively Managed Opportunity" section below.
 11. Review your regional alignment on the [Sales Territories](https://about.gitlab.com/handbook/sales/territories/) page.
 12. Create a renewals report that includes quote start and end dates.
@@ -232,7 +232,7 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 | [Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Field Operations | Go-to resource for deal processing and facilitation |
 | [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Field Operations | Handbook page for GitLab Deal Desk and associated processes |
 | [Renewals Process Guide](https://about.gitlab.com/handbook/sales/sales-renewal-process/) | Field Operations | Handbook page outlining renewal process and policies | 
-| [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SALs, TAMs, Customer Success) |
+| [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SALs, CSMs, Customer Success) |
 | [ISR Renewal Management](https://drive.google.com/drive/u/0/search?q=%22Renewal%20Oppty%20Management%22) | Shared doc | A shared document outlining the renewal management process for ISRs |
 | [Community Education / EDU Program](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/) | Community Relations | Resource that outlines The GitLab for Education Program which provides GitLab for free to students and faculty at educational institutions around the globe |
 

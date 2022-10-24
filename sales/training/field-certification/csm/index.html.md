@@ -1,22 +1,22 @@
 ---
 layout: handbook-page-toc
-title: "Field Accreditation: Technical Account Managers"
-description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Technical Account Managers that includes functional, soft skills, and technical training for field team members"
+title: "Field Accreditation: Customer Success Managers"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Customer Success Managers that includes functional, soft skills, and technical training for field team members"
 ---
 
-## Field Accreditation Program for Technical Account Managers 
+## Field Accreditation Program for Customer Success Managers 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Technical Account Managers that includes functional, soft skills, and technical training for field team members.  
+To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Customer Success Managers that includes functional, soft skills, and technical training for field team members.  
 
 Accreditation badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
-## Technical Account Managers Curriculum 
-Below is the holistic learner journey for TAMs and provides context for the information included throughout the learning program. 
+## Customer Success Managers Curriculum 
+Below is the holistic learner journey for CSMs and provides context for the information included throughout the learning program. 
 
 **Course 1: [Building Success Plans](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)**
 * Define success plans and their purpose
@@ -37,13 +37,13 @@ Below is the holistic learner journey for TAMs and provides context for the info
 * Demonstrate the value of an EBR to customers (to assist in getting EBR scheduled)
 * Facilitate scheduling EBRs in a timely fashion with execs and economic buyers.
 
-**Course 4: SALSA-TAM Meeting**
-* Identify roles & responsibilities in the SALSA-TAM Meeting
-* Review SALSA-TAM Meeting best practices
+**Course 4: SALSA-CSM Meeting**
+* Identify roles & responsibilities in the SALSA-CSM Meeting
+* Review SALSA-CSM Meeting best practices
 * Leverage tools during call 
 
 **Course 5: Pre- to Post Sales Handoff**
-*Differentiate between when a TAM should get involved in commercial and enterprise accounts
+*Differentiate between when a CSM should get involved in commercial and enterprise accounts
 * Review the Customer Use Case with SAL and SA
 * Analyze the Customer’s Background
 * Identify gaps in understanding for planning phase

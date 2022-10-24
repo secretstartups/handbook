@@ -114,7 +114,7 @@ Field Enablement and Marketing are partnering to create a new pitch deck for Sal
 Commercial Enablement has kicked off the [Commercial Sales Voice of the Customer video series](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/508). [Watch the recording](https://chorus.ai/playlists/360042) from the first session for valuable insights directly from GitLab customer Vivek Desai, VP of Cloud Infrastructure at Olive.
 
 ---
-GitLab is making a significant investment to help Enterprise reps be successful in reaching their Peak Performance in FY22 and beyond through [Account Planning](/handbook/sales/account-planning/)! By now, all ENT SALs, SAs and TAMs should have completed the [Account Planning Methodology Course](https://gitlab.edcast.com/pathways/ECL-9f7e58e8-8600-4f7e-8a8c-dc2d31421443), and the [Account Snapshot in Gainsight Course](https://gitlab.edcast.com/pathways/ECL-5c4a6b55-f0cc-4a15-b445-6b46b2824a1f) and identified their account to plan. The next mini-course, Relationship/ Influence Mapping, is due June 18.
+GitLab is making a significant investment to help Enterprise reps be successful in reaching their Peak Performance in FY22 and beyond through [Account Planning](/handbook/sales/account-planning/)! By now, all ENT SALs, SAs and CSMs should have completed the [Account Planning Methodology Course](https://gitlab.edcast.com/pathways/ECL-9f7e58e8-8600-4f7e-8a8c-dc2d31421443), and the [Account Snapshot in Gainsight Course](https://gitlab.edcast.com/pathways/ECL-5c4a6b55-f0cc-4a15-b445-6b46b2824a1f) and identified their account to plan. The next mini-course, Relationship/ Influence Mapping, is due June 18.
 
 ### Team Member Spotlight 🔦
 

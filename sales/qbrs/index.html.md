@@ -75,8 +75,8 @@ See below for a list of QBR sessions by segment.
    1. AMER Channel
 
 **CS QBRs**
-1. TAM Team - AMER & EMEA 
-1. TAM Team - APAC 
+1. CSM Team - AMER & EMEA 
+1. CSM Team - APAC 
 1. SA Team
 1. PubSec CS Team
 1. Professional Services Team
@@ -158,7 +158,7 @@ Participation in in-person Field Manager QBRs differs from virtual settings in o
 1. CRO LT 
 1. Regional Sales Leaders (ASM) / Managers+ of Customer Success or Channel & Alliances
 1. Inside Sales Leaders
-1. Regional SA & TAM Managers 
+1. Regional SA & CSM Managers 
 1. Channels & Alliances Leaders 
 1. Professional Services Leaders 
 1. Global and/or Regional Field Operations Leaders 
@@ -180,7 +180,7 @@ Wherever possible, the QBR planning team will incorporate the ability for team m
 1. Managers/ASMs are responsible for gathering insights and input from their teams to inform their Field Manager QBR presentations. These sessions should be self-organized by the managers. It is recommended that managers look at these QBR sessions as "family discussions" and keep them simple and informal to encourage team openness and knowledge-sharing. 
 1. Depending on the Field Manager QBR, RDs, AVPs or VPs are considered the "hosts" of their QBR sessions. As the hosts, these leaders serve as the DRI for the attendance and schedule of their sessions. Therefore, please ensure you are being thoughtful when providing the QBR planning team with your attendee list and schedule for your session.
 1. Field Manager QBRs should be an inclusive environment – QBR hosts should encourage participation from other members of their extended teams as well as delegates from other areas of the business.
-   1. Invite your Channel Manager, SDR Manager, Field Marketing delegate, and/or TAM Manager to provide a brief (5 minute) update during each QBR.
+   1. Invite your Channel Manager, SDR Manager, Field Marketing delegate, and/or CSM Manager to provide a brief (5 minute) update during each QBR.
    1. NOTE: ENT ASMs will co-present with SA managers. 
 1. Any changes to the Field Manager QBR schedules should be made no later than two weeks before the scheduled start of *virtual* QBRs and 2 months before the scheduled start of *in-person* QBRs to avoid calendar disruptions for participants.
 1. All managers/ASMs should complete their Field Manager QBR decks no later than 2 business days prior to their Field Manager QBR session. (Note: For QBRs that occur on the first business day of the new quarter, the standard is one business day.)
@@ -290,7 +290,7 @@ Below is a sample roll-out of the Field Manager QBR planning and execution proce
 1. Field Comms to stand up QBR-specific Slack channels to address questions and requests from field managers.
 1. Designated QBR hosts for each session (AVPs/RDs/ASMs or equivalent) to provide input in the following areas by EOW.
    1. Final approval/check on the assigned date for their QBR
-   1. A full list of attendees – team members, relevant SA/TAM managers, any delegates they want to ensure are included (SDR managers, PMMs, etc.)
+   1. A full list of attendees – team members, relevant SA/CSM managers, any delegates they want to ensure are included (SDR managers, PMMs, etc.)
       1. Please note that RDs/ASMs are not required to select delegates from other teams for their sessions. This is a chance to request a specific team member (ex. a specific SDR manager). If an RD/ASM chooses not to, Field Enablement will work with managers from these teams to select delegates for each session.
    1. Logistical details (i.e. personal Zoom room link)
 

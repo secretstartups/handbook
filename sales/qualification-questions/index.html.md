@@ -150,7 +150,7 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
     * Standard support: Next business day support (response within 24 hours 24x5)
     * Priority support: 4 hour response time for regular business support and 24x7 uptime support with a guaranteed 30 minute response time (best choice for minimizing outages and downtime
 * How confident are you in your team’s ability to roll out GitLab? What would be the impact if you had expert help to assist in guiding, planning, and shaping your deployment and implementation?
-    * Position how [Technical Account Manager](https://about.gitlab.com/services/technical-account-management/) access can help to mitigate deployment risk, accelerate time to value, and optimize ROI and TCO
+    * Position how [Customer Success Manager](https://about.gitlab.com/services/technical-account-management/) access can help to mitigate deployment risk, accelerate time to value, and optimize ROI and TCO
 * How do you normally handle software upgrades? Would it be helpful to have GitLab support to help you through the process to ensure there aren't any surprises?
     * If yes, position GitLab’s *Upgrade Assistance*
 

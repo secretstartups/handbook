@@ -15,7 +15,7 @@ description: "This page is the key GitLab Handbook page for all technical docume
 
 ## Gainsight
 
-Gainsight is a system that our TAMs use in order to support our customers and to manage their workflow. The integration between Salesforce and Gainsight is documented on this page. The applicable rules that sync the data between the systems, as well as system processes that have been set up within the system itself.
+Gainsight is a system that our CSMs use in order to support our customers and to manage their workflow. The integration between Salesforce and Gainsight is documented on this page. The applicable rules that sync the data between the systems, as well as system processes that have been set up within the system itself.
 
 ### Gainsight Rules Engine
 
@@ -28,7 +28,7 @@ The Rules engine is a business automation tool build within Gainsight that allow
 ### Bi-Directional rules
 
 -  Bi-Directional Builds
-   -  Pull/Push CSM changes: This rule maintains the Technical Account Manager on the account between the two systems.
+   -  Pull/Push CSM changes: This rule maintains the Customer Success Manager on the account between the two systems.
 
 ### Syncing data from Salesforce to Gainsight
 
@@ -58,7 +58,7 @@ While the `Connectors 2.0` are very powerful, we also have to supplement the dat
 
     These rules are built out in order to correctly associate our accounts to one another in a manner that matches our account hierarchy in Salesforce.
 
-_This is on hold as we work with the TAMs on the final outcome_.
+_This is on hold as we work with the CSMs on the final outcome_.
 
 - Admin - Set Company Status (Active/Inactive)
 
@@ -115,7 +115,7 @@ _This is on hold as we work with the TAMs on the final outcome_.
 
 ## CTAs - Daily
 
-- CTA - New Account TAM Assignment v2
+- CTA - New Account CSM Assignment v2
 - CTA - Onboarding v2
 - CTA - Success Planning v2
 - CTA - Post Onboarding Check-ins
@@ -176,7 +176,7 @@ The tickets that are seen on the company view within Gainsight are shown there b
 
 Below are the Gainsight bundles (permission sets) and relevant access categories.
 
-| Area                                  | Capability                                                   | `Default Bundle` (Admin role) | `SAL_Users` | `View_Group` | `TAM Journey Orchestrator` | `TAM_Users` | `GS Admin sans provisioning` |
+| Area                                  | Capability                                                   | `Default Bundle` (Admin role) | `SAL_Users` | `View_Group` | `CSM Journey Orchestrator` | `TAM_Users` | `GS Admin sans provisioning` |
 | ------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ----------- | ------------ | -------------------------- | ----------- | ----------- |
 | Home                                  | Dashboard view access                                        | ✓                             | ✓           |              | ✓                          | ✓           | ✓           |
 | Timeline                              | End user account Timeline history view                       | ✓                             | ✓           | ✓            |                            | ✓           | ✓           |

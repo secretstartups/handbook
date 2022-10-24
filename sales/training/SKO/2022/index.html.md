@@ -83,12 +83,12 @@ GitLab SKO 2022 took place virtually from March 15-17, 2022. The virtual event c
 | Value Stream Mapping - Origins, Assessments and Iterations | N/A | [video link](https://gitlab.edcast.com/insights/sa-value) |
 | GET Workshop | [slides](https://docs.google.com/presentation/d/1_EUPYLunIypMhFaDZsOKtSxgK6eM_7uoRm8YwLntQag/edit#slide=id.g10839182931_0_238) | [video link](https://gitlab.edcast.com/insights/sa-amp-proserv) |
 
-## Technical Account Managers
+## Customer Success Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| TAM Strategy | [slides](https://docs.google.com/presentation/d/1Ry4mi5pTYvuh85hktMJgAm9Inh124Uxnm8o2M6VnHf0/edit#) | [video link](https://gitlab.edcast.com/insights/tam-tam) |
-| TAM and Customer Personas | [slides](https://docs.google.com/presentation/d/1-cDqKUSKYB_WZWRtFCP7bmzgxYewA5uP1S4mt2Gt76E/edit) | [video link](https://gitlab.edcast.com/insights/tam-tam-and) |
+| CSM Strategy | [slides](https://docs.google.com/presentation/d/1Ry4mi5pTYvuh85hktMJgAm9Inh124Uxnm8o2M6VnHf0/edit#) | [video link](https://gitlab.edcast.com/insights/tam-tam) |
+| CSM and Customer Personas | [slides](https://docs.google.com/presentation/d/1-cDqKUSKYB_WZWRtFCP7bmzgxYewA5uP1S4mt2Gt76E/edit) | [video link](https://gitlab.edcast.com/insights/tam-tam-and) |
 | Driving Adoption With CI/CD Workshops | [slides](https://docs.google.com/presentation/d/1FljIu13VDNA9PvUfRgMw0q9HrHoQNVZPUZ5Au0TCnJk/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/tam-driving) |
 
 ## Professional Services Engineers

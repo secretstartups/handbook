@@ -29,7 +29,7 @@ The below slide shows the holistic learner journey for SAs and provides context 
 - Proof of Value 
     - Proof of Value Overview
     - Executing an Excellent POV 
-- Introducing the TAM
+- Introducing the CSM
 
 
 ## Recognition

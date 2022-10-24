@@ -80,11 +80,11 @@ For a full list of virtual events, see a convenient [calendar view in the Market
 - Check out our new [GitLab Partner Channel via BrightTalk](https://www.brighttalk.com/channel/18613/) where you can access all Partner Webcasts and sign up for upcoming Partner Sessions.
 
 ### Enablement Corner 🧠
-In December 2020, the Field Enablement team launched the first [role-based field certification course](/handbook/sales/training/field-certification/) – Building Success Plans – to the global Technical Account Manager team in GitLab Learn, our new Learning Experience Platform (LXP). Initial feedback has been positive and we look forward to onboarding other teams on the new learning platform in the coming weeks.
+In December 2020, the Field Enablement team launched the first [role-based field certification course](/handbook/sales/training/field-certification/) – Building Success Plans – to the global Customer Success Manager team in GitLab Learn, our new Learning Experience Platform (LXP). Initial feedback has been positive and we look forward to onboarding other teams on the new learning platform in the coming weeks.
 
 ### Team Member Spotlight 🔦
 
-#### [Ricardo Amarilla - Technical Account Manager](https://about.gitlab.com/company/team/#ricardo.amarilla)
+#### [Ricardo Amarilla - Customer Success Manager](https://about.gitlab.com/company/team/#ricardo.amarilla)
 
 ![Ricardo-Amarilla-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Ricardo_Amarilla_TMS_Thumb.png)
 

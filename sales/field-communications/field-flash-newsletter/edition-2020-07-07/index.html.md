@@ -47,7 +47,7 @@ We recently added a Cross-Culture Collaboration Guide to the Handbook to help Gi
 The Field team is piloting Focus Fridays through the Summer. Consider adopting Focus Fridays in your schedule to allow time for focused work and reduce potential burnout. [See the Handbook for Details -->](/handbook/sales/sales-meetings)
 
 ### Did You Know? 🔢
-Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for TAMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
+Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for CSMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
 
 For the full details, please see the [updated compensation deck](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1) and [updated Channel Partner Handbook page](/handbook/resellers/#definitions-and-qualifications). 
 

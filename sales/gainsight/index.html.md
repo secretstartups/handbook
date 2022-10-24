@@ -12,7 +12,7 @@ description: "The key aspects of using Gainsight at GitLab to drive success for 
 
 ## What is Gainsight?
 
-Gainsight is a tool for Strategic Account Leaders, Solutions Architects, and Technical Account Managers to manage the ongoing customer lifecycle.
+Gainsight is a tool for Strategic Account Leaders, Solutions Architects, and Customer Success Managers to manage the ongoing customer lifecycle.
 
 ### Key Benefits of Gainsight
 
@@ -106,5 +106,5 @@ If this doesn't solve the issue, reach out to [Gainsight support](#support-ticke
 ### Role Specific Gainsight Usage 
 
 - You can find more information about how Sales uses Gainsight on the [Using Gainsight within Sales](/handbook/sales/gainsight/account-planning/) page 
-- You can find more information about how Technical Account Managers use Gainsight on the [Using Gainsight for TAMs](/handbook/customer-success/csm/gainsight/) page 
+- You can find more information about how Customer Success Managers use Gainsight on the [Using Gainsight for CSMs](/handbook/customer-success/csm/gainsight/) page 
 - You can find more information about how Solutions Architect use Gainsight on the [Using Gainsight for SAs](/handbook/customer-success/solutions-architects/processes/account-planning)
