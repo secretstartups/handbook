@@ -718,10 +718,10 @@ If you are interested in requesting Field Marketing's support for a particular i
 
 It is our goal to have planning for each qtr completed four (4) weeks before the next quarter starts. At this time, we have the following time line set for regional plans:
 
-- Q1 plan is due Jan 14
-- Q2 plan is due April 1, and this is no [April Fools](https://www.history.com/topics/holidays/april-fools-day) joke! ;)
-- Q3 plan is due July 1
-- Q4 plan is due Oct 1
+- Q1 plan is due Jan 13
+- Q2 plan is due April 3
+- Q3 plan is due July 3
+- Q4 plan is due Oct 2
 
 A standard deck will also be used to ensure consistency across the world in terms of how the plan is presented.
 
