@@ -9,9 +9,7 @@ description: "Describes the process of scoping PS engagements."
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
-
-:warning: This page is under construction 
+{:toc .hidden-md .hidden-lg} 
 
 # Scoping Information
 
@@ -34,4 +32,11 @@ See the detailed notes pages for each service type below.
 - [GitLab migration scoping - GitLab, Bitbucket Server, or GitHub (Enterprise or .com) -> GitLab](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/)
 - [CI pipeline migration scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/ci-pipeline/)
 - [Transformational Services scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/transformational-services/)
+
+## Escalations in Scoping
+There may be times when the EM and/or TA disagree with a solution approach that a customer has proposed for Professional Services.  In these cases, the scope should be escalated with the account team (SAL/AE, SA, CSM) by following these steps:
+1. Schedule an internal call with the account team (SAL and CSM or SA depending on who you've been working with on scoping, possibly both).  Both the TA and EM should attend the internal call.
+1. Lay out your reasoning for thinking the current solution path is not the correct path
+1. Define alternate solutions that would be a better fit
+1. Agree with account team on a communication plan with the customer, next steps, and the DRI for communication
 
