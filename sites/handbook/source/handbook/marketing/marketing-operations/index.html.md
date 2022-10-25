@@ -161,6 +161,7 @@ Categories
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `MktgOps-Support`: Internal label used by MktgOps team to track non-issue work and support
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
+- `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests. 
 
 </details>
 
@@ -451,39 +452,36 @@ Status in the table below means:
 | Startup Application | inbound |  | Active |
 | Other | Other |  | Active |
 | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
-| Clearbit | outbound |  | Inactive |
-| Datanyze | outbound |  | Inactive |
-| DiscoverOrg | outbound |  | Inactive |
-| Leadware | outbound | Sourced by an SDR through networking or professional groups | Inactive |
+
+
+
 | LinkedIn | outbound |  | Active |
 | Prospecting | outbound |  | Active |
 | Prospecting - General | outbound |  | Active |
-| Prospecting - LeadIQ | outbound |  | Inactive |
+
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
 | Zoominfo | outbound | Sourced by SDR/BDR/AE/SAL/ASM | Active |
 | Cognism | outbound | Sourced by SDR/BDR | Active |
-| Advertisement | paid demand gen |  | Inactive |
+
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
-| Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Inactive |
+
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
 | Promotion | paid demand gen |  | Active |
 | Virtual Sponsorship | paid demand gen |  | Active |
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
-| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Inactive |
+
 | Channel Qualified Lead | referral| GitLab partner sourced, previously `partner`| Active|
 | Word of Mouth | referral |  | Active |
-| Event Partner | referral |  | Inactive |
 | Existing Client | referral |  | Active |
 | External Referral | referral |  | Active |
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
-| Webinar | virtual event |  | Active |
 | Workshop| virtual event |   | Active|
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
 | GitLab Subscription Portal|Signed up for customers portal account, but did not upgrade|Active|
-|Free Registration|core| Sign up via Free User registration|Active
+|Free Registration|core| Sign up via Free User registration|Active|
 
 ### A Note About Trials
 
@@ -518,20 +516,19 @@ One of the following must occur to have a lead move from `Raw` to `Inquiry`
 
 Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
 
-The cleaning part of this process is currently being done using our lead/contact deduplication tool, Ringlead. 
+The cleaning part of this process was being done using our lead/contact deduplication tool, Ringlead. **This work is now paused** while Mops is investigating Openprise, as a potential substitute for Ringlead. We're in the final stages of that discussion and we're waiting for a proposal from their side. The biggest reasons for using Openprise instead of Ringlead are the better quality support we would get along with consolidating our tools with for data clealiness with the same ones Sops is using. 
 
 The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
 
-This cleaning & enrichment process has 4 main priorities:  
+This cleaning & enrichment process has 3 main priorities:  
 
-1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
-2. **Enrich net new leads with Marketo Webhook  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
-3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.  
-4. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
-    * Lead to Lead Deduplication  (Completed - Runs weekly on Fridays and Saturdays)
+1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
+2. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.  
+3. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
+    * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays* - now paused while investigating Openprise instead of Ringlead)
     * Account Deduplication (This part is currently performed by Sales Operations)
     * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
-    * Contact to Contact Deduplication (Started but currently on hold to allow for a Sales Systems fix)
+    * Contact to Contact Deduplication (Tested with Ringlead/Openprise)
     * Lead to Contact Deduplication (This part of the process will start once Contact Deduplication is completed)
     * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 

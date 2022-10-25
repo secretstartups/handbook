@@ -181,57 +181,60 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 **Note: Bizible reprocesses your data when you edit the mapping logic, so you won’t be able to change these rules more than once every 7 days.**
 
 | Channel        | Sub Channel        | Campaign                   | Medium                             | Source                             | Landing Page                              | Referring Website        |
-|----------------|--------------------|----------------------------|------------------------------------|------------------------------------|-------------------------------------------|--------------------------|
-| Paid Search    | AdWords            |                            |                                    |                                    |                                           | [AdWords Paid Search]    |
-| Paid Search    | Bing               |                            |                                    |                                    |                                           | [Bing Paid Search]       |
-| Paid Search    | Bing               |                            | cpc                                | bing_yahoo                         |                                           |                          |
-| Paid Search    | Yahoo              |                            |                                    |                                    |                                           | [Yahoo Paid Search]      |
-| Paid Search    | AdWords            |                            | cpc,CPC                            | Google AdWords                     |                                           |                          |
-| Display        | DoubleClick        |                            | display                        | doubleclick                                   |                                           |            |
-| Display        | Google             |                            | display                        | google                                   |                                           |         |
-| Display   | Demandbase          |                                | display                        | demandbase                                   |                                           |        |
-| Display        | DoubleClick        |                            |                                    |                                    |                                           | [DoubleClick]            |
-| Display        | Google             |                            |                                    |                                    |                                           | [AdWords Display]        |
-| Paid Social    | Facebook           |                            |                                    |                                    |                                           | [Facebook Paid]          |
-| Paid Social    | Facebook           |                            | paidsocial                         | facebook                           |                                           |                          |
-| Paid Social    | LinkedIn           |                            |                                    |                                    |                                           | [LinkedIn Paid]          |
-| Paid Social    | LinkedIn           |                            | paidsocial                         | linkedin                           |                                           |                          |
-| Paid Social    | Twitter            |                            | paidsocial                         | twitter                            |                                           |                          |
-| Paid Search    | Other              |                            |                                    |                                    |                                           | [Other Paid Search]      |
-| Paid Search    | Google             |                            | cpc                                | google                             |                                           |                          |
-| Paid Search    | Other              |                            | cpc                                |                                    |                                           |                          |
-| Paid Social    | Other              |                            |                                    |                                    |                                           | [Other Paid Social]      |
-| Paid Social    | Other              |                            | paidsocial                         |                                    |                                           |                          |
-| Email          |                    |                            |                                    |                                    |                                           | [Web Mail]               |
-| Email          |                    |                            |                                    | email;eml;e-mail;hs-email;emailsig |                                           |                          |
-| Email          |                    |                            | email;eml;e-mail;hs-email;emailsig |                                    |                                           |                          |
-| Organic Search | Google             |                            |                                    |                                    |                                           | [Google Organic Search]  |
-| Organic Search | Bing               |                            |                                    |                                    |                                           | [Bing Organic Search]    |
-| Organic Search | Yahoo              |                            |                                    |                                    |                                           | [Yahoo Organic Search]   |
-| Organic Search | Other              |                            |                                    |                                    |                                           | [Other Organic Search]   |
-| Social         | Facebook           |                            |                                    | Facebook                           |                                           |                          |
-| Social         | Facebook           |                            | Facebook                           |                                    |                                           |                          |
-| Social         | Facebook           |                            |                                    |                                    |                                           | [Facebook]               |
-| Social         | LinkedIn           |                            |                                    | LinkedIn                           |                                           |                          |
-| Social         | LinkedIn           |                            | LinkedIn                           |                                    |                                           |                          |
-| Social         | LinkedIn           |                            |                                    |                                    |                                           | [LinkedIn]               |
-| Social         | Twitter            |                            |                                    | Twitter                            |                                           |                          |
-| Social         | Twitter            |                            | Twitter                            |                                    |                                           |                          |
-| Social         | Twitter            |                            |                                    |                                    |                                           | [Twitter]                |
-| Social         | Other              |                            |                                    | social                             |                                           |                          |
-| Social         | Other              |                            | social                             |                                    |                                           |                          |
-| Display        | Other              |                            | display                            |                                    |                                           |                          |
-| Display        | Other              |                            |                                    | display                            |                                           |                          |
-| IQM            | IQM                | Initial Qualifying Meeting |                                    |                                    |                                           |                          |
-| Other          |                    |                            | *                                  |                                    |                                           |                          |
-| Other          |                    |                            |                                    | *                                  |                                           |                          |
-| Direct         | Web Store          |                            |                                    |                                    | customers.gitlab.com/                |                          |
-| Direct         | CI Minutes         |                            |                                    |                                    | customers.gitlab.com/buy_pipeline_minutes |                          |
-| Direct         | Trial Home         |                            |                                    |                                    | about.gitlab.com/free-trial/              |                          |
-| Direct         | GitLabCom Trial    |                            |                                    |                                    | gitlab.com/-/trials/new                   |                          |
-| Direct         | Self Managed Trial |                            |                                    |                                    | about.gitlab.com/free-trial/self-managed/ |                          |
-| Direct         |                    |                            |                                    |                                    |                                           | direct;[Account Website] |
-| Web Referral   |                    |                            |                                    |                                    |                                           | *                        |
+|----------------|--------------------|----------------------------|------------------------------------|------------------------------------|--------------------------------------------|--------------------------|
+| Paid Search    | Google             |                            | cpc                                | google                             |                                            |                          |
+| Paid Search    | Google             |                            |                                    |                                    |                                            | [AdWords Paid Search]    |
+| Paid Search    | Bing               |                            | cpc                                | bing_yahoo                         |                                            |                          |
+| Paid Search    | Bing               |                            |                                    |                                    |                                            | [Bing Paid Search]       |
+| Paid Search    | Yahoo              |                            |                                    |                                    |                                            | [Yahoo Paid Search]      |
+| Paid Search    | Other              |                            | cpc                                |                                    |                                            |                          |
+| Paid Search    | Other              |                            |                                    |                                    |                                            | [Other Paid Search]      |
+| Display        | DoubleClick        |                            |                                    |                                    |                                            | [DoubleClick]            |
+| Display        | Google             |                            | display                            | google                             |                                            |                          |
+| Display        | Google             |                            |                                    |                                    |                                            | [AdWords Display]        |
+| Display        | Demandbase         |                            |                                    | ddbase;demandbase                  |                                            |                          |
+| Display        | Other              |                            | display                            |                                    |                                            |                          |
+| Display        | Other              |                            |                                    | display                            |                                            |                          |
+| Paid Social    | Facebook           |                            | paidsocial                         | facebook                           |                                            |                          |
+| Paid Social    | Facebook           |                            |                                    |                                    |                                            | [Facebook Paid]          |
+| Paid Social    | LinkedIn           |                            | paidsocial                         | linkedin                           |                                            |                          |
+| Paid Social    | LinkedIn           |                            |                                    |                                    |                                            | [LinkedIn Paid]          |
+| Paid Social    | Twitter            |                            | paidsocial                         | twitter                            |                                            |                          |
+| Paid Social    | Other              |                            | paidsocial                         |                                    |                                            |                          |
+| Paid Social    | Other              |                            |                                    |                                    |                                            | [Other Paid Search]      |
+| Organic Search | Google             |                            |                                    |                                    |                                            | [Google Organic Search]  |
+| Organic Search | Bing               |                            |                                    |                                    |                                            | [Bing Organic Search]    |
+| Organic Search | Yahoo              |                            |                                    |                                    |                                            | [Yahoo Organic Search]   |
+| Organic Search | Other              |                            |                                    |                                    |                                            | [Other Organic Search]   |
+| Social         | Facebook           |                            |                                    | Facebook                           |                                            |                          |
+| Social         | Facebook           |                            | Facebook                           |                                    |                                            |                          |
+| Social         | Facebook           |                            |                                    |                                    |                                            | [Facebook]               |
+| Social         | LinkedIn           |                            |                                    | LinkedIn                           |                                            |                          |
+| Social         | LinkedIn           |                            | LinkedIn                           |                                    |                                            |                          |
+| Social         | LinkedIn           |                            |                                    |                                    |                                            | [LinkedIn]               |
+| Social         | Twitter            |                            |                                    | Twitter                            |                                            |                          |
+| Social         | Twitter            |                            | Twitter                            |                                    |                                            |                          |
+| Social         | Twitter            |                            |                                    |                                    |                                            | [Twitter]                |
+| Social         | Youtube            |                            | social                             | youtube                            |                                            |                          |
+| Social         | Youtube            |                            |                                    |                                    |                                            | Youtube                  |
+| Social         | Other              |                            |                                    | social                             |                                            |                          |
+| Social         | Other              |                            | social                             |                                    |                                            |                          |
+| Referral       | Partners           |                            |                                    |                                    | *partnerid=*                               |                          |
+| Referral       | Partners           |                            | *partner*                          |                                    |                                            |                          |
+| Email          |                    |                            |                                    | email;eml;e-mail;hs-email;emailsig |                                            |                          |
+| Email          |                    |                            | email;eml;e-mail;hs-email;emailsig |                                    |                                            |                          |
+| Email          |                    |                            |                                    |                                    |                                            | *email.gitlab.com*       |
+| Email          |                    |                            |                                    |                                    |                                            | [Web Mail]               |
+| IQM            | IQM                | Initial Qualifying Meeting |                                    |                                    |                                            |                          |
+| Other          |                    |                            | *                                  |                                    |                                            |                          |
+| Other          |                    |                            |                                    | *                                  |                                            |                          |
+| Direct         | Web Store          |                            |                                    |                                    | *customers.gitlab.com/*                    |                          |
+| Direct         | CI Minutes         |                            |                                    |                                    | *customers.gitlab.com/buy_pipeline_minutes*|                          |
+| Direct         | Self Managed Trial |                            |                                    |                                    | *about.gitlab.com/free-trial/self-managed/*|                          |
+| Direct         | Trial Home         |                            |                                    |                                    | *about.gitlab.com/free-trial/*             |                          |
+| Direct         | GitLabCom Trial    |                            |                                    |                                    | *gitlab.com/-/trials/new*                  |                          |
+| Direct         |                    |                            |                                    |                                    |                                            | direct;[Account Website] |
+| Web Referral   |                    |                            |                                    |                                    |                                            | *                        |
 
 
 ### Bucket Channel Mapping
@@ -331,7 +334,29 @@ Training Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbmqYu7WFOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Bizible Person ID Deduplication
+## Bizible Review Process
+
+### Online Channel Mapping
+
+The review of online touchpoints and of the rules governing the creation of touchpoints based on online activities takes place once per month and includes the following checks:
+
+- Pull a Marketo Measure Touchpoint SFDC report, grouped by channel and monitor for touchpoints associated to “Other” as the channel;
+- Review the Landing Page Raw field data for the “Other” touchpoints and identify if there are new or rogue utm parameters that need to be added to our online rule sheet;
+- Additionally review the [UTM Generator spreadsheet](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=2043976569) which contains the urls that are used in our various online campaigns and make sure any newly added utm parameters are included in the online rules sheet;     
+- Finalize all updates to the online touchpoint rules sheet and re-upload it back into Marketo Measure > Online Channels section;
+- Lastly, if the rule changes require any additions/substractions to our Channel/Sub-Channel mapping, make sure to have those included in the Marketo Measure > Create Channels section.
+
+### Offline Channel Mapping
+
+The review of the campaign sync rules, the rules that govern the creation of touchpoints for offline activities takes place once per month and is based on the [Adobe Marketo Measure Best Practices for Maintenance](https://experienceleague.adobe.com/docs/marketo-measure/using/channel-tracking-and-setup/offline-channels/best-practices-for-offline-channels.html?lang=en). It includes the following checks:
+
+- Pull a Marketo Measure touchpoint grouped by channel, report and monitor if we're seeing many touchpoints associated to NULL as the channel;
+- Review the Campaign Ad Name data field for the NULL touchpoints and identify if the Campaign Type is selected. If so, then ensure that Campaign Type is visible in Marketo Measure under Offline Channels, and it is mapped to the correct Channel;
+- Under CRM > Offline Channels ensure all offline campaign types are mapped to the proper Marketo Measure channel/Sub-Channel.
+- Under CRM > Campaigns ensure the rules setup are still up-to-date and accurate. Run a test on any campaigns that are not tracking properly.
+- Publish any changes we make to retroactively update the touchpoints.
+
+### Bizible Person ID Deduplication
 
 A Bizible Person ID is created for each lead/contact in our database. In the unfortunate situation in which duplicate leads get created in our database, it will also result in duplicate Bizible Person IDs which may or may not skew the data depending on the touchpoints we have on those Bizible Person IDs. 
 
