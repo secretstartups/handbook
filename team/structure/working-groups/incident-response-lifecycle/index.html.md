@@ -60,9 +60,9 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 ### How is IR done today?
 
 1. SIRT
-   * [Incident Response Guidance](https://about.gitlab.com/handbook/engineering/security/threat-management/vulnerability-management/incident-response-guidance.html)
-   * [Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
-   * [GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html)
+   * [Incident Response Guidance](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html)
+   * [Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html)
+   * [GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/security/secops-oncall.html)
 1. [On-call](https://about.gitlab.com/handbook/on-call/)
 1. Reliability
    * [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
