@@ -108,7 +108,7 @@ There is a free and premium version.
 {: .panel-heading}
 <div class="panel-body">
 
-Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378). If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux. Refer to [GitLab's Data Classification Standard](/handbook/engineering/security/data-classification-standard.html) for additional details on how data is classified across the organization.
+Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378). If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux. Refer to [GitLab's Data Classification Standard](/handbook/security/data-classification-standard.html) for additional details on how data is classified across the organization.
 
 </div>
 </div>
@@ -205,7 +205,7 @@ If an event needs to be cancelled or modified, make sure to use Calendly to do s
 {: .panel-heading}
 <div class="panel-body">
 
-Clockwise requires specific permissions which allow it to read all calendar invitation data. Team Members who opt to utilize Clockwise should be cognizant about the meeting details (i.e. subject and meeting invite body) included in meetings that are sent from your calendar. Confidential data such as customer names, security specific information like discussion of incidents or bugs should not be included in a calendar title or body, and  instead be kept in a linked agenda, which Clockwise will not be able to read or download. Any data considered non-confidential per [GitLab's Data Classification Standard](/handbook/engineering/security/data-classification-standard.html) can be safely included in meeting invites.
+Clockwise requires specific permissions which allow it to read all calendar invitation data. Team Members who opt to utilize Clockwise should be cognizant about the meeting details (i.e. subject and meeting invite body) included in meetings that are sent from your calendar. Confidential data such as customer names, security specific information like discussion of incidents or bugs should not be included in a calendar title or body, and  instead be kept in a linked agenda, which Clockwise will not be able to read or download. Any data considered non-confidential per [GitLab's Data Classification Standard](/handbook/security/data-classification-standard.html) can be safely included in meeting invites.
 
 Team Members should also note that by utilizing Clockwise, you inherently agree to providing Clockwise with the ability to view and download your Google Contacts saved to your gitlab.com email account. This will be limited to viewing and downloading information for contacts with an @gitlab.com email alias.
 
