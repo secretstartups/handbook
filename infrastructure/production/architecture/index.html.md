@@ -21,14 +21,14 @@ This document does not cover servers that are not integral to the public facing 
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
 
 ## Purpose
 
-This page is our [document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.
+This page is our [document](https://about.gitlab.com/handbook/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.
 
 ## Scope
 
@@ -209,4 +209,4 @@ See how it's doing, for more information on that, visit the [monitoring handbook
 Exceptions to this architecture policy and design will be tracked in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/).
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* Parent Policy: [Information Security Policy](/handbook/security/)

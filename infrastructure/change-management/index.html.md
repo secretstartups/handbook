@@ -16,7 +16,7 @@ title: "Change Management"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -365,5 +365,5 @@ Additionally, during an incident investigation, knowing which high-risk features
 Exceptions to this process must be [tracked](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) and approved by Infrastructure.
 
 # References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
-* [Change Management Controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/change-management.html)
+* Parent Policy: [Information Security Policy](/handbook/security/)
+* [Change Management Controls](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/change-management.html)
