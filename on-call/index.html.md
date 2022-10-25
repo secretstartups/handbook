@@ -15,7 +15,7 @@ If you're a GitLab team member and are looking to alert Reliability Engineering 
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
 {: .alert .alert-info}
 
-If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) section.
+If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) section.
 {: .alert .alert-info}
 
 ## Expectations for On-Call
@@ -72,7 +72,7 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - You can view the [Security Operations schedule](https://gitlab.pagerduty.com/schedules#PYZC2CG) on PagerDuty.
 - When on-call, prioritize work that will make the on-call better (that includes building projects, systems, adding metrics, removing noisy alerts). Much like the Production team, we strive to have nothing to do when being on-call, and to have meaningful alerts and pages. The only way of achieving this is by investing time in trying to automate ourselves out of a job.
 - The main expectation when on-call is triaging the urgency of a page - if the security of GitLab is at risk, do your best to understand the issue and coordinate an adequate response. If you don't know what to do, engage the Security manager on-call to help you out.
-- More information is available in the [Security Operations On-Call Guide](/handbook/engineering/security/secops-oncall.html) and the [Security Incident Response Guide](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html).
+- More information is available in the [Security Operations On-Call Guide](/handbook/security/secops-oncall.html) and the [Security Incident Response Guide](/handbook/security/security-operations/sirt/sec-incident-response.html).
 
 ### Security Managers
 
