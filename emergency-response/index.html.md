@@ -23,7 +23,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 1. Review the S1 coverage matrix below and assign the issue and tag the coverage owner closest available per their timezone hin the  #mktgops Slack channel.
 1. If there is not a timely response in Slack, please review the coverage owners' Slack profile and send them a quick call or text. If no timely response, tag @mktg-ops within the  #mktgops Slack channel or use escalation path below.
 1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
-1. If security, make sure to follow [instructions](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident)
+1. If security, make sure to follow [instructions](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident)
 
 ### Coverage Matrix
 
@@ -72,7 +72,11 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
     * Legal, Customer Service VP and VP of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure) are required to sign off
+<<<<<<< HEAD
 * [Notifying affected field teams](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#communicating-internally) (Customer Success, CSM, SAL/AE, SA, Professional Services)
+=======
+* [Notifying affected field teams](https://about.gitlab.com/handbook/security/security-operations/sirt/security-incident-communication-plan.html#communicating-internally) (Customer Success, TAM, SAL/AE, SA, Professional Services)
+>>>>>>> 5cd81b4a62d (Bulk update security links)
    * Also make sure to notify #sales and #customer-success before email is set to go out
 * Approving test email 
 * Providing any edits to the test email
