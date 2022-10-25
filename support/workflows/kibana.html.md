@@ -159,6 +159,17 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. Add a positive filter on `json.path` for the path of the group, `gitlab-silver` in this example case.
 1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"0\"` is present, that entry was logged when SSO Enforcement was disabled by the user in the `json.username` field.
 
+##### SAML log in
+
+To investigate SAML login problems:
+
+In the `pubsub-rails-inf-gprd-*` log:
+
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter as advised in [our SAML groups docs](https://docs.gitlab.com/ee/user/group/saml_sso/troubleshooting.html#searching-rails-log-for-a-saml-response).
+
+After decoding the SAML response, and observing the results corresponding to your chosen filters, you can see if there are any missing or misconfigured attributes.
+
 #### Searching for Deleted Container Registry tags
 
 Kibana can be used to determine whether a container registry tag was deleted, when, and who triggered it, if the deletion happened in the last 7 days.
