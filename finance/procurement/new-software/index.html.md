@@ -32,7 +32,7 @@ title: New software
 3. Once your New Supplier is entered into the system, click on "Write a Request" in the upper right, under the search bar.
 4. Enter the required Fields and "Add to Cart"
 5. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
-    - Whether or not the software will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
+    - Whether or not the software will have access to [red and/or orange data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels) 
     - All data and systems the vendor will have access to 
         - Failure to complete this field will significantly delay the review and approval of your request.
     - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)

@@ -26,7 +26,7 @@ title: Individual Use Software
 - If you have any questions, please reach out to the Procurement team through the #procurement Slack channel.
 
 ## Pre-Approved Individual-Use Software Requests
-- See below for a listing of individual-use software that has been vetted and pre-approved by [Third Party Risk Management](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html#risk-acceptance-process). Access requests associated to pre-approved software can bypass Security review. 
+- See below for a listing of individual-use software that has been vetted and pre-approved by [Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#risk-acceptance-process). Access requests associated to pre-approved software can bypass Security review. 
 
 | Application | Data Classification | Pre-Approval Expiration | Notes and Restrictions |
 | ------ | ------ | ------ | ------ |

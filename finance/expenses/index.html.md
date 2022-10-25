@@ -17,7 +17,7 @@ title: Expenses
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by the AP team, as our Expense policy is a formal policy. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by the AP team, as our Expense policy is a formal policy. All contributions are welcome and encouraged.
 
 </div>
 </div>
