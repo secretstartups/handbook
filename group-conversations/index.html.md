@@ -235,7 +235,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. Post notes within the Zoom chat at both five and two minutes remaining mark - this will ensure everyone is aware of the time left within the call and encourage team members to keep the conversation on track.
 1. At time notify the Host that the meeting should be concluded allowing time for all participants to wrap up the active discussion and thanking them for their time and collaboration.
 1. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
-1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) for support.
+1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/security/security-operations/sirt/engaging-security-on-call.html) for support.
 1. Once the stream has ended, copy and paste the YouTube link to the Group Conversation agenda. This will allow easy access to the stream without having to search for it in the GitLab Unfiltered channel.
 1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
@@ -288,7 +288,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Twice per quarter | | EBA to VP, Product | 
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
-| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month| | EBA to Engineering | 
+| [Security](/handbook/security/) | Johnathan Hunt | Yes | Every other month| | EBA to Engineering | 
 | [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
