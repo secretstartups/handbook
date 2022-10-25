@@ -36,13 +36,13 @@ Refer to [working with Security](/handbook/support/workflows/working_with_securi
 
 When in doubt, please involve the security team. This is really important to reduce the likelihood of a 0-day disclosure.
 
-Issues created from ZenDesk tickets must follow the [security issue triage](/handbook/engineering/security/#issue-triage) process.
+Issues created from ZenDesk tickets must follow the [security issue triage](/handbook/security/#issue-triage) process.
 
-Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/engineering/security/#external-contact-information).
+Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/security/#external-contact-information).
 
 ### HackerOne
 
-We use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/engineering/security/#hackerone-reports).
+We use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/security/#hackerone-reports).
 
 If a Team Member requires access to HackerOne, create an [access request](https://gitlab.com/gitlab-com/Team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
 

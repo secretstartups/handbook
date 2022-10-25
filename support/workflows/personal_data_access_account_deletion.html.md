@@ -43,8 +43,8 @@ Every request will go through multiple stages, denoted by labels, before they're
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
 
-- [Controlled Document Procedure](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html)
+- [Controlled Document Procedure](https://about.gitlab.com/handbook/security/controlled-document-procedure.html)

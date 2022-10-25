@@ -179,7 +179,7 @@ so that their card does not get locked or blocked.
 If a customer contacts Support informing that their attempt to use their credit card for verification in order to use CI/CD minutes on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
 
 1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed' 
-2. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/engineering/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
+2. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
 
 # Finding an error message in Sentry
 
