@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: “Channel Partners: Working with GitLab”
-description: “How channel Partners can work with GitLab.”
+title: "Channel Partners: Working with GitLab"
+description: "How channel Partners can work with GitLab."
 ---
 ## On this page
 GitLab Channel Partners are the primary audience for this handbook page.
