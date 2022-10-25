@@ -59,10 +59,8 @@ When we start a new iteration, any open issues from the previous iteration do no
 roll over. As such, we need to be diligent about updating issues to ensure that they do not fall 
 off the radar before they are completed.
 
-At the end of an iteration, analysts should review any remaining open issues and:
-
-* Update the iteration value
-* Apply the `iteration rollover` label
+At the end of an iteration, analysts should review any remaining open issues and update the 
+iteration value to ensure we can track the issue on [the iteration board](https://gitlab.com/groups/gitlab-data/-/boards/2973914).
 
 ### Unplanned Work
 
