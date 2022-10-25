@@ -35,7 +35,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
     *   [Vendor Setup Form Process](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
-    *   [Security Questionnaire Process](/handbook/engineering/security/#process)
+    *   [Security Questionnaire Process](/handbook/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
