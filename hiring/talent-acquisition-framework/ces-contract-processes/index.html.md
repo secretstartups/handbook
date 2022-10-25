@@ -339,7 +339,7 @@ CES: Follow the instructions below on how to create and send a letter of adjustm
 
 ## Rehires
 
-In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Connect team and the Total Rewards team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
+In the event that a former team member is rehired with the company, they will still go through the normal interviewing process and standard onboarding. Once the contract is signed, CES should ensure that there are no profiles left to merge so we can avoid creating a duplicate WorkDay profile. They should have their old hire record on their Greenhouse account. Additionally, notify the People Connect team as soon as possible that a former team member has been rehired in the peopleops-alerts-private Slack channel.
 
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn).
