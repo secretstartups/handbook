@@ -68,7 +68,7 @@ The EBA to the VP, of Customer Success, will send an invite out to everyone at G
 
 The structure and agenda of the fireside chat will be largely dependent on the customer or partner selected each quarter, the goal of the agenda topics is to create a natural flow to the conversation, and may go off-topic depending on the responses from the guest. 
 
-The moderator will lead the curation of the agenda, by modifying questions in advance and synchronizing with the customer or partner. 
+The moderator will lead the curation of the agenda, by modifying questions in advance and synchronizing with the customer or partner. The [template for the prep meeting](https://docs.google.com/document/d/1YmqsXDj_v7lNoJZ5ODWUWqXvCxDR2-Ru0f9aholRqbY/edit#) is used to prep guests for the logistics and questions that will be asked in the session.
 
 [Agenda Template](https://docs.google.com/document/d/1UB7UlnqHUZedeYB_J_syXuoIaTFHl5nrk0Id42uo2SU/edit?usp=sharing). Please make a copy of this as a starting point. If you have questions on the template, please ping the CoS to the CRO in #customer-centricity. 
 
