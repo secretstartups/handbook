@@ -519,6 +519,7 @@ Please see our most up to date email best practices in our guide [here](https://
 * Write for people not technology, this means you can use humor when it makes sense
 
 * Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
+* If linking to the GitLab marketing site, make sure that the URL has a slash at the end of the link. Marketing site pages will not render if there are URL params and there is no trailing slash.
 
 ### Design best practices
 {: #best-practices-design}
