@@ -1,0 +1,44 @@
+---
+layout: handbook-page-toc
+title: "Security Evangelism"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+ 
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Why do we evangelise?
+
+One of Field Security's critical missions is to improve internal and external awareness of GitLab's security practices and the security of our platform. As we continue to iterate and grow, we must improve our ability to engage and impact prospects and customers in a meaningful way.
+
+Security evangelism allows us to develop a better understanding of our prospects' and customers' "needs" and "wants", and it allows us to better position ourselves to provide them with a valuable product and service. 
+
+## How do we evangelise?
+
+Field Security's goal is to take a holistic approach to security evangelism. We want to be dynamic and transcend traditional methods of gathering and sharing information.
+
+### What we already do
+
+* An annual [Field Security Study](https://about.gitlab.com/handbook/security/security-assurance/field-security/field-security-study.html) that documents areas of concern or improvement identified for GitLab's products and services.
+* Whitepapers
+* Blog posts
+* Customer meetings
+
+### What we can do
+
+* Webinars
+* Conferences (Information gathering and speaking engagements)
+* Roadshows
+* Podcasts
+* Surveys
+
+## How can you help?
+
+Continuous and open feedback from all of our team members is more than appreciated. If you're interfacing with a prospect or a customer and you learn of a concern, a suggestion, a "want" or a "need", please forward that information to Field Security. Your feedback will help drive our roadmap and strategy so that we can help GitLab deliver more value to our customers and the industry.
+
+### Contact
+
+To contact Field Security, please tag @field-security, or send us a message in #Sec-Fieldsecurity.

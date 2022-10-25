@@ -13,7 +13,7 @@ At GitLab it's vital we ensure the data of our Customers, our team-members, and 
 
 With this in mind, GitLab Security will begin enforcing a list of approved Operating Systems and minimum Operating System versions for use at GitLab. This change will decrease the risk from the use of End-Of-Life or unapproved Operating Systems accessing locations which may contain sensitive data.
 
-Please see the [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) handbook page for further details on how different data types are classified.
+Please see the [Data Classification Policy](/handbook/security/data-classification-standard.html) handbook page for further details on how different data types are classified.
 
 ## Approved Operating Systems
 
@@ -79,4 +79,4 @@ Users of Android 7.1.1 or older will be notified and required to upgrade to a su
 
 ## Exception Process
 
-Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](/handbook/engineering/security/#information-security-policy-exception-management-process)
+Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](/handbook/security/#information-security-policy-exception-management-process)

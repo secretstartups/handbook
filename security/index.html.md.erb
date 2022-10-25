@@ -67,7 +67,7 @@ There are some common scenarios faced by GitLab team members:
  * [CEO & Executive Fraud](#ceo--executive-fraud)
  * [Phishing](#what-to-do-if-you-suspect-an-email-is-a-phishing-attack)
 
-To contact for any other reason, see [Contacting the Team](/handbook/engineering/security/#-contacting-the-team) or [Engaging the Security On-Call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
+To contact for any other reason, see [Contacting the Team](/handbook/security/#-contacting-the-team) or [Engaging the Security On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
 
 ### CEO & Executive Fraud
 
@@ -75,9 +75,9 @@ The CEO will not send you an [email to wire cash](http://blog.centrify.com/ceo-f
 
 What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
 
-1.  If you are unsure whether the text or email is legitimate, confirm the request via Video Call or contact [Security](/handbook/engineering/security/) to review.
+1.  If you are unsure whether the text or email is legitimate, confirm the request via Video Call or contact [Security](/handbook/security/) to review.
 1.  If the email is determined to be fake, follow the instructions for [phishing attacks](/handbook/security/#what-to-do-if-you-suspect-an-email-is-a-phishing-attack) below.
-1.  If the text is determined to be fake: block the number, notify [Security](/handbook/engineering/security/), and delete the text.
+1.  If the text is determined to be fake: block the number, notify [Security](/handbook/security/), and delete the text.
 
 ### Threat Modeling
 
@@ -89,7 +89,7 @@ For more information including an issue template for doing your own threat model
 
 ### Non-Emergency Contact
 
-If you have a question or concern and need to speak with the Security Team, you can contact [Security](/handbook/engineering/security/).
+If you have a question or concern and need to speak with the Security Team, you can contact [Security](/handbook/security/).
 
 ## Security Process and Procedures for Team Members
 
@@ -163,7 +163,7 @@ If you have a question or concern and need to speak with the Security Team, you 
      more information about personal VPN usage at GitLab
 1. Do not allow your web browser (e.g. Chrome, Safari, Firefox) to store passwords when
   prompted. This presents an unnecessary risk and is redundant.
-1. Do not install software with many known security vulnerabilities. Follow the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) for review of services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
+1. Do not install software with many known security vulnerabilities. Follow the [Third Party Risk Management Procedure](/handbook/security/security-assurance/security-risk/third-party-risk-management.html) for review of services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
 1. Enable automatic software updates for security patches. On macOS, this is
   found under "System Preferences" -> "Software Update", "Automatically keep
   my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
@@ -286,7 +286,7 @@ You can then choose to use this new service account via the option under **Advan
   never **dismiss** it as invalid. Please bring it to the attention of the
   [Security Team](/handbook/engineering/security), and follow the steps outlined on
   that team's handbook page.
-4. **Report** suspect situations to an officer of the company or use the [engage the Security Engineer on-call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
+4. **Report** suspect situations to an officer of the company or use the [engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
 5. If you have security **suggestion**, create an issue on the
   [security issue tracker](https://gitlab.com/gitlab-com/security/issues/)
   and ping the security team. New security best practices and processes should be
@@ -301,12 +301,12 @@ You can then choose to use this new service account via the option under **Advan
 
 ### Personal Access Tokens
 
-1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
+1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
 1. Oftentimes a [Project Access Token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) might be sufficient instead of a Personal Access Token. Project Access Tokens have a much more limited scope and should be preferred over Personal Access Tokens whenever possible. 
 1. Always set an expiration for your tokens when creating them. Tokens should preferably expire in a matter of hours or a day.
 1. Be mindful to keep these personal access tokens secret. Be particularly careful not to accidentally commit them in configuration files, paste them into issue or merge request comments, or otherwise expose them.
 1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed. 
-1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
+1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
 ## GitLab Password Policy Guidelines
 
@@ -710,13 +710,13 @@ For more information on Travel Mode and how it works, see the [AgileBits blog].
 
 ## GitLab Security Awareness Training
 
-GitLab Security Awareness Training is a handbook first GitLab-customized training + policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/engineering/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and annual training there after. 
+GitLab Security Awareness Training is a handbook first GitLab-customized training + policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and annual training there after. 
 
 New Hire Security training will be automatically assigned to you on Day 1 of orientation as soon as you access the ProofPoint tile via Okta. Training is required to be completed by end of day.
 
-The purpose of the [annual training](/handbook/engineering/security/security-assurance/governance/sec-awareness-training.html) is to mature our internal posture through regular training while satisfying external regulatory requirements. We are trying to make it fun, engaging and not time-consuming.
+The purpose of the [annual training](/handbook/security/security-assurance/governance/sec-awareness-training.html) is to mature our internal posture through regular training while satisfying external regulatory requirements. We are trying to make it fun, engaging and not time-consuming.
 
-GitLab security training has been developed by [GitLab Security](/handbook/engineering/security/)'s [Governance Program](/handbook/engineering/security/security-assurance/governance/). The goal of the training is to:
+GitLab security training has been developed by [GitLab Security](/handbook/security/)'s [Governance Program](/handbook/security/security-assurance/governance/). The goal of the training is to:
 
 1. Make all GitLab team-members aware of the GitLab Security team, and familiarize them with our efforts, team structure, and people.
 1. Make all GitLab team-members aware of the importance of their role in securing GitLab on a daily basis, and to empower them to make the right decisions with security best-practices.
@@ -729,7 +729,7 @@ GitLab security training has been developed by [GitLab Security](/handbook/engin
   * [Device Lost or Stolen?!](#panic-email)
     * Slack: the `/security` Slack command
     * Email (Emergencies-ONLY): panic@gitlab.com
-  * [Data Classification](/handbook/engineering/security/data-classification-standard.html)
+  * [Data Classification](/handbook/security/data-classification-standard.html)
   * [No Red Data on Unapproved Locations](/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
 
 * Review [Security Practices](/handbook/security/#security-process-and-procedures-for-team-members) for a list of security process and procedures that you can consult at any time.
@@ -743,7 +743,7 @@ You are strongly encouraged to engage the team behind the training and provide f
 
 ### Phishing Tests
 
-GitLab conducts routine [phishing tests](/handbook/engineering/security/security-assurance/governance/phishing.html) at a minimum of once per quarter. All
+GitLab conducts routine [phishing tests](/handbook/security/security-assurance/governance/phishing.html) at a minimum of once per quarter. All
 team members may occasionally receive emails that are designed to look like
 legitimate business-related communications but will in actuality be simulated
 phishing attacks. Real phishing attacks are designed to steal credentials or
@@ -874,12 +874,12 @@ which is the tooling's no-reply notifyer address.
 Phishing and other social engineering attacks aren't only sent via email. 
 You might receive a suspicious text / SMS message, a weird Direct Message on social
 media platforms like LinkedIn, or a phone call. If it's work related, please
-[use the `/security` Slack command](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
+[use the `/security` Slack command](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
 Even if you're unsure or it feels insignificant, you can always ask in the #security Slack channel.
 
 ## Panic Email
 
-Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data they should report the issue using the `/security` command in Slack to [engage SIRT](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
+Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data they should report the issue using the `/security` command in Slack to [engage SIRT](/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
 
 GitLab provides a `panic@gitlab.com` email address for team members to use in situations when Slack is inaccessible and immediate security response is required.
 
@@ -889,6 +889,6 @@ Additionally if a GitLab team member experiences a personal emergency the People
 
 ## Other Security Topics
 
-- [Security Team handbook](/handbook/engineering/security/)
+- [Security Team handbook](/handbook/security/)
 - [Security questions from customers, and their answers](/security)
 - [Using GPG Keychain for PGP](pgp_process/)

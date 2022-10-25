@@ -40,7 +40,7 @@ The most common use of threat modeling within a tech company like GitLab is our 
  * As the Security Team helps with the popular and successful Hackerone bug bounty program, handles compliance needs, and deals with security threats against our assets, having a framework that would allow us to provide "feedback" into the process of analyzing risk is extremely important in helping to determine actual outcomes
  * The framework should be flexible enough that it can be used outside of Engineering by other GitLab teams
 
-The purpose of the GitLab Threat Modeling Process is to provide a starting point for future [AppSec Code Reviews](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/appsec-reviews.html). Threat models are based on the conceptual architecture of the application and only utilize code to substantiate findings when possible.
+The purpose of the GitLab Threat Modeling Process is to provide a starting point for future [AppSec Code Reviews](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html). Threat models are based on the conceptual architecture of the application and only utilize code to substantiate findings when possible.
 
 One might ask why we are doing this. Our reasoning involves these important points:
 
