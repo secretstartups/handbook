@@ -16,7 +16,7 @@ title: "Business Continuity Plan"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -25,7 +25,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 Business Continuity Plan is the process involved in creating a system of prevention and recovery from potential threats to GitLab. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster.
 
 ## Scope
-GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning. The BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md). 
+GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning. The BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md). 
 
 ## Roles & Responsibilities
 
@@ -59,9 +59,9 @@ The Recovery Time Objective (RTO) is the duration of time a service level or bus
 
 For a business continuity plan to be effective, it needs to be triggered as soon as possible; too early or late can reduce its efficacy. Key decision points to consider when a BCP has to be triggered or invoked are given below:
 
-- When an incident turns into an event like a disaster, breach, or something which classifies as a [Severity 1](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)
-- When the estimated time of resolution for a potential breach is greater than the normal estimated time for regular [security incidents](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html)
-- When the recovery of an incident is uncertain, a decision must be made to invoke the business continuity plan if the disruption cannot be resolved within the specified [incident recovery timelines](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html)
+- When an incident turns into an event like a disaster, breach, or something which classifies as a [Severity 1](/handbook/security/#severity-and-priority-labels-on-security-issues)
+- When the estimated time of resolution for a potential breach is greater than the normal estimated time for regular [security incidents](/handbook/security/security-operations/sirt/sec-incident-response.html)
+- When the recovery of an incident is uncertain, a decision must be made to invoke the business continuity plan if the disruption cannot be resolved within the specified [incident recovery timelines](/handbook/security/security-operations/sirt/sec-incident-response.html)
 - When resolution of an incident with critical customers, depending on their service-level agreements is delayed, then the BC plan must be triggered
 
 ### Data Continuity System
@@ -113,7 +113,7 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 
 ### Backup check
 
-[Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
+[Make sure that backups are performed daily](/handbook/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
 
 ### Distribute and Verify the Plan / Approval from Senior management
 
@@ -181,10 +181,10 @@ Some testing scenarios that can be performed, are given below:
     - Regular updates to all GitLab team members contact information, so that all of them can receive timely notifications thus streamlining the disaster scenario process.
 
 ## Exceptions
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
 
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
-* [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
+* Parent Policy: [Information Security Policy](/handbook/security/)
+* [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
 * [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)

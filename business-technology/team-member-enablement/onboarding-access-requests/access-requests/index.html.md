@@ -49,7 +49,7 @@ _You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/acc
 
 **Step 2. Access Request**
 1. Remove or add lines for the systems you need access to. **Make sure to follow the format from the template (also included below)**. Be as specific as possible with the access you are requesting by adding the role, vault, group, channel or project you are requesting access to.
-1. If administrative access is being granted, add the label admin-access. Request the least amount of access you need as per the [least privilege review](/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section.
+1. If administrative access is being granted, add the label admin-access. Request the least amount of access you need as per the [least privilege review](/handbook/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section.
 1. If the request involves access to systems owned by the Infrastructure team (according to the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml), mention @gitlab-com/gl-infra/managers and ask them to approve by adding the ~InfrastructureApproved label.
 
 ```
@@ -89,17 +89,17 @@ _You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/acc
 <div class="panel-body">
 
 **Prior to submitting this Issue Request**
-1. Please review our [Access Control Policy and Procedures](/handbook/engineering/security/#access-control-policy-and-procedures) to ensure that your request is in line with GitLab's policies and procedures. If after review you feel that a shared account is still needed, complete submit the issue using the template. **Note that systems with PCI data is not allowed shared accounts.**
+1. Please review our [Access Control Policy and Procedures](/handbook/security/#access-control-policy-and-procedures) to ensure that your request is in line with GitLab's policies and procedures. If after review you feel that a shared account is still needed, complete submit the issue using the template. **Note that systems with PCI data is not allowed shared accounts.**
 1. Please note that shared account request(s) will need to be reviewed and approved by IT Ops and the listed Tech Stack Owner.
 **An [Exception Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=Exception%20Request) will need to be logged for each user you are requesting to be added.** Note that with an Exception Request the maximum exception length is 90 days (365 days for device exceptions only).
-After the Exception Length, you will be required to submit another Exception Request for review and approval.**If the exception request is not logged, reviewed, and approved for an extension, note that the Shared Account will be disabled.** Please refer to our [Information Security Policy Exception](/handbook/engineering/security/#information-security-policy-exception-management-process) handbook page for more information.
+After the Exception Length, you will be required to submit another Exception Request for review and approval.**If the exception request is not logged, reviewed, and approved for an extension, note that the Shared Account will be disabled.** Please refer to our [Information Security Policy Exception](/handbook/security/#information-security-policy-exception-management-process) handbook page for more information.
 
 **Instructions on how to submit this issue request**
 1. Title issue "Shared Account Request, Role, System(s)" using your information.
 1. Fill out the `User Details` section and **remove or add lines** as needed.
 1. **Add lines** for the system(s) you need access to so only the ones you want are left in the issue.
     **Do not check them off.**
-    - _Request the least amount of access you need as per the [least privilege review](/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section and name the role you are requesting.
+    - _Request the least amount of access you need as per the [least privilege review](/handbook/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section and name the role you are requesting.
         Be specific._
 1. If you are the manager of this person, add the labels `AR-Approval::Manager Approved` and `ready for provisioning` to the issue; if you are the one asking for access, then you have to assign to _your_ manager for approval and they must add the labels `AR-Approval::Manager Approved` and `ready for provisioning`.
 1. After approval, then YOU MUST **assign the issue to the system provisioner** [listed in the tech stack.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)

@@ -14,9 +14,9 @@ description: "This handbook page provides information about how the IT Engineeri
 
 The IT Infrastructure team manages AWS and GCP infrastructure that is not related to GitLab.com SaaS production infrastructure and provide managed infrastructure services for other departments, including most ephemeral sandbox infrastructure needs across the company. We also handle access requests for cloud infrastructure and DNS/domain name requests.
 
-We collaborate with the [Reliability Engineering (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/engineering/security/security-operations/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization.
+We collaborate with the [Reliability Engineering (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-operations/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization.
 
-We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](/handbook/engineering/security/security-operations/sirt) and [Security RED Team](/handbook/engineering/security/threat-management/red-team) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
+We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](/handbook/security/security-operations/sirt) and [Security RED Team](/handbook/security/threat-management/red-team) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 
 Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 

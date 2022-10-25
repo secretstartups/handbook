@@ -17,7 +17,7 @@ description: "The Data Management Page covers the content around managing, secur
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -30,7 +30,7 @@ Data Management covers practices and policies around managing, securing, and gov
 
 ### Data Security Practices
 
-The Enterprise Data Platform captures, processes, and stores [data collected from many systems](/handbook/business-technology/data-team/platform/#extract-and-load). Not all of this data is of the same importance and we use the [Critical System Tier](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html) framework and [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html#security-and-privacy-controls) to help us determine what data is most important and how to best secure it.
+The Enterprise Data Platform captures, processes, and stores [data collected from many systems](/handbook/business-technology/data-team/platform/#extract-and-load). Not all of this data is of the same importance and we use the [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) framework and [Data Classification Standard](/handbook/security/data-classification-standard.html#security-and-privacy-controls) to help us determine what data is most important and how to best secure it.
 
 ## Roles & Responsibilities
 
@@ -72,8 +72,8 @@ Additional controls include:
 
 ### General Data Security Controls
 
-* For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). 
-* `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
+* For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). 
+* `IMPORTANT`: [Customer Private RED data](/handbook/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
 
 | Control | RED | ORANGE | YELLOW |
 | :-- | :-- | :-- | :-- |
@@ -131,7 +131,7 @@ Here is a sample checklist of activities:
 - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
 
 ## Exceptions
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* Parent Policy: [Information Security Policy](/handbook/security/)

@@ -23,7 +23,7 @@ Making a user- or group-level change doesn't require a Business Technology chang
 
 Additional examples include: If you are making a Process and/or Policy change that will impact only your team's process, a change management is not required. If you are making a Process and/or Policy change that will impact one or more other departments, a change management is required.
 
-For additional information regarding Change Management, refer to our [Change Management Workflow Control Guidance](/handbook/engineering/security/change-management-guidance.html).
+For additional information regarding Change Management, refer to our [Change Management Workflow Control Guidance](/handbook/security/change-management-guidance.html).
 
 **A Business Technology change request is only needed when a change is being requested for review for applications already listed in our tech stack.**
 
@@ -171,7 +171,7 @@ Please note the change will always be implemented on a Tuesday following the cha
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
 

@@ -111,7 +111,7 @@ We ship logs from all of our integrations to a central location which allows us 
 #### Security
 The Platypus integrations platform provides out of the box solutions for common authentication and authorization requirements that we frequently encounter. We can also provide guarantees about data security at rest and in-flight through regular application security audits as well as CI/CD driven SAST and DAST testing that exposes critical vulnerabilities to us before code reaches production.
 
-We are set up to handle [Red, Orange and Yellow data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) so that you don't need to worry about that when we're building out your integrations.
+We are set up to handle [Red, Orange and Yellow data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels) so that you don't need to worry about that when we're building out your integrations.
 
 ## Why do we do it?
 As GitLab grows, we have increasingly complex needs for real time data flow and workflow automation across the business. We also need to meet higher standards of security and auditing to satisfy external compliance drivers. This all calls for a more robust, repeatable methodology for building both simple and complex software. To do this we follow a strict set of engineering and platform standards and conventions which provide us a batteries included approach to developing new capabilities so that we can stay agile when working with GitLab's rapidly growing team and needs.

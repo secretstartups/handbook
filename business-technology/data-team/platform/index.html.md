@@ -19,7 +19,7 @@ description: "GitLab Data Team Platform"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -658,7 +658,7 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 ### Adding a Data Pump
 
-**Step 1:** Create a data model [using dbt](/handbook/business-ops/data-team/platform/dbt-guide/#using-dbt) in `/marts/pumps` (or `/marts/pumps_sensitive` if the model contains [RED or ORANGE Data](/handbook/engineering/security/data-classification-standard.html#data-classification-levels)), following our [SQL](/handbook/business-ops/data-team/platform/sql-style-guide/) and [dbt](/handbook/business-ops/data-team/platform/dbt-guide/#style-and-usage-guide) style and documentation standards. Create an MR using dbt model changes template. Once this is merged and appears in Snowflake in `PROD.PUMPS` or `PROD.PUMPS_SENSITIVE` you are ready for steps two and three.
+**Step 1:** Create a data model [using dbt](/handbook/business-ops/data-team/platform/dbt-guide/#using-dbt) in `/marts/pumps` (or `/marts/pumps_sensitive` if the model contains [RED or ORANGE Data](/handbook/security/data-classification-standard.html#data-classification-levels)), following our [SQL](/handbook/business-ops/data-team/platform/sql-style-guide/) and [dbt](/handbook/business-ops/data-team/platform/dbt-guide/#style-and-usage-guide) style and documentation standards. Create an MR using dbt model changes template. Once this is merged and appears in Snowflake in `PROD.PUMPS` or `PROD.PUMPS_SENSITIVE` you are ready for steps two and three.
 
 **Step 2:** Add Model to [`pumps.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/pump/pumps.yml) using the 'Pump Changes' MR template with the following attributes:
 * model - the name of the model in dbt and snowflake
@@ -761,7 +761,7 @@ For other tools, add users via the UI and in the appropriate [Google Group](http
 ## Google Data Studio
 
 Much like Google Drive all GitLab team members have access to Google's [Data Studio](https://datastudio.google.com/) which can be used to build dashboards with data from Google Sheets or other Google data sources. Hence there is no access request needed to get access provisioned to Google Data Studio.
-Google Data Studio is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) as we do in the rest of our platform.
+Google Data Studio is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](https://about.gitlab.com/handbook/security/data-classification-standard.html) as we do in the rest of our platform.
  
 There are 3 types of objects available in Google Data Studio:
 - Data Sources

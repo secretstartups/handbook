@@ -102,7 +102,7 @@ As GitLab has grown organically, several departments and functional groups have 
 
 To support this "shadow IT" model, [each tech stack application](/handbook/business-technology/tech-stack-applications/) has a System Owner that is the DRI for handling the implementation and day-to-day operational support for the team members that utilize that application (in their department or functional group). This has an added benefit of preventing the traditional IT department from being a bottleneck and allows each department to self-service as part of GitLab's [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group) subvalue.
 
-As a SaaS company, our Engineering division also has an [infrastructure SRE team](/handbook/engineering/infrastructure/) and [security team](/handbook/engineering/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
+As a SaaS company, our Engineering division also has an [infrastructure SRE team](/handbook/engineering/infrastructure/) and [security team](/handbook/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
 
 #### System Owner Directory
 
@@ -110,7 +110,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 * [Customer Support Operations](/handbook/support/support-ops/)
 * [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
 * [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
-* [Engineering Security](/handbook/engineering/security/)
+* [Engineering Security](/handbook/security/)
 * [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 * [Marketing Operations](/handbook/marketing/marketing-operations/#-tech-stack)
 * [People Connect](/handbook/people-group/people-connect/)
@@ -137,7 +137,7 @@ We encourage you to check out [SiSense](https://app.periscopedata.com/app/gitlab
 
 ### Security and Compliance
 
-The [IT Security and Compliance](/handbook/business-technology/it-compliance/) team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the [Engineering Security](/handbook/engineering/security/#departmental-structure) department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.
+The [IT Security and Compliance](/handbook/business-technology/it-compliance/) team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the [Engineering Security](/handbook/security/#departmental-structure) department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.
 
 The best practices and policies for team members can be found on the [security practices](/handbook/security/) handbook page.
 
@@ -157,7 +157,7 @@ We are developing [GitLab Access Manager (GLAM)](/handbook/business-technology/e
 
 ### Cloud Infrastructure Management
 
-The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/engineering/security/security-operations/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
+The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-operations/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
 Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 

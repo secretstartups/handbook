@@ -143,7 +143,7 @@ graph TD
 
 # Data classification
 
-This integration handles and stores [Red Data](/handbook/engineering/security/data-classification-standard.html#red) (Customer data)
+This integration handles and stores [Red Data](/handbook/security/data-classification-standard.html#red) (Customer data)
 
 # Environments
 

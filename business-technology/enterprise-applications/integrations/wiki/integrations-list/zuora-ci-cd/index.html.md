@@ -172,7 +172,7 @@ When validation errors occur on the incoming data it will post to the `#finsys-i
 
 # Data classification
 
-This integration handles and stores [Green Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#green) (Config data)
+This integration handles and stores [Green Data](https://about.gitlab.com/handbook/security/data-classification-standard.html#green) (Config data)
 
 # Environments
 

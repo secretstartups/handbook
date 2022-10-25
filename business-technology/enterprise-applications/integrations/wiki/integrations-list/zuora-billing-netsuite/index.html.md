@@ -101,7 +101,7 @@ All API calls are authenticated using API credentials which have been granted on
 
 # Data classification
 
-This integration handles [Orange Data](/handbook/engineering/security/data-classification-standard.html#orange). The data is stored in the queue and processed by the system.
+This integration handles [Orange Data](/handbook/security/data-classification-standard.html#orange). The data is stored in the queue and processed by the system.
 
 # Environments
 

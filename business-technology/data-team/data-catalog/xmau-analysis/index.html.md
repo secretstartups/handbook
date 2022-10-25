@@ -356,8 +356,8 @@ and must reside in the [internal handbook](https://internal-handbook.gitlab.io/h
 However, this data is not considered to be [SAFE](/handbook/legal/safe-framework/) and therefore
 is visible to all GitLab team members and is available in the [general GitLab space in Sisense](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
  
-Some data supporting xMAU Analysis is classified as [Orange](/handbook/engineering/security/data-classification-standard.html#orange)
-or [Yellow](/handbook/engineering/security/data-classification-standard.html#yellow). This
+Some data supporting xMAU Analysis is classified as [Orange](/handbook/security/data-classification-standard.html#orange)
+or [Yellow](/handbook/security/data-classification-standard.html#yellow). This
 includes Orange customer metadata from the account, contact data from Salesforce and Zuora and
 GitLab's Non public financial information, none of which should be publicly available. Care
 should be taken when sharing data from this dashboard to ensure that the detail stays within

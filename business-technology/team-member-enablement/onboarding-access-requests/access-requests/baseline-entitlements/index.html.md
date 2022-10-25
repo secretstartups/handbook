@@ -40,7 +40,7 @@ The hope with the above workflow is that everyone will contribute to the creatio
 
 - The [directory `issues_templates`](https://gitlab.com/gitlab-com/team-member-epics/access-requests/tree/master/.gitlab/issue_templates) in the Access Request project is used to document the configuration and approvals for the baseline and role-based entitlements. Any changes to these approved configurations require the approval of the management groups outlined in each of the runbooks with the [exception of Functional vs Non-Functional changes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#exception-process). 
 
-- Role-based entitlement templates should be maintained accordingly, based on the speicifc requirements documented in the [Access Management Policy](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#role-based-access-control-rbac-requirements). These templates are utilized internally by Security Compliance and externally by External Auditors when assessing access management controls and procedures at GitLab.
+- Role-based entitlement templates should be maintained accordingly, based on the speicifc requirements documented in the [Access Management Policy](https://about.gitlab.com/handbook/security/access-management-policy.html#role-based-access-control-rbac-requirements). These templates are utilized internally by Security Compliance and externally by External Auditors when assessing access management controls and procedures at GitLab.
 
 #### Baseline Entitlements (All GitLab team-members):
 

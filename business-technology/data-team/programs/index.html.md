@@ -56,7 +56,7 @@ The Data Team performs Proof of Value Evaluations (PoVs) for all new technologie
 Evaluation Design is the most complex part of the PoV.
 
 1. Decide how to test the technology versus defined requirements. Often, successfully testing data technologies requires simulating production workloads and constructing a 'Production Level SAFE Workload' is a key challenge in a Data PoV Project.
-     * No [Red Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#red) or [Orange Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#orange) is ever suitable for inclusion in a PoV.
+     * No [Red Data](https://about.gitlab.com/handbook/security/data-classification-standard.html#red) or [Orange Data](https://about.gitlab.com/handbook/security/data-classification-standard.html#orange) is ever suitable for inclusion in a PoV.
 
 ### Phase 4: Procurement
 

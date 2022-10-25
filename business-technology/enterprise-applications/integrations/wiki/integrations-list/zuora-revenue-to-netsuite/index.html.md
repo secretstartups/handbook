@@ -123,7 +123,7 @@ erDiagram
 
 # Data classification
 
-This integration handles and stores [Orange Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#orange) (Accounting data)
+This integration handles and stores [Orange Data](https://about.gitlab.com/handbook/security/data-classification-standard.html#orange) (Accounting data)
 
 # Environments
 

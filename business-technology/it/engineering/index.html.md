@@ -56,9 +56,9 @@ We are in the process of creating <a href="/handbook/it/access-manager">GitLab A
 <br />
 The IT Infrastructure team manages AWS and GCP infrastructure that is not related to GitLab.com SaaS production infrastructure and provide managed infrastructure services for other departments, including most ephemeral sandbox infrastructure needs across the company. We also handle access requests for cloud infrastructure and DNS/domain name requests.<br />
 <br />
-We collaborate with the <a href="/handbook/engineering/infrastructure">Reliability Engineering (SRE)</a> and <a href="/handbook/engineering/security/security-operations/infrastructure-security">Infrastructure Security</a> teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization.<br />
+We collaborate with the <a href="/handbook/engineering/infrastructure">Reliability Engineering (SRE)</a> and <a href="/handbook/security/security-operations/infrastructure-security">Infrastructure Security</a> teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization.<br />
 <br />
-We also provide escalation engineering and triage support for the <a href="/handbook/engineering/security/security-operations/sirt">Security Incident Response Team ("SIRT")</a> and <a href="/handbook/engineering/security/threat-management/red-team">Security Red Team</a> when security anomalies, events, or incidents require AWS/GCP subject matter expertise.<br />
+We also provide escalation engineering and triage support for the <a href="/handbook/security/security-operations/sirt">Security Incident Response Team ("SIRT")</a> and <a href="/handbook/security/threat-management/red-team">Security Red Team</a> when security anomalies, events, or incidents require AWS/GCP subject matter expertise.<br />
 <br />
 Our focus is on organizational policy management, access request provisioning, and services that are outside of the <a href="/handbook/engineering/infrastructure">Reliability Engineering</a> scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.<br />
 <br />
@@ -122,7 +122,7 @@ Business Technology has several Engineering teams in different sub-departments t
             <td>
                 <i>How do users get <strong>access to AWS and GCP</strong> and how do we properly <strong>secure our infrastructure</strong> for accounts, projects, resources, etc. outside of GitLab.com SaaS?</i><br />
                 <br />
-                We have an <strong>Infrastructure Shared Services</strong> stable counterpart working group in collaboration with <a href="/handbook/engineering/infrastructure/team/reliability/">Engineering Infrastructure Reliability Engineering</a> and <a href="/handbook/engineering/security/security-engineering-and-research/infrastructure-security/">Engineering Infrastructure Security</a>. We publish our collective architecture, guidance, and policies in the handbook in <a href="/handbook/infrastructure-standards/">Infrastructure Standards</a>. The IT Infrastructure team is the DRI for IAM/RBAC and sandbox infrastructure that has mostly been automated with the <a href="/handbook/infrastructure-standards/realms/sandbox/">GitLab Sandbox Cloud</a>.
+                We have an <strong>Infrastructure Shared Services</strong> stable counterpart working group in collaboration with <a href="/handbook/engineering/infrastructure/team/reliability/">Engineering Infrastructure Reliability Engineering</a> and <a href="/handbook/security/security-engineering-and-research/infrastructure-security/">Engineering Infrastructure Security</a>. We publish our collective architecture, guidance, and policies in the handbook in <a href="/handbook/infrastructure-standards/">Infrastructure Standards</a>. The IT Infrastructure team is the DRI for IAM/RBAC and sandbox infrastructure that has mostly been automated with the <a href="/handbook/infrastructure-standards/realms/sandbox/">GitLab Sandbox Cloud</a>.
             </td>
         </tr>
         <tr>

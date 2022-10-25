@@ -23,7 +23,7 @@ title: "Team Member Enablement"
 
 #### Access Requests
 
-- For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/engineering/security/#access-management-process).
+- For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/security/#access-management-process).
 
 - For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 

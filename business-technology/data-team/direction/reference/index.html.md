@@ -44,7 +44,7 @@ The Self-Service Data Certificate program is based on the [Learning and Developm
 
 ### Data Classification
 
-[ORANGE](/handbook/engineering/security/data-classification-standard.html#orange)
+[ORANGE](/handbook/security/data-classification-standard.html#orange)
 
 - IP Address
 

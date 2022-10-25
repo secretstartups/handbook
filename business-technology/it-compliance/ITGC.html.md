@@ -36,6 +36,6 @@ ITGCs, or IT General controls (sometimes referred to at GITCs - General IT contr
 
 * [IT Security and Compliance](https://about.gitlab.com/handbook/business-technology/it-compliance/) is responsible for ITGC control implementation oversight. 
 * [Internal Audit](https://about.gitlab.com/handbook/internal-audit/) is responsible for scoping and testing of ITGC systems and management of GitLab's holistic [SOX program](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/).
-* [Security Assurance](https://about.gitlab.com/handbook/engineering/security/security-assurance/) is responsible for user access review facilitation, SOC 1/SOC 2 report review facilitation, and advisory support to control and system owners. 
+* [Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/) is responsible for user access review facilitation, SOC 1/SOC 2 report review facilitation, and advisory support to control and system owners. 
 * Every GitLab team member is responsible for operating the processes required by SOX against the in scope SOX systems.
 * GitLab's leadership is responsible for supporting this initiative and giving all GitLab teams the resources (e.g. time and tools) they require to implement and operate SOX processes. 

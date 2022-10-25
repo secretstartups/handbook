@@ -19,7 +19,7 @@ description: "Frequently asked questions for GitLab team members regarding 2FA, 
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -303,7 +303,7 @@ Escalated issues should be made through the #it_help slack channel.
 All other request should have an issue created.
 
 ## Exceptions
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* Parent Policy: [Information Security Policy](/handbook/security/)

@@ -101,7 +101,7 @@ When leads fail to be created we post errors to the slack channel `#alerts_pql-s
 
 # Data classification
 
-This integration handles [Red Data](/handbook/engineering/security/data-classification-standard.html#red). The data is stored in the queue and processed by the system. We do not log this data to application logs
+This integration handles [Red Data](/handbook/security/data-classification-standard.html#red). The data is stored in the queue and processed by the system. We do not log this data to application logs
 
 # Environments
 

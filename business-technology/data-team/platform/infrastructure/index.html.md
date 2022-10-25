@@ -508,7 +508,7 @@ In order to start a DAG, at least `User` permissions is needed. But in order to 
 - `can read on Variables`
 - `can edit on Variables`
 
-To follow the [Principle of Least Privilege](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) the 4 mentioned permissions are added to a new role: `Analytics_engineer`. 
+To follow the [Principle of Least Privilege](https://about.gitlab.com/handbook/security/access-management-policy.html#principle-of-least-privilege) the 4 mentioned permissions are added to a new role: `Analytics_engineer`. 
 
 All Analytics Engineers will have `User` +  `Profile` + `Analytics_engineer` to give them the right permissions in Airflow to execute a DAG.
 
