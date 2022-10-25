@@ -24,7 +24,7 @@ On those instances, please enable the
 by pressing <kbd>p</kbd> then <kbd>b</kbd> (even on production.)
 
 Then, read how to use and enable the
-[production Canary](/handbook/engineering/#canary-testing)
+[production Canary](/handbook/engineering/infrastructure/environments/canary-stage/)
 on GitLab.com.
 
 ## Getting started with GitLab development
