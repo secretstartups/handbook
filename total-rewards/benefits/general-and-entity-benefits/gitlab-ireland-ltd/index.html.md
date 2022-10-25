@@ -109,12 +109,12 @@ Once the total rewards team has approved the bike or ticket application, an invo
 ## GitLab Ireland LTD Leave Policy
  
 ### Statutory Sick Leave
-Team members in Ireland will be entitled to minimum of 3 days of paid sick leave per year when the [relevant legislation](https://www.irishstatutebook.ie/eli/2022/en/act/pub/0024/index.html) enters into force in 2022. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2022, increasing to a maximum of 10 days paid SSP in 2025, as follows:
+Team members in Ireland will be entitled to minimum of 3 days of paid sick leave per year when the [relevant legislation](https://www.irishstatutebook.ie/eli/2022/en/act/pub/0024/index.html) enters into force on 1 January 2023. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2023, increasing to a maximum of 10 days paid SSP over 4 years, as follows:
 
-- 2022: 3 days
-- 2023: 5 days
-- 2024: 7 days
-- 2025: 10 days
+- 2023: 3 days
+- 2024: 5 days
+- 2025: 7 days
+- 2026: 10 days
 
 Ireland's statutory sick leave policy is separate from GitLab's [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) but when allowed by law will run concurrently with this leave policy.  If a team member needs more time away, GitLab's Sick Time policy will take precedence. 
 
