@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
+As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
 
 ## Responsibilities
 * Professionally handle communications with internal and external stakeholders
@@ -140,8 +140,8 @@ The Senior Manager, Security Risk is a [9](/handbook/total-rewards/compensation/
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
-* [Operational Security Risk Management (Tier 2 Risks)](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
-* [Third Party Risk Management](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#third-party-risk-management)
+* [Operational Security Risk Management (Tier 2 Risks)](https://about.gitlab.com/handbook/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
+* [Third Party Risk Management](https://about.gitlab.com/handbook/security/performance-indicators/#third-party-risk-management)
 
 ## Career Ladder
 ```mermaid

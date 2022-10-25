@@ -288,8 +288,8 @@ Additional details about our process can be found on our [hiring page](/handbook
 For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Performance Indicators
-* [Security Impact on IACV](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#security-impact-on-iacv)
-* [Security Control Health](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#security-control-health)
-* [MTTM (Mean-Time-To-Mitigation) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities) 
-* [SIRT (former Security Operations) Page Volume](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume)
-* [Cost of Abuse](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#cost-of-abuse)
+* [Security Impact on IACV](https://about.gitlab.com/handbook/security/performance-indicators/#security-impact-on-iacv)
+* [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
+* [MTTM (Mean-Time-To-Mitigation) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities) 
+* [SIRT (former Security Operations) Page Volume](https://about.gitlab.com/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume)
+* [Cost of Abuse](https://about.gitlab.com/handbook/security/performance-indicators/#cost-of-abuse)

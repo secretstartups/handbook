@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Operations sub department](/handbook/engineering/security/operations/), the [Security Incident Response Team](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html) detects, manages, and remediates security incidents across GitLab. Members of the Security Incident Response Team (SIRT) are the fire fighters of the GitLab Security department. SIRT works to create and maintain a safe and secure operating environment for the organization and its customers and responds to active security incidents. As a Security Engineer on SIRT you will build and maintain the tools we use to detect and respond to emerging threats in efficient and scalable ways, respond to security incidents and drive them to resolution, and develop and deploy preventative security measures for the GitLab organization and GitLab.com. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
+As members of GitLab's [Security Operations sub department](/handbook/security/operations/), the [Security Incident Response Team](/handbook/security/security-operations/sirt/sec-incident-response.html) detects, manages, and remediates security incidents across GitLab. Members of the Security Incident Response Team (SIRT) are the fire fighters of the GitLab Security department. SIRT works to create and maintain a safe and secure operating environment for the organization and its customers and responds to active security incidents. As a Security Engineer on SIRT you will build and maintain the tools we use to detect and respond to emerging threats in efficient and scalable ways, respond to security incidents and drive them to resolution, and develop and deploy preventative security measures for the GitLab organization and GitLab.com. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
 * Detect and respond to company-wide security incidents, coordinating cross-functional teams to mitigate and eradicate threats
@@ -167,7 +167,7 @@ The Security Incident Response Team Senior Manager is a [grade 9](/handbook/tota
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group).
 
 ## Performance Indicators
-* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume).
+* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 ```mermaid

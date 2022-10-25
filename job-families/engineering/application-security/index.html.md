@@ -38,7 +38,7 @@ extra_js:
 * Support the preparation of security releases.
 * Assist in development of security processes and automated tooling that prevent classes of security issues.
 
-Learn more about our role [on the Application Security Handbook page](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/) including our work as [Stable Counterparts](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/stable-counterparts.html) and our [HackerOne process](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html)
+Learn more about our role [on the Application Security Handbook page](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/) including our work as [Stable Counterparts](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/stable-counterparts.html) and our [HackerOne process](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html)
 
 ## Requirements
 

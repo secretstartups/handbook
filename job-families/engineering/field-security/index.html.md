@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), the [Field Security team](/handbook/engineering/security/security-assurance/field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
+As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), the [Field Security team](/handbook/security/security-assurance/field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
 
 ## Responsibilities
 * Professionally handle communications with internal and external stakeholders
@@ -146,7 +146,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/tot
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
-* [Security Impact on ARR](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#security-impact-on-iacv)
+* [Security Impact on ARR](https://about.gitlab.com/handbook/security/performance-indicators/#security-impact-on-iacv)
 
 ## Career Ladder
 ```mermaid

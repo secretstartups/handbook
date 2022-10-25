@@ -5,7 +5,7 @@ description: "Learn more about GitLab Security Automation roles, requirements, l
 extra_js:
 - libs/mermaid.min.js
 ---
-For members of GitLab's [Security Automation sub department](/handbook/engineering/security/security-engineering-and-research/automation/), it is the goal of [Security Engineering and Research ](/handbook/engineering/security/security-engineering-and-research/) through leveraging of diverse technologies and an automation first approach, to strive towards improving the efficiency, effectiveness, and accuracy within GitLab's Information Security program with a focus on cost savings. Examples include the creation of automated security issue triage and management solutions, automating handling of repetitive tasks, and defining re-usable security automation architectures. Additionally, the Security Automation team assist other security specialty teams with automation efforts they are leading and developing through the assessment of automation tools, and integration tools and technologies to support automation efforts as needed.
+For members of GitLab's [Security Automation sub department](/handbook/security/security-engineering-and-research/automation/), it is the goal of [Security Engineering and Research ](/handbook/security/security-engineering-and-research/) through leveraging of diverse technologies and an automation first approach, to strive towards improving the efficiency, effectiveness, and accuracy within GitLab's Information Security program with a focus on cost savings. Examples include the creation of automated security issue triage and management solutions, automating handling of repetitive tasks, and defining re-usable security automation architectures. Additionally, the Security Automation team assist other security specialty teams with automation efforts they are leading and developing through the assessment of automation tools, and integration tools and technologies to support automation efforts as needed.
 
 ## Responsibilities
 * Design, engineer, deploy, and maintain custom automation products
@@ -178,7 +178,7 @@ The {Security Automation Senior Manager} is a [grade 9](/handbook/total-rewards/
 For details on the Security organization leadership roles, to include the Security Engineering and Research Director and VP of Security, see the Security Leadership page.
  
 ## Performance Indicators
-* [Mean-Time-To-Mitigation (MTTM) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/engineering/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities)
+* [Mean-Time-To-Mitigation (MTTM) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities)
 
 ## Career Ladder
 ```mermaid

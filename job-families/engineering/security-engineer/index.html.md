@@ -330,7 +330,7 @@ Trust & Safety Requirements
 
 Security Assurance Engineers enable Sales by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
 
-*  Please refer to the [Security Assurance ](https://about.gitlab.com/handbook/engineering/security/security-assurance/) page for additional information.
+*  Please refer to the [Security Assurance ](https://about.gitlab.com/handbook/security/security-assurance/) page for additional information.
   - [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
   - [Field Security](https://about.gitlab.com/job-families/engineering/field-security/)
   - [Security Risk](https://about.gitlab.com/job-families/engineering/security-risk/)

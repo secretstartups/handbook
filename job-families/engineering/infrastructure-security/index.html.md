@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Operations sub department](/handbook/engineering/security/operations/), the [Infrastructure Security](/handbook/engineering/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
+As members of GitLab's [Security Operations sub department](/handbook/security/operations/), the [Infrastructure Security](/handbook/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
 * Be a stable counterpart for the Infrastructure department
@@ -177,7 +177,7 @@ The Security Logging Team is a specialty extension of the Infrastructure Securit
 More information can be found here [Security Logging Team Job Family](/job-families/engineering/security-logging/)
 
 ## Performance Indicators
-* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume).
+* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 ```mermaid

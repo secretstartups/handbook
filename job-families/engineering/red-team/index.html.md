@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Threat Management sub department](/handbook/engineering/security/threat-management/), the [Red Team](/handbook/engineering/security/threat-management/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
+As members of GitLab's [Threat Management sub department](/handbook/security/threat-management/), the [Red Team](/handbook/security/threat-management/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
 
 The Red Team does not perform penetration tests, and the work we do is not focused on delivering a list of vulnerabilities in a specific application or service. Instead, we emulate the real-world tactics, techniques, and procedures (TTPs) of threats that are most relevant to our organization.
 
@@ -16,11 +16,11 @@ Our Red Team works **together** with our Blue Team. Even when planning attacks, 
 
 ## Responsibilities
 * Maintain a deep understanding of GitLab's product offerings, how they work, and how they could be attacked or abused
-* Propose, plan, and execute [Red Team operations](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/#red-team-operations) based on realistic threats to the organization
+* Propose, plan, and execute [Red Team operations](https://about.gitlab.com/handbook/security/threat-management/red-team/#red-team-operations) based on realistic threats to the organization
 * Automate attack techniques, creating custom tooling for specific operations and contributing to general-purpose open source tools
 * Write detailed reports covering the goals and outcomes of Red Team operations, including significant observations and recommendations
-* Collaborate with GitLab's [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) to improve detection and response capabilities
-* Collaborate with GitLab's [Infrastructure Security Team](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/infrastructure-security/) to propose defensive improvements to cloud environments
+* Collaborate with GitLab's [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/security/security-operations/sirt/) to improve detection and response capabilities
+* Collaborate with GitLab's [Infrastructure Security Team](https://about.gitlab.com/handbook/security/security-engineering-and-research/infrastructure-security/) to propose defensive improvements to cloud environments
 * Collaborate across multiple product teams to propose enhancements and additions to GitLab's SaaS and self-hosted offerings
 * Collaborate with non-technical teams to propose process and policy enhancements and additions
 * Stay informed on current security trends, advisories, publications, and academic research that is relevant our organization
@@ -197,7 +197,7 @@ The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewa
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ## Performance Indicators
-* Improve the security posture of the organisation by [executing operations that mimic real-world adversaries](/handbook/engineering/security/performance-indicators/).
+* Improve the security posture of the organisation by [executing operations that mimic real-world adversaries](/handbook/security/performance-indicators/).
 
 ### Career Ladder
 ```mermaid

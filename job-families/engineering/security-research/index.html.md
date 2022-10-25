@@ -14,7 +14,7 @@ Security research engineers are subject matter experts (SME) that conduct resear
 * Report findings to tool developers and track mitigation process, following [responsible disclosure guidelines](https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software).
 * Author blogs posts and presentations on topics and research in their area of expertise.
 * Author documentation and/or tooling for security training.
-* Apply [Secure tools](https://about.gitlab.com/stages-devops-lifecycle/secure/) to [secure GitLab](https://about.gitlab.com/handbook/engineering/security/#secure-the-product) and contribute to the improvement of the tools by providing feedback to the engineering team.
+* Apply [Secure tools](https://about.gitlab.com/stages-devops-lifecycle/secure/) to [secure GitLab](https://about.gitlab.com/handbook/security/#secure-the-product) and contribute to the improvement of the tools by providing feedback to the engineering team.
 * Identify gaps in existing security test automation and develop tools to close the gap.
 * Support other GitLab initiatives as a SME.
 

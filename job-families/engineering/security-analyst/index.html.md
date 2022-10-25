@@ -82,7 +82,7 @@ See [Security External Communications](https://about.gitlab.com/job-families/eng
 
 ### Security Operations
 
-[Security Operations](/handbook/engineering/security/#security-operations) is responsible for the proactive security measures to protect GitLab the company, GitLab the product, and GitLab.com, as well as detecting and responding to security incidents.  The Security Analysts in Security Operations play a vital role in identifying and responding to incidents, and using the resulting knowledge and experience to help build automated methods of remediating these issues in the future.
+[Security Operations](/handbook/security/#security-operations) is responsible for the proactive security measures to protect GitLab the company, GitLab the product, and GitLab.com, as well as detecting and responding to security incidents.  The Security Analysts in Security Operations play a vital role in identifying and responding to incidents, and using the resulting knowledge and experience to help build automated methods of remediating these issues in the future.
 
 #### Security Operations Analyst Responsibilities
 
@@ -121,7 +121,7 @@ As always, the interviews and screening call will be conducted via a video call.
 See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## External Communications
-* [HackerOne Outreach and Engagement](/handbook/engineering/security/performance-indicators/#hackerone-outreach-and-engagement)
+* [HackerOne Outreach and Engagement](/handbook/security/performance-indicators/#hackerone-outreach-and-engagement)
 
 ## Career Ladder
 

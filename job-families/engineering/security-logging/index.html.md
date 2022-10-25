@@ -6,9 +6,9 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-The [Security Logging](/handbook/engineering/security/) engineers own security initiatives related to security of GitLab.com.
+The [Security Logging](/handbook/security/) engineers own security initiatives related to security of GitLab.com.
 They work to improve the coverage and usability of security-data on GitLab.
-They work very closely with the Security Incident Response Team [[SIRT](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/)] and share findings proactively.
+They work very closely with the Security Incident Response Team [[SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/)] and share findings proactively.
 
 ## Responsibilities
 
@@ -109,7 +109,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-reward
 
 ## Performance Indicators
 
-* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume).
+* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 

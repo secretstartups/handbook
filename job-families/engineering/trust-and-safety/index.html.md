@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-[Trust & Safety](/handbook/engineering/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.
+[Trust & Safety](/handbook/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.
 In the Trust and Safety Team there are two primary role types, Security Engineer and Security Analyst. Where the Security Engineer in Trust and Safety is primarily focused on the creation, maintenance and improvements of the systems and tools required to detect and mitigated abusive activity on GitLab.com, the Security Analysts' primary focus is on the creation, maintenance and processing operational workflows in the team. 
 Depending on the role type you are applying for your daily duties could include creating tooling and automation for curbing abusive activity on GitLab.com, assisting with incident response and operational workloads and mitigating abusive activity.
 A successful candidate is someone who is curious and willing to learn, has at least a basic understanding of security concepts, is comfortable moving forward in the face of ambiguity and able to effectively manage competing priorities.  
@@ -236,7 +236,7 @@ The Senior Manager, Trust and Safety is a [grade 9](/handbook/total-rewards/comp
 * Familiarity with major cloud providers - GCP, AWS, Azure, Digital Ocean
 
 ## Performance Indicators
-* Improve the health of GitLab.com, and drive down cost by [mitigating abusive activity](/handbook/engineering/security/performance-indicators/#cost-of-abuse).
+* Improve the health of GitLab.com, and drive down cost by [mitigating abusive activity](/handbook/security/performance-indicators/#cost-of-abuse).
 
 ### Career Ladder
 ```mermaid
