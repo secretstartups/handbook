@@ -1,11 +1,11 @@
 ---
 layout: handbook-page-toc
-title: Executive Diversity Inclusion & Belonging Council
+title: Leadership Diversity Inclusion & Belonging Council
 description: "A strategic group of Senior leaders URG Leaders who assist the DIB team to implement the strategy and align the strategy to the Division's strategic imperatives"
-canonical_path: "/company/culture/inclusion/executive-dib-council/"
+canonical_path: "/company/culture/inclusion/leadership-dib-council/"
 ---
 
-# Executive Diversity Inclusion & Belonging Council 
+# Leadership Diversity Inclusion & Belonging Council 
 
 A strategic group of Senior leaders Leaders who assist the DIB team in implementing the Corporate DIB strategy and provide insights to the DIB team on the Division's strategic imperatives.  Each representative will bring a unique set of capabilities such as but not limited to:  
 
@@ -35,9 +35,9 @@ Senior leadership representative (Snr. Dir +) from each Department and a person 
 * People
 * Representative from DIB Influencer Group
 * Office of CEO representative
-* VP of DIB - Executive DIB Council Lead 
+* VP of DIB Leadership DIB Council Lead 
 * DIB Partner 
-* TMRG Executive Sponsors 
+* Executive Sponsors 
 
 ## Selection Criteria:
 
@@ -52,17 +52,17 @@ Senior leadership representative (Snr. Dir +) from each Department and a person 
 
 ### Selection Process:
 
-* The DIB Team will ensure that an agenda item is added to the E-Group Weekly Meeting to discuss nominations for the Executive DIB Council
+* The DIB Team will ensure that an agenda item is added to the E-Group Weekly Meeting to discuss nominations for the Leadership DIB Council
 * The E-Group will have two weeks to provide their nominations for their department to the Chief People Officer or VP of DIB
 * The nominees should already have been notified regarding their nomination 
-* The newly appointment member/s will then receive an introduction, an overview of the mission and purpose of the Executive DIB Council and the Accountabilities and Commitments
+* The newly appointment member/s will then receive an introduction, an overview of the mission and purpose of the Leadership DIB Council and the Accountabilities and Commitments
 * The newly appointed member/s will then be asked to acknowledge the Accountabilities and Commitments
 
 ## Accountabilities and Commitments:
 
-These are the Accountabilities and Commitments that members of the Executive DIB Council will commit to during their tenure on the DIB Executive DIB Council: 
+These are the Accountabilities and Commitments that members of the Leadership DIB Council will commit to during their tenure on the Dhe Leadership DIB Council: 
 
-* To being an active member of the Executive DIB Council this includes but is not limited:
+* To being an active member of the Leadership DIB Council this includes but is not limited:
     * Attending a regular sync meeting that is suitable for your working hours. We will host two meetings: One in AM PST and one in PM PST or switch the times on rotation to allow all members to attend bi-monthly
     * Actively participate in the meeting by providing leadership, insights and actions on agenda items
     * Reading the notes or viewing the recording from the sync call you were unable to attend.
@@ -74,18 +74,18 @@ These are the Accountabilities and Commitments that members of the Executive DIB
 * Maintain the requirements outlined in the selection process 
 * Minimum one year commitment
 
-If you are no longer able to maintain these Accountabilities and Commitments you should let the DIB team know as soon as possible. If the DIB Team recognises that a member of the Executive DIB Council is not maintaining the Accountabilities and Commitments they will:
+If you are no longer able to maintain these Accountabilities and Commitments you should let the DIB team know as soon as possible. If the DIB Team recognises that a member of the Leadership DIB Council is not maintaining the Accountabilities and Commitments they will:
 
 1. Provide the member with feedback and ask if they are willing to renew their Accountabilities and Commitments 
     * If they feel they are able to recommit we will allow the member to continue 
     * If they feel they are unable to recommit we will start the selection process for a new member 
-2. If an Executive DIB Council member continues to not meet the Accountabilities and Commitments then the DIB Team will let the member know that they will no longer be apart of the Council and begin the selection process
+2. If the Leadership DIB Council member continues to not meet the Accountabilities and Commitments then the DIB Team will let the member know that they will no longer be apart of the Council and begin the selection process
 
-# Processes for the Executive DIB Council 
+# Processes for the Leadership DIB Council 
 
 ## Annual Kick-off Call 
 
-## Executive DIB Council Monthly Meeting 
+Leadership DIB Council Monthly Meeting 
 
 ### Agenda 
 
@@ -96,11 +96,11 @@ We will follow the agenda as closely as possible but ensuring that live answers 
 
 ### Actions
 
-* The VP of DIB (or DIB Partner) will create all the actions from the Executive DIB Council Monthly Meeting into individual issues and be assigned to a monthly EPIC.
+* The VP of DIB (or DIB Partner) will create all the actions from the Leadership DIB Council Monthly Meeting into individual issues and be assigned to a monthly EPIC.
 * The VP of DIB (or DIB Partner) will assign the agreed upon member/s for the action to the issue 
-* The member/s responsible will provide updates on the progress in the issue and in the next Executive DIB Council Monthly Meeting 
+* The member/s responsible will provide updates on the progress in the issue and in the Leadership DIB Council Monthly Meeting 
 * Once completed the members will close the issue 
-* The members of the Executive DIB Council should ensure they do not take on more actions than they are able to
+* The members of the Leadership DIB Council should ensure they do not take on more actions than they are able to
 
 
 
