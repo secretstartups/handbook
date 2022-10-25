@@ -105,6 +105,16 @@ The `MANIFEST_NAME` is not the same as the manifest filename. Its the filename e
 
 Run this if you're updating the gitlab-ops manifest file.  Requires a clone of RAW.  Does not require any variables, except possibly a `TASK_INSTANCE` variable if it's an SCD table.  This is separate from the `pgp_test` job because it requires a CloudSQL Proxy to be running in order to connect to the database.
 
+### DBT cloning selection
+
+When making any DBT changes, 🔆⚡️clone_model_dbt_select should be your first pipeline run to set up the environment, followed by either the `run_changed` or `specify_model` pipeline (to test & validate). 
+
+The following jobs use the same selection syntax as the regular DBT runs, but they use this to **begin a SnowFlake cloning operation for the DBT lineage provided**. In the case of 🔆⚡️clone_model_dbt_select it is far faster, cheaper, and can handle a much greater data volume than the regular DBT runs, because they do not actually run DBT. 
+
+#### ➕🔆⚡️clone_model_dbt_select
+
+Specify which model to run with the variable `DBT_MODELS`. Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
+
 ### ⚙️ dbt Run
 
 These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snowflake-dbt-ci.yml)
