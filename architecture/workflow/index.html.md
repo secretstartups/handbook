@@ -197,7 +197,7 @@ another person.
 #### Functional Experts
 
 Functional Experts are engineers with deep knowledge across specific functional
-areas, which include [Security](/handbook/engineering/security/#-contacting-the-team), QA, Database, and Infrastructure. You should
+areas, which include [Security](/handbook/security/#-contacting-the-team), QA, Database, and Infrastructure. You should
 always involve these functional experts during the generation of blueprint so
 that we generate awareness early in the cycle and so that they can provide
 appropriate input into the blueprint.
