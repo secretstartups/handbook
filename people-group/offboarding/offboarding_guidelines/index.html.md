@@ -17,7 +17,7 @@ description: "Offboarding process and steps on the backend"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -127,6 +127,6 @@ To ensure a successful completion of the offboarding issue, it is important that
 Exceptions to this policy must be approved by PeopleOps.
 
 ## References
-* [Information Security Parent Policy](/handbook/engineering/security/)
+* [Information Security Parent Policy](/handbook/security/)
 * [GitLab Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/)
 * [GitLab Offboarding FAQ](https://about.gitlab.com/handbook/people-group/offboarding/faq.html)

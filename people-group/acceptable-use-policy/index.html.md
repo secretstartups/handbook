@@ -17,7 +17,7 @@ description: "This policy specifies requirements related to the use of GitLab co
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -54,18 +54,18 @@ We are currently using JAMF as our endpoint management solution for Mac laptops.
 
 ### Security and Proprietary Information
 
-All GitLab data is categorized and must be handled in accordance with the [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html). All computing assets that connect to any part of the GitLab network, or 3rd party services that are used by GitLab, must comply with the applicable standards.
+All GitLab data is categorized and must be handled in accordance with the [Data Classification Standard](/handbook/security/data-classification-standard.html). All computing assets that connect to any part of the GitLab network, or 3rd party services that are used by GitLab, must comply with the applicable standards.
 
 ### Freeware, Browser Extensions, Add-ons and Plugins
-[Freeware, browser extensions, add-ons and plugins](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#browser-extensions) can pose a risk to GitLab as they may contain viruses, spyware or adware. The use of freeware could result in the loss of GitLab data and the inability to protect the data in accordance with GitLab security and privacy requirements. Not all freeware contains malware, but team members should carefully consider the terms of service and [types of data](/handbook/engineering/security/data-classification-standard.html) that will be shared before installing anything on your computer.    
+[Freeware, browser extensions, add-ons and plugins](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#browser-extensions) can pose a risk to GitLab as they may contain viruses, spyware or adware. The use of freeware could result in the loss of GitLab data and the inability to protect the data in accordance with GitLab security and privacy requirements. Not all freeware contains malware, but team members should carefully consider the terms of service and [types of data](/handbook/security/data-classification-standard.html) that will be shared before installing anything on your computer.    
 
-Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures](https://about.gitlab.com/handbook/engineering/security/security-assurance/technical-and-organizational-measures.html). 
+Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures](https://about.gitlab.com/handbook/security/security-assurance/technical-and-organizational-measures.html). 
 
 ### Unacceptable Use
 
 Team members and contractors may **not** use GitLab-managed resources for activities that are illegal or prohibited under applicable law, no matter the circumstances.
 
-Security requirements for GitLab production and corporate environments and on GitLab-managed assets must not be disabled without security approval via the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#-resources).
+Security requirements for GitLab production and corporate environments and on GitLab-managed assets must not be disabled without security approval via the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#-resources).
 
 #### Unacceptable System and Network Activities
 
@@ -83,7 +83,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Executing any form of network monitoring that intercepts data not intended for the team member’s or contractor's computer, except when troubleshooting networking issues for the benefit of GitLab.
 - Circumventing user authentication or security of any computer host, network, or account used by GitLab.
 - Tunneling between network segments or security zones (e.g., `gprd`, `gstg`, `ops`, `ci`), except when troubleshooting issues for the benefit of GitLab.
-- Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](/handbook/engineering/security/#access-management-process), and handled according to our [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
+- Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](/handbook/security/#access-management-process), and handled according to our [Data Classification Policy](/handbook/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
 
 #### Unacceptable Email and Communications Activities
 
@@ -99,7 +99,7 @@ All GitLab-owned computing resources must be [returned](/handbook/people-group/o
 
 ### Bring-Your-Own-Device (BYOD)
 
-As a general rule, non-company devices are not permitted to access company assets. While there are some exceptions listed below, access to RED classified data is, as defined by the [GitLab Data Classification Policy](/handbook/engineering/security/data-classification-standard.html), still prohibited.
+As a general rule, non-company devices are not permitted to access company assets. While there are some exceptions listed below, access to RED classified data is, as defined by the [GitLab Data Classification Policy](/handbook/security/data-classification-standard.html), still prohibited.
 
 The exceptions are as follows:
 
@@ -144,10 +144,10 @@ To consult with the Security Team create an issue in the [Security Compliance tr
 Exceptions to this policy must be approved by Security, Legal and PeopleOps Departments.
 
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
-- [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html)
+- [Data Classification Standard](/handbook/security/data-classification-standard.html)
 - [Asset return procedure](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 - [Lost or stolen asset procedure](/handbook/security/#panic-email)
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* Parent Policy: [Information Security Policy](/handbook/security/)
 * GitLab's [Community Code of Conduct](/community/contribute/code-of-conduct/) applies to all members of the GitLab community
