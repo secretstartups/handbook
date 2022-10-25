@@ -16,7 +16,7 @@ title: "Data Protection Impact Assessment (DPIA)"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -134,7 +134,7 @@ Privacy Reviews should be treated as living documents and recorded in ZenGRC. Th
 - identify and assess risks to individuals
 - identify any additional measures to mitigate those risks
 
-Risks are identified, assessed, and managed according to GitLab's [security risk management](/handbook/engineering/security/#risk-assessments) process.
+Risks are identified, assessed, and managed according to GitLab's [security risk management](/handbook/security/#risk-assessments) process.
 
 #### Vendor DPIA Process:
 
@@ -152,9 +152,9 @@ Once the risk plan has been approved, the necessary controls should be completed
 
 # Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 # References
 
-- Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+- Parent Policy: [Information Security Policy](/handbook/security/)
 - [GitLab Privacy](https://about.gitlab.com/handbook/legal/privacy/#data-protection-impact-assessments-dpias)
