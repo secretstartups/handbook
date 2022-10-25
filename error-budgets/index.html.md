@@ -322,6 +322,6 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [rapid action]: /handbook/engineering/development/#rapid-action
 [infradev]: /handbook/engineering/workflow/#infradev
 [corrective action]: /handbook/engineering/infrastructure/incident-review/#incident-review-issue-creation-and-ownership
-[security vulnerabilities]: /handbook/engineering/security/threat-management/vulnerability-management/#vulnerability-management-overview
+[security vulnerabilities]: /handbook/security/threat-management/vulnerability-management/#vulnerability-management-overview
 [engineering allocation]: /handbook/engineering/#engineering-allocation
 [engineering prioritization]: /handbook/engineering/development/principles/#prioritizing-technical-decisions
