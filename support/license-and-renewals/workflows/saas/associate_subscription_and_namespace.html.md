@@ -24,7 +24,7 @@ You can verify reseller customers by looking at the edit page for their customer
 Take the following steps for this provisioning request:
 
 1. Login into the customers portal with admin permissions
-2. Log into gitlab.com with admin login
+2. Log into gitlab.com with admin login (use the same browser! we need the cookies for both sessions)
 3. Impersonate user on gitlab.com
 4. Impersonate user in customers portal
 5. In Customer portal, go to ```My account``` drop-down -> select ```Account details``` -> go to ```Your GitLab.com account section``` -> select ```Link my Gitlab.com account``` button
