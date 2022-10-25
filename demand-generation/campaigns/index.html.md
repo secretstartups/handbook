@@ -22,9 +22,6 @@ twitter_creator: '@gitlab'
 {: #responsibilities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Marketing Campaigns
-{: #responsibilities-campaigns}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 [Marketing Campaign Managers](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) strategize, execute, and optimize data-driven demand generation campaign strategies to achieve sales goals for an assigned geographic or firmographic defined market segment.
 
 They are responsible for developing and deploying integrated marketing campaigns, including crafting strategy, aligning internal teams, developing audience segments, building email nurtures, owning top funnel virtual events, and measuring results.
@@ -227,9 +224,9 @@ _Each team member contributes to making day-to-day processes more efficient and 
 {: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
+In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
 
-The [#demand-gen](https://gitlab.slack.com/archives/CJFB4T7EX) channel is used for weekly check-ins and interaction with the larger demand generation team.
+The [#marketing_integratedmarketing](https://gitlab.slack.com/archives/C03HJQW0DLZ) channel is used for weekly check-ins and interaction with the larger integrated marketing team.
 
 In between bi-weekly Campaigns Team Connect calls:
 * **Updates** should be added to MRs when possible
@@ -248,8 +245,8 @@ In between bi-weekly Campaigns Team Connect calls:
 Most of our team meetings are recorded and can be found [here](https://drive.google.com/drive/u/1/folders/1GDkvqVhimLDnX744eh9YS6_qHhKRafmJ).
 
 - Bi-weekly Tuesdays - Campaign Team Connect Call (campaigns)
-- Bi-weekly Wednesdays - Campaigns, ABM, & Lifecycle Team Call (campaigns, abm, lifecycle)
-- Thursdays - Marketing strategy & tactics call (all marketing)
+- Monthly - Campaigns, ABM, & Lifecycle Team Call (campaigns, abm, lifecycle)
+- Monthly - Marketing All-Hands (all marketing)
 
 ### The Handbook
 {: #handbook}
