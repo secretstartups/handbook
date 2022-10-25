@@ -11,7 +11,6 @@ description: "Describes the processes for scoping migrations."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-`:warning: This page is under construction` 
 
 # Info for Sales - positioning migrations to SaaS
  - [GitLab self-managed to SaaS migration](SM-to-SaaS/)
@@ -49,6 +48,11 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA o
 
 
 ## GitLab Self-Managed to GitLab.com Migration Notes
+- There are specific cases where migrating to SaaS might not be the best recommendation.  Here are some considerations when working with the customer to decide on whether or not SaaS is the best solution:
+   1. Is the customer using something other than GitLab CI?  If so, are they able to establish connectivity between their CI tool and GitLab.com?  There are occassionally issues that prevent them from using GitLab and their CI/CD tools, i.e. the customer is not able to convince their network security team to adjust firewall configurations to be able to use their CI/CD tool behind their firewall with GitLab SaaS.
+   1. If the customer has a very large number of projects, this could become a change management challenge as well as be cost prohibitive to do the migration.  e.g. for one customer recently, who has been having performance issues in their self-managed instance, it was going to take $400k and 150+ days to migrate them to SaaS (1600 users and 20k+ projects).  GitLab Dedicated might be a better option for some customers who are using Ultimate.
+   1. The customer may be using some self-managed features that they are insistent on continuing to use that aren't available on SaaS (e.g. server hooks).  See [Differences Between Self-Managed and SaaS](https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed) for more information.
+   1. The customer may have very large GitLab projects that would be difficult to migrate to SaaS, and they would need to [pay for additional storage consumption](https://about.gitlab.com/pricing/) in order to use SaaS; plus there are known git and CI performance issues when customers have very large monorepos.
 - [Migrating from Self-Managed to SaaS](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/) has additional information, rough order magnitude estimates, and common customer questions
 - see [Congregate Features Matrix](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate/-/blob/master/gitlab-migration-features-matrix.md) to see a comparison of GitLab ui migration vs Congregate migration and gain a better understanding of which features get migrated and which don't.
 - Migrations from one GitLab instance to another using Congregate require that the group and project structure of the source system is retained during migration. 
