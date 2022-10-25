@@ -129,15 +129,6 @@ You can find more details on the [All Remote](/company/culture/all-remote/) page
 _If you are already a GitLab employee and would like to share your story, simply add a `remote_story:` element to your entry in `team.yml` and it will appear
 on that page._
 
-
-### Part-time contracts
-
-As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-contracts in some teams.
-
-We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
-
-Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a  part-time contract, talk to your manager first.
-
 ## Meal Train
 
 In order to foster a sense of community and support fellow GitLab team members, if a team member is in need or experiencing a life disruption, they have the option of having a Meal Train started for them. A Meal Train is when a community comes together to support someone experiencing a difficult or disrupting event in their life who would benefit from having a meal provided to them during this time. 
@@ -307,8 +298,6 @@ Returning to work after [parental leave](#parental-leave) can be jarring if you'
 To alleviate the stress associated with returning to work after parental leave, GitLab supports team members coming back at 50% capacity. Team members should discuss this option with their Manager (ideally prior to the start of the leave or a few weeks prior to returning from leave) and find a working schedule that works best for the team member and for their team.  The general guideline (that can be approved by your Manager) is two to four weeks, but recognize that each reentry situation should be treated as a unique case to be discussed between the team member and their manager. The 50% figure should be viewed as a guide rather than an inflexible rule. Some team members may feel comfortable ramping more quickly, and that is OK.
 
 This provides space for a team member to test out life adjustments and iterate further without feeling overwhelmed by a full workload. For instance, if a prearranged daycare solution turns out to be suboptimal, this 50% capacity window empowers a parent to iterate — to find a different solution with the air cover at work to put in the appropriate amount of research and care.
-
-Some team members might want to work part-time for a longer time period or even forever. If you would like to have this discussion, please talk to your manager. You can head to the [Part-time contracts](#part-time-contracts) page to learn more.
 
 Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
 
