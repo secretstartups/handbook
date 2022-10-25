@@ -148,7 +148,14 @@ A given week should be considered open for shadowing unless it is listed below.
 | 9/12/2022 | [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
 | 10/31/2022| [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
 | 11/14/2022 | [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
-| 11/21/2022 | No shadows | N/A |
-| 11/28/2022 | No shadows | N/A |
-| 12/19/2022 | No shadows | N/A |
-| 12/26/2022 | No shadows | N/A |
+| 11/21/2022 | Shadowing not available this week | N/A |
+| 11/28/2022 | Shadowing not available this week | N/A |
+| 12/5/2022 | Available | |
+| 12/12/2022 | Available | |
+| 12/19/2022 | Shadowing not available this week | N/A |
+| 12/26/2022 | Shadowing not available this week | N/A |
+| 1/2/2023 | Available | |
+| 1/9/2023 | Available | |
+| 1/16/2023 | Available | |
+| 1/30/2023 | Available | |
+
