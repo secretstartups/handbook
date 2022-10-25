@@ -39,7 +39,21 @@ H --> | Data Platform Pipeline CI-Tables SCD| E(Snowflake_DWH)
 H --> | Data Platform Pipeline CI-Tables Incremental| E(Snowflake_DWH)  
 ```
 
- - `GitLab.com-DB (Main and CI) created from GCP snapshots` will be destroyed and rebuilt at 7:00 PM UTC. As of now, refresh time is set at 7.00 PM UTC; the refresh process picks up the latest GCP snapshot of Gitlab.com read replica of 6.00 PM UTC (1 hour early). The build of the database takes about 1 hour and 30 mins. This results in an available time window between 8:30 PM UTC to 7:00 PM UTC the next day to query this database. Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
+ - `GitLab.com-DB (Main and CI) created from GCP snapshots` 
+    Since GCP snapshot is scheduled to takes snapshot every 6 hours. The current schedule  for Snapshot restoration is set as below.
+      - GitLab.com-DB(Main) 
+          - 01:00 UTC  This should restore GCS snapshot of current_day (00:00 Hours) 
+          - 13:00 UTC  This should restore GCS snapshot of current_day (12:00 Hours)
+      - GitLab.com-DB(Ci) 
+          - 01:10 UTC  This should restore GCS snapshot of current_day (00:00 Hours)
+          - 13:10 UTC  This should restore GCS snapshot of current_day (12:00 Hours)
+
+The build of the database takes about 45 mins. This results in two available time window everyday to query this database.
+    - 02:00 UTC to 13:00 UTC 
+    - 14:00 UTC to 01:00 UTC 
+Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
+
+
 - `Gitlab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously. 
 
 Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB (Main and CI) created from GCP snapshots` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
@@ -63,15 +77,19 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 1. Incremental extract 
 - This is the most convenient methodology, a minimal amount of records is transferred. Prerequisite is that there is a delta column available on the source table level
 - +/- 120 tables are incrementally extracted
-- Load time about 1 hour
-- Executed every 6 hours
+- Load time about 1 hour 30 Minutes
+- Executed every 12 hours 
 2. Full extract (at this moment +/- 100 tables & load tie about 4 hours)
 - This is the alternative if no delta column is available on source table level, or if records are deleted in the source.
-- +/- 100 tables are incrementally extracted
-- Load time about 4 hours
-- Executed every 24 hours
+- +/- 70 tables are incrementally extracted
+- Load time about 2 Hour 20 Minutes
+- Executed every 12 hours
 
 The extraction methodology is determined via the [manifest file](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline/manifests_decomposed). 
+
+Below a overview of the end 2 end flow. From GCP snapshot creation up untill dbt processing:
+
+![load-schema-gitlab-com](./load-schema-gitlab-com.png)
 
 ### Manual Backfill of table from Postgres To Snowflake
 
