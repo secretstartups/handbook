@@ -20,6 +20,23 @@ description: "Monte Carlo Guide"
 
 The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](/handbook/business-technology/data-team/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
 
+### Current State and Use Cases of Monte Carlo
+
+- `Number of Users:` 20
+- `Number of systems:` 1 (Snowflake)
+- `Number of tables:` 6,000+ tables
+- `Tables under active Alert:` 1,700+ tables
+- Part of [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/)
+- Create Custom Monitors for advanced use cases
+- Pilot Monitoring Tool for select dbt tests
+
+### Future Plans for Monte Carlo
+
+- Deploy as SSOT Monitoring Tool for Analytics Engineering (within the dimensional model layer)
+- Trusted Data Monitoring - migrate dbt Trusted Data tests into Monte Carlo and deprecate these tests
+- Monitors as Code - add monitors to GitLab for version control
+- (Stretch) Automated GitLab Issue Generation on MC incident generation
+
 ## How We Operate Monte Carlo
 
 We use the [#data-pipelines](https://gitlab.slack.com/archives/C0384JBNVDJ) Slack channel for MC platform related alerts.
@@ -47,13 +64,12 @@ The whole body of work covering the Monte Carlo rollout at GitLab falls under ep
 
 ## Logging In
 
-
 Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin.
 The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
 
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
 
-A runbook of how everything is technically set up can be found here: https://gitlab.com/gitlab-com/business-technology/team-member-enablement/runbooks/-/wikis/IT-Runbooks/App-Setup/Monte-Carlo:-How-It's-Built
+A runbook of how everything is technically set up can be found in the [Monte Carlo Runbook](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/runbooks/-/wikis/IT-Runbooks/App-Setup/Monte-Carlo:-How-It's-Built).
 
 The gist of it is that there is an Okta Group called Data that is a generic group which adds all users with `department = Data` to it.
 This department group has the Monte Carlo app assigned to it.
@@ -74,19 +90,18 @@ Depending on the role assigned to your user (by default every user logging in vi
 
 If you need your role to be updated, you can reach out to anyone on the data platform team and they will be able to modify your existing role.
 
-More information on navigating the UI can be found in the official documentation: https://docs.getmontecarlo.com/docs/how-to-navigate-the-monte-carlo-ui
+More information on navigating the UI can be found in the [official Monte Carlo documentation](https://docs.getmontecarlo.com/docs/how-to-navigate-the-monte-carlo-ui).
 
 ## Adding a New Monitor
 
 Monte Carlo will be running volume, freshness and schema change monitors by default on all the objects it has access to.
 However, these checks are based on update patterns the tool learns from the data and if you need a specific custom check that runs on a certain schedule, you might want to add a custom monitor for that.
 
-The official Monte Carlo documentation on monitors can be found here: https://docs.getmontecarlo.com/docs/monitors-overview
+The official Monte Carlo documentation on monitors can be found in the [Monitors Overview guide](https://docs.getmontecarlo.com/docs/monitors-overview).
 
 ## Fine-Tuning an Existing Monitor
 
 If you want to modify an existing monitor, depending on the type of monitor, you can modify different parts of it such as the schedule, the timestamp field to be taken into account & the alert condition.
-
 
 ## Responding To A Slack Alert
 
