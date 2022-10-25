@@ -44,7 +44,7 @@ It is important to note that, sometimes, a particular piece of data may _feel_ s
 
 Sensitive data is typically data that is associated with who an individual is on a deep level, rather than merely identification information.
 
-**Data Classifications.** GitLab uses a color system to label different types of data by associated risk. Please see Security's [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) for more information.
+**Data Classifications.** GitLab uses a color system to label different types of data by associated risk. Please see Security's [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html) for more information.
 
 **Confidential Information.** This includes the business data that helps GitLab run strategically and includes business development plans/strategies, non-public financial information, third party data and government protected information. It also includes a special category of CI called "Trade Secrets."
 
