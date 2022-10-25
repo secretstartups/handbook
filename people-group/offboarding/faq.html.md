@@ -145,4 +145,6 @@ If there are any issues that they cannot help with, please contact the Total Rew
 
 If you move, please email `people-connect@gitlab.com` so that the People Connect team can keep your address up to date in Workday. 
 
+#### Do I need to return previously expensed Home Office Items?
 
+Please read about the laptop guidelines [here](https://about.gitlab.com/handbook/people-group/offboarding/faq.html#can-i-purchase-my-laptop-from-gitlab). [Home Office Items](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/#-home-office-items) under $1000 USD per item don't need to get returned and are okay for you to keep. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property and you will be required to return the item(s) if you leave the company.
