@@ -9,7 +9,7 @@ description: >-
 ## RFI/RFP Process
 {:.no_toc} 
 
-A Request for Information (RFI) or a Request for Proposal (RFP), is commonly referred to as an RFx. It is part of the standard sales process within Public Sector, but can also happen with enterprise customers. The Field Security Team has created a process to assist and simplify the RFP process for GitLab field teams which you can view on the [RFP Process Handbook page](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/Field-Security-RFP.html). Use the guidance below if you need help responding to an RFx outside of this proccess.
+A Request for Information (RFI) or a Request for Proposal (RFP), is commonly referred to as an RFx. It is part of the standard sales process within Public Sector, but can also happen with enterprise customers. The Field Security Team has created a process to assist and simplify the RFP process for GitLab field teams which you can view on the [RFP Process Handbook page](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html). Use the guidance below if you need help responding to an RFx outside of this proccess.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -48,7 +48,7 @@ After the issue is created, create a Google document and start filling in the de
 
 In the event that the RFx requires:
 
-- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/engineering/security/security-assurance/field-security/) handbook.
+- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/security/security-assurance/field-security/) handbook.
 - A legal review, please follow the process described in [Collaborating with GitLab legal](/handbook/legal/customer-negotiations/) handbook page.
 - A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
 
