@@ -28,12 +28,11 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 |---------|-------------------------------|
 | **Enablement**: Distribution, Geo, Memory, Global Search, Database, Pods <br>**SaaS Platforms**: GitLab Dedicated, Delivery <br>**Ops**: Configure, Release, Respond, Observability | [Will Leidheiser] |
 | **Growth**: Activation, Conversion, Expansion, Adoption <br>**Fulfillment**: Provision, Purchase, Utilization <br>**Analytics**: Product Intelligence | [Nicholas Hertz] |
-| **Manage**: Authentication and Authorization, Workspace, Import, Optimize, Project Management, Product Planning, Certify | [Anne Lasch] |
-| **Plan**:Project Management, Product Planning, Certify | [Anne Lasch]|
+| **Manage**: Authentication and Authorization, Workspace, Import, Integrations, Foundations | [Ashley Knobloch] |
+| **Plan**:Project Management, Product Planning, Certify, Optimize | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Dynamic Analysis: Fuzz Testing, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance | [Michael Oliver] |
 | **Create**: Source Code, Editor, Code Review | [Ben Leduc-Mills] |
 | **Ops**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Insights, Package | [Erika Feldman] |
-| **Ecosystem**: Integrations, Foundations | [Ashley Knobloch] |
 
 [Will Leidheiser]: https://gitlab.com/wleidheiser
 [Nicholas Hertz]: https://gitlab.com/NickHertz
@@ -42,6 +41,7 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 [Ben Leduc-Mills]: https://gitlab.com/leducmills
 [Erika Feldman]: https://gitlab.com/enf
 [Ashley Knobloch]: https://gitlab.com/aknobloch
+[Danika Teverovsky]: https://gitlab.com/dteverovsky
 
 ## How UX Researchers work
 
