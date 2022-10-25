@@ -40,7 +40,8 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 - There are multiple ways to log your activity with Troops ([Log an Activity Video](https://www.youtube.com/watch?v=zRxUJSjujUk&feature=youtu.be))
     - After meetings with a prospect/customers, you will be prompted in the Slack Troops application to `Log a Call` for the activity (easiest method)
     - On-demand, type `/troops-action` in Slack and click on the `Log Activity` button
-    - On-demand, type `/troops <name of account>` and choose the appropriate opportunity. Click `Log Activity` (NOT the `Log a Call` button)
+    - On-demand, type `/troops <name of account>` and choose the appropriate **opportunity**. Click `Log Activity` (NOT the `Log a Call` button)
+      - It is required to log the activity against the associated **opportunity** versus at the account level.  This is to ensure accurate reporting and analysis of our engagement models.
 - There is a minimal set of fields that are required to be populated, _regardless if Troops.ai marks them as optional_.
     - **Related To** - Search for and set this to the Salesforce `Opportunity` associated with the activity.
     - **Name**  - Please search for and populate the `Name` field with a prospect/customer contact existing in Salesforce that was part of the activity.   <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
