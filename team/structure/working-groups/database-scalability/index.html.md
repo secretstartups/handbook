@@ -195,6 +195,7 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 | DRI - Ops Section                        | Sam Goldstein                   | Director of Engineering, Ops |
 | DRI - Infrastructure                     | Steve Loyd                      | VP of Infrastructure |
 | Member                                   | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure |
+| Functional Lead                          | Fabian Zimmer                   | Group Product Manager, Enablement |
 | Member                                   | Stan Hu                         | Engineering Fellow |
 | Member                                   | Andreas Brandl                  | Staff Backend Engineer, Database |
 | Member/CICD Data Model DRI               | Grzegorz Bizon                  | Staff Backend Engineer (Time-decay data `ci_builds` ) |
