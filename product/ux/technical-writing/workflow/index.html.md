@@ -452,6 +452,19 @@ Also include:
 
 If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/product/categories/plan/#issues).
 
+## Topic types and team progress
+
+The Technical Writing team is always working to improve the quality of the documentation.
+Specifically, we are working to implement [topic types](https://docs.gitlab.com/ee/development/documentation/topic_types/).
+
+We are currently tracking updates to the [**Use GitLab**](https://docs.gitlab.com/ee/user/)
+section of the global navigation. 
+
+| Date         | # of pages done | # of pages total | Percent complete |
+|--------------|-----------------|------------------|------------------|
+| April 2022   | 161             | 420              | 38 %             |
+| October 2022 | 245             | 468              | 52 %             |
+
 ## Hackathons
 
 The Technical Writing team actively participates in [GitLab Hackathons](https://about.gitlab.com/community/hackathon/).
