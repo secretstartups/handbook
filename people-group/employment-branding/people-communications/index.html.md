@@ -45,8 +45,9 @@ It's equally important that we provide team members with a well-rounded view of 
 In preparing key messages to be shared with all team members, we ask all departments to follow the process below:
 
 1. Share the need for communications support by completing an [internal communications planning template](https://docs.google.com/document/d/1RCbETctaQKuRHhVce14wREO_NRpgiMon89t-kU8Zfj8/edit?usp=sharing) as completely as possible and share the need with a member of our internal communications team.
-    - Simon Liang, Senior Manager, People Communications & Engagement
+    - These requests can be shared on Slack using the **#internal-communications-requests** channel, or if confideniality is a concern, please connect directly with:
     - Kayla Golden, Senior Program Manager, People Communications & Engagement
+    - Devin Rogozinski, Senior Director, Talent Brand & Engagement
 1. Upon recieving the project brief, our internal communications will socialize the need with the #comms-asks channel to determine the who will be a DRI from internal communications or the broader talent & engagement team assigned to the project.
 1. A communications plan including release timing, cadence, and appropriate channels will be developed
     1. At least ~48 hours advanced notice is needed to plan a single message being shared
