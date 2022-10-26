@@ -279,7 +279,7 @@ Residents in California and Colorado have the Kaiser options below, in addition 
  The Kaiser CO plan is closed to new enrollees with effective dates 1/1/2023 and beyond. Team members currently enrolled in the plan in 2022 may remain on the plan. 
 
  
-| Plan Details               | [2022 HMO NorCal](https://drive.google.com/file/d/1br0BSmgAaiHF08in77Bjezk0vQvDzg3k/view?usp=sharing) <br> 2023 HMO Norcal (tbd)   | [2022 HMO 20 SoCal](https://drive.google.com/file/d/1VF3sWuFdIhpR6ScnBuqUl6R_OGvH7d1e/view?usp=sharing) <br> 2023 HMO 20 SoCal (tbd) |  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing) <br> N/A for 2023   | [2022 HMO 20 HI](https://drive.google.com/file/d/1hhOOBbgEI3HLmM5fzXi-MrpNl9hotr8V/view?usp=sharing) <br> 2023 HMO 20 HI (tbd)   |
+| Plan Details               | [2022 HMO NorCal](https://drive.google.com/file/d/1br0BSmgAaiHF08in77Bjezk0vQvDzg3k/view?usp=sharing) <br> [2023 HMO Norcal](https://drive.google.com/file/d/1IiqTRhloWsANkg42fmry6Ch9lXBVciMw/view?usp=sharing)   | [2022 HMO 20 SoCal](https://drive.google.com/file/d/1VF3sWuFdIhpR6ScnBuqUl6R_OGvH7d1e/view?usp=sharing) <br> [2023 HMO 20 SoCal](https://drive.google.com/file/d/1jZ6dvgCrqdVMSS3I1PxfGagpUXdIngge/view?usp=sharing) |  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing) <br> [2023 HMO CO](https://drive.google.com/file/d/11fsZfiYwgIkLVEtwLvL7-mn0sw63zb_5/view?usp=sharing) | [2022 HMO 20 HI](https://drive.google.com/file/d/1hhOOBbgEI3HLmM5fzXi-MrpNl9hotr8V/view?usp=sharing) <br> 2023 HMO 20 HI (tbd)   |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
@@ -293,8 +293,11 @@ Residents in California and Colorado have the Kaiser options below, in addition 
 | Brand - Preferred          | $35                  | $35             | $30             | $50             |
 | Brand - Non-Preferred      | $35                  | $35             | $50             | $50             |
 | Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | $200            |
+| Disclosures          | [2023 HMO Norcal](https://drive.google.com/file/d/1eHbGgFJW0mI1GxaZTQRJmrdqKg5Av8Ff/view?usp=sharing)    | [2023 HMO 20 SoCal](https://drive.google.com/file/d/1ryB9zwFrs6e7r0ZpvEiSM30y0nCOWvsh/view?usp=sharing) | [2023 HMO 20 CO](https://drive.google.com/file/d/1euEYQFuSEeW4cQ79mQNZenJ5YaBUzYtu/view?usp=sharing)        | 2023 HMO HI (TBD)   | 
  
 Please see the [2022 Kaiser Colorado Enrollment Guide](https://drive.google.com/file/d/1oOqIMImcUShku7gKKd3IKkyMv2z7wRto/view?usp=sharing) for more information on the Kaiser Colorado plan. 
+
+Please see the [Disclosure Part 2 form for the Kaiser CA Plans](https://drive.google.com/file/d/1Ry5uVrGWp42P7z8dso4zd0lg7JGC-BTV/view?usp=sharing)
 
 **Team Member Costs:**
  
@@ -786,18 +789,17 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
  
 If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact WEX (Discovery) Benefits directly: (866) 451-3399.
  
-### Costs per Month
- 
+#### 2022 
 **Medical**
  
  2022
 
 | Tier                           | Cigna EPO   | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $617.15   |   $461.04     | $602.85    |     $545.89       |     $545.89      |    $829.45     |   $523.05    |
-| Team Member + Domestic Partner | $1,345.49 |   $1,003.65   | $1.314.21  |     $1,260.63     |     $1,260.63    |    $1,824.79   |   $1,046.11  |
-| Team Member + Spouse           | $1,345.49 |   $1,003.65   | $1,314.21  |     $1,260.63     |     $1,260.63    |    $1,824.79   |   $1,046.11  |           
-| Team Member + Child(ren)       | $1,167.99 |   $871.43     | $1,134.03  |     $1,113.62     |     $1,113.62    |    $1,658.90   |   $941.50    |
+| Team Member Only               | $617.15   |   $461.04     | $602.85   |     $545.89       |     $545.89      |    $829.45     |   $523.05    |
+| Team Member + Domestic Partner | $1,345.49 |   $1,003.65   | $1.314.21  |     $1,260.63     |     $1,260.63    |    $1,824.79   |   $1,046.11    |
+| Team Member + Spouse           | $1,345.49   |   $1,003.65   | $1,314.21  |     $1,260.63     |     $1,260.63   |    $1,824.79   |   $1,046.11    |           
+| Team Member + Child(ren)       | $1,167.99   |   $871.43     | $1,134.03    |     $1,113.62     |     $1,113.62   |    $1,658.90   |   $941.50    |
 | Family                         | $1,865.77 |   $1,391.22   | $1,822.35  |     $1,653.67     |     $1,653.67    |    $2,488.36   |   $1,569.16  |
 
 
@@ -822,3 +824,40 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Team Member + Spouse           |   $15.35   |         
 | Team Member + Child(ren)       |   $12.99   |
 | Family                         |   $21.43   |
+
+#### 2023
+
+**Medical**
+
+
+ 
+| Tier                           | Cigna EPO | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO HI |
+|--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:------------:|
+| Team Member Only               | $792.55   |   $538.26    | $764.39   |     $560.23    |     $560.23   |    $496.90    |
+| Team Member + Domestic Partner | $1,727.87 |   $1,171.76  | $1,666.35 |  $1,293.75     |     $1,293.75 |      $993.80  |
+| Team Member + Spouse           | $1,727.87 |   $1,171.76  | $1,666.35 |     $1,293.75  |     $1,293.75 |       $993.80 |           
+| Team Member + Child(ren)       | $1,499.90 |   1,017.39   | $1,446.58 |    $1,142.88   |     $1,142.88 |      $894.42  |
+| Family                         | $2,396.00 |   $1,624.26  | $2,310.64 |     1697.11    |     1697.11   |      $1,490.70 |
+
+
+
+
+
+**Dental**
+| Tier                           | Cigna DPPO |
+|--------------------------------|:----------:|
+| Team Member Only               |   $42.15   |
+| Team Member + Domestic Partner |   $83.76  |
+| Team Member + Spouse           |   $83.76   |
+| Team Member + Child(ren)       |   $96.89  |
+| Family                         |   $148.64  |
+ 
+**Vision**
+ 
+| Tier                           | Cigna VPPO |
+|--------------------------------|:----------:|
+| Team Member Only               |   $7.13    |
+| Team Member + Domestic Partner |   $14.30  |
+| Team Member + Spouse           |   $14.30   |         
+| Team Member + Child(ren)       |   $12.10  |
+| Family                         |   $19.96   |
