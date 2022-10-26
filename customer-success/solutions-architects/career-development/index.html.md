@@ -31,14 +31,15 @@ Solutions Architecture team members you should review the [GitLab People Group C
 
 The Solutions Architecture promotion process augments the [People Group Promotion Process](/handbook/people-group/promotions-transfers/) with the following:
 
-1. Before the SA Manager starts the [BambooHR Promotion Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process), the manager will inform the Sr. Director of Solutions Architecture that the justification document is ready for review, typically during a 1 on 1 weekly meeting.
-    - For Staff and Principal level promotions, the Sr. Director of SA will consult with the SA leadership team, typically during a weekly team meeting. This is to ensure continuous calibration for Staff and above-level roles that have lower representation amongst the SA organization.
-    - For Staff level promotions, the Sr. Director of SA will consult with existing Staff and Principal level SAs for peer-level review and feedback.
-    - For Principal level promotions, the Principal candidates will prepare and present their accomplishments and their vision for improving GitLab and the SA organization to a panel of SA leaders and Principal level SAs.
+1. Before the SA Manager starts the [Promotion Approval Process](/handbook/people-group/promotions-transfers/#processing-a-promotion), the manager will inform the Sr. Director of Solutions Architecture that the justification document is ready for review, typically during a 1 on 1 weekly meeting.
+    - For Staff and Principal level promotions, the promotion justificaiton document must be completed 2 quarters prior to promotion date and submitted to the Sr Director of SA for review.  The Sr Director of SA will in turn review the justificaiton with the VP of Customer Success.  
+    - For Staff and Principal level promotions, the promotion candidate's manager will consult with the SA leadership team, typically during a weekly team meeting. This is to ensure continuous calibration for Staff and above-level roles that have lower representation amongst the SA organization.  This must occur 2 quarters before the expected promotion quarter.  For example, for a Q1 promotion, the calibration should occur in Q3 of the prior FY.
+    - For Staff level promotions, the promotion candidate's manager will consult with existing Staff and Principal level SAs for peer-level review and feedback while taking detailed notes.  
+    - For Principal level promotions, the Principal candidates will prepare and present their accomplishments and their vision for improving GitLab and the SA organization to a panel of SA leaders and Principal level SAs after calibration has occurred.
     - The Principal promotion panel will then meet to discuss the candidate's suitability for the Principal SA role.
 1. After reviewing and providing feedback, the Sr. Director of Solutions Architecture will inform the VP of Customer success, typically during a weekly 1 on 1 meeting.
 1. The VP of Customer Success will review the request and provide feedback if necessary. If the request is approved, the VP will annotate the justification document with their approval.
-1. At this point, the SA manager may submit the request in Bamboo.
+1. At this point, the standard quarterly promotion process is followed
 
 ### Associate Solution Architecture Program
 
