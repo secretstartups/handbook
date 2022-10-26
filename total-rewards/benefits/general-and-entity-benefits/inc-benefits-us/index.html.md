@@ -22,17 +22,25 @@ US based benefits are arranged through Willis Towers Watson and managed on the P
  
 ## 2023 Plan Year 
 
-The 2023 US Benefit Guide,Open Enrollment Video and additional details will be posted here soon. Plan rates and summaries can be found in the Medical, Dental, and Vision plan sections below. 
-
 For the 2023 plan year GitLab will continue to cover 100% of team member coverage and will increase the employer contribution portion for dependent medical coverage from 66% to 71% for all medical plans with dependent coverage.   
 
-For the 2023 Plan year GitLab will continue to cover 66% for spouse, dependents, and/or domestic partner premiums for dental, and vision coverage. Plan rates are locked through December 31, 2023. 
+Please see additional information on the 2023 US Benefit Plans: 
+
+* Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. 
+
+* Review the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. 
+
+* Watch the [2023 US Benefits Video](https://www.brainshark.com/willis/vu?pi=zIgzfm1iozgaiCz0) for a full review of the benefit plans. 
+
+* GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
+
+* Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits and a the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2023 Annual Rights and Notices](https://drive.google.com/file/d/1ku6hO8_ckJL49MLqOfFchIq_L4GblksZ/view?usp=sharing)
 
 ### Open Enrollment
 
 GitLab’s US Benefits Open Enrollment for Calendar Year 2023 will take place from 2022-10-31 through 2022-11-11. This year will be a passive enrollment, which means that if you do not wish to make changes to your health benefits (medical, dental and vision), you do not have to re-enroll for 2023; your 2022 elections will automatically roll over, with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. We are staying with our current carriers (Cigna, Kaiser, etc).
 
-Please take note of the updated premium rates for the Cigna and Kaiser plans listed below.
+Please take note of the updated premium rates for the Cigna and Kaiser plans listed in the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing). 
 
 ## 2022 Plan Year
 
@@ -527,6 +535,8 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
  
 GitLab offers matching 50% of contributions on the first 6% of allocated gross earnings per pay period with a yearly cap of $1,500 USD. If a hypothetical team members salary is $50,000 USD, their gross pay per period is $50,000 / 24 = $2083.33. This is then matched at a rate of $2083.33 * 6% * 50% = $62.50.
 
+As of 1 August, 2022 GitLab has removed the vesting schedule for the employer match. All prior employer match amounts have fully vested as of 1 August, 2022, new employer match contributions will automatically vest when received. 
+
 As you are eligible to participate in GitLab's 401k as of your hire date, you are *also* eligible for GitLab matching contributions as of your hire date.
  
 All employer contributions are pre-tax contributions. Team members can still make Roth 401(k) team member contributions and receive pre-tax employer contributions to your Traditional 401(k) account.
@@ -575,6 +585,8 @@ FSAs help you pay for eligible out-of-pocket health care and dependent day care 
 
 FSAs typically have a $550 rollover each calendar year. This is subject to change as dictated by the IRS. Due to COVID legislation, the IRS is allowing for unlimited carryover of FSA funds from 2021 to 2022. Starting in 2022 the IRS increased the FSA rollover amount to $570. 
 
+In 2023 the maximum salary deferral contribution has increased to $3,050 USD, with the maximium rollover amount increasing to $610 USD
+
 FSAs are employer-owned accounts. If you leave GitLab, your FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
  
 FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with WTW to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections.
@@ -589,8 +601,10 @@ Due to the Consolidated Appropriations Act, the IRS is allowing for unlimited ca
  
 #### Commuter Benefits
  
-GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits). The contribution limits from the IRS for 2021 are $270/month for parking and $270/month for transit. Starting in 2022 the contribution limits will increase to $280/month for parking and $280 per month of transit. These contributions rollover month to month. 
- 
+GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits).  
+
+In 2022 the contribution limits are $280/month for parking and $280 per month of transit. In 2023 the contribution limits are $300/month for parking and $300 per month of transit. These contributions rollover month to month. 
+
 ##### Commuter Benefits Period to Submit Claims
  
 For active employees: Up to 180 days after plan year has concluded (also known as the runout period).
