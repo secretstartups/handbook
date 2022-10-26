@@ -496,33 +496,6 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when team members leave companies unless otherwise provided in the work rules or employment contracts.
 1. GitLab Inc. (USA)
     * The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
-1. GitLab Canada Corp (Canada)
-    * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
-    * GitLab Canada Corp observes provincial laws regarding vacation time and vacation pay. For more information, refer to the applicable employment standards legislation of the Province in which you reside:
-        - [Alberta Employment Standards](https://www.alberta.ca/employment-standards.aspx)
-        - [British Columbia Employment Standards](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards)
-        - [Manitoba Employment Standards](https://www.gov.mb.ca/labour/standards/doc,quick_guide,factsheet.html)
-        - [New Brunswick Employment Standards](https://laws.gnb.ca/en/showfulldoc/cs/E-7.2//20220106)
-        - [Newfoundland and Labrador Labor Standards](https://www.gov.nl.ca/ecc/labour/lsaissues/)
-        - [Northwest Territories Employment Standards](https://www.ece.gov.nt.ca/en/services/employment-standards)
-        - [Nova Scotia Labor Standards](https://novascotia.ca/lae/employmentrights/docs/LabourStandardsCodeGuide.pdf)
-        - [Nunavut Labor Standards](http://www.nu-nlsb.ca/)
-        - [Ontario Employment Standards](https://www.labour.gov.on.ca/english/es/)
-        - [Prince Edward Island Employment Standards](https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/employment-standards-in-pei)
-        - [Quebec Labor Standards](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/labour-standards-quebec.pdf)
-        - [Saskatchewan Employment Standards](https://www.saskatchewan.ca/business/employment-standards)
-        - [Yukon Employment Standards](https://yukon.ca/en/employment/employment-standards)
-    * In most provinces in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
-    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
-    * Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
-    * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
-
-| Policy Locations             | Statutory Minimum Vacation Time               | Statutory Minimum Vacation Pay             |
-|------------------------------|-----------------------------------------------|--------------------------------------------|
-| All of Canada (except SK, QC, ON)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
-| Quebec Only                  | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
-| Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
-| Ontario | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
 1. GitLab Ireland
     * Team members are entitled to accrue 20 days per year at a rate of 1.67 days/month from the team member's start date. The holiday year will run from January 1st to December 31st of each year. Unused vacation days cannot ordinarily be carried forward into the following holiday year, however, if the team member is unable to take vacation due to long-term sick leave, then unused vacation days can be carried forward for up to 15 months from the end of the relevant holiday year.
 1. GitLab Korea Limited
@@ -544,6 +517,32 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * Team members are entitled to a minimum of 5 weeks of statutory vacation per year. The accrual period in France is June 1st - May 31st and accruals are prorated based on the number of months worked in the accrual period.  Any unused statutory vacation days will be carried into the next accrual period, but expire one year after it's accrued. 
     * Reduction of working time (RTT):
 The 25-day holiday entitlement is an employee's right based on a 35-hour workweek. In cases where employees need to work beyond the legal 35 hours, certain roles within GitLab may benefit from reduced working time (RTT)of up to two days per month to compensate for the extended working hours. RTT is calculated by taking the working days in the year and subtracting the contracted days. Employees cannot carry RTT days to the following year. 
+1. GitLab Canada Corp (Canada)
+    * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
+    * GitLab Canada Corp observes provincial laws regarding vacation time and vacation pay. For more information, refer to the applicable employment standards legislation of the Province in which you reside:
+        - [Alberta Employment Standards](https://www.alberta.ca/employment-standards.aspx)
+        - [British Columbia Employment Standards](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards)
+        - [Manitoba Employment Standards](https://www.gov.mb.ca/labour/standards/doc,quick_guide,factsheet.html)
+        - [New Brunswick Employment Standards](https://laws.gnb.ca/en/showfulldoc/cs/E-7.2//20220106)
+        - [Newfoundland and Labrador Labor Standards](https://www.gov.nl.ca/ecc/labour/lsaissues/)
+        - [Northwest Territories Employment Standards](https://www.ece.gov.nt.ca/en/services/employment-standards)
+        - [Nova Scotia Labor Standards](https://novascotia.ca/lae/employmentrights/docs/LabourStandardsCodeGuide.pdf)
+        - [Nunavut Labor Standards](http://www.nu-nlsb.ca/)
+        - [Ontario Employment Standards](https://www.labour.gov.on.ca/english/es/)
+        - [Prince Edward Island Employment Standards](https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/employment-standards-in-pei)
+        - [Quebec Labor Standards](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/labour-standards-quebec.pdf)
+        - [Saskatchewan Employment Standards](https://www.saskatchewan.ca/business/employment-standards)
+        - [Yukon Employment Standards](https://yukon.ca/en/employment/employment-standards)
+    * In most provinces in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
+    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
+    * Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
+    * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
+| Policy Locations             | Statutory Minimum Vacation Time               | Statutory Minimum Vacation Pay             |
+|------------------------------|-----------------------------------------------|--------------------------------------------|
+| All of Canada (except SK, QC, ON)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
+| Quebec Only                  | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
+| Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
+| Ontario | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
 
 ## Processing Vacation Requirements (People Ops Instructions)
 
