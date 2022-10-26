@@ -3,7 +3,10 @@ layout: handbook-page-toc
 title: "GitLab Channel Partner Program"
 description: "The value of becoming a GitLab channel partner."
 ---
-[[_TOC_]]
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 # GitLab Channel Partner Program Overview
 **We invite organizations interested in becoming a GitLab Channel Partner to [APPLY NOW](https://partners.gitlab.com/English/register_email.aspx).**
