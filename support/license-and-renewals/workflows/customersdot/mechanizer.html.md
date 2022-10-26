@@ -103,10 +103,10 @@ Sets additional storage for a namespace to the value specified in the `Extra sto
 
 ### Set max seats
 
-Modifies the total number of seats in a SaaS subscription.
+Modifies the highest number of seats used on the namespace during the current subscription term.  
 
 #### Note
-This will change the total seats in the GitLab.com subscription, but the existing order will have the original value. Before using this option check with a support manager.
+This will change the total seats owed in the GitLab.com subscription. Before using this option check with a support manager.
 
 - **Namespace:** The customer namespace as it appears in the URL.
 - **Max Seats number:** New value for max seats.
