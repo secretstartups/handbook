@@ -99,9 +99,10 @@ The Growth and Development policy is meant to further team members' learning and
 * Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Expensify](/handbook/finance/expenses/#-introduction).
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
-* For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab` once you have signed up. 
-* For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. 
-* For professional development and certifications, please send a copy of your certificate or proof of completion to `growth-development@gitlab`.
+* For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab.com` once you have signed up. 
+* For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab.com`. 
+* For professional development and certifications, please send a copy of your certificate or proof of completion to `growth-development@gitlab.com`.
+* For coaching recieved outside of our Coaching Right Now vendor, please send a copy of your paid invoice to `growth-development@gitlab.com`
 * Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 * Total Rewards will then notify payroll to begin the reimbursement process.
 
@@ -140,9 +141,11 @@ The course must be from a credentialed college or university and must be relevan
 
 **Desription:** Professional coaching for managers and leaders to support their development in their professional area of interest.  We encourage team members to utilize GitLab's internal resources but understand that some team members may desire to have additional external coaching resources to develop their leadership skills. Team members are expected to know their confidentiality obligations and are responsible for keeping conversations [SAFE](/handbook/legal/safe-framework/) during coaching sessions.
 
-If you are interested in Coaching, GitLab's coaching vendor of choice is [Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true). Review the [available coach bios with Coaching Right Now.](https://drive.google.com/file/d/1OG0Gn1Cef-9OulTKpXANqBWkTaFuVC2P/view?usp=sharing). Please note that coaches schedules are available on a first come, first served basis. Team members have access to 4, 6, or 8hrs of coaching with the vendor on all topics related to leadership.
+If you are interested in Coaching, GitLab's coaching vendor of choice is [Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true). Review the [available coach bios with Coaching Right Now.](https://drive.google.com/file/d/1OG0Gn1Cef-9OulTKpXANqBWkTaFuVC2P/view?usp=sharing). Please note that coaches schedules are available on a first come, first served basis. Team members have access to 4, 6, or 8hrs of coaching with the vendor on all topics related to leadership. By pairing with a coach via Coaching Right Now, team members save time and energy looking for their own coach, and know they are pairing with a coach that is familar with and aligned to GitLab values and way of working.
 
-When you're ready to apply, open a Growth and Development approval issue using the [coaching template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching).
+When you're ready to apply for a coach via Coaching Right Now, open a Growth and Development approval issue using the [coaching template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching).
+
+Coaching Right Now is our preferred coaching partner, which has been vetted for GitLab. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open the [Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, you will need to provide a paid invoice to GitLab as proof for reimbursement. 
 
 **The specifics of your coaching sessions will not be communicated to GitLab**. While not required, we strongly encourage you to share your experience, learnings, reflections,  and discoveries with your manager so they can reinforce them and support you on this journey. Individual contributors below Grade 8 are encouraged to receive coaching and mentorship from their managers and our [internal resources](/handbook/leadership/coaching/).
 
