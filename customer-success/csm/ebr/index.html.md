@@ -13,15 +13,259 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-## What is an Executive Business Review?
+## Overview
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. In partnership with the SAL/ AE, a CSM is responsible for working with their customers to identify the primary objectives and desired business outcomes for the meeting, then scheduling and conducting the EBR. In addition, it is recommended to work with the champion to ensure the right content is covered for the audience. The CSM will own the content creation, and together with the SAL/AE, the CSM will determine the flow of the review based on best practices and insight into the customer relationship.
+An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps. The most crucial element in all EBRs is giving the customer stakeholders the time to speak about what matters to them, and creating a framework to enable them to do so.
 
-CSMs should hold EBRs with each of their customers **at least** once per year. Larger ARR accounts or those with more strategic initiatives may benefit from or even require a biannual or quarterly cadence, a decision to be made by the CSM, SAL/AE, and Sales/CS leadership.
+CSMs conduct EBRs with their customers as follows:
 
-The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
+| Segment | Cadence |
+|---|---|
+| Growth | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](/handbook/customer-success/csm/engagement/#growth-accounts) |
+| Strategic | 1 EBR per customer per year minimum |
 
-### EBR Enablement
+## EBR management for a CSM's book of business
+
+As a key strategic engagement with customers, EBRs should be forecasted and planned with a long time horizon. CSMs should plan out their intended EBR delivery schedule for the full fiscal year, based on the [target of conducting an EBR halfway through a customer's renewal cycle (6 months from the renewal date)](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm).
+
+CSMs can use the [EBR FY Scheduling](https://docs.google.com/spreadsheets/d/1-NpqwEHvGjazn9XeiFdPJ-Ibg0WwueUvnmbUuzhcqxo/edit?usp=sharing) spreadsheet to help with the FY planning process. This helps get forward-looking visibility into when EBRs should be scheduled, and make adjustments to manage workload across the year.
+
+## Intended participants
+
+As the EBR is meant to provide high-level alignment on progress & success, as well as objectives and strategy for the future, we aim to have senior leaders and stakeholders from both GitLab and the customer present.
+
+From the customer side, these may include:
+
+- [Economic buyer](/handbook/sales/meddppicc/#economic-buyer)
+- [Champion](/handbook/sales/meddppicc/#champion)
+- Executives
+- Managers & leadership responsible for GitLab use case implementation
+- [Key customer personas](/handbook/customer-success/csm/engagement/#customer-personas)
+
+From GitLab, in addition to the account team this may include:
+
+- CSM Manager
+- CSM Director
+- Area Sales Manager
+- Sales Area Vice President
+- Other senior leaders, as determined in collaboration with management
+- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/))
+
+Decisions about who to invite to an EBR are made collectively by the account team with input from their respective managers.
+
+## Lifecyle and timetable
+
+Below is an overview of the EBR process from start to finish. Timelines are listed relative to the EBR delivery date to provide a roadmap.
+
+| Stage | DRI | Completion date | Details |
+|---|---|---|---|
+| [Internal kickoff](#internal-kickoff) | CSM | 3-4 months prior to intended EBR date | Align with account team members on target timing for the EBR, goals & objectives, topics/focus areas, and [intended participants](#intended-participants). |
+| [Initial discussion with customer](#initial-discussion-with-the-customer) | CSM | 3-4 months prior to intended EBR date | Discussion occurs several months out to provide time for all subsequent steps, and to get the [right attendees included](#intended-participants). |
+| [Scheduling](#scheduling) | CSM and customer contacts | 2-3 months prior to intended EBR date | An EBR is considered "scheduled" when a specific date & time has been picked and customer invites accepted, based on confirmed availability of [intended attendees](#intended-participants). Once scheduled, reach out to GitLab leaders you would like to have participate. |
+| [Planning & assembly](#planning--assembly) | CSM, collaborating with customer contacts and account team | 1 month prior to scheduled EBR date | Build the EBR using our [EBR template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit?usp=sharing) as a starting point, and in collaboration with the GitLab account team, customer participants/contacts, and anyone else who will be involved. The [Success Plan](#success-planning) is used to frame strategic alignment and objectives. |
+| [Semi-final internal review](#semi-final-internal-review) | CSM leading, with GitLab presenters and attendees | 3-4 weeks prior to scheduled EBR date | Align with all members of the account team and other GitLab participants on EBR plan, and iterate based on collective feedback. The slide deck and talk track should be mostly complete by this meeting. |
+| [Final review with customer](#final-review-with-customer) | CSM and customer contacts | 2-3 weeks prior to scheduled EBR date | Validate that the content and intended messaging is aligned with their org's expectations, and that we have accurate details regarding their objectives. |
+| [Final internal review & prep](#final-internal-review--prep) | CSM leading, all GitLab attendees & presenters | 2 weeks prior to scheduled EBR date | This meeting needs to include all GitLab team members who will be present for the EBR and ensure that everyone is aligned on the plan and objectives. **The slide deck and talk track is complete by this meeting, except for any minor adjustments done during this review.** |
+| [Send agenda & event details](#send-agenda--event-details) | CSM | 1 week prior to scheduled EBR date | Email all participants with the agenda for the meeting, and other relevant details to ensure everyone is prepared for the EBR. |
+| [Delivery](#delivery) | CSM leading, in collaboration with SAL/AE and leadership | 6 months before upcoming renewal | This is the main event! Everyone involved is clear on their role and the goals for the EBR. |
+| [Follow-ups](#follow-ups) | CSM managing; others specified for each follow-up | 0-7 days after EBR delivery | Follow-ups that have rapid turnaround should be completed within a few days of the EBR, and no later than one week. Examples include product feature information and scheduling of subsequent meetings. |
+| [Success planning](#success-planning) | CSM | 0-3 days after EBR delivery | Success planning is a critical part of a successful EBR, since the information learned from and discussed during the EBR feeds directly into our strategic roadmap for the customer and is documented in the success plan. |
+
+### Internal kickoff
+
+The first step in preparing any EBR is aligning internally with the [account team](/handbook/customer-success/account-team/). This discussion covers:
+
+- Target timeframe for the EBR to be scheduled
+- General review of the customer's current state and roadmap
+- Goals & objectives for the EBR
+- Topics and focus areas
+- [Intended participants & attendees](#intended-participants), both from GitLab and from the customer
+
+This meeting can optionally include other GitLab team members that the account team has previously agreed they would like to have participate in the EBR.
+
+### Initial discussion with the customer
+
+During the next cadence call, the CSM discusses the EBR with the customer contacts. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know [key stakeholders should attend](#intended-participants) and ask them to help with scheduling for those participants. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. Finding availabilty on all calendars can often require weeks or months of lead time, which is why this conversation should happen [no less than 3 months ahead of the target timeframe for the EBR](#lifecyle-and-timetable).
+
+[Resources](#resources--materials) to help you with this discussion are available.
+
+It may be beneficial, or even necessary, to follow up on this discussion in other mediums. In addition to the follow-up email after the cadence call, a separate email specifically for the EBR can help keep focus on planning. If there is customer communication via other platforms like Slack or the [collaboration project](/handbook/customer-success/csm/product/#customer-collaboration-project) those are also good vectors for this discussion.
+
+### Scheduling
+
+Getting an EBR scheduled can be one of the more challenging aspects of EBR prep since it requires coordination of schedules for several people across both GitLab and the customer's organization. As such, it is imperative to start this process as early as possible and keep focus on it until a date & time are agreed on.
+
+The EBR is not considered scheduled until calendar invites are sent & confirmed by at least the key participants. The CSM keeps track of scheduling efforts and drives this until participant attendance is confirmed.
+{: .alert .alert-gitlab-purple}
+
+#### EBR length
+
+The recommended length of an EBR depends on the customer's segment:
+
+| Segment | Length |
+|---|---|
+| Growth | 60 minutes |
+| Strategic | 90 minutes |
+
+Any EBR should be structured to provide time for key focus areas, with plenty of discussion on customer objectives and roadmap. If key personas cannot participate for the full session, [arrange the EBR](#planning--assembly) agenda to cover the topic(s) most relevant to these personas at the beginning to ensure maximum benefit to all involved.
+
+If you need to condense an EBR based on available time, [review the guidance on how best to do that](#tips-for-shortening-an-ebr).
+
+#### GitLab participant alignment
+
+Once the EBR is scheduled, the CSM (or others if agreed during the meeting) will reach out to [GitLab team members and leadership that they would like to have on the EBR](#intended-participants) with details such as:
+
+- Date and time for the EBR
+- Whether the EBR is intended to be [in-person](#in-person-considerations) or virtual
+- What involvement/role you would like the person to have in the EBR
+- Next steps & timeline for EBR prep the person should be aware of, including subsequent planning meetings
+
+As you move into planning the EBR, ensure that every GitLab participant has an active, clearly defined role in [delivery](#delivery). Take advantage of the opportunity to align leaders on both sides and strengthen the partnership by asking them to drive certain parts of the discussion.
+{: .alert .alert-gitlab-purple}
+
+#### In-person considerations
+
+An in-person EBR is ideal to maximize the interaction and discussion between participants. To ensure maximum value for all involved, additional sessions should be scheduled around the EBR itself. These include:
+
+- Enablement sessions, aligned with either ongoing adoption efforts or future adoption agreed upon as part of the EBR
+- Meetings with customer stakeholders for GitLab use cases to align and enable on use case adoption & value
+
+Sessions should be planned and scheduled in advance, with proactively prepared topics, and managed or coordinated by the CSM. **Open-ended or unstructured sessions (e.g. "office hours") should be avoided.**
+
+#### Cadence call mini-EBR
+
+Although we strive to include senior leadership from the customer in an EBR, that may not always be possible. If after two attempts to request an EBR with the decision makers and influencers the CSM is still unsuccessful, extend an upcoming [cadence call](/handbook/customer-success/csm/cadence-calls/) to one hour and use this session to show the value of the EBR conversation.
+
+The important thing is to conduct an EBR with a focus on strategy and objectives, both to align with our current contacts and to position a future EBR with stakeholders and leadership.
+
+[Review the guidance on shortening an EBR](#tips-for-shortening-an-ebr) to consolidate your program for a cadence call EBR.
+
+While an EBR is a specific motion, we should naturally treat all [cadence calls](/handbook/customer-success/csm/cadence-calls/) as a "mini EBR" to enthrall our key contacts, continue demonstrating GitLab's value, and entice the customer to learn more and engage more readily with a full EBR.
+{: .alert .alert-gitlab-purple}
+
+### Planning & assembly
+
+This is the longest phase of the EBR process, since this is when the EBR actually comes together. Leveraging all of the details we know about the customer across different sources, and collaborating with customer contacts, the content & discussion points for the EBR are assembled.
+
+Use the [GitLab EBR template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit?usp=sharing) to create your slide deck. Please ensure you are using the most current template, rather than copying a previous EBR deck, by starting from the template linked here.
+
+The customer's [success plan](#success-planning) forms the basis of the EBR. Think of the success plan as the blueprint for the EBR content. A well-formed success plan provides the key information you need to discuss customer strategy, objectives & goals, accomplishments, progress on current initiatives, and roadmap for the future.
+
+While the CSM is the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual) for the EBR, it is a collaborative effort between the CSM, the other account team members, and the customer contacts. Throughout the process we should align with the customer on discussion points and details, and ensure we are highlighting their accomplishments as part of the messaging. **There should be no surprises in the content of the EBR for anyone involved.**
+
+If you plan to discuss product information, ensure you align with the right GitLab team members for that discussion as early as possible. This may include a [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), or other subject matter experts. Give these team members ample time to align on the plan and prepare their portion of the EBR program.
+
+The CSM and their manager will periodically review the EBR as this stage progresses. The CSM Manager ensures that the focus areas are appropriate for the [participants](#intended-participants) and in line with expectations for an EBR.
+
+#### Structuring the agenda
+
+The agenda should be optimized for the participants, and prioritize discussion on strategic objectives and customer journey. Here are some points to consider when building the EBR agenda:
+
+- Highlight recent successes of your primary team and champions upfront in the call (e.g. during introductions)
+- The business objectives & goals portion should be the majority of the meeting and should begin as early in the conversation as possible
+- Avoid tactical conversation topics such as feature requests, support tickets, etc., as these can be discussed during cadence calls and are not strategic or relevant for the Economic Buyer
+- Be very selective of if you want to have a product update or overview. It's recommended to use the EBR to get buy-in on further product adoption that are most aligned with the customer's needs and using the opportunity to secure agreement on a follow up session. However, if a product overview during the EBR would help drive buy-in and ROI, ensure it is extremely relevant, succinct, and tied directly to their business objectives.
+- Define next steps that are both actionable and accountable, and ensure that any next steps that formed throughout the EBR itself are captured and shared with the customer afterwards
+
+### Semi-final internal review
+
+Several weeks before the EBR, the account team and other GitLab presenters meet to go over the content and plan for the EBR, and make revisions based on collective feedback. By this point the EBR's slide deck and talk track are mostly complete, and changes from this point forward are iterative. All presenters should come away from this meeting feeling confident in the EBR's readiness to be reviewed with customer contacts.
+
+This meeting can optionally include GitLab leaders that will be present, to get their feedback and align on the plan for [EBR delivery](#delivery).
+
+### Final review with customer
+
+Throughout the [development of the EBR](#planning--assembly) the CSM & account team collaborate with their customer contacts. Ahead of the [EBR delivery](#delivery) a final review of the EBR is conducted with the account team and customer contacts, to validate that the content & talk track is in line with expectations and properly structured.
+
+If any portion of the EBR is to be delivered by a person on the customer side, they should be present at this meeting and leave with alignment on this delivery.
+
+Only minor changes should happen at this stage, and the result of this meeting should be alignment between GitLab & the customer on how the EBR will be delivered.
+{: .alert .alert-warning}
+
+### Final internal review & prep
+
+All GitLab participants in the EBR meet for a final review of the EBR's content, talk track, and delivery plan. Ideally no changes are made at this phase, but any that are should be very minor and subsequently communicated to the customer contacts. All participants should come away with this meeting aligned on the following:
+
+- Each person's role during the EBR, including the specific sections they are responsible for presenting or speaking to, and the key points & goals for those sections
+- Overall goals for the EBR
+- Customer participants and their expectations
+
+Once this meeting is over, the EBR content is locked in and should not be changed.
+{: .alert .alert-gitlab-orange}
+
+### Send agenda & event details
+
+Before the actual [EBR delivery](#delivery), the CSM sends an email to all participants (both at GitLab and on the customer side) with details for the day of the EBR, including:
+
+- The agenda for the EBR
+- Logistical details (location, timing, etc.)
+- Additional relevant details (areas of focus for discussion, follow-on sessions planned for the day if applicable, etc.)
+
+This information is sent **no less than one week prior to the date of EBR delivery.**
+{: .alert .alert-danger}
+
+### Delivery
+
+The main event! This is the actual Executive Business Review presentation and discussion, where everyone comes together. During the EBR session, the CSM is responsible for leading the meeting. This means:
+
+- **Start with the agenda & introductions**: this should be brief, but take a few minutes to refresh on what the plan for the meeting is and who the participants are. Do not spend too much time on this though, so it doesn't eat into time for the rest of the EBR.
+- **Focus on customer objectives and perspective**: throughout the meeting, ask questions and open the discussion to customer personas to share their thoughts.
+- **Pace the meeting appropriately**: keep an eye on time and move the discussion along based on how the conversation is going. Don't rush the customer or cut off good discussion, but keep things moving at a comfortable pace.
+- **Hand off sections to the designated presenter**: know the plan well, and who is covering each section, in order to cleanly transition to each person & topic.
+
+The CSM should ensure that notes are taken throughout the meeting, and explicitly ask team members to aid in note-taking. If appropriate based on the EBR program, the CSM can ask one or more team members to act as primary note-takers. Notes do not have to be verbatim, but the more detailed the better. Key information to document includes customer insights, success criteria & metrics, strategic objectives, experiences with GitLab, Q&A, and any action items on both sides.
+
+A successful EBR results in a clear understanding of customer objectives (along with any available success criteria & metrics), and alignment on next steps to keep things moving forward following the EBR.
+
+#### Discussion guidance & questions
+
+Here are some questions that may be helpful to guide the conversation and discover business objectives:
+
+1. Tell us about your largest initiatives right now - where are you focused?
+1. As you look at the year ahead, what are your key 2-3 initiatives?
+  1. What has changed since last year?
+  1. What would you like things to look like in the next couple years - where do you want to be?
+1. On the security front, we see customers struggling with the triage process. When you have a security issue, what does the resolution process look like? Who is involved? 
+1. How do security vulnerabilities affect your cycle time?
+1. Can you spend some time on your overall cloud and app modernization strategy?
+1. What visibility or insights does your leadership have? How are you collecting this information today? 
+1. (If customer describes an objective with no metrics) Would you please describe what 'good' will look like for this initiative?  How are you thinking about/measuring progress against this effort? What are your success criteria?
+
+### Follow-ups
+
+After the EBR session is complete, there are steps to take on the takeaways from the session.
+
+#### Summary email
+
+Within 1 business day of the EBR, the CSM sends an email to all participants. In it, they will thank everyone for their participation and partnership, and summarize key takeaways & next steps, with timelines and persons responsible for each item. Attached to this message is a copy of the slide deck, and any other materials that were agreed on to be shared.
+
+#### Action items
+
+There will be several action items, follow-ups, and next steps defined both from the content prepared ahead of time and as a result of the discussion during the EBR. These are captured in the EBR slide deck, and in the notes taken collaboratively during the session.
+
+The CSM is responsible for ensuring that all follow-ups are completed by the person responsible for each item. These should be completed in a timely manner, as soon as possible after the EBR.
+
+Initial steps on follow-up items should be completed no more than one week following the EBR.
+{: .alert .alert-danger}
+
+### Success planning
+
+**No EBR is complete without updating the [success plan](/handbook/customer-success/csm/success-plans/).**
+
+Within a few days of the EBR, while the information is still fresh, the CSM updates the customer's [success plan](/handbook/customer-success/csm/success-plans/). The EBR will have generated a lot of new information that will drive our strategy and actions with the customer for the coming months. All sections of the success plan should be updated, and objectives created and/or updated based on the EBR discussion & takeaways.
+
+The CSM Manager will discuss the EBR with the CSM in their next 1:1 after the EBR, which will include reviewing the success plan.
+
+## EBRs in Gainsight
+
+_October 19, 2022: with the revised guidance on EBR timeline added to this page, the timing of when the EBR CTA in Gainsight is created is currently under discussion and may change to align with the information contained in this page. For details [please look at the issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1902) (GitLab internal only)._
+{: .alert .alert-info}
+
+A [CTA in Gainsight](/handbook/customer-success/csm/gainsight/#ctas) will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. In most cases the EBR process should have already started ahead of this CTA, particularly if we're delivering an EBR to a customer for the first time. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
+
+If you do not plan to conduct the EBR within a reasonable timeframe (discuss this with your manager, but typically within 30 days of the target timeframe) close the CTA with details added for why it's closed, and then open a new EBR CTA when you start working on it again.
+ 
+## EBR Enablement
 
 - A SAL/AE can be a great partner in positioning EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
     - [Deck](https://docs.google.com/presentation/d/1sWj5HJR4IxdOMg7GiuEjlS5GvFYzYdtLW3QsX6IsxCM/edit#slide=id.g20a53d489f_0_213) used in the recording (internal)
@@ -29,37 +273,15 @@ The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-m
 - Follow [this link](https://gitlab.edcast.com/pathways/CSM-executive-business-reviews) to access the EBR certification on EdCast.
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
-## How to bring up an EBR with your customers
+## Resources & materials
 
-To schedule the EBR, the [account team meeting](/handbook/customer-success/account-team/#account-team-meeting) is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
-
-During a cadence call, the CSM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#sample-ebr-emails) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
+- [EBR slide deck template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit?usp=sharing)
 
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR Fact Sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which CSMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
 
-### Scheduling and Attendee Challenges
+### Sample EBR proposal talk track
 
-Our goal with an Executive Business Review is to meet with a customer's senior leadership and decision makers to review their business objectives and priorities for their digital transformation. We should work with our main points of contact to schedule those personas to attend the EBR. However, if after two attempts to request an EBR with the decision makers and influencers the CSM is still unsuccessful, extend an upcoming cadence call to one hour and use this sesion to show the value of the EBR conversation. 
-
-This customer push-back is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
-
-#### EBR Length
-
-The ideal length for EBRs is 90 minutes, but this is not always realistic. For example, customers may not be able to commit to that much time, or it may be best for the CSM to have an EBR be shorter, both to ensure it is impactful and valuable but also to not overburden them.
-
-Please see below for some tips on how to shorten EBRs to 60, or even 30, minutes:
-
-- Highlight recent successes of your primary team and champions upfront in the call (e.g. during introductions), just in case you run out of time at the end.
-- No matter the length of the EBR, the business objectives & goals portion should be at least 75% of the call and should begin as early in the conversation as possible, as this is the reason we're here.
-  - To help break it up even further, consider 50% of the call to be focused on existing objectives (validation, review of progress, how GitLab will help achieve those goals, questions from both sides on those objectives, etc.), and 25% to be open-ended conversation on future or additional objectives not already discussed. Depending on your familiarity of the account, those percentages may be swapped, as you'll focus more time on learning about their objectives than discussing what you already know.
-- Avoid tactical conversation topics such as feature requests, support tickets, etc., as these can be discussed during cadence calls and are not strategic or relevant for the Economic Buyer.
-- Be very selective of if you want to have a product update or overview. It's recommended to use the EBR to get buy-in on further product adoption that are most aligned with the customer's needs and using the opportunity to secure agreement on a follow up session. However, if a product overview during the EBR would help drive buy-in and ROI, ensure it is extremely relevant, succinct, and tied directly to their business objectives.
-- As always, prepare your next steps to be both actionable and accountable, and ensure that any next steps that formed throughout the EBR itself are captured and shared with the customer afterwards.
-- If you only have 30 minutes, forgo the slides and presentation, but still come prepared with everything that would have been in the slides documented in a clear format that can be shared with the customer afterwards.
-
-### Sample EBR request talk-track
-
-*As we are halfway through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
+*As we are reaching the halfway point through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
 
 1. *Amplify your accomplishments*
 1. *Show the progress against your key initiatives that you and the team have made*
@@ -67,141 +289,14 @@ Please see below for some tips on how to shorten EBRs to 60, or even 30, minutes
 
 *We'd like to invite xxx (influencers, decision-makers) to join also, and we'll have some of our leadership team join.  Would you suggest that my leadership or I reach out to them directly, or what is the best way to get time on everyone's calendar?*
 
-### Sample EBR Emails
+### Tips for shortening an EBR
 
-#### Initiated by the CSM
+Depending on the available time & delivery method of your EBR, you may need to shorten the program. Here are some tips for doing that:
 
-The following is an example for a CSM sending the email if not broached on a call. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
-
-*Hello (Name)*
-
-*I am reaching out to determine the best date and time for our bi-annual strategic review. As a reminder on the purpose of these meetings, we look to cover the following:*
-
-1. *Review our combined progress on delivering to your goals and business outcomes*
-
-2. *Collect and discuss future goals and desired success measures*
-
-3. *Discuss product use cases of interest and/or future roadmap items*
-
-4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
-
-*We'd like to invite xxx (influencers, decision makers) to join, and we'll have some of our leadership team join as well.  Would you suggest that I or my leadership reach out to them directly, or what is the best way to get time on everyone's calendar?*
-
-*The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
-
-##### Email templates by region
-
-These can be used as a starting point to send an EBR proposal to customers, and for ease of use and fast updating, they are available in Google Docs:
-
-1. [DACH/Germany](https://docs.google.com/document/d/1b_c_UYrZBFyegDZN_fmYcMraQ9NHdrsIndSkPMp0X_Y/edit) (GitLab internal)
-
-#### Initiated by GitLab leadership
-
-The following is an example for when a GitLab senior leader or executive sends the email. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
-
-*Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
-
-*(Insert CSM name), your CSM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at (Customer Name).  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:*
-
-1. *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
-1. *Collect and discuss future goals and desired success measures*
-1. *Discuss product use cases of interest and/or future roadmap items*
-1. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
-
-*Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take 60-90 minutes.*
-
-*Please let me know if you have any questions.*
-
-## EBRs in Gainsight
-
-A [CTA in Gainsight](/handbook/customer-success/csm/gainsight/#ctas) will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
-
-If an account is newly CSM-qualifying and you receive a CTA to hold an EBR, use the snooze CTA functionality to push out the date to when you think will be good timing for an EBR.
-
-If no progress has been made on the CTA (no tasks have been completed) and there are less than 2 months before renewal, the CTA will be closed automatically. Alternatively, if you do not plan to hold the EBR within the next quarter, please close the CTA, chosing the appropriate close reason and including additional context in the CTA details.
-
-## How to prepare an EBR
-
-### Content
-
-EBRs typically consists of the following content:
-
-1. Introductions to key team members/those present for the EBR
-    - This should be a brief roundtable for everyone to say their name & role for easy recognition throughout the call
-1. Overview/Update on GitLab
-    - This is often especially valuable for the Economic Buyer in order to understand the full capabilities of GitLab
-1. Reiteration of the customer's goals and desired positive business outcomes as we understand them
-    - Address each of the customer's objectives in their success plan, including the status, work left to do, and how we'll measure success
-    - Prepare several probing impact questions related to each objective to get the conversation going
-1. Review of progress made against these goals and desired outcomes
-    - Direct reference to any desired outcomes/agreed goals from previous EBRs and updates against these specifically
-1. Aligning with the key decision makers on their strategic vision
-    - What goals do they have that we did not discuss? Are any of the goals we discussed not a priority for them?
-1. Recommendations & Next Steps
-
-Also to be considered:
-
-1. Product Roadmap (focus on 1-2 specific categories important to them and loop in the Product team accordingly)
-1. Year in Review (more usage focused, see below)
-1. Support Review (how many tickets at what priority, SLAs, etc.)
-1. [Delivered Enhancements](/handbook/customer-success/csm/issue-prioritization/#executive-business-reviews) (highlight released feature requests that were important to them, velocity of releasing feature requests, etc.)
-
-[Usage ping](https://docs.gitlab.com/ee/development/usage_ping/) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/usage_ping/#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history. Please note usage ping only goes back 6 months, so it's worthwhile to keep old data for comparison in future EBRs.
-
-### Before the call
-
-Besides creating the deck, there are a few other items to consider to ensure your EBR will go as smoothly as possible.
-
-1. It is highly encouraged to review and even build your deck with your champions to protect you and the customer from surprises. This co-creation process builds trust and creates a much more impactful EBR through collaboration. The collaboration enables the champion to add their major topics and contribute to the goals-based content as they will always be much closer to their objectives and outcomes.
-1. Create a dedicated SLACK thread in the specific internal customer channel with the GitLab team members attending 1hr before the EBR, to share the deck, call notes draft and remind them that taking notes is critical to capture the customer input / goals / key topics. 
-1. Ask someone else who will be on the call (e.g. your manager) to take notes and create a Google doc for notes in the customer folder. Having a dedicated notetaker ensures that you're able to effectively lead the conversation as well as focus on your content instead of switching between windows.
-1. There are usually specific product areas that customers have special interest in, and having the Product Manager for that area on the call can be incredibly valuable. Once you've scheduled the EBR and determined which PM would be most appropriate, reach out to the PM to ask if they are available and willing to join the presentation with an overview of recently delivered product functionality, as well as what features will be coming within the next year. Also set expectations for the time commitment expected from them; for example, 15 or 30 minutes at the end of the EBR. Once you've confirmed their availability, add them to the calendar invite and share your deck with them and add a dedicated section of the deck for them to add slides to. Make sure you follow up 48 hours in advance of the EBR if they haven't added their content.
-1. If you want a GitLab VP to participate in the EBR, follow the instructions on [VP scheduling](/handbook/eba/vp-scheduling/).
-
-### Impact Questions
-
-This is a list of example impact questions the CSM can use throughout the EBR to dig deeper into the customer's objectives and strategy.
-
-1. Tell us about your largest initiatives right now? Where are you focused?
-1. Can you spend some time on your overall cloud and app modernization strategy?
-1. As you look at the year ahead, what are your key 2-3 initiatives?
-  1. What has changed since last year?
-  1. What would you like things to look like in the next couple years - where do you want to be?
-1. On the security front, we see customers struggling with the triage process. When you have a security issue, what does the resolution process look like? Who is involved? 
-1. How do security vulnerabilities affect your cycle time?
-1. What visibility or insights does your leadership have? How are you collecting this information today? 
-1. (If customer describes an objective with no metrics) Would you please describe what 'good' will look like for this initiative?  How are you thinking about/measuring progress against this effort? 
-
-
-
-### EBR Examples & Template
-
-To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
-
-There are also several examples EBR decks and past recordings linked in the [Chorus Playlist](https://chorus.ai/playlists/741604) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for CSMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
-
-### EBR Tips / Learnings 
-
-The following tips / learnings should further help CSMs when planning, executing EBRs with their customers.
-
-1. Try to plan multiple EBRs in a short timeframe like 6 in a single quarter. This constant focus on the EBRs will help you to:
-     - Grow your confidence in preparing and most of all executing EBRs.
-     - Build your perfect EBR templates (deck, emails, issue in collaboration project), specifically for your region / language.
-     - Find your personal messaging & flow within the deck/slides, which makes the EBR feel even more personal/partnership like for the customer.
-1. When moderating and executing an EBR, simply keep the focus on forward looking discussions (90%), (10% retrospective). 
-     - Let the customer and their team speak as much as possible. This is driving the discussions which you want to have in an EBR.
-1. After the EBR is over, immediately try to set up a quick 10min Zoom call with the GitLab Team members who joined the EBR to:
-     - Ask for feedback on what went well and what can be improved in next EBR. Document this in the notes for later reference.
-     - Align on the key topics, which have been communicated / discussed with the customer. 
-1. Record the EBR via Zoom. Make sure you ask the audience / customer for their permission before starting to record. 
-     - In your gdoc notes document, add a marker / agenda point at the top, to ask for permission to record. 
-     - Having all of the EBRs recorded as video, makes it a breeze to review yourself in a quiet part of the day and further iterate on things which you can do better the next time.
-1. Communicate the ask for an EBR as early as possible. 
-     - Expect that the date will slip by several weeks, as management attendance is hard to coordinate.
-1. Even when you prepared the EBR and scheduled it:
-     - Expect that it gets cancelled again. This is normal, and all your hard work was still worth it. You will be able to leverage the learnings sooner than you think
- 
-
-
-
-
+- Highlight recent successes of your primary team and champions upfront in the call (e.g. during introductions), just in case you run out of time at the end.
+- No matter the length of the EBR, the business objectives & goals portion should be at least 75% of the call and should begin as early in the conversation as possible, as this is the reason we're here.
+- To help break it up even further, consider 50% of the call to be focused on existing objectives (validation, review of progress, how GitLab will help achieve those goals, questions from both sides on those objectives, etc.), and 25% to be open-ended conversation on future or additional objectives not already discussed. Depending on your familiarity of the account, those percentages may be swapped, as you'll focus more time on learning about their objectives than discussing what you already know.
+- Avoid tactical conversation topics such as feature requests, support tickets, etc., as these can be discussed during cadence calls and are not strategic or relevant for the Economic Buyer.
+- Be very selective of if you want to have a product update or overview. It's recommended to use the EBR to get buy-in on further product adoption that are most aligned with the customer's needs and using the opportunity to secure agreement on a follow up session. However, if a product overview during the EBR would help drive buy-in and ROI, ensure it is extremely relevant, succinct, and tied directly to their business objectives.
+- As always, prepare your next steps to be both actionable and accountable, and ensure that any next steps that formed throughout the EBR itself are captured and shared with the customer afterwards.
+- If you only have 30 minutes, forgo the slides and presentation, but still come prepared with everything that would have been in the slides documented in a clear format that can be shared with the customer afterwards.
