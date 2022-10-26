@@ -30,7 +30,7 @@ Every benchmarking study has a similar 'skeleton' - the basic elements one needs
 - Timeline: Planning, conducting, and analyzing a benchmarking study takes time. Creating a timeline for yourself and your stakeholders keeps the study on track and keeps your team informed.
 
 ## Planning for a benchmarking study
-When leading a benchmarking study, you will need to coordinate with several stakeholders including the Product Manager (PM) and Product Designer (PD) to ensure that everyone agrees upon the study protocol, tasks, metrics, and timeline.
+When leading a benchmarking study, you will need to coordinate with several stakeholders including the Product Manager (PM) and Product Designer (PD) to ensure that everyone agrees upon the study protocol, tasks, metrics, and timeline. As with any UX research project that you're driving, don't forget to share the test plan with the UX Research team for a [peer review](/handbook/product/ux/ux-research-training/how-uxr-team-operates/#how-ux-researcher-conduct-peer-reviews). 
 
 The early planning stages are crucial for setting the rest of your study up for success. In order to maximize the first few weeks of study planning, communicate with your stakeholders on how they would prefer to provide feedback. If you are getting feedback async, make sure to provide firm deadlines that are non-negotiable. In cases where those deadlines are not being met, try pivoting to sync communication such as a scheduled meeting to help stay on the research timeline.
 
