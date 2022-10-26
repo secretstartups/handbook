@@ -116,19 +116,15 @@ Grammarly browser extensions are discouraged, Grammarly will have access to ever
 ### LanguageTool
 
 As an alternative to [Grammarly](#grammarly), we can combine LanguageTool in the browser
-with a LanguageTool server [run locally with Docker](https://github.com/languagetool-org/languagetool#docker).
+with a local LanguageTool server .
 This ensures that spell and grammar checking remains both convenient and confidential:
 
 1. Install the [LanguageTool browser extension](https://www.languagetool.org/#firefox_chrome).
-1. Install [docker engine](/handbook/tools-and-tips/mac/#docker-desktop)
-1. Follow the setup instructions at [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool).
+1. Either install [LanguageTool as a Homebrew service](https://formulae.brew.sh/formula/languagetool),
+   or install [a Docker engine](/handbook/tools-and-tips/mac/#docker-desktop)
+   and follow the setup instructions of any
+   [LanguageTool Docker image provider](https://github.com/languagetool-org/languagetool#docker).
 1. Configure the browser extension under `Experimental settings > Local server`.
-
-Note: The instructions on GitHub have some extra things you won't need. Really, all you need to do is open Terminal and run 
-
-`docker pull erikvl87/languagetool` 
-
-`docker run -d --restart unless-stopped -p 8010:8010 erikvl87/languagetool`
 
 ### Simplenote
 
