@@ -57,7 +57,7 @@ Before creating a panel, you will need to establish a Panel DRI. This person is 
 To create a panel, follow the steps below. If you have any questions, please contact a UX Research Operations Coordinator to assist you.
 
 1. **Determine panelist criteria**
- - Review this link for information on how to assist in selecting criteria to identify participants.
+ - Review this [link](/handbook/product/ux/ux-research-training/recruiting-participants/#identify-your-target-audience) for information on how to assist in selecting criteria to identify participants.
  - Who does this: Research project DRI
 2. **Set a timeline for how long you plan to maintain and use the panel**
 - The longer a panel runs, the higher the likelihood of overusing the same participants increases. 
