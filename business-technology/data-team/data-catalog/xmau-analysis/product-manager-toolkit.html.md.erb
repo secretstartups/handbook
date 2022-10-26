@@ -65,13 +65,17 @@ current reporting period is _excluded_ in order to avoid including incomplete da
 
 `[td_xmau(user_segment, xmau_type, filter, target, estimation_grain)]`
 
-The `[td_xmau]` snippet allows you to:
+The `[td_xmau]` snippet includes both recorded and estimated usage. It allows you to:
 
 * [Create a standard xMAU chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0) 
 (what is embedded in the handbook)
 * [Break down estimated xMAU by edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations)
 * [Break down estimated xMAU by product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
 * [Create a chart with estimated usage for any PI](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10787341&udv=0)
+
+This is the only snippet that includes estimated usage. All other snippets are limited to 
+recorded data.
+{: .alert .alert-info}
 
 **Usage**
 
@@ -223,11 +227,12 @@ The `[td_xmau_metrics_weekly_recorded_metric_value_with_total]` snippet requires
 `[td_xmau_metrics_instance_count(metrics_path)]`
 
 The snippet `[td_xmau_metrics_instance_count]` shows you how many instances have used your 
-feature (returned a `metric_value > 0`) in a given month. This count is broken out by:
+feature (returned a `metric_value > 0`) in a given month. This snippet does not include any 
+estimations, just recorded data. The count is broken out by:
 
-* ping_delivery_type (always `'Self-Managed'` in this snippet)
+* ping_delivery_type (always `Self-Managed` in this snippet)
 * ping_edition
-* ping_product_tier 
+* ping_product_tier
 
 **Usage**
 
@@ -248,6 +253,7 @@ The snippet `[td_xmau_metrics_instance_adoption]` can be used to find out instan
 adoption of your features. It provides you the count and share of instances reporting 
 `metric_value > 0` for a specific Service Ping metric. It is effectively the same as the 
 `td_xmau_metrics_instance_count` snippet, but it allows you to specify how you group the data.
+This snippet does not include any estimations, just recorded data. 
 
 **Usage**
 
@@ -286,6 +292,8 @@ That means either it is a new instance, or it just upgraded from an older versio
 have the counter
 1. No data received: An instance stopped reporting (it could be because of expiring 
 subscription, churn, or disabling of Service Ping)
+
+This snippet does not include any estimations, just recorded data. 
 
 **Usage**
 
@@ -432,6 +440,13 @@ WHERE mau_value > 0
   AND stage_name = 'All'
 GROUP BY 1
  ```
+
+#### Interpreting product_tier/ping_product_tier
+
+Currently in our data models, we use the value `Core` to represent installations on the free tier.
+To help align with how we [define and talk about product tiers](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview) 
+at GitLab, we have [an issue](https://gitlab.com/gitlab-data/analytics/-/issues/14535) to update 
+the logic and use `Free` instead.
 
 <!--- TO DO - update this section once these snippets are refactored
 
