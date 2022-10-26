@@ -178,7 +178,7 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Group (PROVE) | Measure | Description | Method | Calculation | Measure Weight | Group Weighting | Segmentation |
 |---|---|---|---|---|---|---|---|
-| **Product** |  | Scores the customer based on their depth and breadth of adoption, if Operational Metrics are available | Automatic | [See Customer Use Case Adoption](https://rgorbanescu-master-patch-65934.about.gitlab-review.app/handbook/customer-success/product-usage-data/use-case-adoption/) |  | 25% |  |
+| **Product** |  | Scores the customer based on their depth and breadth of adoption, if Operational Metrics are available | Automatic | [See Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) |  | 25% |  |
 |  | License utilization |  |  |  | 40% |  | All |
 |  | SCM adoption |  |  |  | 15% |  | All |
 |  | CI adoption |  |  |  | 15% |  | All |
