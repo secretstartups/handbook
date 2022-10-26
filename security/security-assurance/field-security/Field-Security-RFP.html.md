@@ -14,11 +14,19 @@ title: "RFP Process - Field Security"
 
 The Field Security Team has created a process to assist and simplify the RFP process for the Field Teams. We will utilize our [current submission process](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) and our tool [Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html) (by OneTrust) to collaborate cross-departmentally with the required SME's and expedite completion. 
 
+_For any Legal RFP documents including but not limited to_:
+- Contractual Agreements
+- Custom Master Subscription Agreemtns
+- Terms of Contract
+- Documents requiring signatures
+
+Please open a [legal case](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template) in **Salesforce** and include the relevant documents in the case. A team member from [Commercial Legal](https://about.gitlab.com/handbook/legal/commercial/) will review them. 
+
 ## What We Can't Do
 
 There are parts of the RFP process that fall outside of Field Security's scope. _We cannot write the proposals or provide the following: product or service specifications, implementation schedule, and plans; training or support specifications and terms; information surrounding GitLab's ability to provide the appropriate resources; other GitLab customers' experiences; and anything related to costs, values, pricing, payments, etc._
 
-What _we can do_ is respond to requests relating to security and facilitate other SME's responses to areas such as People/HR, Finance, Privacy, etc. 
+What _we can do_ is respond to requests relating to security and facilitate other SME's responses to areas such as People/HR, Finance, Privacy, Commercial Legal, etc. 
 
 
 ## Helpful resources
