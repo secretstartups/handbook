@@ -24,10 +24,8 @@ The Business Technology Engineering team focuses on three primary competencies:
 ### Engineering Team
 
 | Name                                                                        | Role                              | Focus Areas (Specialties)                                    |
-|-----------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------|
-| [Daniel Parker](https://about.gitlab.com/company/team/#dparker)             | Senior Integrations Engineer      | Enterprise Applications and Integrations                     |
+|-----------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------|                    
 | [Karuna Singh](https://about.gitlab.com/company/team/#Karuna16)             | Integrations Engineer             | Enterprise Applications and Integrations                     |
-| [Dominic Roy-Stang](https://about.gitlab.com/company/team/#droystang)       | Integrations Engineer             | Enterprise Applications and Integrations                     |
 | [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)       | Senior IT Systems Engineer        | Access Manager, Infrastructure, Demo Systems, Training Labs  |
 | [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler)      | IT Systems Engineer               | Access Manager, Infrastructure, Operations                   |
 | [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker)         | Senior IT Systems Engineer        | Okta Integrations, Operations                                |
@@ -37,10 +35,9 @@ The Business Technology Engineering team focuses on three primary competencies:
 
 | Name                                                                  | Role                                     | Business Engagement Focus Areas                                     |
 |-----------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|
-| [Bryan Wise](https://about.gitlab.com/company/team/#bryanwise)        | VP, Business Technology                  | VP+ level requests, new programs, infrastructure managed services   |
-| [Christopher Nelson](https://about.gitlab.com/company/team/#ccnelson) | Senior Director, Enterprise Applications | Enterprise Applications and Integrations Engineering                |
+| [Craig Mestel](https://about.gitlab.com/company/team/#cmestel)        | VP, Finance and Business Technology                  | VP+ level requests, new programs, infrastructure managed services   |
 | [Rob Rea](https://about.gitlab.com/company/team/#rrea1)              | Senior Director, IT Operations           | Security, Tech Stack Vendors, Compliance, Helpdesk, etc.                                                                 |
-| [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)        | Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering       |
+| [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)        | Senior Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering       |
 
 ## How We Work
 
