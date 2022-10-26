@@ -41,14 +41,9 @@ Managing a [variety of tools](https://about.gitlab.com/handbook/security/securit
 * High-Level quality oversight
 * etc.
 
-<<<<<<< HEAD
-We will assist in managing and providing guidance to carry out day to day activities related to the core competencies of all [compliance activities within ZenGRC](https://about.gitlab.com/handbook/engineering/security/security-assurance/zg-activities.html) such as Control Testing, UARs, Vendor Reviews and Risk Assessments to automate, integrate and streamline business processes to increase GitLab's Information Security Program maturity and deliver measurable ROI.
 
-### [Security Assurance automation](/handbook/engineering/security/security-assurance/governance/security-assurance-automation.html)
-Creating, maintaining, and enhancing automated processes and controls across the Security Assurance sub-department. The shift from manual processes to automated processes reduces overhead and allows us to scale Security Assurance in a more efficient and effective way.
-=======
 We will assist in managing and providing guidance to carry out day to day activities related to the core competencies of all [compliance activities within ZenGRC](https://about.gitlab.com/handbook/security/security-assurance/zg-activities.html) such as Control Testing, UARs, Vendor Reviews and Risk Assessments to automate, integrate and streamline business processes to increase GitLab's Information Security Program maturity and deliver measurable ROI. 
->>>>>>> 5cd81b4a62d (Bulk update security links)
+
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>Metrics and Measures of Success
 
