@@ -31,6 +31,10 @@ graph TD
 
 Any member of the AppSec or Federal AppSec team is eligible to perform a security review of a JiHu contribution.
 
+### When to request a review
+
+An automated comment pings the AppSec team after the MR receives its first approval. Team members do not need to manually @-mention AppSec.
+
 ### Determining who will perform a security review of a JiHu contribution
 
 When the AppSec team is pinged on a JiHu contribution, it will typically be first seen by
@@ -45,13 +49,11 @@ the AppSec engineer on [Triage (mentions and issues) Rotation](/handbook/securit
 
 When performing the security review of a JiHu contribution, the reviewer needs to:
 
-1. [Add themselves as a reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#reviewer)
 1. Perform a security review of the merge request
     * Make any comments or ask any clarifications necessary to complete the review
     * Look to make sure that the code does not introduce any new vulnerabilities
 1. If the merge request looks acceptable:
-    * Apply the `sec-planning::complete` label
-    * Click the 'Approve' button on the merge request
+    * Make a comment that uses the `/approve` quick action
     * Approval will be confirmed with an [automated approval comment](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906357637)
 1. If the merge request does not look acceptable at this time, and/or introduces new vulnerabilities, and/or the AppSec team is waiting on answers from the engineer:
     * Apply the `sec-planning::pending followup` label
@@ -63,6 +65,6 @@ When performing the security review of a JiHu contribution, the reviewer needs t
 AppSec approvals are revoked when subsequent changes are added to the merge requests and requires a re-review from AppSec before merging. The process is as follows:
 
 1. `~sec-planning::complete` will be revoked when the MR is updated (additional commits or rebase) and the original AppSec approver will have a [request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to re-review and approve.
-1. Use the [suggested quick action](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to approve after re-reviewing.
+1. Use the [suggested quick action](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to unapprove and re-approve after re-reviewing.
 
 Merging of `gitlab-org/gitlab` `~JiHu contribution` MRs is blocked if the `~sec-planning::complete` label is missing from the merge request, since the `verify-approvals` job will fail.
