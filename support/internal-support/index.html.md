@@ -123,7 +123,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
 | **Self-Managed License Related (for paid customers only)** | |
 | Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
-| Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.|
+| Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.<br> Please [check for Proof of Delivery](#obtaining-proof-of-delivery-for-a-subscription) prior to filing this request|
 | Customer needs the license resent to a new person | Use this to request sending a license to a different user. Please note we cannot send licenses to anyone other than the account owner. To send it to someone else, please ask the customer to file a ticket so we can go through the contact change process. An exemption can be made for a temporary license. |
 | Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed.
 | Self-managed NFR license request | Use this for Self-Managed NFR license generation |
@@ -144,6 +144,10 @@ Please consider the following:
 
 1. To extend a trial, a previous trial needs to exist for the customer. If no trial was created at any point, a trial should be created by the customer the day after the plan expires.
 1. We can provide grace period extensions as long as the current plan is not ongoing. In other words, if the plan expires on the 15th, we can increase the grace period starting the next day (16th). Please plan accordingly.
+
+#### Obtaining Proof of Delivery for a Subscription
+
+An artifact of the email sent to the customer is automatically created under the account activity history in SFDC when a subscription is created. The subject line will begin with `[GitLab Transactions]`.
 
 ### US Federal Internal Requests
 
