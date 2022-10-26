@@ -54,12 +54,9 @@ The confidence of my peers and the GitLab community that I will always serve the
 
 ## Communicating with me
 
-By the time I sit in front of my desk, you can DM me at @mmora on Slack or through any channel, I'll gladly reply back as soon as I can. 
+* By the time I sit in front of my desk, you can DM me at @mmora on Slack or through any channel, I'll gladly reply back as soon as I can.
+* I love to chat and will enjoy talking to you through messaging or a call whenever is required. Feel free to set up a coffee chat or just ping so that we can talk or just say "hello".
 
 ## Strengths/Weaknesses
 
 I try to be methodic in every area of my life which I believe it to be a good thing since it helps me to be organized and gives me a perception of the progress that I had made through the day, sometimes however this could create certain "stiffness" which could make me overlook special details in a particular situation.
-
-## Communicating with me
-
-I love to chat and will enjoy talking to you through messaging or a call whenever is required. Feel free to set up a coffee chat or just ping so that we can talk or just say "hello".
