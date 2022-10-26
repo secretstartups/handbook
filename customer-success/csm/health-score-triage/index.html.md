@@ -90,7 +90,12 @@ There might be well understood reasons within the account team why a customer is
 Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer.
 Examples:
 
-- Lack of alignment with stakeholders who can drive desired outcomes
+- Lack of alignment with stakeholders who can drive outcomes... 
+   - [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) 
+   - [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
+   - Key [Personas](https://about.gitlab.com/handbook/product/personas/) 
+      - [Cameron (Compliance Manager)](https://about.gitlab.com/handbook/product/personas/#cameron-compliance-manager)
+      - [Delaney (Development Team Lead)](https://about.gitlab.com/handbook/product/personas/#delaney-development-team-lead)
 - Product does not deliver expected value or outcomes as defined by success plan
 - No or low product adoption with no progression
 - Communication of poor sentiment
