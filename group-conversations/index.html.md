@@ -357,7 +357,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday October 27 | **Available** | **Available** | Key Review Date? |
 | Tuesday November 1 | IT | Craig Mestel | October 20 |
 | Wednesday November 2 | Remote Development | Eric Schurter | N/A |
-| Thursday November 3 | Security | Johnathan Hunt | October 25 |
+| Thursday November 3 | Security | Robin Schulman | October 25 |
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
 | Thursday November 10 | Product | Product Leadership | October 13 |
@@ -368,12 +368,12 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday November 23 | **Available** | | Key Review Date? |
 | Thursday November 24 | **Available** | | Key Review Date? |
 | Wednesday November 30 | People | People Leadership | Nov 10 |
-| Tuesday December 6 | Development | Christopher Lefelhocz | November 23 |
+| Tuesday December 6 | Development | Christopher Lefelhocz | November 17 |
 | Wednesday December 7 | **Available** | | Key Review Date? |
 | Thursday December 8 | Finance| Brian Robins | November 23 |
-| Tuesday December 13 | Quality | Mek Stittri | December 1 |
+| Tuesday December 13 | General (CEO) | Sid Sijbrandij | N/A  |
 | Wednesday December 14 | Product | Product Leadership | TBD |
-| Thursday December 15 | **Available** | | Key Review Date? |
+| Thursday December 15 | Quality | Mek Stittri | December 1 |
 | Tuesday December 20 | Infrastructure | Steve Loyd | December 8 |
 | Wednesday December 21 | Support | Tom Cooney | December 7 |
 | Thursday December 22 | **Available** | | Key Review Date? |
