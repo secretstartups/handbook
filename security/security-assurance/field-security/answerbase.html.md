@@ -37,9 +37,9 @@ This video will show you how easy it is to access and use AnswerBase!
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="320" height="240">
-    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.mp4/" type="video/mp4">
-    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.ogg/" type="video/ogg">
-    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.webm/" type="video/webm">
+    <source src="AnswerBase Training Video - Final.mp4" type="video/mp4">
+    <source src="AnswerBase Training Video - Final.ogg" type="video/ogg">
+    <source src="AnswerBase Training Video - Final.webm" type="video/webm">
   </video>
 </figure>
 
