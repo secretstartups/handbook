@@ -194,19 +194,6 @@ To request access to Bizible or Allocadia, [please follow the access request pro
 
 If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
 
-## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
-
-| **GL Code** | **Account Name** | Purpose |
-| ------- | ------------ | ------- |
-| 6060 | Software Subscriptions | All software subscriptions |
-| 6100 | Marketing | Reserved for Marketing GL accounts |
-| 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
-| 6120 | Advertising | All media buying costs as well as agency fees and software subscriptions related to media buying |
-| 6130 | Events | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
-| 6135 | Swag | Any swag related expense |
-| 6140 | Email | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation |
-| 6150 | Brand | All PR, AR, content, swag and branding costs |
-| 6160 | Prospecting | Not used - All costs related to prospecting efforts |
 
 ## Campaigns and Programs
 
