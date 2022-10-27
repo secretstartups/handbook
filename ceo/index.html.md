@@ -176,7 +176,7 @@ The email should only be the body. Greetings and niceties are handled by the EBA
 
 ## Meeting request requirements
 
-For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/).
+For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/). Please do not use Zoom waiting rooms for meetings scheduled with me or on my behalf. If attendees are joining separate sections of a meeting, you can break the session into multiple Zoom calls or have a Slack channel to manage attendee entrances and exits.
 
 ## CEO Meeting Cadence
 
