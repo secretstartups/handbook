@@ -1,10 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab AnswerBase
-description: >-
-  GitLab AnswerBase is an internal only database of curated security and privacy
-  relevant question and answer pairs maintained by the Field Security
-  Team.
+title: AnswerBase
 ---
 
 ## On this page
@@ -12,32 +8,55 @@ description: >-
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-[GitLab Handbook](/handbook/)>[GitLab Handbook: Engineering](/handbook/engineering/)>[GitLab Handbook: Security Department](/handbook/security)>[GitLab Handbook: Security Assurance](/handbook/security/#assure-the-customer---the-security-assurance-sub-department)>[GitLab Handbook: Field Security](/handbook/security/security-assurance/field-security/)
 
-## GitLab AnswerBase
+## What is AnswerBase?
 
-[GitLab AnswerBase](https://gitlab.com/gitlab-private/gl-security/security-assurance/risk-field-security-team/security-standard-answers-rfp/-/issues?scope=all&state=all&label_name[]=FY22Q2) is a set of curated security, risk, and privacy relevant question and answer pairs maintained by the Field Security Team. In the spirit of [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) and [collaboration](https://about.gitlab.com/handbook/values/#collaboration), this tool is designed to increase speed and efficiencies when completing [Customer Security Assessments](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) and ultimately reduce the time to complete sales activities. 
+AnswerBase is an internal only library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. AnswerBase is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. AnswerBase is designed to serve both Field Security and all other team members.
 
-### Access and Instructions
+## How can I use AnswerBase?
 
-- [GitLab AnswerBase](https://gitlab.com/gitlab-private/gl-security/security-assurance/risk-field-security-team/security-standard-answers-rfp/-/issues?scope=all&state=all&label_name[]=FY22Q2) is accessible to GitLab Team members only at this time.
-- Each issue represents a unique question and answer. Some issues may have multiple questions that are phrased differently but are asking the same thing. This is done to reduce the number of issues and aid in searchability. 
-- Issues are labeled and categorized in alignment with [GitLab's Control Framework](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html). For ease of searching, labels can be used to filter issues by the Control Framework section. 
-- Issues are labeled to distinguish questions that are applicable to SaaS or Self-Managed and questions that might require an NDA.
-- Issues may be labeled with a Compliance questionnaire reference, such as ~CAIQ or ~SIG. These questions support GitLab's [CSA's CAIQ questionnaire](https://cloudsecurityalliance.org/star/registry/gitlab/) and GitLab's Standardized Information Gathering (SIG) questionnaire.
+You can use AnswerBase in a manner similar to any other digital or physical library, **to answer questions and conduct research.** 
 
-### Maintenance and Improvements
-- Quarterly, the Field Security team will conduct a quality audit of approximately 25% of the issues (for a total of 100% in a 1 year period) and update content as necessary. A quarter-specific label will be added (example: ~FY22Q1) indicating the last time it was audited. 
-- The Field Security Team continuously sources new questions to add to AnswerBase with a goal of 20 new questions per quarter. Generally speaking, any question that is not readily answered within AnswerBase will be added within 14 days of being posed. Questions can be posed via the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel or by opening a new issue within the AnswerBase project. 
+AnswerBase is a self-service tool that enables you to quickly search for keywords related to topics of interest from our prospects and customers. Your searches will produce a list of question and answer pairs that closely match your keywords, providing you with the information you need to confidently respond to prospects and customers.
+
+### What are some use cases for AnswerBase?
+
+* Preparing talking points for a prospect or customer meeting
+* Responding to an email from a prospect or customer; and
+* Learning more about the GitLab solutions and how we operate internally at GitLab, Inc.
+
+### How does Field Security use AnswerBase?
+
+* To increase our efficiency and effectiveness when executing [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
+
+## How can I access AnswerBase?
+
+AnswerBase is powered by our third party tool, OneTrust [Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html). Vendorpedia has been added as a baseline entitlement, so all team members will receive access to AnswerBase.
+
+This video will show you how easy it is to access and use AnswerBase!
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="320" height="240">
+    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.mp4/" type="video/mp4">
+    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.ogg/" type="video/ogg">
+    <source src="/sites/handbook/source/handbook/security/security-assurance/field-security/AnswerBase%20Training%20Video%20-%20Final.webm/" type="video/webm">
+  </video>
+</figure>
+
+## Maintenance and Improvements
+
+AnswerBase is a living library that is continuously being updated and expanded. As Field Security completes questionnaires within Vendorpedia, the AnswerBase libraries are updated with current and accurate answers. Field Security updates the structure and tagging within AnswerBase in an ad-hoc manner to ensure AnswerBase remains an easy to navigate and effective self-service tool for all team members.
+
+If you have suggestions for improvements, please reach out to Field Security via any of the contact methods listed below.
 
 ## Contact the Field Security Team
+
 * Email
    * `fieldsecurity@gitlab.com`
 * Slack
-   * Feel free to tag is with `@field-security`
-   * The `#sec-fieldsecurity`, `#sec-assurance`, `#security-department` slack channels are the best place for questions relating to our team (please add the above tag)
-* [GitLab field security project](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/risk-field-security/)
+   * Feel free to tag us with `@field-security`
+   * The `#sec-fieldsecurity`, `#sec-assurance`, `#security-department` slack channels are the best place for questions relating to Field Security (please add the above tag).
 
 <div class="flex-row" markdown="0" style="height:40px">
     <a href="https://about.gitlab.com/handbook/security/security-assurance/field-security/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Field Security Homepage</a>
-</div> 
+</div>
