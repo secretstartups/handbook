@@ -64,7 +64,7 @@ ownership change:
 
 **NOTE:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
-Please consider using the [Change Customers Portal Contact](https://gitlab.zendesk.com/agent/admin/macros/360028045239) macro to ask for this information. Be sure to copy the existing CustomersDot contact on the reply.
+Please consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro to ask for this information. Be sure to copy the existing CustomersDot contact on the reply.
 
 ### Add subscription management contact
 
