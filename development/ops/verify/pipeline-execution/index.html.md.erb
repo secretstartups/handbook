@@ -22,7 +22,7 @@ vision](/direction/verify/). This team is responsible for delivering on the foll
 ## Mission
 
 The Verify:Pipeline Execution Group is focused on supporting the functionality with respect to
-Continuous Integration [use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/). A key focus for the PE group is delivering features that achieve the outcome we track in our performance indicator.
+Continuous Integration [use case](/handbook/marketing/strategic-marketing/usecase-gtm/ci/). A key focus for the PE group is delivering features that achieve the outcome we track in our performance indicator.
 
 This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
@@ -62,7 +62,7 @@ The following people are permanent members of the Verify:Pipeline Execution grou
 
 ## Stable Counterparts
 
-To find our stable counterparts, look at the Pipeline Execution [product category listing](https://about.gitlab.com/handbook/product/categories/#pipeline-execution-group).
+To find our stable counterparts, look at the Pipeline Execution [product category listing](/handbook/product/categories/#pipeline-execution-group).
 
 ## Technologies
 
@@ -145,7 +145,7 @@ Engineers will:
 
 #### Weighting Issues
 
-In April 2022, the team began to trial the use of the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) that shows issues that need to be weighted for the next milestone. The criteria are denoted by having a `~needs weight` label and an appropriate milestone applied to it (i.e. `15.0`). During the first week of the month (i.e May 1-7), team members review the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) and assign issues to themselves. The priority order will be determined from top to bottom utilizing the `Verify::P1`, `Verify::P2` and `Verify::P3` labels along with using `~priority::x` labels and other issues needing weight after that, keeping [global prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritization) in mind. Issues that aren't able to be weighted in one milestone will be evaluated in future milestones. If there is an issue with a higher urgency for weighting, a team member might be directly assigned to the issue for a prioritized review.
+In April 2022, the team began to trial the use of the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) that shows issues that need to be weighted for the next milestone. The criteria are denoted by having a `~needs weight` label and an appropriate milestone applied to it (i.e. `15.0`). During the first week of the month (i.e May 1-7), team members review the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) and assign issues to themselves. The priority order will be determined from top to bottom utilizing the `Verify::P1`, `Verify::P2` and `Verify::P3` labels along with using `~priority::x` labels and other issues needing weight after that, keeping [global prioritization](/handbook/product/product-processes/#prioritization) in mind. Issues that aren't able to be weighted in one milestone will be evaluated in future milestones. If there is an issue with a higher urgency for weighting, a team member might be directly assigned to the issue for a prioritized review.
 
 We add a `Weight` to issues as a way to estimate the effort needed to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
 
@@ -170,7 +170,7 @@ The team makes use of `Verify::P*` labels to indicate priority order of issues i
 
 | Priority Label | Reason for applying |
 | ---- | ---- |
-| `Verify::P1` | Our current focus is on reliability and stability of the GitLab.com platform. As such we use this label for any issues that have a category in the top 3 [Prioritization Framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization) table. |
+| `Verify::P1` | Our current focus is on reliability and stability of the GitLab.com platform. As such we use this label for any issues that have a category in the top 3 [Prioritization Framework](/handbook/product/product-processes/#prioritization) table. |
 | `Verify::P2` | After ensuring we are meeting our SLOs we are focused on delivering customer value and moving maturity of our categories forward. Issues with a `type::feature` and `direction` may be have this label applied. Not all `customer` issues will have this label in a milestone. |
 | `Verify::P3` | Bugs or maintenance work that are not a `Verify::P1`, such as lower priority product initiatives, or research issues for upcoming large initiatives, etc. may be included in this category. |
 
@@ -203,13 +203,13 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 
 `workflow::ready for development` means that an issue has been sufficiently [refined and weighted by Engineering](##how-engineering-refines-issues), upon request by Product and UX
 
-`workflow::awaiting security release` is applied by an engineer after the security issue has passed verification and this label signals that it is ready for production but awaiting the next [monthly security release](https://about.gitlab.com/handbook/engineering/security/#timing-of-the-monthly-security-release). When this label is applied, the issue's milestone should also be updated to the next milestone to align with when the next security release will happen.
+`workflow::awaiting security release` is applied by an engineer after the security issue has passed verification and this label signals that it is ready for production but awaiting the next [monthly security release](/handbook/security/#timing-of-the-monthly-security-release). When this label is applied, the issue's milestone should also be updated to the next milestone to align with when the next security release will happen.
 
 `workflow::feature-flagged` is applied to an issue that is being enabled through a separate feature flag rollout issue. Once the feature is validated the status is moved to `workflow::production` and the issue is closed.
  
 `Closed` means that all code changes associated with the issue are fully enabled on gitlab.com. If it is being rolled out behind a feature flag, it means the feature flag is enabled for all users on gitlab.com.
 
-More detail on the workflow is available on the [Product-Development Flow](https://about.gitlab.com/handbook/product-development-flow/) page.
+More detail on the workflow is available on the [Product-Development Flow](/handbook/product-development-flow/) page.
 
 ### "What do I work on next?"
 
@@ -359,7 +359,7 @@ The Pipeline Execution group supports the product marketing categories described
 
 ### Developing with Feature Flags
 
-When building features that may have high impact the team uses established [GitLab guidelines](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/) for feature flags.
+When building features that may have high impact the team uses established [GitLab guidelines](/handbook/product-development-flow/feature-flag-lifecycle/) for feature flags.
 
 We also ensure we are collaborating with our teammates in customer support and customer success by [alerting them](https://docs.gitlab.com/ee/development/feature_flags/controls.html#communicate-the-change) to the rollout issue before a feature is enabled.
 
@@ -506,7 +506,7 @@ When creating a follow-up issue for required tests:
 
 ### Bugs
 
-As a group, we strive to meet the [Severity Service Level Objective](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos) of bugs. We regularly review all bugs and prioritize issues with a `~missed-SLO` label and those approaching SLO (Service Level Objective) through our weekly [Triage Report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt). One of the group's goals is to reduce the median age of open S2 bugs which is being tracked by the Quality department as a [KPI](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#s2-oba). To do this we will triage aged bugs each milestone closing what we can, reducing severity for bugs mis-labeled, asking for more details for issues that cannot be reproduced and prioritizing those that can be reproduced focusing on bugs in the identified [JTBD](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/).
+As a group, we strive to meet the [Severity Service Level Objective](/handbook/engineering/quality/issue-triage/#severity-slos) of bugs. We regularly review all bugs and prioritize issues with a `~missed-SLO` label and those approaching SLO (Service Level Objective) through our weekly [Triage Report](/handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt). One of the group's goals is to reduce the median age of open S2 bugs which is being tracked by the Quality department as a [KPI](/handbook/engineering/quality/performance-indicators/#s2-oba). To do this we will triage aged bugs each milestone closing what we can, reducing severity for bugs mis-labeled, asking for more details for issues that cannot be reproduced and prioritizing those that can be reproduced focusing on bugs in the identified [JTBD](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/).
 
 ### Features 
 
@@ -568,7 +568,7 @@ Note that multiple factors can exist at once. In that case use your judgment to 
 
 ### Risk Mapping
 
-To better understand the risk environment and each risk's causes and consequences, the Pipeline Execution team uses the [Risk Map](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/) as our risk management tool to prioritise mitigation strategies and increase Quality.
+To better understand the risk environment and each risk's causes and consequences, the Pipeline Execution team uses the [Risk Map](/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/) as our risk management tool to prioritise mitigation strategies and increase Quality.
 
 ### Retrospectives
 
