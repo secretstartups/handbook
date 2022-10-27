@@ -120,7 +120,7 @@ Some examples:
 >
 > Could you please provide permission for our Support Engineers to look at the CI/CD variables in the project so that we confirm they are correct? Replying in this ticket stating you provide permission will be sufficient.
 >
-> Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address? Replying in this ticket stating you provide permission will be sufficient.
+> Could you please confirm that you would like us to exchange your primary address `example@primary-email.address` and secondary address `example@secondary-email.address` on your account? Replying in this ticket stating you provide permission will be sufficient.
 
 ### Impersonating
 
