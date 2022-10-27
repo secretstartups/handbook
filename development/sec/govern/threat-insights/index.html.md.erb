@@ -66,6 +66,25 @@ We follow these guidelines when submitting MRs for review when the change is wit
 * [Threat Insights "Ready to Pull" Board](https://gitlab.com/groups/gitlab-org/-/boards/4643978?label_name[]=group%3A%3Athreat%20insights&label_name[]=ready%20to%20pull)
    * Secondary board for unassigned issues that are separate from a larger effort. Ideal candidates are small features, bugs, and follow-up items. 
 
+
+### Indicating Status and Raising Risk
+
+Our teams use the [Health Status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) feature within issues to indicate the likelyhood of completion within the milestone. We assign `On Track` at the beginning of a milestone to a small number of issues where we have high confidence in delivery during that milestone. If there is concern with marking something as initially on track, then we should discuss why.
+
+Raising risk early is important. The more time we have, the more options we have. For example, issues that have not gone into review by the 10th of the month may not have enough time to get merged. These should be considered Needs Attention or At Risk depending on their complexity and other factors.
+
+Follow these steps when raising or downgrading risk:
+
+1. Update the Health Status in the issue:
+    1. `On Track` - high confidence - there is no indication the work won't get merged by the 15th.
+    1. `Needs Attention` - medium confidence - the issue is blocked or has other factors that need to be discussed.
+    1. `At Risk` - low confidence - the issue is in jeopardy of missing the merge cutoff of the 15th.
+1. Add a comment about why the risk has increased or decreased. Copy the Engineering Manager and Project Manager for awareness.
+
+Note that an issue probably shouldn't go directly from On Track to At Risk. That pattern indicates we have missed an opportunity to discuss earlier. Consider the progression: `On Track -> Needs Attention -> At Risk`.
+
+Additionally, we make use of our [automated policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/hygiene/adjust-health-status.yml) that automatically degrades the health of scheduled issue based on conditions. This enabled per issue by adding the `~Track Health Status` label.
+
 ## Quality
 
 ### How to classify MRs which need to run Package and QA?
