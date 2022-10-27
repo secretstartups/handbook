@@ -28,8 +28,6 @@ There is no additional medical coverage scheme through GitLab.
 
 Note that in the Netherlands every citizen is obliged to have at least a basic health insurance package (basisverzekering) with a health insurance company. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
 
-GitLab does not currently provide medical coverage due to the government policy of subsidizing private insurance.
-
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
 **[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands 
@@ -44,7 +42,7 @@ State pension (AOW) is standard and will be paid out at retirement age. Starting
 **Pension Plan Summary:**
 * Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
 pension and a partner's pension that pays benefits upon their death after their retirement via monthly contributions. 
-* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long partner's pension for the spouse and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
 
 The beneficiary is also entitled to additional lifelong partner's pension that is bough by the invested pension capital upon death. See article 18of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
 
@@ -79,7 +77,7 @@ Intern Coverage is a flat coverage amount: 50,000 Euro upon accidental death and
 
 GitLab offers Death Benefits via the Pension scheme: 
 
-* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long partner's pension for the spouse and a temporary dependant's pension for their children which pays benefits on the death of the team member. For more information on this please review section 8 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
 The beneficiary is also entitled to an additional lifelong partner's pension that is bought by the invested pension capital upon death. See article 18 of the [Pension Scheme](https://drive.google.com/file/d/1FaC8sHe-r_PHz4xrXbNYlH2zCHAU972h/view?usp=sharing)
 
 ## 30% Tax Ruling
@@ -171,3 +169,11 @@ Parents will be eligible for up to [9 weeks of partial payment through the UWV](
 ### Applying for Leave in the Netherlands
 
 HRSavvy can assist in applying for maternity leave covered by social security. In this application the company can decide whether the benefit is paid to the team member directly, or the employer continues paying the salary and receives the benefit. The last option is done in most of the cases.
+
+### Administration for Group Accident Policy
+
+The Group Accident Policy is based on calculation in arrears. At the end of the insurance year, Hienfeld will send by post (in dutch) a letter with information requesting details to perform the premium payment in arrears. Once this letter is received, Total Rewards will send the letter to our HR Savvy contact, agnes@savvy-group.eu. HR Savvy will use the payroll data to share the updated Employee details with Heinfeld to calculate the final premium of previous years and a supplmentary premium is invoiced. 
+
+On the invoice, a bank account number will be provided to pay the annual premium. 
+Total Rewards will send the invoice to Accounts Payable for payment. 
+
