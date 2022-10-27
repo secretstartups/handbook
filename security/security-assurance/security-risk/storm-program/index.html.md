@@ -35,7 +35,7 @@ The purpose of the Security Operational Risk Management (“StORM”) program at
 
 ## Scope
 
-The scope of the StORM program is limited to operational (also referred to as Tier 2) risks as defined in the [NIST SP 800-30 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) risk management hierarchy below. These risk are generally identified during the Anual Risk Assessment(ARA) or Ad-Hoc reports. 
+The scope of the StORM program is limited to operational (also referred to as Tier 2) risks as defined in the [NIST SP 800-30 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) risk management hierarchy below. These risks are generally identified during the Annual Risk Assessment(ARA) or Ad-Hoc reports. 
 
 **Out of Scope** Risks, such as operational risks that don't impact Security, Third Party Vendor risk, and Information System deficiencies, are managed through separate processes. However, observations noted at the Tier 3 level have the potential to escalate to a Tier 2 Risk based on a [Control Health & Effectiveness Rating (CHER)](/handbook/security/security-assurance/observation-management-procedure.html).
 
@@ -76,7 +76,7 @@ For details of the scoring methodology used, refer to the [StORM Methodology](/h
 
 ### Step 3: Risk Tracking and Reporting
 
-Risks identified through the Risk Identification phase are formally tracked via an internal risk register. Given the nature of the sensitivity of this information in aggregate, the risk register is [not made public](/handbook/communication/confidentiality-levels/#not-public), is not distributed externally. However, a publicly viewable GitLab Risk Register Template is available [here](https://docs.google.com/spreadsheets/d/1Lvn-ZjPNcZ-QMh-pkC6HqjwR-acUf70V9w2pquhRmH0/edit?usp=sharing) for those interested in getting some more insight into the type of information tracked in GitLab's risk register. StORM related risk activities are centralized within GitLab's GRC tool, ZenGRC. Additional information on the various risk related activities carried out of ZenGRC can be found on the [ZenGRC Activities](/handbook/security/security-assurance/zg-activities.html#risk-activities) handbook page.
+Risks identified through the Risk Identification phase are formally tracked via an internal risk register. Given the nature of the sensitivity of this information in aggregate, the risk register is [not made public](/handbook/communication/confidentiality-levels/#not-public), and is not distributed externally. However, a publicly viewable GitLab Risk Register Template is available [here](https://docs.google.com/spreadsheets/d/1Lvn-ZjPNcZ-QMh-pkC6HqjwR-acUf70V9w2pquhRmH0/edit?usp=sharing) for those interested in getting some more insight into the type of information tracked in GitLab's risk register. StORM related risk activities are centralized within GitLab's GRC tool, ZenGRC. Additional information on the various risk related activities carried out of ZenGRC can be found on the [ZenGRC Activities](/handbook/security/security-assurance/zg-activities.html#risk-activities) handbook page.
 
 ### Step 4: Risk Treatment
 
@@ -86,7 +86,7 @@ For each risk identified above, a formal risk treatment decision is made to dete
 
 Once the annual security operational risk assessment is completed, an executive and detailed report is prepared:
 * **Executive Report**: The executive report is a summary report that is used to share internally and upon request from external parties as applicable. This report is a high level summary that does not expose specific details about risks identified and individuals involved during the annual assessment.
-* **Detailed Report**: The detailed report contains information about the specific high risks identified as part of the annual assessment in additiion to the specific indviduals that contributed to the annual assessment process.
+* **Detailed Report**: The detailed report contains information about the specific high risks identified as part of the annual assessment in addition to the specific individuals that contributed to the annual assessment process.
 </details>
 
 
@@ -94,7 +94,7 @@ Once the annual security operational risk assessment is completed, an executive 
 <summary markdown="span"><b>Ad-hoc Risk Identification and Assessment</b>
 </summary>
 
-There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a quantiative analysis done to determine if it should be escalated to the risk register. 
+There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a quantitative analysis done to determine if it should be escalated to the risk register. 
 </details>
 
 ## Communication of Risks to the Security Risk Team
@@ -113,11 +113,11 @@ There are multiple ways the team can be engaged for risk:
 
 ## Transparency and the StORM Program
 
-As per [GitLab's Communication Page](/handbook/communication/confidentiality-levels/#not-public), information about risks tracked in GitLab's Risk Register defaults to _not public and limited access_. Given the nature of risk management, GitLab will always be susceptible to risks. The goal of implementing risk treatment plans and carrying out risk remediation activities is to reduce the likelihood or impact (or both) of a risk occuring. Given that no risks identified can ever be fully eliminated, but instead are mitiaged through reduction of likelihood and/or impact, risks that have been escalated to GitLab's Risk Register will be shared on a need-to-know basis.
+As per [GitLab's Communication Page](/handbook/communication/confidentiality-levels/#not-public), information about risks tracked in GitLab's Risk Register defaults to _not public and limited access_. Given the nature of risk management, GitLab will always be susceptible to risks. The goal of implementing risk treatment plans and carrying out risk remediation activities is to reduce the likelihood or impact (or both) of a risk occurring. Given that no risks identified can ever be fully eliminated, but instead are mitigated through reduction of likelihood and/or impact, risks that have been escalated to GitLab's Risk Register will be shared on a need-to-know basis.
 
 ## Exceptions
 
-The only exceptions to this procedure are those Risk that are either out of scope (as defined above). 
+The only exceptions to this procedure are those risks that are out of scope (as defined above). 
 
 ## References
 
