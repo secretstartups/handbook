@@ -216,9 +216,8 @@ As long as you are a legal resident of Sweden you are entitled to the basic pare
 
 * Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members for their own Medical Coverage.
 * This amount will be paid on monthly basis with the regular payroll as a reimbursement.
-* Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount. 
+* Proof of coverage must be shared or forwarded to help@remote.com (CC in total-rewards@domain) in order to receive the correct allowance amount. 
 * The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
-* The Total Rewards team will email the proof of coverage to Remote to have the reimbursement processed. 
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
  
