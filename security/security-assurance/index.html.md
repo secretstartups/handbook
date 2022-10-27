@@ -57,18 +57,16 @@ There five teams in the Security Assurance sub-department.
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Core Competencies of Security Assurance Teams
 
 ### Field Security Core Competencies 
+
 * [Sales Training (Security)](/handbook/sales/onboarding/sqs-learning-objectives/)
-* [Sales Enablement (Security)](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html)
+* [Sales Enablement (Security)](/handbook/security/security-assurance/field-security/Field-Security-RFP.html)
 * [Customer Assurance (Security)](https://about.gitlab.com/security/cap)
 * Security Evangelization 
 
 ### Security Governance Core Competencies 
-* [Security Policies, Standards and Control maintenance](https://about.gitlab.com/handbook/security/controlled-document-program.html) 
-* Security Assurance Metrics
-* [Security Awareness and Training](/handbook/security/security-assurance/governance/sec-awareness-training.html)
-* Regulatory Landscape Monitoring 
-* [Security Assurance Application Administration](/handbook/security/security-assurance/#core-tools-and-systems)
 
+* [Security Policies, Standards and Control maintenance](/handbook/security/controlled-document-program.html) 
+* Security Assurance Metrics
 
 ### Security Risk Core Competencies 
 * [Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management.html)
@@ -77,13 +75,14 @@ There five teams in the Security Assurance sub-department.
 ### Security Compliance, Commercial Core Competencies 
 * [GitLab.com Production Continuous Control Monitoring/Auditing](/handbook/security/security-assurance/security-compliance/sec-controls.html)
 * [GitLab.com Security Certifications](/handbook/security/security-assurance/security-compliance/certifications.html)
-* [GitLab.com Production & SOX ITGC User Access Reviews](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html)
+* [GitLab.com Production & SOX ITGC User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Tier 3 Observation Management](/handbook/security/security-assurance/observation-management-procedure.html)
+* [GitLab.com Production Readiness: Compliance Assessment] (/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
 
 ### Security Compliance, Dedicated Core Competencies 
 * [GitLab Dedicated Production Continuous Control Monitoring/Auditing](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
-* [GitLab Dedicated Security Certifcations](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/certifications.html)
-* [GitLab Dedicated User Access Reviews](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html)
+* [GitLab Dedicated Security Certifcations](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
+* [GitLab Dedicated User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Tier 3 Observation Management](/handbook/security/security-assurance/observation-management-procedure.html)
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>Core Tools and Systems
