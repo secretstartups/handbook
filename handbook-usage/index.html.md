@@ -152,7 +152,7 @@ In an all-remote, asynchronous organization, each team member should practice ha
 
 - Actively contributes to the handbook.
 - [Start with a merge request](/handbook/communication/#start-with-a-merge-request)
-- Provides links information from the handbook when answering questions and if the information doesn't exist in the handbook, then the team member adds it.
+- Provides links to information from the handbook when answering questions and if the information doesn't exist in the handbook, then the team member adds it.
 - Understands which information is internal-only, but puts all public information in the public handbook.
 
 **Skills and behaviors of handbook first as a People Leader**:
