@@ -25,18 +25,18 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, BDR/SDR (EMEA/APAC)| TBH, Caroline Rebello (Interim) | Caroline Rebello (Interim) | Alice Crosbie |
 | G&A, Finance, People, CEO | TBH | Alina Moise |  |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Fernando Khubeir |
-| Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development: Ops | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development: Dev | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Teranay Dixon |
-| Development: Analytics, Growth, Secure | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Mathea Gervolino |
+| Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Daija Bailey | Guido Rolli |
+| Development: Ops | Riley Smith | Zsuzsanna Kovacs | Guido Rolli |
+| Development: Dev | Sara Currie | Zsuzsanna Kovacs | Teranay Dixon |
+| Development: Analytics, Growth, Secure | Dielle Kuffel | Zsuzsanna Kovacs | Mathea Gervolino |
 | Quality: Quality Engineering | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
-| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
-| UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Guido Rolli |
+| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell   | | Alice Crosbie |
+| UX  | Rupert Douglas  | | Guido Rolli |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Alice Crosbie |
-| Security | Nicky Kunstman |  Zsuzsanna Kovacs | Teranay Dixon |
-| Incubation | Matt Angell  |  Zsuzsanna Kovacs | Alice Crosbie |
+| Security | Nicky Kunstman | | Teranay Dixon |
+| Incubation | Matt Angell  | | Alice Crosbie |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
-| Product Management  | Matt Allen | Chris Cruz | Mathea Gervolino |
+| Product Management  | Matt Allen | Susan Hill and Chris Cruz | Mathea Gervolino |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails. 
 
