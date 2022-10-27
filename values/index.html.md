@@ -121,7 +121,7 @@ Give recognition generously, in the open, and often to [generate more engagement
 ##### Get to know each other
 {:.no_toc}
 We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
-So we encourage people to get to know each other on a personal level through [informal communication](/company/culture/all-remote/informal-communication/), for example, [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
+So we encourage people to get to know each other on a personal level through [informal communication](/company/culture/all-remote/informal-communication/), for example, [social calls](/handbook/communication/#social-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
 ##### Reach across company departments
 {:.no_toc}
