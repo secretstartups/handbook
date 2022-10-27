@@ -23,7 +23,7 @@ Security Governance maintains an internal [Security Assurance Automation project
 
 #### Why do you use Epics at the GitLab Security Department sub-group level?
 
-This process allows all automation engineers across the Security Division to maintain visibility of all in-flight automation work. The use of Epics and the increased visibility also streamlines the process of requesting resources from our [Security Automation](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/automation/) team if necessary.
+This process allows all automation engineers across the Security Division to maintain visibility of all in-flight automation work. The use of Epics and the increased visibility also streamlines the process of requesting resources from our [Security Automation](/handbook/security/security-engineering-and-research/automation/) team if necessary.
 
 #### SLAs
 
