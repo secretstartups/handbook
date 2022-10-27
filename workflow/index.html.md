@@ -93,14 +93,20 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 1. Identification
    * Review current [broken master issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=master%3Abroken) for an existing issue for this failure. If the broken master is related to a test failure, search the spec file in the issue search to see if there's a known flaky spec issue.
    * If no issues exist, create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
-      * `master` failing for a non-flaky reason - create an issue with the following labels: `~"master:broken"`, `~"Engineering Productivity"`,`~priority::1`, `~severity::1`.
-      * `master` failing for a flaky reason that cannot be reliably reproduced - create an issue with the following labels: `~"failure::flaky-test"`, `~"Engineering Productivity"`,`~priority::2`, `~severity::2`.
-   * Identify the merge request that introduced the failures.
+      * `master` failing for a non-flaky reason - use the `Broken Master - Non-flaky` description template.
+      * `master` failing for a flaky reason that cannot be reliably reproduced - use the `Broken Master - Flaky` description template.
+   * If this incident is due to non-flaky reasons, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
+      * Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`.
+   * Identify the merge request that introduced the failures. There are a few possible approaches to try:
+      * Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
+      * [Look at the project activity](https://gitlab.com/gitlab-org/gitlab/activity), and search for keywords in the recent merged events.
+      * [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
+        * You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
+      * Looks at the spec file history
+
    * Assign the issue to the `~"master:broken"` merge request author if they are available at the moment. If the author is not available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
      * Ask for assistance in the `#development` Slack channel if there is no
        merge request that caused the `~"master:broken"`.
-1. Communication
-   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend` using the Slack Workflow. Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
