@@ -79,20 +79,27 @@ Once you've reviewed the [team member social media policy](/handbook/marketing/t
 
 There are several important things to keep in mind when sharing your opinions about working at GitLab on social media. Please keep these things in mind as you create public-facing posts:
 
-**1. Be as specific as possible when sharing examples about your experience.
+1. Be as specific as possible when sharing examples about your experience.
 - With more and more team members joining GitLab there's likely to be more variation in the team member experience. Making statements like, "At GitLab, we all..." or, "At GitLab, everyone..." may create unrealistic expectations if the detail being shared only applies to particular teams or functions within the company.
 - As GitLab grows, there will be more variation in the experience of working here. If you're sharing a specific practice or ritual that happens on your team it would be more appropriate to say something like "On GitLab's Marketing team, we..." versus "At GitLab, we...". It's often the case that teams within GitLab will develop their own unique practices and being as specific as possible will better set expectations with candidates.
 
-**2. Speak to your personal experience.
+2. Speak to your personal experience.
 - The more you're able to add color to a social post by adding details from your personal experience the more effective it will be in illustrating the experience of working here. A good example of this would be to talk about how you took advantage of a particular benefit rather than simply highlighting a particulat benefit that GitLab offers.
 
-**3. Highlight how key themes that make GitLab a unique place to work come to life for you.
+3. Highlight how key themes that make GitLab a unique place to work come to life for you.
 - The more we can highlight the [Advantages](https://about.gitlab.com/company/culture/#advantages) of working at GitLab to future candidates, the more we'll be able to attract talented people to join GitLab.
 
-**4. Actively invite people to help us on our journey.
-- Future candidates will be more interested in hearing about what we're building toward rather than where we have already arrived. Think about ways in which your messaging can invite others to "help us build a special company" rather than "joining a special company".  
+4. Actively invite people to help us on our journey.
+- Future candidates will be more interested in hearing about what we're building toward rather than where we have already arrived. Think about ways in which your messaging can invite others to "help us build a special company" rather than "joining a special company".
 
-**5. If you're unsure how to communicate something, you can always reach out to the #talent-brand channel on slack.
+5. Be considerate of tone and how your message may be percieved by the audience reading it.
+- As a general guideline, we [don't bash our competitors](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#its-your-job-to-protect-gitlab-our-customers-and-our-team-members) on social media
+- For our talent brand, this extends to the employment practices of our competitors. Especially given there have been a number of tech companies lay off staff in 2022, it's important that any messaging to those who may have been impacted by a lay off clearly convey sympathy and compassion. 
+- An example of a compassionate tone: "With many layoffs in the tech industry, please know that GitLab is currently hiring."
+- It is ok to mention companies by name if it is relevant to the post, and the employees losing their jobs and the company doing the layoffs are treated with empathy and respect.
+- An example of what we want to avoid: "Lost your job? Come work at GitLab!" 
+
+6. If you're unsure how to communicate something, you can always reach out to the #talent-brand channel on slack.
 
 
 #### On LinkedIn
