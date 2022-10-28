@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketo Tech Stack Guide"
-description: "Reference for how Zuora Revenue is implemented."
+description: "Reference for how Marketo is implemented."
 ---
 
 {::options parse_block_html="true" /}
@@ -29,25 +29,65 @@ description: "Reference for how Zuora Revenue is implemented."
 <% end %>
 <% end %>
 
-### Implementation
-
-TBD
-
-### System Diagrams
-
-TBD
-```
-### Data Model
-
-TBD
-
 ### Integrations
 
-TBD
+To see the different systems that are connected to Marketo, please visit the [Marketo System Infrastructure Mapping Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1604947309706/7aec5684a2fa4671823c5acd352348b04562950f).
 
-### Key Reports / Dashboards
+#### Marketo <> Salesforce.com Connection
 
-TBD
+When any lead/contact is created in SFDC, it will automatically sync and create in Marketo - nothing is held back. Likewise, when a lead/contact is deleted in SFDC, it will delete in Marketo as well. Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to. 
+
+A lead will sync from Marketo to SFDC in these scenarios:
+1. Member of Program that is synced to SFDC
+1. When a person reaches `Inquiry` status
+2. When they reach `MQL` status and reach 100 points
+3. Specifically told to sync via a flow step `Sync to SFDC`
+
+Data is shared between the two via the Marketo User Permission Set with either `Read` or `Read/Write` permissons. Accounts fields by default are `Read Only`. Here are quick links to review them:
+- [Leads](https://gitlab.my.salesforce.com/0PS4M000001136E?s=EntityPermissions&o=Lead)
+- [Contacts](https://gitlab.my.salesforce.com/0PS4M000001136E?s=EntityPermissions&o=Contact)
+- [Accounts](https://gitlab.my.salesforce.com/0PS4M000001136E?s=EntityPermissions&o=Account)
 
 
+Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+
+When large updates are made to an SFDC field value, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
+
+#### Custom Sync Rules with Salesforce
+Because certain processes create records with a blank email address in SFDC we want to avoid having those records flowing into Marketo since they are not actionable and the database has increasing costs per the number of records.
+
+Together with Sales Systems, we implemented a custom formula field called `Block_Marketo_Sync__c`. When the field is checked, records will be blocked from syncing by the custom sync rule. Likewise, when the field is unchecked, it will flow to Marketo.
+
+
+### Multi-thread Sync
+
+To avoid or clear SFDC backlogs, multi-thread sync is availible to use in Marketo. It enables the use of multiple lanes of data flowing from SFDC to Marketo, greatly increasing the sync rate depending on the resources availible on the Marketo servers. Each record in Marketo is marked with a value between `1-9` on the field `Marketo Thread ID` based on the first letter of the email address. Records will be synced and distributed on threads based on the value of `Marketo Thread ID`.
+
+| Letter | Value |
+| ------ | ------ |
+| A B | 1 |
+| D E F | 2 |
+| G H I | 3 |
+| J K L | 4 | 
+| M N O | 5 |
+| P Q R | 6 | 
+| S T U | 7 |
+| V W X | 8 |
+| Y Z C | 9 |
+
+**NB: This feature is not always-on and only Marketo Support can enable it. A support ticket must be opened with 7 days before planning any massive updates from SFDC or at any time there is a significant backlog**
+
+#### Enabling Multi-Thread Sync
+To enable, you must [create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-marketo-multithread) 7 days in advance with the Marketing Operations team and include the following, so that we can open the ticket with Marketo.
+1. Anticipated date of mass update
+1. Business impact
+1. Which field(s) are updating that will result in a backlog
+
+### Sandbox
+We do have a sandbox to work in for Marketo. The sandbox is used for training, creation of API links and overall testing before we move to production. There is not a way to `promote` a program from the sandbox to Prod, so building programs in the sandbox first is not always required. Guidelines for when to build in the sandbox is TBD, but for custom API and webhook integrations, it is highly recommended.
+
+If you'd like access to the sandbox, please fill out an [AR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/).
+
+#### Reconnecting Sandbox to SFDC Staging
+Sales Systems refreshes the [SFDC staging environment](/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) periodically. When this occurs, there are several steps to take to reconnect it to the Marketo sandbox outlined on that page.
 
