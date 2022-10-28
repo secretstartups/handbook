@@ -97,6 +97,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "Inspired by [GitLab and its all-remote movement](/company/culture/all-remote/), we are adopting a fully distributed work policy to improve talent recruitment and retention, employee wellness, and long-term flexibility, adaptability, and scalability. We are starting a journey to build remote fluency in our organization. In the following months, we will be implementing new operational processes to help our people and organization embrace remote work and the future of living.  
 1. [Yembo](https://twitter.com/siddharthm83/status/1446125572036304908)
    - "We are building our own handbook inspired by Gitlab. Thank you to the entire Gitlab team for open sourcing so much information."
+1. [Synura](https://www.synura.com)
+   - "Founded by a [former GitLab employee](https://twitter.com/j4yav), Synura is a video collaboration app that follows most GitLab remote work practices including a [public handbook](https://www.synura.com/handbook/).
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
