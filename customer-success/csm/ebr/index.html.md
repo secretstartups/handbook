@@ -151,7 +151,8 @@ Use the [GitLab EBR template](https://docs.google.com/presentation/d/1Ubfsa7GgU7
 
 The customer's [success plan](#success-planning) forms the basis of the EBR. Think of the success plan as the blueprint for the EBR content. A well-formed success plan provides the key information you need to discuss customer strategy, objectives & goals, accomplishments, progress on current initiatives, and roadmap for the future.
 
-While the CSM is the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual) for the EBR, it is a collaborative effort between the CSM, the other account team members, and the customer contacts. Throughout the process we should align with the customer on discussion points and details, and ensure we are highlighting their accomplishments as part of the messaging. **There should be no surprises in the content of the EBR for anyone involved.**
+Throughout the process we should align with the customer on discussion points and details, and ensure we are highlighting their accomplishments as part of the messaging. While the CSM is the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual) for the EBR, it is a collaborative effort between the CSM, the other account team members, *and the customer*. **There should be no surprises in the content of the EBR for anyone involved.**
+{: .alert .alert-gitlab-purple}
 
 If you plan to discuss product information, ensure you align with the right GitLab team members for that discussion as early as possible. This may include a [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), or other subject matter experts. Give these team members ample time to align on the plan and prepare their portion of the EBR program.
 
