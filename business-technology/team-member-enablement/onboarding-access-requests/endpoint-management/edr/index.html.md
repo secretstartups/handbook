@@ -65,11 +65,11 @@ We could, although this would require a substantial amount of effort to be able 
 
 ### I dual boot two different operating systems, do they both need an agent?
 
-Yes. Each operating system (with the exception of Linux) on a host computer that is used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
+Yes. Each operating system on a host computer that is used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
 
 ### I have several virtual hosts on my laptop, do they all need agents?
 
-Yes. Each operating system on a computer (with the exception of Linux), to include the host operating system, and all guest operation systems, that are used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
+Yes. Each operating system on a computer, to include the host operating system, and all guest operation systems, that are used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
 
 
 ### I run my own antivirus solution on my work laptop, isn’t that enough?
@@ -95,3 +95,27 @@ That being said, the EDR solution provides the ability to audit any processes an
 ### What options does a team member have to protect their home network privacy?
 
 If you wish to add further privacy and security to your home network, you can further isolate your work machine by creating a separate network for it. While we cannot provide you with any direct support for this type of network setup, the Security team have a good writeup with some examples [here](https://about.gitlab.com/handbook/security/network-isolation/) that might help to get you started.
+
+### How do I install the SentinelOne agent on Linux?
+
+Pre-requisite: If you are using Advanced Intrusion Detection Environment (AIDE) to monitor file integrity and detect intrusions, you will need to create an exclusion in AIDE. When both AIDE and the SentinelOne Agent are running together, AIDE is not able to update its database correctly.  AIDE tries to scan a SentinelOne Directory and cannot scan it.
+
+To resolve, in AIDE, create an exclusion for SentinelOne:
+Edit /etc/aide.conf and add the following line to the end to ignore the SentinelOne Agent mount directory: `!/opt/sentinelone/mount`
+
+1. Download the configuration file and appropriate installer (DEB/RPM) - ([link](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) or via Slack channel: #sentinelone)
+1. Get your laptop serial number - one method is `sudo dmidecode -s system-serial-number` 
+1. Edit the `config.cfg file and update `S1_AGENT_CUSTOMER_ID`.
+
+   1. Replace `tanuki` with your GitLab email username.
+   1. Replace `ABCD123` with your laptop serial number.
+   1. Verify that the edited variable is formatted correctly with a hyphen separating the username and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe-ABCD1234`
+
+1. `export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"`
+1. If you use the RPM package as root, run: `rpm -i --nodigest package_pathname`  
+Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
+`sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" rpm -i --nodigest  package_pathname`
+1. If you use the DEB package as root, run: `dpkg -i package_pathname`  
+Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
+`sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" dpkg -i package_pathname`
+1. Verify connectivity with `sentinelctl management status` and look for `Connectivity: On` and a valid sentinelone URL. If this is not your result, reach out for assisstance in the #sentinelone channel.
