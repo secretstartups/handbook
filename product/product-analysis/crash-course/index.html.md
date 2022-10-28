@@ -672,7 +672,7 @@ WHERE field = stage_name
 ### Enablement Section
 
 
-#### Systems Stage
+#### Systems Stage (Distribution, Gitaly, Geo Groups)
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Systems Stage includes Distribution, Gitaly and Geo Groups.
 
 
@@ -680,20 +680,35 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-* [Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) Resource used most often by Systems Stage Group PMs. Detailed notes are kept about each PI. 
-
 * [Enablement::Geo Metrics](https://app.periscopedata.com/app/gitlab/500159/Enablement::Geo-Metrics) Geo Group
+
+* [Version Upgrade Rate](https://app.periscopedata.com/app/gitlab/406972/Version-Upgrade-Rate) Distribution Group
+
+* [Enablement: Gitaly Dashboard](https://app.periscopedata.com/app/gitlab/728407/Enablement:-Gitaly-Dashboard) Gitaly Group
+
+* [Centralized SMAU GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) General SMAU and GMAU metrics
 
 
 **Important data documentation**
 
-``` sql
+There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
 
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
+The following tables can be used for Service Ping metric reporting. 
+
+* common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
+
+* common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
+
+* common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
+
+* common_mart.mart_ping_instance_metric_monthly - Use for all, 7, 28 timeframe metrics pre filtered to the last ping of the month (does not include none or null timeframe metrics)
+
+* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
+
+* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a null timeframe
+
+Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
+
 
 **Helpful video resources**
 
@@ -731,29 +746,51 @@ OR
 
 </details>
 
-#### Data Stores Stage
+#### Data Stores Stage (Memory, Global Search, Database, Pods Groups)
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Data Stores Stage includes Memory, Global Search, Database and Pods Groups.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) Resource used most often by Data Stores Stage Group PMs. Detailed notes are kept about each PI. 
-
 * [Enablement::Database - Performance Indicators](https://app.periscopedata.com/app/gitlab/754160/Enablement::Database---Performance-Indicators) Database Group
 
 * [Enablement::Memory](https://app.periscopedata.com/app/gitlab/679200/Enablement::Memory) Memory Group
 
+* [Global Search Self Managed Deep Dive](https://app.periscopedata.com/app/gitlab/1035187/Global-Search-Self-Managed-Deep-Dive) Global Search Group
+
+* [gitlab.com performance per snowplow dashboard](https://app.periscopedata.com/app/gitlab/790506/gitlab.com-performance-per-snowplow-dashboard) Enablement Section overall - Primarily relates to Data Stores Group
+
+* [Josh <> Mathieu: Enablement PPI](https://app.periscopedata.com/app/gitlab/794513/Josh-%3C%3E-Mathieu:-Enablement-PPI) - Enablement Section overall - Primarily relates to Data Stores Group
+
+* [Active Instances](https://app.periscopedata.com/app/gitlab/441909/Active-Instances) - Database Group
+
+* [Error Budget Dashboard - Stage Enablement](https://app.periscopedata.com/app/gitlab/892802/Error-Budget-Dashboard---Stage-Enablement) - Enablement Section overall
+
+* [Infra PM Dashboard](https://app.periscopedata.com/app/gitlab/710777/Infra-PM-Dashboard) - Database Group
+
+* [Enablement: Gitaly Dashboard](https://app.periscopedata.com/app/gitlab/728407/Enablement:-Gitaly-Dashboard) - Gitaly Group
+
 
 **Important data documentation**
 
-``` sql
+There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
 
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
+The following tables can be used for Service Ping metric reporting. 
+
+* common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
+
+* common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
+
+* common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
+
+* common_mart.mart_ping_instance_metric_monthly - Use for all time and 28 day timeframe metrics, pre filtered to the last ping of the month (does not include 7 day, none, or null timeframe metrics)
+
+* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
+
+* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a null timeframe
+
+Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
 
 **Helpful video resources**
 
