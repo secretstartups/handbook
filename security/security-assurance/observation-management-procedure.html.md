@@ -16,7 +16,7 @@ title: "Observation Creation Procedure"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -35,13 +35,13 @@ Tier 3 risks or observations identified at the information system or business pr
 
 | Observation Source | Responsible Team |
 | ---- | ------ |
-| Internal audit activities | [Internal Audit](https://about.gitlab.com/handbook/internal-audit/) |
 | Security control testing activities (CCM) | [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
-| Third Party Risk Management (TPRM) activities | [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
-| Customer Assurance Activities (CAA) | [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
+| Third Party Risk Management (TPRM) activities | [Security Risk](https://about.gitlab.com/handbook/security/security-assurance/security-risk/) |
+| Customer Assurance Activities (CAA) | [Field Security Team](https://about.gitlab.com/handbook/security/security-assurance/field-security/) |
 | External audit activities | [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
-| Third party application scanning (BitSight) | [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
-| Ad-hoc observations | [Security Risk](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#adhoc-risk-assessments) |
+| Third party application scanning (BitSight) | [Field Security Team](https://about.gitlab.com/handbook/security/security-assurance/field-security/) |
+| Gap Assessment Activities| [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
+| Ad-hoc observations | [Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/) |
 
 ### Lifecycle Overview
 
@@ -58,29 +58,21 @@ graph TD;
 ### Identifying Observations
 
 Observations can be identified through the following channels:
-1. Internal audit activities
 1. Security control testing activities (CCM)
 1. Third Party Risk Management (TPRM) activities 
 1. Customer Assurance activities (CAA)
 1. External audit activities
 1. Third party application scanning (BitSight)
-1. Ad-hoc issues
 1. Gap assessment activities
+1. Ad-hoc issues
 
 ### Assigning Observations
 
-The observation identifier is responsible for opening an observation in [ZenGRC](https://about.gitlab.com/handbook/security/security-assurance/zg-activities.html). The observation identifier fills out all necessary observation information, remediation recommendations and submits the observtion to the Remediation Owner for validation. The Observation Manager is responsible for managing the observation through the observation lifecycle. This includes validating the observation with the Remediation Owner, tracking all remediation progress and updating the associated ZenGRC issue with current information and status updates. Each observation has both a GitLab Issue (for Remediation Owners) and a mirrored ZenGRC Issue (for Observation Managers). Each observation will be assigned a [risk rating](https://julia-lake-master-patch-41588.about.gitlab-review.app/handbook/security/security-assurance/security-compliance/observation-remediation-procedure.html#observation-risk-ratings), which should drive the priority of remediation.
+The observation identifier is responsible for opening an observation in [ZenGRC](https://about.gitlab.com/handbook/security/security-assurance/zg-activities.html). The observation identifier fills out all necessary observation information, remediation recommendations and submits the observation to the Remediation Owner for validation. The Observation Manager is responsible for managing the observation through the observation lifecycle. This includes validating the observation with the Remediation Owner, tracking all remediation progress and updating the associated ZenGRC issue with current information and status updates. Each observation has both a GitLab Issue (for Remediation Owners) and a mirrored ZenGRC Issue (for Observation Managers). Each observation will be assigned a [risk rating](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html#observation-risk-ratings), which should drive the priority of remediation.
 
 **See the associated runbooks below for detailed instructions on how to open and assign a new observation based on observation type:**
 
-* [Security Control Testing Activities (CCM)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Control%20Testing%20Observation%20Generation.md)
-* [Internal Audit Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Internal%20Audit%20Observation%20Generation.md)
-* [Third Party Risk Management (TPRM) Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/TPRM%20Observation%20Generation.md)
-* [Customer Assurance Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Customer%20Assurance%20Activities%20Observation%20Generation.md)
-* [External Audits](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/External%20Audit%20Observation%20Generation.md)
-* [Third Party Application Scanning](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Third%20Party%20Application%20Scanning%20Observation%20Generation.md)
-* [Ad-hoc Observations](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Ad-hoc%20Observation%20Generation.md)
-* [Gap Assessment Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Gap%20Assessment%20Activities.md)
+* [Observation Intake and Management Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/1_Observation%20Intake%20and%20Management.md)
 
 ### Observation Risk Ratings
 
@@ -92,12 +84,12 @@ Tier 3 information system risk ratings are based off the [STORM risk rating meth
 <summary markdown="1"><b>Determining Likelihood</b>
 </summary>
 
-#### Step 1: Define likelihood based on the below criteria and liklihood table
+#### Step 1: Define likelihood based on the below criteria and likelihood table
 
-At GitLab, observations will be rated based on the likelihood the observation has of recurring and/or the frequency that the control has seen observations. The criteria used to assess this likelihood can be found in the Likelihood Table below. Note that there are two different definitions for each likelihood rating level:
+At GitLab, observations will be rated based on the likelihood the observation has recurring and/or the frequency that the control has seen observations. The criteria used to assess this likelihood can be found in the Likelihood Table below. Note that there are two different definitions for each likelihood rating level:
 
-- **Control Observation**: This criteria is utilized to rate observations identified as an output of control testing (e.g. where control testing performed internally by Internal Audit and/or Security Compliance has failed). The assumption of the Likelihood Table is to consider observations individually rather than in aggregate (i.e if 2 similar observations occur against a single test of a sample of 25, the failure rate is 8% and would be scored a 3. The control does not need to be tested multiple times in the current year or prior 9 months with an observation each time to meet the requirement for a score of 3). 
-- **Information System Risk (Tier 3)**: This criteria is utilized to score the likelihood of an information system being exploited (e.g. insufficient encyrption mechanisms for the storage of data within `[System Name]` result in the unintentional exposure/leakage of this information to the public).
+- **Control Observation**: This criteria is utilized to rate observations identified as an output of control testing (e.g. where control testing performed internally by Security Compliance has failed). The assumption of the Likelihood Table is to consider observations individually rather than in aggregate (i.e if 2 similar observations occur against a single test of a sample of 25, the failure rate is 8% and would be scored a 3. The control does not need to be tested multiple times in the current year or prior 9 months with an observation each time to meet the requirement for a score of 3). 
+- **Information System Risk (Tier 3)**: This criteria is utilized to score the likelihood of an information system being exploited (e.g. insufficient encryption mechanisms for the storage of data within `[System Name]` result in the unintentional exposure/leakage of this information to the public).
 
 ##### Likelihood Table
 
@@ -125,7 +117,7 @@ At GitLab, observations will be rated based on the likelihood the observation ha
 <tbody>
   <tr>
     <td class="tg-obmi"><span style="background-color:#D9EAD3">1</span></td>
-    <td class="tg-cly1" colspan="2"><b>Control Observation: </b>The observation noted is considered to be a one off occurence for the control as a result of extenuating circumstances. It is unlikely to occur again once remediated.<br><br><b>Information System Risk: </b>Theoretically impossible and/or requires significant technical expertise for the risk to be exploited.</td>
+    <td class="tg-cly1" colspan="2"><b>Control Observation: </b>The observation noted is considered to be a one off occurrence for the control as a result of extenuating circumstances. It is unlikely to occur again once remediated.<br><br><b>Information System Risk: </b>Theoretically impossible and/or requires significant technical expertise for the risk to be exploited.</td>
   </tr>
   <tr>
     <td class="tg-za92"><span style="background-color:#FFF2CC">2</span></td>
@@ -147,11 +139,11 @@ At GitLab, observations will be rated based on the likelihood the observation ha
 <summary markdown="1"><b>Determining Impact</b>
 </summary>
 
-#### Step 2: Define impact based on the below critera and impact table
+#### Step 2: Define impact based on the below criteria and impact table
 
-In addition to applying a qualitative scoring factor for likelihood, all observations need to be evaluated for the impact they would have to GitLab at the organization level and/or the compliance impact (if applicable). The criteria and qualitative scores for assessing the impact of an observation can be found in the Impact Scoring Table below. The **highest** rating in any field is the final impact score of the observation so as to approach observations in a more conservative manner (i.e if all fields are rated at a value of 2 except Remediation Effort which is scored a 3, the final impact score would be a 3).
+In addition to applying a qualitative scoring factor for likelihood, all observations need to be evaluated for the impact they would have on GitLab at the organization level and/or the compliance impact (if applicable). The criteria and qualitative scores for assessing the impact of an observation can be found in the Impact Scoring Table below. The **highest** rating in any field is the final impact score of the observation so as to approach observations in a more conservative manner (i.e if all fields are rated at a value of 2 except Remediation Effort which is scored a 3, the final impact score would be a 3).
 
-**Important Note**: Team members who are leveraging the impact scoring criteria below may judgementally select the impact factors most relevant to them. Internal Audit and Security Compliance utilize all columns when scoring observations identified as part of controls testing because there may be specific impacts to external compliance audit requirements as a result of these findings. Any information system risk identified outside of control testing may utilize the columns that are most relevant.
+**Important Note**: Team members who are leveraging the impact scoring criteria below may judgmentally select the impact factors most relevant to them. Internal Audit and Security Compliance utilize all columns when scoring observations identified as part of controls testing because there may be specific impacts to external compliance audit requirements as a result of these findings. Any information system risk identified outside of control testing may utilize the columns that are most relevant.
 
 ##### Impact Scoring Table
 
@@ -210,17 +202,16 @@ In addition to applying a qualitative scoring factor for likelihood, all observa
     <td class="tg-cly1">The observation has remediation effort that requires oversight/support at the Executive level.</td>
     <td class="tg-cly1">Observation has potential financial impact which results in loss / misstatement above $ 500K</td>
     <td class="tg-cly1">The observation could directly result in major regulatory action against GitLab.</td>
-    <td class="tg-cly1">The observation impacts internal and external stakeholders. It requires attention of Executives and Board and could impact management assertion in 10Q / 10-K.</td>
+    <td class="tg-cly1">The observation impacts internal and external stakeholders. It requires attention the of Executives and Board and could impact management assertion in 10Q / 10-K.</td>
   </tr>
 </tbody>
 </table>
 </details>
 
-</details>
 <summary markdown="1"><b>Determining Risk Rating</b>
 </summary>
 
-#### Step 3: Determine risk rating based on liklihood and impact scores defined in steps 1 and 2
+#### Step 3: Determine risk rating based on likelihood and impact scores defined in steps 1 and 2
 
 In order to arrive at a final observation risk rating, the likelihood and impact scores of an observation are multiplied together. The final score determined will determine whether or not the observation is a LOW, MODERATE, or HIGH risk observation using the Observation Risk Rating Table
 
@@ -324,7 +315,7 @@ In order to arrive at a final observation risk rating, the likelihood and impact
 </table>
 </details>
 
-Observation risk ratings play a key role in determining the Control Health and Effectiveness rating of a controls health. See the [Control Health and Effectiveness Rating (CHER) handbook page](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/control-health-effectiveness-rating.html) for details on CHER and how to establish a CHER rating.
+Observation risk ratings play a key role in determining the Control Health and Effectiveness rating of a controls health. See the [Control Health and Effectiveness Rating (CHER) handbook page](https://about.gitlab.com/handbook/security/security-assurance/control-health-effectiveness-rating.html) for details on CHER and how to establish a CHER rating.
 
 
 ### Observation Risk Ratings
@@ -333,11 +324,11 @@ Tier 3 information system risk ratings are based off the [STORM risk rating meth
 
 > Risk Rating = Likelihood x Impact
 
-An observations risk rating is based on a judgemental assessment of both the Liklihood and Impact of the identified observation by the team member that identified and opened the observation. Judgemental elements considered may include:
+An observation's risk rating is based on a judgemental assessment of both the Likelihood and Impact of the identified observation by the team member that identified and opened the observation. Judgemental elements considered may include:
 
 * frequency of the same control observation
 * if the observation will lead to a material weakness or external audit finding
-* pervasiveness of the observation accross multiple systems
+* pervasiveness of the observation across multiple systems
 * impact to internal and/or external stakeholders
 * expertise to exploit the observation
 
@@ -345,7 +336,7 @@ See the [Observation Management Procedure Handbook page](https://about.gitlab.co
 
 ### Observation Risk Rating Adjustments
 
-As observations are identified, assigned and then move into remediation, there may be cases in which observations do not appropriately map to current GCF controls or are deemed stale. These observations could qualify for an upgraded or downgraded risk level depending on a subset of resolution criteria. Procedures for this process can be found in the [Observation Risk Rating Adjustment Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Updating%20Observation%20Risk%20Ratings.md)
+As observations are identified, assigned and then move into remediation, there may be cases in which observations do not appropriately map to current GCF controls or are deemed stale. These observations could qualify for an upgraded or downgraded risk level depending on a subset of resolution criteria. Procedures for this process can be found in the [Observation Risk Rating Adjustment Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/2_Remediation%20and%20Closeout.md#updating-risk-rating)
 
 ### Observation Remediation
 
@@ -361,7 +352,8 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
 - [GCF Contol Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
-- [Observation remediation procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)]
+- [Observation remediation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)]
+- [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 
 ## Contact

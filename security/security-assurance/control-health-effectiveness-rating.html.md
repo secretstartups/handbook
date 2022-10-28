@@ -27,19 +27,19 @@ Control Health and Effectiveness Ratings (CHER) determine a [GitLab Security Con
 
 ## Scope
 
-Observation risk ratings play a key role in determining how to establish a contols CHER. The procedures outlined in the sections below are used specifically by Internal Audit and the Security Compliance Team once an observation's [risk rating is determined](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html). Team members utilizing the CHER for rating information system risks outside of control testing activities will not need to engage in the procedures below.
+Observation risk ratings play a key role in determining how to establish a controls CHER. The procedures outlined in the sections below are used specifically by the Security Assurance Team once an observation's [risk rating is determined](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html). Team members utilizing the CHER for rating information system risks outside of control testing activities will not need to engage in the procedures below.
 
 ### Procedure
 
 <details markdown="1">
 
-<summary><b>Determining the Individual Control Health & Effectiveness Rating (CHER)</b></summary>
+<summary><b>Determining the Individual Control Health & Effectiveness Rating (CHER)</b>
 
-#### Risk rating and determinig effectiveness
+#### Risk rating and determining effectiveness
 
-The importance of risk rating each control observations comes into play when making a final determination on how to establish a control's Control Health & Effectiveness Rating (CHER). CHER ratings on a sliding scale outside of the typical effective/ineffective rating used for compliance, allow for clearer communication and prioritization with broader audiences outside of compliance functions and allows non-compliance stakeholders the ability to view how observations impact the control environment.
+The importance of risk rating each control observation comes into play when making a final determination on how to establish a control's Control Health & Effectiveness Rating (CHER). CHER ratings on a sliding scale outside of the typical effective/ineffective rating used for compliance, allow for clearer communication and prioritization with broader audiences outside of compliance functions and allows non-compliance stakeholders the ability to view how observations impact the control environment.
 
-CHER provides a qualitative value of a control's effectiveness that is used as an input for various processes within the Risk Management Program. When needing to report to management, these quantitative values are translated to qualitative terms: Fully Effective, Substantially Effective, Partially Effective, Largely Ineffective, Ineffective. Refer to the CHER Quantitative vs. Qualitative Terms and Definitions Table below for a mapping of CHER to it's definition and the related qualitative term and definition. Use the rating determined by completing the observation risk rating with likelihood and impact scores and applying that risk rating into the table below (i.e if a control has 1 low risk observation per the Observation Risk Rating table, the CHER for that control would be a 2 (Substantially Effective)).
+CHER provides a qualitative value of a control's effectiveness that is used as an input for various processes within the Risk Management Program. When needing to report to management, these quantitative values are translated to qualitative terms: Fully Effective, Substantially Effective, Partially Effective, Largely Ineffective, Ineffective. Refer to the CHER Quantitative vs. Qualitative Terms and Definitions Table below for a mapping of CHER to its definition and the related qualitative term and definition. Use the rating determined by completing the observation risk rating with likelihood and impact scores and applying that risk rating into the table below (i.e if a control has 1 low risk observation per the Observation Risk Rating table, the CHER for that control would be a 2 (Substantially Effective)).
 
 ##### CHER Quantitative vs. Qualitative Terms and Definitions (For individual controls)
 
@@ -105,11 +105,11 @@ CHER provides a qualitative value of a control's effectiveness that is used as a
   </tr>
 </tbody>
 </table>
-</details>
+
 
 <details markdown="1">
 
-<summary><b>Determining System Health Rating</b></summary>
+<summary><b>Determining System Health Rating</b>
 
 #### Quantitative vs. Qualitative Terms and Definitions
 
@@ -210,11 +210,11 @@ Refer to the System Effectiveness Rating Table below for a mapping of averaged C
   </tr>
 </tbody>
 </table>
-</details>
+
 
 <details markdown="1">
 
-<summary><b>Determining Control Family Effectiveness Rating</b></summary>
+<summary><b>Determining Control Family Effectiveness Rating</b>
 
 #### Quantitative vs. Qualitative Terms and Definitions
 
@@ -270,15 +270,11 @@ CHER is assigned on a control by control basis but in instances where we want to
   </tr>
 </tbody>
 </table>
-</details>
 
 #### CHER Override
 
-To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined GitLab Observation Management methodology, the final CHER can be downgraded (i.e move from 3 to 2) at the discretion of the Security Compliance Director if it is determined that the observation's risk rating and therefore CHER does not appropirately reflect the current control or control environment health. The rating cannot be upgraded (i.e move from 3 to 4) to ensure a conservative approach to securing the organization and managing risk.
+To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined GitLab Observation Management methodology, the final CHER can be downgraded (i.e move from 3 to 2) at the discretion of the Security Compliance Director if it is determined that the observation's risk rating and therefore CHER does not appropriately reflect the current control or control environment health. The rating cannot be upgraded (i.e move from 3 to 4) to ensure a conservative approach to securing the organization and managing risk.
 
-#### CHER Rating Updates
-
-As observations are resolved, the cooresponding CHER for the impacted control should be updated based on a subset of resolution criteria. See the [Updating CHER and Assessment Records Procedures runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Updating%20CHER%20and%20Assessment%20Records.md) for further instruction
 
 ## Exceptions
 
@@ -286,10 +282,12 @@ The process of completing control assessments will always require an associated 
 
 ## References
 
-- [GCF Contol Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
+- [GCF Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 - [Observation Creation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html)
+- [Observation remediation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)]
+- [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 
 ## Contact
 
-If you have any questions or feedback about the CHER process please [contact the GitLab Security Compliance Team](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/)
+If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team](https://about.gitlab.com/handbook/security/security-assurance/#contacting-the-team)
