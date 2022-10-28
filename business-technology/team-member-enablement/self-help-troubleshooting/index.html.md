@@ -82,7 +82,7 @@ A lot of people coming onboard to GitLab have had some sort of exposure to macOS
 
 - [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216)
 - [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236) - great to help your productivity!
-- [macOS : Catalina New Features](https://www.apple.com/au/macos/catalina/features/) - Apple's newest OS features
+- [macOS : Monterey New Features](https://www.apple.com/au/macos/monterey/features/) - Apple's newest OS features
 - [Got an iPad? - Check out Sidecar!](https://support.apple.com/en-afri/HT210380) - Apple iPad Sidecar
 - [How to use multiple workspaces on Mac](https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac)
 
