@@ -49,6 +49,10 @@ To read more about Okta, please visit the [**Okta**](/handbook/business-technolo
 
 To read more about our Jamf deployment please visit the [**Endpoint Management**](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) page of the handbook
 
+#### Laptop Delivery Metrics
+
+To view laptop delivery metrics and statistic please visit the [Laptop Metrics Handbook Page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/laptop-metrics/)
+
 #### GitLab Onboarding and machine management
 
 Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
