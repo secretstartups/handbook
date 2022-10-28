@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "POAM Vulnerability Deviation Request Procedure"
+title: "FedRAMP Vulnerability Deviation Request Procedure"
 ---
 
 ## On this page
@@ -30,23 +30,22 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 </div>
 
+Please read this procedure in its entirety and reach out to `@dedicated_compliance` in `# sec-assurance` channel if you have any questions.
+
 ## Purpose
-In accordance with expectations set by the FedRAMP PMO, GitLab must follow a formal process to track and request approval from our sponsoring Agency Authorizing Official (AO) for any vulnerabilities that are not [remediated within SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas). These are called vulnerability Deviation Requests (DR) and are formally reported to our AO every month using [GitLab's Plan of Action & Milestones (POA&M) (internal only)](https://docs.google.com/spreadsheets/d/1Tj3_vqNp34CSIHZsiSI0eM2zdfG574CD/edit?usp=sharing&ouid=107738356047141217629&rtpof=true&sd=true). Deviation requests for risk adjustments (severity downgrades), false positives, and operational requirements require Authorizing Official (AO) approval.
+In accordance with expectations set by the FedRAMP PMO, GitLab must follow a formal process to track and request approval from our sponsoring Agency Authorizing Official (AO) for any vulnerabilities that cannot or should not be [remediated within SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) due to scenarios described in the Scope section below. These are called vulnerability Deviation Requests (DRs) and are formally reported to our AO every month using [GitLab's Plan of Action & Milestones (POA&M) (internal only)](https://docs.google.com/spreadsheets/d/1Tj3_vqNp34CSIHZsiSI0eM2zdfG574CD/edit?usp=sharing&ouid=107738356047141217629&rtpof=true&sd=true). Deviation requests for risk adjustments (severity downgrades), false positives, and operational requirements require Authorizing Official (AO) approval.
 
 ## Scope
 Vulnerabilities (CVEs) impactful to the [FedRAMP production environment](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/#system-architecture) (authorization boundary) to include:
-- False positives 
-- Risk adjustments 
-- Operational requirements
-- Vendor dependencies 
+- False positives (scanner limitation - vulnerability is not actually present)
+- Risk adjustments (to CVSS score/severity)
+- Operational requirements (cannot be remediated without impact to functionality/availability)
+- Vendor dependencies (dependent on 3rd party to remediate)
+
+See DR Template Definitions below.
 
 **Assets:**
-- Container images (including base OS image and installed dependencies) for CNG `-fips` tag, secure analyzers with `-fips`, and GitLab Dedicated scope
-  - Detected by container scans and dependency scans
-- Host OS (EC2 instances such as Gitaly and Consul, kubernetes (EKS) worker nodes)
-  - Detected by dependency scans and in-boundary Tenable.sc
-- Web application (GitLab Rails/puma) only if confirmed CVE (as opposed to CWE)
-  - In-boundary Acunetix (GitLab DAST only detects CWEs)
+Only the assets and scan types listed [here](https://internal-handbook.gitlab.io/handbook/engineering/horse/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the production authorization boundary.
 
 ## Roles & Responsibilities
 
@@ -71,7 +70,7 @@ If denied, a remediation plan must be developed and this item will remain on the
 If approved, the ISSO will notify all involved parties via the GitLab issue with any additional instructions (like updating scanners).
 
 ### SLAs
-- 2 business days for internal technical review
+- 2 business days for internal security technical review
 - 2 business days for internal compliance review
 - Between 1-30 days for AO review (timeline depending on AO)
 
@@ -81,7 +80,9 @@ The following definitions were adopted from the FedRAMP PMO:
 - [**Risk adjustments**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A reduction in the scanner-cited risk level of a finding. Accomplished through existing or new compensating controls that reduce likelihood and/or impact of exploitation. 
 - [**Operational requirements**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A finding that cannot be remediated, often because the system will not function as intended, or because a 3rd party/vendor explicitly indicated it does not intend to offer a fix to their product. FedRAMP will not approve an OR for a High vulnerability; however, the risk may be mitigated and adjusted accordingly. 
 - [**Vendor dependencies**](https://www.fedramp.gov/assets/resources/documents/CSP_POAM_Template_Completion_Guide.pdf): The remediation of the weakness required by the action of a third party vendor or actively maintained open source project other than GitLab (e.g., through the issuing of a patch that is not yet released). We are required to check the status of the vendor’s remedy at least every 30 days. As long as the fix is still pending from the vendor, and we have checked-in within 30 days of POA&M submission, FedRAMP will not count the entry as late.
-  - Important Note: It is possible for a vulnerability to be both a vendor dependency and have a risk adjustment. FedRAMP requires that Critical/High severity vendor dependencies  be downgraded to a Moderate by putting in place (or specifying existing) compensating controls. In this scenario, the DR issue template for Risk Adjustment should be used, and the `FedRAMP Vendor Dependency` label also applied.
+  - Important information about vendor dependencies: 
+    - Vendor dependency DRs only need to be submitted if you are confident the vendor will not publish a patch by the due date (based on remediation SLA). If you are unsure, it is okay to wait to submit a DR until closer to the due date or when the label `Remediation SLO::Breaching SLO` is applied.
+    - It is possible for a vulnerability to be both a vendor dependency and have a risk adjustment. FedRAMP requires that Critical/High severity vendor dependencies be downgraded to a Moderate by putting in place (or specifying existing) compensating controls. In this scenario, the DR issue template for Risk Adjustment should be used, and the `FedRAMP Vendor Dependency` label also applied per the instructions.
 
 ### Workflow Labels
 
