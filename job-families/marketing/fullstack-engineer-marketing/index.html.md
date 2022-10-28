@@ -3,7 +3,7 @@ layout: job_family_page
 title: Fullstack Engineer - Marketing
 ---
 
-Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
  
 ## Responsibilities
 * Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
@@ -13,7 +13,7 @@ Fullstack Engineers on the Marketing team work on our marketing site: about.GitL
 * Help plan sprints and complete prioritized issues from the issue tracker.
  
 ## Requirements
-* Knowledge of HTML, CSS, HAML and JavaScript (jQuery, Vue.js).
+* Knowledge of HTML, CSS, HAML and JavaScript (Vue.js).
 * Experience with responsive design and best practices.
 * Knowledge of current web accessibility standards and requirements.
 * Knowledge of information architecture, interaction design, and user-centered design.
@@ -34,7 +34,7 @@ Fullstack Engineers on the Marketing team work on our marketing site: about.GitL
 
 ### Fullstack Engineer (Intermediate) 
 
-The Fullstack Engineer (Intermediate) reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+The Fullstack Engineer (Intermediate) reports to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
 
 #### Fullstack Engineer (Intermediate) Job Grade
 
@@ -66,7 +66,7 @@ The Fullstack Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/com
 
 ### Senior Fullstack Engineer
 
-The Senior Fullstack Engineer reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+The Senior Fullstack Engineer reports to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
 
 #### Senior Fullstack Engineer Job Grade
 
@@ -94,7 +94,7 @@ stakeholders.
 
 ### Manager, Engineering
 
-The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+The Manager, Engineering reports the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
  
 #### Manager, Engineering Job Grade
 The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
@@ -138,8 +138,8 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience. 
-* Next, candidates will be invited to schedule a 30 minute technical interview with our Fullstack Engineer and an interview with a Senior Brand Designer. 
-* Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing. 
+* Next, candidates will be invited to schedule a 30 minute technical interview with a Senior Engineer and an interview with a Senior Brand Designer on the Digital Experience team. 
+* Next, candidates will be invited to schedule a 30 minute interview with a Engineering Manager, Digital Experience. 
 * Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience. 
 * Successful candidates will subsequently be made an offer via phone or video. 
 
