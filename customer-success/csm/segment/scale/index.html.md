@@ -20,15 +20,30 @@ Definition: The Scale CSE team is a new team being established at GitLab in FY23
 
 Scale CSEs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) (GitLab Internal)
 
-The [Scale CSE operating rhythm](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
 
-## Customer lifecycle
+### Customer lifecycle
 
 The diagram below outlines the customer lifecycle for our Scale Customers:
 
 ![Customer Lifecycle Journey Scale CSE](/images/handbook/customer-success/Customer_Lifecycle_Journey_with_Metrics_-_Scale_CSE.png)
 
-## Motions
+### Scale CSE Role & Responsibilities 
+
+A core responsiblity for Scale CSEs is engaging with the customer base in targeted one-to-one interactions. As a result, the following expectations for weekly customer engagements have been established for Scale CSEs. These metrics keep in mind the importance of focusing on interacting with customers live, while also allowing time to prepare for and follow up with customers after these interactions:  
+
+- 15 customer calls per week (3 per day)
+
+For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale CSM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/customer-success-management/#scale)
+
+### Operating Rhythm and Active Campaigns
+
+The [Scale CSE operating rhythm](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
+
+
+Active Campaigns: [Email Content - GitLab Internal Only](https://docs.google.com/document/d/1Db6y_i2gPQrPnJkJpAAbfFKQtw4c5VgSFJcHKDG-4hk/edit)
+
+
+### Motions
 
 ### Align
 
@@ -69,15 +84,7 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
 1. Customer attendance in expansion webinars
 1. New Use Cases Adopted
 1. Renewal NPS & CSAT Scores
-1. Number of opportunities passed to sales reps
 
-### Scale CSE Role & Responsibilities 
-
-A core responsiblity for Scale CSEs is engaging with the customer base in targeted one-to-one interactions. As a result, the following expectations for weekly customer engagements have been established for Scale CSEs. These metrics keep in mind the importance of focusing on interacting with customers live, while also allowing time to prepare for and follow up with customers after these interactions:  
-
-- 15 customer calls per week (3 per day)
-
-For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale CSM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/customer-success-management/#scale)
 
 ### Additional Resources
 
