@@ -1686,6 +1686,10 @@ If an engineer notices that an issue has become irrelevant, he should @-mention 
 that triaged the issue to confirm that the vulnerability is not present anymore. <b>Note that it might still be necessary to backport a patch to previous releases according to our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html#security-releases)</b>.
 In case no backports are necessary, the issue can be closed.
 
+##### Reducing the number of backports
+
+With the approval of an Application Security Engineer a security issue may be fixed on the current stable release only, with no backports. Follow the [GitLab Maintenance Policy](https://docs.gitlab.com/ee/policy/maintenance.html#security-releases) and apply the `~reduced backports` label to the issue.
+
 ### Internal Application Security Reviews
 
 For systems built (or significantly modified) by Departments that house customer and other sensitive data, the Security Team should perform applicable application security reviews to ensure the systems are hardened. Security reviews aim to help reduce vulnerabilities and to create a more secure product.
