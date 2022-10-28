@@ -433,7 +433,7 @@ Below is a table with the current workflows setup:
     <td>Okta 2FA Assistance</td>
     <td>Okta</td>
     <td>:okta:</td>
-    <td>Hi {user]<br>Did you set up a YubiKey or Google Authenticator as another form of MFA? Use that to access your settings page to re-set your Okta Verify application.<br>If this was not helpful, an IT technician will reach out for assistance!</td>
+    <td>Hi {user]<br>Did you set up a YubiKey or Touch ID as another form of MFA? Use that to access your settings page to re-set your Okta Verify application.<br>If this was not helpful, an IT technician will reach out for assistance!</td>
   </tr>
   <tr>
     <td>Access Request</td>
