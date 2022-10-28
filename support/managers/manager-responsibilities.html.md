@@ -145,4 +145,8 @@ Each week, Support Managers should do one or more of these activities:
 By continually engaging with workflows, tickets, and customers we can build empathy and understand pain points through first-hand experience. 
 
 In this way, we build trust with engineers and customers while creating a sense of psychological safety by demonstrating that it's okay not to know.
+ 
+## Company processes with Support specific actions
+### Discretionary Bonuses
+Follow the Manager process in the [company process](https://about.gitlab.com/handbook/incentives/#process-for-recommending-a-team-member-for-a-discretionary-bonus), and when you announce the bonus, also add it the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) as a "Team Member Update" item. 
 
