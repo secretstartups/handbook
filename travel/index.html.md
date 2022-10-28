@@ -259,19 +259,16 @@ Our top priority is the health and safety of our team members.
 
 ### Covid-19 Travel Working Group
 
-The COVID-19 Travel Working Group is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by the Staff EBA and Principal Internal Communications Manager. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
+The COVID-19 Travel Working Group is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by Legal and People Operations. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
 
 Meeting Schedule:
 
-1. 2022-06-16
-1. 2022-07-21
-1. 2022-08-18
 1. 2022-09-15
-1. 2022-10-20
+1. 2022-10-27
 1. 2022-11-17
 1. 2022-12-15
 
-These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page.
+These meetings are subject to change and we will continue to evaluate the frequency of them. The People Operations support is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page.
 
 If you have a question or feedback related to the working group, please post in the slack channel: #covid19-response-committee
 
@@ -283,7 +280,7 @@ Where can GitLab Team Members Travel? While some areas of the world have decreas
 
 This section has been updated as of 2022-07-29
 
-Fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for any business reason can do so without seeking prior approval from the COVID-19 Travel Working Group.  With COVID-19 cases decreasing around the world, we've made the data-driven decision to re-open team member travel.   
+Fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for any business reason can do so without seeking prior approval from the COVID-19 Travel Working Group.  With COVID-19 cases decreasing around the world, we've made the data-driven decision to re-open team member travel with the vaccine requirement.  
  
 
 While obtaining COVID-19-specific approval before travel is no longer needed, you will still need to get manager approval. As with every case, always coordinate with your manager to ensure alignment with the required travel, and please follow the [Travel and expense guidelines](https://about.gitlab.com/handbook/finance/expenses/#-travel-and-expense-guidelines). 
@@ -298,7 +295,7 @@ There may be some roles that require travel.  If travel is required for your rol
 
 At this time, all business travel requires pre-approval by your manager, and only fully vaccinated and boosted team members may travel for business if their request is approved. By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time to travel.
 
-Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
+Team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 
 Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
 
