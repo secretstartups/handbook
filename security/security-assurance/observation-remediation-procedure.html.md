@@ -35,12 +35,11 @@ This procedure details the remediation process of observations.
 
 | Role | Responsibility|
 | ---- | ------ |
-| Security Compliance Team | Responsible for executing [Security control tests](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#) to determine test of design and test of operating effectiveness of Security and IT general controls. |
-| Internal Audit | Responsible for executing [Internal Audit control tests](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/) to determine test of design and test of operating effectiveness of all internal controls as required by audit plan. |
+| Security Compliance Team | Responsible for executing [Security control tests](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#) to determine the test of design and test of operating effectiveness of Security and IT general controls. |
 | Security Risk Team | Responsible for executing [Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) (TPRM) risk and security assessments to determine risk associated with third party applications and services. |
 | Field Security Team | Responsible for executing [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)(CAA) responsible for providing customer assurance with GitLab's security practices and operating procedures. |
 | Observation Manager | Responsible for being the observation DRI through the observation lifecycle including verifying and fine tuning recommended remediation plans in order to meet legal and regulatory requirements. |
-| Remediation Owner | Validates observation, confirms assignee, stop date (due date), finalizes remediation plan and conducts remediation activity based on defined [remediation SLA's](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/observation-remediation-procedure.html#remediation-sla). |
+| Remediation Owner | Validates observation, confirms assignee, stop date (due date), finalizes remediation plan and conducts remediation activity based on defined [remediation SLA's](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html#remediation-sla). |
 | Observation Program DRI | Responsible for regular reviews of program health and stakeholder report delivery. |
 | Managers to Executive Leadership | Responsible for escalation as necessary and resource allocation for remediation activity. |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure. |
@@ -57,32 +56,27 @@ graph TD;
 
 ### Observation Remediation 
 
-It is the responsibility of the Observation Manager to track the milestones, work progress and validation of the remediation activity.
+Once all remediation activities have been completed, the Remediation Owner is responsible for tagging the Observation Manager in the observation issue. If there is no Observation Manager assigned, tag `@gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated` in the observation issue.
 
-**See STEP 3 in the applicable runbook below for the `Observation Remediation Workflow` based on observation type:**
+It is the responsibility of the Observation Manager to track the milestones, work progress and validation of the remediation activity. The Observation Manager will then validate the remediation activity for completeness, re-test the observation (as applicable) and close the observation issue. If re-testing does not result in a fully effective conclusion, the observation description and remediation recommendations may be updated to reflect the new findings and required remediation tasks. 
 
-* [Security Control Testing Activities (CCM)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Control%20Testing%20Observation%20Generation.md)
-* [Internal Audit Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Internal%20Audit%20Observation%20Generation.md)
-* [Third Party Risk Management (TPRM) Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/TPRM%20Observation%20Generation.md)
-* [Customer Assurance Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Customer%20Assurance%20Activities%20Observation%20Generation.md)
-* [External Audits](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/External%20Audit%20Observation%20Generation.md)
-* [Third Party Application Scanning](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Third%20Party%20Application%20Scanning%20Observation%20Generation.md)
-* [Ad-hoc Observations](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Ad-hoc%20Observation%20Generation.md)
-* [Gap Assessment Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Gap%20Assessment%20Activities.md)
+For detailed requiremented the observation manager follows during the remediation process, refer to the [remediation and closeout runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/2_Remediation%20and%20Closeout.md)
+
+
 
 ### Resolved
 
-Once all remediation activities have been completed, the Remediation Owner is responsible for tagging the Observation Manager in the observation issue. If there is no Observation Manager assigned, tag the @sec-compliance-team. The Observation Manager will then validate the remediation activity for completeness, re-test the observation (as applicable) and close the observation issue.
+The observation is moved to `Resolved` after the [observation remediation step](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html#observation-remediation) is completed. 
 
 ### Ignored/Invalid
 
-It is the responsibility of the Observation Manager to determine if a open observation is not valid or no longer applicable. This could be applicable for a variety of reasons including:
+It is the responsibility of the Observation Manager to determine if an open observation is not valid or no longer applicable. This could be applicable for a variety of reasons including:
 
 * stale observations
 * legacy GCF controls 
 * process or application changes
 
-If an observation is confirmed Ignored or Invalid, the associated risk rating of that observation can be changed. See the [Observation Risk Rating Adjustment](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/Updating%20Observation%20Risk%20Ratings.md) runbook for further details.
+If an observation is confirmed Ignored or Invalid, the associated risk rating of that observation can be changed. See the [Observation Risk Rating Adjustment](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/2_Remediation%20and%20Closeout.md#moving-to-ignoreinvaild-in-zengrc) runbook for further details.
 
 ### Root Cause Observation Epics
 
@@ -90,10 +84,6 @@ If multiple observation issues relate to the same root cause or are blocked by t
 
  A list of observation Epics can be found [here](https://gitlab.com/groups/gitlab-com/gl-security/security-assurance/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=Observation+Epics).
  
-## Remediation 
-
-The Remediation Owner is responsible for tagging the Observation Manager in the observation issue to validate the remediation activity for completeness, re-test the observation (as applicable) and close the observation issue. If there is no Observation Manager assigned, tag the @sec-compliance-team for Observation Manager assignment.
-
 ### Non Remediation Owner Actions To Support Observation Closure
 
 In cases where Internal Stakeholders (not the Remediation Owner) provide remediation documentation to support closure of the observation. Please tag the Observation Manager in the observation issue. This will trigger the validation of the remediation activity for completeness, re-test as appropriate and closure by the Observation Manager. 
@@ -102,13 +92,12 @@ In cases where Internal Stakeholders (not the Remediation Owner) provide remedia
 
 Observation remediation SLA's are determined by the risk rating of the individual observation. The following table shows the SLA for each risk rating:
 
-| Risk Rating | Remeditation SLA | Remediation Goal |
+| Risk Rating | Remediation SLA | Remediation Goal |
 | :---: | :---: | :---: |
 | High | 6 months, or as otherwise defined by the agreed upon remediation plan | 4 weeks |
 | Moderate | 6-12 months, or as otherwise defined by the agreed upon remediation plan | 6 weeks |
 | Low | > 12 months, or as otherwise defined by the agreed upon remediation plan | 8 weeks |
 
-A more detailed SLA and Remediation Goal process can be found [in this runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/observation-management/-/blob/master/SLA%20and%20Remediation%20Goals.md) (access is available only to internal GitLab team members)
 
 ### Opportunities for Improvement (OFI)
 
@@ -134,10 +123,11 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 ## References
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
-- [GCF Contol Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
+- [GCF Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 - [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html)
-- [Control Health and Effectiveness Rating Procedure](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/control-health-effectiveness-rating.html)
+- [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
+- [Control Health and Effectiveness Rating Procedure](https://about.gitlab.com/handbook/security/security-assurance/control-health-effectiveness-rating.html)
 
 ## Contact
 
