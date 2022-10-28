@@ -35,7 +35,6 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Ray Leihe](https://gitlab.com/Leihe268) | VP, Marketing Strategy and Platforms|
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
-| [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
@@ -132,6 +131,8 @@ Please do not reopen issues that have been closed in a previous milestone. If yo
 
 ### OKRs
 To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
+
+Check out our [quarterly highlights trackers](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/?sort=created_date&state=all&label_name%5B%5D=mktgops-highlights&first_page_size=20) to learn more about the key results we've accomplished. 
 
 
 

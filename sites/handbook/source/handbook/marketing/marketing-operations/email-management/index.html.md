@@ -68,6 +68,13 @@ The email limits are not set in campaign templates, however, if your email is se
 
 Please reference and use the [All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs) to see other sends happening around the same time.
 
+## Request non-Demand Generation Emails
+Non-DG emails are sometimes required for product updates, security alerts, survey emails and more. If this is an emergency, follow the directions [here](/handbook/marketing/emergency-response/#marketing-emergency-response) Otherwise, please complete the following:
+1. [Create email issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#request-operational-email)
+1. If necessary, [create a list request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#request-target-list)
+
+These issue templates are different from `marketing` emails and have their own checklists that apply. A general SLA is 5 business days from final assets to send, but please put in issues as soon as you know you need to complete a send (even if you do not have final deliverables) as complexity may push out the SLA. Here are some [helpful tips](/handbook/marketing/emergency-response/#customer-comms-email) to consider when sending a customer email. 
+
 ## How to Unsubscribe
 If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
 1. Send the person to the [Email Subscription Center](https://about.gitlab.com/company/preference-center/index.html) to update their preferences
@@ -88,6 +95,9 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
 
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
+
+**Non-DG**
+Emails that are not cosidered `operational` but also do not fit the categories below. Examples are Surveys, TeamOps sends, etc. 
 
 **Newsletter**
 The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
