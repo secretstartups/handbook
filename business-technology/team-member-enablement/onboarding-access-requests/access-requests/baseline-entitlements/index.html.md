@@ -74,6 +74,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role                                                       | Read-Only                        |
 | Zoom                             | For video conferencing / meetings                   | Pro                                                                        | Read-Only                        |
 | Authomize                        | User Access Review tool                             | Reviewer                                                                   | Read + Write for assigned campaigns |
+| OneTrust Vendorpedia                      | RFx Tool                                            | Answerbase General Users | Read-Only |
 
 ## Role Entitlements for a specific job
 
