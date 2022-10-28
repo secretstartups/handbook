@@ -65,7 +65,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
    1. Quarter Started/Starting: FY23-Q1    
 1. Shift LAM to Primary Metric
-   1. DRI / Sponsor: TBD / TBD 
+   1. DRI / Sponsor: TBD / @mmcb 
    1. Description: Shift LAM to our primary metric for top of funnel and decision-maker.
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q3
