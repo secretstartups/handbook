@@ -17,7 +17,7 @@ OneTrust is privacy, security, and data governance software that marketing uses 
 ## Support
 
 1. Technical assistance: Slack [#mktgops](https://gitlab.slack.com/archives/mktgops)
-1. [Support Portal](https://support.onetrust.com/hc/en-us) (requires seperate account/login)
+1. [Support Portal](https://support.onetrust.com/hc/en-us) (requires separate account/login)
 1. `support@onetrust.com`
 1. [Cookiedatabase.org](https://cookiedatabase.org/)
 1. [Cookiepedia](https://cookiepedia.co.uk/)
@@ -92,7 +92,7 @@ In the list of websites that have been scanned, you can hover over any domain an
 1. Re-scan: re-scans the website and provides additional options for the re-scan.
 1. Re-process
 1. Reassign: reassign to a different organization
-1. Login: This option gives you the ability to scan behind a login or webform; if clicked, you'll be redirected to the website details to provide additional information; you can gather the web form HTML attributes by using the `Inspect` feature in Google Chrome
+1. Login: This option gives you the ability to scan behind a login or web form; if clicked, you'll be redirected to the website details to provide additional information; you can gather the web form HTML attributes by using the `Inspect` feature in Google Chrome
 1. Schedule: schedule a future scan (default: every 3 months for every quarter of the year); option to notify a user once completed
 1. Stop: stop a pending scan
 1. Delete: delete a scan
@@ -135,7 +135,7 @@ From the main scan results page, you can also select these 6 categories to dive 
 
 #### Cookie scan results
 
-View categories of cookies including the name of the specific cookie. This information comes from and is compared to OneTrust's cookie database (cookiepedia.co.uk). You can export these results by clicking `Export` in this view. After clicking `Export` you can choose the specific scan to export results from. When the export is ready for download, a notification will appear within the OneTrust tenant as the bell icon in the top-most menu. 
+View categories of cookies including the name of the specific cookie. This information comes from and is compared to [OneTrust's cookie database](https://cookiepedia.co.uk/). You can export these results by clicking `Export` in this view. After clicking `Export` you can choose the specific scan to export results from. When the export is ready for download, a notification will appear within the OneTrust tenant as the bell icon in the top-most menu.
 
 ### Exporting Scan Results
 
@@ -156,7 +156,7 @@ These cookie categories are standard and the defaults provided by OneTrust:
 1. **Targeting cookies ID C0004:** cookies that attempt to gather more information about a user in order to personalize marketing (example: remarketing)
 1. **Social media cookies ID C0005:** social media services added to the site that enable users to share content with their friends and networks easily
 
-You also have the ability to create a new cookie cateogory.
+You also have the ability to create a new cookie category.
 
 Cookies in the `Unknown` category need to be categorized manually with help from developers, third-party vendors, or through a Google search.
 
@@ -166,7 +166,7 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 1. View the list of cookies that have been identified and categorized, including the domain where it was identified, the lifespan of the cookie, the hostname, and the description.
 1. Click into each cookie individually to view more information about that cookie. 
 1. In the `Edit Cookie` overlay, you can select a different category for the cookie, add a description for the cookie, update the lifespan of the cookie, note whether it's a first-party or third-party cookie, and select the domains to manually assign the cookie to. Changing the lifespan of the cookie is for auditing purposes and does not change the functionality on the website.
-1. Manually add a cookie to a particular domain if you don't wish to run the domain through a scan in order to pick it up. Click `Add Cookie` to manually add a cookie and input all the information regarding that cookie from step 4. **Note:** Host is not necessarily the domain where the cookie is but where the cookie is hosted. This will not add the cookie to the domain you input, but rather an exisiting cookie on the domain that is not part of the audit.
+1. Manually add a cookie to a particular domain if you don't wish to run the domain through a scan in order to pick it up. Click `Add Cookie` to manually add a cookie and input all the information regarding that cookie from step 4. **Note:** Host is not necessarily the domain where the cookie is but where the cookie is hosted. This will not add the cookie to the domain you input, but rather an existing cookie on the domain that is not part of the audit.
 1. You also have the option to bulk categorize cookies by selecting multiple cookies from the list. Select all cookies or specific cookies from the list, then click the double-arrow icon to bulk edit the categories of those cookies.
 1. Use the search bar to search for specific cookies by the cookie name or the host name. 
 1. Use the filter icon to filter down to specific types of cookies by their category, domain, lifespan, or hostname (example: only view functional cookies). 
@@ -240,7 +240,7 @@ In `styling`, you can choose to override the styling from the cookie banner to h
 
 Notice there are different options in the preference center under layout as well. Depending on the options chosen, some features may not be available (example: choosing the `tab` layout removes the accordion feature for the cookie categories). Custom CSS is also available for the preference center.
 
-There are options for [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/2004/10/wcag2-nav/wcag20.html) best practices for accessibilty in the preference center.
+There are options for [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/2004/10/wcag2-nav/wcag20.html) best practices for accessibility in the preference center.
 
 **Advanced configuration**
 
@@ -258,18 +258,18 @@ Ensure any changes you make are approved by legal and saved within the OneTrust 
 ### Adding, Editing, and Deleting Geolocation Rules
 
 1. Click `Geolocation Rules` in the cookie compliance menu.
-1. A `Default Consent Policy` exsits out of the box. 
+1. A `Default Consent Policy` exists out of the box.
 1. Click `Create New` to create a new geolocation rule group.
 1. Name the rule group.
 1. Choose `GitLab` organization.
 1. Enter a description.
 1. In the `rule group details`, a default `global` rule exists which would apply these settings globally regardless of country. To add a country or region specific rule, click `Add rule` and update the options accordingly.
 1. Name the rule. (example: GDPR)
-1. Select the regions you would like to assign the policy to. Multpiple regions can be included for a specific rule. **Note:** Geolocation for mobile devices uses coordinates reported by the internet-connected device. Users at or near borders may experience reduced accuracy for this function.
+1. Select the regions you would like to assign the policy to. Multiple regions can be included for a specific rule. **Note:** Geolocation for mobile devices uses coordinates reported by the internet-connected device. Users at or near borders may experience reduced accuracy for this function.
 1. Toggle `Show Banner` on or off. If unchecked, no banner will display but settings take effect.
 1. Input the template to use for this geolocation rule. 
 1. Choose the consent model for this geolocation rule. Clicking the dropdown here, you can select a consent model for all cookie categories or specify the consent model for each cookie category. Toggle `Do Not Track` by the cookie category.
-1. In `Behaviors` you can toggle the behavior for this rule in conjunction with the cookie banner and whether that paritcular behavior will `accept all cookies` or not as well as closing the banner.
+1. In `Behaviors` you can toggle the behavior for this rule in conjunction with the cookie banner and whether that particular behavior will `accept all cookies` or not as well as closing the banner.
 1. Reconsent will occur after: this will prompt the banner again for users to capture reconsent. The default is 1 year but can be configured by months, years, and days. 
 1. Capture records of consent: cookie ID associated with each user; the consent module logs those preferences. 
 1. Advanced analytics: sends browser type, device type, and country where the user consented. This information will be shown in the dashboard. Toggle this to a specific cookie category (example: performance cookies for Google analytics). 
@@ -307,7 +307,7 @@ Publishing the test scripts will not affect the live production scripts.
 
 #### Production
 
-Production scripts are for use in live websites. Fatest page load speed. Published changes will take up to 4 hours to show. 
+Production scripts are for use in live websites. Fastest page load speed. Published changes will take up to 4 hours to show.
 
 **The script tags need to be placed as the first element in the `<head>` of the site. It is important that the OneTrust script is placed before other scripts on the site to ensure users have a chance to consider their cookie preferences before cookies are potentially dropped on their machines.**
 
@@ -323,7 +323,7 @@ Click `Publish Test`. Here you can choose which version of the script to publish
 
 Here you can confirm the publication settings of the script. Note: enabling or disabling some of these settings may change the embed script and would have to be re-implemented on the site.
 
-1. **Publish individual langauges:** when toggle is `off`, all languages will be published
+1. **Publish individual languages:** when toggle is `off`, all languages will be published
 1. **Do you require users to re-consent?** Switching to IAB TCF 2.0 requires that your users re-consent, as preferences have changed. TCF 2.0 is not backwards compatible with TCF 1.0
 1. **Prevent fetching banner:** When toggle is `on`, the banner template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
 1. **Prevent fetching preference center:** When toggle is `on`, the preference center template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
