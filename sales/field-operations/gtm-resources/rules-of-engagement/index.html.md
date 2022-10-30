@@ -57,7 +57,7 @@ Non-compliance to these policies goes against the GitLab values and it will be u
 
     1. If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAL/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. The transferring SAL/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience. 
     1. In the event a SAL/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-    1. SALs/AEs are not permitted to sell into accounts they do now own in SFDC.  
+    1. SALs/AEs are not permitted to sell into accounts they do not own in SFDC.  
     
 
 1. **Account Ownership:** 
