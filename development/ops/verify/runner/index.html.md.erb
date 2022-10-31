@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Verify:Runner Group"
-description: "The GitLab Runner Group's team page."
+title: "Verify:Runner"
+description: "The GitLab Runner team page."
 ---
 
 ## On this page
@@ -10,18 +10,21 @@ description: "The GitLab Runner Group's team page."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Vision
+
+By 2025, our vision for GitLab Runner is that the runner's setup and day-to-day operations at scale be an almost zero-friction experience.
+
 ## Mission
 
-The Verify:Runner Group is responsible for developing and maintaining GitLab Runner, features and capabilities for Runner SaaS, and delivering a lovable user experience for managing a build agent fleet at scale.  Our mission is to provide market-leading features to simplify CI/CD workflows running anywhere and on any computing platform and support our thriving and active community contributors.
+Our mission is to enable organizations to efficiently run GitLab CI/CD jobs on any computing platform and do so in an operationally efficient and highly secure way at any scale.
 
 This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
-## Product Vision and Strategy
+## Product Strategy and Roadmap
 
-The vision and strategy for the runner product categories are covered on the following direction pages.
+The product strategy and roadmap for the runner product categories are covered on the following direction pages.
 
 - [Runner Core](/direction/verify/runner_core/)
-- [Runner SaaS](/direction/verify/runner_saas)
 - [Runner Fleet](/direction/verify/runner_fleet)
 
 ## UX strategy
@@ -43,7 +46,7 @@ The following people are permanent members of the Verify:Runner group:
 To find out who our stable counterparts are, look at the [runner product
 categtory](/handbook/product/categories/#runner-group)
 
-## Dashboards 
+## Dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner" } %>
 
@@ -57,11 +60,8 @@ is added to each project with maintainer permission. We also try to align tools 
 - [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
 - [GitLab Runner Operator for Kubernetes](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator)
 - [GitLab Runner Helm Chart](https://gitlab.com/gitlab-org/charts/gitlab-runner)
-- [Autoscaler - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/autoscaler)
-- [AWS Fargate - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/fargate)
 - [GitLab Runner UBI offline build](https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-ubi-images)
-- [GCP Windows Shared Runners base VM image](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/gcp/windows-containers)
-- [MacStadium macOS VM images](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/macstadium/orka)
+
 
 ### Helper projects
 
@@ -76,7 +76,7 @@ is added to each project with maintainer permission. We also try to align tools 
 ### Other projects
 
 - [DinD image tests](https://gitlab.com/gitlab-org/ci-cd/tests/dind-image-tests)
-- [Docker Machine fork](https://gitlab.com/gitlab-org/ci-cd/docker-machine/)
+
 
 ## Technologies
 
@@ -86,63 +86,37 @@ We spend a lot of time working in Go which is the language that [GitLab Runner](
 
  * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
  * [Slack Channel](https://gitlab.slack.com/archives/g_runner)
- * [Roadmap](https://gitlab.com/groups/gitlab-org/-/boards/2169473?label_name[]=Category%3ARunner&label_name[]=direction)
 
 ## Development Process
-
-### Roadmap
-
-The GitLab Runner product development team maintains the following roadmap issue boards aligned to delivery milestones.
-
-- [Runner Core](https://gitlab.com/groups/gitlab-org/-/boards/3379024?label_name[]=group%3A%3Arunner&label_name[]=runner%3A%3Acore)
-- [Runner SaaS](https://gitlab.com/groups/gitlab-org/-/boards/3666084?label_name[]=runner%3A%3Asaas)
-- [Runner Fleet](https://gitlab.com/groups/gitlab-org/-/boards/3666093?label_name[]=group%3A%3Arunner&label_name[]=runner%3A%3Afleet)
-
-These roadmap views are the tactical implementation of the GitLab Runner Product Vision and Strategy. They depict the actual work that the runner development team is actively working on for the current milestone or planning to deliver in a near-term milestone.
-
-**Note** Even though issues are assigned to a milestone as this is important for roadmap planning and general direction setting, it is only on completion of the iteration plan for a milestone will engineering commit delivery.
 
 ### Iterations
 
 The Gitlab Runner team works in monthly iterations. While the feature freeze for the core runner project is on the 7th in preparation for the release on the 22nd of each month, iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
-At a minimum, 14 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features, bugs, technical debt, UX debt to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
+At a minimum, 30 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
 
-The commitments for the iteration plan are directly related to the capacity of the team for the upcoming iteration. Therefore, to finalize the iteration plan for a milestone, we re-evaluate and consider the following sources of input:
+The commitments for the iteration plan are directly related to the capacity of the team for the upcoming iteration. Therefore, to finalize the iteration plan (resource allocation) for a milestone, we evaluate and consider the following:
 
-- In flight development work that did not complete prior to feature freeze.
+- Forced prioritization issues (these issues will always be first in line for resource allocation.)
+- In flight development work that did not complete prior to the feature freeze.
 - Strategic direction features.
 - Community or customer requested features.
-- Security issues.
-- Bugs: Priority one bugs are first in the queue for available developer capacity. Second is long-standing priority two bugs with missed SLO's.
-- Technical Debt.
-- Maintenance.
-- Engineering allocations.
-- Community merge requests review assignments.
+- Bugs
+- Technical Debt
+- Maintenance
+- Community merge requests review assignments
 
 ### Iteration Planning and Issue Refinement Process
 
 1. The PM creates iteration planning issues for at minimum the next three milestones.
-1. The PM adds candidate issues to the issue. The PM considers the WIP limits for each runner category. The WIP limits must be considered as this (a) forces rigorous prioritization and (2) enables the team to be more efficient as the team can focus on a manageable list of issues. The WIP limits as of November 2021 are listed below.
-1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::15.0`
+1. The PM adds candidate issues to the planning issues.
+1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::16.0`
 1. The PM assigns the iteration planning issues to the runner engineering manager (EM).
-1. The PM tags the runner team on the issue. This is to enable the team to collaborate async on the planning issue. This is very important as the goal is to ensure that the iteration plan reflects planned work.
 1. The EM reviews all candidate tech debt, bugs, security and feature issues and validates if the `~workflow::ready for development` label can be applied or the issue needs further refinement. The priority is the next in queue milestone.
 1. The EM will assign issues needing refinement to individual engineers and add the `~workflow::refinement` label to the issue.
 1. **Issue Refinement**: engineers assigned to refine an issue are responsible for coming up with an implementation plan for the issue - exploring any unknowns, edge cases, or compatibility challenges that may come up and proposing how the issue can be broken down into smaller tasks that can be iterated on quickly. We strive to iterate and break down the efforts to ship as much value in the milestone for our users as possible. If you see a more efficient way forward when you start working on issue refinement, you are free to update the proposal and create a new issue to deliver value more quickly to our users.
 1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. All issues that are targeted for delivery in the milestone must have an engineer assigned.
 1. Finally the EM adds the `~deliverable` label to all issues and removes the scoped label `~candidate::x.y` from the issue.
-
-### Runner Category WIP (capacity) Limits for Iteration Planning - revised 2021-11-15
-
-| Runner Category |Sub-category|Issue limit|
-| ------ | ------ |------ |
-| Runner Core| Security Issues | 3|
-| Runner Core| Bugs| 3|
-| Runner Core| Tech Debt| 3|
-| Runner Core| Features | 3|
-| Runner SaaS| Features| 3|
-| Runner Fleet| Features| 3|
 
 ### Guidelines for Merge Requests
 
