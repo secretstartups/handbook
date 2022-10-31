@@ -26,11 +26,13 @@ For the 2023 plan year GitLab will continue to cover 100% of team member coverag
 
 Please see additional information on the 2023 US Benefit Plans: 
 
-* Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. 
+* Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available. 
 
-* Review the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. 
+* Review the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.  
 
 * Watch the [2023 US Benefits Video](https://www.brainshark.com/willis/vu?pi=zIgzfm1iozgaiCz0) for a full review of the benefit plans. 
+
+* Watch the [High Deductible (HDHP) & HSA Deep dive Webinar](https://drive.google.com/file/d/1N9DpIyoqKnoDWDZdoU8MlWV_NB30GZeu/view?usp=sharing) to learn more about this health plan and the tax advantages of enrolling in the HDHP plan with an HSA. 
 
 * GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 
@@ -216,7 +218,7 @@ Accredo is Cigna's specialty pharmacy. For more information on managing your spe
 | Family                   | $0  | $466 | $450 |
 
 
-Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
+Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  Watch the [High Deductible (HDHP) & HSA Deep dive Webinar](https://drive.google.com/file/d/1N9DpIyoqKnoDWDZdoU8MlWV_NB30GZeu/view?usp=sharing) to learn more about this health plan and the tax advantages of enrolling in the HDHP plan with an HSA. 
 
 ##### Cigna Emotional Well-Being Virtual Support
 
@@ -249,6 +251,8 @@ Please reach out to the [Total Rewards team and WTW](/handbook/total-rewards/ben
 1. When you scroll down, there are quick links for your nearest urgent care and telehealth.
 
 Potential joiners who do not have a myCigna account yet can search for providers on the [Cigna Website](https://hcpdirectory.cigna.com/web/public/consumer/directory/plan-selection). When selecting a plan everyone at GitLab (PPO, EPO, and HDHP members) will use the OPEN ACCESS PLUS selection, except for Utah members, who will use the PPO option. 
+
+Team Members and potential joiners can also reach out to the [Cigna One Guide service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to check if their doctors are in-network and walk through the GitLab plans with a Cigna rep.
 
 IMPORTANT NOTE:
  
