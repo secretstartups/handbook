@@ -157,6 +157,13 @@ The following are books suggested by GitLab team members in the [#women Slack ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a10N6xYB7Ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Literature Parties 
+
+In the following 2 sessions, team members read [Good Bones](https://waxwingmag.org/items/Issue9/28_Smith-Good-Bones.php) & [Hope is the Thing With Feathers](https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314).
+
+1. [Session 1 Recording](https://youtu.be/g-Y1romKfug)
+2. [Session 2 Recording](https://youtu.be/v7rEq5tmCao)
+
 ## Additional Resources
 
 ### Women TMRG logo 
