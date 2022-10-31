@@ -32,10 +32,10 @@ You can take time to learn about something that will help you in your current ro
 We have outlined recommended LinkedIn Learning paths for different roles at GitLab. We also have a [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) channel in GitLab Learn to showcase popular and recommended courses among GitLab Team Members. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
-- [Confronting Bias: Thriving Across our Differences](https://gitlab.edcast.com/insights/ECL-393c827e-4175-46e2-bdfb-768c7cb49f27)
-- [Diversity, Inclusion, and Belonging](https://gitlab.edcast.com/insights/ECL-6de0468c-8f07-4cb8-8cca-4ab2de0dfd07)
-- [Supporting your mental health while working from home](https://gitlab.edcast.com/insights/ECL-41f42b4f-ad92-4591-8e3a-1c6a780074fc)
-- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://gitlab.edcast.com/insights/ECL-2c1083e4-2e40-4778-9d3c-4bc86145420b)
+- [Confronting Bias: Thriving Across our Differences](https://www.linkedin.com/learning/confronting-bias-thriving-across-our-differences)
+- [Diversity, Inclusion, and Belonging](https://www.linkedin.com/learning/diversity-inclusion-and-belonging-2019/the-foundation-of-dibs?autoplay=true&u=2255073)
+- [Supporting your mental health while working from home](https://www.linkedin.com/learning/supporting-your-mental-health-while-working-from-home/introduction-to-supporting-your-mental-health-while-working-from-home?u=2255073)
+- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://www.linkedin.com/learning/psychological-safety-clear-blocks-to-innovation-collaboration-and-risk-taking/psychological-safety-clear-blocks-to-problem-solving-and-innovation?autoplay=true&u=2255073)
 
 ### Aspiring People Leaders 
 - [Leading Yourself](https://gitlab.edcast.com/insights/ECL-4bb8cdde-b9be-4c99-99a7-129956cd712d)
