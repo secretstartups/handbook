@@ -21,22 +21,22 @@ This page provides an overview on relevant CSM leadership processes.
 ## CSM Leadership
 
 | Name | Region | Role | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | [CSM Segment](/handbook/customer-success/csm/segment/) |
-|--------------------------------------------------------------------------------|-----------|-------------|-------------------------|--------------------|
-| [Sherrod Patching](https://about.gitlab.com/company/team/#spatching)           | Global    | VP          | All (ENT, COMM, PubSec) | All CSM Segments   |
-| [Christiaan Conover](https://about.gitlab.com/company/team/#christiaanconover) | AMER      | Director    | Enterprise              | Strategic & Growth |
-| [Taylor Lund](https://about.gitlab.com/company/team/#taylorlund)               | Global    | Manager     | All (ENT, COMM, PubSec) | Scale              |
-| [Chloe Whitestone](https://about.gitlab.com/company/team/#chloe)               | AMER      | Manager     | All (ENT, COMM, PubSec) | Growth             |
-| [Christina Souleles](https://about.gitlab.com/company/team/#csouleles)         | EMEA      | Manager     | Enterprise & Commercial | Growth             |
-| [Patrick Harlan](https://about.gitlab.com/company/team/#pharlan)               | Global    | Sr Manager  | Commercial              | Strategic          |
-| [Sophie Pouliquen](https://about.gitlab.com/company/team/#spouliquen1)         | AMER East | Manager     | Enterprise              | Strategic          |
-| [Tiffany McAtee](https://about.gitlab.com/company/team/#tiffanymcatee.gitlab)  | AMER East | Manager     | Enterprise              | Strategic          |
-| [John Woods](https://about.gitlab.com/company/team/#jwoods06)                  | AMER West | Sr Manager  | Enterprise              | Strategic          |
-| [Jamie Reid](https://about.gitlab.com/company/team/#jrreid)                    | AMER West | Manager     | Enterprise              | Strategic          |
-| [Dave Thompson](https://about.gitlab.com/company/team/#dthompson3)             | APAC      | Manager     | Enterprise              | Strategic          |
-| [Michael Leutz](https://about.gitlab.com/company/team/#mrleutz)                | EMEA      | Sr Manager  | Enterprise              | Strategic          |
-| [James Wormwell](https://about.gitlab.com/company/team/#jwormwell)             | EMEA      | Manager     | Enterprise              | Strategic          |
-| [Robert Clark](https://about.gitlab.com/company/team/#robclark14)              | PubSec    | Manager     | PubSec                  | Strategic          |
-| [Steven Terhar](https://about.gitlab.com/company/team/#SteveTerhar)            | PubSec    | Manager     | PubSec                  | Strategic          |
+|---|---|---|---|---|
+| [Sherrod Patching](/company/team/#spatching) | Global | VP | Enterprise & Commercial | All CSM Segments |
+| [Christiaan Conover](/company/team/#christiaanconover) | AMER | Director | Enterprise | Strategic & Growth |
+| [Taylor Lund](/company/team/#taylorlund) | Global | Manager | Enterprise & Strategic | Scale |
+| [Chloe Whitestone](/company/team/#chloe) | AMER | Manager | All (ENT, COMM, PubSec) | ENT Growth; COMM Strategic (interim) |
+| [Christina Souleles](/company/team/#csouleles) | EMEA | Manager | Enterprise & Commercial | Growth |
+| [Lauren Han](/company/team/#lauhan) | Global | Manager | Commercial | Growth |
+| [Sophie Pouliquen](/company/team/#spouliquen1) | AMER East | Manager | Enterprise | Strategic |
+| [Tiffany McAtee](/company/team/#tiffanymcatee.gitlab) | AMER East | Manager | Enterprise | Strategic |
+| [John Woods](/company/team/#jwoods06) | AMER West | Sr Manager | Enterprise | Strategic |
+| [Jamie Reid](/company/team/#jrreid) | AMER West | Manager | Enterprise | Strategic |
+| [Dave Thompson](/company/team/#dthompson3) | APAC | Manager | Enterprise | Strategic |
+| [Michael Leutz](/company/team/#mrleutz) | EMEA | Sr Manager | Enterprise | Strategic |
+| [James Wormwell](/company/team/#jwormwell) | EMEA | Manager | Enterprise | Strategic |
+| [Robert Clark](/company/team/#robclark14) | PubSec | Manager | PubSec | Strategic |
+| [Steven Terhar](/company/team/#SteveTerhar) | PubSec | Manager | PubSec | Strategic |
 
 ## CSM Manager Responsibilities & Requirements
 
