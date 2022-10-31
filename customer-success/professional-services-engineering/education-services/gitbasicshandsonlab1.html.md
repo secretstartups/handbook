@@ -16,7 +16,6 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Select **New project**. 
 1. Select **Create blank project**.
 1. In the **Project name** text box, enter `Top Level Project`.<br/>
-   Optionally, include a few notes in the **Project description** text box.
 1. Under **Visibility Level**, ensure **Private** is selected.
 1. Ensure the **Initialize repository with a README** checkbox is selected. 
    > If you don’t initialize your repository with a README, you will create a “bare” Git repository that you will need to populate by pushing the contents of another repository to it.
