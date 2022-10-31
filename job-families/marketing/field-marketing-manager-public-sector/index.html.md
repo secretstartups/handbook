@@ -21,12 +21,18 @@ The Public Sector Field Marketing Manager has the same expectations as other [Fi
 ### Requirements
 
 The Public Sector Field Marketing Manager has the same requirements as other [Field Marketing Managers](/job-families/marketing/field-marketing-manager/), as well as additional public sector requirements.  
-* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
+* Ability to travel when needed (up to 50%) and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Additional Requirements for US Public Sector
 
 - Successful track record working with US Public Sector sales team, distributors, and channel partners.
 - Knowledge of state & local, Civilian, DoD, and Intelligence Community agencies and ability to translate this into a cohesive marketing plan for the Public Sector.
+
+### Senior level Requirements for US Public Sector 
+- 10+ years of experience building and executing a PubSec strategy.
+- Proven aptitude to build and drive a budget within the territory.
+- Experience in enterprise solution demand creation and field marketing.
+- Orientation to managing program details.
 
 ### Staff level Requirements for US Public Sector 
 - Act as a senior leader to build and co-drive the overall strategy for the US Public Sector business with the PMM PubSec lead. 
