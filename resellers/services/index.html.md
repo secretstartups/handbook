@@ -184,6 +184,7 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
      <br>* Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
      <br>* Get setup on Edcast and participate in onboarding to access the course catalog
 
+     <br>* Note that participation in this program is limited and requires GitLab program team approval before proceeding with the certification process.
 
      </td>
   </tr>
