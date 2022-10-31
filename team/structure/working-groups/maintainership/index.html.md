@@ -48,12 +48,12 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 - ~"workflow::production"
    - The issue has been completed and should be closed.
 
-### Exit Criteria (95% completed)
+### Exit Criteria (99% completed)
 
 
 | #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------ | ------         | ------     | ------   |
-| 1  |  2022-06-01       | 2022-07-22 | TBD            | @nhxnguyen | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)|
+| 1  |  2022-06-01       | 2022-07-22 | 2022-10-28            | @nhxnguyen | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)|
 | 2  |  2022-04-26       | 2022-07-22 | 2022-07-18      | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
 | 3  |  2022-05-04       | 2022-08-05 | 2022-10-04            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
 | 4  |  2022-05-18       | 2022-08-05 | 2022-10-04            | @oregand | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
