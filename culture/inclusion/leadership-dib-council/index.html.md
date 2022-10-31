@@ -71,7 +71,8 @@ These are the Accountabilities and Commitments that members of the Leadership DI
 * Contribute asynchronously via Slack, GitLab or other means on projects that the group is working on
 * Actively seek and distribute DIB related information within your department and other team members
 * Be a trusted advisor to team members on DIB related issues and processes
-* Maintain the requirements outlined in the selection process 
+* Maintain the requirements outlined in the selection process
+* Whilst the role will be incorporated into your day to day actions in advocating for DIB, the role will require 2-3 hours a month including monthly meeting to work on specific actions. 
 * Minimum one year commitment
 
 If you are no longer able to maintain these Accountabilities and Commitments you should let the DIB team know as soon as possible. If the DIB Team recognises that a member of the Leadership DIB Council is not maintaining the Accountabilities and Commitments they will:
