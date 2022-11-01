@@ -29,6 +29,7 @@ For many of our automations, we use tokens owned by the
 | [Fieldnotes App](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/fieldnotes-app) | Support Ops - Field notes app |
 | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests) | Support Ops - Internal Requests |
 | [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) | Support Ops - Mechanizer |
+| [Mechanizer Reports](https://gitlab.com/gitlab-com/support/toolbox/mechanizer-reports) | Support Ops - Mechanizer Reports |
 | [Support Pairing](https://gitlab.com/gitlab-com/support/support-pairing) | Support Ops - Support Pairing |
 | [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) | Support Ops - support-team-meta |
 | [Ticket Round Robin (Global)](https://ops.gitlab.net/gitlab-com/support/zendesk-global/ticket-round-robin) | Support Ops - Ticket round robin (Global) |
