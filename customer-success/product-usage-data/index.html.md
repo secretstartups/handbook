@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Operational Data Vision"
+title: "Product Usage Reporting Vision"
 description: "The page outlines the current and planned utilization of operational data at GitLab, including Product, Sales, Customer Success, and Marketing."
 ---
 
