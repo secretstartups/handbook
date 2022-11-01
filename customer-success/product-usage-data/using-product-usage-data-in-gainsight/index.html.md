@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Using Product Usage Reporting in Gainsight"
+title: "How to Use Product Usage Reporting"
 description: "Effective ways to apply product usage reporting for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
 ---
 
@@ -41,11 +41,11 @@ For a high level overview (7 minutes), see the [Using Product Usage Reporting in
 <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Data Team Handbook</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Customer Use Case Health Scoring</a>
+<a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Health Scoring - Calculations and Methodology</a>
 <a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Using Gainsight Usage Reporting <br> in Salesforce</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">License Utilization <br> in Gainsight</a>
+<a href="/handbook/customer-success/product-usage-data/use-case-adoption/#license-utilization-in-gainsight" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">License Utilization <br> in Gainsight</a>
 <a href="/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard <br> Attributes and Calculations</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
