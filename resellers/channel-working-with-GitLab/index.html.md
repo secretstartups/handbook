@@ -120,35 +120,32 @@ An order is not complete without a signed agreement.
 *   We can renew this license if your customer needs more time.
 *   Upon the second request for renewal (the third license), we assist you with a managed evaluation, where goals are set for the customer to meet. One of our Solutions Architects works with you and the prospect to bring them to completion before the third evaluation expires.
 
-### Requesting a GitLab NRF (Not-for-Resale) License  
+## Requesting a GitLab NRF (Not-for-Resale) License  
 
 Authorized GitLab Partner fills out the NFR License Request Form which can be found on the [GitLab Partner Portal](https://partners.gitlab.com/English/) on the Services Page. 
     1. Partner Help desk (PHD) reviews the request and works with the Partner if additional information is needed.
     2. Once activated the requestor will receive a license key via email.
 
-### Not-for-Resale Program and Policy
+### Not-for-Resale (NFR) Program and Policy
 
 The GitLab Not-for-Resale (NFR) Program offers qualified GitLab Partners access to our solutions at no cost. The NFR Program provides Partners with an opportunity to develop greater expertise on the GitLab platform. We encourage all GitLab Partners to participate in the program and set up GitLab solutions. Consider using your environment to create integrations with GitLab Alliance Solution Partners. This way your staff can fully understand the benefits and features of GitLab products and be better prepared to demonstrate products to customers.
 
 Request your license by logging in to the [Partner Portal](https://www.partners.gitlab.com/); click the "Services" tab and the NFR Request form will be the first Quick Link. Please allow two (2) business days for processing your request.
 
 * Partners can receive one Self-Managed and one Software-as-a-Service (SaaS) NFR license at the Ultimate level for a 12-month period.
-    * Select Partners can request a license for up to 25 users. Additional licenses may be available with business justification.
+    * Select Partners can request a license for up to 25 users. Additional licenses may be available with business justification. 
+       * Additional licenses must be requested through the partner account manager and not through the NFR Request form
     * Open Partners can request a license for up to 10 users.
 
 Please allow two (2) business days for processing your request.
+
+*The Partner Help Desk manages all NFR requests that fall within the NFR program rules. Any requests outside the program need to be requested, managed, and tracked through the account manager.
 
 ### NFR Program Eligibility
 
 To be eligible for the NFR Program, Partners must:
 * Be Open or Select Partners in good standing.
 * Have at least one employee that has successfully completed the Solution Architect certification or Professional Services Engineer certification training, lab, and exam (with a passing score).
-
-### NFR Renewals
-
-GitLab NFR licenses expire after a 12-month subscription period, unless they are add-on licenses, in which case they expire with the Partner’s oldest NFR licenses. 
-* For Select Partners in good standing, the licenses will be automatically renewed. 
-* For Open Partners in good standing, renewal must be requested.
 
 ### NFR Program Terms and Conditions
 
@@ -162,6 +159,12 @@ GitLab NFR licenses expire after a 12-month subscription period, unless they are
 5. GitLab reserves the right to audit the use of NFR licenses to ensure they are in compliance with the NFR Program and reduce the number of licenses to a Partner if they are not in compliance with the program.
 6. GitLab reserves the right to change or cancel the NFR Program at any time and for any or no reason.
 7. Partners can receive one Self-Managed and one SaaS NFR license at the Ultimate level for a 12-month period.
+
+### NFR Renewals
+
+GitLab NFR licenses expire after a 12-month subscription period, unless they are add-on licenses, in which case they expire with the Partner’s oldest NFR licenses. 
+* For Select Partners in good standing, the licenses will be automatically renewed. 
+* For Open Partners in good standing, renewal must be requested.
 
 ### NFR Support
 [Support](https://about.gitlab.com/support) will be provided by the GitLab Support team. GitLab Solution Architects may also be available to help Partners build out training, testing, and lab environments.
