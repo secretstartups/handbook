@@ -33,10 +33,9 @@ We consider several different types of users in our experience design effort. Ev
 * [Security analysts](/handbook/product/personas/#sam-security-analyst) (future)
 
 ### Our team
-Our team continues to grow. We currently have 2 members that contribute to Package UX efforts:
+Our team continues to grow. We currently have 1 member that contribute to Package UX efforts:
 
 * [Rayana Verissimo](https://gitlab.com/rayana) - Product Design Manager
-* [Katie Macoy](https://gitlab.com/katiemacoy) - Product Designer, Package
 
 #### Our team meetings
 Following in GitLab's tradition of async over sync, a majority of our communication is done through issues and merge requests. We do have a few regular synchronous meetings:
