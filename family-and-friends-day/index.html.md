@@ -28,34 +28,36 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 
 ## Past Family and Friends Days
 
-1. The first Family and Friends Day was `2020-05-01`.
-1. Due to its success in reinforcing our message and supporting team member wellness, the second Family and Friends Day was held on `2020-06-12`.
-1. A third Family and Friends Day was held on `2020-08-14`.
-1. A fourth Family and Friends Day was held on `2020-10-09`.
-1. A fifth Family and Friends Day was held on `2020-11-25`.
-1. A sixth Family and Friends Day was held on `2020-12-18`.
-1. A seventh Family and Friends Day was held on `2021-01-15`. 
-1. An eighth Family and Friends Day was held on `2021-02-26`. 
-1. A ninth Family and Friends Day was held on `2021-03-19`. 
-1. A tenth Family and Friends Day was held on `2021-04-16`.
-1. An eleventh Family and Friends Day was held on `2021-05-28`.
-1. A twelfth Family and Friends Day was held on `2021-06-25`.
-1. A thirteenth Family and Friends day was held on `2021-07-16`.
-1. A fourteenth Family and Friends day was held on `2021-08-27`.
-1. A fifteenth Family and Friends day was held on `2021-09-24`.
-1. A sixteenth Family and Friends day was held on `2021-10-15`.
-1. A seventeenth Family and Friends day was held on `2021-11-29`.
-1. An eighteenth Family and Friends day was held on `2021-12-27`.
-1. A nineteenth Family and Friends day was held on `2022-01-03`.
-1. A twentieth Family and Friends day was held on `2022-02-25`.
-1. A twenty-first Family and Friends day was held on `2022-03-25`.
-1. A twenty-second Family and Friends day was held on `2022-04-11`.
-1. A twenty-third Family and Friends day was held on `2022-05-27`.
-1. A twenty-fourth Family and Friends day was held on `2022-06-24`. 
-1. A twenty-fifth Family and Friends day was held on `2022-07-11`. 
-1. A twenty-sixth Family and Friends day was held on `2022-08-29`.
-1. A twenty-seventh Family and Friends day was held on `2022-09-26`
-1. A twenty-eighth Family and Friends day was held on `2022-10-07`
+Family and Friends Days have been held on these dates:
+
+1. 2020-05-01
+1. 2020-06-12
+1. 2020-08-14
+1. 2020-10-09
+1. 2020-11-25
+1. 2020-12-18
+1. 2021-01-15
+1. 2021-02-26
+1. 2021-03-19
+1. 2021-04-16
+1. 2021-05-28
+1. 2021-06-25
+1. 2021-07-16
+1. 2021-08-27
+1. 2021-09-24
+1. 2021-10-15
+1. 2021-11-29
+1. 2021-12-27
+1. 2022-01-03
+1. 2022-02-25
+1. 2022-03-25
+1. 2022-04-11
+1. 2022-05-27
+1. 2022-06-24
+1. 2022-07-11
+1. 2022-08-29
+1. 2022-09-26
+1. 2022-10-07
 
 ## FAQ about Family and Friends Day
 
