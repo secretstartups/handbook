@@ -18,7 +18,7 @@ If you have any feedback or questions about the compensation review cycle, pleas
 
 ## Annual Compensation Review 
 
-The most up to date timeline of the Annual Compensation Review process can be found in the [Total Rewards Schedule](/handbook/total-rewards/#total-rewards-schedule).
+_**This page is currently outdated pending a refresh for the FY24 Annual Compensation Review cycle. Iterations to the program for FY24 including an overview of our new tool in Workday will be added in November and December ahead of the cycle.**_
 
 Increases for Compensation Review Cycles are based on: 
 1. Assessing market changes in the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/) inputs  
