@@ -205,6 +205,36 @@ The GCs are stored in the "CEO Evangelism" folder on Google Drive.
 
 Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
+## Quarterly Kickoff
+
+The CEO does a Quarterly Kickoff in the first month of each quarter. 
+
+This is a forum to review our long-term goals, recognize progress made in the previous quarter, and discuss what we aim to accomplish in the coming quarter. Material shared is internal only. 
+
+The Quarterly Kickoff is followed by an AMA hosted by the CEO. 
+
+The CEO's Quarterly Kickoff Slides usually cover:
+- Recap of GitLab’s [Mission](/company/mission/)/[Vision](/company/vision/)/[Strategy](/company/strategy/) noting any updates made
+- Reviewing which [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) were retired and added and why
+- Review the previous quarters OKRs, scores, and important details
+- Sharing of this new quarters OKRs
+- Marathon Slide (as needed)
+
+### How to prepare the Slides
+
+**Note:** A member of the CoST is the DRI for this but we coordinate with Internal Comms, Legal, and the EBA team to get the slides prepared, recorded, shared, and AMA scheduled.
+{: .note}
+
+- Start by copying the last slide deck. This will form the skeleton
+- Mission/Vision/Strategy may need to be updated to note the differences
+- Top Cross-Functional Initiatives may need to be updated and notes made on one's retired and added
+- OKRs may need to be updated for the quarter and scores/notes added
+- Work with Internal Comms schedule the recordings and prepare the announcement to `#company-fyi-private` as well as an addition to the `While You Were Iterating` newsletter
+- Work with Legal to ensure the deck and recordings are SAFE
+- Work with `#eba-team` to get the AMA Scheduled and populate the AMA agenda
+
+Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the AMA.
+
 ## E-Group Offsite
 
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
