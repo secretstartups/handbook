@@ -19,15 +19,18 @@ description: "Frequently asked questions answered so Sales and Customer Success 
 
 # Purpose
 
-To answer questions frequently asked by Sales and Customer Success teams about Product Usage Data in Gainsight.
+To answer questions frequently asked by Sales and Customer Success teams about Product Usage Reporting in Gainsight.
 
 # FAQs
 
-_Last updated 2022-05-17._
+_Last updated 2022-11-01._
 
 ## Data Availability
 
-#### Why does my customer not have any product usage stats?
+#### What is the wait time for newly activated namespaces to be reflected as a known instance for an account?
+- One week from activation and the data should start to populate in Gainsight. 
+
+#### Why does my customer not have any product usage data?
 - Self-managed - They are not opted into Service Ping, or they turned it off.
 
 - Self-managed - None of their instances are labeled as Production. [Here are instructions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type) on how to label instances as Production.
@@ -90,7 +93,45 @@ _Last updated 2022-05-17._
 
 ---
 
-## Data definitions
+## Data Quality Issues
+
+#### There's known data quality issue with collecting DevSecOps feature usage, specifically the following `_jobs` metrics listed below: 
+| Gainsight | Metrics Dictionary |
+|---|---|
+| API Fuzzing Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_api_fuzzing_jobs |
+| Container Scanning Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_container_scanning_jobs |
+| Container Scanning Jobs All Time | counts.container_scanning_jobs |
+| Coverage Fuzzing Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_coverage_fuzzing_jobs |
+| DAST Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_dast_jobs |
+| DAST Jobs All Time | counts.dast_jobs |
+| Dependency Scanning Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_dependency_scanning_jobs |
+| Dependency Scanning Jobs - User L28D | usage_activity_by_stage.secure.user_dependency_scanning_jobs |
+| Dependency Scanning Jobs All Time | counts.dependency_scanning_jobs |
+| License Management Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_license_management_jobs |
+| License Management Jobs All Time | counts.license_management_jobs |
+| SAST Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_sast_jobs |
+| SAST Jobs All Time | counts.sast_jobs |
+| Secret Detection Jobs - User L28D | usage_activity_by_stage_monthly.secure.user_secret_detection_jobs |
+| Secret Detection Jobs All Time | counts.secret_detection_jobs |
+| Secure Scanners - Users L28D | usage_activity_by_stage_monthly.secure.user_unique_users_all_secure_scanners |
+
+These metrics rely on the exact name of the job to collect usage, therefore if the customer renames their DAST job as `my_ds_job` or `default_branch_dyanmic_scan`, it will not be counted in the job-reliant metrics. It is the mechanism by which these metrics are captured that is fundamentally flawed and the product team is aware and planning to rectify this by re-intrumenting the affected metrics. Please keep this in mind when presenting `_jobs` metrics to customers. 
+
+### Limitations of redis_hll metrics
+
+- `redis_hll` metrics only collect usage for Self-Managed customers and will always show a `0` value for SaaS customers. Product Intelligence and Data team are working cross-functionally to fix this problem by migrating those metrics to Snowplow which will allow the collection of usage for SaaS customers for those given metrics.
+
+#### Identifying `redis_hll` metrics
+
+You can easily identify if a metric is affected by the `redis` limitation or not by looking directly at the `.yml` file of any given metric and reading the `key_path`. If it is a `redis` metric, either the metric `key_path` OR the `data_source` will clearly state `redis`. ((example 1)[https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216180622_incident_management_total_unique_counts_monthly.yml], (example 2)[https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175016_analytics_total_unique_counts_monthly.yml], (example 3[https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_all/20210216182004_commit_comment.yml]))
+
+- **Exceptions:** This (list)[https://docs.google.com/spreadsheets/d/1JurwXL5xso4BMPNu-SDB9VUiQrLwZ9MV0F9eznzXsT8/edit#gid=0] shows the status of `redis` metrics that are scheduled to be repaired. 
+
+- WORK IN PROGRESS
+
+---
+
+## Data Definitions
 
 #### What’s the best way to understand what a metric is measuring?
 - Check the [Product Usage Data for Gainsight Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit?usp=sharing).
