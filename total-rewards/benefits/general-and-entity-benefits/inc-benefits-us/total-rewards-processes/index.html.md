@@ -109,6 +109,40 @@ Temporary process until intregrations are in place
 1. If there are many updates to be made, navigate in PlanSource to "Data & Tools" -> "Data" -> "Employee Update Worksheet". Download the template with the necessary fields and re-import here once updated with the information from the Payroll Changes spreadsheet.
 
 
+### Monthly Finance HSA & FSA Reporting
+
+Finance requires the ongoing FSA and HSA account reporting for tracking purposes
+
+1. Log on to [Leap Discover Portal](https://employerbenefits.wexhealth.com/DiscoveryCentral)
+1. Click the "Benefits Administration, HSA, FSA & HRA link
+1. Click on Reports > "+New Report"
+
+For FSA 
+
+1. Select "Account Balance Detail"
+1. Enter the following information:
+- Select "As Of" : Last day of the month
+- Plan Year: current plan year 
+- Group By: Do Not Group
+- Report detail Level: Detail
+- Check includ cash balance detail
+- check email me when report is available
+
+For HSA 
+
+1. Select "HSA Account Detail"
+1. Enter the following information:
+- Select Start Date: first day of the month
+- End date: Last day of the month 
+- Group by: Do not group
+- Report detail level: detail
+- check in Email me when report is available
+- check include masked ssn
+- detail to include: reporting period data
+
+Upload these reports in the Account FSA & HSA reports folder in the US Benefits folder
+
+
 ### Monthly Health Bill Payments
  
 The Total Rewards Analyst will review and initiate payment for all monthly health bills in the United States.
