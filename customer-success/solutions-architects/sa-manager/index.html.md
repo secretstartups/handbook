@@ -97,6 +97,16 @@ At the conclusion of the Quarterly Sit Down, it is valuable to review the gaps b
 
 At the next Quarterly Sit Down, it is important to review the goals section from the previous Quarterly Sit Down.
 
+**Why the team does QSDs at the end of Q3 during Talent Assessments are taking place**
+
+The goal of the Quarterly Sit Down (QSD) is to ensure that two-way goal alignnment is taking place every quarter, which is why the QSD takes place every quarter.
+
+At the end of Q3 of each year, individuals are asked to perform their own Talent Assessment for the year. The Talent Assessment is very similar to the QSD format.  
+
+Similarly, at the end of Q4, results from the Talent Assessment are shared out from the manager to the direct report. 
+
+We do both the QSD at the end of Q3 and Q4 because the Talent Assessment is filled out at the end of Q3 and not made visible to the direct report until the end of Q4.  Additionally, the results are a culmination of the entire year, not specific to the quarter. 
+
 ### Team Assessment
 Twice a year, SA Managers should conduct a team assessment to: 
 - Identify at Risk and High Potential Team Members
