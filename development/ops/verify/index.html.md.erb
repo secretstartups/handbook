@@ -51,19 +51,15 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Pipeline Execution
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Execution', role_regexp: /Pipeline Execution/) %>
-
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Execution/) %>
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
 
 ### Verify:Pipeline Authoring
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Authoring', role_regexp: /Pipeline Authoring/) %>
-
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Authoring/) %>
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Authoring') %>
 
 ### Verify:Runner
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Runner') %>
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Runner') %>
 
 ### Verify:Pipeline Insights
 
@@ -128,10 +124,9 @@ The following members of other functional teams are our stable counterparts:
 role_regexp = /[,&] Verify/
 direct_manager_role = 'Senior Manager, Engineering, Verify'
 other_manager_roles = [
-  'Frontend Engineering Manager, Verify',
-  'Backend Engineering Manager, Verify:Pipeline Authoring',
-  'Backend Engineering Manager, Verify:Pipeline Execution',
-  'Backend Engineering Manager, Verify:Runner',
+  'Fullstack Engineering Manager, Verify:Pipeline Authoring',
+  'Fullstack Engineering Manager, Verify:Pipeline Execution',
+  'Fullstack Engineering Manager, Verify:Runner',
   'Fullstack Engineering Manager, Verify:Pipeline Insights'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
