@@ -224,3 +224,13 @@ To initiate your leave, submit your time off by selecting the `Parental Leave` c
  
 </details>
 
+## Administration for Ireland Plans
+
+### Benefit in Kind Reporting
+
+The Medical Plans premiums are considred a benefit in kind and must be reported on the team member's payslips
+
+1. On a monthly basis Non-US Payroll will log on to the Vhi portal and download two reports from the Vhi Employers online Group Account profile:
+    1. Changes Report: this report shows the list of new joiners per particular month (select the relevant month when pulling the report)
+    1. Invoice Member Breakdown: The gross subsidy amount per employee per this invoice is the monthly benefit in kind value
+1. Payroll will collect this report and apply it to the team member's paycheck. 
