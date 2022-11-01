@@ -41,7 +41,7 @@ If project work is required to start the project prior to the opportunity bookin
 
 #### Customer Consulting Project Scheduling
 
-The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utilized to track the progress of each project as we work through Mavenlink project set up, project team assignment and partner paperwork. 
+The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utilized to track the progress of each project as we work through Kantata project set up, project team assignment and partner paperwork. 
 
 #### Scheduling Request for Consulting Projects
 
@@ -79,7 +79,7 @@ The PC will review availablity and schedule the time on the Master Planning with
 
 #### Consulting Project Assignment
 
-When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
+When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Kantata project activity, this allows the team to be aware of who will be working on the project.
 
 #### Consulting Projects Billing Guidelines
 
@@ -112,23 +112,23 @@ Project revenue release is followed dependant on project billing type:
 #### How To Forecast Revenue For Consulting Projects
 
 ##### T&M Projects
-T&M project revenue is forecasted by scheduled soft or hard allocations in the Master Planning in Mavenlink.  The hours that are schedule are multiplied by the rate card on the project.  
+T&M project revenue is forecasted by scheduled soft or hard allocations in the Master Planning in Kantata.  The hours that are schedule are multiplied by the rate card on the project.  
 
 ##### Fixed Priced Projects
 
-Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
+Fixed priced projects are forecasted by the project milestones in the Kantata project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
 If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
 #### Revenue Sign Off
 
 ##### Revenue Release T&M Projects
 
-For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the time sheet function in Mavenlink. The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis. Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue.
+For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the time sheet function in Kantata. The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis. Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue.
 
 ##### Revenue Release FP Projects
 
 For FP projects, revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
-The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink.  When counting the passive acceptance days, day 1 would be the date the notification is sent, from the date sent then business days is calculated for the passive acceptance.
+The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Kantata.  When counting the passive acceptance days, day 1 would be the date the notification is sent, from the date sent then business days is calculated for the passive acceptance.
 *  Update Sign Off Sent, when email request is sent
 *  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
 *  Update if Passive Acceptance has been utilized for sign off
@@ -161,13 +161,13 @@ Training revenue release is followed dependant on training billing type:
 
 #### How To Forecast Revenue Training Projects
 
-Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
+Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Kantata project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
 If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
 
 #### Revenue Release Training Projects
 
 For training projects, revenue is released when training is complete and/or when acceptance is received dependant on the project SOW language.
-If required per the project SOW, the PC sends the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+If required per the project SOW, the PC sends the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Kantata
 *  Update Sign Off Sent, when training is complete or email request is sent
 *  Update Sign Off received, when training is complete, acceptance is received, or Passive Acceptance is reached and add the class roster or PDF email of acceptance to the Milestone
 *  Update if Passive Acceptance has been utilized for sign off
@@ -184,29 +184,29 @@ When there is a new team member on the PS Team.  We have some training and proce
 
 [New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
 
-#### Mavenlink Access
+#### Kantata Access
 
-To provide Mavenlink access to an internal GitLab team members, provide access by the following:
-* Mavenlink Access
+To provide Kantata access to an internal GitLab team members, provide access by the following:
+* Kantata Access
   * Settings
   * Members
   * Invite Account Members
-* Okta-Mavenlink- Users Google Group
+* Okta-Kantata- Users Google Group
   * Gmail
   * Gmail Apps
   * Groups
-  * Okta-Mavenlink- users
+  * Okta-Kantata- users
   * Members
   * Add Members
  
- To provide Mavenlink access to a GitLab partner, provide access by the following:
-* Mavenlink Access
+ To provide Kantata access to a GitLab partner, provide access by the following:
+* Kantata Access
   * Settings
   * Members
   * Invite Account Members
 * Process a GitLab Access Request
   * Request Okta
-  * Request Mavenlink to be added to Okta
+  * Request Kantata to be added to Okta
 
 #### Time Tracking 
 
@@ -217,66 +217,24 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 - If time will be worked over the weekend, time sheet should still be submitted by Friday, EOD, then a new line created on the time sheet for hours worked over the weekend
 - Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
 - Hours for PTO, Holidays and Family and Friends day are no longer required to be submitted in the weekly time sheet
-- If a team member did not work the time allocated for the week, then hours would be added to the PTO feature in Mavenlink
+- If a team member did not work the time allocated for the week, then hours would be added to the PTO feature in Kantata
 - Notes are required for the PS Time Tracking Creditable and PS Time Tracking Non Credit projects only, not on customer projects
   
-  - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-  - Holidays along with Family and Friends day are scheduled on the Mavenlink calendar
+  - PTO should be submitted in the time off feature in Kantata, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
+  - Holidays along with Family and Friends day are scheduled on the Kantata calendar
   
 - Time is required to round to the nearest quarter hour, example: 
   - 15m should be .25
   - 30m should be .5
   - 45m should be .75
 
-****Mavenlink Internal Projects****
+****Kantata Internal Projects****
+
 Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
 
-****PS TimeTracking Creditable****
-* SKO (GitLab Sales Kick Off)
-* Contribute (GitLab Employee Conference)
-* Commit (GitLab User Conference)
-* Sales Assistance​
-  * All Pre-Sales activities​
-  * SOW Creation
-* Support ​Assistance
-  * Support Cases, if pulled into customer questions after the project is closed
-  * Engineering Support
-* Practice Development​
-  * Creating customer process/documents​
-  * Customer templates
-  * Customer Articles and/or tools
-* Product Development
-* Mentoring
-* Training Course Grading
-   * The grading of all GitLab training courses
-* Technical Architect
-   * Project Oversight & Alignment
+* [PS Time Tracking Creditable](https://gitlab.mavenlink.com/workspaces/34595705/tracker/position?usingDefaultFilters=true&mode=info)
+* [PS Time Tracking Non- Creditable](https://gitlab.mavenlink.com/workspaces/34595955/?tab=project-workspace)
    
-****PS TimeTracking Non Creditable****
-* Knowledge Sharing​
-  * Slack​
-  * Internal Q&A​
-* General Administrative​
-  * Time Sheets​
-  * Expense Reports​
-  * Reviews​
-  * HR Items​
-  * General Emails​
-* Meetings/ Staff Time​
-  * Internal Meeting​
-  * 1:1s​
-  * Weekly Webinars​
-  * All Hands​
-  * Team Calls​
-  * Interviews
-* Travel Time
-  * Excluding Customer Travel
-* Personal Enablement
-  * Development​
-  * Ramp Up​
-  * HR Training
-  * Customer Project Shadow
-
 ****Customer consulting projects****
 
   When working on a customer project, all hours worked should be tracked against the project.  Here are some examples: 
@@ -326,8 +284,8 @@ There is an agreement with revenue if FP items over $10,000 process after the cu
 
 #### Quarterly time tracking entry and approval workflow
 
-* All hours are submitted and approved in Mavenlink on a weekly basis
-* The quarterly hours report is pulled from Mavenlink and reviewed by the Operations Manager and then provided to the PS Director for review and approval
+* All hours are submitted and approved in Kantata on a weekly basis
+* The quarterly hours report is pulled from Kantata and reviewed by the Operations Manager and then provided to the PS Director for review and approval
 * A PS Director will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
@@ -338,7 +296,7 @@ GitLab Employee Travels:
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
 * Purchase incurred or travel booked
    * All travel should be booked through Trip Actions   
-* PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
+* PSE/PM submit expense report through Expensify with Project Tag (Kantata Workspace ID- Customer Name)
    * Include E Group travel approval, Travel Exception Request form found here (https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
    * Include receipts
    * Disregard the billable checkbox 
@@ -362,13 +320,13 @@ Once the travel has incurred the expenses should be submitted for invoicing thro
 Expenses are to be invoiced in the month in which they have incurred.
 
 
-### Mavenlink Project Status/ Colors
+### Kantata Project Status/ Colors
 
-| Mavenlink Status | Status Definition |
+| Kantata Status | Status Definition |
 | ------ | ------ |
 | Estimate- Gray | Projects that are tracking Internal time for GitLab PS & GitLab Partners |
-| Prospect- Gray | PC is setting up Mavenlink project/ Project is at a Stage 5- start reviewing staffing plan |
-| In Set Up- Gray | PC is setting up Mavenlink project/ Reviewing Staffing/ Welcome to PS Email |
+| Prospect- Gray | PC is setting up Kantata project/ Project is at a Stage 5- start reviewing staffing plan |
+| In Set Up- Gray | PC is setting up Kantata project/ Reviewing Staffing/ Welcome to PS Email |
 | Okay to Start- Light Green | Project setup complete/ PM Planning the project |
 | Active- Dark Green | PM/ PSE Actively working the project |
 | Closed- Blue | Project work is complete, waiting for billing and revenue to be complete |
@@ -377,12 +335,12 @@ Expenses are to be invoiced in the month in which they have incurred.
 | Backlog- Gray | No work is planned |
 | Cancelled- Blue | Project Created but will not be worked for various reasons |
 
-For **training-only projects**, use the following Mavenlink/Kantata statuses:
+For **training-only projects**, use the following Kantata/Kantata statuses:
 
-| Mavenlink/Kantata Status | Status Definition |
+| Kantata/Kantata Status | Status Definition |
 | ------ | ------ |
 | Prospect- Gray | Project has not booked yet and is at a Stage 5 |
-| In Set Up- Gray | SFDC opportunity has closed / PC is setting up Mavenlink-Kantata project |
+| In Set Up- Gray | SFDC opportunity has closed / PC is setting up Kantata project |
 | Okay to Start- Light Green | Project setup complete / Welcome to GitLab Education Services email |
 | Active- Dark Green | PC is actively working on scheduling the project / Training dates are proposed to the customer |
 | Closed- Blue | **Onsite training projects only** / Training delivery has been completed but waiting for expense reports |
@@ -392,7 +350,7 @@ For **training-only projects**, use the following Mavenlink/Kantata statuses:
 | Cancelled- Blue | Project created but will not be worked for various reasons |
 
 
-| Mavenlink Project Colors |  |
+| Kantata Project Colors |  |
 | ------ | ------ |
 | Blue | Training Only Project |
 | Yellow | Consulting Only Project |
@@ -406,7 +364,7 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
 * Overall Project Status:
    * Two to three lines describing the overall project status, includes pro/ cons/ blockers
 * Project Schedule:
-   * Is the project tracking to the current Mavenlink schedule? Y/N and if no, why?
+   * Is the project tracking to the current Kantata schedule? Y/N and if no, why?
 * Project Scope:
    * Is the project tracking to the original scope, as per the SOW? Y/N and if no, why?
 * Project Budget:
@@ -503,13 +461,13 @@ TO DO
 CURRENT PROCESS VIA COUPA:
 * Project Coordinator receives notification from Coupa to review the partner submitted invoice.
    * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
-* Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
+* Project Coordinator reviews the invoice and Kantata timesheets to ensure accuracy of hours approved and rate.
 * If the invoice and timesheets align, then the invoice is approved.
 * If the invoice and timesheets do not align, then the invoice is returned to Accounts Payable, and the Project Coordinator follows up with the partner.
 * Project Coordinator updates the partner invoice funds tracking sheet to include the invoice number, date, and amount and saves a copy of the invoice in the Partner Folder.
 
 #### Sending Invoice Reminder to the Partner - each month end 
-* Within Mavenlink, go to Insights > Time & Expense Admin- Partners and then go to the Time Approvals by Project report.
+* Within Kantata, go to Insights > Time & Expense Admin- Partners and then go to the Time Approvals by Project report.
 * Enter the Date Range and filter the GitLab User Type field for the partner that you wish to view.
 * Run the report, and export the report in Excel format by clicking on the gear icon on the top, right-hand side of the page and select Export to XLSX.
 * Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
@@ -540,12 +498,12 @@ CURRENT PROCESS VIA COUPA:
       * e.g. `/epic https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics/2`
       * To use a slash command, enter the text of the command in the comment interface and apply it with the _Comment_ button
 
-### Mavenlink Processes
-Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
+### Kantata Processes
+Kantata is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
-[Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+[Link to Kantata Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
 
-#### Mavenlink Reports
-The Professional Services Team uses Mavenlink reports to track project and team metrics
+#### Kantata Reports
+The Professional Services Team uses Kantata reports to track project and team metrics
 
-[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
+[Kantata Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
