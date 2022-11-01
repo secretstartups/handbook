@@ -47,7 +47,7 @@ Security Compliance is part of the [2nd line of defense](https://www.isaca.org/r
    * Identify actionable key performance indicators (KPIs) and key risk indicators (KRIs) for leadership
 
 ### Where we work
-We primarily work out of projects in our [Dedicated Compliance team subgroup](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance), the Security Department and Security Assurance parent groups, the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team), and the Security Compliance [Observation Management project](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/observation-management).
+We primarily work out of projects in our [Dedicated Compliance team subgroup](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated), the Security Department and Security Assurance parent groups, the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team), and the Security Compliance [Observation Management project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/).
 
 ## <i class="fa-solid fa-chart-mixed" style="color:rgb(110,73,203)" aria-hidden="true"></i> Metrics and Measures of Success
 

@@ -31,13 +31,9 @@ A member of the [Security Assurance](/handbook/security/security-assurance/) org
    * [Gap Assessments/Readiness Assessments](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html)
 1. [Observation and Remediation](/handbook/security/security-assurance/observation-management-procedure.html)
    * Security Control Testing Activities (CCM)
-   * Internal Audit Activities
-   * Third Party Risk Management (TPRM) Activities
-   * Customer Assurance Activities
    * External Audits
-   * Third Party Application Scanning
-   * Ad-hoc Observations
    * Gap Assessment Activities
+   * Ad-hoc Observations
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>Metrics and Measures of Success
 
@@ -48,25 +44,25 @@ A member of the [Security Assurance](/handbook/security/security-assurance/) org
 
 |  Program | DRI | Responsibilities |
 | :---: | :---: | :---: |
-| GitLab's Security Control Framework (GCF) | @jburrows001 | Establishment, monitoring, and iteration of the [GCF control set](/handbook/security/security-assurance/security-compliance/sec-controls.html) |
-|  Observations | @lcoleman | Management overview of the Observation Program including observation documentation, workflows and observation assignment |
-|  SOC | @madlake | SOC preparation and documentation, external audit hosting, remediation activities |
+| GitLab's Security Control Framework (GCF) | [@lcoleman](https://gitlab.com/lcoleman) | Establishment, monitoring, and iteration of the [GCF control set](/handbook/security/security-assurance/security-compliance/sec-controls.html) |
+|  Observations | [@madlake](https://gitlab.com/madlake) | Management overview of the Observation Program including observation documentation, workflows and observation assignment |
+|  SOC | [@madlake](https://gitlab.com/madlake) | SOC preparation and documentation, external audit hosting, remediation activities |
 |  ITGC | [@byronboots](https://gitlab.com/byronboots) | ITGC Handover and automation improvements, external audit hosting, remediation activities |
-|  ISO | @lcoleman | ISO preparation and documentation, external audit hosting, remediation activities |
-|  User Access Reviews | @alexfrank09 | Oversight of [UAR Program/ Automated UAR Tool](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) to help minimize threats and provide assurance that the right people have access to critical systems and infrastructure  |
-|  [Gap Analysis](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/gap-analysis-program.html) | @DanEckhardt | Overseeing & iterating on gap analysis program/procedures, review/assignment of gap analysis requests, gap analysis status tracking |
+|  ISO | [@lcoleman](https://gitlab.com/lcoleman) | ISO preparation and documentation, external audit hosting, remediation activities |
+|  User Access Reviews | [@alexfrank09](https://gitlab.com/alexfrank09) | Oversight of [UAR Program/ Automated UAR Tool](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) to help minimize threats and provide assurance that the right people have access to critical systems and infrastructure  |
+|  [Gap Analysis](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/gap-analysis-program.html) | [@DanEckhardt](https://gitlab.com/DanEckhardt) | Overseeing & iterating on gap analysis program/procedures, review/assignment of gap analysis requests, gap analysis status tracking |
 
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 
 * Slack
-   * Feel free to tag is with `@sec-compliance-team`
+   * Feel free to tag is with `@commerical_compliance` or `@sec-compliance-team` to reach the entire Security Compliance team
    * The #sec-assurance slack channel is the best place for questions relating to our team (please add the above tag)
 * Tag us in GitLab
    * `@gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance`
 * Email
    * `security-compliance@gitlab.com`
-* [GitLab Security Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance)
+* [GitLab Security Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/compliance)
 
 * Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/engineering/security-compliance/)!
 
