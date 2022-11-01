@@ -39,12 +39,9 @@ customer as far as possible before passing the request*
    request, by checking the following:
    - if they are a contact in SFDC
    - if their domain name matches the company/previous contact
-   - getting permission from the old contact
    - checking if they are the owner of the group (for a SaaS subscription)
-   - checking if they have access to the instance (via a screenshot)
-   - checking if they have access to the account by asking for an invoice
-1. Use the [`Support::L&R::Zuora Contact Change`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=360072090060) macro to transfer the ticket to AR to
-   update the bill to and sold to contact in Zuora
+   - if they pass the [account ownership verification](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+1. Use the [`Support::L&R::Zuora Contact Change`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=360072090060) macro to transfer the ticket to AR to update the bill to and sold to contact in Zuora
 
 Support will still generate a manual license if new contact wants an updated
 license. Zuora update is primarily effective for future purchases.
