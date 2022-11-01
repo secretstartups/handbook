@@ -93,22 +93,6 @@ Temporary process until integrations are in place
 1. Check if the report had any errors or issues by going back to the "Import" page on the Administration Portal. Under "Pending" you will see if your report had any errors. If there were only a handful of errors you can update directly on the portal by selecting "Fix All". If there were many errors, you can cancel the report and upload a new one.
 
 
-
-
-#### Census & New Hire Updates
-
-Cadence: Weekly - Thursdays
-DRI: Total Rewards, Benefits - Raisha Kole
-Temporary process until intregrations are in place
-
-**BambooHR to PlanSource:**
-
-1. Download a New Hire Report from Bamboo HR, log on to PlanSource and update New Hire's profile with salary and full time/part time designation. 
-1. Review the US Payroll Changes spreadsheet weekly for any salary changes that would need to be made in PlanSource.
-1. If there are only a few updates to be made, navigate to the team member's profile directly and make any applicable updates.
-1. If there are many updates to be made, navigate in PlanSource to "Data & Tools" -> "Data" -> "Employee Update Worksheet". Download the template with the necessary fields and re-import here once updated with the information from the Payroll Changes spreadsheet.
-
-
 ### Monthly Finance HSA & FSA Reporting
 
 Finance requires the ongoing FSA and HSA account reporting for tracking purposes
@@ -178,6 +162,41 @@ For example'Fed-FT-Colorado' would be the correct option for a GitLab Federal Te
 * OOS: Team members with a home in any other state not listed in the above.
 
 Ineligible: Any Team Member that relocated outside of the US and is no longer eligible for a plan, OR any team member that may not be eligible due to Part-Time employment (under 30 hours per week). Please note that interns are eligible for benefits if they work over 30 hours per week.
+
+### Monthly Navia Upload
+Temporary until Integrations are put in place between PlanSource/Workday & Navia
+
+1. Log on to https://www.naviabenefits.com/
+1. Reports> Active Member Report > Select the current year's plan > check mark Include EmpID/SSNs
+1. Pull PlanSource/Workday report
+  1. Termination Report - get termination dates for team members
+  1. PlanSource/Workday report of Cigna enrollees
+1. Do a vlook up to to see which team members need to be termed in Navia & team members who need to be added in to the portal
+1. If not that many team members, you can log on to Navia and Upload the data individually > Plan Management > Participants > Add Participant
+1. If there are many team members, fill out the [Navia Upload Report](https://docs.google.com/spreadsheets/d/1RcqGMpUnEmDDm6AKtsIVWidh22JEIIqa/edit#gid=1692401370). Log on to Navia Portal > Data Management > Send File > Upload the file > File Recipient is Lydnsey Rush
+
+How to Fill out the Navia Upload Report:
+
+1. Employer Code: GBZ
+1. Plan Start: Depends on plan year (for 2022 it is 10/1/2022- to 12/31/2022; for 2023 it is 1/1/2023- 12/31-2023)
+1. Record Type: Eligible
+1. Fill in SSN, First Name, Last Name, Address Name, City, State, Country, DOB, Sex, Work Email
+1. Benefit Code: Since there are two plans each team member and dependent will need 2 separate line items, one for the pre-tax plan, and one for the post tax plans: 
+  * HRA1: Pretax Travel Plan – For those on Non HDHP
+  * HRA2: Post-Tax Travel Plan – For those on Non HDHP
+  * HRAOTHER: Pretax Travel Plan (Post-Deductible) – For those on HDHP w/ HSA
+  * HRAEE: Post-Tax Travel Plan (Post-Deductible) – For those on HDHP w/ HSA
+1. Fill in the following information for the team member and their dependents Covered Individual SSN, Relationship, First name, last name, sex, covered individual enrollment (1): a line is needed for each team member and each dependent
+
+Example on how many entries should be in the report per team member: If a team member has a spouse & a child; there should be 6 entries: a line for each dependent and a line for each plan (pre-tax & Post tax)
+
+#### Cobra Navia
+
+Team members have the option of electing the HRA during Cobra, once elected and payment is made, WEX sends email notification to Navia informing them of the COBRA election and to reactivate the member’s access to HRA.
+The process for reporting elections is managed by WEX.
+
+ 
+
 
 ### Audits
 
