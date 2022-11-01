@@ -14,6 +14,9 @@ description: "Frequently asked questions answered so Sales and Customer Success 
 {:toc .hidden-md .hidden-lg}
 
 ---
+
+**This page will be redirected to https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/**
+
 # Purpose
 
 To answer questions frequently asked by Sales and Customer Success teams about Product Usage Data in Gainsight.
@@ -87,7 +90,7 @@ _Last updated 2022-05-17._
 
 ---
 
-## Data Definitions
+## Data definitions
 
 #### What’s the best way to understand what a metric is measuring?
 - Check the [Product Usage Data for Gainsight Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit?usp=sharing).
