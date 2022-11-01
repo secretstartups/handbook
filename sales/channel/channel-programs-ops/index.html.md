@@ -735,7 +735,7 @@ Partners are a huge part of the GitLab go-to-market strategy.  Teams managing ou
  
 GitLab is contractually obligated to provide Partners with **30 days notification** of any pricing, product, or program changes. Product changes to tiering, terms, or EOA must accommodate the 30-day notice before announcing to GitLab customers, so Partners are prepared for changes and to help address customer questions/concerns. The 30 day notification period allows Partners to make required changes to pricelists, company websites, and collateral.   As you create GTM and communication plans, please add extra time for the request to the Channel Program team and account for the required 30-day notification.  
  
- If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/issues/new?issue%5Bmilestone_id%5D=). 
+If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/blob/master/.gitlab/issue_templates/Channel%20Partner%20Communication%20Request.md). 
 
 For all materials requiring legal review, please refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process)
 
