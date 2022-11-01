@@ -693,3 +693,34 @@ Here is the config table for the automation logic for reference:
   * `determinePubSecType`
 * [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
   * `determinePubSecType`
+
+### Set Lead Address on Account on Lead Conversion
+**Business Process this supports:** This is a part of the process of how the Billing Address is determined on an Account - by stamping the lead address on the account. The Lead address is one of the layers of the data hierarchy that is used in determining where the account is. 
+**Overview:** This process catches the lead on a lead conversion and uses the lead address to stamp either a blank lead address field on the account or to populate missing informaiton on the lead address on the account. 
+   * If the Lead address on the account is blank and there is any info in the lead address on the conversion the lead address will be stamped into the lead address fields on the account
+   * If there is a partial address in the lead address fields on the account when the lead is converted and ALL of the information on the account matches the corressponding info on the lead - any additional new address information will be stamped into the currently blank field on the account. If the overlapping infromation between the account and lead is different then no new information is stamped onto the account even if their is a partial match (Example same state but different Zip Code)
+
+**Related Issues:** 
+  * [Address Waterfall](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3139)
+
+**Logic Locations:**
+* [LeadTrigger.trigger](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/triggers/LeadTrigger.trigger)
+* [LeadClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClass.cls)
+  * `stampConvertedLeadAddressData`
+* [LeadClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClassTest.cls)
+  * `stampConvertedLeadAddressDataTest`
+
+### Set Billing Address on Account
+**Business Process this supports:** This is the process of how the Billing Address is determined on an Account. 
+**Overview:** The Billing Address fields on the account is determined through a hierarchy of data that is brought in from several sources. Going through the hierachy (from first to last), if there is any field in the set of fields that has any data in it then it is used to automatically set the Billing Address on the account, otherwise we look at the next set of field. Many of the fields used in the hierarchy are only visibile to admins only to avoid confusion with the field. 
+
+**Related Issues:** 
+  * [Address Waterfall](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3139)
+
+**Logic Locations:**
+* [AccountTrigger.trigger](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/triggers/AccountTrigger.trigger)
+* [AccountClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClass.cls)
+  * `SetBillingAddressOnAccounts`
+* [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
+  * All tests that start with `setBillingAddressOnAccounts_`
+  * `validateBillingAddress` (Helper Functions)
