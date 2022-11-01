@@ -57,7 +57,7 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 * **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications: 20%
 
 
-![Customer Health Vision](/handbook/customer-success/vision/images/customer-health-score-vision.jpeg)
+![Customer Health Vision](https://lucid.app/publicSegments/view/cccc6a4b-adad-4fcf-aba6-ddc53310111d/image.png)
 <br><br>
 
 ### PROVE Components
