@@ -427,7 +427,7 @@ RACI= Accountable, Responsible, Consult, Inform
 
 **General NFR Request Process**
 
-Requestor (CAM/partner) fills out the [NFR License Request form](https://forms.gle/Jszh53YChAuAvL1U8).
+Partner fills out the NFR License Request form from the "Support" tab within the [partner portal](partners.gitlab.com).
 
 This creates a new line in the associated spreadsheet.
 
