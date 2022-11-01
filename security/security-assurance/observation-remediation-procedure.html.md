@@ -35,7 +35,7 @@ This procedure details the remediation process of observations.
 
 | Role | Responsibility|
 | ---- | ------ |
-| Security Compliance Team | Responsible for executing [Security control tests](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#) to determine the test of design and test of operating effectiveness of Security and IT general controls. |
+| Security Compliance Team (Commercial and Dedicated) | Responsible for executing [Security control tests](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#) to determine the test of design and test of operating effectiveness of Security and IT general controls. |
 | Security Risk Team | Responsible for executing [Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) (TPRM) risk and security assessments to determine risk associated with third party applications and services. |
 | Field Security Team | Responsible for executing [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)(CAA) responsible for providing customer assurance with GitLab's security practices and operating procedures. |
 | Observation Manager | Responsible for being the observation DRI through the observation lifecycle including verifying and fine tuning recommended remediation plans in order to meet legal and regulatory requirements. |
