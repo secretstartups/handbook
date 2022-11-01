@@ -27,4 +27,4 @@ Please note that all links are GitLab-internal only.
 
 ## Corporate Resources
 - [Template: Year & Quarter End and Annual Meeting Calendar](https://docs.google.com/document/d/1ryr318J_MzzkWwSLSoiAp5jfD1mzfj3P/edit) _Note: This resource is shared with specific Team Members who participate in Quarter & Annual Filings_
-- [Quarterly Open Window and Designated Insider Process Guide](https://docs.google.com/document/d/18FWeohmAhd90K2JCD_RlTfCs75om3XxljGG-1dt_7Ek/edit)_ Note: This resource is shared with Corporate, Legal Operations, Finance and Stock Adminstration Team Members who participate in Quarterly Open Window processes_
+- [Quarterly Open Window and Designated Insider Process Guide](https://docs.google.com/document/d/18FWeohmAhd90K2JCD_RlTfCs75om3XxljGG-1dt_7Ek/edit) _Note: This resource is shared with Corporate, Legal Operations, Finance and Stock Adminstration Team Members who participate in Quarterly Open Window processes_
