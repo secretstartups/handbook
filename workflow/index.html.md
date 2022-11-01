@@ -141,7 +141,8 @@ The merge request author of the change that broke master is the resolution DRI. 
    * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
    * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
    * `:white_check_mark:` - applied by the resolution DRI to signal the fix is complete.
-1. Communicate in `#development`, `#backend`, and `#frontend` when the fix is in
+1. Communicate in `#master-broken` when the fix was merged
+1. Broadcast in `#master-broken`, `#development`, `#backend`, and `#frontend` when the fix is in
    `master`.
 1. When `master` build was failing and the underlying problem was quarantined /
    reverted / temporary workaround created but the root cause still needs to be
