@@ -212,10 +212,11 @@ The following criteria make a deal eligible for a holdover:
      - In this scenario, whoever closes the opportunity & his/her corresponding management will get paid (even if it’s going to a different owner)
 - **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience. (More details to come)
 - **For cross segment holdovers**, the governing rules are dictated by the team that is giving up/losing the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise team member would have a 30 day holdover period to close before it would be moved to the receiving Enterprise owner.
-- **Holdovers do not apply to FY22 ASMs/AVPs Sales Leaders** if the account is moving Areas.  
+- **Holdovers do not apply to FY23 ASMs/AVPs Sales Leaders** if the account is moving Areas.  
      - Example:  If a Holdover opportunity closes during the 90-day period, and the account is moving to a new ASM / AVP, the receiving ASM / AVP of the account will receive 100% Bookings and Commissions credit.  The reason for this is the receiving ASM / AVP is carrying the quota associated with that account.  If the account is staying within the same Area, and not changing ASMs, the ASM will receive full Bookings as Commissions credit.  
 - **Sales Leaders** are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunities are not moved prematurely to stage 3.
-- Holdovers do not apply to CSMs or SAs. 
+- Holdovers do not apply to TAMs or SAs. 
+- Holdovers do not apply to ISRs and Renewal Managers.
 - Holdover opportunities are flagged in SFDC using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 - Credit will be given to the AE on the holdover opportunity if it closes before the expiration date.
 
