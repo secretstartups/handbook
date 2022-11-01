@@ -348,8 +348,8 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
 
 ## Items required by FMM to request moving an issue from Plan to WIP
 
-- Contract is fully executed (if applicable)
-- Event Details and FMC Checklist sections in the issue are updated and complete
+- Contract is fully executed (if applicable) - For contract approval, FMM is to obtain the agreement from the vendor, review and make any changes needed with the vendor, then submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to the FMC for processing through Coupa.
+- Event Details and FMC Checklist sections in the main issue are updated and complete
 - Allocadia sub-category and line item detail panels are updated and complete
 
 ## Moving from Plan to WIP
