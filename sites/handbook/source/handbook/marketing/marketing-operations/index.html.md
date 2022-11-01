@@ -32,7 +32,6 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 | Person | Role |
 | ------ | ------ |
-| [Ray Leihe](https://gitlab.com/Leihe268) | VP, Marketing Strategy and Platforms|
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
