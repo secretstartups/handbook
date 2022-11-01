@@ -20,6 +20,31 @@ See [Health Score Triage](/handbook/customer-success/csm/health-score-triage/#li
 | DevSecOps (Secure) | Enablement & Expansion   | For customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
 | CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/) |
 
+### User Engagement
+
+User Engagement is intended to measure the number of users logging in each month / billable users.
+
+|                       | **Red** | **Yellow** | **Green** |
+| --------------------- | ------- | ---------- | --------  |
+| [unique active users - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20220621085114_unique_active_users_monthly.yml) / [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | <50%    | ≥50 - <80%     | ≥80%    |
+
+This looks at all users who actively log in on a 28 day basis divided by the amount of total users that have been deployed on the account.
+
+**Limitations**:
+1. Only self-managed customers on 15.2+ will have this health measure available
+1. The SaaS-equivalent metric will be available later ([issue](https://gitlab.com/gitlab-data/analytics/-/issues/11662))
+
+As the customer progresses through the lifecycle, user engagement is a measure of the "solidity" consumption of licenses. For example, arre the users that have found their way to the platform sticking around and regularly utilizing it?
+
+**Why it matters**: User Engagement should prove to be a great way to build a more comprehensive view of renewal risk. It'll be less efficacious for customers that have dormant-user-deactivation enabled, as un-engaged users should be being removed from the billable count on an ongoing basis.
+
+**How to use it**:
+1. Ask discovery questions of customer about user engagement: types of users, their use cases, awareness of dormancy/un-engaged-users
+1. Build awareness of dormant-user-deactivation capability
+1. Couple that with efforts to drive awareness of GitLab within the account (eg. GitLab for Plan/PM, GitLab for non-developers, normal user enablement). A signal to SAL/AE/BDR to drive account-based outreach. Find unaware or unegaged user cohorts. Encourage them to  bring users onto the platform.
+
+Position as a way for the customer to get value out of the seats they've already paid for, and help the account team ensure more predictable renewal outcomes. It becomes riskier the closer we are to renewal.
+
 
 ### Source Code Management (SCM)
 
