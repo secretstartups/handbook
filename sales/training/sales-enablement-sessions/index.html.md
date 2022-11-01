@@ -19,12 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Fall 2022 Lineup**
+**Winter 2022 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Oct 20 | *No session during the last two weeks of the quarter* | N/A |
-| Oct 27 | *No session during the last two weeks of the quarter* | N/A |
+| Nov 3 | No Session  | N/A  |
+| Nov 10 | No Session  | N/A  |
+| Nov 17 | TBD  | TBD  |
+| Nov 24 | **No Session - Public Holiday** | TBD  |
+| Dec 1 | FY23-Q4 Channel Update  | Blair F. & Ed C.  |
+| Dec 8 | Forrester TEI Enablement (Study + Estimator)  | Laura C. & Ryan R.  |
+| Dec 15 | FY23-Q4 Product Marketing Update | Saumya U. & Brian M.   |
+| Dec 22 | TBD  | TBD  |
+| Dec 29 | **No Session - Public Holiday**  | N/A  |
+| Jan 5 | FY23 - Q4 Competitive update  | Joe K.  |
+| Jan 12 | FY23 - Q4 Industry Analyst Relations Update | Laura C. & Ryan R.  |
+| Jan 19 | *No session during the last two weeks of the quarter* | N/A |
+| Jan 26 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
 ## Past Sessions
 <details>
