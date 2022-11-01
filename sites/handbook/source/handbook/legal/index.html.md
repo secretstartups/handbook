@@ -35,7 +35,7 @@ We take employee concerns very seriously and encourage all GitLab Team Members t
 
 #### [Commercial](https://about.gitlab.com/handbook/legal/commercial/)
 
-The Commercial Legal Team works with our Sales and Partnership Team Members to deliver GitLab software and services. In addition, this team is responsible for reviewing and approving all agreements with regards to the procurement of goods and services. Resources include the [Sales Guide: Collaborating with GitLab Legal] (https://about.gitlab.com/handbook/legal/customer-negotiations/), Procurement Guide, and other resources which provide how best to engage the Commercial Team, as well as assist in efficiently reaching terms with our vendors, customers and partners, including negotiating terms and providing business and legal recommendations.
+The Commercial Legal Team works with our Sales and Partnership Team Members to deliver GitLab software and services. In addition, this team is responsible for reviewing and approving all agreements with regards to the procurement of goods and services. Resources include the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/), Procurement Guide, and other resources which provide how best to engage the Commercial Team, as well as assist in efficiently reaching terms with our vendors, customers and partners, including negotiating terms and providing business and legal recommendations.
 
 
 #### [Corporate](https://about.gitlab.com/handbook/legal/publiccompanyresources/)
