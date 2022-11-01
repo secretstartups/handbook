@@ -44,14 +44,14 @@ It's equally important that we provide team members with a well-rounded view of 
 
 In preparing key messages to be shared with all team members, we ask all departments to follow the process below:
 
-1. Share the need for communications support by completing an [internal communications planning template](https://docs.google.com/document/d/1RCbETctaQKuRHhVce14wREO_NRpgiMon89t-kU8Zfj8/edit?usp=sharing) as completely as possible and share the need with a member of our internal communications team.
-    - These requests can be shared on Slack using the **#internal-communications-requests** channel, or if confideniality is a concern, please connect directly with:
+1. Share the need for communications support by completing a [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit?usp=sharing) as completely as possible and share the need with a member of our People Communications & Engagement team.
+    - These requests can be shared on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with:
     - Kayla Golden, Senior Program Manager, People Communications & Engagement
     - Devin Rogozinski, Senior Director, Talent Brand & Engagement
-1. Upon recieving the project brief, our internal communications will socialize the need with the #comms-asks channel to determine the who will be a DRI from internal communications or the broader talent & engagement team assigned to the project.
-1. A communications plan including release timing, cadence, and appropriate channels will be developed
-    1. At least ~48 hours advanced notice is needed to plan a single message being shared
-    1. For more complex internal communications requests, we request at least ~7-10 business days advanced notice to effectively collaborate together on a communications plan. We will opt to move more methodically depending on the scope and timeliness of the communication. 
+1. Upon receiving the project brief, our People Communications & Engagement team will socialize the need with the #comms-asks channel to determine who will be a DRI or partner from the People Communications & Engagement team or the broader talent & engagement team assigned to the project.
+1. A communications plan including release timing, cadence, and appropriate channels will be developed.
+    1. At least ~48 hours advance notice is needed to plan a single message being shared
+    1. For more complex internal communications requests, we request at least ~7-10 business days advance notice to effectively collaborate together on a communications plan. We will opt to move more methodically depending on the scope and timeliness of the communication. 
 
 ## People Communications & Engagement channels
 
@@ -59,7 +59,7 @@ We use a variety of channels to communicate with various audiences within GitLab
 
 - **"While You Were Iterating" Newsletter...** Communicating new updates that are important for all team members to be aware of on a twice a month basis.
 
-To contribute: Write a comment in the most current newsletter GitLab issue and tag @kaylagolden and @sliang2. Things to note when sending over content: 
+To contribute: Write a comment in the most current newsletter GitLab issue and tag @kaylagolden. Things to note when sending over content: 
     - Is it globally relevant to more than 75% of GitLab team members? 
     - Is this something all team members should know about and/or action?
     - Does it align with our GitLab values?
@@ -68,7 +68,7 @@ To contribute: Write a comment in the most current newsletter GitLab issue and t
 
 - **Manager README Monthly Newsletter:** Monthly proactive communication to people managers containing: what’s coming up, reminders of what’s important, guidance on team member talking points and what actions to take
 
-To contribute: Write a comment in the most current manager comms GitLab issue and tag @kaylagolden and @sliang2. Things to note when sending over content: 
+To contribute: Write a comment in the most current manager comms GitLab issue and tag @kaylagolden. Things to note when sending over content: 
     - Is it globally relevant to more than 75% of GitLab People Managers? 
     - Is this something all people managers should know about and/or action?
     - Does it align with our GitLab values?
@@ -79,24 +79,25 @@ To contribute: Write a comment in the most current manager comms GitLab issue an
 
 - **All-team-member Slack channels (#company-fyi and #company-fyi-private):** Timely important and action-oriented important updates to all team members
 
-To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [Request for Internal Communications Announcement](https://docs.google.com/document/d/1QBPEp1rvS-QDcWjsPN4EC6YxIYG_Pzj0vrm56__hEUM/edit#heading=h.x4nz4qi9s12r) document and tag Simon Liang and Kayla Golden in the doc. 
+To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r) and share on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with @kaylagolden.
 
 
 - **GitLab Assembly:** Synchronous time to hear from GitLab leaders and answer team member questions
 
-To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group
+To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group.
 
 
 - **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
 
 ## People Communications & Engagement Planning
 
-We operate an internal communications editorial calendar (confidential to a small internal group) with key company-wide announcements, campaigns, and events. To get added to this list, please review the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of the [Request for Internal Communications Announcement](https://docs.google.com/document/d/1QBPEp1rvS-QDcWjsPN4EC6YxIYG_Pzj0vrm56__hEUM/edit#heading=h.x4nz4qi9s12r) document and tag Simon Liang and Kayla Golden in the doc. 
+We operate an internal communications editorial calendar (confidential to a small internal group) with key company-wide announcements, campaigns, and events. To get added to this list, please review the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r) and share on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with @kaylagolden.
+
 
 
 ## Planning large-scale communications & engagement efforts across multiple channels
 
-Timing of various messages and internal campaigns, and having a solid plan is a key to successful communication. As a company that's in growth mode, change is contant and we have a lot that needs to be shared with team members.
+Timing of various messages and internal campaigns, and having a solid plan is a key to successful communication. As a company that's in growth mode, change is constant and we have a lot that needs to be shared with team members.
 
 We operate as a lean team and due to limited bandwidth, we are unable to service all communications fully. Please review the Internal Comms Tiered System to understand how and what type of communications we can assist with.
 
@@ -133,9 +134,8 @@ It's important to note that information cascading could be seen as lacking trans
 
 ## Resources and helpful links
 
+- [Request for Internal Communications Support Template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r)
 - [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw)
-- [Request for Internal Comms Announcement](https://docs.google.com/document/d/1QBPEp1rvS-QDcWjsPN4EC6YxIYG_Pzj0vrm56__hEUM/edit#heading=h.x4nz4qi9s12r)
-- [Internal Comms Template](https://docs.google.com/document/d/1RCbETctaQKuRHhVce14wREO_NRpgiMon89t-kU8Zfj8/edit)
 - [Communication at GitLab](https://about.gitlab.com/handbook/communication/)
 
 
