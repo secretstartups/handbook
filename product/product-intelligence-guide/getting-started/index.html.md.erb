@@ -89,10 +89,10 @@ The next step after deciding on the new metrics' data type is choosing the metri
 
 The metric counter type depends on the type of data to be tracked:
 
-- **Database metric** - used for tracking data kept in the database, for example - count of Issues existing on given instance.
-- **Redis metric** - used for tracking events that are not kept in the database, for example - count of how many times the search bar has been used.
-- **RedisHLL metric** - used for tracking events that are not kept in the database and should only be incremented for unique values (usually - unique users), for example - a count of how many different users used the search bar.
-- **Generic metric** - used for other types of metrics, for example - an instance's database version. **Observations** type of data will always have a **Generic metric** counter type.
+- **Database metric** - for counting database records, for example - count of Issues existing on given instance.
+- **Redis metric** - for tracking counts of events fired while running a GitLab instance,  for example - count of how many times the search bar has been used.
+- **RedisHLL metric** - for tracking counts of events, but the event is counted only when a particular value is unique (usually - unique user ID), for example - a count of how many different users used the search bar.
+- **Generic metric** - for other types of metrics, for example - an instance's database version. **Observations** type of data will always have a **Generic metric** counter type.
 
 After determining the metric counter type, it's time to implement the counter incrementing!
 
@@ -102,7 +102,7 @@ This step can be skipped for **Database metrics** and **Generic metrics**. These
 
 ##### Redis counter implementation
 
-For Redis counters, we offer a frontend API described [in the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api), and a JavaScript/Vue helper for using this API.
+To track Redis counter events, we offer a frontend API described [in the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api), and a JavaScript/Vue helper for using this API.
 
 ##### RedisHLL counter implementation
 
@@ -134,11 +134,11 @@ See [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metri
 
 ##### Redis metric
 
-Redis metrics typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-metrics).
+[Redis metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-metrics).
 
 ##### RedisHLL metric
 
-RedisHLL metrics typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisHLLMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-hyperloglog-metrics).
+[RedisHLL metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-hyperloglog-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisHLLMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-hyperloglog-metrics).
 
 ##### Generic metric
 
