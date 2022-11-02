@@ -100,15 +100,9 @@ Look to the right, or scroll down until you see "Security Methods". Once you're 
 
 1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers.
 
-<<<<<<< sites/handbook/source/handbook/business-technology/okta/index.html.md
-1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
-1. In the 'Extra Verification' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator`. 
-1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
-=======
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
 1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt.
->>>>>>> sites/handbook/source/handbook/business-technology/okta/index.html.md
 1. After pressing `Enroll`, a prompt from your web browser will appear.
 1. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
 
