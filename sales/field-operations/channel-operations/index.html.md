@@ -720,6 +720,12 @@ If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting 
 If GCP or AWS support a deal and help drive the customer to buy GitLab, but were not the original source of the opportunity nor are they transacting the deal, then the following field should be filled out on the Opportunity:
 - **Influence Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
 
+### Alliance Reporting Best Practices 
+ - When creating reports for Alliance Accounts, the `Resale Partner` field can be filtered to contain the following accounts: Amazon,google,IBM (OEM)
+ - Use the `Net ARR` field to calculate margin of a deal. The `Amount` fields calculates the total contract value of all customer subscriptions, not the amount of a specific deal.
+ - Use the `Stamped Owner Opp` fields for geo-related data when creating reports. 
+ -  `Billing Account Country` is the optimum choice for reporting on country specific information. Occasionally, `Billing Country` or `Account Address Country` is used for country-related information, the enrichment tools can sometimes cause `Account Address Country` to be incorrect.
+
 ### Marketplace Transaction Fees
 Deals booked through the Amazon and Google markeplaces use the following fee schedule (non-negotiable):
 
