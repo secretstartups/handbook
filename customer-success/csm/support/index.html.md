@@ -106,6 +106,12 @@ In the email notifying CSMs of new tickets, the included Zendesk ticket link cur
 }
 ```
 
+## Provide Customer Feedback on Support Tickets
+
+Sometimes CSMs receive feedback on a support ticket from a customer via email. This feedback can be positive or negative. You can feed back that information to the support management team by following the instructions under points 3 and 4 in the [Sources of feedback](https://about.gitlab.com/handbook/support/workflows/how-to-respond-to-feedback.html#sources-of-feedback) section of the Support Satisfaction (SSAT) workflow documentation. The SSAT Reviewing Manager will pick up and action the feedback.
+
+As described at that link, support already collects feedback via an automatic email survey and a mid-ticket feedback link. It can be helpful to remind customers about these options from time to time. You'll still see the feedback when reviewing a customer's support tickets prior to cadence calls.
+
 ## Helpful links
 
 - [Official GitLab Support Documentation](https://about.gitlab.com/support/)
