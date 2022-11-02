@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Account Deletion & Data Access Requests - Workflows
-category: Privacy
+category: GitLab.com
+subcategory: Legal
 description: "How to perform the processing of Account Deletion and Data Access requests"
 ---
 
