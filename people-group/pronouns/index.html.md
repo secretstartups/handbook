@@ -79,7 +79,9 @@ While many individuals choose between **she/her**, **they/them**, and **he/him**
 As a result, one might choose pronouns that let them more accurately reflect their gender identity, such as **ze/hir**.
 There are many neopronouns in use, and while there may never be a comprehensive compendium of them all,
 [pronoun.is](https://pronoun.is/all-pronouns) gets pretty close! If you're interested in neopronouns, you can read more
-about them [in this NY Times article](https://www.nytimes.com/2021/04/08/style/neopronouns-nonbinary-explainer.html).
+about them [in this NY Times article](https://www.nytimes.com/2021/04/08/style/neopronouns-nonbinary-explainer.html)
+(requires subscription) and [on Pronouns.org Neopronouns guide](https://pronouns.org/neopronouns). Pronouns.org also
+contains many additional pronoun-related guides.
 
 ## General etiquette
 
@@ -116,6 +118,7 @@ Set your Zoom pronouns through the [Zoom web portal](https://support.zoom.us/hc/
 ## Additional resources
 
 - [**Tool:** Pronoun Island](https://pronoun.is/)
+- [**Reference:** Pronouns.org](https://pronouns.org/)
 - [**Article:** A Guide To Gender Identity Terms](https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq)
 - [**Article:** 'She/They' and Other Pronouns You Might See on Candidate Profiles](https://www.linkedin.com/business/talent/blog/talent-acquisition/pronouns-you-might-see-on-candidate-profiles)
 - [**Book:** _Gender: A Graphic Guide_](https://www.introducingbooks.com/ib-title/gender-a-graphic-guide/)
