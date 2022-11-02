@@ -643,7 +643,7 @@ author_gitlab: gitlab.com-username
 categories: releases
 image_title: '/images/X_Y/X_Y-cover-image.ext'
 description: "GitLab X.Y Released with XXX, YYY, ZZZ, KKK, and much more!"
-twitter_image: '/images/X_Y/X_Y-cover-image.ext'
+twitter_image: '/images/X_Y/X_Y-cover-image.ext' # required - copy URL from image title section above
 layout: release
 featured: yes
 # header_layout_dark: true #uncomment if the cover image is dark
@@ -1448,7 +1448,7 @@ For entries that support Markdown, use regular [Markdown Kramdown](/handbook/mar
 - {:#cover-image} **Cover image**:
   use a unique cover image for every post, usually from [Unsplash](https://unsplash.com/), and add
   [the required copyright info](#cover-image-license) into the Yaml file.
-  This image should be eye-catching, inspiring and avoid images of people. Suggested aspect ratio is 3:1 and resolution should be enough to be good-looking on big displays. To test the image and see how it fits (without waiting for a build or running the handbook locally):
+  This image should be eye-catching, inspiring and avoid images of people. The image should be landscape orientation, roughly 1920 x 1080, and no larger than 300KB. To test the image and see how it fits (without waiting for a build or running the handbook locally):
   - Navigate to a previous release post
   - Using a web inspector find the element `<div class="cover" style="background-image: url();">`
   - Inside of `url()` replace the string with the URL of the upsplash image (the actual URL of the image, you may need to right-click the image and select "copy image address")
@@ -1459,8 +1459,6 @@ For entries that support Markdown, use regular [Markdown Kramdown](/handbook/mar
   - `![image alt text](#img-url){:.shadow}`
   - If the original image already has shadow applied, don't use `{:.shadow}`.
   - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks) right after `image_url`.
-- {:#social-sharing-image} **Social sharing image**:
-  It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. This is fulfillled by adding the [cover image](#cover-image) to the release post.
 
 #### Videos
 
