@@ -151,9 +151,7 @@ An artifact of the email sent to the customer is automatically created under the
 
 ### US Federal Internal Requests
 
-**Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151).
-
-**Note:** This form is not publicly listed and is for internal GitLab team member use only.
+**Public Sector organizations:** For confidential license issues relating to US Federal customers, GitLab team members can [open a case with US Federal Support](https://gitlab-com.gitlab.io/support/support-ops/forms/us-federal-internal-request-form/).
 
 ### Request for a license as a GitLab Team Member
 
