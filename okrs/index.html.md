@@ -16,8 +16,8 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 All our OKRs are public and listed on the pages below.
-- [FY23-Q3 Active](/company/okrs/fy23-q3/){:data-ga-name="fy23-q3"}{:data-ga-location="body"}
-- [FY23-Q4 Future](/company/okrs/fy23-q4/){:data-ga-name="fy23-q3"}{:data-ga-location="body"}
+- [FY23-Q4 Active](/company/okrs/fy23-q4/){:data-ga-name="fy23-q4"}{:data-ga-location="body"}
+- [FY24-Q1 Future](/company/okrs/fy24-q1/){:data-ga-name="fy24-q1"}{:data-ga-location="body"}
 - [Previous OKRs](#okr-archive){:data-ga-name="okr archive"}{:data-ga-location="body"}
 
 ## What are OKRs?
@@ -367,6 +367,7 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 * [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1)
 
 ## OKR Archive
+- [FY23-Q3 Active](/company/okrs/fy23-q3/){:data-ga-name="fy23-q3"}{:data-ga-location="body"}
 - [FY23-Q2](/company/okrs/fy23-q2/){:data-ga-name="fy23-q2"}{:data-ga-location="body"}
 - [FY23-Q1](/company/okrs/fy23-q1/){:data-ga-name="fy23-q1"}{:data-ga-location="body"}
 - [FY22-Q4](/company/okrs/fy22-q4/){:data-ga-name="fy22-q4"}{:data-ga-location="body"}
