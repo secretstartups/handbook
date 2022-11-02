@@ -50,15 +50,6 @@ We have also prepared Introductory Videos on [Okta Setup](https://youtu.be/upJ4p
 
 We recommend particularly that once your account is set up, you set up an additional MFA factor [either YubiKey or biometric](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) in case there's an issue with one of your MFA factors.
 
-### Setting up my Okta Account requires me to use the app Okta Verify on my phone, and I don't like that.
-
-Our Okta implementation defaults to using Okta Verify as the Required MFA factor.
-Okta Verify is a safe and secure application that allows push notifications and one-time tokencodes on your phone to validate your login.
-It is supported on iPhone, Android and Windows Phones.
-
-For some people, there are issues with installing a verification app on their phone.
-If there is some reason that this is not appropriate for your geography or other reasons, please submit an issue to [Opt Out](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/issues/new?issuable_template=okta_verify_optout) and we can add you to an authentication group that will make Okta Verify optional.
-Please note that we still recommend that you set up at least two MFA factors, in case something happens to one of your factors.
 
 ### I occassionally get an additional challenge in Okta Verify when signing in, why and how do I deal with it?
 
@@ -76,7 +67,7 @@ There is a "need help signing in?" button on the login screen.
 If you expand this there is a link to an automated password reset process via email.
 You will need to know the answers to your security question(s) to use this.
 
-We recommend that you store your Okta password in 1Password as well as your Security Questions there.
+We recommend that you store your Okta password in 1Password.
 Please review the [1Password Guidelines](/handbook/security/#1password-guidelines) for best ways to use Okta and 1Password together.
 
 ### I forgot my Security Questions, how do I reset my password?
@@ -103,21 +94,27 @@ Look to the right, or scroll down until you see "Security Methods". Once you're 
 </div>
 <br>
 
-### I want to add Touch ID / Face ID / Yubikey to Okta
+### I want to add Touch ID / Face ID / YubiKey to Okta
 
-**Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for administrators, and highly recommended for all team members.**
+**Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for all team members.**
 
 1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers.
 
+<<<<<<< sites/handbook/source/handbook/business-technology/okta/index.html.md
+1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
+1. In the 'Extra Verification' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator`. 
+1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
+=======
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
-1. Choose `Set up` or `Set up another` next to `Security Key or Biometric` in the `Security Methods` section of the page.
+1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
 1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt.
+>>>>>>> sites/handbook/source/handbook/business-technology/okta/index.html.md
 1. After pressing `Enroll`, a prompt from your web browser will appear.
 1. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
 
     <img src="/handbook/business-technology/Okta-Add-Biometric-1.png" alt="Okta Add Biometric #1" width="300"/>
 
-1. For Touch ID or Face ID, another prompt will appear asking you to authenticate using that method.
+1. For Touch ID or Face ID, another prompt will appear asking you to authenticate using Touch ID or Face ID.
 
     <img src="/handbook/business-technology/Okta-Add-Biometric-2.png" alt="Okta Add Biometric #2" width="300"/>
 
@@ -135,9 +132,7 @@ Look to the right, or scroll down until you see "Security Methods". Once you're 
 
 Great - these factors are phishing resistent! To do so, choose "Remove" next to the relevant factor under "Extra Verification". If you plan to use biometric solely, we recommend having at least one Yubikey as a backup in order to be able to add a new device in a self-service way.
 
-At this time, it is not possible to permanently remove Okta Verify as a valid factor, and if you do so, you will be prompted to re-add it upon next login.
-
-### I don't have my old phone but have a Yubikey
+### I don't have my old phone but have a YubiKey
 
 If you wiped and returned your old mobile device you could use a [Yubikey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to reset your Okta MFA.
 
