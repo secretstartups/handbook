@@ -683,7 +683,7 @@ YAML data:
 
 - Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
 - `- name: "Bug fixes"`
-- `bug_fixes_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=type::bug` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=type::bug'` - this links to closed issues for the 13.8 milestone with the `~"type::bug"` label.
+- `bug_fixes_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=closed&milestone_title=XX.Y&label_name%5B%5D=type%3A%3Abug&first_page_size=20` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=closed&milestone_title=15.5&label_name%5B%5D=type%3A%3Abug&first_page_size=20` - this links to closed issues for the 15.5 milestone with the `~"type::bug"` label.
 
 ### Performance improvements MR
 
@@ -701,7 +701,7 @@ YAML data:
 
 - Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
 - `- name: "Performance improvements"`
-- `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=XX.Y&label_name[]=performance'` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=13.8&label_name[]=performance` - this links to merged merge requests for the 13.8 milestone with the `~performance` label.
+- `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?sort=updated_desc&state=closed&label_name[]=bug::performance&milestone_title=XX.Y` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?sort=updated_desc&state=closed&label_name[]=bug::performance&milestone_title=15.5` - this links to merged merge requests for the 15.5 milestone with the `~bug::performance` label.
 
 ### Usability improvements MR
 
@@ -720,7 +720,7 @@ YAML data:
 
 - Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
 - `- name: "Usability improvements"`
-- `ux_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=usability` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=usability'` - this links to closed issues for the 13.8 milestone with the `~usability` label.
+- `ux_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name%5B%5D=SUS::Impacting&milestone_title=XX.Y` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name%5B%5D=SUS::Impacting&milestone_title=15.5` - this links to closed issues for the 15.5 milestone with the `~SUS::Impacting` label.
 
 ### MVP entry
 
