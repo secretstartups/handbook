@@ -8,3 +8,4 @@ title: "Chief of Staff Team to the CEO READMEs"
 - [Ian Pedowitz's README (Director, Strategy and Operations)](https://gitlab.com/ipedowitz)
 - [Darren Murph's README (Head of Remote)](/handbook/ceo/chief-of-staff-team/readmes/dmurph/)
 - [Jessica Reeder's README (Senior Strategy and Operations Manager: Workplace)](/handbook/ceo/chief-of-staff-team/readmes/jessicareeder/)
+- [Laurel Farrer's README (Principal Strategy & Operations: Workplace)](/handbook/ceo/chief-of-staff-team/readmes/lfarrer/)
