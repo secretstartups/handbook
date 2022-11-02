@@ -73,40 +73,7 @@ The Director of Legal, Privacy and Product collaborates with clients across GitL
 ### Employment
 The Director of Legal, Employment collaborates with clients across GitLab on a broad range of employment law matters affecting our global team member base.
 
-## Senior Director, ESG 
-
-The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives. 
-
-
-### Senior Director, ESG Responsibilities
-* Establish best-in-class strategy and operating plan with regards to GitLab ESG, CSR and sustainability initiatives
-* Identify and prioritize sustainability and social issues; setting goals that support alignment and integration of the ESG, CSR and sustainability vision into overall corporate strategy
-* Develop measurement policies and implement governance processes and disclosure controls to ensure completeness and accuracy of ESG, CSR and sustainability reporting 
-* Publicly report GitLab Inc.’s ESG, CSR and sustainability initiatives and measures
-* Lead strong collaboration with key global business stakeholders to influence positive outcomes with respect to ESG, CSR and sustainability initiatives and measures
-* Develop budget with respect to ESG, CSR and sustainability initiatives 
-* Analyze regulatory requirements, regulations, business trends and industry benchmarking to enable GitLab to achieve and maintain a leadership position with respect to ESG, CSR and sustainability initiatives
-* Represent GitLab externally at sustainability & social impact leadership events and speaking engagements
-* Increase global awareness and impact with respect to GitLab’s ESG, CSR and sustainability initiatives
-* Design an ESG program that is focused on impact and tangible, repeatable results that demonstrate return on investment
-* Embrace iteration to make program changes quickly based on feedback and lessons learned
-* Create the most transparent public company ESG program 
-
-
-### Senior Director, ESG Requirements
-* 6+ years validated experience in sustainability, ESG, CSR or relevant roles
-* Extensive knowledge of global sustainability, ESG and CSR standard methodologies and trends
-* Shown success in the development and execution of successful sustainability strategies
-* Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
-* Enthusiastic self-starter; equally comfortable operating at the micro and macro levels with the innate ability to know which level is needed at what time 
-* Passionate about ESG and CSR and the ability to translate that passion into action 
-* Experience with establishing and managing an operating budget
-* Background with hyper-growth organizations, and proven ability to adapt and learn things quickly
-* An effective communicator with the ability to use “plain English” and to escalate, stay coordinated, provide feedback, and ask for help
-* Strong operational mindset with ability to prioritize projects and demands
-* Embrace GitLab Values of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration[), [Results](https://about.gitlab.com/handbook/values/#results), [Efficiency](https://about.gitlab.com/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), [Iteration](https://about.gitlab.com/handbook/values/#iteration), and [Transparency](https://about.gitlab.com/handbook/values/#transparency) 
-
-## Senior Director of Legal, Litigation & Risk Management
+### Senior Director of Legal, Litigation & Risk Management
 
 The Senior Director of Legal, Litigation & Risk Management reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Litigation & Risk Management will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
 
