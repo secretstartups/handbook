@@ -89,18 +89,14 @@ You will be issued a temporary password at which point you can reset your access
 
 ### I still have my old phone and its not wiped
 
-Great! Firstly sign into your Okta account by going to [gitlab.okta.com](https://gitlab.okta.com) use your email, password, and the 2FA code on your old phone.
-
-Once you're on the Okta webpage click on your name in the top right corner and then click settings.
-
-In the settings page, press the edit profile button. You may be prompted for your Okta password and 2FA (On old device)
+Great! First sign into your Okta account by going to [https://gitlab.okta.com/enduser/settings](https://gitlab.okta.com/enduser/settings). Use your email, password, and the 2FA code on your old phone. You may be prompted for your Okta password and 2FA (On old device).
 
 <div style="text-align:center;">
-  <img src="/handbook/business-technology/Edit-profile-button.png" alt="Edit Profile" width="500"/>
+  <img src="/handbook/business-technology/okta-security-methods.png" alt="Security methods" width="500"/>
 </div>
 <br>
 
-Scroll down until you see "Extra Verification", once you're there click "remove" to disable that specific 2FA and then click setup to configure the new 2FA code on your new phone.
+Look to the right, or scroll down until you see "Security Methods". Once you're there click "remove" to disable that specific 2FA and then click setup to configure the new 2FA code on your new phone.
 
 <div style="text-align:center;">
   <img src="/handbook/business-technology/Extra-verification-Okta.png" alt="Okta 2FA" width="700"/>
@@ -111,11 +107,11 @@ Scroll down until you see "Extra Verification", once you're there click "remove"
 
 **Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for administrators, and highly recommended for all team members.**
 
-1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers. 
+1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers.
 
-1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page. 
-1. Choose `Set up` or `Set up another` next to `Security Key or Biometric Authenticator` in the `Extra Verification` section of the page. 
-1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt. 
+1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
+1. Choose `Set up` or `Set up another` next to `Security Key or Biometric` in the `Security Methods` section of the page.
+1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt.
 1. After pressing `Enroll`, a prompt from your web browser will appear.
 1. For Touch ID or Face ID, choose `This Device`. For a [Yubikey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
 
