@@ -192,14 +192,14 @@ If adding a new top level directory to the marketing site, make sure to add to `
 To create a new page you for follow these steps:
 
 1. Create an issue in the [website repo](https://gitlab.com/gitlab-com/www-gitlab-com/issues) **Note**: Don't branch from other repos like the marketing repo.
-1. Create an MR from the issue by clicking on the "Create Merge Request" button. This will create a new branch for you and link it to your issue and label the MR as `WIP:`.
+1. Create an MR from the issue by clicking on the "Create Merge Request" button. This will create a new branch for you and link it to your issue and label the MR as `Draft:`.
 1. Click on the name of your branch after "Request to Merge" to open that branch in the repository file view.
 1. Open the `sites` folder. This is where webpages are stored.
 1. If this is an update to about.gitlab.com, select the `uncategorized` directory. If these is an update to the handbook, select the `handbook` directory. Once you have selected the site where you would like to make the change, choose the directory where you want your webpage to be. For example, if you put a page in the `uncategorized` folder it will show up at the "root" level, if you create the new directory inside of another directory it will appear at that path.
 1. Click to add a `New directory` from the plus sign drop down.
 1. Name the directory in all lowercase with dashes-between-words for what you want the path of your page to be. For example if you want to create a page at [about.gitlab.com/solutions/cloud-native](/solutions/cloud-native/) then click on the `solutions` directory and inside the `solutions` directory create a new directory called `cloud-native`.
 1. Click to add a `New file` from the plus sign drop down
-1. Name the file `index.html.md`
+1. Name the file `index.html.md.erb`
 1. Add this code to the top of the file
 
 ```
@@ -213,7 +213,7 @@ Here is your first paragraph replace this text.
 ```
 
 1. Inside the quote add the title of your page. For example the title of my cloud native page would be "Building Cloud Native Applications With GitLab". Save your page by clicking "Commit changes". (Using markdown you can add more content to the page. All you need is a title, subheading and a paragraph to get started.)
-1. Return to the directory you created. You will see that you now have two files: `index.html.md` and `.gitkeep`. Delete the `.gitkeep` file. This is a placeholder file from when you created the directory since git cannot track empty directories. A quick way to delete the file on the correct branch is to click on "edit" in the changes tab of your MR. This will open the file editor. click "cancel" and dismiss the popup that says "all changes will be lost". This will then place you in the file view for the `.gitkeep` file on your branch. Click the "delete" button to delete the file.
+1. Return to the directory you created. You will see that you now have two files: `index.html.md.erb` and `.gitkeep`. Delete the `.gitkeep` file. This is a placeholder file from when you created the directory since git cannot track empty directories. A quick way to delete the file is to click `.gitkeep` and then click the `Delete` button. 
 1. **ProTip**: Now that you no longer have a branch with no changes you can use the Web IDE to make further edits. (The Web IDE doesn't work if you have a branch with no changes. [Fix coming in 11.3](https://gitlab.com/gitlab-org/gitlab-ce/issues/48166)
 1. **ProTip**: Add a link to the bottom of your page so people can continue reading related content. Popular choices would be `/product` , `/solutions`, `/pricing` or any pages related to your page.
 1. If you need help you can ask in the #mr-buddies slack channel.
