@@ -673,14 +673,18 @@ If adding code directly to GitLab isn't an option, we encourage third-parties to
 
 _Note: GitLab does support [plugins that respond to system hooks](https://docs.gitlab.com/ee/administration/file_hooks.html), which tie directly to application events and are primarily used for administrative purposes such as auditing, logging, and other administrative tasks._
 
-### Give products and features descriptive, not distinctive, names
+### Product and feature naming guidelines
+#### Give products and features descriptive, not distinctive, names
 GitLab is a DevOps Platform, not a collection of DevOps point solutions; the naming of GitLab products and features should reflect this. Adopting descriptive names brings other advantages:
 - It's [efficient](/handbook/values/#efficiency). Descriptive names are generally not eligible for trademark registration, avoiding the time, effort, and expense of clearing, filing, and maintaining trademark registrations.
 - It's [inclusive](/handbook/values/#diversity-inclusion). Descriptive names are most accessible to a global audience because they can be directly translated into other languages, reducing the risk of loss of meaning inherent in translating abstract, metaphorical, or colloquial names.
 
 As an [example](gitlab.com/gitlab-com/legal-and-compliance/-/issues/815), `CI/CD Components Library` is a descriptive name while `CI/CD ATOM` is a distinctive name.
 
-Exceptions to this principle are considered in limited circumstances - if a product or feature is a diffrentiator in the market, adopting a descriptive name risks it getting lost in the _sea of same_. Here, a distinctive name may be justified. To discuss an exception, reach out to [#marketing](app.slack.com/client/T02592416/C0AKZRSQ5) in Slack.
+Exceptions to this principle are considered in limited circumstances - if a product or feature is a differentiator in the market, adopting a descriptive name risks it getting lost in the _sea of same_. Here, a distinctive name may be justified. To discuss an exception, reach out to [#marketing](app.slack.com/client/T02592416/C0AKZRSQ5) in Slack.
+
+#### Use prepositions when referring to third-party products and services
+When naming a GitLab extension, plugin, app, or integration for a third-party product or service, either include the third-party product/service name with a preposition like `for`, or don't include the third-party product/service name at all. Including a preposition is important because, from a trademark law perspective, we need to indicate that the third party isn't officially affiliated with the extension/plugin/app/integration. For example, our [integration with Jira Cloud](https://docs.gitlab.com/ee/integration/jira/connect-app.html) is called `GitLab.com for Jira Cloud`. 
 
 ### Next Generation
 
