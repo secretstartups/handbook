@@ -30,7 +30,7 @@ Further details can be found in the [job family description](/job-families/engin
 
 We use the term "*Purple Team*" to describe an open collaboration between our defensive security folks (aka our "Blue Team") and our offensive security folks (aka our "Red Team"). Red + Blue = Purple. When the Purple Team performs an operation, the work is visible to all GitLab team members. This includes building adversary profiles, discussing hypothetical attack and defense scenarios, and emulating attack techniques in our environment.
 
-You can read more about this process in [Purple Teaming at GitLab](purple-teaming/).
+You can read more about this process in [Purple Teaming at GitLab](purple-teaming/), and you can contribute, comment, view, or interact with us on Slack in the `#purple-team-ops` channel where we discuss ongoing purple-team operations.
 
 Building efficient and understandable processes for our operations that work for us and the teams we collaborate with is important.  However, given the need, we will prioritize collaboration with our peers over the processes and tools we have in place.  We feel this allows us to best suit the needs of the teams we work with and the organization as a whole.
 
