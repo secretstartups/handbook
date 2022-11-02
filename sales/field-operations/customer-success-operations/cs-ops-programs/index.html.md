@@ -95,22 +95,22 @@ Programs are available to specific customer types.
 
 The programs below are available to our Tech Touch and Scale CSM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
 
-| Program                         | Category    | Content  | Recipients                                              |
-|---------------------------------|-------------|----------|---------------------------------------------------------|
-| Onboarding intro and enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | Customer within the last 3 days                         |
-| Onboarding full series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |               |
-| Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
-| Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
-| Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
-| Customer Use Case: Agile Management          | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | Customer ~130 days                                       |
-| Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent Monthly on Fridays                                 |
-| NPS/CSAT Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                                |
-| NPS/CSAT Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date                        |
-| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date                           |
-| Monthly Webinar Invitations     | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)   | Sent monthly dependent on event date                     |
-| Post Churn Survey (SMB Only)             | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 |
-| CI Usage Trigger Program        | Enablement  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190) | <20% Utilization of CI and not in time-based CI campaign                                       |
-| Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer since 90-150 days |
+| Program                         | Category    | Content  | Email Send Time                                              | Program Type |
+|---------------------------------|-------------|----------|---------------------------------------------------------|--------|
+| Onboarding Enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | 0-2 days of contract date                        | Time based trigger |
+| Onboarding Series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | 2-5 days | Time based trigger |
+| CI Enablement Series | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) |  15-20 days   | Time based trigger |
+| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 35-40 days  | Time based trigger |
+| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 55-60 days     | Time based trigger |
+| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 65-70 days   | Time based trigger |
+| Monthly Newsletters  | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/85)     | Sent Monthly on Fridays  | Time based trigger |
+| NPS Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | 60 days after contract date  | Time based trigger |
+| NPS Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date | Time based trigger |
+| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date        | Time based trigger |
+| Monthly Webinar Invitations     | Enablement  | [Handbook](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)   | Sent monthly dependent on event date                     | Time based trigger |
+| Post Churn Survey            | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 | Usage based trigger |
+| Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer between 90-150 days of contract | Usage based trigger |
+| High PTC (value 1 or 2)    | Retention   | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/153)    | 6-9 months before next renewal date, PTC Value = 1 or 2| Usage based trigger |
 
 <br>
 
@@ -118,14 +118,15 @@ The programs below are available to our Tech Touch and Scale CSM customer segmen
 
 The programs below are available to **CSM-assigned accounts** only and are sent to a GitLab Admin contact.
 
-| Program                               | Category   | Content  | Recipients                              |
+| Program                               | Category   | Content  | Email Send Time                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
 | Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1YEVaiIxKrHUZC_FN1-E-jU7ISTKMqOSS7LztMbTbUiM/edit?usp=sharing) | When a customer is first assigned a CSM (GitLab Admin OR Sold to Contact) |
 | AE <> CSM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a CSM (Sold to Contact) |
-| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays to GitLab Admin contacts                 |
+| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/85)    | Sent monthly on Fridays to GitLab Admin contacts                 |
 | NPS/CSAT Post-Onboarding Survey*      |  Onboarding          | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days & GitLab Admin             |
 | NPS/CSAT Pre-Renewal Survey*          |   Retention         | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date         |
 | NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date                           |
+| CSM Enrolled Onboarding Enablement Campaigns          |   Onboarding         | [Copy doc](https://docs.google.com/document/d/18dgWJQS6ARtwvbXnIhpBKAb1v6xfnJeeegyrggkCnRw/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1606)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
 | CSM Enrolled CI Enablement Campaigns          |   Enablement         | [Copy doc](https://docs.google.com/document/d/1GpYLFAGJoV_K1baiDrnOaXbGQGDs02hrUUdH_ymGIMs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
 | CSM Enrolled CD Enablement Campaigns          |     Enablement       | [Copy doc](https://docs.google.com/document/d/1klfKz4ixhOO8YkDzPL9yYKc38C_SjF5Yqums1hWw5sk/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
 | CSM Enrolled DevSecOps Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1olvOJaO5ElhWDMhcMOH-y83yxmNUYVJtLCIZJqc90E8/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | CSM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
@@ -141,10 +142,7 @@ You may request new programs, such as an email series, contribute to existing pr
 
 1. Open a new issue in the [CS Ops Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
 
-1. Select the appropriate template:
-   - CS Programs Request
-   - CS Programs Update Request
-   - Program Webinar Request
+1. Select the appropriate template from CS Programs | 
 
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
@@ -245,7 +243,7 @@ See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/cust
 
 ## A/B testing and control groups for digital customers
 
-We apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to every digital-only program. The Customer Success Operations team created a rule that puts each customer into either A or B.
+We sometimes apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to digital program where we test different subject lines, calls to actions or the efficacy of the program itself. The Customer Success Operations team created a rule that puts each customer into either A or B.
 
 See more about how we set up A/B testing on the [issue page](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/230).
 
