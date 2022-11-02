@@ -126,3 +126,5 @@ In addition to our values, remote work, and functional competencies, we have ide
 3. [Coaching](/handbook/leadership/coaching/)
 4. [Conflict Resolution](/handbook/leadership/managing-conflict/)
 5. [Building High Performing Teams](/handbook/leadership/#building-high-performing-teams)
+
+![Manager Competencies Graphic](competencies-graphic.png){: .shadow.medium.center}
