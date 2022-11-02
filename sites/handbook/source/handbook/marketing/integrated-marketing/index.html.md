@@ -37,6 +37,14 @@ We value our asynch value and believe that people truly need time to think and p
 
 The IM team meets the 1st Wednesday of the month and we discuss key cross-functional issues, our progress on our OKRs for the quarter, and to ideate how we can better unify our marketing motions.
 
+## Monthly Regional Readouts with Sales
+
+Each month, Integrated Marketing meets with regional Sales Leadership to discuss key metrics and team updates.
+
+[This GitLab Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3352) (confidential) documents the past readouts as well as preparation for the future readouts monthly.
+
+[See this doc for details on consistently pulling metrics for Monthly Regional Readouts (GitLab Internal)](https://docs.google.com/document/d/1PcsPa8zRSY3A0sIocWBuukfC8LoUus-yUZoWc6ZYNck/edit#)
+
 ## Cross-functional team processes
 {: #team-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR --> 
