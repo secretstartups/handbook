@@ -116,6 +116,7 @@ If you find yourself struggling to get your environment set up, try reaching out
 - When there are concerns with an MR consider the following actions to help progress the review:
    - Iterate instead of revert. Consider coaching and guiding the author of the MR towards an ideal solution.
    - Educate to collaborate. You may have more context of the problem than the author. Express your concerns and thoughts, and ask them how might they adapt their solution to accomodate the concerns.
+   - Get a second opinion. When you are uncertain about a change feel free to involve a [quad member](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) from your product group, your product design manager, and/or other designers. This can be done directly in the MR or in Slack channels.
    - Consider creating a follow up issue. The UX reviewer could create a follow up issue to address the concerns of the MR and inform the design DRI of it.
 
 ### Handoff the MR
