@@ -124,7 +124,7 @@ Look to the right, or scroll down until you see "Security Methods". Once you're 
 
 ### I want to increase my security by removing Google Authenticator as a valid factor, and primarily use Biometric and Security Keys for authentication
 
-Great - these factors are phishing resistent! To do so, choose "Remove" next to the relevant factor under "Extra Verification". If you plan to use biometric solely, we recommend having at least one Yubikey as a backup in order to be able to add a new device in a self-service way.
+Great - these factors are phishing resistant! To do so, choose "Remove" next to the relevant factor under "Extra Verification". If you plan to use biometric solely, we recommend having at least one Yubikey as a backup in order to be able to add a new device in a self-service way.
 
 ### I don't have my old phone but have a YubiKey
 
