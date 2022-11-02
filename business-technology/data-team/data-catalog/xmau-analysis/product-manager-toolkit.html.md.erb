@@ -65,7 +65,12 @@ current reporting period is _excluded_ in order to avoid including incomplete da
 
 `[td_xmau(user_segment, xmau_type, filter, target, estimation_grain)]`
 
-The `[td_xmau]` snippet includes both recorded and estimated usage. It allows you to:
+The `[td_xmau]` snippet includes both recorded and estimated usage. For all-time metrics, this 
+returns the installation-level change from the previous period. To return the original value 
+for all-time metrics, please use the [`[td_xmau_metrics_original_metric_value_with_total]`](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html#original-metric-value) 
+snippet (discussed below).
+
+This snippet will allow you to:
 
 * [Create a standard xMAU chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0) 
 (what is embedded in the handbook)
