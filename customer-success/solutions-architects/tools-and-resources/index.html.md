@@ -97,10 +97,17 @@ More information can be found on the [Customer Success Education & Enablement pa
 ### Linkedin Learning Platform
 
 Linkedin Learning is another platform with various resources to help SA's during their onboarding journeys. 
-Here are courses relevant to Associate SAs:
 
-- [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) 
-- [Learning Docker](https://www.linkedin.com/learning/learning-docker-2018) 
-- [DevOps Foundations - CI/CD](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917)
+### Getting started as an associate SA
 
-These courses are part of the learning path [Become a DevOps Engineer](https://www.linkedin.com/learning/paths/become-a-devops-engineer).
+Here are courses that will facilitate the onboarding process of associate SAs and help them in getting up to speed with the technical concepts required for the role:
+
+- The learning path [Become a DevOps Engineer](https://www.linkedin.com/learning/paths/become-a-devops-engineer), particularly the following sections:
+    - [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) 
+    - [Learning Docker](https://www.linkedin.com/learning/learning-docker-2018) 
+    - [DevOps Foundations - CI/CD](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917)
+
+- [Docker for the Absolute Beginner - Hands-On](https://learning.oreilly.com/videos/docker-for-the/9781788991315/) 
+
+
+
