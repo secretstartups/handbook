@@ -70,11 +70,11 @@ The TPRM Program is focused on identifying and assessing the incremental securit
 
 |Team Member|Role|
 |:----------:|:----------:|
+|[Nirmal Devarajan](https://gitlab.com/ndevarajan)|[Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#security-risk-engineer-intermediate)|
 |[Ty Dilbeck](https://gitlab.com/tdilbeck)|[Manager, Security Risk](https://about.gitlab.com/job-families/engineering/security-risk/#manager-security-risk)|
-|[Kyle Smith](https://gitlab.com/tdilbeck)|[Senior Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#senior-security-risk-engineer)|
-|[Eric Geving](https://gitlab.com/DLWhite0322)|[Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#security-risk-engineer-intermediate)|
-
-
+|[Eric Geving](https://gitlab.com/ericgeving)|[Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#security-risk-engineer-intermediate)|
+|[Ryan Lawson](https://gitlab.com/rlawson1)|[Senior Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#senior-security-risk-engineer)|
+|[Kyle Smith](https://gitlab.com/kylesmith2)|[Senior Security Assurance Engineer](https://about.gitlab.com/job-families/engineering/security-risk/#senior-security-risk-engineer)|
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 {: #contact-card-light-purple}
