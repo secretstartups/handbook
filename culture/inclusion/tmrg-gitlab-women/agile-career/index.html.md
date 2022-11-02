@@ -15,7 +15,6 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 
 ![text image announcing activate your agile career program.](program-header.png){: .shadow.medium.center}
 
-
 **Calling all Women TMRG Members!**
 
 - Do you have a career goal at GitLab, but not sure how to make it happen?
@@ -28,7 +27,7 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 
 `Activate your Agile Career` is a 5-month, career development **pilot program** running from October 2022 through February 2023. 50 participants will attend live training sessions, complete self-paced homework and reflection, read a book authored by the training facilitator, and collaborate with their accountability cohort.  
 
-[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfKJ8VzOUnPr6czoxAwFBY1kjvh0gvcwoxrNJXhvauimAUECg/viewform?usp=sf_link) and keep reading to learn more about the program.
+Applications for this pilot are currently closed.
 
 # Benefits for Participants
 
@@ -42,14 +41,11 @@ As a participant in this program, GitLab team members will:
 
 ![text image outlining 5 benefits for participants.](program-benefits.png){: .shadow.medium.center}
 
-
 # Eligibility
 
 All members, including allys, in the Women TMRG are welcome to participate. If you are not yet a member of the TMRG, please follow [these instructions](/company/culture/inclusion/tmrg-gitlab-women/#how-to-join) to join before applying.
 
-The size of this cohort is limited to 50 total participants. Applications will close either when this cap is hit, or on 2022-10-17. 
-
-[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfKJ8VzOUnPr6czoxAwFBY1kjvh0gvcwoxrNJXhvauimAUECg/viewform?usp=sf_link)
+The size of this cohort is limited to 50 total participants. Applications for this pilot are currently closed.
 
 # Expectations
 
@@ -65,7 +61,6 @@ Participants interested in `Activate your Agile Career` should expect and commit
 5. Read or listen to [Activate Your Agile Career: How Responding to Change Will Inspire Your Life's Work](https://www.amazon.com/Activate-Your-Agile-Career-Responding/dp/0998953121). You can [expense work related books](/handbook/finance/expenses/#-expense-policy-summary).
 6. Attend monthly cohort accountability sync sessions (5 total) along with participants with similar career goals - 25 minutes each
 7. Complete a personal IGP and have a career development conversation with their manager
-
 
 # FAQ
 
@@ -84,6 +79,29 @@ GitLab offers multiple career development resources. The goal of this program sp
 **The live sessions are outside my working hours. Can I still participate?**
 
 Yes! All 3 live sessions will be recorded. Cohorts will be organized across timezones, so the accountability and book reading discussions will happen in your working hours. We understand the value in attending training sessions live and hope that results from this program will allow us to expand in future quarters to provide additional live sessions.
+
+# Resources
+
+[Marti Konstant](https://www.martikonstant.com/) is the creator of the Agile Career Framework. Her model relates to GitLab [CREDIT values](https://about.gitlab.com/handbook/values/), leaning into iteration as a key component of an agile career.
+
+Below, use the infographic and list to understand what resources are available to you as a GitLab team member and how they fit into the Agile Career Framework.
+
+![infographic connecting career agility framework with GitLab resources.](agility-at-gitlab.png){: .shadow.medium.center}
+
+| Resource | Details | Integrate It |
+| ---------- | ------------ | ------------ |
+| [Individual Growth Plan (IGP)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan)** | Organize career goals in one place. | **Idea Zone** and **Respond to Change** |
+| [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) | Complete academic study, professional certification, and more. | **Respond to Change** |
+| Coaching with [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) or [Coaching Right Now (job grade 8+)](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#professional-coaching)**| Coaching (and therapy) sessions available. | **Activate your Feedback Squad |
+| [CEO Shadow](https://about.gitlab.com/handbook/ceo/shadow/) (and other shadow programs) | Did you know of all the others shadow programs at GitLab: [Development Director](https://about.gitlab.com/handbook/engineering/development/shadow/director-shadow-program.html), [Security](https://about.gitlab.com/handbook/security/security-shadow.html), [Engineering Fellow](https://about.gitlab.com/handbook/engineering/fellow/shadow/), [CFO](https://about.gitlab.com/handbook/finance/growth-and-development/cfo-shadow-program/), [CMO](https://about.gitlab.com/handbook/marketing/cmo-shadow/), [Support](https://about.gitlab.com/handbook/support/support-ops/workflows/support_shadowing.html), and [People Connect](https://about.gitlab.com/handbook/people-group/people-connect-shadow-program/). | **Work as a Set of Projects** |
+| [Internship for Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internship-for-learning) | Spend time during your work week on a new team, exploring and contributing to a new project. | **A/B test your Career** |
+| Self-Paced Learning | Use free licenses from resources like [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/#how-to-access-linkedin-learning), [O'Reilly Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/self-paced-learning/#oreilly-learning), and [the Linux Foundation](https://about.gitlab.com/handbook/people-group/learning-and-development/self-paced-learning/#linux-foundation-courses)  | **Respond to Change** |
+| [Attend Group Conversations ](https://about.gitlab.com/handbook/group-conversations/) | Check the GitLab Team Meetings calendar for schedule. | **Idea Zone** |
+| [Join a TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/) | Review the handbook for active groups | **Activate your Feedback Squad** |
+
+
+
+
 
 
 
