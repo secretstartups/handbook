@@ -59,7 +59,9 @@ After a CSM is assigned by the manager, the SA should arrange an internal [accou
 
 ### Internal Account Team Meeting
 
-In preparation for introducing the CSM, the SA should schedule a meeting with the entire [account team](/handbook/customer-success/account-team/) to discuss general information about the customer, to include:
+In preparation for introducing the CSM, the SA should schedule a meeting with the entire [account team](/handbook/customer-success/account-team/) to discuss general information about the customer. Prior to the meeting, the SA should create an agenda (in a Google Doc attached to the meeting invite) and include as much of the following information as possible. If this information is not shared prior to the call, the CSM may ask to SA to reschedule until the information can be completed.
+
+Agenda for the meeting:
 
 - Account Information
   - Name of organisation
