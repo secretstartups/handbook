@@ -450,7 +450,7 @@ Also include:
 - Assignee: `None` until the work is scheduled for a milestone. In the issue description or comments, mention (`@username`) the Technical Writer assigned to the group for awareness.
 - Description: starts with `Docs:` or `Docs feedback:`
 
-If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/product/categories/plan/#issues).
+If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/engineering/development/dev/plan/#issues).
 
 ## Topic types and team progress
 
