@@ -65,9 +65,6 @@ The Growth and Development policy is meant to further team members' learning and
 |[Coaching Right Now (GitLab's coaching vendor of choice)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching) Learn more about Coaching Right Now [below](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#coaching-right-now). | 30 days before the commencement date|
 | Your 4th Trimester | For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`. |
 
-
-* For bulk applications or if you are a manager creating one issue for your team members, please include the team members' GitLab emails on the issue.
-
 * Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
 **Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
@@ -87,6 +84,10 @@ The Growth and Development policy is meant to further team members' learning and
 **Step 4:** Claim for reimbursement: 
 * If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
 * For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [descriptions below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
+
+## Bulk Applications
+* If multiple team members are doing the same training or attending the same conference, please open one issue.
+* For ease of processing, it is recommended that bulk applications are paid via [Coupa](/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Expensify or the Growth & Development email per the [reimbursement process](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) below.
 
 ## Reimbursements of Growth and Development Applications
 
@@ -190,7 +191,7 @@ Examples of English Language Courses:
 
 ### Workshops and Conferences
 
-**Desription:** Work-related conferences including registration, lodging, and meals. The training budget does not include the cost for traveling to and from an event. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
+**Desription:** Work-related conferences including registration, lodging, and meals. **The training budget does not include the cost for traveling to and from an event.** We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
 
 **Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/#business-essential) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. 
 
