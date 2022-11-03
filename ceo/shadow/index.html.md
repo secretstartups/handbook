@@ -178,10 +178,10 @@ Exceptional community members may be able to participate, as well.
 | 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
 | 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
 | 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
-| 2023-01-02 | 2023-01-06 | AVAILABLE - REMOTE | 
+| 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager | 
 Elicia Wilson - GitLab Foundation | 
 | 2022-01-09 | 2023-01-13 | NO SHADOWS | NO SHADOWS |
-| 2023-01-16 | 2023-01-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2023-01-16 | 2023-01-20 | AVAILABLE - REMOTE | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager  | 
 | 2022-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
 | 2023-01-30 | 2023-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
 
