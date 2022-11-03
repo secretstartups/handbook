@@ -13,10 +13,12 @@ description: "GitLab Data Science Team Handbook"
 {::options parse_block_html="true" /}
 
 ----
+**PURPOSE: This page is focused on the operations of GitLab's internal _Data Science Team_. For information about GitLab's Product Data Science Capabilities, please visit [GitLab ModelOps](https://about.gitlab.com/direction/modelops/)**
+{: .alert .alert-success}
 
-# Data Science at GitLab
+# The Internal Data Science Team at GitLab
 
-The mission of the data science team is to facilitate **_making better decisions faster_** using **_predictive analytics_**.
+The mission of the Data Science Team is to facilitate **_making better decisions faster_** using **_predictive analytics_**.
 
 ## Handbook First
 
@@ -43,7 +45,8 @@ AMAs:
 
 ### Common Data Science Terms 
 
-- **Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
+- **Accuracy** - ability of a Data Science model to capture all correct data points out of all possible data points
+- **Algorithm** - sequence of computer-implementable instructions used to solve specific problem
 - **Classification** - process of predicting a category for each observation. For example, determining if a picture is of a cat or a dog. 
 - **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmentation of users or customers.
 - **Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
