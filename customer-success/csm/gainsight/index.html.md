@@ -57,7 +57,7 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 - [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
 - [Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/)
-- [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
 
 #### Adoption Score
 - [CI Adoption Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/#ci-adoption-scoring)
@@ -70,7 +70,7 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 - [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
 - [Product Usage Data - Data Team](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
-- [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/)
 - [Product usage playbooks with usage metrics](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 

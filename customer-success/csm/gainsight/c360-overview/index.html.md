@@ -32,7 +32,7 @@ The left side panel of the 360 contains the following sections:
 - Subscriptions - GitLab subscription details ([synced from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing)
-- License Utilization - [license utilization](/handbook/customer-success/product-usage-data/license-utilization/)
+- License Utilization - [license utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - Product Usage Trends - [product usage trends](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
 - Product Usage Scorecard Calcs - shows [calculations](/handbook/customer-success/product-usage-data/use-case-adoption/) of product usage health score
 - Instance and Namespace Details - [instance and namespace details](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)

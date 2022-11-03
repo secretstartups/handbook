@@ -111,7 +111,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 ### Metrics
 
 - [Time-to-First Value](/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case stats in the future
-- [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
 - [xMAU](/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage stats and is a key performance indicator (KPI) for the Product Team
 - Use case expansion playbook success will be measured by customer use case adoption
 - Use case health score will leverage use case adoption (scored as minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
@@ -126,7 +126,7 @@ The collection and use of operational data will governed in accordance with the 
 - [Customer Success Vision Page](/handbook/customer-success/vision/)
 - [Operational Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for CSM and digital engagement
 - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions on how each product usage health score is calculated
-- [License Utilization in Gainsight](/handbook/customer-success/product-usage-data/license-utilization/): includes definitions and calculation methodology for License Utilization
+- [License Utilization in Gainsight](/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions and calculation methodology for License Utilization
 - [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
 - [Product Usage in Gainsight FAQ Guide](/handbook/customer-success/product-usage-data/product-usage-data-FAQs)
 - [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
