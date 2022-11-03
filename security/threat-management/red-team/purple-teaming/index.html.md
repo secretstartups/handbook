@@ -18,6 +18,8 @@ The terms "Red Team" and "Blue Team" are used to describe the roles of attackers
 
 To us, a Purple Team operation is a planned exercise that involves team members from multiple security sub-departments in every aspect of the operation. This includes planning, attacking, detecting, and responding. We find that having more people involved from the very beginning ensures that we are all working towards a common goal.
 
+You can contribute, comment, view, or interact with us on Slack in the `#purple-team-ops` channel where we discuss ongoing purple-team operations.
+
 We also conduct more traditional Red Team operations, where only certain team members are aware of the details. These types of operations follow roughly the same workflow outlined below, only with less active participants.
 
 ### Goals of Purple Teaming
