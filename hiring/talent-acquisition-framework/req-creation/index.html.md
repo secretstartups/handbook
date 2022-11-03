@@ -12,7 +12,7 @@ description: "The Talent Acquisition Process Framework for Creating REQs provide
 
 ## Requisition Creation Process
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth). The Hiring manager will then notify their [Recruiter](/handbook/hiring/recruiting-alignment/). The information they should be prepared to share with their Recruiter is as follows:
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth). The Hiring manager will then notify their [Recruiter](/handbook/hiring/recruiting-alignment/). The information they should be prepared to share with their Recruiter is as follows:
 
 - Job Title
 - Office or Territory
