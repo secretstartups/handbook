@@ -13,9 +13,9 @@ description: Staff Support Engineer activities and references
 ## Overview
 
 This page is not meant to cover everything one needs to know about a Staff Support Engineer.
-Instead, it's meant to cover things that may be specific to the role.
+Instead, it's meant to cover things that are specific to the role.
 
-You can learn about the promotion process to the Staff level in [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html).
+You can learn about the promotion process to the Staff level in [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html#path-to-promotion-staff-engineering).
 
 ## Role and Responsibilities
 
@@ -28,9 +28,8 @@ Staff Support Engineers at GitLab will generally focus on the following things:
 
 You can read more about the role in:
 
-
 - [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html).
-- [Support Engineer Job Family](/job-families/engineering/support-engineer/#staff-support-engineer).
+- [Support Career Path: Staff Engineer resources](/handbook/support/support-engineer-career-path.html#considerations-and-recommendations-1).
 
 ## Reporting structure
 
@@ -50,7 +49,7 @@ Following are some of the reasons (not an exhaustive list) behind the decision. 
 
 ## Staff, MRs, and Managers: How to move MRs forward
 
-Note: To work more efficiently, the Staff Support Engineer should assign merge requests to a relevant DRI instead of the more common "assign to your manager for review".
+To work more efficiently, the Staff Support Engineer should assign merge requests to a relevant DRI instead of the more common "assign to your manager for review".
 
 ## Keeping track of Support strategies and goals
 
@@ -65,9 +64,18 @@ There are various ways to keep track of what's happening at a higher level in Su
 
 ## OKRs
 
-Similar to [OKRs for Support Engineering Managers](../managers/#okrs), Staff Support Engineers can work on [OKRs](../../engineering/#engineering-okr-process).
+Similar to [OKRs for Support Engineering Managers](../managers/#okrs), Staff Support Engineers can optionally work on [OKRs](../../engineering/#engineering-okr-process).
 
-TBD
+Staff Support Engineers should discuss with their manager if and when to take on OKRs with the following considerations:
+
+1. Have at most 1 Objective per quarter, split into multiple KRs as needed.
+1. Decide on the definition of attainment. Depending on the OKR this may be 70% or 95%.
+1. Ideas for the OKR may come from any number of sources, including (but not limited to):
+    - Proposed OKRs
+    - [Support Direction](../#fy23-direction)
+    - E-group requests (typically from Key Review)
+    - Skip level discussions
+    - Identified trends or repeated inquiries (within Support or GitLab, or customers)
 
 ## Support Engineering READMEs
 
