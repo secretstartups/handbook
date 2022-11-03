@@ -111,6 +111,19 @@ Look to the right, or scroll down until you see "Security Methods". Once you're 
 </div>
 <br>
 
+## I want to add Touch ID / Face ID to Okta for my mobile device (iPhone, Android, Tablet)
+
+#### Enrollment method (please note these steps might be different for Android phones)
+- Login into your Okta portal on your laptop
+- Click on your name on the top right to open the drop down menu (smiliar to above)
+- Navigate to settings
+- Within settings under Security Methods click Set up another beside Security Key or Biometric
+- This will take you to a setup authentication screen. Click setup and setup again on the next screen
+- In the pop up that opens choose the Use phone with a QR code. This should display a QR code
+- On your phone open your camera app and scan. (Takes a few seconds for it to connect)
+- A pop on your phone should show up to allow the biometric to be saved on your phone. Allow this
+- Attempt to sign in on your phone 
+
 
 ### I want to increase my security by removing Google Authenticator as a valid factor, and primarily use Biometric and Security Keys for authentication
 
@@ -122,7 +135,7 @@ If you wiped and returned your old mobile device you could use a [Yubikey](https
 
 ### Lost access to all your 2FA/MFA?
 
-- Head to `#it_help` in Slack and ask for a 2FA Reset.
+- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your indentiy.
 - Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up either a YubiKey or Biometrics
 
 
