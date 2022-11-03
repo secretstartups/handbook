@@ -126,6 +126,28 @@ C --> D[3: Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
 ```
 
+###### Namespace backfill
+
+This action can be done (primarily) by `AE` and `DE` can support it as well, if needed. The main idea is to have a simple and flexible way to backfill namespace data in a cost-effective fashion.
+
+In order to backfill a `namespace` particular metric (or more of them), you need to properly configure `NAMESPACE_BACKFILL_VAR` in the `Airflow Admin -> Variables` tab.
+
+The example how variable `NAMESPACE_BACKFILL_VAR` should look like:
+```json
+{
+ "start_date": "2022-10-01",
+ "end_date": "2022-11-25",
+ "metrics_backfill": "['usage_activity_by_stage_monthly.manage.project_imports.git','usage_activity_by_stage_monthly.manage.groups_with_event_streaming_destinations','usage_activity_by_stage_monthly.manage.audit_event_destinations','counts.boards']"
+}
+```
+
+**Note:** this backfill `DAG` will not load **all-time** metrics even if you define it _(will be skipped)_, as it will not produce an accurate result.
+
+The `saas_usage_ping_backfill` `DAG` will backfill data for the metrics where the following conditions are applied: 
+* For the defined period - `start_date` and `end_date` value from `NAMESPACE_BACKFILL_VAR` variable
+* `"time_window_query": true`
+* Metrics is in the value `metrics_backfill` in the variable `NAMESPACE_BACKFILL_VAR`
+
 #### Metrics Gathering and Generation Process Pseudo-code
 
 1. Assume the `GitLab.com` `Postgres` source data pipelines are running and fresh up-to-date data is available in Snowflake in `RAW.SAAS_USAGE_PING` and `PREP.SAAS_USAGE_PING` schemas, respectively
