@@ -138,6 +138,12 @@ Great - these factors are phishing resistant! To do so, choose "Remove" next to 
 
 If you wiped and returned your old mobile device you could use a [Yubikey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to reset your Okta MFA.
 
+### Lost access to all your 2FA/MFA or your OKTA account has been locked out because of failed attempts?
+
+- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your indentiy
+- Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up either a YubiKey or Biometrics
+- If your account is locked please head to `#it_help` and ask to have your account unlocked. As a precaution, you will also need to change your Okta Password.
+
 ## Managing Okta Access Using Google Groups
 
 The GitLab Team Member Enablement team has created a new process for Owners and Provisioners to manage access to Okta applications. If you are listed as an Owner/Provisioner for an application in the [tech stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965) you will be using the method below to add users to a Google group, which will then sync this group to Okta and assign the application to users. This process was created to empower business application owners to effect Access Requests which require Okta application assignment.
@@ -154,11 +160,6 @@ The GitLab Team Member Enablement team has created a new process for Owners and 
 When a member is added/removed from the group it may take up to 1 hour for the sync to happen between Google and Okta. Once the sync happens the user will see the application in Okta, if removed the opposite.
 If you have any questions or require assistance please reach out to the IT team in the #it-help Slack channel.
 
-
-### My Okta account has been locked out because of failed attempts, what do I do?
-
-Head to `#it_help` and ask to have your account unlocked.
-As a precaution, you will also need to change your Okta Password.
 
 ## Why isn't an application I need available in Okta?
 
