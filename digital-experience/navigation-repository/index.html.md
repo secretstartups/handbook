@@ -40,7 +40,7 @@ We avoid deploying minor or major releases of the navigation on release post day
 1. Create a new issue titled `Navigation release: Version x.x.xx` and include links to the MRs and Issues included in this release. This navigation issue should be added to the quarterly navigation release epic (ex. [FY23Q3 epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/155))
 1. Create a new branch from `main`, with all changes
 1. Increment the version number in `package.json`
-1. Build /dist folder - ```npm run build-library```
+1. Build /dist folder - ```npm run build-library``` (optionally use `yarn link` [for a detailed local review](#detailed-local-review-before-a-nav-release-with-yarn-link))
 1. Publish to npm - ```npm publish``` (Note: You may need to login with your npm credentials using ```npm login```)
 1. Merge changes to `origin/main`
 1. Once the package has been published it's now ready to be [updated in the consuming repositories](#using-navigation-in-other-repositories). Include links to those MRs in your Navigation Release Issue 
@@ -62,6 +62,19 @@ To update the navigation in the repositorys that consume it, for example www-git
 - Does anything seem off? If it's breaking, hotfix it in the navigation repo and release a new version. If it's a minor bug, create a new issue to be triaged. 
 
 _Note: You will have to visit pages built by that repository in order to see your navigation changes. For example, the website [homepage](https://about.gitlab.com) is built in `Buyer Experience`, so you can visit the homepage in your review app to see your navigation changes. However the [handbook](/handbook/) is built by `www-gitlab-com`, so you'll need to go to a handbook page in order to test your navigation changes in the `www` review app._
+
+#### Detailed local review before a nav release with yarn link
+
+If you want to review locally changes made to the navigation:
+
+1. Cd into the navigation folder
+1. Build /dist roject locally by running `yarn run build-library`.
+1. Link the built package to yarn by running `yarn link`.
+1. Cd into the repository you want use the navigation
+1. Run `yarn link be-navigation`.
+1. Install packages and start the project by running `yarn && yarn dev`
+
+Changes made to the navigation should be available in the BE or Dub repo for testing extensively on your local environment. 
 
 ## Running an A/B Test on the Navigation
 
@@ -86,7 +99,3 @@ Once the two navigation components have been released, they can be used in the B
 ```
 
 You may need to add click events on elements in the navigation, depending on the data you're looking for. Questions about this can be directed to the #digital-experience-team slack channel. We are not set up to run tests in the `www-gitlab-com` repository at this time.
-
-
-
-
