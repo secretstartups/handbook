@@ -27,6 +27,12 @@ The Observation Management Program at GitLab is used to identify, track, remedia
 
 This procedure details the creation process of observations.
 
+## Introduction to Observation Management at GitLab
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/embed/6myESjII-Sk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Scope
 
 Tier 3 risks or observations identified at the information system or business process levels
