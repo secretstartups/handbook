@@ -155,11 +155,12 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - Corp DRI creates, assigns to Verticurl
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI
-* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_invite) - Corp DRI creates one for each invitation requested, assigns to Corp DRI and Verticurl
-* [ ] [Intelligent Nurture Email Add](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_intelligent_nurture_add) - Corp DRI creates, assigns to Corp DRI and Campaign Manager
-* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - Corp DRI creates, assigns to Corp DRI and Verticurl
+* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
+* [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@vsilverthorne) 
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - Corp DRI creates, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, assigns to Corp DRI and MOps
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
+* [ ] Optional: [Request target audience for email send](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#) - Corp DRI creates, assigns to Lifecycle (@aklatzkin)
 
 cc @jburton to create list upload issue and DMA request as required
 
@@ -201,7 +202,7 @@ cc @jburton to create list upload issue and DMA request as required
    - Event recap will include all planners and stakeholders.
 1. Copy needed
    - Landing page copy
-   - Email invite copy - **3 to 4 weeks** in advance of event
+   - Email invite copy - **3 to 4 weeks** in advance of event - must be approved by lifecycle before email build
    - Post Event Email copy - **1 to 2 weeks** in advance of event
 1. Social
    - Start issue using the `Social Request` template for general social awareness posts and any social ads that need to be created.
@@ -920,6 +921,21 @@ featured:
 [This has been moved to the Landing Page handbook page to focus on conversion best practices and add details for page creation](/handbook/marketing/demand-generation/campaigns/landing-pages)
 
 ## Email Process for Events
+
+For corporate conferences, we will send emails in accordance with the standards set [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing) and summarized below: 
+- Tier 1:
+   - 1 pre-event email
+   - 1 post show follow-up email
+   - Customer newsletter blurb
+
+- Tier 2:
+  - Built-in generic event newsletter blurb
+  - 1 post show follow-up email
+  - IF ancillary event: 1 pre-event email
+
+- Tier 3:
+  - Built-in generic event newsletter blurb
+  - 1 post show follow-up email (if we get leads back)
 
 [Please see Emails & Nurture handbook page for in-depth details on email marketing](/handbook/marketing/lifecycle-marketing/emails-nurture)
 
