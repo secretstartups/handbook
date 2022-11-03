@@ -77,6 +77,11 @@ Follow the GitLab Okta [FAQ](/handbook/business-technology/okta/okta-enduser-faq
 
 We have also prepared Introductory Videos on [Setting up MFA/Yubikeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
 
+### Lost access to all your 2FA/MFA?
+
+- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your indentiy.
+- Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up either a YubiKey or Biometrics
+
 
 ## I forgot my password/my login doesn't work, what do I do?
 
@@ -132,12 +137,6 @@ Great - these factors are phishing resistant! To do so, choose "Remove" next to 
 ### I don't have my old phone but have a YubiKey
 
 If you wiped and returned your old mobile device you could use a [Yubikey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to reset your Okta MFA.
-
-### Lost access to all your 2FA/MFA?
-
-- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your indentiy.
-- Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up either a YubiKey or Biometrics
-
 
 ## Managing Okta Access Using Google Groups
 
