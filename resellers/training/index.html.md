@@ -36,7 +36,7 @@ description: >-
 
 
 
-### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Sales Core</span>
+### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verifed Sales Core Associate</span>
 
 <span class="colour" style="color: rgb(0, 0, 0);">The GitLab Sales Core course provides the fundamental knowledge for individuals new to selling and delivering GitLab services. The GitLab Sales Core course is the prerequisite for all pre-sales technical and sales professionals. By completing this course and scoring above 80% on the exams, you will earn a GitLab Verified Sales Core completion badge and will contribute to the Sales Accreditation program requirements for your company. </span>
 
@@ -65,7 +65,7 @@ description: >-
 - Market Requirements
 - The GitLab DevOps Platform
  
- **Prerequisites**: GitLab Sales Core course
+ **Prerequisites**: GitLab Verified Sales Core Associate 
 
 
 
@@ -80,7 +80,7 @@ description: >-
 - Market Requirements
 - How GitLab Does DevSecOps
 
-**Prerequisites**: GitLab Sales Core course
+**Prerequisites**: GitLab Verified Sales Core Associate 
 
 
 
@@ -94,7 +94,7 @@ description: >-
 - Target Personas
 - GitLab’s CI Solution
  
-**Prerequisites**: GitLab Sales Core course 
+**Prerequisites**: GitLab Verified Sales Core Associate 
 
 
 
@@ -109,7 +109,7 @@ description: >-
 - GitLab’s Agile Management Solution </span>
 
 <span class="colour" style="color: rgb(0, 0, 0);"><u>**Prerequisites**:</u></span>
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab Sales Core course</span>
+<span class="colour" style="color: rgb(0, 0, 0);">GitLab Verified Sales Core Associate</span>
 
 
 
@@ -118,7 +118,7 @@ description: >-
 <span class="colour" style="color: rgb(0, 0, 0);">Upon the completion of the Verified Sales Core badge AND all four of the Sales Specialties, learners will be awarded the GitLab Sales Professional Certification. Certified GitLab Sales Professionals are able to identify GitLab target audiences, summarize the GitLab Solution Portfolio, and successfully position the value of GitLab to customers. </span>
 
 **Accreditation Requirements (approx. 6 hours to complete)
-- GitLab Sales Core Course
+- GitLab Verified Sales Core Associate 
 - GitLab DevOps Sales Specialist
 - GitLab DevSecOps Sales Specialist
 - GitLab Continuous Integration Sales Specialist
@@ -128,7 +128,7 @@ description: >-
 
 
 
-### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Solutions Architect Core</span>
+### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verified Solutions Architect Core Associate</span>
 
 <span class="colour" style="color: rgb(0, 0, 0);">This fundamental course is designed for pre-sales technical professionals such as Solutions Architects or Sales Engineers and goes in depth demonstrating, deploying, integrating, and optimizing GitLab Solutions. The GitLab Solutions Architect Core meets the program requirements for pre-sales technical accreditation. </span>
 
@@ -136,7 +136,7 @@ description: >-
 - GitLab Integrations
 - Technical Deep Dive
 
-**Prerequisites**: GitLab Sales Core course
+**Prerequisites**: GitLab Verified Sales Core Associate 
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Certifications for  Technical  Professionals</span>
 
@@ -154,9 +154,8 @@ description: >-
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central access library when you log in. </span>
+<span class="colour" style="color: rgb(0, 0, 0);">All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets). </span>
 
-![Asset Library ](img/portallib.png "Asset Library")
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
@@ -178,12 +177,12 @@ GitLab uses Credly to award our Technical Certifications and Accreditations. Onc
 - [Sharing your Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/5/ZKE61sST9_rPpsj-lUbkwg/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIwOTY0MjcyLUhvdy1kby1JLXNoYXJlLW15LWJhZGdlLQ))  
 - [Attach your Credly badge to your email signature](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/6/ZnaKBtuiWTTM1pqvhYwqIQ/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNjkxLUNhbi1JLWF0dGFjaC1teS1iYWRnZS10by1teS1lbWFpbC1zaWduYXR1cmUt)
 - [How to add your Credly badge to your LinkedIn profile](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/7/m68qrTeXEYBjC2rF1uBYmA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNDkxLUhvdy1jYW4tSS1hZGQtbXktYmFkZ2UtdG8tbXktTGlua2VkSW4tcHJvZmlsZS1hbmQtc2hhcmUtdG8tbXktZmVlZC0)
+- [How to add a secondary email address to your Credly profile](https://support.credly.com/hc/en-us/articles/360021220951-Can-I-add-multiple-emails-to-my-account-#:~:text=Click%20on%20the%20profile%20icon%20at%20the%20top%20right%2Dhand,email%20the%20primary%20email%20address.)
 
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Additional Enablement Resources</span>
-- **Building Pipeline with GitLab Webcast** - Every 1st and 3rd wednesday of the month, GitLab hosts Building Pipelines with GitLab,  a webcast for partners that cover topics on how to best build your GitLab pipeline. You can access previous recordings of the Building Pipelines with GitLab webcast in the [partner portal](https://partners.gitlab.com/prm/api/objects/v1/asset/vmyjbknbzcv2/_download), or [register](https://bit.ly/3vlsb1N) to attend live.
-- **Tech Chat** - Pre-Sales, Services Engineers and Solution Architects can join the Channel Solution Architects for a monthly Tech Chat. Use the **[Partner Tech Chat](https://gitlab.com/gitlab-com/partners/tech-chats)** board to submit future topics and questions.
+- **Building Pipeline with GitLab Webcast** - Every 1st and 3rd wednesday of the month, GitLab hosts Building Pipelines with GitLab,  a webcast for partners that cover topics on how to best build your GitLab pipeline. You can access previous recordings of the Building Pipelines with GitLab webcast in the [partner portal](https://partners.gitlab.com/prm/api/objects/v1/asset/vmyjbknbzcv2/_download), or [register](https://gitlab.zoom.us/webinar/register/WN_XjqiiczZQje-RugNH1Eugg) to attend live.
 - **Partner Marketing Webcasts** - GitLab Partners’ Marketing team members are invited to join our monthly webcast to learn about the latest Partner marketing campaigns, resources and more.
 - **The [GitLab Partner Portal](https://partners.gitlab.com/English/)** - provides Partners with easy access to additional sales resources, webcast replays, competitive analysis, event calendar, Marketing campaigns, support and more.
 - **Newsletter** - sign up [here](https://partnerflash.gitlab.com/registration)
