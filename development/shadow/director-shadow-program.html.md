@@ -74,6 +74,7 @@ The engineering director shadow will have a chance to work alongside engineering
 * Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are only a few attendees). Tell participants who you are, what your non-shadow role is, and that you are a shadow in this meeting.
 * Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](/handbook/values/). 
 * Please let Wayne know if you notice him interrupting speakers, speaking too quickly, or not pausing often enough. These are things he is working on improving.
+* Remind Wayne periodically to use his standing desk.
 * Ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.  This slack channel will not include discussions of confidential topics because it will include non-Gitlab team members via adding them to slack as a "one channel participant".
 
 For GitLab team member shadows: 
@@ -152,7 +153,7 @@ A given week should be considered open for shadowing unless it is listed below.
 | 11/21/2022 | Shadowing not available this week | N/A |
 | 11/28/2022 | Shadowing not available this week | N/A |
 | 12/5/2022 | Available | |
-| 12/12/2022 | Available | |
+| 12/12/2022 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | 12/19/2022 | Shadowing not available this week | N/A |
 | 12/26/2022 | Shadowing not available this week | N/A |
 | 1/2/2023 | Available | |
