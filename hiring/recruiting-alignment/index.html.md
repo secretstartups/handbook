@@ -21,8 +21,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Customer Success, NA | Barbara Dinoff | Loredana Iluca | Sruthy Menon |
 | All Sales, APAC | Yas Priatna | N/A | Lerato Thipe |
 | Marketing, Global | Sarah Sherwood | Alina Moise | Davie Soomalelagi |
-| Marketing, BDR/SDR (AMER)| Caroline Rebello | Caroline Rebello | Alice Crosbie |
-| Marketing, BDR/SDR (EMEA/APAC)| TBH, Caroline Rebello (Interim) | Caroline Rebello (Interim) | Alice Crosbie |
+| Marketing, BDR/SDR (Global)| Caroline Rebello | Alina Moise | Alice Crosbie |
 | G&A, Finance, People, CEO | TBH | Alina Moise |  |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Fernando Khubeir |
 | Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Daija Bailey | Guido Rolli |
