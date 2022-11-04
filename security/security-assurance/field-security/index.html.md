@@ -43,12 +43,11 @@ The Field Security team is tasked with providing high levels of security assuran
    * Contract Reviews
 
 [Joe Longo](https://about.gitlab.com/company/team/#jlongo_gitlab), @jlongo_gitlab, Manager, Governance and Field Security
- 
-[Julia Lake](https://about.gitlab.com/company/team/#Julia.Lake), @julia.lake, Sr. Director, Security Assurance
    * [Field Security Study](/handbook/security/security-assurance/field-security/field-security-study.html)
    * [Independent Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/field-security/independent_security_assurance.html)
-
+ 
 [Julia Lake](https://about.gitlab.com/company/team/#Julia.Lake), @julia.lake, Sr. Director, Security Assurance
+
 
 **Note:** The areas above related to each team members primary responsibility. However, each team member is cross trained in all processes and provide back up to each other if applicable. 
 
