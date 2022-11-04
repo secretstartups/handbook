@@ -22,13 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### November 2022
 
-### Intro to GitLab
-#### November 2nd, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_LTCxZnmHS-yLFd3lB1qc7w)
-
 ### Intro to CI/CD
 #### November 10th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
