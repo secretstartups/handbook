@@ -31,6 +31,8 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 * [Features by Group handbook page](/handbook/product/categories/features/#planproject-management-group) contains a tabular breakdown of features included in each Stage Group by Core, Premium or Ultimate categories. 
 
+* [Definitive guides to data subject areas](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team. 
+
 * [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
 
 * The [Technical Marketing handbook page](/handbook/marketing/strategic-marketing/technical-marketing/) contains links to product demos, webinars and release videos.  
