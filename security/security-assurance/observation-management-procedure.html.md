@@ -30,7 +30,7 @@ This procedure details the creation process of observations.
 ## Introduction to Observation Management at GitLab
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/embed/6myESjII-Sk" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/6myESjII-Sk" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Scope
