@@ -20,6 +20,10 @@ The GitLab Buyer Experience Group (BEG) is comprised of leadership from Sales, R
 
 This team evaluates all initiatives and makes prioritization decisions based on the impact to the Buyer of the GitLab product. This Buyer interacts with unique areas of the product (webstore, customers portal, marketplaces, reseller portals) and a range of functions (internal sales, billing, support, resellers). To properly prioritize initiatives to improve their GitLab experience we need a group of decision makers with a broad view into these tools and our operations.
 
+### Internal Handbook
+
+The [Buyer Experience Group Internal Handbook](https://internal-handbook.gitlab.io/handbook/sales/buyer-experience-group/) page captures internal-only information, including an up-to-date project tracker. 
+
 ### Resources
 [Resources](/handbook/marketing/digital-experience/buyer-experience-repository/)
 
