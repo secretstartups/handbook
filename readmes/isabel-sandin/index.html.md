@@ -18,17 +18,9 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## Related pages
 
-LinkedIn for being a responsible professional:
+See more about my past professional experience at:
 
 https://www.linkedin.com/in/isabel-sandin-a855781ab/
-
-Twitter for complaining about social issues, not a professional space:
-
-https://twitter.com/NineIsntPrime
-
-Instagram for mostly vain selfies and canned vegetables:
-
-https://instagram.com/NineIsntPrime
 
 ## About me
 
