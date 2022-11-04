@@ -111,6 +111,8 @@ Examples:
 
 ### Expected Distribution Performance/Growth Potential Company-Wide
 
+Note that this is an expected distribution, not a forced distribution. The bell curve distribution aligns with what is most commonly used as a benchmark in the industry and serves as a baseline for us to review and calibrate against. There may be exceptions that are justified that can be discussed and reviewed during calibration. Where deviations from the expected distribution occur, managers should use this as a data point to further review and work with their leadership to ensure appropriate growth plans are in place, proper role fit exists, hiring plans are adjusted, that we are promoting at a fair and accurate rate.
+
 Performance: 
 - **Developing**: 10-15%, not yet meeting all of the expectations 
 - **Performing**: 60-65%, “on track” and meeting expectations 
@@ -120,6 +122,10 @@ Growth Potential:
 - **Developing**: 10-15%
 - **Growing**: 60-65%
 - **Exceeding**: 25%
+
+
+Remember that "Developing" for Performance and Growth Potential should not be automatically associated with underperformance, and that many newly promoted team members and new hires fall into this category.
+
 
 ### The Performance Factor
 
@@ -268,7 +274,9 @@ The calibration session is one of the most important pieces of the Performance/G
 * Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback (if both team member and manager agree to include), performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Please note that when reviewing 360 data for the Q4 talent assessment, it's important to take into account areas in which the team member has improved. Two quarters is a fairly significant amount of time and team members have (hopefully) take action on improvement areas during this period, which should be reflected in the assessment. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
 * Leaders should feel comfortable highlighting team members in other functions
 * Focus on discussing artifacts that are relevant to the performance factor and refrain from discussing artifacts that are not relevant to performance being developing, performing or exceeding. Examples of artifacts which are not relevant: upcoming maternity/parental leave, personal information/home situation or things that were confidentially shared and do not relate to performance. 
+* Refer to the competencies and values when deciding what is relevant.
 * Focus on facts and avoid blanket statements (I.E. [team member] has poor communication)
+* Calibration is not a stack ranking of team members. While some inter-person comparison may happen, it should only be to ensure that evaluations are being applied fairly across different raters.
 * **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
 
 ##### Who Do I Calibrate?
