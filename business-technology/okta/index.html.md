@@ -79,7 +79,7 @@ We have also prepared Introductory Videos on [Setting up MFA/Yubikeys](https://y
 
 ### Lost access to all your 2FA/MFA?
 
-- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your indentiy.
+- Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your identiy
 - Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up either a YubiKey or Biometrics
 
 
