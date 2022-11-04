@@ -40,20 +40,22 @@ should be avoided in order to prevent designing by committee.
 The intent of a revert is never to place blame on the original author. Additionally, it is helpful
 to inform the original author so they can participate as a DRI on any necessary follow up actions.
 
+The `pipeline:revert` must be set on revert merge requests to skip some non-essential jobs in order to speed up the MR pipelines.
+
 ## Broken `master`
 
-If you notice that pipelines for the `master` branch of [GitLab] or [GitLab FOSS] is failing (red) or broken (green as a false positive), returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may break existing functionality, or introduce new bugs and security issues.
+If you notice that pipelines for the `master` branch of [GitLab] or [GitLab FOSS] are failing, returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may:
+
+- break existing functionality
+- introduce new bugs and security issues
+- impede productivity for all of engineering and our release processes
 
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
 [GitLab FOSS]: https://gitlab.com/gitlab-org/gitlab-foss
 
 ### What is a broken `master`?
 
-All tests (unit, integration, **and** E2E QA) that fail on master are treated as `~"master:broken"`.
-
-Any test failures or flakiness (either false positive or false negative) causes productivity impediments for all of engineering and our release processes.
-If a change causes new test failures, the fix to the test should be made in the same Merge Request.
-If the change causes new QA test failures, in addition to fixing the QA tests, the `package-and-qa` or `review-qa-all` job must be run to validate the fix before the Merge Request can be merged.
+A broken master is an event where a pipeline in `master` is failing.
 
 The cost to fix test failures increases exponentially as time passes due to [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html) used. Auto-deploys, as well as monthly releases and security releases, depend on `gitlab-org/gitlab` master being green for tagging and [merging of backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/release-manager.md#regular-security-releases).
 
@@ -61,52 +63,46 @@ Our aim should be to keep `master` free from failures, not to fix `master` only 
 
 ### Broken `master` service level objectives
 
-There are two phases for fixing a `~"master:broken"` issue which have a target SLO to clarify the urgency. The resolution phase is dependent on the completion of the triage phase.
+There are two phases for fixing a broken `master` incident which have a target SLO to clarify the urgency. The resolution phase is dependent on the completion of the triage phase.
 
 | Phase | Service level objective | DRI |
 | --- | --- | --- |
-| [Triage](#triage-broken-master) | 4 hours from the initial master pipeline failure until assigned `~"master:broken"` issue | Engineering Productivity team |
-| [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until issue is closed | Merge request author or team of merge request author |
+| [Triage](#triage-broken-master) | 4 hours from the initial broken `master` incident creation until assignment | Engineering Productivity team |
+| [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until incident is resolved | Merge request author or team of merge request author or dev on-call engineer |
 
 Additional details about the phases are listed below.
 
 ### Broken `master` escalation
 
-If a `~"master:broken"` is blocking your team (such as creating a security release) then you should:
+If a broken `master` is blocking your team (such as creating a security release) then you should:
 
-1. See if there is a current [`~"master-broken"` issue](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=master%3Abroken) with a DRI
-1. Check discussion on the failure notifications in [#master-broken](https://gitlab.slack.com/archives/CR6QH3D7C) on Slack. If there isn't a discussion, ask in `#master-broken` if there's anyone investigating the issue you are looking at
-1. If there is not a clear DRI or action to resolve then use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help.
+1. See if there is a non-resolved [broken `master` incident](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) with a DRI assigned and check discussions there.
+1. Check discussions on the failure notification in the Slack [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) channel. If there isn't a discussion, ask in `#master-broken` if there's anyone investigating the incident you are looking at
+1. If there is not a clear DRI or action to resolve then use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help in the broken `master` incident.
 
 ### Triage broken master
 
-The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the triage DRI for monitoring master pipeline failures, identification and communication of `~"master:broken"` issues.
+The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the triage DRI for monitoring, identification, and communication of broken `master` incidents.
 
 #### Triage DRI Responsibilities
 
 1. Monitor
-   * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team. These reactions will be applied by the triage DRI to signal current status:
-     * `:eyes:` - signals the triage DRI is investigating a failing pipeline
-     * `:boom:` - signals the pipeline contains a **new** failure. The triage DRI will create a new `~"master:broken"` issue and reply in the thread with a link to the issue.
-     * `:fire_engine:` - signals the pipeline is failing due to a known issue. The triage DRI will reply in the thread with a link to the existing issue(s).
-     * `:retry:` - signals a system failure (e.g., Docker failure) is responsible and a retry has been triggered.
+   * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team.
+   * The `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
 1. Identification
-   * Review current [broken master issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=master%3Abroken) for an existing issue for this failure. If the broken master is related to a test failure, search the spec file in the issue search to see if there's a known flaky spec issue.
-   * If no issues exist, create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
-      * `master` failing for a non-flaky reason - use the `Broken Master - Non-flaky` description template.
-      * `master` failing for a flaky reason that cannot be reliably reproduced - use the `Broken Master - Flaky` description template.
+   * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
    * If this incident is due to non-flaky reasons, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
-      * Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`.
+      * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
+   * If you identified that `master` fails for a flaky reason that cannot be reliably reproduced, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
+      * Create a new Timeline event in the incident with a link to the created issue.
    * Identify the merge request that introduced the failures. There are a few possible approaches to try:
       * Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
       * [Look at the project activity](https://gitlab.com/gitlab-org/gitlab/activity), and search for keywords in the recent merged events.
       * [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
         * You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
-      * Looks at the spec file history
-
-   * Assign the issue to the `~"master:broken"` merge request author if they are available at the moment. If the author is not available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
-     * Ask for assistance in the `#development` Slack channel if there is no
-       merge request that caused the `~"master:broken"`.
+      * Look at the spec file history or blame views, by clicking respectively the `History` or `Blame` button at the top of a file in the file explorer, e.g. at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/backup.rb>.
+    * If you identified a merge request, assign the incident to its author if they are available at the moment. Otherwise, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
+    * If no merge request was identified, ask for assistance in the `#development` Slack channel.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
@@ -115,39 +111,37 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
      and ping the resolution DRI with a `@username FYI` message.
      Additionally, a message can be posted in `#backend_maintainers` or `#frontend_maintainers` to get a maintainer take a look at the fix ASAP.
 
-An example of the reactions for a failure is:
-
-![pipeline failures example](pipeline-failure-emoji.png)
-
 ### Resolution of broken master
 
-The merge request author of the change that broke master is the resolution DRI. In the event the merge request author is not available, the team of the merge request author will assume the resolution DRI responsibilities. If a DRI has not acknowledged or signaled working on a fix, any developer can take ownership using the reaction guidance below and assume the resolution DRI responsibilities.
+The merge request author of the change that broke `master` is the resolution DRI.
+In the event the merge request author is not available, the team of the merge request author will assume the resolution DRI responsibilities.
+If a DRI has not acknowledged or signaled working on a fix, any developer can take assume the resolution DRI responsibilities by assigning themselves to the incident.
 
 #### Responsibilities of the resolution DRI
 
-1. Prioritize resolving `~"master:broken"` over new bug/feature work. Resolution options include:
-   * **Default**: Revert the merge request which caused the broken master. If a revert is performed,
+1. Prioritize resolving broken `master` incidents over new bug/feature work. Resolution options include:
+   * **Default**: Revert the merge request which caused the broken `master`. If a revert is performed,
      create an issue to reinstate the merge request and  assign it to the author
-     of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
+     of the reverted merge request.
+       * Reverts can go straight to maintainer review and require 1 maintainer approval.
+       * The maintainer can request additional review/approvals if the revert is not trivial.
+       * The `pipeline:revert` must be set on revert merge requests to skip some non-essential jobs in order to speed up the MR pipelines.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
-   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
-     * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
-1. Apply the `~"Pick into auto-deploy"` label (along with the needed `~"severity::1"` and `~"priority::1"`) to make sure deployments are unblocked.
-1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
+     * Add the `quarantined test` label to the `failure::flaky-test` issue you previously created during the identification phase.
+   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
+     * To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow-up.
+1. Apply the `Pick into auto-deploy` label (along with the needed `severity::1` and `priority::1`) to make sure deployments are unblocked.
+1. If the broken `master` incident affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
-   delays in releases / security releases. See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
-1. Reactions by the resolution DRI in `#development` should follow this guidance:
-   * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
-   * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
-   * `:white_check_mark:` - applied by the resolution DRI to signal the fix is complete.
+   delays in releases / security releases.
+   See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
 1. Communicate in `#master-broken` when the fix was merged
-1. Broadcast in `#master-broken`, `#development`, `#backend`, and `#frontend` when the fix is in
-   `master`.
+1. Once the incident is resolved, click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Fixed`, then click `Continue the broadcast`.
 1. When `master` build was failing and the underlying problem was quarantined /
    reverted / temporary workaround created but the root cause still needs to be
-  discovered: create a new issue with the `~"master:needs-investigation"` label
-1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) describing how the `~"master:broken"` could have been prevented in the Merge Request pipeline.
+   discovered, the investigation should continue directly in the incident.
+1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) describing how the broken `master` incident could have been prevented in the Merge Request pipeline.
 
 #### Responsibilities of authors and maintainers
 
@@ -155,14 +149,14 @@ Once the resolution DRI announces that `master` is fixed:
 
 * Maintainers should start a new merged results pipeline (for canonical MRs)
   and enable "Merge When Pipeline Succeeds" (MWPS).
+  There's no need to rebase once `master` has been fixed since we use [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html).
 * (For forks only) Authors should rebase their open merge requests (since
   [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)
   isn't supported in these cases).
 
 ### Merging during broken master
 
-Merge requests **can not be merged** to `master` until the broken pipeline
-is fixed and passing again.
+Merge requests **can not be merged** to `master` until the incident status is changed to `Resolved`.
 
 This is because we need to try hard to avoid introducing **new** failures,
 since it's easy to lose confidence if it stays red for a long time.
@@ -176,13 +170,13 @@ request merged during a broken `master`.
 Merging while `master` is broken can only be done for:
 
 - Merge requests that need to be deployed to GitLab.com to alleviate an ongoing production incident.
-- Merge requests that fix broken `master` issues (we can have multiple broken master issues ongoing).
+- Merge requests that fix broken `master` issues (we can have multiple broken `master` issues ongoing).
 
 #### How to request a merge during a broken `master`
 
 First, ensure the latest pipeline has completed less than 2 hours ago (although it is likely to have have failed due to
-  `gitlab-org/gitlab` using
-  [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
+`gitlab-org/gitlab` using
+[merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
 
 Next, make a request on Slack:
 
@@ -210,19 +204,19 @@ First, assess the request:
 Next, ensure that all the following conditions are met:
 
 1. The latest pipeline has completed less than 2 hours ago (although it is likely to have failed due to
-  `gitlab-org/gitlab` using
-  [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
+   `gitlab-org/gitlab` using
+   [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
 1. All of the latest pipeline failures also happen on `master`.
-1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for every failure,
-see the "Triage DRI Responsibilities" steps above for more details.
+1. There is a corresponding non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents).
+   See the "Triage DRI Responsibilities" steps above for more details.
 
 Next, add a comment to the merge request mentioning that the merge request will be merged
-during a broken `master`, and link to the `~"master:broken"` issue(s). For example:
+during a broken `master`, and link to the broken `master` incident. For example:
 
 ```md
 Merge request will be merged while `master` is broken.
 
-Failure in <JOB_URL> happens in `master` and is being worked on in <ISSUE_URL>.
+Failure in <JOB_URL> happens in `master` and is being worked on in <INCIDENT_URL>.
 ```
 
 Next, merge the merge request:
@@ -234,9 +228,6 @@ Next, merge the merge request:
     for the [`gitlab-org/gitlab` project](https://gitlab.com/gitlab-org/gitlab/edit).
   1. Click the "Merge" button.
   1. Set the "Pipelines must succeed" setting to be on again.
-
-
-[broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
 
 ### Broken `master` mirrors
 
