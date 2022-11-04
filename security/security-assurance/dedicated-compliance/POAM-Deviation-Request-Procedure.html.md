@@ -100,6 +100,14 @@ Multiple CVEs can be grouped in a single DR if they are Vendor Dependencies for 
 - All vulnerabilities have the same DR type and justification (e.g. all are false positives in RedHat ubi8 base image used by multiple GitLab container images)
 - The DR makes it clear which GitLab application components are impacted (for dependencies, specify all CNG container images or omnibus components that are impacted)
 
+### Closing Deviation Request Issues
+Deviation requests are often not permanent as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue indicating that the vulnerability is now in production. Once provided, the issue can be closed. Acceptable evidence can include:
+- Re-scans showing the vulnerability is no longer present.
+- Issues showing that the patch has been applied and released to production. 
+**Please note that the patch / fix must be in production in order to close a DR issue, not just scheduled for release.**
+
+Once the issue is closed, apply the label `FedRAMP DR Status::Vuln Remediated`.
+
 ## Exceptions
 There are no exceptions allowed to this procedure. 
 
