@@ -43,7 +43,7 @@ Any event  that we have paid to sponsor, have a booth/presence and are sending r
 
 In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences).
 
-For list loads greater than 1,000 of `attendees` they will not be considered a `success` or `scored` as such. Follow [directions here](/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-1000-attendees) on how to do this (MktgOps only).
+For list loads greater than 5,000 `attendees`, Mktgops will need to confer with the `Field Marketing Director` on legitimacy of labeling the program members as `success` as doing so affects `Bizible Touchpoints`. Follow [directions here](/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-5000-attendees) on how to do this (MktgOps only).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
@@ -110,6 +110,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 | Registered | Registered for the event |  |
 | No Show | Registered, but did not attend the event |  |
 | Attended | Attended the Event | Yes |
+| Follow Up Requested | Requested follow up during the event | Yes |
 
 #### Gated Content
 
@@ -212,6 +213,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 | No Show | Registered but did not attend event |  |
 | Attended | Attended event | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
+| Follow Up Requested | Requested follow up during the event | Yes | 
 
 #### Speaking Session
 
@@ -440,7 +442,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
-### Step 4: Activate Marketo smart campaign(s)
+### Step 4a: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
@@ -479,6 +481,27 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 - For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
+
+### Step 4b: Setting Landing Page / Smart Campaign Expiration (Asset Expiration)
+As of early 2022, Adobe has introduced a new feature to Marketo called `asset expiration`, which can be read about in Marketo's documentation [here](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date). This applies to smart campaigns and landing pages. For GitLab's use case, we have enabled this feature for the following role permissions: `Field Marketing User`, `Marketing Program Managers` and `Marketing User`. If you do not have these permissions would like this feature enabled, please submit an `access request`. 
+
+##### Asset Expiration Use Cases 
+All programs have different necessities so it will be important to determine how `asset expiration` should be utilized for various program types. Guidance can be supplied by MktgOps, if needed, but utilize this method for the majority of cases: 
+- `Conference`, `Direct Mail`, `Executive Roundtable`, `Owned Event`, `Self-Service Virtual Event` (if no on-demand component), `Speaking Session`, `Sponsored Webcast` (if no on-demand component), `Survey`, `Vendor Arranged Meeting`, `Workshop`: For one-time programs that are completely done after a specific date and will not use an `Attended On-Demand` member status over time, set the expiration of assets at 4 weeks after the event and at the end of the day, so at 23:55 PST. For example, if a `conference` or `executive roundtable` program type occurs on the April 3, schedule asset expiration for end day on May 1.
+- `Content syndication` or Campaigns where the end of the campaign is difficult to pinpoint: there are 2 different options to consider: 
+    - Set up expiration **12 weeks after the estimated campaign end**, again at the end of the day. This is useful for campaigns where a third-party is handling lead collection for us and we are manually uploading lead lists. This also supplies a buffer in the event the SLA is not met on schedule and the campaign runs longer than anticipated. 
+    - **Do not use asset expiration at all**. We often have content syndication focused programs that go on indefinitely so expiration does not make sense to utilize in this case. Assets can be discontinued in the future.
+- `Gated Content`: It is not recommended to use asset expiration as these remain in use for long periods of time. 
+- `Webcast`: It is not recommended to use asset expiration as these typically have an on-demand component.
+
+##### Setting Asset Expiration On A Program
+- Right click the Marketo program to open the program menu and select `Set local asset expiration`. Please note, this will not work without the correct permissions.
+- A menu with all expiration capable assets will be shown as a segmented list. Example assets that can appear are `landing pages`, `active trigger campaigns` and `Reocurring batch campaigns`. 
+- Use the asset checkboxes to select all assets you wish to set an expiration for and select `set expiration` when ready. Assets that should be expired are `landing pages`, `active trigger campaigns` and `Reocurring batch campaigns`. Set your date and time and then submit. 
+  - Prioritize setting expirations on  `smart campaigns`.
+  - Be mindful of which smart campaigns are set to expire and when because such an event will disable program `registation` and `on-demand` flows.
+- To remove expirations at a later date, right click on the program to return to the capable assets and submit changes. 
+
 
 ### Step 5: Update the Salesforce campaign
 *If you are utilizing the Allocadia, please see below instructions.*  
@@ -538,7 +561,7 @@ Once you click `Registered`, the status will change and the `01c Waitlist to Reg
 
 ## Steps to Setup in-person Conferences
 
-### Step 1: [Clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
+### Step 1: [Clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12196A1)
 
 - Use format `YYYYMMDD_Conference_EventType`
 
@@ -564,6 +587,14 @@ Once you click `Registered`, the status will change and the `01c Waitlist to Reg
 
 ### Step 4a. Meeting Request Processing
 These steps are not yet configured. If you are planning to do this for your next event, please create an issue with the Marketing Operations team.
+
+### Step 4b. Set-up Asset Expiration
+- Right click the Marketo program to open the program menu and select `Set local asset expiration`. Please note, this will not work without the correct permissions.
+- A menu with all expiration capable assets will be shown as a segmented list. Example assets that can appear are `landing pages`, `active trigger campaigns` and `Reocurring batch campaigns`. 
+- Use the asset checkboxes to select all assets you wish to set an expiration for and select `set expiration` when ready. Assets that should be expired are `landing pages`, `active trigger campaigns` and `Reocurring batch campaigns`. Set your date and time and then submit. 
+  - Prioritize setting expirations on  `smart campaigns`.
+  - Be mindful of which smart campaigns are set to expire and when because such an event will disable program registation flows.
+- To remove expirations at a later date, right click on the program to return to the capable assets and submit changes. 
 
 ### Step 5: Update the Salesforce campaign
 
@@ -611,6 +642,19 @@ These steps are not yet configured. If you are planning to do this for your next
 - In the `01 Downloaded` smart campaign, the "Flow" will trigger a program status change `Content Syndication > Downloaded`, that will trigger a scoring update. An interesting moment to be applied, the `Person Source` (note: this maps to `Initial Source` in Salesforce) will update IF a `Person Source` does not already exist (i.e. it is blank), the `Acquisition Program` will set if blank, the Marketo `Initial Source` will populate if blank, and the `Person Status` will update to `Inquiry` if `Blank` or `Raw`.
 - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
     - When the leads are loaded to the campaign by Marketing Ops, the leads will immediately have an interesting moment, +15 score, and initial source, person source and person status update as needed.
+
+### Step 4a: Set-up Asset Expiration
+- `Content syndication` or Campaigns where the end of the campaign is difficult to pinpoint: there are 2 different options to consider: 
+    - Set up expiration **12 weeks after the estimated campaign end**, again at the end of the day. This is useful for campaigns where a third-party is handling lead collection for us and we are manually uploading lead lists. This also supplies a buffer in the event the SLA is not met on schedule and the campaign runs longer than anticipated. 
+    - **Do not use asset expiration at all**. We often have content syndication focused programs that go on indefinitely so expiration does not make sense to utilize in this case. Assets can be discontinued in the future.
+
+##### Setting Asset Expiration On A Program
+- Right click the Marketo program to open the program menu and select `Set local asset expiration`. Please note, this will not work without the correct permissions.
+- A menu with all expiration capable assets will be shown as a segmented list. Example assets that can appear are `landing pages`, `active trigger campaigns` and `Reocurring batch campaigns`. 
+- Use the asset checkboxes to select all assets you wish to set an expiration for and select `set expiration` when ready. Assets that should be expired are `active trigger campaigns` and `Reocurring batch campaigns`. Set your date and time and then submit. 
+  - Prioritize setting expirations on  `smart campaigns`.
+  - Be mindful of which smart campaigns are set to expire and when because such an event will disable program registation flows.
+- To remove expirations at a later date, right click on the program to return to the capable assets and submit changes. 
 
 ### Step 5: Update the Salesforce campaign
 
@@ -940,8 +984,8 @@ Notes:
 
 Once your list is pushed from DB1 to Marketo, you will need to reference the static list that you created under the Marketo `List` folder (DB1 List Push - East Event) in your email programs or target lists (will be adding this to templates). **If you are working with Verticurl:** You will want to reference the static list you created under the Marketo `List` folder (DB1 List Push - East Event) in your invite issues so they know which list to pull for your email sends. Verticurl will also make sure all the correct compliancy filters have been applied in Marketo before scheduling your send. **You still need to have the proper email compliance filters on any of your email programs.
 
-### Instructions: How to update Conferences with more than 1,000 attendees
-For list loads for conferences with more than 1,000 attendees, we should not score them or mark them as success. These are the steps to avoid that from happening. **This can only be done by a member of the MktgOps team!**
+### Instructions: How to update Conferences with more than 5,000 attendees
+For conferences list loads with more than 5,000 attendees, consider not marking them as `success`. If the acting `Field Marketing Director` agrees to avoid marking these members as `success`, these are the steps to avoid that from happening. **This can only be done by a member of the MktgOps team!**
 1. Open Marketo, Navigate to Admin>Tags>Channel>Conference
 1. Uncheck `Success` box for `Attended` and save
 1. Load the list in with the attended members

@@ -98,8 +98,8 @@ Recommended order of operations:
 1. Lead Deduplication (Completed - runs weekly)
 2. Account Deduplication 
 3. Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
-4. Contact Deduplication (WIP)
-5. Lead to Contact Deduplication (WIP)
+4. Contact Deduplication (In testing phase - this work is to be tackled as a FY23 Q4 OKR with the KR of reducing the contact duplicates by 50%)
+5. Lead to Contact Deduplication (On hold until Contact deduplication is complete)
 6. Deduplication of Custom Objects (Bizible Person IDs - On hold until Steps 4 & 5 are completed). 
 
 ### Account Deduplication
@@ -116,7 +116,7 @@ Lead to Lead and Contact to Contact deduplication is currently being managed by 
 
 ### Lead to Contact Deduplication
 
-Just as Lead to Lead and Contact to Contact deduplication, Lead to Contact Deduplication sits with Marketing Ops and is the final standard fields deduplication phase. As the naming implies this will make sure we have no duplicates between both objects (leads and contacts). This phase is to be finalised by end of Q4. 
+Just as Lead to Lead and Contact to Contact deduplication, Lead to Contact Deduplication sits with Marketing Ops and is the final standard fields deduplication phase. As the naming implies this will make sure we have no duplicates between both objects (leads and contacts). 
 
 ### Custom Object Deduplication
 

@@ -147,6 +147,10 @@ dataLayer.push(
   {}, 'eventTimeout' : 3000
 });
 ```
+### Program Asset Expiration
+
+Starting in November 2022, teams within Marketo will transition to utilizing the [asset expiration feature](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date) added to the product in early 2022 as a way to declutter our expired landing pages and no longer relevant smart campaigns. Detailed instructions on this process can be found in our handbook on the [Campaigns and Programs](handbook/marketing/marketing-operations/campaigns-and-programs/) page.
+
 ### Product data in Marketo
 
 Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo. 

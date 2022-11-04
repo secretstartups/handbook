@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Vartpoia"
+title: "Vartopia"
 description: "Partner Deal Registration"
 ---
 
@@ -101,19 +101,19 @@ Follow the steps to create a report that summarizes new leads that are assigned 
 
 ### FAQ
 
-Q: As an employee at GitLab, how do I get access to Vartopia?
-A: Vartopia is a platform strictly for Channel Partners. An administrative account is not a feature that is currently available as part of their solution.
+**Q**: As an employee at GitLab, how do I get access to Vartopia? <br>
+**A**: Vartopia is a platform strictly for Channel Partners. An administrative account is not a feature that is currently available as part of their solution.
 
-Q: What notifications are active for Channel Partners?
-A: Presently real-time self-managed free trial notification are the only active notifications. The notification sends to the `Partner Prospect Admin` via Salesforce. We recommend the Channel Partner to [create scheduled reports](/handbook/marketing/marketing-operations/vartopia/#scheduled-reports) to review the new leads.
+**Q**: What notifications are active for Channel Partners? <br>
+**A**: Presently real-time self-managed free trial notification are the only active notifications. The notification sends to the `Partner Prospect Admin` via Salesforce. We recommend the Channel Partner to [create scheduled reports](/handbook/marketing/marketing-operations/vartopia/#scheduled-reports) to review the new leads.
 
-Q: What type of channel partners can use Vartopia?
-A: Vartopia is meant for resellers.
+**Q**: What type of channel partners can use Vartopia? <br>
+**A**: Vartopia is meant for resellers. We can't pass leads to distributors.
 
-Q: How do you know if a partner lead has been synced to Vartopia?
-A: When a lead is synced to Vartopia, Vartopia will created for `Vartopia Transaction ID`.
+**Q**: How do you know if a partner lead has been synced to Vartopia? <br>
+**A**: When a lead is synced to Vartopia, Vartopia will created for `Vartopia Transaction ID`.
 
-Q: How do you tell apart a partner lead from a regular lead?
-A: `Partner Managed` = `True` for partner leads.
+**Q**: How do you tell apart a partner lead from a regular lead? <br>
+**A**: `Partner Managed` = `True` for partner leads.
 
 

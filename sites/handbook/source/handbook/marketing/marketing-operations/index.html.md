@@ -32,16 +32,17 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 | Person | Role |
 | ------ | ------ |
+| [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy and Platforms|
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
-| [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
-| [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
+| [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
 | [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
-| [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
+| [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
@@ -516,7 +517,7 @@ One of the following must occur to have a lead move from `Raw` to `Inquiry`
 
 Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
 
-The cleaning part of this process was being done using our lead/contact deduplication tool, Ringlead. **This work is now paused** while Mops is investigating Openprise, as a potential substitute for Ringlead. We're in the final stages of that discussion and we're waiting for a proposal from their side. The biggest reasons for using Openprise instead of Ringlead are the better quality support we would get along with consolidating our tools with for data clealiness with the same ones Sops is using. 
+The cleaning part of this process is being done with the Cleanse functionality of the lead/contact deduplication tool, Ringlead. 
 
 The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
 
@@ -525,10 +526,10 @@ This cleaning & enrichment process has 3 main priorities:
 1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
 2. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.  
 3. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
-    * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays* - now paused while investigating Openprise instead of Ringlead)
-    * Account Deduplication (This part is currently performed by Sales Operations)
+    * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays*)
+    * Account Deduplication (This part is currently performed using Openprise by Sales Operations)
     * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
-    * Contact to Contact Deduplication (Tested with Ringlead/Openprise)
+    * Contact to Contact Deduplication (In testing phase as we speak. Contact deduplication work is tackled as part of FY23 Q4 OKR where the KR is to reduce the number of contact duplicates by 50%)
     * Lead to Contact Deduplication (This part of the process will start once Contact Deduplication is completed)
     * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 
