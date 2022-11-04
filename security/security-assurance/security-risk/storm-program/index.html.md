@@ -97,6 +97,46 @@ Once the annual security operational risk assessment is completed, an executive 
 There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a quantitative analysis done to determine if it should be escalated to the risk register. 
 </details>
 
+<details>
+<summary markdown="span"><b>Pilot: Annual Technical (Tech) Debt Analysis</b>
+</summary>
+
+### Purpose
+
+On an annual basis, the Security Risk Team performs an analysis of security tech debt to support GitLab's ability to respond to emerging threats.
+
+### Definition
+
+[Technical debt](https://about.gitlab.com/blog/2019/04/29/avoiding-foreclosure-on-your-technical-debt/#what-is-technical-debt) is a pattern in which a development team does not have enough time, information, or capacity to refine and refactor their code, so their architecture, implementation, and testing may be incomplete. Tech Debt can also be used to describe IT systems and applications that are not effectively enabling the achievement of our mission and goals.
+
+Examples of Tech Debt include systems/apps that:
+
+- have more breakfixes than planned changes
+- are no longer utilized or supported
+- are outdated or obsolete
+- are redundant
+- do not align with GitLab's overall strategy or enterprise architecture
+
+### Scope
+
+Systems/apps that support and/or enable GitLab's security controls are in-scope for the purposes of the Tech Debt Analysis. A list of in-scope systems can be found [here](https://internal-handbook.gitlab.io/handbook/engineering/security/#security-tooling). This list is supplemented by other tools that are owned outside of Security (e.g., Okta or NIRA) that can be found in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+
+### Process Overview
+
+#### 1. DRIs of Security Tech Stack Systems/Apps Complete "Tech Debt Questionnaire" (2 Weeks)
+The Security Risk Team will send each Directly Responsible Individual (DRI) of a security control-enabling system/app a separate Tech Debt Questionnaire. This brief questionnaire requests the DRI's input on topics such as:
+- Investment Classification and Rationale (What should be done with the system/app at this point in time? Invest, maintain status quo, replace, or [dogfood](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding)?)
+- Volume and cycle time of development changes and incidents/issues (if applicable)
+- UI responsiveness
+- Security updates and feature releases
+
+#### 2. Security Risk Team Reviews Completed Questionnaires (1 Week)
+As DRIs complete questionnaires, the Security Risk Team will review responses to assess whether the system/application represents a risk to GitLab. The information collected will also help to support decision-making from a budget/investment perspective.
+
+#### 3. Reporting of Results
+TBD
+</details>
+
 ## Communication of Risks to the Security Risk Team
 
 There are multiple ways the team can be engaged for risk:
