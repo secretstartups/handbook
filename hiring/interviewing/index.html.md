@@ -247,7 +247,7 @@ The talent acquisition team will ask candidates for references via email. The hi
 
 ## Background checks
 
-The talent acquisition team will begin a [background check](/handbook/people-policies/#background-checks) on the candidate once an offer as been extended.
+The talent acquisition team will begin a [background check](/handbook/people-policies/#background-screenings) on the candidate once an offer as been extended.
 
 ## After the Interviews
 
