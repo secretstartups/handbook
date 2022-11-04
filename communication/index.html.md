@@ -696,6 +696,8 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
+1. When scheduling recurring meetings, consider using **(UTC+00:00) Coordinated Universal Time** as the meeting time zone,
+   so that the meeting time does not change for others when your local time zone changes.
 
 #### Cross-regional Working Hours Recommendations
 
