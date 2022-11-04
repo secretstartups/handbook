@@ -60,8 +60,8 @@ There five teams in the Security Assurance sub-department.
 
 * [Sales Training (Security)](/handbook/sales/onboarding/sqs-learning-objectives/)
 * [Sales Enablement (Security)](/handbook/security/security-assurance/field-security/Field-Security-RFP.html)
-* [Customer Assurance (Security)](https://about.gitlab.com/security/cap)
-* Security Evangelization 
+* [Customer Assurance (Security)](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
+* [Security Evangelization](/handbook/security/security-assurance/field-security/Evangelism.html) 
 
 ### Security Governance Core Competencies 
 
