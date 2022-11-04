@@ -22,7 +22,7 @@ At GitLab, we have our own flavor of JTBD and use it throughout the design proce
 - Evaluate existing experiences
 - Assess category maturity
 
-JTBD come directly from research and customer conversations with those people who do the tasks/jobs we need to design for. [Problem validation](/handbook/product/ux/ux-research-training/problem-validation-and-methods/#what-is-problem-validation) is one of the most effective ways to confidently inform the writing of a JTBD.
+JTBD come directly from research and customer conversations with those people who do the tasks/jobs we need to design for. [Problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/#what-is-problem-validation) is one of the most effective ways to confidently inform the writing of a JTBD.
 
 To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to create a Job Map](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/mapping-jobs-to-be-done/)
 
@@ -86,7 +86,7 @@ Often, we find there are many JTBD for one category. We are striving to have 2-3
 ## Quick methods to increase confidence
 
 - Reference previous research and industry standards.
-- Conduct [generative problem validation research](/handbook/product/ux/ux-research-training/problem-validation-and-methods/#when-to-use-problem-validation) using broad questions. For example, ask questions like, "tell me what you do as a software engineer."
+- Conduct [generative problem validation research](/handbook/product/ux/ux-research/problem-validation-and-methods/#when-to-use-problem-validation) using broad questions. For example, ask questions like, "tell me what you do as a software engineer."
 - Run abbreviated 30-minute job interviews with a minimum of 5 participants (direct questions). For example, ask questions based on the JTBD such as, "tell me about the last time you made an architectural decision. What went well? What didn't go so well?" Document your interview using the [JTBD Interview Note template](https://docs.google.com/spreadsheets/d/e/2PACX-1vSX5b57MKfLFl59TfiN61rWNkm2Qctb8cVy40JUGsF6FyEcy3jhPBUxY-4D3exXxqXPwwBkcSOb0HT8/pub?output=xlsx).
 
 ## JTBD, user stories, and tasks

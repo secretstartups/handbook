@@ -15,7 +15,7 @@ description: >-
 
 ## Intro and Goal
 
-The Category Maturity (CM) Scorecard is a [Summative Evaluation](https://www.nngroup.com/articles/formative-vs-summative-evaluations/) that takes into account the entire experience as defined by a Job to be Done (JTBD), instead of individual improvement(s), which are often measured through [Usability Testing](/handbook/product/ux/ux-research-training/usability-testing/) (i.e. Solution Validation). This specialized process provides data to help us grade the [maturity of our product](/direction/maturity/).
+The Category Maturity (CM) Scorecard is a [Summative Evaluation](https://www.nngroup.com/articles/formative-vs-summative-evaluations/) that takes into account the entire experience as defined by a Job to be Done (JTBD), instead of individual improvement(s), which are often measured through [Usability Testing](/handbook/product/ux/ux-research/usability-testing/) (i.e. Solution Validation). This specialized process provides data to help us grade the [maturity of our product](/direction/maturity/).
 
 The goal of this process is to produce data as objectively as possible given time and resource constraints. For this reason, the process is more rigorous than other UX research methods, and it focuses more on measures and less on thoughts and verbal feedback.
 
@@ -90,7 +90,7 @@ Once you know what scenario(s) you’ll put your participants through, it’s im
 
 It’s important to thoroughly plan how a participant will complete your scenario(s), especially if you answered "yes" to any of the questions above. Involve technical counterparts early in the process if you have any uncertainty about how to enable users to go through your desired flow(s).
 
-If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research-training/ux-cloud-sandbox/).
+If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/).
 
 If your JTBD interacts with other stage groups’ areas, reach out to them to ensure their part of our product will support your scenario(s).
 
@@ -256,7 +256,7 @@ The goal for analyzing Category Maturity Scorecard data is to establish a baseli
 
 **To analyze:** Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1w3GZNc11PSZ9sN_2II5SI3fwK4tH9LLSb2bci_o2mWg/copy) to aid in calculating the CM Scorecard score, per scenario. Additionally, look for themes behind the reason why participants scored the way they did.
 
-**To document:** Document and highlight areas for improvement via issues, utilizing the [‘Actionable Insight’ scoped labels](/handbook/product/ux/ux-research-training/research-insights/#how-to-document-actionable-insights), to make further improvements to the experience.
+**To document:** Document and highlight areas for improvement via issues, utilizing the [‘Actionable Insight’ scoped labels](/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights), to make further improvements to the experience.
 
 Read the UX Research team’s guide for [documenting insights in Dovetail](/handbook/product/ux/dovetail/#the-ux-research-teams-guide-to-documenting-insights-in-dovetail).
 

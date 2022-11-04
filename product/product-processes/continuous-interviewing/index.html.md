@@ -16,7 +16,7 @@ Continuous interviews are open to all GitLab team members. The PM should notify 
 
 Prior to starting the practice of continuous interviewing, the PM should develop their own interview script relevant to their product area. Product managers can consult with UX research or the examples in this [project](https://gitlab.com/gitlab-com/user-interviews/-/issues) to create the script. 
 
-When speaking with the customer, the PM should refer to these [interviewing tips](/handbook/product/ux/ux-research-training/facilitating-user-interviews/#tips-for-interviewing) to help make these conversations a successful experience for the user and the Product team.
+When speaking with the customer, the PM should refer to these [interviewing tips](/handbook/product/ux/ux-research/facilitating-user-interviews/#tips-for-interviewing) to help make these conversations a successful experience for the user and the Product team.
 
 With the customer's consent, the interviews are recorded and added to [Dovetail](/handbook/product/ux/dovetail/) where the notes and transcript are [tagged for future reference](/handbook/product/ux/dovetail/#tagging-data-in-dovetail).
 
@@ -37,7 +37,7 @@ The following is a non-exhaustive list of approaches to finding customers open t
 * Continuously communicate to the customer success team that we are open to customer calls, but make it clear that these are customer interviews, not sales calls. Use the #customer-success Slack channel or open a [CSM project issue](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/new?issueable_template=Product%20Engagement)
     * Attend monthly Customer Success Managers (CSM) meetings and make requests for continuous interviews within their Google Doc agenda
     * Set up coffee chats with CSMs to discuss continuous interviewing requests
-* Additional resources for [participant recruitment through UX Research](/handbook/engineering/ux/ux-research-training/recruiting-participants/)
+* Additional resources for [participant recruitment through UX Research](/handbook/engineering/ux/ux-research/recruiting-participants/)
 
 #### Tips for leading continuous interviews
 

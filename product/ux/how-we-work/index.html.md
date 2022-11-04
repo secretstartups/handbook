@@ -12,7 +12,7 @@ description: "The UX Department works alongside the community, Product Managemen
 
 The UX Department works alongside the community, Product Managers (PMs), Frontend engineers (FE), Backend engineers (BE), and the Brand team. PMs are responsible for kicking off initiatives and setting the product direction. PMs define the "what" and "why" for feature-related issues by gathering customer and user feedback, and they give GitLab team members and the wider community space to suggest and create.
 
-UX should assist in driving the [product vision](/direction/) early in the process. We inform the vision by conducting [foundational research](/handbook/product/ux/ux-research-training/foundational-research/) and facilitating discussions with community members, customers, PM, FE, and BE. We are **elevated** above just the transactional workflow and **generative** in creating work, rather than just executing tasks. We align with the Brand team's direction for GitLab and incorporate brand standards and "brand moments" into the product when appropriate.
+UX should assist in driving the [product vision](/direction/) early in the process. We inform the vision by conducting [foundational research](/handbook/product/ux/ux-research/foundational-research/) and facilitating discussions with community members, customers, PM, FE, and BE. We are **elevated** above just the transactional workflow and **generative** in creating work, rather than just executing tasks. We align with the Brand team's direction for GitLab and incorporate brand standards and "brand moments" into the product when appropriate.
 
 ## UX Workflows
 

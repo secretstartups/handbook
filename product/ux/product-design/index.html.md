@@ -56,7 +56,7 @@ Product Designer Tools
 * [UX Issue Triage](/handbook/engineering/quality/issue-triage/#ux)
 * [Heuristics](/handbook/product/ux/heuristics/)
 * [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (GitLab Team Member access only)
-* [UX Cloud Sandbox](/handbook/product/ux/ux-research-training/ux-cloud-sandbox/)
+* [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
 

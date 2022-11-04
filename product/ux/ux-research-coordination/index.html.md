@@ -110,7 +110,7 @@ In order to get people scheduled for interviews, we generally want to keep the f
 1. **Respondent.io** is a participant recruitment service that is a good choice for studies aimed at software professionals who may or may not be GitLab users. This has been a good source to find security professionals and some other harder-to-reach participants. Respondent is also a great choice for when you need users quickly.
 - Respondent.io is one of the fastest options depending on criteria and typically participants start qualyfing within a few hours.
 
-1. **UserTesting.com** is an [unmoderated usability testing platform](https://about.gitlab.com/handbook/product/ux/ux-research-training/unmoderated-testing/). We can use their panel to recruit users for usability tests through their platform.
+1. **UserTesting.com** is an [unmoderated usability testing platform](https://about.gitlab.com/handbook/product/ux/ux-research/unmoderated-testing/). We can use their panel to recruit users for usability tests through their platform.
 - Participants typically start qualifying within a few hours depending on criteria.
 
 1. **Social outreach.** Social posts may go out on GitLab's brand channels. The UX Research Operations Coordinator uses the Social Request template in the Corporate Marketing project to request this type of post. This is a good choice for studies primarily aimed at GitLab users. Product Managers, Product Designers, and other teammates are highly encouraged to help promote their studies through their networks.

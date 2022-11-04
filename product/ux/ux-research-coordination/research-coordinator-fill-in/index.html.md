@@ -10,7 +10,7 @@ description: "This page details the steps required to execute a successful recru
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research-training/recruiting-participants/&sa=D&ust=1602108272868000&usg=AFQjCNE8hrspN3s2Uy2MuNSmZvxoAuuvQg).
+There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/&sa=D&ust=1602108272868000&usg=AFQjCNE8hrspN3s2Uy2MuNSmZvxoAuuvQg).
 
 ### The Process
 
@@ -20,7 +20,7 @@ There are times when you will play the role of UX Research Operations Coordinato
 * The UX Research Operations Coordinator will assign you to any of these ongoing issues so you can easily track them.
 * The UX Research Operations Coordinator will also share the Open Recruitment Projects sheet with you and tag you on projects that require assistance.
 * Introduce yourself, in the #product and #ux Slack channels, as the recruitment point of contact for the next X days and/or weeks. Request people @ mention you in any new recruitment requests.
-   * If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research-training/recruiting-participants/%23open-a-recruitment-request&sa=D&ust=1602108272869000&usg=AFQjCNGYiPHfLjC7psYeSDafJvXBzFRADQ) and assign it to you for tracking and visibility purposes.
+   * If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/%23open-a-recruitment-request&sa=D&ust=1602108272869000&usg=AFQjCNGYiPHfLjC7psYeSDafJvXBzFRADQ) and assign it to you for tracking and visibility purposes.
    * Remind them an issue has been handed off to you once you confirm the handoff in a comment.
 
 #### Step 2 - Dealing with new recruiting requests
@@ -48,7 +48,7 @@ There are times when you will play the role of UX Research Operations Coordinato
    * Contains GitLab users, mostly our Developer persona, although some more exotic job titles are also found there.
    * Can be used to identify respondents for surveys.
    * For other studies, feel free to “pre-screen” in First Look by performing an advanced search to see how many of the screener criteria are available.
-* **[Data warehouse contacts](https://about.gitlab.com/handbook/product/ux/ux-research-training/recruiting-participants/#finding-gitlabcom-users-in-the-data-warehouse)**
+* **[Data warehouse contacts](https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/#finding-gitlabcom-users-in-the-data-warehouse)**
    * Contains GitLab SaaS user information.
    * Can be used to identify respondents for surveys.
    * Pull contacts of GitLab SaaS users and then follow the usual process in Qualtrics.
@@ -58,7 +58,7 @@ There are times when you will play the role of UX Research Operations Coordinato
   * How to use it:
     * Log into Respondent and build and launch the campaign, using the screener from the person conducting the research.
     * Take care to double check your criteria and set the correct questions to “disqualify” participants. For example, you can specify that you only want Jira users by setting 'Jira' as a 'must select' response in the relevant question. This will automatically disqualify anyone who chooses another response. This saves you time by reducing the volume of screener responses you need to comb through. It also helps non-researchers easily see who is qualified to take part in the study.
-* **[UserTesting.com](https://about.gitlab.com/handbook/product/ux/ux-research-training/unmoderated-testing/)**
+* **[UserTesting.com](https://about.gitlab.com/handbook/product/ux/ux-research/unmoderated-testing/)**
    * Good for unmoderated usability tests
    * We can leverage their panel to recruit technical users
 * **Using Team members to socialize requests:**
@@ -108,5 +108,5 @@ There are times when you will play the role of UX Research Operations Coordinato
 
 
 ### Resources
-* [How the UX Research Team Operates](/handbook/product/ux/ux-research-training/how-uxr-team-operates/)
-* [Recruitment case study](/handbook/product/ux/ux-research-training/recruiting-participants/#recruitment-case-study)
+* [How the UX Research Team Operates](/handbook/product/ux/ux-research/how-uxr-team-operates/)
+* [Recruitment case study](/handbook/product/ux/ux-research/recruiting-participants/#recruitment-case-study)

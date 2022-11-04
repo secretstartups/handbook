@@ -23,7 +23,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 1. Draft an email that you'll send to respondents. Example copy is below. 
 1. **BE ON TIME TO YOUR CALL**. Make sure everyone on the call introduces themselves.
 1. If respondents have agreed to recording, still ask them once again if it's OK if you record before turning it on. 
-1. See our training materials on [facilitating user interviews](/handbook/product/ux/ux-research-training/facilitating-user-interviews/)
+1. See our training materials on [facilitating user interviews](/handbook/product/ux/ux-research/facilitating-user-interviews/)
 
 **Example email copy**:
 

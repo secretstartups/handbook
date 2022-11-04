@@ -14,7 +14,7 @@ description: "Guide on tools used within GitLab to find the data to support desi
 
 Data is another way designers and researchers at GitLab can understand user behavior. Analytics can provide valuable input throughout the Product Development Flow. By using data, we can understand and quantify the impact of the iteration that we shipped.
 
-We should not depend entirely on data to make decisions, but it should be an essential input to decision making. To learn more about quantitative data/research, see the [Using Data to Find Insights](/handbook/product/ux/ux-research-training/quantitative-data/) handbook page. 
+We should not depend entirely on data to make decisions, but it should be an essential input to decision making. To learn more about quantitative data/research, see the [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/) handbook page. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/J-USG9BKH-g" frameborder="0" allowfullscreen="true"> </iframe>
@@ -22,7 +22,7 @@ We should not depend entirely on data to make decisions, but it should be an ess
 
 ## Aligning hypothesis to impact
 
-Part of the design process is to have a [strong hypothesis](/handbook/product/ux/ux-research-training/defining-goals-objectives-and-hypotheses/) to guide our work.
+Part of the design process is to have a [strong hypothesis](/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/) to guide our work.
 
 Ideally, the hypothesis will be based on information from user research.
 
@@ -98,4 +98,4 @@ The issues and merge requests below are examples of how we have used data for de
 - [Example SQL reference from docs.gitlab.com](https://docs.gitlab.com/ee/development/snowplow/index.html#reference-sql)
 - [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 - [Growth Experiments Knowledge Base](https://about.gitlab.com/direction/growth/#growth-experiments-knowledge-base)
-- [Using Data to Find Insights](/handbook/product/ux/ux-research-training/quantitative-data/)
+- [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/)

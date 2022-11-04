@@ -78,7 +78,7 @@ To conduct these interviews:
     1.  Use the [User Persona - Internal Stakeholder Script [Google Docs Template]](https://docs.google.com/document/d/1ZsQXPeg2dZNPvoh2O5wRobIB4EtBWuNsNLyVpIs2raM/copy) and fill in the title and details with your persona. 
     2.  Link your Google Sheet in your issue.
 2.  Use the[ GitLab team page](https://about.gitlab.com/company/team/), various department team pages (like the [Engineering page](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams)), or put a message in a team's slack channel (usually found near the bottom of a team page) to recruit internal participants for feedback.
-    1.  Use a [Calendly link](/handbook/product/ux/ux-research-training/recruiting-participants/#create-a-calendly-event) to schedule the 30 minute interview sessions.
+    1.  Use a [Calendly link](/handbook/product/ux/ux-research/recruiting-participants/#create-a-calendly-event) to schedule the 30 minute interview sessions.
 3.  During each interview session:
     1.  If you need to take notes, or have an additional note taker, use the [user interview notes template](https://docs.google.com/spreadsheets/d/1hnIqg-fnCYW2XKHR8RBsO3cYLSMEZy2xUKmbiUluAY0/copy).
 4.  Summarize the interview data question by question to look for trends. Use the [Persona -  Screener Questions template](https://docs.google.com/document/d/1Vm3InbGl7u1O2Q8s2TzFMEZnsnug51_qJvq2wGwsqiM/edit?usp=sharing) to help guide what to look for.
@@ -92,7 +92,7 @@ These moderated interviews should take approximately 1 hour. Recruit 8-10 partic
 
 
 #### A) Recruit & schedule participants
-To kick off participant recruitment, refer to the [UX handbook guide on how to recruit and schedule participants](/handbook/product/ux/ux-research-training/recruiting-participants/). Open a recruitment issue and use the screener derived from your previous research [Step 2](#step-2-internal-interviews).  Use the handbook page on [writing screener questions](/handbook/product/ux/ux-research-training/write-effective-screener/) for help, if needed.
+To kick off participant recruitment, refer to the [UX handbook guide on how to recruit and schedule participants](/handbook/product/ux/ux-research/recruiting-participants/). Open a recruitment issue and use the screener derived from your previous research [Step 2](#step-2-internal-interviews).  Use the handbook page on [writing screener questions](/handbook/product/ux/ux-research/write-effective-screener/) for help, if needed.
 
 #### B) Create Interview Script
 Use the summarized information created from [Step 1](#step-1-meet-with-stakeholders) and [[Step 2](#step-2-internal-interviews) to craft the script for the external interviews. The first section of the script should focus on the top jobs of the persona, and the motivations and frustrations of those jobs. 
@@ -106,7 +106,7 @@ If you are unfamiliar on [Gitlab's JTBD](/handbook/product/ux/jobs-to-be-done/),
 Later sections of the script may vary depending on what your past research indicates as important to the persona. You will most likely want to ask questions about key tools your persona uses, any areas of Gitlab they use or have trouble in, or other teams that provide essential work to your persona.
 
 #### C) Conduct interviews 
-After enough participants have been recruited and scheduled, it is time to conduct the interviews! To prepare for these interviews, be sure to understand [GitLab's handbook page on how to facilitate a user interview](/handbook/product/ux/ux-research-training/facilitating-user-interviews/). More help can also be found in our [discussion guide template](https://docs.google.com/document/d/1ERpTsQs7vcKKHLFZ5qoTukUFFA1sdazaFzknsX0Ju5Q/edit).
+After enough participants have been recruited and scheduled, it is time to conduct the interviews! To prepare for these interviews, be sure to understand [GitLab's handbook page on how to facilitate a user interview](/handbook/product/ux/ux-research/facilitating-user-interviews/). More help can also be found in our [discussion guide template](https://docs.google.com/document/d/1ERpTsQs7vcKKHLFZ5qoTukUFFA1sdazaFzknsX0Ju5Q/edit).
 
 To help streamline data intake during interviews, you may use this [Persona Interview template (Google Form)](https://docs.google.com/forms/d/1o6Hn7fmnHQFW8hMZf7_HL3VHT02VI3rlUzhbsy-sTXg/copy) as a script and tool to fill in participant responses. 
 
@@ -124,7 +124,7 @@ To conduct these interviews:
 
 ### Step 4: Synthesize & Compare Results
 #### A) Synthesize the user data
-If you are using the [Google Form template](https://docs.google.com/forms/d/1LkBbPoYY5TtmcgQxh0T9wo3Gy34yMX0CeRHQs_w1Xhw/copy) as described above, then the data synthesis will be a similar process for each round of research. If you need more help codifying the results, this handbook article on [data synthesis](/handbook/product/ux/ux-research-training/analyzing-research-data/) may help.
+If you are using the [Google Form template](https://docs.google.com/forms/d/1LkBbPoYY5TtmcgQxh0T9wo3Gy34yMX0CeRHQs_w1Xhw/copy) as described above, then the data synthesis will be a similar process for each round of research. If you need more help codifying the results, this handbook article on [data synthesis](/handbook/product/ux/ux-research/analyzing-research-data/) may help.
 
 For all open-ended questions, you first have to transform the qualitative data into something easier to understand. Do this by clustering responses into themes and tallying the counts of all themes. An example of this can be found in the table below:
 
