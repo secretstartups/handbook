@@ -65,9 +65,23 @@ Steps to uplevel triaging process:
 |	                  | G&A Data Fusion |	| `@Peter Empey` |	 	| | | |		
 | `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 | `@Raul Rendon` | |  `@lily` |	
 |	                  | Engineering Data Fusion |		| `@Peter Empey` 	| 	|		|     |     |
-| `@DataPlatformTriage` |	Data Platform | | `@vprakash` / `@csnehansh` (shadowing) | `@Paul Armstrong` | `@Radovan Bacovic` |	`@Rigerta Demiri` | `@juwong` |
+| `@DataPlatformTriage` | Data Platform | | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) |
 | `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Ken` |	`@Ken` 	| `@Ken` | |	
 
+#### Data Platform weekly rotation schedule
+
+The Data Platform Team will run an experiment in FY23-Q4 to have a weekly rotation schedule. This means that a Data Platform Team member is performing triage responsibilities from Monday - Friday. With running a weekly schedule Team members could focus more and better on outstanding issues and incidents and prevent doing handovers each and every day.
+
+Before the start of the quarter the Data Platform Team alligns on the weekly rotation schedule via an issue.
+- FY23-Q4: https://gitlab.com/gitlab-data/analytics/-/issues/14815
+
+Because of public holidays or unforeseen circumstances (Family and Friends day excluded, on these days we do not perform triage), the schedule can change throughout the quarter where there is still a possibility to handover a single day amongst Data Platform Team members. These changes are arranged between team members and are reflected in the Data Team calendar. 
+
+At the end of FY23-Q4 we will evaluate the experiment and decide how we will do triage in the Data Platform Team moving forward. As we try to make this fact based and data driven we will look at the following KPIs:
+- Average completion time of issues and incidents
+- Close ratio of issues and incidents
+ 
+Second we will also run a pulse check amongst Data Platform Team members to hear the general impression of the new triage process. The combination of both will determine how we move forward.
 
 ### Enterprise Data Program Triage Instructions 
 
@@ -87,8 +101,14 @@ Data triagers are the first responders to requests and problems for the Data Pro
 
 - The Data Analyst triager is primarily responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
 - The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
-- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#data-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20DE).
-    - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
+- The Data Platform triager is responsible for resolving problems with our data platform, which will either be in the **#data-pipelines** and **#data-prom-alerts** slack channels and on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20DE).
+    - During the assigned triage week the Data Platform Team member should be primarily focused on incoming incidents and issues or the issues on the [Data Platform - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). If a triage issue is already assigned it is still the triager responsibility to either take that issue or ensure progress is made. 
+       - If there is no work to be performed on open issues or incidents on the [board](https://gitlab.com/groups/gitlab-data/-/boards/1917859) the triager will work on their regular work assignments.
+    - Involvement from Data Platform Team members who do **not** carry triage responsibilities that week is likely still needed in somes cases like:
+       - A standing issue or incident could not be solved by the triager and triager need help from other Data Platform Team members.
+       - Monitoring #data-prom-alerts:
+          - The #data-prom-alerts slack channel is used for the most urgent breaking events, which requires **immediate** action. It is the responsibility of all Data Platform Team members to ensure action is taken in time after office hours of the triager.
+       - Assistance from the Data Platform Team is needed by other GitLab Team members and this is outside of the office hours of the triager.  
 - The Analytics Engineer triager is primarily responsible for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [AE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20AE).
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
@@ -98,7 +118,7 @@ Data Analysts
 - Respond to new unassigned issues in our project and assign to the right team
 
 Data Engineers:
-- Respond to Data infrastructural incidents
+- Respond to data infrastructure incidents
 - Respond to broken data pipelines
 - Respond to data freshness issues
 - Respond to broken dags (except for dbt issues, see next)
@@ -166,7 +186,7 @@ Changes to the triage bot policy file should be tested in the MR by running the 
 
 ### End of day wrap-up
 
-In order to get better and be more efficient in daily triage, we wrap-up the work by the end of the day. The following information is provided by the Data Analyst and Data Engineer each day:
+In order to get better and be more efficient in daily triage, we wrap-up the work by the end of the day. The following information is provided by the Data Analyst each day:
  
 - Time Tracking: Listing down the time spent that day on triage and which activities are performed. The general idea is to gain an understanding on where the workload is, in order to optimize those activities. Please list down the work so it is useful for analysis purposes. I.e:
    - 2 hours solving data ingestion issue, for source x
@@ -177,6 +197,15 @@ In order to get better and be more efficient in daily triage, we wrap-up the wor
 - Groundhog Issues. Issues that occur on a regular basis are annoying and costing us unnecessary time. List down any issue that is popping up time after time. This is in order to find any spots in the current landscape to address.
  
 A triage roundup will take place at the end of every milestone by the data leadership team to consolidate the milestones triage efforts. Please bear in mind the purpose of the information provided, to make it useful and improve Triage.
+
+### End of week wrap-up
+
+The Data Platform Team follows a weekly rotation schedule which means that by the end of the triage week the triager will hand over the triage responsibilities.
+ 
+- Even though we still use the [triage issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Triage.md) on a daily basis, the triager will only write up the week a-sync in the central data team triage issue on Friday end of day. 
+- The triager will report/verbalize in the Weekly Data Platform Team meeting any notable things happened on triage on Tuesday in the next week.
+ 
+Although running a weekly rotation, we expect the triager to post an EOD announcement in the applicable Slack channels.
 
 ### GitLab.com DB structure changes
 1 of the most important data source, that regularly changes, is the GitLab.com database. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database, is made to the db/structure\.sql file. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made, via the Danger Bot. 
