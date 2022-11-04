@@ -20,20 +20,24 @@ Security evangelism allows us to develop a better understanding of our prospects
 
 Field Security's goal is to take a holistic approach to security evangelism. We want to be dynamic and transcend traditional methods of gathering and sharing information.
 
-### What we already do
+### Written engagements
 
 * An annual [Field Security Study](https://about.gitlab.com/handbook/security/security-assurance/field-security/field-security-study.html) that documents areas of concern or improvement identified for GitLab's products and services.
-* Whitepapers
+* Whitepapers and collaterals
 * Blog posts
-* Customer meetings
+* Surveys
 
-### What we can do
+### Audio & video engagements
 
 * Webinars
+* Podcasts
+* Videos
+
+### Live engagements
+
+* Customer meetings
 * Conferences (Information gathering and speaking engagements)
 * Roadshows
-* Podcasts
-* Surveys
 
 ## How can you help?
 
