@@ -57,13 +57,24 @@ Employees must also pay unemployment insurance contributions. The employer must 
 
 Annual holiday entitlement is based on the number of holiday credit months earned during the previous holiday credit year. Depending on the length of the employment relationship, the employee is entitled to either 2 or 2.5 weekdays (see section 5 for definition of weekday) of holiday for each full holiday credit month. In the case of an employment relationship that, by the end of the holiday credit year, has lasted for less than 12 months, the employee is entitled to 2 weekdays of holiday, and for an employment relationship that has lasted for more than 12 months, 2.5 weekdays of holiday, for each full holiday credit month. Under the Act, public officials in central government are entitled to 3 weekdays of holiday for each full holiday credit month after 15 years of service. When the number of days holiday is calculated, any fraction of a day is rounded up to constitute one full day of holiday.
 
+### Family Leave 
+Recent reforms of family leave types in Finland will apply to parents expecting a baby with a due date of 4 September 2022 or later and to parents adopting a child if the child is placed in the parents’ care on or after 31 July 2022. The types of leave are pregnancy leave and parental leave and in order to be eligible to receive the benefits, you must live in Finland or be covered by the Finnish social security system.
 
-### Maternity/Paternity/Parental Leave
-In order to be able to receive the benefits, you must live in Finland or be covered by the Finnish social security system.
+Whenever allowed by law GitLab's 16 weeks [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) will run concurrently with these benefits. Team members can request pregnancy or parental leave by selecting the Parental Leave option in PTO by Roots. The Absence Management team will contact you with more details after your request is received.
 
-Whenever allowed by law GitLab's 16 weeks [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) will run concurrently with these benefits.  Team members can request maternity, paternity, parental, and/or adoption leave by selecting the `Parental Leave` option in PTO by Roots.  The Absence Management team will contact you with more details after your request is received.
+#### Pregnancy Leave
 
-#### Maternity Leave
+For [pregnancies with an expected due date of 4 September 2022 or later](https://www.kela.fi/quick-guide-expected-due-date-on-or-after-04-09-2022), the Finnish Social Insurance Institution (Kela) will pay pregnancy leave allowance allowance for 40 continuous working days, to start from 14 to 30 days before the estimated due date.
+
+#### Parental leave
+
+All parents who have custody of their child have an equal right to parental leave regardless of whether they are biological or adoptive, and regardless of the gender of the parent (though generally only one parent may take parental leave at a time). Each parent is entitled to 160 days of parental allowance, with a maximum of 63 days being transferable. Kela pays parental allowance and it is paid regardless of family structure. Parental leave can be taken in up to four periods and must be taken before the child turns two. Single parents are entitled to both quotas and twins, triplets, or other multiple births are an exception to the model and the allowance quota will be extended by 84 days for the second child and every subsequent child. 
+
+#### _Before 31 July/4 September 2022_
+
+Where a child is adopted by their parents (and placed into their care) before 31 July 2022 or a [maternity allowance period is due to start before 4 September 2022](https://www.kela.fi/families-quick-guide), the preceding system of maternity/paternity/adoptive/parental leave allowances, as set out below, will apply.
+
+##### Maternity Leave
 The right to the maternity allowance begins when the pregnancy reaches 154 days in duration. It is a requirement that the mother has been covered by the Finnish social security for at least 180 days immediately before the estimated date of delivery. This can also be calculated according to an insurance period in another EU or EEA country.
 
 Maternity leave begins at the earliest 50 working days, and at the latest 30 working days, before the estimated due date. When maternity leave begins, Kela (Finnish Social Insurance Institution) will pay maternity allowance (äitiysraha) for a duration of 105 working days.
@@ -76,15 +87,15 @@ the employer cannot organise any other duties during the pregnancy.
 
 Special maternity allowance does not reduce actual maternity allowance. It is paid until the maternity allowance period begins.
 
-#### Paternity Leave
+##### Paternity Leave
 Fathers can, after the birth of the child, take paternity leave for a maximum of 54 working days. Of this, the father can be at home at the same time as the mother for a maximum of 18 working days, i.e. approximately three weeks. During paternity leave Kela pays a paternity allowance (isyysraha).
 
-#### Parental Leave
+##### Parental Leave
 Parental leave begins after maternity leave. Parental leave can be taken by either the mother or the father. [Kela](https://www.kela.fi/web/en/families) pays parental allowance (vanhempainraha) for 158 working days. If you receive pay during maternity, paternity or parental leave, Kela will pay a daily allowance for this time to your employer. Mothers who raise a child on their own can receive parental allowance for additional 54 working days. The extension is available only if paternity has not been confirmed and the mother does not have a spouse or partner who is entitled to paternity allowance.
 
 You can claim special care allowance (erityishoitoraha) if you, as the parent of a seriously ill or disabled child under the age of 16, have to be temporarily absent from work without pay to take part in treatment or rehabilitation arranged for your child.
 
-#### Adoption Leave
+##### Adoption Leave
 Adoptive parents are entitled to unpaid parental leave for a period of 233 days calculated from the date of the child’s birth. Team Members are entitled to an allowance from social security. However, the parental allowance is paid for at least 200 workdays. If the child is received later than 54 weekdays after the child’s birth, parental allowance is paid for 200 weekdays. Adoptive parent’s paternity leave must be taken during the two years following the date the child is taken into care. 
 
 If you adopt a child from abroad, you can claim an adoption grant from [Kela](https://www.kela.fi/web/en/families) to meet some of the cost of the adoption. You can make the claim as soon as the international adoption agency has identified a child under 18 years of age for placement in your care and the Finnish Board of Inter-Country Adoption Affairs has authorised the adoption.
