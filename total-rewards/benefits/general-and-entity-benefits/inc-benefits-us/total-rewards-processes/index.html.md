@@ -195,7 +195,24 @@ Example on how many entries should be in the report per team member: If a team m
 Team members have the option of electing the HRA during Cobra, once elected and payment is made, WEX sends email notification to Navia informing them of the COBRA election and to reactivate the member’s access to HRA.
 The process for reporting elections is managed by WEX.
 
- 
+ ### Payroll Hourly Reporting in to Workday for ACA Measurement
+TBD
+Every Month Payroll will need to upload a Affordable Care Act Worker Hours and Wages to track working hours during measurement period. 
+
+ 1. The US Payroll Team will fill out the Affordable Care Act Workers Hours and Wages Report at the end of the month. 
+ 2. Step 2 TBD
+
+### Cobra Subsidy Process
+1. The People Relations team will send a notice to the Total Rewards Team when a Cobra Subsidy needs to added to the Team member's profile.
+1. Total Rewards will set a reminder to submit the subsidy in to Wex the Wednesday after the team member's last day. (Since the data feeds over on Wednesdays)
+1. Total Rewards will calculate the Subsidy on the Cobra Subsidy Calculations Spreadsheet located in the US Benefit folder. 
+1. Total Rewards logs on to [Discovery Leap Platform](https://employerbenefits.wexhealth.com/Login?expired=True) > Cobra Administration > Search Member > Click on the team member's Qualified Beneficiary Profile > Subsidies > +Add Subsidy 
+  1. enter subsidy start & end date
+  1. subsidy schedule amount type: Flat Amount
+  1. Plan type: Enter either Dental/Medical/Vision
+  1. Amount: Enter the amount calculated from the Spreadsheet
+  1. Repeat process for all healthcare benefits 
+1. If Subsidy crosses plan year, makes sure to calculate and enter different subsidy amount for each year. 
 
 
 ### Audits
