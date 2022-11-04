@@ -79,7 +79,7 @@ The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/com
 
 * Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
 
-* Demonstrate thought leadership by delivering 2 [strategic research](/handbook/product/ux/ux-research-training/strategic-research-at-gitlab/) projects per year.
+* Demonstrate thought leadership by delivering 2 [strategic research](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year.
 
 * Communicate, advocate for, and socialize actionable insights in a clear and compelling way
 
@@ -124,7 +124,7 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * Develop and maintain the GitLab strategic research program. Educate and mentor others on strategic research while demonstrating the value of strategic research.
 
-* Demonstrate thought leadership by delivering six [strategic research](/handbook/product/ux/ux-research-training/strategic-research-at-gitlab/) projects per year to showcase.
+* Demonstrate thought leadership by delivering six [strategic research](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year to showcase.
 
 * Deliver impactful research that informs decisions across our product lifecycle.
 
