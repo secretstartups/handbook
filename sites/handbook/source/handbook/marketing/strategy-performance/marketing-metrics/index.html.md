@@ -234,6 +234,27 @@ Note: The time delay between a record being added to SFDC and the time it takes 
 
 ![Trial sign up flow](/images/handbook/marketing/marketing-operations/trial-sign-up-flow.png)
 
+### Alternative Method for Account Demographics Fields on Leads
+
+In Q3 FY23 we completed the first phase of creating an alternative method for supplementing our Account Demographics fields on SFDC leads. We started this project after noticing a large portion of our leads had `null` values in the Account Demographics fields for segment, geo, etc.
+
+To address this, we created and validated two new alternative mappings to account demographics fields for Segment and Geo. We took a waterfall approach, by first using the Account Demographics fields if present, then falling back to data enrichment fields on the lead record. Below is the more detialed logic:
+
+To find Segment the logic is as follows (`employee_bucket_segment_custom`):
+- If Lean_Data_Matched_Account_Sales_Segment__c shows as pubsec, use it first; otherwise use Account Demographics
+- If still null, use the ZoomInfo employee count
+- If still null, use the manual input employee count
+
+To find Geo the logic is as follows (`geo_custom`):
+We used the [FY23 Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1236326957) mapping doc to find how countries mapped to Geos across segments.  
+  - If Account Demographics, use it    
+  - Otherwise find the first non-null value from Zoominfo then Cognism
+  - Map the found country to a GEO via a hardcoded list.
+        
+This logic has been [added to DBT](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.map_alternative_lead_demographics), and can be used in models as needed.
+
+We have added new charts to the [Weekly Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965065/TD:-Weekly-Marketing-Metrics) with the alternative mappings while keeping the Account Demographics (original) version. We have also added tables to the [Integrated Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1061201/Draft:-Integrated-Marketing-v1), ensuring we left the original Account Demographics versions too.
+
 
 ## Filters on Marketing Dashboards
 Filters are a native and integral piece of any dashboard! They allow you to quickly and easily isolate and filter your data based on pre-determined values and sets. They are of *no use* to anyone if we don't all know what a specific filter represents though! Here are the most common filters used on marketing dashboards, what data they pull from, and what they mean to you as the end-user!   
