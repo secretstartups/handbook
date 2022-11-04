@@ -227,19 +227,59 @@ In order to make an exception, the CSM or SAL should discuss the details with th
 The Growth segment aims to have no more than 20% of a CSM's book of business to be Priority 1 at any given time.
 
 For a customer to be Priority 1, they must meet at least one of the following parameters:
-- User growth and/or uptier within the next 6 months (must have a corresponding Salesforce opportunity)
-- Active use-case planning and/or adoption
 - Contraction or churn risk
 - Onboarding
+- Expansion opportunity with significant net ARR
+
+#### Risk Prioritization
+
+There are a few most-common types of risk we see: red DevSecOps adoption, low license utilization, low PTC score, and non-engagement.
+
+The following two cases qualify a customer to be both red health and Priority 1 immediately:
+
+1. **Red DevSecOps adoption**: If an account has low [DevSecOps adoption](/handbook/customer-success/product-usage-data/use-case-adoption/#devsecops) on Ultimate
+2. **Red license utilization**: If an account has low license utilization (less than 60%)
+
+The following two cases require further consideration and/or triage before automatically qualifying them for red health and P1:
+
+1. **Low PTC score**: If an account has a 1 or 2 PTC score, this is an important indicator that we need to do discovery with the customer on potential risk as soon as possible. We receive PTC scores 6 months prior to renewal, so we need to act on it quickly and ask the soft renewal question. If the answer is not a clear "yes, we will renew flat or more", then the customer qualifies for red/P1. 
+2. **Non-engagement**: If an account is new to GitLab and does not respond to our introduction or engage within 1 month of purchase, this qualifies them to be red/P1. If an account was previously engaged but doesn't show up to calls anymore, the CSM should send an email immediately after they miss a call, and if we don't hear back from the customer within 1 week, they then qualify for red/P1.
+    - The CSM should attempt to reach out 2-3 times with the contacts they have available. If they are not successful, the Sales team should own the outreach going forward, whether that is the SAL, AE, or ISR. CS and Sales leadership can also be requested to reach out to the customer, if provided context and an email template.
+
+#### Onboarding Prioritization
+
+We [onboard](/handbook/customer-success/csm/onboarding/) customers that are both entirely new to GitLab, as well as customers that have been customers for a while but are new to having a CSM.
+
+1. **New customers**: If an account is brand new to GitLab, the CSM should meet with them weekly for their first month to get them up to speed quickly. Their initial implementation and adoption of GitLab is crucial to their long-term success, and we want to ensure they have the support they need to onboard quickly.
+2. **Existing customers**: If an account is not new to GitLab and only new to a CSM, the CSM should set them at P1 until they have their kickoff call. After that, the CSM should change them to P2 and set up a quarterly cadence, but provide the option for the customer to have an additional sync point within the first month. The CSM should also review the customer's renewal date, usage data, and PTC score, which could keep them in P1 and increase meeting frequency in order to mitigate any potential risk.
+
+#### Expansion Prioritization
+
+Customer growth is the pillar of what the Growth CSMs do. Much of that growth is a natural byproduct of our day-to-day engagement with customers, ensuring they are adopting and getting the resources they need. However, we do have large upsell opportunities as well that benefit from additional attention.
+
+The CSM has the autonomy to review potential growth opportunities in their customer base and determine if the account would benefit from being classified as P1 with additional attention and sync calls.
+
+If the growth opportunity is an uptier from Premium to Ultimate, [the SAL/AE and SA](/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers) should be leading this engagement, as it's a pre-sales motion, but the CSM should be involved throughout the process, keeping up to date on requirements, feedback, etc. to ensure that when a customer does upgrade, there is a seamless transition from planning to implementation.
+
+#### Prioritization Differences
 
 The primary difference between Priority 1 and Priority 2 customers is the frequency of synchronous engagement:
 - **Priority 1:**
-   - Weekly cadence calls for at Risk and Onboarding customers (for first 30 days)
-   - Monthly cadence calls for customers with growth opportunities  
+   - Weekly cadence calls for at-risk and newly onboarding customers (for first 30 days)
+   - Monthly cadence calls for customers with expansion opportunities
 - **Priority 2:**
-   - Cadence calls every 90 days
+   - Quarterly cadence calls
 
 Priority 1 customers will also have more focus on having EBRs to ensure alignment on use case adoption and future expansion.
+
+#### Prioritizing Tasks
+
+Even with the prioritization model, all customers require attention, which can be difficult to handle with a larger book of business.
+
+Below is some guidance to help CSMs scale their workload:
+
+- Ramped Growth CSMs are expected to give [3 workshops per quarter](/handbook/customer-success/csm/segment/mid-touch/#expand-and-renew-1); reduce the number of workshops that are for a single customer, and plan to do a single workshop where you invite several of your customers who could benefit. In this way, we are able to help drive adoption across our customer base more efficiently, and still keep the sessions small and interactive as only your customers are invited. We can also use cadence calls to dive into questions individual customers may have afterwards, allowing for a more personalized experience, without devoting the workshop to them. Setting up a quarterly (or other cadence) frequently of regularly giving particular workshop topics is one way to make planning for this simpler and ensure you continue to provide value to customers.
+- Our guidance for at-risk customers is to create a [triage issue](/handbook/customer-success/csm/health-score-triage/#gitlab-account-triage-project), but this isn't always a good use of time. Growth CSMs are not required to open triage issues for every at-risk account. They should opened an issue if the risk is due to 1. product blockers 2. PS concerns 3. ongoing negative support experience 4. license & pricing conerns, or 5. sustained non-engagement where we need help from Sales.
 
 ### Scale Accounts
 The Scale Account prioritization model will be defined in FY23Q1.
