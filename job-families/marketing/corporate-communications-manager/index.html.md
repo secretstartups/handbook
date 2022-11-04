@@ -179,6 +179,37 @@ The executive communications manager will work closely with the executive leader
 * You share our values, and work in accordance with those values.
 * Highly organized, detail-oriented and able to meet deadlines consistently.
 
+### Senior Executive Content Communications Manager (CEO)
+The executive communications to CEO specialty manager for the corporate communications team will work closely with the manager of the executive communications program, the CEO, and the CEO’s Chief of Staff team to extend the reach of the CEO’s participation in external events, bylined articles and more. 
+
+#### Responsibilities 
+* Own the CEO executive communications visibility program, driving its strategy and executing on said strategy with agency support.
+* Work closely with the CEO’s Chief of Staff team to develop strong narrative presentations and content for internal and external speaking opportunities.
+* Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for internal and external events.
+* Lead speaking coaching sessions to ensure the CEO is comfortably delivering the content in a natural and charismatic way; incorporate edits as needed.
+* Think strategically about other CEO (aspirational and peer) platforms and how we can incorporate key takeaways into the CEO executive communications visibility program, whether that is via our blog, bylined articles, podcasts, YouTube, social media or other external platforms.
+* Work closely with others in the Corporate Communications department and with PR agencies to share presentation narratives for media consumption and obtain media messages/interview feedback to incorporate in external speaking presentations.
+* Manage any outside agencies or freelancers hired to assist with the CEO executive communications visibility program.
+* Work closely with Executive Business Administrators to plan the external speaking schedule for the year.
+
+#### Technical Qualifications
+* Have experience in enterprise software and/or open source
+* Have the ability to explain complex DevOps concepts at varying levels of technical detail, according to the technical abilities and interests of the audience
+* Actively follows relevant technical media including Hacker News, relevant twitter personalities, and blogs
+
+#### Requirements 
+* 6+ years experience in public relations and/or marketing communications
+* Experience working directly with CEOs of technology companies.
+* Experience executing CEO communications programs.
+* Experience in enterprise software and/or open source.
+* Experience with presentation building - both narrative flow and design.
+* Experience managing agencies and driving results.
+* Creative, thoughtful and passionate about storytelling.
+* Outstanding written and verbal communications skills.
+* Proven ability to be self-directed and work with minimal supervision.
+* Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
+* Have the ability to take meetings with and work synchronously with folks in Pacific Standard Time
+
 ### PR
 The GitLab [PR Manager](/job-families/marketing/pr-manager/) will help GitLab build thought leadership and drive conversation in external communications channels. This position is responsible for developing and driving thought leadership content, securing media coverage for product, partner, channel, community and company announcements and stories, assisting with crisis and rapid response requests, implementing proactive PR campaigns and company award submissions.
 
