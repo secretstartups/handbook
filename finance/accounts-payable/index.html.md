@@ -98,7 +98,7 @@ Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](mailto:invoices@gi
     - If team members have questions on these errors, please post in the Coupa_AP slack channel.
 1. Handling export issues on invoices and payments:	
     - Finance System Admins send a repot to the AP team twice weekly. 
-    - AP team will adjust the vendor card for new currencies or entites. 
+    - AP team will adjust the vendor card for new currencies or entities. 
     - Change Exported to YES in Coupa when the error is fixed.
 
 
