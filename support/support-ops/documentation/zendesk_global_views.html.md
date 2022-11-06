@@ -65,13 +65,8 @@ For more information on managing Zendesk via the various GitLab projects, please
 | [SGG: Pine](https://gitlab.zendesk.com/agent/admin/views/4427373603474) | 13 | Support AMER<br>Support APAC<br>Support EMEA |
 | [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 17 | Support Focus: L&R |
 | [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 18 | Support Focus: CMOC |
-| [Instance Management](https://gitlab.zendesk.com/agent/admin/views/360076285119) | 19 | Support Focus: Instance Management |
 | [Secure](https://gitlab.zendesk.com/agent/admin/views/360075979580) | 20 | Support Focus: Secure |
-| [Managing Group/Project](https://gitlab.zendesk.com/agent/admin/views/360076285179) | 21 | Support Focus: Managing Group / Project |
-| [GitLab Features](https://gitlab.zendesk.com/agent/admin/views/360075979680) | 22 | Support Focus: GitLab Features |
 | [Authentication/Authorization](https://gitlab.zendesk.com/agent/admin/views/360075979720) | 23 | Support Focus: Authentication and Authorization |
-| [CI/CD](https://gitlab.zendesk.com/agent/admin/views/360076285299) | 24 | Support Focus: CI/CD |
-| [Other](https://gitlab.zendesk.com/agent/admin/views/360075979760) | 25 | Support Focus: Other |
 | [All new with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 26 | Support Managers |
 | [All open with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 27 | Support Managers |
 | [Escalated/feedback tickets](https://gitlab.zendesk.com/agent/admin/views/360076456719) | 28 | Support Managers |
