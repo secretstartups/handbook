@@ -116,7 +116,7 @@ Please use this step if there are no issues created to capture the failure. If t
 1. In the relevant Slack channel, add the :boom: emoji and reply to the failure notification with a link to the issue.
 1. Add the issue as a related issue to the current pipeline triage report.
 
-#### Special consideration for Staging-Canary
+#### Special considerations for Staging-Canary
 
 `Staging-Canary` is unique when it comes to its blocking `smoke` and `reliable` tests that are triggered by the `deployer` pipeline. `Staging-Canary` executes `smoke/reliable` tests for both `Staging-Canary` AND `Staging` environments. This special configuration is designed to help catch issues that occur when incompatibilities arise between the shared and non-shared components of the environments.
 
@@ -130,11 +130,26 @@ Click on the diagram below to visit the announcement issue for more context and 
 
 Note the diagram has been upadted as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
 
-#### Special consideration for Preprod
+#### Special considerations for Preprod
 
 [`Preprod`](/handbook/engineering/infrastructure/environments/#pre) is used to perform validation of release candidates. Every month around the 22nd, and the few days before, it is essential that there are no unexpected failures in the pipeline that will delay the release. There is a pipeline scheduled to run prior to deployment of the release candidate, to give us a chance to identify and resolve any issues with tests or the test environment. This scheduled pipeline should be given equal priority with `Production` and `Staging` pipelines because of the potential impact failures can have on a release.
 
 Tests pipelines are also triggered by the [Kubernetes Workload configuration project](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) to ensure that any configuration changes are valid.
+
+#### Special considerations for Nightly
+
+[Omnibus nightly builds](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/pipeline_schedules) are paused at the start of a security release and enabled again once the release is complete.
+This can cause the nightly tests to either run against an outdated package or fail during the `ce:sanity-version` and `ee:sanity-version` jobs when mirroring is down.
+
+The `#quality` Slack channel should receive two notifications:
+1. An announcement from the release team when the security release has started.
+2. A notification from GitLab Chatops when the security release has been published.
+
+For other ways to check if there is an ongoing security release, you can visit the `#releases` Slack channel's `Next Security Release` bookmark, or [search the GitLab project's issues
+by the `~"upcoming security release"` label](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=upcoming%20security%20release&first_page_size=20). 
+
+Please note that a security release issue can sometimes be created before a release is in progress. 
+If you have any questions on the status, you can also reach out to the `@release-managers` in Slack. 
 
 ### Review the failure logs
 
@@ -225,7 +240,7 @@ STAGING=1 CP_ADMIN_TOKEN=<TOKEN> GL_ADMIN_TOKEN=<TOKEN> bundle exec rspec spec/u
 
 #### Tips for running tests locally
 
-- Use the environment variable `QA_DEBUG=true` to enable logging output including page actions and Git commands.
+- Use the environment variable `QA_LOG_LEVEL=debug` to enable additional logging output that includes page actions and Git commands.
 - Additional information about running tests locally can be found in the [QA readme](https://gitlab.com/gitlab-org/gitlab/tree/master/qa#running-specific-tests) and in the [instructions for running tests that require special setup](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/running_tests_that_require_special_setup.html#jenkins-spec).
 - To determine if the test is [flaky](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#whats-a-flaky-test), check the logs or run the test a few times. If it passes at least once but fails otherwise, it's flaky.
 
