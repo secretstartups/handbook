@@ -18,7 +18,7 @@ than the one used on the purchasing account.
 
 #### Note about license recipient
 
-Licenses and Cloud activation codes can be sent to the `Sold To` contact only ([open issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/648)). You must [update the Zuora Sold To contact](#zuora-contact-change-workflow) before resending it.
+Cloud activation codes can be sent to the `Sold To` contact only ([open issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/648)). You must [update the Zuora Sold To contact](#zuora-contact-change-workflow) before resending it.
 
 ## Ownership verification
 
