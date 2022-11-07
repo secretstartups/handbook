@@ -292,7 +292,7 @@ An example of these details in an issue can be found [here](https://gitlab.com/g
 
 Please be sure to wait for approval before you confirm, if possible. Review this [guidance on speaking about GitLab](https://docs.google.com/document/d/e/2PACX-1vRNsgwGb7uNxZs9EbA8eyIAdVifThEid-Wz8p62eJRi1JtIGlLrNREdOV2WQM0ASfK0TzGLY5qVnrGm/pub) before your engagement, and ask the Corporate Communications team if you have questions. (*This document is only viewable by GitLab team members.*)
 
-Once you have done this, please tag `@jessicareeder` in a comment with a note that includes `Seeking Approval`.
+Once you have done this, please share in the `#teamops` Slack channel.
 
 The team will be available to help direct if you feel unprepared, or pair the creator of the issue with someone else on the GitLab team if there's opportunity to add another layer of expertise (e.g. a DevOps expert, an HR expert, a Finance expert) depending on the company that's requesting.
 
@@ -490,23 +490,22 @@ Our scheduled asynchronous weeks in 2022 are:
 
 ### Meet the Strategy and Operations (Workplace) team
 
-[**Darren Murph**](/handbook/marketing/readmes/dmurph/)
+[**Darren Murph**](h/handbook/ceo/chief-of-staff-team/readmes/dmurph/)
 
 * Title: Head of Remote
 * GitLab handle: `dmurph`
 * Slack handle: `dmurph`
 
-[**Jessica Reeder**](/company/team/?department=marketing#jessicareeder)
+[**Laurel Farrer**](/handbook/ceo/chief-of-staff-team/readmes/lfarrer/)
 
-* Title: Senior Strategy and Operations Manager, Workplace
-* GitLab handle: `jessicareeder`
-* Slack handle: `jessicareeder`
+* Title: Principle Strategy and Operations: Workplace
+* GitLab handle: `lfarrer`
+* Slack handle: `lfarrer`
 
 
 ### Contact us
 
 - Slack: Find us in `#remote`, `#teamops`, and `#ceo-chief-of-staff-team`
-
 
 ----
 
