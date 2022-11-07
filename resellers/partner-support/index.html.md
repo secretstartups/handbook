@@ -33,10 +33,16 @@ This page is intended for Sales and Channel team members to review quick links a
 - Additional responsibilities to be documented
 
 ### Out of Scope
+_As part of the programs team, the Partner Help Desk team is not a part of the sales process, but works with partners to move throughout the partner program and increase their partner benefits._
 - Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
    - Please note that `@partner operations` is responsible for distributor quoting. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
 - SFDC opportunity record assistance (please chatter `@partner operations` on the record)
+- Pre- and post-sales support. The SA, sales, and support teams should be utilized for these needs. 
 - Billing account set-up (please chatter the partner account owner or `@billing ops`)
+- Channel Account Management and training
+   - The Partner Help Desk provides enablement tools, how-to guides, and support getting into GitLab’s partner systems. We answer questions and troubleshoot for partners and CAMs who may have questions via partnersupport@gitlab.com. One-on-one trainings and live portal walkthroughs are out of scope. For assistance with these, CAMs are encouraged to use the tools listed below.
+
+_For a more detailed explanation of the differences between the Partner Help Desk and Partner Operations, visit [Tagging Partner Operations or Partner Help Desk in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#tagging-partner-operations-or-partner-help-desk-in-salesforce)._
 
 ## How to contact us 
 The **#channel-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@partner help desk` on the record. 
