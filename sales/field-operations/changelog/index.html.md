@@ -14,6 +14,18 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q4-FY23
+
+### 2022-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/197))
+
+**Sales Ops: [Clari New Logo Forecasting Changes](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/#new-logo-override-for-clari)**
+
+**Sales Ops: [Account Ownership Rules of Engagement Updates](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/111511/diffs#note_1111460308)**
+
+**Sales Ops: [Content from Sales Handbook Definitions & Glossary Docs Moved to the Internal Handbook](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3156)**
+
+**Alliance Ops: [New Google Cloud Listing | GitLab Enterprise Edition Virtual Machine | Managed by Tackle.io](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/542)**
+
 ## Q3-FY23
 
 ### 2022-10-17 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/192))
