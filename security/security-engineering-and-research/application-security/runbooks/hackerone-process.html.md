@@ -46,7 +46,7 @@ be sure to get it reassigned if you won't be able to meet the estimated triage t
   1. Identify, triage, and [escalate any New severity::1/priority::1](./handling-s1p1.html) issues first, from any queue.
   1. Close duplicate and invalid reports.
   1. Triage further using Sort by "Oldest" reports.
-  1. Triage the `GitLab Team` queue first, then `New`.
+  1. Triage the `GitLab Team` queue.
 
   If a reporter has questions about the order of report responses, `06 - Duplicates/Invalid Reports Triaged First` common response may be used.
 - Review the validation performed by the HackerOne triage team
