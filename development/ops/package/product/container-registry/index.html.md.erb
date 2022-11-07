@@ -102,7 +102,7 @@ Documentation about the current architecture or any significant changes to it. T
 
 The registry exports metrics about all its components (HTTP API, storage, database and online GC) to Prometheus. These metrics are geared towards operational metrics only. Due to cardinality limitations in Prometheus, metrics that require variable labels such as repository and image identifiers are exposed through the application logs.
 
-For GitLab.com, the container registry has multiple dashboards in Grafana and Kibana, listed below. Like for any other GitLab application, observability is critical. Take your time to go through all dashboards and becoming familiar with their layout and functionalities.
+For GitLab.com, the container registry has multiple dashboards in Grafana and Kibana, listed below. Like for any other GitLab application, observability is critical. If you are working on this project, please take your time to go through all dashboards and becoming familiar with the metrics displayed in them.
 
 All the underlying metrics for the Grafana and Kibana dashboards are also available on self-managed installs.
 
@@ -116,6 +116,14 @@ All the underlying metrics for the Grafana and Kibana dashboards are also availa
 * [Redis Detail](https://dashboards.gitlab.net/d/registry-redis/registry-redis-detail?orgId=1) - Detailed metrics about Redis usage.
 * [Migration Detail](https://dashboards.gitlab.net/d/registry-migration/registry-registry-migration-detail?orgId=1) - Temporary dashboard to support the ongoing GitLab.com deployment and migration ([gitlab-org&5523](https://gitlab.com/groups/gitlab-org/-/epics/5523)).
 * [PgBouncer](https://dashboards.gitlab.net/d/pgbouncer-registry-main/pgbouncer-registry-overview) - Metrics for the PgBouncer nodes in front of the registry PostgreSQL database cluster.
+
+The source PromQL query for any graph in Grafana can be identified by looking at the corresponding dashboard source code in the [runbooks](https://gitlab.com/gitlab-com/runbooks/-/tree/master/dashboards/registry) project. You can also do so in the Grafana UI by clicking on the dropdown alongside a graph's name and click `Explore`. That will take you to a WYSIWYG editor for that particular query, showing both the PromQL source and the rendered graph. For a more advanced overview, you can watch a recording that walked through the process of creating and querying Prometheus metrics and Grafana dashboards for the [GitLab.com upgrade/migration](https://gitlab.com/groups/gitlab-org/-/epics/5523) project [here](https://drive.google.com/file/d/1WzAAiPYTK7YpKJTrBAFFYNhDksLV4x8c/view?usp=share_link).
+
+#### Thanos
+
+Behind the scenes, Grafana dashboards source Prometheus metrics from [Thanos](https://thanos-query.ops.gitlab.net/). If wanting to, you can reproduce any of the Grafana graphs in Thanos by inspecting their source query on the former and execute it in the latter. This might be useful when querying on long timespans, as Thanos is usually faster. You can also write custom queries for one time specific analysis and share the results with others by sharing screenshots and the Thanos page link.
+
+Thanos has an autocompletion feature which is useful to find available Prometheus metrics. For example, going to Thanos and typing `registry_` in the search box should show a dropdown of all available application metrics for the Container Registry. You can then use [PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/) to query and visualize these metrics.
 
 #### Kibana
 
@@ -138,6 +146,8 @@ Considering this, we strive to have deliverables merged in the project repositor
 ### GitLab.com
 
 Unlike the main Rails application, the Container Registry does not currently benefit from continuous delivery. Releases and deployments are, therefore, a manual process ([for now](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/316)). You can learn more about the process in the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases).
+
+You can identify the current version of the registry running in each environment by looking at the [k8s-workloads](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) project, and more precisely [here](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/blob/master/bases/environments.yaml), looking for the `registry_version` key. This is also the right project to look at to identify if any change occurred around a given time, not only for regular upgrades but also for any application configuration changes. This can be done by searching for [merged MRs with the label `Service::Container Registry`](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/merge_requests?scope=all&state=merged&label_name[]=Service%3A%3AContainer%20Registry).
 
 ### Self-Managed
 
