@@ -99,7 +99,7 @@ This method has been verified on Macs and Linux with Chrome. For Safari, it requ
 1. On the mobile device, scan the code using the Camera app
 1. On the mobile device, click "Sign in with a Passkey"
 1. On the mobile device, a "Sign in" popup appears - "Do you want to sign in to "gitlab.okta.com" with your saved passkey for "xxxxx@gitlab.com"? Click Continue and provide biometric.
-1. On the mobile device, you will now be signed in to Okta.
+1. On the computer, you will now be signed in to Okta.
 1. If applicable, follow the standard [steps](#i-want-to-add-touch-id--face-id-to-okta-for-my-mobile-device-iphone-android-tablet) to enroll your Touch ID into Okta.
 
 ### I don't have an enrolled phone or computer but have a YubiKey
