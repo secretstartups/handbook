@@ -30,7 +30,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY23 GTM
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership. Before investing any effort, it is the responsibility of the sales rep to confirm that an account listed as owned by them in SFDC is in fact in their territory.**
 
-**ROE for Banned Countries**: 
+### ROE for Banned Countries: 
 Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](https://about.gitlab.com/handbook/legal/trade-compliance/)
 1. Embargoed Accounts (Countries and Cities):
     - Account Address Country equals CU,IR,SS,SD,SY,KP OR [ZI] Country OR  [Admin] Address Country equals Crimea,Cuba,Iran,North Korea,Sudan,Syria
@@ -41,67 +41,93 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
     - The following Chatter comment will be added on the account: “Changed to Sales Admin [DO NOT CHATTER THIS USER] as this is located in an embargoed country and verified via our data enrichment tool(s).”  The existing owner and his or her manager will be tagged for awareness in the event that the account was assigned inadvertently.  SFDC topics of  “Embargoed Country” and “Visual Compliance Checks” will also be flagged on the account.
 
 
-**Understanding Account Assignment, Rules and Definitions**
+### Understanding Account Assignment, Rules and Definitions
 
-1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Account Demographics](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.thpuid9gpo74) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain Unknown until resolved through manual research and a link to a reputable data is provided to the Sales Operations team to confirm. Follow the process to request changes to the Account Demographics inputs if the account information is missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as SMB with a placeholder of -1 employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process below.
-1. **Qualifying Accounts:**
-    1. SALs/AEs are responsible for validating accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location. 
+#### Source of Data
 
-The following two policies apply to account ownership in the middle of the Fiscal year:
-        1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year. 
-            1. Upon discovery of inaccurate ZoomInfo data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAL/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. 
+The data sources used to properly segment and route an account are defined and explained in the [Account Demographics](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.thpuid9gpo74) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain Unknown until resolved through manual research and a link to a reputable data is provided to the Sales Operations team to confirm. Follow the process to request changes to the Account Demographics inputs if the account information is missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as SMB with a placeholder of -1 employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process below.
 
-        1. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the new owner. (ii) Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAL/AE should remain with the existing SAL/AE through the end of the FY.
+#### Qualifying Accounts
 
-Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action. 
+- SALs/AEs are responsible for validating accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location. 
 
-    1. If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAL/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. The transferring SAL/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience. 
-    1. In the event a SAL/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-    1. SALs/AEs are not permitted to sell into accounts they do not own in SFDC.  
     
 
-1. **Account Ownership:** 
-    1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
-        1. Field Sales Management temporarily covering an account
-        1. Sales Admin - ownership is temporary while our data enrichment tools determine the correct Sales member
-        1. Non-Sales members who own "test" or "junk" accounts 
-    1. Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Holdover` or `Holding Company`. 
-1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
-1. **Named Account:** An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC.  Named accounts will be reviewed annually to determine if they should be moved to the Global Account Owner at that time or remain Named. 
-1. **Key Account:** An account that has been identified as important for the Area, Region and Segment and where we want to focus our sales efforts. Key Accounts may also be marked as Named Accounts. Each Strategic Account Leader should have 15-20 Key Accounts on average in their territory.  Key Accounts are identified at the beginning of the fiscal year by the ASM, RD or VP of the specific region and will be reviewed annually. Any changes to the Key Accounts list would need to be reviewed and approved by ASM, RD and VP of the region. The 'Key Account' field will be checked for these accounts.
-1. **Public Sector Account:** An account that is identified as Public Sector Worldwide. Once identified, the assignment of these accounts will be according to the Government Rules of Engagement  (Point 10 below). 
+#### Account Ownership: 
 
-1. **Commercial Accounts:** Mid-Market accounts are covered by three Sales motions: First Order (New Business) accounts, Named accounts, and Territory accounts:
-    - **First Order Accounts:** Targeted high-potential prospect accounts, assigned to First Order Account Executives until the initial transaction is closed.
-        - **Criteria:** Account hierarchies with no active subscription (now or within the last 180 days), and 500+ Employees.
-    - **Named Accounts:** High potential accounts with an active subscription, that we're looking to expand with dedicated sales resources. These accounts are nominated through both quantitative & qualitative analysis in Annual Planning for their growth potential. In addition, all `First Order` accounts will be passed over as a `Named Account` once an initial deal is closed won. It's important this transition occurs in a timely manner after initial deal closure, to start business expansion efforts ASAP.
-    - **Territory Accounts:** All remaining Mid-Market accounts are considered Territory Accounts and will be worked by the Territory AE. This includes Prospects (100-499 employees), and Customers not marked as a Named Account.
-1. **Override Hierarchy Routing:** An account that is owned by a local account rep regardless of the Global Account Leader. These accounts are identified by the Override Hierarchy Routing check box on the account.  We must have agreement from both ASMs via SFDC Chatter in order to move an account to a different owner than the Global Account rep. Split hierarchies will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
+Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
+1. Field Sales Management temporarily covering an account
+1. Sales Admin - ownership is temporary while our data enrichment tools determine the correct Sales member
+1. Non-Sales members who own "test" or "junk" accounts 
 
-   1. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
+Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Holdover` or `Holding Company`. 
 
-1. **Holdover Accounts:** An account that is being held by a Sales Rep that has been promoted or moved to a new territory. Holdover accounts will be marked using the Holdover Expiration date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as Named and must have manager approval from both the current manager and the global account rep’s manager.
+**The following two policies apply to account ownership in the middle of the Fiscal year:**
 
-1. **Stand-alone Child Account:** An account that clearly has their own buying authority and purchasing process.
-    1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
-    1. **Joint Venture**:A business entity created by two or more parties, generally characterized by shared ownership, shall be considered as a stand-alone entity. As such, they will not be parented, and segmentation will be based on the employee count of this particular account.
-    1. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
+1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year. 
+    - Upon discovery of inaccurate ZoomInfo data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAL/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. 
+2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the new owner. (ii) Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAL/AE should remain with the existing SAL/AE through the end of the FY.
 
-        1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
-        1. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
-            1. **APAC:** All countries covered by Enterprise.
-            1. **EMEA:**
-               - **Covered by Enterprise:**
-                   1. UK and Ireland
-                   1. Benelux
-                   1. Nordics
-                   1. Germany
-                   1. France
-                   1. Italy
-                   1. Spain
-                   1. Saudi Arabia
-                   1. Israel
-               - **Any other country in EMEA not listed above is covered by Commercial**, including:
+**Important Notes**
+- Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action.
+- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAL/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. The transferring SAL/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience. 
+- In the event a SAL/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
+- SALs/AEs are not permitted to sell into accounts they do not own in SFDC.  
+
+#### Parent/Child Segmentation:
+
+All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
+
+### Named Account
+
+An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC.  Named accounts will be reviewed annually to determine if they should be moved to the Global Account Owner at that time or remain Named. 
+
+#### Key Account
+
+An account that has been identified as important for the Area, Region and Segment and where we want to focus our sales efforts. Key Accounts may also be marked as Named Accounts. Each Strategic Account Leader should have 15-20 Key Accounts on average in their territory.  Key Accounts are identified at the beginning of the fiscal year by the ASM, RD or VP of the specific region and will be reviewed annually. Any changes to the Key Accounts list would need to be reviewed and approved by ASM, RD and VP of the region. The 'Key Account' field will be checked for these accounts.
+
+#### Public Sector Account: 
+
+An account that is identified as Public Sector Worldwide. Once identified, the assignment of these accounts will be according to the Government Rules of Engagement. 
+
+#### Commercial Accounts:
+
+Mid-Market accounts are covered by three Sales motions: First Order (New Business) accounts, Named accounts, and Territory accounts:
+- **First Order Accounts:** Targeted high-potential prospect accounts, assigned to First Order Account Executives until the initial transaction is closed.
+    - **Criteria:** Account hierarchies with no active subscription (now or within the last 180 days), and 500+ Employees.
+- **Named Accounts:** High potential accounts with an active subscription, that we're looking to expand with dedicated sales resources. These accounts are nominated through both quantitative & qualitative analysis in Annual Planning for their growth potential. In addition, all `First Order` accounts will be passed over as a `Named Account` once an initial deal is closed won. It's important this transition occurs in a timely manner after initial deal closure, to start business expansion efforts ASAP.
+- **Territory Accounts:** All remaining Mid-Market accounts are considered Territory Accounts and will be worked by the Territory AE. This includes Prospects (100-499 employees), and Customers not marked as a Named Account.
+
+#### Override Hierarchy Routing:
+
+An account that is owned by a local account rep regardless of the Global Account Leader. These accounts are identified by the Override Hierarchy Routing check box on the account.  We must have agreement from both ASMs via SFDC Chatter in order to move an account to a different owner than the Global Account rep. Split hierarchies will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
+     - **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
+
+#### Holdover Accounts:
+
+An account that is being held by a Sales Rep that has been promoted or moved to a new territory. Holdover accounts will be marked using the Holdover Expiration date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as Named and must have manager approval from both the current manager and the global account rep’s manager.
+
+#### Stand-alone Child Account:
+
+An account that clearly has their own buying authority and purchasing process.
+1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
+2. **Joint Venture**:A business entity created by two or more parties, generally characterized by shared ownership, shall be considered as a stand-alone entity. As such, they will not be parented, and segmentation will be based on the employee count of this particular account.
+3. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
+    1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
+    2. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
+        1. **APAC:** All countries covered by Enterprise.
+        2. **EMEA:**
+            - **Covered by Enterprise:**
+                1. UK and Ireland
+                1. Benelux
+                1. Nordics
+                1. Germany
+                1. France
+                1. Italy
+                1. Spain
+                1. Saudi Arabia
+                1. Israel
+            - **Any other country in EMEA not listed above is covered by Commercial**, including:
                 1. CIS (incl. Russian Federation)
                 1. CEE
                 1. Baltics
@@ -114,61 +140,83 @@ Non-compliance to these policies goes against the GitLab values and it will be u
                 1. Portugal
                 1. Turkey
                 1. Middle East
-            1. **AMER:** 
-               - **Covered by Enterprise:**
-                  1. Canada
-                  1. Brazil
-                  1. Mexico
-               - **Any other country in AMER not listed above is covered by Commercial** (Excl. United States)  
+        2. **AMER:** 
+            - **Covered by Enterprise:**
+                1. Canada
+                1. Brazil
+                1. Mexico
+            - **Any other country in AMER not listed above is covered by Commercial** (Excl. United States)  
                
             
-    1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
-1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change. Timing on when the account will move will follow the escalation process since there is a potential it could affect CSM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters. Accounts marked as Named or Key Accounts at the beginning of the year, will remain with the current account owner for the fiscal year.
+#### Franchises or Consultants  - Child Accounts:
 
-1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Only Sales Operations has the ability to create new accounts because they must be parented and processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the Steps to create an issue for an account list import. To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project.
-Sales Admin Owned Accounts: When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
-For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process
-For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner.
-If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.
+Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
+
+#### Newly Updated Accounts
+
+Accounts that have had employee count and/or address information updated that would require a region or segment change. Timing on when the account will move will follow the escalation process since there is a potential it could affect CSM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters. Accounts marked as Named or Key Accounts at the beginning of the year, will remain with the current account owner for the fiscal year.
+
+#### Net New Accounts 
+
+Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Only Sales Operations has the ability to create new accounts because they must be parented and processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the Steps to create an issue for an account list import. To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project.
+
+**Sales Admin Owned Accounts**: When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
+     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process
+     - For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner.
+     - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.
+
 All Embargoed Accounts will remain in Sales Admin per ROE for Banned Countries
 
-1. **Community Programs (OSS/EDU/Startups) Accounts**: For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAL) member. However, the relevant Community Program DRI will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called Community Program Owner.
-1. **Field Permissions**: In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations: Account Owner, Named Account, Key Account, Holdover Expiration Date along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
-**Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
+#### Community Programs (OSS/EDU/Startups) Accounts
 
-**Step 1- Sales Process:**  Requirements prior to requesting an account transfer
+For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAL) member. However, the relevant Community Program DRI will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called Community Program Owner.
 
-1. **Spirit of Collaboration:** All requests and or actions must adhere to the [GitLab Value of “Collaboration”](https://about.gitlab.com/handbook/values/#collaboration) and proactively communicate the inquiry and/or intent to **_all parties affected._**
-1. **Indisputable:** Requestor must provide evidence with supporting links.
-1. **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
-1. **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
-1. **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work)
-   1. First week of Q2 (reactive) moves: Requests that come from the field
-   1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
-   1. First week of Q4 (reactive) moves: Requests that come from the field
-   1. First week of Q1 no moves, FY planning will address moves   
+#### Field Permissions
 
- **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
+In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations: Account Owner, Named Account, Key Account, Holdover Expiration Date along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 
-1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move.If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-1. **Sales Operations Immediate and Quarterly Account Review Process** 
-   1. Accounts that can be moved immediately by Sales Operations: 
-       1. Public Sector accounts owned by non-Public Sector AEs/SALs 
-       1. Non-Public Sector accounts owned by Public Sector SALs
-       1. EDU/OSS/Startups accounts owned by a Community Programs team member 
-       1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
-       1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
-       1. First Order Accounts owned by the Mid-Market or SMB First Order team that have an initial Closed Won opportunity. These Accounts should be transitioned as Named Accounts to the corresponding Account Executive as indicated in the Proposed Account Owner field.  
-       1. Accounts owned by SDRs, Sales Administrator or any other non sales role
-   1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
-       1. Prospects with open opportunities
-       1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
-1. **Holdover Accounts** 
+#### Exception Process to Request Account Ownership Change:
+
+_Any request to transfer an account for any reason must follow the outlined exception process and timeline._
+
+<details>
+<summary markdown="span">Steps to Request Account Ownership Changes</summary>
+
+1. **Step 1- Sales Process:**  Requirements prior to requesting an account transfer
+     - **Spirit of Collaboration:** All requests and or actions must adhere to the [GitLab Value of “Collaboration”](https://about.gitlab.com/handbook/values/#collaboration) and proactively communicate the inquiry and/or intent to **_all parties affected._**
+     - **Indisputable:** Requestor must provide evidence with supporting links.
+     - **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
+     - **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
+     - **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work)
+          1. First week of Q2 (reactive) moves: Requests that come from the field
+          1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
+          1. First week of Q4 (reactive) moves: Requests that come from the field
+          1. First week of Q1 no moves, FY planning will address moves   
+2. **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
+     - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales    Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move.If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+     - **Sales Operations Immediate and Quarterly Account Review Process** 
+             1. Accounts that can be moved immediately by Sales Operations: 
+                 1. Public Sector accounts owned by non-Public Sector AEs/SALs 
+                 1. Non-Public Sector accounts owned by Public Sector SALs
+                 1. EDU/OSS/Startups accounts owned by a Community Programs team member 
+                 1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
+                 1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
+                 1. First Order Accounts owned by the Mid-Market or SMB First Order team that have an initial Closed Won opportunity. These Accounts should be transitioned as Named Accounts to the corresponding Account Executive as indicated in the Proposed Account Owner field.  
+                 1. Accounts owned by SDRs, Sales Administrator or any other non sales role
+             2. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
+                 1. Prospects with open opportunities
+                 1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
+
+</details>
+
+#### Holdover Accounts
+
 Requested holdover accounts will have the expriation date and next approved owner populated 90 days from date of approval from all parties.These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `Proposed Account Owner`
-   1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
+1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `Proposed Account Owner`
+2. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
-1. **Annual Account  Review Process**
+#### Annual Account  Review Process
+
 Accounts will be reviewed annually prior to the Fiscal Year planning process and territory carving.
 
 
