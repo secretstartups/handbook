@@ -153,8 +153,8 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 | :---: | :---:  | :---: | :---: |
 | FY23Q1 | 0 | 0 | 0 |
 | [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 0 | 0 | 0 |
-| FY23Q3 | TBD | TBD | TBD |
-| FY23Q4 | TBD | TBD | TBD |
+| FY23Q3 | 0 | 0 | 0 |
+| FY23Q4 | 1 | 1 | 0 |
 
 #### Requirements
 
