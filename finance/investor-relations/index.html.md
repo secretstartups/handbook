@@ -16,7 +16,7 @@ The page you are on now the handbook that describes internal processes around in
 
 ## Quarterly Earnings Process:
 
-As a public company we share financial results publicly after the close of each fiscal quarter or fiscal year. For Q1-FY23, this happened six weeks after the close of the quarter, on June 6, 2022 at 1:30pm PST. The key deliverables for each earnings cycle are:
+As a public company we share financial results publicly after the close of each fiscal quarter or fiscal year. For Q2-FY23, this happened six weeks after the close of the quarter, on September 7, 2022 at 1:30pm PST. The key deliverables for each earnings cycle are:
 
 * Earnings press release summarizing business & financial results, providing guidance
 * Earnings call with prepared remarks by CEO and CFO followed by Q&A with sellside analysts
@@ -35,7 +35,7 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 
 * CEO, CFO, and IR will participate in the sell side research analyst callbacks, starting shortly after the regular earnings webcast concludes.  These will be 20 minutes in duration
 * CEO, CFO, and IR will also participate in buy side callbacks the following day with the largest institutional shareholders.  These will be 25 minutes in duration
-* CFO will schedule blocks of time over the next several weeks to allow for at least 80 additional buy side callbacks before the company enters its quiet period, which occurs after the 15th day of the third month of the quarter
+* CFO will schedule blocks of time over the next several weeks to allow for at least 80 additional buy side callbacks.  After the 15th day of the thrird month of the quarter, GitLab will not be conducting individual meetings with investors until the next public earnings release.
 * Each callback will have an internal document that captures the questions and the prior dialogue with the investor
 
 
