@@ -152,7 +152,7 @@ A given week should be considered open for shadowing unless it is listed below.
 | 11/14/2022 | [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
 | 11/21/2022 | Shadowing not available this week | N/A |
 | 11/28/2022 | Shadowing not available this week | N/A |
-| 12/5/2022 | Available | |
+| 12/5/2022 | [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) | 
 | 12/12/2022 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | 12/19/2022 | Shadowing not available this week | N/A |
 | 12/26/2022 | Shadowing not available this week | N/A |
