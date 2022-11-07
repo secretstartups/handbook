@@ -420,7 +420,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
 
 ### Adding/Removing Team Members from Help@Hand
 
-1. Pull a New Hire and Term Report from BambooHR
+1. Pull a the UK Help@Hand Report from Workday
 1. Log on to the Emloyer Help@Hand Platform
 1. To add joiners, select "Add Employees" > "Import Employees" > Include new hire emails in CSV file and upload to the portal.
 1. To remove leavers select "De-register Employees" > "Import Employees", include leaver's emails in CSV file and upload to portal
