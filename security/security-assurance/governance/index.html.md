@@ -28,7 +28,7 @@ Measuring performance effectiveness of our security controls, against a plan to 
 
 ### Regulatory and compliance landscape monitoring
 
-As the world of regulatory compliance is always evolving and GitLab is growing, it is important to continue monitoring for changes, updating existing controls and implementing new regulations as needed helps to improve the security of GitLab.
+To support GitLab's regulatory and compliance requirements, the Security Governance team conducts **quarterly** monitoring for changes to such requirements. Material changes are reported to relevant team members for triage and action.
 
 ### GCF Control Maintenance
 
