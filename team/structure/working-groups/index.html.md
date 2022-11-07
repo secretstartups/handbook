@@ -146,6 +146,7 @@ If you are interested in participating in an active working group, it is general
 * [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
 * [Revenue Globalization](/company/team/structure/working-groups/globalization/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
+* [Leading Organizations](/company/team/structure/working-groups/leading-organizations/)
 * [Learning Experience](/company/team/structure/working-groups/learning-experience/)
 * [Maintainership](/company/team/structure/working-groups/maintainership/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
