@@ -14,7 +14,7 @@ description: "Endpoint Detection and Response: EDR, endpoint security, anti-viru
 # Endpoint Detection & Response Technology
 
 ## Overview
-With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS and Windows devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. At this time, the agent is not required to be installed on Linux endpoints. The use of a Windows endpoint requires a specfic business reason and an approved exception as the [use of a Windows endpoint is prohibited](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
+With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS, Windows and Linux devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. The use of a Windows endpoint requires a specfic business reason and an approved exception as the [use of a Windows endpoint is prohibited](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
 
 ### What is Endpoint Detection and Response (EDR)?
 
@@ -30,7 +30,7 @@ GitLab is a growing global company and as such we are required to meet complianc
 Equally important is the security and privacy of our team members and their laptops. As GitLab continues to grow, we are increasing the likelihood that we will be targeted by malicious attackers. We want to ensure we have a way to protect team members and their laptops whether they are at home, on the road, or at the coffee shop down the street.
 
 ### How to get help with SentinelOne
-If you need help with the SentinelOne agent on your endpoint please reach out to the Information Technology team in the [#it-help](https://join.slack.com/share/zt-pq971lw7-mj0nOlsSIwUkvYloz3u85g) Slack channel. If you have security concerns please reach out to the Security team in the [#security](https://join.slack.com/share/zt-pzvju0ok-Z5mjT~FlPuRJZICPE38STg) Slack channel.
+If you need help with the SentinelOne agent on your endpoint please reach out to in the #sentinelone Slack channel. If you have security concerns please reach out to the Security team in the #security Slack channel.
 
 ### Exception request process
 If SentinelOne is causing issues with your ability to fulfill the responsibilities of your role, you may request an exception to be granted using the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process). Exceptions will be granted based on the goal of least needs, attempting to maximize effectiveness, efficiency, and security risk mitigation of SentinelOne while minimizing the negative impact on the team member. For this reason, rarely will an exception be granted to completely disable SentinelOne. Rather, an exception will be granted for specific directory paths, specific applications, or specific collections of data that SentinelOne may be negatively impacting through quarantine or system performance degradation. 
@@ -79,7 +79,7 @@ While this effort is certainly appreciated, we need a way to be able to audit la
 
 ### Who owns and manages the EDR solution at GitLab?
 
-Jointly, the Security Department and Business Operations will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [Business Operations](https://about.gitlab.com/handbook/business-ops/) will handle the deployment of agents (via JAMF), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership. The Security DRI is Laurence Bierner and the Business Operations DRI is Peter Kaldis as he is heading up the [endpoint management](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) effort. The executive sponsor for the effort is Johnathan Hunt.
+Jointly, the Security Department and Business Operations will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [Business Operations](https://about.gitlab.com/handbook/business-ops/) will handle the deployment of agents (via Jamf), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership. 
 
 ### What safeguards are in place to ensure that owners of this process can prevent abuse?
 
@@ -94,7 +94,7 @@ That being said, the EDR solution provides the ability to audit any processes an
 
 ### What options does a team member have to protect their home network privacy?
 
-If you wish to add further privacy and security to your home network, you can further isolate your work machine by creating a separate network for it. While we cannot provide you with any direct support for this type of network setup, the Security team have a good writeup with some examples [here](https://about.gitlab.com/handbook/security/network-isolation/) that might help to get you started.
+If you wish to add further privacy and security to your home network, you can further isolate your work machine by creating a separate network for it. While we cannot provide you with any direct support for this type of network setup, the Security team has a good writeup with some [examples](https://about.gitlab.com/handbook/security/network-isolation/) that might help to get you started.
 
 ### How do I install the SentinelOne agent on Linux?
 
@@ -103,7 +103,7 @@ Pre-requisite: If you are using Advanced Intrusion Detection Environment (AIDE) 
 To resolve, in AIDE, create an exclusion for SentinelOne:
 Edit /etc/aide.conf and add the following line to the end to ignore the SentinelOne Agent mount directory: `!/opt/sentinelone/mount`
 
-1. Download the configuration file and appropriate installer (DEB/RPM) - ([link](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) or via Slack channel: #sentinelone)
+1. [Download](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) the configuration file and appropriate installer (DEB/RPM)
 1. Get your laptop serial number - one method is `sudo dmidecode -s system-serial-number` 
 1. Edit the `config.cfg file and update `S1_AGENT_CUSTOMER_ID`.
 
@@ -118,4 +118,4 @@ Note: If you are not running as root, use the sudo command to define the absolut
 1. If you use the DEB package as root, run: `dpkg -i package_pathname`  
 Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
 `sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" dpkg -i package_pathname`
-1. Verify connectivity with `sentinelctl management status` and look for `Connectivity: On` and a valid sentinelone URL. If this is not your result, reach out for assisstance in the #sentinelone channel.
+1. Verify connectivity with `sentinelctl management status` and look for `Connectivity: On` and a valid SentinelOne URL. If this is not your result, reach out for assisstance in the #sentinelone channel.
