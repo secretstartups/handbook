@@ -158,6 +158,6 @@ A given week should be considered open for shadowing unless it is listed below.
 | 12/26/2022 | Shadowing not available this week | N/A |
 | 1/2/2023 | Available | |
 | 1/9/2023 | Available | |
-| 1/16/2023 | Available | |
+| 1/16/2023 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
 | 1/30/2023 | Available | |
 
