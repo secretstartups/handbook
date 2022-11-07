@@ -87,6 +87,7 @@ Just because something is available for free on the internet (including on Googl
 
 * Use visual content depicting children.
 * Use images which prominently feature a logo, famous building or structure, or well-known person, even if obtained from Unsplash or a stock house. Such images are likely subject to restrictions by virtue of their subject, irrespective of the license covering the content itself.
+* Use gifs from GIPHY.com, as the content on that site is solely for personal and non-commercial purposes. 
 
 ### AI-generated images
 
