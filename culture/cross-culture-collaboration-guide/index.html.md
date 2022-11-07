@@ -78,7 +78,7 @@ Listen to the panel discussion on cross-cultural communication below hosted on 2
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/XS4H_hVLF7o" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/XS4H_hVLF7o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
