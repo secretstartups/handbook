@@ -21,6 +21,10 @@ Security Assurance Automation Engineers are a critical dedicated resource that e
 
 Security Governance maintains an internal [Security Assurance Automation project](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation) that is dedicated to the intake of Security Assurance related automation requests. As these requests are received, Security Assurance Automation Engineers triage and prioritize the requests. Once requests have been prioritized, an Epic is opened at the GitLab Security Department sub-group level. All work related to the automation request is tracked in its associated Epic.
 
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Open a Security Assurance Automation Request</a>
+</div>
+
 #### Why do you use Epics at the GitLab Security Department sub-group level?
 
 This process allows all automation engineers across the Security Division to maintain visibility of all in-flight automation work. The use of Epics and the increased visibility also streamlines the process of requesting resources from our [Security Automation](/handbook/security/security-engineering-and-research/automation/) team if necessary.
