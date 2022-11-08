@@ -509,16 +509,43 @@ The extracts we do for some [yaml files](https://gitlab.com/gitlab-data/analytic
 
 ### Backups
 
+The scope of data backups at Data Platform level is to ensure data continuity and availability for reporting and analytics purposes. In case of an unforeseen circumstance happening with our data in Snowflake or with our Snowflake platform, the GitLab data team is able to recover and restore data to the desired state. In our backup policy we tried to find a balance between the risk of an unforeseen event and the impact of the mitigated solution.
+
+Note: the (Snowflake) Data Platform doesn't act as a data archival solution for upstream source systems i.e. for compliance reasons. The Data Platform relies on data that was and is made available in upstream source systems.
+
+#### Unforeseen circumstances
+We've identified currently 2 types of unforeseen circumstances:
+
+- Incorrect events happening inside the data platform.
+- Unavailability of the Snowflake environment.
+
+##### Incorrect events happening inside the data platform
+
+This can be data manipulation action done by a GitLab Team member or by services with access to the data in Snowflake. Some examples are accidentally dropping/truncating a table or running incorrect logic in a transformation.
+
 The vast majority of data in snowflake is copied or derived from copies of our [data sources](/handbook/business-technology/data-team/platform/#data-sources), which is all managed [idempotently](https://docs.getdbt.com/terms/idempotent) with **dbt** and so the most common procedure for data restoration or recovery is through recreating or refreshing objects using [dbt Full Refresh](/handbook/business-technology/data-team/platform/infrastructure/#dbt-full-refresh). For data in the `RAW` database, which comes from our extraction [pipelines](/handbook/business-technology/data-team/platform/pipelines/) we follow the appropriate [Data refresh procedure](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#data-refresh).
 
-However, there are some exceptions to this. Any data in snowflake which is not a result of idempotent processes or that cannot be refreshed in a practical amount of time should be stored in permanent (not transient) tables and [given a data retention period](https://docs.snowflake.com/en/user-guide/data-time-travel.html#specifying-the-data-retention-period-for-an-object) of at least 30 days using a [dbt post-hook](https://gitlab.com/gitlab-data/analytics/-/blob/b898087672bfeb3e6329d76696de220fc4b9b2a9/transform/snowflake-dbt/dbt_project.yml#L658) or otherwise implemented in a way that is actively supported. This allows us to use [Time Travel](https://gitlab.com/gitlab-data/runbooks/-/blob/main/data_restoration/time_travel.md) in the event we need to recover one of these tables. 
+However, there are some exceptions to this. Any data in snowflake which is not a result of idempotent processes or that cannot be refreshed in a practical amount of time should be backed up. For this we use Snowflake Time travel. Which includes:
+1. Storage in permanent (not transient) tables. 
+1. [A data retention period](https://docs.snowflake.com/en/user-guide/data-time-travel.html#specifying-the-data-retention-period-for-an-object) of 30 days. 
 
-**If any such non-idempotent or difficult-to-refresh data is stored in snowflake it is the responsibility of the [CODEOWNER](https://gitlab.com/gitlab-data/analytics/-/blob/master/CODEOWNERS) to ensure that the the backup processes has been correctly implemented.**
+The data retention period is set via dbt This should be implemented in code via a dbt post-hook [example](https://gitlab.com/gitlab-data/analytics/-/blob/b898087672bfeb3e6329d76696de220fc4b9b2a9/transform/snowflake-dbt/dbt_project.yml#L658).
+
+The following set of rules and guidelines applies to backing up data/using time travel:
+- **It is the responsibility of the [CODEOWNER](https://gitlab.com/gitlab-data/analytics/-/blob/master/CODEOWNERS) to ensure that the the backup processes has been correctly implemented for the data that their code builds or maintains.**
+- Backups (via Time Travel)  need not be applied on dbt models by [default](https://docs.getdbt.com/reference/resource-configs/snowflake-configs#transient-tables) since these are idempotent **and** this would result in a huge increase of the storage costs in Snowflake. 
+- The retention period is set to 30 days. 
 
 At the moment the following snowflake objects are considered in scope for Time Travel recovery:
 - `RAW.SNAPSHOTS.*`
 
-For an extra layer of robustness, especially in the unlikely event that Snowflake becomes unavailable, we backup data from the warehouse into GCS (Google Cloud Storage). We execute the jobs using dbt's [`run-operation`](https://docs.getdbt.com/docs/using-operations) capabilities. Currently, we backup all of our snapshots daily and retain them for a period of 60 days (per GCS retention policy). If a table should be added to this GCS backup procedure it should be added via the [backup manifest](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/general/backup_manifest.yaml).
+
+Once a table is permanent with a retention period we are able to use [Time Travel (internal runbook)](https://gitlab.com/gitlab-data/runbooks/-/blob/main/data_restoration/time_travel.md) in the event we need to recover one of these tables. 
+
+
+##### Unavailability of the Snowflake environment
+
+For the unlikely event that Snowflake becomes unavailable for an undetermined amount of time, we additionally backup the any business critical data, where Snowflake is the primary source, to Google Cloud Storage (GCS). We execute these backup jobs using dbt's [`run-operation`](https://docs.getdbt.com/docs/using-operations) capabilities. Currently, we backup all of our **snapshots** daily and retain them for a period of 60 days (per GCS retention policy). If a table should be added to this GCS backup procedure it should be added via the [backup manifest](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/general/backup_manifest.yaml).
 
 ### Admin
 
