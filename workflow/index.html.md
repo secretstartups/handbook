@@ -91,17 +91,21 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
    * The `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
 1. Identification
    * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
-   * If this incident is due to non-flaky reasons, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
+   * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
-   * If you identified that `master` fails for a flaky reason that cannot be reliably reproduced, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
+      * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
+   * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job), create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       * Create a new Timeline event in the incident with a link to the created issue.
+   * Add the stacktrace of the error to the incident, as well as Capybara screenshots if available in the job artifacts.
+     * To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
    * Identify the merge request that introduced the failures. There are a few possible approaches to try:
       * Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
       * [Look at the project activity](https://gitlab.com/gitlab-org/gitlab/activity), and search for keywords in the recent merged events.
       * [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
         * You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
       * Look at the spec file history or blame views, by clicking respectively the `History` or `Blame` button at the top of a file in the file explorer, e.g. at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/backup.rb>.
-    * If you identified a merge request, assign the incident to its author if they are available at the moment. Otherwise, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
+    * If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel. 
+      * You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
     * If no merge request was identified, ask for assistance in the `#development` Slack channel.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
