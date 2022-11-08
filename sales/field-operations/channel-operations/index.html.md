@@ -407,7 +407,7 @@ Partner Sourced Deal Registrations for MSP opportunities reward partners for man
  
 A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. _Please note that the steps for an MSP opportunity differ from the steps for a resale opportunity._
  
-To process a Partner Sourced Deal Registration for an MSP opportunity, follow the steps below:
+To process a Partner Sourced Deal Registration for an MSP opportunity, Channel Account Manager should follow the steps below:
  
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
 2. Check to make sure that the Partner Sourced Deal Registration type says MSP.
@@ -421,14 +421,12 @@ To process a Partner Sourced Deal Registration for an MSP opportunity, follow th
    ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
    ![8-Approve_Deny_Details.png](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
-   - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
+   - Distributor field should be left blank as MSP opportunities are direct between MSP partner and GitLab.
    - Both the registration record and the opportunity record will be updated with the approval information.
-6. Manually change the `Account Name`field to the partner name. This should **not** be the name of the customer.
-7. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the correct Sales Rep that owns the end-user account, even though the opportunity is created under the Partner MSP account.
-8. **When creating a quote for an MSP opportunity, select the MSP quote template**
-  - **Invoice owner**: The MSP Partner (same as DR-Partner referenced above).
-  - **Special Terms and Notes**: Name of the End-user Customer (the MSP owns the licenses on behalf of).
-9. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.  
+6. Manually change the `Account Name` field to the partner account. This should **not** be the customer account.
+7. If you created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the correct Sales Rep that owns the end-user account, even though the opportunity is created under the MSP partner account.
+8. Connect the GitLab Sales Rep to the MSP Partner Rep so they can discuss and align on opportunity and quote details.
+9. Provide [Deal Desk MSP quoting](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#msp-quotes) and [internal Partner Program discounting](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) guideline links to the GitLab Sales Rep so they have the details necessary to create a quote.
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
