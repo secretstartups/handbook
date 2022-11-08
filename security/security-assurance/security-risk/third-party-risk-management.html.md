@@ -206,6 +206,15 @@ Generally, a third party's SOC 2 report, ISO 27001 certification, Standard Infor
 
 Third party integrations with GitLab's current [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) are also subject to a TPRM assessment process for instances where an integration that is provided by a vendor has not gone through the [standard TPRM Procedure](#procedure). The Team Member Enablement team will not enable third party integrations prior to an assessment being completed as mentioned on the [App Integrations](/handbook/business-technology/team-member-enablement/app-integrations/) handbook page. Details on the level of review performed for this type of request are available in the [Reviewing App Integration Requests runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/Runbooks/reviewing-app-integration-requests.md).
 
+#### Independent Contractors
+Independent Contractors requiring access to Orange or Red data in the provision of services must be vetted by Security prior to being granted system access. The below items are required prior to granting Security approval:
+- Evidence of completed background check
+    - This helps ensure that personnel with criminal backgrounds that may pose a threat to GitLab assets, customer relationships, and sensitive information are identified. More information on the background screening process can be found [here](https://about.gitlab.com/handbook/people-policies/#background-screenings).
+- GitLab Laptop Request Issue OR Assignment of VDI Environment Access
+    - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf.
+
+_Please note the above guidance applies to Independent Contractors that are not sourced through an approved contracting agency. Contracting agencies are assessed via the full vendor security review process detailed earlier in this page._
+
 #### Independent Assessments
 
 Want to vet a third party before contract renewals hit Coupa? Would you like to obtain approval for software/services we may purchase at a later date? [Click here to open a new Third Party Risk Assessment](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new#).
