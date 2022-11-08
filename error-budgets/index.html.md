@@ -171,6 +171,14 @@ Error budget events are attributed to stage groups via [feature categorization](
 
 Updates to feature categories only change how future events are mapped to stage groups. Previously reported events will not be retroactively updated and will continue to count against stage group error budgets.
 
+### Error budgets for new groups
+
+When a group gets created, or an existing group gets split. The group is added to the [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). In that merge request, the new group will get assinged new or existing feature categories.
+
+This will get updated in our recording infrastructure the following week when Scalability gets an automated issue for this to update the metrics catalog. When that change is merged, the metrics for the relevant feature categories will get attributed to the new stage group. Similar to how the attribution is changed, the change is not retroactive. This means that if a change for an existing feature category was merged on the 15th, a certain feature category will contribute to the error budget of the first group for the metrics emitted from the 1st to the 15th. The metrics from the 15th on will be for the error budget for the new group.
+
+The same goes for group renames or stage moves: if a group rename was merged on the 15th, the 28 day report will include 15 days of data for the group's old name, while the last days will be attributed to the group with the new name.
+
 ### Contract
 
 All feature categories are expected to perform within their Error Budget regardless of traffic share. This ensures a consistent approach to prioritization of reliability concerns.
