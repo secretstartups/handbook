@@ -29,7 +29,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Human Rights Law - Sexual Harassment](https://humanrights.alaska.gov/wp-content/uploads/2019/09/sexual-harassment-poster.pdf)
 * [Unemployment Insurance](https://labor.alaska.gov/lss/forms/1012.pdf)
 * [Summary of Alaska Child Labor Law](https://labor.alaska.gov/lss/forms/child-labor-law-summary.pdf)
-* [Summary of Alaska Wage and Hour Act](https://labor.alaska.gov/lss/forms/sum-wh-act-2021.pdf)
+* [Summary of Alaska Wage and Hour Act](https://labor.alaska.gov/lss/forms/Summary_of_Alaska_Wage_and_Hour_Act__Rev_1-23.pdf)
 * [Alaska - Americans with Disabilities Act](http://doa.alaska.gov/ada/policy/DLWDColor.pdf)
 * [Alaska - Alcohol and Drug-free Workplace Policy](https://doa.alaska.gov/dop/fileadmin/Employee_Orientation/pdf/DrugFreeWorkplacePoster.pdf)
 * [State of Alaska Whistleblower Act](https://doa.alaska.gov/dop/fileadmin/StatewidePlanning/pdf/WhistleblowerActPoster.pdf)
@@ -70,6 +70,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Victims of Domestic Violence Leave Notice](https://www.dir.ca.gov/dlse/Victims_of_Domestic_Violence_Leave_Notice.pdf)
 * **City of Berkeley** 
   - [Minimum Wage Poster](https://www.cityofberkeley.info/uploadedFiles/Housing/Level_3_-_General/MWO-and-Labor-Notice-Multi-year-clean(2).pdf)
+* **City of Daly City**
+ - [Minimum Wage Poster](https://www.dalycity.org/DocumentCenter/View/6658/2023-Minimum-Wage-Notice)
 * **City of Los Angeles**
   - [Fair Chance Initiative for Hiring Ordinance to Applicants and Employees](https://bca.lacity.org/Uploads/fciho/Ban%20the%20Box%20Poster%20-%20Private%20Employers%2C%20as%20of%208.23.18.pdf)
   - [Minimum Wage and Paid Sick Leave](https://wagesla.lacity.org/sites/g/files/wph1941/files/2022-02/2022-MWO-Poster-EN-11.pdf)
@@ -81,7 +83,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
   - [Minimum Wage Bulletin](https://www.sanjoseca.gov/home/showpublisheddocument/80936/637768050476030000)
   - [Opportunity to Work Notice](https://www.sanjoseca.gov/home/showdocument?id=20073)
 * **City of San Francisco**
-  - [Minimum Wage Poster](https://sfgov.org/olse/sites/default/files/minimum%20wage%20poster%202021.pdf)
+  - [Minimum Wage Poster](https://sfgov.org/olse/sites/default/files/minimum%20wage%20poster%202022_2.pdf)
   - [Paid Sick Leave](https://sfgov.org/olse/sites/default/files/Document/Paid%20Sick%20Leave%20Poster%20-%20Post.pdf)
   - [Fair Chance Ordinance](https://sfgov.org/olse/sites/default/files/FCO%20poster2020_0.pdf)
   - [Health Care Security Ordinance](https://sfgov.org/olse/sites/default/files/Document/HCSO%20Files/2022%20HCSO%20poster.pdf)
@@ -92,14 +94,16 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
   - [Public Health Emergency Leave](https://sfgov.org/olse/sites/default/files/Public%20Health%20Emergency%20Leave%20Poster%207.2022.pdf)
 
 ### Colorado
-* [Anti-Discrimination Laws](https://drive.google.com/file/d/1DzCt-JBN0zMdaet0MQrWTIz7TEOOYQV-/view)
+* [Employment Anti-Discrimination Poster](https://drive.google.com/file/d/1oa9S3N_G7XhbPx4bELinO_6QoRuqIK1C/view)
+* [Housing Anti-Discrimination Poster](https://drive.google.com/file/d/1louFE4g1WZuXwgLLJEr1sz--soofr_ZZ/view)
+* [Public Accommodations Anti-Discrimination Poster](https://drive.google.com/file/d/1cmoKGVB6hi8QfVdtqBQ_KeenPGvkgijA/view)
 * [Employment Security Act](https://cdle.colorado.gov/sites/cdle/files/502_NoticeToWorkers-Poster.pdf)
 * [Minimum Wage and Overtime Pay Standards](https://cdle.colorado.gov/sites/cdle/files/COMPS%20Order%20%2338%20%282022%29%20Poster%20CLEAN.pdf)
 * [Notice to Employer of Injury](https://codwc.app.box.com/v/WC50-Injury-Poster)
 * [Notice of Paydays](https://drive.google.com/file/d/1B9NG0eCOvxGD_KE_R9Zxtw58lTi4fkje/view?usp=sharing)
 * [Workers' Compensation Act](https://drive.google.com/file/d/1OkdN7QSD23d5-etB7awiU4C_JjM9KXHM/view?usp=sharing)
 * [Paid Family and Medical Leave Insurance](https://famli.colorado.gov/sites/famli/files/FAMLI%20Break%20Room%20Poster%20Officialv3.pdf)
-* [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/Poster%2C%20Paid%20Leave%20%26%20Whistleblower%202022%20CLEAN.pdf)
+* [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/%5BCLEAN%20June%201%2C%202022%5D%20Poster%2C%20Paid%20Leave%20%26%20Whistleblower.pdf)
 
 ### Connecticut
 * [Sexual Harassment is Illegal](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
@@ -110,19 +114,18 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * Unemployment Insurance Notice
 * [Worker's Compensation Notice](https://portal.ct.gov/-/media/WCC/forms/employer-forms/notice.pdf)
 * [Electronic Monitoring Notice](https://www.ctdol.state.ct.us/wgwkstnd/ElectMonitoring.pdf)
-* [Office of the Healthcare Advocate](https://portal.ct.gov/-/media/OHA/OHAPstr8p5x11AsnEngMchpdf.pdf)
+* [Office of the Healthcare Advocate](https://portal.ct.gov/-/media/OHA/OHA-Poster---English.pdf)
 * [Pregnancy Discrimination and Accommodation in the Workplace](https://www.ctdol.state.ct.us/gendocs/SS46a%20Pregnancy%20Disability%20Poster.pdf)
 
 ### Delaware
 * [Labor Law Poster](https://laborfiles.delaware.gov/main/dia/olle/Labor%20Law%20Poster.pdf)
 * [Sexual Harassment Notice](https://dhr.delaware.gov/personnel/neo/documents/sexual-harassment-notice.pdf)
 
-
 ### District of Columbia
 * [Paid Family Leave Employee Notice](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/2021%20OPFL%20Employee%20Worksite%20Notice_2.pdf)
 * [COVID-19 Leave Notice](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/COVID-19%20Leave_EmployerPoster_011422.pdf)
 * [Equal Employment Opportunity](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/EEO_Poster_2015.pdf)
-* [DC Family Medical Leave Act](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/DCFMLA_Poster_March2016.pdf)
+* [DC Family and Medical Leave Act](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/DCFMLA%20updated%20poster%20-%20Oct2022.pdf)
 * [Right to Breastfeed](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/Breastfeeding%20DCHOR%20Work%20PlacePosters.pdf)
 * [Protecting Pregnant Workers Fairness Act](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/PregnantWorkers_WorkplacePoster_rev010319.pdf)
 * [Parental Leave Act](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/ParentalLeave_Poster_2015_1.pdf)
@@ -141,10 +144,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Unemployment Insurance](https://drive.google.com/file/d/1Vd53xxQph7ETr9R22PZS7cujgjoDPvI7/view)
 * [Vacation Unemployment Insurance](https://drive.google.com/file/d/1Vd53xxQph7ETr9R22PZS7cujgjoDPvI7/view)
 * [Georgia Equal Pay for Equal Work](https://drive.google.com/file/d/1uXGwnzKqPn4vujeeqzwi88rCn2-wftGi/view)
-* [Workers' Compensation Bill of Rights](https://sbwc.georgia.gov/sites/sbwc.georgia.gov/files/board_forms/bor.pdf)
+* [Workers' Compensation Board Forms](https://sbwc.georgia.gov/publications-and-forms/forms/board-forms)
 
 ### Hawaii
-* [Labor Law Poster](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921Labor-Laws-3.pdf)
+* [Labor Law Poster](https://labor.hawaii.gov/wp-content/uploads/2022/06/20220624Labor-Laws-Poster.pdf)
 
 ### Idaho
 * [Equal Opportunity is the Law](https://drive.google.com/file/d/1yNYO9sWpLDuuO4h4xVvrNeFspz8XoPXG/view)
@@ -238,7 +241,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Minnesota
 * [Age Discrimination](https://www.dli.mn.gov/sites/default/files/pdf/agediscr_poster.pdf)
-* [Minimum Wage](https://www.dli.mn.gov/sites/default/files/pdf/minwage_poster_2022.pdf)
+* [Minimum Wage](https://www.dli.mn.gov/sites/default/files/pdf/minwage_poster_2023.pdf)
 * [Safety and Health Protection on the Job](https://www.dli.mn.gov/sites/default/files/pdf/mnosha_poster.pdf)
 * [Unemployment Insurance](https://www.uimn.org/assets/109_tcm1068-192562.pdf)
 
@@ -348,7 +351,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Ohio
 * [Child Labor Poster](https://drive.google.com/file/d/1dF8mWBRZsW_a1Vb-YTzR83EJNDCvQf9X/view?usp=sharing)
 * [Equal Employment Opportunity Poster](https://drive.google.com/file/d/1uLgvyuYpO1KghE1ignPPUmMIthCbIq6o/view?usp=sharing)
-* [Minimum Wage](https://drive.google.com/file/d/1YzMnt5pyb3amW84qNzgmeQyfK1qbYZY_/view?usp=sharing)
+* [Minimum Wage](https://com.ohio.gov/static/documents/2023MWPoster.pdf)
 * [Unemployment Compensation - Notice to Employees](https://drive.google.com/file/d/1TmrcpGiVtdu0YadZ4PTqAyClRtH7vuC3/view?usp=sharing)
 * [Workers'Compensation Rebuttal Presumption of Drug/Alcohol Use](https://drive.google.com/file/d/1qQ4W_TZosZSXwslr4NKljW0D5xC9Rz35/view?usp=sharing)
 
@@ -371,11 +374,12 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Paid Leave Notice Poster](https://paidleave.oregon.gov/DocumentsForms/Paid-Leave-ModelNotice-Poster-EN.pdf)
 
 ### Pennsylvania
-* [Minimum Wage Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-1.pdf)
+* [Minimum Wage Law](https://www.dli.pa.gov/Individuals/Labor-Management-Relations/llc/minimum-wage/Documents/LLC-1.pdf))
 * [Abstract of Equal Pay Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-8.pdf)
 * [Employment Provisions of the PA Human Relations Act](https://www.phrc.pa.gov/AboutUs/Documents/Fair%20Employment.pdf)
 * [Abstract of the PA Child Labor Act](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-5.pdf)
 * [Know Your Rights](https://www.phila.gov/media/20210423162905/Know-your-rights-flyer.pdf)
+* [Worker's Compensation Poster](https://www.dli.pa.gov/Businesses/Compensation/WC/claims/wcais/Documents/wcais%20forms/LIBC-500%20print.pdf)
 
 #### City of Philadelphia
 * [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
@@ -439,6 +443,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Parental and Family Leave](https://labor.vermont.gov/sites/labor/files/doc_library/Parental%20and%20Family%20Leave%20Poster.pdf)
 * [Sexual Harassment Poster](https://drive.google.com/file/d/1cuwlVBW8CbAkt-HIf2XpEneHVHG7sWEk/view?usp=sharing)
 * [Workers Compensation Reinstatement Rights](https://labor.vermont.gov/sites/labor/files/doc_library/Workers%20Compensation%20Reinstatement%20Rights%20Poster.pdf)
+* [Employment Protections for Victims of Crime](https://labor.vermont.gov/sites/labor/files/doc_library/Crime%20Victim%20Poster_2022.pdf)
 
 ### Virginia
 * [Virginia Unemployment Compensation Act](https://www.vec.virginia.gov/sites/default/files/documents/TranslatedPDFs/Notice-to-Workers/Notice-to-Workers-English.pdf)
@@ -446,6 +451,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Earned Income Tax Credit](https://www.irs.gov/pub/irs-pdf/p962esp.pdf)
 * [Virgina CLI](https://www.dss.virginia.gov/files/division/cvs/pi/eitc/employer_info/cli_flyer2021.pdf)
 * [Workers' Compensation Notice](https://workcomp.virginia.gov/sites/default/files/documents/Employers-Workplace-Notice-Form-1.pdf)
+* [Seizure First Aid Poster](https://www.doli.virginia.gov/wp-content/uploads/2022/06/SFA-Flier_VALabor_8.5x11.pdf)
 
 ### Washington
 * [Paid Family and Medical Leave](https://paidleave.wa.gov/app/uploads/2019/12/Employer-poster.pdf)
@@ -459,7 +465,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Minimum Wage Requirements](https://labor.wv.gov/Wage-Hour/Minimum_Wage/Documents/MINIMUM%20WAGE%20POSTER%20012018.pdf)
 * [Wage Payment and Collection Act](https://labor.wv.gov/Wage-Hour/Wage_Collection/Documents/WPC%20Poster.pdf)
 * [WV Human Rights Act](https://hrc.wv.gov/about/Documents/NEW%20Notice%20HRA%20FHA%20PWFA.pdf)
-* [Notice to Employees - Unemployment Benefits](https://www.workforcewv.org/images/greenbook/workplaceposters/10_UC_Benefits_Poster.pdf)
+* [Notice to Employees - Unemployment Benefits](https://workforcewv.org/images/files/Claimants/UC-Benefits-Poster.pdf)
 
 ### Wisconsin
 * [Employee Rights Under Wisconsin's Business Closing/Mass Layoff Notification Law](https://dwd.wisconsin.gov/dwd/publications/erd/pdf/erd-9006-p.pdf)
@@ -473,15 +479,15 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Notice to Employees about Applying for Unemployment Benefits](https://drive.google.com/file/d/1bYkaoUPxGk5P4Da_GZa4w-62PhkVcbNV/view?usp=sharing)
 
 ### Wyoming
-* [Consolidated Labor Law Posters](http://wyomingworkforce.org/_docs/labor/labor-law-wyoming.pdf)
+* [Consolidated Labor Law Posters](https://dws.wyo.gov/wp-content/uploads/2022/08/labor-law-wyoming.pdf)
 
 ### EEOC (U.S. Equal Employment Opportunity Commission) Notices
-* ["EEO is the Law" English poster for screen readers](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
-* ["EEO is the Law" English poster for printing](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf)
-* ["EEO is the Law" Spanish poster for printing](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf)
+* ["EEO is the Law" English poster for screen readers](https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf)
+* ["EEO is the Law" English poster for printing](https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRights_10_20.pdf)
+* ["EEO is the Law" Spanish poster for printing](https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRightsSp_10_20.pdf)
 * ["EEO is the Law" English Poster Supplement](https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf)
 * ["EEO is the Law" Spanish Poster Supplement](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_gina_supplement_spanish.pdf)
-* All ["EEO is the Law"](https://www1.eeoc.gov/employers/poster.cfm) poster links.
+* All ["EEO is the Law"](https://www.eeoc.gov/poster) poster links.
 
 ### E-Verify 
 * [Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
