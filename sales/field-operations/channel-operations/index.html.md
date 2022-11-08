@@ -135,41 +135,53 @@ For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.go
 Channel-specific quoting instructions can be found in the [Deal Desk Quote Configuration handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes).
  
 ### Opportunity Requirements to Request a Quote
-Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, please review "Transacting Through Distribution" and "Internal Distributor Quote Requests" below, then Chatter @Partner Operations on the opportunity with the following information:
-- For opportunities that include a Partner Sourced Deal Registration, this registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
+Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with) all standard GitLab direct and reseller-direct opportunities. For quotes going through distribution, please review [Transacting Through Distribution](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), then Chatter @ Partner Operations on the opportunity with the following information:
+- For opportunities that include a Partner Sourced Deal Registration, the registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
 - Sold-To Contact: the email address the license will be sent to at the customer account
-- Invoice Owner: The distributor processing the deal. If there’s no distributor on the deal, Channel Managers or Sales Representatives should be processing the quote
-- Special Terms or Notes (if applicable)
-- Date the licenses should start
-- Product information: Premium or Ultimate, Self-Managed or SaaS, Number of seats, number of years
-- Verified Discounts, especially if there are additional sales discounts outside of programmatic discounts
-- For Renewals: Screenshot or other verification for true-ups
+- Invoice Owner: The distributor processing the deal. If there’s no distributor on the deal, Sales Rep and/or ISR are responsible for quoting
 - Reseller name
+- Special Terms or Notes (if applicable)
+- License Start Date
+- Product information: Premium or Ultimate, Self-Managed or SaaS, Number of seats, number of years
+- Any additional sales discounts outside of standard programmatic partner discounts
+- For Renewals: Admin dashboard screenshot to verify any required add-ons and/or true-ups
 
 ### Transacting Through Distribution
-*   All US PubSec deals are transacted through Carahsoft (gitlab@carahsoft.com) or Immix (GSA only). PubSec distribution is not managed by Partner Order Operations.
-*   Open track Commercial partners in AMER are encouraged to transact through our AMER distributor Arrow ECS at gitlabteam@arrow.com.
-*   Open track partners in EMEA are required to transact through our EMEA distributor Amazic at gitlab@amazic.com.
-*   All partners in India are required to transact through our India distributor Redington at gitlab@redington.co.in.
-*   Most Select track partners do not transact through distributors. If a Select partner requests a quote, you can provide a Reseller quote directly to the reseller per the [Deal Desk handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). However, Select partners can transact through a distributor if they choose. Sometimes it helps them with currency exchange rates.
+**For Commercial Markets:**
+*   Open Partners should transact with the authorized distributor(s) in their region.
+*   Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s).
+*   In EMEA: Partners transact with Amazic via gitlab@amazic.com.
+*   In APAC (several countries):  Partners transact with Tech Data/TD Synnex, who can be contacted at: https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html
+    *   In India: Partners may also choose to transact with Redington via gitlab@redington.co.in.
+    *   In Japan: Partners may also choose to transact with Networld, who can be contacted at: https://www.networld.co.jp/product/gitlab/
+ 
+**For US PubSec:**
+*   Partners transact with Carahsoft via gitlab@carahsoft.com
+*   PubSec distribution is not managed by GitLab Partner Order Operations
 
-Distributors are equipped to self-quote new business or other order types without receiving an official GitLab quote, as long as partner discounts are confirmed to them. So, there may be times, especially in multiple bid scenarios, where you may not be aware of all the partners bidding on an opportunity if they haven’t submitted a Deal Registration, until we receive a PO.
+Distributors have their own pricelist and are equipped to self-quote and order new business or other order types from it without receiving an official GitLab quote, as long as pricing is at standard programmatic discounts. So, there may be times, especially in multiple bid scenarios, where you may not be aware of the partner(s) bidding on an opportunity until we receive a PO.
 
-If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnerorderops@gitlab.com to request an official quote and Partner Operations will generate the quote for the distributor to generate their official PO to place an order.
+#### External Distributor Quote Requests
+If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnerorderops@gitlab.com to request an official quote. Partner Order Ops will generate and provide the quote to distribution upon request as long as the request aligns to standard programmatic discounts. To further clarify internal rules of engagement, Partner Order Ops:
+*   will include the GitLab Sales rep when sending a quote to distribution for visibility and awareness, but does not have an added internal approval step when discounting is programmatic (quote is auto-approved as it's programmatic).
+*   will contact the GitLab Sales rep for approval prior to the quote being finalized and sent when discounting is non-programmatic.
 
 #### Internal Distributor Quote Requests 
-If you are working with an Open partner and need a distributor quote sent, please email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnerorderops@gitlab.com.
+If you are working with a partner and need a distributor quote sent, please either: 
+*   chatter @ Partner Operations on the opportunity with the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote).
+*   email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnerorderops@gitlab.com.
 
-*   Partner Operations will generate a quote with the required distributor information, ensuring standard partner program discounts are applied for both distributor and reseller, and send the quote to the correct distributor with the Opportunity Owner copied. 
-*   Partner Operations will make any updates necessary to the quote prior to processing.
-    *   If any discounts are required above standard reseller and distributor discounts, approvals will need to be received beforehand or documented and the quote will need to be submitted for system quote approvals.
-    *   If renewal, Partner Operations will request an admin dashboard screenshot to confirm any true-ups prior to processing.
-*   Once the Distributor PO is received, Partner Operations will confirm that all the information on the PO matches the GitLab quote and they will attach the PO to the opportunity. 
-    *   If the PO and quote do not match, they will update the quote accordingly after confirming the correct information.
-*   Partner Operations will Chatter the Opportunity Owner to request that the opportunity be submitted for processing.
-*   The Opportunity Owner should then click the “Submit for Approval” button on the opportunity and fill in the required information.
-*   Partner Operations will monitor the opportunity to ensure the opportunity is Closed-Won.
-*   Once the opportunity is Closed-Won, Partner Operations will notify the Distributor that the order has been fully processed.
+#### Partner Order Operations Quote and Order Management Process
+*   Partner Order Ops generates quote with [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote), ensuring:
+    *   standard programmatic discounts are applied for both distributor and reseller; or,
+    *   if discounts requested are non-standard, approvals are requested and received either via quote approval flow or chatter.
+*   Partner Order Ops sends quote to distributor with Opportunity Owner copied.
+*   Partner Order Ops receives distributor PO and confirms whether all information on PO matches GitLab quote as aligned to [opportunity booking requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements).
+    *   If PO and quote match, Partner Order Ops attaches PO to opportunity.
+    *   If PO and quote do not match, Partner Order Ops requests any necessary PO updates from distributor, or makes any internal quote adjustments as needed.
+*   Partner Order Ops attaches PO to opportunity and then submits opportunity for approval. Partner Order Ops then: 
+    *   monitors opportunity to ensure it is updated to Closed-Won.
+    *   notifies Distributor when order has been fully processed.
 
 
  
