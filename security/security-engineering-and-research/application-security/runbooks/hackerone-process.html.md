@@ -19,6 +19,7 @@ The `#hackerone-feed` Slack channel receives notifications of report status chan
 - `New` contains all reports in the New state
 - `GitLab Team` contains reports that have been validated by the HackerOne triage team, but are yet to be assigned to a specific GitLab team member
 - `H1 Triage` are reports being triaged by the HackerOne triage team
+- `Pending Disclosure` are reports that should be reviewed and disclosed
 
 #### GitLab Team On-boarding
 
@@ -111,6 +112,7 @@ the responsible engineering team:
     - If you relied on the HackerOne Triage Team's validation of the issue, consider setting time in your calendar to validate it yourself. This will help if you need to validate the fix later.
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
+- Remember to review the `Pending Disclosure` tab and follow [our disclosure process](#closing-out--disclosing-issues)
 
 #### Awards
 
