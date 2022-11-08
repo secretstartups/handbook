@@ -9,9 +9,41 @@ canonical_path: "/company/culture/inclusion/dib-roundtables/"
 
 A DIB roundtable is a great way to build deeper connections with team members and develop safe spaces to discuss DIB related issues. The DIB roundtable will ask team members to share stories and anecdotes as well as challenge team members to think about how they personally and collectively can positively impact DIB. 
 
-This page outlines the process of DIB Roundtables. These can be self-organised or organised by the DIB Team. 
+We have two avenues for DIB Roundtables: 
+
+DIB Programmed Roundtables - The DIB Team creates a programmed roundtable(s) on a quarterly basis to discuss a pre-defined topic. 
+
+Self-Organised - A TMRG, Team Members, Managers can organised a roundtable to discuss DIB related issues. 
 
 ## Starting a roundtable
+
+### Diversity, Inclusion & Belonging Team Programmed: 
+
+The DIB Team will organise DIB Roundtables on a quarterly basis with a maximum of two roundtables in a quarter. 
+
+- The DIB Team will program the quarterly roundtable on the team calendar when the decision has been made on the topics for the quarter 
+
+- The DIB team will create an agenda with a series of questions for the quarterly roundtable 
+
+- The roundtable will last 50mins and be split as followed: 
+       - 10mins: DIB Facilitator will set the topic and provide some context
+       - 30mins: The DIB Facilitator will divide the group into small groups of 5/6 team members to discuss the questions in the agenda
+       - 10mins: Deberief 
+
+The DIB Team will ask for a volunteer or are elect group facilitator for each group, your role is to:
+
+- Verbalise the questions 
+- Ensure that everyone, including yourself gets an opportunity to contribute 
+- Share your screen where necessary i.e. slides or tasks
+
+**Programmed Roundtables:**
+
+|Date & Times |Subject | DIB Facilator | TMRG (if applicatble)|
+|---          |---     |---            |---                   |
+| TBC | Allyship | Liam McNally | N/A |
+| TBC | Bias | Liam McNally | N/A | 
+| TBC | Microaggressions | TBC | NA |
+
 
 ### Self-organized: 
 
@@ -28,18 +60,7 @@ First, identify a group of team members who would like to participate. This can 
 - Ensure that everyone, including yourself gets an opportunity to contribute 
 - Share your screen where necessary i.e. privilege for sale task
 
-### Diversity, Inclusion & Belonging Team Organized (Self Facilitated): 
 
-The DIB Team will organise DIB Roundtables on the first week of each month for those team members who have expressed interest on the relevant monthly thread on this [epic](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/13)
-
-The DIB Team will organise groups of 5-6 team members to participate in the roundtable together. They will open an issue with the group that will be attending your roundtable.  
-The group will not be facilitated by the Diversity, Inclusion & Belonging Team, you can volunteer or elect a person to help facilitate in the issue.  
-
-If you volunteer or are elected to be the facilitator your role is to:
-
-- Verbalise the questions 
-- Ensure that everyone, including yourself gets an opportunity to contribute 
-- Share your screen where necessary i.e. privilege for sale task
 
 ### Manager Organized: 
 
