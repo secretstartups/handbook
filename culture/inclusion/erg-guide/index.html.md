@@ -450,6 +450,37 @@ We have provided a number of optional resources for TMRGs to use that assist in 
 * [Estabished TMRG Roadmap Template](https://docs.google.com/spreadsheets/d/19Qa6xLIaoxOBbPIoMjYTcL87lx1y1exGGB6z4iD64tY/edit?usp=sharing): This template gives some examples of a yearly roadmap for established or mature stage TMRGs
 * [Budget Tracker](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit?usp=sharing): This is a simple budget tracker for Lead or a treasurer of a TMRG to plan and keep a track of the annual budget given to TMRGs.
 
+### TMRG Goal Setting 
+
+Having short terms and long term goals for the TMRG is extremely important in developing and the continued success of the TMRG. Goals are vital to helping GitLab as a whole move to a more inclusive environment for your under-represented or at risk group.
+
+**Three advantages of setting goals:**
+
+- **Action orientated** - it is easy to get bogged down in a problems, issues or complaints. Having goals for issues will allow you to move from frustration to action
+- **Visibility** - Goals will allow you to talk to and broadcast goals to a wider audience including executive sponsor, GitLab leadership and wider team member population
+- **Make GitLab more Inclusive** - by setting goals for the TMRG you are ensuring that we bring in inclusive practices and move the needle for your TMRG 
+
+**How to set goals for the TMRG**
+
+- Work with the wider TMRG on the TMRGs priorities
+    - Leadership should distill these down into a manageable number of goals 
+- Utilise a goal setting methodology such as [OKRs](https://about.gitlab.com/company/okrs/) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
+- Add these goals to your quarterly strategy issue for the TMRG 
+- Assign a working group or DRI/s to the goal 
+- Share the goals with your executive sponsor and the wider GitLab team through the Monthly Initiatives Call 
+- Engage with key stakeholders, i.e. Talent Acquisition if the goal relates to hiring
+- Prepare for goal obstacles and push back. What are the values you are implementing with this goal?
+- Importantly! Define how the goal would be beneficial for the at-risk group and GitLab as a whole. This will help gain buy in from key stakeholders
+
+**Goal Setting Activities** 
+
+To help develop goals you may want to utilise goal setting activities to assist in identifying the right goals. 
+
+- Backward Goal Setting: This is where you start with a large goal or objective. Then distilling this down to smaller goals & objectives to achieve the larger goal. 
+
+- Success Goal Setting: Similar to the above, but you will define what success looks like, either with a measurable or an outlook. The set goals and objectives that will help get to that end state. 
+
+
 ### Finance & Budgets for TMRGs
 
 Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise. 
