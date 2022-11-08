@@ -91,7 +91,7 @@ We spend a lot of time working in Go which is the language that [GitLab Runner](
 
 ### Iterations
 
-The Gitlab Runner team works in monthly iterations. While the feature freeze for the core runner project is on the 7th in preparation for the release on the 22nd of each month, iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
+The Gitlab Runner team works in monthly iterations. Iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
 At a minimum, 30 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
 
@@ -153,9 +153,7 @@ These limits are intended to help with the work load on the reviewers and mainta
 * `editor` access to the `group-verify` project in GCP
 * Add as `maintainer` to the `gitlab-com/runner-group` group on GitLab.com
 * Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
-* Add to Geekbot daily standup for `Runner Group Daily Standup` and `Runner Weekly Retro`
 * Add to `Verify` 1password vault (requires creating an access request).
-* (SaaS subgroup only) add to `runner_saas` AWS Sandbox Cloud account. Use the [following AR template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=aws_group_account_iam_update_request)
 
 ### Onboarding
 
@@ -248,158 +246,6 @@ Some notes/suggestions:
 * Generally when there is a logical time to leave an update, that is the best time
 * Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
 
-## Regression Error Budget Process
-
-Each quarter we have an error budget of how many regression the release
-can cause.
-
-Following the point system, each quarter we have we have 100 points.
-Each type of regression has a
-[priority/severity](../../../../quality/issue-triage/#priority), which
-every priority has a certain point associated to it, the higher the
-priority the more points:
-
-- `~priority::1`: 70
-- `~priority::2`: 30
-- `~priority::3`: 15
-- `~priority::4`: 5
-
-Every beginning of the quarter the error budget is set to 100 again.
-
-### Goals
-
-- Provide an incentive to balance reliability with other features.
-- Provide confidence to customers that we are don't release regressions
-  for each release.
-- Make sure that the team is accountable.
-- Make sure the team is acting to make the product more resilient.
-- Give the team permission to focus on reliability when data indicates
-  that reliability is more important than other product features.
-
-### Non-Goals
-
-- This process is not intended to serve as a punishment.
-- This process is not intended to serve as a punishment for adding
-  regressions.
-- This process is not intended to slow us down from shipping features,
-  but actually speed it up in the long-run.
-
-### Exceeding Error Budget
-
-Each regression should have a retrospective item with corrective actions
-to prevent any similar regression from happening again. These issues
-should be labeled with `~"corrective action"`.
-
-While Google's original paper advocates for stopping all feature work
-and focusing the team only on reliability improvements for the quarter,
-we have taken a more minimal first step: exceeding our error budget will
-only be a callout for our Product Manager to immediately prioritise
-corrective actions identified during the retrospective. Other feature
-work by team members not assigned to those corrective actions can
-proceed normally.
-
-### History
-
-Below is the history of each quarter, and should be filled with the
-following template:
-
-```
-- Regressions:
-    - Issue
-        - Retrospective Issue
-        - Corrective Action Issues
-        - Error Budget: -X
-- Final Error budget: 30
-```
-
-#### FY21 Q3
-
-- Regressions:
-    - [Docker Windows failing to clone repository](https://gitlab.com/gitlab-org/gitlab/-/issues/239013)
-        - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/11)
-        - [Corrective Action Issue](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27038)
-        - Error Budget: -15
-    - [Unsupported run stage &#39;step_script&#39; on custom executor (#26418)](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26418) (-30)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/14)
-      - [Corrective Action Issue](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26418)
-    - [Untagged registration option stopped working (#26609)](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26609) (-70)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/15)
-      - [Corrective Action Issue](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26609)
-
-#### FY22 Q1
-
-- Regressions:
-    - [CI masked variables not masked in job log](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27559)
-        - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/52)
-        - Corrective Action Issue
-            - [Integration Tests](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2754)
-            - [Split integration tests and unit tests to get better visiabliity on coverage](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27608)
-            - [Create E2E tests](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/4359)
-            - [Add another validation layer for masked variables](https://gitlab.com/gitlab-org/gitlab/-/issues/322836)
-        - Error Budget: -70
-    - [Job trace limit ignored](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27561)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/53)
-      - Corrective Action Issue
-          - [Add integration tests](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2758)
-      - Error Budget: -15
-    - [pwsh shell on windows - failures not detected since Runner 13.9 (#27830)](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27830)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/73)
-      - Corrective Action Issue
-          - [Add integration tests](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2874)
-      - Error Budget: -30
-    - [pwsh shell on windows - unicode characters are corrupted by 13.9 STDIN change (#27842)](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27842)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/74)
-      - Corrective Action Issue
-          - [Add integration tests](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2874)
-      - Error Budget: -30
-
-#### FY22 Q2
-
-- Regressions:
-    - [UTF-8 Invalid Encoding Replacement](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27844)
-      - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/72)
-      - Corrective Action Issue
-        - [Unit Tests](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2881)
-        - [Proposal to handle in GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/330311)
-        - Error Budget: -5
-
-### Background
-
-This was inspired by the [Google Error
-budget](https://landing.google.com/sre/workbook/chapters/error-budget-policy/).
-It's used to balance reliability and new features.
-
-## Community contributions
-
-### Prioritizing Community contributions
-
-In order to provide visibility into our review queue and priorities in line with our [Community Contribution SLO](https://about.gitlab.com/handbook/engineering/development/ops/verify/#slos-for-community-contributions) we will use the ~"Review::P*" set of labels.
-
-| Types of issues & users  | Priority Label |
-| --- | --- |
-| All users contributing to refined issues  | ~"Review::P1" |
-| Paying users from non-refined issues  | ~"Review::P2" |
-| Non-paying users from non-refined issues  | ~"Review::P3" |
-
-### Picking up abandoned community contributions
-
-When a community contribution is abandoned by the original author, it's
-up to us to get it across the finish line, the list below outlines the
-process.
-
-1. Add the `~"coach will finish"` label to the merge request, and close
-the merge request.
-1. Open up an issue for this merge request if there isn't one, and
-attach the `~"Community contribution"` label to it to make it clear that
-it is/was being worked on by a community member.
-1. When we schedule the issue to be picked up by an engineer create a
-new merge request based on the original merge request **keeping all the
-original commits to keep the author attribution.** It is OK to
-squash/fixup the commits of a single contributor together into fewer
-commits in order to have a clean Git history.
-1. Link the new merge request to the old one for the community to be
-aware that it's being worked on in a different merge request.
-
 ## How to work with us
 
 ### On issues
@@ -418,10 +264,6 @@ where you choose a reviewer (usually not a maintainer) and then send it over to 
 
 Current maintainers are members of the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group.
 Current reviewers are members of the [`runner-group`](https://gitlab.com/groups/gitlab-com/runner-group/-/group_members?with_inherited_permissions=exclude) group.
-
-### Feature Freeze
-
-The gitlab-runner codebase, which is the primary codebase that the runner group works in, follows a 7th-of-the-month feature freeze. This is documented with the codebase [here](https://gitlab.com/gitlab-org/gitlab-runner/-/blob/master/PROCESS.md#on-the-7th) and is important to be aware of as it drastically differs from most of the rest of the gitlab release timing.
 
 ## Runner PM and engineering pre and post-sales process for runner scaling and configuration deep dives
 
