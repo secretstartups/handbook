@@ -12,7 +12,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-[<button class="btn btn-primary" type="button">Request A Scale CSE (SAL/AE Only) </button>](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#requesting-scale-cse-engagement-account-owners-only---aes-sals)
+[<button class="btn btn-primary" type="button">Request A Scale CSE (SAL/AE Only) </button>](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request/-/issues/new?_gl=1*vjjya7*_ga*MTEyODE3ODIyOC4xNjA0NTA4NzU0*_ga_ENFH3X7M5Y*MTY2NzkxMjA3NS4xOTYuMS4xNjY3OTE0MjA5LjAuMC4w#)
 
 ## Overview
 
