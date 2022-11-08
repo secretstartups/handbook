@@ -175,10 +175,10 @@ Exceptional community members may be able to participate, as well.
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
 | 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
-| 2022-12-12 | 2022-12-16 | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
+| 2022-12-12 | 2022-12-16 | Elicia Wilson - GitLab Foundation | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
 | 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
 | 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
-| 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager | Elicia Wilson - GitLab Foundation | 
+| 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations | 
 | 2022-01-09 | 2023-01-13 | NO SHADOWS | NO SHADOWS |
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) - Sr Director, ESG | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager  | 
 | 2022-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
