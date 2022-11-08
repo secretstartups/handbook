@@ -91,7 +91,7 @@ Please also view the [Singapore Benefits Aug 2022 Webinar](https://drive.google.
 
 As of 1 Aug 2022, the Group Personal Accident plans will be covered by [Zurich](https://www.zurich.com/). Coverage is sum insured $500,000 SGD per member. Under the Zurich Personal Accident coverage, team members will also recieve extended benefits including ambulance cost coverage, emergency travel expenses, trauma counseling, and more. 
 
-For more information on the Group Personal Accident insurance plan, please refer to slides 30-33, of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+For more information on the Group Personal Accident insurance plan, please refer to slides 30-33, of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing) and the [Group Personal Accident Insurance Policy](https://drive.google.com/file/d/1LHYCWa0Q_8_giWC7-B-_H1okVNbo-qA8/view?usp=sharing).
 Please also view the [Singapore Benefits Aug 2022 Webinar](https://drive.google.com/file/d/1YPBgHMjZxjq82mYdMfsHYRmIvwcnZPU7/view?usp=sharing) for addtional information 
 
 
