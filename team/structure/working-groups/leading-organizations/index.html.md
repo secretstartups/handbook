@@ -15,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/leading-organizations/"
 
 | Property        | Value             |
 |-----------------|-------------------|
-| Date Created    | 2022-11-15        |
+| Date Created    | 2022-11-09        |
 | End Date        | 2024-01-31        |
 | Slack           | [#wg_leading-organizations](https://gitlab.slack.com/archives/C03KC7N184D) (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/1D5JdVVOMshVWp-9DANaRKFgLlLCrT4LAqQDo6_vJCdo/edit) (only accessible from within the company) |
