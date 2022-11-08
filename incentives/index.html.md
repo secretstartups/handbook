@@ -103,7 +103,8 @@ If you received the same nomination twice (for the same person and the same reas
 
 ##### Nominator Bot Process
 
-**Any GitLab team member**
+###### Any GitLab team member
+
 1. Go to Slack and type `/nominate`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
@@ -111,13 +112,16 @@ If you received the same nomination twice (for the same person and the same reas
 1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions related to the process and logistics (e.g., where is the bonus in the approval chain?) they can reach out to [people connect](/handbook/people-group/people-connect/). For remaining questions regarding guidance on whether to approve a nomination, they can reach out to their aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
-**Manager Process**
+###### Manager Process
+
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and the People Connect team).
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
-1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel, and optionally cross-post to the team member's group channel.
+1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel, and make sure the team member's direct peers can easily see it:
+     - For example, cross-post to the team member's group channel
+     - For Support, add it to the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) as a "Team Member Update" item
 
-**Approval flow**
+###### Approval flow
 ```mermaid
 graph TD;
   A[Nomination] -->|Bot logs and sends to manager| C;
