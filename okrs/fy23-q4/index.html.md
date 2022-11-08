@@ -32,14 +32,14 @@ The by-the-book schedule for the OKR timeline would be:
 ## OKRs
 
 ### 1. CEO: Drive revenue through delivering customer results
-1. **CEO KR:** Make GitLab easier to buy by automating Dedicated
+1. **CEO KR:** Automate Dedicated
 1. **CEO KR:** Enhance security through meeting FedRAMP and Yubikey targets
 1. **CEO KR:** Make GitLab easier to buy by completing Fulfillment Efficiency and registration feature targets
 
 ### 2. CEO: Mature GitLab’s DevSecOps Platform to improve product experience and increase user engagement
 1. **CEO KR:** For each stage of GitLab, update Direction page to address delta with BIC competitor
 1. **CEO KR:** Achieve curated experience targets
-1. **CEO KR:** Onboard 15 new Leading Organizations
+1. **CEO KR:** Activate 15 new Leading Organizations
 1. **CEO KR:** Do FY24-Q1 OKRs in GitLab
 
 ### 3. CEO: Grow careers
