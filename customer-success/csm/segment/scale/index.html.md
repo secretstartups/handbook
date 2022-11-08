@@ -12,7 +12,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-### [Request Assistance from a Scale CSE (Internal Request form for AEs and SALs)](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#requesting-scale-cse-engagement-account-owners-only---aes-sals)
+[<button class="btn btn-primary" type="button">Request A Scale CSE (SAL/AE Only) </button>](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#requesting-scale-cse-engagement-account-owners-only---aes-sals)
 
 ## Overview
 
