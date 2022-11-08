@@ -23,6 +23,9 @@ The general process for promotions is:
 
 1. Support team member completes promotion document in collaboration with their
    manager.
+   - Collaboration with direct peers can also be a great resource in moving a
+     promotion document forward. A lot of team members find recognizing and
+     praising their co-workers easier than doing so for themselves.
 1. The manager circulates the promotion document for review and feedback
    amongst the manager's peers.
 1. Support Directs review and calibrate all proposed promotions once a quarter.
