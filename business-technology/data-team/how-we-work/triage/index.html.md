@@ -102,8 +102,13 @@ Data triagers are the first responders to requests and problems for the Data Pro
 - The Data Analyst triager is primarily responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
 - The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
 - The Data Platform triager is responsible for resolving problems with our data platform, which will either be in the **#data-pipelines** and **#data-prom-alerts** slack channels and on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20DE).
-    - During the assigned triage week the Data Platform Team member should be primarily focused on incoming incidents and issues or the issues on the [Data Platform - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). If a triage issue is already assigned it is still the triager responsibility to either take that issue or ensure progress is made. 
-       - If there is no work to be performed on open issues or incidents on the [board](https://gitlab.com/groups/gitlab-data/-/boards/1917859) the triager will work on their regular work assignments.
+    - During the assigned triage week the Data Platform Team member will focused on (in priority order):
+       - incoming incidents 
+       - [open incidents](https://gitlab.com/gitlab-data/analytics/-/incidents)
+       - new issues 
+       - open issues on the [Data Platform - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). 
+          - If an open incident or issue is already assigned it is still the triager responsibility to either take that issue or ensure progress is made. 
+          - If there is no work to be performed on incidents or issues on the [board](https://gitlab.com/groups/gitlab-data/-/boards/1917859) the triager will work on their regular work assignments.
     - Involvement from Data Platform Team members who do **not** carry triage responsibilities that week is likely still needed in somes cases like:
        - A standing issue or incident could not be solved by the triager and triager need help from other Data Platform Team members.
        - Monitoring #data-prom-alerts:
