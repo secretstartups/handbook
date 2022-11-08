@@ -367,6 +367,7 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
 - FMC adds the event to the [GitLab Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents), if applicable (specified by the FMM in the FMC Checklist section of the issue) 
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the Facilitate Tracking sub-issue previously created
    - FMC pings the FMM in the Facilitate Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
+- FMC and FMM to follow the [Copy Deadline Process](/handbook/marketing/field-marketing/#field-marketing-event-copy-deadline-process) for any assets the FMM has requested in the main issue's FMC Checklist.
 - When all the above tasks have been completed, the FMC will ping the FMM in the Field Marketing issue to confirm completion of the above tasks and will move the issue label `mktg-status::plan` to `mktg-status::wip`.
 
 ### Plan to WIP video walk through 
@@ -501,10 +502,10 @@ Please note that due to PII compliancy, addresses collected in Marketo landing p
 - FMM to assign FMC in main event issue.
 - FMC to attach their regional event tracking label to the event issue.
 - FMM and FMC to follow the [Process for Issues Moving from Plan to WIP](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
-- FMC to add all copy deadlines or link the write copy issue to main event issue under the `Copy Deadline` section.
-- FMM to update Copy Document file with copy and keep the Copy Document linked in the epic. Sample Copy Templates in the [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH).
-- Once FMM completes copy, they will update the [FM copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) that copy has been completed and ping the FMC.
-- One (1) business day before copy is due, FMC to ping FMM in [FM copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with copy reminder.
+- FMC to create a [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) and fill in the requested copy due dates for each asset the FMM has requested in the FMC checklist, and then attach the issue to the epic.
+- FMM to update the Copy Document file the FMC created for them (linked in the epic) with copy for each asset. Previous Copy Documents for reference are available in the [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH).
+- Once the FMM completes copy, they will ping the FMC in the [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) to notify them which asset copy has been completed.
+- If copy has not been completed for an asset yet, (1) business day before copy is due, the FMC will ping the FMM in [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with a copy due reminder.
 - FMC will make sure copy has been provided or continue to remind the FMM, if needed.
 
 # Lead List Deadline Process
