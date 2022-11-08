@@ -25,7 +25,7 @@ Better EQ provides better relations with remote teams. EQ plays an important rol
 
 Considering that these communication channels do not always express our true feelings, developing our EQ will be a tool for us to pick up on emotional cues and help us read between the lines to better understand the message. 
 
-Learn more about emotional intelligence by watching this session titled Being Human with Claire Doody, hosted by the GitLab L&D team in September, 2022.
+Learn more about emotional intelligence by watching this session titled Being Human with Claire Doody, hosted by the GitLab L&D team in September, 2022. Hear from more experts in conversations hosted by GitLab with [Reini Chipman on Diversity in Emotional Intelligence](https://youtu.be/DErrcLrw-ag) and [Christopher Connors on EQ for Modern Leaders.](https://youtu.be/6gwPV6Y5YUQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ai6DbsNIOF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
