@@ -41,7 +41,7 @@ categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner" } %>
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner SaaS" } %>
 
 
 ## Projects we maintain
@@ -54,34 +54,11 @@ is added to each project with maintainer permission. We also try to align tools 
 
 ## Development Process
 
-### Iterations
-
-The Gitlab Runner team works in monthly iterations. While the feature freeze for the core runner project is on the 7th in preparation for the release on the 22nd of each month, iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
-
-At a minimum, 30 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
-
-The commitments for the iteration plan are directly related to the capacity of the team for the upcoming iteration. Therefore, to finalize the iteration plan (resource allocation) for a milestone, we evaluate and consider the following:
-
-- Forced prioritization issues (these issues will always be first in line for resource allocation.)
-- In flight development work that did not complete prior to the feature freeze.
-- Strategic direction features.
-- Community or customer requested features.
-- Bugs
-- Technical Debt
-- Maintenance
-- Community merge requests review assignments
+This section needs additional filling out.
 
 ### Iteration Planning and Issue Refinement Process
 
-1. The PM creates iteration planning issues for at minimum the next three milestones.
-1. The PM adds candidate issues to the planning issues.
-1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::16.0`
-1. The PM assigns the iteration planning issues to the runner engineering manager (EM).
-1. The EM reviews all candidate tech debt, bugs, security and feature issues and validates if the `~workflow::ready for development` label can be applied or the issue needs further refinement. The priority is the next in queue milestone.
-1. The EM will assign issues needing refinement to individual engineers and add the `~workflow::refinement` label to the issue.
-1. **Issue Refinement**: engineers assigned to refine an issue are responsible for coming up with an implementation plan for the issue - exploring any unknowns, edge cases, or compatibility challenges that may come up and proposing how the issue can be broken down into smaller tasks that can be iterated on quickly. We strive to iterate and break down the efforts to ship as much value in the milestone for our users as possible. If you see a more efficient way forward when you start working on issue refinement, you are free to update the proposal and create a new issue to deliver value more quickly to our users.
-1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. All issues that are targeted for delivery in the milestone must have an engineer assigned.
-1. Finally the EM adds the `~deliverable` label to all issues and removes the scoped label `~candidate::x.y` from the issue.
+This section needs additional filling out.
 
 ## Issue Health Status Definitions
 
@@ -138,10 +115,18 @@ Some notes/suggestions:
 
 ## How to work with us
 
+### Runner Group Specific Onboarding Needs
+
+* `editor` access to the `group-verify` project in GCP
+* Add as `maintainer` to the `gitlab-com/runner-group` group on GitLab.com
+* Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
+* Add to `Verify` 1password vault (requires creating an access request).
+* (SaaS subgroup only) add to `runner_saas` AWS Sandbox Cloud account. Use the [following AR template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=aws_group_account_iam_update_request)
+
 ### On issues
 
 Issues worked on by the Runner group a group label of `~group::runner saas`. Issues that contribute to the verify stage of the devops toolchain have the `~devops::verify` label.
 
 ### Get our attention
 
-GitLab.com: `@gitlab-com/runner-group`
+GitLab.com: `@gitlab-com/runner-group/saas`
