@@ -171,9 +171,9 @@ Please refer to our [Incentives at Gitlab Handbook Page](https://about.gitlab.co
 
 ### Reimbursement Payout Timelines:
 
-#### Global Upside & Remote.com
+#### Global Upside, Remote.com & Papaya Global
 
-The list of Global Upside & Remote countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
+The list of Global Upside, Remote & Papaya countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
 * Team members must submit their expenses through Expensify. 
 * All expense reports must be submitted and approved by manager and the Accounts Payable team by the 7th of the month to include in the current month payment.
 
