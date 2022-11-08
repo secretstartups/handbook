@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Problem Validation and methods"
+title: "Problem validation and methods"
 description: "How to conduct problem validation research at GitLab"
 ---
 
