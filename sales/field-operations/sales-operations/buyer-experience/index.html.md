@@ -38,7 +38,6 @@ The [Buyer Experience Group Internal Handbook](https://internal-handbook.gitlab.
 1. TBD: Enterprise Applications
 
 ### Extended Team Members
-1. Keith Cheung: Sr Dir Pricing 
 1. Jack Brennan: Sr Dir Sales Systems
 1. Jesse Rabbits: Sr Manager Deal Desk & Order Management
 1. Jerome Ng: Sr Eng Mgr Fulfillment: Jerome
