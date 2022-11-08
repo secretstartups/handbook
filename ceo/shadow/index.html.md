@@ -262,8 +262,8 @@ If you're not familiar with some of the business acronyms, take a bit of time to
 
 - [KPI (Key Performance Indicator)](/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](/company/okrs/#what-are-okrs)
-- Product performance indicators such as [xMAU (Monthly Active User)](/handbook/product/performance-indicators/#three-versions-of-xmau) and [SpU (Stages per User)](/handbook/product/performance-indicators/#stages-per-user-spu)
-- [Revenue definitions](/handbook/sales/sales-term-glossary/#revenue-definitions) such as [ARR (Annual Recurring Revenue)](/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr)
+- Product performance indicators such as [CMAU (Combined Monthly Active User)(Internal link)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#estimated-combined-monthly-active-users-cmau) and [SpU (Stages per User )(Internal link)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#stages-per-user-spu)
+- [Revenue definitions (Internal link)](https://internal-handbook.gitlab.io/handbook/sales/sales-glossary/) such as [ARR (Annual Recurring Revenue)(Internal link)](https://internal-handbook.gitlab.io/handbook/sales/annual-recurring-revenue-arr/)
 - Other business terminology may come up. [Wall Street Oasis Finance Dictionary](https://www.wallstreetoasis.com/finance-dictionary#DicT) is a handy guide.
 
 **Note:** This list is not meant to be exhaustive and [should not become a glossary](/handbook/handbook-usage/#single-source-of-truth). While we strive to be handbook first, you may find that we are using acronyms without a clear handbook definition. If you can't find it in the handbook or find a standard definition on Google, ask someone what the acronym means. Not being able to find it could be a sign that we need to do a better job with documentation.
