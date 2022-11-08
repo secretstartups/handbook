@@ -16,7 +16,7 @@ description: "Customer Account Scoring overview and methodology framework to imp
 ---
 
 
-# Vision
+## Vision
 
 The Customer Health Score assists GitLab Account Teams in understanding the relative health of customers for the purposes of predicting expansion, retention, and churn through understanding the customer's product adoption, risks, and engaging with GitLab. The initial versions will focus more on adoption. Over time, we will iterate to make them more predictive as we validate leading indicators.
 
@@ -60,7 +60,7 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 ![Customer Health Vision](https://lucid.app/publicSegments/view/cccc6a4b-adad-4fcf-aba6-ddc53310111d/image.png)
 <br><br>
 
-### PROVE Components
+## PROVE Components
 
 | **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
 | -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
@@ -94,10 +94,6 @@ The following graph (Early Warning Segmentation Framework) is used to provide a 
 <br>
 ![Early Warning Segmentation Framework](images/early-warning-system-framework.jpeg)
 <br>
-
-# Success Criteria
-
-For a fuller list of the project roadmap, see [Product Usage Reporting Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gbc45c07eca_0_135).
 
 ## FY23
 
@@ -211,3 +207,9 @@ Segmentation will primarily follow the level of service (CSM Priority 1, 2, 3), 
 
 - [MVC Early Warning System epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/25)
 - [Customer Analytics Roadmap (internal-only document)](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gb3e6c0a32e_0_5) (slide deck)
+- [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
+- [Operational Data Vision](/handbook/customer-success/product-usage-data/)
+- [Cloud Licensing Documentation](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
+- [Strict Cloud Licensing](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
+- [Service Ping Metrics list](https://metrics.gitlab.com/) (subscription, operational, and optional)
+- [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)
