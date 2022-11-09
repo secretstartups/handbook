@@ -42,9 +42,9 @@ Customer Success Operations creates and updates existing processes for the Custo
 The CS Ops team also provides support for customer programs, renewals, and Gainsight.
 
 <div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Programs</a>
-    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-renewals/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Renewals</a>
-    <a href="/handbook/sales/field-operations/customer-success-operations/gainsight/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Gainsight Management<br> and Support</a>
+    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/" class="btn btn-purple-inv" style="width:30%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Programs</a>
+    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-renewals/" class="btn btn-purple-inv" style="width:30%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Renewals</a>
+    <a href="/handbook/sales/field-operations/customer-success-operations/gainsight/" class="btn btn-purple-inv" style="width:30%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Gainsight Management<br> and Support</a>
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Customer Success Operations provides support, content, and data analysis for all
 
 ## CS Ops Request Process
 
-![CS Ops Issue Flowchart](https://www.lucidchart.com/publicSegments/view/42d94a0a-3a9c-4ffd-b483-51bd9009385f/image.jpeg "CS Ops Issue Flowchart")
+![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/11f22877-d443-42b4-b94f-2e3188021a8b/image.png "CS Ops Issue Flowchart")
 
 ## CS Ops Board, Groups, Projects, and Labels
 
