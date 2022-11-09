@@ -102,9 +102,9 @@ The relevant controls that need to be documented in these programs are these thr
 #### Change Management (will exist in perpetuity):
 - Control - PC2: Changes are tested and approved by appropriate personnel in accordance with the change management policy.
 - Process for making changes.
+- Even if owned by the vendor after request, can we request changes? Do we need to test/approve?<br>
+- In many cases we should have a process to document those changes internally and test even if the change is ultimately implemented by the vendor.  We should always review the SOC 1 or 2 report to understand our responsibilities.
 
-Even if owned by the vendor after request, can we request changes? Do we need to test/approve?<br>
-In many cases we should have a process to document those changes internally and test even if the change is ultimately implemented by the vendor.  We should always review the SOC 1 or 2 report to understand our responsibilities.
 {: .alert .alert-warning}
 
 #### Program Development /Implementation of the system (1 time controls):
