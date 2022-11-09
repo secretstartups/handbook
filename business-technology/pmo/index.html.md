@@ -14,7 +14,7 @@ description: "Describes the program methodology for GitLab IT programs to ensure
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Context:
+## Context
 This page describes the program methodology for GitLab IT programs to ensure strong results and execution in an efficient way, proper scoping consistent with our value of iteration, correct stakeholders consistent with our value of collaboration and proper documentation for compliance consistent with our transparency value.
 
 ## Criteria for programs that meet this standard.
@@ -100,30 +100,31 @@ Additionally, we need clear documentation to meet change management controls and
 The relevant controls that need to be documented in these programs are these three:
 
 ## Change Management (will exist in perpetuity):
-Control - PC2 - Changes are tested and approved by appropriate personnel in accordance with the change management policy.
+- Control - PC2: Changes are tested and approved by appropriate personnel in accordance with the change management policy.
+- Process for making changes.
 
-- Process for making changes:
-   - Even if owned by the vendor after request, can we request changes? Do we need to test/approve?
-      - In many cases we should have a process to document those changes internally and test even if the change is ultimately implemented by the vendor.  We should always review the SOC 1 or 2 report to understand our responsibilities.
+Even if owned by the vendor after request, can we request changes? Do we need to test/approve?<br>
+In many cases we should have a process to document those changes internally and test even if the change is ultimately implemented by the vendor.  We should always review the SOC 1 or 2 report to understand our responsibilities.
+{: .alert .alert-warning}
 
 ## Program Development /Implementation of the system (1 time controls):
 1. Control - PD1 - Significant program changes are tested and known issues are communicated to the relevant stakeholders prior to approval.
 1. Control - PD2 - GitLab validates that data transferred during an applicable program change is complete and accurate.
  
 As a result the DRI needs to:
-Project Plan/SDLC: 
-1. Confirm that full scope that was agreed to was implemented.
+
+1. **Project Plan/SDLC**
+   - Confirm that full scope that was agreed to was implemented.
 ensure there is documentation that UAT was complete and signoff on the UAT by business stakeholders established in the core team. This UAT signoff should be reviewed by the steering committee and signed off as well.
-1. Testing over key processes, reports, and ensuring business needs will be met by the system (and how)
-1. Known defects/issues at go-live - are there problems that exist that need to still be vetted but proceeding to business go-live without fixing? What are those problems, what is the documentation/rationale supporting moving forward?
-1. Final approval for business go-live is captured. Approvals from technical owners and business owners at appropriate levels (e.g. does this warrant CFO sign-off vs. Manager sign-off)
- 
-Data Management/Migration
-1. If there is data migration, demonstrate a reconciliation that the migration was complete and accurate.
-1. For data that will be imported, what is the process for getting that into the system and what are the controls/checks in place to ensure the data that gets in completely and accurately.
-1. This can be solved through several avenues but good documentation is key. Who has access during transformation? Are there before/after checks? What are the “key” fields? Is there  an acceptable level of data loss/inaccuracy?
-1. Evidencing data management is the most important part of this Program Development process. How can we adequately demonstrate that data in the system is complete and accurate according to our business needs?
-1. Show documentation of an enablement plan and that the changes were communicated effectively to the users of the changed system.
+   - Testing over key processes, reports, and ensuring business needs will be met by the system (and how)
+   - Known defects/issues at go-live - are there problems that exist that need to still be vetted but proceeding to business go-live without fixing? What are those problems, what is the documentation/rationale supporting moving forward?
+   - Final approval for business go-live is captured. Approvals from technical owners and business owners at appropriate levels (e.g. does this warrant CFO sign-off vs. Manager sign-off)
+1. **Data Management/Migration**
+   - If there is data migration, demonstrate a reconciliation that the migration was complete and accurate.
+   - For data that will be imported, what is the process for getting that into the system and what are the controls/checks in place to ensure the data that gets in completely and accurately.
+   - This can be solved through several avenues but good documentation is key. Who has access during transformation? Are there before/after checks? What are the “key” fields? Is there  an acceptable level of data loss/inaccuracy?
+   - Evidencing data management is the most important part of this Program Development process. How can we adequately demonstrate that data in the system is complete and accurate according to our business needs?
+   - Show documentation of an enablement plan and that the changes were communicated effectively to the users of the changed system.
 
 _We are creating a template for this signoff._
 
