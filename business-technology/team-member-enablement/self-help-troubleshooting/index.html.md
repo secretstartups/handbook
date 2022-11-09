@@ -197,6 +197,50 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
+### Insalling OS Ventura
+
+**Pre-requisites**
+
+Before you install, please be sure to have the following:
+25 GBs of HD space
+The latest version of SentinelOne (22.2.3 or higher)
+
+**Download and Installation**
+The entire process will take a minimum of an hour depending on your internet speed. Please give yourself sufficient time to download and install the upgrade, avoid doing this upgrade before meetings. Once you are greeted with the login screen, the upgrade is complete. Be sure that you reboot a couple of times after the installation is complete.
+
+There's 2 ways to upgrade to Ventura
+
+**Self Service**
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left hand side you'll see OS Updates, click on that
+4. From here you'll see the newest version of MacOS Big Ventura. Click on it to install. This will redirect you to the Apple Store where you can install the OS. 
+5. This can take upwards of an hour, so please factor in that time when you are updating
+
+**Check for Updates**
+1. Click on the Apple in the top left hand corner of your mac and then click on System Preferences
+2. Click on the general tab and then Software Updates > Check for updates
+3. You'll then have the chance to install either Ventura or the next update that is needed to then install OS Ventura
+
+
+### FAQ for issues with a new macOS update
+How can I tell if my MacBook is using an Intel or an Apple M1/M2 chip?
+Please refer to this guide https://support.apple.com/en-ca/HT211814#:~:text=To%20open%20About%20This%20Mac,as%20an%20Intel%2Dbased%20Mac.
+
+**My external monitor is not working properly?**
+Power cycle your monitor (https://edu.gcfglobal.org/en/basic-computer-skills/how-to-power-cycle-a-device/1/).
+Try the troubleshooting steps from macOS User Guide (https://support.apple.com/en-nz/guide/mac-help/mchl7c7ebe08/mac)
+Reset your SMC if you’re using an Intel (i5, i7) MacBook. (https://www.youtube.com/watch?v=wlkGh2flbvI)
+Reset your NVRAM and PRAM if you’re using an Apple M1/M2 MacBook. (https://www.youtube.com/watch?v=LoUO1RwMg1w)
+Replace your USB C hub for a Satechi Multi-Port Adapter, replace the cable that is connected from your monitor to your MacBook HDMI cable (higher end version)
+
+**Zoom is not working after I updated to Ventura** 
+You will need to uninstall and install Zoom again. Please follow this guide: https://support.zoom.us/hc/en-us/articles/201362983-Uninstalling-and-reinstalling-the-Zoom-application 
+
+**Some of my applications are not working properly, what can I do?***
+Reinstall your specific applications that are not working properly.
+
+
 ### What is JAMF Self Service
 
 With the installation of JAMF comes Self Service which can be found in Applications. Jamf Self Service for macOS allows users to browse and install applications, configuration profiles and update your OS easily. 
@@ -212,7 +256,7 @@ Update to the newest OS
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
 3. On the left hand side you'll see OS Updates, click on that
-4. From here you'll see the newest version of MacOS Big Sur. Click on it to install. This will redirect you to the Apple Store where you can install the OS. 
+4. From here you'll see the newest version of MacOS Big Ventura. Click on it to install. This will redirect you to the Apple Store where you can install the OS. 
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
 Update your existing OS to the most recent version
