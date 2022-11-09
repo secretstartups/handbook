@@ -140,11 +140,21 @@ If you are able to find hidden gems in these markets, please go ahead and make t
 
 ### Team Building Budget
 
-In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is no additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. More to come in the section below as we get closer to FY23-Q4.
+In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is no additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. 
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
-GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. More guidance to come as we get closer to FY23-Q4.
+GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. 
+
+Guidance on the year-end holiday budget:
+    - Each Egroup member will coordinate for their respective organizations or appoint a designee for the organization
+    - The budget can be used for in person or virtual events
+    - The budget is [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member and funds cannot be pooled or re allocated if there is under spend
+    - The money cannot be used for charitable donations or gifts
+    - If you are hosting an event and asked to attend another event, the budget is for all events and not per event
+    - The budget can be spent anytime in 4Q, please make sure you promptly submit your expense report prior to the end of 4Q
+
+If you have any questions, please reach out to your manager for guidance.
 
 ### Get Together/Virtual Meal with GitLab Team member(s)
 
