@@ -89,10 +89,14 @@ Uses the `unlink_customer` function.
 ### Emergency license generation
 
 Generates a legacy Ultimate trial license valid for 10 days and emails it to the customer email specified in the form.
-The use of this feature should be limited for any emergency license request during the weekends. 
+The use of this feature should be limited for any emergency license requests when L&R is unavailable, such as during the weekends. 
 
-- **Customer email:** The email where the license will be sent.
-- **User count:** Total number of users in the license.
+- **Customer email:** The email where the license will be sent. We recommend sending the license to the ticket requester's email, unless specified otherwise.
+- **User count:** Total number of users in the license. 
+
+A note on **User Count**:
+
+For Self-Managed licences, GitLab will refuse to install a license key with less than the current number of billable users. Therefore, **User Count** for a trial license should _at least_ be the same number as the current number of billable users plus any true-ups owed (if any).  For example, if 25 current billable users, and 5 true-ups owed, set **User Count** to at least 30.
 
 ### Add storage to a namespace
 
