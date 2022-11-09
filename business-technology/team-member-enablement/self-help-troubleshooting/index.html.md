@@ -206,11 +206,13 @@ Before you install, please be sure to have the following:
 The latest version of SentinelOne (22.2.3 or higher)
 
 **Download and Installation**
+
 The entire process will take a minimum of an hour depending on your internet speed. Please give yourself sufficient time to download and install the upgrade, avoid doing this upgrade before meetings. Once you are greeted with the login screen, the upgrade is complete. Be sure that you reboot a couple of times after the installation is complete.
 
 There's 2 ways to upgrade to Ventura
 
 **Self Service**
+
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
 3. On the left hand side you'll see OS Updates, click on that
@@ -218,6 +220,7 @@ There's 2 ways to upgrade to Ventura
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
 **Check for Updates**
+
 1. Click on the Apple in the top left hand corner of your mac and then click on System Preferences
 2. Click on the general tab and then Software Updates > Check for updates
 3. You'll then have the chance to install either Ventura or the next update that is needed to then install OS Ventura
@@ -225,17 +228,22 @@ There's 2 ways to upgrade to Ventura
 
 ### FAQ for issues with a new macOS update
 How can I tell if my MacBook is using an Intel or an Apple M1/M2 chip?
-Please refer to this guide https://support.apple.com/en-ca/HT211814#:~:text=To%20open%20About%20This%20Mac,as%20an%20Intel%2Dbased%20Mac.
+Please refer to this [guide](https://support.apple.com/en-ca/HT211814#:~:text=To%20open%20About%20This%20Mac,as%20an%20Intel%2Dbased%20Mac)
 
 **My external monitor is not working properly?**
-Power cycle your monitor [monitor] (https://edu.gcfglobal.org/en/basic-computer-skills/how-to-power-cycle-a-device/1/).
-Try the troubleshooting steps from macOS User [guide] (https://support.apple.com/en-nz/guide/mac-help/mchl7c7ebe08/mac)
-Reset your SMC if you’re using an Intel (i5, i7) [MacBook.] (https://www.youtube.com/watch?v=wlkGh2flbvI)
-Reset your NVRAM and PRAM if you’re using an Apple M1/M2 [MacBook.] (https://www.youtube.com/watch?v=LoUO1RwMg1w)
+
+Power cycle your [monitor](https://edu.gcfglobal.org/en/basic-computer-skills/how-to-power-cycle-a-device/1/)
+
+Try the troubleshooting steps from macOS User [guide](https://support.apple.com/en-nz/guide/mac-help/mchl7c7ebe08/mac)
+
+Reset your SMC if you’re using an Intel (i5, i7) [MacBook.](https://www.youtube.com/watch?v=wlkGh2flbvI)
+
+Reset your NVRAM and PRAM if you’re using an Apple M1/M2 [MacBook](https://www.youtube.com/watch?v=LoUO1RwMg1w)
+
 Replace your USB C hub for a Satechi Multi-Port Adapter, replace the cable that is connected from your monitor to your MacBook HDMI cable (higher end version)
 
 **Zoom is not working after I updated to Ventura** 
-You will need to uninstall and install Zoom again. Please follow this [guide:] (https://support.zoom.us/hc/en-us/articles/201362983-Uninstalling-and-reinstalling-the-Zoom-application) 
+You will need to uninstall and install Zoom again. Please follow this [guide:](https://support.zoom.us/hc/en-us/articles/201362983-Uninstalling-and-reinstalling-the-Zoom-application) 
 
 **Some of my applications are not working properly, what can I do?***
 Reinstall your specific applications that are not working properly.
