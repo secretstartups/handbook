@@ -152,7 +152,7 @@ graph TB
 <details>
 <summary markdown="span">Requirements by Type and Tier</summary>
 
-Generally, a third party's SOC 2 report, ISO 27001 certification, Standard Information Gathering (SIG) form or equivalent will provide reasonable assurance if the scope provides coverage over the services offered. In the event an attestation is not available, TPRM will provide third parties with a copy of our SIG for completion. See below for details.
+Generally, a third party's SOC 2 report, ISO 27001 certification, Standard Information Gathering (SIG) form or equivalent will provide reasonable assurance if the scope provides coverage over the services offered. In the event an attestation is not available, TPRM will provide third parties with a copy of our SIG for completion. Once the third party has provided a SOC2 report, ISO 27001 certification, or completed SIG, the Security Risk team has a service level agreement (SLA) of 10 business days tom complete the TPRM assessment. have to support the reviewSee below for details.
 
 | Vendor Type | Red Data | Individual Contractors outside of Assessed Agency | Software Subscription | Professional Service | Individual Contractors through Assessed Agency | Field Marketing | Partners | Yellow Third Parties | Green Third Parties |
 |--------------------------------|-----------|--------------|-----------------------|----------------------|------------------------------------------------|--------------------------------|----------------------------------------------------------------------|--------------------------------|---------------------|
