@@ -66,9 +66,6 @@ As a note, `basic`(deprecated) and `starter` are two different tags for the same
 
 ## Categorization tags
 
-<details>
-<summary>Due to the length of these, it has been compressed by default. Click here to expand</summary>
-
 | Tag | What it is for |
 |---|---|
 | `lnr_category_cdot` | The L&R ticket involves customers.gitlab.com |
@@ -583,8 +580,6 @@ As a note, `basic`(deprecated) and `starter` are two different tags for the same
 | `support_usage_quotas_questions` | The Support ticket involves usage quota questions |
 | `support_usage_quotas_seats` | The Support ticket involves usage quota seats |
 | `support_usage_quotas_storage` | The Support ticket involves usage quota storage |
-
-</details>
 
 ## License and Renewals Internal Request Tags
 
