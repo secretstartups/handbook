@@ -9,10 +9,10 @@ canonical_path: "/company/culture/inclusion/tmdg-gitlab-early-career/"
 Welcome to the Early Career Professionals TMDG! 
 
 ## Mission Statement
-The Early Career Professionals TMDG champions career growth, professional development and belonging for early career employees. The group promotes inclusion and engagement at GitLab through peer support, mentorship and continuous learning.
+The Early Career Professionals TMDG champions career growth, professional development and belonging for early career team members. The group promotes inclusion and engagement at GitLab through peer support, mentorship and continuous learning.
 
 ## Vision
-As the Early Career Professionals TMDG, our vision is to support GitLab team members who are entering their careers or entering new careers and educate the broader organization about how to productively work with these folks. 
+As the Early Career Professionals TMDG, our vision is to support GitLab team members who are entering their careers or entering new careers and educate the broader organization about how to productively work with these folks. This group was formed to champion career growth and facilitate belonging for early-career GitLab team members as well as folks who may be new to the tech space/transitioning from another industry and those who want to understand how to advocate for peers who belong to this group.
 
 ## Leadership
 Lead: @kpdoespr
