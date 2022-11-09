@@ -68,6 +68,9 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 <details>
 <summary markdown="span">Handbook Pages</summary>
 - [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/)
+- [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)
+- [Partner Certifications & training](https://about.gitlab.com/handbook/resellers/training/)
+- [NFR Policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy )
 - [Channel Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
 - [Channel Programs Operations](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops)
 - [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#)
