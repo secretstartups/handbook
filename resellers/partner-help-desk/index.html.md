@@ -88,6 +88,10 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 - [Channel Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
 - [Channel Programs Operations](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops)
 - [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#)
+- [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview)
+- [NFR Policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy)
+- [Partner Certifications & Training](https://about.gitlab.com/handbook/resellers/training/)
+- [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)
 </details>
 
 <details>
@@ -102,6 +106,7 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 - [Online Agreement](https://partners.gitlab.com/prm/English/s/assets?id=290599)
 - [Deal Registration Guide](https://partners.gitlab.com/prm/English/s/assets?id=391183)
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
+- [GitLab Program Discounts and Incentive Guide - Commercial](https://partners.gitlab.com/prm/English/s/assets?id=350001)
 </details>
 
 
