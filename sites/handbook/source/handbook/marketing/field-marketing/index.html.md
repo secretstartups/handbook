@@ -721,6 +721,8 @@ For details on how we handle events please visit the [GitLab Event Information](
 
 ## [Marketing SSOT calendar](/handbook/marketing/#fy22-calendar) 
 
+## [AMER Field Marketing Event Tracker for Sales](/https://docs.google.com/spreadsheets/d/1-McecmJ7MVgdmVrjzBdrxrx6CfJ6U0dqnMILBNl67j0/edit#gid=0) It is the responsibility of each field marketing manager to ensure that this tracker is up to date with all AMER Field Marketing initiatives. Sales should consider this spreadsheet live and current daily. 
+
 ## Google Calendar links 
 If you prefer to see the events in an actual calendar view please refer to the following: 
 * [External virtual events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
