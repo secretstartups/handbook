@@ -27,7 +27,7 @@ To create an issue for yourself with one of the module templates:
 
 ## Support hybrid model
 
-The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point. For those working through the hybrid model path, you may also find these [checkpoints](/handbook/support/training/onboarding_hybrid_path_checkpoints.html) a useful reference.
+The hybrid model is a structured training plan that will prepare you to work on both [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/) and [self-managed](https://docs.gitlab.com/ee/subscriptions/self_managed/) support issues. The ultimate goal is to split your time roughly 50%/50% between the two. You may find these [checkpoints](/handbook/support/training/onboarding_hybrid_path_checkpoints.html) helpful while working through the hybrid model path.
 
 <div class="x-scrollable">
 <div style="width: 1800px;">
@@ -64,7 +64,7 @@ sequenceDiagram
     Manager->>New SE: Set expectations for hybrid work split, starting with 90%/10%.
 
     loop 1:1s
-        New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
+        New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/50%
     end
 ```
 </div>
