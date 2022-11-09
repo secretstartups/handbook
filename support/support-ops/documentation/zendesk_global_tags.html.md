@@ -70,7 +70,7 @@ As a note, `basic`(deprecated) and `starter` are two different tags for the same
 <summary>Due to the length of these, it has been compressed by default. Click here to expand</summary>
 
 | Tag | What it is for |
-| --- | --- |
+|---|---|
 | `lnr_category_cdot` | The L&R ticket involves customers.gitlab.com |
 | `lnr_category_other` | The L&R ticket's category is unknown |
 | `lnr_category_purchasing_issues` | The L&R ticket involves purchasing issues |
