@@ -197,7 +197,7 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
-### Insalling OS Ventura
+### Installing OS Ventura
 
 **Pre-requisites**
 
