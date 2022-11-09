@@ -55,16 +55,13 @@ Please file an issue [here](https://gitlab.com/gitlab-org/gitaly/-/issues/new?is
 
 ### Normal priority requests
 
-We use the standard [engineering workflow] to [schedule work]. To get Gitaly team
-work on something, it's best to create an issue on the [Gitaly issue tracker]
-and add the `~"group::gitaly"` and `~"workflow::problem validation"` labels,
+To get Gitaly team work on something, it's best to create an issue on the [Gitaly issue tracker]
+and add the `group::gitaly` and `workflow::problem validation` labels,
 along with any other appropriate labels.  Then, feel free to tag the relevant
 Product Manager and/or Engineering Manager as listed above.
 
 For information requests and other quick one-offs, feel free to use [#g_gitaly] on Slack to get attention on the issue.
 
-[schedule work]: https://gitlab.com/gitlab-org/gitaly/-/issues/4095
-[engineering workflow]: https://about.gitlab.com/handbook/product-development-flow/#workflow-summary
 [Gitaly issue tracker]: https://gitlab.com/gitlab-org/gitaly/issues
 [Gitaly ongoing work issue board]: https://gitlab.com/groups/gitlab-org/-/boards/1140874?label_name%5B%5D=group%3A%3Agitaly&milestone_title=Upcoming
 [#g_gitaly]: https://gitlab.slack.com/archives/g_gitaly
@@ -96,12 +93,84 @@ and/or PM polling these dashboards:
 
 ## Working with product
 
-A weekly call is held between the product manager and engineering manager,
-which is listed in the "Gitaly Team" calendar. Everyone is welcome to join and
+### Agile workflow in Gitaly
+
+We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to schedule and track our work.
+
+Work is executed in small chunks (2-3 days of work), each tracked as an issue. This allows for natural "checkpoints" for safe context switching.
+Triaging and scheduling is separate from executing the current work. All incoming work is tracked and we are intentional about picking up new work.
+
+Incoming work of all kind (both projects and ad-hoc interrupts) passes by EM and PM for triage. There may be some engineering consultation here about feasibility,
+fit with the product's strategy roadmap etc. Some will get scheduled, some goes to the backlog. If the effort is not deemed necessary or not believed
+to align with the roadmap, we will close the issue with commentary as to why it is not being pursued for future reference.
+
+We aim to scope milestones such that we have a task list that is ambitious, but not overwhelming. We deliberatly leave some capacity 
+for incoming incidents.
+We want to avoid the feeling of a never ending mountain of work to promote a healthy work / life balance.
+It is also important to stress, that milestones are recommendations only and we work on the best effort basis.
+
+For issues with a strict SLO, we follow the process defined [below](#handling-issues-with-strict-slo)
+
+We use the following workflow labels on the issues:
+
+1. `workflow::problem validation` - A good spot to put features that we may / may not want to pursue. This is where product can do some user interviews, cost analysis, market fit, etc to decide if it's an opportunity we wish to pursue.
+1. `workflow::planning breakdown` - Use this label at the epic level when we're looking to break down issues / features between the Gitaly teams. I would then expect issues underneath this to be allocated to either Git / Gitaly Cluster.
+1. `workflow::solution validation` - Use this label for features / issues where Engineering needs to investigate / propose a solution going forward
+1. `workflow::scheduling` - This should be a bucket of work that is broken down, has validated solutions, and is ready for scheduling in the current or an upcoming milestone.
+1. `workflow::ready for development` - Work that is scheduled for a milestone (either the current one, or one in the future)
+1. `workflow::in dev` - Actively being worked by the Engineering team
+1. `workflow::in review` - Work that is in review
+1. `workflow::verification` - code is in production and pending verification by the DRI engineer
+1. `workflow::production` - changes are verified, issue can be closed
+
+Issues scheduled for the milestone (with `workflow::ready for development` and a specific release milestone assigned)
+can be further prioritized by moving them up or down on the dashboard. 
+
+Issues that we definitely want to prioritize for a release receive a `Deliverable` label and are moved to the top of the list.
+These `Deliverable` issues help show our commitment to GitLab and our customers around working on these issues.
+
+Engineers ready to pick up more work do not necessarily need to assign the topmost item, but rather make an informed choice
+with affinity (area of expertise, relative urgency, interest etc).
+
+Everyone can file new issues as more work is discovered, and feed them into this process.
+
+Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized.
+
+A weekly call is held between the product manager and engineering manager.
+Everyone is welcome to join and
 these calls are used to discuss any roadblocks, concerns, status updates,
 deliverables, or other thoughts that impact the group.
 
-### Gitaly consumers
+### From OKRs to projects and tasks
+
+OKR planning is done before every quarter, for the next 3 milestones. At the time, we must have a good idea of the work that needs to be done.
+The process is as follows:
+
+1. EM+PM (with input from engineers and stakeholders): decide the scope we'll be working on.
+
+1. EM+PM+Engineers: File issues for the work, not for KRs -- the work may slip or get rescheduled, and there's already tracking for the KRs themselves in Ally.
+1. EM: Tie the issues to KRs in Ally.io. This is mostly for reporting/communication of what we want to work on. Where possible, align with the larger organization's objectives.
+
+1. PM: Once the scope of the quarter is clear, take the list of issues and assign one of the three milestones, along with `workflow::planning breakdown` (for large issues in need of breakdown) or `workflow::ready for development`.
+
+1. Engineers: pick up `workflow::planning breakdown` items and file smaller issues if needed, adding them to the same 3 milestones as reasonable. Raise exceptions as needed.
+
+### Handling issues with strict SLO
+
+Issues with `Infradev` label are typically [Corrective Actions or other followup items](https://about.gitlab.com/handbook/engineering/workflow/#infradev) that have strict
+SLO tracking. They will be scheduled through either of the above paths, by EM
+and/or PM polling these dashboards:
+
+[Infradev issue details](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0)
+[Past due Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=13349849&udv=0)
+
+1. EM+PM: Poll the dashboards at least weekly. Triage and schedule these issues so that SLOs can be met. If needed, move the issue to the Gitaly tracker, or file a proxy issue there so that it shows up on work boards, and mark it as blocking. Drag issues to the top of the workflowready for development column.
+
+1. EM+PM: If the issue is blocked or depends on ongoing work, add a Milestone that fits the SLO and the pending work (so that we don't forget it). Ensure that blocking work gets scheduled before.
+
+1. Engineers: please prioritize picking up this work, and post frequent (at most weekly, even if no changes) updates in the original issue. Mark any blocking issues as such.
+
+## Gitaly consumers
 
 To have a constant communication flow about planned changes, updates and maybe
 breaking changes we have the [#g_gitaly] Slack channel. In the
@@ -118,6 +187,12 @@ The Gitaly consumers are:
 * [GitLab Shell](https://gitlab.com/gitlab-org/gitlab-shell)
 * [GitLab Workhorse](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/workhorse/index.md)
 * [GitLab Elasticsearch Indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer)
+
+## Retrospectives
+
+At the beginning of each release, the Gitaly EM will create a retrospective issue
+to collect discussion items during the release. The first weekly Gitaly meeting
+after the 18th that issue will be used to discuss what was brought up.
 
 ## Metrics
 
