@@ -334,7 +334,7 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
 
 ### Get Together Grant
 
-Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, Aug, and Nov, we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. To take part in the grant, check out the following details:
+Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, and August we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. In the fourth quarter, we will have a holiday grant that will be coordinated by your E-group leader.  To take part in the grant, check out the following details:
 
 1. Each team member can expense up to $50 USD each quarter on a meal, activity, and/or ground transportation to spend time with a GitLab team member in-person. Or, up to $25 USD each quarter for a virtual Get Together on a remote activity, remote coffees or remote meals (yes, this means you can have a real coffee for your remote coffee chat).
 1. To use the grant, get together with a team member and expense up to $50 USD for in-person meet-ups or $25 USD for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug, and Nov) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
