@@ -97,6 +97,17 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
+#### What if I am a designated Insider?
+
+Remider: If you are a Designated Insider, while employed by GitLab, each team member is required to comply with the Insider Trading Policy, which among things, prohibits team members who are in possession of material non-public information (MNPI) from (i) trading in GitLab’s stock or other securities on the basis of that MNPI or (ii) disclosing MNPI to someone else who trades on the basis of such MNPI. The Insider Trading Policy also applies to a team member’s immediate family members and household members. In addition, as a Designated Insider and while employed at GitLab you are required to have pre-clearance before making any transactions in GitLab’s stock or other securities. 
+
+After you are officially no longer employed by GitLab, your trading account should be unrestricted. However, we recommend that you consider a 90 day “cooling off” period prior to trading in order to avoid any intentional or accidental violation of applicable securities laws. If, however, you are aware of or in possession of any MNPI when your employment or service relationship with GitLab ends, you may not trade (whether directly or indirectly) in GitLab’s stock or other securities until that MNPI has become public or is no longer material.  It is a violation of applicable securities laws to trade on MNPI. 
+
+If you decide to trade in GitLab’s stock or other securities prior to the 90th day following the end of your employment or service relationship with GitLab, we suggest that you evaluate whether you have MNPI prior to trading. 
+
+
+
+
 #### Will my ESPP contributions be reimbursed?
 
 Yes. Payroll processes ESPP reimbursements during payroll cycles with termination reports. You may receive your reimbursement on the pay period after your termination. Please make sure you unenroll from ESPP in [Schwab](https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx) as well.
