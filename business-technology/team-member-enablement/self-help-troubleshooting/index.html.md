@@ -227,7 +227,9 @@ There's 2 ways to upgrade to Ventura
 
 
 ### FAQ for issues with a new macOS update
-How can I tell if my MacBook is using an Intel or an Apple M1/M2 chip?
+
+**How can I tell if my MacBook is using an Intel or an Apple M1/M2 chip?**
+
 Please refer to this [guide](https://support.apple.com/en-ca/HT211814#:~:text=To%20open%20About%20This%20Mac,as%20an%20Intel%2Dbased%20Mac)
 
 **My external monitor is not working properly?**
@@ -243,9 +245,11 @@ Reset your NVRAM and PRAM if you’re using an Apple M1/M2 [MacBook](https://www
 Replace your USB C hub for a Satechi Multi-Port Adapter, replace the cable that is connected from your monitor to your MacBook HDMI cable (higher end version)
 
 **Zoom is not working after I updated to Ventura** 
+
 You will need to uninstall and install Zoom again. Please follow this [guide:](https://support.zoom.us/hc/en-us/articles/201362983-Uninstalling-and-reinstalling-the-Zoom-application) 
 
 **Some of my applications are not working properly, what can I do?***
+
 Reinstall your specific applications that are not working properly.
 
 
