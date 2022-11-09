@@ -294,6 +294,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
+| [IT](/handbook/business-technology/it) | Craig Mestel | Yes | Quarterly | | EBA to VP of Business Technology |
 
 | AMAs | DRI |  AMA Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ------------ | --------------- | -------------- |
