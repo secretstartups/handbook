@@ -164,6 +164,11 @@ In the following 2 sessions, team members read [Good Bones](https://waxwingmag.o
 1. [Session 1 Recording](https://youtu.be/g-Y1romKfug)
 2. [Session 2 Recording](https://youtu.be/v7rEq5tmCao)
 
+### TMRG Member-Led Sessions
+
+1. [Managing Social Media for Mental Health](https://youtu.be/KN41P3H81_Q)
+1. [How to live your best life! Networking and negotiating to get what you want](https://youtu.be/_-opwVZJo98)
+
 ## Additional Resources
 
 ### Women TMRG logo 
