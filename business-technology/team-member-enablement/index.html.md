@@ -148,7 +148,7 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - Jenny Wong - [appointment schedule](https://calendar.app.google/HJoCYkbf4XnApqSU6) - AMER
 
-- Paul Laurinavicius - [appointment schedule](https://calendly.com/plaurinavicius) - EMEA
+- Paul Laurinavicius - [appointment schedule](https://calendar.app.google/k89MSDJKPb9fZtwW6) - EMEA
 
 - Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA 
 
