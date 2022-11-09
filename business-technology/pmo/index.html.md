@@ -113,7 +113,7 @@ The relevant controls that need to be documented in these programs are these thr
 As a result the DRI needs to:
 
 1. **Project Plan/SDLC**
-   - Confirm that full scope that was agreed to was implemented.
+   - Confirm that full scope is documented prior to go-live and reconciled with implemented functionality
 ensure there is documentation that UAT was complete and signoff on the UAT by business stakeholders established in the core team. This UAT signoff should be reviewed by the steering committee and signed off as well.
    - Testing over key processes, reports, and ensuring business needs will be met by the system (and how)
    - Known defects/issues at go-live - are there problems that exist that need to still be vetted but proceeding to business go-live without fixing? What are those problems, what is the documentation/rationale supporting moving forward?
