@@ -87,6 +87,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
 | VSA |  [Value Stream Assessment](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments) |
+| L28D |  Short form for "Last 28 days". |
 
 **Engineering Related Acronyms**
 
