@@ -724,3 +724,28 @@ Here is the config table for the automation logic for reference:
 * [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
   * All tests that start with `setBillingAddressOnAccounts_`
   * `validateBillingAddress` (Helper Functions)
+
+### Stamp Segments based on Opportunity Owner
+
+ **Business Process this supports**-  The sales cycle and analytics
+
+**Overview** - 
+
+This automation stamps User/Owner Segment  fields (Segment, Geo, Area, Role Type, Region) in the opportunity record every time when an opportunity is created or transferred to a different owner except for  openprise hybrid users.
+
+**Fields that are stamped by automation** - 
+
+Stamped Opp Owner User Segment
+Stamped Opp Owner User Geo
+Stamped Opp Owner User Region
+Stamped Opp Owner User Area
+Stamped Opp Owner User Role Type
+
+
+**Logic** - 
+- When an opportunity is created, the automation stamps the fields depending on user’s  profile attributes  
+- When `Stamped fields edited by OP` is checked, the flow will not run. Preventing the field updates regardless of when an opportunity owner is changed. 
+
+**Logic Locations** 
+
+[Flow](https://gitlab.lightning.force.com/builder_platform_interaction/flowBuilder.app?flowId=3018X000000oZL0QAM)
