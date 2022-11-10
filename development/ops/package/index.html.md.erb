@@ -252,7 +252,7 @@ The weekly update comment should include:
 ##### Examples
 
 Some good examples of epic updates that cover the above aspects:
-- https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793 
+- https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793
 - https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901
 
 ### Workflow
@@ -276,24 +276,24 @@ Issues that we're expecting to work on in the milestone will have the `workflow:
 
 #### Milestone Planning
 
-- Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. 
+- Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones.
 - The PM creates an issue for milestone planning that includes the goals, priorities and work for the milestone. The milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
-- Everyone can contribute and collaborate in the milestone issue to propose work, raise concerns and clarify topics.  
+- Everyone can contribute and collaborate in the milestone issue to propose work, raise concerns and clarify topics.
 - To identify work and their priority, issues are assigned to the milestone and labelled as `Package:P1` or `Package:P2` according to their priority. Our prioritization model can be found below in the section [Priorities](/handbook/engineering/development/ops/package/#milestone-priorities).
 - Before commiting to the work for the milestone, engineers perform [refinement](/handbook/engineering/development/ops/package/#refinement) and confirm all issues are ready for development.
-- We commit to the `Package:P1` work in the milestone by having an engineer add the `workflow::ready for development` label and then having the engineering manager add the `Deliverable` label. We measure our predictability and commitments with [Say/Do ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios).  
+- We commit to the `Package:P1` work in the milestone by having an engineer add the `workflow::ready for development` label and then having the engineering manager add the `Deliverable` label. We measure our predictability and commitments with [Say/Do ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios).
 
 #### Refinement
 
 We follow the [Product Development Flow](/handbook/product-development-flow/). After [problem](/handbook/product-development-flow/#validation-phase-2-problem-validation) and [solution validation](/handbook/product-development-flow/#build-track) are complete, the next step is refinement, where engineers break down requirements and present a high-level MVC and feasible estimated solution.
 
-Any issues needing refinement are labeled `workflow::refinement`. This label can be added by anyone throughout the issue lifecycle. 
+Any issues needing refinement are labeled `workflow::refinement`. This label can be added by anyone throughout the issue lifecycle.
 
 Issues that will likely be scheduled for implementation in the current quarter must have both the quarter label (e.g. `FY23::Q3`) and `workflow::refinement`. Having both labels makes issues that will soon be refined by engineers discoverable for the product designer. The product designer ensures the issue is still relevant, the issue description is complete, and the designs are up-to-date.
 
-The product manager will determine issues that need to be refined by the engineers in the upcoming milestone and apply the label `workflow::refinement`. The expectation is by the end of the milestone, all of those issues have been refined by the engineers and move to `workflow::ready for development`. 
+The product manager will determine issues that need to be refined by the engineers in the upcoming milestone and apply the label `workflow::refinement`. The expectation is by the end of the milestone, all of those issues have been refined by the engineers and move to `workflow::ready for development`.
 
-To drive refinement, we use a randomly assigned refinement [DRI](/handbook/people-group/directly-responsible-individuals/). The refinement DRI is not necessarily the person completing the refinement tasks, but is responsible for ensuring they are completed within the assigned milestone. 
+To drive refinement, we use a randomly assigned refinement [DRI](/handbook/people-group/directly-responsible-individuals/). The refinement DRI is not necessarily the person completing the refinement tasks, but is responsible for ensuring they are completed within the assigned milestone.
 
 Before the milestone starts:
 * The product manager determines which issues need to be refined by engineers and applies the `workflow::refinement` label
@@ -318,14 +318,14 @@ Refinement guidelines:
     - The GraphQL API or the REST API contains all the necessary mutation/actions to implement the UX?
 - Raise any questions, concerns, or alternative approaches.
     - Could this issue be resolved in different ways?
-    - What is the biggest risk? 
+    - What is the biggest risk?
 - Involve stable counterparts.
     - The impact on QA and Feature tests of this issue is clear and, if necessary, the SET stable counterpart is involved in reviewing them?
     - The impact on security of this issue is clear, and if necessary, a stable counterpart is involved?
 - Outline an implementation plan.
     - What is the smallest thing possible to do?
     - Should we use a feature flag?
-- Assign labels. 
+- Assign labels.
 - Assign a weight to the issue according to [weighting guidelines](/handbook/engineering/development/ops/package/#issue-weighting).
 - Create any follow-up issues that come out of refinement
 
@@ -408,7 +408,7 @@ The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for E
 The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) is GitLab's deployment of HackyStack that is used by GitLab team members. See the handbook page for more details.
 
 The Package team uses this platform to set up its epehemeral demo sandbox environment that launches an Omnibus instance with an active Container Registry and a project that can trigger multiple images/tags leveraging our CI capabilities.
-Instructions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality). 
+Instructions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality).
 
 ### Code Review
 
@@ -501,19 +501,19 @@ In this scenario, the team member co-assigned to the issue will be responsible f
 If at any point in time the MR is stale or the contributor is unresponsive, the team member will follow the [taking over a community merge request](https://docs.gitlab.com/ee/development/code_review.html#taking-over-a-community-merge-request) process outlined in the contributing guidelines.
 
 If a community member acknowledges that they still want to work on a `~Deliverable` issue
-in the current or next milestone, the team will discuss and decide 
+in the current or next milestone, the team will discuss and decide
 whether or not this will effect the ability to ship the issue in the scheduled milestone.
 To prevent these situations, the best action we can take is to proactively remove the
 `~Accepting contributions` label when we schedule an issue as a deliverable.
- 
+
 Three actions could be taken:
 
-1. We kindly let the community contributor know that this issue needs to be 
+1. We kindly let the community contributor know that this issue needs to be
    completed by internal team members.
-2. We allow the community contributor to work on the issue but let them know 
-   that an internal team member may need to take over the MR at some point to 
+2. We allow the community contributor to work on the issue but let them know
+   that an internal team member may need to take over the MR at some point to
    ensure it ships on time.
-3. We decide it is ok for this issue to slip, allow the community contributor 
+3. We decide it is ok for this issue to slip, allow the community contributor
    to work on the issue, and remove the `~Deliverable` label.
 
 If a community member has been working on a previously unscheduled issue that we would
@@ -521,8 +521,8 @@ like to schedule, we should do our best to make option (2.) work. If either opti
 or (2.) is taken, we should ensure the community contributor receives recognition for their
 work.
 
-For issues that are not scheduled as deliverables, we may still schedule reviews 
-and support for the community contributor in the given milestone, but without 
+For issues that are not scheduled as deliverables, we may still schedule reviews
+and support for the community contributor in the given milestone, but without
 committing to delivering it in a specific time frame.
 
 ### Returning from PTO
@@ -582,7 +582,7 @@ There are times during the development lifecycle that changes need to be communi
 * [Recorded user research (internal only)](https://www.youtube.com/watch?v=2A-VGtP-RJg&list=PL05JrBw4t0KoPiSySNHTfvxC20i0LppMf&index=1)
 * [Monthly Retrospectives][retros]
 * [Timezones][timezones]
-* [Package Registry processes](/handbook/engineering/development/ops/package/package-registry/)
+* [Package Registry processes](/handbook/engineering/development/ops/package/product/package-registry/)
 * [Package use case](/handbook/marketing/strategic-marketing/usecase-gtm/package/)
 * [Package risk map](/handbook/engineering/development/ops/package/risk-map/)
 * [Validation board](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage) - This is a board with issues in workflow validation, which means, issues for which ones we are doing discovering and validation of the need, feature or solution
