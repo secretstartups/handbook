@@ -203,6 +203,7 @@ There are a few places to see previous Sales Enablement sessions:
 - [GitLab Serverless FAQ](/handbook/marketing/strategic-marketing/enablement/serverless-faq/)
 - [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
+- [Collaborating with Community Programs](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 
 ## To request new sales enablement sessions
 - Complete and submit this [Sales Enablement Session Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
