@@ -1380,8 +1380,8 @@ _One notable example was in %12.10, [we required administrators to migrate from 
 Upgrade items go in the same directory as regular release post items. See the [upgrade template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/upgrade_sample.yml) to create an upgrade notice. Create one .yml file in the `/data/release_posts/unreleased/` folder, using the following content block for each notice:
 
 ```yaml
-upgrade:
-    reporter: bikebilly # item author username
+upgrades:
+  - reporter: bikebilly # item author username
     description: |  # example (supports markdown)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
