@@ -220,7 +220,7 @@ CSE/CSMs can use the Customer Programs Research Template to research new program
 **To create a Program Research issue**:
 
 1. Create a new issue using the [CSM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=CSM%20Program%20Research%20Template).
-1. 1. Use the questions in the template to gather as much information as possible for the stage or use case.
+1. Use the questions in the template to gather as much information as possible for the stage or use case.
 1. Assign the template to a CSM or CSM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
 1. Once CSM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
 
