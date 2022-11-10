@@ -26,6 +26,10 @@ By the conclusion of this session, participants will be able to:
 - **Employ** processes and best practices for engaging with the Community Programs team while working with GitLab customers
 * **Locate** and **utilize** resources for interacting with the Community Programs team
 
+## 📼 Recording
+
+A [recording of this session](https://youtu.be/B75IPB5L4yI) is available for on-demand playback. Note that this video is private.
+
 ## 👋 Introduction 
 
 The Community Programs team supports communities that align with GitLab's CREDIT values by executing specific programs that help these communities grow and thrive. Our mission is to help these communities experience GitLab's vision of a world where everyone can contribute. Learn more about [Community Programs in the GitLab handbook](job-families/marketing/community-programs/).
