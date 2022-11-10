@@ -230,7 +230,7 @@ that is easy to understand: use simple diagrams, and avoid technical jargon
 overload. Technical details will be fleshed out in subsequent epics and issues
 associated with a blueprint once we enter the execution phase.
 
-Merged blueprints will be published on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints)
+Merged blueprints will be published on [GitLab Architecture Docs](https://docs.gitlab.com/ee/architecture/)
 public pages.
 
 If you don't know what content you should put into a blueprint, you can use
@@ -302,5 +302,5 @@ The blueprint is a document that evolves as the implementation continues.
 When the work is completed, blueprints no longer represent a forward-looking
 architectural vision, instead the content describes the work done. As such,
 they should be removed from *docs* and should be move to an
-[archive](https://gitlab.com/gitlab-org/architecture/archive) or transformed
+[archive](https://gitlab.com/groups/gitlab-org/architecture/-/archived) or transformed
 into blog posts.
