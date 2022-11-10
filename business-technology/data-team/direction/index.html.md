@@ -17,6 +17,21 @@ title: "Data Team Direction"
 
 **How did we get here?** The [Data Development Timeline](/handbook/business-technology/data-team/direction/timeline) page provides coverage of the Data Team's accomplishments and the path we have taken to create today's team, technology platform, and programs.
 
+## FY24 Data Strategy
+
+In November-2022 we held several cross-team sessions to help align on the GitLab data strategy for FY24. Parcipants included Finance, Marketing, Sales Strategy, and Customer Success.
+
+- [FY24 X-Functional Data & Analytics Agenda](https://docs.google.com/document/d/1mHpP2m8Af5Qr7t9RkGBtVVCjYBs6bM-GsjI23jWyJzc/edit#heading=h.roi3bqp13662)
+- [FY24 X-Functional Data & Analytics Planning Deck](https://docs.google.com/presentation/d/1UXIKCir35b9ReHBN0rpLaYAshih5gIktgr1JahUedoY/edit#slide=id.g15464c2a8e6_0_0)
+
+Outcomes of the strategy workshops include:
+- [360 Customer IQ](https://docs.google.com/presentation/d/1hazljtcmgkhOYaOVTXLhVFzA5IhQxWdee_ocIBRndMs/edit#slide=id.g123a13deda8_0_405) 
+- [Customer Journey](https://docs.google.com/presentation/d/1YUpb-6mhKz-Z20cx0wrycjmPqHMNSdPGzAJSyFBITFM/edit)
+- [Analytics Platform](https://docs.google.com/presentation/d/1dR7FYFWIvNa2mfLkG2TsJbyVQ7UGJAyWdwMknKbAU5w)
+- [Data Customer Zero](https://docs.google.com/presentation/d/1PjaFAEaePZgz2BgB_pgLAY3zy81ugvo0a1gj0en-h54/edit#slide=id.g15464c2a8e6_0_0)
+- [FY24 X-Functional Analytics Projects](https://docs.google.com/spreadsheets/d/10QwZQG3PLSuaKt3hfe2gqq9pFEMQb8s0goOgiMzyH1I/edit#gid=0)
+- [FY24 UCID Roadmap](https://docs.google.com/spreadsheets/d/1wddU5apO3a2VBuulofSFaKUPFKW8jW4OVQrbOiCfLz0/edit#gid=0)
+
 ## FY23 Data Strategy
 
 In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Strategy, and Customer Success.
