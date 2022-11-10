@@ -15,12 +15,11 @@ This handbook page is meant to support both learners and administrators in Level
 
 ![Level Up Dashboard](dashboard-2.jpg){: .medium.center}
 
-
 # Contribute to Level Up
 <!-- blank line -->
 At GitLab, [everyone can contribute](/company/mission/#mission). Read below about how to contribute to Level Up.
 
-### Why contribute?
+## Why contribute?
 
 Contributing to Level Up democratizes learning and enables our team members, customers, and community members to contribute to the growth of learning opportunities at GitLab. Some benefits for contributors include:
 
@@ -231,3 +230,24 @@ To create a new content type:
 1. The content should appear under the `Has access to the following content`.
 1. Once the content has appeared (or if it was already there), select `Completed` from the dropdown and click `Save`
 1. If the course had an associated certificate, this can also be manually attributed. Go to the `Activity` tab in the user profile after following the above steps, find the relevant Certificate then click `Issue Certificate`. This will trigger an email being sent to the user to notify them of the certificate being awarded.
+
+## Reporting
+
+### Using Google Sheets to share completion reporting with the business
+
+Here is an [example](https://docs.google.com/spreadsheets/d/1ZmRT-9XzN0WBXZ2p6kzMIuhjuRVNhM73h7QFi-qOZC4/edit#gid=1860209145) of a pivot chart that breaks down completions by division. Make a copy of [this template](https://docs.google.com/spreadsheets/d/1caRFWpLEts0Hs3zk8LgEEltQwmL519ijj50_x20N4gY/edit#gid=1965851534) and follow the steps below to build your own.
+
+1. Submit an access request for a Wokrday report that includes manager name, division, department, and manager name. Add this data into the first tab in a Google sheet. Title it `User Workday Data`
+1. Pull a completion report from Level Up for any course or content item. Download this completion data into the second tab in the same Google sheet. Title it as `[Course Name]`
+1. To combine the `User Workday Data` shee and the `[Course Name]` sheet:
+     1. Ensure there is a column in the `[Course Name]` sheet that is titled `Completed` and has a `1` value for each user who has completed the course.
+     1. Create a new column in the `User Workday Data` tab called `Completions`.
+     1. Apply the formula `=IF(ISNUMBER(MATCH(X10,Course Name!A:A,0)),1,0)` to the column, where `X` is the column letter for `Completed` from the `[Course Name]` sheet, and `Course Name` is the exact title of the `[Course Name]` tab.
+     1. Drag the formula to apply to all rows in the `User Workday Data` sheet.
+     1. Add one new column in the `User Workday Data` sheet called `Division Total` and populate every row with a `1` value.
+1. To create the pivot chart
+     1. Open a 3rd tab in the same sheet titled `Completions by X` depending on how you plan to sort the data.
+     1. Go to `Insert` then select `Pivot Table` and add it to the existing sheet
+     1. Apply `Division` as your `Rows` value
+     1. Apply your choice of values for each column. Most common will be `Completions` and `Division Total`
+
