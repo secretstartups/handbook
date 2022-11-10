@@ -14,6 +14,8 @@ title: Package:Package Registry Group
 The Package Registry is part of the GitLab [Package
 stage](/handbook/engineering/development/ops/package/), which integrates with [GitLab's CI/CD product](/direction/ops/).
 
+## Who We Are
+
 ### Team Members
 
 The following people are permanent members of the Package Registry Group:
@@ -25,3 +27,11 @@ The following people are permanent members of the Package Registry Group:
 The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'ckroutil') %>
+
+## 📈 Measuring results
+
+### Performance indicators
+
+We measure the value we contribute by using [performance indicator metrics](/handbook/product/performance-indicators/). The primary metric used for the Package Registry group is the number of monthly active users or GMAU.
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Package Registry" } %>
