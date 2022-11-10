@@ -104,6 +104,7 @@ The relevant controls that need to be documented in these programs are these thr
    - Process for making changes.
    - Even if owned by the vendor after request, can we request changes? Do we need to test/approve?<br>
    - In many cases we should have a process to document those changes internally and test even if the change is ultimately implemented by the vendor.  We should always review the SOC 1 or 2 report to understand our responsibilities.
+   - While the work to execute the control can be assigned to the vendor, the ultimate responsibility for effective execution of the control lies with Gitlab. (i.e. if the vendor executes the control on behalf of Gitlab inadequately, Gitlab may still be required to report the deficiency of the SOX control)
 
 
 # Program Development /Implementation of the system (1 time controls):
@@ -114,12 +115,12 @@ As a result the DRI needs to:
 
 1. **Project Plan/SDLC**
    - Confirm that full scope is documented prior to go-live and reconciled with implemented functionality
-ensure there is documentation that UAT was complete and signoff on the UAT by business stakeholders established in the core team. This UAT signoff should be reviewed by the steering committee and signed off as well.
+ensure there is documentation that UAT was complete and signoff on the UAT by business stakeholders established in the core team. This UAT signoff should be reviewed by the steering committee and signed off as well prior to go-live.
    - Testing over key processes, reports, and ensuring business needs will be met by the system (and how)
-   - Known defects/issues at go-live - are there problems that exist that need to still be vetted but proceeding to business go-live without fixing? What are those problems, what is the documentation/rationale supporting moving forward?
+   - When known issues are identified during UAT or prior to go-live they should be documented and the resolution/remediation tracked. Ideally, they would all be resolved prior to go-live, but if there are some exceptional situations, audit would look for documentation/review/some sort of approval that the program team is okay to go-live with the open issues and the plan to resolve after go-live. If these issues were audit-tested supporting evidence would look for tracking prior to go-live and resolution after go-live for all identified issues.
    - Final approval for business go-live is captured. Approvals from technical owners and business owners at appropriate levels (e.g. does this warrant CFO sign-off vs. Manager sign-off)
 1. **Data Management/Migration**
-   - If there is data migration, demonstrate a reconciliation that the migration was complete and accurate.
+   - If there is data migration, demonstrate a reconciliation that the migration was complete and accurate prior to go-live.  Ideal evidence would include system evidence (e.g. reports, screenshots of how reports were generated from source & target systems, row count match) and a compare of each row/field. Any variance should be resolved prior to go-live and tie-outs should align with sign-off.
    - For data that will be imported, what is the process for getting that into the system and what are the controls/checks in place to ensure the data that gets in completely and accurately.
    - This can be solved through several avenues but good documentation is key. Who has access during transformation? Are there before/after checks? What are the “key” fields? Is there  an acceptable level of data loss/inaccuracy?
    - Evidencing data management is the most important part of this Program Development process. How can we adequately demonstrate that data in the system is complete and accurate according to our business needs?
