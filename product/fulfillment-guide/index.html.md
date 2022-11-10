@@ -221,6 +221,6 @@ During these quarterly reviews we will aim to commit up to 70% of Fulfillment’
 
 Any proposed changes to the roadmap will be first communicated to cross-functional partners async in a relevant Slack channel with the relevant context and rationale, and ask for feedback. As needed, a synchronous meeting will be scheduled to discuss. All feedback will be considered by the product team and a final decision will be made and communicated once made.
  
-## User Caps for SaaS
+## User cap for groups on SaaS
 
-We currently have a limited version of User Caps built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is only enabled for customers on a case-by-case basis. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
+We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
