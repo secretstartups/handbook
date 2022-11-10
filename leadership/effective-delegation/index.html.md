@@ -12,14 +12,14 @@ title: Effective Delegation
 ## Effective Delegation
 
 The purpose of this section is to give you the following:
-* An appreciation for the importance of delegation to others as a way to manage work load and prioritize action items.
+* An appreciation for the importance of delegation to others as a way to manage workload and prioritize action items.
 * Face any fears that you may have regarding delegating to others.  
 * Help you adopt an appropriate strategy to delegate the right tasks to the right people at the right time and in the right way.
 * Help you develop a systematic step-by-step approach to brief team members on what you want to delegate to others.
 
 ### What is delegation?  
 
-Delegation is the assignment of responsibilities to another person for the purpose of carrying out specific job related activities.  Delegation is a shift of decision making authority from one team member to another.
+Delegation is the assignment of responsibilities to another person for the purpose of carrying out specific job-related activities.  Delegation is a shift of decision-making authority from one team member to another.
 
 ### Considerations when delegating
 
@@ -32,7 +32,7 @@ Before further diving into delegation, it's important for you as a leader to con
 * Improve time management
 * Increased trust
 
-**Team member Benefits**
+**Team Member Benefits**
 * Professional knowledge and skills development
 * Enhanced self-esteem and confidence
 * Sense of achievement
@@ -43,13 +43,13 @@ Before further diving into delegation, it's important for you as a leader to con
 
 ### So why do managers struggle with delegation?
 
-As a Manager, we have to delegate tasks and activities to achieve results. Delegation only works when both the team member and manager share a common understanding of the problem set and how to go about solving them. If a Manager doesn't understand fully what they are delegating, achieving results could be slowed down. Delegation without follow-through by the manager is abandonment. When delegating tasks consider monitoring the team member's progress based on their level of competence/skills with the tasks. 
+As a Manager, we have to delegate tasks and activities to achieve results. Delegation only works when both the team member and manager share a common understanding of the problem set and how to go about solving them. If a Manager doesn't understand fully what they are delegating, achieving results could be slowed down. Delegation without follow-through by the manager is abandonment. When delegating tasks, consider monitoring the team member's progress based on their level of competence/skills with the tasks.
 
 **Additional reasons why managers struggle with delegation:** 
 
 * It is too hard
 * It takes too much time
-* Nobody can do it as good as I can
+* Nobody can do it as well as I can
 * Nobody else has the time
 * They are scared things will fail
 * They lack trust in their team members
@@ -59,12 +59,12 @@ As a Manager, we have to delegate tasks and activities to achieve results. Deleg
 
 **Knowing when and to whom you should delegate to**
 
-Delegating can be especialy helpful in the following situations:
+Delegating can be especially helpful in the following situations:
 
 * When the task offers a valuable training opportunity for a team member
 * When a team member has more knowledge or experience related to the task than you
 * When the task is recurring and all team members should be trained
-* When the task is of low priority and you have high priority task that require your immediate attention
+* When the task is of low priority and you have higher priority tasks that require your immediate attention
 
 When deciding who to select for the task, you must consider:
 
@@ -87,7 +87,7 @@ When deciding who to select for the task, you must consider:
 - Determine the tasks to retain
 - Select who you will delegate the task to
 
-When you introduce the task use "What-Why" statements like "I want you to do...Beacuse you..."
+When you introduce the task use "What-Why" statements like "I want you to do ... because you ..."
 
 **Demonstrate Clearly**
 
@@ -97,15 +97,15 @@ When you introduce the task use "What-Why" statements like "I want you to do...B
 
 **Ensuring Understanding**
 
-- Provide clear communicatino
+- Provide clear communication
 - Ask the team member if they need additional clarification
 - Secure commitment that the team member can achieve the objective
-- Collaborately determine methods for follow up
+- Collaboratively determine methods for follow up
 
 **Allocate authority, information and resources**
 
 - Grant authority to determine process, not desired outcomes
-- Provide access to all of the information sources
+- Provide access to all the information sources
 - Refer team members to specific resources and other team members that have been assisting with the task in the past or present
 - Provide any appropriate training necessary to ensure success
 
@@ -113,16 +113,16 @@ When you introduce the task use "What-Why" statements like "I want you to do...B
 
 - Communicate to the broader audience the team members authority and ownership of task
 - Step back, let the team member get to work
-- Don't allow yourself to engage in reverse delegation or step in take over (unless task is completely going off the track or potentially going to miss the deadline by a significant amount of time) Reverse delegation is a term that describes a situation whereby a manager delegates a task to their direct reports, but only to take it back, for one reason or another, to work on it sometime later.  There are two ways, forced and unforced, that reverse delegation may take place.  
+- Don't allow yourself to engage in reverse delegation or step in take over (unless the task is completely going off the track or potentially going to miss the deadline by a significant amount of time) Reverse delegation is a term that describes a situation whereby a manager delegates a task to their direct reports, but only to take it back, for one reason or another, to work on it sometime later.  There are two ways, forced and unforced, that reverse delegation may take place.  
 
 **Support and Monitor**
 
-- Schedule follow up meetings
+- Schedule follow-up meetings
 - Review progress
 - Assist, when requested
 - Avoid interference
 - Publicly praise progress and completion
-- Encourage problem solving
+- Encourage problem-solving
 
 ## Delegation Stressors 
 
@@ -159,7 +159,7 @@ Micromanaging occurs when a manager assigns a task to a team member, but prevent
 
 **Consequences of poor delegation**
 
-- Information and decision making is not shared by the group
+- Information and decision-making is not shared by the group
 - Leaders become tired our or burnt out
 - If a leader leaves the group, no one has the experience needed to carry on
 - Team or group morale becomes low and people become frustrated and feel powerless
@@ -180,7 +180,7 @@ Practice makes perfect.  It gets easier the more you do it!  Below are a few use
 
 - [If You Want It Done Right, You Don't Have to Do It Yourself! The Power of Effective Delegation](https://www.amazon.com/Want-Done-Right-Dont-Yourself/dp/1884956327)
 - [The Busy Manager's Guide to Delegation](https://www.amazon.com/Busy-Managers-Guide-Delegation-Worksmart/dp/0814414745)
-- [The Art of Delegation: Maximize Your Time, Levarage Others, and Instantly Increase Profits](https://www.amazon.com/Art-Delegation-Maximize-Leverage-Instantly/dp/1508606463/ref=pd_lpo_14_t_0/131-6062910-8368813?_encoding=UTF8&pd_rd_i=1508606463&pd_rd_r=02942d4a-2f8f-4d1c-8e8d-f2620279a532&pd_rd_w=7cbKC&pd_rd_wg=sn5aY&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=B2SGADF8ZVFWGQ0SDMW7&psc=1&refRID=B2SGADF8ZVFWGQ0SDMW7)
+- [The Art of Delegation: Maximize Your Time, Leverage Others, and Instantly Increase Profits](https://www.amazon.com/Art-Delegation-Maximize-Leverage-Instantly/dp/1508606463/ref=pd_lpo_14_t_0/131-6062910-8368813?_encoding=UTF8&pd_rd_i=1508606463&pd_rd_r=02942d4a-2f8f-4d1c-8e8d-f2620279a532&pd_rd_w=7cbKC&pd_rd_wg=sn5aY&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=B2SGADF8ZVFWGQ0SDMW7&psc=1&refRID=B2SGADF8ZVFWGQ0SDMW7)
 - [How to Delegate - Essential Managers series](https://www.amazon.com/Delegate-Essential-Managers-Robert-Heller/dp/0789428903/ref=pd_lpo_14_t_2/131-6062910-8368813?_encoding=UTF8&pd_rd_i=0789428903&pd_rd_r=02942d4a-2f8f-4d1c-8e8d-f2620279a532&pd_rd_w=7cbKC&pd_rd_wg=sn5aY&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=B2SGADF8ZVFWGQ0SDMW7&psc=1&refRID=B2SGADF8ZVFWGQ0SDMW7)
 
 
