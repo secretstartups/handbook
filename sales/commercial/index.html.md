@@ -287,6 +287,7 @@ During a Project 35 call, The AE who is discussing their opportunity will answer
 1. Nail the project name and the timing of the project (sell services)
 1. Selling against a ROI slide
 1. Based on the information uncovered in the prior questions, use supporting reasons for AEs to update their next steps live. Managers should enter their comments in the Manager Notes section for any deals they review live or asynchronously.
+1. Engage wider sales team. Who are, by name, the CSMs, SAs, Partners that are helping sell the deal. Please assign them to the discussion in the document so that they are able to join the call and contribute to the discussion.
 
 
 ### Opportunity Consults and Lightweight Deal Reviews
