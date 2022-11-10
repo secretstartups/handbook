@@ -27,17 +27,17 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
-- **Full install (Recommended)**: Installs [Mambaforge](https://github.com/conda-forge/miniforge) on your local machine, **_plus_** creates a viritual environment ([pipenv](https://pypi.org/project/pipenv/) with all libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) 
-- **Minimal install**: Installs **_only_** the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) and should be used if you already have a python environment on your local machine that you would like to use as the base image. Requires Python 3.9.
+- **Full install (Recommended)**: Creates a [pipenv](https://pypi.org/project/pipenv/) virtual environment on your local machine, installs [Mambaforge](https://github.com/conda-forge/miniforge) and the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) 
+- **Minimal install**: Installs **_only_** Creates a pipenv viritual environment and installs the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile). This install should be used if you already have a python environment on your local machine that you would like to use as the base imag instead of the Mambaforge version. Requires Python 3.9.
 
 ### Installation Instructions
 
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
-2. Run `cd data-science`
+2. Navigate to the directory: `cd data-science`
 3. Based on which version you would like to install, run one of the following:
-    - **_For full install_**: run `make setup-jupyter-local`
-    - **_For minimal install_**: run `make setup-jupyter-local-no-mamba` 
-4. Run `make jupyter-local`
+    - **_For full install_**: `make setup-jupyter-local`
+    - **_For minimal install_**: `make setup-jupyter-local-no-mamba` 
+4. `make jupyter-local`
 5. Jupyter Lab will launch automatically in your default browser. 
 
 #### Linting the repository
@@ -60,7 +60,7 @@ From the root of the data science repo, this will find and correct and issues ac
 #### Mounting a local directory
 
 By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when your code, data, and notebooks are in other repositories on your computer. To change, this you will need to create and modify a jupyter notebook config file:
-1. Open terminal and run `jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`
+1. Open terminal and nagivate to the data-science repo, e.g. `cd repos/data-science`. The config file must be created with the pipenv we setup in the above steps: `pipenv run jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`.
 1. Browse to the file location and open it in an editor
 1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{your_user_name}/repos'`). Make sure you remove the `#` at the beginning of the line.
 1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\{your_user_name}\Any Folder\More Folders\`
