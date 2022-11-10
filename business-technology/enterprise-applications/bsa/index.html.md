@@ -29,9 +29,15 @@ Linkedin Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
 
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
-Slack handle: `@kayokocooper` <br>
+Slack handle: `@Kayoko Cooper` <br>
 Location and Timezone: USA, EDT/EST  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
+
+**Kristina Koceban - Senior Business Systems Analyst**  
+GitLab handle: [@kkoceban](https://gitlab.com/kkoceban)  
+Slack handle: `@Kristina`   
+Location and Timezone: Ireland, WEST/GMT+1  
+Linkedin Profile: [/kristinakoceban](https://www.linkedin.com/in/kristinakoceban/)
 
 **Nicholas Sandoval - Business Systems Analyst**  
 GitLab handle: [@nicosando](https://gitlab.com/nicosando)  
@@ -43,11 +49,12 @@ Linkedin Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicol
 GitLab handle: [@sbaranidharan](https://gitlab.com/sbaranidharan)  
 Slack handle: `@Santhosh`    
 Location and Timezone: Netherlands, CET/GMT+2  
-Linkedin Profile: [/santhosh-b-28711613a/](https://www.linkedin.com/in/santhosh-b-28711613a/)
+Linkedin Profile: [/santhosh-b-28711613a](https://www.linkedin.com/in/santhosh-b-28711613a/)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3oXjv5Fsg84" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+**Yuyu Yang - Staff Business Systems Analyst**  
+GitLab handle: [@yuyuyang](https://gitlab.com/yuyuyang)  
+Slack handle: `@Yuyu Yang`    
+Location and Timezone: USA, CDT/CST  
 
 
 ## What Do We Do?
