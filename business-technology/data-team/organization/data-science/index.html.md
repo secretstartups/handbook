@@ -47,18 +47,20 @@ AMAs:
 
 - **Accuracy** - ability of a Data Science model to capture all correct data points out of all possible data points
 - **Algorithm** - sequence of computer-implementable instructions used to solve specific problem
-- **Classification** - process of predicting a category for each observation. For example, determining if a picture is of a cat or a dog. 
-- **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmentation of users or customers.
+- **Classification** - process of predicting a category for each observation. For example, determining if a picture is of a cat or a dog
+- **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmentation of users or customers
 - **Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
+- **Exploratory Data Analysis (EDA)** - analysis of the data that summarises it's main characteristics (includes statistics and data visualisation)
 - **Feature** - single column in dataset that can be used for analysis, such as country or age. Also referred to as variables or attributes
 - **Feature Engineering** -  process of selecting, combining and transforming data into features that can be used by machine learning algorithms 
 - **Imputation** - process of replacing missing or incorrect data with statistical "best guesses" of the actual values
 - **Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
-- **Model** - A complex set of mathematical formulas that generates predictions
-- **Propensity modelling** - Building models to predict specific events by analyzing past behaviors of a target audience. 
-- **Regression** - A statistical method for predicting an outcome. For example, predicting a person's income, or how likely a customer is to churn
-- **Training** -  Applying an algorithm to data to generate a model
-- **Test Dataset** - Deliberately excluding some observations from training the model so they can be used to test how well the model predicts  
+- **Model** - a complex set of mathematical formulas that generates predictions
+- **Propensity modelling** - building models to predict specific events by analyzing past behaviors of a target audience. 
+- **Regression** - a statistical method for predicting an outcome. For example, predicting a person's income, or how likely a customer is to churn
+- **Scoring** -  process of generating predictions for the new dataset
+- **Training** -  process of applying an algorithm to data to create a model
+- **Test Dataset** - deliberately excluding some observations from training the model so they can be used to verify how well the model predicts  
 - **Weight** - numerical value assigned to feature that determines it's strength
 
 ## Data Science Responsibilities 
