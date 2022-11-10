@@ -740,18 +740,17 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
     * Select your QR Code `Type`
     * Click `Next` at the bottom of the page
     * Fill out QR Code Title & Description 
-    * Create QR Code to Design Specs:
-    
-        1. Use solid black tanuki only 
-        2. Make sure background behind tanuki is removed
-        3. Best if #171321 hex color is used to ensure proper contrast (other brand approved colors can be used but no need to get fancy with gradients or anything)
-        4. Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes)   
-    
-        1. Body Shape = Top Row third choice from the left with the dots
-        2. Eye Frame Shape = Top Row fourth choice from the left 
-        3. Eye Ball Shape = Top Row fourth choice from the left - should match the eye frame but filled in 
-        
-      **NOTE: Also, the design team advises that the QR code should be no smaller than 1" x 1"**
+1. Create your QR code with the following design specs: 
+    * **Frame:** If adding a frame, enter `#171321` ([Charcoal](https://design.gitlab.com/brand-design/color#primary-color-palette)) for the frame color.  
+      * This color ensures proper contrast (other brand approved colors can be used, but no need to get fancy with gradients or anything)
+    * **QR code:** Select `More Options`. 
+      * `Code color:` Enter `#171321` for the code color and `#FFFFFF` for the background color. 
+      * `Shape style:` Select the dotted code (third selection from left). 
+      * `Edges:` Select the option with two curved corners (fourth selection from the left on the top row). Adjust the outer and inner color to `#171321`.
+    * **Logo:** Select the solid Charcoal tanuki. This tanuki has a transparent background and should be the only logo placed for the center of the QR code.
+    * **NOTE:** Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes).  
+    * **NOTE:** When placing the QR code into your collateral, the [design team](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/) advises that it should be no smaller than 1" x 1" for efficient scanning.  
+    * ![QR code styling](/handbook/marketing/events/qr-code-handbook.png)
 5. Add in URL link to CTA. Example CTAs listed below:
 
         1. Survey Links
