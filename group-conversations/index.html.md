@@ -362,9 +362,9 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
 | Thursday November 10 | Product | Product Leadership | October 13 |
-| Tuesday November 15 | UX | Christie Lenneville | October 13 |
+| Tuesday November 15 |  |  |  |
 | Wednesday November 16  | **Available** | | Key Review Date? |
-| Thursday November 17 | **Available** | | Key Review Date? |
+| Thursday November 17 | UX | Christie Lenneville | October 13 |
 | Tuesday November 22 | **Available** | | Key Review Date? |
 | Wednesday November 23 | **Available** | | Key Review Date? |
 | Thursday November 24 | **Available** | | Key Review Date? |
