@@ -50,7 +50,7 @@ Build scalable model to onboard 100 Leading Organizations by the end of FY24-Q4.
 | Facilitator                    | Liz Petoskey    | Director, Strategy and Operations          |
 | Executive Stakeholder          | Ashley Kramer   | Chief Marketing & Strategy Officer         |
 | Functional Lead: Contributor Success | Nick Veenhof | Director, Contributor Success           |
-| Functional Lead: Developer Evangelism | John Coghln | Sr. Manager, Developer Evangelism       |
+| Functional Lead: Developer Evangelism | John Coghlan | Sr. Manager, Developer Evangelism       |
 | Functional Lead: Marketing Campaigns  | Jackie Gragnola | Sr. Manager, Marketing Campaigns and ABM |
 | Functional Lead: Customer Success | Jamie Reid  | Manager, Strategic CSMs                     |
 | Member                         | Sid Sijbrandij    | Chief Executive Officer                  |
