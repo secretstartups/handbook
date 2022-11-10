@@ -99,7 +99,7 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 | 15.3 (2022-07-18) | - | - |
 | [15.4 (2022-08-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/370364) | Nadia Sotnikova | Alex Kalderimis |
 | [15.5 (2022-09-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/374580) | Katie Macoy | Anna Vovchenko |
-| 15.6 (2022-10-18) | Matej Latin | Deepika Guliani |
+| [15.6 (2022-10-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/378259) | Matej Latin | Deepika Guliani |
 
 ### How do I volunteer?
 
