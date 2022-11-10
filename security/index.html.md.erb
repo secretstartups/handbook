@@ -268,10 +268,10 @@ You can then choose to use this new service account via the option under **Advan
 #### Personal Access Tokens
 
 1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
-1. Oftentimes a [Project Access Token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) might be sufficient instead of a Personal Access Token. Project Access Tokens have a much more limited scope and should be preferred over Personal Access Tokens whenever possible. 
+1. Oftentimes a [Project Access Token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) might be sufficient instead of a Personal Access Token. Project Access Tokens have a much more limited scope and should be preferred over Personal Access Tokens whenever possible.
 1. Always set an expiration for your tokens when creating them. Tokens should preferably expire in a matter of hours or a day.
 1. Be mindful to keep these personal access tokens secret. Be particularly careful not to accidentally commit them in configuration files, paste them into issue or merge request comments, or otherwise expose them.
-1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed. 
+1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
 ### GitLab Password Policy Guidelines
@@ -308,7 +308,7 @@ GitLab is transitioning to use [Okta](/handbook/business-ops/okta/) as a primary
 If you want to use 1Password for your private passwords not related to your work
 at GitLab, [there are a few options](#1password-for-your-private-passwords).
 
-Please note our 1Password for Business license agreement is an older 'Early adopter' agreement and does not include the 1Password for Families feature
+Please note our 1Password for Business license agreement [includes the 1Password for Families feature](https://support.1password.com/link-family/), which you can share with up to 5 family members.
 
 #### 1Password Guidelines
 
@@ -472,7 +472,7 @@ the correct vault:
 
 
 #### Saving Logins
- 
+
 When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
 
@@ -491,7 +491,7 @@ More information is available [in the official documentation](https://developer.
 
 #### CLI integration
 
-[1Password CLI integration](https://developer.1password.com/docs/cli) supports secure 
+[1Password CLI integration](https://developer.1password.com/docs/cli) supports secure
 handling of secrets used in command line tools, config files, and scripts executed on your laptop.
 To setup the CLI integration, follow the [getting started guide](https://developer.1password.com/docs/cli/get-started/).
 
@@ -519,7 +519,7 @@ echo "GITLAB_TOKEN=op://Private/GitLab/pat/api" > $HOME/.gitlab-pat.env
 alias glab="op run --env-file=$HOME/.gitlab-pat.env -- glab"
 ```
 
-- To verify the configuration, run `glab api version`. This should print 
+- To verify the configuration, run `glab api version`. This should print
 the version of gitlab.com if the configuration succeeded.
 
 ```sh
@@ -546,7 +546,9 @@ doing this, and it is easy to move items between vaults.
 You are encouraged to use 1Password for your private passwords, not related to
 your work at GitLab.
 This makes it less likely for a security breach to occur. You can purchase a
-standalone license or start an individual subscription. 
+standalone license or start an individual subscription, or take advantage of the
+[complimentary 1Password for Families feature](https://support.1password.com/link-family/),
+which you can share with up to 5 family members.
 
 #### Two Factor Authentication and Time-based One Time Passwords
 
@@ -675,7 +677,7 @@ For more information on Travel Mode and how it works, see the [AgileBits blog].
 
 ### GitLab Security Awareness Training
 
-GitLab Security Awareness Training is a handbook first GitLab-customized training + policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and annual training there after. 
+GitLab Security Awareness Training is a handbook first GitLab-customized training + policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and annual training there after.
 
 New Hire Security training will be automatically assigned to you on Day 1 of orientation as soon as you access the ProofPoint tile via Okta. Training is required to be completed by end of day.
 
@@ -776,7 +778,7 @@ should never enter sensitive data into that website.
 
 ![Green Lock Example](/images/phishing/green-lock-example.png)
 
-#### What to do if you suspect an email is a phishing attack 
+#### What to do if you suspect an email is a phishing attack
 
 If you think an email is suspicious, it may be a phishing attempt targeted at you or GitLab, or it may be a security test. Please report the email to Security by using the ***PhishAlarm*** button in Gmail. It is located in the right hand sidebar of your Gmail workspace. If you don't see the button, the right hand sidebar may be collapsed and you'll need to click the arrows at the bottom right hand corner of the window to expand the sidebar.
 
@@ -807,7 +809,7 @@ To forward the email as an attachment to GitLab's Security Team using Gmail:
 
 #### What to do if you suspect something else is suspicious
 
-Phishing and other social engineering attacks aren't only sent via email. 
+Phishing and other social engineering attacks aren't only sent via email.
 You might receive a suspicious text / SMS message, a weird Direct Message on social
 media platforms like LinkedIn, or a phone call. If it's work related, please
 [use the `/security` Slack command](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
