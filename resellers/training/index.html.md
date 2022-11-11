@@ -148,9 +148,9 @@ description: >-
 - [Gitlab Implementation Specialist](https://about.gitlab.com/services/pse-certifications/implementation-specialist/)
 - [GitLab Migration Specialist](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/)
 - [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/)
-- [GitLab CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-specialist/)
+- [GitLab CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-associate/)
 - [GitLab Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/)
-- [GitLab Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-specialist/)
+- [GitLab Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-associate/)
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
 
