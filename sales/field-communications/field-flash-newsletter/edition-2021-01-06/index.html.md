@@ -38,7 +38,7 @@ Learn how the U.S. Army Cyber School created secure, collaborative coursework wi
 
 ### Did You Know? 🔢
 **New certifications for customers!** Professional Services is excited to soft-launch 3 new technical certifications in Q4 for customers attending our remote trainings:
-1. [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-specialist/)
+1. [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-associate/)
 1. [GitLab Certified Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/)
 1. [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
 
