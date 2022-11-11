@@ -1165,7 +1165,7 @@ Our values provide guidelines on how to behave and are written to be actionable.
 They help us describe the type of behavior that we expect from GitLab team members.
 They help us to know how to behave in the organization and what to expect from others.
 
-Values provide a framework for distributed decision making, detailed in GitLab's [Managing so Everyone Can Contribute (MECC)](/handbook/mecc/) management philosophy. They allow individuals to determine what to do without asking their manager and they allow teams to make consistent decisions. When teams across the organization reference the same values in their decision making, there is consistency in how decisions are made. This ensures that [our culture](/company/culture/#culture-at-gitlab) remains driven by our values. 
+Values provide a framework for distributed decision making, detailed in GitLab's [TeamOps](/teamops/) management philosophy. They allow individuals to determine what to do without asking their manager and they allow teams to make consistent decisions. When teams across the organization reference the same values in their decision making, there is consistency in how decisions are made. This ensures that [our culture](/company/culture/#culture-at-gitlab) remains driven by our values.
 
 Lastly, values create a [conscious culture](https://conscious.org/playbook/a-conscious-culture/) that is designed to help you prosper and experience exceptional personal growth through work.
 
