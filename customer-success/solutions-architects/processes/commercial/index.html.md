@@ -109,10 +109,33 @@ Below are a few example responses an SA can provide customers that reach out for
 - [Mid-Market Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=Mid-Market) | [SMB Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name%5B%5D=SMB)
 - [Whitepapers, Analyst Reports, etc...](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit#gid=0)
 
+## 5-Minute Demo Framework
+
+The 5-Minute Demo Framework is a method to quickly produce technical content that is easy to consume for the customer. The intent of the framework is to rapidly develop tutorials while also generating value-packed content for the customer to consume. This content can range from videos, blog posts, or tutorials. As a result of building and sharing out bit-sized videos, the Commercial SA team can scale out our reach to a broader technical audience. Moreover, as the content compounds, the Account Executive teams will have a bank of content to share asynchronously to customers used to deliver value to customers efficiently.
+
+### Topics Delivered Upon and Available to Customers
+- How to provision dynamic review environments using merge requests and Argo CD - [Blog Post](https://about.gitlab.com/blog/2022/08/02/how-to-provision-reviewops/)
+- How to automate testing for a React application with GitLab - [Blog Post](https://about.gitlab.com/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)
+- CI/CD Modernization with GitLab - [YouTube Link](https://www.youtube.com/watch?v=QGAaif8lY0A) or [Highspot Pitch Link](https://gitlab.highspot.com/items/6335dbcb985c4ea802afcf8d?lfrm=srp.0)
+
+### Topic Curation
+
+* A [demo wishlist](https://drive.google.com/drive/u/0/search?q=title:%225%20Minute%20Demo%20Framework:%20Demo%20Wishlist%22%20type:document) (internal) has been made to help the team generate and prioritize one-off topics based off of field demand and interest.
+* A [framework tutorial issue tracker](https://gitlab.com/guided-explorations/framework-tutorials) has been created to organize tech and language framework tutorials. These tutorials will align to specific GitLab stages with end-to-end guides.
+
+##### Tips for searchability
+
+* For videos, please add the video to GitLab Unfiltered YouTube channel under "Solutions Architecture" playlist. Additionally [link the video within Highspot](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) for the AE's to create email pitches.
+* For blog posts, please refer to the [marketing handbook page](https://about.gitlab.com/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
+* For repository examples, please store the repository within the [Guided Exploration group](https://gitlab.com/guided-explorations).
+
+##### Pracice and review
+
+* If you produce a video and are requesting feedback, feel free to add it to the [Demo Jam](#commercial-demo-jam) agenda. An alternative is to record it and share it asynchronously in #cs_mm_sa slack channel for feedback.
 
 ## Commercial Demo Jam
 
-With the continous iteration and releases of GitLab, it's important to stay up to date on the newest capabilities while staying sharp on existing use-cases to best serve customers. The Commercial Demo Jam serves as a safe forum for the Commercial SA team to practice demoing features, discuss potential customer objections, and articulate value through storytelling. 
+With the continuous iteration and releases of GitLab, it's important to stay up to date on the newest capabilities while staying sharp on existing use-cases to best serve customers. The Commercial Demo Jam serves as a safe forum for the Commercial SA team to practice demoing features, discuss potential customer objections, and articulate value through storytelling. 
 
 ### Structure
 - Demo Jams are hosted every two weeks and the Wheel of Names is used to randomly select a team member.
