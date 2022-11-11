@@ -51,9 +51,9 @@ In general, you can find our publicly marketed services at https://about.gitlab.
 | Consulting | Migration | [SCM Migration](https://about.gitlab.com/services/migration/enterprise/) | [migration-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/migration-template) | Complete |
 | Consulting | Migration | [CI Migration](https://about.gitlab.com/services/migration/enterprise/ci-cd-migration/) | TBD | Minimal |
 | Consulting | Migration | [Migration+](https://about.gitlab.com/services/migration/migration-plus/) | [migration-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/migration-template) | Viable |
-| Consulting | Integration | [Jenkins](https://about.gitlab.com/services/integration/) | TBD | Complete |
-| Consulting | Integration | [LDAP, SAML, SSO](https://about.gitlab.com/services/integration/) | TBD | Complete |
-| Consulting | Integration | [Jira](https://about.gitlab.com/services/integration/) | TBD | Complete |
+| Consulting | Integration | [Jenkins](https://about.gitlab.com/services/implementation/integration/) | TBD | Complete |
+| Consulting | Integration | [LDAP, SAML, SSO](https://about.gitlab.com/services/implementation/integration/) | TBD | Complete |
+| Consulting | Integration | [Jira](https://about.gitlab.com/services/implementation/integration/) | TBD | Complete |
 | Consulting | Advisory | [CI/CD Transformation](https://docs.google.com/presentation/d/1gCULkwewztptWPO4wnr6xU-E3B_C7oVqVAdT-yAc0SE/edit) | TBD | Planned |
 | Consulting | Advisory | [General Advisory Services](https://about.gitlab.com/services/advisory/) | [Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) | Minimal |
 | Consulting | Advisory | Agile/Plan Workflow Advisory | [Agile/Plan Advisory](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/workflow-agile-ceremonies) | Minimal 

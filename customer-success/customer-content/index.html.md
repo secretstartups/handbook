@@ -64,8 +64,8 @@ Consider the following GitLab certificate courses:
 
 - [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (Required for the DevOps Professional Certification)
 - [GitLab Certified InnerSourcing Specialist](https://about.gitlab.com/services/education/gitlab-innersourcing-specialist/)
-- [GitLab Certified CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-specialist/) (Required for the DevOps Professional Certification)
-- [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-specialist/) (Required for the DevOps Professional Certification)
+- [GitLab Certified CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-associate/) (Required for the DevOps Professional Certification)
+- [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-associate/) (Required for the DevOps Professional Certification)
 - [GitLab Certified Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/) (Required for the DevOps Professional Certification)
 - [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
 

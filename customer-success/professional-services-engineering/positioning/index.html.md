@@ -77,7 +77,7 @@ They will likely have a small team responsible for transformation that will be m
 
 To get your customer the most [value](/handbook/customer-success/vision/#time-to-value-kpis) as soon as possible, you should consider:
  - [Migration](/services/migration/) (SCM and/or CI/CD based on entry point)
- - [Integration](/services/integration/) (LDAP/SSO, Jira, Jenkins)
+ - [Integration](/services/implementation/integration/) (LDAP/SSO, Jira, Jenkins)
  - [Education](/services/education/) (Basics and/or CI/CD)
 
 ### SMB or Mid-Market without migration needs

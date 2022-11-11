@@ -56,7 +56,7 @@ The implementation services [Rapid Results](/services/rapid-results/) packages h
 As with any new software being introduced at a company, users tend to need training to know how to use it. We have excellent [education services](/services/education/) that span the spectrum of basics to advanced; administrators to general users. All of our education services have standard SKUs, which makes the process easy for the ISR/SAL to offer to a customer.
 
 #### Integration Services
-Customers tend to have tools and systems with which they need to establish integrations. We offer [integration services](/services/integration/) for customers who need systems like LDAP, Jira, Jenkins, etc. to work with gitlab.
+Customers tend to have tools and systems with which they need to establish integrations. We offer [integration services](/services/implementation/integration/) for customers who need systems like LDAP, Jira, Jenkins, etc. to work with gitlab.
 
 #### Advisory Services
 Advisory services can be helpful to customers who have questions on how to best leverage GitLab to meet their company's ambitious goals related to devops or digital transformation.

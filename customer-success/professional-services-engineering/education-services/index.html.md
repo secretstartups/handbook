@@ -29,7 +29,6 @@ The GitLab Professional Education Services team currently provides the following
 - [Live Instructor-led training (ILT)](https://about.gitlab.com/services/education/)
 - [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings. 
 - [Train-the-Trainer](https://about.gitlab.com/services/education/train-the-trainer/)
-- [Custom Training](https://about.gitlab.com/services/specialized/)
 
 
 ### Immediate Priorities

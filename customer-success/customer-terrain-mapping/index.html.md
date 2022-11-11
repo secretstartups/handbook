@@ -468,7 +468,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 #### Existing Professional Services That May Help
 
-- [Integration Services](https://about.gitlab.com/services/integration/)
+- [Integration Services](https://about.gitlab.com/services/implementation/integration/)
 
 #### Preparation Materials
 
