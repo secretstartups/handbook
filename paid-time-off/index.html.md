@@ -224,7 +224,6 @@ GitLab teammate questions about PTO by Roots can be directed to `#people-connect
 * `/pto-roots @usergroup` See upcomming OOO for everyone on the particular user group.
 * `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
 * `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
-* `/pto-roots report` See historical time off. For managers, this command will generate a report of your direct report time off.
 
 ### Home Tab
 
