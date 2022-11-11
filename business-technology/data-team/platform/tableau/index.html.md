@@ -246,6 +246,12 @@ Note: training videos listed above are provided for free by third parties and th
 
 We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to regularly meet and showcase their work, as well as discuss topics / ask questions on anything relating to the tool. Please refer to our running [Meeting Agenda and Question & Answer document](https://docs.google.com/document/d/1i23bIsoupKC7rTepbU2lVXTHB5vxKuAgl07kAQq2EBA/edit) for content covered in our sessions.
 
+| Office Hours Date | Agenda |
+| ------- | ------- |------- |
+| 09/14/2022 | [Show-and-tell: Headcount Dashboard (People Analytics)](https://gitlab.zoom.us/rec/share/0MphAkpYATvSoUpIohaV-txJ0FYDrAbhZWLcLDc8a7wKXI81087HFNJz7JPDqhlO.JEjb5PcYVKklF9pp) |
+| 09/21/2022 | [How to Get Started: Data Connectivity](https://gitlab.zoom.us/rec/share/a12XqymuT2jN5zYCKp3pWdGEd442C4DonmqL9d1Qpn0303e1377L4NXyg5cCXspT.bWgjHRtOQ2dGa5G5) |
+|09/28/2022 | [Design Templates and Best Practices](https://gitlab.zoom.us/rec/share/CZIolPQw04BR3gDT5oO-Hodino24oBtdkxZhZExR1B6LCcXP-6fsL6LrWqakOC6F.Xq-NdWe6HBq-et8A) |
+
 #### Tips and Tricks
 
 | Environment | Tips | 
