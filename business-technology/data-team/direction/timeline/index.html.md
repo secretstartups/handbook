@@ -16,15 +16,50 @@ title: "Data Team Direction - Timeline"
 ```mermaid
   graph LR;
   subgraph Data Development Timeline
-    fy21(FY21) --> fy22(FY22) --> fy23(FY23);
+    fy21(FY21) --> fy22(FY22) --> fy23(FY23) --> fy24(FY24)
   end
 
   click fy21 "/handbook/business-technology/data-team/direction/timeline/#fiscal-year-2021";
   click fy22 "/handbook/business-technology/data-team/direction/timeline/#fiscal-year-2022";
   click fy23 "/handbook/business-technology/data-team/direction/timeline/#fiscal-year-2023";
+  click fy24 "/handbook/business-technology/data-team/direction/timeline/#fiscal-year-2024";
 ```
 
 --- 
+## Fiscal Year 2024
+
+### [FY24 Data Team Objectives and Report Cards](https://gitlab.com/groups/gitlab-data/-/epics/696)
+
+###  FY24 Direction
+
+_Drive Alignment to Best-In-Class Analytics Solutions_
+
+Our FY24 Direction is based around 4 Pillars of Business Impact. These Pillars and other FY24 Data Initiatives are covered in the [FY24 Data Program X-Functional Initiatives Slide deck](https://docs.google.com/presentation/d/1UXIKCir35b9ReHBN0rpLaYAshih5gIktgr1JahUedoY/edit):
+
+#### 1. [360 Customer IQ](https://docs.google.com/presentation/d/1hazljtcmgkhOYaOVTXLhVFzA5IhQxWdee_ocIBRndMs/edit#slide=id.g123a13deda8_0_405) 
+
+- New 360 view of Customer and Account interactions, usage, and expansion
+- Best-in-class tool for Sales Teams to understand all of the ways prospects and customers are interacting with GitLab
+
+#### 2. [One Customer Journey](https://docs.google.com/presentation/d/1YUpb-6mhKz-Z20cx0wrycjmPqHMNSdPGzAJSyFBITFM/edit)
+
+- Build Customer Journey Analytics to align all GTM teams on Customer Health and Engagement Indexes.
+- [Expand Unified Customer ID](https://docs.google.com/presentation/d/1k64KNU-QdfQfBqwTYKMRqXpgJUHMyGC3Mu-N0Q5LQdg/edit#slide=id.g148196257e6_0_0) with trusted hierarchies, customer interactions, and more complete intent and opportunity signals.
+- Expand Data Science products to increase new logo aquisition, improve expansion, and reduce churn & contraction.
+- Advance Sales Excellence with Customer Zero experiences.
+
+#### 3. [Best In Class Analytics Platform](https://docs.google.com/presentation/d/1dR7FYFWIvNa2mfLkG2TsJbyVQ7UGJAyWdwMknKbAU5w)
+
+- Multi-Terabyte Big Data DataOps to power a $1 Billion dollar company.
+- End-to-end Self-Service through easy-to-use Data Visualization tools, data models, and solution recipes.
+
+#### 4. [Data Customer Zero ](https://docs.google.com/presentation/d/1PjaFAEaePZgz2BgB_pgLAY3zy81ugvo0a1gj0en-h54/edit#slide=id.g15464c2a8e6_0_0)
+
+- Be GitLab Customer Zero for DevOps, DataOps, and MLOps with regular feedback loops into Product.
+- Reliable, stable, and auditable Monthly Active User analytics with Trusted Data Models.
+- Product Analytics Tools to help Product understand, plan, and act faster.
+- Data Science on GitLab MLOps.
+
 
 ## Fiscal Year 2023
 
@@ -64,6 +99,10 @@ Our FY23 Direction is based around 3 areas of business improvement:
 #### FY23-Q3
 
 - [FY23-Q3 Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/588)
+
+#### FY23-Q4
+
+- [FY23-Q4 Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/657)
 
 --- 
 
