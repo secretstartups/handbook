@@ -13,9 +13,13 @@ description: 'Details on the workflows for managing Pagerduty'
 
 ## Overview
 
+## Requesting changes to PagerDuty rotations or schedules
+
+All changes to PagerDuty schedules or rotations must be initiated through an Issue in the [Support Ops PagerDuty Project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/). Requesters should [create a new Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new) using the appropriate Issue Template.
+
 ## Determine if the request is valid
 
-**NOTE** These are general guidelines. Please always use your best judgemewnt
+**NOTE** These are general guidelines. Please always use your best judgement
 or speak with a Support Operations Manager when you are unsure.
 
 * For shadow rotation schedule changes, the request is essentially always valid.
