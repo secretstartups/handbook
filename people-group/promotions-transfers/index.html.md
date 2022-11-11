@@ -409,19 +409,20 @@ _Interviews are not required role Acting roles as they generally do not end in p
 
 _When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
 
-### Updating Acting or Interim Movements in Workday
+### Updating Interim Movements in Workday
 
-If you receive a job change or letter of adjustment to an interim or acting role here is how to process the change.
+If you receive a job change or letter of adjustment to an interim role here is how to process the change.
 
 1. Save the letter to Documents > Contracts folder - `Share with employee`
 1. Review for compensation change 
 1. Access Level 
-    - Acting roles - No access change
     - Interim roles - Access changed (if required)
 1. Update Job title (if required)
 1. Update Manager (if required)
 1. Update Acting/Interim Tracker Spreadsheet
 1. Update Transition Tracker Spreadsheet (if required) 
+
+Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](https://about.gitlab.com/handbook/total-rewards/compensation/#tracking). 
 
 ## Demotions
 
