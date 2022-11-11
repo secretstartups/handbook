@@ -103,7 +103,9 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 ### Internal Requests
 
-All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). For internal requests, our SLO aligns with our SLA with customers for
+[questions about licensing](https://about.gitlab.com/support/#have-questions-about-billing-purchasing-subscriptions-or-licenses),
+which is that "GitLab Support will respond within 8 hours on business days (24x5)".
 
 A list of common scenarios and the appropriate option are detailed in the following table.
 
