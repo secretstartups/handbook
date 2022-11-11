@@ -80,6 +80,11 @@ There are several ways to view current and future schedules:
 1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 
+#### Requesting changes to PagerDuty rotations or schedules
+
+All changes to PagerDuty schedules or rotations (including adding or removing team members) must be initiated through an Issue in the [Support Ops PagerDuty Project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/). Requesters should [create a new Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new) using the appropriate Issue Template.
+
+
 #### Your first on-call shift
 
 For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, work with your manager to get yourself added to the on-call rotation. For your first on-call week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
