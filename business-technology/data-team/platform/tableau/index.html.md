@@ -157,6 +157,8 @@ The number of licenses is limited for the duration of the pilot, and is meant fo
 
 **Using Tableau Desktop or Tableau Prep Builder:**
 
+*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](https://about.gitlab.com/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work.
+
 * Snowflake 
     1. Connect > To a Server > Snowflake
     1. Fill in the following:
