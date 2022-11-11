@@ -84,25 +84,30 @@ Corresponding handbook pages:
 
 # My OKRs (Objectives and Key Results)
 
-My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=155987)
+My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=135090)
 
-A subset of my Q3 OKRs can be public and are in these categories:
+A subset of my Q4 OKRs can be public and are in these categories:
 
-## Mature the product
+## Grow team member's careers
 
-* Achieve error budget targets
-* Resolve high severity usability impacting issues
-* Improve secure analyzer component maturity
-* License database proof of concept
+* 10 starts in Q4
+* Complete annual team member assessments
+* [50% of team has taken TeamOps training](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/14185)
+* Do >=3 engineering director shadow weeks
 
-## Increase ARR (annual recurring revenue)
+## Application health
 
-(Details not public)
+* UX: 18 Pajama component migrations
+* Address 3 prioritized usability issues
+* Support Ruby 3 upgrade
+* Resolve 3 S1/S2 customer facing bugs.  Issue searches: [sec](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=section%3A%3Asec), [growth](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Agrowth), [modelops](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Amodelops)
+* Add X maintainers
 
-## Great team
+## Increase revenue by delivering customer results
 
-* Hiring - fill 7 roles
-* [Coordinate quarterly product and engineering vision discussions](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13633)
-* [All managers take neurodiversity training](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13889)
+* [FedRamp](https://about.gitlab.com/company/team/structure/working-groups/fedramp-execution/)
+* [AI Assist](https://about.gitlab.com/handbook/engineering/incubation/ai-assist/)
 
+## Ship features to achieve Best in Class 
 
+TBD
