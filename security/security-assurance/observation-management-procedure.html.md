@@ -80,6 +80,15 @@ The observation identifier is responsible for opening an observation in [ZenGRC]
 
 * [Observation Intake and Management Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/1_Observation%20Intake%20and%20Management.md)
 
+### Drafting Observation Description Guidance
+
+The Observation description should include the who, what, when, where, why, and how related to the observation. As a review step, if you knew nothing about this observation could you understand the finding, how it was identified, and the effect it has on objectives? Consider leveraging the 4C's model:
+
+1. Condition - current state
+1. Criteria - desired state based on policy, requirement, control, regulation, etc.
+1. Cause - root cause of the observation
+1. Consequence - actual or potential effect on objectives/assets 
+
 ### Observation Risk Ratings
 
 Tier 3 information system risk ratings are based off the [STORM risk rating methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring).
