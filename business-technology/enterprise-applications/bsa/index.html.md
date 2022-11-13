@@ -51,12 +51,6 @@ Slack handle: `@Santhosh`
 Location and Timezone: Netherlands, CET/GMT+2  
 Linkedin Profile: [/santhosh-b-28711613a](https://www.linkedin.com/in/santhosh-b-28711613a/)
 
-**Yuyu Yang - Staff Business Systems Analyst**  
-GitLab handle: [@yuyuyang](https://gitlab.com/yuyuyang)  
-Slack handle: `@Yuyu Yang`    
-Location and Timezone: USA, CDT/CST  
-
-
 ## What Do We Do?
 Being business process first, we focus on requirements, use cases and process flows in order to help implement new systems, enhance existing processes or deliver fixes. On a project, our role includes requirements documentation, business process mapping, gap analysis, project scoping, timeline planning, and scheduling.
 We also manage relationships by working closely with cross-functional business and vendor teams to implement new enterprise applications that are coming on board. In doing so, we follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently.
