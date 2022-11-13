@@ -180,6 +180,8 @@ When this happens inform the researcher why it is not a vulnerability. It is up 
 
 We mostly use the "Informative" status for reports with little to no security impact to GitLab and "Not Applicable" for reports that show a poor understanding of security concepts or reports that are clearly out of scope. "Spam" results in the maximum penalty to the researcher's reputation and should only be used in obvious cases of abuse.
 
+It may be appropriate to suggest [opening a public GitLab Issue for reproducible bugs](https://about.gitlab.com/submit-feedback/#reproducible-bugs) that are not vulnerabilities.
+
 #### If a Report is Unclear
 
 If a report is unclear, or the reviewer has any questions about the validity of the finding or how it can be exploited, now is the time to ask. Move the report to the "Needs More Info" state until the researcher has provided all the information necessary to determine the validity and impact of the finding. Use your best judgement to determine whether it makes sense to open a confidential issue anyway, noting in it that you are seeking more information from the reporter. When in doubt, err on the side of opening the issue.
