@@ -75,7 +75,17 @@ Support will be provided based on the following business hours in the respective
 | EMEA          | 8:00AM to 5:00PM (GMT)   |
 | AMER / LATAM  | 7:00AM to 5:00PM (PT)    |
 
+
+
+##### Support Model - Public Holidays, Friends & Family Days
+
 Our regional teams do not operate on a 24/7 support model. If your request is submitted after 4:30PM local time, or outside of standard support hours, it may not be reviewed until the following business day. The only exceptions for this are End of Month/End of Quarter. Support hours and availability will be shared in advance of high volume periods through #field-fyi. 
+
+Regional Teams observe all local Public/Federal Holidays. There will be no coverage on [Public/Federal Holidays](https://www.timeanddate.com/holidays/us/2022). 
+
+The team also participates in Family & Friends day - there will be very limited coverage on these days. 
+
+It is the responsiblity of the Sales team to plan ahead and submit requests prior to regional holidays. 
 
 #### Regional Structure
 
