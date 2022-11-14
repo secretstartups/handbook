@@ -148,6 +148,8 @@ The `saas_usage_ping_backfill` `DAG` will backfill data for the metrics where th
 * `"time_window_query": true`
 * Metrics is in the value `metrics_backfill` in the variable `NAMESPACE_BACKFILL_VAR`
 
+**Note:** the `DAG` should have status `ON`. By default, it is in the `OFF` status, as it is not scheduled. After run, turn off the `DAG`. Even if it is turned off, no harm, as the `DAG` will run one time only.
+
 #### Metrics Gathering and Generation Process Pseudo-code
 
 1. Assume the `GitLab.com` `Postgres` source data pipelines are running and fresh up-to-date data is available in Snowflake in `RAW.SAAS_USAGE_PING` and `PREP.SAAS_USAGE_PING` schemas, respectively
