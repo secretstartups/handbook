@@ -98,8 +98,6 @@ Considering joining the program? Hear from past shadows about their experience:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/Yey83s3zGMM"></iframe></figure><!-- blank line -->
 
 
-## The Scoop 🍨
-
 Still not sure if the CEO Shadow program is for you? Want an authentic, honest, and unfiltered understanding of the program? You can visit the #ceo-shadow-alumni channel or visit the [alumni section](/handbook/ceo/shadow/#alumni) of the handbook to find Shadows who have recently completed a rotation. Send them a DM or a coffee chat invite, and they will give you an entire run down. You can ask them anything you want about the program without worrying about them judging you. They want to help you understand if it's a good fit for you and are happy to share their experiences with you!
 
 
