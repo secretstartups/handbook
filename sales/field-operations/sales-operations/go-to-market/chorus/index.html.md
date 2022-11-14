@@ -75,11 +75,10 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 ### Recorder Access
 - US SALs and AEs
 - US CSM and SAs
-- US SDRs and BDRs
 - ROW SALs, AEs, CSM, and SAs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
-- ROW SDRs and BDRs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
 
 ### Listener Access
+- All SDR/BDR team members
 - All Public Sector team members
 - All GitLab team members in non-customer facing roles including, but not limited to, those in Operations roles and all Managers regardless of their org
 - GitLab team members may request Listener access through an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) which may be granted on a case by case basis
