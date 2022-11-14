@@ -40,7 +40,7 @@ should be avoided in order to prevent designing by committee.
 The intent of a revert is never to place blame on the original author. Additionally, it is helpful
 to inform the original author so they can participate as a DRI on any necessary follow up actions.
 
-The `pipeline:revert` must be set on revert merge requests to skip some non-essential jobs in order to speed up the MR pipelines.
+The `pipeline:expedite-master-fixing` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
 
 ## Broken `master`
 
@@ -129,7 +129,7 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
      of the reverted merge request.
        * Reverts can go straight to maintainer review and require 1 maintainer approval.
        * The maintainer can request additional review/approvals if the revert is not trivial.
-       * The `pipeline:revert` must be set on revert merge requests to skip some non-essential jobs in order to speed up the MR pipelines.
+       * The `pipeline:expedite-master-fixing` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
      * Add the `quarantined test` label to the `failure::flaky-test` issue you previously created during the identification phase.
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
