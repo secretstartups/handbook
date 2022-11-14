@@ -40,17 +40,7 @@ This certification is ideal for aspiring or new managers, individual contributor
 
 ## How to access the certification
 
-{::options parse_block_html="true" /}
-
-<div class="panel panel-gitlab-orange">
-**Good things are ahead!**
-{: .panel-heading}
-<div class="panel-body">
-
-The Remote Work Foundation Certification will be free to complete. *We are iterating on our learning systems and will update this page once available in Q3-FY23.*
-
-</div>
-</div>
+You can access this certification on [Level Up.](https://levelup.gitlab.com/courses/remote-foundations)
 
 ## More GitLab certifications
 
