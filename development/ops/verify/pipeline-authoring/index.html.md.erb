@@ -59,10 +59,6 @@ The team uses the [`#g_pipeline_authoring_quad`](https://gitlab.slack.com/archiv
 
 ## How We Work
 
-### Iterations
-
-The team uses [iteration cadences](https://docs.gitlab.com/ee/user/group/iterations/index.html#iteration-cadences) to manage the team's prioritised work and capacity. Currently, each iteration is set to a 2-week duration. Any issue that has a label of `backend` or `frontend` will be included in the iteration, but any design issue is managed at the associated milestone level. A [video](https://www.youtube.com/watch?v=cWrmCe6dW5o) was created to summarize the trialing of iteration cadences in Pipeline Authoring.
-
 ### Implementation template 
 
 A template in the `gitlab-org/gitlab` project called `Pipeline Authoring Issue Implementation` is used to capture consistent details around implementation efforts. This template should be used when creating `backend` or `frontend` issues which could relate to the implementation of a validated problem with a refined solution proposal, or a general `backend` or `frontend` request that isn't related to a feature improvement or addition. This template is not intended to replace or duplicate any original design issues as the single source of truth ([SSOT](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot)). When creating an issue for a feature change or addition, usability problems or bugs, use the `feature request` or `bug` issue templates.
@@ -73,9 +69,9 @@ The team uses the [Verify candidate](https://gitlab.com/groups/gitlab-org/-/issu
 
 ### Planning
 
-Issues are refined and weighted prior to assigning them to a milestone. We use `candidate::` scoped labels to help with planning work in future milestones. This label allows us to filter on the issues we are planning, allowing Product, Engineering, and UX to refine issues async that have `workflow::design` and `workflow::ready for development` labels applied. Weighting also helps with capacity planning with respect to how issues are scheduled in future iterations.
+Issues are refined and weighted prior to assigning them to a milestone. We use `candidate::` scoped labels to help with planning work in future milestones. This label allows us to filter on the issues we are planning, allowing Product, Engineering, and UX to refine issues async that have `workflow::design` and `workflow::ready for development` labels applied. Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones.
 
-We create a [planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-authoring/-/blob/master/.gitlab/issue_templates/Planning_issue_PA.md) as part of our milestone planning process and the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started) is the single source of truth ([SSOT](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot)) for current and upcoming work. Product is the DRI in prioritizing work, with input from Engineering, UX, and Technical Writers. The planning issue is used to discuss questions and team capacity. Prior to the beginning of each iteration, issues identified in the planning issue will be assigned to that iteration and engineers can assign prioritized issues to themselves from the top of the `workflow::ready for development` column in the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started).
+We create a [planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-authoring/-/blob/master/.gitlab/issue_templates/Planning_issue_PA.md) as part of our milestone planning process and the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started) is the single source of truth ([SSOT](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot)) for current and upcoming work. Product is the DRI in prioritizing work, with input from Engineering, UX, and Technical Writers. The planning issue is used to discuss questions and team capacity. Prior to the beginning of each milestone, issues identified in the planning issue will be assigned to that milestone and engineers can assign prioritized issues to themselves from the top of the `workflow::ready for development` column in the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started).
 
 #### Finding issues that need refinement
 All issues that need refining will have the `~needs weight` label applied to them.
@@ -153,7 +149,7 @@ Starting in October 2022, the team is currently trialing an enhanced workflow mo
 
 ![Verify Groups](/images/handbook/engineering/verify/pa-workflow-model.png)
 
-We use the [Pipeline Authoring Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?&milestone_title=%23started) to track what we work on in the current iteration for the target milestone.
+We use the [Pipeline Authoring Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?&milestone_title=%23started) to track what we work on in the current milestone.
 
 We follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) to ensure that the problems we're solving are well understood and the solutions are well defined and validated before the implementation. 
 
@@ -200,7 +196,7 @@ Issue descriptions shall always be maintained as the single source of truth. Iss
 
 #### "What do I work on next?"
 
-Each member of the team can choose which issues to work on during an iteration for a milestone by assigning the issue to themselves.  When the iteration and milestone are well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
+Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
 
 Specifically, this means our work is prioritized in the following order:
  * Any verification on code that is in `workflow::verification` or `workflow::production` - **NOTE:** If an issue has the `workflow::feature-flagged label`, this means the feature is behind a feature flag that has not  been turned on by default.
@@ -218,7 +214,7 @@ On the last week of the milestone the DRI ([directly responsible individual](/ha
 - `Needs Attention` - This signals that the DRI of the issue requires collaboration it might impact planned delivery.
 - `At Risk` - The issue is **unlikely** to be completed in the current milestone and will probably miss the release due dates.
 
-Please note that if an issue happens to roll over to the next milestone, the DRI should clear the health status once the next iteration begins to ensure the health status is accurate.
+Please note that if an issue happens to roll over to the next milestone, the DRI should clear the health status once the next milestone begins to ensure the health status is accurate.
 #### Issue status updates
 
 When the DRI is actively working on an issue  (workflow status is `workflow::in dev`, `workflow::in review` or `workflow::verification` in the current milestone), they will add a comment into the issue with a status update, detailing:
@@ -260,7 +256,7 @@ If an issue has several components (e.g. ~frontend, ~backend, or ~documentation)
 1. We can weight issues with more accuracy.
 1. We can mark one implementation as a blocker for another.
 1. It's easier to see what work can be picked up by each functional group.
-1. We can schedule feature work across multiple iterations/milestones.
+1. We can schedule feature work across multiple milestones.
 1. When team members are selecting work from the [ready for development board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name[]=group::pipeline+authoring&label_name[]=workflow::ready+for+development), it simplifies what issue relates to which component.
 
 When new implementation issues are created, they should always be linked to the initial issue that contains the proposal and relevant discussions.
@@ -285,7 +281,7 @@ Having these discussions in issues can help us maintain a source of truth for th
 
 - Spikes are marked as deliverable to ensure clear ownership from engineers
 - Spikes are time-boxed to a short duration, sometimes one week, never more than one milestone.
-- We should schedule Spikes at the beginning of an iteration so that investigation will conclude before the planning of the following iteration.
+- We should schedule Spikes at the beginning of a milestone so that investigation will conclude before the planning of the following milestone.
 - Limit no more than 2 Spikes per milestone per group. 
 - Multiple team members collaborate on a spike. They are assigned to at least one frontend and one backend engineer to ensure we consider the issue from both viewpoints.
 
@@ -380,7 +376,7 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 #### Avoiding crunch times between UX and Engineering
 
-* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation iteration starts for the target milestone.
+* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
 * Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
 * Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](https://about.gitlab.com/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
@@ -442,7 +438,7 @@ DRI engineers should proactively help the SET understand the required tests.
 
 In the instance where the SET has too many E2E tests to write, then they should check with
 backend engineers of the team if they could lead the effort on some of them. Because testing
-is part of the required work, we should account for E2E when assigning issues to an iteration.
+is part of the required work, we should account for E2E when assigning issues to a milestone.
 
 #### Bug fixes that require additional test coverage
 
@@ -458,7 +454,7 @@ Tests are essential and should be prioritized as such.
 
 When creating a follow-up issue for required tests:
 
-- Make sure to assign the issue to the following iteration and make room for it to be worked on.
+- Make sure to assign the issue to the following milestone and make room for it to be worked on.
 - Add all the context necessary to test the feature in the description, for example: Where it is, how it works, how to configure it, etc.
 - Assign a DRI immediately and cc the product manager so that they are aware of the issue and required work.
 
@@ -477,9 +473,9 @@ When creating a technical debt issue make sure to label it as such, in addition 
 
 Engineering Managers are responsible for collecting feedback from their engineering teams to help inform the Product Manager to decide on the priority of these technical debt issues.
 Engineers should label these issues accordingly with their assessment of severity, weight, and make a recommendation on a technical proposal.
-- For tech debt which carries the weight of 1 or 2, engineers can schedule them for the current or future iteration.
+- For tech debt which carries the weight of 1 or 2, engineers can schedule them for the current or future milestone.
 - For tech debt that carries the weight of 3 and above should be scheduled by the Product Manager.
-In each iteration, we should try allocating time for fixing tech debt issues.
+In each milestone, we should try allocating time for fixing tech debt issues.
 Engineering teams should inform the product manager and EMs if there isn't enough time to fix those issues.
 
 ### Retrospectives
