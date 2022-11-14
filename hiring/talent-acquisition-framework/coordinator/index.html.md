@@ -162,7 +162,13 @@ In the form, you'll find a question that informs the candidate that they will be
 
 **Outside Work**
 
-If the candidate writes "none" or "n/a", you can skip this step. If a candidate discloses any outside activities, Email the Team through Greenhouse using the template `CES - Outside Work Email` and send this email to the Hiring Manager. The Recruiter, Coordinator, and Team Member Relations will automatically be CC'ed. Once you have approval, take a screenshot of the email conversation and upload that approval to WorkDay once they have been marked hired. See more information about this process [here](/people-group/contracts-probation-periods/#approval-for-outside-activities). 
+If the candidate writes "none" or "n/a", you can skip this step. If a candidate discloses any outside activities, CES will need to take the following steps: 
+1. In the ticket issue use "refchecktodo" text expander snippet to track progress and add the "Outside Work Disclosure" label.
+2. Email the Team through Greenhouse using the template `CES - Outside Work Email`, you can either copy and paste what the candidate has disclosed or you can attach a screenshot of the "outside work" section of the form. Send this email to the Hiring Manager. The Recruiter, Coordinator, and Team Member Relations will automatically be CC'ed. 
+3. Await approval from the Hiring Manager and/or TMR. Once you have approval, take a screenshot of the email conversation (make sure to capture both the work disclosed and the approval from the HM and/or TMR). Save screenshots to a folder on your desktop. 
+4. Once the candidate has been marked as hired and their profile has been created, CES will need to upload the approval screenshots to WorkDay. In WorkDay, search the candidate's name then navigate to the "Personal" tab. Click on "Documents" and then "Add". Upload the correct screenshots, under the "Document Category" drop down, select "Contract & Changes - Confidential (No Employee View), click "Upload". 
+
+See more information about this process [here](/people-group/contracts-probation-periods/#approval-for-outside-activities). 
 
 **TMRG Conversations**
 
