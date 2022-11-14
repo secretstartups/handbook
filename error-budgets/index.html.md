@@ -195,6 +195,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 |------------------|---------------------|---------------------|---------------------|
 | Fulfillment:Provision | 50% | We are prioritizing [resolving errors causing sidekiq to go below error budgets](https://gitlab.com/gitlab-org/gitlab/-/issues/365263).<br/> |  2022-10-31 |
 | Manage:Workspace | 99.85% | To allow time for the group to address issues with the endpoints connected with listing many projects at once, cooperate with other teams and API working group on that problem. Described in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108039) | 2022-12-31 |
+| Govern:Threat Insights | 99.5% | Epics to address the major contributor to budget spend are in progress, but won't finish for another 3 milestones: [Deprecate and remove Vulnerabilities::Feedback](https://gitlab.com/groups/gitlab-org/-/epics/5629), and [Extend the use of `security_findings`](https://gitlab.com/groups/gitlab-org/-/epics/8341) | 2023-02-22 |
 
 **Exceptions**
 
