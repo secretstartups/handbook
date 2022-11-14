@@ -19,6 +19,48 @@ For an overview of how CSMs use Gainsight, please refer to the [Gainsight CSM Ov
 Use case Adoption scoring will assist CSMs in understanding a customer's adoption state based on a specific list of metrics. 
 By looking at the Adoption scores, the CSM will gain an understanding of the customer's current state in the adoption journey.
 
+<details>
+  <summary markdown="span"> Building Adoption Scores </summary>
+
+#### Metrics Availability & Evaluation
+The first step in the process of building a Use Case adoption score starts with identifying active metrics that can gauge a customer’s level of performance and adoption for a given use case. To capture the breadth of use case adoption, there should be a minimum of 3 and ideally 5-7 metrics to be able to provide a comprehensive score. Product Management and Customer Success teams play a big role in identifying use case specific metrics. Product Marketing works with Product Managers to identify Adoption Recommendations for each use case which can be viewed on the the respective Use Case Resource Pages. After identifying a sufficient list of metrics, we move on to identifying the denominator to normalize the metric (i.e. `Git Operations - User L28D` / by `Licensed Users` = `Git Operation Utilization %`). 
+
+<details>
+  <summary markdown="span"> Use Case Resource Pages </summary>
+  - [SCM](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
+  <br>
+  - [CI](urhttps://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-recommendationl)
+  <br>
+  - [CD](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/#adoption-recommendation)]
+  <br>
+  - [DevSecOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+  <br>
+  - [Compliance](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+  <br>
+  - [Artifact Management (Package](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/package/)
+  <br>
+  - [GitOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#adoption-recommendation)
+  <br>
+  - [Agile](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/agile/#adoption-recommendation)
+  </details>
+
+#### Threshold & Weighting Analysis
+The threshold percentages are chosen by looking at how many customers fall into certain quartiles as well as looking at the averages/median for a subset of customers that we know have healthy usage in this use case. Combining those two gets us to a great starting point of where those percentages should be for each metric. We then look at how many customers would fall into each color based on that starting point. There are some final tweaks after that as well as getting feedback from other teams on those percentages that are set for each color. 
+<br>
+#### Testing
+This is an important part of validating the selected metrics, thresholds, weighting, and data integrity. The process entails calculating the score for at least 15-20 real accounts, specifically where we have a good understanding of their adoption of the given use case, which we can then share with the CSMs to confirm the resulting score. 
+<br>
+#### Operationalize in Gainsight
+Use Case Adoption metrics currently live in Gainsight, which is planned to change in the future as Gitlab continues to evaluate new BI tools, but for now, we currently calculate the Adoption score using the Adoption Use Case usage reports in Gainsight. This report contains normalized metrics (i.e. `CI Pipelines - L28D` / `Licensed Users` = `CI Pipelines Utilization %`) which are currently calculated using Gainsight Rules Engine. 
+<br>
+#### Enablement
+The last piece is enabling CSMs to be able to calculate the score, formulate the customer-facing slide deck and be able to present the score in detail. This requires cross-functional partnership between CSMs, CSM Managers, Enablement and CSOps, where a CSM will usually lead the enablement sessions with a mock presentation, while CSOps handle Q&A and any follow-ups that may come out of those enablement sessions. 
+<br>
+#### Iterate & Improve
+With a product that updates monthly while also adding new features to the Gitlab use cases, we have an ongoing process to update the respective adoption scores, aiming for the most accurate depiction of use case adoption by our customers. As new features are built and made available, new metrics are also instrumented by the respective product teams to be able to provide insights to customers that can help customers improve their experience and attain their DevOps goals with Gitlab. 
+
+<br>
+</details>
 
 ### CI Adoption Scoring
 
