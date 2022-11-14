@@ -29,7 +29,15 @@ View the <a href="/handbook/support/workflows/chatops.html#setting-additional-mi
 Support ChatOps documentation</a> for more information.
 </details>
 
+## Process for authorising additional CI minutes to be added to GitLab Trial customers
+
+- If a customer is in trial and a request is submitted to increase their amount of CI minutes to match those a Premium or Ultimate subscriber receives then the support engineer should seek authorisation from the customers sales representative to provide the additional CI Minutes, as they are able to self-authorise such requests. However, if a request is made for an increase in excess of the standard allotments of CI minutes (i.e. more than 10,000 minutes for a Premium trial and more than 50,000 minutes for an Ultimate trial) then a transaction is required and those minutes should be paid.
+
+- For an existing customer - other than an act of goodwill (i.e product bug, unplanned GitLab.com downtime, performance issues etc...), any additional CI Minutes or Storage should be paid for
+
+
 ## Purchased CI minutes are not associated with customer's group
+
 To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html).
 
 **If the Mechanizer does not work**, you will need to request a refund for the customer.  In this case:
