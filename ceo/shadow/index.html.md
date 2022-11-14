@@ -97,6 +97,12 @@ Considering joining the program? Hear from past shadows about their experience:
 <!-- blank line -->
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/Yey83s3zGMM"></iframe></figure><!-- blank line -->
 
+
+## The Scoop 🍨
+
+Still not sure if the CEO Shadow program is for you? Want an authentic, honest, and unfiltered understanding of the program? You can visit the #ceo-shadow-alumni channel or visit the [alumni section](/handbook/ceo/shadow/#alumni) of the handbook to find Shadows who have recently completed a rotation. Send them a DM or a coffee chat invite, and they will give you an entire run down. You can ask them anything you want about the program without worrying about them judging you. They want to help you understand if it's a good fit for you and are happy to share their experiences with you!
+
+
 ### Impact of the CEO Shadow Program
 
 This is feedback received from some Alumni shadows and their managers.
@@ -267,6 +273,28 @@ If you're not familiar with some of the business acronyms, take a bit of time to
 - Other business terminology may come up. [Wall Street Oasis Finance Dictionary](https://www.wallstreetoasis.com/finance-dictionary#DicT) is a handy guide.
 
 **Note:** This list is not meant to be exhaustive and [should not become a glossary](/handbook/handbook-usage/#single-source-of-truth). While we strive to be handbook first, you may find that we are using acronyms without a clear handbook definition. If you can't find it in the handbook or find a standard definition on Google, ask someone what the acronym means. Not being able to find it could be a sign that we need to do a better job with documentation.
+
+### Remote shadow rotations
+
+![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
+
+The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
+The shadows will participate in all meetings from their usual work environment.
+
+While remote shadows won't get to work from Mission Control or attend in-person meetings with the CEO, they will still get an immersive experience through the program. A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past.
+
+For insights on maximizing a remote CEO Shadow rotation, view takeaway recap videos from [Betsy](https://youtu.be/DGJCuMVp6FM) (Talent Brand Manager) and [Darren](https://youtu.be/4yhtYcOZn3w) (Head of Remote), as well as Darren's [blog](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/).
+
+#### Tips for remote shadows
+
+1. Be sure that you have an [ergonomic workspace](/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
+1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
+1. Consider alternating who leads note-taking from one meeting to the next, which reduces confusion on who writes first and who follows from one event to the next.
+1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
+1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
+1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
+1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
+1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](/handbook/paid-time-off/#recognizing-burnout).
 
 ## What to expect during the program
 
@@ -678,33 +706,6 @@ When traveling with the CEO, keep the following in mind:
 1. If travel plans change, please update the EBA(s) in Slack immediately so cancellations to prior transportation can be made promptly to not incur fees.
 1. When returning to San Francisco, if on a different airline, be sure to arrive before the CEO and communicate a [meetup location if traveling back to Mission Control](#rideshare-from-airport) together.
 
-### Remote shadow rotations
-
-![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
-
-The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
-The shadows will participate in all meetings from their usual work environment.
-
-While remote shadows won't get to work from Mission Control or attend in-person meetings with the CEO, they will still get an immersive experience through the program.
-A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past.
-
-For insights on maximizing a remote CEO Shadow rotation, view takeaway recap videos from [Betsy](https://youtu.be/DGJCuMVp6FM) (Talent Brand Manager) and [Darren](https://youtu.be/4yhtYcOZn3w) (Head of Remote), as well as Darren's [blog](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/).
-
-#### Tips for remote shadows
-
-1. Be sure that you have an [ergonomic workspace](/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
-1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
-1. Consider alternating who leads note-taking from one meeting to the next, which reduces confusion on who writes first and who follows from one event to the next.
-1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
-1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
-1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
-1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
-1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](/handbook/paid-time-off/#recognizing-burnout).
-
-
-### The Scoop 🍨
-
-Suppose you are interested in the CEO Shadow program but want an authentic, honest, and unfiltered understanding of the program. You can visit the #ceo-shadow-alumni channel or visit the [alumni section](/handbook/ceo/shadow/#alumni) of the handbook to find Shadows who have recently completed a rotation. Send them a DM or a coffee chat invite, and they will give you an entire run down. You can ask them anything you want about the program without worrying about them judging you. They want to help you understand if it's a good fit for you and are happy to share their experiences with you!
 
 ## Mission Control Guide
 
