@@ -83,8 +83,8 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 
 ### Is this material for internal or external use?
 <!-- Delete as appropriate, and refer to the definitions of `external use` and `internal use` in the Materials Legal Review Process. If there are plans to use the material, or any part of it, externally in the future, chose `external`. -->
-- external @Scott Rissmiller @LeeFalc
-- internal @Scott Rissmiller
+- external @sfriss @LeeFalc
+- internal @sfriss
 
 ### Will the materials be made available on GitLab Unfiltered, Edcast, or anywhere else?
 <!-- Delete as appropriate to state whether some or all of the materials being submitted for review will be made available anywhere. If they will, give details of the visibility the materials will have. -->
@@ -98,7 +98,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 2. If no working issue already exists, complete the [single material legal review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=single-material-legal-review), following the instructions in the template.
 
 3. Note that:
-   * To obtain the review appropriate to your proposed use, you must tag the correct Legal & Corporate Affairs Team members in the issue description ([`@Scott Rissmiller`](gitlab.com/srissmiller) for internal materials, and [`@Scott Rissmiller`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials). IP review is not required for materials created for internal use, only SAFE review is required. Internal use and external use are [defined here](#external-vs-internal-use).
+   * To obtain the review appropriate to your proposed use, you must tag the correct Legal & Corporate Affairs Team members in the issue description ([`@sfriss`](gitlab.com/srissmiller) for internal materials, and [`@sfriss`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials). IP review is not required for materials created for internal use, only SAFE review is required. Internal use and external use are [defined here](#external-vs-internal-use).
    * The Legal & Corporate Affairs Team aims to review materials **within two business days of submission**; clearly state the due date when creating the issue as the template requires.
 
 4. Put a link in the material being reviewed to the legal review issue or comment you created:
@@ -112,7 +112,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 
 7. Once legal review is complete, a [Legal & Corporate Affairs Team member](https://about.gitlab.com/company/team/?department=legal-corporate-affairs) will tag the issue creator and comment `Legal review complete`. Review is complete only once `Legal review complete` has been commented; comments like `SAFE review complete` and `IP review complete` **do not indicate review is complete**.
 
-8. If **any** changes are made to the material after legal review, another legal review is required. Tag the appropriate reviewers (([`@Scott Rissmiller`](gitlab.com/srissmiller) for internal materials, and [`@Scott Rissmiller`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials)) in the issue, or issue comment, created in step 1, requesting review of the amended material. As repeat reviews are inefficient, ensure materials are finalized before submitting for legal review.
+8. If **any** changes are made to the material after legal review, another legal review is required. Tag the appropriate reviewers (([`@sfriss`](gitlab.com/srissmiller) for internal materials, and [`@sfriss`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials)) in the issue, or issue comment, created in step 1, requesting review of the amended material. As repeat reviews are inefficient, ensure materials are finalized before submitting for legal review.
 
 9. Once legal review of the amended material is complete, a [Legal & Corporate Affairs Team member](https://about.gitlab.com/company/team/?department=legal-corporate-affairs) will once again tag the issue creator and comment `Legal review complete`.
 
@@ -128,7 +128,7 @@ Follow this process to obtain legal review of **multiple pieces of material** wi
    * For multiple materials legal review requests involving more than five pieces of material, the DRI must, no less than 5 business days before the materials will be ready for review, (i) notify the Legal & Corporate Affairs Team in [#legal](https://app.slack.com/client/T02592416/C78E74A6L) of the upcoming event, and (ii) arrange a sync with the Team to agree a timeline for the completion of the review.
 
 2. As each of piece of material is ready for review, make a comment in the issue which:
-   * Tags the appropriate reviewers - [`@Scott Rissmiller`](gitlab.com/srissmiller) for internal materials, and [`@Scott Rissmiller`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials - requesting review;
+   * Tags the appropriate reviewers - [`@sfriss`](gitlab.com/srissmiller) for internal materials, and [`@sfriss`](gitlab.com/srissmiller) and [`@sfriss`](gitlab.com/LeeFalc) for external materials - requesting review;
    * Links (for Google Docs) or uploads (for other files) the material to the comment for review; and
    * States the due date for the review.
 
