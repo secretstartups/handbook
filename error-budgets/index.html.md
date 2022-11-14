@@ -169,15 +169,17 @@ At this time we are not looking further into automatically discounting system-wi
 
 Error budget events are attributed to stage groups via [feature categorization](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization). Updates to this mapping can be managed via merge requests if ownership of a part of the platform moves from one feature category to another.
 
-Updates to feature categories only change how future events are mapped to stage groups. Previously reported events will not be retroactively updated and will continue to count against stage group error budgets.
+Updates to feature categories only change how future events are mapped to stage groups. Previously reported events will not be retroactively updated.
 
 ### Error budgets for new groups
 
-When a group gets created, or an existing group gets split. The group is added to the [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). In that merge request, the new group will get assinged new or existing feature categories.
+When a group gets created, the group is added to the [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). In that merge request, the new group will get assigned new or existing feature categories.
 
-This will get updated in our recording infrastructure the following week when Scalability gets an automated issue for this to update the metrics catalog. When that change is merged, the metrics for the relevant feature categories will get attributed to the new stage group. Similar to how the attribution is changed, the change is not retroactive. This means that if a change for an existing feature category was merged on the 15th, a certain feature category will contribute to the error budget of the first group for the metrics emitted from the 1st to the 15th. The metrics from the 15th on will be for the error budget for the new group.
+When this MR is merged, Scalability receives an automated issue to update the metrics catalog in our recording infrastructure. This occurs within one week of the new group being added to `stages.yml`. 
 
-The same goes for group renames or stage moves: if a group rename was merged on the 15th, the 28 day report will include 15 days of data for the group's old name, while the last days will be attributed to the group with the new name.
+When that metrics catalog is updated, the metrics for the relevant feature categories will get attributed to the new stage group. Similar to when the attribution is changed, the change is not retroactive. This means if an existing feature category moves from `source code` to `code review` on the 15th, that feature category will contribute to the error budget of `source code` for the metrics emitted from the 1st to the 15th. The metrics from the 15th onward will be counted towards the error budget for `code review`. 
+
+The same applies when a group is renamed or a stage moves: if a group rename was merged in the metrics catalog on the 15th, the 28 day report will include 15 days of data for the group's old name, while the most recent days will be attributed to the group with the new name.
 
 ### Contract
 
