@@ -36,14 +36,22 @@ weeks and may occasionally be rescheduled for another day due to calendar confli
 The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) is responsible for scheduling these meetings. [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/#directed-work) is responsible for managing to the agenda and ensuring that meetings don't exceed the allocated time. 
 
 ## Meeting Details
+1. E-Group members add topics to the agenda
+1. The [CoS to the CEO](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
+1. The CoS to the CEO will manage time within the meeting
+
+## Adding items to the agenda
 1. Before adding to the agenda, E-Group members should consider whether topics are best suited for the meeting agenda or can be covered as FYIs in Slack
 1. All agenda items including any pre-read material should be added to the agenda by 5pm PT *two business days* before the meeting unless something unexpected happens between the end of normal submissions and when the meeting occurs. If something unexpected occurs after this time, please add the topic at the bottom of the agenda and flag to E-Group in the #e-group or #e-group-confidential Slack channels
-1. Submissions should include how much time would ideally be allocated for a specific topic 
-1. The [CoS to the CEO](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
+1. Submissions should include:
+      1. How much time would ideally be allocated for a specific topic 
+      1. Any attendees, beyond E-Group, the CoS to the CEO, and the EBA to the CEO, who should be included in the discussion
+      1. A priority label
+            1. P1: this topic is time sensitive and of great importance to the business. It must be discussed today
+            2. P2: this topic is important, but does not meet the P1 criteria
+      1. Desired outcome: a clear statement around what should be achieved within this meeting
 1. If pre-work is strongly encouraged, it should be flagged as early possible in the week before in #e-group or another appropriate Slack channel
 1. If you are inviting external folks to a specific session, please notify the EBA to the CEO at least two business days before the meeting
-1. Ensure that any invited participants are clear about their role in the discussion
-1. The CoS to the CEO will manage time within the meeting
 
 ## Agenda structure
 The agenda for each E-Group Weekly has a single section for each meeting. Each agenda item should [include a tag](/handbook/leadership/1-1/suggested-agenda-format/#hallway). Three of the most often used tags are:
