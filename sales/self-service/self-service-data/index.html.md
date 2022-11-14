@@ -51,10 +51,12 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 | :--------------- | :----------------- | :----------------- | :----------------- |
 | FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/106) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/108) |
 | FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/151) |
+| FY23-Q4 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/226) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/214) |
 
 ### Epics
 - [Low Touch](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/51)
 - [FY23-Q3](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/54)
+- [FY23-Q4](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/61)
 
 ## Working with us
 **Purpose**: outline how the broader Self-Service team can engage the Self-Service Data Squad (Max, Sara)
