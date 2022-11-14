@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Michael Lunøe's README"
-job: "Fullstack Engineering Manager, Interim Fulfillment:Provision"
+job: "Fullstack Engineering Manager, Fulfillment:Provision"
 ---
 
 ## Michael Lunøe README
