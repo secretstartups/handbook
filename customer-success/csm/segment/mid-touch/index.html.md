@@ -31,7 +31,7 @@ The first stage in the lifecycle is to align and onboard the customer. This is a
 1. CSM-driven:
    1. Alignment internally with pre-sales account team on customer's goals and use cases
    1. Creation of a product-usage focused success plan
-   1. Weekly calls with customer to ensure they are enabled for long-term success
+   1. Regular (at minimum, monthly) calls with customer to ensure they are enabled for long-term success
 1. Automation:
    1. Missed 1st value and/or low adoption campaign (not launched yet)
    1. NPS/Onboarding CSAT Survey
