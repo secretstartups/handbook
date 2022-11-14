@@ -314,7 +314,7 @@ Informal communication is a [vital part of GitLab culture](/company/culture/#cul
 
 If there is something that you want to discuss, but you do not feel that it is
 a reasonable option to discuss with either your manager or CEO, then you can reach
-out to any of the other [C-level GitLab team members](https://comp-calculator.gitlab.net/org_chart) or our board member Bruce Armstrong.
+out to any of the other [C-level GitLab team members](https://comp-calculator.gitlab.net/org_chart).
 
 ## Start with a Merge Request
 
