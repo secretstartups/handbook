@@ -730,7 +730,7 @@ During the process, the Google Sheet is updated to reflect the process' status. 
 
 The end user experience is described on the [UX Qualtrics page](/handbook/product/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
 
-##### Debugging to Qualitrics PRocesses
+##### Debugging to Qualtrics Processes
 
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
@@ -798,7 +798,7 @@ For other tools, add users via the UI and in the appropriate [Google Group](http
 
 Much like Google Drive all GitLab team members have access to Google's [Data Studio](https://datastudio.google.com/) which can be used to build dashboards with data from Google Sheets or other Google data sources. Hence there is no access request needed to get access provisioned to Google Data Studio.
 Google Data Studio is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](/handbook/security/data-classification-standard.html) as we do in the rest of our platform.
- 
+
 There are 3 types of objects available in Google Data Studio:
 - Data Sources
   - This is a connection to data sources. **Currently there is no connection available/supported towards our Snowflake data warehouse.**
@@ -806,10 +806,56 @@ There are 3 types of objects available in Google Data Studio:
   - This is for creating reports based on any connected data set.
 - Explorer
   - This is a tool to quickly explore data sets and find detailed insights.
- 
+
 The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
- 
+
 A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner. Note that [Red Data](/handbook/security/data-classification-standard.html#red) should never be stored or transmitted within Google Data Studio.
 
 
+## Sales Analytics Notebooks
 
+The [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) have a couple (but expanding) list of regular update processes that will benefit from being able to be run automatically without human intervention. 
+
+Some of those are: 
+1. **X-Ray fitted curves calculation:** Quarterly process that create a table with fitted curves to historical coverage ratios. This data is used within the X-Ray dashboard.
+2. **QTD Pre-Aggregated data for X-Ray and SAL Heatmap:** Daily process to precalculate data aggregations at different levels. This process is much easier to run in Python than with SQL and we will be able to upload the data directly into `Snowflake`.
+
+For future iterations, the Jupyter notebooks will be able to access to gSheets documents, opening the door to automating some of our regular data extracts.
+
+For this, we have implemented a solution consisting of multiple Airflow dags, per schedule.
+
+#### The process, explained
+
+As of right now (subject to further iterations and changes), the steps are the following:
+
+1. A Sales Analyst works on a Python Notebook (example notebook) and makes it ready for production (making sure the cell execution results are cleared, no local variables/secrets are laying around etc.)
+2. The Sales Analyst uploads the notebook and its respective query in the corresponding folder, depending on what schedule the notebook should run on. The available schedules (and therefore folders) under https://gitlab.com/gitlab-data/analytics/-/tree/master/sales_analytics_notebooks are:
+
+	- daily - daily at 6AM
+	- weekly - every Monday at 6AM
+	- monthly - every 7th day of the month, at 6AM
+	- quarterly - every 7th day of the quarter, at 6AM
+
+This has been implemented by creating 4 main DAGs (one per schedule) consisting of as many tasks as there are notebooks for that schedule. New tasks are dynamically added to the DAG as notebooks are committed to the repository.
+
+The code for the dags can be found in the [Sales Analytics Dags in the gitlab-data/analytics project](https://gitlab.com/gitlab-data/analytics/-/tree/master/dags/sales_analytics).
+
+#### Example:
+
+Currently, under the `/daily/` notebooks we have [one sample notebook and its corresponding query](https://gitlab.com/gitlab-data/analytics/-/tree/master/sales_analytics_notebooks/daily).
+
+This notebook runs daily and the scores produced during execution are loaded into `Snowflake` in the `RAW.SALES_ANALYTICS` schema.
+
+For this data to be available on Sisense, `dbt` models will have to be written to expose them as views in the production database, under the `PROD.WORKSPACE_SALES` schema.
+
+For that the Sales Analyst can either open an MR directly into the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project, or create an issue on this project and a data platform engineer will implement the necessary dbt models.
+
+In order to change the desired day of the week/time of these schedules, the Sales Analyst can open an issue on the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project.
+
+#### Planned (near) future work:
+
+- Change the folder where the notebooks reside (Noel will provide a new repo for that)
+
+- Send dag failure alerts towards the `#sales-analytics-pipelines` (analytics#14861), so the Sales Analysts can monitor errors with the notebooks
+
+- If the errors seem to be platform-related, the Sales Analyst can reach out to the data platform engineers either via Slack (via the `#data-engineering` channel), or by opening an issue on the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project
