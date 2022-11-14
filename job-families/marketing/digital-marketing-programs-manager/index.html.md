@@ -143,5 +143,6 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will be invited to a 50 min interview with the Sr. Manager, Campaigns (and ABM)
 * Candidates will be invited to a 50 min interview with the Director, Content
 * Candidates will be invited to a 50 min interview with the Marketing - Director, People Business Partner
+* Final candidates will be invited to a 30 min interview with the Chief Marketing & Strategy Officer
 
 * Successful candidates will subsequently be made an offer via video or phone call
