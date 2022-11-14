@@ -82,7 +82,7 @@ If you are in a region where we are not able to have a laptop delivered, and you
 Obtain two quotes from local retailers (online or physical).
 
 Email your manager with those quotes attached, requesting the funds advance and detailing the reason why (geo region, unable to have laptop delivered).
-Your manager will then forward their approval to Accounting for final approval and dispensation.
+Your manager will supply this information and follow the [process to initiate an advance](https://about.gitlab.com/handbook/finance/expenses/#team-member-expense-temporary-advances).
 
 Should a laptop not be available to a new GitLab team-member upon their start date, but is pending, interim options include:
 
