@@ -64,7 +64,7 @@ Tier 3 applications as defined in the [tech stack](https://gitlab.com/gitlab-com
 
 **Terminated Users**
 
-* The current access listings of systems is correlated against a list of active team members derived from BambooHR (GitLab's source of truth for employment status) using GitLab's User Access Review tool [Authomize](/handbook/security/security-assurance/). If any users are found to have active system access that are not current GitLab team members, open access removal issues to start the access de-provisioning process.
+* The current access listings of systems is correlated against a list of active team members derived from Workday (GitLab's source of truth for employment status) using GitLab's User Access Review tool [Authomize](/handbook/security/security-assurance/). If any users are found to have active system access that are not current GitLab team members, open access removal issues to start the access de-provisioning process.
 
 **Entitlement**
 
@@ -174,7 +174,6 @@ The following fields are the most comprehensive to assist in performing a thorou
 #### How to provide a desktop timestamp screenshot:
 1. Please make sure that your workstation system clock (date and time) is visible in your screenshots.
 
-<img src="/images/handbook/security/access-review/AR_1.png">
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
