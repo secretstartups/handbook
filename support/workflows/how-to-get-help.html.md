@@ -78,7 +78,7 @@ Starting from `2022-06-13` the Support Team and the Development Team are rolling
 | ----------- | -------------- | -------- | 
 | Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) | 
 | Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) | 
-| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
+| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
 
 The steps for submitting a help request are as follows:
 
