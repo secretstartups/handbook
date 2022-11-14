@@ -15,20 +15,20 @@ In this course you will read or watch content created by the Diversity, Inclusio
 
 #### [Defining Neurodiversity via Linkedin Learning](https://www.linkedin.com/learning/hiring-and-supporting-neurodiversity-in-the-workplace/defining-neurodiversity?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2255073)
 
-I speak to many organizations all around the world. And when I talk about neurodiversity, most have never even heard of the word. So let's start there. Neurodiversity is an umbrella term for individuals who cognitively process differently than what society considers the norm. 
+I speak to many organizations all around the world. When I talk about neurodiversity, most have never even heard of the word, so let's start there. Neurodiversity is an umbrella term for individuals who cognitively process differently than what society considers the norm. 
 
 Neurodiversity doesn't discriminate based on color or gender, and symptoms can present at different stages in an individual's life. 
 
 Now, Judy Singer coined this term in the late '90s, and it's not a diagnosis. It can be better described as a social movement, to view cognitive diversities from a strengths-based lens. So, why is it essential to understand neurodiversity? The World Health Organization reports 15% of humanity is living with a disability, and only a small fraction of organizations, less than 12%, are including this group in their diversity programs. We all feel the world shrinking, and the challenge we face is adapting to many identities. Color, religion, gender, and neurodiversity. So let's spend some more time talking about terminology. Terminology can get a little tricky, and is always changing. 
 
-For this course, I'll refer to the group as neurodiversity. And as the individual, as a neurodivergent. I'll refer to those who are not neurodivergent as neurotypical. Keep in mind, there are arguments that there is no such thing as a typical brain, but we use that term to define people that would not traditionally fall under the neurodiversity umbrella. 
+For this course, I'll refer to the group as neurodiversity, and to the individual as a neurodivergent. I'll refer to those who are not neurodivergent as neurotypical. Keep in mind, there are arguments that there is no such thing as a typical brain, but we use that term to define people that would not traditionally fall under the neurodiversity umbrella. 
 
 There isn't a predefined list of what falls under the umbrella, it is a personal decision to be recognized as neurodivergent. However, in this course, we'll focus on human resource knowledge and support of 
 
 * Autism
 * ADHD
 * Dyslexia 
-* dysgraphia
+* Dysgraphia
 * General learning differences. 
 
 These groups make up a large portion of the population, and have many talents to lend to an organization. As an HR professional, you can guide your organization in learning how to hire, employ, and support this population to maximize this fantastic and talented workforce. Neurodiversity creates a new landscape of hiring and supporting employees. Human resource professionals can increase their competencies to support this group and educate the workforce to ensure inclusion for all types of minds. The world is ready to embrace neurodiversity. Neurodivergent people bring unique perspectives, solutions, and innovative ideas. Starting here is a great first step to embrace this population within your organization.
@@ -40,7 +40,7 @@ Neurodiversity is an umbrella term but there are some impairments more commonly 
 
 * First, autism spectrum. This is a broad term used to describe a group of neurodevelopmental differences. These manifest as nontraditional ways of communicating and interacting socially. Often, autistics demonstrate restricted and repetitive patterns of thought and behavior, sometimes getting stuck on a topic. An autistic's ability to learn deeply about topics and notice when there are inconsistencies brings value to any team. Almost 2/3 of autistics also have ADHD. 
 
-* ADHD, which stands for attention deficit hyperactivity disorder is one of the most common neurological disorders. So in the workplace, it presents itself as difficulties with working memory. Impulsivity, prioritizing, focusing, remembering plans, multitasking, coping with stress and also organizing. I find that this group of individuals are terrific at dynamic, creative and inventive thinking. Most of the successful salespeople I know had ADHD. 
+* ADHD, which stands for attention deficit hyperactivity disorder is one of the most common neurological disorders. So in the workplace, it presents itself as difficulties with working memory. Impulsivity, prioritizing, focusing, remembering plans, multitasking, coping with stress and also organizing. I find that this group of individuals are terrific at dynamic, creative and inventive thinking. Most of the successful salespeople I know have ADHD. 
 
 * Dyslexia and Dysgraphia and these overlap a lot. So dyslexia is characterized by difficulties with accurate or fluent word recognition and by poor spelling and decoding abilities. So outward signs include letter or number reversal, difficulty reading and spelling, difficulty with left versus right, trouble following multistep directions and slow handwriting that is difficult to read. It may take them longer to write than the average person and the person may express discomfort or stress while doing so. People commonly experience both dysgraphia and dyslexia together. Both of these groups uniquely embrace creative thinking, problem-solving, and the ability to decipher information, all skills that can add value to your team. 
 
