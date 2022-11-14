@@ -39,20 +39,10 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Offering a scalable single tenant SaaS solution.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/4)
    1. Quarter Started/Starting: FY23-Q1
-1. SaaS Reliability
-   1. DRI / Sponsor: @sloyd / @akramer
-   1. Description: Achieve enterprise grade security and reliability for our SaaS.
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5)
-   1. Quarter Started/Starting: FY23-Q1
 1. SaaS Free User Efficiency
    1. DRI / Sponsor: @ipedowitz / @akramer
    1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
-   1. Quarter Started/Starting: FY23-Q1
-1. User Engagement
-   1. DRI / Sponsor: @johncoghlan / @akramer
-   1. Description: Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions.
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1794)
    1. Quarter Started/Starting: FY23-Q1
 1. Project Matterhorn
    1. DRI / Sponsor: @justinfarris / @david
@@ -136,4 +126,13 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)
    1. Start - End: FY23-Q1 - FY23-Q3
-
+1. SaaS Reliability
+   1. DRI / Sponsor: @sloyd / @akramer
+   1. Description: Achieve enterprise grade security and reliability for our SaaS.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5)
+   1. Quarter Started/Starting: FY23-Q1
+1. User Engagement
+   1. DRI / Sponsor: @johncoghlan / @akramer
+   1. Description: Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1794)
+   1. Quarter Started/Starting: FY23-Q1
