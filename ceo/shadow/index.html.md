@@ -300,33 +300,32 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 
 The value of the CEO Shadow Program comes from the [broader context](#goal) you'll gain and the interesting conversations you'll witness.
 
-Since your rotation is over a short period of time, there are no long-term tasks you can take on.
-However, there are many short-term administrative tasks you'll be asked to perform as a shadow. Here are some examples:
+Since your rotation is over a short period of time, there are no long-term tasks you can take on. However, there are many short-term administrative tasks you'll be asked to perform as a shadow. Here are some examples:
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
 Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
-1. Draft a ["tweet storm"](#tweet-storm).
+1. Draft a ["tweet storm"](#drafting-a-tweet-storm).
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
 1. Go through open issues in the [CEO shadow project](https://gitlab.com/gitlab-com/ceo-shadow/tasks/-/issues) and work towards closing or creating a subsequent merge request to close out. Communicate updates on those tasks in the `#ceo-shadow` channel.
 1. Iterate and complete small tasks as they come up. Clear them out immediately to allow for rapid iteration on more crucial tasks. Communicate updates on those tasks in the `#ceo-shadow` channel.
 1. Compile a report on a subject.
-1. Write an blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
+1. Write a blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
 1. Provide training to the incoming CEO Shadow(s).
 
-For meetings:
 
+Of course, you'll also attend meetings that the CEO attends. During meetings, you will:
 1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
 1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
 1. Immediately following meetings, score the CEO on overall positivity score in the `Positivity Score` google sheet shared with `ceo-shadow@gitlab.com`. Each shadow should give a score for all meetings attended. Scores can range from 1 (the least positive someone could respectfully be) to 5 (CEO was highly engaged, reactions were authentically positive), focused on the CEO's presence and reactions during the meeting. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO. 
-    - Score definitions:
-       - `1`: the least positive someone could respectfully be; not at all engaged, reactions were not positive
-       - `2`: was not very engaged, reactions could have been more positive
-       - `3`: Engagement was neither positive, nor negative. Reactions were neutral
-       - `4`: was engaged, reactions were mostly positive
-       - `5`: was highly engaged, reactions were authentically positive
+  - Score definitions:
+    - `1`: the least positive someone could respectfully be; not at all engaged, reactions were not positive
+    - `2`: was not very engaged, reactions could have been more positive
+    - `3`: Engagement was neither positive, nor negative. Reactions were neutral
+    - `4`: was engaged, reactions were mostly positive
+    - `5`: was highly engaged, reactions were authentically positive
 
 In-person only:
 
@@ -338,13 +337,9 @@ In-person only:
 #### Collecting and managing tasks
 {:.no_toc}
 
-The CEO shadows maintain a project called [CEO Shadow Tasks](https://gitlab.com/gitlab-com/ceo-shadow/tasks/-/boards/1385894).
-It is linked in the `#ceo-shadow` Slack channel description.
-Collect tasks using the first name of the shadow who captured it and
-the name of the person that will complete the task.
-Once an MR has been opened, post in the `#ceo-shadow` channel.
+The CEO shadows maintain a project called [CEO Shadow Tasks](https://gitlab.com/gitlab-com/ceo-shadow/tasks/-/boards/1385894). It is linked in the `#ceo-shadow` Slack channel description. Collect tasks using the first name of the shadow who captured it and the name of the person that will complete the task. Once an MR has been opened, post in the `#ceo-shadow` channel.
 
-#### Tweet storm
+#### Drafting a tweet storm
 
 A tweet storm is a series of Twitter posts usually made as replies in a single thread on a topic. CEO shadows may be asked to draft the tweets in relation to a public livestreamed video recording or some other media content.
 
@@ -614,11 +609,7 @@ Remember, do _not_ say that your role is to "follow the CEO around". It's about 
 
 #### Finding meeting recordings
 
-If Sid records a video to the cloud in a meeting it will eventually end up
-being uploaded to [the Google Drive](https://drive.google.com/drive/folders/0APOeuCQrsm4KUk9PVA)
-folder.
-Finding the video will require searching based on the calendar event name and
-checking the "last modified" date.
+If Sid records a video to the cloud in a meeting it will eventually end up being uploaded to [the Google Drive](https://drive.google.com/drive/folders/0APOeuCQrsm4KUk9PVA) folder. Finding the video will require searching based on the calendar event name and checking the "last modified" date.
 
 #### Attending in-person events with the CEO
 
@@ -630,10 +621,7 @@ When attending events with the CEO, keep the following in mind:
 1. When traveling to events on foot, CEO shadows should take responsibility for navigating to the event.
 1. After a talk or panel, be ready to help the CEO navigate the room, particularly if there is a time-sensitive obligation after the event.
 
-The CEO often has work events that are also social events.
-In Silicon Valley, social and work are very intertwined.
-These mostly take the form of lunches or dinners.
-CEO shadows are invited unless otherwise specified, but there is no expectation or obligation to join.
+The CEO often has work events that are also social events. In Silicon Valley, social and work are very intertwined. These mostly take the form of lunches or dinners. CEO shadows are invited unless otherwise specified, but there is no expectation or obligation to join.
 
 ### Look for values being lived out
 
@@ -652,10 +640,9 @@ It's important that everyone encourages others to follow the [communication guid
 
 In order to ensure continuity across CEO shadow participants. Always, cc `ceo-shadow@gitlab.com` on emails as part of the program. This ensures that even after you've left the program the response and follow-up can be tracked.
 
-### Friendly competition
+### Handbook MRs
 
-CEO shadows label the handbook MRs they create with the `ceo-shadow` label.
-It's a point of competition between CEO shadows to try to best the previous shadows' number of merge requests.
+CEO shadows label the handbook MRs they create with the `ceo-shadow` label. You may do a lot or a few handbook MRs, depending on your other tasks. You can always feel welcome to create and MR. We even track the number of MR's that CEO shadow participates create.
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/40ce74a5-00ff-4a5d-8162-b1fe212d8cbc?embed=true" height="700"> </iframe>
 
 ### Follow activity from the CEO
@@ -688,11 +675,7 @@ Sign up for Twitter notifications (Twitter account required) to follow his every
 
 ### Documentation focus
 
-An ongoing shadow program with a fast rotation is much more time consuming for the CEO than a temporary program or a rotation of a year or longer.
-That's why most organizations choose to either have a shadow for a couple of days, or have someone for a year or more.
-We want to give as many people as possible the opportunity to be a shadow, which is why we rotate quickly.
-To make this happen without having to invest a lot of time with training, we need great documentation around the program.
-A quick turnaround on documentation is crucial, and the documentation will have a level of detail that may not be necessary in other parts of the company.
+An ongoing shadow program with a fast rotation is much more time consuming for the CEO than a temporary program or a rotation of a year or longer. That's why most organizations choose to either have a shadow for a couple of days, or have someone for a year or more. We want to give as many people as possible the opportunity to be a shadow, which is why we rotate quickly. To make this happen without having to invest a lot of time with training, we need great documentation around the program. A quick turnaround on documentation is crucial, and the documentation will have a level of detail that may not be necessary in other parts of the company.
 
 ### Traveling with the CEO
 
