@@ -463,19 +463,6 @@ Valley meetings can usually be identified in two ways:
 
 Personal meetings will be marked as "busy" on the calendar. Shadows do not attend personal calls.
 
-##### CEO Handbook Learning Sessions
-{:.no_toc}
-
-The CEO and the [Learning & Development](/handbook/people-group/learning-and-development/) team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following:
-1. Follow the [agenda doc](https://docs.google.com/document/d/1dKmYWl1OQB5LIm43iZv5ExZz8Iqty2kiys3RuVUVRhs/edit#heading=h.954v91mukl7r) during the session
-1. Take notes of important points during the call (no need to be comprehensive, this is geared towards improvements later on) and collaborate with the CEO shadows on points to include on the page
-1. Open an MR for the specific page being discussed during or following the recording
-1. Make updates to the page based on points captured in the agenda doc and discussion, ([example MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/77125/diffs#4b5137b156df6eb619d14177c6847ba13f774506)).
-1. The goal is to make five improvements to the page
-1. Following the recording, include the video on the respective handbook page
-1. Solicit feedback on the MR with the [L&D team](/handbook/people-group/learning-and-development/#ld-organization) and CEO in the CEO channel
-1. Make additional MR's to the specific page if necessary
-
 ##### Earnings Call Prep Webinars
 {:.no_toc}
 
@@ -512,7 +499,6 @@ Here are the responsibilities shadows have during meetings:
 | 1-1 meetings with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)      | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | [Valley Meetings](/handbook/ceo/shadow/#valley-meetings)  | No notes       | Timekeeping    |
-| L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
