@@ -50,7 +50,7 @@ The scope of the BIA is the entirety of systems utilized across GitLab as docume
 A BIA is initiated as the result of GitLab's [process for adding net-new systems to the tech stack](/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) to ensure that BIA data is captured at the time of new system implementation. The steps listed below summarize how BIAs are completed:
 
 1. A formal BIA questionnaire is distributed to the technical system owners for each system, as listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) or merge request related to adding the system to the tech stack. If there are multiple individuals listed, one team member will be selected. The questionnaire will be sent to the team member's GitLab email directly from GitLab's GRC Application, ZenGRC. Additional information on completing this questionnaire can be found on the [ZenGRC Activities](/handbook/security/security-assurance/zg-activities.html#completing-zengrc-questionnaires) handbook page. More info on the questionnaire is available in the video below.
-2. Once the responses are recieved, the data will be sanitized and aggregated. Follow-ups with the technical owner will be completed as required to ensure the data used is accurate, complete, and objective.
+2. Once the responses are received, the data will be sanitized and aggregated. Follow-ups with the technical owner will be completed as required to ensure the data used is accurate, complete, and objective.
 3. Mission critical systems are identified and next steps are taken to ensure that a system recovery/business continuity plan is documented accordingly.
 4. On a periodic basis, the BIA is reviewed and will be reperformed. While we do not anticipate significant changes year over year, as part of our due diligence and compliance needs, the Security Risk Team ensures that the data obtained from BIA questionnaires does not become stale through periodic validation.
 
@@ -58,7 +58,30 @@ A BIA is initiated as the result of GitLab's [process for adding net-new systems
 
 A BIA is performed or validated once per fiscal year for each Tier 1 system listed on GitLab's [Tech Stack](/handbook/business-technology/tech-stack-applications/). BIA data for systems below Tier 1 will be performed or validated every 2 years. In addition to BIA data/response validation, additional questions may be incorporated for the Technical Owner to answer (e.g., questions regarding Technical Debt). The Security Risk Team is responsible for the periodic review and reconciliation of systems which require a BIA year over year. System BIAs will be performed in waves and prioritized by Tier and regulatory need.
 
-### BIA Ouputs:
+### Quality Reviews
+
+The results of the questionnaire will be imported into the relevant System Object within GitLab's GRC system to support on-going maintenance, quality/areas of concern reviews, and reporting. Any material change to the Technical Owner's questionnaire response will be accompanied by a communication/acknowledgement to/from the Technical Owner via comment within GRC system, Slack communication, or within GitLab issue. If leveraging Slack, please attach a screenshot of communication to the System Object within the GRC system. The Security Risk team will review the responses to the BIA questionnaires to support completeness and accuracy of the information. Quality checks will include:
+
+- Compare the `Data Classification` field with the `Data Collected` field to ensure alignment. If changes to the Technical Owner's response are required, perform the update with the relevant GRC System Object and communicate the changes to the Technical Owner for acknowledgement.
+- Compare the `Data Classification` field with the `Data Classification` field in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). If there is a difference, work with the Technical Owner to [update the Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#update-tech-stack-information) accordingly.
+- Compare the `Maximum Tolerable Downtime (MTD)` and `Impact of System Outage` fields to ensure they reconcile. If not, work with the Technical Owner to gain alignment and update values accordingly. Availability is the primary driver for our [Critical Systems Tiering methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#critical-systems-tiering-methodolgy).
+- For blank/unknown/obscure responses, engage the Technical Owner via comment functionality within the GRC system, Slack, or a GitLab issue.
+
+As BIA response values are reviewed within System Objects, labels will be applied in the GRC application indicating the fiscal year they were reviewed (e.g., FY24 BIA QR Complete)
+
+### Responses that may result in Tier 3 Observations/Risks
+
+We include some questions in our questionnaire that may lead to the creation of [Tier 3 Observations](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html#scope). The Security Risk team will review BIA questionnaire responses to identify potential risks to GitLab. Responses that may result in Tier 3 Observations are listed below:
+
+- `Shared Administrative Accounts` = Yes
+- `Operating System` = Windows Server
+- `System Specific Recovery Plans` = Insufficient detail in response
+- `Authentication Mechanism` ≠ Okta
+- `Number of Administrators of the system` < 2
+
+The Security Risk team will follow the observation intake and management process described [here](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/1_Observation%20Intake%20and%20Management.md) for ad-hoc observations.
+
+### BIA Outputs
 
 The data obtained from BIA questionnaires results in:
 
