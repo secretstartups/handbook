@@ -293,11 +293,11 @@ If you spent money on digital ads to drive registration, then you’ll also want
 
 #### 3rd Party digital agency
 
-In order to track engagement for any work we do with PMG (our global digital marketing partner), a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking).
+In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking).
 
 You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
 
-At the highest level, it's interesting to see the spend, clicks, impressions, CPC (cost per click), inquiries, and CPI (cost per inquiry). This is done by going to the Field Marketing Specific digital spend Dashboard via PMG agency, linked in the `Useful Links` section and searching for your campaign using the campaigns UTM code. Here is the report as well, because we know sometimes you just want the link in the exact place you are looking for it in ;) . [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V)
+At the highest level, it's interesting to see the spend, clicks, impressions, CPC (cost per click), inquiries, and CPI (cost per inquiry). This is done by going to the Field Marketing Specific digital spend Dashboard via our digital team, linked in the `Useful Links` section and searching for your campaign using the campaigns UTM code. Here is the report as well, because we know sometimes you just want the link in the exact place you are looking for it in ;) . [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V)
 
 Inquiries (people who end up registering for your event or engaging with your ad) are the most important to look into and really the status of them attending your event or interacting with your campaign, eventually leading to an SAO and then pipeline!
 
@@ -1641,11 +1641,11 @@ SimplyDirect defines engagement by targets filling out the survey.  The SimplyDi
 - Total number of SAOs
 - Pipeline progression
 
-# Working with PMG
+# Working with our Digital team
 
 - For [paid social campaigns](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#paid-social), details on how we collaborate with the Digital team can be [found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#agency).
-- We are not using PMG to run ads for webcasts or workshops - as that is handled by our campaigns team. 
-- We will run paid ads with PMG to drive registration to regional in person events.
+- We are not running ads for webcasts or workshops - as that is handled by our campaigns team. 
+- We will run paid ads to drive registration to regional in person events.
 
 
 #### Helpful Links
