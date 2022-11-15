@@ -55,7 +55,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
 
 ### Ideal content mix
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7K736eLyPnzmoA7z4VoHN9a4DhnC4e3zmzfmCpHawjUx7xQXtoIUgqL0IxPdy6Qoj0vw0O9jnvxI9/pubchart?oid=1874991175&amp;format=image"></iframe>
+![Ideal content mix piechart](/images/handbook/marketing/editorial-piechart.png)
 
 #### Definitions
 
