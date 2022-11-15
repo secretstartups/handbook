@@ -98,7 +98,6 @@ A subset of my Q4 OKRs can be public and are in these categories:
 ## Application health
 
 * UX: 18 Pajama component migrations
-* Address 3 prioritized usability issues
 * Support Ruby 3 upgrade
 * Resolve 3 S1/S2 customer facing bugs.  Issue searches: [sec](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=section%3A%3Asec), [growth](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Agrowth), [modelops](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Amodelops)
 * Add X maintainers
