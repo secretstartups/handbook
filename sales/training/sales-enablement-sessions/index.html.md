@@ -25,7 +25,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 |--------|--------|--------|                      
 | Nov 3 | No Session  | N/A  |
 | Nov 10 | No Session  | N/A  |
-| Nov 17 | TBD  | TBD  |
+| Nov 17 | Strategic Selling ROI  | Cherry H. & Edmond C.  |
 | Nov 24 | **No Session - Public Holiday** | TBD  |
 | Dec 1 | FY23-Q4 Channel Update  | Blair F. & Ed C.  |
 | Dec 8 | Forrester TEI Enablement (Study + Estimator)  | Laura C. & Ryan R.  |
