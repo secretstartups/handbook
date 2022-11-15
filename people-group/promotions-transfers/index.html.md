@@ -449,6 +449,8 @@ Job information changes are anything that requires an update to the team member'
 If the manager you need to move your direct report to is not available, it likely means they do not have a supervisory organization set up. Even if their management level shows “Manager” a supervisory organization is needed in Workday for a team member to have a direct report. Supervisory organizations should have a name unique to the team they are managing (e.g. Commercial Sales - EMEA, Content Marketing (John Smith), Backend Engineering - Ruby).
 Please reach out to #people-connect with the name of the team member who needs the supervisory organization set up, the unique name, and the effective date of the supervisory organization. We can gladly help get it set up in Workday.
 
+Note for Sales Managers: If team members are not moved under the correct sales manager in Workday, credits will not be rolled-up to the correct manager for sales commissions. See additional promotion and transfer considerations for commissionable roles [here](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-and-transfers-of-employees-in-commissionable-roles).
+
 ### For People Connect: Processing Manager changes
 1. The People Connect Specialist logs into Workday via Okta to approve the transfer in Workday > click on Inbox in top right corner
 1. Review the business process titled 'Transfer' and reason 'Manager to Another Manager' > click: approve
@@ -656,6 +658,36 @@ Important things to ensure:
 ## Career Mobility Retrospective
 
 The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Please feel free to ping your assigned People Connect Team member in your issue if you have any questions.
+
+## Promotions and Transfers of Employees in Commissionable Roles
+
+This section describes the steps required for promoting or transferring employees with a [Sales Commission Plan](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#fy23-sales-commission-policies). When a promotion or transfer occurs it is important for Sales Managers to follow specific steps to ensure a smooth employee experience during the transition. The Sales Operations, Sales Finance, and the Commissions team all need to be informed so the necessary systems can be updated and the team member can receive a new compensation plan. 
+
+**Note** These steps are in addition to all other steps required for promotions and transfers in partnership with the People team. 
+
+#### For the Current Sales Managers: 
+
+1. Deteremine the right path for the promotion and/or transfer. Our [promotion process](https://about.gitlab.com/handbook/people-group/promotions-transfers/) can be found in the handbook. For transfers, please confirm if there is an open role with your Sales recruiting team. Ensure necessary stakeholders and processes are followed in advance of processing a promotion and/or transfer. 
+1. Open a [Territory Change Request issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=Territory_Change_Request) to inform Sales Operations of the change so they can update Salesforce and the Territory Mapping SSOT. 
+
+#### For Sales Recruiting:
+
+1. Open a [Utilizing Backfill Headcount issue](https://gitlab.com/gitlab-headcount/sales-headcount/-/blob/master/.gitlab/issue_templates/utilizing_backfill_headcount.md) to inform Sales Finance of the promotion/transfer so they can update Adaptive. 
+2. Tag the appropriate members of the Sales Finance and Sales Commissions team as indicated in the 'Approval' section of the issue template.
+
+#### For Sales Finance:
+
+1. Update the team members's profile in Adaptive to account for the promotion/transfer.
+2. Partner with leadership and the People team on whether we need to open a requisition to backfill the empty role from which the team member was promoted/transferred.
+
+#### For Sales Commissions:
+
+1. Every month identify new hires, promotions, and transfers in Workday.
+2. Create a monthly issue to notify the Sales Strategy and Analytics team of headcount changes. The Sales Strategy and Analytics team assigns quotas[^1] to sales employees within 4 weeks of the employee's hire/promotion/transfer date. 
+3. The quotas are submitted to the Commissions team to then add to the Xactly system where all commissions are managed and monitored.  
+4. Issue new compensation plan to the **New** Sales Manager for approval and release to team member. 
+
+[^1]: During fiscal year planning Sales Strategy and Analytics work closely with Sales Management to assign values (full quota) to all the different Sales Territories. When a new sales employee joins, their ASM assigns them a territory (at which point there is a pre-determined value), and Sales Commissions applies a [ramp schedule](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#month-1-ramp-schedule) based on the employee's start date and role to arrive at their carried quota.
 
 ## Compliance
 
