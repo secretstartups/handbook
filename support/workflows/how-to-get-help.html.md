@@ -45,12 +45,14 @@ is an operating principle of Results.
      Support page to see who might have the skills to assist. Mention those
      people in the thread and in the ticket to let them know you think they
      can help.
-3. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel,
-   or reach out to the [Support Stable Counterpart](../support-stable-counterparts.html)
+3. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Support Request project 
+   using the [formal help request workflow](##how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team), or reach out 
+   to the [Support Stable Counterpart](../support-stable-counterparts.html)
    for the appropriate product area. If you are unsure which product area it is,
    ask your group or a manager for guidance.
    - For example, if you need help with a runners issue, ask for development
-     support in the runners Slack channel, or reach out to the Support stable
+     support in the [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) by 
+     creating an issue in that project using the "SupportRequestTemplate-Runner" template, or reach out to the Support stable
      counterpart(s) that are listed under the
      [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group)
      section.
