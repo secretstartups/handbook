@@ -16,7 +16,7 @@ Bienvenidos, bem-vinda and welcome to the Latinx space! We are a TMRG that was s
 
 [Latinx TMRG Overview Slide Deck (WIP)](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
 [Latinx Project in GitLab](https://gitlab.com/gitlab-com/latinx-tmrg)  
-Slack Channel: `#latinx` 
+Slack Channel: `#latinx_gente` 
 Google Group: latinxtmrg@gitlab.com
 
 **Purpose of the TMRG**  
