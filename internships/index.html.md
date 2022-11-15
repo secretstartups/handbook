@@ -51,7 +51,7 @@ The process for opening an intern requisition would be as follows:
 1. If approved the manager for the team will be the DRI for the internship
 1. The DRI will make sure the intern level is added to the Job Family for their group
 1. Recruitment/sourcing starts for intern
-1. The recommended minimum length for an internship is 4 months, but can be longer, with a maximum of 1 year
+1. The recommended minimum length for an internship is three months, but can be up to six months
 1. The goal is to bring the intern on board for a fulltime Engineering role after the internship
 1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
 1. Before hiring, during the internship, and when potentially transitioning to full-time the DRI (manager) is responsible for aligning communication with the stakeholders.
@@ -72,7 +72,7 @@ As an example of an intern position in our job families please review the [Softw
 
 ### Duration and timing
 
-The ideal duration is a minimum of 4 months. Internships will last no more than six months.  The expectation is that interns move to grow into associate/junior or intermediate level engineers ([example](https://about.gitlab.com/job-families/engineering/development/backend/intermediate/)) at the end of their internship. The review of the level will be performed at the end of the internship.
+The ideal duration is a minimum of three months. Internships will last no more than six months. The expectation is that interns move to grow into associate/junior or intermediate level engineers ([example](https://about.gitlab.com/job-families/engineering/development/backend/intermediate/)) at the end of their internship. The review of the level will be performed at the end of the internship.
 
 An internship can start as soon as both the intern and the company are ready to begin.
 
