@@ -175,7 +175,7 @@ Resource to understand the Performance Indicators for the Dev Section - Page can
 #### Create Stage
 Create provides tools that support the beginning of the DevOps Life Cycle. Source Code management, Code Review, Wiki, Web IDE, etc.
 
-[Start on the GitLab website page](https://about.gitlab.com/features/?stage=create) dedicated to Create to get an understanding of features included in this Stage. 
+[Start on the GitLab website page](https://about.gitlab.com/features/) dedicated to Create to get an understanding of features included in this Stage. 
 
 <details markdown="1"><summary>Click to expand</summary>
 
