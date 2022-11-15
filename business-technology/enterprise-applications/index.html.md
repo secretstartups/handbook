@@ -55,34 +55,10 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 ### Integrations Engineering
 * Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
 
-### Project Retrospectives
-* We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
-
-### Architectural Troubleshooting
-
-* We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
-
-
-# <i class="fas fa-building" id="biz-tech-icons"></i> Results We Delivered in FY22
-
-### New Application Implementations
-- [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76)
-- [Adaptive Insights Implementation](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/wikis/2.-Adaptive-Insights)
-- [Coupa P2P Implementation](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/168)
-- [DocuSign Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/215)
-
-### Other Initiatives
-- [Zuora CPQ & 360 upgrade to latest version](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/75)
-
-# <i class="fas fa-file-alt" id="biz-tech-icons"></i>  Templates We Use
-*  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
-*  [Change Management: Third Party Applications Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Third%20Party%20Change%20Management)
-*  [Change Management: Internal Tool Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Internal_Change_Management)
-
 # <i class="fas fa-database" id="biz-tech-icons"></i>  Applications We Own
 
-1. Zuora
-1. Z-Revenue (RevPro)
+1. [Zuora](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)
+1. [Zuora Revenue (RevPro)](/handbook/finance/accounting/finance-ops/Revenue-Accounting/tech-stack-guide-zuora-revenue/)
 1. Netsuite
 1. Coupa
 1. Tipalti
@@ -98,18 +74,35 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 1. Mavenlink
 1. DocuSign
 
+# <i class="fas fa-file-alt" id="biz-tech-icons"></i>  Services We Support: Finance Systems Service Desk
 
-# <i class="fas fa-book" id="biz-tech-icons"></i>  Documentation We Support
-- [Enterprise Application guides for internal training](./guides)
-- [Tech Stack](/handbook/business-technology/tech-stack-applications/)
-- [Change Management](/handbook/business-technology/change-management/)
+### New SKU Request
+Open a [New SKU issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `CM: Add_New_SKU` template or `CM: Add_New_PS_SKU` for a Professional Services SKU.
 
-For process flows, integration diagrams and more, check out our Business Systems Documentation pages:
+### Retire SKU Request
+Open a [Retire SKU issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `CM: Retire_SKU` template.
 
-- [Quote to cash](/handbook/business-technology/enterprise-applications/quote-to-cash)
+### EntApps System Configuration Change
+If the system change is a quick change which does not require additional cross-functional alignment, scoping, or testing, and is not an output of a larger project, submit a Change Request.
 
+Open a [Configuration Change issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `CM: Configuration Change [Generic]` template.
 
-# <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Process
+### Department Change Request
+Open a [Department Change issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `CM: Department Request` template.
+
+### EntApps System Incident Log
+Open an [Incident issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `IM: FinSys Incident` template.
+
+### Coupa Sandbox Refresh
+Open a [Coupa Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Coupa Refresh Template` template.
+
+### Netsuite Sandbox Refresh
+Open a [Netsuite Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Netsuite Refresh Template` template.
+
+### Zuora Central Sandbox Refresh
+Open a [Zuora Central Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Zuora Central Refresh Template` template.
+
+# <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Intake Process
 
 <div class="center">
 
@@ -132,14 +125,19 @@ graph TD
 ```
 </div>
 
-## Intake
-The first step to engage the Enterprise Applications team is opening an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
+## Intake Request
+
+Before opening a new intake request with Enterprise Applications, please check the [Services We Support]() section that lists the templates to be used for specific requests.
+{: .alert .alert-danger}
+
+To request work to be added to the [Enterprise Applications Roadmap](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/roadmap?state=opened&sort=start_date_asc&layout=WEEKS&timeframe_range_type=CURRENT_QUARTER&label_name%5B%5D=BT-Project&progress=WEIGHT&show_progress=true&show_milestones=false&milestones_type=ALL), please open an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the “Request” template.
 
 Every week, the Enterprise Applications Leadership reviews the [EntApps Intake board](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?label_name%5B%5D=EntApps%20Intake) and there are only 2 possible outputs for the issues on the _Open_ list:
 
 - The issue is ready to be worked on and so it will be added to a milestone.
-   - Enterprise Applications Leadership is responsible for removing the label _EntApps Intake_, adding the correct team label (~"BSA", ~"BT Finance System or ~"BT Integrations::Backlog") and appropriated milestone following the [Milestone Planning](/handbook/business-technology/enterprise-applications/#milestone-planning) process.
+   - Enterprise Applications Leadership is responsible for removing the label _EntApps Intake_, adding the correct team label (~"BSA", ~"BT Finance Systems or ~"BT Integrations::Backlog") and appropriated milestone following the [Milestone Planning]() process.
    - Additional information might be requested in the issue.
+   - Once requirements are defined by the ~"BSA" team, associated system changes will be sent to the ~"BT Finance Systems team in the form of a [Change Management Issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) for configuration.
 - The issue is not ready to be picked up and will be added to the [EntApps Backlog board](https://gitlab.com/groups/gitlab-com/-/boards/4710080?label_name[]=BT%3A%3ABacklog).
    - Enterprise Applications Leadership is responsible for adding the ~"BT::Backlog" label and removing ~"EntApps Intake" as well as adding a justification in the issue as a comment.
 
@@ -157,7 +155,7 @@ Both [EntApps Intake](https://gitlab.com/gitlab-com/business-technology/enterpri
 The _~"EntApps Intake"_ label is not limited to the Intake project, it can be used in different issues across all gitlab.com.
 {: .alert .alert-warning}
 
-## Milestone Planning
+## EntApps Milestone Planning
 
 EntApps milestones run for 2 weeks from Wednesday-Tuesday to avoid pushing changes over the weekend. This is also in line with the [Business Technology blocked periods](https://about.gitlab.com/handbook/business-technology/change-management/#procedure) and the GitLab calendar.
 
@@ -174,18 +172,19 @@ Once the Enterprise Applications Leadership creates the first version of an upco
    - The issue can be broken down into smaller issues (less weights) as needed. 
 2. Add the appropriated [priority label](/handbook/business-technology/enterprise-applications/#issue-labels) to every issue in the milestone.
 
-#### Prioritization
+### EntApps Milestone Timing
 
-EntApps milestones run for 2 weeks meaning that a request that comes when a milestone is already ongoing, will be placed in the queue and follow the [Intake process](/handbook/business-technology/enterprise-applications/#intake). If your request is urgent, please open an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues) and tag @awestbrook and @broncato in a comment. Enterprise Applications Leadership will work with the requestor to prioritize it and place it in the appropriated milestone.
+EntApps milestones run for 2 weeks meaning that a request that comes when a milestone is already ongoing, will be placed in the queue and follow the [Intake process](). If your request is urgent, please open an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues) and tag @jesssalcido and @broncato in a comment. Enterprise Applications Leadership will work with the requestor to prioritize it and place it in the appropriated milestone.
 {: .alert .alert-warning}
 
-### Milestone Expectations
-For issues that are added to a milestone with [8+ points/weights](/handbook/business-technology/enterprise-applications/#issue-weights), the expectation is that by the end of the 2 weeks milestone, the problem statement has been defined but a solution might require extra investigation in order to be identified and implemented. Surprises are expected, different teams might have to be involved and so the issue will be carried over to the following milestone. 
 
-### Milestone Schedule (Q3 and Q4 FY23)
-- [1 - EntApps - 2022-09-07](https://gitlab.com/groups/gitlab-com/-/milestones/794#tab-issues) (to 2022-09-20)
-- [2 - EntApps - 2022-09-21](https://gitlab.com/groups/gitlab-com/-/milestones/795#tab-issues) (to 2022-10-04)
-- [3 - EntApps - 2022-10-05](https://gitlab.com/groups/gitlab-com/-/milestones/811#tab-issues) (to 2022-10-18)
+![image-1](/handbook/business-technology/enterprise-applications/guides/milestone1.png)
+
+
+### EntApps Milestone Schedule (Q3 and Q4 FY23)
+- [1 - EntApps - 2022-09-07](https://gitlab.com/groups/gitlab-com/-/milestones/794#tab-issues) (to 2022-09-20) (COMPLETED)
+- [2 - EntApps - 2022-09-21](https://gitlab.com/groups/gitlab-com/-/milestones/795#tab-issues) (to 2022-10-04) (COMPLETED)
+- [3 - EntApps - 2022-10-05](https://gitlab.com/groups/gitlab-com/-/milestones/811#tab-issues) (to 2022-10-18) (COMPLETED)
 - [4 - EntApps - 2022-10-19](https://gitlab.com/groups/gitlab-com/-/milestones/812#tab-issues) (to 2022-11-01)
 - [5 - EntApps - 2022-11-02](https://gitlab.com/groups/gitlab-com/-/milestones/813#tab-issues) (to 2022-11-15)
 - [6 - EntApps - 2022-11-16](https://gitlab.com/groups/gitlab-com/-/milestones/814#tab-issues) (to 2022-11-29)
@@ -205,6 +204,17 @@ Issue weight is an estimate of how much time is required to complete the request
 | M | 1 Week | 5 | The problem statement has been defined with understood requirements. Extra investigation is required but the expectation is that once a solution is identified, it should be relatively easy to implement.<br><br> **Example:** <br>- Most system bugs or performance issues.<br> - [Stripe Account for Boundless / BigCommerce](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/725)|
 | L | 2-3 Weeks | 8 | The problem statement has been defined but a solution will require extra investigation in order to be identified and implemented. Surprises are expected, different teams will have to be involved. Significant investigation will be required and once the problem is found, a solution may not be straightforward.<br><br> **Example:** <br> - Bugs or system workflows that negatively impact the work of other people.<br> - [Stripe V2 Implementation](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/462) |
 | XL | > 4 weeks | 13 | The problem statement has been defined but it's a significant change that has dependencies and the requirements are probably not fully understood or known. It's unlikely we would resolve this in just one issue and the preference would be to further clarify requirements and/or break into smaller issues. <br><br> **Example:** <br>- A new system or module implementation.<br> - [E-Disty Epic](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/financeops/-/epics/16), which involves multiple changes, and has been broken down into smaller issues. |
+
+
+<div class="panel panel-warning">
+**Consideration**
+{: .panel-heading}
+<div class="panel-body">
+
+For issues that are added to a milestone with [8+ points/weights](/handbook/business-technology/enterprise-applications/#issue-weights), the expectation is that by the end of the 2 weeks milestone, the problem statement has been defined but a solution might require extra investigation in order to be identified and implemented. Surprises are expected, different teams might have to be involved and so the issue will be carried over to the following milestone.
+
+</div>
+</div>
 
 ### Project Weights
 Following an activity-based estimate, beginning with the requirements of the project and the size of the application and then, based on this information, defining the required tasks, which will serve to identify the overall effort that will be required.
@@ -236,37 +246,32 @@ Following an activity-based estimate, beginning with the requirements of the pro
 | 6 - Live + Hypercare | Assist end users with any functional or process issues, and work with the project team and SMEs to ensure the new interfaces are operating properly. |
 
 ## Issue Labels
-Prioritization labels
-- High ~"BT-Priority::1"
-   - For Incidents:
-      - The damage caused by the Incident increases rapidly.
-      - Several users are affected.
-      - A minor Incident that can be prevented from becoming a major Incident by acting immediately.
-   - For Projects:
-      - The project is business critical and has a due date linked to a legal/security/compliance due date.
-- Medium ~"BT-Priority::2"
-   - For Incidents:
-      - The damage caused by the Incident increases considerably over time.
-      - A single user is affected.
-   - For Projects:
-      - The project is linked to an OKR in the current or upcoming quarter
-- Low ~"BT-Priority::3"
-   - For Incidents:
-      - The damage caused by the Incident only marginally increases over time.
-      - Work that cannot be completed by team member is not time sensitive.
-   - For Projects:
-      - The project can be completed in our spare time and can be paused for higher priority work
 
-Every issue will have a scope tracking tag showing the current status:
-- ~"BT::Backlog" - Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
-- ~"BT::To Do" - Team will look at the issue within a week of submitting
-- ~"BT::In Progress" - Team is currently actively working on scoping out and gathering requirements
-- ~"BT::Done" - Completed
+#### Prioritization Labels
 
-We also use labels to identify the responsible group within Enterprise Applications:
-- ~"BSA" - Business Systems Analysts issue
-- ~"BT Finance Systems" - Finance Admin issue
-- ~"BT Integrations::Kanban" - Integrations Team issue
+| Priority | Label | For Incidents | For Projects |
+| ------ | ------ | ------ | ------ |
+| High | ~"BT-Priority::1" | - The damage caused by the Incident increases rapidly.<br> - Several users are affected.<br> -A minor Incident that can be prevented from becoming a major Incident by acting immediately. | - The project is business critical and has a due date linked to a legal/security/compliance due date. |
+| Medium | ~"BT-Priority::2" | - The damage caused by the Incident increases considerably over time.<br> - A single user is affected. | - The project is linked to an OKR in the current or upcoming quarter |
+| Low | ~"BT-Priority::3" | - The damage caused by the Incident only marginally increases over time.<br> - Work that cannot be completed by team member is not time sensitive. | - The project can be completed in our spare time and can be paused for higher priority work |
+
+#### Status Labels
+
+| Label | Description |
+| ------ | ------ |
+| ~"BT::Backlog" | Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly. |
+| ~"BT::To Do" | EntApps team will look at the issue when assigned to a milestone. |
+| ~"BT::In Progress" | EntApps team is actively working on the issue. |
+| ~"BT::Done" | Issue resolved. |
+
+#### Other Labels
+
+| Label | Description |
+| ------ | ------ |
+| ~"BSA" | Business Systems Analysts issue |
+| ~"BT Finance Systems" | Finance Systems Administrators issue |
+| ~"FinSys::Service Desk" | Finance Systems Service Desk issues, 72 hour SLA | 
+| ~"BT Integrations::Kanban" | Business Technology Integrations issue |
 
 # <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
 ### Slack Channels
@@ -275,3 +280,5 @@ We also use labels to identify the responsible group within Enterprise Applicati
 - `#bt-finance-operations`
 - `#financesystems_help`
 - `#bt-integrations`
+
+{::options parse_block_html="false" /}
