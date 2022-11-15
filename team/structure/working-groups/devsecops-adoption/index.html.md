@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "DevSecOps Adoption"
-description: "A Working Group focused on the Top 12 Cross-Functional initiative of ensuring ultimate customers successfully adopt devsecops within 2 months of purchase"
+description: "A Working Group focused on the Top 12 Cross-Functional initiative of ensuring ultimate customers successfully adopt devsecops within 3 months of purchase"
 canonical_path: "/company/team/structure/working-groups/devsecops-adoption/"
 
 ---
@@ -27,7 +27,7 @@ canonical_path: "/company/team/structure/working-groups/devsecops-adoption/"
 No customers in red on DevSecOps Adoption within 3 months of purchase.
 
 ## Exit Criteria
-Run articulated process with 10 customers with successful adoption within 3 months
+One fiscal quarter (purchase date) with 90% of devsecops customers adopting within 3 months of purchase
 * 
 
 
@@ -47,5 +47,6 @@ Run articulated process with 10 customers with successful adoption within 3 mont
 | Member                | Nick Wilson           | Sr Product Manager - Govern  |
 | Member                | Derek Ferguson        | Sr Product Manager - Secure and Govern | 
 | Member                | Saumya Upadhyaya      | Principal Product Marketing Manager |
-| Member                | Jeff Beaumont         | Sr. Director CS Operations |
+| Member                | Jeff Beaumont         | Sr Director CS Operations |
+| Member.              | Rob Parker             | Sr Director, Data & Analytics | 
 
