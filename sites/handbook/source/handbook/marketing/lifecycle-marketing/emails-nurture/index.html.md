@@ -428,7 +428,17 @@ To assist in building email target lists, MktgOps has developed a series of Mark
 
 To request an email send, please [open an issue](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/new?issuable_template=request-email) for consideration of your MVC email idea, and provide as much detail as possible (especially around the audience), and please respect if the determination is that "the juice isn't worth the squeeze" and that we may want to delay the launch until some foundational audience segmentations are established. Please review the `Email Review Protocol` section below for more detail.
 
-**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager.
+**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager and/or Lifecycle Marketing Manager.
+
+**Assign issues to:** You must assign issues to the corresponding Lifecycle Marketing Manager for review before send.
+* `@aklatzkin`: Global, AMER, Corporate Events, Newsletters
+* `@dambrold`: APAC, EMEA, Intelligent Nurture
+
+**Add the issue to the Asana email calendar:** By default, issues will add the label for ~"email-calendar", you will need to add the label for your audience as well:
+* ~"Global-emails"
+* ~"AMER-emails"
+* ~"APAC-emails"
+* ~"EMEA-emails"
 
 **Urgent security emails are exempt from this SLA.*
 
@@ -719,7 +729,8 @@ If you don't have Marketo access and would like to see what the email templates 
 {: #review-protocol .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program.
+All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program. While the owner of the email should review the email, they must also assign the emails to the corresponding Lifecycle Marketing Manager as listed on the email templates.
+
 
 We use both Marketo and MailJet to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. MailJet should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through MailJet: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
 
