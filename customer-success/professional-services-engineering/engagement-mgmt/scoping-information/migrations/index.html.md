@@ -119,26 +119,52 @@ _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on B
 
 ## Team Foundation Server (TFS)/Azure DevOps (ADO) to GitLab
 
-Azure DevOps (formerly named Team Foundation Server) contains more than a source code repository, so additional questions need to be asked while scoping out an ADO migration. Three common components in ADO are the following:
+Azure DevOps (formerly named Team Foundation Server) contains more than a source code repository, so additional questions need to be asked while scoping out an ADO migration. Five common components in ADO are the following:
 
-- Code: The source code itself
-- Builds: Any automated build processes, usually defined in a XAML file along with a solution (.sln) and/or project file (.csproj)
-- Workitems: Issues/tickets for tracking work. Similar to GitLab issues or JIRA tickets
+- Azure Boards: Set of Agile tools to plan, structure and manage work through a backlog. Equivalent to GitLab [Issues](https://docs.gitlab.com/ee/user/project/issues/) or JIRA tickets.
+- Azure Repos: Version control system. Supports Git or Team Foundation Version Control (TFVC).
+- Azure Pipelines: Build and release services to support continuous integration and delivery of an application. Equivalent to [GitLab CI/CD](https://docs.gitlab.com/ee/ci/).
+- Azure Test Plans: Several tools to test an application, including manual/exploratory testing and continuous testing. 
+- Azure Artifacts: Service to store and share packages such as Maven, npm, NuGet, generic and others from public and private sources. Equivalent to [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/).
 
 | Question | Answer | Sample Answer | Rationale for asking|
 | ----- | ----- | ----- | ----- |
-| Are you using Git or TFVC for your SCM? | | TFVC | This will influence how we interact with the ADO server and determine if a conversion to Git is necessary |
-| How many code repositories? | | 500 | This will affect the decision on general approaches listed above |
+| **General** ||||
+| Is it SaaS or self-hosted?|| Azure DevOps (SaaS) | If ADO Server (self-hosted), then we need to know software version and other details (i.e. SQL version etc), this will help to pick the right migration approach. |
+| How many organizations do you have that need to be migrated? | | 1 | Answer to this question will help to understand the current state, amount of required effort and contribute to future architecture of GitLab. |
+| How many projects per organization? | | 500 | Answer to this questions will help to estimate amount of time and approach for migration. |
+| What is the ratio project/repo? | | 1:1 | Based on answer to this question additional advisory services to refactor/restructure might be required  |
+| **Azure Boards** ||||
+| Are you using workitems in ADO? || Yes | If workitems need to be retained, then additional migration and/or advisory activities need to be added to the engagement. _Note: there are features in ADO workitems (e.g. custom fields and workflows) that are not supported by GitLab issues. During scoping, make sure the customer is aware of these differences._  |
+| What template do you use? ||Scrum, Agile, SCCM | To understand the current state and ensure [GitLab's Issues](https://docs.gitlab.com/ee/user/project/issues/) support all the capabilities. |
+| What customizations do you use in your boards? ||Extra swimming lanes, custom fields etc|Based on this answer we may require additional advisory services to discuss what is possible / not possible and propose alternatives. |
+| **Azure Repos** ||||
+| Are you using Git or TFVC for your SCM? | | Git | This will influence how we interact with the ADO server and determine if a conversion to Git is necessary |
+| How many code repositories? || 500 | This will affect the decision on general approaches listed above |
 | Are you using branches in your code repositories? | | Yes | If the answer is no for some of the repositories, the customer will have to choose between converting specific folders in the repository to branches to retain history or accept a flat file migration of the repository with no history
 | Do you need to retain history in your code repositories? | | Yes | If the answer is no and the customer is using ADO, then we do not need to convert the repos to Git. 
-| Are you using ADO to build your software? | | yes | This will add CI/CD consulting/transformation activities to the engagement if the answer is yes |
-| How many builds/build templates are used per code repository? | | 1 | This is a guage of complexity. Sometimes a code repository can contain several different build definitions |
-| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | yes | If yes, this can require advisory services to refactor to those solution/project files to work with gitlab pipelines |
-| How many build servers do you use? |  | 1 | We usually convert a build server to something more epehemeral so the more build servers in use, the more development is required to transition them to something more ephemeral |
-| Are you using workitems in ADO? |  | yes | If workitems need to be retained, then additional migration and/or advisory activities need to be added to the engagement. _Note: there are features in ADO workitems (e.g. custom fields and workflows) that are not supported by GitLab issues. During scoping, make sure the customer is aware of these differences._  |
+| **Azure Pipelines** ||||
+| Are you using ADO to build your software? | | Yes | This will add CI/CD consulting/transformation activities to the engagement if the answer is yes |
+| How many builds/build templates are used per code repository? | | 1 | This is a gauge of complexity. Sometimes a code repository can contain several different build definitions |
+| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | Yes | If yes, this can require advisory services to refactor to those solution/project files to work with gitlab pipelines |
+| How many build servers do you use? |  | 1 | We usually convert a build server to something more ephemeral so the more build servers in use, the more development is required to transition them to something more ephemeral |
 | Are there any specific flags used in your build process? If so, what? |  | Yes  | This shows the customer is measuring this data to be used during the transition process. |
-| Are there any external tools/applications tied to your ADO server? | | Yes. We use an in-house tool that pulls from TFS daily for gathering metrics | If the answer is yes, additional activities will need to be added to the SOW to accomodate transitioning those tools to pull from Git instead.
-
+| Do you use classic releases? || No | If the answer is yes then additional effort might be required to educate on YAML (pipeline as code) concept |
+| Do you use UI build definitions? || No | If yes then this will add CI/CD consulting/transformation activities |
+| Do you use YAML for all your definitions (build / release)? || Yes | If "Yes" is the answer to this question then SOW might include additional effort and advisory services (i.e. CI/CD consulting/transformation activities)|
+| Do you use extensions from the marketplace that are part of your build/test/release process? Provide the list of extensions (if the answer is "Yes") || Yes. ARM-ttk extension for linting templates. |If yes then we need to ensure that we have equivalent in GitLab for this (or propose alternative solution)|
+| What type of agents do you use? || Self-Hosted, Microsoft-hosted (i.e. `windows-latest`, `ubuntu-latest` etc) |Based on this answers we will make a decision what runner architecture to propose and make sure GitLab supports it and how much effort it requires to achieve similar state|
+| Do they have special requirements (i.e. network connectivity, required components for build/test/release process)? ||Yes, need Visual Studio 2017 capabilities (i.e. legacy software)| Based on the answer we will make a decision if custom runner images are needed (i.e. to install capabilities) |
+| Are there any plans in the future to use/add anything special in the CI/CD? || GPU optimized agent | Based on the answer we will make a decision on GitLab Runners to avoid potential limits in the future |
+| **Azure Test Plans** ||||
+| Do you use test plans and do you need similar functionality in GitLab? || Yes |Based on the answer we need to propose equivalent feature in GitLab|
+| **Azure Artifacts** ||||
+| Do you use artifact feeds? || Yes |To understand the current state|
+| What type of feeds? || Maven, npm, NuGet | To understand the current state and make ensure GitLab has the same capabilities (see [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/)) |
+| Do you use build/pipeline artifacts? || Yes ||
+| What is the retention policy of the packages and do you need to migrate them? || 365 days, no migration needed |To estimate additional effort for migration or/and advisory service to retain existing ADO feed refactoring application to use [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/)|
+| **Integrations** ||||
+| Are there any external tools/applications tied to your ADO server? | | Yes. We use an in-house tool that pulls from TFS daily for gathering metrics | If the answer is yes, additional activities will need to be added to the SOW to accommodate transitioning those tools to pull from Git instead.
 
 ## Other git based SCMs
 - We can support these customers by using the "bare git" method of migration. This is done through the [Import repo by URL UI](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) or command line using `git push -u. 
