@@ -1,7 +1,9 @@
 ---
 layout: markdown_page
 title: "DevSecOps Adoption"
-description: "A Working Group focused on the Top 12 Cross-Functional initiative of ensuring ultimate customers successfully adopt devsecops within 2 months of purchase
+description: "A Working Group focused on the Top 12 Cross-Functional initiative of ensuring ultimate customers successfully adopt devsecops within 2 months of purchase"
+canonical_path: "/company/team/structure/working-groups/devsecops-adoption/"
+
 ---
 
 ## On this page
@@ -17,7 +19,7 @@ description: "A Working Group focused on the Top 12 Cross-Functional initiative 
 | Date Created    | October 19 2022   |
 | End Date        | TBD |
 | Slack           | #wg_devsecops_adoption (only accessible from within the company) |
-| Epic            | [DevSecOps Adoption Working Group](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59) (only accessible from within the company)
+| Epic            | [DevSecOps Adoption Working Group](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59) (only accessible from within the company) |
 | Google Doc      | [DevSecOps Adoption WG Agenda](https://docs.google.com/document/d/1kUrBpNYhHZNpWvihQe2484FAAy5sO42yVKR7uINULh0/edit) (only accessible from within the company) |
 
 ## Business Goal
@@ -33,7 +35,7 @@ Run articulated process with 10 customers with successful adoption within 3 mont
 
 | Working Group Role    | Person                | Title                                  | 
 |-----------------------|-----------------------|----------------------------------------|
-| Executive Stakeholder | Michael McBride       | CRO
+| Executive Stakeholder | Michael McBride       | CRO    |
 | DRI                   | Sherrod Patching      | VP, Customer Success Management        |
 | Member                | Francis Ofungwu       | Field CISO                        |
 | Member                | Jonathan Fullam       | Sr Director, Solution Architecture           |
