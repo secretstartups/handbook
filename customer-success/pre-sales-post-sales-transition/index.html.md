@@ -53,7 +53,7 @@ In order to ensure the CSM workload is distributed effectively, SAs should reach
 - Salesforce link to the Account
 - Salesforce link to the Opportunity
 - Expected Close Date
-- [LAM](https://docs.google.com/document/d/10hWaaCeeTY1zcZyLP8SkMZhpjv_tm7GHF049c9uD-GQ/edit#bookmark=id.4pg1rkj18ebn) of the Account
+- [Landed Addressable Market (LAM)](https://internal-handbook.gitlab.io/handbook/sales/lam/) (GitLab internal Link) of the Account
 
 After a CSM is assigned by the manager, the SA should arrange an internal [account team](/handbook/customer-success/account-team/) meeting.
 
@@ -92,7 +92,7 @@ If the Solutions Architect has created a collaboration project, the [account tea
 
 Following the internal account team meeting, the SA should set up a CSM introduction meeting with the customer. When arranging this meeting, the SA can provide the customer with a high-level overview of the CSM role, and what the CSM engagement _might_ look like going forward. However, the SA (and SAL) should refrain from making any statements on behalf of the CSM, as to what activities they _will_ do.
 
-Prior to the customer meeting, the CSM should work with the SA to prepare the [CSM program overview deck](https://docs.google.com/presentation/d/1n_Tex7gm8_UgxEaUy8YR3wccb73bsWOugdQ9mQX_oMU/edit?usp=sharing) to be presented as part of the meeting. This will be starting point of the CSM's relationship with the customer, and it's important to convey what the CSM's role is, and the expectations from both sides moving forward. As this one agenda item of the SA's meeting with the customer, the CSM portion should not be extensive and should be used to set the stage for future conversations.
+Prior to the customer meeting, the CSM should work with the SA to prepare the [CSM program overview deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit) to be presented as part of the meeting. This will be starting point of the CSM's relationship with the customer, and it's important to convey what the CSM's role is, and the expectations from both sides moving forward. As this one agenda item of the SA's meeting with the customer, the CSM portion should not be extensive and should be used to set the stage for future conversations.
 
 While the opportunity progresses through commercial discussions, the CSM should engage with the SA where appropriate, in order to maintain the relationships with the strategic personnel and decision makers within the organisation.
 
