@@ -27,7 +27,9 @@ Increase the number of unique monthly contributors by recognizing and incentiviz
 
 ### Proposed Exit Criteria
 
-Build scalable model to onboard 100 Leading Organizations by the end of FY24-Q4.
+Build scalable model to activate 100 Leading Organizations by the end of FY24-Q4.
+
+### Plan
 
 1. Develop robust pipeline
    1. Execute nurture campaigns and digital marketing playbooks to generate interest
@@ -52,5 +54,6 @@ Build scalable model to onboard 100 Leading Organizations by the end of FY24-Q4.
 | Functional Lead: Contributor Success | Nick Veenhof | Director, Contributor Success           |
 | Functional Lead: Developer Evangelism | John Coghlan | Sr. Manager, Developer Evangelism       |
 | Functional Lead: Marketing Campaigns  | Jackie Gragnola | Sr. Manager, Marketing Campaigns and ABM |
+| Functional Lead: Product Marketing  | Nicole Smith | Director, Product Marketing — Customer Advocacy |
 | Functional Lead: Customer Success | Jamie Reid  | Manager, Strategic CSMs                     |
 | Member                         | Sid Sijbrandij    | Chief Executive Officer                  |
