@@ -65,7 +65,7 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
 1. Ensure quick discreet access to:
    1. [Notes](https://docs.google.com/document/u/0/d/159Bxv_H7Ds9QoGsmFW7c7Zoq5nqugAChN_a7XuKUeLs/edit)
    1. [Slide Deck](https://docs.google.com/presentation/u/0/d/1bGvo9EOz-pa-hsPi6xmguuL20L5e5XNfDVaFYeHZWdc/edit)
-   1. [GitLab features](https://about.gitlab.com/features/?stage=plan) for reference
+   1. [GitLab features](https://about.gitlab.com/features/) for reference
    1. Any other pertinent resources for quick reference (See Appendix of [Scale CSE - Kickoff / Discovery Questions Template](https://docs.google.com/document/d/159Bxv_H7Ds9QoGsmFW7c7Zoq5nqugAChN_a7XuKUeLs/edit?usp=sharing) for ideas)
 1. Make sure to manage expectations about short term engagements and not being permanently aligned.
 1. After the call is complete, set expectations for follow up email in the upcoming 2-3 days.
