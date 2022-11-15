@@ -26,15 +26,13 @@ You can see more information about what we do and our strategy in the following 
 
 The Customer Programs team creates content for the wider GitLab community.
 
-We are in the process of converting popular email program series into a static location in the GitLab Docs site. See more about this project in the [Convert Emails to Docs epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/73).
-
 - GitLab Docs
   - [Onboarding quick start](https://docs.gitlab.com/ee/administration/get_started.html)
   - [CI/CD quick start](https://docs.gitlab.com/ee/ci/quick_start/)
 
 ## Who we support
 
-We support all customers with our digital motions but primarily serve our tech touch segment with time based and/or data driven email programs to further enable them in their journey with GitLab.
+We support all customers with our digital motions but primarily serve our tech touch and scaled segments with time-based and/or data driven email programs to further enable them in their journey with GitLab.
 
 ## Programs lifecycle
 
@@ -51,6 +49,60 @@ Programs can be any of the following:
 - Monthly newsletters
 - Surveys sent through Gainsight
 
+## Deadlines and time expectations
+
+Each program we send is created by the CS Programs team in Gainsight. Once a program is created and designed, we can make changes to the content. Creating a new program can be a time-intensive task, especially if the send rules and other parameters are specialized.
+
+<details>
+<summary markdown='span'>Program and copywriting timelines</summary>
+
+### New program timeline
+
+For a new program, the workflow is as follows:
+
+1. The requester [submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program) using the correct template, filling out as much information as possible. If the form is not complete, this may delay completion. Please include the desired date the program will go to customers.
+1. The CS Programs team verifies that the information needed is present and will provide additional information or clarify.
+1. The requester provides initial content for the program. This may be copy content, such as the contents of the email requested, branding requirements, and any token information needed to create the program.
+1. The CS Programs team provides a timeline for completion once all the information is available.
+1. The CS Programs team requests [SME review](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) from Product and/or Support as needed.
+
+In general, at least _5 business days_ are required for a new program, and in most cases it may be closer to 10-15 business days, depending on the complexity of the request.
+
+### Program update timeline
+
+For program update requests, the workflow is as follows:
+
+1. The requester [submits an issue](submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program)) using the correct template, filling out as much information as possible. This should include the name of the program to change, and the date the requester wants the change to be completed.
+1. The CS Programs team verifies that all information needed is present and will provide additional information or clarify.
+1. The CS Programs team makes the requested changes to the program copy document, then requests [SME review](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) by Product and/or Support as needed.
+1. When SME review is complete, the CS Programs team adds the changes to Gainsight.
+
+In general, at least _5 business days_ are required to update a program. Depending on the size of the change, it may take longer. For example, adding a paragraph or removing a bulleted list from an email is simple, but adding an entirely new email to a series requires a new program to be created due to Gainsight limitations.
+
+### Copywriting and technical writing
+
+The CS Programs team can provide copywriting and proofreading assistance.
+
+To request assistance with existing copy, please allow _2-5 business days_.
+
+To request copywriting, please provide as much content as possible to begin. This may take between _3 and 10 business days_, depending on the complexity of the request and the amount of additional research or SME review required to approve the content.
+
+</details>
+<br>
+
+### Available program metrics and data and timelines
+
+When an email program is sent, Gainsight collects data about the following points:
+
+- To whom the program was sent
+- Open, bounce, and click rates
+
+New programs typically take _30 to 60 days_ to show meaningful data.
+
+If the information requested is already available in Gainsight, please expect _1-3 business days_ beyond 30 days to respond to the request.
+
+If a new dashboard or report must be created, CS Ops will provide more accurate time expectations.
+
 ### Program recipients
 
 Customer programs are sent to our tech touch and scaled CSM customer segments where there is a GitLab Admin contact. If there is no GitLab Admin on the account the program will send to the sold to contact.
@@ -63,6 +115,7 @@ For these CSM segments we require a GitLab Admin contact to be added to the foll
 
 Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
 
+<!-- Remove this section or add it elsewhere? This isn't really specific to Programs-->
 
 ## GitLab Admin contacts
 
@@ -142,7 +195,7 @@ You may request new programs, such as an email series, contribute to existing pr
 
 1. Open a new issue in the [CS Ops Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
 
-1. Select the appropriate template from CS Programs | 
+1. Select the appropriate template from CS Programs.
 
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
