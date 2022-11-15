@@ -74,9 +74,9 @@ The retrospective will wrap up with a check-out activity that helps with reflect
 For each one of these stages, if people are out on PTO, they can be excused from following the schedule and they can catch up with the process when and if they come back from PTO before the retrospective is over. You are encouraged to plan ahead and check-in with the engineering manager the week before if you want to provide your input before leaving for PTO. 
 
 ## Privacy and Transparency
-While GitLab promotes the value of transparency, the activities and data collected for retrospectives will be private to the Geo team members by default. The intention is to create a safe space conducive of honest feedback and a high degree of engagement. During Wrap-up, there will be a discussion about anything that should be shared externally because it may help others to learn from what the team learned. 
+GitLab promotes the value of transparency, so the activities and data collected for retrospectives will be public by default. However we do want to create a safe space conducive of honest feedback and a high degree of engagement. During Wrap-up, there will be an opportunity to bring up anything that should be shared privately and a new issue can be created with proper permissions to continue the conversation there.
 
-Highlights of the retrospective will be written to a GitLab issue accessible to team members as record keeping. Any other information that needs to be shared externally will be published in either public gitlab issues or through slack channels. 
+Highlights of the retrospective will be written to a GitLab issue accessible to team members as record keeping. 
 
 
 

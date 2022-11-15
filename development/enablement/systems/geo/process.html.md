@@ -16,6 +16,18 @@ Discussions are documented [separately](https://docs.google.com/document/d/18vGk
 
 ## Planning
 
+### Hierarchy of Work Items
+
+One aspect of planning that provides clarity for development execution is the breakdown of roadmap into a hierarchy of informational pieces that are organized in GitLab's own [work items](https://docs.gitlab.com/ee/development/work_items.html) as part of product management.
+
+This section describes the approach that the Geo team takes to break down the requirements into work-in-progress items that engineers move through the workflow of implementation. 
+
+First, we describe general agile work item terminology to create alignment and use common industry vocabulary. We then map these general terms to the specific work item terminology used by GitLab.
+
+Finally we provide some guidelines and rules of thumb when creating new ites and about choosing the right level of granularity for them.
+
+The details of this are documented in our [Geo's Hierarchy of Agile Work Items](./agile-work-items.html) page. 
+
 ### Kanban
 
 We work in a continuous Kanban manner while still aligning with Milestones.
@@ -54,8 +66,8 @@ a link [to the category strategy](/handbook/product/product-processes/#category-
 
 ##### Solution validation
 
-Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
-They will then reach out to the Engineering Manager(EM) for a technical contact in the team. The EM assigns [ownership](#epic-ownership) to an engineer. The engineer will work with the PM
+Once the problem is validated, the PM will consider creating a work item as per our guidelines for [hierarchy of work](./agile-work-items.html).
+They will then reach out to the Engineering Manager(EM) for a technical contact in the team. The EM assigns [ownership](#work-ownership) of the work item to an engineer. The engineer will work with the PM
 to determine a technical solution for the problem.
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the PM
@@ -69,43 +81,34 @@ scope of the work.
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be
 successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is to fail fast!
 
-The PM and the engineer will work together to create all of the issues required to build the solution. This includes
-- documentation issues
-- testing that is broader than the scope of individual issues
-- post-release items such as rake tasks, migrations or monitoring issues
+The PM and the engineer will work together to create all of the [work items](./agile-work-items.html) required to build the solution. These items account for
+- Documentation
+- Testing
+- Post-release items such as rake tasks, migrations or monitoring issues
 
-Ideally, epics and issues should be broken down by external functionality rather than by implementation details. There will be exceptions such as refactors and performance improvements.
+Ideally, [epics, features and user stories](./agile-work-items.html) should be broken down by external functionality rather than by implementation details. Even refactors and performance improvements should highlight the customer value and be described with a user-centric approach.
 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
-added to Epics as related issues. For these, it's useful to list them in the Epic description.
+added to work items as related issues. For these, it's useful to list them in the highest level work item description.
 
-When they are satisfied that they have a reasonable solution with all issues weighted, they will send the Epic link out
-for discussion and feedback. Planning is transparent anyway, but this serves to notify the team that the Epic is ready
+When they are satisfied that they have a reasonable solution including an estimation of effort for each work item, this breakdown should be shared with the rest of the team
+for discussion and feedback. Planning is transparent anyway, but this serves to notify the team that the new work items are ready
 for development.
 
-Issues are then given the "geo::scheduling" label.
-
-This signifies that from both a product and engineering point of view, this issue is prepared and ready to be built as
-soon as there is space in the schedule.
-
 #### Schedule
-We use the [Kanban Scheduling board](https://gitlab.com/groups/gitlab-org/-/boards/981066?&label_name[]=geo%3A%3Ascheduling) for this phase.
+On an ongoing basis, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
 
-Once per week, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
+In this process, prepared items will be given the label "geo::active", which will pull items into the Build board.
 
-In this meeting, prepared items will be given the label "geo::active", which will pull items into the Build board.
-
-This meeting is recorded and open for anyone to join. Attendance for the Geo Team is optional as it is recorded. We will
-also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled.
-
-The agenda for the meeting is:
-
+Part of the ongoing prioritization and scheduling effort includes providing answers to these questions
 1. What is active now?
 1. What needs to be active next?
 1. Are there any deliverables?
 1. Is the active list in priority order?
 1. Bugs list
 1. Technical debt items arising
+
+The outcome of these scheduling activities are reflected in an [Outlook Issue](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/?search=Geo%20Outlook&sort=due_date&state=all&first_page_size=100) that the PM prepares and which encapsulates the direction and scope of the upcoming iteration.
 
 #### Build
 
@@ -135,51 +138,43 @@ through to completion.
 Finally, we ensure that any communication that needs to go out for this issue is delivered. These can take the form of
 release posts, blog posts, video tutorials, or demos.
 
-### Epic Ownership
+### Work Ownership
 
-The Geo team uses epics to describe features or capabilities that will increase the maturity of the Geo categories over time.
+The Geo team uses a variety of [work items](./agile-work-items.html) to describe features or capabilities that will increase the maturity of the Geo categories over time.
 
-Each Epic should be owned by an engineer who is responsible for all technical aspects of that Epic. If at any point, the
+Each high-level work item (i.e. Epics and/or Features) should be owned by an engineer who is responsible for all technical aspects of that work item. If at any point, the
 owner needs to take leave that is more than a few days, they should assign another engineer to act as owner until they return.
 
 **In the planning phase**, the engineering owner will work closely with the Product Manager to understand what the requirements
-are and why they are important to customers. The engineer will decide on how best to deliver the solution and create issues
+are and why they are important to customers. The engineer will decide on how best to deliver the solution and create [Tasks](./agile-work-items.html#task)
 that encapsulate the technical work required. They may need to consult with other team members and stable counterparts
 to come up with the right approach to delivering the requirements.
 
-They should include issues for documentation changes and additional testing requirements that are required. There should
-be an issue created to inform Geo experts in the Support group about the change if needed. The engineer
-should also consider if there is any technical debt that is appropriate to address at the same time. Issues are also
-needed for any rollout or post-release tasks.
+They should include Tasks for documentation changes and additional testing requirements that are required. A task should be created to inform Geo experts in the Support group about the change if needed. The engineer
+should also consider if there is any technical debt that is appropriate to address at the same time. Additional Tasks are also
+needed for any rollout or post-release todos.
 
-Each issue needs to be weighted and contain enough information for any other engineer on the team to be able
-to pick up that work.
-
-When they are satisfied that all of the issues are created, and ready for development, they (with the PM) should present
-this information to the team for feedback. Preparation is still transparent and open to feedback at any point, this step
-is just a way to tell the team that the Epic is ready to be built and confirm that everyone is aware of what needs to be done.
-
-**For the duration of building the epic**, the engineer does not need to be the only person implementing the issues.
-They should keep watch of the work that is done on the issues so that they can verify that the work is progressing correctly.
-Ideally, they should also be an approver on each MR for the Epic. If there are problems with the work, or lengthy delays,
+The engineer that is the owner does not need to be the only person implementing the Tasks.
+They should keep watch of the work that is done on the tasks so that they can verify that the work is progressing correctly.
+Ideally, they should also be an approver on each MR for the work items. If there are problems with the work, or lengthy delays,
 they need to make sure the Product Manager and Engineering Manager are aware.
 
-**When work is nearing completion**, the engineer should check the release note and work with the PM on any changes.
+**When work is nearing completion**, the owner engineer should check the release note and work with the PM on any changes.
 They should also make sure that any additional issues that may have come up during the build process are either
 addressed, or scheduled for work. This will help to make sure that we do not build up technical debt while building.
 
-**Finally**, they should also monitor any work that needs to occur while rolling out the Epic in production. If there are
+**Finally**, owners should also monitor any work that needs to occur while rolling out the Epic or Feature in production. If there are
 rake tasks, database migrations, or other tasks that need to be run, they need to see those through to being
 run on the production systems with the help of the Site Reliability counterpart. They may also need to assist the
-Product Manager with creating the release note for the Epic.
+Product Manager with creating the release note for the work item.
 
 This places a lot of responsibility with the owner, but the PM and EM are always there to support them. This ownership
-removes bottlenecks and situations where only the PM or EM is able to advance an idea. In addition, the best people
-to decide on how to implement an issue are often the people who will actually perform the work.
+removes bottlenecks and situations where only the PM or EM is able to advance a work item. In addition, the best people
+to decide on how to implement a task are often the people who will actually perform the work.
 
 The responsibility of the Product Manager is to make sure that there is enough information for the engineer to develop the
 correct solution that meets the requirements. They are also available to answer clarifying questions or consider how to
-approach edge cases. At the end of an epic they also communicate this out to customers and other interested parties.
+approach edge cases. At the end of a work item they also communicate this out to customers and other interested parties.
 
 The Engineering Manager is responsible for clearing the path. They need to make sure the engineers performing the work
 have the access to the right information, people, tools, and other resources to get the work done. They try to foresee
@@ -191,7 +186,7 @@ When new issues arise (through testing, customer support issues, or other means)
 quickly without being delayed by process.
 If you think a new issue needs to be worked on immediately:
 
-1. Make sure there is enough detail on the ticket for someone else to understand the issue and for someone else to have
+1. Make sure there is enough detail on the work item description for someone else to understand the issue and for someone else to have
 enough context to review your work
 1. Make sure there is a weight
 1. Assign it into the current milestone
@@ -266,7 +261,7 @@ Expectations:
 
 Retrospectives are a [crucial component](https://www.retrium.com/blog/i-was-wrong-retrospectives-are-not-the-most-critical-part-of-agile-but-they-are-close) of the agile methodology. However, having a retro should not be about checking-off a mark in our agile todo list. The purpose of the retro is to learn and then take action that leads to a better place. We learn from our past actions and results and we use that knowledge to improve our future execution. 
 
-At GitLab there is a general guideline to conduct [group retrospectives](/handbook/engineering/management/group-retrospectives/) and a process automation to run retrospectives [asynchronously](https://gitlab.com/gitlab-org/async-retrospectives). The Geo team however is working with a new process that combines elements of asynchronous work with the benefits of synchronous conversation and the increased level of engagement that these types of interactions bring.
+At GitLab there is a general guideline to conduct [group retrospectives](/handbook/engineering/management/group-retrospectives/) and a process automation to run retrospectives [asynchronously](https://gitlab.com/gitlab-org/async-retrospectives). The Geo team however is working with a new process that combines elements of fully asynchronous work with the benefits of active conversation and the increased level of engagement that these types of interactions bring.
 
 The details of this process is documented in our [Geo Team Retrospectives](./retrospectives.html) page. 
 
