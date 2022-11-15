@@ -531,7 +531,7 @@ Upon approval, the letter of authorization will be automatically sent to the leg
 
 **External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.  
 
-Partner Help Desk’s primary internal communication channel is Salesforce Chatter. When you chatter @Partner Help Desk, it will automatically create a case in the Partner Help Desk (PHD) queue.  
+Partner Help Desk’s primary internal communication channel is the #channel-programs-ops Slack channel. For help with specific partner account records in Salesforce, please chatter @Partner Help Desk. This will automatically create a case in the Partner Help Desk (PHD) queue.  
 
 **Please do not tag PHD team members directly in chatter or make a request through Slack direct message. Always use @Partner Help Desk for SFDC requests or post in #channel-programs-ops in Slack for general questions.**. This ensures our team is working as efficiently as possible for everyone and that you are covered in case the team member who replied first becomes unavailable.
 If someone is working on a case, they will continue to support until the case is closed. If a matter was resolved, but needs to be revisited, please chatter @Partner Help Desk to reopen a case.
