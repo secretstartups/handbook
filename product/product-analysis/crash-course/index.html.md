@@ -37,6 +37,8 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 * The [Technical Marketing handbook page](/handbook/marketing/strategic-marketing/technical-marketing/) contains links to product demos, webinars and release videos.  
 
+* GitLab's Fiscal Year runs from February 1 to January 31. [Here](https://about.gitlab.com/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
+
 ## Learn about analytics relevant product stage topics grouped by Section
 
 Why are these groupings called 'Stages'? At GitLab, we build a product that supports every **stage** of the DevOps Lifecycle.
