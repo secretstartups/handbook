@@ -79,7 +79,7 @@ The matrix below defines the impact of setting the `Cloud Licensing` flag value 
 | Offline | Eligible | Eligible | Not Eligible | 
 | No  | Eligible | Eligible | Eligible |
 
-Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated.
+Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated. After the license is generated, [search for the license and resend the license](../sending_license_to_different_email.html) because the automatically generated license does not trigger license email notification.
 
 Once these steps are completed, please be sure to flag the ZenDesk ticket using the above macro to ensure these missed approvals are being tracked appropriately.
 
