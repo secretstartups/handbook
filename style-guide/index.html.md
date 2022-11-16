@@ -37,7 +37,7 @@ Brand names such as "Apple" and "Slack" are proper nouns, so they should be capi
 
 ### Use kebab case for file and directory names
 
-For easy reading, typing, and consistency use kebab case—lowercase letters with hyphens between words—for all file and directory names. This holds unless you have a specific reason for doing otherwise (e.g., due to a programming convention where underscores are preferred or because a file is primarily intended for download and you want it to have a certain name when downloaded). An example of kebab case would be descriptive-variable-name.
+For easy reading, typing, and consistency use kebab case—lowercase letters with hyphens between words—for all file and directory names. This holds unless you have a specific reason for doing otherwise (e.g., due to a programming convention where underscores are preferred or because a file is primarily intended for download and you want it to have a certain name when downloaded). An example of kebab case would be `descriptive-variable-name`.
 
 See [URL Guidelines](#url-guidelines) for more information about best practices for URLs.
 
