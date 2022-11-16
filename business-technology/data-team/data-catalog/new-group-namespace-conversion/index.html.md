@@ -41,7 +41,7 @@ Once a new [group namespace](https://docs.gitlab.com/ee/user/group/index.html#na
 - Filtering by 'Free' or 'Paid' will reflect the group namespace's current status and does not capture the namespace's account status at the time of the adoption event.
 - These reports include group namespaces created by new users and by users on existing paid accounts.
 - Data may include namespaces created by spam users.
-- The data only reflects the GitLab.com product and does not report on [self-managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#why-you-probably-want-gitlabcom) usage.
+- The data only reflects the GitLab.com product and does not report on [self-managed](/features/) usage.
 
 ### Data Security Classification
 Much of the data within and supporting the Group Namespace Conversion Dashboard is [Orange](/handbook/security/data-classification-standard.html#orange) and should not be made publicly available. Care should be taken when sharing data from this dashboard to ensure that the detail stays within GitLab as an organization and that those appropriate approvals are given for any external sharing. In addition, when working with row or record level customer metadata care should always be taken to avoid saving any data on personal devices or laptops. This data should remain in [Snowflake](/handbook/business-technology/data-team/platform/#data-warehouse) and [Sisense](/handbook/business-technology/data-team/platform/sisensecdt/) and should ideally be shared only through those applications unless otherwise approved.
