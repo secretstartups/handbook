@@ -12,7 +12,7 @@ We will use a pre-defined template for NodeJS Express to show how Auto DevOps wo
 
 ### A. Create a new Node JS Express project with Auto DevOps
 
-1. Just like with previous labs, navigate to your group and select **New project**. 
+1. Create another **New project**. 
 1. Instead of making a blank project, select **Create from template**, and then select **Use template** next to **NodeJS Express**.
 1. In the **Project name** field, enter `Auto DevOps-test`
 1. Make sure the **Visiblity Level** is **Private**, and select **Create project**.
@@ -36,11 +36,11 @@ The most common way to run a pipeline is to commit to a branch of your projectâ€
      p GitLab welcomes you to #{title}
    ```
    
-1. Select **Commit...**.
-1. In the **Commit message** field, type `Update welcome message in index.pug`
-1. Leave the **Target branch** field set to `new-feature`
-1. Make sure the box for **Start a new merge request** is checked.
-1. Select **Commit**.
+1. **Create commit...**.
+1. For **Commit message**, type `Update welcome message in index.pug`
+1. Leave **Target branch** set to `new-feature`
+1. Check **Start a new merge request**.
+1. **Commit**.
 1. Add `Draft:` to the beginning of the text in the **Title** field to show that the merge request isnâ€™t ready to be merged yet.
 1. Assign the merge request to yourself.
 1. Leave all other fields at their default values and select **Create merge request** at the bottom of the page. 
