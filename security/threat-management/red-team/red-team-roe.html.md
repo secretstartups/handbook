@@ -68,6 +68,7 @@ Techniques used in [open-scope work](./#open-scope-work) include:
 - Accessing other data intended to be open to the public, such as logging platforms.
 - Attempting to log in to any publicly-exposed administrative interface with common and default credentials.
 - Attempting to validate credential data such as GCP service accounts, SSH keys, and API keys found in public locations.
+- Gathering open-source intelligence (OSINT) from an any source, including those not managed by GitLab.
 
 ### Stealth Operation Techniques
 

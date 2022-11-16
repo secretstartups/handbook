@@ -48,8 +48,6 @@ You can see a list of these activities in our [Rules of Engagement here](./red-t
 
 If these activities are detected by SecOps, they should be treated as potentially malicious and acted upon appropriately. Unless part of a planned operation, there should never be an assumption that suspicious behaviour is a Red Team activity.
 
-Conducting open-source intelligence (OSINT) gathering against non-GitLab managed assets, such as social media sites, is also considered open-scope and may be conducted outside of planned operations.
-
 If an open-scope activity uncovers a vulnerability that puts GitLab at immediate risk of compromise, SecOps will be notified via the official paging procedures.
 
 ## Red Team Technique Handover
