@@ -1,9 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Biggest risks
+title: Mitigating Concerns
 description: >-
-  On this page, we document the biggest risks and how we intend to mitigate
-  them.
+  On this page, we document some of our concerns
 ---
 
 ## On this page
@@ -15,28 +14,27 @@ description: >-
 ## Introduction
 We frequently get asked questions like:
 
-- What are the biggest risks to the company?
 - What are your top concerns?
 - What are your biggest fears?
 - What keeps you up at night?
 
-On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market.
+On this page, we document some of our concerns and how we address, or intend to address, them. 
 
-The list below has a rough ranking of risks. The items toward the top of the list have a higher probability of occurring and/or anticipated level of consequence if are to occur.
+Listed below are some of our concerns, and the order reflects how we currently view the concerns in terms of potential impact if a particular concern comes to fruition. We do not view the list as being static because we anticipate that the list, and potential impact of a concern, will change over time.
 
 ## 1. Security breach
 {:#security-breach}
 
 Our customers entrust their application code and data to GitLab.
-A security breach that erodes that trust is a significant risk.
+A security breach that erodes that trust is a significant concern.
 To ensure we safeguard our customers data, we:
 
 1. Maintain a strong [Security Operations](/handbook/security/#security-operations) team
 1. Hit our Application Security [remediation SLAs](/handbook/security/#severity-and-priority-labels-on-security-issues)
 1. Ensure our developers complete [secure code training](/handbook/security/#secure-coding-training)
 1. Regularly perform [internal application security reviews](/handbook/security/#internal-application-security-reviews)
-1. [Utilizing bug bounty programs](/handbook/security/#vulnerability-reports-and-hackerone) like HackerOne
-1. Conducting [threat intelligence](/handbook/security/#threat-intelligence)
+1. [Utilize bug bounty programs](/handbook/security/#vulnerability-reports-and-hackerone) like HackerOne
+1. Conduct [threat intelligence](/handbook/security/#threat-intelligence)
 1. Have an [internal Red Team](/handbook/security/#red-team)
 1. Enable our customers to secure their applications via our [Govern Stage](/handbook/product/categories/#govern-stage) categories and features
 1. Prioritize meeting the [security](https://about.gitlab.com/security/) requirements of team members, users, customers, and other community members
@@ -48,9 +46,9 @@ As more customers depend on GitLab.com instead of self-managed instances, the re
 Even customers who use a self-managed GitLab instance are affected by GitLab.com outages because of the negative effect of the organization's reputation.
 Outages not only cost customers money, they also affect [the company's valuation](https://fastinews.com/2019/09/05/slack-asks-investors-to-trust-that-outage-costs-were-a-one-time-issue/)
 and have [led to lawsuits](https://www.law360.com/articles/1201122/shareholders-slap-slack-with-suit-over-outage-credits).
-Disruption to GitLab.com's availability is a reputational risk.
+Disruption to GitLab.com's availability is a reputational concern.
 
-We mitigate this risk in a number of ways:
+We address this concern in a number of ways:
 * we prioritize [security and availability](/handbook/product/#prioritization) over velocity
 * we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 * we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
@@ -73,7 +71,7 @@ We tend to be much more cost effective because we build on open source, iterate 
 
 After GitLab core and home-grown DIY devops platforms, GitHub is GitLab's biggest competitor. After the Microsoft acquisition they have started to follow the single application strategy pioneered by GitLab.
 
-In order to counter this risk, GitLab will:
+In order to address this concern, GitLab will:
 1. While both GitLab and GitHub are [single application](/handbook/product/single-application/)s, GitLab has a much broader scope.
 1. GitLab is focused on the enterprise use cases, GitHub on open source projects.
 1. GitLab is independent of the hyper cloud providers and the best way to be multi-cloud.
@@ -107,7 +105,7 @@ We have large competitors and smaller ones.
 The larger competitors naturally get attention because we compete with them for large customers.
 According to the [innovators dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma): "the next generation product is not being built for the incumbent's customer set and this large customer set is not interested in the new innovation and keeps demanding more innovation with the incumbent product".
 So it is really important that we also focus on the needs of smaller users since the next generation product will first be used by them.
-If we don't do this we risk smaller competitors gaining marketshare there and then having the community and revenue to go up-market.
+If we don't do this smaller competitors may gain marketshare there and then have the community and revenue to go up-market.
 
 We serve smaller users by having:
 
@@ -118,7 +116,7 @@ We serve smaller users by having:
 ### Infrastructure Bundling
 {:#infrastructure-bundling}
 
-The largest cost in application delivery is typically infrastructure. Large hyper-scale infrastructure providers could bundle their own native DevOps platform usage with their infrastructure. There are a couple of industry trends which limit this risk:
+The largest cost in application delivery is typically infrastructure. Large hyper-scale infrastructure providers could bundle their own native DevOps platform usage with their infrastructure. There are a couple of industry trends which limit this concern:
 1. Businesses are increasingly avoiding infrastructure vendor lock-in and pursuing multi-cloud strategies.
 1. Infrastructure players have been slow to develop user friendly, complete DevOps platforms.
 
@@ -143,7 +141,7 @@ We should [identify and take action as early as possible](/handbook/leadership/u
 
 GitLab's success will create growth opportunities for team members inside *and* outside of the company.
 
-To mitigate the risk of key people leaving the company, we:
+To address the concern of key people leaving the company, we:
 1. Invest in a [talent development program](/handbook/people-group/talent-development-program/) to increase team member engagement
 1. Identify and proactively invest in team members who drive the success of our organization through our [talent assessment program](/handbook/people-group/talent-assessment/).
 
@@ -189,9 +187,9 @@ To make our [values](/handbook/values/) stronger, we:
 1. Find new ways to [reinforce our values](/handbook/values/#how-do-we-reinforce-our-values)
 
 It's possible  that a lack of diversity, one of our values, could lead to building a product that is not inclusive.
-To mitigate this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
+To address this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
 
-When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered to elaborate on this risk, GitLab co-founder and CEO Sid Sijbrandij offered the following context.
+When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered to elaborate on this concern, GitLab co-founder and CEO Sid Sijbrandij offered the following context.
 
 > If you lose the values that bind a company, you lose the ability to coordinate. For example, take our [Iteration](/handbook/values/#iteration) value. If one person is iterating, and they have a minimal, ugly feature that they wish to add, while another person who came from another company insists that 'This is nowhere near finished!,' you have a conflict.
 >
@@ -208,9 +206,9 @@ We work [Handbook First](/handbook/handbook-usage/#why-handbook-first).
 As we say,
 > Having a "handbook first" mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute.
 
-If we work handbook second, we risk losing these benefits.
+If we work handbook second, we may lose these benefits.
 
-To ensure we avoid this risk, we:
+To address this concern, we:
 1. Ensure all new hires read and understand the [communication guidelines](/handbook/communication/), as part of their [onboarding](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 1. Make the ability to coach team members to work handbook first a requirement for promotion to [Director or above](/company/team/structure/#director-group)
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
@@ -253,7 +251,7 @@ GitLab team members are distinctly positioned to be [recruited](https://www.pene
 
 Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
 
-At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy.
+A particular concern is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy.
 
 ## 13. Innovation and creativity are stifled
 {:#innovation-and-creativity-are-stifled}
@@ -269,7 +267,7 @@ and [wider community contributions per release](/handbook/marketing/performance-
 ## 14. Loss of great end-to-end experience
 {:#loss-great-end-to-end-experience}
 
-Due to the breadth of our product scope, and the fact that our product and engineering teams work in isolation in stages and groups, there is a risk that the end-to-end experience in the application will break down.
+Due to the breadth of our product scope, and the fact that our product and engineering teams work in isolation in stages and groups, there is a concern that the end-to-end experience in the application will break down.
 
 In order to avoid this negative outcome, we:
 * Have [research team interview personas](/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
@@ -280,7 +278,7 @@ In order to avoid this negative outcome, we:
 
 Making decisions on bad data will cause inefficiency, re-work and ultimately bad decisions. The lack of data for key parts of the business will put GitLab at a competitive disadvantage to other companies who do have similar data.
 
-We can mitigate this risk by:
+We can address this concern by:
 * Being honest and transparent about the quality of the data we are looking at (the Trusted Data framework is a great start)
 * Resisting making decisions on incomplete or not-trusted data. Being intellectually honest that the decision is ultimately a judgement call, as the data is not complete
 * Tracking down data inconsistencies, and restating old data - BUT not going back in time to post-judge previous business decisions made when data was insufficient
@@ -304,7 +302,7 @@ To make sure this is clear we:
 ## 17. Vulnerabilities from transparency
 {:#vulnerabilities-from-transparency}
 
-[Transparency](/handbook/values/#transparency) is a GitLab value. It is central to how we operate and our success as a company. It is important for employee recruitment and retention. It is also valued by GitLab customers, contributors, and the many folks who utilize GitLab's handbook to better their own businesses. While GitLab will continue to prioritize transparency, it must also promote "responsible" transparency as openly sharing information can have unintended consequences. To mitigate risks from irresponsible (or "[radical](/handbook/communication/top-misused-terms/#radical_transparency)") transparency, we:
+[Transparency](/handbook/values/#transparency) is a GitLab value. It is central to how we operate and our success as a company. It is important for employee recruitment and retention. It is also valued by GitLab customers, contributors, and the many folks who utilize GitLab's handbook to better their own businesses. While GitLab will continue to prioritize transparency, it must also promote "responsible" transparency as openly sharing information can have unintended consequences. To address concerns from irresponsible (or "[radical](/handbook/communication/top-misused-terms/#radical_transparency)") transparency, we:
 
 1. Are clear with team members on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/confidentiality-levels/#not-public) section of the handbook
 1. Execute fast and [efficiently](/handbook/values/#efficiency) to drive [results](/handbook/values/#results) and stay ahead of competitors who read our handbook. As Peter Drucker says, "Strategy is a commodity, execution is an art"
@@ -340,9 +338,9 @@ Therefore we:
 ## 20. Fork and commoditize
 {:#fork-and-commoditize}
 
-Since we are based on an open source product, there is the risk of fork and commoditize like what [AWS experienced with ElasticSearch](https://www.youtube.com/watch?v=G6ZupYzr_Zg).
+Since we are based on an open source product, there is the concern of fork and commoditize like what [AWS experienced with ElasticSearch](https://www.youtube.com/watch?v=G6ZupYzr_Zg).
 
-This risk is reduced, because we're application software instead of infrastructure software.
+We address this concern because we're application software instead of infrastructure software.
 Application software is less likely to be forked and commoditized for the following reasons:
 
 | Dimension of software   | Application software           | Infrastructure software                       | Reason                                                               |
@@ -365,7 +363,7 @@ What we need to do is:
 An economic downturn will likely prolong our sales cycle.
 Our opportunity should still be there since GitLab saves companies money on licenses and integration effort.
 
-In order to counter this risk, GitLab:
+In order to address this concern, GitLab:
 - Maintains a healthy amount of cash on our balance sheet
 - Makes short term commitments so we can correct course easily
 - Is as small as we can be, while still being able to execute our product vision
@@ -375,7 +373,7 @@ In order to counter this risk, GitLab:
 
 As a remote first company, we have the tools and culture to work from home and be productive during this unprecedented time of COVID-19.
 
-Here are the things we can do at GitLab counter this risk:
+Here are the things we can do at GitLab address this concern:
 - Empower our team members to [take care of themselves and their family](/handbook/total-rewards/benefits/covid-19/#covid-19-medical-leave-policy) so we keep them safe
 - When speaking with customers, lead with empathy and help support their transition to remote
 - Be the example for how to be even more effective as a remote company
@@ -385,7 +383,7 @@ Here are the things we can do at GitLab counter this risk:
 
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
 
-To ensure we avoid this risk we:
+To address this concern we:
 1. Built a highly capable [E-Group](/company/team/structure/#e-group) and [Board of Directors](/handbook/board-meetings/)
 1. Actively discourage a cult of personality around our CEO
 1. Have the CEO take normal vacations
@@ -400,7 +398,7 @@ This can cause the following problems:
 1. With growing middle management, people start focusing on being liked by others more than results because it's hard to attribute results to a specific manager.
 1. When there are more middle managers, it's harder to attribute success to the right person. The manager takes the credit for success but blame gets pushed downwards.
 1. There is a natural tendency to focus on underperforming team members and help them improve at the cost of focusing on your highest performers and making them more successful.
-1. It's lower risk to give all team members the same increases, because you don't have to defend the logic behind it and no goal setting is needed.
+1. It lowers friction that may arise if giving all team members the same increases, because you don't have to defend the logic behind it and no goal setting is needed.
 1. A mistake can be more detrimental for your career than a good decision can help it, because mistakes draw more attention than success and mistakes are easier to attribute to a person.
 1. The more layers of management there are, the further the distance from the average individual to the customer.
 
@@ -409,8 +407,8 @@ Each one of the problems above has a specific solution:
 1. Drive praise downward in the organization. When something is a success, attribute that success to the DRI. It can be as easy as telling someone they did a good job.
 1. Focus disproportionately on the best performers by explicitly identifying the high performance. Leaders need to judge whether investment can help bring someone up to a higher level. If an investment of time adds value to the team member, the team, and the organization, invest in the team member. A meritocracy means that we invest in folks who are performing.
 1. Raises should not be spread evenly (there should be variability and dispersion).
-1. Incent folks to take calculated risks. Make failure acceptable. There is a thin line between incentivizing risk and recklessness, so draw the line carefully. For example, when [team-member1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
-1. Focus on [customer centricity](/handbook/leadership/biggest-risks/#loss-of-customer-centricity).
+1. Incentivize folks to take calculated action. Make failure acceptable. There is a thin line between incentivizing action and recklessness, so draw the line carefully. For example, when [team-member-1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
+1. Focus on [customer centricity](#loss-of-customer-centricity).
 
 ## 24. Technical debt ineffectively managed
 {:#technical-debt-ineffectively-managed}
@@ -424,7 +422,7 @@ Otherwise, we have a [clear and consistent prioritization framework across engin
 ## 25. Enterprise product management
 {:#enterprise-product-management}
 
-While building enterprise software, we run the risk of optimizing the software for the buyer only while creating a bad experience for the end-users of the software.  This is seen in the [Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12)
+While building enterprise software, it's possible to optimize the software for the buyer while creating a subpar experience for the end-users of the software. This is seen in the [Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12)
 
 In order to prevent this effect, we will:
 * Create and maintain [UX scorecards](/handbook/product/ux/ux-scorecards/) and interviews from UX
@@ -435,7 +433,7 @@ In order to prevent this effect, we will:
 
 Not following our acquisition strategy, not rebuilding what we acquire, could lead to poorly integrated acquisitions.
 As we continue to grow and potentially acquire additional companies, we want to rebuild their product inside of GitLab to avoid needing to maintain different code bases and applications.
-In order to manage this risk:
+In order to address this concern:
 * Follow our [acquisition strategy](/handbook/acquisitions/#acquisition-strategy)
 * For Engineering, the deciding factor is whether the senior-most technical stakeholder--who is not a founder--is on board or not. Because this person will either get the engineers on board or foment resistance.
 
@@ -459,7 +457,7 @@ Projects in Sales are worked on by Sales.
 Projects in Marketing are worked on by Marketing.
 This could lead to functional silos, which could lead to loss of efficiency, duplicative work, or miscommunication.
 
-We mitigate functional silos by encouraging cross-functional communication and relationship-building through:
+We address functional silos by encouraging cross-functional communication and relationship-building through:
 * Being [public by default](/handbook/values/#transparency), enabling all functions to have simultaneous visibility into [OKRs](/company/okrs/), [direction](/direction/), issues, and milestones within the [handbook](/handbook/).
 * [Coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), including letting [Donut](/company/culture/all-remote/informal-communication/#the-donut-bot) help intro you to team members
 * [Social Call](/handbook/communication/#social-call) (formerly Company / Take a Break Call)
@@ -471,9 +469,9 @@ We mitigate functional silos by encouraging cross-functional communication and r
 
 Collecting as much data as possible is great. But then reporting on all of that data because you have it can lead to sub-optimal results, as team members won't know what is important or what to optimize for.
 
-[This article](https://www.cfo.com/analytics/2016/04/obsession-metrics-killing-company/) explains some of the risks of an over-obsession on metrics and reporting.
+[This article](https://www.cfo.com/analytics/2016/04/obsession-metrics-killing-company/) explains some of the downsides of an over-obsession on metrics and reporting.
 
-We can mitigate this risk by:
+We can address this concern by:
 * Picking a small set of most important metrics (KPIs), based on Trusted Data, that represent our best view of how the company and a function are doing (and what they should be focused on)
 * Using easily understood metrics, that are directly tied to results desired (that can't be gamed)
 * Automating reporting as much as possible
@@ -482,4 +480,4 @@ We can mitigate this risk by:
 ## 31. Insufficient Investment in Innovation
 {:#insufficient-investment-in-innovation}
 
-We've seen other companies struggle when they have been unwilling or unable to invest in future product innovations or disrupt current offerings to meet future demands. We mitigate this by allocating a portion of R&D budget to future innovations and exploring new opportunities through [Single-Engineer Groups](/company/team/structure/#single-engineer-groups). [Iteration](/handbook/values/#iteration) helps us to place small bets and justify future investment after seeing initial momentum.
+We've seen other companies struggle when they have been unwilling or unable to invest in future product innovations or disrupt current offerings to meet future demands. We address this by allocating a portion of R&D budget to future innovations and exploring new opportunities through [Single-Engineer Groups](/company/team/structure/#single-engineer-groups). [Iteration](/handbook/values/#iteration) helps us to place small bets and justify future investment after seeing initial momentum.

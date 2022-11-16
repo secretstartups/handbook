@@ -339,6 +339,6 @@ Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/
 
 Learn more on GitLab's view of [being a public company](/handbook/being-a-public-company/).
 
-## Biggest risks
+## Mitigating Concerns
 
-We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/). Many of our [values](/handbook/values/) help to mitigate some of these risks.
+We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our [values](/handbook/values/) help to mitigate some of these concerns.
