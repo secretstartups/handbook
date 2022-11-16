@@ -136,9 +136,9 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 * Related topic: At GitLab, we want to avoid an environment where people feel alienated for their religious or political opinions. Therefore, we encourage GitLab team members to refrain from taking positions on specific [religious or political issues](/handbook/values/#religion-and-politics-at-work){:data-ga-name="religion or politics at work"}{:data-ga-location="body"} in public company forums (such as on the GitLab Contribute stage or Slack channels) because it is easy to alienate people that may have a minority opinion. It is acceptable to bring up these topics in social contexts such as coffee chats and real-life meetups with other coworkers, but always be aware of cultural sensitivities, exercise your best judgement, and make sure you stay within the boundaries of our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d){:data-ga-name="code of business and ethics"}{:data-ga-location="body"}. We always encourage [discussion and iteration](/handbook/values/#anyone-and-anything-can-be-questioned){:data-ga-name="discussion and iteration"}{:data-ga-location="body"} on any company policy, including this one.
 
-### Risks
+### Mitigating Concerns
 
-We acknowledge the risks to achieving our goals. We document them in our [biggest risks page](/handbook/leadership/biggest-risks/){:data-ga-name="biggest risks"}{:data-ga-location="body"}.
+We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](/handbook/leadership/mitigating-concerns/){:data-ga-name="mitigating concerns"}{:data-ga-location="body"}.
 
 ## Why is this page public?
 
