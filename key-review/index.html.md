@@ -58,7 +58,7 @@ Functions that have these meetings are:
 1.  Development (Christopher Lefelhocz - function DRI) scheduled 6 times per year
 1.  Quality (Mek Stittri - function DRI) scheduled 6 times per year
 1.  UX (Christie Lenneville - function DRI) scheduled 6 times per year
-1.  Security (Johnathan Hunt - function DRI) scheduled 6 times per year
+1.  Security (Robin Schulman - function DRI) scheduled 6 times per year
 1.  IT (Craig Mestel - function DRI) scheduled once per quarter
 
 
