@@ -136,6 +136,9 @@ If any of the following are true, it would be best to engage an Incident Manager
 1. There is a S1/P1 report or security incident.
 1. An entire path or part of functionality of the GitLab.com application must be blocked.
 1. Any unauthorized access to a GitLab.com production system
+1. Two or more S3 or higher incidents to help delegate to other SREs.
+
+To engage with the Incident Manager run `/pd trigger` and choose the `GitLab Production - Incident Manager` as the impacted service.
 
 #### What happens when there are simultaneous incidents?
 
@@ -143,9 +146,9 @@ Occassionally we encounter multiple incidents at the same time. Sometimes a sing
 
 When there are multiple incidenets and you decide that additional incident manager help is required, take these actions:
 1. Post a slack message in #imoc_general as well as #incident-management asking for additional Incident Manager help.
-1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in Pagerduty.  
+1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in Pagerduty.
 
-If a second incident zoom is desired, choose which incident will move to the new zoom and create a new meeting in zoom.  Be sure to edit the channel topic of the incident slack channel to indicate the correct zoom link. 
+If a second incident zoom is desired, choose which incident will move to the new zoom and create a new meeting in zoom.  Be sure to edit the channel topic of the incident slack channel to indicate the correct zoom link.
 
 #### Weekend Escalations
 
@@ -193,7 +196,7 @@ During a verified Severity 1 Incident the IM will page for Infrastructure Leader
 1. Overall evaluation of the incident and further validation of Severity.
 1. Assistance with further support from other teams, including those outside of Engineering (as appropriate)
 1. Posting a notice to e-group slack channel. This notice does not have to be expedited, but should occur once there is a solid understanding of user impact as well as the overall situation and current response activities.  The e-group notice should be in this format
-```     
+```
 :s1: **Incident on GitLab.com**
 **— Summary —**
 (include high level summary)
@@ -203,7 +206,7 @@ During a verified Severity 1 Incident the IM will page for Infrastructure Leader
 (bullet list of actions)
 **— Production Issue —**
  Main incident: (link to the incident)
- Slack Channel: (link to incident slack channel) 
+ Slack Channel: (link to incident slack channel)
 ```
 1. After posting the notice, continue to engage with the incident as needed and also post updates to a thread of the e-group notification when there are material/significant updates.
 
@@ -645,4 +648,3 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
 
 [related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
-
