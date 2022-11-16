@@ -411,6 +411,16 @@ The cut-off date to determine whether to assess team members at the pre-promotio
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**. 
 
+## Transfers During The Assessment Period
+
+Many team members take advantage of internal mobility opportunities we have at GitLab and change role, departments, and sometimes even divisions during the course of the year. 
+
+When assessing team members who have switched teams or changed roles throughout the year, managers should:
+
+- Ensure they gather feedback from the previous manager on performance as well
+- Ensure the official Talent Assessment rating reflects the _full year_ performance and growth potential assessment (previous role and current role) and provide holistic feedback reflective of both positions 
+- Provide team member feedback on how they're doing in their current role to ensure they're set up for success, and aware of feedback moving forward in their current position 
+
 ## Best Practices for Communicating Performance/Growth Potential Factors
 
 After calibration sessions are done and performance and growth potential factors are determined, it’s time to communicate the final results with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance factors until approval through the E-group level is communicated.** Having an extensive conversation on performance and growth potential with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
