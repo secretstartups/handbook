@@ -105,6 +105,11 @@ Note that we do not generate a quote, or fulfill an order, without an end user c
 
 Once the order is invoiced and the customer accepts the EULA (see below), they are able to download their GitLab license key. Note, Partners do not receive the license key, it is sent directly to the customer.
 
+### Customer Support, Subscription Changes and Email Updates
+If you are working with a customer and need help with a technical issue for a GitLab product, you can submit a support ticket on behalf of your customer by clicking on Submit a Technical Support Ticket on behalf of your customer on the Support tab. Ensure you follow all instructions and read corresponding recommended handbook pages in the form prior to submitting, or it could delay Support’s response.
+
+To update an email address on a customer’s subscription, as well as request a license resend, submit a support request as mentioned above. Any subscription changes, even in addition to support requests, need to be done through the ticket submission process.  
+
 ### Execute the GitLab EULA
 
 All orders require an executed [EULA](https://about.gitlab.com/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
