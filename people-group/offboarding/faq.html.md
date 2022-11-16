@@ -53,7 +53,7 @@ The following can be used as a guide on what actions could need to be taken befo
 
 #### Do I need to wipe my laptop?
 
-A laptop wipe/reset is **required** once you have been offboarded. Please ensure to set up a meeting with the IT OPs team on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
+A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
 
 #### Can I purchase my laptop from GitLab?
 
