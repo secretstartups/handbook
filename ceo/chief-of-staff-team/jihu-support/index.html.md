@@ -234,10 +234,27 @@ At times, product managers are asked to provide feedback or directly respond to 
 
 If product managers need help connecting with JiHu counterparts, ping the [Product DRI](#rd-roles) in [#jihu-product](https://gitlab.slack.com/archives/C01S8CFF7HR).
 
+#### Milestone Product Planning Process with JiHu
+
+To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
+
+1. JiHu will create a milestone planning issue in the [gitlab-jh-enablement project](https://gitlab.com/gitlab-jh/gitlab-jh-enablement), such as this [example](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/269). JiHu typically provides the plan 2 weeks before the 18th of the month. 
+1. The Product DRI will facilitate awareness and encourage collaboration via the [JiHu Milestone Review Template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Monthly-JiHu-Milestone-Review.md)
+1. Individual product manager and their engineering counterparts will provide feedback to JiHu as needed
+
+##### Large Product Iniative Planning
+
+In the interest of creating IP, JiHu will take on larger product iniatives that spans multiple milestones. This type of product initiatives take more coordination. JiHu and GitLab representatives regularly stay in sync regarding these product plans. The goal is to identify large iniatives early so that the appropriate DRIs can be looped in. One example of this type of product iniative is the [Visual Builder for the pipeline editor](https://gitlab.com/groups/gitlab-org/-/epics/4499)
+
 #### What product managers are not responsible for
 
 - Just like [PMs aren't the arbiters of community contribution](/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
 - Product managers are not responsible for JiHu product decisions, such as tiering, pricing, upstream/downstream contributions
+- When reviewing JiHu milestone planning: 
+   1. Be aware of JiHu's plans in your product area. 
+   1. Provide guidance in accordance with GitLab's product direction. 
+   1. Help avoid surprises and help JiHu be successful. If feedback will take some time, please provide a heads-up. 
+   1. It is not necessary to provide feedback if there's no feedback to give. JiHu contribution can be the same as other community contributions
 
 ### Differentiating Proprietary JiHu Features
 
