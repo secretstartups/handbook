@@ -15,6 +15,7 @@ The Principal Engineer is a [grade 9](/handbook/total-rewards/compensation/compe
 
 Share our values, and work in accordance with those values.
 * Collaborates and makes proposals across several teams on their engineering work, and helps their team members make informed decisions in alignment with the sub-department strategic plans.
+* Proactively identifies opportunities to reuse or generalize existing services and product features. Avoids duplication of effort by encouraging collaboration.
 * Exposes technology and organizational needs throughout their department.
 * Teach, mentor, grow, and provide advice to other domain experts, individual contributors, across several teams in their sub-department.
 * Play a central role in technical, business, and organizational contributions affecting the sub-department/department.
