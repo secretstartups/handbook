@@ -99,6 +99,14 @@ Otherwise, the NFR options on the internal request form only grant the Partner H
 
 In your request, please provide the business justification for why the partner needs NFR users or licenses in excess of the program allotment and the GitLab Support team will let you know what is needed to move forward. Director-level approval may be required. Not all requests will be granted. The CAM or SA should update the Account Notes section of the partner account in Salesforce with any pertinent details for special NFR considerations.
 
+## Customer Support, Subscription Changes and Email Updates
+When customers purchase through a partner, it is the partner's responsibility to ensure a ticket is submitted for any changes or support needs. 
+
+If a partner is working with a customer and they need help with a technical issue for a GitLab product, they can submit a support ticket on behalf of the customer by clicking on `Submit a Technical Support Ticket on behalf of your customer` on the Support tab. 
+
+To update an email address on a customer’s subscription, as well as request a license resend, the partner must submit a support request as mentioned above. Any subscription changes, even in addition to support requests, need to be done through the ticket submission process. 
+
+More information can be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=404715).
 
 ## Creating a Partner Portal Login
 _This information can also be found in the Partner Guide [internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)_
