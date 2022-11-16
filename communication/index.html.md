@@ -526,44 +526,48 @@ Meetings are incredibly expensive since they require synchronous time.
 The most common meeting problems can all be addressed by following the above guidelines around scheduling meetings.
 Some of the most common meetings problems are outlined below:
 
-| Problem                                                                             | Solution                                                                                                 |
+| Problem | Solution |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Present instead of Q&A                                                              | Pre-record presentations on YouTube, so meetings are only Q&A                                            |
-| Meetings set up for or default to brainstorming                                     | People should default to making thoughtful proposals async and building upon them in meetings, if needed |
-| No agenda with edit rights for everyone                                             | Ensure that every meeting has an agenda and is available for everyone to edit                            |
-| People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting                             |
+| Present instead of Q&A | Pre-record presentations on YouTube, so meetings are only Q&A |
+| Meetings set up for or default to brainstorming | People should default to making thoughtful proposals async and building upon them in meetings, if needed |
+| No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
+| People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
 ## Smart note-taking in meetings
 
-Note taking helps us to work with people asynchronously as team members can add their thoughts to an agenda in advance of a meeting and understand what was discussed if they cannot attend. It also offers a record of what was discussed that can later be referenced. While it may not be feasible to capture all words said in a meeting, focus on noting speakers and their key points. Extensive note-taking should not happen at the expense of correct note-taking. At the end of the meeting, try to clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+Note taking helps us to work asynchronously. Team members can add thoughts to an agenda in advance of a meeting and understand what was discussed if they cannot attend. It also offers a record of discussion.
 
-While a designated person may be the primary person responsible for note-taking in a specific meeting, all team members should feel empowered to chip in. Note-taking can be a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
+Consider the following best practice when taking notes in meetings:
 
-Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
-
-In a conversation, a person may ask for folks to stop taking notes. When this happens, note-taking should stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. When you suspect that note-taking should resume, but it has not been verbally confirmed, please ask for the confirmation before typing.
+1. Focus on noting speakers and their key points over capturing all words said. Extensive note-taking should not happen at the expense of correct note-taking. 
+1. At the end of the meeting, clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+1. Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
+1. If someone requests folks to stop taking notes, stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. Ask for the confirmation before typing before you resume note-taking.
+1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for audio-only playbacks.
+1. Assume self-note-taking if a designated note taker is not listed in the document. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). Note-taking is a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
+1. Ask others to scribe answers in real-time to allow the person who asked the question to focus on the answer. Touch up the answer when the conversation has moved on to something less relevant.
 
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
 ## No presenting in meetings
 
-If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is [doing the presentation](/handbook/communication/#common-meeting-problems) during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch YouTube in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings.
+[Presenting](/handbook/communication/#common-meeting-problems) during meetings requires valuable synchronous time. Instead, recorded presentations make content accessible, prevent confusion, and increase participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Remember it is not required to have a presentation or have a pre-recorded presentation. 
+
+In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/32GJ2ehUBhs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), and attach it to the meeting agenda. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides.
+**Pre-recorded presentations enable:**
 
-**Pre-recorded presentations enable the following:**
-
-- Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
-- Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting.
+- Allows time for Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables attendees to have their questions answered without running out of time.
+- Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows a distributed team to consume the presentation asynchronously.
 - Strengthens [self-service and self-learning](/handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
 - Standardizes the approach to meetings across the organization.
-- Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility.
-- Recordings can be sped up and rewound by team members watching on their own time.
-- Encourages and enables greater participation from [neurodiverse team members](/handbook/values/#embracing-neurodiversity) who might take added time to process the presentation and reflect on their questions before asking them.
+- Includes transcripts that can boost content value, help team members focus, and increase accessibility.
+- Flexibility in viewing using rewind and playback speed adjustments.
+- Encourages and enables greater participation from [neurodiverse team members](/handbook/values/#embracing-neurodiversity) who might take added time to process and reflect before asking questions.
 - Allows for selective watching of presentation material for a certain period.
 
 There are times when presenting during a meeting is needed. This may occur when adding more context to a specific topic on slides. If this is the case, consider the following:
@@ -571,6 +575,12 @@ There are times when presenting during a meeting is needed. This may occur when 
 - A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async.
 - Include an async Q&A doc for team members who did not attend the presentation.
 - Ensure the async Q&A doc is linked in the YouTube description.
+
+**Best Practices for Pre-Recorded Presentations**
+
+1. Use Zoom to create a pre-recorded video presentation. 
+1. Post the recrding to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda. 
+1. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. 
 
 ## Meeting introduction guidelines
 
@@ -719,12 +729,6 @@ Leave the no headphones to:
 Further headphone advice can be found in the [home office setup](/company/culture/all-remote/workspace/#headphones) guide.
 
 If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html), that is fine, but please ensure the microphone is active.
-
-### Note taking
-
-- [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
-- If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/).
-- Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 
 ### You are the manager of your attention
 
