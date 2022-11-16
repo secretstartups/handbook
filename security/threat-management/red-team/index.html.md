@@ -48,7 +48,7 @@ You can see a list of these activities in our [Rules of Engagement here](./red-t
 
 If these activities are detected by SecOps, they should be treated as potentially malicious and acted upon appropriately. Unless part of a planned operation, there should never be an assumption that suspicious behaviour is a Red Team activity.
 
-If an open-scope activity uncovers a vulnerability that puts GitLab at immediate risk of compromise, SecOps will be notified via the official paging procedures.
+When vulnerabilities are manually discovered during open-scope work, an issue will be opened inside the [Red Team Operations issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-operations/-/issues) using the "Open Scope Finding" template. If immediate action is required, we will [contact SIRT](https://about.gitlab.com/handbook/security/#-contacting-the-team) and reference the issue. For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
 
 ## Red Team Technique Handover
 
