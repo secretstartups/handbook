@@ -80,5 +80,5 @@ In some rare situations, a member of the Federal AppSec team may choose **not** 
 In the event that the release cannot be certified:
 
 1. Write a comment on the release certification issue briefly explaining the reasoning behind choosing not to certify release
-1. Ping security leadership (`@JohnathanHunt` and `@laurence.bierner`) on the release certification issue in a reply to the comment made above
+1. Ping security leadership (`@laurence.bierner`) on the release certification issue in a reply to the comment made above
 1. Announce in the `#sec-appsec` Slack channel that the release cannot be certified and link to the release certification issue
