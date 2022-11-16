@@ -405,7 +405,7 @@ You may also want to review the [GitLab Video Playbook](https://about.gitlab.com
   * Share slides in advance when possible and at the beginning of your session. This can help people follow along in the event of any technical difficulties.
 * Wear camera-ready colors- [see doc](https://docs.google.com/document/d/1rPvewsTWm8uqGv-6Wr4-_j4ZmBVjL75fU5_YGV98d24/edit?ts=5e74125a)
 * Remember your background: this will be recorded and published online.
-    * Recommend using GitLab branded virtual backgrounds. Please refer to [New Background GitLab Connect Day](https://drive.google.com/drive/folders/1krLvehY7j19ZHZeiSYLNYq82k2Nbgrp-?usp=sharing) for examples.
+    * Recommend using [GitLab branded virtual backgrounds](https://about.gitlab.com/press/press-kit/).
 * Slides: use a large clear font. You do not know what device the viewer will be on.
 * Don’t move around a lot.
 * Look at the camera.
