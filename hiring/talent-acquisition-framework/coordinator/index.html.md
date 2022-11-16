@@ -178,7 +178,10 @@ Make yourself a reminder in Greenhouse to initiate the NYC Step 2 background che
 
 **PIAA**
 
-In the form, you'll find a question that informs the candidate that they will be required to sign an Employee Invention Assignment Agreement. They are asked for invention disclosures. If they state "none" or "n/a", you can skip this step. If the candidate discloses any outside activities, CES will notify the People Connect Team by emailing people-connect@gitlab.com with the link to the candidate's Greenhouse profile, who the hiring manager is, and a screen shot of the disclosed information. Please remember to put the name of the candidate in the email subject line. People Connect will follow our standard process per the [internal handbook](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Reach out to legal_employment@gitlab.com with any questions about things written in a PIAA.
+In the form, you'll find a question that informs the candidate that they will be required to sign an Employee Invention Assignment Agreement. They are asked for invention disclosures. If they state "none" or "n/a", you can skip this step. If the candidate discloses any outside activities, CES will take the following steps: 
+1. Email the Team through Greenhouse using the template `CES - PIAA Disclosed`.
+2. Fill out the email template with the hiring managers name and a screen shot of the disclosed information. This email will be sent to the People Connect Team at  people-connect@gitlab.com. **Please rember to put the name of the candidate in the email subject line.** 
+People Connect will follow our standard process per the [internal handbook](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Reach out to legal_employment@gitlab.com with any questions about things written in a PIAA.
 
 **Outside Work**
 
@@ -188,7 +191,7 @@ If the candidate writes "none" or "n/a", you can skip this step. If a candidate 
 3. Await approval from the Hiring Manager and/or TMR. Once you have approval, take a screenshot of the email conversation (make sure to capture both the work disclosed and the approval from the HM and/or TMR). Save screenshots to a folder on your desktop. 
 4. Once the candidate has been marked as hired and their profile has been created, CES will need to upload the approval screenshots to WorkDay. In WorkDay, search the candidate's name then navigate to the "Personal" tab. Click on "Documents" and then "Add". Upload the correct screenshots, under the "Document Category" drop down, select "Contract & Changes - Confidential (No Employee View), click "Upload". 
 
-See more information about this process [here](/people-group/contracts-probation-periods/#approval-for-outside-activities). 
+See more information about this process [here](/handbook/people-group/contracts-probation-periods/#approval-for-outside-activities). 
 
 **TMRG Conversations**
 
