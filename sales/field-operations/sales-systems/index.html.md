@@ -27,6 +27,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 *  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
 *  [Salesforce Configuration Documentation](/handbook/sales/field-operations/sales-systems/salesforce-config/)
 *  [Lead Source Master Data Set](/handbook/marketing/marketing-operations/#initial-source)
+*  [Salesforce Dataloader Install/Uninstall/Upgrade Instructions](dataloader-installation.html)
 
 ## Working with us
 * [Sales System Agile Board](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
@@ -270,8 +271,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 - Prior to being permitted to utilize the Data Loader all users must review the [Data Loader Documentation provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm)
    - Key Highlights: 
       - [Data Loader Configuration](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/configuring_the_data_loader.htm) especially as it pertains to batch size and to working with Null values. This should be reviewed and confirmed prioir to every Data Upload 
-- In order to install Data Loader follow the [Instructions provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_install_general.htm)
-   - If you prefer video instructions on how to install Data Loader you can watch [this installation video](https://www.youtube.com/watch?v=vZOsb9gvFu4) which summarizes the process for windows (The process is the same for Macs)
+- To install, uninstall, or upgrade Dataloader, [follow our instructions](dataloader-installation.html)
 
 ### SFDC Development Guidelines
 
