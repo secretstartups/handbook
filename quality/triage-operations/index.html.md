@@ -525,27 +525,14 @@ reporting and milestone transition. This is handled by
 
 ### Community-related scheduled workflow automation
 
-#### Apply `Accepting merge requests` label to unassigned issues that have a milestone
-
-When milestone is present on an issue but there is not an assignee. The milestone being present indicates the product team has reviewed and scheduled the issue. This encourages open source contributions for planned features.
-
-Issues with the `~Deliverable`, `~workflow::blocked`, `~workflow::production`, `~workflow::in review`, `~workflow::in dev`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::ready for design`, `~workflow::verification`, `~fuzzing::protocol`, `~fuzzing::coverage` labels are excluded from this rule.
-
-* Automation conditions:
-  - Issues with a milestone but no assignee
-* Automation actions:
-  -  The `Accepting merge request` label is applied
-* Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/64705>
-* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
-
 #### Remove `Seeking community contributions` from issues with an assignee
 
 When an issue is assigned, it shouldn't accept any new contribution to prevent duplicated work.
 
 * Automation conditions:
-  - Issues with an assignee and the `Seeking community contributions` or `Accepting merge requests` label
+  - Issues with an assignee and the `Seeking community contributions` label
 * Automation actions:
-  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+  - The `Seeking community contributions` label is removed
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Remove `Seeking community contributions` from issues with an invalid workflow label
@@ -555,17 +542,17 @@ When an issue has the `Seeking community contributions` label set, but also an i
 * Automation conditions:
   - Issues with the `Seeking community contributions` and one of the `workflow::blocked`, `workflow::design`, `workflow::planning breakdown`, `workflow::refinement`, `workflow::verification` labels
 * Automation actions:
-  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+  - The `Seeking community contributions` label is removed
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Remove `Seeking community contributions` from all merge requests
 
-It doesn't make sense to have `Seeking community contributions` or `Accepting merge request` set on merge requests.
+It doesn't make sense to have `Seeking community contributions` set on merge requests.
 
 * Automation conditions:
-  - Merge requests with the `Seeking community contributions` or `Accepting merge requests` label
+  - Merge requests with the `Seeking community contributions` label
 * Automation actions:
-  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+  - The `Seeking community contributions` label is removed
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Label community contributions
