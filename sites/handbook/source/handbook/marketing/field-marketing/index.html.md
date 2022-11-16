@@ -139,7 +139,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 ## Conference (Virtual)
 * [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#conference)
-* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Sponsored_Virtual_Conference)
+* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Conference)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#conference-virtual)
 
 ## Conference (Hybrid)
@@ -173,7 +173,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 ## Self-Service Virtual Event With or Without Promotion
 * [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#self-service-virtual-event)
-* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=self_service_event)
+* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Self_Service_Event)
 * [Epic Code (without promotion)](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-without-promotion)
 * [Epic Code (with promotion)](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-with-promotion)
 
@@ -401,9 +401,23 @@ Please see process [here](/handbook/marketing/virtual-events/#calendar-reschedul
 
 # Process to Close Marketo Landing Pages and Landing Page Forms
 
-The FMC will track all open Marketo LPs and will be responsible for requesting the LP be closed once the event occurs. The FMC will also be responsible for closing LPs if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well. If your campaign type is not listed below and your request is urgent, please reach out to Marketing Ops to help close the page.
+## Marketo Asset Expiration
 
-- The FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will specify if the page should be shut down completely or if the request is to close the LP form (to no longer allow registrations) and to update the verbiage at the top of the page (i.e. to specify if the event has occurred, is at capacity, etc.). Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Verticurl remove the listing.The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+As of Nov 2022, when applicable, please follow the instructions found on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) handbook page to set expirations on program assets during program set up. 
+
+## Options for Closing LPs and LP Forms
+
+There are two options for closing Marketo landing pages:  
+
+1. Closing the LP registration form (which removes the registration form from the LP so registrations can no longer be accepted) and updating the LP to explain why the registration form is no longer available (either the event has reached capacity or the event has occurred).
+2. Closing the entire LP. If someone clicks on the LP link, it will take them to our about.gitlab.com page instead of a registration LP. This option is now done automatically during the [Marketo Asset Expiration process](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration). Asset expiration occurs 4 weeks after the event date, so it is important to close the registration form and update the LP verbiage once an event reaches capacity or has occurred so the LP does not remain open and active during this time.
+
+The FMC will track all open Marketo LPs and will be responsible for requesting the LP form be closed once the event occurs or if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well. If the campaign type is not listed below and the request is urgent, please reach out to Marketing Ops to help close the registration form.
+
+To close the LP registration form, the FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Verticurl remove the registration form and will provide Verticurl specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Verticurl remove the listing. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+
+## If an event has reached capacity
+- The FMC will follow the above instructions to close the LP regisrtation form and update the verbiage to specify the event has reached capacity.
 - If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Verticurl to unschedule the send before closing the issue. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
 - The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
 - If an intelligent nurture email request was opened, the FMC will ping `@dambrold` in the issue to remove the email from the nurture streams.
@@ -419,8 +433,55 @@ Thank you for your interest in this [insert event type]. This event has conclude
 
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
-## Adding a Registrant after Marketo LP is Closed
-If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions.
+## Closing a Marketo LP Form
+These instructions explain how to close a Marketo LP form and how to update the LPs verbiage at the top of the page. The page and the information on it will still be visible to visitors, but there will no longer be a form to fill out for registration.
+
+### Closing a Self-Service Marketo LP Form
+
+See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration-1).
+
+### Closing a Webcast Marketo LP Form
+
+See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page).  
+
+### Closing a Workshop Marketo LP Form
+
+See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).  
+
+## Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
+
+We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below regional workshop/demo pages. The GitLab events page listings require an MR to add new events (see instructions [here](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When a workshop LP is created by Verticurl, they will add to the appropriate regional workshop/demo page once the LP is approved. When a workshop is completed and the FMC requests that Verticurl closes the LP, Verticurl will also remove the listing from the regional workshop/demo page. These Verticurl to do items are listed in the [Marketo LP issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_mkto_landing_page.md).
+
+- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
+- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
+- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
+
+### Regional Workshop Demo Pages - Instructions for Verticurl
+
+Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) and in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1788) to add and remove postings on the regional workshop demo pages. Verticurl is only responsible for adding/removing events for the AMER and EMEA pages. The Campaigns Team will manage the APAC pages.
+
+- [AMER Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7547B2) - Verticurl
+- [EMEA Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7582A1LA1) - Verticurl
+- [APAC Workshop/Demo Page - General](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
+- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team  
+
+For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
+
+## Closing a Marketo LP 
+These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page. If you have set up [asset expiration](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) previously, this step will occur automatically.
+
+- Sign into Marketo
+- Click into the Marketo program for the landing page you wish to close
+- Click into `Assets`
+- Click `Registration Landing Page`
+- At the top of the page click `Landing Page Actions`
+- In the drop down list click `Unapprove` 
+- Click the orange `Unapprove` button in the pop up box
+- Go to your landing page URL and make sure the landing page is no longer active (the site that should pop up is `about.gitlab.com`)
+- Go to the `01a or 01b Registration Flow and deactivate the smart campaign
+
+## Adding a Registrant after Marketo LP Reg Form is Closed
+If you have closed a Marketo LP registration form because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions.
 
 **IMPORTANT NOTE:** Field Marketing does not have access for the below actions. Please ping Marketing Operations in the `#mktgops` Slack channel to add registrants when needed.
 
@@ -438,56 +499,9 @@ Important context: The landing page and form themselves have no bearing on wheth
      - Once added as `Registered` scoring will trigger for the registrant
      - Once the registrant is synced to zoom (within 30 min or so), the registrant will receive a confirmation email automatically from Zoom.
 
-You can use these steps to add anyone to a marketo program.
+You can use these steps to add anyone to a Marketo program.
 
-## Closing a Marketo LP 
-*These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page.*
-
-- Sign into Marketo
-- Click into the Marketo program for the landing page you wish to close
-- Click into `Assets`
-- Click `Registration Landing Page`
-- At the top of the page click `Landing Page Actions`
-- In the drop down list click `Unapprove` 
-- Click the orange `Unapprove` button in the pop up box
-- Go to your landing page URL and make sure the landing page is no longer active (the site that should pop up is `about.gitlab.com`)
-- Go to the `01a or 01b Registration Flow and deactivate the smart campaign
-
-## Closing a Marketo LP Form
-These instructions explain how to close a Marketo LP form and how to update the LPs verbiage at the top of the page. The page and the information on it will still be visible to visitors, but there will no longer be a form to fill out for registration.
-
-### Closing a Self-Service Marketo LP Form
-
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration-1).
-
-### Closing a Webcast Marketo LP Form
-
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page).  
-
-### Closing a Workshop Marketo LP Form
-
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).  
-
-#### Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
-
-We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below regional workshop/demo pages. The GitLab events page listings require an MR to add new events (see instructions [here](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When a workshop LP is created by Verticurl, they will add to the appropriate regional workshop/demo page once the LP is approved. When a workshop is completed and the FMC requests that Verticurl closes the LP, Verticurl will also remove the listing from the regional workshop/demo page. These Verticurl to do items are listed in the [Marketo LP issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_mkto_landing_page.md).
-
-- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
-- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
-- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
-
-##### Instructions for Verticurl
-
-Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) and in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1788) to add and remove postings on the regional workshop demo pages. Verticurl is only responsible for adding/removing events for the AMER and EMEA pages. The Campaigns Team will manage the APAC pages.
-
-- [AMER Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7547B2) - Verticurl
-- [EMEA Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7582A1LA1) - Verticurl
-- [APAC Workshop/Demo Page - General](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
-- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team  
-
-For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
-
-# Registration Problems on a GitLab Landing Page
+## Registration Problems on a GitLab Landing Page
 
 If a registrant is having issues registering for an event on a GitLab landing page, please have them first try the below fixes. If these still do not work, open a [bug issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md?_gl=1%2a1652726%2a_ga%2aMTg4MDU0MzY5Ni4xNjAxMTI2MTEw%2a_ga_ENFH3X7M5Y%2aMTY2NzU3MzczMi4xNTAuMS4xNjY3NTc3MDQyLjAuMC4w) with Marketing Ops to help determine if there is a problem with the landing page.
 - Ask what browser they are utilizing and if there are any plugins potentially blocking the registration page. 
