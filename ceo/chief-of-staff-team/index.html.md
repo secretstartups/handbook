@@ -278,9 +278,9 @@ The CoS to the CEO enables and manages this group.
 The [Directs-Group](/company/team/structure/#directs-group) is made up of nominated senior leaders from each function that engage directly with E-Group in key activities over a 6 month period. 
 The CoS to the CEO enables and organizes this group.
 
-## Maintaining the Biggest Risks and Tailwinds
+## Maintaining the Mitigating Concerns
 
-We outline our [biggest risks](/handbook/leadership/biggest-risks/) and our [biggest tailwinds](/handbook/leadership/biggest-tailwinds/) in the handbook.
+We outline our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/) in the handbook.
 The CoS to the CEO is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
