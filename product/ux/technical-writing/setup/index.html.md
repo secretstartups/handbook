@@ -31,6 +31,7 @@ These are simply suggestions to help you get up and running quickly:
   - To install, run, and maintain an instance of GitLab locally.
   - To [preview documentation changes locally](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/gitlab_docs.md).
   - To [preview code changes](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/preview_gitlab_changes.md) locally.
+- Optional. Install the [Conventional Comments](https://gitlab.com/conventionalcomments/conventional-comments-button) extension for Chrome. The plugin adds Conventional Comment buttons to GitLab comment fields. Learning about the [Conventional Comments](https://conventionalcomments.org/) message format can help you write better, more actionable review comments - with or without the plugin. 
 
 ## Additional resources
 
