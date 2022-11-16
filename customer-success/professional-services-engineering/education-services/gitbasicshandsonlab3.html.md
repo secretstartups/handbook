@@ -10,7 +10,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ### A. Create a new project and issue
 1. Navigate to your group.
-1. Select **New project** and **Create blank project**.
+1. **Create blank project**.
 1. Name your project `Second Project`
 1. Make sure the **Visibility Level** is set to **Private**.
 1. Enable the **Initialize repository with a README** checkbox.
@@ -30,9 +30,9 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Confirm that you are on the branch you just created by looking for the branch name in a dropdown in the top left corner of the page.
 1. In the left-hand file list, select `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
-1. Select **Commit...** at the bottom of the screen.
-1. In the **Commit Message** field, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
-1. Select **Commit**.
+1. **Create commit...**
+1. For **Commit Message**, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
+1. **Commit**.
 
 ### E. Verify changes in a merge request
 1. Navigate to the merge request for the branch you just committed to.
