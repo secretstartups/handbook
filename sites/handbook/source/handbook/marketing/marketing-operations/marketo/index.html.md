@@ -165,7 +165,8 @@ There is a set limit of 250,000 records that can be processed through a given sm
 
 #### Standardization of Country &/or State values
 
-There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. States should be spelled out, not using abbreviations (ex. CA should be California). If a `Country` &/or `State/Province` standardization does not match SFDC exactly, the lead will not sync. If a new standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). 
+There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. States should be spelled out, not using abbreviations (ex. CA should be California). If a `Country` &/or `State/Province` standardization does not match SFDC exactly, the lead will not sync. If a new standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). If a country/state is updated in SFDC, the [customersDOT YML](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/3a7b78445d5cc1a5d53de7f003958004ec337ba5/data/countries.yml) file will also need to be updated to prevent sync issues.
+
 
 All of the standardization smart campaigns are contained in:  
 
@@ -184,7 +185,7 @@ For additional information, visit the lead lifecycle page](/handbook/marketing/m
 
 A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model) again. 
 
-The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
+The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
 When a lead is set to `Recycle`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Recycle` and take an action to increase their behaviour score. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Recycle` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry` when they take an action, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
 

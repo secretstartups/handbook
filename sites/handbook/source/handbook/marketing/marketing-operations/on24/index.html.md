@@ -74,20 +74,6 @@ We will add additional tags as we progress with the platform. Current tags in us
   - `DO NOT USE`: self- explanatory hopefully 
   - `Template`: Use this webcast when cloning a new webinar event
 
-## Customizing Your CTA
-
-Each ON24 Console Templates will have a placeholder for a CTA. It is up to the DRI for the webcast to decide what the CTA is. In order to customize the CTA, following these steps:
-
-1. [Log in to ON24](https://wcc.on24.com/webcast/login)
-1. If you have not already, create a copy of the console template you wish to use by clicking the `create copy` icon on the right side of the page
-1. Once you've created the copy, add the details of your webcast in the `Overview` section. Then select `Console Builder` from the left hand menu
-1. Once in the console, click on the `CTA Placeholder` icon from the bottom menu. This icon looks like a pointer finger with signal bars above it. You will see `CTA Placeholder` when you hover over it. 
-1. When the `CTA Placeholder` widget opens in the console, click on the gear in the right hand corner of the widget window. 
-1. Click on `Attributes`. Update the `Name` field and select/deselect any of the options as needed. 
-  1. Use one of this four options: `Talk to an Expert`, `Talk to Sales`, `Contact Us` or `Request a Demo`.
-1. Click the gear again and select `Configuration`. Update the `Text`, `Button Text`, and `URL`. 
-
-All changes are auto-saved. 
 
 # Creating an ON24 Webcast
 
@@ -123,6 +109,7 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 ![Language screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek66) 
 
 7. Tag your event with up to 10 custom tags by clicking on the "+", to help you filter your webcast library.  These tags are for internal purposes and will not be shared with the public.  Previously used tags will appear in the drop-down. 
+    - Please remember to remove the `TEMPLATE` tag from your On24 event as other users need to be able to easier fine the console templates.
 
 ![Tagging screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek6V) 
 
@@ -173,28 +160,30 @@ Follow these steps to apply a console template:
 After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo.
 1. From the previous event set up, please be sure to have the `Event ID` and `Audience URL` handy.
 1. Navigate to the Marketo template folder `Templates - On24`. Located in this folder are program templates Designed with triggers to work with On24's Marketo cusom object. Make a copy of the needed program type template in the appropriate folder.
-1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `Added to ON24 Attendee` trigger filter:
+1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `ON24 Attendee is Updated` trigger filter:
     1. 04 On24 Processing - Attended
     1. 04 On24 Processing - Follow Up Requested
-    1. 04 On24 Processing - No Show
     1. 04 On24 Processing - On Demand
+    1. 04 On24 Processing - No Show
+        - This smart list filter uses `Has On24 Attendee` instead of `On24 Attendee is Updated` like the others
 1. Next activate the following smart trigger campaigns:
     1. 01 Registration Flow (choose single or multi)
     1. 00 Interesting Moments
     1. 01a Registration flow (single timeslot) or 01b Registration Flow (Multi-timeslot)
     1. 04 On24 Processing - Attended
     1. 04 On24 Processing - Follow Up Requested
-    1. 04 On24 Processing - On Demand. 
+    1. 04 On24 Processing - On Demand
         - Only activate this smart campaign if it is appropriate for the webinar, such as in the event the webinar will be left available for on-demand viewing. 
     1. 04 On24 Processing - No Show. 
-        - No Show will not be activated as a trigger, but as a batch campaign scheduled to run 6 hours after the event has completed.
+        - No Show will not be activated as a trigger, but as a batch campaign scheduled to run 6 hours after the event is scheduled to start. If event will go longer than 6 hours, make appropriate adjustments.
 1. Unlike other tools, the On24 room and Marketo program do not need to be connected via the `Event Partner` field on the Marketo program. All data transfer is done via the `Event ID` and smart campaigns.
 1. Before continuing on, check if it seems appropriate to [set any of the local assets to expire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date). Appropriate items to set an expiration would be, for example, smart campaigns like the `04 On24 Processing - Attended` campaign, which is no longer needed after the event ends.
 1. Update the program tokens as needed within the program. All email assets and landing pages are token dependent. Important tokens to review:
     - `my.webcastDate`, `my.webcastTitle` and `my.event location` are standard to update.
     - `my.on24URL`: This token needs to be updated as upon registration the registrant is sent an automatic email with the Audience URL attached to this token.
-    - `my.On24password`: Update this with the webinar password. If no password was set up in the console, completely remove token from `registration confirmation` and `reminder` emails as it is not necessary. You may also alter the token to say "`no password needed`" but be sure to remove the first part of the token warning that says "`if no password remove token from rem and reg emails`" in that case.
-    - `my.Add to Calendar` token needs to be updated for every program in order for the calendar invite to be correctly downloadable.
+    - `my.On24password`: Update this with the webinar password if the webcast was set up with one. You will need to add the token to the `reminder` and `registration confirmation` emails.
+    - `my.eventid` and `my.key` need to be filled out to have seamless registration work correctly between Marketo and On24. The `key` is a several character long alphanumeric snippet and can be found at the end of the Audience URL as seen [here](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x7I2&feoid=00N4U000008YrFJ&refid=0EM4U0000029XDA).
+    - `my.Add to Calendar` token needs to be updated for every program in order for the calendar invite to be correctly downloadable. 
     - `my.bullet1` - `my.bullet4` may appear on the `registration confirmation email` and `registration landing page` so be sure to update either the tokens or the templates to accommodate. The series of tokens for `my.InviteEmailBody1` and `my.AgendaTopic/my.AgendaTime` also appear on the `reminder` and `invitation` email templates. 
     - If speakers are to be shown on the landing page, be sure to update the series of `speakers` tokens. If there is no need to display the speakers, deactivate the `speaker lists` on the `registration landing page` template. 
     - Update others as needed, but be sure to review **each** asset to understanding what needs to be updated and where. 
@@ -203,4 +192,6 @@ After completing the creation of an On24 web event, the next step is to connect 
     - Take note of the suggested timelines for the email programs and schedule accordingly.
 9. Utilize `Waitlist` email and smart campaigns as needed.
 
+### Contact Us widget form data collection
 
+The `contact us` widget on the On24 console requires the use of email. In order to accommodate this and get `contact us` form fills to sales faster, we are utilizing the email address `On24questions@gitlab.com`. Once requests are received, Zapier is being utilized to append the email contents to the `Last Event Notes` field. The custom object trigger found on the `Follow Up Requested` smart campaign found in the On24 programs is being utilzied to change program status based on 

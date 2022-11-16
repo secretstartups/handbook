@@ -28,16 +28,14 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 
 | Disqualified | 
 |-----|
-| Bad Buyer Profile |
-| ECCN |
 | Competitior |
 | Consultant |
-| Gitlab Employee |
 | No Authority |
 | Personal Use |
-| Student |
 | Unsubscribe |
 | No longer at company |
+| Interested in CE only |
+| Interested in Gitlab.com only |
 
 |Ineligible |
 |----|
@@ -45,29 +43,28 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 | Support |
 | Remote Inquiries |
 | Community Contributors |
+| Student |
+| ECCN |
+| Open Source Program |
+| GitLab Employee or Candidate |
 
 | Recycle |
 | ----- |
-| Cannot move forward |
 | Doesn't see value |
 | Evaluating |
-| In current contract |
-| Interested in CE only |
-| Interested in Gitlab.com only |
+| In current GL contract |
 | No Budget |
 | No interest |
 | No response |
-| Not ready to buy |
-| Payment option limitation |
 | Product limitation |
 | Staying with subversion option |
+| No data aollected |
 
 | Bad Data |
 |---- |
 |Bad phone number |
 |Bounced email |
 |Invalid email |
-|No data collected|
 |Spam |
 
 ## Lifecycle Classifications

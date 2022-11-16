@@ -267,7 +267,7 @@ Integrated with Salesforce
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
-- LinkedIn Sales Navigator
+- [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
