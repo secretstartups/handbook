@@ -24,7 +24,7 @@ Ideally, effective qualification also includes identification of the prospect's:
 - Cloud strategy
 - Preferred cloud partner(s)
 - Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)), and 
-- Preference for [SaaS or Self-Managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/)
+- Preference for [SaaS or Self-Managed](/features/)
 
 ## Understand Value Points
 The second phase of discovery uses an iterative insight/question loop, often across multiple meetings or conversations, to uncover the prospect’s underlying challenges and motivations, with the ultimate goal of constructing a highly relevant and differentiated value message that ties the GitLab solution to the prospect’s business needs.

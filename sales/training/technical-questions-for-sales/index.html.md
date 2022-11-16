@@ -70,7 +70,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/x1_b2iqKOfI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
+*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/features/).
 
 ### Manage Quiz
 
