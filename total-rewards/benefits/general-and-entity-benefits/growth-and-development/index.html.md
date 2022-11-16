@@ -146,9 +146,9 @@ GitLab's coaching vendor of choice is [Coaching Right Now](https://docs.google.c
 
 > Hear what GitLab team memebrs are saying about Coaching Right Now:
 
-`My coach was thoughtful and insightful. He took the time to learn about me, my wants and desires. He was able to provide actionable feedback and made the last 4 months of GitLab much better.`
-`I can tangibly see how this (coaching) investment has made me at least 20% more effective in my role, delighted in my role, and a more human leader.`
-`This was a great (coaching) program and I'm really happy I got to be a part of it. I have two of my managers who have signed up to work with coaches now as well.`
+- `My coach was thoughtful and insightful. He took the time to learn about me, my wants and desires. He was able to provide actionable feedback and made the last 4 months of GitLab much better.`
+- `I can tangibly see how this (coaching) investment has made me at least 20% more effective in my role, delighted in my role, and a more human leader.`
+- `This was a great (coaching) program and I'm really happy I got to be a part of it. I have two of my managers who have signed up to work with coaches now as well.`
 
 When you're ready to apply for a coach via Coaching Right Now, open a Growth and Development approval issue using the [coaching template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching).
 
