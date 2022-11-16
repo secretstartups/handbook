@@ -50,9 +50,9 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 - Build an inclusive environment for your people that is built on trust
 
 In addtion, the program ties into GitLab's strategic priorties through the following: 
-1. Mitigating Biggest Risks associated with: 
-     1. [Lack of Performance Management](/handbook/leadership/biggest-risks/#underperformance)
-     2. [Ineffective Management](/handbook/leadership/biggest-risks/#ineffective-management)
+1. Mitigating concerns associated with: 
+     1. [Lack of Performance Management](/handbook/leadership/mitigating-concerns/#underperformance)
+     2. [Ineffective Management](/handbook/leadership/mitigating-concerns/#ineffective-management)
 2. Achieving GitLab Strategy of: 
      1. [Inclusive Growth & Development for Team Members](/company/strategy/#4-inclusive-growth--development-for-team-members)
 
