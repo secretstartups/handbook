@@ -1387,9 +1387,9 @@ New team members should read [GitLab's guide to starting a new remote role](/com
 
 Our [mission](/company/mission/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
 
-## Biggest risks
+## Mitigating Concerns
 
-We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/). Many of our [values](/handbook/values/) help to mitigate some of these risks.
+We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our [values](/handbook/values/) help to mitigate some of these concerns.
 
 ## GitLab Values Knowledge Assessment
 
