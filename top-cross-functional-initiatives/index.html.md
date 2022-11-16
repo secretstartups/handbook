@@ -66,7 +66,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Quarter Started/Starting: FY23-Q3
 1. DevSecOps Adoption
    1. DRI / Sponsor: @spatching  / @mmcb 
-   1. Description: No customers in red on DevSecOps Adoption within 3 months of purchase. 
+   1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase. 
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
    1. Quarter Started/Starting: FY23-Q4
 1. Consumption Add-Ons
