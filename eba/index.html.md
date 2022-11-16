@@ -34,7 +34,6 @@ This page details processes and general guidelines specific to the Executive Bus
 * Cindy King (Sr. EBA) supporting Dale Brown (Principal Accounting Officer), Jim Gladen (VP Tax), and Brijen Joshi (VP on Internal Audit)
 * Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate), Robert Nalen (Sr. Director, Contracts & Legal Operations), and Stacy Cline (Sr. Director, ESG)
 * Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Jack Andrews (VP of Investor Relations)
-* Blaire Sullivan (EBA) supporting Dave Steer (VP of Product Marketing), Carrie Maynard (VP of Integrated Marketing), Jean-Baptiste Larramendy (VP of Sales Development), and Christine Lee (Sr. Director - Marketing Strategy & Platforms)
 * Jennifer Garcia (EBA) supporting Justin Farris (Sr Director of Product Monetization)
 
 
