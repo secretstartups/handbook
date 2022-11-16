@@ -43,7 +43,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 ### Quarterly Prioritization List
 
-- [View List](https://docs.google.com/spreadsheets/d/1vGrQ6kZhXeHtYcep7c3MIu1k6KZMCKnYEF1C_zvsoq8/edit#gid=1276538540)
+- [FY23-Q4](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/61)
 
 ### Quarterly Work: Weekly Progress
 
@@ -53,10 +53,6 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 | FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/151) |
 | FY23-Q4 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/226) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/214) |
 
-### Epics
-- [Low Touch](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/51)
-- [FY23-Q3](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/54)
-- [FY23-Q4](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/61)
 
 ## Working with us
 **Purpose**: outline how the broader Self-Service team can engage the Self-Service Data Squad (Max, Sara)
@@ -72,11 +68,11 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 - If no, please try to answer your question using these existing resources.
 - If yes, but you’re still unable to answer your question, go to question 2.
 
-2. Using [this template](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/102), please clone and:
+2. Using the Data Question Intake issue template in [our project](https://gitlab.com/gitlab-com/sales-team/self-service/), please:
 
 - Fill out all items under the “Filled out by Requestor” section
 - Add the “Self-Service Data” and “Self-Service Data Ad Hoc” labels
-- If business stopping: tag Max in slack (ideally in “self-service_squad” channel) with link to issue.
+- If business stopping: tag Max in Slack (ideally in [self-service_public](https://gitlab.slack.com/archives/C02F6JUKF6X)) with link to issue.
 
 ## How we prioritize ad hoc requests
 The more points the better!
