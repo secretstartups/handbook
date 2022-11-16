@@ -35,6 +35,9 @@ direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
 ### Security Policies
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'maciejparuszewski') %>
 
+### Compliance
+<%= direct_team(role_regexp: /Engineer(.*)Govern:Compliance/, manager_slug: 'nrosandich') %>
+
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
@@ -43,6 +46,7 @@ The following members of other functional teams are our stable counterparts:
       role_regexp: /[,&] Govern/,
       direct_manager_role: nil,
       other_manager_roles: [
+        'Fullstack Engineering Manager, Govern:Compliance',
         'Fullstack Engineering Manager, Govern:Threat Insights',
         'Fullstack Engineering Manager, Govern:Threat Insights',
         'Staff Backend Engineer and Acting Fullstack Manager, Govern:Security Policies',
