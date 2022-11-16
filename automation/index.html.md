@@ -30,7 +30,7 @@ It also increases the number of changes required if the token is revoked.
 By default, and when possible, create a new [project access token](https://docs.gitlab.com/ee//user/project/settings/project_access_tokens) for any API automation, and follow these guidelines:
 
 - Create a suitable name for the access token. Keep in mind that this is also the name of the bot user created for the token.
-- Don't set an expiration date for the token, unless this is for temporary automation.
+- Always set an expiration date for the token, even if this is for temporary automation.
 - Give the token the minimum scopes your automation requires (usually the `api` scope).
 
 Project access tokens have [a few known limitations](https://gitlab.com/gitlab-org/gitlab/-/issues/213536), but dogfooding them can only help us improve the feature.
