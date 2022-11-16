@@ -24,7 +24,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose 
 
-GitLab's Third Party Risk Management (TPRM) Program helps guard against threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security risks](https://about.gitlab.com/handbook/leadership/biggest-risks/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
+GitLab's Third Party Risk Management (TPRM) Program helps guard against threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
 
 GitLab's TPRM program involves three components which are integrated in to our [Procurement](https://about.gitlab.com/handbook/finance/procurement/) processes: 
 1. Performing due diligence to ensure the third party implements safeguards to enforce data privacy and security.
