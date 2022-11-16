@@ -14,7 +14,7 @@ description: "How to perform the processing of Account Deletion and Data Access 
 
 # Overview
 
-This document contains instructions on how to process each type of Account Deletion or Data Access request. It is split into two stages; **Submission Handling** and **Request Processing**, to be followed in that order. Each request will go through the same flow from opening to completion that is outlined in the chart below. **All requests must be fulfilled within 30 days.**
+This document contains instructions on how to process each type of Account Deletion or Data Access request. It is split into two stages; **Submission Handling** and **Request Processing**, to be followed in that order. Each request will go through the same flow from opening to completion that is outlined in the chart below. **All requests must be fulfilled within 30 calendar days.**
 
 ```mermaid
 graph TD
@@ -121,16 +121,16 @@ If any of the automated checks fail, the user will receive an auto-generated res
 
 #### **Step 1:** Await Challenges
 
-If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) in an auto-generated response. Users have a total of **14 days** to respond to the challenge questions.
+If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) in an auto-generated response. Users have a total of **7 calendar days** to respond to the challenge questions.
 
 At this stage, do the following:
 
 1. If the account in question is a `FREE` account, add the `account-deletion::personal` label to the issue. If the account is tied to a paid namespace with a signed contract in Salesforce (a corporate request), add the `account-deletion::corporate` label to the issue.
-1. Add the `Awaiting::Challenge Answers` label and wait for the user to reply with the answers to the questions. If they do not reply within **14** days, proceed to [No Response](#no-response). If they do reply within 14 days, proceed to [**Step 2:** Evaluate](#step-2-evaluate).
+1. Add the `Awaiting::Challenge Answers` label and wait for the user to reply with the answers to the questions. If they do not reply within **7** calendar days, proceed to [No Response](#no-response). If they do reply within 7 calendar days, proceed to [**Step 2:** Evaluate](#step-2-evaluate).
 
 ##### No Response
 
-If the user fails to respond after 14 days, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it using the following snippet:
+If the user fails to respond within 7 calendar days, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it using the following snippet:
 
 <details>
   <summary markdown="span">Request Closed - No Response</summary>
@@ -238,6 +238,18 @@ Users can request the following to obtain information about their data. Use this
 - General Questions (any other inquiries related to the users data)
 
 Use the following workflows based on the type of request submitted.
+
+1. Confirm that the user has replied to the issue (validating their email address). If the user fails to respond within 7 calendar days, close the issue using the following snippet, and apply the `Account Verification Failed` label to the issue:
+
+<details>
+  <summary markdown="span">Request Closed - No  Response to Verify Email</summary>
+
+  <p>Greetings,</p>
+
+  <p>We have not heard back from you, which is required in order to validate your email address before we process your request. We will now close this request. If you still wish to proceed please feel free to submit a new request via our [Personal Data Request Form](https://support.gitlab.io/account-deletion/).</p>
+
+  <p>Regards,</p>
+</details>
 
 1. In the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new), create a new confidential issue using the [personal_data_access_request](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) template, populating the title with the email address of the original request.
 1. **Follow the instructions in the top of the template**, then complete each step in the issue that begins with `Support Engineer:` in order.
