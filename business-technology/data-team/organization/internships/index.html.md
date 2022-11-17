@@ -124,8 +124,10 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 | :---: | :---:  | :---: | :---: |
 | [FY23Q1](https://gitlab.com/groups/gitlab-data/-/epics/499) | 2 | 2 | 0 |
 | [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 2 | 2 | 0 |
-| FY23Q3 | TBD | TBD | TBD |
-| FY23Q4 | TBD | TBD | TBD |
+| FY23Q3 | 2 | 2 | 0 |
+| FY23Q4 | 3 | 3 | 0 |
+| FY24Q1 | TBD | TBD | TBD |
+| FY24Q2 | TBD | TBD | TBD |
 
 
 #### Requirements
@@ -135,7 +137,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Working knowledge of SQL
 - Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
 - Basic knowledge of dashboard tools (we use Sisense)
-- Unstanding of basic statistics concepts. if you need a refresher, this [Coursera Standford](https://www.coursera.org/learn/stanford-statistics) course is a great resource
+- Understanding of basic statistics concepts. if you need a refresher, this [Coursera Standford](https://www.coursera.org/learn/stanford-statistics) course is a great resource
 - Understanding of machine learning algorithms including decision trees, gradient and regression models
 - Ability to communicate in English, including concise writing that summarises your work
 - Ability to work asynchronously - as a fully-remote company we have team members all around a globe with differing working hours
