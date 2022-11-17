@@ -19,7 +19,7 @@ Reports are considered [Internal](https://about.gitlab.com/handbook/communicatio
 ### Frequency
 Annually in the third quarter 
 
-### Ladership Sponsor
+### Leadership Sponsor
 Julia Lake, Sr. Director, Security Assurance
 
 ### DRI
