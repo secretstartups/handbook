@@ -16,9 +16,9 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 ## UX team members
 
 - [Jacki Bauer](/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
-- [Emily Sybrant](/company/team/#esybrant) - Product Designer, Purchase
+- [Emily Sybrant](/company/team/#esybrant) - Product Designer, Billing & Subscription Management
 - [Matthew Nearants](/company/team/#mnearents) - Senior Product Designer, Utilization
-- [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Provision
+- [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Purchase
 
 
 ## How We Work

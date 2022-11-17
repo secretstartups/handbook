@@ -33,8 +33,9 @@ Some UX teams have documented detailed information about their ways of working a
 * [Enablement](/handbook/product/ux/stage-group-ux-strategy/enablement/) (`@gitlab-com/gitlab-ux/enablement-ux`)
 * [Sec](/direction/security/)
     * [Secure and Govern](/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
-* Growth UX
-    * [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/) 
+* Fulfillment and Growth UX
+    * Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
+    * Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
 
 ## Product Design Workflow
 
