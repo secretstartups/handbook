@@ -282,6 +282,11 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
         - If the commit is found, the MR is in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=add-share-with-group-to-modal).
         - If no results, the MR is not in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=qa-shl-add-requries-admin).
 
+### Identifying commit that introduced a failure 
+- While triaging failures we often may want to find which specific commit was the one that introduced the failure. While we may sometimes be able to identify this by reviewing the recent commit history, in other cases this may be more obscure. To quickly identify where the failure was introduced [git bisect](https://git-scm.com/docs/git-bisect) can be quite useful.
+- A demo on using git bisect can be found in [Training Videos](#training-videos).
+
+
 ### Classify and triage the test failure
 
 The aim of this step is to categorize the failure as either a stale test, a bug in the test, a bug in the application code, or a flaky test.
@@ -541,6 +546,8 @@ These videos walking through the triage process were recorded and uploaded to th
   - Continued discussion with a focus on using Docker containers that were used in the pipeline that failed.
 - [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
   - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
+- [Quality Engineering: Failure Triage - Using git bisect to identify commit that introduced a failure](https://www.youtube.com/watch?v=ZvrOF5Bx2Bo)
+  - A demo on how to use to git bisect to idenitfy which commit introduced a test failure 
 
 ## Other references
 
