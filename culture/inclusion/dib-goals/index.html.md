@@ -48,7 +48,7 @@ What is a timeline to create a NORAM leadership KPI and/or OKR?
 
 ### Global Representation of URGs 
 
-These KPIs are currently found [here](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity-women-at-gitlab)
+These KPIs are currently found [here](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-at-gitlab)
 
 
 ## Past Goals 
