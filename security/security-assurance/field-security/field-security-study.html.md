@@ -19,8 +19,8 @@ Reports are considered [Internal](https://about.gitlab.com/handbook/communicatio
 ### Frequency
 Annually in the third quarter 
 
-### Executive Sponsor
-Johnathan Hunt ( @JohnathanHunt )
+### Ladership Sponsor
+Julia Lake, Sr. Director, Security Assurance
 
 ### DRI
 The Field Security and Product Management teams will work in collaboration throughout this process to collect and analyze the data, craft and validate potential solutions and track future remediation activities. 
