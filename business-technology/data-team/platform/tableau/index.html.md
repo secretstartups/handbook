@@ -103,7 +103,7 @@ Any user can download the desktop tools and start a 14-day free trial without li
 1. Open your Tableau Desktop and/or Tableau Prep Builder
 1. Search for Data > Tableau Server
 1. Quick Connect: Tableau Online
-1. Log in to Okta - if Okta isn't set up for your account, login using your Tableau login & MFA. Note: only users with active licenses will be able to complete this step
+1. Log in to Okta using a Yubikey - if Okta isn't set up for your account, login using your Tableau login & MFA. Note: only users with active licenses will be able to complete this step, and this will only work when using a Yubikey, not when using fingerprints to authenticate to Okta.
 
 Alternatively, Account Owners in the Data Team assign a Creator License Code under the License or License section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-keys).
 
@@ -273,3 +273,4 @@ We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to re
 | Tableau Online or Desktop | When using "Initial SQL": "An error occured when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. |
 | Tableau Online or Desktop | Error "There was a problem connecting to the data source "Untitled Data Source"" when connecting to Virtual Connections  |  The password for the Snowflake service account expired. For Tableau admins: Connect to Snowflake via Oath as the service account. It will prompt you to change the password. Afterwards, edit all the virtual connections and republish them. |
 | Tableau Online or Desktop | Nondescript error when connecting to Virtual Connections |  The underlying table changed, likely with fields removed. Ask a Tableau admin to Edit the virtual connection, find the affected table/field (check 'Alerts' when editing the virtual connection), and `Exclude` the deleted field. Then republish the virtual connection. |
+| Tableau Desktop | Screen gets stuck on authenticating to Okta when connecting Tableau Desktop to Tableau Online |  Use a Yubikey to connect to Okta when using Tableau Desktop. Fingerprint authentication will not work. |
