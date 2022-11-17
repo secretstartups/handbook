@@ -428,14 +428,9 @@ ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Complia
 | TPM-01 | Third-Party Management | Management of third-party security controls. |
 | TPM-02 | Third-Party Criticality Assessments | Identify, prioritize and assess suppliers and partners of critical systems, components and services using a supply chain risk assessment process relative to their importance in supporting the delivery of high-value services. |
 | TPM-03 | Supply Chain Protection | Evaluating security risks and addressing identified weaknesses or deficiencies in the security associated with the services and product supply chain, limiting harm from potential adversaries who identify and target the organization’s supply chain by utilizing tailored acquisition strategies, contract tools and procurement methods for the purchase of unique systems, system components or services. |
-| TPM-04 | Third-Party Services | Mitigate the risks associated with third-party access to the organization’s systems and data and ensure that the interests of third-party service providers are consistent with and reflect organizational interests. |
-| TPM-05 | Third-Party Contract Requirements | Identify, regularly review and document third-party confidentiality, Non-Disclosure Agreements (NDAs) and other contracts that reflect the organization’s needs to protect systems and data. |
-| TPM-06 | Third-Party Personnel Security | Control personnel security requirements including security roles and responsibilities for third-party providers. |
 | TPM-07 | Monitoring for Third-Party Information Disclosure | Monitor for evidence of unauthorized exfiltration or disclosure of organizational information. |
-| TPM-08 | Review of Third-Party Services | Monitor, regularly review and audit supplier service delivery for compliance with established contract agreements. |
 | TPM-09 | Third-Party Deficiency Remediation | Address weaknesses or deficiencies in supply chain elements identified during independent or organizational assessments of such elements. |
 | TPM-10 | Managing Changes To Third-Party Services | Control changes to services by suppliers, taking into account the criticality of business information, systems and processes that are in scope by the third-party. |
-| TPM-11 | Third-Party Incident Response & Recovery Capabilities | Ensure response/recovery planning and testing are conducted with critical suppliers/providers. |
 
 </details>
 
