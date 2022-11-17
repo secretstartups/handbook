@@ -50,7 +50,7 @@ GitLab requires all team members to use either YubiKey or Biometrics as your OKT
 
 **Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for all team members.**
 
-1. Touch ID on Mac currently requires Chrome or Safari. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. Yubikeys can be used with all browsers.
+1. Touch ID on Mac currently requires Chrome or Safari. The latest version of macOS (Ventura) works better with Touch ID/YubiKeys. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. YubiKeys can be used with all browsers.
 
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
@@ -73,6 +73,11 @@ GitLab requires all team members to use either YubiKey or Biometrics as your OKT
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
 
 
+1. We recommend enrolling both Chrome and Safari for redundancy, as well as a mobile device. Each browser needs to be enrolled separately. 
+1. If clearing your browser cache, please be careful as you can delete your Touch ID credential. 
+    1. In Chrome, if using "Clear Browsing Data" function please ensure that you [DO NOT check](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#clearing-google-chrome-cache-like-this-will-break-your-touchid-2fa) "Passwords and other sign-in data" (under "Advanced" tab). By default, this is unchecked. 
+    1. In Safari, the credential is stored under "Settings->Password". This is separate from the "Settings->Privacy" and "Manage Website Data" where you would click "Remove all" to remove the cache.
+
 Follow the GitLab Okta [FAQ](/handbook/business-technology/okta/okta-enduser-faq/).
 
 We have also prepared Introductory Videos on [Setting up MFA/Yubikeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
@@ -87,15 +92,15 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 1. On the computer, under Security Methods click "Set up another" beside Security Key or Biometric. This will take you to a setup authentication screen, click "Verify". Provide Touch ID.
 1. On the computer, click "Set up", then click "Set up" again on the next screen
 1. On the computer, in Chrome, the pop up that opens choose the Use phone with a QR code. This should display a QR code. In Safari, click "Other options", then choose "iPhone, iPad or Android device - save a passkey on a device with a camera", then "Continue".
-1. On the mobile device, open your camera app and scan. (It may take a few seconds for it to connect). This requires Bluetooth to be enabled on both devices, but does not require pairing.
-1. On the mobile device, a pop on your phone should show up to allow the credential to be saved. Allow this.
+1. On the mobile device, open your camera app and scan. (It may take a few seconds for it to connect). This requires Bluetooth to be enabled on both devices, but does not require pairing.  
+1. On the mobile device, a pop on your phone should show up to allow the credential to be saved. Allow this. On Android, this may appear "Use this device with screen lock". Choose this.
 1. On the mobile device, attempt to sign in by visiting [Okta](https://gitlab.okta.com).
 
 ### I want to login or add a new computer to Okta and I have a mobile device enrolled 
 This method has been verified on Macs and Linux with Chrome. For Safari, it requires macOS Ventura 13+. Steps below for iPhone require iOS 16+, may be slightly different for Android.
 1. On the computer, log in with username and password
 1. On the computer, a popup appears to "Verify your identity with gitlab.okta.com"
-1. On the computer, choose "Use phone with a QR code". This requires Bluetooth be enabled on both the phone and the laptop, but doesn't require pairing.
+1. On the computer, choose "Use phone with a QR code". This requires Bluetooth to be enabled on both the phone and the laptop, but doesn't require pairing.
 1. On the mobile device, scan the code using the Camera app
 1. On the mobile device, click "Sign in with a Passkey"
 1. On the mobile device, a "Sign in" popup appears - "Do you want to sign in to "gitlab.okta.com" with your saved passkey for "xxxxx@gitlab.com"? Click Continue and provide biometric.
@@ -105,6 +110,9 @@ This method has been verified on Macs and Linux with Chrome. For Safari, it requ
 ### I don't have an enrolled phone or computer but have a YubiKey
 
 If both of previous devices are not available, you could use a [YubiKey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to enroll a new device.
+
+### I would like to get a YubiKey, how can I do so?
+Please fill out this [form](https://forms.gle/1ciE8cCYubXA7vuC6) and we will coordinate shipment of one to you thru our group buy.
 
 ### Lost access to your 2FA or your OKTA account has been locked out because of failed attempts?
 
