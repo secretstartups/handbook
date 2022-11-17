@@ -11,7 +11,7 @@ description: "GitLab's sales learning framework and sales training resources"
 {:toc .hidden-md .hidden-lg}
 
 # GitLab Sales Learning Framework
-GitLab field team members are expected to be knowledgeable and proficient across a variety of topics, skills, behaviors, and processes. For ease of consumption, sales training resources are organized in 6 categories below. If you are looking for more immediate access to resources to support your selling efforts, please check out the [Sales Resources](/handbook/marketing/strategic-marketing/sales-resources/) page. Please also check out the role-based channels in GitLab Learn featuring curated enablement offerings for you:
+GitLab field team members are expected to be knowledgeable and proficient across a variety of topics, skills, behaviors, and processes. For ease of consumption, sales training resources are organized in 6 categories below. If you are looking for more immediate access to resources to support your selling efforts, please check out the [Sales Resources](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7) page. Please also check out the role-based channels in GitLab Learn featuring curated enablement offerings for you:
 1. [Enterprise Strategic Account Leaders](https://gitlab.edcast.com/channel/strategic-account-leaders)
 1. [Commercial Sales Account Executives](https://gitlab.edcast.com/channel/commercial-sales)
 1. [Solution Architects](https://gitlab.edcast.com/channel/solution-architects)

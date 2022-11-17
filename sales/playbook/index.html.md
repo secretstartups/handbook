@@ -44,7 +44,7 @@ Every Strategic Account Leader in Enterprise Sales should have a plan for how th
 **How to use it:** As you move a deal through the pipeline, the Enterprise Sales Stage criteria defines activities and exit criteria for each stage and serves as a roadmap to getting a deal from discovery to closed won (or qualified out quickly). Use it to help you validate your opportunity and forecast it correctly. This guidance gives definitions for each stage, tells you who might be involved on your team, what activities are typically done in each stage, and what is required before you can move it further in the pipeline.
 
 **Plus, resources for pipeline management:**
-At the bottom of each stage in the detailed spreadsheet, you'll also see major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/).
+At the bottom of each stage in the detailed spreadsheet, you'll also see major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7).
 
 
 ## Keeping your pipeline healthy
