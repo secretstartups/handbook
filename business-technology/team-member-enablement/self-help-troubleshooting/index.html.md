@@ -67,12 +67,17 @@ If you require IT to reset your password and it requires immediate access, pleas
 
 Please refer to our GitLab Accceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab GMail account to your personal device. 
 
-To have GMail on your phone now that it is controlled by Okta, you must use the actual Google Apps. 
-- Download GMail to your phone
+**Please make sure you have your phone enrolled with WebAuthn in your Okta profile. Refer to [this page](https://docs.google.com/document/d/1VVEuNu7pZkNKo0ccLKy88AGonPW3ESYPG1JoFMkMts0/edit#bookmark=id.c85hcbk2nv4) for instructions**
+
+To have Gmail on your phone now that it is controlled by Okta, you must use the actual Google Apps. 
+- Download the official Gmail app made by Google LLC to your phone
+    - iOS: [here](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)
+    - Android: [here](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_CA&gl=US&pli=1)
 - Add Google account
 - Input your GitLab email
 - Google will redirect to Okta login. Input your Okta username
 - Input Okta password
+- Accept 2FA prompt on your phone
 - All set!
 
 
