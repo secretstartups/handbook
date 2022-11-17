@@ -21,8 +21,8 @@ While tailored for current female team members of the GitLab Security organizati
 - Social outreach
 - Publications
 
-### Executive Sponsor
-Johnathan Hunt, VP of Security
+### Leadership Sponsor
+Julia Lake, Sr. Director, Security Assurance
 
 ## Catalog of Events and Publications
 - [Applying Risk Management to Pandemic-driven Remote Learning](/blog/2020/08/27/applying-risk-management-to-remote-learning/)
