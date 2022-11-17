@@ -545,7 +545,7 @@ The sales nominated process allows for records to be added to the campaign in or
 - An in person pre-event booth meeting is to be scheduled by event DRI the day before or morning of the event and is to held within the booth. All event attendees should be in attendance. The event DRI should have this added as a calendar invite on the attendees calendar and should include the event venue, address, booth number, and link to the event issue within the calendar invite. 
 
 ##### Booth presentation material 
-* [Standard pitch deck](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/#top-10-resources)
+* [Standard pitch deck](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7)
 * [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa) 
 
 ##### Quick Booth quality check
