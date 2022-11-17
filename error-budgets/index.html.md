@@ -193,7 +193,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 
 |**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** | **Review Date**|
 |------------------|---------------------|---------------------|---------------------|
-| Fulfillment:Provision | 50% | We are prioritizing [resolving errors causing sidekiq to go below error budgets](https://gitlab.com/gitlab-org/gitlab/-/issues/365263).<br/> |  2022-10-31 |
+| Fulfillment:Provision | 70% | We've seen improvements from resolving [the original error budget issue](https://gitlab.com/gitlab-org/gitlab/-/issues/365263), but after the change landed we discovered three additional issues that are either scheduled, or we are currently looking into. Provision will still be over the error budget until the issues below are closed:<br/><br/>1. https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4884 <br/>2. https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4876 <br/>3. https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4875 |  2022-12-31 |
 | Manage:Workspace | 99.85% | To allow time for the group to address issues with the endpoints connected with listing many projects at once, cooperate with other teams and API working group on that problem. Described in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108039) | 2022-12-31 |
 
 **Exceptions**
