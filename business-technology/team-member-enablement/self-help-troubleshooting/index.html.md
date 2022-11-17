@@ -59,6 +59,27 @@ If you are unable to move 2FA from your old to the new device, please reach out 
 
 An IT Analyst will need to verify that it is you over a Zoom before doing a 2FA reset or any password resets, this is required for security purposes.
 
+
+
+### Clearing Google Chrome cache like this will BREAK your TouchID 2FA
+
+Do **not do** the following when clearing cache and cookies in Google Chrome as this will delete 2FA data for TouchID and cause issues logging in:
+
+- In Chrome ⇒ Click on 3 dots on top right corner
+- Go to More Tools ⇒ Clear browsing data
+- Under advanced ⇒  DO NOT Check box below
+- This will clear your login information and will need to have MFA reestablished
+
+![clearing cache](./cache1.png "Cache")
+
+If you cleared your cache and got locked out please do the following:
+
+- Use Yubikey to login to Okta and reset TouchID and configure again.
+- If your phone is set up with a passkey, you may use your phone to get into OKTA and reset your Touch ID
+- If you do not have a Yubi key or your phone set up; you will need to contact #it-help to reset your MFA in OKTA
+
+Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up Okta TouchID/Phone passkey and Yubikey
+
 ### Forgot my password
 
 If you require IT to reset your password and it requires immediate access, please reach out on the slack #it_help channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta. They require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
