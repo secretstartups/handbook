@@ -11,7 +11,20 @@ description: "Data on all E2E test runs"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains overview of all automated test executions across different environments and pipelines.
+## E2E test execution metrics
+{:.no_toc}
+
+This page contains overview of all automated end-to-end test executions across different environments and pipelines.
+
+Terms:
+
+- `smoke` - small subset of most important and fastest e2e tests. These tests are usually to block deployments or merge request merging when failing.
+- `reliable` - [reliable](/handbook/engineering/quality/quality-engineering/reliable-tests/) is an e2e tests that has been passing consistently in all pipeline runs.
+These tests are usually to block deployments or merge request merging when failing.
+- `sanity` - test suite that contains `smoke` and `reliable` tests.
+- `full` - the full tests suite in the context of particular pipeline/environment it runs in.
+- `quarantine` - tests that are temprarily disabled
+- `flaky` - tests that are failing on first execution but passing on second attempt via [rspec-retry](https://github.com/NoRedInk/rspec-retry)
 
 ## Master
 
@@ -38,11 +51,16 @@ E2E test execution against cloud native review-app installation.
 
 #### blocking
 
+In context of review-app these are `reliable` tests that indicate that these are blocking merge request merging when failing.
+
 - <%= e2e_grafana_link("review-qa-blocking") %>
 
 <%= e2e_dashboards("review-qa-blocking") %>
 
 #### non-blocking
+
+All other tests that are not part of `smoke` or `blocking` suite. These tests are optional and don't block merging of merge request when
+failing in merge request pipeline.
 
 - <%= e2e_grafana_link("review-qa-non-blocking") %>
 
