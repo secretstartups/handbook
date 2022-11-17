@@ -236,15 +236,16 @@ If product managers need help connecting with JiHu counterparts, ping the [Produ
 
 #### Milestone Product Planning Process with JiHu
 
-To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
+To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone  planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
 
 1. JiHu will create a milestone planning issue in the [gitlab-jh-enablement project](https://gitlab.com/gitlab-jh/gitlab-jh-enablement), such as this [example](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/269). JiHu typically provides the plan 2 weeks before the 18th of the month. 
+1. For any items which do not already have an issue in the Gitlab.org project, the JiHu team creates an issue. If there is an existing issue, it is linked to from the milestone planning issue. This helps the GitLab product group track JiHu contributions in the same place where other day to day work is tracked.
 1. The Product DRI will facilitate awareness and encourage collaboration via the [JiHu Milestone Review Template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Monthly-JiHu-Milestone-Review.md)
 1. Individual product manager and their engineering counterparts will provide feedback to JiHu as needed
 
 ##### Large Product Iniative Planning
 
-In the interest of creating IP, JiHu will take on larger product iniatives that spans multiple milestones. This type of product initiatives take more coordination. JiHu and GitLab representatives regularly stay in sync regarding these product plans. The goal is to identify large iniatives early so that the appropriate DRIs can be looped in. One example of this type of product iniative is the [Visual Builder for the pipeline editor](https://gitlab.com/groups/gitlab-org/-/epics/4499)
+In the interest of creating IP, JiHu will take on larger product initiatives that spans multiple milestones. This type of product initiatives take more coordination. JiHu and GitLab representatives regularly stay in sync regarding these product plans. The goal is to identify large initiatives early so that the appropriate DRIs can be looped in. One example of this type of product initiative is the [Visual Builder for the pipeline editor](https://gitlab.com/groups/gitlab-org/-/epics/4499).
 
 #### What product managers are not responsible for
 
