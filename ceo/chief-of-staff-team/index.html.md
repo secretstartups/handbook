@@ -25,7 +25,7 @@ Complement the CEO through being a cross-functional linchpin for GitLab when it 
 * [Performance Indicators](/handbook/ceo/chief-of-staff-team/performance-indicators/)
 * CoS to the CEO = Chief of Staff to the CEO
 * CoST to the CEO = Chief of Staff Team to the CEO
-* [GitLab Team Project](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team)
+* [GitLab Team Project](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cos-team)
 * [Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
 ## Contact Us
