@@ -52,13 +52,25 @@ Please note the importance of confidentiality in the interview process for both 
 
 All feedback should be recorded in Greenhouse and/or discussed live with the hiring manager and/or interview team as applicable.
 
+#### Interview Shadowing
+
+Shadowing as a new interviewer at GitLab is an important part of interview training as we continue to grow. Once you have completed the steps in the [Interview Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md)you may organise shadowing by reaching out to the specific Hiring Manager, Recruiter or the Talent Acquisition team. 
+
+Interview shadowing is only available to full time GitLab team members. Under no circumstances should an outside third party be invited to shadow or interview a candidate. 
+
+The reasons why we don't allow third party interview shadowing:
+
+* An interview is a confidential discussion where a candidate should feel comfortable sharing their professional achievements and experience. If we invite third parties to an interview this would be a breach of candidate confidentiality and would impact the overall experience a candidate would have to interview with GitLab. We could potentially miss out on hiring great candidates as they may be hesitant sharing information that could impact whether the interviewer provides positive or negative feedback regarding their recommendation to hire.
+* Even if the candidate is asked and indicates in the interview that it's ok for the third party to attend, or the third party has signed an NDA, the candidate may not be in a position to feel like they have a choice whether to provide their consent. They may feel as if they have been forced to allow the third party to attend, which negatively affects the candidate experience. 
+* GitLab wants to ensure that each candidate has a fair and unbiased interview process. Having a third party present undermines these efforts.  
+
 #### Illegal Interview Questions
 
 * Be aware of the kinds of questions you can and can't ask. For example, if there is a gap in employment history on a CV, you **may** ask the candidate what they did during that time to keep their skills current. You may not ask why they were absent from work as it may be related to a medical or family issue, which is protected information.
 * Refrain from any personal, icebreaker-type questions. There are laws that prohibit discrimination based on any lawful activity, so asking a candidate about personal interests or hobbies could elicit information about the candidate that an employer finds undesirable yet is still legally protected.
 * Refrain from asking any questions related to protected classes (for example: age, race, gender, gender identity, religion, sexual orientation, marital or family status, pregnancy status, national origin, ancestry, physical or mental disabilities).
 * Protected classes differ based on the country of the candidate, but we default to the strictest country definitions. Therefore, even if sexual orientation is not a protected class where your candidate lives, we will consider it protected at GitLab in our interview criteria. 
-* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or talent acquisition team.
+* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal-employment and/or talent acquisition team.
 * Asking questions related to any of the protected classes is not only illegal, but shouldn’t be asked to determine if someone is qualified for a role.
     * Some examples of illegal interview questions include:
         * So you mentioned you live with your partner earlier, are you married?
@@ -70,7 +82,7 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
         * I have a few more questions that I’d love to get to during our call today. Tell me a little bit more about how you’ve achieved quota in the past.
     * This information should not be included in your Greenhouse feedback as it does not pertain to the functions and responsibilities of the role.
     * This information should not be used to determine if you are a yes or a no to their candidacy for the role.
-    * If protected class information was to be documented in a candidate's Greenhouse profile, that’s findable information and could be used against GitLab in court.
+
 
 #### During The Interview
 
