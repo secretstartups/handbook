@@ -243,7 +243,7 @@ Please note that not every member of the team will be observing that holiday, so
 
 ## Reference Check Process
 
-The talent acquisition team will ask candidates for references via email. The hiring manager should not conduct backchannel references. More information on how we conduct reference checks can be found on the [Talent Acquisition Process - Hiring Manager Tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) page.
+The talent acquisition team will ask candidates for references via email. The hiring manager should not conduct backchannel references. More information on how we conduct reference checks can be found on the [Talent Acquisition Process - Hiring Manager Tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references) page.
 
 ## Background checks
 
