@@ -109,4 +109,6 @@ A subset of my Q4 OKRs can be public and are in these categories:
 
 ## Ship features to achieve Best in Class 
 
-TBD
+* License finder / database
+* Continuous vulnerabilty scanning
+* Rule refinement
