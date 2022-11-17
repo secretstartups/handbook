@@ -208,15 +208,13 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 * Remote working experience in a technology startup will be an added advantage.
 * Willingness to learn and use software tools including Git and GitLab.
  
-## Performance indicators
+## Individual Contributor Performance indicators
 
-* [Prospects Submitted](https://about.gitlab.com/#sourced-prospects-submitted)
-* [Phone Screens Scheduled](https://about.gitlab.com/#phone-screens-scheduled-by-a-sourcer)
-* [Interview Conversion Rate](https://about.gitlab.com/#sourcer-interview-convertion-rate)
-* [Offer Conversion Rate](https://about.gitlab.com/#sourcer-offer-convertion-rate)
-* [Hires Conversion Rate](https://about.gitlab.com/#sourcer-hires-conversion-rate)
-* [Number of candidates moved to the Reference Check](https://about.gitlab.com/#sourced-candidates-moved-to-the-reference-check)
-* [Number of Offers sourced](https://about.gitlab.com/#sourced-offers)
+* Candidate Outreach: 150-200 outreaches per week 
+* Conversion Rate: Prospect to Candidate >15%
+* Conversion Rate: Candidate to Team Interview >40%
+* 6 offers extended per quarter to sourced (outbound) candidates
+
 
 ## Career Ladder
 
