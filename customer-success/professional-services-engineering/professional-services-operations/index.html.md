@@ -45,7 +45,7 @@ The consulting operations team has a [board](https://gitlab.com/gitlab-com/custo
 
 #### Scheduling Request for Consulting Projects
 
-Before contacting the Operations team to discuss scheduling on a consulting project, the following criteria must be met:
+We do understand we may have circumstances to plan for a project before a SF Stage 5, but we would like to have most of the information met prior to contacting PS Operations.  
 
 | Action |DRI |
 | ------ | ------ |
@@ -58,9 +58,7 @@ Before contacting the Operations team to discuss scheduling on a consulting proj
 | Skills pushed to the Customer Epic | Assigned Engagement Manager |
 | [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist)  | Requestor of Scheduling Request |
 
-For staffing requirements or questions, add the details to the PC Checklist Issue and tag the assigned Project Coordinator
-
-If there are further questions, or communications needed,  work with the assigned Project Coordinator in the PC Checklist Issue
+For staffing requirements or questions, add the details to the PC Checklist Issue and tag the assigned Project Coordinator.  If there is not a Project Coordinator assigned, tag the Operations Manager for assistance and assignment will be completed at that time.
 
 ##### Internal Project Scheduling
 
