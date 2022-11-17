@@ -125,6 +125,9 @@ Future data tracking considerations for actionable insights:
 * **Number of total of actionable insights currently open, activity within the issue** (activity <=6 months ago)
    * Total number of actionable insights that have seen activity within the past month.  It’s implied that these are actively being addressed in some way and not discarded.
 
+#### How we document actionable insights as closed
+Regardless of the type of actionable insight, we groom each closed actionable insight issue and assign the proper `closed::` scoped label to them.  Presently, this is a manual process done every other week by the UX Research Leadership team via a Slack bot notification. UX Research leaders start by understanding why the actionable insight issue was closed, then simply adding the correct `closed::` scoped label to it. An existing Sisense query then picks ups the issue for reporting purposes.
+
 #### Creating useful insights
 It's important to remember that insights often need context, since people may read them in isolation and misinterpret them. As you work on reporting on your study, it's important to keep the audience in mind and think about what you'd like them to learn from the study.
 
