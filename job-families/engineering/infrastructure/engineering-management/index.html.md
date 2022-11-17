@@ -81,15 +81,27 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 ### Manager, Infrastructure (Environment Automation)
 
-The Manager, Infrastructure (Environment Automation) leads directly manages the engineering team responsible for tasks relating to GitLab environment provisioning, and configuration. Team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
+The Manager, Infrastructure (Environment Automation) directly manages the engineering team responsible for tasks relating to GitLab Dedicated environment provisioning, and configuration. The team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, Environment Automation specialty requires:
 
 - Driving efforts around, and ensuring efficiency around GitLab production environments automation
 
+### Manager, Infrastructure (Switchboard)
+
+The Manager, Infrastructure (Switchboard) leads [a Fullstack team](/handbook/engineering/starting-new-teams/#fullstack-teams) responsible for the GitLab Dedicated customer-facing control panel referred to as "Switchboard".
+
+The team consists of [Backend Engineers](/job-families/engineering/backend-engineer/) and [Frontend Engineers](/job-families/engineering/frontend-engineer/).
+
+In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, the Switchboard specialty requires:
+
+- Experience in managing a combined team of engineers that have a focus on backend and frontend interfaces
+- Experience in running a customer-facing application
+- Experience in collaborating with Design and Product teams on wireframes for the customer-facing control panel
+
 ### Manager, Engineering (US Public Sector Services)
 
-The Engineering Manager, US Public Sector Services directly manages the engineering team responsible for tasks relating to provisioning, and configuring GitLab environments for US public sector customers in accordance with their compliance and security requirements. Team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
+The Manager, Infrastructure (US Public Sector Services) directly manages the engineering team responsible for tasks relating to provisioning, and configuring GitLab environments for US public sector customers in accordance with their compliance and security requirements. Team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, US Public Sector Services specialty requires:
 
