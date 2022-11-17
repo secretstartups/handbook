@@ -110,9 +110,20 @@ A lot of people coming onboard to GitLab have had some sort of exposure to macOS
 
 ### How to Erase a Disk for Mac
 
-If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) it is required that IT wipes the machine and restores it to base OS. We currently use 2 products to accomplish this task and you can read more about this here - [Remote Wipe procedure](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). If however you just wish to reinstall macOS and want to start with a clean slate then these instructions will help you accomplish this.
+If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) it is required that IT wipes the machine and restores it to base OS. We currently use 2 products to accomplish this task and you can read more about this here - [Remote Wipe procedure](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
 
-[How to erase a disk](https://support.apple.com/en-us/HT208496)
+#### Jamf (MacOS)
+
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules[here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Make sure all your data is backed up and laptop is powered on and connected to the internet
+- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
+
+#### Drivestrike (Linux)
+
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules[here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
+
+- We will send you an email which will contain install instructions for Drivestrike
 
 ## Self-Help and Troubleshooting Tips
 
