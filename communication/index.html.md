@@ -699,8 +699,13 @@ The following chart shows some helpful suggestions/considerations for scheduling
 1. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
 1. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 1. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
-1. It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
-   This is a situation where we have to do something counter intuitive to make all-remote meetings work. In GitLab, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue.
+1. It feels rude in video calls to interrupt people.
+   This is a situation where we have to do something counter intuitive to make all-remote meetings work.
+   In GitLab, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context.
+   We want everyone to contribute instead of a monologue.
+   Interrupting can be done by clicking "Raise Hand" in Zoom, by physically raising your hand on video, or by interrupting verbally.
+   As a speaker, allow yourself to be interrupted.
+   As a listener, advocate (verbally if necessary) for those who have raised their hand.
    Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 1. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
