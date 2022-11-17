@@ -43,21 +43,22 @@ Please read through this page to find the most common questions GitLab team memb
 
 ## Procedure
 
-### Getting a new phone or need to reset your 2FA for GitLab and other tools
+### Getting a new phone, lost/broken Yubikey or TouchID not working for Okta and Gitlab
 
-For 2FA related problems for your GitLab accounts, please use your backup codes or try generating [new ones](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
+#### Gitlab
 
-Follow these steps to successfully set up 2FA for your [Google account](https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=en).
+- For 2FA related problems for your GitLab accounts, please use your backup codes or try generating [new ones](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
+- If you are locked out completely reach out in `#it_help` Slack channel
 
-Follow these steps to reset your 2fa for [Okta](https://about.gitlab.com/handbook/business-technology/okta/#i-changed-my-phone-and-now-cant-do-mfa-what-do-i-do)
+#### Okta
 
-When you get a new device, before you get rid of the old one, make sure to install an authenticator app on the new device
+WebAuthn is now required for all Okta users. Refer [to these instructions](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) on how to configure
 
-You will need to log into your Okta and GitLab related accounts on your laptop and authenticate with the 2FA appplication old device. Disable the 2FA for your accounts, then enable the 2FA on your accounts with the authenticator app on the new device.
+- If your TouchID, Yubikey or Mobile Authentication is not working make sure your OS and phone is updated to the latest version
+- Try to login with different browsers (Chrome and Safari)
+- Reach out in `#it_help` if all else fails
+- 2FA resets will require a Zoom call with an IT team member who will ask you to hold your government ID with your address (ex. Drivers license) up to your webcam to have us verify your picture and postal address against your Workday postal address. This is for security verification
 
-If you are unable to move 2FA from your old to the new device, please reach out to #it_help on Slack with which system you can't log into. 
-
-An IT Analyst will need to verify that it is you over a Zoom before doing a 2FA reset or any password resets, this is required for security purposes.
 
 ### Forgot my password
 
