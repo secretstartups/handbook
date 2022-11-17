@@ -49,4 +49,4 @@ You can send this information to dmca@gitlab.com, you should receive an automate
 
 Disputes regarding namespaces, ownership and trademarks are not governed by DMCA. These disputes must be resolved by the parties involved. GitLab will never act as arbitrators or intermediaries in these disputes and will not take any action without the appropriate legal orders.
 
-For more information, see our [Namespace and Trademark policy](https://about.gitlab.com/support/#namespace--trademarks) and [Ownership Dispute Policy](https://about.gitlab.com/support/#ownership-disputes)
+For more information, see our [Namespace and Trademark Policy](https://about.gitlab.com/support/gitlab-com-policies/#namespace--trademarks) and [Ownership Dispute Policy](https://about.gitlab.com/support/gitlab-com-policies/#ownership-disputes)
