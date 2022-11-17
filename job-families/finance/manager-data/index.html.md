@@ -46,6 +46,12 @@ The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensati
 * Experience working with large quantities of raw, disorganized data
 * Must be able to work in alignment with Americas timezones
 
+## Performance Indicators (PI)
+
+* [SLO Achievement](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source) for Tier 1 Data
+* Legacy Data Removal Iterations
+* Data Platform Performance and Security Audits
+
 ### Senior Manager, Data
 
 #### Senior Manager, Data Job Grade
