@@ -175,7 +175,7 @@ To see who the current manager on-call is you can:
 
 We want to minimize the affect of on-call duty on your life. One way we do that is by offsetting any impact on your personal expenses.
 
-You may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to **your** service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan.
+You may expense the cost of your mobile phone service for any month that you are performing on-call duties. This is limited to **your** service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan.
 
 We understand you may have plans outside of your normal workspace while you're on-call. If as a result you **need** to use your phone to provide internet service to your computer, then you may include additional data charges in your expense report.
 
