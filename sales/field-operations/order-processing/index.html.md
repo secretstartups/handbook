@@ -831,6 +831,14 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
 Note: You must log in with your DocuSign credentials to access these educational resources.
 
+#### PO Remittance 
+
+All Purchase Orders should be remitted to the Sales Rep / Opportunity Owner / ISR. This applies to both Direct and Reseller-Direct deals. For Distribution deals, the reseller should send their PO to the Distributor, and the Distributor should remit the Purchase Order to Partnerorderops@gitlab.com. 
+
+Exceptions for this process are for customers who remit POs to procurement software, such as Ariba. POs sent through Ariba will be attached to the opportunity by the Billing team. 
+
+Once the PO has been recieved, upload to the Google, Notes and Attachment section of the opportunity before submitting the opportunity for booking.
+
 ### **Submit an Opportunity for Booking**
 
 You've created the quote, received all necessary approvals, and the customer has signed the Order Form. Awesome! Time to submit the opportunity for booking. Hold up! Be sure to review all required fields listed below **before** submitting the opportunity for approval.
