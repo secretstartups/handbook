@@ -168,13 +168,36 @@ Prior to giving an offer, Recruiters are required to request references and othe
 
 **NYC Location**
 
-USA Reference Check forms only: If the candidate has selected "Yes" to indicate that they are located in NYC, you will need to initiate the first part of the NYC background check. These checks are employment verification only, and the criminal check will be completed after they receive their offer at the same time as CES would normally send a background check for other locations. 
+USA Reference Check forms only: 
+It's important to note that the USA Reference Check form should be sent to the candidate and Step 1 should be completed before creating an offer. If the candidate selects “Yes” to indicate that they are located in NYC, you will need to complete a two-step background check process:
 
-To do this, log into Sterling and use the candidate's email address to initiate their background check. Select "NYC Step 1" as the package name, and click the checkbox that says "Create Custom Invitation E-Mail" toward the bottom of the page. You can then select the NYC Step 1 template. 
+1. CES service desk receives a ticket indicating that the candidate has submitted Reference Check Process Information - USA form. CES notes that the candidate has selected “Yes” for the NYC location question. 
 
-This process has been added due to NYC law, which separates the employment verification from the criminal check. Keep an eye on your inbox for when that first check clears and let the Recruiter know.
+2. CES will add the text expander snippet **refchecktodo** into the ticket to help guide them through the process. CES will add the “NYC BGC” label.
 
-Make yourself a reminder in Greenhouse to initiate the NYC Step 2 background check during the offer instead of the traditional Comprehensive Criminal.
+3. CES will go to https://sterlingcheck.app/dashboard/#/dashboard/. It is important to use this version of Sterling because it allows us to edit the email template that is delivered with the check. 
+   - Select **NYC Step 1** screening package. You will need to fill out the Location of Employment field as San Francisco, and the Projected Salary field with the candidate's salary (this range can be found in the “Approvals” tab of the candidate’s GH profile). Click “next”.
+   - On the next page, under "Email Content", in the drop down, select "NYC Step 1" template. 
+   - Scroll to the bottom of the page and input the candidate’s full name and email address. Send Invite. 
+
+
+4. CES will add the “Pending” label and due date on the ticket. Create a follow-up reminder in Greenhouse 1 business day out to check if there is an ETA.
+   - Once an ETA is set in Sterling, create another follow up reminder in greenhouse for that ETA date. Please note that the results may come in earlier than the ETA.
+   - Please contact Ale or Marissa for any BGC escalations. e.g "Status: Unperformable" or "Status: Consider"  
+
+5. This process has been added due to NYC law, which separates the employment verification from the criminal check. Keep an eye on the status of the Step 1 screening results in Sterling. While we are waiting for Step 1 to be cleared, the recruiter can provide the candidate the verbal offer, begin creating the offer in Greenhouse and going through the approval stages. Recruiters can send the contract request ticket to CES when they are ready, **although, CES _cannot_ send a written contract to the candidate until Step 1 has been cleared.**
+
+**Tip:** when the CES desk receives the contract ticket, add the NYC BGC label immediately to remind yourself and your team members that this candidate is undergoing the NYC two-step background check process. 
+- When checking BGCs in Sterling initiated by other team members, be sure to select "Entire Organization" in the top left section of the [Sterling dashboard](https://sterlingcheck.app/dashboard/#/dashboard/). 
+
+
+6. Once the recruiter has sent CES a contract ticket, CES will then complete **NYC Step 2** of the background check through the Greenhouse integration. Once in Sterling, select the NYC Step 2 screening package and send. 
+Note: if it is a Finance position, you will also need to add the A La Carte - Extended Global Sanctions check.
+
+**Troubleshooting Tip:** If you receive an "expired" error when initiating Step 2 through the Greenhouse Sterling integration, you can navigate to the [Sterling Direct dashboard](https://secure.sterlingdirect.com/sys/). On the right hand side, under "E-Invite Applicant to Background Check", enter in the candidate's email address and select "Invite".
+- Fill in the applicant's information 
+- Under "Order Information", select Gitlab as the Job Position and under "Screening Package" select NYC Step 2.
+- Then scroll to the bottom right of the page and select Send. 
 
 **PIAA**
 
