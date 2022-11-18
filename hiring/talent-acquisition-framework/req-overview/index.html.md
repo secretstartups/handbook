@@ -151,6 +151,8 @@ Once a Hiring Manager has determined they want to move forward with a candidate,
 
 If you would like the Hiring Manager to receive an email when the form has been received, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed.
 
+For more information, please visit the [Job Offer Process](handbook/source/handbook/hiring/talent-acquisition-framework/offer-process/) page.
+
 ### **Step 7: Justification (Engineering Only)**
 
 See [Justification section in offer packages](/handbook/hiring/offers/#justification-section).
@@ -163,30 +165,6 @@ If the candidate for the position is internal, you should wait until you've pres
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
-### **Step 9: Verbal Offer**
+### **Step 9: Verbal Offer & Contract**
 
-Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
-
-Offer details usually include:
-- [Start Date](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability) - ensure that the candidates start date is not a blackout date (unless needed for legal reasons)
-- Job Title
-- Salary
-- General and specific benefits
-- Contract type
-- [Ta-New-Ki Welcome Call (Pre-Onboarding)](/handbook/people-group/general-onboarding/#ta-new-ki-welcome-call-pre-onboarding)
-- [Onboarding process](/handbook/people-group/general-onboarding/#onboarding-at-gitlab)
-- [Asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
-- [Stock options](/handbook/stock-options/)
-- [Unlimited paid-time-off](/handbook/paid-time-off/)
-- [Incentives](/handbook/incentives/)
-- [Office equipment/reimbursements](/handbook/spending-company-money/)
-- [Configuring your new laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#configuring-new-laptops--apple-ids)
-- [Employment Assistance Program](/handbook/benefits/#employee-assistance-program)
-
-*A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.*
-
-If the candidate declines GitLab's offer, the Recruiter will tag the CES team and FP&A partners for their department in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
-
-### **Step 10: Contract**
-
-Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate via Greenhouse email. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check) during this stage. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
+For details about these final stages, please visit the [Job Offer Process](handbook/source/handbook/hiring/talent-acquisition-framework/offer-process/) page. 
