@@ -22,14 +22,17 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 
 [Identify hiring need](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-1hm-identifying-hiring-need)
 
-1. Work with Product Manager as they are [DRI of headcount planning](/handbook/engineering/#headcount-planning), Finance, and Talent Acquisition to [include vacancy in the hiring plan](/handbook/hiring/talent-acquisition-framework/req-creation/#adding-vacancies-to-the-hiring-plan-dri-hiring-manager). You should obtain a GitLab Hiring Plan ID (GHP ID)
+1. Work with Product Manager as they are [DRI of headcount planning](/handbook/engineering/#headcount-planning), Finance, and Talent Acquisition to [include vacancy in the hiring plan](/handbook/hiring/talent-acquisition-framework/req-creation/#adding-vacancies-to-the-hiring-plan-dri-hiring-manager).
 1. [Create or Review the Job Family](/handbook/hiring/talent-acquisition-framework/req-creation/#create-or-review-the-job-family)
 
 ### Step 2. Kickoff
 
 1. [Create Kickoff](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) 
-1.  Create a separate kickoff issue for each req you are hiring (each unique GHID).  For identical roles, one kickoff issue can just be a link to another, but having a separate issue for each req is valuable for tracking purposes.
-1. Include label ~section::ops to the kickoff issue so we can track in [this board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3516477?label_name[]=section%3A%3Aops) (confidential) and use it as the single source of truth (SSOT)
+1. Request a GitLab Hiring Plan ID (GHPID) from Director of Engineering, Ops (@sgoldstein)
+1. Once the GHPID has been requested the assigned recruiter will create a kickoff issue in the [gl-talent-acquisition/req-intake project](https://gitlab.com/gl-talent-acquisition/req-intake/) and mention you on it.  Once the kickoff issue is created confirm that:
+    1. There is a separate kickoff issue for each req you are hiring (each unique GHPID).  For identical roles, one kickoff issue can just be a link to another, but having a separate issue for each req is valuable for tracking purposes.
+    1. The kickoff issue has the ~section::ops label applied so we can track in [this board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3516477?label_name[]=section%3A%3Aops) (confidential) and use it as the single source of truth (SSOT)
+    1. If you have not received a kickoff issue within 3 business days of requesting the GHPID escalate this by mentioning @sgoldstein in the #doe-ops slack channel.
 1. [Complete Kickoff](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-2hm-complete-kick-off)
 1. Add the new vacancy to the handbook https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/vacancy
 
