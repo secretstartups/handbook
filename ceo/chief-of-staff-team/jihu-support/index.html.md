@@ -249,8 +249,10 @@ In the interest of creating IP, JiHu will take on larger product initiatives tha
 
 #### What product managers are not responsible for
 
+GitLab Product Managers are not responsible for JiHu product decisions, but collaboration and feedback with JiHu Product Managers is encouraged and appreciated.
+
 - Just like [PMs aren't the arbiters of community contribution](/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
-- Product managers are not responsible for JiHu product decisions, such as tiering, pricing, upstream/downstream contributions
+- Product managers are not responsible for JiHu product decisions, such as tiering, pricing
 - When reviewing JiHu milestone planning: 
    1. Be aware of JiHu's plans in your product area. 
    1. Provide guidance in accordance with GitLab's product direction. 
