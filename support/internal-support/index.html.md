@@ -119,7 +119,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
 | Reset max seats for QSR | This entry would be used after approval to waive the overage has been granted and approved via SFDC chatter. Once that is done, you would file the form to request support reset the max seats |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
-| Billing Entity Change | Use this as part of the process of a billing entity change. |
+| Billing Entity Change | Use this as part of the process of a billing entity change, to check whether the correct subscription is associated with the customer's group. |
 | **SaaS Trial Related** | |
 | Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
 | Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
