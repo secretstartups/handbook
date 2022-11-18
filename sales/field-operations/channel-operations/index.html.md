@@ -673,8 +673,6 @@ The following contacts will provide updated Price Files directly to distributors
 
 The Channel Operations team maintains an internal SKU/Price Change tracker to keep the channel teams updated on product launches and pricing changes. This is not meant to replace the responsibility of the above departments to communicate any SKU or pricing changes.
 
-
-
 ## SFDC Channel Manager Activity Tracker
 
 The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, [Business Plans](https://docs.google.com/presentation/d/1lSXI1cnJQkv5RFwTEO2-J1FNTs0ykp25WA-orJj-Fok/edit#slide=id.g29a70c6c35_0_68), 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
@@ -730,11 +728,27 @@ If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting 
 If GCP or AWS support a deal and help drive the customer to buy GitLab, but were not the original source of the opportunity nor are they transacting the deal, then the following field should be filled out on the Opportunity:
 - **Influence Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
 
-### Alliance Reporting Best Practices 
- - When creating reports for Alliance Accounts, the `Resale Partner` field can be filtered to contain the following accounts: Amazon,google,IBM (OEM)
- - Use the `Net ARR` field to calculate margin of a deal. The `Amount` fields calculates the total contract value of all customer subscriptions, not the amount of a specific deal.
- - Use the `Stamped Owner Opp` fields for geo-related data when creating reports. 
- -  `Billing Account Country` is the optimum choice for reporting on country specific information. Occasionally, `Billing Country` or `Account Address Country` is used for country-related information, the enrichment tools can sometimes cause `Account Address Country` to be incorrect.
+## Clari Forecasting for Partner Managers and Leaders
+
+Here is a guide on how to log in and navigate the mdoule:
+https://docs.google.com/presentation/d/1eIv9YMsWT-S5Ln0vGSGvzzEkq8bMARlvkkM2uGzlodY/edit#slide=id.g1966657aff9_0_38
+
+Below are descritpions of the different columns in the Channel Forecasting module in Clari. You will also find an equivalent Salesforce filter provided.
+
+| Column | Description | SFDC Filters |
+|---|---|---|
+| Partner Sourced Plan | Your Partner Sourced target |  |
+| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
+| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
+| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
+| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
+| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
 
 ### Marketplace Transaction Fees
 Deals booked through the Amazon and Google markeplaces use the following fee schedule (non-negotiable):
