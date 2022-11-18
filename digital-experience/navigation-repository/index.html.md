@@ -61,6 +61,40 @@ To update the navigation in the repositorys that consume it, for example www-git
   - Go to mobile view and click through all links
 - Does anything seem off? If it's breaking, hotfix it in the navigation repo and release a new version. If it's a minor bug, create a new issue to be triaged. 
 
+## Major Release Navigation Checklist
+
+You can use the MR template in the buyer experience repo titled "navigation change". It contains the following checks, for a thorough runthrough of the navigation:
+
+_Chrome_
+- [ ] Test a link in each dropdown of the **desktop** header (Especially login/free trial buttons)
+- [ ] Test a link each section of the **desktop** footer (Especially Edit in IDE/Page source links)
+- [ ] Test a link in each section of the **mobile** header
+- [ ] Test a link in each section of the **mobile** footer
+- [ ] Test search on desktop
+- [ ] Test search on mobile
+- [ ] Test tabbing through header links
+- [ ] Test tabbing through footer links
+
+_Safari_
+- [ ] Test a link in each dropdown of the **desktop** header (Especially login/free trial buttons)
+- [ ] Test a link each section of the **desktop** footer (Especially Edit in IDE/Page source links)
+- [ ] Test a link in each section of the **mobile** header
+- [ ] Test a link in each section of the **mobile** footer
+- [ ] Test search on desktop
+- [ ] Test search on mobile
+- [ ] Test tabbing through header links
+- [ ] Test tabbing through footer links
+
+_Firefox_
+- [ ] Test a link in each dropdown of the **desktop** header (Especially login/free trial buttons)
+- [ ] Test a link each section of the **desktop** footer (Especially Edit in IDE/Page source links)
+- [ ] Test a link in each section of the **mobile** header
+- [ ] Test a link in each section of the **mobile** footer
+- [ ] Test search on desktop
+- [ ] Test search on mobile
+- [ ] Test tabbing through header links
+- [ ] Test tabbing through footer links
+
 _Note: You will have to visit pages built by that repository in order to see your navigation changes. For example, the website [homepage](https://about.gitlab.com) is built in `Buyer Experience`, so you can visit the homepage in your review app to see your navigation changes. However the [handbook](/handbook/) is built by `www-gitlab-com`, so you'll need to go to a handbook page in order to test your navigation changes in the `www` review app._
 
 #### Detailed local review before a nav release with yarn link
@@ -75,6 +109,20 @@ If you want to review locally changes made to the navigation:
 1. Install packages and start the project by running `yarn && yarn dev`
 
 Changes made to the navigation should be available in the BE or Dub repo for testing extensively on your local environment. 
+
+
+## Semantic Versioning and releasing alpha versions
+
+When we release larger versions of the navigation (beyond simply adding a link), we recommend using the semantic versioning [alpha directive](https://semver.org/#spec-item-9)
+
+For example, if you are looking to release verion `1.1.0` of the navigation, consider releasing version `1.1.0-alpha` instead. You can then bring the alpha version into the consuming repositories, such as Buyer Experience, and test it out.
+
+If there are problems, you can make changes in the navigation repo, release those changes as `1.1.0-beta` or `1.1.0-alpha.1`, test them, and so on, continuing to release "unstable" alpha versions until you're happy with the release.
+
+Once the bugs are fixed, re-release the same code to npm as version `1.1.0`, and merge everything in. 
+
+Although this means re-releasing identical code as a new version to npm, it saves us from incrementing multiple minor versions in one release. 
+
 
 ## Running an A/B Test on the Navigation
 
