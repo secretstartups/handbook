@@ -23,9 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 3 | No Session  | N/A  |
-| Nov 10 | No Session  | N/A  |
-| Nov 17 | Strategic Selling ROI  | Cherry H. & Edmond C.  |
 | Nov 24 | **No Session - Public Holiday** | TBD  |
 | Dec 1 | FY23-Q4 Channel Update  | Blair F. & Ed C.  |
 | Dec 8 | Forrester TEI Enablement (Study + Estimator)  | Laura C. & Ryan R.  |
@@ -44,6 +41,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-11-17 | **[Strategic Selling & ROI](https://youtu.be/lkUOd-lzU8I)**  | Private  |
 | 2022-10-13 | **[How GitLab Competes with Snyk](https://youtu.be/SzAbgQGQ8Wg)**  | Private  |
 | 2022-10-06 | **[Security & Governance Enablement](https://youtu.be/O3osCCcZbt4)** | Private  |
 | 2022-09-29 | **[Collaborating with Community Programs](https://youtu.be/B75IPB5L4yI)**  | Private  |
