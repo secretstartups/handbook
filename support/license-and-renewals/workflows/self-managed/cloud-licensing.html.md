@@ -92,6 +92,12 @@ Knowing whether to provide an Offline or Legacy License will depend on the custo
 #### 2. Are reseller purchases considered the same as sales-assisted? If a customer purchased after 2022-07-07 and needs a Legacy License, should we send them to their Account Manager to go through the exemption process, or do we treat them the same as web-direct and give them a Legacy License file, no questions asked?
 Reseller customers should be directed to sales as well using the same process. 
 
+#### 3. A customer would like to use a Legacy License on a dev instance after activating their production instance with a Cloud License activation code.
+
+We can generate a legacy license in this situation, but only after an exemption has been approved. **Do not apply the exemption to the currently CL-enabled subscription.** Instead, generate a legacy license duplicate of the existing license.
+
+Please see [this comment thread](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/610#note_1052615060) for greater context on this workaround.
+
 ## Additional Resources
 For more information on Cloud Licensing, please refer to the following resources:
 1. [Cloud Licensing Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/)
