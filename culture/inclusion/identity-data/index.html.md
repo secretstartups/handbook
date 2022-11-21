@@ -16,7 +16,7 @@ Data as of 2022-07-31
 | Based in JAPAC          |          12.08% |
 | Based in EMEA           |          28.99% |
 | Based in LATAM          |           1.38% |
-| Based in NORAM          |          57.55% |
+| Based in USA & Canada   |          57.55% |
 | **Total Team Members**  |     **100.00%** |
 
 
