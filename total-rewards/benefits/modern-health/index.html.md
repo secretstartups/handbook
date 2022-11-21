@@ -17,6 +17,13 @@ GitLab offers mental health care services to all team members and their eligible
 
 For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/10jn8_UoqtMwHpYLaKQpGRfDwgxeN_65h/view?usp=sharing) in October 2022 that walks team members through valuable information about this benefit and how to start utilizing it.
 
+Check out what GitLab team members are saying about their experience with Modern Health:
+
+1. _Mindfulness and Meditation Coaching:_ `I listen to a podcast that referenced a study that showed 12 minutes of meditation a day can improve focus and reduce anxiety/stress. Modern Health has a lot of guided meditations available and I bookmark the 12 minute body scan meditation to perform (almost) every day. I think it's helped me.`
+1. _Career Coaching:_ `I've absolutely had an amazing and helpful experience. My coach helped me advocate for myself, something I've never really felt comfortable doing before. She supported and uplifted me as well, cheering me on as I made improvements and learned how to handle adversity.`
+1. _Confidence Coaching:_ `I've only had one session so far but it was great and led to helpful insights. I'm looking forward to another in a few weeks. I wanted help with imposter syndrome and overall lack of confidence. My coach talked with me about the source of the imposter syndrome, dug in to how it's manifested earlier in my career, and suggested a few strategies for reframing the negativity of my inner dialog into something more productive. I already feel better by having a "to-do" list of things to work on, and I feel a lot more supported and validated. I highly recommend it!`
+
+
 ### What does Modern Health offer?
 
 Modern Health is the one-stop shop for all tools related to mental well-being and self-improvement. Members gain access to the following features:
@@ -35,14 +42,17 @@ If you’re still not sure where to get started, we recommend that you:
 ### Which areas does Modern Health support?
 
 Modern Health cultivates the resilience needed to weather the ups and downs of everyday life. Here are the specific areas where we can help:
-* Work Performance: Productivity, Leadership Skills, Work Relationships, Professional Development
-* Relationships: Romantic Relationships & Dating, Family, Friends, Breakups
-* Stress & Anxiety: Anxiety, Depression, Stress, Resilience
-* Healthy Lifestyles: Sleep, Physical Activity, Eating Well, Habits
-* Financial Well-being: Goals, Budgeting Savings and Debt, Management, Investing
-* Diversity, Inclusion & Belonging : Gender, Equality, Unconscious Bias, LGBTQ
-* Life Challenges: Pregnancy/Parenting, Elder/Child Care, Loss of a Loved One, Illness
-* Mindfulness & Meditation: Stress Less, Sleep Better, Focus Better, Meditation for Beginners
+
+| Coaching Topic | Description |
+| ----- | ---------- |
+| **Work Performance** | Career Growth, Productivity, Leadership Skills, Work Relationships, Professional Development |
+| **Relationships** | Romantic Relationships & Dating, Family, Friends, Breakups |
+| **Stress & Anxiety** | Anxiety, Depression, Stress, Resilience |
+| **Healthy Lifestyles** | Sleep, Physical Activity, Eating Well, Habits |
+| **Financial Well-being** | Goals, Budgeting Savings and Debt, Management, Investing |
+| **Diversity, Inclusion & Belonging** | Gender, Equality, Unconscious Bias, LGBTQ |
+| **Life Challenges** | Pregnancy/Parenting, Elder/Child Care, Loss of a Loved One, Illness |
+| **Mindfulness & Meditation** | Stress Less, Sleep Better, Focus Better, Meditation for Beginners |
 
 Note: This list isn’t intended to be comprehensive. Please reach out to `help@joinmodernhealth.com` with any questions about how or where to get started.
 
@@ -54,10 +64,9 @@ The philosophy towards mental health comes from the World Health Organization (W
 
 Modern Health’s model is grounded in evidence-based approaches, primarily Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Motivational Interviewing, and Mindfulness.
 
-
 ### When do my Modern Health benefits reset?
 
-Your benefits reset on March 20, 2022.
+Your benefits reset on March 20, 2023.
 Note: Unused sessions do not rollover when your benefits reset.
 
 ### What languages/countries is Modern Health available in?
