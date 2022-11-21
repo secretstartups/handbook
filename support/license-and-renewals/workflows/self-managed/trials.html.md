@@ -41,7 +41,6 @@ Clients should initiate a request on their own by clicking on the following link
 
 1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
-1. Delete the contents of `Customer` field if present.
 1. Delete the contents of `Zuora subscription ID` field if present.
 1. Set the `Users count` number to what is requested.
 1. Set the `Previous users count` number to the previous license **if there are trueups**. Otherwise, delete the contents.
