@@ -174,6 +174,7 @@ Staging Ref environment has some known limitations that will be worked on:
 - Configure Unified URL on Staging Ref ([issue#370312](https://gitlab.com/gitlab-org/gitlab/-/issues/370312))
 - Load testing ([issue#344223](https://gitlab.com/gitlab-org/gitlab/-/issues/344223), [issue#344224](https://gitlab.com/gitlab-org/gitlab/-/issues/344224))
 - Increase Staging Ref adoption and gather feedback - ([issue#350744](https://gitlab.com/gitlab-org/gitlab/-/issues/350744))
+- Configure Pages on Staging Ref ([issue#383243](https://gitlab.com/gitlab-org/gitlab/-/issues/383243))
 
 Other outstanding work for Staging Ref is tracked [in GitLab issue tracker](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=staging-improvements&label_name%5B%5D=Future&first_page_size=20).
 
