@@ -18,7 +18,7 @@ The Customer Success Manager organization is distributed across different custom
 
 ## Segment criteria
 
-Segment criteria are [defined in the Customer Success Manager wiki](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-segments).
+Segment criteria are [defined in the Customer Success Manager wiki](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-segments) (GitLab internal Link).
 
 ## Segments
 
