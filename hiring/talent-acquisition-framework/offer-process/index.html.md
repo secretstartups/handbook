@@ -45,67 +45,98 @@ After the reference check stage is complete, and details of a potential job offe
 
 A description on what to input into each Offer field in Greenhouse can be found below.
 
+
 * **Opening:** If you have multiple openings, you are typically choosing the one that started the earliest. You can check the approvals tab to confirm this, but you should also be able to tell based on the smallest opening number. Choosing the earliest opening helps ensure an accurate Time to Fill. 
+
 
 * **Start date:** New hires start on Monday, with exceptions made for public holidays for a new hires’ location, Family & Friends Day, and other designated [no start dates](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) as chosen by People Connect. Additionally, internal hires with salary changes start on the 1st or 16th only (regardless of the day of the week), and those in Sales can only start on the 1st.
 
+
 * **Job Title:** It’s important that we use the correct title, which should not include a speciality. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay.
+
 
 * **Level of Role:** Anything Director+ is considered a “Leader”
 
+
 * **Division:** This field is synched with WorkDay and will update as new divisions are created. 
+
 
 * **Department:** This field is synched with WorkDay and will update as new divisions are created. 
 
+
 * **Employment Type:** Talent Acquisition typically only hires Full-Time or Interns. 
 
+
 * **Employment Status:** This field is used for the US. If you’re not sure of the status, think of how they are paid: If the job is paid by the hour, the person is typically non-exempt (aka not exempt from overtime). If the job is salaried, they will be exempt, as they do not receive overtime.
+
 
 * **Hiring Manager/Hiring Manager Title:** Please provide a full title for your hiring manager rather than abbreviations, as this will appear in the candidates’ contract. 
 
 * **Candidate City:** Choose the actual city where the candidate is located, not their locality.
  
+
 * **State/Province:** This field is synched with WorkDay and is only applicable to the US and Canada. 
+
 
 * **Candidate Country:** This field is synched with WorkDay. If the candidate is currently living in a different country than where their contract is stating (ie they currently live in Germany and are going to be working in Netherlands), please choose the place they will be working, but let CES know so they can order a background check for the place where they are currently working. 
 
+
 * **Locality:** Use [this link](/handbook/total-rewards/compensation/compensation-calculator/#location-factor) to help you determine your locality. More details on how to select a specific city can be found [here](/handbook/total-rewards/compensation/compensation-calculator/#introduction-2). 
+
 
 * **Comp Calc Link:** Include a link to the comp calc that you used to determine salary, or outside documentation. If you had an exception, please include a link to that documentation here. 
 
+
 * **Currency and Annual Salary:** Candidates are paid in local currency. [Click here](/handbook/total-rewards/compensation/#paid-in-your-local-currency) for a current list of any locations where exceptions can be made if a candidate asks. 
+
 
 * **Are they paid yearly or hourly?:** If the salary is an annual salary, rather than an hourly rate, choose yearly. 
 
+
 * **Variable Bonus Type:** Choosing this field will add a designated paragraph to your candidate’s contract that explains how a commission or director bonus works. 
+
 
 * **Variable bonus frequency:** This details whether the variable bonus shown is per year, not how it is paid out. All bonus information is calculated per year. 
 
+
 * **Bonus Currency & Amount:** This is calculated per year, in the same currency as their salary.
+
 
 * **Signing Currency & Amount:** This is a one-time payment in the same currency as their salary.
 
+
 * **Bonus/Variable Percent:** This is a bonus field that specifies what percent of the total salary is bonus. This field will not be used in contracts and is only used for WorkDay.
+
 
 * **References Checked:** This verifies for record whether you have already completed references, or if you’ve told the candidate that the offer is contingent on positive references as they’re still in progress.
 
+
 * **Family Relationship:** Use this field to let CES know if there’s a family relationship that will require a [Family Member Acknowledgement form](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-send-a-family-member-relationship-acknowledgment).
+
 
 * **Signatory Name & Signatory Title:** See [this chart](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) for a list of signatories per country.
 
+
 * **Clearances:** If you will be sending a Federal contract, please use these fields to designate if clearances are required in order to complete the job, and what bonus would be given if that is the case.
+
 
 * **End Date:** Use for Inc (USA) contractors and interns only. 
 
+
 * **Entity:** [This](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) is a great place to see which entities are currently associated with different countries. If your candidate has a position that includes “Federal” or PubSec” in the title, or you believe they’ll be working in government contracts, please discuss with your Hiring Manager if they belong in the Federal entity. If you’re not sure, discuss with Legal before CES sends a contract. If the candidate is internal and is moving from a different entity to Federal, or from Federal to a different entity, please send a note to CES that the candidate requires a full contract rather than an LOA. 
+
 
 * **Total Rewards:** Skip these fields, Total Rewards will add them during their approval stage.
 
+
 * **Candidate BSN and DOB:** These fields are for Netherlands candidates only, and answers to these can be found in your completed Reference Check form.
+
 
 * **Nationality & Country of Citizenship:** Please fill these out for any PEO contracts. The answer will be in your completed Reference Check form.
 
+
 * **Indefinite or Fixed Contract:** Netherlands hires will receive a fixed contract for their first year, as will any contractors or interns. Other than these, you can select “no” or leave this field blank. 
+
 
 </details>
 
