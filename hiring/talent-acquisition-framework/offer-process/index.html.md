@@ -146,7 +146,7 @@ If the candidate for the position is internal, you should wait until after you'v
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval. Pay special attention to candidates moving countries: even if the candidate is only in France for 1 month of employment and will then be permanently located in Switzerland, their entity and employment contract will be France. 
 
-####**The offer approval process**
+#### **The offer approval process**
 
 The offer approval process begins with Total Rewards, who first reviews compensation details, job title, locality, and other details. Then, the FP&A partners associated with the jobs' department will approve. Finally, the department approves. 
 
