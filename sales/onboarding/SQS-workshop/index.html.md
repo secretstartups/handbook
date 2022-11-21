@@ -32,9 +32,9 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-| Nov 29, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
-| Nov 30, 2022 | 11:00a ET | 12:20p ET | Value Card Exercise | Field Enablement  |
-| Nov 30, 2022 | 12:30p ET | 2:20p ET | Discovery Question Exercise | Field Enablement  |
+| Nov 28, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
+| Nov 29, 2022 | 11:00a ET | 12:20p ET | Value Card Exercise | Field Enablement  |
+| Nov 30, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
 | Dec 1, 2022 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement  |
 | Dec 2, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
 | Dec 5, 2022 | 11:00a ET | 11:50a ET | Intro to Competition |  Competitive Intelligence Team  |
