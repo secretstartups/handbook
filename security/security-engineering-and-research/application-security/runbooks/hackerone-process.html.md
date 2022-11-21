@@ -83,6 +83,7 @@ following guidelines as necessary:
           - If we realize our mistake late in the process and we have already rewarded the new report, the bounty should be raised to the amounts above or left as is if it's already higher
           - The author of the duplicate report should also be thanked in the CVE credits and blog post
           - If the new report demonstrates new and higher impact, we calculate the CVSS score and award to the new reporter the difference between the new severity and what was awarded to the original report 
+- If the report relates to information disclosure, follow the [triaging exposed secrets](#triaging-exposed-secrets) process.
 - If the report is valid, in-scope, original, and requires action, security-related documentation change, or if the report needs further investigation by
 the responsible engineering team:
     - [Calculate the CVSS score](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/) and post the resulting vector string (e.g.: `AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:L`) as an internal comment on the report, this will be used later when requesting a CVE ID
@@ -113,6 +114,35 @@ the responsible engineering team:
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
 - Remember to review the `Pending Disclosure` tab and follow [our disclosure process](#closing-out--disclosing-issues)
+
+#### Triaging exposed secrets
+
+Exposure of information and secrets is handled a little differently to vulnerabilities, as there is nothing to patch and therefore no need for a GitLab Project Issue, CVSS, or CVE. When a leak occurs:
+
+- Mitigate the incident if possible
+  + If the exposed secret is a Personal Access Token:
+    + Using the API, gather the output of [`/api/v4/user`](https://docs.gitlab.com/ee/api/users.html#for-normal-users-1) and [`/api/v4/personal_access_tokens/self`](https://docs.gitlab.com/ee/api/personal_access_tokens.html#using-a-request-header) for the SIRT incident.
+    + [Revoke the token](https://docs.gitlab.com/ee/api/personal_access_tokens.html#using-a-request-header-1)
+    + Post a comment in `#security-revocation-self-service` using [this message template](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/misc/exposed_secrets.md#communication-with-the-owner)
+  + If the information is leaked via a comment, make the Issue or MR confidential
+- Use the `/security` slack command to initiate an incident
+  + Learn more about engaging the SEOC: https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call
+  + In the description section, include a link to the HackerOne report and any other useful information
+  + In the remediation section, document what time and from what IP you revoked the token
+  + If in doubt, choose "Urgent".
+  + If you've been able to mitigate the incident, choosing "Not Urgent" is fine. The SEOC typically responds quickly anyway.
+- Add information to the SIRT issue.
+  + Update the Timeline section to include the date the secret was leaked, when HackerOne report came in, and when you took any actions.
+  + Add any comments to the SIRT issue with context or information that might be helpful.
+- In the H1 report use the reference field to link to the SIRT issue (for example if the incident issue is `https://gitlab.com/gitlab-sirt/incident_XXXX/-/issues/1` the reference should be `gitlab-sirt/incident_XXXX/-/issues/1`
+- Identify the most appropriate [non-CVSS bounty amount](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/) and add your initial [suggested bounty](https://docs.hackerone.com/programs/bounties.html#suggesting-bounties) in H1
+- Use `/h1 bounty REPORT_ID` to create a comment on the Bug Bounty Council issue
+- Support SIRT as required and, if applicable, follow the process for [handling severity::1/priority::1 issues](./handling-s1p1.html)
+- Investigate the location of the exposure, and locations like it, for further exposure.
+  + Check the history on issue / MR descriptions
+  + Check git commit history
+  + Check build artifacts
+  + Use Advanced Search to look for similar patterns in other projects used by GitLab team members
 
 #### Awards
 
