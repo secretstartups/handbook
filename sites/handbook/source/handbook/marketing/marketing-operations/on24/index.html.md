@@ -91,7 +91,7 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 
 ![Create a webcast screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001eju0)
 
-3. Enter a title for your webcast and choose your `Present Type`.
+3. Enter a title for your webcast and choose your `Present Type`. Keep in mind the webcast title will be used as a token on the `registration` and `reminder` emails, which are handled via On24 automatically, so make sure the title used is reader friendly.
 
 ![Title and present type screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001eju5)
 
@@ -113,11 +113,15 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 
 ![Tagging screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek6V) 
 
-8. ON24 captures Benchmark data from all the webcasts run through Webcast Elite.  Help them organize that data by choosing a Category and Application, if you'd like.
+8. `Registration`, `24 Hour Reminder` and `1 Hour Reminder` emails are handled through On24 rather than Marketo, for setup simplicity. Make sure `Registration Confirmation Email`, `Reminder email` and `Reminder 2 email` are all toggled on. You can also click `Preview/Edit` to view the email and check for any formatting you'd like to change or to review active tokens. If you make changes, remember to `Save` and send yourself a `preview` email to make sure nothing is broken. 
+
+![Email toggles](/handbook/marketing/marketing-operations/on24/on24-emails.jpeg)
+
+9. ON24 captures Benchmark data from all the webcasts run through Webcast Elite.  Help them organize that data by choosing a Category and Application, if you'd like.
 
 ![Benchmark data screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek6f) 
 
-9. Once you've filled in all the required fields, click Create.  The system will automatically generate an Event ID and Webcast URLs for your event. 
+10. Once you've filled in all the required fields, click Create.  The system will automatically generate an Event ID and Webcast URLs for your event. 
 
 ![Create screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek6k) 
 
@@ -180,16 +184,11 @@ After completing the creation of an On24 web event, the next step is to connect 
 1. Before continuing on, check if it seems appropriate to [set any of the local assets to expire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date). Appropriate items to set an expiration would be, for example, smart campaigns like the `04 On24 Processing - Attended` campaign, which is no longer needed after the event ends.
 1. Update the program tokens as needed within the program. All email assets and landing pages are token dependent. Important tokens to review:
     - `my.webcastDate`, `my.webcastTitle` and `my.event location` are standard to update.
-    - `my.on24URL`: This token needs to be updated as upon registration the registrant is sent an automatic email with the Audience URL attached to this token.
-    - `my.On24password`: Update this with the webinar password if the webcast was set up with one. You will need to add the token to the `reminder` and `registration confirmation` emails.
     - `my.eventid` and `my.key` need to be filled out to have seamless registration work correctly between Marketo and On24. The `key` is a several character long alphanumeric snippet and can be found at the end of the Audience URL as seen [here](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x7I2&feoid=00N4U000008YrFJ&refid=0EM4U0000029XDA).
-    - `my.Add to Calendar` token needs to be updated for every program in order for the calendar invite to be correctly downloadable. 
-    - `my.bullet1` - `my.bullet4` may appear on the `registration confirmation email` and `registration landing page` so be sure to update either the tokens or the templates to accommodate. The series of tokens for `my.InviteEmailBody1` and `my.AgendaTopic/my.AgendaTime` also appear on the `reminder` and `invitation` email templates. 
+    - `my.bullet1` - `my.bullet4` may appear on the `registration landing page` so be sure to update either the tokens or the templates to accommodate. The series of tokens for `my.InviteEmailBody1` and `my.AgendaTopic/my.AgendaTime` also appear on the `invitation` email templates. 
     - If speakers are to be shown on the landing page, be sure to update the series of `speakers` tokens. If there is no need to display the speakers, deactivate the `speaker lists` on the `registration landing page` template. 
     - Update others as needed, but be sure to review **each** asset to understanding what needs to be updated and where. 
-    - Please note the `Registration Flow` smart campaigns will send out the `Audience URL` for the event and have tokens arranged to share event passwords.
-8. `Reminder` and `Invitation` email campaigns are supplied within the template. 
-    - Take note of the suggested timelines for the email programs and schedule accordingly.
+8. `Invitation` email campaigns are supplied within the template. 
 9. Utilize `Waitlist` email and smart campaigns as needed.
 
 ### Contact Us widget form data collection

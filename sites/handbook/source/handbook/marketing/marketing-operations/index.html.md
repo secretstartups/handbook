@@ -29,10 +29,20 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
+The team is split into 3 main pillars, click on them below for additional information and who is a member of each. Currently enablement falls under Awareness & Consideration.
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/source/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:170px;margin:5px;">Awareness & Consideration</a>
+    <a href="/handbook/source/handbook/marketing/marketing-operations/conversion-expansion" class="btn btn-purple" style="width:170px;margin:5px;">Conversion & Expansion</a>
+    <a href="/handbook/source/handbook/marketing/marketing-operations/marketing-enablement" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Enablement</a>
+  </div>
+</div>
+
 
 | Person | Role |
 | ------ | ------ |
-| [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy and Platforms|
+| [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy, Operations, and Analytics |
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
@@ -265,15 +275,16 @@ Integrated with Salesforce
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 - [Conversica](/handbook/marketing/marketing-operations/conversica/)
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
-- [Drift](/handbook/marketing/marketing-operations/drift)
+- [Drift](/handbook/marketing/marketing-operations/drift/)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
 - [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [ReachDesk](/handbook/marketing/marketing-operations/reachdesk/)
+- [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
-- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
+- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/) 
 
 </details>
 
@@ -282,35 +293,36 @@ Integrated with Salesforce
 Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
-
-- [Backblaze](/handbook/marketing/marketing-operations/backblaze)
-- Disqus
-- Figma
-- Frame.io
-- Google Adwords
-- Google Analytics
-- Google Search Console
-- Google Tag Manager
-- [iconik](/handbook/marketing/marketing-operations/iconik)
-- LaunchDarkly
-- [LogRocket](/handbook/marketing/marketing-operations/logrocket)
+- [Alocadia](/handbook/marketing/strategy-performance/allocadia/)
+- Eventbrite
+- Hopin
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
-- [OneTrust](/handbook/marketing/marketing-operations/onetrust)
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
+- Reachdesk
 - [Rev](/handbook/marketing/marketing-operations/rev)
-- SEMrush
-- Sitebulb
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
-- Sprout Social
 - Swiftype
 - Survey Monkey
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
-- [Tweetdeck](/handbook/marketing/marketing-operations/tweetdeck/)
-- [YouTube](/handbook/marketing/marketing-operations/youtube/)
-- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
-- [Zapier](/handbook/marketing/marketing-operations/zapier/)
 
 </details>
+
+### Renewal process for marketing technology budget owners
+
+- Renewal discussion should start 90 days before contract end date (6 months+ for complex tools with many integrations - DemandBase, Outreach, etc…).
+- For new software that has been approved create a business case to attach to the Coupa ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)). 
+- With Procurements submit an RFP every 2 years or for tools over 50K+.
+- POC for any new tools or new features before signing a contract.
+- No auto-renewals and 2 year contracts should have massive cost savings.
+
+Align with Procurements and Finance:
+- Work with Procurements to structure and negotiate the contract. As well, look to do an RFP with multiple vendors for competitive pricing.
+- Align with Finance to confirm budget is accounted for in FY24.
+
+Marketing Operations role:
+- Marketing Operations will help to define requirements and be a trusted advisor.
+- Submit an issue ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6513#note_1079813146)) for new software evaluations.
 
 ### Requesting access to an existing tool
 

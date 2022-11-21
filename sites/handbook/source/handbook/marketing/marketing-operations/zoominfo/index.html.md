@@ -91,11 +91,12 @@ Custom fields start with [ZI] and will be visible in the Zoominfo section in SFD
 All the SFDC accounts are enriched and re-enriched with Zoominfo on a daily basis. Instant Enrich is turned on and will enrich any new accounts upon creation.
 
 ## SFDC Lead Enrichment
+
 All leads in SFDC are enriched on a monthly basis on the third Friday. 
 
-Net new leads coming in our SFDC instance are enriched daily to make sure that the sales teams have the most up to date information. 
+In addition to leads beeing enriched on a monthly basis, we have just turned on Instant Enrich for Leads (Nov. 17th 2022) and all net new leads are getting enriched as they reach SFDC. 
 
-Marketing Ops is working to turn on Instant Enrich for leads/contacts. When Instant Enrich is going to be on, the net new leads daily enrichment job is going to be turned off as leads are going to be enriched upon creation. 
+As a back-up job, in case Instant Enrich job fails, we're keeping live the Scheduled Enrich for net new leads that takes place on a daily basis to make sure the sales teams have the most up to date information. 
 
 ## SFDC Contact Enrichment
 
@@ -122,11 +123,11 @@ The ZoomInfo Outreach integration is now live and you may export contacts direct
 Any prospects created without email address will be found and deleted in the Outreach database management we will run monthly. To avoid uploading contacts with no email addresses, please use the ZoomInfo filtering available.
 
 ### Marketo Integration
-There is a Marketo integration utilizing ZoomInfo's **Enrich** product. This is done on an automated basis utilizing a webhook.
+The Marketo integration is utilizing ZoomInfo's **Enrich** product. This is done on an automated basis utilizing a webhook.
 
-Marketo/ZoomInfo webhook is triggered if the person record meets the following criteria (on an ongoing/future basis):
+Marketo/ZoomInfo webhook is triggered, on form-fill, when the person record fills the forms below (on an ongoing/future basis):
 1. Filled out a SaaS Trial form;
 1. Filled out a Self-managed Trials form;
 1. Filled out Contact Us form. 
 
-Enrich is set to update the ZoomInfo fields, `Employees Bucket` and a few Marketo standard fields (First, Last, Title) only if they are blank or unknown. ZoomInfo fields will overwrite with the most up to date information.
+Enrich is mostly set to enrich the ZoomInfo fields. The ZoomInfo ([ZI]) fields, will have their values overwritten with the most up to date information. The other standard fileds like `Employees Bucket` or other Marketo standard fields like (First Name, Last Name, Job Title) are getting enriched only if the information is missing. 
