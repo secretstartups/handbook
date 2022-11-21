@@ -40,7 +40,7 @@ Next, you'll add a file with a known vulnerability and see if SAST detects it.
 1. Return to your project's overview page by selecting the **CI Test** project title on the top left of the page.
 1. Near the top left, to the right of the branch dropdown, select **(+) > This directory > New file**.
 1. For the **File name** field, use `run.py`.
-1. In a separate tab, open this [snippet](). Copy the contents of this snippet and paste it into the empty `run.py` file back in your original GitLab tab.
+1. In a separate tab, open this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/blob/master/run.py). Copy the contents of this snippet and paste it into the empty `run.py` file back in your original GitLab tab.
 1. Select **Commit changes**.
 1. In the left-hand navigation pane, select **CI/CD > Pipelines**. 
 1. At the top of the row of the table of pipelines, select the **running** or **passed** status labels.
