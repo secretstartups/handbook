@@ -18,8 +18,9 @@ canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 | Date Created    | November 25, 2021 |
 | End Date        | TBD               |
 | Slack           | [#wg_fedramp](https://gitlab.slack.com/archives/C0110E0NMT9) (only accessible from within the company) |
-| Google Doc      | Search "FedRAMP Working Group Agenda" in Google Drive (only accessible from within the company) |
-| Issue Board     | TBD             |
+| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1icu5A6xPcU-VupOu2TtSCxoCwhMaN0ZsxZVvFfUnj70/edit) (only accessible from within the company) |
+| Epic            | [Main Project Epic](https://gitlab.com/groups/gitlab-org/-/epics/8455) (only accessible from within the company) |
+| Epic            | [Top Initiative Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3) ([limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access)) |
 
 ### Exit Criteria
 
