@@ -2,7 +2,6 @@
 layout: markdown_page
 title: "Activate your Agile Career"
 description: "An overview of our remote TMRG GitLab Women"
-canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 ---
 
 ## On this page

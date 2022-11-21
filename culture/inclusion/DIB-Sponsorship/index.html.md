@@ -2,7 +2,6 @@
 layout: markdown_page
 title: "Diversity, Inclusion & Belonging Sponsorship Program Guide"
 description: "The process for Sponsorship Programs at GitLab"
-canonical_path: "/company/culture/inclusion/dib-sponsorship/"
 ---
 
 # GitLab's Sponsorship Program
