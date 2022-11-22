@@ -62,24 +62,24 @@ WebAuthn is now required for all Okta users. Refer [to these instructions](https
 
 
 
-### Clearing Google Chrome cache like this will BREAK your TouchID 2FA
+### Clearing Browsing Data in Advanced Settings Below Will Cause Issues With Your WebAuthN (Biometrics/Touch ID)
 
-Do **not do** the following when clearing cache and cookies in Google Chrome as this will delete 2FA data for TouchID and cause issues logging in:
+Do **not do** the following when clearing cache and cookies in Google Chrome as this will clear WebAuthN (Biometrics/Touch ID) browsing data and cause issues logging in:
 
 - In Chrome ⇒ Click on 3 dots on top right corner
 - Go to More Tools ⇒ Clear browsing data
 - Under advanced ⇒  DO NOT Check box below
-- This will clear your login information and will need to have MFA reestablished
+- This will clear your WebAuthN (Biometrics/Touch ID) and will need to be reset and configured again
 
 ![clearing cache](./cache1.png "Cache")
 
 If you cleared your cache and got locked out please do the following:
 
-- Use Yubikey to login to Okta and reset TouchID and configure again.
-- If your phone is set up with a passkey, you may use your phone to get into OKTA and reset your Touch ID
-- If you do not have a Yubi key or your phone set up; you will need to contact #it-help to reset your MFA in OKTA
+- Use Yubikey to login to Okta and reset WebAuthN (Biometrics/Touch ID) and configure again.
+- If your phone is set up with a passkey, you may use your phone to get into OKTA and reset your WebAuthN (Biometrics/Touch ID)
+- If you do not have a Yubi key or your phone set up; you will need to contact #it-help to reset your WebAuthN (Biometrics/Touch ID) in OKTA
 
-Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up Okta TouchID/Phone passkey and Yubikey
+Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up WebAuthN (Biometrics/Touch ID)/Phone passkey and Yubikey
 
 ### Forgot my password
 
