@@ -140,9 +140,9 @@ The course must be from a credentialed college or university and must be relevan
 
 ### Professional Coaching
 
-**Desription:** Professional coaching is available for managers and leaders job grade 8+ to support their development in their professional area of interest.  We encourage team members to utilize GitLab's internal resources but understand the desire for external coaching resources to develop leadership skills. Team members are expected to know their confidentiality obligations and are responsible for keeping conversations [SAFE](/handbook/legal/safe-framework/) during coaching sessions.
+**Desription:** Professional coaching is available for managers and leaders job grade 8+ to support development in their professional area of interest. Team members job grade 4-7 can receive external coaching from [Modern Health](/handbook/total-rewards/benefits/modern-health/) and internal coaching from our [internal resources](/handbook/leadership/coaching/). Team members are expected to know their confidentiality obligations and are responsible for keeping coaching conversations [SAFE](/handbook/legal/safe-framework/).
 
-GitLab's coaching vendor of choice is [Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true). Review the [available coach bios with Coaching Right Now.](https://drive.google.com/file/d/1OG0Gn1Cef-9OulTKpXANqBWkTaFuVC2P/view?usp=sharing). Coaches schedules are available on a first come, first served basis. Team members have access to 4, 6, or 8hrs of coaching with the vendor on all topics related to leadership. Pairing with a coach via Coaching Right Now saves time and energy looking for a coach that is aligned to GitLab values and way of working.
+[Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true) connects team members with GitLab-vetted coaches - [read their coaching bios here](https://drive.google.com/file/d/1OG0Gn1Cef-9OulTKpXANqBWkTaFuVC2P/view?usp=sharing). Team members can book 4, 6, or 8hrs of coaching. Availability is first come, first served. Pairing with a coach via Coaching Right Now saves time and energy looking for a coach that is aligned to GitLab values and way of working.
 
 > Hear what GitLab team memebrs are saying about Coaching Right Now:
 
@@ -150,13 +150,13 @@ GitLab's coaching vendor of choice is [Coaching Right Now](https://docs.google.c
 `I can tangibly see how this (coaching) investment has made me at least 20% more effective in my role, delighted in my role, and a more human leader.`
 `This was a great (coaching) program and I'm really happy I got to be a part of it. I have two of my managers who have signed up to work with coaches now as well.`
 
-When you're ready to apply for a coach via Coaching Right Now, open a Growth and Development approval issue using the [coaching template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching).
+Apply for a coach via Coaching Right Now by opening an issue using the [coaching template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching).
 
-**The specifics of your coaching sessions will not be communicated to GitLab**. While not required, we strongly encourage you to share your experience, learnings, reflections, and discoveries with your manager so they can support you. Individual contributors below Grade 8 are encouraged to receive coaching and mentorship from their managers and our [internal resources](/handbook/leadership/coaching/).
+_The specifics of your coaching sessions will not be communicated to GitLab._ While not required, we encourage you to share your experience, learnings, reflections, and discoveries with your manager for further support.
 
-**Eligibility for Reimbursement:** Managers or Individual Contributors Grade 8 and above. Coaching Right Now will invoice GitLab directly.
+**Eligibility for Reimbursement:** Managers or Individual Contributors job grade 8+. Coaching Right Now will invoice GitLab directly.
 
-Coaching Right Now is our preferred and vetted coaching partner. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open the [Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, you will need to provide a paid invoice to GitLab as proof for reimbursement. 
+Coaching Right Now is our preferred and vetted coaching partner. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open an issue using the [Other G&D Types (Under $300 USD) template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, team members will provide a paid invoice to GitLab as proof for reimbursement. 
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
