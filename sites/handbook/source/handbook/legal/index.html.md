@@ -52,6 +52,9 @@ The Corporate Development Team prospects, pursues and integrates acquisitions to
 
 The Employment Legal Team collaborates with GitLab People Group on a broad range of matters across the entire arc of the employment relationship, from recruiting to onboarding, compensation, performance management, leave management, separation, and where necessary, litigation. 
 
+#### [Environment, Social, and Governance (ESG)](https://about.gitlab.com/handbook/legal/ESG/)
+
+The ESG Team creates and maintains GitLab’s Corporate Sustainability strategy and programs. This includes ESG disclosures and public ESG reporting, identifying and prioritizing key issues to advance GitLab’s social and environmental goals, and creating partnerships with non-profit organizations that support GitLab’s values and mission.
 
 #### [Operations](https://about.gitlab.com/handbook/legal/legalops/)
 
@@ -60,7 +63,6 @@ Legal Operations supports Legal & Corporate Affairs processes with a focus on de
 #### [Privacy](https://about.gitlab.com/handbook/legal/privacy/), [Product](https://about.gitlab.com/handbook/legal/product/), and [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/)
 
 The Privacy, Product and Trade Compliance Team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
-
 
 ## GitLab Policies
 
