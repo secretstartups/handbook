@@ -10,6 +10,8 @@ description: "The Talent Acquisition Job Offer Process provides guidance to Recr
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 ## The Job Offer Process at GitLab
 
 There are a series of steps that are taken when preparing a job offer at GitLab to ensure there is consistency and fairness in our hiring process.
@@ -40,7 +42,7 @@ See [Justification section in offer packages](/handbook/hiring/offers/#justifica
 
 After the reference check stage is complete, and details of a potential job offer have been agreed on, the Offer stage is kicked off.
 
-<details open="open">
+<details>
 <summary markdown="span">Offer Fields and How to Use Them</summary>
 
 A description on what to input into each Offer field in Greenhouse can be found below.
