@@ -652,8 +652,9 @@ Adjustments for Current Team Members
 ### Checking if Employees are Eligible for Excess LTD Insurance & need underwriting (Quarterly)
 1. Log on to Group Net Canada Life 
 1. Enrollment tab > request reports> coverage summary> effective date(today’s date)> sort by Employee name
-1. Review this data to identify  if the team member is eligible for more Life Insurance and LTD Coverage than they are currently receiving 
-1. Collect this list and share it with Darren so that we can request for the team member to complete documentation to be eligible for the excess cover
+1. Review the data to identify  if the team member is eligible for more Life Insurance and LTD Coverage than they are currently receiving (i.e. compare the LTD and LTD eligible Amount Columns to see if there is a delta) 
+1. Reach out to the team member with the Eligiblity of Insurance Document and instructions so that they can complete their EOI. Notify SC Insurance that the quartelry audit was completed as an fyi. 
+ - View additional Instructions & email template in the [Quarterly Check for Excess LTD folder](https://drive.google.com/drive/folders/1BCIGQIKJxPOrPHfhdZbnccGEFZTNhh6C?usp=sharing)
 
 ### RRSP Process (Semi-monthly)
 
@@ -664,11 +665,22 @@ Adjustments for Current Team Members
  - Select a plan: Registered Retirement Savings Plan
  - Select a subgroup: All Full time Employees - 01
  - Select a layout: Excel File, includes SIN
- - Select details to be displayed on report: Payroll deduction instructions for active members as of current date 
-1. Total Rewards identifies changes since the last report, by preforming a vlook up against last month's report and includes them in the Canada Payroll Change report
-1. Canada Payroll deducts the percentage from team member’s pay and sends TR the dollar amount that was deducted in a Remittance Report
-1. Total Rewards sends this report to Canada Life and the remit the payments
+ - Select details to be displayed on report: Payroll deduction instructions for active members from selected date/Time
+ - Look up when the last date & time you pulled the report reported on the "20XX RRSP Payroll Report", and enter that date.
+ - Download the report, and create a new tab in the "20XX" RRSP Payroll Report" with today's date" - copy and paste the data from the downloaded report in to the tab for record keeping.
+1. Open the "Canada Payroll Changes" Report and open the tab Payroll created for the current pay period. Enter the information on the RRSP report in to the Canada Report:
+ - Emp ID - You'll need to look this up in Workday
+ - Last Name, First Name, Initial, certificate number, status, subgroup plan type, enrol date, account type, date of change, Employee Amount %: you can find these details on the downloaded CanadaLife Report
+ -Employer amount%: You'll need to enter this manually, since this is a match, you'll enter the same % as the Employee Amount %
+ -Member Voluntary%: Check the CanadaLife report to see if the team member has any member % and update on the same line. 
+
+1. Canada Payroll will then deducts the percentage from team member’s pay and sends TR the dollar amount that was deducted in a Remittance Report. Follow up with Canada payroll if they don't send the remittance report before you update the next pay periods' RRSP change report. 
+1. Total Rewards sends the Remittance report to CanadaLife and the remit the payments
 Canada Life Charges the total to GitLab, and we pay out the amount
+
+Special Instructions for when team members want to contribute one-off bonuses: 
+1. Team Members have the opportunity to request to contribute their one-off bonuses towards their RRSP if they so choose, the team member will email Total Rewards with their request.
+1. Total rewards will add a line in the Canada Payroll Change Report with the team member's entry. If there are no other changes, they can leave the Employee and Employer amount blank and just add the Member Voluntary amount with an explanation of the payment. 
 
 
 Offboarding:
