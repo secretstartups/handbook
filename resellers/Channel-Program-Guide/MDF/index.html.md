@@ -24,13 +24,12 @@ GitLab Select partners have access to the proposal-based GitLab Marketing Develo
    *  Detailed examples of eligible costs are included in the Proof of Performance (POP) section below.
 
 
-Please note GitLab will only cover **50%** of the total cost of the activity.
+Please note GitLab will cover up to **50%** of the total cost of the activity.
 
 **To be considered for funding support you must:**
   *  Be a Select Partner
-  *  Submit a proposal to GitLab via the GitLab Partner Portal
-  *  Obtain proposal approval from GitLab
-  *  Be able to provide a Partner-generated invoice and Proof of Performance (POP) at least one of the activities listed in the table below 
+  *  Submit an MDF request via the GitLab Partner Portal at least 10 business days prior to the activity start date.  Full approval is required in order to proceed.
+  *  Comply with GitLab Proof of Performance (POP) requirements for the activity.  Review of GitLab's requirements is strongly encouraged to ensure reimbursement goes smoothly. 
   *  Meet minimum required MDF request amount of **$1,000 USD**
 
 Once approved, the partner is able to execute on the activity.  GitLab MDF is a reimbursement model.  Partners must submit a claim through the GitLab Partner Portal no later than **30 days following the activity end date** and include all relevant and required proof of performance (POP).  A partner generated invoice is part of the required documentation for a successfully submitted claim.
@@ -38,7 +37,7 @@ Once approved, the partner is able to execute on the activity.  GitLab MDF is a 
 
 ## Eligible Activities and Required Proof of Performance MDF Activities
 
-Proof of performance (POP) includes partner-generated invoice AND at least one of the activities listed in the table below that shows GitLab and partner representation. For activities that require a lead list, you must also submit it in an excel format, as part of your POP.
+Proof of performance (POP) includes partner-generated invoice AND at least one of the activities listed in the table below that shows GitLab and partner representation. For activities that require a lead list, you must also submit it in an spreadsheet excel format, as part of your POP.
 
 
 | **Eligible Activity** | **Description** | **Proof of Performance** |
@@ -85,7 +84,7 @@ Because the GitLab MDF Program is proposal based, the following conditions must 
 *   International currency: Claims may be paid in local currency upon GitLab’s discretion; currency rates are based on the date GitLab pays the reimbursement.
 *   Once a claim is fully approved and all questions about the claim have been answered, you should expect to receive reimbursement within 45 days if you have connected with GitLab in Coupa and provided your banking information.
 
-Note: If MDF claims are not submitted in the given timeline, you will forfeit the funds.
+Note: You will receive 3 system-generated reminders to submit your reimbursement request within 30 days after the activity end date.  **GitLab is not responsible for reimbursing partners that submit a reimbursement request after this timeline has passed.**
 
 ### MDF Terms and Conditions
 
@@ -107,7 +106,7 @@ Marketing development funds (MDFs) may not be used for capital expenses or the n
 
 ###  Entering a MDF Request and Proof of Performance
 
-Partners can access the MDF Request Form from the GitLab Partner Portal home page. Navigate to Marketing and select “MDF Request.” Upon selecting MDF Request, complete the first part of the form to create a fund request. Once completed, click “submit it” and it will be routed to a GitLab representative for approval within 14 business days.
+Partners can access the MDF Request Form from the GitLab Partner Portal home page. Navigate to Marketing and select “MDF Request.” Upon selecting MDF Request, complete the first part of the form to create a fund request. Once completed, click “submit it” and it will be routed to a GitLab representative for approval within 3 business days.
 
 Once the marketing or enablement activity is completed, return to the original request and complete the POP documentation as outlined in the Proof of Performance section above.
 
