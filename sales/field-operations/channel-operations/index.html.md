@@ -225,6 +225,7 @@ If you are working with a partner and need a distributor quote sent, please eith
 - Incumbent partners qualify for program renewal discounts. The partners that transact the most recent sale are considered the incumbent.
 - A different partner can earn an incumbency discount only through formal written communications from the customer. This can be provided via email from an authorized representative from the customer.
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on the customer, review within 30 days of renewal, etc).
+- GitLab Sales must work with incumbent channel partners on renewals unless the customer documents in writing that they no longer want to work with the partner.  GitLab cannot offer a direct renewal quote if there is an incumbent partner.
  
 ### Tender Offers
 - Tender offers are ones where the customers are requesting multiple bids for a project.
