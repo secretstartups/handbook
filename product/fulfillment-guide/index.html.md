@@ -35,7 +35,7 @@ Not all Fulfillment features are available at the time for all types of customer
 | Customers paying with invoice | Yes | Yes | Yes | Yes |
 | Customers requiring a PO | Yes | No | No | Yes |
 | Customers with an MSA | Yes | No | No | No |
-| Customers with multi-year deals | Yes | No | Yes<br>_(term length must be divisible by 12)_ | Yes |
+| Customers with multi-year deals | Yes | No | No | Yes |
 | Customers purchasing through a GitLab Reseller or other Channel/Alliance Partner | Yes | No | No | Yes |
 | Public Sector Customers | Yes | No | No | Yes |
 | Customers with offline/airgapped environments | Yes<br>_([Offline cloud license](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licenses) released in GitLab 15.0)_ | No | No | No |
