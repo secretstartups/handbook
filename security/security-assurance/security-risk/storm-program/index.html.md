@@ -72,7 +72,7 @@ In order to effectively identify, manage, and treat operational risks, GitLab ha
 
 The Security Risk Team conducts security operational Risk Identification interviews with individuals operating in at least a Manager capacity/level at GitLab in order to identify security operational risks within their respective departments. Risks identified will always be framed in terms of threat sources and threat events, and then assessed against the likelihood of occurrence and the impact to GitLab if the risk event occurs. Additionally, these risks will be assessed against the current internal controls in place to determine the overall residual risk remaining. 
 
-For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page.
+For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page. For guidance on drafting risk language see the [Risk Drafting Guidance](handbook/security/security-assurance/security-risk/storm-program/index.html.md#risk-drafting-guidance) below. Risks will be quality reviewed by the Security Risk Manager or delegate and approval captured via comment in the GRC application.
 
 ### Step 3: Risk Tracking and Reporting
 
@@ -80,7 +80,8 @@ Risks identified through the Risk Identification phase are formally tracked via 
 
 ### Step 4: Risk Treatment
 
-For each risk identified above, a formal risk treatment decision is made to determine how GitLab will handle the risk. For details of the risk treatment options available, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-treatment-options) page. Note that as part of the risk treatment procedures, the Risk Owner will make a determination on whether or not to accept a risk or pursue remediation based on our Risk Appetite and Tolerances.
+For each risk identified above, a formal risk treatment decision is made to determine how GitLab will handle the risk. For details of the risk treatment options available, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-treatment-options) page. Note that as part of the risk treatment procedures, the Risk Owner will make a determination on whether or not to accept a risk or pursue remediation based on our Risk Appetite and Tolerances. Treatment plans will be reviewed by the Security Risk Manager  or delegate and approval captured via comment in the GRC application.
+
 
 ### Step 5: Annual StORM Reports
 
@@ -151,6 +152,12 @@ There are multiple ways the team can be engaged for risk:
    * Team members can also tag the team directly by @ mentioning `gitlab-com/gl-security/security-assurance/risk-field-security-team` on the issue or MR
 3. Submit a [Risk Escalation issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/risk-field-security-team/risk-assessments/-/issues/new?issuable_template=risk-escalation) on the StORM Repo
 
+### Risk Drafting Guidance
+
+StORM Program considerations include both risks (what might happen) and observations (what has happened/non-compliance). For guidance on writing observations, please refer to [Observation Management Procedure Handbook page](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html).
+
+When drafting a risk, start with a risk statement. This will represent the title of the Risk in our GRC system and is an attempt to condense the risk into a single sentence. In the spirit of [low-context communication](https://about.gitlab.com/handbook/teamops/shared-reality/#low-context-communication), avoid using single words or short phrases for the risk statement (e.g., Supply Chain). As we largely deal with negative risks (vs. positive risks/opportunities), starting the statement with negative language like "Failure to", "Inadequate", "Incomplete", "Lack of", etc. is appropriate, but not required. As risks represent what might happen, use "may" before describing the negative effect it _may_ have on the confidentiality, integrity, availability, security, and privacy of GitLab data. Example: _Inadequate physical security controls may result in the loss of GitLab/Customer data and physical assets._ The risk description should contain details related to the assets/resources at risk, the event that may occur, the source that would trigger the event (root cause), and the consequence (impact/loss) [source](https://www.srmam.com/post/how-to-write-a-risk-statement).
+
 ## Transparency and the StORM Program
 
 As per [GitLab's Communication Page](/handbook/communication/confidentiality-levels/#not-public), information about risks tracked in GitLab's Risk Register defaults to _not public and limited access_. Given the nature of risk management, GitLab will always be susceptible to risks. The goal of implementing risk treatment plans and carrying out risk remediation activities is to reduce the likelihood or impact (or both) of a risk occurring. Given that no risks identified can ever be fully eliminated, but instead are mitigated through reduction of likelihood and/or impact, risks that have been escalated to GitLab's Risk Register will be shared on a need-to-know basis.
@@ -168,3 +175,4 @@ The only exceptions to this procedure are those risks that are out of scope (as 
 - External References
     - [NIST SP 800-30 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)
     - [ISO 31000 Risk Management Methodology](https://www.iso.org/iso-31000-risk-management.html)
+    - [How to write a risk statement by Julian Talbot on SRMAM.com](https://www.srmam.com/post/how-to-write-a-risk-statement)

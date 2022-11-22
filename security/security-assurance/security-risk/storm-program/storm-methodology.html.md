@@ -125,7 +125,7 @@ The identification of threat sources and events in relation to operational risks
   </tr>
   <tr>
     <td class="tg-wa1i">Non-Adversarial</td>
-    <td class="tg-cly1">Errors and ommission, loss of physical and infrastructure support (e.g. a natural disaster), exposure of sensitive information, changes to systems used to support the business, changes to external environments supporting GitLab, changes to GitLab's business model, or even changes in leadership</td>
+    <td class="tg-cly1">Errors and omission, loss of physical and infrastructure support (e.g. a natural disaster), exposure of sensitive information, changes to systems used to support the business, changes to external environments supporting GitLab, changes to GitLab's business model, or even changes in leadership</td>
   </tr>
 </table>
 </details>
@@ -274,7 +274,7 @@ To arrive at a final impact score, the impact score of all impact categories is 
 * Inherent Risk is the risk _before_ considering any existing mitigations in place, such as existing controls, internal processes/procedures, etc. and is determined by the following formula:
    > `Inherent Risk = Likelihood x Impact`
 
-* Residual risk is is calculated in the same manner as inherent risk, but the likilood and impact is reassessed based on the known existing controls, processes/procedures, etc. that reduce/mitigate the risk. 
+* Residual risk is calculated in the same manner as inherent risk, but the likelihood and impact is reassessed based on the known existing controls, processes/procedures, etc. that reduce/mitigate the risk. 
 </details>
 
 <details markdown="1">
@@ -363,7 +363,7 @@ Once the Inherent and Residual risk score is determined, the following table can
 
 In some cases where controls are identified that mitigate a risk, the Security Risk Team considers the CHER of the control that is established based on continuous monitoring performed by the Security Compliance Team. For details on how the Security Compliance Team rates observations, refer to the [Observation Management](/handbook/security/security-assurance/observation-management-procedure.html) handbook page.
 
-Given that the scope of the StORM program is limited to Tier 2 Operational Risks, any information system level risks (i.e. Tier 3) identified within the organization is typically not included as part of the StORM program as the Tier 3 risk should be addressed by one or more internal controls. However, should a control have a high CHER rating, this may be an indicator of a larger risk. Because of this, there are are opportunities for Tier 3 risks to escalate to Tier 2 risks. This decision to escalate a Tier 3 risk in this manner will be documented within the Risk Details.
+Given that the scope of the StORM program is limited to Tier 2 Operational Risks, any information system level risks (i.e. Tier 3) identified within the organization are typically not included as part of the StORM program as Tier 3 risks should be addressed by one or more internal controls. However, should a control have a high CHER rating, this may be an indicator of a larger risk. Because of this, there are opportunities for Tier 3 risks to escalate to Tier 2 risks. The decision to escalate a Tier 3 risk in this manner will be documented within the Risk Details.
 
 ## Risk Treatment Options
 
@@ -399,7 +399,7 @@ Each risk identified and triaged through the StORM program is required to underg
   </tr>
 </table>
 
-Once a risk treatment option is agreed upon, the Risk Owner will complete a Risk Treatment Plan. Due to the sensitivity of the information about risks documented in risk treatment plans, these plans are documented via Google Docs and access is maintained by the Security Assurance Team. This risk treatment plan will ultimately be the source of truth for the status of risk treatment. The risk treatment plan document provides options for risk remediation or risk acceptance. Specific information about risk treatment options are documented below.
+Once a risk treatment option is agreed upon, the Risk Owner will complete a Risk Treatment Plan which will be stored within our GRC application. The status of the risk treatment will be captured within our GRC application as well. Specific information about risk treatment options are documented below.
 
 ### Monitor (do nothing)
 
@@ -407,15 +407,15 @@ In the cases where a risk owner has concluded that a risk is low enough level, n
 
 ### Remediate the Risk
 
-When choosing to remediate the risk, a specific path must be seleted:
+When choosing to remediate the risk, a specific path must be selected:
    * Remediate by reducing the likelihood that the risk could occur
    * Remediate by reducing the impact to GitLab if the risk occurs
    * Remediate by sharing or transferring the risk with a third party
    * Remediate by fully eliminating the risk from GitLab
 
-As part of the documentation in the risk treatment plan, these specific risk remediation paths are called out. Once a path is selected, the risk owner is required to provide a specific, detailed plan that includes milestones and due dates for working towards risk remediation. The Security Risk Team will leverage these risk treatment plans to track the status of risk remediation.
+Once a path is selected, the Risk Owner is required to provide a [SMART](https://en.wikipedia.org/wiki/SMART_criteria), detailed plan that includes milestones and due dates for working towards risk remediation. The treatment plan must be achievable and address the root cause of the risk event. The Security Risk Team will leverage these risk treatment plans to track the status of risk remediation.
 
-If the risk treatment plan is executed and results in a downgrading of the residual risk level for the risk (e.g., the residual risk level goes from High to Moderate), validation of the remediation will be performed and captured within the associated risk object in ZenGRC. 
+If the risk treatment plan is executed and results in a downgrading of the residual risk level for the risk (e.g., the residual risk level goes from High to Moderate), validation of the remediation will be performed and captured within the associated risk object in ZenGRC. Quality review of the downgrade support documentation will be completed by the Security Risk Manager and captured via comment in the GRC application.
 
 ### Accept the Risk
 
