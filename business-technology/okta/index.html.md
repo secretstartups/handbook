@@ -73,7 +73,7 @@ GitLab requires all team members to use either YubiKey or Biometrics as your OKT
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
 
 
-1. We recommend enrolling both Chrome and Safari for redundancy, as well as a mobile device. Each browser needs to be enrolled separately. 
+1. We recommend enrolling both Chrome and Safari for redundancy, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately.
 1. If clearing your browser cache, please be careful as you can delete your Touch ID credential. 
     1. In Chrome, if using "Clear Browsing Data" function please ensure that you [DO NOT check](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#clearing-google-chrome-cache-like-this-will-break-your-touchid-2fa) "Passwords and other sign-in data" (under "Advanced" tab). By default, this is unchecked. 
     1. In Safari, the credential is stored under "Settings->Password". This is separate from the "Settings->Privacy" and "Manage Website Data" where you would click "Remove all" to remove the cache.
@@ -93,7 +93,11 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 1. On the computer, click "Set up", then click "Set up" again on the next screen
 1. On the computer, in Chrome, the pop up that opens choose the Use phone with a QR code. This should display a QR code. In Safari, click "Other options", then choose "iPhone, iPad or Android device - save a passkey on a device with a camera", then "Continue".
 1. On the mobile device, open your camera app and scan. (It may take a few seconds for it to connect). This requires Bluetooth to be enabled on both devices, but does not require pairing.  
-1. On the mobile device, a pop on your phone should show up to allow the credential to be saved. Allow this. On Android, this may appear "Use this device with screen lock". Choose this.
+1. On the mobile device, a pop should show up to allow the credential to be saved.
+    1. On a iPhone or iPad, it will prompt to save the credential to iCloud Key Chain. Allow this. 
+    1. If saving the credential fails, go to Settings->`your name`->iCloud and make sure that Passwords and Keychain is set to "On". 
+    1. If it still fails, you can also try [force restart](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios) and then trying to sign out of iCloud, and sign back in to iCloud.
+    1. On Android, this may appear "Use this device with screen lock". Choose this.
 1. On the mobile device, attempt to sign in by visiting [Okta](https://gitlab.okta.com).
 
 ### I want to login or add a new computer to Okta and I have a mobile device enrolled 
@@ -112,7 +116,7 @@ This method has been verified on Macs and Linux with Chrome. For Safari, it requ
 If both of previous devices are not available, you could use a [YubiKey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to enroll a new device.
 
 ### I would like to get a YubiKey, how can I do so?
-Please fill out this [form](https://forms.gle/1ciE8cCYubXA7vuC6) and we will coordinate shipment of one to you thru our group buy.
+Please fill out this [form](https://forms.gle/FNoLPzhGk6mDdLj77?_imcp=1) and we will coordinate shipment of one to you thru our group buy.
 
 ### Lost access to your 2FA or your OKTA account has been locked out because of failed attempts?
 
