@@ -21,7 +21,7 @@ All of the benefits listed below are administered and managed by [Global Upside]
 | Email | Purpose |
 | ------ | ------ |
 | `gitlabpayroll@globalpeoservices.com` | Payroll-related questions |
-| `gitlabHR@globalpeoservices.com` | All Other Queries (Benefits, Human Resources and Leave) |
+| `gitlabHRSS@globalupside.com` | All Other Queries (Benefits, Human Resources and Leave) |
 
 ### Medical Benefits
 
@@ -187,7 +187,7 @@ All of the benefits listed below are administered and managed by [Global Upside
 
 * GitLab offers International Healthcare Insurance through [NOW Health Insurance](https://drive.google.com/file/d/18v-Qob5SotJOOyzxK9FTI4ks7WTpsCZt/view?usp=sharing) which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
 * NOW health insurance will be administered directly by Global Upside. 
-* For any addition or modification a team member can reach out to Global Upside Benefits Team at `benefitsops@globalupside.com`. 
+* For any addition or modification a team member can reach out to Global Upside Benefits Team at `gitlabHRSS@globalupside.com`. 
 * During the onboarding of a `New Hire`, Global Upside will collect the team member & their eligible dependent's census for benefit enrolment.
 * Once enrolled in NOW Health Insurance, you will be able to access your [mobile pass](https://drive.google.com/file/d/1M8cnYjKGfYLF82rJMZHjUfSCvDUbFrNn/view?usp=sharing) or digital membership card through your [online portfolio](https://portfolio.now-health.com/). This mobile pass or digital membership card replaces the traditional, physical membership card.
 
@@ -232,7 +232,7 @@ All of the benefits listed below are administered and managed by [Global Upside
 
 * GitLab offers International Healthcare Insurance through [NOW Health Insurance](https://drive.google.com/file/d/18v-Qob5SotJOOyzxK9FTI4ks7WTpsCZt/view?usp=sharing) which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
 * NOW health insurance will be administered directly by Global Upside. 
-* For any addition or modification a team member can reach out to Global Upside Benefits Team at `benefitsops@globalupside.com`.	
+* For any addition or modification a team member can reach out to Global Upside Benefits Team at `gitlabHRSS@globalupside.com`.	
 * During the onboarding of a `New Hire`, Global Upside will collect the team member & their eligible dependent's census for benefit enrolment.
 * Once enrolled in NOW Health Insurance, you will be able to access your [mobile pass](https://drive.google.com/file/d/1M8cnYjKGfYLF82rJMZHjUfSCvDUbFrNn/view?usp=sharing) or digital membership card through your [online portfolio](https://portfolio.now-health.com/). This mobile pass or digital membership card replaces the traditional, physical membership card.
 
