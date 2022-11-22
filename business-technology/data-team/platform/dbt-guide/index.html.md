@@ -1311,6 +1311,44 @@ There are a number of other potential system level optimizations that can be con
 - Auto Scaling Policy
 - Warehouse Max Clusters
 
+### Guidance for Checking Model Performance
+
+#### Retrieve Model Performance Statistics
+
+Using the [model_build_performance](https://gitlab.com/gitlab-data/runbooks/-/blob/main/dbt_performance/model_build_performance.md) runbook retrieve the model performance statistics.
+
+#### Check model Run Time
+   
+If the model run time is less than `L` then the effort needed to improve the model is not likely to yield significant returns at this time and the model can be left as it is.
+  
+#### Check the Model Efficiency
+    
+A Model Efficiency worse than Acceptable, represents significant spillage thus reducing the performance because of the Remote and Local disk reads.
+
+- Reduce the amount of data needed to be stored in memory during the query execution.
+    - Reduce number of Columns used
+    - Reduce number of Rows used
+    - Check Filter order
+    - Check Join order
+    - Check for Redundant Joins
+
+#### Check for incremental viability
+Not all models need to be incremental due to the increased design complexity.
+
+  - If the model loads new data regularly, but most of the data does not change it may be a good candidate for an incremental model.
+  - If the source data can be filtered in a way to return new or changed records, such as an `updated_date` field, it may be a good candidate for an incremental model.
+  - If the model represents the `current state` of data that changes it is _`not`_ a good candidate for an incremental model.
+  - If the model is based on a snapshot model, it is _`not`_ a good candidate for an incremental model.
+
+#### Check never full refresh viability
+  - Event stream data that does not change is a prime candidate for never full refreshing.
+  - Check data source [guidelines from the handbook](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#data-source-and-data-lineage-information-used-to-determine-full-refresh-policy).
+
+#### Check Warehouse Size viability
+Increasing the warehouse size will not always mean an increase in performance and an improvement in cost.
+  - If refactoring has not improved the Model Efficiency, an increase to the Warehouse Size may be warranted.
+  - If Model Efficiency is Good but the model is reaching the timeout limit for the warehouse then an increase to the Warehouse Size may be warranted.
+
 ## Upgrading dbt
 See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.
 
