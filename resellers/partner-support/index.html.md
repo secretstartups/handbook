@@ -21,9 +21,10 @@ This page is intended for Sales and Channel team members to review quick links a
 ## Meet the Team
 ### Who We Are
 - Evon Collett (she/her) - Manager, Partner Help Desk
-- Reena Yap (she/her) - Senior Partner Help Desk Specialist, APAC focus
-- Kim Stagg (they/them) - Senior Partner Help Desk Specialist, AMER/US-PubSec focus
-- Yulia Imbert (she/her) - Partner Help Desk Specialist, EMEA focus
+- Reena Yap (she/her) - Senior Partner Help Desk Specialist
+- Kim Stagg (they/them) - Senior Partner Help Desk Specialist
+- Yulia Imbert (she/her) - Partner Help Desk Specialist
+_All team members work all regions, according to the timezone they work within. [For fastest answers](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please ensure you're reaching out via team forums and not to individual Partner Help Desk team members. 
 
 ## Team Responsibilities
 - Channel account record support in SFDC
@@ -109,7 +110,7 @@ To update an email address on a customer’s subscription, as well as request a 
 More information can be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=404715).
 
 ## Creating a Partner Portal Login
-_This information can also be found in the Partner Guide [internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)_
+_This information can also be found in the Partner Guide ([internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit))._  
 If a partner organization already exists in our system (Impartner/SFDC), but a new rep needs a login, the instructions are fairly simple. That person should visit our [partner portal](partners.gitlab.com), and scroll down to the login section. On the left side of the page, there's an option to "Request Portal Access."   
 
 ![PHD_HB_Request_Portal_Access](/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png) 
