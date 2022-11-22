@@ -195,22 +195,16 @@ The team follows GitLab meeting practices and standards.
 
 - Every meeting has an agenda.
 - Notes are added to the agenda inline with topics and questions.
-- All agendas are stored in the BSA Meeting Notes [shared drive](https://drive.google.com/drive/folders/1maD_xGpiIgd_ZENN5pxj110S-xZ6hjjk).
+- All agendas are stored in the Enterprise Applications [google drive](https://drive.google.com/drive/folders/1kJiUhuW78WEP1LSx6UHpuofo1ktOsKer).
 
 ### No-Meetings Fridays
 While we can't promise we'll never have meetings on Fridays, the team has adopted [No Meetings Fridays](/handbook/communication/#no-meetings-fridays), and uses these days for focus work.
 
 ### Recurring Meetings
 
-#### Lead-to-Cash BSAs
-- The BSAs get together weekly to go through the projects that are being worked on accross the team. During this meeting we use [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup) to cover every current project. 
-   - Frequency: Weekly on Mondays at 10:30am PST
-      > - The time of this meeting might change according to the BSA's calendars.
-   - Participants: Business Systems Analysts only
-
-#### Enterprise Applications Sync
-- Every week the Enterprise Apps team has a dedicated hour to sync up. Hosted by the Senior Director of Enterprise Applications, the team discusses current activities (urgent and important) that impacts the whole team.
-   - Frequency: Weekly
+#### EntApps Bi-Weekly Sync
+- Every 2 weeks the Enterprise Apps team has a dedicated time to sync up and discuss current activities (urgent and important) that impacts the whole team.
+   - Frequency: Bi-Weekly
       > - The time of this meeting varies every week to accommodate the different timezones of the Enterprise Apps team members.
    - Participants: Enterprise Applications 
 
@@ -224,42 +218,12 @@ The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues
 
 #### Finance Engagement Meeting
 - Purpose: Align with Finance Business Partners on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. During this meeting we use [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup) to cover project status, what's in progress and what is blocked. 
-   - Frequency: Bi-weekly on Wednesdays at 8:30am PST
-   - Participants: Enterprise Applications (host), Procurement, Revenue, Accounting, Billing
+   - Frequency: Monthly
+   - Participants: Enterprise Applications (host), Revenue, Accounting, Billing
 
 #### Fulfillment / Sales Systems Engagement Meeting
 - Purpose: Technical and Delivery Alignment between Sale Systems, Fullfillment and Enterprise Applications. Roadmap and Delivery Date Focused. Backlog review, log decisions and communicate them out.
    - Frequency: Bi-weekly
    - Participants: Enterprise Applications (host), Sales Systems, Fulfillment
-
-#### Sales Operations Engagement
-- Purpose: Align with Sales Operations and Sales Systems on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out.
-   - Frequency: Bi-weekly
-   - Participants: Enterprise Applications (host), Sales Operations, Sales Systems, Deal Desk, Fulfillment
-
-#### People Engagement Meeting
-- Purpose: Align with People Partners on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. 
-   - Frequency: Bi-weekly
-   - Participants: Enterprise Applications (host), People
-
-#### Pro Serv / Sales Enablement Engagement
-- Purpose: Align with Pro Serve on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. 
-   - Frequency: Bi-weekly
-   - Participants: Enterprise Applications (host), Professional Services
-
-#### Security / Compliance Engagement
-- Purpose: Align on shared programs between the Security teams and compliance. 
-   - Frequency: Bi-weekly
-   - Participants: Enterprise Applications (host), PSecurity
-
-#### Channel Engagement Meeting
-- Purpose: Align with the Channel Team  on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. 
-   - Frequency: Monthly
-   - Participants: Enterprise Applications (host), Channel Operations
-
-#### Marketing Engagement Meeting
-- Purpose: Align with the Marketing Teams on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. 
-   - Frequency: Monthly
-   - Participants: Enterprise Applications (host), Marketing
 
 {::options parse_block_html="false" /}
