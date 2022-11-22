@@ -32,6 +32,10 @@ the [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).
 The project is currently private to GitLab team members as some pages may
 contain [sensitive information](/handbook/legal/safe-framework/).
 
+## How do I get involved?
+
+[You can follow the instructions here to start or join a Support Pod](https://gitlab.com/gitlab-com/support/support-pods/-/tree/main/_Handbook)
+
 ## Naming conventions
 
 `Support Pods` is the formal name of this initiative and should be referred to
