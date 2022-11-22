@@ -29,13 +29,13 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@Alexand](https://gitlab.com/Alexand) | 8 | 1000 |
 | [@hfyngvason](https://gitlab.com/hfyngvason) | 9 | 900 |
 | [@brodock](https://gitlab.com/brodock) | 10 | 800 |
-| [@.luke](https://gitlab.com/.luke) | 11 | 700 |
-| [@toon](https://gitlab.com/toon) | 12 | 700 |
-| [@Andysoiron](https://gitlab.com/Andysoiron) | 13 | 660 |
-| [@manojmj](https://gitlab.com/manojmj) | 14 | 640 |
-| [@kassio](https://gitlab.com/kassio) | 15 | 600 |
-| [@sethgitlab](https://gitlab.com/sethgitlab) | 16 | 600 |
-| [@cam_swords](https://gitlab.com/cam_swords) | 17 | 600 |
+| [@cam_swords](https://gitlab.com/cam_swords) | 11 | 800 |
+| [@.luke](https://gitlab.com/.luke) | 12 | 700 |
+| [@toon](https://gitlab.com/toon) | 13 | 700 |
+| [@Andysoiron](https://gitlab.com/Andysoiron) | 14 | 660 |
+| [@manojmj](https://gitlab.com/manojmj) | 15 | 640 |
+| [@kassio](https://gitlab.com/kassio) | 16 | 600 |
+| [@sethgitlab](https://gitlab.com/sethgitlab) | 17 | 600 |
 | [@digitalmoksha](https://gitlab.com/digitalmoksha) | 18 | 550 |
 | [@tachyons-gitlab](https://gitlab.com/tachyons-gitlab) | 19 | 550 |
 | [@georgekoltsov](https://gitlab.com/georgekoltsov) | 20 | 540 |
@@ -58,82 +58,84 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@stanhu](https://gitlab.com/stanhu) | 37 | 400 |
 | [@xanf](https://gitlab.com/xanf) | 38 | 400 |
 | [@markrian](https://gitlab.com/markrian) | 39 | 400 |
-| [@bmarjanovic](https://gitlab.com/bmarjanovic) | 40 | 320 |
-| [@rcobb](https://gitlab.com/rcobb) | 41 | 300 |
-| [@dzubova](https://gitlab.com/dzubova) | 42 | 300 |
-| [@viktomas](https://gitlab.com/viktomas) | 43 | 300 |
-| [@joe-shaw](https://gitlab.com/joe-shaw) | 44 | 300 |
-| [@ajwalker](https://gitlab.com/ajwalker) | 45 | 300 |
-| [@tle_gitlab](https://gitlab.com/tle_gitlab) | 46 | 300 |
-| [@furkanayhan](https://gitlab.com/furkanayhan) | 47 | 270 |
-| [@ahegyi](https://gitlab.com/ahegyi) | 48 | 260 |
-| [@mcelicalderonG](https://gitlab.com/mcelicalderonG) | 49 | 260 |
-| [@vshushlin](https://gitlab.com/vshushlin) | 50 | 240 |
-| [@alexkalderimis](https://gitlab.com/alexkalderimis) | 51 | 230 |
-| [@alberts-gitlab](https://gitlab.com/alberts-gitlab) | 52 | 230 |
-| [@dbalexandre](https://gitlab.com/dbalexandre) | 53 | 220 |
-| [@m_frankiewicz](https://gitlab.com/m_frankiewicz) | 54 | 200 |
-| [@pshutsin](https://gitlab.com/pshutsin) | 55 | 200 |
-| [@pgascouvaillancourt](https://gitlab.com/pgascouvaillancourt) | 56 | 200 |
-| [@twoodham](https://gitlab.com/twoodham) | 57 | 200 |
-| [@pursultani](https://gitlab.com/pursultani) | 58 | 180 |
-| [@10io](https://gitlab.com/10io) | 59 | 170 |
-| [@mwoolf](https://gitlab.com/mwoolf) | 60 | 160 |
-| [@egrieff](https://gitlab.com/egrieff) | 61 | 160 |
-| [@rmarshall](https://gitlab.com/rmarshall) | 62 | 140 |
-| [@cngo](https://gitlab.com/cngo) | 63 | 140 |
-| [@avielle](https://gitlab.com/avielle) | 64 | 140 |
-| [@mbobin](https://gitlab.com/mbobin) | 65 | 130 |
-| [@felipe_artur](https://gitlab.com/felipe_artur) | 66 | 130 |
-| [@alexpooley](https://gitlab.com/alexpooley) | 67 | 130 |
-| [@lauraX](https://gitlab.com/lauraX) | 68 | 120 |
-| [@balasankarc](https://gitlab.com/balasankarc) | 69 | 110 |
-| [@ck3g](https://gitlab.com/ck3g) | 70 | 110 |
-| [@mattkasa](https://gitlab.com/mattkasa) | 71 | 100 |
-| [@mkaeppler](https://gitlab.com/mkaeppler) | 72 | 100 |
-| [@drew](https://gitlab.com/drew) | 73 | 90 |
-| [@allison.browne](https://gitlab.com/allison.browne) | 74 | 90 |
-| [@dmakovey](https://gitlab.com/dmakovey) | 75 | 80 |
-| [@ebaque](https://gitlab.com/ebaque) | 76 | 80 |
-| [@seanarnold](https://gitlab.com/seanarnold) | 77 | 80 |
-| [@splattael](https://gitlab.com/splattael) | 78 | 80 |
-| [@iamphill](https://gitlab.com/iamphill) | 79 | 80 |
-| [@jprovaznik](https://gitlab.com/jprovaznik) | 80 | 60 |
-| [@proglottis](https://gitlab.com/proglottis) | 81 | 60 |
-| [@minac](https://gitlab.com/minac) | 82 | 60 |
-| [@hortiz5](https://gitlab.com/hortiz5) | 83 | 60 |
-| [@pedropombeiro](https://gitlab.com/pedropombeiro) | 84 | 60 |
-| [@nick.thomas](https://gitlab.com/nick.thomas) | 85 | 60 |
-| [@bala.kumar](https://gitlab.com/bala.kumar) | 86 | 60 |
-| [@shinya.maeda](https://gitlab.com/shinya.maeda) | 87 | 60 |
-| [@serenafang](https://gitlab.com/serenafang) | 88 | 60 |
-| [@fabiopitino](https://gitlab.com/fabiopitino) | 89 | 60 |
-| [@abdwdd](https://gitlab.com/abdwdd) | 90 | 60 |
-| [@ahmed.hemdan](https://gitlab.com/ahmed.hemdan) | 91 | 60 |
-| [@jivanvl](https://gitlab.com/jivanvl) | 92 | 60 |
-| [@dmishunov](https://gitlab.com/dmishunov) | 93 | 60 |
-| [@tianwenchen](https://gitlab.com/tianwenchen) | 94 | 60 |
-| [@khanmansoor](https://gitlab.com/khanmansoor) | 95 | 60 |
-| [@patrickbajao](https://gitlab.com/patrickbajao) | 96 | 60 |
-| [@joseph](https://gitlab.com/joseph) | 97 | 60 |
-| [@ghickey](https://gitlab.com/ghickey) | 98 | 40 |
-| [@mhenriksen](https://gitlab.com/mhenriksen) | 99 | 40 |
-| [@morefice](https://gitlab.com/morefice) | 100 | 40 |
-| [@ohoral](https://gitlab.com/ohoral) | 101 | 30 |
-| [@subashis](https://gitlab.com/subashis) | 102 | 30 |
-| [@brytannia](https://gitlab.com/brytannia) | 103 | 30 |
-| [@robotmay_gitlab](https://gitlab.com/robotmay_gitlab) | 104 | 30 |
-| [@ealcantara](https://gitlab.com/ealcantara) | 105 | 30 |
-| [@fjsanpedro](https://gitlab.com/fjsanpedro) | 106 | 30 |
-| [@acroitor](https://gitlab.com/acroitor) | 107 | 30 |
-| [@carlad-gl](https://gitlab.com/carlad-gl) | 108 | 30 |
-| [@nmilojevic1](https://gitlab.com/nmilojevic1) | 109 | 30 |
-| [@dgruzd](https://gitlab.com/dgruzd) | 110 | 30 |
-| [@lulalala](https://gitlab.com/lulalala) | 111 | 30 |
-| [@cablett](https://gitlab.com/cablett) | 112 | 30 |
-| [@ntepluhina](https://gitlab.com/ntepluhina) | 113 | 20 |
-| [@mikolaj_wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | 114 | 20 |
-| [@terrichu](https://gitlab.com/terrichu) | 115 | 20 |
+| [@jiaan](https://gitlab.com/jiaan) | 40 | 400 |
+| [@bmarjanovic](https://gitlab.com/bmarjanovic) | 41 | 380 |
+| [@rcobb](https://gitlab.com/rcobb) | 42 | 300 |
+| [@dzubova](https://gitlab.com/dzubova) | 43 | 300 |
+| [@viktomas](https://gitlab.com/viktomas) | 44 | 300 |
+| [@joe-shaw](https://gitlab.com/joe-shaw) | 45 | 300 |
+| [@ajwalker](https://gitlab.com/ajwalker) | 46 | 300 |
+| [@tle_gitlab](https://gitlab.com/tle_gitlab) | 47 | 300 |
+| [@drew](https://gitlab.com/drew) | 48 | 290 |
+| [@furkanayhan](https://gitlab.com/furkanayhan) | 49 | 270 |
+| [@ahegyi](https://gitlab.com/ahegyi) | 50 | 260 |
+| [@mcelicalderonG](https://gitlab.com/mcelicalderonG) | 51 | 260 |
+| [@vshushlin](https://gitlab.com/vshushlin) | 52 | 240 |
+| [@alexkalderimis](https://gitlab.com/alexkalderimis) | 53 | 230 |
+| [@alberts-gitlab](https://gitlab.com/alberts-gitlab) | 54 | 230 |
+| [@dbalexandre](https://gitlab.com/dbalexandre) | 55 | 220 |
+| [@m_frankiewicz](https://gitlab.com/m_frankiewicz) | 56 | 200 |
+| [@pshutsin](https://gitlab.com/pshutsin) | 57 | 200 |
+| [@pgascouvaillancourt](https://gitlab.com/pgascouvaillancourt) | 58 | 200 |
+| [@twoodham](https://gitlab.com/twoodham) | 59 | 200 |
+| [@pursultani](https://gitlab.com/pursultani) | 60 | 180 |
+| [@10io](https://gitlab.com/10io) | 61 | 170 |
+| [@mwoolf](https://gitlab.com/mwoolf) | 62 | 160 |
+| [@egrieff](https://gitlab.com/egrieff) | 63 | 160 |
+| [@mbobin](https://gitlab.com/mbobin) | 64 | 160 |
+| [@allison.browne](https://gitlab.com/allison.browne) | 65 | 150 |
+| [@rmarshall](https://gitlab.com/rmarshall) | 66 | 140 |
+| [@cngo](https://gitlab.com/cngo) | 67 | 140 |
+| [@avielle](https://gitlab.com/avielle) | 68 | 140 |
+| [@felipe_artur](https://gitlab.com/felipe_artur) | 69 | 130 |
+| [@alexpooley](https://gitlab.com/alexpooley) | 70 | 130 |
+| [@lauraX](https://gitlab.com/lauraX) | 71 | 120 |
+| [@ebaque](https://gitlab.com/ebaque) | 72 | 110 |
+| [@balasankarc](https://gitlab.com/balasankarc) | 73 | 110 |
+| [@ck3g](https://gitlab.com/ck3g) | 74 | 110 |
+| [@mattkasa](https://gitlab.com/mattkasa) | 75 | 100 |
+| [@mkaeppler](https://gitlab.com/mkaeppler) | 76 | 100 |
+| [@dmakovey](https://gitlab.com/dmakovey) | 77 | 80 |
+| [@seanarnold](https://gitlab.com/seanarnold) | 78 | 80 |
+| [@splattael](https://gitlab.com/splattael) | 79 | 80 |
+| [@iamphill](https://gitlab.com/iamphill) | 80 | 80 |
+| [@jprovaznik](https://gitlab.com/jprovaznik) | 81 | 60 |
+| [@proglottis](https://gitlab.com/proglottis) | 82 | 60 |
+| [@minac](https://gitlab.com/minac) | 83 | 60 |
+| [@hortiz5](https://gitlab.com/hortiz5) | 84 | 60 |
+| [@pedropombeiro](https://gitlab.com/pedropombeiro) | 85 | 60 |
+| [@nick.thomas](https://gitlab.com/nick.thomas) | 86 | 60 |
+| [@bala.kumar](https://gitlab.com/bala.kumar) | 87 | 60 |
+| [@shinya.maeda](https://gitlab.com/shinya.maeda) | 88 | 60 |
+| [@serenafang](https://gitlab.com/serenafang) | 89 | 60 |
+| [@fabiopitino](https://gitlab.com/fabiopitino) | 90 | 60 |
+| [@abdwdd](https://gitlab.com/abdwdd) | 91 | 60 |
+| [@ahmed.hemdan](https://gitlab.com/ahmed.hemdan) | 92 | 60 |
+| [@jivanvl](https://gitlab.com/jivanvl) | 93 | 60 |
+| [@dmishunov](https://gitlab.com/dmishunov) | 94 | 60 |
+| [@tianwenchen](https://gitlab.com/tianwenchen) | 95 | 60 |
+| [@khanmansoor](https://gitlab.com/khanmansoor) | 96 | 60 |
+| [@patrickbajao](https://gitlab.com/patrickbajao) | 97 | 60 |
+| [@joseph](https://gitlab.com/joseph) | 98 | 60 |
+| [@ghickey](https://gitlab.com/ghickey) | 99 | 40 |
+| [@mhenriksen](https://gitlab.com/mhenriksen) | 100 | 40 |
+| [@morefice](https://gitlab.com/morefice) | 101 | 40 |
+| [@nicolasdular](https://gitlab.com/nicolasdular) | 102 | 40 |
+| [@ohoral](https://gitlab.com/ohoral) | 103 | 30 |
+| [@subashis](https://gitlab.com/subashis) | 104 | 30 |
+| [@brytannia](https://gitlab.com/brytannia) | 105 | 30 |
+| [@robotmay_gitlab](https://gitlab.com/robotmay_gitlab) | 106 | 30 |
+| [@ealcantara](https://gitlab.com/ealcantara) | 107 | 30 |
+| [@fjsanpedro](https://gitlab.com/fjsanpedro) | 108 | 30 |
+| [@acroitor](https://gitlab.com/acroitor) | 109 | 30 |
+| [@carlad-gl](https://gitlab.com/carlad-gl) | 110 | 30 |
+| [@nmilojevic1](https://gitlab.com/nmilojevic1) | 111 | 30 |
+| [@dgruzd](https://gitlab.com/dgruzd) | 112 | 30 |
+| [@lulalala](https://gitlab.com/lulalala) | 113 | 30 |
+| [@cablett](https://gitlab.com/cablett) | 114 | 30 |
+| [@ntepluhina](https://gitlab.com/ntepluhina) | 115 | 20 |
+| [@mikolaj_wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | 116 | 20 |
+| [@terrichu](https://gitlab.com/terrichu) | 117 | 20 |
 
 ### Engineering
 
@@ -157,12 +159,13 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
-| [@kmcknight](https://gitlab.com/kmcknight) | 1 | 500 |
-| [@NicoleSchwartz](https://gitlab.com/NicoleSchwartz) | 2 | 400 |
-| [@mbruemmer](https://gitlab.com/mbruemmer) | 3 | 400 |
-| [@cguitarte](https://gitlab.com/cguitarte) | 4 | 300 |
-| [@ankit.panchal](https://gitlab.com/ankit.panchal) | 5 | 80 |
-| [@vburton](https://gitlab.com/vburton) | 6 | 30 |
+| [@sam.white](https://gitlab.com/sam.white) | 1 | 700 |
+| [@kmcknight](https://gitlab.com/kmcknight) | 2 | 500 |
+| [@NicoleSchwartz](https://gitlab.com/NicoleSchwartz) | 3 | 400 |
+| [@mbruemmer](https://gitlab.com/mbruemmer) | 4 | 400 |
+| [@cguitarte](https://gitlab.com/cguitarte) | 5 | 300 |
+| [@ankit.panchal](https://gitlab.com/ankit.panchal) | 6 | 80 |
+| [@vburton](https://gitlab.com/vburton) | 7 | 30 |
 
 ### Community
 
@@ -174,9 +177,41 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@tnir](https://gitlab.com/tnir) | 4 | 400 |
 | [@spirosoik](https://gitlab.com/spirosoik) | 5 | 300 |
 | [@kyrie.31415926535](https://gitlab.com/kyrie.31415926535) | 6 | 300 |
-| [@benyanke](https://gitlab.com/benyanke) | 7 | 200 |
-| [@zined](https://gitlab.com/zined) | 8 | 200 |
-| [@trakos](https://gitlab.com/trakos) | 9 | 200 |
+| [@msherron](https://gitlab.com/msherron) | 7 | 300 |
+| [@benyanke](https://gitlab.com/benyanke) | 8 | 200 |
+| [@zined](https://gitlab.com/zined) | 9 | 200 |
+| [@trakos](https://gitlab.com/trakos) | 10 | 200 |
+
+## FY23-Q4
+
+### Development
+
+| Nominee | Rank | Points |
+| ------- | ----:| ------:|
+| [@jiaan](https://gitlab.com/jiaan) | 1 | 400 |
+| [@cam_swords](https://gitlab.com/cam_swords) | 2 | 200 |
+| [@drew](https://gitlab.com/drew) | 3 | 200 |
+| [@bmarjanovic](https://gitlab.com/bmarjanovic) | 4 | 60 |
+| [@allison.browne](https://gitlab.com/allison.browne) | 5 | 60 |
+| [@nicolasdular](https://gitlab.com/nicolasdular) | 6 | 40 |
+| [@ebaque](https://gitlab.com/ebaque) | 7 | 30 |
+| [@mbobin](https://gitlab.com/mbobin) | 8 | 30 |
+
+### Engineering
+
+Category is empty
+
+### Non-Engineering
+
+| Nominee | Rank | Points |
+| ------- | ----:| ------:|
+| [@sam.white](https://gitlab.com/sam.white) | 1 | 700 |
+
+### Community
+
+| Nominee | Rank | Points |
+| ------- | ----:| ------:|
+| [@msherron](https://gitlab.com/msherron) | 1 | 300 |
 
 ## FY23-Q3
 
