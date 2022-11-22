@@ -57,7 +57,7 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
       1. Key Personas
       1. Industry
       1. Duration of contract/last renewal date
-1. Locate and study **custom deck** from AE (Link to Custom Pitch Deck in Salesforce or reach out to AE directly)
+1. Locate and study **Custom Pitch Deck** from AE (find _Custom Pitch Deck_ link in **Salesforce Opportunity** or reach out to AE directly)
 1. Perform general research of the company and related industry to give better context.
 1. Reach out to AE/SAL and let them know about the meeting; discuss strategy, insights. Add AE/SAL as optional to all calls. 
 1. Join the call at least 10-15 minutes early to prepare and be ready to allow customers to join from the waiting room.
