@@ -19,7 +19,7 @@ description: "This page serves as the Channel Operations team page and includes 
 # Welcome to the Channel Operations page
 
 ## _Pinned Announcement_
-New partner program changes are effective on August 15, 2021. Please visit the [Channel Ops Document Library](https://docs.google.com/document/d/1K12I8-UOuC6f92duKB24iypOo_igox1bQMMbUooqbx0/edit) for updates and collateral. For information about the program (not operational), visit the [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/).
+New partner program changes are effective on August 15, 2021. Please visit the [Channel Ops Document Library](https://docs.google.com/document/d/1K12I8-UOuC6f92duKB24iypOo_igox1bQMMbUooqbx0/edit) for updates and collateral. For information about the program, visit the [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/).
  
 ## Meet the Team
 ### Who We Are
@@ -135,7 +135,7 @@ For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.go
 Channel-specific quoting instructions can be found in the [Deal Desk Quote Configuration handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes).
  
 ### Opportunity Requirements to Request a Quote
-Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with) all standard GitLab direct and reseller-direct opportunities. For quotes going through distribution, please review [Transacting Through Distribution](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), then Chatter @ Partner Operations on the opportunity with the following information:
+Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with) and [PO remittance](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#po-remittance) on all standard GitLab direct and reseller-direct opportunities. For quotes going through distribution, please review [Transacting Through Distribution](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), then Chatter @ Partner Operations on the opportunity with the following information:
 - For opportunities that include a Partner Sourced Deal Registration, the registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
 - Sold-To Contact: the email address the license will be sent to at the customer account
 - Invoice Owner: The distributor processing the deal. If there’s no distributor on the deal, Sales Rep and/or ISR are responsible for quoting
@@ -182,7 +182,6 @@ If you are working with a partner and need a distributor quote sent, please eith
 *   Partner Order Ops attaches PO to opportunity and then submits opportunity for approval. Partner Order Ops then: 
     *   monitors opportunity to ensure it is updated to Closed-Won.
     *   notifies Distributor when order has been fully processed.
-
 
  
 ## SFDC Field Definitions
