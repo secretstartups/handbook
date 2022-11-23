@@ -21,7 +21,7 @@ The Pricing team owns the definition and execution of pricing strategy at GitLab
 
 ## Levels
 ### Pricing Analyst
-The Pricing Analyst reports to the [Sr. Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).
+The Pricing Analyst reports to the [Director of Pricing](/job-families/product/pricing/#director-of-pricing).
 
 #### Pricing Analyst Responsibilities
 - Help the pricing team drive informed pricing and packaging decisions
@@ -50,12 +50,12 @@ Candidates for this position can expect the hiring process to follow the order b
 - Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Principal Pricing Manager
 - Next, candidates will be invited to schedule a deep dive interview with a member of the Data Team
-- Next, candidates will be invited to schedule an interview with the Sr. Director of Pricing
+- Next, candidates will be invited to schedule an interview with the Director of Pricing
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Senior Pricing Analyst
-The Senior Pricing Analyst role reports to the [Sr. Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).
+The Senior Pricing Analyst role reports to the [Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).
 
 #### Senior Pricing Analyst Job Grade
 The Senior Pricing Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -66,15 +66,15 @@ The Senior Pricing Analyst is a [grade 7](/handbook/total-rewards/compensation/c
 - 4+ years of experience with pricing research and a basic understanding of common pricing research techniques
 
 ### Principal Pricing Manager
-The Principal Pricing Manager reports to the [Sr. Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).
+The Principal Pricing Manager reports to the [Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).
 
 #### Principal Pricing Manager Responsibilities
-- Drive pricing strategy for the pricing team
+- Drive pricing strategy for key initiatives across the business
 - Lead the research and analysis efforts to define our pricing model, including pricing metrics, price points, and package construction
 - Collaborate effectively with the executive team and product organization to drive complex pricing decisions
 - Ensure pricing and packaging policy is effectively implemented into the customer experience
 - Implement continuous pricing optimization plans
-- Work with the [Growth](https://about.gitlab.com/direction/growth/) teams to increase Average Revenue per User [(ARPU)](https://about.gitlab.com/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu)
+- Work cross functionally to execute on pricing changes including close collaboration with Product, Sales, Marketing, Finance and Legal departments. 
 
 #### Principal Pricing Manager Requirements
 - 7+ years of pricing experience.  MBA preferred.  
@@ -93,28 +93,28 @@ The Principal Pricing Manager is a [grade 9.5](/handbook/total-rewards/compensat
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. 
 
 - Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
-- Next, candidates will be invited to schedule an interview with the Sr. Director of Pricing
+- Next, candidates will be invited to schedule an interview with the Director of Pricing
 - Next, candidates will be invited to schedule an interview with a leader from the Sales Organization (VP of Sales Ops, VP of Sales or CRO)
 - Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (Sr. Director of Strategic Marketing or CMO)
-- Next, candidates will be invited to schedule an interview with the Chief Product Officer
+- Next, candidates will be invited to schedule an interview with the VP of Product
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-### Sr. Director of Pricing
-The Sr. Director of Pricing reports to the [Executive Vice President of Product](/job-families/product/chief-product-officer/).
+### Director of Pricing
+The Director of Pricing reports to the [Sr Director of Product Monetization](/job-families/product/product-management-leadership/#senior-director-of-product-monetization)
 
-#### Sr. Director of Pricing Responsibilities
+#### Director of Pricing Responsibilities
 
 - Lead the pricing function at the company
-- Work closely with the CEO, CMO, CRO, and Chief Product Officer to drive decision making around all aspects of the [pricing model](https://about.gitlab.com/company/pricing/)
+- Work closely with the CEO, CMO, CRO, and VP of Product to drive decision making around all aspects of the [pricing model](https://about.gitlab.com/company/pricing/)
 - Collaborate effectively cross-functionally to drive complex pricing decisions at all levels including e-group
 - Ensure pricing and packaging projects are effectively executed, including customer messaging, product experience, and internal enablement 
 - Drive robust pricing related research and analysis to generate and test hypotheses to optimize GitLab’s pricing model, including pricing metrics, price points, and package construction
 - Implement continuous pricing optimization plans
-- Work with the [Growth](https://about.gitlab.com/direction/growth/) teams to increase Average Revenue per User [(ARPU)](https://about.gitlab.com/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu)
-- Provide strategic vision
+- Work across Fulfillment, Sales, Marketing, Legal, and Finance to deliver pricing and packaging changes
+- Contribute to our broader strategy collaborating closely with the Product Leadership Team
 
-#### Sr. Director of Pricing Requirements
+#### Director of Pricing Requirements
 
 - 15+ years of overall experience, with 8+ years of pricing experience, preferably as a people manager of a pricing team. Previous experience in Product Management also a plus.
 - Experience with open source business models a plus
@@ -125,27 +125,28 @@ The Sr. Director of Pricing reports to the [Executive Vice President of Product]
 - Expertise in quantitative and qualitative customer validation techniques, including surveys & customer interviewing to test customer segmentation, value metrics, pricing models, etc.
 - Previous experience using customer/market segmentation techniques to effectively map pricing packages to user personas, buyer personas, and/or market segments
 
-#### Sr. Director of Pricing Job Grade
+#### Director of Pricing Job Grade
 
-The Sr. Director of Pricing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Pricing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Sr. Director of Pricing Hiring Process
+#### Director of Pricing Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 - Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
-- Next, candidates will be invited to schedule an interview with the Chief Product Officer
-- Next, candidates will be invited to schedule a deep-dive interview with the Principal Pricing Manager
-- Next, candidates will be invited to schedule an interview with a leader from the Sales Organization (VP of Sales Ops, VP of Sales or CRO)
-- Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (Sr. Director of Strategic Marketing or CMO)
-- Finally, candidates may be invited to schedule an interview with the CEO
+- Next, candidates will be invited to schedule an interview with the Sr Director, Product Monetization
+- Next, candidates will be invited to schedule a deep-dive interview with a Principal Pricing Manager
+- Next, candidates will be invited to schedule an interview with the Director of Product, Fulfillment
+- Next, candidates will be invited to schedule an interview with a leader from the Sales Organization (VP of Field Ops)
+- Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (VP, Product Marketing)
+- Finally, candidates may be invited to schedule an interview with the VP of Product Management
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Performance Indicators
 
 - Average Revenue per User
-- Average Selling Pricing
+- Average Selling Price
 
 ## Career Ladder
 
