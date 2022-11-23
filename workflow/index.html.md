@@ -29,7 +29,7 @@ the following should be true:
 * Something broke and there is no acceptable work around. Examples of this include:
   * A feature broke and is categorized as `~severity::1` or `~severity::2`.
   [See severity labels](/handbook/engineering/quality/issue-triage/#severity)
-  * [Master broke](#broken-master)
+  * [Master broken](#broken-master)
   * There are failing migrations
 * There are no dependencies on the change. For example, a database
 migration has not been run on production.
