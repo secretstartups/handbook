@@ -12,11 +12,11 @@ description: "The Delivery Group enables GitLab Engineering to deliver features 
 
 ## Common Links
 
-| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/delivery/#how-we-work) |
+| **Workflow** | [Team workflow](#how-we-work) |
 | **GitLab.com** | `@gitlab-org/delivery` |
-| **Issue Trackers** | [**Delivery**][issue tracker]|
-| **Slack Channels** | [#g_delivery] / `@delivery-team`
-| **Delivery Handbook** | [Team training][team training]|
+| **Issue Tracker** | [**Delivery**][delivery issue tracker] |
+| **Slack Channels** | [#g_delivery] / `@delivery-team` |
+| **Delivery Handbook** | [Team training][team training] |
 | **Delivery Metrics** | [Metrics](/handbook/engineering/infrastructure/team/delivery/metrics.html)
 | Deployment and Release process | [Releases](/handbook/engineering/releases/)
 | Release Tools Project | [Release tools](/handbook/engineering/infrastructure/release-tools) |
@@ -166,7 +166,7 @@ The primary customers of the Orchestration team are the internal GitLab users wh
 11. Deployment execution log: Ensuring that an accurate log of deployments is maintained.
 12. Deployment & release metadata: Tracking component versions and dependencies to allow for quality gates to be accurate, and to ensure predictable releases.
 13. QA test execution & results visibility: Ensuring that all deployments and releases pass the required testing. Orchestration will be particularly concerned with timing of test execution and making sure that the correct dependencies are in place for reliable results.
-14. Deployment dashboards: Orchestraction will own a set of dashboards to guide the team's work on designing effective deployment and release processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual deployment and release pipelines.
+14. Deployment dashboards: Orchestration will own a set of dashboards to guide the team's work on designing effective deployment and release processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual deployment and release pipelines.
 
 ### Delivery:System ownership
 
@@ -184,6 +184,21 @@ The primary customer of the System team is the Delivery::Orchestration team.
 
 ## How we work
 
+### Reaching our Team
+
+| Reason | Contact | Via |
+| ------ | ------- | --- |
+| S1/P1 Deployment/Release related issues | `@release-managers` | Slack |
+| Any Priority Deployment/Release related issues | `@gitlab-org/delivery` | GitLab |
+
+Please note that the Delivery team is not currently subject to being on an
+on-call rotation as our operations are normally suspended during off-hours.
+Release Managers have a follow the sun coverage during working days. If we are
+unreachable, please reach out to one of the [Engineering
+Managers](#team-members) using their contact information located in their Slack
+profile.
+
+
 ### Project Management
 
 The Delivery Group's work is tracked through a number of epics, issues, and issue boards.
@@ -191,7 +206,7 @@ The Delivery Group's work is tracked through a number of epics, issues, and issu
 Epics and issue boards are complementary to each other, and we always strive to have a 1-1 mapping between a working epic and an issue board.
 Epics describe the work and allows for general discussions, while the issue board is there to describe order of progress in any given epic.
 
-Each project should have a project-label applied to all epics and issues to allow issue boards to show a full project view.  
+Each project should have a project-label applied to all epics and issues to allow issue boards to show a full project view.
 
 ### Epics
 
@@ -207,7 +222,7 @@ Working epic should always have:
 1. [A Problem Statement](https://lamport.azurewebsites.net/pubs/state-the-problem.pdf).
 1. [Directly responsible individuals][DRI] responsible for the project completion.
 1. Defined exit criteria
-1. Issue admin section to provide the issue priority, labels and epic for quick actions. [Example](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/273#issue-template). 
+1. Issue admin section to provide the issue priority, labels and epic for quick actions. [Example](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/273#issue-template).
 1. Status YYYY-MM-DD to indicate what is being worked on, why, and planned next steps. The DRI is responsible for updating the epic status each week. Note, this must be the last heading in the epic to support automated epic summary updates
 1. Start date and estimated due date
 1. Labels: 
@@ -338,7 +353,7 @@ Prior to 2020, the team impact overview was created in Slack, and in the years t
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1446)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2171)
 
-[issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
+[delivery issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/
 [#g_delivery]: https://gitlab.slack.com/archives/g_delivery
 [#production]: https://gitlab.slack.com/archives/production
