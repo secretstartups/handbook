@@ -13,12 +13,12 @@ title: "Releases"
 
 | Description        | Location            |
 |--------------------|---------------------|
-| Release orchestration | [Link](https://gitlab.com/gitlab-org/release-tools/) |
 | Release documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
-| Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
-| Delivery team issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
-| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Issue Tracker | [`gitlab-org/release/tasks`][release/tasks] |
+| Slack Channels | [#f_upcoming_release] / `@release-managers` |
+| Release Manager schedule | [Link](https://about.gitlab.com/community/release-managers/) |
 | Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
+| Reaching us | [How to find us](/handbook/engineering/infrastructure/team/delivery/#reaching-our-team) |
 
 ## Overview and terminology
 
@@ -404,6 +404,7 @@ ___________
 
 If you need any additional help please ask the Release Managers in the [#releases] Slack channel.
 
+[#f_upcoming_release]: https://gitlab.slack.com/archives/f_upcoming_release
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
 [development month]: /handbook/engineering/workflow/#product-development-timeline
@@ -411,7 +412,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [maintenance policy]: https://docs.gitlab.com/ee/policy/maintenance.html
 [gitlab-org/gitlab]: https://gitlab.com/gitlab-org/gitlab
 [release-tools]: https://gitlab.com/gitlab-org/release-tools
-[release/tasks]: https://gitlab.com/gitlab-org/release/tasks/
+[release/tasks]: https://gitlab.com/gitlab-org/release/tasks/-/issues
 [labels of importance]: #labels-of-importance
 [creating patch release]: https://youtu.be/lHag9jARbIg
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
