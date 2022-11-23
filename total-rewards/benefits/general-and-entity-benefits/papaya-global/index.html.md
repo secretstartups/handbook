@@ -46,7 +46,9 @@ The annual flights do not roll over year to year, in the event that the team mem
 
 ##### Process on Requesting Return Flights Home 
 
-TBD
+During onboarding the eligible team members will have a policy set up in TripActions where the team member can book their flights home. More information on the policy can be found [here](https://docs.google.com/spreadsheets/d/1eXT_0-mP2bNQtTO6opLjYSjdbH_Yuj8JIqMPM7DT80g/edit#gid=0).
+
+Please refer to the GitLab Travel page of the Handbook on how to book flights through TripActions[here](https://about.gitlab.com/handbook/travel/)
 
 ### Medical 
 
