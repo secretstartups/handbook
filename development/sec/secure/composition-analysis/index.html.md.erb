@@ -91,6 +91,7 @@ Time allocation: 15% of 1 engineer.
    1. Application dependencies
    1. Programming language
 1. Check in on test failures
+1. Check latest pipelines for any release failures. If any issue is preventing the automated release process from running, begin the [release failure escalation process](#release-failure-escalation-process).
 1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
 
 #### Responsibilities - Support
@@ -204,6 +205,46 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure correct stage and group label are applied.
 
 Please refer to our [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) for more details.
+
+### Release failure process
+
+If the image release process is failing, an incident should be created to track how
+it was detected, escalated, and resolved. Documenting our incidents makes it possible
+to search for previous incidents by keyword, labels, and other issue filters. We open
+all of our incidents in the [main GitLab project](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&type%5B%5D=incident&label_name%5B%5D=group%3A%3Acomposition%20analysis&first_page_size=20).
+
+1. [Open a new incident](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident)
+and add a description of the problem along with any reproduction steps. Add the following labels so that we can track the incidents
+that have impacted composition analysis in the future.
+
+    <!--
+    Select one of the following severities
+    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity
+    -->
+    /severity S1 S2 S3 S4
+    /label ~"severity::1" ~"severity::2" ~"severity::3" ~"severity::4"
+
+    <!--
+    Select one of the following priorities
+    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority
+    -->
+    /label ~"priority::1" ~"priority::2" ~"priority::3" ~"priority::4"
+
+    /label ~"section::sec" ~"devops::secure" ~"group::composition analysis" ~"type::bug" ~"bug::availability"
+    
+    
+    /label ~"Category:Dependency Scanning"
+    /label ~"Category:Container Scanning"
+    /label ~"Category:License Compliance"
+
+1. Assign the incident to the engineer currently on the maintainership reaction rotation.
+1. Link any related issues or zoom meetings with the [quick actions](https://docs.gitlab.com/ee/operations/incident_management/linked_resources.html#using-a-quick-action) to record incident timeline events. Ensure that an event exists for the incident start,
+detection, resolution, and any other events that you feel are worth highlighting as part of the incident response.
+1. Upon fixing the issue, include a detailed summary of the resolution and any initial follow up actions that should be completed. Lastly, an entry for incident should be added to the weekly composition analysis group meeting so that it may be reviewed with the entire group.
+
+#### Example Incident(s)
+
+- [PHP Composer segfaults in gemnasium analyzer](https://gitlab.com/gitlab-org/gitlab/-/issues/383299)
 
 ### Maintenance triaging process
 
