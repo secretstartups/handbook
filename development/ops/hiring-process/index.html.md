@@ -126,11 +126,11 @@ If you're unable to submit it within that timeframe, please reach out to the Hir
 1. Complete Hiring Manager [Justification](/handbook/hiring/talent-acquisition-framework/req-overview/#step-8-justification-engineering-only)
 1. Hiring Manager Justification will be reviewed by Director of Ops (or a delegate) for these criteria:
     1. Two Strong Yes
-    1. All must-haves assessed and positive
-    1. Majority (e.g. 5 out of 9) of  nice-to-haves assessed and positive in Justification
-    1. Thumb-down scorecard must be explicitly addressed in Justification
-    1. Any previous rejections explicitly addressed in Justification
-    1. Any red flag must be explicitly addressed in Justification
-    1. Justification scorecard must be written by the HM
+    1. All must-haves assessed and positive.  These should be checked in the Justification scorecared.  The ratings should reflect the hiring manager's evaluation of the candidate based on all feedback.  They are *not* an average of scores given by the interview panel.
+    1. Majority (e.g. 5 out of 9) of  nice-to-haves assessed and positive in Justification.   These should be checked in the Justification scorecared.  The ratings should reflect the hiring manager's evaluation of the candidate based on all feedback.  They are *not* an average of scores given by the interview panel.
+    1. Thumb-down scorecard must be explicitly addressed in Justification.
+    1. Any previous rejections explicitly addressed in Justification.
+    1. Any red flag must be explicitly addressed in Justification.
+    1. Justification scorecard must be written by the HM.
 
 
