@@ -71,11 +71,7 @@ In addition to the above criteria, we can automatically offer to import a projec
 
 #### User Mapping
 
-A GitLab.com admin is required to correctly map users in GitLab, [per our documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html). Without an admin account, repository commits will have correct user attribution but issues and merge requests will not. We can import a project for a customer if they require this and there are *no other* issues with their import.
-
-Any request should include a comment on the relevant feature request [#223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137).
-
->**NOTE:** All users' emails must be **public** for contributions to map.
+User Mapping is no longer a pre-approved case with the turning on of the [`bulk_import_projects` feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/339941#note_1170723626). Inquiring users should be redirected to [Migrating Groups with GitLab Migration](https://docs.gitlab.com/ee/user/group/import/) to have users mapped.
 
 #### Other Cases
 
