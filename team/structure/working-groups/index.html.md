@@ -133,6 +133,7 @@ If you are interested in participating in an active working group, it is general
 
 ## Active Working Groups (alphabetic order)
 
+* [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
 * [API Vision](/company/team/structure/working-groups/api-vision/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 * [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
