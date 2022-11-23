@@ -106,6 +106,7 @@ These status updates are used to:
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
 1. The SSOT for who is the current EOC is the [GitLab Production](https://gitlab.pagerduty.com/service-directory/PATDFCE) service definition in PagerDuty.
+	1. SREs are responsible for arranging coverage if they will be unavailable for a scheduled shift.  To make a request, send a message indicating the days and times for which coverage is requested to the `#reliability-lounge` Slack channel.  If you are unable to find coverage reach out to a Reliability Engineering Manager for assistance.
 1. Alerts that are routed to Pagerduty require acknowledgment within 15 minutes, otherwise they will be escalated to the oncall Incident Manager.
     1. Alert-manager alerts in [`#alerts`](https://gitlab.slack.com/archives/alerts) and [`#alerts-general`](https://gitlab.slack.com/archives/alerts-general) are an important source of information about the health of the environment and should be monitored during working hours.
     1. If the Pagerduty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
@@ -648,3 +649,4 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
 
 [related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
+
