@@ -184,8 +184,8 @@ Below, view a video that shows a typical workflow to update the website.
 ### Creating a new page
 
 #### As an Engineer
-If you are an engineer, be sure to check out our [developer docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md). 
-If adding a new top level directory to the marketing site, make sure to add to `data/monorepo.yml` under `uncategorized/paths`. 
+If you are an engineer, be sure to check out our [developer docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md).
+If adding a new top level directory to the marketing site, make sure to add to `data/monorepo.yml` under `uncategorized/paths`.
 [Docs on monorepo](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/monorepo.md).
 
 #### As a Non-engineer
@@ -213,7 +213,7 @@ Here is your first paragraph replace this text.
 ```
 
 1. Inside the quote add the title of your page. For example the title of my cloud native page would be "Building Cloud Native Applications With GitLab". Save your page by clicking "Commit changes". (Using markdown you can add more content to the page. All you need is a title, subheading and a paragraph to get started.)
-1. Return to the directory you created. You will see that you now have two files: `index.html.md.erb` and `.gitkeep`. Delete the `.gitkeep` file. This is a placeholder file from when you created the directory since git cannot track empty directories. A quick way to delete the file is to click `.gitkeep` and then click the `Delete` button. 
+1. Return to the directory you created. You will see that you now have two files: `index.html.md.erb` and `.gitkeep`. Delete the `.gitkeep` file. This is a placeholder file from when you created the directory since git cannot track empty directories. A quick way to delete the file is to click `.gitkeep` and then click the `Delete` button.
 1. **ProTip**: Now that you no longer have a branch with no changes you can use the Web IDE to make further edits. (The Web IDE doesn't work if you have a branch with no changes. [Fix coming in 11.3](https://gitlab.com/gitlab-org/gitlab-ce/issues/48166)
 1. **ProTip**: Add a link to the bottom of your page so people can continue reading related content. Popular choices would be `/product` , `/solutions`, `/pricing` or any pages related to your page.
 1. If you need help you can ask in the #mr-buddies slack channel.
@@ -521,11 +521,11 @@ All features and capabilities are listed in a single yaml file
 ([`features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml)) under the `features` section.
 It is the single source of truth for multiple pages across the website including:
 
-- [Product pages](/stages-devops-lifecycle/) e.g. [continuous integration](/stages-devops-lifecycle/continuous-integration/)
+- [Product pages](/stages-devops-lifecycle/) e.g. [code review](/stages-devops-lifecycle/code-review)
 - [Pricing](/pricing/)
-- [Compare](/competition/)
-- [ROI](/calculator/)
 - [Features](/features/)
+- [Solutions](/solutions/)
+- [Platform](/platform/)
 
 To add a new feature, add a feature block to under the `features:` section of the page. Add the following attributes:
 
@@ -535,15 +535,8 @@ To add a new feature, add a feature block to under the `features:` section of th
 - **link**: OPTIONAL, the URL of the link (no quotes)
 - **category**: a list of one or more categories that this features belongs to. Adding a category to a feature causes it to show up in the features section on the product page for that category (e.g. see the [Continuous Integration page](/stages-devops-lifecycle/continuous-integration/))
 - **solution**: REQUIRED legacy field. A [stage of the DevOps lifecycle](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). Will be [removed soon](https://gitlab.com/gitlab-com/www-gitlab-com/issues/2435).
-- **tier**: `true` or `false` is this feature or capability available in this tier? `gitlab_core`, `gitlab_starter`, `gitlab_premium`, `gitlab_ultimate`. Note - it's assumed that any feature in a lower tier is also available in the higher tiers. For example a feature listed as in Core is also considered present in Starter, Premium and Ultimate. 
 - **gitlab_com**: `true`, `false` or `not_applicable`. Is this feature or capability available on GitLab.com? Because GitLab.com tiers map 1:1 to self-managed tiers setting this will automatically assign the GitLab.com tier. E.g. `gitlab_core: true` + `gitlab_com: true` == `GitLab.com Free`. Adding a tiers fields is what powers the tier badges on product pages and comparison pages, as well as powers the tier [feature comparison of the pricing page](/pricing/self-managed/feature-comparison/). Use `not_applicable` for features that do not apply to GitLab.com, such as the operational details of the service iteslf, like `Fault-tolerant PostgreSQL`.
 - **gitlab_com_parity**: For features which are currently not available on GitLab.com, but still applicable, this field should used to provide a rationale or path towards parity. Supports markdown, links to issues are encouraged. Content shows up on the [GitLab.com missing features list](https://about.gitlab.com/features/).
-- **toolname**<a name="feature_status_defs"></a>: any tool from the `devops_tools:` section such as `jira:`, `circle_ci:`, `blackduck:`, etc. that does or does not have this feature. Holds a value of either `true` or `false` or `partially` or is blank (indicating subfields with details should exist).
-    - `true` or `false` or `partially`: Examples of `partially` are if a DevOps tool has some but not all of the feature described, or if they have the feature, but only through a plugin. If using `partially` it is highly recommended to instead add `details` as to what partially actually means (see next)
-    - <blank>:<a name="feature_status_details"></a> Means that the feature for this particular toolname have a sub-section with details:
-        - `valid`: Same as `true` or `false` or `paritally` above
-        - `details`: A short statement about the details that need to be shared. For example: "supports 11 languages", or "only supported through 3rd party plug-ins"
-- **pricing_page**: `true` or `false`: This currently has no impact on the primary [pricing page](/pricing/), which is driven off themes. This does still apply to the ([self-managed comparison](/pricing/self-managed/feature-comparison/) and [GitLab.com comparison](/pricing/gitlab-com/feature-comparison/)) pages.
 - **pricing_theme**: Use this option to mark this feature as part of a [pricing theme](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/pricing_themes.yml). The value is a string, which should match the desired string. Features that align to Themes are shown on our [pricing page](/pricing/).
 
 For example:
@@ -596,119 +589,14 @@ The underlying data shown on the [GitLab Learn](/learn/) page is available in [h
 
 To update the course content data:
 1. Open an MR to the [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) file. Follow the existing syntax in the file. For ease of adding a new course, we recommend copying an existing entry and updating the values based on the new course being added, populating every field.
-1. Add content to the list as soon as it is planned. 
-1. To indicate that a course is planned for the future, include a live_date in the future. You can see an example in [this MR #94773](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94773). 
+1. Add content to the list as soon as it is planned.
+1. To indicate that a course is planned for the future, include a live_date in the future. You can see an example in [this MR #94773](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94773).
 
-Important guidelines to keep in mind: 
-1. [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) is our SSOT for GitLab-produced content, including all existing and future planned content. 
-1. When planning new learning content, add it to [learn.yml]https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) as soon as possible, at a minimum monthly, and aim to include what you plan to produce over the upcoming 6 months or more. This gives visibility to all other GitLab team members producing learning content as to what has been planned. 
-1. Before producing new content, check [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) for redundancy, as other teams may have developed or plan to develop similar content. 
+Important guidelines to keep in mind:
+1. [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) is our SSOT for GitLab-produced content, including all existing and future planned content.
+1. When planning new learning content, add it to [learn.yml]https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) as soon as possible, at a minimum monthly, and aim to include what you plan to produce over the upcoming 6 months or more. This gives visibility to all other GitLab team members producing learning content as to what has been planned.
+1. Before producing new content, check [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) for redundancy, as other teams may have developed or plan to develop similar content.
 1. Communicate updates with other DRIs working on learning content by posting on the #gitlab-learn-updates Slack channel (available to team members only)
-
-
-### Creating a DevOps tools comparison page
-
-The [`/devops-tools`](/competition/) section of the website shows info about DevOps tools and a feature comparison of those tools to GitLab. Comparison pages are auto-generated from `features.yml` and `devops_tools_list.yml`. All you need to do is add a tool to the `devops_tools` section in `devops_tools_list.yml` and add that tool id to some features and the page will be created.
-
-To add a new comparison page:
-
-1. Edit [`devops_tools_list.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/devops_tools_list.yml)
-1. Under the `devops_tools` section add a tool.
-
-Although the `summary` and `include_file` fields are not strictly required by the parser in order to build the page, every tool **should have at least one paragraph** summarizing the comparison using **EITHER** the `summary` field or the `include_file` field (see below for details). `summary` only is deprecated. Use `include_file` method whenever possible.
-
-- id: a lowercase, snake_case unique identifier (e.g. `travis_ci`)
-- name: the display name of the tool in single quotes
-- logo: the path to the logo, if there's no logo, add it in the `/images/logos/` directory
-- category: a list of [GitLab product categories](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml) that this tool is for. Setting a category caused the tool to show up under the category's stage when viewing the table on a comparison page.
-- pick only one field
-    - include_file: path to a markdown (`.md`) file that will be embedded on the page. Here is where you can add more robust content about the tool. Please use the template under `/source/devops-tools/misc/tool-template.html.md` and store your new file under `/source/devops-tools/TOOLNAME/index.html.md`.
-    - summary: (deprecated) A summary paragraph describing the to tool compared to GitLab. Add a pipe ( `|` ) then add content in markdown indented on the next line. Be sure to add on additional empty line after your content.
-
-For example:
-
-With `include_file` (preferred method):
-
-```
-  jenkins:
-     name: 'Jenkins'
-     logo: '/images/devops-tools/jenkins-logo.svg'
-     category:
-       - ci
-       - cd
-     include_file: devops-tools/jenkins/index.html.md.erb
-```
-
-With `summary` (deprecated method):
-
-```
-  chef:
-     name: 'Chef'
-     logo: '/images/devops-tools/chef.png'
-     category:
-       - infrastructure_configuration
-     summary: |
-       Chef is a configuration management tool that enables deployment and maintenance of state for large scale infrastructure. Chef excels as managing legacy infrastructure like physical servers and VMs. Chef was designed before widespread container adoption and does not implement Kubernetes natively.
-
-       GitLab is a complete DevOps platform, delivered as a single application that includes not only configuration management, but also capabilities for project management, source code management, CI/CD, and monitoring. GitLab is designed for Kubernetes and cloud native applications.
-
-       GitLab can be used together with Chef to enable VM and bare metal configuration management. For Cloud Native applications run on Kubernetes, Chef is not required and GitLab can provide all the functionality natively.
-```
-
-Copy and past this template:
-
-```
-unique_tool_id:
-    name:
-    logo: '/images/logos/TOOLNAME.png'
-    category:
-      -
-    include_file: 'devops-tools/TOOLNAME/index.html.md'
-```
-
-1. Add features to the comparison section.
-
-Be sure to add features that GitLab has that the other tool doesn't and also features the other tool has that GitLab doesn't so that our comparison are transparent and honest (ie. this shouldn't be one sided).
-
-- On a feature block, add the `tool id` and then `true`, `false`, or `partially` to indicate support for the feature ([what does partially mean?](#feature_status_defs)) Add the same details for gitlab tiers. Adding a tool id to a feature is what causes it to show up on the comparison page for that tool. (e.g. if you don't want a feature to show up on a comparison page remove the tool id line from that feature.)
-- What if you want to [**add qualifying details**](#feature_status_details) to the true/false/partially info you are providing for a tool?
-
-For example:
-
-```
-  - title: "Free CI/CD with shared or personal Runners"
-    capability: true
-    description: "GitLab.com has shared Runners that allow you to use GitLab CI/CD completely free up to 2000 build minutes for private projects and unlimited for public projects. Alternatively, you can set up your own Runner for faster build processing, unlimited build minutes, or special requirements."
-    link_description: "Explore GitLab.com offerings"
-    link: /gitlab-com
-    solution: gitlab_com
-    gitlab_core: true
-    gitlab_starter: true
-    gitlab_premium: true
-    gitlab_ultimate: true
-    gitlab_com: true
-    github_com: false
-    bitbucket_org: 'partially'
-    gitlab_ci: true
-    codestar: false
-  - title: "Domain Specific Language"
-    description: "A Domain Specific Language (DSL) for defining infrastructure configuration allows thinking in resources, not files or commands to write declarative rather than procedural code."
-    # link_description: ""
-    # link: ''
-    solution: missing
-    gitlab_core: false
-    gitlab_starter: false
-    gitlab_premium: false
-    gitlab_ultimate: false
-    puppet: true
-    chef: false
-```
-
-1. If you followed the above step, the new comparison page should be reachable
-under `/devops-tools/tool-vs-gitlab.html` and you should see it on the
-devops-tools table on the main page.
-1. The last thing you need to do is create the PDF. Follow the
-info in [creating comparison PDFs](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/pdf.md).
 
 ### Adding content to resources
 
