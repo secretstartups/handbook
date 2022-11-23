@@ -442,3 +442,11 @@ Additional details can be found on the [Adding/Removing Team Members Help@hand G
 - Mid-Year Changes: If a current team member adds/removes a dependent from the plan, WTW will highlight the change in yellow and include a change effective date. Payroll will be responsible for prorating the calculation for the month of the change. 
 - Premium Calculations: The report will have the monthly amounts for P11d reporting and deductions already calculated, however Payroll will calculate the prorated amount for the month the team members leave or join the plan.
 
+#### Annual AXA Premium Audit and Reconciliation
+
+1. The first week of February WTW will send Total Rewards a report of the actual annual premiums along with Calculations for BIK, and Employee Premium amounts. If TR does not receive this in the first week of February, contact Helen.Dutton@willistowerswatson.com 
+1. Total Rewards will request a report from Non-US Payroll of the BIK and Employee Premium Amounts for the Tax Year.
+1. Total Rewards will preform a reconciliation between the data no later than February 15th. 
+1. If a team member needs an adjustment, Total Rewards will inform the team member & the Non-US Payroll team to make the adjustment in the February pay period. 
+
+
