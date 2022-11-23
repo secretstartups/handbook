@@ -97,19 +97,32 @@ graph TD
 subgraph Postgres SQL-sourced Instance Level Metrics
 B[1: Gather latest Metrics Queries via API] --> C[2: Transform PG-SQL to Snowflake-SQL]
 C --> D[3: Run S-SQL versus Snowflake's GitLab.com clone]
-D --> E[4: Store metrics results in Snowflake RAW INSTANCE_SQL_METRICS]
+D --> E[4: Preserve SQL metrics results - to combine with Instance Redis Metrics later]
 D --> F[5: ON ERROR store error information in Snowflake RAW INSTANCE_SQL_ERRORS]
 end
 ```
 
-For more details on the data flow, check [Service pinge README.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) file.
+For more details on the data flow, check [Service ping README.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) file.
 
 ##### Redis based data flow
 
 ```mermaid
 graph LR
 subgraph Redis-sourced Instance Level Metrics
-B[1: Gather Metrics Values via API] --> C[2: Store metrics results in Snowflake RAW INSTANCE_REDIS_METRICS]
+B[1: Gather Metrics Values via API] --> C[2: Preserve Redis metrics results - to combine with Instace SQL Metrics later]
+end
+```
+
+##### Combined base data flow
+
+```mermaid
+graph LR
+subgraph Combining Metrics
+A[1.1: SQL metrics result] --- C[ ]:::empty  
+B[1.2: Redis metrics result] --- C
+C --> D[2: Combine results]
+D --> E[3: Store in Snowflake RAW COMBINED_METRICS]
+classDef empty width:0px,height:0px;
 end
 ```
 
@@ -185,8 +198,7 @@ Within Service Ping, there are 2 main types of metrics supported:
 - SQL metrics: metrics sourced from `Postgres` tables
 - Redis metrics: metrics sourced from `Redis` based counters
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="ZaD2gkT4TN7D"></iframe></div>
-
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/038a320f-c20c-4f5c-adc6-8b1099d2bd95" id="wH0__OR9I5AZ"></iframe></div>
 
 #### SQL Metrics Implementation
 
