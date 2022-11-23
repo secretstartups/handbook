@@ -80,7 +80,7 @@ The Engineering Manager will report before the end of each week on milestone pro
 
 The Engineering Manager will report on the progress of [OKRs](/company/okrs/) every two weeks as a comment in relevant issues and in the Ally reporting tool.
 
-- Current OKRs: [FY23 Q3 Summary](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/604)
+- Current OKRs: [FY23 Q4 Summary](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/805)
 - Tracking in [Ally.io](https://app.ally.io/teams/41113/objectives?tab=0&chartView=false&time_period_id=155987)
 
 ### Taking Time Off (PTO)
@@ -117,31 +117,30 @@ When going out of office, please be sure to [clearly communicate](/handbook/paid
 
 ### How We Prioritize Issues
 
-We have [cross-functional prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization/) process that is aligned with our prioritization framework.
+We have [cross-functional prioritization](/handbook/product/cross-functional-prioritization/) process that is aligned with our prioritization framework.
 
 #### Responsibilities
 
 - The Product Manager will prioritize `type::feature` issues
 - The Engineering Manager will prioritize `type::maintenance` issues
 - The Software Engineer in Test will prioritize `type::bug` issues
-- The Product Designer will prioritize `sus::impacting` issues
+- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#sus-impacting))
 
 #### Mechanics
 
 - The team uses the [#g_utilization_planning](https://gitlab.slack.com/archives/C04108X3FDG) Slack channel to discuss cross-functional prioritization.
 - The team reviews [this dashboard](#merged-merge-request-types) which shows the distribution of MRs that are bugs, maintenance, and features to ensure the team's efforts are properly aligned to our target prioritization ratio (60% features / 30% maintenance / 10% bugs).
-- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and SUS impacting issues.
-- For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters). 
+- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#sus-impacting) impacting issues.
+- For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters).
 - The team collaborates on a prioritization issue that documents and discusses our current prioritization scheme.
 
 ### Current Milestone
 
-- [15.4 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/662)
+- [15.7 Planning Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/379100)
 
 ### Upcoming Milestones
 
-- [15.5 Prioritization Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/681)
-- [15.5 Planning Issue](#) - TBD
+- [15.8 Planning Issue](#) - TBD
 
 ### Past Milestones
 
@@ -234,7 +233,7 @@ Links to previous examples. Discussions on prior art. Notice examples of the sim
 
 #### Splitting issues
 
-If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) it may be useful to split it up into separate implementation issues. The original issue should hold all the discussion around the feature, with separate implementation issues being used across disciplines to track the work done. Doing this provides several benefits:
+If an issue has several components (e.g. `~frontend`, `~backend`, or `~documentation`) it may be useful to split it up into separate implementation issues. The original issue should hold all the discussion around the feature, with separate implementation issues being used across disciplines to track the work done. Doing this provides several benefits:
 
 - There's only one DRI per issue.
 - Workflow labels and health statuses are more relevant.
@@ -257,7 +256,7 @@ The `workflow::planning breakdown` label is driven by Product, but is a collabor
 
 - Product defining or clarifying the problem statement. Product and UX will collaborate on problem validation as needed.
 - UX providing designs as needed.
-- UX reviewing issues that have a workflow/user experience change by monitoring issues with the ~UX label.
+- UX reviewing issues that have a workflow/user experience change by monitoring issues with the `~UX` label.
 - Engineering clarifying the issue description as stated, and refines and weights the issue once Product and UX have provided enough details to do so.
 
 Spikes are labeled with `spike`, `feature::enhancement` and `type::feature`. Spikes that update dependencies or upgrade versions of underlying libraries are labeled with `spike`, `maintenance::dependency` and `type::maintenance`
@@ -298,19 +297,21 @@ In an effort to raise our confidence of our estimates through shared discussion,
 Throughout the estimation process, consider the following GitLab sub-values:
 
 - [Bias for action](/handbook/values/#bias-for-action): the person with more context should help drive the estimation
-- [Everything is in draft](/handbook/values/#everything-is-in-draft): other team members can [propose changes](handbook/values/#make-a-proposal) to the estimate with an [explanation](/handbook/values/#say-why-not-just-what)
+- [Everything is in draft](/handbook/values/#everything-is-in-draft): other team members can [propose changes](/handbook/values/#make-a-proposal) to the estimate with an [explanation](/handbook/values/#say-why-not-just-what)
 - [Low level of shame](/handbook/values/#low-level-of-shame): estimations will never be perfect, but we can quickly iterate on an estimate that will be good enough to get us started
 - [Articulate when you've changed your mind](/handbook/values/#articulate-when-you-change-your-mind): as we arrive towards some consensus estimate, clearly articulate that your earlier stance is no longer your current stance
 
 #### Spikes
 
-We use [spikes](/product/product-processes/index.md#spikes) _during the milestone_ to produce a [design document](https://www.industrialempathy.com/posts/design-docs-at-google/) or similar artifact that is useful for planning and execution of feature or other complex work. This can simply be, but not limited to, an issue containing a summary of the discussions on the topic, answers to questions from the spike description, links to any Proof of Concept MRs produced, a road map or other detailed outline. They are assigned like other work and take up capacity from the milestone. Spikes are typically considered a `Deliverable` issue.
+We use [spikes](/handbook/product/product-processes/#spikes) _during the milestone_ to produce a [design document](https://www.industrialempathy.com/posts/design-docs-at-google/) or similar artifact that is useful for planning and execution of feature or other complex work. This can simply be, but not limited to, an issue containing a summary of the discussions on the topic, answers to questions from the spike description, links to any Proof of Concept MRs produced, a road map or other detailed outline. They are assigned like other work and take up capacity from the milestone.
+
+Spikes are typically considered a `Deliverable` issue and we use [this template](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/.gitlab/issue_templates/spike_template.md) (internal only) to create new spike issues.
 
 Estimating the effort required for a Spike is not as clearly set or easily defined as feature work because the complexity can't be accurately estimated. Take into consideration the following criteria when adding a weight to spike issue.
 
-- scope
-- duration (time box)
-- outcome / deliverable / artifact production
+- Scope
+- Duration (time box)
+- Outcome / Deliverable / Artifact production
 
 Follow the same Fibonacci scale used for feature work from 1 (low, quick, easy) to 5 (large, lengthy, difficult). Historically, we have not estimated [spikes](https://gitlab.com/dashboard/issues?scope=all&state=closed&label_name[]=group%3A%3Autilization&label_name[]=spike) higher than 5.
 
@@ -335,11 +336,11 @@ Follow the same Fibonacci scale used for feature work from 1 (low, quick, easy) 
 
 DRIs assign themselves to the selected issue. This is also a good time to re-evaluate the weight and proposal, in case the DRI picking up the issue was not the same individual who originally weighted and refined the issue. Aspirationally, we strive to iterate and want to breakdown issues to ship as much value in the milestone for our users as possible, which means if you see a more efficient way forward when you start working on a new issue, you are free to raise a comment and update the proposal to deliver more iterative value.
 
-[^stsjw-1]: We allow development to fix small problems they see in the code base without an issue that are incremental improvements. Resolving small bugs or fixing flakey tests immediately are examples of how to use the stuff that should just work label.
+[^stsjw-1]: Small effort improvements to the project can be added to the current milestone as unplanned work. Resolving small bugs or fixing flakey tests immediately are examples of how to use the `stuff that should just work` label.
 
 ## Triage
 
-The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems. Proactive triage will not only provide for a more secure and robust application, but also provide for a better user experience especially as we iterate on features, reveal features from behind a feature flag, or introduce a refactoring. It leans into our Bias for Action operating principle and raises our awareness of application performance.
+The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems. Proactive triage will not only provide for a more secure and robust application, but also provide for a better user experience especially as we iterate on features, reveal features from behind a feature flag, or introduce a refactoring. It leans into our [Bias for action](/handbook/values/#bias-for-action) sub-value and raises our awareness of application performance.
 
 ### Potential list of places to check
 
@@ -368,15 +369,15 @@ Although both links look the same, the first link is for creating an issue _in t
 
 ## Iteration
 
-[Iteration](/handbook/values/#iteration) powers Efficiency and is the key that unlocks Results, but it's also really difficult to internalize and practice. Following the [development department's key metrics](/handbook/engineering/development/performance-indicators/#development-department-mr-rate-inherited) we strive to deliver small and focused MRs.
+[Iteration](/handbook/values/#iteration) powers [Efficiency](/handbook/values/#efficiency) and is the key that unlocks [Results](/handbook/values/#results), but it's also really difficult to internalize and practice. Following the [development department's key metrics](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) we strive to deliver small and focused MRs.
 
 ### Exemplary Iteration Attempts
 
 - [Epic GitLab.com Billable Members List](https://gitlab.com/groups/gitlab-org/-/epics/4547)
-  - https://gitlab.com/gitlab-org/gitlab/-/issues/321560
-  - https://gitlab.com/gitlab-org/gitlab/-/issues/324658
-  - https://gitlab.com/gitlab-org/gitlab/-/issues/325412
-  - https://gitlab.com/gitlab-org/gitlab/-/issues/321560#note_543385756
+  - <https://gitlab.com/gitlab-org/gitlab/-/issues/321560>
+  - <https://gitlab.com/gitlab-org/gitlab/-/issues/324658>
+  - <https://gitlab.com/gitlab-org/gitlab/-/issues/325412>
+  - <https://gitlab.com/gitlab-org/gitlab/-/issues/321560#note_543385756>
 - [Epic Expired SaaS subscriptions should revert to free plan](https://gitlab.com/groups/gitlab-org/-/epics/4627)
 - [Expired subscriptions](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3112#note_596972724)
 
@@ -391,7 +392,7 @@ Following a similar process to Milestone Retrospectives, we employ [Iteration Re
 - Look for blockers as natural boundaries for issue/epic breakdown
 - Intentionally cut scope to ensure deliverability. Try to cut scope as early as possible.
 - Lean into using [the Refinement Template](/handbook/engineering/development/fulfillment/#estimation-template) for estimations.
-- Remember to find reviewers/maintainers with domain knowledge and compatible timezones for maximum efficiency - See also [MR review guidelines](https://docs.gitlab.com/ee/development/code_review.html#domain-experts)
+- Remember to find reviewers/maintainers with domain knowledge and compatible timezones for maximum efficiency - See also [MR review guidelines](/development/code_review.html#domain-experts)
 - Share your proof of concept solutions with others to get feedback early on solutions
 - Consider acceptable partial solutions - cover the majority case; defer the edge cases for the next iteration if possible
 
