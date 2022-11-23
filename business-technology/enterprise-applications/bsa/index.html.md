@@ -99,7 +99,7 @@ Depending on the complexity and urgency of the request, the BSA will either trac
 ### Project Epics
 The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 6 Epics and a Change Management Issue. A single parent Epic is created with 5 children Epics that represent each phase of the project.
 
-![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/project_stages.jpeg)
+![projects](/handbook/business-technology/enterprise-applications/bsa/project_stages.jpeg)
 
 The templates that we use to structure our parent and children epics are documented in the [_EntApps Project Epics Templates_](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/394) issue. 
 
