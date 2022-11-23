@@ -40,11 +40,11 @@ This is a non-comprehensive list of topics to be discussed.
 
 ### Exit Criteria
 
-- Create an SSOT for knowing which customers are escalated.
-- Create training materials suitable for a future OKR for CS and Support
-- Refine process of declaring an account escalation so that anyone in the company can do it with minimal effort (MR: www-gitlab-com!114418](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/114418/)
-- Refine roles and responsibilities of CS and Support within account escalations to reduce ambiguity
-- Develop a method of communication appropriate for e-group stakeholders, for example a "hot customer list" published in the #e-group channel at some cadence. ([gitlab-com/chief-of-staff-cto#67](https://gitlab.com/gitlab-com/chief-of-staff-cto/-/issues/67))
+1. Create an SSOT for knowing which customers are escalated.
+1. Create training materials suitable for a future OKR for CS and Support
+1. Refine process of declaring an account escalation so that anyone in the company can do it with minimal effort (MR: [www-gitlab-com!114418](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/114418/)
+1. Refine roles and responsibilities of CS and Support within account escalations to reduce ambiguity
+1. Develop a method of communication appropriate for e-group stakeholders, for example a "hot customer list" published in the #e-group channel at some cadence. ([gitlab-com/chief-of-staff-cto#67](https://gitlab.com/gitlab-com/chief-of-staff-cto/-/issues/67))
 
 ## Roles and Responsibilities
 
