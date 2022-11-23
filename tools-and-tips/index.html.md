@@ -626,8 +626,9 @@ Likewise "sheets.new" for a Google Sheet etc...
 This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
-1. Type the @ sign to quickly embed today's date, other document titles, references to people etc, or even quickly access formatting without clicking anything (a menu will pop up). [Smart Canvas article](https://cloud.google.com/blog/products/workspace/delivering-new-innovations-in-google-workspace-with-smart-canvas)
-1. Pageless docs are great for documents you don't intend to print. You can [switch in File > Page setup](https://support.google.com/docs/answer/11528737).
+1. Type the `@` character to quickly embed today's date, other document titles, references to people, and more; without clicking anything (a menu will pop up). See details in the [Smart Canvas](https://cloud.google.com/blog/products/workspace/delivering-new-innovations-in-google-workspace-with-smart-canvas) blog post and the [Add items with the @ menu](https://support.google.com/docs/answer/11276813?hl=en) support doc.
+    - [Emoji live-search](https://support.google.com/docs/answer/3371015) can be accessed by typing `@:`, or shorter using the `:` character. Start typing to search for an emoji and press enter to insert. 
+1. Pageless docs are great for documents you don't intend to print, and is the [preferred format at GitLab](/handbook/communication/#pageless-is-the-gitlab-preferred-format). You can [switch in File > Page setup](https://support.google.com/docs/answer/11528737).
 
 See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
 
