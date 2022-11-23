@@ -255,6 +255,8 @@ Once your access has been provisioned, you will receive a link with which you ca
 Make sure to use your company email address when creating your Jetbrains account.
 If at some point in the future you do not want to use the product anymore, please notify us via the `#jetbrains-ide` slack channel, so that we can assign the license to someone else.
 
+If you have an Individual License acquired through your own means, it is suitable for [General commercial use](https://www.jetbrains.com/store/comparison.html#LicenseComparison) and you may use it. However, GitLab will not reimburse an Individual License, as Individual License cannot be purchased or reimbursed by companies. That being said, even if you used to use an Individual License, you can always request a company issued one.
+
 Useful plugins:
 
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - It provides a shortcut to open a file or commit in GitLab.
