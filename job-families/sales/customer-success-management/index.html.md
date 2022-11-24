@@ -395,7 +395,7 @@ The Customer Success Engineer (CSE) role provides deep subject matter expertise 
 
 ### Senior Customer Success Engineer
 
-The Senior CSE reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The Senior CSE reports to the Manager/Senior Manager, TAM.
 
 ### Senior Customer Success Engineer Job Grade
 
@@ -423,7 +423,7 @@ The Senior CSE is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 Market Justification: The business need for an individual contributor Staff CSE role is to have a team member who is a subject matter expert (SME) with deep subject matter expertise positioned to train on and refine the practice of the CSE function. The Staff CSE collaborates closely with the CSE and TAM/CSM leadership in further refining the direction and enablement of the CSE specialty within Customer Success Management. In the market, there are over 20 organizations that typically have 2-3 Staff CSEs.
 
-The Staff CSE reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff CSE reports to the Manager/Senior Manager, TAM.
 
 ##### Staff Customer Success Engineer Job Grade
 

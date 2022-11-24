@@ -3,7 +3,7 @@ layout: job_family_page
 title: Vice President
 ---
 ## VP, Compliance
-The VP, Compliance reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal/chief-legal-officer/), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations. 
+The VP, Compliance reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations. 
 
 ### VP, Compliance: Job Grade
 

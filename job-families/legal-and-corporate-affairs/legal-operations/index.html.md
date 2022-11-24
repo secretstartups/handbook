@@ -39,7 +39,7 @@ The Legal Operations Manager is a [grade 7](/handbook/total-rewards/compensation
 
 ### Director, Contracts and Legal Operations
 
-The Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal/chief-legal-officer/).
+The Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal-and-corporate-affairs/chief-legal-officer/).
 
 #### Director, Contracts and Legal Operations Job Grade
 
@@ -77,7 +77,7 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 
 ### Senior Director, Contracts and Legal Operations
 
-The Senior Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal/chief-legal-officer/). 
+The Senior Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal-and-corporate-affairs/chief-legal-officer/). 
 
 #### Senior Director, Contracts and Legal Operations Job Grade
 

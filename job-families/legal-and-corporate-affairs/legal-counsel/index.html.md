@@ -8,7 +8,7 @@ The Legal Counsel job family is responsible for advising clients across GitLab o
 # Levels
 
 ## Associate Legal Counsel
-The Associate Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Associate Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
 
 ### Associate Legal Counsel  Job Grade
 The Associate Legal Counsel is a [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
@@ -37,7 +37,7 @@ The Associate Legal Counsel is a [Grade 5](/handbook/total-rewards/compensation/
 
 ## Legal Counsel 
  
-The Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
  
 ### Legal Counsel Job Grade
 
@@ -65,7 +65,7 @@ Outstanding interpersonal skills, the ability to interface effectively with all 
 
 ## Senior Legal Counsel
  
-The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
  
 ### Senior Legal Counsel Job Grade
 
@@ -95,7 +95,7 @@ The Senior Legal Counsel is a [Grade 7](/handbook/total-rewards/compensation/com
 
 ## Lead Legal Counsel 
  
-The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
  
 ### Lead Legal Counsel Job Grade
 
@@ -126,7 +126,7 @@ The Lead Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compe
 
 ### Manager, Lead Legal Counsel
 
-The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
 
 ### Manager, Lead Legal Counsel Responsibilities 
 * Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
@@ -155,7 +155,7 @@ The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-fami
 
 ## Principal Legal Counsel 
  
-The Principal Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Principal Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
  
 ### Principal Legal Counsel Job Grade
 

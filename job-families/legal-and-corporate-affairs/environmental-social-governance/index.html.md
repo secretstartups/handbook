@@ -46,7 +46,7 @@ The Senior Director, ESG is a [grade 11](/handbook/total-rewards/compensation/co
 
 ## Senior Director, ESG 
 
-The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives. 
+The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives. 
 
 
 ### Senior Director, ESG Responsibilities
