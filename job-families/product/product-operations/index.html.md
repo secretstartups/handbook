@@ -58,7 +58,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 - [Scale Product Knowledge](https://about.gitlab.com/direction/product-operations/#scaling-product-knowledge)
    - Help research, organize and recommend resources on product management best practices
    - Contribute content and training [Learning & Development for Product Management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/) to help up-level the skills of the product team
-   - Maintain GitLab Learn for Product Management as a [GitLab Learn Curator](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/#become-a-gitlab-learn-curator)
+   - Maintain GitLab Learn for Product Management as a GitLab Learn Curator
    - Constantly improve the [Product Handbook](/handbook/product/) by working collaboratively across product management to update, improve and maintain it
    - Be the DRI of and expert on how to maintain and best leverage GitLab's various templates
 

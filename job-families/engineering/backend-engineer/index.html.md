@@ -539,7 +539,7 @@ The Ecosystem team is responsible for seamless integration between GitLab and 3r
 
 ### <a name="Gitaly"></a>Cluster
 
-Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/create/gitaly/) page. This position reports to the Gitaly lead.
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/gitaly/) page. This position reports to the Gitaly lead.
 
 Gitaly's high-availability storage requires developers who understand distributed storage systems, their management, observability and availability. **Cluster team** contributes features, fixes bugs and improves performance of this software stack.
 
@@ -567,7 +567,7 @@ Gitaly's high-availability storage requires developers who understand distribute
 
 ### Git
 
-Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/create/gitaly/) page. This position reports to the Git team lead.
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/gitaly/) page. This position reports to the Git team lead.
 
 Gitaly uses the open-source Git product under the hood to implement the business logic for repository access. **Git team** contributes features, fixes bugs and improves performance of upstream Git in accordance with product direction for both Git and GitLab/Gitaly.
 

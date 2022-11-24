@@ -105,7 +105,7 @@ The Senior Learner Engagement Specialist is a [grade 7](/handbook/total-rewards/
 
 - [Engagement Survey Growth and Development Score](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
 - [Exit Survey Data < 5 % of team members exiting GitLab related to L&D](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
-- [Engagement metrics for LinkedIn Learning & GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#ld-monthly-reporting)
+- Engagement metrics for LinkedIn Learning & GitLab Learn
 
 
 ## Career Ladder
