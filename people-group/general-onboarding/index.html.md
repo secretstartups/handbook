@@ -20,7 +20,7 @@ All onboarding steps are in the [onboarding issue template](https://gitlab.com/g
 
 At GitLab we take great pride in [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product, that is why all onboarding tasks are completed in a GitLab issue. First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/).
 
-The People Connect Specialist assigned to the team members specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
+The People Connect Specialist assigned to the team members specific onboarding will [open](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
 
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
 
