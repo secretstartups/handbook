@@ -137,8 +137,8 @@ Use the following resources when building handbook first learning. Review the [t
 
 1. Articulate360
 1. [ScribehHow](https://scribehow.com/)
-1. [Biteable](biteable.com)
-1. [Powtoon](www.powtoon.com)
+1. [Biteable](https://biteable.com)
+1. [Powtoon](https://www.powtoon.com)
 1. [Iorad](https://www.iorad.com/)
 
 # Examples of what is not considered handbook first

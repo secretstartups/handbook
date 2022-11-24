@@ -91,7 +91,7 @@ Social Learning can also occur in GitLab's Learning Experience Platform - [Level
 
 ## Learning & Development Quarterly Newsletter
 
-The L&D team hosted a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for five quarters for the community.
+The L&D team hosted a quarterly newsletter for five quarters for the community.
 
 ## Take Time Out To Learn Campaign
 
