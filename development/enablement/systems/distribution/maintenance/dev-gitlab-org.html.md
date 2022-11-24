@@ -31,7 +31,7 @@ operational.  Regular omnibus-gitlab commands can be used on this node.
    automatically deployed on dev.gitlab.org. Any errors in the install process
    will be logged in [Sentry](https://sentry.gitlab.net/gitlab/devgitlaborg/).
    Slack notifications will appear in #dev-gitlab. The cron task is currently
-   defined in [dev.gitlab.org role](https://dev.gitlab.org/cookbooks/chef-repo/blob/master/roles/dev-gitlab-org.json#L264-287).
+   defined in [role file](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/dev-gitlab-org.json#L304-319).
 
 ### Maintenance tasks
 
