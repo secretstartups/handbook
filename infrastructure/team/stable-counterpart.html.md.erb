@@ -10,18 +10,31 @@ title: "Reliability Stable Counterparts"
 {:toc .hidden-md .hidden-lg}
 
 # Stable Counterparts
-Stable Counterparts are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams).  
+Stable Counterparts are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams).
 
 # Overview
 ![Stable Counterpart Overview](img/stable-counterpart-overview.png)
 
  * Stage Group Counterparts work in conjunction with Infrastructure Counterparts to build, maintain, and improve services and ensure the [SLO](https://about.gitlab.com/handbook/engineering/error-budgets/error-budget-by-stage-group-example.html#sli-slo-sla) is met.
- * To achieve [results](https://about.gitlab.com/handbook/values/#results), it is important for Stable Counterparts to be great [collaborators](https://about.gitlab.com/handbook/values/#collaboration). 
+ * To achieve [results](https://about.gitlab.com/handbook/values/#results), it is important for Stable Counterparts to be great [collaborators](https://about.gitlab.com/handbook/values/#collaboration).
 
+
+## Scope of Work
+
+Reliability stable counterpart teams will focus on the scope outlined below. Requests not in this scope should refer to our well defined [General Workflow](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#how-we-work--general-workflow) for proper prioritization and squad assignment.
+
+ * New Infrastructure setup or migration work.
+ * [Feature Change Lock](https://about.gitlab.com/handbook/engineering/#feature-change-locks) (FCL) related work requiring pairing with the Reliability team
+ * Reliability improvements driven by [Error budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/#error-budget-improvements) and requiring pairing between stage groups and reliability team
+ * Enabling ownership or self-service for stage groups on specific components, e.g empowering a stage group to understand their monitoring or managing access for troubleshooting
+ * Examples:
+   - [CustomerDot migration from Azure to GCP](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/626)
+   - [Gitaly Cgroups](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/344)
+   - [CI Decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6160)
 ## Configuration and Participation
 
- * Stage Groups are assigned: 
-   * 1 [DRI](#dri) - Manager or Engineer from either the Stage Group or the Infrastructure Department 
+ * Stage Groups are assigned:
+   * 1 [DRI](#dri) - Manager or Engineer from either the Stage Group or the Infrastructure Department
     * A minimum of 1 Stage Group Engineer
     * A minimum of 1 Infrastructure Engineer.
 
@@ -34,19 +47,19 @@ A Stable Counterpart DRI should be selected before any work or planning happens.
 
 #### DRI - Responsibilities
 
- * [Manage Work](#dri---manage-work) 
+ * [Manage Work](#dri---manage-work)
  * [Manage Collaboration](#dri---manage-collaboration)
  * [Manage Reporting](#dri---manage-reporting)
 
 ##### DRI - Manage Work
- * Establish, manage, and balance the roadmap for short, medium, and long term service OKRs.  
+ * Establish, manage, and balance the roadmap for short, medium, and long term service OKRs.
  * Prioritize new and existing work.
-   * S1/S2/S3 Corrective Actions
+   * Corrective Actions
    * Observability Adjustments (engage with the Observability Squad within Reliability)
     * Non-Actionable Alerts
     * SLO/SLI/SLA Adjustments
  * Manage Long Term Projects
-   
+
 ##### DRI - Manage Collaboration
  * In establishing service OKRs it is important to involve the right people.  The DRI is responsible for locating and organizing these resources as required.
  * Schedule and run weekly syncs involving the correct team members even beyond assigned Counterparts.
@@ -59,7 +72,7 @@ A Stable Counterpart DRI should be selected before any work or planning happens.
 You've been assigned to be a Stable Counterpart DRI for a service, great!  Now what?
 
  1. Arrange a synchronous kickoff meeting and create an initial [agenda](#stable-counterpart-weekly-sync-agenda-template).
-    * The kickoff meeting should involve assigned counterparts, DRIs, and as many members of the stage group team as possible.  Broad async participation in the kick-off meeting is encouraged. 
+    * The kickoff meeting should involve assigned counterparts, DRIs, and as many members of the stage group team as possible.  Broad async participation in the kick-off meeting is encouraged.
  2. Identify goals for next 2-4 quarters
     * Goals should benefit both the stage group team and the infrastructure engineers
  3. Create an epic within the [`gl-infra`](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics) project and add the `stable-counterpart` label.
@@ -90,7 +103,7 @@ Participants:
 
  * What happened last week:
    * Provide 1-2 sentences summarizing work completed.  Include relevant links as needed.
- * What's happening this week? 
+ * What's happening this week?
    * Provide 1-2 sentences summarizing work completed.  Include relevant links as needed.
    * Mention counterpart absences if applicable.
  * Things to be aware of
@@ -112,4 +125,4 @@ Participants:
       <% end %>
     <% end %>
   <% end %>
-<% end %> 
+<% end %>
