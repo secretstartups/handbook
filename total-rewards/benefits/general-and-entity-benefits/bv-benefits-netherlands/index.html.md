@@ -90,10 +90,10 @@ GitLab uses HR Savvy to assist with the administration of [the bike to work/tax 
 Cycle to work will have a maximum expenditure of 1200 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit. 
 
 *Bike Applications:*
-1. Send an email to Total Rewards and HR Savvy (`payroll@savvy-group.eu`) to request participation in the scheme. In the email, mention the bike of your choice and accessories (if required).
-2. HR Savvy will arrange an addendum to the employment contract which will be staged by Total Rewards for GitLab and the team member to sign.
-3. Once the contract is signed, HR Savvy will invoice GitLab and purchase the bike on behalf of GitLab.
-4. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike as per the addendum.
+1. Send an email to HR Savvy (`payroll@savvy-group.eu`) to request participation in the scheme. In the email, mention the bike of your choice and accessories (if required).
+2. HR Savvy will stage an addendum to the employment contract. Once signed by GitLab and the team member, HR Savvy will send a copy to Payroll and Total Rewards.
+3. HR Savvy will purchase the bike on behalf of GitLab and send the invoice to Payroll.
+4. Payroll will reduce the team member's gross salary by the cost of the bike as per the addendum.
 
 If a team member would want to purchase a bike more expensive than the 1200 EUR maximum the process is as follows: 
 * HRSavvy will invoice the seller for the entirety of the bike. 
