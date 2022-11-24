@@ -16,7 +16,7 @@ This page is created as a [result of the FY21Q4 Culture Amp survey](https://gitl
 
 ### L&D resources available to all team members
 
-GitLab provides a multitude of opportunities to learn and develop new skills on the topics of leadership, management, and DIB. [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) is the platform of choice that allows self-paced, on-demand courses. It also contains trainings offered through [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/). If you're looking for a more flexible approach to learning the aforementioned skills, then perhaps the [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) provided by the L&D team are something for you to consider.
+GitLab provides a multitude of opportunities to learn and develop new skills on the topics of leadership, management, and DIB. GitLab Learn is the platform of choice that allows self-paced, on-demand courses. It also contains trainings offered through [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/). If you're looking for a more flexible approach to learning the aforementioned skills, then perhaps the [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) provided by the L&D team are something for you to consider.
 
 ### Growth and Development Budget
 
