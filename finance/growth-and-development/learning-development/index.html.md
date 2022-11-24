@@ -10,7 +10,7 @@ title: Finance Learning and Development
 
 Welcome to Learning and Development for the Finance Department at GitLab! The resources in this page are meant to support team members to expand their knowledge and skills. This page compiles content that spans soft and hard skills in different formats. Everybody is welcome to contribute to this page with content they have found useful/interesting that might benefit other team members.
 
-The content can be mostly accessed through [GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/) but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+The content can be mostly accessed through GitLab Learn but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 GitLab is [committed to providing the time](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
