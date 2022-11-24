@@ -280,6 +280,8 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
 
 PTO by Roots allows you to sync time off requests with your Google Calendar.
 
+A calendar invite will also be sent to your manager to help them keep track of their team's time away. This event will always be based on the calendar date and will not adjust for timezones. If you are a manager with team members in varying timezones, you may end up with calendar invites that do not accurately reflect the actual time away. As a manager, you can simply decline the calendar invite and manually create a correct entry on your own calendar without affecting the actual time off request.
+
 #### Automatic Status + Do Not Disturb Updates
 
 PTO by Roots can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
