@@ -30,7 +30,7 @@ As a Customer Success Manager, it is essential to understand what resources are 
 
 ### General skills
 
-- [GitLab's Learning Experience Platform](/handbook/people-group/learning-and-development/gitlab-learn/), [GitLab Learn](https://gitlab.edcast.com/?fromLogin=true). We are building courses to upskill, reskill, and grow team member skills. If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Learning Path](https://gitlab.edcast.com/pathways/learning-evangelist-training).
+- GitLab's Learning Experience Platform, [GitLab Learn](https://gitlab.edcast.com/?fromLogin=true). We are building courses to upskill, reskill, and grow team member skills. If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Learning Path](https://gitlab.edcast.com/pathways/learning-evangelist-training).
 
 ### Chorus Playlist
 
