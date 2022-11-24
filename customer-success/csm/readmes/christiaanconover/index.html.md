@@ -2,6 +2,7 @@
 layout: markdown_page
 title: "Christiaan Conover's README"
 description: "This page is Christiaan Conover's readme and is intended to be helpful when interacting with him."
+job: "Director, Customer Success Management, Americas"
 ---
 
 ## About me
