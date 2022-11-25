@@ -31,10 +31,6 @@ You can read more about the role below:
 
 The Support Team uses [Epics](https://gitlab.com/groups/gitlab-com/support/-/epics/) to track and coordinate ongoing projects. [For the master epics](https://gitlab.com/groups/gitlab-com/support/-/epics?scope=all&utf8=%E2%9C%93&state=opened&search=area%3A), a Support manager will be assigned as a Directly Responsible Individual (DRI) you will see their name in parentheses after the Epic title.
 
-### Director's issue board
-
-For global team issues for which the Director is responsible, see the `Customer Support Department` list of [this board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/980804?label_name%5B%5D=Engineering%20Management)
-
 ## Support Leadership Meetings
 
 As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync.html)
