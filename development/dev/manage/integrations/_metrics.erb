@@ -1,4 +1,4 @@
-You can find our team metrics in the [Manage:Integrations Dashboard](https://app.periscopedata.com/app/gitlab/926758/Manage:Integrations-Dashboard).
+You can find our group metrics in the [Manage:Integrations Sisense Dashboard](https://app.periscopedata.com/app/gitlab/926758/Manage:Integrations-Dashboard) and [Integrations Group Engineering Metrics handbook page](https://about.gitlab.com/handbook/engineering/metrics/dev/manage/integrations/).
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
@@ -7,3 +7,5 @@ You can find our team metrics in the [Manage:Integrations Dashboard](https://app
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Integrations"} %>
