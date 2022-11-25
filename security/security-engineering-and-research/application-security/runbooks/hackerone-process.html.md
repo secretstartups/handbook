@@ -188,11 +188,19 @@ We should not disclose, or request to disclose, a HackerOne issue while the GitL
 
 Comments made by GitLab Security Bot (`@gitlab-securitybot`) can be redacted by AppSec or SecAuto team members using the `/h1 redact <comment_url>` Slack command.
 
-We typically request to disclose reports which are unique and 
-interesting, and which will help other researchers learn more about quality reporting. 
-If a researcher requests public disclosure, regardless of quality, we should 
-agree to disclose it (after 30 days) unless there is a good reason not to.
+To create a HackerOne Hactivity page which will help other researchers
+learn more about quality reporting we welcome disclosure of resolved
+reports which are unique and interesting. 
 
+If a researcher requests public disclosure of a closed non-resolved
+report (e.g. Informative or Not Applicable), we opt to cancel
+disclosure requests using the `08 - Canceled Disclosure Message`
+template. Reporters should instead consider [opening a public GitLab
+issue](https://about.gitlab.com/submit-feedback/) as this is the best
+way to raise and address non-vulnerability issues. 
+
+If a researcher _insists_ on disclosure via HackerOne we should agree to
+disclose it regardless of quality unless there is a good reason not to.
 
 #### Application Security Engineer Procedures for severity::1/priority::1 Issues
 
