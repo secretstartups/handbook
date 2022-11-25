@@ -28,7 +28,7 @@ Please see additional information on the 2023 US Benefit Plans:
 
 * Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available. 
 
-* Review the [2023 Benefits at Glance](https://drive.google.com/drive/folders/1L2Se2JqnMz-vn8e2cSpqEmIxtPKDN_A1) and [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.  
+* Review the [2023 Benefits at Glance](https://drive.google.com/file/d/19r8Ai1AYft_1b-Pcvnw0cQTCq1O0M86k/view?usp=sharing) and [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.  
 
 * Watch the [2023 US Benefits Video](https://www.brainshark.com/willis/vu?pi=zIgzfm1iozgaiCz0) for a full review of the benefit plans. 
 
