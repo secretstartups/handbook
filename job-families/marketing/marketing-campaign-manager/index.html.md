@@ -67,9 +67,34 @@ The Senior Marketing Campaign Manager is a [grade 7](/handbook/total-rewards/com
 * Power user of marketing automation software (Marketo preferred)
 * Power user of CRM software (Salesforce preferred)
 
+### Staff Marketing Campaign Manager
+
+The Staff Marketing Campaign Manager reports to Manager, Marketing Campaigns.
+
+#### Staff Marketing Campaign Manager Job Grade
+
+The Staff Marketing Campaign Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Marketing Campaign Manager Responsibilities
+
+* Extends that of the Senior Marketing Campaign Manager responsibilities
+* Demonstrates expertise in a given area through mentorship or by running an enablement/brown bag session
+* Acts as DRI/Lead on a key cross-functional project beyond global integrated campaigns management
+* Introduce new replicable processes or process improvements to help scale the team
+* Aids in the evaluation and implementation of new tools
+* Acting Manager for the team when Manager, Marketing Campaigns is out of the office
+
+#### Staff Marketing Campaign Manager Requirements
+
+* Extends that of the Senior Marketing Campaign Manager requirements
+* [Marketo certified expert](https://au.marketo.com/education/marketo-certification/)
+* Certified in [LinkedIn Fundamentals](https://training.marketing.linkedin.com/page/certifications)
+* Certified in [Mastering demand & ABM by Forrester](https://www.forrester.com/certification/b2b-marketing/)
+* Certified in [Demandbase foundations](https://www.demandbase.com/resources/go-to-market-certification/)
+
 ### Manager, Marketing Campaigns
 
-The Manager, Marketing Campaigns reports to VP of Demand Generation and Partner Marketing.
+The Manager, Marketing Campaigns reports to Senior Manager, Campaigns, ABM & Lifecycle.
 
 #### Manager, Marketing Campaigns Job Grade
 
@@ -102,7 +127,7 @@ The Manager, Marketing Campaigns is a [grade 8](/handbook/total-rewards/compensa
 
 ### Senior Manager, Marketing Campaigns
 
-The Senior Manager, Marketing Campaigns reports to VP of Demand Generation and Partner Marketing.
+The Senior Manager, Marketing Campaigns reports to VP of Integrated Marketing.
 
 #### Senior Manager, Marketing Campaigns Job Grade
 
@@ -124,6 +149,29 @@ The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/c
 * Ability to travel if needed and comply with the company’s travel policy. 
 * If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
+### Senior Manager, Marketing Campaigns
+
+The Senior Manager, Marketing Campaigns reports to VP of Integrated Marketing.
+
+#### Senior Manager, Marketing Campaigns Job Grade
+
+The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Marketing Campaigns Responsibilities
+
+* Extends that of the Manager, Marketing Campaigns responsibilities
+* Leads overall demand generation campaigns function for assigned customer segment/geo
+* Coordinates cross functionally across multiple groups including marketing and sales
+* Ensures overall corporate goals are met in terms of the number of new inquiries, MQLs and SAOs, conversion rates and costs from demand generation campaigns
+* Works closely with Field Marketing, SDR, Alliances and Partner marketing to identify go to market synergies across teams that result in improved pipeline and achievement of revenue goals
+* Works with cross functional product marketing, technical marketing and content marketing to identify and leverage buyer journey assets, messaging and content and delivers them through demand generation campaigns to our ICP
+* Leads the documentation of all campaigns team processes in the handbook, creates an environment that fosters CREDIT within and x-functionally, and optimizes our campaign motions to ensure optimum marketing efficiency.
+
+#### Senior Manager, Marketing Campaigns Requirements
+
+* Extends that of the Manager, Marketing Campaigns requirements
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 
 ## Specializations
