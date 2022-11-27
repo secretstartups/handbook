@@ -61,7 +61,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Senior Red Team Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Red Team Engineer Responsibilities
-* Extends Red Team Engineer responsibilities, plus;
+* Includes [base-level responsibilities](#responsibilities).
 * Lead both solo and group Red Team Operations
 * Submit talk abstracts to top tier Information Security conferences
 * Help identify new Red Team Operations
@@ -70,10 +70,7 @@ The Senior Red Team Engineer is a [grade 7](/handbook/total-rewards/compensation
 * Participate in candidate interviews during the hiring process
 
 #### Senior Red Team Engineer Requirements
-* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 5+ years of professional experience in cyber security or related field
-* Proven technical task management experience
-* Experience working remotely on a widely distributed team
-* Can convey technical information in writing at a senior level
+* Includes [base-level requirements](#requirements).
 * Intermediate knowledge of exploit techniques, and common TTPs
 * Intermediate knowledge of one or more programming or scripting languages
 
@@ -84,8 +81,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Red Team Engineer Responsibilities
-* Extends Senior Red Team Engineer responsibilities, plus;
-* Lead threat modeling sessions on various aspects of our infrastructure and products
+* Includes [Senior-level responsibilities](#senior-red-team-engineer-responsibilities)
 * Identify new Red Team open source project opportunities and internal tooling needs
 * Identify areas of Red Team process improvement
 * Identify new Red Team Operations, document an attack plan and execute
@@ -93,10 +89,7 @@ The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/
 * Show thought leadership both internally at GitLab and externally with the general community
 
 #### Staff Red Team Engineer Requirements
-* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 8+ years of professional experience in cyber security or related field
-* Proven technical task management experience
-* Experience working remotely on a widely distributed team
-* Can convey technical information in writing at an expert level
+* Includes [Senior-level requirements](#senior-red-team-engineer-requirements)
 * Profound knowledge of exploit techniques, and common TTPs 
 * Senior knowledge of one or more programming or scripting languages
 * Extensive knowledge of offensive cloud security and common vulnerabilities
@@ -108,7 +101,7 @@ This position reports to the [Senior Manager, Threat Management](/job-families/e
 The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Red Team Engineer Responsibilities
-* Extends Staff Red Team Engineer responsibilities, plus;
+* Includes [Staff-level responsibilities](#staff-red-team-engineer-responsibilities)
 * Solve technical problems of the highest scope, complexity, and ambiguity
 * Guide conversations to remove blockers and encourage collaboration across teams
 * Assist in developing the team and sub-department roadmap and maturity model
@@ -119,10 +112,7 @@ The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensat
 * Regularly communicate with the wider GitLab community, via blogs, public speaking, or other methods
 
 #### Principal Red Team Engineer Requirements
-* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 8+ years of professional experience in cyber security or related field
-* Proven technical task management experience
-* Experience working remotely on a widely distributed team
-* Can convey technical information in writing at an expert level
+* Includes [Staff-level requirements](#staff-red-team-engineer-requirements)
 * Profound knowledge of exploit techniques, and common TTPs 
 * Expert knowledge of one or more programming languages including architectural design, tooling, and cloud infrastructure usage
 * Extensive knowledge of offensive cloud security and common vulnerabilities
