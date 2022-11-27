@@ -172,10 +172,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-10-24 | 2022-10-28 | NO SHADOWS | NO SHADOWS |
-| 2022-10-31 | 2022-11-04 | NO SHADOWS | NO SHADOWS |
-| 2022-11-07 | 2022-11-11 | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications |
-| 2022-11-14 | 2022-11-18 | Adrienne Rimmer (https://gitlab.com/arimmer) - Manager, Executive Communications | [Jacki Bauer](https://gitlab.com/jackib) - Product Design Manager |
 | 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
 | 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
 | 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
@@ -1099,3 +1095,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-06-27 | 2022-07-15 | [Tiffany Rea](https://gitlab.com/treagitlab) | SET - Verify::Pipeline Authoring | |
 | 2022-09-27 | 2022-09-30 | [Ellie Bertani](https://www.linkedin.com/in/ellie-bertani-1000/) | CEO, GitLab Foundation | |
 | 2022-10-27 | 2022-10-30 | [Ed Bao](https://gitlab.com/ebao2) | Assoc Sales Dev Operations Manager | |
+| 2022-11-07 | 2022-11-18 | [Jacki Bauer](https://gitlab.com/jackib) | Product Design Manager, UX |  |
+| 2022-11-07 | 2022-11-18 | [Adrienne Rimmer](https://gitlab.com/arimmer) | Manager, Executive Communications | |
