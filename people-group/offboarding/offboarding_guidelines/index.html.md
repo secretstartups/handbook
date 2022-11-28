@@ -50,11 +50,11 @@ In alignment with the needs of both People Connect and IT Operations, offboardin
 
 **Note:** In instances where team members require de-provisioning initiated at outside of those documented above they should reach out to People Connect via direct message or people-connect@gitlab.com to arrange an alternate time.
 
-Should the effective date fall on a day which People Connect is unable to [support](https://about.gitlab.com/handbook/people-group/people-experience-team/) e.g. a Family and Friends Day or Global Holiday, People Connect will reach out to the People Business Partner to discuss alternate offboarding options. 
+Should the effective date fall on a day which People Connect is unable to support e.g. a Family and Friends Day or Global Holiday, People Connect will reach out to the People Business Partner to discuss alternate offboarding options. 
 
 ### Offboarding Assignments
 
-Per the People Connect [Rotation](/handbook/people-group/people-experience-team/#weeklyrotation) the offboarding will be assigned directly in the [offboarding tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). 
+Per the People Connect Rotation the offboarding will be assigned directly in the [offboarding tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). 
 
 ### Creating the Offboarding Issue
 
