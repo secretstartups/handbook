@@ -103,7 +103,7 @@ Our individual question scores mirror the scale used for the overall SUS score. 
 
 Even though SUS scores are on a 100-point scale, they are not percentages and should not be treated as such. [Jeff Sauro recommends](https://measuringu.com/interpret-sus-score/) communicating SUS scores as percentiles. We include a percentile and letter grade using the proprietary scale Sauro developed whenever we report a SUS score.
 
-We have one-year target SUS score of 75, and a three-year target of 80.
+We have one-year target SUS score of 77, and a three-year target of 80.
 
 | Grade | SUS | Percentile | Adjective |
 | ----- | ----- | ----- | ----- |
