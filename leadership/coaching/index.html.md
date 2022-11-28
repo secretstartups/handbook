@@ -21,10 +21,26 @@ Coaching conversations are fluid, dynamic acts of co-creation where the coach an
 ## Selecting a coach
 
 There are various ways to find a coach at GitLab:
-1. Professional coaching by external coaches is offered for managers and IC's Job Grade 8 and above using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). We work with [Coaching Right Now](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#professional-coaching) as our vendor of choice to pair team members with coaches who have been reviewed by the GitLab L&D team. More information about this program with Coaching Right Now can be found [here](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?rtpof=true&sd=true).
-1. [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
-1. Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
-1. Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
+
+```mermaid
+graph TD
+    A(I'm looking for a external coach focused on...) --> B(Career/professional growth)
+    A --> C(Personal growth)
+    B --> D(I'm a Job Grade 8+)
+    B --> O(I'm below a Job Grade 8)
+    O --> P(Modern Health)
+    D --> F(Coaching Right Now)
+    C --> J(Modern Health)
+```
+
+| Resource | Description |
+| ----- | --------------- |
+| Manager Coaching | Your manager can be a coach that steers you towards future goals. Ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. |
+| Internal Coach | Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. Consider searching on [this list of available mentors](/handbook/people-group/learning-and-development/mentor/#find-a-mentor).
+| Coaching Right Now | Professional coaching by external coaches is offered for managers and IC's Job Grade 8 and above using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). We work with [Coaching Right Now](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#professional-coaching) as our vendor of choice to pair team members with coaches who have been reviewed by the GitLab L&D team. More information about this program with Coaching Right Now can be found [here](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?rtpof=true&sd=true). |
+| [Modern Health](/handbook/total-rewards/benefits/modern-health/) | Using our Modern Health Employee Assistance Program provides professional coaching to all team members. Coaches on Modern Health specialize in professional/career, mental health, and financial coaching. |
+| Alternative Professional Coach | If some reason the coaches offered via Coaching Right Now do not fit your needs, team members with a Job Grade 8+ can seek and get approval for alternate external coaches. |
+
 
 ## How coaches coach
 
