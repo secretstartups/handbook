@@ -660,271 +660,11 @@ Sign up for Twitter notifications (Twitter account required) to follow his every
 
 An ongoing shadow program with a fast rotation is much more time consuming for the CEO than a temporary program or a rotation of a year or longer. That's why most organizations choose to either have a shadow for a couple of days, or have someone for a year or more. We want to give as many people as possible the opportunity to be a shadow, which is why we rotate quickly. To make this happen without having to invest a lot of time with training, we need great documentation around the program. A quick turnaround on documentation is crucial, and the documentation will have a level of detail that may not be necessary in other parts of the company.
 
-### Traveling with the CEO
-
-When traveling with the CEO, keep the following in mind:
-
-1. Book flights that will allow you to land before the CEO so there is no delay in transportation to the next event.
-1. For airport pickup with the CEO, research the terminal the CEO arrives in and plan to be there to meet with the driver before the CEO.
-1. Keep the EBA to the CEO and onsite EBA updated regularly and promptly on estimated arrival time in `#ceo-shadow` Slack channel to ensure the schedule is on time.
-1. If travel plans change, please update the EBA(s) in Slack immediately so cancellations to prior transportation can be made promptly to not incur fees.
-1. When returning to San Francisco, if on a different airline, be sure to arrive before the CEO and communicate a [meetup location if traveling back to Mission Control](#rideshare-from-airport) together.
-
-
-## Mission Control Guide
-
-### Working from Mission Control
-
-You are welcome to work from Mission Control, but it is not required to be there in person unless there is an in-person meeting, event, or dinner. It's up to you to manage your schedule and get to places on time. If you are traveling somewhere, meet the CEO at Mission Control at the beginning of the allotted travel time listed on the calendar.
-
-If there is a day during your rotation where all meetings are Zoom meetings, you can work from wherever you want, as you normally would.
-You can also work from Mission Control if you prefer.
-If you decide to split your day between remote work and working from Mission Control, make sure you give yourself enough time to get to Mission Control and set up for the guest.
-It's OK to join calls while mobile.
-In addition, feel free to coordinate or join a co-working day with team members in the Bay Area.
-To coordinate join the `#loc_bayarea` Slack channel.
-
-Shadows are welcome at Mission Control 10 minutes prior to the first meeting until 6 p.m. Feel free to ask if you can stay later. Don't worry about overstaying your welcome, if Karen or Sid would like privacy they will ask you to leave explicitly. When you arrive and depart, please make sure the door to Mission Control closes fully.
-
-One more thing: the cat feeder is automatic and goes off daily at 10:22am PT (as well as another time, it's a surprise!). No need to be alarmed by the metallic clanging sound.
-
-### Working outside Mission Control
-
-Outside of Mission Control hours, shadows have the following options:
-
-1. If not an in-person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation.
-1. There are coffee shops with early opening hours with Wifi access near Mission Control. This is a great venue to meet with your co-shadow if coordination is needed before heading in.
-    1. [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
-    1. [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
-    1. [Starbucks Reserve on Mission Street](https://www.google.com/maps/place/Starbucks+Reserve/@37.7896722,-122.3933832,17z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x76ac8e682da13edb!8m2!3d37.791511!4d-122.3951029), opens at 05:00am.
-    1. [Starbucks on the 5th floor of the Salesforce tower](https://www.google.com/maps/place/Starbucks/@37.7899796,-122.3966609,18z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x4e742c0956f70966!8m2!3d37.7899051!4d-122.394609), opens at 04:00am.
-
-### Mission Control access
-
-When entering the building, the doorperson may ask who you are there to see. Don't say "GitLab" since there is no GitLab office. The doorperson will direct you to the correct lobby.
-
-While there are two sets of keys, it's worthwhile coordinating access to Mission Control with the outbound shadow on your first day. Meeting up on Sunday evening or at a specific time on Monday morning. This will enable the incoming shadow to be introduced into Mission Control without impacting Sid and/or Karen.
-
-### Recommended Food/Drinks nearby
-
-#### Food
-{:.no_toc}
-
-There is a [Yelp list](https://www.yelp.com/collection/sVnYVUU_npZzJ6h9koBbxw) that contains recommendations from previous shadows, as well as the [CEO's Favorite Restaurants](/handbook/ceo/#favorite-restaurants).
-
-The list is administered by the `ceo-shadow@` email address. Log in to Yelp with the credentials in the CEO Shadow 1Password vault to add restaurants, update notes, or remove items from the collection.
-
-There are usually also food trucks in front of the Salesforce Tower and on the opposite side of Mission Street from the Salesforce Tower [in an alley](https://goo.gl/maps/oSJMfJ26QerGVPqPA).
-
-#### Drink
-{:.no_toc}
-
-1. [Bluestone Lane](https://www.google.com/maps/place/Bluestone+Lane/@37.7900021,-122.4031358,16.56z/data=!4m12!1m6!3m5!1s0x8085808814a10285:0x3b8f6e4330a367d9!2sBluestone+Lane!8m2!3d37.7878896!4d-122.4028954!3m4!1s0x8085808814a10285:0x3b8f6e4330a367d9!8m2!3d37.7878896!4d-122.4028954)
-    - Tye Davis Favorite (AMAZING COFFEE) - long walk
-1. [Starbucks](https://www.google.com/maps/place/Starbucks/@37.7899941,-122.3977364,18.43z/data=!4m12!1m6!3m5!1s0x8085808814a10285:0x3b8f6e4330a367d9!2sBluestone+Lane!8m2!3d37.7878896!4d-122.4028954!3m4!1s0x80858067244672f9:0xea9a5743328af8ff!8m2!3d37.789545!4d-122.397592)
-
-#### Rewards Cards ("punch cards")
-{:.no_toc}
-
-Occasionally, food trucks or restaurants have loyalty rewards cards. It is **not required** but if you get one and want to leave it for future shadows to use, please add to this list and put the reward card in the CEO shadow drawer at Mission Control.
-
-1. [Bowld Acai](https://www.bowldacai.com/) Food Truck
-
-### Mission Control operations
-
-#### Monitors
-
-We have six monitors at Mission Control. They show the following content:
-
-|:---:|:---:|
-| **Top Left** | [Team](/company/team/) |
-| **Top Middle** | [Category Maturity](/direction/maturity/) |
-| **Top Right** | [Why GitLab](/why-gitlab/) |
-
-| **Bottom Left** | [Category Maturity](/direction/maturity/) |
-| **Bottom Middle** | [Who we replace](/competition/) |
-| **Bottom Right** | [Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
-
-##### Configuring the Monitors
-{:.no_toc}
-
-Turning all screens on or off might be challenging, since a single remote controls all of them. The easiest way to do that is by covering the tip of the remote with your hand and getting as close as possible to a single screen while turning it on or off.
-
-To configure the sales dashboards:
-
-1. Go to [Clari](https://app.clari.com).
-1. Go To Pulse tab.
-1. Open the left side bar.
-1. Click on the funnel icon. Select “CRO”.
-1. Click on the gear icon. Go to Forecasting. Select Net IACV.
-
-##### How to use keyboard and mouse to update screens
-{:.no_toc}
-
-The wireless mouse and keyboard are connected to the bottom left TV by default because that one is visible from both sides of the conference table. To update the view on another TV, you have to connect the wireless keyboard and mouse to the desired screen. Afterward, don't forget to return it to the bottom left position for use during meetings.
-
-1. Find the USB jacks and Logitech receiver underneath the bottom, right TV (they're all labeled).
-![USB jacks and Logitech Receiver](/images/ceoshadow/HDMI_Logitech.png)
-1. Connect the Logitech receiver to the USB receiver for the desired screen.
-1. To log into the chrome devices at Mission Control, use the login information in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" in 1Password.
-
-##### Troubleshooting the monitors
-{:.no_toc}
-
-Turning all screens on or off might be challenging since a single remote controls all of them. The easiest way to do that is to make a cone with the foil (a piece of foil can be found on the white TV-remote tray) around the front edge of the remote, and getting as close as possible to a single screen while turning it on or off.
-
-Each of the screens at Mission Control use an Asus Chromebit to display the preferred content and are connected to the HDMI1 port of each TV. If you turn on the TVs and one displays a blank screen while on the HDMI1 input, the Chromebit may need to be reset. You can do this by power cycling the Chromebit (they are located behind the bottom right TV and are labeled), connecting the Chromebit to the [keyboard and mouse](/handbook/ceo/shadow/#how-to-use-keyboard-and-mouse-to-update-screens), and logging into it using the credentials in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" via 1Password. Once you have logged into the Chromecast, you can quickly find the proper content as listed in [Configuring the Screens](/handbook/ceo/shadow/#configuring-the-monitors) via the browser's recent history.
-
-##### Updating the software on the monitors
-{:.no_toc}
-
-To check that a Samsung TV is up to date:
-
-1. Grab the remote labeled for the TV
-1. Hit the home button
-1. Go to "Settings"
-1. Go to "Support"
-1. Select "Software Update"
-1. Select "Update Now"
-
-#### AirPlay
-
-To screencast from an iPad or MacBook to the top left screen, switch the "Source" on the **top left** screen to "Apple TV" (HDMI 2).
-
-Using the larger remote (with the white buttons), you can press the white center button in the top row of buttons; this will bring up a list of sources. There is a direction pad on the remote towards the bottom that has `< ^ > v` buttons, as well as the selection button in the center.
-
-When the TV is on the Apple TV source, you may need to change the Apple TV to
-AirPlay mode. The Apple TV remote is the small black one with only 5 buttons.
-You can click "MENU" until it says AirPlay.
-
-To return to the normal configuration, choose "Source" then "HDMI 1".
-
-#### iPads
-
-There are two iPads at Mission Control (without password protection). You can use the [duet app](https://www.duetdisplay.com/) as a second monitor if desired. Both iPads are linked to the EBA to the CEO's Apple ID. Please verify any purchases ahead of time with the EBA to the CEO.
-
-#### Printer
-
-The printer at Mission Control is called `HP Officejet Pro 8610` and is available over AirPlay/Wifi. The printer is located in Sid's office.
-
-#### Zoom Room
-
-Zoom Rooms is an application used for team members not in San Francisco to participate in meetings happening at Mission Control. There's a separate screen (the **large** one on wheels), a Mac Mini and, iPad at Mission Control for this purpose. The Mac Mini is connected to HDMI1 on the screen, and the iPad operates as a remote control for Zoom Rooms.
-
-1. **Setup**
-    1. Turn on the big screen on wheels.
-    1. Turn on the Mac Mini.
-    1. Start the Zoom Rooms application on the Mac Mini.
-    1. If you have to log in or, provide a passcode, both are in the [CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi).
-    1. Start the Zoom Rooms application on the iPad (you may need the passcode).
-    1. If there's any problem connecting to the service, log out and back in. If that fails, contact the Executive Admin to the CEO.
-1. **If you do not have the option to join a meeting on the iPad (It's in "Scheduling mode" - you don't have a "Meet Now" or "Join" button):**
-    1. Make sure Zoom Rooms on the iPad is logged in.
-    1. Click the settings "gear" icon in the top right hand corner.
-    1. Disable the "lock settings" option (you'll need the passcode).
-    1. Tap on "Zoom Room Mission Control".
-    1. Tap "Switch to Controller".
-1. **If the Zoom Rooms app on the iPad is not connecting:**
-    1. Check the credentials for the Zoom Room in the [CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi). If unable to log in, please contact the Executive Admin to the CEO on slack.
-    1. Log out of the Zoom Rooms app on the iPad.
-    1. Log in using the PeopleOps Zoom account credentials in the [CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi).
-
-If the EBA to the CEO is unavailable, the CEO shadow may be responsible for handling the technical details of coordinating Zoom meetings. If using a **webinar**, you will need to be a co-host in order to promote participants to panelists so that they can verbalize their own questions.
-
-#### Podcasts on Zencaster
-
-When joining a podcast in Zencaster, a microphone error can be avoided by leaving your microphone unmuted for the first 30 seconds / minute.
-
-1. Zencaster checks that your mic is working by recording audio so, muting the mic causes the error.
-1. The system check happens when you first load the page
-1. If you get the microphone error, reload the page and wait for the checks to finish before muting.
-
-#### Maintaining Software and Hardware
-
-The devices in Mission Control are configured to auto-update when new versions are available. As a precaution, shadows in their second week should confirm all software in Mission Control is up to date.
-
-### Visitors
-
-#### Preparing for Visitors
-
-In preparation for guests (customers, investors, etc.) who will be meeting with the CEO or other team members at Mission Control, please note the following prior to the meeting start:
-
-1. All GitLab team members sit on one side. This allows for easy communication with the guests.
-1. Set the lighting mode to 'Evening' - lighting controls are located next to the kitchen entrance.
-1. Have drinks from the fridge (on the tray) available on the table.
-1. Get the glasses from the cupboard above the coffee machine and place them next to the drink tray.
-1. Add the Brita water pitcher on the table.
-1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
-1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#monitors). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
-1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discuss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter, or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information.
-1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
-    1. Follow the setup steps for [Zoom Rooms](#zoom-room).
-    1. Move the screen to the head of the table.
-    1. Click 'Join' in the Zoom Rooms menu and enter the meeting ID from the Google Calendar invite of the meeting in question.
-    1. Once the meeting is loaded, click on the participants list and make sure that the iPad is visible from the table.
-
-#### Welcoming Visitors to Mission Control
-
-1. The front desk will call the apartment when a visitor arrives.
-1. A Shadow should meet guests at the elevator, greet them, and guide them to Mission Control.
-1. Once the meeting is over, a Shadow should escort the guests back to the elevator.
-
-### Suzy (the cat)
-
-Please note that we have a cat named [Suzy](/company/team-pets/#7-suzy). It is a Russian Blue mix which is a [hypoallergenic variety](https://www.russianbluelove.com/russian-blue-cat-allergies/).
-
-Suzy likes attention and will invite you to pet her. If you're allergic to cats consider washing your hands after petting.
-If you don't want to wash your hands every time after petting Suzy you can _gently_ paddle pet her using ping pong paddles available in Mission Control. Check out the videos linked below for techniques!
-Please note the white pillow on the sofa in Mission Control is the **only** place to paddle pet Suzy. She really enjoys it when you _gently pat_ her sides with the ping pong paddles when she is **on** the white pillow, if she steps **off** the pillow stop petting her. When she gets back onto the pillow you can resume gently paddle petting her.
-Please don't pet her after/when she meows since that reinforces the meowing which can be annoying during calls and the night.
-You can pick her up but she doesn't like it much and will jump out after about 30 seconds. Lastly, Suzy sometimes tries to drink out of the toilet, please make sure to leave the toilet lid down.
-![](/images/handbook/suzypetpillow.jpg)
-<!-- blank line -->
-
-#### Paddle Pat technique with Eric Brinkman
-{:.no_toc}
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/vf-uEPweMUg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- blank line -->
-
-#### Paddle Pat & Rub technique with JJ Cordz
-{:.no_toc}
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/KLWQH0EDtcg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### Mission Control FAQs
-
-1. Everything in the fridge that is liquid can be consumed including Soylent and alcohol.
-1. The thermometer is located next to the kitchen entrance.
-1. Lighting controls are located next to the kitchen entrance, select 'Evening'.
-1. Swag (socks and stickers) is located on the bookshelf near the dashboards. (If the swag is running low, reach out to the Executive Admin to the CEO with a list for restocking)
-
-### Food and drinks at Mission Control
-
-Everything in the fridge that is liquid can be consumed including Soylent and alcohol. The coffee machine is located in the kitchen, coffee pods are in the drawer below the coffee machine.
-
-If the beverages are running low, start by checking the top cupboard above the oven (next to the fridge). There's a step ladder in the laundry (last door on the **left** down the hallway)
-If items in the cupboard are also running low, reach out to the Executive Admin to the CEO list of items that need to be ordered in the `#ceo-shadow` slack channel tagging the EBA to the CEO so all items can be ordered at once.
-This should happen every Monday. Here is a list of items that may need to be restocked:
-
-1. La Croix (usually there are 3 flavors)
-1. Red Bull
-1. Sugarfree Red Bull
-1. Sprite Zero
-1. Coca Cola
-1. Diet Coke
-1. Fiji water
-1. Soylent Cacao
-1. Snacks in the lockbox (try to keep enough so that the box is full) - Preferences of snacks for the incoming shadow and restocking any snack preferences from the outgoing shadow.
-
 ## Travel & Expenses
 
-### Lodging
+### Expenses
+
+#### Lodging
 
 Lodging during the CEO shadow program is provided by the company. Executive Admin to the CEO books the accommodation based on availability and cost. You can express your preference (hotel or AirBnB) via email to the Executive Admin to the CEO in question. However, the final decision is made by the Executive Admin based on the distance from the CEO and costs. Executive Admin will provide the accommodation details no earlier than 1 month and no later than 2 weeks before the scheduled rotation.
 
@@ -933,20 +673,20 @@ In case you are coming from a timezone that is more than 6 hours difference with
 
 If your CEO shadow rotation is two consecutive weeks, it is expected you will be staying the weekend. Accommodation is provided during the weekend.
 
-### Airfare
+#### Airfare
 
 Airfare can be booked according to our [travel policy](/handbook/travel/#booking-travel-and-lodging) or [spending company money](/handbook/spending-company-money/) policy.
 In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
-#### Rideshare from airport
+##### Rideshare from airport
 
 At San Francisco International airport (SFO), all rideshare apps (Uber, Lyft, etc) pick up on level 5 of the parking structure. When coordinating travel from SFO to Mission Control with other Shadows, GitLab team members, or Sid, arranging to meet on level 5 of the parking structure is most efficient, as each terminal has its own baggage claim area.
 
-### Expensing meals
+#### Meals
 
-Shadows are able to expense food and beverage during their rotation and should follow our [spending company money](/handbook/spending-company-money/) policy. Previous shadows have created a [recommendation list](/handbook/ceo/shadow/#recommended-fooddrinks-nearby) of their favorite food places to help.
+Shadows are able to expense food and beverage during their rotation and should follow our [spending company money](/handbook/spending-company-money/) policy. 
 
-### Childcare
+#### Childcare
 
 Childcare is provided during the active shadowing period and will be reimbursed via your expense report. You must book the childcare yourself and it is advised you reach out far in advance as childcare "drop-ins" can be limited depending on the week. Currently, GitLab doesn't have a ["Backup Care"](https://www.brighthorizons.com/family-solutions/back-up-care) program so you must tell the childcare it is for a "drop-in". Depending on your hotel accommodations, finding a nearby daycare is most convenient or a daycare nearby the [Millennium tower](https://www.google.com/maps/place/Millennium+Tower+San+Francisco/@37.7905055,-122.3962516,15z/data=!4m2!3m1!1s0x0:0x9fe15ebd4a8300d8?sa=X&ved=2ahUKEwiUoZ_hpb_iAhXBop4KHeOAB2QQ_BIwGHoECAsQCA). Some childcare facilities will require payment at end-of-day or end-of-week via cash/check only so request an invoice/receipt for expense submission purposes.
 
@@ -954,6 +694,17 @@ Past Childcare facilities that have been accommodating:
 
 1. [Bright Horizons at 2nd Street](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet?utm_source=GMB_yext&utm_medium=GMBdirectory&utm_campaign=yext&IMS_SOURCE_SPECIFY=GMB) - This facility is nearest the [Courtyard by Marriott SF Downtown Hotel](https://www.google.com/maps/place/Courtyard+by+Marriott+San+Francisco+Downtown/@37.785751,-122.3997608,16.7z/data=!4m12!1m6!3m5!1s0x8085807c643d1007:0x85815e04bf8d233c!2sCourtyard+by+Marriott+San+Francisco+Downtown!8m2!3d37.7859011!4d-122.3969222!3m4!1s0x8085807c643d1007:0x85815e04bf8d233c!8m2!3d37.7859011!4d-122.3969222).
     - Contact: [Rose - Current Director](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet)
+
+
+### Traveling with the CEO
+
+When traveling with the CEO, keep the following in mind:
+
+1. Book flights that will allow you to land before the CEO so there is no delay in transportation to the next event.
+1. For airport pickup with the CEO, research the terminal the CEO arrives in and plan to be there to meet with the driver before the CEO.
+1. Keep the EBA to the CEO and onsite EBA updated regularly and promptly on estimated arrival time in `#ceo-shadow` Slack channel to ensure the schedule is on time.
+1. If travel plans change, please update the EBA(s) in Slack immediately so cancellations to prior transportation can be made promptly to not incur fees.
+1. When returning to San Francisco, if on a different airline, be sure to arrive before the CEO and communicate a meetup location if traveling back together.
 
 ### Travel Guidance: COVID-19
 
