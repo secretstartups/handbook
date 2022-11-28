@@ -126,7 +126,7 @@ Note when viewing a deployment failure from the `#announcements` Slack channel, 
 
 Click on the diagram below to visit the announcement issue for more context and view an uncompressed image:
 
-[![Pipeline Reorder](handbook/engineering/releases/gitlab-com-deployment-pipeline.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
+[![Pipeline Reorder](/handbook/engineering/releases/gitlab-com-deployment-pipeline.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
 
 Note the diagram has been upadted as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
 
