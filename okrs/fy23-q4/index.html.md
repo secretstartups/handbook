@@ -38,7 +38,7 @@ The by-the-book schedule for the OKR timeline would be:
 
 ### 2. CEO: Mature GitLab’s DevSecOps Platform to improve product experience and increase user engagement
 1. **CEO KR:** For each stage of GitLab, update Direction page to address delta with BIC competitor
-1. **CEO KR:** Achieve curated experience targets
+1. **CEO KR:** Complete UXR and Designs for Feature Discovery Moments (FDM) and direction on ideal cross-product FDM experience
 1. **CEO KR:** Activate 15 new Leading Organizations
 1. **CEO KR:** Do FY24-Q1 OKRs in GitLab
 
