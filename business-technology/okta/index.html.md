@@ -116,7 +116,7 @@ This method has been verified on Macs and Linux with Chrome. For Safari, it requ
 If both of previous devices are not available, you could use a [YubiKey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to enroll a new device.
 
 ### I would like to get a YubiKey, how can I do so?
-Please fill out this [form](https://forms.gle/FNoLPzhGk6mDdLj77?_imcp=1) and we will coordinate shipment of one to you thru our group buy.
+Please fill out this [form](https://forms.gle/b4KrYyDyEEvh8BxA8) and we will coordinate shipment of one to you thru our group buy.
 
 ### Lost access to your 2FA or your OKTA account has been locked out because of failed attempts?
 
