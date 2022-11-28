@@ -406,14 +406,14 @@ graph LR
 #### Reactive `label` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
+  - A new note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
     - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`
     - `backend`, `database`, `documentation`, `frontend`, `security`, `UX`
     - `workflow::in dev`, `workflow::ready for review`, `workflow::blocked`
-  - The note is posted by the MR author or a team member
+  - The note is posted by the author or a team member
 * Automation actions:
-  - Adds the requested label to the MR
-* Rate limiting: 60 times per requester/MR per hour
+  - Adds the requested label
+* Rate limiting: 60 times per requester/item per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb>
 
 #### Idle/Stale label remover
