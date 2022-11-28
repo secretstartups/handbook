@@ -512,7 +512,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
 | `~RootCause::DB-Migration` | resulting from a database migration or a post-deploy migration |
 | `~RootCause::ExternalAgentMaliciousBehavior` | ostensibly malicious behavior by an external agent |
 | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
-| `~RootCause::FalseAlarm` | an incident was created by a page that isn't actionable and should result into adjusting the alert or [deleting it](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/deleting-alerts.md) |
+| `~RootCause::FalseAlarm` | an incident was created by a page that isn't actionable and should result into adjusting the alert or [deleting it](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/monitoring/deleting-alerts.md) |
 | `~RootCause::Feature-Flag` | a feature flag toggled in some way (off or on or a new percentage or target was chosen for the feature flag) |
 | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test |
 | `~RootCause::GCP-Networking` | GCP networking event |
