@@ -140,11 +140,11 @@ The course must be from a credentialed college or university and must be relevan
 
 ### Professional Coaching
 
-**Desription:** Professional coaching is available for managers and leaders job grade 8+ to support development in their professional area of interest. Team members job grade 4-7 can receive external coaching from [Modern Health](/handbook/total-rewards/benefits/modern-health/) and internal coaching from our [internal resources](/handbook/leadership/coaching/). Team members are expected to know their confidentiality obligations and are responsible for keeping coaching conversations [SAFE](/handbook/legal/safe-framework/).
+**Description:** Professional coaching is available for managers and leaders job grade 8+ to support development in their professional area of interest. Team members job grade 4-7 can receive external coaching from [Modern Health](/handbook/total-rewards/benefits/modern-health/) and internal coaching from our [internal resources](/handbook/leadership/coaching/). Team members are expected to know their confidentiality obligations and are responsible for keeping coaching conversations [SAFE](/handbook/legal/safe-framework/).
 
 [Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true) connects team members with GitLab-vetted coaches - [read their coaching bios here](https://drive.google.com/file/d/1OG0Gn1Cef-9OulTKpXANqBWkTaFuVC2P/view?usp=sharing). Team members can book 4, 6, or 8hrs of coaching. Availability is first come, first served. Pairing with a coach via Coaching Right Now saves time and energy looking for a coach that is aligned to GitLab values and way of working.
 
-> Hear what GitLab team memebrs are saying about Coaching Right Now:
+> Hear what GitLab team members are saying about Coaching Right Now:
 
 - `My coach was thoughtful and insightful. He took the time to learn about me, my wants and desires. He was able to provide actionable feedback and made the last 4 months of GitLab much better.`
 - `I can tangibly see how this (coaching) investment has made me at least 20% more effective in my role, delighted in my role, and a more human leader.`
