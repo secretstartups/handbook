@@ -699,7 +699,26 @@ The Channel Managers use a [tracking system](https://docs.google.com/presentatio
 
 **Channel Ops DRI:** Aura Villalobos or post questions in #channel-programs-ops.
 
+## Clari Forecasting for Partner Managers and Leaders
 
+[Here is a guide](https://docs.google.com/presentation/d/1eIv9YMsWT-S5Ln0vGSGvzzEkq8bMARlvkkM2uGzlodY/edit#slide=id.g1966657aff9_0_38) on how to log in and navigate the module.
+
+Below are descritpions of the different columns in the Channel Forecasting module in Clari. You will also find an equivalent Salesforce filter provided.
+
+| Column | Description | SFDC Filters |
+|---|---|---|
+| Partner Sourced Plan | Your Partner Sourced target |  |
+| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
+| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
+| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
+| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
+| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
  
 ## Alliances and OEMs
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
@@ -727,28 +746,6 @@ If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting 
 
 If GCP or AWS support a deal and help drive the customer to buy GitLab, but were not the original source of the opportunity nor are they transacting the deal, then the following field should be filled out on the Opportunity:
 - **Influence Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
-
-## Clari Forecasting for Partner Managers and Leaders
-
-Here is a guide on how to log in and navigate the mdoule:
-https://docs.google.com/presentation/d/1eIv9YMsWT-S5Ln0vGSGvzzEkq8bMARlvkkM2uGzlodY/edit#slide=id.g1966657aff9_0_38
-
-Below are descritpions of the different columns in the Channel Forecasting module in Clari. You will also find an equivalent Salesforce filter provided.
-
-| Column | Description | SFDC Filters |
-|---|---|---|
-| Partner Sourced Plan | Your Partner Sourced target |  |
-| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
-| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
-| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
-| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
-| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
 
 ### Marketplace Transaction Fees
 Deals booked through the Amazon and Google markeplaces use the following fee schedule (non-negotiable):
