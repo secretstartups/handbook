@@ -45,15 +45,21 @@ The following people are permanent members of the SIRT
 <td><a href="/job-families/engineering/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
 </tr>
 <tr>
+<td>Lance Callaghan</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
+</tr>
+<tr>
+<td>Matt Coons</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
+</tr>
+<tr>
 <td>Mitra Jozenazemian</td>
 <td><a href="/job-families/engineering/security-incident-response-team/#staff-security-incident-response-team-engineer">Staff Security Engineer, SIRT</a></td>
 </tr>
+<td>Harjeet Sharma</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#staff-security-incident-response-team-engineer">Staff Security Engineer, SIRT</a></td>
 <tr>
 <td>Corey McCarty</td>
-<td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Harjeet Sharma</td>
 <td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
 </tr>
 <tr>
@@ -65,12 +71,23 @@ The following people are permanent members of the SIRT
 <td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
 </tr>
 <tr>
+<td>Laurens Van Dijk</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
+</tr>
+<td>Andy Lockhart</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
+</tr>
+<tr>
+<td>Chathura Kuruwita</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
+</tr>
+<tr>
 <td>Bala Allam</td>
 <td><a href="/job-families/engineering/security-incident-response-team/#security-incident-response-team-engineer-intermediate">Security Engineer, SIRT</a></td>
 </tr>
 <tr>
-<td>Laurens Van Dijk</td>
-<td><a href="/job-families/engineering/security-incident-response-team/#security-incident-response-team-engineer-intermediate">Security Engineer, SIRT</a></td>
+<td>Leslie Anzures</td>
+<td><a href="/job-families/engineering/security-incident-response-team/#security-incident-response-team-engineer-intermediate"> Security Engineer, SIRT</a></td>
 </tr>
 </tbody>
 </table>
