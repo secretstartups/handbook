@@ -213,7 +213,7 @@ You will notice two small icons next to the selectors when you go to add one to 
 #### Building a Custom List
 {: #list-creation}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-You can find a guide for Field Marketing Lists [below](handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases) as well.
+You can find a guide for Field Marketing Lists [below](/handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases) as well.
 
 1. Click the database icon in the left-hand navigation menu
 1. Select the list type you need under the database menu (Account Lists, Person Lists, Opportunity Lists)
