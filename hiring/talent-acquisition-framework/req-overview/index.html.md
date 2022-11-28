@@ -151,7 +151,6 @@ Once a Hiring Manager has determined they want to move forward with a candidate,
 
 If you would like the Hiring Manager to receive an email when the form has been received, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed.
 
-For more information, please visit the [Job Offer Process](handbook/source/handbook/hiring/talent-acquisition-framework/offer-process/) page.
 
 ### **Step 7: Justification (Engineering Only)**
 
@@ -167,4 +166,4 @@ If there are any special circumstances regarding a known relocation for the cand
 
 ### **Step 9: Verbal Offer & Contract**
 
-For details about these final stages, please visit the [Job Offer Process](handbook/source/handbook/hiring/talent-acquisition-framework/offer-process/) page. 
+For details about these final stages, please visit the Job Offer Process page. 
