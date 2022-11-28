@@ -85,7 +85,7 @@ Key Results should be:
 1. **Mutually Exclusive** - Measure one component of progress for an objective without overlapping with progress represented by other Key Results. Progress for one Key Result shouldn’t count towards another Key Result.
    1. **Example**: A Key Result for number of transactions and a Key Result for average dollar amount of transactions are an example of mutually exclusive Key Results: one KR measures *volume* while the other Key Result measures *quality* of volume. On the other hand, a Key Result for total number of transactions and a Key Result for number of transactions from North America is an example of an overlap: progress gets ‘double-counted’ for both Key Result.
 1. **Collectively Exhaustive** - Key Results should fully account for what’s required to achieve an objective. If all Key Results are achieved, then, by default, the Objective must also be achieved.  
-1. **Few Words and Ubiquitous Language** - [As defined in Handbook](https://docs.google.com/document/d/1SBDZj6NPjba-Uweeoh4gMCq1IwhOiNa0FTdE6GcUG7I/edit#:~:text=GitLab%20Communication).
+1. **Few Words and Ubiquitous Language** - [As defined in Handbook](https://about.gitlab.com/handbook/communication/#mecefu-terms).
 
 *You can score your OKRs against these criteria to determine whether your OKRs are effective.*
 
