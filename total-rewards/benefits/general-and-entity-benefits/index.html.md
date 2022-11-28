@@ -321,7 +321,7 @@ For the Absence Management team:
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.
 
-### Team Member Relief Program
+## Team Member Relief Program
 
 When Team Members are affected by natural disasters such as fires, earthquakes, floods, etc..., GitLab has established a Team Member Relief Program to assist with financial hardship from these disasters or other emergencies. This program is managed in partnership with E4E Relief, a non-profit that helps businesses establish global disaster relief programs for their Team Members.
 
