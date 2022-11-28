@@ -850,6 +850,8 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 There are unique requirements for different methods of selling GitLab. 
 Please see the general summary presentation of our booking requirements [here](https://docs.google.com/presentation/d/1Di6aPQQmu3pRFUeX1Qk_Ky52856T0weRTti1AwBZvNU/edit#slide=id.g123a13deda8_0_405).
 
+**IMPORTANT NOTE**: At this time, we cannot accept Direct Deals through India. All sales assisted opportunities with customers based in India must go through a reseller or partner. Customers based in India can still purchase online via the customer portal directly.
+
 Review the drop down below related to your order type.
 
 
