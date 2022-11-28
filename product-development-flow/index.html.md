@@ -154,14 +154,16 @@ If the problem is nuanced or not yet well understood, then it will likely take l
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Designer |
-| Collaborators | Product Manager <br/>Development team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
+| Collaborators | Product Manager <br/>Engineering Manager <br/>Development team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer <br/>Legal & Corporate Affairs|
 | Informed      | Product Design Manager<br/> Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 #### Description
 
 After understanding and validating the problem, we can begin or continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. However, if the outcome from the problem validation phase confidently suggests an incremental modification to the existing solution, the aforementioned diverge/converge process could be skipped.
 
-The Product Designer leads the team (Product Manager, Engineering team, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and the Engineering team evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, potential security risks, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
+The Product Designer leads the team (Product Manager, Engineering team, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and the Engineering team evaluate solutions by determining if they meet customer and business goals, are technically feasible, and align with legal compliance considerations. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, potential security risks, and if the solution has the intended customer impact. 
+
+During this phase the  Product Manager and Engineering Manager are both responsible for reviewing the [Legal Risk Checklist](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/legal-risk-checklist) (accessible to team members only) and determining whether any sections need to be completed. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase. 
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -238,12 +240,14 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Product Design Manager <br/> Engineering Manager <br/>Product Designer <br/>Software Engineer in Test <br/>Development team |
+| Collaborators | Product Design Manager <br/> Engineering Manager <br/>Product Designer <br/>Software Engineer in Test <br/>Development team <br/>Legal & Corporate Affairs|
 | Informed      | Product Marketing Manager <br/>Customer Success Manager <br/>Technical Writer <br/> Application Security Engineer|
 
 #### Description
 
-This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work). Following Validation Phase 4 the feature should already be broken down into the quickest change possible to improve the user's outcome and be ready for a more detailed review by engineering. During this phase, Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues.
+This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work). Following Validation Phase 4 the feature should already be broken down into the quickest change possible to improve the user's outcome and be ready for a more detailed review by engineering. During this phase, Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues. 
+
+During this phase, the Product Manager and the Engineering Manager must revisit the [Legal Risk Checklist](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/legal-risk-checklist) (accessible to team members only) to make sure none of their previous determinations during Validation phase 3: Design need revision. 
 
 By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency.
 
