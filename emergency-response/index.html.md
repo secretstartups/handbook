@@ -215,7 +215,7 @@ The email should answer the following questions in the following order:
 1.  What is your call to action? What should you do?
 1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
 
-To request an email, follow directions on [this page](handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
+To request an email, follow directions on [this page](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
 
 #### Sample email 
 
