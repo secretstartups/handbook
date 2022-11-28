@@ -167,8 +167,6 @@ All actions and follow up items should live in the [Reverse AMA EPIC](https://gi
 
 If your underrepresented group has not been assigned a Diversity, Inclusion & Belonging team directly responsible individual please contact Candace or Liam. 
 
-Learnings can be captured in our [DIB Sharing page](https://about.gitlab.com/company/culture/inclusion/DIB-sharing-page/)
-
 
 ## Reverse AMA Schedule - past and upcoming
 
