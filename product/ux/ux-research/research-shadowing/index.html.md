@@ -10,7 +10,7 @@ This research shadowing process is intended to ensure that stable counterparts h
 
 ## Shadower process
 
-1. Identify the UX Researcher [assigned to your stage group](handbook/product/ux/ux-research/how-uxr-team-operates/#how-ux-researchers-are-assigned). This person will be your contact during this shadow process. Reach out to them and introduce yourself and let them know you’re starting research shadowing.
+1. Identify the UX Researcher [assigned to your stage group](/handbook/product/ux/ux-research/how-uxr-team-operates/#how-ux-researchers-are-assigned). This person will be your contact during this shadow process. Reach out to them and introduce yourself and let them know you’re starting research shadowing.
 1. Read through pages that are relevant to you and your project(s) within the [UX Research handbook section](/handbook/product/ux/ux-research/). Your researcher can answer any questions you may have.
 
 ### Problem Validation shadowing
