@@ -253,7 +253,7 @@ Once a risk treatment plan is communicated, Security Risk will create an Issue O
 
 Formal risk acceptance's require approval based on the approval matrix established by the [Security Operational Risk Management Methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk).  These vendors will be tracked on GitLab's risk register and flagged for review on an annual basis. The Business Owner owns this risk.
 
-If moderate or low risk observations are noted during the review process the Business Owner will be informed via the TPRM report and will be responsible for making the decision to move forward with the vendor. These observations will be managed as per the [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/observation-remediation-procedure.html).
+If moderate or low risk observations are noted during the review process the Business Owner will be informed via the TPRM report and will be responsible for making the decision to move forward with the vendor. These observations will be managed as per the [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
 
 </details>
 
@@ -273,7 +273,7 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Data Classification Standard](/handbook/security/data-classification-standard.html)
 - [Current listing of controlled documents](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-governance/-/issues/42)
 - [App Integrations (Team Member Enablement)](/handbook/business-technology/team-member-enablement/app-integrations/)
-- [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/observation-remediation-procedure.html)
+- [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)
 - [STORM Methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
 - [Professional Services](https://about.gitlab.com/handbook/finance/procurement/professional-services/#how-do-i-purchase-professional-services-andor-hire-a-contractor)
 - [Application Security Assessments](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/tprm-review-process.html)
