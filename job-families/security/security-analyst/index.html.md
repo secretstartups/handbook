@@ -6,7 +6,7 @@ title: "Security Analyst"
 The roles described below are grades: [6, 7, 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ## Responsibilities
-As a member of the [Security Team](/handbook/engineering/security) at GitLab, you will be working towards raising the bar on security for GitLab, Inc. the company, GitLab the product, and GitLab.com. We achieve that by collaborating with cross-functional teams to provide guidance on security best practices across the organization, implementing security requirements and improvements, and reacting to security events and incidents.
+As a member of the [Security Team](/handbook/security) at GitLab, you will be working towards raising the bar on security for GitLab, Inc. the company, GitLab the product, and GitLab.com. We achieve that by collaborating with cross-functional teams to provide guidance on security best practices across the organization, implementing security requirements and improvements, and reacting to security events and incidents.
 
 ## Requirements
 - Ability to use GitLab
@@ -75,10 +75,10 @@ The Senior Anti-Abuse Analyst is responsible for leading and implementing the va
 - Ability to communicate clearly on anti-abuse issues.
 
 ### Security Compliance
-See [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
+See [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
 
 ### Security External Communications
-See [Security External Communications](https://about.gitlab.com/job-families/engineering/security-external-communications/)
+See [Security External Communications](https://about.gitlab.com/job-families/security/security-external-communications/)
 
 ### Security Operations
 

@@ -117,7 +117,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/tot
 
 ## Specialties
 ### Security Automation - Security Assurance Operations
-This role is interconnected with GitLab's [Security Automation team](https://about.gitlab.com/job-families/engineering/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls. 
+This role is interconnected with GitLab's [Security Automation team](https://about.gitlab.com/job-families/security/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls. 
 
 #### Security Automation - Security Assurance Operations Requirements
 * Previous experience on or supporting Security Governance, Risk, Compliance or Field Security teams.

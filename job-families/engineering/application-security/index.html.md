@@ -112,7 +112,7 @@ The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calcul
 * Be a subject matter expert (SME) of at least 2 technical areas impacting the security of the product.
 
 ### Distinguished Application Security Engineer
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/) role at GitLab.
 
 #### Distinguished Application Security Engineer Job Grade
 The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -199,7 +199,7 @@ Enjoys working hard; is action-oriented and full of energy for the things he/she
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Application Security Senior Manager
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research).
+This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 The Application Security Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

@@ -3,7 +3,7 @@ layout: job_family_page
 title: Security Analyst, External Security Communications
 ---
 
-As a member of the [Security department](/handbook/engineering/security) at Gitlab, the External Security Communications specialty of the Security Analyst role work to increase visibility, strengthen community engagement and industry recognition of GitLab Security initiatives, programs and team members’ expertise through multi-channel campaigns and initiatives that include blogs, contributed articles, social media, online events and more. 
+As a member of the [Security department](/handbook/security) at Gitlab, the External Security Communications specialty of the Security Analyst role work to increase visibility, strengthen community engagement and industry recognition of GitLab Security initiatives, programs and team members’ expertise through multi-channel campaigns and initiatives that include blogs, contributed articles, social media, online events and more. 
 
 ## Responsibilities
 * Work with security engineers, analysts and leadership to develop ideas for blog posts, assist them as needed to create and improve the content and work with the editorial team to review and publish the posts.
@@ -29,7 +29,7 @@ As a member of the [Security department](/handbook/engineering/security) at Gitl
 
 ## Levels
 ### Security Analyst, External Security Communications (Intermediate)
-The Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+The Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Intermediate job grade
 The Security Analyst, External Security Communications is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -53,7 +53,7 @@ The Security Analyst, External Security Communications is a [grade 6](/handbook/
 
 
 ### Security Analyst, External Security Communications (Senior)
-The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Senior level job grade
 The Senior Security Analyst, External Security Communications is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -78,7 +78,7 @@ Senior level responsibilities are inclusive of all Intermediate level responsibi
 * You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Staff)
-The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 
 #### Staff level job grade
@@ -103,7 +103,7 @@ Staff level responsibilities are inclusive of all Senior level responsibilities,
 * You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Principal)
-The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Principal level job grade
  

@@ -12,7 +12,7 @@ description: "As a member of the security team at GitLab, you will be working to
 
 As a member of the security team at GitLab, you will be working towards raising the bar on security. We will achieve that by working and collaborating with cross-functional teams to provide guidance on security best practices.
 
-The [Security Team](/handbook/engineering/security) is responsible for leading and implementing the various initiatives that relate to improving GitLab's security.
+The [Security Team](/handbook/security) is responsible for leading and implementing the various initiatives that relate to improving GitLab's security.
 
 ## Responsibilities for Security Engineer roles
 
@@ -75,7 +75,7 @@ The Senior Security Engineer role extends the [Intermediate Security Engineer](#
 
 ***
 
-A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/engineering/security-leadership/) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
+A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/security/security-leadership/) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
 
 ***
 
@@ -331,10 +331,10 @@ Trust & Safety Requirements
 Security Assurance Engineers enable Sales by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
 
 *  Please refer to the [Security Assurance ](https://about.gitlab.com/handbook/security/security-assurance/) page for additional information.
-  - [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
+  - [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
   - [Field Security](https://about.gitlab.com/job-families/engineering/field-security/)
-  - [Security Risk](https://about.gitlab.com/job-families/engineering/security-risk/)
-  - [Security Governance](https://about.gitlab.com/job-families/engineering/security-governance/)
+  - [Security Risk](https://about.gitlab.com/job-families/security/security-risk/)
+  - [Security Governance](https://about.gitlab.com/job-families/security/security-governance/)
 
 ### Red Team
 

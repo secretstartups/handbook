@@ -136,7 +136,7 @@ The Security Incident Response Team Manager is a [grade 8](/handbook/total-rewar
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Security Incident Response Team 
-This role reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations).
+This role reports to the [Director of Security Operations](/job-families/security/security-leadership/#director-security-operations).
 
 #### Senior Manager, Security Incident Response Team Job Grade
 The Security Incident Response Team Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

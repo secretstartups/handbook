@@ -93,7 +93,7 @@ The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calcul
 * Passion for participation in the security community, demonstrated through published research and community involvement.
 
 ### Distinguished Security Research Engineer
-This position reports to the [Threat Management Director](/job-families/engineering/security-leadership/) role at GitLab.
+This position reports to the [Threat Management Director](/job-families/security/security-leadership/) role at GitLab.
 
 #### Distinguished Security Research Engineer Job Grade
 The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -119,7 +119,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Have a portfolio of public communication of complex security concepts.
 
 ### Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/#director-security-engineering--research) role at GitLab.
 
 #### Job Grade
 The {Security Research Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -158,7 +158,7 @@ Enjoys working efficiently; is action oriented and full of energy for the things
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Senior Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research).
+This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 The {Security Research Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
