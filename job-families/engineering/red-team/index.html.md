@@ -102,7 +102,7 @@ The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/
 * Extensive knowledge of offensive cloud security and common vulnerabilities
 
 ### Principal Red Team Engineer
-This position reports to the [Senior Manager, Threat Management](/job-families/engineering/security-leadership/#senior-manager-security).
+This position reports to the [Senior Manager, Threat Management](/job-families/security/security-leadership/#senior-manager-security).
 
 #### Principal Red Team Engineer Job Grade
 The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -164,7 +164,7 @@ The Red Team Manager is a [grade 8](/handbook/total-rewards/compensation/compens
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Red Team 
-This role extends the Security Incident Response Team Manager role by adding vision and strategy. It consolidates all SIRT teams' efforts and drives them towards a set of strategic goals. The Senior Manager, Red Team reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations).
+This role extends the Security Incident Response Team Manager role by adding vision and strategy. It consolidates all SIRT teams' efforts and drives them towards a set of strategic goals. The Senior Manager, Red Team reports to the [Director of Security Operations](/job-families/security/security-leadership/#director-security-operations).
 
 #### Senior Manager, Red Team Job Grade
 The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

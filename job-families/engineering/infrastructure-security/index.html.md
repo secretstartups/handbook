@@ -131,7 +131,7 @@ The  Infrastructure Security Manager is a [grade 8](/handbook/total-rewards/comp
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Infrastructure Security 
-This role reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations).
+This role reports to the [Director of Security Operations](/job-families/security/security-leadership/#director-security-operations).
 
 #### Senior Manager, Infrastructure Security Job Grade
 The Security Incident Response Team Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -174,7 +174,7 @@ The Security Logging Team is a specialty extension of the Infrastructure Securit
 * Ensure compliance with internal policies, standards, and regulatory requirements
 * Contribute to creation of runbooks
 
-More information can be found here [Security Logging Team Job Family](/job-families/engineering/security-logging/)
+More information can be found here [Security Logging Team Job Family](/job-families/security/security-logging/)
 
 ## Performance Indicators
 * Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
