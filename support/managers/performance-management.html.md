@@ -18,11 +18,11 @@ Below are some common areas for goal setting:
 
 ##### FRT and Ticket Assignment
 
-Contributing towards our [first reply time target](handbook/support/performance-indicators/#service-level-agreement-sla) and [assigning some portion of those tickets](/handbook/support/workflows/working-on-tickets.html#assigning-tickets) are [Support Engineer Responsibilities and Priorities](/handbook/support/support-global-groups/#success-of-their-group-means) in [Support Global Groups](/handbook/support/support-global-groups/).
+Contributing towards our [first reply time target](/handbook/support/performance-indicators/#service-level-agreement-sla) and [assigning some portion of those tickets](/handbook/support/workflows/working-on-tickets.html#assigning-tickets) are [Support Engineer Responsibilities and Priorities](/handbook/support/support-global-groups/#success-of-their-group-means) in [Support Global Groups](/handbook/support/support-global-groups/).
 
 ##### Public and internal comments
 
-To [maintain good progress through to resolution on all assigned tickets](/handbook/support/support-engineer-responsibilities.html#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets) and [help others maintain progress on their tickets](handbook/support/support-engineer-responsibilities.html#5-help-others-in-your-group-to-maintain-progress-on-their-tickets) engineers must communicate with our customers and collaborate with their peers. Public and internal comments can be an indication of performance, but be careful not to confuse it with the desired result of solved tickets.
+To [maintain good progress through to resolution on all assigned tickets](/handbook/support/support-engineer-responsibilities.html#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets) and [help others maintain progress on their tickets](/handbook/support/support-engineer-responsibilities.html#5-help-others-in-your-group-to-maintain-progress-on-their-tickets) engineers must communicate with our customers and collaborate with their peers. Public and internal comments can be an indication of performance, but be careful not to confuse it with the desired result of solved tickets.
 
 See: [Ticket Baselines](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) 
 
