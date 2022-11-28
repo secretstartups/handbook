@@ -49,11 +49,12 @@ Our mission guides our path, and we live our [values](/handbook/values/){:data-g
 
 ## Goals
 
-1. Ensure that **everyone can contribute** in the three ways outlined below.
-2. Become the most used software for the software development lifecycle and collaboration on all digital content by following [the sequence below](#sequence){:data-ga-name="sequence below"}{:data-ga-location="body"}.
-3. Complete our [product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"} of a [single application](/handbook/product/single-application/){:data-ga-name="create: single application"}{:data-ga-location="body"} based on [convention over configuration](/handbook/product/product-principles/#convention-over-configuration){:data-ga-name="create: convention over configuration"}{:data-ga-location="body"}.
-4. Offer a sense of progress [in a supportive environment with smart colleagues](http://pandodaily.com/2012/08/10/dear-startup-genius-choosing-co-founders-burning-out-employees-and-lean-vs-fat-startups).
-5. Remain independent so we can preserve our values. Since we took external investment, we need a [liquidity event](https://en.wikipedia.org/wiki/Liquidity_event){:data-ga-name="liquidity event"}{:data-ga-location="body"}. To remain independent, we went from being a private to a [public company](/handbook/being-a-public-company/){:data-ga-name="public company"}{:data-ga-location="body"} instead of being acquired.
+Ensure that **everyone can contribute** in the four ways outlined below:
+
+1. Become the most used software for the software development lifecycle and collaboration on all digital content by following [the sequence below](#sequence){:data-ga-name="sequence below"}{:data-ga-location="body"}.
+1. Complete our [product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"} of a [single application](/handbook/product/single-application/){:data-ga-name="create: single application"}{:data-ga-location="body"} based on [convention over configuration](/handbook/product/product-principles/#convention-over-configuration){:data-ga-name="create: convention over configuration"}{:data-ga-location="body"}.
+1. Offer a sense of progress [in a supportive environment with smart colleagues](http://pandodaily.com/2012/08/10/dear-startup-genius-choosing-co-founders-burning-out-employees-and-lean-vs-fat-startups).
+1. Preserve our [values](/handbook/values/). As GitLab grows it's important that we continue to maintain the CREDIT values of [**🤝Collaboration**](/handbook/values/#collaboration), [**📈 Results**](/handbook/values/#results), [**⏱️ Efficiency**](/handbook/values/#efficiency), [**🌐 Diversity, Inclusion & Belonging**](/handbook/values/#diversity-inclusion), [**👣 Iteration**](/handbook/values/#iteration), and [**👁️ Transparency**](/handbook/values/#transparency).
 
 ##  Everyone can contribute
 
