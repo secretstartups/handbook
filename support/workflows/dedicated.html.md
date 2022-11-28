@@ -13,7 +13,9 @@ description: "Gitlab Dedicated handbook."
 
 ### Overview
 
-[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/), from support perspective, works as a combination of SaaS and SM. Customers have full Admin access to the instance, but no access to the infrastructure, nor to the backend configurations. This workflow captures the differences, and details of providing support for GitLab Dedicated.
+[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/), from a support perspective, works as a combination of SaaS and Self-Managed. Customers have full Admin access to the instance, but no access to the infrastructure, nor to the backend configurations. This workflow captures the differences, and details of providing support for GitLab Dedicated.
+
+If you'd like to work on GitLab Dedicated tickets, consider [creating an issue using the template](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab%20Dedicated) in Support Training, and read the [overview](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/).
 
 ### Working with logs
 
@@ -21,9 +23,13 @@ Support can access tenant logs through [OpenSearch](https://opensearch.org/).
 
 [OpenSearch](https://opensearch.org/) can be used similar to [Kibana](./kibana.html.md).
 
+#### Identifying tenants
+
+Credentials needed for examining logs are stored in the `GitLab Dedicated - Support` vault. Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `<tenant name>.gitlab-dedicated.com`.
+
 #### Accessing logs
 
-To access the logs for a specific tenant find the credentials stored in the `GitLab Dedicated - Support` Vault, and access the corresponding URL listed there.
+To access the logs for a specific tenant find the credentials stored in the `GitLab Dedicated - Support` Vault, and access the corresponding tenant URL listed there.
 Once in the tenant's OpenSearch site:
 
 1. Select "Global" tenant
@@ -66,13 +72,13 @@ When any changes to the tenant instance are required, please contact the GitLab 
 
 ### Filing issues
 
-In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker] using a [Support Request template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request).
+In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using a [Support Request template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request).
 
 ### Escalating an Emergency issue
 
 Emergencies from GitLab Dedicated will come through the [Customer Emergencies On-call Rotation](https://about.gitlab.com/handbook/support/workflows/customer_emergencies_workflows.html) as with other emergency types.
 
-The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA). To [manually create a PD Incident](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) use the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) or use the Slack command `/pd` trigger and choose "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE after initial triage and analysis.
+The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA). To [manually create a PD Incident](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) use the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) or use the Slack command `/pd trigger` and choose "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE after initial triage and analysis.
 
 ### Troubleshooting tips
 
