@@ -18,6 +18,7 @@ description: "This page is an overview of the processes each party of the search
    - [Evergreen Requisitions](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)
    - [Executive Search Process (E-Group Only)](/handbook/hiring/talent-acquisition-framework/executive-search-process)
    - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
+   - [Job Offer Process](/handbook/hiring/talent-acquisition-framework/offer-process/)
    - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
    - [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
    - [People Technology & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
