@@ -117,7 +117,7 @@ The [GitLab team handbook](https://about.gitlab.com/handbook/) is the central re
 
 GitLab has a dedicated Security Compliance team responsible for monitoring design and effectiveness of the [GitLab common control framework](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html) to ensure GitLab's security objectives are thoughtfully planned, implemented and monitored.
 
-If using a third party service to outsource or supplement security processes, a [third party risk assessment](https://about.gitlab.com/handbook/security/security-assurance/field-security/third-party-risk-management.html) is executed prior to onboarding. Critical vendors are also reviewed once per calendar year after onboarding, or at contract renewal if it comes first.
+If using a third party service to outsource or supplement security processes, a [third party risk assessment](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) is executed prior to onboarding. Critical vendors are also reviewed once per calendar year after onboarding, or at contract renewal if it comes first.
 
 ### Performance
 
