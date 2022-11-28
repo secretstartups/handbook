@@ -110,7 +110,7 @@ A DIB Team Member will set up a time to discuss with the manager the function of
        - Why is it important? 
 * What is one thing as a group can we do to make a positive impact on Diversity, Inclusions and Belonging?
 
-Once you have fully completed the roundtable, create a handbook entry on the [DIB Roundtable Sharing Page](https://about.gitlab.com/company/culture/inclusion/DIB-sharing-page/). You can share as much or as little as your would like too about the experience and learnings of the roundtable. 
+Once you have fully completed the roundtable, create a handbook entry on the DIB Roundtable Sharing Page. You can share as much or as little as your would like too about the experience and learnings of the roundtable. 
 
 ### What next?
 

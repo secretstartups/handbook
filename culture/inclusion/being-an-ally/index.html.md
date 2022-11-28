@@ -214,7 +214,7 @@ What you will do:
 2. **Session 2:** The importance of being an ally and why you want to be an ally.
 3. **Session 3:** Work as a group to discuss a number of scenarios and how to tackle them as an ally.
 4. **Session 4:** Together, write a commitment to allyship and the values you will abide by to be an ally.
-    1. In the last session you will decide as a group a short commitment statement that should be shared on the [Diversity, Inclusion & Belonging Sharing Page](https://about.gitlab.com/company/culture/inclusion/DIB-sharing-page/). Think about what you have individually and collectively learnt during the experience.
+    1. In the last session you will decide as a group a short commitment statement that should be shared on the Diversity, Inclusion & Belonging Sharing Page. Think about what you have individually and collectively learnt during the experience.
 
 Create 2-5 values that, as a group, you will hold in your continuous learning in allyship and take into account when situations arise.
 
