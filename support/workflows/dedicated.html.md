@@ -21,7 +21,7 @@ If you'd like to work on GitLab Dedicated tickets, consider [creating an issue u
 
 Support can access tenant logs through [OpenSearch](https://opensearch.org/).
 
-[OpenSearch](https://opensearch.org/) can be used similar to [Kibana](./kibana.html.md).
+[OpenSearch](https://opensearch.org/) can be used similar to [Kibana](./kibana.html).
 
 #### Identifying tenants
 
@@ -38,10 +38,10 @@ Once in the tenant's OpenSearch site:
 
 #### Searching logs
 
-Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana](./kibana.html.md).
+Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana](./kibana.html).
 
 - Terms can be freely typed in the search bar
-- Fields can also be used as filters, similarly to [Kibana](./kibana.html.md).
+- Fields can also be used as filters, similarly to [Kibana](./kibana.html).
 
 ##### Fields and Filters
 
