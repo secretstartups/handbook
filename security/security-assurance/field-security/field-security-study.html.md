@@ -44,7 +44,7 @@ The following analysis will occur based on the collected data:
 
 - Evaluation of concerns from the prior year to include remediation status and updated considerations.  
 - Evaluation of current areas of customer concern.  
-- Rating of concerns on a High/Moderate/Low Customer Rated Impact rating, which reflects the internal perception of positive impact of remediation. Ratings will be assigned using [GitLab's Observation Management](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/observation-remediation-procedure.html#observation-risk-ratings) procedure. 
+- Rating of concerns on a High/Moderate/Low Customer Rated Impact rating, which reflects the internal perception of positive impact of remediation. Ratings will be assigned using [GitLab's Observation Management](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html#observation-risk-ratings) procedure. 
 - Competitive analysis to include a comparison of available security features, security features maturation and security compliance offerings.
 - Documentation of recommendations based on field feedback. Note, these should not be considered the final plan for remediation as that will be the responsibility of the GitLab DRI to define. 
 
