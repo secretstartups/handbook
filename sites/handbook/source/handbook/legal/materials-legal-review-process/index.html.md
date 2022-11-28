@@ -91,6 +91,20 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 - yes <!-- if yes, give details -->
 - no
 
+### Is the material subject to mandatory review?
+<!-- Delete as appropriate and refer to the definition of mandatory review: https://about.gitlab.com/handbook/legal/materials-legal-review-process/#mandatory-review -->
+- yes <!-- if yes, identify the type of material from the list of materials subject to mandatory review -->
+- no
+
+### Does the material comply with the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/)?
+<!-- Delete as appropriate -->
+- yes
+- no
+- I'm not sure
+
+### If the material is not subject to mandatory review and complies with the SAFE Framework and IP Guidelines, legal review is not mandatory. However, if you have specific questions regarding the material, set those out here, identifying the aspect(s) of the material to which the questions relate.
+<!-- if the materials are subject to mandatory review, or do not comply with the SAFE Framework or IP Guidelines, skip to the next question -->
+
 ### Due date for review
 <!-- State the due date for review, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. -->
 ```
