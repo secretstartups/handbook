@@ -29,7 +29,7 @@ As a member of the [Security Assurance](/handbook/security/security-assurance/) 
    * Identifying control weaknesses and gaps (observations)
    * Remediation recommendations
    * Tracking remediation plans to completion
-1. [Continuous Monitoring of GitLab's Security Controls](handbook/security/security-assurance/security-compliance/sec-controls.html) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
+1. [Continuous Monitoring of GitLab's Security Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
    * [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
    * [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)](https://about.gitlab.com/handbook/security/Information-System-Contingency-Plan-ISCP.html) testing
 
