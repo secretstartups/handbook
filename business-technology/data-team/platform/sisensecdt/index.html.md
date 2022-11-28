@@ -483,7 +483,7 @@ Sisense has great [embed docs](https://doc.periscopedata.com/article/embed-api) 
 
 ### Skip unused Dashboard
 
-In order to avoid unnecessary dashboard refreshes the option `Skip if unused` must be enabled by default. Sisense checks if the dashboard is used more than 10 minutes in the past 7 days and only if true it will start the scheduled refresh. This saves resources on our platform. Every quarter in the [data health and security audit](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform checks if this option is set. If this is not the case it will be switched on.
+In order to avoid unnecessary dashboard refreshes the option `Skip if unused` must be enabled by default. Sisense checks if the dashboard is used more than 10 minutes in the past 7 days and only if true it will start the scheduled refresh. This saves resources on our platform. Every quarter in the [data health and security audit](/handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform checks if this option is set. If this is not the case it will be switched on.
 
 ### Hardcoded HTML
 
