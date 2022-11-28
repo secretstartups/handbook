@@ -21,11 +21,11 @@ GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Dev
 
 Topics covered include:
 1. What is a working group
-2. When to start a working group
-3. Difference between project managers and working groups. 
-   1. Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
-4. Lessons learned from previous working groups
-5. Why and how working groups support cross-functional projects
+1. When to start a working group
+1. Difference between project managers and working groups.
+   - Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
+1. Lessons learned from previous working groups
+1. Why and how working groups support cross-functional projects
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tE3d8WUSL30" frameborder="0" allowfullscreen="true"> </iframe>
@@ -39,17 +39,17 @@ Topics covered include:
 
 This is the **person ultimately responsible for the success of the Working Group**. Assembles the working group, identifies interdependencies, manages supporting individuals toward project success, and ensures that results and escalations are appropriately communicated. This person also plays the facilitator role. A facilitator is responsible for running meetings and supporting the operational efficiency and success of a working group.
 
-* Makes sure that team objectives and success measurement is known and understood by team members and key stakeholders.
-* Identifies interdependencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
-* Clearly manages different project workstreams and proactively communicates expectations for specific working group team members. For example, if you know that an initiative will eventually involve customer communications, the Working Group DRI should ensure that the group has appropriate representation from the Customer Success Team and that the representative is clear on asks for both the team and the individual within the coming weeks and quarters. 
-* Assigns any actions, initiatives, or outstanding questions to a workstream [DRI](/handbook/people-group/directly-responsible-individuals/) to investigate further. This ensures accountability and prevents overwhelming any single member or the Working Group DRI. 
-* Evaluates opportunities to work in a way that better reflects GitLab values. Examples:
-   * Suggests more [efficient](https://about.gitlab.com/handbook/values/#efficiency) ways to get to the same outcome
-   * Considers how decisions or milestones can be unbundled, so we can work more [iteratively](https://about.gitlab.com/handbook/values/#iteration)
-* Escalates when scope is changing, the project is at risk, or greatership engagement is required.
-* Owns meeting agendas, so that they are organized to stay on topic. Follows up on goals from the previous meeting, and align back to the exit criteria in each meeting.
-* After a long discussion about a topic, tries to summarize it and result in an action item - Determines if this topic should be pursued further, or if it changes the exit criteria. If it does, clearly flags to the DRI and other Working Group members.
-* Creates a single source of truth for collaboration and coordination and is clear on communication expectations. Consider using an [Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) to track working group tasks by using the ~"WorkingGroup::" scoped label on each issue. This can be done separately from any other development related issues that the working group needs to track.
+1. Makes sure that team objectives and success measurement is known and understood by team members and key stakeholders.
+1. Identifies interdependencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
+1. Clearly manages different project workstreams and proactively communicates expectations for specific working group team members. For example, if you know that an initiative will eventually involve customer communications, the Working Group DRI should ensure that the group has appropriate representation from the Customer Success Team and that the representative is clear on asks for both the team and the individual within the coming weeks and quarters.
+1. Assigns any actions, initiatives, or outstanding questions to a workstream [DRI](/handbook/people-group/directly-responsible-individuals/) to investigate further. This ensures accountability and prevents overwhelming any single member or the Working Group DRI.
+1. Evaluates opportunities to work in a way that better reflects GitLab values. Examples:
+   1. Suggests more [efficient](https://about.gitlab.com/handbook/values/#efficiency) ways to get to the same outcome
+   1. Considers how decisions or milestones can be unbundled, so we can work more [iteratively](https://about.gitlab.com/handbook/values/#iteration)
+1. Escalates when scope is changing, the project is at risk, or greatership engagement is required.
+1. Owns meeting agendas, so that they are organized to stay on topic. Follows up on goals from the previous meeting, and align back to the exit criteria in each meeting.
+1. After a long discussion about a topic, tries to summarize it and result in an action item - Determines if this topic should be pursued further, or if it changes the exit criteria. If it does, clearly flags to the DRI and other Working Group members.
+1. Creates a single source of truth for collaboration and coordination and is clear on communication expectations. Consider using an [Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) to track working group tasks by using the ~"WorkingGroup::" scoped label on each issue. This can be done separately from any other development related issues that the working group needs to track.
 
 **Executive Sponsor**
 
@@ -67,43 +67,43 @@ One or more people who represent their entire function to the working group, reg
 
 **Member**
 
-Any subject matter expert, attends meetings synchronously or asynchronously on a regular basis, regularly monitors the Working Group Slack Channel, shares information learned from the Working Group with their peers, and gathers feedback from their peers and brings that feedback back to the Working Group. A member may serve as a DRI for a specific workstream or activity. 
+Any subject matter expert, attends meetings synchronously or asynchronously on a regular basis, regularly monitors the Working Group Slack Channel, shares information learned from the Working Group with their peers, and gathers feedback from their peers and brings that feedback back to the Working Group. A member may serve as a DRI for a specific workstream or activity.
 
 ## Guidelines
 
-* An executive sponsor is required, in part, to prevent proliferation of working groups
-* A person should not facilitate more than one concurrent working group
-* Participation in some Working Groups requires a significant time commitment. Participants should be clear on their role and expectations for what they are expected to deliver. They should manage their time and capacity and quickly escalate if they feel unable to serve in or deliver in their role
-* It is highly recommended that anyone in the working group with [OKRs](/company/okrs/) aligns them to the effort
+1. An executive sponsor is required, in part, to prevent proliferation of working groups
+1. A person should not facilitate more than one concurrent working group
+1. Participation in some Working Groups requires a significant time commitment. Participants should be clear on their role and expectations for what they are expected to deliver. They should manage their time and capacity and quickly escalate if they feel unable to serve in or deliver in their role
+1. It is highly recommended that anyone in the working group with [OKRs](/company/okrs/) aligns them to the effort
 
 
 ## Process
 
-* Preparation
-  * Create a working group page
-  * Assemble a team from required functions
-    * Share in appropriate Slack channel(s) to encourage a diverse group of participants
-  * Create an agenda doc public to the company
-  * Create a Slack channel (with `#wg_` prefix) that is public to the company
-  * Schedule a recurring Zoom meeting
-* Define a goal and exit criteria
-  * Clearly outline risks and interdependencies. Flag mitigations and ensure that interdependencies are know and being addressed as part of the plan
-  * Ensure that responsibilities for all participants are clearly documented and understood
-* Gather metrics that will tell you when the goal is met
-* Organize activities that should provide incremental progress
-* Ship iterations and track the metrics
-* Communicate the results
-  * Consider regular updates to the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)  slack channel as progress is made towards goal.
-  * Communicate outcomes using [multi modal communication](/handbook/communication/#multimodal-communication).
-  * Notify widely of exit outcomes via channels such as the [engineering week in review](/handbook/engineering/#communication).
-* Disband the working group
-  * Celebrate. Being able to close a working group is a thing to be celebrated!
-  * Move the working group to the "Past Working Groups" section on this page
-  * Update the working group's page with the close date and any relevant artifacts for prosperity
-  * Archive the slack channel
-  * Delete the recurring calendar meeting
+1. Preparation
+   1. Create a working group page
+   1. Assemble a team from required functions
+      - Share in appropriate Slack channel(s) to encourage a diverse group of participants
+   1. Create an agenda doc public to the company
+   1. Create a Slack channel (with `#wg_` prefix) that is public to the company
+   1. Schedule a recurring Zoom meeting
+1. Define a goal and exit criteria
+   1. Clearly outline risks and interdependencies. Flag mitigations and ensure that interdependencies are know and being addressed as part of the plan
+   1. Ensure that responsibilities for all participants are clearly documented and understood
+1. Gather metrics that will tell you when the goal is met
+1. Organize activities that should provide incremental progress
+1. Ship iterations and track the metrics
+1. Communicate the results
+   1. Consider regular updates to the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)  slack channel as progress is made towards goal.
+   1. Communicate outcomes using [multi modal communication](/handbook/communication/#multimodal-communication).
+   1. Notify widely of exit outcomes via channels such as the [engineering week in review](/handbook/engineering/#communication).
+1. Disband the working group
+   1. Celebrate. Being able to close a working group is a thing to be celebrated!
+   1. Move the working group to the "Past Working Groups" section on this page
+   1. Update the working group's page with the close date and any relevant artifacts for prosperity
+   1. Archive the slack channel
+   1. Delete the recurring calendar meeting
 
-## Modifications to Process for Limited Access Communications
+### Modifications to Process for Limited Access Communications
 
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
 Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
@@ -118,7 +118,7 @@ If something isn't on our [Not Public list](/handbook/communication/confidential
    1. Have private Slack channels that include folks who are directly working on the project.
    1. Limit the agenda to a specific set of folks.
 1. Communicate the results
-   1. Communicate results and progress to the direct working group or other key stakeholders to ensure that folks are aligned and have context on key happenings. Do not share sensitive information outside of private channels.
+   - Communicate results and progress to the direct working group or other key stakeholders to ensure that folks are aligned and have context on key happenings. Do not share sensitive information outside of private channels.
 1. Proactively share information if the project is no longer limited access
    1. Notify widely of progress or exit outcomes when information can be shared more broadly.
    1. Evaluate which artifacts and communication material can be made internally available or public.
@@ -133,82 +133,82 @@ If you are interested in participating in an active working group, it is general
 
 ## Active Working Groups (alphabetic order)
 
-* [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
-* [API Vision](/company/team/structure/working-groups/api-vision/)
-* [Category Leadership](/company/team/structure/working-groups/category-leadership/)
-* [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
-* [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
-* [Engineering Internship](/company/team/structure/working-groups/engineering-internship/)
-* [Event Stream](/company/team/structure/working-groups/event-stream/)
-* [Expense Management](/company/team/structure/working-groups/expense-management/)
-* [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
-* [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
-* [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
-* [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
-* [Revenue Globalization](/company/team/structure/working-groups/globalization/)
-* [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
-* [Leading Organizations](/company/team/structure/working-groups/leading-organizations/)
-* [Learning Experience](/company/team/structure/working-groups/learning-experience/)
-* [Maintainership](/company/team/structure/working-groups/maintainership/)
-* [Modern Applications Go-To-Market](/company/team/structure/working-groups/modern-applications-gtm/)
-* [Multi-Large](/company/team/structure/working-groups/multi-large/)
-* [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
-* [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
-* [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
-* [SOX PMO](/company/team/structure/working-groups/sox/)
-* [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
-* [Token Management](/company/team/structure/working-groups/token-management/)
-* [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
+1. [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
+1. [API Vision](/company/team/structure/working-groups/api-vision/)
+1. [Category Leadership](/company/team/structure/working-groups/category-leadership/)
+1. [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
+1. [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
+1. [Engineering Internship](/company/team/structure/working-groups/engineering-internship/)
+1. [Event Stream](/company/team/structure/working-groups/event-stream/)
+1. [Expense Management](/company/team/structure/working-groups/expense-management/)
+1. [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
+1. [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
+1. [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
+1. [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
+1. [Revenue Globalization](/company/team/structure/working-groups/globalization/)
+1. [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
+1. [Leading Organizations](/company/team/structure/working-groups/leading-organizations/)
+1. [Learning Experience](/company/team/structure/working-groups/learning-experience/)
+1. [Maintainership](/company/team/structure/working-groups/maintainership/)
+1. [Modern Applications Go-To-Market](/company/team/structure/working-groups/modern-applications-gtm/)
+1. [Multi-Large](/company/team/structure/working-groups/multi-large/)
+1. [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
+1. [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
+1. [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
+1. [SOX PMO](/company/team/structure/working-groups/sox/)
+1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
+1. [Token Management](/company/team/structure/working-groups/token-management/)
+1. [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
 
 
 ## Past Working Groups (alphabetic order)
 
-* [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
-* [China Service](/company/team/structure/working-groups/china-service/)
-* [CI Queue Time Stabilization](/company/team/structure/working-groups/ci-queue-stability/)
-* [Commercial & Licensing](/company/team/structure/working-groups/commercial-licensing/)
-* [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
-* [Contributor Growth](/company/team/structure/working-groups/contributor-growth)
-* [Database Scalability](/company/team/structure/working-groups/database-scalability/)
-* [Development Metrics](/company/team/structure/working-groups/development-metrics/)
-* [Dogfood Plan](/company/team/structure/working-groups/dogfood-plan/)
-* [Ecommerce Motion](/company/team/structure/working-groups/ecommerce)
-* [Engineering Career Matrices](/company/team/structure/working-groups/engineering-career-matrices/)
-* [Enterprise Market Leadership](/company/team/structure/working-groups/enterprise-market-leadership)
-* [Experimentation](/company/team/structure/working-groups/experimentation/)
-* [Githost Migration](/company/team/structure/working-groups/githost-migration/)
-* [GitLab.com Cost](/company/team/structure/working-groups/gitlab-com-cost/)
-* [GitLab.com Revenue](/company/team/structure/working-groups/gitlab-com-revenue/)
-* [gitlab-ui (CSS and Components)](/company/team/structure/working-groups/gitlab-ui/)
-* [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
-* [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
-* [IC Gearing](/company/team/structure/working-groups/ic-gearing/)
-* [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
-* [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage/)
-* [Isolation](/company/team/structure/working-groups/isolation/)
-* [Learning Restructure](/company/team/structure/working-groups/learning-restructure)
-* [Licensing and Transactions Improvements](/company/team/structure/working-groups/licensing-transactions-improvements/)
-* [Log Aggregation](/company/team/structure/working-groups/log-aggregation/)
-* [Logging](/company/team/structure/working-groups/logging/)
-* [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
-* [Minorities in Tech (MIT) Mentoring Program](/company/team/structure/working-groups/mit-mentoring/)
-* [MLOps](/company/team/structure/working-groups/mlops/)
-* [Object Storage](/company/team/structure/working-groups/object-storage/)
-* [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
-* [Performance Indicators](/company/team/structure/working-groups/performance-indicators/)
-* [Product Analytics](/company/team/structure/working-groups/product-analytics/)
-* [Product Development Flow](/company/team/structure/working-groups/product-development-flow/)
-* [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
-* [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
-* [Real-Time](/company/team/structure/working-groups/real-time/)
-* [Secure Offline Environment Working Group](/company/team/structure/working-groups/secure-offline-environment/)
-* [Self-Managed Scalability](/company/team/structure/working-groups/self-managed-scalability/)
-* [Sharding](/company/team/structure/working-groups/sharding/)
-* [Simplify Groups & Projects](/company/team/structure/working-groups/simplify-groups-and-projects/)
-* [Single Codebase](/company/team/structure/working-groups/single-codebase/)
-* [Tiering](/company/team/structure/working-groups/tiering/)
-* [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
-* [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
+1. [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
+1. [China Service](/company/team/structure/working-groups/china-service/)
+1. [CI Queue Time Stabilization](/company/team/structure/working-groups/ci-queue-stability/)
+1. [Commercial & Licensing](/company/team/structure/working-groups/commercial-licensing/)
+1. [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
+1. [Contributor Growth](/company/team/structure/working-groups/contributor-growth)
+1. [Database Scalability](/company/team/structure/working-groups/database-scalability/)
+1. [Development Metrics](/company/team/structure/working-groups/development-metrics/)
+1. [Dogfood Plan](/company/team/structure/working-groups/dogfood-plan/)
+1. [Ecommerce Motion](/company/team/structure/working-groups/ecommerce)
+1. [Engineering Career Matrices](/company/team/structure/working-groups/engineering-career-matrices/)
+1. [Enterprise Market Leadership](/company/team/structure/working-groups/enterprise-market-leadership)
+1. [Experimentation](/company/team/structure/working-groups/experimentation/)
+1. [Githost Migration](/company/team/structure/working-groups/githost-migration/)
+1. [GitLab.com Cost](/company/team/structure/working-groups/gitlab-com-cost/)
+1. [GitLab.com Revenue](/company/team/structure/working-groups/gitlab-com-revenue/)
+1. [gitlab-ui (CSS and Components)](/company/team/structure/working-groups/gitlab-ui/)
+1. [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
+1. [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
+1. [IC Gearing](/company/team/structure/working-groups/ic-gearing/)
+1. [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
+1. [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage/)
+1. [Isolation](/company/team/structure/working-groups/isolation/)
+1. [Learning Restructure](/company/team/structure/working-groups/learning-restructure)
+1. [Licensing and Transactions Improvements](/company/team/structure/working-groups/licensing-transactions-improvements/)
+1. [Log Aggregation](/company/team/structure/working-groups/log-aggregation/)
+1. [Logging](/company/team/structure/working-groups/logging/)
+1. [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
+1. [Minorities in Tech (MIT) Mentoring Program](/company/team/structure/working-groups/mit-mentoring/)
+1. [MLOps](/company/team/structure/working-groups/mlops/)
+1. [Object Storage](/company/team/structure/working-groups/object-storage/)
+1. [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
+1. [Performance Indicators](/company/team/structure/working-groups/performance-indicators/)
+1. [Product Analytics](/company/team/structure/working-groups/product-analytics/)
+1. [Product Development Flow](/company/team/structure/working-groups/product-development-flow/)
+1. [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
+1. [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
+1. [Real-Time](/company/team/structure/working-groups/real-time/)
+1. [Secure Offline Environment Working Group](/company/team/structure/working-groups/secure-offline-environment/)
+1. [Self-Managed Scalability](/company/team/structure/working-groups/self-managed-scalability/)
+1. [Sharding](/company/team/structure/working-groups/sharding/)
+1. [Simplify Groups & Projects](/company/team/structure/working-groups/simplify-groups-and-projects/)
+1. [Single Codebase](/company/team/structure/working-groups/single-codebase/)
+1. [Tiering](/company/team/structure/working-groups/tiering/)
+1. [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
+1. [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
 
 ## Top Cross-Functional Initiatives
 
