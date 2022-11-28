@@ -13,29 +13,39 @@ description: "IM Marketing at GitLab"
 # Integrated Marketing
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Add what integrated marketing is. 
+### Team Mission Statement 
+Be the strategic growth engine for GitLab by creating and accelerating high quality demand, partnering ecosystem-wide and being platform champions.
+
+### Team Norms
+* We are a team that transparently communicates wins, challenges, and marketing insights that helps us feel connected to our purpose as a team and a company. 
+* We are tightly connected and operate as one respectful, supportive and collaborative IM team, communicating a united story about our reason to be, the context in which we operate and why we move in an intentional direction.
+* We are innovative, strategic, and data-driven, delivering a cohesive high quality marketing motion that aligns across our joint stakeholder goals.
 
 ## Teams within Integrated Marketing 
 {: #teams .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-    - [Account Based Strategy](/handbook/marketing/account-based-marketing/)
-    - Alliances Marketing
-    - Channel Marketing
-    - [Marketing Campaigns]
-    - [Digital Marketing Programs]
-    - [Field Marketing](/handbook/marketing/field-marketing/)
+
+- [Account Based Marketing](/handbook/marketing/account-based-marketing/)
+- [Alliances Marketing](/handbook/marketing/channel-marketing/#alliances-partner-marketing-roles-and-responsibilities)
+- [Channel Marketing](/handbook/marketing/channel-marketing/)
+- [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
+- [Lifecycle Marketing](/handbook/marketing/lifecycle-marketing/)
+- [Digital Marketing](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/)
+- [Field Marketing](/handbook/marketing/field-marketing/)
+- [Corporate Events](/handbook/marketing/corporate-marketing/corp-event-marketing/) 
+- [Digital Experience](/handbook/marketing/digital-experience/)
 
 ## How to Communicate with integrated Marketing
 {: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-You can find us on Slack in the #integrated-marketing room 
+You can find us on Slack in the [#marketing_integratedmarketing](https://gitlab.slack.com/archives/C03HJQW0DLZ) channel.
 
 ## Cadence of meetings within Integrated Marketing
 {: #meetings .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR --> 
 We value our asynch value and believe that people truly need time to think and process. The Integrated Marketing team, like all GitLab team members, should feel empowered to decline meetings based on the agenda topics. 
 
-The IM team meets the 1st Wednesday of the month and we discuss key cross-functional issues, our progress on our OKRs for the quarter, and to ideate how we can better unify our marketing motions.
+The IM team meets the 1st and 3rd Wednesday of the month and the time rotates between being EMEA/AMER & AMER/APAC timezons. We discuss key cross-functional issues, our progress on our OKRs for the quarter, and to ideate how we can better unify our marketing motions, as well as having a little fun getting to know each other! 
 
 ## Monthly Regional Readouts with Sales
 
@@ -48,13 +58,6 @@ Each month, Integrated Marketing meets with regional Sales Leadership to discuss
 ## Cross-functional team processes
 {: #team-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR --> 
-
-### Digital campaigns
-{: #digital-campaigns .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-As a global team, Field Marketing & the ABM team is allocated three [paid social campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#paid-social) per month through PMG, our digital ad agency.  In order to identify and prioritize these campaign requests, all PMG asks should have the 'PMG' vendor label in Allocadia.
-
-The global Director of Field Marketing will pull a report of all requests on the same day the plans for the next quarter are [due](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-planning).  In the presence of more than three campaign asks per month in any given month of the upcoming quarter the global director will open an issue in the revenue marketing project and tag leadership to review the asks and prioritize/consolidate.  This process will also serve as a collaboration on other possible tactics or leveraging what other teams are doing as a means to consolidate our asks.  Once the final list of campaigns is determined, an issue will be opened in [Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing) two weeks before the first day of the new quarter.
 
 ### Publisher Programs
 {: #publisher-programs .gitlab-purple}
