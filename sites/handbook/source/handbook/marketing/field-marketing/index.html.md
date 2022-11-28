@@ -566,12 +566,11 @@ The AMER Field Marketing team utilizes GitLab's swag and fulfillment vendor [Bou
 
 ### Boundless Portal
 
-Field Marketers are responsible for accessing the [Boundless Portal](https://portal.boundlessnetwork.com/) via their individual logins to order all swag and assets for their events.  
+Field Marketers are responsible for accessing the [Boundless Portal](https://gitlabstore.mybrightsites.com) via their individual logins to order all swag and assets for their events.  
 
 #### Boundless Portal Training
 
-[**Watch Training Video Here**](https://youtu.be/B68Ka-zHeT4)  *(Note: You must be logged in to GitLab Unfiltered to view)*   
-[**Review Training Doc Here**](https://drive.google.com/file/d/1-dy_UPUq_v4gl51mJoQ5PYRg6cTeJ6xc/view?usp=sharing)  
+[**Watch Training Video Here**](https://youtu.be/GGFunX7JOK0)  *(Note: You must be logged in to GitLab Unfiltered to view)*   
 
 ### Boundless Support
 
@@ -591,7 +590,7 @@ sporer@boundlessnetwork.com
 
 ### AMER Field Marketing Event Assets
 
-It is recommended that each Field Marketer keep a separate GitLab tablecloth, popup banner and table runner with them at home for easy access and to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact `@krogel`. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, DevOps Days kits, etc.) are stocked at the Boundless warehouse and can be shipped via the [Boundless Portal](https://portal.boundlessnetwork.com/).
+It is recommended that each Field Marketer keep a separate GitLab tablecloth, popup banner and table runner with them at home for easy access and to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact `@krogel`. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, DevOps Days kits, etc.) are stocked at the Boundless warehouse and can be shipped via the [Boundless Portal](https://gitlabstore.mybrightsites.com).
 
 ### Returning AMER Field Marketing Event Assets and Swag
 
