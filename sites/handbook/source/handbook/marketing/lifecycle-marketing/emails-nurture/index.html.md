@@ -79,7 +79,7 @@ In the event of an severity::1 (critical) security vulnerability email communica
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Overview Deck](https://docs.google.com/presentation/d/1N_VM8xHGiQ95PXt09xyuQAa9px0VGEGyJd0KtGdXjzg/edit#slide=id.g106e2c5ac6b_0_0)
 * [Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
-* [MURAL (WIP) of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
+* [MURAL of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
 * [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
 * [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
 * [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
@@ -358,6 +358,7 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When the edit view has closed, click on the main newsletter item in the left-hand column.
+1. If there are over 250,000 recipients due to be sent, you must request Marketing Operations to temporarily lift the [Campaign Limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits), otherwise the email will not send.
 1. In the `Schedule` box, enter the send date and select `Recipient time zone` if the option is available.
 1. Make sure `Head start` is checked too.
 1. In the `Approval` box, click on `Approve program`.
