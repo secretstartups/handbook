@@ -1588,13 +1588,13 @@ The issue description should have a `How to reproduce` section to ensure clear r
 - A step by step plan to reproduce the issue
 - The url or even better the `curl` command that triggers the issue
 
-##### ~"type::feature" and ~"type::maintenance"
+##### Non-vulnerability `~security` issues
 
-Issues labelled with the `security` and `~"type::feature"`/`~"type::maintenance"` labels are **not** considered vulnerabilities, but rather security enhancements or defense-in-depth mechanisms. This means the security team does not set the `~severity` and `~priority` labels or follow the vulnerability triage process as these issues will be triaged by [product](/handbook/product/) or other appropriate team owning the component.
+Issues labelled with the `security` but without `~type::bug + ~bug::vulnerability` labels are **not** considered vulnerabilities, but rather security enhancements, defense-in-depth mechanisms, or other security-adjacent bugs. For example, issues labeled `~"type::feature"` or `~"type::maintenance"`. This means the security team does not set the `~severity` and `~priority` labels or follow the vulnerability triage process as these issues will be triaged by [product](/handbook/product/) or other appropriate team owning the component.
 
 Implementation of security feature issues should be done publicly in line with our [Transparency](/handbook/values/#transparency) value, i.e. not following the [security developer workflow](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md).
 
-On the contrary, note that issues with the `security`, `bug`, and `severity::4` labels are considered `Low` severity vulnerabilities and will be handled according to the standard vulnerability triage process.
+On the contrary, note that issues with the `security`, `~type::bug`, and `severity::4` labels are considered `Low` severity vulnerabilities and will be handled according to the standard vulnerability triage process.
 
 ##### ~"security request"
 
