@@ -54,6 +54,11 @@ This section will list the top three most recent, exciting accomplishments from 
 
 <%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
 
+### Additional Team Responsibiilties
+| Role | Team Member | Description | 
+| ---- | ----------- | ----------- |
+| DRI for milestone refining | Drew Stachon | Helps the EM and PM ensure that issue refinement and weighting is complete prior to the start of a milestone by setting processes and following up with engineers. |
+
 ## Stable Counterparts
 
 To find our stable counterparts, look at the Pipeline Execution [product category listing](/handbook/product/categories/#pipeline-execution-group).
@@ -100,10 +105,16 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
   * Based on capacity, engineers will assign themselves to `~needs weight` issues to apply weight.
   * The PM will assign or update `Verify::P*` labels for the refined issues.
   * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
+* By the **7th of each month:
+  * The designated DRI for milestone refining will review the state of issues in `workflow::planning breakdown` to ensure that all issues for the upcoming milestone are being weighted and refined by team members. 
+  * For any issues where team members have not already started the refinement process, the designated DRI will comment on the issue asking a specific team member or team members to start the process. 
+* By the **11th** of each month: 
+  * The designated DRI for milestone planning will follow-up with engineers for any issues not yet in `workflow::ready for development`.
 * By the **13th** of each month:
   * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
+  * The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities. 
   * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
-  * The EM will assign the `Deliverable` label to as many issues in `workflow::ready for development` as the team has capacity for.
+  * The EM and PM will assign the `Deliverable` label to as many issues in `workflow::ready for development` as the team has capacity for.
 
 #### How Engineering Refines Issues
 
