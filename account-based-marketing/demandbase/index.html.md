@@ -242,7 +242,7 @@ Any information or fields in Salesforce will be available in Demandbase. If you 
 
 ##### Account
 - Account Type (pulls from SFDC)
-- Journey Stage (pulls from Demandbase) - Details what journey stage the account is in. More information about journey stages can be found above [here](/about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/#journey-stages).)
+- Journey Stage (pulls from Demandbase) - Details what journey stage the account is in. More information about journey stages can be found above [here](#journey-stages).)
 - Account Demographics: Sales Segment (pulls from SFDC) - Gives you the option to only see accounts in a specific sales segment
 - Account Owner (Text) (pulls from SFDC) - let's you filter accounts by a specific account owner
 - Account name (merged source, arrow icon) - Add a specific account name or list of account names (make sure to seperate by commas if you paste them in via text mode)
