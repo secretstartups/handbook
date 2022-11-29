@@ -326,7 +326,7 @@ Only members of the Data role can add or remove the Official Badge.
 
 ## Spaces
 
-We have three Sisense [spaces](https://doc.periscopedata.com/article/spaces#article-title):
+We have four Sisense [spaces](https://doc.periscopedata.com/article/spaces#article-title):
 
 - GitLab: for general access
 - SAFE: for material nonpublic data (MNP)
