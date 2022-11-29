@@ -84,7 +84,7 @@ Libraries with the following licenses are acceptable for use:
 - [ISC License](https://opensource.org/licenses/ISC) (also known as the OpenBSD License): A permissive (non-copyleft) license as defined by the Open Source Initiative.
 - [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/): A public domain dedication, recommended as a way to disclaim copyright on your work to the maximum extent possible.
 - [Unlicense](https://unlicense.org): Another public domain dedication.
-- [OWFa 1.0](http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0): An open-source license and patent grant designed for specifications.
+- [OWFa 1.0](https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owfa-1-0): An open-source license and patent grant designed for specifications.
 - [JSON License](https://www.json.org/license.html): Equivalent to the MIT license plus the statement, "The Software shall be used for Good, not Evil."
 
 ### Potentially Acceptable Licenses
