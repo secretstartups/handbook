@@ -31,7 +31,7 @@ This initial phase reviews new and updated lead records to ensure they meet the 
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the matched account workflow. For this workflow, if LeanData is able to identify there is a BDR listed in the `BDR Assigned` field on the matched account and the `BDR Prospecting Status` (another custom account field) = `Actively Working`, the MQL is assigned. If LeanData is not able to confirm an MQL matches this criteria, the lead progresses to the [unmatched lead](#unmatched-lead-mql-assignment) workflow.
 
 #### Unmatched lead MQL assignment
-Leads that match to accounts but are not able to be routed via owner mappings or the `SDR Assigned` field as well as leads that do not match to accounts are routed using LeanData's [territory management functionality](https://learn.leandata.com/datasheets-how-leandata-works-its-magic/territory-management-datasheet).
+Leads that match to accounts but are not able to be routed via owner mappings or the `SDR Assigned` field as well as leads that do not match to accounts are routed by country assignment.
 
 #### Queue assignment
 Leads that are not yet MQLs or that are no longer being worked by the Sales Development team, are assigned to "holding" queues until they re-MQL. 
