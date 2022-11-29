@@ -25,6 +25,7 @@ title: "Application Security Runbooks"
 - [AppSec Engineer's Local Setup][6]
 - [Federal AppSec Container Scanning Review](./federal-appsec-container-scanning-review.html)
 - [JiHu Contribution Merge Monitor Report Process](./jihu-contribution-merge-monitor-reports.html)
+- [Bug Hunting Day process][8]
 - [Appsec Frequenty Asked Questions][7]
 
 [1]: ./hackerone-process.html
@@ -34,6 +35,7 @@ title: "Application Security Runbooks"
 [5]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/security-engineer.md
 [6]: ./local-setup.html
 [7]: ./faq.html
+[8]: ./bug-hunting-day.html
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
