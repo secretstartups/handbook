@@ -349,7 +349,7 @@ Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/deve
 
 ## Workflow Labels
 
-Labels are described in our [Contribution guide][contrib-labels-guide].
+Labels are described in our [Contribution guide][contrib-labels-guide] and [Product Development Flow](/handbook/product-development-flow/).
 
 [contrib-labels-guide]: https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md
 
