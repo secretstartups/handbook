@@ -12,6 +12,17 @@ description: "Team focused to supporting the Awareness & Consideration stages of
 
 ## Overview
 
+The Awareness and Consideration team mainly supports the Field Marketing, Campaigns, Lifecycle, and Events teams. The main tool we support is Marketo, but we work closely with all tools and technology related to the Awareness and Consideration phases of marketing - or anything integrated into Marketo. We work closely with multiple teams to ensure information between systems is seamless, data is as accurate as possible, and terminology is consistent in respective systems. Our team's primary functions are:
+
+- Marketing automation platform management and orchestration
+- Streamline and standardize processes related to supported tools
+- Email database management, cleanliness and compliance
+- Datamart orchestration and integrations
+- Operational email sends
+- Campaign technical support and troubleshooting
+
+
+
 
 ## Meet the Team
 [Amy Waller](https://gitlab.com/amy.waller), <i>Senior Manager, Marketing Operations</i>
@@ -40,7 +51,6 @@ description: "Team focused to supporting the Awareness & Consideration stages of
 - **Marketo cleanup**: Assists in program cleanup for more efficient processes and quality reporting
 - **Operational Email Sends**: Organizes and sends emails that are operational, and without a demand generation focus (surveys, security, etc)
 
-
 [Nikki Silverberg](https://gitlab.com/nikkiroth), <i>Senior Marketing Operations Manager</i>
 - Focused on [marketing enablement](/handbook/marketing/marketing-operations/marketing-enablement). 
 - Tool Evals and requirements gathering
@@ -56,13 +66,8 @@ description: "Team focused to supporting the Awareness & Consideration stages of
     <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
     <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
-    
 </div>  
 
-## Vision
-
-
-## Goals
 
 
 

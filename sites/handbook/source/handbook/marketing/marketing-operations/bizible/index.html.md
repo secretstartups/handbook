@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Bizible"
-description: "Bizible unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions."
+title: "Adobe Marketo Measure (formerly known as Bizible)"
+description: "Adobe Marketo Measure, AMM for short, unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions."
 ---
 
 ## On this page
@@ -10,58 +10,60 @@ description: "Bizible unifies behavioral and ad data with sales outcomes and mac
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## About Bizible
+## About Adobe Marketo Measure (formerly known as Bizible)
 
-Bizible unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
+Adobe Marketo Measure, AMM for short, unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
 
-## Bizible Touchpoints
+## Buyer Touchpoints
 
-Bizible defines a touchpoint as: Touchpoints refer to the interactions a prospect/lead has with your online or offline marketing efforts.   
+AMM defines a touchpoint as: Touchpoints refer to the interactions a prospect/lead has with your online or offline marketing efforts.   
 
-They capture a multitude of information about the interaction such as utm parameters, date/time of the interaction, and type of interaction (web visit, form submission, campaign response, etc.).    
+They capture a multitude of information about the interaction such as utm parameters, date/time of the interaction, and type of interaction (form submission, campaign response, etc.). 
 
 In Salesforce, the abbreviations for the various touchpoints are as follows (see more in the diagrams below to see how these work in the different models):
 - FT - First Touch, a prospect's first-ever interaction
 - LC - Lead Created, prospect submits information
 - OC - Opportunity Creation, prospect intentionally moves toward a purchase decision
 - Closed - Customer Close, prospect makes a purchase
-- Pending - The Pending touchpoint position is stamped only on BATs (Bizible Attribution Touchpoints) not on BTs (Bizible Tocuhpoints). This touchpoint position is shown **only when the opportunity is still open**, because attribution credit must always add up to 100%. To elaborate further, if we're using a [Full Path Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#full-path) (22,5% to FT, LC, OC, Closed and the remaining 10% for middle touches), while the Opportunity is still open, the remaining 22,5% credit that is allocated to Closed(Lost,Won) must go somewhere else. So, Bizible, has the temporary touchpoint Position of Pending to hold this credit. As a second example, let's say we're using our [Custom Attribution Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm), in this case, if a opportunity is still open for that particular contact, the 10,1% attribution credit for Closed (Lost, Won) would be shown temporary as Touchpoint Position Pending until that opportunity is Closed, when the Touchpoint position pending will change to the usual Touchpoint Position Closed(Lost, Won). For more information visit this [link](https://nation.marketo.com/t5/marketo-whisperer-blogs/bizible-s-pending-touchpoint-position/ba-p/312477)
+- Pending - The Pending touchpoint position is stamped only on BATs (Buyer Attribution Touchpoints) not on BTs (Buyer Tocuhpoints). This touchpoint position is shown **only when the opportunity is still open**, because attribution credit must always add up to 100%. To elaborate further, if we're using a [Full Path Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#full-path) (22,5% to FT, LC, OC, Closed and the remaining 10% for middle touches), while the Opportunity is still open, the remaining 22,5% credit that is allocated to Closed(Lost,Won) must go somewhere else. So, AMM, has the temporary touchpoint Position of Pending to hold this credit. As a second example, let's say we're using our [Custom Attribution Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm), in this case, if a opportunity is still open for that particular contact, the 10,1% attribution credit for Closed (Lost, Won) would be shown temporary as Touchpoint Position Pending until that opportunity is Closed, when the Touchpoint position pending will change to the usual Touchpoint Position Closed(Lost, Won). For more information visit this [link](https://nation.marketo.com/t5/marketo-whisperer-blogs/bizible-s-pending-touchpoint-position/ba-p/312477)
 
-Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping):    
+To note: by default, Adobe Marketo Measure would also create a touchpoint for pageviews (only if it’s the anonymous first touch or the last thing before a milestone stage change, like Opportunity Created for example). This has been discussed in this [issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/887#note_1130386743), where it was shown that web visit TPs (not generally connected with a marketing activity) skew the data considerably.  
+
+Here is AMM's breakdown of how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping):    
 
 #### Touchpoint Generation Methods
-The touchpoint generation process answers the question, “How is Bizible going to know that this occurred?” Depending on your feature set and the types of interactions your prospective customers can have, there are up to three ways Bizible can pick up on an interaction and create a touchpoint to represent it.
+The touchpoint generation process answers the question, “How is AMM going to know that this occurred?” Depending on your feature set and the types of interactions your prospective customers can have, there are up to three ways AMM can pick up on an interaction and create a touchpoint to represent it.
 
 | Type of Interaction                 | Example                                                                                       | Touchpoint Generation Method                                                                                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Online, on your site(s)             | Form fill                                                                                     | Bizible JavaScript                                                                                                                                                |
-| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership synced to Bizible, by setting the Campaign Sync Type directly in the campaign or by setting rules on the Campaigns page in Bizible. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
-| Sales activity                      | Outbound call by SDR                                                                          | CRM Activity (Task or Event) record synced to Bizible, through logic on the Activities page in Bizible                                                            |
+| Online, on your site(s)             | Form fill                                                                                     | AMM JavaScript                                                                                                                                                |
+| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership synced to AMM, by setting the Campaign Sync Type directly in the campaign or by setting rules on the Campaigns page in AMM. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
+| Sales activity                      | Outbound call by SDR                                                                          | CRM Activity (Task or Event) record synced to AMM, through logic on the Activities page in AMM                                                            |
 
 #### Touchpoint Mapping Methods
-The touchpoint mapping process answers the question, “Once this touchpoint’s been created, how is Bizible going to know what channel and subchannel it belongs to?” Each method of touchpoint generation has its own method of touchpoint mapping.
+The touchpoint mapping process answers the question, “Once this touchpoint’s been created, how is AMM going to know what channel and subchannel it belongs to?” Each method of touchpoint generation has its own method of touchpoint mapping.
 
 | Type of Interaction                  | Generation Method            | Mapping Method                                                                                                       |
 |--------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Online, on your site(s)              | Bizible JavaScript           | Through the Online Channels page in Bizible, by referencing UTM values, landing page, and referring page information |
-| Offline; Online, not on your site(s) | CRM Campaign membership sync or through the Marketo Programs Integration, through Marketo Program Rules | Through the Offline Channels page in Bizible, by referencing Campaign Type or the Marketo Program Channel Mapping|                                         |
-| Sales activity                       | CRM Activity sync            | Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page        |
+| Online, on your site(s)              | AMM JavaScript           | Through the Online Channels page in AMM, by referencing UTM values, landing page, and referring page information |
+| Offline; Online, not on your site(s) | CRM Campaign membership sync or through the Marketo Programs Integration, through Marketo Program Rules | Through the Offline Channels page in AMM, by referencing Campaign Type or the Marketo Program Channel Mapping|                                         |
+| Sales activity                       | CRM Activity sync            | Through the Online Channels page in AMM, by referencing the Campaign Name assigned on the Activities page        |
 
 
-There are two types of Bizible Touchpoints as explained below. 
+There are two types of AMM Touchpoints as explained below. 
 
-| Bizible Touchpoint (BT) | Bizible Attribution Touchpoint (BAT) |
+| Buyer Touchpoint (BT) | Buyer Attribution Touchpoint (BAT) |
 | ----- | ----- | 
 | Relates to the Lead, Contact, and Case Objects | Relates to the Contact, Account, and Opportunity Objects 
 | Does not relate to the Opportunity Object | Does not relate to the Lead Object |
-| Revenue is not associated to a Bizible Touchpoint |	Since a Bizible Attribution Touchpoint is associated to an Opportunity, all BATs have revenue associated to them |
+| Revenue is not associated to a Buyer Touchpoint |	Since a Buyer Attribution Touchpoint is associated to an Opportunity, all BATs have revenue associated to them |
 
-##### Sales Activity Tracking in Bizible
-Bizible looks at two key fields on a Task/Event to determine if a BT/BAT should be created for it, `Disposition` and `Type`. 
+##### Sales Activity Tracking in AMM
+AMM looks at two key fields on a Task/Event to determine if a BT/BAT should be created for it, `Disposition` and `Type`. 
 `Type` will become what system/activity category (IQM for example) created the touchpoint.
-`Disposition` is used by Bizible to determine when a touchpoint should be created.    
+`Disposition` is used by AMM to determine when a touchpoint should be created.    
 
-In an ideal scenario, all systems will use one of two options for the `Disposition`. Either `meaningful engagement/move to SAO` or `meaningful engagement` to tell Bizible when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
+In an ideal scenario, all systems will use one of two options for the `Disposition`. Either `meaningful engagement/move to SAO` or `meaningful engagement` to tell AMM when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
 `meaningful engagement/move to SAO` will be used when there was a quality engagement with the prospect and this lead to the creation of a SAO whereas `meaningful engagement` will be used when there was a quality engagement that did not lead directly to a SAO (such as a meeting that was useful, but didn't indicate the prospect was ready for a sales accepted opportunity).
 
 Example: Initial Qualifying Meetings (IQMs)
@@ -73,22 +75,22 @@ Ideally, `Quality Meeting` would be changed to the more generic, `menaingful eng
 #### Online
 Online channels are any channels that would be directly associated with your website or any integrated site – any display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
 
-Bizible touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
+Buyer touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
 
 #### Offline
 Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and they person took an action, they are offline touchpoints.
 
-Bizible touchpoints are created by dispositioning `Enable Bizible Touchpoints` field on the Salesforce Campaign as `Include only "Responded" Campaign Members` for these offline channels.
+Buyer touchpoints are created by dispositioning `Enable Bizible Touchpoints` field on the Salesforce Campaign as `Include only "Responded" Campaign Members` for these offline channels.
 
-[See progression statuses for the standard `Campaign Types` that will have offline bizible touchpoints enabled](/handbook/marketing/marketing-operations/#campaign-type--progression-status)
+[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/#campaign-type--progression-status)
 
 ## Attribution Models
 
 Marketing attribution is the process of assigning revenue credit to a marketing touchpoint. This is done by tracking a prospect’s entire customer journey, starting from their very first interaction with your company to when the deal closes. The revenue generated from the deal gets attributed back to the marketing touchpoints that drove the sale. The amount of revenue credit given to a touchpoint depends on how much that touchpoint influenced the customer’s purchasing decision.
 
-[Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is Bizible's breakdown of the major attribution models. 
+[Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is AMM's breakdown of the major attribution models. 
 
-**Note: GitLab uses a blended approach when it comes to attribution models. The Custom Attribution Model (Based on Bizible Machine Learning) is going to be used side-by-side the other attribution models in order to get us closer to the "true" attribution answer.**
+**Note: GitLab uses a blended approach when it comes to attribution models. The Custom Attribution Model (Based on AMM Machine Learning) is going to be used side-by-side the other attribution models in order to get us closer to the "true" attribution answer.**
 
 Below are the major attribution models that GitLab marketing uses of that list: 
 
@@ -112,12 +114,12 @@ Linear Attribution is the simplest and most all-encompassing of the multi-touch 
 
 ![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
 
-### Custom Attribution (Based on Bizible Machine Learning Algorithm)
-Custom Attribution based on the Bizible machine learning attribution model uses our touchpoint data to calculate how much attribution weighting should be assigned to each stage. This is determined by how important each stage was in driving deals to close. 
+### Custom Attribution (Based on AMM Machine Learning Algorithm)
+Custom Attribution based on the AMM machine learning attribution model uses our touchpoint data to calculate how much attribution weighting should be assigned to each stage. This is determined by how important each stage was in driving deals to close. 
 
 **How is the Machine Learning model Calculated?**
 
-Bizible calculates the importance of each custom stage by using the touchpoint data from our account. The criteria used to determine the importance of each stage are:
+AMM calculates the importance of each custom stage by using the touchpoint data from our account. The criteria used to determine the importance of each stage are:
 
 - **Model Accuracy:** If we build a predictive model with the touchpoint data to predict whether we will win a deal eventually, how accurate will the model be? Higher predictive accuracy means that the details of this stage correlates more with whether a deal will close
 - **Conversion Rate:** If Leads or Opportunities at this certain stage convert to the next stage at a high rate, this suggests that the marketing activities that occurred at this stage didn't matter very much. Conversely, if a certain stage converts to the next stage at a low rate, this can suggest that the marketing activities that occurred at this stage were influential in driving the conversion.
@@ -166,7 +168,7 @@ The Checksum is to combine the IACV of both opportunites ($10,000+$15,000=$25,00
 
 Note: If the IACV of the opportunity/opportunities is/are negative, then the resulting `Weighted Linear IACV` and final linear IACV of the campaign(s) could be negative. 
 
-## Bizible Channel and Sub-Channel Mapping
+## AMM Channel and Sub-Channel Mapping
 
 ### Online Channel Mapping
 The channels and sub-hannels are mapped based on 5 attributes: 
@@ -178,7 +180,7 @@ The channels and sub-hannels are mapped based on 5 attributes:
 
 These rules are hierarchical and will operate in a top-down fashion, so the first rule is checked and then the second, and so on.
 
-**Note: Bizible reprocesses your data when you edit the mapping logic, so you won’t be able to change these rules more than once every 7 days.**
+**Note: AMM reprocesses your data when you edit the mapping logic, so you won’t be able to change these rules more than once every 7 days.**
 
 | Channel        | Sub Channel        | Campaign                   | Medium                             | Source                             | Landing Page                              | Referring Website        |
 |----------------|--------------------|----------------------------|------------------------------------|------------------------------------|--------------------------------------------|--------------------------|
@@ -240,7 +242,7 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 ### Bucket Channel Mapping
  These channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns. The `Bucket Mapping` is a high-level grouping of each subchannel set to allow for additional reporting.:
 
-| Bizible Channel.SubChannel | Bucket Mapping | Online/Offline | Type of Marketing                                                                                                                                                                                          |
+| AMM Channel.SubChannel | Bucket Mapping | Online/Offline | Type of Marketing                                                                                                                                                                                          |
 |----------------------------- | -------------- | -------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Content.Content Syndication | Inbound Paid | Offline | White Paper or other content offer that is hosted by a third party.                                                                                                                                         |
 | Content.Gated Content | Inbound Paid | Offline | White Paper or other content offer.                                                                                                                                                                               |
@@ -284,30 +286,30 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Trial.Trial | Trial | Online | SaaS Trials                                                                                                                                                                                                                        |
 | Web Referral | Inbound Free Channels | Online | Referral from any site not otherwise defined                                                                                                                                                                      |
 
-## Bizible Attribution with Pathfactory
+## AMM Attribution with Pathfactory
 **Asset Viewed**
 
-A Bizible touchpoint will be created, based on the [Content Engagement Time Threshold](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/4945). If the *known* user spends the required amount of time on a PathFactory asset, a script in the backend will be executed, pushing the event to Bizible. 
+A buyer touchpoint will be created, based on the [Content Engagement Time Threshold](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/4945). If the *known* user spends the required amount of time on a PathFactory asset, a script in the backend will be executed, pushing the event to AMM. 
 
 A touchpoint will only be generated if the user has accepted the `Cookie Policy` and is identified by PathFactory via the `lb_email` parameter. 
 
-Bizible parses the referral URL it receives for: `utm_medium`, `utm_campaign`, `utm_source`.
+AMM parses the referral URL it receives for: `utm_medium`, `utm_campaign`, `utm_source`.
 
 **Form Fill**
 
-Similarly to asset views, upon a successfull form submission on a PathFactory asset, a Bizible touchpoint will be created.
+Similarly to asset views, upon a successfull form submission on a PathFactory asset, a buyer touchpoint will be created.
 
 
 **Downloaded Asset**
-When an asset is downloaded on a PathFactory track, a Bizible touchpoint is being generated by the backend script.
+When an asset is downloaded on a PathFactory track, a buyer touchpoint is being generated by the backend script.
 <!-- This diagram is to be used internally and with Pathfactory to understand the attribution touchpoints created through our setup of Pathfactory listening campaigns and how the tracks are used in integrated campaigns and other tactics that drive straight to pathfactory.
 
 <div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Bizible Online an Offline Touchpoints with Pathfactory</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1597182505968-5f331229ffb2423070d75f73-4b73eb23-af5f-435c-8bd1-8181147a68af.png?v=c974be40-95fe-4d07-b865-12e38e430e73) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1597182505968/6c8778e0d022161c22d9a3530e47a110e6cd5ef0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> </div>
 !-->
 
-## Bizible in SFDC
-### [Bizible] SFDC Campaigns
-These are part of Bizible's native and automatic functionality. Bizible will for every channel and subchannel, create a generic `[Bizible]` campaign within SFDC in order to attribute touchpoints.
+## AMM in SFDC
+### [AMM] SFDC Campaigns
+These are part of AMM's native and automatic functionality. AMM will for every channel and subchannel, create a generic `[Bizible]` campaign within SFDC in order to attribute touchpoints.
 
 But these are not official campaigns, that is why there are no members, but the touchpoints will reference these campaigns for use in reporting and analytics.
 
@@ -334,7 +336,7 @@ Training Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbmqYu7WFOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Bizible Review Process
+## AMM Review Process
 
 ### Online Channel Mapping
 
@@ -356,13 +358,9 @@ The review of the campaign sync rules, the rules that govern the creation of tou
 - Under CRM > Campaigns ensure the rules setup are still up-to-date and accurate. Run a test on any campaigns that are not tracking properly.
 - Publish any changes we make to retroactively update the touchpoints.
 
-### Bizible Person ID Deduplication
+### AMM data updates
 
-A Bizible Person ID is created for each lead/contact in our database. In the unfortunate situation in which duplicate leads get created in our database, it will also result in duplicate Bizible Person IDs which may or may not skew the data depending on the touchpoints we have on those Bizible Person IDs. 
+To view all AMM data related updates please visit the [marketing changelog spreadsheet](https://docs.google.com/spreadsheets/d/1FHiKhQukMVfwKsBJDzyrsuzuw2bv97xQFhegvFXTeNQ/edit#gid=613524344). All updates are documented there along with additional information like the date of the update, level of impact and the type of the change. 
 
-Our data cleanliness effort takes this into consideration and deduplicates our database, taking care of the duplicate leads and contacts in the system. 
 
-Removing the duplicate leads and contacts does not automatically result in the elimination of duplicate BP IDs, however this can be achieved through custom object deduplication with Ringlead of the Bizible Person object. 
-
-To view the proper order of operations when it comes to deduplication and to find out more information on this topic please visit the [Ringlead handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 

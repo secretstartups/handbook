@@ -33,11 +33,12 @@ The team is split into 3 main pillars, click on them below for additional inform
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/source/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:170px;margin:5px;">Awareness & Consideration</a>
-    <a href="/handbook/source/handbook/marketing/marketing-operations/conversion-expansion" class="btn btn-purple" style="width:170px;margin:5px;">Conversion & Expansion</a>
-    <a href="/handbook/source/handbook/marketing/marketing-operations/marketing-enablement" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Enablement</a>
+    <a href="/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:170px;margin:5px;">Awareness & Consideration</a>
+    <a href="/handbook/marketing/marketing-operations/conversion-expansion" class="btn btn-purple" style="width:170px;margin:5px;">Conversion & Expansion</a>
+    <a href="/handbook/marketing/marketing-operations/marketing-enablement" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Enablement</a>
   </div>
 </div>
+
 
 
 | Person | Role |
@@ -58,11 +59,13 @@ The team is split into 3 main pillars, click on them below for additional inform
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
 <div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
-    <a href="/handbook/marketing/corporate-marketing" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Marketing</a>
-    <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
-    <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Portfolio Marketing</a>
-    <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
+    <a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrated Marketing</a>
+    <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
+    <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Developer Relations</a>
+    <a href="/handbook/marketing/growth/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Growth</a>
+    <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strategy & Analytics</a>
+    <a href="/handbook/marketing/revenue-marketing/sdr/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
+    <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
 </div>   
 
 <div class="flex-row" markdown="0" style="height:80px">
@@ -72,12 +75,8 @@ The team is split into 3 main pillars, click on them below for additional inform
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
     <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
-    <a href="/handbook/marketing/channel-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel and Alliances Marketing</a>
-    
-</div>  
-
-<div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/support/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Support</a>
+
 </div>
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
@@ -457,33 +456,22 @@ Status in the table below means:
 | Trial - Enterprise | trial | In-product or web request for self-managed Enterprise license | Active |
 | Trial - GitLab.com | trial | In-product SaaS trial request | Active |
 | Web | inbound |  | Active |
-| Web Chat | inbound | Engaged with us through website chat bot | Inactive |
-| Consultancy Request | inbound |  | Active |
 | Drift | inbound |  | Active |
 | Request - Community | inbound |  | Active |
 | Request - Public Sector | inbound |  | Active |
-| Startup Application | inbound |  | Active |
 | Other | Other |  | Active |
 | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
-
-
-
 | LinkedIn | outbound |  | Active |
 | Prospecting | outbound |  | Active |
 | Prospecting - General | outbound |  | Active |
-
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
 | Zoominfo | outbound | Sourced by SDR/BDR/AE/SAL/ASM | Active |
 | Cognism | outbound | Sourced by SDR/BDR | Active |
-
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
-
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
-| Promotion | paid demand gen |  | Active |
 | Virtual Sponsorship | paid demand gen |  | Active |
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
-
 | Channel Qualified Lead | referral| GitLab partner sourced, previously `partner`| Active|
 | Word of Mouth | referral |  | Active |
 | Existing Client | referral |  | Active |
@@ -495,6 +483,16 @@ Status in the table below means:
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
 | GitLab Subscription Portal|Signed up for customers portal account, but did not upgrade|Active|
 |Free Registration|core| Sign up via Free User registration|Active|
+|Paid Social|inbound|Sourced from Paid Social Campaigns|Active|
+
+| Source | Source Bucket | Definition and/or transition plan | Status* |
+| ------ | ------------- | --------------------------------- | ------- |
+| Web Chat | inbound | Engaged with us through website chat bot | Inactive |
+| Startup Application | inbound |  | Inactive |
+| Consultancy Request | inbound |  | Inactive |
+| Promotion | paid demand gen |  | Inactive |
+
+
 
 ### A Note About Trials
 
