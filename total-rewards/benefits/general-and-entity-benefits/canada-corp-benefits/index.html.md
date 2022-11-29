@@ -204,9 +204,11 @@ Employer contributions are made to the federal Canada Pension Plan (CPP).
 GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements). Vacation time runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
 ## Sick Pay
-Ontario - Team members who have been employed by GitLab for at least two consecutive weeks are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
- 
-Quebec - The Act Respecting Labour Standards (ALS) provides for two days of paid absence per calendar year (January 1 to December 31). This leave runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
+Canada Corp - Team members who have been employed by GitLab are entitled to 10 days per year, 3 days after the first month of employment. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
+
+Ontario - Team members who have been employed by GitLab for at least two consecutive weeks are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab Sick Time. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked. 
+
+Quebec - The Act Respecting Labour Standards (ALS) provides for two days of paid absence per calendar year (January 1 to December 31). This leave runs concurrently with GitLab Sick Time. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
 
 Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv.qc.ca/fr/showdoc/cs/N-1.1) prévoit deux jours d'absence rémunérée par année civile (du 1er janvier au 31 décembre). Ce congé s'exécute simultanément avec les règles de congé de GitLab. Les employés doivent désigner tout congé de maladie par la catégorie «Out Sick» dans PTO par Roots, pour s'assurer que le droit aux congés de maladie annuels est correctement suivi.
 
@@ -348,7 +350,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
   
 <summary>Québec</summary>
 
-The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` and then submit the time off request by selecting the appropriate option in PTO by Roots. If you do not feel comfortable submitting your time away in PTO by Roots, the Absence Management team can enter your time off in BambooHR on your behalf.  More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
 
@@ -411,7 +413,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 * Team Members should select `Out Sick` in PTO by Roots.
 
 
-The following leave types **do not** run concurrently with GitLab PTO:
+The following leave types **do not** run concurrently with GitLab time away policies (PTO, Sick Time):
 * [Occupational disease](https://www.cnesst.gouv.qc.ca/en/procedures-and-forms/workers/work-accident-or-occupational-disease/occupational-disease)
 * [Work accident](https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/accidents-and-illnesses)
 
@@ -421,7 +423,7 @@ The following leave types **do not** run concurrently with GitLab PTO:
   
 <summary>British Columbia</summary>
 
-* The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
+* The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in PTO by Roots. If you do not feel comfortable submitting your time away in PTO by Roots, the Absence Management team can enter your time off in BambooHR on your behalf.  
 
@@ -481,7 +483,7 @@ More information on these leave entitlements can be found on the [Government of 
   
 <summary>Alberta</summary>
 
-The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in PTO by Roots. If you do not feel comfortable submitting your time away in PTO by Roots, the Absence Management team can enter your time off in BambooHR on your behalf.  
 
@@ -540,7 +542,7 @@ More information about these leave types can be found on the [Government of Albe
 
 <summary>Manitoba</summary>
 
-The following statutory leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. 
+The following statutory leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in PTO by Roots. If you do not feel comfortable submitting your time away in PTO by Roots, the Absence Management team can enter your time off in BambooHR on your behalf.
 
