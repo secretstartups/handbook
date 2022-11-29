@@ -35,12 +35,12 @@ A: GitLab will conduct a formal greenhouse gas inventory in 2023. [Click here](h
 
 **Q: Has GitLab set a Science Based Target (SBT)?**
 
-A: Not yet. GitLab will conduct a formal greenhouse gas inventory in 2023. This inventory will inform our current emissions and where there are opportunities for reductions. 
+A: Not yet. GitLab will conduct a formal greenhouse gas inventory in 2023. This inventory will measure our current emissions and help us identify opportunities for reductions. 
 
 
 **Q: Does GitLab track employment by gender and ethnicity?**
 
-A: Yes, [view the most recently identity data](https://about.gitlab.com/company/culture/inclusion/identity-data/). 
+A: Yes, [view the most recent identity data](https://about.gitlab.com/company/culture/inclusion/identity-data/). 
 
 **Q: Does GitLab set goals to increase diversity?**
 
