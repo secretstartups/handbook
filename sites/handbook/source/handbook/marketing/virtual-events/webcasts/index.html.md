@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Webcasts
-description: An overview of webcasts at GitLab, including processes for Zoom and BrightTALk.
+description: An overview of webcasts at GitLab, including processes for Zoom and On24.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
@@ -25,16 +25,16 @@ twitter_creator: "@gitlab"
 # Overview
 {: #overview .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-There are four types of GitLab-hosted webcasts and workshops using the Zoom webcast license and BrightTALK, with differing DRIs depending on the webcast goal and owner.
+There are four types of GitLab-hosted webcasts and workshops using the Zoom webcast license and On24, with differing DRIs depending on the webcast goal and owner.
 
-* **[Top-Funnel Campaign Webcasts](/handbook/marketing/virtual-events/webcasts/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **BrightTALK**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
-* **[Partner Webcasts](/handbook/marketing/virtual-events/webcasts/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **BrightTALK**, teaming with Partners to drive registration together
+* **[Top-Funnel Campaign Webcasts](/handbook/marketing/virtual-events/webcasts/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **On24**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
+* **[Partner Webcasts](/handbook/marketing/virtual-events/webcasts/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **On24**, teaming with Partners to drive registration together
 * **[Virtual Workshops](/handbook/marketing/virtual-events/webcasts/#virtual-workshops):** goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, using hands-on labs with demo environment, capped registration, managed by Field Marketing in **Zoom**
 
 ## Campaign Webcasts
 {: #campaign-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Campaign webcasts are managed, moderated, and executed by the Campaigns Team in BrightTALK, focusing on use case, competitive, and other overarching campaign messaging.
+Campaign webcasts are managed, moderated, and executed by the Campaigns Team in On24, focusing on use case, competitive, and other overarching campaign messaging.
 
 ### Submitting a campaign webcast idea
 {: #campaigns-webcast-idea .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -102,14 +102,14 @@ Create a [webcast idea issue](https://gitlab.com/gitlab-com/marketing/demand-gen
 ## Partner Webcasts
 {: #partner-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Partner webcasts are managed and moderated by Partner Marketing, working closely with partner counterparts, with techincal setup (Marketo, SFDC, BrightTALK) by Campaign Managers.
+Partner webcasts are managed and moderated by Partner Marketing, working closely with partner counterparts, with techincal setup (Marketo, SFDC, ON24) by Campaign Managers.
 
-### Checking BrightTALK webcast calendar for partner webcast dates
+### Checking On24 webcast calendar for partner webcast dates
 {: #bt-partner-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request) in the campaigns project.
 *  Please put the target LIVE date of the webcast as the due date
-*  Campaign Managers will triage the date against [the (COMING SOON) BrightTALK webcast calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to make sure there is no overlapping virtual event that has been pre-scheduled
+*  Campaign Managers will triage the date against [On24 webcast calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to make sure there is no overlapping virtual event that has been pre-scheduled
 *  If the suggeted date is feasible and does not over-saturate the calendar, the speaker(s) have been secured, the campaign manager will change the status label from `status:plan` to `status:wip`, and close out the date check issue
 *  Once the campaign manager confirms the date in the issue, the webcast owner may begin creation of the epic and related issues, requesting work of relevant teams
 
@@ -248,7 +248,7 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
 {: #technical-demo-series .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Technical demos are aligned with the GTM Motions and cover a range of topics relevant to leads in consideration & purchase stages.  
-Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / BrightTalk Platforms with an option for Q&A. 
+Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / On24 Platforms with an option for Q&A. 
 
 **Primary goal:**
 * Accelerate MQL > SAO conversion
@@ -277,10 +277,10 @@ The following landing pages combining technical demos and workshops are being ma
 ## Adding your webcasts into the calendar
 {: #add-to-calendar .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### BrightTALK Webcast Calendar
+### On24 Webcast Calendar
 {: #bt-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled BrightTALK webcasts and their related dry runs. **The purpose of the BrightTALK webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all BrightTALK webcasts.**
+The Campaigns Team manages the [On24 webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled On24 webcasts and their related dry runs. **The purpose of the On24 webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all On24 webcasts.**
 
 **Adding to the calendar:**
 1. Add tentative webcasts to the calendar with `[Hold]`
@@ -292,7 +292,7 @@ The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.go
    * Add the time of the webcast on the calendar event (if it is still an all-day event)
    * Add the epic link, and remove the issue link, in the calendar description
    * Add all presenters (internal GitLab team members and external speakers)
-   * Add BrightTALK login information for presenters
+   * Add On24 login information for presenters
 
 ### Zoom Webcast Calendar
 {: #zoom-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -310,27 +310,28 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Once the date/time of the webcast has been confirmed, go to your calendar event and remove `Hold` from the event title `[WC Hosted] Webcast title` (e.g: `[WC Hosted] Mastering CI`). Specify the time on the calendar event and swap the issue link in the calendar description with the Epic link. *Note: In the spirit of efficiency, please be sure to add all presenters (GitLab team members and external speakers), the epic or issue (if you have one) and your Zoom invite info to the calendar invite so you're not having to create multiple calendar invites.*
 1. Make sure to also add dry runs to the webcast calendar. When creating the webcast dry run event(s), please use the following naming convention `[DR WC Hosted] Webcast title` (e.g: `[DR WC Hosted] Mastering CI`) and specify the date/time on the calendar event.
 
-## BrightTALK Webcasts
+## On24 Webcasts
 {: #brighttalk .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Quick Links
 {: #bt-quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* [BrightTALK Support Portal](https://support.brighttalk.com/hc/en-us)
-* [BrightTALK Academy](https://business.brighttalk.com/academy/)
+* [Dedicated On24 handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/)
+* [On24 Support Portal](https://on24support.force.com/Support/s/article/ON24-Contact-Support)
+* [On24 Knowledge Center](https://on24support.force.com/Support/s/knowledge)
 
-### Types of BrightTALK Webcasts
+### Types of On24 Webcasts
 {: #bt-types} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* **TALK (Live):** traditional live webcast with live speakers and Q&A.
-   - Pre-event registration takes place
-   - The event automatically converts to on-demand upon completion
-* **RP (Replay)**: recorded webcast that appears to be hosted live
-   - Pre-event registration takes place
-   - At time of webcast, a recording is played. There is no live Q&A (technically), but it is best to do a mock Q&A and inform attendees that any questions will be individually addressed after the webinar, allowing for seamless follow up by SDRs.
-   - The event automatically converts to on-demand upon completion
-* **VD (Video)**: essentially an on-demand webcast acting as content syndication into the BrightTALK channel
-   - No pre-registration
+* **Live Audio and Video (with Screen Share)**: This option is known as the Video Presenter Bridge. Multiple presenters can present a live webcast event using Webcam, PC Microphone, or Dial-in. Live screen share is also available to presenters if they wish to share their screen during the presentation.
+* **Live Audio (no Screen Share)**: Multiple presenters can present a live event using the telephone. Presenters will dial into the ON24 presenter phone bridge for the live webinar. Live screen share is not available with this event type.
+* **Broadcast Video**: Choose this option to incorporate broadcast quality video into your live events. This option requires video encoding gear external to Webcast Elite. The Broadcast Video option is available at an additional cost and will need to be enabled for your account.
+* **Simu-live**: Choose this option if you wish to pre-record your entire event and deliver it to a live audience at a designated date and time. You can interact with the live audience through written Q&A during playback of the pre-recorded presentation. The event will end immediately after the pre-recorded playback has ended.
+  - Simu-lives must be created in advance. No changes can be made two hours before the scheduled live time. 
+* **Simu-live with Rollover to Live Audio**: Also known as Sim-2-live, provides presenters the opportunity to address comments and questions verbally with a live audience once the pre-recorded presentation is done playing. For this event type select, Simu-live then enable the Rollover to Video and Audio toggle under Main Details.
+* **Recurring Simu-live**: Provides an efficient option to create one event and run it multiple times for recurring presentations such as daily demos, weekly campaign presentations, etc.  Attendees can choose the date they wish to attend. All registrant and attendee data will roll up into a single report.
+* **On Demand**: Choose this option to create a pre-recorded On Demand event. There is no interaction with a live audience.
+  
 
 
 ---

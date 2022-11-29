@@ -26,7 +26,7 @@ At GitLab, we believe everyone can contribute. Because nearly anyone with an int
 </figure>
 
 We have 4 separate Google calendars to manage different types and platforms of virtual events in GitLab:
-* [GitLab-Hosted BrightTALK Webcasts](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [GitLab-Hosted On24 Webcasts/Workshops](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [GitLab-Hosted Zoom Webcasts/Workshops](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Self-service](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [External/Sponsored Virtual Events](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
@@ -128,7 +128,7 @@ This is the same format as a self-service event, except **Campaigns Team** will 
 ### Webcast
 {: #webcast}
 This is a GitLab-hosted virtual event with `Webcast` type configuration, which **requires registration** to enable Marketo sync. There are two tech platforms used for webcasts (based on the audience/goal):
-* BrighTALK (Campaigns Team): goal is net new customer acquisition, aligned to campaign motions to drive MQLs in target accounts and broader prospect database. No cap to registration, requires registration on BrightTALK.
+* On24 (Campaigns Team): goal is net new customer acquisition, aligned to campaign motions to drive MQLs in target accounts and broader prospect database. Requires registration on On24.
 * Zoom (Field Marketing): goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, aligned to campaign motions. Capped registration at 1000 attendee, requires registration on Marketo landing page.
 
 [Webcast handbook](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
