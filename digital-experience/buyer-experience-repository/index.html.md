@@ -96,5 +96,51 @@ The [README.md](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer
 
 See [/docs/deployments.md](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/docs/deployments.md).  
 
+### Changelog File and Semantic Versioning
 
+The [CHANGELOG.md](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/CHANGELOG.md) is a file that contains the information of the changes made to the repository on
+every new version release. In our case, we are releasing a new version per iteration running a job at the end of it. 
+
+Every new release will create a tag in the [repository's tag list](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tags) and it is named using [Semantic Versioning](https://semver.org/).
+
+#### Why is it useful?
+
+There are two main advantages of having this process in the project. 
+
+The first one is having versioning tags, sometimes it is necessary to make a rollback to a previous version 
+due to a critical bug or an unexpected error. Each of these tags has a pipeline that can be run to deploy any version needed. 
+
+The second advantage is that having a `Changelog` file, there is a single source of truth and a history of every MAJOR, MINOR and PATCH version, 
+making it easier to find any change without having to go back and search the project's board of past iterations.
+
+#### How it works?
+
+In order to accomplish the `changelog` automated updates, tag creation and version management, we are using [semantic-release](https://semantic-release.gitbook.io/semantic-release/), 
+which is a package that helps automate the whole process and has great community of developers behind it. The specific configuration and technical details can be found in the [docs](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/docs/semantic-release.md).
+
+A manual/scheduled pipeline job will be run at the end of each iteration cycle, in order for `semantic-release` to detect correctly how to increase the release version, it needs `Merge commits` to follow the guidelines from [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary).
+
+Here is the list of types that can be used in the commit message:
+
+- **build**: Changes that affect the build system 
+- **chore**: Changes to external dependencies (gulp, npm)
+- **ci**: Changes to our CI configuration files and scripts (gitlab-ci)  
+- **docs**: Documentation only changes  
+- **feat**: A new feature  
+- **fix**: A bug fix  
+- **perf**: A code change that improves performance  
+- **refactor**: A code change that neither fixes a bug nor adds a feature  
+- **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)  
+- **test**: Adding missing tests or correcting existing tests
+
+Here are some commit message examples and how they affect the version increase:
+
+| Message | Version increase (v1.0.0) |
+|---------|---------------------------|
+| `fix(Homepage): Fix broken link` | v1.0.1 |
+| `feat(Homepage): Add new section` | v1.1.0 |
+| `feat(Services)!: Replace services module` | v2.0.0 |
+| `style(Homepage): Change button colors` | No version increase |
+
+After running the job, a new tag is created, the changelog file is updated and the `package.json` version is increased.
 
