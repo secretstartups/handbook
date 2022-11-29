@@ -52,7 +52,7 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 
 ### Customer Success Manager (CSM)
 - Trusted strategic advisor to the customer
-- [Responsible](/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
+- [Responsible](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
    - Onboarding
    - Success Planning 
    - Stage adoption & expansion
@@ -61,7 +61,7 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
    - Renewal Discussions
 - Leads regular cadence calls and keeps the customer collaboration projects up-to-date
 - Maintains Gainsight records of customer health and triaging as necessary
-- Account escalation point of contact for [High or Critical Escalations](/customer-success/csm/escalations/)
+- Account escalation point of contact for [High or Critical Escalations](/handbook/customer-success/csm/escalations/)
 
 ## Account Team Meetings
 
