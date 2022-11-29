@@ -86,8 +86,7 @@ We empower how people work by providing thought leadership on remote work which 
 1. Guidance and coaching on [how to use open source contributions to build resumes and network](https://thenewstack.io/the-opportunity-of-open-source-to-create-opportunities-for-others/){:data-ga-name="open source opportunities"}{:data-ga-location="body"}
 1. Participation in internship programs such as [Outreachy](/blog/2021/04/15/outreachy-sponsorship-winter-2020/){:data-ga-name="outreachy"}{:data-ga-location="body"} and [Google of Summer Code](https://summerofcode.withgoogle.com/organizations/4961424868114432/){:data-ga-name="Google of summer code"}{:data-ga-location="body"}: .
 1. [Engineering Internships](/handbook/engineering/internships/){:data-ga-name="engineering internships"}{:data-ga-location="body"} at GitLab
-1. [Engineering mentoring and coaching programs](/handbook/engineering/#mentorship-and-coaching-programs){:data-ga-name="mentoring and couching"}{:data-ga-location="body"} for GitLab team members
-1. [Be the bridge program](/company/culture/inclusion/be-the-bridge-program/){:data-ga-name="be the bridge"}{:data-ga-location="body"}  
+1. [Engineering mentoring and coaching programs](/handbook/engineering/#mentorship-and-coaching-programs){:data-ga-name="mentoring and couching"}{:data-ga-location="body"} for GitLab team members 
 1. [GitLab Learn](https://gitlab.edcast.com/) courses which can create pathways for targeted groups (for example, career transitioning or new to Open Source)
 
 ### DevOps Platform
