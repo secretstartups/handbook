@@ -91,7 +91,7 @@ Learn more about the [GitLab AppSec Inventory](./inventory.html).
 [3]: /handbook/security/security-engineering-and-research/application-security/vulnerability-management.html
 [4]: /handbook/security/security-engineering-and-research/application-security/stable-counterparts.html
 [5]: /handbook/security/security-engineering-and-research/application-security/runbooks
-[6]: /job-families/engineering/application-security/index.html
+[6]: /job-families/security/application-security/
 [7]: https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics
 [8]: https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit

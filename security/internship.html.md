@@ -11,7 +11,7 @@ description: "he ultimate goal of this program is to transform an entry-level ca
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-The **Security** internship is the result of [The Engineering Internship Pilot Program](/handbook/engineering/internships/) that started at the end of 2019. The ultimate goal of this program is to transform an entry-level candidate into an Individual Contributor who could meet the requirements for a [Security Engineer](https://about.gitlab.com/job-families/engineering/security-engineer/).
+The **Security** internship is the result of [The Engineering Internship Pilot Program](/handbook/engineering/internships/) that started at the end of 2019. The ultimate goal of this program is to transform an entry-level candidate into an Individual Contributor who could meet the requirements for a [Security Engineer](https://about.gitlab.com/job-families/security/security-engineer/).
 
 ## OKRs for the Internship
 
@@ -54,8 +54,8 @@ The **Security** internship is the result of [The Engineering Internship Pilot P
 
 ## Roles
 
-- [Security Manager](https://about.gitlab.com/job-families/engineering/security-leadership/) - Manager
-- [Senior Security Engineer(s)](https://about.gitlab.com/job-families/engineering/security-engineer/#senior-security-engineer) - Mentor(s)
+- [Security Manager](https://about.gitlab.com/job-families/security/security-leadership/) - Manager
+- [Senior Security Engineer(s)](https://about.gitlab.com/job-families/security/security-engineer/#senior-security-engineer) - Mentor(s)
 - Security Intern
 
 ## Responsibilities
