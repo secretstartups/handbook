@@ -93,4 +93,4 @@ The following process allows you to view usage data for all servers with a given
 ### References
 
 - [Troubleshooting: Licenses](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#licenses)
-- [Changing License Owner (Contact Support)](https://about.gitlab.com//handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#how-do-i-change-the-license-owner-for-self-managed-instances-with-licensegitlab)
+- [Changing License Owner (Contact Support)](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#how-do-i-change-the-license-owner-for-self-managed-instances-with-licensegitlab)
