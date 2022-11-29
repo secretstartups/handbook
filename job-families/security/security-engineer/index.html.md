@@ -332,7 +332,7 @@ Security Assurance Engineers enable Sales by achieving standards as required by 
 
 *  Please refer to the [Security Assurance ](https://about.gitlab.com/handbook/security/security-assurance/) page for additional information.
   - [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
-  - [Field Security](https://about.gitlab.com/job-families/engineering/field-security/)
+  - [Field Security](https://about.gitlab.com/job-families/security/field-security/)
   - [Security Risk](https://about.gitlab.com/job-families/security/security-risk/)
   - [Security Governance](https://about.gitlab.com/job-families/security/security-governance/)
 
