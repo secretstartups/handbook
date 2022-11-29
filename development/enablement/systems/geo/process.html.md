@@ -204,8 +204,9 @@ If an issue is assigned a weight of 10, then the issue is too big and will need 
 
 If any issue is weighted above a 3, we should ask ourselves if it can be further broken down. We should do this even if the issue was already broken out from an even larger issue.
 
-### Bug Triage
+### Bugs Process
 
+#### Bug Triage
 Every month, a Geo engineer is assigned to be the DRI for triaging issues labeled as `bug`. A different backend engineer is assigned to triage rotation each month and we schedule monthly shifts 3 to 6 months in advance.
 
 Process summary:
@@ -216,24 +217,27 @@ Process summary:
         1. If you are awaiting feedback from an issue author, assign yourself and apply the `awaiting feedback` label.
         1. If the author has not provided feedback at the end of your rotation, re-assign the issue to the next triager. If there is still no reply at the end of the next triager's rotation, that person may close the issue or assign to the EM or PM for further action.
     1. Attempt to reproduce the bug if verification is needed.
-    1. Attempt to fix the bug if it meets the following criteria.
-        1. A weight less than 2, regardless of severity.
-        1. Severity of 1 or 2.
-    1. If the bug requires further investigation or implementing the fix will require significant effort, the DRI should:
-        1. Determine whether a workaround for the issue exists and document it.
-        1. Apply a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) label based on the impact of the bug and feasibility of any workarounds.
-        1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
+    1. Determine whether a workaround for the issue exists and document it.
+    1. Apply a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) label based on the impact of the bug and feasibility of any workarounds.
+    1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
 1. At the end of the month, the triage DRI will schedule a hand off meeting with the next triage DRI to cover any ongoing issues and any strategies for dealing with the backlog of issues.
 
 Expectations:
-- The DRI should spend 3-5 hours per week on triage/verification and a maximum of 20% work time (about 1 day per week) on resolving bugs.
+- The DRI should spend 3-5 hours per week on triage/verification.
 - If the DRI is unable to perform triage responsibilities due to PTO, they are expected to find a backup or notify the EM to find a backup.
 
-#### Bug Triage Schedule
+##### Schedule
 
 | Month     | Name |
 | -------   | ---- |
+| **2023**  |      |
+| April     | [`@ibaum`](https://gitlab.com/ibaum) |
+| March     | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
+| February  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| January   | [`@brodock`](https://gitlab.com/brodock) |
 | **2022**  |      |
+| December  | [`@vsizov`](https://gitlab.com/vsizov) |
+| November  | -- |
 | October   | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | September | [`@brodock`](https://gitlab.com/brodock) |
 | August    | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
@@ -244,18 +248,17 @@ Expectations:
 | March     | @cat |
 | February  | @dbalexandre |
 | January   | @mkozono |
-| **2021**  |      |
-| December  | @dbalexandre |
-| November  | @vsizov |
-| October   | @ibaum |
-| September | @aakriti.gupta |
-| August    | @vsizov |
-| July      | @mkozono |
-| June      | @dbalexandre |
-| May       | @mkozono |
-| April     | @dbalexandre |
-| March     | @mkozono |
-| February  | @alexives |
+
+#### Bug Resolution
+
+Resolving bugs is an ongoing team effort. Every iteration should start with every team member picking a bug from the backlog and assigning it to themselves. 
+
+The backlog is composed of bugs in the [Geo Build board](https://gitlab.com/groups/gitlab-org/-/boards/1181257?label_name[]=geo%3A%3Aactive) with the label `~workflow::ready for development`. Higher priority bugs will also be highlighted in the iteration's [Geo Outlook Issues](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/?search=geo%20outlook&sort=created_date&state=all&first_page_size=100) created by the PM every month.
+
+The commitment is to resolve at lest 1 bug per team member per iteration. It is encouraged that team members focus on resolving their monthly bug before moving on with other tasks. They should also exercise judgement about possibly taking more than 1 bug, depending on the size of the backlog and the severity of the open bugs.
+
+When in doubt, team members should communicate with the PM, the EM or the Bug Triage DRI in rotation to select a bug for resolution.
+
 
 ## Retrospectives
 
