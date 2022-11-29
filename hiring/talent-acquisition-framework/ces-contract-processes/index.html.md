@@ -42,7 +42,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
 | GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
-| GitLab South Korea | Jess Dallmar. Backup: Dale Brown, Craig Mestel | 
+| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
 | GitLab Singapore PTE. LTD. | Dale Brown|
 | LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
