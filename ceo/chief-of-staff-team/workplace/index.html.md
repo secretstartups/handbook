@@ -66,7 +66,27 @@ The team's KR is defined within [GitLab CEO's OKR](/company/okrs/fy23-q4/#okrs).
 
 In Q4-FY23, our KR is: **Certify at least 100 GitLab team members and 1 person in each department as TeamOps Trainer: Level 1**
 
-Requirements for TeamOps Trainer: Level 1
+## TeamOps Trainer
+
+[TeamOps](/teamops/) is how GitLab works. It is an operations model that helps teams maximize productivity, flexibility, and autonomy by managing decisions, information, and tasks more efficiently.
+
+TeamOps Trainers are team members who are internal champions of GitLab’s values, operating principles, and ways of working, inclusive of all functions and departments. They aspire to mentor and share with others GitLab’s ways of working, both inside and outside of the organization.
+
+A TeamOps Trainer transitions through three stages of TeamOps understanding. 1) Recall => 2) Apply => 3) Teach 
+
+In Q4-FY23, we are hosting TeamOps Trainer Pilot Workshops. 
+
+The purpose of the first version of this program is to collect feedback and resources as part of a larger go to market strategy, including: 
+- Focus Group – Content testing, feedback, and iteration as beta test before TeamOps is released to the public market with a more formal sales strategy. 
+- Content/Model Prototyping – Test the viability of creating a network of TeamOps representatives for future phases of TeamOps growth. (“Train the Trainer”)
+- Content Creation – Scale content related to TeamOps by empowering all of GitLab to contribute blog posts and social threads.
+
+Creation of and participation in this program also supports the [FY23-Q4 OKR to Grow Careers](https://about.gitlab.com/company/okrs/fy23-q4/) of GitLab team members. 
+
+Apply to become a TeamOps Trainer and learn more about the program in [this GitLab issue](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cos-team/-/issues/305).
+
+
+Requirements for [TeamOps Trainer: Level 1](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cos-team/-/issues/305)
 1. Complete the [TeamOps practitioner course](https://levelup.gitlab.com/learn/course/teamops)
 1. Be able to answer questions (interview by existing trainer)
 1. Enthusiastic presentation of about 3-5 minutes on advantages of TeamOps on YouTube (GitLab Unfiltered)
