@@ -116,6 +116,11 @@ See also when and how to request a [security review](../../../security/#internal
 
 The test plan template has a risk column dedicated to security, however, whether or not a test plan is not created, it is essential that a discussion about security risks takes place as early as possible.
 
+### Test Coverage
+
+The Quality Department has coverage to support different test scenarios. More information is available on our
+[Test Coverage](/handbook/engineering/quality/quality-engineering/test-coverage/) page.
+
 ### Test Coverage Tracking
 
 We are currently evaluating using GitLab mechanics to track test coverage in [gitlab-org/quality/testcases](https://gitlab.com/gitlab-org/quality/testcases/issues).
