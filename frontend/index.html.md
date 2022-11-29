@@ -24,8 +24,8 @@ title: "Frontend Group"
 You can find engineers with expertise in various frontend domains on the engineering 
 projects page under the following sections:
 
-- [GitLab maintainers with domain expertise](/engineering/projects/#gitlab_maintainers_frontend)
-- [GitLab reviewers with domain expertise](/engineering/projects/#gitlab_reviewers_frontend)
+- [GitLab maintainers with domain expertise](/handbook/engineering/projects/#gitlab_maintainers_frontend)
+- [GitLab reviewers with domain expertise](/handbook/engineering/projects/#gitlab_reviewers_frontend)
 
 You can reach out to these experts to get help on:
 
