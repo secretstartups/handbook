@@ -328,7 +328,6 @@ In order to arrive at a final observation risk rating, the likelihood and impact
   </tr>
 </tbody>
 </table>
-</details>
 
 Observation risk ratings play a key role in determining the Control Health and Effectiveness rating of a controls health. See the [Control Health and Effectiveness Rating (CHER) handbook page](https://about.gitlab.com/handbook/security/security-assurance/control-health-effectiveness-rating.html) for details on CHER and how to establish a CHER rating.
 
@@ -371,8 +370,8 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 
-## Contact
+## Contact & Feedback
 
-If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team](https://about.gitlab.com/handbook/security/security-assurance/#contacting-the-team)
+If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team](https://about.gitlab.com/handbook/security/security-assurance/#contacting-the-team), or comment in this [feedback issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/issues/943). 
 
 
