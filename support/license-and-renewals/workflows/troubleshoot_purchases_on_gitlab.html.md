@@ -34,6 +34,10 @@ We use an Issue to [document any issues](https://gitlab.com/gitlab-com/support/t
 Attempt to [locate the specific Sentry error event](#finding-an-error-message-in-sentry) logged for the user **making the purchase**. 
 Please note that sometimes the ticket submitter might not be the user making the purchase.
 
+## Get the error from GitLab.com Kibana logs
+Attempt to [locate the logs in Kibana](/handbook/support/workflows/kibana.html#gitlab.com-purchase-errors) for the user **making the purchase**. 
+Please note that sometimes the ticket submitter might not be the user making the purchase.
+
 **NOTE:** If you are unable to locate any error messages, check that the known issues do not apply to the user before requesting them to re-attempt the purchase.
 
 ## Check whether the user's account has only one name (no surname)

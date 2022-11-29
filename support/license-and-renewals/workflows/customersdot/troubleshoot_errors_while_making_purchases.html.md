@@ -40,7 +40,17 @@ To find the error specifically related to a customer on sentry, try the followin
    - Open sentry issue → Click on `EVENTS`
    - Use customer email to search for the relevant event
 
+## Getting error messages from CustomersDot Kibana logs
+
+You can access the CustomersDot production logs or staging logs in [Kibana](https://log.gprd.gitlab.net/) by filtering using `prdsub*` or `stgsub*` respectively.
+
+To have an idea on how to use and search Kibana, review the [Support Workflow's Kibana](/handbook/support/workflows/kibana.html) page.
+
+For purchase attempts made on CustomersDot, refer to the tips under [CustomersDot purchase errors in Kibana](/handbook/support/workflows/kibana.html#customersdot-purchase-errors).
+
 ### Getting error messages from GCP Logs Explorer
+
+**Note:** CustomersDot logs can be found in Kibana -- see [Getting error messages from CustomersDot Kibana logs](#getting-error-messages-from-customersdot-kibana-logs).
 
 Official Google Documentation for Logs Explorer is found at https://cloud.google.com/logging/docs/view/logs-explorer-interface.  It's helpful to review these docs to gain an understanding of building search queries for more advanced searching.
 

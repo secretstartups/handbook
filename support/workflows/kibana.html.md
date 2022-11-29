@@ -260,3 +260,33 @@ If no error is found and the import is partial, most likely it is a timeout issu
 #### Correlation Dashboard
 
 If you found a Correlation ID that is relevant for your troubleshooting, you can utilize the correlation dashboard to quickly view all related components across indices without having to search each individual index. You can get to the correlation dashboard by navigating to `Analytics > Dashboard` in Kibana and typing in `correlation dashboard`. Once you view the dashboard, simply click on the `json.correlation_id` filter and enter in your found correlation ID. It will then search across web, workhorse, sidekiq, and gitaly indices.
+
+#### Purchase Errors
+
+Kibana can be used to search for specific errors related to a purchase attempt. Since purchases can be made either in GitLab.com or [CustomersDot](https://customers.gitlab.com/customers/sign_in), it is important to determine which system a customer was using to make the purchase; then use the tips specific to the system below. **Note:** the ticket submitter might not be the customer making the purchase.
+
+#### GitLab.com purchase errors
+
+**Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup).
+
+1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
+1. Ensure the `pubsub-rails-inf-gprd-*` index pattern (GitLab.com logs) is selected.
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter on `json.user.username` for the username of the account used to make the purchase.
+1. Add a positive filter on `json.tags.feature_category` for `purchase`.
+
+Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/a2f75d60-6cc9-11ed-85ed-e7557b0a598c` and just update the username value.
+
+**Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and just update the username value.
+
+#### CustomersDot purchase errors
+
+**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) on how to get the customer ID.
+
+1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
+1. Ensure the `pubsub-rails-inf-prdsub-*` index pattern (CustomersDot logs) is selected.
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter on `json.customer_id` for the username of the account used to make the purchase.
+1. Add a positive filter on `json.severity` for `ERROR`.
+
+Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/44969c50-6ccd-11ed-85ed-e7557b0a598c` and just update the value of `json.customer_id`. 
