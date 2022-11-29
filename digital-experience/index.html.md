@@ -396,7 +396,10 @@ From time to time, our team has objectives that require us to collaborate on the
 
 At the end of every sprint cycle, Digital Experience team members can spend 10% or one day to work on issues related to improving the health of about.gitlab.com, the developer experience, tackle tech debt, or improve our documentation.
 
-The structure of Repository Health Day is as follows: 1. Team members will choose what they wish to work on for this day. 1. Each team member will submit a single merge request to the [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui), [Navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), or [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) repository by the end of repository health day. 1. This merge request will be related to an issue from any partner or group within GitLab.
+The structure of Repository Health Day is as follows: 
+1. Team members will choose what they wish to work on for this day. 
+1. Each team member will submit a single merge request to the [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui), [Navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), or [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) repository by the end of repository health day. 
+1. This merge request will be related to an issue from any partner or group within GitLab.
 
 By allowing our team members to contribute to the health of our repositories for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for https://about.gitlab.com/. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better tech stack that is inclusive of the team members that use it everyday.
 
