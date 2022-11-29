@@ -20,7 +20,6 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 
 ## Upcoming Family and Friends Days
 
-1. 2022-11-18
 1. 2022-12-30
 1. 2023-01-13
 
@@ -58,6 +57,7 @@ Family and Friends Days have been held on these dates:
 1. 2022-08-29
 1. 2022-09-26
 1. 2022-10-07
+1. 2022-11-18
 
 ## FAQ about Family and Friends Day
 
