@@ -82,12 +82,49 @@ To contribute: Write a comment in the most current manager comms GitLab issue an
 To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r) and share on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with @kaylagolden.
 
 
+- **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
+
 - **GitLab Assembly:** Synchronous time to hear from GitLab leaders and answer team member questions
 
 To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group.
 
+## GitLab Assembly
 
-- **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
+GitLab Assembly is scheduled to take place in the weeks following each quarterly earnings call and gives team members synchronous time to hear from GitLab leaders and ask questions.  Assembly is a 40 minute meeting, consisting of ~25 mins content  and ~15 mins Q&A.
+
+To give global team members an opportunity to join live, there will be two live-hosted Assembly events each quarter, at 8 am PT (3pm UTC) and 5 pm PT (12am UTC).
+
+To produce each quarterly Assembly, the People Communications & Engagement DRI:
+1. Works with the EBA team to schedule a date six to eight weeks in advance
+1. Creates the agenda and sends out the Assembly calendar invite(s) to all team members after the earnings call date has been publicly announced
+1. Proposes a host and topics to be discussed in addition to CEO and CFO presentations
+1. Facilitates and secures People Leadership reviews and approvals of proposed host and topics
+1. Works with the CoS and CoS team to:
+    - Confirm timeline for E-Group content creation
+    - Align on CEO key messages and themes to present
+      - CoS team is DRI for CEO slide content 
+      - People Comms & Engagement DRI creates talk track
+    - Schedule and attend feedback sessions with the CEO
+1. Partners with the CFO, host, and additional speakers to create content for presentations.
+    - Drafts content as needed
+1. Compiles all content into deck and secures:
+    - People Leadership review and approval
+    - Legal review and approval
+1. Engages with the Digital Production team to secure resources for editing pre-recorded video content
+1. Records the CEO presentation and any additional pre-recorded content
+    - Uploads to Google Drive for the Digital Production team to access
+    - Transcribes video and timestamps transitions for the Digital Production team
+1. Facilitates and secures final review and approval of video content and deck by:
+    - People Leadership
+    - Legal
+1. Conducts a dress rehearsal with the host and live presenters, if desired by host and live presenters
+1. Joins Assembly meeting and records screen 
+    - Host leads meeting and moderates Q&A
+1. Submits recording to Video Production team to produce final recording
+1. Uploads final recording to Level Up
+1. Shares final recording in the next issue of While You Were Iterating
+1. Requests feedback from team members, People Leadership, and E-Group post-Assembly
+
 
 ## People Communications & Engagement Planning
 
