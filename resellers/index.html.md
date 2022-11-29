@@ -67,9 +67,9 @@ The GitLab Partner Program consists of two tracks to support the different ways 
 2. **Select –** In this track, partners make a greater investment in GitLab sales expertise, develop services practices around GitLab, and are expected to drive greater GitLab product recurring revenues. In return, Select partners have a dedicated Channel Sales Manager and greater investment, including access to Marketing Development Funds (MDF). **The Select track is by invitation only.**
 
 ### Getting Started with GitLab
-To engage with GitLab, partners start by completing the online Channel Partner registration process on [partners.gitlab.com](partners.gitlab.com) which leads partners through executing the GitLab Partner Agreement and getting access to our Partner Portal where partners complete their onboarding.
+To engage with GitLab, partners start by completing the online Channel Partner registration process on [partners.gitlab.com](https://partners.gitlab.com) which leads partners through executing the GitLab Partner Agreement and getting access to our Partner Portal where partners complete their onboarding.
 
-Execution of the Master Partner Agreement results in  access to the GitLab Partner Portal.  Other members of your team will be able to register and be associated with your account by registering at [partners.gitlab.com](partners.gitlab.com). At that time, you will  have access to sales tools, technical resources, and training courses. Once one member of your team completes the GitLab Sales Core training, your company will also be able to enter deal registrations and referral transactions.  
+Execution of the Master Partner Agreement results in  access to the GitLab Partner Portal.  Other members of your team will be able to register and be associated with your account by registering at [partners.gitlab.com](https://partners.gitlab.com). At that time, you will  have access to sales tools, technical resources, and training courses. Once one member of your team completes the GitLab Sales Core training, your company will also be able to enter deal registrations and referral transactions.  
 
 ## More Resources
 This page provides an overview of the Channel partner program, requirements, benefits. Additional information about our services, certifications and tools and resources can be found on the following pages:
