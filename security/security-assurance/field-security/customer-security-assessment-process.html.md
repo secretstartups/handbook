@@ -53,9 +53,14 @@ The Field Security Team also maintains the following resources for **GitLab Team
 <div class="flex-row" markdown="0" style="height:80px">
        <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=customer%20feedback" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Feedback</a>
        <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=internal%20feedback%20request" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Internal Feedback</a>
-       <a href="/handbook/security/security-assurance/field-security/answerbase.html" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">AnswerBase</a>
+       <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=cap_collateral_request" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Collateral Request</a>
+       <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=ad_hoc_field_security_request" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Ad Hoc Request</a>
 </div>   
 <br>
+
+### AnswerBase
+
+For information on how Field Security uses AnswerBase and how it can support your workflows, please visit our [AnswerBase](/handbook/security/security-assurance/field-security/answerbase.html) page.
 
 ### Feedback from Field Security
 
