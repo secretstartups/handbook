@@ -42,9 +42,7 @@ Price in each cell represents a rough order of magnitude based on number of user
 If you have more than 10,000 projects or 3000 users, please reach out to the Engagement Managers and they will work with you to provide a ROM estimate.
 
 ## My customer wants to proceed with PS for migrating to SaaS - what is the next step?
-After you've had initial conversations, if your customer wants to proceeed to further explore PS for migrating to SaaS, please initiate a scoping request via the [Services Calculator](https://services-calculator.gitlab.io/).  Enter the customer name, check the box for migration, then enter your GitLab username and your email address and click the `Create PS Scoping Issue` button.  
-
-![](services-calc.png)
+After you've had initial conversations, if your customer wants to proceeed to further explore PS for migrating to SaaS, please initiate a scoping request via the [Services Calculator](https://services-calculator.gitlab.io/).  Enter the customer name, your GitLab username, walk through a quick questionnaire to provide some additional information,and click the `Create PS Scoping Issue` button.  
 
 There will be a `<Customer Name> - Scope Issue and Write SOW` issue created by the calculator, as a child of an epic with the name of the customer.  That issue will have the information we need for scoping the customer engagement pre-populated as a table in the description (with the heading SSOT for "single source of truth").  Please fill in the appropriate fields in that table - bold font fields are required in order for us to scope the migration effort.
 
@@ -54,16 +52,15 @@ If the customer agrees to the estimate, and a conversation validates that the in
 
 ## Gathering data to help scope a migration
 There are a few questions GitLab uses to assist in the SM to SaaS transition process.   Two of those [questions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/#migration-scoping-details) require a Customer Admin to provide data to the GitLab team:
-1. How many GL repos are larger than 5GB approximately?
-    - GitLab provides a tool to gather data about the existing environment. Download and run the [Evaluate](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate#usage) and provide back to the account team a file of the output.  
-2. What is the typical container/package registry size of your projects?
-    - 
+    - 1. How many GL repos are larger than 5GB approximately?
+    - 2. What is the typical container/package registry size of your projects?
+
+GitLab provides a tool to gather data about the existing environment. Download and run the [Evaluate](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate#usage) tool with an admin token and provide all the [generated files](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate/-/blob/initial-branch/reading-the-output.md#breakdown-of-generated-files) back to the account team.
 
 ## Additional Selling Tools
 - See the [WIP - Selling Professional Services - SM to SaaS](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) Google slides presentation
 
 ## FAQ
-1. **Why doesn't PS provide the automate tooling for customers to use?**  GitLab Professional Services has plans to move the Congregate tool as to a public group to enable wider collaboration and contributions. However due to the complexity of migrations, the Congregate tool will still only be available to use for customers who engage with GitLab (or a certified channel partner) professional services. Even if Congregate were available to customers, the challenges with migrating to GitLab SaaS are not overcome by automation.  As a multi-tenant SaaS platform, end users are not allowed to have system-level administrator permissions on the platform.  This limits some of the scope of what can be migrated, even with automated tooling. Additionally, the Congregate tool in its current state requires custom configuration for each customer migration. 
 1. **Why are large repos so "expensive" to migrate?** The GitLab SaaS instance has a [hard limit Cloudflare 5GB file import/git push](https://docs.gitlab.com/ee/user/gitlab_com/#account-and-limit-settings). Any repo > 5 GB must be migrated manually via workarounds to remove large files and, in some cases, break the import into smaller pieces. These imports require significant effort so we can only manage 2 repo imports per day.
 1. **What can my customer do to make the migration easier and potentially reduce the PS engagement cost?**
    - Since large repos greatly increase the scope of PS efforts, customers should follow the guidance provided in the [Reduce Repository Size](https://docs.gitlab.com/ee/user/project/repository/reducing_the_repo_size_using_git.html) documentation to clean up their repositories prior to migration.
