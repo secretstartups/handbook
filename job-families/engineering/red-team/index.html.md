@@ -113,7 +113,6 @@ The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensat
 
 #### Principal Red Team Engineer Requirements
 * Includes [Staff-level requirements](#staff-red-team-engineer-requirements)
-* Profound knowledge of exploit techniques, and common TTPs 
 * Expert knowledge of one or more programming languages including architectural design, tooling, and cloud infrastructure usage
 * Extensive knowledge of offensive cloud security and common vulnerabilities
 * Passion for participation in the security community, demonstrated through published research and community involvement
