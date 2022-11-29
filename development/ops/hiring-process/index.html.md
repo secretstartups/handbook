@@ -49,10 +49,18 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
          1. Return to the previous step, and now you can **edit the list of Hiring Managers** and add them
 1. Ensure you have hiring manager access to the Evergreen Requisiton for your role
 
-### Step 4. Reviewing Candidates in Evergreen Reqs
+### Step 4. Reviewing Candidates
+
+#### Reviewing your Requisitions
+
+1. Review applications in the requisition you are the hiring manager for.
+1. If you are interested in a candidate, move them into the `Qualified` stage, where the TA will also review prior to setting up a screen.
+    1. :warning: TA is trialing Greenhouse automation with _some_ requisitions where candidates automatically receive an email to book a screen with them when they're moved into `Screening`. Please confirm with TA whether this automation is set up for your role.
+
+#### Reviewing Evergreen Requisitions
 
 1. Review applications in the applicable Evergreen requisition
-1. If you are interested in a candidate, move them into the Qualified stage and tag your TA to request a screening (see Step 6)
+1. If you are interested in a candidate, move them into the `Qualified` stage and **tag your TA to request a screening** (see Step 6)
     1. Note: Candidates will stay in the Evergreen requisition until they have completed screening and technical interviews, at which point they will be transferred to team-specific requisitions.
 1. **Do not reject applications** in the Evergreen requisition unless the applicant's location is a country where hiring is restricted 
 
