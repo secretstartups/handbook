@@ -71,8 +71,8 @@ Applies to all GitLab team-members, contractors, advisors, and contracted partie
 * System administrators need to enable password strength on third party applications and or tools, where applicable.
 * For applications where a password is the only source of authentication a password must be expired within a maximum of 90 calendar days.
 * Systems should monitor and log failed login attempts.
-* Authentication failed login attempts information needs to be recorded within the application logs such as: name, date, number of failed attempts, unique log identifier.
-* Repeated failed login attempts must trigger a temporary account lockout after 10 failed attempts. The lockout may end after a designated period of time, or require a manual unlock, depending on the profile of the application.
+* Authentication failed login attempts information need to be recorded within the application logs if technically feasible; such as: name, date, number of failed attempts, unique log identifier.
+* Repeated failed login attempts need to trigger a temporary account lockout after 10 failed attempts. If the particular system will not support lockout after 10 attempts or less, then lockout needs to be configured to the minimum value allowed by the system. The lockout may end after a designated period of time, or require a manual unlock, depending on the profile of the application.
 
 ### Two Factor Authentication
 
