@@ -151,9 +151,27 @@ Please review the **application rules** and **best practices** below:
 1. Wherever possible, use existing custom content fields and sub fields as opposed to creating new ones
 1. Review [TI support docs](https://support.thoughtindustries.com/hc/en-us/articles/360046307213-Using-Custom-Fields-vs-Curated-Categories) when questions arise
 
+### Publishing a course for internal team members
+
+1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
+1. Once in the course editor, in the `Content` page check all relevant changes have been published.
+1. Go to the `Design` page then `Edit Catalog Settings`. Add the `Internal` tag and click `Save`
+1. Your content is now visible in the internal catalogue. 
+1. You do not need to perform any actions on the `Release` page
+
 ### Share a course link with team members
 
 1. Add `https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=` immediately before a course link to direct users to the course page after signing in via SSO.
+
+### Publishing a course for external users
+
+Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe). The steps needed to publish a course externally are:
+
+1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
+1. Once in the course editor, in the `Content` page check all relevant changes have been published.
+1. Go to the `Design` page then `Edit Catalog Settings`. Add the `Public` tag and click `Save`
+1. Now go to the `Release` page. Click the `Release` button in the top right corner.
+1. Your content is now visible in the public catalogue.
 
 ### Share a course link with users external to GitLab
 
