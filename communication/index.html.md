@@ -1421,9 +1421,27 @@ Yerbo is a mental well-being tool that helps teams track burnout and monitor ris
 
 Read more about how GitLab combats [burnout, isolation, and anxiety in an all-remote workplace](/company/culture/all-remote/mental-health/).
 
-## Why are we upgraded to the Plus tier?
+## Frequently Asked Questions regarding why we upgraded to the Enterprise Grid Plan?
 
-We upgraded tiers to improve efficiency and security with the ability to use Okta to login into Slack. This will help us scale by improving provisioning and deprovisioning of our corporate systems. This upgrade will also allow us to improve the auditing requirements where identity management is in scope. The Plus tier also includes announcement only channels, 99.99% guaranteed up time, 24x7 support with guaranteed response in four hours or less, and the ability of [Corporate Export.](https://slack.com/help/articles/204897248)
+1. Why are we upgrading our Slack Workspace?
+     - Extend and strengthen Gitlab Values, Mission and Culture to Core Team while maintaining compliance as a publicly traded company
+     - Support customer engagement with Slack Connect channels for customer facing teams
+     - Expansion of user roles and additional admin features to reduce IT approval bottlenecks and expedite internal IT requests
+     - Leverage to enterprise compliance and security features to unlock trust across devices, teams, customers, and shareholders.
+1. How will I login to the new Workspace?
+     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile. 
+1. Will all the old channels and messages be available in the new Workspace?
+    - Yes, all channels and messages will be migrated with the Workspace. 
+1. How will the new workspace look different from the old one
+   - You will be able to see all your channels and messages as normal, except now you’ll see multiple workspaces. This environment design will help us better manage SAFE communication and data.
+1. Will external accounts (guest accounts) be migrated as well?
+   - Yes, all guest/partner accounts will be migrated to the new grid space. 
+1. Do I need to sign back into Slack after the migration or will I stay signed in?
+   - Yes, you may need to sign back into slack and possibly some of your applications will need re-authentication. 
+1. Will my Slack applications still work as expected. 
+   - Yes, we expect most if not all applications to work as expected after the migration with the exception of reauthorizations.
+1. Is there any changes with how GitLab Slack Admins can view/use Slack data?
+   - No, we were already on the Enterprise Select plan.
 
 ### When would GitLab use Corporate Export?
 
