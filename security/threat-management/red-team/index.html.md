@@ -22,7 +22,7 @@ This approach allows groups across GitLab to practice detecting and responding t
 
 The Red Team operates under a predefined set of [rules of engagement](./red-team-roe.html). The rules of engagement exist to inform GitLab's team members on how the team operates during engagements. It provides guidelines for determining scope, the ethics we employ during our engagements, how we collaborate as a security team, and how we escalate vulnerabilities and exploits we discover during those engagements.
 
-Further details can be found in the [job family description](/job-families/engineering/security-engineer/#red-team).
+Further details can be found in the [job family description](/job-families/security/security-engineer/#red-team).
 
 ## What the Red Team Does
 

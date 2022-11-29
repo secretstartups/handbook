@@ -21,7 +21,7 @@ that improve the coverage and usability of security logging data on GitLab.
 We manage, maintain, design, configure, and document the necessary tools,
 systems and processes to make that happen.
 
-Further details can be found in the [job family description](/job-families/engineering/security-logging/).
+Further details can be found in the [job family description](/job-families/security/security-logging/).
 ## <i class="fas fa-users" id="biz-tech-icons"></i> The Team
 
 ### Team Members

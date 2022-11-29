@@ -64,7 +64,7 @@ A member of the [Security Assurance](/handbook/security/security-assurance/) org
    * `security-compliance@gitlab.com`
 * [GitLab Security Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/compliance)
 
-* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/engineering/security-compliance/)!
+* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/security/security-compliance/)!
 
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 

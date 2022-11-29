@@ -65,4 +65,4 @@ We primarily work out of projects in our [Dedicated Compliance team subgroup](ht
    * `security-compliance@gitlab.com`
 * Here are our team's GitLab.com [subgroups and projects](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance)
 
-* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/engineering/security-compliance/#dedicated-markets)!
+* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/security/security-compliance/#dedicated-markets)!
