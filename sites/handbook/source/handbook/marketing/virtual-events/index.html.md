@@ -195,7 +195,7 @@ Currently, only the Campaigns Team team can run GitLab hosted virtual event with
 {: #promotion-self-service-no-promo}
 **If you have not yet identified if a self-service virtual event is the correct event type of event for you, please scroll to the top of this page to find out.**
 
-Please see the self-service virtual [event promotion guide](https://about.gitlab.com//handbook/marketing/virtual-events/self-service-virtual-events/) for best practice instructions on how to promote.
+Please see the self-service virtual [event promotion guide](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/) for best practice instructions on how to promote.
 
 ### Self-service with promotion
 {: #promotion-self-service}
