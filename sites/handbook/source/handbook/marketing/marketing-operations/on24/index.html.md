@@ -147,6 +147,7 @@ Click the globe icon in your webcast library or on the chain icon anywhere in an
 The Console Builder is at the heart of creating a custom webcast experience for your audience. The webcast console is what your audience will see when they attend your webcast. We currently have 2 console templates:
 1. `Standard event template`, which includes a media player, slides, Q&A, resources, and speaker bio modules
 1. `XL Media Player`, which is a media player with no slides. This template should be used if your presenter prefers to screenshare their slides, as opposed to uploading their deck into a separate module. This console also includes Q&A, resources, and speaker bio modules 
+Note we are sticking to using specific templates for the time being while we build out integrations and test platform capabilities vs team use case.
 
 Follow these steps to apply a console template:
 1. Click `Console Builder` from the left hand menu 
