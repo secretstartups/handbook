@@ -60,6 +60,10 @@ For documentation purposes, the following table was devised as a reference guide
 | Yes      | has an assignee    | Feel free to contribute however you see fit, having in mind the ongoing discussion (we don't want to repeat ourselves) |
 | Yes      | no assignee or OOO | You are strongly encouraged to take assignment, or at least reply to the customer to avoid further breach	         | 
 
+#### NRT breaches
+
+To avoid long running NRT breaches, Senior Support Engineers in the Ginkgo group are supposed to regularly review the NRT queue and drive breached tickets forward by starting a conversation on Slack.
+
 ### Daily Pairing Sessions
 
  - EMEA/AMER friendly pairing sessions are held every weekday from 15:30 to 16:30 UTC.
