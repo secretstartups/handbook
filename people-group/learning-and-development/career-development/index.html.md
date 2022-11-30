@@ -134,7 +134,7 @@ There are various internal opportunities to expand a team member's exposure to m
 
 1. Participation in a [Team Member Resource Group (TMRG)](/company/culture/inclusion/erg-guide/)
 1. Work on a [Working Group (WG)](/company/team/structure/working-groups/)
-1. Do an [apprenticeship](/handbook/engineering/career-development/#internship-for-learning) on another team
+1. Do an [apprenticeship](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) on another team
 1. Apply to do the [CEO shadow program](/handbook/ceo/shadow/) for two weeks
 1. When appropriate and possible, attending some of the staff meetings of the team members manager's manager
 
@@ -186,27 +186,27 @@ We recommend that, at any given time, each [team](/company/team/structure/#team-
 
 ### Skill of the Month
 
-In August 2021 we held a Career Development Skill of the Month. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
+In August 2021 we held a Career Development Skill of the Month. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month.
 
-#### Week 1 
+#### Week 1
 
 **Topic: Career Development for GitLab Team Members**
 
-1. [Career Development with Pattie Egan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-pattie-egan) 
-1. [Career Development with Darren Murph](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-darren-murph) 
+1. [Career Development with Pattie Egan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-pattie-egan)
+1. [Career Development with Darren Murph](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-darren-murph)
 
-#### Week 2 
+#### Week 2
 
-**Topic: Individual Growth Plan** 
+**Topic: Individual Growth Plan**
 
 1. [Career Development with Nicolas Dular](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-w-nicolas-dular)
-1. [Building an Individual Growth Plan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/building-an-individual-growth-plan) 
-1. [Using the Individual Growth Plan Interview](/handbook/people-group/learning-and-development/career-development/#gitlab-team-member-using-the-igp) 
-1. [Using the Achievement Tracker](/handbook/people-group/learning-and-development/career-development/#using-your-accomplishment-tracker) 
-1. [Using Epics to Track Career Development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) 
+1. [Building an Individual Growth Plan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/building-an-individual-growth-plan)
+1. [Using the Individual Growth Plan Interview](/handbook/people-group/learning-and-development/career-development/#gitlab-team-member-using-the-igp)
+1. [Using the Achievement Tracker](/handbook/people-group/learning-and-development/career-development/#using-your-accomplishment-tracker)
+1. [Using Epics to Track Career Development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development)
 1. Live Session: Individual Growth Plan: [Recording of call](/handbook/people-group/learning-and-development/career-development/#igp-live-learning)
 
-#### Week 3 
+#### Week 3
 
 **Topic: Having Career Conversations with Your Manager**
 
@@ -215,7 +215,7 @@ In August 2021 we held a Career Development Skill of the Month. All of the Async
 1. [Career Development with Brendan O'Leary](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-brendan-oleary)
 1. Live Session: Having Career Conversations with Your Manager: [Recording of call](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations-with-your-manager)
 
-#### Week 4 
+#### Week 4
 
 **Topic: Having Career Conversations with Your Team Members**
 
@@ -255,22 +255,22 @@ A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UsGlTOmM2DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Individual Growth Plan 
+### Individual Growth Plan
 
-The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
+The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth.
 
-If you aren't sure where to start or are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
+If you aren't sure where to start or are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning.
 
-Steps: 
+Steps:
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 1. Make a copy of the template + save to your drive
 1. Fill out the template. Refer to the [job frameworkds for ICs and managers](https://about.gitlab.com/company/team/structure/#job-frameworks) to help determine what skills to focus your development.
-1. Review with your manager 
-1. Start working towards your goals! 
+1. Review with your manager
+1. Start working towards your goals!
 
 #### GitLab Team Member Using the IGP
 
-The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development. 
+The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development.
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/0ih0lMoKxN0" frameborder="0" allowfullscreen="true"> </iframe>
@@ -279,18 +279,18 @@ The video below is an interivew with a GitLab team member who has used the Indiv
 
 #### IGP Live Learning
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline).
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/dJezH0ToqLk" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
-### Tracking your Accomplishments 
+### Tracking your Accomplishments
 
-Some people may call it a "brag sheet". Some call it a CREDIT Tracker. Either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
+Some people may call it a "brag sheet". Some call it a CREDIT Tracker. Either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics.
 
-Steps: 
+Steps:
 1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
 1. Make a copy + save to your drive
 1. Start filling it out (check out the video below for a walkthrough)
@@ -346,7 +346,7 @@ _Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.b
 
 ### Having Career Development Conversations with your Manager
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
@@ -356,9 +356,9 @@ The video below is a recording of the Live Learning that took place in August 20
 
 What do managers ask about when it comes to having career conversations with their teams? Watch the short question and answer videos below to learn more. Watch the full training from 2021-08 [here](https://www.youtube.com/embed/f1T2KKlrZCY).
 
-1. You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take? 
+1. You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take?
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 2. One of your direct reports has indicated they aren't interested in growing to the next level or developing further as they are happy in their current role. As their manager, what steps would you take?
@@ -373,7 +373,7 @@ What do managers ask about when it comes to having career conversations with the
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/MuXQcorCVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-5. A career conversation becomes emotional - what do you do? 
+5. A career conversation becomes emotional - what do you do?
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/sJRFS08V_-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -392,14 +392,14 @@ What do managers ask about when it comes to having career conversations with the
 
 #### Recomendations for Managers to support the learning of team members
 
-Managers should support their direct reports with their professional development goals. Implement the following into a [1-1](/handbook/leadership/1-1/), team meeting, or async communication to support your team. 
+Managers should support their direct reports with their professional development goals. Implement the following into a [1-1](/handbook/leadership/1-1/), team meeting, or async communication to support your team.
 
-1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
+1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
 1. Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
 1. Recommend (and model) blocking [time to learn during the work week](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign).
 1. Organize team specific and cross-functional learning communities to practice [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
-1. Model and share your own career and professional development pursuits. 
-1. Create a [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources. 
+1. Model and share your own career and professional development pursuits.
+1. Create a [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
 
 ### Career Development Conversation Acknowledgements
 
@@ -412,18 +412,18 @@ This process is just an acknowledgement by the team member that they have had ca
 * Once in Q2
 * Once in Q4
 
-The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly. 
+The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly.
 
-### Process 
+### Process
 
 _Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members._
 
 *  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
 *  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
-*  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22. 
-*  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.  
+*  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22.
+*  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.
 *  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
-*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._  
+*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>
@@ -433,7 +433,7 @@ _Please note that while managers can facilitate career development conversations
 ## E-Group Performance Enablement Review
 
 Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](/handbook/values/#credit), performance and personal development.
- 
+
 The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#).
 
 **Performance Factors**
@@ -444,8 +444,8 @@ The E-Group will follow a similar process to our GitLab team member process with
 
 **Compensation Reviews**
 
-When conducting compensation reviews for the E-Group, GitLab will review two items: 
-1. Alignment to market rates 
-1. Performance factors 
+When conducting compensation reviews for the E-Group, GitLab will review two items:
+1. Alignment to market rates
+1. Performance factors
 
 
