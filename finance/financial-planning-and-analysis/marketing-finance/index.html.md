@@ -24,21 +24,21 @@ title: "Marketing Finance"
  
 | Roll Up | Department | Name |
 | -------- | ---- | -------- |
-| Corporate Marketing | Awareness | @eaminzada |
-| Corporate Marketing | Brand Design | @eaminzada |
-| Corporate Marketing | Corporate Events | @rcallam |
-| Corporate Marketing | Brand Campaigns | @eaminzada |
-| Corporate Marketing | Communication | @rcallam |
-| Corporate Marketing | Community Relations | @eaminzada |
-| Corporate Marketing | Content | @eaminzada |
-| Corporate Marketing | Search Marketing | @eaminzada |
-| Product Marketing | Product Marketing | @eaminzada |
+| Brand & Product Marketing | Awareness | @eaminzada |
+| Brand & Product Marketing | Brand Design | @eaminzada |
+| Brand & Product Marketing | Brand Campaigns | @eaminzada |
+| Brand & Product Marketing | Content | @eaminzada |
+| Brand & Product Marketing | Search Marketing | @eaminzada |
+| Brand & Product Marketing | Product Marketing | @eaminzada |
+| Community Relations | Community Relations | @eaminzada |
 | Revenue Marketing | Sales Development| @rcallam |
-| Marketing Strategy and Ops | Digital Experience | @rcallam |
-| Marketing Strategy and Ops | Marketing Ops | @rcallam |
-| Marketing Strategy and Ops | Growth | @rcallam |
-| Marketing Strategy and Ops | Marketing Strategy and Analytics | @rcallam |
+| Growth | Growth | @rcallam |
+| Strategy, Operations, & Analytics | Marketing Ops | @rcallam |
+| Strategy, Operations, & Analytics | Marketing Strategy and Analytics | @rcallam |
 | CMO Executive | CMO Executive | @rcallam |
+| Corporate Comms | Communication | @rcallam |
+| Integrated Marketing | Digital Experience | @rcallam |
+| Integrated Marketing | Corporate Events | @rcallam |
 | Integrated Marketing | Digital Marketing | @rcallam |
 | Integrated Marketing | Partner Marketing | @rcallam |
 | Integrated Marketing | Campaigns | @rcallam |
@@ -51,9 +51,6 @@ Subscribe to Marketing Finance Dates Google calendar [here](https://calendar.goo
 
 | Date | DRI | Task | Detail |
 | -------- | ---- |  ---- |   ---- |
-| 2022-10-20 | Marketing Budget Owners | Oct Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in October, not invoice timing. Invoice timing can occur at anytime. |
-| 2022-10-21 | Finance | October AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
-| 2022-10-28 | Marketing Budget Owners | Finalized October AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
 | 2022-11-01 | Marketing Budget Owners | Q4 Plan due in Allocadia. | Adjust Allocadia Plan values for Nov, Dec, and Jan to represent the work that is occuring in Q4 |
 | 2022-11-21 | Marketing Budget Owners | Nov Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in November, not invoice timing. Invoice timing can occur at anytime. |
 | 2022-11-22 | Finance | November AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
@@ -61,6 +58,9 @@ Subscribe to Marketing Finance Dates Google calendar [here](https://calendar.goo
 | 2022-12-20 | Marketing Budget Owners | Dec Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in December, not invoice timing. Invoice timing can occur at anytime. |
 | 2022-12-21 | Finance | December AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
 | 2022-12-29 | Marketing Budget Owners | Finalized December AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
+| 2023-01-20 | Marketing Budget Owners | Jan Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in January, not invoice timing. Invoice timing can occur at anytime. |
+| 2023-01-23 | Finance | January AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
+| 2023-01-27 | Marketing Budget Owners | Finalized January AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
 
 ## Finance Terminology
  
@@ -98,6 +98,21 @@ You must spend your budget in the same quarter that it was originally allocated.
  
 If you have budget that you do not plan to spend in the quarter, you may reallocate these dollars to another Marketing department to spend within the same fiscal quarter. When this occurs, please get CMO approval, talk with your finance business partner, and then request a budget transfer in Allocadia.
  
+ ## Cancelled Events
+
+If an event that was budgeted for is cancelled for any reason, it is important to alert Finance and Accounting. Any cancellation fees that are known must be expensed in the month the event is cancelled, not the month the event was scheduled for. 
+
+#### If GitLab will owe a non-refundable cancellation fee or deposit of any amount:
+* Alert your Finance Business Partner when the cancellation discussion starts - not when it is decided. This will allow your FBP to start a thread with the GL team and ensure GitLab is expensing it correctly.
+* If fees are not yet known or negotiations are ongoing, it is still required to loop in your FBP.
+* GitLab must expense any cancellation fees when the cancellation is decided - not when announced or when the event would have taken place.
+* Update your Allocadia forecast to reflect the fees owed in the month the cancellation was decided.
+* In Allocadia - remove the forecasted amount in the original month of the event.
+
+#### If GitLab will NOT owe a cancellation fee of any amount:
+* Alert your FBP of the cancellation so that the dollars can be reallocated.
+* In Allocadia - remove the forecasted amount from Allocadia.
+
 ## Sponsorships
  
 If you bring in revenue through sponsorships during a GitLab event, please do the following:
