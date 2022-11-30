@@ -32,7 +32,7 @@ graph TD
 
 ## Career Mobility issue creation
 
-One a People Connect Team member runs the career mobility command through Slack, this triggers a pipeline in the `employment` project, which will run the job `transition`, and reply with a link to the newly created Career Mobility issue.
+Once a People Connect Team member runs the career mobility command through Slack, this triggers a pipeline in the `employment` project, which will run the job `transition`, and reply with a link to the newly created Career Mobility issue.
 
 The issue will be automatically assigned to the following people:
 
