@@ -26,9 +26,9 @@ The rest of the tools are for active engagement by the Team Member along with th
 
 ### Big Picture Career Conversation
   * Managers should endeavor to have a bigger picture career conversation at least once to set the tone and direction for subsequent Quarterly Checkpoints. There are many ways to have career conversations, and no one way will be a great fit for all team members, so use your best judgment in what type of framework to apply to each of your direct reports. It can be as simple as "Have you set any career goals for yourself?"
-  
+
   * Here is one example of a big picture framework to guide the conversation in cases where team members could use some coaching:
-    1. "Tell me about yourself; what's important to you?" 
+    1. "Tell me about yourself; what's important to you?"
       - The goal in this section is to get to know your DR's path to how they arrived here, with the specific purpose of uncovering what matters most to them. Ask further questions, especially around pivotal moments or choice points. What had them choose this thing over that? At the end of this conversation you should crystallize 3-4 core values and confirm that these feel accurate.
     2. "What do you see yourself doing at the pinnacle of your career?"
       - The goal in this section is to capture their highest aspirations, at GitLab and beyond. This can be challenging to answer for some people who have never been asked this before. You can prompt them by asking further questions like:
@@ -86,7 +86,7 @@ While there is no time-boxing for level progress, the company does operate on a 
 
 ## Interning with Infrastructure / Reliability Engineering
 
-Cross reference for [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning)
+Cross reference for [Internship for Learning](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
 
 There is a reasonable amount of interest to intern with Infrastructure so we wanted to put a brief landing section in the handbook.  If you are interested in interning with Infrastructure, we would ask that you talk to your current manager and create an issue per the mentioned process.  This can help us track who is helping on what and what they would like to learn.  Mention the Reliability Engineering team members and managers to help us know you are interested.  One note, in some cases, you may need to submit access-requests to get access to certain systems to help with work.
 
@@ -101,7 +101,7 @@ Specific ways to work in the internship:
 3.  Shadow the Delivery team to learn more about how we release to GitLab.com
 
 ## Staff+ IC Gearing in Infrastructure
-GitLab Engineering employs a gearing method for determining the reporting relationship and number of Staff+ roles, generally referred to as [Staff+ IC Gearing Ratios](/handbook/engineering/career-development/#Staff+-IC-Gearing-Ratios). 
+GitLab Engineering employs a gearing method for determining the reporting relationship and number of Staff+ roles, generally referred to as [Staff+ IC Gearing Ratios](/handbook/engineering/career-development).
 
 ### Site Reliability Teams IC Gearing
 The IC Gearing policy does not require any documentation for use of the default 1:1 ratio of Staff Engineer to team. However, to ensure clarity, the SRE teams within Infrastructure will use this default ratio, providing an opportunity for a Staff Engineer to be a part of each SRE team. As Infrastructure continues to grow and add more teams, additional opportunities for Staff level SRE leaders will be created.
