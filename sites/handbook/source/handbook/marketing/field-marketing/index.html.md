@@ -791,7 +791,7 @@ This deck should also be used to present the regional plans to the sales teams.
 In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed. 
 
 ### Marketing Calendar 
-Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/Marketing-Finance/#important-dates) in Allocadia, the Director of Field Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar). 
+Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Director of Field Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
 If any dates change after the upload has happened the FMC will make the date update within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
