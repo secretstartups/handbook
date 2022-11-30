@@ -819,7 +819,7 @@ What we have seen with previous challenges during the Release Post Assembly stag
 
 - Review the output of the assembly script including git status
 - Consider running ./bin/doctor and review the output
-- Reference the [list of previous problems](/manual-release-post-kickoff/#possible-script-errors-with-corrective-actions)
+- Reference the [list of previous problems](/handbook/marketing/blog/release-posts/manual-release-post-kickoff/#possible-script-errors-with-corrective-actions)
 
 Following your best judgement with the resolution of the incident, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
