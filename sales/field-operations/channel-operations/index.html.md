@@ -398,7 +398,9 @@ To process a Partner Sourced Deal Registration for a resale opportunity, follow 
    ![8-Approve_Deny_Details.png](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
    - Both the registration record and the opportunity record will be updated with the approval information.
-7. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
+7. If you created a new opportunity during this process (see step 4 above), `Opportunity Owner` will need to be updated:
+  - If the customer account is assigned to a SAL/AE, update `Opportunity Owner` to the SAL/AE who owns the customer account using the Change Opportunity Owner button; or,
+  - If the customer account is not yet assigned to a SAL/AE, chatter @sales-support and request that `Opportunity Owner` and customer account be assigned to a SAL/AE.
 8. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.
   - The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote.
  
@@ -423,8 +425,10 @@ To process a Partner Sourced Deal Registration for an MSP opportunity, Channel A
    ![8-Approve_Deny_Details.png](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - Distributor field should be left blank as MSP opportunities are direct between MSP partner and GitLab.
    - Both the registration record and the opportunity record will be updated with the approval information.
-6. Manually change the `Account Name` field to the partner account. This should **not** be the customer account.
-7. If you created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the correct Sales Rep that owns the end-user account, even though the opportunity is created under the MSP partner account.
+6. Manually change the `Account Name` field to the partner account. This should **not** be the MSP end-user (i.e., customer) account.
+7. If you created a new opportunity during this process (see step 4 above), `Opportunity Owner` will need to be updated:
+  - If the MSP end-user account is assigned to a SAL/AE, update `Opportunity Owner` to the SAL/AE who owns the MSP end-user account using the Change Opportunity Owner button; or,
+  - If the MSP end-user account is not yet assigned to a SAL/AE, chatter @sales-support and request that `Opportunity Owner` and MSP end-user (i.e., customer) account be assigned to a SAL/AE.
 8. Connect the GitLab Sales Rep to the MSP Partner Rep so they can discuss and align on opportunity and quote details.
 9. Provide [Deal Desk MSP quoting](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#msp-quotes) and [internal Partner Program discounting](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) guideline links to the GitLab Sales Rep so they have the details necessary to create a quote.
 
@@ -448,9 +452,11 @@ To process a Partner Sourced Deal Registration for a referral opportunity, follo
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
    ![8-Approve_Deny_Details](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
-7. Both the registration record and the opportunity record will be updated with the approval information.
-8. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
-9. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.  
+   - Both the registration record and the opportunity record will be updated with the approval information.
+7. If you created a new opportunity during this process (see step 4 above), `Opportunity Owner` will need to be updated:
+  - If the customer account is assigned to a SAL/AE, update `Opportunity Owner` to the SAL/AE who owns the customer account using the Change Opportunity Owner button; or,
+  - If the customer account is not yet assigned to a SAL/AE, chatter @sales-support and request that `Opportunity Owner` and customer account be assigned to a SAL/AE.
+8. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.  
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
