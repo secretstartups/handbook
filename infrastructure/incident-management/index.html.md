@@ -433,9 +433,10 @@ Definitions and rules for transitioning state and status are as follows.
 | **State** | **Definition** |
 | ----- | ---------- |
 | Investigating | The incident has just been discovered and there is not yet a clear understanding of the impact or cause. If an incident remains in this state for longer than 30 minutes after the EOC has engaged, the incident should be escalated to the Incident Manager On Call. |
+| Active | The incident is in progress and has not yet been mitigated.  **Note:** Incidents should not be left in an `Active` state once the impact has been mitigated |
 | Identified | The cause of the incident is believed to have been identified and **a step to mitigate has been planned and agreed upon**. |
 | Monitoring | The step has been executed and metrics are being watched to ensure that we're operating at a baseline. If there is a clear understanding of the specific mitigation leading to resolution and high confidence in the fact that the impact will not recur it is preferable to skip this state. |
-| Resolved | The incident is closed and status is again Operational. |
+| Resolved | The impact of the incident has been mitigated and status is again Operational. Once resolved the incident can be [marked for review](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#incident-review-process) and [Corrective Actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#corrective-actions) can be defined.|
 
 Status can be set independent of state. The only time these must align is when an issues is
 
