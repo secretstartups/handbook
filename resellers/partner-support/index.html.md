@@ -87,6 +87,25 @@ _These links are useful to share with authorized reseller partners who already h
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
 </details>
 
+## Partner Insights
+The Partner Help Desk team provides ["Partner Insight"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slides to Channel Managers for help with preparing for QBRs and other executive meetings. These insights are intended to help Channel Managers identify what is going well so it can be replicated, as well as address opportunities for improvement. 
+
+### Requesting a Partner Insight
+To request a Partner Insight deck, chatter `@Partner Help Desk` on the partner account record and provide the date the Partner Insights deck is needed. This will open a case for the Partner Help Desk, and will be claimed by a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
+
+Once the deck is completed, PHD will attach a PDF file to the partner account and then chatter the Channel Manager with the Partner Insight link. The deck is complete, but the Channel Managers are able to update the deck if they wish. 
+
+### Partner Insight Details
+- Currently, only Select Partners are eligible for Partner Insights.
+- Each partner will only get one Partner Insight per quarter. A second request within the same quarter will be denied. 
+- Bulk requests for Partner Insights must be requested by posting in the #channel-programs-ops Slack channel. A minimum of two weeks notice is requested for bulk requests. 
+- Channel Managers are free to request a walk-through with PHD to go over the Partner Insight deck, if they would like. 
+- Customization of a Partner Insight is not currently available. Only the out-of-the-box slide deck is available. 
+- Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
+
+
+### Partner Insights Details
+
 
 ## NFR Licenses
 Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Help Desk. They should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
