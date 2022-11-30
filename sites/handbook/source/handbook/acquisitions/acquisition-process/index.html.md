@@ -15,7 +15,7 @@ our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitio
 
 ## Acquisition process
 
-The process is comprised of four key stages:
+The process is comprised of five key stages:
 
 1. Pipeline Building
 1. Exploratory
@@ -51,8 +51,8 @@ The process is comprised of four key stages:
 
 1. Select [code name](#acquisitions-are-confidential) to use instead of target company name. Update Slack channel: `#project-code_name`.
 1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
-1. [Form the acquisition team](#acquisition-team) and add entire team to the channel and documents.
-1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
+1. [Form the acquisition team](#acquisition-team) and add the entire team to the channel and documents.
+1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale and a successful integration process. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary diligence - below is a list of documents to share with GitLab:
     1. Financials:
         1. Cap table
@@ -104,7 +104,7 @@ The process is comprised of four key stages:
             1. Walkthrough of the architecture and the mechanisms of the product
             1. Review the code repositories and practices
             1. Start discussing the technical aspects of a potential path for the integration
-        1. Internal notes of the call should be recoreded in the Technical Evaluation Google Doc
+        1. Internal notes of the call should be recorded in the Technical Evaluation Google Doc
     1. Founder technical interviews - founders will go through two rounds of interviews to assess technical and cultural alignment.
 1. Resume review - Review of all employee resumes
 1. Compensation review to identify any gaps and possible flags led by the HR Business Partner
@@ -112,7 +112,7 @@ The process is comprised of four key stages:
     1. The key technical employees are those identified as critical to the success of the acquisition, the proposed integration plan and the future of the team at GitLab post integration.
 1. An Application Security Review performed by GitLab's Application Security Team
     1. Identifies application vulnerabilities that need to be considered by GitLab by applying a threat modeling approach to conduct the review
-1. Product integration strategy: the GitLab product and engineering acquisition champions will formalize the integration strategy with a focus on feature sets/functionalities:
+1. Integration - a key component of post-transaction integration is the product integration strategy: prior to closing of the transaction, the GitLab product and engineering acquisition champions will formalize the integration strategy with a focus on feature sets/functionalities:
     1. What we keep as-is
     1. What we reimplement in GitLab
     1. What we discard/EOL
@@ -121,15 +121,15 @@ The process is comprised of four key stages:
     1. Barriers for implementation
     1. Deal Milestones:
         1. We aim to set 3 milestones at 2, 4 and 6 months from joining GitLab, to provide a concise set of goals which should cover the bulk of our product interest in the target company
-        1. Milestones should be articulated as objectives as opposed to tasks. The structure of defining milestones should resemble that of OKRs, with each milestone having an objective and then a few key results which will are required to achieve the objetive. This will help target companies focus on driving the objectives and not be tied to, and concerned with, a specific task as changes are likely to occur once integration work starts. The milestones outline the objectives to facilitate the work required in achieving the roadmap advancement the deal was identified with delivering. Each milestone should be broken down to the keys required to complete in order to achieve success for the milestone's objective.
+        1. Milestones should be articulated as objectives as opposed to tasks. The structure of defining milestones should resemble that of OKRs, with each milestone having an objective and then a few key results which will are required to achieve the objective. This will help target companies focus on driving the objectives and not be tied to, and concerned with, a specific task as changes are likely to occur once integration work starts. The milestones outline the objectives to facilitate the work required in achieving the roadmap advancement the deal was identified with delivering. Each milestone should be broken down to the keys required to complete in order to achieve success for the milestone's objective.
         1. First milestone shipped within 60 days of joining GitLab:
-            1. Accounting for 3 weeks of onboarding, targets will ship the first milestone 5 weeks following the onboarding period
+            1. Accounting for 3 weeks of onboarding, targets will ship the first milestone 5 weeks following the end of the onboarding period
             1. Critical to adopting our culture and successful future integration of the target's engineering team in GitLab
             1. Allows us to show early fruits of the acquisitions soon, aligned with our value of iteration
-        1. Integrated within 6 months:
+        1. Product is integrated within 6 months:
             1. 6 months is an optimal timeframe which allows for incremental integration of the target's functionality, covering its entirety at best or its fundamentals at the very least, while not being overly extended. We would want to refrain from using a longer time frame as our roadmap priorities may change such that we could potentially find ourselves abandoning certain milestones, negating some or all of the rationale behind the deal.
             1. Will help establish focus on both acquired target and our product team
-            1. Be able to complete payouts to the target's entity and shut it down sooner
+            1. Be able to complete post-closing payouts (if any earned and due) to the target's entity and shut it down as soon as practicable and in accordance with the terms of the deal documents
         1. At least one milestone will focus on developing new functionality which will be based on the integration delivered in earlier milestones
 1. To determine the deal ROI, the acquisition team will perform the analysis using the [cost-revenue acquisition calculator](https://docs.google.com/spreadsheets/d/1ke36-mtEi8MhfMKXpYGMRP6H3HH6MimxXt86Zv_QkzM/edit#gid=0) (_internal_ GitLab document). Make a copy of the master cost-revenue acquisition calculator file and save it in the relevant project folder in Google Drive before making changes to the file.
 1. Presenting the business case for approvals (by order of occurrence):
@@ -178,7 +178,7 @@ The process is comprised of four key stages:
 
 ### [Integration](/handbook/acquisitions/acquisition-process/integration/)
 
-The Corporate Development team is responsible for overseeing and facilitating the integration of the acquisition post-closing, working closely with Legal, Product, Engineering, and Finance.
+The Corporate Development team is responsible for overseeing and facilitating the post-closing integration, working closely with Legal, Product, Engineering, People, Finance, and other GitLab divisions as appropriate. The DRI is the Senior Director Corporate Development.
 
 The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration/).
 
@@ -208,17 +208,17 @@ To assign the engineering team member, contact the engineering manager of the re
 
 | Function                    | Role                                                                                                                                                               | Deliverables                                                                         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Corporate Development       | 1. Main POC for acquired team <br>2. Identify potential areas for integration 1. Create case for acquisition and customer transition story <br>3. Integration              | 1. Business case with deal structure                                                 |
-| Product                     | 1. Outline current product features to be implemented into GitLab <br>2. Outline potential future functionalities to be built into GitLab after the integration period | 1. Integration strategy                                                              |
+| Corporate Development       | 1. Main POC for acquired team <br>1. Identify potential areas for integration 1. Create case for acquisition and customer transition story <br>3. Integration              | 1. Business case with deal structure                                                 |
+| Product                     | 1. Outline current product features to be implemented into GitLab <br>1. Outline potential future functionalities to be built into GitLab after the integration period | 1. Product integration strategy                                                              |
 | Engineering                 | 1. Technical diligence                                                                                                                                             | 1. Code quality review 1. Integration strategy validation - feasibility and timeline |
-| Finance                     | 1. Lead financial diligence <br>2. Validate business case and deal structure                                                                                           |                                                                                      |
-| Legal                       | 1. Review entity, assets and existing agreements <br>2. Evaluate sunset and customer transition path                                                                   | 1. Term Sheet 1. Acquisition agreement                                               |
+| Finance                     | 1. Lead financial diligence <br>2. Validate business case and work with tax team to validate deal structure                                                                                           |                                                                                      |
+| Legal                       | 1. Review entity, assets and existing agreements <br>2. Evaluate sunset and customer transition path                                                                   | 1. Term Sheet 1. Acquisition agreement and ancillary deal documents                                               |
 | People Group | 1. Maintain SSOT for team member data <br>2. Lead the compensation review <br>3. Lead the interview process during the early and due diligence stages to completion 3. Lead and assess successful team member integration in partnership with business                                                                    | 1. Team Member Offers of employment<br>2. Onboarding experience <br>3. Post acquisition survey and action planning                                             |                                                                                      |
 |Security|1. Identify and summarize Security Risk Posture as part of Early Diligence <br>2. Perform Application Security review|1. Security Risk summary detailing the security risk impacts to GitLab|
 
 ## Acquisitions Are Confidential
 
-At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unncessary exposure. 
+At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unnecessary exposure. 
 
 To ensure confidentiality during the acquisition process, we assign code names to each potential transaction once we enter the Early Diligence stage.
 
@@ -227,7 +227,7 @@ To maintain confidentiality, we follow the following guidelines:
 1. When creating a new acquisition slack channel:
     1. Set the channel topic to: "This channel is confidential. Please confirm with acquisition lead `name here` before inviting people to the channel or related docs."
     1. Set the channel description to: "Please review our [acquisition handbook and process](/handbook/acquisitions/acquisition-process/) to familiarize yourself with our approach to acquisitions. Please review the confidentiality section of the process and our guidelines".
-1. We strive to keep the number of people involved in an acquisition as small as possible to reduce legal exposure and maintain a low potential risk. If more members are required to be brought into the acquisition for a discussion limited to a specific topic, and do not need to be involved with the wider engagement, we create dedicated, single-topic channel, and add the relevant parties to it.
+1. We strive to keep the number of people involved in an acquisition as small as possible to reduce legal exposure and maintain a low potential risk of deal and information disclosure. If more members are required to be brought into the acquisition for a discussion limited to a specific topic, and do not need to be involved with the wider engagement, we create dedicated, single-topic channel, and add the relevant parties to it.
 1. If you're part of an acquisition Slack channel, Google Doc, or other internal GitLab discussion and would like to invite another GitLab team member to one of those, please confirm with the acquisition lead before doing so.
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
@@ -236,7 +236,7 @@ To maintain confidentiality, we follow the following guidelines:
 
 Each quarter the Corporate Development team defines a set of [three categories](/handbook/acquisitions/#acquisition-strategy) which are prioritized for that quarter for outbound activity. We commonly refer to them as Quarterly Focus Areas. While this is true especially for our outbound efforts, these categories will be at the center of our overall efforts and focus for that quarter, taking into account inbound prospects as well. 
 
-Although we have our quarterly focus areas, we are open to discussing potentially pursuing an opportunity outside of those. For us to look into an opportunity outside of our quarterly focus areas, it needs to satisfy one, or more, of the following criteria:
+Although we have our quarterly focus areas, we are open to discussing and potentially pursuing an opportunity outside of those focus areas. For us to look into an opportunity outside of our quarterly focus areas, it needs to satisfy one, or more, of the following criteria:
 1. Present an outsized revenue potential
 1. Serve as a strategic move (market dynamics etc.)
 1. Fit our [soft-landing framework](https://about.gitlab.com/handbook/acquisitions/#acquisition-approach)
