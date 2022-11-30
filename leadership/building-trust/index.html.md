@@ -29,7 +29,7 @@ Working remotely can be isolating for team members if managers do not take the [
 
 Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimensions of trust. He notes that trust allows you to [assume positive intent](/handbook/values/#assume-positive-intent) in support of our [CREDIT values](/handbook/values/#credit). It also helps to [prevent political behavior](/handbook/values/#playing-politics-is-counter-to-gitlab-values) that runs counter to our values.
 
-1. Optimizing [efficiency for the right group](/values/#efficiency-for-the-right-group)
+1. Optimizing [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group)
     1. We versus I optimization
     1. Organization versus individual
     1. Other teams versus your team
