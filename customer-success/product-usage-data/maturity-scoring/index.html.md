@@ -106,7 +106,7 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 <br>
 ![DevSecOps Adoption Scoring](https://lucid.app/publicSegments/view/ab7a9ef5-d69c-47ff-9dc0-defe3e8f8610/image.png)
 <br>
-[Adoption Guide Reference Link](/marketing/strategic-marketing/usecase-gtm/devsecops/#adoption-guide)
+[Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#adoption-guide)
 <br>
 
 #### Resources
