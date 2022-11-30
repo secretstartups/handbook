@@ -107,7 +107,7 @@ If none of the alternatives are suitable for your workflow (e.g. there is a limi
 To request access, please follow these steps:
 
 1. Create an account on [hub.docker.com](https://hub.docker.com) using your `@gitlab.com` email. It is not possible to gain access with a non-company email.
-1. Log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=), detailing why alternatives are not an option (as noted above).
+1. Log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=) with the Access_Change_Request template, detailing why alternatives are not an option (as noted above).
 1. Once your manager approves the request, assign to the System Provisioner listed in the [Tech Stack] for this system.
 
 Once your access has been provisioned, you will receive an email notification that you have been added to a specific `dockerdesktop` team. Following that, you can [install Docker desktop](https://www.docker.com/products/docker-desktop), and login with the registered account.
