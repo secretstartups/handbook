@@ -25,7 +25,7 @@ Please click here to read the [Audit Committee Charter](https://ir.gitlab.com/st
 
 ## Audit Committee Agenda Planner
 
-The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2021-12-15.
+The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2022-07-15.
 
 ### Audit Committee Earnings Meeting Calendar <br>
 
@@ -183,9 +183,8 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
 | 1 | Security Operational Risk Assessment Results         |Annual |      |  X  |     |     |     |
 | 2 | Security Update                                 |Semi Annual |      |  X  |     |  X  |     |
-| 3 | Finance Application System Reviews (ITGC)       |Semi Annual |  X   |     |  X  |     |     |
-| 4 | Organization Overview                                |Annual |      |     |     |  X  |     |
-| 5 |Other Topics                                         |As needed |     |    |     |     |  X  |
+| 3 | Organization Overview                                |Annual |      |     |     |  X  |     |
+| 4 |Other Topics                                         |As needed |     |    |     |     |  X  |
 
 
 #### Internal Audit
@@ -194,11 +193,14 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
 | 1 | Internal Audit Annual Plan             |Annual |  X   |     |     |     |     |
 | 2 | Fraud Risk Assessment                  |Annual |      |  X  |     |     |     |
-| 3 | Annual Assessment of Internal Audit    |Annual |      |     |  X  |     |     |
+| 3 | Annual Assessment of Internal Audit((Startegic Plan, IA roadmap, skill set assessment) )    |Annual |      |  X   |    |     |     |
 | 4 | Internal Audit Charter Review       |As needed |   X  |     |     |     |     |
 | 5 | Organization Overview               |As needed |      |  X  |     |     |     |
-| 6 | SOX Program Update                |Semi Annual |  X   |     |  X  |     |     |  
-| 7 |Other Topics                                    |As needed |     |    |     |     |  X  |
+| 6 | SOX Program Update                |Quarterly |  X   |  X   |  X  |  X   |     |  
+| 7 | Technology Strategy Roadmap       |Annual |    |     |  X  |     |     |
+| 8 | Data Analytics Strategy Roadmap |Annual |    |     |    |   X  |     |
+| 9 | Career Framework |Annual |    |     |  X  |     |     |
+| 10 |Other Topics                                    |As needed |     |    |     |     |  X  |
 
 
 #### External Audit
@@ -220,7 +222,8 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 2 | Chief Legal Officer                |Quarterly |   X   |   X   |   X   |   X   |      |
 | 3 | Chief Finance Officer              |Quarterly |   X   |   X   |   X   |   X   |      |
 | 4 | Approvals                          |Quarterly |   X   |   X   |   X   |   X   |      |
-| 5 | External Auditor                   |Quarterly |   X   |   X   |   X   |   X   |      |
+| 5 | Two upcoming meeting agendas        |Quarterly |   X   |   X   |   X   |   X   |      |
+| 6 | External Auditor                   |Quarterly |   X   |   X   |   X   |   X   |      |
 
 <br>
 
