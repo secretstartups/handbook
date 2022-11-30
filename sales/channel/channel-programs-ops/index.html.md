@@ -136,9 +136,9 @@ The requirements for each GitLab Certified Service Partner certification can be 
 
 ### GitLab Certified Professional Services Partner Award Process
 
-GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications through an automation between the GitLab Learn system and Badgr that is managed by GitLab Education Services team. 
+GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications through an automation between the GitLab Learn system and Credly that is managed by GitLab Education Services team. 
 
-When a partner reaches the required number of GitLab Professional Services Engineers, the GitLab Channel Account Manager will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+When a partner reaches the required number of GitLab Professional Services Engineers, the GitLab Channel Programs Team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
 Within 7 calendar days of assignment the CAM will:
 
