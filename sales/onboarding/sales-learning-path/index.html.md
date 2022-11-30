@@ -118,7 +118,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 </details>
 
 <details>
-<summary markdown="span">5. Field Roles & Expectations</summary>           
+<summary markdown="span">5. Field Roles & Expectations</summary>
 
 
 ### 5. Field Roles & Expectations
@@ -145,12 +145,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read the [Handbook](/handbook/customer-success/professional-services-engineering/)
 *  **Customer Success Handbook (Material - Handbook - 10 minutes)**
    - Skim and bookmark the [Handbook](/handbook/customer-success/)
- 
+
 </details>
 
 
 <details>
-<summary markdown="span">6. Sales Process</summary> 
+<summary markdown="span">6. Sales Process</summary>
 
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
@@ -175,7 +175,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 
 <details>
-<summary markdown="span">7. Our Competition</summary> 
+<summary markdown="span">7. Our Competition</summary>
 
 ### 7. Our Competition
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
@@ -206,7 +206,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 
 <details>
-<summary markdown="span">8. Tools to Get Your Job Done</summary> 
+<summary markdown="span">8. Tools to Get Your Job Done</summary>
 
 ### 8. Tools to Get Your Job Done
 *  **Using GitLab: The Basics (Material - Handbook - 45 minutes)**
@@ -226,12 +226,12 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Salesforce - Booking Orders (Material - Handbook - 10 Minutes)**
    - [Learn how to create](/handbook/sales/field-operations/order-processing/) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
 *  **Reference Edge (Material - Video - 10 Minutes)**
-   - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
+   - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-and-technical-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
 </details>
 
 <details>
-<summary markdown="span">9. Sales and Customer Success Support</summary> 
+<summary markdown="span">9. Sales and Customer Success Support</summary>
 
 ### 9. Sales and Customer Success Support
 *  **The Product Teams (Material - Handbook - 60 minutes)**
@@ -251,7 +251,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">10. GitLab's Customer Support Team</summary> 
+<summary markdown="span">10. GitLab's Customer Support Team</summary>
 
 ### 10. GitLab's Customer Support Team
 
@@ -267,13 +267,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the associated workflows.
   - Review the workflows in this section of the [Handbook](https://about.gitlab.com/handbook/support/workflows/#Zendesk).
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
-  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. 
+  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team.
       - To do so, follow the process outlined in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
 
 </details>
 
 <details>
-<summary markdown="span">In-Class Assignments</summary> 
+<summary markdown="span">In-Class Assignments</summary>
 
 ### In-Class Assignments
 * **Essential Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
@@ -292,7 +292,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">Course Evaluation & Feedback</summary> 
+<summary markdown="span">Course Evaluation & Feedback</summary>
 
 
 ### Course Evaluation & Feedback
@@ -303,7 +303,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ## Customer Success Quick Start - Role Based Curriculum
 
 <details>
-<summary markdown="span">Technical Deep Dive (SA, CSM, and PSE ONLY</summary> 
+<summary markdown="span">Technical Deep Dive (SA, CSM, and PSE ONLY</summary>
 
 ### 12. Technical Deep Dive (SA, CSM, and PSE ONLY)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
@@ -343,7 +343,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 
 <details>
-<summary markdown="span">Integrations (SA, CSM, and PSE Only)</summary> 
+<summary markdown="span">Integrations (SA, CSM, and PSE Only)</summary>
 
 
 ### 13. Integrations (SA, CSM, and PSE Only)
@@ -391,7 +391,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">CSMs Only: Certifications to Complete and Lifecycle Processes</summary> 
+<summary markdown="span">CSMs Only: Certifications to Complete and Lifecycle Processes</summary>
 
 ### 15. CSMs Only: Certifications to Complete and Lifecycle Processes
 
@@ -413,7 +413,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">PSEs Only: Statement of Work</summary> 
+<summary markdown="span">PSEs Only: Statement of Work</summary>
 
 ### 16. PSEs Only: Statement of Work
 *  **The Statement of Work (SOW) Process (Material - Handbook - 20 minutes)**
