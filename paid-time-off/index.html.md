@@ -309,10 +309,10 @@ The reminder will read as follows.
 
 > Hi there! Have you thought about what days you may take off this month? 🌴⛰️ We want to make sure you stay healthy! If you feel like you can’t reasonably take time off, feel welcome to add this note to your next 1:1 with your manager and discuss further. Learn more about paid time off at GitLab: `/handbook/paid-time-off/`
 
-To subscribe or unsubscribe, follow the below instructions and [see an associated screenshot](/images/handbook/people-group/gitlab-slack-pto-ninja-reminder.jpg).
+To subscribe or unsubscribe, follow the below instructions and [see an associated screenshot](/images/handbook/people-group/gitlab-slack-pto-roots-reminder.jpg).
 
 * Visit `Apps` in the menu bar within Slack, and search for or select PTO by Roots
-* Select `Profile` from the dropdown
+* On the app `Home` tab, select `Notifications` from the dropdown
 * Beneath your name and profile, you'll see a line that says "Send me a monthly reminder about taking time off." Click the **Subscribe** button to trigger the notification, which will begin on the first *working* day (e.g. not a weekend or a public holiday) in the month following your subscription.
 * To unsubscribe, revisit PTO by Roots within Slack Apps and click the button that says **Unsubscribe**.
 
