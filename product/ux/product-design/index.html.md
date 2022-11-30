@@ -92,15 +92,35 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 
 ### Volunteers
 
-| Milestone | Product Designer | Engineer    |
-| ----------        | -----------------| ----------- |
-| [15.0 (2022-04-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/356703) | Annabel Gray | Phil Hughes |
-| [15.1 (2022-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/361641) | Sascha Eggenberger | Robert Hunt |
-| [15.2 (2022-06-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/362122) | Emily Bauman     | Jannik Lehmann |
-| 15.3 (2022-07-18) | - | - |
-| [15.4 (2022-08-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/370364) | Nadia Sotnikova | Alex Kalderimis |
-| [15.5 (2022-09-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/374580) | Katie Macoy | Anna Vovchenko |
-| [15.6 (2022-10-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/378259) | Matej Latin | Deepika Guliani |
+| Milestone          | Product Designer  | Engineer          |
+| ------------------ | ----------------- | ----------------- |
+| 15.9 (2022-01-18)  |                   |                   |
+| 15.10 (2022-02-18) |                   |                   |
+| 16.0 (2022-03-18)  |                   |                   |
+| 16.1 (2022-04-18)  |                   |                   |
+| 16.2 (2022-05-18)  |                   |                   |
+| 16.3 (2022-06-18)  |                   |                   |
+
+<details>
+<summary>
+
+Previous Volunteers
+
+</summary>
+
+| Milestone         | Product Designer  | Engineer          |
+| ----------------- | ----------------- | ----------------- |
+| 15.8 (2022-12-18)                                                         | -                  | -               |
+| 15.7 (2022-11-18)                                                         | -                  | -               |
+| [15.6 (2022-10-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/378259) | Matej Latin        | Deepika Guliani |
+| [15.5 (2022-09-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/374580) | Katie Macoy        | Anna Vovchenko  |
+| [15.4 (2022-08-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/370364) | Nadia Sotnikova    | Alex Kalderimis |
+| 15.3 (2022-07-18)                                                         | -                  | -               |
+| [15.2 (2022-06-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/362122) | Emily Bauman       | Jannik Lehmann  |
+| [15.1 (2022-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/361641) | Sascha Eggenberger | Robert Hunt     |
+| [15.0 (2022-04-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/356703) | Annabel Gray       | Phil Hughes     |
+
+</details>
 
 ### How do I volunteer?
 
