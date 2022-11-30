@@ -24,6 +24,12 @@ For GitLab, building a portfolio of patents helps increase our profile as innova
 
 Patents can also be used as a defensive tool in the event the owner of another patent seeks to assert their patent rights against GitLab.
 
+## Patents and Open Source
+
+GitLab’s stewardship of open source informs how we exercise patent rights, but not whether GitLab applies for a patent. Whether covering open source, open core, or proprietary technology, patents play an important role in managing the risk of third-party patent suits. GitLab emphasizes the defensive use of its patent rights as necessary to protect the GitLab project.
+
+All GitLab-created open source software is distributed under the MIT license which includes a well-established implied grant of patent rights; the rights granted under the MIT license are not undermined by a patent covering an element of the distributed software. Moreover, although patents are a proprietary right, the mandatory public disclosure of the covered invention required to obtain patent protection is consistent with GitLab’s open core business model and aligns with GitLab’s transparency value.
+
 ## GitLab patents
 GitLab holds the following registered patents:
 - US patent [9,910,766](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _whitebox network fuzzing_
