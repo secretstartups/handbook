@@ -1423,25 +1423,27 @@ Read more about how GitLab combats [burnout, isolation, and anxiety in an all-re
 
 ## Frequently Asked Questions regarding why we upgraded to the Enterprise Grid Plan?
 
-1. Why are we upgrading our Slack Workspace?
+1. **Why are we upgrading our Slack Workspace?**
      - Extend and strengthen Gitlab Values, Mission and Culture to Core Team while maintaining compliance as a publicly traded company
      - Support customer engagement with Slack Connect channels for customer facing teams
      - Expansion of user roles and additional admin features to reduce IT approval bottlenecks and expedite internal IT requests
      - Leverage to enterprise compliance and security features to unlock trust across devices, teams, customers, and shareholders.
-1. How will I login to the new Workspace?
-     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile. 
-1. Will all the old channels and messages be available in the new Workspace?
+1. **How will I login to the new Workspace?**
+     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile as you normally would. 
+1. **Will all the old channels and messages be available in the new Workspace?**
     - Yes, all channels and messages will be migrated with the Workspace. 
-1. How will the new workspace look different from the old one
+1. **How will the new workspace look different from the old one**
    - You will be able to see all your channels and messages as normal, except now you’ll see multiple workspaces. This environment design will help us better manage SAFE communication and data.
-1. Will external accounts (guest accounts) be migrated as well?
+1. **Will external accounts (guest accounts) be migrated as well?**
    - Yes, all guest/partner accounts will be migrated to the new grid space. 
-1. Do I need to sign back into Slack after the migration or will I stay signed in?
-   - Yes, you may need to sign back into slack and possibly some of your applications will need re-authentication. 
-1. Will my Slack applications still work as expected. 
+1. **Do I need to sign back into Slack after the migration or will I stay signed in?**
+   - Yes, you will have to sign back into Slack on your devices via Okta. 
+1. **Will my Slack applications still work as expected.** 
    - Yes, we expect most if not all applications to work as expected after the migration with the exception of reauthorizations.
-1. Is there any changes with how GitLab Slack Admins can view/use Slack data?
+1. **Is there any changes with how GitLab Slack Admins can view/use Slack data?**
    - No, we were already on the Enterprise Select plan.
+1. **How will we communicate during the migration?**
+   - There will be a temporary workspace provided, you will be able to access this via gitlab.okta.com. (search Slack - GitLab Temporary)
 
 ### When would GitLab use Corporate Export?
 
