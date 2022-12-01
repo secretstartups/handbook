@@ -206,7 +206,7 @@ Details relating to Unpaid Personal Leave can be found on the [Leave of Absence 
 ## PTO by Roots
 All team members and Managers, including those employed under a PEO, are expected to log all time away requests into PTO by Roots (Vacation, Public Holiday, Friends & Family, Sick Time, etc.)
 
-[PTO by Roots](https://treehoppr.com/pto-ninja) allows team members and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
+[PTO by Roots](https://www.tryroots.io/pto) allows team members and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
 [PTO by Roots Training Video](https://vimeo.com/469045356)
 
