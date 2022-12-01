@@ -104,7 +104,10 @@ Once the deck is completed, PHD will attach a PDF file to the partner account an
 - Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
 
 
-### Partner Insights Details
+## Basic Training Requirements
+For a list of basic training requirements for NFRs, Deal Registration, and Transacting, visit the [Channel Partners: Working with GitLab Handbook Page](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-and-nfrs)
+
+For detailed information and requirements, visit the [Partner Training, Certifications, and Enablement Handbook Page](https://about.gitlab.com/handbook/resellers/training/)
 
 
 ## NFR Licenses
