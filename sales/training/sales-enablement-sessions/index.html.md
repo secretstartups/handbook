@@ -23,8 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 24 | **No Session - Public Holiday** | TBD  |
-| Dec 1 | FY23-Q4 Channel Update  | Blair F. & Ed C.  |
 | Dec 8 | Forrester TEI Enablement (Study + Estimator)  | Laura C. & Ryan R.  |
 | Dec 15 | FY23-Q4 Product Marketing Update | Saumya U. & Brian M.   |
 | Dec 22 | TBD  | TBD  |
