@@ -66,7 +66,7 @@ In general, follow the [Code Review guidelines](https://docs.gitlab.com/ee/devel
 
 ### Preview the MR
 
-Always review the MR in a live environment, so that you can experience the changes as our users will and review them thoroughly. To choose the most appropriate method to preview the MR and get started, see [Preview, test, and contribute](/handbook/product/ux/how-we-work/#preview-test-and-contribute). If you get stuck, don't struggle on your own, check our [help section](/handbook/product/ux/how-we-work/#help).
+Always review the MR in a live environment, so that you can experience the changes as our users will and review them thoroughly. To choose the most appropriate method to preview the MR and get started, see [Review, test, and contribute](/handbook/product/ux/how-we-work/#review-test-and-contribute). If you get stuck, don't struggle on your own, check our [help section](/handbook/product/ux/how-we-work/#help).
 
 #### Specific review requirements
 Some MRs have additional set up requirements. 

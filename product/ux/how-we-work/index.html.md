@@ -204,11 +204,11 @@ Remember:
 - **Invite peers into your process.** Some UX and PM tasks overlap, and individual skills vary quite a bit. Keep communication open, and talk about who is doing what. Some PMs like to do a little design work, and some UXers enjoy product strategy. This is always a good thing. With good communication, you both can work to your strengths without stepping on toes.
 - **Advocate for great UX.** Consider asking your PM to allocate time each sprint to "customer delight" related stories. This could be a percentage, a point count, or whatever else works. This is a way to keep the focus on customer experience and delight, even when other priorities start to push in.
 
-## Preview, test, and contribute
+## Review, test, and contribute
 
-There are several methods for you to preview, test, review merge requests (MRs),
-and contribute changes to the app, user documentation, Pajamas, or company
-handbook. We [encourage MR authors to add screenshots or videos](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html)
+There are several methods for you to review, test, and contribute changes to the app, user documentation, Pajamas, GitLab UI or company handbook.
+
+We [encourage MR authors to add screenshots or videos](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html)
 of their changes. However as they don’t cover all review aspects (for example, hover states, small viewports, accessibility, and so on.), you cannot rely on them exclusively and should always review the MR in a live environment.
 
 The most common methods to review the MR in a live environment are:
@@ -253,6 +253,14 @@ license information, feature flags (if applicable), etc.<br>
 pre-created users, projects, branches, issues, merge requests, epics, etc.
 
 </details>
+
+### Contributing
+
+GitLab is a complex platform that helps teams shorten cycle times, reduce costs, stregthen security, and increase developer productivity. In order to make the DevOps lifecycle more approachable for all users, it is essential that each member of the Product Design department has general knowledge of Git and DevOps flows by frequently using the various features across the product.
+
+The Product Design department builds confidence in these areas by using the product in a live environment and contributing small fixes to the various projects that make up GitLab, including the app, user documentation, Pajamas, and GitLab UI. Designers are not expected to be full stack developers, but we do expect designers to grow their basic development skills to build empathy and understanding for the workflows our users experience on a daily basis.
+
+Additionally, building these skills has the added benefit of empowering designers to directly make small, meaningful changes to the product. Migrating components or updating UI copy, for example, improves the consistency, visual design, and accessibility of the app.
 
 ### Get started
 
