@@ -24,7 +24,7 @@ Are you looking for GitLab's Customer Assurance Package? We've moved! Please cli
 
 ## CAP request process
 
-Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is availble under a [Non Discolsure Agreement](https://about.gitlab.com/handbook/legal/NDA/) or confidentiality contractual clauses only.
+Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is available under a [Non Disclosure Agreement](https://about.gitlab.com/handbook/legal/NDA/) or contractual confidentiality  clauses only.
 
 **Note**: Customers who have registered for services via GitLab.com and paid via credit card will be required to sign a purpose specific [NDA](https://about.gitlab.com/handbook/legal/NDA/) before the CAP can be distributed.
 
