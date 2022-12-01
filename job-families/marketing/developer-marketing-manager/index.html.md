@@ -12,5 +12,5 @@ title: "Developer Marketing Manager"
 * Develop and distribute swag for the community that is fun, engaging and which our community will love.
 * Communicate technical features and benefits with non-technical users, decision makers and our own sales team.
 * Analyse and evaluate promotion and programs to make recommendations and improvements.
-* Our current ideas are detailed on our [developer marketing page](/handbook/marketing/developer-marketing/).
+* Our current ideas are detailed on our developer marketing page.
 * Ability to use GitLab

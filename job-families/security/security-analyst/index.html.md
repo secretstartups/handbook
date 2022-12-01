@@ -78,7 +78,7 @@ The Senior Anti-Abuse Analyst is responsible for leading and implementing the va
 See [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
 
 ### Security External Communications
-See [Security External Communications](https://about.gitlab.com/job-families/security/security-external-communications/)
+See [Security External Communications](https://about.gitlab.com/job-families/security/external-security-communications/)
 
 ### Security Operations
 

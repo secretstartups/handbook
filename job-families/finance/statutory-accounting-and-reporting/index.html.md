@@ -6,7 +6,7 @@ title: Statutory Accounting and Reporting
 The Statutory Accounting and Reporting job family is responsible for ensuring entity-level financial statements are accurate and complete based on applicable GAAP for all non-US GitLab entities. This job family is also responsible for managing the statutory audits for those entities and ensuring compliance with all statutory regulations.  Statutory Accounting and Reporting is also responsible for compliance with state and local reporting requirements in the US.
 
 ## Statutory Compliance and Reporting Senior Manager
-The Statutory Compliance and Reporting Senior Manager reports to the [Director of Tax](https://about.gitlab.com/job-families/finance/director-of-tax/).
+The Statutory Compliance and Reporting Senior Manager reports to the [Director of Tax](https://about.gitlab.com/job-families/finance/tax/#director-tax).
 
 ### Job Grade
 The Statutory Accounting and Compliance Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

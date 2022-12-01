@@ -71,7 +71,7 @@ The Paralegal is a [grade 6](/handbook/total-rewards/compensation/compensation-c
 
 ### Senior Paralegal
 #### Job Grade
-The Senior Paralegal is a [Grade 7]((/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades))
+The Senior Paralegal is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities 
 * Act as the DRI (“Directly Responsible Individual”) with respect to complex / strategic projects and legal matters

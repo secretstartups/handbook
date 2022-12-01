@@ -75,7 +75,7 @@ The [Growth sub-department](/handbook/engineering/development/growth/) analyzes 
 
 ### Govern
 
-The [Govern sub-department](/handbook/engineering/development/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
+The [Govern sub-department](/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
 
 #### Govern Requirements
 

@@ -13,7 +13,7 @@ The Community Advocate is a [grade 5](/handbook/total-rewards/compensation/compe
 
 ### Responsibilities
 
-- Respond to the wider GitLab community across [our response channels](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/#community-response-channels) in a timely manner.
+- Respond to the wider GitLab community across our response channels in a timely manner.
 - Engage with the developer and user community in a way that is direct, but friendly and authentic. Be able to carry the tone of the GitLab brand, while also giving the proper answers or direction to members of the community.
 - Help update the [social media guidelines](/handbook/marketing/team-member-social-media-policy/) and GitLab voice as new situations arise.
 - Work with leadership to find a way to track and measure response time across all channels with the ideal response time being under 1 hour for all channels.

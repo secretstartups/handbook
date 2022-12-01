@@ -47,5 +47,5 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 
 ## Career Ladder
 
-The next steps for a Professional Services Project Manager would be to move to the [Professional Services Engagment Manager](/job-families/sales/source/job-professional-services-engagement-manager/) Job Family or the [Professional Services Practice Manager](/job-families/sales/professional-services-practice-manager/) Job Family.
+The next steps for a Professional Services Project Manager would be to move to the [Professional Services Engagment Manager](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Professional Services Practice Manager](/job-families/sales/professional-services-practice-manager/) Job Family.
 

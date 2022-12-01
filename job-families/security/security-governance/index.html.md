@@ -5,7 +5,7 @@ description: "Security Governance professionals at GitLab focus on our security 
 extra_js:
 - libs/mermaid.min.js
 ---
-As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), it is the goal of the [Security Governance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/Governance/) function to: 
+As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), it is the goal of the [Security Governance](https://about.gitlab.com/handbook/security/security-assurance/governance/) function to: 
 
 * Provide oversight and coordination of security policies, procedures, metrics and internally facing training
 * Ensure security documentation upholds Gitlab's security governance framework through monitoring of the regulatory and compliance landscapes applicable to GitLab and our stakeholders. 
