@@ -173,6 +173,19 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
+## Google Search Console
+
+[Google Search Console](https://search.google.com/search-console/about) helps you monitor and maintain your site's presence in Google Search results.
+
+The data is loaded into our warehouse using Fivetran connectors and are uploaded into our Snowflake warehouse every 24 hours.
+
+We bring in data for the report `Keyword Page Report` from our fivetran connectors. This report allows us to search traffic data of the pages of the site based on the query string user searched for on Google. Each record shows how the site appeared in the search result for a particular search query.
+
+The following 3 sites are included in the extract:
+- `https://about.gitlab.com/`
+- `https://gitlab.com/`
+- `http://gitlab.com/`
+
 ## Service ping
 
 Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
