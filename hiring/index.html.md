@@ -13,7 +13,6 @@ description: "Landing page for many of the handbook pages the talent acquisition
 ## Hiring pages
 
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
-- [Data Driven Recruiting](/handbook/hiring/data-driven-recruiting/)
 - [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Interviewing](/handbook/hiring/interviewing/)
