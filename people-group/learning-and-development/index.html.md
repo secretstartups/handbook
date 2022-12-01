@@ -127,8 +127,6 @@ We are a small team, but we've got a big role to play at GitLab!
 
 ## Contact Us
 
-Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
-
 1. Slack: `#learninganddevelopment`
 1. Email Us: `learning@gitlab.com`
 1. [Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
@@ -280,6 +278,8 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Blended Learning | Training that uses multiple methods to teach the new information to learners. It can includ ILTs, self-paced materials, VILT sessions, etc. | Varies |
 | Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
 | Workshop | Hands-on or virtual demos, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies |
+
+Please let us know how you would prefer to learn by [filling out this form](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
 ## Awards
 
