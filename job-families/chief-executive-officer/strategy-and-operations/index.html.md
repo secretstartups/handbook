@@ -190,9 +190,9 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ## Performance Indicators
 
-- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by the [Chief of Staff Team to the CEO](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
-- [Percent of Slack Messages that aren't Direct Messages](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms)
+
+In addition, we are exploring [additional ways to measure performance](/ceo/chief-of-staff-team/#measuring-results).
 
 ## Career Ladder
 
