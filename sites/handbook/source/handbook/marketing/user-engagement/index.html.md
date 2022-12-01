@@ -5,7 +5,7 @@ description: >-
   User Engagement is one of GitLab's top 12 cross-functional initiatives. The goal is to strengthen our developer brand and increase contributors per month to GitLab.
 ---
 
-User community engagement is important in creating awareness among various communities who become advocates of GitLab internally at companies down the line or influence others at said companies. Improving our user engagement is one of GitLab's [top 12 cross-functional intiatives](company/team/structure/working-groups/#12-cross-functional-initiatives). The goal is to have a strong developer brand.
+User community engagement is important in creating awareness among various communities who become advocates of GitLab internally at companies down the line or influence others at said companies. Improving our user engagement is one of GitLab's top 12 cross-functional intiatives. The goal is to have a strong developer brand.
 
 The User Engagement initiative has three workstreams:
 1. Build brand awareness with thought leadership and technical content to activate members of our community programs (Education, Open Source, Meetups, Heroes) (# active community members).
