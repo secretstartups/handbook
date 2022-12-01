@@ -219,35 +219,6 @@ For more details on logistics of ending an interim or acting period please refer
   end
 ```
 
-#### Security Department
-
-```mermaid
-  graph LR;
-
-  subgraph Merit Based
-    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
-    sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
-  end
-  subgraph Based on Merit &amp; Company Need
-    sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
-    sec:stse(Staff Security Engineer)-->sec:pse(Principal Security Engineer);
-    sec:pse(Principal Security Engineer)-->sec:dse(Distinguished Security Engineer);
-    sec:sse(Senior Security Engineer)-->sec:sem(Manager, Security);
-    sec:sem(Manager, Security)-->sec:sms(Senior Manager, Security)
-    sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
-  end
-
-  click sec:s "LINK"
-  click sec:se "/job-families/engineering/security-engineer/#intermediate-security-engineer";
-  click sec:sse "/job-families/engineering/security-engineer/#senior-security-engineer";
-  click sec:stse "/job-families/engineering/security-engineer/#staff-security-engineer";
-  click sec:pse "/job-families/engineering/security-engineer/#principal-security-engineer";
-  click sec:dse "/job-families/engineering/security-engineer/#distinguished-security-engineer";
-  click sec:sem "/job-families/engineering/security-leadership/#security-leadership-roles-at-gitlab";
-  click sec:sms "/job-families/engineering/security-leadership/#senior-manager-security";
-  click sec:ds "/job-families/engineering/security-leadership/#security-leadership-roles-at-gitlab";
-```
-
 #### Quality Department
 
 ```mermaid
