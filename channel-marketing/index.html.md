@@ -223,7 +223,7 @@ Our team is small but mighty and there are a few things that are simply **outsid
        
 **Channel Marketing Team**
         
-*   **Karen Pourshadi**: Senior Channel Marketing Manager, Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+*   **Karen Pourshadi**: Senior Channel Marketing Manager, Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/instant-campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
         
 *   **Kelly Walker**: Senior Partner Program Manager, Exec Engagement, Kelly will be focusing on our channel partner events including GitLab Partner Summits and more!
         
