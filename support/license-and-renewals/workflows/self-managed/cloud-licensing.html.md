@@ -33,11 +33,9 @@ graph TD;
   D --> E;
   A -->|Customer Ticket| F;
   F -->|Yes| G;
-  F -->|No| H;
-  H -->|Yes| I;
-  H -->|No| J;
-  I -->|Yes| G;
-  I -->|No| J;
+  F -->|No| H
+  H -->|Yes| G;
+  H -->|No| I;
   A{Is the ticket an internal<br>request or a customer ticket?}
   B{Has approval been granted<br>for the exception?}
   C(Support uses<br>Support::L&R::Strict Cloud Licensing Sales Exemption Guidance<br>macro)
@@ -45,9 +43,8 @@ graph TD;
   E(Support generates legacy<br>license and replies on ticket<br>letting requester know)
   F{Did the user purchase/renew<br>before July 2022?}
   G(Support uses<br>Support::L&R::Strict Cloud Licensing - Legacy license generated<br>macro)
-  H{Are they on a GitLab version<br><14.1?}
-  I{Did they purchase web direct?}
-  J(Support uses<br>Support::L&R::Strict Cloud Licensing - contact sales<br>macro)
+  H{Did they purchase web direct?}
+  I(Support uses<br>Support::L&R::Strict Cloud Licensing - contact sales<br>macro)
 ```
 
 ## Cloud Licensing Exemptions
@@ -79,7 +76,7 @@ The matrix below defines the impact of setting the `Cloud Licensing` flag value 
 | Offline | Eligible | Eligible | Not Eligible | 
 | No  | Eligible | Eligible | Eligible |
 
-Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated. After the license is generated, [search for the license and resend the license](../sending_license_to_different_email.html) because the automatically generated license does not trigger license email notification.
+Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated. After the license is generated, [search for the license and resend the license](../self-managed/sending_license_to_different_email.html) because the automatically generated license does not trigger license email notification.
 
 Once these steps are completed, please be sure to flag the ZenDesk ticket using the above macro to ensure these missed approvals are being tracked appropriately.
 
