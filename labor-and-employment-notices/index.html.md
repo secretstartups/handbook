@@ -148,6 +148,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Hawaii
 * [Labor Law Poster](https://labor.hawaii.gov/wp-content/uploads/2022/06/20220624Labor-Laws-Poster.pdf)
+* [Disability Compensation Law](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921-Disability-Compensation-Law-Poster.pdf)
+* [Laws Prohibiting Employment Discrimination](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921-Employment-Discrimination-Poster.pdf)
+* [Occupational Health and Safety Laws](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921-HIOSH-Poster-1.pdf)
+* [Unemployment Insurance Law](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921-Labor-Law-Poster-UI-1.pdf)
+* [Required Notice to Dislocated Workers/Plant Closings](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921-Dislocated-Workers-Plant-Closing.pdf)
 
 ### Idaho
 * [Equal Opportunity is the Law](https://drive.google.com/file/d/1yNYO9sWpLDuuO4h4xVvrNeFspz8XoPXG/view)
