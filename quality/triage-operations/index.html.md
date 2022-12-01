@@ -421,10 +421,11 @@ graph LR
 
 * Automation conditions:
   - A new note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
-    - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`
+    - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`, `category:*`
     - `backend`, `database`, `documentation`, `frontend`, `security`, `UX`
     - `workflow::in dev`, `workflow::ready for review`, `workflow::blocked`
   - The note is posted by the author or a team member
+* **Note**: to add multiple labels, list all labels after the command, for example: `@gitlab-bot label ~"group::project management" ~"type::bug"`
 * Automation actions:
   - Adds the requested label
 * Rate limiting: 60 times per requester/item per hour
