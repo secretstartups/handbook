@@ -98,7 +98,7 @@ You must spend your budget in the same quarter that it was originally allocated.
  
 If you have budget that you do not plan to spend in the quarter, you may reallocate these dollars to another Marketing department to spend within the same fiscal quarter. When this occurs, please get CMO approval, talk with your finance business partner, and then request a budget transfer in Allocadia.
  
- ## Cancelled Events
+## Cancelled Events
 
 If an event that was budgeted for is cancelled for any reason, it is important to alert Finance and Accounting. Any cancellation fees that are known must be expensed in the month the event is cancelled, not the month the event was scheduled for. 
 
