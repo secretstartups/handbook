@@ -179,17 +179,17 @@ Additional planning and notes around the sprint board can be found in [this issu
 
 #### Best practices for using sprint boards and issues:
 
-- Apply a burn-down chart with milestones to track time spent
-- Create the issue in the sprint where the work starts
+- Apply a burn-down chart with milestones to track time spent.
+- Create the issue in the sprint where the work starts.
 - When creating L&D content, apply one issue to one course when developing content. Maintain all course development material in the issue for organization. 
-- Epics do not show up in the boards
-- Apply a Storyboard template for course development
-- Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
-- Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
-- Stack rank issues in the board based on priority if possible
+- Epics do not show up in the boards.
+- Apply a Storyboard template for course development.
+- Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog).
+- Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content.
+- Stack rank issues in the board based on priority if possible.
 - Use the Time Tracking feature on issues to track time spend. When opening a new issue, use the `/estimate` command to set an estimate for the project to be complete. After each working session, use the`/spend` command to track actual time spent.
-- Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
-- Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
+- Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea.
+- Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience.
 
 ### L&D handbook merge requests
 
