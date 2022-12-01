@@ -55,15 +55,15 @@ When possible and if not impacting your finances, we suggest that all expenses i
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Policy Summary
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/). **NOTE** - If you are a Corporate Credit Card holder, please refer to the [Corporate Credit Card page](https://about.gitlab.com/handbook/finance/accounts-payable/corp-credit-cards/) for specific instructions and thresholds.
-1. Itemized receipts are required for all business related expenses that are greater than $75 USD or equivalent to local currency.
-1. Expenses should be submitted within 90 days of purchase, spend, or invoice due date. This helps the company to better manage our budget and ensures accurate month-end reporting.
+1. Itemized receipts are required for all business related expenses that are greater than $75 USD or equivalent to local currency. For internet and phone service expense, an itemized receipt is required regardless of the amount.
+1. Expenses must be submitted within 90 days of purchase, spend, or invoice due date. This helps the company to better manage our budget and ensures accurate month-end reporting.
    - If your purchase requires that you prepay for services, such as quarterly or yearly payments, you must split the cost monthly and only submit 1 month (or 1 payment) at a time for reimbursement.
    - If you are required to pay 250 every 3 months, divide the total cost by the # of months and that is what you submit each month.
    - You can use the same invoice copy each month.
-1. Expense report items should clearly state if the spend includes amounts for clients / non-team members. Tax requirements in certain countries require us to account for client spend differently.
+1. Expense report items must clearly state if the spend includes amounts for clients / non-team members. Tax requirements in certain countries require us to account for client spend differently.
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
    - You can verify the policy that you are reporting in by review the title of your report: `Report Title: Team Member Name | Receipt Date: YYYY-MM-DD to YYYY-MM-DD | **Policy Name: GitLab- Amex** | Report ID: ######## | Total $XXX.XX`
-   - The value next to *Policy Name* should match the entity, PEO, Country and COGS/Non-COGS department that you are employed with.  If these values are not a match, you can change them on the right hand side of the page - under Details, then under policy there is a drop down to choose from any policies you are a part of.
+   - The value next to *Policy Name* must match the entity, PEO, Country and COGS/Non-COGS department that you are employed with.  If these values are not a match, you can change them on the right hand side of the page - under Details, then under policy there is a drop down to choose from any policies you are a part of.
 1. Expenses use live currency conversion rates
 1. Gift cards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
@@ -111,7 +111,7 @@ Consider redacting this information:
   - Your full name
   - Any other data that is personal to you that should not want publicly known. Security team noted that there's technical security vulnerability with  Expensify's infrastructure where the storage they used for their receipts was publicly available.
 
-At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
+At a minimum, information about the items/products purchased and the total purchase amount must be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
 
 ### Domain Name Registration and Maintenance Policy
 
@@ -153,6 +153,7 @@ Guidance on the year-end holiday budget:
 - The money cannot be used for charitable donations or gifts
 - If you are hosting an event and asked to attend another event, the budget is for all events and not per event
 - The budget can be spent anytime in 4Q, please make sure you promptly submit your expense report prior to the end of 4Q
+- In Expensify, the team member must code any related expense to the Category "Company Functions" and to the Classification "Holiday Celebration"
 
 If you have any questions, please reach out to your manager for guidance.
 
