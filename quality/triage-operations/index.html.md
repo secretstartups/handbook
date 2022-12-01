@@ -274,6 +274,8 @@ realtime feedback provides an improved developer experience. This is handled by
 
 ### Community-related reactive workflow automation
 
+**Note**: reactive command arguments between brackets (`[]`) are considered as optional.
+
 Following is a diagram that shows how all the automations fit together:
 
 ```mermaid
@@ -396,12 +398,24 @@ graph LR
 #### Reactive `ready` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
+  - A new MR note that start with `@gitlab-bot ready [@user1 @user2 ...]`, `@gitlab-bot review [@user1 @user2 ...]`,
+    or `@gitlab-bot request_review [@user1 @user2 ...]`
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Adds the `workflow::ready for review` label to the MR
+  - Assigns the provided users (any GitLab community member) as reviewers, otherwise picks a random MR coach as reviewer
 * Rate limiting: once per author/MR per hour, or 100 times per team member/MR per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb>
+
+#### Reactive `unassign_review` command
+
+* Automation conditions:
+  - A new MR note that start with `@gitlab-bot unassign_review`
+  - The note is posted by one of the currently assigned reviewers (any GitLab community member)
+* Automation actions:
+  - Removes the posting user from the list of currenly assigned reviewers
+* Rate limiting: 100 times per hour
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_unassign_review.rb>
 
 #### Reactive `label` command
 
