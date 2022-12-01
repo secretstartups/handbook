@@ -156,3 +156,7 @@ Red data is not allowed to be stored in our Data Platform (Snowflake).
 When extracting new data towards Snowflake;
 - The Data Team will perform an analysis of data that is sent to Snowflake to validate whether or not there is a business justification per column/attribute.
 - For instances where Red or Customer personal data must be ingested into Snowflake, [masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking) will be applied. For instances where it is not required, it will be deleted from the platform.
+
+## Monte Carlo observability
+ 
+When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that datasource in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](/handbook/business-technology/data-team/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
