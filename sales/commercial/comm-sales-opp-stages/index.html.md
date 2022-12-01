@@ -182,7 +182,7 @@ _Business and technical challenges and been uncovered and resolved. The goal is 
 
 **Primary Activities** to Complete in This Stage:
 
-- Deliver MSA and [Subscription Agreement](https://about.gitlab.com/handbook/legal/legacy-subscription-agreement-v2/)
+- Deliver MSA and Subscription Agreement
 - Proposal provided
 - Create mutual close plan; identify risks
 - Create & share SOW
@@ -199,7 +199,7 @@ _Business and technical challenges and been uncovered and resolved. The goal is 
 - Proposal is aligned with customers [Positive Business Outcomes](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes)
 - Partner includes any relevant services SOWs
 - Deliver MSA separately if applicable
-- Create [mutual close](https://about.gitlab.com/handbook/sales/mutual-close-plan/) plan 
+- Create mutual close plan 
 - Identify any risks
 - Creation of SOW and scoping of work for Professional Services
 

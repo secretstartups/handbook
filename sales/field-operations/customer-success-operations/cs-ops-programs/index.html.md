@@ -72,7 +72,7 @@ In general, at least _5 business days_ are required for a new program, and in mo
 
 For program update requests, the workflow is as follows:
 
-1. The requester [submits an issue](submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program)) using the correct template, filling out as much information as possible. This should include the name of the program to change, and the date the requester wants the change to be completed.
+1. The requester [submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program)) using the correct template, filling out as much information as possible. This should include the name of the program to change, and the date the requester wants the change to be completed.
 1. The CS Programs team verifies that all information needed is present and will provide additional information or clarify.
 1. The CS Programs team makes the requested changes to the program copy document, then requests [SME review](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) by Product and/or Support as needed.
 1. When SME review is complete, the CS Programs team adds the changes to Gainsight.
