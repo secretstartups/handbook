@@ -184,7 +184,7 @@ This section pulls all the pertinent best practices from the step-by-step instru
 * Download the usage report within 24 hours of event close and deliver to Marketing Ops via list upload [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=general-list-import-request).
 
 
-Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/virtual-events/best-practices/) for additional suggestions on how to make your virtual event a success. 
+Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
 
 **Basic Zoom Settings:** *These settings should be updated in your personal zoom account settings by logging into the [Zoom](https://zoom.us/) web client*
 * Deactivate `play sound when participants join or leave`
