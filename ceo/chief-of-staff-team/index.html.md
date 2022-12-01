@@ -16,7 +16,8 @@ description: "GitLab CoST to the CEO Handbook"
 
 
 ## Team Mission
-Complement the CEO through being a cross-functional linchpin for GitLab when it comes to strategy and operations.
+Lead select cross-functional initiatives of importance to GitLab.
+
 
 ## Quick Links and Fun Facts
 * [Chief of Staff to the CEO Job Family](/job-families/chief-executive-officer/chief-of-staff/)
@@ -36,7 +37,7 @@ Complement the CEO through being a cross-functional linchpin for GitLab when it 
 | Initiative | CoS Team Member | Description | Links |
 | ------ | ------ |------ | ------ |
 | SaaS Free User Efficiency | @ipedowitz | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1) |
-| Resident Contributor Strategy | @epetoskey| Increase number of monthly unique contributors as part of the User Engagement Initiative. | [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880), [User Engagement Initiative](https://gitlab.com/groups/gitlab-com/-/epics/1794#note_1039614259) |
+| Leading Organizations Strategy | @epetoskey| Increase number of monthly unique contributors as part of the User Engagement Initiative. | [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880), [User Engagement Initiative](https://gitlab.com/groups/gitlab-com/-/epics/1794#note_1039614259) |
 | TeamOps | @dmurph and @jessicareeder | TeamOps is a new people practice that brings precision and operations to how people work together. | [Handbook](https://about.gitlab.com/handbook/teamops/) [Certification](https://levelup.gitlab.com/learn/course/managing-so-everyone-can-contribute-mecc) [MR Label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&state=merged&label_name%5B%5D=TeamOps)|
 
 ## Kinds of projects CoST to the CEO works on
@@ -48,7 +49,8 @@ The CoST does a quarterly recap summarizing current and completed work. [Q2FY23 
 
 ### Project Criteria
 The CoS to the CEO and their team may work on projects that fit *any combination* of the following:
-* cross-functional projects that need ownership until a maintainer is identified
+* projects which build or improve organizational design, infrastructure, and operations 
+* cross-functional projects that need ownership until a maintainer or exit criteria is identified
 * projects that are so broad that they can't live within a function but are too much work for the CEO
 * projects that are important to the CEO
 
