@@ -200,7 +200,7 @@ If you require project-based access, you can request temporary developer access 
 
 #### Where can it be found?
 
-- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/main/content)
 - [Live Website](https://internal-handbook.gitlab.io) 
 
 #### Why is there a internal handbook?
