@@ -17,7 +17,7 @@ The People Group Engineering team aims to reduce as much manual work as possible
 
 # Career Mobility
 
-Note: this section only discusses items in the offboarding where People Engineering was involved. You can read more about promotions and trasfer at GitLab on [this handbook page](/handbook/people-group/promotions-transfers/)
+Note: this section only discusses items in the offboarding where People Engineering was involved. You can read more about promotions and transfers at GitLab on [this handbook page](/handbook/people-group/promotions-transfers/)
 
 ## Timeline Flow
 
