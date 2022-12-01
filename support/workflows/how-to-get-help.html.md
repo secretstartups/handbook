@@ -84,6 +84,8 @@ The easiest way to determine the correct place for a Support Request for Help is
 1. Now go to the [Product Categories handbook page](https://about.gitlab.com/handbook/product/categories/) and search for the Development Section to which the group identified on the previous step belongs to.
 1. Use the table and workflow below to create a Request for Help issue in the project identified above. 
 
+*NOTE:* A video recording of a similar workflow as the one described above can be found in the [Support Training repository](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/Support%20Specific%20Trainings/training-videos/Support%20Request%20for%20Help%20Workflow.mp4)
+
 #### List of Development Sections and corresponding links to the Projects for requesting help
 
 | Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help | 
