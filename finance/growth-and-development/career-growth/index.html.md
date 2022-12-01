@@ -45,7 +45,7 @@ Welcome to Learning and Development for the Finance Department at GitLab! The re
 
 ##### Tax
 - [International Tax Manager](https://about.gitlab.com/job-families/finance/international-tax)
-- [Director of Tax](https://about.gitlab.com/job-families/finance/director-of-tax)
+- [Director of Tax](https://about.gitlab.com/job-families/finance/tax/#director-tax)
 
 ##### FP&A
 - [FP&A](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
