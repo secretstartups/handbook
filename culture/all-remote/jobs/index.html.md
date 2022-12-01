@@ -131,12 +131,12 @@ While there are myriad job boards that curate part-time and freelance gigs which
 
 Here's a [list](https://www.ryrob.com/remote-jobs-websites/) of 60 remote jobs sites in 2020, including:
 
+1. [Startup Jobs](https://startup.jobs/remote-jobs)
 1. [Himalayas](https://himalayas.app)
 1. [Grow Remote](https://growremote.ie/)
 1. [Torre](https://www.torre.co/)
-1. [RemoteHub](https://remotehub.io/)
 1. [We Work Remotely](https://weworkremotely.com)
-1. [Remote OK](https://remoteok.io)
+1. [Remote OK](https://remoteok.com)
 1. [People-First Jobs](https://peoplefirstjobs.com/jobs/)
 1. [Remoters](https://remoters.net/jobs/)
 1. [AngelList](https://angel.co/jobs/)
