@@ -385,7 +385,7 @@ The following projects, resources, and blog posts were very helpful in crafting 
 - [My condolences, you’re now the maintainer of a popular open source project][my-condolences]
 - [The Art of Closing][art-of-closing]
 
-[open-development]: /2015/12/16/improving-open-development-for-everyone/
+[open-development]: /blog/2015/12/16/improving-open-development-for-everyone/
 [issues-query]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
 [omnibus-issues-query]: https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
 [support-issues-query]: https://gitlab.com/gitlab-com/support-forum/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
