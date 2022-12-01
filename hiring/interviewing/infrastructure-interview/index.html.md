@@ -1,4 +1,17 @@
-**Most common open roles in Infrastructure**
+---
+layout: handbook-page-toc
+title: "Interviewing at GitLab - Infrastructure"
+description: "Tips on how to prepare for your interview - Infrastructure"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## **Most common open roles in Infrastructure**
 
 - [Backend Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/backend-engineer/)
 - [Site Reliability Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)
@@ -6,12 +19,12 @@
 - [Engineering Manager](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/)
 
 
-**Tips on how to prepare for Infrastructure interviews**
+## **Tips on how to prepare for Infrastructure interviews**
 
 What is it like to interview for roles in the Infrastructure department at GitLab? Here are some tips and general guidelines for the recruitment stages:
 
 
-**1. Application**
+### **1. Application**
 
 When applying for roles at GitLab, make sure to upload the resume that will highlight your skills and experience, so that you are noticed! Review the role's description carefully to understand if this is a good match, not only in terms of your technical skills but also in terms of your expectations from the role.
 
@@ -46,7 +59,7 @@ Now it's time to get excited! Here are some links that might help you understand
 - [Infrastructure careers and internships](https://about.gitlab.com/handbook/engineering/infrastructure/career/)
 
 
-**2. 30-Minute Screening call with a Recruiter**
+### **2. 30-Minute Screening call with a Recruiter**
 
 The purpose of this call is to learn more about you, your expectations and your experience. On our part, we endeavour to learn how well we align in terms of: us being able to support your growth and aspirations if you join GitLab; how your skills, both technical and soft, match our needs in Infrastructure and at GitLab; how we can meet your expectations.
  
@@ -56,7 +69,7 @@ Don't forget to prepare questions for us, we love them! This goes for all the in
 You might expect to hear back from us via email within three business days from the Screening call.
 
 
-**3. 90-Minute Technical Interview with a member of the Infrastructure team**
+### **3. 90-Minute Technical Interview with a member of the Infrastructure team**
 
 Successful candidates will be moved to the next step: Technical Interview. The Technical Interview varies depending on the team and position that you are applying for. We will share more information about what to expect and what to prepare ahead of this round if required. If there is prep work, it will be limited to about an hour.
 
@@ -76,7 +89,7 @@ To help you understand more about the team you are interviewing with, we share i
 Feel free to ask for clarifications in case the instructions/end-goals of a task are not clear. Together with that, you are welcome to prepare any questions for our Engineers! You might expect to hear back from us via email within three business days of the Technical Interview.
 
 
-**4. 60-Minute Hiring Manager Interview**
+### **4. 60-Minute Hiring Manager Interview**
  
 Successful candidates will be moved to the next step: A behavioral or scenario based Manager interview.
  
@@ -85,7 +98,7 @@ At this stage, you will meet with the hiring manager for the position you are ap
 You might expect to hear back from us via email within three business days of the Behavioral Interview.
  
 
-**5. 60-Minute Peer Interview with a member of the team**
+### **5. 60-Minute Peer Interview with a member of the team**
 
 Successful candidates will be moved to the next step: A behavioral / scenario based peer interview, with a member of the team that you are interviewing to join.
 
@@ -94,7 +107,7 @@ Similarly to the Engineering Manager interview, this call will be focused on fur
 You might expect to hear back from us via email within three business days of the Peer Interview.
 
 
-**6. Leadership Interview**
+### **6. Leadership Interview**
 
 Successful candidates will be moved to the next step: Senior Manager/Director/VP Interview.
  
@@ -103,7 +116,7 @@ You made it this far - congratulations! This is the last interview. You should e
 You might expect to hear back from us via email within three business days of the Leadership Interview.
 
 
-**7. Reference Checks**
+### **7. Reference Checks**
 
 Successful candidates will be moved to Reference Checks. We will reach out to you and ask for three professional references to contact about your professional experience.
  
@@ -116,9 +129,9 @@ If you don't have a long history of professional employment (E.g. if you've only
 After you provide us with your references, now it's time to relax! The hiring manager or the hiring team will contact the references you share with us. It will take us some time to gather the information and it depends on how soon we hear back from your references. Don't worry if you don't hear back from us for a couple of days. If we run into any roadblocks, we will definitely inform you. We will keep you updated at least once a week so that you know what the status is.
  
 
-**8. Offer**
+### **8. Offer**
  
 Successful candidates will subsequently be made an offer. Once the offer is ready, the Recruiter will reach out to you to schedule a Zoom call to discuss its details.
  
-Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/jobs/faq/)
+## Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/jobs/faq/)
 
