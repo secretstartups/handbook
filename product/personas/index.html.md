@@ -336,9 +336,6 @@ _“I need to be jack of all trades: When SecOps get paged, it could be about an
 
 ##### Related resources
 
-- [Security Operations Engineer persona - pdf version](assets/Persona_SecOpsEngineer.pdf)
-- [Day in the Life for the Security Operations Engineer persona](Day_in_the_Life_SecOpsEngineer_Persona.html)
-- [Incident Response flow - pdf version](assets/Incident_Response_Flow_SecOpsEngineer.pdf)
 - [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/2215)
 
 #### Simone (Software Engineer in Test)
