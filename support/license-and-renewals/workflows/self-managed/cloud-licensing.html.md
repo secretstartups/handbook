@@ -43,7 +43,7 @@ graph TD;
   E(Support generates legacy<br>license and replies on ticket<br>letting requester know)
   F{Did the user purchase/renew<br>before July 2022?}
   G(Support uses<br>Support::L&R::Strict Cloud Licensing - Legacy license generated<br>macro)
-  H{Did they purchase web direct?}
+  H{"Did they purchase web direct?<br>🔗 See FAQ 4"}
   I(Support uses<br>Support::L&R::Strict Cloud Licensing - contact sales<br>macro)
 ```
 
@@ -94,6 +94,19 @@ Reseller customers should be directed to sales as well using the same process.
 We can generate a legacy license in this situation, but only after an exemption has been approved. **Do not apply the exemption to the currently CL-enabled subscription.** Instead, generate a legacy license duplicate of the existing license.
 
 Please see [this comment thread](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/610#note_1052615060) for greater context on this workaround.
+
+#### 4. How do I tell if a purchase was web direct?   
+
+Check the `Created By` value of either (1) the invoices for the specific purchase in the customer's Zuora account (https://www.zuora.com/apps/CustomerAccount.do?method=view&id=<ACCOUNT_ID>) or (2) the Subscription's Change History (https://www.zuora.com/platform/subscriptions/<SUBSCRIPTION_ID>):
+
+- Web direct: If it is the **Fulfillment API User** (`svc_zuora_fulfillment_int@gitlab.com` or `ruben_APIproduction@gitlab.com`).
+- Not web direct: If it either the **SalesForce API User** (`svc_ZuoraSFDC_integration@gitlab.com`) or a GitLab team member's email (mostly it would be a Billing team member).
+
+"New Business" web direct purchase opportunities in SFDC will often be created as `ACCOUNT-NAME - Web Direct`.  The **Initial Source** field will also be filled as "Web Direct".
+-  **Note:** A sales-assisted renewal or add-on may still reflect **Initial Source** as "web direct", so you can further confirm:
+
+Web direct purchases also create a Quote in the customer's SalesForce account. However, the **Status** of the Quote is almost always `New`. 
+- For Sales assisted and reseller purchases, you can confirm the details of the successful purchase by checking the Quote in the customer's SalesForce account with its **Status** set to `Sent to Z-Billing`.
 
 ## Additional Resources
 For more information on Cloud Licensing, please refer to the following resources:
