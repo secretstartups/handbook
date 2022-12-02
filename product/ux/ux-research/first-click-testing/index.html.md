@@ -53,7 +53,7 @@ You have a navigation design that’s in the very early stages (it may just be a
 - First, determine which tasks that you want your participants to complete. Choose tasks relevant to what you’re testing from the Core Navigation tasks list (in process). 
 - It’s recommended to have five tasks or less for the first click test. 
 - Randomize the order of tasks if you have more than one (unless tasks are dependent on each other and only make sense in a certain order). You can set randomization up easily within Qualtrics. 
-- A Navigation First Click Testing template is located in Qualtrics, within the [UX Research & Product library (internal link)](https://gitlab.eu.qualtrics.com/Q/SurveysSection?ContextLibraryID=GR_6ziMa2ooJx4Y6SF&LibraryID=GR_6ziMa2ooJx4Y6SF). For more details on how this template was set up or how to use Qualtrics for a first click study, please refer to the [Creating design evaluations in Qualtrics](https://about.gitlab.com/handbook/product/ux/ux-research/creating-design-evaluations/#first-click-tests) handbook page.
+- A Navigation First Click Testing template is located in Qualtrics, within the [UX Research & Product library (internal link)](https://gitlab.eu.qualtrics.com/Q/SurveysSection?ContextLibraryID=GR_6ziMa2ooJx4Y6SF&LibraryID=GR_6ziMa2ooJx4Y6SF). For more details on how this template was set up or how to use Qualtrics for a first click study, please refer to the Creating design evaluations in Qualtrics handbook page.
 
 
 ## How to report results

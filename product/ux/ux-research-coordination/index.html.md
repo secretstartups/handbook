@@ -273,7 +273,7 @@ That information will be compiled and shared out through Slack (channels: #ux-re
 
 At GitLab, when we communicate with our research study participants, we take [GDPR](https://about.gitlab.com/gdpr/) and CAN-SPAM requirements seriously.
 
-* Anyone can submit a [GDPR request](https://about.gitlab.com/handbook/support/workflows/gdpr_account_deletion.html) to see which lists they are subscribed to, and be removed from any and all of them. The UX Research Operations Coordinator routinely processes these requests by searching for the contact in the UX research Qualtrics directory. If the contact is not present, the coordinator comments in the issue to document. If the contact is present in the directory, the coordinator deletes the contact, then confirms in the issue that the contact has been removed.
+* Anyone can submit a GDPR request to see which lists they are subscribed to, and be removed from any and all of them. The UX Research Operations Coordinator routinely processes these requests by searching for the contact in the UX research Qualtrics directory. If the contact is not present, the coordinator comments in the issue to document. If the contact is present in the directory, the coordinator deletes the contact, then confirms in the issue that the contact has been removed.
 * Every email sent to the research panel members contains an unsubscribe link. When a recipient clicks the link, Qualtrics [automatically confirms](https://www.qualtrics.com/support/survey-platform/distributions-module/email-distribution/emails-overview/#UsingTheOptOutLink) that they have been unsubscribed from the mailing list.
 
 
