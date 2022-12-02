@@ -64,6 +64,7 @@ A long while ago I did a [series of blog posts](https://nztebs.blogspot.com/sear
 
 Recent hobbies these have included:
 
+- needlefelting fanciful forest critters (no photos yet)
 - fermented foods ([sauerkraut](https://www.instagram.com/p/B4EjBRdhSFc/), [sourdough](https://www.instagram.com/p/B8ahzBZpihR/) bread, kombucha, kefir water, [pickles](https://www.instagram.com/p/B4JopFphgmm/)), 
 - [water color painting](https://www.instagram.com/p/BkZySmClad2/), 
 - acrylic painting (I paint emotions, and my general guideline is "if my husband likes it, I'm not painting in my personal style" - it's a bit of a standing joke in my household!), 
