@@ -103,7 +103,7 @@ Our individual question scores mirror the scale used for the overall SUS score. 
 
 Even though SUS scores are on a 100-point scale, they are not percentages and should not be treated as such. [Jeff Sauro recommends](https://measuringu.com/interpret-sus-score/) communicating SUS scores as percentiles. We include a percentile and letter grade using the proprietary scale Sauro developed whenever we report a SUS score.
 
-Company targets for our SUS score are: 73 by Q4FY24, 77 by end of FY25, and 82 by end of FY26.
+Company targets for our SUS score are: 73 by Q4-FY24, 77 by Q4-FY25, and 82 by Q4-FY26.
 
 | Grade | SUS | Percentile | Adjective |
 | ----- | ----- | ----- | ----- |
