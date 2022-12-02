@@ -18,7 +18,7 @@ To develop a formalized system of checks and balances, thereby helping protect G
 ## Scope
 
 As a public company [Sarbanes- Oxley (SOX)](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act) regulations apply to GitLab. 
-GitLab has adopted the [COSO framework](https://www.coso.org/Pages/ic.aspx) as the criteria for evaluating the effectiveness of the company’s internal control over financial reporting.
+GitLab has adopted the [COSO framework](https://www.coso.org/sitepages/internal-control.aspx) as the criteria for evaluating the effectiveness of the company’s internal control over financial reporting.
 
 ## Roles and Responsibilities
 
