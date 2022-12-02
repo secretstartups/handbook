@@ -79,4 +79,4 @@ Staff Support Engineers should discuss with their manager if and when to take on
 
 ## Support Engineering READMEs
 
-Staff Support Engineers are encouraged to have a [README](../../readmes/).
+Staff Support Engineers are encouraged to have a README.

@@ -91,7 +91,7 @@ This stems from the `GitLab Plan` field. It correlates as follows:
 
 When multiple of these tags appear on the same ticket, it will apply the SLA
 policy that comes first (order wise). See
-[Zendesk Global SLAs](zendesk_global_slas.html) for more details.
+[Zendesk Global SLAs](/handbook/support/support-ops/documentation/zendesk_us_federal_sla_policies.html) for more details.
 
 ### What if an organization has multiple subscriptions?
 
