@@ -98,6 +98,7 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 <summary markdown="span">Process Docs & Training Guides</summary>
 - [PHD Partner Payment Process](https://docs.google.com/document/u/0/d/17KMl0iUX96cP9uKNsJpiznME9Tf7loXPPpNbf9TAoWU/edit)
 - [Impartner Certification Uploads](https://gitlab.zoom.us/rec/share/A3LGszeVNhfLKHCqvs2Q9oDA7hyuV5RJPT_LayzXpEuMiWvXEx6WXqaBBvmUvq2n.Btee--CGckwTqHQw) (pw: ^ubeHR3W)
+- [Building Partner Insights](https://docs.google.com/document/d/1jFo7kQ6CZwNzRP1WXbyCUrPx16qUmPtXyAtaAyyhJIE/edit#heading=h.m3xtrm4e04xn)
 </details>
 
 <details>
