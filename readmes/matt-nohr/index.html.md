@@ -16,7 +16,7 @@ I'm a Backend Engineering Manager at GitLab for the [Code Review Backend](https:
 
 I've previously worked on these teams at GitLab: 
 
-- [Ecosystem](https://about.gitlab.com/handbook/engineering/development/dev/ecosystem/)
+- Ecosystem
 - [Create:Editor](https://about.gitlab.com/handbook/engineering/development/dev/create/editor/)
 - Create:Knowledge
 - [Monitor:APM](https://about.gitlab.com/handbook/engineering/development/ops/monitor/monitor/) and Monitor:Health
