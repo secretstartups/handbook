@@ -378,7 +378,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates | Reason |
 | --- | --- |
-| TBD | A Super Cool Launch |
+| 2022-12-21 to 2023-1-2 | End of 2022, limited coverage |
 
 During PCL periods, merge requests and deployments can only be made by senior team members, managers, and levels of management above our team.
 
