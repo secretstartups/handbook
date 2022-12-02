@@ -168,17 +168,48 @@ We feel it is important to document and communicate, that changing of any item's
 
 ### Retrospectives
 
-The Plan stage conducts [monthly retrospectives in GitLab
+The Plan stage conducts [monthly retrospectives asynchronously using GitLab
 issues][retros]. These are confidential during the initial discussion,
-then made public in time for each month's [GitLab retrospective]. For
-more information, see [team retrospectives].
+then made public once concluded.
 
 The retrospective issue is created by a scheduled pipeline in the
-[async-retrospectives] project. For more information on how it works, see that
-project's README.
+[async-retrospectives] project. It is then updated once the milestone
+is complete with shipped and missed deliverables. For more information on how 
+it works, see that project's README.
 
-[GitLab retrospective]: /handbook/engineering/workflow/#retrospective
-[team retrospectives]: /handbook/engineering/management/team-retrospectives/
+An EM from the Plan stage is assigned to each retrospective on a rotational
+basis as the DRI for conducting and concluding the retrospective, along with
+summary and corrective actions. The rotation for upcoming milestones is as follows:
+
+| Milestone | DRI |
+|---   | ---       |
+| 15.5 | Donald Cook |
+| 15.6 | Kushal Pandya |
+| 15.7 | Jarka Košanová |
+| 15.8 | John Hope |
+| 15.9 | Brandon Labuschagne |
+
+The role of the DRI is to facilitate a psychologically safe environment where team-members
+feel empowered to give feedback with candour. As such they should refrain from participating
+directly. Instead they should publicise, conclude and make improvements to the retrospective 
+process itself.
+
+#### Timeline
+
+* **27th (Previous Month)** A retrospective issue is automatically created for the milestone in progress.
+* **18th** The milestone is **closed** and open issues in the build phase are labelled with ~"missed deliverable".
+* **21st** The issue description is automatically updated with shipped and missed deliverables and the team are tagged to add feedback.
+* **4th (Next Month)** A final reminder is created automatically in #s_plan for final feedback.
+* **5th (Next Month)** The DRI [concludes the retrospective](#concluding-the-retrospective).
+
+#### Concluding the Retrospective
+
+The DRI is responsible for completing the following actions: 
+* Adding a comment to the retrospective issue summarizing actionable discussion items and suggesting corrective actions.
+* Finding a DRI for each corrective action. 
+* Recording a short summary video and sharing in #s_plan. This can be discussed in the next weekly team call and can be added to the Plan Stage playlist on Youtube so that it shows up on team pages.
+* Closing the issue and making it public.
+
 [async-retrospectives]: https://gitlab.com/gitlab-org/async-retrospectives
 [retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
 
