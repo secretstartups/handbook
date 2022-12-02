@@ -1429,7 +1429,7 @@ Read more about how GitLab combats [burnout, isolation, and anxiety in an all-re
      - Expansion of user roles and additional admin features to reduce IT approval bottlenecks and expedite internal IT requests
      - Leverage to enterprise compliance and security features to unlock trust across devices, teams, customers, and shareholders.
 1. **How will I login to the new Workspace?**
-     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile as you normally would. 
+     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile as you normally would. You can click [here](https://docs.google.com/document/d/1uIdqjOFJzUkqzDhwITXC0NlNqm4BLQ9PKN9-AOaROt8/edit?usp=sharing) for instructions. (GitLab Team Only)
 1. **Will all the old channels and messages be available in the new Workspace?**
     - Yes, all channels and messages will be migrated with the Workspace. 
 1. **How will the new workspace look different from the old one**
