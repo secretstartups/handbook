@@ -161,7 +161,7 @@ As an engaged employer with Glassdoor, we're able to customize the branded conte
 
 ##### Responding to Glassdoor reviews
 
-The [Talent Brand Manager](/job-families/people-ops/talent-branding-manager/) keeps track of new company reviews and escalates them as needed for an external response and internal action. [Here's our process](/handbook/people-group/employment-branding/glassdoor-escalation/) for tracking and escalating reviews.
+The Talent Brand Manager keeps track of new company reviews and escalates them as needed for an external response and internal action. [Here's our process](/handbook/people-group/employment-branding/glassdoor-escalation/) for tracking and escalating reviews.
 
 ##### OpenCompany designation
 

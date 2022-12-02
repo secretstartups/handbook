@@ -111,7 +111,7 @@ flowchart TD
 | LawLogix | SFTP Upload | one-way (reads from BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#team-members-to-lawlogix-i9) |
 | Okta | TBD | TBD |TBD |
 | Culture Amp | TBD | TBD |TBD |
-| Assessment Tool | API |  two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/#data-used-from-bamboohr) |
+| Assessment Tool | API |  two-way (reads and writes from/to BambooHR) | |
 | Nominator bot | API | two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#nominator) |
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
