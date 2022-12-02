@@ -24,7 +24,7 @@ Okta. This is required, as Okta will act as the authentication mechanism for
 signing into any Zendesk instance.
 
 If you find a need to change the role of a Zendesk agent, please follow the
-workflow detailed at [Changing Zendesk Agent roles](zendesk_roles.html).
+workflow detailed at [Changing Zendesk Agent roles](/handbook/support/support-ops/training/zendesk-roles.html).
 
 ### Light Agents for Zendesk Global
 

@@ -68,7 +68,7 @@ To avoid long running NRT breaches, Senior Support Engineers in the Ginkgo group
 
  - EMEA/AMER friendly pairing sessions are held every weekday from 15:30 to 16:30 UTC.
 
-**Goal**: Meet as a group and work toward our [Definition of Success](../index.html.md#success-of-their-group-means).
+**Goal**: Meet as a group and work toward our Definition of Success.
 
 **Guidelines**: Decide if a Pairing Session or a Crush Session is the best format for any given day, based on how the FRT queue looks and on current workload of the participants.
 
