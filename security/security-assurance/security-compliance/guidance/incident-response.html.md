@@ -59,7 +59,7 @@ GitLab provides a contact method for external parties to:
 
 3. GitLab IR Contact information in the Handbook
 *  [Information on how to contact the GitLab legal team](/handbook/legal/)
-*  [Information on how to submit DMCA takedown requests to GitLab](/handbook/security/dmca-removal-requests.html)
+*  [Information on how to submit DMCA takedown requests to GitLab](/handbook/support/workflows/dmca.html)
 *  [GitLab maintains current contact information for external parties to report Security incidents](/handbook/security/#external-contact-information)
 *  [GitLab maintains an active bug bounty program](/handbook/security/#vulnerability-reports-and-hackerone) on HackerOne as another way for external parties to report security vulnerabilities
 *  [All other inquiries and reports can be made on the `gitlab-ce` issue tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues)

@@ -33,4 +33,4 @@ This control is owned by the Legal Team.
 * [GitLab Privacy](https://about.gitlab.com/handbook/legal/privacy/)
 * [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
 * [Privacy Laws and GitLab](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html)
-* [DPIA](https://about.gitlab.com/handbook/security/dpia-policy/)
+* [DPIA](https://about.gitlab.com/handbook/legal/privacy/dpia-policy/)

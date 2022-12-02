@@ -276,4 +276,3 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)
 - [STORM Methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
 - [Professional Services](https://about.gitlab.com/handbook/finance/procurement/professional-services/#how-do-i-purchase-professional-services-andor-hire-a-contractor)
-- [Application Security Assessments](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/tprm-review-process.html)

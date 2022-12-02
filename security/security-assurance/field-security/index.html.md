@@ -79,5 +79,5 @@ Do you have an idea, feedback, or recommendation for how Field Security can bett
 * [Security Shadow Program](/handbook/security/security-shadow-security-assurance.html)
 
 <div class="flex-row" markdown="0" style="height:40px">
-    <a href="/handbook/security/security-assurance/.html#" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Security Assurance Homepage</a>
+    <a href="/handbook/security/security-assurance/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Security Assurance Homepage</a>
 </div> 
