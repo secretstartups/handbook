@@ -48,7 +48,9 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 - ~"workflow::production"
    - The issue has been completed and should be closed.
 
-### Exit Criteria (99% completed)
+### Exit Criteria (100% completed)
+
+Exit criteria for this working group has been completed, however monthly follow up meetings are still active until Febuary 2, 2023.
 
 
 | #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
@@ -57,13 +59,13 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | 2  |  2022-04-26       | 2022-07-22 | 2022-07-18      | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
 | 3  |  2022-05-04       | 2022-08-05 | 2022-10-04            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
 | 4  |  2022-05-18       | 2022-08-05 | 2022-10-04            | @oregand | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
-| 5  |  2022-06-01       | 2022-08-05 | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
+| 5  |  2022-06-01       | 2022-08-05 | 2022-11-16            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
 
 ### Data and dashboards
-- [Reviewer/Maintainer availability and capacity](https://app.periscopedata.com/app/gitlab/1028635/Reviewer-Maintainer-Availability-and-Capacity) - Shows the maintainer/reviewer availability rate over time and incoming/forecasted review requests
+- [Reviewer/Maintainer availability and capacity](/handbook/engineering/workflow/code-review/#maintainerreviewer-availability) - Shows the maintainer/reviewer availability rate over time and incoming/forecasted review requests
 - [Maintainer WG dashboard](https://app.periscopedata.com/app/gitlab/1020829/Maintainer-WG) - A sandbox dashboard for metrics related to the working group
 - [Maintainers and Trainees](/handbook/engineering/development/performance-indicators/#maintainers-and-trainees)
-- [Maintainers per MR](/handbook/engineering/development/performance-indicators/#maintainers-per-mr)
+- [Maintainership Demand](/handbook/engineering/workflow/code-review/#maintainer-demand)
 - [Maintainer Approval Velocity](https://app.periscopedata.com/app/gitlab/1036023/Maintainer-Approval-Velocity)
 
 ### Roles and Responsibilities
