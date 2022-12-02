@@ -23,7 +23,7 @@ Making a user- or group-level change doesn't require a Business Technology chang
 
 Additional examples include: If you are making a Process and/or Policy change that will impact only your team's process, a change management is not required. If you are making a Process and/or Policy change that will impact one or more other departments, a change management is required.
 
-For additional information regarding Change Management, refer to our [Change Management Workflow Control Guidance](/handbook/security/change-management-guidance.html).
+For additional information regarding Change Management, refer to our Change Management Workflow Control Guidance.
 
 **A Business Technology change request is only needed when a change is being requested for review for applications already listed in our tech stack.**
 

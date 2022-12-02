@@ -100,7 +100,6 @@ Handbook pages:
 - [FACE Single Source of Truth Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
 - [Data Collaboration Hub](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub/)
 - [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
-- [Tech Stack - Data and Integrations](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/data-and-integrations/)
 
 ### Current State of Business Intelligence
 

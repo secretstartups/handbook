@@ -365,12 +365,12 @@ Also, please see this [Jamf customization project issue](https://gitlab.com/gitl
 ### What are the specific items from various compliance frameworks we are looking to address?
 
 Some of the specific items in question are things like:
-[Asset tracking and lifecycle management](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/am.1.01-inventory-management.html)
-[Encryption of Data at Rest (Laptop disk encryption)](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/DM.4.02_encryption_of_data_at_rest.html)
-[Data retention and disposal (disk wiping)](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/DM.7.03_data_retention_and_disposal_policy.html)
+[Asset tracking and lifecycle management](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/am.1.01-inventory-management.html) 
+Encryption of Data at Rest (Laptop disk encryption)
+Data retention and disposal (disk wiping)
 
 There are other security frameworks that establish baseline security policies like:
-[Password Policy and Authentication](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/IAM.2.02_password_authentication.html)
+Password Policy and Authentication
 
 ### How does this align with GDPR (EU General Data Protection Regulation)?
 
