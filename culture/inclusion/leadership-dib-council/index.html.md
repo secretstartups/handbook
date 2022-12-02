@@ -27,11 +27,11 @@ Senior leadership representative (Snr. Dir +) from each Department and a person 
 
 * Engineering x 2 
 * Product x 2
-* Security x 1
+* Security 
 * Sales x 2
 * Marketing x 2
 * Finance
-* Legal 
+* Legal & Corporate Affairs 
 * People
 * Representative from DIB Influencer Group
 * Office of CEO representative
