@@ -30,7 +30,7 @@ A tangible artifact of authorization from someone with the authority to give it 
 
 The process for obtaining the necessary permission can be different per engagement and service provider and will require due diligence.  For example, AWS has its own unique set of guidelines for performing assessments that can be found here:  https://aws.amazon.com/security/penetration-testing/.  In contrast, Google Cloud's policy is completely different from the evidence illustrated here:  https://support.google.com/cloud/answer/6262505?hl=en.  
 
-As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks in the wild.  We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Information Privacy section of the Code of Business Conduct & Ethics](../../people-operations/code-of-conduct/#employee-information-privacy) page of the handbook during our engagements.  As a GitLab employee, it is expressly important to review the statements in this documentation regarding privacy of personal information and personal devices used for GitLab business.
+As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks in the wild.  We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the Employee Information Privacy section of the Code of Business Conduct & Ethics page of the handbook during our engagements.  As a GitLab employee, it is expressly important to review the statements in this documentation regarding privacy of personal information and personal devices used for GitLab business.
 
 ### Communication and Collaboration
 
@@ -38,11 +38,11 @@ The Red Team is an extension of the Security Team as a whole.  We actively colla
 
 ### Results, Remediation, and Escalation
 
-As we are a results driven organization, engagement results are properly and securely documented, communicated, and actionable with proper respect given to the [sensitivity of information](./data-classification-standard.html).  In order to make results actionable, we collaborate with our teammates in ours and other departments to track remediation through [existing organizational processes](/handbook/security/#creating-new-security-issues), making issues confidential where necessary.  Specifically, we follow the functional and operational escalation points mentioned in the previous link for tracking remediation. 
+As we are a results driven organization, engagement results are properly and securely documented, communicated, and actionable with proper respect given to the [sensitivity of information](/handbook/security/data-classification-standard.html).  In order to make results actionable, we collaborate with our teammates in ours and other departments to track remediation through [existing organizational processes](/handbook/security/#creating-new-security-issues), making issues confidential where necessary.  Specifically, we follow the functional and operational escalation points mentioned in the previous link for tracking remediation. 
 
 ### Critical Vulnerabilities and Exploits
 
-Critical vulnerabilities and exploits found during an engagement that are currently or have immediate propensity to impact normal GitLab business operations should engage the security on-call and follow our [incident response guide](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html).  [Sensitive information](./data-classification-standard.html) and communicated by creating a confidential security issue using [existing Security Issue Triage process](/handbook/security/#issue-triage) in the appropriate project.
+Critical vulnerabilities and exploits found during an engagement that are currently or have immediate propensity to impact normal GitLab business operations should engage the security on-call and follow our [incident response guide](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html).  [Sensitive information](/handbook/security/data-classification-standard.html) and communicated by creating a confidential security issue using [existing Security Issue Triage process](/handbook/security/#issue-triage) in the appropriate project.
 
 ### Emergencies
 
