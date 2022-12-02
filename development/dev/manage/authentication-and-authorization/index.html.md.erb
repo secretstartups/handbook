@@ -108,6 +108,17 @@ Our purpose of estimation is to confirm that we
 
 We do not expect that during estimation, implementation details are scrutinized, all blockers are caught, or prove that the proposed solution is the right one. This all happens during development. In development, we, sometimes, reshape the issue, change its solution, or even postpone it. We are proud of doing it.
 
+#### Considerations for Estimation
+
+With keeping the above in mind, some areas to consider when estimating are:
+
+- If this work needs to be broken down into smaller tasks? Including adding a spike for that investigation/break down.
+- Impact on unit, feature and QA testing. Sometimes an apparently small modification in the code can lead to many changes in the tests. 
+- Is there a hidden inter-dependency between the frontend and backend that needs to be agreed upon?
+- Are there data persistence requirements e.g in browser, redis or database?
+- How would this feature/bug-fix be deployed and is there complexity in managing the the rollout?
+- Does this work require collaboration across teams? e.g security
+
 #### During a release
 
 Engineers should assign issues to themselves based on the [current release](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395?label_name[]=group%3A%3Aauthentication%20and%20authorization&label_name[]=Deliverable&milestone_title=Started) and ~Deliverable label. We use the following workflow label cycle on our issues:
