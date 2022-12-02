@@ -195,30 +195,33 @@ The CSM Manager is responsible for developing and delivering a [Quarterly Busine
 - Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
 - [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
 
-## Gainsight/Customer Review in Director/CSM Manager 1:1 Cadence: 
+## Gainsight/Customer Review in Director/CSM Manager 1:1 Cadence
+
+This cadence is used by CSM managers in their weekly 1:1 with their direct manager (Director or Vice President).
+
+`1st week` is defined as the first **full** week of the month.
 
 1st week: 
-- Onboarding Metrics, Overdue onboarding (burn-down) EBRs overdue, Engagement/Cadence Calls overdue (focus on PR1)
-- Development: Personal Growth Plan
-- Recruiting update: open headcount hiring status, quality and pipeline
-- Discussion
+1. Onboarding Metrics, Overdue onboarding (burn-down) EBRs overdue, Engagement/Cadence Calls overdue (focus on PR1)
+1. Development: Personal Growth Plan
+1. Recruiting update: open headcount hiring status, quality and pipeline
+1. Discussion
 
 2nd week:
-- Success Plan Review (2 SPs)
-- Upcoming At-Risk Renewals (Contractions, Churn, for rolling 90 days)
-- OKR /Big Rock initiatives progress
-- Discussion
+1. Success Plan Review (2 SPs)
+1. Upcoming At-Risk Renewals (Contractions, Churn, for rolling 90 days)
+1. OKR /Big Rock initiatives progress
+1. Discussion
 
 3rd week:
-- Adoption Playbooks Opened, Closed Quarter to Date
-- Adoption Risk (Red DevSecOps, Low License)
-- Recruiting update: open headcount hiring status, quality and pipeline
-- Discussion
+1. Adoption Risk (Red DevSecOps, Low License)
+1. Recruiting update: open headcount hiring status, quality and pipeline
+1. Discussion
 
-4th week: 
-- Renewals, At Risk Accounts, Red Scorecards
-- OKR /Big Rock initiatives progress
-- Discussion
+4th week:
+1. Renewals, At Risk Accounts, Red Scorecards
+1. OKR /Big Rock initiatives progress
+1. Discussion
 
 
 
