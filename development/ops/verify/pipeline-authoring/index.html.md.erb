@@ -39,7 +39,7 @@ This section will list the top three most recent, exciting accomplishments from 
 
 * We [added](https://gitlab.com/gitlab-org/gitlab/-/issues/293645) in the `rules:change:compare:` which allows you to compare a branches and prevent those pipelines or jobs to run every time a new branch is pushed.
 * We welcomed our new Backend Engineer to the team, [Leaminn Ma](https://gitlab.com/lma-git)!!
-* We welcomed our new Interim Senior Product Designer to the team, [Kevin Comoli](https://gitlab.com/kcomoli)!!
+* Starting 2022-12-01, we welcome to the team our new Senior Product Designer, [Sunjung Park](https://gitlab.com/sunjungp)!!
 
 ## Team Members
 
@@ -74,8 +74,8 @@ Issues are refined and weighted prior to assigning them to a milestone. We use `
 We create a [planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-authoring/-/blob/master/.gitlab/issue_templates/Planning_issue_PA.md) as part of our milestone planning process and the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started) is the single source of truth ([SSOT](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot)) for current and upcoming work. Product is the DRI in prioritizing work, with input from Engineering, UX, and Technical Writers. The planning issue is used to discuss questions and team capacity. Prior to the beginning of each milestone, issues identified in the planning issue will be assigned to that milestone and engineers can assign prioritized issues to themselves from the top of the `workflow::ready for development` column in the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started).
 
 #### Finding issues that need refinement
-All issues that need refining will have the `~needs weight` label applied to them.
-You can access all these issues using this [issue filter](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight).
+All issues that need refining will have the `~workflow::planning breakdown` label applied to them to show that the issues are ready to be weighted.
+You can access all these issues using this [issue filter](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name%5B%5D=group%3A%3Apipeline%20authoring&label_name%5B%5D=workflow%3A%3Aplanning%20breakdown).
 It's never too early to refine an issue, but we should prioritise the issues closest to starting.
 
 #### How Engineering Refines Issues
@@ -102,17 +102,17 @@ Any one on the team can contribute to answering the questions in this checklist,
 ##### Steps for Refining and Weighting Issues
 
 Engineers will:
-1. Go through the checklist above for refining issues assigned to them
-1. Add a [weight based on the definitions](#weighting-issues)
-1. Update the `~workflow::` label to the appropriate status, e.g. 
-   * ~"workflow::design" if further design refinement is needed, and let the designer know
-   * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can be scheduled accordingly
-   * ~"workflow::planning breakdown" if more investigation or research is needed, the status does not move, and the PM and EMs should be pinged
-1. Unassign themselves from the issue when they are done refining and weighting the issue
+1. Go through the checklist above for refining issues they assign to themselves prior to each milestone.
+1. Add a [weight based on the definitions](#weighting-issues).
+1. Update the `~workflow::` label to the appropriate status, for example:
+   * ~"workflow::design" if further design refinement is needed, and let the designer know.
+   * ~"workflow::ready for development" when refinement is complete and a weight has been applied, signaling that it's ready for implementation and the issue can be scheduled accordingly.
+   * ~"workflow::planning breakdown" if more investigation or research is needed, the status does not move, and the PM and EMs should be pinged.
+1. Unassign themselves from the issue when they are done refining and weighting the issue.
 
 #### Weighting Issues
 
-The `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/1486497?label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight) is used to show issues that `needs weight` for the next milestone. That criteria will be denoted by having a `needs weight` label and the appropriate milestone candidate label applied to it (i.e. `candidate::15.0`). During the first week of the month (i.e May 1-7), team members will review the `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/1486497?label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight) and assign themselves to issues. Issues that aren't able to be weighted in one milestone will be evaluated for future milestones. If there is an issue with a higher urgency for weighting, a team member might be directly assigned to the issue for a prioritized review.
+The `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name%5B%5D=group%3A%3Apipeline%20authoring&label_name%5B%5D=workflow%3A%3Aplanning%20breakdown) is used to show issues that need weight applied for the next milestone. That criteria will be denoted by having a `workflow::planning breakdown` label and the appropriate milestone candidate label applied to it (i.e. `candidate::15.0`). During the first 7 days of the month (i.e May 1-7), team members will review the `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name%5B%5D=group%3A%3Apipeline%20authoring&label_name%5B%5D=workflow%3A%3Aplanning%20breakdown) and assign themselves to issues. Issues that aren't able to be weighted in one milestone will be evaluated for future milestones. If there is an issue with a higher urgency for weighting, a team member might be directly assigned to the issue for a prioritized review.
 
 We add a `Weight` to issues as a way to estimate the effort needed to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
 
@@ -205,10 +205,29 @@ Specifically, this means our work is prioritized in the following order:
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+
+#### "What if there are no issues left in current milestone?"
+
+As we get closer to the end of the milestone, there sometimes might be no unassigned issues left to pick from. When that happens, engineers should pick up new work following the order below:
+
+```mermaid
+flowchart LR
+ 1(Check for current milestone label)
+ 2(If none, check for current milestone candidate label)
+ 3(If none, check for next milestone label)
+ 4(If none, check next milestone candidate label)
+
+subgraph Prioritization
+1 --> 2 --> 3 --> 4
+end
+
+Prioritization
+```
+
 #### Monthly issue progress update
 
 We use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate the probability that an issue will ship in the assigned milestone.
-On the last week of the milestone the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) should update the health status for any open issue they are assigned to, with the following options 
+On the last week of the milestone, the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) should update the health status for any open issue they are assigned to, with the following options:
 
 - `On Track` - The issue has no current blockers, and is likely to be completed in the current milestone.
 - `Needs Attention` - This signals that the DRI of the issue requires collaboration it might impact planned delivery.
