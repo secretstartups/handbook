@@ -49,7 +49,7 @@ A namespace cannot have a trial and an active subscription run
 concurrently.  
 
 A workaround is to advise the customer to create a new group and request a trial 
-for it in order to test the  higher plan features. See more in the [Sales FAQ for Trials over Paid Plans on GitLab SaaS](https://drive.google.com/drive/u/0/search?q=%22Sales%20FAQ%20for%20Trials%20over%20Paid%20Plans%20on%20GitLab%20SaaS%22).
+for it in order to test the  higher plan features. See more in the [Sales FAQ for Trials over Paid Plans on GitLab SaaS](https://docs.google.com/document/d/14oypfuslV75Uqw_JWvJmoxCEtrOQ_At_DIm4sk8KzvM/edit?usp=sharing).
 
 There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
 requesting to implement this functionality in GitLab. 
