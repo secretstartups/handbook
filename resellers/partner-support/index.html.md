@@ -139,6 +139,9 @@ If a partner organization already exists in our system (Impartner/SFDC), but a n
 
 The partner will be directed to a page that asks them to confirm the company they work for. After they confirm, they should click next, and fill in their information. After submitting the information, they'll receive login credentials.
 
+### GitLab Internal Access to the Partner Portal Front End
+GitLab Channel Team members who wish to have logins to the Partner Portal for partner demo purposes may create a login [according to the instructions above](https://about.gitlab.com/handbook/resellers/partner-support/#creating-a-partner-portal-login). When asked to confirm/choose which company you work for, choose "GitLab PS." This will provide you the same view as our partners. 
+
 
 _More Information to Come!_  
 
