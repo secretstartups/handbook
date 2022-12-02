@@ -108,12 +108,12 @@ The number or complexity of features owned by a team, existing product prioritie
 
 ## Budget spend announcements
 
-On the 4th of each month, the following announcements are made:
+On the 4th of each month, the Error Budget Report is delivered for the Budget Spend by Stage Group.
+The announcements appear in `#product`, `#eng-managers`, `#f_error_budgets` and `#development`.
 
-- Budget Spend by Service
-- Budget Spend by Stage Group
-
-The announcements appear in `#product`, `#eng-managers`, `#f_error_budgets` and `#development`
+There can be months where many stage groups are over budget because of an underlying infrastructure issue. 
+When the report is generated, if there are more than 5 groups over budget (where the group's traffic share is >0.1%), the Scalability Group will investigate the increased spend before issuing the report. We will announce in the Slack channels that we are investigating before issuing the report. 
+The intention is to prevent duplicate investigations by multiple teams. 
 
 Feature categories with monthly spend above the allocated budget for three consecutive months are reported as part of the Engineering Allocation meeting.
 
