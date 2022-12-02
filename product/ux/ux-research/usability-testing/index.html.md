@@ -76,7 +76,7 @@ Summative usability tests tend to be larger in scope and are run with the live p
     - For each task, calculate how easy or difficult it was for participants to complete it. Look for patterns on why they gave a score.
     -  Calculate the average score for the [SUS adjective rating scale](https://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/), and look for patterns in why they gave a particular score. 
     - Note down any other interesting observations you had. 
-9. [Document your insights in Dovetail](https://about.gitlab.com/handbook/product/ux/ux-research/documenting-research-findings/). If you have actionable insights, ensure they are also [documented in the GitLab UX Research project](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights).
+9. [Document your insights in Dovetail](/handbook/product/ux/dovetail/#the-ux-research-teams-guide-to-documenting-insights-in-dovetail). If you have actionable insights, ensure they are also [documented in the GitLab UX Research project](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights).
 10. Decide on the next steps.
     - Any [actionable insights](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#actionable-insights) require a follow up. Work with your counterparts to determine priority for the identified usability problems. Remember to conduct another usability study to validate your proposed solution.
 

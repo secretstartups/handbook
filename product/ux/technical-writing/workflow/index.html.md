@@ -552,7 +552,7 @@ After adding the `Technical Writing` label, we want to classify the type of effo
 - [`documentation`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=documentation)- Use this label if files in the `/doc` directory were added, changed, or removed.
 - [`UI text`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=ui+text) - If an issue has this label:
   - If the issue describes a new feature, add the [`non-SUS`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=non-sus) label and the `feature::addition` label.
-  - If the issue is for an existing feature or has the `feature::enhancement` label, add a [severity](../../quality/issue-triage/#severity) label (it should already have the `SUS` label applied).
+  - If the issue is for an existing feature or has the `feature::enhancement` label, add a severity label (it should already have the `SUS` label applied).
 - [`global nav item`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=global+nav+item)
 - [`release post item`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=release+post+item)
 - [`tw-style`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=tw-)

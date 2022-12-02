@@ -32,7 +32,7 @@ The goal of Dovetail is to make research findings searchable, concise, and easy 
 ### The UX Research team's guide to documenting insights in Dovetail
 #### Creating a project
 
-At the end of each research study, the study's [DRI](/handbook/mecc/fast-decisions/#directly-responsible-individual-dri) is responsible for documenting the research in Dovetail. The first step is to create a new project in Dovetail, under the folder that corresponds to your product stage (e.g. Manage). 
+At the end of each research study, the study's DRI is responsible for documenting the research in Dovetail. The first step is to create a new project in Dovetail, under the folder that corresponds to your product stage (e.g. Manage). 
 
 1. Go to `Projects`. 
 1. Locate your stage group. 
