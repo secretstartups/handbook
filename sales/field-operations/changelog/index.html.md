@@ -16,6 +16,13 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q4-FY23
 
+### 2022-12-05 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/227))
+
+**[Clari Launch and SFDC Forecasting Enhancements for Partner Teams](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#clari-forecasting-for-partner-managers-and-leaders)**
+
+**[Channel Sales Permission Update for Changing Opportunity Ownership in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities)**
+
+
 ### 2022-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/197))
 
 **Sales Ops: [Clari New Logo Forecasting Changes](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/#new-logo-override-for-clari)**
@@ -24,7 +31,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Content from Sales Handbook Definitions & Glossary Docs Moved to the Internal Handbook](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3156)**
 
-**Alliance Ops: [New Google Cloud Listing | GitLab Enterprise Edition Virtual Machine | Managed by Tackle.io](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/542)**
+**Alliance Ops: [New Google Cloud Listing: GitLab Enterprise Edition Virtual Machine](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/542)**
 
 ## Q3-FY23
 
