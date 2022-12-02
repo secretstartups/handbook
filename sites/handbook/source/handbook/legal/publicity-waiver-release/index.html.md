@@ -19,7 +19,7 @@ Subject to the exceptions listed below, a Release is required when:
 - Photography or videography by or on behalf of GitLab will take place at an internal or external event, such as a conference. 
 
 A Release is **not** required when:
-- Using a current team member's name, job title, or photo taken from the [Meet Our Team page](about.gitlab.com/company/team/) in [external](/handbook/legal/materials-legal-review-process/#external-vs-internal-use) materials. This does not include the use of a former team member's photo taken from that page. 
+- Using a current team member's name, job title, or photo taken from the [Meet Our Team page](/company/team/) in [external](/handbook/legal/materials-legal-review-process/#external-vs-internal-use) materials. This does not include the use of a former team member's photo taken from that page. 
 - Using screenshots of GitLab.com which include a team member's public GitLab profile information, including their name, GitLab username, and avatar.
 - Streaming or publishing [AMAs](/handbook/communication/ask-me-anything/), [Key Review](/handbook/key-review/) meetings, and [Group Conversations](/handbook/group-conversations/) containing the Likeness of team members [publicly](/handbook/marketing/marketing-operations/youtube/#visibility) to GitLab Unfiltered.   
 
