@@ -553,6 +553,8 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 * **Level:** `to be added`
 * **Function:** `to be added`
 
+Optional: [Link to detailed persona & positioning doc>>]() - `to be added once created by PMM`| Example: https://tinyurl.com/444k8524
+
 ### Marketing message
 * Overall: `to be added`
 * Key Messages:
