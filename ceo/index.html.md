@@ -189,13 +189,10 @@ As part of my role, I participate in a variety of meetings both internal and ext
 ### Weekly Meetings
 
 1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA](/handbook/eba/). 25-50 minutes.
-1. [E-Group](/company/team/structure/#e-group) Call. 50 minutes.
-1. Talent Acquisition Syncs on key Executive hires. 25 minutes.
-1. Candidate Interviews. 25-80 minutes.
-1. PR Interviews. 25-50 minutes.
-1. Scaling. 25 minutes.
-1. PM & Engineering. 50 minutes.
-1. [Social Call](/handbook/communication/#social-call). 25 minutes.
+1. [E-Group](/company/team/structure/#e-group) Call. 120 minutes.
+1. [If there are open positions] Talent Acquisition Syncs on key Executive hires. 25 minutes.
+1. Topical conversations on top cross-functional initiatives or other areas of importance to the CEO. 25 minutes.
+1. Candidate Interviews. 50 minutes.
 
 ### Monthly Meetings
 
@@ -230,8 +227,18 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
 
-## Interviews
-1. Interviews - 50 minutes
+## Candidate interviews
+1. Candidate interviews should default to 50 minutes unless there is a specific request to make the meeting shorter or longer.
+1. There should be an invite that includes both the candidate and the CEO. If this is a C-level candidate or it is otherwise requested, the meeting should have "private" visibility. Otherwise, it can be "public."
+1. There should be a second calendar invite from Sid's account with the subject: [Shadow or No Shadows] CEO Briefing Doc: [Person's Name]. This should follow the "private" conventions shared in item 2. This invite should include a briefing document that contains the following information:
+    1. Role with a link to the job family
+    1. Candidate's LinkedIn link
+    1. Link to resume
+    1. Link to the prep package from the recruiter (relevant for searches with external recruiters)
+    1. Summary of interviews to date
+    1. Concerns for the interviewer to dig into.
+    1. Focus of the call. Is it more about evaluating the candidate or more about getting the candidate excited about the position?
+    1. The Greenhouse link or a place for "CEO Notes"
 
 ## Pick Your Brain interviews
 
