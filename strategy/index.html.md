@@ -36,7 +36,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
        1. Channel
        1. Renewals
        1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
-    1. [Registration features](/direction/registration-initiatives//#registration-features)
+    1. [Registration features](/direction/registration-initiatives/#registration-features)
 1. Prove value
     1. Advocate Training
     1. Advocate Certification
