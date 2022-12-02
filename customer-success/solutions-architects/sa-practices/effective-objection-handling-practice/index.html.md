@@ -93,7 +93,7 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 1. Please note the best objection handling method for the particular objection in a summary document like [this](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871)
 1. Repeat the exercise again.
 
-[Example Facilitation recording] (https://drive.google.com/file/d/16SQpH4EJedght5qRaNUikYCqm1t6G3tl/view)
+[Example Facilitation recording](https://drive.google.com/file/d/16SQpH4EJedght5qRaNUikYCqm1t6G3tl/view)
 
 ## Best Practices
 
