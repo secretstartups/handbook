@@ -96,8 +96,12 @@ You can tag `@gitlab-com/gl-security/security-operations/trust-and-safety` and `
 ### GitLab team members can reach Trust and Safety via: 
 
 * Slack: `#abuse` channel using the team Slack handle: `@trust-and-safety`
-  - The members of the Trust and Safety team are available for urgent responses Monday to Friday. Should there be persistent abuse that requires immediate/ongoing attention over a weekend, initiate the [Engaging the Security Engineer On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) workflow. 
-* Non urgent queries should be created in our [Operations Tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations) or tag us (`@gitlab-com/gl-security/security-operations/trust-and-safety`) in the issue and notify us in the `#abuse` slack channel.
+* Non-urgent queries should be created in our [Operations Tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations) or tag us (`@gitlab-com/gl-security/security-operations/trust-and-safety`) in the issue and notify us in the `#abuse` slack channel.
+* For `URGENT` issues that require the immediate attention of the Trust and Safety team you can page the Trust and Safety On-call by completing the [Create New Incident](https://gitlab.pagerduty.com/incidents/create?service_id=POH00VP) form in PagerDuty.
+  * `URGENT` Trust and Safety issues are defined as instances of user generated abuse : 
+      * _that is or has a high probability of resulting in service degradation or outages of `GitLab.com` and/or its features._
+      * _on `GitLab.com` that has the potential of causing significant legal, financial or reputational damage or liability to the company._
+
 
 ### Non GitLab team members.
 
