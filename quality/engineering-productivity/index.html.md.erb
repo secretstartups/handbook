@@ -30,7 +30,7 @@ description: "The Engineering Productivity team increases productivity of GitLab
 
 ### Office hours
 
-Engineering productivity has monthly office hours on the 3rd Wednesday of the month at the 13:30 UTC (6:30 PST) on odd months (e.g January, March, etc) and 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1_4BapuLIufA_OJ1YSdqdq-aLw4kjBLWQZw2hqSKDsJc/edit#). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
+Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1_4BapuLIufA_OJ1YSdqdq-aLw4kjBLWQZw2hqSKDsJc/edit#). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
 
 ## Vision
 
@@ -108,7 +108,15 @@ graph TD
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Engineering Productivity') %>
+| Name| Title|
+|------------|
+| [Alina Mihaila](https://gitlab.com/alinamihaila)| Senior Backend Engineer, Engineering Productivity|
+| [Ash McKenzie](https://gitlab.com/ashmckenzie)| Staff Backend Engineer, Engineering Productivity|
+| [David Dieulivol](https://gitlab.com/ddieulivol)| Senior Backend Engineer, Engineering Productivity|
+| [Jennifer Li](https://gitlab.com/jennli)| Acting Engineering Manager, Engineering Productivity|
+| [Jen-Shin Lin](https://gitlab.com/godfat-gitlab)| Senior Backend Engineer, Engineering Productivity|
+| [Nao Hashizume](https://gitlab.com/nao.hashizume)| Backend Engineer, Engineering Productivity           |
+| [Rémy Coutable](https://gitlab.com/rymai)| Principal Engineer, Quality|
 
 ### Stable Counterpart
 
@@ -120,8 +128,8 @@ graph TD
 
 Engineering Productivity has an alternating [weekly team meeting schedule](https://docs.google.com/document/d/1yzHuosvykzb_kaldjGP9I6wxpNpMXdNEvEFBkHyZpXs/edit#) to allow for all team members to collaborate in times that work for them. 
 
-- Week 1 is Tuesdays 1200 UTC, 0400 PDT
-- Week 2 is Tuesdays 1630 PDT, Wednesday 0030 UTC
+- Week 1 is Tuesdays 1200 UTC, 0400 PST
+- Week 2 is Tuesdays 1530 PST,  1130 UTC
 
 ### Showcase
 
@@ -225,9 +233,9 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 | [Always run minimal jobs for fork pipelines](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1170) | Complete | The goal is to reduce the CI minutes consumed by fork pipelines. The "full" jobs only run for canonical pipelines (i.e. pipelines manually started by a member of the project) once the MR is approved. | |
 | [Retry failed specs in a new process after the initial run](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148) | Complete | Given that a lot of flaky tests are unreliable due to previous test which are affecting the global state, retrying only the failing specs in a new RSpec process should result in a better overall success rate. | https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148#note_914106156 |
 | [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found that this doesn't seem to have a negative impact on `master` stability so the experiment was made opt-out. |
-| [Experiment with running previously failed tests early](https://gitlab.com/gitlab-org/gitlab/-/issues/333857) | In Progress | Can iteration or cycle time be improved if failed tests are run earlier in the `gitlab-org/gitlab` pipeline? | |
+| [Experiment with running previously failed tests early](https://gitlab.com/gitlab-org/gitlab/-/issues/333857) | Complete | We have not noticed a significant improvement in feedback time due to other factors impacting our Time to First Failure metric. | |
 | [Store/retrieve tests metadata in/from pages instead of artifacts](https://gitlab.com/gitlab-org/gitlab/-/issues/335675) | In Progress | We're only interested in the latest state of these files, so using Pages makes sense here. Also, this would simplify the logic to retrieve the reports and reduce the load on GitLab.com's infrastructure. | [There are some transient problems where a Cloudflare page is returned instead of the expected JSON file](https://gitlab.com/gitlab-org/gitlab/-/issues/337319). |
-| [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | In Progress | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | |
+| [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | In Progress | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | Improvements needed to [identify and resolve selective test gaps](https://gitlab.com/groups/gitlab-org/quality/engineering-productivity/-/epics/6) as this impacted pipeline stability. |
 | [Enabling developers to run failed specs locally](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58569) | In Progress | Enabling developers to run failed specs locally will lead to less pipelines per merge request and improved productivity from being able to fix regressions more quickly | <https://gitlab.com/gitlab-org/gitlab/-/issues/327660> |
 | [Use dynamic analysis to streamline test execution](https://gitlab.com/gitlab-org/gitlab/-/issues/222369) | Complete | Dynamic analysis can reduce the amount of specs that are needed for MR pipelines without causing significant disruption to master stability | [Miss rate of 10%](https://gitlab.com/gitlab-org/gitlab/-/issues/222369#note_480768617) would cause a large impact to master stability. Look to leverage dynamic mapping with local developer tooling. Added [documentation](https://docs.gitlab.com/ee/development/pipelines.html#rspec-minimal-job-experiment) from the experiment. |
 | [Using timezone for Reviewer Roulette suggestions](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34862) | Complete - Reverted | Using timezone in Reviewer Roulette suggestions will lead to a reduction in the mean time to merge | Reviewer Burden was inconsistently applied and specific reviewers were getting too many reviews compared to others. More details in the [experiment issue](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/563#note_397680373) and [feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/227123) |
