@@ -77,7 +77,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 *  Managed/hosted services
 *  Security/compliance
 
-Becoming an Open or Select GitLab partner is the first step to becoming a GitLab Service Partner and allows you to engage with the GitLab sales team and resell or refer GitLab products to your customers. Partners can achieve the GitLab Service Partner Program badges in addition to their program status to differentiate through their service offerings and unlock both financial and non-financial incentives as they achieve Service Partner Badges.
+Becoming an Open or Select GitLab partner or a GitLab Distribution partner is the first step to becoming a GitLab Service Partner and allows you to engage with the GitLab sales team and resell or refer GitLab products to your customers. Partners can achieve the GitLab Service Partner Program badges in addition to their program status to differentiate through their service offerings and unlock both financial and non-financial incentives as they achieve Service Partner Badges.
 
 Whether you are a new partner just getting started with a service portfolio or you already have a thriving service business that you are looking to grow through offering services around GitLab, our GitLab Service Partner Program will offer you opportunities to build a successful business with GitLab.
 
@@ -93,7 +93,7 @@ At GitLab, Service Partner Badges are meant to recognize service delivery excell
 
 All GitLab Service Partner tracks have program compliance and training requirements that must be completed before you can obtain the associated certification.
 
-When the Open or Select compliance criteria are met, and your organization sponsors the required number of practitioners who complete the training requirements and obtain the associated certifications and accreditations, your company will earn the related GitLab Service Partner Badge. 
+When the Open, Select, or Distribution compliance criteria are met, and your organization sponsors the required number of practitioners who complete the training requirements and obtain the associated certifications and accreditations, your company will earn the related GitLab Service Partner Badge. 
 
 The GitLab Channel team will communicate the award in email, and reflect the certification in the GitLab Partner Locator. 
 
@@ -112,7 +112,7 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
       </td>
       <td>Each PSP must be:
       
-      <br>* Be a Open or Select GitLab Partner
+      <br>* Be a Open or Select GitLab Partner or GitLab Distribution Partner
 
 
        <br>* Design, build and operate a professional service practice, and 
@@ -126,13 +126,12 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
       <td><h3>Competency Requirements</h3>
       </td>
       <td>
-      Each PSP must perpetually employ:
+      Each PSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ
 
 
 
-      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/#gitlab-sales-core">GitLab Sales Core</a> 
-      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/#accreditations-for-pre--sales-technical--professionals">GitLab Solutions Architect Core,</a> and 
-      <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse">GitLab Certified Professional Service Engineers</a> 
+      
+at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse">GitLab Certified Professional Service Engineers</a> 
       <ol>
          <li>Partner organizations who achieved their PSP prior to Nov. 4, 2021 are required to have three (3) <a href="https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse">GitLab Certified Professional Service Engineers</a> on staff prior to November 1, 2022</li>
       </ol>
@@ -173,10 +172,10 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
      <h3>Program Entry Requirements</h3>
 
      </td>
-     <td>* Each CTP must:
+     <td>* Each TSP must:
 
 
-     <br>* Be a GitLab Open or Select GitLab Partners
+     <br>* Be a GitLab Open or Select GitLab Partners or a GitLab Distribution Partner
 
 
      <br>* Design, build and operate a training services practice
@@ -194,14 +193,13 @@ All GitLab Service Partner Badges are reviewed periodically. Non-compliant partn
      </td>
      <td>
       
-     Each TSP must perpetually employ:
+     Each TSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ
 
 
 
 
-     <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/#gitlab-sales-core">GitLab Sales Core</a> 
-     <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/#accreditations-for-pre--sales-technical--professionals">GitLab Solutions Architect Core</a>, and  
-     <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
+    
+ at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
      <ol>
      <li>     Each TSP organization must be able to deliver at least four (4) GitLab courses</li>
      <li>     Each TSP organization must complete the competency requirements prior to 6 months after the last day of the quarter in which they enrolled in the certification process.</li> 
