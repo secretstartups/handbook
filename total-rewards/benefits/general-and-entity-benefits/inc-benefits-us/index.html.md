@@ -662,7 +662,7 @@ If you elect supplemental life insurance greater than the guaranteed issue of vo
  
 Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field and for security, you may also leave the Social Security Number field blank.
  
-Once complete, please send the form to `total-rewards@ gitlab`. The Total Rewards team will then help fill in any missing information, if applicable, and will forward to the carrier for review. Total Rewards will confirm receipt of the EOI with the carrier, track its status, and the team or the carrier will reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
+Once complete, please send the form to `total-rewards@gitlab.com`. The Total Rewards team will then help fill in any missing information, if applicable, and will forward to the carrier for review. Total Rewards will confirm receipt of the EOI with the carrier, track its status, and the team or the carrier will reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
  
 If you leave GitLab, all supplemental life insurance is not included in COBRA and will terminate on your last day at GitLab unless you choose to continue your or your spouse/children's life insurance directly with the carrier. Please contact the carrier (Cigna) for more information on premiums and setting this up.
  
@@ -671,7 +671,7 @@ If you leave GitLab, all supplemental life insurance is not included in COBRA an
 US team members have access to a discount platform offered through ADP. This platform provides discounts for national and local brands and services.
  
 To access LifeMart through ADP:
-1. Login to ADP using the following link: [(https://workforcenow.adp.com.)]
+1. Login to ADP using the following link: [workforcenow.adp.com](https://workforcenow.adp.com).
 1. Click on the "MYSELF" tab in the navigation bar, hover your mouse over "Benefits" in the dropdown menu, and click "Employee Discounts - Life Mart".
 1. Confirm the email you use to access ADP and click "View my discounts" to enter the website.
  
