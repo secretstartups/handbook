@@ -9,11 +9,13 @@ title: "GitLab Dedicated SLAs"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# GitLab Dedicated Service Level Availability
-Service Level Availability (SLA) is the percentage of time during which the platform is in an available state. This document defines how Availability is calculated in GitLab Dedicated.
+# GitLab Dedicated: Service Level Availability and Disaster Recovery Plan 
+
+# Service Level Availability
+Service Level Availability is the percentage of time that GitLab Dedicated ("Dedicated") is in an available state for use by a customer over a given calendar month. This document defines how Service Level Availability is calculated for Dedicated.
 
 ## Scope
-The customer-facing services that are considered when calculating Availability include:
+GitLab calculates Service Level Availability based on the available state of certain services and features provided with Dedicated. The services and features that are considered when calculating Service Level Availability include:
 
 | Service | Features |
 | ------ | ------ |
@@ -21,46 +23,50 @@ The customer-facing services that are considered when calculating Availability i
 | registry | Container Registry HTTPS requests |
 | gitlab-shell | Git Push, Git Pull, Clone Operations over SSH|
 
-## Availability Score Calculation
-For each customer-facing service above we measure two SLIs, as described in https://gitlab.com/gitlab-com/runbooks/-/tree/master/reference-architectures/get-hybrid#service-level-indicators:
+## Service Level Availability Calculation
+For each service and feature described above, GitLab measures two service level indicators ("SLIs"), as further described in https://gitlab.com/gitlab-com/runbooks/-/tree/master/reference-architectures/get-hybrid#service-level-indicators:
 1. The **Error SLI** is an indication of requests that are successful, (i.e. not returning a 5xx error).
-1. The **Apdex SLI** in an indicator of requests that complete with a satisfactory latency. Apdex is defined using the [industry definition](https://en.wikipedia.org/wiki/Apdex) with two latency thresholds: _satisfactory_ and _tolerable_. For Dedicated, satisfactory requests take less than 1s to complete, tolerable requests take less than 10s to complete.
+1. The **Apdex SLI** is an indicator of requests that complete with a satisfactory latency. Apdex is defined using the [industry definition](https://en.wikipedia.org/wiki/Apdex) with two latency thresholds: _satisfactory_ and _tolerable_. For Dedicated, satisfactory requests take less than 1s to complete, tolerable requests take less than 10s to complete.
 
-Combining these two SLIs, we score each request as follows:
+Combining these two SLIs, GitLab scores each request as follows:
 
 | Server Error? | Latency <= 1s | Latency <= 10s | Latency > 10s | 
 | --- | --- | ------ | ------ |
 | No | 1 | 0.5 | 0 |
 | Yes | 0 | 0 | 0 |
 
-The availability of the service is calculated using the following measurement:
+Service Level Availability is then calculated using the following measurement:
 
 For each calendar month, we calculate the sum of the combined SLI scores for all requests in that month, excluding any requests made during maintenance windows, and divide this by the total number of requests during that period (again, excluding maintenance windows).
 
-Availability = sum(qualifying SLIs for the entire month)/total(qualifying requests for the entire month). This availability should exceed the Current Service Level Objective.
+Service Level Availability = the sum of qualifying SLIs for the entire month divided by the total qualifying requests for the entire month. The Service Level Availability of GitLab Dedicated should meet or exceed the current Service Level Objective (defined below).
 
 ## Current Service Level Objective
 GitLab's current monthly service level objective for GitLab Dedicated is 99.5% (the "Service Level Objective").
 
 ## Exclusions
-Service Level Availability (SLA) does not include failures resulting from misuses or misconfiguration of the applicable Service, customer activity outside our terms of service, components or services not defined in the Scope section, factors outside of GitLab’s control such as force majeure events, Customer’s or selected Cloud hosting providers services, equipment or other technologies. Also not included in SLA are any scheduled maintenance or urgent unscheduled maintenance necessary to address critical issues (e.g. security vulnerabilities, data consistency issues, etc).
+Calculation of Service Level Availability does not include failures resulting from (1) misuses or misconfiguration of the applicable service or feature provided with Dedicated, (2) customer activity outside GitLab's terms of service, (3) components or services not defined in the Scope section (above), (4) factors outside of GitLab’s reasonable control, such as force majeure events, or (5) Customer’s or selected cloud hosting providers services, equipment or other technologies. Scheduled maintenance or urgent unscheduled system maintenance necessary to address critical issues (e.g. security vulnerabilities, data consistency issues, etc) are also not included in the calculation of Service Level Availability.
 
-# GitLab Dedicated Disaster Recovery Plan
+# Disaster Recovery Plan
+
+GitLab has developed a disaster recovery plan (the "Plan") to minimize the impact of a disaster or other emergency impacting a customer's access to and use of Dedicated
 
 ## Scope
-This recovery plan is scoped to the following scenarios:
+The Plan is scoped to disasters or other emergency events impacting the following:
 1. Partial region outage (e.g. AZ failure)
-1. Complete outage to primary region
+2. Complete outage to primary region
 
-Events that have a more severe impact such as loss to both primary and secondary regions, global internet outages, or data corruption issues are out of scope from this plan.
+The recovery time objective ("Recovery Time Objective" or "RTO") for the Plan is based on how long it takes to re-provision the required infrastructure and restore data from the most recently available backup. 
 
-The recovery time objective ("Recovery Time Objective" or "RTO") for this plan will be based on how long it takes to re-provision the required infrastructure and restore from the most recently available backup. 
+The recovery point objective ("Recovery Point Objective" or "RPO") for the Plan is based on the frequency of snapshots across the data sources.
 
-The recovery point objective ("Recovery Point Objective" or "RPO") is based on the frequency of snapshots across our data sources.
+In order to receive RPO and RTO targets, customers must specify a primary and secondary region upon onboarding. For customers who have only specified a primary region, GitLab will still make a good faith effort to recover pursuant to the Plan, but the RTO and RPO goals of the Plan will not be considered.
 
-In order to receive RPO and RTO targets, customers must specify a primary and secondary region upon onboarding. For customers who have only specified a primary region, we will still make an effort to recover, but will not offer any commitments around timing.
+GitLab regularly tests the Plan and will take all commercially reasonable efforts to ensure its success within the below RTO/RPO goals.
 
-We will regularly test this plan and take all commercially reasonable efforts to ensure its success within the below RTO/RPO goals.
+## Exclusions
+
+Events that have a more severe impact in a customer's access to and use of Dedicated, such as loss to both primary and secondary regions, global internet outages, or data corruption issues, are out of scope from the Plan. GitLab will still make a good faith effort to recover pursuant to the Plan, but the RTO and RPO goals of the Plan will not be considered.
 
 ## Current RTO Target
 8 hours
