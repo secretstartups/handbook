@@ -909,6 +909,14 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Select `Not in Program` in the drop down 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
 
+### Removing SPAM from Marketo Programs and Zoom
+On occassion, SPAM bots attack our webcast registration. Follow these steps to remove from Marketo, SFDC and Zoom. You must remove them from the program BEFORE deleting, otherwise you'll need to manually remove in Zoom. You must open an issue with Mops to complete. Please include the marketo program link in your issue request.
+1. Find the program in marketo
+2. Isolate the SPAM and add them to a newly created static list.
+3. Remove the SPAM from the program, by `Select All` in the static list. Then right clicking then Marketing > Change Program Status. Choose the Campaign and update the status to `Not in Program` This will also remove them from Zoom thanks to the integration between the two.
+4. Go to your static list. Highlight all and `Delete Person`
+5. Agree to popup, and also remove from SFDC. 
+
 ## Canceling an Email send
 There are cases where an email is set to send, but you need to cancel it. There are a few ways to do this based on the type of program.
 

@@ -91,7 +91,7 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 
 ![Create a webcast screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001eju0)
 
-3. Enter a title for your webcast and choose your `Present Type`. Keep in mind the webcast title will be used as a token on the `registration` and `reminder` emails, which are handled via On24 automatically, so make sure the title used is reader friendly.
+3. Enter a title for your webcast and choose your `Present Type`. Keep in mind the webcast title will be used as a token on the `registration confirmation` and `reminder` emails, which are handled via On24 automatically, so make sure the title used is reader friendly.
 
 ![Title and present type screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001eju5)
 
@@ -113,9 +113,9 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 
 ![Tagging screenshot](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x4sp&feoid=00N4U000008YrFJ&refid=0EM4U000001ek6V) 
 
-8. `Registration`, `24 Hour Reminder` and `1 Hour Reminder` emails are handled through On24 rather than Marketo, for setup simplicity. Make sure `Registration Confirmation Email`, `Reminder email` and `Reminder 2 email` are all toggled on. You can also click `Preview/Edit` to view the email and check for any formatting you'd like to change or to review active tokens. If you make changes, remember to `Save` and send yourself a `preview` email to make sure nothing is broken. 
+8. `Registration confirmation`, `24 Hour Reminder` and `1 Hour Reminder` emails are handled through On24 rather than Marketo, for setup simplicity. Make sure `Registration Confirmation Email`, `Reminder email` and `Reminder 2 email` are all toggled on. You can also click `Preview/Edit` to view the email and check for any formatting you'd like to change or to review active tokens. If you make changes, remember to `Save` and send yourself a `preview` email to make sure nothing is broken. 
 
-![Email toggles](/handbook/marketing/marketing-operations/on24/on24-emails.jpeg)
+![Email toggles](/handbook/marketing/marketing-operations/on24/on24-emails.png)
 
 9. ON24 captures Benchmark data from all the webcasts run through Webcast Elite.  Help them organize that data by choosing a Category and Application, if you'd like.
 
@@ -162,8 +162,10 @@ Follow these steps to apply a console template:
 
 ### Connecting On24 Web Events to Marketo Programs
 
+##### Webcasts
+
 After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo.
-1. From the previous event set up, please be sure to have the `Event ID` and `Audience URL` handy.
+1. From the previous event set up, please be sure to have the `Event ID`, `Audience URL` and `key` handy. The `key` is a several character long alphanumeric snippet and can be found at the end of the Audience URL as seen [here](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x7I2&feoid=00N4U000008YrFJ&refid=0EM4U0000029XDA).
 1. Navigate to the Marketo template folder `Templates - On24`. Located in this folder are program templates Designed with triggers to work with On24's Marketo cusom object. Make a copy of the needed program type template in the appropriate folder.
 1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `ON24 Attendee is Updated` trigger filter:
     1. 04 On24 Processing - Attended
@@ -186,11 +188,25 @@ After completing the creation of an On24 web event, the next step is to connect 
 1. Update the program tokens as needed within the program. All email assets and landing pages are token dependent. Important tokens to review:
     - `my.webcastDate`, `my.webcastTitle` and `my.event location` are standard to update.
     - `my.eventid` and `my.key` need to be filled out to have seamless registration work correctly between Marketo and On24. The `key` is a several character long alphanumeric snippet and can be found at the end of the Audience URL as seen [here](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x7I2&feoid=00N4U000008YrFJ&refid=0EM4U0000029XDA).
-    - `my.bullet1` - `my.bullet4` may appear on the `registration landing page` so be sure to update either the tokens or the templates to accommodate. The series of tokens for `my.InviteEmailBody1` and `my.AgendaTopic/my.AgendaTime` also appear on the `invitation` email templates. 
+    - `my.bullet1` - `my.bullet4` appear on the `registration landing page` so be sure to update either the tokens or the templates to accommodate. The series of tokens for `my.InviteEmailBody1`, `my.InviteEmailBody2`, `my.InviteEmailBody3` and `my.bullet1-4` also appear on the `invitation` email templates, with the `InviteEmailBody#` corresponding to which email in the series that text will appear on.
     - If speakers are to be shown on the landing page, be sure to update the series of `speakers` tokens. If there is no need to display the speakers, deactivate the `speaker lists` on the `registration landing page` template. 
-    - Update others as needed, but be sure to review **each** asset to understanding what needs to be updated and where. 
+    - `my.introParagraph` and in some places `my.2ndparagraph` are utilized to fill in landing pages.
+    - Update others as needed, but be sure to preview **each** asset to understanding what needs to be updated and where. 
 8. `Invitation` email campaigns are supplied within the template. 
 9. Utilize `Waitlist` email and smart campaigns as needed.
+
+##### Workshops
+
+Much of the process to set up On24 and Marketo for Workshops is similar to the Webcast setup previously explained. A few differences to note:
+1. There are multple Marketo templates to accommodate different workshop types. Please select the template best suited for your workshop. Primary differences between these templates is the wording found in the invitation emails:
+    - CI/CD Workshop template: [YYYYMMDD_EventName_CICD_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12266A1)
+    - DevOps Automation template: [YYYYMMDD_EventName_DevOps_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13018A1)
+    - Jenkins Migration template: [YYYYMMDD_EventName_Jenkins_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13023A1)
+    - Project Management template: [YYYYMMDD_EventName_ProjectManagement_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13028A1)
+    - Security template: [YYYYMMDD_EventName_Security_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13033A1)
+1. Workshops utilize a few more program tokens, namely `my.agendaTime` and `my.agendaTopic`. `my.heroImage` has also been updated for each program to suit its topic. Feel free to update the tokens, as needed. Do not worry about updating the `my.speaker...` series of tokens. They are not used in workshops. 
+   - Please note the invite emails are mostly prewritten for workshops and do not utilize tokens quite as heavily as the webcast template. Review and change them, as desired.
+1. Workshops utilize the `Week prior - Code for registrants (operational)` email campaign to distribute information vital for the user's success during the upcoming workshop. These emails notify the user of workshop prerequisties: a) create a GitLab.com account b) create an Instrupt account. Schedule these emails to distribute one week prior to the event. 
 
 ### Contact Us widget form data collection
 

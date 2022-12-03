@@ -33,7 +33,7 @@ The team is split into 3 main pillars, click on them below for additional inform
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:170px;margin:5px;">Awareness & Consideration</a>
+    <a href="/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:175px;margin:5px;">Awareness & Consideration</a>
     <a href="/handbook/marketing/marketing-operations/conversion-expansion" class="btn btn-purple" style="width:170px;margin:5px;">Conversion & Expansion</a>
     <a href="/handbook/marketing/marketing-operations/marketing-enablement" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Enablement</a>
   </div>
@@ -63,20 +63,20 @@ The team is split into 3 main pillars, click on them below for additional inform
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Developer Relations</a>
     <a href="/handbook/marketing/growth/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Growth</a>
-    <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strategy & Analytics</a>
+    <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strat & Analytics</a>
+</div>
+<div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/sdr/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
     <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
-</div>   
-
-<div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
+   <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
+</div>   
+<div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
     <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
     <a href="/handbook/support/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Support</a>
-
 </div>
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
@@ -119,7 +119,7 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Operations project</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:180px;margin:5px;">Marketing Operations project</a>
   </div>
 </div>
 
@@ -218,6 +218,8 @@ OKR Tracking
 ### Milestones
 
 The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
+
+At the end of every milestone, we will post a thread in the #mktgops Slack channel with links to the Issues that we are moving to the next milestone. Context as to why an Issue is moving to a new milestone will be posted in the Issue (not in the Slack thread). The goal of this is to proactively and transparently communicate to our business partners and to empower marketing operations team members to intentionally and thoughtfully manage their work in each milestone.
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
