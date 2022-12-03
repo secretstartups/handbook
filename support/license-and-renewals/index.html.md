@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: License & Renewals
-description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew their self-managed or gitlab.com subscription.
+title: Licensing & Renewals
+description: Licensing & Renewals (L&R) comprises efforts to resolve problems customers face when they purchase or renew their GitLab subscription.
 ---
 
 ## On this page
@@ -12,17 +12,17 @@ description: License & Renewals (L&R) comprises efforts to resolve problems cust
 
 ## Overview
 
-When customers purchase or renew their GitLab subscription, they sometimes need help if things don't work as expected. Support Engineers focused on License & Renewals (L&R) help resolve these problems.
+When customers purchase or renew their GitLab subscription, they sometimes encounter problems. Support Engineers focused on Licensing & Renewals (L&R) help resolve these problems.
 
-L&R work generally involves collaborating with customers and other GitLab teams (e.g. Sales and Fulfillment),
+L&R work generally involves collaborating with customers and other GitLab teams (_e.g._ Sales and Fulfillment),
 as well as checking internal GitLab systems and data validation. Some examples:
 
-* Answering general queries about purchasing and managing a subscription from a user.
-* Troubleshooting license upload errors and subscription association issues.
+* Answering general queries from a user about purchasing and managing a subscription
+* Troubleshooting license upload errors and subscription association issues
 * Assisting Sales team members with requests related to licensing and
-  subscriptions.
+  subscriptions
 
-In July 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
+In July, 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
 for L&R work to be handled by Support for the foreseeable future. The reasons
 are:
 
@@ -32,9 +32,9 @@ are:
 1. [Business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
    mean that the [Fulfillment product section](/handbook/product/categories/#fulfillment-section)
    will not have sufficient capacity to address and resolve major pain points
-   within the next 12 months.
+   within the following 12 months.
 1. The effort to stand up an entirely new team would be considerable; Support
-   was already doing this work and was in a position to quickly scale up to meet
+   was already doing this work and was in a position to scale up quickly to meet
    customer needs.
 
 ## Contacts, Direction and Metrics
@@ -42,9 +42,8 @@ are:
 ### Support Management contacts
 
 * Overall DRI: Shaun McCann
-* Collaborating with Sales: Mike Dunninger
-* Collaborating with Fulfillment: John Lyttle
-* Coordinating Mechanizer development: Ronnie Alfaro
+* Regional DRIs: Mike Dunninger, John Lyttle, Ket Slaats
+* Coordinating Mechanizer maintenance: Ronnie Alfaro
 
 ### Support Stable Counterparts
 
