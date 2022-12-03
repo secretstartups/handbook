@@ -23,6 +23,8 @@ Solution Architects have various practices:
 
 [Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias/)
 
+[Ride Alongs](/handbook/customer-success/solutions-architects/sa-practices/ride-alongs/)
+
 [Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/)
 
 ## SA Practices - Pre-sales
