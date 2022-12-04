@@ -172,8 +172,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-11-21 | 2022-11-25 | NO SHADOWS | NO SHADOWS |
-| 2022-11-28 | 2022-12-02 | NO SHADOWS | NO SHADOWS |
 | 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect | [Liz Petoskey](https://gitlab.com/epetoskey), Director, Strategy and Operations |
 | 2022-12-12 | 2022-12-16 | AVAILABLE - REMOTE | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
 | 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
@@ -195,12 +193,12 @@ If you have questions regarding the planned rotation schedule, please ping the [
 1. Plan to observe and ask questions.
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation. In PTO by Roots, you should select "CEO Shadow Program" as the type, and assign someone to cover for you while you are in the program. This type of PTO by Roots is set as "Available" which sets Slack status and a free / visibility calendar event only. You may disable the Slack OOO auto-responder within `PTO by Roots app > Slack > CEO Shadow Program` if you find it obtrusive.
 1. Be ready to add a number of [handbook](/handbook/handbook-usage/) updates during your shadow period.
-1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (/drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO shadow program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs] (/docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#). 
+1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO shadow program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs](/docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#). 
 1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ### What to wear
 
-You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the CoS to the CEO in the `#ceo-shadow` Slack channel
+You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the CoS to the CEO in the `#ceo-shadow` Slack channel.
 Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
 
 ### Pre-Program Tasks
@@ -363,7 +361,7 @@ Tweet storm examples:
 
 #### CEO's Calendar
 
-1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to CEO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
+1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to the CEO's Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
 1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CEO Shadow". [Here is the how to ](https://about.gitlab.com/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name)update your title as part of your last name to ensure it shows up on zoom.
 1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name, and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
@@ -383,7 +381,7 @@ You will attend all GitLab meetings of the CEO, including but not limited to:
 1. Conversations with board members.
 
 Like all meetings at GitLab, meetings will begin promptly, regardless of the shadows' attendance. You will travel with the CEO to meetings, team off-sites, and conferences outside of San Francisco per the CEO's schedule.
-Executive Business Admin to the CEO will assist you with conference registration and travel accommodations during these time frames.
+The Executive Business Admin to the CEO will assist you with conference registration and travel accommodations during these time frames.
 
 The CEO's Executive Business Admin will ask external people if they are comfortable with the shadows joining prior to the scheduled meeting, and will share a link to the CEO shadow page to provide context.
 
@@ -617,7 +615,7 @@ It's important that everyone encourages others to follow the [communication guid
 1. Verbalize questions
 1. Stop sharing their screens to encourage conversations
 1. Provide full context for the benefit of new team members
-1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
+1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/group-conversations/#presentation). Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
 
 ### Email Best Practices
 
