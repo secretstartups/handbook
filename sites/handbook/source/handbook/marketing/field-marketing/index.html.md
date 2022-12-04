@@ -11,9 +11,13 @@ description: "The role of Field Marketing at GitLab is to work closely with sale
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Field Marketing
+# Field Marketing Mission 
 
-The role of field marketing is to support marketing messages at a regional level through in-person and virtual interactions (quality vs. quantity) coupled with multi-touch activities. Field Marketing programs are focused on relationship building with customers and prospects to support land and expand opportunities as well as pulling pipeline through the funnel more quickly.
+The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go to market teams at a regional level through in-person and virtual interactions (quality vs. quantity) in order to create, accelerate, and expand the sales pipeline with our direct sellers, as well as our channel and alliances partners. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers. 
+
+# Field Marketing Vision
+
+We want to be the most innovative and pipeline centric team within the marketing organization that uses data to make informed decisions while also continuing to invest in ourselves to promote career growth and opportunities. 
 
 # Field Marketing Goals
 
@@ -27,6 +31,20 @@ The role of field marketing is to support marketing messages at a regional level
     - Both direct and channel driven 
 - Market Intelligence
     - Test out new messaging or positioning 
+
+# Countries of Focus 
+Our countries of focus can be [found here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in our internal handbook. 
+
+# Cities of Focus 
+
+## Tier 1 Cities 
+A Field Marketer should have no more than 5 cities - cities with the largest LAM - that you want to build a ground swell in and be physically present at least 2/quarter.
+
+## Tier 2 Cities  
+
+A Field Marketer should have no more than 3 Tier 2 cities - cities you want to be physically present in at least 1/quarter.
+
+FMMs should work with Large & MM sales teams to determine these cities. 
 
 # Types of Programs Field Marketing Runs
 
