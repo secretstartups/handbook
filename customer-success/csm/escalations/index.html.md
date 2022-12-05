@@ -16,9 +16,8 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 ## Background:
 Escalations can take at least two different forms:
 
-1.  Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket.  
-
-2.  Support Ticket Attention Requests (STAR).  This occurs when an open support ticket is deemed moving too slowly. 
+1.  Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket. Anyone in GitLab can [open an account escalation](#opening-the-escalation) and [circulate it to the leadership of the appropriate group to find a DRI](#escalation-dri).
+1.  Support Ticket Attention Requests (STAR).  This occurs when an open support ticket is deemed moving too slowly. 
 
 The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html) for details on how to request a support ticket escalation. 
 
@@ -100,19 +99,24 @@ The following steps are to be taken by the escalation DRI:
 
 ### Opening the Escalation
 
-For Critical and High-Level escalations, create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
+#### For Critical and High-Level escalations
+
+If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalations/#critical-and-high-level-escalations) has been created, CSMs should create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
 
 1. Copy and save the document for the individual customer and replace (CUSTOMER) with the customer name, complete the required fields
-2. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #a_customername_escalation and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
-3. Post the escalation document and the name of the temporary slack channel into the #escalated_customers. The posting to this channel should occur:
+1. Update the customer's CSM Sentiment in Gainsight using an At-Risk Update entry to reflect the impact of the escalation on the account.
+
+#### For all account escalations
+
+1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #a_customername_escalation and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
+1. Post the name of the temporary slack channel into the #escalated_customers and a link to the escalation tracker doc if appropriate. The posting to this channel should occur:
 
    - when the escalation is identified and created
    - when the escalation is closed or risk reduced to standard business process to manage (i.e., issue resolved and monitoring the solution)
    - The #escalated_customers channel is for awareness only and is not intended to replace the dedicated slack channel created as above, the account or support channels. Leverage the specific escalation channel created for working communications, collaborations and executive updates.
 
-4. If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
+1. If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
 
-5. Update the customer's CSM Sentiment in Gainsight to reflect the impact of the escalation on the account.
 
 ### Managing the Escalation:
 
