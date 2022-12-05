@@ -42,11 +42,12 @@ _Any solutions architect is eligible to be a driver. If you opt-in, please ensur
 
 To become a driver, submit an MR to this page adding yourself to the table below and assign your manager as a reviewer.
 
-| Team Member          | Segment                                      | 
-|----------------------|----------------------------------------------|
-| **Tim Poffenbarger** | Americas SMB, Mid-Market                     |
-| **Noah Ing**         | Americas SMB, Mid-Market                     |
-| **<team member>**    | Americas SMB, Mid-Market, Enterprise, PubSec |
+| Team Member            | Segment                                      | 
+|------------------------|----------------------------------------------|
+| **Tim Poffenbarger**   | Americas SMB, Mid-Market                     |
+| **Noah Ing**           | Americas SMB, Mid-Market                     |
+| **Idir Ouhab Meskine** | EMEA Enterprise                              |
+| **<team member>**      | Americas SMB, Mid-Market, Enterprise, PubSec |
 
 ##### Sync before Call
 
