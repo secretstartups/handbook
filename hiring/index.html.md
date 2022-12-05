@@ -30,7 +30,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Sourcing](/handbook/hiring/sourcing/)
 - [Vacancies](/handbook/hiring/vacancies/)
 
-Potential applicants should refer to the [jobs FAQ page](/jobs/faq/).
+Potential applicants should refer to the [jobs FAQ page](/handbook/hiring/candidate/faq/).
 
 ## Related to hiring
 

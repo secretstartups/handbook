@@ -70,7 +70,7 @@ GitLab is proud to be an equal opportunity workplace and is an affirmative actio
 
 <summary>No solicitations</summary>
 
-At GitLab, we do not accept solicitations from recruiters, recruiting agencies, headhunters, or outsourcing organizations. If you email us about this type of opportunity, [we'll reply](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/Email%20Templates/third%20party%20agency%20response.md) with [a link to this paragraph](/jobs/faq/#we-dont-accept-solicitations-by-recruiters) to indicate that we'd like to be removed from the contact list.
+At GitLab, we do not accept solicitations from recruiters, recruiting agencies, headhunters, or outsourcing organizations. If you email us about this type of opportunity, [we'll reply](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/Email%20Templates/third%20party%20agency%20response.md) with [a link to this paragraph](/handbook/hiring/candidate/faq/#who-can-apply) to indicate that we'd like to be removed from the contact list.
 
 </details>
 

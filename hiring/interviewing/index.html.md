@@ -16,7 +16,7 @@ description: "Learn more about the GitLab interviewing process and what to expec
 
 ### External Applicants
 
-To learn more about what's it like to work at GitLab, please visit our [Jobs FAQ page](/jobs/faq/).
+To learn more about what's it like to work at GitLab, please visit our [Jobs FAQ page](/handbook/hiring/candidate/faq/).
 
 
 <details open="open">
