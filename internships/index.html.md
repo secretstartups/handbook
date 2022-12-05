@@ -102,7 +102,7 @@ Below is an example of a 4-month internship program:
         - Weekly intern [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats)
         - 2-3 group meetings per week moderated by a program coordinator.
         - Regular pair programming sessions with a mentor and other team members.
-   - Time for learning: When Interns are not familiar with the programming languages for the role (often Ruby on Rails and/or Javascript, sometimes Golang or Python) there will be a certain time dedicated to learn those languages via (online) courses. In order to be hired into a permanent role, knowledge of and experience with the required languages is a requirement.
+   - Time for learning: When Interns are not familiar with the programming languages for the role (often Ruby on Rails and/or Javascript, sometimes Golang, Python, or C) there will be a certain time dedicated to learn those languages via (online) courses. In order to be hired into a permanent role, knowledge of and experience with the required languages is a requirement.
 1. Week 16: Intern send-off
     - Complete offboarding tasks and hand-off projects if they are not continuing employment with GitLab.
     - Participate in [retrospectives](/handbook/engineering/internships/#team-retrospective) to help improve the internship program.
