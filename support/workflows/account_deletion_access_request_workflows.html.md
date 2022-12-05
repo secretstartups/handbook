@@ -178,7 +178,7 @@ If the user fails the challenge questions, but they are the sole owner of groups
 
 **Note:** If a situation requires further review, and falls outside of the above criteria for a sole owner, please reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to discuss approving an exception with a Support Manager and the Privacy team.
 
-If the user has logged in and/or updated their project and groups within the last year, respond with the following before closing the issue:
+If the above conditions are not met, respond with the following before closing the issue:
 
 <details>
   <summary markdown="span">Request Closed - Verification Failed</summary>
