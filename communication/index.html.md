@@ -10,7 +10,7 @@ description: "We're an all-remote company that allows people to work from almost
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
+We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/handbook/people-group/employment-solutions/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
 To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through public issues, [merge requests](#start-with-a-merge-request), and [Slack channels](/handbook/communication/chat/).
 
