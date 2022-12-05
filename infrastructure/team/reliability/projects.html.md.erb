@@ -33,14 +33,6 @@ Engineering Manager -  Facilitate communication (upfront context) and strong ali
 
 Project epics use the following [template](#project-epic-template) in order to capture, current status, DRI, an overview, and any references that help a reader to build context.
 
-Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
-
-Project epic descriptions have this structure:
-1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
-1. DRI - Directly responsible individual working on the specific issue. This is the GitLab handle of the DRI, `@GitLabHandle`
-1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
-1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
-
 ### Squad DRI
 
 The Squad DRI role is one of collaboration and some project management, as well as offering technical guidance to the squad's project(s). It is a technical leadership role, and does not imply an expectation of moving into people management.
@@ -78,28 +70,62 @@ The Engineering Manager supporting the squad is always available for questions o
 
 While the above are the Squad DRI's responsibility, that does not mean the Squad DRI must be the one to *do* everything. Delegate and involve your squad members!
 
-
 ### Project Epic Template
 
+We use [automation](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries) to roll up status reports into the [Reliability tracking epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).
+It is important that the following is done on every epic so that status will be shown properly when it is updated
+
+1. In the epic description, there is a single line that designates the DRI. eg: `DRI: @username`
+1. In the epic description, there is a heading named Status followed by the current date eg: `## Status YYYY-MM-DD`. This section should be updated weekly with a short high level summary (one or two sentences) that will help management and team members outside of Reliability understand the current progress. This needs to be brief because it is rolled up into a table in the parent epic.
+
 ```markdown
-### Status
-2021-YY-XX - {+ Current status +}
+DRI: <!-- GitLab username for the DRI -->
 
-***
-### DRI
-{+ GitLab username of the DRI +}
+## Status YYYY-MM-DD
 
-***
+<!-- Status summary, one or two sentences that is meant for management and team members outside of reliability.
+
+     Example:
+
+       ## Status 2022-02-02
+
+       This week we rolled out the latest update to this amazing component, the squad had a few setbacks that will be overcome in the next few weeks.
+-->
+
+### Additional status sections (optional)
+
+<!-- Additional status updates underneath headings. For example, what was shipped, what is in progress, blockers, etc.
+     This part won't be rolled up into the parent epic.
+
+     Example:
+
+       ### Details
+
+        - Update `2.27.1` was rolled out to GPRD successfully.
+        - Issue #44 was closed after the team agreed to cancel the work.
+        - Issue #45 was completed successfully.
+-->
+
 ### Overview
-{+ Overview of the project and its goals +}
 
-***
-### Reference
-1. {+ enumerated list of any reference links for a reader building context +}
+<!-- Overview of the project and its goals -->
+
+### Reference (optional)
+
+<!-- Links to boards, blueprints, readiness, or anything else relevant to the project -->
 ```
 
-example project epics:
-1. [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471)
+### Project Epic Labels
+
+At a minimum, every Reliability epic should have `~workflow-infra::` scoped label:
+
+1. `workflow-infra::In Progress`: Actively being worked on by Reliability team members.
+1. `workflow-infra::Proposal`: Proposed work that is not yet ready to start.
+1. `workflow-infra::Stalled`: Work that was in progress, but has stopped due to priority shifts or other reasons.
+1. `workflow-infra::Ready`: Work that is ready to start, but not yet scheduled.
+1. `workflow-infra::Blocked`: Work that is blocked by other work that needs to get done, or by dependencies outside of Reliability.
+1. `workflow-infra::Done`: Work that was finished to completion.
+1. `workflow-infra::Cancelled`: Work that is canceled that will most likely not continue.
 
 ### Milestone
 
