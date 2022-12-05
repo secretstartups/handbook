@@ -1202,7 +1202,7 @@ Customer procurement cycles can take time. A start date on a quote may be in the
 
 #### Locked Bookings
 
-All Closed Won and Closed Lost opportunities closed in a given month will become locked for editing on the tenth day of the next month. Any requested edits to opportunities closed in a locked accounting period will require review and action by the Senior Manager, Deal Desk or the Senior Director, Sales Operations.    
+All Closed Won and Closed Lost opportunities closed in a given month will become locked for editing on the fifth day of the next month. Any requested edits to opportunities closed in a locked accounting period will require review and action by the Manager and Sr. Manager, Sales Operations, Sr. Manager of Deal Desk or the Senior Director, Sales Operations.    
 
 #### Purchase Order (PO) Policy
 
