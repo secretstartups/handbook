@@ -59,7 +59,7 @@ Ensure that **everyone can contribute** in the four ways outlined below:
 ##  Everyone can contribute
 
 Everyone can contribute to digital products with GitLab, to GitLab itself, and to our organization.
-There are three ways you can Contribute,
+There are three ways you can contribute,
 1.   [Everyone can contribute with GitLab](/company/mission/#contribute-with-gitlab){:data-ga-name="contribute with gitlab"}{:data-ga-location="body"}
 1.   [Everyone can contribute to GitLab, the application](/company/mission/#contribute-to-gitlab-application){:data-ga-name="contribute with the application"}{:data-ga-location="body"}
 1.   [Everyone can contribute to GitLab, the company](/company/mission/#contribute-to-gitlab-company){:data-ga-name="contribute with the company"}{:data-ga-location="body"}
