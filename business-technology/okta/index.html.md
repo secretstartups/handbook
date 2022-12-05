@@ -91,12 +91,24 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 1. On the computer, click on your name on the top right to open the drop down menu (smiliar to above) and navigate to "Settings".
 1. On the computer, under Security Methods click "Set up another" beside Security Key or Biometric. This will take you to a setup authentication screen, click "Verify". Provide Touch ID.
 1. On the computer, click "Set up", then click "Set up" again on the next screen
-1. On the computer, in Chrome, the pop up that opens choose the Use phone with a QR code. This should display a QR code. In Safari, click "Other options", then choose "iPhone, iPad or Android device - save a passkey on a device with a camera", then "Continue".
+1. On the computer, the next step depends on the browser and version.
+    1. In Chrome 108+, the pop up that opens states "Create a passkey for gitlab.okta.com" and has your email address listed. Choose "Try another way" at the bottom left.
+
+    <img src="/handbook/business-technology/Okta-Chrome-Passkey-Popup.png" alt="Okta Chrome Passkey" width="300"/>    
+
+     Then, choose "A different device".
+
+     <img src="/handbook/business-technology/Okta-Chrome-Passkey-2.png" alt="Okta Chrome Passkey-2" width="300"/>  
+
+      You may then be prompted to allow Chrome to use Bluetooth, which you will have to enable in System Settings and restart the browser. Finally, this should display a QR code that you can scan.
+    1. In Chrome 107 or below, the pop up that opens choose the Use phone with a QR code. This should display a QR code that you can scan. 
+    1. In Safari, click "Other options", then choose "iPhone, iPad or Android device - save a passkey on a device with a camera", then "Continue".
 1. On the mobile device, open your camera app and scan. (It may take a few seconds for it to connect). This requires Bluetooth to be enabled on both devices, but does not require pairing.  
 1. On the mobile device, a pop should show up to allow the credential to be saved.
     1. On a iPhone or iPad, it will prompt to save the credential to iCloud Key Chain. Allow this. 
     1. If saving the credential fails, go to Settings->`your name`->iCloud and make sure that Passwords and Keychain is set to "On". 
-    1. If it still fails, you can also try [force restart](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios) and then trying to sign out of iCloud, and sign back in to iCloud.
+    1. If your phone is stuck on "Connecting", on your Mac,  go to "System Settings"->"Privacy & Security"->"Bluetooth" and make sure that Google Chrome has Bluetooth access checked.
+    1. If it still fails, you can also try [force restart](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios) and then trying to sign out of iCloud on your mobile device, and then sign back in to iCloud.
     1. On Android, this may appear "Use this device with screen lock". Choose this.
 1. On the mobile device, attempt to sign in by visiting [Okta](https://gitlab.okta.com).
 
