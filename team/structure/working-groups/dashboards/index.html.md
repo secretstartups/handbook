@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Dashboard Working Group"
+title: "Dashboards"
 description: "Define and align our product design teams on elements regarding dashboard features."
 ---
 
