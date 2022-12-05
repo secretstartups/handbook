@@ -97,6 +97,7 @@ The goal of the refinement process is to ensure an issue is ready to be worked o
 1. Ensure the issue is fully understood.
    * Update the issue description with the final description of what will be implemented.
    * Update the issue description with an [implementation plan](#implementation-plan).
+   * Update the issue description with [verification steps](#verification-steps).
    * Ensure the issue title is accurate for the work being done.
    * Open up new issues for 'follow-up' work, or work that was forced out of scope.
 1. Assign a [weight](#weights).
@@ -190,6 +191,12 @@ The goal of the implementation plan is to spur critical analysis of the issue an
 think through what parts of the application will get touched. The implementation plan will also
 permit other engineers to review the issue and call out any areas of the application that might
 have dependencies or been overlooked.
+
+## Verification Steps
+
+A list of the steps that will need to be followed to verify this feature. The verification steps should also include additional test cases that should be covered. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/379110#verification-steps).
+
+The purpose of the issue verification procedures is to aid in better understanding the expected change in the application after implementing the issue. Other engineers will be able to evaluate the issue and identify any application components that may have dependencies or have been ignored and that require further testing thanks to the verification steps.
 
 ## Verification
 The issue verification should be done by someone else other than the MR author[^4].
