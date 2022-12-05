@@ -75,7 +75,7 @@ In this [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDR
 </figure>
 <!-- blank line -->
 
-> To be [transparent](/handbook/values/#transparency), we showcase our culture to prospective hires in advance. For example, there's a section of our Jobs FAQ called "[What's it like to work at GitLab?](/jobs/faq/#whats-it-like-to-work-at-gitlab)"
+> To be [transparent](/handbook/values/#transparency), we showcase our culture to prospective hires in advance. For example, there's a section of our Jobs FAQ called "[What's it like to work at GitLab?](/handbook/hiring/candidate/faq/)"
 > 
 > You cannot expect to hire people who are passionate about executing your strategy if you wait to share the plan *after* they are onboard. Some candidates may opt out of the interview funnel if they realize they aren't a good fit for the company's mission, vision, and values.
 > 

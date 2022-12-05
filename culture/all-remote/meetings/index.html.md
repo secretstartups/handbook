@@ -166,7 +166,7 @@ While we can thanks team members within meetings, we do not thank each other for
 ## Remote meeting FAQ's
 ### What are the benefits of a remote meeting?
 
-Scheduling a virtual meeting allows you to set the meeting length and invite a limited number of people. You can participate in a remote meeting from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines)! If you are working in your garage or basement, be sure to use a green screen behind you and put up a professional background image to present well on screen. 
+Scheduling a virtual meeting allows you to set the meeting length and invite a limited number of people. You can participate in a remote meeting from [almost anywhere in the world](/handbook/people-group/employment-solutions/#country-hiring-guidelines)! If you are working in your garage or basement, be sure to use a green screen behind you and put up a professional background image to present well on screen. 
 
 ### What are the challenges of a remote meeting?
 

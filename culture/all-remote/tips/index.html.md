@@ -81,7 +81,7 @@ Take a look at [how our compensation calculator works](/handbook/total-rewards/c
 
 Hiring globally as an all-remote company has many [advantages](/company/culture/all-remote/benefits/), including bringing diversity to our team. But it also poses unique [challenges](/company/culture/all-remote/hiring/) because many countries differ in their rules, laws, and regulations.
 
-Find out more about how we handle this in our [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) in the handbook.
+Find out more about how we handle this in our [country hiring guidelines](/handbook/people-group/employment-solutions/#country-hiring-guidelines) in the handbook.
 
 ### We encourage flexibility and balance
 
