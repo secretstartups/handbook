@@ -35,6 +35,8 @@ Please read instructions on how to request access to the following applications 
 - **1Password**: More details on 1password access coming soon.
 - **Slack:** Single or multi channel guest access only, unless there is a situation where this wouldn't work. Inefficiency in adding people to many channels isn't a good enough justification as we are risking providing access to confidential topics being discussed in Slack to non-GitLab team members.
 - **Zoom:** Temporary service providers can create a Zoom account with their personal/work email (Non GitLab) and be invited to any meetings. No need to provide a Zoom account unless there is a situation where this wouldn't work.
+- **Laptop**: Laptops can be requested for TSPs by reaching out to #it_help on Slack.
+- **VDI [Currently Unavailable - Request Laptop instead]**: VDI can be requested for TSPs by creating an IT Engineering Issue [here](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker/-/issues/new). The requestor will need the TSPs name, email address, IP address (can be found by entering `what is my IPv4` in google search from work computer), and location (NOTE: this information should not be stored in the GitLab issue).
 
 ### Offboarding
 
