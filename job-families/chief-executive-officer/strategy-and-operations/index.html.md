@@ -192,7 +192,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 
-In addition, we are exploring [additional ways to measure performance](/ceo/chief-of-staff-team/#measuring-results).
+In addition, we are exploring [additional ways to measure performance](/handbook/ceo/chief-of-staff-team/#measuring-results).
 
 ## Career Ladder
 
