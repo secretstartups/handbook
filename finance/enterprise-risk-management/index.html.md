@@ -15,7 +15,7 @@ The purpose of the ERM program at GitLab is to identify, assess and develop acti
 
 ## Scope
 
-Our ERM program is authorized by the [Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) of the Board of Directors and GitLab senior management and will be conducted using key elements of [COSO Enterprise Risk Management](https://www.coso.org/Pages/erm-integratedframework.aspx) – Integrating with Strategy and Performance.
+Our ERM program is authorized by the [Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) of the Board of Directors and GitLab senior management and will be conducted using key elements of [COSO Enterprise Risk Management](https://www.coso.org/SitePages/Guidance-on-Enterprise-Risk-Management.aspx) – Integrating with Strategy and Performance.
  
 GitLab’s ERM program is designed to assess operational, strategic, financial and compliance risks that could impact GitLab’s operations, financial results and/or reputation. All processes and systems implemented by GitLab to achieve its strategic objectives are in scope for ERM. 
 
