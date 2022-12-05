@@ -73,7 +73,7 @@ GitLab requires all team members to use either YubiKey or Biometrics as your OKT
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
 
 
-1. We recommend enrolling both Chrome and Safari for redundancy, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately.
+1. We recommend enrolling both Chrome and Safari for redundancy on your computer, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately. You should enroll one computer browser (for example, Chrome), then add the [mobile device](#i-want-to-add-touch-id--face-id-to-okta-for-my-mobile-device-iphone-android-tablet), then come back and add the other computer [browser](#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-mobile-device-enrolled) (for example, Safari).
 1. If clearing your browser cache, please be careful as you can delete your Touch ID credential. 
     1. In Chrome, if using "Clear Browsing Data" function please ensure that you [DO NOT check](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#clearing-google-chrome-cache-like-this-will-break-your-touchid-2fa) "Passwords and other sign-in data" (under "Advanced" tab). By default, this is unchecked. 
     1. In Safari, the credential is stored under "Settings->Password". This is separate from the "Settings->Privacy" and "Manage Website Data" where you would click "Remove all" to remove the cache.
