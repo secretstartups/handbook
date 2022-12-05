@@ -48,6 +48,7 @@ The current headcount number will be updated each quarter following our quarterl
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
 **2022**
+- [Best Workplaces for Parents, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces-parents?mkt_tok=NTIwLUFPTy05ODIAAAGIch_eubKDhGDzybtHOPnrcxe8dgsYnuW1QwdVR2XCewDx-EJjcFjfAJYwniK6cFNS-VLk-V5Kk2hzXRcCz-XNjpJys6F6_QGqCaPBDJxQtoJPDA)
 - [Best Companies for Remote Workers, Quartz, 2022](https://qz.com/list/best-companies-to-work-from-home-2022/gitlab-5)
 - [Best Workplaces in Technology, Small & Medium, Fortune, 2022](https://fortune.com/best-small-workplaces-technology/2022/gitlab/)
 - [Best Workplaces for Millennials, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces/millennials/2022?category=small-and-medium)
