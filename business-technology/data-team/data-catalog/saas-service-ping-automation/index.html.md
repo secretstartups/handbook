@@ -154,6 +154,18 @@ The example how variable `NAMESPACE_BACKFILL_VAR` should look like:
 }
 ```
 
+##### Change the metrics definiton
+In case you want to change the metrics type from **database** to *redis** in the metrics definition file, do the following steps:
+* Got to metrics definition [page](https://metrics.gitlab.com/)
+* Find the metrics you want to change
+* Press the link, and you will be redirected to the `.yaml` file
+* Press the `edit`/`edit in Web IDE` button and change `data_source: database` to `data_source: redis`
+* Put a proper comment and check the option to create a new MR, here is an example of how [the merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/105682/diffs) should look like 
+* Assing your new MR to a `PI` team member
+
+The entire process can is explained in the [recorded sesion](https://youtu.be/qSeRqWNchVo)
+
+
 **Note:** this backfill `DAG` will not load **all-time** metrics even if you define it _(will be skipped)_, as it will not produce an accurate result.
 
 The `saas_usage_ping_backfill` `DAG` will backfill data for the metrics where the following conditions are applied: 
