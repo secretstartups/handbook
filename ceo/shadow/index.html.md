@@ -460,6 +460,10 @@ Earnings prep webinars differ from other meetings on the CEO calendar as shadows
 {:.no_toc}
 CEO Shadows should join earnings calls via the registration [link open to the public](https://ir.gitlab.com/news-events/events). Do not join the earnings call via the CEO's calendar.
 
+##### Earnings Callbacks
+{:.no_toc}
+CEO Shadows are allowed to join earnings callbacks unless otherwise noted as _no shadows_. CEO Shadows should set their Zoom settings to have **[mute mic when joining](https://support.zoom.us/hc/en-us/articles/203024649-Muting-your-microphone-when-joining-a-meeting)** and **[stop my video when joining a meeting](https://support.zoom.us/hc/en-us/articles/4404456197133-Turning-video-off-when-joining-a-meeting)** for **all callbacks** prior to joining the first callback session.
+
 #### Removing yourself from personal CEO documents
 
 For certain meetings, such as [Valley Meetings](/handbook/ceo/shadow/#valley-meetings), a CEO Shadow may be added to an agenda document that is accessible to people outside of the GitLab organization.
@@ -488,6 +492,7 @@ Here are the responsibilities shadows have during meetings:
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | [Valley Meetings](/handbook/ceo/shadow/#valley-meetings)  | No notes       | Timekeeping    |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
+| Earnings Callbacks (Video/Audio Off) | Notes          | No Timekeeping    |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes.
