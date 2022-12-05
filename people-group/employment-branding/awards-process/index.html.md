@@ -57,7 +57,7 @@ Content for award applications can often be found in the GitLab handbook, includ
 - [Our culture](/company/culture/)
 - [Company history](/company/history/)
 - [Company values](/handbook/values/)
-- [Job FAQs](/jobs/faq/)
+- [Job FAQs](/handbook/hiring/candidate/faq/)
 - [DIB programs](/company/culture/inclusion/)
 - [All-remote work](/company/culture/all-remote/)
 - [GitLab's press kit](/press/press-kit/)
