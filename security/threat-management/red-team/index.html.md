@@ -50,6 +50,18 @@ If these activities are detected by SecOps, they should be treated as potentiall
 
 When vulnerabilities are manually discovered during open-scope work, an issue will be opened inside the [Red Team Operations issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-operations/-/issues) using the "Open Scope Finding" template. If immediate action is required, we will [contact SIRT](https://about.gitlab.com/handbook/security/#-contacting-the-team) and reference the issue. For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
 
+## Red Team Metrics
+
+We want to measure the things that matter. We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
+
+- Detections & Alerts
+- Security Controls
+- Processes and Procedures
+
+This is done by opening individual issues for each recommendation generated during an operation or open-scope activity and tagging those issues with specific labels. We can then look back and see the time and effort put into each category and how the recommendations were received and acted upon.
+
+We will not measure our team's performance based on simply counting the number of recommendations over a specific time period. Instead, we will try to understand how the recommendations ultimately impact the organization and what we can do to become a more effective Red Team.
+
 ## Red Team Technique Handover
 
 The Red Team will develop new adversary emulation techniques on a regular basis, both during official operations as well as informal [open-scope](#open-scope-work) activities. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
