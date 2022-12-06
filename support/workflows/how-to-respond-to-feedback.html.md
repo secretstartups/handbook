@@ -61,7 +61,7 @@ Currently, the following methods create feedback issues for review:
 1. [Automatic email survey](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) -- sent to customers when tickets are closed.
 1. Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer or Manager has a link to a form where a customer can provide feedback or request contact from a manager while the ticket is open (introduced in issue [2913](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2913)).
    1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**. 
-   1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the `#support_ticket-attention-requests` channel. The **SSAT reviewing manager** should follow the guidance in [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted).
+   1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel. The [**On Call Manager**](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#expectations-for-support-manager-on-call) should promptly follow the guidance in [Handling mid ticket feedback requesting manager contact during business hours](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#handling-mid-ticket-feedback-requesting-manager-contact-during-business-hours).
 1. GitLab team members (such as CSMs and Sales team) can open an [Indirect Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect+Feedback) issue with details they received from the customer.
 1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested. 
 
@@ -209,11 +209,15 @@ If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/
 
 #### If the customer should be contacted
 
-If you feel like the customer should be contacted:
+When the customer requests contact via a mid ticket feedback request:
+
+1. The [On call manager](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call) is responsible for the follow up.
+
+If you believe the customer should be contacted following completion of a closed ticket survey:
 
 1. Determine the best way to reach out. Some options are:
    1. Sending the customer an email from your GitLab email address. This should
-      be the appropriate option in the majority of cases.
+      be the appropriate option in the majority of cases. 
    1. Responding directly on the Zendesk ticket. This is appropriate if you
       determine that the ticket was not adequately resolved and work should be
       continued.
