@@ -136,6 +136,7 @@ If you are interested in participating in an active working group, it is general
 1. [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
 1. [API Vision](/company/team/structure/working-groups/api-vision/)
 1. [Category Leadership](/company/team/structure/working-groups/category-leadership/)
+1. [ClickHouse Datastore](/company/team/structure/working-groups/clickhouse-datastore/)
 1. [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
 1. [Dashboards](/company/team/structure/working-groups/dashboards/)
 1. [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
