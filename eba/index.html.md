@@ -16,7 +16,7 @@ This page details processes and general guidelines specific to the Executive Bus
 ## Executive Business Administrator Team
 
 ### E-Group Member EBAs
-* Stella Treas (CoS) interim support for Sid Sijbrandij (CEO) 
+* Liki Simonot supporting Sid Sijbrandij (CEO) 
 * Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO)
 * Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO and acting CTO) 
 * Darci Tadich (Sr. EBA) supporting Brian Robins (CFO) 
