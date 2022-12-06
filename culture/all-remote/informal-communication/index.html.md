@@ -336,7 +336,7 @@ To utilize this feature in Zoom, see below.
 * Click `Music or Computer Sound Only`
 * Play music from any app or website, being mindful that you'll want to lower the volume so that your voice can also be heard
 
-More instructions on this can be found at [this support page](https://support.movegb.com/how-to-play-music-over-your-live-stream-on-zoom).
+More instructions on this can be found at [this support page](https://support.bookwhen.com/en/articles/3942332-playing-music-on-a-zoom-live-stream-video-call).
 
 ## Create a company songbook
 
