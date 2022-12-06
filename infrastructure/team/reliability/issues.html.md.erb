@@ -140,23 +140,55 @@ T-shirt labels are used to estimate the size of issues.  These are always a roug
 
  - `unblocks others` - Apply this label to all issues that originate outside of the [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/)
 
-## Issue Board
+## Issue Review
 
 The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753) is reviewed twice a week by Reliability Leadership Team.  If you have an urgent issue that you believe should be prioritized ahead of other work, please reach out to any Engineering Manager on the Reliability Team to discuss.
 
-### General Board Guidelines
+## Issue Triage 
+Issue Triage is performed twice weekly by members of the Reliability Leadership Team.  The process consists of four parts.
+
+### 1. General Triage
+
+1. Locate issues that need to be triaged using [this view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage) which shows `workflow-infra::Triage` tickets lists most recently updated issues first.
+1. Choose the first issue in the list and ask the following questions:
+    1. For issues where the squad ownership of the involved service is clear, choose a [standing squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#standing-squads) to assign the issue to and apply the appropriate [squad label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#squad-labels).
+    1. Can the issue be potentially be completed by a single SRE in less than 5 working days?  If so, add the `work::general` label.  If the scope of work is larger add the `work::project` label.
+    1. What is the priority of the issue?  Read the issue and assign a priority as defined by [our process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  Once priority has been determined, add the appropriate [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#priority).  NOTE: Prioritized issues are reviewed by Reliability Leadership multiple times a week, so it is OK if an issue is prioritized incorrectly.
+1. Add the `workflow-infra::Ready` label.  This indicates that the issue has been through the prioritization process and is ready to be looked at by an engineer.
+1. Return the `workflow-infra::Triage` [list view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage), select the next issue in the list and put it through the same process.
+1. Add a `service::` label.
+
+### 2. General Issue Prioritization
+The overall backlog of general issues is reviewed to assess and adjust [priority](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  The following boards are used to help with this process:
+
+1. [Overall Priority of **all** triaged Reliability Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753).
+1. [All unassigned issues by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=None)
+1. [All issues in progress](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=workflow-infra%3A%3AIn%20Progress) - review to ensure all issues with the `~workflow-infra::In Progress` are truly active.
+1. [All assigned issues by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=Any)
+
+#### General Prioritization Guidelines
  - Issues should be prioritized by their priority label first
  - When faced with  multiple issues of the same priority level:
    - prioritize small issues ahead of large ones.
    - prioritize older issues over new.
 
-## Issue Triage: Step-by-step
-1. Locate issues that need to be triaged using [this view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage) which shows `workflow-infra::Triage` tickets lists most recently updated issues first.
-2. Choose the first issue in the list and ask the following questions:
-    1. Can the issue be potentially be completed by a single SRE in less than 5 working days?  If so, add the `work::general` label.  If the scope of work is larger add the `work::project` label.
-    2. What is the priority of the issue?  Read the issue and assign a priority as defined by [our process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  Once priority has been determined, add the appropriate [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#priority).  NOTE: Prioritized issues are reviewed by Reliability Leadership multiple times a week, so it is OK if an issue is prioritized incorrectly.
-3. Add the `workflow-infra::Ready` label.  This indicates that the issue has been through the prioritization process and is ready to be looked at by an engineer.
-4. Return the `workflow-infra::Triage` [list view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage), select the next issue in the list and put it through the same process.
+### 3. Corrective Action Issue Review and Prioritization
+[Corrective Actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#corrective-actions) for all of Infrastructure are reviewed, prioritized, and assigned to prevent or reduce the likelihood and/or impact of an incident recurrence.
+
+1. [All Open Infrastructure Corrective Actions by Severity](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1181205?label_name%5B%5D=corrective%20action)
+1. [All Open Reliability Corrective Actions by Priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action)
+   1. [Observability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3AObservability)
+   1. [Foundations](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AFoundations)
+   1. [Gitaly Stable Counterpart](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AGitaly-StableCounterpart)
+   1. [CI Runners Stable Counterpart Squad](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ACI-RunnersStableCounterpart)
+   1. [Database](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ADatabase)
+
+    
+### 4. Incident Issue Review
+
+Active Incident issues are reviewed to ensure the Incident Management Process is being applied.
+
+1. [All Active Incident Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Incident%3A%3AActive&first_page_size=100)
 
 ## Capacity Planning Warnings
 Capacity planning warning issues are generated by the Scalability team and indicate concerns that we should address before they cause an alert (or an outage!).  These issues are tracked outside of the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability) in the [capacity planning project](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/).  The list of issues having the ~team::Reliability label is reviewed once per quarter and the work is then assigned based on impact and urgency.
