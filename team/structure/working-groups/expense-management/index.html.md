@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/expense-management/"
 |--------------|-------|
 | Date Created | 2021-07-20 |
 | Estimated Date Ended   | 2021-04-30 |
-| Slack        | [#expense_management_nirvana](C028H6ZHFT9) (only accessible from within the company to a private group) |
+| Slack        | #expense_management_nirvana - (only accessible from within the company to a private group) |
 | Google Doc   | Expense Mangement Working Group - [Agenda](https://docs.google.com/document/d/1m6dDHraDrKWkiR90n4e60AgOSiMEUSjmHrmFZcmth6M/edit#) 
  |
 
