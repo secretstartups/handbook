@@ -7,16 +7,16 @@ canonical_path: "/company/culture/inclusion/identity-data/"
 
 #### GitLab Identity Data
 
-Data as of 2022-07-31
+Data as of 2022-11-30
 
 ##### Country Specific Data
 
 | **Country Information** | **Percentages** |
 |-------------------------|-----------------|
-| Based in JAPAC          |          12.08% |
-| Based in EMEA           |          28.99% |
-| Based in LATAM          |           1.38% |
-| Based in USA & Canada   |          57.55% |
+| Based in JAPAC          |          12.72% |
+| Based in EMEA           |          29.77% |
+| Based in LATAM          |           1.36% |
+| Based in USA & Canada   |          56.15% |
 | **Total Team Members**  |     **100.00%** |
 
 
@@ -24,88 +24,88 @@ Data as of 2022-07-31
 
 | **Gender (Global)**     | **Percentages** |
 |-------------------------|-----------------|
-| Men                     |          65.34% |
-| Women                   |          32.64% |
-| Other Gender Identities |           2.01% |
+| Men                     |          64.37% |
+| Women                   |          32.25% |
+| Other Gender Identities |           3.38% |
 | **Total Team Members**  |     **100.00%** |
 
 | **Gender in Management (Global)** | **Percentages** |
 |-----------------------------------|-----------------|
-| Men in Management                 |          60.47% |
-| Women in Management               |          35.97% |
-| Other Gender Identities           |           3.56% |
+| Men in Management                 |          59.87% |
+| Women in Management               |          35.53% |
+| Other Gender Identities           |           4.61% |
 | **Total Team Members**            |     **100.00%** |
 
 | **Gender in Leadership (Global)** | **Percentages** |
 |-----------------------------------|-----------------|
-| Men in Leadership                 |          60.39% |
-| Women in Leadership               |          39.61% |
-| Other Gender Identities           |           0.00% |
+| Men in Leadership                 |          60.98% |
+| Women in Leadership               |          38.41% |
+| Other Gender Identities           |           0.61% |
 | **Total Team Members**            |     **100.00%** |
 
 | **Gender in Tech (Global)** | **Percentages** |
 |-----------------------------|-----------------|
-| Men in Tech                 |          77.69% |
-| Women in Tech               |          20.34% |
-| Other Gender Identities     |           1.97% |
+| Men in Tech                 |          76.40% |
+| Women in Tech               |          20.35% |
+| Other Gender Identities     |           3.26% |
 | **Total Team Members**      |     **100.00%** |
 
 | **Gender in Non-Tech (Global)** | **Percentages** |
 |---------------------------------|-----------------|
-| Men in Non-Tech                 |          43.55% |
-| Women in Non-Tech               |          54.30% |
-| Other Gender Identities         |           2.15% |
+| Men in Non-Tech                 |          43.71% |
+| Women in Non-Tech               |          52.62% |
+| Other Gender Identities         |           3.67% |
 | **Total Team Members**          |     **100.00%** |
 
 | **Gender in Sales (Global)** | **Percentages** |
 |------------------------------|-----------------|
-| Men in Sales                 |          68.19% |
-| Women in Sales               |          29.85% |
-| Other Gender Identities      |           1.96% |
+| Men in Sales                 |          66.48% |
+| Women in Sales               |          30.23% |
+| Other Gender Identities      |           3.30% |
 | **Total Team Members**       |     **100.00%** |
 
 ##### Underrepresented Groups (URG) Data**
 
 | **URG (US Only)**      | **Percentages** |
 |------------------------|-----------------|
-| Non-URG                |          81.73% |
-| URG                    |          16.47% |
-| Did Not Identify       |           1.81% |
+| Non-URG                |          80.07% |
+| URG                    |          17.26% |
+| Did Not Identify       |           2.66% |
 | **Total Team Members** |     **100.00%** |
 
 | **URG in Tech (US Only)** | **Percentages** |
 |---------------------------|-----------------|
-| Non-URG                   |          84.64% |
-| URG                       |          14.29% |
-| Did Not Identify          |           1.07% |
+| Non-URG                   |          85.10% |
+| URG                       |          13.58% |
+| Did Not Identify          |           1.32% |
 | **Total Team Members**    |     **100.00%** |
 
 | **URG in Non-Tech (US Only)** | **Percentages** |
 |-------------------------------|-----------------|
-| Non-URG                       |          78.57% |
-| URG                           |          19.25% |
-| Did Not Identify              |           2.17% |
+| Non-URG                       |          76.90% |
+| URG                           |          20.56% |
+| Did Not Identify              |           2.54% |
 | **Total Team Members**        |     **100.00%** |
 
 | **URG in Sales (US Only)** | **Percentages** |
 |----------------------------|-----------------|
-| Non-URG                    |          82.23% |
-| URG                        |          15.74% |
-| Did Not Identify           |           2.03% |
+| Non-URG                    |          79.17% |
+| URG                        |          17.13% |
+| Did Not Identify           |           3.70% |
 | **Total Team Members**     |     **100.00%** |
 
 | **URG in Management (US Only)** | **Percentages** |
 |---------------------------------|-----------------|
-| Non-URG                         |          88.39% |
-| URG                             |          10.32% |
-| Did Not Identify                |           1.29% |
+| Non-URG                         |          84.66% |
+| URG                             |          13.07% |
+| Did Not Identify                |           2.27% |
 | **Total Team Members**          |     **100.00%** |
 
 | **URG in Leadership (US Only)** | **Percentages** |
 |---------------------------------|-----------------|
-| Non-URG                         |          88.72% |
-| URG                             |          11.28% |
-| Did Not Identify                |           0.00% |
+| Non-URG                         |          85.40% |
+| URG                             |          13.14% |
+| Did Not Identify                |           1.46% |
 | **Total Team Members**          |     **100.00%** |
 
 
