@@ -43,7 +43,7 @@ graph TD;
   E(Support generates legacy<br>license and replies on ticket<br>letting requester know)
   F{Did the user purchase/renew<br>before July 2022?}
   G(Support uses<br>Support::L&R::Strict Cloud Licensing - Legacy license generated<br>macro)
-  H{"Did they purchase web direct?<br>🔗 See FAQ 4"}
+  H{"Did they always purchase web direct?<br>🔗 See FAQ 4"}
   I(Support uses<br>Support::L&R::Strict Cloud Licensing - contact sales<br>macro)
 ```
 
