@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: "GitLab Dedicated Prospects"
@@ -10,6 +9,10 @@ title: "GitLab Dedicated Prospects"
 {:.no_toc}
 
 The purpose of this page is to hopefully help an SA onboards when they onboard a new Dedicated Customer, what are the considerations and preparation material during the onboarding/discovery phase. Based on past interactions with existing GitLab Dedicated customers and due to the usually longer nature of onboarding customers, a [collaboration project](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/collaboration-project/) is recommended to keep all stakeholders aware and engaged. 
+
+A collaboration template specifically for dedicated customers is available as a template here (https://gitlab.com/gitlab-com/account-management/templates/dedicated-collaboration-project). 
+
+Most of the details discussed below are also available as individual issues which provides a good place to include your product managers and customers to collaborate. 
 
 ## Dedicated Reference Links
 
