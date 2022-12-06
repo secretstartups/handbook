@@ -1,21 +1,15 @@
-
+---
+layout: handbook-page-toc
+title: "Self-Service List Imports"
+description: "Automated process developed by Marketing Operations to facilitate self-service list imports"
+--- 
 {::options parse_block_html="true" /}
 
----
-
-layout: handbook-page-toc
-
-  
-
-title: "Self-Service List Imports"
-
-  
-
-description: "Automated process developed by Marketing Operations to facilitate self-service list imports"
-
---- 
-
 ## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 With the purpose of increasing efficiency through the use of automation, Marketing Operations has developed a self-service process for list imports, to be used by campaign managers when they have third party vendor lists from events.
 
@@ -30,12 +24,6 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 1. At the end, a slack alert is sent on the #mktgops-test-imports channel with a report containing information regarding created, updated and failed leads. 
 
 
-  
-
-{:toc}
-
-  
-  
 
 #### [Video Explanation of list upload process](#) - Needs to be created
 
@@ -43,7 +31,7 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 
 ## How to use
 
-Step 1 
+**Step 1 - Before the import**
 {: .alert .alert-info}
 
   
@@ -52,41 +40,42 @@ At time of upload, a program should already exist in `Marketo` . Campaigns are t
 Make sure that the campaign's `tokens` are filled in, which are found under the `My Tokens` tab in the main campaign. `Tokens` are used via `Smart Campaigns` to apply `Last Interesting Moments` to all leads whom appear in the campaign. The minimum `tokens` that should be used relate to the campaign's `Event Name`, `Event Date` and `Landing Page URL`. Without these filled out, `Last Interesting Moments` will fill in permanently `blank`.
 
   
-Step 2 - Add your lead data to the spreadsheet
+**Step 2 - Add your lead data to the spreadsheet**
 {: .alert .alert-info}
 
 Go to the import template [Google Sheet](https://docs.google.com/spreadsheets/d/143REaMQLyIy7to-CFktL45TTTLZxBQRJUDIOMCA3CVo/edit#gid=257616838) and make a copy of the document. This spreadsheet template allows for quick edits and faster data checks, refer to the [below instructions](#data-cleaning-instructions) for data cleanup advice. It is the responsibility of the person submitting the list to clean the list utilizing the import cleaning template.
 
 <details>
-  <summary markdown="span">Click here for screenshot</summary>
+  <summary markdown="span"> Click to expand screenshot</summary>
 
 ![ALT](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/make-a-copy.png)
   
 </details>
 
-Step 3 - Download the CSV
+**Step 3 - Download the CSV**
 {: .alert .alert-info}
 
 After you populated your spreadsheet with lead data, Download the leads tab as a `CSV`. Go to `File`>`Download`>`CSV`.
 
 <details>
-  <summary markdown="span">Click here for screenshot</summary>
+  <summary markdown="span">Click  to expand screenshot</summary>
 
 ![Download CSV](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/download-csv.png)
   
 </details>  
 
-Step 4 - Drop the CSV in the Google Drive folder
+**Step 4 - Drop the CSV in the Google Drive folder**
 {: .alert .alert-info}
 
 1. Go to the [Google Drive folder](https://drive.google.com/drive/folders/1SvDR2KW8_vtPZjJ7WWihA1iOgSJn0_fv?usp=share_link) called `List Import Automation`. If you do not have access to the folder, open an AR request with the Marketing Operations team. 
 1. Drop your CSV containing lead data into the folder
 1. An automated process will pick up your CSV and start processing each record in your file, validating the data. 
 
-Step 6 - Go to the `#mktgops-test-imports` slack channel. 
+**Step 6 - Go to the `#mktgops-test-imports` slack channel.**
 {: .alert .alert-info}
 
-1. When the import finishes processing in Marketo, it will send a slack message with information about:
+ **When the import finishes processing in Marketo, it will send a slack message with information about:**
+
     1. Report link
     1. Marketo program link
     1. Records created
@@ -94,13 +83,13 @@ Step 6 - Go to the `#mktgops-test-imports` slack channel.
     1. Failed records
 
 <details>
-  <summary markdown="span">Click here for screenshot</summary>
+  <summary markdown="span"> Click to expand screenshot</summary>
 
 ![Slack alert](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
 
 </details> 
 
-Step 5 - Review the report
+**Step 5 - Review the report**
 {: .alert .alert-info}
 
 1. Congrats! The import is complete. Review the information passed in the slack alert. 
@@ -108,7 +97,7 @@ Step 5 - Review the report
 1. If there are failed records, you can review the errors and correct them in the same report. You can then delete the first column, `Status` message, download the CSV again and reimport after correcting the errors. 
 
 <details>
-  <summary markdown="span">Click here for screenshot</summary>
+  <summary markdown="span"> Click to expand screenshot</summary>
 
 ![Report status column](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/report-status.png)
 
@@ -127,11 +116,12 @@ Step 5 - Review the report
 <div  class="panel panel-danger">
 
 **Caution**
+
+DO NOT MAKE CHANGES TO THE ORIGINAL SPREADSHEET OR INPUT DATA INTO IT. MAKE A COMPLETE COPY AS INDICATED IN THE LIST UPLOAD ISSUE TEMPLATE
 {: .panel-heading}
 
 <div  class="panel-body">
 
-**DO NOT MAKE CHANGES TO THE ORIGINAL SPREADSHEET OR INPUT DATA INTO IT. MAKE A COMPLETE COPY AS INDICATED IN THE LIST UPLOAD ISSUE TEMPLATE**
 
 </div>
 </div>
@@ -139,7 +129,7 @@ Step 5 - Review the report
 
 <details>
 
-<summary  markdown="span">Click for data cleaning instructions</summary>
+<summary  markdown="span"> Click to expand data cleaning instructions</summary>
 
   
 
@@ -307,7 +297,7 @@ The following data cleanup is required for any list prior to sending it to the M
 
 <details>
 
-<summary  markdown="span">Reference values for Country, State & Program Member</summary>
+<summary  markdown="span"> Click to expand reference values table for Country, State & Program Member picklist</summary>
 
  | Countries                                    | States                               | Program Member Statuses |
 | -------------------------------------------- | ------------------------------------ | ----------------------- |
