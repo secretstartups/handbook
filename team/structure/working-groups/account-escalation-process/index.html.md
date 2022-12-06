@@ -54,4 +54,5 @@ This is a non-comprehensive list of topics to be discussed.
 | Executive Stakeholder   | @spatching| Sherrod Patching | VP Customer Success Management |
 | Facilitator             | @lyle | Lyle Kozloff | Director of Global Support Readiness|
 | Member                  | @manuel.kraft | Manuel Kraft | Customer Success Manager (EMEA) |
-| Member                  | @ricardoamarilla  | Ricardo Amarilla | Customer Success Manager (LATAM) |  
+| Member                  | @ricardoamarilla  | Ricardo Amarilla | Customer Success Manager (LATAM) |
+| Member                  | @afappiano  | Anthony Fappiano | Engineering Manager, [Reliability](/handbook/engineering/infrastructure/team/reliability/) |
