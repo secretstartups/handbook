@@ -58,7 +58,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Operational Data Vision](/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)
    1. Quarter Started/Starting: FY23-Q1
 1. FedRAMP
-   1. DRI / Sponsor: @Julia.Lake / @robin
+   1. DRI / Sponsor: @Julia.Lake / @david
    1. Description: Achieve FedRAMP Moderate Certification.
    1. Links: [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3)
    1. Quarter Started/Starting: FY23-Q1
