@@ -159,7 +159,6 @@ If you are interested in participating in an active working group, it is general
 1. [SOX PMO](/company/team/structure/working-groups/sox/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
-1. [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
 
 
 ## Past Working Groups (alphabetic order)
@@ -210,6 +209,7 @@ If you are interested in participating in an active working group, it is general
 1. [Tiering](/company/team/structure/working-groups/tiering/)
 1. [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
 1. [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
+1. [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
 
 ## Top Cross-Functional Initiatives
 
