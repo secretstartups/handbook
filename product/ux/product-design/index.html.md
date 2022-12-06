@@ -82,7 +82,7 @@ In the *Beautifying our UI* initiative, we'd like to take the best parts of the 
 Going forward, every milestone, we will ask Product Designers and Engineers to volunteer to partner in making self-directed usability improvements. It is an opportunity to fix the things that have been bugging you or that you've heard from users without worrying about prioritization. 
 
 * **Self-Directed:** There are no restrictions on where in the product the pair can make improvements. The goal is to empower the pair to focus on usability improvements that they personally want to see fixed in a product that they use themselves almost every day. 
-* **No restrictions on product area:** The pair is not required to work within product areas owned by their own stage groups.
+* **No restrictions on product area:** The pair is not required to work within product areas owned by their own stage groups. That does mean you need to ask questions to assess impact when making significant changes to a product area you don't know well.
 * **No restrictions on pairings:** The Product Designer and Engineer pair do not need to be from the same stage group. This is a voluntary initiative.
 * **Work in MRs, not issues:** Both the Product Designer and the Engineer should work directly in MRs to make changes. For the Product Designer, these MRs will likely be focused on less complex usability issues that the pair identifies, such as documentation, minor UI polish, or UI text changes. To make it easier for others to understand the change, make sure that you add screenshots and explain what was changed and why (unless it's an obvious bug fix) in the MR description.
 * **Length of rotation:** The length of the pairing will be 1-3 milestones, depending on what the pairing believes is appropriate for them. This means that multiple groups could be working on Beautifying our UI in parallel.
@@ -112,6 +112,14 @@ Create an issue, assign it to both Product Designer and Engineer and add it to t
 You should also keep track of any needed documentation updates. Work with the relevant technical writers to ensure documentation is kept as up-to-date as possible.
 
 Every MR should follow the [approval guidelines](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines). If you created an MR, please use the Reviewer Roulette to assign another designer to conduct a UX MR review.
+
+### Remember to assess the possible impact of your changes
+
+The point of this initiative is to move fast, often in product areas you may not be familiar with. Because these fixes don't go through our regular [product development flow](https://about.gitlab.com/handbook/product-development-flow/), it's important to take reasonable steps to reduce risk. Consider things like:
+
+- **Use feature flags** To more quickly and easily revert changes, it can make sense to use feature flags. Annabel Dunstone Gray recorded a [UX showcase around how to do so and why it might be beneficial](https://www.youtube.com/watch?v=M9pgdTlqBmw).
+- **How will this change impact our self-managed customers?** Because we use our SaaS product, we're not always personally aware of nuanced differences between our Self-Managed and SaaS offerings. Make sure to consider the possible implications of any changes to all of our deployment options. Start by reviewing the docs related to the feaure, and ask questions if you're still unsure.
+- **How can I crowd source feedback on a significant change?** Sometimes there will be dependencies that aren't obvious. Consider opening up feedback issues (like this one: https://gitlab.com/gitlab-org/gitlab/-/issues/363276) and use our internal Slack to make the company aware of significant upcoming changes, so that people can offer feedback.  Channels like #product, #whats-happening-at-gitlab, and #is-this-known can be good places to publicize these messages.
 
 ### How will we measure success?
 
