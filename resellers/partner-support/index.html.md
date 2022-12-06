@@ -23,8 +23,9 @@ This page is intended for Sales and Channel team members to review quick links a
 - Evon Collett (she/her) - Manager, Partner Help Desk
 - Reena Yap (she/her) - Senior Partner Help Desk Specialist
 - Kim Stagg (they/them) - Senior Partner Help Desk Specialist
-- Yulia Imbert (she/her) - Partner Help Desk Specialist
-_All team members work all regions, according to the timezone they work within. [For fastest answers](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please ensure you're reaching out via team forums and not to individual Partner Help Desk team members. 
+- Yulia Imbert (she/her) - Partner Help Desk Specialist   
+
+_All team members work all regions, according to the timezone they work within. [For fastest answers](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please ensure you're reaching out via team forums and not to individual Partner Help Desk team members._
 
 ## Team Responsibilities
 - Channel account record support in SFDC
