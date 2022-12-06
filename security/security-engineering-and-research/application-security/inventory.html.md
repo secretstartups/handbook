@@ -66,6 +66,7 @@ Rules define actions to take, based on the project categories. These actions are
 | `product` + `container` | [Container Scanning] must be enabled |
 | `keep_private` | Project `visibility` must be `private` |
 | `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | *Default branch* must be `protected` (Allowed to merge : `Maintainers`, Allowed to push: `Maintainers`) |
+| `docs` | [Secret Detection] must be enabled |
 | all | Projects can't have [`internal`](https://docs.gitlab.com/ee/public_access/public_access.html#internal-projects-and-groups) visibility |
 | all | [`SECRET_DETECTION_HISTORIC_SCAN`](https://docs.gitlab.com/ee/user/application_security/secret_detection/#full-history-secret-detection) must not be set in the CI/CD configuration |
 
