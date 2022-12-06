@@ -17,9 +17,11 @@ title: "Deployments and Releases"
 | Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
 | Delivery team issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
 | Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Deployment process | [Link](/engineering/deployments-and-releases/deployments/) |
+| Release process | [Link](/handbook/engineering/releases/) |
 | Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
 
-This page describes how code changes are deployed to GitLab.com and released to Self-Managed users. 
+This page describes how code changes are [deployed to GitLab.com](/handbook/engineering/deployments-and-releases/deployments) and [released to Self-Managed users](/handbook/engineering/releases/). 
 
 ## Overview and terminology
 
@@ -50,6 +52,8 @@ This overview shows how the two processes are connected:
 6. Changes that have been successfully deployed to GitLab.com can be considered for packaged release for self-managed users. A new release candidate package is created for these changes
 7. The release candidate is deployed to a test environment and automated QA tests execute
 8. Release Candidate is officially tagged and published for release
+
+For a more detailed explaination of the processes see the [deployment page](/engineering/deployments-and-releases/deployments/) and the [releases page](/handbook/engineering/releases/)
 
 ## Release Managers
 The overall coordination and operation of the deployment and release process is the responsibility of the release managers. 
