@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/engineering-internship/"
 | Property        | Value                                                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------------------------|
 | Date Created    | March, 2022                                                                                                     |
-| Target End Date | December 30, 2022                                                                                               |
+| Target End Date | January 31, 2023                                                                                               |
 | Slack           | [#wg_engineering_internship_program](https://gitlab.slack.com/archives/C03GW8WMVA9)                             |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1hcuE6I6rvdISFk_zzYYdxFdJM4ONhRrGY499ydDUiWc/edit#)   |
 | Docs            | [Handbook Page](https://about.gitlab.com/handbook/engineering/internships/)                                     |
@@ -34,27 +34,29 @@ This working group aims to build on the previous work from the [internship-pilot
 
 ## Exit Criteria
 
-#### Step 1: Establish the internship `=> 100%`
+#### Stage 1: Establish the internship `=> 100%`
 
 - ✅ Form a team to re-establish the engineering internship
 - ✅ Open an evergreen internship for applicants
 - ✅ Identify and work with several hiring managers to review, screen, and interview candidates for specific roles 
 
-#### Step 2: Iterate on the process with a small number of teams  `=> 50%`
+#### Stage 2: Iterate on the process with a small number of teams  `=> 50%`
 
-- Create role specific recruitment funnels
-- Determine requirements and benchmarks for technical interviews
-- Follow through to offer acceptance
+- ✅ Create role specific recruitment funnels
+- ✅ Determine requirements and benchmarks for technical interviews
+- Support managers, teams, and interns through the first round of internships 
+- Re-introduce the Junior level, renamed Associate, and add as a pathway from internship
 
-#### Step 3: Rollout across Engineering `=> 0%`
+#### Stage 3: Plan for FY24 `=> 0%`
 
-- 
+- Work through options to extend the internship in FY24
+- Draft a FY24-Q1 hiring goal for the Development Department (OKR)
 
 ## Roles and Responsibilities
 
 | Working Group Role | Person               | Title                                 |
 |--------------------|----------------------|---------------------------------------|
-| Executive Sponsor  | Christopher Lefelhocz         | VP of Development            |
+| Executive Sponsor  | Christopher Lefelhocz | VP of Development                    |
 | Facilitator        | Phil Calder          | Senior Engineering Manager            |
 | Functional Lead    | Ursela Knezevic      | Director, R&D Recruiting              |
 | Functional Lead    | Sherida McMullan     | VP, Diversity Inclusion, and Belonging |
