@@ -14,44 +14,43 @@ description: >-
 
 # Overview
 
-### Purpose
+### 🙌 Purpose
 
 *Why we exist*
 
-We take a customer-centric approach to educating prospects on how GitLab solves their problems.
+We take a customer-centric approach to educating prospects on how GitLab enables them to deliver software faster and more securely.
 
 
-### Vision
+### 🔮 Vision
 
 *Where we’re going*
 
-A future where **everyone can contribute** ideas that help us meet our Objectives.
+##### Wherever DevSecOps or DevOps is mentioned, GitLab is there.
 
-### Mission
+### 🎯 Mission
 
 *What we do*
 
-We drive continual improvement to GitLab’s user journeys, marketing site experience, and conversion funnel.
+We drive improvement to GitLab’s user journeys, marketing site experience, and conversion funnel.
 
-### Objectives
+### 📈 Objectives
 
-1. Enable Efficient & Quality Growth.
-2. Improve Buyer Experience of the Marketing Site.
-3. Increase Conversion Rates.
+1. Increase site engagement (lower bounce rate, increased pages per visit, form fills, etc.)
+2. Increase free trials
+3. Increase quality sign-ups
+4. Increase traffic to the Marketing Site
 
 
-### Strategy
+### ♟️ Strategy
 
-1. **Customer-centricity:** Buyer obsessed, customer-centric organization
-    - Understand our buyer’s journey & optimize for each segment
-    - Optimize path to purchase funnel for each segment
-2. **Personalization:** Right content/right segment/right time
-    - Increase access to data sources
-    - Persistent data layer to build a one to many relationship
-3. **Experimentation:** Good ideas come from everywhere
-    - Anyone can propose A/B tests
-    - Proven A/B test winners go live
-    - Results documented to reduce re-testing known saves
+1. Customer-centric, buyer-obsessed approach
+2. Collective, cross-functional collaboration towards shared goals
+3. Move fast, measure/monitor, respond (increase speed of our flywheel)
+4. Focus on core competencies (effectiveness and efficiency, discovery and alignment)
+5. Maximize primary drivers of our value chain
+
+### 👷 Tactics
+To be defined by each group on a quarterly basis.
 
 
 ### Principles
