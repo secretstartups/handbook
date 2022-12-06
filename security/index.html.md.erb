@@ -217,7 +217,7 @@ When creating a Cloud Function with a ["trigger type"](https://cloud.google.com/
 The second is network-based access control, via the following options under **Advanced Settings -> Connections -> Ingress Settings**. You should choose the least permissive option that will still allow your function to work:
 
 - Allow all traffic: This will permit HTTP invocations from any IP address.
-- Allow internal traffic only: This restrictss invocations to a source in the same Google Cloud project or the same [VPC SC perimeter](https://cloud.google.com/functions/docs/securing/using-vpc-service-controls).
+- Allow internal traffic only: This restricts invocations to a source in the same Google Cloud project or the same [VPC SC perimeter](https://cloud.google.com/functions/docs/securing/using-vpc-service-controls).
 - Allow internal traffic and traffic from Cloud Load Balancing: This is the same as above with the added ability to send an invocation through Google's load balancers.
 
 Some uses cases will prevent you from choosing the "best practice" when it comes to authenticating an inbound request. For example, you may wish to host a webhook target for an external service that doesn't support the use of Google Cloud credentials. For this use case, you can store a complex, machine-generated secrete as an environment variable inside your function and then ensure the requesting service includes that secret inside the request headers or JSON payload. More details and examples can be found [here](https://cloud.google.com/run/docs/triggering/webhooks#authorizing_requests).
@@ -235,7 +235,7 @@ You can then choose to use this new service account via the option under **Advan
 1. Do not configure email **forwarding** of company emails (@gitlab.com) to a
   non-company email address. Follow the [Unacceptable Email and Communications Activities](/handbook/people-group/acceptable-use-policy/#unacceptable-email-and-communications-activities) policy.
 2. There are security implications involved in the use of "smart home devices" such as Amazon Echo or Google Home. In rare instances these devices can record conversations you might not have intended them to record. Many smart home devices will provide a visual and/or auditory indicator to let you know they're activated; for many such devices, when they're activated, they're recording you and save a transcript of what you say while it's active. If a smart home device is activated while you're verbalizing sensitive information, wait for it to turn off or manually turn it off. If you think a smart device may have been activated while verbalizing sensitive information, most smart home devices allow you to delete transcripts and recordings. Please use your best judgement about the placement of these devices and whether or not to deactivate the microphone during sensitive discussions related to GitLab. If you ever have any questions or concerns, you can always contact the Security team.
-3. Do not use tools designed to circumvent network firewalls for the purpose of exposing your laptop to the public Internet. An example of this would be using [ngrok](https://ngrok.com/) to generate a public URL for accessing a local development environment. Our core product offers remote code execution as a feature. Other applications we test often expose similar functionality via the relaxed nature of development environments. Running these on a laptop exposed to the Internet would essentialy provide a back-door for remote attackers to abuse. This could result in the complete compromise of your home network and all business and personal accounts that have been accessed from your machine. Our [Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/) prohibits circumventing the security of any computer owned by GitLab, and using ngrok in this manner is an example of circumventing our [documented firewall requirements](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration).
+3. Do not use tools designed to circumvent network firewalls for the purpose of exposing your laptop to the public Internet. An example of this would be using [ngrok](https://ngrok.com/) to generate a public URL for accessing a local development environment. Our core product offers remote code execution as a feature. Other applications we test often expose similar functionality via the relaxed nature of development environments. Running these on a laptop exposed to the Internet would essentially provide a back-door for remote attackers to abuse. This could result in the complete compromise of your home network and all business and personal accounts that have been accessed from your machine. Our [Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/) prohibits circumventing the security of any computer owned by GitLab, and using ngrok in this manner is an example of circumventing our [documented firewall requirements](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration).
 
 #### Security Awareness
 
@@ -800,7 +800,7 @@ To submit an email via PhishAlarm to GitLab's Security Team using Gmail:
   1. Select the PhishAlarm icon on the right-hand side toolbar in Gmail
   2. Follow the instructions to report the Phish
   3. Confirm you are ready to report the Phishing email
-  4. Receive a confirmation that the email has been forwarded to GitLab Security Team for further investigtion.
+  4. Receive a confirmation that the email has been forwarded to GitLab Security Team for further investigation.
 
 ![PhishAlarm](/handbook/security/PhishAlarm-icon.png)
 
@@ -848,7 +848,7 @@ You can also check out our [Zero Trust Networking (ZTN) blog series](/blog/tags.
 
 Head over to the /r/netsec subreddit to see our [October 29, 2019 Reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/) on Zero Trust where we fielded questions around our ZTN implementation, roadmap, strategy and more.
 
-Identity is a critical element of the implementation of a ZTN framework. GitLab is moving forward with an implementation of Okta to allow us to standardise authentication for Cloud Application access and implement user-friendly SSO. See our [Okta](/handbook/business-ops/okta/) page for more details.
+Identity is a critical element of the implementation of a ZTN framework. GitLab is moving forward with an implementation of Okta to allow us to standardize authentication for Cloud Application access and implement user-friendly SSO. See our [Okta](/handbook/business-ops/okta/) page for more details.
 
 #### Why We Don't Have a Corporate VPN
 
@@ -1185,7 +1185,7 @@ Security Program Management is responsible for complete overview and driving sec
 - Provide Insights & Suggestions Impacting Program Strategy & Roadmap
 - Assist in Gathering & Prioritizing Program Risks, Requirements, & Alignment to Influence Remediation
 - Drive & Define Acceptance Criteria, Value Proposition, Milestones to Visualize and Communicate Program Effectiveness
-- Develop Repeatable, Scalable, Efficient, Effective, Processes & Proceedures
+- Develop Repeatable, Scalable, Efficient, Effective, Processes & Procedures
 
 ##### Security Architecture
 
@@ -1913,7 +1913,7 @@ The following process is followed for these annual tests:
 
 1. The Application Security team will partner with the [Security Operations](#security-operations) and other relevant teams to define the scope of the test.
 1. The Infrastructure team will be notified in accordance with their [procedures](/handbook/engineering/infrastructure/production/#penetration-testing)
-1. The Application Security team will manage the relationship with the 3rd-party vendor. Included in this role will be communicating the chosen scope and soliticing feedback.
+1. The Application Security team will manage the relationship with the 3rd-party vendor. Included in this role will be communicating the chosen scope and soliciting feedback.
 1. Based on feedback from all parties, testing dates will be defined and communicated to teams for appropriate actions.
 1. Testing will be done by the 3rd-party vendor and the results communicated to GitLab.
 1. The Application Security team will triage the findings and create issues in accordance with the [Issue Triage](#issue-triage) process.
