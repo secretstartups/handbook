@@ -44,9 +44,9 @@ This overview shows how the two processes are connected:
 
 1. Engineer creates features or bug fixes. Changes reviewed by Maintainers
 2. Validated changes merged into the default branch
-3. A scheduled pipeline packages all new changes into an "auto-deploy package" for deployment to GitLab.com. Multiple packages are created each day at the [listed times](/engineering/releases/#gitlabcom-deployments-process)
+3. A scheduled pipeline packages all new changes into an "auto-deploy package" for deployment to GitLab.com. Multiple packages are created each day at the [listed times](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-deployments-process)
 4. If deployments are allowed the auto-deploy pipeline starts. Production Change Locks, unhealthy environments, or other ongoing deployments are examples of events that would prevent a deployment 
-5. The auto-deploy package is deployed to GitLab.com. For more details [see the deployment process](/engineering/releases/#gitlabcom-deployments-process)
+5. The auto-deploy package is deployed to GitLab.com. For more details [see the deployment process](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-deployments-process)
 6. Changes that have been successfully deployed to GitLab.com can be considered for packaged release for self-managed users. A new release candidate package is created for these changes
 7. The release candidate is deployed to a test environment and automated QA tests execute
 8. Release Candidate is officially tagged and published for release
