@@ -8,7 +8,7 @@ description: "GitLab engineers: work with an Engineering Fellow for a week"
 
 ## Introduction
 
-The Engineering Fellow Shadow Program (formerly known as Engineering Fellow Pairing) allows any GitLab engineer to work together with a GitLab Engineering Fellow. Its current iteration is modeled after the [CEO Shadow Program](/ceo/shadow), with some exceptions to account for the differences in daily duties of the CEO and the Engineering Fellows. The program supports both remote and in-person rotations. Participants will spend a week working with the Engineering Fellows
+The Engineering Fellow Shadow Program (formerly known as Engineering Fellow Pairing) allows any GitLab engineer to work together with a GitLab Engineering Fellow. Its current iteration is modeled after the [CEO Shadow Program](/handbook/ceo/shadow/), with some exceptions to account for the differences in daily duties of the CEO and the Engineering Fellows. The program supports both remote and in-person rotations. Participants will spend a week working with the Engineering Fellows
 
 ## Goal
 
