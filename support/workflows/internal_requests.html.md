@@ -60,7 +60,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace.
+For sales assisted trials, only we can override the credit card validation requirement for a namespace. See [Internal Requests > SaaS Trial Related > Change an existing SaaS trial plan](../internal-support/#internal-requests) for instructions on how to perform this task.
 
 ## GitLab.com Trial Change Request
 
