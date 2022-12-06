@@ -17,8 +17,8 @@ canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 |-----------------|-----------------|
 | Date Created    | 2022-12-01 |
 | Target End Date | 2023-03-30 |
-| Slack           | #wg_clickhouse_working_group (only accessible from within the company) |
-| Google Doc      | Agenda (TBA) (only accessible from within the company) |
+| Slack           | #wg_clickhouse_datastore (only accessible from within the company) |
+| Google Doc      | [Agenda](https://docs.google.com/document/d/1ZZ7fE7s18Yxww9wp0-lO7mFxJmwop3pWvqINCQPNubA/edit#) (only accessible from within the company) |
 
 ### Context
 
