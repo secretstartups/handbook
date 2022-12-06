@@ -18,14 +18,14 @@ description: >-
 
 *Why we exist*
 
-We take a customer-centric approach to educating prospects on how GitLab, The One DevOps Platform, solves their problems.
+We take a customer-centric approach to educating prospects on how GitLab solves their problems.
 
 
 ### Vision
 
 *Where we’re going*
 
-A future where **everyone can contribute**, consumers become contributors and we greatly increase the rate of human progress.
+A future where **everyone can contribute** ideas that help us meet our Objectives.
 
 ### Mission
 
@@ -35,9 +35,9 @@ We drive continual improvement to GitLab’s user journeys, marketing site exper
 
 ### Objectives
 
-1. Enable Efficient & Quality Growth
-2. Improve Buyer Experience of the Marketing Site
-3. Increase Conversion Rates
+1. Enable Efficient & Quality Growth.
+2. Improve Buyer Experience of the Marketing Site.
+3. Increase Conversion Rates.
 
 
 ### Strategy
