@@ -49,6 +49,10 @@ AnswerBase is a living library that is continuously being updated and expanded. 
 
 If you have suggestions for improvements, please reach out to Field Security via any of the contact methods listed below.
 
+## Quality Guide
+
+Please see our [AnswerBase Quality Guide](/handbook/security/security-assurance/field-security/answerbase_quality_guide.html.md) to understand how we structure and format AnswerBase.
+
 ## Contact the Field Security Team
 
 * Email
