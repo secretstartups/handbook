@@ -810,8 +810,8 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Create the webcast program in Marketo by navigating to the [Webcast program template for BrightTalk](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
 1. Right-click and select "clone"
 1. Next to "Clone To", choose `A campaign folder`.
-1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
-1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC`.
+1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]_BTLK`. For example, `20170418_MovingToGit_BTLK`.
+1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]_BTLK`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC_BTLK`.
 1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` folder.
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
