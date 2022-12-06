@@ -116,7 +116,7 @@ An example of giving positive feedback is our [thanks chat channel](/handbook/co
 For managers, it's important to realize that team members react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one.
 Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself.
 In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the team member's performance going forward.
-Give recognition generously, in the open, and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
+Give recognition generously, in the open, and often to [generate more engagement](https://humanresources.report/Resources/Whitepapers/3a779920-0dae-4fd5-95bf-58a1fc0c623d_How%20do%20I%20recognize%20thee,%20let%20me%20count%20the%20ways.PDF) from your team.
 
 ##### Get to know each other
 {:.no_toc}
