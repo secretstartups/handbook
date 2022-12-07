@@ -48,6 +48,7 @@ It's primarily used for operational tasks.
 
 It contains repositories for managing GitLab.com's infrastructure and as a mirror of the infrastructure repositories.
 It also hosts various tools for managing deployments and useful chatops commands that are sent from Slack.
+Admins for ops.gitlab.net are the Infrastructure Managers - Reliability, Scalability, Delivery.
 
 ### Architecture
 
