@@ -50,6 +50,7 @@ The Token Management Working Group will deliver:
 | Member         | Amar Patel      | Engineering Manager, Secure:Static Analysis |
 | Member         | Zach Rice       | Senior Backend Engineer, Secure:Static Analysis |
 | Member         | Lucas Charles   | Staff Backend Engineer, Secure:Static Analysis |
+| Member         | Dennis Appelt   | Staff Security Engineer, Security Research |
 
 ## Direction
 TBD
