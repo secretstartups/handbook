@@ -46,6 +46,10 @@ A: Yes, [view the most recent identity data](https://about.gitlab.com/company/cu
 
 A: Yes, GitLab publishes [people success KPIs](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#executive-summary). 
 
+**Q: How does GitLab define underrepresented groups?**
+
+A: An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. View the full definition [here](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups). 
+
 
 **Q: Does GitLab sponsor/fund nonprofit organizations?**
 
