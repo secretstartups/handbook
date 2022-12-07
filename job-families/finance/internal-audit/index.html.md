@@ -451,7 +451,8 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ### Director, Internal Audit
 
-The Director, Internal Audit reports directly to the chairman of the audit committee with a dotted line day to day control and administrative reporting relationship with the principal accounting officer. The Director, Internal Audit will be responsible for preparing and implementing a risk-based audit plan to assess, report on, and recommend improvements to the company’s key operational and finance activities and internal controls. Additionally, the position is responsible for identifying and assisting in documenting existing internal finance and disclosure controls, implementing and documenting new internal controls, and establishing an internal monitoring function to audit the company’s compliance with such internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. The position will be further called on to identify and implement finance department process improvements.  Once documented, ownership for and changing internal control procedures will reside in the owner of the control.
+The Director, Internal Audit reports to the Vice-President, Internal Audit. This position will be responsible for supporting the Vice-President, Internal Audit in preparing and implementing a risk-based audit plan to assess, report on, and recommend improvements to address GitLab’s strategic, business and compliance objectives. Additionally, the position will support in developing and executing the Internal Audit strategic plan and roadmap to build the next generation Audit function.  
+
 
 #### Job Grade
 
@@ -459,48 +460,37 @@ The Director, Internal Audit is a [grade 10](/handbook/total-rewards/compensatio
 
 #### Responsibilities
 
-* Drives the reporting package to the Audit Committee.
-* Documents GitLab SOX controls, processes, and recommends additional controls where there are control deficiencies.
-* Is the subject matter expert on controls with GitLab business partners, audit committee, and C-Suite executives.
+* Plans and executes risk-based operational audits and makes high impact recommendations to address GitLab’s strategic, business and compliance objectives as well as current and emerging internal and external risks
+* Provides oversight over GitLab SOX program to ensure the program is run effectively and efficiently
+* Supports in developing and executing Internal Audit strategic plan and roadmap to build the next generation audit function
+* Implement Quality Assurance and Improvement Plan (QAIP) to meet the IIA standards and ensure ongoing compliance to QAIP requirements
+* Drives the reporting packages to the Audit Committee and other stakeholders
 * Build and manage a highly functioning, distributed team of direct reports.
-* Manages an intern program to bring on new personnel to train and to fit into the accounting/finance functions.
-* Works with the Legal and Technical Accounting teams to identify related party companies from inquiries from the Board and C-Suite team.
-* Identify, understand, and document processes and procedures surrounding internal controls. Continually monitor and update the assessment of the control environment, keeping abreast of significant control issues, trends and developments.
-* Develop test plans and coordinate the performance of management testing of internal controls required by Sarbanes-Oxley.
 * Identify and assess the implementation of new controls as necessary.
-* Prepare and update a comprehensive risk-based audit plan for evaluating the effectiveness of controls in place to manage significant risk exposures, ensure the integrity and reliability of information and financial reporting, safeguard company assets, and comply with laws and regulations.
 * Identify and design anti-fraud criteria and controls.
 * Monitor and audit the company’s compliance with established internal controls.
-* Establish procedures and plan for conducting internal control audits.
 * Report findings to senior management and the company’s audit committee.
-* Understand the requirements of the Sarbanes-Oxley Act of 2002 (and any related SEC pronouncements) and assist in maintaining processes and functions to help ensure compliance with such requirements.
 * Coordinate activities with external auditors to support their audit and review procedures.
-* Participate in disclosure committee meetings.
-* Review finance department business processes and suggest ways to improve such processes.
-* Other duties, as directed by the Audit Committee and/or the Principal Accounting Officer:
-  - Identify and Review Financial Risks within the Company.
-  - Develop Audit plans that will be approved by the Audit Committee to review 1-3 Financial Risks audits and report findings first to the area related to these Financial Risks and report final reports to the Audit Committee.
-  - Handle other audits or reviews as directed by the Audit Committee, CFO or PAO.
+* Lead and participate in special projects and other critical initiatives of Internal Audit function
+
 
 #### Requirements
 
-* Previous management experience; ability to contribute to the career development of staff and a culture of teamwork.
-* Comprehensive knowledge of auditing practices, procedures, and principles, sufficient to interpret and analyze complex concepts and apply them in innovative ways. Skills and knowledge should include an extensive understanding of financial, operational, market and credit risk. Should have expert knowledge of generally accepted auditing standards in the US.
-* Capability and desire to evaluate the effectiveness of management in their stewardship of GitLab’s resources and their compliance with established corporate policy and procedures, including corporate governance, code of conduct standards, and business ethics and conduct policy.
+*Subject matter expertise in auditing and enterprise risk management concepts (e.g., risk assessment/prioritization, process & internal controls, root cause analysis)
+* Demonstrated strong professional judgment, critical thinking and written/oral communication skills (e.g., persuasion, influence, conflict resolution)
+* Experienced in leading teams leveraging data and analytical tools to solve business problems and in the audit lifecycle (e.g., audit plan development, risk assessment, engagement execution, reporting, findings management)
+* Experienced in leading, coaching and developing team members
+* Demonstrated ability to drive a clear vision for the team & manage and coordinate work across global teams
 * Creative approaches and solutions necessary to solve complex problems.
 * Strong written and verbal communication skills with experience interacting with and presenting to senior management-level personnel.
-* The candidate must have excellent interpersonal skills and will serve as a member of the senior management team.
-* The candidate should be an energetic, entrepreneurial self-starter capable of self-direction.
-* He/she should be driven to deliver quality results on time, with a high degree of integrity, in a highly ethical and professional manner.
-* The candidate should be self-reliant and have strong initiative as well as possess solid business judgment.
-* He/she must be resourceful and strategic and possess excellent analytical abilities.
 * Able to utilize Best Practices on recommendations and audit findings.
-* A minimum of ten years of experience in a public accounting firm and or software industry with a heavy emphasis on financial and accounting applications and financial and operational controls.
-* Experience in an internal audit function preferred.
-* Experience in the software industry highly preferred.
-* Bachelor’s degree in accounting or related finance field. Chartered accountant (CA) or certified public accountant (CPA) desirable.
+* Ability to work in US time zones mainly Pacific and Eastern time zones
+* 10+ years of experience in audit and risk management
+* Experience in the software industry is highly preferred.
+* MBA, Bachelor’s degree in accounting or related finance field. Chartered accountant (CA) or certified public accountant (CPA) desirable.
 * Certified internal auditor (CIA) or certified information systems auditor (CISA) preferred.
 * Ability to use GitLab
+
 
 #### Performance Indicators
 
