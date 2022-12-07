@@ -1196,7 +1196,8 @@ Customer procurement cycles can take time. A start date on a quote may be in the
 **Renewal Opportunity**
 
 1. Renewal opportunities where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team.
-2. Renewal opportunities where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking.
+2. On renewal opportunities where the Start Date is > 2 weeks in the past the Order Management team will check the customer portal for any trial licenses (self-managed deals) or ask the opportunity owner in SFDC Chatter to provide the link the ZenDesk support ticket where trial subscription was requested (SaaS deals). 
+If customer has lost access for any reason / period of time after the end of the renewal grace period, the opportunity owner/ISR should create a new subscription quote object on the late renewal opportunity.
 3. The opportunity must meet all booking requirements and is still subject to the Bookings Policy.  
 
 
