@@ -67,7 +67,7 @@ These two  fields are mandatory:
 These two fields are optional:
 
 - **End Date**: The updated date the plan will end.
-- **Sales Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension of more than 30 days.
+- **Sales Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension. 
 
 Required to "extend" a subscription:
 
