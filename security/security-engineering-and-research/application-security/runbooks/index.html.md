@@ -27,6 +27,7 @@ title: "Application Security Runbooks"
 - [JiHu Contribution Merge Monitor Report Process](./jihu-contribution-merge-monitor-reports.html)
 - [Bug Hunting Day process][8]
 - [Appsec Frequenty Asked Questions][7]
+- [How to plan and measure engagement with Secure Code Warrior][9]
 
 [1]: ./hackerone-process.html
 [2]: ./handling-s1p1.html
@@ -36,6 +37,7 @@ title: "Application Security Runbooks"
 [6]: ./local-setup.html
 [7]: ./faq.html
 [8]: ./bug-hunting-day.html
+[9]: ./scw-engagement-plan.html
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
