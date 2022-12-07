@@ -76,4 +76,4 @@ This Working Group has the following goals:
 | Member | Kamil Niechajewicz | Engineering Manger, Growth:Acquisition  |
 | Member | Doug Stull | Staff FullStack Engineer, Growth:Acquisition  |
 | Member | David Curlewis | Engineering Manager, Reliability |
-| Member |  |  |
+| Member | Nicholas Klick | Engineering Manager, Observability |
