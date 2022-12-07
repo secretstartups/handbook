@@ -703,6 +703,8 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 * model - the name of the model in dbt and snowflake
 * timestamp_column - the name of the column that should be used to batch the data (or `null` if there is none and the table is small)
 * sensitive - `True` if this model contains sensitive data and is in the pumps_sensitive directory and schema
+* single - `True` if you want to create a single file in the target location. `False` if multiple files can be written
+* stage - The name of the snowflake stage you'd like to use for the target location
 * owner - your (or the business DRI's) gitlab handle
 
 **Step 3:** Create an [issue in the platypus project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues/new) using the 'change' issue template so that the Integration team can map and integrate the data into the target application.
