@@ -59,7 +59,7 @@ This Working Group has the following goals:
 | Functional Lead - Distribution | Dmytro Makovey | Senior Backend Engineer, Distribution:Build|
 | Functional Lead - Quality |  | |
 | Functional Lead - Infrastructure | Reuben Pereira | Senior Backend Engineer, Delivery:System |
-| Functional Lead - Product | | |
+| Functional Lead - Product | Dilan Orrino | Senior Product Manager, Enablement:Distribution |
 | Member | Nick Nguyen | Senior Engineering Manager, Datastores |
 | Member | Pavel Shutsin | Senior Backend Engineer, Plan:Optimize |
 | Member | Dennis Tang | Engineering Manager, Analyze:Product Analytics |
