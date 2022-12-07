@@ -39,19 +39,37 @@ Engage with customers in a technical consultancy and advisor role during their G
 
 ## Engagement Model
 
-Engagement Criteria:
+Customer Success Engineer engagement follows a process for validation and delivery.
 
-| Engagement Criteria                                                                    | mandatory/optional |
-|----------------------------------------------------------------------------------------|--------------------|
-| Agreed Success Plan with measurable Business Outcomes aligned to the CSE deliverables  | mandatory          |
-| Exec Alignment and access to impacted customer teams                                   | mandatory          |
-| Included in Account Plan                                                               | mandatory          |
+```mermaid
+graph TD
+    A[Engagement request] -->B[Review]
+    B --> |Manager approved| C[Planning] --> E
+    B --> |Info needed| D[Clarification] --> B
+    E[Engagement] --> F
+    F[Completion]
+```
 
-Engagement Qualification:
-1. Identification of CSE deliverable - link issue template (DRI: CSM)
-1. Alignment Account Team (DRI: CSM)
-1. Review and Approval (DRI: Manager, CSM) 
-1. Capacity Planning (DRI: Manager, CSE)
+### Engagement Request
+
+**DRI: CSM**
+
+When involving a CSE in a customer's adoption journey or other technical implementation effort, some initial details are needed to scope the engagement:
+
+1. **Objective in the success plan:** link directly to the objective within the customer's [success plan](/handbook/customer-success/csm/success-plans/) (this link is available under the "three-dot" menu on the objective within Gainsight)
+   1. **Expected effort:** Captured within the objective in Gainsight; Will the CSE be engaged for a one-off event, or for a longer period of time (e.g. one to multiple weeks)? If longer, what is the expected duration? _Examples of different engagements & accompanying scope include:_ 
+      1. Hands-on demo: if this is the entirety of the engagement this would be a one-off; if this is a piece of a larger engagement plan then the scope would be longer
+      1. Use case adoption enablement campaign: the CSE will engage with the customer in several ways to enable user groups on the usage of a given GitLab use case. This would be a longer term engagement.
+   1. **Target start date:** what is the expected start date for the CSE engagement? _Please be as specific as possible, but if there isn't an exact date provide a general time frame (e.g. first week of May)_
+   1. **Outcome & success criteria:** what will we, and the customer, need to achieve in order for the engagement to be successful? What metrics & deliverables have we agreed on?
+   1. **Stakeholders & contacts:** who from the customer is involved, and what is their role? _Please provide each person's name and role/title, as well as a brief summary of their responsibilities during the engagement._
+1. **Create CSE engagement request issue:** [Issue template](https://gitlab.com/gitlab-com/customer-success/customer-success-engineering/-/issues/new?issuable_template=cse-engagement-request)
+
+### Request Review and Approval
+
+**DRI: CSE Manager**
+
+Once a CSE engagement request is submitted, the CSE manager will review the request. They will respond with any clarifying questions, and determine CSE availability (Capacity planning).
 
 ## Metrics & Key Performance Indicators
 1. Green Success Plans (% complete) with technical milestones & objectives in place, in collaboration with the CSM
@@ -73,5 +91,6 @@ The hiring plan is as follows:
 1. Senior CS leadership call
 
 ## Resources & References
-
+- [CSE Kanban Board](https://gitlab.com/gitlab-com/customer-success/customer-success-engineering/-/boards/4877121)
+- [CSE Project](https://gitlab.com/gitlab-com/customer-success/customer-success-engineering)
 - [CSE Google Drive](https://drive.google.com/drive/folders/1AKVpZRXDC4cHlr794gH-RUZCdiNb114I?usp=sharing) (GitLab internal only)
