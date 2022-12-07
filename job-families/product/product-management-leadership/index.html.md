@@ -12,7 +12,6 @@ This job family represents all Managers in the Product Management department. Th
 * [Product Development Workflow](/handbook/product-development-flow/)
 * [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
 * [Engineering Workflow](/handbook/engineering/workflow/)
-* [Product Handbook](/handbook/product/)
 
 ## Responsibilities
 * Make sure you have a great product team (recruit and hire, coach and mentor, promote proactively, identify underperformance)
