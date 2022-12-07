@@ -51,7 +51,7 @@ If you have suggestions for improvements, please reach out to Field Security via
 
 ## Quality Guide
 
-Please see our [AnswerBase Quality Guide](/handbook/security/security-assurance/field-security/answerbase_quality_guide.html.md) to understand how we structure and format AnswerBase.
+Please see our [AnswerBase Quality Guide](/handbook/security/security-assurance/field-security/answerbase_quality_guide.html) to understand how we structure and format AnswerBase.
 
 ## Contact the Field Security Team
 
