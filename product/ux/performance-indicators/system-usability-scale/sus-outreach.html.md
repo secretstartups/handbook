@@ -10,7 +10,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 1. The UX Researcher running the SUS survey shares a Google sheet that contains scores and verbatims from respondents who have agreed to a follow-up conversation.
 1. The UX Researcher creates an outreach issue to manage the responder outreach.
 1. First, Product Leaders go through the Google sheet and sign up for outreach and/or tag in their Product Managers.
-1. Product Managers review the sheet and confirm who they want to speak to. They tag their Product Design counterparts to decide who will be leading the interview. The interview leader will be responsible for reaching out to the user and scheduling the interview. Once contacted, they mark the respondent as 'Contacted' in the sheet. 
+1. Product Managers review the sheet and confirm who they want to speak to. If a Design counterpart exists, tag them Product Design counterparts to decide who will be leading the interview. Otherwise the PM will lead it. The interview leader will be responsible for reaching out to the user and scheduling the interview. Once contacted, they mark the respondent as 'Contacted' in the sheet. 
 1. If multiple GitLab team members are interested in speaking to the same respondent, coordinate with the team member that contacted the respondent to align on questions to be asked. **We do not want the same respondent be contacted multiple times and by multiple GitLab team members.**
 1. After the interview, mark the respondent as 'Complete' in the sheet.
 1. Add any notes and links to video recordings to the UX Research shared Google Drive.
