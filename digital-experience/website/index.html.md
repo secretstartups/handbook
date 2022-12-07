@@ -497,6 +497,8 @@ Any change to a Stage or Group, or a significant change to a Category, is a majo
 
 Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](/handbook/product/categories/#changes).
 
+After merging, changes to feature categories will trickle down into [error budgets](/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](/handbook/engineering/infrastructure/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
+
 **Minor changes**
 
 Minor changes to Categories are generally routine changes, like updates to maturity and content links. For example, upon shipping an MVC the maturity would change to `minimal`, and a link to the documentation would be added.
