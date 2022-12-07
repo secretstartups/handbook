@@ -26,6 +26,36 @@ Below are the cadences we have at GitLab:
 1. Week (5 workdays)
 1. Day
 
+## Mission
+
+**30 years**
+
+- Time to realize [our mission](/company/mission/#mission){:data-ga-name="mission"}{:data-ga-location="body"}
+- [BHAG](/company/mission/#big-hairy-audacious-goal){:data-ga-name="BHAG"}{:data-ga-location="body"}
+- [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
+- [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
+- [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
+
+## Vision
+
+**10 years**
+
+- [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
+- [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
+- Time needed for category creation
+- [Investor fund time limit](https://www.strictlybusinesslawblog.com/2017/06/29/the-life-cycle-of-a-private-equity-or-venture-capital-fund/)
+- Commitment of DZ
+
+## Strategy
+
+**3 years**
+
+- Most of [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+- [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
+- [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
+- Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
+
+
 ## Year
 
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
@@ -38,7 +68,7 @@ Below are the cadences we have at GitLab:
 
 1. [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
 1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
-1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
+1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari){:data-ga-name="clari"}{:data-ga-location="body"})
 1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
 
 ## Month
@@ -138,31 +168,7 @@ gantt
     Engagement Survey(estimated)    :2021-10-26, 14d
 ```
 
-## Strategy
 
-**3 years**
 
-- Most of [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
-- [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
-- [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
-- Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
-## Vision
 
-**10 years**
-
-- [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
-- [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
-- Time needed for category creation
-- [Investor fund time limit](https://www.strictlybusinesslawblog.com/2017/06/29/the-life-cycle-of-a-private-equity-or-venture-capital-fund/)
-- Commitment of DZ
-
-## Mission
-
-**30 years**
-
-- Time to realize [our mission](/company/mission/#mission){:data-ga-name="mission"}{:data-ga-location="body"}
-- [BHAG](/company/mission/#big-hairy-audacious-goal){:data-ga-name="BHAG"}{:data-ga-location="body"}
-- [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
-- [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
-- [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
