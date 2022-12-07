@@ -98,6 +98,7 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 * [Disciplinary Procedure](https://docs.google.com/document/d/1cTSESXTt1Fn8680AVAcpq1g3wkJ_voFj192ak3rXNcA/edit?usp=sharing)
 * [Grievance Procedure](https://docs.google.com/document/d/1RJ5rWMz_FRiKDOOyAgCn5b4XZkV0dcrKZ82D7etBlUo/edit?usp=sharing)
 * [Protected Disclosure Policy](https://docs.google.com/document/d/1cIRHYLBCKJy2doHcpL4Yg-A4PWaw16IgjWLUCb34OyE/edit?usp=sharing)
+* [Right to Disconnect Policy](https://docs.google.com/document/d/1lEseZcXPUyH8NFBL8cKri7tQ4H47dB84IGARioqB09k/edit)
 
 **Health and Safety**
 
