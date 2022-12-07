@@ -55,6 +55,8 @@ After you sign your offer and complete your background check and references, you
 1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
+1. [Early Career Discussion Group Slack Channel](https://gitlab.slack.com/archives/C0340TYR7AA) This group is for anyone, but specifically for helping those who are transitioning to a new or first career! Everyone is welcome, and all your questions that you may not know where to ask are welcome here. 
+1. [Brag Docs](https://jvns.ca/blog/brag-documents/) are a way of tracking the work you've done. It can be a very helpful document when talking with managers, leadership, or when seeking promotions. Here's a [recording](https://youtu.be/oVd3jN76b5c) of an event hosted by the Early Career Team Member Discussion Group to talk about some advice for keeping a brag doc and more. 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Acronym Dictionary 
