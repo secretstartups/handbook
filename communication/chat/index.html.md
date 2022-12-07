@@ -218,21 +218,6 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 * **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
 
-
-#### Values Feed Channels (values-feed-)
-
-These channels are automated to show all messages from throughout our Slack channels that are reacted to with one of our values emojis:
-
-<img src="/images/valuesemojis.png" alt="GitLab Values emojis">
-
-The channels are:
-* **[`#values-feed-collaboration`](https://gitlab.slack.com/archives/values-feed-collaboration)**
-* **[`#values-feed-results`](https://gitlab.slack.com/archives/values-feed-results)**
-* **[`#values-feed-efficiency`](https://gitlab.slack.com/archives/values-feed-efficiency)**
-* **[`#values-feed-diversity-and-inclusion`](https://gitlab.slack.com/archives/values-feed-diversity-and-inclusion)**
-* **[`#values-feed-iteration`](https://gitlab.slack.com/archives/values-feed-iteration)**
-* **[`#values-feed-transparency`](https://gitlab.slack.com/archives/values-feed-transparency)**
-
 #### Social Groups
 
 In addition to weekly company group calls that bring us together, GitLab has Social Slack Groups. Social Groups are Slack channels that bring team members together around common interests, hobbies, and lifestyles. Think tennis club, gaming, shell collectors, movie buffs, faith groups, football. You can see a list of Social Slack Groups and their tags below. Feel free to join any that resonate with you. This is a non-exhaustive list, but if you don't see a group you'd love to see on the list, reach out to our diversity, inclusion and belonging team and we'd love to explore your idea.
