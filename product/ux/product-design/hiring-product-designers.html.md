@@ -54,9 +54,3 @@ In the last steps of the training, you will:
 - Be shadowed by your coach in two separate interviews. They will act as your coach and provide feedback on your interviewing skills. 
 
 You may request additional shadow opportunities, if you'd like additional practice and support.
-
-### Role as an Interview trainee
-_Details to be added_
-
-### Role as an Expert interviewer
-_Details to be added_
