@@ -45,6 +45,7 @@ We also carry out [UX Scorecard evaluations](/handbook/product/ux/ux-scorecards/
 
 ### Team
 * [Justin Mandell](https://gitlab.com/jmandell) - Product Design Manager
+* [Alex Fracazo](https://gitlab.com/afracazo) - Senior Product Designer
 * [Andy Volpe](https://gitlab.com/andyvolpe) - Staff Product Designer
 * [Becka Lippert](https://gitlab.com/beckalippert) - Senior Product Designer
 * [Camellia Yang](https://gitlab.com/cam.x) - Senior Product Designer
@@ -65,9 +66,9 @@ We've divided our stage into dedicated experience groups to align with a similar
 
 | Group                    | Category                                           | DRI Designer(s)           |
 | ------------------------ | -------------------------------------------------- | ------------------------- |
-| Container Security       | Security Orchestration and Container Scanning      | Camellia Yang             |
+| Security Policies       | Security Policy Management      | Camellia Yang             |
 | Threat Insights          | Vulnerability Management and Dependency Management | Becka Lippert, Andy Volpe |
-| Compliance               | Compliance Management and Audit Events             | TBH                       |
+| Compliance               | Compliance Management and Audit Events             | Alex Fracazo           |
 
 The Secure & Govern UX teams work closely together on all things Secure & Govern and have shared coverage in the following areas:
 
