@@ -371,8 +371,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday November 30 | People | People Leadership | Nov 10 |
 | Tuesday December 6 | Development | Christopher Lefelhocz | November 17 |
 | Wednesday December 7 | **Available** | | Key Review Date? |
-| Thursday December 8 | Finance| Brian Robins | November 28 |
-| Tuesday December 13 | General (CEO) | Sid Sijbrandij | N/A  |
+| Thursday December 8 | **Available**|  | Key Review Date? |
+| Tuesday December 13 | Finance | Craig Mestel | November 28   |
 | Wednesday December 14 | Product | Product Leadership | TBD |
 | Thursday December 15 | Quality | Mek Stittri | December 1 |
 | Tuesday December 20 | Infrastructure | Steve Loyd | December 8 |
