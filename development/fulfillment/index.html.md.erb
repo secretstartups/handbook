@@ -20,8 +20,8 @@ Fulfillment focuses on improving our capabilities and metrics in the following a
 
 * Fulfillment: [Direction](https://about.gitlab.com/direction/fulfillment), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#group-responsibilities), [Fulfillment Development Team](/handbook/engineering/development/fulfillment/)
 * Fulfillment Platform: [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
-* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Fullstack Team](/handbook/engineering/development/fulfillment/provision/)
-* Purchase: [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-provision-utilization/)
+* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Team](/handbook/engineering/development/fulfillment/provision/)
+* Purchase: [Backend Team](/handbook/engineering/development/fulfillment/purchase/)
 * Utilization: [Team](/handbook/engineering/development/fulfillment/utilization/)
 
 ## Direction
@@ -40,41 +40,29 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 <% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: fulfillment_em_members }) %>
 
-### Fulfillment:Billing and Subscription Management BE Team
+### Fulfillment:Billing and Subscription Management Team
 
-<%= department_team(base_department: "Fulfillment:Billing and Subscription Management BE Team") %>
+<%= department_team(base_department: "Fulfillment:Billing and Subscription Management Team") %>
 
-### Fulfillment:Billing and Subscription Management FE Team
+### Fulfillment:Purchase Team
 
-<%= department_team(base_department: "Fulfillment:Billing and Subscription Management FE Team") %>
-
-### Fulfillment:Purchase BE Team
-
-<%= department_team(base_department: "Fulfillment:Purchase BE Team") %>
-
-### Fulfillment:Purchase FE Team
-
-<%= department_team(base_department: "Fulfillment:Purchase FE Team") %>
+<%= department_team(base_department: "Fulfillment:Purchase Team") %>
 
 ### Fulfillment:Provision Team
 
 <%= department_team(base_department: "Fulfillment:Provision Team") %>
 
-### Fulfillment:Utilization BE Team
+### Fulfillment:Utilization Team
 
-<%= department_team(base_department: "Fulfillment:Utilization BE Team") %>
-
-### Fulfillment:Utilization FE Team
-
-<%= department_team(base_department: "Fulfillment:Utilization FE Team") %>
+<%= department_team(base_department: "Fulfillment:Utilization Team") %>
 
 ### Fulfillment:Fulfillment Platform Team
 
 <%= department_team(base_department: "Fulfillment:Fulfillment Platform Team") %>
 
-### Fulfillment:Commerce Integrations
+### Fulfillment:Commerce Integrations Team
 
-<%= department_team(base_department: "Fulfillment:Commerce Integrations") %>
+<%= department_team(base_department: "Fulfillment:Commerce Integrations Team") %>
 
 ## Stable counterparts
 
@@ -328,15 +316,15 @@ We follow the Quad Planning process defined [here](https://about.gitlab.com/hand
 
 ### User Experience
 
-We strive to provide excellent usability in all of our workflows, creating a balance between user and business needs. Product Designers work closely with Product Managers and Engineers. Visit the [Fulfillment User Experience](/handbook/product/ux/stage-group-ux-strategy/fulfillment/) page for details. 
+We strive to provide excellent usability in all of our workflows, creating a balance between user and business needs. Product Designers work closely with Product Managers and Engineers. Visit the [Fulfillment User Experience](/handbook/product/ux/stage-group-ux-strategy/fulfillment/) page for details.
 
 In summary,
-- We follow the [Product Designer Workflows](/handbook/product/ux/product-designer/). 
+- We follow the [Product Designer Workflows](/handbook/product/ux/product-designer/).
 - We track user research efforts using `UX Problem Validation` and `UX Solution Validation` labels.
 - We weight issues using the [UX issue weighting process](/handbook/product/ux/product-designer/#ux-issue-weights).
-- We create separate [UX] and [Engineering] issues to aid in tracking issue weights. 
+- We create separate [UX] and [Engineering] issues to aid in tracking issue weights.
 - [UX] issues are the SSOT for designs and should reflect the latest design decisions. Related implementation issues should link to the [UX] issue for the design details to maintain the SSOT.
-- Fulfillment Product Designers participate in GitLab's reviewer roulette, but at this time only Fulfillment Product Designers should review CustomersDot MRs and GitLab MRs that require connection to CustomersDot (e.g., the GitLab.com purchase flow). 
+- Fulfillment Product Designers participate in GitLab's reviewer roulette, but at this time only Fulfillment Product Designers should review CustomersDot MRs and GitLab MRs that require connection to CustomersDot (e.g., the GitLab.com purchase flow).
 
 ### Approving and merging the work
 
@@ -352,7 +340,7 @@ In addition to the approval rules, MRs may require additional reviews as suggest
 2. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html#adding-features-to-the-queue)
 3. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
 4. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
-5. Changes to the user experience require a [UX Review(/handbook/product/ux/product-designer/mr-reviews/)]. 
+5. Changes to the user experience require a [UX Review(/handbook/product/ux/product-designer/mr-reviews/)].
 
 ### Weekly async issue updates
 
@@ -383,7 +371,7 @@ Please be sure to update the workflow labels of your issue to one of the followi
 1. Are the related issues up to date? Please link any missing issues in the epic that could be linked to this issue
     - [ ] Yes
     - [ ] No
-    
+
 /health_status [on_track, needs_attention, at_risk]
 ```
 
@@ -766,7 +754,7 @@ This table lists recurring activities that are part of [working groups and cross
 
 ## Diversity, Inclusion, and Belonging
 
-See the [Fulfillment Section DIB page](/handbook/engineering/development/fulfillment/dib/) for more information about our DIB initiatives, including Fulfillment social events. 
+See the [Fulfillment Section DIB page](/handbook/engineering/development/fulfillment/dib/) for more information about our DIB initiatives, including Fulfillment social events.
 
 ## Performance indicators
 
@@ -822,7 +810,7 @@ Google groups can be used for easily sending calendar invites to members of the 
 
 | Group name |
 | --- |
-| [fulfillment-engineering](https://groups.google.com/a/gitlab.com/g/fulfillment-engineering/) | 
+| [fulfillment-engineering](https://groups.google.com/a/gitlab.com/g/fulfillment-engineering/) |
 
 ## Communicating on Slack
 
