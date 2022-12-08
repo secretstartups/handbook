@@ -44,9 +44,9 @@ GitLab is using Okta for a few key goals :
 
 All GitLab team-members will have an Okta account set up as part of their onboarding process. You should already have an activation email in both your Gmail and Personal Accounts.  For efficiency, please follow the onboarding process for setting up Okta and set up 1Password first and follow that up with Okta.  Please also set up Okta from your computer rather than your mobile or the mobile app, as you will be guided to set up the mobile app as part of the onboarding process.
 
-GitLab requires all team members to use either YubiKey or Biometrics as your OKTA authentication (handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta)
+GitLab requires all team members to use either Biometrics or YubiKey as your [Okta authentication](#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta)
 
-### I want to add Touch ID / Face ID / YubiKey to Okta
+### I want to add Touch ID / Face ID / Face Authentication / YubiKey to Okta
 
 **Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for all team members.**
 
@@ -73,7 +73,7 @@ GitLab requires all team members to use either YubiKey or Biometrics as your OKT
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
 
 
-1. We recommend enrolling both Chrome and Safari for redundancy on your computer, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately. You should enroll one computer browser (for example, Chrome), then add the [mobile device](#i-want-to-add-touch-id--face-id-to-okta-for-my-mobile-device-iphone-android-tablet), then come back and add the other computer [browser](#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-mobile-device-enrolled) (for example, Safari).
+1. We recommend enrolling both Chrome and Safari for redundancy on your computer, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately. You should enroll one computer browser (for example, Chrome), then add the [mobile device](#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android), then come back and add the other computer [browser](#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-mobile-device-enrolled) (for example, Safari).
 1. If clearing your browser cache, please be careful as you can delete your Touch ID credential. 
     1. In Chrome, if using "Clear Browsing Data" function please ensure that you [DO NOT check](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#clearing-google-chrome-cache-like-this-will-break-your-touchid-2fa) "Passwords and other sign-in data" (under "Advanced" tab). By default, this is unchecked. 
     1. In Safari, the credential is stored under "Settings->Password". This is separate from the "Settings->Privacy" and "Manage Website Data" where you would click "Remove all" to remove the cache.
@@ -84,9 +84,15 @@ We have also prepared Introductory Videos on [Setting up MFA/Yubikeys](https://y
 
 
 
-### I want to add Touch ID / Face ID to Okta for my mobile device (iPhone, Android, Tablet) 
+### I want to add Touch ID / Face ID / Face Authentication to Okta for my mobile device (iPhone/iPad or Android) 
 
-These steps are for an iPhone, and may be slightly different for Android.  If you are using an iPhone and receive a Developer or XCODE error, please upgrade to iOS 16+. We recommend enrolling a phone even if you don't plan to use it often, in case you need a way to [add a new computer or your credential gets accidentally removed on the computer](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-phone-enrolled).
+These steps are for an iPhone, and may be slightly different for Android.  If you are using an iPhone and receive a Developer or XCODE error, please upgrade to iOS 16+. We recommend enrolling a phone even if you don't plan to use it often, in case you need a way to [add a new computer or your credential gets accidentally removed on the computer](#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-mobile-device-enrolled). 
+1. On the computer, if using Chrome, please check that it is on the latest version by visiting the URL `chrome://settings/help` - if a new version is available, please use the `Relaunch` button to restart the browser.
+1. On your Mac, please also check that you are using macOS Ventura [13.0.1](https://support.apple.com/en-us/HT201260#:~:text=From%20the%20Apple%20menu%20%EF%A3%BF,version%20number%20to%20see%20it.) or newer.
+1. On your Mac, please check under "System Settings"->"Privacy & Security"->"Bluetooth" and make sure that Google Chrome has Bluetooth access enabled.
+
+    <img src="/handbook/business-technology/Okta-Mac-Bluetooth-1.png" alt="Okta Mac Bluetooth-1" width="300"/> 
+    <img src="/handbook/business-technology/Okta-Mac-Bluetooth-2.png" alt="Okta Mac Bluetooth-2" width="300"/>   
 1. On the computer, login into your [Okta](https://gitlab.okta.com)
 1. On the computer, click on your name on the top right to open the drop down menu (smiliar to above) and navigate to "Settings".
 1. On the computer, under Security Methods click "Set up another" beside Security Key or Biometric. This will take you to a setup authentication screen, click "Verify". Provide Touch ID.
@@ -100,14 +106,12 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 
      <img src="/handbook/business-technology/Okta-Chrome-Passkey-2.png" alt="Okta Chrome Passkey-2" width="300"/>  
 
-      You may then be prompted to allow Chrome to use Bluetooth, which you will have to enable in System Settings and restart the browser. Finally, this should display a QR code that you can scan.
-    1. In Chrome 107 or below, the pop up that opens choose the Use phone with a QR code. This should display a QR code that you can scan. 
+      This should display a QR code that you can scan.
     1. In Safari, click "Other options", then choose "iPhone, iPad or Android device - save a passkey on a device with a camera", then "Continue".
 1. On the mobile device, open your camera app and scan. (It may take a few seconds for it to connect). This requires Bluetooth to be enabled on both devices, but does not require pairing.  
 1. On the mobile device, a pop should show up to allow the credential to be saved.
     1. On a iPhone or iPad, it will prompt to save the credential to iCloud Key Chain. Allow this. 
     1. If saving the credential fails, go to Settings->`your name`->iCloud and make sure that Passwords and Keychain is set to "On". 
-    1. If your phone is stuck on "Connecting", on your Mac,  go to "System Settings"->"Privacy & Security"->"Bluetooth" and make sure that Google Chrome has Bluetooth access checked.
     1. If it still fails, you can also try [force restart](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios) and then trying to sign out of iCloud on your mobile device, and then sign back in to iCloud.
     1. On Android, this may appear "Use this device with screen lock". Choose this.
 1. On the mobile device, attempt to sign in by visiting [Okta](https://gitlab.okta.com).
@@ -121,7 +125,7 @@ This method has been verified on Macs and Linux with Chrome. For Safari, it requ
 1. On the mobile device, click "Sign in with a Passkey"
 1. On the mobile device, a "Sign in" popup appears - "Do you want to sign in to "gitlab.okta.com" with your saved passkey for "xxxxx@gitlab.com"? Click Continue and provide biometric.
 1. On the computer, you will now be signed in to Okta.
-1. If applicable, follow the standard [steps](#i-want-to-add-touch-id--face-id-to-okta-for-my-mobile-device-iphone-android-tablet) to enroll your Touch ID into Okta.
+1. If applicable, follow the standard [steps](#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) to enroll your Touch ID into Okta.
 
 ### I don't have an enrolled phone or computer but have a YubiKey
 
