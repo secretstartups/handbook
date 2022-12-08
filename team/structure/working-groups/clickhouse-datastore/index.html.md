@@ -57,7 +57,7 @@ This Working Group has the following goals:
 | Functional Lead - ModelOps | Mon Ray| Engineering Manager, ModelOps |
 | Functional Lead - Monitor | Mat Appelman | Principal Engineer, Monitor |
 | Functional Lead - Distribution | Dmytro Makovey | Senior Backend Engineer, Distribution:Build|
-| Functional Lead - Quality |  | |
+| Functional Lead - Quality | Kassandra Svoboda | Quality Engineering Manager, Enablement & SaaS Platforms |
 | Functional Lead - Infrastructure | Reuben Pereira | Senior Backend Engineer, Delivery:System |
 | Functional Lead - Product | Dilan Orrino | Senior Product Manager, Enablement:Distribution |
 | Member | Pavel Shutsin | Senior Backend Engineer, Plan:Optimize |
@@ -77,3 +77,4 @@ This Working Group has the following goals:
 | Member | David Curlewis | Engineering Manager, Reliability |
 | Member | Nicholas Klick | Engineering Manager, Observability |
 | Member | Arun Sori | Senior Backend Engineer, Monitor:Observability |
+| Member | Nailia Ishakkova | Senior Software Engineer in Test, Enablement: Distribution |
