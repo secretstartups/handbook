@@ -16,17 +16,6 @@ description: "The Observability group is responsible for the Observability of th
 
 The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain.
 
-Based on the [recent Opstrace acquisition](https://about.gitlab.com/press/releases/2021-12-14-gitlab-acquires-opstrace-to-expand-its-devops-platform-with-open-source-observability-solution.html), we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
-
-
-## Goals
-
-Our primary goals right now are to deliver a set of 3 Integration Milestones:
-
-- [Milestone 1](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/3): Migrating from GitHub => GitLab, Planning Integrated Authentication, Jaeger Tracing
-- [Milestone 2](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/11): Initial SaaS Infrastructure with Integrated Auth
-- [Milestone 3](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/19): Production SaaS platform, with Integrated Error Tracking and Tracing
-
 ## Team Organization
 
 ### Async Standups
@@ -90,14 +79,6 @@ If you are ever looking for additional issues to work on:
 <%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Respond)/, direct_manager_role: 'Engineering Manager, Monitor:Observability') %>
 
 
-## April 2022 Opstrace Pulse Survey Results
-
-A Pulse survey was conducted for the Opstrace team and the feedback was focused on a few key areas:
-
-1. Prioritize onboarding documentation and process for Observability new hires to ensure clarity for new team members. 
-1. Use the Direction page as more of a living doc that is always up-to-date and ensure we operate more as a handbook-first team for efficiency as the team scales.
-1. Close any perceived “missing links” in terms of dispersing information and communication to ensure the what, why, and when is clear to everyone on the team.
-
 ## Technical Architecture
 
 The Observability team is involved in the introduction of several new technologies and technical components to GitLab's tech stack. 
@@ -109,7 +90,6 @@ We also encourage you to read our [architecture documentation](https://gitlab.co
 ### ClickHouse Datastore
 
 Observability and analytics features have big data and insert heavy requirements which are not a good fit for Postgres or Redis.  [ClickHouse](https://github.com/ClickHouse/ClickHouse) was selected as a good fit to meet these features requirements.  ClickHouse is an open-source column-oriented database management system. It is attractive for these use cases because it can efficiently filter, aggregate, and sum across large numbers of rows. ClickHouse is not intended to replace Postgres or Redis in GitLab's stack.
-
 
 ClickHouse is the backend datastore for these features (currently under development): 
 * Tracing
@@ -123,30 +103,31 @@ ClickHouse is also being considered as a backend for:
 * User Ping
 * Vulnerability Reports
 
-#### Benchmarks
+#### ClickHouse Acceleration Borrow Request
 
- 1. [ClickHouse Benchmarks](https://gitlab.com/gitlab-org/incubation-engineering/apm/apm/-/issues/4) - Evaluation of ClickHouse, benchmarking against TimescaleDB, CrateDB, and MongoDB.
- CrateDB, MongoDB and TimescaleDB.
- 1. [ClickHouse vs. TimescaleDB Benchmark Video](https://youtu.be/cMdQsxolcqc) - Weekly demo video covering 
+Timeline: April 6 - June 22, 2022
 
+##### Goals
 
-#### ClickHouse related issues, videos, and resources
+- Company-wide interest in Clickhouse as a Analytical DB and Big data solution
+- Deliver a scalable Clickhouse Service that the whole company can leverage
+- Re-enable Error Tracking 
 
-1. Issues & Epics
-    1. [Jaeger/ClickHouse tracing POC epic](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/101506) - Epic describing proof of concept work for running Jaeger tracing on ClickHouse.
-        1. [Jaeger/ClickHouse tracing POC demo video](https://www.youtube.com/watch?v=IjW9d-UpARs)
-    1. [Jaeger/ClickHouse Tracing is production ready epic](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/10) - Epic for production readiness work of Jaeger tracing on Clickhouse.
-    1. [Incubation:APM ClickHouse evaluation issue](https://gitlab.com/gitlab-org/incubation-engineering/apm/apm/-/issues/4)
-    1. [Incubation:APM ClickHouse for logging existing solutions issue](https://gitlab.com/gitlab-org/incubation-engineering/apm/apm/-/issues/38)
-1. Videos
-    1. [Video - Sid Discusses Clickhouse for Logging](https://youtu.be/X7a6lVKt7jU)
-    1. [Video - ClickHouse discussion with Frederic (Polar Signals) & Sid Sijbrandij (GitLab)](https://youtu.be/2LHjDA2MN24?t=965)
-    1. [Video - Jaeger/ClickHouse tracing POC demo](https://www.youtube.com/watch?v=IjW9d-UpARs)
-    1. [ Video - ClickHouse vs. TimescaleDB Benchmark](https://youtu.be/cMdQsxolcqc)
-1. Example usage outside GitLab
-    1. [Uber Engineering Blog Post: Fast and Reliable Schema-Agnostic Log Analytics Platform](https://eng.uber.com/logging/)
-    1. [Sentry Architecture](https://develop.sentry.dev/architecture/)
-    1. [ClickHouse K8s Operator](https://github.com/Altinity/clickhouse-operator/)
+Many of the Goals and reasoning is discussed in the [borrow request proposal](https://gitlab.com/gitlab-com/Product/-/issues/3897).
+
+##### Exit criteria
+
+"Clickhouse integrated as part of a standard Opstrace + GitLab .COM deployments with Error Tracking backed by Clickhouse enabled by default."
+
+##### Epics
+
+- [Clickhouse as Datastore for Error Tracking](https://gitlab.com/groups/gitlab-org/-/epics/7772)
+- [Develop and Rollout a ClickHouse Service](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/27)
+
+##### Kickoff Meeting
+- [Recording](https://gitlab.zoom.us/rec/play/RRhg_7eBY8a-OGDMacTDvYlAWjObATY30HJNpPIW0CgMfUolLs4ofrUcw1HUcZN6dprWR7WSoQqjcLJP.OHmN5OXJKkLqYBC5?continueMode=true)
+- [Agenda](https://docs.google.com/document/d/1096378pYfsF1NRmZttjalrciQejk-Au50K01xfPGyO4/edit)
+
 
 ### GitLab Observability UI (previously known as Opstrace-ui)
 
@@ -163,51 +144,6 @@ ClickHouse is also being considered as a backend for:
 1. [GitLab Observability UI Repo](https://gitlab.com/gitlab-org/opstrace/opstrace-ui)
 1. [Blog Post announcement](https://opstrace.com/blog/gitlabobsvervabilityui)
 1. [Community Forum FAQ](https://forum.gitlab.com/t/updates-on-opstrace-integration-into-gitlab-faq/67257)
-
-### Proposed Removal of Cortex
-
-Cortex is a highly scalable timeseries database for Prometheus. Cortex has been part of the Opstrace stack since its founding and the team has invested energy in everything from [scale testing](https://opstrace.com/blog/scaling-200m-series) and developing its [own operator](https://opstrace.com/blog/introducing-a-cortex-operator).
-
-Moving forward, we are proposing to remove Cortex from the stack for several reasons:
-
-1. We want to [invest in ClickHouse](/#technical-architecture) as our sole Observability datastore. We previously implemented a Jaeger Tracing solution backed by ClickHouse and are planning to develop Metrics and Logging solutions as well. We see ClickHouse as a unified datastore capable of managing all our Observability data and this single source will prove easier to manage and scale both for our Observability SaaS but also for self-managed users.
-1. Removing Cortex now and focusing solely on ClickHouse, we can prevent a potentially difficult data migration down the road. Any migration of Production data can be a complex operation and removing Cortex spares our users that difficulty in the future when they need to shift to using a Metrics solution backed by ClickHouse. 
-1. Recently, [Grafana Labs decided to no longer contribute to the Cortex project](https://grafana.com/oss/cortex/) and focus instead on other efforts. This means that the Cortex project will likely see greatly reduced development of new features and bugfixes and the community will begin migrating away from Cortex. 
-
-We would love community input on this proposal: https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1656
-
-## ClickHouse Acceleration Borrow Request
-
-Timeline: April 6 - June 22, 2022
-
-### Goals
-
-- Company-wide interest in Clickhouse as a Analytical DB and Big data solution
-- Deliver a scalable Clickhouse Service that the whole company can leverage
-- Re-enable Error Tracking 
-
-Many of the Goals and reasoning is discussed in the [borrow request proposal](https://gitlab.com/gitlab-com/Product/-/issues/3897).
-
-### Exit criteria
-
-"Clickhouse integrated as part of a standard Opstrace + GitLab .COM deployments with Error Tracking backed by Clickhouse enabled by default."
-
-### Epics
-
-- [Clickhouse as Datastore for Error Tracking](https://gitlab.com/groups/gitlab-org/-/epics/7772)
-- [Develop and Rollout a ClickHouse Service](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/27)
-
-### Kickoff Meeting
-- [Recording](https://gitlab.zoom.us/rec/play/RRhg_7eBY8a-OGDMacTDvYlAWjObATY30HJNpPIW0CgMfUolLs4ofrUcw1HUcZN6dprWR7WSoQqjcLJP.OHmN5OXJKkLqYBC5?continueMode=true)
-- [Agenda](https://docs.google.com/document/d/1096378pYfsF1NRmZttjalrciQejk-Au50K01xfPGyO4/edit)
-
-### Communicating Progress
-
-We will communicate ongoing progress via:
-
-- [Burndown/Burnup charts](https://gitlab.com/groups/gitlab-org/-/milestones/78#tab-issues)
-- [Weekly updates for Observability team](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/4)
-- Adhoc showcase videos ([example](https://www.youtube.com/watch?v=IjW9d-UpARs))
 
 ## Dashboards
 
