@@ -113,10 +113,21 @@ ClickHouse is planned as the data backend for:
   * https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse
 * ClickHouse requires a highly efficient, scalable and robust ingestion process, to handle high volumes of inserts, as a result we are [proposing to refactor our ingestion process](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1878) which may add complexity to the system.
 
+#### How do we work currently with ClickHouse Inc?
+* We have an annual support contract with ClickHouse Inc.
+* There is a dedicated slack channel where we collaborate with them (`#clickhouse-gitlab-external431`)
+* We also meet with them monthly (third Wed of the month)
+* Primarily we get support and feedback around: schema design, scalability/configuration recommendations, and new ClickHouse features we can leverage.
+* For support requests we utilize their support ticketing system:
+  * New support cases are created on https://clickhouse.cloud/support (requires login to the system)
+  * All support is handled via this support issue tracking
 
-#### ClickHouse Acceleration Borrow Request
 
-Timeline: April 6 - June 22, 2022
+### ClickHouse Acceleration Borrow Request
+
+We organized and participated in a Borrow Request to help migrate Error Tracking to ClickHouse 
+
+The timeline for the Borrow Request was April 6 - July 22, 2022
 
 ##### Goals
 
