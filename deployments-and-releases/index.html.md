@@ -53,7 +53,7 @@ This overview shows how the two processes are connected:
 7. The release candidate is deployed to a test environment and automated QA tests execute
 8. Release Candidate is officially tagged and published for release
 
-For a more detailed explaination of the processes see the [deployment page](/engineering/deployments-and-releases/deployments/) and the [releases page](/handbook/engineering/releases/)
+For a more detailed explaination of the processes see the [deployment page](/handbook/engineering/deployments-and-releases/deployments/) and the [releases page](/handbook/engineering/releases/)
 
 ## Release Managers
 The overall coordination and operation of the deployment and release process is the responsibility of the release managers. 
