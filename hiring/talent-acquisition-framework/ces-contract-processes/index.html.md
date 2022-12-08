@@ -40,7 +40,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
 | GitLab UK Ltd | Rob Allen, Pattie Egan, Dale Brown| 
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
-| GitLab GK, Japan | Dale Brown, Craig Mestel | 
+| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Dale Brown, Craig Mestel | 
 | GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
 | GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
