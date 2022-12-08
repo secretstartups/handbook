@@ -34,7 +34,7 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 
 ### Assume good intent
 
-If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](/support/#definitions-of-support-impact), inform the Customer Success Manager for the customer or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
+If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact), inform the Customer Success Manager for the customer or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
 
 We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
 
@@ -64,7 +64,7 @@ If at any point you would like advice or help finding additional support, go ahe
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
 1. Start a thread in `#support_self-managed` or `#support_gitlab-com` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
-1. **OPTIONAL:** Consult our [definitions of support impact](/support/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
+1. **OPTIONAL:** Consult our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
 1. After 15 minutes, if the customer has not responded to our initial contact with them, send a follow up message covering the following points:
     - The bridge created to work on the emergency.
     - If the customer is not able to join immediately, we can make other arrangements.

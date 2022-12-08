@@ -29,7 +29,7 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 ### When should you STAR a ticket?
 
 1. When management oversight is required to bring structure and focus to a ticket, and ensure the necessary resources are allocated to it. For example, if:
-    - The first-response [SLA](https://about.gitlab.com/support/#service-level-agreement-sla-details) of the ticket has been breached by one hour or more (see [Before you STAR a ticket](#before-you-star-a-ticket)).
+    - The first-response [SLA](https://about.gitlab.com/support/#service-level-agreements) of the ticket has been breached by one hour or more (see [Before you STAR a ticket](#before-you-star-a-ticket)).
     - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
 1. When the progress of a ticket has stalled, and the ticket needs to be elevated to a different engineer (based on their skill set) so that GitLab can resolve the ticket more quickly.
 
@@ -51,7 +51,7 @@ Check that the ticket meets basic eligibility for STAR treatment:
 1. **Is the ticket within SLA?** Review the SLA associated with the ticket, and the amount of time left until breach, by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. 
    * If a ticket was opened in the last 0-30 minutes, and has the correct [Severity](https://about.gitlab.com/support/definitions/#definitions-of-support-impact), a STAR request is not necessary.
    * It is not typically necessary to STAR an issue that has multiple hours remaining on the SLA timer. 
-   * Our [SLAs](https://about.gitlab.com/support/#service-level-agreement-sla-details) apply to first-responses to tickets. GitLab Support targets a 95% SLA achievement KPI. This means that some breaching is expected.
+   * Our [SLAs](https://about.gitlab.com/support/#service-level-agreements) apply to first-responses to tickets. GitLab Support targets a 95% SLA achievement KPI. This means that some breaching is expected.
    * If the ticket has already had the first reply, then you are looking at a possible "internal (next reply) breach", for which there are no contractual SLAs.
    * If you make a STAR request when a ticket is still within SLA, the Support Manager will discuss with you the best approach.
 1. **Is the ticket missing information?** 
@@ -93,7 +93,7 @@ The following instructions apply to both customer tickets and Internal Requests.
 |---------------|------------|
 | Not Urgent    | We need increased visibility on the ticket/issue and a response from Support within the next 2 hours. This request for attention is not urgent, and the overall impact is `low`.|
 | Timely        | We need to address potential or existing customer dissatisfaction on the ticket/issue with a response from Support within the next 1 hour. This escalation has a certain level of urgency, and the overall impact is `medium`.|
-| Urgent        | The ticket/issue may become an [emergency](https://about.gitlab.com/support/#definitions-of-support-impact) if no follow-up is provided within the next 30 minutes and may lead to customer dissatisfaction. This escalation is urgent, and the overall impact is `high`.|
+| Urgent        | The ticket/issue may become an [emergency](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) if no follow-up is provided within the next 30 minutes and may lead to customer dissatisfaction. This escalation is urgent, and the overall impact is `high`.|
 
 
 ### STAR Issue Tracker

@@ -153,7 +153,7 @@ needs, and that might save you and the customer time and effort as well.
    where to communicate with the customer, or provide you with special handling
    instructions, and so on.
 1. If the **ticket priority** does not match our
-   [Definitions of Support Impact](/support/#definitions-of-support-impact),
+   [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact),
    inform the customer of the mismatch, suggest the appropriate priority, and
    work to get their agreement. Please consider using the macro
    [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Changed%20priority.yaml).

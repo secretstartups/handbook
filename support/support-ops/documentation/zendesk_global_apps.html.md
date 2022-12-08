@@ -102,7 +102,7 @@ App information:
 #### Languages we support
 
 The languages we support in tickets at this time are listed
-[on the GitLab support page](/support/#language-support).
+[on the GitLab support page](https://about.gitlab.com/support/portal/#language-support).
 
 Within Unbabel
 

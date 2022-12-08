@@ -91,7 +91,7 @@ The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-sof
 
 ###### Daily Stand-up Bot for Licensing and Renewals in APAC 
 
-In the APAC region, team members who have a shared focus on the Licensing and Renewals work also utilises the Daily Stand-up Bot, posted to the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack, which supports them in ensuring support coverage reliability of the Licensing and Renewal tickets across APAC [Support hours](https://about.gitlab.com/support/#definitions-of-gitLab-global-support-hours). 
+In the APAC region, team members who have a shared focus on the Licensing and Renewals work also utilises the Daily Stand-up Bot, posted to the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack, which supports them in ensuring support coverage reliability of the Licensing and Renewal tickets across APAC [Support hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours). 
 
 ###### Modifying your group's Daily Stand-up Bot
 

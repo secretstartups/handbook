@@ -12,7 +12,7 @@ description: How to set and change priority for a ZenDesk ticket.
 {:toc .hidden-md .hidden-lg}
 
 ## Definitions
-The [definitions of support impact](/support/#definitions-of-support-impact) are in the Statment of Support.
+The [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) are in the Statment of Support.
 
 ## Setting Ticket Priority
 
@@ -27,7 +27,7 @@ Everyone is responsible for setting priority during ticket [triage](/handbook/su
 
 There is a Zendesk Macro [`General::Changed priority`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360093631494) that includes language and links that will be helpful if you need to do this.
 
-Note that the amount of time that passes between our last response and the next response from the customer does not impact the priority of the ticket. For example, if the ticket should have High priority based on the [definitions of support impact](/support/#definitions-of-support-impact) and the customer only responds to our initial query after a month, the ticket priority should still remain High (assuming the nature of the problem did not change).
+Note that the amount of time that passes between our last response and the next response from the customer does not impact the priority of the ticket. For example, if the ticket should have High priority based on the [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) and the customer only responds to our initial query after a month, the ticket priority should still remain High (assuming the nature of the problem did not change).
 
 ### Guidelines and Effects
 

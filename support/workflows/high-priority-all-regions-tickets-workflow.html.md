@@ -21,7 +21,7 @@ Because of the overhead of global coordination, we should aim to focus on Solvin
 # As a support engineer, what do I do when I come across an `HPAR` ticket?
 
 1. Make sure that a ticket is created by Premium or Ultimate customer as tickets from Starter customers are not impacted by `HPAR` workflow.
-1. Make sure it's actually a [high priority ticket](https://about.gitlab.com/support/#definitions-of-support-impact).
+1. Make sure it's actually a [high priority ticket](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
 1. If it is, then do not assign
    - If you have capacity or know an expert, then work the ticket or ask an expert to engage.
 1. When you reply, make sure to set to pending, so it doesn't assign to you.

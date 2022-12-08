@@ -100,7 +100,7 @@ When GitLab experiences a [security incident](/handbook/security/security-operat
 
 #### Example situations and potential solutions
 
-- User requesting Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-global-support-hours)
+- User requesting Upgrade Assistance outside of [GitLab Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours)
    - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accommodate the day/time being requested
    - Work with the end user to reschedule for another date/time that is more amenable to support staffing
 - Last minute change in assignee availability
@@ -117,7 +117,7 @@ To swap your on-call duty with someone, follow the steps listed under [Swapping 
 
 ## Manually triggering a PagerDuty notification
 
-At times, you may receive an escalation where the customer is reporting a situation that qualifies for emergency support under our [definitions of support impact](https://about.gitlab.com/support/#definitions-of-support-impact). In such cases you may elect to trigger an emergency directly, rather than asking the customer to open a new emergency ticket.
+At times, you may receive an escalation where the customer is reporting a situation that qualifies for emergency support under our [definitions of support impact](https://about.gitlab.com/support/definitions/). In such cases you may elect to trigger an emergency directly, rather than asking the customer to open a new emergency ticket.
 
 You can trigger a PagerDuty notification by using the [`Support::Managers::Trigger manual emergency`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360074073259) macro in Zendesk.
 

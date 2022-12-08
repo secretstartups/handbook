@@ -21,7 +21,7 @@ There are four on-call rotations in Support:
 - [US Federal Emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
 - [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) - in which Support Manager are an escalation point for issues raised by Support Engineers and GitLab team members and missed PagerDuty notifications
 
-For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](/support/#definitions-of-support-impact).
+For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 

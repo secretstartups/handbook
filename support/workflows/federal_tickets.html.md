@@ -20,7 +20,7 @@ US Federal Support has a number of engineers with [verified US Citizenship](#acc
 After 7 days of a case being in the `pending` state an automation will run that puts the case back into an `open` state. This allows for the agent to either [follow up with the user](#following-up) on the requested actions or move the case to a `solved` state if they believe the issue in the case is resolved.
 
 There are events where customers will request to re-assign a Zendesk case to a co-worker. We handle this using the `Change` option at the top of the ticket by the respondents email.
-The context for this flow is because [CCs are disabled](https://about.gitlab.com/support/#ccs-are-disabled).
+The context for this flow is because [CCs are disabled](https://about.gitlab.com/support/us-federal-support/#ccs-are-disabled).
 
 ## Access limited to US Citizens
 

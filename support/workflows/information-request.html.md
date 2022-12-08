@@ -34,7 +34,7 @@ If a subpoena or court order that is not covered by another workflow (e.g. DMCA,
 
 ### GitLab.com specific support policies
 
-These workflows should be used when a user question is addressed in a [specific Support policy](https://about.gitlab.com/support/#gitlabcom-specific-support-policies).
+These workflows should be used when a user question is addressed in a [specific Support policy](https://about.gitlab.com/support/gitlab-com-policies).
 
 #### Namespace and Trademark claims
 
