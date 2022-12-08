@@ -88,7 +88,7 @@ Additionally, there may be specific items that are worthwhile to discuss about t
 - Inform customer about our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and that these are the only supported architectures
   - Inquire about current and projected user count to ensure the architecture allows for future growth and is the appropriate scale
 - Inform customer about the [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance)
-- Inform customer about our [support offerings for scaled architectures](https://about.gitlab.com/support/#definition-of-scaled-architecture)
+- Inform customer about our [support offerings for scaled architectures](https://about.gitlab.com/support/definitions/#definition-of-scaled-architecture)
 - Ask customer to provide an architecture diagram and upload to collaboration project
 - Ensure customer has [Backup/Restore](https://docs.gitlab.com/ee/raketasks/backup_restore.html) and Disaster Recovery plans in place
 

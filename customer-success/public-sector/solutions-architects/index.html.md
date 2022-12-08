@@ -18,7 +18,7 @@ Because specific requirements and common engagement practices differ from Enterp
 
 ## Federal Support
 
-The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/support/#us-federal-support) for those customers that require U.S. citizens to work their support tickets.
+The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/support/us-federal-support) for those customers that require U.S. citizens to work their support tickets.
 
 - The user that submits the ticket needs to be associated with the appropriate account in SFDC.
 - All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).

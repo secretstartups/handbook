@@ -28,7 +28,7 @@ To add important static notes that will appear on each new ticket to help the su
 ### Steps for the CSM to take to add support users:
 1. Collect a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
 1. Add these contacts as a "Contact" on the account in Salesforce.
-1. Advise the customer to have those people [create an account on the support portal](https://about.gitlab.com/support/#first-time-reaching-support).
+1. Advise the customer to have those people [create an account on the support portal](https://about.gitlab.com/support/portal/#first-time-reaching-support)
 
 Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resolution.
 
