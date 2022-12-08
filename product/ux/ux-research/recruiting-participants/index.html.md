@@ -91,7 +91,7 @@ Sometimes, we are able to combine efforts by using a common screener across diff
 
 *It’s important to remember that a screener is not the same as a survey.* There can be a temptation to pile on extra questions that you want to know the answer to, but aren’t strictly necessary for determining whether that participant should get through the door. You will benefit from including these questions in your discussion guide or script instead.
 
-### Create a Calendly Event
+### Create a Calendly event
 
 To schedule participants, you will need to create a Calendly event. The UX Research Operations Coordinator will send individual emails to qualified participants and ask them to book a time with you.  Set up Calendly [here](/handbook/tools-and-tips/other-apps/#calendly).
 
@@ -107,6 +107,13 @@ To schedule participants, you will need to create a Calendly event. The UX Resea
 1. You can click on each day in the calendar to indicate the time(s) you are available for sessions.
 
 ### Open a recruitment request issue
+
+Prior to opening a recruitment issue, please have all materials ready: 
+- Screener
+- Script 
+- Recruitment timelines 
+
+Without these materials the UX research operations coordinator will not be able to move forward with your request. When prematurely creating recruitment issues it will over-inflate our tracking on turn around time for recruitment issues. 
 
 **Step 1 - Open a Recruitment Request Issue**
 This step provides us with all the necessary information we need to complete your request.
@@ -141,7 +148,7 @@ The UX Research Operations Coordinator assigned to your project will select the 
 
 More detailed information on the above recruitment methods can be found [here](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/#recruitment-methods).
 
-#### Scheduling Participants
+#### Scheduling participants
 
 Once the screener has been sent to potential participants, the UX Research Operations Coordinator will monitor the results and share them with the person who requested the recruiting. This is done via a Google spreadsheet. They will suggest which potential participants best fit your recruiting criteria. The DRI for the research may also provide a list of names to the UX Research Operations Coordinator from the responses that they would like invited.
 
@@ -173,7 +180,7 @@ In rare cases, when your target participants cannot be found, the UX Research Op
 
 In all cases, the UX Research Operations Coordinator will keep you updated on the progress of the recruitment effort by commenting on the recruiting issue.
 
-### Promotional Games
+### Promotional games
 
 If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](https://about.gitlab.com/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](https://about.gitlab.com/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional game or contests. 
 
