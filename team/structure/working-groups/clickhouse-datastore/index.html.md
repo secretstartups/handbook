@@ -77,3 +77,4 @@ This Working Group has the following goals:
 | Member | Doug Stull | Staff FullStack Engineer, Growth:Acquisition  |
 | Member | David Curlewis | Engineering Manager, Reliability |
 | Member | Nicholas Klick | Engineering Manager, Observability |
+| Member | Arun Sori | Senior Backend Engineer, Monitor:Observability |
