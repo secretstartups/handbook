@@ -45,6 +45,8 @@ Navigate to various career development resources located throughout the GitLab h
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/people-group/learning-and-development/internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="/handbook/ceo/shadow/" class="btn btn-purple" style="width:200px;margin:5px;">CEO Shadow</a>
+  </div>
+</div>
 
 ### Organization Tools
 <div class="flex-row" markdown="0">
