@@ -157,7 +157,6 @@ If you are interested in participating in an active working group, it is general
 1. [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
 1. [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
 1. [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
-1. [SOX PMO](/company/team/structure/working-groups/sox/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
 
@@ -207,6 +206,7 @@ If you are interested in participating in an active working group, it is general
 1. [Sharding](/company/team/structure/working-groups/sharding/)
 1. [Simplify Groups & Projects](/company/team/structure/working-groups/simplify-groups-and-projects/)
 1. [Single Codebase](/company/team/structure/working-groups/single-codebase/)
+1. [SOX PMO](/company/team/structure/working-groups/sox/)
 1. [Tiering](/company/team/structure/working-groups/tiering/)
 1. [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
 1. [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
