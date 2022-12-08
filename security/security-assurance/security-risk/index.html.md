@@ -76,6 +76,24 @@ The TPRM Program is focused on identifying and assessing the incremental securit
 |[Ryan Lawson](https://gitlab.com/rlawson1)|[Senior Security Assurance Engineer](https://about.gitlab.com/job-families/security/security-risk/#senior-security-risk-engineer)|
 |[Kyle Smith](https://gitlab.com/kylesmith2)|[Senior Security Assurance Engineer](https://about.gitlab.com/job-families/security/security-risk/#senior-security-risk-engineer)|
 
+## Functional DRIs
+
+While the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#characteristics-of-a-project-dri) is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should consult and collaborate with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
+
+DRIs are responsible for ensuring a [handbook-first approach](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) to their project(s) and challenging existing processes for [efficiency](https://about.gitlab.com/handbook/values/#efficiency).
+
+|Function	|DRI|
+|:----------:|:----------:|
+|[Annual Risk Assessment](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#storm-procedures)	|Kyle Smith|
+|[Business Impact Analysis (Annual and Ad-Hoc)](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)	|Nirmal Devarajan|
+|[Ongoing SecRisk-Related Observations Management](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html#introduction-to-observation-management-at-gitlab)	|Ty Dilbeck|
+|[Ongoing Risk Treatment](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#storm-procedures)	|Kyle Smith|
+|[Ongoing TPRM Assessments](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html)	|Ryan Lawson|
+|Periodic SOX CUEC Mappings	|Ryan Lawson|
+|[Periodic TPRM Assessments](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html)	|Eric Geving|
+|[StORM Metrics and Reporting](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#step-5-annual-storm-reports)	|Kyle Smith|
+|TPRM Metrics and Reporting	|Ryan Lawson|
+
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 {: #contact-card-light-purple}
 
