@@ -20,7 +20,15 @@ These are the core responsibilities of the security governance discipline.
 
 ### Security policies and standards
 
-Keeping the organization on track and within established boundaries to ensure compliance with laws and regulations while maintaining GitLab's [Information Security Policies](/handbook/security/#information-security-policies). Providing guidance, consistency and accountability to streamline internal processes and align with GitLab's values and mission. 
+Keeping the organization on track and within established boundaries to ensure compliance with laws and regulations while maintaining GitLab's [Information Security Policies](/handbook/security/#information-security-policies). Providing guidance, consistency and accountability to streamline internal processes and align with GitLab's values and mission.
+
+#### Security handbook maintenance
+
+Security Governance is responsible for the continuous maintenance and improvement of the `security` section in GitLab's handbook. This includes the creation and maintenance of [security policies and standards](https://about.gitlab.com/handbook/security/security-assurance/governance/#security-policies-and-standards), the creation and maintenance of [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-program.html), maintenance of the `security` section's overall structure, content relevance and accuracy, and alignment with GitLab's [style guide](https://about.gitlab.com/handbook/style-guide/). To request an update to the handbook's `security` section, please open an issue using the link below.
+
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-handbook/-/issues/new?issuable_template=security_handbook_request" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Security Handbook Request</a>
+</div>
 
 ### Security Assurance metrics
 
