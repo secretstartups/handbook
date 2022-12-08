@@ -26,7 +26,6 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Colleen Farris - Senior Director, Channel and Alliance Operations
 - Niles Jamshaid - Manager, Partner Operations
 - Dennis Zeissner - Partner Operations Analyst
-- Aura Villalobos - Partner Operations Analyst
 - Nick Scala - Director, Channel Operations
 - Bhano Pippala - Channel Operations Specialist
 - Jeff Cho - Channel Operations Specialist
@@ -702,8 +701,6 @@ The Channel Managers use a [tracking system](https://docs.google.com/presentatio
 5. Review status with Select Partner during QBR’s
 
 **Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
-
-**Channel Ops DRI:** Aura Villalobos or post questions in #channel-programs-ops.
 
 ## Clari Forecasting for Partner Managers and Leaders
 
