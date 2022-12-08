@@ -1058,7 +1058,16 @@ Data transformation is downstream transformation via dbt for Dimensions, Facts, 
 ### Snapshots
 {: #snapshots}
 
-Snapshots are a way to take point-in-time copies of source tables. dbt has [excellent documentation](https://docs.getdbt.com/docs/building-a-dbt-project/snapshots) on how the snapshots work.
+dbt snapshots are 
+- [SCD 2](https://en.wikipedia.org/wiki/Slowly_changing_dimension#Type_2:_add_new_row) tables, built on top of mutable (SCD1) source tables 
+- that record changes to the source table over time 
+
+One might assume that for each source table, there are multiple snapshot tables- one snapshot for each point in time- but that would be incorrect. 
+
+Instead, each source table will have only one corresponding snapshot table, and the snapshot table- due to it's SCD2 nature- contains the entire history of the source table.
+
+For more on snapshots, including examples, go to [dbt docs](https://docs.getdbt.com/docs/building-a-dbt-project/snapshots).
+
 Take note of how we [talk about and define snapshots](/handbook/business-technology/data-team/platform/#snapshots-definition).
 
 #### Create snapshot tables with `dbt snapshot`
