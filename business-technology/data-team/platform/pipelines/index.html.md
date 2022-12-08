@@ -173,6 +173,25 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
+## GitLab Ops Database
+
+Gitlaop ops database refers to the database instance of `ops.gitlab.net`. The infrastructure setup is done in a way that a daily restoration of the below-listed tables in a database [ops-db-restore](https://console.cloud.google.com/sql/instances/ops-db-restore/overview?project=gitlab-analysis)  is managed inside the GitLab-analysis GCP project.
+Currently below tables are being restored and consumed as part of data pipeline. 
+- ci_builds
+- ci_pipelines
+- ci_stages
+- labels
+- merge_request_metrics
+- merge_requests
+- projects
+- users
+- label_links
+- members
+
+A CI pipeline has been set up that dumps and restores the above table. The CI-pipeline is set up in project [ops-db-dump](https://ops.gitlab.net/gitlab-com/gl-infra/ops-db-dump).
+The restore is executed at 00:15 UTC and takes around 10 minutes.
+The airflow user has been given full access after restoring the database to read all the data from the source. 
+
 ## Google Search Console
 
 [Google Search Console](https://search.google.com/search-console/about) helps you monitor and maintain your site's presence in Google Search results.
