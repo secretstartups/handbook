@@ -76,7 +76,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 
 ### US Federal Support Engineer
 
-Support Engineers with verified US Citizenship may join the GitLab US Federal Support Team. This group works through the [US Federal Support portal](https://about.gitlab.com/support/#us-federal-support) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.
+Support Engineers with verified US Citizenship may join the GitLab US Federal Support Team. This group works through the [US Federal Support portal](https://about.gitlab.com/support/us-federal-support/) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.
 
 There are a number of challenges that are unique when it comes to supporting the customer environments that an engineer may encounter in the Federal space. Some of those challenges may include highly sanitized and redacted troubleshooting information, inability to screenshare or provide screenshots, etc. You can learn more about working on tickets in the US Federal Support portal [here](https://about.gitlab.com/handbook/support/workflows/federal_tickets.html). If you look forward to the aforementioned challenges and meet the requirements for US Federal Support, apply today!
 

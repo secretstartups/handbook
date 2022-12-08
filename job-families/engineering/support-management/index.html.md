@@ -192,7 +192,7 @@ Support Management roles have the following spans of control:
 
 ### US Federal Support Manager
 
-Support Managers with verified US Citizenship may join the GitLab US Federal Support Team. This group works through the [US Federal Support portal](https://about.gitlab.com/support/#us-federal-support) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.
+Support Managers with verified US Citizenship may join the GitLab US Federal Support Team. This group works through the [US Federal Support portal](https://about.gitlab.com/support/us-federal-support/) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.
 
 The US Federal Support Portal is unique in that it is the first restricted support instance at GitLab, this provides managers an opportunity to shape the way engineers and customers interact in order to improve the support experience in measurable ways. This instance is also used as a testbed for process change as it is easier to implement and roll out changes on a smaller scale with less impact than attempting to deploy them globally. As GitLab's federal offerings grow, the US Support workflows may serve as a template that can be used to extend federal support to other areas of the globe.
 
