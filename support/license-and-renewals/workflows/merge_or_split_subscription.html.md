@@ -22,7 +22,7 @@ It's not possible to merge the subscriptions if the opportunity in SFDC were bot
 
 ![Screenshot of Salesforce, highlighting the Opportunity Details "type" field.](/images/support/opportunity_type.png)
 
-If there are two opportunity for two separate subscriptions and the customer requires one license for both of the opportunity, the latest opportunity will need to be credited via a credit opportunity and a new opp will need to be submitted as an add-on to the already existing opportunity for the already existing subscription. For any further questions around the opportunities please reach out to the Sales Support team.
+If there are two opportunities for two separate subscriptions and the customer requires one license for both of the opportunities, the latest opportunity will need to be credited via a credit opportunity and a new opp will need to be submitted as an add-on to the already existing opportunity for the already existing subscription. For any further questions around the opportunities please reach out to the Sales Support team.
 
 Example case: [ZD ticket: #162478](https://gitlab.zendesk.com/agent/tickets/162478) (internal)
 
