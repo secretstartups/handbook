@@ -142,7 +142,7 @@ Follow this process to obtain legal review of **multiple pieces of material** wi
    * For multiple materials legal review requests involving more than five pieces of material, the DRI must, no less than 5 business days before the materials will be ready for review, (i) notify the Legal & Corporate Affairs Team in [#legal](https://app.slack.com/client/T02592416/C78E74A6L) of the upcoming event, and (ii) arrange a sync with the Team to agree a timeline for the completion of the review.
 
 2. As each of piece of material is ready for review, make a comment in the issue which:
-   * Tags the appropriate reviewers - [`@sfriss`](gitlab.com/srissmiller) for internal materials, and [`@sfriss`](gitlab.com/srissmiller) and [`@sfriss`](gitlab.com/LeeFalc) for external materials - requesting review;
+   * Tags the appropriate reviewers - [`@sfriss`](gitlab.com/srissmiller) for internal materials, and [`@sfriss`](gitlab.com/srissmiller) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials - requesting review;
    * Links (for Google Docs) or uploads (for other files) the material to the comment for review; and
    * States the due date for the review.
 
