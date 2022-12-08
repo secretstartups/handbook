@@ -60,7 +60,6 @@ This Working Group has the following goals:
 | Functional Lead - Quality |  | |
 | Functional Lead - Infrastructure | Reuben Pereira | Senior Backend Engineer, Delivery:System |
 | Functional Lead - Product | Dilan Orrino | Senior Product Manager, Enablement:Distribution |
-| Member | Nick Nguyen | Senior Engineering Manager, Datastores |
 | Member | Pavel Shutsin | Senior Backend Engineer, Plan:Optimize |
 | Member | Dennis Tang | Engineering Manager, Analyze:Product Analytics |
 | Member | Max Woolf            | Senior Backend Engineer, Analyze:Product Analytics |
@@ -68,7 +67,7 @@ This Working Group has the following goals:
 | Member | Piotr Skorupa   | Backend Engineer, Analyze:Product Intelligence |
 | Member | Alex Ives | Engineering Manager, Database (PostgreSQL) |
 | Member | Brandon Labuschagne | Engineering Manager, Plam:Optimize |
-| Member | Dylan Griffith | Principal Engineer, Datastores |
+| Member | Dylan Griffith | Principal Engineer, Data Stores |
 | Member | Nathan Rosandich | Engineering Manager, Govern:Compliance |
 | Member | João Pereira | Staff Backend Engineer, Package:Container Registry |
 | Member | Haim Snir | Senior Product Manager, Plan:Optimize |
