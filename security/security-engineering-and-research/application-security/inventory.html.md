@@ -47,6 +47,7 @@ The following categories can be used to decorate the projects we want to monitor
 | `docs` | Used to generate documentation |
 | `tooling` | Engineering tooling  |
 | `container` | A Docker image is built |
+| `fork` | Fork of another project (on gitlab.com or somewhere else) |
 
 ### Rules
 
@@ -54,7 +55,9 @@ Rules define actions to take, based on the project categories. These actions are
 
 | Categories | Actions | 
 | -------- | ----------- |
-|  `product`, `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | Download [vulnerability reports], [Dependencies], and [CI/CD configuration] |
+|  All except `deprecated` | Download [Dependencies] (including if no category is defined) |
+|  `product`, `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | Download [Vulnerability Reports], [Dependencies], [Protected branches], and [CI/CD configuration] |
+|  `fork` | Download [Protected branches] |
 
 ### Policies
 
@@ -65,7 +68,7 @@ Rules define actions to take, based on the project categories. These actions are
 | `website`+`external` + `yellow/orange/red_data` | [DAST] must be enabled. Overall SSL grade must be 'A' or 'A+' |
 | `product` + `container` | [Container Scanning] must be enabled |
 | `keep_private` | Project `visibility` must be `private` |
-| `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | *Default branch* must be `protected` (Allowed to merge : `Maintainers`, Allowed to push: `Maintainers`) |
+| `library`, `use_pat`, `website`, `api/service`, `green/yellow/red-data`, `3rdparty`, `fork` | *Default branch* must be `protected` (Allowed to merge : `Maintainers`, Allowed to push: `Maintainers`) |
 | `docs` | [Secret Detection] must be enabled |
 | all | Projects can't have [`internal`](https://docs.gitlab.com/ee/public_access/public_access.html#internal-projects-and-groups) visibility |
 | all | [`SECRET_DETECTION_HISTORIC_SCAN`](https://docs.gitlab.com/ee/user/application_security/secret_detection/#full-history-secret-detection) must not be set in the CI/CD configuration |
@@ -77,9 +80,10 @@ Rules define actions to take, based on the project categories. These actions are
 [Dependencies]: https://docs.gitlab.com/ee/api/dependencies.html
 [Dependency Scanning]: https://docs.gitlab.com/ee/user/application_security/dependency_scanning/
 [Secret Detection]: https://docs.gitlab.com/ee/user/application_security/secret_detection/
-[SAST]:  https://docs.gitlab.com/ee/user/application_security/sast/
-[Container Scanning]:  https://docs.gitlab.com/ee/user/application_security/container_scanning/
-[vulnerability reports]: https://docs.gitlab.com/ee/api/project_vulnerabilities.html
+[SAST]: https://docs.gitlab.com/ee/user/application_security/sast/
+[Container Scanning]: https://docs.gitlab.com/ee/user/application_security/container_scanning/
+[Vulnerability Reports]: https://docs.gitlab.com/ee/api/project_vulnerabilities.html
+[Protected branches]: https://docs.gitlab.com/ce/api/protected_branches.html
 
 ### How to categorize projects
 
