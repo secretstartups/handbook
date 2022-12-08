@@ -36,7 +36,7 @@ GitLab has access to the Linux Foundation [Course Catalog](https://training.linu
 
 License allocation will follow this approximate breakdown by department. If your department is not listed below and your career development goals required a course offered by the Linux Foundation, please reach out to the Learning and Development team to check on license availability.
 
-_please note that this breakdown is an ideal allocation based on useage and total team members but does not necessarily represent the current license allocation. As license are moved to different team members throughout the year, we'll use both this breakdown and actual need to best allocate licenses._
+_please note that this breakdown is an ideal allocation based on usage and total team members but does not necessarily represent the current license allocation. As license are moved to different team members throughout the year, we'll use both this breakdown and actual need to best allocate licenses._
 
 | Department | % Licenses Allocated |
 | ----- | ----- |
