@@ -109,8 +109,8 @@ ClickHouse is planned as the data backend for:
 
 * For our use cases we need to leverage the [S3 backed Disk](https://clickhouse.com/docs/en/guides/sre/configuring-s3-for-clickhouse-use) for high scalability. Long term we have identified this as a must. Storage in S3 is currently only available on AWS. Though it was scheduled to be available within GCP several months ago by ClickHouse Inc, the timelines have now changed significantly which requires us to migrate to AWS. 
 * ClickHouse requires a large amount of memory to run. The recommendation is a minimum of 16-32Gb for a small development instance and 64Gb-128Gb for a production instance. This leads to interesting questions about our goal for a self-hosted Observability solution. 
-  * https://clickhouse.com/docs/en/operations/tips/#ram
-  * https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse
+  * [https://clickhouse.com/docs/en/operations/tips/#ram](https://clickhouse.com/docs/en/operations/tips/#ram)
+  * [https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse](https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse)
 * ClickHouse requires a highly efficient, scalable and robust ingestion process, to handle high volumes of inserts, as a result we are [proposing to refactor our ingestion process](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1878) which may add complexity to the system.
 
 #### How do we work currently with ClickHouse Inc?
@@ -119,7 +119,7 @@ ClickHouse is planned as the data backend for:
 * We also meet with them monthly (third Wed of the month)
 * Primarily we get support and feedback around: schema design, scalability/configuration recommendations, and new ClickHouse features we can leverage.
 * For support requests we utilize their support ticketing system:
-  * New support cases are created on https://clickhouse.cloud/support (requires login to the system)
+  * New support cases are created on [https://clickhouse.cloud/support](https://clickhouse.cloud/support) (requires login to the system)
   * All support is handled via this support issue tracking
 
 
