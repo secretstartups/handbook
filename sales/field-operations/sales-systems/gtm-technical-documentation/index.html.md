@@ -61,7 +61,7 @@ Code Units:
 **Logic Locations:** [AccountJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob.cls), [AccountJob_SetParentLAMFields.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob_SetParentLAMFields.cls)
 
 Code Units:
-* AccountJob.zuoraSubInfo
+* AccountJob_SetZuoraSubInfo (all methods)
 * AccountJob_SetParentLAMFields (all methods)
 * AccountTrigger
 * AccountClass.SetLAMOnAccounts
@@ -70,9 +70,10 @@ Code Units:
 
 **Outputs:** Here are the various fields used in the solution, along with how they are set.
 
-The LAM calculation runs in three parts:
+The LAM calculation runs in four parts:
 
 1. The AccountJob executes and calculates subscription data for all Accounts.
+1. The AccountJob_SetZuoraSubInfo executes and calculates subscription data for each Account.
 1. The AccountJob_SetParentLAMValues executes and calculates subscription data across Account hierarchies.
 1. The AccountTrigger fires when the Account's LAM calculation changes, and sets the 'LAM__c' field based on logic for each territory and geo.
 
@@ -97,11 +98,11 @@ The LAM calculation runs in three parts:
 | LAM:Premium Avg Seat Price, this Account |LAM_Premium_Avg_Seat_Price_this_Account__c | Formula | SFDC |
 | LAM: Premium Annualized Seat Price  | LAM_Premium_Annualized_Seat_Price__c | Formula | SFDC |
 | LAM: Est Dev Percent by Industry    | LAM_Est_Dev_Percent_by_Industry__c | Formula | SFDC |
-| LAM: Count of Ultimate Subscriptions| LAM_Count_of_Ultimate_Subscriptions__c | Currency | AccountJob |
+| LAM: Count of Ultimate Subscriptions| LAM_Count_of_Ultimate_Subscriptions__c | Currency | AccountJob_SetZuoraSubInfo |
 | LAM: Count of Ultimate Subs, Acct Family| LAM_Count_of_Ultimate_Subs_Acct_Family__c	 | Currency | AccountJob_SetParentLAMFields |
-| LAM: Count of Starter Subscriptions | LAM_Count_of_Starter_Subscriptions__c	 | Currency | AccountJob |
+| LAM: Count of Starter Subscriptions | LAM_Count_of_Starter_Subscriptions__c	 | Currency | AccountJob_SetZuoraSubInfo |
 | LAM: Count of Starter Subs, Acct Family | LAM_Count_of_Starter_Subs_Acct_Family__c | Currency | AccountJob_SetParentLAMFields |
-| LAM: Count of Premium Subscriptions | LAM_Count_of_Premium_Subscriptions__c | Currency | AccountJob |
+| LAM: Count of Premium Subscriptions | LAM_Count_of_Premium_Subscriptions__c | Currency | AccountJob_SetZuoraSubInfo |
 | LAM: Count of Premium Subs, Acct Family  | LAM_Count_of_Premium_Subs_Acct_Family__c | Currency | AccountJob_SetParentLAMFields |
 | LAM:Aggregate Annual Ultimate Seat Price | LAM_Aggregate_Annual_Ultimate_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
 | LAM: Aggregate Annual Starter Seat Price | LAM_Aggregate_Annual_Starter_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
@@ -109,11 +110,12 @@ The LAM calculation runs in three parts:
 | LAM: Acct Below Land Line            | LAM_Acct_Below_Cut_Line_Form__c | Formula | SFDC |
 | CARR (Acct Family)                  | CARR_Acct_Family__c | Formula | SFDC |
 | CMRR (Acct Family)                  | CMRR_All_Child_Accounts__c | Currency | AccountJob_SetParentLAMFields |
-| Ultimate license count              | Ultimate_License_Count__c | Number | AccountJob |
-| Starter license count               | Starter_License_Count__c | Number | AccountJob |
+| Number of Licenses Sold (This Account)    | 	Number_of_Licenses_This_Account__c | Number | AccountJob_SetZuoraSubInfo |
+| Ultimate license count              | Ultimate_License_Count__c | Number | AccountJob_SetZuoraSubInfo |
+| Starter license count               | Starter_License_Count__c | Number | AccountJob_SetZuoraSubInfo |
 | Prevalent Tier (Account)            | Prevalent_Tier__c | Formula | SFDC |
 | Prevalent Tier (Hierarchy)          | Prevalent_Tier_Hierarchy__c | Formula | SFDC |
-| Premium license count               | Premium_License_Count__c | Number | AccountJob |
+| Premium license count               | Premium_License_Count__c | Number | AccountJob_SetZuoraSubInfo |
 | Parent LAM: Aggregate Developer Count | Aggregate_Developer_Count__c | Formula | SFDC |
 | Estimated Developer Count | Estimated_Developer_Count__c | Formula | SFDC |
 | Parent LAM: Sum Ultimate Seat Price | Parent_LAM_Sum_Ultimate_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
