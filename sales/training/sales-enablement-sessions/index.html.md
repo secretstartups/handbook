@@ -23,11 +23,10 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Dec 8 | Forrester TEI Enablement (Study + Estimator)  | Laura C. & Ryan R.  |
-| Dec 15 | FY23-Q4 Product Marketing Update | Saumya U. & Brian M.   |
-| Dec 22 | TBD  | TBD  |
+| Dec 15 | FY23-Q4 Product Spotlight: Winning with Ultimate | Saumya U. & Brian M.   |
+| Dec 22 | FY23-Q4 - Sales Ops Update (Win / Loss Code Changes)  | TBD  |
 | Dec 29 | **No Session - Public Holiday**  | N/A  |
-| Jan 5 | FY23 - Q4 Competitive update  | Joe K.  |
+| Jan 5 | FY23 - Q4 Competitive Corner  | Joe K.  |
 | Jan 12 | FY23 - Q4 Industry Analyst Relations Update | Laura C. & Ryan R.  |
 | Jan 19 | *No session during the last two weeks of the quarter* | N/A |
 | Jan 26 | *No session during the last two weeks of the quarter* | N/A |
@@ -39,6 +38,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-12-08 | **[Forrester TEI Enablement (Study + Estimator)](https://youtu.be/PBAjRh8_Vsk)**  | Public  |
 | 2022-11-17 | **[Strategic Selling & ROI](https://youtu.be/lkUOd-lzU8I)**  | Private  |
 | 2022-10-13 | **[How GitLab Competes with Snyk](https://youtu.be/SzAbgQGQ8Wg)**  | Private  |
 | 2022-10-06 | **[Security & Governance Enablement](https://youtu.be/O3osCCcZbt4)** | Private  |
