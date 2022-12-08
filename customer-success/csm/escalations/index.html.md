@@ -109,11 +109,39 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
 #### For all account escalations
 
 1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #a_customername_escalation and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
-1. Post the name of the temporary slack channel into the #escalated_customers and a link to the escalation tracker doc if appropriate. The posting to this channel should occur:
+
+1. Set up and document an internal standup cadence series while the escalation is running and put the details in the tracker doc
+   - At least the major stakeholders from each team involved in the escalation should be invited directly in the calendar invite.
+   - Let the temporary slack channel know about the new tracking doc with a post about the standup being in place. 
+   - Mark the tracking document URL in your SLACK message as sticky + add a bookmark to the temporary slack channel with the URL to the tracking doc.
+      - Benefit: This enables everyone to join the cadence, who may need or want to join. The gdoc is the central place to get up2speed or contribute.
+   - Tip: 10min before each standup, post the link to the escalation doc with a note that the standup will happen at the scheduled time. You can also schedule & automate the message via SLACK.
+      - Benefit: Stakeholders get notified in SLACK and interested or required team members can already add topics to the agenda.
+
+1. Make sure you write down the initial ask & needs (to initially make progress) in this escalation, as clearly as possible and add a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ccreate-a-bookmark) to it. You can link to it in the initial  message within the temporary escalation SLACK channel. As mentioned, be as specific as possible, as the GitLab exec / management team needs to understand what you are looking for to solve the escalation. For example:
+      - Required skills (Remote EMEA Timezone) 
+      - Ability to analyze production logs
+      - Familiarity with large-scale production architecture for GitLab
+      - Ability to understand SQL queries
+      - Familiarity with PostgreSQL, Patroni, PGBouncer
+
+
+1. Post the escalation document and the name of the temporary slack channel into the #escalated_customers. The posting to this channel should occur: 
 
    - when the escalation is identified and created
    - when the escalation is closed or risk reduced to standard business process to manage (i.e., issue resolved and monitoring the solution)
    - The #escalated_customers channel is for awareness only and is not intended to replace the dedicated slack channel created as above, the account or support channels. Leverage the specific escalation channel created for working communications, collaborations and executive updates.
+
+1. Example message for the event when the escalation is identified and created and you have to post to #escalated_customers:
+   - New Escalation
+   - **Customer**: <customer_name>
+   - **Slack Channel**: #<a_customer_name_escalation> 
+   - **Tracking Document**: <LINK:Escalation Tracker Doc>
+   - **Severity**: High
+   - **Status**: Opened
+   - **Description**: "<Example <Customer> platform is impacted by performance problems since several weeks and users are affected on a daily base which is driving the customer into a critical state. The performance problems are also risking their our license expansion.>”
+   - **FYI**: <TAG_YOUR_MANAGER_HERE>
+
 
 1. If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
 
