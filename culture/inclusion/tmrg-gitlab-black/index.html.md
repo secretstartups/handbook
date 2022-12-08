@@ -70,14 +70,17 @@ We use our [GitLab issue board](https://gitlab.com/gitlab-com/black-tmrg/-/board
 1. Open a new issue to propose an idea or project
 2. Contribute to an open issue that is assigned to a quarterly milestone. These milestones outline the current focus projects of the TMRG
 
-## Past Events
-- Sponsorship program
-- Black Women's Equal Pay Day
-- Stock up on Stock Knowledge
+## Events
+- Sales Sponsorship program 2022
+- Black Women's Equal Pay Day 2022
+- Stock up on Stock Knowledge 2022
+- Juneteenth Speaker with Tyrance Billingsley II 2022
 
 ## Additional Resources
 
-TBD
+- Black Author Book Club: select a book pertaining to career and leadership
+- Encouraged to leverage the [Black Speaker Collection](https://blackspeakerscollection.com/) site to find a speaker for event
+- Encouraged to leverage [Black in Tech Speakers] (https://www.allamericanspeakers.com/lists/black-in-tech.php)
 
 ### Black@GitLab TMRG logo 
 
