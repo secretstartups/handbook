@@ -266,7 +266,7 @@ Fees for the Subscriptions are based upon the number of Users and the applicable
 
 *Note: Subscription names are subject to change, however, the applicable Subscription for that Tier shall remain the same during a Subscription Term. 
 
-**Support Impact categories are defined at: https://about.gitlab.com/support/#definitions-of-support-impact
+**Support Impact categories are defined at: https://about.gitlab.com/support/definitions/#definitions-of-support-impact
 
 **PRIORITY SUPPORT OVERVIEW:** https://about.gitlab.com/support/#priority-support
 
