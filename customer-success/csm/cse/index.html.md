@@ -43,11 +43,16 @@ Customer Success Engineer engagement follows a process for validation and delive
 
 ```mermaid
 graph TD
-    A[Engagement request] -->B[Review]
-    B --> |Manager approved| C[Planning] --> E
-    B --> |Info needed| D[Clarification] --> B
-    E[Engagement] --> F
+    A[Engagement request]
+    B[Review]
+    C[Planning]
+    D[Clarification]
+    E[Engagement]
     F[Completion]
+
+    A --> B
+    B --> |Info needed| D --> B
+    B --> |Manager approved| C --> E --> F
 ```
 
 ### Engagement Request
