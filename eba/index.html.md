@@ -211,7 +211,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](/company/okrs/#updating).
 
 ## Performance Indicators (PI)
-More information can be found [here](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#performance-indicator)
+More information can be found [here](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#performance-indicator)
 
 ### Leadership SAT Survey
 
