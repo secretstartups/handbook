@@ -132,27 +132,27 @@ For non-GitLab team member shadows:
 
 No, not at this time.
 
+## Shadow Alumni
+
+| Shadow | Department | 
+| ------ | ----- |
+| [@warias](https://gitlab.com/warias) | Marketing |
+| [@mlindsay](https://gitlab.com/mlindsay) | Professional Services | 
+| [@oregand](https://gitlab.com/oregand) | Development |
+| [@dmishunov](https://gitlab.com/dmishunov) | Development |
+| [@rossfuhrman](https://gitlab.com/rossfuhrman) | Development |
+| [@sam.figueroa](https://gitlab.com/sam.figueroa )| Development |
+| [@bradleylee](https://gitlab.com/bradleylee) | Customer Success |
+| [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
+| [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
+| [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
+| [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) | 
+
 ## Schedule
 
-A given week should be considered open for shadowing unless it is listed below.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| 9/20/2021 | [@warias](https://gitlab.com/warias) | Marketing |
-| 11/15/2021 | [@mlindsay](https://gitlab.com/mlindsay) | Professional Services | 
-| 12/13/2021 | [@mlindsay](https://gitlab.com/mlindsay) | Professional Services | 
-| 2/21/2022 | [@oregand](https://gitlab.com/oregand) | Development |
-| 2/28/2022 | [@dmishunov](https://gitlab.com/dmishunov) | Development |
-| 3/28/2022 | [@rossfuhrman](https://gitlab.com/rossfuhrman) | Development |
-| 4/25/2022 | [@sam.figueroa](https://gitlab.com/sam.figueroa )| Development |
-| 7/18/2022 | [@bradleylee](https://gitlab.com/bradleylee) | Customer Success |
-| 9/12/2022 | [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
-| 10/31/2022| [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
-| 11/7/2022 | Available | |
-| 11/14/2022 | [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
-| 11/21/2022 | Shadowing not available this week | N/A |
-| 11/28/2022 | Shadowing not available this week | N/A |
-| 12/5/2022 | [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) | 
 | 12/12/2022 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | 12/19/2022 | Shadowing not available this week | N/A |
 | 12/26/2022 | Shadowing not available this week | N/A |
@@ -160,4 +160,8 @@ A given week should be considered open for shadowing unless it is listed below.
 | 1/9/2023 | Available | |
 | 1/16/2023 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
 | 1/30/2023 | Available | |
+| 2/6/2023 | Available | |
+| 2/13/2023 | Available | |
+| 2/20/2023 | Available | |
+| 2/27/2023 | Available | |
 
