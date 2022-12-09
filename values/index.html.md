@@ -92,7 +92,7 @@ Negative feedback can be given in a group setting if it's to someone higher in t
 ##### Provide feedback in a timely manner
 {:.no_toc}
 We want to solve problems while they are **small**.
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please voice your concerns rather than keeping them to yourself. If you need to escalate beyond your manager, you could consider speaking to your [skip-level](/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), a more senior person, or a [people business partner](/job-families/people-ops/people-business-partner/).
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please voice your concerns rather than keeping them to yourself. If you need to escalate beyond your manager, you could consider speaking to your [skip-level](/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), a more senior person, or a [people business partner](/job-families/people-group/people-business-partner/).
 
 ##### Say thanks
 {:.no_toc}
