@@ -47,7 +47,7 @@ For now, this role is called a [CEO shadow](https://feld.com/archives/2015/03/ce
 
 Other names considered:
 
-1. Technical assistant: This title could be mixed up with the [executive assistant](/job-families/people-ops/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
+1. Technical assistant: This title could be mixed up with the [executive assistant](/job-families/people-group/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
 1. Chief of Staff to the CEO: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
 1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
 

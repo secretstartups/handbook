@@ -16,7 +16,7 @@ description: "This page details processes specific to Sid, CEO of GitLab."
 This page details processes specific to Sid, CEO of GitLab.
 The page is intended to be helpful, feel free to deviate from it and update this page if you think it makes sense.
 If there are things that might seem pretentious or overbearing please raise them so we can remove or adapt them.
-Many items on this page are a guidelines for our [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) (EBAs).
+Many items on this page are a guidelines for our [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) (EBAs).
 
 ### CEO Bio
 

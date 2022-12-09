@@ -57,7 +57,7 @@ The CoS to the CEO and their team may work on projects that fit *any combination
 
 This is not an exhaustive list of the types of work the CoST to the CEO might do.
 
-The CoST to the CEO works closely with the [CEO](/job-families/chief-executive-officer/), the [E-Group](/company/team/structure/#e-group), the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
+The CoST to the CEO works closely with the [CEO](/job-families/chief-executive-officer/), the [E-Group](/company/team/structure/#e-group), the [EBA to the CEO](/job-families/people-group/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
 
 #### Many Functional
 
