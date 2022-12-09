@@ -51,13 +51,22 @@ The table below can be used as a general guide for assigning priority:
 
 | Priority | Impact/Urgency | Action |
 | -------- | ---------- | --------- |
-| `~Reliability::P1` | Impact: High <br> Urgency: High | -A resource is assigned as soon as possible.  <br> Issue is handed off between regions until it is resolved or mitigated to the point that priority can be lowered. |
-| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another resource. |
+| `~Reliability::P1` | Impact: High <br> Urgency: High | -An engineer is assigned as soon as possible.  <br> -Issue is handed off between regions until it is resolved or mitigated to the point that priority can be lowered.  <br> -Issues should be labeled as `~Reliability::P1` only when **immediate** action is required |
+| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another engineer. |
 | `~Reliability::P3` | Impact: High <br> Urgency: Low <br> **or** <br> Impact: Low Urgency: High <br> **or** <br> Impact: Medium Urgency: Medium | -Issue is prioritized above P4s only <br> -If an engineer is changing roles before they are able to resolve the issue, the issue should be dropped back into the tracker with a summary of what has been done so far and what the next steps are.|
-| `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Resources are not assigned until all higher priority work has been completed|
+| `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Engineers are not assigned until all higher priority work has been completed|
 | `~Reliability::P5` | Impact: Low <br> Urgency: Low | -If an issue is determined to be a P5, there is a question on if the issue should be done at all.  If it turns out something was missed it can be moved to a higher priority.  Otherwise it should be closed with an explanatory note. |
 
-Except for corrective actions and security issues, reliability does not use `~"priority"` or `~"severity"` labels, if these labels are added they will be removed.
+**Note:** Issue priority levels generally align with the [severity levels](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#severities) defined within the Incident Management process.
+### Service Level Agreements
+The Reliability team uses the following response time SLAs for  `~Reliability::P1` and  `~Reliability::P2 issues`:
+
+| Priority | Response Time | Coverage | How to engage|
+| -------- | ---------- | --------- | --------- |
+| `~Reliability::P1` | 30 minutes | 24x7 | This priority level is reserved for issues requiring immediate attention.  To create a `~Reliability::P1` issue, first [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to page the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) |
+| `~Reliability::P2` | 3 days | 24x5 | Create an issue in the Reliability Issue Tracker and use label `~Reliability::P2` |
+
+**Note**: Except for corrective actions and security issues, reliability does not use `~"priority"` or `~"severity"` labels, if these labels are added they will be removed.
 {: .alert .alert-info}
 
 ## Classifying work
