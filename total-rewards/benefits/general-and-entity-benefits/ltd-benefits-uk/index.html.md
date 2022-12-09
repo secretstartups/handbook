@@ -219,7 +219,7 @@ If you decide to opt out of the scheme you can do this within one month of the e
 You can find all the information on the pension scheme including FAQS, understanding your pension, Investment Choices and Tools and Calculators at:
 
 Scottish Widows:
-- [www.scottishwidows.co.uk/gppae](www.scottishwidows.co.uk/gppae)
+- [www.scottishwidows.co.uk/gppae](https://www.scottishwidows.co.uk/gppae)
 - (t)0345 755 6557
 
 You can also reach out to Willis Tower Watson to explain the details of the GitLab GPPP and answer any questions you may have.
