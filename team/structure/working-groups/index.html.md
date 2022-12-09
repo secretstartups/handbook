@@ -156,7 +156,6 @@ If you are interested in participating in an active working group, it is general
 1. [Multi-Large](/company/team/structure/working-groups/multi-large/)
 1. [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
 1. [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
-1. [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
 
@@ -200,6 +199,7 @@ If you are interested in participating in an active working group, it is general
 1. [Product Development Flow](/company/team/structure/working-groups/product-development-flow/)
 1. [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
 1. [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
+1. [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
 1. [Real-Time](/company/team/structure/working-groups/real-time/)
 1. [Secure Offline Environment Working Group](/company/team/structure/working-groups/secure-offline-environment/)
 1. [Self-Managed Scalability](/company/team/structure/working-groups/self-managed-scalability/)
