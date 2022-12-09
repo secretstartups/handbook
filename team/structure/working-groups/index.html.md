@@ -89,6 +89,7 @@ For example, if you know that this Working Group will eventually involve custome
 The DRI should establish how the Working Group will work, including:
 
 1. Frequency of meetings
+1. Inclusivity of team members across the globe
 1. Frequency of status updates for use in status tracker
 1. Designating DRI for overall project management, including scheduling meetings and tracking project status
 1. Create a Slack channel for collaboration. The Slack channel name should start with the `#wg_` prefix.
@@ -186,6 +187,8 @@ If something isn't on our [Not Public list](/handbook/communication/confidential
 ## Participating in a Working Group
 
 If you are interested in participating in an active working group, it is generally recommended that you first communicate with your manager and the facilitator and/or lead of the working group. After that, you can add yourself to the working group member list by creating a MR against the specific working group handbook page.
+
+If you are unable to attend the existing working group meeting due to time differences, you may approach the facilitator to arrange an alternative meeting.
 
 ## Active Working Groups (alphabetic order)
 
