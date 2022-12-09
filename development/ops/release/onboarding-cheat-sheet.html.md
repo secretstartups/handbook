@@ -37,7 +37,7 @@ As always feel free to suggest changes, additions or any updates to outdated inf
 	- [Staging Ref](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/#how-to-use-staging-ref) is a staging install without any customer data, meaning you can have admin access.
 	- [Teleport](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Rails_Console_via_Teleport.md#how-to-use-teleport-to-connect-to-rails-console) is very easy to access a staging read-only rails console for exploration and testing with the prod database. You have to request access and that access times out after 24 hours, but request approval is fairly quick
 - Production
-	- You can test on production with your GitLab account area (gitlab.com/YOURUSERNAME), create free repos and groups to test any changes
+	- You can test on production with your GitLab account area (https://gitlab.com/YOURUSERNAME), create free repos and groups to test any changes
 	- Feature flags are also useful here to conditionally enable changes just for your user to test (or your group, etc.). Use the [`/chatops` command](https://about.gitlab.com/handbook/support/workflows/chatops.html#feature-flags) in slack
         - To test Ultimate features, [apply for a Gitlab ultimate license](https://about.gitlab.com/handbook/incentives/#gitlab-ultimate) for your account
 
