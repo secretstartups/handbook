@@ -37,7 +37,7 @@ To make the most out of the event, we strongly encourage you to record your inte
 
 ### How do I join?
 
-The next Interview Carousel is planned for **October 2022**. If you are interested in joining, fill out the [interest form](https://forms.gle/4s6SSobTcj1KJA5x8).
+The next Interview Carousel is happening in **January 2023**. If you are interested in joining, fill out the [interest form](https://forms.gle/4s6SSobTcj1KJA5x8).
 
 ### Why should I join?
 
