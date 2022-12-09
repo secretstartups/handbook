@@ -45,7 +45,7 @@ Anyone can create or edit a job family, in general it is the responsibility of t
 
 ## Templates for New Job Family
 
-There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levels (i.e. junior, intermediate, senior, manager, director) or specialties; [for example](/job-families/engineering/backend-engineer/). There can be many levels for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/).
+There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levels (i.e. junior, intermediate, senior, manager, director) or specialties; [for example](/job-families/engineering/backend-engineer/). There can be many levels for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-group/total-rewards/).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/8cUTvSwUqVc" frameborder="0" allowfullscreen="true"> </iframe>
@@ -145,7 +145,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 * Specialities may be relevant for some but not all levels. Clarify which specialties each level pertains to. If there are no specialties remove the section.
 * [Segment](/handbook/sales/field-operations/gtm-resources/): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
 * If performance indicators are the same for all the levels on the job family do not list them under the levels section, rather list them at the end of the entire job family. Remove either the performance indicator section in the level section or at the end of the template.
-* Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-connect/#career-ladder). Some teams added a Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
+* Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-group/people-connect/#career-ladder). Some teams added a Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
 * The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
 
 ### Job Family Template 2
@@ -247,7 +247,7 @@ Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB
 
 ## Creating an Overview page
 
-In cases where a job family is quite large you may decide to create an overview page of the job family. This helps when we are actively sourcing for external candidates on a role. [Here](/job-families/people-ops/recruiting-operations-insights/overview/) is an example of a job family overview page.
+In cases where a job family is quite large you may decide to create an overview page of the job family. This helps when we are actively sourcing for external candidates on a role. [Here](/job-families/people-group/recruiting-operations-insights/overview/) is an example of a job family overview page.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/eECNGB-JkZE" frameborder="0" allowfullscreen="true"> </iframe>
