@@ -14,6 +14,8 @@ description: "Resources and direction for career development and mobility for al
 
 Career development is the non-linear, lifelong growth process integrating learning, work, leisure, and change. It happens in all directions, including subject matter and skill expertise, lateral growth to new and adjacent teams, and linear growth through a job family. Utilize the recources on this page to help you navigate your career development journey at GitLab.
 
+![infographic with examples of career growth at gitlab](non-linear.png){: .shadow.medium.center}
+
 ### Self authorship and your career development
 
 A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) gets to the 'why' of career development. Embrace your own self-authorship while using the following tools to fit your goals. In the session, Lavinia spoke about:
@@ -73,6 +75,7 @@ Navigate to various career development resources located throughout the GitLab h
 1. 70% of your development should come from on-the-job and action learning.  This can include development experiences like managing a project, serving on a cross-functional team, taking on a new task, job shadowing, job rotation, etc.
 1. 20% of your development should come from interactions with others.  This includes having a mentor, being a mentor, coaching, participating in communities of practice, providing and receiving feedback, serving as a leader in your organization, etc.
 1. 10% of your development should come from training, including classes, seminars, webinars, podcasts, reading, conferences, etc. GitLab offers a [growth and development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to help with this.
+
 
 ## Career Development versus Career Mobility
 
@@ -158,13 +161,24 @@ Epics are a great way to [transparently](/handbook/values/#transparency) and [ef
 1. Mark issues as related to your epic. Use a thread in the epic to link issues from different projects.
 1. Refer to [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43) and [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47) for inspiration
 
-## Having Career Development Conversations
+## Having Career Conversations
+
+CREDIT and Career Conversations
+
+| Value | Career Conversation Application |
+| —-- | —------------ | 
+| Collaboration | Growth is led by individuals and supported by managers.  |
+| Results | Growth increases engagement with work which drives greater results. |
+| Efficiency | Growth happens in the flow of work. |
+| Diversity, Inclusion, and Belonging | Our experiences influence career motivations and the support we need. |
+| Iteration| Motivation changes and promotes growth that is meaningful, interesting, and relevant. |
+| Transparency | Trust enables vulnerability and support in reaching true career goals. |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpgqa4SHbVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.be/3pZoNORrDjU)_
 
-### Having Career Development Conversations with your Manager
+### Having Career Conversations with your Manager
 
 The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline).
 
@@ -173,6 +187,27 @@ The video below is a recording of the Live Learning that took place in August 20
 </figure>
 
 ### Having Career Development Conversations with your Team
+
+#### Manager responsibilities
+
+| During career conversations, managers: | Description |
+| ----- | ---------- |
+| Listen | Understand career goals and unique challenges your team faces. |
+| Are aware of bias | Recognize the power dynamic and unconscious bias that could be present. |
+| Ask questions | Challenge and encourage your team to think critically about their career motivations and learning goals. |
+| Surface resources | Share what you know, including internal and external resources, network connections, and suggested actions. |
+| Suggest iterations | Encourage reassessment of goals and adjustments as needed. |
+| Set expectations | Decide together the date of your next career conversations and the outcomes to achieve by that date. |
+
+#### Resources
+
+Use the following templates to plan and prepare for career conversations with your team:
+
+1. [Career Conversation Agenda Template](https://docs.google.com/document/d/1ugfwvhOcX6xPuxsn_oqZi7HV8364nQ5VnGO42IDlZkU/edit)
+1. [Checklist for career conversation prep - Google Docs](https://docs.google.com/document/d/1zIEmXUuW6tsSH-hgAEx_yhmRow6HEPbXm_3YfJUg2_8/edit)
+1. [Checklist for career conversation prep - GitLab Issue](https://docs.google.com/document/d/11VYcT7vABhrEELNoguQ0XDQ3s1cZ0PNs6KzZw5K3LD0/edit)
+
+#### Practice
 
 What do managers ask about when it comes to having career conversations with their teams? Watch the short question and answer videos below to learn more. Watch the full training from 2021-08 [here](https://www.youtube.com/embed/f1T2KKlrZCY).
 
