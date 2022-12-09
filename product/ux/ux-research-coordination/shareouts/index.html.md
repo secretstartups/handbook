@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Getting the word out about research insights"
-description: "Getting the word out about research insights
+description: "Getting the word out about research insights"
 ---
 
 ## On this page
@@ -77,12 +77,13 @@ Next step 2
 **Examples**
 
 Below are three different examples of completed Research Report Share-Out in Slack following the above template.
-
-![sharesettings](/handbook/product/ux/ux-research-coordination/shareouts/example1.png)
-![sharesettings](/handbook/product/ux/ux-research-coordination/shareouts/example2.png)
-![sharesettings](/handbook/product/ux/ux-research-coordination/shareouts/example3.png)
+<img src="/handbook/product/ux/ux-research-coordination/shareouts/example1.png" width="75%" height="75%">
 
 
+<img src="/handbook/product/ux/ux-research-coordination/shareouts/example2.png" width="75%" height="75%">
+
+
+<img src="/handbook/product/ux/ux-research-coordination/shareouts/example3.png" width="75%" height="75%">
 
 #### Monthly share out 
 

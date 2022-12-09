@@ -111,7 +111,7 @@ Below is a full list of our UX Research team handbook content:
 
 - [UXR Operations Coordination at GitLab](/handbook/product/ux/ux-research-coordination/)
 - [Recruitment methods](/handbook/product/ux/ux-research-coordination/recruitment-methods)
-- [RResearch participantion gratuities](/handbook/product/ux/ux-research-coordination/incentives)
+- [Research participation gratuities](/handbook/product/ux/ux-research-coordination/incentives)
 - [Getting the word out about research insights](/handbook/product/ux/ux-research-coordination/shareouts)
 - [ReOps procurement best practices](/handbook/product/ux/ux-research-coordination/reops-procurement)
 - [First Look UX Research panel](/handbook/product/ux/ux-research-coordination/first-look-ux-research-panel/)

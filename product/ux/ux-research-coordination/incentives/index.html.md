@@ -78,7 +78,7 @@ Contact `success@tangocard.com` with questions or to expand the options availabl
 
 [Rybbon](https://www.rybbon.net) is another incentive distributor that we use, particularly when the country a participant is based in is unavailable on Tango Card/Rewards Genius. 
 
-Rybbon uses an API feature to present rewards that are relevant for each participant based on their location. As such, we only provide the USD reward value on the platform and Rybbon handles the conversion automatically. Each researcher has their own folder with a campaign set up to send incentives. This is so that the email communication that our participants recieve is more personable. There's also a general folder for the UX Research Operations Coordinator for incentive requests from the wider team. Specific campaigns can also be set up for longer projects, as well as an integration with Qualtrics if required.
+Rybbon uses an API feature to present rewards that are relevant for each participant based on their location. As such, we only provide the USD reward value on the platform and Rybbon handles the conversion automatically. Each researcher has their own folder with a campaign set up to send incentives. This is so that the email communication that our participants receive is more personable. There's also a general folder for the UX Research Operations Coordinator for incentive requests from the wider team. Specific campaigns can also be set up for longer projects, as well as an integration with Qualtrics if required.
 
 Unsupported Countries in Rybbon: No rewards are available in the following countries. 
 Belarus, Congo, Cuba, Iran, Iraq, Korea North, Lebanon, Libya, Somalia, South Sudan, Sudan, Syria, Ukraine, Yemen, Zimbabwe.
@@ -88,11 +88,11 @@ Check out Rybbon's [FAQ page](https://www.rybbon.net/faqs/) or #uxr_reops_lounge
 
 [Tremendous](https://www.tremendous.com/) is the main incentive distributor that we use. 
 
-Tremendous allows us to send grauitities globally and participants can easily select gift cards in their currency and preference. Messaging to send rewards is done with our custom GitLab branding. 
+Tremendous allows us to send gratuities globally and participants can easily select gift cards in their currency and preference. Messaging to send rewards is done with our custom GitLab branding. 
 
 Unsupported Countries in Rybbon: No rewards are available in the following countries. Cuba, Iran, Myanmar, North Korea, Russia, Syria, Venezuela, and Ukraine.
 
-Check out Tremenouds' [FAQ page](https://help.tremendous.com/en/articles/prepaid-card-faq) or #uxr_reops_lounge in Slack.
+Check out Tremendous' [FAQ page](https://help.tremendous.com/en/articles/prepaid-card-faq) or #uxr_reops_lounge in Slack.
 
 ### Incentives budget tracking and funding
 
@@ -104,7 +104,7 @@ The accounting team funds Tremendous, Rybbon, and Respondent accounts with a lum
 1. Log in to Tremendous 
 2. Under balance select "Add funds"
 3. Select "Create a new invoice" and follow the prompts
-4. Open a [requistion through our procurement process](https://about.gitlab.com/handbook/finance/procurement/#step-3-create-coupa-requisition)
+4. Open a [requisition through our procurement process](https://about.gitlab.com/handbook/finance/procurement/#step-3-create-coupa-requisition)
 
 #### Respondent
 
