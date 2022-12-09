@@ -89,42 +89,52 @@ Anything that takes longer than a day of work should be captured in an epic/mult
 
 Labels to use when creating new issues or MRs for CS Ops:
 
-**Team Labels**
+**Team Specific or System Labels**
 - **CSOps** - Use to track and manage all CS Operations-related issues and MRs.
 - **CS Programs** - For the Digital Programs team to track and manage content requests, improvements, and other means of digital customer marketing.
-- **CS product usage data** - Issues related to Customer Success product usage data.
-- **RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience.
+- **CS Product Usage Reporting** - Issues related to Customer Success product usage data.
+- **CS RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience.
 - **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
+- **Gainsight**- Label to designate the issue is related to Gainsight. 
+- **Gainsight: Bug**- This label is used to track bugs exclusive to Gainsight.
+- **Gainsight: Feature Request** - This label is used to track feature requests for our installation of Gainsight (not for Gainsight the product).
 
 **Scoped Labels** - used for tracking SDLC progress
 - **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
 - **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
+- **CSOps::Awaiting Feedback  - Used for peer review and when analysis is needed before closing the issue.
 - **CSOps::In_Process** - Actively being worked on in the current week or milestone.
 - **CSOps::Blocked** - Currently blocked by an internal or external prerequisite.
-- **CSOps::Ready_to_Deploy** - The issue is ready for deployment.
-- **CSOps::Completed** - The CS Ops team has completed their work.
-- **CSOps::Transferred** - Transferred to another team for review and/or completion.
 - **CSOps::Backlog** - Not currently being evaluated or worked on.
-- **CSOps::bug** - A bug issue to be addressed by CS Ops.
+- **CSOps - Interrupt** - Issue that was submitted after the current milestone started and prioritized ahead of the original milestone scope.
+- **CSOps::Triage**- Issue that is in the traige stage.
+- **CSOps::Won’t Do** - Indicates that the issue is not going to be worked/completed, although scoping of solution might have already been concluded.
 
-**Team Requestor Labels** - for tracking where the request(s) came from
-- **CSOps - CSM** - Request originating from, or to benefit the CSM team.
+**Segment and Team Support Labels** - for tracking where the request(s) came from
+- **CSOps - CSM- Ops** - Request opened by the CS Ops team that benefits the CSM team.
+- **CSOps - CSM** - Request originating from the CSM team.
 - **CSOps - PS** - Request originating from, or to benefit the PS team.
 - **CSOps - SA** - Request originating from, or to benefit the SA team.
 - **CSOps - Ops** - Request to benefit the CSOps team.
+- **CSOps - PubSec** - Requests that are specific to the Pub Sec CSM Team.
+- **CSOps - Strategic** - Requests that are specific to the Strategic CSM Team. 
+- **CSOps - Scale** - Requests the are for the Scale Segment. 
+- **CSOps - All Segments** - Request that cover all CS Segments. 
+- **CSOps - Growth** -  Requests that are specific to the Growth CSM Team. 
+- **CSOpsSlack-Questions - Indicates that the request/issue came in via Slack (#gainsight-users Slack channel being the largest contributor to it)CSOPs-FY24Priority - This is for initiative/issues tied to FY24 Initiatives.
 
 ## Peer Review
 The peer review process (currently for issues related to Gainsight) allows CS Ops team members to have another member of the team review their work.
 
 The issue owner is responsible for making sure the issue is completed in timely manner, including communicating to the peer reviewer when the issue needs to be completed. The peer reviewer is responsible for completing the review in the timeframe given by the issue owner.
 
-- Issues **MUST** be peer reviewed if it is a change, addition, or removal in a rule or data object (e.g. creating a new rule or connector job, removing fields from an object, combining multiple rules into one)
+- Issues **MUST** be peer reviewed by the Gainsight Admin if it is a change, addition, or removal in a rule or data object (e.g. creating a new rule or connector job, removing fields from an object, combining multiple rules into one)
 - For changes to reports or dashboards, strongly consider a peer review.
 
 Feel free to ask for a peer review for other any updates if you feel it would be helpful to have a second opinion.
 
 To start the peer review process:
 1. Provide a Summary of the work you have completed in the **Resolution** section on the GitLab issue
-2. Change the issue status to `CS Ops::Ready to Deploy`
-3. Tag your manager and comment on the issue that it is ready for peer review
-4. Manager will assign the peer reviewer to the issue. The issue owner will remain an assignee as they are ultimately responsible for the issue completion.
+2. Change the issue status to `CS Ops::Awaiting Feedback`
+3. Tag the teammate completing the peer review and comment on the issue that it is ready for peer review
+4. The issue owner will remain an assignee as they are ultimately responsible for the issue completion.
