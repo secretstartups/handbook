@@ -14,7 +14,7 @@ description: "Information about GitLab's People Group Engineering team and its p
 ## Overview
 
 As GitLab continues to scale, our need for tools and automation to manage our growth expands
-along with it. To help the People Group, we have a People Group Engineering team, that consists out of [People Group Fullstack Engineers](https://about.gitlab.com/job-families/people-ops/people-ops-fullstack-engineer/) to make our team more efficient and improve the effectiveness of our
+along with it. To help the People Group, we have a People Group Engineering team, that consists out of [People Group Fullstack Engineers](https://about.gitlab.com/job-families/people-group/people-ops-fullstack-engineer/) to make our team more efficient and improve the effectiveness of our
 core [People Group](/handbook/people-group/).
 
 Responsibilities include (but are not limited to):
