@@ -5,7 +5,7 @@ title: Chief of Staff to the CRO
 
 This is a key leadership position on the Chief Revenue Officer’s team. This highly visible role is a trusted partner to the Chief Revenue Officer (CRO) to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CRO as a strategic advisor and executing cross-functional and cross-organization initiatives and activities supporting the CRO's strategy and vision in alignment with our company values.  
 
-This role does not overlap with responsibilities [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) already handle. This role could have EBA support, will work closly with the EBA to the CRO, and may directly manage an EBA, although will not have a dedicated EBA themselves.
+This role does not overlap with responsibilities [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) already handle. This role could have EBA support, will work closly with the EBA to the CRO, and may directly manage an EBA, although will not have a dedicated EBA themselves.
 
 
 ## Responsibilities

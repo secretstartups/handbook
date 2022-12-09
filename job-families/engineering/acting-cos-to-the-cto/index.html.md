@@ -41,7 +41,7 @@ This role will help enable communication, collaboration, strategy execution, and
 
 - Improve the quality of Engineering Handbook content.
 - Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO.
-- Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management, and administration. 
+- Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management, and administration. 
 - Assist with finding the next Acting Chief of Staff to CTO, including promoting the role.
 - Provide feedback on the rotation process.
 
@@ -71,4 +71,4 @@ This role will help enable communication, collaboration, strategy execution, and
 
 ### Stakeholders and peers
 
-In this rotation, you will get exposure to high-level Leadership in Engineering, such as the CTO and CTO Staff. Additionally, you will work with the [CTO Executive Business Administrator (EBA)](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#executive-business-administrator-intermediate) on logistics, time management, meeting note-taking, and time keeping and agenda management. Other stakeholders in this rotation are the [People Business Partners](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division), who are a strategic partner aligned to specific areas of the business to advise on People-related initiatives, challenges, and goals.
+In this rotation, you will get exposure to high-level Leadership in Engineering, such as the CTO and CTO Staff. Additionally, you will work with the [CTO Executive Business Administrator (EBA)](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate) on logistics, time management, meeting note-taking, and time keeping and agenda management. Other stakeholders in this rotation are the [People Business Partners](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division), who are a strategic partner aligned to specific areas of the business to advise on People-related initiatives, challenges, and goals.
