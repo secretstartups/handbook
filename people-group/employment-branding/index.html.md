@@ -17,6 +17,9 @@ As a global, all-remote company, GitLab has a unique story to tell.
 A key part of telling that story is sharing what it's like to work here, because we wouldn't be successful without our people and our culture.
 This page outlines our approach to talent brand at GitLab.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/778157354?h=6d69349f23&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Life at GitLab"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 ## Defining our talent brand vision
 
 If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
