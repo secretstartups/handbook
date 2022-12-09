@@ -14,7 +14,7 @@ If the business can view the activity history of an opportunity, we can start to
 
 Every opportunity in SFDC must have a contact attached [Displayed as Contact Role on the Opp]
 
-![contact-role-screenshot](source/images/handbook/sales/contactrole.png)
+![contact-role-screenshot](/images/handbook/sales/contactrole.png)
 
 - FO Opps - This is done automatically when an SDR converts the originating lead, into an opportunity. 
 
@@ -22,7 +22,7 @@ Every opportunity in SFDC must have a contact attached [Displayed as Contact Rol
 
 Once the contact has been added to the opp in SFDC, it must also be added to the opp in Outreach.  This is because automatic opp association has been turned off in Outreach. Search for the opp in Outreach, then add the contact in the Prospects tab. 
 
-![outreach-screenshot](source/images/handbook/sales/outreach.png)
+![outreach-screenshot](/images/handbook/sales/outreach.png)
 
 FO AE’s should log calls using one of the below subject lines only;
 - Initial Call (ii)
