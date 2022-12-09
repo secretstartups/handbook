@@ -49,7 +49,7 @@ Once completed, the contact owner receives an email as per the below.  As per th
 
 Email Example
 
-![contact-us-screenshot](/source/images/sales/contactus.png)
+![contact-us-screenshot](source/images/handbook/sales/contactus.png)
 
 [Case Example](https://gitlab.my.salesforce.com/5008X00002CytL1)
 
@@ -62,7 +62,7 @@ They are also fed to the cs_programs_survey_results Slack channel.
 
 Email Example
 
-![nps-screenshot](/source/images/sales/nps_csat.png)
+![nps-screenshot](source/images/handbook/sales/nps_csat.png)
 
 [Case Example](https://gitlab.my.salesforce.com/5008X00002CyMk8)
 
@@ -72,7 +72,7 @@ These responses are received when a customer ‘hand raises’ from within GitLa
 
 Email Example
 
-![pql-screenshot](/source/images/sales/pql.png)
+![pql-screenshot](source/images/handbook/sales/pql.png)
 
 [Case Example](https://gitlab.my.salesforce.com/5008X00002CxP8A)
 
@@ -84,7 +84,7 @@ Similar to a NPS/ CSAT survey, these responses are received when a customer comp
 
 Slack alert Example
 
-![churn-screenshot](/source/images/sales/churn.png)
+![churn-screenshot](source/images/handbook/sales/churn.png)
 
 [Case Example](https://gitlab.my.salesforce.com/5008X00002FO7rY)
 
@@ -94,7 +94,7 @@ These alerts are created when a contact consumes GitLab content. This engagement
 
 Email Example
 
-![fma-screenshot](/source/images/sales/fma.png)
+![fma-screenshot](source/images/handbook/sales/fma.png)
 
 [Case Example](https://gitlab.my.salesforce.com/5008X00002FOllP)
 

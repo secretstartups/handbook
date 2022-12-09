@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Pooled Model"
-description: "Overview of the SMB AMER Pooled Model"
+title: "Handover Scenarios & Process"
+description: "Overview of the SMB AMER Handover Scenarios and Process"
 ---
 
 
