@@ -64,6 +64,10 @@ Legal Operations supports Legal & Corporate Affairs processes with a focus on de
 
 The Privacy, Product and Trade Compliance Team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
 
+#### Risk Management and Dispute Resolution
+
+The Risk Management and Dispute Resolution team addresses dispute resolution across a wide range of topics, including active claims and disputes, external and internal investigations, subpoenas, and third-party discovery requests.  The team also coordinates and collaborates with all GitLab teams, including Internal Audit, Finance, People, and Sales to manage and mitigate company risk.
+
 ## GitLab Policies
 
 * [Anti-Corruption Policy](https://about.gitlab.com/handbook/legal/anti-corruption-policy/)
