@@ -156,7 +156,7 @@ A given week should be considered open for shadowing unless it is listed below.
 | 12/12/2022 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | 12/19/2022 | Shadowing not available this week | N/A |
 | 12/26/2022 | Shadowing not available this week | N/A |
-| 1/2/2023 | Available | |
+| 1/2/2023 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
 | 1/9/2023 | Available | |
 | 1/16/2023 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
 | 1/30/2023 | Available | |
