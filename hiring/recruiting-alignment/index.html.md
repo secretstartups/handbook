@@ -32,7 +32,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell   | | Alice Crosbie |
 | UX  | Rupert Douglas  | | Guido Rolli |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Alice Crosbie |
-| Security | Nicky Kunstman | | Teranay Dixon |
+| Security | Nicky Kunstman & Sumi Anand | | Teranay Dixon |
 | Incubation | Matt Angell  | | Alice Crosbie |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
 | Product Management  | Matt Allen | Susan Hill and Chris Cruz | Mathea Gervolino |
