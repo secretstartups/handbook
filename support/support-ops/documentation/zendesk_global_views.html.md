@@ -67,8 +67,8 @@ For more information on managing Zendesk via the various GitLab projects, please
 | [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 18 | Support Focus: CMOC |
 | [Secure](https://gitlab.zendesk.com/agent/admin/views/360075979580) | 20 | Support Focus: Secure |
 | [Authentication/Authorization](https://gitlab.zendesk.com/agent/admin/views/360075979720) | 23 | Support Focus: Authentication and Authorization |
-| [All FRT and Emergencies](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 26 | Support Managers |
-| [All NRT](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 27 | Support Managers |
+| [All FRT and Emergencies](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 26 | Support AMER<br>Support APAC<br>Support EMEA |
+| [All NRT](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 27 | Support AMER<br>Support APAC<br>Support EMEA |
 | [Escalated/feedback tickets](https://gitlab.zendesk.com/agent/admin/views/360076456719) | 28 | Support Managers |
 | [China Comms](https://gitlab.zendesk.com/agent/admin/views/360073361819) | 29 | China Comms Group |
 | [Professional Services - Triage](https://gitlab.zendesk.com/agent/admin/views/360069758560) | 30 | Professional Services Group |
