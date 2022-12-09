@@ -68,13 +68,13 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 1. In your Marketo program, fill in the appropriate Marketo tokens (Marketo program > `My Tokens`) for the template you are creating
 1. In the `Assets` folder, left-click `Landing Page` > `Edit Draft`
 1. In most cases, the Maketo landing page copy will include the `My Tokens` referenced above, with then does not require any edits to the landing page.
-1. Use the approved copy that meets the character limits to update the landing page. Please ensure your copy meets [conversion best practices](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-conversion-best-practices).
+1. Use the approved copy that meets the character limits to update the landing page. Please ensure your copy meets [conversion best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices).
 1. When the landing page is finished, click `Preview` to ensure all tokens are correctly applied and the page appears as intended (copy, design, etc). Click `Preview Actions` > `Approve and Close`.
   * Note: if you see tokens instead of the desired text, you may need to troubleshoot. Make sure your token code in the page exactly matches the Marketo program token name.
-1. Update URL by clicking `Landing Page Actions` > `URL Tools` > `Edit URL setting`. The new URL should reflect our [landing page naming convention](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-naming-convention)
+1. Update URL by clicking `Landing Page Actions` > `URL Tools` > `Edit URL setting`. The new URL should reflect our [landing page naming convention](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-naming-convention)
 1. Edit any related emails, such as `confirmation` or `sales alert` and approve the edits
 1. Review flow steps and activate related smart campaigns
-1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-qa-review-steps)
+1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
 1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review and approve
 1. When the page is live, do final QA on live version to test all flows are working appropriately via Mareto
 
@@ -96,7 +96,7 @@ Our integrated campaign landing pages are currently created on about.gitlab.
 
 ### Steps to create a new campaign landing page
 
-1. Determine the ideal URL name according to [URL best practices](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-url-best-practices) and confirm with Growth Marketing
+1. Determine the ideal URL name according to [URL best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-url-best-practices) and confirm with Growth Marketing
 1. Create a new directory in the appropriate directory as designated above, beginning a new MR
   * Name the MR `WIP: Add landing page for [Campaign Name]`
   * Assign to yourself
@@ -107,7 +107,7 @@ Our integrated campaign landing pages are currently created on about.gitlab.
 1. Add the code for the landing page (below)
 1. Update the text variables based on the approved copy for the landing page
 1. Update your commit message to `Add code for new landing page` and click `Commit changes` at the bottom of the page
-1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-qa-review-steps)
+1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
 1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review
 1. When your MR is fully ready to be merged:
   * Make sure your manager is assigned (and has merge rights)
@@ -271,6 +271,6 @@ success_message: "You will also receive a copy of the eBook in your inbox shortl
     * For Marketo landing pages, open an incognito window and go to the URL of the page you are testing
     * For landing pages in an MR, when the pipeline approves, go to the review app and navigate to the page you are testing
 * Check for spelling and grammatical errors (note: these should ideally be caught during copy review prior to landing page creation)
-* Check that [conversion best practices](https://about.gitlab.com/handbook/marketing/landing-pages#landing-page-conversion-best-practices) are met
+* Check that [conversion best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices) are met
 * Fill out the form and ensure all flow steps in Marketo trigger appropriately (i.e. you receive confirmation email, interesting moment applied, program membership updated, alert sent if applicable, etc.) 
 * Confirm correct location is arrived at post-form submit (i.e. correct form success message or a resulting thank you page)
