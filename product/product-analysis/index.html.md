@@ -39,6 +39,7 @@ along with other functional analytics groups across the GitLab Data Program.
 * [Team Processes](/handbook/product/product-analysis/team-processes/)
 * [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
 * [Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
+* [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
 
 ## Working With Us
 
