@@ -87,6 +87,10 @@ Projects without the expected configurations can be found in the [inventory viol
 
 Learn more about the [GitLab AppSec Inventory](./inventory.html).
 
+## Reproducible Vulnerabilities
+
+Learn how to identify or remediate security issues using real examples with GitLab's [Reproducible Vulnerabilities][11].
+
 [1]: /handbook/security/security-engineering-and-research/application-security/appsec-reviews.html
 [3]: /handbook/security/security-engineering-and-research/application-security/vulnerability-management.html
 [4]: /handbook/security/security-engineering-and-research/application-security/stable-counterparts.html
@@ -96,3 +100,4 @@ Learn more about the [GitLab AppSec Inventory](./inventory.html).
 [8]: https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit
 [10]: /handbook/security/security-engineering-and-research/application-security/appsec-rcas.html
+[11]: /handbook/security/security-engineering-and-research/application-security/reproducible-vulnerabilities.html
