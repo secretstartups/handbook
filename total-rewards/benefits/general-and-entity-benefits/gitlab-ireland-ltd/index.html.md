@@ -228,6 +228,10 @@ To initiate your leave, submit your time off by selecting the `Parental Leave` c
 **Jury Service**
  
 * Team members are entitled to paid time off to attend jury selection/jury duty. This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
+## Company stamp
+
+Please see 'Company Stamp Ireland' in the People Connect 1password folder for contact details to request a company stamp on any forms or letters.
  
 </details>
 
