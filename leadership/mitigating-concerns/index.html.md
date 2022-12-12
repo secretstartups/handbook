@@ -134,7 +134,7 @@ We should [identify and take action as early as possible](/handbook/leadership/u
 1. Keep our [promises](/company/stewardship/#promises)
 1. Keep listening
 1. Assign [Merge Request Coaches](/job-families/expert/merge-request-coach/)
-1. Have [contributing organizations](/community/contributing-orgs/)
+1. Have [Leading Organizations](/handbook/marketing/community-relations/leading-organizations)
 
 ## 6. Key people leave
 {:#key-people-leave}
