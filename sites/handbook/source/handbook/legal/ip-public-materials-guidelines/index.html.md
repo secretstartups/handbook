@@ -115,6 +115,12 @@ Just because something is available for free on the internet (including on Googl
 * Use the entirety, or a large portion, of an article, paper or blog post.
 * Use excerpts, quotes or headlines of print and online news articles without following Corporate Communications’ [Sharing Media Coverage guidelines](/handbook/marketing/corporate-marketing/corporate-communications/#sharing-media-coverage).
 
+### Industry Analyst Content Use
+
+* Any use of industry analyst content from firms such as Forrester Research, Gartner, and International Data Corporation (IDC) must be submitted for review and approval to Analyst Relations by filling out this [issue template](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-CitationReview).
+
+If you aren't sure if the author of the content you're quoting is an industry analyst, or if you have any other questions, contact [`@Ryan Ragozzine`](gitlab.com/rragozzine) or [`@Gaby Berkman`](gitlab.com/gberkman).
+
 ### Quotes
 
 ##### Do
