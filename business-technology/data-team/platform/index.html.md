@@ -359,17 +359,17 @@ To use our credit consumption effectively, we try to minimize the amount of ware
 | -------------------- | ----------------------------------------------------------------------------------------------- | ------------------- |
 | `admin`              | This is for permission bot and other admin tasks                                                | 10                  |
 | `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
-| `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 120               |
+| `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 180               |
 | `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs and testing new Meltano loaders                           | 60                  |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 5 minute timeout.            | 30*                 |
-| `transforming_xs`    | These are for production dbt jobs                                                               | 120                 |
-| `transforming_s`     | These are for production dbt jobs                                                               | 120                 |
+| `transforming_xs`    | These are for production dbt jobs                                                               | 180                 |
+| `transforming_s`     | These are for production dbt jobs                                                               | 180                 |
 | `transforming_l`     | These are for production dbt jobs                                                               | 240                 |
-| `transforming_xl`    | These are for production dbt jobs                                                               | 120                 |
-| `transforming_4xl`   | These are for production dbt jobs                                                               | 60                  |
+| `transforming_xl`    | These are for production dbt jobs                                                               | 180                 |
+| `transforming_4xl`   | This is for the Airflow dag: `dbt_full_refresh`                                                 | 120                 |
 | `usage_ping`         | This is used for the service_ping and service_ping_backfill load.                               | 120                 |
 
 If you're running into query time limits please check your query for optimisation. A bad performing query in development will result in a bad performing query in production, having impact on a daily basis. Please **always** use the right (size) warehouse. Ground rules of using/selecting a warehouse:
