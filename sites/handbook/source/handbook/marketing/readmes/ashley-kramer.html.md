@@ -77,10 +77,10 @@ Understand that when I say something, it is just me thinking out loud (collabora
 
 ### Reaching me
 
-- For most communications, Slack is best
-- If you want me to review something promptly, please let [Jeanette](https://about.gitlab.com/handbook/eba/) know and she will add a notification on my calendar so I remember to get to it that day/week
-- If looking to book time with me, please reach out to Jeanette via #eba-team. Learn [more](https://about.gitlab.com/handbook/eba/#contact-us).
-- For urgent matters, please text me
+- Please follow the [CMO handbook for review requests](/handbook/marketing/cmo/) of MRs, slides, docs, etc. This workflow includes content updates/news to read async.
+- For most other communications, Slack is best.
+- If looking to book time with me, please reach out to Jeanette via the [#eba-team Slack channel](https://gitlab.slack.com/archives/C61RXLLDR). Learn [more](https://about.gitlab.com/handbook/eba/#contact-us).
+- For urgent matters, please text me.
 
 ## My Strengths/Weaknesses
 
