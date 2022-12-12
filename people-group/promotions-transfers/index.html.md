@@ -689,6 +689,8 @@ This section describes the steps required for promoting or transferring employee
 3. The quotas are submitted to the Commissions team to then add to the Xactly system where all commissions are managed and monitored.  
 4. Issue new compensation plan to the **New** Sales Manager for approval and release to team member. 
 
+
+
 [^1]: During fiscal year planning Sales Strategy and Analytics work closely with Sales Management to assign values (full quota) to all the different Sales Territories. When a new sales employee joins, their ASM assigns them a territory (at which point there is a pre-determined value), and Sales Commissions applies a [ramp schedule](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#month-1-ramp-schedule) based on the employee's start date and role to arrive at their carried quota.
 
 ## Compliance
@@ -706,3 +708,15 @@ There are several situations at GitLab that could lead to team members changing 
 - [Transitioning 1-1s](/handbook/leadership/1-1/#transitioning-1-1s) is a very important part of manager transitions. This helps ensure the new manager is up to speed on important discussions, deliverables, etc. so this information does not get lost in the transition.
 - The [career mobility template](https://docs.google.com/document/d/1iRbmS518CDjmhZEjvkaibqR1g0angWE83sWvtlH-elE/edit#heading=h.5ahg1o4v53q7) helps to ensure accomplishments, strengths, development areas, etc. are all captured with evidence moving forward. This makes sure career development progress continues and is not lost with manager changes. 
 - Sharing your most recent 360 feedback review and most recent performance review with your new manager can also be a great way to align on your strengths and improvement areas and discuss how they can partner with you in developing both.
+
+
+## For Managers : Transitioning a Team Member to your team
+
+When a new team member moves to your team, in addition to the items above in "transitioning to a new manager", there are some additional things to consider for the new manager.
+
+- Do an initial `confidential handover` for any confidential topics between the previous and new manager (separate from the 1-1-1 with the previous manager, new manager, and team manager).
+- Do this `confidential handover` periodically (perhaps 2 weeks, 4 weeks and 6 weeks after transition).  This will allow not only initial questions and considerations to come up, but also new ones as they arise.
+- Include in this handover the information you need for talent assessment planning that was confidential and not discussed in the 1-1-1.
+- If your new direct report is potentially up for promotion in the next 6 months, be sure to transition the information that supports from the previous manager and be the DRI to drive this forward, including both information discussed in the 1-1-1 and any confidential information discussed in the `confidential handover`.
+
+## Footnotes
