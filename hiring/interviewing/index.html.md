@@ -59,6 +59,39 @@ There are situations in which multiple internal applicants apply for the same ro
 - Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ have any access to any role they apply for, or to be able to see those who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove all of the access manually. In some cases, it may be appropriate to schedule using the Candidate Experience Specialists' calendar, if the candidates' colleagues or they have access to the Interview Calendar in gCal. 
 - When scheduling internal interviews, as with all other interviews, please mark these as `private` on the calendar. Many team members at GitLab have their calendar event details set to be [internally viewable](https://about.gitlab.com/handbook/communication/#google-calendar). Setting up interviews as `private` is important to maintain confidentiality of applicants/candidates during the interview process.
 
+### Referrals
+
+As a way of ensuring a consistent and positive experience with both the referred candidate and team member, it's important that the talent acquisition team follows these steps:
+1. Team member makes the referral through [Greenhouse](https://gitlab.greenhouse.io/referrals/new) or a [GitLab Issue.](https://gitlab.com/gl-talent-acquisition/referrals/-/issues)
+2. Within 2 business days, the recruiter acknowledges and thanks the team member for the referral via Slack. The recruiter should also remind the team member that they can track the application status in Greenhouse by linking this [handbook page.](https://about.gitlab.com/handbook/hiring/referral-process/#referral-statuses)
+3. Recruiter to ensure that the referer is added to Greenhouse correctly. If not;
+   1. On the candidate's profile in Greenhouse click the `Details` tab
+   2. Then scroll down the page to `Source & Responsibility`
+   3. Under `Source` click the pencil button and scroll down and click `Referral`
+   4. Add the team member's name under `who gets credit?`
+   5. Click `update source`
+4. Reach out to the candidate with either a screening call or a rejection email within [5 business days](https://about.gitlab.com/handbook/hiring/referral-process/#referral-statuses) of receiving the application. A tip here is to send out the Job Post Questions in Greenhouse to gather more information (such as Visa status, location and job-specific questions) as referred candidates typically bypass this step.
+5. Use the Greenhouse template for `Referred Candidates` when setting up the screening call or when rejecting.
+
+##### Additional considerations for the talent acquisition team
+
+* Review and action any outstanding candidates in the [Weekly Referral Report.](https://docs.google.com/presentation/d/1RK1HsdHPpdpPJbE0hc6aZrhRJVAw8rBQsRM6NuwviOA/edit#slide=id.g152eafd0392_0_0)
+   1. Pay close attention to those referred candidates sitting in the `Get To Know Us` and `Qualified` stages in the report who haven't been actioned yet.
+   2. You can access these candidates by clicking on your name and then following the hyperlink to Greenhouse.
+   3. If you see a cell highlighted in purple against your name then please try to action straight away. This means the candidate hasn't heard from us in 5 business days or more.
+   4. If the candidate is attached to multiple requisitions in Greenhouse then disposition the candidate in Greenhouse using the rejection reason `Moved Forward In Different Role` > click `Reject and Don't Send Email`
+* Set up Greenhouse notifications correctly so you never miss a referral.
+   1. Click on the role and navigate to `Job Setup`
+   2. Down the left side column, click `Notifications`
+   3. Under `New Referrals` click edit and add your name and hit save
+   4. You will now receive an email notification when a new referral is submitted by a team member.
+* If a candidate is referred to multiple positions then;
+   1. Tag the other recruiter/s in both Greenhouse and Slack to let them know a referral has been received
+   2. For an optimal hiring experience a candidate should only be interviewing for one position at a time given the nuances in the recruitment process between teams. Based on the candidate's background and experience, the recruiters are to decide what team is a better fit, also factoring in the priority of the roles and aged reqs (+90 days old).
+   3. Recruiter is then to screen as normal.
+   4. If not a fit, then decline for that role but in the rejection acknowledge that they have been referred to other roles and, if so, other recruiters on the TA team will reach out if there's a fit.
+   5. Tag the other recruiter/s in both Greenhouse and Slack to inform them of the outcome and provide any further details if needed for the candidate to be considered for other positions.
+
 ### Adjustments to our Interview Process
 
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing `ces@gitlab.com` about the need for adjustments at any point in the interview process.
