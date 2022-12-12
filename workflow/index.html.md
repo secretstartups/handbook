@@ -88,7 +88,19 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 
 1. Monitor
    * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team.
-   * The `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
+   * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
+
+   ```
+    /assign me
+    /duplicate #<original_issue_id>
+    /copy_metadata #<original_issue_id>
+   ```
+
+   * If the incident is not a duplicate, and needs some investigation:
+     * Assign the incident to yourself: `/assign me`
+     * Change the incident status to `Acknowledged` (in the right-side menu).
+     * In Slack, the `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
+
 1. Identification
    * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
    * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
@@ -107,6 +119,18 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
     * If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel. 
       * You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
     * If no merge request was identified, ask for assistance in the `#development` Slack channel.
+    * Please set the appropriate `~master-broken:*` label from the list below:
+    ```shell
+    /label ~"master-broken:caching" 
+    /label ~"master-broken:ci-config" 
+    /label ~"master-broken:dependency-upgrade"
+    /label ~"master-broken:flaky-test" 
+    /label ~"master-broken:fork-repo-test-gap" 
+    /label ~"master-broken:pipeline-skipped-before-merge"
+    /label ~"master-broken:test-selection-gap"
+    /label ~"master-broken:undetermined"
+    ```
+    * When the master-broken is resolved, close the incident.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
