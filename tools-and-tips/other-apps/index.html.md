@@ -285,11 +285,6 @@ GitHub released [Copilot](https://copilot.github.com), an AI-powered tool for in
 
 [Krisp](https://krisp.ai/) will mute background noise when you're in a noisy environment so you can hear and be heard more easily on calls.
 
-### MobileDay
-
-If you install [MobileDay (Free)](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you.
-It is very good at detecting the number and password from the calendar invite.
-
 ### Shush
 
 [$4.99 tool for macOS](http://mizage.com/shush/) that lets you set a hotkey (e.g. `fn`) to mute your microphone ("push-to-talk" or "push-to-mute").
