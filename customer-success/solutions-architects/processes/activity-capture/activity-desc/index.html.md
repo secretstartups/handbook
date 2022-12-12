@@ -91,11 +91,11 @@ Select these [SA] Activity types when capturing activities by the Strategic Fiel
 
 Select these [SA] Activity types when capturing activities by the Alliance/Channel team but other activity types for Enterprise can also be used.
 
-- **Partner Enablement** [Alliances][Channel] - Calls, meetings, workshops, webinars to enable partners on GitLab product and pre-sales.
+- **Partner Enablement** [Alliances][Channel] - Calls, meetings, workshops, webinars, including prep work to enable partners on GitLab product and pre-sales.
 
 - **Partner Services Attach** [Channel] - Develop partner services catalog and/or SoW for specific services engagements.
 
-- **Partner Opportunity** - Work alongside field SA on specific sales opportunities with a partner involvement. This includes being an overlay SME on partner technologies and its joint value proposition with GitLab and/or helping a channel/services partner become successful with joint customers.
+- **Partner Opportunity** [Alliances][Channel] - Work alongside field SA on specific sales opportunities with a partner involvement. This includes being an overlay SME on partner technologies and its joint value proposition with GitLab and/or helping a channel/services partner become successful with joint customers.
 
 - **Partner Technical Evangelism** [Alliances][Channel] - Partner marketing events and evangelism, including conferences, meetups, webinars, open-invite bootcamps, blogs and customer success stories.
 
@@ -106,6 +106,8 @@ Select these [SA] Activity types when capturing activities by the Alliance/Chann
 - **Internal Enablement and SME Assistance** [Alliances][Channel] - Calls, meetings, webinars for internal field SA enablement and assistance.  
 
 - **Partner Assisted Demand Gen** [Alliances][Channel] - Webinars, workshops, roadshows and similar activities in collaboration with a partner, focussed on demand generation.  
+
+- **Partner VSA Enablement** [Channel] - Activities involving enablement of partners to pitch or execute Value Stream Assessment.  
 
 ### Description for Value Stream Assessment
 
