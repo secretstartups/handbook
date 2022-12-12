@@ -50,8 +50,13 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 
 ### Exit Criteria (100% completed)
 
-Exit criteria for this working group has been completed, however monthly follow up meetings are still active until Febuary 2, 2023.
+Exit criteria for this working group has been completed, however monthly follow up meetings are still active until February 2, 2023.
 
+## Maintainership Process
+
+The maintainership process is described [on this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
+
+### Exit Criteria (99% completed)
 
 | #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------ | ------         | ------     | ------   |
