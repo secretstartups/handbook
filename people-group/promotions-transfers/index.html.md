@@ -453,6 +453,10 @@ Please reach out to #people-connect with the name of the team member who needs t
 
 Note for Sales Managers: If team members are not moved under the correct sales manager in Workday, credits will not be rolled-up to the correct manager for sales commissions. See additional promotion and transfer considerations for commissionable roles [here](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-and-transfers-of-employees-in-commissionable-roles).
 
+**Job Title Speciality Changes**
+
+If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) with the new Job Title Speciality, along with the effective date. This will then be processed by the team, accordingly.
+
 ### For People Connect: Processing Manager changes
 1. The People Connect Specialist logs into Workday via Okta to approve the transfer in Workday > click on Inbox in top right corner
 1. Review the business process titled 'Transfer' and reason 'Manager to Another Manager' > click: approve
@@ -471,7 +475,7 @@ Note for Sales Managers: If team members are not moved under the correct sales m
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
 1. In case of `Job Title Specialty` change requests, managers will reach out to the People Connect Team to have a team members `Speciality` updated in Workday. 
     - The People Connect Team member should check whether the title already exists in Workday. If not, check whether the `Job Speciality` has been added to the respective departments Handbook page (example: https://about.gitlab.com/handbook/engineering/development/enablement/sharding/) or if the People Connect Team members are tagged in a respective issue to have it added. If unclear, reach out to the [respective People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)      
-    - In the event of a `Job Speciality` change and a manager change, the People Connect Team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+    - In the event of a `Job Speciality` change and a manager change, the People Connect Team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-connect@gitlab.com` alias) and the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
