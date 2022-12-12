@@ -35,21 +35,21 @@ are heavy influencers in the buying process. Users personas are created from dat
 While user personas are often distinct individuals it is equally important to understand how multiple personas interact as to understand the workflows and motivations of individual personas.
 As a result we will also consider:
 
-- Organizational Models
+- Organization Archetype
 - Persona Composition
 
-##### Organizational Models
+##### Organizational Archetype
 
-Organizational models describe how organizations have structured their software development process and teams.
+Organizational archetype describe how organizations have structured their software development process and teams.
 They help us understand common structures and the resulting types of interactions that the personas in those structures experience.
 
-We'll build out descriptions of common organizational models as our research continues
-and introduce new personas that fit into these new organization models.
+We'll build out descriptions of common organizational archetype as our research continues
+and introduce new personas that fit into these new organization archetypes.
 
-It can happen that a persona from one organizational model will have similar jobs-to-be-done,
-or other characteristics, as one or even multiple personas from another organizational model.
+It can happen that a persona from one organizational archetype will have similar jobs-to-be-done,
+or other characteristics, as one or even multiple personas from another organizational archetype.
 Describing all of them will help us understand the differences that could otherwise go unnoticed
-and make better-focused decisions during product development.
+and make better-focused decisions during product development.  [Learn more](/handbook/product/personas/organization-archetype/) about the organizational archetypes GitLab is addressing.
 
 #### List of User Personas
 We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow. 
