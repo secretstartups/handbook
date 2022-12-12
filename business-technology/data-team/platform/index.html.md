@@ -63,9 +63,14 @@ Changes are implemented via merge requests, including changes to our pipelines, 
 
 ## <i class="fas fa-exchange-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="extract-and-load"></i>Extract and Load
 
-We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fivetran.com/) for most of our data sources. These are off-the-shelf ELT tools that remove the responsibility of building, maintaining, or orchestrating the movement of data from some data sources into our Snowflake data warehouse. We run a full-refresh of all of our Stitch/Fivetran data sources at the same time that we rotate our security credentials (approx every 90 days). Prior to running a full refresh we will drop all of the tables.
+We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fivetran.com/) for some of our data sources. These are off-the-shelf ELT tools that remove the responsibility of building, maintaining, or orchestrating the movement of data from some data sources into our Snowflake data warehouse. We run a full-refresh of all of our Stitch/Fivetran data sources at the same time that we rotate our security credentials (approx every 90 days). Prior to running a full refresh we will drop all of the tables.
 
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
+
+Other solutions we use to extract data are:
+1. [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) 
+1. Custom pipelines built in [Python](/handbook/business-technology/data-team/platform/python-guide/) and orchestrated via [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow)
+1. Snowflake [data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html)
 
 For source ownership please see [the Tech Stack Applications data file.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
 
