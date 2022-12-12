@@ -234,7 +234,7 @@ Managers should discuss career development at least once a month at the [1:1](/h
 
 Managers should support their direct reports with their professional development goals. Implement the following into a [1-1](/handbook/leadership/1-1/), team meeting, or async communication to support your team.
 
-1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
+1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
 1. Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
 1. Recommend (and model) blocking [time to learn during the work week](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign).
 1. Organize team specific and cross-functional learning communities to practice [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
@@ -256,10 +256,10 @@ The bi-annual cadence is not required, but recommended. Some team members may pr
 
 #### Process 
 
-_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members._
+_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#career-mapping-and-development),  managers cannot complete the acknowledgement process for team members._
 
 *  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
-*  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
+*  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#career-mapping-and-development) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
 *  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22.
 *  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.
 *  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
