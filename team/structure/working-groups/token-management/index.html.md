@@ -23,17 +23,16 @@ canonical_path: "/company/team/structure/working-groups/token-management/"
 ## Exit Criteria
 
 The Token Management Working Group will deliver:
-* A reliable and repeatable method for identifying leaked tokens
-* An established policy of token management aligned and supported across engineering
-* Thorough logging capabilities and visibility of token use
-* Recommendations for improvement to GitLab's Secret Detection
+* Publish the first iteration of an official token and secrets management policy that is based on the [Token Standard](https://gitlab.com/gitlab-com/gl-security/security-research/cryptographic-standards/-/blob/main/token-standard.md) previously created
+* Proposed fixes, with risk assessments, for each identified low effort high risk item
+* Propose possible out-of-product workaround mitigations for the top 2 high effort high risk items
 
 ## Roles and Responsibilities
 
 | Working Group Role              | Person                | Title                                                        |
 |---------------------------------|-----------------------|--------------------------------------------------------------|
 | Facilitator                     | James Ritchey        |  Sr. Security Engineering Manager |
-| Executive Stakeholder | Johnathan Hunt          | VP of Security                          |
+| Executive Stakeholder | Laurence Bierner          | Director Security Engineering                         |
 | Member         | Joaquin Fuentes   | Director Security Operations           |
 | Member         | Valentine Mairet   | SIRT Manager           |
 | Member         | Philippe Lafoucrière    | Security Architect           |
@@ -53,4 +52,4 @@ The Token Management Working Group will deliver:
 | Member         | Dennis Appelt   | Staff Security Engineer, Security Research |
 
 ## Direction
-TBD
+The Token Management Working Group will work towards building a foundation and path forward for future token management security enhancements. This will be accomplished through the creation and publication of a token management security policy and proposed fixes for the high risk and low effort token management issues. With this, the Token Management Working Group will set up the fast follow on mid to long term token management security enhancement effort for success. For additional detail please visit our [Token Leaks internal handbook page](https://internal-handbook.gitlab.io/handbook/engineering/security/token-leaks/).
