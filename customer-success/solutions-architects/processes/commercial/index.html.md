@@ -129,7 +129,7 @@ The 5-Minute Demo Framework is a method to quickly produce technical content tha
 * For blog posts, please refer to the [marketing handbook page](https://about.gitlab.com/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
 * For repository examples, please store the repository within the [Guided Exploration group](https://gitlab.com/guided-explorations).
 
-##### Pracice and review
+##### Practice and review
 
 * If you produce a video and are requesting feedback, feel free to add it to the [Demo Jam](#commercial-demo-jam) agenda. An alternative is to record it and share it asynchronously in #cs_mm_sa slack channel for feedback.
 
@@ -142,6 +142,35 @@ With the continuous iteration and releases of GitLab, it's important to stay up 
 - This is a 25 minute meeting with two presentators.
 - Each presentation has ~5 minutes to present and ~5 minutes for feedback/discussion.
 - Recordings are published to the [Solutions Architecture playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY) on GitLab Unfiltered.
+
+## Commercial SA Peer Review
+
+An SA peer review is the exchange about an ingoing opportunities between the primary SA and one another SA within the same team. The goal is to bring better collaboration with the SA team by sharing advice, best practices and ideas for closing opportunities better and faster. Safe space to review opportunities in progress, learn from others, and share best practices based on questions and suggestions. 
+
+### Structure
+
+- Peer Reviews are hosted every two weeks
+- This is a 25 minute meeting with two presentators
+- Two opportunities to review / 10 minutes each
+
+### Process
+
+- Presenting SA
+  - Fill out meeting template beforehand:  [Commercial SA Peer Reviews (internal)](https://docs.google.com/document/d/1CyHIuCg57bLkfYa9DtXD0D_dWqyEJh-Cv5qxM_9aMvE/edit#)
+- Attending SAs
+  - Review meeting notes / template beforehand
+  - Ask questions & provide suggestions while working through
+  - Examples: 
+    - Did you consider suggesting Scan Result Policies? 
+    - Your running notes have great info about the tech stack, how were you able to find that?
+
+### Opportunity Selection
+
+A good opportunity to be reviewed need to meet the following requirements:
+- Any ongoing opportunity that would benefit from peers input
+- Named Accounts with high potential and longest term sales cycle
+- Already run a technical discovery session with an SA
+- When an SA is looking for ideas to unblock the deal
 
 ## Team Links
 
