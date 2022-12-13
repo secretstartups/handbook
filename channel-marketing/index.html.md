@@ -43,7 +43,7 @@ As a service bureau to a wide variety of teams, we have support functions that a
 *   For Select Partners, participate in partner QBRs and provide input and ideation on successful go to market campaigns and initiatives to help partners drive more business with GitLab. 
 *   On a monthly basis, provide marketing content and input to the Global Channel Operations team for use in the global channel communication/newsletter 
 *   On a quarterly basis, host global marketing webcasts to the partner community.
-*   Support GitLab [Analyst Relations](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/) requests for channel program input on MQs, WAVEs, market guides, as needed and with third party channel analysts.  
+*   Support GitLab [Analyst Relations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) requests for channel program input on MQs, WAVEs, market guides, as needed and with third party channel analysts.  
     *   Support requests for inclusion in third party publications
 *   Support the web team in maintaining GitLab’s marketing website [partner pages](https://about.gitlab.com/partners/)
 *   Working with Sales Ops and Marketing Ops improve attribution and reporting of [partner sourced leads (CQLs), and partner sourced opportunities](/handbook/sales/field-operations/channel-operations/). 
@@ -80,7 +80,7 @@ Develops scalable demand generation campaigns and tactics for partners to genera
 
 Once a plan for the quarter has been established it is imperative that the channel account manager and the field marketing manager stay in close, consistent alignment about plan execution.  The strategy is driven by the channel account manager, while the field marketing manager is responsible for executing on that strategy in partnership with various support teams, including but not limited to the channel account managers.
 
-[MDF](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds) 
+[MDF](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds) 
 CAN and SHOULD be leveraged as much as possible when the partner is involved in an activity.  Further information about how to initiate and MDF request can be found here.
 
 ## Tracking Success:
