@@ -71,9 +71,9 @@ The Deal Desk team used your **feedback from the recent Quote to Cash survey** t
 
 ----
 The Customer Reference Team is actively managing our presence on Peer Review sites such as [Gartner Peer Insights](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab) and [G2](https://www.g2.com/products/gitlab/reviews). These sites also give us active Customer Quote Assets that can serve as **helpful resources for *you* to help demonstrate the value of GitLab to your customers and prospects**. For more information:
-1. Learn more about how we manage Peer Reviews on [this Handbook page](/handbook/marketing/strategic-marketing/customer-reference-program/peer-reviews/)
+1. Learn more about how we manage Peer Reviews on [this Handbook page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/peer-reviews/)
 1. View [assets you can drop into your slide deck](https://docs.google.com/presentation/d/13tHJ1BgABMTwt0gZeP_hZK0B96Ui2FUrMWFVmFtT9Nw/edit#slide=id.g6e8641c747_0_8)
-1. Find out how to make a [Peer Review Request](/handbook/marketing/strategic-marketing/customer-reference-program/peer-reviews/#requesting-peer-review-help-in-an-issue) if you don't see what you need
+1. Find out how to make a [Peer Review Request](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/peer-reviews/#requesting-peer-review-help-in-an-issue) if you don't see what you need
 
 ### What's New in GitLab 🚀
 The GitLab [13.1 release](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/) is live! Here are the takeaways for customers and prospects:

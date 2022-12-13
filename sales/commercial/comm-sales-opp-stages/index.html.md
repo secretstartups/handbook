@@ -117,7 +117,7 @@ _Validate the pain points & determine how these pain points attach to the Custom
 - Review how GitLab will be implemented and by who, opening a discussion about GitLab and/or partner [professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#selling-gitlab-professional-services) where appropriate
 - Introduce [partner/channel](https://docs.google.com/document/d/18xqRRCkIXlR7r4BvBQnK9n9zE70q-KPga-lVHhVw4n4/edit) where appropriate
 - [Competitive differentiation](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#gitlab-differentiators) 
-- Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](https://about.gitlab.com/handbook/marketing/strategic-marketing/competitive/#competitive-intelligence-at-gitlab) (defensible differentiators)
+- Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#competitive-intelligence-at-gitlab) (defensible differentiators)
 - Create a [GitLab maturity/adoption](https://about.gitlab.com/handbook/product/product-principles/#multi-feature-usage-adoption-journey) roadmap with customer 
 - [Multi-thread](https://about.gitlab.com/handbook/sales/playbook/discovery/#lack-of-multi-threading) across the customer org
 - Open an SA engagement request issue ($10k+ opps) on the Commercial SA triage board  by completing the [SA Activity Issue Request](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/issues/new)
@@ -193,7 +193,7 @@ _Business and technical challenges and been uncovered and resolved. The goal is 
 
 - Quote through partner where applicable 
 - [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
-- If a [referenceable customer](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/) update the Referenceable Customer section on the Account object with appropriate reference information
+- If a [referenceable customer](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) update the Referenceable Customer section on the Account object with appropriate reference information
 - AE builds the quote and prepares for review with buyer
 - Deliver formal contract to prospect
 - Proposal is aligned with customers [Positive Business Outcomes](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes)

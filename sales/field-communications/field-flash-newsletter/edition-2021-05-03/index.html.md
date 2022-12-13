@@ -57,7 +57,7 @@ You can now find all key components and critical information about GitLab Allian
 - [FY22 All-Marketing SSOT Calendar](/handbook/marketing/#fy22-calendar)
 - Updated Pricing Page: [Why Premium?](https://about.gitlab.com/pricing/premium/)
 - Updated Pricing Page: [Why Ultimate?](https://about.gitlab.com/pricing/ultimate/)
-- Expanded Use Case Page: [GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
+- Expanded Use Case Page: [GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)
 - Demo: [DORA-related features in GitLab 13.10](https://youtu.be/kJp6FEwDB74)
 
 ### Did You Know? 🔢

@@ -133,7 +133,7 @@ Holding hurts our prospective customers because while they’re sitting there, t
 
 #### Support
 - [Field Marketing events and support](https://about.gitlab.com/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
-- [Compete support](https://about.gitlab.com/handbook/marketing/strategic-marketing/competitive/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
+- [Compete support](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
 - [Executive sponsorship program](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
 - [Nominate account for ABM marketing support](https://about.gitlab.com/handbook/marketing/account-based-marketing/)
 

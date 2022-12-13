@@ -20,7 +20,7 @@ Make sure you’re up-to-date on the latest resources from our Strategic Marketi
 
 1. [Learn @ GitLab](https://about.gitlab.com/learn/) - This newly redesigned site contains bite-sized content that customers can use to learn more about the GitLab product. Consider sharing this great resource with your customers.
 1. [Gartner Market Guide for DevOps Value Stream Delivery Platforms (VSDP)](https://drive.google.com/file/d/1qHpdyCPDHgdfID56_io_-vwXHXjH7PH2/view) - GitLab has successfully influenced the definition of a new Analyst Category! [Watch this webinar](http://www.youtube.com/watch?v=yF3OYkHoF8Q&t=7m0s) (@ 7:00 mark) for a high-level overview, and point your customers to the [Download Landing Page](https://page.gitlab.com/resources-report-gartner-market-guide-vsdp.html) to access the full report.
-1. [Strategic Marketing Asset Inventory](/handbook/marketing/strategic-marketing/asset_inventory/) - Wishing you could search for marketing assets by type, use case, value driver and more? You can! Bookmark this inventory to filter, search and export assets to support your Sales motions. 
+1. [Strategic Marketing Asset Inventory](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/asset_inventory/) - Wishing you could search for marketing assets by type, use case, value driver and more? You can! Bookmark this inventory to filter, search and export assets to support your Sales motions. 
 
 Questions? Reach out in #marketing.
 

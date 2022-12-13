@@ -136,7 +136,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2020-03-19 | **[True-Ups](https://youtu.be/vNWUz1BGs2E)** | Public |
 | 2020-03-12 | **[The GitLab Journey & The SCM Use Case](https://youtu.be/GN891Bqc6QY)** | Public |
 | 2020-03-05 | **[The GitLab Journey & The CI Use Case](https://youtu.be/JoeaTYIH5lI)** | Public |
-| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/strategic-marketing/release-updates/#123128-sales-enablement)** | Public |
+| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
@@ -192,12 +192,12 @@ There are a few places to see previous Sales Enablement sessions:
 - Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
 ## Enablement pages
-- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/strategic-marketing/enablement/github-ci-cd-faq/)
-- [Cloud Native Ecosystem](/handbook/marketing/strategic-marketing/enablement/cloud-native-ecosystem/)
-- [Enterprise IT Roles](/handbook/marketing/strategic-marketing/enterprise-it-roles/)
+- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/github-ci-cd-faq/)
+- [Cloud Native Ecosystem](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/cloud-native-ecosystem/)
+- [Enterprise IT Roles](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/)
 - [How to set up Chorus.ai call recording](/handbook/business-technology/tech-stack/#chorus)
-- [GitLab Serverless FAQ](/handbook/marketing/strategic-marketing/enablement/serverless-faq/)
-- [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
+- [GitLab Serverless FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
+- [GitLab.com Subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
 - [Collaborating with Community Programs](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 

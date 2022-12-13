@@ -27,7 +27,7 @@ The Competitive Intelligence team has created two brand new resources to help yo
 1. [GitLab vs. Microsoft for Agile Planning](https://docs.google.com/presentation/d/1MREoycGuFj-48watw0ary-Bm9o0wtEaKeYa_ZnpqrQM/edit#slide=id.gdc8eca6747_0_0) 
 1. [Microsoft Competitive Overview](https://docs.google.com/presentation/d/1-XJif6GwOl9coah5YQjOr6APM4fSGNpScOAtQJbpnWg/edit#slide=id.gdc8eca6747_0_0) 
 
-GitHub and Jenkins displacement customer story! Learn why tech company Zebra adopted GitLab to consolidate from three tools to one for code repository, CI/CD, and security. Your input is needed to create more great customer stories like this! Contribute by [nominating your customer as a reference](/handbook/marketing/strategic-marketing/customer-reference-program/sales-support/#process-for-nominating-new-reference-customers). [Learn More -->](https://about.gitlab.com/customers/thezebra/) 
+GitHub and Jenkins displacement customer story! Learn why tech company Zebra adopted GitLab to consolidate from three tools to one for code repository, CI/CD, and security. Your input is needed to create more great customer stories like this! Contribute by [nominating your customer as a reference](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/sales-support/#process-for-nominating-new-reference-customers). [Learn More -->](https://about.gitlab.com/customers/thezebra/) 
 
 
 ### Did You Know? 🔢
