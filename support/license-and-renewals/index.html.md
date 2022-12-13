@@ -226,7 +226,7 @@ The queue should not be used for the following:
   * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
   * [Sales Territories](/handbook/sales/territories/)
 * [Marketing](/handbook/marketing/)
-  * [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
+  * [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
 ### Issue trackers
 
