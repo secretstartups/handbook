@@ -149,7 +149,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 
 * Alliances/Partner Marketing involved - (if yes, must designate a DRI)
 * Will this event include use of Marketing Development Funds (MDFs)? YES/NO
-   * [Requesting MDF Funds](<a href="https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds"</a>)
+   * [Requesting MDF Funds](<a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds"</a>)
 
 ## Issues to be created
 
@@ -187,7 +187,7 @@ cc @jburton to create list upload issue and DMA request as required
    - Instruction everyone to book travel and lodging ASAP.
    - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
 1. If the event needs a speaker, start an issue with the `Speaker Request` issue template.
-1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/strategic-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events.
+1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events.
 1. Landing Pages for Events (detailed instructions)
    - Corporate event landing pages are generated from the `events.yml` - Detailed instructions
    - The Corp DRI will create an issue for content to be provided working with Alliances &/or Product Marketing team on copy.
@@ -212,7 +212,7 @@ cc @jburton to create list upload issue and DMA request as required
 1. Design
    1. For the latest approved booth design & messaging, email `events@gitlab.com`.
    1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
-   1. For any content or major layout changes, tag Strategic Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
+   1. For any content or major layout changes, tag Product and Solution Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
 1. Digital
    - Coordinate all digital marketing requests with the digital marketing team. See [Requesting Digital Marketing Promotions](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#how-do-we-get-there) for more info.
 1. For Corporate events - Meeting Setting
@@ -227,7 +227,7 @@ cc @jburton to create list upload issue and DMA request as required
    1. Meetings are tracked on the master event spreadsheet.
 1. Demos, booth decks and documentation
    - Product Marketing helps make all displayed collateral at events.
-   - The [standard demos](/handbook/marketing/strategic-marketing/demo/) should be preloaded on the event iPads.
+   - The [standard demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/) should be preloaded on the event iPads.
    - If you need something specific for an event, start an issue in the Product Marketing project.
 1. Swag
    - Decide appropriate giveaway for the event and audience.
@@ -749,7 +749,7 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
       * `Edges:` Select the option with two curved corners (fourth selection from the left on the top row). Adjust the outer and inner color to `#171321`.
     * **Logo:** Select the solid Charcoal tanuki. This tanuki has a transparent background and should be the only logo placed for the center of the QR code.
     * **NOTE:** Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes).  
-    * **NOTE:** When placing the QR code into your collateral, the [design team](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/) advises that it should be no smaller than 1" x 1" for efficient scanning.  
+    * **NOTE:** When placing the QR code into your collateral, the [design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) advises that it should be no smaller than 1" x 1" for efficient scanning.  
     * ![QR code styling](/handbook/marketing/events/qr-code-handbook.png)
 5. Add in URL link to CTA. Example CTAs listed below:
 
