@@ -339,22 +339,20 @@ This Phase does not include time for complex technical proposals. They will be w
 
 #### Milestone Capacity
 
-Our milestone capacity tells us how many issue weights we can expect to complete in a given milestone. This is calculated by taking the sum of issue weights completed in the last milestone prorated by holidays. If there is a large variation in the estimated capacity of the last milestone and the one before it, we will use an average estimated capacity of the last few milestones. Here is an example of how we calculate capacity:
+Our milestone capacity tells us how many issue weights we can expect to complete in a given milestone. To estimate this we calculate the average daily weight completed by an engineer per day across the previous two milestones. This is multiplied with the actual working days available to us in a given milestone.
 
-**Last Milestone:**
-* **Total weights completed:** 24
-* **Available work days:** 21.6 * 1 engineers = 21.6 available days
-* **Actual work days:** 21.6 available days - 5 days off = 16.6 actual days
-* **Ratio of available:actual work days:** 21.6 / 16.6 = 1.30
-* **Maximum capacity:** 24 * 1.3 = 31 weights
+**Previous Two Milestones:**
+* **Total weights completed:** 120 weights
+* **Available work days:** 40 days * 5 engineers = 200 days
+* **Actual work days:** 200 days - 20 days off = 180 days
+* **Average weight per engineer/day:** 120 weights / 180 days = 0,67 weights/day
 
-**Current Milestone:**
-* **Available work days:** 21.6 days * 1 engineers = 21.6 available days
-* **Actual work days:** 21.6 av-days - 0 days off = 21.6 actual days
-* **Ratio of available:actual work days:** 21.6 / 21.6 = 1
-* **Maximum capacity:** 31 * 1 = 31 weights
+**Next Milestone:**
+* **Available work days:** 21 days * 5 engineers = 105 days
+* **Actual work days:** 105 days - 10 days off = 95 actual days
+* **Maximum capacity:** 95 days * 0,67 weights/day = 64 weights
 
-In this example, the current milestone capacity is 31 weights.
+In this example, the next milestone’s capacity is 64 weights for the whole team. Keep in mind that neither estimations nor this calculation are an exact science. The capacity planning is supposed to help the EM and PM set realistic expectations around deliverables inside and outside time. We do not expect to hit the exact amount of predicted weights.
 
 #### Milestone Commitment
 
