@@ -19,12 +19,12 @@ A DevOps solution is:
 * These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
 * Aligned to value plays and revenue programs
 
-More information on how GitLab uses solutions can be found on the [Solutions Go-to-market page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/)
+More information on how GitLab uses solutions can be found on the [Solutions Go-to-market page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)
 
 
 ## Core DevOps Solutions go-to-market motions
 
-### [1. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+### [1. DevOps Platform](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)
 **Business objectives: We want to achieve expected results of DevOps by resolving siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
@@ -49,8 +49,8 @@ We need to automate the build and testing processes to consistently integrate co
    1. *Reduce Security and Compliance Risk:* Enforce common controls and scan for vulnerabilities at the point of code change.
    
 
-### 3. [Continuous Software Security Assurance](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
-Aligns to what was [DevSecOps](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) (aka Shift Left Security)
+### 3. [Continuous Software Security Assurance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
+Aligns to what was [DevSecOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/) (aka Shift Left Security)
 
 **Business objectives: We want to test for application security vulnerabilities early in our app dev lifecycle.** 
 We need to identify vulnerabilities during development with actionable information to empower dev to remediate vulnerabilities earlier in the life cycle. (In GitLab, SAST, DAST, Dependency Scanning, and Container Scanning, etc.)
@@ -62,7 +62,7 @@ We need to identify vulnerabilities during development with actionable informati
    1. *Deliver Better Products Faster:* Ability to start testing early in dev process to eliminate vulnerabilities at the source
    1. *Reduce Security and Compliance Risk:* Fix vulnerabilities with actionable feedback to the developer at point of code change. Auto remediate when possible.
 
-### [4. Continuous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+### [4. Continuous Software Compliance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/)
 **Business objectives: We want to reduce risk by ensuring pipelines are compliant with common controls and popular industry regulations**
 We need to enforce standardized CI pipelines that include requisite testing and then ensure common compliance controls are followed (such as separation of duties).
 
@@ -80,7 +80,7 @@ We need to enforce standardized CI pipelines that include requisite testing and 
 These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want drive people to delivery automation (or platform). 
 
 
-#### [1. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
+#### [1. GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)
 **Looking for a way to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
 I manually stage and test environments for infrastructure making it hard to track and error-prone. I want to stage all components and test them to be sure it works to automate my release pipelines, provide consistency, reduce cost, and  eliminate errors. I may frequently leverage integration with Terraform, Kubernetes, Ansible, OpenStack and others.
 
@@ -93,7 +93,7 @@ I manually stage and test environments for infrastructure making it hard to trac
 
 *This conversation should lead the prospect toward the Delivery Automation solution.*
 
-#### [2. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
+#### [2. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration)
 **We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
 We need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
