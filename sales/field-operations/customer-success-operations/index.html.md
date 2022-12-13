@@ -54,7 +54,7 @@ Customer Success Operations provides support, content, and data analysis for all
 
 ## CS Ops Request Process
 
-![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/11f22877-d443-42b4-b94f-2e3188021a8b/image.png "CS Ops Issue Flowchart")
+![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/d1fded0a-7969-46d4-b300-0603d802e6e4/image.png "CS Ops Issue Flowchart")
 
 ## CS Ops Board, Groups, Projects, and Labels
 
@@ -93,6 +93,7 @@ Labels to use when creating new issues or MRs for CS Ops:
 - **CSOps** - Use to track and manage all CS Operations-related issues and MRs.
 - **CS Programs** - For the Digital Programs team to track and manage content requests, improvements, and other means of digital customer marketing.
 - **CS Product Usage Reporting** - Issues related to Customer Success product usage data.
+- **CS Analytics** - Used to track Customer Success Analytics issues.
 - **CS RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience.
 - **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
 - **Gainsight**- Label to designate the issue is related to Gainsight. 
@@ -102,10 +103,9 @@ Labels to use when creating new issues or MRs for CS Ops:
 **Scoped Labels** - used for tracking SDLC progress
 - **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
 - **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
-- **CSOps::Awaiting Feedback  - Used for peer review and when analysis is needed before closing the issue.
+- **CSOps::Awaiting Feedback**  - Used for peer review and when analysis is needed before closing the issue.
 - **CSOps::In_Process** - Actively being worked on in the current week or milestone.
 - **CSOps::Blocked** - Currently blocked by an internal or external prerequisite.
-- **CSOps::Backlog** - Not currently being evaluated or worked on.
 - **CSOps - Interrupt** - Issue that was submitted after the current milestone started and prioritized ahead of the original milestone scope.
 - **CSOps::Triage**- Issue that is in the traige stage.
 - **CSOps::Won’t Do** - Indicates that the issue is not going to be worked/completed, although scoping of solution might have already been concluded.
@@ -121,7 +121,8 @@ Labels to use when creating new issues or MRs for CS Ops:
 - **CSOps - Scale** - Requests the are for the Scale Segment. 
 - **CSOps - All Segments** - Request that cover all CS Segments. 
 - **CSOps - Growth** -  Requests that are specific to the Growth CSM Team. 
-- **CSOpsSlack-Questions - Indicates that the request/issue came in via Slack (#gainsight-users Slack channel being the largest contributor to it)CSOPs-FY24Priority - This is for initiative/issues tied to FY24 Initiatives.
+- **CSOpsSlack-Questions** - Indicates that the request/issue came in via Slack (#gainsight-users Slack channel being the largest contributor to it)
+- **CSOPs-Priority** - This is for initiative/issues tied to Top Priority Initiatives.
 
 ## Peer Review
 The peer review process (currently for issues related to Gainsight) allows CS Ops team members to have another member of the team review their work.
