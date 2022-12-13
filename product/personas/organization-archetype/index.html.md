@@ -13,6 +13,11 @@ title: Organization Archetype
 
 An organization archetype is a typical example of an organizational setup. In our case, we are specifically interested in organization archetypes relevant to how the organization might engage with GitLab. We've learned that roles of various [personas](../personas) change based on the specific organizational setup of their company. This handbook page captures the organization archetype we have identified.
 
+### How do you use organization archetypes as a Product Manager?
+
+An organization archetype can be considered an additional layer to an end-user's demographics alongside [personas](.../personas). When collecting insights during interviews, it would be useful to understand the context of the user within their role and organization via organization archetypes. 
+
+
 ## Cloud Infrastructure Resourcing
 
 Cloud infrastructure enables flexible and purposefully designed infrastructure per application. Because of this, infrastructure provisioning and software development has become part of a coupled workflow. We have observed 5 different types of infra team or platform team models outlined below. 
