@@ -4,7 +4,7 @@ title: "Blog Handbook"
 description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
 ---
 
-Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editors of the blog are Valerie Silverthorne (@vsilverthorne) and Sandra Gittlen (@sgittlen).
+Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editors of the blog are Valerie Silverthorne (@vsilverthorne) and Sandra Gittlen (@sgittlen).
 
 ## We're looking for technical content!
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @ValSilver on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
@@ -36,7 +36,7 @@ Traffic from posts: Ideally every post we publish should support our goal of dri
 - [Process for making an announcement](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements)
 - [Blog dashboard](/handbook/marketing/blog/blog-metrics/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
-- [Editorial team page (including blog style guide)](/handbook/marketing/inbound-marketing/content/editorial-team/)
+- [Editorial team page (including blog style guide)](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
@@ -65,7 +65,7 @@ If you have already followed those directions in the [PR handbook](/handbook/mar
 
 ### Disclosure process for posts concerning third parties
 
-When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](/handbook/marketing/strategic-marketing/#partner-marketing) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
+When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
 
 **1. Connect with Alliances**
 
@@ -360,8 +360,8 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **Corporate:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
 1. **Product:** Release posts, critical updates, and partnership announcements.
 1. **dev-evangelism:** Blog posts authored or contributed to by members of the [Developer Evangelism](/handbook/marketing/community-relations/developer-evangelism/) team.
-1. **Product Marketing:** Blog posts authored or contributed to by members of the [Product Marketing](/handbook/marketing/strategic-marketing/pmmteam/) team.
-1. **Technical Marketing:** Blog posts authored or contributed to by members of the [Technical Marketing](/handbook/marketing/strategic-marketing/technical-marketing/) team.
+1. **Product Marketing:** Blog posts authored or contributed to by members of the [Product Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/) team.
+1. **Technical Marketing:** Blog posts authored or contributed to by members of the [Technical Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/technical-marketing/) team.
 1. **edu-program:** Blog posts authored or contributed by [Education Program Team](/handbook/marketing/community-relations/community-programs/education-program/)
 1. **oss-program:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/community-relations/community-programs/opensource-program/)
 

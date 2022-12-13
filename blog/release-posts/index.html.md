@@ -616,7 +616,7 @@ on the 22nd.
 
 The Release Post is considered a special blog post instance, so should adhere to the Marketing
 editorial team's
-[style guide](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+[style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 
 ### Making changes
 
@@ -1020,7 +1020,7 @@ features:
 #### Description
 
 Content of the **description** should adhere to the Marketing editorial team’s
-[style guide](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+[style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 
 Do not include UI navigation instructions in the feature's description. These instructions should be
 contained in the relevant documentation.
