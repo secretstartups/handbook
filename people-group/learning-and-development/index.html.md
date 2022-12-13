@@ -28,6 +28,7 @@ _What we do:_ We empower individual contributors and equip leaders through self-
 - Focusing on skill-based learning 
 - Providing resources to improve career mobility 
 - Developing learning journeys for teams throughout the organization
+
 ### Objectives
 
 _Performance indicators_ 
