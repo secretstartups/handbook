@@ -78,3 +78,4 @@ This Working Group has the following goals:
 | Member | Nicholas Klick | Engineering Manager, Observability |
 | Member | Arun Sori | Senior Backend Engineer, Monitor:Observability |
 | Member | Nailia Ishakkova | Senior Software Engineer in Test, Enablement: Distribution |
+| Member | Albert Salim | Senior Backend Engineer, Verify:Pipeline Insights |
