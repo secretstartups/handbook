@@ -43,7 +43,7 @@ To align our education and enablement with our product, each of the topics below
 ### Manage Stage
 ***
 ##### Foundations Level
-- [Manage Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/manage/)
+- [Manage Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/)
 - [Manage Stage Direction and Roadmap](https://about.gitlab.com/direction/dev/#manage)
 ##### Intermediate Level
 - [Value Stream Management Feature Docs](https://about.gitlab.com/solutions/value-stream-management/)
