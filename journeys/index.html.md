@@ -73,7 +73,7 @@ Our customers get the most value out of the GitLab product when they use multipl
 
 ### Buyer's journey content stages
 
-Refer to our handbook page on [buyer's journey definitions](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) for a more detailed explanation.
+Refer to our handbook page on [buyer's journey definitions](/handbook/marketing/brand-and-product-marketing/content/#content-stage--buyers-journey-definitions) for a more detailed explanation.
 
 #### Awareness (Beginning stage)
 Users and buyers realize that they have a problem or challenge which could be solved through some sort of outside software or service.  At this stage, they are trying to define the scope and the relative impact and size of the problem.
