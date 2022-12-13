@@ -93,6 +93,42 @@ The process for scheduling executive interviews should always be followed from [
 
 If you have any questions about the process, please post in #eba-team Slack channel and @ mention the correct EBA. You should include a link to the #eba-team Slack channel thread in your issue so you know where to find updates.
 
+#### CES Slack Channel 
+
+TA/CES will be using a custom slack channel to consolidate all requests directed towards CES from GitLab Team Members who participate in interviews. 
+
+Slack Channel: #interview-help-ta
+
+**IMPORTANT:** Please DO NOT use candidates full names in the channel. Instead, please use their initials and/or link to their GH profile when communicating.
+
+This channel will be monitored by CES team members on a rotating schedule to accommodate varying timezones. 
+
+**How Gitlab Team Members will utilize the Workflow within #interview-help-ta**
+- Open slack channel #interview-help-ta
+- Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
+- Click “CES HelpDesk”
+- Click “Request Category” drop down and choose category pertaining to specific request
+- Click “Urgency of your Request” drop down to let CES know the importance of your request.
+- In “Details” box please provide CES details on what you need. 
+**IMPORTANT:** please do NOT write candidates name. Instead use initials and link the candidates GH profile.
+- Requests sent to CES that include a candidates name will be removed.
+- Click “Submit”
+
+CES team members will respond to Gitlab Team Member workflow requests in the channel directly themselves and/or ping the designated CES to assist. Once the request is handled, the CES team member will mark the workflow with a green check mark indicating that the request was actioned and resolved.
+
+**The purpose of this private Slack Channel is to:**
+- Condense hiring slack channels that CES has to monitor.
+- Urgent situations will be handled quickly as CES will alternate times to monitor channel.
+- One channel for all GL team members to reach CES
+- Allows contract team members access to all pings for CES
+- Will help distribute workload for CES pings between all of CES
+
+**This will allow:**
+- Quicker response time to requests from GitLab Team Members which will assist in improving interviewer experience.
+- Streamline process for CES to receive and action Urgent requests from GitLab Team Members.
+- Provide a more accessible point of contact for CES rather than an email.
+- Will assist in providing coverage for when CES members are offline or on PTO.
+
 #### Prelude
 
 Please ensure you have the [Prelude Chrome Extension](https://chrome.google.com/webstore/detail/interview-schedule/nbimjaonnklighojgkihkipemiaimgdk) installed on your Chrome Browser.
