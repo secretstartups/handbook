@@ -60,14 +60,14 @@ The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensati
 #### Program Manager, Enablement Responsibilities
 
 - Act as project manager for recruiting operations initiatives
-- Run our talent acquisition surveys from initiation to analysis
-- Works with Senior Manager, Enablement to develop bespoke reporting for the TA function and analyze recurring metrics
+- Run our talent acquisition surveys
+- Work with Senior Manager, Enablement to develop bespoke reporting for the TA function and analyze recurring metrics
 - Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm
 - Manage procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
 - Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
 - Proactively suggest and run teambuilding and incentive programs for the team
 - Partner with TA Leadership Team and utilize project management skillset to keep the team focused on weekly metrics and OKR progress
-- With a continued focus on Diversity, inclusion and belonging, the partner with the rest of Enablement to ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
+- Ensure inclusivity in establishing processes and policies for our TA team members and candidates alike by focusing on Diversity, Inclusion, and Belonging
 
 #### Program Manager, Enablement Requirements
 
@@ -77,9 +77,48 @@ The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensati
 * Strong customer service and communication skills
 * Change Management experience
 * Ability to understand a high-level issue and conduct root cause analysis to understand issues
-* Experience analyzing metrics using Excel
+* Experience analyzing metrics using Excel (or similar software)
 * Ability to use GitLab
 * Aligns with GitLab values 
+
+
+
+### Senior Program Manager, Global Enablement
+
+The Senior Program Manager, Enablement reports to the Senior Manager, Global Enablement.
+
+#### Senior Program Manager, Enablement Job Grade
+
+The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Program Manager, Enablement Responsibilities
+
+* Recommend recruiting operations initiatives and manage them independently, including directing others on project management tasks where appropriate
+* Own and project manage talent acquisition surveys from initiation to execution to analysis
+* Oversee bespoke reporting for the TA function and analyze recurring metrics
+* Work closely with and appropriately message TA updates to team members  across all levels of the company
+* Act as subject matter expert in TA processes and employ a “continuous improvement & iteration” rhythm
+* Manage some external vendor relationships
+* Act as project owner for Talent Acquisition team meetings
+* Proactively suggest and run teambuilding and incentive programs for the team
+* Partner with TA Leadership Team and utilize project management skillset to keep the team focused on weekly metrics and OKR progress
+* Ensure inclusivity in establishing processes and policies for our TA team members and candidates alike by focusing on Diversity, Inclusion, and Belonging
+
+#### Senior Program Manager, Enablement Requirements
+
+* Experience working in a fast-paced environment
+* A strong track record of successful project execution and strong project management skills
+* Experience working independently to lead and complete projects with multiple stakeholders 
+* Ability to influence people at varying levels of seniority using data to inform recommendations to others
+* Strong organizational skills
+* Strong customer service and communication skills
+* Change Management experience
+* Ability to understand a high-level issue and conduct root cause analysis to understand issues
+* Experience analyzing metrics using Excel (or similar software)
+* Ability to use GitLab
+* Aligns with GitLab values
+
+
 
 ### Manager, Global Enablement
 
