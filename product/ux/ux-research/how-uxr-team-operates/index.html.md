@@ -74,13 +74,25 @@ Four noteworthy benefits to conducting Foundational research:
 1. The business benefits by gaining more knowledge/data in an specific area
 
 ## How UX Researcher conduct peer reviews
-UX Researchers will frequently drive research projects themselves in close collaboration with Product and/or Design.  When this occurs, UX Researchers will take part in a peer review process on the test plan and the final output of the research.  There are many benefits to a peer review process:
+UX Researchers will frequently drive research projects themselves in close collaboration with Product and/or Design.  When this occurs, UX Researchers will take part in a peer review process on the following research artifacts:
+
+- Participant screeners
+- Test plans
+  - Materials contained in the test plan can include:
+    - Scripts 
+    - Surveys 
+    - Card sort activity 
+    - etc
+- Final reports/output of the research  
+
+There are many benefits to a peer review process:
 - **Visibility** - UX Researchers will be more informed about the research being conducted outside of their direct area of coverage.
 - **Learning** - UX Researchers can learn from each other by reviewing the approaches being taken and the justification behind those approaches.
 - **Quality** - Research deliverables will be more standardized and of higher quality as a result of a peer review.
 - **Onboarding** - New UX Research hires will benefit by seeing standardized examples and learning about the quality bar to replicate.
 - **Diversity** - We value diverse views and perceptions on how the content is being interpreted.
 - **Mentoring** - UX Researchers will have more opportunities to mentor each other in their craft.
+- **Consistency** - Participant screeners, in particular, will have a more standardized approach to how we ask the same questions across the team.
 
 The UX Research peer review process is designed to be asynchonous and inclusive to all UX Researchers.  The process is as follows:
 
@@ -94,7 +106,7 @@ The UX Research peer review process is designed to be asynchonous and inclusive 
 1. **Edit** - The UX Researcher looks at the feedback, follows up on any questions, and makes any adjustments necessary.
 1. **Mark as done** - When complete, they put a green check mark emoji reaction on their original post, indicating that the peer review request has been completed and is closed.
 
-UX Researchers are all required to take part in a peer review with their test plans and final reports that they created.  Additionally, it's strongly encouraged for UX Researchers to help their peers by reviewing anything submitted through the peer review process.
+UX Researchers are all required to take part in a peer review with their participant screeners, test plans, and final reports that they've created.  Additionally, it's strongly encouraged for UX Researchers to help their peers by reviewing anything submitted through the peer review process.
 
 When reviewing suggestions from peers asynchronously, it's a best practice to provide a note or explanation when closing suggestions.  This is done to explain any rationale behind any decisions made around the suggestion and to add closure to the suggestion.
 
