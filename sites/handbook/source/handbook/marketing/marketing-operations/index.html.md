@@ -60,7 +60,7 @@ The team is split into 3 main pillars, click on them below for additional inform
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrated Marketing</a>
-    <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
+    <a href="/handbook/marketing/brand-and-product-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Developer Relations</a>
     <a href="/handbook/marketing/growth/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Growth</a>
     <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strat & Analytics</a>

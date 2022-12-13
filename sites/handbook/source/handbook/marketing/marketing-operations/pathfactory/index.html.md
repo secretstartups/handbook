@@ -12,7 +12,7 @@ description: "PathFactory is an intelligent B2B content experience platform used
 
 ## What is PathFactory?
 
-PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/inbound-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/brand-and-product-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ## What is PathFactory used for?
 
@@ -178,7 +178,7 @@ There are multiple types of PathFactory experiences that you can create under `C
 
 ### Assets
 
-When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/inbound-marketing/content/editorial-team/#case) (sentence case).
+When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#case) (sentence case).
 
 When adding localized content to Pathfactory, enter the localized title and description in the `Public Configuration` section. This is what external viewers of the content will see. Under `Internal Configuration`, enter the language with the English asset name (example: [Japanese] GitLab in Action Overview Demo). `Internal Configuration` is only viewable internally in Pathfactory.
 

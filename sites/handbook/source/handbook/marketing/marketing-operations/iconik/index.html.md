@@ -12,7 +12,7 @@ description: "Iconik is a hybrid cloud media management solution for digital pro
 
 ## About
 
-[Iconik](https://iconik.io/) is a media asset management and video collaboration platform used by the [digital production team](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) to manage video workflows, metadata, cloud storage, and collaboration.
+[Iconik](https://iconik.io/) is a media asset management and video collaboration platform used by the [digital production team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/) to manage video workflows, metadata, cloud storage, and collaboration.
 
 ## Access
 
