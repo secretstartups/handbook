@@ -36,7 +36,7 @@ GitLab Channel Partners need a landing page with information about GitLab as par
 
 * Your organization's GitLab webpage should use the Authorized Reseller logo (available on the Partner Portal) and link back to us at [about.gitlab.com](https://about.gitlab.com/).
  
-* Your webpage should include a “What Is GitLab?” paragraph which can be found in our [press kit](https://about.gitlab.com/press/press-kit/) along with our logo. You can find additional information in our [reseller marketing kit](https://about.gitlab.com/handbook/marketing/strategic-marketing/reseller-kit/). 
+* Your webpage should include a “What Is GitLab?” paragraph which can be found in our [press kit](https://about.gitlab.com/press/press-kit/) along with our logo. You can find additional information in our [reseller marketing kit](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/reseller-kit/). 
  
 * To ensure you are consistently representing our product on your website, we ask that wherever you mention the GitLab product or features, there should be a link back to the corresponding item on [about.gitlab.com](https://about.gitlab.com/).
 
