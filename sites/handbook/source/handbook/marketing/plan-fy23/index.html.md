@@ -63,7 +63,7 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 ## Glossary of terminology
 {: #glossary .gitlab-purple}
 
-- **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
+- **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
 - **[Campaign Core Team](/handbook/marketing/plan-fy23#campaign-core-teams)**: a group of marketers as functional DRIs for specific campaigns, led by marketing campaigns
 - **[Integrated Campaign](/handbook/marketing/campaigns/#overview)**: managed by Campaign Managers, these are global campaigns that are leveraged across marketing and sales to drive pipeline.
 * **[Key Account Lists)](/handbook/marketing/account-based-marketing/key-account-lists)**: key accounts determined by sales that will be a focus for integrated ABM campaigns.
