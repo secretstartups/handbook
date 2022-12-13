@@ -78,9 +78,9 @@ style legend fill:#FBFBF2, stroke: #b0b0a9
 There are two key labels that allow a team to define and manage the process:
 
 1. A **project label** that tags all issues in the process for example
-`sm_request` - is the **Strategic Marketing** label for **all** requests.   Need to explore the potential of these being common group level labels (shared across projects).   
+`sm_request` - is the **Product and Solution Marketing** label for **all** requests.   Need to explore the potential of these being common group level labels (shared across projects).   
 
-2. A set of scoped labels that define the workflow.  Here is the list of labels from the Strategic Marketing workflow:
+2. A set of scoped labels that define the workflow.  Here is the list of labels from the Product and Solution Marketing workflow:
 - `sm_req::New`
 - `sm_req::Backlog`
 - `sm_req::Assigned`
@@ -91,7 +91,7 @@ There are two key labels that allow a team to define and manage the process:
 
 Typically - you would replace the **"sm_"** with the team initials.
 
-*Important Note:  Managing a process like this based on labels, can create overhead in keeping everything in the right status. Expecting everyone to memorize all labels and right steps might be a challenge. It is possible to **automate rules/policies** that will either **automatically close issues, add a label**, etc.*  [Learn how to automate label hygiene](/handbook/marketing/strategic-marketing/getting-started/105/)
+*Important Note:  Managing a process like this based on labels, can create overhead in keeping everything in the right status. Expecting everyone to memorize all labels and right steps might be a challenge. It is possible to **automate rules/policies** that will either **automatically close issues, add a label**, etc.*  [Learn how to automate label hygiene](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/105/)
 
 ### An Issue Template Starts the process
 
@@ -99,14 +99,14 @@ Using an [issue template](https://docs.gitlab.com/ee/user/project/description_te
 
 * Issue Templates can also be **directly linked to via a URL** which makes it easy for a person requesting help to quickly open an issue template.
 
-For example this URL will open a [Strategic Marketing Request](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new?issuable_template=A-SM-Support-Request):
+For example this URL will open a [Product and Solution Marketing Request](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new?issuable_template=A-SM-Support-Request):
 
 - `https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new?issuable_template=A-SM-Support-Request`
 The key is the end of the URL `new?issuable_template=A-SM-Support-Request` which tells GitLab to open a specific template!
 
 The issue template, both describes the information that is needed to understand and prioritize the work, but also includes [Quick Actions](https://docs.gitlab.com/ee/user/project/quick_actions.html) to assign specific labels.   At the bottom of the strategic marketing template there are the following quick actions to add labels:
 
-`/label ~"sm_request" ~"Strategic Marketing" ~"sm_req::new_request" ~"mktg-status::plan"`
+`/label ~"sm_request" ~"Product and Solution Marketing" ~"sm_req::new_request" ~"mktg-status::plan"`
 
 ### How Commitment Management Works
 
