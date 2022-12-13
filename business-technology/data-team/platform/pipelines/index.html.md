@@ -173,6 +173,60 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
+## Pseudonymistaion hashed user IDs with Snowflake Database
+
+### Connecting Snowplow hashed user IDs with Snowflake Database
+
+The pseudonymization project was undertaken with the primary goal of **allowing our internal teams to string together comprehensive user journeys in a privacy-minded manner**. We intend to not reveal a user's identity, but we do intend to know what a single non-identifiable user has done. 
+And this view is needed before they purchase with us (docs, pricing, marketing pages, etc), through trial, through purchase, and then through their journey using the product. Our pseudonymization MVC is limited to Snowplow events on `SaaS`. 
+
+As such, we are not considering the pseudonymization of backend events, and we do not have a way to connect the product journey in a holistic manner. Many examples of the type of analysis we'd like to perform at the user level requiring this connection have been mentioned in [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/339891#note_671241239).
+
+Enable analysis of a user's entire `GitLab` experience, from visiting a page and clicking a `CTA` to creating an issue to starting a trial to deploying code.
+
+### Requirements
+
+1. The end user is able to join snowplow event data that contains hashed `user_id` with the production `gitlab.com` database
+1. Access to the hash secret is restricted to a minimal amount of team members
+1. No `PII` data should be visible when connected
+
+### Motivation
+
+Why do the `Product Management` and `Product Analysis` team wants to have this? There are a few reasons:
+
+1. Promised to the wider community
+1. In case of any leakage, will be much safer to have anonymized data
+1. Product Management relies on the community and their data and obligation is crucial
+1. Data will be used internally, but without the possibility to identify customers
+
+### Proposed solutions evaluation
+
+After listing down 6 potential technical approaches, the following has been listed for future evaluation. 
+| Category             | Property                                                                                          | `3.` ↩️ `DBT` + incremental models (`1.0` bad, `5.0` the best) | `4.2` ❄️ + ↩️ `Dynamic data masking` using `DBT` (`1.0` bad, `5.0` the best) |
+|----------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 🔧 Requirements      | Create a mechanism to anonymize `USER_ID` _(and similar)_ column                                  | `Yes` ✅                                                        | `Yes` ✅                                                                     |
+| 🔧 Requirements      | No `PII` data should be visible when connected                                                    | `Yes` ✅                                                        | `Yes` ✅                                                                     |
+| 🔧 Requirements      | Proposed solution must be resilient to indirect `USER_ID` _(and similar column)_ disclosure       | `Yes` ✅                                                        | `No`  ❌                                                                     |
+| 🔧 Requirements      | Prevent disclosing user identity by providing a direct mapping between pseudonymized and raw data | `Yes` ✅                                                        | `Yes` ✅                                                                     |
+| 🔧 Requirements      | Prevent disclosing user identity via discrimination attacks                                       | `Yes` ✅                                                        | `Yes` ✅                                                                     |
+| 🔧 Requirements      | Access to the hash secret is restricted to the minimal amount of team members                     | `Yes` ✅                                                        | `Yes` ✅                                                                     |
+| 🔧 Requirements      | Ability to connect with `Snowplow` data                                                           | `5.0` ⭐⭐⭐⭐⭐                                                    | `5.0` ⭐⭐⭐⭐⭐                                                                 |
+| 🔧 Requirements      | Compute costs efficiency                                                                          | `3.0` ⭐⭐⭐☆☆                                                    | `3.0` ⭐⭐⭐☆☆                                                                 | 
+| 🔧 Requirements      | Storage costs efficiency                                                                          | `1.0` ⭐☆☆☆☆                                                    | `5.0` ⭐⭐⭐⭐⭐                                                                 | 
+| 🚀 Solution          | Easiness of implementation _(anti-complexity)_                                                    | `5.0` ⭐⭐⭐⭐⭐                                                    | `4.0` ⭐⭐⭐⭐☆                                                                 | 
+| 🚀 Solution          | Horizontal scalability                                                                           | `3.0` ⭐⭐⭐☆☆                                                    | `3.0` ⭐⭐⭐☆☆                                                                 |
+| 🚀 Solution          | Vertical scalability                                                                             | `2.0` ⭐⭐☆☆☆                                                    | `2.0` ⭐⭐☆☆☆                                                                 |
+| 🚀 Solution          | Ability for the implementation                                                                    | `3.0` ⭐⭐⭐☆☆                                                    | `5.0` ⭐⭐⭐⭐⭐                                                                 | 
+| 🚀 Solution          | Ability for the maintenance                                                                       | `2.0` ⭐⭐☆☆☆                                                    | `5.0` ⭐⭐⭐⭐⭐                                                                 |
+| 🧱 Data manipulation | Data Extraction efficiency                                                                        | `2.0` ⭐⭐☆☆☆                                                    | `5.0` ⭐⭐⭐⭐⭐                                                                 |
+| 🧱 Data manipulation | Data Querying efficiency                                                                          | `5.0` ⭐⭐⭐⭐⭐                                                    | `3.0` ⭐⭐⭐☆☆                                                                 |
+| 🧱 Data manipulation | Data Filtering efficiency                                                                         | `5.0` ⭐⭐⭐⭐⭐                                                    | `1.0` ⭐☆☆☆☆                                                                 |
+| 🧱 Data manipulation | Data Join efficiency                                                                              | `5.0` ⭐⭐⭐⭐⭐                                                    | `1.0` ⭐☆☆☆☆                                                                 |
+| 📦 **Summary**       | **Summary**                                                                                       | **Initial effort is higher, later is lower**                   | **Initial effort lower, joins are difficult**                               | 
+
+The comprehensive guildeline should be found [in the README.md file](https://gitlab.com/gitlab-data/runbooks/-/blob/main/pseudonymized_data_spike/README.md)  with all technical details and a deep dive approach.
+
+
 ## GitLab Ops Database
 
 Gitlaop ops database refers to the database instance of `ops.gitlab.net`. The infrastructure setup is done in a way that a daily restoration of the below-listed tables in a database [ops-db-restore](https://console.cloud.google.com/sql/instances/ops-db-restore/overview?project=gitlab-analysis)  is managed inside the GitLab-analysis GCP project.
