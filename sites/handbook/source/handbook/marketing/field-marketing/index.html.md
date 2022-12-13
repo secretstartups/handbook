@@ -75,7 +75,7 @@ Executive Roundtables can be run virtual or in-person and differ from webcasts/e
 Below are best practices when running a roundtable:
 
 - Content creation - FMM to work with Sales Managers to decide on most relevant or hot topics in the region
-- Speaker request - Put through a Strategic Marketing Support Request and fill out the template
+- Speaker request - Put through a Product and Solution Marketing Support Request and fill out the template
 - [Example of scripts](https://docs.google.com/document/d/1iy7AreiMM7seZM_EidixqdUw-OG__-cnl6pihqH72eY/edit#heading=h.btpndxf36cvl) for host and GitLab presenter
 - [Example of meeting notes](https://docs.google.com/document/d/1T2m3Izn66u9xuWGDHmR5_YJcWdUhKupfVlWVPjWGLL0/edit) to document conversations during the session
 - Ensure questions are prepared between host and GitLab presenter beforehand to lead the conversations within the session
@@ -823,7 +823,7 @@ Details on how Field Marketing shares quarterly plans with the Digital team can 
 By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
 
 #### Asks into the Customer Reference team 
-After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/strategic-marketing/customer-reference-program/) and agree on asks for the quarter.  
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.  
 
 You will note in Allocadia in the details panel if you need a customer speaker. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
@@ -1171,7 +1171,7 @@ TBD
 
 **Google Drive and Slides**
 
-- Follow the instructions [HERE](/handbook/marketing/strategic-marketing/demo/conference-booth-setup/#ipads) to set up Google Drive and Slides
+- Follow the instructions [HERE](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/conference-booth-setup/#ipads) to set up Google Drive and Slides
 
 # Working with Field Marketing
 
@@ -1445,11 +1445,11 @@ We feel like this info is too good to delete, and while we currently aren't usin
 
 The below steps can be followed to set up and run a giveaway campaign using Printfection for field marketing. If you come across any steps that you can’t follow in Printfection, post in the [#swag Slack channel](https://app.slack.com/client/T02592416/C66R8N98F) so a Community Advocate can update your permissions levels.
 
-1. Register and send the items you will be using to Printfection by following [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#send-items-to-printfection-warehouse)
+1. Register and send the items you will be using to Printfection by following [these steps](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
 1. Bundle your items together by creating a [Giveaway Kit](https://help.printfection.com/hc/en-us/articles/360006335613-How-to-start-a-new-kit) in Printfection
     - The picture of the Giveaway Kit is what the customer will see. If you’d like a different image to show than what Printfection puts together as a preview, be sure to provide this to the support team
     - Select Standard packaging or choose to create a custom box (a new custom box will incur additional expenses). If you’d like to use already created custom packaging (such as the GitLab branded Poly Mailers), check with the advocates in the #swag slack channel to make sure it’s okay for you to use
-1. Set up a [Giveaway Campaign](/handbook/marketing/corporate-marketing/merchandise-handling/#create-a-new-giveaway-campaign)
+1. Set up a [Giveaway Campaign](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
     - [Add the kit](https://help.printfection.com/hc/en-us/articles/360026589734-Using-kits-in-Giveaway-campaigns) you created as an item in the Giveaway Campaign
     - The name of the giveaway campaign will be visible to the customer
     - Change from Paused to Running when you’re ready to run the campaign
@@ -1464,13 +1464,13 @@ using the Direct Mail campaign status progressions. (for example, when a person'
 1. When the campaign is running, monitor Redemptions, Shipping, and Costs under the Giveaway Campaign Overview in Printfection
     - Update redemptions/shipments in event spreadsheet if needed to notify SDRs (add additional columns to track)
     - Update SFDC status for leads once they redeem a code or item is shipped, depending on what was decided in Step 7
-1. When a campaign is over and you no longer need the items in Printfection, follow [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#removing-products-from-printfection) to remove items from Printfection. If inventory is not yet 0, you will need to ship the items back to yourself/desired recipient before archiving. Until this is done, $25/month will still be charged per item. If relevant, the MPM must be instructed as to when the printfection codes are no longer needed on person records. This will signal that the MPM can now run a batch smart campaign to remove the printfection codes from the person records, thus freeing up the custom field for use in the future.
+1. When a campaign is over and you no longer need the items in Printfection, follow [these steps](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) to remove items from Printfection. If inventory is not yet 0, you will need to ship the items back to yourself/desired recipient before archiving. Until this is done, $25/month will still be charged per item. If relevant, the MPM must be instructed as to when the printfection codes are no longer needed on person records. This will signal that the MPM can now run a batch smart campaign to remove the printfection codes from the person records, thus freeing up the custom field for use in the future.
 
 **Fees Involved:**
 
 - Cost of the items you are using in the giveaway
 - Fulfillment and shipping fees for each order placed once the giveaway is running (there is a Cost Estimate under campaign settings but please note actuals have ended up higher than their estimate so far) These will be on a Printfection invoice, more details to come on the invoice process.
-- $25/month per item stocked in Printfection. This will not hit your field marketing Allocadia ID, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
+- $25/month per item stocked in Printfection. This will not hit your field marketing Allocadia ID, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
 
 </details>
 
