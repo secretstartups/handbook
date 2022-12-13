@@ -243,6 +243,10 @@ Go to **Settings > In Meeting (Advanced)** and click next to "Show a 'Join from 
 The browser version of Zoom is not as full-featured as the regular client, but it doesn't force an invitee to download the Zoom client.
 This also mitigates the issue of potential weak communication encryption since the browser uses HTTPS instead of Zoom's proprietary encryption scheme.
 
+### Large meeting considerations
+
+It can be distracting when a call with a large number of attendees has folks joining unmuted. For [Assembly](https://about.gitlab.com/company/gitlab-assembly), CEO [AMAs](https://about.gitlab.com/handbook/communication/ask-me-anything), and other meetings in which we expect an attendance of over 25 folks, meetings should be scheduled, so that folks enter on mute. These folks can then opt to unmute as required to participate in the conversation. 
+
 ---
 
 ## During your Zoom Meeting
