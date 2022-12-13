@@ -72,4 +72,4 @@ Our youtube channels for [Verify (CI)](https://www.youtube.com/watch?v=uf1C_95Db
 
 ### Related pages
 
-- [Product marketing CI usecase](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+- [Product marketing CI usecase](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)

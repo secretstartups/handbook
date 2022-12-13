@@ -35,7 +35,7 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 * [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
 
-* The [Technical Marketing handbook page](/handbook/marketing/strategic-marketing/technical-marketing/) contains links to product demos, webinars and release videos.  
+* The [Technical Marketing handbook page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/technical-marketing/) contains links to product demos, webinars and release videos.  
 
 * GitLab's Fiscal Year runs from February 1 to January 31. [Here](https://about.gitlab.com/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
 

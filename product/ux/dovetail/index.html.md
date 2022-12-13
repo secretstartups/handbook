@@ -207,7 +207,7 @@ Gitlab Global Tags are organized into six categories:
 | Delaney, Development Team Lead | Participant’s role or tasks match with [Delaney](/handbook/product/personas/#delaney-development-team-lead). |
 | Presley, Product Designer | Participant’s role or tasks match with [Presley](/handbook/product/personas/#presley-product-designer). |
 | Sasha, Software Developer | Participant’s role or tasks match with [Sasha](/handbook/product/personas/#sasha-software-developer). |
-| Devon, DevOps Engineer | Participant’s role or tasks match with [Devon](/handbook/marketing/strategic-marketing/persona-snippets/user-personas/devon/). |
+| Devon, DevOps Engineer | Participant’s role or tasks match with [Devon](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/persona-snippets/user-personas/devon/). |
 | Sidney, Systems Administrator | Participant’s role or tasks match with [Sidney](/handbook/product/personas/#sidney-systems-administrator). |
 | Sam, Security Analyst | Participant’s role or tasks match with [Sam](/handbook/product/personas/#sam-security-analyst). |
 | Rachel, Release Manager | Participant’s role or tasks match with [Rachel](/handbook/product/personas/#rachel-release-manager). |
