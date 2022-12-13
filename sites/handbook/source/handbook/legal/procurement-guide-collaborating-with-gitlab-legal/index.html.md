@@ -31,7 +31,7 @@ GitLab Legal will review any and all purchases made to ensure adequate terms are
 - All vendors must agree to comply and act in accordance with:
     - [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
     - [GitLab Moder Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
-    - In order to use GitLab Name and Logo [Brand Guidelines Page](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines/)
+    - In order to use GitLab Name and Logo [Brand Guidelines Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
 
 
 ## Additional Requests & Information

@@ -45,7 +45,7 @@ Just because something is available for free on the internet (including on Googl
 
 #### Do
 
-* When using the **logo** or **wordmark** of a customer, partner, or other third party with which GitLab has a commercial relationship, for customers, refer to the [Customer Reference Program handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/). Discuss with [#customer_references](https://app.slack.com/client/T02592416/CLFCPMF8E) if unsure. For use of a partner's logo, discuss with [#channel-marketing](https://app.slack.com/client/T02592416/C013DF4A7QV) to confirm that rights and approvals are in place for your proposed use under the Partner Agreement.
+* When using the **logo** or **wordmark** of a customer, partner, or other third party with which GitLab has a commercial relationship, for customers, refer to the [Customer Reference Program handbook page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/). Discuss with [#customer_references](https://app.slack.com/client/T02592416/CLFCPMF8E) if unsure. For use of a partner's logo, discuss with [#channel-marketing](https://app.slack.com/client/T02592416/C013DF4A7QV) to confirm that rights and approvals are in place for your proposed use under the Partner Agreement.
 
 * Use **wordmarks** referentially: refer to the wordmark owner, or the owner’s products and services associated with the mark, when the company, product or service in question cannot be easily identified without using the mark. For example, it’s much easier to refer to _GitLab_ using the wordmark _GitLab_ than to _the company behind the DevOps platform delivered as a single application_.
 

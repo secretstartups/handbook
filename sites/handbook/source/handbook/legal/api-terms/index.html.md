@@ -64,7 +64,7 @@ F. In the event of an inconsistency between these API Terms and those of an agre
     
 2.3. GitLab will retain all intellectual property rights relating to any suggestions, ideas, enhancement requests, feedback, or other recommendations you provide relating to the GitLab APIs and GitLab Software (“**Feedback Materials**”), which are hereby assigned to GitLab. Feedback Materials will not include any intellectual property owned by you.
     
-2.4. Your use of any registered or unregistered GitLab trademarks is subject to the GitLab [Trademark Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines) and [Branding Standards](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/), as updated from time to time.
+2.4. Your use of any registered or unregistered GitLab trademarks is subject to the GitLab [Trademark Guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines) and [Branding Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), as updated from time to time.
 
 ## 3. Processing of Personal Data
 

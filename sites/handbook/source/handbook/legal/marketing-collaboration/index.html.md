@@ -47,7 +47,7 @@ Note: Trademarks aren’t just words.  As mentioned above, trademarks can be sym
 * **Sounds**  NBC trademarked the chimes that you hear during intermissions. Intel has a trademarked sound. 
 * **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
 
-Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
+Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 
 ### Third-party use of GitLab trademarks on marketing materials
 - An Authorization to use GitLab Materials must be signed by any third party wanting to include GitLab's name or logo on their website or other marketing materials.
@@ -82,9 +82,9 @@ If you’re not a GitLab team member, please share any reports of suspected infr
 ### Using Third-party Trademarks
 Any use of third-party trademarks should be covered by a Trademark Use Agreement. Various Marketing teams manage these agreements, requesting help from Legal team contract managers only when terms need to be negotiated. If you would like to use a 3rd party logo, please work with the appropriate Marketing team to ensure there is a trademark use agreement in place or to request such an agreement. 
 
-- [Channel Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#how-to-ask-for-workassistance-from-channel-marketing) 
-- [Partner Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/#how-to-engage-partner-marketing) 
-- [Customer Reference Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program)
+- [Channel Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/channel-marketing/#how-to-ask-for-workassistance-from-channel-marketing) 
+- [Partner Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/partner-marketing/#how-to-engage-partner-marketing) 
+- [Customer Reference Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy)
 
 ## Promotional Games
 
