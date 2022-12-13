@@ -26,7 +26,7 @@ This can be identified through the CustomerDot account edit page, the account wo
 
 Customers purchasing through reseller would not have access to their [CustomerDot](https://customers.gitlab.com/customers/sign_in) account. Future adjustment must be done through the reseller.
 
-For GitLab.com customers, we would need to assist them with subscription provisioning.
+For GitLab.com customers, we would need to [assist them with subscription provisioning](../saas/associate_subscription_and_namespace.html).
 
 **NOTE**: This also applies for purchases through GCP and AWS, the customer would not have access to [CustomerDot](https://customers.gitlab.com/customers/sign_in). 
 
