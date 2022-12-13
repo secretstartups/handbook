@@ -1267,9 +1267,10 @@ Use your notification settings liberally. Depending on how you use Slack this co
 
 Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration.
 
-The following tips provide ways to work respectfully with others given this context:
+The following tips provide ways to work respectfully with others given this context, though is not an exhaustive list:
 
 - If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
+- You also do not need to `@` mention someone if they are part of a Slack thread unless you need their attention as soon as possible, since Slack has a dedicated view for threads.
 - Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
 - Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open Slack, hover your cursor at the top of your screen, click Slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
 - Do not feel obligated to respond to Slack messages when you are not working.
