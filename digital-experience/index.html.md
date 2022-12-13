@@ -445,8 +445,8 @@ Beginning in FY23Q3, all changes to the marketing site made by team members outs
 1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
     1. Here's our documentation about how to use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
     1. Want to learn more about our CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/netlifycms/)
-2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/) for these needs.
-3. **Create branded assets, custom graphics, illustrations**. Our [Brand team](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/) is so good at this, you definitely want their expertise.
+2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/) for these needs.
+3. **Create branded assets, custom graphics, illustrations**. Our [Brand design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) is so good at this, you definitely want their expertise.
 
 ### Issue template to submit an idea to drive our business goals
 
@@ -498,7 +498,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <ul>
       <li>Use <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion">this template</a> to request addition to the content calendar for homepage promotion</li>
       <li>If this is for a campaign, please put in the request as part of the initial campaign distribution plan</li>
-      <li>For more information on this process click <a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/content/#homepage-promotion-guidelines">here</a></li>
+      <li>For more information on this process click <a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/#homepage-promotion-guidelines">here</a></li>
     </ul>
 </details>
 <details>
@@ -541,7 +541,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <ul>
       <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md">All Merge Requests</a></li>
       <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md">AB Test MR</a></li>
-      <li><a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#diversity-inclusion-and-belonging">Diversity, Inclusion, and Belonging</a></li>
+      <li><a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#diversity-inclusion-and-belonging">Diversity, Inclusion, and Belonging</a></li>
       <li><a href="https://about.gitlab.com/handbook/marketing/digital-experience/website/merge-requests/#website-specific-reviews">Key page regression testing</a></li>
       <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md">Redirect MR</a></li>
     </ul>

@@ -112,7 +112,7 @@ Examples of companies who have product/features pages:
 
 There are two comparison sections on our website, `/compare/` and [DevOps tools](/competition/).
 
-The DevOps tools section provides an in-depth, feature by feature comparison of GitLab and our competitors. Pages in the DevOps tools section are maintained by the Competitive Intelligence team, which is part of the [Strategic Marketing](/handbook/marketing/strategic-marketing/) team.
+The DevOps tools section provides an in-depth, feature by feature comparison of GitLab and our competitors. Pages in the DevOps tools section are maintained by the Competitive Intelligence team, which is part of the [Product and Solution Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team.
 
 Pages in `/compare/` are shorter and focused on a single Call to Action that offers relevant resources to visitors arriving via paid advertising. Pages in `/compare/` are maintained by Growth Marketing team and Marketing Program Managers.
 
@@ -730,7 +730,7 @@ If you need to **temporarily** preview an item in the review app before release,
 
 ### What logos do we have permission to use?
 
-On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/#approved-customer-logos-for-promotion)
+On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#approved-customer-logos-for-promotion)
 </details>
 <details markdown="1">
 

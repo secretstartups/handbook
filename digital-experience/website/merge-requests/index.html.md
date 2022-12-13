@@ -58,11 +58,11 @@ In our continuous integration environment, people with merge permissions are the
     * [CSS guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/scss.html).
     * [Javascript guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/javascript.html).
     * [Ruby guidelines](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec)
-* [Diversity, Inclusion, and Belonging checklist](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#diversity-inclusion-and-belonging)
-* [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+* [Diversity, Inclusion, and Belonging checklist](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#diversity-inclusion-and-belonging)
+* [Marketing writing style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 * [Marketing naming conventions](/handbook/marketing/digital-experience/website/#naming-conventions).
 * [Marketing tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice)
-* [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
+* [Brand Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 
 ## Review if relevant
 
@@ -196,10 +196,10 @@ We use javascript extensively throughout the website. Before updating a library,
     * [Javascript guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/javascript.html).
     * [Ruby guidelines](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec)
 * [GitLab Engineering's code review handbook](/handbook/engineering/workflow/code-review/).
-* [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+* [Marketing writing style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 * [Marketing naming conventions](/handbook/marketing/digital-experience/website/#naming-conventions).
 * [Marketing tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice)
-* [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines).
+* [Brand Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-guidelines).
 
 ### Gotchas within the GitLab interface
 
