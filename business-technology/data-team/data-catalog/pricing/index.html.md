@@ -61,7 +61,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 <summary markdown='span'>
   Key Terms
 </summary>
-* <a href="https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview">Product Category, Product Tier, Delivery</a>
+* <a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview">Product Category, Product Tier, Delivery</a>
 * <a href="https://about.giab.com/handbook/sales/field-operations/gtm-resources/#segmentation">Sales Segment</a>
 * <a href="https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment">Account Owner Team</a>
 * <a href="https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer)"> Customer</a>

@@ -63,7 +63,7 @@ While exploring the dashboard, you will want to understand the following **KEY T
 - [Instance](https://docs.gitlab.com/ee/development/product_analytics/event_dictionary.html)
 - Instance User Count - the total number of users on an instance
 - [Paid User](/handbook/product/performance-indicators/#paid-user)
-- [Product Tier](/handbook/marketing/strategic-marketing/tiers/#overview)
+- [Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 - [Service Ping](https://docs.gitlab.com/ee/development/product_analytics/event_dictionary.html)
 - [Version](/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
 

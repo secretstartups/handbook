@@ -60,7 +60,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
   for xMAU and PIs. This value represents the number of registered users on an installation vs 
   the number of users who perform a specific action or event.
 - **[Paid User](/handbook/business-technology/data-team/data-catalog/xmau-analysis/index.html#paid-xmau-definition)**
-- **[Product Tier](/handbook/marketing/strategic-marketing/tiers/#overview)**
+- **[Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)**
 - **[Service Ping](https://docs.gitlab.com/ee/development/service_ping/)**
 - **[Version](/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)**
  
