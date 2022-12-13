@@ -1045,9 +1045,9 @@ If a term is ambiguous don't use it, for example our [hiring definitions](/handb
 
 Make sure that projects and working groups have clear and direct names. Prefer "CI Spend Reduction Working Group" to "Project Raven Working Group".
 
-Make sure that people can infer as much as possible from the word, for example our [subscription options](/handbook/marketing/strategic-marketing/tiers/) allow you to know if someone is using self-managed or GitLab.com.
+Make sure that people can infer as much as possible from the word, for example our [subscription options](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) allow you to know if someone is using self-managed or GitLab.com.
 
-Make sure terms don't overlap without clearly defining how and why, for example see our [tier definitions](/handbook/marketing/strategic-marketing/tiers/#definitions).
+Make sure terms don't overlap without clearly defining how and why, for example see our [tier definitions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#definitions).
 
 Keep terms to one or at most two words to prevent people from introducing ambiguity by shortening a term. When using two words make the first word unique because people tend to drop the second word more often.
 
