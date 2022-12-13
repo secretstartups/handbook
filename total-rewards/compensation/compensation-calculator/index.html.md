@@ -162,6 +162,9 @@ If any one, or a combination of, the following statistics is met, a benchmark re
    * Government policy announcements related to a specific business sector.  
    * Engagement Survey Results. 
 
+**Timing of requests for benchmark adjustments:**
+Requests to review a benchmark adjustment can be requested between Feb 1 and Oct 1 of the fiscal year, with the latest effective date of the potential benchmark update being Nov 1. There will not be any benchmark adjustment reviews in Q4 due to the timing of the annual review of benchmarks in Q4.
+
 **Summary of the process:**
 Once data has been collected, the Total Rewards team will review the compensation expectations. During this review, we will look at survey data and candidate expectations (specifically declines due to compensation) to recommend an adjustment to our SF benchmark and target percentile for the role. Total Rewards will coordinate with FP&A and the department leader to draft a business case to be presented to the egroup leader. The business case would include:
   * A google sheet with market data, candidate expectations, and impact to the current team.
