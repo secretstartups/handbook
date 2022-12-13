@@ -105,7 +105,7 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-- <b>[GTM Motion](/handbook/marketing/plan-fy22/#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
+- <b>[GTM Motion](/handbook/marketing/plan-fy22/#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
 - <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22/#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
 - <b>[Theme](/handbook/marketing/plan-fy22/#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
 - <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22/#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
@@ -137,7 +137,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc](/handbook/marketing/strategic-marketing/usecase-gtm/), including:
+- [Solution GTM Strategy Doc](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/), including:
     - Buyer personas
     - Messaging and positioning framework
     - Market landscape
