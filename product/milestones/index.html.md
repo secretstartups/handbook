@@ -13,7 +13,24 @@ When planning, Product Managers plan to GitLab milestones. Here is the process f
 
 ## Product Milestone Creation
 
-**One quarter ahead**, the Product Operations team will create all of the necessary milestones for the next quarter:
+**One quarter ahead**, the Product Operations team will create all of the necessary milestones for the next quarter. Our standard practice is to have the Major release every May, resulting in:
+
+```
+XX.0 - May 22
+XX.1 - June 22
+XX.2 - July 22
+XX.3 - August 22
+XX.4 - September 22
+XX.5 - October 22
+XX.6 - November 22
+XX.7 - December 22
+XX.8 - January 22
+XX.9 - February 22
+XX.10 - March 22
+XX.11 - April 22
+```
+
+To update the milestones in GitLab, Product Operations follows these steps:
 
 ### Step 1: .org
 
