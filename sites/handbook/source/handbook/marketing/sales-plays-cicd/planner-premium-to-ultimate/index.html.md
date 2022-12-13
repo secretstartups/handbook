@@ -210,7 +210,7 @@ tbd
 
 #### **Objection handling: WIP** {#objection-handling-wip}
 
-See [Security FAQ slides](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit) and Objections on [DevSecOps use case page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
+See [Security FAQ slides](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit) and Objections on [DevSecOps use case page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#potential-objections)
 
 * Why is the price 5x?
    * What features or value justify the price jump?
