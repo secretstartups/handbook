@@ -45,7 +45,7 @@ description: "This page has all the information for the FO GitOps sales play."
 | 2. Do the following before sending out a trial key<br> - Mutually agree upon **success criteria** for the 30-day evaluation period (“If at the end of 30 days, we prove [these criteria], then we will consider this trial a success")<br><br>Success criteria examples:<br> - Store and Run an Ansible Playbook in GitLab<br> - Incorporate the above into a pipeline<br> - Scan x% of our code base (because of the language)<br> - Build a CI pipeline and have a basic one working |
 | 3. Send an [email](https://docs.google.com/document/d/1PSwEBCxkQMgMmtLKocNfP0EKTLnWIr2FZimG0yv1gTM/edit#bookmark=id.5grp5yaens0e) outlining and confirming the success criteria |
 | 4. Work with your SA to showcase a technical demo of GitOps and/or share [technical demos, webinars, and other resources](https://learn.gitlab.com/l/gitops-gtm-content). |
-| 5. Share [customer stories](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/#customer-stories) and [Gartner Peer Insights](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#gartner-peer-insights) |
+| 5. Share [customer stories](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/#customer-stories) and [Gartner Peer Insights](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#gartner-peer-insights) |
 | 6. After each call during the trial period, send an [email](https://docs.google.com/document/d/1PSwEBCxkQMgMmtLKocNfP0EKTLnWIr2FZimG0yv1gTM/edit#bookmark=id.6tok4lob9uox) with the progress achieved against the success criteria and what should be worked on the following week. |
 
 
