@@ -1116,7 +1116,7 @@ It is a required field.
 
 - `stage`: the [stage](/stages-devops-lifecycle/) the feature belongs to (lowercase):
 
-  - [`manage`](/stages-devops-lifecycle/manage/)
+  - [`manage`](/stages-devops-lifecycle/)
   - [`plan`](/stages-devops-lifecycle/plan/)
   - [`create`](/stages-devops-lifecycle/create/)
   - [`verify`](/stages-devops-lifecycle/verify/)
