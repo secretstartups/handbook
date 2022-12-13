@@ -44,7 +44,7 @@ Managers know in `#spt_managers`.*
 | Marketing        | Community Relations | John Coghlan        | TBD                 | weekly team meeting |
 | Marketing        | Open Source Prog.   | Bryan Behrenshausen | Andrew Conrad | weekly team meeting |
 | Customer Success | Customer Success    | Kristen Lawrence    | TBD                        | weekly on Fri join EMEA scrum |
-| Sales            | Sales               | TBD                 | Mike Dunninger             | TBD |
+| Sales            | Sales               | TBD                 | Mike Dunninger / Tine Sørensen            | TBD |
 | Security         | Security Operations | Jan Urbanc          | Brie Carranza              | N/A |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
