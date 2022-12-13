@@ -102,7 +102,7 @@ If you have followed the [process of commenting on issues](#gitlab-issues) and h
 
 #### CSM Feedback Process 
 
-The Product [Customer Advisory Board](/handbook/marketing/strategic-marketing/customer-reference-program/CAB/) is an important part in making sure our Product team regularly receives feedback from customers, as well as an opportunity for customers to interact with each other. If a CSM has a customer on the CAB, it's worthwhile to stay up to date on what's being discussed in CAB meetings, and the Product team has asked the CSMs to review recordings and/or notes and document any feedback customers may have provided during these meetings. The process is as follows:
+The Product [Customer Advisory Board](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/) is an important part in making sure our Product team regularly receives feedback from customers, as well as an opportunity for customers to interact with each other. If a CSM has a customer on the CAB, it's worthwhile to stay up to date on what's being discussed in CAB meetings, and the Product team has asked the CSMs to review recordings and/or notes and document any feedback customers may have provided during these meetings. The process is as follows:
 
 1. The Customer Reference Manager (CRM) creates a “CAB CSM Follow up” [issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/new?issue%5Bmilestone_id%5D=) in the CAB project and shares relevant links 
 1. The CRM tags the CSMs of any customer who has attended in the issue to review the CAB recordings, notes, and transcripts, which are linked in the issue
@@ -111,7 +111,7 @@ The Product [Customer Advisory Board](/handbook/marketing/strategic-marketing/cu
 1. The CSM returns to the issue the CRM created and checks off their name for completion
 1. The CRM schedules an annual meeting with the CSM and Product teams to review the `~CAB Takeaway` label board 
 
-For more information, join the `cab-shared` and `cab-shared-internal` Slack channels, and review the [proposal slide deck](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. To nominate a customer to be a CAB member, please view [the CAB handbook page](/handbook/marketing/strategic-marketing/customer-reference-program/CAB/#cab-nomination-process).
+For more information, join the `cab-shared` and `cab-shared-internal` Slack channels, and review the [proposal slide deck](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. To nominate a customer to be a CAB member, please view [the CAB handbook page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/#cab-nomination-process).
 
 #### Product Management and Product Monetization Feedback Process
 

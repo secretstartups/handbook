@@ -29,22 +29,22 @@ The first step in the process of building a Use Case adoption score starts with 
 
 <details>
   <summary markdown="span"> Use Case Resource Pages </summary>
-
-  - [SCM](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
+  - [SCM](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
   <br>
-  - [CI](urhttps://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-recommendationl)
+  - [CI](urhttps://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-recommendationl)
   <br>
-  - [CD](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/#adoption-recommendation)
+  - [CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-recommendation)]
   <br>
-  - [DevSecOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+  - [DevSecOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
   <br>
-  - [Compliance](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+  - [Compliance](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/)
   <br>
-  - [Artifact Management (Package](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/package/)
+  - [Artifact Management (Package](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/package/)
   <br>
-  - [GitOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#adoption-recommendation)
+  - [GitOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#adoption-recommendation)
   <br>
-  - [Agile](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/agile/#adoption-recommendation)
+  - [Agile](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/#adoption-recommendation)
+  </details>
 
 </details>
 
@@ -72,7 +72,7 @@ The following primary and ancillary metrics are used to determine a customer's C
 <br>
 ![CI Adoption Scoring](https://lucid.app/publicSegments/view/14463ed0-bdf2-47a1-998b-40a6bdba9986/image.png)
 <br>
-[Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-guide)
+[Adoption Guide Reference Link](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-guide)
 
 #### Resources
 
@@ -81,7 +81,7 @@ The following primary and ancillary metrics are used to determine a customer's C
     - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
         - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
-- [Value Statements for CI Adoption Score](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
+- [Value Statements for CI Adoption Score](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
     - This should help guide the conversation around how CI Adoption is measured and how to improve adoption.
 
 #### Additional CSM enablement 
@@ -102,7 +102,7 @@ In this (internal) video a fellow CSM walks you through:
 - CI Adoption Scoring Walk-through 
     - [Session 1](https://youtu.be/E4IMgFWGkNM) (internal only)
     - [Session 2](https://chorus.ai/meeting/E4F00AFC0C4A4036A7AC370653A50112?) (internal only)
-    - [Value Statements for CI Adoption](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
+    - [Value Statements for CI Adoption](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
 
 
 ### DevSecOps adoption scoring
@@ -120,7 +120,7 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
    - In order to generate the slide - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
         - Instructions on using the sheet can be found in this Artifact Generator How to [internal video](https://youtu.be/pLp2Y0oZuc0)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
-- [Value Statements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
+- [Value Statements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
 - Additional CSM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
