@@ -210,10 +210,10 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
 * [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#fy23-new-planned-content-events)
 * [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850)
-* [Handbook: CI Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
-* [Handbook: CD Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/)
-* [Handbook: CI Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/message-house/)
-* [Handbook: CD Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/message-house/)
+* [Handbook: CI Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)
+* [Handbook: CD Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/)
+* [Handbook: CI Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/message-house/)
+* [Handbook: CD Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/message-house/)
 * [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 * [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/)
 * [2022-04-07 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1mqYScmF1bjON0PsjfurmsChcVdCkMsjkDvTK5YyOlIQ/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
@@ -235,8 +235,8 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#fy23-new-planned-content-events)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#busts_in_silhouette-campaign-core-team)
 * [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858)
-* [Handbook: DevOps Platform Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
-* [Handbook: DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/message-house/)
+* [Handbook: DevOps Platform Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)
+* [Handbook: DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/)
 * [Website: DevOps Platform Solution Page](https://about.gitlab.com/solutions/devops-platform/)
 * [2022-04-05 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1SaUSVSMr2vviMtZ6B30ld-or1bd4TuUjMn0EPFWT1QU/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 * [2022-10-28 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1yGif0bLL2xiC_fFUVzM4eSRcU9g-aOkqpPVAElby1KY/edit#slide=id.gaf9c1b1f24_0_0) - GitLab Team Members Only
@@ -254,7 +254,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 #### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c)
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
-* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+* [Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
 * [Campaign Review 2021-07-26](https://docs.google.com/presentation/d/1gPMLjIRPNOCt8DqHUWYdwxW2tNH528qg_YbmZaDYzl8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
 * [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
