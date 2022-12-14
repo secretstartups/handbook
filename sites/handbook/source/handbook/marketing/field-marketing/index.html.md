@@ -533,7 +533,10 @@ There are times that Field Marketing will run campaigns that involve building a 
 When collecting addresses on our Marketo landing pages, make sure to always include the following verbiage on the page - `By giving us your address, you are giving us permission to mail items to your home or office. We will not use this data for any other purposes.`
 
 ## Pulling Addresses for Swag Sends
-Please note that due to PII compliancy, addresses collected in Marketo landing pages are not synced to SFDC. As a result, Marketing Ops support is required to pull the address list from Marketo (Field Marketing does not have this level of access in Marketo). Once the report is downloaded, Marketing Ops will then also delete the PII information directly in Marketo. To request this support, please review [this page](/handbook/marketing/marketing-operations/marketo/#list-exports) and open an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request) to specify when a list pull and PII deletion is needed. Also remember to delete PII from any order spreadsheets once swag has shipped.
+Please note that due to PII compliancy, addresses collected in Marketo landing pages are not synced to SFDC. As a result, Marketing Ops support is required to pull the address list from Marketo (Field Marketing does not have this level of access in Marketo). 
+
+## Removing PII from Marketo
+Once the report is downloaded (or the event/tactic has ended and all swag has been sent), Marketing Ops will then also delete the PII information directly in Marketo. To request this support, please review [this page](/handbook/marketing/marketing-operations/marketo/#list-exports) and open an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request) to specify when a list pull and PII deletion is needed. Also remember to delete PII from any order spreadsheets once swag has shipped.
 
 # Field Marketing Event Copy Deadline Process
 
