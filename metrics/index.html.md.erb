@@ -78,8 +78,8 @@ The links below take you to a handbook dashboard page which covers metrics from 
 * [Data Science Section Dashboards](/handbook/engineering/metrics/data-science/)
   * [Anti-Abuse Stage Dashboards](/handbook/engineering/metrics/data-science/anti-abuse/)
     * [Anti-Abuse Group Dashboards](/handbook/engineering/metrics/data-science/anti-abuse/anti-abuse)
-  * [Applied Machine Learning Group Dashboards](/handbook/engineering/metrics/data-science/modelops/applied-ml)
-  * [Applied Machine Learning Group Dashboards](/handbook/engineering/metrics/data-science/modelops/applied-ml)
+  * [AI Assisted Group Dashboards](/handbook/engineering/metrics/data-science/modelops/ai-assisted)
+  * [AI Assisted Group Dashboards](/handbook/engineering/metrics/data-science/modelops/ai-assisted)
   * [MLOps Group Dashboards](/handbook/engineering/metrics/data-science/modelops/mlops)
   * [DataOps Group Dashboards](/handbook/engineering/metrics/data-science/modelops/dataops)
 
@@ -177,7 +177,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
 
 1. `~"type::bug"`: Defects in shipped code and fixes for those defects. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"bug::performance"`: Performance defects or response time degradation
-  - `~"bug::availability"`: Defects related to GitLab SaaS availability. See [the definition](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) for more guidance. 
+  - `~"bug::availability"`: Defects related to GitLab SaaS availability. See [the definition](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) for more guidance.
   - `~"bug::vulnerability"`: Defects related to Security Vulnerabilities
   - `~"bug::mobile"`: Defects encountered on Mobile Devices
   - `~"bug::functional"`: Functional defects resulting from feature changes
@@ -190,7 +190,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
 1. `~"type::maintenance"`: Upkeeping efforts & catch-up corrective improvements that are not Features nor Bugs. This includes restructuring for long-term maintainability, stability, reducing technical debt, improving the contributor experience, or upgrading dependencies. For example: [Refactoring the CI YAML config parser](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/15060), [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
   - `~"maintenance::refactor"`: Simplifying or restructuring existing code or documentation
   - `~"maintenance::dependency"`: Dependency updates and their version upgrades
-  - `~"maintenance::scalability"`: Modification to improve the scalability of GitLab that is not a user facing change or performance improvement. For example changing a column from INT to BIGINT. 
+  - `~"maintenance::scalability"`: Modification to improve the scalability of GitLab that is not a user facing change or performance improvement. For example changing a column from INT to BIGINT.
   - `~"maintenance::usability"`: General improvements to product usability that are unrelated to feature prioritization. For example, [UI component](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/80903) and [UI text](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/80457) updates for consistency with Pajamas and [usability improvements](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/79888).
   - `~"maintenance::test-gap"`: Test coverage improvements that were not included in feature prioritization.
   - `~"maintenance::pipelines"`: Pipeline related changes.
@@ -205,10 +205,10 @@ Classifying work types may require context. All work to deliver a feature with s
 
 Large efforts will occasionally undergo a spike to identify & research technical approaches to complete the work. Spike efforts shall be classified with the following guidelines:
 
-1. Classifying the spike based on type of work that the spike will result in. For example: 
+1. Classifying the spike based on type of work that the spike will result in. For example:
    - A spike to enhance a feature should be classified as `~"feature::enhancement"` and `~"type::feature"`
    - A spike to update dependencies, upgrade versions of underlying libraries should be classified as `~"maintenance::dependency"` and `~"type::maintenance"`
-1. If the spike will result in multiple types of work, choose the type that is of the majority of the resulting work (e.g. more than half). 
+1. If the spike will result in multiple types of work, choose the type that is of the majority of the resulting work (e.g. more than half).
 
 ### Additional guidance
 
