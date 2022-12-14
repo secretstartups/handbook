@@ -116,7 +116,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       * [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
         * You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
       * Look at the spec file history or blame views, by clicking respectively the `History` or `Blame` button at the top of a file in the file explorer, e.g. at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/backup.rb>.
-    * If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel. 
+    * If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
       * You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
     * If no merge request was identified, ask for assistance in the `#development` Slack channel.
     * Please set the appropriate `~master-broken:*` label from the list below:
@@ -631,7 +631,7 @@ While leaders are available in the [categories page](/handbook/product/categorie
 - Enablement - Chun Du and Josh Lambert
 - Growth - Wayne Haber and Hila Qu
 - Fulfillment - Wayne Haber and Justin Farris
-- Applied ML and Antiabuse - Wayne Haber and Taylor McSastlin
+- AI Assisted and Anti-Abuse - Wayne Haber and Taylor McCaslin
 
 ### Conducting a Section Retrospective
 Discretion is provided to Section leaders on how to conduct a section retrospective discussion. A good starting point would be to follow the current [handbook](#retrospective-summary) and [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) recommendations for our R&D wide retrospective. Consider creating section versions of the [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) and [discussion doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing).
