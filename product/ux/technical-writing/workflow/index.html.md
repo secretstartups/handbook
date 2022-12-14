@@ -70,6 +70,7 @@ enhancement. They are responsible for:
 
 The first merge request where a feature can be tested should include the
 documentation, even if the feature is behind a feature flag.
+For details, see [the guidelines][https://docs.gitlab.com/ee/development/documentation/feature_flags.html).
 
 The author of this MR, either a frontend or backend developer, should write the documentation.
 
