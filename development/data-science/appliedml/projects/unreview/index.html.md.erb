@@ -28,7 +28,7 @@ Today, UnReview is an early-stage technology.  However, significant testing and 
 
 ### How UnReview works
 
-To make recommendations, UnReview considers the reviewer’s experience in the part of the source code proposed by a merge request. For a given project, UnReview automatically collects the commit history and merge requests in order to identify who is responsible for reviewing and for which part of the source code. Using that information, UnReview then trains the model that is able to make appropriate recommendations. 
+To make recommendations, UnReview considers the reviewer’s experience in the part of the source code proposed by a merge request. For a given project, UnReview automatically collects the commit history and merge requests in order to identify who is responsible for reviewing and for which part of the source code. Using that information, UnReview then trains the model that is able to make appropriate recommendations.
 
 UnReview is able to resolve the cold start problem, i.e., when the proposed source code is unknown to the recommendation engine. When making recommendations, UnReview additionally tries to balance the review load across the team. Future versions will also consider the context of the merge request, i.e., which source code has been exactly changed and how it affects other parts of the project.
 
@@ -36,8 +36,8 @@ UnReview is able to resolve the cold start problem, i.e., when the proposed sour
 
 Working on UnReview, we have faced the following challenges:
 
-* It can be difficult to identify who is an appropriate reviewer for the merge request, as many can contribute, but not everyone has permission to merge. 
-* Optimizing the review load while making it clear why the person is selected as an appropriate reviewer. 
+* It can be difficult to identify who is an appropriate reviewer for the merge request, as many can contribute, but not everyone has permission to merge.
+* Optimizing the review load while making it clear why the person is selected as an appropriate reviewer.
 * Previous assignments are potentially error-prone. They can be performed at random or a key reviewer is always assigned. Thus, relying solely on previous assignments may lead to biased recommendations.
 
 ### Architecture
@@ -60,7 +60,7 @@ subgraph Azure
     TransformStage --> |Azure Data Factory|LoadStage
     TransformStage --> |manual start of training|TrainStage
     TrainStage --> LoadStage
-    LoadStage --> UnreviewBackend 
+    LoadStage --> UnreviewBackend
 
     subgraph ExtractStage
         GitLab --> |API| Extracteur
@@ -93,7 +93,7 @@ When integrating UnReview into GitLab, some components can be replaced as we pro
 
 ### Integration into GitLab
 
-The backend work for integration will be primarily handled by the [Applied ML](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/) team with help from the infrastructure team.  The frontend work will be by both the Applied ML team and the `Create::code review` team (PM [Kai Armstrong](https://about.gitlab.com/company/team/#phikai) and EM [André Luís](https://about.gitlab.com/company/team/#andr3)).
+The backend work for integration will be primarily handled by the [AI Assisted](https://about.gitlab.com/handbook/engineering/development/modelops/ai-assisted/) team with help from the infrastructure team.  The frontend work will be by both the AI Assisted team and the `Create::code review` team (PM [Kai Armstrong](https://about.gitlab.com/company/team/#phikai) and EM [André Luís](https://about.gitlab.com/company/team/#andr3)).
 
 * Milestone 1 [Reviewer/maintainer assignment architectural plan and PoC](https://gitlab.com/groups/gitlab-org/-/epics/5794)
 * Milestone 2 [Customer facing MVC of integration of unreview](https://gitlab.com/groups/gitlab-org/-/epics/6113)
@@ -103,14 +103,14 @@ The backend work for integration will be primarily handled by the [Applied ML](h
 
 ### Overview
 
-Milestone 1 focuses on creating an UnReview proof-of-concept that works like [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) based on the GitLab product code. This milestone retains the existing UnReview functionality but requires a number of changes to the architectural components of the approach. 
+Milestone 1 focuses on creating an UnReview proof-of-concept that works like [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) based on the GitLab product code. This milestone retains the existing UnReview functionality but requires a number of changes to the architectural components of the approach.
 
 The following tasks have to be completed:
 
 * Move Azure and GitHub-hosted aspects of UnReview to GCP.
 * Implement UnReview code and dependent components in the GitLab managed GCP instance.
 * Replace the small number of libraries with undesirable open-source licenses.
-* Demonstrate UnReview on the GitLab codebase and compare/contrast with existing Reviewer-Roulette. 
+* Demonstrate UnReview on the GitLab codebase and compare/contrast with existing Reviewer-Roulette.
 
 More information on Milestone 1 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/5794).
 
@@ -132,7 +132,7 @@ subgraph GCP
     TransformStage --> |Kafka|LoadStage
     TransformStage --> |manual start of training|TrainStage
     TrainStage --> LoadStage
-    LoadStage --> UnreviewBackend 
+    LoadStage --> UnreviewBackend
 
     subgraph ExtractStage
         GitLab --> |API| Extracteur
@@ -167,14 +167,14 @@ end
 
 Milestone 2 focuses on providing the UnReview functionality to GitLab.com customers and for dogfooding at GitLab. At this milestone, UnReview should be able to connect to a provided project, automatically extract/process data, and periodically retrain the ML models to improve code reviewer recommendations. GitLab.com customers who license and enable this feature will start seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models.
 
-To support GitLab.com customers: 
+To support GitLab.com customers:
 
 * Code reviewer recommendations should be implemented behind a feature flag, which will be disabled by default.
 * Integrate the UnReview UI into the GitLab product following the MVC pattern.
 * Make it possible to compare UnReview with existing methods by providing recommendations in a comment.
 * Add the option to automatically assign reviewers recommended by UnReview.
 
-To support dogfooding at GitLab: 
+To support dogfooding at GitLab:
 
 * Start the dogfooding process.
 * Make UnReview available to replace or exist alongside Reviewer-Roulette used by GitLab team members for GitLab projects.
@@ -200,7 +200,7 @@ subgraph GCP
     LoadStage --> UnreviewBackend
     UnreviewBackend --> UnreviewUI[UnReviewUI]
     Recommender <--> GitlabApp
-    Analytics --> GitlabApp 
+    Analytics --> GitlabApp
 
     subgraph TransformStage
         GCS[(GCS/BigQuery)]
@@ -228,8 +228,8 @@ end
 
 ### Overview:
 
-Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
-	
+Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product.
+
 To support GitLab.com customers:
 
 * Make the feature flag enabled by default and available to customers GA via configuration options in the GitLab user interface.
