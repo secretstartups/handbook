@@ -40,7 +40,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 ## Projects you could work on:
 
 * Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/), Ansible, Terraform, and GitLab CI/CD
-* Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-monitor)
+* Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-exporter)
 * Helping [release managers](/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
 * Plan, prepare for, and execute the [migration of GitLab.com](/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
 * Develop a relationship with a [product group](/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
