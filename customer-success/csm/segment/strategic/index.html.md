@@ -71,14 +71,15 @@ This phase is about going beyond a customer’s existing use cases, into additio
 
 In the Strategic CSM motion CSMs are able to spend more time with their customers and are able to work with multiple teams and stakeholders in the organization. The CSM is also able to work with multiple subsidiaries and build comprehensive account knowledge. This leads to valuable insights on the customers strategic business goals and future roadmap. To accelerate the GitLab Adoption and Growth, the Account Growth Plan helps to consolidate the information and builds a baseline for multiple GitLab internal stakeholders. This includes Product, Sales Planning and Exec Sponsorship decisions. To quantify an investable customer initiative with data, the Account Growth Plan builds the single source of truth. The Account Growth Plan contains GitLab Objectives and Actionable next steps.
 
+During the Account Adoption Review and Planning, the Account Team and Regional Sales Leadership review the current state of Adoption, Success Plan Objectives, and Account Plan Details. The objective is to build a shared understanding of the customer roadmap, align actions within the team, reduce potential adoption risk early, and share best practices within the account teams and region.
+
 In addtion to [Success Planning](/handbook/customer-success/csm/success-plans/) where the focus is on building a shared plan between the customer and GitLab on how the customer achieves their desired business outcomes the Account Growth Plan includes actions to achieve growth and expansion within an account. The joint plans are used to bridge the gap between enablement into a strategic growth motion. 
 
 | Description | Metrics | DRI |
 |---|---|---|
-| Account Growth Planning |  |  |
+| Account Adoption Review and Planning | Top 20 ARR Accounts Reviewed (EMEA) | @mrleutz @jwormwell |
 | Stakeholder Mapping & Management |  |  |
 | [Territory Planning Contribution](/handbook/sales/territory-planning/) |  |  |
-| [Account Planning Contribution](/handbook/sales/account-planning/) |  |  |
 
 [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/)
 
