@@ -59,12 +59,12 @@ The table below can be used as a general guide for assigning priority:
 
 **Note:** Issue priority levels generally align with the [severity levels](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#severities) defined within the Incident Management process.
 ### Service Level Agreements
-The Reliability team uses the following response time SLAs for  `~Reliability::P1` and  `~Reliability::P2 issues`:
+The Reliability team uses the following response time SLAs for  all `~Reliability::P1` and `~Reliability::P2 issues` that also have the `~unblocks others` label.  The `~unblocks others` [label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#other-labels) indicates that the request originated from outside of the [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/).
 
 | Priority | Response Time | Coverage | How to engage|
 | -------- | ---------- | --------- | --------- |
 | `~Reliability::P1` | 30 minutes | 24x7 | This priority level is reserved for issues requiring immediate attention.  To create a `~Reliability::P1` issue, first [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to page the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) |
-| `~Reliability::P2` | 3 days | 24x5 | Create an issue in the Reliability Issue Tracker and use label `~Reliability::P2` |
+| `~Reliability::P2` <br> and <br> `unblocks others` | 3 days | 24x5 | Create an issue in the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/) and use labels `~Reliability::P2` and `unblocks others`|
 
 **Note**: Except for corrective actions and security issues, reliability does not use `~"priority"` or `~"severity"` labels, if these labels are added they will be removed.
 {: .alert .alert-info}
