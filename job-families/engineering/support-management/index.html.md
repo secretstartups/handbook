@@ -227,7 +227,7 @@ This role also closely interacts with counterparts in Product, Development, QA, 
 - Own the support readiness and operations across all products
 
 
-## [What it’s like to work here](https://about.gitlab.com/jobs/faq/#whats-it-like-to-work-at-gitlab) at GitLab
+## [What it’s like to work here](https://about.gitlab.com/handbook/hiring/candidate/faq/) at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
