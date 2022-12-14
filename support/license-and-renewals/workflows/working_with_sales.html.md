@@ -105,7 +105,9 @@ process.
 The following workflows use the [Pass to Sales Zendesk macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680)
 unless otherwise stated.
 
-**ALTERNATIVE PAYMENT METHOD**: a customer wishes to pay via method other than credit card
+### Customer wishes to use alternative payment method
+
+A customer wishes to pay via method other than credit card
 
 Workflow:
 
@@ -113,7 +115,9 @@ Workflow:
 - Chatter Sales and summarise the customer's request, ask for them to reach out
 - Respond to the customer with the appropriate macro
 
-**PURCHASE ORDER / QUOTE**: a customer wants to pay and has a PO or requires a paper quote or invoice
+### Purchase Orders and Quotes
+
+A customer wants to pay and has a PO or requires a paper quote or invoice
 
 Workflow:
 
@@ -121,7 +125,10 @@ Workflow:
 - Chatter Sales and summarise the customer's request, ask for them to reach out
 - Respond to the customer with the appropriate macro
 
-**RESELLER**: a reseller or reseller customer wants to make changes to their subscription or follow up on an order
+
+### A reseller (or reseller customer) wants to change their subscription or ask a question
+
+A reseller or reseller customer wants to make changes to their subscription or follow up on an order
 
 Workflow:
 
@@ -129,7 +136,9 @@ Workflow:
 - Chatter Sales and summarise the customer's request, provide the reseller and end-user information, ask for them to reach out
 - Respond to the customer with the appropriate macro
 
-**DISCOUNT REQUEST**: a customer is seeking a discount and their subscription is above the Starter/Bronze tier
+### Customer seeking a discount
+
+A customer is seeking a discount and their subscription is above the Starter/Bronze tier
 
 Workflow:
 
@@ -138,7 +147,11 @@ Workflow:
 - Chatter Sales and summarise the customer's request, ask for them to reach out if they confirm a discount is possible
 - Respond to the customer with the appropriate macro, set the expectation that a discount is not guaranteed and is at the discretion of the relevant approvers
 
-**PRODUCT TRANSFER** - a customer wishes to transfer from SaaS to Self-managed or vice versa
+
+
+### Product transfer between SaaS and Self-Managed
+
+A customer wishes to transfer from SaaS to Self-managed or vice versa
 
 Workflow:
 
