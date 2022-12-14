@@ -16,7 +16,7 @@ description: Instructions for redirecting community programs subscription inquir
 GitLab offers several programs to help introduce GitLab's most powerful features to communities who may not otherwise have the means to access them. These include:
 
 * [GitLab for Education](/handbook/marketing/community-relations/community-programs/education-program/)
-* [GitLab for Open Source](/handbook/marketing/community-relations/opensource-program/)
+* [GitLab for Open Source](/handbook/marketing/community-relations/community-programs/opensource-program/)
 * [GitLab for Startups](/handbook/marketing/community-relations/community-programs/startups-program/)
 
 GitLab does not offer non-profit discounts or programs; however, users can apply to these community programs to receive Ultimate benefits if they meet the requirements. [The Community Programs team](/handbook/marketing/community-relations/community-programs/) is the DRI for these programs.
