@@ -83,9 +83,13 @@ Access codes and recording links can be found in this [internal doc](https://doc
 
 ### Technical
 
-- Self Certifications are available for the professional services courses on Edcast:
-  * [CI/CD Specialist Pathway](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-ci-cd-specialist-pathway-what-s)
-  * [GitLab Certified Associate](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway)
+- Self Certifications are available for the professional services courses on LevelUp:
+  * [CI/CD Professional Pathway](https://levelup.gitlab.com/learn/course/gitlab-certified-devops-professional-bundle/)
+  - This includes the Pathways:
+    * [GitLab Certified Git Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-git-associate/)
+    * [GitLab Certified Project Management Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-project-management-specialist-bundle/)
+    * [GitLab Certified CI/CD Associate](https://levelup.gitlab.com/learn/course/gitlab-ci-cd-specialist-self-paced-bundle/)
+    * [GitLab Certified Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist)
 - [GitLab Technical Training delivered by Professional Services](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 - MIT's online program: [Cloud & DevOps: Continuous Transformation](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/) covers strategical implementation of the DevOps and Cloud tools
 - [Cloud Infrastructure Technical Skills](/handbook/customer-success/education-enablement/#cloud-infrastructure) 
