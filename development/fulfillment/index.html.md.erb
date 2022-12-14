@@ -66,23 +66,13 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 ## Stable counterparts
 
-### Fulfillment Product Management
+The following members of other functional teams are our stable counterparts.
 
-<%= department_team(base_department: "Fulfillment PM Team") %>
+<%=
+other_manager_roles = ['Fullstack Engineering Manager, Fulfillment:Fulfillment Platform', 'Fullstack Engineering Manager, Fulfillment:Provision', 'Fullstack Engineering Manager, Fulfillment:Utilization', 'Fullstack Engineering Manager (Interim), Fulfillment:Purchase', 'Fullstack Engineering Manager, Fulfillment:Commerce Integrations', 'Fullstack Engineering Manager, Fulfillment:Billing and Subscription Management Team']
 
-### Fulfillment Quality Engineering
-
-<%= department_team(base_department: "Fulfillment & Growth QE Team") %>
-
-### Fulfillment UX
-
-<%= department_team(base_department: "Fulfillment UX Team") %>
-
-**Technical Writing**
-
-<% fulfillment_tw = %w[fneill] %>
-<% fulfillment_tw_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_tw.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: fulfillment_tw_members }) %>
+stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role: 'Senior Engineering Manager, Fulfillment, Interim Strategy and Operations Lead, China', other_manager_roles: other_manager_roles)
+%>
 
 ### Fulfillment Security
 
@@ -137,8 +127,6 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 <% support_engineering = %w[jlyttle] %>
 <% support_engineering_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| support_engineering.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: support_engineering_members }) %>
-
-
 
 ## Project management process
 
