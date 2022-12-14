@@ -108,7 +108,7 @@ The Growth and Development policy is meant to further team members' learning and
 * Total Rewards will then notify payroll to begin the reimbursement process.
 
 ### Recoupment of Growth and Development Reimbursements
-If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab.
+If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, academic study or tuition expenses of $1,000 USD and over will need to be refunded to GitLab.
 
 ### Tax Implications
 
