@@ -34,7 +34,7 @@ The following members of other functional teams are our stable counterparts:
 
 ### Current Focus
 
-The best way to understand the strategy and vision behind the Release stage is to read the [Deployment Direction](/direction/deployment) handbook page.
+The best way to understand the strategy and vision behind the Release stage is to read the [Deployment Direction](/direction/delivery/) handbook page.
 
 As of Q4 FY22, we are focused on improving the deployment experience for our customers by enabling better tracking and coordination on deployments, including:
 
