@@ -38,7 +38,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 1. Update https://about.gitlab.com/learn/ to capture SSoT and provide more clarity on which training is for what ==> Complete
 
 ### Create future coordination processes and plan
-1. Document in the Handbook a process that DRIs working on learning content will follow to keep [GitLab Learn](/learn/)up-to-date, to ensure it remains the SSOT of GitLab-produced learning content. This will include existing content and planned content. ==> Complete, [documented](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#updating-content-on-gitlab-learn) and established #gitlab-learn-updates Slack channel for reminders to update and x-team communications.
+1. Document in the Handbook a process that DRIs working on learning content will follow to keep [GitLab Learn](/learn/)up-to-date, to ensure it remains the SSOT of GitLab-produced learning content. This will include existing content and planned content. ==> Complete, [documented](https://about.gitlab.com/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) and established #gitlab-learn-updates Slack channel for reminders to update and x-team communications.
 
 
 ## Roles and Responsibilities
