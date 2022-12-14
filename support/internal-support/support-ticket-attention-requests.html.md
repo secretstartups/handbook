@@ -66,7 +66,7 @@ Check that the ticket meets basic eligibility for STAR treatment:
 
 ### Out of Scope / Ineligible for STAR treatment
 
-1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support.html#out-of-scope).
+1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support/#out-of-scope).
 1. Tickets for which there is *no acceptable business-case provided* that justifies additional attention.
 1. Tickets missing the customer Organization information ("Needs Org"). Instead: Review requirements in our [Needs Org workflow](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html), and ping in the `#support_operations` Slack channel.
 1. Tickets that do not appear to have the correct SLA assigned to them. Instead: Review requirements in our [SLA workflow](/handbook/support/workflows/sla_and_views.html), and ping in the `#support_operations` Slack channel.
