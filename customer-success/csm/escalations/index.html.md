@@ -143,7 +143,7 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
    - **FYI**: <TAG_YOUR_MANAGER_HERE>
 
 
-1. If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
+1. If requested, The [Section leader of Product](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/sections.yml) is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the relevant [Product section leader](https://about.gitlab.com/handbook/product/categories/). Example:  - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
 
 
 ### Managing the Escalation:
