@@ -108,6 +108,14 @@ Check the `Created By` value of either (1) the invoices for the specific purchas
 Web direct purchases also create a Quote in the customer's SalesForce account. However, the **Status** of the Quote is almost always `New`. 
 - For Sales assisted and reseller purchases, you can confirm the details of the successful purchase by checking the Quote in the customer's SalesForce account with its **Status** set to `Sent to Z-Billing`.
 
+### How does Cloud Licensing impact customers who have purchased multi-year GitLab subscriptions?
+
+- If an existing or new customer purchases a multi-year subscription and has Cloud Licensing enabled then the Cloud Activation Code they receive will be valid for the entirety of the subscription period.
+- If an existing customer has already activated a subscription with an Activation Code then the customer will not have do anything, the license for the subscription will automatically update during the sync process. 
+- If an existing customer has not yet enabled/activated Cloud Licensing (TurnOnCloudLicensing set to Null) they can activate their instance with an Activation Code at any time
+    - If an existing customer who previously was undecided (i.e. `Turn On Cloud Licensing` is set to `Null`) or opted out of Cloud Licensing (i.e. `Turn On Cloud Licensing` is set to `No` or `Offline`) wants to switch to Cloud Licensing, they will need to contact support. Support can generate and send the activation code in CustomerDot Admin as detailed in [post sales exemption support](#post-sale-exemptions-support).
+    - Upon activation, the customer will receive a Cloud Activation Code which will be valid for the entirety subscription term 
+
 ## Additional Resources
 For more information on Cloud Licensing, please refer to the following resources:
 1. [Cloud Licensing Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/)
