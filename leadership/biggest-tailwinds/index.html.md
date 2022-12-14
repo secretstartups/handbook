@@ -27,7 +27,7 @@ We also have a [Mitigating Concerns page](/handbook/leadership/mitigating-concer
 [Open Source](/topics/20-years-open-source/)
 
 ## 3. [Multicloud](/topics/multicloud/)
-[Cloud Native and the Adoption of Kubernetes](/cloud-native/)
+[Cloud Native and the Adoption of Kubernetes](/topics/cloud-native/)
 
 [Microservices](/topics/microservices/)
 
