@@ -55,15 +55,15 @@ Read more about the topic area from the links below:
   - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
   - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
   - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
-  - [Group Direction - Applied ML](https://about.gitlab.com/direction/modelops/applied_ml/)
-  - [Applied ML Group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/)
+  - [Group Direction - AI Assisted](https://about.gitlab.com/direction/modelops/ai_assisted/)
+  - [AI Assisted Group](https://about.gitlab.com/handbook/engineering/development/modelops/ai-assisted/)
 
 ### Related GitLab projects
 
   - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
     - [Architecture Diagram](https://gitlab.com/gitlab-org/spamcheck#architecture-diagram)
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
-  - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
+  - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/ai-assisted/projects/unreview/)
     - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/#architecture)
 
 ### Related ML Slack channels
@@ -81,9 +81,9 @@ The charter of this working group is to bridge the gap between different teams t
 1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
 
 ## Outcome
- 
+
 1. The Working Group has brought together various teams that are working on different ways to leverage Machine Learning within GitLab the product and in their day-to-day work. It has given these teams a platform to discuss their mission and an opportunity to share knowledge on projects they are currently undertaking and what they are looking to achieve in the near future.
- 
+
 2. We will move forward with the creation of a monthly MLOps meetup that focuses on sharing ideas and showcasing work done by different teams, in a less formalized structure, to enhance awareness across the company.
 
 ## Roles and Responsibilities
@@ -93,14 +93,14 @@ The charter of this working group is to bridge the gap between different teams t
 | Executive Sponsor     | Laurence Bierner      | Director, Security Engineering & Research       |
 | Facilitator           | Alex Groleau          | Security Automation Manager |
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
-| Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, Applied ML |
-| Functional Lead                | Taylor McCaslin         | Principal Product Manager, Secure |
+| Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, AI Assisted |
+| Functional Lead                | Taylor McCaslin         | Group Manager, Product - Data Science |
 | Functional Lead                | David DeSanto           | Senior Director, Product Management - Dev & Sec |
 | Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Functional Lead                | Eduardo Bonet         | Staff Full Stack Engineer - MLOps, SEG |
-| Functional Lead                | Monmayuri Ray         | Engineering Manager, Applied Machine Learning & Anti-abuse |
+| Functional Lead                | Monmayuri Ray         | Engineering Manager, AI Assisted & Anti-abuse |
 | Functional Lead                | Shawn Sichak         | Senior Security Engineer, Trust and Safety |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
@@ -108,5 +108,4 @@ The charter of this working group is to bridge the gap between different teams t
 | Member                | Bartek Marnane         | VP, Incubation Engineering |
 | Member                | Marshall Cottrell      | Strategy and Operations (Technical) Staff |
 | Member                | Kelly Chen             | Analytics Manager at Finance |
-| Member                | Jay Stemmer            | Manager, Analytics & Insights | 
-
+| Member                | Jay Stemmer            | Manager, Analytics & Insights |

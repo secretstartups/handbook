@@ -34,7 +34,7 @@ This Working Group has the following goals:
 An event stream is simply a stream of events that occur within the product. More specifically, for us at GitLab, it will involve the software changes we need to make in the product, event schemas and protocols, and infrastructure.
 
 ### Potential Tools/Services
-There are some tools/services that other companies are using for this 
+There are some tools/services that other companies are using for this
   1. [Kafka](https://kafka.apache.org)
   1. [NSQD](https://nsq.io)
   1. [RabbitMQ](https://rabbitmq.com)
@@ -46,7 +46,7 @@ There are some tools/services that other companies are using for this
  * [Streaming Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/5925)
 
 
-## Exit Criteria 
+## Exit Criteria
 If it is decided that an Event Stream should be implemented, our exit criteria should be:
  1. Define the tool(s)/service(s) we should use for SaaS and on-prem (they might be different)
  1. Define system architecture
@@ -62,7 +62,7 @@ If it is decided that an Event Stream should be implemented, our exit criteria s
 | Functional Lead    | Juliet Wanjohi     | Security Engineer, Security Automation          |
 | Functional Lead    | Ethan Urie         | Senior Backend Engineer, Security Automation    |
 | Functional Lead    | Jayson Salazar     | Senior Security Engineer, Security Automation   |
-| Functional Lead    | Alexander Chueshev | Senior Backend Engineer, Applied ML             |
+| Functional Lead    | Alexander Chueshev | Senior Backend Engineer, AI Assisted             |
 | Member             | David DeSanto      | Senior Director, Product Management - Dev & Sec |
 | Member             | Taylor McCaslin    | Principal Product Manager, Secure               |
 | Member             | Alexander Dietrich | Senior Security Engineer, Security Automation   |
