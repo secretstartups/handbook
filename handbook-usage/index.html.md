@@ -360,7 +360,7 @@ Similarly, don't merge website updates without marketing in the loop. Follow the
 
 ### Broad Permissions
 
-Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](/handbook/marketing/growth-marketing/brand-and-digital-design/).
+Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](/handbook/marketing/digital-experience/).
 
 ### Granting others maintain access
 
