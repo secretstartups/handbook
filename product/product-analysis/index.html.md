@@ -21,7 +21,7 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 ### Product Data Insights Group Members
 
 * [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
-* [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
+* [Dave Peterson](/company/team/#dpeterson1): [Staff Product Analyst](/job-families/product/product-analyst/#staff-product-analyst)
 * [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Nicole Hervas](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 * [Neil Raisinghani](/company/team/#nraisinghani): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
