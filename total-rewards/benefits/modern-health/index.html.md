@@ -15,6 +15,9 @@ description: Information on GitLab's Employee Assistance Program.
 
 GitLab offers mental health care services to all team members and their eligible family members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 6 coaching sessions and 6 therapy sessions each at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles. 
 
+<iframe src="https://player.vimeo.com/video/680639730?h=d48b608b3f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/680639730">Introducing Modern Health</a> from <a href="https://vimeo.com/modernhealth">Modern Health</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/10jn8_UoqtMwHpYLaKQpGRfDwgxeN_65h/view?usp=sharing) in October 2022 that walks team members through valuable information about this benefit and how to start utilizing it.
 
 Check out what GitLab team members are saying about their experience with Modern Health:
@@ -39,6 +42,10 @@ If you’re still not sure where to get started, we recommend that you:
 2. Register and take the well-being assessment and
 1. Get matched to a dedicated coach and/or therapist who can work with you to figure out next steps.
 
+#### Should I see a coach or therapist from Modern Health?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eyGIRMBrgrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Which areas does Modern Health support?
 
 Modern Health cultivates the resilience needed to weather the ups and downs of everyday life. Here are the specific areas where we can help:
@@ -60,6 +67,10 @@ Note: This list isn’t intended to be comprehensive. Please reach out to `help@
 
 The philosophy towards mental health comes from the World Health Organization (WHO): “in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community.”
 
+### How can Modern Health support my career goals?
+
+Professional coaches from Modern Health can help you set, achieve, and stay accountable in your career and personal growth. Professional coaching through Modern Health is a great choice for individuals who have a skill they want to develop, like influence, leadership, or communication styles. Learn more about professional coaching at Modern Health in [this 42 second video](https://app.box.com/s/eaodx06qv9n6cope8koill1wx0onm2d7)
+
 ### Is Modern Health backed by science?
 
 Modern Health’s model is grounded in evidence-based approaches, primarily Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Motivational Interviewing, and Mindfulness.
@@ -80,8 +91,6 @@ For members that are recommended to therapy and are located in the United States
 For members that are recommended to therapy and are located outside of one of these countries, the member will be notified that the Modern Health Care Matching team will reach out to the member directly to match them with the best fit therapist based on their needs and their assessment. These members will be introduced to their therapist via email. If a member in this scenario would like to change their therapist, please reach out to help@modernhealth.com.
 
 For members in any location that are not initially recommended to therapy (perhaps, they are recommended to Coaching or another modality of care), but would like to engage with a therapist, we ask that they contact our Member Support team at help@modernhealth.com to express their needs and they will work to make an appropriate match.
-
-
 
 ### What family members are eligible for Modern Health?
 
