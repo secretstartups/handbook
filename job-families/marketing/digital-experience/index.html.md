@@ -25,7 +25,7 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-re
 * Collaborate with key stakeholders in Marketing (e.g. Demand Gen, Content) as well as other functions (e.g. Sales, Product) to capture data needed to drive business decisions
 * Contribute to A/B testing strategy using platforms such as LaunchDarkly, Google Optimize
 * Partner closely with the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
-* Member of the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience/)
+* Member of the [Digital Experience Team](/handbook/marketing/digital-experience/)
  
 #### Digital Experience Analyst Requirements
  
