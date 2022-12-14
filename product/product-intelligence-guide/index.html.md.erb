@@ -68,18 +68,7 @@ The below table explains the types of data we collect from GitLab.com and exampl
 
 ### Data used as identifiers
 
-In order to create the SaaS usage journeys documented below, we collect various identifiers in our data collection catalog. Where the identifier can be used to personally identify a user by someone without permissions to view that information, we will [pseudonymize](https://www.ucl.ac.uk/data-protection/guidance-staff-students-and-researchers/practical-data-protection-guidance-notices/anonymisation-and#Pseudonymisation) the data via [hashing at the collection layer](https://gitlab.com/groups/gitlab-org/-/epics/6309#hashing-on-the-collector-layer). Follow [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6309) to track our progress on our pseudonymization project.
-
-| |Metric | Example Data Pre-Pseudonymization|Pseudonymized? |Example Data Post-Pseudonymization |
-|---|---|---|---|---|
-|1|`user_ID`| `2890431` |Yes|Long hash|
-|2|`project_ID`|`27005757`| No |`27005757`|
-|3|`namespace_ID`|`12174719`|No|`12174719`|
-|4|`page_url`|`https://gitlab.com/my-group/my-awesome-project`| Yes|`https://gitlab.com/group:123/project:356`  |
-|5|`page_url`|`https://gitlab.com/my-group/my-awesome-project/some_folder/some_file.js` |Yes|`https://gitlab.com/group:123/project:346/:repository_path` 
-|6|`page_url`|`https://gitlab.com/my-group/issues`| Yes|`https://gitlab.com/group:123/issues` |
-|7|`page_url`|`https://gitlab.com/checkout`|Yes| `https://gitlab.com/checkout` | 
-|8|`ip address`|`192.158.1.38`|No |`192.158.1.38`|
+In order to create the SaaS usage journeys documented below, we collect various identifiers in our data collection catalog. Where the identifier can be used to personally identify a user by someone without permissions to view that information, we will [pseudonymize](https://www.ucl.ac.uk/data-protection/guidance-staff-students-and-researchers/practical-data-protection-guidance-notices/anonymisation-and#Pseudonymisation) the data via [hashing at the collection layer](https://gitlab.com/groups/gitlab-org/-/epics/6309#hashing-on-the-collector-layer). You can find the collected identifieres in our [Metrics Dictionary](https://metrics.gitlab.com/identifiers).
 
 
 ### Example User Journey
