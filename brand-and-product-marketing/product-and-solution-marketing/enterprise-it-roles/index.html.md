@@ -36,7 +36,7 @@ Related Reading:
 
     Defining key trends and terms:
     * What is digital transformation - Read [Forrester Digital Rewrites the Rules of Business](https://drive.google.com/file/d/16kb47ifUBX5Zp4lAiAbMp7TVo79ba2MY/view) (INTERNAL only)
-    * Why is [cloud native](/cloud-native/) important to digital transformation
+    * Why is [cloud native](/topics/cloud-native/) important to digital transformation
     * Speed [time to market](/solutions/faster-software-delivery/) without impacting [risk](/solutions/dev-sec-ops/)
 
 
