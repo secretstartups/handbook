@@ -21,7 +21,7 @@ This Open Source Program Agreement (“Agreement”) is between GitLab Inc. with
 
 “Confidential Information” shall have the meaning ascribed in Section 6 (Confidentiality).
 
-“GitLab for Open Source Program” means the program guidelines and overview as found at[ https://about.gitlab.com/handbook/marketing/community-relations/opensource-program/#-gitlab-for-open-source-program](https://about.gitlab.com/handbook/marketing/community-relations/opensource-program/#-gitlab-for-open-source-program) as updated from time to time, which include directions, rules and requirements for participation in the GitLab for Open Source Program. For the avoidance of doubt, GitLab (at its sole discretion) shall decide a party’s ability to participate in the GitLab for Open Source Program.
+“GitLab for Open Source Program” means the program guidelines and overview as found at[ https://about.gitlab.com/handbook/marketing/community-relations/community-programs/opensource-program/#-gitlab-for-open-source-program](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/opensource-program/#-gitlab-for-open-source-program) as updated from time to time, which include directions, rules and requirements for participation in the GitLab for Open Source Program. For the avoidance of doubt, GitLab (at its sole discretion) shall decide a party’s ability to participate in the GitLab for Open Source Program.
 
 “GitLab Software” means software, and other branded offerings sold by GitLab, including but not limited to, the self-managed and/or SaaS version of GitLab’s “DevOps Lifecycle Application Platform”.
 
