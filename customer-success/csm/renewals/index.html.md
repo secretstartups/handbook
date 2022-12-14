@@ -72,19 +72,20 @@ CSMs can use Red, Yellow, and Green to reflect their sentiment of a customer's c
 
 #### When a CSM has determined an account is red:
 
-1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking CSM Sentiment as Red and any context for the at-risk account
+1. **Create Triage Issue**: CSM to [create triage issue](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new) in CSM Unhealthy Account Triage project
+1. **Log Timeline: Risk Update**: log Account-level `At-Risk Update` Timeline post marking CSM Sentiment as Red and any context for the at-risk account
 1. **Create CTA**:
    1. Immediate: CSM will create an `At-Risk` CTA to track the high level risks, OR
-   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM
-1. **Update CTA**: CSM to update Risk Type and Risk Reason dropdown fields
-1. **Monthly Timeline Update: Risk Update**: CSM logs a `Risk Update` Timeline post. Update CTA as necessary
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM if `Requires Triage` box was checked
+1. **Update CTA**: CSM to update Risk Impact and Risk Reason dropdown fields
+1. **Weekly Timeline Update: Risk Update**: CSM logs Account-level `At-Risk Update` Timeline post. Update CTA as necessary
 1. **At-Risk Conclusion**:
    1. Customer is won back:
-      1. Log Timeline `Risk Update` type for CSM Sentiment as Green and final notes
+      1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
       1. Change customer Lifecycle Stage to Adopting
       1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
-      1. Log Timeline `Risk Update` type with final update
+      1. Log Account-level Timeline `At-Risk Update` type with final update
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
       1. Close out CTA with success criteria (Closed-Lost, loss reasons)
 
@@ -98,19 +99,20 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 #### When a CSM has determined an account is yellow and requires triage:
 
-1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking CSM Sentiment as Yellow and any context for the at-risk account, and checks the `Requires Triage` box. 
+1. **Create Triage Issue**: CSM to [create triage issue](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new) in CSM Unhealthy Account Triage project
+1. **Log Timeline: Risk Update**: log Account-level `At-Risk Update` Timeline post marking CSM Sentiment as Yellow and any context for the at-risk account 
 1. **Create CTA**:
    1. Immediate: CSM will create an `At-Risk` CTA to track the high level risks, OR
-   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM
-1. **Update CTA**: CSM to update Risk Type and Risk Reason dropdown fields
-1. **Monthly Timeline Update: Risk Update**: CSM logs a `Risk Update` Timeline post. Update CTA as necessary
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM if `Requires Triage` box was checked
+1. **Update CTA**: CSM to update Risk Impact and Risk Reason dropdown fields
+1. **Weekly Timeline Update: Risk Update**: CSM logs Account-level `At-Risk Update` Timeline post. Update CTA as necessary
 1. **At-Risk Conclusion**:
    1. Customer is won back:
-      1. Log Timeline `Risk Update` type for CSM Sentiment as Green and final notes
+      1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
       1. Change customer Lifecycle Stage to Adopting
       1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
-      1. Log Timeline `Risk Update` type with final update
+      1. Log Account-level Timeline `At-Risk Update` type with final update
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
       1. Close out CTA with success criteria (Closed-Lost, loss reasons)
 
@@ -122,7 +124,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 When a CSM considers an account at-risk of contraction or churn, they should set the Account's `CSM Sentiment` to **red**. From there, the CSM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
 
-##### Risk Type
+##### Risk Impact
 * **Customer Churn** - fully churn the account
 * **Tier Downgrade** - move down tiers
 * **Seat Churn** - reduce license seat count
