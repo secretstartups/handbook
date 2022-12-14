@@ -381,6 +381,87 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday December 27 | **Available** | | Key Review Date? |
 | Wednesday December 28 | **Available** | | Key Review Date? |
 | Thursday December 29 | **Available** | | Key Review Date? |  
+| Tuesday January 3 | **Available** | | Key Review Date? |
+| Wednesday January 4 | **Available** | | Key Review Date? |
+| Thursday January 5 | **Available** | | Key Review Date? |  
+| Tuesday January 10 | **Available** | | Key Review Date? |
+| Wednesday January 11 | **Available** | | Key Review Date? |
+| Thursday January 12 | **Available** | | Key Review Date? |  
+| Tuesday January 17 | **Available** | | Key Review Date? |
+| Wednesday January 18 | **Available** | | Key Review Date? |
+| Thursday January 19 | **Available** | | Key Review Date? |  
+| Tuesday January 24 | Support | Tom Cooney | January 18 |
+| Wednesday January 25 | People | Wendy Barnes | January 18 |
+| Thursday January 26 | **Available** | | Key Review Date? |  
+| Tuesday January 31 | **Available** | | Key Review Date? |
+| Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
+| Thursday February 2 | Quality | Mek Stittri | January 26 |  
+| Tuesday February 7 | **Available** | | Key Review Date? |
+| Wednesday February 8 | Development | Christopher Lefelhocz | January 25 |
+| Thursday February 9 | **Available** | | Key Review Date? |  
+| Tuesday February 14 | **Available** | | Key Review Date? |
+| Wednesday February 15 | **Available** | | Key Review Date? |
+| Thursday February 16 | **Available** | | Key Review Date? |  
+| Tuesday February 21 | **Available** | | Key Review Date? |
+| Wednesday February 22 | **Available** | | Key Review Date? |
+| Thursday February 23 | **Available** | | Key Review Date? | 
+| Tuesday February 28 | **Available** | | Key Review Date? |
+| Wednesday March 1 | **Available** | | Key Review Date? |
+| Thursday March 2 | **Available** | | Key Review Date? |  
+| Tuesday March 7 | **Available** | | Key Review Date? |
+| Wednesday March 8 | **Available** | | Key Review Date? |
+| Thursday  March 9 | Support | Tom Cooney | March 1 |  
+| Tuesday March 14 | Infrastructure | Steve Loyd | March 2 |
+| Wednesday March 15 | Security | Security Leadership | February 28 |
+| Thursday March 16 | **Available** | | Key Review Date? |  
+| Tuesday March 21 | **Available** | | Key Review Date? |
+| Wednesday March 22 | **Available** | | Key Review Date? |
+| Thursday March 23 | **Available** | | Key Review Date? |  
+| Tuesday March 28 | **Available** | | Key Review Date? |
+| Wednesday March 29 | Quality | Mek Stittri | March 23 |
+| Thursday March 30 | Development | Christopher Lefelhocz | March 22 |  
+| Tuesday April 4 | **Available** | | Key Review Date? |
+| Wednesday April 5 | **Available** | | Key Review Date? |
+| Thursday April 6 | **Available** | | Key Review Date? |  
+| Tuesday April 11 | **Available** | | Key Review Date? |
+| Wednesday April 12 | **Available** | | Key Review Date? |
+| Thursday April 13 | **Available** | | Key Review Date? |   
+| Tuesday April 18 | **Available** | | Key Review Date? |
+| Wednesday April 19 | **Available** | | Key Review Date? |
+| Thursday April 20 | Support | Tom Cooney | April 12 |  
+| Tuesday April 25 | **Available** | | Key Review Date? |
+| Wednesday April 26 | Infrastructure | Steve Loyd | April 13 |
+| Thursday April 27 | **Available** | | Key Review Date? |  
+| Tuesday May 2 | **Available** | | Key Review Date? |
+| Wednesday May 3 | Security | Security Leadership | April 25 |
+| Thursday May 4 | **Available** | | Key Review Date? |  
+| Tuesday May 9 | **Available** | | Key Review Date? |
+| Wednesday May 10 | **Available** | | Key Review Date? |
+| Thursday May 11 | **Available** | | Key Review Date? |  
+| Tuesday May 16 | **Available** | | Key Review Date? |
+| Wednesday May 17 | **Available** | | Key Review Date? |
+| Thursday May 18 | **Available** | | Key Review Date? |  
+| Tuesday May 23 | **Available** | | Key Review Date? |
+| Wednesday May 24 | **Available** | | Key Review Date? |
+| Thursday May 25 | **Available** | | Key Review Date? |  
+| Tuesday May 30 | **Available** | | Key Review Date? |
+| Wednesday May 31 | Quality | Mek Stittri | May 25 |
+| Thursday June 1 | Support | Tom Cooney | May 24 |  
+| Tuesday June 6 | **Available** | | Key Review Date? |
+| Wednesday June 7 | Development | Christopher Leflehocz | May 24 |
+| Thursday June 8 | Infrastructure | Steve Loyd | May 23 |  
+| Tuesday June 13 | **Available** | | Key Review Date? |
+| Wednesday June 14 | **Available** | | Key Review Date? |
+| Thursday June 15 | **Available** | | Key Review Date? |  
+| Tuesday June 20 | **Available** | | Key Review Date? |
+| Wednesday June 21 | **Available** | | Key Review Date? |
+| Thursday June 22 | **Available** | | Key Review Date? |  
+| Tuesday June 27 | **Available** | | Key Review Date? |
+| Wednesday June 28 | **Available** | | Key Review Date? |
+| Thursday June 29 | Security | Security Leadership | June 21 |  
+| Tuesday July 4 | Independence Day (US)| | N/A |
+| Wednesday July 5 | **Available** | | Key Review Date? |
+| Thursday July 6 | **Available** | | Key Review Date? |  
 
 ## Examples of Past Group Conversations
 
