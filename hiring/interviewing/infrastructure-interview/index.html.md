@@ -133,5 +133,5 @@ After you provide us with your references, now it's time to relax! The hiring ma
  
 Successful candidates will subsequently be made an offer. Once the offer is ready, the Recruiter will reach out to you to schedule a Zoom call to discuss its details.
  
-## Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/jobs/faq/)
+## Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/handbook/hiring/candidate/faq/)
 

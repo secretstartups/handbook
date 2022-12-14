@@ -51,7 +51,7 @@ Now it's time to get excited! Here are some links that might help you understand
 - [Support Engineer Responsibilities](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html)
 - [Support Workflows](https://about.gitlab.com/handbook/support/workflows/)
 - [Support Team Member Time Off](https://about.gitlab.com/handbook/support/support-time-off.html)
-- [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/jobs/faq/)
+- [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/handbook/hiring/candidate/faq/)
 - [Working for GitLab - A Support Engineer's perspective](https://about.gitlab.com/blog/2020/08/10/working-for-gitlab-a-support-engineers-perspective/)
 - [A series of blog posts by Cynthia, our Staff Support Engineer](https://cynthiang.ca/2020/06/16/reflection-part-1-my-first-year-at-gitlab-and-on-becoming-senior/)
 
@@ -146,4 +146,4 @@ Successful candidates will subsequently be made an offer. Once the offer is read
 
 
 
-Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/jobs/faq/)
+Questions? Check out our [Jobs at GitLab - Frequently Asked Questions](https://about.gitlab.com/handbook/hiring/candidate/faq/)

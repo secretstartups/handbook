@@ -120,7 +120,7 @@ In the event that a *Referral* is rejected based on their location factor the fo
 
 > Thank you again for submitting `CANDIDATE_FIRST_NAME` to the `REQUISITION_TITLE` role.
 >
-> Unfortunately, we’re unable to move forward with `CANDIDATE_FIRST_NAME`’s candidacy right now because they are located in a higher location factor area. With our [outbound hiring model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-talent-acquisition-model), the > Talent Acquisition team is focused on building a more diverse team in the most efficient way. This allows us to support our all-remote vision: to spread opportunity to underserved locales, and to influence the increase of wages for remote work outside of metro areas.
+> Unfortunately, we’re unable to move forward with `CANDIDATE_FIRST_NAME`’s candidacy right now because they are located in a higher location factor area. With our [outbound hiring model](https://about.gitlab.com/handbook/hiring/candidate/faq/), the > Talent Acquisition team is focused on building a more diverse team in the most efficient way. This allows us to support our all-remote vision: to spread opportunity to underserved locales, and to influence the increase of wages for remote work outside of metro areas.
 >
 > `CANDIDATE_FIRST_NAME` has received an email from our team explaining this. We’ve also added some clarity about this in the [Referral Submission Issue Template](https://about.gitlab.com/handbook/hiring/referral-process/#submitting-a-referral) now to be sure team members consider this before they submit their referral.
 >
