@@ -164,7 +164,7 @@ Please note, requests for meeting about remote work, all-remote efforts, distrib
 * EBA to CEO should prepare draft responses
 * EBA to CEO should proactively schedule meetings requested via e-mail
 * Standard reply for recruiters:
-“We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](https://about.gitlab.com/jobs/faq/#we-dont-accept-solicitations-by-recruiters)."
+“We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](https://about.gitlab.com/handbook/hiring/candidate/faq/)."
 
 ### Travel preferences
 Current preferences for flights are:
