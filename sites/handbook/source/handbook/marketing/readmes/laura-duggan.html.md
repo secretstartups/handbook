@@ -12,7 +12,7 @@ description: "Learn more about working with Laura Duggan"
 
 ## Laura Duggan's README
 
-**Laura Duggan, Frontend Engineer** 
+**Laura Duggan, Senior Frontend Engineer** 
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
@@ -24,13 +24,12 @@ Please feel free to contribute to this page by opening a merge request.
 * [LinkedIn](https://www.linkedin.com/in/lauracduggan/)
 * [Team Page](https://about.gitlab.com/company/team/#lduggan)
 * [Website](https://www.lauraduggan.ca/)
-* [Twitter](https://twitter.com/atlauraduggan?lang=en)
 
 ## About me
 
 I'm a frontend developer originally educated in UX and product design. I attended a coding bootcamp, fell in love with CSS, and the rest is history. If you're into accessible design and execution, I'm sure we'll be great friends.
 
-Here's a [conference talk](https://drive.google.com/file/d/1vUkZxSmKB3-DwyyZ7M2wsPRG6DUeAxyg/view) I did at ForwardJS on the elements of a design system that developers love.
+Here's a [conference talk](https://www.youtube.com/watch?v=VQJnk2B_p5s) I did at ForwardJS on the elements of a design system that developers love.
 
 ## Impactful Books
 
@@ -38,9 +37,6 @@ Here's a [conference talk](https://drive.google.com/file/d/1vUkZxSmKB3-DwyyZ7M2w
 * **Reset, by Ellen Pao** tells the journey of the former venture-capitalist-turned-Reddit-CEO and her experiences of mysogony, discrimination, and retaliation in the tech and finance industries.
 * **The Undoing Project, by Michael Lewis** examines the Nobel-Prize-winning duo of behavioural psychologists Daniel Kahneman and Amos Tversky, and how they changed perceptions on decision-making. 
 
-## Myers-Briggs Personality type
-
-"The Defender" (ISFJ-A / ISFJ-T)
 
 ## Strengths/Weaknesses/Musings
 
