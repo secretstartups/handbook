@@ -50,7 +50,7 @@ Follow these steps to obtain legal approval and enter into a CLA on behalf of Gi
  1. If an email address and/or account is required to enter into the CLA, the `cla_managers`[at] `gitlab.com` email address should be used. Access to this Google Group can be requested and granted via the issue if required. 
  1. Once Legal have confirmed approval of the CLA in the issue, you can proceed to enter into the CLA (using the `cla_managers`[at] `gitlab.com` email if one is required) and begin contributing to the project.
 
-We are continuing to develop our policy and workflow around CLAs on behalf of GitLab contributors. [See related issue here](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/general/-/issues/238). For any questions in the meantime, please post to the [#legal](https://gitlab.slack.com/app_redirect?channel=C78E74A6L) Slack channel. 
+Contributions to a third-party project on behalf of GitLab should be made using your @gitlab.com email address. We are continuing to develop our policy and workflow around CLAs on behalf of GitLab contributors. [See related issue here](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/general/-/issues/238). For any questions in the meantime, please post to the [#legal](https://gitlab.slack.com/app_redirect?channel=C78E74A6L) Slack channel. 
 
 ### Contributing to a project on GitLab
 
