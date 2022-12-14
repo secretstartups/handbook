@@ -21,6 +21,7 @@ The interview process consists of the following stages:
 
 1. Application Process
 1. Screening Call
+1. Assessment (required for certain roles)
 1. Technical Interview (required for certain roles)
 1. Team Interviews
 1. References
@@ -85,7 +86,7 @@ If your experience is a good fit for the role, we will be in touch soon. Please 
 
 ### Screening Call expectations
 
-If it is determined that you qualify for continued consideration, the assigned Recruiter will conduct a screening call with you. Calls can last anywhere between 10 and 30 minutes, depending on the conversation. The Recruiter will wait 5 minutes for you to show up to the appointed video call, which is always shared via email. If you do not show up to the interview, or do not reach out in advance to reschedule, you will be classified as a no show and be disqualified. We will unreject when circumstances beyond your control cause you to miss a scheduled call.
+If it is determined that you qualify for continued consideration, the assigned Recruiter will conduct a screening call with you. Calls can last anywhere between 30 and 40 minutes (some specialist roles require more time), depending on the conversation. The Recruiter will wait 5 minutes for you to show up to the appointed video call, which is always shared via email. If you do not show up to the interview, or do not reach out in advance to reschedule, you will be classified as a no show and be disqualified. We will unreject when circumstances beyond your control cause you to miss a scheduled call.
 
 You, the recruiter or the hiring manager can terminate the discussion at any point during the interview if either party determines that it isn’t a fit. Be as transparent and honest as possible and provide feedback.
 
@@ -151,7 +152,7 @@ Yes. You can email your Recruiter or ces@gitlab.com to request your interviewer'
 <summary>Can I interview for multiple roles at the same time?
 </summary>
 
-Yes, you can be in an interview process with more than one team if multiple roles interest you. Additionally, if you have already interviewed with us, you can apply and interview for a different role anytime. 
+You can apply to multiple roles and during the screening call you and the recruiter (when possible) will determine what role would be best for you. This means that it can happen that you'll be introduced to another recruiter after the screening call, depending on the outcome. When you already have interviewed with us, you can apply for a different role again, but please take note that there can be a cooldown period of 6 months or more if it's a similar role, depending on the reason for not moving forward which is communicated by the recruiter.
 
 </details>
 
