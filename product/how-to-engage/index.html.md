@@ -132,8 +132,15 @@ salesforce.com/blabla
 You can copy/paste this to make sure you don't miss anything:
 
 ```
-<!-- Click on ~customer priority:: to select an appropriate label -->
+<!-- Select the appropriate subscription and product text below and remove the others (note: do not add them as labels)>
+<!-- Click on ~customer priority:: below to select an appropriate label 1 through 10 with 10 being the highest>
+<!-- Save this comment as an internal note (tick the checkbox above the "Comment" button -->
 
+The following ~customer is interested in this capability 
+
+- Subscription: Ultimate OR Premium OR Free User
+- Product: self-managed OR SaaS
+- Number of Licenses:
 - Link to request:
 - Priority: ~customer priority::   
 - Why interested:
@@ -142,7 +149,7 @@ You can copy/paste this to make sure you don't miss anything:
 - Impact to the customer of not having this:
 - Questions:
 - PM to mention:
-```
+<!-- Be sure to save this comment as an internal note (tick the checkbox above the "Comment" button -->
 
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards: 
 
