@@ -19,6 +19,8 @@ An account plan is a document or record that contains important details about a 
 
 The SAL should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account. Like a CEO, the SAL need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Customer Success Manager, and Channel Partners as you strategize and build the account plan!
 
+**Get started with the [Account Planning template](https://docs.google.com/presentation/d/1eZvbplyD5btVKW_QET2X4Whr6GOB2Etub8jjEJpQ_Ks/edit#slide=id.g16fb994af68_0_4) in our shared Google Drive** (internal team members only).
+
 ## Why Account Planning?
 
 Account planning helps the SAL and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
