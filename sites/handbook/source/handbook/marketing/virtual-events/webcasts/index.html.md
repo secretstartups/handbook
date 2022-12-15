@@ -248,7 +248,7 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
 {: #technical-demo-series .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Technical demos are aligned with the GTM Motions and cover a range of topics relevant to leads in consideration & purchase stages.  
-Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / On24 Platforms with an option for Q&A. 
+Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / On24 Platforms with an option for written or live Q&A. 
 
 **Primary goal:**
 * Accelerate MQL > SAO conversion
@@ -280,7 +280,7 @@ The following landing pages combining technical demos and workshops are being ma
 ### On24 Webcast Calendar
 {: #bt-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Campaigns Team manages the [On24 webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled On24 webcasts and their related dry runs. **The purpose of the On24 webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all On24 webcasts.**
+[On24 webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) is used to log all planned and scheduled On24 webcasts and their related dry runs. **The purpose of the On24 webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all On24 webcasts across teams.**
 
 **Adding to the calendar:**
 1. Add tentative webcasts to the calendar with `[Hold]`
@@ -335,7 +335,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 
 
 ---
-<!-- NOTE: THE DOCUMENTATION BELOW IS FOR ZOOM ONLY!!! BRIGHTTALK & WEBEX IS BELOW IN THIS HANDBOOK PAGE -->
+<!-- NOTE: THE DOCUMENTATION BELOW IS FOR ZOOM ONLY!!! ON24 & WEBEX IS BELOW IN THIS HANDBOOK PAGE -->
 
 ## Zoom Webcasts
 {: #zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -737,16 +737,45 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 9. Go to Zoom, delete the webcast program from Zoom and make sure to uncheck `send webinar cancellation email to panelists and registrants` since this is already covered in step 4.
 
 ----
-<!-- NOTE: THE REST OF THE DOCUMENTATION IS FOR BRIGHTTALK ONLY!!! -->
+<!-- NOTE: THE REST OF THE DOCUMENTATION IS FOR ON24 ONLY!!! -->
 
-## LIVE webcast registration and tracking - BrightTALK
+## ON24 Webcasts
+{: #on24 .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-## Project Management for BrightTALK Webcasts
-{: #bt-project-management .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
-Campaign webcasts are hosted on BrightTALK, and project management is organized by Campaign Managers.
+### Quick Links
+{: #0n24-quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### Organizing BrightTALK webcast epics and issues
-{: #bt-epics-issues} <!-- DO NOT CHANGE THIS ANCHOR -->
+* [ON24 Webcast Login Portal](https://wcc.on24.com/webcast/login)
+* [ON24 Knowledge Centre](https://on24support.force.com/Support/s/knowledge)
+
+### Types of ON24 Webcasts
+{: #on24-types} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+* **ON24 Live (with Screen Share):** traditional live webcast with live speakers and Q&A.
+   - Pre-event registration takes place
+   - The event automatically converts to on-demand upon completion
+* **ON24 Live Audio (no Screen Share):** multiple presenters can present a live webcast using the telephone. Presenters will dial into the ON24 presenter phone bridge for the live event. Live screen share is not available with this event type.
+   - Pre-event registration takes place
+   - The event automatically converts to on-demand upon completion
+* **Simu-live (written Q&A)**: choose this option if you wish to pre-record entire event and deliver it to a live audience at a designated date and time. **Note**: Simu-lives must be created in advance. No changes can be made two hours before the scheduled live time.
+   - Pre-event registration takes place
+   - At time of webcast, a recording is played.
+   - You can interact with the live audience through written Q&A during playback of the pre-recorded presentation. 
+   - The event will end immediately after the pre-recorded playback has ended, therefore it is best to do a mock Q&A and inform attendees that any questions will be individually addressed after the webinar, allowing for seamless follow up by SDRs.
+   - The event automatically converts to on-demand upon completion
+* **Simu-live (with rollover to live Q&A)**: also known as Sim-2-live, provides presenters the opportunity to address comments and questions verbally with a live audience once the pre-recorded presentation is done playing. For this event type select, Simu-live then enable the Rollover to Video and Audio toggle under Main Details.
+   - Pre-event registration takes place
+   - At time of webcast, a recording is played.
+   - You can interact with the live audience through written Q&A during playback of the pre-recorded presentation and at the end of the webcast addressing questions live. 
+   - The event automatically converts to on-demand upon completion.
+* **Recurring Simu-live**: this webcast type provides an efficient option to create one event and run it multiple times for recurring presentations such as daily demos, weekly campaign presentations, etc.  Attendees can choose the date they wish to attend. All registrant and attendee data will roll up into a single report.
+* **On Demand**: essentially an on-demand webcast, no interaction with a live audience.
+   - No pre-registration
+
+## LIVE webcast registration and tracking - ON24
+
+### Organizing ON24 webcast epics and issues
+{: #on24-epics-issues} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **Confirm Date:** The webcast idea issue (date request issue) must be complete and confirmed before creation of the epic, issues, and workback.
 * **Campaign Webcast Epic:** campaign manager creates webcast epic (using code below)
@@ -775,48 +804,78 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 * [landing page copy]() - `doc to be added by Marketing Programs` ([clone the template here](https://docs.google.com/document/d/1xHnLKPCaXrpEe1ccRh_7-IqgNbAlzQsZVc-wr1W4ng8/edit#))
 * [ ] [main salesforce campaign]()
 * [ ] [main marketo program]()
+* [ ] [ON24 webcast preview link]()
 
 ## :books: Issue creation
 
 <details>
 <summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.</summary>
 
-* [ ] Zoom license date request issue created
 * [ ] Secure presenters and schedule dry runs issue created
 * [ ] Facilitate tracking issue
 * [ ] Landing page issue created
-* [ ] Optional: New design assets issue created for the design team
-* [ ] Invitation and reminder issue created
+* [ ] Invitation and reminder issues created
 * [ ] Organic social issue created for social media manager
-* [ ] Paid Ads issue created for DMP
 * [ ] PathFactory request issue created
 * [ ] Follow up email issue created
 * [ ] Add to nurture stream issue created
 * [ ] Host dry run issue created
-* [ ] Prepare for webcast isue created
+* [ ] Prepare for webcast issue created
 * [ ] On-demand switch issue created
 </details>
 
 /label ~mktg-demandgen ~dg-campaigns ~"Webcast - GitLab Hosted" ~"Webcast" ~"mktg-status::wip"
 
 ```
+## ON24 Webcast Setup
+{: #on24-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-## BrightTALK LIVE webcast registration and tracking
-{: #bt-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Step 1: Configure ON24
+{: #configure-on24} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### Create program in Marketo - BrightTALK
-{: #bt-marketo-program} <!-- DO NOT CHANGE THIS ANCHOR -->
+*Note: ON24 Elite license is used for all field marketing and campaigns internally hosted webcasts. Therefore, when a webcast is requested please confirm there is not going to be a conflict between the pre-scheduled sessions - both live and dry-run - using that license by checking the [webcast gcal](https://calendar.google.com/calendar/u/0?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Schedule no less than 30min between sessions (before & after) so there is less chance of conflict and allows for a buffer.*
 
-1. Create the webcast program in Marketo by navigating to the [Webcast program template for BrightTalk](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
-1. Right-click and select "clone"
+1. **LOGIN**: log into [ON24 Webcast Portal](https://wcc.on24.com/webcast/login).
+2. **TEMPLATE**: search for a template based on the event type. In the right column under “Actions” select the copy icon to clone a template. When cloning an event, all media files will transfer to the new webcast.
+      * Live Event:
+         - [Template (A)](https://wcc.on24.com/webcast/update/3812772) - Standard event template - Trial Banner
+         - [Template (B)](https://wcc.on24.com/webcast/update/4008047) - Standard event template - Trial Tanuki
+      * Simu-Live Event: 
+         - [Template (A)](https://wcc.on24.com/webcast/update/3831579) - XL Media Player (no slide widget) - Trial Banner
+         - [Template (B)](https://wcc.on24.com/webcast/update/4008048) - XL Media Player (no slide widget) - Trial Tanuki
+**Note**: all the templates are tagged with Template and that after cloning the cloned program should have that tag removed
+3. **KEY FIELDS**: update new program fields: Title, Date, Time, Duration, Timezone. Change event type if needed to Simu-live. Select “Create Event” to save and generate Event ID and Webcast URLs. 
+4. **TIMEZONE**: select a drop-down timezone option with city/country instead of a generic GMT+ time zone. Generic time zones do not update with time changes, such as Daylight Savings Time.
+5. **MEDIA FILE**: Replace Media File with new event PPT.
+6. **PANELISTS**: panelists and presenters will share Presenters Link. Video instructions are available below. 
+
+**Adding alt-host and panelist to a webcast**
+<iframe width="560" height="315" src="TBC" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+7. *Optional* **EMAILS**: If applicable, edit the confirmation and reminder emails under the email setting tab.
+    * Make sure the registration confirmation email and the reminder emails are set to send from ON24. 
+8. *Optional* **POLLING**: If applicable, add polling questions to the webcast by following the instructions in the video below. Note there is a character limit on poll answer options of 40 characters.
+9. **ATTENDEE & PRESENTER MAX**: All live events and experiences are capped by default at 2,500 live attendees and max of 10 presenters.
+
+**Adding poll questions to a webcast**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIo88jv88tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Step 2: Set up the webcast in Marketo/SFDC and connect to ON24
+{: #on24-mkto-setup} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Create program in Marketo - ON24
+{: #on24-marketo-program} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+1. Create the webcast program in Marketo by navigating to the [Templates - ON24](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF12119A1) and select between webcast and workshop.
+1. Right-click the appropriate template, and select "clone"
 1. Next to "Clone To", choose `A campaign folder`.
-1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]_BTLK`. For example, `20170418_MovingToGit_BTLK`.
-1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]_BTLK`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC_BTLK`.
-1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` folder.
+1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
+1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC`.
+1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` or `GitLab-Hosted Workshops` folders.
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
-### Create campaign in Salesforce - BrightTALK
-{: #bt-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
+#### Create campaign in Salesforce - ON24
+{: #on24-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. In the Marketo program Summary view, you will see `Salesforce Campaign Sync:` with a link that says "not set".
 1. Click on "not set" 
@@ -827,123 +886,85 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. NOW you will navigate to the Campaign in SFDC to do a quick review - [Shortcut to Campaigns](https://gitlab.my.salesforce.com/701/o)
 1. Click into the SFDC campaign
 1. Change the campaign owner to the webcast DRI
-1. Update Large Bucket ([Definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets))
 1. Change the status to `in progress`
-1. Edit the `Enable Bizible Touchpoints` field to `Include all Campaign Members`. (**Note:** Only edit the field on child campaigns, editing the field on parent campaigns will result in double creation of Bizible TPs for the same activities.)
-1. Edit the Budgeted Cost (required) to cost of webcast, or "$1" if there is no cost associated
-1. Update `Region` and `Subregion` if you have the data available
+1. Edit the `Enable Bizible Touchpoints` field to `Include only "Responded" Campaign Members`
+1. Edit the Budgeted Cost (required) to cost of webcast, or "1" if there is no cost associated
 1. Click save
 
-### Create live webcast in BrightTALK
-{: #bt-create-webcast} <!-- DO NOT CHANGE THIS ANCHOR -->
+#### Connecting On24 Web Events to Marketo Programs
+{: #on24-marketo-connect} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, schedule a talk. _*Note: Only type: `talk` allows you to share videos_
-1. **TALK TITLE**: Insert the title of the webcast (public facing)
-1. **DESCRIPTION**: Enter here a brief synopsis of the webcast. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it.
-1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
-1. **DURATION**: Add how long the webcast will be.
-1. **START DATE**: Select the date your live webcast will take place on.
-1. **START TIME**: Time your webcast will go live.
-1. **TIMEZONE**: The time zone you select here should be based on where your presenter intends to present from. This will determine the local dial-in number generated for your presenter. NOTE: This will NOT affect how your webcast is listed. Webcasts are always listed in your player and on BrightTALK in the local time of your viewers.
-1. **TAG**: Enter up to 10 terms that cover the topics and themes of your content - simply type each tag and click 'Add tag'. BrightTalk will suggest topics that are trending, but feel free to add any tag you believe is relevant - up to 34 characters per tag.
-1. **IMAGE UPLOAD**: This will be used for the click to play overlay and thumbnail. Upload JPG/PNG image file of size 640x360. File upload limit 1MB.
+*After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo. Unlike other tools, the On24 room and Marketo program do not need to be connected via the Event Partner field on the Marketo program. All data transfer is done via the Event ID and smart campaigns.*
 
-PUBLISHING
-1. **Public/Private**: Select 'Public' to promote this webcast in your channel listing and via the BrightTALK email service. Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
-1. **Channel Survey**: Select 'Enabled' to allow surveys to go out for this webcast. Otherwise, select 'Disabled'.
-1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
-1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
-1. **NOTE ON UTMS**: After you schedule your event, BrightTalk will provide you with a link to promote the event. It will have UTMs already associated with it. You can change the utm_campaign= to match your campaign UTM (and other utms, if desired) in Marketo or when providing the link to others for promotion. You cannot change the utms in BrightTalk directly.
+1. From the previous event set up, please be sure to have the `Event ID` and `Audience URL` handy.
+1. Navigate to the Marketo template folder `Templates - On24`. Located in this folder are program templates Designed with triggers to work with On24's Marketo custom object. Make a copy of the needed program type template in the appropriate folder.
+1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 Event ID to the following smart campaigns on the Added to ON24 Attendee trigger filter:
+      * `04 On24 Processing - Attended`
+      * `04 On24 Processing - Follow Up Requested`
+      * `04 On24 Processing - No Show`
+      * `04 On24 Processing - On Demand`
+1. Next activate the following smart trigger campaigns:
+      * `01 Registration Flow (choose single or multi)`
+      * `00 Interesting Moments`
+      * `01a Registration flow (single timeslot)` or `01b Registration Flow (Multi-timeslot)`
+      * `04 On24 Processing - Attended`
+      * `04 On24 Processing - Follow Up Requested`
+      * `04 On24 Processing - On Demand`. Only activate this smart campaign if it is appropriate for the webinar, such as in the event the webinar will be left available for on-demand viewing.
+      * `04 On24 Processing - No Show`. No Show will not be activated as a trigger, but as a batch campaign scheduled to run 6 hours after the event has completed.
+1. Before continuing on, check if it seems appropriate to set any of the local assets to expire. Appropriate items to set an expiration would be, for example, smart campaigns like the `04 On24 Processing - Attended` campaign, which is no longer needed after the event ends.
+1. Update the program tokens as needed within the program. All email assets and landing pages are token dependent. 
+1. **Important tokens to review**:
+      * `{{my.on24URL}}`: This token needs to be updated as upon registration the registrant is sent an automatic email with the Audience URL attached to this token.
+      * `{{my.key}}`: This token needs to have the correct alphanumerical value taken from the Audience URL for the registration confirmation email to trigger.  
+      * `{{my.webcastDate}}`, `{{my.webcastTitle}}` etc. are standard to update.     
+      * `{{my.On24password}}`: Update this with the webinar password. If no password was set up in the console, completely remove token from registration confirmation email as it is not necessary.
+1. Please note, the `Registration Flow` smart campaigns will send out the Audience URL for the event and have tokens arranged to share event passwords.
+1. Operational emails such as `Registration Confirmation` and `Reminder emails` will be sent from ON24, make sure these are activated in the ON24 program (all template already have them activated).
 
-### Connect the Marketo program to BrightTALK
-{: #bt-marketo-connect} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Step 3.A: Update all other standard Marketo Tokens
+{: #on24-marketo-tokens} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. Navigate to the [Connectors Tab](https://www.brighttalk.com/central/account/20277/channel/17523/connectors) in BrightTALK Demand Central
-1. Click to [Manage](https://www.brighttalk.com/central/account/20277/channel/17523/connector/1579/manage) under the Marketo Account
-1. Navigate to `Marketo Programs`, find your program and select `Connect`
-1. Insert program name EXACTLY as it is spelled in marketo, and click Next. *CRITICAL NOTE: If you change the program name, the sync will break.
-1. Select how far back you want to sync data for, typically put in today's date. Click Next.
-1. You are now connected! The sync runs every hour.
-
-### Update tokens in Marketo program
-{: #bt-marketo-tokens} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-1. There is no need to update ALL Tokens at this time, as all registration and emails are being sent from the BrightTALK platform. Update the following Tokens:
-   * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
-   * `{{my.bullet2}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
-   * `{{my.bullet3}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
-   * `{{my.bullet4}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
-   * `{{my.mpm owner email address}}` - not used in automation, but helpful to know who to go to about setup
+   * `{{my.bullet1}}`-`{{my.bullet4}}`- bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
+   * `{{my.emailConfirmationButtonCopy}}`  - copy for the email confirmation (when on demand), leave as `Watch now`
+   * `{{my.formButtonCopy}}` - copy for the form button, leave as `Register now` (when switching to on-demand, this will change to `Watch now`)
+   * `{{my.formHeader}}` - copy for header of form, leave as `Save your spot today!` (when switching to on-demand, this will change to `View the webcast today!`)
+   * `{{my.introParagraph}}` - intro paragraph to be used in landing page and nurture email, with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
+   * `{{my.ondemandUrl}}` - skip updating in initial registration page setup (update during on-demand switch), Pathfactory link WITHOUT the `https://` NOR the email tracking part (`lb_email=`)
+     * Example of correct link to include: `learn.gitlab.com/gartner-voc-aro/gartner-voc-aro` - the code in the Marketo template assets will create the URL `https://learn.gitlab.com/gartner-voc-aro/gartner-voc-aro?lb_email={{lead.email address}}&{{my.utm}}`
+     * Note that both parts of this url include custom URL slugs which should be incorporated into all pathfactory links for simplicity of tracking paramaeters
    * `{{my.socialImage}}` - image that would be presented in social, slack, etc. preview when the URL is shared, this image is provided by design/social, leave the default unless presented with webcast specific image.
+   * `{{my.speaker1Company}}` token with speaker 1's company name
+   * `{{my.speaker1ImageURL}}` token with speaker 1's image url in marketo design studio
+   * `{{my.speaker1JobTitle}}` token with speaker 1's job title
+   * `{{my.speaker1Name}}` token with speaker 1's full name
    * REPEAT this for speaker 2 and 3. If there are more or less speakers, follow the instructions below at the end of the general webcast setup.
    * `{{my.utm}}` - UTM to track traffic to the proper campaign in reporting dashboards (append integrated campaign utm or program name, if webcast is not part of an integrated campaign, to the utm campaign token)
    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1471341556)
-   * `{{my.webcastDate}}` - the webcast LIVE date.
-   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in Youtube and Pathfactory description.
-   * `{{my.webcastSubtitle}}` token with subtitle for the webcast.
+@@ -883,66 +923,27 @@ PUBLISHING
    * `{{my.webcastTime}}` token with the webcast time in local timezone/UTC timezone.
    * `{{my.webcastTitle}}` token with the webcast title.
 
-### Activate smart campaigns in Marketo
-{: #bt-marketo-smart-campaigns} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Step 3.B: Create the landing page
+{: #on24-marketo-lp} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-   * Activate the `01 Processing` campaign.
-   * Schedule the `02 Set No-Show Stats` smart campaign for 3-4 hours AFTER the webinar will end.
-   * Interesting moments are captured on a global level.
+* When you cloned the webcast template, and updated the Marketo tokens, your landing page is almost ready to go!
+   * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
+   * Use the format `webcast-topic` (or `webcast-topic-region` if region is relevant) - ex. `webcast-mastering-cicd` or `webcast-mastering-cicd-italian`
+* Complete the same steps for the `Thank You Page`
+   * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
 
-### Schedule your BrightTALK practice session (Dry Run)
-{: #bt-practice-session} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Schedule your ON24 practice session (Dry Run)
+{: #on24-practice-session} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Create a Talk, following the [instructions above.](/handbook/marketing/virtual-events/webcasts/)
-* Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
-* After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
-* If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
+* Once an event is created, the presenter link becomes active until the live event. It’s unnecessary to schedule an additional dry run event. 
+* Share the Presenter URL (which can be found in your Event URLs list in ON24 anfter event is created) to dry run participants. 
+      * Roles:
+         - Producers have the ability to take the event live and have additional admin functionalities such as media player configuration and building poll questions. 
+         - Presenters have limited admin abilities and can all advance slides during  the presentation. If screen sharing is part of the presentation, a driver is prompted the first time a user shares their screen. It’s best to test this function in advance, especially for users who are required to VPN into their device. Some VPNs will limit this functionality. 
+         - Q&A: this role is only available for simu-live events; simu-live events will auto-start at the webcast start time, speakers/SMEs can use this role to answer questions via chat.
 
-### Loading a video to use in BrightTALK during a live talk or mock-live replay
-{: #bt-video-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-* You must upload the video you plan to play in a live talk prior to the event. A video must also be loaded before scheduling a replay.
-1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, Upload a Video. Videos are uploaded as Unpublished.
-1. **WEBCAST TITLE**: Insert the title of the video (public facing)
-1. **DESCRIPTION**: Enter here a brief synopsis of the video. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it if you plan to make this public.
-1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
-1. **DATE**: Select the date of upload (or date of the video)
-1. **TAG**: Enter up to 10 terms that cover the topics and themes of your content - simply type each tag and click 'Add tag'. BrightTalk will suggest topics that are trending, but feel free to add any tag you believe is relevant - up to 34 characters per tag.
-1. **DON'T PROMOTE**: If you only want to play this video in a live webcast, select `Don't promote this webcast into any communities`
-1. Click Proceed
-1. Select the video for upload. Add the time stamp to capture an image, or upload a featured image.
-1. Select the nearest upload location to you.
-1. Click upload. This may take awhile, depending on how large the video is.
-1. After the video uploads, click `Edit and publish`. Change the video to `Private` if you are going to play it during a live webcast or use it as a replay.
-1. You can now select the video to play from the presenter screen of your Talk or proceed to scheduling the replay.
-
-### Scheduling a Replay
-{: #bt-schedule-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-* This option allows you to play a recorded webcast as live at a specific time. The video will play automatically with this option, no one needs to log in to start the webcast. Questions from viewers are recorded and can be downloaded from BrightTalk, then loaded to SFDC for follow-up. If you would like to have a live Q&A session, follow the instructions to schedule a `Talk` instead. You will need to log in to play the pre-recorded video and your presenters will need to be available to answer the questions live.
-* Complete steps to [load a video](/handbook/marketing/virtual-events/webcasts/#loading-a-video-to-use-in-brighttalk-during-a-live-talk-or-mock-live-replay) before scheduling your replay. 
-1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Select content` under the Replay section.
-1. **SELECT VIDEO**: Select the video you would like to use in your replay. Click Proceed. 
-1. **REPLAY TITLE**: Insert the title of the webcast (public facing). This information will be prefilled, based on the information provided when the video was uploaded.
-1. **DESCRIPTION**: Enter here a brief synopsis of the webcast. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it. This information will be prefilled, based on the information provided when the video was uploaded.
-1. **ATTACHMENTS**: If attachments or surveys were associated to the video (or the first live webcast), you can check this box to keep those attachments and surveys associated with your replay. Uncheck the box if you do not want to include any attachments (this will be most common).
-1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
-1. **DURATION**: This is automatically pulled from the video length.
-1. **START DATE**: Select the date your mock-live webcast will take place on.
-1. **START TIME**: Time your mock-live webcast will go live.
-1. **TIMEZONE**: Enter the timezone of your `Start Time` here. NOTE: This will NOT affect how your webcast is listed. Webcasts are always listed in your player and on BrightTALK in the local time of your viewers.
-1. **TAG**: Enter up to 10 terms that cover the topics and themes of your content - simply type each tag and click 'Add tag'. BrightTalk will suggest topics that are trending, but feel free to add any tag you believe is relevant - up to 34 characters per tag.
-1. **IMAGE UPLOAD**: This will be used for the click to play overlay and thumbnail. Upload JPG/PNG image file of size 640x360. File upload limit 1MB. You can select an image from the video, but if you are doing a live replay, make sure it does not have a picture of the speaker presenting the content. Uploading the welcome screen of the presentation is recommended.
-
-PUBLISHING
-1. **Public/Private**: Select 'Public' to promote this webcast in your channel listing and via the BrightTALK email service. Select 'Private' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Private' webcast will be able to view it.
-1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
-1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
-1. **NOTE ON UTMS**: After you schedule your event, BrightTalk will provide you with a link to promote the event. It will have UTMs already associated with it. You can change the utm_campaign= to match your campaign UTM (and other utms, if desired) in Marketo or when providing the link to others for promotion. You cannot change the utms in BrightTalk directly.
-
-
-### BrightTALK Webcast Invitations
-{: #bt-email-invitations} <!-- DO NOT CHANGE THIS ANCHOR -->
+### ON24 Webcast Invitations
+{: #0n24-email-invitations} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 :exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
@@ -952,61 +973,62 @@ PUBLISHING
 2. Approve copy and send samples to the requester, and the presenter (if different from requester).
 3. Go to the `List` folder and edit the `Target List` smart list and input the names of past similar programs and applicable program statuses to the `Member of program` filter. This will make sure people that have attended programs with similar topics in the past are included in the invite.
    * Note: We may uplevel this logic to include webcast invitations within active nurture programs to limit the overhead for invitation emails.
-4. Once you get approval on the sample email copy, schedule the email programs outlined in step 1.
 
 ### Add the webcast to the /events/ and /resources/ pages
-{: #bt-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #on24-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
-### BrightTALK Webcast Testings / QA
-{: #bt-webcast-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
+### ON24 Webcast Testings / QA
+{: #on24-webcast-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Submit a test lead using your gitlab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from BrightTALK.
+Submit a test lead using your GitLab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from ON24.
 
-:stopwatch: It will take up to 2 hours to sync the registration from BrightTalk to Marketo.
+**Doing a QA for your ON24 Webcast Registration Page**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3k4FUe6_LXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Switching BrightTALK Webcasts to On-Demand
-{: #bt-ondemand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Switching ON24 Webcasts to On-Demand
+{: #on24-ondemand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-BrightTALk will automatically convert the video to on-demand in the BrightTALK platform. The steps below allow us to further leverage the webcast in Pathfactory.
+ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory.
 
-1. **Youtube**: Upload the recording to our main GitLab channel
+1. **Vimeo**: vimeo provides an ads free user expierence, therefore should be primary video platform used for on-demand recording uploads. To request an upload, open [an issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) with Digital Production Team.
+1. **Youtube**: upload the recording to our main GitLab channel:
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
    * Make sure the video is set as `Unlisted` so only people with the URL to the video can find it
 1. **Youtube**: Once the recording has been uploaded, copy the video link on the right
-1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
+1. **Pathfactory**: Login to PathFactory and add the YouTube or Vimeo link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
 
-### Rescheduling a BrightTALK webcast
-{: #bt-reschedule} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Rescheduling an ON24 webcast
+{: #on24-reschedule} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event you need to change the date of your webcast, please follow the steps outlined below.
 
-1. DO NOT UPDATE THE PROGRAM NAME IN MARKETO - this will break the sync if it is already set up between Marketo and BrightTALK.
-1. Update the date/time of the webcast on the webcast calendar and resend invites to all panelists.
-1. Update the webcast epic so the new date is reflected on the title
+1. DO NOT UPDATE THE PROGRAM NAME IN MARKETO - this will break the sync if it is already set up between Marketo and ON24.
+1. Update the date/time of the webcast on the [webcast calendar](https://calendar.google.com/calendar/u/0?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) and resend invites to all presenters / panelists.
+1. Update the webcast epic so the new date is reflected on the title.
 1. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
 1. Update issue due dates based on the new timeline and communicate changes to relevant team members.
-1. Update on the [events page](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) and [resources page](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/resources.yml).
-1. Update the date in BrightTALK
-   * *An email will automatically send from BrightTALK to the registrants.*
+1. Update the [events page](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) with the new date and time.
+1. Update the date in ON24
+   * *The system will not automatically update registrants, but you can use the ON24 email notifications to reach out.* Step-by-step instructions available on the [ON24 support page](https://support.on24.com/Support/s/article/Webcast-Elite-Reschedule-or-Cancel-a-Webinar).
 
-### Canceling a BrightTALK Webcast
-{: #bt-cancel} <!-- DO NOT CHANGE THIS ANCHOR -->
+### Canceling an ON24 Webcast
+{: #on24-cancel} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In the event you need to cancel your webcast, please follow the steps outlined below. Note that BrightTalk sets up promotional emails 24-48 hours in advance. This means that after you cancel a webcast, it may still appear in promotional emails (via webcast recommendations) from BrightTalk for up to 48 hours. However, they will not be able to register for the cancelled webcast.
-
-1. Remove the webcast from the BrightTALK calendar.
-1. Add [Cancelled] to the webcast epic title then close it out.
+The process is very similar to rescheduling.
+1. Remove the webcast from the ON24 calendar.
+1. Add [Canceled] to the webcast epic title then close it out.
 1. Leave a comment on the epic stating the event has been canceled and tag all internal panelists and hosts.
-1. Add [Cancelled] to the related issues and close them out.
+1. Add [Canceled] to the related issues and close them out.
 1. If webcast is on the Events Page and Resources Page, remove in a new MR.
-1. Go into BrightTalk and Cancel
-   * *An email will automatically send from BrightTALK to the registrants.*
-1. In the Marketo program, deactivate all active smart campaigns and append [Cancelled] to the program name. NOTE: once you do this, the sync between Marketo and BrightTALK will be broken and there is no reverse.
-1. Go to Salesforce, append [Cancelled] to the SFDC campaign name.
+1. Go into ON24 and add [Canceled] to the title since webinars cannot be deleted if they already have registrants.
+   * *The system will not automatically update registrants, but you can use the ON24 email notifications to reach out.* Pull up the Email Notifications for the event and set the send date and time.
+   * Then click on the Preview/Edit option to edit the email text.
+1. In the Marketo program, deactivate all active smart campaigns and append [Canceled] to the program name.
+1. Go to Salesforce, append [Canceled] to the SFDC campaign name.
 
 ## LIVE webcast registration and tracking - WebEx
 
