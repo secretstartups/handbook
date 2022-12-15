@@ -85,7 +85,7 @@ This page is intended for Partner Help Desk specialists to document and review p
 </details>
 
 
-##Creating Partner Account and Contact Records
+## Creating Partner Account and Contact Records  
 Partner accounts should _always_ be created by the partner visiting `partners.gitlab.com` and signing up to become a partner. 
 - If the partner is a signatory for their company, they may sign the "click-through" contract to become a Partner by choosing "Yes" under the Partner Agreement.
 - If the partner is _not_ a signatory for the company, or if they are not ready to sign the contract and would like to redline the standard contract, they can choose "No" under the Partner Agreement, and then "Yes" for "I have questions about the agreement.   
