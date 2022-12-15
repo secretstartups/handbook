@@ -56,7 +56,7 @@ Navigate to various career development resources located throughout the GitLab h
     <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;">Career Development Conversations </a>
     <a href="/company/team/structure/#job-frameworks" class="btn btn-purple" style="width:200px;margin:5px;">Job Frameworks</a>
-    <a href="https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit" class="btn btn-purple" style="width:200px;margin:5px;">Tips for Creating Effective Growth Plans</a>
+    <a href="https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit" class="btn btn-purple" style="width:250px;margin:5px;">Tips for Creating Effective Growth Plans</a>
   </div>
 </div>
 
@@ -163,20 +163,20 @@ Epics are a great way to [transparently](/handbook/values/#transparency) and [ef
 
 ## Having Career Conversations
 
-CREDIT and Career Conversations
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpgqa4SHbVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Value | Career Conversation Application |
-| —-- | —------------ | 
+_Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.be/3pZoNORrDjU)_
+
+### CREDIT and Career Conversations
+
+| Value | Career Conversations Application |
+| ----- | —------------ | 
 | Collaboration | Growth is led by individuals and supported by managers.  |
 | Results | Growth increases engagement with work which drives greater results. |
 | Efficiency | Growth happens in the flow of work. |
 | Diversity, Inclusion, and Belonging | Our experiences influence career motivations and the support we need. |
 | Iteration| Motivation changes and promotes growth that is meaningful, interesting, and relevant. |
 | Transparency | Trust enables vulnerability and support in reaching true career goals. |
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpgqa4SHbVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.be/3pZoNORrDjU)_
 
 ### Having Career Conversations with your Manager
 
@@ -214,7 +214,6 @@ What do managers ask about when it comes to having career conversations with the
 1. You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take?
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 2. One of your direct reports has indicated they aren't interested in growing to the next level or developing further as they are happy in their current role. As their manager, what steps would you take?
 
