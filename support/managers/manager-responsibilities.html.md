@@ -109,7 +109,7 @@ Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the
 1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
 1. Help ensure your team members [meet the ticket baseline](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets they are working on. This encourages the even distribution of ticket volume across the team.
 1. Review notable Incidents/Emergencies and Customer Calls in 1:1 notes/meetings with your team members.
-
+1. Discuss [career development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) plans with team members at least once per quarter.
 
 ### Develop your skills through learning and training
 
