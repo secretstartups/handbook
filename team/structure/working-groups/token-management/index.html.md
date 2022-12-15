@@ -50,6 +50,7 @@ The Token Management Working Group will deliver:
 | Member         | Zach Rice       | Senior Backend Engineer, Secure:Static Analysis |
 | Member         | Lucas Charles   | Staff Backend Engineer, Secure:Static Analysis |
 | Member         | Dennis Appelt   | Staff Security Engineer, Security Research |
+| Member         | Mark Loveless   | Staff Security Engineer, Security Research |
 
 ## Direction
 The Token Management Working Group will work towards building a foundation and path forward for future token management security enhancements. This will be accomplished through the creation and publication of a token management security policy and proposed fixes for the high risk and low effort token management issues. With this, the Token Management Working Group will set up the fast follow on mid to long term token management security enhancement effort for success. For additional detail please visit our [Token Leaks internal handbook page](https://internal-handbook.gitlab.io/handbook/engineering/security/token-leaks/).
