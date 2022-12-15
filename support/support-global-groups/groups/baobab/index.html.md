@@ -80,3 +80,44 @@ There are Ticket Crush sessions scheduled at the following times:
   - Thursdays at 08:00 UTC (APAC/EMEA)
 
 There is also a social chat on Fridays at 10:30 UTC.
+
+# Focus Time
+
+Focus time is important to work on training modules and side projects. To help commit to our focus time, without worrying about leaving the queue unattended, fill in the table with your scheduled focus time in UTC.
+
+This way, we will ensure not more than one person is away from the queue at the same time.
+
+In case you need to change or reschedule your focus time, please notify your regional team mates.
+
+**EMEA Focus Time:** 
+
+| SE/DAY | Monday| Tuesday | Wednesday | Thursday | Friday |
+| ------------| -------------- | --------| ----------| ---------| -------|
+| Asmaa Hassan| 1:00 - 3:00 PM |  | | | 1:00 - 3:00 PM |
+| Katrin | | | | | |
+| Niklas |
+| Julius |
+| Paul |
+| Olivier |
+
+**AMER Focus Time:** 
+
+| SE/DAY | Monday| Tuesday | Wednesday | Thursday | Friday |
+| ------------| -------------- | --------| ----------| ---------| -------|
+| Harish | |  | | |  |
+| Davin Walker | | | | | |
+| Caleb Williamson |
+| Alejandro Guerrero |
+| Bo Carbonell |
+| Jio Castillo |
+| Jessie Lee |
+
+**APAC Focus Time:** 
+
+| SE/DAY | Monday| Tuesday | Wednesday | Thursday | Friday |
+| ------------| -------------- | --------| ----------| ---------| -------|
+| Matthew Badeau | | | | | |
+| James Reed |
+| Shaik Azhar |
+| Sam Hewitt |
+| Justin Farmiloe |
