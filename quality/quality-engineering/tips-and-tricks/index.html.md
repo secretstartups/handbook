@@ -22,8 +22,8 @@ against a specific release of the [GitLab project](https://gitlab.com/gitlab-org
 due reasons such as that particular GitLab release containing specific code needed for validating the changes made
 in GitLab-QA. To run a [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines) against
 a specific GitLab release, we need to know the GitLab release version created and tagged by the omnibus pipeline.
-This can be found by either observing the `RELEASE` variable in any of the `package-and-qa` test jobs or
-in the last output line of the `Trigger:gitlab-docker` job triggered by the `package-and-qa` job. Here is an example of what the `RELEASE` string
+This can be found by either observing the `RELEASE` variable in any of the `package-and-test` test jobs or
+in the last output line of the `Trigger:gitlab-docker` job triggered by the `package-and-test` job. Here is an example of what the `RELEASE` string
 looks like:
 
 ```bash
@@ -32,7 +32,7 @@ registry.gitlab.com/gitlab-org/omnibus-gitlab/gitlab-ee:41b42271ff37bf79066ef308
 
 Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines)
 with a `RELEASE` variable and use the copied string as its value. Create another variable called `QA_IMAGE` and set it to the value
-that can be found in the `package-and-qa` upstream job. Here is an example of what the `QA_IMAGE` string looks like:
+that can be found in the `package-and-test` upstream job. Here is an example of what the `QA_IMAGE` string looks like:
 
 ```bash
  registry.gitlab.com/gitlab-org/gitlab/gitlab-ee-qa:qa-shl-use-unique-group-for-access-termination-specs
@@ -42,7 +42,7 @@ Note that the string is same as `RELEASE` except for the `-qa` suffix on the ima
 
 Now run the pipeline against the branch that has your changes.
 
-It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-qa` job of GitLab's Merge Request.
+It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-test` job of GitLab's Merge Request.
 For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_image_name_from_the_MR%27).
 
 ## Running end-to-end test pipelines using code from a specific GitLab-QA branch
