@@ -37,66 +37,135 @@ corresponding Google Sheet.
 
 ### Support Engineering Manager
 
-#### Hiring (Weighting: 16.67%)
+#### Growth, development and hiring of team members (Weighting: 16.67%)
 {: .no_toc}
 
-- **Developing:** You are yet to complete the interviewing module and have not
-  yet attended interviews.
-- **Performing:** You are regularly conducting interviews and grading assessments.
-- **Exceeding:** You are actively involved in filling your open reqs by
-  communicating with the recruiter, involved in shaping hiring process and are
-  regularly being shadowed in interviews.
+- **Developing:**
+  - You are still getting to know your direct reports, and have not yet
+    established a foundation to discuss career or learning goals.
+  - You are still getting familiar with your direct reports' career or learning goals, and
+    provide minimal input helping your direct reports set and progress their career or
+    learning goals.
+  - You're becoming aware of your regional team's hiring needs, and/or are not yet
+    ready to conduct interviews and grade take-home assessments.
 
-#### Growth and development of team members (Weighting: 16.67%)
-{: .no_toc}
+- **Performing:**
+  - You encourage and coach your direct reports to set their own career or
+    learning goals in alignment with Support Engineering's business needs.
+  - You are aware of your regional team's hiring needs and contribute to hiring
+    activities when the opportunity presents itself. You are ready to conduct
+    interviews and grade take-home assessments when called upon to do so.
 
-- **Developing:** Discussions with team members on career development happen
-  infrequently and are not documented.
-- **Performing:** All team members have a Career Development Plan and
-  discussions for individual career development happen at least once a quarter.
-- **Exceeding:** Demonstrable achievement for team members' career goals and
-  further values alignment as a result of focused career development discussions.
+- **Exceeding:**
+  - Extends Performing descriptor.
+  - You play an active role in your direct reports' growth by connecting them
+    with learning resources, creating opportunities for personal development
+    and partnering with others to remove or smooth over obstacles to growth.
+  - You shape hiring strategy and process to mitigate or resolve people
+    resource-related gaps and weaknesses in Support Engineering and partner with
+    Talent Acquisition to ensure effective execution of the hiring plan.
 
 #### Process development and improvement (Weighting: 16.67%)
 {: .no_toc}
 
-- **Developing:** Some improvements and/or ideas for workflows/processes have
-  been identified but nothing has been completed yet.
-- **Performing:** Improvements to workflows/processes are documented (issues,
-  MR's) and moderate impact to the team can be shown.
-- **Exceeding:** Significant improvement to workflows/processes that directly
-  impacts Support KPIs or department OKR achievement.
+- **Developing:**
+  - You are just starting to build an understanding of Support Engineering
+    processes and workflows, and where friction exists in how we structure and
+    interact with work.
+  - You are still inwardly focused and haven't started engaging with your direct reports and your peers to understand
+    the day-to-day challenges of Support Engineering work.
+  - You're still finding your voice and aren't fully comfortable expressing your opinions or encouraging constructive participation in
+    public discussions on processes and process improvement.
+  - You're still working to get context and understand where you can contribute. As a result you do rarely propose, or play an active part in helping progress, process
+    improvement initiatives.
 
-#### Regular 1:1s with all direct reports (Weighting: 16.67%)
+- **Performing:**
+  - You stay up-to-date on the challenges Support Engineering team members
+    face in their day-to-day work and are able to understand and describe the
+    conflicting priorities that cause them.
+  - You take the initiative to [surface issues constructively](https://about.gitlab.com/handbook/values/#surface-issues-constructively)
+    and carefully use your voice as a manager to create psychological safety
+    that enables others on the team to contribute to discussions.
+  - You propose and drive improvement initiatives, or play an active role in helping
+    others progress implementation of their initiatives.
+
+- **Exceeding:**
+  - Extends Performing descriptor.
+  - You make use of effective [iteration](https://about.gitlab.com/handbook/values/#iteration)
+    and [decision making](https://about.gitlab.com/handbook/leadership/making-decisions/)
+    to gain support of and buy in from stakeholders both within Support
+    Engineering and in the wider GitLab organization to drive improvement
+    initiatives. You carefully monitor the impact of improvement initiatives and
+    are quick to adapt or reverse implementation if the desired outcome is not
+    achieved.
+  - You coach and enable your direct reports and other team members to own and
+    independently drive improvement initiatives.
+
+#### People care and performance management (Weighting: 16.67%)
 {: .no_toc}
 
-- **Developing:** 1:1s are inconsistent and/or irregular with some team members.
-- **Performing:** All direct reports are regularly and consistently having 1:1s
-  with a documented agenda
-- **Exceeding:** Continuously using the 1:1 as a tool to improve the quality of
-  working life for team members, by removing blocks, preventing burnout, and
-  supporting them in obtaining the results they are seeking.
+- **Developing:**
+  - You are just starting to build an understanding of most of your direct
+    reports' productivity, engagement with work and personal wellbeing. You are
+    just starting to discover their learning styles and coaching needs and as a result may not be able to quickly identify changes or needs in the same.
 
-#### Customer engagement (Weighting: 16.67%)
+  - You are begining to develop an awareness of the quality of your direct reports' work
+    with customers and the impact of their contributions to the Support Engineering team.
+  - Identifying and taking action on underperformance is challenging.
+
+- **Performing:**
+  - You keep up to date with your direct reports' productivity, engagement with
+    work and personal wellbeing, and provide a listening ear, encouragement and
+    coaching when necessary.
+  - You coach your direct reports to increase and/or maintain the quality of
+    their work with customers and their contributions to the Support Engineering
+    team.
+  - You identify underperformance of your direct reports and act quickly and
+    appropriately to manage it.
+
+- **Exceeding:**
+  - Extends Performing descriptor.
+  - You identify issues which might impact your direct reports' productivity,
+    engagement with work and personal wellbeing and work with your peers and
+    your manager to address the issues before they become problems.
+  - You enable your direct reports and amplify their voice where appropriate so
+    they can model being a manager of one and values alignment in the
+    areas of productivity, engagement with work and personal wellbeing to the
+    Support Engineering team.
+
+#### Managing customer service outcomes (Weighting: 16.67%)
 {: .no_toc}
 
-- **Developing:** Irregularly reviews SSAT feedback as a part of the SSAT
-  Reviewing Manager rotation.
-- **Performing:** Reviews SSAT feedback each week they're on the rotation;
-  inputs kudos into SWIR document and reaches out to customers per the workflow.
-- **Exceeding:** As a result of reviewing SSAT feedback has surfaced and
-  executed on process improvements. Surfaces insights or trends to the team to
-  drive behaviour that results in SSAT KPI achievement.
+- **Developing:**
+  - You are just starting to build an understanding of service-related Support
+    Engineering KPIs and the behaviors they drive. You are starting to build
+    awareness of what positive customer service outcomes look like at GitLab.
+  - You make minimal use of customer feedback to do service recovery in
+    individual cases, and/or improve the quality of customer service provided.
+  - You haven't begun to respond to and/or take the lead on customer escalations or
+    incidents.
+  - You do not actively monitor customer service-related Support Engineering KPIs and/or
+    intentionally contribute to enabling the team's achievement of those KPIs.
 
-#### Participating in an Escalation rotation (Weighting: 16.67%)
-{: .no_toc}
+- **Performing:**
+  - You make use of customer feedback and escalations to coach and improve the
+    quality of customer service provided by your direct reports.
+  - You make use of customer feedback and escalations to surface flaws in the
+    GitLab customer experience and/or how Support Engineering delivers customer
+    support.
+  - You monitor customer service-related Support Engineering KPIs, and coach and
+    enable your direct reports to contribute to the team's achievement of those
+    KPIs.
 
-- **Developing:** You are yet to participate in the escalation rotation, or
-  escalations are not responded to in a timely manner when on rotation.
-- **Performing:** You are participating in the escalation rotation and all
-  escalations are responded to in a timely manner.
-- **Exceeding:** You use the escalation rotation to build the profile of Support
-  and Support Management through excellent customer service to our internal
-  customers. You actively build your capacity to handle escalations better by
-  pairing with engineers, reaching out to customers and seeking to understand
-  and fix the root cause of individual and categorical escalations.
+- **Exceeding:**
+  - Extends Performing descriptor.
+  - You make use of customer feedback and escalations as opportunities for your
+    direct reports to independently drive outcomes that increase customer
+    satisfaction.
+  - You partner with your peers, manager and your direct reports to enable the
+    team to become more effective at achieving customer service-related Support
+    Engineering KPIs.
+  - You make use of customer feedback and escalations to partner with relevant
+    stakeholders to drive and execute improvements and fixes to the GitLab
+    product, customer experience and/or how Support Engineering delivers
+    customer support.
