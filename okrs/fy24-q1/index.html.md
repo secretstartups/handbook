@@ -20,7 +20,7 @@ The by-the-book schedule for the OKR timeline would be:
 
 | OKR schedule | Week of | Task |
 | ------ | ------ | ------ |
-| -8 | 2022-12-19 | CEO shares top goals with E-group for feedback |
+| -5 | 2022-12-26 | CEO shares top goals with E-group for feedback |
 | -4 | 2023-01-02 | CEO shares top goals in GitLab |
 | -4 | 2023-01-02 | E-group propose OKRs for their functions in the OKR draft review meeting agenda |
 | -3 | 2023-01-09 | E-group 50 minute draft review meeting. After, function OKRs are put into GitLab and links are shared in #okrs Slack channel  |
