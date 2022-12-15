@@ -119,3 +119,13 @@ Note: If you are not running as root, use the sudo command to define the absolut
 Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
 `sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" dpkg -i package_pathname`
 1. Verify connectivity with `sentinelctl management status` and look for `Connectivity: On` and a valid SentinelOne URL. If this is not your result, reach out for assisstance in the #sentinelone channel.
+
+### How do I collect metrics for support on MacOS due to an issue with high CPU or RAM?
+1. In a terminal, run:
+`sudo sentinelctl metrics enable`
+1. Reproduce the scenario that caused the issue, or run it for a few minutes. It will run in the background. You will not see output.
+1. Collect the metric log:
+`sudo sentinelctl metrics dump >> /tmp/metrics_dump.txt`
+1. Turn off metric collection:
+`sudo sentinelctl metrics disable`
+1. Share the file with #sentinelone and we will get a ticket open with SentinelOne support.
