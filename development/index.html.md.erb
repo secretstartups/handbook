@@ -405,8 +405,8 @@ The shared services and components below are extracted from the GitLab [product 
 
 | Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) | Ownership Group (Centralized Only) | Additional Notes |
 | -------------------- | ------------- | --------------- | ---------------------- | ---------------------------------- | ---------------- |
-| Alertmanager |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
-| Certmanager |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Alertmanager |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Certmanager |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | Consul |  |  |  |  |  |
 | Container Registry |  | Centralized with Specific Team | @dcroft | Package |  |
 | Email - Inbound |  |  |  |  |  |
@@ -418,14 +418,14 @@ The shared services and components below are extracted from the GitLab [product 
 | HAproxy |  | Centralized with Specific Team | @sloyd | [Infrastructure](/handbook/engineering/infrastructure/) |  |
 | Jaeger |  | Centralized with Specific Team | @sloyd | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
 | LFS |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) |  |
-| Logrotate |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
-| Mattermost |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Logrotate |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Mattermost |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | MinIO |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
-| NGINX |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
-| Object Storage |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
-| Patroni | General except Geo secondary clusters | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
+| NGINX |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
+| Object Storage |  | Centralized with Specific Team |  @lmcandrew | [Scalability::Frameworks](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks) |  |
+| Patroni | General except Geo secondary clusters | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
 |  | Geo secondary standby clusters | Centralized with Specific Team | @nhxnguyen | [Geo](/handbook/engineering/development/enablement/geo/) |  |
-| PgBouncer |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
+| PgBouncer |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
 | PostgreSQL | PostgreSQL Framework and Tooling | Centralized with Specific Team | @alexives | [Database](/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
 |  | GitLab Product Features | Decentralized |  |  | Examples like feature specific schema changes and/or performance tuning, etc. |
 | Prometheus |  | Decentralized |  |  | Each group maintains their own metrics.  |
