@@ -82,4 +82,11 @@ As a general guideline you would want them to:
 - Learn about your team’s technology stack
 - Provision the necessary access to communication and productivity systems (project membership, ChatOps, Slack channels including `#production`.) For this, you can rely on access requests and asking questions in #it_help
 
+### Announcements
+It is important that not only your team knows about the contractors but there should be general awareness that Temporary Service Providers are working for GitLab. Contractors will appear on merge requests or issues but not on the Org Chart, and not knowing about them could lead to the confusion.
 
+It is encouraged to share information about new contractors joining in your group and stage Slack channel but you should also consider writing a short message into [#development](https://gitlab.slack.com/app_redirect?channel=development), [#engineering-fyi](https://gitlab.slack.com/app_redirect?channel=development) Slack channels or into the [Engineering Week In Review](https://docs.google.com/document/d/1JBdCl3MAOSdlgq3kzzRmtzTsFWsTIQ9iQg0RHhMht6E/edit?usp=sharing) document. For these company-wide channels it is enough to mention that some contractors will work for a particular group.
+
+## Working with contractors
+
+We treat contractors as regular team members when it comes to the contribution to issues or merge requests including the code review process.
