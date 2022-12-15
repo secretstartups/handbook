@@ -283,7 +283,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	[Product Data Insights](/handbook/product/product-analysis/)	|	@cbraza	|	[#data](https://gitlab.slack.com/archives/C8D1LGC23)	|	Weekly (team meeting), Bi-weekly (office hours), X-functional series	|		|
 |	|		|		|		|		|		
 |	**Engineering**	|		|		|		|		|		|		|
-|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	@amandarueda, @alinamihaila	|	[#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF) |	Bi-weekly, Monthly x-functional series	|		|
+|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	@stkerr, @bastirehm	|	[#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF) |	Bi-weekly, Monthly x-functional series	|		|
 |	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	@meks, @lmai1 |	[#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U)	| Thu |		|		|		|
 |	|		|		|		|		|		|		|
 |	**People**	|		|		|		|		|		|		|
