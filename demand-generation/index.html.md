@@ -23,7 +23,7 @@ twitter_creator: "@gitlab"
 {: #teams .gitlab-purple}
 - [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
 - [Digital Marketing](/handbook/marketing/demand-generation/digital-marketing/)
-- [Partner and Channel Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/partner-marketing/)
+- [Global Channel and Alliances Marketing](/handbook/marketing/channel-marketing/)
 
 [See team members in org chart](https://comp-calculator.gitlab.net/org_chart)
 
