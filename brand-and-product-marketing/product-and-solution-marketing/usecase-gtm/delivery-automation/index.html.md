@@ -185,10 +185,9 @@ Apart from the single application, DevOps Platform narrative, there are a number
 
 From a competitive comparison for Automated Software Delivery, the following are the key competitors and what they are lacking at a high level. Review the detailed comparison in the [devops-tools](https://about.gitlab.com/competition/) comparison pages
 - [GitHub](https://about.gitlab.com/devops-tools/github-vs-gitlab/) - Strong on SCM, GitHub Actions for CI/CD is still not ready for primetime. GitLab can integrate and migrate customers using GitHub for SCM easily with GitLab.
-- [Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab.html) - Complex to manage, many fragile integrations, not suitable for cloud native transformation
+- [Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/) - Complex to manage, many fragile integrations, not suitable for cloud native transformation
 - [JFrog](https://about.gitlab.com/devops-tools/jfrog-vs-gitlab/) - Strong on CI, but requires integrations or has limited capabilities for rest of the areas.
-- [Circle CI](https://about.gitlab.com/devops-tools/circle-ci-vs-gitlab.html)
-- [Harness](https://about.gitlab.com/devops-tools/harness-vs-gitlab/) - Strong on CD, expanding to other areas of the DevOps lifecycle, still requires integrations.
+- [Circle CI](https://about.gitlab.com/devops-tools/circle-ci-vs-gitlab/)
 - [Weaveworks Flux CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#weaveworks---using-flux-oss-operator) - Main solution only for the GitOps operator, requires multiple integrations to achieve end to end GitOps flow.
 
 
