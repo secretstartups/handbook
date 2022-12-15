@@ -835,6 +835,12 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 
 *Note: ON24 Elite license is used for all field marketing and campaigns internally hosted webcasts. Therefore, when a webcast is requested please confirm there is not going to be a conflict between the pre-scheduled sessions - both live and dry-run - using that license by checking the [webcast gcal](https://calendar.google.com/calendar/u/0?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Schedule no less than 30min between sessions (before & after) so there is less chance of conflict and allows for a buffer.*
 
+**Setting-up a SEMU-live ON24 Webcast**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPxiPsTNMzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Setting-up a LIVE ON24 Webcast**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJIFE9IKWpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. **LOGIN**: log into [ON24 Webcast Portal](https://wcc.on24.com/webcast/login).
 2. **TEMPLATE**: search for a template based on the event type. In the right column under “Actions” select the copy icon to clone a template. When cloning an event, all media files will transfer to the new webcast.
       * Live Event:
@@ -846,14 +852,11 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 **Note**: all the templates are tagged with Template and that after cloning the cloned program should have that tag removed
 3. **KEY FIELDS**: update new program fields: Title, Date, Time, Duration, Timezone. Change event type if needed to Simu-live. Select “Create Event” to save and generate Event ID and Webcast URLs. 
 4. **TIMEZONE**: select a drop-down timezone option with city/country instead of a generic GMT+ time zone. Generic time zones do not update with time changes, such as Daylight Savings Time.
-5. **MEDIA FILE**: Replace Media File with new event PPT.
-6. **PANELISTS**: panelists and presenters will share Presenters Link. Video instructions are available below. 
-
-**Adding alt-host and panelist to a webcast**
-<iframe width="560" height="315" src="TBC" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+5.  **MEDIA FILE**: Replace Media File with new event PPT in the Overview tab, or by following Presenter's URL and loging in as Producer. You can access this by clicking on the menu in the menu icon in the top right corner and choosing Setup).
+    * IMPORTANT! For the Semu-live webcast you'll need to upload and publish your mp4 recording no later then 2 hours before the scheduled start. Please login as producer using the Presenter's URL, click on the Setup at the bottom on the screen and choose Presenter Media, under the Media tab. Upload your video, go back to previous screen and click on Publish button.
+6. **PANELISTS**: panelists and presenters will share Presenters Link (can be found in the Event URLs list). By following this link they'll need to submit their name and email address and login as Presenters into ON24 console.
 7. *Optional* **EMAILS**: If applicable, edit the confirmation and reminder emails under the email setting tab.
-    * Make sure the registration confirmation email and the reminder emails are set to send from ON24. 
+    * Make sure the registration confirmation email and the reminder emails are set to send from ON24.
 8. *Optional* **POLLING**: If applicable, add polling questions to the webcast by following the instructions in the video below. Note there is a character limit on poll answer options of 40 characters.
 9. **ATTENDEE & PRESENTER MAX**: All live events and experiences are capped by default at 2,500 live attendees and max of 10 presenters.
 
