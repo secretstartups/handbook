@@ -90,7 +90,7 @@ Requirements for [TeamOps Trainer: Level 1](https://gitlab.com/gitlab-com/ceo-ch
 1. Complete the [TeamOps practitioner course](https://levelup.gitlab.com/learn/course/teamops)
 1. Be able to answer questions (interview by existing trainer)
 1. Enthusiastic presentation of about 3-5 minutes on advantages of TeamOps on YouTube (GitLab Unfiltered)
-1. Contribute proposals to the materials (3 MRs including one graphic) on iterating TeamOps content to be market-ready (e.g. more applicable to your specific team or function)
+1. Contribute proposals to the materials (1+ MRs) on iterating TeamOps content to be market-ready (e.g. more applicable to your specific team or function)
 1. One blog post (or similar) published on GitLab, LinkedIn, Medium, Twitter thread, etc.
 
 ## Evangelism Materials
