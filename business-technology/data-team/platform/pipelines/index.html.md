@@ -830,3 +830,8 @@ and they are required to run this in Meltano. They are part of the `tap-secrets`
 
 The data is then loaded into Snowflake, using the `target-snowflake--edcast` loader.
 The final data ends up in Snowflake under the `TAP_ZENDESK_COMMUNITY_RELATIONS` schema. 
+
+
+## Xactly
+
+The Xactly data source uses a singer tap we developed in [gitlab-data/tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a daily schedule at midnight UTC and at 5:00AM UTC. The midnight UTC is the regular extract and we do an [extra](https://gitlab.com/gitlab-data/analytics/-/issues/14780#note_1185764844) extract at 5:00AM UTC incase of network errors. Network errors do occur from time to time when extracting data out of Xactly which gets resolved automatically. Instead of rerunning the extract manually with the risk of missing the SLO we do an extra try at 5:00AM UTC.
