@@ -98,7 +98,7 @@ If you have a question or concern and need to speak with the Security Team, you 
   If any systems provide an option to use SMS text as a second factor, this is highly discouraged.
   Phone company security can be easily subverted by attackers allowing them to take over a phone account.
   _(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))_
-1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). Popular choices include Yubico's YubiKey and Solokeys' Solo Security Key. For more information on U2F and choices, visit the [Tools and Tips page](/handbook/tools-and-tips/#u2f).
+1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). The GitLab standard is Yubico's YubiKey. For more information on U2F and choices, visit the [Tools and Tips page](/handbook/tools-and-tips/#u2f).
 1. When signing up for a new service on behalf of GitLab:
    - Request a [Security Review](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=SOC%20Report%20Review) by opening an issue in the Compliance project.
    - If shared access is required by multiple team members to a single account,
@@ -273,6 +273,7 @@ You can then choose to use this new service account via the option under **Advan
 1. Always set an expiration for your tokens when creating them. Tokens should preferably expire in a matter of hours or a day.
 1. Be mindful to keep these personal access tokens secret. Be particularly careful not to accidentally commit them in configuration files, paste them into issue or merge request comments, or otherwise expose them.
 1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed.
+1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
 ### GitLab Password Policy Guidelines
@@ -595,7 +596,7 @@ If scanning the QR code using the "transparent window" with the 1Password Mac
 app fails on a recent macOS, please consider using the 1Password iOS app instead.
 This mechanism works the same way, and supports Touch ID to login.
 
-While the above 1Password default recommendation applies to all GitLab team-members, there are alternative,
+While the above 1Password default recommendation applies to all GitLab team members, there are alternative,
 although more complex solutions that can also be used. Google Authentication is a TOTP solution
 that can be used to store tokens, for those who want to have separate application for password storage
 and token storage. However, be aware that using two applications is more complex, and not necessary. If

@@ -23,7 +23,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose
 
-These specific requirements are related to the protection of GitLab information systems and other resources from unauthorized use.  Our intention in publishing this procedure is to outline information security guidelines intended to protect GitLab assets, not to impose restrictions.  
+These specific requirements are related to the protection of GitLab information systems and other resources from unauthorized use. Our intention in publishing this procedure is to outline information security guidelines intended to protect GitLab assets, not to impose restrictions.  
 
 Constructing secure passwords and ensuring proper password management is essential. GitLab's password guidelines are based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). To learn what makes a password truly secure, read this [article](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277) or watch this [conference presentation](https://www.youtube.com/watch?v=vudZnjp5Uq0&t=19183) on password strength.
 
@@ -86,7 +86,7 @@ All GitLab team members should use [Two Factor Authentication](https://en.wikipe
 For a better understanding of how 2FA fits into GitLab, refer to the [Accounts and Passwords](/handbook/security/#accounts-and-passwords) section, which includes pointers to setting up passwords, acquiring FIDO2 tokens, and links to further resources. Refer to the Tools and Tips page for more detailed information regarding [FIDO2/WebAuthn](/handbook/tools-and-tips/#fido2--webauthn) and [other 2FA methods](/handbook/tools-and-tips/#other-2fa-methods).
 
 ### Application Authentication Requirements
-* Authentication to an application should contain Multi-Factor authentication (Token, OTP Generator, SSO, YubiKey/Titan or equivalent) and or a SAML Assertion after logging into an authentication portal is recommended (e.g., Okta).
+* Authentication to an application should contain Multi-Factor authentication (Token, OTP Generator, SSO, YubiKey) and or a SAML Assertion after logging into an authentication portal is recommended (e.g., Okta).
 * Authentication to an application should support individual users, not groups.
 * Acceptable secondary authentication factors include Google Authenticator or similar software implementing a One-time Password algorithm. The use of biometrics is acceptable.
 
@@ -101,3 +101,4 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 ## References
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
+- [Token Management Standard](/handbook/security/token-management-standard)
