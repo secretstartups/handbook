@@ -20,32 +20,6 @@ This page is intended for Partner Help Desk specialists to document and review p
 
 **If you are a channel or sales team member looking for easy-to-read information and links, please visit the [Partner Support page](https://about.gitlab.com/handbook/resellers/partner-support/).**
 
-## Meet the Team
-### Who We Are
-- Evon Collett (she/her) - Manager, Partner Help Desk
-- Reena Yap (she/her) - Senior Partner Help Desk Specialist, APAC focus
-- Kim Stagg (they/them) - Senior Partner Help Desk Specialist, AMER/US-PubSec focus
-- Yulia Imbert (she/her) - Partner Help Desk Specialist, EMEA focus
-
-## Team Responsibilities
-- Channel account record support in SFDC
-- Channel account data management in Impartner
-- Day-to-day partner questions via partnersupport@gitlab.com
-- Partner rebate payments and tracking
-- Additional responsibilities to be documented
-
-### Out of Scope
-- Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
-- SFDC opportunity record assistance (please chatter `@partner operations` on the record)
-- Billing account set-up (please chatter the partner account owner or `@billing ops`)
-
-## How to contact us 
-The **#channel-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@partner help desk` on the record. 
-
-Slack Best Practices  
-**Please avoid contacting the Partner Help Desk team members directly via Slack.** Utlizing the #channel-programs-ops Slack channel is best to ensure timely coverage, helps others who may have similar questions, and aligns with our [Transparency value](https://about.gitlab.com/handbook/values/#transparency).
-
-Partners can contact the Partner Support team at partnersupport@gitlab.com.
 
 ## Partner Help Desk links & documents
 
@@ -109,6 +83,44 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
 - [GitLab Program Discounts and Incentive Guide - Commercial](https://partners.gitlab.com/prm/English/s/assets?id=350001)
 </details>
+
+
+##Creating Partner Account and Contact Records
+Partner accounts should _always_ be created by the partner visiting `partners.gitlab.com` and signing up to become a partner. 
+- If the partner is a signatory for their company, they may sign the "click-through" contract to become a Partner by choosing "Yes" under the Partner Agreement.
+- If the partner is _not_ a signatory for the company, or if they are not ready to sign the contract and would like to redline the standard contract, they can choose "No" under the Partner Agreement, and then "Yes" for "I have questions about the agreement.   
+
+Once in the system via the partner portal, the system will sync with SFDC and create the partner account.    
+
+If an exception must be made, accounts should be created in SFDC. Partner Help Desk Specialists are enabled to create accounts, as is Channel Operations. Follow instructions from the [Sales Order Processing handbook](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#creating-accounts-and-contacts) on how to create new accounts and contact. For channel records, be sure to check the list below for completion.
+
+### Partner Account Record in SFDC
+- Account Record Type is `Partner`
+- The following fields must be completed:
+   - "Account Detail" Section
+      - Account Name
+      - Website
+   - "GitLab Partner Program Info" Section:
+      - Partner Type: Channel (Do not create accounts for alliance partners. Always refer them to the [Alliance team](https://about.gitlab.com/partners/technology-partners/integrate/) at alliances@gitlab.com)
+      - Partner Status: Prospect
+      - GitLab Partner Program(s): Reseller
+      - Partner Track: Open
+      - `Impartner Sync` is checked
+      - Partner Program: New
+      - Public Sector Partner: Yes/No
+
+
+Be sure **not** to mark the account as "Authorized" unless a _completely executed_ contract has been provided. If that contract has been provided, upload it to `Google Docs, Notes, & Attachments` and fill in the Signed Contract Date field on the partner account. 
+
+### Partner Contact Account Record in SFDC
+- Contact Record Type is `Channels`
+- The following fields are completed:
+   - First Name
+   - Last Name
+   - Account Name
+   - Email
+   - `[Partners] Is Contracted` is checked
+   - Initial Source: Impartner (unless another option is more accurate)
 
 
 
