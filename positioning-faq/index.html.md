@@ -40,7 +40,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
     - 4 times more cost effective
     - Active community of 2,200+ contributors to updates that are pushed on the 22nd of every month
 1. So if you just want SCM, why not go with the open source edition of GitLab?
-1. For the **entire** software development lifecycle, see [GitHub vs. GitLab](/devops-tools/github-vs-gitlab.html)
+1. For the **entire** software development lifecycle, see [GitHub vs. GitLab](/devops-tools/github-vs-gitlab/)
 
 ### Our company uses GitHub.com for all open source projects, so why should we use GitLab Enterprise Edition on-premises and not GitHub Enterprise?
 
