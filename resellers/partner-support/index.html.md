@@ -86,6 +86,7 @@ _These links are useful to share with authorized reseller partners who already h
 - [Online Agreement](https://partners.gitlab.com/prm/English/s/assets?id=290599)
 - [Deal Registration Guide](https://partners.gitlab.com/prm/English/s/assets?id=391183)
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
+   - _Partners are able to log in and view a PDF of the Partner Agreement. GitLab Team members can visit the [Reseller Agreement](https://about.gitlab.com/handbook/resellers/reseller-agreement/) page. There is no separate PDF outside of the partner portal._
 </details>
 
 ## Partner Insights
