@@ -15,11 +15,12 @@ canonical_path: "/company/team/structure/working-groups/api-vision/"
 
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Date Created    | February 07, 2022                                                                                                                                 |
-| Target End Date | -                                                                                                                                                 |
+| Date Created    | 2022-02-07                                                                                                                                        |
+| Target End Date | TBD                                                                                                                                               |
 | Slack           | [#wg_api_vision](https://gitlab.slack.com/archives/C030DMJE0SZ) (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1o4Tq84Lt5VnxrVZmhlP0u4qiErzC1MtVfivnIc6_29E) (only accessible from within the company) |
 | Issue Board     | [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/3929903)                                                |
+| Overview & Status | See [Exit Criteria](#exit-criteria) below |
 
 ## Goal
 
@@ -72,7 +73,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | 4 | TBD            | 15%       | @.luke          | [Clarify the lifecycle of the API](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
 | 5 | TBD            | 15%       | @kpaizee        | [Improve the documentation of the API](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
 | 6 | TBD            | 20%       | @arturoherrero | [Create learning paths and content to contribute to the API](https://gitlab.com/groups/gitlab-org/-/epics/8637) |
-| 7 | TBD            | 0%       |                 | [Define minimum levels of performance and stability, with appropriate checks and monitoring](https://gitlab.com/groups/gitlab-org/-/epics/7520) |
+| 7 | TBD            | 5%       |                 | [Define minimum levels of performance and stability, with appropriate checks and monitoring](https://gitlab.com/groups/gitlab-org/-/epics/7520) |
 | 8 | TBD            | 35%       | @g.hickman      | [Refresh personas to account for users of our APIs](https://gitlab.com/groups/gitlab-org/-/epics/7760)                                          |
 
 ## Roles and Responsibilities
