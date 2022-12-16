@@ -152,7 +152,9 @@ graph TB
 <details>
 <summary markdown="span">Requirements by Type and Data Classification</summary>
 
-Generally, a third party's SOC 2 report, ISO 27001 certification, Standard Information Gathering (SIG) form or equivalent will provide reasonable assurance if the scope provides coverage over the services offered. In the event an attestation is not available, TPRM will provide third parties with a copy of our SIG for completion. Once the third party has provided a SOC2 report, ISO 27001 certification, or completed SIG, the Security Risk team has a service level agreement (SLA) of 10 business days to complete the TPRM assessment. See below for assessment requirements per Vendor Type and Data Classification.
+With the exception of Red and High Risk Orange SaaS vendors, a third party's SOC 2 report, ISO 27001 certification, Standard Information Gathering (SIG) form or equivalent will provide reasonable assurance if the scope provides coverage over the services offered. In the event an attestation is not available, TPRM will provide third parties with a copy of our SIG for completion. Once the third party has provided a SOC2 report, ISO 27001 certification, or completed SIG, the Security Risk team has a service level agreement (SLA) of 10 business days to complete the TPRM assessment. See below for assessment requirements per Vendor Type and Data Classification.
+
+Note that Red and Orange SaaS vendors must provide answers to a small subset (~10) of questions, their third party attestation (if available) and a SIG Lite or the equivalent. TPRM also leverages BitSight to supplement our higher risk vendor assessments.
 
 | Vendor Type | Red Data | Individual Contractors outside of Assessed Agency | Software Subscription | Professional Service | Individual Contractors through Assessed Agency | Field Marketing | Partners | Yellow Third Parties | Green Third Parties |
 |--------------------------------|-----------|--------------|-----------------------|----------------------|------------------------------------------------|--------------------------------|----------------------------------------------------------------------|--------------------------------|---------------------|
@@ -192,10 +194,18 @@ Generally, a third party's SOC 2 report, ISO 27001 certification, Standard Infor
 | All                                      | Inspection              | Inspection              | Inspection              |
 
 - Red vendors require inspection at a minimum unless the Red Vendor is a Law Firm that may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange Controllers.
-- Orange vendor testing is judgmental 
+
+- Orange vendors are categorized and tested as follows:
+
+    - High Risk Orange SaaS Vendors
+        - Overview: Outages or disruptions in services could impact operations ([BIA Criticality](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers) of at least 3). If this is a net new system and criticality has not been established. TPRM Engineers should use the aforementioned Criticality Matrix to judgmentally classify the criticality of the system.
+        - Procedures: These vendors follow the same testing procedures as Red vendors.
+
+    - Low Risk Orange SaaS and/or Orange Professional Services testing is judgmental 
     - If GitLab team member data is stored/transmitted by a Controller, inquiry only procedures are required
     - If GitLab team member data is stored/transmitted by a Processor, defer to the table below
     - Internal team members can refer to [this document](https://docs.google.com/document/d/1v-qZ7vsc81Qvl9-ERqI6bBZxsrVXOeStSWFnzWamJdI/edit) to learn more about Controllers vs. Processors as defined by GDPR Article 4
+
 - Yellow/green vendors do not require testing 
 
 </details>
