@@ -67,7 +67,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 * you have excellent Linux systems administration knowledge (LFCE or RHCE equivalent knowledge).
 
 ### You'll be able to thrive at GitLab
-* You can successfully complete of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+* You can successfully complete a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * you can demonstrate excellent spoken and written English.
 * you have the ability to use GitLab.
 * our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
