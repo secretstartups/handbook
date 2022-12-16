@@ -15,11 +15,12 @@ canonical_path: "/company/team/structure/working-groups/demo-test-data/"
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | Jan 19 2022 |
-| Target End Date | July 24 2022  |
+| Date Created    | 2022-01-19 |
+| Target End Date | 2023-04-30 |
 | Slack           | [#wg_demo-test-data](https://gitlab.slack.com/archives/C02M7GX1SBE) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1XmTGP1pNBDaC6LduW8rygYBdd8BrS5el2zjGvI7Dtyc/edit#heading=h.epyavtxljcb2) |
-| Task Board      | [Board](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722) |
+| Issues      | [Issue List](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone&state=opened&label_name%5B%5D=wg_demo-test-data&first_page_size=20) / [Issue Board](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722) |
+| Overview & Status | See [Board](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722) |
 
 ## Business Goal
 
@@ -45,15 +46,12 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Facilitator           | Grant Young            | Staff Software Engineer in Test   |
 | Stakeholder           | Tim Poffenbarger       | Senior Manager, Solutions Architects |
 | Stakeholder           | Tanya Pazitny          | Director of Quality               |
+| Stakeholder           | Vincy Wilson           | Senior Manager, Quality Engineering |
 | Executive Sponsor     | Mek Stittri            | VP of Quality                     |
 | Member                | Marshall Cottrell.     | Principal, Strategy and Operations (Technical) |   
-| Member                | Vincy Wilson           | Quality Engineering Manager       |
 | Member                | Tim Zallmann           | Senior Director of Engineering    |
 | Member                | Mark Wood              | Senior Product Manager            |
 | Member                | Sameer Kamani          | Staff Federal Solution Architect  |
 | Member                | Joe Randazzo           | Solutions Architect               |
 | Member                | Darwin Sanoy           | Staff Solutions Architect         |
-| Member                | Dan Davison            | Senior Software Engineer in Test  |
-| Member                | Nailia Iskhakova       | Senior Software Engineer in Test  |
-| Member                | Erick Banks            | Senior Software Engineer in Test  |
-| Member                | Will Meek              | Senior Software Engineer in Test  |
+| Member                | Dan Davison            | Staff  Software Engineer in Test  |
