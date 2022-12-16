@@ -173,6 +173,22 @@ See [issue list](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=
 | 2022-10-22 | [Issue](https://gitlab.com/gitlab-org/product-intelligence/-/issues/575) |
 | 2023-01-22 |  |
  
+## Finding Reporting Dependencies on Metrics
+Although PMs commonly use Service Ping metrics to measure feature health and product usage, that is not the only use for Service Ping metrics. For instance, the Product Data Insights team relies on Service Ping metrics for xMAU reporting. Additionally, the Customer Success Operations team relies on Service Ping metrics to generate [health scores](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/) for customers.
+
+For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [recommend not changing](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html#change-an-existing-metric) the calculation of metrics that are used for reporting once implemented. If you do need to change a metric that is being used, please coordinate with the customer success team before doing so so that they can update their models and health scores accordingly. To identify metrics that are relied upon for reporting, follow these directions.
+
+### xMAU Reporting
+1. Go to the [Metrics Dictionary](metrics.gitlab.com)
+2. Click "Customize table" and select "Performance indicator type"
+3. Search for a metric and view the **performance indicator type** values.
+    - If the field is blank, there are no xMAU reporting dependencies on this metric
+    - If the field is not blank, there are xMAU reporting dependencies on this metric. Please reach out to the [Product Data Insights](https://about.gitlab.com/handbook/product/product-analysis/) to understand how changing metric calculations would impact downstream dependencies. 
+
+### Customer Health Scoring
+1. Go to [this CSV](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/health_score_metrics.csv), which is the SSOT for metrics that are used for health scoring.
+2. If the metric of interest is in this CSV, then is it being used for customer health scoring. Please reach out to [Customer Success Operations](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/) to understand how changing metric calculations would impact downstream dependencies.
+
 ## Quick Links
 
 | Resource | Description |
