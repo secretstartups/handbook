@@ -9,6 +9,8 @@ title: "Field Security Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## [Governance and Field Security team charter](/handbook/security/security-assurance/governance_and_field_security_team_charter.html.md/)
+
 ## <i class="fas fa-bullseye" style="color:rgb(110,73,203)" aria-hidden="true"></i> Field Security Team
  
 The Field Security team serves as the public representation of GitLab's internal Security function. Our **vision** is to be the leading example in collaborative and transparent Customer Assurance Programs. Our **mission** is to empower the GitLab community with confidence and trust that their data is protected with high levels of security assurance to drive revenue growth. We partner with our fellow GitLab team members and customers to provide a **pathway to yes!** 
