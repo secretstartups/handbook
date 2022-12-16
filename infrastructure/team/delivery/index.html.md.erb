@@ -191,7 +191,19 @@ The primary customer of the System team is the Delivery::Orchestration team.
 | S1/P1 Deployment/Release related issues | `@release-managers` | Slack |
 | Any Priority Deployment/Release related issues | `@gitlab-org/delivery` | GitLab |
 
-Release Managers have a weekday follow-the-sun rotation and can be reached via the `@release-managers` handle on Slack. For weekend support or other escalations please use the [Release Management Escalation](https://gitlab.pagerduty.com/escalation_policies#PPDMKX1) to reach Delivery Leaders. 
+Release Managers have a weekday follow-the-sun rotation and can be reached via the `@release-managers` handle on Slack. For weekend support or other escalations please use the Release Management Escalation steps below to reach Delivery Leaders. 
+
+#### Release Management Escalation
+
+During weekday working hours you can reach the current Release Manager via the `@release-managers` handle on Slack. 
+
+For release management support outside of working hours, or if you need to escalate to Delivery Leadership please follow the steps below to page using PagerDuty. 
+
+1. Open the PagerDuty app in Slack and use the `/pd trigger` slack command to trigger a new incident
+![Trigger a new incident](img/trigger-a-new-incident.png)
+2. Select the `Release Management Escalation` service and provide request details in the `Title` field. You can leave all other fields empty
+![Create an incident](img/create-an-incident.png)
+3. Click `Create` and one of the Delivery leaders will respond
 
 ### Project Management
 
