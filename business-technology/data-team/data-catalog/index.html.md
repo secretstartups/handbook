@@ -49,7 +49,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 ## G&A Analytics Hub 
 
-- People Analytics Hub `Coming Soon`
+- [People Analytics Hub](https://app.periscopedata.com/app/gitlab/1104972/People-Analytics-Hub)
 - Finance Analytics Hub `Coming Soon`
 
 ## Snowflake Dimensional Models
