@@ -334,3 +334,8 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
    1. Reply to the requestor using the `Legal::General` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in the `#legal` [Slack channel](https://app.slack.com/client/T02592416/C78E74A6L).
    1. After receiving approval from Legal, elevate the requestor to Owner role.
 1. Add an [Admin note](admin_note.html) on the group admin page.
+
+#### How to elevate the requestor to the Owner role
+1. Using a GitLab `Admin Account`, go to the requestor's 'Namespace | Group | Members' section.
+1. Search for the member by name or email address; in the `Max role` column, change the requestor's role to `Owner`.
+1. If the requestor is not a member of the group, then press the `Invite members` button at the top right, enter the requestor's email address, and set the role to `Owner`. Press the `Invite` button to save your changes.
