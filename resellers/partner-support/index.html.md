@@ -88,6 +88,18 @@ _These links are useful to share with authorized reseller partners who already h
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
 </details>
 
+## Quote to Cash
+For a detailed explanation of the Quote to Cash process, visit the [Channel Operations Handbook page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote). Basic details can be found below.   
+- Distribution:
+   - Quotes are managed by the Partner Order Operations team
+   - Reseller partner remit their POs to distribution. [Distributors remit their POs to the Partner Order Operations team](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#po-remittance).
+- Reseller-direct:
+   - Quotes are the responsibility of the field sales team
+   - [Resellers remit their POs to the sales team managing the opportunity](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#po-remittance)
+
+Post-sales support, license resends, email changes, and other subscription assistance is the [responsibility of the partner named on the opportunity](https://about.gitlab.com/handbook/resellers/partner-support/#customer-support-subscription-changes-and-email-updates).
+
+
 ## Partner Insights
 The Partner Help Desk team provides ["Partner Insight"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slides to Channel Managers for help with preparing for QBRs and other executive meetings. These insights are intended to help Channel Managers identify what is going well so it can be replicated, as well as address opportunities for improvement. 
 
