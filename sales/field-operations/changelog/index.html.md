@@ -16,6 +16,12 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q4-FY23
 
+### 2022-12-19 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/238))
+
+**[Win/Loss Reason Code Update](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1827)**
+
+**[Changes to Salesforce Address Fields](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3547)**
+
 ### 2022-12-05 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/227))
 
 **[Clari Launch and SFDC Forecasting Enhancements for Partner Teams](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#clari-forecasting-for-partner-managers-and-leaders)**
