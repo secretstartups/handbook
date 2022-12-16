@@ -21,6 +21,10 @@ This handbook page is meant to cover who we are and why we exist at GitLab. On t
 * [Shane McCormack](/company/team/#mccormack514): [Sr. Analyst, People Analytics](/job-families/people-group/people-systems-and-analytics/#senior-analyst-people-analytics)
 * [Ashley Jones](/company/team/#asjones): [Sr. People Connect Specialist](/job-families/people-group/people-connect/#senior-people-connect-specialist) (People Analytics Intern)
 
+## People Analytics Handbook Contents
+
+* [People Analytics Data Models Cheat Sheet](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-model-cheat-sheet/)
+
 ## What is People Analytics?
 
 The study of people at work! Human Resource departments (the [People Group](/handbook/people-group/) here at GitLab) everywhere are flipping their approach to organizational behavior. Instead of only using experience, opinions, or intuition to make decisions they are leveraging the power of data for decision making processes.
