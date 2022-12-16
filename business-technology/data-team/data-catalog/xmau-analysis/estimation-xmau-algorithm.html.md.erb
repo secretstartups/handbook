@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Self-Managed Estimation Algorithm"
+title: "Self-Managed Metric Estimation Algorithm"
 ---
 
 ## On this page
@@ -11,19 +11,32 @@ title: "Self-Managed Estimation Algorithm"
 
 ---
 
-## Estimation Algorithm
+## Introduction to Service Ping estimation
 
-GitLab Self-Managed customers have the option to enable or disable the GitLab [Service Ping](https://docs.gitlab.com/ee/development/service_ping/), 
-which returns aggregated counts of user activity and other usage metrics for analysis. Some 
-Self-Managed customers choose to send this data knowing that it helps GitLab to prioritize and 
-design lovable features. Other customers, for a variety of reasons, choose to either send a 
-subset of Service Ping metrics or not to send Service Ping at all. Therefore, any analysis of 
-usage data is limited to GitLab.com customers and those Self-Managed installations that opt to 
-share their data with GitLab. 
+Self-Managed data arrives from [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) 
+which returns aggregated counts of user activity and other usage metrics for analysis. The 
+Service Ping data we receive is incomplete as there are 3 types of installations that we need 
+to estimate for:
+1. Installations that opt out of sending us Service Ping
+1. Installations that opt to send a subset of Service Ping metrics (i.e. operational metrics)
+    * This applies to any metric where [`category = 'optional'`](https://metrics.gitlab.com/?q=optional)
+1. Installations on older versions without the metric instrumented
+    * Ex: If a metric is instrumented on 13.3, we need to estimate usage for installations 
+    reporting on versions < 13.3
 
-So, in order to generate total usage of GitLab features, we need to estimate usage for the 
-installations who do not report all metrics or do not report at all. The ultimate goal is to 
-create estimation methodologies that meet the following criteria:
+This leads to only a subset of the data being reported. Some data will be partial as we know 
+there is an installation but we did not receive all the metrics we report on (whether due to 
+version or metric opt-out). Some installations will never be seen and we cannot know how many of 
+these exist as they opted-out of reporting Service Ping completely. The only moment we can 
+identify these installations is when they create a subscription (not all installations make a 
+subscription) and at this moment we can identify there is a self-managed installation even if 
+it does not send ping. The subscription can choose whether it would like to report Service Ping 
+or not.
+
+To attempt to report the total MAU we then need to apply estimates on top of metrics and the 
+aggregate to address the points above. 
+
+The ultimate goal is to create estimation methodologies that meet the following criteria:
 
 1. They are logically sound (i.e., we think they are reasonable for estimating usage) 
 1. They produce reasonable results (ex: they do not produce extremely volatile metrics, which 
@@ -38,18 +51,7 @@ our current methodologies are. For the sake of transparency and to enable self-s
 the mechanisms and details of how and where we generate components of our methodologies are 
 included throughout the page.
 
-### Who are we estimating for?
-
-There are 3 types of installations that we need to estimate for:
-
-1. Installations that opt out of sending us Service Ping
-1. Installations that opt to send a subset of Service Ping metrics (i.e. operational metrics)
-    * This applies to any metric where [`category = 'optional'`](https://metrics.gitlab.com/?q=operational)
-1. Installations on older versions without the metric instrumented
-    * Ex: If a metric is instrumented on 13.3, we need to estimate usage for installations 
-    reporting on versions < 13.3
-
-### Knowns and unknowns
+### Technical details
 
 **What we know**
 
