@@ -356,7 +356,7 @@ This section describes the approval chain after a manager submits a promotion or
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
 1. Once signed by all parties, save the letter to the respective team members [Documents Tab](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit) within their Workday Profile.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Connect Team members in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias). Once the tracker is filled in, sort it by effective date.
+1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Connect Team members in the internal Promotions/Transfers spreadsheet tracker (using the `people-connect@gitlab.com` alias). Once the tracker is filled in, sort it by effective date.
 1. the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
@@ -453,6 +453,10 @@ Please reach out to #people-connect with the name of the team member who needs t
 
 Note for Sales Managers: If team members are not moved under the correct sales manager in Workday, credits will not be rolled-up to the correct manager for sales commissions. See additional promotion and transfer considerations for commissionable roles [here](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-and-transfers-of-employees-in-commissionable-roles).
 
+**Job Title Speciality Changes**
+
+If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) with the new Job Title Speciality, along with the effective date. This will then be processed by the team, accordingly.
+
 ### For People Connect: Processing Manager changes
 1. The People Connect Specialist logs into Workday via Okta to approve the transfer in Workday > click on Inbox in top right corner
 1. Review the business process titled 'Transfer' and reason 'Manager to Another Manager' > click: approve
@@ -471,7 +475,7 @@ Note for Sales Managers: If team members are not moved under the correct sales m
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
 1. In case of `Job Title Specialty` change requests, managers will reach out to the People Connect Team to have a team members `Speciality` updated in Workday. 
     - The People Connect Team member should check whether the title already exists in Workday. If not, check whether the `Job Speciality` has been added to the respective departments Handbook page (example: https://about.gitlab.com/handbook/engineering/development/enablement/sharding/) or if the People Connect Team members are tagged in a respective issue to have it added. If unclear, reach out to the [respective People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)      
-    - In the event of a `Job Speciality` change and a manager change, the People Connect Team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+    - In the event of a `Job Speciality` change and a manager change, the People Connect Team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-connect@gitlab.com` alias) and the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
@@ -638,7 +642,7 @@ When a career mobility may not be needed (but can be requested);
 
 ## Career Mobility Issue Creation Process
 
-The People Connect Team will notify the People Connect Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Connect Team member](https://about.gitlab.com/job-families/people-ops/people-connect/) currently in the assignment rotation will assign the migration for support. 
+The People Connect Team will notify the People Connect Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Connect Team member](https://about.gitlab.com/job-families/people-group/people-connect/) currently in the assignment rotation will assign the migration for support. 
 
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Connect Team member** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
 
@@ -689,6 +693,8 @@ This section describes the steps required for promoting or transferring employee
 3. The quotas are submitted to the Commissions team to then add to the Xactly system where all commissions are managed and monitored.  
 4. Issue new compensation plan to the **New** Sales Manager for approval and release to team member. 
 
+
+
 [^1]: During fiscal year planning Sales Strategy and Analytics work closely with Sales Management to assign values (full quota) to all the different Sales Territories. When a new sales employee joins, their ASM assigns them a territory (at which point there is a pre-determined value), and Sales Commissions applies a [ramp schedule](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#month-1-ramp-schedule) based on the employee's start date and role to arrive at their carried quota.
 
 ## Compliance
@@ -706,3 +712,15 @@ There are several situations at GitLab that could lead to team members changing 
 - [Transitioning 1-1s](/handbook/leadership/1-1/#transitioning-1-1s) is a very important part of manager transitions. This helps ensure the new manager is up to speed on important discussions, deliverables, etc. so this information does not get lost in the transition.
 - The [career mobility template](https://docs.google.com/document/d/1iRbmS518CDjmhZEjvkaibqR1g0angWE83sWvtlH-elE/edit#heading=h.5ahg1o4v53q7) helps to ensure accomplishments, strengths, development areas, etc. are all captured with evidence moving forward. This makes sure career development progress continues and is not lost with manager changes. 
 - Sharing your most recent 360 feedback review and most recent performance review with your new manager can also be a great way to align on your strengths and improvement areas and discuss how they can partner with you in developing both.
+
+
+## For Managers : Transitioning a Team Member to your team
+
+When a new team member moves to your team, in addition to the items above in "transitioning to a new manager", there are some additional things to consider for the new manager.
+
+- Do an initial `confidential handover` for any confidential topics between the previous and new manager (separate from the 1-1-1 with the previous manager, new manager, and team manager).
+- Do this `confidential handover` periodically (perhaps 2 weeks, 4 weeks and 6 weeks after transition).  This will allow not only initial questions and considerations to come up, but also new ones as they arise.
+- Include in this handover the information you need for talent assessment planning that was confidential and not discussed in the 1-1-1.
+- If your new direct report is potentially up for promotion in the next 6 months, be sure to transition the information that supports from the previous manager and be the DRI to drive this forward, including both information discussed in the 1-1-1 and any confidential information discussed in the `confidential handover`.
+
+## Footnotes

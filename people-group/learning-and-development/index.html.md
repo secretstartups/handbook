@@ -9,6 +9,42 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Overview
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 50.82%; padding-top: 0; height: 0;"><iframe frameborder="0" width="500" height="350" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fe8a909b925c0018b5de80" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+### Purpose
+
+_Why we exist:_ L&D is here to guide team members on their career journey. We strive to foster a culture of learning and development so that GitLab remains a great place to work. When our team members can do their jobs, our customers are happy as a result. This makes everyone at Gitlab happy! 
+
+### Vision 
+
+_Where are we going:_ GitLab seeks to be recognized as a top organization for remote learning & development. We aim for a future where **everyone contributes** to a culture of curiosity. 
+
+### Mission
+
+_What we do:_ We empower individual contributors and equip leaders through self-service learning. We accomplish a culture of development by: 
+
+- Focusing on skill-based learning 
+- Providing resources to improve career mobility 
+- Developing learning journeys for teams throughout the organization
+
+### Objectives
+
+_Performance indicators_ 
+
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
+2. Secure a 5% increase in the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increased access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/), job shadows, intern for learning, and professional development
+4. Clear evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
+
+### Principles
+
+1. **Meaningful and relevant content.** We deliver learning solutions that help you reach your professional goals.
+1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/) and foster continuous learning and curiosity.
+1. **Diverse approaches to learning.** We apply a blended learning model to find solutions to various individual needs.
+1. **Community.** L&D offerings available to the public so that everyone can contribute.
+
 ## Team Member Resources
 
 The Learning & Development team has a number of resources to help team members learn new skills. Click the buttons below to learn more about each one:
@@ -56,41 +92,8 @@ The Learning & Development team has a number of resources to help team members l
 </div>
 
 
-## Overview
 
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 50.82%; padding-top: 0; height: 0;"><iframe frameborder="0" width="500" height="350" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fe8a909b925c0018b5de80" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
-### Purpose
-
-_Why we exist:_ L&D is here to guide team members on their career journey. We strive to foster a culture of learning and development so that GitLab remains a great place to work. When our team members can do their jobs, our customers are happy as a result. This makes everyone at Gitlab happy! 
-
-### Vision 
-
-_Where are we going:_ GitLab seeks to be recognized as a top organization for remote learning & development. We aim for a future where **everyone contributes** to a culture of curiosity. 
-
-### Mission
-
-_What we do:_ We empower individual contributors and equip leaders through self-service learning. We accomplish a culture of development by: 
-
-- Focusing on skill-based learning 
-- Providing resources to improve career mobility 
-- Developing learning journeys for teams throughout the organization
-
-### Objectives
-
-_Performance indicators_ 
-
-1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
-2. Secure a 5% increase in the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
-3. Increased access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/), job shadows, intern for learning, and professional development
-4. Clear evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
-
-### Principles
-
-1. **Meaningful and relevant content.** We deliver learning solutions that help you reach your professional goals.
-1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/) and foster continuous learning and curiosity.
-1. **Diverse approaches to learning.** We apply a blended learning model to find solutions to various individual needs.
-1. **Community.** L&D offerings available to the public so that everyone can contribute.
 
 ### What are we not responsible for?
 
@@ -119,15 +122,13 @@ Internally, the GitLab People Group uses a calendar to track cross-functional ef
 
 We are a small team, but we've got a big role to play at GitLab! 
 
-* [Learning and Development Director](/job-families/people-ops/learning-development/#learning--development-manager): [Satu Salminen](/company/team/#ssalminen)
-* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
-* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
-* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
-* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla) 
+* [Learning and Development Director](/job-families/people-group/learning-development/#learning--development-manager): [Satu Salminen](/company/team/#ssalminen)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla) 
 
 ## Contact Us
-
-Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
 1. Slack: `#learninganddevelopment`
 1. Email Us: `learning@gitlab.com`
@@ -280,6 +281,8 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Blended Learning | Training that uses multiple methods to teach the new information to learners. It can includ ILTs, self-paced materials, VILT sessions, etc. | Varies |
 | Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
 | Workshop | Hands-on or virtual demos, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies |
+
+Please let us know how you would prefer to learn by [filling out this form](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
 ## Awards
 

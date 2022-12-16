@@ -19,7 +19,7 @@ Everything on this page, assumes the team member is already present in Workday. 
 
 # Onboarding
 
-Note: this section only discusses items in the onboarding where People Engineering was involved. You can read more about onboarding at GitLab on [this handbook page](/handbook/people-group/people-operations/General-onboarding/)
+Note: this section only discusses items in the onboarding where People Engineering was involved.
 
 ## Timeline Flow
 

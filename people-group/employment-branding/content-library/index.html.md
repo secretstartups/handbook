@@ -48,6 +48,7 @@ The current headcount number will be updated each quarter following our quarterl
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
 **2022**
+- [Best Workplaces for Parents, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces-parents?mkt_tok=NTIwLUFPTy05ODIAAAGIch_eubKDhGDzybtHOPnrcxe8dgsYnuW1QwdVR2XCewDx-EJjcFjfAJYwniK6cFNS-VLk-V5Kk2hzXRcCz-XNjpJys6F6_QGqCaPBDJxQtoJPDA)
 - [Best Companies for Remote Workers, Quartz, 2022](https://qz.com/list/best-companies-to-work-from-home-2022/gitlab-5)
 - [Best Workplaces in Technology, Small & Medium, Fortune, 2022](https://fortune.com/best-small-workplaces-technology/2022/gitlab/)
 - [Best Workplaces for Millennials, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces/millennials/2022?category=small-and-medium)
@@ -95,6 +96,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Videos | Category |
 | ------ | ------ |
+| [Life at GitLab](https://vimeo.com/gitlab/lifeatgitlab) | General |
 | [Sales at GitLab](https://vimeo.com/675024697) | Sales |
 | [A Conversation with Ragnar Hardarson, Engineering Manager at GitLab](https://vimeo.com/716075220) | Engineering |
 | [A Conversation with Monmayuri Ray, Engineering Manager, ModelOps at GitLab](https://vimeo.com/745189253) | Engineering |
@@ -111,7 +113,6 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [GitLab's core values](https://youtu.be/_8DFFHYAtj8) | General |
 | [This is GitLab](https://youtu.be/5QeHmiMFhDE) | General |
 | [What is GitLab?](https://youtu.be/MqL6BMOySIQ) | General |
-| [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
 | [Working remotely at GitLab](https://youtu.be/NoFLJLJ7abE) | General |
 | [Black is Tech](https://vimeo.com/746975612) | DIB |
 

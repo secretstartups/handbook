@@ -84,7 +84,7 @@ References to `Year 1`, `Year 2`, etc. in the outline below are meant to indicat
 
 1. Explore high level, industry specific trainings and certification programts utilizing the [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/)
 1. Participate in [Elevate]](/handbook/people-group/learning-and-development/elevate/) if you are an aspiring manager
-1. Explore company wide shadow programs including [CoS Shadow](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow), [People Experience Shadow](https://about.gitlab.com/handbook/people-group/people-experience-shadow-program/), [Development Director Shadow Program](/handbook/engineering/development/shadow/director-shadow-program.html), [Security shadow](https://about.gitlab.com/handbook/security/security-shadow.html), [Security engineering and research shadow](https://about.gitlab.com/handbook/security/security-shadow-sec-eng-res.html)
+1. Explore company wide shadow programs including [CoS Shadow](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow), People Experience Shadow, [Development Director Shadow Program](/handbook/engineering/development/shadow/director-shadow-program.html), [Security shadow](https://about.gitlab.com/handbook/security/security-shadow.html), [Security engineering and research shadow](https://about.gitlab.com/handbook/security/security-shadow-sec-eng-res.html)
 
 
 

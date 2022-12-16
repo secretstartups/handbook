@@ -55,6 +55,8 @@ After you sign your offer and complete your background check and references, you
 1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
+1. [Early Career Discussion Group Slack Channel](https://gitlab.slack.com/archives/C0340TYR7AA) This group is for anyone, but specifically for helping those who are transitioning to a new or first career! Everyone is welcome, and all your questions that you may not know where to ask are welcome here. 
+1. [Brag Docs](https://jvns.ca/blog/brag-documents/) are a way of tracking the work you've done. It can be a very helpful document when talking with managers, leadership, or when seeking promotions. Here's a [recording](https://youtu.be/oVd3jN76b5c) of an event hosted by the Early Career Team Member Discussion Group to talk about some advice for keeping a brag doc and more. 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Acronym Dictionary 
@@ -209,10 +211,7 @@ A: You will receive the dollar figure listed on your contract, however the numbe
 
 **Q: Where can I find information about ESPP (Employee Stock Purchase Program)?**
 
-A: At this time, there is not a handbook page regarding ESPP. Once you have started and have access to GitLab documents, you will be able to view the below documents (locked to be internally facing only) that have all the information about ESPP.
-   - [ESPP FAQ](https://docs.google.com/document/d/1Be1gz-_iGGNjuOku7N4ipnEFhGLfbxOZp68PEcoXUYU/edit)
-   - [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gb84b7497fb_0_24)
-   - [ESPP AMA](https://docs.google.com/document/d/1ELjTI_X29KKpmO1AuI8IMXW8oNqnKexy2jRs8T-SiLE/edit#)
+A: You can read about our ESPP program [here](https://about.gitlab.com/handbook/stock-options/#employee-stock-purchase-plan-espp).
 
 ### Access
 **Q: I received an email from Okta about access, do I need to do anything with it?**

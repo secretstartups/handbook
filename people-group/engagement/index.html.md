@@ -329,7 +329,7 @@ Bar those who joined on or after 2020-11-01 the survey was extended to all GitLa
 
 #### Benchmarking and Reporting
 
-The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceeding years results. Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
+The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceeding years results. Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
 
 #### Company Results (Overall)
 
@@ -388,7 +388,7 @@ Bar those who joined on or after 2019-10-01 the survey was extended to all GitLa
 
 #### Benchmarking and Reporting
 
-The FY20 survey was benchmarked against New Tech Size >500 2019 in addition to being reviewed against the preceeding years results. Preliminary reports were released in the week of 2019-11-07 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
+The FY20 survey was benchmarked against New Tech Size >500 2019 in addition to being reviewed against the preceeding years results. Preliminary reports were released in the week of 2019-11-07 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
 
 #### Company Results (Overall)
 
@@ -442,7 +442,7 @@ Bar those who joined on or after 2018-08-17 the survey was extended to all GitLa
 
 #### Benchmarking and Reporting
 
-The FY19 survey was benchmarked against 2018 New Tech Size - Large Companies (500+). Preliminary reports were released in the week of 2018-11-06 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
+The FY19 survey was benchmarked against 2018 New Tech Size - Large Companies (500+). Preliminary reports were released in the week of 2018-11-06 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
 
 #### Company Results (Overall)
 

@@ -14,7 +14,7 @@ description: "Information about GitLab's People Group Engineering team and its p
 ## Overview
 
 As GitLab continues to scale, our need for tools and automation to manage our growth expands
-along with it. To help the People Group, we have a People Group Engineering team, that consists out of [People Group Fullstack Engineers](https://about.gitlab.com/job-families/people-ops/people-ops-fullstack-engineer/) to make our team more efficient and improve the effectiveness of our
+along with it. To help the People Group, we have a People Group Engineering team, that consists out of [People Group Fullstack Engineers](https://about.gitlab.com/job-families/people-group/people-ops-fullstack-engineer/) to make our team more efficient and improve the effectiveness of our
 core [People Group](/handbook/people-group/).
 
 Responsibilities include (but are not limited to):
@@ -160,7 +160,6 @@ We've build several automations and tools to support our People Group. In the fo
 - [Nominator Bot](/handbook/people-group/engineering/nominatorbot/)
 - [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/)
 - [Inclusive Language Check on Job Families](/handbook/hiring/job-families/#inclusive-language-check)
-- [BambooHR Audit](/handbook/people-group/engineering/bamboo-audit/)
 - [People Ops Internal Handbook](/handbook/people-group/engineering/pops-internal-handbook/)
 - [People Connect Bot](/handbook/people-group/engineering/people-connect-bot)
 
