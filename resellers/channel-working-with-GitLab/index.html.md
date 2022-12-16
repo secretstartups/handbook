@@ -102,19 +102,33 @@ Rebates are paid out no later than 45 days after the end of each quarter.  Partn
 
 ## Quote to Order
 
+Authorized partners who have achieved at least Open Status may request a quote and transact with GitLab.
+
+GitLab quotes reflect reseller pricing, exclusive of incentive rebates, and any discounts provided are not meant for the end customer to see. Resellers need to generate their own quote to the end customer and can then provide any customer discount at that time. 
+
+GitLab quotes may come with a [Sertifi](http://corp.sertifi.com/) link. E-signing the quote with Sertifi initiates the invoicing process and causes our systems to invoice you. Do not e-sign the quote until you are ready to be invoiced. Do not e-sign the quote if your customer will be paying us directly.
+
+GitLab will not generate a quote, or fulfill an order, without an end user contact complete with email, shipping address, and postal code.
+
 ### Receive a GitLab Reseller Quote
 
-Attached below is a sample quote. When you request a quote, you receive a document that looks very similar to this. This quote reflects your reseller price exclusive of incentive bonuses, and is not meant for the end customer. You will need to generate your own quote to the end customer.
+Select Partners and partners in areas where there is no active distributor must purchase directly through GitLab. To receive a quote, partners can either [register a deal](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#submitting-a-deal-registration) or reach out to their channel manager and request a quote. The channel manager will connect the partner with the appropriate sales team who will work with the partner throughout the life of the opportunity. 
 
-The quote comes with a[ Sertifi](http://corp.sertifi.com/) link. E-signing the quote with Sertifi initiates the invoicing process and causes our systems to invoice you. Do not e-sign the quote until you are ready to be invoiced. Do not e-sign the quote if your customer will be paying us directly.
+To submit a purchase order for a resell-direct opportunity, please submit your PO to the sales team you have been working with for the opportunity.
 
-Note that we do not generate a quote, or fulfill an order, without an end user contact complete with email, shipping address, and postal code.
 
-## Receive a GitLab Reseller Quote via Distributor
+### Receive a GitLab Reseller Quote via Distributor
+
+Open Partners are required to purchase through a distribution partner in every territory with an active distributor. All quote requests and purchase orders can be sent directly to the distributor.
+- In EMEA: Partners transact with Amazic via gitlab@amazic.com.
+- In APAC (several countries): Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html) 
+   - In India: Partners may also choose to transact with Redington via gitlab@redington.co.in.
+   - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/)
+- US PubSec: Partners transact with Carahsoft via gitlab@carahsoft.com
 
 ### License Key Delivery
 
-Once the order is invoiced and the customer accepts the EULA (see below), they are able to download their GitLab license key. Note, Partners do not receive the license key, it is sent directly to the customer.
+Once the order is invoiced and the customer accepts the EULA (see below), they are able to activate their GitLab license key. The invoice contact of the transacting partner (either distributor or reseller) is copied on this email. 
 
 ### Customer Support, Subscription Changes and Email Updates
 If you are working with a customer and need help with a technical issue for a GitLab product, you can submit a support ticket on behalf of your customer by clicking on Submit a Technical Support Ticket on behalf of your customer on the Support tab. Ensure you follow all instructions and read corresponding recommended handbook pages in the form prior to submitting, or it could delay Support’s response.
