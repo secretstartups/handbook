@@ -9,7 +9,7 @@ title: "Field Security Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## [Governance and Field Security team charter](/handbook/security/security-assurance/governance_and_field_security_team_charter.html.md/)
+## [Governance and Field Security team charter](/handbook/security/security-assurance/governance_and_field_security_team_charter.html)
 
 ## <i class="fas fa-bullseye" style="color:rgb(110,73,203)" aria-hidden="true"></i> Field Security Team
  
