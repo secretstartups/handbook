@@ -239,11 +239,11 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### VP of Product Management
 
-This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [VP, Product](/job-families/product/vp-product/).
+This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](https://about.gitlab.com/job-families/product/chief-product-officer/).
 
 #### VP of Product Management - Job Grade
 
-The VP of Product is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Product Management is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Product Management - Responsibilities
 * Play a key role in helping the GitLab Product Management team scale rapidly and realize our product vision to be a complete DevOps platform.
@@ -268,7 +268,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Apply on the GitLab Jobs [page](/jobs/)
 * 30 minute screening call with Recruiter
-* 50 minute interview with VP, Product
+* 50 minute interview with Chief Product Officer
 * 50 minute panel interview with Sr. Director, Engineering & Director, UX
 * 50 minute interview with Director, Product
 * 50 minute interview with Director, Product
