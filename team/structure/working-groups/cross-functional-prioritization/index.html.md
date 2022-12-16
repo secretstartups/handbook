@@ -26,12 +26,13 @@ This working group is charged with rolling forward from the emergency "Engineeri
 | Property        | Value      |
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
-| Target End Date | 2022-09-18 |
+| Target End Date | 2023-01-31 |
 | Slack           | [#wg_cross-functional-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Issue board    | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?not[label_name][]=wg-cross-functional-prioritization-adoption&label_name[]=wg-crossfunctional-prioritization) |
 | Open merge requests for the working group | [MR list](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=wg-cross-functional-prioritization) |
 | OKR | [Mature cross functional prioritization model](https://app.ally.io/objectives/2228738?time_period_id=155987) |
+| Overview & Status | See [Exit criteria](#exit-criteria) below |
 
 ### Exit criteria
 
@@ -55,7 +56,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 The below criteria will be marked as complete when we close the working group, as we will be doing this iteratively until then.
 
 - [ ] Handbook is updated to reflect the new process 
-- [ ] Execute on mulit-modal communication plan (documented below)
+- [ ] Execute on [multi-modal communication plan](#multi-modal-communication) (below)
 - [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13694)
 
 #### Phased Rollout of the remaining exit criteria
@@ -88,7 +89,7 @@ Note: This does not preclude other stages beyond create to complete the exit cri
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
 | Functional Lead       | Farnoosh Seifoddini                                  | Head of Product Operations |
 | Functional lead       | Lily Mai                                             | Staff Engineering Analyst |
-| Functional Lead                | Tanya Pazitny                                        | Director of Quality Engineering |
+| Functional Lead       | Tanya Pazitny                                        | Director of Quality Engineering |
 | Member                | Jennifer Li                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
@@ -110,8 +111,3 @@ The process is [documented](/handbook/engineering/cross-functional-prioritizatio
 * Add the `wg-cross-functional-prioritization` label to all issues and merge requests so they can be tracked
 * Add milestone so PM operations can serve up a filter by label/milestone
 * Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.
-
-
-
-
-
