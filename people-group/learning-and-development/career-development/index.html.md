@@ -163,6 +163,8 @@ Epics are a great way to [transparently](/handbook/values/#transparency) and [ef
 
 ## Having Career Conversations
 
+### Compassionate and Results Oriented Career Conversations
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpgqa4SHbVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.be/3pZoNORrDjU)_
@@ -170,12 +172,12 @@ _Watch the full conversation with Camilla Boyer at GitLab [here](https://youtu.b
 ### CREDIT and Career Conversations
 
 | Value | Career Conversations Application |
-| ----- | —------------ | 
+| ----- | --------------- |
 | Collaboration | Growth is led by individuals and supported by managers.  |
 | Results | Growth increases engagement with work which drives greater results. |
 | Efficiency | Growth happens in the flow of work. |
 | Diversity, Inclusion, and Belonging | Our experiences influence career motivations and the support we need. |
-| Iteration| Motivation changes and promotes growth that is meaningful, interesting, and relevant. |
+| Iteration | Motivation changes and promotes growth that is meaningful, interesting, and relevant. |
 | Transparency | Trust enables vulnerability and support in reaching true career goals. |
 
 ### Having Career Conversations with your Manager
@@ -199,6 +201,32 @@ The video below is a recording of the Live Learning that took place in August 20
 | Suggest iterations | Encourage reassessment of goals and adjustments as needed. |
 | Set expectations | Decide together the date of your next career conversations and the outcomes to achieve by that date. |
 
+#### Recomendations for Managers to support the learning of team members
+
+Managers should support their direct reports with their professional development goals. Implement the following into a [1-1](/handbook/leadership/1-1/), team meeting, or async communication to support your team.
+
+1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
+1. Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
+1. Recommend (and model) blocking [time to learn during the work week](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign).
+1. Organize team specific and cross-functional learning communities to practice [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
+1. Model and share your own career and professional development pursuits.
+1. Create a [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
+
+**Sample questions to ask your team:**
+
+1. Do you have any overused strengths or underdeveloped skills that might cause your career to stall or derail?
+1. Considering feedback from others, are you perceived to have the skills required for the business needs of the future? If not, how could you shape that perception in a favorable direction?
+1. How can you leverage your current skills and talents for your future aspirations?
+1. What skills or talents are missing to qualify you for your future aspirations?
+1. Does your feedback from others tell you anything about how feasible your aspirations are?
+1. Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
+
+#### Cadence
+
+Aim to have career converations with your team 2 times per year. Consider having these conversations in Q2 and Q4, aligning after talent conversations and planning for the next year.
+
+This cadence is not required and can be adjusted as needed. Career conversations can happen during a regularly scheduled 1:1 or in a separate meeting.
+
 #### Resources
 
 Use the following templates to plan and prepare for career conversations with your team:
@@ -211,75 +239,52 @@ Use the following templates to plan and prepare for career conversations with yo
 
 What do managers ask about when it comes to having career conversations with their teams? Watch the short question and answer videos below to learn more. Watch the full training from 2021-08 [here](https://www.youtube.com/embed/f1T2KKlrZCY).
 
-1. You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take?
+<table>
+  <tr>
+    <th>Question</th>
+    <th>Answers from the GitLab Team</th>
+  </tr>
+  <tr>
+    <td>You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>One of your direct reports has indicated they aren't interested in growing to the next level or developing further as they are happy in their current role. As their manager, what steps would you take?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/oALcZZWvkfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>Your direct report has indicated they are ready to move to, and are already performing at, the next level. As their manager, what steps would you take?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/a2-lnhVvM2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>A direct report feels ready to move to the next level, but aren't fully performing in their current role. As their manager, what steps would you take?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/MuXQcorCVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>A career conversation becomes emotional - what do you do?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/sJRFS08V_-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>How often do you have career conversations with your team?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/uFKoU53Vj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>What about team members who don't have strong sense of their career goals yet? How do you support them?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/pSAjpQxEx04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>What fears do managers at GitLab have when it comes to having career conversations?</td>
+    <td><iframe width="400" height="250" src="https://www.youtube.com/embed/oHlrlAlRB7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Career Development Conversation Acknowledgements
 
-2. One of your direct reports has indicated they aren't interested in growing to the next level or developing further as they are happy in their current role. As their manager, what steps would you take?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/oALcZZWvkfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-3. Your direct report has indicated they are ready to move to, and are already performing at, the next level. As their manager, what steps would you take?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/a2-lnhVvM2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-4. A direct report feels ready to move to the next level, but aren't fully performing in their current role. As their manager, what steps would you take?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/MuXQcorCVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-5. A career conversation becomes emotional - what do you do?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/sJRFS08V_-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-6. How often do you have career conversations with your team?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/uFKoU53Vj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-7. What about team members who don't have strong sense of their career goals yet? How do you support them?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/pSAjpQxEx04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-8. What fears do managers at GitLab have when it comes to having career conversations?
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/oHlrlAlRB7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Questions to ask your team
-
-1. Do you have any overused strengths or underdeveloped skills that might cause your career to stall or derail?
-1. Considering feedback from others, are you perceived to have the skills required for the business needs of the future? If not, how could you shape that perception in a favorable direction?
-1. How can you leverage your current skills and talents for your future aspirations?
-1. What skills or talents are missing to qualify you for your future aspirations?
-1. Does your feedback from others tell you anything about how feasible your aspirations are?
-1. Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
-
-#### Career Mapping and Development
-{:#career-mapping-and-development}
-
-We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
-Mapping helps managers and leaders internally develop the skills and knowledge they need to achieve future business goals. The key to this is to identify the key skills, knowledge, and abilities needed to master each level. Another essential tool is a career development plan, here are some examples:
-
-1. [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
-- [Template - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
-1. [Career Plan Template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
-
-Managers should discuss career development at least once a month at the [1:1](/handbook/leadership/1-1/) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4)
-
-#### Recomendations for Managers to support the learning of team members
-
-Managers should support their direct reports with their professional development goals. Implement the following into a [1-1](/handbook/leadership/1-1/), team meeting, or async communication to support your team.
-
-1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
-1. Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
-1. Recommend (and model) blocking [time to learn during the work week](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign).
-1. Organize team specific and cross-functional learning communities to practice [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
-1. Model and share your own career and professional development pursuits.
-1. Create a [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
-
-#### Career Development Conversation Acknowledgements
+_Career Conversation Acknowledgements happen at a division basis. Check with your People Business Partner if your division is doing this._
 
 Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
 
-#### Cadence
+### Cadence
 
 This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence](/handbook/people-group/performance-assessments-and-succession-planning/#regular-cadence), formal career conversations will ideally happen twice per year:
 
@@ -288,7 +293,7 @@ This process is just an acknowledgement by the team member that they have had ca
 
 The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly.
 
-#### Process 
+### Process 
 
 _Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#career-mapping-and-development),  managers cannot complete the acknowledgement process for team members._
 
@@ -303,7 +308,7 @@ _Please note that while managers can facilitate career development conversations
   <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-#### E-Group Performance Enablement Review
+## E-Group Performance Enablement Review
 
 Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](/handbook/values/#credit), performance and personal development.
 
