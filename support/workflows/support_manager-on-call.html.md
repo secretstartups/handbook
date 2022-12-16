@@ -90,6 +90,22 @@ When a STAR is resolved:
     - `~Escalation::License-Issue` : Identifies the core issue at hand resolves around licensing / subscriptions
     - `~Escalation::Response-Time` : Useful when the purpose of the request is to expedite a response to an issue or case
 
+## Handling mid ticket feedback requesting manager contact during business hours
+
+Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer or Manager has a link to a form where a customer can provide feedback or request contact from a manager while the ticket is open (introduced in issue [2913](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2913)).
+This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**.
+If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel.
+The following action should be taken promptly:
+1. Review feedback and ticket information and consider how urgent a reply is required. The reply should occur within 48hrs Mon-Fri. Replying sooner could prevent further customer frustration and a STAR or emergency situation.
+1. Reply via the ticket or email, as appropriate, sharing next steps and offer your Calendly link to schedule a video call.
+1. Remain as DRI until the ticket is back on track.
+1. Update the Feedback Issue as follows:
+   1. Add the text of any communication as a comment in the Feedback Issue.
+   1. Apply the label ~ssat-manager-contacted-customer.
+   1. /close the Feedback Issue; followup continues via previously chosen communication method.
+   1. After closing the Issue, if there are any additional actions that arise from your interaction with the customer, go back and note them in the Feedback Issue. 
+  
+
 ## Act as a notification point for security incidents
 
 When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
