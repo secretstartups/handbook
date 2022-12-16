@@ -356,6 +356,9 @@ As observations are identified, assigned and then move into remediation, there m
 
 For detailed procedures relating to observation remediation, refer to the [observation remediation procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
 
+## Metrics and Reporting
+Please refer to the internal handbook page - [Observation Management](https://internal-handbook.gitlab.io/handbook/engineering/security/security-assurance/observation-management-section/) for a breakdown of all observations by risk, status, Security Assurance program and department. Given the sensitivity of this information visibility is limited to internal use only. 
+
 ## Exceptions
 
 Exceptions will be created for observations that breach a mutually agreed upon remediation date, breach in SLA or if the Remediation Owner confirms the observation will not be remediated.  
@@ -366,7 +369,7 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
 - [GCF Contol Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
-- [Observation remediation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)]
+- [Observation remediation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 
