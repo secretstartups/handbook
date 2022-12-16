@@ -16,12 +16,12 @@ Securing GitLab means building a security program at scale. The number of change
 Keeping track of all these moving parts can not rely only upon our current understanding and vision of the GitLab software architecture. 
 Automation is a key aspect of our work, and GitLab is no exception. 
 
-The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies important for us.  
+The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies important to us.  
 The project is available at [https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory)
-and accessible by all GitLab team members. The Inventory is built using this [CLI tool](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib/).
+to GitLab team members. The Inventory is built using this [CLI tool](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib/).
 
 Not all projects are important, and we certainly don't want to monitor projects that are POCs, demos, or tests.
-That's why we need to categorize the projects created by GitLab team members, to understand their nature, and make decisions at scale.
+That's why we need to categorize the projects created by GitLab team members, understand their nature, and make decisions at scale.
 
 ### Categories
 
@@ -31,7 +31,7 @@ The following categories can be used to decorate the projects we want to monitor
 | Categories | Description | 
 | -------- | ----------- |
 | `product` | Used as a component of GitLab at some point |
-| `library` | A library, package source, component (not necessary a `product` one) |
+| `library` | A library, package source, component (not necessarily a `product` one) |
 | `deploy` | Used to deploy GitLab.com |
 | `website` | Deployed to a website (URL will be required) |
 | `api/service` | |
@@ -51,7 +51,7 @@ The following categories can be used to decorate the projects we want to monitor
 
 ### Rules
 
-Rules define actions to take, based on the project categories. These actions are performed by the GitLab Inventory Builder and are currently hardcoded. We plan to make them dynamic in the future.
+Rules define actions to take, based on the project categories. These actions are performed by the GitLab Inventory Builder and are currently hard coded. We plan to make them dynamic in the future.
 
 | Categories | Actions | 
 | -------- | ----------- |
@@ -63,12 +63,12 @@ Rules define actions to take, based on the project categories. These actions are
 
 | Categories | Policies | 
 | -------- | ----------- |
-| `red-data`, `product`, `library` | [SAST], [Dependency Scanning] and [Secret Detection] must be enabled |
+| `red-data`, `product`, `library` | [SAST], [Dependency Scanning], and [Secret Detection] must be enabled |
 | `use_pat`, `website`+`external` | [Dependency Scanning] and [Secret Detection] must be enabled |
 | `website`+`external` + `yellow/orange/red_data` | [DAST] must be enabled. Overall SSL grade must be 'A' or 'A+' |
 | `product` + `container` | [Container Scanning] must be enabled |
 | `keep_private` | Project `visibility` must be `private` |
-| `library`, `use_pat`, `website`, `api/service`, `green/yellow/red-data`, `3rdparty`, `fork` | *Default branch* must be `protected` (Allowed to merge : `Maintainers`, Allowed to push: `Maintainers`) |
+| `library`, `use_pat`, `website`, `api/service`, `green/yellow/red-data`, `3rdparty`, `fork` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `Maintainers`) |
 | `docs` | [Secret Detection] must be enabled |
 | all | Projects can't have [`internal`](https://docs.gitlab.com/ee/public_access/public_access.html#internal-projects-and-groups) visibility |
 | all | [`SECRET_DETECTION_HISTORIC_SCAN`](https://docs.gitlab.com/ee/user/application_security/secret_detection/#full-history-secret-detection) must not be set in the CI/CD configuration |
