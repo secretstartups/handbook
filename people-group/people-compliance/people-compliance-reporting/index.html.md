@@ -14,7 +14,7 @@ description: "The People Compliance team manages and ensure that all mandated HR
 
 ## EEO-1
 
-The [EEO-1 Component 1](https://www.eeoc.gov/employers/eeo-1-data-collection) report is a mandatory annual data collection that requires all private sector employers with 100 or more employees, and federal contractors with 50 or more employees meeting certain criteria, to submit demographic workforce data, including data by race/ethnicity, sex and job categories.
+The [EEO-1 Component 1](https://www.eeoc.gov/employers/eeo-1-data-collection) report is a mandatory annual data collection that requires all private sector employers with 100 or more employees, and federal contractors with 50 or more employees meeting certain criteria, to submit demographic workforce data, including data by race/ethnicity, sex and job categories. The 2022 EEO-1 Component 1 data collection is tentatively scheduled to open in April 2023.
 
 ## AAP 
 
@@ -31,15 +31,13 @@ Our AAP is developed using the same start month every year. The AAP report is ke
 
 The U.S. Department of Labor's Veterans' Employment and Training Service (VETS) and Office of Federal Contractor Compliance Programs (OFCCP) have supported affirmative actions to employ and advance in employment of covered veterans since 2008. As legislatively mandated under 38 U.S. Code Section 4212, codified at 41 CFR 61-300, contractors and subcontractors who enter into, or modify a contract or subcontract with the federal government, and whose contract meets the criteria set forth in the above legislation / regulations, are required to report annually on their affirmative action efforts in employing veterans. Data reported through form [VETS-4212](https://www.dol.gov/agencies/vets/programs/vets4212) is used by OFCCP in compliance evaluations.
 
-The VETS deadline is September 30 every year. Our VETS data set is combined with our EEO data set.
+The VETS deadline is September 30 every year, looking back at the previous full calendar year. Our VETS data set is combined with our EEO data set.
 
 ## Other State Reports 
 
 ### California Pay Data Report
 
-On September 30, 2020, CA Governor Newsom signed into law Senate Bill 973, which creates massive pay reporting requirements for employers. As of 2021, California employers are required to submit annual information on its employees’ pay data by gender, race, and ethnicity to the state’s Department of Fair Employment and Housing (DFEH).  
-
-Specifically, the new law requires employers, (a) with 100 or more employees; and (b) that must file an annual Employer Information Report (EEO-1) under federal law, to submit an annual report to the DFEH that includes the number of employees (and the hours they worked):
+As of 2021, due to Senate Bill 973, California employers are required to submit annual information on its employees’ pay data by gender, race, and ethnicity to the state’s Department of Fair Employment and Housing (DFEH). Specifically, the new law requires employers, (a) with 100 or more employees; and (b) that must file an annual Employer Information Report (EEO-1) under federal law, to submit an annual report to the DFEH that includes the number of employees (and the hours they worked):
 
 - By race, ethnicity, and sex;
 - In each of the Job Categories in the federal EEO-1 Report; and
@@ -52,13 +50,19 @@ Employers must create a "snapshot" that counts all of the individuals in each jo
 
 ### Illinois SB 1480 
 
-Illinois’ SB 1480 requires employers to make their EEO-1 reports public beginning in early 2023. There are no details on if it’s the exact EEO-1 report or if they’ll require a different type of filing to make that public on their state-run website. The reporting structure and what is required is still pending approval by the Secretary of State. In addition, IL will have a Pay Data reporting component. What that reporting looks like and what fields would be required are also unknown at this time. The requirements for both IL reports begin January 1, 2023, so there will be additional information given nearer to that date.
+**EEO-1 data filing requirements**
 
-Illinois employers will also need to begin reviewing and potentially modifying their compensation practices immediately to obtain an equal pay registration certificate, which will be required as of March 24, 2024. To apply for an equal pay registration certificate, employers will be required to submit the following to the Illinois Department of Labor:
+Illinois’ SB 1480 requires employers to make their EEO-1 reports public beginning in early 2023. SB 1480 amends the Illinois Business Corporation Act to require public-facing reporting of employee demographic data to the Illinois Secretary of State. Applicable employers required to file an EEO-1 report must report information “substantially similar” to the employment data reported under Section D of the corporation’s EEO-1 form. 
 
-- Compliance statement: An equal pay act compliance statement, signed by a corporate officer, legal counsel, or authorized agent of the business;
-- Employer Information Report EEO-1: If required to file an EEO-1 report with the EEOC, a copy of the organization’s most recently filed EEO-1 report for each IL county in which the business has a facility or employee(s);
-- List of employees: Separated by gender and race/ethnicity categories as reported in the business’s most recently filed EEO-1 report and the total wages as defined by Section 2 of the Illinois Wage Payment and Collection Act paid to each employee during the past calendar year.
+**Amendments to the Illinois Equal Pay Act**
+
+Illinois SB 1480 amends the Illinois Equal Pay Act of 2003 and requires private employers in the state with more than 100 Illinois-based employees to obtain an Equal Pay Registration Certificate from the state Department of Labor or certify in writing that it is exempt. Employers must obtain the certificate within the period of March 24, 2022, and March 23, 2024. Employers must also re-certify every two years. New businesses meeting the employee threshold must obtain an Equal Pay Registration Certificate within three years of commencing operations and recertify every two years.  
+
+To apply for an Equal Pay Registration Certificate employers must pay a $150 filing fee and provide the following to the Illinois Department of Labor:
+
+- Equal Pay Compliance Statement: An Equal Pay Compliance Statement, signed by a corporate officer, legal counsel, or authorized agent of the business that certifies the organization is in compliance with state and federal equal pay laws, including but not limited to, Title VII of the Civil Rights Act of 1964, the Equal Pay Act of 1963, the Illinois Human Rights Act, the Equal Wage Act, and the Equal Pay Act of 2003.
+- Employer Information Report EEO-1: If required to file an EEO-1 report with the EEOC, a copy of the business’s most recently filed EEO-1 report for each county in which the business has a facility or employees.
+- List of employees: Separated by gender and race/ethnicity categories as reported in the business’s most recently filed EEO-1 report and the total wages as defined by Section 2 of the Illinois Wage Payment and Collection Act paid to each employee during the past calendar year. The Illinois Department of Labor may also audit a business’s compliance by requesting the following information in the major job categories in the EEO-1 report: Number of male employees; Number of female employees; Average annualized salaries paid to male and female employees; Information on performance payments, benefits, or other elements of compensation; The average length of service for male and female employees in each major job category; Other information identified by the business or by the Illinois Department of Labor as needed to determine compliance with the above-specified requirements.
 
 # Australia
 
