@@ -30,7 +30,7 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 
 ### Qualify
 
-Value stream assessments(VSA) require a non-trivial investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
+Value stream assessments require a non-trivial investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
 
 - We have a strong relationship with an executive sponsor
 - The opportunity has a Net ARR value of over $500k
@@ -38,7 +38,7 @@ Value stream assessments(VSA) require a non-trivial investment of time by both t
 - The prospect or customer is focused on improving their software delivery performance
 - We have a relationship with the [economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
 - We have identified and established a relationship with the [champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
-- We suggest pitching VSA prior to POVs to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
+- We suggest pitching a Value Stream Assessment prior to POVs (Proof of Value) to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
 
 Key indicators that the opportunity is well-suited include:
 
@@ -53,7 +53,7 @@ The scope of a value stream assessment should always be clearly defined. A clear
 
 ### Education and Commitment
 
-A successful Value Stream Assessment requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step.
+A successful Value Stream Assessment requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful value stream assessment. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step.
 
 _While a Value Stream Assessment is an advanced discovery workshop, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
@@ -74,23 +74,23 @@ Focusing on the goals and benefits listed above, the time required to complete a
 
 ### Prepare
 
-#### VSA Tracking Issue
+#### Value Stream Assessment Tracking Issue
 
-The **very first step** when considering a Value Stream Assessment is to notify the VSA team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
+The **very first step** when considering a Value Stream Assessment is to notify the Value Stream Assessment team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
 
 - Please create a new issue in [value stream assessment project](https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
 - Use the template labeled `request_value_stream_assessment`
 
-This gives the VSA team at GitLab the ability to both track the progress of the VSA and allocate team members to the effort, a key requirement for the next preparation steps.
+This gives the team at GitLab the ability to both track the progress of the Value Stream Assessment and allocate team members to the effort, a key requirement for the next preparation steps.
 
 #### Internal Preparation Meeting
 
-It is extremely important to have an internal preparation meeting(can be async) prior to pitching VSA to the customer. The goal of the meeting is to be able to discuss:
+It is extremely important to have an internal preparation meeting(can be async) prior to pitching a Value Stream Assessment to the customer. The goal of the meeting is to be able to discuss:
 - The opportunity (should include SFDC link)
 - The key players & their roles
 - What metrics are these key players measured by
 - Any OKRs for these key players that the account team is aware of
-- What will be the succesful outcome from VSA
+- What will be the succesful outcome from a Value Stream Assessment
 - Pick key slides to deliver to customer
 - Pick key discovery questions to be asked during pitch & customer planning session
 - Important chorus recordings to review
@@ -98,10 +98,10 @@ It is extremely important to have an internal preparation meeting(can be async) 
 ### Pitch
 
 The initial customer pitch allows us to pitch value stream assesment to our key stakeholders & get their buy in. The customer pitch should include:
-- What is VSA?
-- What does a VSA workshop entail?
-- Who are the key participants of the VSA workshop?
-- What are some of the expected outcomes of VSA for them?
+- What is a Value Stream Assessment?
+- What does a Value Stream Assessment entail?
+- Who are the key participants involved in the Value Stream Assessment?
+- What are some of the expected outcomes of a Value Stream Assessment for them?
 
 It is important to identify a project or few projects as next step for the planning meeting with customer.
 
@@ -233,7 +233,7 @@ It is recommended to review the executive briefing with your champion, key stake
     - For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
     - For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
-    - Financial Services customers have realized the below outcomes when coupling a VSA with GitLab investment: 
+    - Financial Services customers have realized the below outcomes when coupling a Value Stream Assessment with GitLab investment: 
         - Faster time to market
         - Increase deployment frequency
         - Reduced lead time to change
@@ -249,7 +249,7 @@ It is recommended to review the executive briefing with your champion, key stake
 
 1. That's a lot of time investment from our teams Or Our teams are busy with other projects.
 
-    - It takes 1 or 1.5 hr per team to do focused discovery for VSA. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
+    - It takes 1 or 1.5 hr per team to do focused discovery for a Value Stream Assessment. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
 
 1. Can you interview 1 team at a time?
 
@@ -258,7 +258,7 @@ It is recommended to review the executive briefing with your champion, key stake
 
 ## Training and Enablement
 
-### VSA Overview
+### Value Stream Assessment Overview
 
 This course provides an overview of how GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
 
