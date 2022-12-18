@@ -40,7 +40,7 @@ The process is comprised of five key stages:
     - TARGET TEAM: Ahead of this call please review our [roadmap](/direction/) and outline which of your current and future product features can be implemented into GitLab's product categories. Outline a simple integration timeline for those features, considering an MVC release on the first month after joining GitLab and monthly releases following with quick iterations.
 1. Share call summary ([Initial Acquisition Review Template](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit?usp=sharing), a GitLab internal document) of companies that are aligned with GitLab's acquisition strategy ("Qualified Pipeline") with relevant product lead.
     - Create a new, private Slack channel (format: `#acq-company_name`) and add the internal GitLab document to the top. Add VP of Product Management and the relevant product and engineering leaders to help with the initial assessment of the opportunity.
-1. Product call: If the Product champion sees a potential fit and wants to proceed, set up an initial 90-minute product call to dive into the product and tech. The call must include the Product champion and may also include Section Leaders and specific Product Managers relevant to the call. Section Leaders and Product Managers should keep in mind the early stage of this evaluation and attempt to think expansively about how the potential acquisition could be additive to GitLab. Include the VP of Product Management as optional attendee. The agenda for the call is:
+1. Product call: If the [Product Champion](/handbook/acquisitions/acquisition-process/#acquisition-team) sees a potential fit and wants to proceed, set up an initial 90-minute product call to dive into the product and tech. The call must include the Product champion and may also include Stage Leaders and specific Product Managers relevant to the call. Stage Leaders and Product Managers should keep in mind the early stage of this evaluation and attempt to think expansively about how the potential acquisition could be additive to GitLab. Include the VP of Product Management as optional attendee. The agenda for the call is:
     1. Product demo with highlights on key functionality and technologies
     1. Concise roadmap overview with a focus on near-term plans
     1. [GitLab roadmap](https://about.gitlab.com/direction/) fit - discuss which features could be built into GitLab and into which product stage
@@ -187,10 +187,10 @@ The integration process is outlined in our [acquisition integration page](/handb
 An acquisition team will consist of the following GitLab functional team members:
 
 1. Corporate Development - acquisition lead
-1. [Product Section Leader](/handbook/product/product-leadership/#general-product-organizational-structure) (reporting to VP Product)
-1. Product Manager
-1. Dir. Engineering
-1. Engineering team member
+1. Product Champion - [Product Section Leader](/handbook/product/product-leadership/#general-product-organizational-structure) (reporting to VP Product)
+   1. Product Manager
+1. Engineering Champion - Dir. Engineering
+   1. Engineering team member
 1. Finance team member
 1. Director of Tax
 1. Principal Accounting Officer
