@@ -52,23 +52,23 @@ We want to make our corner of the internet a little safer, but also be the best 
 <tbody>
 <tr>
 <td>Joanna Rubi</td>
-<td><a href="/job-families/engineering/trust-and-safety">Security Engineer, Trust & Safety</a></td>
+<td><a href="/job-families/security/trust-and-safety">Security Engineer, Trust & Safety</a></td>
 </tr>
 <tr>
 <td>Shawn Sichak</td>
-<td><a href="/job-families/engineering/trust-and-safety">Security Engineer, Trust & Safety</a></td>
+<td><a href="/job-families/security/trust-and-safety">Security Engineer, Trust & Safety</a></td>
 </tr>
 <tr>
 <td>Westley van den Berg</td>
-<td><a href="/job-families/engineering/trust-and-safety">Security Analyst, Trust & Safety</a></td>
+<td><a href="/job-families/security/trust-and-safety">Security Analyst, Trust & Safety</a></td>
 </tr>
 <tr>
 <td>Aaron Lindby</td>
-<td><a href="/job-families/engineering/trust-and-safety">Security Analyst, Trust & Safety</a></td>
+<td><a href="/job-families/security/trust-and-safety">Security Analyst, Trust & Safety</a></td>
 </tr>
 <tr>
 <td>Charl de Wit</td>
-<td><a href="/job-families/engineering/trust-and-safety">Security Manager, Trust & Safety</a></td>
+<td><a href="/job-families/security/trust-and-safety">Security Manager, Trust & Safety</a></td>
 </tr>
 </tbody>
 </table>
