@@ -25,7 +25,7 @@ Please click here to read the [Audit Committee Charter](https://ir.gitlab.com/st
 
 ## Audit Committee Agenda Planner
 
-The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2022-07-15.
+The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2022-12-12.
 
 ### Audit Committee Earnings Meeting Calendar <br>
 
@@ -48,7 +48,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 |#|Topics                                                              | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---:  |
-| 1 |Summary of Key Tax Metrics                      |   X   |    X   |   X   |   X |       |
+| 1 |Effective Tax Rate/Cash Taxes/Tax Attributes (NOLs and Credits)  |   X   |    X   |   X   |   X |       |
 | 2 |Other Topics                                        |     |    |     |     |  X  |
 
 
@@ -99,7 +99,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 |#| Topics                                     | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Chief Legal Officer, Chief Finance Officer and kPMG       |  X  |   X  |   X   |   X   |      |
+| 1 | Chief Legal Officer, Chief Finance Officer and KPMG       |  X  |   X  |   X   |   X   |      |
 
 
 <br>
@@ -134,8 +134,8 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 1 |New Accounting Pronouncements                         |Annual |  X  |    |     |     |     |
 | 2 |International Reporting                               |Annual |  X  |    |     |     |     |
 | 3 |Treasury                                              |Annual |  X  |    |  X  |     |     |
-| 4 |Tax/Economic Ownership Structure                      |Annual |     |    |     |  X  |     |
-| 5 |Effective Tax Rate/Cash Taxes/Tax Attributes (NOLs and Credits)                                                |Quarterly |  X  | X  |  X  |  X  |     |
+| 4 |APA and other special projects updates                     |Quarterly |  X   |  X  |   X  |  X  |     |
+| 5 |Summary of tax returns filed YTD)                     |Annual |     |    |     |  X   |    |
 | 6 |Stat Audit Update                                     |Annual |     |    |  X  |     |     |
 | 7 |Audit Committee Calendar Review                       |Annual |     |    |     |  X  |     |
 | 8 |Organization Overviews - Accounting, Finance, Tax, FP&A, Investor Relations                                             |Semi Annual |     | X  |     |  X  |     |
@@ -153,16 +153,16 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 |#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
-| 1 |Compliance to Business Conduct (including hotline complaints and code of conduct violations)     |As needed |     |    |     |     |  X  |
-| 2 |Code of Conduct, Related Party Transactions and other policy reviews   |As needed |     |     |     |     |  X  |
-| 3 |Legal Risk Assessment updates           |As needed |     |     |     |     |  X  |
-| 4 |Regulatory Compliance                   |As needed |     |     |     |     |  X  |
-| 5 |Privacy & Product Compliance / Employment  |Annual |     |  X  |     |     |  X  |
-| 6 |Committee Annual Assessment                |Annual |  X  |     |     |     |  X  |
-| 7 |Related Party Transactions              |As needed |     |     |     |     |  X  |
-| 8 |Litigation                              |As needed |     |     |     |     |  X  |
-| 9 |Review of Audit Committee Charter          |Annual |  X  |     |     |     |  X  |
-|10 |Organization Overview                      |Annual |     |  X  |     |     |  X  |
+| 1 |Code of Conduct, Related Party Transactions and other policy reviews   |As needed |     |     |     |     |  X  |
+| 2 |Committee Annual Assessment                |Annual |  X  |     |     |     |  X  |
+| 3 |Related Party Transactions              |As needed |     |     |     |     |  X  |
+| 4 |Litigation                              |As needed |     |     |     |     |  X  |
+| 5 |Review of Audit Committee Charter          |Annual |  X  |     |     |     |  X  |
+| 6 |Organization Overview                      |Annual |     |  X  |     |     |  X  |
+| 7 |Privacy, Product, IP & Trade Compliance  |Annual |     |  X  |     |     |    |
+| 8 |Employment |Annual |     |  X  |     |     |    |
+| 9 |Corporate  |Annual |     |  X  |     |     |    |
+| 10 |Commercial  |Annual |     |  X  |     |     |    |
 |11 |Approval of Minutes                     |Quarterly |  X  |  X  |  X  |  X  |     |
 |12 |Other Topics                                         |As needed |     |    |     |     |  X  |
 
@@ -175,6 +175,14 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 2 | State of Systems and Scalability      |Semi Annual |  X   |    |  X  |     |     |
 | 3 | Organization Overview                      |Annual |  X   |    |     |     |     |
 | 4 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### IT Compliance
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Finance Application System Reviews (ITGC)        |Semi Annual |  X    |    |   X  |     |     ||
+| 2 |Other Topics                                         |As needed |     |    |     |     |  X  |
 
 
 #### Security Compliance
@@ -193,14 +201,15 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
 | 1 | Internal Audit Annual Plan             |Annual |  X   |     |     |     |     |
 | 2 | Fraud Risk Assessment                  |Annual |      |  X  |     |     |     |
-| 3 | Annual Assessment of Internal Audit((Startegic Plan, IA roadmap, skill set assessment) )    |Annual |      |  X   |    |     |     |
+| 3 | Annual Assessment of Internal Audit (Strategic Plan, IA roadmap, skillset assessment) |Annual |      |    |  X  |     |     |
 | 4 | Internal Audit Charter Review       |As needed |   X  |     |     |     |     |
 | 5 | Organization Overview               |As needed |      |  X  |     |     |     |
-| 6 | SOX Program Update                |Quarterly |  X   |  X   |  X  |  X   |     |  
-| 7 | Technology Strategy Roadmap       |Annual |    |     |  X  |     |     |
-| 8 | Data Analytics Strategy Roadmap |Annual |    |     |    |   X  |     |
-| 9 | Career Framework |Annual |    |     |  X  |     |     |
-| 10 |Other Topics                                    |As needed |     |    |     |     |  X  |
+| 6 | Internal Audit and SOX program update                |Quarterly |  X   |  X   |  X  |  X   |     |  
+| 7 | Technology Strategy Roadmap update      |Annual |    |     |  X  |     |     |
+| 8 | Data Analytics Strategy Roadmap update|Annual |    |     |    |   X  |     |
+| 9 | Career Framework update |Annual |    |     |  X  |     |     |
+| 10 | Enterprise Risk Management update |Annual |  X  |     |    |     |     |
+| 11 |Other Topics                                    |As needed |     |    |     |     |  X  |
 
 
 #### External Audit
