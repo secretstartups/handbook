@@ -115,7 +115,7 @@ _Please go with bias for action to add updates into this handbook page as the We
     - Additional meta information is provided at the bottom. Git branch, problems, current line number, spaces for indentation, encoding, end-of-line sequence, language mode, layout, notifications. 
     - **Tip:** Hover over the menu sections and items to learn more about their purpose and keyboard shortcuts. 
   
-![Web IDE overview, handbook page highlighted in the file tree](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
+    ![Web IDE overview, handbook page highlighted in the file tree](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
 
 3. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview. 
     - Note that the [handbook markdown engine](/handbook/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a draft MR to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to e.g. verify embedded images. 
