@@ -1299,17 +1299,24 @@ Please note that there is a limit of $75 USD annually per person on customer spe
 
 ## Legal Approvals
 
-Field Marketing executes contracts with outside vendors to support the work we do. We do so by following the company [procure to pay process](/handbook/finance/procurement/).
-
-We have an expectation of a 5 business day turnaround for a GitLab executed contract (could be longer depending on the amount of the contract & how many chains of approval the contract needs to go through).
-
-If an issue has been sitting for more than 5 business days and does not have approval from legal, the FMC managing the issue is to ping legal in the issue reminding them to please review. If an FMC will be out of the office while a contract review is pending, it is their responsibility to assign a delegate to manage.
+Field Marketing executes contracts with outside vendors to support the work we do. We do so by following the company [procure to pay process](/handbook/finance/procurement/). All legal approvals will flow this process.
 
 It should be a rare occasion (and not a result of poor planning), that a contract would need to be urgently (less than 5 business days) turned around. Only after all FMM approvals have happened, should the FMC ping legal on slack asking them to please approve an urgent ask.
 
 ## Sweepstakes
 
-Field Marketing follows the legal team's process [HERE](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes. 
+Field Marketing follows the legal team's process [here](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes. 
+
+## Working with vendors that are brand new 
+New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor: 
+
+1.  If contacted via social media or other manner by an unknown individual and/or individual(s) related to an event, review all event/program materials, including a detailed review of the organizers website to confirm past events. In addition, review various social media materials.
+1. If an event is unknown, new or first time, the Team Member can engage with Alliance and Channel Team Members to gather feedback on the events organizer and ensure value, use your netowrk internally and ask around if folks know this vendor.
+- Where applicable, request details and documentation related to previous event(s) hosted by the organizer. 
+- In situations where an organizer is hosting an inaugural event, Team Members can ask for other partners / sponsors who are participating, and receive direct confirmation from the event space host (e.g, hotel). 
+- In situations with first events, the field marketing team can engage the GitLab Legal Team for additional review. 
+- [Video walk through](https://youtu.be/Ao-HUl15c1A) with our legal team outlining this process can be found on GitLab Unfiltered. 
+
 
 # Field Marketing Communications
 
