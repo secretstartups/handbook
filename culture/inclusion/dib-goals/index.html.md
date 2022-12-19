@@ -19,38 +19,37 @@ In this page you will find the current Diversity, Inclusion and Belonging Goals 
 
 ### Geographic Diversity (Team Member representation outside of NORAM)
 
-We do not currently have a company wide goal for Geographic Diversity and this will remain in place for FY'23. Instead we will focus on increasing Director+ representation outside of NORAM as team member representation is currently outpacing leadership representation. It would not prove advantageous to take a goal to contiue to increase team members external to NORAM without first focusing on increasing our leadership population external to NORAM. In Q3, we will execute on department level OKRs as it relates to Geographic Diversity. 
-
-**Engineering OKR for Q3:** Provide an opportunity to increase and leverage communication between our Engineering team both in NORAM and external to NORAM around their thoughts on our presence outside of NORAM.
+We do not currently have a company wide goal for Geographic Diversity and this will remain in place for FY'23. Instead we will focus on increasing Director+ representation outside of the United States as team member representation is currently outpacing leadership representation. It would not prove advantageous to take a goal to contiue to increase team members external to the United States without first focusing on increasing our leadership population external to the United States. In FY24, we will reevaluate the need for director level+ representation goals outside of the United States.
 
 **Problem Statement & Data:** 
 
-What is a timeline to create a NORAM leadership KPI and/or OKR?
+What is a timeline to create a US leadership KPI and/or OKR?
 
 **Hypothesis:**
-- Hiring occurs predominantly in NORAM.
-- Leadership is predominantly in NORAM Centric
+- Hiring occurs predominantly in US.
+- Leadership is predominantly US Centric
 - We are not currently hiring in enough countries 
 
 **Data:**
 
-**Engineering Data: Representation in NORAM vs. External to NORAM** 
+**Engineering Data: Representation in US vs. External to US** 
 
-1. Breakdown by levels showed that there are proportionate # of TMs at both the IC and Manager levels when comparing NORAM to Non-NORAM representation.
-2. There is a need for focused goals at the Director level and above which are aligned to the current DIB hiring goals established for Q3 with the Engineering division.
-    - Individual contributor: Majority of TMs are external to the US
-    - Managers: % is almost 50/50 for NORAM vs. External to NORAM
-    - Director: 70/30 NORAM favored
-    - VP+: 85/15 NORAM favored
+1. Breakdown by levels showed that there are proportionate # of TMs at both the IC and Manager levels when comparing US to Non-US representation.
+    - Engineering: US: 30.2% Non-US: 69.8%
 
 **Results:**
-1. Based on the data provided on both the current breakdown of TMs, levels and regions for Engineering, we do not recommend creating an additional goal around increased geographic representation except for at the Director levels and above.  We created this with the Q3KR Engineering DIB Aspirational hiring goals.
+1. Based on the data provided on both the current breakdown of TMs, levels and regions for Engineering, we do not recommend creating an additional goal around increased geographic representation.
 
-### Global Representation of URGs 
+### Global Representation of URGs
 
-These KPIs are currently found [here](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-at-gitlab)
+These breakouts are currently found [here](https://about.gitlab.com/company/culture/inclusion/identity-data/)
 
 
 ## Past Goals 
 
 Currently no past goals to attribute here
+
+
+**Due to data and or legal limitations, this is not an exhaustive list of all of our underrepresented groups. Those with disabilities, those that identify as LGBTQIA+, etc. who choose not to disclose or underrepresented ethnicities outside of the US.
+
+The DIB Team is actively working on finding data sets outside the US and inclusion metrics for underrepresented groups we cannot report on as team member representation.
