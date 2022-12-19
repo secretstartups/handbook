@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "TMRG - Latinx"
-description: "An overview of our TMRG Latinx"
-canonical_path: "/company/culture/inclusion/tmrg-gitlab-latinx/"
+title: "TMRG - Gente"
+description: "An overview of our TMRG Gente"
+canonical_path: "/company/culture/inclusion/tmrg-gitlab-gente/"
 ---
 
 ## On this page
@@ -12,15 +12,15 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-latinx/"
 {:toc}
 
 ## Introduction
-Bienvenidos, bem-vinda and welcome to the Latinx space! We are a TMRG that was started in early 2021. Join us in our slack channel `#latinx` to be notified of our upcoming  calls and feel free to check out what we've been up to so far below.
+Bienvenidos, bem-vinda and welcome to the Gente space! We are a TMRG that was started in early 2021. Join us in our slack channel `#gente` to be notified of our upcoming calls and feel free to check out what we've been up to so far below.
 
-[Latinx TMRG Overview Slide Deck (WIP)](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
+[Gente TMRG Overview Slide Deck (WIP)](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
 [Latinx Project in GitLab](https://gitlab.com/gitlab-com/latinx-tmrg)  
-Slack Channel: `#latinx_gente` 
+Slack Channel: `#gente` 
 Google Group: latinxtmrg@gitlab.com
 
 **Purpose of the TMRG**  
-The GitLab's Latinxs TMRG provides a safe space for every GitLab Team member within GitLab to raise awareness and celebrate Latin American culture, and to understand how the diversity of this region can be leveraged to contribute to GitLab's strategic objectives. This group is not exclusionary and is open to anyone who is a GitLab employee and interested in learning more about Latin culture.
+The GitLab's Gente TMRG provides a safe space for every GitLab Team member within GitLab to raise awareness and celebrate Latin American culture, and to understand how the diversity of this region can be leveraged to contribute to GitLab's strategic objectives. This group is not exclusionary and is open to anyone who is a GitLab employee and interested in learning more about Latin culture.
 
 ## Mission
 
@@ -40,7 +40,7 @@ Looking for nominations!
 * [Join our Google Group here](https://groups.google.com/a/gitlab.com/g/latinxtmrg)
 
 ## Upcoming Events 
-* LatinX TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC [Notes](https://docs.google.com/document/d/12dYSDjiVvFt-c6UO9y350pFbrrK5Iq2o/edit)
+* Gente TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC [Notes](https://docs.google.com/document/d/12dYSDjiVvFt-c6UO9y350pFbrrK5Iq2o/edit)
 
 
 ## Past Events
@@ -49,7 +49,7 @@ Looking for nominations!
 
 
 ## Community Outreach 
-Our Latinx members are proud to be contributing externally to the following charitable organizations dedicated to supporting the Latinx community
+Our Gente members are proud to be contributing externally to the following charitable organizations dedicated to supporting the Latinx community
 
 * [Techqueria](https://techqueria.org/) - Techqueria is a nonprofit that serves the largest community of Latinx professionals in tech.
 * [Latinitas](https://latinitasmagazine.org/) - Empowering all girls to innovate through media and technology
