@@ -115,6 +115,27 @@ The list of namespaces are:
 * For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
 * Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
 
+## Action plan for Fulfillment-impacting bugs
+
+If a bug is discovered that impacts Fulfillment, including provisioning, purchasing, billing, subscription data, etc., please do the following: 
+
+**Reporting the issue**
+
+1. Open a new [Fulfillment Meta bug intake issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new) (select the bug_intake template) outlining what is known about the bug. 
+   1. Tag [Fulfillment Product Management](https://about.gitlab.com/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
+   1. Assign the issue to `ofernandez2` for review and action. 
+1. Post the link to the issue on Slack in #s_fulfillment and in #business-fulfillment-sync for broad awareness and review. 
+
+**Notifying appropriate DRIs**
+
+The following individuals should be looped into the issue, depending on the impact of the bug: 
+1. For billing and revenue-impacting issues: `Sarah McCauley - Director, Billing & AR`
+1. To determine impacted subscriptions and/or automation of Zuora solutions: `Jessica Salcido - Finance Systems Administrator`
+1. For bookings impact, and/or to assess and coordinate Salesforce solution needs: `Jesse Rabbits - Sr. Manager, Deal Desk` 
+1. If customer outreach is needed, PM should work with: `Lyle Kozloff - Director of Support, Global Readiness`
+1. For product monetization decisions needed: `Justin Farris - Sr. Dir, Product Monetization`
+
+
 ## Fulfillment Roadmap Prioritization 
 
 ### Principles
