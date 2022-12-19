@@ -109,7 +109,7 @@ The Senior Internal Auditor is a [grade 7](/handbook/total-rewards/compensation/
 - Have an understanding of enterprise risk management framework such as COSO enterprise risk management framework
 - Ability to communicate information in an understandable form to the right parts of the organization
 - Ability to work effectively in a team environment, both within Internal Audit and across other departments
-- Must be able to work in US and Canada timezones, when required
+- Must be able to work in US time zones mainly Pacific and Eastern time zones with the overlap of at least 4 hours
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -163,7 +163,7 @@ The Senior SOX Compliance Anaylst is a [grade 7](/handbook/total-rewards/compens
 - Strong project management abilities
 - Must have advanced SOX compliance experience and be knowledgeable with the following financial cycles: Record to Report, Order to Cash, Hire to Retire, Procure to Pay
 - Comprehension of internal auditing standards, Sarbanes-Oxley, COSO and risk-assessment practices.
-- Must be able to work during US and Canada timezones with the overlap of at least 4 hours
+- Must be able to work during US time zones mainly Pacific and Eastern time zones with the overlap of at least 4 hours
 - Degree in Accounting, Business or Finance required
 - Technical auditing skills and corporate-level audit experience required
 - 5+ years of experience in SOX/internal audit preferred, of which at least 3 years of SOX experience required
