@@ -85,6 +85,17 @@ Plan changes on a paid non-trial namespace should be done through a subscription
 
 If a manual plan change is required for non-emergencies, a [legal issue](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
 
+### Downgrading to a free plan
+
+Before actioning a downgrade request:
+
+1. Ensure that the requester provides authorization per the [Ownership verification workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification).
+2. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds).
+
+| Example Ticket | Date | 
+| --- | --- |
+| [ZD Link](https://gitlab.zendesk.com/agent/tickets/322319) | 2022-09-02 | 
+
 ### Using customerDot
 
 **Important**

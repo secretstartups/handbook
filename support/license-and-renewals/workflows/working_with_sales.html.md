@@ -163,3 +163,7 @@ Workflow:
 **DOWNGRADE PLAN** - a customer wishes to downgrade from their current tier to a different tier (same product)
 
 Workflow: Ask in Slack for advice on the best solution for the situation you are dealing with.
+
+**SaaS - DOWNGRADE PLAN TO FREE**
+
+Follow the workflow in the `Downgrading to a free plan` section of the [Handling trials, extensions, and plan changes on GitLab.com](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html) page.
