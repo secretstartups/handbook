@@ -126,7 +126,8 @@ ensure there is documentation that UAT was complete and signoff on the UAT by bu
    - Evidencing data management is the most important part of this Program Development process. How can we adequately demonstrate that data in the system is complete and accurate according to our business needs?
    - Show documentation of an enablement plan and that the changes were communicated effectively to the users of the changed system.
 
-_We are creating a template for this signoff._
+[SOX Compliance Template](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/772)
+{: .alert .alert-warning}
 
 ### Enablement plan
 
