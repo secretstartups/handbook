@@ -12,7 +12,7 @@ description: "This page outlines ways to request swag."
 
 ## Swag shop
 
-Check out the [**GitLab Swag Shop**](shop.gitlab.com)! 
+Check out the [**GitLab Swag Shop**](https://www.shop.gitlab.com)! 
 
 Free shipping is available to GitLab team members for all items in the swag shop. Visit the #swag Slack channel for the code.
 
@@ -20,7 +20,7 @@ Free shipping is available to GitLab team members for all items in the swag shop
 
 1. **You'd like to order swag for yourself or as a gift to someone.**
 
-     You can shop directly from the [GitLab Swag Shop](shop.gitlab.com). Don't forget the free shipping code available to all GitLab team members (you can find the code in the #swag Slack channel description). Check with your manager to see if it would be appropriate to expense the item(s). 
+     You can shop directly from the [GitLab Swag Shop](https://www.shop.gitlab.com). Don't forget the free shipping code available to all GitLab team members (you can find the code in the #swag Slack channel description). Check with your manager to see if it would be appropriate to expense the item(s). 
 
 2. **You have a special order or bulk swag request.** 
 
