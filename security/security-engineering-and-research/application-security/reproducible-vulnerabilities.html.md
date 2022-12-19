@@ -41,6 +41,7 @@ Disclosed vulnerabilities, including those listed here, are already publicly acc
 
 If you discover a security issue that still affects current versions of GitLab, for example an incomplete fix, please follow the steps in our [Responsible Disclosure Policy](https://about.gitlab.com/security/disclosure/).
 
+----
 
 ## Reproducible Vulnerabilities
 
@@ -50,14 +51,13 @@ In GitLab 15.0 a malicious user could create a stored XSS payload. See if you ca
 
 #### Installation
 
-1. Follow <https://docs.gitlab.com/ee/install/docker.html> to install a Docker version of GitLab. Depending on your setup, the command will look something like:
+1. Follow [the steps to install a Docker version of GitLab](https://docs.gitlab.com/ee/install/docker.html). Depending on your setup, the command will look something like:
 
 ```shell
 sudo docker run --detach \
   --hostname gitlab.example.com \
   --publish 8929:80 --publish 8922:22 \
   --name gitlab15.0.0 \
-  --restart always \
   --volume $GITLAB_HOME/config:/etc/gitlab \
   --volume $GITLAB_HOME/logs:/var/log/gitlab \
   --volume $GITLAB_HOME/data:/var/opt/gitlab \
@@ -74,10 +74,10 @@ After installation is complete you can get the `root` Administrator user passwor
 
 #### Bug hunting
 
+Cross-Site Scripting, or XSS, is an attack where attacker-defined javascript is injected into a page the victim is browsing. This can let an attacker impersonate a victim and click on things, submit forms, view data, watch what is typed, and more.
+
 <details>
   <summary markdown="span">Hint 1 - Where to start looking</summary>
-
-Cross-Site Scripting, or XSS, is an attack where attacker-defined javascript is injected into a page the victim is browsing. This can let an attacker impersonate a victim and click on things, submit forms, view data, watch what is typed, and more.
 
 This XSS vulnerability existed in our CRM feature.
 
@@ -154,7 +154,6 @@ We took multiple steps to holistically address this vulnerability:
 
 #### Links
 
-
 - GitLab Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/363293>
 - Patch: <https://gitlab.com/gitlab-org/gitlab/-/commit/e61e9b9434e2198c4c1d5cf6b4531eb4323c3575>
 - Release Post: <https://about.gitlab.com/releases/2022/06/01/critical-security-release-gitlab-15-0-1-released>
@@ -164,6 +163,96 @@ We took multiple steps to holistically address this vulnerability:
   + <https://owasp.org/www-community/attacks/xss/>
   + <https://portswigger.net/web-security/cross-site-scripting>
 
+### Denial of Service in 14.3.5
+
+On GitLab installations before 14.3.6, a malicious actor could perform a Denial of Service attack by submitting crafted issues, MRs, or comments. See if you can figure out how.
+
+#### Installation
+
+1. Follow [the steps to install a Docker version of GitLab](https://docs.gitlab.com/ee/install/docker.html). Depending on your setup, the command will look something like:
+
+```shell
+sudo docker run --detach \
+  --hostname gitlab.example.com \
+  --publish 8929:80 --publish 8922:22 \
+  --name gitlab14.3.5 \
+  --volume $GITLAB_HOME/config:/etc/gitlab \
+  --volume $GITLAB_HOME/logs:/var/log/gitlab \
+  --volume $GITLAB_HOME/data:/var/opt/gitlab \
+  --shm-size 256m \
+  gitlab/gitlab-ee:14.3.5-ee.0
+```
+
+After installation is complete you can view the `root` user password with `docker exec -it gitlab14.3.5 grep 'Password:' /etc/gitlab/initial_root_password`. You can use this password to login to the root user on your GitLab instance.
+
+Good hunting!
+
+#### Bug hunting
+
+Denial of service (DoS) attacks make websites unusable for other users. Typically this happens when a server is so busy dealing with attackers requests that it doesn't have capacity to respond to normal users.
+
+When using GDK locally, open your CPU & Memory resource monitor and look for abnormally high and sustained usage, particularly of the `rails-web` and `rails-background-jobs` processes. If you're running GitLab in a docker container, try a tool like [`ctop`](https://github.com/bcicen/ctop#docker).
+
+<details>
+<summary markdown="span">Hint 1 - where to start looking</summary>
+This DoS involved user content, for example issue descriptions or comments. These can be made via the user interface, or via the API.
+</details>
+
+<details>
+<summary markdown="span">Hint 2</summary>
+This researcher found a [regex-based DoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) by reading the code GitLab used to parse front-matter. <https://gitlab.com/gitlab-org/gitlab/-/blob/6f10f768c9cc2d131c056289f58519cf9cae79fa/lib/gitlab/front_matter.rb>
+</details>
+
+<details>
+<summary markdown="span">Hint 3</summary>
+Search for a flaw called "Catastrophic Backtracking".
+</details>
+
+<details>
+<summary markdown="span">Hint 4</summary>
+What happens when you use one of the front matter delimiters followed by content? What happens as that content grows in length? Keep an eye on your process monitor.
+</details>
+
+<details>
+  <summary markdown="span">Just tell me how</summary>
+
+Follow the steps to reproduce written by [hashkitten](https://hackerone.com/legit-security) on our GitLab Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/340449>
+
+</details>
+
+#### Vulnerability Details
+
+<details>
+<summary markdown="span">Click to expand</summary>
+
+> An issue has been discovered in GitLab CE/EE affecting all versions starting from 12.10 before 14.3.6, all versions starting from 14.4 before 14.4.4, all versions starting from 14.5 before 14.5.2. A regular expression used for handling user input (notes, comments, etc) was susceptible to catastrophic backtracking that could cause a DOS attack. This is a medium severity issue (`CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L`, 4.3). It is now mitigated in the latest release and is assigned [CVE-2021-39933](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39933).
+>
+> Thanks [@hashkitten](https://hackerone.com/hashkitten?type=user) for reporting this vulnerability through our HackerOne bug bounty program.
+
+</details>
+
+#### Remediation
+
+Once you've reproduced the bug, have a go at fixing it locally. Then compare your proposed change to our patch(es).
+
+<details>
+<summary markdown="span">The fix</summary>
+
+- We fixed the frontmatter regex: <https://gitlab.com/gitlab-org/gitlab/-/commit/8b30fedf2bea8713bc735638ae63a09f3e4faba1>
+- We added timeouts to our rendering pipelines:
+  + <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/102819>
+  + <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/104779>
+
+</details>
+
+#### Links
+
+- GitLab Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/340449>
+- Release Post: <https://about.gitlab.com/releases/2021/12/06/security-release-gitlab-14-5-2-released/#regular-expression-denial-of-service-via-user-comments>
+- CVSS and Bounty: [CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/#vector=CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L&range=old) (4.3 Medium / $610.00 / old bounty range)
+- CVE: <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39933>
+- Learn more about Denial of Service:
+  + <https://owasp.org/www-community/attacks/Denial_of_Service>
 
 <!-- Additional reproducible vulnerabilities go above this line //-->
 
@@ -200,13 +289,20 @@ On `Free/Premium/Ultimate` installations before `X.Y.Z`, a malicious user could 
 #### Bug hunting
 
 <details>
-<summary markdown="span">Hint 1</summary>
+<summary markdown="span">Hint 1 - where to start looking</summary>
 <!--  Something that gets people looking in the right place //-->
 </details>
 
 <details>
 <summary markdown="span">Hint 2</summary>
 <!--  Another hint. Add as many hints as you want, using already public data. //-->
+</details>
+
+<details>
+<summary markdown="span">Just tell me how</summary>
+
+Follow the steps to reproduce written by [HANDLE](https://hackerone.com/HANDLE) on our GitLab Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/XXXXXX>
+
 </details>
 
 #### Vulnerability Details
@@ -222,7 +318,7 @@ On `Free/Premium/Ultimate` installations before `X.Y.Z`, a malicious user could 
 
 Once you've reproduced the bug, have a go at fixing it locally.
 
-Then compare your proposed change to our patch.
+Then compare your proposed change to our patch(es).
 
 <details>
 <summary markdown="span">The fix</summary>
