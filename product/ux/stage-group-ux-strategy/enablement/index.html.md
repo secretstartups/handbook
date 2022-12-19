@@ -19,7 +19,7 @@ The Product Designers for Enablement focus on Distribution, Ecosystem and Geo. W
 ## UX team members
 
 * [Marcel van Remmerden](/company/team/#mvanremmerden) - Product Design Manager
-* [Sunjung Park](/company/team/#sunjungp) - Senior Product Designer, Geo and Distribution
+* TBD - Product Designer
 * [Nick Brandt](/company/team/#nickbrandt) - Product Designer, Global Search
 * [Achilleas Pipinellis](/company/team/#axil) - Senior Technical Writer
 * [Will Leidheiser](/company/team/#wleidheiser) - Senior UX Researcher
