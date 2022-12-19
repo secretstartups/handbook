@@ -136,14 +136,15 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
     * If no merge request was identified, ask for assistance in the `#development` Slack channel.
     * Please set the appropriate `~master-broken:*` label from the list below:
     ```shell
-    /label ~"master-broken:caching" 
-    /label ~"master-broken:ci-config" 
-    /label ~"master-broken:dependency-upgrade"
-    /label ~"master-broken:flaky-test" 
-    /label ~"master-broken:fork-repo-test-gap" 
-    /label ~"master-broken:pipeline-skipped-before-merge"
-    /label ~"master-broken:test-selection-gap"
-    /label ~"master-broken:undetermined"
+    /label ~"master-broken::caching" 
+    /label ~"master-broken::ci-config" 
+    /label ~"master-broken::dependency-upgrade"
+    /label ~"master-broken::flaky-test" 
+    /label ~"master-broken::fork-repo-test-gap" 
+    /label ~"master-broken::pipeline-skipped-before-merge"
+    /label ~"master-broken::test-selection-gap"
+    /label ~"master-broken::need-merge-train"
+    /label ~"master-broken::undetermined"
     ```
     * When the master-broken is resolved, close the incident.
 1. (Optional) Pre-resolution
