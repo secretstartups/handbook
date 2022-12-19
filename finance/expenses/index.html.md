@@ -144,7 +144,7 @@ In FY23, each eGroup member has been allocated $50 per team member per quarter f
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
-GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. 
+GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in Q4 (until end of January) for the different year-end holiday celebrations. 
 
 Guidance on the year-end holiday budget:
 - Each Egroup member will coordinate for their respective organizations or appoint a designee for the organization
@@ -152,7 +152,7 @@ Guidance on the year-end holiday budget:
 - The budget is [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member and funds cannot be pooled or re allocated if there is under spend
 - The money cannot be used for charitable donations or gifts
 - If you are hosting an event and asked to attend another event, the budget is for all events and not per event
-- The budget can be spent anytime in 4Q, please make sure you promptly submit your expense report prior to the end of 4Q
+- The budget can be spent anytime in Q4, please make sure you promptly submit your expense report prior to the end of Q4
 - In Expensify, the team member must code any related expense to the Category "Company Functions" and to the Classification "Holiday Celebration"
 
 If you have any questions, please reach out to your manager for guidance.
