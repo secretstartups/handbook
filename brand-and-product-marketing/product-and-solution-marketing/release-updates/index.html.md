@@ -174,9 +174,9 @@ And in [these meeting notes](https://docs.google.com/document/d/1q35EN6PkbhM7uoH
 
 *  2020-02-22 [GitLab 12.8 released with Log Explorer, NuGet, and Compliance](/releases/2020/02/22/gitlab-12-8-released/)
 *  2020-01-22 [GitLab 12.7 released with Parent-Child Pipelines and Windows Shared Runners Beta](/releases/2020/01/22/gitlab-12-7-released/)
-*  2019-12-22 [GitLab 12.6 released with Security Scorecard and Release Evidence](/blog/2019/12/22/gitlab-12-6-released/)
-*  2019-11-22 [GitLab 12.5 released with EKS Cluster Creation & Environments Dashboard](/blog/2019/11/22/gitlab-12-5-released/)
-*  2019-10-22 [GitLab 12.4 released with improved Merge Request Dependencies and Audit API](/blog/2019/10/22/gitlab-12-4-released/)
+*  2019-12-22 [GitLab 12.6 released with Security Scorecard and Release Evidence](/releases/2019/12/22/gitlab-12-6-released/)
+*  2019-11-22 [GitLab 12.5 released with EKS Cluster Creation & Environments Dashboard](/releases/2019/11/22/gitlab-12-5-released/)
+*  2019-10-22 [GitLab 12.4 released with improved Merge Request Dependencies and Audit API](/releases/2019/10/22/gitlab-12-4-released/)
 *  2019-09-22 [GitLab 12.3 released with Web Application Firewall and Productivity Analytics](/releases/2019/09/22/gitlab-12-3-released/)
 
 ### 12.0–12.2 Sales enablement
