@@ -13,7 +13,7 @@ description: "The role of Field Marketing at GitLab is to work closely with sale
 
 # Field Marketing Mission 
 
-The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go to market teams at a regional level through in-person and virtual interactions (quality vs. quantity) in order to create, accelerate, and expand the sales pipeline with our direct sellers, as well as our channel and alliances partners. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers. 
+The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go-to-market teams at **a regional level** through in-person and virtual interactions (quality vs. quantity) as well as serving as the voice of the regional go-to-market teams to the wider marketing team, and being the voice of marketing into the go-to-market teams we support, in order to create, accelerate, and expand the sales pipeline with our direct sellers and partner ecosystem. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers. 
 
 # Field Marketing Vision
 
