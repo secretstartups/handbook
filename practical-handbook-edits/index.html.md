@@ -97,6 +97,77 @@ When a new manager joins a team, updates are needed in three places:
 - Team member's entry - Update `reports_to` to include the new manager slug
 - [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
 
+### Using the new Web IDE to edit the handbook 
+
+The [new Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/index.html) was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and introduces a client-only VS Code editor in the browser. The workflows for editing the handbook changed compared to the old Monaco-based Web IDE. This handbook section explains a typical workflow to edit the handbook, commit changes, create a merge request, and later edit a merge request during reviews. 
+
+_Please go with bias for action to add updates into this handbook page as the Web IDE Beta continues, and more features are added to improve the workflows. Feel free to assign @dnsmichi for review._
+
+1. Navigate to the handbook page you want to edit. At the bottom, click on the URL `Edit in Web IDE` to open the new Web IDE. 
+    - Alternatively, open the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located. 
+
+   ![Handbook page at the bottom, action: Edit in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
+
+2. Familiarize yourself with the Web IDE editor, based on VS Code:
+    - The menu sections are located on the left
+    - The explorer section provides the file tree for the project, which is opened automatically when editing a handbook file. (keyboard shortcut: `Shift+Cmd+E`)
+    - The editing view is on the right side. On top, there are tabs to organize open files. 
+    - Additional meta information is provided at the bottom. Git branch, problems, current line number, spaces for indentation, encoding, end-of-line sequence, language mode, layout, notifications. 
+    - **Tip:** Hover over the menu sections and items to learn more about their purpose and keyboard shortcuts. 
+  
+![Web IDE overview, handbook page highlighted in the file tree](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
+
+3. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview. 
+    - Note that the [handbook markdown engine](/handbook/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a draft MR to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to e.g. verify embedded images. 
+
+    ![Web IDE editor, Markdown preview](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_console_markdown.png)
+
+4. Upload new files by right-clicking and selecting `Upload...` for example images into `source/images/handbook/` and the corresponding file tree, following the handbook directories. 
+
+    ![Web IDE overview, upload files](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_upload_images.png)
+
+5. Open the `Source Control` icon on the left menu which has a blue marker for counting the file changes. Tip: Keyboard shortcut `Ctrl+Shift+G`. 
+
+    ![Web IDE menu, source control](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_menu_explorer_search_source_control.png)
+
+6. Review the changed files, and once ready, specify a Git commit message and click `Commit & Push`. Keyboard shortcut:  `Cmd+Enter`.
+
+    ![Web IDE, commit and push: Commit message](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_message.png)
+
+7. Commit the changes to a new Git branch (leave selection, press `Enter`).
+
+    ![Web IDE, commit and push: Create a new branch](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_to_a_new_branch.png)
+
+8. Specify a new Git branch name (optional). Press `Enter` to continue. This action pushes the changes into the Git repository. The changes are persisted on the GitLab server and are immediately visible in the project view. 
+
+    ![Web IDE, commit and push: Branch name](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_new_branch_name.png)
+
+9. Check the pop-up at the bottom right, and click `Create Merge Request` to open the GitLab MR tab. Tip: The notification bell icon at the bottom brings back the notification, if accidentally dismissed. 
+
+    ![Web IDE, commit and push: Create Merge Request](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_popup_create_mr.png)
+
+10. Fill in the MR template, provide why the merge request is created, add labels (e.g. using quick actions `/label ~handbook`) and assign yourself (`/assign @<yourusername>`).
+
+    ![GitLab Merge Request view](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_create_mr.png)
+
+11. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. **Note**: This feature is in development and may miss functionality such as opening the changed file tree automatically, see [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/385510). 
+
+    ![Merge request, open in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_mr_open_in_web_ide.png) 
+
+12. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801) for UX commit flows). 
+
+    ![Web IDE, commit and select MR associated branch](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_source_control_select_branch.png)
+
+13. Optional: Follow the pop-up notification to navigate back to the MR. 
+
+    ![Web IDE, go back to MR after commit and push](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_popup_go_to_mr.png)
+
+**Tip**: Practice the keyboard shortcuts for your workflows: After making changes, `Control+Shift+G` to commit, `Cmd+Enter`, Cursor to select the branch, `Enter`, etc. 
+
+
+**Note:** The `Cmd+w` keyboard shortcut to close a file tab in the Web IDE gets overridden by the Chrome browser to close the browser tab. This is a known problem, use this shortcut carefully.  
+
+
 ### More Tips
 
 #### Pre-requisites
