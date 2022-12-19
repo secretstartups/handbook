@@ -76,7 +76,7 @@ Additional details about the phases are listed below.
 
 If a broken `master` is blocking your team (such as creating a security release) then you should:
 
-1. See if there is a non-resolved [broken `master` incident](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) with a DRI assigned and check discussions there.
+1. See if there is a non-resolved [broken `master` incident](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) with a DRI assigned and check discussions there.
 1. Check discussions on the failure notification in the Slack [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) channel. If there isn't a discussion, ask in `#master-broken` if there's anyone investigating the incident you are looking at
 1. If there is not a clear DRI or action to resolve then use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help in the broken `master` incident.
 
@@ -89,25 +89,40 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 1. Monitor
    * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team.
    * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
-
-   ```
+    ```shell
     /assign me
     /duplicate #<original_issue_id>
     /copy_metadata #<original_issue_id>
-   ```
-
+    ```
    * If the incident is not a duplicate, and needs some investigation:
      * Assign the incident to yourself: `/assign me`
      * Change the incident status to `Acknowledged` (in the right-side menu).
      * In Slack, the `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
 
 1. Identification
-   * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
+   * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
    * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
    * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job), create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       * Create a new Timeline event in the incident with a link to the created issue.
+      * Add the appropriate labels to the main incident:
+    ```shell
+    # Add those labels
+    /label ~"master-broken::flaky-test" 
+    /label ~"failure::flaky-test" 
+
+    # Pick one of those labels
+    /label ~"flaky-test::dataset-specific" 
+    /label ~"flaky-test::datetime-sensitive" 
+    /label ~"flaky-test::ordering assertion" 
+    /label ~"flaky-test::random input" 
+    /label ~"flaky-test::transient bug" 
+    /label ~"flaky-test::unclean environment" 
+    /label ~"flaky-test::unreliable dom selector" 
+    /label ~"flaky-test::unstable infrastructure" 
+    ```
+      * Close the incident
    * Add the stacktrace of the error to the incident, as well as Capybara screenshots if available in the job artifacts.
      * To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
    * Identify the merge request that introduced the failures. There are a few possible approaches to try:
@@ -235,7 +250,7 @@ Next, ensure that all the following conditions are met:
    `gitlab-org/gitlab` using
    [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
 1. All of the latest pipeline failures also happen on `master`.
-1. There is a corresponding non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/incidents).
+1. There is a corresponding non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues).
    See the "Triage DRI Responsibilities" steps above for more details.
 
 Next, add a comment to the merge request mentioning that the merge request will be merged
