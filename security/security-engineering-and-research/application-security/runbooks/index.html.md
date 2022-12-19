@@ -28,6 +28,7 @@ title: "Application Security Runbooks"
 - [Bug Hunting Day process][8]
 - [Appsec Frequenty Asked Questions][7]
 - [How to plan and measure engagement with Secure Code Warrior][9]
+- [Holiday and Friends and Family day coverage](./holiday-coverage.html)
 
 [1]: ./hackerone-process.html
 [2]: ./handling-s1p1.html
