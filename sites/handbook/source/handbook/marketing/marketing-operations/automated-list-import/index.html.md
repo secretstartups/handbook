@@ -17,7 +17,7 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 
 ### How it Works
 
-1. A google drive foler is listening for any new CSV that is created.
+1. A google drive folder has been created for list import uploads. This folder is listening for any new CSV that is created.
 1. Once a CSV is created, it is processed through one of our systems and each record is individually validated to ensure data integrity. Certain corrections are applied like transforming country and state codes to country and state names, deleting white spaces, converting well known mistaken values to their correct form, etc. 
 1. The process will activate the `Interesting Moments` campaign in the Marketo program so that the Interesting Moment is correctly applied. 
 1. Each record is added to the Marketo program according to the program status specified in the import file. 
