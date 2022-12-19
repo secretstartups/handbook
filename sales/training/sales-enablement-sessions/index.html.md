@@ -23,12 +23,12 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Dec 22 | FY23-Q4 - Sales Ops Update (Win / Loss Code Changes)  | Sales Ops Team  |
+| Dec 22 | **No Session - Public Holiday**  | N/A  |
 | Dec 29 | **No Session - Public Holiday**  | N/A  |
 | Jan 5 | FY23 - Q4 Competitive Corner  | Joe K.  |
 | Jan 12 | FY23 - Q4 Industry Analyst Relations Update | Laura C. & Ryan R.  |
-| Jan 19 | *No session during the last two weeks of the quarter* | N/A |
-| Jan 26 | *No session during the last two weeks of the quarter* | N/A |
+| Jan 19 | FY23-Q4 Sales Ops Update (Win / Loss Code Changes) | Sales Ops Team |
+| Jan 26 | *No session during the last week of the quarter* | N/A |
                                                                                                                                    
 ## Past Sessions
 <details>
