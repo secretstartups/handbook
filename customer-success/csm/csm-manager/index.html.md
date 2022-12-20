@@ -261,3 +261,7 @@ The following process is that used to calculate the President's Club Performance
 Managers have the responsibility of evaluating and providing feedback on team member performance. We have resources available to help with this:
 
 - [Individual FY Plan](https://docs.google.com/document/d/1Etn2bCNewGYe6BLv4VmrjuGfEqtxqzUk14f0geTaVBM/edit?usp=sharing): One-sheet outline of the key metrics & criteria for a team member to achieve in a given fiscal year, tailored to the team member. This is best used at the beginning of the fiscal year, assembled by the manager and discussed with the team member. Categories and metrics should be agreed upon by manager and team member, and performance against these reviewed regularly throughout the year.
+
+### Promotion planning
+
+The CSM Manager should provide regular coaching and guidance on where a CSM stands and how to fill any gaps before they are eligible to be promoted. When a CSM is ready for promotion, the CSM Manager should collaborate with the CSM on the [promotion document](/handbook/people-group/promotions-transfers/#planning). When building the doc, it is important to lead with the results the CSM has achieved, supported with links to content, issues, MRs, etc.
