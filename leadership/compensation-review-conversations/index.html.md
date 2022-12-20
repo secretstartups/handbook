@@ -17,12 +17,15 @@ Please make sure to review and understand the following content with regards to 
 * [GitLab’s Guide to Total Rewards](/handbook/total-rewards/)
 * [LevelUp Training: GitLab Total Rewards Compensation Fundamentals](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/total-rewards-compensation-fundamentals-training) 
 * [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in)
-* [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases)
+* [“How to Think about Your Equity”](https://www.youtube.com/watch?v=ooWIfdsK5ho&ab_channel=GitLabUnfiltered) video embedded in the Compensation Calculator linked above
+* [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-cash-compensation-increases)
 * [Equity Refresh Program](/handbook/stock-options)
 * [Talent Assessment at GitLab](/handbook/people-group/talent-assessment/)
  
-## Total Rewards Statements
-Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the Compensation package: cash, equity, and benefits. We recommend reviewing this letter before the conversation and use the letter as preparation to communicate exact approved figures. It is also recommended that you send the letter to the team member after your conversation with them so they can view the details. 
+## Total Compensation Statements
+For FY24, Total Rewards will be providing [Cash Compensation Statements](/handbook/total-rewards/compensation/compensation-review-cycle/#cash-compensation-statement) outlining the compensation increase and/or promotion received during Annual Compensation Review. We recommend reviewing this letter before the conversation and use the letter as preparation to communicate exact approved figures. It is also recommended that you send the letter to the team member after your conversation with them so they can view the details.
+
+After Equity planning has taken place, a more robust [Total Compensation Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#total-compensation-statement) will be released. More information on this is forthcoming.
  
 ### Compensation Communication Recommendations 
  
