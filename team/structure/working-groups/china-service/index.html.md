@@ -67,6 +67,6 @@ The Other Informed Team Members lists people who have access to confidential inf
 | Engineering - Development               | Christopher Lefelhocz                   | @clefelhocz1                            |                                         |                                         |
 | Product - Distribution                  | Josh Lambert                            | @joshlambert                            |                                         |                                         |
 | Investor Relations Messaging            | Tony Righetti                           | @trighetti                              |                                         |                                         |
-| Community Messaging                     | John Coghlan                            | @johncoghlan                            | Brendan O'Leary, Michael Friedrich, Abubakar Siddiq Ango | @brendan @dnsmichi @abuango |
+| Community Messaging                     | John Coghlan                            | @johncoghlan                            |  Michael Friedrich, Abubakar Siddiq Ango |  @dnsmichi @abuango |
 | Sales - Channel Sales                   | Alan Geary                              | @ageary                                 |                                         |                                         |
 | Market Research and Customer Insights   | Traci Robinson-Williams                 | @traci                                  |                                         |                                         |
