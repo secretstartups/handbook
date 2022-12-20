@@ -131,9 +131,11 @@ Open Partners are required to purchase through a distribution partner in every t
 Once the order is invoiced and the customer accepts the EULA (see below), they are able to activate their GitLab license key. The invoice contact of the transacting partner (either distributor or reseller) is copied on this email. 
 
 ### Customer Support, Subscription Changes and Email Updates
-If you are working with a customer and need help with a technical issue for a GitLab product, you can submit a support ticket on behalf of your customer by clicking on Submit a Technical Support Ticket on behalf of your customer on the Support tab. Ensure you follow all instructions and read corresponding recommended handbook pages in the form prior to submitting, or it could delay Support’s response.
+When customers have technical support needs or need to make changes to a subscription, partners should submit a support ticket on behalf of the customer. For detailed instructions on how to submit a support ticket, including a step-by-step guide with screenshots, please see the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926&q=partner%20guide) located in the Partner Portal. 
 
-To update an email address on a customer’s subscription, as well as request a license resend, submit a support request as mentioned above. Any subscription changes, even in addition to support requests, need to be done through the ticket submission process.  
+Subscription email address changes, other subscription changes, license resends, and technical problems are all handled through the technical support ticket process. 
+
+To submit a Support Ticket, navigate to the "Support" tab in the partner portal, and click `Submit a Support Ticket on behalf of your customer`. Please ensure you follow all listed instructions and read the recommended handbook pages to ensure a prompt response from the Technical Support team. The Partner Support team is unable to assist with Technical Support needs. 
 
 ### Execute the GitLab EULA
 
