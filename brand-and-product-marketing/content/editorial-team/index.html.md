@@ -902,7 +902,6 @@ If you run into issues with your MR, pipeline, or terminal, it's usually quickes
 
 - Abubakar Siddiq Ango
 - Axil Pipinellis
-- Brendan O’Leary
 - Charlie Ablett
 - Cynthia Ng
 - Dan Gordon
