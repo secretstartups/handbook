@@ -533,18 +533,37 @@ Some of the most common meetings problems are outlined below:
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
-## Smart note-taking in meetings
+## Everyone is responsible for notes
+
+If folks are involved in a meeting and have capacity to do so, they should take notes using GitLab's [Live Doc Meetings principles](/company/culture/all-remote/live-doc-meetings/). This is important, because:
+
+1. Meetings at GitLab should have notes (for a single source of truth and to enable async participation among other reasons)
+1. In the absence of this joint commitment to note-taking, this is work that is likely to fall disproportionately to [underrepresented groups](https://www.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html). This is not in line with our [diversity, inclusion, and belonging value](/company/culture/inclusion/).
+
+
+It may look like a few people are already taking notes, do not see this as a deterrent for helping. Initial note takers may be first to show up and then see it as their responsibility to continue if no one else is stepping in. 
+
+Recording the meeting does substitute for taking notes. While meetings recordings are helpful, written notes are more efficient to read and offer greater opportunities for async engagement. 
+
+### Engaging EBAs in note-taking
+[GitLab Executive Business Administrators](/handbook/eba/) sometimes support teams by taking notes. Since note taking takes time away from their other activities and can often be done by other folks, consider the following before engaging an EBA in a meeting solely for note taking purposes. 
+
+1. Can the folks already in this meeting cover note taking responsibilities, or is there a reason to engage an EBA in this capacity?
+1. Can other folks be identified ahead of time or at the start of the meeting to ensure adequate coverage?
+1. How does this stack against the EBAs other priorities? You can check directly with the EBA or their manager. 
+
+## Smart note taking in meetings
 
 Note taking helps us to work asynchronously. Team members can add thoughts to an agenda in advance of a meeting and understand what was discussed if they cannot attend. It also offers a record of discussion.
 
 Consider the following best practice when taking notes in meetings:
 
+1. If at the start of the meeting, it does not look like all team members will contribute to note-taking, identify a set of note-takers who will be responsible for this activity within the meeting
 1. Focus on noting speakers and their key points over capturing all words said. Extensive note-taking should not happen at the expense of correct note-taking. 
 1. At the end of the meeting, clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
 1. Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 1. If someone requests folks to stop taking notes, stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. Ask for the confirmation before typing before you resume note-taking.
 1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for audio-only playbacks.
-1. Assume self-note-taking if a designated note taker is not listed in the document. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). Note-taking is a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
 1. Ask others to scribe answers in real-time to allow the person who asked the question to focus on the answer. Touch up the answer when the conversation has moved on to something less relevant.
 
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
