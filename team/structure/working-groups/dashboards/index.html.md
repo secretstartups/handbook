@@ -15,7 +15,7 @@ description: "Define and align our product design teams on elements regarding da
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-11-01      |
-| Target End Date | 2023-01-31      |
+| Target End Date | 2023-02-28      |
 | Slack           | [#wg_dashboards](https://gitlab.slack.com/archives/C04BMT6SL9F)   |
 | Agenda Doc      | [Doc](https://docs.google.com/document/d/1rK7UsZ8nbZ9lyklb0NiH3FO-UqpgQT1jhRNBpjNkZko/edit)             |
 | Epic            | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/9353)       | 
@@ -27,6 +27,14 @@ description: "Define and align our product design teams on elements regarding da
 1. Create a solid nomenclature and usage guide for dashboards 
 1. Define what a dashboard is and isn't
 1. Determine the correct naming and use for observability and new graphs inside of dashboards
+
+## Roadmap
+
+Due dates by phase:
+
+1. **Investigation** - 2023-01-10
+1. **Map all the pieces** - 2023-01-13
+1. **Definition of the objects** - 2023-02-28
 
 
 ## Exit Criteria
