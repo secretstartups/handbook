@@ -96,6 +96,20 @@ DO NOT pass to Sales:
 
 NB, Sales does not simply waive trueups, there is an approval process for exceptional cases. Please don't set the expectation that any fees will be waived. When in doubt, ask in Slack for a second opinion.
 
+## Support responsibilities regarding True-Up waiver requests
+
+In situations involving True-Up waiver requests, L&R Support can:
+
+- Help customers and/or sales identify if a True-Up overage has occurred.
+- Generate a requested license based on what the subscription allows.
+- Generate a temporary license or subscription until a True-Up waiver request is resolved.
+
+L&R Support cannot:
+
+- Provide an in-depth explanation as why an overage has occurred, support can only collate the data that proves whether an overage has occurred or not.
+- Be the arbiter as whether a True-Up can be waived or not, this is the responsibility of sales as detailed in [waived true-ups policy and approval requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements).
+
+
 ## Specific workflows to pass to Sales
 
 Many of the following workflows advise you to `Chatter Sales`.  How to do this
