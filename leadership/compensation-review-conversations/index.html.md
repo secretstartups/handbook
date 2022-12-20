@@ -15,8 +15,8 @@ Conversations with regards to compensation are an important part of being a peop
 ## Content to Review Prior to Compensation Conversations
 Please make sure to review and understand the following content with regards to Compensation at GitLab:
 * [GitLab’s Guide to Total Rewards](/handbook/total-rewards/)
+* [LevelUp Training: GitLab Total Rewards Compensation Fundamentals](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/total-rewards-compensation-fundamentals-training) 
 * [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in)
-* [“How to Think about Your Equity”](https://www.youtube.com/watch?v=ooWIfdsK5ho&ab_channel=GitLabUnfiltered) video embedded in the Compensation Calculator linked above
 * [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases)
 * [Equity Refresh Program](/handbook/stock-options)
 * [Talent Assessment at GitLab](/handbook/people-group/talent-assessment/)
@@ -50,9 +50,9 @@ Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbo
  
 * Avoid making future promises (For example: “In the next review, I will get you a large adjustment.”)
  
-* The FY23 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the [compensation calculator](https://comp-calculator.gitlab.net/) to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. [This video](https://youtu.be/ooWIfdsK5ho) is great to share with your team members when discussing the potential value of equity; it is also embedded into the compensation calculator linked above. It is important to note that all team members may perceive equity value differently based on their local tax implications, country of residence, or other factors.
+* The FY24 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the [compensation calculator](https://comp-calculator.gitlab.net/) to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. It is important to note that all team members may perceive equity value differently based on their local tax implications, country of residence, or other factors.
  
-* The FY23 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits.
+* The FY24 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits.
  
 ## Compensation Conversations Scenarios
 
@@ -79,7 +79,7 @@ This section provides and overview of potential compensation conversation scenar
        * **A team member was eligible, _and was performing at expectations_, but is not receiving refresh grant**
  Not all team members were able to receive refresh grants, despite eligibility, as it is in the program setup/market alignment that we allocate only to a certain portion of our population. Aligned with our [expected distribution](/handbook/people-group/talent-assessment/#expected-distribution-company-wide/), typically organizations have ~25% of team members “exceeding”, 60-65% “performing”, and 10-15% “developing”. Core performers make up the most significant population in organizations, meaning that difficult decisions needed to be made in this group in terms of who was granted a refresh and who was not. 
  These were the factors considered that contributed to the decision to not allocate an additional refresh for you this year:
-        * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY22 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
+        * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY23 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
         * **_Role or skill based decision:_** "Participation in this program was based on performance and criticality of role. Therefore, not all team members will receive a refresh grant in the annual review cycle. However this is an annual process. You will be eligible to participate in next year’s program."
 
         * **_Not in good standing with the company:_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with [Team Member Relations](/handbook/people-group/team-member-relations/) and your People Business Partner. 
