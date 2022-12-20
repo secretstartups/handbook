@@ -25,7 +25,7 @@ In line with GitLab's regulatory obligations, changes to [controlled documents](
 
 The Observation Management Program at GitLab is used to identify, track, remediate and provide a risk ratings of identified findings, exceptions or deficiencies for any Tier 3 information system risks that are identified as an output of compliance operations or other mechanisms by team members, such as self-identification of a system specific risk.
 
-This procedure details the creation process of observations.
+This procedure details the creation process for observations.
 
 ## Introduction to Observation Management at GitLab
 
