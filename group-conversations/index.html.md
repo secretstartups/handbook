@@ -393,7 +393,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday January 24 | Support | Tom Cooney | January 18 |
 | Wednesday January 25 | People | Wendy Barnes | January 18 |
 | Thursday January 26 | **Available** | | Key Review Date? |  
-| Tuesday January 31 | IT | | Craig Mestel | | January 24 |
+| Tuesday January 31 | IT | Craig Mestel | January 24 |
 | Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
 | Thursday February 2 | Quality | Mek Stittri | January 26 |  
 | Tuesday February 7 | **Available** | | Key Review Date? |
@@ -431,7 +431,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday April 20 | Support | Tom Cooney | April 12 |  
 | Tuesday April 25 | **Available** | | Key Review Date? |
 | Wednesday April 26 | Infrastructure | Steve Loyd | April 13 |
-| Thursday April 27 | IT | | Craig Mestel | | April 20 |  
+| Thursday April 27 | IT | Craig Mestel | April 20 |  
 | Tuesday May 2 | **Available** | | Key Review Date? |
 | Wednesday May 3 | Security | Security Leadership | April 25 |
 | Thursday May 4 | **Available** | | Key Review Date? |  
@@ -462,8 +462,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 4 | Independence Day (US)| | N/A |
 | Wednesday July 5 | **Available** | | Key Review Date? |
 | Thursday July 6 | **Available** | | Key Review Date? |  
-| Thursday July 27 | |IT | | Craig Mestel | |July 19 |
-| December 5 | | IT | | Craig Mestel | | November 28 |
+| Thursday July 27 | IT | Craig Mestel | July 19 |
+| December 5 | IT | Craig Mestel | November 28 |
 ## Examples of Past Group Conversations
 
 All of the public live streamed Group Conversations can be found on the GitLab Unfiltered Youtube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
