@@ -19,6 +19,7 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 - [Emily Sybrant](/company/team/#esybrant) - Product Designer, Billing & Subscription Management
 - [Matthew Nearants](/company/team/#mnearents) - Senior Product Designer, Utilization
 - [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Purchase
+- [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment and Growth
 
 
 ## How We Work
