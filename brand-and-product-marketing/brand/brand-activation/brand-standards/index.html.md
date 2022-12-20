@@ -47,7 +47,7 @@ Here are the style guides for existing sub-brands:
 
 ## Training resources
 
-#### Canva best practices
+### Canva best practices
 
 Canva enables team members to self-service their design needs and create on-brand assets. Canva is a great tool for items that need a quick-turnaround or that have ever-changing content (like A/B ad testing). Canva supports print and digital designs, as well as video and animation; team members most frequently use it for digital ads and promotional items. For larger projects that require greater detail or concepting, we recommend you [submit a design request](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#requesting-support) to the Brand Design team instead. 
 
@@ -177,11 +177,16 @@ Always share your work for review. If you are working from an existing Canva tem
 
 **Templates** 
 - [GitLab pitch deck template](https://docs.google.com/presentation/d/1vtFnh8DU6ZZzASTHg83UrhM6LJWqo5lq9mJDAY2ILpw/edit?usp=sharing)
+- [Google Slides branded deck theme](https://about.gitlab.com/handbook/tools-and-tips/#updating-your-existing-slide-deck-theme)
+- [General templates for email assets](https://www.canva.com/folder/FAFTVmFzaI0) ([GitLab Enterprise](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#gitlab-enterprise-access) account access required)
+- [Email signature template](https://docs.google.com/document/d/1iSOYSi69R-OWqzn11GheH-IipmbhDwvc3PnVDxdHxRY/edit?usp=sharing) (Internal access only)
+- [Google Docs branded templates](https://drive.google.com/drive/folders/1U97a05txXI29pGxjOtLiG4DW-zBMHAU5?usp=sharing) (Internal access only)
 
 **Additional resources**
 - [Brand guidelines](https://design.gitlab.com/)
 - [Brand handbook](/handbook/marketing/brand-and-product-marketing/brand/)
 - [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/)
+- [QR code design guidelines](https://about.gitlab.com/handbook/marketing/events/#steps-to-generating-a-qr-code)
 
 
 
