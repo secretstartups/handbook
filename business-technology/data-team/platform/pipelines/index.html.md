@@ -246,6 +246,12 @@ A CI pipeline has been set up that dumps and restores the above table. The CI-pi
 The restore is executed at 00:15 UTC and takes around 10 minutes.
 The airflow user has been given full access after restoring the database to read all the data from the source. 
 
+## Gitlab Customer Dot Database 
+
+Customers Dot database holds information on the `Customer Portal` of the gitlab.com, where customers manage information such as upgrade of subscriptions, adding more seats etc. The infrastructure setup is done in a way that the data team uses the backups as a data source to extract information without affecting the production database.
+The system setup is done by SRE team. For more details on peering can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/customersdot/backups.md#gitlab-analysis).
+Currently, we run a complete extract from the customer dot database. 
+
 ## Google Search Console
 
 [Google Search Console](https://search.google.com/search-console/about) helps you monitor and maintain your site's presence in Google Search results.
