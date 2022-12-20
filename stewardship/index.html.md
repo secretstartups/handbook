@@ -53,7 +53,7 @@ just that we think that other buyers are relatively more likely to care about it
 The more of GitLab that you use the more likely it is that you benefit from a higher tier.
 Even a single person using GitLab might be best off using our highest tier.
 
-It is hard to get [the tier](/handbook/marketing/strategic-marketing/tiers/){:data-ga-name="tiers"}{:data-ga-location="body"} right, and if we put something in a tier that is too high we won't hesitate to [open-source](/blog/2016/12/24/were-bringing-gitlab-pages-to-community-edition/){:data-ga-name="open-source"}{:data-ga-location="body"} [it](https://news.ycombinator.com/item?id=10931347) or move it to a lower tier. We listen to our community in order to find what we feel is the right balance, and we iterate and make changes based on their feedback. At the same time, the premium product needs to hold value, and we believe we provide that.
+It is hard to get [the tier](/handbook/marketing/strategic-marketing/tiers/){:data-ga-name="tiers"}{:data-ga-location="body"} right, and if we put something in a tier that is too high we won't hesitate to [open-source](/releases/2016/12/24/were-bringing-gitlab-pages-to-community-edition/){:data-ga-name="open-source"}{:data-ga-location="body"} [it](https://news.ycombinator.com/item?id=10931347) or move it to a lower tier. We listen to our community in order to find what we feel is the right balance, and we iterate and make changes based on their feedback. At the same time, the premium product needs to hold value, and we believe we provide that.
 
 All stages of the [DevOps lifecycle](/direction/#scope){:data-ga-name="scope"}{:data-ga-location="body"} have at least some features available in GitLab Core. There are companies using GitLab Core with more than 10,000 users.
 
@@ -73,7 +73,7 @@ We want to give people the option to both run and contribute to an open source e
 From time to time we do open source a feature that was previously proprietary.
 We do this when we realize we made a mistake applying our criteria, for example
 when we learned that a branded homepage was an [essential feature](https://news.ycombinator.com/item?id=10931347) or
-when we [brought GitLab Pages to the Community Edition](/blog/2016/12/24/were-bringing-gitlab-pages-to-community-edition/){:data-ga-name="gitlab pages to community edition"}{:data-ga-location="body"}.
+when we [brought GitLab Pages to the Community Edition](/releases/2016/12/24/were-bringing-gitlab-pages-to-community-edition/){:data-ga-name="gitlab pages to community edition"}{:data-ga-location="body"}.
 
 Our plan is to become the most popular tool for people’s own git hosting service; we’ve managed that so far. Secondarily, we want to get to be the one with the most revenue. Thirdly, we want to become the most popular tool for hosting private repos. Once we’ve reached that, we want to be the most popular tool for hosting public repos. And, lastly, we want to be the number one tool for people to host not just code but books, tech papers, visual models, movies, etc. More info on this is on our [strategy page](/company/strategy/){:data-ga-name="strategy page"}{:data-ga-location="body"}.
 
