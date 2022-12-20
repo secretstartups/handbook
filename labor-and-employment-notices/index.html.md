@@ -338,7 +338,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Equal Pay Provision](https://dol.ny.gov/system/files/documents/2021/03/ls603_equity_provision.pdf)
 * [Minimum Wage](https://dol.ny.gov/system/files/documents/2021/12/ls207.pdf)
 * [Wage Theft Prevention](https://dol.ny.gov/system/files/documents/2021/03/p715.pdf)
-* [Paid Family Leave Statement of Rights](http://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL271S_2021.pdf)
+* [Paid Family Leave](http://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/pfl-at-a-glance-2023.pdf)
 * [New York State Disability Statement of Rights (DB217S)](http://www.wcb.ny.gov/content/main/forms/AllForms.jsp)
 * [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
 * [Child Labor Law - permitted working hours](https://dol.ny.gov/system/files/documents/2021/03/ls171.pdf)
