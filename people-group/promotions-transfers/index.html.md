@@ -69,38 +69,38 @@ At GitLab, we promote on a quarterly cadence. This means that there is **one eff
 
 **Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotionstransfers-processed-outside-of-the-quarterly-promotion-calibration-process) and not part of the quarterly cycle and timeline outlined below.
 
-Below is the timeline for FY23: 
+Below is the timeline for FY24: 
 
-- FY23-Q1:
-  - Planning: December 15 to January 5
-  - Calibrations: January 5 to January 15 
-  - Processing: January 15 to February 1 (Promotions must be added to Compaas by January 20)
-     - Effective date for promotions: 2022-02-01. 
+- FY24-Q1: Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) 
+  - Planning: December 20 to January 6
+  - Calibrations: January 9 to January 20
+  - Processing: January 23 to February 1 (Promotions must be added to HRIS by January 20)
+     - Effective date for promotions: 2023-02-01. 
      - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in #team-member-updates.
      
-- FY23-Q2: 
+- FY24-Q2: _Tentative_
   - Planning: March 15 to April 1
   - Calibrations: April 1 to April 15
   - Processing: April 15 to May 1 (promotions must be added to HRIS by April 20)
-     - Effective date for promotions: 2022-05-01. 
+     - Effective date for promotions: 2023-05-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
-     - After communicated 1:1 with individuals **on or after 2022-05-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until promotions are effective in Workday.
+     - After communicated 1:1 with individuals **on or after 2023-05-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until promotions are effective in Workday.
 
-- FY23-Q3: 
+- FY24-Q3: _Tentative_
   - Planning: June 15 to July 1 
   - Calibrations: July 1 to July 15
   - Processing: July 18 to August 1 ((promotions must be added to HRIS by July 20))
-     - Effective date for promotions: 2022-08-01. 
+     - Effective date for promotions: 2023-08-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
-     - After communicated 1:1 with individuals **on or after 2022-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
+     - After communicated 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
 
-- FY23-Q4:
+- FY24-Q4: _Tentative_
   - Planning: September 15 to September 30
   - Calibrations: October 3 to October 14 
   - Processing: October 17 to November 1 (promotions must be added to HRIS by October 20)
-     - Effective date for promotions: 2022-11-01. 
+     - Effective date for promotions: 2023-11-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
-     - After communicated 1:1 with individuals **on or after 2022-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
+     - After communicated 1:1 with individuals **on or after 2023-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
 
 _Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offiste](https://about.gitlab.com/company/offsite/#schedule)._
 
@@ -146,7 +146,7 @@ Calibration should be aligned to the following levels of leaders and people mana
 
 | Promotion Level | Level Calibrated |
 | ---------- | ----- |
-| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | Calibrated at the Department level |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9) | Calibrated at the Department level |
 | Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10) | Calibrated at the Division level |
 | Senior Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 11-15) | Calibrated at the E-Group level |
 
@@ -209,7 +209,7 @@ Please see the [Workday Guides](https://about.gitlab.com/handbook/people-group/w
 
 | Promotion Level | Approvals Required |
 | ---------- | ----- |
-| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A |
 | Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10-15) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A, 6) **E-Group Leader** |
 
 Approvals for the Director+ level off-cycle promotion exceptions require E-Group approval, and off-cycle promotions for levels under Director require approval through Department head. 
@@ -251,7 +251,7 @@ The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWA
 
 ## Annual Compensation Review
 
-When the promotion cycle is running concurrently with our Annual Compensation review (FY23-Q4) we will use Workday for processing promotions to eliminate the need for two tools. These steps will be updated as part of our Annual Compensation Review planning. 
+When the promotion cycle is running concurrently with our Annual Compensation review (FY24-Q4) we will use Workday for processing promotions to eliminate the need for two tools. These steps will be updated as part of our Annual Compensation Review planning. 
 
 ## Process for Managers: Requesting a Promotion or Compensation Change
 
