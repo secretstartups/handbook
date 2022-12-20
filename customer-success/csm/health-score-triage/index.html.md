@@ -242,11 +242,7 @@ If a CSM has marked a production instance under a Premium subscription, DevSecOp
    1. The rule looks at the `Plan Name` on the Product Usage Instance Metrics object instead of the `Products Purchased` on the Company object
 
 </details>
-
-### At-Risk CTA
-
-For process overview and steps, see [At Risk Process](/handbook/customer-success/csm/renewals/#at-risk-process).
-
+<br>
 ### GitLab Account Triage Project
 
 An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [CSM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
