@@ -14,7 +14,7 @@ GitLab is a global company that does business around the world. In order to best
 
 ## Current State
 
-Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We use [Smartling](/handbook/marketing/marketing-operations/smartling/) for translation, and to date, most translations have focused on eBooks, landing pages, emails, digital marketing advertisements, and partner marketing materials.
+Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We use [Smartling](/handbook/marketing/localization/smartling/) for translation, and to date, most translations have focused on eBooks, landing pages, emails, digital marketing advertisements, and partner marketing materials.
 
 **Field Marketing use of Smartling**
 
@@ -22,7 +22,7 @@ For information on how Field Marketing uses translations, please head to [that p
 
 ### Internal Reviews
 
-To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Both translation and reviews are conducted in Smartling, and detailed instructions for internal review can be found on the [Smartling page](/handbook/marketing/marketing-operations/smartling/smartling-reviewers/).
+To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Both translation and reviews are conducted in Smartling, and detailed instructions for internal review can be found on the [Smartling page](/handbook/marketing/localization/smartling/smartling-reviewers/).
 
 ### Priority Countries
 
@@ -32,7 +32,7 @@ Annually we prioritize countries that we believe offer the most opportunity for 
 
 | Vendor | Capabilities | How to Access |
 | ------ | ------------ | ------ | 
-| [Smartling](/handbook/marketing/marketing-operations/smartling) | Localization platform | [Instructions for access](/handbook/marketing/marketing-operations/smartling/#access-to-smartling) 
+| [Smartling](/handbook/marketing/localization/smartling/) | Localization platform | [Instructions for access](/handbook/marketing/localization/smartling/#access-to-smartling) 
 
 ### Translating content for campaigns
 
@@ -40,7 +40,7 @@ Localized campaigns currently follow the [integrated campaign process](/handbook
 
 ### Language preference segmentation
 
-In order to offer content and events in preferred languages where available, we have a `Language Preference` Segmentation created in Marketo. Only Marketing Ops can edit these segments. Available languages for this segmentation can be found on the [Marketo page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations). A person will be added to a `Language Preference` segment if they complete a form on our website or respond to a campaign that was offered in one of the available languages.
+In order to offer content and events in preferred languages where available, we have a `Language Preference` Segmentation created in Marketo. Only Marketing Ops can edit these segments. Available languages for this segmentation can be found on the [Marketo page](/handbook/marketing/marketing-operations/marketo/#segmentations). A person will be added to a `Language Preference` segment if they complete a form on our website or respond to a campaign that was offered in one of the available languages.
 
 ### Translated URL structure
 
