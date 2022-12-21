@@ -106,43 +106,62 @@ We use epics, issues, and issue/epic boards to organize our work, as they comple
 
 The single source of truth for _all_ GitLab Dedicated work across different functions is the top-level [GitLab Dedicated epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479). 
 
-The [GitLab Dedicated epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479) contains a section that tracks the status all ongoing work. The tracker also references cross-functional initiatives that happen outside of R&D. The status is maintained in the description of the top-level epic so that it is visible at a glance. This is auto-generated using [the epic issues summary project](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries).
+The [GitLab Dedicated epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479) contains a section that tracks the status all ongoing work. The tracker also references cross-functional initiatives that happen outside of R&D. 
 
-The [GitLab Dedicated Limited Availability sub-epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484) contains all projects relating to meeting requirements for exiting Limited Availability. All epics that are added as children of this Limited Availability (LA) top-level epic are used to describe projects that the team undertakes during the LA period. These child epics are prioritized in line with [the Roadmap to exit Limited Availability](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap)
+#### Epic Hierarchy
+
+The [GitLab Dedicated Limited Availability sub-epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484) contains all of the work necessary to meet requirements to exit Limited Availability. 
+
+
+We use sub-epics to break larger epics into smaller portions. These sub-epics are also mentioned in the [Limited Availability Roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap) (i.e. Geo Phase 2 epic). 
+
+1. Sub-epics group tasks required to deliver an item mentioned 
+2. Sub-epics represent an item from the roadmap and are delivered in a specific phase
+3. Sub-epics can span multiple months, but their end date should match the 'anticipated completion date' of the roadmap phase they are added to.
+
 
 The diagram below shows an example of traversing the complete hierachy:
 
 ```mermaid
 graph TD
 A(GitLab Dedicated) --> C(GitLab Dedicated Limited Availability)
-C --> D([Enhance Dedicated security posture])
+C --> D([Epic])
 C --> E([Switchboard App MVC])
 C --> F([Establish Availability targets])
 C --> G([...])
-E --> H([Issue 1])
-E --> I([Issue 2])
-E --> J([...])
+D --> H([Sub-epic])
+E --> I([Phase 2: Switchboard Prototype])
+E --> J([Phase 3: Switchboard-based deployments])
+E --> K([...])
+H --> L([Issue 1])
+
 click A "https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479"
 click C "https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484"
-click D "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/60"
 click E "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/54"
 click F "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/55"
 ```
 
 _Note_ If you are not seeing the diagram, make sure that you have accepted all cookies.
 
-#### Epic ownership
+#### Epic Owners
 
-Each epic has a single DRI who is responsible for delivering the project.
+Each epic has a single DRI who is responsible for delivering the project. DRIs for each epic are listed at the top of the description of each epic per [Epic Structure](/team/gitlab-dedicated/#epic-structure). Epic DRI responsibilities are in [https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-owner-responsibilities](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-ownership)
+
+1. Engineering epic DRIs can be found within children epics of [GitLab Dedicated - Limited Availability epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484).
+1. As a [Top Cross-Functional Initiative](https://about.gitlab.com/company/top-cross-functional-initiatives/#cross-functional-initiative-dris), Dedicated has an Initiative DRI and Cross-Functional DRIs. Please see [Dedicated Cross-Functional epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/866) and its sub-epics for these DRIs .
+
+#### Epic Owner Responsibilities
 
 The DRI needs to:
 
-1. Update the status block in the epic description
 1. Work with others to move issues through the boards
+1. Ensure epic meets criteria outlined in [Epic Structure](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure)
+1. Provide updates on DRI's epic in epic description according to process outlined in [Status Update Process](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#Status-Update-Process) below.
+
 
 #### Epic structure
 
-Each epic and child epics must include the following:
+Each epic and child sub-epics must include the following:
 
 **Description** (TBD make epic template)
 1. **DRI** who is responsible for this epic.
@@ -180,6 +199,42 @@ All epics and sub-epics are set with due dates according to the [the Roadmap to 
 Issue boards, such as [Beta Development board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/2874746?label_name[]=Launch%3A%3ABeta) track the progress of all ongoing work.
 
 On this single board, the goal is to get issues from `workflow-infra::Triage` into the `workflow-infra::Done` state, within a product [launch milestone](#launch-milestone-labels). Each of the workflow labels have a special meaning described in [the workflow labels](#workflow-labels) section.
+
+### Status Updates
+
+The status for all work relating to GitLab Dedicated is maintained in the description of the top-level [GitLab Dedicated epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479) so that it is visible at a glance. 
+
+#### Status Update Process 
+
+Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI's epics according to following process:
+
+1. **By 17:00 UTC / 12:00 PM ET on Fridays** DRIs of _active_ epics (or the person covering if DRI OOO) provide an update in the [status section of the description](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure) of the epic regarding status of the epic including any relevant details of active sub-epics. 
+    * If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
+    * Format for weekly update:
+      - **Date of Update** (YYYY-MM-DD)
+      - Brief update (~sentence or couple bullets) for each of these three bullets:
+         - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
+         - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date from [Phase timeline](https://internal-handbook.gitlab.io/handbook/engineering/horse/)?
+         - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts? 
+       - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+
+2. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
+
+3. **Weekly engineering/product sync at 16:30 UTC / 11:30 AM ET on Mondays** Dedicated engineering/product meeting is used to discuss status updates and potential mitigations as necessary. 
+
+4. Status updates will be incorporated into initiative status updates and any initiative reporting in the following week. 
+
+5. **By 23:00 UTC / 5:00 PM ET on Wednesdays** Initiative DRI will share a summary of major items from the weekly initiative update in #ceo Slack Channel and link to the full update in the Initiative epic.
+
+#### Status Update Automation
+
+Status updates are auto-generated and added to description of [GitLab Dedicated top-level epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479) using a bot running [the epic issues summary project](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries).
+
+If no update has been provided in an epic or issue for over a week, the issue will automatically receive workflow-infra::stalled label. Engineering managers are responsible for reviewing the status of the issue and helping it move along.
+
+#### Reporting
+
+We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](https://about.gitlab.com/company/top-cross-functional-initiatives/#cross-functional-initiative-dris). 
 
 ### Merge Requests
 
