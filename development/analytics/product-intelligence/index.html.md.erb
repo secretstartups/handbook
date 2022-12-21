@@ -63,7 +63,6 @@ Our team uses a hybrid of Scrum for our project management process. This process
 - We continuously progress issues to the next workflow stage.
 - We work on both product and engineering initiatives.
 - We prioritize and estimate all issues we work on.
-- We do weekly refinement to ensure our issue board is always kept up to date.
 - We do monthly milestone planning to prepare for our upcoming milestone.
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
@@ -231,29 +230,6 @@ Let me draw your attention to potential caveats.
 To properly set expectations for product managers and other stakeholders, our team may decide to add a due date onto an issue. Due dates are not meant to pressure our team but are instead used to communicate an expected delivery date.
 
 We may also use due dates as a way to timebox our iterations. Instead of spending a month on shipping a feature, we may set a due date of a week to force ourselves to come up with a smaller iteration.
-
-### Weekly refinement
-
-Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in our group channel. During refinement, we make sure that every issue on the issue board is kept up to date with the necessary details and next steps.
-
-Each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
-
-```
-<!---
-Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
-- ~"workflow::In dev"
-- ~"workflow::In review"
-- ~"workflow::verification"
-- ~"workflow::blocked"
--->
-### Async issue update
-1. Please provide a quick summary of the current status (one sentence).
-1. When do you predict this feature to be ready for maintainer review?
-1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
-1. Were expectations met from a previous update? If not, please explain why.
-```
-
-We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
 
 ### Out of office coverage process
 
