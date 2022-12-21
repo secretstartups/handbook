@@ -665,7 +665,7 @@ Delivery options and timelines are provided during the ordering process. Any new
 
 ## Swag for Non-Field Marketing Teams
 
-If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please reach out on Slack in the `#swag` channel.
+If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please see [details here](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/).
 
 # Field Marketing Fedex Account
 
