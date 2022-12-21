@@ -43,7 +43,7 @@ To open up deal registration access, partners must complete at least one sales t
 
 ## Deal Registration Program Overview
 
-To promote the growth and success of GitLab channels, manage channel conflict, and provide a systematic approach to pursuing sales opportunities, GitLab has formalized the rules of engagement and deal registration procedures. Since the first qualified deal registration requires approval, Partners are encouraged to submit their deal registrations as early as possible to lock in the biggest discount. Partners in the GitLab Partner Program need to register individual sales opportunities; Partners may not register an account or combine opportunities.
+To promote the growth and success of GitLab channels, manage channel conflict, and provide a systematic approach to pursuing sales opportunities, GitLab has formalized the rules of engagement and deal registration procedures. Since the first qualified deal registration requires approval, Partners are encouraged to submit their deal registrations as early as possible to lock in the biggest discount. Partners in the GitLab Partner Program need to register individual sales opportunities; Partners may not register an account or combine opportunities. Review the [Definitions and Qualifications section of this page](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications) for more detail on what GitLab defines as Partner Sourced and Co-sell deal registrations.
 
 * Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, Partner ability to deliver in-country/region support, and Partner relationship with the customer. Deal registration approval is required and will be made by GitLab’s Sales team.
 * Only one Partner can earn a deal registration discount per opportunity. Partners, other than the Partner granted the deal registration discount that requests a quote, will receive the co-sell discount rate.
@@ -86,7 +86,7 @@ Once deal registrations are received, a GitLab Sales Rep will:
 
 Note: “Eligible” means that you meet all contractual or regulatory requirements to bid on the deal and that the customer is willing to buy you. This is particularly relevant with government contracts or bids, but could also apply to commercial work.
 
-If any of the above requirements are not met—or you fail to promptly schedule a meeting or conference call with the customer—the GitLab Sales Rep may advise you that GitLab cannot engage with you for this opportunity. GitLab will then reconsider other deal registration applications submitted for this deal in order of submission. You may subsequently attempt to remedy this situation and submit another deal registration form for this deal, but this will be considered a new submission.
+If any of the above requirements are not met—or you fail to promptly schedule a meeting or conference call with the customer—the GitLab Sales Rep may advise you that GitLab cannot engage with you for this opportunity. GitLab will then reconsider other deal registration applications submitted for this deal in order of submission. You may subsequently attempt to remedy this situation and submit another deal registration form for this deal, but this will be considered a new submission. 
 
 ## How Services Attached Registrations Work
 
@@ -227,9 +227,9 @@ To pay via invoice, simply e-sign the [reseller quote](/handbook/resellers/#gitl
 
 * **Partner-Sourced/Initiated Discount –** Partners can earn the largest available product discount with a Partner-sourced opportunity. This opportunity is a new opportunity for the GitLab Sales team, and is available to new or existing customers. 
 
-The Partner-sourced discount is an upfront discount. The Partner is expected to assist the GitLab Sales team in closing the sale. To qualify for this discount, Partners must submit a deal registration to GitLab via the GitLab Partner Portal, and it must be approved by GitLab Sales to qualify. A Partner-sourced discount is available for both resale and referral opportunities. 
+  The Partner-sourced discount is an upfront discount. The Partner is expected to assist the GitLab Sales team in closing the sale. To qualify for this discount, Partners must submit a deal registration to GitLab via the GitLab Partner Portal, and it must be approved by GitLab Sales to qualify. A Partner-sourced discount is available for both resale and referral opportunities. 
 
-Partners purchasing GitLab for their own internal production use and add-on licenses at renewal can also qualify for a partner-sourced discount; however, they must first meet all program requirements for their specific program track (Open or Select). Please visit the Deal Registration Program guideline in the Program Guide for additional details.
+  Partners purchasing GitLab for their own internal production use and add-on licenses at renewal can also qualify for a partner-sourced discount; however, they must first meet all program requirements for their specific program track (Open or Select). Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
 * **Partner Co-Sell Opportunity –** Partners can earn a discount for a GitLab-sourced opportunity where the Partner assists the GitLab Sales team in closing and/or transacting the deal. This may include demonstrating GitLab software, organizing executive meetings, supporting contract negotiations, delivering services, fulfillment, etc. It is an upfront discount. To qualify for the Partner-assist discount, GitLab Sales team members will attach a Partner to an opportunity, but Partners do not need to submit a deal registration.
 
