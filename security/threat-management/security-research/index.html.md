@@ -159,6 +159,16 @@ This summary will help to capture:
 
 After the summary has been completed, the issue should be closed.
 
+### Current and past Research Projects
+
+#### Package Hunter
+
+Modern dependency management systems like npm and bundler make reusing code easy and ubiquitous. This increases developer productivity and reduces the time to implement applications. However, dependency management systems also bring new challenges. Even for relatively small applications, the number of 3rd-party dependencies quickly grows to several hundred. Because these dependencies are critical to an application's security, they must be carefully vetted for vulnerabilities and malicious code. Performing this task manually is typically not feasible due to the amount of dependency code being vast and developer time is precious. Automated tools are essential in supporting the review of dependencies and preventing malicious dependencies from entering an application's supply-chain. To tackle this challenge, we have developed Package Hunter, a tool to identify malicious npm modules and Ruby Gems. Package Hunter monitors the system calls of application dependencies during their installation. If any suspicious system calls are observed, an alert is created and brought to the attention of the development team.
+
+Package Hunter is open source. Head over to the [project](https://gitlab.com/gitlab-org/security-products/package-hunter) site to try Package Hunter out. There are [instructions](https://gitlab.com/gitlab-org/security-products/package-hunter#installation) for running your own Package Hunter instance and the [CI template](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/ci/template/Package-Hunter.gitlab-ci.yml) get's you started with analyzing your dependencies in your CI pipeline.
+
+We also welcome contributions. If you are interested in participating in the development of Package Hunter, please see our [contribution guide](https://gitlab.com/gitlab-org/security-products/package-hunter/-/blob/main/CONTRIBUTING.md).
+
 ### GitLab Ecosystem Security Testing
 The Security Research team within GitLab conducts security assessments on Open Source Software on a regular basis.
 
