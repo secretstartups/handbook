@@ -72,7 +72,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. Anyone who is departing from GitLab, with an end date on or before February 1, will be excluded from the Annual review cycle. The People Business Partner will make sure to loop in Total Rewards on any terminations.
 
 ##### January:
-1. January 9th - January 20th: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
+1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
     * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
     * Managers and indirect managers will review their team members  and propose an increase based on several factors:
         * Performance Factor
@@ -89,15 +89,16 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. Managers are advised to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before submitting.
     * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
 1. January 13th: People Business Partner check on the progress/Budget impact.
-1. January 18th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increase exceptions (for example: any above 10% performance increase,etc.) for planning to be complete. These justifications will be reviewed and approved by Department and Division leaders.
-1. January 19th - January 23rd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
+1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increase exceptions (for example: any above 10% performance increase,etc.) for planning to be complete. These justifications will be reviewed and approved by Department and Division leaders. Please connect with your manager or [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) to determine if you department or division has additional due dates embedded by level. 
+1. January 24th - Total Rewards Review & Pay Equality Analysis
+1. January 20th - January 23rd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
 1. January 25th - January 26th: For E-Group to review and approve final compensation changes.
 1. January 30th: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
-1. February 1st: Total Rewards and People Tech will be generating a "Cash Compensation Statement" in Workday that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24. 
+1. February 1st: Effective date for cash compensation changes. Total Rewards and People Tech will be generating a "Cash Compensation Statement" in Workday that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24. 
 1. February 1st - February 4th: Total Rewards will audit all of the updates to Workday and provide Payroll with a report of all increases effective February 1
-1. February 4 - 11: Managers will be able to communicate increases and promotions (where applicable) to their team members. Note: Information for team members who invoice GitLab (Contractors) needs to be communicated by February 5th, as these team members need to finalize invoice amounts by February 7, 2022. 
+1. February 4 - 9: Managers will be able to communicate increases and promotions (where applicable) to their team members. Note: Information for team members who invoice GitLab (Contractors) needs to be communicated by February 5th, as these team members need to finalize invoice amounts by February 7, 2022. 
 1. February 16th: Compensation and job title visibility will be returned to team members in Workday.
 
 In February, Director+ leaders will plan Phase 2 of the Annual Compensation Review cycle by planning Equity.  Exact dates for this Phase will be communicated in January.
