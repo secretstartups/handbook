@@ -194,7 +194,7 @@ One can view how we log our infrastructure as outlined by our
 
 To learn how to create Kibana dashboards use the following resources:
 
-- [Kibana Dashboard tutorial from Elastic.co](https://www.elastic.co/guide/en/kibana/current/tutorial-dashboard.html)
+- [Kibana Dashboard tutorial from Elastic.com](https://www.elastic.co/guide/en/kibana/current/index.html)
 - [Building a dashboard](https://www.elastic.co/guide/en/kibana/current/dashboard.html)
 - [Using TimeLion for time series visualization](https://www.elastic.co/guide/en/kibana/current/timelion.html)
 
