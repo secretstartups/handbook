@@ -483,7 +483,7 @@ The blog style guide covers styling, punctuation, spelling, and grammatical guid
 
 If you're looking for tips to improve your writing and storytelling, please see Writing blog posts – best practices below.
 
-## Writing blog posts – best practices
+### Writing blog posts – best practices
 
 We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
 
