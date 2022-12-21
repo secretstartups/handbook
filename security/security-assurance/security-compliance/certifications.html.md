@@ -26,22 +26,17 @@ Generally, the scope of the items listed on this page include GitLab.com, the Gi
 
 Are you looking for security certifications/attestations for GitLab Dedicated? Please look [here](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/certifications.html).
 
-### Roles and Responsibilities
-
-| Role | Responsibility|
-| ---- | ------ |
-| Security Compliance | Responsible for external certification gap analysis, external audit hosting and self certification activities |
-| Internal Audit | Responsible for executing [Internal Audit control tests](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/) to determine test of design and test of operating effectiveness of all internal controls as required by audit plan. |
-| Security Risk | Responsible for executing [Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) (TPRM) risk and security assessments to determine risk associated with third party applications and services, self certification or attestation activities |
-| Field Security | Responsible for executing [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)(CAA) responsible for providing customer assurance with GitLab's security practices and operating procedures, self certification or attestation activities |
 
 ### Current
-* [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): Security and Confidentiality Criteria
+* [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): Security, Confidentiality and Availability Criteria
    * The SOC 2 Type 2 report is available for customers and potential customers upon request. The report is scoped to GitLab.com. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab.com as a SaaS product and speak to the mature state of GitLab's information security program.
-* [SOC 3 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html): Security and Confidentiality Criteria
+* [SOC 3 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html): Security, Confidentiality and Availability Criteria
    * The SOC 3 report is available for general use by both customers and potential customers upon request. Please see SOC 2 Type 2 Report above for scope.
 * [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification
-   * The report is scoped to GitLab.com. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab.com as a SaaS product and speak to the mature state of GitLab's information security program.
+   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS se
+   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS services and speak to the mature state of GitLab's information security program.   
+* [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html) Certification
+   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS services and speak to the mature state of GitLab's information security program.
 * [ISO/IEC 20243-1:2018](https://www.iso.org/standard/74399.html) Self Assessment
    * Scoped to the SaaS application of GitLab, Inc. 
 * [PCI DSS SAQ-A](https://www.pcisecuritystandards.org/pci_security/completing_self_assessment) Self-Assessment 
@@ -49,19 +44,21 @@ Are you looking for security certifications/attestations for GitLab Dedicated? P
 * [CSA Consensus Assessments Initiative Questionnaire v3.1](https://cloudsecurityalliance.org/star/registry/gitlab/) Security Self-Assessment
    * Based off the Cloud Controls Matrix and the CSA Code of Conduct for GDPR Compliance.
 * [CSA Trusted Cloud Provider](https://cloudsecurityalliance.org/artifacts/trusted-cloud-provider-faq/) 
+* [Standardized Information Gathering Questionnaire](https://sharedassessments.org/sig/) Self-Assessment
 * [Annual Third Party Penetration Test](https://about.gitlab.com/handbook/security/#annual-3rd-party-security-testing)
 
 ### Planned (Roadmap)
 The following security certifications and attestations are currently on our roadmap for consideration and have not yet been formally committed or contracted: 
-Year(s): FY23
-* [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): +Availability Criteria
-* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Survellence audit
-* [Standardized Information Gathering Questionnaire](https://sharedassessments.org/sig/) Self-Assessment
-* [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html)
-* [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
 
 Year(s): FY24
+* [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): +Privacy Criteria
 * [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Survellence audit
+* [Software Bill of Materials (SBOM)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+* PCI Attestation of Compliance: Third party declaration of compliance with Payment Card Industry Data Security Standard (PCI DDS)
+* [Cloud Security Alliance (CSA) Star Level 2](https://cloudsecurityalliance.org/star/) Third party audit
+
+Year(s): FY25
+* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 
 ## Requesting Evidence of Certifications or Attestations
 
