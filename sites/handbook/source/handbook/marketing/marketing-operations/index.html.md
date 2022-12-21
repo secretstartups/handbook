@@ -300,7 +300,8 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
 - Reachdesk
-- [Smartling](/handbook/marketing/marketing-operations/smartling)
+- [Rev](/handbook/marketing/marketing-operations/rev)
+- [Smartling](/handbook/marketing/localization/smartling/) (Until Localization team is built out)
 - Survey Monkey
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
 
