@@ -10,4 +10,4 @@ description: "This page details the Sales Forecasting process"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[Please see the Sales Handbook Definitions Document](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)
+[Please see the Internal Handbook page on Sales Forecasting](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)
