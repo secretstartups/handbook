@@ -127,7 +127,7 @@ canonical_path: "/company/okrs/2017-q4/"
     * Identify 1 sub-standard area of the code base and raise local unit test coverage up to project level => Done, prometheus-client-mmap now has better testing and coverage.
     * Resolve or schedule all Priority 1 & 2 Prometheus issues (and groom performance issues) => Done, prometheus-client-mmap performance improvements shipped.
   * Geo Team
-    * Make Geo Generally Available => Done in [10.2](/blog/2017/11/22/gitlab-10-2-released/)
+    * Make Geo Generally Available => Done in [10.2](/releases/2017/11/22/gitlab-10-2-released/)
     * Geo performant at GitLab.com scale => 30% done: a full HA testbed was built, but it hasn't been pushed to the limits yet; marking as only 30% since there may be more unknown unknowns to deal with here.
     * Manual failover robust in Geo as first step to Disaster Recovery => 80% done: manual failover demo-ed and [documented](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html), but still incomplete.
   * Director of Quality
