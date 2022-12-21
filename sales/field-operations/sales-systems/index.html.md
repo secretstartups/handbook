@@ -61,46 +61,6 @@ Below is a list of the different technical skill sets found on the Sales System 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
 
-### Priority Matrix
-
-Priority for the Sales Systems team is based on two axis, Impact and Urgency.  For a detailed breakdown of how these work, review [this blog post](https://www.bmc.com/blogs/impact-urgency-priority/#).  Priority is used by the team when planning to identify those stories which have a higher business impact and urgency.
-
-#### Impact
-
-Impact defines how large of an impact (positive or negative) the change proposed in the issue will make for our business.  Impact is classified as High, Medium, and Low.
-
-A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reserved for OKRs and other company wide initiatives.
-
-Negative impact examples include:
-
-- System level outages preventing access to multiple users (High impact)
-- Missing functionality to support a key business process for a group of users (Medium impact)
-- A field inaccessible to a single user for reporting needs (Low impact)  
-
-Positive impact examples include:
-
-- A business process automation which will result in increased revenue or which supports an OKR (High impact)
-- Developing a new tool to support a department's use of Salesforce (Medium impact)
-- Automating a single repetitive action to save time for a single user (Low impact) 
-
-#### Urgency
-
-Urgency represents how quickly this change is needed by the business stakeholders.  Please note that while the urgency is expressed in relation to a targeted delivery timeframe, the team will not always be able to accommodate the urgency if other higher priority issues are needed for the business.  The team does recognize that urgency is relative and can change over time, which would also cause an issue to elevate in priority over time.  When this occurs, the team will work with you to reclassify the priority of your issue accordingly during our next sprint planning meeting.
-
-- High urgency issues should be addressed by a known due date in the next 30 calendar days
-- Medium urgency issues should be addressed some time in the next 90 days
-- Low urgency should be be resolved as capacity allows
-
-#### Priority
-
-Combining the two axis above results in the below priority matrix.
-
-| **Impact** / <br/> **Urgency** | **High** | **Medium** | **Low** |
-| ------ | ----- | ----- | -----	|
-| **High** |  `Priority::High` | `Priority::High` | `Priority::Medium` | 
-| **Medium**  | `Priority::High` | `Priority::Medium` | `Priority::Low` |
-| **Low** |  `Priority::Medium` | `Priority::Low` | `Priority::Low` |
-
 ## Salesforce.com Change Management Processes and SDLC (Software Development Life Cycle)
 
 Changes to Salesforce.com come in a variety of formats but all of them will feature the following change managment controls:
@@ -313,7 +273,55 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 23.  Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
 24.  Clone the merged change set that was deployed into production and push and deploy this change set to staging. (Post deploy steps and setup are optionable)
 
-### Installed Package Removal Process
+#### Installed Packages
+
+[Installed packages](https://help.salesforce.com/s/articleView?id=sf.distribution_installed_packages.htm&type=5) are provided by ISVs ( Independent Software Vendor) who work on the Salesforce platform, and contain the code and configuration for Salesforce which extend the capability of the platform.  These are commonly installed and requested by our business partners to extend Salesforce's native capabilities.
+
+##### Is the package Managed vs Unmanaged?
+
+Packages come in two flavors, [managed or unmanaged](https://developer.salesforce.com/docs/atlas.en-us.188.0.packagingGuide.meta/packagingGuide/packaging_about_packages.htm).  Managed packages are equivalent to signed apps, with self contained source sealed inside of the package.  Unmanaged packages are unsigned, and generally contain raw code and configuration.
+
+Generally, vendors either provide managed packages via the [Salesforce AppExchange](https://appexchange.salesforce.com/), or via direct installation from their repository.  Unmanaged packages generally are provided by the vendor, and may contain raw source or configuration which needs to be manually installed.  Note, any code provided the GitLab remains the IP of the vendor provided, unless specific accommodations are provided (such as if we contract with a vendor to extend their base functionality).  Because of these additional considerations, unmanaged packages require additional steps to be completed as part of the installation process.
+
+Any package code is the responsibility of the vendor who produced it to support and troubleshoot.  If issues are encountered with the functionality, please contact the vendor in question to troubleshoot.  If there are changes recommended by the vendor to our environment, log an issue with Systems to track any changes which are requested by the vendor using one of the two processes below.
+
+##### System stability comes first!
+
+We (Sales Systems) reserve the right to remove or uninstall managed or unmanaged code at any time, if this package is determined to cause issues related to system performance or limitations. 
+
+If we are accepting unmanaged code or config, we will choose whether to accept these on a case-by-case basis. Unmanaged packages offer significant risk and resource utilization over our managed code. Our goal is always to accept managed packages from vendors. 
+
+##### Managed Package Installation/Upgrade Process
+
+1. Identify the package and what reason(s) you may think it should be installed or upgraded.
+1. Install the version of the package you want to install inside of your sandbox environment.
+1. Test and confirm the functionality provided meets your requirements, and has no negative impacts to existing functionality.
+1. Open an issue with Sales Systems to install the package in the STAGING environment.
+    - Ensure you include links to the package and the install instructions provided by the vendor in the description of the issue.
+1. Once the package is installed in STAGING, if confirmed to move forward, test and confirm the functionality provided meets your requirements, and has no negative impacts to existing functionality
+1. If successfully installed in STAGING, announce the intent to move forward in installing in production, and prepare training documentation.
+1. Document any relevant information about the package as part of the handbook. 
+   * An example of this could be SFDC fields that are part of the package, and the business processes it supports.
+1. Install the package in production, update the issue and close out.
+
+##### Unmanaged Package Installation/Upgrade Process
+
+1. Identify the package and what reason(s) you may think it should be installed or upgraded, along with any custom code or configuration which needs to be installed separately.
+1. Install the version of the package you want to install inside of your sandbox environment.
+1. Test and confirm the functionality provided meets your requirements, and has no negative impacts to existing functionality.
+1. Open an issue with Sales Systems to install the package in the STAGING environment.
+    - Ensure you include links to the package and the install instructions provided by the vendor in the description of the issue, along with the inventory of any components installed outside of the package.
+1. Create a branch in our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) to include any custom code or metadata created as part of the unmanaged package which will be tracked in GitLab source. 
+1. Request a package review of the branch by Systems, by assigning the MR to the Sales Systems developers.
+1. Once the package is installed in STAGING, if confirmed to move forward, test and confirm the functionality provided meets your requirements, and has no negative impacts to existing functionality
+1. If successfully installed in STAGING, announce the intent to move forward in installing in production, and prepare training documentation.
+1. Document any relevant information about the package as part of the handbook. 
+   * An example of this could be SFDC fields that are part of the package, and the business processes it supports.
+1. Install the package in production, update the issue and close out.
+
+##### Installed Package Removal Process
+
+The uninstall process is the same regardless of whether a package is managed or unmanaged.
 
 1. Identify the package and what reason(s) you may think it can be removed.
 2. Perform initial research on what the packages original intent may have been and identify who owns/owned the use of the functionality. 
