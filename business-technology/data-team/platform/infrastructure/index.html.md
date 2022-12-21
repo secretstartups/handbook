@@ -535,7 +535,8 @@ For further details on the technical implementation see the README [here](https:
 
 When testing postgres pipeline (pgp) locally in Airflow, there are a few things to keep in mind:
 
-* A pool needs to exist for any pgp DAG. The pool can be added by going to Admin > Pools and then adding the same pools listed in https://airflow.gitlabdata.com/pool/list/
+* Previously, a pool needed to be added manually to Airflow, but running `make init-airflow` will now automatically add all the pgp pools to Airflow.
+* Prior to triggering the DAG, the `clone_raw_postgres_pipeline` [CI pipeline](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#clone_raw_postgres_pipeline) will need to be run. This pipeline clones a schema `tap_postgres` into a Snowflake 'dev' database that the DAG will write the data to.
 
 
 ## Bash Scripting
