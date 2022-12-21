@@ -91,6 +91,8 @@ If the Zap is working, you should see the calendar event copied within a minute 
 
 ## Generating a single-use Calendly link
 
+#### using Chrome plug-in / Firefox extension
+
 Calendly has a
 [Chrome plug-in](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp)
 and a [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/calendly-meeting-scheduling/)
@@ -103,18 +105,6 @@ your message to the customer.
 ![Browser plug-in](assets/calendly.png)
 
 If you do not want to use a supported browser, you can generate a link from your Calendly home page according to [the Calendly documentation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
-
-## Protecting Customer Call events by making them Secret in Calendly
-
-Customer Calls should be invitation-only. To do this, ensure all your Customer Call events are a `Secret event`. By doing this, only those who have the Calendly link to the specific event can see the meeting with you.
-
-**NOTE:** If you do not take this action, then anyone can see your Customer Call events on your public Calendly page.
-
-1. Edit any of your events (specifically, the ones that you use for Customer Calls).
-1. Go to `When can people book this event` section.
-1. Click `Additional rules for your availability`.
-1. At the bottom of the section, find the `Secret event` section.
-1. Check the box and save. Check the [Calendly documentation](https://help.calendly.com/hc/en-us/articles/1500004754122-Managing-additional-rules-for-your-availability#make-an-event-secret-0-6) in case of any issues.
 
 #### using curl
 
@@ -201,6 +191,18 @@ https -b  api.calendly.com/scheduling_links \
   owner=https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2 \
   | jq -r '.resource.booking_url'
 ```
+
+## Protecting Customer Call events by making them Secret in Calendly
+
+Customer Calls should be invitation-only. To do this, ensure all your Customer Call events are a `Secret event`. By doing this, only those who have the Calendly link to the specific event can see the meeting with you.
+
+**NOTE:** If you do not take this action, then anyone can see your Customer Call events on your public Calendly page.
+
+1. Edit any of your events (specifically, the ones that you use for Customer Calls).
+1. Go to `When can people book this event` section.
+1. Click `Additional rules for your availability`.
+1. At the bottom of the section, find the `Secret event` section.
+1. Check the box and save. Check the [Calendly documentation](https://help.calendly.com/hc/en-us/articles/1500004754122-Managing-additional-rules-for-your-availability#make-an-event-secret-0-6) in case of any issues.
 
 ## Auto block PagerDuty shifts in Calendly
 
