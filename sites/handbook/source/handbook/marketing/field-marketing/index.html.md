@@ -562,7 +562,7 @@ We do follow the global direction to translate content for [P0 and P1 priority c
 
 At times, there is a need to translate content outside of the priorities countries, please follow the process below. Keep in mind that only content used as part of a campaign and in support of a revenue goal will be approved.
 
-For complete details on Smartling, our translation tool, please see the [Smartling page.](/handbook/marketing/marketing-operations/smartling/)
+For complete details on Smartling, our translation tool, please see the [Smartling page.](/handbook/marketing/localization/smartling/)
 
 ## Outside of focus countries for GitLab owned events and campaigns
 - FMM to create the Content translation issue request using the [`FMM_localization_request`](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=FMM_localization_request) issue template
