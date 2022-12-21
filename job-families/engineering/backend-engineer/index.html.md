@@ -8,7 +8,7 @@ manual_cookiebot: true
 
 # Backend Engineering Roles at GitLab
 
-Backend Engineers at GitLab work on our product. This includes both the open source version of GitLab, the enterprise editions, and the GitLab.com service as well. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and [frontend engineers](/job-families/engineering/frontend-engineer) to solve common goals.
+Backend Engineers at GitLab work on our product. This includes both the open source version of GitLab, the enterprise editions, and the GitLab.com service as well. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and [frontend engineers](/job-families/engineering/development/frontend/) to solve common goals.
 
 Unless otherwise specified, all Backend Engineering roles at GitLab share the following
 requirements and responsibilities:
