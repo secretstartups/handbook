@@ -481,7 +481,8 @@ We often create documentation issues for a Hackathon. These issues are typically
 1. Create issues either:
    - One at a time, by using the [`Doc cleanup` issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Doc_cleanup.md).
    - In bulk, by using the [Issues API](https://docs.gitlab.com/ee/api/issues.html#new-issue) with the labels
-   `Seeking community contributions`, `good for new contributors`, `Technical Writing`, `docs-only`, and `documentation`. Copy the description from the `Doc cleanup` issue template.
+   `Seeking community contributions`, `quick win`, `Technical Writing`, `docs-only`, `documentation`, `docs::improvement`,
+   `type::maintenance` and `maintenance::refactor`. Copy the description from the `Doc cleanup` issue template.
 
 ### Assign an issue to a community contributor
 
