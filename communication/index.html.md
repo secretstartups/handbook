@@ -538,12 +538,12 @@ Some of the most common meetings problems are outlined below:
 If folks are involved in a meeting and have capacity to do so, they should take notes using GitLab's [Live Doc Meetings principles](/company/culture/all-remote/live-doc-meetings/). This is important, because:
 
 1. Meetings at GitLab should have notes (for a single source of truth and to enable async participation among other reasons)
-1. In the absence of this joint commitment to note-taking, this is work that is likely to fall disproportionately to [underrepresented groups](https://www.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html). This is not in line with our [diversity, inclusion, and belonging value](/company/culture/inclusion/).
+1. In the absence of this joint commitment to note-taking, this is the type of work that is likely to fall disproportionately to [underrepresented groups](https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/may/09/they-feel-guilty-why-women-should-say-no-to-office-housework). This is not in line with our [diversity, inclusion, and belonging value](/company/culture/inclusion/).
 
 
 It may look like a few people are already taking notes, do not see this as a deterrent for helping. Initial note takers may be first to show up and then see it as their responsibility to continue if no one else is stepping in. 
 
-Recording the meeting does substitute for taking notes. While meetings recordings are helpful, written notes are more efficient to read and offer greater opportunities for async engagement. 
+While meetings recordings are helpful, written notes are more efficient to read and offer greater opportunities for async engagement. Takes notes even when a meeting is being recorded.
 
 ### Engaging EBAs in note-taking
 [GitLab Executive Business Administrators](/handbook/eba/) sometimes support teams by taking notes. Since note taking takes time away from their other activities and can often be done by other folks, consider the following before engaging an EBA in a meeting solely for note taking purposes. 
