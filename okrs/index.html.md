@@ -129,15 +129,6 @@ You should decide your scoring methodology ahead of time. You might score an OKR
 
 OKRs do not replace or supersede core team member responsibilities or performance indicators. OKRs are additive and are essentially a high signal request from your leadership team to prioritize the work. They typically are used to help galvanize the entire company or a set of teams to rapidly move in one direction together. They are expected to be completed unless you have higher priority work that is surfaced and agreed to by leadership.  When surfacing tradeoffs, team members should not factor in how an unmet OKR may impact your executive leadership bonus in their prioritization. They should instead focus on GitLab priorities. If your executive leader still feels that the OKR is more important, they will ask you to *disagree and commit*. 
 
-## Ally.io for OKRs
-
-As of FY23-Q2, team members will use a third-party vendor, [Ally.io](https://ally.io/), for OKRs. While GitLab's Plan functionality is great for project management, it currently has limitations around cascading initiatives between teams and aggregated scoring. Ally.io will provide team members with a single source of truth for OKR tracking and reporting. Individuals and teams can still choose to operationalize their OKRs within issues and epics.
-
-All team members have access to Ally.io. New team members are automatically imported from Workday within a week of their joining. Access your Ally.io account by going to your Okta dashboard and clicking on your Ally tile or adding it as a tile, if you do not see it as one of your Apps.
-
-### Ally.io is not limited access
-
-Since all team members have access to information in Ally.io, it is a home for OKR details that are both [internal only](/handbook/communication/confidentiality-levels/#internal) and public. [Limited access details](/handbook/communication/confidentiality-levels/#limited-access) should not be captured here. All OKRs in Ally should be reviewed using the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ## Who sets OKRs?
 
@@ -252,29 +243,27 @@ Top level CEO KRs will appear in the handbook. OKRs have numbers attached to the
 
 Functional leaders are responsible for updating their objectives and KRs in Ally before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
-## How to Use Ally.io
+## How to Use GitLab for OKRs
 
 #### Objectives
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
-To add new objectives in Ally.io, follow the steps below:
-1. In Ally.io, click the add objective button. A dialogue box will open to allow you to enter key information.
+To add new objectives in GitLab, follow the steps below:
+1. In GitLab, click the [add objective button](https://docs.gitlab.com/ee/user/okr#create-an-objective).
 1. Enter a short but descriptive title for the objective.
-1. Identify and select the type of objective: individual, team or organization.
-1. Identify the owner for the objective.
-1. Identify the time period or quarter for the objective. 
-1. Outcome: Add the outcome for the objective, this will automatically be set to 100%. The outcomes added can be measured in % or numeric.
+1. Click on the objective to add more details.
+1. Identify the owner for the objective and assign them to the objective
+1. Identify the quarter for the objective and set the corresponding milestone. 
 1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.  
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
-1. Click create and the objective will be added.
 
 #### Key Results
-Each [Objective](#objectives) will contain one or more Key Result issues. 
-To add new key results in Ally.io, follow the steps below:
+Each [Objective](#objectives) will contain one or more sub-objectives or key results. 
+To add new key results in GitLab, follow the steps below:
 1. Find the objective that you created and want to add a key result. 
-1. On the right, hover over the more actions and select 'add key result', this will open a dialogue box to populate. 
-1. Enter a descriptive title for the key result.
-1. Check that the type, owner and time period are correct. 
-1. Add the outcome for the key results, outcome can either be measured in % or numeric. 
+1. Click [add new key result](https://docs.gitlab.com/ee/user/okr#add-a-child-key-result). 
+1. Enter a short but descriptive title for the key result.
+1. Click on the key result to add more details.
+1. Check that the owner, milestone and labels are correct. 
 1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. 
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Click create and the key results will appear under the corresponding objective. 
@@ -282,58 +271,30 @@ To add new key results in Ally.io, follow the steps below:
 Watch this video for how to add objectives and key results and align them with CEO OKRs(at the 3:00 minute mark): 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/HAQ6cXNAOEM" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/MFDnUzNadOQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 #### How to Align Team OKRs to the CEO OKRs
-Once team OKRs have been added to Ally.io, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not relate to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
+Once team OKRs have been added to GitLab, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not relate to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
 
 Follow the steps below to align team OKRs to the CEO OKRs: 
-1. Hover over the objective or key result you want to align, and click the three dots for more actions. 
-1. Select 'Edit Alignment". 
-1. In the search bar, search for the CEO key result for alignment.
-Note: All of the CEO OKRs start with the preface CEO.
-1. Hover over the key result you want to align to and click “Align” then “Done”.
-1. Your objective or key result is now aligned to the CEO's key result. 
+1. Click on the CEO objective you want to be the new parent for an objective/key result.  
+1. In the Child objectives and key results search bar, [find the objective or key result for alignment](docs).
 
-Follow these next steps to manage contribution:
-1. Back on the CEO page, hover over the objective you need to manage the contribution for and click the three dots for more actions. 
-1. Select 'Manage Contribution.'
-1. Hover over the contribution number for the key results that were added, and change it to 0%.
-1. Click 'Save'. 
+1. Your objective or key result is now aligned to the CEO's objective. 
 
-#### Building Ally.io Dashboards
-Once OKRs are loaded into Ally, you can build dashboards and reports for different views of the OKRs and their progress. Below are examples of dashboards for a [whole company view](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=11941) and a [Manager or Functional Leader](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=12234). These examples can be cloned using the steps in this video: [How to clone and move a dashboard](https://youtu.be/Eb4nS7UKOkQ)
 
-Example Dashboards:
-  
-![Whole Company Dashboard](/images/Companywide-Dashboard.png "Companywide Dashboard")
-
-![Manager or Functional Leader Dashboard](/images/Manager-or-Functional-Lead-Dashboard.png "Manager of Functional Leader Dashboard")
-
-##### Dashboard Resources
-* This short video (3 min) from Ally provides an overview of how to build a dashboard [Configuring Team Dashboards](https://www.loom.com/share/fb73cef1335d435bb04ab9a574005cc6)
-* Ally.io has [Dashboard templates](https://help.ally.io/en/articles/5468985-review-dashboard-templates#h_06d3fcc4d5) that can be used for reviews of real-time OKR data. 
-* There is also an option to [customize review dashboards](https://help.ally.io/en/articles/4362767-customize-review-dashboard) to fit the Team’s specific needs. 
-
-#### Tips and Tricks
-* [How to comment on an objective and key result](https://youtu.be/YajA4xOgdD0)
-* [How to add dependencies](https://youtu.be/6XzWlNMH440). Dependencies allow a team member to tag any OKR to other OKRs within Ally. This could be used when there is an OKR that requires a component of another OKR to be completed for success.
-
-#### Ally.io Resources
-* Learn the essential features of Ally.io with [Ally.io Software Essentials](https://learn.ally.io/ally-software-essentials) (16 mins) 
-* [Ally Help Center](https://help.ally.io/en/) 
 
 
 ## Maintaining the status of OKRs
 
-Teams should update the Health Status of their key results in Ally.io within the first five business days of every month and present the most recent update in the [Key Review](/handbook/key-review/) that immediately follows the Ally.io update. If a key result is off track, it should be clear why. The notes should be updated or there should be a link to an issue, an epic, or another source for details.
+Teams should update score for their key results in GitLab within the first five business days of every month and present the most recent update in the [Key Review](/handbook/key-review/) that immediately follows the  update. If a key result is off track, it should be clear why. The owner should leave a comment with the most recent Health Status or there should be a link to an issue, an epic, or another source for details.
 When presenting the status of OKRs, we use the following terms to denote the status of a key result:
 1. On track - the DRI is confident the key result will be achieved.
 1. Needs attention - the DRI believes there is some risk the key result will be achieved. Elevated attention is required in order for the key result to be achieved.
 1. At risk - the DRI does not expect the key result will be achieved. Urgent action is required in order for the key result to be achieved.
 
-A Key Results health status should be maintained as the SSOT on the status. This is something that should be able to be referenced at any point in order to get a clear view of progress against the objective. The objective will roll up the health statuses of all relevant KRs. 
+An Objective/Key Results health status should be maintained as the SSOT on the status. This is something that should be able to be referenced at any point in order to get a clear view of progress against the objective. The objective owner will be responsible for designating a health status based on a roll up the health statuses of all relevant KRs. 
 
 During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides){:data-ga-name="okr slides"}{:data-ga-location="body"} and links to relevant OKRs.
 
