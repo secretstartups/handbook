@@ -46,7 +46,7 @@ In general each of the self-managed tiers match the features in the GitLab SaaS 
 1. We want to know if a user is using self-managed or GitLab SaaS based on a just the tier name to prevent internal and external confusion.
 
 When we need to specify which tier includes a particular feature using only one word (for example on our issue tracker), we reference the self-managed tiers by default because they tend to contain a superset of the GitLab SaaS tier features.
-Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like in [a release post](/blog/2018/02/22/gitlab-10-5-released/#instant-ssl-with-lets-encrypt-for-gitlab)).
+Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like in [a release post](/releases/2018/02/22/gitlab-10-5-released/#instant-ssl-with-lets-encrypt-for-gitlab)).
 
 ## Libre, gratis, and free
 When discussing their work, open source communities typically use the words "gratis" and "libre" instead of the word "free" to describe the nature of the software they create. This is because the English word "free" is an ambiguous word that can have several meanings: "no cost" ("free as in beer"), "with few or no restrictions" ("free as in speech"), or both. Open source communities therefore prefer to use the unambiguous term "gratis" when referring to "no cost" software and the term "libre" when refer to software "with few or no restrictions." Open source software is "libre" in that anyone is "free" to inspect, modify, and redistribute it. But open source software may or may not be "gratis."
