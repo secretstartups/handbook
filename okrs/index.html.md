@@ -163,32 +163,32 @@ CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
 ### Executives propose OKRs for their functions
 
-**Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions in the OKR draft review meeting agenda. After this meeting, as OKRS are finalized, functional OKRs should be posted in Ally.io. This should be noted through a Slack message in the #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives by commenting directly on them. While the CEO is the DRI, this responsibility may be delegated to the CoS to the CEO. The CoS to the CEO will also post CEO OKRs in Ally.io. 
+**Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions in the OKR draft review meeting agenda. After this meeting, as OKRS are finalized, functional OKRs should be posted in GitLab. This should be noted through a Slack message in the #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives by commenting directly on them. While the CEO is the DRI, this responsibility may be delegated to the CoS to the CEO. The CoS to the CEO will also post CEO OKRs in GitLab. 
 
 Each executive should aim for a maximum of 3 objectives. Each objective has between 0 and 3 key results. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets. Teams within a function can have zero objectives and key results. 
 
-Function objectives should cascade from one of the CEO's OKRs in Ally.io.
+Function objectives should cascade from one of the CEO's OKRs in GitLab.
 
 Executives should consider how their OKR efforts can have the greatest impact on the organization. Functions can have objectives under any of the three CEO OKRs. For example, the People Team could have an objective under the CEO's Net ARR OKR if it identified that a specific enablement activity was key to driving sales or the Sales Team could have an objective under the CEO's Great Teams OKR if it were focused on improving team diversity. Functions should not be pigeonholed into the CEO OKR that appears to be most directly related to the function.
 
-When ready for review or when changes to objectives or KRs are made, relevant objectives and KR links from Ally.io should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO. The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
+When ready for review or when changes to objectives or KRs are made, relevant objectives and KR links from GitLab should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO. The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
 
-Function objective should cascade from one of the CEO's OKRs in Ally.io using the steps below:
-OKR owners should author new OKRs in their corresponding Department/Sub-department/Compartment/Team in Ally.io.
-   1. In Ally, navigate to your Team by selecting **All Teams** from the lefthand side. If you do not see your team, contact the CoST.
-   1. Verify you are in your Team and in the relevant Fiscal Quarter, and click **Add an Objective.**
-   1. Enter the title of the Objective. 
+Function objective should cascade from one of the CEO's OKRs in GitLab using the steps below:
+   1. In GitLab, navigate to the OKRs project and click [add objective](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
+   1. Enter the title of the objective. 
+   1. Click on the objective to add additional details.
    1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
+   1. Set the your team as the owner for the OKR by assigning the proper labels.
 
 ### OKR Draft Review Meeting
 
 In the week that begins **three Mondays** before the start of the fiscal quarter, there is an OKR Draft Review Meeting for the e-group. This meeting is an opportunity for executives to get feedback from one another and highlight any dependencies on other functions to one another.
 The agenda for this meeting is structured as follows:
 1. Function
-   1. Link to the objective in Ally.io
+   1. Link to the objective in GitLab
    1. Dependencies: call out any dependencies
 
-If additional action needs to be taken by the functional leader, the Ally.io link should be re-shared in the #okrs channel in Slack when it's ready for final review.
+If additional action needs to be taken by the functional leader, the GitLab link should be re-shared in the #okrs channel in Slack when it's ready for final review.
 
 ### Cascade!
 
@@ -196,7 +196,7 @@ Now that Executive (function-level) OKRs are set
 (as set as things are at GitLab; everything is always in Draft!),
 Executives shift their focus to finalizing OKRs to their team.
 
-This is also the opportunity to create team OKRs in Ally.io (objectives and key results) and add them to the relevant CEO and executive OKR.
+This is also the opportunity to create team OKRs in GitLab and add them to the relevant CEO and executive OKR.
 
 
 ### Dependency Commitments
@@ -207,9 +207,9 @@ It is each team's responsibility to proactively identify dependencies in which t
 
 ### Documenting How to Achieve
 
-In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. We now have shorter OKR Review Meetings (50 minutes). In these E-Groups, team members should share their drafts in the agenda linked in the calendar invites. As functional OKRs are finalized, they should be entered in Ally.io and the links should be shared in the #okrs channel (tag the CoS to the CEO and CEO for approval).
+In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. We now have shorter OKR Review Meetings (50 minutes). In these E-Groups, team members should share their drafts in the agenda linked in the calendar invites. As functional OKRs are finalized, they should be entered in GitLab and the links should be shared in the #okrs channel (tag the CoS to the CEO and CEO for approval).
 
-Ally.io entries should include the following fields:
+GitLab entries should include the following fields:
 
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
 1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}. Other key team members and their roles can also be captured in this section.
@@ -218,7 +218,7 @@ Ally.io entries should include the following fields:
 
 ### The quarter begins
 
-The Chief of Staff to the CEO takes CEO OKRs and updates the OKR handbook page for the current quarter to be active. Each objective and KR should include the related Ally.io link. The CoST for the CEO should also create the handbook page for the following quarter and document the OKR process timeline. 
+The Chief of Staff to the CEO takes CEO OKRs and updates the OKR handbook page for the current quarter to be active. Each objective and KR should include the related GitLab link. The CoST for the CEO should also create the handbook page for the following quarter and document the OKR process timeline. 
 
 The CoS to the CEO shares the handbook update MR in the #okr channel in Slack and @ mentioned e-group. .
 
@@ -232,23 +232,23 @@ We value [iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:da
 
 Please note that iteration **does not** mean [changing or lowering goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
 
-It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, flag the Ally.io change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon. At this point, you can also update any associated issues and epics that exist.
+It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, flag the GitLab change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon. At this point, you can also update any associated issues and epics that exist.
 
-In the event that a functional objective that is captured in Ally.io needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
+In the event that a functional objective that is captured in GitLab needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
 
 
 ## Format of OKR on the Handbook Page
 
-Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in Q2 FY23, we're putting functional objectives and KRs in Ally.io and linking this to the handbook page. We made this change because Ally.io enhances our ability to draw connections between and cascade OKRs throughout GitLab. It also provides a SSoT for OKRs. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
+Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in FY24-Q1, we're putting functional objectives and KRs in GitLab and linking this to the handbook page. It also provides a SSoT for OKRs.
 
-Functional leaders are responsible for updating their objectives and KRs in Ally before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
+Functional leaders are responsible for updating their objectives and KRs in GitLab before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
 ## How to Use GitLab for OKRs
 
 #### Objectives
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in GitLab, follow the steps below:
-1. In GitLab, click the [add objective button](https://docs.gitlab.com/ee/user/okr#create-an-objective).
+1. In GitLab, click the [add objective button](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
 1. Enter a short but descriptive title for the objective.
 1. Click on the objective to add more details.
 1. Identify the owner for the objective and assign them to the objective
@@ -260,7 +260,7 @@ To add new objectives in GitLab, follow the steps below:
 Each [Objective](#objectives) will contain one or more sub-objectives or key results. 
 To add new key results in GitLab, follow the steps below:
 1. Find the objective that you created and want to add a key result. 
-1. Click [add new key result](https://docs.gitlab.com/ee/user/okr#add-a-child-key-result). 
+1. Click [add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result). 
 1. Enter a short but descriptive title for the key result.
 1. Click on the key result to add more details.
 1. Check that the owner, milestone and labels are correct. 
@@ -268,10 +268,10 @@ To add new key results in GitLab, follow the steps below:
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Click create and the key results will appear under the corresponding objective. 
 
-Watch this video for how to add objectives and key results and align them with CEO OKRs(at the 3:00 minute mark): 
+Watch this video for a demo on how to use GitLab for OKR management: 
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/MFDnUzNadOQ" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/MFDnUzNadOQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 #### How to Align Team OKRs to the CEO OKRs
@@ -279,7 +279,7 @@ Once team OKRs have been added to GitLab, they can then be aligned to relevant C
 
 Follow the steps below to align team OKRs to the CEO OKRs: 
 1. Click on the CEO objective you want to be the new parent for an objective/key result.  
-1. In the Child objectives and key results search bar, [find the objective or key result for alignment](docs).
+1. In the Child objectives and key results search bar, [find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results).
 
 1. Your objective or key result is now aligned to the CEO's objective. 
 
@@ -320,7 +320,7 @@ Please update scores in addition to status in Key Result Meetings.
 ## Everyone can contribute
 
 Everyone is welcome to a suggestion to improve any OKR.
-To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO. If commenting on a functional objective or KR, comment directly on the OKR in Ally.io.
+To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO. If commenting on a functional objective or KR, comment directly on the OKR in GitLab.
 
 ## OKR resources:
 * [With Goals, FAST beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
