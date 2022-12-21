@@ -13,7 +13,8 @@ If you need assistance:
 
 - Post in `#sec-appsec` with details
 - Find the AppSec engineer providing coverage - see [Communicating the coverage](#communicating-the-coverage) below
-- Reach out to the team member both via Slack `@` mention or, if very urgent, via txt message and/or phone call
+- Reach out to the team member via Slack `@` mention
+- If urgent or the team member does not respond in a timely manner, reach out via text message or phone call after checking the contact preferences listed on their Slack profile
 - If it is unclear who is providing coverage, ping the `@appsec-team` in Slack
 
 # Expectations for those doing coverage
