@@ -25,7 +25,7 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 
 
 
-#### [Video Explanation of list upload process](#) - Needs to be created
+#### [Video Explanation of list upload process](https://drive.google.com/file/d/1Wp3yYLZAPeBJs9J7wIBF3R8wFaGN0SF3/view?usp=share_link)
 
   
 
@@ -87,7 +87,13 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 
 ![Slack alert](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
 
-</details> 
+</details>
+
+**If you want to receive these notifications you can subscribe to the import complete notification labels.**
+
+Pubsec field marketers need to use `List Upload Complete` label on either list import issue or another event related issue if no list upload issue is made. This is optional for private sector uploads. SDR/BDR/Sales can subscribe to this label to get notifications when the import is complete 
+
+ 
 
 **Step 5 - Review the report**
 {: .alert .alert-info}
@@ -455,7 +461,7 @@ The following data cleanup is required for any list prior to sending it to the M
 | Nepal                                        | Wisconsin                            |                         |
 | Netherlands                                  | Wyoming                              |                         |
 | New Caledonia                                | Yukon Territories                    |                         |
-| New Zealand                                  | Washington DC                        |                         |
+| New Zealand                                  |                         |                         |
 | Nicaragua                                    |                                      |                         |
 | Niger                                        |                                      |                         |
 | Nigeria                                      |                                      |                         |
@@ -543,3 +549,46 @@ The following data cleanup is required for any list prior to sending it to the M
 | Zimbabwe                                     |                                      | 
  
 </details>
+
+## FAQ 
+
+**Q: Why do my interesting moments show Attended {{my.event name}}, which starts on {{my.event date}}. Location: {{my.event location}}?**
+
+A: Your tokens were not filled out before the time of the import. A new batch campaign will need to be created to update this information. 
+
+**Q: I haven’t received a notification that my import is complete, how can I check its status?**
+
+A: If you have access to log into Marketo, navigate to the campaign and you can see the number of leads that have been loaded. Check these numbers against your CSV file to see its progress. Refresh this page periodically to see if those numbers continue to increase. If they seem to have stopped and don’t match your final numbers you can notify mktgops and we can check for any failures. 
+
+**Q: Can I use this system to update information on a list that already exists? (Ex: I need to change their opt-in status or their employee bucket numbers.)** 
+
+A: Yes, you can create a CSV list with the members email and the column data you want to update and import the same way, this will update the records. 
+
+**Q: What’s taking so long?!?**
+
+A: Workato is running the leads through all the processing needed to add leads, update fields, and sync to SFDC. Due to Workato and Google Workspace’s integration, there is a built-in delay to prevent the API from being over-taxed and canceling the job halfway through. With larger lists, the process can take some time but we do not expect the process to go over the 24 hour SLA. As an example; we have seen lists of non english leads of upwards of 800+ taking close to 14 hours to fully complete.
+
+
+- Example: Uploaded at 1:20PM -> Progress check at 3:00PM: (467 members added so far out of the 807 total) -> 
+Import Complete Message at 3:14AM.
+
+**Q: Can I use this process for submitting On24 event notes?**
+
+A: Not at this time. There will be a separate processing flow built to automate this process.
+
+**Q: Is there a size limit for lists?**
+
+A: So far we have tested list sizes primarily around `1,000` leads in size. We have no reason to believe there is a limit but the list size does seem to affect processing time. If the list is 2,000 or more, consult MktgOps as this may affect processing time. 
+
+
+
+
+
+
+
+
+
+
+
+
+

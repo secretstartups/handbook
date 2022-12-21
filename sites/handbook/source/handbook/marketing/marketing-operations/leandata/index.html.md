@@ -87,3 +87,15 @@ Lead volume low? Receiving leads from an account or territory you're not assigne
 
 ### General questions
 Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) following the format in the issue template.
+
+
+## LeanData Lead Flow Update Process
+
+- Every Monday, create a clone of the Live Lead Routing flow and name it " LIVE ON following Monday's Date: Summary of edits" - Eg "Live on 12/12: Related Campaign Member/Distribution edits"
+
+- This logic will be the flow that everyone adds their updates to for the week (if any).
+
+- If you need to play around with the logic/your updates will take longer than a week to build, create a separate clone to do so and then add the final edits into the next draft that will go live.
+
+- If there are any urgent updates needed, make the draft flow live, but create a new clone for people to continue working on.
+

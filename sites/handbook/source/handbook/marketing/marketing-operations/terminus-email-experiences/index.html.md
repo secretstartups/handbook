@@ -12,7 +12,7 @@ description: "Terminus Email Experiences is a marketing tool used as an advertis
 
 ## Uses
 
-Terminus Email Experiences is a marketing tool used as an advertising channel inside the inbox. 
+Terminus Email Experiences is a marketing tool used as an advertising channel inside the inbox (formerly known as Sigster). 
 
 ## Training & Help
 

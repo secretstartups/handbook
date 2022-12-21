@@ -10,7 +10,10 @@ description: "The MktgOps team is responsible for importing records into Marketo
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.
+### FYI - Future State
+Mops is in the process of moving list imports to a [self-service and automated model](/handbook/marketing/marketing-operations/automated-list-import). We are still manually importing, but the future state will remove Mops uploading lists.
+
+Currently, the MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.
 
 #### [Video Explanation of list upload process](https://drive.google.com/file/d/1Q9KtQbitoBHszV46zslxcKVStA-V5avG/view?usp=sharing)
 
@@ -118,7 +121,7 @@ Its also super important that if there are notes, the notes are clear to someone
      - State (United States and Canada only)
      - [Campaign Member Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status)
      - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
-- Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred and requested by the `Director of Marketing Department` to be included. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
+- Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred.. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
      - Employee Bucket or Number of Employees
           - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`.
           - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
@@ -172,108 +175,17 @@ In the event that a manual upload needs to occur for operational needs:
 - Some notable `Operational` programs already in place are listed below with links. This section will be updated on a needed basis:
      - [Opt-Outs](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6347A1)
 
-<!--### Operations Upload Instructions 
 
-* [Field & Corporate Event Import](#field-and-corporate-event-import)
-* [Alliance Event Import](#alliance-event-import)
-* [Ad Hoc Import](#ad-hoc-import)
 
-#### Field and Corporate Event Import
 
-##### Booth Leads
-{:.no_toc}
 
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Leads are updated to  `Visited Booth`
--  `Follow Up Requested` is used if notes indicate a meeting request
-- All leads `Visited Booth` or `Follow Up Requested` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
-- Update empty status/contact status of `Visited Booth` leads to `Inquiry` unless `Follow Up Requested` 
-- If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead 
-- Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
-##### Booth Leads - Received full attendee list
-{:.no_toc}
 
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Full attendee list gets marked as `Attended` and X amount who visited our booth get marked `Visited Booth`
-- Only `Visited Booth` and `Follow Up Requested` get Bizible touchpoints
-- Update empty `person source` by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
-- If attendee is not marked as `Visited Booth` or `Follow Up Requested`, update empty status/contact status to `Raw` 
-- If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
-- Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
-##### Webcast and Virtual Sponsorship Leads
-{:.no_toc}
 
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Update attendees campaign status to `Attended`
-- Run a workflow to change left over `Registered` to `No Show`
-- Only `Attended` get Bizible touchpoints
-- Update empty Person Source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
-- If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
-- Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
-##### Speaking session leads
-{:.no_toc}
 
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Only leads who have attended one of our speakers get marked as `Attended`
-- Only `Attended` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source `is empty` change Person Source to `event type`"
-- If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
-- Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
-##### Public Sector Leads
-{:.no_toc}
-
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Leads are updated to `Visited Booth`
-- All leads `Visited Booth` or `Follow Up Requested` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
-- If attendee is not marked as `Visited Booth` or `Follow Up Requested`, update empty status/contact status to `Raw`
-- If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
-- Post announcement to `#public-sector` and `#public-sector-isr` Slack channels
-
-#### Gated Content - First and Third Party
-
-- Create folder in corresponding Marketo program called “Lists”
-- Add a static list to the folder title with the same Campaign_Name_Leads
-- Check that Interesting Moments Smart Campaigns have been correctly activated and list the downloaded content
-- Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
-- Leads are updated to `Downloaded`
-- All leads `Downloaded` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`" -->
-
-#### Alliance Event Import
-
-The Alliance list import follows the same guidelines as above
-
-##### Process
-{:.no_toc}   
-
-1. Follow the instructions above. 
-1. In **Marketo**, navigate to the static list file and `Select All` records. 
-1. Under the `Person Actions` menu, navigate to `Marketing` -> `Change Data Value` 
-1. In the lightbox, `Attribute` = `Alliance Record` / `New Value` = `true` -> then press `**Run**`
-     * The `Alliance Record` checkbox activates: 
-          * Correct ownership assignment in LeanData
-          * Suppression of records in general Marketing communication
 
 
 ### Trusted vs Non-Trusted Imports

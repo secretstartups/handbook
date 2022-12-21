@@ -26,7 +26,7 @@ MailJet is used by only certain Marketing Ops and Marketing Campaigns users.
      - Account Updates (Account and pricing notifications, etc)
      - Privacy Policy Updates
 - Non-database sends
-     - Community alerts
+     - Community alerts + newsletter
 
 ### Requesting Email Send from MailJet
 If the email is an emergency, please follow directions on [this page](/handbook/marketing/emergency-response).

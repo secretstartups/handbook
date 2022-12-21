@@ -452,6 +452,7 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Bronze 
 - SM Trial
 - SaaS Trial
+- Free User - with previous trial
 - Free User
 - Default
 

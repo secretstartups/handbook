@@ -18,6 +18,28 @@ Email creation and email nurture programs are managed by the Campaigns Team. To 
 
 All emails sent should be updated in the [FY23 All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs)
 
+### Types of Email
+
+**Breaking Change/Operational**
+These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
+
+It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
+
+**Non-Demand Generation**
+Emails that are not cosidered `operational` but also do not fit the categories below. Examples are Surveys, TeamOps sends, etc. If you need a non-dg email, please use [follow directions below](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
+
+**Newsletter**
+The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
+
+**Security Releases**
+Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
+
+**Webcasts**
+Invitation and/or notification emails sent about future webcasts.
+
+**Live Events**
+Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
+
 
 ### Email Communication Policy
 
@@ -70,17 +92,12 @@ Please reference and use the [All-Marketing SSOT Calendar](/handbook/marketing/#
 
 ## Request non-Demand Generation Emails
 Non-DG emails are sometimes required for product updates, security alerts, survey emails and more. If this is an emergency, follow the directions [here](/handbook/marketing/emergency-response/#marketing-emergency-response) Otherwise, please complete the following:
-1. [Create email issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#request-operational-email)
-1. If necessary, [create a list request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#request-target-list)
+1. [Create email issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-operational-email)
+1. If necessary, [create a list request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-target-list)
 
 These issue templates are different from `marketing` emails and have their own checklists that apply. A general SLA is 5 business days from final assets to send, but please put in issues as soon as you know you need to complete a send (even if you do not have final deliverables) as complexity may push out the SLA. Here are some [helpful tips](/handbook/marketing/emergency-response/#customer-comms-email) to consider when sending a customer email. 
 
-## How to Unsubscribe
-If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
-1. Send the person to the [Email Subscription Center](https://about.gitlab.com/company/preference-center/index.html) to update their preferences
-1. Send the person to the unsubscribe page (https://page.gitlab.com/UnsubscribePage.html) to unsubscribe from ALL communication
-1. On the person's SFDC record, check the `email opt out` box, which will then update the unsubscribe checkbox in Marketo and Outreach.
-1. If they are not in SFDC or refuse to go to unsubscribe page, the Marketing Operations team can manually unsubscribe them in Marketo. Create a confidential issue and alert the team in #mktgops.
+
 
 ### Operational / Bypass Unsubscribe
 Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please follow this [decision tree](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email. 
@@ -89,27 +106,14 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 
 
 
-### Types of Email
+## How to Unsubscribe
+If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
+1. Send the person to the [Email Subscription Center](https://about.gitlab.com/company/preference-center/index.html) to update their preferences
+1. Send the person to the unsubscribe page (https://page.gitlab.com/UnsubscribePage.html) to unsubscribe from ALL communication
+1. On the person's SFDC record, check the `email opt out` box, which will then update the unsubscribe checkbox in Marketo and Outreach.
+1. If they are not in SFDC or refuse to go to unsubscribe page, the Marketing Operations team can manually unsubscribe them in Marketo. Create a confidential issue and alert the team in #mktgops.
 
-**Breaking Change/Operational**
-These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
 
-It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
-
-**Non-DG**
-Emails that are not cosidered `operational` but also do not fit the categories below. Examples are Surveys, TeamOps sends, etc. 
-
-**Newsletter**
-The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
-
-**Security Releases**
-Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
-
-**Webcasts**
-Invitation and/or notification emails sent about future webcasts.
-
-**Live Events**
-Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
 
 
 ### Partners and Email Communication
@@ -124,3 +128,8 @@ If a person opts-out of GitLab email, it does not opt them our from Partner comm
 ### Requesting, Creating, and Approving New Email Templates
 
 This section is currently under construction while we develop the process.
+
+### Monitoring Email Bounce Frequency
+As a way to cut down on bounced emails and protect our IP, the Marketo program [Directory of Leads Bouncing Emails](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG13085A1) has been created. Using a series of triggers, the program records soft and hard bounce email history and appends that data to leads. The leads are then collected within the program and its static list, but will automatically be removed from the [Active Bounce List](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ST25117A1LA1) static list if an email is eventually delivered to that lead. The `Bounce Details` list collects all relevant bounce data on the lead while `Successful Records` tracks leads that have been removed from the `Active` static list. A few things to note about this program:
+ - Due to Marketo limitations, the [Bounce Spike Alert](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC33241A1ZN19) set to email the Awareness & Conideration wing of the MktgOps team will occassionally need to be updated as we grow the team or lose members. There is not a way to have this alert send to all Marketo admins, so instead the alert is set to email individual emails. 
+ - Also due to Marketo limitaions, to utilize the [Bounce Details](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL53109072A1LA1) and [Successful Resends](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL53109462A1LA1) smart lists each Marketo user will need to create the intended smart list view since an individual's list views cannot be shared between other Marketo users. The view consists of these columns: `Email`, `Email Invalid`, `Email Bounce Category`, `Email Bounce Subject Lane`, `Email Bounce Details`, `Email Bounce Date_mkto`, `Email Bounces`, `Delivers After Bounces` and `Email Delivered After Bounce`. 

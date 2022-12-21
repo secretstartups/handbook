@@ -295,15 +295,12 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
 - [Alocadia](/handbook/marketing/strategy-performance/allocadia/)
-- Eventbrite
 - Hopin
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
 - Reachdesk
-- [Rev](/handbook/marketing/marketing-operations/rev)
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
-- Swiftype
 - Survey Monkey
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
 
@@ -337,19 +334,22 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ### Tool usage and tool access
 
-For budgetary reasons, Marketing Operations will be performing quarterly, and for some tools bi-quaterly, audits on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days or more, they will have access to that tool revoked with 5 business days of notification via email. Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
+For budgetary reasons, Marketing Operations will be performing quarterly, bi-quaterly and for some tools monthly audits, on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days (30 days for Zoominfo) or more, they will have access to that tool revoked with 5 business days of notification via email or slack (for Zoominfo). Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
 
 - Tools included under the quarterly guidelines
   - Outreach
-  - ZoomInfo
   - Linkedin Sales Navigator
   - PathFactory (`author` and `admin` roles)
   - On24
+
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
   - Terminus (formerly Sigstr)
   - Drift
   - Marketo
   - Litmus 
+
+- Tools included under the monthly guidelines: 
+  - Zoominfo (for more information regarding the Zoominfo process feel free to review the [Process: Monthly ZoomInfo License Review GDoc](https://docs.google.com/document/d/1-_miWHyUPxcgJxoGWTPLI41bVFveBFYjthpW8M3Ui48/edit)
 
 ### Remaining Licenses Communications Plan
 
@@ -390,21 +390,8 @@ If a field needs to be created in Marketo AND SFDC, you must create in SFDC firs
 - [Steps to getting help from Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
 - [Sales Systems Charter](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
 
-## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
-| **GL Code** | **Account Name** | Purpose |
-| ----------- | -----------------| ------- |
-| 6060 | Software Subscriptions | All software subscriptions |
-| 6100 | Marketing  | Reserved for Marketing GL accounts |
-| 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
-| 6120 | Advertising | All media buying costs as well as agency fees and software subscriptions related to media buying |
-| 6130 | Events | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
-| 6135 | Swag | Any swag related expense |
-| 6140 | Email | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation |
-| 6150 | Brand | All PR, AR, content, swag and branding costs |
-| 6160 | Prospecting | Not used - All costs related to prospecting efforts |
-
-### Invoice Approval
+### <i class="fas fa-receipt" id="biz-tech-icons"></i> Invoice Approval
 
 Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
 

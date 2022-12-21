@@ -123,6 +123,15 @@ White Paper or other content offer.
 | No Action | default starting position for all records |  |
 | Downloaded | Downloaded content | Yes |
 
+#### Inbound - offline
+
+**Bizible:** This is tracked as an _offline_ channel because touchpoints cannot be applied directly via online means, e.g. Drift and PQL handraises
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| No Action | default starting position for all records |  |
+| Requested Support | Took a handraise action to request support from the GitLab team ||
+| Requested Contact | Filled out Contact, Professional Services, Demo or Pricing Request | Yes |
 
 #### Inbound Request
 
@@ -133,6 +142,7 @@ Any type of inbound request that requires follow up.
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
+| Requested Support | Took a handraise action to request support from the GitLab team ||
 | Requested Contact | Filled out Contact, Professional Services, Demo or Pricing Request | Yes |
 
 #### Operational
@@ -171,6 +181,15 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Attended On-demand| Watched/consumed the presentation materials post-event on-demand| Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
+#### Pail Social
+
+This program is designated to house leads and programs brought in by social related campaigns, e.g. Linkedin campaigns.
+
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| No Action | default starting position for all records |  |
+| Responded | Took an action related to social campaigns, like a form fill  | Yes |
 
 #### Partner - MDF
 
@@ -910,12 +929,14 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
 
 ### Removing SPAM from Marketo Programs and Zoom
-On occassion, SPAM bots attack our webcast registration. Follow these steps to remove from Marketo, SFDC and Zoom. You must remove them from the program BEFORE deleting, otherwise you'll need to manually remove in Zoom. You must open an issue with Mops to complete. Please include the marketo program link in your issue request.
+On occassion, SPAM bots attack our webcast registration. Follow these steps to remove from Marketo and SFDC. You must open an issue with Mops to complete. Please include the marketo program link in your issue request and the dates of the event. The SPAM registrants will not be removed from zoom, and will need to be manually removed. However, it is OK to leave them in the zoom campaign, because it will not affect your campaign numbers.
 1. Find the program in marketo
 2. Isolate the SPAM and add them to a newly created static list.
-3. Remove the SPAM from the program, by `Select All` in the static list. Then right clicking then Marketing > Change Program Status. Choose the Campaign and update the status to `Not in Program` This will also remove them from Zoom thanks to the integration between the two.
+3. Remove the SPAM from the program, by `Select All` in the static list. Then right clicking then Marketing > Change Program Status. Choose the Campaign and update the status to `Not in Program` This will also remove them from Salesforce.com campaign
 4. Go to your static list. Highlight all and `Delete Person`
 5. Agree to popup, and also remove from SFDC. 
+
+After program ends, double check your Marketo program for SPAM, as people that registered (but were excluded from registration filters) would be added to program as `No Action` becuase the form is a part of that program. Re-run the steps above to fully remove them from any campaingn stats.
 
 ## Canceling an Email send
 There are cases where an email is set to send, but you need to cancel it. There are a few ways to do this based on the type of program.

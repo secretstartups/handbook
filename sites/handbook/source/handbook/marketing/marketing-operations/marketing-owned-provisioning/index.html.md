@@ -17,12 +17,6 @@ Marketing Operations manages the majority of marketing-owned systems. These can 
 ## Instructions
 Below are instructions and accompnaying screenshots of how to provision new users within various marketing-owned systems.   
 
-### DiscoverOrg
-1. From the [manage users](https://go.discoverydb.com/eui/#/users) page in DiscoverOrg, click on the **Create a New User** button.    
-     ![](/images/handbook/marketing/DiscoverOrg-ManageUser.png)
-1. Fill out the required fields (all but *title* and *reports to* and click **Save**)    
-     ![](/images/handbook/marketing/DiscoverOrg-AddNewUser.png)
-
 
 ### LinkedIn Sales Navigator (LISN)
 1. From the [seat management](https://www.linkedin.com/sales/admin/seats?trk=d_sales2_nav_admin) tab of LISN, click the **Assign seats from CRM** button   

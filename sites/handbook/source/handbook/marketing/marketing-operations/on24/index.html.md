@@ -70,9 +70,52 @@ Please note, you will not be able to access these trainings until you have an ON
 
 ## Use of tags
 
-We will add additional tags as we progress with the platform. Current tags in use:
-  - `DO NOT USE`: self- explanatory hopefully 
-  - `Template`: Use this webcast when cloning a new webinar event
+Current use of tags will not supercede use of marketing analytics filters elsewhere and will primarily be used within On24 Analytics to review virtual event performance. There is a limit of `10` tags per event. Each tag has an intended grouping, like `workshops` or `webcasts` or for tracking the intended `target audience` or the virtual event's primary or available languages. 
+
+Tags in On24 will only be available in the tag dropdown if they have already appeared in a previous console build. Due to this limitation, as the tags are used on **live** virtual events, they should be removed from the template and test consoles where they were initially placed - so those empty consoles do not affect analytics. MktgOps will own the task of periodically removing the tags from template and test consoles, but it is appreciated if others take the initiative. 
+
+Below are tags the teams have strategitically created, but feel free to create your own custom tag if you find a practical use for it. Current `40` tags in use for the teams:
+
+* `DO NOT USE`: Added to templates created by the On24 team that we do not intend to use at GitLab
+* `Template`: Use a console with this tag when cloning a new webinar event. Remove the tag from any console template intended to go live. There should, for the time being, only be 4 consoles with this tag
+* `GitOps`
+* `DevOps Platform`
+* `CI`
+* `CD`
+* `Automated Software Delivery`
+* `Competitive`
+* `Language: Japanese`
+* `Language: Korean`
+* `Language: French`
+* `Language: German`
+* `Language: Italian`
+* `Language: Spanish`
+* `Language: English w/ interpreter`
+* `Type: Workshop`  (Used for Field Marketing Hands-on workshops)
+* `Type: Webcast` (only used when another type is not used)
+* `Type: ABM Webcast` (Used for events designed for a single or small subset of specific accounts)
+* `Type: GTM Webcast` (A webcast aligned with a GTM, produced by the GTM team.)
+* `Type: Technical Demo Series` (Used for the weekly Technical Demo Series)
+* `Audience: Partners`
+* `Audience: Customers - Practitioners`
+* `Audience: Customers - Managers`
+* `Audience: Customers - Execs`
+* `Audience: Prospects - Practitioners`
+* `Audience: Prospects - Managers`
+* `Audience: Prospects - Execs`
+* `Audience: Channel`  (Directly targeting the channel partner, any member of the partner organization) 
+* `Audience: Channel Marketing` (Any activity directly targeting the marketing people within the channel/partner organization)
+* `Global`
+* `APAC`
+* `EMEA`
+* `AMER`
+* `US Public Sector`
+* `All Segments`
+* `SMB`
+* `MM`
+* `ENT`
+* `Case Study` (Used on any webcast that presents a customer story)
+* `Partner Involved` (Used on any webcast that is co-branded or has a partner speaking on the webcast)
 
 
 # Creating an ON24 Webcast
@@ -162,9 +205,25 @@ Follow these steps to apply a console template:
 
 ### Connecting On24 Web Events to Marketo Programs
 
+##### Marketo Program Templates and the Differences 
+
+- Alliance template: [YYYYMMDD_EventName_Alliance_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13129A1)
+  - This program uses `FORM 3299: Alliances` and fills in the `CRM Partner ID` field using the `my.partnerid}} program token. Be sure to fill in the token. 
+- Partner template: [YYYYMMDD_EventName_Channel_Partner_Webcast_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13050A1)
+  - This program uses the `FORM 3432: Channel Partner Webcast` form. This form fills in field `Channel Record` with `true` in order to appropriately route the registrants. 
+- Webcast template: [YYYYMMDD_EventName_Webcast_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12620A1)
+  - This is a standard webcast program with no bells and whistles, uses `FORM 1592 Webcast`. 
+- Workshop templates: 
+  - Each of the workshop program templates comes premade with content specific to the workshop topic. Topics are: CICD, DevOps Automation, Jenkins Migration, Project Management and Security. 
+    - [YYYYMMDD_EventName_CICD_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12266A1)
+    - [YYYYMMDD_EventName_DevOps_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13018A1)
+    - [YYYYMMDD_EventName_Jenkins_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13023A1)
+    - [YYYYMMDD_EventName_ProjectManagement_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13028A1)
+    - [YYYYMMDD_EventName_Security_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13033A1)
+
 ##### Webcasts
 
-After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo.
+After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo. Something to note, only the workshop template has a difference in set up. 
 1. From the previous event set up, please be sure to have the `Event ID`, `Audience URL` and `key` handy. The `key` is a several character long alphanumeric snippet and can be found at the end of the Audience URL as seen [here](https://on24support.force.com/Support/servlet/rtaImage?eid=ka04U000000x7I2&feoid=00N4U000008YrFJ&refid=0EM4U0000029XDA).
 1. Navigate to the Marketo template folder `Templates - On24`. Located in this folder are program templates Designed with triggers to work with On24's Marketo cusom object. Make a copy of the needed program type template in the appropriate folder.
 1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `ON24 Attendee is Updated` trigger filter:
@@ -198,7 +257,7 @@ After completing the creation of an On24 web event, the next step is to connect 
 ##### Workshops
 
 Much of the process to set up On24 and Marketo for Workshops is similar to the Webcast setup previously explained. A few differences to note:
-1. There are multple Marketo templates to accommodate different workshop types. Please select the template best suited for your workshop. Primary differences between these templates is the wording found in the invitation emails:
+1. There are multple Marketo templates to accommodate different workshop types. Please select the template best suited for your workshop. Primary differences between these templates is the content found in the invitation emails and landing pages:
     - CI/CD Workshop template: [YYYYMMDD_EventName_CICD_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12266A1)
     - DevOps Automation template: [YYYYMMDD_EventName_DevOps_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13018A1)
     - Jenkins Migration template: [YYYYMMDD_EventName_Jenkins_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13023A1)
@@ -211,3 +270,36 @@ Much of the process to set up On24 and Marketo for Workshops is similar to the W
 ### Contact Us widget form data collection
 
 The `contact us` widget on the On24 console requires the use of email. In order to accommodate this and get `contact us` form fills to sales faster, we are utilizing the email address `On24questions@gitlab.com`. Once requests are received, Zapier is being utilized to append the email contents to the `Last Event Notes` field. The custom object trigger found on the `Follow Up Requested` smart campaign found in the On24 programs is being utilzied to change program status based on 
+
+### Adding Event Notes to Marketo/SFDC
+
+In order to get `Q&A`, `poll` and `survey` data into Marketo from On24, a list upload will be required. Because this is a manual process, before attempting to upload webinar notes into Marketo ask yourself: `Will Sales or BDRs/SDRs use this data?` If the answer to this question is `No`, do not proceed with adding notes to Marketo. If there is a mixture of useful and not useful notes taken from the webinar, only pull the useful data into the spreadsheet for upload. Use your best judgment when deciding what leads need notes added and which notes to leave out.
+
+##### Steps to upload data (subject to change after introducing more automation)
+1. Export the data from the webinar into a spreadsheet. Access the report export feature by selecting the webinar's `options` button, found on the list of webinars page in the On24 interface (the 3 dots under the `Actions` column). The dropdown option is titled `Report`. 
+1. Once in the webinar `Report` area, there is a spreadsheet download button next to the `Dashboards` page header. It looks like a downward arrow.
+1. [Here is the link to the On24 list upload template](https://docs.google.com/spreadsheets/d/14tzunNba-2NhRLfuHESW8RPInMKUV69mFkXtbcwCNKg/edit#gid=0). Similar to the regular list upload spreadsheet, `do not make changes to the orignal spreadsheet. Make a duplicate of the spreadsheet to be used specifically for your upload.` 
+1. Only upload the data shown in the spreadsheet column headers. Pick and choose from the exported On24 spreadsheet what notes you want uploaded and add them to their appropriate columns on the freshly duplicated `On24 Notes Upload Doc`. It is okay if some of the columns are left blank.
+    - `On24 Note Upload Activate` should should be filled in with `True`.
+    - The Marketo Program Name must match 1:1 with what is in Marketo.
+    - For every poll or survey answer uploaded, be sure to include the question asked. 
+1. To start, these will be treated the same as manual list uploads to be completed by MktgOps. Please follow the regular process of sharing the spreadsheet with MktgOps to have them upload via a list upload issue. Soon this will be moved to more of a drag-and-drop process, similar to the [self-service list import process](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/). This page will be updated when that is ready.
+
+##### Field Matching Instructions for Marketing Ops
+
+The smart campaign being used to compile the notes is found here: [Compile On24 fields into Last Event Notes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC33343C3ZN19). This flow can only be triggered once per hour. The field matching for the upload spreadsheet is as follows:
+
+- `On24 Note Upload Activate` = `On24 Note Upload Activate`
+  - Please note that this triggers the smart campaign to compile notes into Last Event Notes
+- `Marketo Program Name` = `Last Event Program Name`
+  - Used to label where the webinar notes came from
+- `Email Address` = `Email Address`
+- `On24 Q&A` = `On24 Q&A`
+- `Poll Question 1` = `On24 Poll Q1`, etc
+- `Poll Answer 1` = `On24 Poll A1`, etc
+- `Survey Question 1` = `On24 Survey Q1`, etc
+- `Survey Answer 1` = `On24 Survey A1`, etc
+
+### ON24 FAQ 
+
+The campaigns team has started a FAQ document [here](https://docs.google.com/document/d/1UI5EzypN1j6_Gx5xcM8mR2gKFcM9QFxs-OZwkpK0QDU/edit#). *Once it is completed, the text will be added to this page. 
