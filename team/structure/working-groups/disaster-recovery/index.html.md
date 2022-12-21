@@ -49,7 +49,7 @@ Planned:
 
 | Working Group Role                       | Person                           | Title                                                           |
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
-| Executive Stakeholder                    | Steve Loyd                       | VP of Infrastructure                                                  |
+| Executive Stakeholder                    | Steve Loyd                       | VP of Infrastructure                                            |
 | Facilitator/DRI                          | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
 | Functional Lead                          | Fabian Zimmer                    | Group Product Manager, Enablement                               |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
@@ -57,7 +57,9 @@ Planned:
 | Product Management DRI                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
 | Member                                   | John Jarvis                      | Staff SRE, Infrastructure                                       |
 | Member                                   | Michele Bursi                    | Engineering Manager, Delivery                                   |
-
+| Member                                   | Sami Hiltunen                    | Senior Backend Engineer, Gitaly                                 |
+| Member                                   | Mark Wood                        | Senior Product Manager, Gitaly.                                 |
+| Member                                   | Steve Azzopardi                  | Senior SRE, Infrastructure.                                     |
 ## Related Links
 
 - [Disaster Recovery at GitLab](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
