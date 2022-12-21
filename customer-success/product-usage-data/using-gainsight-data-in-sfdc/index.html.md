@@ -58,6 +58,7 @@ For more information on general Product Usage Reporting, see [Using Product Usag
 | [GS] Health Score Value | Account Health Score is an aggregation of key metrics for a multi-perspective view of the customer. Represented as a number between 0-100. |  |[Link](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#customer-health-score)|
 | [GS] Overall Health Score  | This is the Overall Health Score Color for this customer as pushed over to SFDC from Gainsight | Good metric to understand how the customer is doing, broadly speaking |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)|
 | [GS] CSM Sentiment | If CSM-owned, this is what the CSM thinks the health of this account should be. Gainsight is the SSOT for this field and its value can only be updated in Gainsight. | If CSM-led, this Signifies the CSM’s perceived view of the account. Useful for spotting any risks if yellow or red |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tam-sentiment)|
+| [GS] Health: User Engagement | To measure the overall user-level engagement with GitLab, irrespective of use cases. | Useful to know how many users are logging in and active within GitLab |[Link](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations)|
 
 ## Opportunity
 
