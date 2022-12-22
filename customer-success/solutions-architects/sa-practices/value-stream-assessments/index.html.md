@@ -40,6 +40,12 @@ Value stream assessments require a non-trivial investment of time by both the Gi
 - We have identified and established a relationship with the [champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
 - We suggest pitching a Value Stream Assessment prior to POVs (Proof of Value) to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
 
+In case a Value Stream Assessment is conducted by a customer success manager (CSM), the following criteria should be met:
+- We have a strong relationship with the executive sponsor
+- We have identified and established a relationship with the champion
+- The account has a total addressable market of at least 1000 GitLab users
+- The customer has expressed a strong desire to improving their software delivery performance
+
 Key indicators that the opportunity is well-suited include:
 
 - There is a specific initiative to accomplish one or more of the following by a specific date
@@ -48,6 +54,8 @@ Key indicators that the opportunity is well-suited include:
     - Transform or objectively improve their ability to deliver software
     - Modernize their DevOps capabilities
 - The customer is currently using some features of GitLab and is interested in how leveraging more of the platform will drive software delivery outcomes
+- For customer success, a value stream assessment should help uncover opportunities to expand into new use cases or improve current adoption by identifying bottlenecks in the current software delivery value stream
+- An existing customer shows interest in adopting our value stream analytics feature to drive software delivery performance
 
 The scope of a value stream assessment should always be clearly defined. A clearly defined scope ensures that the correct people are being included in the team and reduces the risk of time lost agreeing what should be focussed on. For this reason, the scope of a GitLab facilitated assessment must always be within the DevSecOps space.
 
@@ -85,8 +93,9 @@ This gives the team at GitLab the ability to both track the progress of the Valu
 
 #### Internal Preparation Meeting
 
-It is extremely important to have an internal preparation meeting(can be async) prior to pitching a Value Stream Assessment to the customer. The goal of the meeting is to be able to discuss:
-- The opportunity (should include SFDC link)
+It is extremely important to have an internal preparation meeting (can be async) prior to pitching a Value Stream Assessment to the customer. The goal of the meeting is to be able to discuss:
+- The opportunity (should include SFDC link for SA engagement)
+   - The opportunity for a CSM lead Value Stream Assessment could be to expand into a new stage, rather than it being a financial opportunity in SFDC.
 - The key players & their roles
 - What metrics are these key players measured by
 - Any OKRs for these key players that the account team is aware of
