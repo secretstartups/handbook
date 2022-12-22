@@ -30,7 +30,7 @@ Approximate monthly budget should be set at total budget divided by 12. It shoul
 - Participation of research community
 - Reward ranges
 
-This gearing ratio is owned by the [Security Engineering and Research](https://about.gitlab.com/handbook/security/security-engineering-and-research/) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
+This gearing ratio is owned by the [Security Engineering](https://about.gitlab.com/handbook/security/security-engineering/) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
 
 ## Security Incident Response Team (SIRT) size
 

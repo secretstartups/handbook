@@ -32,7 +32,7 @@ In the event that you find a vulnerability or other security concern in a findin
 1. Ping the merge request author, reviewers, and the AppSec team on the issue
 1. If possible, work to get the merge request reverted before it is included in a release
     * If a release is in-progress, contact the delivery team to see if it can be removed from the release
-    * If this was already included in a release and this is a S1 finding, follow the normal [S1 process](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/handling-s1p1.html)
+    * If this was already included in a release and this is a S1 finding, follow the normal [S1 process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/handling-s1p1.html)
 1. Add a note to the Merge Monitor report that indicates a vulnerability was identified with a link to the issue that was created to track it
 
 ## Monitor Limitations

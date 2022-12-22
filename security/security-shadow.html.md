@@ -27,7 +27,7 @@ Each security team may host 1 individual at a time.  Availability of each team i
 
 Our course catalog is divided into three main areas in alignment with the three [Sub-Organizations](/handbook/security/#department-structure) within the Security Department.
 
-- [Security Engineering and Research](/handbook/security/security-shadow-sec-eng-res.html)
+- [Security Engineering](/handbook/security/security-shadow-sec-eng-res.html)
 - [Security Operations](/handbook/security/security-operations/sirt/security-shadow-security-operations.html)
 - [Security Assurance](/handbook/security/security-shadow-security-assurance.html)
 

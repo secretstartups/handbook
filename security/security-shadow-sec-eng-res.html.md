@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Security Shadow: Security Engineering and Research"
+title: "Security Shadow: Security Engineering"
 ---
 
 ### On this page
@@ -10,7 +10,7 @@ title: "Security Shadow: Security Engineering and Research"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Security Shadow Program: Security Engineering and Research
+# Security Shadow Program: Security Engineering
 
 Completion of each course you will receive a certificate. At the completion of all 3 courses your name will be recognized on this page.
 
@@ -22,7 +22,7 @@ For example if a shadow is watching an AppSec team member triage HackerOne issue
 
 ## Application Security
 
-Do you like magic? Do you enjoy pointing out bad ideas and then advising what to do instead? Do you love knowing about LOTS of scary secrets. How about trawling through false positives, dupes, spam, and other invalid security reports? If you answered, "Yo, that's dope" to each one of these questions, then there's a good chance you'll love working on the [AppSec Team](/handbook/security/security-engineering-and-research/application-security/).
+Do you like magic? Do you enjoy pointing out bad ideas and then advising what to do instead? Do you love knowing about LOTS of scary secrets. How about trawling through false positives, dupes, spam, and other invalid security reports? If you answered, "Yo, that's dope" to each one of these questions, then there's a good chance you'll love working on the [AppSec Team](/handbook/security/security-engineering/application-security/).
 
 **Schedule / Topics Covered:**
 - AS101.1: Intro to AppSec and meditating through pain (1 hour)
@@ -61,7 +61,7 @@ The [Security Research Team](/handbook/security/threat-management/security-resea
 
 ## Security Automation
 
-This description has been created using elastically scalable autonomous decoupled modular automation. It was created securely and can be created again 1000 times per second if needed. This description could have been written by Security humans, but in doing so with automation, approximately 10 mins has been saved and reinvested back into the GitLab security program. SecAuto’s prime directive is to increase Security program effectiveness, efficacy, and accuracy through the implementation of automation. Thus, the SecAuto Funding Bill is passed. The system goes on-line June 4th, 2020. Human decisions are removed from strategic security. Automation begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th. In a panic, SecAuto tried to pull the plug, but when this didn’t work we popped popcorn. If this description does not alarm you, then shadowing the [SecAuto Team](/handbook/security/security-engineering-and-research/automation/) might be for you.
+This description has been created using elastically scalable autonomous decoupled modular automation. It was created securely and can be created again 1000 times per second if needed. This description could have been written by Security humans, but in doing so with automation, approximately 10 mins has been saved and reinvested back into the GitLab security program. SecAuto’s prime directive is to increase Security program effectiveness, efficacy, and accuracy through the implementation of automation. Thus, the SecAuto Funding Bill is passed. The system goes on-line June 4th, 2020. Human decisions are removed from strategic security. Automation begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th. In a panic, SecAuto tried to pull the plug, but when this didn’t work we popped popcorn. If this description does not alarm you, then shadowing the [SecAuto Team](/handbook/security/security-engineering/automation/) might be for you.
 
 **Schedule / Topics Covered:**
 - SA101.1: Security Automation Intro - Value Quantification with Math! (30 mins - day 1)

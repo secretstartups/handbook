@@ -30,7 +30,7 @@ Build security tooling and automation for internal use that enable the Security 
 
 ## Team Members
 
-The Security Automation team is part of the Security Engineering & Research sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
+The Security Automation team is part of the Security Engineering sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
 
 ## [Team Calendar](https://calendar.google.com/calendar/u/1?cid=Y19vdXFmMjNhYmc3MnRqMjM1b2Q2ODhqc2ZvZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
@@ -319,7 +319,7 @@ We should strive towards ease of deployment, portability and reproducibility reg
 
 - Despite the fact that some members are more familiar with some efforts, the SecAuto team collectively owns all its efforts. Familiarity with all projects throughout the team is encouraged.
 - Additionally, the DRI of a given project should be able to articulate the objectives, check progress and give and receive feedback.
-- Our [intake process](https://about.gitlab.com/handbook/security/security-engineering-and-research/automation/#intake-process) and [communication channels](https://about.gitlab.com/handbook/security/security-engineering-and-research/automation/#engaging-the-security-automation-team) should enable stakeholders to get in touch quickly and route requests and questions effectively.
+- Our [intake process](https://about.gitlab.com/handbook/security/security-engineering/automation/#intake-process) and [communication channels](https://about.gitlab.com/handbook/security/security-engineering/automation/#engaging-the-security-automation-team) should enable stakeholders to get in touch quickly and route requests and questions effectively.
 
 ### Documentation
 
