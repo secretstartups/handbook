@@ -38,7 +38,9 @@ Building efficient and understandable processes for our operations that work for
 
 Other operations may be less visible, with only certain team members aware of the details. These operations provide the most realistic opportunity for GitLab to practice responding to real world attacks. To avoid ambiguity, we will refer to these as "Stealth Operations".
 
-We list examples of techniques the Red Team may use, as well as those we specifically avoid in our [Rules of Engagement here](./red-team-roe.html#stealth-operation-techniques).
+Stealth operations are not a contest. If our Red Team completes an objective undetected, we can offer recommendations to improve our detections. If we trigger a response, we've validated that detection capability in a realistic scenario and allowed the team to work through the same processes they would use when responding to real-life attacks. Both of these scenarios provide valuable feedback to the organization.
+
+These operations require [special rules](./red-team-roe.html#stealth-operations) to stay safe and productive. Examples of techniques we may use and those we will specifically avoid can be found in [Stealth Operation Techniques](./red-team-roe.html#stealth-operation-techniques).
 
 ### Open Scope Work
 
