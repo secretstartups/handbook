@@ -12,7 +12,7 @@ title: Release Certification
 ## Process for Release Certification
 
 Every release with JiHu contributions needs to be certified by a member of the
-[Federal Application Security team](/handbook/security/security-engineering-and-research/application-security/index.html).
+[Federal Application Security team](/handbook/security/security-engineering/application-security/index.html).
 This is required to satisfy PubSec/FedRamp requirements and
 to handle JiHu's merge request contributions to GitLab Inc repositories.
 
