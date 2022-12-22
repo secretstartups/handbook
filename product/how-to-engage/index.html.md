@@ -150,7 +150,7 @@ The following ~customer is interested in this capability
 - Questions:
 - PM to mention:
 <!-- Be sure to save this comment as an internal note (tick the checkbox above the "Comment" button -->
-
+```
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards: 
 
 - [Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for product managers
