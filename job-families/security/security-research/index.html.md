@@ -106,7 +106,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Define, own, and implement security technical and process improvements.
 * Teach, mentor, grow, and advise other domain experts, individual contributors, and teams in the organization.
 * Drive the business value relation of metrics calculations for the Security Research program.
-* Represent the Security Engineering & Research team across and outside of GitLab as a subject matter expert in technology, development, and security concepts.
+* Represent the Security Engineering team across and outside of GitLab as a subject matter expert in technology, development, and security concepts.
 * Work in a leveraged manner influencing other organizations and teams across GitLab with security research approaches and a focus on problem solving.
 
 #### Distinguished Security Research Engineer Requirements
@@ -119,7 +119,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Have a portfolio of public communication of complex security concepts.
 
 ### Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/#director-security-engineering--research) role at GitLab.
+This position reports to the [Security Engineering Director](/job-families/security/security-leadership/#director-security-engineering--research) role at GitLab.
 
 #### Job Grade
 The {Security Research Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -137,7 +137,7 @@ The {Security Research Manager} is a [grade 8](/handbook/total-rewards/compensat
 * Sense of ownership, urgency, and drive
 * Excellent written and verbal communication skills, especially experience with executive-level communications
 * Ability to make concrete progress in the face of ambiguity and imperfect knowledge
-* Prepare and deliver meaningful metrics to Security Engineering and Research leadership
+* Prepare and deliver meaningful metrics to Security Engineering leadership
 * Successfully execute on quarterly OKRs
 
 #### Requirements
@@ -158,7 +158,7 @@ Enjoys working efficiently; is action oriented and full of energy for the things
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Senior Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/security/security-leadership/#director-security-engineering--research).
+This position reports to the [Security Engineering Director](/job-families/security/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 The {Security Research Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -174,7 +174,7 @@ The {Security Research Senior Manager} is a [grade 9](/handbook/total-rewards/co
 
 ## Segment
 ### Security Leadership
-For details on the Security organization leadership roles, to include the Security Engineering and Research Director and VP of Security, see the Security Leadership page.
+For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
 * To Be Defined (TBD)
@@ -186,7 +186,7 @@ For details on the Security organization leadership roles, to include the Securi
   sec:stse(Staff Security Engineer, Security Research) --> sec:dse(Distinguished Security Engineer, Security Research);
   sec:sse(Senior Security Engineer, Security Research)-->sec:sem(Security Manager, Security Research);
   sec:sem(Security Manager, Security Research)-->sec:sesm(Senior Security Manager, Security Research);
-  sec:sesm(Senior Security Manager, Security Research)-->sec:ds(Director of Security Engineering and Research);
+  sec:sesm(Senior Security Manager, Security Research)-->sec:ds(Director of Security Engineering);
 ```
 
 ## Hiring Process
@@ -194,6 +194,6 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule 2 separate 50-minute interviews with Security Research team member peers.
 * Then, candidates will be invited to schedule a 50-minute interviews with the Security Research team hiring manager.
-* Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering & Research.
+* Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

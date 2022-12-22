@@ -113,16 +113,16 @@ Candidates for the director positions can expect the hiring process to follow th
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-### Director, Security Engineering & Research
+### Director, Security Engineering
 This position reports to the VP of Security.
 
-#### Director, Security Engineering & Research Job Grade
+#### Director, Security Engineering Job Grade
 The Director, Application Security is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Security Engineering & Research Responsibilities
+#### Director, Security Engineering Responsibilities
 * Recruit, manage, motivate and develop high performing teams
 * Partner with the VP of Security in planning and development of enterprise information security strategy and best practices
-* Drive strategy for the Security Engineering & Research organization, aligned with broader GitLab business initiatives, with a specific focus on application security, security research, security automation, and external security communications.
+* Drive strategy for the Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on application security, security research, security automation, and external security communications.
 * Consult with senior leaders regarding their information security risks and drive mitigation efforts to reduce risk
 * Drive operational efficiencies through process improvement and implementation of technical solutions
 * Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
@@ -131,7 +131,7 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 * Partner with the VP of Security build and maintain the most transparent security program in the world
 * Act as an advocate for information security practices
 
-#### Director, Security Engineering & Research Requirements
+#### Director, Security Engineering Requirements
 * Proven ability to successfully recruit, manage, motivate and develop high performing teams
 * Relevant, progressive experience managing information security teams
 * Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation

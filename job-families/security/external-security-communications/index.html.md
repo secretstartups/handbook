@@ -29,7 +29,7 @@ As a member of the [Security department](/handbook/security) at Gitlab, the Exte
 
 ## Levels
 ### Security Analyst, External Security Communications (Intermediate)
-The Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
+The Security Analyst, External Security Communications reports to the [Director of Security Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Intermediate job grade
 The Security Analyst, External Security Communications is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -53,7 +53,7 @@ The Security Analyst, External Security Communications is a [grade 6](/handbook/
 
 
 ### Security Analyst, External Security Communications (Senior)
-The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
+The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Senior level job grade
 The Senior Security Analyst, External Security Communications is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -78,7 +78,7 @@ Senior level responsibilities are inclusive of all Intermediate level responsibi
 * You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Staff)
-The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
+The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 
 #### Staff level job grade
@@ -103,7 +103,7 @@ Staff level responsibilities are inclusive of all Senior level responsibilities,
 * You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Principal)
-The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
+The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
 
 #### Principal level job grade
  
@@ -130,7 +130,7 @@ Principal level responsibilities are inclusive of all Staff level responsibiliti
 
 ## Segment
 ### Security leadership
-For details on the Security organization leadership roles, to include the Security Engineering and Research Director and VP of Security, see the Security Leadership page.
+For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 #### Performance indicators
 * Number of security focused pieces of content produced each month
@@ -146,7 +146,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager, 
 * Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security organization,
-* Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering and Research.
+* Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering.
 
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
