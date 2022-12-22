@@ -93,7 +93,7 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 ### Introduction
 
-`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available.
+`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx. 
 
 ### Benchmark Evaluation
 
@@ -204,7 +204,7 @@ All current job codes can be found by the Total Rewards team in the "Job Codes" 
 
 ### Introduction
 
-Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
+Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Comptryx, Radford. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
 
 ### Geographical Areas
 
@@ -262,8 +262,6 @@ GitLab will gather and analyze the data for each location factor annually as par
 
 1. Data Gathering
    * ERI: Review the Cost of Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
-   * Robert Half: For US and Canada, Robert Half has salary differential information based on each geo area. Normalize this data as a fraction of SF.
-   * Dice: Using the Results from the Dice Tech Salary Report, take the differential of the geo area to SF.
    * Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential to market.
    * Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential to market.
    * In reviewing the data set, determine if a new geo area needs to be added to the list.
