@@ -19,6 +19,7 @@ canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 | Target End Date | 2023-03-30 |
 | Slack           | #wg_clickhouse_datastore (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/1ZZ7fE7s18Yxww9wp0-lO7mFxJmwop3pWvqINCQPNubA/edit#) (only accessible from within the company) |
+| Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/2070) |
 
 ### Context
 
@@ -30,19 +31,37 @@ In FY23-Q2 the Monitor:Observability team developed and shipped a [ClickHouse da
 
 We want ensure teams can efficiently leverage the ClickHouse data platform when developing new features and that we can maintain and support this functionality effectively for SaaS and self-managed customers.
 
-
-
-
 ### Exit Criteria 
 
 This Working Group has the following goals:
 
-1. Develop & Socialize Architecture Strategy for ClickHouse usage
-   1. Architecture Blueprint for ClickHouse usage within GitLab
-   1. Supports all teams and reference architectures
-   1. Provides guidance which sets expectations on scaling/clickhouse query design/debugging/guardrails/etc.  
-   1. Rollout strategy (e.g. feature flags, would customers ever want to disable/remove it, etc.)
+1. Document and review the current uses/capabilities and future use cases.
+1. Develop & Socialize Architecture Strategy for ClickHouse usage.
+    1. Architecture Blueprint for ClickHouse usage within GitLab.
+    1. Architecture Blueprint for scalable data ingestion pipeline for ClickHouse within GitLab.
+    1. Provides guidance which sets expectations on scaling and query design/debugging/guardrails/etc.
+    1. Define sane and secure defaults. Provide security recommendations and guardrails.
+1. Develop a Rollout Strategy and Plan (e.g. feature flags, would customers ever want to disable/remove it, etc.).
+    1. SaaS rollout strategy for identified use cases.
+    1. Lay the groundwork to add ClickHouse to [our reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures) through self-managed support.
+        - Packaging ClickHouse for our self-managed installations.
+        - Research and understand the component costs and maintenance requirements of running a ClickHouse instance.
+        - Determine the scale and deployment targets where adding ClickHouse makes sense.
+        - Consider an abstraction layer to interacting with ClickHouse or alternatives.
+1. Develop and implement a communication plan for the outcomes of the working group.
 
+#### Exit Criteria Progress
+
+| Criteria | Start Date | Completed Date | Progress | DRI |
+| [Document and review current ClickHouse uses/capabilities and future use cases](https://gitlab.com/groups/gitlab-com/-/epics/2075) | | | 0% | `@you?` |
+| [Develop and socialize architecture strategy for ClickHouse usage](https://gitlab.com/groups/gitlab-com/-/epics/2076) | | | 0% | `@you?` |
+| [Develop a ClickHouse rollout strategy and plan](https://gitlab.com/groups/gitlab-com/-/epics/2077) | | | 0% | `@you?` |
+| [Develop and implement a communication plan for the working group](https://gitlab.com/groups/gitlab-com/-/epics/2078) | | | 0% | `@you?` |
+
+### Current and Planned Use Cases
+
+- [Current status of ClickHouse and GitLab’s implementation](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/205)
+- [ClickHouse Use Cases](https://gitlab.com/gitlab-org/gitlab/-/issues/384184)
 
 ### Roles and Responsibilities
 
