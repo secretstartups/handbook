@@ -52,7 +52,8 @@ Deliver cross-functional revenue globalization priority frameworks and committed
 | Member                | Ray Lehie                | VP, Marketing Strategy & Platforms              |
 | Member                | Carrie Maynard           | VP, Integrated Marketing                        |
 | Member                | Jean-Baptiste Larramendy | AVP, Sales Development                          | 
-| Member                | Justin Farris            | Sr Director, Product Monetization & Operations  | 
+| Member                | Orit Golowinski          | Director of Product, Dev                        | 
+| Member                | Sarah Waldner            | GMP, Create                                     |
 | Member                | Tim Zallmann             | Sr Director, Engineering                        |
 | Member                | Pattie Egan              | VP, People Ops                                  |
 | Member                | Harley Devlin            | People Ops                                      |
