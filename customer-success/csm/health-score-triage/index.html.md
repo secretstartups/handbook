@@ -197,16 +197,6 @@ Health score criteria is either manually or automatically applied to determine t
 |  | Meeting cadence | Based on recency of last call or meeting with the customer | Automatic | For `CSM Prioritization = 1` accounts:<br>- Green: <= 35 days<br><br>- Yellow: > 35 days and <= 60 days<br><br>- Red: > 60 days<br><br><br>For `CSM Prioritization = 2` accounts:<br>- Green: <= 65 days<br><br>- Yellow: > 65 days and <= 90 days<br><br>- Red: > 90 days | 50% |  | N/A for Scale and Tech Touch |
 |  | **Persona engagement** | Are we meeting with the correct personas in the account? | Automatic | Persona Engagement is based on the roles of External Attendees added on timeline entries<br>- Green: both Dev Lead and Security Lead are listed as external attendees on a timeline entry in the past three months<br>- Yellow: one of the two personas attend<br><br>- Red: neither personas are listed as having attended a meeting | 50% |  | N/A for Growth, Scale and Tech Touch |
 
-
-##### License Usage health table
-
-|        | 2-6 Months                               | 6-9 Months                               | > 9 Months                             |
-|--------|------------------------------------------|------------------------------------------|----------------------------------------|
-| < 10%  | Red       | Red       | Red     |
-| 10-50% | Yellow | Red       | Red     |
-| 51-75% | Green   | Yellow | Red     |
-| > 75%  | Green   | Green   | Green |
-
 ### Multiple Production Instances Health Scoring
  
 When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
