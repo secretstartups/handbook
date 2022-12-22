@@ -149,66 +149,20 @@ graph TB
 
 ### TPRM Assessment Requirements
 
-<details>
-<summary markdown="span">Requirements by Type and Data Classification</summary>
+The following table describes the procedures followed by TPRM engineers for vendors storing/processing different [classifications of GitLab data](https://about.gitlab.com/handbook/security/data-classification-standard.html). These procedures are initiated by the [Procurement](https://about.gitlab.com/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where vendors have not been reviewed in the past 12 months.
 
-With the exception of Red and High Risk Orange SaaS vendors, a third party's SOC 2 report, ISO 27001 certification, Standard Information Gathering (SIG) form or equivalent will provide reasonable assurance if the scope provides coverage over the services offered. In the event an attestation is not available, TPRM will provide third parties with a copy of our SIG for completion. Once the third party has provided a SOC2 report, ISO 27001 certification, or completed SIG, the Security Risk team has a service level agreement (SLA) of 10 business days to complete the TPRM assessment. See below for assessment requirements per Vendor Type and Data Classification.
+GitLab TPRM Engineers reserve the right to perform additional procedures at their professional discretion.
 
-Note that Red and Orange SaaS vendors must provide answers to a small subset (~10) of questions, their third party attestation (if available) and a SIG Lite or the equivalent. TPRM also leverages BitSight to supplement our higher risk vendor assessments.
+| Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and Successful Failover Report |
+| ------ | ------ |------ |------ |------ |------ |------ |------ |
+|Red	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	Yes|	If applicable|	Yes|	If applicable| Yes |
+|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No*|	Yes|	Yes|	Yes| No |
+|Orange	|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
+|Yellow	|-|	-|	-|	-|	-|	-| No |
+|Green	|-|	-|	-|	-|	-|	-| No |
 
-| Vendor Type | Red Data | Individual Contractors outside of Assessed Agency | Software Subscription | Professional Service | Individual Contractors through Assessed Agency | Field Marketing | Partners | Yellow Third Parties | Green Third Parties |
-|--------------------------------|-----------|--------------|-----------------------|----------------------|------------------------------------------------|--------------------------------|----------------------------------------------------------------------|--------------------------------|---------------------|
-| Data Classification            | Red       | Orange | Orange                | Orange               | Orange                                         | Orange                         | Orange                                                               | Yellow                         | Green               |
-| Okta Authentication       | -    | - | Required               | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| Application Security Review Required        | Yes    | N/A | Optional                | N/A                    | N/A                                              | N/A                              | N/A                                                                    | N/A                              | N/A                   |
-| ZenGRC Template                | Red       | N/A | Orange SaaS           | Orange Svc           | N/A                                            | N/A                            | N/A                                                                  | N/A                            | N/A                 |
-| A. Enterprise Risk Management  | SIG Core* | Contract requiring use of GitLab laptop | SIG Core*             | -                    | Request DPA and NDA from Legal                 | Request DPA and NDA from Legal | Depending upon nature of relationship send either SaaS or Prof Svcs. | Request DPA and NDA from Legal |                     |
-| B. Security Policy             | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| C. Organizational Security     | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| D. Asset and Info Management   | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| E. Human Resources Security    | SIG Core* | Clean background check and Contractor assigned Security Awareness Training | SIG Core*             | SIG Core*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| F. Physical and Environmental  | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| G. IT Operations Management    | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| H. Access Control              | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| I. Application Security        | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| J. Cybersecurity Incident Mgmt | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| K. Operational Resilience      | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| L. Compliance and Ops Risk     | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| M. Endpoint Device Security    | SIG Core* | Evidence of GitLab provisioned laptop | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| N. Network Security            | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| P. Privacy                     | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| T. Threat Management           | SIG Core* | - | SIG Lite*             | SIG Lite*            | -                                              | -                              | -                                                                    | -                              | -                   |
-| U. Server Security             | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| V. Cloud Hosting Services      | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
-| Z. Additional Questions        | SIG Core* | - | SIG Lite*             | -                    | -                                              | -                              | -                                                                    | -                              | -                   |
+*Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
 
-</details>
-
-<details>
-<summary markdown="span">Testing Method by Type/Tier</summary>
-
-| Amount of GitLab Team Member Data Shared with Processor | Names  | Contact Information     | Historical Activity     |
-|------------------------------------------|-------------------------|-------------------------|-------------------------|
-| None                                     | Inquiry Only            | Inquiry Only            | Inquiry Only            |
-| Some                                     | TPRM to Consult Privacy | TPRM to Consult Privacy | TPRM to Consult Privacy |
-| All                                      | Inspection              | Inspection              | Inspection              |
-
-- Red vendors require inspection at a minimum unless the Red Vendor is a Law Firm that may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange Controllers.
-
-- Orange vendors are categorized and tested as follows:
-
-    - High Risk Orange SaaS Vendors
-        - Overview: Outages or disruptions in services could impact operations ([BIA Criticality](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers) of at least 3). If this is a net new system and criticality has not been established. TPRM Engineers should use the aforementioned Criticality Matrix to judgmentally classify the criticality of the system.
-        - Procedures: These vendors follow the same testing procedures as Red vendors.
-
-    - Low Risk Orange SaaS and/or Orange Professional Services testing is judgmental 
-    - If GitLab team member data is stored/transmitted by a Controller, inquiry only procedures are required
-    - If GitLab team member data is stored/transmitted by a Processor, defer to the table below
-    - Internal team members can refer to [this document](https://docs.google.com/document/d/1v-qZ7vsc81Qvl9-ERqI6bBZxsrVXOeStSWFnzWamJdI/edit) to learn more about Controllers vs. Processors as defined by GDPR Article 4
-
-- Yellow/green vendors do not require testing 
-
-</details>
 
 ### Other Types of Third Party Assessments
 
