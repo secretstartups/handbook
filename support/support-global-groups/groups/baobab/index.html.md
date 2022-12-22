@@ -94,7 +94,7 @@ In case you need to change or reschedule your focus time, please notify your reg
 | SE/DAY | Monday| Tuesday | Wednesday | Thursday | Friday |
 | ------------| -------------- | --------| ----------| ---------| -------|
 | Asmaa Hassan| 1:00 - 3:00 PM |  | | | 1:00 - 3:00 PM |
-| Katrin | | | | | |
+| Katrin | | | | all day | |
 | Niklas |
 | Julius |
 | Paul |
