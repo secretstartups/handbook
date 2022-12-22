@@ -48,7 +48,7 @@ Go to the import template [Google Sheet](https://docs.google.com/spreadsheets/d/
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![ALT](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/make-a-copy.png)
+![ALT](/handbook/marketing/marketing-operations/automated-list-import/images/make-a-copy.png)
   
 </details>
 
@@ -60,7 +60,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 <details>
   <summary markdown="span">Click  to expand screenshot</summary>
 
-![Download CSV](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/download-csv.png)
+![Download CSV](/handbook/marketing/marketing-operations/automated-list-import/images/download-csv.png)
   
 </details>  
 
@@ -71,7 +71,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 1. Drop your CSV containing lead data into the folder
 1. An automated process will pick up your CSV and start processing each record in your file, validating the data. 
 
-**Step 6 - Go to the `#mktgops-test-imports` slack channel.**
+**Step 5 - Go to the `#mktgops-test-imports` slack channel.**
 {: .alert .alert-info}
 
  **When the import finishes processing in Marketo, it will send a slack message with information about:**
@@ -85,7 +85,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![Slack alert](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
+![Slack alert](/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
 
 </details>
 
@@ -95,7 +95,7 @@ Pubsec field marketers need to use `List Upload Complete` label on either list i
 
  
 
-**Step 5 - Review the report**
+**Step 6 - Review the report**
 {: .alert .alert-info}
 
 1. Congrats! The import is complete. Review the information passed in the slack alert. 
@@ -105,7 +105,7 @@ Pubsec field marketers need to use `List Upload Complete` label on either list i
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![Report status column](sites/handbook/source/handbook/marketing/marketing-operations/automated-list-import/images/report-status.png)
+![Report status column](/handbook/marketing/marketing-operations/automated-list-import/images/report-status.png)
 
 </details> 
   
