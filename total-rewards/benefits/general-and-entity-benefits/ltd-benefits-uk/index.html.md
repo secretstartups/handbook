@@ -128,19 +128,19 @@ Please refer to the [Company Pension Plan FAQ](https://drive.google.com/file/d/1
 
 ### Salary Sacrifice
 
-From November 2019 GitLab will be offering the option to contribute to your Company Pension Scheme via Salary Exchange. Please note that you have to request to opt in to the Salary Sacrifice Scheme. You can do so by emailing total-rewards@gitlab.com. As part of this Salary Exchange offering GitLab will be passing on their employer NI saving to you as an employee in the form of an increased pension contribution. You can find more information in the following [document](https://drive.google.com/file/d/1raP4uLizlTIBxZBX7q0h-op9yhWFVOYT/view?usp=sharing) detailing the benefits and potential disadvantages of changing to a Salary Exchange arrangement.
+Team Members who have signed a UK Employment contract after 13 December 2022 will be automatically enrolled in to Company Pension Scheme via Salary Exchange. Please note that if you signed your contract prior to 13 December 2022 will have to request to opt in to the Salary Sacrifice Scheme. You can do so by emailing total-rewards@gitlab.com. As part of this Salary Exchange offering GitLab will be passing on their employer NI saving to you as an employee in the form of an increased pension contribution. You can find more information in the following [document](https://drive.google.com/file/d/1raP4uLizlTIBxZBX7q0h-op9yhWFVOYT/view?usp=sharing) detailing the benefits and potential disadvantages of changing to a Salary Exchange arrangement.
 
 **Salary Sacrifice FAQ**
 * Can we change the amount during the period we're contracted for salary exchange?
-    * Yes it is possible to change the amount/increase your employee percent; Vistra will issue a new letter with a new amount.
+    * Yes it is possible to change the amount/increase your employee percent
 * What happens if our 'actual' salary changes during the period?
     * Your employee contribution is a percent of basic pay so if your basic pay increase the pension contribution will too.
 * What happens if we receive a discretionary bonus?
     * Your definition of pensionable pay is basic salary the percent will not automatically be applied to the bonus. Should you wish to contribute part of you bonus to your pension pot you can do that.
 * Is it possible to start from any month?
     * Yes it is; it would be processed on the next available payroll.
-* How do I opt in or make changes to my salary sacrifice amount?
-    * Email total-rewards@gitlab.com with the new percentage of your salary that you would like to sacrifice.
+* How do I opt in or out or make changes to my salary sacrifice amount?
+    * Team Members who have signed a UK Employment contract after 13 December 2022 will be automatically enrolled in to Company Pension Scheme via Salary Exchange. Please note that if you signed your contract prior to 13 December 2022 will have to request to opt in to the Salary Sacrifice Scheme. Email total-rewards@gitlab.com and nonuspayroll@gitlab.com with the new percentage of your salary that you would like to sacrifice or to opt in/out of the salary sacrifice provision. 
 
 ### Auto-Enrollment
 
@@ -164,10 +164,14 @@ The following process is followed by GitLab People Operations to join the Scheme
 *  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 15th October) Scottish Widows will be notified around 6th November
 *  Any employee who joins after 20th or has not been included on the pension file will be picked up in the following month’s file.
 *  Scottish Widows receive the pension file around 6th of each month and will process all joiners/changes/leavers accordingly.
-*  New joiners should expect to receive their welcome pack within 14 working days after Scottish Widows receives the pension file.
+*  New joiners should expect to receive their welcome pack in the mail within 14 working days after Scottish Widows receives the pension file.
 
-When an employee joins the scheme they will be sent a welcome pack stating that they are now a scheme member, it will also have their login details. Employees can login to access their own personal fund and can make adjustments as they see fit. Some other key points of the scheme are as follows:  
+When an employee joins the scheme they will be sent a welcome pack in the post stating that they are now a scheme member, it will also have their login details. Employees can login to access their own personal fund and can make adjustments as they see fit. 
 
+If the team member hasn't received their Scottish Widows package in the mail within their first 2 months of thier joining date, they can log on to their 
+[Scottish Widows Portal](http://www.scottishwidows.co.uk/personal). Select “Register Now’, and fill out your details (no need to fill out the Policy Number, as you can use your National Insurance Number instead). Please do not try to log in via the portal before Papaya has uploaded your information in accordance to the schedule above, as you will be denied access.
+
+Some other key points of the scheme are as follows:  
 - The default fund is the Scottish Widows Pension Investment Approach - Balanced.
 - There are over 50 funds and 9 lifestyle profile options  
 - This is a personal pension which means it can be taken with the employee if they leave GitLab
