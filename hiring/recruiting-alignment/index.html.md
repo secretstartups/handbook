@@ -8,7 +8,7 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
 |--------------------------|-----------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn   | Chriz Cruz | Davie Soomalelagi  |
+| Executive          | Rich Kahn & Zach Choquette   | Chris Cruz | Davie Soomalelagi  |
 | Enterprise Sales, NA | Kevin Rodrigues |  N/A | Sruthy Menon |
 | Enterprise Sales, NA | Jill Hind |  N/A | Sruthy Menon |
 | Enterprise Sales, EMEA | Debbie Harris |  TBH |  |
@@ -57,6 +57,7 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition (Marketing) | Jake Foster / Steph Sarff |
 | Talent Acquisition (G&A) | Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
+| Talent Acquisition (Executive) | Rich Kahn |
 | Candidate Experience & Enablement | Marissa Ferber |
 | Inbound Sourcing | Chris Cruz |
 
