@@ -51,7 +51,7 @@ The following settings should be applied to your survey:
     * Page transition: None
     * Additional check boxes: Unticked
 1. Logo
-    * GitLab First Look Logo (stored in UX Research library)
+    * GitLab First Look Logo (stored in the UX Research & Product graphics library within Qualtrics)
     * Style: Banner
     * Placement: Left
     * Max height: 70px
