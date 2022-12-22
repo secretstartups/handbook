@@ -135,7 +135,7 @@ graph TB
     %% Clickable Nodes
          click zgOneTrust "https://gitlab.my.onetrust.com/cyber-risk/exchange" _blank
          click ProcIntake "https://about.gitlab.com/handbook/finance/procurement/professional-services" _blank
-         %%click zgAppSec "ttps://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/tprm-review-process.html" _blank
+         %%click zgAppSec "ttps://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/tprm-review-process.html" _blank
 
     %% Dedicated styling
       %%  classDef clickme fill:#6E49CB,stroke:#88DDFD,stroke-width:4px,color:#FFFFFF;

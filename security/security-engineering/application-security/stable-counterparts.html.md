@@ -21,7 +21,7 @@ next to the "Application Security Engineer" mentions.
 ### Technical Goals
 - Assist in threat modeling features to identify areas of risk prior to
   implementation
-- Code and [AppSec reviews](/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html)
+- Code and [AppSec reviews](/handbook/security/security-engineering/application-security/appsec-reviews.html)
 - Provide guidance on security best practices
 - Improve security testing coverage
 - Assistance in prioritizing security fixes

@@ -34,7 +34,7 @@ Department tools and resources that collect, process, and store [RED](/handbook/
 ### Review Process
 
 Future work: At this time, we don't have defined process for architecture and
-implementation review like we have for [AppSec Reviews](/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html).
+implementation review like we have for [AppSec Reviews](/handbook/security/security-engineering/application-security/appsec-reviews.html).
 Such a process will be the responsibility of a future Security team.
 
 # Requirements

@@ -12,11 +12,11 @@ description: "The application security team's mission is to support the business
 
 ## Application Security Mission
 
-As part of the Security Engineering & Research sub-department, the application security team's mission is to support the business and ensure that all GitLab products securely manage customer data. We do this by working closely with both engineering and product teams.
+As part of the Security Engineering sub-department, the application security team's mission is to support the business and ensure that all GitLab products securely manage customer data. We do this by working closely with both engineering and product teams.
 
 ## Application Security Roadmap
 
-Please see the [Security Engineering and Research Program Strategy document][9].
+Please see the [Security Engineering Program Strategy document][9].
 
 ## Roles & Responsibilities
 
@@ -78,7 +78,7 @@ When necessary a backlog review can be initiated, please see the [Vulnerability 
 ## GitLab Secure Tools coverage
 
 As part of our [dogfooding effort](/handbook/product/product-processes/#dogfood-everything), 
-the [Secure Tools](https://docs.gitlab.com/ee/user/application_security/) are set up on many different GitLab projects (see our [policies](/handbook/security/security-engineering-and-research/application-security/inventory.html#policies)).
+the [Secure Tools](https://docs.gitlab.com/ee/user/application_security/) are set up on many different GitLab projects (see our [policies](/handbook/security/security-engineering/application-security/inventory.html#policies)).
 This list is too dynamic to be included in this page, and is now maintained in the [GitLab AppSec Inventory](./inventory.html).
 
 Projects without the expected configurations can be found in the [inventory violations list](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory/-/issues) (internal link).
@@ -91,13 +91,13 @@ Learn more about the [GitLab AppSec Inventory](./inventory.html).
 
 Learn how to identify or remediate security issues using real examples with GitLab's [Reproducible Vulnerabilities][11].
 
-[1]: /handbook/security/security-engineering-and-research/application-security/appsec-reviews.html
-[3]: /handbook/security/security-engineering-and-research/application-security/vulnerability-management.html
-[4]: /handbook/security/security-engineering-and-research/application-security/stable-counterparts.html
-[5]: /handbook/security/security-engineering-and-research/application-security/runbooks
+[1]: /handbook/security/security-engineering/application-security/appsec-reviews.html
+[3]: /handbook/security/security-engineering/application-security/vulnerability-management.html
+[4]: /handbook/security/security-engineering/application-security/stable-counterparts.html
+[5]: /handbook/security/security-engineering/application-security/runbooks
 [6]: /job-families/security/application-security/
 [7]: https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics
 [8]: https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit
-[10]: /handbook/security/security-engineering-and-research/application-security/appsec-rcas.html
-[11]: /handbook/security/security-engineering-and-research/application-security/reproducible-vulnerabilities.html
+[10]: /handbook/security/security-engineering/application-security/appsec-rcas.html
+[11]: /handbook/security/security-engineering/application-security/reproducible-vulnerabilities.html

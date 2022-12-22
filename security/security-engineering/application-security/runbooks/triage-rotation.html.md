@@ -24,7 +24,7 @@ The following rotations are defined:
     - Point of contact for "New" HackerOne reports during that week.
     - Responsible to escalating to other team members and management if the size of
     the either queue spikes.
-    - Responsible for reviewing [security dashboards](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/security-dashboard-review.html) on a best-effort level
+    - Responsible for reviewing [security dashboards](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/security-dashboard-review.html) on a best-effort level
 - (Weekly Assignment) Triage Rotation (mentions and issues)
   - First responder to mentions of the following group aliases:
     - @gitlab-com/gl-security/appsec on GitLab.com
@@ -32,7 +32,7 @@ The following rotations are defined:
   - First responder to automated messages posted in the `#public_merge_requests_referencing_confidential_issues` Slack channel
     - Add a check mark emoji if the merge request can be public
     - If the merge request references a legitimate security issue
-      + If the issue has a `~security-fix-in-public` label, indicating it [has been approved by an AppSec team member to be fixed in public](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/vulnerability-management.html#fixing-in-public), link to the comment or "added a label" note in the Slack thread
+      + If the issue has a `~security-fix-in-public` label, indicating it [has been approved by an AppSec team member to be fixed in public](https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html#fixing-in-public), link to the comment or "added a label" note in the Slack thread
       + Otherwise contact SIRT and the merge request author to get the merge request removed.
       + Use the `Urgent - SEOC should be paged right away` option if waiting up to 24 hours for a resolution would be too long.
   - First responder for issues created needing triage: [~security-triage-appsec issue search](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=security-triage-appsec)

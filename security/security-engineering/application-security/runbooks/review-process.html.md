@@ -43,7 +43,7 @@ Different sub-features and functionalities of the feature need to be
 prioritized. For this apparent critical functionalities like authentication and
 authorization should get highest priority.
 
-See [Assigning Priority](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html#assigning-priority)
+See [Assigning Priority](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html#assigning-priority)
 
 The following items are considered high priority code parts:
 
@@ -60,7 +60,7 @@ The following items are considered high priority code parts:
 
 ### Threat modeling
 
-Refer to the [threat modeling runbook page](/handbook/security/security-engineering-and-research/application-security/runbooks/threat-modeling.html).
+Refer to the [threat modeling runbook page](/handbook/security/security-engineering/application-security/runbooks/threat-modeling.html).
 
 ### Time estimation
 

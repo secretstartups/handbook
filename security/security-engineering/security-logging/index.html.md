@@ -25,7 +25,7 @@ Further details can be found in the [job family description](/job-families/secur
 ## <i class="fas fa-users" id="biz-tech-icons"></i> The Team
 
 ### Team Members
-The Security Logging Team is part of the Security Engineering & Research sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
+The Security Logging Team is part of the Security Engineering sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
 
 ## Responsibilities
 The Security Logging Team is responsible for security focused logging, monitoring, and alerting.
@@ -71,7 +71,7 @@ The team does have set of regular synchronous calls:
 * 1-1s between Individual Contributors and the Engineering Manager.
 
 ### Team Pages
-* This [Handbook Page](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/security-logging/), which contains general information about the team.
+* This [Handbook Page](https://about.gitlab.com/handbook/engineering/security/security-engineering/security-logging/), which contains general information about the team.
 * The [Security-Logging GitLab Sub-Group](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging), which contains EPICs and repositories
 
 ### Project Management

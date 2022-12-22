@@ -866,7 +866,7 @@ The Security Department provides essential security operational services, is dir
 
 To reflect this, we have structured the Security Department around four key tenets, which drive the structure and the activities of our group. These are :
 
-- Secure the Product  - [Security Engineering Sub-department](/handbook/security/security-engineering-and-research/)
+- Secure the Product  - [Security Engineering Sub-department](/handbook/security/security-engineering/)
 - Protect the Company - [Security Operations Sub-department](/handbook/security/security-operations/)
 - Lead with Data      - [Threat Management Sub-department](/handbook/security/threat-management/)
 - Assure the Customer - [Security Assurance Sub-department](/handbook/security/security-assurance/)
@@ -877,7 +877,7 @@ To reflect this, we have structured the Security Department around four key tene
 
 The [Security Assurance sub-department](/handbook/security/security-assurance/) continues to improve customer engagement and advance our SaaS security story.  Independent security validation (compliance reports and certifications) is a critical component to ensuring transparency and adequacy of our security practices. Current and prospective customers highly value independent attestations of security controls and rely on these to reaffirm security of the software and inherent protection of their data. FY22 saw expansion of GitLab’s SOC 2 report to include the Security and Confidentiality criteria along with achievement of GitLab very first ISO/IEC 27001 certification. In FY23 we will continue to grow GitLab’s certification portfolio through SOC and ISO expansion with an additional focus on compliance offerings geared towards heavily regulated markets like FIPS 140-2 and FedRAMP.   These audits will greatly expand our ability to reach new markets, attract new customers, increase contract values and make GitLab even more competitive in the enterprise space.  A heavy focus will be placed on tooling and automation in FY23 to enable our rapid growth.
 
-The [Security Engineering sub-department's](/handbook/security/security-engineering-and-research/) focus in FY23 will continue to be in the direction of a proactive security stature. Adoption of additional automation and key technology integrations will help further increase efficiency and effectiveness. After the shift left accomplished last year, our ability to detect and remediate risks pre-production has improved. Building on this capability, improving visibility and alerting on vulnerabilities detected as close to code development as possible will be a new focus. Continued maturity of our infrastructure security, log aggregation, alerting, and monitoring will build upon the increased infrastructure visibility and observability accomplished last year. All of this will contribute towards minimizing risk and exposure in a proactive manner.
+The [Security Engineering sub-department's](/handbook/security/security-engineering/) focus in FY23 will continue to be in the direction of a proactive security stature. Adoption of additional automation and key technology integrations will help further increase efficiency and effectiveness. After the shift left accomplished last year, our ability to detect and remediate risks pre-production has improved. Building on this capability, improving visibility and alerting on vulnerabilities detected as close to code development as possible will be a new focus. Continued maturity of our infrastructure security, log aggregation, alerting, and monitoring will build upon the increased infrastructure visibility and observability accomplished last year. All of this will contribute towards minimizing risk and exposure in a proactive manner.
 
 For FY23 the [Security Operations sub-department](/handbook/security/security-operations/) will be committed to a focus on anti-abuse and incident response process maturity. Using established maturity frameworks, the program will focus on utilizing existing technologies with new expanded datasets supported by refined processes resulting in faster time to triage and short time to remediate.  Additional focus on gaining a deeper understanding of security incidents, abuse, and causes will drive additional preventative practices. Altogether, this will result in fewer security incidents, less abuse, a more secure, and more reliable service for all GitLab users.
 
@@ -948,6 +948,7 @@ To help achieving the vision of being the most Transparent Security Group in the
         <ul>
             <li>Application Security</li>
             <li>Infrastructure Security</li>
+            <li>Security Logging</li>
             <li>Security Automation</li>
             <li>External Security Communications</li>
         </ul>
@@ -981,13 +982,13 @@ To help achieving the vision of being the most Transparent Security Group in the
 
 #### Secure the Product - Security Engineering
 
-The [Security Engineering](/handbook/security/security-engineering-and-research/) teams below are primarily focused on Securing the Product. This reflects the Security Department’s current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
+The [Security Engineering](/handbook/security/security-engineering/) teams below are primarily focused on Securing the Product. This reflects the Security Department’s current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
 ##### Application Security
 
-[Application Security](/handbook/security/security-engineering-and-research/application-security/) specialists work closely with development, product security PMs, and third-party groups (including paid bug bounty programs) to ensure pre and post deployment assessments are completed. Initiatives for this specialty also include:
+[Application Security](/handbook/security/security-engineering/application-security/) specialists work closely with development, product security PMs, and third-party groups (including paid bug bounty programs) to ensure pre and post deployment assessments are completed. Initiatives for this specialty also include:
 
 - Perform vulnerability management and be a subject matter expert (SME) for mitigation approaches
 - Support and evolve the bug bounty program
@@ -1001,20 +1002,20 @@ The term “Product” is interpreted broadly and includes the GitLab applicatio
 
 ##### Infrastructure Security
 
-The [Infrastructure Security team](/handbook/security/security-engineering-and-research/infrastructure-security/) consists of cloud security specialists that serve as a stable counterpart to the [Infrastructure Department](/handbook/engineering/infrastructure) and their efforts. The team is focused on two key aspects of security:
+The [Infrastructure Security team](/handbook/security/security-engineering/infrastructure-security/) consists of cloud security specialists that serve as a stable counterpart to the [Infrastructure Department](/handbook/engineering/infrastructure) and their efforts. The team is focused on two key aspects of security:
 
 - The security of GitLab.com's infrastructure
 - The availability and scalability of Security's own infrastructure
 
 ##### Security Logging
 
-The [Security Logging team](/handbook/security/security-engineering-and-research/security-logging) is focused on guaranteeing that GitLab has the data coverage required to:
+The [Security Logging team](/handbook/security/security-engineering/security-logging) is focused on guaranteeing that GitLab has the data coverage required to:
  *  Perform the threat analysis, alerting and threat detections necessary to protect the company and its customers
  *  Ensure compliance with internal policies, standards, and regulatory requirements.
 
 ##### Security Automation
 
-[Security Automation](/handbook/security/security-engineering-and-research/automation/) specialists help us scale by creating tools that perform common tasks automatically. Examples include building automated security issue triage and management, proactive vulnerability scanning, and defining security metrics for executive review. Initiatives for this specialty also include:
+[Security Automation](/handbook/security/security-engineering/automation/) specialists help us scale by creating tools that perform common tasks automatically. Examples include building automated security issue triage and management, proactive vulnerability scanning, and defining security metrics for executive review. Initiatives for this specialty also include:
 
 - Assist other security specialty teams in their automation efforts
 - Assess security tools and integrate tools as needed
@@ -1197,7 +1198,7 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
     - [@gitlab-com/gl-security/security-assurance/field-security-team ](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team)
     - [@gitlab-com/gl-security/security-assurance/security-risk-team](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team)
     - [@gitlab-com/gl-security/security-assurance/governance](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance)
-- [Security Engineering and Research (@gitlab-com/gl-security/engineering-and-research)](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta)
+- [Security Engineering (@gitlab-com/gl-security/engineering-and-research)](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta)
     - [gitlab-com/gl-security/engineering-and-research-meta](https://gitlab.com/gitlab-com/gl-security/engineering-and-research-meta) For sub-department wide management and planning issues.
     - [gitlab-com/gl-security/engineering-and-research/automation-team/automation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/automation)
     - [@gitlab-com/gl-security/appsec](https://gitlab.com/gitlab-com/gl-security/appsec) is the primary group for @'mentioning the Application Security team.
@@ -1510,7 +1511,7 @@ Consider adding the `/confidential` quick action to a project issue template.
 - Add any additional labels you know apply. Additional labels will be applied
 by the security team and other engineering personnel, but it will help with
 the triage process:
-    - [`~"type::bug"`, `~"type::maintenance"`, or `~"type::feature"` if appropriate](/handbook/security/security-engineering-and-research/application-security/vulnerability-management.html#vulnerability-vs-feature-vs-bug)
+    - [`~"type::bug"`, `~"type::maintenance"`, or `~"type::feature"` if appropriate](/handbook/security/security-engineering/application-security/vulnerability-management.html#vulnerability-vs-feature-vs-bug)
     - Team or devops lifecycle labels
     - `~customer` if issue is a result of a customer report
     - `~internal customer` should be added by team members when the issue
@@ -1535,7 +1536,7 @@ For more _immediate_ attention, refer to [Engaging security on-call](#engaging-t
 #### Severity and Priority Labels on `~security` Issues
 
 Severity and priority labels are set by an application security engineer at the time of triage
-if and only if the issue is [determined to be a vulnerability](/handbook/security/security-engineering-and-research/application-security/vulnerability-management.html#vulnerability-vs-feature-vs-bug).
+if and only if the issue is [determined to be a vulnerability](/handbook/security/security-engineering/application-security/vulnerability-management.html#vulnerability-vs-feature-vs-bug).
 To identify such issues, the engineer will add the `~bug::vulnerability` label.
 Severity label is determined by CVSS score, using the [GitLab CVSS calculator](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/).
 If another team member feels that the chosen `~severity` / `~priority` labels
@@ -1556,7 +1557,7 @@ a external
 metric that may be evaluated by users as an indication of GitLab's commitment
 to protecting our users and customers. It is also an important measurement that
 security researchers use when choosing to engage with the security team, either
-directly or through our [HackerOne Bug Bounty Program](/handbook/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html).
+directly or through our [HackerOne Bug Bounty Program](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html).
 
 Vulnerabilities must be mitigated and remediated according to specific timelines.
 The timelines are specified in the [Vulnerability Management handbook](/handbook/security/threat-management/vulnerability-management/#remediation-slas) (a [controlled document](/handbook/security/controlled-document-procedure.html)).
@@ -1713,7 +1714,7 @@ These reviews are intended to be faster, more lightweight, and have a lower barr
 
 ##### Larger scale initiatives
 
-To get started, create an issue in the [security tracker](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/issues) using the [Appsec Review template](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/-/issues/new?issueable_tempalte=AppSec%20Review). The complete process can be found at [here](/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html).
+To get started, create an issue in the [security tracker](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/issues) using the [Appsec Review template](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/-/issues/new?issueable_tempalte=AppSec%20Review). The complete process can be found at [here](/handbook/security/security-engineering/application-security/appsec-reviews.html).
 
 Some use cases of this are for epics, milestones, reviewing for a common security weakness in the entire codebase, or larger features.
 
@@ -1734,7 +1735,7 @@ To help speed up a review, it's recommended to provide any or all of the followi
 
 #### What does the security process look like?
 
-The current process for larger scale internal application security reviews be found [here](/handbook/security/security-engineering-and-research/application-security/appsec-reviews.html)
+The current process for larger scale internal application security reviews be found [here](/handbook/security/security-engineering/application-security/appsec-reviews.html)
 
 #### My changes have been reviewed by security, so is my project now secure?
 
@@ -1773,15 +1774,15 @@ If triage is delayed due to team availability, the delay should be communicated.
 
 #### Triage Rotation
 
-See the [dedicated page](/handbook/security/security-engineering-and-research/application-security/runbooks/triage-rotation.html) to read about our Triage Rotation process.
+See the [dedicated page](/handbook/security/security-engineering/application-security/runbooks/triage-rotation.html) to read about our Triage Rotation process.
 
 #### HackerOne Process
 
-See the [dedicated page](/handbook/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html) to read about our HackerOne process.
+See the [dedicated page](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html) to read about our HackerOne process.
 
 #### Security Dashboard Review
 
-See the [dedicated page](/handbook/security/security-engineering-and-research/application-security/runbooks/security-dashboard-review.html) to read about our dashboard review process.
+See the [dedicated page](/handbook/security/security-engineering/application-security/runbooks/security-dashboard-review.html) to read about our dashboard review process.
 
 #### CVE IDs
 
@@ -1798,7 +1799,7 @@ On the day of the security release several things happen in order:
 - The public is notified via the GitLab blog release post, security alerts email, and Twitter.
 - The vulnerability acknowledgements page is updated with appropriate credits to the reporting researchers.
 
-The GitLab issue should then be closed and - after 30 days - sanitized and made public. If the report was received via HackerOne, follow the [HackerOne process](/handbook/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html#closing-out-and-disclosing-issues).
+The GitLab issue should then be closed and - after 30 days - sanitized and made public. If the report was received via HackerOne, follow the [HackerOne process](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html#closing-out-and-disclosing-issues).
 
 ##### Process for disclosing security issues
 

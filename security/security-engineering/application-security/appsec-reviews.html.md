@@ -122,7 +122,7 @@ during the review add the `threat model::needed` label to the original issue or 
 appsec review issue. That way we can track the adoption of threat modeling throughout GitLab. When
 the threat modeling step is done the
 `threat model::done` label should be added to all involved issues and epics. The process for
-threat modeling is further defined in its [own handbook page](/handbook/security/security-engineering-and-research/application-security/runbooks/threat-modeling.html).
+threat modeling is further defined in its [own handbook page](/handbook/security/security-engineering/application-security/runbooks/threat-modeling.html).
 
 ### Quantifying interactions
 
@@ -137,5 +137,5 @@ following the conditions below:
 
 [1]: https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit
 [2]: https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/issues
-[3]: /handbook/security/security-engineering-and-research/application-security/#stable-counterparts
+[3]: /handbook/security/security-engineering/application-security/#stable-counterparts
 [4]: /handbook/security/#issue-triage

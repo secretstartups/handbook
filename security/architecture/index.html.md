@@ -67,7 +67,7 @@ cycle of source code:
 
 - [AppSec projects policies]
 
-[AppSec projects policies]: /handbook/security/security-engineering-and-research/application-security/inventory.html#policies
+[AppSec projects policies]: /handbook/security/security-engineering/application-security/inventory.html#policies
 
 ### InfraSec
 
