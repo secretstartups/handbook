@@ -84,25 +84,25 @@ Systems are assigned a critical system tier based on the following matrix:
   <tr>
     <td class="tg-e02t">Tier 1 Mission Critical<span style="color:#DB3B21;">**</span></td>
     <td class="tg-zqun">Disruption or breach has an immediate and significant impact to the availability/security of GitLab subscriptions and [customer data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions).</td>
-    <td class="tg-zqun">GitLab.com</td>
+    <td class="tg-zqun">Cloudflare, GitLab.com, Rackspace</td>
     <td class="tg-zqun">Tier 1 Product</td>
   </tr>
   <tr>
     <td class="tg-e02t">Tier 2 Business Critical</td>
     <td class="tg-zqun">Disruption has an immediate and significant impact to critical business functions and customer service.</td>
-    <td class="tg-zqun">customers.gitlab.com/subscription</td>
+    <td class="tg-zqun">customers.gitlab.com/subscription, Netsuite, Salesforce</td>
     <td class="tg-zqun">Tier 1 Business and Tier 2 Core</td>
   </tr>
   <tr>
     <td class="tg-e02t">Tier 3 Business Operational</td>
     <td class="tg-zqun">Disruption affects operational business functions, negatively impacting efficiency/cost of operation across departments</td>
-    <td class="tg-zqun">ZenGRC</td>
+    <td class="tg-zqun">Clearwater, PagerDuty, ZenGRC</td>
     <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>    
   </tr>
   <tr>
     <td class="tg-e02t">Tier 4 Administrative</td>
     <td class="tg-zqun">Affects GitLab team members only at an individual level (e.g., quality of life, individual productivity)</td>
-    <td class="tg-zqun">Modern Health</td>
+    <td class="tg-zqun">Donut, Jetbrains, LinkedIn Learning, Modern Health</td>
     <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>
   </tr>
 </tbody>
