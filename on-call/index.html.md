@@ -20,13 +20,13 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 ## Expectations for On-Call
 
-- If you are on call, then you are expected to be available and ready to respond to PagerDuty pings as soon as possible, but certainly within any response times set by our [Service Level Agreements](/support/#priority-support) in the case of Customer Emergencies. This may require bringing a laptop and reliable internet connection with you if you have plans outside of your work space while being on call, as an example.
-- We take on-call seriously. There are escalation policies in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies are essentially expected to never be triggered, but they cover extreme and unforeseeable circumstances.
-- Because GitLab is an asynchronous workflow company, @mentions of On-Call individuals in slack will be treated like normal messages and no SLA for response will be attached or associated with them.
+- If you are on call, then you are expected to be available and ready to respond to PagerDuty pages as soon as possible, and within any response times set by our [Service Level Agreements](/support/#priority-support) in the case of Customer Emergencies. If you have plans outside of your workspace during your on-call shift, this may require that you bring a laptop and reliable internet connection with you.
+- We take on-call seriously. There are escalation policies in place so that if a first responder does not respond in time, another team member is alerted. Such policies are not expected to be triggered under normal operations, and are intended to cover extreme and unforeseeable circumstances.
+- Because GitLab is an asynchronous workflow company, @mentions of On-Call individuals in Slack will be treated like normal messages, and no SLA for response will be associated with them.
 - Provide support to the release managers in the release process.
-- As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
-  - Specific to team members in Australia review the [Time in lieu policy here](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/)
-- For on-call it's the responsibility of the team members to act in compliance with local rules and regulations. If ever in doubt, please reach out to your manager and/or [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
+- As noted in the [main handbook](/handbook/paid-time-off), after being on-call, make sure that you take time off. Being available for issues and outages can be taxing, even if you had no pages.  Resting after your on-call shift is critical for preventing burnout. Be sure to inform your team of the time you plan to take for time off.
+  - Team members in Australia should review the [Australia time in lieu policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/).
+- During on-call duties, it is the team member's responsibility to act in compliance with local rules and regulations. If ever in doubt, please reach out to your manager and/or [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
 ## Customer Emergency On-Call Rotation
 
