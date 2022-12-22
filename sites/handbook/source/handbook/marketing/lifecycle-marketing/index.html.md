@@ -24,6 +24,8 @@ This role works closely across Marketing for all things email, and directly with
 
 [Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
+For a comprehensive view of our [nurture programs](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#nurture-programs), [best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices), [email processes](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#email-processes), and more, please go to our [Email & Nurture Handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/). Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
+
 ### Meet the Team
 {: #meet-the-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -37,14 +39,16 @@ This role works closely across Marketing for all things email, and directly with
 
 **Luis Diego D'Ambrosio** _Senior Lifecycle Marketing Manager_
 
-- **Intelligent Nurture**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboraiton with marketing operations
+- **Intelligent Nurture**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
 - **Communication of Nurture Updates**: regularly update the larger marketing team about updates to the Intelligent Nurture
 
 **Allie Klatzkin** _Lifecycle Marketing Manager_
 
 - **Free User Campaigns**: DRI for free user efficiency project, focused on progression of free users to trial to paid
+- **Trial User Campaigns**: DRI for trial nurture, focused on progressing trial users to paid
 - **Email Templates**: define needs, organize design, and manage development and testing of new email templates
-- **Email Best Practices**: enable teams across GitLab (mainly Marketing and Sales Dev) on email best practices
+- **Email Best Practices, Processes & Optimization**: enable teams across GitLab (mainly Marketing and Sales Dev) on email best practices, as well as streamlining, scaling, and improving email performance
+
 
 ### OKRs
 {: #okrs}
@@ -119,7 +123,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
-### Prioiritization
+### Prioritization
 {: #prioritization-boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -183,6 +187,8 @@ Note on timelines: The campaigns team is focused on campaign strategy, execution
 - [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder) - these will triage to Verticurl
 - [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests* these will triage to Verticurl. *For customer communications, please work with Marketing Ops.*
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
+- [request-corp-conference-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email)
+
 
 #### Campaign Team Issue Templates
 {: #campaign-issues-templates}
@@ -199,6 +205,8 @@ The following issue templates are used by the campaigns team to organize their w
 - [lifecycle-onboarding](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-onboarding)
 - [lifecycle-ooo](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-ooo)
 - [lifecycle-reporting](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-reporting)
+- [lifecycle-abtest](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-ab-test)
+
 
 ?? should we replicate some of these for lifecycle?
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)

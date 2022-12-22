@@ -45,19 +45,22 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
 ## GitLab Email Calendar
 {: #calendar .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+We have moved our email calendar to Asana! We will have email stakeholder syncs each Thursday to review emails for the upcoming two weeks. If you need the call added to your calendar, please ask Allie Klatzkin. To ensure this is done smoothly, please add your emails to the calendar as soon as you know that they are upcoming (regardless if you have all information). Due to limited seats, we will be providing 1-2 seats per team on the calendar. Please reach out to your team's DRI with any questions. 
 
-The calendar below documents the emails to be sent via Marketo for:
-1. nurture emails
-1. virtual events (invitations, reminders, and follow ups)
-1. in-person events (invitations, reminders, and follow ups)
-1. ad hoc emails (security, etc.)
-1. milestones for nurture campaigns (i.e. when started, changed, etc. linking to more details)
+**Calendar goal**
+* Prioritize our emails to ensure we are sending the right emails to the right audience at the right time.
+* Provide visibility across teams on upcoming sends
+* Streamline communication and processes around emails
 
-*Note: emails in the future may be pushed out if timelines are not met for email testing, receiving lists from event organizers late, etc. The calendar will be updated if the email is pushed out.*
+**Process to add emails to the calendar:**
+[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates) in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
 
-<figure>
-  <iframe src="https://calendar.google.com/calendar/b/1/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=gitlab.com_bpjvmm7ertrrhmms3r7ojjrku0%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</figure>
+Steps to add to the Asana calendar:
+* Ensure the label for "email-calendar" is added to your issue.
+* Add labels for the appropriate segmentation: “Global-email”, “EMEA-email”, “AMER-email”, “APAC-email”
+* Add labels for appropriate email type: “operational-email” “non-operational-email”  
+* Set email issue due date as the send date
+
 
 
 ### Holiday coverage for severity::1 security vulnerabilities email communication
@@ -65,6 +68,66 @@ The calendar below documents the emails to be sent via Marketo for:
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event of an severity::1 (critical) security vulnerability email communication is needed during the holidays, please create an issue using the *[incident_communications](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications)* template and ping in [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) tagging @marketing-programs and #mktgops. Follow  addititonal directions [here](https://about.gitlab.com/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms). 
+
+
+## QA process
+{: #qa-processes .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
+
+**FY24-Q1**: In Q1 of FY24, we will share out how we will continue to scale the email review process.
+
+Email workflow:
+First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
+
+### Team variations to QA process
+{: #qa-processes-by-team}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+- Campaigns: build the email yourself (or request from Verticurl) and have lifecycle QA.
+- FMM: Request the email to be built by Verticurl and send to lifecycle for approval.
+- Corp: using the process we outlined previously [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit#gid=0)
+
+#### Campaigns Team QA process
+{: #qa-process-campaigns}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+_Submit final email for QA and scheduling_
+
+- Step 1: Submit an email issue for the appropriate email type and assign yourself and a lifecycle counterpart to your email. Be sure to include the proper labels for the email calendar.
+- Step 2: Highlight your desired send date and time. (Will be reviewed and potentially modified by the Lifecycle team).
+- Step 3: Build the program and email in Marketo by referring to our [email marketing best practices](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit?usp=sharing) and segment the email accordingly.
+- Step 4: Include a link to the Marketo program while submitting an [Email issue request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email).
+- Step 5: Send a sample for lifecycle to QA
+    - Global/AMER/Newsletters/Corporate = reviewed by [Allie](mailto:aklatzkin@gitlab.com)
+    - APAC/EMEA/Intelligent Nurture = reviewed by [Luis](mailto:ldambrosio@gitlab.com)
+- Step 6: Make revisions & schedule the email. Can be done by lifecycle or campaigns team member.
+
+#### Field Marketing QA process
+{: #qa-process-field-marketing}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+_Request for Verticurl to build the email_
+- Step 1: Submit an email issue as normal with requested send time and date. Assign to lifecycle marketing for advanced visibility.
+- Step 2: Create copy and tag Verticurl and Lifecycle - within existing SLA of 5 days before send:
+    - [Copy doc](https://docs.google.com/document/d/1ZhHihX1tSoMkio2-qN-iH7lX_2WQuudVOBacd5tiHIk/edit?usp=sharing) filled in (including UTMs - only necessary for internal links)
+    - Images 
+    - Requested segmentation
+- Step 3: Verticurl will build the email and send to FMM & Lifecycle to review within 24 hours
+- Step 4: Verticurl makes any corrections and will schedule the email
+
+#### Corporate Marketing QA process
+{: #qa-process-corporate}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+_Request for Lifecycle to determine promotional content_
+
+Upon request, we will work with the Corporate Events team to promote and follow-up from our sponsored corporate conferences.
+
+Promotion will only be done for Tier 1 events and events that have ancillary events added to them. We will promote to audiences who have previously attended the event, in addition to local audiences that match the persona. For full criteria and steps, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing). 
+
+The process must kick off a month before the event, to ensure we have all of the relevant information for promotion and follow-up.
+
+#### Newsletter QA process
+{: #qa-process-newsletter}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Full newsletter request information can be found [here](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter).
 
 ## Email Nurture Programs
 {: #nurture-programs .gitlab-purple}
@@ -203,6 +266,15 @@ Instead, we should take the following steps:
 
 3. Monitor results on an email report
 4. Document results on [A/B testing tracker](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit#gid=2079991889)
+
+#### Intelligent Nurture - Event promotional changes 2022-2022
+{: #event-promotional-changes-2022}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+In an effort to ensure audiences are not receiving duplicate emails and to streamline our own processes, we will be updating our current approach for promoting events via Intelligent Nurture and 2 email blasts. For now, all add to nurture issues that have duplicate email blasts will be cancelled. We will roll out a more comprehensive process in February.
+
+For additional context, please see the [issue here](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/3111).
+
 
 #### Reading for those unfamiliar with Marketo
 {: #marketo-nurutre-reading}
@@ -777,15 +849,6 @@ You can remove specific recurrences of scheduled sales nominated deployments. Th
 
 To cancel a send, follow [these directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
 
-## Email process for corporate conferences
-{: #corporate-conference-promotion}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Upon request, we will work with the Corporate Events team to promote and follow-up from our sponsored corporate conferences.
-
-Promotion will only be done for Tier 1 events and events that have ancillary events added to them. We will promote to audiences who have previously attended the event, in addition to local audiences that match the persona. For full criteria and steps, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing). 
-
-The process must kick off a month before the event, to ensure we have all of the relevant information for promotion and follow-up.
 
 ## Template and process for mass-uploading issues for promotional events
 {: #email-mass-upload}
