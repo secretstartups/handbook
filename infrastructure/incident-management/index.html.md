@@ -145,7 +145,7 @@ To engage with the Incident Manager run `/pd trigger` and choose the `GitLab Pro
 
 Occassionally we encounter multiple incidents at the same time. Sometimes a single Incident Manager can cover multiple incidents. This isn't always possible, especially if there are two simultaneous high-severity incidents with significant activity.
 
-When there are multiple incidenets and you decide that additional incident manager help is required, take these actions:
+When there are multiple incidents and you decide that additional incident manager help is required, take these actions:
 1. Post a slack message in #imoc_general as well as #incident-management asking for additional Incident Manager help.
 1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in Pagerduty.
 
