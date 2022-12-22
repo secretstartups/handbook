@@ -9,7 +9,14 @@ To drive use case enablement and expansion with customers, we need to define exa
 
 ## License Utilization
 
-See [Health Score Triage](/handbook/customer-success/csm/health-score-triage/#license-usage-health-table) for specifics.
+### License Usage health table
+
+|        | 2-6 Months                               | 6-9 Months                               | > 9 Months                             |
+|--------|------------------------------------------|------------------------------------------|----------------------------------------|
+| < 10%  | Red       | Red       | Red     |
+| 10-50% | Yellow | Red       | Red     |
+| 51-75% | Green   | Yellow | Red     |
+| > 75%  | Green   | Green   | Green |
 
 ## Use Case Health Scoring
 
