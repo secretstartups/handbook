@@ -74,11 +74,12 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 ##### January:
 1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
     * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
-    * Managers and indirect managers will review their team members  and propose an increase based on several factors:
+    * Managers and indirect managers will review their team members and propose an increase based on several factors:
         * Performance Factor
         * Growth Potential Factor
-        *  Key Talent
+        * Key Talent
         * Market adjustment
+        * Last compensation change
         * Benchmark % change
         * Location factor % change
         * _Note that the market adjustment  increase to range provided in the review grid is not a cap, but instead a minimum value to ensure alignment to the new ranges. The market adjustment is required to allocate to all team members and extra budget has been allocated to managers to account for this cost. Performance increases are allocated on top of the market adjustment._
@@ -96,9 +97,10 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. January 30th: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
-1. February 1st: Effective date for cash compensation changes. Total Rewards and People Tech will be generating a "Cash Compensation Statement" in Workday that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24. 
+1. February 1st: A "Cash Compensation Statement" that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24 will be generated in Workday. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24.
+    * February 7th: Managers communicate compensation increases to contractors by February 7th in order for contractors to submit invoice.
+    * February 9th: Managers communicate compensation increases to to US, non-US, Canada. 
 1. February 1st - February 4th: Total Rewards will audit all of the updates to Workday and provide Payroll with a report of all increases effective February 1
-1. February 4 - 9: Managers will be able to communicate increases and promotions (where applicable) to their team members. Note: Information for team members who invoice GitLab (Contractors) needs to be communicated by February 5th, as these team members need to finalize invoice amounts by February 7, 2022. 
 1. February 16th: Compensation and job title visibility will be returned to team members in Workday.
 
 In February, Director+ leaders will plan Phase 2 of the Annual Compensation Review cycle by planning Equity.  Exact dates for this Phase will be communicated in January.
@@ -128,10 +130,10 @@ Do not expect that the final discretionary increases will fall into these ranges
 
 When determining an increase, managers should account for increases in the current fiscal year,
 due to factors such as:
-* Promotion.
-* Transfer.
-* Recent hire who is already aligned to market/performance rates.
-* Anything else that has already increased salary during the current fiscal year.
+* Promotion
+* Transfer
+* Recent hire who is already aligned to market/performance rates
+* Anything else that has already increased salary during the current fiscal year
 
 After a manager determines the performance increase (in percentages), that manager should be able to clearly communicate to the team member how it was derived.
 
@@ -148,7 +150,7 @@ In calibrating the equity refresh, we recommend managers to take the following i
 * Unvested Equity Holdings
 * Value Vesting the next fiscal year 
 
-Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between growth potential factor and compensation outcomes, director and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
+Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between growth potential factor and compensation outcomes, Directors and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
 
 ### Key Talent 
 
@@ -156,7 +158,7 @@ For team members designated as [key talent](/handbook/people-group/talent-assess
 
 ### Communicating Talent Assessments
 
-Communications on talent assessments is set to take place 2023-01-03 through  2023-01-31 ahead of communications for annual compensation review increases.  Please review the handbook page on [communicating talent assessments (/handbook/people-group/talent-assessment/#communication) ahead of having talent assessment conversations with your reports.
+Communications on talent assessments is set to take place 2023-01-03 through  2023-01-31, ahead of communications for annual compensation review increases.  Please review the handbook page on [communicating talent assessments (/handbook/people-group/talent-assessment/#communication) ahead of having talent assessment conversations with your reports.
 
 ## Determining Cash Compensation Increases
 
@@ -168,46 +170,46 @@ When you review your team member’s job and compensation information in the Wor
     * Managers should review how team members fall within their band after the proposed increase to ensure pay equality amongst peers. (This is also audited by Total Rewards as part of the cycle).
 
 ### For Promotions
-When determining compensation increases for promotions the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaically allocate an annual compensation review increase in addition to the promotion increase. Instead, we encourage managers to look at the new range (which will be seen on Workday once the promotion is applied) and then make a recommendation based on the holistic view considering the [promotion compensation increase guidance](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase), placement in the band compared to peers who were promoted and annual compensation review increase recommendations. 
+When determining compensation increases for promotions, the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaically allocate an annual compensation review increase in addition to the promotion increase. Instead, we encourage managers to look at the new range (which will be seen in Workday once the promotion is applied) and then make a recommendation based on the holistic view considering the [promotion compensation increase guidance](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase), placement in the band compared to peers who were promoted and annual compensation review increase recommendations. 
 
 ## Manager Review
 
-As part of FY24 [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers and indirect managers will review, approve, and enter  salary increases and promotions from 2023-01-04 to 2023-01-18 to ensure that we are paying each team member to market and prioritizing increases based on performance while staying aligned to budget. Then, equity refresh awards will be planned by Directors and above  in February (dates TBA) and communicated in March following Board approval.
+As part of the FY24 [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers and indirect managers will review, approve, and enter salary increases and promotions from 2023-01-09 to 2023-01-20 to ensure that we are paying each team member to market and prioritizing increases based on performance while staying aligned to budget. Then, equity refresh awards will be planned by Directors and above in February (dates TBA) and communicated in March following Board approval.
 
-It is very important that GitLab team-members understand their performance and how it impacts their salary.
+It is very important that GitLab team members understand their performance and how it impacts their salary.
 
-While some GitLab team-members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location, there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email Total Rewards with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a commendable level.
+While some GitLab team members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location, there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email Total Rewards with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a satisfactory level.
 
 For any feedback around the manager review portion of Annual Compensation Review or the cycle via Workday, please add to the following: TODO (create issue).
 
 ### Manager Review in Workday
 
-[Workday](https://www.myworkday.com/gitlab/d/home.htmld) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
+[Workday](https://www.myworkday.com/gitlab/d/home.htmld) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during the Annual Compensation Review cycle.
 
 #### Logging into Workday 
 
 1. Navigate to [Workday](https://www.myworkday.com/gitlab/d/home.htmld). We recommend logging in through [Okta](https://gitlab.okta.com/app/UserHome).
 * ![Workday tile](/images/handbook/people-group/workday-tile.png)
-1. On 2023-01-04 at 12PM PST, you will receive a task in your inbox related to Annual Compensation Review. Note that this task will not be visible until this launch date.
+1. On 2023-01-09 at 12PM PST, you will receive a task in your inbox related to Annual Compensation Review. Note that this task will not be visible until this launch date.
 1. In your inbox, select the **FY24 Annual Compensation Review** task.
 * ![Workday inbox item](/images/handbook/people-group/workday-inbox-acr.png)
 
 ### For People Managers
 
 1. After logging in, you will land on the Organization Summary page. This will include an overview of  your merit and promotion budgets and spend, along with a summary of the organizations that report to you.
-   * ADD IMAGE
+   * ![org summary](/images/handbook/people-group/org-summary.jpeg)
 1. Proceed to the planning grid for your team members. The 5 leftmost columns include team member information that will remain static as you plan across 3 grid views that you can navigate to at the top: Summary, Performance, and Promotion.
-   * ADD IMAGE
+   * ![summary](/images/handbook/people-group/summary.jpeg)
    * Team Member Information: Under each team member name is the org they belong to and manager they report to, followed by their current job title. The FY23 Performance Factor, FY23 Growth Potential Factor, and FY23 Key Talent columns show results from the [talent assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/) completed in November-December. The Warnings column will include any flags that need to be resolved during the planning process before submitting.
    * If you are a frontline manager (you do not have people managers who report to you), the planning grid with your direct reports automatically displays when you land on the Organizational Summary page.
    * If you are a manager with indirect reports (you have people managers who report or roll up to you), you will not immediately have a view of a planning grid. To make merit and promotion recommendations for your direct reports, select the pencil icon under Propose to proceed to the planning grid. Alternatively, you may select **Actions > Propose Compensation for My Organizations**.
-   * ADD IMAGE
+   * ![propose](/images/handbook/people-group/propose.jpeg)
       * To make recommendations for indirect reports (employees who roll up to you but do not directly report to you), you will have to click on **Sub Orgs**. 
-      * ADD IMAGE
+      * ![sub-org](/images/handbook/people-group/sub-org.jpeg)
 1. **Summary grid:** This grid view provides an overview of total pay, performance and market increase percentage and amount, promotion increase percentage and amount, as well as proposed total pay with promotion increase. We recommend reviewing this summary grid at the end once completing the performance and promotion grids to view your proposals in one place.
-   * ADD IMAGE
-1. **Performance grid:** Navigate to this grid to propose non-promotional base salary increases for team members related to performance and market adjustments. 
-   * ADD IMAGE
+   * ![summary](/images/handbook/people-group/summary.jpeg)
+1. **Performance grid:** Navigate to this grid to propose non-promotional cash compensation increases for team members related to performance and market adjustments. All increases are in terms of OTE (On Target Earnings) and will be split into base salary and variable compensation, if applicable, once the cycle concludes. If a team member has no variable component, this will reflect their base salary.
+   * ![performance](/images/handbook/people-group/performance2.jpeg)
    * Note that you will only enter information into the _Performance and Market Increase %_ or _Performance and Market Increase Amount_ columns. Once you enter information into one, the other will automatically calculate the equivalent percentage or amount.
    * Managers are advised to include the designated market adjustment (if greater than zero) and combine it with a performance increase as part of their total proposal. Example: You are a manager proposing a 2% performance increase for your team member, and the market adjustment increase % for your team member’s role is 4%. You would enter 6% into the _Performance and Market Increase %_ column.
    * To help managers assess increases, Total Rewards has added the following data points and features:
@@ -223,9 +225,9 @@ For any feedback around the manager review portion of Annual Compensation Review
        * **Current Compa-Ratio** and **Proposed Compa-Ratio** to show where the team member falls in the range before and after your recommendation
        * **Country**
 1. **Promotion grid:** If the team member is being recommended for a promotion during this cycle, you would enter the promotion amount in this grid.
-   * ADD IMAGE
+   * ![promo](/images/handbook/people-group/promo2.jpeg)
    * The range for their new role will be updated once you select “Yes” in the Promote column and enter the desired job profile in the _Proposed Job Profile_ column, and you will have the opportunity to add extra context in the _Promotion Notes_ column.
-   * If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner prior to entering the promotion on Workday.
+   * If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner prior to entering the promotion in Workday.
    * Note: You can only enter a promotion increase percentage/amount if “Yes” is entered in the _Promote_ column and a job profile is entered in the _Proposed Job Profile_ column.
 1. After entering all your recommendations, select _Continue_. This will take you to the Organization Summary page. Once you have confirmed that all of your organizations have submitted their recommendations, select _Submit_.
    * Note: If you have subordinate organizations, you will be unable to complete this step until all subordinate organizations have inputted and submitted their recommendations.
@@ -235,7 +237,7 @@ For any feedback around the manager review portion of Annual Compensation Review
 
 TO UPDATE
 
-### Communicating Compensation Increases
+### Communicating Cash Compensation Increases
 
 TO UPDATE
 
@@ -252,7 +254,7 @@ TO UPDATE
 
 1. Navigate to your Workday inbox and click on the task titled **FY24 Annual Equity Review (due 2023-02-XX)**
 1. After logging in, you will land on the Organization Summary page which includes an overview and status of your equity budget and spend for team members who report to or roll up to you.
-   *ADD IMAGE
+   * ![equity](/images/handbook/people-group/equity.jpeg)
 1. Similar to cash compensation planning, you will enter your equity recommendations into a grid. The grid contains the same 5 leftmost columns. However, there is only one grid view and there is a smart panel on the right that updates based on the selected team member. Additional information is included to add context and help you with your equity refresh grant allocations:
    * Unvested Equity as of 2023-02-01
    * Value Vesting from 2023-02-01 to 2024-01-31
