@@ -326,7 +326,7 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 Team members can receive Statutory Maternity Pay for up to 39 weeks:
 * To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
 * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
-* £151.97 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
+* £156.66 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
 
 If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
 
