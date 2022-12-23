@@ -40,7 +40,7 @@ Or to search the GitLab docs for `permissions` you could type in your browser (w
 
 > `gd permissions`
 
-You can find instructions on how to set up keyword searches in Chrome and Firefox below. 
+You can find instructions on how to set up keyword searches in Chrome and Firefox below.
 
 ### Setting up keyword searches on Chrome
 
@@ -54,7 +54,7 @@ The steps below show you how to set up a keyword search for searching the GitLab
 | 2. In the `Site search` section, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
 | 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `https://about.gitlab.com/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
 
-**Alternative:** The above adds the GitLab Handbook site search function to Chrome.  If you would prefer to continue to use Google search engine to site search the Handbook, in step 3.c. above you can add `https://www.google.com/search?q=site:about.gitlab.com %s` in *URL* 
+**Alternative:** The above adds the GitLab Handbook site search function to Chrome.  If you would prefer to continue to use Google search engine to site search the Handbook, in step 3.c. above you can add `https://www.google.com/search?q=site:about.gitlab.com %s` in *URL*
 
 To test this, open a new tab and in the address bar type: `hb` <kbd>Tab</kbd> `iteration` and press enter.
 The GitLab handbook page should load with the search results for `iteration` showing.  If you use the alternative approach with the search site: method, the Google search results page should load with results exclusively from the Handbook.
@@ -161,15 +161,18 @@ There is also [a repo maintained by GitLab team members](https://gitlab.com/gitl
 You can perform spotlight-like searches with [Raycast](https://www.raycast.com/) by using the quicklink feature.
 
 1. Press your Raycast hotkey (default: `option` + `space`)
-1. Type in `Create quicklink` and choose the option
-1. Name your quicklink and add the search URL
-   1. To search the GitLab docs, use `https://google.com/search?q=site%3Adocs.gitlab.com+{Query}` as your link
-   1. To search the GitLab handbook, use `https://google.com/search?q=site%3Aabout.gitlab.com+inurl%3Ahandbook+{Query}` as your link
+1. Open store (type `store`)
+1. Install `GitLab Docs`
+1. (optional) Set shortcuts
+   1. Search for `extensions`
+   1. Press enter
+   1. Look for `GitLab Docs`
+   1. Assign `Alias` or `Hotkey`
 
 Now, you can use Raycast to search:
 
 1. Press your Raycast hotkey
-1. Type in your quicklink name
+1. Type in `GitLab Docs`, `GitLab Handbook` or `Pajamas`
 1. Press enter
 1. Type in your search query
 1. Press enter
@@ -180,7 +183,7 @@ Your search will open in your chosen browser.
 
 ## Searching recorded events using GitLab Unfiltered
 
-To search for recorded events in [GitLab Unfiltered via our YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/featured) here are the steps you can follow: 
+To search for recorded events in [GitLab Unfiltered via our YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/featured) here are the steps you can follow:
 
 * Open [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/featured)
 * Click on the magnifying icon on the top bar indicating “Search.”
@@ -201,7 +204,7 @@ To search for recorded events in [GitLab Unfiltered via our YouTube Channel](htt
 
 *In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Darren M. walks through a brief tutorial on using Git file history and Git blame to track down a handbook change.*
 
-You can search repositories in GitLab for changes using [Git file History](https://docs.gitlab.com/ee/user/project/repository/git_history.html) and [Git blames](https://docs.gitlab.com/ee/user/project/repository/git_blame.html). 
+You can search repositories in GitLab for changes using [Git file History](https://docs.gitlab.com/ee/user/project/repository/git_history.html) and [Git blames](https://docs.gitlab.com/ee/user/project/repository/git_blame.html).
 
 Git file History provides information about the commit history associated with a file, while a blame provides more information about every line in a file, including the last modified time, author, and commit hash.
 

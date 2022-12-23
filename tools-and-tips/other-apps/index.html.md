@@ -79,7 +79,7 @@ After installing the extension, access the project page you are interested in fo
 Certainly do not install it on your local machine.
 But even the Google Chrome plugin that lets you see embedded Flash content in websites can pose a security hazard.
 If you have not already, go to your [Chrome Flash Settings](chrome://settings/content/flash) and disable Flash.
-For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough), 
+For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough),
 it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/security-news/zero-day-vulnerability/).
 
 ### Prototyping in the browser
@@ -139,7 +139,7 @@ The core app is free to download and use, but the paid [Powerpack](https://www.a
 It's a great tool for developers and general productivity enthusiasts alike.
 The clipboard history feature is nicely integrated with many tools, and for example will forget passwords copied from 1Password after they have been pasted.
 
-Alfred adds the ability to create custom searches. Here are two to search the docs and the handbook. 
+Alfred adds the ability to create custom searches. Here are two to search the docs and the handbook.
 ```
 https://docs.gitlab.com/search/?q={query}
 ```
@@ -234,9 +234,11 @@ Consider using this to hide Slack after a while to reduce your urge to check new
 
 ### Raycast
 
-[Raycast](https://www.raycast.com/) is a productivity tool similar to [Alfred](#alfred) and Spotlight on macOS. Download the app and select your preferred shortcut. You can also replace spotlight entirely by choosing `cmd + space` as shortcut. 
+[Raycast](https://www.raycast.com/) is a productivity tool similar to [Alfred](#alfred) and Spotlight on macOS. Download the app and select your preferred shortcut. You can also replace spotlight entirely by choosing `cmd + space` as shortcut.
 
 The core app provides many workflows built-in, extensions from the [store](https://www.raycast.com/store) can be installed either directly from the web, or by using the built-in [extension search](https://developers.raycast.com/basics/install-an-extension).
+
+There is [an unofficial extension maintained by GitLab team members](https://www.raycast.com/saschaeggi/gitlab-docs) to search the GitLab documentation, the Handbook, and the Pajamas Design System.
 
 **Please do not use extensions for GitLab using a personal access token (PAT) for security reasons.**
 
@@ -307,9 +309,9 @@ Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242)
 
 ### Webex
 
-GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. 
+GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted.
 
-- To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.  
+- To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.
 - Consider installing their [native app](https://www.webex.com/downloads.html). Team members have reported issues when trying to use WebEx in Safari, so we recommend using other browsers such as Google Chrome when hosting or joining meetings.
 - Before attending a Webex meeting you can test to ensure your Webex is setup correctly by joining a [test meeting](https://www.webex.com/test-meeting.html).
 - The in-browser plugin the screen sharing sometimes doesn't work.

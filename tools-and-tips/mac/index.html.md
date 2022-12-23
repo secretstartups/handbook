@@ -75,6 +75,14 @@ With enabling [Alfred](/handbook/tools-and-tips/other-apps/#alfred) and e.g. rep
 1. Type in `lock`. After repeating this for a while, you can just type `l`.
 1. `Enter` to lock the screen.
 
+### With Raycast
+
+With enabling [Raycast](/handbook/tools-and-tips/other-apps/#raycast) and e.g. replacing Spotlight's `Cmd + Space` shortcut, you can do speedy locking with your keyboard:
+
+1. Press `Cmd + Space`.
+1. Type in `lock`. After repeating this for a while, you can just type `l`.
+1. `Enter` to lock the screen.
+
 ## Keeping your Mac awake
 
 There are some great app-based solutions that will keep your Mac awake listed in the [macOS utilities](#macos-utilities) table below, but there’s also a really simple built-in way to do this:
@@ -158,7 +166,7 @@ and it will be removed from your machine.
 The following macOS utilities are favourites among GitLab team members.
 Make sure to join the [#macOS](https://gitlab.slack.com/archives/CDKA4RCE7) Slack channel for Questions and tips about using macOS.
 
-| Category | Utility | Description | 
+| Category | Utility | Description |
 |---|---|---|
 | Cursor | [Yoink](https://eternalstorms.at/yoink/mac/) ~$8 USD, free trial | creates a holding pen for drag-and-drop activities to allow cross-monitor or allow rearranging windows during the drag process |
 | Date/Time | [Clocker](https://apps.apple.com/au/app/clocker/id1056643111) | Helps you keep track of the time of your team members in different time zones. |
