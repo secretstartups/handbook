@@ -25,6 +25,11 @@ You can read more about the role below:
 - [Support Manager Responsibilities](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html)
 - [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
 
+### Regional Variations
+
+Some teams have slight tactical differences, you can see distinctive of regional approaches on the following pages:
+- [AMER](/handbook/support/managers/amer/)
+
 ## How to see what the Support managers are working on
 
 ### Epics
