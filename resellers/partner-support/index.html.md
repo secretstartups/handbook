@@ -38,6 +38,7 @@ _All team members work all regions, according to the timezone they work within. 
 _As part of the programs team, the Partner Help Desk team is not a part of the sales process, but works with partners to move throughout the partner program and increase their partner benefits._
 - Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
    - Please note that `@partner operations` is responsible for distributor quoting. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
+- Partner Account Creation
 - SFDC opportunity record assistance (please chatter `@partner operations` on the record)
 - Pre- and post-sales support. The SA, sales, and support teams should be utilized for these needs. 
 - Billing account set-up (please chatter the partner account owner or `@billing ops`)
@@ -156,6 +157,15 @@ The partner will be directed to a page that asks them to confirm the company the
 ### GitLab Internal Access to the Partner Portal Front End
 GitLab Channel Team members who wish to have logins to the Partner Portal for partner demo purposes may create a login [according to the instructions above](https://about.gitlab.com/handbook/resellers/partner-support/#creating-a-partner-portal-login). When asked to confirm/choose which company you work for, choose "GitLab PS." This will provide you the same view as our partners. 
 
+
+## Partner Account Creation
+Partner accounts should _always_ be created by the partner visiting `partners.gitlab.com` and signing up to become a partner.
+- If the partner is an authorized signatory for their company, they may sign the "click-through" contract to become a Partner by choosing "Yes" under the Partner Agreement.
+- If the partner is _not_ an authorized signatory for the company, or if they are not ready to sign the contract and would like to redline the standard contract, they can choose "No" under the Partner Agreement, and then "Yes" for "I have questions about the agreement".   
+
+Once in the system via the partner portal, the system will sync with SFDC and create the partner account.   
+
+If an exception must be made, please contact Partner Operations via SFDC chatter (@ Partner Operations) to make the request for manual account creation and state reasons why.
 
 _More Information to Come!_  
 
