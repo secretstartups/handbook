@@ -33,7 +33,7 @@ We follow a Continuous Deployment approach with the goal of deploying as frequen
 
 Releases for self-managed users are built from a collection of many successfully deployed `auto-deployments` on GitLab.com. Users on GitLab.com therefore receive features and bug fixes earlier than users of self-managed installations.
 
-The [Deployment and Release Process overview](deployment-and-release-process-overview) shows how the GitLab.com deployment process is related to releases for self-managed users
+The [Deployment and Release process overview] shows how the GitLab.com deployment process is related to releases for self-managed users
 
 ### GitLab.com deployments process
 
@@ -165,7 +165,7 @@ guide for more information.
 
 
 [semver]: https://semver.org
-[deployment-and-release-process-overview]: /handbook/engineering/deployments-and-releases/#deployment-and-release-process-overview
+[Deployment and Release process overview]: /handbook/engineering/deployments-and-releases/#deployment-and-release-process-overview
 [canary]: /handbook/engineering#canary-testing
 [development month]: /handbook/engineering/workflow/#product-development-timeline
 [auto deploy transition]: https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition
