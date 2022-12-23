@@ -23,6 +23,10 @@ Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/
 
 # Communication guidelines 
 
+In an effort to create more efficiency in how we collaborate, please utilize the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) for items that require CMO **review**, **feedback**, **approval**, to **share updates**, or if you have **questions** directly to the CMO. 
+
+_Note this is a public Slack channel, so please consider it is [SAFE](/handbook/legal/safe-framework/) before sharing._ 
+
 ## Review and Approvals 
 
 Follow the steps and details for workflows that involve different types of review requests for efficient reviews.
