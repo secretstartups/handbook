@@ -19,6 +19,7 @@ canonical_path: "/company/team/structure/working-groups/frontend-observability/"
 | End Date | TBD |
 | Slack | [#wg_frontend-observability](https://gitlab.slack.com/archives/C0265BTH1EV) (only accessible from within the company) |
 | Google Doc | [Working Group Agenda](https://docs.google.com/document/d/1GuW6_IyYgSTi6IFI2adc3lrOJTfVoATkF2maZ5lToqg) (only accessible from within the company) |
+| Overview & Status | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/6584) |
 
 ### Charter
 
