@@ -402,6 +402,58 @@ Following a similar process to Milestone Retrospectives, we employ [Iteration Re
 - Share your proof of concept solutions with others to get feedback early on solutions
 - Consider acceptable partial solutions - cover the majority case; defer the edge cases for the next iteration if possible
 
+## Architecture Reviews
+
+Each month, we conduct an architecture review.
+
+The review process targets reviews from both a current and future design perspective.
+That is, the group decides if the component under review should be done in a particular way.
+This is not necessarily "should a thing be done," but it could be for if we need to propose
+a large architectural change that might have wide sweeping changes or as a prelude to
+the construction of a blueprint in our [evolution workflow](/handbook/engineering/architecture/workflow/)
+process.
+
+The timeline has both async and sync steps. For smaller reviews, it may be possible to complete all of the steps
+asynchronously. We've already established that synchronous time is valuable. This process follows a similar pattern that
+we have used for our retrospectives and working groups.
+
+### Timeline
+
+1. The team creates a review issue
+   1. We can use the [Utilization team project](https://gitlab.com/fulfillment-group/utilization-group/team-project), the following [issue template](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/blob/main/.gitlab/issue_templates/architecture_review.md), and [Epic](https://gitlab.com/groups/fulfillment-group/utilization-group/-/epics/2)
+   2. Find a Reviewer (Issue author and DRI)
+      1. Optionally, find a person to chair the review. They would facilitate
+      the process (review meeting scheduling; note taking; managing the clock and discussion).
+      For smaller reviews, the reviewer also acts as the chair.
+   3. Summarize the [concern, feature, proposal, etc]. Limit this to 1 paragraph, but address the problem in its entirety.
+   The topic should be agreed upon between the team and the reviewer.
+2. The team asynchronously contributes to the issue to provide additional detail that documents the [concern, feature, proposal, etc] identified in the issue description.
+   1. Summarize the problem space. Definitions, terms, what is the key motivation for addressing this topic.
+   2. List those directly affected by the current problem or future revision. Bring in a stable counterpart (e.g. Support, Sales, cross-stage DRI) to further understand the impact.
+   3. Set exit criteria - what we will achieve on completion. Produce a brief that describes when this issue can be closed (e.g. improved documentation, sharing session, epic for refactoring, new issues, a proposal, an architecture blueprint)
+      1. Include:
+         1. Any architecture being proposed
+         2. Non-functional requirements (e.g. accessibility, security, performance, etc)
+         3. Relevant business goals
+      2. Consider alternatives, costs, and opportunities
+      3. Be sure to address any concerns from affected groups or cross-stage collaborators
+3. The Reviewer creates a list of questions making them available to the team prior to the review meeting. The questions could be derived from information gathered in the previous step
+4. The Reviewer (or Chair) convenes a review meeting. The discussion should be recorded and made as widely available as possible while keeping sensitive information SAFE
+   1. Invite the team and any outside collaborator
+   2. Invite the EM and SEM/Director
+   3. PM, Designer, or other internal collaborators can be added optionally depending on the topic
+   4. Suggested agenda
+      1. Overview
+      2. Discussion of questions from step 3 above
+      3. Is the proposal relevant in a wider context (team goals, sub-department goals, department goals)
+      4. Action items, if any
+   5. The Reviewer is responsible for outlining the action items and ultimately deciding the outcome of the review
+   6. Additional review steps can be completed asynchronously to complete the exit criteria
+   7. It is possible to alter the questions or direction given discussion. This could include a subsequent review or invalidating the current review.
+5. The artifacts of the review (recording, issues, etc) are published and made available to others in the `/doc` directory of the [CustomersDot project](https://gitlab.com/gitlab-org/customers-gitlab-com)
+6. Consider updating this timeline with any new learnings or propose adjustments to the [issue template](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/blob/main/.gitlab/issue_templates/architecture_review.md) if applicable.
+7. The review issue is closed
+
 ## Performance Indicators
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Utilization" } %>
