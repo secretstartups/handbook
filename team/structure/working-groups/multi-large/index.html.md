@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/multi-large/"
 | End Date | TBD |
 | Slack           | [#wg_k8s-migration](https://gitlab.slack.com/archives/C016JU3CZKJ) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit#) (only accessible from within the company) |
-| Issue Board     | TBD             |
+| Overview & Status | [GitLab.com on Kubernetes Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112) |
 
 ### Charter
 
@@ -56,8 +56,6 @@ Note that not all stateful nodes are scoped here, notably PostgreSQL, and this i
 | Functional Lead                          | Nailia Iskhakova                | Software Engineer in Test, Database      |
 | Functional Lead                          | Andrew Thomas                    | Principal Product Manager, Enablement  |
 | Functional Lead                          | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure       |
-| Member                                   | Chun Du                         | Director of Engineering, Enablement      |
-| Member                                   | Steven Wilson                   | Manager, Distribution                    |
 | Member                                   | Jason Plum                      | Staff Engineer, Distribution             |
 | Member                                   | Tanya Pazitny                   | Quality Engineering Manager, Enablement  |
 | Member                                   | Mek Stittri                     | Director of Quality Engineering          |
