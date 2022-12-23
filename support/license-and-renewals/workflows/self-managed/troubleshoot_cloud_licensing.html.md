@@ -38,16 +38,3 @@ Customer was opted into cloud licensing because of a [bug](https://gitlab.com/gi
 
 1. You can resend an activation code via email by clicking on the envelope button on the customer's `Cloud Activations` tab.
 
-## Tracking the impact of Strict Cloud Licensing on customers
-
-As part of embracing the GitLab value of iteration, we plan on monitoring the impact that Strict Cloud Licensing will have on the GitLab customer base. With this in mind, moving forward we request that L&R support engineers add the applicable tags listed below to every Zendesk ticket whenever a customer contacts support requesting an offline/legacy license file.
-
-
-| Tag      | Reason |
-| ----------- | ----------- |
-| cloud-could-selfserve      | Customer has access to Customer Portal and could have self-served, for example customers who have an EoA, multi-year or a ramp-up subscription     |
-| cloud-could-not-selfserve   | Customer does not have access to the Customer Portal and therefore support had to provide a legacy/offline license file        |
-| cloud-pre-14.1 | Customer requires legacy/offline license because they are not able to upgrade to 14.1+ |
-| cloud-airgapped | Customer needs legacy/offline license because they must keep their instance offline |
-
-
