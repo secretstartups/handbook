@@ -239,7 +239,7 @@ Users can request the following to obtain information about their data. Use this
 
 Use the following workflows based on the type of request submitted.
 
-1. Confirm that the user has replied to the issue (validating their email address). If the user fails to respond within 7 calendar days, close the issue using the following snippet, and apply the `Account Verification Failed` label to the issue:
+1. [ ] Support Engineer: Ensure the user has replied from the same email on the request issue. If the user fails to respond within 7 calendar days, close the issue using the following snippet, and apply the `Account Verification Failed` label to the issue:
 
 <details>
   <summary markdown="span">Request Closed - No  Response to Verify Email</summary>
