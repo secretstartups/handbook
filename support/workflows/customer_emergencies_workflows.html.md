@@ -32,11 +32,28 @@ Try to communicate complete ideas rather than snippets of thought. Something lik
 
 Take and share screenshots of useful info the customer is showing you. Make sure you're not sharing anything sensitive. Let the customer know you're taking screenshots: "Could you pause there? I want to screenshot this part to share with my team".
 
-### Assume good intent
+### Determine if the situation qualifies as an emergency
 
-If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact), inform the Customer Success Manager for the customer or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
+According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted. See more about the [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html).
 
-We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
+If the information presented in the ticket is insufficient for determining whether the situation qualifies as an emergency or for an exception, it is best to proceed asynchronously until that determination can be made. Please send the customer a message through the ticket:
+
+1. explaining that in order to correctly categorise the situation, you would like to understand more about the effect it is having on their ability to work, or meet their business objectives
+2. asking for the specific additional context that you need
+
+
+#### Communicate if the situation qualifies as an emergency or as an exception
+
+If an exception is warranted, articulate to the customer that the situation is being treated as an emergency as a courtesy.
+
+#### Tag the ticket appropriately
+
+Use one of the following macros to tag the ticket with the qualification determination:
+
+1. `General::Emergency::Strict Definition` - for emergency requests where the situation does meet the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1).
+1. `General::Emergency::Exception` - for emergency requests that qualify under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html).
+1. `General::Emergency::Needs more info` - for emergency requests that do not contain enough information to allow us to determine if they meet the emergency or exception criteria. Once you have enough information to make a determination, use one of the other macros to tag the ticket with the final qualification determination. Note that the `Needs more info` tag will intentionally remain attached.
+1. `General::Emergency::Not an Emergency` - For emergency requests where the situation does not qualify under [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) nor one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria).
 
 ### (Optional) Contact the on-call Support Manager
 
@@ -52,19 +69,20 @@ If at any point you would like advice or help finding additional support, go ahe
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
 1. Verify that the requester is a customer with emergency support entitlement:
    1. If the customer's email address is not associated with an org in Zendesk,
-      plan to start the Zoom call by verifying support entitlement **and** to
-      end the call gracefully if they do not have sufficient entitlement. In
-      they are a free user, mark the ticket `solved`. Otherwise, lower the
-      priority.
+      follow the normal "needs-org" process and include an explanation that you
+      cannot deliver emergency assistance until you have connected the user to
+      an account that is currently entitled to priority support. If you learn
+      that they are a free user, mark the ticket `solved`.
    1. If the customer is associated with an org in Zendesk, verify that their
       subscription is Premium or above. If it is not, lower the priority of
       the ticket and inform the customer kindly that their subscription does
       not include emergency support.
-1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
+1. Work with the on-call Support Manager to [determine if the situation qualifies as an emergency](#determine-if-the-situation-qualifies-as-an-emergency)
+   1. Create a Public Comment in the ticket acknowledging receipt of the emergency request and asking for any specific information that you need to be able to determine if the situation qualifies as an emergency or for an exception.
+   1. Offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
 1. Start a thread in `#support_self-managed` or `#support_gitlab-com` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
-1. **OPTIONAL:** Consult our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
 1. After 15 minutes, if the customer has not responded to our initial contact with them, send a follow up message covering the following points:
     - The bridge created to work on the emergency.
     - If the customer is not able to join immediately, we can make other arrangements.
@@ -89,6 +107,21 @@ In rare cases, the on-call engineer may experience concurrent emergencies trigge
 1. **You**: [Contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to inform them of the new incoming emergency. The Support Manager is responsible for finding an engineer to own the new emergency page.
 1. **Support Manager**: In Slack, ping the regional support group (_e.g._ `@support-team-americas`) and request assistance from anyone who is available to assist with the new incoming emergency case.
 1. **Second Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
+
+### Situations that Might or Might not Be Emergencies
+
+At times, an emergency page may come in for a situation that is not quite yet an emergency, but may quickly become one. In this situation, we want to assist the customer in preventing the situation from becoming an emergency. 
+
+If this situation arises during the week:
+
+- Contact the on-call Support Manager to request assistance. They will work to find another Support Engineer to handle the ticket as a `high` priority that requires an immediate response.
+
+If this situation arises during the weekend:
+
+-  Handle the page as a `high` priority ticket that requires an immediate response. Work with the customer to try to resolve or mitigate the issue before it becomes an emergency.
+- If you are actively engaged with another emergency, [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to request assistance. They will assist the customer or work to find another Support Engineer to handle the ticket as a `high` priority that requires an immediate response.
+
+See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
 
 ### Taking an emergency customer call
 

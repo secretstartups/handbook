@@ -31,11 +31,17 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 The [Support Engineer on-call](/handbook/support/on-call/) is the first responder for customer emergencies. Managers support this work as follows:
 
 - Act as the next-tier escalation point for emergency pages that get missed (you will be notified automatically by PagerDuty).
-- Be aware of ongoing emergencies, and assist or lead our response as appropriate.
+- Respond to new emergency requests by helping the on-call engineer [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows.html#determine-if-the-situation-qualifies-as-an-emergency) or should be [granted an exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria)
+- Be aware of ongoing emergencies and assist or lead in our initial response as appropriate
 - During an emergency: find additional staff for subject-matter expertise; replace the on-call engineer if needed; lead any Zoom call(s) as needed; hand off the emergency to the next on-call manager.
 - Find additional staff when there are [multiple emergencies](/handbook/support/on-call/#handling-multiple-simultaneous-emergencies).
 - Convert [customer emergencies into Account Escalations](/handbook/support/workflows/emergency-to-escalation-process.html) as needed.
 
+### Situations that Might or Might not Be Emergencies
+
+At times, an emergency page may come in for a situation that is not quite yet an emergency, but may quickly become one. In this situation, we want to assist the customer in preventing the situation from becoming an emergency. If this situation arises during working hours, the Support Engineer on-call may reach out for assistance. The on-call manager should respond by finding additional staff to handle the request as a `high` priority ticket that requires an immediate response. If this situation arises on a weekend, the Support Engineer on-call will reach out to the manager on-call if they are handling another emergency. In that case, the manager on-call should assist or attempt to find additional staff to assist.
+
+See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
 
 ## Handling Support Ticket Attention Requests during business hours
 
