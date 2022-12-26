@@ -84,21 +84,9 @@ for that, please modify it as you see fit.
    1. Next steps for user
    1. Next call recommendations (timing/goals/expectations)
 
-## Notes on intake, upgrade and installation support calls
+## Upgrade Assistance
 
-For Premium Support customers, and customers who have purchased Implementation Support, we offer intake and installation support. Premium Support customers also receive upgrade assistance. The different levels of service that are offered are described on the [support page](/support), and Implementation Support is described in more detail in the [statement of support](/support/statement-of-support/).
-
-Call/screen sharing sessions involve guiding a customer through the GitLab upgrade process or taking control of the customer's server to perform the upgrade.
-You should make sure that the customer has finished creating a backup **before** you start the call, as they can take a lot of time to complete and you don't want to do them while in the call.
-
-**Important information to collect**
-
-1. Type of installation: Source/Omnibus
-1. Current GitLab version
-1. Version you're upgrading to (it isn't always the latest)
-1. Use of GitLab CI (need to upgrade to 8.0 first, then 8.+)
-
-We collect this information in Zendesk and link it to the organization.
+Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
 
 ## Discovery calls
 
