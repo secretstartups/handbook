@@ -16,6 +16,32 @@ description: "Workflow for conducting customer calls in Support Engineering"
 This page presents the workflows to be used in Support Engineering to schedule,
 prepare for, manage and follow-up on customer calls
 
+## Emotional Headwinds
+
+We [hire smart humans to provide smart support](/handbook/support/workflows/how-to-respond-to-tickets.html#smart-humans-provide-smart-support). Humans have _feelings_. It is important to recognize that there are emotional headwinds that can make it harder to schedule or be in calls. During a call you're putting yourself into a situation where you have to manage:
+ - your own feelings
+ - the customer's experience
+ - the customer's feelings
+ - technical troubleshooting
+ - time, efficiency and your own energy
+
+Calls can be a vulnerable experience that hit on core human fears:
+ - **Being wrong** - providing incorrect information or poor guidance
+ - **Being in conflict / tension** - having to work with customers in heightened emotional states 
+ - **Being rejected** - having a customer judge you as insufficient, incompetent or inadequate to meet the challenge 
+ - **Being drained** - spending so much energy on preparing, running and following-up on a call you don't have energy to contribute elsewhere
+ - **Being alone** - having no support or guidance as you work through a challenging situation
+ - **Being trapped** - not being able to escape a tense or challenging situation
+ - **Missing out** - operating from an area of weakness when there are opportunities to contribute your strengths 
+
+If you're feeling one of the results of one of these headwinds it can be easy to rationalize why you shouldn't move the ticket to a call. The feelings you're feeling though shouldn't be ignored. Before judging whether or not to move to a call: 
+
+1. **Stop** and experience what you're feeling without judgement.
+1. **Be curious about your feelings**: is any of your resistance related to a core fear?
+1. **Try and separate out the facts of the case**: form ["steel man" arguments](/handbook/values/#assume-positive-intent) for resolution time, SSAT or customer experience to round things out.
+1. **Empathize** with the customer and try and see the case from their perspective.
+1. **Talk with a peer or manager** to give yourself a second / more objective opinion.
+
 ## Scheduled calls
 
 ### Scheduling the call
