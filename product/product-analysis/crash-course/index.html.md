@@ -709,7 +709,7 @@ The following tables can be used for Service Ping metric reporting.
 
 * workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
 
-* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a null timeframe
+* workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
 
 Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
 
@@ -792,7 +792,7 @@ The following tables can be used for Service Ping metric reporting.
 
 * workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
 
-* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a null timeframe
+* workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
 
 Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
 
