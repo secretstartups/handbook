@@ -70,8 +70,8 @@ To see an overview of the FY23 ABM Plan, GitLab team members can search Google D
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * Jackie Gragnola - Senior Manager, Marketing Campaigns & ABM
-* Megan O'Dowd - Account Based Markeitng Manager, Americas and Public Sector
-* TBH - Account Based Marketing Manager, APAC and EMEA
+* Megan O'Dowd - Senior Account Based Markeitng Manager, Americas and Public Sector
+* Marci Geisler - Senior Account Based Marketing Manager, APAC and EMEA
 
 ### Responsibilities
 {: #responsibilities}
@@ -125,6 +125,7 @@ In between bi-weekly ABM Team calls:
 * [Overall ABM Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
 * [Current Milestone Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
    - [Megan's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
+   - [Marci's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?label_name[]=ABM&assignee_username=marcigee)
 
 ### Labels
 {: #labels}
