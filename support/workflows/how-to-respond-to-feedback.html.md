@@ -123,9 +123,11 @@ When adding the comment to the SSAT issue in the `support-week-in-review` tracke
 
 Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
 
-#### Automatically collectin positive feedback
+#### Automatically collecting positive feedback
 
-The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"`. To run this job:
+The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"` and append a nicely formatted version to the open SSAT issue. 
+
+To run this job:
 1. Create a new pipeline by going to CI/CD -> Pipelines -> Run Pipeline
 2. Click the "Play" button on the manual `populate_ssat` job
 
