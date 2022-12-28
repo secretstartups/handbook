@@ -89,11 +89,13 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 1. Monitor
    * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team.
    * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
-    ```shell
-    /assign me
-    /duplicate #<original_issue_id>
-    /copy_metadata #<original_issue_id>
-    ```
+
+      ```shell
+      /assign me
+      /duplicate #<original_issue_id>
+      /copy_metadata #<original_issue_id>
+      ```
+
    * If the incident is not a duplicate, and needs some investigation:
      * Assign the incident to yourself: `/assign me`
      * Change the incident status to `Acknowledged` (in the right-side menu).
@@ -107,21 +109,23 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
    * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job), create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       * Create a new Timeline event in the incident with a link to the created issue.
       * Add the appropriate labels to the main incident:
-    ```shell
-    # Add those labels
-    /label ~"master-broken::flaky-test" 
-    /label ~"failure::flaky-test" 
 
-    # Pick one of those labels
-    /label ~"flaky-test::dataset-specific" 
-    /label ~"flaky-test::datetime-sensitive" 
-    /label ~"flaky-test::ordering assertion" 
-    /label ~"flaky-test::random input" 
-    /label ~"flaky-test::transient bug" 
-    /label ~"flaky-test::unclean environment" 
-    /label ~"flaky-test::unreliable dom selector" 
-    /label ~"flaky-test::unstable infrastructure" 
-    ```
+        ```shell
+        # Add those labels
+        /label ~"master-broken::flaky-test" 
+        /label ~"failure::flaky-test" 
+
+        # Pick one of those labels
+        /label ~"flaky-test::dataset-specific" 
+        /label ~"flaky-test::datetime-sensitive" 
+        /label ~"flaky-test::ordering assertion" 
+        /label ~"flaky-test::random input" 
+        /label ~"flaky-test::transient bug" 
+        /label ~"flaky-test::unclean environment" 
+        /label ~"flaky-test::unreliable dom selector" 
+        /label ~"flaky-test::unstable infrastructure" 
+        ```
+
       * Close the incident
    * Add the stacktrace of the error to the incident, as well as Capybara screenshots if available in the job artifacts.
      * To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
@@ -135,17 +139,19 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       * You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
     * If no merge request was identified, ask for assistance in the `#development` Slack channel.
     * Please set the appropriate `~master-broken:*` label from the list below:
-    ```shell
-    /label ~"master-broken::caching" 
-    /label ~"master-broken::ci-config" 
-    /label ~"master-broken::dependency-upgrade"
-    /label ~"master-broken::flaky-test" 
-    /label ~"master-broken::fork-repo-test-gap" 
-    /label ~"master-broken::pipeline-skipped-before-merge"
-    /label ~"master-broken::test-selection-gap"
-    /label ~"master-broken::need-merge-train"
-    /label ~"master-broken::undetermined"
-    ```
+
+      ```shell
+      /label ~"master-broken::caching" 
+      /label ~"master-broken::ci-config" 
+      /label ~"master-broken::dependency-upgrade"
+      /label ~"master-broken::flaky-test" 
+      /label ~"master-broken::fork-repo-test-gap" 
+      /label ~"master-broken::pipeline-skipped-before-merge"
+      /label ~"master-broken::test-selection-gap"
+      /label ~"master-broken::need-merge-train"
+      /label ~"master-broken::undetermined"
+      ```
+
     * When the master-broken is resolved, close the incident.
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
