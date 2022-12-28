@@ -153,9 +153,20 @@ The Senior Brand Manager is a [grade 7](https://about.gitlab.com/handbook/total-
 * Reporting on metrics on brand campaigns to show that our brand is trending upwards.
 * Overseeing and updating brand message house for GitLab to consume.
 
-## Career Ladder
+## Specializations
 
-* The next step in the Corporate Events job family is not yet defined at GitLab.
+### Brand Strategy
+
+#### Responsibilities 
+
+* Helps create, evolve and maintain brand architecture, messaging and positioning
+* Spearheads brand enablement initiatives and documentation to allow internal and external advocates to champion the GitLab brand
+* Develops brand governance processes and documentation to ensure appropriate use and maintain the integrity of the GitLab brand
+* Develops strategy briefs for brand awareness campaigns
+* Oversee the swag store, establishing processes with stakeholders and merchandise selection
+* Writes briefs, ad copy, and content for brand awareness campaigns
+* Helps manage brand tracking tools and studies, and provides insights-driven recommendations to optimize brand awareness
+* Supports naming process with research, rationale, and strategic recommendations
 
 ### Director, Certification Brand 
 
