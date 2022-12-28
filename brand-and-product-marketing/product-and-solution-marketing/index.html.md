@@ -15,7 +15,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 # <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Product and Solution Marketing Handbook 
 
-We create positioning and messaging to fuel demand and adoption of GitLab’s solutions and products. We develop market and competitive intelligence in order to develop actionable insights on market trends, customer needs, and competitive insights that guide go-to-market and product strategy. We identify, recruit, and activate customer advocates to demonstrate momentum and trust in the market
+We create positioning and messaging to fuel demand and adoption of GitLab’s solutions and products. We develop market and competitive intelligence in order to develop actionable insights on market trends, customer needs, and competitive insights that guide go-to-market and product strategy. We identify, recruit, and activate customer advocates to demonstrate momentum and trust in the market.
 
 {: .no_toc}
 
@@ -31,7 +31,7 @@ We create positioning and messaging to fuel demand and adoption of GitLab’s so
 1. [Customer advocacy](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
 
 
-Note that previously this group was called Product and Solution Marketing and then Portfolio Marketing. Artifacts of these names still remain in URLs. Please excuse these discrepencies as we work to rename everything.
+Note that previously this group was called Strategic Marketing and then Portfolio Marketing. Artifacts of these names still remain in URLs. Please excuse these discrepencies as we work to rename everything.
     
 # What does Product and Solution Marketing do?
 
@@ -99,16 +99,16 @@ Each team within Product and Solution Marketing contributes uniquely and equally
 
 # <i class="fas fa-star fa-fw color-orange font-awesome"></i>Subject matter expertise 
 
-Product Marketers are often asked to speak at conferences, workshops, webinars, etc.
+Product Marketers are often asked to speak at conferences, workshops and webinars.
 
 To encourage reuse and collaboration, we have a [shared folder of past abstracts](https://drive.google.com/drive/folders/1ODXxqd4xpy8WodtKcYEhiuvzuQSOR_Gg) for different speaking events. PMMs also have an [inventory of presentations](https://docs.google.com/spreadsheets/d/1sQdR4mMNKWep0v02HQacOCEfb0BP19jFygTxnvUcau8/edit#gid=0) that can be quickly and easily reused. 
 
 ### Requesting Product and Solution Marketing help
 
-All Product and Solution Marketing Work is aligned to the overall Marketing OKRs, located in Ally.io.The specific team OKR/KRs are tracked and managed as issues in the Product and Solution Marketing Project. If you need additional support from the team, the simple process below will enable us to support you.
+All Product and Solution Marketing work is aligned to the overall Marketing OKRs.The specific team OKR/KRs are tracked and managed as issues in the Product and Solution Marketing Project. If you need additional support from the team, the simple process below will enable us to support you.
 
 1. [Open an SM Support Request Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) this link will the _A-SM-Support-Request_ template. PLEASE fill in what you know.
-1. Be sure to @mention a specific team member who you are requesting help from. If you don't @mention a team member, your request may not be processed. Ping `@lclymer`,`@cblake` and `@davistye` if you don't know whom to tag.
+1. Be sure to @mention a specific team member who you are requesting help from. If you don't @mention a team member, your request may not be processed. Ping '@doneal' `@lclymer` and `@davistye` if you don't know whom to tag.
 1. If you need more immediate attention please send a message with a link to the issue you created in the `#product-marketing` slack channel. Add an `@reply` to the PMM responsible or you can ping the team with `@pmm-team`.
 
 
@@ -122,7 +122,7 @@ Product and Solution Marketing team members serve as subject matter experts and 
 
 # Metrics
 
-The Product and Solution Marketing organization is often considered the nexus that brings together research, customer and market insights, with technical expertise to benefit the all of GitLab marketing teams. The Product and Solution marketing organization collaborates and partners with other teams in marketing for certain execution elements - such as Digital Experience, Brand, and Integrated marketing.  Additional key collaborators are sales for using the plays (recipes) for effective iteration, and Product to help with customer engagement via our CAB as well as providing input into analyst outreach.
+The Product and Solution Marketing organization is often considered the nexus that brings together research, customer and market insights, with technical expertise to benefit the all of GitLab marketing teams. The Product and Solution Marketing organization collaborates and partners with other teams in marketing for certain execution elements, such as Digital Experience, Brand, and Integrated marketing.  Additional key collaborators are sales for using the revenue plays for effective iteration, and Product Management to help with customer engagement via our CAB as well as providing input into analyst outreach.
 
 The organization is an influencer on the indicators below. We cannot drive the results on our own, only through collaboration, but we use these indicators to assess the impact of our actions.
 
