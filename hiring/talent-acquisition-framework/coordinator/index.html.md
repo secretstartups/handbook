@@ -219,7 +219,7 @@ It's important to note that the USA Reference Check form should be sent to the c
 
 4. CES will add the “Pending” label and due date on the ticket. Create a follow-up reminder in Greenhouse 1 business day out to check if there is an ETA.
    - Once an ETA is set in Sterling, create another follow up reminder in greenhouse for that ETA date. Please note that the results may come in earlier than the ETA.
-   - Please contact Ale or Marissa for any BGC escalations. e.g "Status: Unperformable" or "Status: Consider"  
+   - Please contact the Senior Background Check Specialist for any BGC escalations. e.g "Status: Unperformable" or "Status: Consider"  
 
 5. This process has been added due to NYC law, which separates the employment verification from the criminal check. Keep an eye on the status of the Step 1 screening results in Sterling. While we are waiting for Step 1 to be cleared, the recruiter can provide the candidate the verbal offer, begin creating the offer in Greenhouse and going through the approval stages. Recruiters can send the contract request ticket to CES when they are ready, **although, CES _cannot_ send a written contract to the candidate until Step 1 has been cleared.**
 
