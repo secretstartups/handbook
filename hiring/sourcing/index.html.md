@@ -76,7 +76,9 @@ The process of contacting the candidates are as per the following scenarios:
 2. Re-contacting the candidate for the same/another position: If the candidate failed in the previous onsite/phone interview, we suggest other sourcer recontact them after 6 months.
 3. Re-contacting the candidate for another position: A Sourcer can reach out to the candidates if they haven't responded from the past inmails. Please consult with the other Sourcer who contacted them previously and take a call.
 
-**Diversity** - In accordance to our [values](/company/culture/inclusion/#values) of diversity, inclusion and belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of diversity sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
+**Diversity**
+
+In accordance to our [values](/company/culture/inclusion/#values) of diversity, inclusion and belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of diversity sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
 
 ## Upgrading your LinkedIn account
 
