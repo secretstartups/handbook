@@ -50,6 +50,52 @@ Under development in MR: A
 
 Under development in MR: B
 
+### Discovery calls
+
+Sometimes a one hour call doesn't seem like the best step to take forward, and
+may not be the best use of our time. This is where the Discovery Call comes in.
+
+A Discovery call is a short 15 minute call with the sole purpose of learning
+enough to start troubleshooting asynchronously again. These calls are also
+great at helping ease a customer who is getting frustrated not being able to
+_show_ us the problem.
+
+If you feel that you're close to a resolution or need more time to collect info,
+then it's at your discretion to continue the call or not.
+
+Create a Calendly event in your account labeled `Support - Discovery Call with <your name>`
+and send a one-time link to this event when you find that a Discovery call
+would be useful.
+
+### Upgrade Assistance
+
+Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
+
+
+### Unscheduled calls
+
+While working with customers you should always be prepared to host a quick call
+with them. It's easier to get all the information you might need on a short (5 -
+20 minutes) call than in a long series of back-and-forth emails. If anything
+similar to the following situations is true, suggest a Zoom call:
+
+*  the initial problem statement is very unclear
+*  you aren't getting what you need from the customer after one or two email
+   requests
+*  you aren't making good progress toward resolution
+*  you sense the customer is getting frustrated or upset
+
+If you feel too inexperienced to handle a call, ask someone more experienced to
+lead it while you shadow. After shadowing, it is still your responsibility
+to handle the ticket as long as it is assigned to you.
+
+If the problem is urgent you can simply send the customer a Zoom link and jump on immediately. For less urgent
+calls, you may send the customer a Calendly link so that they can schedule a convenient time in their time zone.
+The link you send may be a link to your personal calendar or to the Team Calendly event, depending on the circumstances,
+but in every case you should send a
+[single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link),
+to ensure proper processes are followed for scheduling calls.
+
 ## Taking Calls
 
 Under development in MR: C
@@ -93,10 +139,6 @@ When sending a customer a call link:
 * If you know your availability is limited, or you need additional backup,
   check with another SE to see if they might also be available to take the call.
 
-### Customer No Shows
-
-There are many reasons that a customer may not be able to join a call. If a customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link to schedule a new call. Your response on the ticket should just state that you're sorry you didn't get a chance to meet and would they please use the link to schedule a new call.
-
 ### Pre-call email
 
 Please consider sending a pre-call email. This helps set expectations to the call regarding goals, duration, and
@@ -124,64 +166,15 @@ for that, please modify it as you see fit.
 
 Under development in MR: D
 
+### Customer No Shows
+
+There are many reasons that a customer may not be able to join a call. If a customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link to schedule a new call. Your response on the ticket should just state that you're sorry you didn't get a chance to meet and would they please use the link to schedule a new call.
+
 ## Post-call
 
 Under development in MR: E
 
-## Special Handling
-
-Under development in MR: F
-
-## Audio and Video Guidelines for Support Engineers on Customer Calls
-
-Under development in MR: G
-
-## Upgrade Assistance
-
-Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
-
-## Discovery calls
-
-Sometimes a one hour call doesn't seem like the best step to take forward, and
-may not be the best use of our time. This is where the Discovery Call comes in.
-
-A Discovery call is a short 15 minute call with the sole purpose of learning
-enough to start troubleshooting asynchronously again. These calls are also
-great at helping ease a customer who is getting frustrated not being able to
-_show_ us the problem.
-
-If you feel that you're close to a resolution or need more time to collect info,
-then it's at your discretion to continue the call or not.
-
-Create a Calendly event in your account labeled `Support - Discovery Call with <your name>`
-and send a one-time link to this event when you find that a Discovery call
-would be useful.
-
-## Unscheduled calls
-
-While working with customers you should always be prepared to host a quick call
-with them. It's easier to get all the information you might need on a short (5 -
-20 minutes) call than in a long series of back-and-forth emails. If anything
-similar to the following situations is true, suggest a Zoom call:
-
-*  the initial problem statement is very unclear
-*  you aren't getting what you need from the customer after one or two email
-   requests
-*  you aren't making good progress toward resolution
-*  you sense the customer is getting frustrated or upset
-
-If you feel too inexperienced to handle a call, ask someone more experienced to
-lead it while you shadow. After shadowing, it is still your responsibility
-to handle the ticket as long as it is assigned to you.
-
-If the problem is urgent you can simply send the customer a Zoom link and jump on immediately. For less urgent
-calls, you may send the customer a Calendly link so that they can schedule a convenient time in their time zone.
-The link you send may be a link to your personal calendar or to the Team Calendly event, depending on the circumstances,
-but in every case you should send a
-[single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link),
-to ensure proper processes are followed for scheduling calls.
-
-## Call summary
+### Call summary
 
 **Immediately** following your call you should construct the call summary in
 the Zendesk ticket using the macro
@@ -197,7 +190,11 @@ the details of the call will fade quickly, especially if the call was at the end
 of your day. Second, follow-up action may be required from others, and they
 will only be able to act appropriately if they have the call summary available.
 
-## WebEx
+## Special Handling
+
+Under development in MR: F
+
+### WebEx
 
 For some customers, only Cisco systems are allowed and in those cases, WebEx will be the best tool for calls. To start a call/session, use the `GitLab Support` WebEx account. Go to our [WebEx Portal](https://gitlabmeetings.webex.com), click on the login button on the top right and use the credentials found in the Support Vault on 1Password.
 
@@ -215,7 +212,7 @@ https://gitlabmeetings.webex.com/meet/gitlabsupport
 
 WebEx allows you to see the customer's desktop and to control it on request. It also gives the customer the possibility to join via phone and us the possibility to use our computer audio connection.
 
-## If a customer wants to record a support call
+### If a customer wants to record a support call
 
 Frequently during screenshare sessions plaintext secrets or other sensitive information can be displayed. To ensure sure that any recordings that inadvertantly contain this information stay within customer's security boundary, you should ask that customers initiate and store any recordings.
 
@@ -223,6 +220,10 @@ If a customer wishes to record the session, then transfer the ownership of the c
 
 If you're not comfortable having the call recorded, please involve your manager in the discussion with the customer.
 
-## Krisp.ai License for GitLab Support Team
+## Audio and Video Guidelines for Support Engineers on Customer Calls
+
+Under development in MR: G
+
+#### Krisp.ai License for GitLab Support Team
 
 [Krisp.ai](https://krisp.ai/) will mute background noise when you're in a noisy environment so you can hear and be heard more easily on calls. You may consider installing this app for your calls. GitLab Support team has a [Teams Pro license](https://krisp.ai/pricing/). If you are interested in getting one, kindly leave a comment at [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3773). Currently, it is unavailable for Linux.
