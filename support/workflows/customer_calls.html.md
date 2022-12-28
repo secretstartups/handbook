@@ -14,7 +14,7 @@ description: "Workflow for conducting customer calls in Support Engineering"
 ## Introduction
 
 This page presents the workflows to be used in Support Engineering to schedule,
-prepare for, manage and follow-up on customer calls
+prepare for, manage and follow-up on customer calls.
 
 ## Emotional Headwinds
 
@@ -42,7 +42,17 @@ If you're feeling one of the results of one of these headwinds it can be easy to
 1. **Empathize** with the customer and try and see the case from their perspective.
 1. **Talk with a peer or manager** to give yourself a second / more objective opinion.
 
-## Scheduled calls
+## When should a ticket go to a call?
+
+Under development in MR: A
+
+## Types of calls
+
+Under development in MR: B
+
+## Taking Calls
+
+Under development in MR: C
 
 ### Scheduling the call
 
@@ -109,6 +119,22 @@ for that, please modify it as you see fit.
    1. Next steps for GitLab Support Engineer
    1. Next steps for user
    1. Next call recommendations (timing/goals/expectations)
+
+## Tips for making calls successful
+
+Under development in MR: D
+
+## Post-call
+
+Under development in MR: E
+
+## Special Handling
+
+Under development in MR: F
+
+## Audio and Video Guidelines for Support Engineers on Customer Calls
+
+Under development in MR: G
 
 ## Upgrade Assistance
 
