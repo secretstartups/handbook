@@ -547,6 +547,39 @@ The CMOC is responsible for ensuring this label is set for all incidents involvi
 | `~Contact Request::Contacted` | Support has contacted the user(s) in question and is awaiting confirmation from Production. |
 | `~CMOC Required` | Marks issues that require a CMOC involvement. |
 
+#### Service Labeling
+
+- In the incident description, we allow multiple service labels for impact. The service label on the incident issue itself should be for the root cause, not the impact.
+- All Infrastructure changes and configuration that is maintained by the Infrastructure department (not application code) should use one of the specific labels for the component (eg: Consul, Prometheus, Grafana, etc.), or the `~Service::Infrastructure` label
+- We may not know what service caused the impact until after the incident. In that case, it is best to use the `Service::Unknown` label until more information is available.
+
+It is not always very clear which service label to apply, especially when causes span service boundaries that we define in Infrastructure.
+When unsure, it's best to choose a label that corresponds to the primary cause of the incident, even if other services are involved.
+
+The following services should primarily be used for application code changes or feature flag changes, not changes to configuration or code maintained by the Infrastructure department:
+
+- `~Service::API`
+- `~Service::Web`
+- `~Service::Git`
+- `~Service::Registry`
+- `~Service::Pages`
+- `~Service::Gitaly`
+- `~Service::GitLab Rails`
+
+Service labeling examples:
+
+| Example | Outcome |
+| ------- | ------- |
+| An incident is declared but we don't know yet what caused the impact. | Use `~Service::Unknown` |
+| A bug was deployed to Production that primarily impacted API traffic. | Use `~Service::API` |
+| A bug in frontend code caused problems for most browser sessions. | Use `~Service::Web` |
+| A featureflag was toggled that caused a problem that mostly affected Git traffic. | Use `~Service::Git` |
+| A bad configuration value in one of our Kubernetes manifests caused a service disruption on the Registry service. | Use `~Service::Infrastructure` |
+| A mis-configuration of Cloudflare caused some requests to be cached improperly. | Use `~Service::Cloudflare` |
+| Monitoring stopped working due to a Kubernetes configuration update on Prometheus | Use `~Service::Prometheus` |
+| A site-wide outage caused by a configuration change to Patroni. | Use `~Service::Patroni` |
+| A degradation in service due to missing index on a table. | Use `~Service::GitLab Rails` |
+
 #### "Needs" labeling
 
 The following labels are added and removed by [triage-ops](https://gitlab.com/gitlab-com/gl-infra/triage-ops/) automation depending on whether the corresponding label has been been added.
@@ -653,4 +686,3 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
 
 [related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
-
