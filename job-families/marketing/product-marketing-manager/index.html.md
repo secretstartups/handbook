@@ -183,6 +183,34 @@ As a Product Marketing Manager, Agile-Planning you will work closely with our ma
 * Ability to travel if needed and comply with the company’s travel policy. 
 * If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
+### Solutions Marketing & GTM Plays
+
+#### Requirements 
+
+* Experience managing or designing solutions and/or go-to-market strategies, plays, and campaigns. 
+* Ability to work collaboratively with Marketing, Sales, and Product teams and effectively develop relationships with stakeholders at all levels of the organization. to remove impediments that block the team’s ability to meet project objectives.
+* Exceptional communication and execution skills.
+* Proven track record of cross-stakeholder program management and execution with operational rigor.
+* Skills to build, maintain, update and optimize critical dashboards in Salesforce.com. 
+* Strong analytical and influencing skills.
+* Bachelors or University Degree, or relevant work experiences.
+* Collaborates well with others, including executives across multiple functions.
+* Ability to move fluidly from big picture to details.
+* Significant enterprise software marketing experience.
+* Has experience aligned with the additional responsibilities of a Principal Product Marketing Manager.
+
+#### Principal Responsibilities 
+* Translate the company’s revenue objectives into a formal, cohesive solutions marketing strategy, including key imperatives that GitLab solves for customers, how we solve them, and how we scale them through and with partners.
+* Partner with Sales, Sales Development, Customer Success, Marketing, and Product Management to identify and prioritize quarterly GTM plays (including strategy, messaging, content, campaigns, and enablement) that drive quality pipeline and ARR. 
+* Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps.
+* Work with leaders and individual contributors across organizations, break down silos, and help to unify solutions strategies for optimal global impact.
+* Lead cross functional working group including product marketing, content, design, integrated marketing, sales development, sales strategy, and field enablement to orchestrate the development, execution, and operationalization of scalable and measurable quarterly sales plays that deliver results.
+* Collaboratively define success measures and reporting frameworks for implemented programs.
+* Conduct regular program reviews with leaders, providing status updates and risk mitigation strategies.
+* Define and implement a repeatable framework for GTM Plays including leadership touchpoints, comms plans, and a Handbook based playbook.
+* Develop, maintain, and execute medium- and long-term vision for the function.
+* Participate in quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs.
+
 ### Competitive Intelligence 
 
 As a Competitive Intelligence Product Marketer, you will work closely with a wide range of cross-functional teams (Product, Marketing, Sales) to turn competitive insights into actionable advantages for GitLab’s go-to-market motion. To achieve this ambition, you will organize and distill competitive intelligence, educate our teams, and create specific competitive playbooks & content that increase our share of the market.
@@ -245,6 +273,7 @@ As a Customer Advocacy Product Marketer, you will identify, activate, and amplif
 * Own internal advocacy efforts by cultivating and promoting champions; this includes embracing an “always-on” advocacy methodology that highlights the importance of customer references, a definition of internal economic/non-economic incentives and recognition programs for surfacing stories.
 * Leverage customer advocacy insights and lessons learned in relation to Gitlab’s marketing plan and deliverables to influence the overall product marketing strategy and roadmap.
 
+
 ### Analyst Relations 
 
 As a Analyst Relations Product Marketer, you will design, execute, and manage GitLab's overall industry analyst, influencer, and thought leader strategy and plan.
@@ -295,8 +324,6 @@ Support the GitLab reference program, market research activities, and serve as a
 * Recruit, coach and mentor Analyst Relations team members to live our values.
 * In collaboration with the Director, Product Marketing: define team direction, identify staffing needs for scale, ensure team members are effective, own the quality, effectiveness and performance of the Analyst Relations team results.
 * Measure and improve the happiness and productivity of the team.
-
-
 
 
 ### Market Insights
