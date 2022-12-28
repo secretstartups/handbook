@@ -142,7 +142,7 @@ As our company continues to see rapid growth, we need to aim to hire the best ta
 We ask you all to contribute by digging into LinkedIn or your favorite social
 media space and add candidates to the spreadsheet or LinkedIn project.
 By doing this, we are reaching out to people that are very closely aligned with
-the team’s needs and finding better-suited candidates. Source-a-thons also servce as an important source of potential candidates from diverse locations and backgrounds.
+the team’s needs and finding better-suited candidates. Source-a-thons also service as an important source of potential candidates from diverse locations and backgrounds.
 
 ### Source-a-thon participants
 
