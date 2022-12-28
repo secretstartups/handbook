@@ -19,15 +19,15 @@ Sourcing has proved itself to be a great channel for attracting the best talent.
 
 ## Sourced vs. Prospect vs. Candidate
 
-**Sourced** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
+* **Sourced** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
 This person is of interest, but has not interacted with the TA team or Hiring Manger yet.
-**Prospect** this person is IQA (Interested, Qualifed, Available) after the TA or Hiring team approached them during a sourcing effort, but has not yet decided if they want to formally apply. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.). Or a person that has has joined our [Talent Community](https://about.gitlab.com/jobs/).
-**Candidate** - A person that has been sourced and approached by the Talent Acquisition team or the Hiring team that has actively indicated they want to interview for the position offered. They change from the Prospect status to Candidate status.
-Or a person that applied directly via the Careers page or via 3rd parties liek LinkedIn.
+* **Prospect** this person is IQA (Interested, Qualifed, Available) after the TA or Hiring team approached them during a sourcing effort, but has not yet decided if they want to formally apply. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.). Or a person that has has joined our [Talent Community](https://about.gitlab.com/jobs/).
+* **Candidate** - A person that has been sourced and approached by the Talent Acquisition team or the Hiring team that has actively indicated they want to interview for the position offered. They change from the Prospect status to Candidate status. Or a person that applied directly via the Careers page or via 3rd parties liek LinkedIn.
 
 ## How to Source Candidates
 
 "Sourcing", in general, means that you **don't** know and would **not** be able to speak about the candidate confidently in a professional sense with GitLab. At best, your sentiment might be, *"They seem qualified"*.
+
 If you'd like to start contributing to our sourcing efffort - we recommend you going through our internal [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
 
 Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission)
@@ -41,9 +41,10 @@ For anyone that you **do not** have a personal relationship with, please add the
 3. Switch to the **Prospect** tab and complete the intake form
 4. **After** receiving confirmation from a *Prospect* about moving forward with a vacancy you can convert them into a *Candidate*
 
-*Step by step example*: I've found someone who might be suitable for our Backend Engineer role, simply use their name or email address to check on Greenhouse to see their status
---> Add them as a *prospect* on Greenhouse
---> Once they replied with interests, please convert them into *Candidates* on the Greenhouse!
+**Step by Step Example**
+
+I've found someone who might be suitable for our Backend Engineer role, simply use their name or email address to check on Greenhouse to see their status
+--> Add them as a *prospect* on Greenhouse --> Once they replied with interests, please convert them into *Candidates* on the Greenhouse!
 You can also check out our [Greenhouse Tips and Tricks](https://docs.google.com/document/d/1BbO5v_IJEq4QR9KpI7T3fSCwdCapVOZCyNgEk6MYO0s/) document to find more information on Greenhouse usage.
 
 **About Sourcing Channels**
@@ -187,7 +188,7 @@ are not impersonal or "spammy," and we rely on the team sourcing to identify
 relevant and qualified candidates to ensure these messages are as meaningful as
 possible.
 
-## Examples for sourcing:
+## Examples for sourcing
 
 #### LinkedIn Sourcing
 
@@ -208,6 +209,7 @@ Don't have time to set up your own boolean search? Use our [smart boolean search
 Simply add all your filters as described above in the LinkedIn Recruiter sourcing section. After setting up your search paramenters add one extra: “In ATS” - here add Greenhouse. This will show you all the people who match your search and are in our database AND also have a LinkedIn! Please note this will not show you absolutely everybody in Greenhouse.
 
 **Bonus Greenhouse sourcing tip**
+
 You can download in bulk in an XLS file several profiles and you can run your searches in the spreadsheet. For this click on the blue “Export” button on the top of your search results in the “All candidates” section of a search result tab.
 
 ## Sourcing for specific Teams
@@ -218,14 +220,14 @@ Here's an example workflow for sourcing **Product Design** candidates:
 
 1. Before starting a search, you should spend some time defining the skills and experience you're looking for in the **ideal** Product Designer. You should look to outline the organization(s) this person *may* have worked at, the product(s) they could have worked on, any domain-specific experience they will need (e.g. monitoring, authentication, or Kubernetes), and the level this person will need to be at.
 1. From here, we advise adopting a [tree ring sourcing strategy](https://business.linkedin.com/talent-solutions/blog/sourcing/2018/top-recruiters-share-their-favorite-sourcing-hacks). With this approach, you begin with a search that is based on narrow criteria, formed of all of your most desirable attributes.
-1. To start your search, open LinkedIn Recruiter, and select `PROJECTS` from the top banner. Here you will need to either start a new project by naming it `Product Designer - stage group`, or open an existing project if the Recruiter has already shared one with you.
-1. Once you're in the project, you'll need to open up Talent Pool.
+1. To start your search, open LinkedIn Recruiter, and select `Projects` from the top banner. Here you will need to either start a new project by naming it `Product Designer - stage group`, or open an existing project if the Recruiter has already shared one with you.
+1. Once you're in the project, you'll need to open up the `Talent pool` tab.
 1. Now you're on the search page. In a new project, the search field will be blank. You will see the last search run if you're in an existing project.
 1. If you're in a new project, you can begin your search using the `job title` search box on the left of the interface. You can input `Product Designer` to search for anyone who has held this title in their current or past role. If you're following a tree ring strategy, you should select current from the dropdown. In an exisiting project, you can delete all the information as this will be saved by the Recruiter. You can then start your search using the `job title` field.
 1. From here, you can refine this search further using the `current company` search box. Here, you can input the names of organizations you noted at the start of this process.
-1. Next, you can narrow your search further by searching for keywords that may be found within a potential candidate's Linkedin profile. The keywords you search for could be domain-specific, or keywords that could imply relevance for GitLab (e.g. Enterprise). You can narrow your search further by using a [Boolean operator](https://www.linkedin.com/help/linkedin/answer/75814/using-boolean-search-on-linkedin?lang=en) in the keyword search box within Linkedin. Authentication AND Authorization AND Enterprise could be an example keyword search you would run if looking for a Product Designer for our Manage:Authentication and Authorization stage group.
+1. Next, you can narrow your search further by searching for keywords that may be found within a potential candidate's Linkedin profile. The keywords you search for could be domain-specific, or keywords that could imply relevance for GitLab (e.g. Enterprise). You can narrow your search further by using a [Boolean operator](https://www.linkedin.com/help/linkedin/answer/75814/using-boolean-search-on-linkedin?lang=en) in the keyword search box within Linkedin. _Authentication AND Authorization AND Enterprise_ could be an example keyword search you would run if looking for a Product Designer for our Manage:Authentication and Authorization stage group.
 1. Finally, you may want to narrow your search even further by searching for the number of years a candidate has been in the industry. Years of experience are an imperfect measure of ability so you should only do this if your search is returning >200 candidates.
-1. In the above example, if the initial tree ring search returns too few candidates, you could broaden it by searching for (Authentication OR Authorization) AND Enterprise.
+1. In the above example, if the initial tree ring search returns too few candidates, you could broaden it by searching for _(Authentication OR Authorization) AND Enterprise_.
 1. If you decided to search by `current` job title, you may also wish to broaden the search by selecting `current or past` in the job title search field.
 1. Alternatively, you can broaden your search further by searching for alternative job titles like `UX Designer`, `Visual Designer`, or `Interaction Designer`, if you believe someone with that title will be relevant for the role you're sourcing for.
 
