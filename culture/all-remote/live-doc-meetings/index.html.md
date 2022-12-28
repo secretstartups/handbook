@@ -33,7 +33,7 @@ If you determine that a meeting is needed to move a project forward, address a b
 
 ### Agenda and sharing
 
-1. Create the agenda in a Google Doc ahead of time using [GitLab's Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit#heading=h.6upuyp25d0wm) (this can be any shared document service, though GitLab uses [Google Workspace](https://workspace.google.com/)). Please do not use [Google Calendar's automatic agenda/notes creation function](https://workspaceupdates.googleblog.com/2021/10/create-meeting-notes-in-google-calendar.html), as it does not adhere to GitLab's preferred agenda flow. 
+1. Create the agenda in a Google Doc ahead of time using [GitLab's Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit#heading=h.6upuyp25d0wm) (this can be any shared document service, though GitLab uses [Google Workspace](https://workspace.google.com/)). Please do not use [Google Calendar's automatic agenda/notes creation function](https://workspaceupdates.googleblog.com/2021/10/create-meeting-notes-in-google-calendar.html), as it does not adhere to GitLab's preferred agenda flow. If the automatic agenda doc has been created in error, edit the calendar invite and hover over the X to delete it from the agenda to avoid confusion.
 1. Ensure that the appropriate sharing settings are in place to prevent a chorus of "I can't access the agenda" comments; agendas should be editable by all participants.
 1. Link the agenda in the meeting invite.
 1. Establish the agenda as far in advance of the meeting as possible.
