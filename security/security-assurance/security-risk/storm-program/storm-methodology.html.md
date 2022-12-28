@@ -425,7 +425,7 @@ In the cases where a risk owner has opted to pursue a risk acceptance, the follo
 |-----|-----|
 |HIGH|Risk Owner + Director/VP Level Approval* + E-group Level Approval|
 |MODERATE|Risk Owner + Director/VP Level Approval*|
-|LOW|Risk Owner + Manager Level Approval**|
+
 
 - `*` If the Risk Owner is a Director/VP, no additional Director/VP level approval is required
 - `**` If the Risk Owner is a Manager, no additional Manager level approval is required
