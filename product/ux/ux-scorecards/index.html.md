@@ -22,7 +22,7 @@ All of the UX Scorecards can be found in this [epic](https://gitlab.com/groups/g
 
 ## About the process
 
-The UX Scorecard process is meant to balance flexibility and consistency. There are several ways you can create your Scorecard, listed from lightest to heaviest. Select an appropriate approach based on the time you have, the priority of the workflow to users, or whether or not this is the first Scorecard for a JTBD.
+The UX Scorecard process is meant to balance flexibility and consistency. There are several ways you can create your Scorecard, listed from lightest to heaviest. Select an appropriate approach based on the time you have, the priority of the workflow to users, or whether or not this is the first Scorecard for a Job To Be Done (JTBD).
 
 ### Scorecard approach
 
