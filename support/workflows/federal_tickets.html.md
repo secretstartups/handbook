@@ -123,3 +123,17 @@ Once the ticket has been marked as solved, the support ops bot will automaticall
 ## Checking for access
 
 When discussing cases or issues with others in GitLab it may be difficult to ensure they meet the [access requirements](#access-limited-to-us-citizens) to be allowed to receive confidential or sensitive information via chat, screenshare, or call. The single source of truth is whether or not that person has a US Federal Zendesk account, this can be either full or light agent access. The individuals with access have been confirmed by people-ops to be allowed access to this information. The support-ops team has built a handy tool for team members to check whether a person has access to US Federal Zendesk. The tool can be accessed by GitLab team members via [this link](https://gitlab-com.gitlab.io/support/support-ops/zendesk-us-federal-project/) please note that it updates weekly on Sundays at 00:00 UTC. If you need verification for someone who was added more recently you can always ask a US Federal Support Manager or Support-Ops Manager to validate. If you are not able to find a person's name in this tool the user should be considered ineligible to access the instance and you should refer to the [Communication Guidelines](#communication-guidelines) for steps on how to proceed.
+
+## Federal Discovery Calls
+
+Sometimes it can be difficult for customers to capture and convey all of the necessary information for troubleshooting the GitLab stack on their own. When filing a technical support case in the US Federal portal a customer may indicate they would like to hold a discovery session with the case assignee to demonstrate their issue, collect necessary logs/screenshots/etc, and return to working asynchronously in the support case.
+
+When a customer selects the checkbox to indicate they would like a session there will be an internal note at the beginning of the case history indicating they have made the request. The assignee should review all the provided information and select the `General::Discovery call response` macro to begin scheduling the session. The assignee will need to fill in the single use calendly link and request any additional information from the user that may be relevant.
+
+There is a Calendly managed event template called **GitLab US Federal Customer Discovery Call** and it can be assigned to an agent by asking a Calendly admin. This event type is a 30 minute session with 1 day lead time.
+
+It is recommended to continue working the case async while awaiting the discovery call session. 
+
+When the scheduled session occurs the agent should set the expectations that we will be asking the customer to demonstrate the issue and then work with them to create a collection of artifacts that will be uploaded to the case at a later time. 
+
+A short post call synopsis reminding the customer of what artifacts were collected and providing a technical description of what was observed is recommended to ensure both parties have the same understanding of next steps.
