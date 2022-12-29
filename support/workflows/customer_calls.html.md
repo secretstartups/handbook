@@ -44,11 +44,11 @@ If you're feeling one of the results of one of these headwinds it can be easy to
 
 ## When should a ticket go to a call?
 
-Under development in MR: A
+Under development in MR: [www-gitlab-com!117168](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117168/diffs)
 
 ## Types of calls
 
-Under development in MR: B
+Under development in MR: [www-gitlab-com!117223](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117223/diffs)
 
 ### Discovery calls
 
@@ -98,7 +98,7 @@ to ensure proper processes are followed for scheduling calls.
 
 ## Taking Calls
 
-Under development in MR: C
+Under development in MR: [www-gitlab-com!117169](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117169/diffs)
 
 ### Scheduling the call
 
@@ -164,7 +164,7 @@ for that, please modify it as you see fit.
 
 ## Tips for making calls successful
 
-Under development in MR: D
+Under development in MR: [www-gitlab-com!117224](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117224/diffs)
 
 ### Customer No Shows
 
@@ -172,7 +172,7 @@ There are many reasons that a customer may not be able to join a call. If a cust
 
 ## Post-call
 
-Under development in MR: E
+Under development in MR: [www-gitlab-com!117225](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117225/diffs)
 
 ### Call summary
 
@@ -192,7 +192,7 @@ will only be able to act appropriately if they have the call summary available.
 
 ## Special Handling
 
-Under development in MR: F
+Under development in MR: [www-gitlab-com!117226](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117226/diffs)
 
 ### WebEx
 
@@ -222,7 +222,7 @@ If you're not comfortable having the call recorded, please involve your manager 
 
 ## Audio and Video Guidelines for Support Engineers on Customer Calls
 
-Under development in MR: G
+Under development in MR: [www-gitlab-com!117227](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117227/diffs)
 
 #### Krisp.ai License for GitLab Support Team
 
