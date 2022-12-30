@@ -7,7 +7,7 @@ title: "Joel Fluss' README"
 
 ## About Me
 
-Born in Pleasanton, CA, I am the fifth of five boys. In high school and college I swam and played water polo. I attended UC Santa Cruz for undergrad and The University of Texas for my masters in business. I love to surf, swim, ski and go for long hikes in nature and around cities. Reading is such a joy to me, and I try and mix fiction and non-fiction in equal parts across all subjects and genres. If I had all the money in the world I would be a perpetual student, attending universities all over the world and taking classes on everything from architcture to zoology. 
+Born in Pleasanton, CA, I am the fifth of five boys. In high school and college I swam and played water polo. I attended UC Santa Cruz for undergrad and The University of Texas for my masters in business. I love to surf, swim, ski and go for long hikes in nature and around cities. Reading is such a joy to me, and I try and mix fiction and non-fiction in equal parts across all subjects and genres. If I had all the money in the world I would be a perpetual student, attending universities all over the world and taking classes on everything from architecture to zoology. 
 
 ## Current Role
 
@@ -15,16 +15,17 @@ I am currently on the Corporate Development M&A team. Our job is to source, eval
 
 ## My Working Style
 
-My general approach, but applicable to Corporate Development, is always to first just listen. At the beginning of each potential deal I go in with the mindset that everyone involved knows more about the subject matter and company being evaluated than I do. After being initially introduced to the subject I read up on journal articles, analyst reasearch, company filings and any other reasearch I can find. I then come back to the subject matter experts (usually the PM and engineering teams) and ask more informed questions tailored towards answering questions such as (but not limited to)...
+My general approach, but applicable to Corporate Development, is always to first just listen. At the beginning of each potential deal I go in with the mindset that everyone involved knows more about the subject matter and company being evaluated than I do. After being initially introduced to the subject I read up on journal articles, analyst research, company filings and any other research I can find. I then come back to the subject matter experts (usually the PM and engineering teams) and ask more informed questions tailored towards answering questions such as (but not limited to)...
 
 - Why is this product or feature important to GitLab?
-- Why is this company important to GitLab more so than any of its competitors that we could possible aquire instead?
+- What are customers using instead of GitLab to get the job done?
+- Why is this company important to GitLab more so than any of its competitors that we could possible acquire instead?
 - What alternatives do we have if we choose not to buy?
 - Is this the absolute best use of resources for this particular product team?
 
 ## How I communicate / the best ways to communicate with me
 
-I am based in the Central U.S. timezone and like to be online a little before 8:00 am Cst. I have no hard-set hours where I am unreachable, however I maintain that working late in the evening has diminishing returns; I would rather get up early than stay up late to meet a deadline. Each day I make sure to get some excercise, I find that excercise is the best way for me to stay mentally sharp. TO excercise I usually swim or jog, disconnected from everything. I enjoy building rappport and meeting my colleagues for a coffee chat, don't be surprised if I send you a coffee chat invite after the first time we interact.
+I am based in the Central U.S. time zone and like to be online a little before 8:00 am Cst. I have no hard-set hours where I am unreachable, however I maintain that working late in the evening has diminishing returns; I would rather get up early than stay up late to meet a deadline. Each day I make sure to get some exercise, I find that exercise is the best way for me to stay mentally sharp. To exercise I usually swim or jog, disconnected from everything. I enjoy building rapport and meeting my colleagues for a coffee chat, don't be surprised if I send you a coffee chat invite after the first time we interact.
 
 ## Strengths & Areas of Improvement
 
@@ -41,13 +42,13 @@ I am always working to improve my ability to confront. I realize I am sometimes 
 ## Favorite Sports Teams
 
 - Crystal Palace
-- Golden State Warrios
+- Golden State Warriors
 - NY Jets
 - Oakland Athletics
 
 ## Favorite Books
 
-- Bussiness Adventures
+- Business Adventures
 - For Whom the Bell Tolls
 - Jitterbug Perfume
 - P.G. Wodehouse (anything)
