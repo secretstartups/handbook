@@ -77,7 +77,7 @@ We need to enforce standardized CI pipelines that include requisite testing and 
 
 ## Wedge conversation topics
 
-These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want drive people to delivery automation (or platform). 
+These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want to drive people to delivery automation (or platform). 
 
 
 #### [1. GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)
