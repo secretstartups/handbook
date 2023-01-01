@@ -118,7 +118,7 @@ deletion. Keep in mind that doing so will remove the label from all items it
 exists on. If you are sure you wish to confirm the deletion, click the red
 `Delete label` button.
 
-## Important GitLab labels for Supprot Operations
+## Important GitLab labels for Support Operations
 
 | Label                      | Category | Purpose |
 |----------------------------|----------|---------|
