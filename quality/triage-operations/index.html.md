@@ -342,7 +342,8 @@ graph LR
 
 * Automation conditions:
   - MR was opened
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened for the `gitlab-com/www-gitlab-com` project and its author is not a member of the `gitlab-com` group
+  - The MR is opened in a project under the `gitlab-org` group or for the `gitlab-com/www-gitlab-com` project, and its
+    author is not present in the [team page](https://about.gitlab.com/company/team/)
 * Automation actions:
   - Posts a "Thank you" note
   - Adds the `Community contribution` and `workflow::in dev` labels
