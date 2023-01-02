@@ -663,10 +663,11 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
     *   **Note: The Start Date should be the new subscription term’s start date, or the “Early Renewal” date.**
 *   Click Next and update the products and fees per the steps above.
 *   **IMPORTANT:** Next, tag `@Sales-Support` in Chatter on the Renewal Opportunity to create a credit opportunity and quote to cancel the existing subscription, which in this scenario is being replaced with the new subscription. Deal Desk will then manually generate a Contract Reset Opp and Order Form to add the credit line into the order form once the quote has been fully approved.
+###       **Note: The customer's subscription is suddenly downgraded to free, greatly impacting their ability to use GitLab.com.** 
+*   To help mitigate the impact, the customer may [change the linked namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#change-the-linked-namespace) or contact support. For a demo see, [Linking GitLab Subscription to the Namespace](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4770#note_1194437643)
 *   Deal Desk will attach a PDF of the consolidated quote to the opportunity 
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
-
 On the main contract reset opportunity, Deal Desk will populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, Deal Desk will populate the "Opportunity Category" field with "Credit." 
 
 All Contract Reset opportunities will be classified as a "Renewal" and will be subject to ARR Basis, which will impact overall Net ARR depending on the scenario. 
