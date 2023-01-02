@@ -25,7 +25,7 @@ get merged into GitLab.
 * Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) stays relevant, up-to-date and keeps evolving.
 * Participate in the discussion and voting for the [release post MVP](/handbook/marketing/blog/release-posts/index.html#mvp).
 
-### Specialties 
+### Specialties
 
 We are working on adding the following Merge Request Coach Specialties
 
@@ -42,6 +42,12 @@ As a Merge Request Coach you will collaborate with people from the wider GitLab 
 With each merge request opened by a wider community member, it's important to note GitLab is **not** their main focus. They have contributed to GitLab out of kindness, and we should aim to give them the space they need to fulfill their merge request.
 
 After a merge request from a wider community member has been submitted and you have provided feedback, allow a period of up to **two weeks** for the community member to continue their work before following up with the community member through a comment in the merge request.
+
+The Danger bot performs many useful activities including reviewer roulette.
+Merge requests from forks outside GitLab require [setup](https://docs.gitlab.com/ee/development/dangerbot.html#configuring-danger-for-forks) to run it.
+If this setup is missing, you can run the pipeline yourself and it will use your token.
+Or [spin the roulette manually](https://gitlab-org.gitlab.io/gitlab-roulette).
+Please verify that the merge request contains no abusive changes before doing so.
 
 #### Dealing with trivial merge requests
 
