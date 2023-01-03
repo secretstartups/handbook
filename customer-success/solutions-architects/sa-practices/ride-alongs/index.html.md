@@ -40,16 +40,18 @@ _For passengers interested in the public sector! Given that information within t
 
 _Any solutions architect is eligible to be a driver. If you opt-in, please ensure your calendar is available for others to view_
 
-To become a driver, submit an MR (or [use this open merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/116645)) to this page adding yourself to the table below and assign your manager as a reviewer.
+To become a driver, submit an MR (or [use this open merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117290)) to this page adding yourself to the table below and assign your manager as a reviewer.
 
 | Team Member            | Segment                      | 
 |------------------------|------------------------------|
 | **Tim Poffenbarger**   | Americas SMB, Mid-Market     |
 | **Noah Ing**           | Americas SMB, Mid-Market     |
 | **Joe Randazzo**       | Americas SMB, Mid-Market     |
+| **Madou Coulibaly**    | EMEA SMB, Mid-Market.        |
 | **Idir Ouhab Meskine** | EMEA Enterprise              |
-| **Sameer Kamani**      |  PubSec                      |
-| **Linc Williams**      | - PubSec USN, USMC,DHA       |
+| **Sameer Kamani**      | PubSec                       |
+| **Linc Williams**      | PubSec USN, USMC,DHA         |
+| **__**                 |                              |
 
 ##### Sync before Call
 
