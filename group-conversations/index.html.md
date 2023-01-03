@@ -392,7 +392,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday January 19 | **Available** | DRI | Key Review Date |  
 | Tuesday January 24 | Support | Tom Cooney | January 18 |
 | Wednesday January 25 | People | Wendy Barnes | January 18 |
-| Thursday January 26 | **Available** | DRI | Key Review Date |  
+| Thursday January 26 | Finance | Brian Robins | January 17 |  
 | Tuesday January 31 | IT | Craig Mestel | January 24 |
 | Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
 | Thursday February 2 | Quality | Mek Stittri | January 26 |  
@@ -408,7 +408,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday February 28 | **Available** | DRI | Key Review Date |
 | Wednesday March 1 | **Available** | DRI | Key Review Date |
 | Thursday March 2 | **Available** | DRI | Key Review Date |  
-| Tuesday March 7 | **Available** | DRI | Key Review Date |
+| Tuesday March 7 | Finance | Brian Robins | March 1 |
 | Wednesday March 8 | **Available** | DRI | Key Review Date |
 | Thursday  March 9 | Support | Tom Cooney | March 1 |  
 | Tuesday March 14 | Infrastructure | Steve Loyd | March 2 |
@@ -427,7 +427,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday April 12 | **Available** | DRI | Key Review Date? |
 | Thursday April 13 | **Available** | DRI | Key Review Date? |   
 | Tuesday April 18 | **Available** | DRI | Key Review Date? |
-| Wednesday April 19 | **Available** | DRI | Key Review Date? |
+| Wednesday April 19 | Finance | Brian Robins | April 12 |
 | Thursday April 20 | Support | Tom Cooney | April 12 |  
 | Tuesday April 25 | **Available** | DRI | Key Review Date |
 | Wednesday April 26 | Infrastructure | Steve Loyd | April 13 |
@@ -442,7 +442,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday May 17 | **Available** | DRI | Key Review Date |
 | Thursday May 18 | **Available** | DRI | Key Review Date |  
 | Tuesday May 23 | **Available** | DRI | Key Review Date |
-| Wednesday May 24 | **Available** | DRI | Key Review Date |
+| Wednesday May 24 | Finance | Brian Robins | May 16 |
 | Thursday May 25 | **Available** | DRI | Key Review Date |  
 | Tuesday May 30 | **Available** | DRI | Key Review Date |
 | Wednesday May 31 | Quality | Mek Stittri | May 25 |
@@ -457,7 +457,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday June 21 | **Available** | DRI | Key Review Date |
 | Thursday June 22 | **Available** | DRI | Key Review Date? |  
 | Tuesday June 27 | **Available** | DRI | Key Review Date |
-| Wednesday June 28 | **Available** | DRI | Key Review Date |
+| Wednesday June 28 | Finance | Brian Robins | June 21 |
 | Thursday June 29 | Security | Security Leadership | June 21 |  
 | Tuesday July 4 | Independence Day (US)| | N/A |
 | Wednesday July 5 | **Available** | DRI | Key Review Date |
