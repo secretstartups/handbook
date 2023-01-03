@@ -290,6 +290,8 @@ The following is an *example* of a cumulative Referral Bonus:
 * Who self-identifies as a member of a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups): + $1,500
 * Cumulative referral bonus to the referring team member: **$3,000**
 
+Please note if the referral bonus was submitted **before 2022-06-01**, then the [here](https://about.gitlab.com/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team) mentioned referral bonus amounts apply.
+
 #### How to make a referral
 
 For information regarding the program details and team member eligibility and understanding, please visit our [guide in the Hiring section of GitLab's handbook](/handbook/hiring/referral-process/).
