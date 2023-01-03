@@ -734,9 +734,9 @@ In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-
 | ------ | ------ | -------------- | -------------- |
 | [AMER - East & Canada ](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?label_name[]=East) | Beth Parker | `@BParker` |
 | [AMER - South Central & LATAM](https://gitlab.com/groups/gitlab-com/marketing/-/boards/4435497?label_name[]=South%20Central%20-%20LATAM) | Jonathan Santiago  | `@JonathanSanti` |
-| [AMER West - NW, North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Ginny Reib | `@greib` |
-| [AMER West - SW, New First Order](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
-| [AMER - Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey | & `@KiraAubrey` |
+| [AMER - North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Julie Wyatt | `@Julie Wyatt` |
+| [AMER - Southwest & Northwest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
+| [AMER - Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey |  `@KiraAubrey` | Haley McComber |  `@Haley McComber` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Kate Baker | `@kbaker4` |
 | Japan - link WIP | Shu Kawaguchi | `@skawaguchi1` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
@@ -859,9 +859,9 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | ------ | ------ | -------------- |
 | AMER East & Canada | Beth Parker | Maria Henry |
 | AMER South Central & LATAM | Jonathan Santiago | Rodrigo Rios - LATAM and Joe McAninch - Central |
-| AMER West-PacNorWest | Ginny Reib | TBD |
-| AMER West - NorCal/SoCal/Rockies | Lisa Rom | TBD |
-| AMER Public Sector | Kira Aubrey | Chris Novello|
+| AMER North Central | Julie Wyatt | Joe McAninch - Central |
+| AMER Southwest & Northwest | Lisa Rom | TBD |
+| AMER Public Sector | Kira Aubrey & Haley McComber | Chris Novello|
 | APAC | Kate Baker | Dirk de Vos |
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Juliette Francon | Tristan Ouin |
