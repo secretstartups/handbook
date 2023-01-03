@@ -26,30 +26,32 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 ## Sales Quick Start Remote Agenda:
 
 
-### SQS 30 - Noveber / December 2022
+### SQS 31 - January 2023
 
-* Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -5)
+* Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -4)
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-| Nov 28, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
-| Nov 29, 2022 | 11:00a ET | 12:20p ET | Value Card Exercise | Field Enablement  |
-| Nov 30, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
-| Dec 1, 2022 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement  |
-| Dec 2, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-| Dec 5, 2022 | 11:00a ET | 11:50a ET | Intro to Competition |  Competitive Intelligence Team  |
-| Dec 5, 2022 | 12:30p ET | 12:50p ET | Field Security | Field Security Team   |
-| Dec 6, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team   |
-| Dec 6, 2022 | 11:00a ET | 11:50a ET  | Discussion: Professional Services | Professional Services Team |
-| Dec 6, 2022 | 10:00a ET | 10:50a ET | Discovery Call 1 EMEA|  Mock Customers  |
-| Dec 6, 2022 | 1:00p ET | 1:50p ET | Discovery Call 1 AMER | Mock Customers  |
-| Dec 7, 2022 | 11:00a ET | 11:50a ET  | Legal / Deal Desk |  Legal / Deal Desk Team  |
-| Dec 7, 2022 | 12:00p ET | 12:50p ET | Channels | Field Enablement   |
-| Dec 8, 2022 | 10:00a ET | 10:50a ET | Discovery Call 2 EMEA |  Mock Customers |
-| Dec 8, 2022 | 1:00p ET | 1:50p ET | Discovery Call 2 AMER |  Mock Customers |
-| Dec 9, 2022 | 12:00p ET | 12:50p ET | Customer Success Manager Overview |  Customer Success Team  |
-| Dec 9, 2022 | 10:00a ET | 10:50a ET | Discovery Call 3 EMEA |  Mock Customers |
-| Dec 9, 2022 | 1:00p ET | 1:50p ET | Discovery Call 3 AMER |  Mock Customers |
+| Jan 11 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
+| Jan 17 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement  |
+| Jan 18| 10:30a ET | 11:50a ET | Value Card Exercise | Field Enablement  |
+| Jan 19 | 10:30a ET | 11:50a ET | Discovery Question Exercise | Field Enablement  |
+| Jan 20 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement |
+| Jan 20 | 12:00p ET | 12:50p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+| Jan 23 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence   |
+| Jan 23 | 12:00p ET | 12:30p ET | Field Security | Field Security Team    |
+| Jan 24 | 10:00a ET | 10:50a ET | Discovery Call 1 (EMEA) | Mock Customers  |
+| Jan 24 | 12:00p ET | 12:50p ET | Customer Success Manager Overview | CSM Team |
+| Jan 24 | 1:00p ET | 1:50p ET | Discovery Call 1 (AMER) | Mock Customers  |
+| Jan 25 | 10:00a ET | 10:50a ET | Discovery Call 2 (EMEA) | Mock Customers |
+| Jan 25 | 11:00a ET | 11:50a ET  | Discussion: Professional Services | Professionakl Services Team  |
+| Jan 25 | 12:00p ET | 12:50p ET | Alliances |   |
+| Jan 25 | 1:00p ET | 1:50p ET | Discovery Call 2 (AMER) | Mock Customers |
+| Jan 26 | 10:00a ET | 10:50a ET | Discovery Call 3 (EMEA) | Mock Customers  |
+| Jan 26 | 11:00a ET | 11:50a ET  | Legal / Deal Desk | Legal / Deal Desk Team  |
+| Jan 26 | 1:00p ET | 1:50p ET | Discovery Call 3 (AMER) | Mock Customers |
+| Jan 27 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
+
 
 
 
