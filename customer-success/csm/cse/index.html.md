@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Customer Success Engineer Handbook"
+title: "Customer Success Engineering Handbook"
 ---
+# Customer Success Engineering (CSE)
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,18 +14,30 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-⚠️ This information is under active development and is not yet final. This page will be updated on an ongoing basis during this phase.
-{: .alert .alert-warning}
+## CSE Vision
+To be the world's most customer-centric company, where customers can accelerate their own missions with frictionless adoption and value realisation of The One DevOps Platform.
 
 ## CSE Mission
 The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices in order to drive measurable value for GitLab customers.  CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities, leading to product adoption, expansion, and greater value realized by our customers.
 
 ![cse-value-acceleration](/handbook/customer-success/csm/cse/LandAdoptExpand.png)
 
+## Team
+| Name                                             | Region    | 
+|:------------------------------------------------:|:---------:| 
+| [Martin Brümmer](https://gitlab.com/mbruemmer)   | EMEA      | 
+| [Philippe Charriere](https://gitlab.com/k33g)    | EMEA      | 
+| [Nick Wilson](https://gitlab.com/nwilson-gitlab) | AMER East | 
+
+## FY23 Direction
+1. Establish the core team
+2. Define and document role and responsibilities
+3. Establish initial engagements
+
 ## Role & Responsibilities
 Engage with customers in a technical consultancy and advisor role during their GitLab Journey while providing technical and solution guidance. This is achieved by driving towards measurable value (business outcomes), leading to product adoption, renewal, and expansion opportunities. The team is focused on solution-based programs that are customized to fit an individual customer's needs. 
 
-## GitLab Use Cases to supported by CSEs (WIP)
+## GitLab Use Cases supported by CSEs
 
 - Technical Discovery in-line with a customer's desired business outcomes
 - Infrastructure Discovery (initial exploration on direction, complexity)
@@ -43,16 +57,20 @@ Customer Success Engineer engagement follows a process for validation and delive
 
 ```mermaid
 graph TD
-    A[Engagement request]
-    B[Review]
-    C[Planning]
+    A[Engagement Opportunity]
+    B[Engagement Review]
+    C[Engagement Start]
     D[Clarification]
-    E[Engagement]
-    F[Completion]
+    E[Engagement Complete]
+    F[Engagement Rejected]
+    G[Issue and CTA Closed]
 
-    A --> B
-    B --> |Info needed| D --> B
-    B --> |Manager approved| C --> E --> F
+    A --> |CSM Creates Request - Using Issue Template| B
+    B --> |Engagement Qualified| C --> |Issue Progresses Through CSE Board| E
+    C --> |Gainsight CSE Playbook| E
+    B --> |More Information Needed| D --> B
+    E --> G
+    B --> F --> G
 ```
 
 ### Engagement Request
