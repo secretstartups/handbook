@@ -147,21 +147,62 @@ No, not at this time.
 | [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
 | [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
 | [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) | 
+| [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 
 ## Schedule
 
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| 12/12/2022 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
-| 12/19/2022 | Shadowing not available this week | N/A |
-| 12/26/2022 | Shadowing not available this week | N/A |
-| 1/2/2023 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
-| 1/9/2023 | Available | |
-| 1/16/2023 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
-| 1/30/2023 | Available | |
-| 2/6/2023 | Available | |
-| 2/13/2023 | Available | |
-| 2/20/2023 | Available | |
-| 2/27/2023 | Available | |
+| Jan 2 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
+| Jan 9 | Available | |
+| Jan 16 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
+| Jan 30 | Available | |
+| Feb 6 | Available | |
+| Feb 13 | Available | |
+| February 20|  Available | |
+| February 27|  Available | |
+| March 6    |  Available | |
+| March 13   |  Available | |
+| March 20   |  Available | |
+| March 27   |  Available | |
+| April 3    |  Available | |
+| April 10   |  Available | |
+| April 17   |  Available | |
+| April 24   |  Available | |
+| May 1      |  Available | |
+| May 8      |  Available | |
+| May 15     |  Available | |
+| May 22     |  Available | |
+| May 29     |  Available | |
+| June 5     |  Available | |
+| June 12    |  Available | |
+| June 19    |  Available | |
+| June 26    |  Available | |
+| July 3     |  Available | |
+| July 10    |  Available | |
+| July 17    |  Available | |
+| July 24    |  Available | |
+| July 31    |  Available | |
+| August 7   |  Available | |
+| August 14  |  Available | |
+| August 21  |  Available | |
+| August 28  |  Available | |
+| September 4|  Available | |
+| September 11 |  Available     |       |
+| September 18 |  Available     |       |
+| September 25 |  Available     |       |
+| October 2  |  Available | |
+| October 9  |  Available | |
+| October 16 |  Available | |
+| October 23 |  Available | |
+| October 30 |  Available | |
+| November 6 |  Available | |
+| November 13|  Available | |
+| November 20|  Not available | |
+| November 27|  Available | |
+| December 4 |  Available | |
+| December 11|  Available | |
+| December 18|  Available | |
+| December 25|  Not Available | |
 
