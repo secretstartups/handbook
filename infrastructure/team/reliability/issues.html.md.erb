@@ -124,6 +124,18 @@ Issues should always fall in to one of the following states, as defined by the f
 4. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
 5. `workflow-infra::Done` - This label is applied only when the issue has been closed.
 
+#### Service Labels
+
+`service::` labels are used to route issues to standing squads within the Reliability Team.  All issues should have a `service::` label specified during the triage process.  If multiple services are involved choose the service that best fits based on the details in the issue.  
+
+##### Examples
+| Service | Squad | Issue |
+| ------ | ------ | ------ |
+| `service::Terraform`| [Foundations Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#reliability-foundations-squad)| [Issue#17010](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/17010) |
+| `service::Prometheus` | [Observability Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#observability-squad) | [Issue#14574](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/14574)|
+| `service::Gitaly` | [Gitaly Stable Counterpart Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/stable-counterpart.html) | [Issue#16271](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/16271) |
+| `service::Sidekiq` | [General Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#general-squad) | [Issue#15720](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15720) |
+
 #### Squad Labels
 During the traige process, issues will be routed to [Standing Squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#standing-squads) where appropriate.  See the table below for the current list of active Standing Squad Labels:
 
