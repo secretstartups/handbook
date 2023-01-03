@@ -105,23 +105,38 @@ The [Pipeline Execution Workflow board](https://gitlab.com/groups/gitlab-org/-/b
 
 ### Planning
 
-Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline).
+Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline). 
 
 * By the **4th** of each month:
   * The [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?not%5Bmilestone_title%5D=Started&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=needs%20weight) should be updated by the PM for all issues being considered for the next milestone that need weight and apply the `workflow::planning breakdown` label.
   * Based on capacity, engineers will assign themselves to `~needs weight` issues to apply weight.
   * The PM will assign or update `Verify::P*` labels for the refined issues.
   * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
-* By the **7th of each month:
+* By the **7th** of each month:
   * The designated DRI for milestone refining will review the state of issues in `workflow::planning breakdown` to ensure that all issues for the upcoming milestone are being weighted and refined by team members. 
   * For any issues where team members have not already started the refinement process, the designated DRI will comment on the issue asking a specific team member or team members to start the process. 
 * By the **11th** of each month: 
   * The designated DRI for milestone planning will follow-up with engineers for any issues not yet in `workflow::ready for development`.
 * By the **13th** of each month:
   * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
+  * Engineers will assign themselves to issues they plan to work on in the upcoming milestone.
+* By the **14th** of each month:
+  * The EM will assign developers to any unassigned issues in the milestone.
+* By the **16th** of each month:
+  * Engineers should consider any issues from the previous milestone that may carry forward when deciding their commitments, then add labels to their assigned issues as follows:
+    * `~Deliverable` indicates they are committed to completing the issue in the milestone.
+    * `~Stretch` indicates they are likely to at least start the issue and may complete it.
+  * Engineers will unassign themselves from any issues they are not committing to (those not labelled `~Deliverable` or `~Stretch`).
+  * Engineers will thumbs up :thumbsup: or thumbs down :thumbsdown: their commitment in the planning issue for the milestone. Thumbs Up indicates that they are committing as indicated by the labels to their assigned issues. Thumbs Down indicates that there is further discussion needed before a commitment can be made. In this case the engineer should start that discussion in the planning issue. 
+* By the **19th** of each month:
+  * The EM will work with the PM and engineers to decide what should happen to any unassigned issues. They might be:
+    * Reassigned with agreement from the engineer.
+    * Placed in the `%Backlog`
+    * Moved to a future milestone.
+    * Remain in the current milestone as `~Stretch` goals.
   * The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities. 
-  * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
-  * The EM and PM will assign the `Deliverable` label to as many issues in `workflow::ready for development` as the team has capacity for.
+
+**Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](https://about.gitlab.com/handbook/values/#results) over what we plan.
 
 #### How Engineering Refines Issues
 
