@@ -11,9 +11,9 @@ title: "Professional Services Project Manager"
 | Senior - 7 |
 
 ## **Performance Indicators**
-* Project Manager: Achieve 100% of the global quarterly revenue target 
-* Project Manager: Manage customer projects to a successful, on budget, on schedule completion 
-* Project Manager: Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
+* Achieve 100% of the global quarterly revenue target 
+* Manage customer projects to a successful, on budget, on schedule completion 
+* Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
 
 # **Professional Services Roles at GitLab**
 
@@ -83,9 +83,9 @@ All of the requirements of an intermeidate Project Manager plus the following:
    * Ensure revenue can be recognized immediately following the completion of the work (swiftly execute Change Orders as needed)
 
 ## **Performance Indicators**
-* Project Manager: Achieve 100% of the global quarterly revenue target 
-* Project Manager: Manage customer projects to a successful, on budget, on schedule completion 
-* Project Manager: Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
+* Achieve 100% of the global quarterly revenue target 
+* Manage customer projects to a successful, on budget, on schedule completion 
+* Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
 
 ## **Career Ladder**
 * The next steps for individual contributors is to move into:
