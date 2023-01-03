@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Product Management CDF and Competencies
 ---
 
-## On this page
+# On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -16,90 +16,133 @@ On this page, you'll find an overview as well as links to helpful resources for 
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
-We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Low, Medium and High potential instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
+We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Growth Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Developing, Growing, and Exceeding in [Growth Output](/handbook/people-group/talent-assessment/#growth-output) instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
 
 ***
 
-### CDF Review
-
-Product Management Leadership will perform CDF reviews with their team members on a regular cadence agreed upon with their team member, to happen at every 2 to 3 months, and no less frequently than every 3 months. We encourage limited flexibility based on manager discretion because team members have different career goals, growth cadences and product challenges they may want to align with their CDF. Product Management Leadership should consider creating a recurring meeting dedicated to this topic rather than utilizing existing 1:1 meetings.
-
-#### What is the expected outcome of a CDF Review?
+### What is the expected outcome of a CDF Review?
 CDF reviews should result in actionable improvement focus areas for the product manager. When conducting a CDF review, managers should consider drilling into specific items within the PM's purview to highlight where the team member can focus on improving. [PM competencies](#competencies) are also valuable for identifying improvement areas.
 
-We also use a values alignment indicator to competencies: 
+We use KPIs by function in the CDF. These KPIs feature a guideline for results that are meant to be suggested indicators for ideal behaviors for Product teammates at GitLab. These are target results and are not meant to be an exhaustive list for Product teammate performance. As a manager and individual contributor, have a dialogue about the right measures of success and define those at the beginning of each performance cycle. Keep the KPIs consistent as you measure them over each CDF review for the best comparative results of growth. 
 
-* [Collaboration](/handbook/values/#collaboration) - (C) 
-* [Results](/handbook/values/#results) - (R) 
-* [Efficiency](/handbook/values/#efficiency) - (E)
-* [Diversity, Incusion, and Belonging](/handbook/values/#diversity-inclusion) - (D)
-* [Iteration](/handbook/values/#iteration) - (I)
-* [Transparency](/handbook/values/#transparency) - (T) 
+### Selecting a Focus Area
 
-#### What is the difference between CDF reviews and Talent Assessments? 
-The CDF is a tool for discussing teammate career development on a regular cadence as a dialogue about performance, which does not impact compensation. 
+In each CDF review, it's recommended to select an improvement area to focus on until the next CDF review. This could be anywhere from 1 to 3 improvement areas that you and your manager select together. Once selected, the teammate and manager check in on those focus areas in each 1:1 reviewing progress, discussing feedback, and adjusting any plans for the quarter to continue to improve. Selecting a focus provides a structure to say "no" to other areas that may not be as timely, critical, or worth the additional focus. 
 
-Across GitLab, we conduct annual [Talent Performance Assessments](https://about.gitlab.com/handbook/people-group/talent-assessment/#talent-assessment-program) which informs the annual compensation changes for teammates. The deliverable for the Talent performance assessment is to categorize teammates using the [performance/growth matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) and calibrate the teammate's [performance factor](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performance-factor). 
+## CDF for Individual Contributors in Product Management 
+Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/).
 
-CDFs are one input into the [performance factor calibration](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session-guidelines). The second input for calibrations, [Growth](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-growth), is not included in the CDF reviews. Growth is assessed by leadership in Product during the [calibration session](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session). The calibration ensures consistency of evaluation across managers and drives cross-departmental feedback on the teammate as it relates to the Job Family expectations. Additionally, CDFs are a great method for [identifying action](https://about.gitlab.com/handbook/people-group/talent-assessment/#identifying-action) as the calibration discussions conclude, putting any feedback into action for the teammate's performance and growth. 
+|**Levels**| Intermediate| Senior |Principal|Senior Principal|
+|----|-----|-----|-----|-----|
+| **Typical Reporting Structure** |Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Group Manager, Director, or VP |  Reports to a Director, or VP 
+| **Typical Experience** |Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | Ten years or more of experience or equivalent combination of experience and education.| 
 
-#### CDF for Individual Contributors
+### CDF for Individual Contributor Product Managers 
 Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/). 
 
-| [Product Manager Levels](https://about.gitlab.com/job-families/product/product-manager/) | PM | Senior PM | Principal PM |
-| -------- | -- | ------ | ------------ |
-| **Validation Track Skills** | Adept at qualitative customer interviewing. Familiar with prioritization frameworks like RICE to organize opportunity backlogs. Capable of deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Proficient at story mapping, to break epics down into smaller [Minimal Viable Change (MVC)](/handbook/values/#minimal-viable-change-mvc) issues. Proficient at collaborating with Design on prototypes to bring potential solutions to life. | Skilled at qualitative customer interviewing. Excellent at deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Skilled at story mapping, to break epics down into smaller MVC issues. Excellent at collaborating with Design on prototypes to bring potential solutions to life. | Skilled at qualitative customer interviewing. Skilled at story mapping, to break epics down into smaller MVC issues. Capable of teaching product validation techniques to others. |
-| **Build Track Skills** | Adept at breaking epics and issues down into MVC's. Knowledgeable about GitLab's products and their relevant product domain(s). Knowledgeable about GitLab's architecture, APIs, and tech stack. Capable of running a demo anytime. Able to make highly informed prioritization & tradeoff decisions with engineering. Able to discuss & evaluate technical architecture recommendations from engineering. Responsible for the health of working relationships with peers in the Group. Familiar and comfortable with agile development methodologies. | Excellent at breaking epics and issues down into MVC's. Deep familiarity with GitLab's product and the relevant product domain(s). Deep understanding of GitLab's architecture and tech stack. Able to elevate the performance of the Group through excellent PM outputs. | Expert at breaking epics and issues down into MVC's. Expert in their relevant product domain(s) and capable of teaching others about the domain. Expert at distilling complex technical topics into user impacts for non-technical audiences. Responsible for the health of working relationships with fellow Engineering Managers and UX counterparts. Capable of recognizing and leading product initiatives that span multiple groups for greater global optimization. Drives efficiency in the R&D organization |
-| **Business Skills** | Understands and communicates the business value of epics and issues. Sets success metrics for epics and issues, and tracks metrics post-launch to guide investment in iterative improvements. Spends up to 20% of time researching & defining category vision & strategy. Evaluates potential and fit of products for acquisition. | Able to ensure activities are consistent with GitLab's go-to-market and business model. Drives evaluation of build, buy and partner options for solving customer problems. Can identify new market opportunities & author business cases, as well as forecast the approximate benefits of new features, projected against competition in the space. Spends up to 30% of time researching & defining category vision & strategy. | Expert at business case creation. Capable of managing business results across a range of product domains. |
-| **Communication Skills** | Capable written and verbal communicator internally and externally. Drives clarity in area. Trusted resource for customer calls and meetings. Builds rapport with stakeholders to align around priorities. Self aware and understands how their interactions impact others. Takes action to improve behavior based on impact to others. | Capable of representing GitLab externally at trade shows, customer events, conferences, etc. Solid presentation skills at all levels of the company. Appropriately influences & persuade others to a course of action. | Recognized as a thought leader internally and externally. Excellent presentation skills at all levels of the company. Escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. |
-| **Typical Reporting Structure** | Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Group Manager, Director, or VP |
-| **Typical Experience** | Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | 
+| Competency |Outcomes| [Intermediate PM](https://about.gitlab.com/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](https://about.gitlab.com/job-families/product/product-manager/#senior-product-manager) | [Principal PM](https://about.gitlab.com/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](https://about.gitlab.com/job-families/product/product-manager/#senior-principal-product-manager)
+| -------- |-- | -- | ------ | ------------ |------------ |
+| **Product Roadmap & Product-Led Growth**: This competency is about setting and attaining the product direction as defined by the teammate. The teammate is being evaluated on connecting data to product strategy, influencing communication skills internally, plan ambitiously, while effectively practicing iteration, and delivering on the needs of the market. | MAU Attainment, Dogfooding Implementation %, Use of Growth Experiments | Adept at setting product direction for assigned product categories on a monthly cadence as informed by the stage direction. Capable of  breaking epics into issues and issues into minimal viable changes (MVCs). Partners with stable counterparts in product group Engineering to practice iteration and attain monthly active users as set by teammate. Manages product direction and maintains updates to category direction pages. Capable of using data about install base, growing customers, and prospects to prioritize features in a milestone with guidance from product leadership. Capable of using experimentation frameworks with support from growth and product leadership. Monitors monthly active users, error budgets, and other product performance indicators to inform product direction. | Excellent at setting product direction for assigned categories on monthly basis and informs stage direction. Adept at setting quarterly and annual plans. Skilled at breaking epics into issues and issues into minimal viable changes (MVCs). Works across the stage to practice iteration and attain monthly active users as set by teammate. Proactively manages product direction and maintains updates to category direction pages. Skilled at using data about install base, growing customers, and prospects to prioritize features in a milestone. Skilled at using experimentation frameworks. Proactively and independently monitors monthly active users, error budgets, and other product performance indicators to inform product direction. |Expert at setting product direction for assigned categories on monthly basis and informs section direction. Skilled at setting quarterly and annual plans. Expert at breaking epics into issues and issues into minimal viable changes (MVCs). Works across the section to practice iteration and attain monthly active users as set by teammate. Coaches others on direction updates and proactively manages product direction updates to category direction pages. Expert at using data about install base, growing customers, and prospects to prioritize features in a milestone. Expert at using experimentation frameworks. Deep understanding of trends in monthly active users, error budgets, and other product performance indicators and how those PIs shape their product direction. Capable of coaching others on PLG methods. | Expert at spotting the need for setting product direction for cross-section and intra-section initiatives. Able to coach others at setting quarterly and annual plans. Mentors, leads by example, and coaches others on breaking epics into issues and issues into minimal viable changes (MVCs). Works across sections to practice iteration and attain monthly active users as set by teammate. Mentors, leads by example, and coaches others on direction updates. Proactively manages product direction pages. Mentors, leads by example, and coaches others at using data about install base, growing customers, and prospects to prioritize features in a milestone. Mentors, leads by example, and coaches others in using experimentation frameworks. Applies a deep understanding of trends in monthly active users, error budgets, and other product performance indicators and how those PIs shape their product direction. Actively coaches others on PLG methods.|
+|**Sensing Mechanisms**: This competency is about being able to balance and understand the various inputs of the user, customer, market, and landscape for GitLab. This will include the various levers the teammate will use to inform the product direction and use to shape the execution plans. Each function will have different mixes of sensing mechanisms required for that function, although, in order to effectively satisfy the requirements of the Product Competency all sensing mechanisms should be addressed at some level in the development framework for the teammate's development.| Uses appropriate methods of Customer Interviewing, Competitive Landscape, Market Research, and new persona research as the basis for Product Direction; Measurement: Direction page updates, DevOps tools updates, Recording of competitive tools walkthroughs, PM Standup Sharing, Opportunity canvases, [category mapping](https://internal-handbook.gitlab.io/handbook/corporate-development/#category-mapping) | Adept at qualitative customer interviewing. Familiar with prioritization frameworks like RICE to organize opportunity backlogs. Capable of deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Proficient at story mapping. Proficient at collaborating with Design on prototypes to bring potential solutions to life. Understands and communicates the business value of epics and issues. Sets success metrics for epics and issues, and tracks metrics post-launch to guide investment in iterative improvements. Spends up to 20% of time researching & defining category vision & strategy. Evaluates potential and fit of products for acquisition.|Skilled at qualitative customer interviewing. Excellent at deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Skilled at story mapping. Excellent at collaborating with Design on prototypes to bring potential solutions to life. Able to ensure activities are consistent with GitLab's go-to-market and business model. Drives evaluation of build, buy and partner options for solving customer problems. Can identify new market opportunities & author business cases, as well as forecast the approximate benefits of new features, projected against competition in the space. Spends up to 30% of time researching & defining category vision & strategy|Expert at qualitative customer interviewing. Skilled at story mapping.  Capable of teaching product validation techniques to others. Expert at business case creation. Capable of managing business results across a range of product domains.| Mentors, leads by example, and coaches in qualitative customer interviewing practices. Highly Proficient at story mapping.  Mentors, leads by example, and coaches others in product validation techniques. Expert at business case creation delivering cross-section, intra-section, and company-wide investment cases for consideration by Product Leadership. Proven execution of business results across multiple product domains.| 
+|**Thought Leadership**: This competency is about the recognition of having technical ownership and being a resource or authority in the domain that the teammate is an expert in. This measure will vary across the Product organization and will be evaluated as an illustration of the Product teammate's capacity to deliver on the domain expertise or represent GitLab to the community.| Participation in Webinars, Prospect calls, #thanks shoutouts by others, engagement in social with community, Analyst recognition and engagement, Creation of artifacts for community and users, Conference participation, and OSS collaboration | Capable written and verbal communicator internally and externally. Trusted resource for customer calls and meetings. Builds rapport with stakeholders to align around priorities. Drives clarity in area. Takes action to improve behavior based on impact to others. High-level understanding of Gitlab product and the relevant product domain(s). High-level understanding of GitLab's architecture and tech stack | Capable of representing GitLab externally at trade shows, customer events, conferences, etc. Appropriately influences & persuade others to a course of action. Solid presentation skills at all levels of the company. Deep familiarity with GitLab's product and the relevant product domain(s). Deep understanding of GitLab's architecture and tech stack. | Recognized as a thought leader internally and externally. Escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Excellent presentation skills at all levels of the company. Expert in the relevant product domain(s) and capable of teaching others about the domain. Capable of coaching others on the GitLab product, architecture, and tech stack.| Celebrated as a thought leader internally and externally. Actions on escalations and transparently triages issues to appropriate levels of authority when decisions or progress are blocked.  Mentors, leads by example, and coaches others on presentation skills at all levels of the company. Actively teaches others about the owned domain. Actively mentors and coaches others on the GitLab product, architecture, and tech stack.|
+|**Aligning Teams Using Values**: This competency is about how the teammate facilitates team execution and performance using GitLab values.| Say/Do, MR Rate, Validation Track Cycle Time and Build Track Cycle Time, OKR Attainment (70-85% is success, 100% means place for improvement), 360 feedback from counterparts, Values demonstration per our Company Competencies | Responsible for the health of working relationships with peers in the stage. Familiar and comfortable with using iteration methologies and collaborating across the product group. | Skilled at applying agile development methodologies. Able to elevate performance of the Group through excellent PM outputs. Skilled at applying iteration methodologies and managing with influence while collaborating across the product stage. | Expert at applying agile development methodologies. Able to elevate performance of the peers in the stage. Expert at applying iteration methodologies and managing with influence while collaboration across the product section. | All Principal Behaviors, while proactively building strong cross-section relationships. Able to elevate performance of the peers across the company. Mentors and coaches others on our values including applying iteration methodologies and managing with influence while collaborating across GitLab. |
 
-##### CDF Topics For Product Managers
-Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role). Note - some of these skills are regularly practiced and demonstrated, while others are demonstrated on an as-needed basis ([video explanation](https://www.youtube.com/watch?v=RjWjl4qiCrg)). Despite this fact, PMs should strive to grow across all of these skills.
+### CDF for Individual Contributor Pricing Managers 
+Below, you'll find the CDF framework and potential discussion topics for [Pricing Product Managers](/job-families/product/pricing/).
 
-**Validation Track Skills**
-* Partnership with design (C, R)
-* Opportunity Canvas (R, T)
-* Sensing mechanisms (R)
-* Self learning (R)
-* Persona understanding (R)
-* Using feedback from PI (R, I)
-* Discovery iteration (I)
+| Competency |Outcomes| [Pricing Analyst](https://about.gitlab.com/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](https://about.gitlab.com/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](https://about.gitlab.com/job-families/product/pricing/#principal-pricing-manager) |
+| -------- |-- | -- | ------ | ------------ |
+| **Product Roadmap & Product-Led Growth**: This competency is about setting and attaining the product direction as defined by the teammate. The teammate is being evaluated on the ability to plan ambitiously, while effectively practicing iteration, and delivering on the needs of the market. Connecting strategic data-informed skills with influencing communication skills internally. Product is often a cross-functional domain and requires leadership to work across engineering, field, and sales, as well as marketing, to effectively engage the community to grow as well as retain users. | Pricing, packaging and data analytics strategies aligned with product and business objectives (e.g. user adoption, cost savings, revenue monetization, etc.) and Pricing and packaging aligned to product value drivers (clear articulation of customer’s perceived value and how monetization is aligned with perceived value). | Adept at establishing processes and analytical methods to measure success metrics for pricing initiatives. Adept at communicating data insights. Skilled at creating dashboards to inform team members on success metrics. Partners with Product and Pricing Managers to understand project goals and develop a data strategy to support overall initiative. Light-weight project management of data analytic initiatives. Adept at identifying root drivers of problem statements. Skilled in analyzing data to validate connection between root drivers to problem statements. Adept in sourcing data used to validate problem statements. Skilled in using data to clarify problem statements. Adept in using data to refine solution options. | Excellent at establishing processes and analytical methods to measure success metrics for pricing initiatives. Excellent at communicating data insights. Skilled at determining the right dashboards to create that allows team members to review performance of initiatives against success metrics. Partners with Product and Pricing Managers to understand project goals and develop a data strategy to support overall initiative. Advanced project management of data analytic initiatives.  Skilled at identifying root drivers of problem statements and analyzing data to validate connection between root drivers to problem statements. Skilled in sourcing and analyzing data to derive key insights to support/drive pricing initiatives. Skilled in using data to clarify problem statements and refine solution options.  | Expert at setting success metrics for pricing initiatives and communicating business value of pricing projects. Expert at aligning GitLab's Go-to-market activities and business model with pricing. Expert at identifying monetization drivers and incorporating findings into pricing recommendations. Partners with Product Managers and Sales to understand product vision and sales challenges to build pricing and packaging intiatives.  Leads pricing and packaging intiatives. Expert at identifying root drivers of problem statement, forming solution hypotheses, and identifying research needed to validate potential solutions. Skilled at qualitative customer and sales interviewing. Skilled at creating surveys for quantitative analysis.  Expert at aggregating data and insights to form a cohesive pricing and packaging recommendation. Capable of teaching pricing validation techniques to others.|
+|**Sensing Mechanisms**: This competency is about being able to balance and understand the various inputs of the user, customer, market, and landscape for GitLab. This will include the various levers the teammate will use to inform the product direction and use to shape the execution plans. Each function will have different mixes of sensing mechanisms required for that function, although, in order to effectively satisfy the requirements of the Product Competency all sensing mechanisms should be addressed at some level in the development framework for the teammate's development.| Uses appropriate methods of customer interviewing, competitive landscape, customer/sales data and market research as basis for Product Direction. | Basic understanding of pricing research methodologies. Adept in analyzing data gathered from different pricing surveys to drive insights. Adept at identifying, collecting, and analyzing customer, product usage and sales data to form insights used to drive pricing decisions. | Basic understanding of pricing research methodologies and skilled in analyzing data gathered from different pricing surveys to drive insights. Skilled at identifying, collecting and analyzing customer, product usage and sales data to form insights used to drive pricing decisions. Skilled at consolidating data and insights to form a comprehensive story. | Expert at incorporating customer options (build, buy and partner) into pricing and packaging recommendations. Be able to clearly articulate the customer’s next best alternatives and how it impacts PnP recommendations. Excellent in the understanding of pricing research methodologies and being able to identify appropriate method(s) to be used for a given situation: basic survey questions on interests/needs, Van Westdorp, Gabor-Granger, Max-Diff, Conjoint, etc.|
+|**Thought Leadership**: This competency is about the recognition of having technical ownership and being a resource or authority in the domain that the teammate is an expert in. This measure will vary across the Product organization and will be evaluated as an illustration of the Product teammate's capacity to deliver on the domain expertise or represent GitLab to the community.| Participation in Webinars, Prospect calls, #thanks shoutouts by others, engagement in social with community. | Adept at identifying data needs in order to support/drive pricing initiatives. Adept at driving improvements to data collection and analysis methods when data gaps are identified. Adept at driving data infrastructure improvements when required. Trusted resource for internal teams to provide pricing insights based on data. | Skilled at identifying data needs in order to support/drive pricing initiatives. Skilled at identifying data gaps and developing the data infrastructure to provide the required insights. Trusted resource for internal teams to provide pricing insights based on data. | Recognized as a thought leader internally and externally. Escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Excellent presentation skills at all levels of the company. Expert in the relevant product domain(s). Capable of coaching others on the pricing frameworks, discount methodologies, and sales operations based on in-depth knowledge of the relevant product domain’s value proposition. |
+|**Aligning Teams Using Values**: This competency is about the teammate facilitates the team execution and performance using GitLab values.| Say/Do, MR Rate, Validation Track Cycle Time and Build Track Cycle Time, OKR Attainment (70-85% is success, 100% means place for improvement), 360 feedback from counterparts, Values demonstration per our Company Competencies | Responsible for the health of working relationships with peers in the stage. Familiar and comfortable with using iteration methologies and collaborating across the product group. | Skilled at applying agile development methodologies. Able to elevate performance of the Group through excellent PM outputs. Skilled at applying iteration methodologies and managing with influence while collaborating across the product stage. | Expert at applying agile development methodologies. Able to elevate performance of the peers in the stage. Expert at applying iteration methodologies and managing with influence while collaboration across the product section. |
 
-**Build Track Skills**
+## Competencies
 
-* Issue crispness (I, D)
-* Development metrics (MR rate) (I, C)
-* Iteration (I)
-* Developer stakeholder rapport (C)
-* Start with proposals (I)
-* Product group cohesion (C), (D)
-* Roadmap (T)
-* Global optimization (E)
+Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are lower in the list and not linked to supporting materials.   We'll add more details and supporting content for each one of these as they are confirmed.
 
-**Business Skills**
+### Product Roadmap & Product Led Growth 
 
-* Performance indicators (R)
-* Competitive analysis (R)
-* Tiered strategy (R)
-* Adoption funnel (R)
-* Direction updates (T)
-* Buyer understanding (R)
-* Partnership with GTM including use case creation (C), (D)
-* Business case creation (for investment case or acquisition) (R) , (C)
+- [Iteration](/handbook/product/product-manager-role/learning-and-development/#-iteration)
+- [Jobs to Be Done]( /handbook/product/product-manager-role/learning-and-development/#-jobs-to-be-done)
+- [Lean Product Development](/handbook/product/product-manager-role/learning-and-development/#-lean-product-development)
+- [User Stories](/handbook/product/product-manager-role/learning-and-development/#-user-stories)
+- [Backlog Management](/handbook/product/product-manager-role/learning-and-development/#-backlog-management)
+- [KPIs and Metrics](/handbook/product/product-manager-role/learning-and-development/#-kpis-and-metrics)
+- [Product Strategy](/handbook/product/product-manager-role/learning-and-development/#-product-strategy)
+- [Growth, Product-led Growth, and Experimentation](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
-**Communication Skills**
+### Sensing Mechanisms 
 
-* Async communication with a bias towards action (D)
-* Verbal presentation (C)
-* Representing GitLab product-wide roadmap (T)
-* Non-R&D stakeholder rapport (D)
-* Ability to influence (C, E)
+- [User Research](/handbook/product/product-manager-role/learning-and-development/#-user-research)
+- [Customer Interviewing](/handbook/product/product-manager-role/learning-and-development/#-customer-interviewing)
+- [Design](/handbook/product/product-manager-role/learning-and-development/#-design)
+- [Competitive Analysis](/handbook/product/product-manager-role/learning-and-development/#-competitive-analysis)
+- [Relationships with Customers](/handbook/product/product-manager-role/learning-and-development/#-relationships-with-customers)
 
-**People Management Skills**
+### Thought Leadership 
 
-* Mentoring product management interns (D), (C)
+- [Product management thought leadership](/handbook/product/product-manager-role/learning-and-development/#product-management-thought-leadership)
+
+### Aligning Teams with Values 
+
+- [Leadership and influence](/handbook/product/product-manager-role/learning-and-development/#-leadership-and-influence)
+- [Communicating to inspire, align, and activate](/handbook/product/product-manager-role/learning-and-development/#-communicating-to-inspire-align-and-activate)
+- [Cross-functional team management](/handbook/product/product-manager-role/learning-and-development/#-cross-functional-team-management)
+
+#### Contributing to our PM Competencies
+
+Every GitLab team member is encouraged to contribute to the list of prioritized Product Manager competencies, as well as the content for each competency via merge requests to this page.
+
+To contribute, open an issue in the Product project using the [Product Competencies](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Competencies.md) template. The steps in the issue will guide you through getting a future competency merged into this page.
+
+## Pilot Program for New CDF 
+
+### Part I: Field Test the CDF - Completed
+
+From FY22-Q3 to FY22-Q4, select Product teammates and managers engaged in a pilot of this CDF. 
+
+The process followed was: 
+
+1. Using the new CDF [template](https://docs.google.com/spreadsheets/d/1V1dgARiOw38xtfG0Mdn1Sn34y94RfNzOUH2IBp0pDAs/edit#gid=1091464991) alongside their existing CDF document 
+1. Managers will only provide feedback using the new CDF template 
+1. Complete 2 CDF evaluations using the two CDF formats (add Jackie to the invite an optional attendee to send an survey link)
+1. Complete a survey after each CDF review 
+1. Close pilot 
+1. Read out results of pilot and iterate on CDF 
+
+### Part II: Apply changes and iterate - Completed 
+
+1. Conduct training on setting and measuring outcomes with pilot members 
+1. Distribute new CDF and template 
+1. Solicit feedback and interest in second CDF pilot 
+1. Close feedback and pilot 
+1. Read out results 
+  1. Feedback: We completed the pilot and recieved feedback that the KPIs were too prescriptive and duplicative. We also learned that people want to be able to use Google Docs instead of Google Sheets. 
+  1. Actions taken: We have reduced the tracks from 5 to 4 and de-duplicated KPIs. We changed the CDF focus to be on "Outcomes" versus "KPIs". We have created a new template that will be rolled out in FY23-Q3, which is a [Google Doc](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing).
+1. Define roll out steps via [product#4266](https://gitlab.com/gitlab-com/Product/-/issues/4266). 
+
+### Part III: Rollout for Opt-In
+
+1. Check out the Template Overview 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/_6wBCyaP2d8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+1. Schedule AMAs for [new template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing) using [CDF Deck ](https://docs.google.com/presentation/d/1AFK9Zlu69KVdzDeiNeYyWO1ofMDxZfgxoPoUGoV9HCA/edit?usp=sharing)
+1. Distribute new CDF and template for Opt-in in FY23-Q3 
+1. Solicit feedback throughout FY23-Q3 in [feedback issue](https://gitlab.com/gitlab-com/Product/-/issues/4572)
+1. Close feedback 
+1. Incorporate any changes to template, wording in handbook, and prepare for formal roll out
+
+### Part IV: Rollout for full adoption
+
+1. Remove [Current CDF Handbook Page](/handbook/product/product-manager-role/product-CDF-competencies/) on 2022-10-24
+1. Update New CDF Page to be "Product CDF" on 2022-10-24
+1. Annouce in #product a link to the new CDF page and updated template for use in FY23-Q4 
+1. Schedule AMAs  
+1. Remove `## Pilot Program for New CDF` from New CDF Page on 2023-01-05 
 
 ### CDF for Product Leadership
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
@@ -194,7 +237,7 @@ It can be challenging objectively evaluating product managers for categorization
 | Self-awareness | A large part of leadership is knowing where you are not strong and building relationships to fill in the gaps. |
 
 ##### Make evaluating potential actionable
-Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a [CDF Review](#cdf-review) to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
+Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a CDF Review to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
 
 ### Supporting a Product Manager's Career
 
@@ -368,7 +411,7 @@ To support product leaders at being effective at career coaching and mentorship,
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
 | --- | --- | --- |
 | **IC PMs** | Sets the goals and priorities for their group. Exemplifies the [leadership qualities](/handbook/leadership/#gitlab-team-members) in their group. Skilled at [making decisions](/handbook/leadership/#making-decisions) to help unblock and enable groups to move forward confidently. Helps curate a team dynamic that has [direct communication](/handbook/leadership/#communication-should-be-direct-not-hierarchical) and is [open to feedback](/handbook/leadership/#giving-feedback). Exhibits the skills, behaviors to build [high performing teams](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab). | TBD |
-| **Manager of IC PMs** | [Hires and retains](/handbook/leadership/#talent-acquisition-and-retention) talented product managers. Enables Product Managers to be a [manager of one](/handbook/leadership/#managers-of-one). Helps direct reports thrive and improve via [CDF Reviews](#cdf-review). Coaches direct reports to stretch their skillset and sharpen existing skills. Are available to provide strategic or tactical input. Recognizes when [process](/handbook/leadership/#process-gets-a-bad-rep) can improve efficiency, is important for [global optimization](/handbook/values/#global-optimization), or is detrimental to autonomy and team performance and actively acts to address. Enables direct reports to [take time off](/handbook/product/product-manager-role/#taking-time-off) yet maintain group's forward momentum. | TBD |
+| **Manager of IC PMs** | [Hires and retains](/handbook/leadership/#talent-acquisition-and-retention) talented product managers. Enables Product Managers to be a [manager of one](/handbook/leadership/#managers-of-one). Helps direct reports thrive and improve via CDF Reviews. Coaches direct reports to stretch their skillset and sharpen existing skills. Are available to provide strategic or tactical input. Recognizes when [process](/handbook/leadership/#process-gets-a-bad-rep) can improve efficiency, is important for [global optimization](/handbook/values/#global-optimization), or is detrimental to autonomy and team performance and actively acts to address. Enables direct reports to [take time off](/handbook/product/product-manager-role/#taking-time-off) yet maintain group's forward momentum. | TBD |
 | **Manager of PM Managers** |TBD||
 
 ### Contributing to our PM Competencies
