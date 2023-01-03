@@ -113,7 +113,7 @@ Once the deck is completed, PHD will attach a PDF file to the partner account an
 ### Partner Insight Details
 - Currently, only Select Partners are eligible for Partner Insights.
 - Each partner will only get one Partner Insight per quarter. A second request within the same quarter will be denied. 
-- Bulk requests for Partner Insights must be requested by posting in the #channel-programs-ops Slack channel. A minimum of two weeks notice is requested for bulk requests. 
+- Bulk requests (more than 5 partners) for Partner Insights must be requested by posting in the #channel-programs-ops Slack channel. A minimum of two weeks notice is requested for bulk requests. 
 - Channel Managers are free to request a walk-through with PHD to go over the Partner Insight deck, if they would like. 
 - Customization of a Partner Insight is not currently available. Only the out-of-the-box slide deck is available. 
 - Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
