@@ -54,3 +54,42 @@ In the last steps of the training, you will:
 - Be shadowed by your coach in two separate interviews. They will act as your coach and provide feedback on your interviewing skills. 
 
 You may request additional shadow opportunities, if you'd like additional practice and support.
+
+### Scorecard completion tips
+Everyone who interviews a candidate must complete a scorecard and is required to input pros and cons as well as an overall recommendation.
+
+#### Interview scorecards
+- {Talent Acquisition Process: Hiring team to complete feedback in Greenhouse}(https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
+
+##### Tips for completing interview scorecards
+
+- Enter your notes into each of the text areas provided in the candidate's Greenhouse Scorecard.
+- Clean up any typos, misspellings, or incomplete statements as desired to aid the hiring manager's review process.
+- Review the notes of the candidate's answers against the appropriate {Rubric document}(#interview-rubrics) and consider how their answers compared to it.
+- Add your assessment of the candidate in the Pros/Cons sections of the Greenhouse Scorecard.
+- Complete your assessment of the candidate's Attributes, only providing an assessment of the attributes that were discussed, and were available on their resume/CV, or portfolio. If an assessment didn't come, leave it unanswered.
+
+#### Reference scorecards
+- {Talent Acquisition Process: Complete references}(https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
+
+#### Justification scorecards
+
+##### Tips for completing justification scorecards
+
+This Justification should provide a summary of all the submitted Scorecards while incorporating any additional commentary around how the hiring manager plans on helping the candidate be successful.
+
+1. In what specific way(s) does this candidate make the team better?
+    1. Consider how the candidate meets each of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue. 
+    2. List and explain any other strengths and/or unique skills the candidate brings to the role and team.
+2. What flags were raised during the interview process?
+    1. Consider how the candidate doesn't meet some of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue and explain your reasoning for moving forward, and how you will address them.
+    1. Consider any concerns raised during the interviews and explain your reasoning for moving forward, and how you will address them.
+3. How do we intend on setting this candidate up for success?
+    1. Consider the candidate's soft skills and values, how will you help them progress and succeed at GitLab?
+    2. Consider the above "raised flags" and explain how you're going to help set the candidate up for success, helping them to overcome these or any weaknesses they may have.
+4. Is the offer in-plan, and why? E.g. it is a critical budgeted hire, backfill, or transfer.
+    1. Provide the correct answer. If you're unsure, work with your manager to determine the correct answer.
+5. Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role?
+    1. Review the Nice-to-have attributes across the scorecards and provide the answer.
+6. Attributes
+    1. Answer these based on a sum of all the scorecards submitted. For example, if they got 4 `stars` and one `thumbs-up` on the Collaboration value from the scorecards, pick the `star` to summarize that feedback. You do not need to leave notes.
