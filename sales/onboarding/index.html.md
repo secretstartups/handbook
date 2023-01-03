@@ -32,8 +32,8 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| January, 2022  | AMER / EMEA | Virtual | [SQS 31 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1738) | 
-| February, 2022  | AMER / EMEA | Virtual | [SQS 32 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1889) | 
+| January 17th - 27th, 2023  | AMER / EMEA | Virtual | [SQS 31 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1738) | 
+| March, 2023  | AMER / EMEA | Virtual | [SQS 32 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1889) | 
 
 
 ## Past Sales Quick Start (SQS) Workshops
@@ -57,10 +57,6 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 | Jul 6 - Jul 16, 2021 | AMER / EMEA | Virtual | [SQS 16 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/827) | 
 
 
-
-## Swag for New Sales Team Members
-
-As a part of Sales Onboarding, each new Americas Sales team member is allowed to order one Swag Marketing Kit through this [form](https://docs.google.com/forms/d/e/1FAIpQLSflKtSu5xyYERATBHGswwMjn4NsUc8DMTxfKQXDAZ0FqdEYCg/viewform). As of right now, there is no Swag Marketing Kit available for our other regions, but the Marketing team is working towards developing one. 
 
 ## Role-Based Onboarding 
 
