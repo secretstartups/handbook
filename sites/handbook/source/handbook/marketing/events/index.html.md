@@ -546,7 +546,9 @@ The sales nominated process allows for records to be added to the campaign in or
 
 ##### Booth presentation material 
 * [Standard pitch deck](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7)
-* [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa) 
+* [Generic Marketing Reel](https://docs.google.com/presentation/d/1mpKjngTzYvvoAeV-uk3NSt9EuAdEgytabXRIiq_a56U/edit?usp=sharing)
+* [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa)
+* [Visual of DevOps stages](https://docs.google.com/presentation/d/1PoJaXkhzSKbhPOc6Hc1uccYP9hLczHTxp6elyqMtp64/edit#slide=id.g149430ecd5f_0_3998) - please confirm in the #product-marketing slack room if this is up to date before using 
 
 ##### Quick Booth quality check
 
