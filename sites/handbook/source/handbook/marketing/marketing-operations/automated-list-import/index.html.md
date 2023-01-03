@@ -332,7 +332,7 @@ The following data cleanup is required for any list prior to sending it to the M
 | Benin                                        | Colorado                             |                         |
 | Bermuda                                      | Connecticut                          |                         |
 | Bhutan                                       | Washington DC                        |                         |
-| Bolivia, Plurinational State of              | Delaware                             |                         |
+| Bolivia              | Delaware                             |                         |
 | Bonaire, Sint Eustatius and Saba             | Florida                              |                         |
 | Bosnia and Herzegovina                       | Federated Micronesia                 |                         |
 | Botswana                                     | Georgia                              |                         |

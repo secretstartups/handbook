@@ -394,11 +394,12 @@ If a field needs to be created in Marketo AND SFDC, you must create in SFDC firs
 
 ### <i class="fas fa-receipt" id="biz-tech-icons"></i> Invoice Approval
 
-Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
+Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
+For more information about lead lifecycle, visit [this handbook page](/handbook/marketing/marketing-operations/lead-lifecycle/)
 
-A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. You can find more details about the scoring model on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#scoring-model)
+A Marketing Qualified Lead (MQL) is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. You can find more details about the scoring model on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#scoring-model)
 
 ## Campaigns and Programs
 
