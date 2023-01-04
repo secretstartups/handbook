@@ -35,26 +35,18 @@ We at GitLab face increasing people complexities as the number of employment law
 
 Understanding GitLab's strategic priorities lays the foundation for a better understanding of how compliance concerns may impact decisions. People Group goals should be designed to support company strategy, yet they must also consider different scenarios and the people compliance implications. People compliance practices will refine and influence activities such as hiring, employee development, and retention. 
 
-## People Compliance FY22 Goals
-
-* Complete United States-related People Compliance Assessment by external vendor
-* Partial Global People Compliance Assessment by external vendor (starting with 5 entities)
-* Non-discriminatory Hiring assessment & Affirmative Action Program (see our [People Compliance Reporting](/handbook/people-group/people-compliance/people-compliance-reporting/) page)
-* Recommendations, procedures, and audits put in place from above assessments
-
 ## People Compliance Core Competencies & Responsibilities
 
 All Responsibilities are listed in the [People Compliance job family page](https://about.gitlab.com/job-families/people-group/people-compliance/), and they can be summarized as follows:
 
 1. To identify needs and propose strategies to collaborate and support the enablement of compliant protocols.
-1. Implement compliance initiatives and templates that can be utilised for initiatives including: document retention policy for team member information, data protection and annual training on these. 
+1. Implement compliance initiatives and templates that can be utilised for initiatives. 
 1. Support team members, managers and teams to ensure they are aligned with our policies.
-1. Iterate to simplify and ensure processes are efficient and automated as much as possible.  
-1. Ensure that all People Group and GitLab team member's personal information is secure and can pass key audits. 
+1. Iterate to simplify and ensure People Compliance processes are efficient and automated as much as possible.  
 
 ## How we work
 
-Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/issues/new?issue) and we will review and prioritize.
+Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the internal board capturing non-confidential People Compliance issues. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/issues/new?issue) and we will review and prioritize.
 
 ### Labels
 
@@ -86,12 +78,6 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 This PI encompasses the 100% completion of all mandated, annual HR reports to all relevant Offices and Departments, most commonly being related to United States HR-related reports.
 
 * [People Compliance Reporting](/handbook/people-group/people-compliance/people-compliance-reporting/)
-
-#### [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
-
-This PI encompasses the 100% accuracy of personal information held in our HRIS for all team members under a GitLab entity or PEO. This PI also has as a goal to have documented and communicated policies for personal information data retention within our HRIS, their 100% implementation and 100% compliance.
-
-* [HRIS Compliance](/handbook/people-group/people-compliance/hris-compliance/)
 
 <details markdown="1">
 
