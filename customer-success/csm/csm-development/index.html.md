@@ -42,7 +42,7 @@ As a Customer Success Manager, it is essential to understand what resources are 
 
 Recommended courses:
 
-- [The Six Morning Habits of High Performers](https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers/six-practices-to-get-back-on-track)
+- [The Six Morning Habits of High Performers](https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers/six-practices-to-get-back-on-track-16454204?u=2255073)
 - [Unconscious Bias](https://www.linkedin.com/learning/unconscious-bias/)
 - [Devops Foundations](https://www.linkedin.com/learning/devops-foundations/)
 - [How to Make Strategic Thinking a Habit](https://www.linkedin.com/learning/how-to-make-strategic-thinking-a-habit/why-make-strategic-thinking-a-habit?u=2255073)
@@ -80,6 +80,26 @@ Access codes and recording links can be found in this [internal doc](https://doc
 - [Institute of Public Speaking Virtual One-Day Class](https://www.instituteofpublicspeaking.com/event-registration/)
 - [Dynamic Public Speaking by University of Washington](https://www.coursera.org/specializations/public-speaking)
 - [Storytelling and influencing: Communicate with impact](https://www.coursera.org/learn/communicate-with-impact)
+
+#### Executive Communication
+As CSMs have positioned themselves to be more strategic and reach Director, VP, and CISO personas, we have to adjust our communication styles and consider how to cater them for executives. These resources will aid CSMs with executive presence and communication. 
+
+[Issue](https://gitlab.com/gitlab-com/customer-success/csm/-/issues/712)
+
+* Masterclass - [The Art of Persuasion: Daniel Pink teaches sales](https://www.google.com/aclk?sa=l&ai=DChcSEwiy-uC73ID7AhXrFdQBHUy_CnoYABAAGgJvYQ&sig=AOD64_0qcqVfaFgCQyMi-xSOIiJbxW61yw&q&adurl&ved=2ahUKEwi179W73ID7AhXmgmoFHcUgCgIQ0Qx6BAgHEAE) and [Chris Voss - Win Workplace Negotiations](https://www.masterclass.com/sessions/classes/win-workplace-negotiations?campaignid=15627870842&adgroupid=139859366148&adid=570516991108&utm_term=chris%20voss%20masterclass&utm_campaign=%5BCV2%5C+%7C+Search+%7C+Brand+%7C+Instructor_PM+%7C+USA+%7C+EN+%7C+MAX+%7C+EG%7CPP+%7C+INSS+-+CV2+%7C+US&utm_source=google&utm_medium=cpc&utm_content=570516991108&hsa_acc=9801000675&hsa_cam=15627870842&hsa_grp=139859366148&hsa_ad=570516991108&hsa_src=g&hsa_tgt=kwd-1465336023099&hsa_kw=chris%20voss%20masterclass&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAwc-dBhA7EiwAxPRylAtqiaBRdja8jxGJrQAU4D-yX2tiOmM4OMaklUMR6GyFcDw6cVfz6hoCF4kQAvD_BwE)
+* Twitter thread - [How Mckinsey presents to executives](https://twitter.com/supermode_/status/1584210331487739904)
+* Google Doc (Actively being updated) - Lee Faus, Brian Wald, and Francis Ofungwu share themes (four pillars) they are hearing from executives around GitLab's platform - https://docs.google.com/document/d/1lkk_25XwOOw9eN-NqxuupZsDWRdWPbmFYD8RP8cWXz8/edit
+* Sandler Articles
+     - [How to Use DISC Assessments to Appropriately Customize Workplace Communication](https://www.sandler.com/blog/how-use-disc-assessments-appropriately-customize-workplace-communication/)
+     - [Up Front Contracts](https://www.dwood.sandler.com/blog/Up-Front-Contracts)
+* Pyramid Principle for Slide Presentation
+     - https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/
+* [Tim Ferris - how I prepare for keynotes](https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/)
+* Dan Pink [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) and [To Sell is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905)
+* ["What Got You Here Won't Get You There"](https://www.amazon.com/What-Got-Here-Wont-There/dp/B000MGBNGW/ref=sr_1_1?keywords=what+got+you+here+won%27t+get+you+there&qid=1672771567&s=books&sprefix=what+go+you+here+%2Cstripbooks%2C148&sr=1-1)
+* ["Hard Things About Hard Things"](https://www.amazon.com/Hard-Thing-About-Hard-Things-audiobook/dp/B00I0A6HUO/ref=sr_1_1?keywords=hard+things+about+hard+things&qid=1672771605&s=audible&sprefix=hard+thin%2Caudible%2C138&sr=1-1) entertaining story about grit, constantly reassessing your skills against your current job (that changes)
+* [SCIPAB messaging by Mandell](https://www.mandel.com/scipab-messaging-tool) 
+
 
 ### Technical
 
