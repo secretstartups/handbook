@@ -143,6 +143,26 @@ With the continuous iteration and releases of GitLab, it's important to stay up 
 - Each presentation has ~5 minutes to present and ~5 minutes for feedback/discussion.
 - Recordings are published to the [Solutions Architecture playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY) on GitLab Unfiltered.
 
+## Commercial SA Win/Lost Retro
+
+Quarterly review of wins and losses to identify patterns and things we can do to keep winning, prevent losses, and improve GitLab as a product. Encourage everyone to try to add at least one thing. 
+
+### Structure
+
+- Win/Lost Retros are hosted the first week of each quarter
+- This is a 50 minute meeting with the entire Commercial SA team
+- Outcomes are documented and are stored in [Commercial SA / Reviews & Retros](https://drive.google.com/drive/folders/1Ye6Ks5aHMhVFEsDXbqvglzJMI4Kb_S5s)
+
+### Process
+
+- Make a copy of [\[Template\] FYxx'Qx Commercial SA Win/Loss Retro](https://docs.google.com/document/d/13hcCRxbuNQhllce2nmoYfbBxiv5X4pzMp3ebmW_jod4/edit#heading=h.h61ejaw1pq0t)
+- During the session: 
+  - 00:00 - 00:05 - Add the items to the table of the document
+  - 00:05 - 00:20 - Review Wins
+  - 00:20 - 00:35 - Review Losses
+  - 00:35 - 00:50 - Review Action Items
+
+
 ## Commercial SA Peer Review
 
 An SA peer review is the exchange about an ingoing opportunities between the primary SA and one another SA within the same team. The goal is to bring better collaboration with the SA team by sharing advice, best practices and ideas for closing opportunities better and faster. Safe space to review opportunities in progress, learn from others, and share best practices based on questions and suggestions. 
@@ -152,11 +172,12 @@ An SA peer review is the exchange about an ingoing opportunities between the pri
 - Peer Reviews are hosted every two weeks
 - This is a 25 minute meeting with two presentators
 - Two opportunities to review / 10 minutes each
+- Outcomes are documented and are stored in [Commercial SA / Reviews & Retros](https://drive.google.com/drive/folders/1Ye6Ks5aHMhVFEsDXbqvglzJMI4Kb_S5s)
 
 ### Process
 
 - Presenting SA
-  - Fill out meeting template beforehand:  [Commercial SA Peer Reviews (internal)](https://docs.google.com/document/d/1CyHIuCg57bLkfYa9DtXD0D_dWqyEJh-Cv5qxM_9aMvE/edit#)
+  - Fill out the [Commercial SA Peer Reviews](https://docs.google.com/document/d/1CyHIuCg57bLkfYa9DtXD0D_dWqyEJh-Cv5qxM_9aMvE/edit#) document beforehand
 - Attending SAs
   - Review meeting notes / template beforehand
   - Ask questions & provide suggestions while working through
