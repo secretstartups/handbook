@@ -24,15 +24,17 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### B. Create a merge request
 1. To the right of the **Create merge request** button, select the **dropdown arrow** . This is where you can customize the merge request. For this exercise, use the default settings.
 1. Select **Create merge request and branch** to create a branch named after the issue, and also to create a merge request for that branch. You now have 3 linked items that relate to one task that you need to do: an issue, a branch, and a merge request.
+1. On the **New merge request** page use the default settings and select **Create merge request**.
 
 ### D. Edit files on a branch using GitLab’s Web IDE
-1. In the middle of the merge request page, select **Open in Web IDE**.
+1. In the top right if the merge request page, select the arrow to the right of **Code** and select **Open in Web IDE**.
 1. Confirm that you are on the branch you just created by looking for the branch name in a dropdown in the top left corner of the page.
 1. In the left-hand file list, select `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
 1. **Create commit...**
 1. For **Commit Message**, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
 1. **Commit**.
+
 
 ### E. Verify changes in a merge request
 1. Navigate to the merge request for the branch you just committed to.
