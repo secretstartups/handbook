@@ -14,7 +14,7 @@ description: "Papaya Global"
 
 ## UAE
 
-The following benefits are provided by [Papaya Global](https://www.papayaglobal.com/) and apply to team members who are contracted through Papaya Global. If there are any questions, these should be directed to
+The following benefits are provided by [Papaya Global](https://www.papayaglobal.com/) and apply to team members who are contracted through Papaya Global. If there are any questions, these should be directed to Katie Taylor: KatieTa@papayaglobal.com
 
 You can find a more detailed breakdown of the benefits below [here](https://docs.google.com/spreadsheets/d/1eXT_0-mP2bNQtTO6opLjYSjdbH_Yuj8JIqMPM7DT80g/edit#gid=0), but please note some of the allowances are dependant on circumstance so figures may vary. 
 
