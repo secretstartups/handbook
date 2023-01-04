@@ -53,7 +53,8 @@ We have moved our email calendar to Asana! We will have email stakeholder syncs 
 * Streamline communication and processes around emails
 
 **Process to add emails to the calendar:**
-[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates) in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
+
+[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates), in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing projects, will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
 
 Steps to add to the Asana calendar:
 * Ensure the label for "email-calendar" is added to your issue.
@@ -262,12 +263,16 @@ Instead, we should take the following steps:
 1. Build a second email and create a description of what was changed in the name i.e "Subject line test version" (or even saying the test)
 2. Add it as a random sample in the send controller as shown in the flow below (use 50% for 2 versions, or split between 100% for more versions):
 
-![Screen_Shot_2022-09-16_at_3.46.35_PM](/uploads/533b314c7f58cb045e069cbf17c7d320/Screen_Shot_2022-09-16_at_3.46.35_PM.png)
 
+    ![email-ab-test](/handbook/marketing/lifecycle-marketing/emails-nurture/image-4.png){: .medium.center}
+    
 3. Monitor results on an email report
 4. Document results on [A/B testing tracker](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit#gid=2079991889)
 
-#### Intelligent Nurture - Event promotional changes 2022-2022
+Please see the [A/B testing section](/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices-testing) below for best practices for conducting an A/B test.
+
+
+#### Intelligent Nurture - Event promotional changes 2022-2023
 {: #event-promotional-changes-2022}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -564,7 +569,7 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Please see our most up to date email best practices in our guide [here](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit?usp=sharing)
+** Please see our most up to date email best practices in our guide [here](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit?usp=sharing). ** 
 
 ### Subject line best practices (and preview text)
 {: #best-practices-subject-lines}
@@ -600,6 +605,7 @@ Please see our most up to date email best practices in our guide [here](https://
 * 1-2 CTAs per email is best practice (calls-to-action)
 * Take advantage of content hierarchy
 * Write for people not technology, this means you can use humor when it makes sense
+* Buttons should be no longer than 25 characters - 14 characters as a standard
 
 * Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
 * If linking to the GitLab marketing site, make sure that the URL has a slash at the end of the link. Marketing site pages will not render if there are URL params and there is no trailing slash.
@@ -619,7 +625,7 @@ Please see our most up to date email best practices in our guide [here](https://
 {: #best-practices-testing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Add your tests to the [A/B testing tracker here](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit?usp=drive_web&ouid=108363637241363942191)
+Add your tests to the [A/B testing tracker here](https://docs.google.com/spreadsheets/d/1-XQjw1A_m5N4NaW6Er2TUlMeWPS-vTPJ2cDE9ddFLpg/edit?usp=sharing)
 
 *  Each test group should include at least 1000 people
 *  You need a bigger test group if you're testing for click-through rate versus testing for open rate
@@ -755,7 +761,7 @@ Also, in case of not having access to Marketo to download the report you can go 
 {: #email-templates .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Please see [this epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/6164) for more details and to see how the email templates look.
+#### Please see [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/3375) for more details and to see how the email templates look.
 
 **What are email templates?** An email template is a reusable HTML file that is used to build email campaigns (according to Litmus).
 
@@ -765,20 +771,16 @@ Also, in case of not having access to Marketo to download the report you can go 
 
 | Template Name in MKTO | Use For | Image Specs | Notes |
 | ------ | ------ | ------ | ------ |
-| A - Event Invite v3.0  | Events or asset downloads | Background image - jpg 600px wide. Example here. |  Top button is not removable |
-| B - Advanced Event Template | Larger events/assets with more modules to add with speakers; Speaker images - 300px wide  | Do not use all modules at once |
-| C - Simple email template | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
+| A - Event Invite v3.0  | Events or asset downloads | Background image - Transparent background 600px wide |  Top button is removable, **The text version will need to be updated manually due to limitations with marketo variables** |
+| B - Advanced modular template - light mode | Larger events/assets with more modules to add with speakers; Transparent background 600 px wide, Speaker images - 300px wide  | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
+| C - Simple email template | Assets/webcasts/events/anything | Background image - png 600x wide. Transparent background | Only use with 1 CTA |
 | D - Letter format v1.0 | Any letter-like communication such as account update | N/A | N/A |
-
 | E - Newsletter Dark Mode | DevOps Download developer newsletter only | The only image we swap out is the background image of the release section - 600px wide. The top image (infinity loop) is 600px wide also. | For DevOps Download newsletter only|
-
 | F - Level Up Certification Invite Template | Level-up certification content | TBD | N/A |
+| G - Event Invite with 2 buttons| Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
+| H - Advanced modular template | Larger events/assets with more modules to add with speakers; Transparent background 600 px wide, Speaker images - 300px wide  | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
 
-| Old C - still in use - Event Invite 2 buttons and speakers v1.0 | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
-
-| Old E - Newsletter Remote v1.0 - still in use  | Remote newsletter only | TBD | N/A |
-
-
+**Additional links/info:**
 - A - Event Invite v2.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu)
 - B - Newsletter Dark Mode v1.0 **(Only for use by the DevOps Download newsletter)**
 - C - Event Invite 2 buttons and speakers v1.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1lZDXHh7OcyLdCz2rt7YPyfK8_bfQz757EBI-2GiIdEI/edit#)
