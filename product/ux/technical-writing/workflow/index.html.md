@@ -478,11 +478,14 @@ We often create documentation issues for a Hackathon. These issues are typically
 1. Run Vale against the full docset. Go to the GitLab repo and run:
    `find doc -name '*.md' | sort | xargs vale --minAlertLevel suggestion --output line > ../results.txt`
 
-1. Create issues either:
-   - One at a time, by using the [`Doc cleanup` issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Doc_cleanup.md).
-   - In bulk, by using the [Issues API](https://docs.gitlab.com/ee/api/issues.html#new-issue) with the labels
-   `Seeking community contributions`, `quick win`, `Technical Writing`, `docs-only`, `documentation`, `docs::improvement`,
-   `type::maintenance` and `maintenance::refactor`. Copy the description from the `Doc cleanup` issue template.
+1. Create issues. You have a few options:
+
+   - Use a [script](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/scripts/create_issues.js) to create one issue for each markdown file listed in the Vale results.
+     This script uses the [`Doc cleanup` issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Doc_cleanup.md).
+   - Create issues one at a time by using the `Doc cleanup` issue template.
+   - Create issues in bulk by using the [Issues API](https://docs.gitlab.com/ee/api/issues.html#new-issue).
+   
+Ensure that the labels assigned to the issues match those in the `Doc cleanup` issue template.
 
 ### Assign an issue to a community contributor
 
