@@ -255,7 +255,7 @@ Resolving bugs is an ongoing team effort. Every iteration should start with ever
 
 The backlog is composed of bugs in the [Geo Build board](https://gitlab.com/groups/gitlab-org/-/boards/1181257?label_name[]=geo%3A%3Aactive) with the label `~workflow::ready for development`. Higher priority bugs will also be highlighted in the iteration's [Geo Outlook Issues](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/?search=geo%20outlook&sort=created_date&state=all&first_page_size=100) created by the PM every month.
 
-The commitment is to resolve at lest 1 bug per team member per iteration. It is encouraged that team members focus on resolving their monthly bug before moving on with other tasks. They should also exercise judgement about possibly taking more than 1 bug, depending on the size of the backlog and the severity of the open bugs.
+The commitment is to resolve at least 1 bug per team member per iteration. It is encouraged that team members focus on resolving their monthly bug before moving on with other tasks. They should also exercise judgement about possibly taking more than 1 bug, depending on the size of the backlog and the severity of the open bugs.
 
 When in doubt, team members should communicate with the PM, the EM or the Bug Triage DRI in rotation to select a bug for resolution.
 
