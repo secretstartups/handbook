@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/modern-applications-gtm/
 | Target End Date | Dec 30, 2022   |
 | Slack           | [#wg_modern-applications-gtm](https://gitlab.slack.com/archives/C03KMQX21FG) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1ivUz4YZSGIp-x_eG2Mt3Hqv3vtRajzAAyDIxWhu9iWM/edit) (only accessible from within the company) |
-| Docs            | |
+| Docs            | [Modern Applications Message House](https://docs.google.com/document/d/17R_pZbVzYrv9bygL5QwGd_GC6oTKzbLfFfMBRKIVfug/edit#heading=h.5o81q1csv5xo)|
 | Related Issue   |  |
 | Associated OKRs | |
 
@@ -38,7 +38,8 @@ canonical_path: "/company/team/structure/working-groups/modern-applications-gtm/
 Generate compelling customer stories by driving value for our customer's digital transformation and modern application initiatives.
 
 ### Exit Criteria
-- TBD
+- Message House Completed and confirmed by Product Marketing
+- Pitch Deck Created
  
 
 #### Step 1:
@@ -50,10 +51,7 @@ Generate compelling customer stories by driving value for our customer's digital
 | Executive Sponsor     | Nima Baidley          | Vice President, Alliances       |
 | Facilitator           | Jonathan Fullam          | Senior Director, Solutions Architecture   |
 | Functional Lead       |Kris Nelson (Ent sales)            | Area Sales Manager |
-| Functional Lead       |TBD (Commercial sales)            | TBD |
-| Functional Lead       |Allison Gleisner (Revenue Programs)            | Director, Revenue Programs |
 | Functional Lead       |Aathira Nair (Product Marketing)            | Product Marketing Manager |
-| Functional Lead       | TBD (Customer Success)            | TBD |
 | Functional Lead       | Lee Faus (Strategic Field Team)              | Field CTO |
 | Member                |Reshmi Krishna           | Sr Manager, Solutions Architecture |
 
