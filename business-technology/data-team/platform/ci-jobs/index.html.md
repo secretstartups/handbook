@@ -192,6 +192,16 @@ Runs all the models in the MR diff whose SQL has been edited against an XL wareh
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
+#### ➕🐘🏭⛏specify_selector_build_xl
+Specify which selector to build with the variable `DBT_SELECTOR`, addtional filtering of the selction can be accompleshed by appending the `resource-type` options to the desierd selector. 
+
+For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.  
+
+Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/selectors.yml) file.  The dbt build command will run all seeds, snapshots, models, and tests that are part of the selection.  Just as in other snapshot CI jobs the `clone_raw_full` will need to have run to get a clone of the `RAW` data base so that the snapshots executed in the job do not over write the 'production' raw data.  This is useful for the following scenarios:
+
+* Testing of new selectors for Airflow DAGs
+* Testing version upgrades to the dbt environment
+
 #### DBT CI Job size
 
 If you want to run a dbt job via the `specify_*_model` or `specify_*_exclude`, you have the possibility to choose the size of the Snowflake warehouse you want to use in the CI job. Starting with XS, followed by L and last you can select XL size warehouse. This can be done to trigger different CI Jobs.
