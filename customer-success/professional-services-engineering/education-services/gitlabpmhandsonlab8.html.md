@@ -61,7 +61,7 @@ Kanban boards show you the progress of all tickets in your project, as they move
 
 None of the issues have been worked on yet, so you need apply the **Status::Backlog** label to all of them. Fortunately you can perform bulk edits on issues. 
 
-1. In the left pnae, click **Issues**.
+1. In the left pane, click **Issues**.
 1. Click **Edit issues**.
 1. Select all the issues by clicking the faint checkbox to the left of the **Recent searches** box above the list of issues.
 1. In the right pane, select **Status::Backlog** from the **Labels** dropdown.
