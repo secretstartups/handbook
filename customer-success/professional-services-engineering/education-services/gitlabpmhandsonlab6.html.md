@@ -21,8 +21,8 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. In the **Rule name** field, enter `Security operations`
 1. In the **Add approvers** field, select your **Security** group.
 1. Click **Add approval rule**.
-1. Back in the **Merge request (MR) approvals** section of the **Settings** page, under **Approval Settings**, check the box next to **Prevent users from modifying MR approval rules in merge requests.**
-1. In the same section, ensure that **Prevent MR approvals by the author** is *unchecked*. This is necessary so we can approve our own merge requests in the training environment.
+1. Back in the **Merge request (MR) approvals** section of the **Settings** page, under **Approval Settings**, check the box next to **Prevent editing approval rules in merge requests.**
+1. In the same section, ensure that **Prevent approval by the author** is *unchecked*. This is necessary so we can approve our own merge requests in the training environment.
 1. Click **Save changes**.
 
 ### B. Create a merge request
