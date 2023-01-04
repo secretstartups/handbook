@@ -61,7 +61,7 @@ As a Senior Sales Development Manager of a region, you get the opportunity to ma
 
 ## Career Ladder
 
-The next step in the Senior Manager, Sales Development job family is to move to the [Director, Sales Development ](/job-families/marketing/director-of-sales-development/) job family. 
+The next step in the Senior Manager, Sales Development job family is to move to the [Director, Sales Development ](/job-families/marketing/sales-development-leadership/) job family. 
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

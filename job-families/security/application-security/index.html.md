@@ -161,7 +161,7 @@ In addition to the general requirements for [Application Security Engineers](#ma
 * Auxillary responsibilities include those [general to the Application Security Engineer role](#main_responsibilities).
 
 ### Security Manager, Application Security
-This position reports to the [Application Security Senior Manager](/job-families/engineering/application-security/#application-security-senior-manager) role at GitLab.
+This position reports to the [Application Security Senior Manager](/job-families/security/application-security/) role at GitLab.
 
 #### Job Grade
 The Application Security Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

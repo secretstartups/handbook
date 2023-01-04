@@ -10,7 +10,7 @@ The Accounts Payable team is responsible for timely and accurate processing and 
 
 ### Accounts Payable Analyst (Intermediate)
 
-The Accounts Payable Analyst (Intermediate) reports to [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable-specialist/#senioir-manager-accounts-payable).
+The Accounts Payable Analyst (Intermediate) reports to [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable/).
 
 #### Accounts Payable Analyst (Intermediate) Job Grade
 
@@ -48,7 +48,7 @@ The Accounts Payable Analyst (Intermediate) is a [grade 6](/handbook/total-rewar
 
 ### Senior Accounts Payable Analyst
 
-The Senior Accounts Payable Analyst reports to [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable-specialist/#senior-manager-accounts-payable)
+The Senior Accounts Payable Analyst reports to [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable/)
 
 #### Senior Accounts Payable Analyst Job Grade
 
@@ -74,7 +74,7 @@ The Senior Accounts Payable Analyst is a [grade 7](/handbook/total-rewards/compe
 
 ### Accounts Payable Manager
 
-Accounts Payable Manager reports to The [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable-specialist/#senior-manager-accounts-payable)
+Accounts Payable Manager reports to The [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable/)
 
 #### Accounts Payable Manager Job Grade
 
@@ -131,7 +131,7 @@ The Senior Manager, Accounts Payable is a [grade 9](/handbook/total-rewards/comp
 
 ## Career Ladder
 
-The next step in the Accounts Payable job family is to move to the [General Ledger](/job-families/finance/general-ledger-accountant/) job family.
+The next step in the Accounts Payable job family is to move to the [General Ledger](/job-families/finance/general-ledger-accounting/) job family.
 
 ## Hiring Process
 

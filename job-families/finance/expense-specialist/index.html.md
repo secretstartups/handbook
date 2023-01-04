@@ -37,5 +37,5 @@ The Expense Specialist is a [grade 5](/handbook/total-rewards/compensation/compe
 
 ### Career Ladder
 
-The next step in the Expense job family is to move to the [Payroll](/job-families/finance/payroll-specialist/) job family.
+The next step in the Expense job family is to move to the [Payroll](/job-families/finance/payroll/) job family.
 

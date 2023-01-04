@@ -213,7 +213,7 @@ The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards
 * Capable of coaching team members on excellent communication skills 
 
 #### Senior Director of Product Management - Career Ladder
-The next step in the Product Management Leadership job family is to move to the [VP of Product Management](/job-families/product/vp-of-product-management) job family.
+The next step in the Product Management Leadership job family is to move to the [VP of Product Management](/job-families/product/product-management-leadership/) job family.
 
 #### Senior Director of Product Management - Specialties
 

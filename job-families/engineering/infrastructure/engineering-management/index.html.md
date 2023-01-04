@@ -81,7 +81,7 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 ### Manager, Infrastructure (Environment Automation)
 
-The Manager, Infrastructure (Environment Automation) directly manages the engineering team responsible for tasks relating to GitLab Dedicated environment provisioning, and configuration. The team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
+The Manager, Infrastructure (Environment Automation) directly manages the engineering team responsible for tasks relating to GitLab Dedicated environment provisioning, and configuration. The team consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, Environment Automation specialty requires:
 
@@ -101,7 +101,7 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 ### Manager, Engineering (US Public Sector Services)
 
-The Manager, Infrastructure (US Public Sector Services) directly manages the engineering team responsible for tasks relating to provisioning, and configuring GitLab environments for US public sector customers in accordance with their compliance and security requirements. Team consists of [Site Reliability Engineers](/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
+The Manager, Infrastructure (US Public Sector Services) directly manages the engineering team responsible for tasks relating to provisioning, and configuring GitLab environments for US public sector customers in accordance with their compliance and security requirements. Team consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, US Public Sector Services specialty requires:
 
