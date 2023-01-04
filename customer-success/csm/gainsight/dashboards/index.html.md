@@ -43,7 +43,8 @@ Below are select dashboards, with descriptions of what each widget on the dashbo
     1. Count of P1 customers who have not had an EBR logged in Timeline within the past 12 months
 1. **Green PR1 Success Plans: 0 Objectives**
     1. Count of P1 success plans that are otherwise green but do not have any open objectives
-
+1. **PR1 SP Percentage by CSM Team
+    1. Percentage breakdown of Success Plans by Account Health, Green, Yellow, and Red
 #### Enablement & Expansion
 
 1. **Stage Adoption: No Activity >60 Days**
