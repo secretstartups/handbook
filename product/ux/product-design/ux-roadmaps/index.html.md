@@ -31,7 +31,8 @@ UX Roadmaps focus on a more significant, holistic problem area -rather than disc
 UX Roadmaps influence strategy through collaboration with Product Managers to define the roadmap goals, identify and prioritize unmet user needs, and transparently maintain and update the roadmap over time. Additionally, roadmaps allow us to understand our value as a team by measuring our success against the business outcomes our counterparts define for each theme. 
 
 ### Product Roadmaps and UX Roadmaps
-
+<!-- Roadmap graphic to illustrate how a UXrm fits into the overall Product roadmap -->
+![Roadmap graphic to illustrate how a UX Roadmaps fit into the overall Product roadmap](Roadmap_Visual2.png)
 UX Roadmaps complement the product roadmap; they do not replace or supersede them. It's helpful to think of these roadmaps as a view of the product roadmap through the lens of Product Design and UX Research. 
 
 #### Product Roadmaps
