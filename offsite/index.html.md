@@ -122,8 +122,7 @@ The E-Group offsite generally occurs in:
 - October
 - January
 
-The following dates have been confirmed for future E-Group offsites (starting dates):
-- 2022-10-03
+The following date(s) have been confirmed for future E-Group offsite(s) (starting dates):
 - 2023-01-09
 
 The following dates were previous E-Group offsites (starting dates):
@@ -132,6 +131,7 @@ The following dates were previous E-Group offsites (starting dates):
 - 2022-01-10
 - 2022-04-04
 - 2022-06-13
+- 2022-10-04
 
 ## Offsite Topic Calendar
 
@@ -140,30 +140,31 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 **Q1 Offsite**
 1. E-Group Offsite Month: April
 1. Following Board Meeting Month: June
-1. Planning Priorities: Strategy refresh
-1. E-Group Planning Topic: Finish strategy refresh
-1. Other E-Group Topics to Support Board Cadence: Non-product engineering review, e.g. architecture, infrastructure
+1. Finish annual [**Strategy**](/company/strategy/) review
+1. Start [**Yearlies**](/company/offsite/#recurring-discussion-topics)
+1. Non-product **Engineering** review, e.g. architecture, infrastructure
 
 **Q2 Offsite**
 1. E-Group Offsite Month: June
 1. Following Board Meeting Month: September
-1. Planning Priorities: 3-year LRO
-1. E-Group Planning Topic: LRO scenarios, capabilities and dependencies
-1. Other E-Group Topics to Support Board Cadence: Talent strategy / succession planning
+1. 3-year Long Range Outlook (**LRO**) financial model including scenarios, capabilities and dependencies
+1. Finish [**Yearlies**](/company/offsite/#recurring-discussion-topics)
+1. **Talent** strategy including succession planning
 
 **Q3 Offsite**
 1. E-Group Offsite Month: October
 1. Following Board Meeting Month: December
-1. Planning Priorities: FY budget review
-1. E-Group Planning Topic: FY25 Budget workstreams, final decisions
-1. Other E-Group Topics to Support Board Cadence: GTM learnings. Org design
+1. Fiscal year (FY) **Budget** review including workstreams and final decisions
+1. Go-to-market (**GTM**) learnings 
+1. **Org** design
 
 **Q4 Offsite**
 1. E-Group Offsite Month: January
 1. Following Board Meeting Month: March
-1. Planning Priorities: Final FY budget
-1. E-Group Planning Topic: Start strategy refresh
-1. Other E-Group Topics to Support Board Cadence: Product roadmap, competitive differentiation. Talent strategy / succession planning
+1. Final FY **Plan** that includes the budgets 
+1. Start annual [**Strategy**](/company/strategy/) review
+1. Product **Roadmap** including competitive differentiation
+1. **Talent** strategy including succession planning
 
 ## Timeline
 
@@ -181,7 +182,8 @@ Examples of prep work include:
 - [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
 - Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
 - Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
-- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
+- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/direction/growth/)
+- Executives propose [draft Key Results for their functions](/company/okrs/#executives-propose-okrs-for-their-functions)  
 - [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/){:data-ga-name="growth"}{:data-ga-location="body"}
 
 Anyone who is presenting for a topic should share materials with the prep work.
@@ -241,9 +243,12 @@ These include:
     1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
+1. [E-Group OKR Draft Review meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting) (50 minutes)
 1. [2x per year] [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 1. [2x per year] [CEO Assessment from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) in Q1 and Q3 (25 minutes)
-1. [Annual] Strategic planning discussions (~1 day)
+1. [Annual] [Annual Strategy Review](/company/strategy/) (~1 day)
+1. [Annual] Yearlies (2 to 3 hours)
+    1. Yearlies are the annual goals for the company. Yearlies are informed by the [strategy](https://about.gitlab.com/company/strategy/). Like [Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/), each yearly is aligned to one of the three pillars of the [three year strategy](/company/strategy/#three-year-strategy) and each strategic pillar is aligned to at least one yearly.
 
 ### Pre-offsite discussion topics
 
