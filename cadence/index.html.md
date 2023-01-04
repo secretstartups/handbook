@@ -50,7 +50,7 @@ Below are the cadences we have at GitLab:
 
 **3 years**
 
-- Most of [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+- Most of 3-year [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
 - [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
 - [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
 - Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
@@ -59,10 +59,11 @@ Below are the cadences we have at GitLab:
 ## Year
 
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
-1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#planning-process--gitlab){:data-ga-name="annual plan"}{:data-ga-location="body"}
+1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
 1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
-1. [Annual Strategy Review](/company/offsite/#recurring-discussion-topics)
-1. [Top Cross-Functional Initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives)
+1. [Annual Strategy Review](/company/strategy/) to refresh the three year strategy
+1. [Yearlies](/company/offsite/#recurring-discussion-topics) for annual goal setting
+1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/)
 
 ## Quarter
 
@@ -70,6 +71,9 @@ Below are the cadences we have at GitLab:
 1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
 1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari){:data-ga-name="clari"}{:data-ga-location="body"})
 1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
+1. [GitLab Assembly](/company/gitlab-assembly/)
+1. [Quarterly Kickoff](/handbook/ceo/chief-of-staff-team/#quarterly-kickoff)
+1. [Earnings activities](/handbook/finance/investor-relations/)
 
 ## Month
 
@@ -81,7 +85,6 @@ Below are the cadences we have at GitLab:
 ## Week
 
 1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
-1. [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/){:data-ga-name="wow rule"}{:data-ga-location="body"}
 1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
 
 ## Day
