@@ -44,20 +44,9 @@ We performed a proof of concept of multiple solutions and determined [Jamf](http
 
 Yes. It is safe to install and there is no threat to install the certificate. What you're seeing is expected as the Jamf Pro CA is a self-signed certificate and is technically not trusted until it is installed.
 
-## Implementation plan
-
-The [Endpoint Management Implementation Plan](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/25) is as follows:
-
-* 1st wave (2020-09-28): Cross Functional Pilot Groups
-  * This group will consist of a mix of GitLab team members and Engineering Managers
-* 2nd wave (2020-10-05): E-Group
-* 3rd wave (2020-10-12): People, Talent Acquisition, Finance, Product, Marketing
-* 4th wave (2020-10-19): Sales, Legal, Chief of Staff Team to the CEO
-* 5th wave (2020-10-26): Engineering
-
 # Linux laptops
 
-We do not have Linux-based endpoint management in place yet. There will be a second initiative to address Linux management later in FY21.
+We do not have Linux-based endpoint management in place yet. There will be a second initiative to address Linux management in the future.
 
 # Windows laptops
 
@@ -71,98 +60,86 @@ Slack: [#it-help](https://gitlab.slack.com/archives/CK4EQH50E)
 
 ## Enrolling in Jamf
 
-To install Jamf on your Mac hardware device, you will need to launch the **Safari browser** and navigate to <https://gitlab.jamfcloud.com/enroll>. **Please note** that _Safari browser is the preferred browser of choice for enrolling into Jamf._
+- ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Ventura.**
 
-**Safari vs chrome**
+To install Jamf on your Mac hardware device, you will need to launch the **Chrome browser** and navigate to <https://gitlab.jamfcloud.com/enroll>. 
 
-- Safari will auto-identify the mobile configuration files (profiles) and install automatically.
-- Chrome will download the files to the desktop and you will have to manually install the configuration files.
+**Please note** that _Chrome browser is the preferred browser of choice for enrolling into Jamf._
 
-### Installing Jamf for OS 10.15.7 and lower
+### Installing Jamf for macOS Ventura
 
-**Note that the following instructions are being shown in Safari**
-
-**[TLDR](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#installation-completion-confirmation)** - Too long didn't read can be found at the end of the installation instruction.
-
-**[Installation walkthrough video](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#installation-walkthrough-video)**
+**Note that the following instructions are being shown in Google Chrome**
 
 - Once you've opened your web browser and navigated to GitLab's Jamf instance, you will be directed to enter in your Okta credentials.
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vT28v5zghXjN3L0oYgdRO54zq1c1GY-cv7tXz_4k5IaR_gIlc0h-eMIRzbjKjr-pK6G_Axv59Dzojcv/pub?w=440&amp;h=263">
+<br/>
 
-- After entering in your Okta credentials and authentication, you will see a message to "Continue". By selecting "Continue", the download process for Jamf configuration files will begin.
+<img src="jamf-okta-creds.png" alt="Jamf Okta Creds" width="300">
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vT8VtWM10a-vNPCy4-41_s19YeiVCJf5sOpiVSp8pjCWkiQW_oufwO6u43RoaNCGPeoB6DrG3TVljbt/pub?w=440&amp;h=263">
+<br/>
 
-- The install will be for Jamf's "MDM Profile"
+- After entering your credentials you will see an "assign to user" window. Please ensure that your gitlab email is filled in and select "enroll"
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSUHiaDrvpyMqIlErncAnzuLjHuLXTsg5bWesriG0sDTBdp3h69C267wRgj3AGXXXgGeDDKlx9XzqH8/pub?w=440&amp;h=263">
+<br/>
 
-- After selecting "Install", you will be brought to an installation confirmation screen. Select "Install" to complete the installation process. Note that the MDM Profile shows "Unverified" with Jamf using a self-signed certificate, later verified by your system's certificate authority. You can safely proceed here.
+<img src="jamf-email-entry.png" alt = "Jamf Email Entry" width="300">
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTWtYJa5U2MFo7huJVsCmezZkGetrjvR7uKdw5XFsTS26mGOVmrkISwXE5HZ7RKufPXMHqHH5qR1j6D/pub?w=480&h=360">
+<br/>
 
-- When installation is complete, you will receive a confirmation that installation is complete.
+- Select continue on the next page and an mdm profile will download in your Downloads folder.
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTQXkiYD5ZR5Xed_cIER75KQJEWdEVLT1iyi4O2acdDM_K2w3px7jNNrHJXcTem_nsbPGbUMmHKlUT1/pub?w=440&amp;h=263">
+<br/>
+<img src="enroll-continue-cert.png" alt="Enroll Continue Cert" width="300">
 
-### Installing Jamf for OS Big Sur
+<br/>
+<br/>
 
-**Note that the following instructions are being shown in Safari**
+<img src="enroll-download.png" alt="Enroll Download" width="300">
 
-- Once you've opened your web browser and navigated to GitLab's Jamf instance, you will be directed to enter in your Okta credentials.
+<br/>
+<br/>
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vT28v5zghXjN3L0oYgdRO54zq1c1GY-cv7tXz_4k5IaR_gIlc0h-eMIRzbjKjr-pK6G_Axv59Dzojcv/pub?w=440&amp;h=263">
+<img src="enrollment-download-folder.png" alt="Enrollment Download Folder" width="300">
 
-- After entering in your Okta credentials and authentication, you will see a message to "Continue". By selecting "Continue", the download process for Jamf configuration files will begin.
+<br/>
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vT8VtWM10a-vNPCy4-41_s19YeiVCJf5sOpiVSp8pjCWkiQW_oufwO6u43RoaNCGPeoB6DrG3TVljbt/pub?w=440&amp;h=263">
+- Click on the newly downloaded cert in the bottom of your Chrome window or double click it from your downloads profile and you will see a notification pop up in the top right of your screen indicating that a new profile needs to be installed. Open up System Prefrences -> Security and Privacy -> Profiles and you will see the new profile to install. 
 
-- After selecting "Allow gitlab.jamfcloud.com' to install you will then see a pop up in the right hand corner that advises you to "review the profile in System Preferences if you want to install it" click on this or alternatively head to system preferences and click on profiles
+<img src="profile-notification.png" alt="Profile Notification" width="300">
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRD1vVsT1NsHbQX6vQ4v_M2OyDkUxPRmNObfgcnnSLM0IXZnhpwKC9320k9-nekCh9thX4Aixunyuoh/pub?w=960&h=720">
+<br/>
+<br/>
+
+<img src="privacy-cert-tab.png" alt="Privacy Cert Tab" width="300">
+
+<br/>
+<br/>
+
+<img src="profile-downloaded.png" alt="Profile Downloaded" width="300">
+
+<br/>
+<br/>
+
+- Double click on the new profile and then select install. The next prompt will ask for your password to your mac. enter your password and then the newly intalled profile will enroll your machine to Jamf
 
 
-- Click on the MDM Profile and select Install. It will open up another pop up, you can safely click install here. It will take 10 seconds, and then ask you if you are sure you want to install the profile again. Click "install" once again.
+<br/>
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRqGN_whi7viM79mYiNfHOGK8CUfiMozPf8ivQ2WVgsmRjxJKSK9HuiSkKGwRjt62czo6K3dopR3Xyr/pub?w=960&h=720">
+<img src="full-profile-view.png" alt="Full Profile View" width="300">
 
-- It will prompt you to input you admin details for your computer. Enter these and you're complete! You will see the profiles have installed as per the below picture
+<br/>
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vR6WJxRF8EReR-s1bZuDXBBMNS-NW0C5cNipESxG86-iTdqHXRu13NfeqaMZtRu4wsN6zeWx23fykue/pub?w=960&h=720">
+<img src="insert-creds-download.png" alt="Insert Creds Download" width="300">
 
-##### Installation completion confirmation
+<br/>
 
-- You can confirm profile installations by navigating to your computer "System Preferences".
-- Select "Profiles".
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTTc0YmhMPDL5pYPIkdBOw9xyx3XfDsK7CdNTMQL5m5rf01YKdg3nPlC4vV7wdQcknROSHmzghoq78A/pub?w=440&amp;h=263">
 
-- After selecting "Profiles", you will see "Device Profiles".
+- You should see a "Self Service" tool/app in your Applications folder
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRyso-e0Bn4ytMABWo6aiSOqWXs3fXbsMeRH-YecCCb0vQsJc6DkXhb4hU4imVRV2omtDcMHaG5K_5g/pub?w=480&amp;h=360">
-
-- Another confirmation of a successful installation is navigating to your computer launchpad.
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vREhm_rU6mIJX74g78_twZ_yZPttEuQBjt2THB04AOb1KmmQp_g5tX0QkL2VJ75XjFhSu1whXBvT58s/pub?w=244&amp;h=118">
-
-- You should see a "Self Service" tool/app
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSGpGeBxSr-RFcyg_d2JpinRQbzjrLLo6hFd_JjFGADLaXC-VAX_URPWUa7gpRYnNk4ttAqCQxc0ae2/pub?w=361&amp;h=204">
+<img src="self-service.png" alt="Self Service" width="400">
 
 - The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSVfkw6sV_vF5g9uq1iigVqBIuXXxPGvQgCsU91Z3p5bKoy0wjyuE08sqBu6eT7liokg3qyA1OwH7Cg/pub?w=957&amp;h=582">
-
-- Within the Self Service tool, there is an "Activity" tab that will display your laptops recent activities. Enabling Firewall, updating Chrome, etc will be displayed here.
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRxxRwfsYDGPjAT3qqJ_VVevx49YkcdlJCPRDIEr-vsOEP3lFkuojQWyb0q-5yQjD-QHC70vBflQiev/pub?w=960&amp;h=566">
-
-##### Installation walkthrough video
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1GekZCKD9chEmzpvpsT9s7HwYKRaHCesP/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 # Frequently Asked Questions
 
