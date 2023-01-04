@@ -540,7 +540,6 @@ If folks are involved in a meeting and have capacity to do so, they should take 
 1. Meetings at GitLab should have notes (for a single source of truth and to enable async participation among other reasons)
 1. In the absence of this joint commitment to note-taking, this is the type of work that is likely to fall disproportionately to [underrepresented groups](https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/may/09/they-feel-guilty-why-women-should-say-no-to-office-housework). This is not in line with our [diversity, inclusion, and belonging value](/company/culture/inclusion/).
 
-
 It may look like a few people are already taking notes, do not see this as a deterrent for helping. Initial note takers may be first to show up and then see it as their responsibility to continue if no one else is stepping in. 
 
 While meetings recordings are helpful, written notes are more efficient to read and offer greater opportunities for async engagement. Takes notes even when a meeting is being recorded.
@@ -559,12 +558,13 @@ Note taking helps us to work asynchronously. Team members can add thoughts to an
 Consider the following best practice when taking notes in meetings:
 
 1. If at the start of the meeting, it does not look like all team members will contribute to note-taking, identify a set of note-takers who will be responsible for this activity within the meeting
+1. Ask others to scribe answers in real-time to allow the person who asked the question to focus on the answer. Touch up the answer when the conversation has moved on to something less relevant.
+1. It can be hard to keep up with the dialog and capture quality notes when there's fast back and forth conversation. Lead by example and write when you're not talking, expect others will write when you're talking.
 1. Focus on noting speakers and their key points over capturing all words said. Extensive note-taking should not happen at the expense of correct note-taking. 
-1. At the end of the meeting, clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for audio-only playbacks.
 1. Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 1. If someone requests folks to stop taking notes, stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. Ask for the confirmation before typing before you resume note-taking.
-1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for audio-only playbacks.
-1. Ask others to scribe answers in real-time to allow the person who asked the question to focus on the answer. Touch up the answer when the conversation has moved on to something less relevant.
+1. At the end of the meeting, clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
 
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
