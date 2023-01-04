@@ -48,13 +48,13 @@ GitLab offers [a variety of support options](/support/) for all customers and us
 1. If a call is necessary, the support engineer will invite your team to a call via the ticket.
 1. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible.
 
-## Automated linking of customer architecture / collaboration project information in Zendesk tickets 
+## Automated linking of customer architecture / [Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) information in Zendesk tickets 
 
-For each customer / org in Zendesk managed by a CSM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the collaboration project without looking up the URL manually each time. 
+For each customer / org in Zendesk managed by a CSM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) without looking up the URL manually each time. 
 
-To enable this [linking from ZD to the corresponding collaboration project](/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the AM Project ID set in Zendesk (visible on the left side). 
+To enable this [linking from ZD to the corresponding collaboration project](/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) ID set in Zendesk (visible on the left side). 
 
-If the AM project id is not correct, you can open a new issue with our support ops team [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) and let it get changed by using the following information in your request:
+If the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) id is not correct, you can open a new issue with our support ops team [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) and let it get changed by using the following information in your request:
 
 ---
 **Context/Request**: For an ORG I manage, I would like to request that the AM id gets changed which is used to link to the correct collaboration project from ZD org view.
