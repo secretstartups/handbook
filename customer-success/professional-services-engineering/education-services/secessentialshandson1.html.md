@@ -151,7 +151,7 @@ When the security scanners find vulnerabilities, you need to keep track of wheth
 1. Return to the Vulnerability Report, if you’ve navigated away.
 1. Let’s say your team is concerned about the unhandled exception vulnerability and intends to fix it. Select the checkbox next to the **Try, Except, Pass detected** vulnerability. In the **Set status** dropdown, select **Confirm**. Select **Change status**.
 1. Double check that the 2 vulnerabilities you just triaged have the expected values in the **Status** column of the Vulnerability Report.
-1. Normally you would set the status of *all* the vulnerabilities, but for this lab you can leave the rest of them set to the default **Detected** status.
+1. Normally you would set the status of *all* the vulnerabilities, but for this lab you can leave the rest of them set to the default **Needs Triage** status.
 
 
 ### J. Make a branch and an MR
