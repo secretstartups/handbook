@@ -316,6 +316,8 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 ### Quick Links
 {: #bt-quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
 
+* [On24 rollout session recording](https://youtu.be/5ioBk6h_dP0)
+* [On24 rollout session slides](https://docs.google.com/presentation/d/1Iyw8XjrkmFpiLvehjqMr4TUSJ4qmjHBFGs0HZ0bZcRI/edit#slide=id.g139e148a631_0_188)
 * [Dedicated On24 handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/)
 * [On24 Support Portal](https://on24support.force.com/Support/s/article/ON24-Contact-Support)
 * [On24 Knowledge Center](https://on24support.force.com/Support/s/knowledge)
