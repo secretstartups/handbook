@@ -85,7 +85,7 @@ The Security Architecture review is conducted by a [Security Architect] who will
 
 The threats identified can be avoided (different architecture) or mitigated (security controls).
 
-[Security Architect]: /job-families/engineering/security-engineer/#security-architect
+[Security Architect]: /job-families/security/security-engineer/#security-architect
 
 ### SMEs
 

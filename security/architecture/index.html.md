@@ -18,7 +18,7 @@ title: "Security Architecture"
 
 ## Overview
 
-[Security Architects](/job-families/engineering/security-engineer/#security-architect) are the
+[Security Architects](/job-families/security/security-engineer/#security-architect) are the
 trusted security advisors of GitLab Engineering. Security Architecture is a natural extension of the
 greater [Architecture](/handbook/engineering/architecture/) initiative at GitLab. It is the
 preliminary and necessary work to build software with security considerations.
