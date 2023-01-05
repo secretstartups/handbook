@@ -57,16 +57,18 @@ There five teams in the Security Assurance sub-department.
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Core Competencies of Security Assurance Teams
 
 ### Field Security Core Competencies 
-
 * [Sales Training (Security)](/handbook/sales/onboarding/sqs-learning-objectives/)
 * [Sales Enablement (Security)](/handbook/security/security-assurance/field-security/Field-Security-RFP.html)
 * [Customer Assurance (Security)](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
 * [Security Evangelization](/handbook/security/security-assurance/field-security/Evangelism.html) 
 
 ### Security Governance Core Competencies 
-
 * [Security Policies, Standards and Control maintenance](/handbook/security/controlled-document-program.html) 
 * Security Assurance Metrics
+* Regulatory Landscape Monitoring
+* [Security Awareness and Training](/handbook/security/security-assurance/governance/sec-awareness-training.html)
+* [Security Assurance Application Administration](/handbook/security/security-assurance/#core-tools-and-systems)
+* Security Assurance Automation
 
 ### Security Risk Core Competencies 
 * [Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management.html)
@@ -84,6 +86,7 @@ There five teams in the Security Assurance sub-department.
 * [GitLab Dedicated Security Certifcations](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
 * [GitLab Dedicated User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Tier 3 Observation Management](/handbook/security/security-assurance/observation-management-procedure.html)
+* [GitLab Dedicated Production Readiness: Compliance Assessment] (/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>Core Tools and Systems
 
