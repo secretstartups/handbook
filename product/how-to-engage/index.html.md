@@ -138,11 +138,11 @@ You can copy/paste this to make sure you don't miss anything:
 
 The following ~customer is interested in this capability 
 
-- Subscription: Ultimate OR Premium OR Free User
-- Product: self-managed OR SaaS
+- Subscription: ~"GitLab Ultimate" OR ~"GitLab Premium" OR ~"GitLab Free" 
+- Product: ~"self-managed" OR ~SaaS 
 - Number of Licenses:
 - Link to request:
-- Priority: ~customer priority::   
+- Priority: ~customer priority::
 - Why interested:
 - Problem they are trying to solve:
 - Current solution for this problem:
