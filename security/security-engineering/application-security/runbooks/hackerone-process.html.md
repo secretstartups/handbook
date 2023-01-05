@@ -144,6 +144,12 @@ Exposure of information and secrets is handled a little differently to vulnerabi
   + Check build artifacts
   + Use Advanced Search to look for similar patterns in other projects used by GitLab team members
 
+#### Triaging features behind a feature flag
+
+Sometimes researchers will report a vulnerability in features behind a [feature flag](https://docs.gitlab.com/ee/operations/feature_flags.html). These reports are excellent as they allow us to patch vulnerabilities prior to them affecting our wider audience that utilizes the default settings. These bounties are eligible for the full amount of their calculated bounty.
+
+For a CVSS, use `AC:H` to reflect that _"A certain setting has to have a non-default value to make the attack possible"_.
+
 #### Awards
 
 - See [GitLab's H1 Policy](https://hackerone.com/gitlab), under `Rewards`, for portions of bounty rewards which are awarded at the time of triage
