@@ -64,7 +64,7 @@ A key part of our process is pseudonymizing data at the [collection layer](https
 
 Now that we have the ability to protect user privacy with the pseudonymization service in place, we have started collecting `Project_ID`, `Namespace_ID` and pseudonymized `User_ID`. Collecting these identifiers make the aggregated metrics we collect much more revealing. Now, instead of know there were 1000 clicks of some button, we can know things like: "Unidentified User "X" clicked a button, performed an action, then hit an error." This rich [user journey](https://about.gitlab.com/handbook/product/product-intelligence-guide/#example-user-journey) will greatly improve GitLab's ability to improve our product for you, our end user.
 
-Next up for our [roadmap](https://about.gitlab.com/direction/product-intelligence/) includes modeling user journeys to better understand the features are users value most and implementing [events track in self-managed instances](https://gitlab.com/groups/gitlab-org/-/epics/6869).
+Next up for our [roadmap](https://about.gitlab.com/direction/analytics/product-intelligence/) includes modeling user journeys to better understand the features are users value most and implementing [events track in self-managed instances](https://gitlab.com/groups/gitlab-org/-/epics/6869).
 
 ## Related Content 
 
@@ -72,4 +72,4 @@ Next up for our [roadmap](https://about.gitlab.com/direction/product-intelligenc
 1. Updates to Pseudonymizing Service Usage Data blog post: _coming soon_
 1. [Update on Free Software and Telemetry](/blog/2019/10/10/update-free-software-and-telemetry/)
 1. [Product Usage Tracking Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/5672)
-1. [GitLab's Product Intelligence Direction](/direction/product-intelligence/)
+1. [GitLab's Product Intelligence Direction](/direction/analytics/product-intelligence/)
