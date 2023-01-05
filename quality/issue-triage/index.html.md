@@ -60,6 +60,8 @@ Severity labels help us determine urgency and clearly communicate the impact of 
 
 The presence of bug category labels `~"bug::availability"`, `~"bug::performance"`, `~"bug::vulnerability"`, and `~UX` denotes to use the severity definition in that category. When a `~"type::bug"` correspond to multiple categories, the severity to apply should be the higher, for example, if an issue has a `~"severity::2"` for `~"bug::availability"` and a `~"severity::1"` for `~"bug::performance"` then the severity assigned to the issue should be `~"severity::1"`.
 
+Once you've determined a severity for an issue add a note that explains in summary why you selected the severity you did. This will help future team members understand your rationale so they will know how to proceed with acting upon the issue.
+
 
 | Type of `~"type::bug"` | `~"severity::1"`: Blocker | `~"severity::2"`: Critical | `~"severity::3"`: Major  | `~"severity::4"`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
