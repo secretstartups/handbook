@@ -52,7 +52,7 @@ Currently there are two main uses for the .org environment:
 - Builds.
 - Repos that are needed in case GitLab.com is offline.
 
-This is a critical piece of infrastructure that is always growing in size due to build artifacts. There are discussions to make a new build server where nightly CE/EE builds can be deployed or to move the infra repos to a new host that would be an separate (not gitlab.com) EE instance. Although the environment has dev in its domain name don't refer to it as dev since that could be confused with a local development environment.
+This is a critical piece of infrastructure that is always growing in size due to build artifacts. There are discussions to make a new build server where nightly CE/EE builds can be deployed or to move the infra repos to a new host that would be a separate (not gitlab.com) EE instance. Although the environment has dev in its domain name, don't refer to it as dev, since that could be confused with a local development environment.
 
 ### Review Apps
 
