@@ -604,6 +604,20 @@ discoverability. The UX can very often be refactored or enhanced later when ther
 a demonstrated need for refinement, onboarding for less sophisticated users, or
 other new abstractions needed that were identified through real-world usage.
 
+### Component Principles
+In GitLab the product, it is sometimes the case that optional software or infrastructure is required to enable new capabilities. Some examples include:
+- Infrastructure in the form of Runners are required to enable use of GitLab CI/CD
+- Infrastructure and software in the form of Elasticsearch is required to enable Advanced Search
+- Software in the form of the Kubernetes Agent is required to enable GitOps pull-based workflows
+
+The following are best practices we consider when building such components.
+
+#### Start with enabling Developers
+As we learned with GitLab CI/CD, the ability for developers to quickly attach needed Runners to enable their own use of GitLab CI/CD allowed for rapid adoption of GitLab CI/CD within an organization. When considering the workflow to enable additional capabilities, start with enabling developers first. A guiding principle should be **low-friction** developer enablement, which will positively impact adoption.
+
+#### Build for production use, not demo use
+As we learned from the certificate-based Kubernetes Integration, building starting experiences that support demoing a getting-started process doesn't necessarily translate into real usage. For example, the certificate-based integration lacked strong security primitives and the ability to manage the integration on an ongoing basis. As a result, we should build capabilities that target real-world production use first, even as part of MVCs.
+
 ### Integrate other applications thoughtfully
 
 GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our included features, and we respect those decisions. With this in mind, it's sometimes valuable to integrate with 3rd-party services and products to help _bridge the gaps_ in their toolchain. While a single application is the best approach, multiple applications that work well together is better than ones that don't.
