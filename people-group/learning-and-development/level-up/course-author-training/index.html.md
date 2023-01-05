@@ -55,13 +55,13 @@ Creating knowledge checks are a key part of knowledge retention and a useful too
   <iframe width="560" height="315" src="https://youtu.be/Biul9dstZC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Tips and Tricks
+## Tips and Tricks
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://youtu.be/6v9wRBPbwDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Preparing content for release
+## Preparing content for release
 
 There are some specific actions to take to ensure your conrent is ready to be released:
 
@@ -76,10 +76,21 @@ This video reviews the steps required.
   <iframe width="560" height="315" src="https://youtu.be/D0QGDtk-8tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Releasing content
+## Releasing content
 
 For releasing content to internal audiences, two steps are needed - publishing and adding the internal tag. This video covers these steps.
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://youtu.be/E1kjsaz8j2Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+# Notes for Admins
+
+For Level Up administrators, once a user has completed this course, they should let you know they have done so and that they are ready to have their permissions uplifted. You'll then need to complete the following actions:
+
+- First, confirm the completion by checking to see if the course is showing as `completed` in their learner profile.
+- If they are showing as completed, navigate to the `Role` section within the `Details` tab of the user profile.
+- From the `New Role` dropdown, select `Course Author`. Then, under `Dual Role` click `Create learner profile`.
+- Scroll to the bottom of the page and click `Save`.
+
+This enables the Dual Role for the user.
