@@ -1,7 +1,15 @@
 ---
+description: "How GitLab approaches the Automated Software Delivery solution including messaging and key resources to help marketing and sales."
 layout: markdown_page
 title: "DevOps Solution Resource: Automated Software Delivery"
 ---
+
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Looking for a customer-facing overview of GitLab's Automated Software Delivery Capabilities?
 
@@ -13,7 +21,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 |     Product Marketing    |    Technical Marketing    |
 | ------------------------ | ------------------------- |
-| Saumya Upadhyaya (@supadhyaya)  | Itzik Gan Baruch (@itzik ) |
+| Heather Simpson (@heather)  | Itzik Gan Baruch (@itzik ) |
 
 
 ## Background (2 min read)
