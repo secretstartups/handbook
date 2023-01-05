@@ -73,7 +73,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 
 ##### January:
 1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
-    * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
+    * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
     * Managers and indirect managers will review their team members and propose an increase based on several factors:
         * Performance Factor
         * Growth Potential Factor
