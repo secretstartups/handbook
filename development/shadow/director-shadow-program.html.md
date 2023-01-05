@@ -158,7 +158,7 @@ No, not at this time.
 | Jan 9 | Available | |
 | Jan 16 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
 | Jan 30 | Available | |
-| Feb 6 | Available | |
+| Feb 6| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
 | Feb 13 | Available | |
 | February 20|  Available | |
 | February 27|  Available | |
