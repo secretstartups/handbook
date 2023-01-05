@@ -182,7 +182,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/qmJXn2GlASY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: The GitLab Product Team is exploring enhancements in this area. Check out the [Quality Management Direction page](/direction/plan/quality_management/).
+*  **Learn more**: The GitLab Product Team is exploring enhancements in this area. Check out the [Quality Management Direction page](/direction/plan/certify/).
 
 
 #### What are runners and how do they actually work?
