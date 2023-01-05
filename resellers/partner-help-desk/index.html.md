@@ -84,4 +84,126 @@ This page is intended for Partner Help Desk specialists to document and review p
 - [GitLab Program Discounts and Incentive Guide - Commercial](https://partners.gitlab.com/prm/English/s/assets?id=350001)
 </details>
 
+## Channel Manager Ownership in SFDC - Accounts and Opportunities
+
+### Channel Manager Account Ownership
+
+Channel Managers are managed differently depending on the region they are in. 
+- US PubSec Channel Managers each have owned partner accounts. 
+- All other regions of the world have Select Channel Managers assigned to specific areas, and Commercial Channel Managers (who handle Open Partners) assigned to specific areas. See below for the region breakdown. 
+
+When there are changes to each channel team, the corresponding PHD Specialist should create an MR with the update. The Channel Marketing team updates the CAMs in Impartner.
+
+When updating the Account Owner on a partner account, make sure to also update the `Contracted Territories` field.
+
+#### Updating an Account Owner in SFDC (Channel Accounts ONLY)
+1. Navigate to the account record in SFDC.
+2. Under the `GitLab Partner Program Info`, check to make sure the “Public Sector Partner” field is set to “No.” (Unless the account is US PubSec.)
+3. Click the `Change Account Owner` button at the top of the record. 
+4. Type in the Channel Manager’s name, and then click “Save.” Do not change any check boxes.
+
+
+#### Channel Managers by GEO
+<details>
+<summary markdown="span">AMER Select</summary>
+- East: Maria Henry 
+- West: TBD/Lisa Cartagena (acting)
+- Central: Joe McAninch
+- Canada: TBD/Lisa Cartagena (acting)
+- LATAM: Rodrigo Rios
+
+</details>
+
+
+<details>
+<summary markdown="span">AMER Open</summary>
+- East: Jay Bahar
+- West: Lisa Cartagena
+- Central: Lisa Cartagena
+- Canada: Lisa Cartagena
+- LATAM: Rodrigo Rios 
+
+</details>
+
+
+<details>
+<summary markdown="span">APAC</summary>
+- ANZ: Frank McGowan
+- Japan: Masa Ueda
+- India : Amit Kaul
+- Taiwan and ASEAN: Teo Wan Ping
+- Korea: Sang Hoon Kim
+- Others: Dirk de Vos
+
+</details>
+
+
+<details>
+<summary markdown="span">EMEA Select</summary>
+- France: Tristan Ouin
+- DACH: Ilaria Pazienza
+- Poland: Ilaria Pazienza
+- Italy: Ilaria Pazienza
+- Cze: Ilaria Pazienza
+- UK: Matthew Coughlan
+- Nordics: Matthew Coughlan
+- Benelux: Matthew Coughlan
+
+</details>
+
+
+<details>
+<summary markdown="span">EMEA Open</summary>
+- Middle East: Camille Dios
+- Africa: Camille Dios
+- Southern Europe: Camille Dios
+- DACH: Bastian van der Stel
+- Russia: Jags Bewas 
+- Northern Europe: Jags Bewas 
+- UKI: Jags Bewas
+- Nordics: Jags Bewas
+- Benelux: Jags Bewas
+
+</details>
+
+
+<details>
+<summary markdown="span">EMEA Open</summary>
+- Middle East: Camille Dios
+- Africa: Camille Dios
+- Southern Europe: Camille Dios
+- DACH: Bastian van der Stel
+- Russia: Jags Bewas 
+- Northern Europe: Jags Bewas 
+- UKI: Jags Bewas
+- Nordics: Jags Bewas
+- Benelux: Jags Bewas
+
+</details>
+
+
+<details>
+<summary markdown="span">US-PubSec</summary>
+- Open: Maria del Pilar Mejia
+- For all others, refer to columns B&C in the [CAM Mapping FY23](https://docs.google.com/spreadsheets/d/1okdK1HoqM-POt6GySRadeFp5AWf0rJY43GoScUq0EX0/edit#gid=974923348) spreadsheet.
+
+</details>
+
+
+#### Channel Solutions Architects
+- AMER: Scott Brightwell (manager), Bart Zhang, Jeremy Chen (GSIs)
+- APAC: Samer Akkoub
+- EMEA: Peter Bozso, Christoph Leygraf
+- Japan: Tsukasa Komatsubara
+- US-PubSec - Ana Desai, Pete Raumann
+
+
+### Channel Manager Opportunity Ownership
+(How to tell which Channel Manager is assigned to an Opportunity)
+
+In the [CAM Mapping FY23](https://docs.google.com/spreadsheets/d/1okdK1HoqM-POt6GySRadeFp5AWf0rJY43GoScUq0EX0/edit#gid=974923348) spreadsheet (“Mapping Tables” tab), (Non-US PubSec or Alliance) Channel Managers are mapped first by the Opp Owner’s User Data using the field `[Deprecated] Owner Segment-Geo-Region-Area,` and then secondarily by the field `Stamped Account Sales Territory.` These fields are found in the 'Comp and Attainment Information` section of an opportunity.   
+
+When determining which Channel Manager is mapped to an opportunity, First look up the `[Deprecated] Owner Segment-Geo-Region-Area` field. If there’s a Channel Manager listed, that is the Channel Manager for the opportunity. If, instead of a Channel Manager, it says “Look at Territory,” then refer to the `Stamped Account Sales Territory` column. That name will be the Channel Manager for the opportunity.    
+
+US PubSec and Alliance Channel Managers are mapped according to the partner and are listed on the two left-hand sections of the same spreadsheet. If the partner account is a GSI, use the GSI lookup columns on the far right of the spreadsheet.
 
