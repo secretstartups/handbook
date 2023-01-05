@@ -387,7 +387,7 @@ Each risk identified and triaged through the StORM program is required to underg
   </tr>
   <tr>
     <td class="tg-wa1i">Monitor (do nothing)</td>
-    <td class="tg-cly1">The risk level falls within our risk tolerance levels and no additional actions will be pursued at this time</td>
+    <td class="tg-cly1">The risk level falls within our risk tolerance levels and no additional actions will be pursued at this time. Risks that have been treated, resulting in a risk score that is within the risk tolernace level will be given the status of Monitor within our GRC system.</td>
   </tr>
   <tr>
     <td class="tg-wa1i">Remediate the Risk</td>
