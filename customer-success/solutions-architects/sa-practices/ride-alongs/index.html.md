@@ -47,6 +47,7 @@ To become a driver, submit an MR (or [use this open merge request](https://gitla
 | **Tim Poffenbarger**   | Americas SMB, Mid-Market     |
 | **Noah Ing**           | Americas SMB, Mid-Market     |
 | **Joe Randazzo**       | Americas SMB, Mid-Market     |
+| **Jeremy Wagner**      | Americas SMB, Mid-Market     |
 | **Madou Coulibaly**    | EMEA SMB, Mid-Market         |
 | **Idir Ouhab Meskine** | EMEA Enterprise              |
 | **Sameer Kamani**      | PubSec                       |
