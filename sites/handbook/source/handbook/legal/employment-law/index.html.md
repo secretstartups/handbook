@@ -44,7 +44,7 @@ Below are some common employment topics where Legal is asked to provide input. T
 Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
 
 #### Background Check 
-Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when team responsible for reviewing background check has questions or concerns about specific results.
+Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when the Senior Background Check Specialist has questions or concerns about specific results.
 
 ## During Hire
 
