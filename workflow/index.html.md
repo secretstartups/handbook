@@ -149,6 +149,8 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       /label ~"master-broken::pipeline-skipped-before-merge"
       /label ~"master-broken::test-selection-gap"
       /label ~"master-broken::need-merge-train"
+      /label ~"master-broken::infrastructure"
+      /label ~"master-broken::runner-disk-full"
       /label ~"master-broken::undetermined"
       ```
 
