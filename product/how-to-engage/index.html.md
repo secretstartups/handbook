@@ -149,6 +149,7 @@ The following ~customer is interested in this capability
 - Impact to the customer of not having this:
 - Questions:
 - PM to mention:
+- CSM to mention:
 <!-- Be sure to save this comment as an internal note (tick the checkbox above the "Comment" button -->
 ```
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards: 
