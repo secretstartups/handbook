@@ -266,15 +266,51 @@ We aim to keep the engineer : maintainer ratio under 6, for both frontend and ba
 
 <embed width="100%" height="100%" style="min-height:850px;" src="<%= signed_periscope_url(dashboard: 475647, embed: 'v2') %>">
 
-### Maintainer load
+### Maintainer Demand
 
-We aim to keep the merge request per maintainer type at a reasonable level as well. We track this in the [Merge Requests: MR Count and Ratio by FE/BE/DB][ratio]:
-
-<embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 655064, embed: 'v2') %>">
-
-We can also gauge demand by looking at the [Maintainership Demand dashboard](https://app.periscopedata.com/app/gitlab/1055628/Maintainership-Demand?widget=15440601&udv=1762708):
+We can gauge demand by looking at the [Maintainership Demand dashboard](https://app.periscopedata.com/app/gitlab/1055628/Maintainership-Demand?widget=15440601&udv=1762708), which can be filtered by month, project and technology:
 
 <embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 1055628, embed: 'v2') %>">
+
+#### About this dashboard
+
+Definitions of metrics:
+* Incoming Merge Requests - The total number of Merge Requests opened by any author.
+* Average Availability - The average percentage of time that maintainers are accepting reviews, and not busy, out of office, on vacation, or at capacity.
+* Total Maintainers - The number of engineers who have `maintainer` specified in their `team.yml`
+* Available Maintainers - The number of Total Maintainers multiplied by the Average Availability
+* Monthly Review Target - A variable number based on the expected number of reviews per maintainer in a given month. Monthly review targets can be custom based on the area, or generally defined based on the number of Incoming Merge Requests. For more information on this metric, [read below](#monthly-review-targets).
+* Target Maintainer Counts - A variable number, changing month over month, based on the number of Incoming Merge Requests to the area for that month, the current number of Total Maintainers, and the Average Availability.
+* Minimum Maintainers Required - The number of Available Maintainers required in order to meet the demand of Incoming Merge Requests.
+* Maintainers Needed - The number of Available Maintainers still needed in order to meet Minimum Maintainers Required.
+* Technology Group - For projects that have specific specialties for their maintainers, like database, backend, frontend, CI Templates, Workhorse
+
+Explanation of charts:
+* Available Maintainers VS Need - An overall, high-level look at our maintainer targets, totals, and availability.
+* Projects where maintainers are needed - Based on the previous months data, this is an output of any area predicted to need more available maintainers. 
+* Project/Area Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required over time.
+* Unhealthy Core Areas of Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required, and are receiving more than 100 Incoming Merge Requests per month over time.
+* Part of Product Repos - Full Data - An all-inclusive chart for each project, area, and month that includes all metrics noted above.
+
+
+#### Monthly Review Targets
+
+Targets are calculated based on the number of available maintainers (described above) and what a "reasonable" number of reviews per maintainer per month is. "Reasonable" has been defined for some areas in [separate analysis issues](https://gitlab.com/groups/gitlab-com/-/epics/1817). These are custom targets defined in the "maintainer_custom_targets" Sisense snippet. There are general targets for all other projects based on the number of incoming merge requests to the project. These numbers are a first iteration and were based on the analysis issues, where less demanding projects had fewer maintainers (therefore requiring more monthly reviews per person) and more demanding projects had more maintainers (therefore requiring less monthly reviews per person):
+* The default target is 5 reviews per maintainer
+* If the area receives more than 10 merge requests, the monthly target is 10 reviews per maintainer
+* If the area receives more than 500 merge requests, the monthly target is 40 reviews per maintainer
+* If the area receives more than 1000 merge requests, the monthly target is 16 reviews per maintainer
+* If the area receives more than 1500 merge requests, the monthly target is 20 reviews per maintainer
+
+To add a custom target to an area using the `maintainer_custom_targets` Sisense snippet:
+* In Sisense, go to Snippets > `maintainer_custom_targets`
+* Add a new `CASE/WHEN` statement based on the project name and optionally technology group
+* Set the number to the ideal monthly review target per person, according to what a reasonable number of reviews is for this project
+
+#### Caveats
+
+* **Total Maintainer counts may show as 0** - This data is using reviewer roulette to determine the number of total maintainers because we do not have access to the project memberships in Sisense, and because many projects have maintainers/owners who are not truly active. One reason this may be showing 0 despite having maintainers on the project is because the project name displayed does not match the project name used in the `team.yml` for reviewer roulette. Another reason might be that the project is not using reviewer roulette. In these cases, the project will need to be set up and configured correctly to use reviewer roulette. Finally, the `team.yml` must match the requirements of the project or area - for example, if reviews in your project are able to go to any maintainer, the `team.yml` should specify `maintainer`. If the reviews in your project are separated by specialty, the `team.yml` must specify `maintainer [SPECIALTY]` and the merge request should be labeled according to that specialty. 
+
 
 ### Maintainer/Reviewer Availability
 
