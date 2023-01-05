@@ -172,7 +172,7 @@ GitLab will obtain references and complete a criminal [background check](https:/
 
    - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust.
 - The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made.
-- The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
+- The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. 
 - Background check results will be received by the Senior Background Check Specialist and escalated to Team Member Relations and Legal where appropriate
 
 For additional information on reviewing Background checks see [this page](/handbook/people-policies/#background-checks).
