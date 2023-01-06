@@ -248,11 +248,12 @@ Functional leaders are responsible for updating their objectives and KRs in GitL
 #### Objectives
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in GitLab, follow the steps below:
-1. In GitLab, click the [add objective button](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
+1. In the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), navigate to the issues list and click the [add objective button](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
 1. Enter a short but descriptive title for the objective.
 1. Click on the objective to add more details.
-1. Identify the owner for the objective and assign them to the objective
+1. Identify the owner for the objective and assign them.
 1. Identify the quarter for the objective and set the corresponding milestone. 
+1. Assign the objective to the relevant division (all of GitLab) and relevant Section/Stage/Group (Product & Engineering only) by setting the appropriate scoped labels. [Division labels](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) for reference.
 1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.  
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 
@@ -263,7 +264,9 @@ To add new key results in GitLab, follow the steps below:
 1. Click [add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result). 
 1. Enter a short but descriptive title for the key result.
 1. Click on the key result to add more details.
-1. Check that the owner, milestone and labels are correct. 
+1. Identify the owner for the key result and assign them.
+1. Identify the quarter for the key result and set the corresponding milestone. 
+1. Assign the key result to the relevant division (all of GitLab) and relevant Section/Stage/Group (Product & Engineering only) by setting the appropriate scoped labels. [Division labels](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) for reference.
 1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. 
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Click create and the key results will appear under the corresponding objective. 
@@ -280,11 +283,7 @@ Once team OKRs have been added to GitLab, they can then be aligned to relevant C
 Follow the steps below to align team OKRs to the CEO OKRs: 
 1. Click on the CEO objective you want to be the new parent for an objective/key result.  
 1. In the Child objectives and key results search bar, [find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results).
-
 1. Your objective or key result is now aligned to the CEO's objective. 
-
-
-
 
 ## Maintaining the status of OKRs
 
