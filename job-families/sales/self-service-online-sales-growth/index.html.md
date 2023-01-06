@@ -3,9 +3,45 @@ layout: job_family_page
 title: Self-Service Growth
 ---
 
-The Self Service Growth function is part of a team focused on building an easy self-service experience for our customers. The Growth team is accountable for the growth of our online sales KPI’s. The Growth team drives those numbers by experimenting with: programs that drive GTM or product improvements and campaigns to drive self-service customer adoption.
+The Self Service Growth team is focused on building an easy self-service experience for our customers. The Growth team is accountable for the growth of our online sales KPI’s. The Growth team drives those numbers by experimenting with: programs that drive GTM or product improvements and campaigns to drive self-service customer adoption.
 
 ## Levels
+
+## Senior Analyst, Online Sales & Self Service Growth
+
+The Senior Analyst role is part of a team focused on transforming the way that GitLab goes to market. Aligned to a cohort of GitLab customers, this role is focused on leveraging data to empower these customers to onboard, transact, and manage their accounts online and at scale.
+
+The Senior Analyst, Online Sales & Self Service Growth reports to the Manager, Online Sales & Self Growth.
+
+### Job Grade
+
+The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+* Develop strategies and drive team focus based on data insights and findings
+* Partner with Self-Service Growth Managers to create, execute, and measure experiments focused on driving business growth and improving the Self-Service customer experience
+* Partner with direct sales to transform our current go-to-market and support a larger self-service channel
+* Work cross-functionally to optimize our customer journey and experience for a cohort of GitLab customers. 
+* Design and build insightful dashboards for the self-service team and our stakeholders
+* Take ad-hoc analyses and turn them into a repeatable, scalable data views that our team can leverage on their own
+* Leverage data to identify new Self-Service cohorts, and determine the best method of engagement
+* Ownership in scoping, sizing and delivering multiple requests balancing prioritization, efficiency and quality
+* Be proactive and identify trends or flag potential issues
+
+### Requirements
+
+* Ability to use GitLab
+* BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
+* Demonstrated progressive experience in data analytics
+* Excellent written and verbal communication skills
+* Comfortable presenting data and providing recommendations with confidence to senior level stakeholders, even when there is ambiguity involved
+* A knack for identifying and investigating anomalies in data and operations
+* Familiarity with product analytics and tools (e.g. Amplitude)
+* Familiarity with sales & marketing funnel reporting and industry KPIs, such as website sessions, MQLs, pipeline, and bookings
+* Familiarity with BI tools (e.g. Explore, Tableau) and Excel / Google Sheet functions
+* Experience with SQL, data warehouses and/or scripting languages (e.g. Python, BigQuery, MySQL)
+* Experience analyzing CRM data (e.g. Salesforce) and web tracking (e.g. Google Analytics)
+* Self-motivated and self-managing, with strong organizational skills
 
 ## Manager, Online Sales & Self Service Growth
 
