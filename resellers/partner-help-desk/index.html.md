@@ -207,3 +207,20 @@ When determining which Channel Manager is mapped to an opportunity, First look u
 
 US PubSec and Alliance Channel Managers are mapped according to the partner and are listed on the two left-hand sections of the same spreadsheet. If the partner account is a GSI, use the GSI lookup columns on the far right of the spreadsheet.
 
+
+## Receiving Reseller Purchase Orders, Quote Requests, and Order Status Requests 
+As of FY23Q4, there should not be any resellers sending quote requests, orders, or order status requests to the Partner Support email box. Partners should be sending these to the Sales person or CAM assigned to their opportunity (see the [Channel Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) if you need to provide a link to Sales). 
+
+If the partner doesn't know who that is or who to send their request to, they can then email Partner Order Operations (partnerorderops@gitlab.com). 
+The [Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit#gid=0) has been updated with scripts for various scenarios, explained below with the complete process for each.   
+
+### Reseller Quote Request, PO Submission, or Status Request that includes Partner Order Operations (Partner Support was just copied)
+Reply using the response from the [Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit#gid=0). No additional steps are necessary.   
+
+### Reseller Quote Request, PO Submission, or Status Request that does _not_ include Partner Order Operations as an email recipient
+1. Look up the opportunity and confirm who the Field Seller/ISR is.
+2. Reply to the email and reattach any documents that came with the original email. 
+3. Add the sales rep, ISR, CAM on the opportunity ([not necessarily the CAM who owns the account](https://about.gitlab.com/handbook/resellers/partner-help-desk/#channel-manager-opportunity-ownership)), and add partnerorderops@gitlab.com to the “cc” field.
+4. **For PO Submissions Only** Attach the PO to the correct opportunity in SFDC.
+5. Reply using the appropriate response from the [Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit#gid=0). 
+
