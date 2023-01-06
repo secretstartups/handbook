@@ -18,10 +18,21 @@ At GitLab, we are [family and friends first, work second](/handbook/values/#fami
 
 Team members can share about their Family and Friends Day in the `#family-and-friends-day` Slack channel after the event, or publicly on social media such as Twitter, LinkedIn, or wherever they're most comfortable using the hashtag #FamilyFriends1st. Sharing is optional. Taking the day off is strongly encouraged if your role allows it.
 
-## Upcoming Family and Friends Days
+## FY'24 Family and Friends Days
 
-1. 2022-12-30
 1. 2023-01-13
+1. 2023-02-27
+1. 2023-03-24
+1. 2023-04-17
+1. 2023-05-26
+1. 2023-06-23
+1. 2023-07-03
+1. 2023-08-25
+1. 2023-09-22
+1. 2023-10-06
+1. 2023-11-27
+1. 2023-12-29
+1. 2024-01-12
 
 We will look at scheduling future dates pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="PTO"}{:data-ga-location="body"} policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
 
@@ -58,6 +69,7 @@ Family and Friends Days have been held on these dates:
 1. 2022-09-26
 1. 2022-10-07
 1. 2022-11-18
+1. 2022-12-30
 
 ## FAQ about Family and Friends Day
 
@@ -67,7 +79,7 @@ Any GitLab team member is able to propose a Family and Friends Day. If there are
 1. Submit a merge request to modify the `Upcoming Family and Friends Days` section of this page with the date of your Family and Friends Day proposal.
 1. Post the MR in the `#e-group` Slack channel and `@mention` the `@exec-group` and `@exec-admins` for feedback.
 1. If feedback is positive, assign the MR to our Chief People Officer, Wendy Barnes.
-1. Once the Merge Request is approved, the Total Rewards team will announce the Family & Friends day on the `#company-fyi`, `#whats-happening-at-gitlab` and `#people-connect` Slack Channels. The Total Rewards team will post upcoming Family and Friends Days on the `GitLab Team Meeting` Google calendar.
+1. Once the Merge Request is approved, the Total Rewards team will announce the Family & Friends day on the `#whats-happening-at-gitlab` Slack Channel. The Total Rewards team will post upcoming Family and Friends Days on the `GitLab Team Meeting` Google calendar.
 
 ### I'm in a role which requires me to work that day. How can I still benefit from this initiative?
 If you are in a role that requires you to work or your team has other coverage requirements on Family and Friends Day (for example, [Customer Support](https://about.gitlab.com/handbook/support/support-time-off.html#how-support-handles-family-and-friends-days)), you can work with your manager to find an alternative day. We encourage you to consider the following business day as the preferred second choice for a day away, but do what works best for you and your team.
