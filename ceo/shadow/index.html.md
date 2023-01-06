@@ -187,8 +187,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-02-27 | 2023-03-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-06 | 2023-03-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-13 | 2023-03-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-03-20 | 2023-03-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-03-27 | 2023-03-31 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-20 | 2023-03-24 | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-27 | 2023-03-31 | AVAILABLE - REMOTE | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE |
 
 If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
