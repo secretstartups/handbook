@@ -24,7 +24,7 @@ Such changes include:
 
 1. New features in high traffic areas (e.g., a new merge request widget, a new option in issues/epics, a new CI functionality).
 1. Complex performance improvements that may require additional testing in production (e.g., rewriting complex queries, changes to frequently used API endpoints).
-1. Invasive changes to the user interface (e.g., introducing a new navigation bar, removal of a sidebar, UI element change in issues or MR interface).
+1. Invasive changes to the user interface (e.g., introducing a new navigation bar, removal of a sidebar, significant UI changes in issues or MR interface).
 1. Introducing dependencies on third-party services (e.g., adding support for importing projects).
 1. Changes to features that can cause data corruption or cause data loss (e.g., features that process repository data or user-uploaded content).
 1. Changes to permissions that will add restrictions (e.g., requiring Owner permissions instead of Developer)
