@@ -43,17 +43,17 @@ Below are the cadences we have at GitLab:
 - [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
 - [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
 - Time needed for category creation
-- [Investor fund time limit](https://www.strictlybusinesslawblog.com/2017/06/29/the-life-cycle-of-a-private-equity-or-venture-capital-fund/)
 - Commitment of DZ
 
 ## Strategy
 
 **3 years**
 
-- Most of 3-year [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
-- [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
-- [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
-- Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
+1. Most of [3-year company strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+1. [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
+1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook)
+1. [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
+1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 
 ## Year
@@ -61,8 +61,8 @@ Below are the cadences we have at GitLab:
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
 1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
 1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
-1. [Annual Strategy Review](/company/strategy/) to refresh the three year strategy
-1. [Yearlies](/company/offsite/#recurring-discussion-topics) for annual goal setting
+1. [Fiscal Year Product Investment Themes](/direction/#fiscal-year-product-investment-themes)
+1. [Yearlies](/company/yearlies/) for setting annual company goals 
 1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/)
 
 ## Quarter
