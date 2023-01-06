@@ -238,6 +238,12 @@ cc @jburton to create list upload issue and DMA request as required
    - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
+### Securing a hotel room block 
+Should the event organizer offer a hotel room block option at a discounted rate and the GitLab event DRI would like to secure this room block, there are two options you can take to secure the contract: 
+
+1. An actual contract is offered and GitLab will put down a corporate card to secure the room block, but the individuals checking in will ultimately pay for the hotel (and then expense the hotel back to GitLab) - the event DRI should open a [virtual card request via coupa](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/). 
+1. A full contract is not offered, but a request for a credit card authorization is requested for GitLab to secure a room block, but the individuals checking in will ultimately pay for the hotel (and then expense the hotel back to GitLab) - the event DRI should open a [request in the legal project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) outlining the information that is being requested. Please include the discounted room rate, cut-off date, and the total amount anticipated in the unlikely event the full amount would be charged to the credit card if the event were to be cancelled.
+
 ### Ancillary Events
 
 If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
@@ -991,6 +997,7 @@ There is no contract that needs to be in place in order for payment to happen. T
 1. Supporting documentation - could be an email that confirms this person will travel for GitLab - should be uploaded for the Coupa card to be created.  
 
 ##### Hotel stay 
+
 While we would like for the hotel to be secured using the Coupa Virtual Card as well, at times a hotel may ask for a physical card to be provided upon check-in for incidentals. The speaker may either present their own card and then apply for reimbursement OR a GitLab team member may provide their own credit card. 
 
 If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report: 
