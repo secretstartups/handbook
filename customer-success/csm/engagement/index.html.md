@@ -281,6 +281,19 @@ Below is some guidance to help CSMs scale their workload:
 - Ramped Growth CSMs are expected to give [3 workshops per quarter](/handbook/customer-success/csm/segment/mid-touch/#expand-and-renew-1); reduce the number of workshops that are for a single customer, and plan to do a single workshop where you invite several of your customers who could benefit. In this way, we are able to help drive adoption across our customer base more efficiently, and still keep the sessions small and interactive as only your customers are invited. We can also use cadence calls to dive into questions individual customers may have afterwards, allowing for a more personalized experience, without devoting the workshop to them. Setting up a quarterly (or other cadence) frequently of regularly giving particular workshop topics is one way to make planning for this simpler and ensure you continue to provide value to customers.
 - Our guidance for at-risk customers is to create a [triage issue](/handbook/customer-success/csm/health-score-triage/#gitlab-account-triage-project), but this isn't always a good use of time. Growth CSMs are not required to open triage issues for every at-risk account. They should opened an issue if the risk is due to 1. product blockers 2. PS concerns 3. ongoing negative support experience 4. license & pricing conerns, or 5. sustained non-engagement where we need help from Sales.
 
+#### FY24 Growth Prioritization
+
+As GitLab moves into FY24, we are changing how we look at prioritization in order to be more efficient and continue to drive customer ROI. In line with the Growth team's goals of having a programmatic approach to grow a large customer base and aligning on and building success goals with each customer through usage reporting and strategic touchpoints, we will be pivoting to prioritizing customers based on use case adoption. The below information is a work in progress as we roll out this change.
+
+- **0 or 1 use cases adopted**: Customers who have 0 or 1 use cases adopted (aka with green health score) should all be Priority 1. Our primary focus should be getting them to have at least 2 green use cases, in line with their desired business outcomes and reasons for purchase. This typically includes all onboarding customers as they begin to adopt the platform.
+- **2 use cases adopted**: Customers who have 2 use cases adopted are prioritized on a case-by-case basis depending on the CSM's sentiment and which use cases have been adopted. For example, if an Ultimate customer has green SCM and CI but red DevSecOps, they should still be a Priority 1 until DevSecOps is adopted.
+- **3 or more use cases adopted**: Customers who have 3 or more use cases adopted should be Priority 2. There is of course flexibility if a customer has extenuating circumstances, but this should be discussed with the CSM's manager to determine how much time the CSM should devote to the account.
+- **Regardless of use cases adopted**: any Ultimate customer with red DevSecOps health score should be a Priority 1. Any exceptions need to be approved by the CSM's manager.
+
+For any customers that do not have usage reporting available, the CSM should regularly ask the customer discovery questions about their usage to determine how well-adopted they are and where they may be gaps, as well as request a copy of the payload in order to get a snapshot in time of their adoption. The CSM should review any customers who do not have usage reporting or provide a payload with their manager to appropriately prioritize them.
+
+Priority 1 customers will continue to have monthly cadence calls, with the exception of newly onboarding customers, who should have weekly syncs for their first 30 days. Priority 2 customers will continue to have quarterly cadence calls.
+
 ### Scale Accounts
 The Scale Account prioritization model will be defined in FY23Q1.
 
