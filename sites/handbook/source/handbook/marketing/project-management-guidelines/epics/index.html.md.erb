@@ -18,16 +18,16 @@ title: "Epics project management guidelines"
 ### Key things to know
 
 1. Epics are defined at the group level.
-1. Epics can now be made confidential.
+1. Epics can be made confidential.
 1. Epics can contain both issues and epics as children.
-1. Epics can be used as a filter in both issue lists and issue boards.
-1. Epics provide visibility on: child epic and issue status, roadmap timeline (Gantt chart).
+1. Epics can be used as a filter in issue lists and issue boards.
+1. Epics provide visibility on child epics, issue statuses, and the roadmap timeline (Gantt chart).
 1. An epic is visible on a roadmap view if it contains a start or due date - [all marketing roadmap here](https://gitlab.com/groups/gitlab-com/marketing/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened).
 1. Child epics are also visible on a roadmap view, nested under their parent, when they have a start or due date.
-1. The roadmap view provides a timeline of epics as well as completion status of each based on aggregate issue weight completion for issues linked to the epics.
-1. The roadmap view is available on the individual epic and on the group page under `Epics > Roadmap`. The group page view provides additional filtering, sort order and timeline units for display.
-1. An issue can only be assigned to one epic.
-1. Epics can have multiple child epics up to a depth of 7 levels total.
+1. The roadmap view provides a timeline of epics and their completion status based on aggregate issue weight completion for issues linked to the epics.
+1. The roadmap view is available on the individual epic and the group page under `Epics > Roadmap`. The group page view provides additional filtering, sort order, and timeline units for display.
+1. An issue can only be the child of a single epic.
+1. Epics can have multiple child epics up to a depth of seven levels in total.
 
 ### Known Limitations
 
@@ -62,7 +62,7 @@ In order for the roadmap view to be displayed and to provide meaningful visual t
 
 ### Use executive theme labels
 
-All epics that are part of a strategic theme or an OKR should they carry the associated [executive label](/handbook/marketing/project-management-guidelines/labels/#guideline-create-labels-at-the-lowest-possible-level), so that they can be filtered on the roadmap view. Optionally they can also carry one or more of the approved group-level labels.
+All epics that are part of a strategic theme or an OKR should carry the associated [executive label](/handbook/marketing/project-management-guidelines/labels/#guideline-create-labels-at-the-lowest-possible-level), so that they can be filtered on the roadmap view. Optionally they can also carry one or more of the approved group-level labels.
 
 ### Define weight for child issues
 
@@ -75,8 +75,3 @@ It's recommended to [set the relative issue weight](/handbook/marketing/project-
 It can be good practice to highlight issues that need attention or might be at risk before a status review. This information can then be displayed on the roadmap view. For this to work, a [health status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) can be assigned to individual issues.
 
 You can set health status in the UI or with the `/health_status` and `/clear_health_status` [quick actions](https://docs.gitlab.com/ee/user/project/quick_actions.html).
-
-
-
-
-
