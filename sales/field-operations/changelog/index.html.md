@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q4-FY23
 
+### 2023-01-09 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/247))
+
+**[Quote Approvals Update - PAO Approvals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3595)**
+
 ### 2022-12-19 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/238))
 
 **[Win/Loss Reason Code Update](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1827)**
