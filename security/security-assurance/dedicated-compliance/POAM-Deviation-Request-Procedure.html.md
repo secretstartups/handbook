@@ -98,8 +98,8 @@ The following definitions were adopted from the FedRAMP PMO:
 **Vulnerability Issues should remain open with the `FedRAMP DR Status::Open` label applied unless the vulnerability has been remediated.** This allows Security Compliance to keep track of DRs that still impact the FedRAMP environment. 
 
 #### Grouping Multiple Vulnerabilities in a Deviation Request
-Multiple CVEs can be grouped in a single DR if they are Vendor Dependencies for the same container image or package version (e.g. Red Hat ubi8 version 8.6-latest). For other DR types, vulnerabilities can be grouped if **all** of the following criteria are met:
-- The DR is specific to a single unique vulnerability (CVE) impacting multiple images/packages
+Multiple CVEs can be grouped in a single DR if they are Vendor Dependencies for the same container image (e.g. Red Hat ubi8 version 8.6-latest). For other DR types, vulnerabilities can be grouped if **all** of the following criteria are met:
+- The DR is specific to a single unique vulnerability (CVE) impacting multiple images
 - All vulnerabilities have the same DR type and justification (e.g. all are false positives in RedHat ubi8 base image used by multiple GitLab container images)
 - The DR makes it clear which GitLab application components are impacted (for dependencies, specify all CNG container images or omnibus components that are impacted)
 
