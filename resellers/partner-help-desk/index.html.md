@@ -191,11 +191,11 @@ When updating the Account Owner on a partner account, make sure to also update t
 
 
 #### Channel Solutions Architects
-- AMER: Scott Brightwell (manager), Bart Zhang, Jeremy Chen (GSIs)
+- AMER: Bart Zhang, Matt Genelin, Jeremy Chen (GSIs)
 - APAC: Samer Akkoub
+   - Japan: Tsukasa Komatsubara
 - EMEA: Peter Bozso, Christoph Leygraf
-- Japan: Tsukasa Komatsubara
-- US-PubSec - Ana Desai, Pete Raumann
+- US-PubSec: Ana Desai, Pete Raumann
 
 
 ### Channel Manager Opportunity Ownership
