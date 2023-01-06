@@ -125,7 +125,24 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
 1. If you have not been notified by the recruiter that there is a family relationship in play, there is now a field in the 'Offer Details' that will show whether a relationship exists. There should also be a *Family Member* tag on their profile. It, however, will not show who that family member is.
 1. The Recruiter will post the name of the family member in the Private Notes within the Greenhouse profile. If not there, the CES will reach out to the recruiter to find out who the current GitLab team member is.
 1. Once the family member is identified, you will send the [Family Member Relationship Acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) via DocuSign to the new hire as well as the GitLab team member for signing.
+1. Drag and drop the Family Member Relationship Acknowledgement form on DocuSign.
+1. Add recipients using the following order:
+- #1 GitLab Team Member (needs to sign)
+- #2 New Hire (needs to sign)
+- #3 CES (receives a copy)
 1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members Workday profile.
+1. Upload Family Member Relationship Acknowledgement form into Workday.
+   - Sign into Workday
+   - Search the new hire's name
+   - Click on the Personal Link on left side of screen
+   - Select "Documents"
+   - Select "Add"
+   - Click "Select Files" and choose appropriate saved PDF
+   - Select "OK"
+   - Under "Document Category" select "Contracts & Changes"
+   - Under "Comment" write "Family Member Relationship Acknowledgement"
+   - Upload
+   - Repeat same steps above this time finding the GitLab team member in Workday
 
 ### How to Update a Start Date After the Contract is Signed
 
