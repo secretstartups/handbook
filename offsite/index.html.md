@@ -140,31 +140,52 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 **Q1 Offsite**
 1. E-Group Offsite Month: April
 1. Following Board Meeting Month: June
-1. Finish annual [**Strategy**](/company/strategy/) review
-1. Start [**Yearlies**](/company/offsite/#recurring-discussion-topics)
+1. Finish the review of [**Three Year Strategy**](/company/strategy/) (1 day)
+1. Start [**Yearlies**](/company/yearlies/) (50 minutes)
 1. Non-product **Engineering** review, e.g. architecture, infrastructure
+1. [**CEO Assessment** from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) (2x session per year, 25 min per session)
 
 **Q2 Offsite**
 1. E-Group Offsite Month: June
 1. Following Board Meeting Month: September
-1. 3-year Long Range Outlook (**LRO**) financial model including scenarios, capabilities and dependencies
-1. Finish [**Yearlies**](/company/offsite/#recurring-discussion-topics)
-1. **Talent** strategy including succession planning
+1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) including scenarios, capabilities and dependencies
+1. Finish [**Yearlies**](/company/yearlies/) (1.5 hrs)
+1. [**Talent** assessment and succession planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
 **Q3 Offsite**
 1. E-Group Offsite Month: October
 1. Following Board Meeting Month: December
-1. Fiscal year (FY) **Budget** review including workstreams and final decisions
+1. Start [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets and kick off the work streams to get to a final annual plan a quarter later.
 1. Go-to-market (**GTM**) learnings 
 1. **Org** design
+1. [**CEO Assessment** from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) (2x session per year, 25 min per session)
 
 **Q4 Offsite**
 1. E-Group Offsite Month: January
 1. Following Board Meeting Month: March
-1. Final FY **Plan** that includes the budgets 
-1. Start annual [**Strategy**](/company/strategy/) review
+1. Final [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets 
+1. Start annual review of [**Three Year Strategy**](/company/strategy/) (0.5 day)
 1. Product **Roadmap** including competitive differentiation
-1. **Talent** strategy including succession planning
+1. [**Talent** assessment and succession planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+
+### Recurring discussion topics
+
+In addition to the topics from the [Topic Calendar](https://about.gitlab.com/company/offsite/#offsite-topic-calendar) above, these topics are discussed at every E-Group offsite: 
+
+1. Reviewing action items from the last offsite
+1. Offsite peer feedback session (10 minute prep, 3 minute sessions, 10 minute closing conversation) (50 minutes)
+1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
+    1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
+1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
+1. Spend prioritization discussion (50 minutes)
+1. [E-Group OKR Draft Review meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting) (50 minutes)
+
+### Pre-offsite discussion topics
+
+These topics are discussed by E-Group before the offsite:
+
+1. Review of [Top Annual Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
 
 ## Timeline
 
@@ -232,28 +253,6 @@ If you are the person who owns a topic, you are responsible for:
 1. The conversation is being managed toward your desired outcome.
 1. Encouraging folks to stick to the agenda rather than speaking out of order. 
 1. The conversation includes all folks who want to contribute. This may mean actively encouraging folks to participate if they have not spoken and may have an item to add.
-
-### Recurring discussion topics
-
-There are some topics discussed at every E-Group offsite.
-These include:
-1. Reviewing action items from the last offsite
-1. Offsite peer feedback session (10 minute prep, 3 minute sessions, 10 minute closing conversation) (50 minutes)
-1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
-    1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
-1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
-1. Spend prioritization discussion (50 minutes)
-1. [E-Group OKR Draft Review meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting) (50 minutes)
-1. [2x per year] [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
-1. [2x per year] [CEO Assessment from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) in Q1 and Q3 (25 minutes)
-1. [Annual] [Annual Strategy Review](/company/strategy/) (~1 day)
-1. [Annual] Yearlies (2 to 3 hours)
-    1. Yearlies are the annual goals for the company. Yearlies are informed by the [strategy](https://about.gitlab.com/company/strategy/). Like [Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/), each yearly is aligned to one of the three pillars of the [three year strategy](/company/strategy/#three-year-strategy) and each strategic pillar is aligned to at least one yearly.
-
-### Pre-offsite discussion topics
-
-1. Review of Top Annual Cross-Functional Initiatives. [Top Cross-Functional Initiatives in FY23](/company/team/structure/working-groups/#top-cross-functional-initiatives) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
-1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
 
 ### Team norms
 
