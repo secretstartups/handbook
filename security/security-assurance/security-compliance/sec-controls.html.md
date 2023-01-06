@@ -39,7 +39,7 @@ graph TD;
     GCF-->Team2;
 ```
 
-As our security compliance goals and requirements have evolved so have our requirements and constraints related to our security control framework. The latest iteration of our GCF is based on the [Secure Control Framework by ComplianceForge](https://www.complianceforge.com/scf/) since the SCF comes with extensive and reliable compliance and regulatory framework mappings.
+As our security compliance goals and requirements have evolved so have our requirements and constraints related to our security control framework. Our GCF is currently based on the [Secure Control Framework by ComplianceForge](https://www.complianceforge.com/scf/), but our next GCF iteration will be based on NIST SP 800-53 since NIST SP 800-53 is the industry-recognized standard.
 
 ## Security Control Lifecycle
 
@@ -52,10 +52,10 @@ GCF security controls assessed at system level are based upon the system's [crit
 
 |Tier |	GCF Control Scope |	ZenGRC Link|
 |--|--|--|
-|Tier 1 Product|	All Key Security Controls| [Link](https://gitlab.zengrc.com/sor/listing/controls?p=eyJzb3IiOnsicGFnZVNpemUiOjIwMCwiY29sdW1ucyI6WyJ0aXRsZSIsInNsdWciLCJvd25lcnNHcm91cCIsImtleUNvbnRyb2wiLCJjYV9fMTE2IiwiY3JlYXRlZEF0IiwiZGVzY3JpcHRpb24iLCJzdGF0dXMiLCJjYV9fMTEyIiwibWFwcGluZ3MucHJvZ3JhbXMiLCJhc3Nlc3NtZW50cyJdLCJjb2x1bW5TaXplcyI6W3sibmFtZSI6InRlc3RQbGFuIiwic2l6ZSI6Mzc0fSx7Im5hbWUiOiJtYXBwaW5ncy5wcm9ncmFtcyIsInNpemUiOjM4MX1dLCJmaWx0ZXJzIjp7IkFORCI6W3siZiI6InN0YXR1cyIsIm8iOiI9IiwidiI6IkZpbmFsIn0seyJmIjoiY2FfXzExNiIsIm8iOiI9IiwidiI6IlN5c3RlbSJ9LHsiZiI6ImtleUNvbnRyb2wiLCJvIjoiPSIsInYiOiJLZXkifV19fX0%3D&page=1)|	
-|Tier 1 Business|	Highest Risk Security Controls | [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|	
-|Tier 2 Core|	Highest Risk Security Controls| [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|	
-|Tier 2 Support|	Highest Risk Security Controls| [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|
+|Tier 1 Product | All Key Security Controls| [Link](https://gitlab.zengrc.com/sor/listing/controls?p=eyJzb3IiOnsicGFnZVNpemUiOjIwMCwiY29sdW1ucyI6WyJ0aXRsZSIsInNsdWciLCJvd25lcnNHcm91cCIsImtleUNvbnRyb2wiLCJjYV9fMTE2IiwiY3JlYXRlZEF0IiwiZGVzY3JpcHRpb24iLCJzdGF0dXMiLCJjYV9fMTEyIiwibWFwcGluZ3MucHJvZ3JhbXMiLCJhc3Nlc3NtZW50cyJdLCJjb2x1bW5TaXplcyI6W3sibmFtZSI6InRlc3RQbGFuIiwic2l6ZSI6Mzc0fSx7Im5hbWUiOiJtYXBwaW5ncy5wcm9ncmFtcyIsInNpemUiOjM4MX1dLCJmaWx0ZXJzIjp7IkFORCI6W3siZiI6InN0YXR1cyIsIm8iOiI9IiwidiI6IkZpbmFsIn0seyJmIjoiY2FfXzExNiIsIm8iOiI9IiwidiI6IlN5c3RlbSJ9LHsiZiI6ImtleUNvbnRyb2wiLCJvIjoiPSIsInYiOiJLZXkifV19fX0%3D&page=1)|	
+|Tier 1 Business | Highest Risk Security Controls | [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|	
+|Tier 2 Core | Highest Risk Security Controls| [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|	
+|Tier 2 Support | Highest Risk Security Controls| [Link](https://gitlab.zengrc.com/sor/info/Program/15/mapped/Control?listing.relevant_to=Program%3A15&listing.context=MAPPED&listing.fields=slug%2Ctitle%2Cdescription&listing.page_size=100)|
 |Tier 3 / Non-critical|	Not Evaluated| N/A |	
 
 ## Control Ownership
@@ -66,13 +66,13 @@ Process Owner - Supports the operation of the control and carries out the proces
 
 ## Security Control Changes
 
-The GitLab Security Compliance team is responsible for ensuring the consistency of the documentation of the security controls listed below. While normally we welcome any GitLab team-member to make edits to handbook pages, please be aware that even small changes to the wording of any of these controls impacts how they satisfy the requirements for the security frameworks they map to. Because of this, we ask any changes that need to be made to this page and the underlying guidance pages to start with a message in the [#sec-assurance](https://slack.com/app_redirect?channel=sec-assurance) slack channel. The compliance team will then engage with you and make any appropriate changes to these handbook pages.
+The GitLab Security Compliance team is responsible for ensuring the consistency of the documentation of the security controls listed below. While normally we welcome any GitLab team member to make edits to handbook pages, please be aware that even small changes to the wording of any of these controls impacts how they satisfy the requirements for the security frameworks they map to. Because of this, we ask any changes that need to be made to this page and the underlying guidance pages to start with a message in the [#sec-assurance](https://slack.com/app_redirect?channel=sec-assurance) slack channel. The compliance team will then engage with you and make any appropriate changes to these handbook pages.
 
 ## GitLab IT General Controls (ITGCs) 
 
 ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Compliance](https://internal-handbook.gitlab.io/handbook/finance/sox-internal-controls/) (internal only) for details. 
 
-# List of controls by family:
+# List of SCF controls by family:
 *We are continuing to update the controls with additional details*
 
 <details markdown="1">
@@ -446,6 +446,213 @@ ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Complia
 | VPM-07 | Penetration Testing | Conduct penetration testing on systems and web applications. |
 
 </details>
+
+# List of NIST 800-53 controls by family (currently only specific to Dedicated):
+_Detailed sub-controls are included in the various control family pages_
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Access Control (AC) </a></summary> This control family contains controls that cover access to systems, networks, and devices. Controls provide guidance on the implementation of access policies, account management, and topics like user privileges; aiming to lower the risk of unapproved access to a range of systems, devices, or networks. 
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+| AC-1 | Policy & Procedures | Addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AC family. |
+| AC-2 | Account Management | Identification of authorized system users and the specification of access privileges. |
+| AC-3 | Access Enforcement | Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies. |
+| AC-4 | Information Flow Enforcement | Enforce approved authorizations for controlling the flow of information within the system and between connected systems. |
+| AC-5 | Separation of Duties | Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. |
+| AC-6 | Least Privilege | Employ least privilege for specific duties and information systems allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions. |
+| AC-7 | Unsuccessful Login Attempts | The need to limit unsuccessful logon attempts and take subsequent action when the maximum number of attempts is exceeded. |
+| AC-11 | Device Lock | Temporary actions taken when users stop work and move away from the immediate vicinity of information systems but do not want to log out because of the temporary nature of their absences. |
+| AC-17 | Remote Access | Access to organizational information systems by users (or processes acting on behalf of users) communicating through external networks (e.g., the Internet). |
+| AC-18 | Wireless Access | Use authentication protocols that provide authenticator protection and mutual authentication. |
+| AC-19 | Access Control for Mobile | Protection and control of mobile devices requires users to take physical action to protect and control such devices when outside of controlled areas. |
+| AC-20 | Use of External Systems | Identify external systems that are used by but not part of organizational systems and for which the organization has no direct control over the implementation of required controls or the assessment of control effectiveness. |
+| AC-21 | Information Sharing | Information that may be restricted in some manner based on some formal or administrative determination. |
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Awareness & Training (AT) </a></summary> This control family helps to ensure users of information systems are adequately trained to identify threats. A particular focus is improving awareness of different operational risks and threats to privacy or system security. Requirements around the creation of training policy, records, and feedback helps to fine-tune the organization’s approach to cybersecurity training.
+
+| Control | Title | Description |
+|---------|-------------|---------------|
+| AT-1 | Policy & Procedures | Establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AT family. |
+| AT-2 | Literacy Training and Awareness | Provide security awareness training that includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. |
+| AT-3 | Role-based Training | Training based on the assigned roles and responsibilities of individuals as well as the security and privacy requirements of organizations and the systems to which personnel have authorized access, including technical training specifically tailored for assigned duties. |
+
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Audit and Accountability (AU) </a></summary> This control family provides guidance on procedures for event logging and auditing. Controls cover the baseline content of audit records, the capacity of log storage, and the process for monitoring and reviewing logs. Log audits are an important part of identifying the cause of breaches or system issues, and are a tool for accountability.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+| AU-1 | Policy & Procedures | Establishment of audit and accountability policy and procedures that address the controls in the AU family implemented within systems and organizations. | 
+| AU-3 | Content of Audit Records | Audit record content that may be necessary to support the auditing function of event outcomes including indicators of event success or failure and event-specific results, such as system security and privacy posture after the even occurred. |
+| AU-4 | Audit Log Storage Capacity | Allocating audit log storage capacity to accommodate organization-defined audit log retention requirements. |
+| AU-6 | Audit Record Review, Analysis, and Reporting | Review and analysis system audit records for indications of organization-defined inappropriate or unusual activity and the potential impact. |
+| AU-8 | Time Stamps | Generating time stamps for audit records. |
+| AU-9 | Protection of Audit Information | Protection of audit information on technical protection and limiting the ability to access and execute audit logging tools to authorized individuals. |
+| AU-11 | Audit Record Retention | Retaining audit records for organization-defined time period consistent with records retention policy to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements. |
+| AU-12 | Audit Record Generation | Audit record generation for the event types the system is capable of auditing. |
+| AU-14 | Session Audit | Session auditing implemented to reveal information about individuals that may give rise to privacy risk as well as how to mitigate those risks. |
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Assessment, Authorization, and Monitoring (CA) </a></summary> This control family focuses on the continuous monitoring and improvement of security and privacy controls. It covers the creation of an assessment plan and the delegation of the team to carry out control assessment. Controls also cover the creation of a plan of action and milestones (POAM), an integral document for identifying and fixing vulnerabilities or weaknesses.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+| CA-1 | Policy & Procedures | Establishment of assessment, authorization, and monitoring policy and procedures that address the controls in the CA family implemented within systems and organizations. | 
+| CA-2 | Control Assessments | Selection of assessors with the required skills and technical expertise to develop effective assessment plans to determine the accuracy and completeness of whether the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting requirements. | 
+| CA-3 | Information Exchange | System information exchange requirements between two or more systems. | 
+| CA-5 | Plan of Action and Milestones | Plano f action and milestones to track planned remedial actions. | 
+| CA-6 | Authorization | Authorizing officials responsible and accountable for security and privacy risks associated with the operation and use of organizational systems. | 
+| CA-7 | Continuous Monitoring | Continuous monitoring facilitating ongoing awareness of the system security and privacy posture to support organizational risk management decisions. | 
+| CA-8 | Penetration Testing | Specialized testing to identify vulnerabilities that could be exploited by adversaries. | 
+| CA-9 | Internal System Connections | Connections between organizational systems and separate constituent system components. | 
+
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Configuration Management (CM) </a></summary> This control family focuses on the configuration of software and devices on the network. Controls cover the creation of a configuration policy, the creation of a baseline configuration of the system, and the management of unauthorized configuration or devices. Configuration controls lower the risk of unauthorized hardware or software being installed on the system, or vulnerabilities caused by changes to settings.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+| CM-1 | Policy & Procedures | Establishment of configuration management policy and procedures that address the controls in the CM family implemented within systems and organizations. | 
+| CM-2 | Baseline Configuration | Documented, formally reviewed, and agreed-upon specifications for systems or configuration items within those systems. | 
+| CM-3 | Configuration Change Control | Systematic proposal, justification, implementation, testing, review, and disposition of system changes, including system upgrades and modifications. | 
+| CM-4 | Impact Analyses | Analysis of changes to determine potential security and privacy impacts prior to change implementation. | 
+| CM-5 | Access Restrictions for Change | Physical and logical access restrictions associated with changes to the system only by qualified and authorized individuals for purposes of initiating changes. | 
+| CM-6 | Configuration Settings | Parameters that can be changed in the hardware, software, or firmware components that affect the security and privacy posture or functionality of the system. | 
+| CM-7 | Least Functionality | To identify and prevent the use of prohibited functions, protocols, ports, and services. | 
+| CM-8 | System Component Inventory | Inventory for effective accountability of system components. | 
+| CM-9 | Configuration Management Plan | Established to satisfy the requirements in configuration management policies while being tailored to individual systems defining processes and procedures for how configuration management is used to support system development life cycle activities. | 
+| CM-10 | Software Usage Restrictions | Software license tracking in accordance with contract agreements and copyright laws. | 
+| CM-11 | User-installed Software | Established policies governing the permitted and prohibited actions regarding software installation by users. | 
+
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Contingency Planning (CP) </a></summary> This control family prepares organizations for system failures and breaches. Controls cover the planning for alternative processing or storage sites and the creation of system backups to help mitigate system downtime. Other controls focus on contingency planning, including training and plan testing. This family of controls is important for mitigating the damage from a system outage or network breach, establishing clear plans to restore normal operation.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Identification and Authentication (IA) </a></summary> This control family controls the reliable identification of users and devices. Different controls focus on different elements of safe user or device authentication. Controls strengthen user management policies, lowering the risk of unauthorized access to the system.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Incident Response (IR) </a></summary> This control family controls all aspects of responding to a serious incident. This includes training and planning for potential incidents, as well as plans for actively monitoring and responding to incidents as they occur. Enhanced controls cover specific types of incidents that distinct organizations might face. Incidents may include data breaches, breakdowns in the supply chain, public relations damage, or malicious code in the system.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Maintenance (MA) </a></summary> This control family deals with all elements of system maintenance, including software updates, logging, and inspection tools. It covers the need for timely maintenance to lower the risk of operational outages, and outlines policy and the management of maintenance personnel.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Media Protection (MP) </a></summary> This control family covers the use, storage and safe destruction of media and files helping to lower the risk of information breaches and leaks.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Physical and Environmental Protection (PE) </a></summary> This control family covers physical access to devices and facilities, and the mitigation of threats to facilities. Controls cover policies for physical access to system controls, including monitoring access and visitors, as well as the monitoring of devices and assets. Other controls cover responses to physical threats, such as emergency lighting or power and the relocation to alternative facilities.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Planning (PL) </a></summary> This control family covers privacy and system security plans (SSPs), including system architecture, management processes, and the setting of baseline system settings.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Program Management (PM) </a></summary> This control family covers all elements of the management of an information system, including a variety of processes, programs, and plans. This includes an information security program plan, risk management strategy, and critical infrastructure plan.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Personnel Security (PS) </a></summary> This control family covers different policies and procedures around the management of personnel. This includes the process for terminating personnel contracts and the relative risk of each position to information security. 
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Personally Identifiable Information (PII) Processing and Transparency (PT) </a></summary> This control family helps to safeguard sensitive data, focusing on consent and privacy. Organizations can lower the risk of data breaches by properly managing personally identifiable information. 
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Risk Assessment (RA) </a></summary> This control family focuses on the assessment of system vulnerabilities and relevant risk. Controls cover the development of risk response procedures, and the use of vulnerability monitoring tools and processes.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">System and Services Acquisition (SA) </a></summary> This control family includes the allocation of resources and the creation of system development life cycles. Controls help organizations create a safe acquisition process for new systems and devices, safeguarding the integrity of the wider system and data. Controls also cover the development and testing process for new systems, including developer training and security processes.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">System and Communications Protection (SC) </a></summary> This control family covers the protection of system boundaries and the safe management of collaborative devices. Controls provide in-depth guidance on set-up and ongoing management of systems, including access, partitions, and usage restrictions.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">System and Information Integrity (SI) </a></summary> This control family focuses on maintaining the integrity of the information system. Controls cover topics like protection from malicious code and spam, and procedures for ongoing system-wide monitoring.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
+<details markdown="1">
+<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Supply Chain Risk Management (SR) </a></summary> This control family covers policies and procedures to counter risks in the supply chain. This includes processes to assess and manage suppliers, and the inspection of supply chain systems and components.
+ 
+| Control | Title | Description |
+|---------|-------------|---------------|
+ 
+</details>
+
 
 ## References
 
