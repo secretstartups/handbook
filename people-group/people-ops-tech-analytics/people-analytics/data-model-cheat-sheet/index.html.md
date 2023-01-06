@@ -38,17 +38,7 @@ _Workday_ is our current HRIS system and single source of truth for employee dat
 
 * [Workday Overview](https://about.gitlab.com/handbook/people-group/workday/workday-guide/)
 
-</details>
 
-#### FAQs
-
-<details markdown="1"><summary>Click to expand</summary>
-
-> Question 1?
-* Answer 1
-
-
-</details>
 
 #### Commonly Used Data Models
 
