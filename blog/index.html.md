@@ -4,17 +4,17 @@ title: "Blog Handbook"
 description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
 ---
 
-Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editors of the blog are Valerie Silverthorne (@vsilverthorne) and Sandra Gittlen (@sgittlen).
+Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editor of the blog is Sandra Gittlen (@sgittlen).
 
 ## We're looking for technical content!
-Engineering-driven content performs very well on our blog, so if you have an idea, please ping @ValSilver on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
+Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
 
 ## Turnaround time
 Our "SLA": The blog team will review all blog post "pitches" within two business days and get back to you with suggestions/go-forward approval. Once a blog draft is received, our goal is to edit _urgent posts_ within one business day and non-urgent posts within three business days. **NB: As of November 2021, all blog posts must still be reviewed by legal, and that could add time to process, just to set expectations. 
 
 If you're just looking for feedback on an idea, Slack us for a same-day turnaround.
 
-And, if you're an edge case not covered by the above, please Slack @ValSilver or @sgittlen.
+And, if you're an edge case not covered by the above, please Slack @sgittlen.
 
 Publishing of blog posts occurs according to an editorial calendar. However, that is subject to change based on news/information that needs to be posted. The blog team will update authors as to their expected publish dates.
 
@@ -49,9 +49,9 @@ The editorial team members are the [directly responsible individuals (DRI) for t
 
 ## How to suggest a blog post
 
-The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sgittlen.
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen.
 
-If your post is time-sensitive, please ping @ValSilver or @sgittlen on Slack. Otherwise the editorial team will reach out to you to discuss timing. 
+If your post is time-sensitive, please ping @sgittlen on Slack. Otherwise the editorial team will reach out to you to discuss timing. 
 
 1. Feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
@@ -85,7 +85,7 @@ We should not proceed to publish the blog post until the partner manager has rec
 
 ### Joint announcements
 
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @sgittlen.
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping @sgittlen.
 
 ### Guest posts by GitLab partners
 
@@ -158,7 +158,7 @@ It is important that our blog content represents our company values of diversity
 ### More DIB writing tips
 
 - Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
-- If you still have questions, don't hesitate to tag the editorial team leads @vsilverthorne or @sgittlen, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
+- If you still have questions, don't hesitate to tag the editorial team lead @sgittlen, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
 
 ## Formatting guidelines
 
