@@ -23,12 +23,16 @@ We define two levels of triage.
 
 ### Partial Triage
 
+The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) is currently responsible for completing partial triage.
+
 An issue is considered partially triaged when all of the following criteria are met:
 
 - Issue has a [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
-  - (For `~"type::bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
 - Issue has a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
 - Issue has a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
+- Issue has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied for `~"type::bug"` and `~"UX Debt"`.
+  - If the Contributor Success team requires more context to accurately apply severity, they should tag the group's corresponding [Software Engineer in Test (SET)](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) to help triage.
+  - For groups with no assigned SET, the group's corresponding [Quality Engineering Manager (QEM)](https://about.gitlab.com/handbook/engineering/quality/#management-team) should be tagged instead.
 
 ### Complete Triage
 
@@ -36,7 +40,7 @@ An issue is considered completely triaged when all of the following criteria are
 
 - It is partially triaged.
 - It has a milestone set.
-- (For `~"type::bug"` and `~"UX Debt"`) It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied.
+- It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied for `~"type::bug"` and `~"UX Debt"`.
 
 ## Priority
 
@@ -65,7 +69,7 @@ Once you've determined a severity for an issue add a note that explains in summa
 
 | Type of `~"type::bug"` | `~"severity::1"`: Blocker | `~"severity::2"`: Critical | `~"severity::3"`: Major  | `~"severity::4"`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
-| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
+| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/). If CS team needs assistance, [SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or [QEM](https://about.gitlab.com/handbook/engineering/quality/#management-team) for that product group. |
 | `~"bug::performance"` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/) |
