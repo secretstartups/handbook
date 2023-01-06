@@ -30,7 +30,6 @@ Some UX teams have documented detailed information about their ways of working a
     * Configure and Monitor (`@gitlab-com/gitlab-ux/configure-monitor-ux`)
         * [Configure](/direction/configure/)
         * [Monitor](/direction/monitor/)
-* [Enablement](/handbook/product/ux/stage-group-ux-strategy/enablement/) (`@gitlab-com/gitlab-ux/enablement-ux`)
 * [Sec](/direction/security/)
     * [Secure and Govern](/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
 * Fulfillment and Growth UX
