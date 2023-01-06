@@ -156,7 +156,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - Corp DRI creates, assigns to Verticurl
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI
 * [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
-* [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@vsilverthorne) 
+* [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@sgittlen) 
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - Corp DRI creates, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, assigns to Corp DRI and MOps
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
