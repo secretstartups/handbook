@@ -222,6 +222,37 @@ The CEO's Quarterly Kickoff Slides usually cover:
 - Sharing of this new quarters OKRs
 - Marathon Slide (as needed)
 
+### Timeline for the Quarterly Kickoff
+
+1. First week of the last month of the current quarter - pick the date in the first month of the next quarter for the kickoff. Work with internal comms to validate this date and schedule an AMA the Wednesday which follows with the appropriate invite list
+1. Second week of the last month of the current quarter - begin [preparing the slides](#how-to-prepare-the-slides) and internal comms announcement
+   1. [FY23-Q4 Quarterly Kickoff](https://docs.google.com/presentation/d/1ItrJIJWIwnDQ13KNtuBDFRTdSa6nLpAeBXa4vi4i4ws)
+   1. Once done with an initial iteration, solicit feedback from the Chief of Staff to the CEO as well as any other colleagues who can help
+   1. Include the timeline, logistics, and draft message for the internal comms announcement
+       - [Example from the FY23-Q4 Quarterly Kickoff](https://docs.google.com/document/d/1a2C3h24wvYn4qYpNKNnweW-Wx1BQ4ZRX50StO7XmbkU)
+1. Third of the last month of the current quarter - schedule three review/recording sessions with the CEO for this week and next for the slides and announcement
+   1. Once the recording dates are more certain, file a [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request) with the Digital Production team so they can prepare to merge the slides and the video together.
+      - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/339)
+    1. Reach out to the Learning and Development team, specifically [Satu Salminen](https://gitlab.com/ssalminen) and [Jamie Allen](https://gitlab.com/jallen16), to let them know this is coming to be posted on `Level Up`
+    1. After the first review session and the majority of the feedback is addressed, use the [Single material legal review process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/#track-1-single-material-legal-review-process) to get Legals review of the content and announcement
+       - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1237)
+    1. Use the following settings in Zoom to record. It is best for the recorder to own the Zoom link in the invite otherwise the recorder needs to be granted permission.
+        1. Pin the CEO
+        1. Change `View` to `Speaker`
+        1. Enable `Hide Self View`
+        1. Enable `Hide Non-video participants`
+        1. Ask everyone except the CEO to mute their audio/video
+        1. Click `Record` -> `Record on this Computer`
+    1. After the recording has been made share the raw recording with Legal for quick feedback
+    1. Review the recording and in the speaker notes of the slides add the appropriate timestamps for the Digital Production team to use to show the correct slide in the video
+    1. Update the issue with the Digitial Production team to link to the video and slides. Makes sure permissions are correct so they are only shared with the needed DRIs.
+    1. Once the video is returned, review it for correctness. Once reviewed, ask for Legal's final sign off.
+    1. Reach out to the Learning and Development team, specifically [Satu Salminen](https://gitlab.com/ssalminen) and [Jamie Allen](https://gitlab.com/jallen16), to and share the video with them so they can post it to `Level Up`. They will share a special URL which will authenticate folks via Okta if they are not already authenticated. Make sure to use this URL when sharing. For example, FY23-Q4's Quarterly Kickoff URL was: 
+    [`https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff`](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff)
+    1. Update the comms with the correct links
+1. Fourth week of the last month of the current quarter - ensure time is scheduled for the following Monday (or Tuesday if Monday is a holiday) for the CEO to send the comms
+1. First week of the new quarter - ping the CEO to send the comms on the correct day. Attend the AMA which follows
+
 ### How to prepare the Slides
 
 **Note:** A member of the CoST is the DRI for this but we coordinate with Internal Comms, Legal, and the EBA team to get the slides prepared, recorded, shared, and AMA scheduled.
