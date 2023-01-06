@@ -1,0 +1,37 @@
+## Mission
+To support, maintain, and improve services related to our [PostgreSQL datastores](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#database-architecture).
+
+## Vision
+In support of our mission we'll increase the amount orchastration and automation used in order to reduce toil and make projects more [boring](https://about.gitlab.com/handbook/teamops/decision-velocity/#boring-solutions).
+
+## Ownership
+
+### Services
+Systems and services we are primarily responsible for:
+  * PostgreSQL Core
+  * PostgreSQL High Availability and Load Balancing (e.g. Patroni, PGBouncer, consul, PostgreSQL Replication etc.)
+  * PostgreSQL Disaster Recovery (backup/restore and other techniques)
+  * Database Observability (Prometheus instrumentation, workload analysis etc.)
+  * GitLab Rails application specifics on PostgreSQL
+
+Systems or services explicitly not owned by us:
+  * Redis
+  * Clickhouse
+
+## Performance Indicators
+The signals we use to know that we are achieving our mission:
+  * Related quarterly OKRs (TBC)
+  * Relavent [performance and availability indicators](https://about.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/#performance-indicators)
+
+## Team Members
+TBD
+
+## Key Technical Skills
+The team is comprised of DBREs predominantly, with one to two SREs. So while the key technical skills differ between roles to some extent, there are a common set of skills which both roles require, to differing levels:
+  * Experience supporting PostgreSQL in large production environments.
+  * Infrastucture automation and configuration management using tools such as Chef, Ansible, Terraform, etc.
+  * Knowledge of PostgreSQL internals and SQL/pgSQL.
+
+## Common Links
+* Team backlog: https://gitlab.com/gitlab-com/gl-infra/reliability/-/milestones/95#tab-issues 
+* Slack channel: [#db_squad](https://gitlab.slack.com/archives/C02K0JTKAHJ) 
