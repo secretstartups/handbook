@@ -87,7 +87,7 @@ The customer's team should be included on the project and begin to work collabor
    1. IMPORTANT: This README is customer facing. Please be thorough when filling out sections and use customer presentable language that demonstrates a strong understanding of their needs and requirements.
 10. Invite the customer's team as direct members to the Customer Collaboration Project with 'Developer' role
    1. Discuss with the customer if some of their team members should have the 'Maintainer' role, so that they can manage the users themself.
-11. Subscribe to new issues in the Project and all applicable lables.
+11. Subscribe to new issues in the Project and all applicable labels.
 12. Adjust the Feature Request and Agenda issue Templates in your collaboration project. The other [issue templates are on Group Level](https://gitlab.com/gitlab-com/account-management/sub-group-issue-templates/-/tree/master/.gitlab/issue_templates).
 13. Introduce the customer to the collaboration project.
 
@@ -95,7 +95,7 @@ The customer's team should be included on the project and begin to work collabor
 
 1. Update the the contents of [README](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/README.md) file.
 2. Check the direct members and settings of the Projects.
-3. Subscribe to new issues in the Project and all applicable lables.
+3. Subscribe to new issues in the Project and all applicable labels.
 
 #### General Actions on a Customer Collaboration Project
 
