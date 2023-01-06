@@ -137,6 +137,12 @@ Roles associated with tokens:
 
 1. Storage of a token must be secure. It needs to be encrypted. Recommended methods include usage of a security vault or a key management system. For cloud or self-managed environments this can include Hashicorp Vaults Pro, Amazon KMS or Google Secret Manager. For local (e.g. laptop) storage, encryption is still required, using a password manager is recommended (e.g. 1Password). Copies or backups of tokens must NOT be stored in configuration files, text files, and other plaintext storage methods.
 
+### Token Compromises
+
+1. Compromised tokens must be mitigated immediately. As compromised tokens can lead to various dangers such as disclosure of sensitive data, unauthorized access, and even privilege escalation in some cases, any compromise must be taken seriously. At GitLab the standard is for immediate revocation of the token followed by an investigation to assess potential impact. It is understood that immediate revocation of a compromised token may break existing access and automation. This impact is typically much smaller than the risk associated with a valid token being used by a malicious actor. As it is possible to automate some of the detection methods to assist in detecting a compromised token, these automated detection methods should also include the capability to automate the revocation as well.
+
+2. All methods, procedures, notifications, and automations for mitigating a compromised token need to be fully documented. At GitLab any changes to any processes need to be approved by the Security Department, specifically [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/). Major changes (e.g. potential impact to production) need to be communicated in advance to all relevant parties. 
+
 ### Token Logging and Auditing
 
 1. The lifecycle of a token (creation, attributes, usage, and deletion) must be logged for auditing purposes.
