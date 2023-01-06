@@ -116,7 +116,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1ngcT8QDA-_iFkUe8bWLJ1jpEq9cv9sWMwEFdbtWLY2o/edit#) with: 
+1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.6q7h7ggmpbqd) with: 
    1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable. 
    1. Link to the video of their Group Conversation presentation on GitLab Unfiltered (recommended, but optional).
    1. The host's name.
@@ -256,7 +256,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. It is okay to wait until at least two questions have been entered before starting to answer questions, and allow some time for folks to read the slides at the start of the call.
 1. If someone can't verbalize their question (not in call, driving, audio problems) read it aloud for people watching only the video.
 1. Tone should be informal, like explaining to a friend what happened in the group last month, and shouldn't require a lot of presentation.
-1. It's the responsibility of the team members of the group to ensure the content is distributed, this includes ensuring appropriate notes are taken in the [Group Conversation Agenda](https://docs.google.com/document/d/1ngcT8QDA-_iFkUe8bWLJ1jpEq9cv9sWMwEFdbtWLY2o/edit#)
+1. It's the responsibility of the team members of the group to ensure the content is distributed, this includes ensuring appropriate notes are taken in the [Group Conversation Agenda](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.6q7h7ggmpbqd)
 1. This meeting is scheduled to be 25 minutes long. Please keep an eye on the clock and end the meeting on schedule. This meeting must end no later than 29 minutes after the hour.
 1. It is appropriate to end the call early if there are no more questions. We aim for results, not for spending the time allotted. Please avoid the temptation of presenting slides to fill time.
 1. [Never do a countdown or say something like. "I'll give it x seconds", people are very unlikely to ask a question if you do that. Either ask for a question, wait for a question, or end the call.](/handbook/communication/#dont-do-a-countdown-before-ending-a-call)
@@ -304,8 +304,7 @@ If your GC is optional and you need to move the date, please work with your depa
 ## Current Schedule
 
 | Date | GC or AMA| DRI| Key Review Date? |
-|-----------|-----|--------|--------|
-
+|----|---------|---|--------|
 | Tuesday January 3 | **Available** | DRI | Key Review Date |
 | Wednesday January 4 | **Available** | DRI | Key Review Date |
 | Thursday January 5 | **Available** | DRI | Key Review Date |  
