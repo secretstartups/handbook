@@ -217,25 +217,41 @@ all of our incidents in the [main GitLab project](https://gitlab.com/gitlab-org/
 and add a description of the problem along with any reproduction steps. Add the following labels so that we can track the incidents
 that have impacted composition analysis in the future.
 
+    ```
     <!--
     Select one of the following severities
     Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity
     -->
-    /severity S1 S2 S3 S4
-    /label ~"severity::1" ~"severity::2" ~"severity::3" ~"severity::4"
+    /label ~"severity::1"
+    /severity S1
+
+    /label ~"severity::2"
+    /severity S2
+
+    /label ~"severity::3"
+    /severity S3
+
+    /label ~"severity::4"
+    /severity S4
 
     <!--
     Select one of the following priorities
     Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority
     -->
-    /label ~"priority::1" ~"priority::2" ~"priority::3" ~"priority::4"
+    /label ~"priority::1"
+    /label ~"priority::2"
+    /label ~"priority::3"
+    /label ~"priority::4"
 
     /label ~"section::sec" ~"devops::secure" ~"group::composition analysis" ~"type::bug" ~"bug::availability"
     
-    
+    <!--
+    Select one of the following categories
+    -->
     /label ~"Category:Dependency Scanning"
     /label ~"Category:Container Scanning"
     /label ~"Category:License Compliance"
+    ```
 
 1. Assign the incident to the engineer currently on the maintainership reaction rotation.
 1. Link any related issues or zoom meetings with the [quick actions](https://docs.gitlab.com/ee/operations/incident_management/linked_resources.html#using-a-quick-action) to record incident timeline events. Ensure that an event exists for the incident start,
