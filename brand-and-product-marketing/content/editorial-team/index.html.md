@@ -18,7 +18,6 @@ This part of the handbook is for the blog editorial team. If this isn't you, you
 ## Other related pages
 
 - [Blog handbook](/handbook/marketing/blog/)
-- [GitLab Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
 and [tone of voice guidelines](https://design.gitlab.com/brand/overview/#tone-of-voice)
 
@@ -288,11 +287,7 @@ When responding to the person who pitched, be sure to include your rationale for
 
 ## Sourcing blog posts
 
-In addition to reviewing pitches submitted by team members, the Editorial team also actively sources topics for potential blog posts in the following ways:
-
-### Sweep of Unfiltered channels
-
-- Weekly [review of the GitLab Unfiltered blog](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#featuring-unfiltered-posts) to surface blog posts to bring over to the main blog
+In addition to reviewing pitches submitted by team members, the Editorial team (ping @sgittlen with questions) also actively sources topics for potential blog posts in the following ways:
 
 #### Sweep of Unfiltered YouTube Channel
 -  Twice a month, review the GitLab Unfiltered YouTube channel for videos discussing topics that are popular on the blog, such as Kubernetes, CI/CD, GitOps.
@@ -484,7 +479,7 @@ Note: This principle applies to process changes. Don't worry about pinging every
 
 ### Why use the blog style guide?
 
-The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@vsilverthorne) or open a merge request with your suggested update and ping the team there.
+The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@sgittlen) or open a merge request with your suggested update and ping the team there.
 
 If you're looking for tips to improve your writing and storytelling, please see Writing blog posts – best practices below.
 
