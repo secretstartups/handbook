@@ -545,10 +545,41 @@ The sales nominated process allows for records to be added to the campaign in or
 - An in person pre-event booth meeting is to be scheduled by event DRI the day before or morning of the event and is to held within the booth. All event attendees should be in attendance. The event DRI should have this added as a calendar invite on the attendees calendar and should include the event venue, address, booth number, and link to the event issue within the calendar invite. 
 
 ##### Booth presentation material 
-* [Standard pitch deck](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7)
-* [Generic Marketing Reel](https://docs.google.com/presentation/d/1mpKjngTzYvvoAeV-uk3NSt9EuAdEgytabXRIiq_a56U/edit?usp=sharing)
-* [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa)
-* [Visual of DevOps stages](https://docs.google.com/presentation/d/1PoJaXkhzSKbhPOc6Hc1uccYP9hLczHTxp6elyqMtp64/edit#slide=id.g149430ecd5f_0_3998) - please confirm in the #product-marketing slack room if this is up to date before using 
+- [Standard pitch deck](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7)
+- [Generic Marketing Reel](https://docs.google.com/presentation/d/1mpKjngTzYvvoAeV-uk3NSt9EuAdEgytabXRIiq_a56U/edit?usp=sharing)
+- [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa)
+- [Visual of DevOps stages](https://docs.google.com/presentation/d/1PoJaXkhzSKbhPOc6Hc1uccYP9hLczHTxp6elyqMtp64/edit#slide=id.g149430ecd5f_0_3998) - please confirm in the #product-marketing slack room if this is up to date before using 
+- [What is GitLab?](https://www.youtube.com/watch?v=-_CDU6NFw7U)
+- [GitLab Infomercial Video](https://www.youtube.com/watch?v=gzYTZhJlHoI) 
+- [Ebook - Scaled-CI-CD](/uploads/943e0e01dbcce9f014da1189997575a3/gitlab-scaled-ci-cd-.pdf)
+- [Ebook - Remote Playbook](/uploads/34642ae8653ed51280dde1a9c7385add/remote-playbook.pdf)
+- [Whitepaper - Reduce Cycle Time to Deliver Value](/uploads/ede3b3e00db838518bd29845ba9a7507/source_resources_downloads_201906-whitepaper-reduce-cycle-time.pdf)
+- [The Forrester Wave - Cloud-Native Continuous Integration Tools](/uploads/9ad85130be17d9ced05647283d738f40/The_Forrester_Wave___Cloud-Native_Continuous_Integration_Tools__Q3_2019.pdf)
+- [Ebook - 2020 DevSecOps Report](/uploads/cc655c78ad1a23ce8ade736c4d3c2311/2020-devsecops-report.pdf)   
+- [Video - Making the case for CI/CD in your organization](https://www.youtube.com/watch?v=MqxcGV9NT8k&feature=emb_logo)  
+- [Use Case - NVIDIA - How GitLab Geo supports NVIDIA's innovation](https://about.gitlab.com/customers/Nvidia/)
+- [Solution Brief - GitLab on AWS](/uploads/74879d7fa7e1919948d9674d6e4be315/source_resources_downloads_GitLab_AWS_Solution_Brief.pdf)
+- [Solution Brief - GitLab on GCP](/uploads/d830cb6d747573e252c5a6520884010a/source_resources_downloads_GitLab_GCP_Solution_Brief.pdf)
+- [A Seismic Shift in Application Security whitepaper](/uploads/fd88f354f9f25bd5a73dab555b26a1dc/gitlab-seismic-shift-in-application-security-whitepaper.pdf)
+- [DevSecOps Solutions Page](https://about.gitlab.com/solutions/dev-sec-ops/)
+- [GitLab — A single application for your entire software development lifecycle](https://www.youtube.com/watch?v=yjxrBSllNGo)
+- [The Benefits of a Single DevOps Platform](https://www.youtube.com/watch?v=MNxkyLrA5Aw)
+
+##### PubSec booth presentation material
+- [GitLab’s Hardened Container Image for Secure Software Development](https://docs.google.com/document/d/1Rl0050Z-PYogJAraHNdLPvgpwAmqlJ7-81PpCMpw_Fw/edit#)
+- [PubSec Capabilities Statement](https://about.gitlab.com/images/press/gitlab-capabilities-statement.pdf)
+- [Speed to Mission (whitepaper)](https://about.gitlab.com/resources/whitepaper-speed-to-mission/)
+- [The Hidden Costs of DevOps Toolchains (with guest speaker from Forrester)](https://about.gitlab.com/webcast/simplify-to-accelerate/)
+- [DevOps Powering Your Speed to Mission (webcast)](https://about.gitlab.com/webcast/devops-speed-to-mission/)
+- [Mission Mobility: A DevSecOps Discussion (webcast)](url)
+- [Government Matters Technology Leaders Innovation Series: Low-to-High Collaboration (with Marc Kriz) (video)](https://www.youtube.com/watch?v=RvZSTCbPkiE&feature=youtu.be)
+- [Modernizing Government IT through DevOps (whitepaper)](https://about.gitlab.com/resources/whitepaper-modernizing-government-it/)
+- [Cross Domain DevSecOps: Low-to-High Side Collaboration](https://drive.google.com/file/d/1ewgLvmlfg3f0CVE3B6mu9wRtgK-TcORz/view)
+- [DevSecOps: How Proactive Security Integration Reduces Your Agency's Risks & Vulnerability](https://gcn.com/whitepapers/2020/06/gitlab-devsecops-wp-060120.aspx?&pc=G0136GCN&utm_source=webmktg&utm_medium=E-Mail&utm_campaign=G0136GCN)
+- [Hardened Containers: The Right Application Platform Can Help DoD Develop Its DevSecOps Culture](https://drive.google.com/file/d/1cszlj5fKFE12qFd4aMNij0a83v-3Fe4r/view)
+- [VPAT Template](https://docs.google.com/document/d/1o6gCe2Se_Cuia-VsrUTdGvESNZVefyoqFAu1NY8rJpQ/edit)
+- [What is GitLab? Speed. Efficiency. Trust](https://www.youtube.com/watch?v=-_CDU6NFw7U&list=PL05JrBw4t0KpEQDAhM3Txia7QHdYlngMa&index=2&t=16s)
+- [A Beginner's Guide to GitOps](https://learn.gitlab.com/c/beginner-guide-gitops?x=H2TMk5&utm_medium=email&utm_source=marketo&utm_campaign=iacgitops&utm_content=beginnerguidegitops&mkt_tok=MTk0LVZ
 
 ##### Quick Booth quality check
 
