@@ -347,7 +347,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday April 4 | **Available** | DRI | Key Review Date |
 | Wednesday April 5 | **Available** | DRI | Key Review Date |
 | Thursday April 6 | **Available** | DRI | Key Review Date? |  
-| Tuesday April 11 | **Available** | DRI | Key Review Date? |
+| Tuesday April 11 | CRO - Commercial | COMM Leadership |  |
 | Wednesday April 12 | **Available** | DRI | Key Review Date? |
 | Thursday April 13 | Product | Product Leadership | March 21 |   
 | Tuesday April 18 | **Available** | DRI | Key Review Date? |
@@ -377,7 +377,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday June 13 | **Available** | DRI | Key Review Date |
 | Wednesday June 14 | **Available** | DRI | Key Review Date |
 | Thursday June 15 | **Available** | DRI | Key Review Date |  
-| Tuesday June 20 | **Available** | DRI | Key Review Date |
+| Tuesday June 20 | CRO - Enterprise | ENT Leadership |  |
 | Wednesday June 21 | **Available** | DRI | Key Review Date |
 | Thursday June 22 | Product | Product Leadership | June 15 |  
 | Tuesday June 27 | **Available** | DRI | Key Review Date |
@@ -389,7 +389,9 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 20 | People | Wendy Barnes | July 11  
 | Thursday July 27 | IT | Craig Mestel | July 19 |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
+| Tuesday September 12 | CRO - Commercial | COMM Leadership | |
 | Thursday October 19 | People | Wendy Barnes | October 11 |
+| Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
 | December 5 | IT | Craig Mestel | November 28 |
 
