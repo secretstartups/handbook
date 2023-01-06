@@ -123,6 +123,7 @@ Please note, it takes several hours for Coupa to activate the supplier and be ab
 ### Step 3: Create Coupa Requisition
 1. Is this request for a **software renewal/add-on**? Or for **professional services**? 
     - If yes, begin by selecting the appropriate request “Form”, found in the Forms dropdown in the upper right of Coupa.
+        - For any **software renewal/add-on** that is based on usage (e.g. user quantities), a usage report must be provided to Procurement for review when the Coupa Req is created. Based on the usage report, Procurement will review the need to increase, decrease, or hold quantities flat. 
     - Software renewals and [professional service](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form?) requests that do NOT have this form completed will be rejected, causing delays to your timeline.
     - Once your form is completed, proceed to Cart and complete a request with necessary information.
 1. Do you need a Virtual Card payment method for your supplier?
