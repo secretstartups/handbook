@@ -74,7 +74,8 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Quarter Started/Starting: FY23-Q1
 1. Project Matterhorn
    1. DRI / Sponsor: @justinfarris / @david
-   1. Description: [Limited access](/handbook/communication/confidentiality-levels/#limited-access) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
+   1. Description: [Limited access](/handbook/communication/confidentiality-levels/#limited-access) 
+   1. [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
    1. Quarter Started/Starting: FY23-Q1
 1. AWS/GCP Partnerships
