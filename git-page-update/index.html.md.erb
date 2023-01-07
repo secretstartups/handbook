@@ -219,7 +219,7 @@ For more in-depth details on setting up and using the local development environm
 We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/onboarding/#sync-to-team-page) will add a basic entry for you on our team page on your third day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
 Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.
-1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-the-web-ide)
+1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1A-add-your-info-on-gitlabcom-using-the-web-ide) or [Web IDE Beta]((https://about.gitlab.com/handbook/git-page-update/#method-1B-add-your-info-on-gitlabcom-using-the-web-ide-beta))
 2. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
 3. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
 
@@ -239,32 +239,54 @@ Choose the method below that feels most comfortable and have the following infor
   > * The image file should be located in the folder `sites/uncategorized/source/images/team/`
   > * Name file `yournameinlowercase` and add the appropriate file extension.
 * Story about your background and interests. (See other team member profiles for examples.)
-* Add your personal LinkedIn / Twitter / GitLab handles. Make sure to only include your username without any links or `@` in front of them. ie. `LinkedIn: username`. Some incorrect examples are: `LinkedIn: linkedin.com/in/username`, `LinkedIn: @username`
+* Add your personal LinkedIn / Twitter / GitLab handles. Make sure to only include your username without any links or `@` in front of them. ie. `LinkedIn: username`. (Some incorrect examples are: `LinkedIn: linkedin.com/in/username`, `LinkedIn: @username`.)
 * A relative link to your role. If your link is `https://about.gitlab.com/job-families/engineering/support-engineer/` use `/job-families/engineering/support-engineer/`. Refer to other entries for reference.
 
-### Method 1: Add your info on GitLab.com using the Web IDE
+### Method 1A: Add your info on GitLab.com using the Web IDE
 
 _Please be aware that the path to the images folder in this video is out of date and is now `sites/uncategorized/source/images/team/`, as stated in the instructions below._
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/J0uZYxGGerE" width="560" height="315"></iframe></figure>
 
-  1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` on Workday for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
-  1. Click on the avatar above your name (or job title). A modal will open.
-  1. In that modal, on the bottom, click `Edit in Web IDE`
-  1. Our web editor will open with your team page entry opened.
-  1. <%= partial "team-page-fields" %>
-  1. To upload your image - Select the upload file button on the left handside (An example of this can be found starting at 9:29 in the youtube video above.)
-     1. Select the image you want to upload and it will upload to the root file.
-     1. Navigate to the image you have uploaded by scrolling down on the left handside.
-     1. Hover over the image and select the `v` button and pick Rename/Move.
-     1. You will rename the image to `sites/uncategorized/source/images/team/yournameinlowercase.jpg` for example `sites/uncategorized/source/images/team/ashleyjameson.png` This will move the file to the correct location.
-     1. Now you will navigate back to your team page entry and verify the `picture` field is set to the filename. Make sure to match letter case. The completed line should look like this: `picture: yournameinlowercase.jpg`.
-  1. Once you have finished this, click the `Commit` button in the bottom left. It will say `2 changed files` underneath the button. This will bring up a sidebar with a `Changes` area.
-  1. Check the files to ensure your updates are what you expect.
-  1. Once you have verified all of the edits, enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
-  1. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
-  1. Fill out the merge request details and assign your manager as reviewer. If your manager does not have access to merge your MR based on the permissions described above, then please reference the specific members page for the www-gitlab-com project for review.  Check the `Delete source branch when merge request is accepted` box to cleanup your merge request when complete. Click `Submit merge request` to submit the MR for review.
+1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` in Workday for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
+1. Click on the avatar above your name (or job title). A modal will open.
+1. In that modal, on the bottom, click `Edit in Web IDE`
+1. Our web editor will open with your team page entry opened.
+1. <%= partial "team-page-fields" %>
+1. To upload your image - Select the upload file button on the left handside (An example of this can be found starting at 9:29 in the youtube video above.)
+  1. Select the image you want to upload and it will upload to the root file.
+  1. Navigate to the image you have uploaded by scrolling down on the left handside.
+  1. Hover over the image and select the `v` button and pick Rename/Move.
+  1. You will rename the image to `sites/uncategorized/source/images/team/yournameinlowercase.jpg` for example `sites/uncategorized/source/images/team/ashleyjameson.png` This will move the file to the correct location.
+  1. Now you will navigate back to your team page entry and verify the `picture` field is set to the filename. Make sure to match letter case. The completed line should look like this: `picture: yournameinlowercase.jpg`.
+1. Once you have finished this, click the `Commit` button in the bottom left. It will say `2 changed files` underneath the button. This will bring up a sidebar with a `Changes` area.
+1. Check the files to ensure your updates are what you expect.
+1. Once you have verified all of the edits, enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
+1. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
+1. Fill out the merge request details and assign your manager as reviewer. If your manager does not have access to merge your MR based on the permissions described above, then please reference the specific members page for the www-gitlab-com project for review.  Check the `Delete source branch when merge request is accepted` box to cleanup your merge request when complete. Click `Submit merge request` to submit the MR for review.
 
+### Method 1B: Add your info on GitLab.com using the Web IDE Beta
+
+1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` in Workday for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
+1. Click on the avatar above your name (or job title). A modal will open.
+1. In that modal, on the bottom, click `Edit in Web IDE`
+1. Our web editor will open with your team page entry opened.
+1. <%= partial "team-page-fields" %>
+1. To upload your image, ensure that it is prepared according to the [Picture Requirements](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page).
+  1. Navigate to find the `team` folder using the path `sites/uncategorized/source/images/team/`. To do this, you must first notice that you are in a file that is within the `person` folder, which is within the `team_members` folder, which is within the `data` folder. You can close folders by clickin on the V to the left of the folder name. Once you have closed the `data` folder, you will see the `sites` folder 6 folders down. Open `sites` by clicking the >, then `uncategorized`, then `source`, then `images, and finally `team`.
+  1. Right click on `team` and choose `Upload`.
+  1. Select the image you want to upload and Open.
+  1. Now you will navigate back to your team page entry. You can do this by either closing the `sites` folder and opening `data`, thhen `team members`, `person`, and the folder containing you file; or you can notice your file tab on the top bar, and you can click on it to be taken to that file.
+  1. Update your `picture` field to your filename. Delete the content that is this line after the `picture:` that starts with `../gitlab` etc. Make sure to match the letter case of your picture file. The completed line should look like this: `picture: yournameinlowercase.jpg` for example.
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Create a title for your MR, and enter it in the box above the `Commit & Push` button. An example title would be `Updating My Team Page Entry`.
+1. Click the `Commit & Push` button in the bottom left.
+1. Click on `Yes Commit to a new branch`.
+1. You will then be in the `New branch name` section. Enter your branch name, in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06` and press `Return/Enter`.
+1. Click on `Create MR`. If this message disappears, click on the notification bell icon on the bottom right, and it will bring back the message. 
+1. In the Desciption box, explain `Why is this cange being made?` as decribed. For this specific MR, you can enter something like: `Adding my information and picture to the team page due to onboarding tasks.` 
+1. Scroll down and `Create merge request`.
+1. Review the Author Checklist and check off all applicable tasks. Add your People Connect onboarding team member and Manager as Reviewers. If your manager has a gold triangle symbol with an exclamation mark on their bottom right section of their avatar photo, it means that they do not have merge rights to the team page so you can assign the MR to your People Connect team member if that is the case. If there is no triangle on your manager avatar, you may assign the MR to your manager.
 
 ### Method 2: Add your info on GitLab.com using the 'web interface'
 
