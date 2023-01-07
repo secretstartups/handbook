@@ -1,7 +1,16 @@
 ---
 layout: job_family_page
-title: "Data and Analytics Leadership"
+title: "Data, Analytics and Data Science Executive"
 ---
+
+The Data, Analytics and Data Science job family is an executive Job Family that is responsible for providing data driven insights, data science products to the business to improve decision making and drive business results. The executive leads a centralized analytics and data science function that works on cross-functional initiatives such as top 12 initiatives or Go-to-market problems that can be solved with data science. The initial focus of this team will be solely on Go-to-market problems and the intersection between product and go-to-market.
+ 
+
+
+## Data, Analytics and Data Science Executive
+
+The Data, Analytics and Data Science job family is an executive Job Family that is responsible for providing data driven insights, data science products to the business to improve decision making and drive business results. The executive leads a centralized analytics and data science function that works on cross-functional initiatives such as top 12 initiatives or Go-to-market problems that can be solved with data science. The initial focus of this team will be solely on Go-to-market problems and the intersection between product and go-to-market.
+
 
 ## Director, Data and Analytics
 
@@ -47,25 +56,57 @@ The Senior Director, Data and Analytics is a [grade 11](/handbook/total-rewards/
 
 ### Responsibilites 
 
-TODO 
+- **Leadership**: Set the vision, hire, build, coach and manage a highly productive team of analytics professionals and data scientists. Expert management skills, especially at developing talent. Set goals and priorities for the team.
+- **Results**: Deliver analysis and scientific data to answer GitLab’s toughest analytical questions. Turn those answers into actionable operational results to drive ARR in the business. Ask the right questions to help leaders think through tough business challenges that can be solved with data.
+- **Stakeholder Management**: Ensure there is alignment with stakeholders, including success and failure criteria of projects, operational resources to operationalize data products.
+- **Communication**: Prepare and review visualizations of all types of data to promote internal understanding of your team's insights. Expert influencer to our executive team. Clearly articulate insights.
+- **Data Science Modeling**: Design, implement and apply analytics techniques (e.g., optimization, machine learning, experimentation, mathematical modeling) using analytical tools and programming languages (e.g., R, Python, SAS). Be comfortable with a boring solution such as a heuristic when it helps drive the insight.
+- **Data Driven Insights and Analysis**: Summarize key data driven insights to members of the executive team to drive better outcomes, an increase in revenue or decrease in cost. Provide insights across the company.
+- **Review**: Review work and analysis produced by the team you manage or from other members of the team. Expert at providing feedback.
+- **Contribute**: Be customer zero for our product teams as they design the MLOps and Product Analytics product areas. Discover data gaps and provide requirements to the Data team and to product management for the proper logging and data repositories. 
+- **Values**: Be a culture definer and evolver of GitLab Values.
+ 
 
 ### Requirements 
 
-TODO 
+- Leadership: Experience leading data science and analytics team with a track record of delivering measurable business results with your team’s insights and data products
+- Business Partnership: Consistent track record of using quantitative analysis to impact key business decisions in partnership with the business.
+- Communication: Ability to present financial data concisely through written and oral communication. Expert at influencing business stakeholders.
+- Data Analysis: A passion for understanding business questions and making data driven insights. Excellent analytical skills.
+- Proficient in SQL; R, Python preferred.
+-Experience with results in a SaaS, software business.
+- A/B Testing experience: experience designing and executing A/B tests in collaboration with sales, growth or product teams.
+- BS degree in Mathematics, Engineering, Statistics or relevant degree. MBA preferred.
+- Ability to use GitLab. 
+
+## VP, Data, Business Analytics and Data Science
+ 
+### Job Grade
+The VP, Data, Analytics and Data Science is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+### Responsibilities
+Extends Sr Director Analytics and Data Science responsibilities
+Leads data engineering function including data platform tool selection, data models and scalable data solutions 
+Develop a roadmap for the data and analytics function that clearly defines ownership and responsibility between the central data function and the functional groups.
+Drive data governance and data quality throughout GitLab
+Hold Engineering accountable for SLAs for data freshness and quality of product logging
+Expectations of transformational data solutions that fundamentally changes the way GitLab does business increasing ARR and efficiency.
+Transform the culture around data driven decision making at GitLab across all teams.
+As MLOps and Product Analytics capabilities evolve, participate in Sales and Marketing efforts.
+Have complete ownership of all VP+ level relationships required to meet team objectives and business impact.
+ 
+### Requirements
+Extends Sr Director Business Analytics requirements
+Experience driving company wide changes to company operations and analytics strategy.
+
 
 ## Performance Indicators (PI)
 
-*  [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
-*  [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
-*  [Discretionary bonus per employee per month > 0.1](/handbook/business-technology/metrics/#discretionary-bonus-per-employee-per-month--01)
-*  [Cost Actual vs Plan](/handbook/business-technology/metrics/#cost-actual-vs-plan)
-*  [% of company data in data warehouse](/handbook/business-technology/metrics/#percent--of-company-data-in-data-warehouse)
-*  [New Data or Functionality every 3 months](/handbook/business-technology/metrics/#new-data-or-functionality-every-3-months)
+*  TBD 
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
 1. Selected candidates will be invited to schedule a screening call with our Global Recruiters
-1. Next, candidates will be invited to schedule a first interview with our CFO
+1. Next, candidates will be invited to schedule a first interview with our VP, Finance and Business Technology
 1. Candidates will then be invited to schedule a second round of interviews with members of the e-group, finance and data teams.
 Additional details about our process can be found on our hiring page.
 
