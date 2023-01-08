@@ -31,7 +31,7 @@ graph LR
     step_manager_review(Manager determines<br/>provisional performance factor<br/>of team members)
     step_exec_review_1(Executive review)
     step_tr_calculate(Total Rewards<br/>team calculates<br/>proposed increases)
-    step_manager_compaas(Manager review<br/>in Workday)
+    step_manager_workday(Manager review<br/>in Workday)
     step_exec_review_2(Executive review)
     step_manager_final(Manager informs<br/>direct reports of<br/>adjustment to<br/> compensation)
     stop((New<br/>compensation<br/>effective 1<br/>Feb 2023))
@@ -40,7 +40,7 @@ graph LR
     step_manager_review-->step_exec_review_1
     step_exec_review_1-->step_tr_calculate
     step_tr_calculate-->step_manager_workday
-    step_manager_compaas-->step_exec_review_2
+    step_manager_workday-->step_exec_review_2
     step_exec_review_2-->step_manager_final
     step_manager_final-->stop
 ```
@@ -83,9 +83,9 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
         * Benchmark % change
         * Location factor % change
         * _Note that the market adjustment  increase to range provided in the review grid is not a cap, but instead a minimum value to ensure alignment to the new ranges. The market adjustment is required to allocate to all team members and extra budget has been allocated to managers to account for this cost. Performance increases are allocated on top of the market adjustment._
-    * Managers will also enter promotions and promotional increases that have been approved in alignment with their aligned People Business Partner. Promotional RSU grants will be automatically calculated and awarded subject to approval at the next grant approval date
+    * PBPs will enter promotions and promotional increases that have been approved following the promotion calibration process. Promotional RSU grants will be automatically calculated and awarded subject to approval at the next grant approval date
     * Depending on budget constraints, the performance increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
-    * Managers will determine increases to cash compensation as appropriate based on talent assessment outcomes, market adjustments, and approved promotions. In February - March, Director+ team members will review equity and determine equity awards to ensure team members are incentivized through their total rewards package in the next fiscal year.
+    * Managers will determine increases to cash compensation as appropriate based on talent assessment outcomes, and market adjustments. In February - March, Director+ team members will review equity and determine equity awards to ensure team members are incentivized through their total rewards package in the next fiscal year.
     *  Compensation and job information changes will be frozen at this time for the duration of the review cycle.
 1. Managers are advised to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before submitting.
     * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
@@ -107,7 +107,7 @@ In February, Director+ leaders will plan Phase 2 of the Annual Compensation Revi
 
 ## Talent Assessment and Annual Compensation Review 
 
-TODO Add video
+_The video walkthrough on navigating the tool will be added by January 10th._
 
 Performance and growth potential factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
 
@@ -129,7 +129,7 @@ Recommendations from Total Rewards for discretionary cash compensation increases
 Do not expect that the final discretionary increases will fall into these ranges, as performance is only one factor out of many that goes into compensation adjustments.
 
 When determining an increase, managers should account for increases in the current fiscal year,
-due to factors such as:
+due to recent factors such as:
 * Promotion
 * Transfer
 * Recent hire who is already aligned to market/performance rates
@@ -170,7 +170,7 @@ When you review your team member’s job and compensation information in the Wor
     * Managers should review how team members fall within their band after the proposed increase to ensure pay equality amongst peers. (This is also audited by Total Rewards as part of the cycle).
 
 ### For Promotions
-When determining compensation increases for promotions, the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaically allocate an annual compensation review increase in addition to the promotion increase. Instead, we encourage managers to look at the new range (which will be seen in Workday once the promotion is applied) and then make a recommendation based on the holistic view considering the [promotion compensation increase guidance](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase), placement in the band compared to peers who were promoted and annual compensation review increase recommendations. 
+When determining compensation increases for promotions, the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaically allocate an annual compensation review increase in addition to the promotion increase. In collaboration with leadership, PBPs will look at the new range (which will be seen in Workday once the promotion is applied) and then make a recommendation based on the holistic view considering the [promotion compensation increase guidance](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase), placement in the band compared to peers who were promoted, and annual compensation review increase recommendations. PBPs will be responsible for entering the agreed upon increase recommendation in the tool.
 
 ## Manager Review
 
@@ -180,9 +180,9 @@ It is very important that GitLab team members understand their performance and h
 
 While some GitLab team members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location, there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email Total Rewards with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a satisfactory level.
 
-For any feedback around the manager review portion of Annual Compensation Review or the cycle via Workday, please add to the following: TODO (create issue).
+For any feedback around the manager review portion of Annual Compensation Review or the cycle via Workday, please add to the [feedback issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/1025).
 
-### Manager Review in Workday
+### Annual Compensation Review in Workday
 
 [Workday](https://www.myworkday.com/gitlab/d/home.htmld) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during the Annual Compensation Review cycle.
 
@@ -194,15 +194,33 @@ For any feedback around the manager review portion of Annual Compensation Review
 1. In your inbox, select the **FY24 Annual Compensation Review** task.
 * ![Workday inbox item](/images/handbook/people-group/workday-inbox-acr.png)
 
-### For People Managers
+##### IMPORTANT: Instructions for Managers Outside of the US
 
-1. After logging in, you will land on the Organization Summary page. This will include an overview of  your merit and promotion budgets and spend, along with a summary of the organizations that report to you.
+The compensation review tool was built for planning to be done in USD as the reference currency, but outside of the US, Workday will default your currency to local currency.
+
+In order to experience the compensation review tool as intended, please use the following instructions to update your reference currency. You may change it back after you have completed planning.
+
+1. Once you have logged into Workday, click the person icon in the upper right to open the drop down menu.
+   * ![profile](/images/handbook/people-group/refcur1.png)   
+1. In the drop down menu, select 'My Account'.
+   * ![profile](/images/handbook/people-group/refcur2.png)   
+1. Then select 'Change Preferences'.
+   * ![profile](/images/handbook/people-group/refcur3.png)   
+1. Scroll down until you see 'Reference Currency'.
+   * ![profile](/images/handbook/people-group/refcur4.png)   
+1. Remove your local currency and add USD. 
+   * ![profile](/images/handbook/people-group/refcur5.png) 
+1. Select 'OK', then log out and back in for the changes to take effect. You can now continuing following the instructions above to access the compensation review task and complete your planning. 
+
+#### For People Managers
+
+1. After logging in, you will land on the Organization Summary page. This will include an overview of your merit and promotion budgets (promotion budget shown at VP only) and spend, along with a summary of the organizations that report to you.
    * ![org summary](/images/handbook/people-group/org-summary.jpeg)
 1. Proceed to the planning grid for your team members. The 5 leftmost columns include team member information that will remain static as you plan across 3 grid views that you can navigate to at the top: Summary, Performance, and Promotion.
    * ![summary](/images/handbook/people-group/summary.jpeg)
    * Team Member Information: Under each team member name is the org they belong to and manager they report to, followed by their current job title. The FY23 Performance Factor, FY23 Growth Potential Factor, and FY23 Key Talent columns show results from the [talent assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/) completed in November-December. The Warnings column will include any flags that need to be resolved during the planning process before submitting.
    * If you are a frontline manager (you do not have people managers who report to you), the planning grid with your direct reports automatically displays when you land on the Organizational Summary page.
-   * If you are a manager with indirect reports (you have people managers who report or roll up to you), you will not immediately have a view of a planning grid. To make merit and promotion recommendations for your direct reports, select the pencil icon under Propose to proceed to the planning grid. Alternatively, you may select **Actions > Propose Compensation for My Organizations**.
+   * If you are a manager with indirect reports (you have people managers who report or roll up to you), you will not immediately have a view of a planning grid. To make merit recommendations for your direct reports, select the pencil icon under Propose to proceed to the planning grid. Alternatively, you may select **Actions > Propose Compensation for My Organizations**.
    * ![propose](/images/handbook/people-group/propose.jpeg)
       * To make recommendations for indirect reports (employees who roll up to you but do not directly report to you), you will have to click on **Sub Orgs**. 
       * ![sub-org](/images/handbook/people-group/sub-org.jpeg)
@@ -224,31 +242,39 @@ For any feedback around the manager review portion of Annual Compensation Review
        * **Location % Change:** The location factor percentage change from FY23 to FY24
        * **Current Compa-Ratio** and **Proposed Compa-Ratio** to show where the team member falls in the range before and after your recommendation
        * **Country**
-1. **Promotion grid:** If the team member is being recommended for a promotion during this cycle, you would enter the promotion amount in this grid.
+1. **Promotion grid:** If the team member is being recommended for a promotion during this cycle, PBPs will enter the promotion amount in this grid following the Calibration process.
    * ![promo](/images/handbook/people-group/promo2.jpeg)
-   * The range for their new role will be updated once you select “Yes” in the Promote column and enter the desired job profile in the _Proposed Job Profile_ column, and you will have the opportunity to add extra context in the _Promotion Notes_ column.
-   * If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner prior to entering the promotion in Workday.
-   * Note: You can only enter a promotion increase percentage/amount if “Yes” is entered in the _Promote_ column and a job profile is entered in the _Proposed Job Profile_ column.
+   * The range for their new role will be updated once you select “Yes” in the Promote column and enter the desired job profile in the _Proposed Job Profile_ column, and there will be the opportunity to add extra context in the _Promotion Notes_ column.
+   * Please ensure you work with your People Business Partner.
+   * Note: PBPs can only enter a promotion increase percentage/amount if “Yes” is entered in the _Promote_ column and a job profile is entered in the _Proposed Job Profile_ column.
 1. After entering all your recommendations, select _Continue_. This will take you to the Organization Summary page. Once you have confirmed that all of your organizations have submitted their recommendations, select _Submit_.
    * Note: If you have subordinate organizations, you will be unable to complete this step until all subordinate organizations have inputted and submitted their recommendations.
 
 
-### Budget In Workday 
+#### Budget In Workday 
 
-TO UPDATE
+All planning managers will be allocated a Merit budget which will consist of budget for performance increases as well as market adjustments, if applicable. 
 
-### Communicating Cash Compensation Increases
+If you are a manager with other managers reporting to you, you will see your overall budget including any budget that rolls up into you in the Organization Summary screen. The overall budget will also reflect if you go into any of the planning grids for managers that report to you. When you edit your own planning grid, it will show you the budget for just your direct reports.
 
-TO UPDATE
+Promotion budgets will be held at the VP+ level and will reflect $0 below this level. At the VP level, this will reflect the overall budget for all direct and indirect reports and will not update to show the budget for just direct reports.
+
+#### Communicating Cash Compensation Increases
+
+All increases for Annual Compensation Review will be finalized by Feb 1st in Workday where new salaries will be updated in team member profiles and the cash compensation statement will be generated. Visibility in Workday will be limited until Febuary 16th in order to allow managers sufficient time to communicate. Managers will have access to the cash compensation statement on the team member's record once generated. 
+
+Managers should communicate increases to contractors by February 7th and to all team members by February 15th. 
+
+Further guidelines on communications can be found on the [Compensation Review Conversations handbook page](https://about.gitlab.com/handbook/leadership/compensation-review-conversations/).
 
 #### Cash Compensation Statement
 
-Each team member who receives a base salary increase due to promotion, market adjustment, or performance/merit  during the Annual Compensation Review cycle will receive a Cash Compensation Statement detailing their updated total pay (base + variable if applicable). This letter will be available for managers to review on Workday no later than February 4th, and team members can access their cash compensation statement beginning February XX. Please reach out to Total Rewards if the letter hasn't been shared by Feb 5th (Contractors) or Feb 11th (Employees) and we'll share this with you.
+Each team member who receives a base salary increase due to promotion, market adjustment, or performance/merit  during the Annual Compensation Review cycle will receive a Cash Compensation Statement detailing their updated total pay (base + variable if applicable). This letter will be available for managers to review on Workday no later than February 4th, and team members can access their cash compensation statement beginning February 16. 
 
 ## Equity Refresh Review Cycle
 
 ### Determining RSU Refresh Grants
-TO UPDATE
+This will be updated in February.
 
 ### Director and Above Review in Workday
 
@@ -266,15 +292,15 @@ TO UPDATE
 
 ### Budget In Workday 
 
-TO UPDATE
+This will be updated in February.
 
 ### Communicating Equity Refresh Grant
 
-TO UPDATE
+This will be updated in February.
 
 #### Total Compensation Statement
 
-TO UPDATE
+This will be updated in February.
 
 ## Compensation Program Budget
 
