@@ -1198,21 +1198,37 @@ For information on how Field Marketing tracks campaign expenses, please visit th
 
 The Field Marketing team works from issues and issue boards. If you need our assistance with any project, please open an issue and use the `Field Marketing` label anywhere within the GitLab repo.
 
-**General Field Marketing Labels:**
+## General Field Marketing Labels
 
 - `Field Marketing`: Issue initially created, used in templates, the starting point for any issue that involves Field Marketing
-- `FY23-Q1` `FY23-Q2` `FY23-Q3` `FY23-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
+- `FY24-Q1` `FY24-Q2` `FY24-Q3` `FY24-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
 - `mktg-status::plan`: work that is proposed, in an exploratory state
 - `mktg-status::wip`: work in progress that has been accepted and assigned to a DRI
-- `Events` : Issues related to events - this label is held at the gitlab.com level
+- `Events`: Issues related to events - this label is held at the gitlab.com level
 - `FMM-Other Tactics`: Issues related to non-event tactics
 - `FMM-MicroCampaigns`: Issues related to regional integrated micro-campaign, which are built to drive a specific strategy in a region
-- `workshop`: Issue related to hands on GitLab workshop
+- `Content Syndication`: Issue related to content syndication
+- `DevOpsDays`: Issue related to DevOps Days
+- `Direct Mail`: Issue related to Direct Mail
+- `Executive Roundtable`: Issue related to Executive Roundtables
+- `GitLab Connect`: Issue related to GitLab Connects
+- `Hybrid Conference`: Issue related to Hybrid Conferences
+- `In-Person Conference`: Issue related to In-Person Conferences
+- `Meeting Setting`: Issue related to Meeting Setting
+- `Owned Event`: Issue related to Owned Events
+- `Self-Serve`: Issue related to Self-Service events
+- `Webcast - Sponsored`: Issue related to Sponsored Webcasts
+- `Survey`: Issue related to Surveys
+- `Vendor Arranged Meetings`: Issue related to Vendor Arranged Meetings
+- `Virtual Conference`: Issue related to Virtual Conferences
+- `Webcast - GitLab Hosted`: Issue related to GitLab-Hosted Webcasts
+- `workshop`: Issue related to GitLab workshops
 
-**Regional Field Marketing Labels:**
+## Regional Field Marketing Labels
 
 - `APAC`: Issues that are related to the APAC sales team
 - `EMEA`: Issues that are related to the EMEA sales team
+- `FM AMER ALL`: Issues that are related to the AMER ALL Allocadia plan
 - `Central Europe`: Issues that are related to the EMEA Central Europe (DACH) sales team
 - `Europe CEE`: Issues that are related to the EMEA Central Eastern Europe sales team
 - `Southern Europe`: Issues that are related to the EMEA Southern Europe (France, Italy, Spain, Portugal, Greece, Cyprus) sales team
@@ -1220,18 +1236,21 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `UK/I`: Issues that are related to the EMEA UK & Ireland sales team
 - `Russia`: Issues that are related to the EMEA Russia & Ukraine sales team
 - `MEA`: Issues that are related to the EMEA MEA (Middle East & Africa) sales team
-- `East`: Issues that are related to the East sales team
-- `East - NE`: Issues that are related to the US East- NE sales team
-- `East - SE`: Issues that are related to the East-SE sales team
-- `WEST`: Issues that are related to the US West sales team
-- `WEST - Bay Area`: Related to the US WEST Bay Area sales team
-- `WEST - BigSky`: Issues that are related to the US WEST Midwest sales team
-- `WEST - PacNorWest`: Issues that are related to the US WEST Pacific North West sales team
-- `WEST - SW`: Issues that are related to the US WEST Southwest and SoCal sales team
-- `West-SW & NFO`: Issues that are related to the US West-SW & NFO sales team 
-- `NW & N Central`: Issues that are related to the US NW & N Central sales team 
+- `EAST - NYC`: Issues that are related to the East - NYC sales team
+- `EAST - Mid Atlantic`: Issues that are related to the East - Mid-Atlantic sales team
+- `East - NE`: Issues that are related to the US East - NE sales team
+- `East - SE`: Issues that are related to the East - SE sales team
+- `WEST - Bay Area`: Related to the West Bay Area sales team
+- `WEST - BigSky`: Issues that are related to the West - BigSky sales team
+- `WEST - SW`: Issues that are related to the West - SW sales team
+- `WEST - NW`: Issues that are related to the West - NW sales team
+- `CENTRAL - North Central`: Issues that are related to the Central - North Central sales team
+- `CENTRAL - South Central`: Issues that are related to the Central - South Central sales team
+- `CENTRAL - Mountain`: Issues that are related to the Central - Mountain sales team
+- `LATAM`: Issues that are related to the LATAM sales team
 - `Public Sector US`: Any issues related to US Public Sector
-- `FMM AMER PubSec`: All issues and tasks related to the FMM AMER for PubSec
+- `AMER PubSec - FED`: AMER FED tactics
+- `AMER PubSec - SLED`: AMER SLED tactics
 - `AMER - DOD`: AMER DOD tactics
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
