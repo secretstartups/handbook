@@ -36,3 +36,7 @@ The following practice and process are lead by the Solutions Architects during p
 [Strategic Solution Selling](/handbook/customer-success/solutions-architects/sa-practices/strategic-solution-selling/)
 
 [GitLab Dedicated Prospects](/handbook/customer-success/solutions-architects/sa-practices/gitlab-dedicated-prospects/)
+
+[Selling Professional Services](/handbook/customer-success/solutions-architects/sa-practices/selling-professional-services)
+
+
