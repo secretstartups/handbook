@@ -455,7 +455,7 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AC-1 | Policy & Procedures | Addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AC family. |
+| AC-1 | Policy and Procedures | Addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AC family. |
 | AC-2 | Account Management | Identification of authorized system users and the specification of access privileges. |
 | AC-3 | Access Enforcement | Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies. |
 | AC-4 | Information Flow Enforcement | Enforce approved authorizations for controlling the flow of information within the system and between connected systems. |
@@ -476,7 +476,7 @@ _Detailed sub-controls are included in the various control family pages_
 
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AT-1 | Policy & Procedures | Establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AT family. |
+| AT-1 | Policy and Procedures | Establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AT family. |
 | AT-2 | Literacy Training and Awareness | Provide security awareness training that includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. |
 | AT-3 | Role-based Training | Training based on the assigned roles and responsibilities of individuals as well as the security and privacy requirements of organizations and the systems to which personnel have authorized access, including technical training specifically tailored for assigned duties. |
 
@@ -487,7 +487,7 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AU-1 | Policy & Procedures | Establishment of audit and accountability policy and procedures that address the controls in the AU family implemented within systems and organizations. | 
+| AU-1 | Policy and Procedures | Establishment of audit and accountability policy and procedures that address the controls in the AU family implemented within systems and organizations. | 
 | AU-3 | Content of Audit Records | Audit record content that may be necessary to support the auditing function of event outcomes including indicators of event success or failure and event-specific results, such as system security and privacy posture after the even occurred. |
 | AU-4 | Audit Log Storage Capacity | Allocating audit log storage capacity to accommodate organization-defined audit log retention requirements. |
 | AU-6 | Audit Record Review, Analysis, and Reporting | Review and analysis system audit records for indications of organization-defined inappropriate or unusual activity and the potential impact. |
@@ -496,6 +496,7 @@ _Detailed sub-controls are included in the various control family pages_
 | AU-11 | Audit Record Retention | Retaining audit records for organization-defined time period consistent with records retention policy to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements. |
 | AU-12 | Audit Record Generation | Audit record generation for the event types the system is capable of auditing. |
 | AU-14 | Session Audit | Session auditing implemented to reveal information about individuals that may give rise to privacy risk as well as how to mitigate those risks. |
+
 </details>
 
 <details markdown="1">
@@ -503,7 +504,7 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| CA-1 | Policy & Procedures | Establishment of assessment, authorization, and monitoring policy and procedures that address the controls in the CA family implemented within systems and organizations. | 
+| CA-1 | Policy and Procedures | Establishment of assessment, authorization, and monitoring policy and procedures that address the controls in the CA family implemented within systems and organizations. | 
 | CA-2 | Control Assessments | Selection of assessors with the required skills and technical expertise to develop effective assessment plans to determine the accuracy and completeness of whether the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting requirements. | 
 | CA-3 | Information Exchange | System information exchange requirements between two or more systems. | 
 | CA-5 | Plan of Action and Milestones | Plano f action and milestones to track planned remedial actions. | 
@@ -519,7 +520,7 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| CM-1 | Policy & Procedures | Establishment of configuration management policy and procedures that address the controls in the CM family implemented within systems and organizations. | 
+| CM-1 | Policy and Procedures | Establishment of configuration management policy and procedures that address the controls in the CM family implemented within systems and organizations. | 
 | CM-2 | Baseline Configuration | Documented, formally reviewed, and agreed-upon specifications for systems or configuration items within those systems. | 
 | CM-3 | Configuration Change Control | Systematic proposal, justification, implementation, testing, review, and disposition of system changes, including system upgrades and modifications. | 
 | CM-4 | Impact Analyses | Analysis of changes to determine potential security and privacy impacts prior to change implementation. | 
@@ -538,7 +539,16 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
- 
+| CP-1 | Policy and Procedures | Establishment of contingency planning policy and procedures that address the controls in the CP family implemented within systems and organizations. | 
+| CP-2 | Contingency Plan | Achieving continuity of operations for organizational mission and business functions to address system restoration and implementation of alternative mission or business processes when systems are compromised or breached. | 
+| CP-3 | Contingency Training | Assignment of roles and responsibilities of organizational personnel to ensure that the appropriate content and level of detail is included in such training. | 
+| CP-4 | Contingency Plan Testing | To determine the effectiveness of the plans and identify potential weaknesses. | 
+| CP-6 | Alternate Storage Site | The maintainence of duplicate copies of information and data and processing capability if the primary storage site is not available. | 
+| CP-7 | Alternate Processing Site | Geographically distinct processing sites providing processing capability if the primary processing site is not available. | 
+| CP-9 | System Backup | Mechanisms employeed to protect the integrity of system-level and user-level information. | 
+| CP-10 | System Recovery and Reconstitution | The execution of contingency plan activities for recovery and reconstitution of the system to a known state within an organziation-defined time period consist with recovery time and recovery point objectives after a disruption, compromise, or failure. | 
+| CP-11 | Alternate Communications Protocols | Establishing alternate communication protocols resilience in organizational systems. | 
+
 </details>
 
 <details markdown="1">
@@ -546,7 +556,15 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
- 
+| IA-1 | Policy and Procedures | Establishment of identification and authentication policy and procedures that address the controls in the IA family implemented within systems and organizations. | 
+| IA-2 | Identification and Authentication (organizational Users) | To uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users. | 
+| IA-3 | Device Identification and Authentication | To uniquely identify and authenticate organization-defined devices and/or types of devices before establishing a local, remote and/or network connection. | 
+| IA-4 | Identifier Management | Receiving authorization from organization-defined personnel or roles to assign an identifier preventing reuse of identifiers for an organization-defined time period. | 
+| IA-5 | Authenticator Management | To manage system authenticators. | 
+| IA-6 | Authentication Feedback | Obscure feedback of authentication information during the authentication process to protect the information from possible exploitation and use by unauthorized individuals. | 
+| IA-7 | Cryptographic Module Authentication | Implement mechanisms for authentication to a cryptographic module that meet the requirements of applicable laws, executive orders, directives, policies, regulations, standards, and guidelines for such authentication. | 
+| IA-8 | Identification and Authentication (non-organizational Users) | To uniquely identify and authenticate non-organizational users or processes acting on behalf of non-organizational users. | 
+
 </details>
 
 <details markdown="1">
@@ -554,6 +572,13 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| IR-1 | Policy and Procedures | Establishment of incident response policy and procedures that address the controls in the IR family implemented within systems and organizations. | 
+| IR-2 | Incident Response Training | Training associated with the assigned roles and responsibilities of organizational personnel to ensure that the appropriate content and level of detail are included in such training. | 
+| IR-3 | Incident Response Testing | The testing of incident response capabilities to determine their effectiveness and identify potential weaknesses or deficiencies. | 
+| IR-4 | Incident Handling | To implement incident handling capability for incidents that is consistent with the incident response plan and includes preparation, detection and analysis, containment, eradication, and recovery. | 
+| IR-5 | Incident Monitoring | To track and document incidents. | 
+| IR-6 | Incident Reporting | The requirement for personnel to report suspected incidents. | 
+| IR-8 | Incident Response Plan | To develop and implement a coordinated approach for incident response capability. | 
  
 </details>
 
@@ -562,6 +587,10 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| MA-1 | Policy and Procedures | Establishment of maintenance policy and procedures that address the controls in the MA family implemented within systems and organizations. | 
+| MA-2 | Controlled Maintenance | To schedule, document, and review records of maintenance, repair, and replacement on system components in accordance with manufacturer or vendor specifications and/or organizational requirements. |
+| MA-4 | Nonlocal Maintenance | To approve and monitor nonlocal maintenance and diagnostic activities. |
+| MA-6 | Timely Maintenance | To obtain maintenance support and/or spare parts for organization-defined system components within an organization-defined time period of failure. |
  
 </details>
 
@@ -570,7 +599,14 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
- 
+| MP-1 | Policy and Procedures | Establishment of media protection policy and procedures that address the controls in the MP family implemented within systems and organizations. | 
+| MP-2 | Media Access | Restrict access to organization-defined types of digital and/or non-digital media to an organization-defined personnel or roles. | 
+| MP-3 | Media Marking | To mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and exempt organization-defined types of system media from marking if the media remain within organization-defined controlled areas. | 
+| MP-4 | Media Storage | To physically control and securely store organization-defined types of digital and/or non-digital media within organization-defined controlled areas; and protect system media types until the media are destroyed or sanitized using approved equipment, techniques, and procedures. | 
+| MP-5 | Media Transport | To protect and control organization-defined types of system media during transport outside of controlled areas using organization-defined controls. | 
+| MP-6 | Media Sanitization | To sanitize all digital and non-digital system media subject to disposal or reuse, whether or not the media is considered removable. | 
+| MP-7 | Media Use | To restrict or prohibit the use of organization-defined types of system media on organization-defined systems or system components and prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner. | 
+
 </details>
 
 <details markdown="1">
@@ -578,6 +614,23 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| PE-1 | Policy and Procedures | Establishment of physical and environmental protection policy and procedures that address the controls in the PE family implemented within systems and organizations. | 
+| PE-2 | Physical Access Authorizations | Authorizing physical access to employees and visitors. | 
+| PE-3 | Physical Access Control | Enforcing physical access authorizations at organization-defined entry and exit points to the facility where the system resides by for employees and visitors. | 
+| PE-4 | Access Control for Transmission | Security control applied to system distribution and transmission lines to prevent accidental damage, disruption, and physical tampering. |
+| PE-5 | Access Control for Output Devices | Controlling physical access to output devices allowing access to authorized individuals only. | 
+| PE-9 | Power Equipment and Cabling | To protect power equipment and power cabling for the system from damage and destruction. | 
+| PE-10 | Emergency Shutoff | The capability of shutting off power to organization-defined system or individual system components in emergency situations. |
+| PE-11 | Emergency Power | To provide an uninterruptible power supply in the event of a primary power source loss. | 
+| PE-12 | Emergency Lighting | To employ and maintain automatic emergency lighting for the system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility. | 
+| PE-13 | Fire Protection | To employ and maintain fire detection and suppression systems that are supported by an independent energy source. | 
+| PE-14 | Environmental Controls | To maintain and monitor environmental control levels within the facility where the system resides. | 
+| PE-15 | Water Damage Protection | To protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel. | 
+| PE-16 | Delivery and Removal | To enforce authorizations for entry and exit of system components that may require restricting access to delivery areas and isolating the areas from the system and media libraries. | 
+| PE-18 | Location of System Components | To position system components within the facility to minimize potential damage and to minimize the opportunity for unauthorized access. | 
+| PE-20 | Asset Monitoring and Tracking | To track and monitor the location and movement of organization-defined assets. | 
+| PE-22 | Component Marking | To mark organization-defined system hardware components indicating the impact level or classification level of the information permitted to be processed, stored, or transmitted by the hardware component. | 
+| PE-23 | Facility Location | To plan the location or site of the facility where the system resides considering physical and environmental hazards. | 
  
 </details>
 
@@ -586,6 +639,12 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| PL-1 | Policy and Procedures | Establishment of planning policy and procedures that address the controls in the PL family implemented within systems and organizations. | 
+| PL-2 | System Security and Privacy Plans | Scoped to the system and system components within the defined authorization boundary and contain an overview of the security and privacy requirements for the system and the controls selected to satisfy the requirements. | 
+| PL-4 | Rules of Behavior | To establish and provide to individuals requiring access to the system, the rules that describe their responsibilities and expected behavior for information and system usage, security, and privacy. | 
+| PL-7 | Concept of Operations | Describes how the organization intends to operate the system from the perspective of information security and privacy. | 
+| PL-8 | Security and Privacy Architectures | To be consistent with the organization-wide security and privacy architectures, which are integral to and developed as part of the enterprise architecture. | 
+| PL-10 | Baseline Selection | Predefined sets of controls specifically assembled to address the protection needs of a group, organization, or community of interest. | 
  
 </details>
 
@@ -594,6 +653,29 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| PM-1 | Information Security Program Plan | Establishment of a formal document that provides an overview of the security requirements for an organization-wide information security program and describes the program management controls and common controls in place or planned for meeting those requirements. | 
+| PM-2 | Information Security Program Leadership Role | To appoint a senior agency information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program. | 
+| PM-3 | Information Security and Privacy Resources | To include the resources needed to implement the information security and privacy programs in capital planning and investment requests and document all exceptions to this requirement. | 
+| PM-4 | Plan of Action and Milestones Process | Developed with an organization-wide perspective, prioritizing risk response actions and ensuring consistency with the goals and objectives of the organizations. | 
+| PM-5 | System Inventory | To develop and update organization-defined frequency an inventory of organizational systems. | 
+| PM-6 | Measures of Performance | To develop, monitor, and report on the results of information security and privacy measures of performance. | 
+| PM-8 | Critical Infrastructure Plan | To address information security and privacy issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan. | 
+| PM-9 | Risk Management Strategy | To establish an expression of the security and privacy risk tolerance for the organization, security and privacy risk mitigation strategies, acceptable risk assessment methodologies, a process for evaluating security and privacy risk across the organization with respect to the organization’s risk tolerance, and approaches for monitoring risk over time. | 
+| PM-10 | Authorization Process | To manage the security and privacy state of organizational systems and the environments in which those systems operate through authorization processes. | 
+| PM-11 | Mission and Business Process Definition | To define organizational mission and business processes with consideration for information security and privacy and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation. | 
+| PM-13 | Security and Privacy Workforce | Establishment of a security and privacy workforce development and improvement program. | 
+| PM-14 | Testing, Training, and Monitoring | A process for organization-wide security and privacy testing, training, and monitoring helps ensure that organizations provide oversight for testing, training, and monitoring activities and that those activities are coordinated. | 
+| PM-15 | Security and Privacy Groups and Associations | To establish ongoing contact with security and privacy groups and associations in an environment of rapidly changing technologies and threats. | 
+| PM-18 | Privacy Program Plan | To develop and disseminate a formal document that provides an overview of an organization’s privacy program. | 
+| PM-20 | Dissemination of Privacy Program Information | To maintain a central resource webpage on the organization’s principal public website that serves as a central source of information about the organization’s privacy program. | 
+| PM-21 | Accounting of Disclosures | To develop and maintain an accurate accounting of disclosures of personally identifiable information. | 
+| PM-22 | Personally Identifiable Information Quality Management | Steps that organizations take to confirm the accuracy and relevance of personally identifiable information throughout the information life cycle. | 
+| PM-25 | Minimization of Personally Identifiable Information Used in Testing, Training, and Research | Develop, document and implement policies and procedures to address the use of personally identifiable information for internal testing, training, and research. | 
+| PM-26 | Complaint Management | To implement a process for receiving and responding to complaints, concerns, or questions from individuals about the organizational security and privacy practices. | 
+| PM-28 | Risk Framing | To identify the assumptions, constraints, risk tolerance, priorities, and trade-offs when conducted at the organization level and in consultation with stakeholders throughout the organization including mission, business, and system owners. | 
+| PM-29 | Risk Management Program Leadership Roles | Senior accountable official for risk management leads the risk executive (function) in organization-wide risk management activities. | 
+| PM-30 | Supply Chain Risk Management Strategy | To develop an organization-wide strategy for managing supply chain risks associated with the development, acquisition, maintenance, and disposal of systems, system components, and system services. | 
+| PM-31 | Continuous Monitoring Strategy | To facilitate ongoing awareness of the security and privacy posture across the organization to support organizational risk management decisions. | 
  
 </details>
 
@@ -602,7 +684,16 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
- 
+| PS-1 | Policy and Procedures | Establishment of personnel security policy and procedures that address the controls in the PS family implemented within systems and organizations. | 
+| PS-2 | Position Risk Designation | To establish the foundation of an effective and consistent suitability and personnel security program. | 
+| PS-3 | Personnel Screening | To screen individuals prior to authorizing access to the systems. | 
+| PS-4 | Personnel Termination | Termination of individual employment. | 
+| PS-5 | Personnel Transfer | Permanent reassignments or transfers of individuals or of such extended duration as to make the actions warranted. | 
+| PS-6 | Access Agreements | Signed access agreements with acknowledgement that individuals have read, understand, and agree to abide by the constraints associated with organizational systems to which access is authorized. | 
+| PS-7 | External Personnel Security | To establish personnel security requirements, including security roles and responsibilities for external providers. | 
+| PS-8 | Personnel Sanctions | To employ a formal sanctions process for individuals failing to comply with established information security and privacy policies and procedures. | 
+| PS-9 | Position Descriptions | To establish specification of security and privacy roles in individual organizational position descriptions to facilitate clarity in understanding the security or privacy responsibilities associated with the roles and the role-based security and privacy training requirements for the roles. | 
+
 </details>
 
 <details markdown="1">
@@ -610,6 +701,9 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| PT-1 | Policy and Procedures | Establishment of personally identifiable information processing and transparency policy and procedures that address the controls in the PT family implemented within systems and organizations. | 
+| PT-3 | Personally Identifiable Information Processing Purposes | To identify and document the purpose for processing providing organizations with a basis for understanding why personally identifiable information may be processed. | 
+| PT-9 | Physical Copies | To restrict, control, and track the creation and destruction of physical documents containing personally identifiable information. | 
  
 </details>
 
@@ -618,6 +712,13 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| RA-1 | Policy and Procedures | Establishment of risk assessment policy and procedures that address the controls in the RA family implemented within systems and organizations. | 
+| RA-2 | Security Categorization | To describe the potential adverse impacts or negative consequences to organizational operations, organizational assets, and individuals if organizational information and systems are compromised through a loss of confidentiality, integrity, or availability. | 
+| RA-3 | Risk Assessment | To consider threats, vulnerabilities, likelihood, and impact to organizational operations and assets, individuals, other organizations, and the Nation. | 
+| RA-5 | Vulnerability Monitoring and Scanning | To mnitor and scan for vulnerabilities in the system and hosted applications when new vulnerabilities potentially affecting the system are identified and reported. | 
+| RA-7 | Risk Response | To respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance. | 
+| RA-8 | Privacy Impact Assessments | An analysis of how personally identifiable information is handled to ensure that handling conforms to applicable privacy requirements, determine the privacy risks associated with an information system or activity, and evaluate ways to mitigate privacy risks. | 
+| RA-9 | Criticality Analysis | To identify critical system components and functions by performing a criticality analysis. | 
  
 </details>
 
@@ -626,6 +727,17 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| SA-1 | Policy and Procedures | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. | 
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
  
 </details>
 
@@ -634,7 +746,21 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
- 
+| SC-1 | Policy and Procedures | Establishment of system and communications protection policy and procedures that address the controls in the SC family implemented within systems and organizations. | 
+| SC-5 | Denial-of-service Protection | To protect against or limit the effects of denial-of-service events. | 
+| SC-7 | Boundary Protection | To monitor and control communications at the external managed interfaces to the system and at key internal managed interfaces within the system. | 
+| SC-8 | Transmission Confidentiality and Integrity | To protect the confidentiality and integrity of transmitted information. | 
+| SC-10 | Network Disconnect | To terminate the network connection associated with a communications session at the end of the session or after the organization-defined time period of inactivity. | 
+| SC-11 | Trusted Path | To provide an isolated trusted communications path for communications between the user and the trusted components of the system. | 
+| SC-12 | Cryptographic Key Establishment and Management | To establish and manage cryptographic keys when cryptography is employed within the system. | 
+| SC-13 | Cryptographic Protection | To determine the  cryptographic uses and implement the cryptography required for each specified cryptographic use. | 
+| SC-17 | Public Key Infrastructure Certificates | To issue public key certificates with visibility external to organizational systems and certificates related to the internal operations of systems for which trust is assumed and not derived. | 
+| SC-28 | Protection of Information at Rest | To protect the confidentiality and/or integrity of information at rest. | 
+| SC-38 | Operations Security | To employ a systematic process of operations security controls to protect key organizational information throughout the system development life cycle. | 
+| SC-39 | Process Isolation | To maintain a separate execution domain for each executing system process. | 
+| SC-42 | Sensor Capability and Data | To prohibit the use of devices possessing environmental sensing capabilities in organization-defined facilities, areas, or systems. | 
+| SC-45 | System Time Synchronization | To synchronize system clocks within and between systems and system components. | 
+
 </details>
 
 <details markdown="1">
@@ -642,6 +768,15 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| SI-1 | Policy and Procedures | Establishment of system and information integrity policy and procedures that address the controls in the SI family implemented within systems and organizations. | 
+| SI-2 | Flaw Remediation | To identify, report, and correct system flaws. | 
+| SI-3 | Malicious Code Protection | To implement malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code. | 
+| SI-4 | System Monitoring | Internal and external monitoring of systems to detect attacks and indicators of potential attacks. | 
+| SI-5 | Security Alerts, Advisories, and Directives | To receive system security alerts, advisories, and directives from organization-defined external organizations] on an ongoing basis. | 
+| SI-8 | Spam Protection | To employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages. |
+| SI-12 | Information Management and Retention | To manage and retain information within the system and information output from the system to cover the full life cycle of information, in some cases extending beyond system disposal in accordance with applicable laws, executive orders, directives, regulations, policies, standards, guidelines and operational requirements. | 
+| SI-13 | Predictable Failure Prevention | To determine mean time to failure (MTTF) to address potential failures of system components that provide security capabilities. | 
+| SI-18 | Personally Identifiable Information Quality Operations | To confirm the accuracy and relevance of personally identifiable information throughout the information life cycle. | 
  
 </details>
 
@@ -650,6 +785,16 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
+| SR-1 | Policy and Procedures | Establishment of supply chain risk management policy and procedures that address the controls in the SR family implemented within systems and organizations. | 
+| SR-2 | Supply Chain Risk Management Plan | To develop a plan for managing supply chain risks associated with the dependence on products, systems, and services from external providers, as well as the nature of the relationships with those providers that present an increasing level of risk to an organization. | 
+| SR-3 | Supply Chain Controls and Processes | To establish a process or processes to identify and address weaknesses or deficiencies in the supply chain elements and processes of organization-defined system or system component in coordination with organization-defined supply chain personnel. | 
+| SR-4 | Provenance | To document, monitor, and maintain valid provenance of the systems, system components, and associated data. | 
+| SR-5 | Acquisition Strategies, Tools, and Methods | To employ acquisition strategies, contract tools, and procurement methods to protect against, identify, and mitigate supply chain risks of organization-defined acquisition strategies, contract tools, and procurement methods. | 
+| SR-6 | Supplier Assessments and Reviews | To assess and review the supply chain-related risks associated with suppliers or contractors and the system, system component, or system service they provide. | 
+| SR-7 | Supply Chain Operations Security | To employ Operations Security (OPSEC) controls to protect supply chain-related information for the system, system component, or system service. | 
+| SR-8 | Notification Agreements | To establish agreements and procedures with entities involved in the supply chain for the system, system component, or system service. | 
+| SR-9 | Tamper Resistance and Detection | To implement a tamper protection program for the system, system component, or system service. | 
+| SR-12 | Component Disposal | To dispose of organization-defined data, documentation, tools, or system components. | 
  
 </details>
 
