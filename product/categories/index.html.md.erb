@@ -335,4 +335,24 @@ If you encounter an issue falling into a facilitated area:
 * For issues that relate to updating the guidelines, apply the `group::category` label for the facilitating group.
 * For issues that relate to adding content related to a facilitated area, apply the `group::category` label for the most closely related group. For example, when adding a new setting related to Merge Requests, apply the `group::source code` label.
 
+### Shared responsibility functionality
+
+There are certain product capabilities that are foundational in nature and affect or refer to horizontal components of the architecture that have an impact across functional groups and stages. 
+
+These capabilities may refer to "Facilitated Functionality" (see section above) where the mental models are owned by a particular group, while anyone can contribute. However, there may be others that will not have a clear owner because they don’t fall squarely into any particular group’s purview of product categories. Prime examples of this are issues related to the improvement or evolution of foundational components, frameworks and libraries that are used by several or all groups across the organization. Another example could be components created by special task groups in the past that have been since dissolved and that have not required continued development to justify the funding of a dedicated permanent group to maintain them. 
+
+Whatever the source of the functionality, rather than thinking of these components as "not having an owner", it is important to think of them as being owned by everyone through the lens of shared responsibility. "Shared responsibility" means that every group should be committed and responsible to **contribute** to their continued maintenance, improvement and innovation. 
+
+**Contribution**, in this context, may manifest in different ways:
+
+- Triage by coordinating conversations with stakeholders from different functions and at different levels to find the right owner and/or set the right level of priority.
+- Product feature scoping and UX design by fleshing out the details of implementation in requirements documents and/or mockups.
+- Technical scoping and feasibility analysis for possible technical and architectural approaches to implementation
+- Actual implementation and release activities
+
+It does not mean, however, that a single group should necessarily be solely responsible for all of these activities. Multiple groups could end up collaborating in execution. This coordination however requires a careful triage of the shared responsibility issues in the issue tracker where a single [DRI](/handbook/people-group/directly-responsible-individuals/) coordinates these activities. 
+
+For more information please review [this section in the quality department handbook](/handbook/engineering/quality/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues. 
+
+
 <%= partial("includes/product/categories_index") %>
