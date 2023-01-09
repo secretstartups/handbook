@@ -84,19 +84,19 @@ The Senior Director, Data and Analytics is a [grade 11](/handbook/total-rewards/
 ### Job Grade
 The VP, Data, Analytics and Data Science is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 ### Responsibilities
-Extends Sr Director Analytics and Data Science responsibilities
-Leads data engineering function including data platform tool selection, data models and scalable data solutions 
-Develop a roadmap for the data and analytics function that clearly defines ownership and responsibility between the central data function and the functional groups.
-Drive data governance and data quality throughout GitLab
-Hold Engineering accountable for SLAs for data freshness and quality of product logging
-Expectations of transformational data solutions that fundamentally changes the way GitLab does business increasing ARR and efficiency.
-Transform the culture around data driven decision making at GitLab across all teams.
-As MLOps and Product Analytics capabilities evolve, participate in Sales and Marketing efforts.
-Have complete ownership of all VP+ level relationships required to meet team objectives and business impact.
+- Extends Sr Director Analytics and Data Science responsibilities
+- Leads data engineering function including data platform tool selection, data models and scalable data solutions 
+- Develop a roadmap for the data and analytics function that clearly defines ownership and responsibility between the central data function and the functional groups.
+- Drive data governance and data quality throughout GitLab
+- Hold Engineering accountable for SLAs for data freshness and quality of product logging
+- Expectations of transformational data solutions that fundamentally changes the way GitLab does business increasing ARR and efficiency.
+- Transform the culture around data driven decision making at GitLab across all teams.
+- As MLOps and Product Analytics capabilities evolve, participate in Sales and Marketing efforts.
+- Have complete ownership of all VP+ level relationships required to meet team objectives and business impact.
  
 ### Requirements
-Extends Sr Director Business Analytics requirements
-Experience driving company wide changes to company operations and analytics strategy.
+- Extends Sr Director Business Analytics requirements
+- Experience driving company wide changes to company operations and analytics strategy.
 
 
 ## Performance Indicators (PI)
