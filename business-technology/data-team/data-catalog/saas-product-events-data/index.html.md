@@ -61,6 +61,12 @@ This model is a bit long and aggregates/unions data coming from a lot of differe
 
 Everything starts with an issue, so the first step is to open an issue and a MR in our Data Project. Once on the branch you created with the MR, please follow the following steps:
 
+##### Add the event details to gitlab_dotcom_xmau_metrics_common 
+
+Create an MR and add the event details to [gitlab_dotcom_xmau_metrics_common](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/gitlab_dotcom_xmau_metrics_common.csv). Include the event name, stage, group, section and if the event is part of SMAU, GMAU or UMAU. Fill in the information by following the table order.
+
+If this step is omitted the event details will not be populated in the intended tables resulting in missing data.
+
 ##### Add the CTE that will contain the data
 
 If the data you want to include in the table is fully captured (without any filtering needed) in a prep table, this is a rather simple action to perform. You need to just add a new tuple in the simple CTE macro showed here:
@@ -82,7 +88,7 @@ If the data you want to include in the table is fully captured (without any filt
 
 If the data you want to capture is a subset of an existing table, the operation is slightly more complicatedm you need to:
 
-1. First, add the table cotaining the event you want to capture to the simple_cte macro as described above
+1. First, add the table containing the event you want to capture to the simple_cte macro as described above
 1. Then, create another CTE below, which would be filtering the rows from the table you called in the first action.
 
 An example would be that you want to select only succesful CI pipelines. You know that this event is captured in the `prep_ci_build` table and that you just need to filter on the `failure_reason` column.
@@ -117,6 +123,16 @@ The JSON will look like that:
   }
 ```
 
+Make sure that the CTEs added in this step have all of the above fields when available (`user_column_name`, `ultimate_parent_namespace_column_name`, ...). These fields aren't available for all events and should be set to "NULL" when not applicable, e.g. `"project_column_name": "NULL"`.
+
+In adition, the below fields must be present in the added CTEs:
+
+1. **dim_plan_id**. To track the plan at the moment of the event
+1. **created_date**. Date in which the event was created
+1. **created_at**. Timestamp in which the event was created
+
+For an example of the necessary fields that the prep tables need to have, review the [prep_cluster_agent](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common_prep/prep_cluster_agent.sql) model.
+
 ##### Test your MR
 
 The easiest way to test your changes would be to do it through our CI Pipelines capabilities. The first step would be to clone the production database (example below). This takes from 10 to 15 minutes.
@@ -141,3 +157,8 @@ Don't hesitate to ask any questions regarding your MR to Data Team members eithe
 
 Once the data is merged, you need to backfill the prep_event data. For this, please ask a Data Engineer to trigger the [Airflow Dag called t_prep_dotcom_usage_events_backfill](https://airflow.gitlabdata.com/tree?dag_id=t_prep_dotcom_usage_events_backfill) which will run the backfill for the last 3 years of data.
 
+Note: Usually individual partitions of the backfill fail. In this case, you can re run the failed partitions by clearing their status. This makes the process more time and resource efficient as it avoids resetting the entire DAG.
+
+##### Full refresh
+
+Finally, run a full refresh on `+fct_event`. This way the backfilled data will run through the necessary data models.
