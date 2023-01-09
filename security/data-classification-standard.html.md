@@ -45,7 +45,7 @@ The Data Classification Standard applies to all GitLab team members, contractors
 ### Customer Responsibilities
 * GitLab customers are responsible for managing their own data, to include identification and classification according to their own internal requirements. GitLab handles Customer Data internally according to our non-disclosure obligations written in our Mutual Non Disclosure Agreement and the controls identified in this standard. 
 
-## Procedure
+## Standard
 
 ### Data Classification Definitions
 

@@ -50,7 +50,7 @@ GitLab team members, contractors, consultants, vendors and other service provide
 ### Customer Responsibilities
 GitLab customers are responsible for managing their own accounts and tokens, should consider these standards as highly recommended, and adopt them according to their own internal requirements. GitLab handles Customer Data internally according to our non-disclosure obligations written in our Mutual Non-Disclosure Agreement, and we use the controls identified in this standard.
 
-## Procedure
+## Standard
 
 ### Compliance and Certification Standards
 

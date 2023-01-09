@@ -49,6 +49,8 @@ Tier 3 risks or observations identified at the information system or business pr
 | Gap Assessment Activities| [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) |
 | Ad-hoc observations | [Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/) |
 
+## Procedure
+
 ### Lifecycle Overview
 
 ```mermaid
@@ -58,8 +60,6 @@ graph TD;
   B --> D[Ignored or Invalid];
   C --> F[Resolved];
 ```
-
-## Observation Procedure
 
 ### Identifying Observations
 

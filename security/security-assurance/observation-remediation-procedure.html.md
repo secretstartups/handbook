@@ -44,6 +44,8 @@ This procedure details the remediation process for observations.
 | Managers to Executive Leadership | Responsible for escalation as necessary and resource allocation for remediation activity. |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure. |
 
+## Procedure
+
 ### Lifecycle Overview
 
 ```mermaid
