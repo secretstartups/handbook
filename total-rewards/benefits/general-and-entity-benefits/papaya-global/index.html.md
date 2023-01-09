@@ -122,3 +122,39 @@ Team members may be granted a special leave for the performance of Hajj under th
 * is given without pay
 * may not exceed 30 days
 * is granted only once during the employment duration with the company.
+
+
+## Italy - Dirigente
+
+The following benefits are provided by [Papaya Global](https://www.papayaglobal.com/) and apply to team members who are contracted through Papaya Global. If there are any questions, these should be directed to
+
+The mandatory contributions are below:
+
+| Dirigente                             |   |   |   |                                  Rate                                 |               |   |   |   |   |   |
+|---------------------------------------|---|---|---|:---------------------------------------------------------------------:|---------------|---|---|---|---|---|
+| Social Security (INPS)                |   |   |   | 26.54% + 10% of (Private Pension + Life Insurance + Health Insurance) |               |   |   |   |   |   |
+| Private Pension                       |   |   |   |                                 763,51                                | Fixed Monthly |   |   |   |   |   |
+| Life Insurance                        |   |   |   |                                 381,96                                | Fixed Monthly |   |   |   |   |   |
+| Health Insurance                      |   |   |   |                                 222,43                                | Fixed Monthly |   |   |   |   |   |
+| Training Funds                        |   |   |   |                                 24,17                                 | Fixed Monthly |   |   |   |   |   |
+| FASDAC Dirigenti Pensionati           |   |   |   | 98,01                                                                 | Fixed Monthly |   |   |   |   |   |
+| INAIL                                 |   |   |   |                                 1,01%                                 |               |   |   |   |   |   |
+| TFR                                   |   |   |   |                                 6907%                                 |               |   |   |   |   |   |
+| Disability Fund & Liability Insurance |   |   |   |                                  5,5%                                 |               |   |   |   |   |   |
+
+### Medical 
+
+Medical is covered by the [FASDAC](https://www.fasdac.it/) healthcare pension fund, to fill the gap for supplementary team members may be entited to a taxable allowance of €300 each month to go toward private medical insurance. To apply for this you must reach out to total-rewards@gitlab.com and save a copy of your medical insurance quote/invoice into WorkDay. 
+
+### Pension
+
+[FONDO MARIO NEGRI](https://www.fondonegri.it/): provide the supplementary social security benefits provided for in the NCBA  - integration to the Inps pension
+
+### Disability 
+
+[ANTONIO PASTORE](https://www.associazionepastore.it/): consists in a private life insurance combined with guarantees of assistance and protection for illness and disability. 
+
+### Annual leave
+
+According to the NCBA in force team members are entitled to 30 days of vacation per year (on a 6 day working week = 1.2 days of vacation for each day used within five working days) in addition to 4 days of *ex-festività* 
+
