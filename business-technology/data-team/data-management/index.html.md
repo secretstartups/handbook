@@ -40,7 +40,7 @@ The Enterprise Data Platform captures, processes, and stores [data collected fro
 | Data Management Team | Responsible for implementing and executing this procedure | 
 | Data Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-## Procedure
+## Standard
 
 ### Sisense
 
