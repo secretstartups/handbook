@@ -185,8 +185,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-02-13 | 2023-02-17 | NO SHADOWS | NO SHADOWS |
 | 2022-02-20 | 2023-02-24 | NO SHADOWS | NO SHADOWS |
 | 2022-02-27 | 2023-03-03 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr. Solutions Architect | AVAILABLE - REMOTE |
-| 2022-03-06 | 2023-03-10 | AVAILABLE - REMOTE | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr. Solutions Architect |
-| 2022-03-13 | 2023-03-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-06 | 2023-03-10 | [Aleksandr Lyubenkov](https://gitlab.com/alyubenkov) - Sr. SDET | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr. Solutions Architect |
+| 2022-03-13 | 2023-03-17 | AVAILABLE - REMOTE | [Aleksandr Lyubenkov](https://gitlab.com/alyubenkov) - Sr. SDET |
 | 2022-03-20 | 2023-03-24 | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-27 | 2023-03-31 | AVAILABLE - REMOTE | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE |
 
