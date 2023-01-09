@@ -295,7 +295,7 @@ Reinstall your specific applications that are not working properly.
 
 With the installation of JAMF comes Self Service which can be found in Applications. Jamf Self Service for macOS allows users to browse and install applications, configuration profiles and update your OS easily. 
 
-### Using JAMF Self Service to Update your OS
+### Using Jamf Self Service to Update your OS
 
 You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. There are 2 ways to do this to do this
 
@@ -317,9 +317,11 @@ Update your existing OS to the most recent version
 4. From here you'll see 'Check for Apple Software Updates'. Click on that, and follow the instructions to update your OS
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
-### Using JAMF Self Service to Erase your Mac 
+### Using Jamf Self Service to Erase your Mac 
 
-macOS Monterey includes Erase All Content and Settings, a way to quickly and securely erase all of your settings, data and apps, while maintaining the operating system currently installed. You can use JAMF's self service to do this for you. This functionality is only available when using macOS Monterey on a Mac with Apple silicon or a Mac with the Apple T2 Security Chip.
+macOS Monterey and newer includes Erase All Content and Settings, a way to quickly and securely erase all of your settings, data and apps, while maintaining the operating system currently installed. You can use Jamf's self service to do this for you. This functionality is only available when using macOS Monterey on a Mac with Apple silicon or a Mac with the Apple T2 Security Chip.
+
+If you are needing to wipe a machine because you have received a new (refreshed) system for GitLab work, please contact #it_help to perform the wipe and decommission from Jamf management.
 
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
