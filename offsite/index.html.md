@@ -164,7 +164,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. E-Group Offsite Month: January
 1. Following Board Meeting Month: March
 1. Final [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets 
-1. Start annual review of [**Three Year Strategy**](/company/strategy/) (0.5 day)
+1. Start review of [**Three Year Strategy**](/company/strategy/) (0.5 day)
 1. Product **Roadmap** including competitive differentiation
 1. [**Talent** assessment and succession planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
