@@ -59,18 +59,18 @@ You may request additional shadow opportunities, if you'd like additional practi
 Everyone who interviews a candidate must complete a scorecard and is required to input pros and cons as well as an overall recommendation.
 
 #### Interview scorecards
-- {Talent Acquisition Process: Hiring team to complete feedback in Greenhouse}(https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
+- [Talent Acquisition Process: Hiring team to complete feedback in Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
 
 ##### Tips for completing interview scorecards
 
 - Enter your notes into each of the text areas provided in the candidate's Greenhouse Scorecard.
 - Clean up any typos, misspellings, or incomplete statements as desired to aid the hiring manager's review process.
-- Review the notes of the candidate's answers against the appropriate {Rubric document}(#interview-rubrics) and consider how their answers compared to it.
+- Review the notes of the candidate's answers against the appropriate [Rubric document](#interview-rubrics) and consider how their answers compared to it.
 - Add your assessment of the candidate in the Pros/Cons sections of the Greenhouse Scorecard.
 - Complete your assessment of the candidate's Attributes, only providing an assessment of the attributes that were discussed, and were available on their resume/CV, or portfolio. If an assessment didn't come, leave it unanswered.
 
 #### Reference scorecards
-- {Talent Acquisition Process: Complete references}(https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
+- [Talent Acquisition Process: Complete references](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
 
 #### Justification scorecards
 
