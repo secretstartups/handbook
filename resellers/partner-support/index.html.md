@@ -65,6 +65,7 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 - [Channels Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel)
 - [Internal GitLab Channel Partner Program Discounts and Incentive Guide](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing)
 - [Working with Partner Help Desk](https://docs.google.com/presentation/u/0/d/1tT5xcx04mlFyuftL5ECPH1VCZ0pkhW7caqnCkM7a-Ro/edit)
+- [Certification Dashboard](https://docs.google.com/spreadsheets/d/1PnjHrOtZAYlkQpNoSsAzNt0sT1oZh76Xy2x33CfCQ9k/edit?usp=sharing)
 
 </details>
 
