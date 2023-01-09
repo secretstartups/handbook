@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Research participantion gratuities"
+title: "Research participation gratuities"
 description: "Learn about how UX Research Operations Coordinators recruit"
 ---
 
