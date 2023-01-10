@@ -66,7 +66,7 @@ The Privacy, Product and Trade Compliance Team collaborates with all GitLab team
 
 #### Risk Management and Dispute Resolution
 
-The Risk Management and Dispute Resolution team addresses dispute resolution across a wide range of topics, including active claims and disputes, external and internal investigations, subpoenas, and third-party discovery requests.  The team also coordinates and collaborates with all GitLab teams, including Internal Audit, Finance, People, and Sales to manage and mitigate company risk.
+The Risk Management and Dispute Resolution team addresses dispute resolution across a wide range of topics, including active claims and disputes, external and internal investigations, subpoenas, and third-party discovery requests.  RMDR also coordinates and collaborates cross-functionally with various GitLab teams to address, manage and mitigate company risk.
 
 ## GitLab Policies
 
