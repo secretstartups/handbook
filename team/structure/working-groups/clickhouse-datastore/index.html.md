@@ -20,6 +20,7 @@ canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 | Slack           | #wg_clickhouse_datastore (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/1ZZ7fE7s18Yxww9wp0-lO7mFxJmwop3pWvqINCQPNubA/edit#) (only accessible from within the company) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/2070) |
+| Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress) |
 
 ### Context
 
@@ -53,6 +54,7 @@ This Working Group has the following goals:
 #### Exit Criteria Progress
 
 | Criteria | Start Date | Completed Date | Progress | DRI |
+|----------|------------|------------|------------|------------|
 | [Document and review current ClickHouse uses/capabilities and future use cases](https://gitlab.com/groups/gitlab-com/-/epics/2075) | | | 0% | `@you?` |
 | [Develop and socialize architecture strategy for ClickHouse usage](https://gitlab.com/groups/gitlab-com/-/epics/2076) | | | 0% | `@you?` |
 | [Develop a ClickHouse rollout strategy and plan](https://gitlab.com/groups/gitlab-com/-/epics/2077) | | | 0% | `@you?` |
