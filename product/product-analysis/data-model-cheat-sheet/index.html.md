@@ -114,6 +114,8 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 
 * [Definitive Guide to xMAU Analysis](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 
+* [Schema file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) containing SQL logic for the creation of each postgres table available in production.
+
 </details>
 
 
@@ -136,49 +138,48 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 
 <details markdown="1"><summary>Click to expand</summary>
 
-* 
-
-* 
-
-* 
+* Gitlab.com data sources are not exhaustive of all of the actions users can take within GitLab's SaaS offering.
 
 </details>
 
 ### Snowplow
 
+Snowplow is an open source event tracking tool that is used at GitLab to track Gitlab.com front-end events like page views, CTA clicks, link clicks, etc. This data source does not collect identifiable user data to protect our user's privacy. Our Snowplow data source is how we implement and track experiments at Gitlab.
 
 #### FAQs
 
-> 
-* 
+> Why doesn't the metric that my team implememented show up in the [metrics dictionary](https://metrics.gitlab.com/snowplow)?
+* In order to show up in the [metrics dictionary](https://metrics.gitlab.com/snowplow), every event needs a [.yml file](https://gitlab.com/gitlab-org/gitlab/-/tree/master/config/events). This will not happen automatically and should be created by the engineer that implements snowplow tracking.
 
-> 
-* 
+> Why is the value for `gsc_namespace_id` null for some proportion of snowplow events?
+* Engineers need to enable tracking for `gsc_namespace_id` when implementing new events. If tracking for `gsc_namespace_id` is already enabled and nulls are still occuring, the events may be triggered in a location within Gitlab.com that is not specific to any one namespace like the ToDos page.
 
-> 
-*
 
 #### Documentation
 
 
 <details markdown="1"><summary>Click to expand</summary>
 
+* [Guide to Snowplow for Product Managers](https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/#sts=Snowplow)
+
+* [Technical Snowplow overview](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/)
 
 </details>
 
 
 #### Commonly Used Data Models
 
+New and improved Snowplow models are in development. 
 
 <details markdown="1"><summary>Click to expand</summary>
 
 | Schema | Table Name | Data Grain | Description | Notes |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| legacy | [snowplow_structured_events_90](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.snowplow_structured_events_90) | `event_id` | Snowplow structured events that have fired in the last 90 days. | snowplow_structured_events_190, snowplow_structured_events_400 and snowplow_structured_events_all are also available |
+| legacy | [snowplow_page_views_90](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.snowplow_page_views_90) | `page_view_id` | Page view events that have fired in the last 90 days. | snowplow_page_views_30 and snowplow_page_views_all are also available |
+| workspace_product | [fct_behavior_structured_event_experiment](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_structured_event_experiment) | `behavior_structured_event_pk` | Derived fact table for structured events related to experiments. |  |
+
+
 
 </details>
 
@@ -186,6 +187,12 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 
 
 <details markdown="1"><summary>Click to expand</summary>
+
+* If you are wondering if Snowplow events are implemented in a certain area of the product, the [Snowplow Inspector](https://chrome.google.com/webstore/detail/snowplow-inspector/maplkdomeamdlngconidoefjpogkmljm?hl=en) is a good complimentary resource to the [Metrics Dicitonary](https://metrics.gitlab.com/) which is not exhaustive. 
+
+* We do not use snowplow on our self-managed instances, only on GitLab.com
+
+* If developers or PMs are wondering about standard implementation, the event schema is documented [here](https://docs.gitlab.com/ee/development/snowplow/index.html#event-schema). 
 
 
 </details>
