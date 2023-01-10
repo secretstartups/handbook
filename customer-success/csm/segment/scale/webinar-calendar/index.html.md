@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### Americas Webinars
 
-#### Intro to CI/CD
-##### January 10th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Tra-s19dTemUiFQOqmoJJg)
-
 #### Advanced CI/CD
 ##### January 18th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
