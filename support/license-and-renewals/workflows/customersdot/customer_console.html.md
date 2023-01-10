@@ -36,6 +36,8 @@ Consider creating a [Shell alias](/handbook/tools-and-tips/#shell-aliases) such 
 alias cdot-console="ssh -t <YOUR_USERNAME>@customersdot-prod 'support_console'"
 ```
 
+- If needed, review the [Production SSH Config settings here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/setup/production.md) for more information on configuring your local SSH settings to access the console.
+
 ## Scope
 
 The console will be for tasks which cannot be completed from the tools we have available.
