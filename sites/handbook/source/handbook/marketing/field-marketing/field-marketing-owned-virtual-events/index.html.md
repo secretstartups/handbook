@@ -541,6 +541,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 * Project Management in GitLab (epic, issue, timeline creation): FMM/FMC
 * GitLab-Hosted Webcast Calendar: FMC
 * Zoom setup and integration: FMC
+* Content Creation: DE (Demo Engineer)
 * Landing page and email copy (templated with limited customization, if any): FMM/FMC
 * Marketo program, SFDC campaign: FMC
 * Landing page, email creation: Verticurl
@@ -628,15 +629,7 @@ We do not offer the webcast recording on demand.  However, we do provide a link 
 #### Workshop Registration Caps and Closing Registration
 **DRI: FMC and FMM**  
 
-The GitLab demo environment can currently support up to 250 users at one time, however, capacities per workshop are highly dependent on content and how many SAs will be supporting the event. The FMM is to work with the Lead SA to determine the maximum capacity and number of SAs for each workshop. Below are baseline estimates to optimize attendee experience.   
-
-| Workshop                   | Capacity (accounting for 40-50% workshop attendance rate) | Minimum Number of SAs
-|----------------------------|--------------------------------------------------| ------------------------
-| DevOps Automation          |                  250-350                         |  2
-| Project/Program Management |                  250-350                         |  2
-| GitLab Security + Compliance                  |                  250-350                         |  2-3
-| Advanced CI/CD             |                  250-350                         |  3-4
-| Jenkins Migration          |                  150-200                         |  2 (also recommended to have 1 professional services rep or have 1 SA receive training from Bryan May or James Sandlin)
+The GitLab Learn Labs environment can currently support up to 250 users at one time, however, capacities per workshop are highly dependent on content and how many SAs will be supporting the event. The FMM is to work with the Lead SA & Demo Engineer to determine the maximum capacity and number of SAs for each workshop. All workshops capacity is 250-450 (accounting for 40-50% workshop attendance rate) and there is a minimum requirement of 2 SAs to present. Maximum registration numbers should never exceed 500.
 
 ##### Checking Registration Numbers 
 FMCs are the DRIs for checking the registration numbers regularly via the Marketo program (linked in the epic code - registration numbers are listed on the main Marketo program page) or SFDC campaign (by pulling a report and sorting by the Registered field). Note that due to potential delays with the sync between Marketo and SFDC, it is recommended to check the Registration number in Marketo. 
@@ -675,15 +668,10 @@ In order to cap registration, we remove the registration form on the Landing Pag
 **DRI: FMM and FMC**
 
 1. Review the current workshops and identify if what is offered meets your criteria or if a new workshop needs to be created to meet your objectives.   
-**Current Workshops available include:**      
-   - [**DevOps Automation Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1337) This is a basic 101 introduction to GitLab designed to encourage customers to try us out and move sales from considering to buying.    
-   - [**Program and Portfolio Management Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1334) This workshop is designed to assist project and portfolio teams to gain first hand knowledge into the teams and projects aligned with ongoing business initiatives when using GitLab. 
-   - [**GitLab Security + Compliance Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1336) This workshop is intended to be a hands-on event for existing and new users of GitLab. Its focus is Security / Shifting Left.
-   - [**Advanced CI/CD:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1335) This workshop is a deep-dive workshop on Advanced GitLab CI/CD to enable you to take your automation game to the next level and provide thought leadership within your organization. CI Experience Required. 
-   - [**Jenkins Migration Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2051) This workshop is a hands-on demo and guided lab showing moderate to advanced Jenkins/GitLab users how to convert both freestyle jobs and Jenkinsfiles in Jenkins into GitLab’s .gitlab-ci.yml format. 
+**Current available Workshops can be found [**Here**](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER)**
 1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/virtual-events/#calendar) to view calendar of scheduled events.
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
-1. Once a date has been confirmed, Lead SA must coordinate with the Demo Systems Engineer (Jeff Martin) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
+1. Once a date has been confirmed, Lead SA must coordinate with the Demo Engineer (Logan Stucker) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
 1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
 1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SALs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
 1. Create a [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date)
