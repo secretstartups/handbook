@@ -206,6 +206,7 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
 
 This section should be used for all customer communications to communicate product or security issues and risk. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
 
+For low-priority, non-security and non-emergency customer communications, you may skip getting the approvals from VP level of your department if your manager and the VP of Customer Success signs off on it. 
 ### Recommended format for customer emails
 The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and acted upon. 
 
