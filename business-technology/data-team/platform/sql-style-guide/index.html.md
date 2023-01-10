@@ -54,9 +54,15 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 - selecting the dialect to snowflake
 - selecting the templater to be dbt
+- excluding the following rules:
+  - L016 Line length
+  - L031 No table aliases in FROM or JOIN clauses
+  - L034 Order of simple targets and calcuations in SELECT statment
+- aligning column aliases within the SELECT statement
+- excluding the use of hanging indents
 - selecting the tab size to be 2 spaces
-- selecting the max line length to be 100
 - selecting Key words and Functions to always be upper case
+
 
 The configuration file that the Data Team uses can be found in the [GitLab Data Team repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/.sqlfluff).
 
