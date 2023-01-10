@@ -55,6 +55,8 @@ Watch EVP, Engineering Eric Johnson discuss the power of OKRs from his perspecti
 
 When writing objectives and key results focus on what you want to accomplish (the objective) and how you will measure the success (the key result). 
 
+To learn about the industry best practices for OKRs, how setting the right goals can mean the difference between success and failure, and how we can use OKRs to hold our leaders and ourselves accountable, watch [John Doerr's Ted Talk](https://www.youtube.com/watch?v=L4N1q4RNi9I).
+
 ### Criteria for Objectives
 
 Objectives should be:
@@ -94,10 +96,31 @@ Key Results should be:
 The following formula can be used to write objectives: 
 Verb + What you want to do + In order to/for/so that (what you hope to achieve or rationale for objective). 
 **Objective Example**: Increase awareness of company in the market in order to increase sales.
+- _Clear goal including rationale for pursuing that goal_
 
 The following formula can be used to write Key Results: 
 Verb + what you’re going to measure + from “x to y”.
 **Key Result Example**: 100% of employees certified on OKR expectations and process.
+
+For information on getting started with OKRs]) and writing basic OKRs, consider reviewing the [OKRs 101 lessons on What Matters](https://www.whatmatters.com/get-started). The ["6 Principles of setting OKRs"](https://primalogik.com/blog/okr-examples-best-practices/#How-to-Set-OKRs) may also be helpful.
+
+#### Example OKRs
+
+Product OKR example:
+
+**Objective**: Drive a meaningful impact on Usability (Bugs, Infradev, Security) in order to avoid losing users due to usability issues. 
+**KRs (Key Results):**
+- group::threat insights: Meet SLAs for all P1 and P2 bugs affecting usability
+- group::code review: Reduce mean-time-to-close of S1 + S2 bugs by 50%
+- group::editor: Complete 10 usability issues related to our primary categories (Web IDE, Snippets, Wiki)
+
+Samples of well written KRs from GitLab team members:
+
+1. [Q2 product group KR experiment](https://gitlab.com/gitlab-com/Product/-/issues/2095). What makes these great is that they're succinct in scope and have clear metrics to measure success.
+
+External resources:
+
+1. [Examples from whatmatters](https://www.whatmatters.com/get-examples).
 
 ### Measuring Brand New Initiatives
 
