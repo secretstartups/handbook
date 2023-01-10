@@ -108,6 +108,11 @@ Check the `Created By` value of either (1) the invoices for the specific purchas
 Web direct purchases also create a Quote in the customer's SalesForce account. However, the **Status** of the Quote is almost always `New`. 
 - For Sales assisted and reseller purchases, you can confirm the details of the successful purchase by checking the Quote in the customer's SalesForce account with its **Status** set to `Sent to Z-Billing`.
 
+#### 5. What if the exemption is on an Opportunity that is NOT Closed-Won?
+Cloud Licensing is **required** on a Closed-Won Opportunity because Support follows the Quote that has its `Status` as `Sent to Z-Billing` to confirm the license details that has been exempted.
+- If the provided Opportunity is in an open stage, you can let the requester know they should use the [pre-sale opt out process](https://docs.google.com/presentation/d/1gbdHGCLTc0yis0VFyBBZkriMomNo8audr0u8XXTY2iI/edit#slide=id.g137e73c15b5_0_298) and then close the Internal Request as invalid. 
+- If the provided Opportunity is Closed Lost, you can let the requester know the Opportunity must be Closed Won and then close the Internal Request as invalid.
+
 ### How does Cloud Licensing impact customers who have purchased multi-year GitLab subscriptions?
 
 - If an existing or new customer purchases a multi-year subscription and has Cloud Licensing enabled then the Cloud Activation Code they receive will be valid for the entirety of the subscription period.
