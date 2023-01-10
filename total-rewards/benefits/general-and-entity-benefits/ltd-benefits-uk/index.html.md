@@ -48,7 +48,7 @@ Pre-existing medical treatments for medical issues that have occured in the past
 * you’ve had a period of 12 consecutive months since you joined that have been trouble-free from that condition.
  
 
-For addtional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
+For additional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
 
 Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
 
@@ -168,7 +168,7 @@ The following process is followed by GitLab People Operations to join the Scheme
 
 When an employee joins the scheme they will be sent a welcome pack in the post stating that they are now a scheme member, it will also have their login details. Employees can login to access their own personal fund and can make adjustments as they see fit. 
 
-If the team member hasn't received their Scottish Widows package in the mail within their first 2 months of thier joining date, they can log on to their 
+If the team member hasn't received their Scottish Widows package in the mail within their first 2 months of their joining date, they can log on to their 
 [Scottish Widows Portal](http://www.scottishwidows.co.uk/personal). Select “Register Now’, and fill out your details (no need to fill out the Policy Number, as you can use your National Insurance Number instead). Please do not try to log in via the portal before Papaya has uploaded your information in accordance to the schedule above, as you will be denied access.
 
 Some other key points of the scheme are as follows:  
@@ -403,14 +403,15 @@ GitLab uses TravelHub to assist with the administration of the bike to work/tax 
 
 From 2021, Cycle to work will have a maximum expenditure of 1250 EUR or 1500 EUR for an electric bike. The scheme may now be availed of once in 4 consecutive tax years, previously this was once every 5 years.
 
-Bike Applications:
+#### Bike Applications
 
 Once your account is created, select a Bike to Work UK partner shop.
 Pick the new bike and accessories if required.
 Upload the quote received from the bike ship to the TravelHub portal to have the order approved.
 The Total Rewards team will receive an email with the request to login, review, and approve the application (credentials can be found in 1password). Please note that all payments should be made to TravelHub directly and not to the supplier chosen by staff. TravelHub will pay the supplier once the employee has received their Bike or Ticket.
 Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike using a Salary Sacrifice Agreement.
-Ticket Applications:
+
+#### Ticket Applications
 
 Once your account is created, select a Travel Operator.
 Select either a monthly or yearly ticket.
@@ -425,7 +426,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
 ### Adding/Removing Team Members from Help@Hand
 
 1. Pull a the UK Help@Hand Report from Workday
-1. Log on to the Emloyer Help@Hand Platform
+1. Log on to the Employer Help@Hand Platform
 1. To add joiners, select "Add Employees" > "Import Employees" > Include new hire emails in CSV file and upload to the portal.
 1. To remove leavers select "De-register Employees" > "Import Employees", include leaver's emails in CSV file and upload to portal
 1. To remind Team Members of Help@Hand benefit, select "Export Employees", copy emails of "Unregistered" team members and send a reminder email to register
@@ -451,6 +452,6 @@ Additional details can be found on the [Adding/Removing Team Members Help@hand G
 1. The first week of February WTW will send Total Rewards a report of the actual annual premiums along with Calculations for BIK, and Employee Premium amounts. If TR does not receive this in the first week of February, contact Helen.Dutton@willistowerswatson.com 
 1. Total Rewards will request a report from Non-US Payroll of the BIK and Employee Premium Amounts for the Tax Year.
 1. Total Rewards will preform a reconciliation between the data no later than February 15th. 
-1. If a team member needs an adjustment, Total Rewards will inform the team member & the Non-US Payroll team to make the adjustment in the February pay period. 
+1. If a team member needs an adjustment, Total Rewards will inform the team member & the Non-US Payroll team to make the adjustment in the February pay period.
 
 
