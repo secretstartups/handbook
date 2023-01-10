@@ -93,12 +93,12 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 
 | Milestone          | Product Designer  | Engineer          |
 | ------------------ | ----------------- | ----------------- |
-| 15.9 (2022-01-18)  |                   |                   |
-| 15.10 (2022-02-18) |                   |                   |
-| [15.11 (2022-03-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/387070) | Annabel Gray      |                   |
-| 16.0 (2022-04-18)  | Rayana Verissimo  |                   |
-| 16.1 (2022-05-18)  |                   |                   |
-| 16.2 (2022-06-18)  |                   |                   |
+| 15.9 (2023-01-18)  |                   |                   |
+| 15.10 (2023-02-18) |                   |                   |
+| [15.11 (2023-03-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/387070) | Annabel Gray | Phil Hughes |
+| 16.0 (2023-04-18)  | Rayana Verissimo  |                   |
+| 16.1 (2023-05-18)  |                   |                   |
+| 16.2 (2023-06-18)  |                   |                   |
 
 <details>
 <summary>
