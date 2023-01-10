@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Third Party Risk Management"
+title: "Security Third Party Risk Management"
 ---
 
 ## On this page
@@ -24,9 +24,9 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose 
 
-GitLab's Third Party Risk Management (TPRM) Program helps guard against threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
+GitLab's Security Third Party Risk Management (TPRM) Program helps guard against security threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
 
-GitLab's TPRM program involves three components which are integrated in to our [Procurement](https://about.gitlab.com/handbook/finance/procurement/) processes: 
+GitLab's Security TPRM program involves three components which are integrated in to our [Procurement](https://about.gitlab.com/handbook/finance/procurement/) processes: 
 1. Performing due diligence to ensure the third party implements safeguards to enforce data privacy and security.
     - This activity is performed via our Security Assessment Process. 
 1. Contractually obligating the third party to implement these safeguards. 
@@ -155,13 +155,14 @@ GitLab TPRM Engineers reserve the right to perform additional procedures at thei
 
 | Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and Successful Failover Report |
 | ------ | ------ |------ |------ |------ |------ |------ |------ |
-|Red	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	Yes|	If applicable|	Yes|	If applicable| Yes |
-|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No*|	Yes|	Yes|	Yes| No |
+|Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	Yes|	If applicable|	Yes|	If applicable| Yes |
+|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| No |
 |Orange	|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
 |Yellow	|-|	-|	-|	-|	-|	-| No |
 |Green	|-|	-|	-|	-|	-|	-| No |
 
-*Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
+*Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange Controllers.
+**Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
 
 
 ### Other Types of Third Party Assessments
