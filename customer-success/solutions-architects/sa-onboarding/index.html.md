@@ -50,9 +50,9 @@ Alternatively once you are active on [Slack](https://about.gitlab.com/handbook/c
 
 ### How to Access the SA Onboarding Program
 
-* Team Members will automatically be assigned to the edCast SA Onboarding Journey upon completion of the People's Onboarding and Sales Quick Start (SQS).
+* Team Members will automatically be assigned to the LevelUp SA Onboarding Journey upon completion of the People's Onboarding and Sales Quick Start (SQS).
 
-* [PLEASE, use this link to access the SA Onboarding Journey on edCast](https://gitlab.edcast.com/journey/solutions-architect-onboarding-journey)
+* [PLEASE, use this link to access the SA Onboarding Journey on LevelUp](https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
 
 
 
