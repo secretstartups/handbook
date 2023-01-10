@@ -89,54 +89,7 @@ the definitions of each stage is below. Please note that some features may not b
 It's never acceptable to make changes that risk any damage to existing production
 data accessed by our users.
 
-#### Alpha
-
-- not ready for production use
-- unstable and can cause performance and stability issues
-- the configuration and dependencies are likely to change
-- features and functions may be removed
-- data loss can occur (be that through bugs or updates)
-- should be behind a feature flag that is off by default
-- documentation for the feature should reflect alpha status
-- should not be announced in a release post
-
-#### Closed Beta
-
-Similar to Open Beta, but only available to selected users.
-
-- not ready for production use
-- unstable and can cause performance and stability issues
-- configuration and dependencies unlikely to change
-- features and functions unlikely to change
-- data loss less likely
-- should be behind a feature flag that is off by default and the UI should reflect beta status
-- documentation for the feature should reflect beta status
-- can be announced in a release post that reflects beta status
-
-#### Open Beta
-
-- not ready for production use
-- unstable and can cause performance and stability issues
-- configuration and dependencies unlikely to change
-- features and functions unlikely to change
-- data loss not likely
-- [support on a commercially-reasonable effort basis](https://about.gitlab.com/support/statement-of-support/#beta-features)
-- documentation for the feature should reflect beta status
-- can be behind a feature flag that is on by default and the UI should reflect beta status
-- can be behind a toggle that is off by default and the UI should reflect beta status
-- can be announced in a release post that reflects beta status
-
-#### Limited Availability (LA)
-- ready for production use by a small set of customers
-- can be booked by Deal Desk as part of an order
-- fully documented and [supported](https://about.gitlab.com/support/statement-of-support/#starter-premium-and-ultimate-users)
-
-#### Generally Available (GA)
-
-Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/.gitlab/issue_templates/production_readiness.md) for GitLab.com, which means that it is:
-
-- ready for production use at any scale
-- fully documented and [supported](https://about.gitlab.com/support/statement-of-support/#starter-premium-and-ultimate-users)
+Please refer to [Support for Alpha, Beta, Limited Availability, and Generally Available Features](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) for a list of the characteristics of Alpha, Beta, LA, and GA features.
 
 ### Deprecations, removals, and breaking changes
 
@@ -279,7 +232,7 @@ When renaming features follow the process [to rename a category](/handbook/produ
 
 When renaming a feature other items to consider are updates to documentation, blogs, direction pages and competitive information.
 
-### Using What's New to communicate updates to users 
+### Using What's New to communicate updates to users
 
 What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them. 
 
