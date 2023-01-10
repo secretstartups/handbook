@@ -1094,7 +1094,7 @@ The following is an example of how we implement a snapshot:
 {% endsnapshot %}
 ```
 
-Key items to note:
+**Key items to note:**
 
 - The database and schema are configured in `dbt_project.yml`. The database is an environmental variable while the schema is set to `snapshots`.
 - _Always_ select from a source table. Even if some deduplication is required, a source table must be selected from, as selecting from a downstream dbt model is prone to failure
@@ -1103,11 +1103,65 @@ Key items to note:
 - Avoid any transformations in snapshots aside from deduplication efforts. Always clean data downstream
 - Unless you don't have a reliable `updated_at` field, always prefer using `timestamp` as a strategy (over `check`). Please find [documentation about strategy here](https://docs.getdbt.com/docs/building-a-dbt-project/snapshots)
 
-##### Altering Snapshot Tables within `dbt snapshot`
+#### Snapshot Model Types
+ 
+While the DBT Snapshot tables are built directly over sources to capture changed records, tables are built over the snapshots to be used for analysis.  
+1. A DBT Snapshot model captures changed records for a single table. 
+   - The single table being snapshotted may be a Source table or a table already being used for analysis.   
+   - A Snapshot table is defined with {% snapshot table_name %} in the configuration section of the model. 
+   - The snapshot model has to be added to the the sources.yml file to be recognized by other models.  This is further described in the [Make snapshots table available in prod database](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#make-snapshots-table-available-in-prod-database) section below.   
+   - These tables have to be referenced as Source tables by other models because they are built in RAW.  ie. {{ source(location,name)}} syntax.    
+2. DBT models built over snapshot tables include snapshot data and are used for historical analysis. Multiple snapshots may be joined and logic added to provide a historical view of fully built out derived dimensions.    
+
+**DBT Snapshot Model:**
+ 
+The `strategy` to determine when a new snaphot record is written can be configured 2 different ways:
+ - `timestamp` uses a Date Column in the table to determine if that date has changed since the last snapshot was taken
+ - `check` uses a list of columns to determine if any of the columns have changed since the last time the snapshot was taken.
+ 
+The `record version` is determined by the `dbt_valid_from` and `dbt_valid_to` columns.  These TIMESTAMP columns are created automatically by DBT and utilized by the snapshot model to determine the timeframe of each snapshotted row. 
+ - When a new snapshot record is written, `dbt_valid_from` has the current date time and.  `dbt_valid_to` is NULL to show this is the most recent snapshot row.
+ - `dbt_valid_to` in the previous version of the record is updated with the same current date time as the new record.  
+ 
+DBT Snapshots, by default, are loaded incrementally. Records that have changed are picked up each time the snapshot operation runs.
+ 
+**DBT Model built over Snapshots:**
+ 
+- [Building Models on top of snapshots](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots) is further defined below.
+- DBT Snapshots are Source level data and are not queried directly for user analysis.  These tables may include the `dbt_valid_from` and `dbt_valid_to` columns to identify the `record version` which comes from the Dbt Snapshot table.   
+- `date spining` is used to show the record value for any day in history.  Rows are included for all dates between dbt_valid_from and dbt_valid_to.  This allows for easy analysis and joins for particular dates. 
+- These models may be configured as `incremental` because the underlying dbt snapshots are appended to and not modified. 
+- A published snapshot model may need to be refreshed if the structure or logic is changed.
+
+**Snapshot Model Type Features**
+
+The different types of snapshots are determined by basic features used when building models with snapshot data.  
+
+Some basic features of Snapshot models are:
+- `DBT Snapshot` - The DBT Snapshot model is built in RAW over a single table and is not available for analysis
+- `Over Snapshot` - Model built directly over the DBT Snapshot model
+- `Spined Dates` - Model built over one or more Snapshot models that includes Date Spining
+- `History Rebuild` - Model built over one or more Snapshot models using the same logic used to build out the SCD Dimension.  The history in these models can be rebuilt if the columns or logic changes. 
+
+**Snapshot Model Type Examples:**
+- Snapshot Methods used for ARR Data can be found [HERE](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/finance-arr/)  
+- Here are examples of snapshot models with the variation of features that help determine the type:
+
+| DBT Snapshot | Over Snapshot | Spined Dates | History ReBuild | Example                          |
+|--------------|---------------|--------------|-----------------|----------------------------------|
+|      X       |               |              |                 | [dim_subscription_snapshot](https://gitlab-data.gitlab.io/analytics/#!/snapshot/snapshot.gitlab_snowflake.dim_subscription_snapshot)                                 |
+|      X       |               |              |                 | [dim_user_snapshot](https://gitlab-data.gitlab.io/analytics/#!/snapshot/snapshot.gitlab_snowflake.dim_user_snapshot) |
+|              |         X     |              |                 | [dim_namespace_hist](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_namespace_hist)           |
+|              |         X     |              |                 | [dim_user_hist](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_user_hist) |     
+|              |         X     |      X       |                 | [dim_subscription_snapshot_model](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_subscription_snapshot_model)
+|              |         X     |      X       |         X       | [dim_subscription_snapshot_bottom_up](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_subscription_snapshot_bottom_up)
+|              |         X     |      X       |         X       | [dim_user_snapshot_bottom_up](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_user_snapshot_bottom_up)
+ 
+#### Altering Snapshot Tables within `dbt snapshot`
 
 dbt does a great job of handling schema changes in snapshots, but given the breadth of our main project repository there is the possibility of collisions when we're also changing source schemas in an extraction. **Adding columns to extractions source schemas of snapshotted tables should be done in a prior and seperate merge request from the changes to the snapshot.** dbt references the existing schema in the source tables (in `RAW`) when running snapshots and so the snapshots need to run at least once with the new schema present in the source data before changes can be made to the snapshots themselves with reference to these new columns.
 
-##### Testing Snapshots
+#### Testing Snapshots
 
 Testing of a snapshot can be done in a merge request using the [specify_snapshot](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_snapshot) CI job.
 Engineers should test locally using Airflow, as the proper environment variables are handled based on the git branch.
@@ -1115,7 +1169,7 @@ Testing should NOT be done while on the master branch.
 It is not recommended to test locally by setting the `SNOWFLAKE_SNAPSHOT_DATABASE` environment variable.
 This should never be set to `RAW` as it will overwrite production data.
 
-##### Snapshots and GDPR
+#### Snapshots and GDPR
 
 Sometimes the data team receives requests to delete personal data from the Snowflake Data Warehouse, because of GDPR. To address these deletions, we use `dbt` macros. A macro scans all applicable data that needs to be removed, this also applies to snapshot tables.
 
@@ -1134,7 +1188,7 @@ This means we don't have source models.
 Base models for snapshots are available in the folder /models/snapshots of our dbt project.
 Key items to note:
 
-- Before writing a snapshot base model, don't forget to add it in the [sources.yml file](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/sources.yml) (keep this file sorted)
+- Before writing a snapshot base model, don't forget to add it in the [sources.yml file](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/sources.yml) This entry is required for the snapshot to be recognized and used by other models. (keep this file sorted)
 - The name of the table in the data warehouse should be consistent with our data warehouse design guideline. Ideally we would like to stick to `{source_name}_{source_table_name}_snapshots` as our naming convention. But dbt doesn't allow duplicated file names in projects. In order to avoid this the snapshot and the snapshot base model having the same name, we follow this pattern:
     - The name of the base model file will be the name of the source snapshot table to which we suffix `_base`. Ex: we have a `gitlab_dotcom_members_snapshots` snapshot file [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snapshots/gitlab_dotcom/gitlab_dotcom_members_snapshots.sql) and a base model of this snapshot [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/gitlab_dotcom_members_snapshots_base.sql) named `gitlab_dotcom_members_snapshots_base`.
     - We use the [dbt config alias argument](https://docs.getdbt.com/docs/building-a-dbt-project/building-models/using-custom-aliases/) to rename the table by removing the `_base` suffix and keep the table name clean
