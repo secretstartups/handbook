@@ -106,11 +106,16 @@ If you are introducing a breaking change, you must notify the user community and
 
 #### Is this a breaking change?
 
-If the answer is yes to any of the following questions, the change is to be considered a breaking change and should only be introduced in a major version (unless it is a security fix).
+With a [few exceptions](#exceptions-for-breaking-changes), if the answer is yes to any of the following questions, the change is to be considered a breaking change and should only be introduced in a major version.
 
 - Does this change require an action from the customer to ensure continuity of function? (For example, removing background upload for object storage meant users needed to migrate objects to a supported object storage provider)
 - Does this change cause a disruption to a customer's workflows or tasks? (For example, removing support for the "WIP" prefix in MRs meant users would need to use the "Draft:" prefix instead)
 - Does this change cause other parts of the product to fail? (For example, removing certificate-based cluster integration means users can no longer install additional applications via GitLab Managed Apps)
+
+#### Exceptions for breaking changes
+
+- Security fixes resulting in a breaking change can be introduced during minor releases.
+- If an integrated service shuts down, the integration can be removed during a minor release.
 
 #### Deprecating and removing features
 
