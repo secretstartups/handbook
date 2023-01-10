@@ -98,5 +98,16 @@ Two things that won't work:
 1. "carrying" the day for some longer time in the future as if it is an accrued vacation time (because it isn't).
 2. Allowing your typical worked time to become longer. Fulfilling an Incident Manager shift should not result in adding total hours to your work week, but in some cases (weekends & holidays) it may ask that you shift those hours.
 
+#### How do I link the PagerDuty schedule from Google Calendar?
+
+1. Find the _webcal feed_ for the [Incident Manager - GitLab.com SaaS](https://gitlab.pagerduty.com/schedules#P2SF64D) schedule in PagerDuty, which can be found under `Schedule Info`
+1. Copy the `webcal://...` URL into Google Calendar by adding a calendar under the **Other Calendars** dropdown and select `from url`. Paste the webcal link.
+1. Each IMOC shift should now show up as an event in this read-only Calendar view. Feel free to rename the Calendar to something legible (and not `webcal://...`), e.g. `PagerDuty IMOC schedule`.
+1. You can also follow this same process to link to only your Pagerduty shifts by using the webcal link from the `https://gitlab.pagerduty.com/my-on-call/month` page.
+
+Benefits of adding the PagerDuty IMOC schedule into Google Calendar:
+- Search for yours or others' shifts, directly in Google Calendar.
+- Block off your time by duplicating events from this calendar into your own, then set reminders for yourself accordingly.
+
 ## Learning about Incident Management
 We have a detailed handbook page that covers how we do [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) at GitLab.
