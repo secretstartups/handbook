@@ -188,6 +188,10 @@ that best describes the situation:
 | `~feedback::soft-skills` | Support Engineer responses unhelpful or customer expectations mishandled |
 | `~feedback::technical-skills-engineer` | Support Engineer lacks skills or permissions to troubleshoot or resolve problem |
 | `~feedback::technical-skills-customer` | Customer lacks skills or permissions to troubleshoot or resolve problem |
+| `~feedback::unable-to-fulfil-customer-expectations` | Support unable to fulfil the request according to the customer's expectations |
+| `~ffeedback::extended-TTR-due-to-troubleshooting` | The ticket time to resolve was extended due to troubleshooting requirements of the issue |
+| `~feedback::extended-TTR-caused by-technical-complexity` | The ticket time to resolve was extended due to the technical complexity of the issue |
+
 
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
