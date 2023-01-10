@@ -783,7 +783,7 @@ A standard deck will also be used to ensure consistency across the world in term
 
 The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region).
 
-- [FY23 Standard deck](https://docs.google.com/presentation/d/1Py5x9bRC84YXYnvNCVjWdAEQy3YkgLcIP657jOujC_M/edit#slide=id.g29a70c6c35_0_68).
+- [FY24 Standard deck](https://docs.google.com/presentation/d/1-dscjXd0g-t9RmaWcgBACFb4pCp7wNlo6uRSpd55cb8/edit?usp=sharing).
     - Note: The deck is additive. You are only responsible for completing the slides that are due for the quarter we are in.
     - As the slides are due one (1) month before the end of the quarter.
     - The completed deck should be stored in your correct regions [shared folder](https://drive.google.com/drive/folders/1xtePKOl4RSINaPPr3InQNisYTQyOJ5JE). Anyone within GitLab has access to search and find this folder.
@@ -1441,17 +1441,19 @@ Field Marketing will:
 1. Be onsite to support the event as needed 
 1. Participate in Corporate Events lead stakeholder calls 
 
-### FY23 Tier 1 
+### FY24 Tier 1 
 1. AWS re:Invent 
+1. Gartner Application Summits - AMER, EMEA, APAC
+1. Gartner Security Summit - AMER
 
 ## Tier 2 
 Field Marketing will: 
 1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or 
 1. Will not be on onsite to support the event. 
 
-### FY23 Tier 2 
-1. DevOps Enterprise Summit - US
-1. KubeCon US 
+### FY24 Tier 2 
+1. KubeCon EU/US
+1. Black Hat US
 
 # Deprecated handbook content
 We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
