@@ -99,29 +99,33 @@ The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/co
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 * Selected candidates will be invited to schedule a 30-minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
-* After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **up to 20-minutes in duration** and returned **within ten days** of the screening call. If the recording indicates your past experiences will lead to your success in a role at GitLab, we will schedule the next interview stages.
+* After that, we'll invite you to create a 90-day plan in the form of a slide deck using this [template](https://docs.google.com/presentation/d/1FTiFcwxY1MoMSjg9KUAxSuvhF2mL0ZdAZ8Dd96gcPD0/edit?usp=sharing). The slide deck should be no more than 4 slides: intro, 3 slides for the 90-day plan, and final slide. The slide deck will be leveraged in discussion during the three rounds of interviews.
 
-> ### Why we ask for a pre-recorded presentation
+> ### Why we ask for a 90-day plan slide deck
 > 
-> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview. 
+> 1. It helps create a shared understanding of how you work between you and our interviewers ahead of the first interview. 
 > 1. It allows us to ask more informed questions about your experience and work during the interview process. 
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations or share slide decks, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
 > 
-> ### Presentation Topics
+> ### 90-day plan topics
 > 
-> 1. An introduction: who you are, where you're based, your background, and why you're a UX Research Operations Coordinator or why you're looking to move into a UX Research Operations Coordinator role.
-> 1. An overview of one *or* two projects that you drove related to UX research operations coordination. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the problem statement for the project(s); the goals of the project(s); how you approached the project(s); what you personally did on the project(s); the final outcome; the challenges you faced throughout the project(s); and the meaningful business impact that the project(s) resulted in. 
+> 1. An introduction: who you are, where you're based, your background, and why you're a UX Research Operations Coordinator or why you're looking to move into a UX Research Operations Coordinator role. (1 slide)
+> 1. Given the job responsibilities and requirements of the role, scaffold out a 90-day plan that demonstrates how you would approach role if you were hired. We want to understand: questions you would develop and how you would go about answering them; how you would structure goals/define focus areas/projects; gain buy-in; and how you would communicate your plan to the team. (3 slides)
 >
 > ### What we're looking for 
 > 
-> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
-> - Ideally, one project you present should be relevant to the work you'd expect do at GitLab. This could be related to recruitment challenges for a specific persona, panel creation and growth, improvements to processes, etc.
-> - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
+> - A 90-day plan that is 4 slides total that demonstrates how you would approach this role with existing processes. We would like to see how you would: investigate existing processes; understand what is working well and what is not working well; and what approaches you would take to learn more and/or execute on those. 
+> - You submit your slide deck either by creating a PDF version or sharing directly with a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en). 
 > - Your presentation to address each of the topics listed above.  
+>
+> ### What we're not looking for 
+> 
+> - A 90-day plan that focuses on your process for recruitment. While recruitment is a large focus of the role, it is not limited to that. We would like to understand how you approach planning, communication, and understanding of the role.
+>
 > 
 > ### Some useful resources
 > 
-> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
+> - [Template](https://docs.google.com/presentation/d/1FTiFcwxY1MoMSjg9KUAxSuvhF2mL0ZdAZ8Dd96gcPD0/edit?usp=sharing) to use when creating the 90-day plan slide deck. 
 > - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
@@ -131,7 +135,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Next, candidates will be scheduled for a 45-minute interview with a UX Reseach Operations Coordinator.  This interview will focus on experience related to project management, communications, identifying areas to improve, metrics related to UX research operations coordination, and so on.
 
-* Finally, candidates will be invited to a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences related to a UX Research Operations Coordinator, and the role of UX Research Operations Coordination at GitLab.
+* Finally, candidates will be invited to a 1-hour interview with the hiring manager. You will discuss your career, your experiences related to a UX Research Operations Coordinator, and the role of UX Research Operations Coordination at GitLab.
 
 * Successful candidates will subsequently be made an offer via Zoom.
 
