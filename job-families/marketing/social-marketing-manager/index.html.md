@@ -53,6 +53,12 @@ _Vary by job grade but include:_
 - Ability to learn to use GitLab as our project management and execution tool for all work (Don't worry, this comes with time. Be open to learning.)
 - BONUS: A passion and strong understanding of the industry and our mission
 
+## Performance Indicators 
+_May vary by specific job grade or specialty but generally include:_
+- Social Ad Value - GitLab-specific social media advertising dollar equivalent (e.g. what GitLab would have had to spend in ad dollars to receive a similar ROI for organic social media efforts). The specific values vary by campaign, timelines, and average cost of advertising at the time.
+- Engagement Rate - the number of times during a reporting period that users engaged with our posts as a percentage of impressions. This metric indicates how engaging particular content or campaigns are overall. Each channel has its own performance average and individual CTAs and campaigns will also be unique
+- Other indicators in relation to the two above which may include: follower growth, follower growth rate, impressions, clicks, response volume
+
 ### You must share our [values](/handbook/values/) and work under those values
 _A sample of how GitLab's core values show up in Social Marketing:_
 ##### 🤝 Collaboration
@@ -159,6 +165,48 @@ All of the responsibilities of a manager, plus:
 - Exposure to crisis communications and desire to learn more
 
 ------
+
+### Staff Social Marketing Manager
+
+Market Justification
+- The Staff Social Marketing Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social marketing strategy.
+- Additionally, this role will be key in bridging existing gaps between organic social marketing efforts and more enterprise integrated digital marketing initiatives, helping to shape GitLab’s new digital marketing experience.
+- Within public enterprise B2B technology organizations, approximately 1-3 team members exist in similar or the same role(s), particularly as a cross-section between social and digital marketing.
+
+This staff social media marketing manager role bridges the gap between two functional areas, social media, and digital marketing. The “Manager” designation indicates this role's ability to influence decisions across teams for a candidate who can drive innovation and experimentation beyond social media and their title in a specific department and is considered a problem solver. 
+
+Staff Social Marketing Managers on the Social Marketing team are prolific and creative social media strategists with experience in digital marketing and customer journey marketing. They define GitLab’s social media marketing strategy and create full-funnel campaign strategies that intersect areas of paid media, content, and sales. They own the delivery and results of associated Social Marketing deliverables and OKRs and the social media customer journey. They are focused on improving campaign results, productivity, operational efficiency, brand reputation and influencing customer decision making. They collaborate across digital marketing, sales, and content marketing, bridging more traditional organic social marketing efforts with integrated campaigns and digital marketing.
+
+#### Job Grade 
+{:.no_toc}
+The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
+
+#### Responsibilities
+{:.no_toc} Extends that of the Senior Social Marketing Manager role, plus:
+- Defines, implements, and regularly iterates on GitLab's social media marketing strategies with a particular focus on integrated digital marketing campaigns
+- Leads end-to-end brand social media marketing campaigns - including paid social where appropriate 
+- Oversees all external contributors, like agency vendors and individual contractors, including directing them as appropriate  
+- Operates as the social marketing expert on the cross-functional digital marketing team, collaborating on campaign strategy, position, messaging and customer journey mapping and engagement, ensuring social’s contribution to integrated marketing performance
+- Performs regular gap analysis to identify areas of success, improvement, and opportunity
+- Educates team members on social media best practices and manages social media team member engagement program to increase brand awareness 
+- Manages daily/weekly/monthly and quarterly reporting 
+
+#### Requirements
+{:.no_toc}
+- Minimum of 7 years of overall professional experience
+- 5+ years in a social marketing-related role
+- 1+ years of enterprise software marketing experience
+- A [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one) overseeing initiatives from beginning to end, and equally comfortable in a collaborative environment
+- Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
+- Exceptional communication skills Ability to pitch creative ideas
+- Ability to use GitLab
+
+#### Career Ladder for Grade 8 IC
+{:.no_toc}
+- Additional individual contributor roles beyond grade 8 are not yet defined at GitLab
+- Staff Social Marketing Managers may shift toward team leadership or people management by moving to a grade 8 or grade 9 manager role
+
+------
 ### Manager, Social Marketing
 
 Adding "Manager," to the front of the job title indicates that this role is a practice and people manager.
@@ -226,7 +274,7 @@ The next step in the Social Marketing job family is not yet defined at GitLab.
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-Anonymous data on social media experience is not accepted. Candidates are required to submit information about the brands they've worked on during the application process. Please include names and data in your resume, cover letter, or other supplemental content to support your candidacy.
+Anonymous data on social media experience is not accepted. Candidates are required to submit information about the brands they've worked on during the application process. Please include names and data in your resume, cover letter, or other supplemental content to support your candidacy. If you are uncomfortable providing this information on your resume, we will happily discuss during interviews, but we will need to know.
 
 Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
@@ -234,8 +282,8 @@ Qualified candidates will be invited to schedule a [screening call](/handbook/hi
  - Our Head of Social Media
  - At least one other member of the social media team
  - Our Director of Corporate Communications 
- - A member of a supporting group in events, evangelism, partner marketing, or digital marketing programs
- - Our Vice President of Corporate Marketing
+ - A member of a supporting team in events, evangelism, partner marketing, or digital marketing
+ - Our Vice President of Integrated Marketing
 - Finally, our CMO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
