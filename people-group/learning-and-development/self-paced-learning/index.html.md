@@ -20,7 +20,9 @@ The O’Reilly Learning library, contains thousands of books, videos and live le
 
 ### How to get an O'Reilly license
 
-The Customer Success team has a number of licenses available for department members. If you are in Customer Success and would like access to O'Reilly, please contact Kris Reynolds, `kreynolds@gitlab.com`.
+The Customer Success team has a number of licenses available for department members. If you are in Customer Success and would like access to O'Reilly, please check your Okta for the O'Reilly App. 
+If the O'Reilly App isn't listed on Okta, please open an Access Request using instructions on this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
+If you are unable to log in from the Okta O'Reilly App, please contact [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) with the AR number you created using the link above. 
 
 If you aren't in Customer Success but would still like access to an O'Reilly licenses, you can utilise the [Growth and Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to purchase a license. (Manager approval required)
 
