@@ -124,11 +124,11 @@ The Lead Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compe
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
 
-### Manager, Lead Legal Counsel
+### Managing Legal Counsel
 
-The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
+The Managing Legal Counsel is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades).
 
-### Manager, Lead Legal Counsel Responsibilities 
+### Managing Legal Counsel Responsibilities 
 * Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
 * Act as an escalation stakeholder, and approver, for reporting Legal Counsel; provide overall guidance in the drafting and negotiation process
 * Participate in annual planning with respect to headcount and budgeting 
@@ -141,7 +141,7 @@ The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-fami
 * Add information and feedback to Playbooks and other supporting documentation, as well as, empower Legal Counsel to do the same
 * Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
 
-### Manager, Lead Legal Counsel Requirements
+### Managing Legal Counsel Requirements
 * 8+ years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of time dedicated to commercial contracting
 * Juris Doctorate/United States law degree (or its equivalent) and bar admission in at least one US state, or the jurisdiction in which the Team Member is employed
 * Successful track record of managing and/or mentoring Legal professionals
@@ -186,6 +186,34 @@ The Principal Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
 
+### Senior Managing Legal Counsel
+
+The Senior Managing Legal Counsel is a [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades).
+
+### Senior Managing Legal Counsel Responsibilities 
+* Lead Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
+* Dedicated subject matter expert to resolve escalations and key stakeholder and approver for reporting Legal Counsel and cross-funtional team mebmers; provide overall strategy and guidance in the drafting and negotiation process
+* Participate in annual planning with respect to headcount and budgeting 
+* Oversee and engage on top priority and complex Agreements tied to large value transactions
+* Manage transactions to close and/or ability to navigate internal processes to obtain appropriate approvals and facilitate escalations
+* A trusted advisor to the business including Sales Leadership and supporting cross functional Team Memers key to driving projects and transactions to close with a strategic mindset toward addressing business needs and risks.
+* As needed, engage outside counsel resources and manage relationships with providers
+* Lead and assist with skill and career development for Legal Counsel
+* Draft and negotiate a wide range of contracts including services, consulting, marketing, licensing, non-disclosure, data privacy, and other commercial and technology related agreements
+* Identify gaps and opportunities for improvement to Playbooks and supporting documentation, as well as, empowering Legal Counsel to do the same
+* Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
+
+### Senior Managing Legal Counsel Requirements
+* 10 - 15  years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of time dedicated to commercial contracting and managing commercial teams or team members
+* Juris Doctorate/United States law degree (or its equivalent) and bar admission in at least one US state, or the jurisdiction in which the Team Member is employed
+* Successful track record of managing and/or mentoring Legal professionals in an in-house environment
+* Demonstrated experience successfully leading, navigating and managing cross-functional projects
+* Expertise in drafting and negotiating a wide variety of commercial, licensing and other technology-related agreements, including those for large dollar amounts or complex matters
+* Proactive, dynamic and result driven individual with strong attention to detail
+* Outstanding interpersonal skills, the ability to interface effectively with all business functions throughout the organization
+* Superior analytical ability, project management experience, and communication skills
+* Ability to manage internal customer priorities by driving strategic and operational efficiences to achieve both
+* Ability to use GitLab
 
 ## Specialties
 
