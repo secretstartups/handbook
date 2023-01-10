@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Certifications and Attestations"
+title: "GitLab.com Security Certifications and Attestations"
 ---
 
 ## On this page
@@ -33,12 +33,13 @@ Are you looking for security certifications/attestations for GitLab Dedicated? P
 * [SOC 3 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html): Security, Confidentiality and Availability Criteria
    * The SOC 3 report is available for general use by both customers and potential customers upon request. Please see SOC 2 Type 2 Report above for scope.
 * [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification
-   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS se
-   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS services and speak to the mature state of GitLab's information security program.   
+   * This standard specifies the requirements for establishing, implementing, maintaining and continually improving an information security management system (ISMS). The certificate is scoped to GitLab SaaS services (GitLab.com and GitLab Dedicated). There are many elements of the certification that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS services and speak to the mature state of GitLab's information security management program.   
+* [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html) Certification
+   * This standard establishes guidelines for information security controls applicable to the provision and use of cloud services.
 * [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html) Certification
-   * The report is scoped to GitLab SaaS services. There are elements of the report that cover organizational-level security considerations (e.g., Business Continuity Planning, Risk Assessments, etc.) which go beyond the scope of GitLab SaaS services and speak to the mature state of GitLab's information security program.
+   * This standard establishes commonly accepted control objectives, controls and guidelines for implementing measures to protect Personally Identifiable Information (PII).
 * [ISO/IEC 20243-1:2018](https://www.iso.org/standard/74399.html) Self Assessment
-   * Scoped to the SaaS application of GitLab, Inc. 
+   * This is a set of guidelines, requirements, and recommendations that address specific threats to the integrity of hardware and software COTS ICT products throughout the product life cycle. Scoped to GitLab.com and GitLab self managed.
 * [PCI DSS SAQ-A](https://www.pcisecuritystandards.org/pci_security/completing_self_assessment) Self-Assessment 
    * GitLab partners with PCI-compliant credit card processors in order to ensure adequate protections of payment processing information. 
 * [CSA Consensus Assessments Initiative Questionnaire v3.1](https://cloudsecurityalliance.org/star/registry/gitlab/) Security Self-Assessment
@@ -52,20 +53,20 @@ The following security certifications and attestations are currently on our road
 
 Year(s): FY24
 * [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): +Privacy Criteria
-* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Survellence audit
+* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Surveillance audit
 * [Software Bill of Materials (SBOM)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
-* PCI Attestation of Compliance: Third party declaration of compliance with Payment Card Industry Data Security Standard (PCI DDS)
-* [Cloud Security Alliance (CSA) Star Level 2](https://cloudsecurityalliance.org/star/) Third party audit
+* [PCI Attestation of Compliance](https://www.pcisecuritystandards.org/) 
+* [Cloud Security Alliance (CSA) Star Level 2](https://cloudsecurityalliance.org/star/) 
 
 Year(s): FY25
 * [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 
 ## Requesting Evidence of Certifications or Attestations
 
-GitLab's SOC3 report is publicly available and can be found within the `Community Package` on our [Customer Assurance Package webpage](https://about.gitlab.com/security/cap/). The nature of some of our other external testing is such that not all reports can be made publicly available. Not only do these reports contain very detailed information about how our systems operate (which could make a potential attack against GitLab easier) but these reports also contain proprietary information about how these audit firms conduct their testing. For these reasons we can only share SOC 2 and Penetration Test reports with prospective customers that are under an NDA with GitLab or with current customers bound by the confidentiality of our customer agreements. The reports should not be shared with anyone other than the individual requestor(s).
-
-GitLab Team Members should follow the [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) workflow and use the option for "Customer Request". 
+GitLab's SOC3 report is publicly available and can be found within the `Community Package` on our [Customer Assurance Package webpage](https://about.gitlab.com/security/cap/). The nature of some of our other external testing is such that not all reports can be made publicly available. Not only do these reports contain very detailed information about how our systems operate (which could make a potential attack against GitLab easier) but these reports also contain proprietary information about how these audit firms conduct their testing. For these reasons we can only share certain documentation with prospective customers that are under an NDA with GitLab or with current customers bound by the confidentiality of our customer agreements. The reports should not be shared with anyone other than the individual requestor(s).
 
 Current or Prospective customers may request these through their Account Manager, or by using the `Request by Email` option on the [Customer Assurance Package webpage](https://about.gitlab.com/security/cap/). 
+
+GitLab Team Members should follow the [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) workflow and use the option for "CAP Request". 
 
 [Return to Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/)
