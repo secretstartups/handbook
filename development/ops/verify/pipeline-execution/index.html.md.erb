@@ -110,7 +110,7 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 * By the **4th** of each month:
   * The [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?not%5Bmilestone_title%5D=Started&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=needs%20weight) should be updated by the PM for all issues being considered for the next milestone that need weight and apply the `workflow::planning breakdown` label.
   * Based on capacity, engineers will assign themselves to `~needs weight` issues to apply weight.
-  * The PM will assign or update `Verify::P*` labels for the refined issues.
+  * The PM will assign or update `Verify::P*` labels for the refined issues to reflect prioritization based on the Theme and Goals of the milestone and any Cross Functional Prioritization.
   * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
 * By the **7th** of each month:
   * The designated DRI for milestone refining will review the state of issues in `workflow::planning breakdown` to ensure that all issues for the upcoming milestone are being weighted and refined by team members. 
@@ -244,10 +244,10 @@ More detail on the workflow is available on the [Product-Development Flow](/hand
 
 We use a series of labels to indicate the highest priority issues in the milestone.
 
-1. The highest priorities for a given milestone would be issues labelled with `VerifyP1` and `group::pipeline execution`.
-1. Once all of the `VerifyP1` issues have been picked up and are in `workflow:in dev` or beyond, we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1` issues in the following milestones.
+1. The highest priorities for a given milestone would be issues labelled with `Verify::P1`, `Deliverable` and `group::pipeline execution` to align with the Theme and Goals of the milestone.
+1. Once all of the `Verify::P1` issues have been picked up and are in `workflow:in dev` or beyond, we have `Verify::P2` and `Verify::P3` to signal issues that are important and may become `Verify::P1` issues in later milestones.
 
-Any future product priorities (`VerifyP2` or `VerifyP3` labelled issues) will typically be in `workflow::ready for development` and have designs ready, and ideally already be weighted with proposals for implementation. Beyond the product `VerifyPX` priorities, the `ready for development` column will be stack ranked (or at least reviewed) daily by the Product Manager, so that each team member can pull from the top of the column expecting that it is already ordered in priority.
+Beyond the product `Verify::PX` priorities, the `ready for development` column will be stack ranked (or at least reviewed) daily by the Product Manager, so that each team member can pull from the top of the column expecting that it is already ordered in priority.
 
 To make sure we ship complete solutions in a [timely manner](https://app.periscopedata.com/app/gitlab/641753/UX-Debt) and contribute to the [overall CI/CD UX strategy](/handbook/product/ux/stage-group-ux-strategy/ci-cd/#strategy) we strive to close UX Debt Quickly. We try to dedicate a certain percentage (~10%) of our capacity by weight in each milestone to working on [ux debt](/handbook/product/ux/performance-indicators/#ux-debt) labeled issues and address them within their SLOs. We select items from the list of [open UX debt issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=UX%20debt&label_name%5B%5D=group%3A%3Apipeline%20execution) for pipeline execution. Our goal is to close the high severity [open UX debt issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=UX%20debt&label_name%5B%5D=group%3A%3Apipeline%20execution) and reduce the open UX Debt age from 620 to (at or below) 150 days.
 
