@@ -506,6 +506,54 @@ To create the contract:
 1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
+## How to add the New Hire to the remote platform
+
+1. Log into the remote platform 
+1. Click the onboarding tab on the left side of the page
+1. Click ‘add new employee’ on the top right corner of the page
+1. Click ‘employee’
+1. You be will be on the ‘employment eligibility’ page - fill in the candidates details and click continue
+1. You will now be on the ‘basic information’ page - fill in the candidates details and click continue
+1. You be will be on the ‘contract details’ page - fill in the contract details
+
+Kindly note the following when filling in this section:
+
+1. Contract Duration: Most contracts will be indefinite, unless specified by the Recruiter    
+    - Probation Period: Use the default or minimum options specified by Remote. Please utilize this section of the handbook to determine probation. 
+    - For Mexico: When adding a team member to the Remote platform you should select 30 days as a Christmas bonus, not 15.
+1. Type of employee: Full time
+1. Annual Gross salary: as stated in the offer details in GH
+1. Is this employee approved for outside employment: No
+1. Signing bonus: as stated in the offer details in GH
+1. Other Bonus: Do not include guaranteed draw. If asked, please loop in Marissa. Remote does not currently have enough of an in-depth understanding of our bonus structure to be able to include this information.
+1. Commision: No
+1. Equity Compensation: Do not include. 
+1. Number of paid time off days: Select the recommended days as mentioned by Remote
+1. Role Description: Copy/paste the job description within the job family. Make sure you’re only including the specific role they have, and you can skip the fillers at the beginning and end.
+1. Training requirement: Leave blank
+1. Supervisor Name: as stated in the offer details in GH
+1. Experience level: There will be different versions of these choices based on the country you are selecting. Choose the one that most closely matches your position, and ask the recruiter for recommendations if you’re unsure.
+1. Work Address: Select Yes
+1. Benefits - Select the following per country:
+
+| Denmark | Standard |
+| Austria | None |
+| Hungary | Standard |
+| Mexico | Allowance | 
+| South Africa | Allowance | 
+| Luxembourg | Premium | 
+| Brazil | Omint Plan (should be added for you) |
+| Italy | Premium | 
+| Spain | Premium | 
+| Switzerland | None
+| Sweden | Standard |
+
+1. Click on the benefits acknowledgement and continue
+1. You be will be on the ‘billing cycle’ page 
+1. Click on yearly billing cycle and click continue
+1. You will now be able to review all the candidate and contract details, you are able to edit them should you wish.
+1. Once you have reviewed, and everything is in order, click ‘invite now’. 
+1. Your candidate has been submitted successfully. You are able to see the progress on the Remote homepage. 
 
 ## Employment Agreements for GitLab team members in China
 
