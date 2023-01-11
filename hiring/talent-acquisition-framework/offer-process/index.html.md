@@ -36,7 +36,23 @@ Your Hiring Manager will be responsible for completing their reference checks.
 
 ### **Justification (Engineering Only)**
 
-See [Justification section in offer packages](/handbook/hiring/offers/#justification-section) for information about how to complete this step in the job offer process.
+Once it is determined that a candidate will be moving to the offer stage, the hiring manager will answer the following questions in the justification stage in the candidate's greenhouse profile:
+- In what specific way(s) does this candidate make the team better?
+- What flags were raised during the interview process? Include any past rejections, thumbs-down ratings, or hesitancy from previous interview scorecards (but not resume reviews), as well as your reasons for being comfortable moving forward despite these (preferably with confirmation from the past interviewer).
+- How do we intend on setting this candidate up for success?
+- Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) [for the specific role](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families)? (please add them to the appropriate scorecard section)
+- Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer)
+
+The justification section is a good place to add as much detail and context as possible since offers will often be reviewed by individuals that were not part of the interview process so this is their primary source of information for whether or not an offer should be approved.
+
+#### Recruiter Quality Check (Engineering Only)
+
+Once a candidate has gone through the whole process before creating an offer the recruiter will ensure the scorecard requirements in [Engineering Hiring Practices](https://about.gitlab.com/handbook/engineering/#hiring-practices) are met.
+
+The recruiter will leave a note in Greenhouse for the hiring manager as follows:
+
+- Yes - Ready to move to offer approval
+- More info need - **suggestions to be added**
 
 ### **Offer Approvals**
 
@@ -54,7 +70,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 * **Start date:** New hires start on Monday, with exceptions made for public holidays for a new hires’ location, Family & Friends Day, and other designated [no start dates](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) as chosen by People Connect. Additionally, internal hires with salary changes start on the 1st or 16th only (regardless of the day of the week), and those in Sales can only start on the 1st.
 
 
-* **Job Title:** It’s important that we use the correct title, which should not include a speciality. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay.
+* **Job Title:** It’s important that we use the correct title, which should not include a speciality. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay. In some cases, such as Area Sales Manager, industry standards indicate that our expected conventions will not work and exceptions are made. 
 
 
 * **Level of Role:** Anything Director+ is considered a “Leader”
@@ -80,7 +96,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 * **State/Province:** This field is synched with WorkDay and is only applicable to the US and Canada. 
 
 
-* **Candidate Country:** This field is synched with WorkDay. If the candidate is currently living in a different country than where their contract is stating (ie they currently live in Germany and are going to be working in Netherlands), please choose the place they will be working, but let CES know so they can order a background check for the place where they are currently working. 
+* **Candidate Country:** This field is synched with WorkDay. If the candidate is currently living in a different country than where their contract is stating (ie they currently live in Germany and are going to be working in Netherlands), please choose the place they will be working, but let CES know so they can order a background check for the place where they are currently working. Please note that Northern Ireland is part of the United Kingdom, so ask Enablement if you're unsure of what country to list.
 
 
 * **Locality:** Use [this link](/handbook/total-rewards/compensation/compensation-calculator/#location-factor) to help you determine your locality. More details on how to select a specific city can be found [here](/handbook/total-rewards/compensation/compensation-calculator/#introduction-2). 
@@ -89,7 +105,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 * **Comp Calc Link:** Include a link to the comp calc that you used to determine salary, or outside documentation. If you had an exception, please include a link to that documentation here. 
 
 
-* **Currency and Annual Salary:** Candidates are paid in local currency. [Click here](/handbook/total-rewards/compensation/#paid-in-your-local-currency) for a current list of any locations where exceptions can be made if a candidate asks. 
+* **Currency and Annual Salary:** Candidates are paid in local currency. [Click here](/handbook/total-rewards/compensation/#paid-in-your-local-currency) for a current list of any locations where exceptions can be made if a candidate asks. Annual and monthly salaries should be rounded up or down to the nearest whole currency unit and should always end with a zero (e.g., "50,110.00" or "23,500.00"). Hourly rates should be rounded to the nearest quarter-currency unit (e.g., 11.25/hr.).
 
 
 * **Are they paid yearly or hourly?:** If the salary is an annual salary, rather than an hourly rate, choose yearly. 
@@ -144,13 +160,29 @@ A description on what to input into each Offer field in Greenhouse can be found 
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. Remember that the Reference Check Form does not automatically update a candidates' legal name, so that will need to be updated manually in the Details tab. The Recruiter will ensure the offer is routed for approval.
 
-If the candidate for the position is internal, you should wait until after you've presented an offer, but before the candidate is marked as hired, to merge the applicants' profiles. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
+If the candidate for the position is internal, you should wait until after you've presented an offer, but before the candidate is marked as hired, to merge the applicants' profiles. All other candidates should have profiles merged as early as possible. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
 
-If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval. Pay special attention to candidates moving countries: even if the candidate is only in France for 1 month of employment and will then be permanently located in Switzerland, their entity and employment contract will be France. 
+**Compensation Considerations:** 
+
+When discussing a proposed compensation, the talent acquisition team and hiring manager should take into account the following: candidate expectations, role alignment in the market, and where within the compensation range peers are aligned internally at GitLab. The goal is to offer a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) to the candidate while maintaining [pay equality](/handbook/people-group/people-success-performance-indicators/#pay-equality) at GitLab.
+
+* If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval. Pay special attention to candidates moving countries: even if the candidate is only in France for 1 month of employment and will then be permanently located in Switzerland, their entity and employment contract will be France. 
+
+* For internal hires, be sure to include in the "Approval Notes" section the candidate's current level and position, as well as their compensation package.
+
+* You can also include any mitigating circumstances or other important details in the "Approval Notes" section of the offer details. If the comp has a variable component, please list base, on target earnings (OTE), and split in the "Approval Notes."
+
+
 
 #### **The offer approval process**
 
-The offer approval process begins with Total Rewards, who first reviews compensation details, job title, locality, and other details. Then, the FP&A partners associated with the jobs' department will approve. Finally, the department approves. 
+The offer approval process begins with Total Rewards, who reviews the following:
+ * Ensure the compensation is in line with our compensation benchmarks
+ * Ensure the bonus percentage, if applicable, matches bonus percent amount. For bonus/commission, this will be a percent of    OTE. For Director level bonus, this will be a percent of base. 
+ * Audit stock options, department, division, etc.
+ * Add entity, job code, job grade, sales geo differential
+ * Ensure the title is added to Workday.
+Then, the FP&A partners associated with the jobs' department will approve. Finally, the department approves. 
 
 Our best practice is to set up approvals so the department head, or VP, is the approval representative for the department alongside one backup approver. In some departments, there will be an additional approval before this at the Director level. Approval chains are set up to minimize single points of failure, including a backup when possible to approve when the main approver is out of office. 
 
@@ -159,17 +191,24 @@ Our best practice is to set up approvals so the department head, or VP, is the a
 * Offer stuck in approvals: If the offer is stuck in the approvals chain because of someone is out of office, the Recruiter can talk to the approver's manager about an appropriate temporary adjustment and recommend this to the Enablement team. Recruiters should be proactive in reaching out to approvers if an offer is urgent or a candidate is being inconvenienced by a long wait time. If there is a known OOO, this discussion should happen before there's an offer waiting for approval. Enablement can help with any changes needed.
 * Offer approvals chain is incorrect: If approvers are missing or incorrect, the Recruiter should contact a member of the Enablement team to adjust. The only people with access to make approvers changes are Enablement and Director, Executive Recruiting, who change approval chains to maintain confidentiality for executive positions.
 
+**Counter offer details:**
+Information in the offer package for counter offers should include the following in the "Approval Notes" section:
+
+   * New offer:
+   * Original offer:
+   * Candidate's salary expectation beginning of process:
+   * Candidate's counter offer:
 
 ### **Verbal Job Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
 Offer details usually include:
-- [Start Date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) - ensure that the candidates start date is not a no-start date (unless needed for legal reasons)
+- [Start Date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) - ensure that the candidates start date is not a no-start date (unless needed for legal reasons). They should never start on a National holiday in the country when they are located, and anticipate that the People Connect team requests at least 10 days' notice from the time the candidate is marked as hired until their start date.
 - Job Title
 - Salary
-- General and specific benefits
-- Contract type
+- General and specific [benefits](/handbook/total-rewards/benefits/)
+- Contract type and [employment type](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab)
 - [Onboarding process](/handbook/people-group/general-onboarding/#onboarding-at-gitlab)
 - [Asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [Stock options](/handbook/stock-options/)
@@ -186,6 +225,19 @@ If the candidate declines GitLab's offer, the Recruiter will tag the CES team an
 ### **Sending the Employment Contract/Offer Letter**
 
 Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate via Greenhouse email. The Talent Acquisition team will sometimes refer to an Offer Letter and Employment Contract interchangeably, because they are called Offer Letters in the US and Employment Contracts outside of the US. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Recruiters should also communicate if the candidate is moving between countries, because CES will need to request a background check in the country where they are currently living. The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check) during this stage. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
+
+### **Declined Offers**
+
+Although rare, there are times a candidate may decline an offer once an offer is verbalized, and/or once they have received a contract from GitLab. It is important to take the following steps if this occurs:
+
+* Declined at time of verbal offer (no contract generated, but offer fully approved)
+   * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
+   * Make appropriate changes in Adaptive (DRI: FBP)
+
+* Declined at time of contract (a contract has been generated)
+   * Notify CES via the candidate notes section in GH that the candidate has declined offer and the contract needs to be voided. CES will then follow their own decline process. (DRI: Recruiter)
+   * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
+   * Make appropriate changes in Adaptive (DRI: FBP)
 
 ### **After the Employment Contract is Signed**
 
