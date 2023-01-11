@@ -77,7 +77,8 @@ in the team.
 1. `Workflow::In Progress`: Issues that are actively being worked on by a developer.
 1. `Workflow::Verification`: Issues that have engineering work complete and ready for evaluation. At this point, the developed solution
    should be evaluated (by the issue reporter or another stakeholder) to verify that it solves the original problem.
-   - Once signed off, the issue can be closed.
+1. `Workflow::Complete`: Once signed off, the issue should be closed and `Workflow::Complete` should be applied to signal
+the work is verified and complete.
 
 There are three more states an issue can be placed in:
 - `Workflow::Waiting`: Issues that are waiting from input from someone or are waiting on a dependency. These are
