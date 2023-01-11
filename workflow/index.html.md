@@ -500,8 +500,7 @@ Team members use labels to track issues throughout development. This gives visib
 - `workflow::in dev`: A developer indicates they are developing an issue by applying the `in dev` label.
 - `workflow::in review`: A developer indicates the issue is in code review and UX review by removing the `in dev` label, and applying the `in review` label.
 - `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed and verified.
-
-When the issue has been verified and everything is working, it can be closed.
+- `workflow::complete`: A developer indicates the issue has been verified and everything is working by adding the `workflow::complete` label and closing the issue.
 
 ## Kickoff
 
