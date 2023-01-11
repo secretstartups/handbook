@@ -104,20 +104,29 @@ Post-sales support, license resends, email changes, and other subscription assis
 
 
 ## Partner Insights
-The Partner Help Desk team provides ["Partner Insight"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slides to Channel Managers for help with preparing for QBRs and other executive meetings. These insights are intended to help Channel Managers identify what is going well so it can be replicated, as well as address opportunities for improvement. 
+The Partner Help Desk team provides ["Partner Insights"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slide decks to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships. 
+
+Only Channel Managers and their directors can request Partner Insights. If you are not a Channel Manager but have an executive partner meeting and want to request Partner Insights for a specific partner, please work with that partner's Channel Manager to determine if your request is needed (i.e. whether or not a deck already exists or if the information you're looking for can be obtained from the Channel Manager) or to have the Channel Manager make the request. 
+
+Completed Partner Insights slide decks are attached to the Partner Account in Google Docs, Notes and Attachments in SFDC. 
 
 ### Requesting a Partner Insight
-To request a Partner Insight deck, chatter `@Partner Help Desk` on the partner account record and provide the date the Partner Insights deck is needed. This will open a case for the Partner Help Desk, and will be claimed by a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
+To request a Partner Insight deck, Channel Managers should chatter `@Partner Help Desk` on the partner account record and provide the date (or expected date) of the partner meeting, as well as the date the Partner Insights deck is needed. (Requests are limited to three (3) Partner Insights Requests at once per Channel Manager.) This will open a case for the Partner Help Desk, and will be claimed by a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
 
-Once the deck is completed, PHD will attach a PDF file to the partner account and then chatter the Channel Manager with the Partner Insight link. The deck is complete, but the Channel Managers are able to update the deck if they wish. 
+Once the deck is completed, PHD will attach the Google slide deck to the partner account and then chatter the Channel Manager with the Partner Insights link. The deck is complete, but the Channel Managers are able to edit the deck if they wish. 
 
 ### Partner Insight Details
 - Currently, only Select Partners are eligible for Partner Insights.
-- Each partner will only get one Partner Insight per quarter. A second request within the same quarter will be denied. 
-- Bulk requests (more than 5 partners) for Partner Insights must be requested by posting in the #channel-programs-ops Slack channel. A minimum of two weeks notice is requested for bulk requests. 
+- The date of the data pull is on the first page of the Partner Insight. Please note this date as additional opportunities may close between the date of the data pull and the date of the presentation.
+- Each partner will only get one Partner Insights deck per quarter. A second request within the same quarter will be denied. 
+- Bulk requests (more than 3 partners) for Partner Insights must be requested by posting in the #channel-programs-ops Slack channel. This includes regional requests by Channel Directors. A minimum of two weeks notice is requested for bulk requests. 
 - Channel Managers are free to request a walk-through with PHD to go over the Partner Insight deck, if they would like. 
-- Customization of a Partner Insight is not currently available. Only the out-of-the-box slide deck is available. 
+- Customization of a Partner Insights deck (including custom data requests) is not currently in scope. Only the out-of-the-box slide deck information and data is available. 
 - Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
+
+### Out of Scope for Partner Insights
+- Partner Insights are limited to the account level in SFDC. GSIs and partners with multiple accounts (for example, AMER _and_ US-PubSec). 
+- Customization of the Partner Insight data. Please [open an issue with Partner Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board) for additional reporting requets.  
 
 
 ## Basic Training Requirements
