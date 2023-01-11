@@ -73,7 +73,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 
 ##### January:
 1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
-    * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
+    * Each division leader is responsible for making sure their group stays within budget. The company has a [4% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
     * Managers and indirect managers will review their team members and propose an increase based on several factors:
         * Performance Factor
         * Growth Potential Factor
@@ -253,7 +253,7 @@ In order to experience the compensation review tool as intended, please use the 
 
 #### Budget In Workday 
 
-All planning managers will be allocated a Merit budget which will consist of budget for performance increases as well as market adjustments, if applicable. 
+All planning managers will be allocated a Merit budget which will consist of budget for performance increases as well as market adjustments, if applicable. Budget roll down to managers was allocated by taking the total market adjustments needed for team members and adding in the expected increases for their team's performance rating distribution. 
 
 If you are a manager with other managers reporting to you, you will see your overall budget including any budget that rolls up into you in the Organization Summary screen. The overall budget will also reflect if you go into any of the planning grids for managers that report to you. When you edit your own planning grid, it will show you the budget for just your direct reports.
 
@@ -307,8 +307,8 @@ This will be updated in February.
 The promotion and annual compensation review budget is separate and calculated based on the following conditions:
 
 ### Promotion Budget
-  * Promotion budget is calculated assuming that 15% of the team is promoted with an average of a 10% increase to OTE for the population as of Oct 31st of the prior fiscal year. More details on the philosophy behind this calculation can be found[here](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines).
-  * Divisions will be allocated an annualized budget on a quarterly basis, aligned with our[quarterly promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline).
+  * Promotion budget is calculated assuming that 15% of the team is promoted with an average of a 10% increase to OTE for the population as of Oct 31st of the prior fiscal year. More details on the philosophy behind this calculation can be found [here](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines).
+  * Divisions will be allocated an annualized budget on a quarterly basis, aligned with our [quarterly promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline).
   * If promotion budget is not used for any given quarter, **it will not rollover to future quarters**. 
   * In the case where more than or less than the given budget is projected for any given quarter, please follow the following process to review the possibility of identifying tradeoffs for unused or surplus promotion budget.
     1. Work with your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to share promotion projections with Total Rewards for an initial analysis. 
@@ -316,7 +316,7 @@ The promotion and annual compensation review budget is separate and calculated b
   * The Total Rewards team maintains a 5% hold back of the total budget in order to perform pay equality audits.
 
 ### Annual Compensation Review Budget
-  * The Annual Compensation Review budget assumes a 6% increase of those who were not promoted. Therefore 6% of 85% of the population's OTE.
+  * The Annual Compensation Review budget assumes a 4% increase of those who were not promoted. Therefore 4% of 85% of the population's OTE.
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division.
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab.
   * The Total Rewards team maintains a 2% hold back of the total budget in order to perform pay equality audits.
