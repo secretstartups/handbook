@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Offboarding Guidelines"
+title: "GitLab Offboarding Standards"
 description: "Offboarding process and steps on the backend"
 ---
 
@@ -22,13 +22,13 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 </div>
 </div>
 
-# GitLab Offboarding Guidelines
+# GitLab Offboarding Standards
 
 ## Purpose
-These guidelines specify requirements related to the offboarding of GitLab team members from all GitLab related computing resources and data assets so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing these guidelines is to outline information security guidelines intended to protect GitLab assets.
+These standards specify requirements related to the offboarding of GitLab team members from all GitLab related computing resources and data assets so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing these standards is to outline information security standards intended to protect GitLab assets.
 
 ## Scope
-These guidelines apply to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
+These standards apply to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
 
 ## Roles & Responsibilities:
 
