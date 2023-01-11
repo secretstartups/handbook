@@ -152,6 +152,12 @@ Before your shift starts, _always_ double-check that your alerts are working and
 
 When your on-call shift starts, you should get notification(s) that your shift is starting (email or text, depending on your PagerDuty preferences).
 
+### Viewing all on-call pages in one place
+
+You may want to monitor all on-call pages received by the Support team. You can
+do this by joining the [`#spt_on-call`](https://gitlab.slack.com/archives/C02TSECGGV8)
+Slack channel.
+
 ### Seeing which manager is on-call
 
 To see who the current manager on-call is you can:
