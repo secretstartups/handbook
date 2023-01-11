@@ -288,7 +288,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Twice per quarter | | EBA to VP, Product | 
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
-| [Security](/handbook/security/) | Johnathan Hunt | Yes | Every other month| | EBA to Engineering | 
+| [Security](/handbook/security/) | Acting CISO (Robin Schulman) | Yes | Every other month| | EBA to Engineering | 
 | [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
@@ -320,7 +320,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday January 31 | IT | Craig Mestel | January 24 |
 | Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
 | Thursday February 2 | Quality | Mek Stittri | January 26 |  
-| Tuesday February 7 | **Available** | DRI | Key Review Date? |
+| Tuesday February 7 | Security | Security Senior Leadership | January 24 |
 | Wednesday February 8 | Development | Christopher Lefelhocz | January 25 |
 | Thursday February 9 | Finance | Brian Robins | January 17 |  
 | Tuesday February 14 | **Available** | DRI | Key Review Date? |
@@ -336,7 +336,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday March 8 | **Available** | DRI | Key Review Date |
 | Thursday  March 9 | Support | Tom Cooney | March 1 |  
 | Tuesday March 14 | Infrastructure | Steve Loyd | March 2 |
-| Wednesday March 15 | Security | Security Leadership | February 28 |
+| Wednesday March 15 | **Available** | DRI | Key Review Date |
 | Thursday March 16 | **Available** | DRI | Key Review Date |  
 | Tuesday March 21 | **Available** | DRI | Key Review Date |
 | Wednesday March 22 | **Available** | DRI | Key Review Date |
@@ -386,16 +386,66 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 4 | Independence Day (US)| | N/A |
 | Wednesday July 5 | **Available** | DRI | Key Review Date |
 | Thursday July 6 | **Available** | DRI | Key Review Date |
-| Thursday July 20 | People | Wendy Barnes | July 11  
+| Tuesday July 11 | **Available** | DRI | Key Review Date |
+| Wednesday July 12 | **Available** | DRI | Key Review Date |
+| Thursday July 13 | Support | Tom Cooney | July 5 |
+| Tuesday July 18| **Available** | DRI | Key Review Date |
+| Wednesday July 19 | **Available** | DRI | Key Review Date |
+| Thursday July 20 | People | Wendy Barnes | July 11 
+| Tuesday July 25 | Infrastructure | Steve Loyd | July 13 |
+| Wednesday July 26 | **Available** | DRI | Key Review Date |
 | Thursday July 27 | IT | Craig Mestel | July 19 |
 | Tuesday August 1 | Finance | Brian Robins | July 26 |
+| Wednesday August 2 | **Available** | DRI | Key Review Date |
+| Thursday August 3 | **Available** | DRI | Key Review Date |
+| Tuesday August 8 | **Available** | DRI | Key Review Date |
+| Wednesday August 9 | Quality | Mek Stittri | July 27 |
+| Thursday August 10 | Development | Christopher Lefelhocz | July 26 |
+| Tuesday August 15 | **Available** | DRI | Key Review Date |
+| Wednesday August 16 | **Available** | DRI | Key Review Date |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
+| Tuesday August 22 | **Available** | DRI | Key Review Date |
+| Wednesday August 23 | **Available** | DRI | Key Review Date |
+| Thursday August 24 | Support | Tom Cooney | August 16 |
+| Tuesday August 29 | Infrastructure | Steve Loyd | August 17 |
+| Wednesday August 30| **Available** | DRI | Key Review Date |
+| Thursday August 31 | **Available** | DRI | Key Review Date |
+| Tuesday September 5| **Available** | DRI | Key Review Date |
+| Wednesday September 6 |Security | Security Leadership | August 29 |
+| Thursday September 7 | **Available** | DRI | Key Review Date |
 | Tuesday September 12 | CRO - Commercial | COMM Leadership | |
+| Wednesday September 13 | **Available** | DRI | Key Review Date |
+| Thursday September 14 | **Available** | DRI | Key Review Date |
 | Tuesday September 19 | Finance | Brian Robins | September 14 | 
+| Wednesday September 20 | **Available** | DRI | Key Review Date |
+| Thursday September 21| **Available** | DRI | Key Review Date |
+| Tuesday September 26 | **Available** | DRI | Key Review Date |
+| Wednesday September 27 | **Available** | DRI | Key Review Date |
+| Thursday September 28 | **Available** | DRI | Key Review Date |
+| Tuesday October 3 | **Available** | DRI | Key Review Date |
+| Wednesday October 4 | **Available** | DRI | Key Review Date |
+| Thursday October 5 | **Available** | DRI | Key Review Date |
+| Tuesday October 10 | Development | Christopher Lefelhocz | September 27 |
+| Wednesday October 11 | **Available** | DRI | Key Review Date |
+| Thursday October 12 | Infrastructure | Steve Loyd | September 28 |
+| Tuesday October 17 | Support | Tom Cooney | September 28 |
+| Wednesday October 18 | Quality| Mek Stittri | September 28 |
 | Thursday October 19 | People | Wendy Barnes | October 11 |
+| Tuesday October 24 | **Available** | DRI | Key Review Date |
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
+| Thursday October 26 | **Available** | DRI | Key Review Date |
+| Tuesday October 31 | Product| Product Leadership | October 19 |
 | Wednesday November 1 | Finance | Brian Robins | October 26 |
+| Thursday November 2 | **Available** | DRI | Key Review Date |
+| Tuesday November 7 | **Available** | DRI | Key Review Date |
+| Wednesday November 8 |**Available** | DRI | Key Review Date |
+| Thursday November 9 | **Available** | DRI | Key Review Date |
+| Tuesday November 14 | **Available** | DRI | Key Review Date |
+| Wednesday November 15 | Security | Security Leadership | October 31 |
+| Thursday November 16 | Infrastructure | Steve Loyd | November 9 |
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
+| Wednesday November 29 | **Available** | DRI | Key Review Date |
+| Thursday November 30 | Support | Tom Cooney | November 8 |
 | December 5 | IT | Craig Mestel | November 28 |
 
 ## Examples of Past Group Conversations
