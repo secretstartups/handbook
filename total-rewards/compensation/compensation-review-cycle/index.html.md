@@ -73,7 +73,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 
 ##### January:
 1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
-    * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
+    * Each division leader is responsible for making sure their group stays within budget. The company has a [4% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
     * Managers and indirect managers will review their team members and propose an increase based on several factors:
         * Performance Factor
         * Growth Potential Factor
@@ -106,8 +106,6 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 In February, Director+ leaders will plan Phase 2 of the Annual Compensation Review cycle by planning Equity.  Exact dates for this Phase will be communicated in January.
 
 ## Talent Assessment and Annual Compensation Review 
-
-_The video walkthrough on navigating the tool will be added by January 10th._
 
 Performance and growth potential factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
 
@@ -229,7 +227,7 @@ In order to experience the compensation review tool as intended, please use the 
 1. **Performance grid:** Navigate to this grid to propose non-promotional cash compensation increases for team members related to performance and market adjustments. All increases are in terms of OTE (On Target Earnings) and will be split into base salary and variable compensation, if applicable, once the cycle concludes. If a team member has no variable component, this will reflect their base salary.
    * ![performance](/images/handbook/people-group/performance2.jpeg)
    * Note that you will only enter information into the _Performance and Market Increase %_ or _Performance and Market Increase Amount_ columns. Once you enter information into one, the other will automatically calculate the equivalent percentage or amount.
-   * Managers are advised to include the designated market adjustment (if greater than zero) and combine it with a performance increase as part of their total proposal. Example: You are a manager proposing a 2% performance increase for your team member, and the market adjustment increase % for your team member’s role is 4%. You would enter 6% into the _Performance and Market Increase %_ column.
+   * Managers are advised to include the designated market adjustment (if greater than zero) and combine it with a performance increase as part of their total proposal. Example: You are a manager proposing a 2% performance increase for your team member, and the market adjustment increase % for your team member’s role is 6%. You would enter 6% into the _Performance and Market Increase %_ column.
    * To help managers assess increases, Total Rewards has added the following data points and features:
      * **Job Details:** Job Profile, Hire Date, Job Grade, Pay Range
      * **Performance Increase Target Range:** Recommended base percentage increase based on talent assessment outcomes and company-wide recommendations
@@ -253,7 +251,7 @@ In order to experience the compensation review tool as intended, please use the 
 
 #### Budget In Workday 
 
-All planning managers will be allocated a Merit budget which will consist of budget for performance increases as well as market adjustments, if applicable. 
+All planning managers will be allocated a Merit budget which will consist of budget for performance increases as well as market adjustments, if applicable. Budget roll down to managers was allocated by taking the total market adjustments needed for team members and adding in the expected increases for their team's performance rating distribution.
 
 If you are a manager with other managers reporting to you, you will see your overall budget including any budget that rolls up into you in the Organization Summary screen. The overall budget will also reflect if you go into any of the planning grids for managers that report to you. When you edit your own planning grid, it will show you the budget for just your direct reports.
 
@@ -316,7 +314,7 @@ The promotion and annual compensation review budget is separate and calculated b
   * The Total Rewards team maintains a 5% hold back of the total budget in order to perform pay equality audits.
 
 ### Annual Compensation Review Budget
-  * The Annual Compensation Review budget assumes a 6% increase of those who were not promoted. Therefore 6% of 85% of the population's OTE.
+  * The Annual Compensation Review budget assumes a 4% increase of those who were not promoted. Therefore 4% of 85% of the population's OTE.
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division.
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab.
   * The Total Rewards team maintains a 2% hold back of the total budget in order to perform pay equality audits.
