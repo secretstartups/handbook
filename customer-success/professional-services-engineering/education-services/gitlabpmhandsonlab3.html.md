@@ -79,11 +79,11 @@ Iterations are mutually exclusive timeboxes intended to track team velocity, whi
 
 1. In your subgroup structure, navigate to **DigiBit Technologies > Software**.
 1. In the left pane, click **Issues > Iterations**.
-1. Click **New iteration**.
+1. Click **New iteration cadence**.
 1. Title the iteration `Sprint 1` 
 1. In the description, enter `Initial back-end services and documentation`
-1. Select today's date as the iteration start date. Select 1 week from today as the iteration end date.
-1. Click **Create iteration**.
+1. Select today's date as the automation start date. Select 1 week from today as the duration. Select 2 as the number of upcoming iterations.
+1. Click **Create cadence**.
 
 You will later assign individual tasks to this iteration.
 
