@@ -129,7 +129,8 @@ Engineers should assign issues to themselves based on the [current release](http
 1. `workflow::ready for development` - work is ready to begin, but has not yet started
 1. `workflow::in dev` - we are looking at the issue, and are either actively investigating, have begun development, or have a draft merge request open
 1. `workflow::in review` - a merge request has been submitted and reviews have been requested
-1. `workflow::verification` - the work has merged, and needs to be verified by the assignee, assignee will close it once verifying everything works as expected
+1. `workflow::verification` - the work has merged, and needs to be verified by the assignee
+1. `workflow::complete` - the work has been verified by the assignee, assignee will close the issue and apply label
 1. `workflow::awaiting security release` - (security MRs only) the work is complete, just pending [backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports).
 
 Development should not begin on an issue before it's been estimated and given a weight.

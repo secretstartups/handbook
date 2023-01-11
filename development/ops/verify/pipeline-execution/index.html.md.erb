@@ -217,7 +217,7 @@ Development moves through workflow states in the following order:
  1. `workflow::awaiting security release` (if applicable)
  1. `workflow::production`
  1. `workflow::feature-flagged` (if applicable)
- 1. `Closed`
+ 1. `workflow::complete` `Closed`
 
 `workflow::planning breakdown` is driven by Product, but is a collaborative effort between Product, UX and Engineering. The steps for **planning breakdown** typically consists of:
  - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed.
@@ -332,7 +332,7 @@ As a general rule, any issues being actively worked on have one of the following
 - `workflow::in dev`
 - `workflow::in review`
 - `workflow::verification`
-- `workflow::production` (upon **closing** the issue)
+- `workflow::complete` (upon **closing** the issue)
 
 The Health Status of these issues should be updated to:
 
