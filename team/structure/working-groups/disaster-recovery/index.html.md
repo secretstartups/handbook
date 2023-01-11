@@ -22,6 +22,7 @@ canonical_path: "/company/team/structure/working-groups/disaster-recovery/"
 | Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1dLgmLlvET5WyWF0CpX5JUxiyQKyDzctocs7unwLueY8) (only accessible from within the company) |
 | Issue Board    | [Working Group Issue Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2230578?label_name[]=wg-disaster-recovery) |
 | Epic           | [Link](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/371) |
+| Overview & Status | See [Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/371) |
 
 ### Charter
 
@@ -36,7 +37,7 @@ In the context of this working group:
 
 This working group is working towards [the proposed targets for both RPO and RTO](/handbook/engineering/infrastructure/product-management/proposals/disaster-recovery/#proposal).
 
-### Sequence Order Of Deliverables
+### Sequence Order Of Deliverables and Exit Criteria
 
 Planned:
 
@@ -60,6 +61,7 @@ Planned:
 | Member                                   | Sami Hiltunen                    | Senior Backend Engineer, Gitaly                                 |
 | Member                                   | Mark Wood                        | Senior Product Manager, Gitaly.                                 |
 | Member                                   | Steve Azzopardi                  | Senior SRE, Infrastructure.                                     |
+
 ## Related Links
 
 - [Disaster Recovery at GitLab](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
