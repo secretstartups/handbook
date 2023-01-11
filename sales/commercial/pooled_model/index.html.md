@@ -12,7 +12,9 @@ Pooled SMB customers are all SMB customers with a CARR of <$1k, and in some case
 
 All these Accounts are now owned by [Pooled Sales User](https://gitlab.my.salesforce.com/0058X00000F1YFq?noredirect=1&isUserEntityOverride=1). Note: These Accounts are closely monitored and should not be considered ownerless.
 
-If a customer contacts someone at GitLab, and requires sales assistance, your first action should be to check the Account in Salesforce to see if that Account is owned by the Pooled Sales User. If they are and they require sales support, follow this process in order to hand off the customer to a Pooled AE (utilize other channels for other types of requests). At the same time, advise the customer that next time they require sales assistance, they can utilize this customer facing [landing page](https://page.gitlab.com/smbsales).  Note that this landing page should not be used by a GitLab employee.
+All Pooled SMB customers are now auto Ranked based on a criteria devised by the Self Service team.  These auto Ranks are based on a combination of factors, such as LAM Dev Count & Funding, and are updated on a weekly basis if necessary e.g. a Rank 2 customer may receive substantial funding, which in turn triggers an uptier to Rank 1. If a Pooled AE converses with a customer and decides that the auto Rank needs to be adjusted, these are free to do so in the normal fashion.  Any updates they make will be automatically recorded in the Account Rank Notes History field.
+
+If a Pooled customer contacts someone at GitLab, and requires sales assistance, your first action should be to check the Account in Salesforce to see if that Account is owned by the Pooled Sales User. If they are and they require sales support, follow this process in order to hand off the customer to a Pooled AE (utilize other channels for other types of requests). At the same time, advise the customer that next time they require sales assistance, they can utilize this customer facing [landing page](https://page.gitlab.com/smbsales).  Note that this landing page should not be used by a GitLab employee.
 
 
 ### Creating a New Case on behalf of a Pooled SMB Customer
