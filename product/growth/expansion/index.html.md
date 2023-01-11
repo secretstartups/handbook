@@ -24,7 +24,7 @@ As part of the wider Growth stage we track and work on issues with the label com
 
 ### Product Development Flow
 
-Our team follows the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::verification`.
+Our team follows the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::complete`.
 
 We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
 
