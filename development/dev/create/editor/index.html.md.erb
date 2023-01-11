@@ -278,11 +278,13 @@ graph LR
   A(workflow::in dev):::workflowLabel
   B(workflow::in review):::workflowLabel
   C(workflow::verification):::workflowLabel
+  F(workflow::complete):::workflowLabel
 
   A -- Push an MR --> B
   B -- Merged --> C
   C --> D{Works on production?}
-  D -- YES --> CLOSE
+  D -- YES --> F
+  F --> CLOSE
   D -- NO --> E[New MR]
   E --> A
 ```
