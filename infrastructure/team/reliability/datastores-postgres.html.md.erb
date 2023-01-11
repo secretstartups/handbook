@@ -12,11 +12,15 @@ Systems and services we are primarily responsible for:
   * PostgreSQL High Availability and Load Balancing (e.g. Patroni, PGBouncer, consul, PostgreSQL Replication etc.)
   * PostgreSQL Disaster Recovery (backup/restore and other techniques)
   * Database Observability (Prometheus instrumentation, workload analysis etc.)
-  * GitLab Rails application specifics on PostgreSQL
+  * Support & troubleshooting of GitLab applications, specifically related to their use of and interaction with the PostgreSQL ecosystem.
 
 Systems or services explicitly not owned by us:
-  * Redis
-  * Clickhouse
+| System name | Description | Owner and supported by | Extra info/Open questions |
+|-------------|-------------|------------------------|---------------------------|
+| Redis | There are several use cases such as caching, rate-limiting, sidekiq queueing. | [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) | [Redis Architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#redis-architecture) |
+| Clickhouse |  |  |  |
+| Data team systems |          | Data team |                          |
+| Self Managed databases|           | Self managed Support |               |
 
 ## Performance Indicators
 The signals we use to know that we are achieving our mission:
@@ -30,7 +34,7 @@ TBD
 The team is comprised of DBREs predominantly, with one to two SREs. So while the key technical skills differ between roles to some extent, there are a common set of skills which both roles require, to differing levels:
   * Experience supporting PostgreSQL in large production environments.
   * Infrastucture automation and configuration management using tools such as Chef, Ansible, Terraform, etc.
-  * Knowledge of PostgreSQL internals and SQL/pgSQL.
+  * Knowledge of PostgreSQL internals, SQL and PL/pgSQL.
 
 ## Common Links
 * Team backlog: https://gitlab.com/gitlab-com/gl-infra/reliability/-/milestones/95#tab-issues 
