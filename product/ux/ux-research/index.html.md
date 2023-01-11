@@ -83,6 +83,7 @@ Below is a full list of our UX Research team handbook content:
 - [Usability testing rainbow analysis chart template (internal link)](https://docs.google.com/spreadsheets/d/1_bGO9uUxWL5dKe5r1vxTo4J4QAEHfp6mu7VIQDsTu_E/copy)
 - [Recommendations alignment Mural template (internal link)](https://app.mural.co/template/a5b1cf65-483d-4014-8681-373e1a6c9ee7/c2c2b37a-baf6-4b5f-9e97-87f132d07e19)
 - [Usability benchmarking alignment Mural template (internal link)](https://app.mural.co/template/6c725b01-a3be-422e-8cec-d8823e9aaa73/a9f6620d-47cb-43d1-b2a9-c980c2d51308)
+- [Auto Time on Task (internal link)](https://docs.google.com/spreadsheets/d/1rvhUcNlSzs6STv3EGWDddohxOo3F99ZRHN9W7wjBzIo/copy)
 
 ### Checklists
 
