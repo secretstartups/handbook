@@ -131,13 +131,13 @@ Key areas of exploration:
 1. Exec sponsor program
 1. User groups/customer forums
 
-
 ## Handbook Directory
 
 [CSM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### CSM Learning & Development
 
+- [CSM Objectives and Key Results (OKRs)](/handbook/customer-success/csm/csm-okrs)
 - [Overview of available resources, training plans & career paths](/handbook/customer-success/csm/csm-development/)
 
 ### CSM Responsibilities
