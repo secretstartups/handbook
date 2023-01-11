@@ -1325,9 +1325,9 @@ This video will walk you through the process of making an announcement:
 
 The [deprecation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) provides an option to end support for a feature prior to its removal. This option should only be used in special circumstances and is not recommended for general use. Most features should be deprecated and then removed.
 
-An End of Support date must be at least 3 milestones *after* the deprecation announcement. For example, if the deprecation announcement is made in `15.1`, the End of Support date must be in `15.4` at the earliest. There is no requirement for the gap between the End of Support date and the Removal date.
+An End of Support milestone must be at least 3 milestones *after* the deprecation announcement. For example, if the deprecation announcement is made in `15.1`, the End of Support milestone must be in `15.4` at the earliest. There is no requirement for the gap between the End of Support milestone and the Removal milestone.
 
-If an End of Support date is announced, it will be displayed under the title of the deprecation announcement on the [Deprecations page](https://docs.gitlab.com/ee/update/deprecations). End of Support dates are not currently displayed in the release post.
+If an End of Support milestone is announced, it will be displayed under the title of the deprecation announcement on the [Deprecations page](https://docs.gitlab.com/ee/update/deprecations). End of Support milestones are not currently displayed in the release post.
 
 **When to define an End of Support period**
 
@@ -1336,7 +1336,7 @@ If an End of Support date is announced, it will be displayed under the title of 
 
 **Communicating End of Support**
 
-If you decide to declare an End of Support period, tag `@gitlab-com/support` in the MR that adds a value to the `end_of_support_milestone` and `end_of_support_date` keys. Share a link to the MR in `#spt_managers` in Slack using the following message format:
+If you decide to declare an End of Support period, tag `@gitlab-com/support` in the MR that adds a value to the `end_of_support_milestone`. Share a link to the MR in `#spt_managers` in Slack using the following message format:
 
 ```md
 End of Support for [feature name](MR_LINK) on YYYY-MM-DD
