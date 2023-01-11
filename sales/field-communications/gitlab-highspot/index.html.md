@@ -513,3 +513,18 @@ The Highspot Help Center provides instructions on how to create pitch templates,
    * Tag all relevant lists within the pitch template properties. Lists are how users filter content on Highspot. Assigning the Use Case, Role, Market Segment, and Industry, at a minimum, will support a segment and role-based user experience of Highspot.
    * Remember: Users can relate a pitch template to a lead, contact, opportunity, or account in SFDC using the Relate and Send To fields within the Send Email Pitch window. 
    * Remember: Users can enter a custom email signature in Highspot, which will auto-display when pitching.  
+
+### What Highspot is **not** used for 
+1. **Sharing content to a mass audience.**  The Highspot pitch function and analytics are currently designed for a 1:1 or 1:few experience. The tool is optimized to provide tracking and insights into what customers are opening and viewing (i.e. what content they value) through the 1:1 motion.
+1. **Automation and email nurture.**  Highspot is not a replacement for marketing automation or email nurture tools such as Marketo. All email pitches are sent by a member of the Field team, who can then view insights.
+
+### Highspot vs. PathFactory
+Similar to PathFactory, Highspot is a tool that can point customers to a set of relevant assets. In Highspot, users can create Pitch Templates with Pitch Styles (sometimes called Digital Sales Rooms) that curate a series of content into a customized experience for customers. Once sent, users can update DSRs for their customers and prospects for a customized, personalized experience. 
+
+**What are the differing goals of Highspot and PathFactory?**
+1. **Highspot:** To connect with customers 1:1 as part of a campaign, initiative, event, general outreach, other CTA. Can support lead gen/outreach, but primarily used once a lead has become an SAO. 
+1. **PathFactory:** To increase consumption/engagement with GitLab content in order to move prospects through the marketing funnel.
+
+**Can Highspot users send PathFactory content to customers?**
+
+Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.  
