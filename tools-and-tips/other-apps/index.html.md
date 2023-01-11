@@ -250,9 +250,7 @@ This is especially useful when you're working on a cellular/metered connection. 
 ### JetBrains
 
 We have a central account for managing licenses of JetBrains' products like RubyMine or GoLand.
-If you want to use one of their products, please log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) and select the best option for your situation (single user, bulk user, etc.) and, once approved by your manager, assign to the System Provisioner listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for this system.
-Once your access has been provisioned, you will receive a link with which you can redeem your license.
-Make sure to use your company email address when creating your Jetbrains account.
+If you want to use one of their products, please log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) and select the best option for your situation (single user, bulk user, etc.) and, once approved by your manager, [activate a license for yourself](https://www.jetbrains.com/help/license-vault-cloud/Activating_a_license.html). Use the license server URL `https://gitlab.fls.jetbrains.com` when activating your IDE, and be sure to log in via Okta when prompted to authenticate. Make sure to use your company email address when creating your Jetbrains account.
 If at some point in the future you do not want to use the product anymore, please notify us via the `#jetbrains-ide` slack channel, so that we can assign the license to someone else.
 
 If you have an Individual License acquired through your own means, it is suitable for [General commercial use](https://www.jetbrains.com/store/comparison.html#LicenseComparison) and you may use it. However, GitLab will not reimburse an Individual License, as Individual License cannot be purchased or reimbursed by companies. That being said, even if you used to use an Individual License, you can always request a company issued one.
