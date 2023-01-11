@@ -27,7 +27,7 @@ This demonstration will highlight [GitLab’s single platform for the complete
 DevOps lifecycle](/direction/#scope), from plan to
 monitor, through issues, planning, merge request, CI, CD, and monitoring.
 
-![](/images/press/devops-lifecycle.svg)
+![](/images/press/devsecops-lifecycle.svg)
 
 If you encounter issues replicating this demo on GKE or on your own Kubernetes
 cluster please [open an
