@@ -224,3 +224,15 @@ Reply using the response from the [Common Response Template](https://docs.google
 4. **For PO Submissions Only** Attach the PO to the correct opportunity in SFDC.
 5. Reply using the appropriate response from the [Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit#gid=0). 
 
+## NFRs
+More information to come soon!
+
+### Teaching a Partner to Reduce Seats in a SaaS NFR
+1. Let the partner know how many seats are in use, and copy the screenshot from support if it was provided. 
+2. Link the [NFR Policy](NFR policy)
+3. Add additional links for assistance:
+   - [Determining Seat Usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#how-seat-usage-is-determined)
+   - [See a complete view of usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#view-seat-usage)
+4. Let them know they can confirm or remove users on the "Seats Quote Tab."
+5. Once the partner replies that they have decreased their seats, update the support ticket for the NFR. 
+
