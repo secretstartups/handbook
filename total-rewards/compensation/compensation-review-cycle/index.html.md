@@ -158,7 +158,7 @@ For team members designated as [key talent](/handbook/people-group/talent-assess
 
 ### Communicating Talent Assessments
 
-Communications on talent assessments is set to take place 2023-01-03 through  2023-01-31, ahead of communications for annual compensation review increases.  Please review the handbook page on [communicating talent assessments (/handbook/people-group/talent-assessment/#communication) ahead of having talent assessment conversations with your reports.
+Communications on talent assessments is set to take place 2023-01-03 through  2023-01-31, ahead of communications for annual compensation review increases.  Please review the handbook page on [communicating talent assessments](/handbook/people-group/talent-assessment/#communication) ahead of having talent assessment conversations with your reports.
 
 ## Determining Cash Compensation Increases
 
