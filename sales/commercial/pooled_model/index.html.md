@@ -12,7 +12,20 @@ Pooled SMB customers are all SMB customers with a CARR of <$1k, and in some case
 
 All these Accounts are now owned by [Pooled Sales User](https://gitlab.my.salesforce.com/0058X00000F1YFq?noredirect=1&isUserEntityOverride=1). Note: These Accounts are closely monitored and should not be considered ownerless.
 
-All Pooled SMB customers are now auto Ranked based on a criteria devised by the Self Service team.  These auto Ranks are based on a combination of factors, such as LAM Dev Count & Funding, and are updated on a weekly basis if necessary e.g. a Rank 2 customer may receive substantial funding, which in turn triggers an uptier to Rank 1. If a Pooled AE converses with a customer and decides that the auto Rank needs to be adjusted, these are free to do so in the normal fashion.  Any updates they make will be automatically recorded in the Account Rank Notes History field.
+## Pooled Customer Account Ranking
+
+All Pooled SMB customers are now auto Ranked based on a criteria devised by the Self Service team.  These auto Ranks are based on a combination of factors and thresholds (see table below) and are updated on a weekly basis if necessary e.g. a Rank 2 customer may receive substantial funding, which in turn triggers an uptier to Rank 1. If a Pooled AE converses with a customer and decides that the auto Rank needs to be adjusted, they are free to do so in the normal fashion.  Any updates they make will be automatically recorded in the Account Rank Notes History field.
+
+| Tier ↓/SFDC Field → | CARR $ | Total Funding $ | Industry                                          | LAM (LAM dev count) | Combination                   |
+|----------------------|--------|-----------------|---------------------------------------------------|-------------------------|-------------------------------|
+| Tier 1               | 2,964  | 134,985,000     | N/A                                               | 103                     | Any 1                         |
+|                      | 2,400  | 44,909,650      | SaaS, FinTech, Healthcare | 44                      | Any 2                         |
+|                      | 1,916  | 20,624,700      | SaaS, FinTech, Healthcare | 29                      | Any 3                         |
+| Tier 3               | <1500  | N/A             | N/A                                               | <25                     | Both                          |
+| Tier 2               | N/A    | N/A             | N/A                                               | N/A                     | Not equal to Tier 1 or Tier 2 |
+
+
+## Engaging with Pooled Customers
 
 If a Pooled customer contacts someone at GitLab, and requires sales assistance, your first action should be to check the Account in Salesforce to see if that Account is owned by the Pooled Sales User. If they are and they require sales support, follow this process in order to hand off the customer to a Pooled AE (utilize other channels for other types of requests). At the same time, advise the customer that next time they require sales assistance, they can utilize this customer facing [landing page](https://page.gitlab.com/smbsales).  Note that this landing page should not be used by a GitLab employee.
 
