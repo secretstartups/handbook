@@ -407,6 +407,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Discrimination is Illegal](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/DiscriminationPoster.pdf)
 * [Notice of Right to be Free From Discrimination Because of Pregnancy, Childbirth and Related Conditions](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/PregDiscrimNoticeJuly2015.pdf)
 * [Sexual Harassment](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/sexharassment.pdf)
+
 ### South Carolina
 * [SC Labor Law Abstract](https://llr.sc.gov/AboutUs/MediaCenter/pidocs/WorkplacePosters/LLR%20Work%20Place%20Poster%20Legal%20Size.pdf)
 * [SC Workplace Laws: Notice to Employees](https://llr.sc.gov/wage/pdf/2018laws.pdf)
