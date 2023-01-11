@@ -32,9 +32,13 @@ description: "Define and align our product design teams on elements regarding da
 
 Due dates by phase:
 
-1. **Investigation** - 2023-01-10
-1. **Map all the pieces** - 2023-01-13
+1. ✅ **Investigation** - 2023-01-10
+1. ✅ **Map all the pieces** - 2023-01-13
 1. **Definition of the objects** - 2023-02-28
+   1. Draft by: 2023-01-31
+   1. Feedback by: 2023-02-10
+   1. Done/Done: 2023-02-28 (FFD on the 27th)
+
 
 
 ## Exit Criteria
