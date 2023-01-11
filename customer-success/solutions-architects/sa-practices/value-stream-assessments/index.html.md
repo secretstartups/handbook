@@ -123,7 +123,7 @@ Here are some resources that can be used as starting point for the pitch:
 
 Planning a Value Stream Workshop can generally be done within an hour, given the right expectation, focus and people involved.
 
-It is recommended that when planning a Value Stream Workshop, a [Value Stream Transformation Charter](https://docs.google.com/spreadsheets/d/1_vUl2TaBME_X4qIRct0B9Fo-vngq8sjX/edit?usp=sharing&ouid=117829138838517768280&rtpof=true&sd=true) should be used.
+It is recommended that when planning a Value Stream Workshop, a [Value Stream Transformation Charter](https://docs.google.com/spreadsheets/d/1uiJtMRWvm4DVI_h8pOqRZPwuvCcQhohpk1Vl71PHbtc/edit) should be used.
 
 #### Define Value Stream
 
