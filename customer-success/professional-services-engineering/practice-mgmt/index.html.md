@@ -138,3 +138,7 @@ Retirement of SKUs for PS offerings is requested by the PS Practice Manager. To 
 ### How to edit a Professional Services product page
 
 PS uses a file called services.yml as the single source of truth (SSoT) for offering descriptions and specifications. This file is used together with a documentation macro to populate various parts of the GitLab documentation and is also used by the [Services Calculator](https://services-calculator.gitlab.io/). The [Services SSOT Wiki Page](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-process/-/wikis/Services-Single-Source-of-Truth) describes its various applications, attributes and maintenance processes. Team members who wish to update or add offerings can follow the instructions located on the wiki page.
+
+### Developing software for a new service/initiative
+
+Refer to [Developing Software For Professional Services](../professional-services-tooling) to check out our common software stack and development processes
