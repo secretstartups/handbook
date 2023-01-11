@@ -111,7 +111,7 @@ When making any DBT changes, 🔆⚡️clone_model_dbt_select should be your fir
 
 The following jobs use the same selection syntax as the regular DBT runs, but they use this to **begin a SnowFlake cloning operation for the DBT lineage provided**. In the case of 🔆⚡️clone_model_dbt_select it is far faster, cheaper, and can handle a much greater data volume than the regular DBT runs, because they do not actually run DBT. 
 
-#### ➕🔆⚡️clone_model_dbt_select
+#### 🔆⚡️clone_model_dbt_select
 
 Specify which model to run with the variable `DBT_MODELS`. Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
 
@@ -137,23 +137,23 @@ If you are testing changes to tests in the `data-tests` project, you can pass in
 
 You can also add `--fail-fast` to the end of the model selection to quickly end the dbt call at the first failure. Read the [dbt docs](https://docs.getdbt.com/reference/commands/run#failing-fast) for more information.
 
-#### ➕🐭specify_model
+#### 🐭specify_model
 
 Specify which model to run with the variable `DBT_MODELS`
 
-#### ➕🦖specify_l_model
+#### 🦖specify_l_model
 
 Specify which model to run using an L warehouse with the variable `DBT_MODELS`
 
-#### ➕🐘specify_xl_model
+#### 🐘specify_xl_model
 
 Specify which model to run using an XL warehouse with the variable `DBT_MODELS`
 
-#### ➕specify_dbt_parameters
+#### specify_dbt_parameters
 
 Specify how to run dbt using the variable `DBT_PARAMETERS`. This job essentially just puts everything in DBT_PARAMETERS variable into a command after `dbt run`, and can be used for excluding models. 
 
-#### ➕🐭🥩specify_raw_model
+#### 🐭🥩specify_raw_model
 
 Specify a dbt model against the clone of the RAW database. This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run. This is useful for the following scenarios:
 
@@ -161,33 +161,33 @@ Specify a dbt model against the clone of the RAW database. This jobs runs agains
 * You have a new gitlab.com or other pgp table you're adding. You can use this to test the dbt models in the same MR you're adding the table.
 * You're adding a dbt snapshot and want to test models built on top of that snapshot.
 
-#### ➕🌱specify_csv_seed
+#### 🌱specify_csv_seed
 
 This job tests specific seed file.
 
 Specify seed file with the variable `DBT_MODELS`.
 
-#### ➕📸🥩specify_snapshot
+#### 📸🥩specify_snapshot
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
 
-#### ➕📸🥩🦖specify_l_snapshot
+#### 📸🥩🦖specify_l_snapshot
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
 
-#### ➕🏗🛺️run_changed_models_sql
+#### 🏗🛺️run_changed_models_sql
 Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
-#### ➕🏗️🛺🦖run_changed_models_sql_l
+#### 🏗️🛺🦖run_changed_models_sql_l
 Runs all the models in the MR diff whose SQL has been edited against an L warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
-#### ➕🏗️🛺🐘run_changed_models_sql_xl
+#### 🏗️🛺🐘run_changed_models_sql_xl
 Runs all the models in the MR diff whose SQL has been edited against an XL warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files. 
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
