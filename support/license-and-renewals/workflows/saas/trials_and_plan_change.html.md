@@ -39,7 +39,15 @@ If a customer is requesting a trial extension, please follow [Working with Sales
 
 ## Extend an existing active or expired subscription
 
-This is done via the Mechanizer tool through [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials). 
+1. Before taking any action to create the trial license, get confirmation from
+   the customer that they understand and accept the
+   [constraints](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded)
+   that accompany a trial. Use the `Support::L&R::Trial Subscription - Exclusions Sign Off`
+   macro in Zendesk for this purpose. Be sure to assign the ticket to
+   yourself so that you will receive the customer's response and be
+   able to take action quickly.
+1. This is done via the Mechanizer tool through
+   [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials). 
 
 ## Applying a trial to a namespace with an active subscription
 

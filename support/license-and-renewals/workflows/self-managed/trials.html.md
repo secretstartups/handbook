@@ -11,11 +11,11 @@ description: Issuing a license to "extend" Self-managed trials and grace periods
 
 ## Overview
 
-Self-managed trials and grace periods cannot be extended - a license must be re-issued and applied
-to the instance in order to "extend" a trial.
+Self-managed trials and grace periods cannot be extended - a **trial** license
+must be issued and applied to the instance in order to "extend" a license.
 
-Requests for Grace period extensions, Temporary keys, Temporary extensions, Temporary licenses, 
-and Trial extensions all require generating of a Trial License.
+Requests for grace period extensions, temporary keys, temporary extensions, temporary licenses, 
+and trial extensions all require generating a trial License.
 
 Sales will often request through a [Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
 
@@ -35,10 +35,17 @@ We are allowed to issue trial licenses because they:
 
 ### How to create a new trial license
 
-Clients should initiate a request on their own by clicking on the following link:  https://about.gitlab.com/free-trial/?hosted=self-managed
+Users should initiate a request on their own by clicking on the following link:  https://about.gitlab.com/free-trial/?hosted=self-managed
 
-### How to extend an expired or soon to expire trial license
+### How to extend an expired or soon to expire license
 
+1. Before taking any action to create the trial license, get confirmation from
+   the customer that they understand and accept the
+   [constraints](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded)
+   that accompany a trial. Use the `Support::L&R::Trial Subscription - Exclusions Sign Off`
+   macro in Zendesk for this purpose. Be sure to assign the ticket to
+   yourself so that you will receive the customer's response and be
+   able to take action quickly.
 1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
 1. Delete the contents of `Zuora subscription ID` field if present.
