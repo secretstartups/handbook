@@ -124,6 +124,8 @@ A list of common scenarios and the appropriate option are detailed in the follow
 
 > - **NOTE**: Support cannot start a new trial. If one is needed, *have the user initiate a normal trial first*.
 > - **NOTE**: Support requires a single license or subscription request per ticket. If a provided license does not work, or you require a further extension, then please submit a new ticket. All internal L&R tickets must have a 1 to 1 relationship with the generated license or subscription, for audit/reporting reasons.
+> - **NOTE**: Please ensure that you selected the correct internal request form request prior to submission.
+> - **NOTE**: To speed up resolution, please fill in all form fields including SFDC link and additional context. Providing complete and accurate information, will enable L&R support to perform the steps needed to complete the request more efficiently.
 
 | Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
