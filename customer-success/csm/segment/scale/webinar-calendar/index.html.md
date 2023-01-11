@@ -41,7 +41,7 @@ Come learn about DevOps metrics in GitLab and why it is useful to track them. We
 #### DevSecOps/Compliance
 ##### January 31st, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
-Come learn about DevOps metrics in GitLab and why it is useful to track them. We will cover an overview of DORA metrics, Value Stream Analytics, and Insight dashboards, and what it looks like in Gitlab.
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_EctIA046QJydBCNo4kJK3Q)
 
@@ -76,7 +76,7 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 #### DevSecOps/Compliance
 ##### February 7th, 2023 at 10:00AM-11:00AM UTC
 
-Come learn about DevOps metrics in GitLab and why it is useful to track them. We will cover an overview of DORA metrics, Value Stream Analytics, and Insight dashboards, and what it looks like in Gitlab.
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_gTxN_OLCQ3C0ErSha28mRw)
 
