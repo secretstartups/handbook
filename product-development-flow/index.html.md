@@ -313,24 +313,27 @@ When an issue is in `workflow::verification`, the responsible engineer will [man
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Engineering Manager check that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met<br/>- Provide regular status updates to stakeholders<br/>- Provide asynchronous updates to avoid status check-ins and synchronous stand-ups<br/> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues. | Engineer |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done)).<br/>- SET sets testing requirements on the issue.<br/>- SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning. <br/>- Technical Writers complete a [review](https://about.gitlab.com/handbook/product/ux/technical-writing/#reviews) of any developed documentation. <br/>- Application Security Engineer validates the risk mitigations through the non-blocking [application security review process](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html). | Engineer |
 
-
 ### Build phase 3: Launch
 
-
-
 Issue Status: `Closed`
+
+#### Required Labels
+
+| Label | Usage |
+|-------|-------|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::complete` | Applied after the feature is deployed to production, any needed verification is complete, and the issue has been closed. |
 
 #### Key Participants
 
 | Role          | Function |
 |---------------|----------|
-| DRI           | **Development**: Close issue after it's available in production. <br/>**Product Manager**: Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
+| DRI           | **Development**: Close issue after it's available in production and any needed verification is complete. <br/>**Product Manager**: Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
 | Collaborators | Development team, Quality counterpart, and Product Manager may verify the feature is working as expected in production. (Primary verification is, of course, performed prior to production whenever possible.) <br/>-Technical Writers create any documentation issues or MRs required to address issues identified during review that weren't resolved. |
 | Informed      | [Stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature by the change in the status of the issue or the release post. GitLab team members may also be informed by posts in relevant Slack channels. |
 
 #### Description
 
-When the change becomes available in production, the issue is closed by the development team so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+When the change becomes available in production and any needed verification is complete, the issue is closed by the development team and the `workflow::complete` label is added so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
 
 #### Outcomes and Activities
 
@@ -338,7 +341,7 @@ When the change becomes available in production, the issue is closed by the deve
 |----------|------------|-----|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is available to GitLab.com hosted customers**: After it's deployed to production (and any feature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. | - Code is deployed to production. <br/>- [Feature flag(s)](/handbook/product-development-flow/feature-flag-lifecycle/) enabled. | Development |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is available to self-managed customers**: The feature will be available in the next scheduled release for self-managed customers to install. | - Code is included in the self-managed release, ([depending upon the cut-off](/handbook/engineering/releases/#self-managed-releases-1)). | Development |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Stakeholders of a feature will know it's available in production** | - After the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br/>- Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. <br/>- Product Manager may follow up with individual [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) to let them know the feature is available. | Development |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Stakeholders of a feature will know it's available in production** | - After the feature is deployed to production and any needed verification in production is completed, the development team will close the issue and add the `workflow::complete` label. <br/>- Product Manager may follow up with individual [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) to let them know the feature is available. | Development |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Customers will be informed about major changes**: When appropriate for a change, a release post item will be written and merged by the Product Manager. | - Product Manager follows the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/) and be part of the release post. | Product Manager |
 |Continue Dogfooding process | - If the PM wants to Dogfood the feature and it's ready for internal consumption, the Product Manager [promotes it internally](/handbook/product/product-processes/#dogfooding-process). | Product Manager |
 | Experiment results and follow-up issue is created | For experiments, create a [follow-up issue](/handbook/engineering/development/growth/#experiment-tracking-issue) that will be where results of the test and next-steps are tracked. | Product Manager |
