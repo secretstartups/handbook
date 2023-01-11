@@ -507,6 +507,12 @@ On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Foreca
 - September
 - November - (adjusted timing to align with Annual Planning)
 
+From FY24 we will be requiring all TMRGs to have had the budget finalised in the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) by the 2nd of week of the Quarter. 
+
+The DIB team will also do a final check 30 days before the end of the quarter to see if your budget will be spent before the end of the quarter. 
+
+As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilised we can reassign that budgetted amount to other initiatives, TMGs or supporting external partnerships. 
+
 **Submitting/Approval of Expenses**
 
 Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](https://about.gitlab.com/handbook/finance/procurement/#--what-is-procurement). 
