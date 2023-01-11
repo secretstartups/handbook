@@ -316,13 +316,13 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday January 19 | **Available** | DRI | Key Review Date |  
 | Tuesday January 24 | Support | Tom Cooney | January 18 |
 | Wednesday January 25 | People | Wendy Barnes | January 18 |
-| Thursday January 26 | Finance | Brian Robins | January 17 |  
+| Thursday January 26 | **Available** | DRI | Key Review Date |  
 | Tuesday January 31 | IT | Craig Mestel | January 24 |
 | Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
 | Thursday February 2 | Quality | Mek Stittri | January 26 |  
 | Tuesday February 7 | **Available** | DRI | Key Review Date? |
 | Wednesday February 8 | Development | Christopher Lefelhocz | January 25 |
-| Thursday February 9 | **Available** | DRI | Key Review Date |  
+| Thursday February 9 | Finance | Brian Robins | January 17 |  
 | Tuesday February 14 | **Available** | DRI | Key Review Date? |
 | Wednesday February 15 | **Available** | DRI | Key Review Date |
 | Thursday February 16 | **Available** | DRI | Key Review Date |  
@@ -366,7 +366,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday May 17 | People | Wendy Barnes | May 9 |
 | Thursday May 18 | **Available** | DRI | Key Review Date |  
 | Tuesday May 23 | Product | Product Leadership | May 4 |
-| Wednesday May 24 | Finance | Brian Robins | May 16 |
+| Wednesday May 24 | Finance | Brian Robins | May 17 |
 | Thursday May 25 | **Available** | DRI | Key Review Date |  
 | Tuesday May 30 | **Available** | DRI | Key Review Date |
 | Wednesday May 31 | Quality | Mek Stittri | May 25 |
@@ -381,17 +381,20 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday June 21 | **Available** | DRI | Key Review Date |
 | Thursday June 22 | Product | Product Leadership | June 15 |  
 | Tuesday June 27 | **Available** | DRI | Key Review Date |
-| Wednesday June 28 | Finance | Brian Robins | June 21 |
+| Wednesday June 28 | **Available** | DRI | Key Review Date |
 | Thursday June 29 | Security | Security Leadership | June 21 |  
 | Tuesday July 4 | Independence Day (US)| | N/A |
 | Wednesday July 5 | **Available** | DRI | Key Review Date |
 | Thursday July 6 | **Available** | DRI | Key Review Date |
 | Thursday July 20 | People | Wendy Barnes | July 11  
 | Thursday July 27 | IT | Craig Mestel | July 19 |
+| Tuesday August 1 | Finance | Brian Robins | July 26 |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
 | Tuesday September 12 | CRO - Commercial | COMM Leadership | |
+| Tuesday September 19 | Finance | Brian Robins | September 14 | 
 | Thursday October 19 | People | Wendy Barnes | October 11 |
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
+| Wednesday November 1 | Finance | Brian Robins | October 26 |
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
 | December 5 | IT | Craig Mestel | November 28 |
 
