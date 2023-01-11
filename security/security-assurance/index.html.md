@@ -12,9 +12,9 @@ title: "Security Assurance"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-As a member of the [Engineering](/handbook/engineering/) organization and the greater [Security department](/handbook/security/#assure-the-customer), the Security Assurance sub-department provides GitLab customers with a high level of assurance around the security of GitLab service offerings.
+As a member of the [Security department](/handbook/security/#assure-the-customer), the Security Assurance sub-department provides GitLab customers with a high level of assurance around the security of GitLab SaaS service offerings.
 
-There five teams in the Security Assurance sub-department.
+There are five teams in the Security Assurance sub-department.
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>Security Assurance Sub-Department
 
@@ -64,29 +64,31 @@ There five teams in the Security Assurance sub-department.
 
 ### Security Governance Core Competencies 
 * [Security Policies, Standards and Control maintenance](/handbook/security/controlled-document-program.html) 
-* Security Assurance Metrics
-* Regulatory Landscape Monitoring
+* [Security Assurance Metrics](https://about.gitlab.com/handbook/security/security-assurance/governance/#security-assurance-metrics)
+* [Regulatory Landscape Monitoring](https://about.gitlab.com/handbook/security/security-assurance/governance/#regulatory-and-compliance-landscape-monitoring)
 * [Security Awareness and Training](/handbook/security/security-assurance/governance/sec-awareness-training.html)
 * [Security Assurance Application Administration](/handbook/security/security-assurance/#core-tools-and-systems)
-* Security Assurance Automation
+* [Security Assurance Automation](https://about.gitlab.com/handbook/security/security-assurance/governance/security-assurance-automation.html)
 
 ### Security Risk Core Competencies 
-* [Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management.html)
+* [Security Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management.html)
 * [Tier 2 Operational Security Risk Management](/handbook/security/security-assurance/security-risk/storm-program/index.html)
+* [Business Impact Assessments](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
+* [Critical System Tiering](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html)
 
 ### Security Compliance, Commercial Core Competencies 
 * [GitLab.com Production Continuous Control Monitoring/Auditing](/handbook/security/security-assurance/security-compliance/sec-controls.html)
 * [GitLab.com Security Certifications](/handbook/security/security-assurance/security-compliance/certifications.html)
 * [GitLab.com Production & SOX ITGC User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Tier 3 Observation Management](/handbook/security/security-assurance/observation-management-procedure.html)
-* [GitLab.com Production Readiness: Compliance Assessment] (/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
+* [GitLab.com Production Readiness: Compliance Assessment](/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
 
 ### Security Compliance, Dedicated Core Competencies 
 * [GitLab Dedicated Production Continuous Control Monitoring/Auditing](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
 * [GitLab Dedicated Security Certifcations](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
 * [GitLab Dedicated User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Tier 3 Observation Management](/handbook/security/security-assurance/observation-management-procedure.html)
-* [GitLab Dedicated Production Readiness: Compliance Assessment] (/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
+* [GitLab Dedicated Production Readiness: Compliance Assessment](/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>Core Tools and Systems
 
@@ -109,8 +111,8 @@ All other actions are the responsibility of the assigned DRI.
 | [Authomize](https://www.authomize.com/) | Key system utilized by Security Compliance for [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html) | [Donovan Felton](https://gitlab.com/dfelton) | [Alex Frank](https://gitlab.com/alexfrank09) |
 | [OneTrust Vendorpedia QRA](/handbook/business-technology/tech-stack/#onetrust) | Key system utilized for Privacy, Security, and Data Governance for completing customer questionnaires | [Donovan Felton](https://gitlab.com/dfelton) | [Marie-Claire Cerny](https://gitlab.com/marieclairecerny) |
 | [OneTrust Vendorpedia Exchange](/handbook/business-technology/tech-stack/#onetrust) | System utilized for Privacy, Security, and Data Governance for TPRM | [Donovan Felton](https://gitlab.com/dfelton) | [Ty Dilbeck](https://gitlab.com/tdilbeck) |
-| [ProofPoint](/handbook/business-technology/tech-stack/#proofpoint) | Key system utilized for the creation and distribution of our security training and phishing simulations to provide ongoing testing for adherence of various compliance frameworks. | [Donovan Felton](https://gitlab.com/dfelton) | [Rupal Shah](https://gitlab.com/rcshah) |
-| [BitSight](/handbook/security/security-assurance/field-security/independent_security_assurance.html) | Independent Security Rating Platform configured to monitor GitLab's security, identify potential vulnerabilities, and benchmark our security against our competitors. Additionally, BitSight is used to assess and monitor software vendors as part of our Third Party Risk Management Program. | [Donovan Felton](https://gitlab.com/dfelton) | [Jeff Burrows](https://gitlab.com/jburrows001) |
+| [ProofPoint](/handbook/business-technology/tech-stack/#proofpoint) | Key system utilized for the creation and distribution of our security training and phishing simulations to provide ongoing testing for adherence of various compliance frameworks. | [Donovan Felton](https://gitlab.com/dfelton) | [Joe Longo](https://gitlab.com/jlongo_gitlab) |
+| [BitSight](/handbook/security/security-assurance/field-security/independent_security_assurance.html) | Independent Security Rating Platform configured to monitor GitLab's security, identify potential vulnerabilities, and benchmark our security against our competitors. Additionally, BitSight is used to assess and monitor software vendors as part of our Security Third Party Risk Management Program. | [Donovan Felton](https://gitlab.com/dfelton) | [Jeff Burrows](https://gitlab.com/jburrows001) |
 | [GitLab](/handbook/business-technology/tech-stack/#gitlab) - Security Assurance Projects | Primarily used to engage stakeholders via issues, updates to Security Assurance related handbook pages, etc. | [Julia Lake](https://gitlab.com/julia.lake) | Each Team is responsible for their Projects, but everyone can contribute |
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Contacting the Team
