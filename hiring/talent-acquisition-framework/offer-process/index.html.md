@@ -18,21 +18,24 @@ There are a series of steps that are taken when preparing a job offer at GitLab 
 
 These steps outline all of the major stages that Recruiters follow in our job offer process.
 
+
 ### **Reference Reviews**
 
-When a Hiring Manager has determined they want to move a candidate beyond the Team Interview stage, the Recruiter will request references. The process of collecting references through a Reference Check Form is required for all external candidates. To use this form, click the ‘send’ button on the location-specific form attached to the Greenhouse reference check stage. You can view completed forms in the "Application" tab.  
+When a Hiring Manager has determined they want to move a candidate beyond the Team Interview stage, the Recruiter will request references. The process of collecting references through a Reference Check Form is **required** for all external candidates. To use this form, click the ‘send’ button on the location-specific form attached to the Greenhouse reference check stage. You can view completed forms in the "Application" tab.  
 
-The Reference Check Form will request references' contact details as well as candidate details that will help with a future offer. The address, preferred first name/nickname, and preferred last name will auto-populate into the candidates’ details. **Any other fields, including their legal name, will not transfer outside of the form and need to be added manually**. If a candidate requests changes, you will need to do that manually. As a reminder, middle names are not required as part of legal names.
+The Reference Check Form will request references' contact details as well as candidate details that will help with a future offer. 
+* The address, preferred first name/nickname, preferred last name, and PIAA details will auto-populate into the candidates’ details. **Any other fields, including their legal name, will not transfer outside of the form and need to be added manually**. If a candidate requests changes to their legal name, you will need to do that manually. As a reminder, middle names are not required as part of legal names.
 
-Fields that are entered in offers, such as BSN and Date of Birth for the Netherlands, should be added during the Offer stage by the Recruiter.
+* Fields that are entered in offers, such as BSN and Date of Birth for the Netherlands, should be added during the Offer stage by the Recruiter.
 
-CES will be responsible for 3-4 fields in the Reference Check form, depending on location. These include, PIAA, Outside Work, TMRG calls, and NYC background check fields. CES instructions can be found [here](/handbook/hiring/talent-acquisition-framework/coordinator/#reference-check-forms). 
+* CES will be responsible for 3-4 fields in the Reference Check form, depending on location. These include PIAA, Outside Work, TMRG calls, and NYC background check fields. CES instructions can be found [here](/handbook/hiring/talent-acquisition-framework/coordinator/#reference-check-forms). 
 
-Please note that these forms, just like an Offer in Greenhouse, are connected to the specific job you request them for. You cannot forms to another job, so be sure you’re hiring into that req before sending a form. If you transfer the candidate, the form **will not transfer**. If no forms are listed, please contact the Enablement team, who can copy them into your job. Our “Test Support” fake requisition will always have the most up to date versions of our forms.
+Please note that these forms, just like an Offer in Greenhouse, are connected to the specific job you request them for. You cannot transfer forms to another job, so be sure you’re hiring into that req before sending a form. If you transfer the candidate, the form **will not transfer**. If no forms are listed, please contact the Enablement team, who can copy them into your job. Our “Test Support” fake requisition will always have the most up to date versions of our forms.
 
 If you would like the Hiring Manager to receive an email when the form has been received so they can start calling references, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed. For more information about Reference Checks from a Hiring Manager perspective, [click here](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references). 
 
 Your Hiring Manager will be responsible for completing their reference checks.
+
 
 ### **Justification (Engineering Only)**
 
@@ -45,6 +48,7 @@ Once it is determined that a candidate will be moving to the offer stage, the hi
 
 The justification section is a good place to add as much detail and context as possible since offers will often be reviewed by individuals that were not part of the interview process so this is their primary source of information for whether or not an offer should be approved.
 
+
 #### Recruiter Quality Check (Engineering Only)
 
 Once a candidate has gone through the whole process before creating an offer the recruiter will ensure the scorecard requirements in [Engineering Hiring Practices](https://about.gitlab.com/handbook/engineering/#hiring-practices) are met.
@@ -53,6 +57,7 @@ The recruiter will leave a note in Greenhouse for the hiring manager as follows:
 
 - Yes - Ready to move to offer approval
 - More info need - **suggestions to be added**
+
 
 ### **Offer Approvals**
 
@@ -158,9 +163,11 @@ A description on what to input into each Offer field in Greenhouse can be found 
 
 </details>
 
+
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. Remember that the Reference Check Form does not automatically update a candidates' legal name, so that will need to be updated manually in the Details tab. The Recruiter will ensure the offer is routed for approval.
 
 If the candidate for the position is internal, you should wait until after you've presented an offer, but before the candidate is marked as hired, to merge the applicants' profiles. All other candidates should have profiles merged as early as possible. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
+
 
 **Compensation Considerations:** 
 
@@ -199,6 +206,7 @@ Information in the offer package for counter offers should include the following
    * Candidate's salary expectation beginning of process:
    * Candidate's counter offer:
 
+
 ### **Verbal Job Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
@@ -222,9 +230,11 @@ Offer details usually include:
 
 If the candidate declines GitLab's offer, the Recruiter will tag the CES team and FP&A partners for their department in Greenhouse to inform them. The CES team member will `Dismiss` any associated tasks for the candidate at disposition. When rejecting in Greenhouse, the Recruiter should select the specific reason for decline so it can be used for reporting and impact the success of future offers.
 
+
 ### **Sending the Employment Contract/Offer Letter**
 
 Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate via Greenhouse email. The Talent Acquisition team will sometimes refer to an Offer Letter and Employment Contract interchangeably, because they are called Offer Letters in the US and Employment Contracts outside of the US. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Recruiters should also communicate if the candidate is moving between countries, because CES will need to request a background check in the country where they are currently living. The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check) during this stage. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
+
 
 ### **Declined Offers**
 
@@ -238,6 +248,7 @@ Although rare, there are times a candidate may decline an offer once an offer is
    * Notify CES via the candidate notes section in GH that the candidate has declined offer and the contract needs to be voided. CES will then follow their own decline process. (DRI: Recruiter)
    * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
    * Make appropriate changes in Adaptive (DRI: FBP)
+
 
 ### **After the Employment Contract is Signed**
 
