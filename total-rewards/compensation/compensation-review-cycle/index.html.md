@@ -112,9 +112,9 @@ Performance and growth potential factors are assessed as part of the [Talent Ass
 ### Performance Factor
 
 Recommendations from Total Rewards for discretionary cash compensation increases based on performance factor:
-* Developing in role = 0-3% increase
-* Performing in role = 3-7% increase
-* Exceeding in role = 6-10% increase
+* Developing in role = 0-2% increase
+* Performing in role = up to 4% increase
+* Exceeding in role = up to 8% increase
 
 <span style="color:red">**Actual cash compensation increases may vary (up or down) from these percentages.**</span> These guidelines are meant to help ensure company-wide consistency. Actual increases may vary based on:
 
