@@ -103,6 +103,20 @@ The [new Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/index.htm
 
 _Please go with bias for action to add updates into this handbook page as the Web IDE Beta continues, and more features are added to improve the workflows. Feel free to assign @dnsmichi for review._
 
+#### Practical handbook edits: New Web IDE and single file editor 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/DJo4bQdawSo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- Editing the marketing handbook as example
+- `View source` action with the single file editor, creating a merge request, telling title and description, labels, assignees and reviewers.
+- `Edit in Web IDE` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions. 
+- Practical handbook edit tips showning this handbook. 
+
+#### Web IDE editing steps 
+
 1. Navigate to the handbook page you want to edit. At the bottom, click on the URL `Edit in Web IDE` to open the new Web IDE. 
     - Alternatively, open the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located. 
 
