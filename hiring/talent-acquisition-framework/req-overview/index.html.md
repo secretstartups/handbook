@@ -166,4 +166,4 @@ If there are any special circumstances regarding a known relocation for the cand
 
 ### **Step 9: Verbal Offer & Contract**
 
-For details about these final stages, please visit the Job Offer Process page. 
+For details about these final stages, please visit the [Job Offer Process](/handbook/hiring/talent-acquisition-framework/offer-process/) page. 
