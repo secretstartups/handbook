@@ -15,7 +15,6 @@ If you have any feedback or questions about the compensation review cycle, pleas
 
 ## Annual Compensation Review 
 
-_This page is currently undergoing a refresh for the FY24 Annual Compensation Review cycle. Iterations to the program for FY24, including an overview of our new tool in Workday, will be completed before the review launches in January._
 
 Increases for Compensation Review Cycles are based on: 
 1. Assessing market changes in the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/) inputs  
@@ -72,7 +71,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. Anyone who is departing from GitLab, with an end date on or before February 1, will be excluded from the Annual review cycle. The People Business Partner will make sure to loop in Total Rewards on any terminations.
 
 ##### January:
-1. January 9th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
+1. January 11th - January 20th @ 12pm PT/8pm UTC: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Workday for Cash Compensation Increases
     * Each division leader is responsible for making sure their group stays within budget. The company has a [4% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all performance or merit increases. Extra funds have been allocated for market adjustments for team members who are below range.
     * Managers and indirect managers will review their team members and propose an increase based on several factors:
         * Performance Factor
@@ -172,7 +171,7 @@ When determining compensation increases for promotions, the same general guideli
 
 ## Manager Review
 
-As part of the FY24 [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers and indirect managers will review, approve, and enter salary increases and promotions from 2023-01-09 to 2023-01-20 to ensure that we are paying each team member to market and prioritizing increases based on performance while staying aligned to budget. Then, equity refresh awards will be planned by Directors and above in February (dates TBA) and communicated in March following Board approval.
+As part of the FY24 [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers and indirect managers will review, approve, and enter salary increases and promotions from 2023-01-11 to 2023-01-20 to ensure that we are paying each team member to market and prioritizing increases based on performance while staying aligned to budget. Then, equity refresh awards will be planned by Directors and above in February (dates TBA) and communicated in March following Board approval.
 
 It is very important that GitLab team members understand their performance and how it impacts their salary.
 
@@ -188,7 +187,7 @@ For any feedback around the manager review portion of Annual Compensation Review
 
 1. Navigate to [Workday](https://www.myworkday.com/gitlab/d/home.htmld). We recommend logging in through [Okta](https://gitlab.okta.com/app/UserHome).
 * ![Workday tile](/images/handbook/people-group/workday-tile.png)
-1. On 2023-01-09 at 12PM PST, you will receive a task in your inbox related to Annual Compensation Review. Note that this task will not be visible until this launch date.
+1. On 2023-01-11, you will receive a task in your inbox related to Annual Compensation Review. Note that this task will not be visible until this launch date.
 1. In your inbox, select the **FY24 Annual Compensation Review** task.
 * ![Workday inbox item](/images/handbook/people-group/workday-inbox-acr.png)
 
