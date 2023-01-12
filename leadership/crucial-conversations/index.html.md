@@ -62,7 +62,7 @@ These are just a few strategies outlined in the Crucial Conversation book. We [h
 
 The ability to influence is an essential leadership skill. To influence is to have an impact on the behaviors, attitudes, opinions and choices of your team members and others across GitLab and externally. Influence should not be confused with power or control. It is also not about manipulating others to get your own way. It is about noticing what motivates team members commitment and using that knowledge to leverage performance and results.  
 
-[Leadership](/handbook/leadership/) has sometimes been described as the ability to influence others. An effective leader does not move team members into action by coercion. An effective leaders will articulate the overall vision and goals for the organization. By doing such this can motivate and move team members to action by tapping into their desires and need for success. Positive influence that is properly channeled can also bring about transformation and change for team members, department, division and the company. A leader that exhibits and exerts positive influence in others will build trust and become a true driving force towards transparency, iteration, collaboration and results.
+[Leadership](/handbook/leadership/) has sometimes been described as the ability to influence others. An effective leader does not move team members into action by coercion. An effective leader will articulate the overall vision and goals for the organization. By doing such this can motivate and move team members to action by tapping into their desires and need for success. Positive influence that is properly channeled can also bring about transformation and change for team members, department, division and the company. A leader that exhibits and exerts positive influence in others will build trust and become a true driving force towards transparency, iteration, collaboration and results.
 
 There are many different influencing strategies and in this section we are going to review 9 that leaders can review. Each strategy below will include a definition, example and ways for leaders to develop this strategy.
  
@@ -73,9 +73,9 @@ There are many different influencing strategies and in this section we are going
 1.  **Interpersonal Awareness**: Being able to recognize and address the concerns of key stakeholders.
     * Example: A manager/leaders offers support to team members by identifying a list of questions that may be asked in meetings with senior leadership.
     * Develop: Awareness of verbal and non verbal cues, putting yourself in another person's shoes and testing your own understanding of the message.
-1.  **Negotiating**: Gaing support from others by mutually agreeing on a common set of goals or outcomes.
+1.  **Negotiating**: Gaining support from others by mutually agreeing on a common set of goals or outcomes.
     * Example: A vendor who is trying to land a big deal may offer their client incentives or a discount provided the size of the order large enough.
-    * Develop: Understand the other person's requirements, identify your non-negotiable, role-play wiht a colleague, practive in a low risk real life situation.
+    * Develop: Understand the other person's requirements, identify your non-negotiable, role-play with a colleague, practive in a low risk real life situation.
 1.  **Networking**: Establish and maintain a network of contacts who you may need to influence going forward.
     * Example: A manager spends time with their peers or cross functional partners in different activites (either work or non work related) in order to develop a better bond/relationship with their network.
     * Develop: Take interest in other peoples lives, find common ground, leverage existing relationships and take advantage of existing opportunities.
