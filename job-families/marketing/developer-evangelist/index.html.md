@@ -19,22 +19,22 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 
 ### Responsibilities
 
-* Lead the conversation around the latest technology advancements and best practices in the developer community
-* Create engaging content, including technical talks, blog posts, demos, and videos, that educates developers on important technologies and trends
+* Lead the conversation around technology trends and best practices in the developer community
+* Create engaging content, including technical talks, blog posts, demos, and videos, that educates the GitLab and open-source community.  
 * Support GitLab's product and engineering efforts by sharing what you learn while engaging with the wider GitLab community and the tech community, at large
 * Conduct interviews with media via phone, podcasts, video, and in-person
-* Contribute to relevant open source projects, foundations, and TAGs in order to give GitLab visibility and share our experience and insights to developments in our areas of interest
 * Be a leader within GitLab and in the wider community
+* Contribute to the goals of GitLab's Developer Evangelism and Community Relations teams
 
 ### Requirements
 
-* Experience building software and contributing to open source in the cloud computing ecosystem
+* Experience creating software or contributing to open source software
 * At least 1 year of experience giving talks and developing demos, workshops, webinars, videos, and other technical content
 * Meaningful social presence with engaged followers
 * Ability to manage the fast moving conference schedule with its CFP deadlines and show dates
 * Self-directed and work with minimal supervision
 * Outstanding written and verbal communications skills with the ability to translate complex technology concepts into simple and intuitive communications
-* Ability to travel up to 30% of the time
+* Ability to travel up to 20% of the time
 * You share our [values](/handbook/values/) and work in accordance with those values
 * Ability to use GitLab
 
@@ -44,11 +44,37 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 
 The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+### Responsibilities 
+* Same as Developer Evangelist plus, 
+* Contributor to relevant open source projects, foundations, and TAGs in order to give GitLab visibility and share our experience and insights to developments in our areas of interest
+* Support teammates, including senior staff and executive group, in their content creation efforts 
+* Contribute to goals of the GitLab Marketing organization
+
 ### Requirements
 
 * Same as Developer Evangelist plus,
-* 2-3 years experience giving talks and developing demos, webinars, videos, and other technical content to audiences of 300 and larger
+* 3 or more years experience giving talks and developing demos, webinars, videos, and other technical content to audiences of 300 and larger
 * Experience serving as a media spokesperson
+
+
+## Staff Developer Evangelist
+
+### Job Grade
+
+The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities 
+* Same as Senior Developer Evangelist plus, 
+* Create content that positions GitLab as a thought leader as measure and generates a large number of impressions and engagement 
+* Work cross-functionally with GitLab teams, including GitLab executives, and contribute to GitLab's top-level company goals
+ 
+### Requirements
+
+* Same as Senior Developer Evangelist plus,
+* Hold positions of influence in open source projects and organizations such as TAG leads, maintainer status, author status
+* A growing and engaged social media following of 5,000+ followers or equivalent
+* Experience giving talks and developing demos, webinars, videos, and other technical content at industry events with 1,000+ attendees, or experience as keynote speaker.  
+* A leader who has contributed to the success of teammates and community members
 
 ## Developer Evangelism Program Manager
 
@@ -93,20 +119,6 @@ The Developer Evangelism Program Manager is a [grade 6](https://about.gitlab.com
 * Uplevel the speaker's bureau to an influencer bureau and run the program with all modes of content creation in mind - speaking, technical demos, blog posts, media, etc.
 * Meaningful impact to overall team impressions KPI from blog posts, technical talks and demos
 * DRI integrated campaigns with other GitLab teams to achieve the above
-
-## Staff Developer Evangelist
-
-### Requirements
-
-* Same as Senior Developer Evangelist plus,
-* Hold positions of influence in open source projects and organizations such as TAG leads, maintainer status, author status
-* A growing and engaged social following of 5k+ followers or equivalent
-* Experience giving talks and developing demos, webinars, videos, and other technical content as keynote speaker
-* Proven leader who has contributed to the success of other GitLab team members 
-
-### Job Grade
-
-The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Manager, Developer Evangelism
 
@@ -171,15 +183,12 @@ The Senior Manager, Developer Evangelism is a [grade 9](https://about.gitlab.com
 
 The next step for both individual contributors and managers of people is to move to the [Director, Technical Evangelism](/job-families/marketing/director-technical-evangelism) job family.
 
-## Performance indicators
-
-* Impressions per month. Number of combined impressions/organic views from the TE team, from a designated number of sources (e.g. social, events, content, etc.)
-
 ### Performance Indicators
 
-* Support[Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
+* Support [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
 * [Twitter impressions](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/metrics/)
 * Support [New Unique Web Vistors Per Month](https://about.gitlab.com/handbook/marketing/performance-indicators/#new-unique-web-visitors-aboutgitlabcom)
+* Impressions per month. Number of combined impressions/organic views from the Developer Evangelism team, from a designated number of sources (e.g. social, events, content, etc.)
 
 ## Specialties 
 
