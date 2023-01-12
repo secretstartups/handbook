@@ -105,15 +105,7 @@ The new ticket should focus on a single issue and keep the original ticket on
 the original issue. This helps reduce time to resolution and makes it easier
 for us to focus on fixing the problem at hand.
 
-To split a ticket:
-
-1. Click `+ Add` near the top of the Zendesk screen to create a new ticket
-1. Set the user as the Requester (use the same email address as the original ticket)
-1. Give the new ticket a helpful 'Subject'
-1. Paste or write in the relevant text for the new ticket description
-1. Set the correct ticket form and other meta data from the sidebar
-1. Submit as 'New' if the next action is for GitLab or as 'Pending' if the next action is for the user
-1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.)
+Please see option 3 in [Requesting Support for Customers](/handbook/support/internal-support/#requesting-support-for-customers) for details on how to create a new ticket.
 
 ## Removing Information From Tickets
 
