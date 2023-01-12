@@ -47,13 +47,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 ### EMEA Webinars
 
-#### Intro to GitLab
-##### January 12th, 2023 at 10:00AM-11:00AM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ZDCzvK-ETuWfvtKf1t5daQ)
-
 #### Intro to CI/CD
 ##### January 17th, 2023 at 10:00AM-11:00AM UTC
 
