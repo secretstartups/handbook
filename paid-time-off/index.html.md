@@ -537,12 +537,13 @@ The 25-day holiday entitlement is an employee's right based on a 35-hour workwee
     * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
     * Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
     * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
+
 | Policy Locations             | Statutory Minimum Vacation Time               | Statutory Minimum Vacation Pay             |
 |------------------------------|-----------------------------------------------|--------------------------------------------|
 | All of Canada (except SK, QC, ON)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
-| Quebec Only                  | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
-| Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
-| Ontario | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
+| Quebec Only | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
+| Saskatchewan Only | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
+| Ontario Only | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
 
 ## Processing Vacation Requirements (People Ops Instructions)
 
