@@ -40,7 +40,7 @@ should be avoided in order to prevent designing by committee.
 The intent of a revert is never to place blame on the original author. Additionally, it is helpful
 to inform the original author so they can participate as a DRI on any necessary follow up actions.
 
-The `pipeline:expedite-master-fixing` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
+The `pipeline:expedite` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
 
 ## Broken `master`
 
@@ -106,6 +106,8 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
    * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
+        * If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production. 
+        * If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
    * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job), create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       * Create a new Timeline event in the incident with a link to the created issue.
       * Add the appropriate labels to the main incident:
@@ -155,7 +157,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       ```
 
     * When the master-broken is resolved, close the incident.
-1. (Optional) Pre-resolution
+2. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
      * Making a quick fix (for example, one line or a few similar simple changes in a few lines).
@@ -173,11 +175,11 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
 
 1. Prioritize resolving broken `master` incidents over new bug/feature work. Resolution options include:
    * **Default**: Revert the merge request which caused the broken `master`. If a revert is performed,
-     create an issue to reinstate the merge request and  assign it to the author
+     create an issue to reinstate the merge request and assign it to the author
      of the reverted merge request.
        * Reverts can go straight to maintainer review and require 1 maintainer approval.
        * The maintainer can request additional review/approvals if the revert is not trivial.
-       * The `pipeline:expedite-master-fixing` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
+       * The `pipeline:expedite` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
      * Add the `quarantined test` label to the `failure::flaky-test` issue you previously created during the identification phase.
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
