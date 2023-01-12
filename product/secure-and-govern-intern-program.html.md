@@ -209,4 +209,4 @@ things:
 If you are an open-source project hosted on GitLab.com, we would love to have
 you work with one of our interns as part of this program! If you're interested,
 please create an issue and tag us! If you haven't already, consider also
-applying for our GitLab [Open Source Program](https://about.gitlab.com/solutions/open-source/program/).
+applying for our GitLab [Open Source Program](https://about.gitlab.com/solutions/open-source/join/).
