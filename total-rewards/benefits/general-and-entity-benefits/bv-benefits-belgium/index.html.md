@@ -30,21 +30,20 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
 
 ## Belgium Holiday Schedule
  
-Pursuant to article 13 of the law on paid public holidays, employers are obliged to inform employees of observance holidays granted in lieu of public holidays which fall on a Sunday or another day of inactivity. Below is the 2022 Holiday and Observance schedule for Team Members in Belgium:
+Pursuant to article 13 of the law on paid public holidays, employers are obliged to inform employees of observance holidays granted in lieu of public holidays which fall on a Sunday or another day of inactivity. Below is the 2023 Holiday and Observance schedule for Team Members in Belgium:
  
 | Date                     | Holiday | Replacement Day |
 |--------------------------|:---:|:----:|
-| Saturday January 1st         | New Year's Day  | Friday, December 31st, 2021 |
-| Monday April 18th     | Easter Monday  |  |
-| Sunday May 1st | Labour Day  | Monday May 2nd |        
-| Thursday May 26th   | Ascension Day  |  |
-| Monday June 6th        | Whit Monday   |  |
-| Thursday July 21st     | National Holiday  |  |
-| Monday August 15th | Assumption Day  |  |
-| Tuesday November 1st  | All Saints Day   | |        
-| Friday November 11th    | Armistice  |  |
-| Sunday December 25th     | Christmas  | Monday December 26th |
-
+| Sunday January 1st         | New Year's Day  | Monday January 2, 2023 |
+| Monday April 10th     | Easter Monday  |  |
+| Monday May 1st | Labour Day  |  |        
+| Thursday May 18th   | Ascension Day  |  |
+| Monday May 29th        | Whit Monday   |  |
+| Friday July 21st     | National Holiday  |  |
+| Tuesday August 15th | Assumption Day  |  |
+| Wednesday November 1st  | All Saints Day   | |        
+| Saturday November 11th    | Armistice  | Friday November 10th |
+| Monday December 25th     | Christmas  |  |
 
 ## GitLab B.V. Belgium Leave Policy
 
