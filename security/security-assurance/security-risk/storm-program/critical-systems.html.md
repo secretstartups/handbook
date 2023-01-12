@@ -88,7 +88,7 @@ Systems are assigned a critical system tier based on the following matrix:
     <td class="tg-zqun">Tier 1 Product</td>
   </tr>
   <tr>
-    <td class="tg-e02t">Tier 2 Business Critical</td>
+    <td class="tg-e02t">Tier 2 Business Critical<span style="color:#DB3B21;">***</span></td>
     <td class="tg-zqun">Disruption has an immediate and significant impact to critical business functions and customer service.</td>
     <td class="tg-zqun">customers.gitlab.com/subscription, Netsuite, Salesforce</td>
     <td class="tg-zqun">Tier 1 Business and Tier 2 Core</td>
@@ -118,6 +118,9 @@ Systems are assigned a critical system tier based on the following matrix:
 {: .note}
 
 <span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard](/handbook/security/data-classification-standard.html#red) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
+{: .note}
+
+<span style="color:#DB3B21;"><b>\***</b></span> By default, any system in-scope for [SOX](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html#what-are-itgcs) will be a **Tier 2 Business Critical** system, at minimum.
 {: .note}
 
 </div>
