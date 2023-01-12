@@ -59,7 +59,7 @@ This is a process intended to help inform the design process and maintain a high
 - In conjunction with usability testing workflows.
 - In order to evaluate the onboarding experience of your workflows.
      
-**When to create a [Category Maturity Scorecard](/handbook/product/ux/category-maturity-scorecards/):** 
+**When to create a [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/):** 
 
 - When more rigorous testing is required within a category in relation to a set of business requirements and/or features that are needed for the category to move up. This is a summative process (not for identifying usability concerns) that allows us to gather metrics and data that will help us understand how changes to the product impact the user experience over time. We grade the maturity of our product using this process.
 

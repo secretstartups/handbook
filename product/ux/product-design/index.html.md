@@ -51,7 +51,7 @@ For specific details
 
 Product Designer Tools
 * [UX Scorecard](/handbook/product/ux/ux-scorecards/)
-* [Category Maturity Scorecard](/handbook/product/ux/category-maturity-scorecards/)
+* [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
 * [UX Issue Triage](/handbook/engineering/quality/issue-triage/#ux)
 * [Heuristics](/handbook/product/ux/heuristics/)
 * [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (_GitLab Team Member access only_)

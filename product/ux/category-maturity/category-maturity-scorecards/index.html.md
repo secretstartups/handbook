@@ -48,11 +48,11 @@ All of the UX Scorecards can be found in this [epic](https://gitlab.com/groups/g
 
 ### Step 0: Jobs to be Done (JTBD)
 
-Category Maturity Scorecards are about judging the quality of experiences against a **defined and confident** JTBD. JTBD are the umbrella component of our product design process which are used as guides to direct our product strategies and the features they are comprised of. Therefore, JTBD(s) for the category should be defined and have a high level of confidence ahead of completing a Category Maturity Scorecard.
+Category Maturity Scorecards are about judging the quality of experiences against a **defined and confident** JTBD. JTBD are the umbrella component of our product design process, and we use them to guide our product strategy and features. For that reason, before you begin the CM Scorecard process, you should have one or more JTBD that you feel confident about.
 
 Refer to the [JTBD page](/handbook/product/ux/jobs-to-be-done/) to learn [how to write JTBD](/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
 
-Before you move to Step 1, you'll first need to select a couple of high priority job statements that are relevant for your category features and translate them to script scenarios. Ideally, no more than 2 job statements should be tested per Category Maturity Scorecard study. The number of scenarios used per job statement often depends on the complexity of the features tested.
+Before moving to Step 1, you first need to select the high-priority JTBD statements that you want to assess and translate them into script scenarios. The number of scenarios you will create per job statement often depends on the complexity of the features you're testing. Due to time limitations in a user research study (generally 30 to 60 minutes per participant), we recommend assessing no more than 2 job statements per study to help avoid participant fatigue. However, if you want to test more than 2 job statements, you can. Just be mindful of the total time it will take to run the study. 
 
 Tip: Since job statements are persona and solution agnostic, you might find them to be too broad to serve as guidance for writing script scenarios. If that is the case, consider breaking the job statements down into user stories as an intermediary step, in order to bridge the gap between high-level job statements and actionable scenarios. Learn more about the difference between job statements and user stories in [How to Write JTBD](/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
 

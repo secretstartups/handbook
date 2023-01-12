@@ -124,7 +124,9 @@ Below is a full list of our UX Research team handbook content:
 - [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/)
      - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html)
      - [System Usability Scale database](/handbook/product/ux/sus-database/)
-- [Category Maturity Scorecards](/handbook/product/ux/category-maturity-scorecards/)
+- [Assessing Category Maturity](/handbook/product/ux/category-maturity/)
+    - [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
+    - [Category Maturity - Competitor Comparison](/handbook/product/ux/category-maturity/competitor-comparison/)
 - [Tracking research velocity](/handbook/product/ux/ux-research/tracking-research-velocity/) 
 - [Tracking gold, silver, and bronze UX research projects](/handbook/product/ux/ux-research/tracking-research-projects/) 
 

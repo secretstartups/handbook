@@ -54,7 +54,7 @@ Our SVG repository manages all GitLab SVG assets by creating an SVG sprite out o
 * [View the project](https://gitlab.com/gitlab-org/gitlab-svgs)
 
 ### Jobs to be Done (JTBD)
-We use the JTBD framework for viewing products and solutions in terms of the jobs customers are trying to achieve. It's about understanding the goals that people want to accomplish. JTBD is used throughout the design process to determine scope, validate direction, evaluate existing experiences with [UX Scorecards](/handbook/product/ux/ux-scorecards/), and assess our [Category Maturity](/direction/maturity/) with [Category Maturity Scorecards](/handbook/product/ux/category-maturity-scorecards/).
+We use the JTBD framework for viewing products and solutions in terms of the jobs customers are trying to achieve. It's about understanding the goals that people want to accomplish. JTBD is used throughout the design process to determine scope, validate direction, evaluate existing experiences with [UX Scorecards](/handbook/product/ux/ux-scorecards/), and assess our [Category Maturity](/direction/maturity/) with [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/).
 
 * [JTBD Overview](/handbook/product/ux/jobs-to-be-done/)
 * [JTBD Deep Dive](/handbook/product/ux/jobs-to-be-done/deep-dive/)

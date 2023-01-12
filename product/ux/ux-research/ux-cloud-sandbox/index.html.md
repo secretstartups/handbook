@@ -21,7 +21,7 @@ You may wish to use the UX Cloud Sandbox if you are interested in:
 - Evaluating current workflows, JTBD, user journey maps, and so on… 
 - Conducting user studies that require Admin privileges, Ultimate plan features, or more complex functionality (CI/CD pipelines, threat monitoring, and so on)
 - Conducting studies geared towards self-managed users
-- Performing [Category Maturity Scorecard](/handbook/product/ux/category-maturity-scorecards/) studies
+- Performing [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/) studies
 - Performing [usability benchmarking](/handbook/product/ux/ux-research/usability-benchmarking/) studies
 - [Validating solutions](/handbook/product/ux/ux-research/solution-validation-and-methods/) that have already been released into the product
 - Running [problem validation studies](/handbook/product/ux/ux-research/problem-validation-and-methods/)
