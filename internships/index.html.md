@@ -23,7 +23,7 @@ To validate and refine our approach to offering internships at an [all-remote co
 
 ### How to apply for an internship
 
-We are currently recruiting for multiple engineering teams.  See the [job post](https://grnh.se/b2f2be562us) for more details.
+We are currently accepting expressions of interest for future internships.  See the [job post](https://grnh.se/b2f2be562us) for more details.
 
 
 # <i class="fas fa-users" id="biz-tech-icons"></i> Get involved
