@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Workspace Group"
+title: "Organization Group"
 ---
 
 ## On this page
@@ -9,17 +9,17 @@ title: "Workspace Group"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Manage:Workspace
+### Manage:Organization
 {: #welcome}
 
 #### What makes us different?
 
-The Workspace group is a central piece to the GitLab product! While many groups focus on single area - like the repository view, or the merge request view, this group has a much broader impact on many areas. Because of this, there are some key topics that we keep on our mind more than other groups might:
+The Organization group is a central piece to the GitLab product! While many groups focus on single area - like the repository view, or the merge request view, this group has a much broader impact on many areas. Because of this, there are some key topics that we keep on our mind more than other groups might:
 
 **Security issues**
 
 As properly showing hierarchy to users - which projects/groups they have access to - is our responsibility, we need to solve any security issue connected to that. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/security/#due-date-on-security-issues). 
-For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/3635888?label_name[]=group%3A%3Aworkspace&label_name[]=security). We expect all team members to be able to resolve security issues.
+For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/3635888?label_name[]=security&label_name[]=group%3A%3Aorganization). We expect all team members to be able to resolve security issues.
 
 **Scale**
 
@@ -33,9 +33,8 @@ Because the hierarchy in GitLab, specifically on GitLab.com, can get complicated
 * Everyone can contribute; no silos.
   * The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
 * We do an optional, asynchronous daily stand-up in our respective group stand-up channels:
-  * Manage:Workspace [#g_manage_workspace_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
-* We are using feature flags extensively. Due to the our domain and how vital it is for the GitLab workings, 
-every new major or mid-size change should be feature-flagged. 
+  * Manage:Organization [#g_manage_organization_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
+* We are using feature flags extensively. Due to the our domain and how vital it is for the GitLab workings, every new major or mid-size change should be feature-flagged. 
 
 #### With our counterparts
 
@@ -61,8 +60,8 @@ When working with our Support counterparts on customer issues, you are enouraged
 - [Subscribe to these company Slack channels](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/communication/#read-all-of)
 - [Review the `#eng-week-in-review` weekly](/handbook/engineering/#keeping-yourself-informed)
 - Other channels of interest are `#team-member-updates`, `#sd_dev_engineering`, `#vp-development`, `#ceo`, `#cto`
-- We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsibility of an Engineering Manager, who can use an issue template located in the [Manage/Workspace repo](https://gitlab.com/gitlab-org/manage/manage-workspace/discussions).
-All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org/manage/manage-workspace/discussions/-/issues/?sort=due_date&state=opened&label_name%5B%5D=weekly%20update&first_page_size=20)
+- We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsibility of an Engineering Manager, who can use an issue template located in the [Manage/Organization repo](https://gitlab.com/gitlab-org/manage/manage-organization/discussions).
+All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org/manage/manage-organization/discussions/-/issues/?first_page_size=20&label_name%5B%5D=weekly%20update&sort=due_date&state=opened)
 
 #### Capacity Planning & Estimation
 
@@ -102,7 +101,7 @@ We do not provide estimates greater than 5 without encouraging iteration, splitt
 
 We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). While meeting this timeline is flexible, a typical planning cycle is suggested to look like:
 
-* At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues?sort=created_date&state=opened&label_name[]=group::workspace&label_name[]=Planning+Issue) for the coming release.
+* At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aorganization&first_page_size=20) for the coming release.
   * This issue should include an initial plan for the release, along with links to boards that represent the proposed work for the milestone.
   * Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. Issues of particular significance to our stage's strategy should be marked with `direction`.
 * By the 12th, all planned issues proposed for the next release should be estimated by engineering (`workflow:ready for development`).
@@ -163,7 +162,7 @@ The following people are permanent members of the group:
 - [Performance Indicators](https://app.periscopedata.com/app/gitlab/932405/Manage::Workspace-Dashboard)
 
 - For the cross-functional prioritization framework, in the short term, we are aiming to spend at least 50% of our capacity on feature work.
-The Workspace group needs to be especially cautious with scheduling maintenance work and bug fixes. Since we oversee 244 endpoints, the chance that any user is impacted by a performance issue covered by our group is particularly high.
+The Organization group needs to be especially cautious with scheduling maintenance work and bug fixes. Since we oversee 214 endpoints, the chance that any user is impacted by a performance issue covered by our group is particularly high.
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Workspace" } %>
 
 ## Links and resources
@@ -176,7 +175,7 @@ The Workspace group needs to be especially cautious with scheduling maintenance 
 <%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
 * [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/workspace/-/issues)
 * Our Slack channels
-  * Manage:Workspace [#g_manage_workspace](https://gitlab.slack.com/archives/C02AZ7C32N5)
+  * Manage:Organization [#g_manage_organization](https://gitlab.slack.com/archives/C02AZ7C32N5)
   * Linear Queries [#g_manage_auth_topic_linear_namespaces_queries](https://gitlab.slack.com/archives/C02C507V2PM)
   * Consolidating groups and projects [#f_simplify-groups-and-projects](https://gitlab.slack.com/archives/C014ZJZP0JC)
-  * Daily standups [#g_manage_workspace_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
+  * Daily standups [#g_manage_organization_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
