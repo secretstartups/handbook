@@ -157,6 +157,8 @@ Per our [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/
 
 While the company has the right to repurchase the unvested shares upon your termination of services, the company is not obligated to do so. Accordingly you could lose some or all of the investment you made. Because we are a young company there are lots of risks, so be aware and informed of the risks. 
 
+You may exercise and hold your options even outside of an Open Window. To do so, email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
+
 ## E-TRADE:  Exercising your Shares in an Open Window
 
 For trading in an open trading window, please find the following instructions for specifics on exercise and trading options. 
