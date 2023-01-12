@@ -40,7 +40,7 @@ Some UX teams have documented detailed information about their ways of working a
 
 Product Designers follow the guidance outlined in the [Product Development flow](/handbook/product-development-flow/) while working on stage group work with our stable counterparts. 
 
-For specific details:
+For specific details
 * [Planning and managing capacity](/handbook/product/ux/product-designer/#planning-and-managing-capacity)
 * [Prioritization](/handbook/product/ux/product-designer/#priority-for-UX-issues)
 * [Working on Issues](/handbook/product/ux/product-designer/#working-on-issues) 
@@ -48,22 +48,26 @@ For specific details:
 * [Partnering with UX Research](/handbook/product/ux/product-designer/#product-design-process)
 * [Partnering with Technical Writers](/handbook/product/ux/product-designer/#partnering-with-technical-writers)
 * [Contributing to Pajamas](https://design.gitlab.com/get-started/contribute)
-* [Product Design Manager Workflows](/handbook/product/ux/product-design/product-design-manager.html)
 
 Product Designer Tools
 * [UX Scorecard](/handbook/product/ux/ux-scorecards/)
 * [Category Maturity Scorecard](/handbook/product/ux/category-maturity-scorecards/)
 * [UX Issue Triage](/handbook/engineering/quality/issue-triage/#ux)
 * [Heuristics](/handbook/product/ux/heuristics/)
-* [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (GitLab Team Member access only)
+* [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (_GitLab Team Member access only_)
 * [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
+
+Product Design Management
+* [Product Design Manager Workflows](/handbook/product/ux/product-design/product-design-manager.html)
+
+Learning and Development
+* [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
 
 ## Learn about UX and see our work
 
 * [YouTube Playlist for UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz) 
-* [UX Learning and Development page](/handbook/product/ux/learning-and-development)
 
 ## Design Principles
 
