@@ -1236,21 +1236,15 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `UK/I`: Issues that are related to the EMEA UK & Ireland sales team
 - `Russia`: Issues that are related to the EMEA Russia & Ukraine sales team
 - `MEA`: Issues that are related to the EMEA MEA (Middle East & Africa) sales team
-- `EAST - NYC`: Issues that are related to the East - NYC sales team
-- `EAST - Mid Atlantic`: Issues that are related to the East - Mid-Atlantic sales team
-- `East - NE`: Issues that are related to the US East - NE sales team
-- `East - SE`: Issues that are related to the East - SE sales team
-- `WEST - Bay Area`: Related to the West Bay Area sales team
-- `WEST - BigSky`: Issues that are related to the West - BigSky sales team
-- `WEST - SW`: Issues that are related to the West - SW sales team
-- `WEST - NW`: Issues that are related to the West - NW sales team
-- `CENTRAL - North Central`: Issues that are related to the Central - North Central sales team
-- `CENTRAL - South Central`: Issues that are related to the Central - South Central sales team
-- `CENTRAL - Mountain`: Issues that are related to the Central - Mountain sales team
+- `East - NE & NYC Metro`: Issues that are related to the US East - NE sales team and East - NYC sales team
+- `East - SE & Mid Atlantic`: Issues that are related to the East - SE sales team and East - Mid-Atlantic sales team 
+- `EAST - South Central`: Issues that are related to the EAST - South Central sales team
+- `WEST - SW & Bay Area`: Issues that are related to the West - SW sales team and West Bay Area sales team
+- `WEST - NW & North Central`: Issues that are related to the West - NW sales team and Central - North Central sales team
 - `LATAM`: Issues that are related to the LATAM sales team
 - `Public Sector US`: Any issues related to US Public Sector
 - `AMER PubSec - FED`: AMER FED tactics
-- `AMER PubSec - SLED`: AMER SLED tactics
+- `AMER PubSec - SLED/CIV`: AMER SLED tactics
 - `AMER - DOD`: AMER DOD tactics
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
