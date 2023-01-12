@@ -492,7 +492,7 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the SA team Manager.
 - Candidates may be invited to schedule an interview with a Solutions Architect peer or other SA team Manager.
-- Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the [Demo Guide](https://sa-demo-group.gitlab.io/sa-candidate-experience/panel_instructions/).
+- Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the [Demo Guide](https://gitlab-com.gitlab.io/customer-success/solutions-architecture/sa-candidate-experience/panel_instructions/).
 - Candidates may be invited to additional interviews.
 - Successful candidates will be made an offer after references are verified.
 
