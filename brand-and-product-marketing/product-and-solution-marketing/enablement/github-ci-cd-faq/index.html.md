@@ -19,7 +19,7 @@ Mark Pundsack
 
 ### Q: What is covered in today’s announcement?
 
-A: With [GitLab CI/CD for GitHub](/github), enterprises working with multiple different types of code repositories can now standardize on GitLab CI/CD for seamless consistency across both their GitHub and GitLab code repositories. Open source projects that host their code on GitHub can take advantage of CI/CD on GitLab SaaS, where GitLab offers top tier features for free to open source projects.
+A: With [GitLab CI/CD for GitHub](/solutions/github/), enterprises working with multiple different types of code repositories can now standardize on GitLab CI/CD for seamless consistency across both their GitHub and GitLab code repositories. Open source projects that host their code on GitHub can take advantage of CI/CD on GitLab SaaS, where GitLab offers top tier features for free to open source projects.
 
 ### Q: What is the headline of the press release?
 
