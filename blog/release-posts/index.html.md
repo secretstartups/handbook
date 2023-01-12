@@ -47,7 +47,7 @@ At a high level, the Release post schedule is:
 
 ### By the 15th
 
-- **EMs, PMs, and PDs** contribute MRs for [Usability, Performance Improvements, and Bug Fixes](#usability-improvements-performance-improvements-and-bug-fixes)
+- **EMs, PMs, Product Design Managers and Product Designers** contribute MRs for [Usability, Performance Improvements, and Bug Fixes](#usability-improvements-performance-improvements-and-bug-fixes)
 - **EMs and PMs** make sure items that are feature flagged are `enabled by default` to ensure inclusion into the self-managed release.
 - Deprecation and removal MRs are assigned to TWs for final review and merge.
 
@@ -55,7 +55,7 @@ At a high level, the Release post schedule is:
 
 - **TW Reviewers** finish review of Features, Deprecations, Removals, Upgrades, and Extras
 - **TW Lead** reviews usability, bugs and performance improvement MRs
-- **PMMs, Product Designers, and PM Leaders** do optional reviews of release post item MRs
+- **PMMs, Product Design Managers, Product Designers, and PM Leaders** do optional reviews of release post item MRs
 
 ### By the 17th
 
@@ -522,11 +522,12 @@ It's the PMs discretion on which bugs or performance improvements to include in 
 
 It's also recommended you collaborate with your EM in deciding what to include.
 
-Note that security fixes should be included in, and announced with, the [Patch and Security release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/#patch-and-security-release-posts) which is a different process than the monthly release post.
+Note that security fixes should be included in, and announced with, the [Patch and Security release posts](/handbook/marketing/blog/release-posts/#patch-and-security-release-posts) which is a different process than the monthly release post.
 
 #### Contributing to Usability Improvements
 
-It's up to the product manager's and product designer's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage PDs to make sure all items that don't make it into this section are added to the UI Polish gallery, with a link from the release post.
+It's up to the Product Manager's, Product Designer's and Product Design Manager's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage Product Design Managers to make sure all items that don't make it into this section are added to the [UI Polish gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), with a link from the release post.
+
 
 When evaluating what to include consider the following factors:
 
@@ -1218,9 +1219,9 @@ to the post.
 
 ### Usability improvements, performance improvements, and bug fixes
 
-_To be added by Engineering Managers, Product Managers and Product Designers._
+_To be added by Engineering Managers, Product Managers and Product Design Managers._
 
-The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
+The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Product Designers can also contribute to usability improvements. Read more about [Contributing to Usability Improvements](#contributing-to-usability-improvements).
 
 For items that are feature flagged, it is recommended they are `enabled by default` by the 15th to ensure inclusion into the self-managed release.
 
