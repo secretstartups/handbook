@@ -236,3 +236,9 @@ More information to come soon!
 4. Let them know they can confirm or remove users on the "Seats Quote Tab."
 5. Once the partner replies that they have decreased their seats, update the support ticket for the NFR. 
 
+## Invoices
+More information to come soon!
+
+### Partner Invoices
+Partner invoices can be found on the Partner Account Record in SFDC under `Invoices.` It helps to either have the date of the transaction and/or when the related opportunity was Closed-Won in the system. 
+
