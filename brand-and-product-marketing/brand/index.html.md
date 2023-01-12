@@ -24,4 +24,4 @@ We develop umbrella, corporate-level messaging to establish GitLab as market and
 - [Brand Activation](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/)
   - [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
   - [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
-- [Merchandise Hadling](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
+- [Merchandise Handling](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
