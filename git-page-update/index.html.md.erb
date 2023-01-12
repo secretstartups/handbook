@@ -51,7 +51,7 @@ This method involves running a single ZSH script which will complete all of the 
 
 #### Switch from HTTPS to SSH
 
-This script clones the `www-gitlab-com` repo to your local machine using HTTPS. If you have [added an SSH key to your GitLab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account), you should switch your local repo from HTTPS to SSH.
+This script clones the `www-gitlab-com` repo to your local machine using SSH by default, but that could fail and fall back to HTTPS. If you have [added an SSH key to your GitLab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account), you should switch your local repo from HTTPS to SSH.
 
 To switch your local repo from HTTPS to SSH, run the following in your local `www-gitlab-com` repo: 
 
