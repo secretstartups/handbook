@@ -22,9 +22,10 @@ This guide is based on [this video tutorial](https://www.youtube.com/watch?v=AEv
 
 Before you start with this guide, make sure you have the GDK installed and running. You can follow the GDK installation and setup steps in the following pages: 
 
-- [Learn how to prepare your workstation to run GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/prepare.md)
-- [Learn how to run GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/set-up-gdk.md)
-- [GDK Commands cheatsheet](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/HELP)
+- [Learn how to prepare your workstation to run GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#install-prerequisites)
+- [Learn how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation)
+- [Learn how to run GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md)
+- [GDK Commands cheatsheet](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/HELP)
 
 **Note:** After installing your GDK  you should have a `gitlab-development-kit` folder (that's the default name, but it can be different if you changed the name in the installation process). Inside of it you should have a working `gitlab` folder that contains all the files of the GitLab project. Both folders should be available and browseable if you installed your GDK correctly.
 
@@ -52,7 +53,7 @@ Finally, you need to have your Git and SSH credentials correctly set up in your 
 
 1. If everything is working well you should be able to see a login page for a GitLab instance in your browser. Log in using the GDK credentials. You can find the GDK credentials by typing `gdk help` in the terminal. The credentials can be found at the bottom of the resulting message.
 
-1. Prepare your Git so you can start pushing changes once you're ready. The first thing you want to do is to create and switch to a new branch. You can do that by typing the following command in your terminal: `git checkout -b "your-branch-name"`. For your branch name make sure to pick a meaningful and short name. Branch names should use kebab/hyphenated case ('a-branch-name').
+1. Prepare your Git so you can start pushing changes once you're ready. The first thing you want to do is to create and switch to a new branch. You can do that by typing the following command in your terminal: `git switch -c "your-branch-name"`. For your branch name make sure to pick a meaningful and short name. Branch names should use kebab/hyphenated case ('a-branch-name').
 
 1. Once you're checked out into a new branch is time to start exploring some potential changes. This guide mostly focuses on UI text changes so we will use an example of that nature for the rest of the guide. In this guide, we will be changing a text found in the general settings, specifically in the "Naming, Topics, Avatar" section.
 
