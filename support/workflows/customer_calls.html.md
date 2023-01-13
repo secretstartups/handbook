@@ -172,7 +172,7 @@ There are many reasons that a customer may not be able to join a call. If a cust
 
 ## Post-call
 
-Under development in MR: [www-gitlab-com!117225](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117225/diffs)
+Congratulations! You made it through the call. Unfortunately, your work is not yet over (even if the issue was solved).
 
 ### Call summary
 
