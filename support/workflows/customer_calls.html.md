@@ -222,7 +222,19 @@ If you're not comfortable having the call recorded, please involve your manager 
 
 ## Audio and Video Guidelines for Support Engineers on Customer Calls
 
-Under development in MR: [www-gitlab-com!117227](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117227/diffs)
+### Video
+
+You're not required to turn your camera, and some clients may elect not to. At GitLab we [try to have our video on at all times because it's much more engaging for participants](/handbook/communication/#video-calls).
+
+See more tips about video, environment and dress on our [communication page](/handbook/communication/#video-calls) and our [all-remote meetings page](/company/culture/all-remote/meetings/#8-meetings-are-about-the-work-not-the-background).
+
+### Audio
+
+[You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones), but [avoid AirPods because of audio quality and battery life issues](/handbook/finance/procurement/office-equipment-supplies/#price-guide-for-common-home-office-items).
+
+See more tips on our [All Remote Workspace page](/company/culture/all-remote/workspace/)
+- [About Headphones](/company/culture/all-remote/workspace/#headphones)
+- [About Microphones](/company/culture/all-remote/workspace/#microphone)
 
 #### Krisp.ai License for GitLab Support Team
 
