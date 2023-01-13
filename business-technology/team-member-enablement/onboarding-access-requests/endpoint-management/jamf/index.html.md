@@ -151,6 +151,8 @@ Please note, this section is continuously being updated with answers to common q
 
 Yes. Centralized endpoint management is common and necessary in enterprise organizations looking to achieve large scale growth, going public, and certifications. This is an expectation of our customers to meet their standards in order to utilize our service.
 
+Do not attempt to modify or remove Jamf components, unless instructed by IT personnel for troubleshooting purposes.
+
 ### Why are we using a third party endpoint management system?
 
 The Jamf Pro endpoint management solution provides a lot of advantages over an open-source/build-it-yourself solution. Some of these include integration with our Single Sign-on Identity management system (Okta), Security and access profiles, and a self-service application that allows users to easily install officially supported applications. While a read-only solution would address some of these basic tenets, not everyone in the company is technical enough or motivated to manage the security of their machine. Therefore we require a solution that can be an active component in enforcing security measures.
@@ -185,13 +187,12 @@ While such a possibility exists, we feel that the risk of something like this ha
 - A new security exploit is discovered, and unpatched applications start getting exploited in the wild.
 - Accidental misconfiguration of laptop so that company security policies like disk encryption, or password policy is not enabled.
 
-There is a lot of information about our environment (laptop os configs, software apps that are used, etc) that's publicly available on our Handbook. The risk of someone using that information to exploit one of our machines is higher due to our transparency.
+There is a lot of information about our environment (operating system configuration, software apps that are used, etc) that's publicly available on our Handbook. The risk of someone using that information to exploit one of our machines is higher due to our transparency.
 
-No software can mitigate all types of bad behaviour or abuse. Rather than relying on software to police itself, we would prefer to make the software transparent enough so that operations which violate company policies would be made plain to everyone. If you wish to see what data is being collected, and what policies are applied to your device, we would be happy to do a Zoom screen share with you. Simply reach out to ITOps by opening an issue in the [IT Helpdesk tracker](https://gitlab.com/gitlab-com/business-technology/IT-help/hd-issue-tracker/-/issues/new?issuable_template=General+HelpDesk+Request) to schedule a time .
 
 ### What additional controls are in place to ensure that the owners of this process are secured?
 
-We do not have any additional controls in place beyond the existing requirements applied to all team members at the moment, such as requiring multi-factor authentication and limited session lengths where supported. We are constantly iterating to improve the overall security of all team-members. Some of ideas that have been discussed include the deployment of additional endpoint protection software, sometimes referred to as Next-Gen Antivirus (NGAV) or Endpoint Detection and Response (EDR).
+We do not have any additional controls in place beyond the existing requirements applied to all team members at the moment, such as requiring multi-factor authentication and limited session lengths where supported. We are constantly iterating to improve the overall security of all team-members. 
 
 ### What will be the change, review, and socialization process for configuration changes to Jamf?
 
@@ -203,34 +204,14 @@ If you wish to add further privacy and security to your home network, you can fu
 
 ### What network configuration is necessary to ensure that Jamf is working?
 
-Jamf only requires inbound access on port 443, and outbound to Jamf and Apple servers on ports 8443, 5223 and 443. The Jamf documentation references SSH (port 22), but that functionality is being deprecated, and will not be used at GitLab. Users are free to block access to port 22 on their devices, or home firewall.
-
-### How can a team member verify that browsing activity is not monitored or tracked?
-
-There are no built-in activity monitoring features in Jamf. While there isn’t a mechanism in place today for a team-member to verify this, one of the Jamf customization projects that we would like to rollout at a later date is called Friendly Ghost and offers team-members the ability to see all the changes from the Jamf server logs, as well as any policies that are in effect for their devices.  Please follow the [issue](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/19) for this project if you wish to see how it’s progressing
+Please refer to the [Jamf documentation](https://docs.jamf.com/technical-articles/Network_Ports_Used_by_Jamf_Pro.html) for this information.
 
 ## Endpoint management access
 
-### Is my personal activity being monitored?
-
-No. This is not an activity monitoring solution.
-
-### Does this mean that you're able to view my browsing history?
-
-No, browsing activity will neither be tracked nor monitored.
-
-### Will remote viewing occur?
-
-No, per policy we will not perform screen sharing. If laptop support is needed, it will be upon request with your desktop shared through Zoom.
-
-### Can someone Secure Shell (SSH) into my laptop?
-
-Only the IT Team will have administrative access into Jamf, and interactive Secure Shell into user's laptops will not be done without first obtaining permission from the user.
 
 ### Who has access to the data that's being collected? Who can manage security policies? Who can trigger remote laptop wipes?
 
-The IT Operations team has access to this data and has these permissions.
-Any of the IT team can trigger a remote wipe in cases where a laptop is lost or stolen, or a team-member is off-boarded. Policy creation and management will be limited to a small group within IT Operations (currently only 3 people). We will not put a technical safeguard in place to prevent remote laptop wipes by a single IT operations team-member, this isn't practical. Only a few people will have this ability. If they use a wipe maliciously we will consider filing a police report and we might start a criminal prosecution. To prevent an ITOps team-member from doing this after getting offboarded we remove their access immediately in the case of an involuntary termination as per our offboarding policy.
+The IT Operations team has access to this data and has these permissions. Any of the IT team can trigger a remote wipe in cases where a laptop is lost or stolen, or a team-member is off-boarded. Policy creation and management will be limited to a small group within IT Operations. We will not put a technical safeguard in place to prevent remote laptop wipes by a single IT operations team-member, this isn't practical. Only a few people will have this ability. If they use a wipe maliciously we will consider filing a police report and we might start a criminal prosecution. To prevent an ITOps team-member from doing this after getting offboarded we remove their access immediately in the case of an involuntary termination as per our offboarding policy.
 
 ### How much notice will be provided before a change is made to the data collection and operations of Jamf?
 
@@ -238,11 +219,11 @@ While we don't expect to be making any changes to our currently defined data pri
 
 ### Where can I view data collected from my laptop?
 
-As outlined in the merge request, all data being collected by the Jamf agent will be listed in an XML file in each user's home directory located here ~/Documents/Data.xml. Jamf also offers wide community support, and customizability and we fully expect to take advantage of this and iterate towards more transparency. In the meantime ITOps is happy to hop on a call with any team-member and show them how Jamf works and what data has been collected from their machine. You can see an example of the different kinds of data that Jamf is collecting, [in this Google Doc](https://docs.google.com/document/d/1oQcavOViqOjpyIRzajbspr-oSQhhMdaLyNsQZeHeJ08).
+ Jamf also offers wide community support, and customizability and we fully expect to take advantage of this and iterate towards more transparency. In the meantime ITOps is happy to hop on a call with any team-member and show them how Jamf works and what data has been collected from their machine. You can see an example of the different kinds of data that Jamf is collecting, [in this Google Doc](https://docs.google.com/document/d/1oQcavOViqOjpyIRzajbspr-oSQhhMdaLyNsQZeHeJ08).
 
 ### Will a user be notified that the endpoint management software is installing something? And will the user know what has been installed?
 
-In general, any Security or OS software updates performed by Jamf will notify the user ahead of time and offer the user the option to defer the change in cases where the timing is inconvenient to the user. However, that deferral is limited and the user will eventually be forced to apply the update in cases where the update is related to security. Application changes, will go through the Jamf SelfService app and those are completely at the discretion of the user.
+In general, for any Security or OS software updates performed by Jamf will notify the user ahead of time and offer the user the option to defer the change in cases where the timing is inconvenient to the user. However, that deferral is limited and the user will eventually be forced to apply the update in cases where the update is related to security. Application changes (aside from Security fixes) will go through the Jamf SelfService app and those are completely at the discretion of the user.
 
 ### What about the risk of Jamf being used as an attack vector against business or personal interests?
 
@@ -252,7 +233,7 @@ Personal interests are more difficult, especially given GitLab's status as a rem
 
 For instance, you could:
 
-- Avoid using the endpoint for personal tasks - _if you are concerned about a remote wipe causing personal data loss on the endpoint_
+- Avoid using the endpoint for personal tasks 
 - Isolate the endpoint to its own virtual or physical network - _if you are concerned about a compromise making other endpoints on your network vulnerable_
 - Isolate the endpoint in rented office premises - _if you are concerned about a compromise of the camera or microphone_
 
@@ -262,17 +243,13 @@ Remember that you can [spend company money](/handbook/spending-company-money/) l
 
 ### Are personal laptops in scope?
 
-Personal laptops are not in scope here since they are not issued by GitLab. If you are using a personal laptop for business purposes please ensure you comply with our [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod) at all times.
-
-### Can endpoint management be optional for team members that have the knowledge on how to secure their environments?
-
-While the initial rollout of Jamf will be opt-in, this is temporary while we refine our security policies and test that the Jamf software is performing as expected. That period of time will also allow us to work on a couple of Jamf customizations that will provide more [visibility](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/19) and [privacy](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/20) to team-members should they choose to enable them. Once this work is completed we expect 100% adoption of this endpoint management application on all Mac Laptops.
+Personal laptops are not in scope for Jamf and should not be used for GitLab work. You should comply with our [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod) at all times.
 
 ## Software management
 
 ### What software will be required, and optionally managed?
 
-At this time there are no restrictions with regards to software as long as the team-member follows proper security notices and keeps their applications current. Team-members will also see a Self-Service app when they enroll their laptop into Jamf. This app provides an app-store-like experience, with a curated list of applications that IT will pre-configure and manage. It’s merely a way to make it easy for team-members to always know where to look for the latest updates to their applications.
+Team members should follow this [process](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/) for procuring software. Team members will also see a Self-Service app when they enroll their laptop into Jamf. This app provides an app-store-like experience, with a curated list of applications that IT will pre-configure and manage. It’s a way to make it easy for team-members to always know where to look for the latest updates to their applications.
 
 ### Where can I find the list of tools we plan to manage?
 
@@ -297,7 +274,6 @@ More applications may get added over time if we find them to be useful to team-m
 
 Jamf will keep track of the software versions of all the applications installed on a team-members device and that information will be stored in that device's user record within Jamf. You can see an example of the kind of data that Jamf collects in this [file](https://docs.google.com/document/d/1oQcavOViqOjpyIRzajbspr-oSQhhMdaLyNsQZeHeJ08)
 
-One of the customization projects that ITOps will be looking to do to extend the transparency of Jamf is called [Friendly Ghost](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/19) and with it a team-member can see all the data that’s been collected about their machine. In the meantime if you want to see what data is stored about your machine in Jamf, feel free to open an [IT Helpdesk issue](https://gitlab.com/gitlab-com/business-technology/IT-help/hd-issue-tracker/-/issues/new) and we'll coordinate a time to have a Zoom chat and a tour of the Jamf UI.
 
 ## Remote wipe controls
 
@@ -318,24 +294,6 @@ The remote wipe operation is limited to a small group within IT Ops. Any one of 
 ### Is the device usable after it has been remotely wiped?
 
 Yes and no. After the laptop is wiped, it will boot into a lock-screen where the team-member needs to enter a 6 digit passcode. Once they are past the lock-screen, they can re-install the Mac OS operating system from the recovery partition that comes with every Mac Laptop.
-
-
-### What steps will IT operations take if the remote wipe fails?
-
-Since Jamf is a relatively new platform for our team, it will take some time for the ITOps team to come up to speed with any idiosyncrasies around the product. While we don’t anticipate there will be disk wiping problems, should that happen, we will be engaging with Jamf support to resolve the issue as quickly as possible.
-
-
-## SSH access
-
-### Is SSH access to the device required or can I block it?
-
-Yes, you can block it. Although the Jamf documentation makes references to requiring access to SSH (port 22), this is for a legacy application called Recon which is being deprecated and will not be used by GitLab admins. Users are free to block access to port 22 on their devices, or home firewall.
-
-
-### If the third party SaaS is compromised, what options do I have to protect the device from unauthorized SSH access?
-
-Some of your options are outlined below in the this [FAQ question](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#what-about-the-risk-of-jamf-being-used-as-an-attack-vector-against-business-or-personal-interests)
-Also, please see this [Jamf customization project issue](https://gitlab.com/gitlab-com/business-technology/mac-laptop-management/-/issues/20) that could offer you more security, If you feel like contributing please join the discussion.
 
 ## Compliance frameworks
 

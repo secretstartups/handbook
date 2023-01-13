@@ -80,15 +80,6 @@ Additionally, to meet the rigorous security requirements of enterprise customers
 1. Provide a flexible and configurable endpoint firewall solution
 1. Provide antivirus functionality for endpoints
 
-### What is not necessary?
-
-What the endpoint management solution **does not** do:
-
-1. Content filtering
-1. Collect, log or track personal activity (including website visits or purchases)
-1. Remote viewing
-1. Key-logging
-
 ### Endpoint management technologies
 
 GitLab has chosen the following endpoint technologies to comply with the various security, compliance, regulatory, and customer requirements we face.

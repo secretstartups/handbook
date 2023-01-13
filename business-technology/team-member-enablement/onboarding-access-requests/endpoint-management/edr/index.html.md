@@ -41,21 +41,20 @@ Antivirus can be seen as one part of the EDR complete security technology soluti
 
 ### How does EDR technology work?
 
-The first line of defense is stopping (or if configured, alerting) common threats on the laptop. As for additional or more "layered" lines of defense, certain types of activity (mainly involving processes on the laptop) are recorded and uploaded to a private instance for further processing and investigation. Much more sophisticated processing can take place for more thorough threat detection. This data is never shared with the EDR vendor. As a result, the agent on the laptop is typically 40-60mb in size, as opposed to the older traditional antivirus solutions which can be well over a gigabyte. This results in less resources being used on the laptop including low CPU and low memory usage.
+The first line of defense is stopping (or if configured, alerting) common threats on the laptop. As for additional or more "layered" lines of defense, certain types of activity (mainly involving processes on the laptop) are recorded and uploaded to a private instance for further processing and investigation. Much more sophisticated processing can take place for more thorough threat detection. As a result, the agent on the laptop is typically 40-60mb in size, as opposed to the older traditional antivirus solutions which can be well over a gigabyte. This results in less resources being used on the laptop including low CPU and low memory usage.
 
 ### Is this in addtion to Jamf or a replacement for Jamf?
 
 The EDR technology is in addition to Jamf. While Jamf does offer security features and protections, an EDR solution combined with Jamf will offer great ability to detect and stop significant threats and advanced digital attacks on GitLab team member laptops.
 
+Do not attempt to modify or remove SentinelOne components, unless instructed to do so by IT personnel for troubleshooting purposes.
+
 ### Will it monitor my local network?
 
 No. The EDR solution only monitors the GitLab laptop, like an antivirus solution would (only much more efficiently).
 
-### What is not necessary?
 
-Monitoring of team member activity. We have no intention of doing this. There will be times, such as during an active security incident where a [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/security/#sirt---security-incident-response-team) team member may need to remotely perform actions to stop and contain the incident, but these will only be used if required and with the consent of the team member. All such actions will also be auditable.
-
-### Why are we using a third party endpoint management system?
+### Why are we using a third party EDR system?
 
 We do not want to write our own EDR solution, nor do we want to assemble a series of partial solutions into some type of chain to attempt to meet compliance requirements. Not only does a third party EDR solution allow us to meet requirements in a thorough and more economic way, it will show auditors, regulators, and customers that we are taking security seriously and implementing it consistently.
 
@@ -79,7 +78,7 @@ While this effort is certainly appreciated, we need a way to be able to audit la
 
 ### Who owns and manages the EDR solution at GitLab?
 
-Jointly, the Security Department and Business Operations will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [Business Operations](https://about.gitlab.com/handbook/business-ops/) will handle the deployment of agents (via Jamf), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership. 
+Jointly, the Security Department and IT will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [IT Security](https://about.gitlab.com/handbook/business-technology/#security-and-compliance) will handle the configuration and deployment of agents (via Jamf), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership. 
 
 ### What safeguards are in place to ensure that owners of this process can prevent abuse?
 
@@ -109,7 +108,7 @@ Edit /etc/aide.conf and add the following line to the end to ignore the Sentinel
 
    1. Replace `tanuki` with your GitLab email username.
    1. Replace `ABCD123` with your laptop serial number.
-   1. Verify that the edited variable is formatted correctly with a hyphen separating the username and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe-ABCD1234`
+   1. Verify that the edited variable is formatted correctly with a hyphen separating the GitLab email and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe@gitlab.com-ABCD1234`
 
 1. `export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"`
 1. If you use the RPM package as root, run: `rpm -i --nodigest package_pathname`  
