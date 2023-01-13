@@ -31,7 +31,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Enter the title of the asset under `Public Configurations`. Ensure that the title is free of SEO meta information such as `| GitLab`.
 1. Provide a clear and concise description of the content if one does not exist.
 1. Select the content type from the dropdown.
-1. Leave the engagement score at a default of 20 seconds with a score of 1.
+1. An engagement score will populate based on the `content type` selected. Scoring thresholds by `content type` can be referenced [here](https://docs.google.com/spreadsheets/d/1Ihl2i9PTdxaiH7EuFCgMjXT-iR7QjvQj9oy6VILRk28/edit#gid=0)
 1. Copy and paste the public title into the internal title field.
 1. Funnel stage and estimated cost is set automatically based on the content type you chose earlier. Please leave these auto-generated tags as is and do not force change. 
 1. Set the language of the asset.

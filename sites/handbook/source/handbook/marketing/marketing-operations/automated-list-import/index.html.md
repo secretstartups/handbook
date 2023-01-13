@@ -37,7 +37,10 @@ The objective of this process is to reduce the SLA for list imports to a minimum
   
 At time of upload, a program should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of program templates, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
 
-Make sure that the campaign's `tokens` are filled in, which are found under the `My Tokens` tab in the main campaign. `Tokens` are used via `Smart Campaigns` to apply `Last Interesting Moments` to all leads whom appear in the campaign. The minimum `tokens` that should be used relate to the campaign's `Event Name`, `Event Date` and `Landing Page URL`. Without these filled out, `Last Interesting Moments` will fill in permanently `blank`.
+Make sure that the campaign's `tokens` are filled in, which are found under the `My Tokens` tab in the main campaign. `Tokens` are used via `Smart Campaigns` to apply `Last Interesting Moments` to all leads whom appear in the campaign. The minimum `tokens` that should be used relate to the campaign's `Event Name`, `Event Date` and `Landing Page URL`. Without these filled out, `Last Interesting Moments` will fill in permanently `blank`. This does not mean your upload will fail or not complete. It just means in the LIM field you will see blank datapoints, for example: `Attended {{my.event name}}, which starts on {{my.event date}}. Location: {{my.event location}}` instead of `Attended Developer Conference, which starts on May 29, 2022, Location: San Francisco`.
+
+Please note, the `Last Interesting Moments` and the `My Tokens` associated with them are separate from `Last Event Notes`. Tokens do not communicate with `Last Event Notes` and uploads from other columns in the list upload sheet. To ensure these are loaded correctly please make sure the SFDC campaign and the last event notes are filled out on your import sheet, Columns N and O. This will be explained more in the data cleaning steps below. Again, if this information is left blank it does not mean your import will fail, it will just be missing that infmoration in the leads record.  
+
 
   
 **Step 2 - Add your lead data to the spreadsheet**

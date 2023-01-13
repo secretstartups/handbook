@@ -45,7 +45,7 @@ In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual 
 
 For list loads greater than 5,000 `attendees`, Mktgops will need to confer with the `Field Marketing Director` on legitimacy of labeling the program members as `success` as doing so affects `Bizible Touchpoints`. Follow [directions here](/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-5000-attendees) on how to do this (MktgOps only).
 
-**Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
+**Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -68,7 +68,7 @@ For list loads greater than 5,000 `attendees`, Mktgops will need to confer with 
 
 White Paper or other content offer that is hosted by a third party.
 
-**Bizible:** This is tracked as an _offline_ channel.
+**Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -79,7 +79,7 @@ White Paper or other content offer that is hosted by a third party.
 
 This is when a package or piece of mail is sent out.
 
-**Bizible:** This is tracked as an _offline_ channel.
+**Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success | E-gift Card or Physical Gift |
 | ------------- | ---------- | ------- | ------------ |
@@ -100,7 +100,7 @@ This is when a package or piece of mail is sent out.
 
 This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [Read More](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
-**Bizible:** This is tracked as an _offline_ channel.
+**Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -116,7 +116,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 
 White Paper or other content offer.
 
-**Bizible:** This is tracked as an _online_ channel.
+**Bizible:** This is tracked as an _online_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -125,7 +125,7 @@ White Paper or other content offer.
 
 #### Inbound - offline
 
-**Bizible:** This is tracked as an _offline_ channel because touchpoints cannot be applied directly via online means, e.g. Drift and PQL handraises
+**Bizible:** This is tracked as an _offline_ channel because touchpoints cannot be applied directly via online means, e.g. Drift and PQL handraises. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -133,11 +133,11 @@ White Paper or other content offer.
 | Requested Support | Took a handraise action to request support from the GitLab team ||
 | Requested Contact | Filled out Contact, Professional Services, Demo or Pricing Request | Yes |
 
-#### Inbound Request
+#### Inbound Request 
 
 Any type of inbound request that requires follow up.
 
-**Bizible:** This is tracked as an _online_ channel with the exception of Linkedin LeadGen campaigns which are tracked as an offline activity.
+**Bizible:** This is tracked as an _online_ channel.  
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -157,8 +157,6 @@ This is used for non-traditional list uploads in which we are looking to a) avoi
 | Registered | Registered (presumably did not attend) |  |
 | Attended | Attended live event |  Yes |
 | Attended Virtually | Attended an event virtually. Attendance can be live or post-event | Yes |
-
-
 
 #### Owned Event
 
@@ -183,8 +181,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### Pail Social
 
-This program is designated to house leads and programs brought in by social related campaigns, e.g. Linkedin campaigns.
-
+**Bizible:** This program is designated to house leads and programs brought in by social related campaigns (e.g. Linkedin campaigns) and is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -195,7 +192,7 @@ This program is designated to house leads and programs brought in by social rela
 
 This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
 
-**Bizible:** This is tracked as an _offline_ channel 
+**Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -221,7 +218,7 @@ This program type is specific to non-event related list uploads, such as partner
 
 This is a light weight virtual event that can be hosted on GitLabber's personal zoom.
 
-**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel
+**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -238,7 +235,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 
 This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements.
 
-**Bizible:** This is tracked as an _offline_ channel.
+**Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -255,7 +252,7 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 
 This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for GitLab hosted On-Demand and non-GitLab hosted On-demand webcasts. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
-**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel
+**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -271,7 +268,7 @@ This is webcast hosted on an external partner/vendor platform. The status of `At
 
 A survey that we or a 3rd party sends out. Tracks respondents and new leads we receive. 
 
-**Bizible:** This is tracked as an _offline_ Bizible channel.
+**Bizible:** This is tracked as an _offline_ Bizible channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -296,7 +293,7 @@ Track cohort of Trials for each product line (Self-managed or SaaS) to see their
 
 Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
-**Bizible:** This is tracked as an _offline_ Bizible channel.
+**Bizible:** This is tracked as an _offline_ Bizible channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -313,7 +310,6 @@ Any webcast that is hosted and held by GitLab. There are a few different groups 
 - [Field Marketing webcasts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
 - [Partner webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
 - [On24 webcasts](/handbook/marketing/marketing-operations/on24)
-
 
 **Bizible:** This is tracked as an _online_ Bizible channel.
 
@@ -334,7 +330,7 @@ Any webcast that is hosted and held by GitLab. There are a few different groups 
 An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.
 
 For logistical setup and more information, go [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
-**Bizible:** This is tracked as an _offline_ Bizible channel.
+**Bizible:** This is tracked as an _offline_ Bizible channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -363,7 +359,7 @@ For all other campaign types, follows steps below. All steps are required.
 
 For some tactics, there are mutiple campaigns that occur as a part of a single initiative. Some examples of these could be a conference with speaking session, direct mail, content syndication, or hybrid events (where in-person and virtual leads will be tracked separately). When this happens, a `parent` campaign should be created in SFDC and have each `child` campaign represent the individual tactics. The parent SFDC campaign should not include any members, or include bizible touchpoints. Additionaly, if you are an Allocadia user, you will not include a sub-category ID in Marketo when syncing to SFDC and creating the new parent campaign. Since we do not have the same parent/child relationship structure available in Marketo, you will create a folder that will house all of the shared tactics together. 
 
-To assocate a child SFDC campaign to a parent SFDC campaign, go into what will be the child SFDC campaign and at the top of the campaign, click `Edit`. This will open the SFDC fields and then you can add the parent SFDC campaign name into the `Parent` field. Click `Save`. 
+To assocate a child SFDC campaign to a parent SFDC campaign, go into what will be the child SFDC campaign and at the top of the campaign, click `Edit`. This will open the SFDC fields and then you can add the parent SFDC campaign name into the `Parent` field. Click `Save`.
 
 An example of a folder setup in Marketo is:
 - Conference Name (Folder)
@@ -374,6 +370,8 @@ An example of a folder setup in Marketo is:
 
 ## Important Notes
 1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
+1. If you are creating a parent campaign, please make sure that the campaign name of a parent campaign reflects the fact that it's a parent, by adding `_Parent` at the end of the Campaign Name. In the event of a mishap, when a parent campaign was setup by mistake to house responded campaign members,  adding `_Parent` at the end of the campaign name, makes sure that it gets seen by our campaign sync rules that [control the generation of touchpoints for offline campaigns](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and does not create double touchpoints for campaign members that may be housed in both the parent and child campaigns. 
+1. If you are creating a campaign that relies on offline touchpoint generation, please make sure to double check that the campaign type is selected appropriately and that the campaign name does not contain words like `test`, `DONTUSE`, `template`, `parent`, because based on the [campaign sync rules that govern the creation of offline touchpoints](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564), these campaigns will not have touchpoints created for them. 
 1. We have a trigger in SFDC that stamps the start date, end date, reporting date, and fiscal quarter by taking the first 8 characters of the name of the campaign (if they are numbers) and converting that into a date (example: 20210505 == 5/5/2021, so YYYYMMDD). So, campaigns starting with a number must contain a valid date, otherwise you will receive an error.
 1. Campaign statuses other than `Aborted` are automatically set by SFDC workflow based on Start and End Dates.
 
@@ -528,7 +526,6 @@ All programs have different necessities so it will be important to determine how
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Confirm that start date and end date populated correctly (this is automated).
     - Update the `Is this an in person event` dropdown, based on `in-person` vs `virtual` type
     - Update the event epic
@@ -555,7 +552,6 @@ Using an integration from Allocadia > Marketo, Marketo > SFDC, the information y
 * [Sync Results Video](https://youtu.be/PocOPnJY4w0)
 
 Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - `Budgeted Cost` in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly. **Please Note:** `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign. If cost is $0 list `$1` in the `Budgeted Cost` field. There needs to be at least a $1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 
 ### Waitlist processing - Owned Event, Workshop, Webcasts
@@ -603,7 +599,6 @@ Once you click `Registered`, the status will change and the `01c Waitlist to Reg
 - `02 Add as Marketing Invited` should only be used if XDRs are planning to follow up and drive attendance to the event. This should be scheduled AFTER the first email invite is scheduled to send. It will update everyone who had the email invite sent to them as `Marketing Invited`. They will be updated in the campaign and visible in SFDC. **Do not use this unless there is planned event drivers**
 - `03 Interesting Moments` should be turned on before any lists are uploaded.
 
-
 ### Step 4a. Meeting Request Processing
 These steps are not yet configured. If you are planning to do this for your next event, please create an issue with the Marketing Operations team.
 
@@ -620,7 +615,6 @@ These steps are not yet configured. If you are planning to do this for your next
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -680,7 +674,6 @@ These steps are not yet configured. If you are planning to do this for your next
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -733,7 +726,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -763,7 +755,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
 - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-- Confirm the `Enable Bizible Touchpoints` is set to `Include only "Responded" Campaign Members`
 - Update the event epic
 - Update the description
 - Update `Start Date` to the date of launch
@@ -852,7 +843,6 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Change the `Campaign Owner` to your name
     - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch

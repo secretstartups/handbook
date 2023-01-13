@@ -34,8 +34,6 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
-`Vartopia Partner Account` is a lookup field based on the `Account ID (18)` in Salesforce.
-
 Once synced sucessfully between systems, the `Vartopia Transaction Id` in SFDC will update from Vartopia. If this ID is missing, the lead did not sync correctly. Make sure that the fields above are correctly populated, and if they are not, reach out to Vartopia support.
 
 When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it. The `Vartopia Prospect Id` (ex. L-555555) is a unique lead number identified populated by SFDC that shows in Vartopia and SFDC. We can use this as a non-PII identifier in both systems.
@@ -45,12 +43,16 @@ Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions w
 #### Vartopia Access
 The account in SFDC must be set to `Vartopia Partner Account: Vartopia Access = Yes` in order to be passed leads. If that field is marked false, a SFDC error will occur when `Vartopia Partner Account` tries to be set. If this error occurs, the lead will not sync from marketo to SFDC, or if they are already existing in SFDC, that field will not be populated.
 
-### Field Definitions
+### SFDC Lead/Contact Page Layout
+
+To retrieve information on a specific lead or contact, you can review the `Partner Lead Sharing Information` in Salesforce where the `Vartopia Partner Account`, `Prospect Share Status`, `Partner Prospect Status` and more can be found.
+
+### Field Glossary
 
 #### SFDC Partner Prospect Admin 
 This SFDC field in the partner account MUST be filled in or else the records will be passed to no one. 
 
-#### Prospect Share Status Definitions 
+#### Prospect Share Status 
 When a prospect is ready to be shared with a partner there are 2 fields related to the sharing process. 
 
 The `Prospect Share Status` governs the sharing of the lead and the receipt of the lead by the partner. The prospect share status has statuses that are set by both the manufacturer and the partner.
@@ -65,7 +67,7 @@ a. *Note: rejecting a prospect immediately removes the prospect from the reselle
 1. **Recall**: Indicates the prospect is being recalled by the MFG. This is set by the MFG in SFDC. When the system syncs this will remove the prospect from the resellers view. It will also clear out the assignment fields and sync ID making the prospect ready to be shared with a different reseller. 
 a. *Note: There is no alert or notification to a reseller when a prospect is recalled.
 
-#### Partner Prospect Status Definitions 
+#### Partner Prospect Status
 
 The `Partner Prospect Status` is updated by the partner and identifies the status of the lead as the partner works it though the sales process.
 
@@ -75,6 +77,18 @@ It is visible to both the MFG and the reseller. The prospect remains in qualifyi
 1. **Qualified**: Indicates the reseller has engaged the prospect and determined there is a valid opportunity. The status is automatically updated in SFDC.
 1. **Disqualified**: Indicates the reseller has determined the prospect is not a valid opportunity. The status is automatically updated in SFDC.
 1. **Converted to DR**: Indicates the reseller has converted the prospect to a deal. 
+
+#### Vartopia Partner Account
+
+`Vartopia Partner Account` is a lookup field based on the Account ID (18) in Salesforce. This field shows the partner account in which the lead is associated with via Vartopia. 
+
+#### Vartopia Timestamps
+
+1. [Vartopia] Created Date - this field is used to collect a time and date the partner lead is created in Vartopia. This is when `Prospect Share Status` = `Pending`. 
+2. [Vartopia] Accepted Date - this field is used to collect a time and date the partner lead is accepted in Vartopia. This is when `Prospect Share Status` = `Accepted`.
+3. [Vartopia] Recall Date - this field is used to collect a time and date the partner lead is recalled in Vartopia. This is when `Prospect Share Status` = `Recall`.
+
+**Note: The timestamps were introduced on December 15, 2022. Any status updated prior to December 15, 2022 will not have a timestamp.**
 
 ### Scheduled Reports
 
