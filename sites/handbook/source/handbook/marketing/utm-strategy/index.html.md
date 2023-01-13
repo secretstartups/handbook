@@ -19,7 +19,7 @@ The purpose of this handbook page is to outline how our UTM strategy drives insi
 
 For a quick overview of UTMs, take a look a look at [this Youtube video](https://youtu.be/GrUGZBaUtVo)
 
-Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#mktg-strat-perf](hhttps://gitlab.slack.com/archives/C01HTAYQBM5) slack channel.
+Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) slack channel.
 
 ## UTMs and Sisense dashboards
 {: #utms-sisense .gitlab-purple}
@@ -152,7 +152,7 @@ Values (available as picklist in the UTM builder googlesheet):
 Values available as an open picklist in the UTM builder googlesheet.
 
 #### utm_partnerid
-This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids).
+This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id).
 
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
