@@ -58,6 +58,12 @@ experience related to managing subscriptions. We achieve this by:
 - reporting and fixing bugs
 - meeting our Service Level Objectives to external and internal customers
 
+## Regional L&R Teams
+
+- AMER Team [Page](amer-region.html)
+- APAC Team Page
+- EMEA Team Page
+
 ---
 
 ## Information for Support Engineers with L&R responsibilities
