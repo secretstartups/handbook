@@ -48,53 +48,52 @@ Under development in MR: [www-gitlab-com!117168](https://gitlab.com/gitlab-com/w
 
 ## Types of calls
 
-Under development in MR: [www-gitlab-com!117223](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117223/diffs)
+Feel free to adjust the length, timing and agenda of your calls to suit the needs of the ticket and customer. The following are examples of call types that Support Engineers have found useful in the past. 
+
+To the extent you can, try not to exceed the length of call you've arranged with the customer as this can set up unrealistic expectations for future Support Engineers working with the customer. If you feel that you're close to a resolution or need more time to collect info always pause and verify with the customer that they have the time to continue and note how much time you have left to continue.
 
 ### Discovery calls
+#### Purpose
+{:.no_toc}
 
-Sometimes a one hour call doesn't seem like the best step to take forward, and
-may not be the best use of our time. This is where the Discovery Call comes in.
+A Discovery call is a short call with the sole purpose of learning
+enough to start troubleshooting asynchronously again.
 
-A Discovery call is a short 15 minute call with the sole purpose of learning
-enough to start troubleshooting asynchronously again. These calls are also
-great at helping ease a customer who is getting frustrated not being able to
-_show_ us the problem.
+#### Duration
+{:.no_toc}
 
-If you feel that you're close to a resolution or need more time to collect info,
-then it's at your discretion to continue the call or not.
+15-30 minutes
 
-Create a Calendly event in your account labeled `Support - Discovery Call with <your name>`
-and send a one-time link to this event when you find that a Discovery call
-would be useful.
+### Troubleshooting calls
+#### Purpose
+{:.no_toc}
+
+A Troubleshooting call is a longer call where you'll work real-time with the customer to guide them through a series of troubleshooting steps you've crafted to gather additional information or make progress towards resolution of the issue.
+
+#### Duration
+{:.no_toc}
+
+30-60 minutes
+
+### Reset & Review calls
+#### Purpose
+{:.no_toc}
+
+A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](/handbook/customer-success/csm/escalations/).
+
+#### Duration
+{:.no_toc}
+15-30 minutes
 
 ### Upgrade Assistance
+#### Purpose
+{:.no_toc}
 
 Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
 
-
-### Unscheduled calls
-
-While working with customers you should always be prepared to host a quick call
-with them. It's easier to get all the information you might need on a short (5 -
-20 minutes) call than in a long series of back-and-forth emails. If anything
-similar to the following situations is true, suggest a Zoom call:
-
-*  the initial problem statement is very unclear
-*  you aren't getting what you need from the customer after one or two email
-   requests
-*  you aren't making good progress toward resolution
-*  you sense the customer is getting frustrated or upset
-
-If you feel too inexperienced to handle a call, ask someone more experienced to
-lead it while you shadow. After shadowing, it is still your responsibility
-to handle the ticket as long as it is assigned to you.
-
-If the problem is urgent you can simply send the customer a Zoom link and jump on immediately. For less urgent
-calls, you may send the customer a Calendly link so that they can schedule a convenient time in their time zone.
-The link you send may be a link to your personal calendar or to the Team Calendly event, depending on the circumstances,
-but in every case you should send a
-[single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link),
-to ensure proper processes are followed for scheduling calls.
+#### Duration
+{:.no_toc}
+30 minutes
 
 ## Taking Calls
 
