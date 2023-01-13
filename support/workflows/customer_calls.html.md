@@ -98,8 +98,6 @@ to ensure proper processes are followed for scheduling calls.
 
 ## Taking Calls
 
-Under development in MR: [www-gitlab-com!117169](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117169/diffs)
-
 ### Scheduling the call
 
 When you know a ticket is ready for a call, start by determining who will lead
@@ -139,6 +137,26 @@ When sending a customer a call link:
 * If you know your availability is limited, or you need additional backup,
   check with another SE to see if they might also be available to take the call.
 
+### Removing the need for a call before it even starts
+
+It's important to remember that customers also don't want to waste time on calls. The primary reason most customers _want_ a call is because they believe it's the best use of time for them in making progress towards the resolution of their issue. In the interval between offering a call and hosting the call you have an opportunity to deflect the need for the call completely. **It's prudent to shift into a more rapid response mode as you center in towards a call.**
+
+Having a customer engaged in forming the agenda for the call will help you do research and be well prepared. Ask the customer for (or prepare your own set of) questions that will need to be answered during the call. Once you have a list, (to the extent that time allows) answer them prior to the call within the ticket or provide instructions for how the customer can answer them for you.
+
+For each item on your call agenda, seek to find a way to shift towards an async workflow to complete it prior to the call. For example, if the customer wants a call to demonstrate an issue: ask them to record their screen while reproducing the issue and tailing logs, then and attaching the recording and relevant logs.
+
+This will (potentially):
+- let you more deeply engage the customer in troubleshooting asynchronously
+- allow you to cancel the call completely
+- give you breathing room in the call to point to previously documented answers within the ticket
+
+Remember: you don't have to solve everything while you're on the call. It is okay to schedule a follow-up if you hit time or knoledge constraints. Here are some phrases that could be helpful in moving _back_ to async:
+
+1. _I'll need to do some additional research on that and follow-up with you in the ticket._
+1. _To the best of my knowledge, the answer is X - but let me confer with a subject matter expert and get back to you._
+1. _At this juncture we've made some good progress, but there are some outstanding questions that need follow-up. Let's move back to the ticket, and once I've got a bit more information I'll send that along._
+1. _Homework on my side is: X, on your side: Y. Let's move async for now and schedule a follow-up for later this week._
+
 ### Pre-call email
 
 Please consider sending a pre-call email. This helps set expectations to the call regarding goals, duration, and
@@ -161,6 +179,11 @@ for that, please modify it as you see fit.
    1. Next steps for GitLab Support Engineer
    1. Next steps for user
    1. Next call recommendations (timing/goals/expectations)
+
+Example:
+
+> Today we're going to be looking at the configuration of your object storage for attachements. In the ticket you were able to provide the `values.yaml` for the deployment and we were able to capture some errors for viewing attachments. We were also able to verify that attachments were correctly being stored in S3. We haven't been able to verify if the IAM roles you're using have appropriate permissions to retrieve objects. We're going to spend 30 min. today running through a few scenarios that I've detailed in the ticket.
+
 
 ## Tips for making calls successful
 
