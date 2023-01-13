@@ -245,3 +245,4 @@ Next steps for you:
 - [Sales handbook](/handbook/sales/)
 - [Support handbook](/handbook/support/)
 - [Workshops and Lunch-and-Learn slides](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2)
+- [Researching Customer Questions](/handbook/customer-success/csm/researching-customer-questions/)
