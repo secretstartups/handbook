@@ -31,13 +31,19 @@ Then consider these options to help unblock you. And remember that
 [escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock)
 is an operating principle of Results.
 
-1. Ask in [your group's Slack channel](/handbook/support/support-global-groups/#slack) for help. You might get all the help you
+#### Ask in your SGG
+
+Ask in [your group's Slack channel](/handbook/support/support-global-groups/#slack) for help. You might get all the help you
    need in responses right there, or you might open up the group's Zoom room
    for an impromptu pairing session to work on the ticket. And remember:
    1. Be sure to provide a link to the ticket
    1. Be specific about the help you need
       - For example: "Kubernetes Runner help needed: user is running into X
         error, logs are saying Y, and we've tried Z. What else could it be?"
+
+#### Expand to Support Pods and other subject matter experts
+
+1. See if there is a [Support Pod](/handbook/support/workflows/working-with-pods.html) that covers the area your ticket is in and ask one of the Pod members for help.
 2. Ask for help in one of the broader
    [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
    In addition to the Slack reminders above, also:
@@ -56,19 +62,28 @@ is an operating principle of Results.
      counterpart(s) that are listed under the
      [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group)
      section.
-4. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
+4. [Formally request help from the relevant GitLab Development Team](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team)
+
+#### Bring the ticket before a group of peers
+
+1. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
     - AMER Senior SE Help Sessions
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
-5. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
+2. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
-6. If you're struggling to get help, reach out to your manager, the manager
-   on-call, or any available manager. They will help you to determine next steps.
-   Please know that there will always be somebody who can help, even if you're
-   having a hard time finding them. Please do not let this deter you from
-   asking for help any time you need it.
+
+#### Bring the ticket to managers
+
+1. Always feel free to reach out to your manager or any available manager. They will help you to determine next steps.
+1. [Open a STAR](/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket) in situations where getting help is urgent and important because:
+   - the customer has expressed unhappiness with the service we're delivering via the ticket
+   - the support engineer has noticed a correlation between several of a customers tickets that could use a more cohesive response
+   - there is an urgent need for action in a different region (for example, finding a ticket owner or scheduling a call)
+
+Avoid messages with no identified DRI for responding in `#spt_managers` as they can be missed or be a victim to bystander effect.
 
 ### How to Use GitLab.com to Formally Request Help from the GitLab Development Team
 
