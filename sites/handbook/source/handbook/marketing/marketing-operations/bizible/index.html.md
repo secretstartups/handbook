@@ -37,7 +37,7 @@ The touchpoint generation process answers the question, “How is AMM going to k
 | Type of Interaction                 | Example                                                                                       | Touchpoint Generation Method                                                                                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Online, on your site(s)             | Form fill                                                                                     | AMM JavaScript                                                                                                                                                |
-| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership synced to AMM, by setting the Campaign Sync Type directly in the campaign or by setting rules on the Campaigns page in AMM. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
+| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership by adjusting the Enable Bizible Touchpoint setting directly on the campaign or by setting up campaign sync rules in the admin area in AMM. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
 | Sales activity                      | Outbound call by SDR                                                                          | CRM Activity (Task or Event) record synced to AMM, through logic on the Activities page in AMM                                                            |
 
 #### Touchpoint Mapping Methods
@@ -78,9 +78,15 @@ Online channels are any channels that would be directly associated with your web
 Buyer touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
 
 #### Offline
-Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and they person took an action, they are offline touchpoints.
+Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and the person took an action, they are offline buyer touchpoints.
 
-Buyer touchpoints are created by dispositioning `Enable Bizible Touchpoints` field on the Salesforce Campaign as `Include only "Responded" Campaign Members` for these offline channels.
+Offline buyer touchpoints are created either by: 
+1. Adjusting the `Enable Bizible Touchpoints` field on the Salesforce Campaign object to either `Include only "Responded" Campaign Members` or `Include All Campaign Members` 
+2. Through campaign sync rules, which generate TPs for based on well defined criteria. To learn how these rules work please see this [Custom Campaign Sync Adobe Marketo Measure documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/channel-tracking-and-setup/offline-channels/custom-campaign-sync.html?lang=en). 
+
+At Gitlab, as of Jan 2023, we are creating these offline touchpoints through the campaign sync rule approach, as this results in increased automation when it comes to the offline touchpoint creation and less manual setup needed. 
+
+The current campaign sync rules in place can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and are based mostly on values found in field like `Campaign Type`, `Campaign Member Status`, `Campaign Name`, `Campaign Member Created Date`. As long as the SFDC campaign is created correctly, has the correct naming and campaign type, the AMM touchpoints will be created automatically.  
 
 [See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/#campaign-type--progression-status)
 

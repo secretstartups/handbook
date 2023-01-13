@@ -37,7 +37,7 @@ The SLA for each import method has been decided based on the perceived optimal r
 
 #### Import Cleaning Template - Info for Pre-MktgOps Hand-off
 
-- Please utilize the [Google Sheet](https://docs.google.com/spreadsheets/d/143REaMQLyIy7to-CFktL45TTTLZxBQRJUDIOMCA3CVo/edit#gid=257616838) included in the `event list upload` and `general list upload` issue templates. This spreadsheet template allows for quick edits and faster data checks, such as:
+- Please utilize the Google Sheet included in the [event list upload](https://docs.google.com/spreadsheets/d/143REaMQLyIy7to-CFktL45TTTLZxBQRJUDIOMCA3CVo/edit#gid=257616838) and [general list upload](https://docs.google.com/spreadsheets/d/1dzFqwjoBat8sna0uZu9RSVTsPvAZnJ4Xx4GkZllAUD0/edit#gid=1770876869) issue templates. This spreadsheet template allows for quick edits and faster data checks, such as:
      - Capitalizing `First name` and `Last name`
      - Highlighting `last names` that appear more than once in green for faster duplicate detection
      - Highlighting duplicate emails and GitLab emails in red
