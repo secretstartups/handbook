@@ -192,8 +192,6 @@ will only be able to act appropriately if they have the call summary available.
 
 ## Special Handling
 
-Under development in MR: [www-gitlab-com!117226](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117226/diffs)
-
 ### WebEx
 
 For some customers, only Cisco systems are allowed and in those cases, WebEx will be the best tool for calls. To start a call/session, use the `GitLab Support` WebEx account. Go to our [WebEx Portal](https://gitlabmeetings.webex.com), click on the login button on the top right and use the credentials found in the Support Vault on 1Password.
