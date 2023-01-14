@@ -219,8 +219,10 @@ The CEO's Quarterly Kickoff Slides usually cover:
 - Recap of GitLab’s [Mission](/company/mission/)/[Vision](/company/vision/)/[Strategy](/company/strategy/) noting any updates made
 - Reviewing which [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) were retired and added and why
 - Review the previous quarters OKRs, scores, and important details
+- Progress for [Yearlies](/company/yearlies/)
 - Sharing of this new quarters OKRs
 - Marathon Slide (as needed)
+- Reiterate how all elements of [cadence fit together](/company/yearlies/) including any new or changed elements of hierarchy such as new OKRs. 
 
 ### Timeline for the Quarterly Kickoff
 
