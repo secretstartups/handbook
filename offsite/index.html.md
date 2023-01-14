@@ -179,6 +179,7 @@ In addition to the topics from the [Topic Calendar](https://about.gitlab.com/com
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
 1. [E-Group OKR Draft Review meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting) (50 minutes)
+1. Review [**Yearlies**](/company/yearlies/#cadence) (25 minutes) 
 
 ### Pre-offsite discussion topics
 
