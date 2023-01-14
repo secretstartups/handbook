@@ -36,10 +36,9 @@ Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimension
     1. Global versus territorial, kingdom building 
 1. Mindset
     1. Abundance
-    1. Non-zero sum
+    1. Positive sum position instead of zero sum
     1. Open-minded
     1. Looking for creative win-win solutions
-    1. Positive sum position instead of zero sum
 1. Familiarity
     1. Knowing the person better
     1. Listening (actively)
