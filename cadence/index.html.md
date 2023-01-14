@@ -26,6 +26,55 @@ Below are the cadences we have at GitLab:
 1. Week (5 workdays)
 1. Day
 
+Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
+
+### Cadence Hierarchy
+
+How elements of our cadence fit together.
+
+1. [Mission](/company/mission) is the 30 year purpose of the company and answers "why" GitLab exists. Our mission is to make it so that **everyone can contribute**.
+1. [Vision](/company/vision) defines the destination for our product, company, and market and answers "where" GitLab is heading in order to make progress towards our mission. Our current vision is to become the **AllOps** solution - a single application for all innovation and transformation. 
+1. [Strategy](/company/strategy/) answers "what" we will accomplish to make progress towards our vision and mission. Strategy is composed of "strategic pillars" that are high level goals we plan to achieve over the next 3 years. Strategic pillars contain the big themes of work we will pursue to accomplish our strategy. Our current strategy is to be the leading, complete DevSecOps Platform and our three strategic pillars for accomplishing this strategy are Customer Results, Mature the Platform, and Grow Careers.
+1. [Yearlies](/company/yearlies/) are annual goals to make progress for three year strategy by breaking strategic pillars into aspirational milestones. Our current Yearlies can be summarized as 
+        1. Improve customers results through ultimate enablement, increasing sales efficiency, and increasing user awareness.
+        1. Mature the Platform by closing BIC gap, GitLab Dedicated GA, and scaling GitLab.com
+        1. Career Building Platform through a faster pace, increasing team member diversity, and enabling People Managers through Elevate.
+1. [OKRs](/company/okrs) are composed of Objectives and Key Results that we use to improve something in a given quarter beyond maintaining the status quo. Objectives are what we are focusing on accomplishing in a quarter, and Key Results measure progress for an Objective over the same quarter. 
+1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) are some of the activities that we undertake to achieve Yearlies and/or OKRs. Yearlies and OKRs define outcomes and not activity required to achieve those outcomes.     
+1. [Key Performance Indicators (KPIs)](/company/kpis/) are measures of performance for important things we do as a company all the time (Business as Usual). KPIs are not OKRs because OKRs do not deal with business as usual, but KPIs can be elevated to OKRs if a KPI has slipped far enough to become a priority to improve in a given quarter.
+
+[Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
+
+```mermaid
+flowchart TD
+    subgraph 30 years
+        A([Mission])
+    end
+    subgraph 10YR[10 Years]
+        B([Vision])
+    end   
+    subgraph 3YR[3 Years]
+        D([3-year company strategy]) 
+    end    
+    subgraph 1YR[Year]
+        direction LR
+        F([Yearlies]) -- inform --> G([Annual Plan])
+        H([Top Cross-Functional Initiatives])
+    end
+    subgraph QTR[Quarter]
+        J([OKRs]) 
+    end
+    subgraph MO[Month]
+        K([KPIs]) 
+    end
+    
+    A --->|informs| B
+    B ---->|informs| D
+    D ---->|informs| F & J
+    J <-->|elevate to| K
+   
+```    
+
 ## Mission
 
 **30 years**
@@ -170,8 +219,3 @@ gantt
     360s                            :2021-Q2, 30d
     Engagement Survey(estimated)    :2021-10-26, 14d
 ```
-
-
-
-
-
