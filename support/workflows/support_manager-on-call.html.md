@@ -43,6 +43,24 @@ At times, an emergency page may come in for a situation that is not quite yet an
 
 See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
 
+### FY23Q4-FY24Q1 Trial - Paging backup engineers on weekends in APAC
+
+During FY23Q4-FY24Q1, the APAC region will be trialling a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs. 
+
+If you are the Support Manager on-call and a concurrent emergency occurs, you will be paged by the Support Engineer On-call escalated via Pagerduty. You will then be responsible for checking the current situation and determining if the **backup engineers** need to be paged. If so, the Support Manager will then **manually page** the **backup engineers**. At this point, the backup engineers are all pinged. Only one backup engineer needs to acknowledge the page and lend assistance, and there is no expectation that **backup engineers** will be available to respond to a page.
+
+To page the backup pool, you can: 
+1. Use the `/pd trigger` command in any Slack channel to create a new incident to notify the current list of support engineers; or 
+2. Create a `+ New Incident` directly in PagerDuty. 
+
+When prompted, update: 
+* **Impacted Service:** Customer Emergencies - APAC Backup Pool 
+* **Title:** Duplicate emergency - ZD#123456
+* **Description:** Provide a brief summary of the emergency. 
+* _Leave Assign To: and Priority: blank._
+
+_For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583)._
+
 ## Handling Support Ticket Attention Requests during business hours
 
 STARs ([Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html)) are handled by the Support Manager on-call.

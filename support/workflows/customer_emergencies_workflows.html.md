@@ -108,6 +108,26 @@ In rare cases, the on-call engineer may experience concurrent emergencies trigge
 1. **Support Manager**: In Slack, ping the regional support group (_e.g._ `@support-team-americas`) and request assistance from anyone who is available to assist with the new incoming emergency case.
 1. **Second Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
+#### FY23Q4-FY24Q1 Trial - Backup engineers on weekends in APAC
+{:.no_toc}
+
+[(RFC) Dealing with concurrent emergencies over the weekend in APAC STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583) observed an increase of concurrent emergencies over the weekend period. In APAC, the team will trial a pool of Support Engineers volunteering as **backup engineers**. This pool is independent of the existing escalation policies in Pagerduty, as outlined:
+
+```
+Pool 1: On call engineer -> Support Manager on call -> Directors
+Pool 2: Backup engineers
+```
+
+_For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583)._
+
+##### Escalate to initiate page to backup engineers 
+
+During FY23Q4-FY24Q1 in APAC, in the event that a concurrent emergency comes through while you are still working on the current emergency:
+
+1. **You**: **Escalate** the page, instead of acknowledging/resolving it. The Support Manager is responsible for finding an engineer to own the new emergency page.
+1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call.html) to request assistance from backup engineers if the situation calls for it.
+1. **Backup Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
+
 ### Situations that Might or Might not Be Emergencies
 
 At times, an emergency page may come in for a situation that is not quite yet an emergency, but may quickly become one. In this situation, we want to assist the customer in preventing the situation from becoming an emergency. 
