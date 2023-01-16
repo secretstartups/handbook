@@ -114,11 +114,12 @@ Once we know the risk and done some discovery into that risk, we have some optio
 - Try to engage with the Economic Buyer and let them know of the lack of adoption (through a DevSecOps Maturity Score presentation) and your concerns
    - Encourage them to implement a top-down mandate to use more GitLab Secure
 - Track adoption progress during cadence calls by presenting updated DevSecOps Maturity Scores and trend patterns
+
 ### Lack of engagement/Loss of champion
 - For lack of engagement, please see our [Strategies for Non-Engaged Customers](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) handbook page.
-- For a loss of champion, this will require more legwork from the CSM and SAL.
+- For a loss of champion, the CSM and their sales counterpart are to proactively seek out and establish new champions
    - Identify who's replacing your champion and cultivate that relationship.
    - Find someone who loves GitLab and include them in future calls (if they aren't already).
-   - Don't be afraid to leverage our executive contacts to reach out to the customer at the highest levels.
+   - CSMs should be quick to loop in GitLab executive contacts to reach out to the customer at the highest levels.
    - Even if a champion leaves, there's still going to be someone in a position of authority who can advocate for us. Find that person.
 
