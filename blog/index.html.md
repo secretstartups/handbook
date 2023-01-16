@@ -33,7 +33,7 @@ Traffic from posts: Ideally every post we publish should support our goal of dri
 {:toc .hidden-md .hidden-lg}
 
 ## Other related pages
-- [Process for making an announcement](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements)
+- [Process for making an announcement](/handbook/marketing/corporate-communications/#requests-for-external-announcements)
 - [Blog dashboard](/handbook/marketing/blog/blog-metrics/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
@@ -61,7 +61,7 @@ If your post is time-sensitive, please ping @sgittlen on Slack. Otherwise the ed
 
 First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue.
 
-If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
+If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-communications/#requests-for-external-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
 
 ### Disclosure process for posts concerning third parties
 
@@ -85,7 +85,7 @@ We should not proceed to publish the blog post until the partner manager has rec
 
 ### Joint announcements
 
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping @sgittlen.
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping @sgittlen.
 
 ### Guest posts by GitLab partners
 
@@ -247,7 +247,7 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 
 If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). But, without at least a Twitter image it will be difficult for the social team to promote your post. Please **do** include a Twitter image in the frontmatter: `twitter_image: "/images/blogimages/file-name.png"` even if it's just a generic Tanuki. 
 
-For more information on this, please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
+For more information on this, please see the [Social Marketing handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
 
 #### Featured
 
@@ -951,7 +951,7 @@ It often helps to look at the file of [another recent blog post that is already 
 
 Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels.
 
-You should promote your content too! Please see the Social Marketing handbook for [Team Member Social Media Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/).
+You should promote your content too! Please see the Social Marketing handbook for [Team Member Social Media Advocacy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/).
 
 You can also view the below [How to Make Your Content Work Harder for You](https://docs.google.com/presentation/d/1RPSkAWtXtWfbuoHD9D1iSdt5o1d7a4MA5QPGjGeFFXM/edit?usp=sharing) training from Corporate Communications:
 <!-- blank line -->
