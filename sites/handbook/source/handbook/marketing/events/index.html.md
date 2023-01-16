@@ -206,15 +206,15 @@ cc @jburton to create list upload issue and DMA request as required
    - Post Event Email copy - **1 to 2 weeks** in advance of event
 1. Social
    - Start issue using the `Social Request` template for general social awareness posts and any social ads that need to be created.
-   - For complete instructions on how to obtain social support at your event, please review the [social requests instructions](/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-).
+   - For complete instructions on how to obtain social support at your event, please review the [social requests instructions](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/).
 1. PR
-   - Start issue using the [announcement template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) in the Corporate Marketing project for any company, partner or product news that is expected to be announced/timed around  the event. More details on the Request for External Announcements process can be found in the Corporate Communications handbook [here](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements).
+   - Start issue using the [announcement template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) in the Corporate Marketing project for any company, partner or product news that is expected to be announced/timed around  the event. More details on the Request for External Announcements process can be found in the Corporate Communications handbook [here](https://about.gitlab.com/handbook/marketing/corporate-communications/#requests-for-external-announcements).
 1. Design
    1. For the latest approved booth design & messaging, email `events@gitlab.com`.
    1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
    1. For any content or major layout changes, tag Product and Solution Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
 1. Digital
-   - Coordinate all digital marketing requests with the digital marketing team. See [Requesting Digital Marketing Promotions](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#how-do-we-get-there) for more info.
+   - Coordinate all digital marketing requests with the digital marketing team. See [Requesting Digital Marketing Promotions](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#how-do-we-get-there) for more info.
 1. For Corporate events - Meeting Setting
    1. All leads gathered through meeting setting must be tracked in their own campaign which will be set up by our Marketo agency and associated to the main event campaign.
    1. We generally provide a small give (under \$50 USD or country equivalent) for anyone who takes a meeting with us.
