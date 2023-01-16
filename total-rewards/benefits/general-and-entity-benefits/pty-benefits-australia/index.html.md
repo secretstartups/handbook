@@ -312,9 +312,6 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 
 ##  GitLab PTY New Zealand Specific Benefits
 
-### Accounting Fee Reimbursement
-New Zealand team members are eligible for a one time reimbursement of up to $750 NZD for accounting or tax-related fees. The purpose of this reimbursement is to help our team members reconcile any accounting activities and tax returns from when they were independent contractors through GitLab BV or contracted through CXC. Since tax-related activities will be less complex after the transition to our team members' employment under the PTY LTD entity, this reimbursement benefit will only be valid until December 2021. To get reimbursed for this expense, please follow the [Expense Reimbursement process](/handbook/spending-company-money/#expense-policy).
-
 ### Annual Leave
 Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
 
