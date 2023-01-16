@@ -134,7 +134,7 @@ due to recent factors such as:
 
 After a manager determines the performance increase (in percentages), that manager should be able to clearly communicate to the team member how it was derived.
 
-Performance increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve. Justification is only required if the performance increase % is above guidelines, market adjustments do not factor into this.
+Performance increases are not capped at 8%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve. Justification is only required if the performance increase % is above guidelines, market adjustments do not factor into this.
 
 If a manager has a team member on their team who is red circled (paid over the top end of the compensation range), in order for the person to receive an increase, the manager will need to submit a compensation exception request with their People Business Partner to Total Rewards which will then be reviewed and approved by the Compensation Group. The Total Rewards team will notify the People Business Partners of the team members red-circled once the new ranges are set for proactive review.
 
