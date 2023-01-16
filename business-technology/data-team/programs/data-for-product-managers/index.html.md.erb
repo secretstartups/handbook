@@ -147,7 +147,7 @@ You can find details about those snippets on the [Product Manager Toolkit](/hand
     - With the JS library, we track a lot of front-end activity automatically (All page views, sessions, link clicks, some button clicks, etc.) We also utilize structured events to capture specific events with defined business logic.
 - We do not track `user_id` on any of the snowplow events, making all events functionally anonymous. This severely limits the utility of these events.
 - We have found the [Snowplow Inspector](https://chrome.google.com/webstore/detail/snowplow-inspector/maplkdomeamdlngconidoefjpogkmljm?hl=en) to be very useful in tracing and debugging events being sent through the browser.
-- We do not use snowplow on our self-managed instances, only on GitLab.com
+- Snowplow is not sending data from self-managed instances. If they deem it helpful, the instance administrator can [configure their own Snowplow endpoint](https://docs.gitlab.com/ee/development/snowplow/#enable-snowplow-tracking) for the events.
 
 **Examples**
   - [How many GitLab.com users visit the preferences page every day?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=7940849)
