@@ -73,7 +73,7 @@ Candidates will do their research in places far beyond our jobs site to find out
 
 We want to be sure we're telling an authentic story about life at GitLab, and one of the best ways to do that is through our team members.
 
-Once you've reviewed the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), you'll find a library of suggested posts to share using our social media advocacy platform, [Bambu by Sprout](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
+Once you've reviewed the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), you'll find a library of suggested posts to share using our social media advocacy platform, [Bambu by Sprout](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
 
 ## Being an advocate for our talent brand on social media
 
@@ -108,7 +108,7 @@ There are several important things to keep in mind when sharing your opinions ab
 
 #### On Twitter
 
-- Be sure to follow the [@gitlab Twitter account](https://twitter.com/gitlab) and reshare content our [social media team](/handbook/marketing/corporate-marketing/social-marketing/) is posting.
+- Be sure to follow the [@gitlab Twitter account](https://twitter.com/gitlab) and reshare content our [social media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
 - Consider tweeting some of the content ideas above, and tag the GitLab account for potential retweets.
 - Just like on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable in your tweets.
 - If you're sharing a job opening, here are a few suggestions you can consider sharing with the job link. Feel free to personalize these:
