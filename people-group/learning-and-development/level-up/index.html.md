@@ -30,9 +30,19 @@ Contributing to Level Up democratizes learning and enables our team members, cus
 1. Share learning pathways and other instructional design materials you've created
 1. Enable organizations to learn about GitLab using innovative learning methods
 
-To contribute to Level Up, please open an issue in the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `lxp_contribution` issue template. 
 
 **Stay Tuned:** Future iterations of contributions to Level Up will include elevated permissions for Learning evangelists to add new material directly to Level Up!
+
+## Learning Evangelist Training
+
+To contribute to Level Up, there are two things to do. 
+
+First, please open an issue in the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `lxp_contribution` issue template. 
+
+Then, please complete the Level Up [Learning Evangelist training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/learning-evangelist-training). This training course uses instructional videos to teach learners the basics of content creation in Level Up, and includes some best practice to think about when designing learning content and gathering materials. Once you have completed the training, the Learning and Development team will uplift your permissions in Level Up to give you access to course authoring tools.
+
+You can also use the [Learning Evangelist handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/course-author-training/) to review any of the content in the course, directly from the handbook.
+
 
 # Support
 
