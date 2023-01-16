@@ -150,18 +150,21 @@ We follow the [iteration process](/handbook/engineering/development/principles/#
 
 ### Estimation
 
-We estimate issues async following the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department. Our aim is to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone.
+We estimate issues async and aim to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone.
 
-All available Product Intelligence engineers should add estimation to the unweighted issues. A minimum of 3 estimations are required for weighting an issue. We consider reacting with a ➕ emoji to an estimation as agreeing with it (and thus contributing to the minimal count of estimations).
+We require a minimum of two estimations for weighing an issue. We consider reacting with a ➕ emoji to the estimation as agreeing with it (and thus contributing to the minimal count of estimations).
+If both estimations agree, the engineer who did the second estimation should add the agreed-upon weight to the issue. If there is disagreement, the second engineer should @-mention the first one to resolve the conflict.
 
-For `~frontend`issues Frontend Enginners should add estimations. For `~backend` isssues Backend Engineers should add estimations.
+In planning and estimation, we value [velocity over predictability](/handbook/engineering/development/principles/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over-optimizing. We aim for 70% predictability instead of 90%.
 
-We default spike issues to a weight of 8, according to [Growth estimation guide](/handbook/engineering/development/growth/#estimation).
+We default spike issues to a weight of 8.
 
-If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
+If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 
-* [gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
-* [gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+If an initial estimate needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be changed.
+
+* [Unweighed, upcoming issues in gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+* [Unweighed, upcoming issues in gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
 
 Issues estimation examples
 
@@ -180,7 +183,7 @@ Issues estimation examples
 The following is a guiding mental framework for engineers to consider when contributing to estimates on issues.
 
 ```
-### Refinement / Weighting
+### Refinement / Weighing
 
 **Ready for Development**: Yes/No
 
@@ -237,81 +240,53 @@ An OOO coverage process helps reduce the mental load of "remembering all the thi
 
 Open a new issue in the [Product Intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues/new?issuable_template=out_of_office_coverage_template) with the [`out_of_office_coverage_template`](https://gitlab.com/gitlab-org/product-intelligence/-/blob/master/.gitlab/issue_templates/out_of_office_coverage_template.md).
 
-
 ### Milestone Planning and Timeline
 
 Our team mostly follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
 
-The specific application of this timeline to the Product Intelligence Milestone planning process is summarized below and in this recorded overview [video](https://youtu.be/dcO-Qbd042E).
+The specific application of this timeline to the Product Intelligence Milestone planning process is summarized below. 
 
 #### Overview
 
 | Phase           | Time                     | 
 |-----------------|--------------------------|
-| Planning Phase  | Prior to 18th of Month N |
-| Breakdown Phase | 5 working days starting 18th |
-| Development Phase   | 23rd - 17th of Month N+1 |
+| Planning & Breakdown Phase  | 4th - 17th of month N|
+| Development Phase   | 18th of month N - 17th of month N+1 |
 
-#### 1. Planning Phase
+#### 1. Planning & Breakdown Phase:
 
-**Timeline**: Latest one week prior the start of the next milestone
+- **Timeline**: 4th - 17th of month N
 
-**Tasks**:
-1. PM: Milestone planning issue gets created.  
-  We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331864). 
-1. PM: Issues are added to the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence).  
-    Issues at this stage will have the `~"workflow::planning breakdown"` label.
-1. PM: orders the issue board by priority
-1. PM: shares the roadmap as part of our Product Intelligence Sync meetings as a separated recorded video
-1. Engineers: indicate reduced capacity by adding planned time off in the [Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1bqImTa34jTrEjFEfU8j4yHrzk29xyrWinTjgstYlrg4/) (internal link)
-
-**Definition of done**: Milestone issue is created and we have an estimated capacity.
-
-#### 2. Breakdown Phase
-
-This time will be used to:
-1. Review issue description for understanding and thoroughness
-1. Ask questions
-1. Async estimation
-1. Break issue into smaller parts 
-1. Create a first technical plan
-1. Add issue weight
-
-This Phase does not include time for complex technical proposals. They will be worked on in the "Development Phase" of the milestone.
-
-**Timeline**: 5 working days starting with 18th.
-
-**Tasks**:
-1. All: **[Team Retrospectives](/handbook/engineering/management/group-retrospectives/) for prior milestone begins. 
-1. PM: updates the planning issue with the weights closed in the prior milestone and the weights for the current milestone.
-1. PM: moves any open issues from the prior milestone to the new milestone and apply the `missed::x.xx` label.
-1. PM: will ping engineering team on Planning Issue asking for Technical Debt candidates.
-1. PM: invites engineering to breakdown issues planned.
-1. Engineers: bring up Technical Debt candidates.
-1. EM: adds a note for `@gitlab-org/analytics-section/product-intelligence` group for the async estimation.
-1. Engineers: add weight and reasoning to the issues using the following [template](#estimation-template).
-1. EM: reads through the estimates, checks for major differences, asks for another round of estimation if required.
-1. EM: adds the average or maximum weight estimated. 
-1. Engineers: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
-1. Engineers: coordinate with FE & BE work.
-1. Engineers: self-organize sync calls to discuss issues in depth.
-1. Engineers: link related and blocked issues
-
-**Definition of done**
-1. Engineering completes issue refinement, all issues are weighted & have a rough technical plan if weight is above 2.
-1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
-
-#### 3. Development Phase: 
-- **Timeline**: 23rd of the month – 17th of next month.
 - **Tasks**:
-1. PM: adds/removes issues if the board is over/under target weight.
-1. PM: finalizes Planning Issue and pings engineering team. 
-1. Engineers: work on the planned issues.
-1. Engineers: can pick issues that are unassigned and label them with `~"workflow::in dev"`.  
-    Issues get assigned once an engineer starts working on it.
-1. Engineers: if an issue involves more work than expected and the work can be completed within the milestone, the issue weight can be increased.
-    If an issue can't be closed within a milestone but some parts got completed, follow-up issues with the leftover work should be created. In any case, the PM should be informed or mentioned.
-    
+1. Initial Planning
+    1. PM: Milestone planning issue gets created ([example](https://gitlab.com/gitlab-org/product-intelligence/-/issues/623)).
+    1. PM: Adds overall objective and theme for the milestone to the planning issue
+    1. PM: Adds and prioritizes issues of type feature in the planning issue.
+    1. EM: Adds and prioritizes issues of type maintenance and bug in the planning issue.
+    1. PM/EM: Ensures all issues in the planning issue are assigned to the correct milestone and all other issues, not in the planning issue are removed from the milestone.
+  
+2. Breakdown and weighing
+    1. EM: Removes weight from issues that have been weighed more than 6 months ago to make sure weights consider recent changes.
+    1. EM: Moves all unweighed issues to ~"workflow::planning breakdown" stage and tags engineers for estimation.
+    1. Engineers: Add a solution proposal if none is present yet.
+    1. Engineers: Add their [estimation](#estimation), ask clarifying questions, link potential blockers, and break down the issues further if needed.
+    1. EM: Moves estimated and broken down issues into ~"workflow::ready for development" stage.
+    1. Engineers: Indicate their availability for the next milestone in our capacity planning sheet.
+
+3. Final Planning
+    1. EM: Calculates estimated [capacity](#milestone-capacity).
+    1. EM: Adds issues that probably need to be carried over from the current milestone to the planning issue.
+    1. EM & PM: Add or remove issues based on weights and capacity.
+    1. EM: Prioritizes issues in the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence) based on the planning issue.  
+
+#### 2. Development Phase: 
+- **Timeline**: 18th of month N – 17th of month N+1.
+
+- **Tasks**:
+1. Engineers: Work on the issues in the milestone based on the outlined priority:
+    1. Engineers assign themselves to issues based on interest/experience.
+    1. If no more issues are available in the milestone, they first check if they can take over or help with problems in the milestone assigned to another engineer. Otherwise, they inform the EM, who pulls in issues from the next milestone.
+1. PM/EM: Present the plan for the milestone in the first Product Intelligence sync of the new milestone focusing on the overall objective and themes.
 
 #### Milestone Capacity
 
