@@ -33,6 +33,24 @@ The script also does some slight data manipulation while gathering the date
 from SFDC. This is to ensure data integrity and make sure no issues occur once
 the data is sent to Zendesk.
 
+### Field mapping
+
+| Field in Zendesk | Field in SFDC |
+|------------------|---------------|
+| `salesforce_id` | `Account_ID_18__c` |
+| `sfdc_short_id` | `Account_ID_18__c` minus the last 4 characters |
+| `support_level` | Calculated from Customers Subs and Zuora Subs |
+| `aar` | `CARR_This_Account__c` |
+| `sales_segmentation` | `Ultimate_Parent_Sales_Segment_Employees__c` |
+| `account_owner` | `Account_Owner_Calc__c` |
+| `account_type` | Calcualted from `Type`, `Partners_Partner_Type__c`, `Partner_Track__c`, and `Partners_Partner_Status__c` |
+| `technical_account_manager` | `Technical_Account_Manager_Name__c` |
+| `seats_decimal` | `Number_of_Licenses_This_Account__c` |
+| `org_region` | Caulcated from `Account_Demographics_Geo__c` |
+| `health_score` | Calculated from `GS_Health_Score_Color__c` |
+| `expiration_date` | Calculated from Customers Subs and Zuora Subs |
+| `restricted_account` | Calculated from `Restricted_Account__c` |
+
 #### SOQL query used
 
 ```
