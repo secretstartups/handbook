@@ -103,7 +103,7 @@ If a team member would want to purchase a bike more expensive than the 1200 EUR 
 ## GitLab B.V. Netherlands Leave Policy
 
 * Statutory Sick Leave
-  - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. This leave runs concurrently with GitLab PTO. Team members will receive 100% of their salary for the first 25 days of illness. 
+  - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. This leave runs concurrently with GitLab's [Sick Time Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting). Team members will receive 100% of their salary for the first 25 days of illness. 
   - GitLab complies with [Dutch local Laws](https://business.gov.nl/regulation/reporting-employee-illness-recovery/) regarding sick leave. Local laws override any leave policy we have in the benefit of the team members.
   - Team members must select `Out Sick` in PTO by Roots to ensure that all sick time is properly tracked. For complete reporting procedures, please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
 
