@@ -1,8 +1,10 @@
 ---
 layout: handbook-page-toc
 title: "Integrated Marketing"
-description: "IM Marketing at GitLab"
+description: "Integrated Marketing at GitLab"
 ---
+
+
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -13,6 +15,7 @@ description: "IM Marketing at GitLab"
 # Integrated Marketing
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
 ### Team Mission Statement 
 Be the strategic growth engine for GitLab by creating and accelerating high quality demand, partnering ecosystem-wide and being platform champions.
 
@@ -21,19 +24,64 @@ Be the strategic growth engine for GitLab by creating and accelerating high qual
 * We are tightly connected and operate as one respectful, supportive and collaborative IM team, communicating a united story about our reason to be, the context in which we operate and why we move in an intentional direction.
 * We are innovative, strategic, and data-driven, delivering a cohesive high quality marketing motion that aligns across our joint stakeholder goals.
 
-## Teams within Integrated Marketing 
+The Integrated Marketing works across SMB, Mid Market and Enterprise segments as well as globally in the Americas, Europe/Middle East and Africa (EMEA) and Asia-Pacific (APAC) to create relevant game plans and thoughtful execution, enabling GitLab to:
+
+- Generate high quality, high-propensity demand
+- Partner ecosystem wide, including the channel, alliances and the community
+- Be champions of the DevOps platform 
+
+We are innovative, strategic, and data-driven, delivering a cohesive high quality marketing motion.
+
+## Team Norms (how we operate)
+
+We are a team that transparently communicates wins, challenges, and marketing insights that helps us feel connected to our purpose as a team and a company. 
+
+We are tightly connected and operate as one respectful, supportive and collaborative IM team, communicating a united story about our reason to be, the context in which we operate and why we move in an intentional direction.
+
+We are innovative, strategic, and data-driven, delivering a cohesive high quality marketing motion that aligns across our joint stakeholder goals.
+
+## Teams (what we do)
 {: #teams .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [Account Based Marketing](/handbook/marketing/account-based-marketing/)
-- [Alliances Marketing](/handbook/marketing/channel-marketing/#alliances-partner-marketing-roles-and-responsibilities)
-- [Channel Marketing](/handbook/marketing/channel-marketing/)
-- [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
-- [Lifecycle Marketing](/handbook/marketing/lifecycle-marketing/)
-- [Digital Marketing](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/)
-- [Field Marketing](/handbook/marketing/field-marketing/)
-- [Corporate Events](/handbook/marketing/corporate-marketing/corp-event-marketing/) 
-- [Digital Experience](/handbook/marketing/digital-experience/)
+### Field Marketing
+
+[Field Marketing](/handbook/marketing/field-marketing/): Be the feet on the street, creating local and regional experiences, learning and evangelism in close partnership with Sales.
+
+### Channel & Alliances Marketing 
+
+[Channel & Alliances Marketing ](/handbook/marketing/channel-marketing/): Exponentially grow GitLab’s reach through the ecosystem to build awareness and generate demand. 
+
+### Corporate Events
+
+[Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/): Create experiences through 1st and 3rd party events to bring awareness to the GitLab story and build our presence with key audiences.
+
+### Account Based Marketing (ABM)
+
+[Account Based Marketing](/handbook/marketing/account-based-marketing/abm-campaign-approach/)
+
+### Campaigns
+
+[Campaigns](/handbook/marketing/demand-generation/campaigns/): Deliver creative ways of telling the GitLab narrative, through different channels, formats and platforms.
+
+### Lifecycle Marketing
+
+[Lifecycle Marketing](/handbook/marketing/lifecycle-marketing/): Engage, nurture and convert customers across the customer journey. 
+
+### Digital Strategy
+
+[Digital Strategy](/handbook/marketing/integrated-marketing/digital-strategy/): Leverage paid and owned media tactics to foster awareness, generate leads and reach audiences where they engage. 
+
+#### Social Marketing
+
+[Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/): The social marketing team is responsible for the stewardship of the GitLab brand social channels. 
+
+## OKRs/Goal/Plan (how we impact)
+
+Integrated Marketing OKRs cascade from CMO OKRs
+
+- [FY24 Q3 Integrated Marketing OKRs](https://docs.google.com/document/d/18o3GodnsVbCsBsv8sVSqmAV6aQW363QAdxsOZ3_CbGg/edit#heading=h.dw8cm0z05l9a)
+- [FY24 Q3 Corporate Communications OKRs](https://gitlab.com/groups/gitlab-com/marketing/corporate_marketing/-/epics/220)
 
 ## How to Communicate with integrated Marketing
 {: #communication .gitlab-purple}
