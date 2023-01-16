@@ -89,7 +89,7 @@ As I lead social media at GitLab, ultimately everything I do is to better tie so
 ### Related pages
 
 * [job family description](/job-families/marketing/social-marketing-manager/)
-* [Handbook page](/handbook/marketing/corporate-marketing/social-marketing/)
+* [Handbook page](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/)
 * [GitLab team page entry](/company/team/#wspillane)
 * [GitLab contribution graph](https://gitlab.com/wspillane)
 * [LinkedIn profile](https://www.linkedin.com/in/wilspillane/)
