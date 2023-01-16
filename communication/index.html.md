@@ -395,7 +395,7 @@ Below are a few things to remember when creating issues:
 
 <i>**Pro Tip:**</i> When creating a Merge Request you can add `closes: #[insert issue number here]` and when the Merge Request is merged, the issue will automatically close. You can see an example of this [here](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/merge_requests/60). **Note:** [Automatic issue closing](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#disable-automatic-issue-closing) is disabled on some projects.
 
-1. If a user suggests an enhancement, try and find an existing issue that addresses their concern, or create a new one. Ask if they'd like to elaborate on their idea in an issue to help define the first MVC via a subsequent MR.
+4. If a user suggests an enhancement, try and find an existing issue that addresses their concern, or create a new one. Ask if they'd like to elaborate on their idea in an issue to help define the first MVC via a subsequent MR.
 1. **Cross link** issues or MRs with related conversations. Another example is to add "Report: " lines to the issue description with links to relevant issues and feature requests. When done, add a comment to relevant issues (and close them if you are responsible for reporting back, or reassign if you are not). This prevents internal confusion and us failing to report back to the reporters.
 1. When cross-linking issues or MRs, include a preview of the content you are linking, to facilitate [low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication):
    1. Good: `this would cause performance issue similar to #123456`. The reader has full information on first read and can refer to the link for more.
