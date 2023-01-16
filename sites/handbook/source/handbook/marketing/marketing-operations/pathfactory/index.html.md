@@ -360,7 +360,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
-1. Watch for extra `&` when [appending UTMs](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking). 
+1. Watch for extra `&` when [appending UTMs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). 
 1. Test and ensure the experience is working as intended.
 
 **When a track is LIVE (in use):**
