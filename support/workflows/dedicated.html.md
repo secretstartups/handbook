@@ -17,6 +17,11 @@ description: "Gitlab Dedicated handbook."
 
 If you'd like to work on GitLab Dedicated tickets, consider [creating an issue using the template](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab%20Dedicated) in Support Training, and read the [overview](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/).
 
+
+### Administrative access to a Dedicated instance
+
+The GitLab Dedicated team does not have administrative access to the GitLab application on Dedicated instances. Any support requests that require a GitLab instance administrator to make a change in the admin panel, for example resetting 2FA, has to be performed by the appropriate team within the customer organization.
+
 ### Working with logs
 
 Support can access tenant logs through [OpenSearch](https://opensearch.org/).
