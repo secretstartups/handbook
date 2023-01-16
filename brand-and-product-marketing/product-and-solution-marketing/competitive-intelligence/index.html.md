@@ -103,13 +103,4 @@ Initially we will focus on the following key competitors:
 
 Even a limited set of Use Cases and Competitors can result in several possible combinations.  To focus our efforts we will prioritize the most common combinations faced in sales situations. 
 
-### Competitor - Use Case Matrix
-The following matrix captures the priorities for competitive intelligence, both in the near term leading up to the Sales Kickoff in Feb 2020 and thereafter.  The numbers in the boxes indicate the priority order.  
-
-This matrix does not imply that other scenarios are not important or valuable; this priority matrix is simply to help prioritize our efforts.
-
-For the Sales Kickoff we will ensure that information is assimilated and a clear strategy articulated for the prioritized Competitor-Use Case scenarios.  Critical gaps in assets and other tools will be filled prior to Sales Kickoff.  Other gaps will be addressed on an ongoing basis.
-
-![Priority Matrix](compintel-priority.png)
-
-about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
+[See the Solutions Marketing page](about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
