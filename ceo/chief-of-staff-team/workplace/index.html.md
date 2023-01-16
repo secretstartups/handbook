@@ -443,7 +443,7 @@ We gathered the workplace design community in June 2021 for **REMOTE by GitLab**
 
 ### Social media
 
-We incorporate all-remote content on GitLab’s [social media](/handbook/marketing/corporate-marketing/social-marketing/) accounts, and are investigating a visual approach to new mediums that are aligned with culture and lifestyle stories.
+We incorporate all-remote content on GitLab’s [social media](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts, and are investigating a visual approach to new mediums that are aligned with culture and lifestyle stories.
 
 We are working with talent branding to surface relevant all-remote stories from GitLab team members to talent acquisition channels and review sites, such as Glassdoor, LinkedIn and Comparably.
 
