@@ -221,7 +221,7 @@ Google Analytics limits event label fields to around 2000 characters, and we'll 
 We're using Simo Ahava's Googl Sheets Add-On to sync notes for our tags and create a [GitLab Google Tag Manager inventory](https://docs.google.com/spreadsheets/d/1oT5AQQ0nH4-7iS-QY-UJP4vbFxv2GCGy9XiKpj8ebuU/edit#gid=1443259273) This simplifies scanning and searching over the Google Tag Manager web app.
 
 ### Changes of note
-Whenever we make major changes to tags through Google Tag Manager we document them in [changes of note](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/changes-of-note/). Examples of changes we document are adding or removing tags, changing tag sequencing, or changing when a tag is fired.
+Whenever we make major changes to tags through Google Tag Manager we document them in [changes of note](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/changes-of-note/). Examples of changes we document are adding or removing tags, changing tag sequencing, or changing when a tag is fired.
 
 ### Using marketing trend data
 
