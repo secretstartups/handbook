@@ -141,8 +141,8 @@ Examples of how we engage with analysts include:
     - basis for sales enablement
     - basis for report web page
     - basis for announcement level and reprint rights (may require additional budget to be allocated for reprint rights)
-- **Social Media:** AR will follow the [social marketing guidelines](/handbook/marketing/corporate-marketing/social-marketing/#requesting-social-posts-) to create appropriate social media posts
-- **Blog posts and PR:** will follow the [Request for Announcement process](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) to determine if this is a Level 1 or Level 2 announcement, get blogs and press releases started
+- **Social Media:** AR will follow the [social marketing guidelines](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) to create appropriate social media posts
+- **Blog posts and PR:** will follow the [Request for Announcement process](/handbook/marketing/corporate-communications/#requests-for-external-announcements) to determine if this is a Level 1 or Level 2 announcement, get blogs and press releases started
 - **Landing page:** If reprints will be contracted, then AR will initiate a Landing Page with the [gated content request issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new#?issuable_template=gated-content-request-analysts-mpm)
 - PMM writes and submits a blog post on the report - following the [blog process for time sensitive announcements](/handbook/marketing/blog/)
 - AR will follow the process to [create a new web page](/handbook/marketing/digital-experience/website/#creating-a-new-page). Once that page is created:

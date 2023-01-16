@@ -254,7 +254,7 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
 ### What to look for
 
 - Has another member of the Editorial team already reviewed the pitch and responded? If so, no need to review.
-- Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements) instead?
+- Should the pitch be an [announcement request](/handbook/marketing/corporate-communications/#requests-for-external-announcements) instead?
 - If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-suggest-a-blog-post)).
 - Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#featured).
 - Does the pitch meet the requirements and answer the questions outlined in [How to pitch a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post)
@@ -413,7 +413,7 @@ If a blog post is about a GitLab customer, the team member proposing the post sh
 
 ### Posts with updates that will impact customers
 
-Communication of changes that will impact GitLab customers/users should be initiated by opening an [announcement request per the PR handbook](/handbook/marketing/corporate-marketing/corporate-communications/#requests-for-external-announcements). If it's agreed by PR and Editorial that we will publish a blog post to communicate the news, the PR team member involved must confirm if they need to approve the post before publishing.
+Communication of changes that will impact GitLab customers/users should be initiated by opening an [announcement request per the PR handbook](/handbook/marketing/corporate-communications/#requests-for-external-announcements). If it's agreed by PR and Editorial that we will publish a blog post to communicate the news, the PR team member involved must confirm if they need to approve the post before publishing.
 
 ### Posts concerning the GitLab Board
 
@@ -919,7 +919,7 @@ If you run into issues with your MR, pipeline, or terminal, it's usually quickes
 
 To run a paid promotion to blog posts, a series, or PathFactory track, plan at least four weeks ahead to gather all necessary assets, and coordinate with other groups.
 
-- Decide on the content you want to promote and [which channels and formats](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#channels) you want to use. If you're not sure, reach out in #digital-marketing on Slack.
+- Decide on the content you want to promote and [which channels and formats](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#channels) you want to use. If you're not sure, reach out in #digital-marketing on Slack.
 - If you are planning to promote multiple pieces of content (blog posts, video, web articles, etc.), it may make sense to create a [PathFactory](/handbook/marketing/marketing-operations/pathfactory/) track to enable better exploration and discovery of the content. In this case, open a [PathFactory Track Request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track).
 - Open a [Paid Digital Request issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/new?issuable_template=paid-digital-request) and fill in as much as possible.
 - Open a [design request issue](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#brand--marketing-design-issue-templates) for the visual assets for your paid social. In most cases, you will use the [general design request template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general), but if you are planning to run a bigger promotion with multiple assets, please use [the integrated campaign request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign) instead.
@@ -927,5 +927,5 @@ To run a paid promotion to blog posts, a series, or PathFactory track, plan at l
 
 Things to note:
 
-- We don't need to provide copy for the ads. Our [agency](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#agency) takes care of that.
+- We don't need to provide copy for the ads. Our [agency](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#agency) takes care of that.
 - Avoid launching promotions in Q4 as holidays in November and December delay the process and the people you're trying to reach with the promotion may take time off then too.

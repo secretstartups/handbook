@@ -118,11 +118,11 @@ Aim for [a boring solution](/handbook/values/#boring-solutions).
       - Provides an expected launch date
       - Provides a clear ask and starts a conversation to determine if the asset is pitchable and/or fits into upcoming PR plans and pitch strategies
 
-2. Create an issue in the Corporate Marketing project to request consideration from our Social Marketing team. Follow the [step-by-step guide](/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-) in the team's handbook. [This is an example of a social marketing request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/6051) (*only accessible to GitLab team members*). Even if you're unsure if an asset is suitable for social media, create the issue and share in the `#social_media_action` Slack channel. It is better to be told that an asset does not fit into a social media plan than to not share. 
+2. Create an issue in the Corporate Marketing project to request consideration from our Social Marketing team. Follow the [step-by-step guide](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/) in the team's handbook. [This is an example of a social marketing request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/6051) (*only accessible to GitLab team members*). Even if you're unsure if an asset is suitable for social media, create the issue and share in the `#social_media_action` Slack channel. It is better to be told that an asset does not fit into a social media plan than to not share. 
 
 Distribution inspiration can be found from [this Twitter thread](https://twitter.com/TheCoolestCool/status/1228010347690385410) from Ross Simmonds of Foundation. 
 
-   * This can include Twitter threads, LinkedIn shares, Instagram stories, and [team member social media advocacy/enablement](/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/).
+   * This can include Twitter threads, LinkedIn shares, Instagram stories, and [team member social media advocacy/enablement](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/).
    * Document forums and communities where this content will be shared, and from whom.
    * Document newsletters and events where this content may be submitted for syndication and resharing. 
 

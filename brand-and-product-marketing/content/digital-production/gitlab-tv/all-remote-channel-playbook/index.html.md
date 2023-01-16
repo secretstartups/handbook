@@ -108,7 +108,7 @@ Video contributions that meet the playbook criteria will be uploaded to the GitL
 
 ## Promotion 
 
-1. Submit to [GitLab social team](/handbook/marketing/corporate-marketing/social-marketing/) for consideration ([DRI](/handbook/people-group/directly-responsible-individuals/) must create issue to enable this step)
+1. Submit to [GitLab social team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) for consideration ([DRI](/handbook/people-group/directly-responsible-individuals/) must create issue to enable this step)
 1. Submit to GitLab editorial team for consideration on the blog and/or bi-weekly newsletter (DRI must create issue to enable this step)
 1. Third-party content platforms (e.g. like ITPro.tv, industry blogs, etc.)
 1. Highlighted on GitLab’s weekly “This Week at GitLab” video series
