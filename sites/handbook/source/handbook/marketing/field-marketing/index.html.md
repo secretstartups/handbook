@@ -109,7 +109,7 @@ The Field marketing team can use the GitLab Brand LinkedIn channel to create eve
 - Field marketing are not authorized to write posts, edit the page or its contents, or to respond to users via the corporate LinkedIn account.
 - LinkedIn events should only be used for events and not for campaigns.
 
-Find out more on the social media page[here](/handbook/marketing/corporate-marketing/social-marketing/admin/#field-marketing-team-access-to-linkedin-events-feature)
+Find out more on the social media page[here](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#field-marketing-team-access-to-linkedin-events-feature)
 
 ### Best Practices 
 - The LinkedIn Event CTA button ATTEND is not synced to the registration link on our marketo registration page. The admin should include additional instructions in the About section of the LinkedIn event, for example: Please use the registration link to enter your details to register for this event.
@@ -311,7 +311,7 @@ If you spent money on digital ads to drive registration, then you’ll also want
 
 #### 3rd Party digital agency
 
-In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking).
+In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
 
 You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
 
@@ -820,7 +820,7 @@ If any dates change after the upload has happened the FMC will make the date upd
 All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
 ### Asks into Digital Campaigns 
-Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/). 
+Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/). 
 
 ### Asks into Product Marketing 
 By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
@@ -1692,7 +1692,7 @@ SimplyDirect defines engagement by targets filling out the survey.  The SimplyDi
 
 # Working with our Digital team
 
-- For [paid social campaigns](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#paid-social), details on how we collaborate with the Digital team can be [found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#agency).
+- For [paid social campaigns](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#paid-social), details on how we collaborate with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#agency).
 - We are not running ads for webcasts or workshops - as that is handled by our campaigns team. 
 - We will run paid ads to drive registration to regional in person events.
 
