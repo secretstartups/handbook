@@ -347,7 +347,7 @@ When driving webcast registration to a Zoom landing page, Zoom registration sour
 
 [Registration source tracking on zoom landing page](https://support.zoom.us/hc/en-us/articles/360000315683-Webinar-registration-source-tracking) is only available for MPM run `Webcast` type and not the self-service virtual events `Meeting` type set up.
 
-Currently, we do not use Zoom's landing page for webcast registration as MPMs manage the webcast registration process by creating an about.gitlab landing page and integrating form fills to Zoom via Marketo. The Zoom integration tracks sources that drove the registration using UTM parameters. See [full documentation on when and how to use utms](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utms-for-url-tagging-and-tracking).
+Currently, we do not use Zoom's landing page for webcast registration as MPMs manage the webcast registration process by creating an about.gitlab landing page and integrating form fills to Zoom via Marketo. The Zoom integration tracks sources that drove the registration using UTM parameters. See [full documentation on when and how to use utms](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utms-for-url-tagging-and-tracking).
 
 ### Live streaming
 {: #live-streaming}

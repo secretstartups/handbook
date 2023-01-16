@@ -170,7 +170,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 * Set up SDR outreach issue with SDR outreach template in the Product Marketing Board.
   + *Tag [global SDR managers and SDR enablement manager](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)*
   + *Post the issue in the #sdr_global slack channel for visibility* 
-* Work with Campaign Manager to set up organic social promotion with the [social marketing team](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/).
+* Work with Campaign Manager to set up organic social promotion with the [social marketing team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
 
 **Step 3: Executing the webcast**
 * Campaign Manager acts as the project manager and the moderator for the webcast
