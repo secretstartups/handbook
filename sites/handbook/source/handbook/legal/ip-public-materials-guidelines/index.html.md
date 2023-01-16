@@ -113,7 +113,7 @@ Just because something is available for free on the internet (including on Googl
 ##### Don’t
 
 * Use the entirety, or a large portion, of an article, paper or blog post.
-* Use excerpts, quotes or headlines of print and online news articles without following Corporate Communications’ [Sharing Media Coverage guidelines](/handbook/marketing/corporate-marketing/corporate-communications/#sharing-media-coverage).
+* Use excerpts, quotes or headlines of print and online news articles without following Corporate Communications’ [Sharing Media Coverage guidelines](/handbook/marketing/corporate-communications/#sharing-media-coverage).
 
 ### Industry Analyst Content Use
 
