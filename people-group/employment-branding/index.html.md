@@ -129,7 +129,7 @@ Our [GitLab jobs site](/jobs/) is where candidates can find information about wo
 
 ### Social media
 
-We incorporate content about hiring and our culture on GitLab's [social media](/handbook/marketing/corporate-marketing/social-marketing/) accounts so that there's one central place for candidates and the community to find out more about the company as a whole.
+We incorporate content about hiring and our culture on GitLab's [social media](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts so that there's one central place for candidates and the community to find out more about the company as a whole.
 
 On LinkedIn, we have a specific [career page](https://www.linkedin.com/company/gitlab-com/life) where candidates can find out more about life at GitLab.
 
