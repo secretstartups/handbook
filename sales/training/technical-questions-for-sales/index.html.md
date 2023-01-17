@@ -283,7 +283,7 @@ No questions at this time.
 
 *  **Short answer**: Coming soon
 *  **Context video**: Coming soon
-*  **Learn more**: Please look at GitLab's [multi cloud support](/multicloud/)
+*  **Learn more**: Please look at GitLab's [multi cloud support](/topics/multicloud/)
 
 
 #### Does GitLab have reference architectures with sizing information?

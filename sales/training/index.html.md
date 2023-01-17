@@ -28,7 +28,7 @@ To serve as trusted advisors to customers and partners, GitLab field team member
 
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
-| What is DevOps? | - [DevOps Explained](/devops/) (20 minutes) <br> - [Video](https://www.youtube.com/watch?v=_I94-tJlovg) (Dec 2013, 7 minutes) <br> - [Stages of the DevOps Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/) <br> - [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts) |
+| What is DevOps? | - [DevOps Explained](/topics/devops/) (20 minutes) <br> - [Video](https://www.youtube.com/watch?v=_I94-tJlovg) (Dec 2013, 7 minutes) <br> - [Stages of the DevOps Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/) <br> - [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts) |
 | What is the software development life cycle and how is software developed and deployed? | - [GitLab's public website on the SDLC](/stages-devops-lifecycle/) <br> - [What is the Software Development Lifecycle (SDLC)?](https://www.youtube.com/watch?v=Ancdhr3t2sE) (July 2018, 11 minutes) <br> - [Software Development Lifecycle (SDLC) in 9 minutes!](https://www.youtube.com/watch?v=i-QyW8D3ei0) (Jan 2016, 9 minutes) <br> - [How is software made using GitLab?](https://www.youtube.com/watch?v=UuX-GnYWNwo&feature=youtu.be) (Nov 2019, 23 minutes)|
 | What is Git? | - [Git Tutorials](https://www.youtube.com/playlist?list=PLu-nSsOS6FRIg52MWrd7C_qSnQp3ZoHwW) |
 | What is cloud-native? | - [GitLab website](https://about.gitlab.com/topics/cloud-native/) <br> - [Video on Cloud-Native Transformation](https://www.youtube.com/watch?v=WsIM034RnAc) (Mar 2019, 29 minutes) |
