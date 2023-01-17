@@ -13,7 +13,7 @@ title: "Brand Resources"
 {:.no_toc}
 
 ## Overview
-Our brand is the embodiment of our [mission](/company/mission/#mission), [vision](/direction/#vision), and [values](/handbook/values/). As stewards of the [GitLab brand](/company/brand/), the [Brand Design](/handbook/marketing/brand-and-product-marketing/design/) team works to educate and enable the wider organization with resources to effectively and honestly communicate what the company does for our internal and external audiences.
+Our brand is the embodiment of our [mission](/company/mission/#mission), [vision](/direction/#vision), and [values](/handbook/values/). As stewards of the [GitLab brand](/company/purpose/), the [Brand Design](/handbook/marketing/brand-and-product-marketing/design/) team works to educate and enable the wider organization with resources to effectively and honestly communicate what the company does for our internal and external audiences.
 
 ## Brand guidelines
 GitLab's official Brand guidelines can be found at **[design.gitlab.com](https://design.gitlab.com/)** under the `Brand` tab. These guidelines should be applied to all marketing materials, including, but not limited to: digital ads, events, publications, merchandise, etc. 
