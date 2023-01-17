@@ -70,9 +70,10 @@ This Working Group has the following goals:
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Christopher Lefelhocz | VP of Development            |
-| Facilitator | Sam Goldstein | Director of Engineering, Ops |
-| Facilitator (backup) | Nick Nguyen | Senior Engineering Manager, Data Stores |
-| Facilitator (backup) | Nicole Williams | Senior Engineering Manager, Monitor & Runner |
+| Facilitator DRI | Sam Goldstein | Director of Engineering, Ops |
+| Co-Facilitator | Nick Nguyen | Senior Engineering Manager, Data Stores |
+| Co-Facilitator | Nicole Williams | Senior Engineering Manager, Monitor & Runner |
+| Co-Facilitator | Albert Salim | Senior Backend Engineer, Verify:Pipeline Insights |
 | Functional Lead - Analytics | Mikołaj Wawrzyniak | Staff Backend Engineer, Analyze:Product Intelligence |
 | Functional Lead - Optimize | Adam Hegyi | Staff Backend Engineer, Plan:Optimize |
 | Functional Lead - ModelOps | Mon Ray| Engineering Manager, ModelOps |
@@ -99,4 +100,3 @@ This Working Group has the following goals:
 | Member | Nicholas Klick | Engineering Manager, Observability |
 | Member | Arun Sori | Senior Backend Engineer, Monitor:Observability |
 | Member | Nailia Ishakkova | Senior Software Engineer in Test, Enablement: Distribution |
-| Member | Albert Salim | Senior Backend Engineer, Verify:Pipeline Insights |
