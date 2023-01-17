@@ -12,7 +12,7 @@ We will use a pre-defined template for NodeJS Express to show how Auto DevOps wo
 
 ### A. Create a new Node JS Express project with Auto DevOps
 
-1. Create another **New project**. 
+1. Navigate to your group and select **New project**,.
 1. Instead of making a blank project, select **Create from template**, and then select **Use template** next to **NodeJS Express**.
 1. In the **Project name** field, enter `Auto DevOps-test`
 1. Make sure the **Visiblity Level** is **Private**, and select **Create project**.
@@ -30,23 +30,23 @@ The most common way to run a pipeline is to commit to a branch of your project�
 1. In the left-hand navigation pane, select **Repository > Files**.
 1. Near the top left of the window, switch to the **new-feature** branch by selecting it in the dropdown that currently says **master**.
 1. In the list of repository files, select the `views` directory and then the `index.pug` file.
-1. Select **Edit** and modify the last line of `index.pug` to the text below. IMPORTANT: preserve the 2-space indentation for this line, and include the `p` at the beginning of the line.
+1. Select **Edit** and modify the last line of `index.pug` to the text below. If **Edit** is not visible, select the button next to **Open in Web IDE** and choose **Edit**. IMPORTANT: preserve the 2-space indentation for this line, and include the `p` at the beginning of the line.
    
    ```
      p GitLab welcomes you to #{title}
    ```
    
-1. **Create commit...**.
 1. For **Commit message**, type `Update welcome message in index.pug`
 1. Leave **Target branch** set to `new-feature`
-1. Check **Start a new merge request**.
-1. **Commit**.
+1. Select **Commit changes**.
+1. Select **Create merge request**
 1. Add `Draft:` to the beginning of the text in the **Title** field to show that the merge request isn’t ready to be merged yet.
 1. Assign the merge request to yourself.
-1. Leave all other fields at their default values and select **Create merge request** at the bottom of the page. 
+1. Leave all other fields at their default values and select **Create merge request** at the bottom of the page.
+1. To mark the merge request ready to merge, select **Mark as ready**. This removes `Draft:` from your MR’s title. 
    
      You now have an active merge request for merging the `new-feature` branch into the `master` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (you might have to refresh the page to see the pipeline status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
-1. The **Review** stage of the Auto DevOps pipeline deploys your NodeJS Express application into a review environment dedicated to this branch. You can see the status of each pipeline stage by hovering over the circular icons in the pipeline status. Once the pipeline has completed the **Review** stage, view the deployed application by selecting **View latest app** in the middle of the merge request. You should see the text that you modified.
+1. The **Review** stage of the Auto DevOps pipeline deploys your NodeJS Express application into a review environment dedicated to this branch. You can see the status of each pipeline stage by hovering over the circular icons in the pipeline overview tab. Once the pipeline has completed the **Review** stage, view the deployed application by selecting **View app** in the middle of the merge request. You should see the text that you modified. Note: You may receive a page with the error "Your connection is not private." This is normal behavior as the SSL certificationss in the GitLab demo cloud may expire. Select **Advanced** and choose **Proceed**.
 1. Return to the GitLab browser tab. In the left-hand navigation pane, select **Packages & Registries > Container Registry**. You should see the Docker container that the Auto DevOps pipeline created when it deployed your application to the review environment.
 
 
