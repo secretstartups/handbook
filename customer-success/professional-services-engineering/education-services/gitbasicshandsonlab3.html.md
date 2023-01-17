@@ -31,9 +31,9 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Confirm that you are on the branch you just created by looking for the branch name in a dropdown in the top left corner of the page.
 1. In the left-hand file list, select `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
-1. **Create commit...**
+1. Select **Create commit...**
 1. For **Commit Message**, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
-1. **Commit**.
+1. Select **Commit**.
 
 
 ### E. Verify changes in a merge request
@@ -41,12 +41,12 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
    > Hint: you can select the small link at the bottom of the page that shows an exclamation point and the MR number.
 1. On the merge request page, locate the **Assignee** section in the upper right-hand corner (you might have to select the double arrow at the top right of the screen to expand the pane). Ensure the merge request is assigned to yourself.
 1. Select the **Changes** tab directly below the merge request title.
-1. Hover over line 3 of the right side of the table (which contains the changes in your commit) and select the **comment icon**.
+1. Hover over line 3 of the left side of the table (which contains the changes in your commit) and select the **comment icon**.
 1. In the comment field, type `this is a comment` and select **Start a review**. You’d normally add more comments to your review before submitting them all at once, but for this lab just select **Submit review** to submit your single comment.
 1. Pretend that someone has seen your comment and added another commit to address it. Select **Resolve thread** to show that the comment has been dealt with.
 
 ### F. Merge the branch and close the merge request
-1. To mark the merge request ready to merge, select **Mark as ready** in the upper right-hand corner. This removes `Draft:` from your MR’s title.
+1. To mark the merge request ready to merge, select the button to the right of **Code** in the upper right-hand corner and choose **Mark as ready**. This removes `Draft:` from your MR’s title.
 1. Select the **Overview** tab under the MR title.
 1. You haven’t specified any approvers for this project. If you had, an **Approve** button would appear in the **View eligible approvers** section.
 1. Ensure the **Delete source branch** checkbox is enabled, and select **Merge**.
