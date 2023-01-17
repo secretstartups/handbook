@@ -138,3 +138,9 @@ Do:
 Don't:
 - Mess with any projects, studies, or settings, unless you are absolutely sure you know what you’re doing. If you have any doubts, please post to the [ux_research Slack channel](https://gitlab.slack.com/archives/CMEERUCE4), or contact @leducmills directly on Slack.
 - Clean up other peoples’ messes. Don’t delete or move other projects, unless you know for sure that no one is currently using them or will need to access them in the future.
+
+## FAQ
+
+**Q: How how do you change the user password in the UX sandbox so that you can use a different password for each participant in a usability study?**
+
+A: Follow the steps on how to change the passwords on user profiles outlined in this [video](https://youtu.be/yul5yDoEAKE)
