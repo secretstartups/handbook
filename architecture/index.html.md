@@ -45,13 +45,13 @@ We strive for **results** and concrete outcomes, which in this case entail **roa
 Architecture at GitLab is not a role but it is notably engrained in senior technical leadership roles, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
 
 * **Engineering Fellows** (EFs) are DRIs for the overall Architecture Practice
-  * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](/handbook/leadership/#e-group)
-  * EFs are technical partners to their Department VPs and Senior Directors ([S-group](/handbook/leadership/#s-group))
+  * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](/handbook/leadership/)
+  * EFs are technical partners to their Department VPs and Senior Directors ([S-group](/handbook/leadership/))
   * EFs lead the collaborative production of 12-month technology **roadmaps** which map to [pre-existing cadence](https://about.gitlab.com/direction/#1-year-plan). They are distinct but closely aligned with Product Roadmaps. Technology Roadmaps are aligned with OKRs and are supposed to be updated as needed, but at least every 6 months.
   * EFs have strong input on Department OKRs
 * **Distinguished Engineers** (DEs) are DRIs for the Architecture Practice in their respective Departments and Sub-departments
   * DEs operate at the [Department and Sub-department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Directors and Senior Managers)
-  * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](/handbook/leadership/#director-group))
+  * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](/handbook/leadership/))
   * DEs produce 6-month **blueprints** for their department's technical direction, again aligned with Product
   * DEs also have strong input in aligning OKRs at the department level
 * **Staff Engineers** (SEs) are DRIs for the Architecture Practice in their respective Teams
