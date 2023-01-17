@@ -1292,7 +1292,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 
-1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
+1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
