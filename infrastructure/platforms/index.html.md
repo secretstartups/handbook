@@ -24,27 +24,27 @@ To deliver on the mission, we are in the process of formalising the building blo
 
 This vision has been partially discussed by the team members of the Infrastructure Platforms section while setting the [direction for FY23](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/101).
 
-## FY23 Direction
+## FY24 Direction
 
-In FY23, teams in the Platforms Section of the Infrastructure Department continue to focus on expanding their role as an enabler across the Engineering function. With the growth of this section, it is becoming imperative that the Platforms section teams collaborate more closely, and use the influence they have built individually to take our engineering processes to the next stage.
+In FY24, teams in the Platforms Section of the Infrastructure Department will continue to focus on expanding their role as an enabler across the Engineering function. With the growth of this section, it is becoming imperative that the Platforms section teams collaborate more closely, and use the influence they have built individually to take our engineering processes to the next stage.
 
-In FY23, the focus is on:
+In FY24, the focus is on:
 
-### 1. Achieve 50% growth year-on-year in engagement surveys results compared to FY22
+### 1. Achieve 50% growth year-on-year in engagement surveys results compared to FY23
 
-With the approved headcount for FY23, the general focus will be on hiring. However, we must ensure that the existing team members are happy and that action is taken based on their feedback. We will focus on how to:
+With the team growth in FY23 and the approved headcount for FY24, the general focus will be on hiring and setting teams up for success. However, we must ensure that the existing team members are happy and that action is taken based on their feedback. We will focus on how to:
 
 * Make hiring processes more efficient. (Platform, link to be added)
 * Support career goals of individual team members with the section. (Platform, link to be added)
-* Conduct regular pulse surveys to ensure team member engagement, outside of company level engagement surveys. (Platform, link to be added)
+* Introduce an effective way to regularly gather feedback from team members, outside of company-level engagement surveys. Use the feedback to ensure continual team improvements. 
 
 ### 2. Prepare self-servicing for stage group teams to enable end-to-end development
 
 The Platforms Section is well positioned to continue working on process, tooling, and systems changes which allow us to continue supporting the company growth. With a number of highly ambitious, and highly impactful projects we are looking to:
 
-* Create a roadmap for a new framework that will enable individual stage groups to manage the lifecycle of their features, and ensure that they are reliable and performant. (Delivery and Scalability teams, link to be added)
-* Eliminate manual steps from the deployment process. (Delivery, link to be added)
-* Ensure the preciseness of Error Budgets as a measure of a business desire for GitLab.com reliability and performance. (Scalability, link to be added)
+* Create a roadmap for new frameworks that will enable individual stage groups to manage their features' lifecycle and ensure that they are reliable and performant. (Delivery and Scalability teams, link to be added)
+* Expand Delivery metrics to provide stage groups with visibility into the frequency, and reliability of deploying and releasing changes to GitLab users (Delivery, link to be added) 
+* Ensure the preciseness of Error Budgets as a measure of a business desire for GitLab.com reliability and performance. ([Create Performance Indicator for Error Budgets](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1997))
 
 ### 3. Increase use and accuracy of Platform team metrics, and feed them into enablement processes
 
@@ -56,11 +56,11 @@ Individual teams in the Platforms Section have a number of metrics, and measures
 
 ### 4. Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check
 
-With the work we've been doing in previous years, we are all in alignment that as a group we are focused on scaling horizontally and vertically, whether we are talking about GitLab (the application), GitLab.com (the infrastructure), or processes that support serving our users. In FY23, we need to be focused on one more dimension, the cost. The topics we will focus on are:
+With the work we've been doing in previous years, we are all in alignment that as a group we are focused on scaling horizontally and vertically, whether we are talking about GitLab (the application), GitLab.com (the infrastructure), or processes that support serving our users. In FY23, we added one more dimension, the cost. In FY24 we will continue to focus on:
 
-* Ensure that non-horizontally scalable services (such as Redis, Sidekiq) can continue supporting growth. (Delivery and Scalability teams, link to be added)
-* Increase Kubernetes cluster utilization and resilience. (Delivery and Scalability teams, link to be added)
-* Reduce the time to recover from unexpected usage, and increase application resilience to all types of growth on GitLab.com. (Delivery and Scalability, link to be added)
+* Ensuring that non-horizontally scalable services (such as Redis, Sidekiq) can continue supporting growth. (Delivery and Scalability teams, link to be added)
+* Increasing Kubernetes cluster utilization and resilience. (Delivery and Scalability teams, link to be added)
+* Reducing the time to recover from unexpected usage, and increase application resilience to all types of growth on GitLab.com. (Delivery and Scalability, link to be added)
 
 ## How we work
 
