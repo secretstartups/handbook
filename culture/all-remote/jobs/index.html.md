@@ -37,7 +37,7 @@ Working remotely is becoming more common globally, as supported by data in the [
 
 Buffer's latest [State of Remote Work](https://lp.buffer.com/state-of-remote-work-2020) shows that the overwhelming majority of those who work remotely would recommend it to others, while [new survey data from Owl Labs](https://www.owllabs.com/blog/remote-work-statistics) collected from 23 countries and 6 continents found that over half of global companies now allow some form of remote work.
 
-Of course, [not all remote environments are created equal](/company/culture/all-remote/part-remote/) — a point we cover in detail on the [part-remote page](/company/culture/all-remote/part-remote/).
+Of course, [not all remote environments are created equal](/company/culture/all-remote/hybrid-remote/) — a point we cover in detail on the [part-remote page](/company/culture/all-remote/hybrid-remote/).
 
 In the aforementioned Owl Labs survey, it found that 16% of global companies are fully remote and 40% of global firms are hybrid, offering remote options while maintaining at least one physical office.
 

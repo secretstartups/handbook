@@ -267,7 +267,7 @@ Allies familiarize themselves with GitLab's general DIB content
 - [Diversity, Inclusion & Belonging page](/company/culture/inclusion/)
 - [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
 - [DIB training resources](https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion--belonging-training-and-learning-opportunities)
-- [Unconscious bias](/handbook/communication/unconscious-bias/)
+- [Unconscious bias](/company/culture/inclusion/unconscious-bias/)
 
 ## Ally Resources
 

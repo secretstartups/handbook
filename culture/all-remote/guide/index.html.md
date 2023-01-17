@@ -297,7 +297,7 @@ Learn about [historical milestones, inflection points, and prescient interviews]
 
 Hybrid-remote companies have one or more offices where a subset of the company commutes to each day, paired with a subset of the company that works remotely.
 
-Learn more about [advantages, challenges, and the primary differences between all-remote and other forms of remote working](/company/culture/all-remote/part-remote/).
+Learn more about [advantages, challenges, and the primary differences between all-remote and other forms of remote working](/company/culture/all-remote/hybrid-remote/).
 
 ## Comparing All-Remote Benefits vs. Hybrid-Remote Benefits
 
