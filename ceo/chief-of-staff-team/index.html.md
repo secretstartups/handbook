@@ -241,7 +241,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
 The CoS to the CEO plays an important [role](/company/offsite/#roles).
-It's [3 to 4 days long](/company/offsite/#schedule) with a CEO Skips meeting within the following days.
+It's [3 to 4 days long](/company/offsite/#schedule) with a [Functional Leaders Meeting](https://about.gitlab.com/company/offsite/#functional-leaders-meeting) within the following days.
 There are [recurring discussion topics](/company/offsite/#recurring-discussion-topics) as well as a [discussion on content](/company/offsite/#content-choice) chosen by the CEO.
 
 In addition, the CoS to the CEO is responsible for preparing the CEO for offsites by:
@@ -270,9 +270,9 @@ Feedback from the Board will be shared and discussed in the Q1 E-Group Offsite. 
 
 The CoS to the CEO will also assist the CEO in prepping for the CEO's end of year review and areas for focus in the coming year.
 
-## Managing the CEO Skips
+## Managing the Functional Leaders 
 
-The [CEO Skips group](/company/team/structure/#ceo-skips) is made up of anyone who reports directly to the e-group.
+Functional Leaders is a group comprised of all [CEO-Skips](/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.  
 The CoS to the CEO enables and manages this group.
 
 ## Managing the Directs-Group
