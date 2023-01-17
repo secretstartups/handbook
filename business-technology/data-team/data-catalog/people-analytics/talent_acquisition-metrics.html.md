@@ -17,7 +17,7 @@ title: "Talent Acquisition Metrics Dashboard"
 
 GitLab is a focused on supporting our team members, and just like other business stakeholders our Talent Acquisition Team within People Group is data focused to constantly improving the hiring process to help teams internally hire the right team members, and also making sure candidates that go through the process have a good experience.
 
-Many of the Talent Acquisition KPIs can be found in our [KPI Index](https://about.gitlab.com/handbook/ceo/kpis/#talent-acquisition-kpis).
+Many of the Talent Acquisition KPIs can be found in our [KPI Index](https://about.gitlab.com/company/kpis/#talent-acquisition-kpis).
 
 The [Talent Acquisition Metrics Dashboard](https://app.periscopedata.com/app/gitlab/668158/Talent-Acquisition-Metrics) takes into account our KPIs, in addition to other metrics.
 

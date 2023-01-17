@@ -12,7 +12,7 @@ title: "People Metrics"
 GitLab is a focused on supporting our team members, and just like other business stakeholders our People Group is data focused when it comes to creating an environment that allows team members to focus on the contribution they have at GitLab.
 
 
-Many of the People KPIs can be found in our [KPI Index](https://about.gitlab.com/handbook/ceo/kpis/#people-group-kpis).
+Many of the People KPIs can be found in our [KPI Index](https://about.gitlab.com/company/kpis/#people-group-kpis).
 
 The [People Metrics Dashboard](https://app.periscopedata.com/app/gitlab/714228/People-Metrics-Drill-Down) takes into account our KPIs, in addition to other metrics that help drive people data decisions. 
 
