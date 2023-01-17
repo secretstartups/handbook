@@ -223,17 +223,17 @@ As the owner of [pipeline configuration](https://docs.gitlab.com/ee/development/
 - Faster pipelines to scale better when Merge Train is enabled
 
 These strategies include:
-- "Minimal test jobs" via test mapping
+- Predictive test jobs via test mapping
 - Fail-fast job
 - Re-run previously failed tests early
 - Selective jobs via pipeline rules
 - Selective jobs via labels
 
-### "Minimal test jobs" via test mapping
+### Predictive test jobs via test mapping
 
-Tests that provide coverage to the code changes in each merge request are most likely to fail. As a result, merge request pipelines for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) run only the minimal set of tests by default. These include:
-- [RSpec minimal jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-minimal-jobs) which runs relevant RSpec tests that are mapped to the code changes
-- [Jest minimal jobs](https://docs.gitlab.com/ee/development/pipelines/#jest-minimal-jobs) which runs relevant Jest tests that are mapped to the code changes
+Tests that provide coverage to the code changes in each merge request are most likely to fail. As a result, merge request pipelines for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) run only the predictive set of tests by default. These include:
+- [RSpec predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-predictive-jobs) which runs relevant RSpec tests that are mapped to the code changes
+- [Jest predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#jest-predictive-jobs) which runs relevant Jest tests that are mapped to the code changes
 
 Test mapping is done via the [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem. It is worth noting that the gem is supplemented with a [static mapping file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/tests.yml) to account for known gaps, as the automated mapping is not always perfect.
 
@@ -245,15 +245,18 @@ There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelinesx/#fa
 Take a look at this [youtube video](https://www.youtube.com/watch?v=FCCbxZky5Nk) for details on how [GitLab](https://gitlab.com/gitlab-org/gitlab) implements the fail-fast job with test_file_finder.
 Note that the current design only works with low-impacting merge requests which are only mapped to a small set of tests. If there is a large number of tests that are likely to fail for a merge request, putting them in a single job is not feasible and could result in a long-running bottleneck which defeats its purpose.
 
-Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their Ruby projects, can set it up with our [Fail Fast Testing](https://docs.gitlab.com/ee/ci/testing/fail_fast_testing.html) template.
+Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their Ruby projects, can set it up with our [Verify/Failfast](https://docs.gitlab.com/ee/ci/testing/fail_fast_testing.html) template.
 
 ### Re-run previously failed tests early
 
-Tests that previously failed in a merge request are likely to fail again, so they provide the most urgent feedback in the next run. To grant these tests the highest priority, the [GitLab](https://gitlab.com/gitlab-org/gitlab) pipeline [prioritizes previously failed tests by re-running them early](https://docs.gitlab.com/ee/development/pipelines/#re-run-previously-failed-tests-in-merge-request-pipelines) in a dedicated job, so it will be one of the first jobs to fail if attention is needed.
+Tests that previously failed in a merge request are likely to fail again, so they provide the most urgent feedback in the next run.
+To grant these tests the highest priority, the [GitLab](https://gitlab.com/gitlab-org/gitlab) pipeline [prioritizes previously failed tests by re-running them early](https://docs.gitlab.com/ee/development/pipelines/#re-run-previously-failed-tests-in-merge-request-pipelines) in a dedicated job, so it will be one of the first jobs to fail if attention is needed.
 
 ### Selective jobs via pipeline rules
 
-The GitLab pipeline consists of hundreds of jobs, but not all are necessary for each merge request. For example, a merge request with only changes to documenation files do not need to run any backend tests, so we can exclude all backend test jobs from the pipeline. See [specify-when-jobs-run-with-rules](https://docs.gitlab.com/ee/ci/jobs/job_control.html#specify-when-jobs-run-with-rules) for how to include/exclude CI jobs based on file changes. Most of the pipeline rules for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) can be found in <https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/ci/rules.gitlab-ci.yml>.
+The GitLab pipeline consists of hundreds of jobs, but not all are necessary for each merge request. For example, a merge request with only changes to documenation files do not need to run any backend tests, so we can exclude all backend test jobs from the pipeline.
+See [specify-when-jobs-run-with-rules](https://docs.gitlab.com/ee/ci/jobs/job_control.html#specify-when-jobs-run-with-rules) for how to include/exclude CI jobs based on file changes.
+Most of the pipeline rules for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) can be found in <https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/ci/rules.gitlab-ci.yml>.
 
 ### Selective jobs via labels
 
@@ -275,14 +278,14 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 
 | Experiment | Status | Hypothesis | Feedback Issue or Findings |
 | --- | --- | --- | --- |
-| [Always run minimal jobs for fork pipelines](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1170) | Complete | The goal is to reduce the CI minutes consumed by fork pipelines. The "full" jobs only run for canonical pipelines (i.e. pipelines manually started by a member of the project) once the MR is approved. | |
+| [Always run predictive jobs for fork pipelines](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1170) | Complete | The goal is to reduce the CI minutes consumed by fork pipelines. The "full" jobs only run for canonical pipelines (i.e. pipelines started by a member of the project) once the MR is approved. | |
 | [Retry failed specs in a new process after the initial run](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148) | Complete | Given that a lot of flaky tests are unreliable due to previous test which are affecting the global state, retrying only the failing specs in a new RSpec process should result in a better overall success rate. | https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148#note_914106156 |
 | [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found that this doesn't seem to have a negative impact on `master` stability so the experiment was made opt-out. |
 | [Experiment with running previously failed tests early](https://gitlab.com/gitlab-org/gitlab/-/issues/333857) | Complete | We have not noticed a significant improvement in feedback time due to other factors impacting our Time to First Failure metric. | |
 | [Store/retrieve tests metadata in/from pages instead of artifacts](https://gitlab.com/gitlab-org/gitlab/-/issues/335675) | In Progress | We're only interested in the latest state of these files, so using Pages makes sense here. Also, this would simplify the logic to retrieve the reports and reduce the load on GitLab.com's infrastructure. | [There are some transient problems where a Cloudflare page is returned instead of the expected JSON file](https://gitlab.com/gitlab-org/gitlab/-/issues/337319). |
 | [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | In Progress | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | Improvements needed to [identify and resolve selective test gaps](https://gitlab.com/groups/gitlab-org/quality/engineering-productivity/-/epics/6) as this impacted pipeline stability. |
 | [Enabling developers to run failed specs locally](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58569) | In Progress | Enabling developers to run failed specs locally will lead to less pipelines per merge request and improved productivity from being able to fix regressions more quickly | <https://gitlab.com/gitlab-org/gitlab/-/issues/327660> |
-| [Use dynamic analysis to streamline test execution](https://gitlab.com/gitlab-org/gitlab/-/issues/222369) | Complete | Dynamic analysis can reduce the amount of specs that are needed for MR pipelines without causing significant disruption to master stability | [Miss rate of 10%](https://gitlab.com/gitlab-org/gitlab/-/issues/222369#note_480768617) would cause a large impact to master stability. Look to leverage dynamic mapping with local developer tooling. Added [documentation](https://docs.gitlab.com/ee/development/pipelines.html#rspec-minimal-job-experiment) from the experiment. |
+| [Use dynamic analysis to streamline test execution](https://gitlab.com/gitlab-org/gitlab/-/issues/222369) | Complete | Dynamic analysis can reduce the amount of specs that are needed for MR pipelines without causing significant disruption to master stability | [Miss rate of 10%](https://gitlab.com/gitlab-org/gitlab/-/issues/222369#note_480768617) would cause a large impact to master stability. Look to leverage dynamic mapping with local developer tooling. Added [documentation](https://docs.gitlab.com/ee/development/pipelines/index.html#rspec-predictive-jobs) from the experiment. |
 | [Using timezone for Reviewer Roulette suggestions](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34862) | Complete - Reverted | Using timezone in Reviewer Roulette suggestions will lead to a reduction in the mean time to merge | Reviewer Burden was inconsistently applied and specific reviewers were getting too many reviews compared to others. More details in the [experiment issue](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/563#note_397680373) and [feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/227123) |
 
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
