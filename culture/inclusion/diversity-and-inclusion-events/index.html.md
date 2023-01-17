@@ -68,7 +68,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |          | [Published GitLab DIB Mission Statement](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab)
 |          | [Published GitLab's Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging)
 | Jul | Launched Greenhouse Inclusion Tool
-| Aug | [GitLab Pride launched](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-pride/)                               | 
+| Aug | [GitLab Pride launched](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-pride/)                               | 
 |          | [GitLab MIT - Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/) launched                       | 
 |          | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) launched                                  | 
 |          | [GitLab Women](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/) launched                                         | 

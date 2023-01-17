@@ -110,8 +110,8 @@ Not only does this create a less [inclusive](/company/culture/inclusion/) hiring
    * For example, GitLab has a KPI of [65 tickets closed per support staff per month](/handbook/support/performance-indicators/#average-daily-tickets-closed-per-support-team-member).
 1. [Increased savings on office costs](https://globalworkplaceanalytics.com/the-remote-work-roi-calculator-v0-95) and [compensation](/blog/2019/02/28/why-we-pay-local-rates/) (due to hiring in lower-cost regions).
    * GitLab **maintains a more balanced payroll** than other San Francisco Bay Area colocated companies. Learn more in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/) section of GitLab's handbook.
-   * Each function has a new hire location factor target. As an example, [marketing](/handbook/ceo/kpis/#marketing-kpis) targets < 0.72 and [finance](/handbook/ceo/kpis/#finance-team-kpis) targets < 0.69.  (For reference, San Francisco is 1.00)
-   * We have a [people group KPI](/handbook/ceo/kpis/#people-group-kpis) for our average overall location factor to be < 0.65.
+   * Each function has a new hire location factor target. As an example, [marketing](/company/kpis/#marketing-kpis) targets < 0.72 and [finance](/company/kpis/#finance-team-kpis) targets < 0.69.  (For reference, San Francisco is 1.00)
+   * We have a [people group KPI](/company/kpis/#people-group-kpis) for our average overall location factor to be < 0.65.
 1. All-remote naturally attracts [self-motivated people](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/).
 1. It's easier to quickly grow and scale your company.
    * GitLab **does not own/lease office space**. As colocated companies scale in size, their spend related to real estate will swell. This not only encompasses office space, but related activities such as security, cleaning, remodeling, etc. It also hampers [growth](/company/culture/all-remote/scaling/). Hiring too many people in too short a time span will force you to move offices in quick succession, creating massive cost and inefficiency.
@@ -124,7 +124,7 @@ Not only does this create a less [inclusive](/company/culture/inclusion/) hiring
 1. You don't have to pay to relocate someone to join your team.
    * GitLab's talent acquisition department tracks cost per hire, which currently does not have a target.
 1. With employees located all over the world [working asynchronously](/blog/2019/02/27/remote-enables-innovation/), contributions can continue even when one time zone's working day is over.
-   * GitLab has a people group KPI stating that the [percent of sent Slack messages that are not DMs be > 50%](/handbook/ceo/kpis/#people-group-kpis).
+   * GitLab has a people group KPI stating that the [percent of sent Slack messages that are not DMs be > 50%](/company/kpis/#people-group-kpis).
 1. There's also business continuity in the case of local disturbances or natural disasters (e.g. political or weather-related events).
 1. Greater flexibility [can mean greater diversity](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/global-talent-trends-2019.pdf) in your organization.
 
