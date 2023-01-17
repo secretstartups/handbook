@@ -98,13 +98,13 @@ Scheduling for the in-person event generally follows:
 1. First Day: Full day meeting starting with breakfast at 8am (usually Tuesday)
 1. Second Day: Full day meeting starting with breakfast at 8am. When the event does not coincide with Contribute, EBA to the CEO will coordinate an off-site activity for the afternoon (usually Wednesday).
 1. Third Day: Half day meeting starting with breakfast at 8am. Usual end time is 12:30 pm with departure flights scheduled in the late afternoon (usually Thursday).
-1. First day after third day: The E-Group hosts a [CEO Skips zoom call](#ceo-skips-zoom-call) (usually Friday or the following Monday).
+1. First day after third day: The E-Group hosts a [Functional Leaders Zoom call](#functional-leaders-zoom-call) (usually Friday or the following Monday).
 
 E-Group is welcome to fly in early or stay later pending their travel preferences.
 
 Scheduling for a fully remote offsite generally follows:
 1. Monday through Thursday from 8am-12:20pm Pacific time each day.
-1. The following Monday after the offsite concludes, the E-Group hosts a [ceo skips zoom call](#ceo-skips-zoom-call)
+1. The following Monday after the offsite concludes, the E-Group hosts a [Functional Leaders zoom call](#functional-leaders-zoom-call)
 
 E-Group Offsites typically happen at the start of the last month of the quarter. The timeline has the following benefits:
 1. While the quarter is not yet complete, leadership has an informed view of success against business objectives.
@@ -280,13 +280,16 @@ Follow ups can take the form of an:
 1. Notes shared with the rest of the company in Slack
 1. Etc.
 
-## CEO Skips Zoom Call
+## Functional Leaders E-Group Offsite Engagement
 
-CEO Skips are a key leadership team that plays a key role in identifying and realizing business opportunities. CEO Skip input is valuable in the lead up to meetings, and CEO Skip collaboration is key for cascading efforts that follow.
+Functional Leaders play a key role in identifying and realizing business opportunities. Functional Leader input is valuable in the lead up to meetings, and Functional Leader collaboration is key for cascading efforts that follow.
 
-In advance of the offsite, E-Group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The CEO-Skip team should arrive at our CEO Skip Zoom call already having an understanding of some of key items that were discussed.
+### Functional Leaders Pre E-Group Offsite Engagement 
+In advance of the offsite, E-Group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. Functional leaders should arrive at our Functional Leaders Meeting already having an understanding of some of key items that were discussed.
 
-In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [CEO Skips Group](/company/team/structure/#ceo-skips). This time will not work for everyone. The meeting will be privately recorded via Zoom and linked in the meeting agenda.
+### Functional Leaders Meeting
+
+In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [Functional Leaders Meeting](/company/team/structure/#functional-leaders). This is called the Functional Leaders Meeting.
 
 The goal of this call is to communicate:
 1. Strategic or visionary updates that are crucial to priorities
@@ -294,26 +297,32 @@ The goal of this call is to communicate:
 1. Key messaging that leaders are enlisted to help distribute
 1. Action items which may need cross-functional collaboration
 
-The Agenda will be organized by meeting topics. Designated CEO Skip team members who led or participated in specific sessions may be asked to provide written summaries and flag highlights. CEO Skip team members should review the meeting material in advance of the meeting. They can put their comments and questions below each summary. We will run through the agenda during the meeting.
+In advance of each meeting, we will:
+1. Provide a summary of key topics 
+1. Pick a topic with multiple view points and recap the conversation in greater detail
 
-CEO Skips play a key role in cascading what is happening in the business and communicating key implications for teams and team members. After each CEO Skip Meeting, CEO Skip members should:
+The Agenda will be organized by meeting topics. Designated Functional Leader team members who led or participated in specific sessions may be asked to provide written summaries and flag highlights. Participants should review the meeting material in advance of the meeting. They can put their comments and questions below each summary. We will run through the agenda during the meeting.
+
+This time will not work for everyone. The meeting will be privately recorded via Zoom and linked in the meeting agenda.
+
+### Functional Leaders Responsibilities after Meeting
+
+Functional Leaders play a key role in cascading what is happening in the business and communicating key implications for teams and team members. After each Functional Leaders Meeting, participating team members should:
 1. Identify key changes or information of greatest relevance to their teams
 1. Reach out to their manager if they have unresolved questions
 1. Recognize any sensitivities and think about how best to frame messaging to the team
 1. Communicate key insights and asks for team members
 1. Help to operationalize any asks or decisions that have been made
 
+### Logistics for Functional Leaders Meeting
+
 This Zoom call is a separate invite.
-The EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting CEO Skips.
+The EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting Functional Leaders.
 The CoS to the CEO will moderate the call.
 
-The CoS to the CEO is responsible for meeting material. The CoS to the CEO will share the meeting recap material no later than 72 business hours after the offsite concludes and at least 48 hours in advance of the CEO-Skips Meeting. Material will include an event summary and a highlight video message from the CEO. The highlight video is intended to set context async as we do not present in the meeting. All materials will be signed off on by the legal team in advance of sharing. 
+The CoS to the CEO is responsible for meeting material. The CoS to the CEO will share the meeting recap material no later than 72 business hours after the offsite concludes and at least 48 hours in advance of the mettig. Material will include an event summary and may include a highlight video message from the CEO or others. All materials will be signed off on by the Legal Team in advance of sharing. 
 
-A version of the notes shared with CEO Skips will be shared with all team members within 4 business days of a CEO Skips Meeting. The CoST to the CEO prepares materials excluding CEO-Skip Q&A or any [material non-public information](/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. CEO-Skips are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
-
-### CEO-Skips Async Debrief
-
-The debrief for the 2021-06-29 to 2021-06-30 E-Group Offsite was conducted async. This was because this was a shorter offsite, so there was less information to share. 
+A version of the notes shared with Functional Leaders may be shared with all team members within 4 business days of a Functional Leader eeting. The CoST to the CEO prepares materials excluding Functional Leadering Meeting Q&A or any [material non-public information](/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. Functional Leaders are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
 
 ## Content Choice
 
