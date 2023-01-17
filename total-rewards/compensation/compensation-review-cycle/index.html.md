@@ -115,6 +115,8 @@ Recommendations from Total Rewards for discretionary cash compensation increases
 * Performing in role = up to 4% increase
 * Exceeding in role = up to 8% increase
 
+These recommendations should be considered the single source of truth if different from what is shown in the Workday planning grid.
+
 <span style="color:red">**Actual cash compensation increases may vary (up or down) from these percentages.**</span> These guidelines are meant to help ensure company-wide consistency. Actual increases may vary based on:
 
 * Changes to local market rates
