@@ -36,7 +36,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. **Back-end services** is now an epic at the **Core** group level. Using the breadcrumbs at the top of the page, click your **Core** subgroup.
 1. In the left pane, click **Epics**.
 1. Click into your new **Back-end services** epic.
-1. You'd like to link the epic's To-Do items as individual issues. Under the **Epics and Issues** tab, click **Add > Add a new issue**.
+1. You'd like to link the epic's To-Do items as individual issues. Under the **Child Issues and Epics** tab, click **Add > Add a new issue**.
 1. Enter `Create DB` as the issue title. 
 1. In the **Project** dropdown, select **Family Budget Calculator**, as it is the only project created so far, and all issues must belong to a project.
 1. Click **Create issue**.
@@ -66,7 +66,6 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. In the upper right corner of the group landing page, click **New Project**.
 1. Click **Create blank project**.
 1. Enter `Description Templates` as the project name. This project will hold templates that can be used to pre-populate issues and merge requests across the organization.
-1. Enter `Organization-wide issue and merge request templates` as the project description.
 1. Enable the **Initialize repository with a README** checkbox.
 1. Click **Create project**.
 1. On the project landing page, click the **(+)** dropdown near the top of the page under the project title.
@@ -96,7 +95,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Using the breadcrumbs at the top of the page, navigate back to your **DigiBit Technologies** group.
 1. In the left pane, click **Settings > General**.
 1. Scroll to the **Templates** section and select **Expand**.
-1. In the **Select a template repository dropdown**, select your **Description Templates** project.
+1. In the **Select a template repository** dropdown, select your **Description Templates** project.
 1. Click **Save changes**.
 1. Now the template can be applied when creating an issue. Navigate to your **DigiBit Technologies > Software > Core > Database** project.
 1. In the left pane, click **Issues**.
