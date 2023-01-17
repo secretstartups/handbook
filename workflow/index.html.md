@@ -185,9 +185,8 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
      * To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow-up.
 1. Apply the `Pick into auto-deploy` label (along with the needed `severity::1` and `priority::1`) to make sure deployments are unblocked.
-1. If the broken `master` incident affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
-   open new merge requests **directly against the stable branches** which are
-   broken and ping the current release manager in the merge requests to avoid
+1. If the broken `master` incident affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>) or is caused by a flaky failure,
+   open new merge requests **directly against the active stable branches** and ping the current release manager in the merge requests to avoid
    delays in releases / security releases.
    See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
 1. Communicate in `#master-broken` when the fix was merged
