@@ -177,7 +177,7 @@ The CEO's KRs are what we're measuring for the company for that quarter.
 While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/company/kpis/) are how we're consistently measuring how we're doing as an organization.
 KPIs occur at multiple [layers](/company/kpis/#layers-of-kpis) and have [multiple parts](/company/kpis/#parts-of-a-kpi).
 The CEO maintains [an index of GitLab KPIs and links to where they are defined](/company/kpis/).
-There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating-an-existing-kpi) by adding, removing, or changing a KPI.
+There is a process for [updating the list](/company/kpis/) by adding, removing, or changing a KPI.
 
 ## General Group Conversation
 
