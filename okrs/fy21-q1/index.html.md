@@ -61,7 +61,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
     1. **CRO: Implement Phase 2 of the 5C Sales talent Model to allow for raising the bar with hiring talent for NQR and OQR roles.**
         1. CRO KR: Initiate phase 2 of the 5C Sales Talent Model and expand to all NQR and OQR roles.=> 20% full revamp and iterations taking place to align with [Sales Enablement Field Competencies](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/414).
         1. CRO KR: 100% of applicants that make it to team interview have gone through the 5C Sales Talent Model Interview process. => 0% due to delay mentioned above.
-1. CEO KR: Renewal process satisfaction, as measured by [SSAT](/handbook/ceo/kpis/#satisfaction) for tickets about renewals, is greater than 95%.
+1. CEO KR: Renewal process satisfaction, as measured by [SSAT](/company/kpis/#satisfaction) for tickets about renewals, is greater than 95%.
     1. **Director of Product, Growth: Improve the customer experience with billing related workflows.** [gitlab-com&263](https://gitlab.com/groups/gitlab-com/-/epics/263)
         1. Director of Product, Growth KR: Make material improvements to direct signup, trial, seat true-up, upgrade, and renewal workflows, both for .com and self-managed customers. [gitlab-com/Product#725](https://gitlab.com/gitlab-com/Product/issues/725)
         1. Director of Product, Growth KR: Drive [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) scores, filtered for billing, to >95%. [gitlab-com/Product#726](https://gitlab.com/gitlab-com/Product/issues/726)

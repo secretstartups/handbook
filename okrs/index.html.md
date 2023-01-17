@@ -23,7 +23,7 @@ All our OKRs are public and listed on the pages below.
 ## What are OKRs?
 
 [OKRs](https://en.wikipedia.org/wiki/OKR) stand for Objectives and Key Results and are our quarterly objectives.
-OKRs are _how_ to achieve the goal of the Key Performance Indicators [KPIs](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"}.
+OKRs are _how_ to achieve the goal of the Key Performance Indicators [KPIs](/company/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"}.
 They lay out our plan to execute our [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} and help make sure our goals and how to achieve them are clearly defined and aligned throughout the organization.
 
 **Objectives** are an aspirational goal to be achieved. They define *what* we're aiming to do, and they show how individual, team, or department work impacts the overall direction of GitLab by connecting work to overall company strategy.
@@ -133,7 +133,7 @@ If there is something important that requires two (or more) parts of our organiz
 ### OKRs are what is different
 
 The OKRs are what we are focusing on this quarter specifically. Our most important work are things that happen every quarter.
-Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis){:data-ga-name="key performance indicators"}{:data-ga-location="body"}.
+Things that happen every quarter are measured with [Key Performance Indicators](/company/kpis/){:data-ga-name="key performance indicators"}{:data-ga-location="body"}.
 Part of the OKRs will be or cause changes in KPIs.
 
 ### Pass-thru Key Results
@@ -237,7 +237,7 @@ GitLab entries should include the following fields:
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
 1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}. Other key team members and their roles can also be captured in this section.
 1. **Action Items:** a list of 3-10 key action items for achieving the target. You can consider using checkboxes or a chart to help communicate progress.
-1. **Scoring**: your KR should be a statement that clearly indicates how you will score final achievement at the end of quarter. If it is, this section is not needed. When how the KR will be scored isn't immediately clear from the KR itself, details on how scoring will work should be documented according to [scoring guidelines](/okrs/#scoring-okrs){:data-ga-name="OKRs"}{:data-ga-location="body"}. 
+1. **Scoring**: your KR should be a statement that clearly indicates how you will score final achievement at the end of quarter. If it is, this section is not needed. When how the KR will be scored isn't immediately clear from the KR itself, details on how scoring will work should be documented according to [scoring guidelines](/company/okrs/#scoring-okrs){:data-ga-name="OKRs"}{:data-ga-location="body"}. 
 
 ### The quarter begins
 
