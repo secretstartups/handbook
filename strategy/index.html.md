@@ -229,7 +229,7 @@ Legend with links to the relevant metrics:
 1. [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo){:data-ga-name="spo"}{:data-ga-location="body"} increase Turbo which is only possible in a [single application with multiple stages](/handbook/product/single-application/){:data-ga-name="single application with multiple stages"}{:data-ga-location="body"}
 1. More [Licensed users](/handbook/sales/#licensed-users){:data-ga-name="licensed users"}{:data-ga-location="body"} is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo){:data-ga-name="spo"}{:data-ga-location="body"} leading to a higher conversion from free to paid and a higher gross retention.
 1. Higher [Revenue per licensed user](/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu){:data-ga-name="revenue per licensed user"}{:data-ga-location="body"} due to the [Advantages of a single application](/handbook/product/single-application/){:data-ga-name="advantages of a single application"}{:data-ga-location="body"}
-1. [Net ARR](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.a35sth38hahw) stands for Annual Recurring Revenue is our [most important KPI](/handbook/ceo/kpis/#gitlab-kpis){:data-ga-name="most important kpi"}{:data-ga-location="body"}
+1. [Net ARR](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.a35sth38hahw) stands for Annual Recurring Revenue is our [most important KPI](/company/kpis/#gitlab-kpis){:data-ga-name="most important kpi"}{:data-ga-location="body"}
 1. [ARR](/handbook/sales/#annual-recurring-revenue-arr){:data-ga-name="ARR"}{:data-ga-location="body"} stands for Annual Recurring Revenue and IACV increases it.
 1. R&D spend ratio becomes higher if the growth rate is higher due to the [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/){:data-ga-name="hypergrowth rule"}{:data-ga-location="body"}
 1. R&D investment is the amount of money spend on Product Management and Engineering excluding Support
@@ -237,7 +237,7 @@ Legend with links to the relevant metrics:
 
 ## Publicly viewable OKRs and KPIs
 
-To make sure our goals are clearly defined and aligned throughout the organization, we make use of [Objectives and Key Results (OKRs)](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"} and [Key Performance Indicators (KPIs)](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"} which are both publicly viewable. 
+To make sure our goals are clearly defined and aligned throughout the organization, we make use of [Objectives and Key Results (OKRs)](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"} and [Key Performance Indicators (KPIs)](/company/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"} which are both publicly viewable. 
 
 ## North Star KPI
 
