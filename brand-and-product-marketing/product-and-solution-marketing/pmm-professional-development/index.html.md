@@ -38,7 +38,7 @@ Below are a list of resources and links to suggested professional development to
    
 1. DevOps
    1. **Videos and Webpages**
-      -[GitLab DevOps](https://about.gitlab.com/devops/)
+      -[GitLab DevOps](https://about.gitlab.com/topics/devops/)
        (Specifically the resources list at the bottom)
    1. **Courses:**
 

@@ -80,7 +80,7 @@ Related Reading:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/concurrent-devops/)
+            - [Concurrent DevOps](/topics/concurrent-devops/)
             - [Cloud Transformation](/solutions/cloud-native/)
             - Software-defined Infrastructure
             - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
@@ -106,7 +106,7 @@ Related Reading:
           - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
           - [GitLab home page](https://about.gitlab.com)
           - [ROI](/calculator/roi/)
-          - [Concurrent DevOps](/concurrent-devops/)
+          - [Concurrent DevOps](/topics/concurrent-devops/)
           - Software-defined Infrastructure
           - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
           - [Geographically distributed teams](/features/gitlab-geo/)
@@ -125,7 +125,7 @@ Related Reading:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/concurrent-devops/)
+            - [Concurrent DevOps](/topics/concurrent-devops/)
             - [Auto DevOps](/stages-devops-lifecycle/auto-devops/)
             - [Geographically distributed teams](/features/gitlab-geo/)
             - [High availability development](/high-availability/)
