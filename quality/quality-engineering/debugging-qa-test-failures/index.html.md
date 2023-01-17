@@ -44,14 +44,15 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines)                 | Smoke and Reliable            | [after the execution of post-deploy migrations in Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD)   | [Staging Sanity](https://storage.googleapis.com/gitlab-qa-allure-reports/staging-sanity/master/index.html) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines)                 | Smoke and Reliable (No Admin) | [Every 4 hours](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules). This is useful to catch issues [when `requires_admin` tag is missed](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3678#note_514281399) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) | [Staging Sanity - No Admin](https://storage.googleapis.com/gitlab-qa-allure-reports/staging-sanity-no-admin/master/index.html) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines)                 | Geo                           | [Daily at 14:00 UTC](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) | Reported to Slack |
-| [Staging-Canary](https://ops.gitlab.net/gitlab-org/quality/staging-canary/pipelines)   | Smoke and Reliable            | [after each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) | Reported to Slack |
+| [Staging-Canary](https://ops.gitlab.net/gitlab-org/quality/staging-canary/pipelines)   | Smoke and Reliable            | [after each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) | [Staging-Canary](https://storage.googleapis.com/gitlab-qa-allure-reports/staging-canary-sanity/master/index.html) |
 | [Staging-Canary](https://ops.gitlab.net/gitlab-org/quality/staging-canary/pipelines)   | Smoke and Reliable (No Admin) | [Every 4 hours](https://ops.gitlab.net/gitlab-org/quality/staging-canary/pipeline_schedules). This is useful to catch issues [when `requires_admin` tag is missed](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3678#note_514281399) | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) | Reported to Slack |
-| [CustomersDot Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to CustomersDot Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) [`#s_fulfillment_status`](https://gitlab.slack.com/messages/CL7SX4N86) | Reported to Slack |
+| [CustomersDot Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to CustomersDot Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) [`#s_fulfillment_status`](https://gitlab.slack.com/messages/CL7SX4N86) | [CustomersDot Staging](https://storage.googleapis.com/gitlab-qa-allure-reports/cdot-e2e-staging/main/index.html) |
 | [Staging Ref](https://ops.gitlab.net/gitlab-org/quality/staging-ref/pipelines)         | Smoke and Reliable            | [after each deployment to Staging Ref](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). | [`#qa-staging-ref`](https://gitlab.slack.com/archives/C02JGFF2EAZ) | [Staging Ref Sanity](https://storage.googleapis.com/gitlab-qa-allure-reports/staging-ref-sanity/master/index.html)  |
 | [Staging Ref](https://ops.gitlab.net/gitlab-org/quality/staging-ref/pipelines)         | Full                          | [After each deployment to Staging Ref](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). | [`#qa-staging-ref`](https://gitlab.slack.com/archives/C02JGFF2EAZ) | [Staging Ref Full](https://storage.googleapis.com/gitlab-qa-allure-reports/staging-ref-full/master/index.html)  |
-| [Preprod](https://ops.gitlab.net/gitlab-org/quality/preprod/pipelines)                 | Smoke, Reliable               | [Every month for a few days before release, at 03:00 UTC](https://ops.gitlab.net/gitlab-org/quality/preprod/-/pipeline_schedules) and after [deployment to preprod](/handbook/engineering/infrastructure/environments/#pre) during Security and Patch releases | [`#qa-preprod`](https://gitlab.slack.com/archives/CR7QH0RV1) | Reported to Slack |
-| [Nightly packages](https://gitlab.com/gitlab-org/quality/nightly/pipelines)            | Full                          | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/quality/nightly/pipeline_schedules) | [`#qa-nightly`](https://gitlab.slack.com/messages/CGLMP1G7M) | Reported to Slack |
-| [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines)                      | Full                          | When the `package-and-test` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://storage.googleapis.com/gitlab-qa-allure-reports/e2e-package-and-test/master/index.html) |
+| [Preprod](https://ops.gitlab.net/gitlab-org/quality/preprod/pipelines)                 | Smoke, Reliable               | [Every month for a few days before release, at 03:00 UTC](https://ops.gitlab.net/gitlab-org/quality/preprod/-/pipeline_schedules) and after [deployment to preprod](/handbook/engineering/infrastructure/environments/#pre) during Security and Patch releases | [`#qa-preprod`](https://gitlab.slack.com/archives/CR7QH0RV1) | [Preprod](https://storage.googleapis.com/gitlab-qa-allure-reports/preprod-sanity/master/index.html) |
+| [Nightly packages](https://gitlab.com/gitlab-org/quality/nightly/pipelines)            | Full                          | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/quality/nightly/pipeline_schedules) | [`#qa-nightly`](https://gitlab.slack.com/messages/CGLMP1G7M) | [Nightly](https://storage.googleapis.com/gitlab-qa-allure-reports/nightly/master/index.html) |
+| [GitLab `master` package-and-test](https://gitlab.com/gitlab-org/gitlab/pipelines)     | Full                          | When the `package-and-test` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://storage.googleapis.com/gitlab-qa-allure-reports/e2e-package-and-test/master/index.html) |
+| [GitLab `master` review app](https://gitlab.com/gitlab-org/gitlab/pipelines)                      | Smoke, Reliable                | When the `review-app` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://storage.googleapis.com/gitlab-qa-allure-reports/e2e-review-qa/master/index.html) |
 
 For each pipeline there is a notification of success or failure (except for `master` pipelines, which only report failures).
 If there's a failure, we use emoji to indicate the state of its investigation:
@@ -81,7 +82,7 @@ After triaging failed tests, possible follow up actions are:
 
 ### Report the failure
 
-Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage reponsilibities](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#responsibility) for further guidance.
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage responsibilities](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#responsibility) for further guidance.
 
 If there are multiple failures we recommend that you identify whether each one is new or old (and therefore already has an issue open for it). For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 
@@ -128,9 +129,9 @@ Note when viewing a deployment failure from the `#announcements` Slack channel, 
 
 Click on the diagram below to visit the announcement issue for more context and view an uncompressed image:
 
-[![Pipeline Reorder](/handbook/engineering/releases/gitlab-com-deployment-pipeline.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
+[![Pipeline Reorder](https://gitlab.com/gitlab-com/gl-infra/delivery/uploads/a1a22a36718ca6deec8a7bcadf894484/Screen_Shot_2022-01-21_at_14.39.13.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
 
-Note the diagram has been upadted as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
+Note the diagram has been updated as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
 
 #### Special considerations for Preprod
 
@@ -144,14 +145,29 @@ Tests pipelines are also triggered by the [Kubernetes Workload configuration pro
 This can cause the nightly tests to either run against an outdated package or fail during the `ce:sanity-version` and `ee:sanity-version` jobs when mirroring is down.
 
 The `#quality` Slack channel should receive two notifications:
+
 1. An announcement from the release team when the security release has started.
-2. A notification from GitLab Chatops when the security release has been published.
+2. A notification from GitLab ChatOps when the security release has been published.
 
 For other ways to check if there is an ongoing security release, you can visit the `#releases` Slack channel's `Next Security Release` bookmark, or [search the GitLab project's issues
-by the `~"upcoming security release"` label](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=upcoming%20security%20release&first_page_size=20). 
+by the `~"upcoming security release"` label](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=upcoming%20security%20release&first_page_size=20).
 
-Please note that a security release issue can sometimes be created before a release is in progress. 
-If you have any questions on the status, you can also reach out to the `@release-managers` in Slack. 
+Please note that a security release issue can sometimes be created before a release is in progress.
+If you have any questions on the status, you can also reach out to the `@release-managers` in Slack.
+
+#### Special considerations for `master` pipelines
+
+GitLab `master` has 2 QA pipelines generated from scheduled pipeline against the default branch:
+
+- [`package-and-test`](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/#using-the-package-and-test-job) runs the `full` suite of end-to-end tests against an omnibus Docker image built from `master`
+- [`review app`](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/#using-the-review-qa-all-jobs) runs `reliable` and `smoke` suites of end-to-end tests against a Review App based on the official GitLab Helm chart, itself deployed with custom Cloud Native components built from `master`
+
+If `review app` failed to deploy and all specs didn't run or did run and failed, check the `#review-apps-broken` channel to see if it's a known issue, or reach out to the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure). To debug further you can [dig into Kubernetes deployment logs](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#dig-into-a-pods-logs).
+
+If jobs in `package-and-test` failed due to a GitLab Docker image issue, reach out to the [Distribution team](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/) to see if it's a known problem with the build.
+
+Note that any failure in `master` QA pipeline will be deployed to Staging, so catching a failure earlier in the pipeline allows us to
+find what changes caused it and act on resolving the failure more quickly.
 
 ### Review the failure logs
 
@@ -302,10 +318,10 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
         - If the commit is found, the MR is in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=add-share-with-group-to-modal).
         - If no results, the MR is not in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=qa-shl-add-requries-admin).
 
-### Identifying commit that introduced a failure 
+### Identifying commit that introduced a failure
+
 - While triaging failures we often may want to find which specific commit was the one that introduced the failure. While we may sometimes be able to identify this by reviewing the recent commit history, in other cases this may be more obscure. To quickly identify where the failure was introduced [git bisect](https://git-scm.com/docs/git-bisect) can be quite useful.
 - A demo on using git bisect can be found in [Training Videos](#training-videos).
-
 
 ### Classify and triage the test failure
 
@@ -567,7 +583,7 @@ These videos walking through the triage process were recorded and uploaded to th
 - [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
   - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
 - [Quality Engineering: Failure Triage - Using git bisect to identify commit that introduced a failure](https://www.youtube.com/watch?v=ZvrOF5Bx2Bo)
-  - A demo on how to use to git bisect to idenitfy which commit introduced a test failure 
+  - A demo on how to use git bisect to identify which commit introduced a test failure
 
 ## Other references
 
