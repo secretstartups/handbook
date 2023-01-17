@@ -9,7 +9,7 @@ operations"
 As a Data Engineer in Corporate Development, you'll be in charge of developing
 innovative technical solutions to automate, scale, and streamline business
 operations; helping the Corporate Development team achieve its
-[OKRs](/company/okrs/) and [KPIs](/handbook/ceo/kpis/). Your main focus will be
+[OKRs](/company/okrs/) and [KPIs](/company/kpis/). Your main focus will be
 our acquisition prospect
 [scoring program](https://gitlab.com/gitlab-com/corporate-development/issues/1).
 The program will scrape data from websites, blogs, Twitter, etc., and integrate

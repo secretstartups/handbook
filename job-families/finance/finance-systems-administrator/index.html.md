@@ -110,7 +110,7 @@ The Manager, Finance Systems Administrator is a [grade 8](/handbook/total-reward
 
 ## Performance Indicators
 
-- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](/handbook/ceo/kpis/#finance-kpis).
+- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](/company/kpis/#finance-kpis).
 
 ## Career Ladder
 

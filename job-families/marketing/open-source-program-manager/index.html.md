@@ -51,4 +51,4 @@ The next step in the Open Source Programs job family is not yet defined at GitLa
 
 ## Key Performance Indicators
 
-A [Key Performance Indicator](/handbook/ceo/kpis/) for this role is the number of Open Source projects and developers moving to GitLab per quarter.
+A [Key Performance Indicator](/company/kpis/) for this role is the number of Open Source projects and developers moving to GitLab per quarter.
