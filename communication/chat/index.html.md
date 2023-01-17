@@ -138,6 +138,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_moscow`](https://app.slack.com/client/T02592416/CK9LK96LE) |  |
 | [`#loc_mt`](https://app.slack.com/client/T02592416/C01J5BAPPU4) | Montana GitLab Team Members |
 | [`#loc_munich`](https://app.slack.com/client/T02592416/CM25953MH) | As of today none of us seems to be living in Munich. But there are Meetups and Events and maybe also occasions to meet in Munich for some co-working. Here we can team up. |
+| [`#loc_n-ireland`](https://gitlab.slack.com/archives/C03V4FEEQE7) | N.Ireland slack channel, so it is |
 | [`#loc_nashville`](https://gitlab.slack.com/archives/loc_nashville) | Nashvillians Unite! |
 | [`#loc_newengland`](https://app.slack.com/client/T02592416/CJV0FMCH4) | Channel for those located in New England |
 | [`#loc_nigeria`](https://app.slack.com/client/T02592416/CDB11DSRH) |  |
@@ -177,6 +178,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_tokyo`](https://app.slack.com/client/T02592416/CJEML22JD) | Location: Tokyo, Japan |
 | [`#loc_toronto`](https://app.slack.com/client/T02592416/CP3UKJ9Q9) | This is a channel for the Toronto team members. |
 | [`#loc_turkey`](https://app.slack.com/client/T02592416/CSCVC7Q4E) | This is a slack channel for Turkey |
+| [`#loc_uk`](https://gitlab.slack.com/archives/C0SQZ6D5Y) | For folks living, visiting, or interested in the United Kingdom |
 | [`#loc_us_mid-atlantic`](https://app.slack.com/client/T02592416/C03QETSKEKY) | [US Mid-Atlantic states](https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)) |
 | [`#loc_vegas`](https://app.slack.com/client/T02592416/CLKCQFKC3) | Are you visiting Vegas soon for fun or a conference? Connect with Vegas locals here for coffee meet-ups or recommendations! |
 | [`#loc_vermont`](https://app.slack.com/client/T02592416/C03D8PUMHRS) | For our sole Vermonter ❤️ |
