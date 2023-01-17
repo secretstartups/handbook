@@ -49,9 +49,13 @@ In preparing key messages to be shared with all team members, we ask all departm
     - Kayla Golden, Senior Program Manager, People Communications & Engagement
     - Devin Rogozinski, Senior Director, Talent Brand & Engagement
 1. Upon receiving the project brief, our People Communications & Engagement team will socialize the need with the #comms-asks channel to determine who will be a DRI or partner from the People Communications & Engagement team or the broader talent & engagement team assigned to the project.
-1. A communications plan including release timing, cadence, and appropriate channels will be developed.
+1. A [communications plan](https://docs.google.com/document/d/15QN0c6THE2wo_MGkyDi84Dhu3WyiY5p3MJFWfbWUlFQ/edit) including release timing, cadence, and appropriate channels will be developed.
     1. At least ~48 hours advance notice is needed to plan a single message being shared
     1. For more complex internal communications requests, we request at least ~7-10 business days advance notice to effectively collaborate together on a communications plan. We will opt to move more methodically depending on the scope and timeliness of the communication. 
+1. To expedite this process, you can create an initial communications plan [using this template](https://docs.google.com/document/d/15QN0c6THE2wo_MGkyDi84Dhu3WyiY5p3MJFWfbWUlFQ/edit).
+    1. Once you have created the initial communications plan, share it with the People Communications & Engagement team on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with:
+       - Kayla Golden, Senior Program Manager, People Communications & Engagement
+       - Devin Rogozinski, Senior Director, Talent Brand & Engagement
 
 ## People Communications & Engagement channels
 
