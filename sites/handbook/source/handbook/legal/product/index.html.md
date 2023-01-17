@@ -30,3 +30,7 @@ description: "Legal Product team page"
 * [GitLab Licensing and Compatibility](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) contains a list of acceptable licenses covering third-party components used in development.
 * For Engineering requests related to use of third-party software or questions related to acceptable use of open source licenses, open a [Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) and include applicable information related to the request.
 * Visit [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/#using-open-source-libraries) for helpful information including [Acceptable Licenses](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses).
+
+## Cleanroom Development Process
+
+* Visit this guidance (accessible to team members only) for further information on the [Cleanroom Development Process](https://internal-handbook.gitlab.io/handbook/engineering/cleanroom-development/).
