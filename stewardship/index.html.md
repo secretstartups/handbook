@@ -57,7 +57,7 @@ It is hard to get [the tier](/handbook/marketing/strategic-marketing/tiers/){:da
 
 All stages of the [DevOps lifecycle](/direction/#scope){:data-ga-name="scope"}{:data-ga-location="body"} have at least some features available in GitLab Core. There are companies using GitLab Core with more than 10,000 users.
 
-If people ask us why a certain feature is paid we might reply with a [link to this section of the handbook](/stewardship#what-features-are-paid-only){:data-ga-name="paid only features"}{:data-ga-location="body"}. We do not mean to imply you don't need the feature. Feel free to [make the argument](../pricing/#changing-tiers-and-pricing-changes){:data-ga-name="make the argument"}{:data-ga-location="body"} for moving it to another tier, we're listening.
+If people ask us why a certain feature is paid we might reply with a [link to this section of the handbook](/company/stewardship/){:data-ga-name="paid only features"}{:data-ga-location="body"}. We do not mean to imply you don't need the feature. Feel free to [make the argument](../pricing/#changing-tiers-and-pricing-changes){:data-ga-name="make the argument"}{:data-ga-location="body"} for moving it to another tier, we're listening.
 
 If the wider community contributes a feature that is currently source-available we use the process linked in
 [Contributing an existing feature to open-source it](#contributing-an-existing-feature-to-open-source-it){:data-ga-name="contributing an existing feature"}{:data-ga-location="body"}.
