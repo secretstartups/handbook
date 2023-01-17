@@ -302,7 +302,7 @@ Every team member located in the state of California will be required to read, r
 
 ### Connecticut Law Requirements
 
-Every team member located in the state of Connecticut is required to take the 2 hour Anti Harassment Training for Supervisors in California. This training is to be completed by all individual contributors as well as managers.
+Every team member located in the state of Connecticut is required to take the 2 hour Anti Harassment Training for Supervisors. This training is to be completed by all individual contributors as well as managers.
 
 ### Maine Law Requirements
 
