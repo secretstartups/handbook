@@ -52,7 +52,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Leave all other fields as they are, and click **Create epic**.
 1. Return to the group's full list of epics by clicking **Epics** in the breadcrumbs at the top of the page.
 1. Click into the **Feature Category: Retirement Planning** epic.
-1. You will now designate the **Investment Tracking** epic as a child of the **Retirement Planning** epic. In the **Epics and Issues** tab, click the **Add** drop-down menu, and click **Add an existing epic**.
+1. You will now designate the **Investment Tracking** epic as a child of the **Retirement Planning** epic. In the **Child issues and Epics** section, click the **Add** drop-down menu, and click **Add an existing epic**.
 1. Type `&` in the field provided, and select **Investment Tracking** from the list of epics.
 1. Click **Add** to link **Investment Tracking** as a child epic to the **Retirement Planning** parent epic.
 
