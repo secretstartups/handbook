@@ -51,16 +51,13 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
     - Take the `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
     - For roles not in the compensation calculator: Leave blank if not known. The Total Rewards team will edit as the first level of approval. The Total Rewards will pull survey data in San Francisco for this role then apply the same formula for `0.45` on the low end and `0.8` on the high end.
-1. `Colorado Salary` `NY/NJ Salary` and will be input by the Total Rewards Team if the role accepts US applicants, unless the role is state-specific outside of Colorado, New York, and New Jersey (eg. a sales role that will only hire in Florida and Georgia). Recruiters can use `0-1` as the range as a placeholder when submitting the req for approval. 
+1. `CO/WA Salary Range` `CA/NY/NJ Salary` and will be input by the Total Rewards Team if the role accepts US applicants, unless the role is state-specific outside of Colorado, New York, and New Jersey (eg. a sales role that will only hire in Florida and Georgia). Recruiters can use `1-1` as the range as a placeholder when submitting the req for approval. The Recruiter will use the approved ranges from Total Rewards in their job post.
 1. Scroll down to the `Openings Secton`
 1. Click `Generate Opening IDs` to create an opening ID
 1. Enter the `Target Start Date` as listed on the GitLab Hiring Plan
 1. Enter the `Hiring Manager`
 1. Under `Type` choose if this is a _New Hire_ or a _Backfill_. If you select _Backfill_, please enter the name of the teammate you are backfilling on the line below.
 1. Enter the `GHP ID` listed on the GitLab Hiring Plan
-1. For roles that accept US applicants, at the bottom of your job post, manually edit and enter the range for the listed role and level for both Colorado and NY/NJ, listed as `$XX,X00 - $XXX,X00` in the template paragraph listed below. To find this range, go to the `Colorado Range` and `New York/New Jersey Range` field in the Job Details, and paste it into the template section. You do not need to do this step if you will only be advertising your req in specific states (eg. a sales role that is only for Florida and Georgia).
-
->Template: The base salary range for this role’s listed level is currently $XX,X00 - $XXX,X00 for Colorado residents and $XX,X00 - $XXX,X00 for New York and New Jersey residents only. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our benefits and equity. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.
 
 1. Click `Create Job & Continue`.
 1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ. The Recruiter will pdate the scorecard after the kick-off Session.
@@ -101,6 +98,7 @@ Additional details about our process can be found on our [hiring page](/handbook
     - `Post To` should always be `Internal`.
     - `Location` is automatically set to `Remote`. If there is additional location information you'd like to add that should be included in the Job Name.
     - `Application Language` should always be `English`.
+    - `Pay transparency rules` should always be `N/A`, because we do not post salary ranges on internal positions.
     - `Description` should be the copy/pasted from the job family on GitLab.com with the relevant information for the level/specialty/etc.
     - Be sure to add the Compensation section as a header and hyperlink the `view our handbook` to the correct job family link:
     Compensation
@@ -111,7 +109,6 @@ Additional details about our process can be found on our [hiring page](/handbook
 1. Settings
     - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
     - Application Confirmation Page: Default
-    - Uncheck `Include Custom Demographic Questions`
     - Uncheck `Include EEOC Questions`
     - Uncheck `Include 'Apply with SEEK' button`
 1. Click `Save`.
@@ -126,6 +123,23 @@ New Job Alert: TITLE
 Apply internally: LINK
 Review how to make a referral: /handbook/hiring/referral-process/
 ```
+#### Post the job externally
+
+1. Create or update the `Job Post` under `Job Setup`, which will hold the opening description. Next to the name of the opening, click the pencil icon to edit the job post.
+    - `Post To` should always be `GitLab`.
+    - `Pay Transparency Rules` will help you post salary ranges to your job description, if applicable. If your job will be posted to locations `Remote, Americas`, `Remote`, or `Remote, US` (any positions posted in the US), you should select `Hiring in the USA`. If this job will not be posted in the US, select `N/A`. 
+1. If this job has been posted before, read over the job description to ensure there is no information detailing salary. This information should be removed because you'll be inserting it through the `Pay Transparency` section below it. Because `Pay Transparency` is a new section, this is an important step to ensure clean job posts. 
+1. If the `Pay Transparency` section is visible, add the CO/WA and CA/NY/NJ salary ranges that you see on the Approvals page. 
+1. All external job posts should ask the folowing custom application questions, which should be part of your job template: 
+    - Please choose the country in which you are located.
+    - What's the name you'd prefer us to use throughout the interview process? 
+    - Will you now or in the future require sponsorship for a visa to remain at your current location?
+    - Were you referred by a current GitLab team member? If so, please write their name below.
+    - Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past employer?
+    - It is important to use to create an accessible and inclusive hiring experience. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process. 
+1. Ensure the confirmation box is checked and the email is set to the correct auto-reply.
+1. Add EEOC questions only if your position will be posted in the US.
+1. Uncheck `Apply with SEEK` and `Publish to Indeed`
 
 #### Using job posting rules in Greenhouse
 
