@@ -162,18 +162,21 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
 * If a team member is eligible for GitLab Parental Leave, but ineligible for State Maternity/Adoptive/Paternity/Parent’s benefit from the DSP, they will receive 100% of their pay from GitLab for up to a total of 16 weeks of leave taken in the first year after the birth/adoption event. The 16-week balance is per birth or adoption event.
  
 #### State Maternity Leave Payment
-* You may be eligible to receive State [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html) at 245 EUR per week for up to 26 weeks subject to your PRSI contributions.
+* You may be eligible to receive State [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html) at €250 per week for up to 26 weeks subject to your PRSI contributions.
+ * Effective 2023 the PRSI contributions will increase to €262/week.
 * To apply for State Maternity Benefit, please notify leaves@gitlab.com of the start and end date of your leave.
  * The Absence Management team will then send you a completed [MB2 form]( https://assets.gov.ie/10309/8753cb545c3a4e4890dda6f3ff69e310.pdf).
  * Submit your application via the [Maternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-maternity-benefit/) at least 6 weeks before you intend to start your leave.
  
 #### State Adoptive Leave Payment
-* You may be eligible to receive State [Adoptive Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/adoptive_benefit.html) at 245 EUR per week for up to 24 weeks subject to your PRSI contributions. 
+* You may be eligible to receive State [Adoptive Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/adoptive_benefit.html) at €250 per week for up to 24 weeks subject to your PRSI contributions. 
+ * Effective 2023 the PRSI contributions will increase to €262/week.
 * To apply for State Adoptive Benefit, please notify leaves@gitlab.com of the start and end date of your leave.
 * Submit your application via the [Adoptive Benefit gov.ie website](https://www.gov.ie/en/service/295b84-adoptive-benefit/) at least 6 weeks before you intend to start your leave.
  
 #### State Paternity Leave Payment
-* You may be eligible to receive State [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) at 245 EUR per week for up to 2 weeks subject to your PRSI contributions. 
+* You may be eligible to receive State [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) at 250 EUR per week for up to 2 weeks subject to your PRSI contributions.
+ * Effective 2023 the PRSI contributions will increase to €262/week. 
 * To apply for State Paternity Benefit, please notify leaves@gitlab.com of your child's due date.
  * The Absence Management team will then send you a completed [PB2 form](https://assets.gov.ie/10312/a293b948613c41edaeb84ae4396725e3.pdf).
  * Submit your application via the [Paternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-paternity-benefit/) at least 4 weeks before you intend to start your leave.
