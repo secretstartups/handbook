@@ -3,7 +3,7 @@ layout: job_family_page
 title: Product Manager - Marketing
 ---
  
-The Product Manager - Marketing Job Family educates people on the entire [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/). They communicate the value our [single application](/handbook/product/single-application) allows developers to invent, create, and deploy modern applications. They communicate how GitLab facilitates [Concurrent DevOps](https://about.gitlab.com/concurrent-devops/) so that teams can work simultaneously instead of sequentially, unleashing collaboration across organizations.
+The Product Manager - Marketing Job Family educates people on the entire [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/). They communicate the value our [single application](/handbook/product/single-application) allows developers to invent, create, and deploy modern applications. They communicate how GitLab facilitates [Concurrent DevOps](https://about.gitlab.com/topics/concurrent-devops/) so that teams can work simultaneously instead of sequentially, unleashing collaboration across organizations.
 
 ## Levels
 
