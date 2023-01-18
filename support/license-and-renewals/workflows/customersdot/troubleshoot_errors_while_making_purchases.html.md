@@ -50,8 +50,6 @@ For purchase attempts made on CustomersDot, refer to the tips under [CustomersDo
 
 ### Getting error messages from GCP Logs Explorer
 
-**Note:** CustomersDot logs can be found in Kibana -- see [Getting error messages from CustomersDot Kibana logs](#getting-error-messages-from-customersdot-kibana-logs).
-
 Official Google Documentation for Logs Explorer is found at https://cloud.google.com/logging/docs/view/logs-explorer-interface.  It's helpful to review these docs to gain an understanding of building search queries for more advanced searching.
 
 Login to [GCP Logs Explorer dashboard](https://console.cloud.google.com/logs/query?project=gitlab-subscriptions-prod) (make sure you are viewing `gitlab-subscriptions-prod`).
