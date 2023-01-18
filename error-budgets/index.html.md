@@ -183,7 +183,8 @@ The same applies when a group is renamed or a stage moves: if a group rename was
 
 ### Contract
 
-All feature categories are expected to perform within their Error Budget regardless of traffic share. This ensures a consistent approach to prioritization of reliability concerns.
+Stage groups who have a traffic share of >0.01% in a given month should abide by this contract to balance feature development with reliability development. 
+The traffic share for a stage group is visible on the monthly Error Budget Report. 
 
 Error Budgets should be reviewed monthly as part of the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
@@ -195,7 +196,6 @@ The balance between feature development and reliability development for a featur
 | > 20 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
 
 Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.
-_This is subject to change as Error Budget spend across feature categories decreases._
 
 #### Stage Groups with different error budgets
 
