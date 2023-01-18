@@ -151,12 +151,7 @@ Once a Hiring Manager has determined they want to move forward with a candidate,
 
 If you would like the Hiring Manager to receive an email when the form has been received, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed.
 
-
-### **Step 7: Justification (Engineering Only)**
-
-See [Justification section in offer packages](/handbook/hiring/offers/#justification-section).
-
-### **Step 8: Offer Approval**
+### **Step 7: Offer Approval**
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
 

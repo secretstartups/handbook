@@ -375,7 +375,7 @@ Each role has similar stages, with various interviews within each stage. Below i
 - **References**
   - There are two spots for completed reference checks, one from a former peer and one from a former manager.
 - **Offer**
-  - This is where the Talent Acquisition Team prepares the offer and the offer is approved, and is explored more in detail in the [interviewing section](/handbook/hiring/offers/#offer-package-in-greenhouse) of the handbook.
+  - This is where the Talent Acquisition Team prepares the offer and the offer is approved.
 
 On rare occasion, there may be additional or less stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed, as long as they follow the same names (e.g. there should only be one `Peer Interview 1` across all jobs and not a `Peer Interview 1` on one job and a `Peer Interview One` on another). If there is any doubt or confusion, feel free to reach out to the Talent Acquisition Operations Team.
 

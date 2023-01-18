@@ -149,7 +149,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
     - The talent acquisition team will move the candidate to the "Reference Check" stage in Greenhouse, and email the candidate to request their references' contact details.
     - After the reference checks are completed, the person performing the reference check will input a scorecard in Greenhouse with their findings.
 1. At the same time as starting the reference check process, the talent acquisition team will [start the background check process](/handbook/people-policies/#background-checks).
-1. **Offer package**: After reference calls are completed successfully, the talent acquisition team moves the candidate to the "Offer" stage and submits the [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) in Greenhouse for [approval](/handbook/hiring/greenhouse/#approval-flows).
+1. **Offer package**: After reference calls are completed successfully, the talent acquisition team moves the candidate to the "Offer" stage and submits the offer package in Greenhouse for [approval](/handbook/hiring/greenhouse/#approval-flows).
 1. **CEO interviews**: The CEO may choose to interview candidates in a last round interview after reviewing the offer package.
 1. The recruiter, hiring manager, executive, or CEO should make an **offer** verbally during a call with the candidate, and it will be followed with an official contract as described in [preparing offers and contracts](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/).
 1. The talent acquisition team will, if applicable, add language to the contract that states that employment or engagement is contingent on a valid work permit or visa. A start date should factor in that the approval of a new work permit may take several weeks.
@@ -227,7 +227,7 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 **GitLab Employment Agreements are internal-only.** If an applicant requests to see one or more of our contracts from our Internal-only [Employment Agreements](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#employment-agreements) section, please advise them that we are unable to share them with the applicant. Talent Acquisition and CES may point the applicant to the relevant Benefits handbook section or pages, or direct any specific questions to the relevant internal teams, be it Legal, Total Rewards, or People Ops.
 
-**An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc.) as a private comment in Greenhouse and informs the talent acquisition team on its details depending on what is applicable. The talent acquisition team will create an [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
+**An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc.) as a private comment in Greenhouse and informs the talent acquisition team on its details depending on what is applicable. The talent acquisition team will create an offer package to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
 
 </details>
 
@@ -284,4 +284,4 @@ The talent acquisition team will begin a [background check](/handbook/people-pol
 
 ## After the Interviews
 
-If, at the completion of the interview process, both the candidate and the hiring team wish to move forward with the candidate's application, an [offer](/handbook/hiring/offers/) will need to be prepared.
+If, at the completion of the interview process, both the candidate and the hiring team wish to move forward with the candidate's application, an offer will need to be prepared.
