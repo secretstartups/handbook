@@ -18,7 +18,6 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Interviewing](/handbook/hiring/interviewing/)
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
-- Job Offers and Post-Interview Processes
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Principles](/handbook/hiring/principles/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
