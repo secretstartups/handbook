@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Govern Management Planning
+title: Security Policies and Threat Insights planning
 ---
 
 # On this page
@@ -12,8 +12,6 @@ title: Govern Management Planning
 ## How we do planning
 
 Our milestone planning is handled asynchronously as much as possible. Planning discussions are fluid and ongoing, in general they do not follow a predefined monthly schedule.
-
-This [diagram](diagram.html) was created to (hopefully) help understand the process.
 
 ### Planning Breakdown
 
@@ -251,8 +249,8 @@ discovery process.
 
 **Q:** If an issue has both frontend and backend work how should I weigh it?
 
-**A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
-outlined in the [planning diagrams](diagram.html#plan).
+**A:** Issues that require both frontend and backend work are usually broken into multiple implementation
+issues. An exception is when a single engineer agrees to work on both tech stacks.
 
 
 **Q:** What's the meaning of the emojis in issues?
