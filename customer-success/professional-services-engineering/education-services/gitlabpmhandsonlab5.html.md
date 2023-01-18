@@ -15,7 +15,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. In the issue's metadata pane, click **Edit** next to the **Epic** field. 
 1. Assign this issue to the **Investment Tracking** epic.
 1. In the issue's metadata pane, click **Edit** next to the **Iteration** field. 
-1. Assign this issue to the **Sprint 1** iteration.
+1. Assign this issue to the first most recent iteration in **Team sprints**.
 1. In the issue's metadata pane, click **Edit** next to the **Due date** field. 
 1. Set the issue due date to 1 week from today's date.
 1. In the issue's metadata pane, click **Edit** next to the **Labels** field. 
@@ -23,7 +23,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. In the issue's metadata pane, click **Edit** next to the **Weight** field.
 1. Enter a value of `2`, then click away from the metadata pane to set the issue's weight.
 1. Navigate to **DigiBit Technologies > Software** group. In the left pane, click **Epics**. Click the **Investment Tracking** epic. Note that the **Third-party financial services integration** issue appears in the epic's details page.
-1. In the left pane, click **Issues > Iterations**. Click the **Sprint 1** iteration. Note that the **Third-party financial services integration** issue appears on the iteration's details page.
+1. In the left pane, click **Issues > Iterations**. Click the iteration to which you assigned the issue. Note that the **Third-party financial services integration** issue appears on the iteration's details page.
 
 ### B. Organize, promote, and link issues and epics
 
@@ -36,7 +36,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. **Back-end services** is now an epic at the **Core** group level. Using the breadcrumbs at the top of the page, click your **Core** subgroup.
 1. In the left pane, click **Epics**.
 1. Click into your new **Back-end services** epic.
-1. You'd like to link the epic's To-Do items as individual issues. Under the **Child Issues and Epics** tab, click **Add > Add a new issue**.
+1. You'd like to link the epic's To-Do items as individual issues. Under the **Child issues and epics** tab, click **Add > Add a new issue**.
 1. Enter `Create DB` as the issue title. 
 1. In the **Project** dropdown, select **Family Budget Calculator**, as it is the only project created so far, and all issues must belong to a project.
 1. Click **Create issue**.

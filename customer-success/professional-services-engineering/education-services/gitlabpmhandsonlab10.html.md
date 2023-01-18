@@ -13,6 +13,7 @@ The Kanban and Scrum boards in previous labs showed the *progress* of issues as 
 ### A. Make a milestone representing a waterfall stage
 
 1. Navigate to the **Awesome Software** project.
+1. Click **Issues** and select **Milestones**.
 1. Click **New milestone**.
 1. Title the new milestone `Release 2.0-Dev`
 1. Select today's date as the start date and 1 month from today's date as the due date.

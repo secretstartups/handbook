@@ -8,7 +8,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## LAB 6: USE A MERGE REQUEST TO REVIEW AND MERGE CODE
 
-### A. Set group-level merge request approvals
+### A. Set merge request approval rules
 
 1. Navigate to your **Database** project inside the **Software > Core** subgroup.
 1. In the left pane, click **Settings > General**.
@@ -33,15 +33,11 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Ensure **Create merge request and branch** is checked.
 1. In the **Branch name** field, change the text to read `update-db-docs-perf-tools`.
 1. Click **Create merge request**.
-    
-    On the merge request landing page, see that the merge request title is adapted from the issue title it's linked to. We're going to give it a more descriptive title.
-
-1. Click **Edit** from the top right of the merge request.
-1. Change the **Title** to the following: `Draft: Add performance tools to database documentation`
+1. Set the **Title** to the following: `Draft: Add performance tools to database documentation`
 1. Remove `Closes <ISSUE NUMBER>` from the **Description** field. We want to keep the original issue open for additional work. Enter an optional description in its place.
-1. Verify that you are assigned to the merge request. Also note the label inherited from the issue, and the approval rules inherited from project settings.
+1. Verify that you are assigned to the merge request. Also note any labels inherited from the issue, and any approval rules inherited from project settings.
 1. Click **Save changes**.
-1. From the merge request details page, click **Open in Web IDE** to edit files on the **update-db-docs-perf-tools** branch.
+1. From the merge request details page, select **Code > Open in Web IDE** to edit files on the **update-db-docs-perf-tools** branch.
 1. Click **README.md** from the left file pane.
 1. Paste the following into **README.md**, beginning on line 3.
     
@@ -61,7 +57,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Navigate back to your merge request (hint: the merge request number is linked in the toolbar at the bottom of the Web IDE page).
 1. On the merge request page, click the **Changes** tab to see the changes that will be applied to the project's **main** branch after merge. Here code reviewers can critique individual lines of code and suggest changes.
 1. Navigate back to the **Overview** tab.
-1. In the top right of the page, above the merge request title, click **Mark as ready** to take the merge request out of draft mode.
+1. In the middle of the merge request page, click **Mark as ready** to take the merge request out of draft mode.
 1. Click **Approve** to approve the merge request. Note that the **Merge** button now becomes active since all requisite approvals have been applied.
 1. Scroll down to the comments field and add a comment that reads `Approved. Ready to merge.`
 1. Click **Merge** and observe the merge complete successfully.

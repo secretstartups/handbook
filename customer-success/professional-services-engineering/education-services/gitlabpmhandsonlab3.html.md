@@ -15,8 +15,6 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Note the number of epics, issues, and merge requests indicated in the left pane. These numbers represent work items across all subgroups and projects inside **Gitlab.org**.
 1. In the left pane, click **Epics**. This takes you to a searchable list of epics in **GitLab.org** and all its subgroups.
 1. In the left pane, click **Epics > Roadmap**. Spend a moment scrolling the displayed milestones and open epics.
-1. Click the search bar immediately below the breadcrumb at the top of the page. Type or use autocomplete dropdowns until the search bar contains `Milestone = 14.8`, representing release 14.8 of GitLab. Click the magnifying glass icon at the right of the filter to perform the search. Note the epics associated with this release and their progress over time.
-1. At the top of the roadmap, in the **Milestones** view, click the progress bar representing release **14.8** to be taken to that milestone's details page. Note the milestone's associated issues and merge requests, as well as work progress in the burnup and burndown charts.
 
 ### B. Create an epic and child epic
 
@@ -50,9 +48,9 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
     ```
 
 1. Leave all other fields as they are, and click **Create epic**.
-1. Return to the group's full list of epics by clicking **Epics** in the breadcrumbs at the top of the page.
+1. Return to the Software group's full list of epics by clicking **Epics** in the breadcrumbs at the top of the page.
 1. Click into the **Feature Category: Retirement Planning** epic.
-1. You will now designate the **Investment Tracking** epic as a child of the **Retirement Planning** epic. In the **Child issues and Epics** section, click the **Add** drop-down menu, and click **Add an existing epic**.
+1. You will now designate the **Investment Tracking** epic as a child of the **Retirement Planning** epic. In the **Child issues and epics** tab, select the **Add** drop-down menu, and click **Add an existing epic**.
 1. Type `&` in the field provided, and select **Investment Tracking** from the list of epics.
 1. Click **Add** to link **Investment Tracking** as a child epic to the **Retirement Planning** parent epic.
 
@@ -80,12 +78,14 @@ Iterations are mutually exclusive timeboxes intended to track team velocity, whi
 1. In your subgroup structure, navigate to **DigiBit Technologies > Software**.
 1. In the left pane, click **Issues > Iterations**.
 1. Click **New iteration cadence**.
-1. Title the iteration `Sprint 1` 
-1. In the description, enter `Initial back-end services and documentation`
-1. Select today's date as the automation start date. Select 1 week from today as the duration. Select 2 as the number of upcoming iterations.
-1. Click **Create cadence**.
+1. Title the iteration cadence `Team sprints` 
+1. In the description, enter `Tracking team progress toward minimum viable product`
+1. Select today's date as the iteration cadence's start date. Select 2 weeks as the duration of each iteration. Select 6 for the number of upcoming iterations.
+1. Click **Create iteration**.
+1. Ensure the **Enable roll over** checkbox is selected.
+1. Select **Create cadence**.
 
-You will later assign individual tasks to this iteration.
+You will later assign individual tasks to iterations (sprints).
 
 ### E. Create a wiki for project documentation
 

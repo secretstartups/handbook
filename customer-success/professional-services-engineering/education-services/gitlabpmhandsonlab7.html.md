@@ -57,13 +57,13 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
     - Second list shows issues with the **Status::WIP** label
     - Third list shows issues in the **Back-end services deployed** milestone
 
-1. To work around a GitLab bug, refresh the browser tab that contains your new board.
+1. Refresh the browser tab that contains your new board.
 1. In the **Priority::High** list, click the **(+)** icon to create a new high-priority issue.
 1. Title the issue `Update family budget app personas`
 1. Select **Family Budget Calculator** as the project for the issue to belong to.
 1. Click **Create issue**.
-1. An issue metadata pane should appear on the right side of the page. Assign the issue to your training user if it is not already assigned. Add an additional **Status::Open** label to the issue.
-1. Click the **X** in the top right corner to close out of the issue metadata pane.
+1. An issue details pane should appear on the right side of the page. Assign the issue to your training user if it is not already assigned. Add an additional **Status::Open** label to the issue.
+1. Click the **X** in the top right corner to close out of the issue details pane.
 1. Click the diagonal arrows in the top right of the page to enter *Focus mode*. The rest of the GitLab navigation UI is now hidden, allowing you to focus on issues in the board.
 1. Click the diagonal arrow again to leave Focus mode.
 
