@@ -91,7 +91,7 @@ Our integrated campaign landing pages are currently created on about.gitlab.
 
 * **Use Case integrated campaigns:** These are created in the [`/why/` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/why).
 * **Localized integrated campaigns:** These are created in the subfolder for the language (starting at [`/source/` folder](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source)). For example, if it is a localized use case campaign for France, it would use the subfolder `/fr/` followed by the French traslation for `/why/` (which is `/pourquoi/`) followed by the url structure.
-  * Example: French CI Use Case Integrated Campaign is `https://about.gitlab.com/fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/` whereas the English version is `https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/`.
+  * Example: French CI Use Case Integrated Campaign is `https://about.gitlab.com/fr-fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/` whereas the English version is `https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/`.
 * **Competitive integrated campaigns:** These are created in the [`/compare/` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/compare)
 
 ### Steps to create a new campaign landing page
