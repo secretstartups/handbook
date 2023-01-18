@@ -49,11 +49,13 @@ A: Yes, GitLab publishes [people success KPIs](/handbook/people-group/people-suc
 
 A: An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. View the full definition [here](/company/culture/inclusion/#examples-of-select-underrepresented-groups). 
 
+**Q: Is GitLab certified as a diverse supplier?**
+
+A: GitLab is a publicly traded company (NASDAQ: GTLB) and is not defined as a diverse supplier and is unable to be certified as such, accordingly. Nevertheless, diversity, inclusion, and belonging (DIB) is a [core value](https://about.gitlab.com/handbook/values/) at GitLab. On a daily basis, we strive to keep our operations, employment practices, and supplier selection in line with [this value](https://about.gitlab.com/company/culture/inclusion/). GitLab's [DIB team](https://about.gitlab.com/job-families/people-group/diversity-inclusion-partner/) builds an environment where all team members feel a [sense of belonging](https://about.gitlab.com/job-families/people-group/diversity-inclusion-partner/), which results in a truly inclusive and welcoming work environment. Moreover, GitLab's Procurement team selects potential suppliers with [responsible sourcing and diversity](https://about.gitlab.com/handbook/finance/procurement/) in mind.
 
 **Q: Does GitLab sponsor/fund nonprofit organizations?**
 
 A: GitLab does not currently have a formal corporate giving program. Pending the results of the 2022 materiality assessment, the first iteration of a corporate giving program is planned for 2023. 
-
 
 **Q: Does GitLab donate its product to nonprofits?**
 
