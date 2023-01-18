@@ -28,11 +28,12 @@ Compared to Kanban boards, Scrum boards normally require 2 extra labels to repre
 
 1. Iterations can only exist at the group or subgroup level. Using the breadcrumb trail, navigate to the **PM Workflows** subgroup. 
 1. In the left pane, click **Issues > Iterations**. 
-1. Click **New iteration**. 
+1. Click **New iteration cadence**. 
 1. Title the iteration `Sprint 6` 
 1. Assign today's date as the start date. 
-1. Assign 2 weeks from today as the due date.
-1. Click **Create iteration**.
+1. Assign 2 weeks as the due date of the sprint.
+1. Select 2 as the number of upcoming iterations.
+1. Click **Create cadence**.
 
 ### D. Add some issues to the next sprint
 
@@ -40,7 +41,7 @@ This step simulates the "sprint planning" ceremony, where your team decides whic
 
 1. Navigate to the **Awesome Software** project.
 1. In the left pane, click **Issues**.
-1. Pick a handful of issues that you want to work on in the next sprint and assign them to the **Sprint 6** iteration.
+1. Pick a handful of issues that you want to work on in the next sprint and assign them to the **Sprint 6** first iteration.
 1. Apply the **Status::Sprint Backlog** label to those same issues. You can do this either with the bulk issue edit feature (selecting only the relevant issues), or by visiting each issue's details page.
 
 ### E. Make a Scrum board for the next sprint
@@ -53,7 +54,7 @@ This step simulates the "sprint planning" ceremony, where your team decides whic
 1. Deselect the **Show the Open list** checkbox.
 1. Leave the **Show the Closed list** checkbox selected.
 1. Next to **Scope**, click **Expand**.
-1. In the scope pane, enable the checkbox next to **Scope board to current iteration**.
+1. In the scope pane, click **Edit** near Iteration option. Select **Current iteration**.
 1. Click **Create board**.
 1. Create 3 lists for the Scrum board:
    - the first list shows issues with the **Status::Sprint Backlog** label
