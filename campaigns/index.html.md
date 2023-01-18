@@ -312,7 +312,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/956)
-* [Live landing page](https://about.gitlab.com/fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/)
+* [Live landing page](https://about.gitlab.com/fr-fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/)
 * [Slack](https://gitlab.slack.com/archives/C012N4QKYQY)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfjQ)
 
@@ -326,7 +326,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/809)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/982)
-* [Live landing page](https://about.gitlab.com/de/warum/nutze-continuous-integration-fuer-schnelleres-bauen-und-testen/)
+* [Live landing page](https://about.gitlab.com/de-de/warum/nutze-continuous-integration-fuer-schnelleres-bauen-und-testen/)
 * [Slack](https://gitlab.slack.com/archives/C012QLG1NJD)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfqW)
 
