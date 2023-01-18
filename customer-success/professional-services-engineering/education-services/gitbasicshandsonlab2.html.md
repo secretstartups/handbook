@@ -21,7 +21,11 @@ In this lab you will practice cloning a repository; creating, using, and merging
    ```bash
    git version
    ```
-   If the output prints a version number, Git is installed. If not, consult your instructor for instructions on how to install it on your computer.
+   If the output prints a version number, Git is installed. 
+   
+   If Git is not installed: 
+   - If you are in an instructor-led class, consult your instructor for instructions on how to install it on your computer.
+   - If you are in the self-paced environment, review GitLab Documentation on [Installing Git](https://docs.gitlab.com/ee/topics/git/how_to_install_git/). 
 
 
 ### B. Generate an SSH key
@@ -176,7 +180,7 @@ In this lab you will practice cloning a repository; creating, using, and merging
 
 1. In your local machine’s text editor (not GitLab’s in-browser editor), add this new line to the end of your local copy of `README.md` and save the file.
    ```
-   a third line in README.md
+   a second line in README.md
    ```
 1. In your terminal, move the edited file to Git’s staging area.
    ```bash
@@ -208,7 +212,7 @@ Let’s simulate someone else in your organization making a change to the **temp
 1. Select **Web IDE** to edit the file.
 1. In the Web IDE screen, add a new line to the end of the file.
    ```
-   a fourth line added on the remote copy of temporary_branch
+   a third line added on the remote copy of temporary_branch
    ```
 1. Select **Commit...**
 1. Normally every branch that you commit to needs an associated merge request, but for this lab you don't need one. Check the radio button for **Commit to temporary_branch** and uncheck **Start a new merge request**.
