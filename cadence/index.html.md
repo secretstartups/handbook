@@ -30,57 +30,27 @@ Items on this page are grouped into a cadence based on the underlying period of 
 
 ### Cadence Hierarchy
 
-How elements of our cadence fit together.
+How elements of our cadence fit together over time:
 
-1. [Mission](/company/mission) is the 30 year purpose of the company and answers "why" GitLab exists. Our mission is to make it so that **everyone can contribute**.
-1. [Vision](/company/vision) defines the destination for our product, company, and market and answers "where" GitLab is heading in order to make progress towards our mission. Our current vision is to become the **AllOps** solution - a single application for all innovation and transformation. 
-1. [Strategy](/company/strategy/) answers "what" we will accomplish to make progress towards our vision and mission. Strategy is composed of "strategic pillars" that are high level goals we plan to achieve over the next 3 years. Strategic pillars contain the big themes of work we will pursue to accomplish our strategy. Our current strategy is to be the leading, complete DevSecOps Platform and our three strategic pillars for accomplishing this strategy are Customer Results, Mature the Platform, and Grow Careers.
-1. [Yearlies](/company/yearlies/) are annual goals to make progress for three year strategy by breaking strategic pillars into aspirational milestones. Our current Yearlies can be summarized as 
-        1. Improve customers results through ultimate enablement, increasing sales efficiency, and increasing user awareness.
-        1. Mature the Platform by closing BIC gap, GitLab Dedicated GA, and scaling GitLab.com
-        1. Career Building Platform through a faster pace, increasing team member diversity, and enabling People Managers through Elevate.
-1. [OKRs](/company/okrs) are composed of Objectives and Key Results that we use to improve something in a given quarter beyond maintaining the status quo. Objectives are what we are focusing on accomplishing in a quarter, and Key Results measure progress for an Objective over the same quarter. 
-1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) are some of the activities that we undertake to achieve Yearlies and/or OKRs. Yearlies and OKRs define outcomes and not activity required to achieve those outcomes.     
-1. [Key Performance Indicators (KPIs)](/company/kpis/) are measures of performance for important things we do as a company all the time (Business as Usual). KPIs are not OKRs because OKRs do not deal with business as usual, but KPIs can be elevated to OKRs if a KPI has slipped far enough to become a priority to improve in a given quarter.
+1. [Our Purpose](/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
+1. [Our Mission](/company/mission) is the way we realize that income increase, we do that by allowing **everyone to contribute**, to both our product, and our company.
+1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years.
+1. [Our Strategy](/company/strategy/) consists of the three following **pillars** that we'll focus on over the next three years: Customer Results, Maturing the Platform, and Growing Careers.
+1. [Our Yearlies](/company/yearlies/) are annual goals to make progress to our three year strategy. We have 3 goals around every pillar, for **9 goals** in total.
+1. [Our OKRs](/company/okrs) are **quarterly objectives** to make progress towards the yearly goals. They have a hierarchy in them with which they flow from the CEO level to the level of teams.
 
-[Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
+How other elements relate to our cadence:
 
-```mermaid
-flowchart TD
-    subgraph 30 years
-        A([Mission])
-    end
-    subgraph 10YR[10 Years]
-        B([Vision])
-    end   
-    subgraph 3YR[3 Years]
-        D([3-year company strategy]) 
-    end    
-    subgraph 1YR[Year]
-        direction LR
-        F([Yearlies]) -- inform --> G([Annual Plan])
-        H([Top Cross-Functional Initiatives])
-    end
-    subgraph QTR[Quarter]
-        J([OKRs]) 
-    end
-    subgraph MO[Month]
-        K([KPIs]) 
-    end
-    
-    A --->|informs| B
-    B ---->|informs| D
-    D ---->|informs| F & J
-    J <-->|elevate to| K
-   
-```    
+1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) typically last a year and should be closely aligned to the yearlies.
+1. [Key Performance Indicators (KPIs)](/company/kpis/) are measures of performance for important things we do as a company all the time. If you want to change a KPI in a quarter this typically will be an OKR.
+1. [Our Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
 
 ## Mission
 
 **30 years**
 
-- Time to realize [our mission](/company/mission/#mission){:data-ga-name="mission"}{:data-ga-location="body"}
-- [BHAG](/company/mission/#big-hairy-audacious-goal){:data-ga-name="BHAG"}{:data-ga-location="body"}
+- [Our mission](/company/mission/#mission).
+- [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission.
 - [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
