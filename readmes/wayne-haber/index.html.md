@@ -82,7 +82,7 @@ Corresponding handbook pages:
 * [Data Science](https://about.gitlab.com/handbook/engineering/development/data-science/#dashboards)
 * [Growth](https://about.gitlab.com/handbook/engineering/development/growth/#cross-functional-backlog)
 
-# My OKRs (Objectives and Key Results)
+# 2022 Q4 OKRs (Objectives and Key Results)
 
 My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=135090)
 
@@ -111,3 +111,8 @@ A subset of my Q4 OKRs can be public and are in these categories:
 
 * License database / license finder
 * Static rule tuning and refinement
+
+# 2023 Q1 OKRs
+
+Draft: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/388434)
+
