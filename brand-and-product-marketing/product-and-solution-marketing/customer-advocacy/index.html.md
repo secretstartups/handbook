@@ -16,7 +16,7 @@ The goal of the Customer Reference Program is to provide opportunities for custo
 
 ## Who we are
 
-Team of Experienced Customer Reference Professionals who are focused on managing Reference relationships, translating the customer experience into insights that support Marketing and Sales initiatives.
+WIP 
 
 # Strategy and Process of Reference Program
 
