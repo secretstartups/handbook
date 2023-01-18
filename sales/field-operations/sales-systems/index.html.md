@@ -199,8 +199,8 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 
 |Sandbox name|Sandbox type|Used for|Refresh cadence|Last refresh date|Next refresh issue|
 |-----|-----|-----|-----|-----|-----|
-|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|As needed, up to once per month, minimum once per quarter| 2/13/2022 2:26 PM |To be provided|
-|[SANDBOX](https://gitlab--staging.my.salesforce.com)|Partial|Developer integration and testing org. |As needed, up to once per month, minimum once per quarter|6/18/2021 3:14 PM|To be provided|
+|[STAGING](https://gitlab--staging.sandbox.my.salesforce.com/)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|As needed, up to once per month, minimum once per quarter| 11/11/2022 |To be provided|
+|[SANDBOX](https://gitlab--sandbox.sandbox.my.salesforce.com/)|Partial|Developer integration and testing org. |As needed, up to once per month, minimum once per quarter|6/18/2021 3:14 PM|To be provided|
 
 ### Data, Data Uploads & Permissions
 - Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
