@@ -9,18 +9,6 @@ description: "Contributor Success Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-#### Child Pages
-{:.no_toc}
-
-##### [User Journey](./user-journey.html)
-{:.no_toc}
-
-##### [GitLab Community Teams Structure](./team-structure.html)
-{:.no_toc}
-
-##### [Sisense SQL snippets](./sisense-sql-snippets.html)
-{:.no_toc}
-
 ## Common Links
 
 | **GitLab Team Handle** | [`@gitlab-org/quality/contributor-success`](https://gitlab.com/gitlab-org/quality/contributor-success) |
@@ -94,12 +82,15 @@ organizations who are among our most active contributors. A company or individua
 [qualifies](/handbook/marketing/community-relations/leading-organizations/#qualification) for unique benefits by
 reaching 20 merged merge requests or more over a trailing three full calendar month basis.
 
+Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a Leading
+Organizations from our PI's, SLO's & Dashboards.
+
 ## Team Responsibilities
 
 * Improve GitLab's Contribution Efficiency and [merge request coaching](/job-families/expert/merge-request-coach/) process.
 * Contribute as a [merge request coach](/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
 * Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers.
-* Organize community contributors into [community teams](team-structure.html) and ensure their success.
+* Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 * Nominate impactful community contributors and contributions for recognition.
 * Collaborate closely with our [Marketing counterparts](/handbook/marketing/community-relations/) and [Core team](/community/core-team/).
@@ -179,6 +170,9 @@ We have the following Performance Indicators
   - Launch contribution materials targeting large enterprises
   - Partner with Community relations team (David P)
   - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI  
+  
+Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a GitLab
+account from being linked to a customer account, and being counted into the MRARR metric.
 
 #### [Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
 
@@ -195,6 +189,64 @@ We have the following Performance Indicators
 - Activities:
   - Encourage features at Community relations hackathons.
   - Published list of feature issues with Marketing team.
+
+### User Journey
+
+[User Journey](./user-journey.html)
+
+### GitLab Community Teams Structure
+
+There are several teams across various reporting structures that work on making the GitLab Community great.
+
+#### Structure
+
+```mermaid
+graph TD
+    A[GitLab]
+    A --> B[Marketing]
+    B --> D[Community Relations]
+    A --> C[Engineering]
+    C --> E[Contributor Success]
+    D --> F[Code Contributor Program]
+    D --> G[Evangelist Program]
+    H[Wider Community]
+    H --> I[Core Team]
+    H --> J[Heroes]
+
+    click B "/handbook/marketing"
+    click C "/handbook/engineering"
+    click D "/handbook/marketing/community-relations"
+    click E "/handbook/engineering/quality/contributor-success"
+    click F "/handbook/marketing/community-relations/code-contributor-program"
+    click G "/handbook/marketing/community-relations/evangelist-program"
+    click I "/community/core-team"
+    click J "/community/heroes"
+    
+```
+
+## Sisense Dashboards & Snippets
+
+### Dashboards we use
+
+- [Contributor Success Performance Indicators](https://app.periscopedata.com/app/gitlab/729542/Contributor-Success-PIs)
+   - Unique Wider Community Contributors per Month
+   - Amount of MRs created, merged & closed
+   - Time between MR created and merged (OCMA)
+   - Time between MR ready for review & reviewed
+- [Leading Organizations Performance Indicators](https://app.periscopedata.com/app/gitlab/1064389/Leading-Organizations-PIs)
+   - Time to review SLO
+   - Open MRs from Leading Organizations & their age
+- [MRARR Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965062/MRARR-Dashboard)
+   - Customers ARR * Number of MRs
+   - Shows how we are doing towards the target
+- [MRARR Diagnostics](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965418/MRARR-Diagnostics)
+   - Identifies MRs from customers that are not being tracked yet
+   - Identifies projects with contributions that are not being tracked yet
+   - See [Contributing Orgs tracker](contributing-org-tracker.html) for details   
+
+### Snippets
+
+See [Sisense SQL snippets](sisense-sql-snippets.html)
 
 ## Working with community contributions
 
@@ -313,3 +365,11 @@ initiative: [https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/8](htt
 ## Code Contributor User Journey
 
 The code contributor user journey is documented in the handbook - [User Journey](./user-journey.html)
+
+## Child-pages
+
+### [Contributing Orgs tracker](contributing-org-tracker.html)
+
+### [Sisense SQL snippets](sisense-sql-snippets.html)
+
+### [User Journey](user-journey.html)
