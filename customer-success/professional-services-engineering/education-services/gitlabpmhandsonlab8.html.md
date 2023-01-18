@@ -16,9 +16,8 @@ Kanban boards show you the progress of all tickets in your project, as they move
     - If you are in an instructor-led class, expand the arrow to the left of the **Training Users** group. Expand the arrow to the left of your Session's subgroup. Open the subgroup called **My Test Group - \<USERNAME\>**.
     - If you are in the self-paced environment, open the group called **My Test Group - \<USERNAME\>**.
 1. Click **New subgroup**.
-1. Click **Create group**.
 1. Enter `PM Workflows` as the group name.
-1. Click **Create group**.
+1. Click **Create subgroup**.
    
 ### B. Create epics to assign issues to
 
