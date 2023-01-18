@@ -16,15 +16,21 @@ The source of truth for FY24-Q1 OKRs will be in GitLab.
 {:toc}
 
 ## OKR Schedule
-The by-the-book schedule for the OKR timeline would be:
+
+In order to start dogfooding OKRs in GitLab, we are using a modified schedule for FY24-Q1 OKRs.   
+We will resume the [by-the-book schedule](/company/okrs/#okr-process-at-gitlab) for next quarter's OKRs.
+
+### Modified Schedule for FY24-Q1
 
 | OKR schedule | Week of | Task |
 | ------ | ------ | ------ |
 | -5 | 2022-12-26 | CEO shares top goals with E-group for feedback |
-| -4 | 2023-01-02 | CEO shares top goals in GitLab |
+| -4 | 2023-01-02 | CEO shares top goals in #okrs Slack channel |
 | -4 | 2023-01-02 | E-group propose OKRs for their functions in the OKR draft review meeting agenda |
-| -3 | 2023-01-09 | E-group 50 minute draft review meeting. After, function OKRs are put into GitLab and links are shared in #okrs Slack channel  |
+| -3 | 2023-01-09 | E-group 50 minute draft review meeting | 
 | -2 | 2023-01-16 | E-group discusses with their respective teams and polishes OKRs |
+| -2 | 2023-01-23 | CEO top goals available in GitLab | 
+| -2 | 2023-01-23 | Function OKRs are put into GitLab and links are shared in #okrs Slack channel |
 | -1 | 2023-01-23 | CEO reports post links to final OKRs in #okrs slack channel and @ mention the CEO and CoS to the CEO for approval |
 | 0  | 2023-01-30 | CoS to the CEO updates OKR page for current quarter to be active and includes CEO level OKRs with consideration to what is public and non-public |
 
