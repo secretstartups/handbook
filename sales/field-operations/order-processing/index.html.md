@@ -1064,7 +1064,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Payment Term = Net 60
   - Start Date = Date of Transaction Notification Email
   - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
-4. Generate Order Form (OF). Be sure to use the Standard Order Form quote template.
+4. Generate Order Form (OF) with IBM margin included as per https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9). Be sure to use the Standard Order Form quote template.
 5. Attach the following to the opportunity:
   - Screenshot of email notification from IBM noting that the transaction has closed from IBM
   - IBM spreadsheet with necessary transaction details
@@ -1072,10 +1072,11 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Make sure the generated OF is attached
 6. Chatter Sales Support with links to IBM Email notification, IBM spreadsheet, and Order Form.
 7. Once completed, submit the opportunity for approval.
+If the IBM deal contain negotiated terms (non-standard margin, price-lock etc.) those terms will be added by Legal team to an SOW contract that needs to be signed by IBM.
 
 **Closing the Deal:**
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as evidenced by the date of the IBM email notification. **Deal Desk will also update the price to reflect the margin taken by IBM. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as evidenced by the date of the IBM email notification. 
 2. Note that the IBM (OEM) account is permanently set to silent, and no invoices created will go to IBM.
 3. License keys will NOT be sent automatically upon deal Closure. Instead, a Customer Support Issue must be opened to ensure the license for the deal is delivered to IBM Ecosystem Project Office immediately after deal closure.
   - Closed Won notifications will be made in the ibm-oem-closed-won Slack channel.
