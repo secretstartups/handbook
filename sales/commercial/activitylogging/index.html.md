@@ -62,7 +62,7 @@ Every pre-arranged meeting should be held via Chorus, and not Zoom.  This ensure
 - Click on Chorus Meeting
 - Click Save.  
 - DO NOT click on Make it a Zoom Meeting
-- A video tutorial of the process is available [here](https://share.vidyard.com/watch/3oLfPExn1uGA52JHWJuLBD)
+- A video tutorial of the process is available.  To request the link, please post a message in the #self-service_public slack channel.
 
 
 Once the meeting has taken place, and a Chorus activity has been automatically logged, make sure it is related to both the Contact and the Opportunity, and is Assign to yourself.
