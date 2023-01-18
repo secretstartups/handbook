@@ -57,11 +57,13 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 | **Field Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Open - Review Required |
 | **Personal Spot** | Each team member with a Highspot account will have their own personal spot that they can use to upload content of their own. Naming convention is `[Your Account First Name] Spot`. | Account holder only | Open |
 
+Can't find a Spot that meets your business needs? Use [this Issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Spot-Creation-Request) to submit your request for a new Spot in Highspot.  
+
 ### Availability
 
 Highspot became generally available for all members of GitLab's go-to-market (GTM) organization in February 2022.  
 
-Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard. If you do not have access via your Okta dashboard, please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).  
+Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard. If you do not have access via your Okta dashboard, please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).  If you need additional access within a Spot, such as Editor or Owner permissions, please use [this Issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request) to submit your request.
 
 Teams with access to Highspot include: 
 1. Sales 
