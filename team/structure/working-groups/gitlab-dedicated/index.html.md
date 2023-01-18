@@ -119,7 +119,7 @@ Below are the functional areas involved in this Cross-Functional Initiative as w
 | Functional Lead: Channel Partners       | Honora Duncan      | Senior Channel Services Manager                  |
 | Functional Lead: Comms & PMM            | Saumya Upadhyaya   | Principal Product Marketing Manager              |
 | Functional Lead: Enablement             | Kelley Shirazi     | Manager, Sales Enablement                        |
-| Functional Lead: Engineering            | Oriol Lluch        | Engineering Manager, Infrastructure.             |
+| Functional Lead: Engineering            | Marin Jankovski    | Director, Infrastructure Platforms               |
 | Functional Lead: FP&A                   | Shuang Shackleford | Director, FP&A                                   |
 | Functional Lead: Market Opportunity     | Laura Clymer       | Director, Market Strategy and Insights           |
 | Functional Lead: Post-Sales (CS/PS)     | Brian Will         | Senior Manager, Professional Services            |
