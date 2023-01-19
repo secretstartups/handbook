@@ -115,7 +115,7 @@ Sales and SA leader participation in the POV approval process will ensure we can
 
 ### POV Best Practices
 
-Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal. This should only be used for technical abnormalities, not for integration or implementation assistance.
+Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If support is required for an unforseen technical issue, some POVs may qualify as [priority prospects](/handbook/support/priority_prospects/#overview) and may contact the support team.
 
 Many prospects are tempted to include implementation of GitLab high availability as part of a POV. In this case, the implementation components should comprise a separate POV entirely, separating GitLab functionality evaluations from implementation, load and performance components.
 
