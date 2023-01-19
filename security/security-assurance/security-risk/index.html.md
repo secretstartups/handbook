@@ -98,7 +98,7 @@ DRIs are responsible for ensuring a [handbook-first approach](https://about.gitl
 {: #contact-card-light-purple}
 
 - <i class="fas fa-envelope fa-fw" style="color:rgb(219,59,33)" aria-hidden="true"></i> Email: 
-   - `security-risk@gitlab.com`
+   - `securityrisk@gitlab.com`
 - <i class="fab fa-slack fa-fw" style="color:rgb(219,59,33)" aria-hidden="true"></i> Slack: 
    - [#security-risk-management channel](https://gitlab.slack.com/archives/C01EKDNRVFD)
    - [#sec-assurance channel](https://gitlab.slack.com/archives/C0129P7DW75) (includes the broader Security Assurance Team)
