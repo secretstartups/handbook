@@ -45,6 +45,19 @@ How other elements relate to our cadence:
 1. [Key Performance Indicators (KPIs)](/company/kpis/) are measures of performance for important things we do as a company all the time. If you want to change a KPI in a quarter this typically will be an OKR.
 1. [Our Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
 
+### Example of Cadence Flow
+
+Below is an example of how we will accomplish our longer term cadence goals by successfully completing our shorter term goals. 
+
+1. Our purpose is to help people increase their lifetime earnings. A product that is useful to a larger audidence of users and provides these users with greater results and value better enables GitLab to do this. 
+1. Our mission is to do that by making sure everyone can contribute to our product and our company. Similar to our purpose, part of the achievement of this will depend on our product driving results for a larger audience of users.
+1. Our vision is to evolve our product into the **AllOps** solution – a single application for all innovation and transformation that is relied on by a broader range of teams within a company. A **Value Stream Delivery overview** will be a key part of this platform. 
+1. Our strategy supports our AllOps vision. One of our strategic pillars is [Customer Results](/strategy/#1-customer-results). This includes extending [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/) to provide more value to more users.
+1. Our yearlies are how we're going to execute our strategy. One of [our FY24 Yearlies](/company/yearlies/) is to `increase NetARR from Ultimate up-tiers` which we'll accomplish in part by providing more value to business users with features like [Value Stream Dashboards for Executives](https://gitlab.com/groups/gitlab-org/-/epics/9317).
+1. Our OKRs are how we're going to make progress on our yearly goals. A CEO key result is to launch Value Stream Dashboards MVC 1 Beta in FY24-Q1.
+
+Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, mission of everyone contributing, and purpose of people increasing their earnings. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals. 
+
 ## Mission
 
 **30 years**
