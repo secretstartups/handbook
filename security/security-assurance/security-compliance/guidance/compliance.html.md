@@ -48,7 +48,7 @@ This control is owned by Security Compliance.
     - [Data Classification Policy](/handbook/security/data-classification-standard.html)
     - [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy)
     - [Incident Response Guide](/handbook/security/security-operations/sirt/sec-incident-response.html)
-    - [GitLab Password Policy Guidelines](/handbook/security/#gitlab-password-policy-guidelines)
+    - [GitLab Password Policy Guidelines](/handbook/security/#gitlab-password-policy-standards)
     - [Risk Management](/handbook/security/security-assurance/security-risk/storm-program/index.html)
     - [Security Incident Communications Plan](/handbook/security/security-operations/sirt/security-incident-communication-plan.html)
     - [Security Operations On-Call Guide](/handbook/security/secops-oncall.html#major-incident-response-workflow) for Major Incidents
