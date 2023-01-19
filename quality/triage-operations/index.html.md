@@ -389,7 +389,7 @@ graph LR
 #### Reactive `help` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-bot help` is posted on a merge request
+  - A new MR note that starts with `@gitlab-bot help` is posted on a merge request
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Pings and assigns (as reviewer) a random MR coach for help
@@ -399,7 +399,7 @@ graph LR
 #### Reactive `ready` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-bot ready [@user1 @user2 ...]`, `@gitlab-bot review [@user1 @user2 ...]`,
+  - A new MR note that starts with `@gitlab-bot ready [@user1 @user2 ...]`, `@gitlab-bot review [@user1 @user2 ...]`,
     or `@gitlab-bot request_review [@user1 @user2 ...]`
   - The note is posted by the MR author or a team member
 * Automation actions:
@@ -411,7 +411,7 @@ graph LR
 #### Reactive `unassign_review` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-bot unassign_review`
+  - A new MR note that starts with `@gitlab-bot unassign_review`
   - The note is posted by one of the currently assigned reviewers (any GitLab community member)
 * Automation actions:
   - Removes the posting user from the list of currenly assigned reviewers
@@ -421,7 +421,7 @@ graph LR
 #### Reactive `label` command
 
 * Automation conditions:
-  - A new note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
+  - A new note that starts with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
     - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`, `category:*`
     - `backend`, `database`, `documentation`, `frontend`, `security`, `UX`
     - `workflow::in dev`, `workflow::ready for review`, `workflow::blocked`
@@ -455,7 +455,7 @@ graph LR
 #### Reactive `feedback` command
 
 * Automation conditions:
-  - A new MR note that start with `@gitlab-feedback`
+  - A new MR note that starts with `@gitlab-feedback`
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Posts the contributor feedback note in the `#mr-feedback` Slack channel (internal)
