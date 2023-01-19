@@ -28,7 +28,7 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 |---------|-------------------------------|
 | **Enablement**: Distribution, Geo, Memory, Global Search, Database, Pods <br>**SaaS Platforms**: GitLab Dedicated, Delivery <br>**Ops**: Configure, Release, Respond, Observability | [Will Leidheiser] |
 | **Growth**: Activation, Conversion, Expansion, Adoption <br>**Fulfillment**: Provision, Purchase, Utilization <br>**Analytics**: Product Intelligence | [Nicholas Hertz] |
-| **Manage**: Authentication and Authorization, Workspace, Import, Integrations, Foundations | [Ashley Knobloch] |
+| **Manage**: Authentication and Authorization, Organization, Import, Integrations, Foundations | [Ashley Knobloch] |
 | **Plan**:Project Management, Product Planning, Certify, Optimize | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Dynamic Analysis: Fuzz Testing, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance | [Michael Oliver] |
 | **Create**: Source Code, Editor, Code Review | [Ben Leduc-Mills] |
