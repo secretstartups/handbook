@@ -24,6 +24,19 @@ As a Solutions Architect, it is important to be continuously learning more about
 
 Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov/) page.
 
+### SaaS Trials for Existing Customers
+
+Paid customers must set up a new namespace on SaaS when trialing Ultimate.  There are two primary reasons for this: 
+
+1. some paid features are not available in a trial, so a customer might lose functionality they had been using if a trial license is applied
+2. GitLab does not have an appropriate mechanism for applying and reverting a trial license on SaaS without the namespace potentially being reverted to free when the trial expires ([see issue](https://gitlab.com/gitlab-org/gitlab/-/issues/12186))
+
+Both situations put customer production GitLab usage at risk if a trial is applied to the SaaS namespace.
+
+Instead, a customer should create a new namespace and trial there.  We have put together some [SaaS trial guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/saas-trial-guidelines/) in order to make the process as seamless as possible for customers.
+
+
+
 ### Hands-on Workshops
 
 GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop/) page.
