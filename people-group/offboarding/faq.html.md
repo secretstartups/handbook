@@ -110,7 +110,7 @@ If you decide to trade in GitLab’s stock or other securities prior to the 90th
 
 #### Will my ESPP contributions be reimbursed?
 
-Yes. Payroll processes ESPP reimbursements during payroll cycles with termination reports. You may receive your reimbursement on the pay period after your termination. Please make sure you unenroll from ESPP in [Schwab](https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx) as well.
+Yes. Payroll processes ESPP reimbursements during payroll cycles with termination reports. You may receive your reimbursement on the pay period after your termination. Please make sure you unenroll from ESPP in [E*Trade](https://us.etrade.com/e/t/user/login) as well.
 
 
 #### What happens to my Growth and Development Benefit?

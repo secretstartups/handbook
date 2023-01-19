@@ -67,7 +67,7 @@ For any other offboarding questions, please reach out to People Connect via peop
 
 1. **People Connect:** Initiate the offboarding process by completing the [Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) which feeds the tracker and prompts automated creation of the [Offboarding Issue](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) which opens after the team member is done working on their last day - this will also create an alert in the #offboardings channel which will ensure all other stakeholders are aware of the team members departure particulars i.e. IT Operations, Payroll and Total Rewards.
 1. **People Connect:** Update BambooHR with the respective termination information, along with ensuring that the exit impact is completed.
-1. **People Connect:** On the Termination Date indicated in Workday at the [pre-determined time](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/#notice-of-offboarding) the offboarding issue will be [created](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) - this will signal to all system owners that team member access can be revoked.  In the instance that the automation does not trigger the offboarding can be [initiated manually](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/engineering/employment-automation/pops-commands/offboarding/) once this has happened all other back-end offboarding processes facilitated by People Connect can get underway.
+1. **People Connect:** On the Termination Date indicated in Workday at the [pre-determined time](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_standards/#notice-of-offboarding) the offboarding issue will be [created](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) - this will signal to all system owners that team member access can be revoked.  In the instance that the automation does not trigger the offboarding can be [initiated manually](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/engineering/employment-automation/pops-commands/offboarding/) once this has happened all other back-end offboarding processes facilitated by People Connect can get underway.
 1. **Deprovisioners (Systems):**  You will be tagged in the departing team members offboarding issue and required to indicate that the team members access has been revoked kindly note that access to SOX Systems must be attended to with urgency and all other tasks within the offboarding issue must be closed out within five days.
 
 ## Involuntary Terminations
@@ -343,7 +343,7 @@ GitLab's [turnover data](https://app.periscopedata.com/app/gitlab/482006/People-
 ## Managing the Offboarding Tasks
 
 #### Offboarding Issue
-To track all tool deprovisioning, please open an offboarding issue following the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/).
+To track all tool deprovisioning, please open an offboarding issue following the [offboarding standards](/handbook/people-group/offboarding/offboarding_standards/).
 
 #### Returning Property to GitLab
 
