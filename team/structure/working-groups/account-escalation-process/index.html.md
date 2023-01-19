@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/account-escalation-proce
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date Created    | 2022-11-15                                                                                                                                        |
-| Target End Date | 2022-12-15                                                                                                                                        |
+| Target End Date | 2023-01-31                                                                                                                                        |
 | Slack           | [#wg_account_escalation](https://gitlab.slack.com/archives/C04B5SWTVEY) (only accessible from within the company)   |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1CC3kuNSMYJR91hbHKIyTVN3FC9SjiNkLR0zRKOvJA5k/edit) (only accessible from within the company) |
 
