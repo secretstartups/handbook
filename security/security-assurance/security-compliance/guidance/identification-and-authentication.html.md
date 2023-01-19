@@ -59,7 +59,7 @@ The owner of this control is IT Operations and People Operations.
 * [Template used for Access Reviews](https://gitlab.com/gitlab-com/team-member-epics/access-requests/issues/new?issuable_template=Access_Review)
 * [Logical Access Deprovisioning](/handbook/security/#deprovisioning)
 * [Access Reviews](/handbook/security/#access-reviews)
-* [GitLab Offboarding Guidelines](/handbook/people-group/offboarding/offboarding_guidelines/)
+* [GitLab Offboarding Guidelines](/handbook/people-group/offboarding/offboarding_standards/)
 * [Access Review Policy and Procedures](/handbook/security/#access-reviews)
 * [Timing of Quarterly Access Reviews](/handbook/security/#timing-of-quarterly-access-reviews)
 * [User Access Listing Generation Procedures and Guidelines Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/blob/master/runbooks/Access_Review_Runbook.md)
