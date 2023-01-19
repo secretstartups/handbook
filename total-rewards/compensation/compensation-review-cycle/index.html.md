@@ -318,7 +318,7 @@ The promotion and annual compensation review budget is separate and calculated b
   * The Annual Compensation Review budget assumes a 4% increase of those who were not promoted. Therefore 4% of 85% of the population's OTE.
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division.
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab.
-  * The Total Rewards team maintains a 2% hold back of the total budget in order to perform pay equality audits.
+  * The Total Rewards team maintains a 2% hold back of the total budget in order to perform pay equality adjustments.
 
 ### Relocation Budget
 * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
