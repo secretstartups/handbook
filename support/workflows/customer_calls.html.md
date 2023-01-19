@@ -44,7 +44,40 @@ If you're feeling one of the results of one of these headwinds it can be easy to
 
 ## When should a ticket go to a call?
 
-Under development in MR: [www-gitlab-com!117168](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117168/diffs)
+Feelings aside, it can be difficult to sort out how to balance the demands of asynchronous ticket work and real-time support. There's a cost to customer calls in terms of preparation, running the call and doing the post-call work summarizing any findings and passing along next steps.
+
+Various pieces of the Handbook can be used to justify a range of behaviors:
+
+- The ["Video Calls" section on the Communication page of the Handbook](/communication/#video-calls) says
+> Use video calls if you find yourself going back and forth in an issue/via email or over chat. Guideline: if you have gone back and forth 3 times, it's time for a video call.
+
+- Our ["Bias towards asynchronous communication" operating principle of our DIB Value](/handbook/values/#bias-towards-asynchronous-communication) says:
+> Take initiative to operate asynchronously whenever possible.
+
+- Our ["Be respectful of others' time" operating principle of our Efficiency Value](/handbook/values/#be-respectful-of-others-time) says:
+> Consider the time investment you are asking others to make with meetings... Try to avoid meetings.
+
+At GitLab Support we use two operating principles to help us interpret the sometimes conflicting guidance:
+1. **[Customer Results](/handbook/values/#customer-results)**: _Our focus is to improve the results that customers achieve_
+1. **[Freedom and Responsibility over Rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity)**: _we give people the responsibility to make a decision and hold them accountable for that_
+
+Our customer-facing [Statement of Support section on video calls](/support/#phone-and-video-call-support) supports this:
+
+> At times it may be useful and important to conduct a call, video call, or screensharing session with you to improve the progress of a ticket...the support engineer... will determine: 
+> - whether a call is necessary; and
+> - whether we have sufficient information for a successful call.
+
+**As a Support Engineer you are charged to act in the best interest of the customer.** Customer calls are a tool in your toolbox. When used well, customer calls will allow you to be more efficient, build relationships and resolve tickets faster. 
+
+### Markers for when you should consider moving to a call
+
+1. **The customer asks for a call**: One of the fastest ways to get a negative SSAT rating is to flat out refuse a call. You don't have to immediately jump to a call. However, you should strongly consider communicating your availability and how to gather and upload any information that will make the call effective.
+1. **The ticket has failed to progress after several interactions**: If a customer isn't providing needed data, is having trouble describing the problem or is signalling that our urgency isn't matching their urgency in resolving the problem you should strongly consider moving to a call.
+1. **The ticket has received a [STAR](/handbook/support/internal-support/support-ticket-attention-requests.html)**: STARred tickets represent situations that have been highlighted where SSAT has been threatened by some factors within or outside of our control. Moving to a call may help restore the relationship. Providing quick, high quality counsel may calm customer concerns.
+1. **There's a critical missing element between the customer's reported experience and your reproduction**: Sometimes a customer leaves out an important contextual detail that isn't within your immediate troubleshooting tree. Moving to a call can help make sure you're both starting from the same spot.
+1. **The customer's tone within the ticket has shifted negatively**: Sometimes offering and initiating a call can show our commitment to solving the customer's problem. Talking with a technical peer helps build trust and empathy on both sides.
+1. **The next steps in the ticket are complex or have a branching decision tree**: There can be points in the troubleshooting process where it's best to switch into the more highly interactive communications mode of a call so that you can provide direction, observe results and provide real-time feedback until it makes sense to go back to async.
+1. **A Support manager has recommended a call**: When reviewing a ticket, a Support manager will often take the points above into consideration along with possible outside context from the customer or other GitLab team members, and recommend moving to a call.
 
 ## Types of calls
 
