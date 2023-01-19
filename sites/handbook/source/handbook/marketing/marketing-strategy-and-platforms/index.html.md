@@ -12,17 +12,17 @@ description: >-
 {:toc .hidden-md .hidden-lg}
 
 
-## Marketing Strategy & Platforms Team Charter
+## Marketing Strategy, Operations, and Analytics Team Charter
 
 ### Mission & Objectives
 
-Our mission is to enable efficient and quality growth of sales pipeline through:
+Our mission is to enable efficient operations and actionable analytics insights, working across all Marketing teams.
 
 
  | **1. Actionable Insights**                                                                                                                | **2. Continuous Optimization**                                                                                                                                                                                                                                      | **3. Experience Integration**                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![msp-chart.png](/images/handbook/msp-chart.png) | ![msp-optimize.png](/images/handbook/msp-optimize.png)                                                                                                                        | ![msp-plug.png](/images/handbook/msp-plug.png)   |
-| **Team(s)**<br><br>- Strategy & Analytics                                                                                                 | **Team(s)**<br><br>- [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/)<br>- [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/) | **Team(s)**<br><br>- [Growth Product](https://about.gitlab.com/handbook/marketing/growth/)<br>- Globalization |
+| **Team(s)**<br><br>- Strategy & Analytics                                                                                                 | **Team(s)**<br><br>- [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/) | **Team(s)**<br><br>- Globalization |
 | **Theme**<br>Incrementality                                                                                                               | **Theme**<br>Experimentation                                                                                                                                                                                                                                        | **Theme**<br>Guided Journey                                                                                                                |
 
 
