@@ -52,7 +52,7 @@ Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
-| [Git Operation - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / Licenses Sold | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
+| [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / Licenses Sold | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
 
 This looks to all active users who performed any Git operation (read/write/push) / Licenses Sold.
 
@@ -63,9 +63,9 @@ Adoption timeline: 1 months after license purchase
 
 |  | **Red** | **Yellow** | **Green** |
 |---|---|---|---|
-| CI Pipelines Utilization ([CI Pipelines - User L28](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) / Licenses Sold) | < 25% | ≥ 25% - < 50% | ≥ 50% |
-| Deployments Per User L28 ([Deployments L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) (event) / Licenses Sold) | < 3% | ≥ 3% - < 8% | ≥ 8% |
-| Deployments Utilization ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5% | ≥ 5% - < 12% | ≥ 12% |
+| CI Pipelines Utilization % ([CI Pipelines - User L28](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) / Licenses Sold) | < 25% | ≥ 25% - < 50% | ≥ 50% |
+| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Licenses Sold) | < 3% | ≥ 3% - < 8% | ≥ 8% |
+| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5% | ≥ 5% - < 12% | ≥ 12% |
 
 
 ### DevSecOps
@@ -74,9 +74,9 @@ These DevSecOps metrics are available for all customers. Adoption timeline: 1 mo
 
 |  | **Red** | **Yellow** | **Green** |
 |---|---|---|---|
-| Secure Scanner Utilization ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) / Licenses Sold) | ≤ 5% | > 5% - < 20% | ≥ 20% |
-| Container Scanning Jobs Utilization ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / Licenses Sold) | ≤ 3% | > 3% - < 10% | ≥ 10% |
-| Secret Detection Jobs Utilization ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Licenses Sold) | ≤ 6% | > 6% - < 20% | ≥ 20% |
+| Secure Scanner Utilization % ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) / Licenses Sold) | ≤ 5% | > 5% - < 20% | ≥ 20% |
+| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / Licenses Sold) | ≤ 3% | > 3% - < 10% | ≥ 10% |
+| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Licenses Sold) | ≤ 6% | > 6% - < 20% | ≥ 20% |
 
 
 ### Continuous Delivery (CD)
@@ -86,7 +86,9 @@ Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
-| [Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Licenses Sold | < 5%    | 5-9%     | ≥ 10%    |
+| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5%    | 5-12%     | > 12%    |
+| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Licenses Sold) | < 2 | 2 - 7 | > 7 |
+| Successful Deployments % ([Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) / (Successful Deployments - L28D + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml))) | < 25% | 25% - 80% | > 80% |
 
 ## Use Case Adoption Count
 
