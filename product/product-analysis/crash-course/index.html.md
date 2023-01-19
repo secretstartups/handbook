@@ -82,9 +82,9 @@ Team meetings, AMAs, etc. for the Plan:Optimize Group
 
 Team meetings, AMAs, etc. for the Manage:Access Group
 
-[Manage:Workspace YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-9cR2cz4uxUIfVYtB4Gq8)
+[Manage:Organization YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-9cR2cz4uxUIfVYtB4Gq8)
 
-Team meetings, AMAs, etc. for the Manage:Workspace Group
+Team meetings, AMAs, etc. for the Manage:Organization Group
 
 **Product direction**
 
