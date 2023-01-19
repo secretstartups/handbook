@@ -33,20 +33,18 @@ The first step in the process of building a Use Case adoption score starts with 
   <br>
   - [CI](urhttps://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-recommendationl)
   <br>
-  - [CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-recommendation)]
+  - [CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-recommendation)
   <br>
   - [DevSecOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
   <br>
   - [Compliance](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/)
   <br>
-  - [Artifact Management (Package](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/package/)
+  - [Artifact Management (Package)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/package/)
   <br>
   - [GitOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#adoption-recommendation)
   <br>
   - [Agile](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/#adoption-recommendation)
   </details>
-
-</details>
 
 ### Threshold and weighting analysis
 The threshold percentages are chosen by looking at how many customers fall into certain quartiles as well as looking at the averages/median for a subset of customers that we know have healthy usage in this use case. Combining those two gets us to a great starting point of where those percentages should be for each metric. We then look at how many customers would fall into each color based on that starting point. There are some final tweaks after that as well as getting feedback from other teams on those percentages that are set for each color. 
@@ -72,7 +70,7 @@ The following primary and ancillary metrics are used to determine a customer's C
 <br>
 ![CI Adoption Scoring](https://lucid.app/publicSegments/view/14463ed0-bdf2-47a1-998b-40a6bdba9986/image.png)
 <br>
-[Adoption Guide Reference Link](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-guide)
+[Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-guide)
 
 #### Resources
 
@@ -110,7 +108,7 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 <br>
 ![DevSecOps Adoption Scoring](https://lucid.app/publicSegments/view/ab7a9ef5-d69c-47ff-9dc0-defe3e8f8610/image.png)
 <br>
-[Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#adoption-guide)
+[Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#adoption-guide)
 <br>
 
 #### Resources
@@ -122,5 +120,20 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
 - Additional CSM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
+
+### CD Adoption Scoring
+The following metrics are used to determine a customer's DevSecOps Adoption Score:
+<br>
+![CD Adoption Scoring](https://lucid.app/publicSegments/view/52a3c35f-a4c0-4632-ab89-258a02d78042/image.jpeg)
+<br>
+[Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-guide)
+<br>
+
+#### Resources
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (internal only)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1T4vINvjXu4dGBEUHdZb3ohxJG91p11QC1zOWrUNHD4E/edit?usp=sharing) (internal only)
+    - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
+        - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
+- Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
