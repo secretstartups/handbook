@@ -555,6 +555,32 @@ Kindly note the following when filling in this section:
 1. Once you have reviewed, and everything is in order, click ‘invite now’. 
 1. Your candidate has been submitted successfully. You are able to see the progress on the Remote homepage. 
 
+## How to add the New Hire to the Papaya platform
+
+1. Log into the Papaya platform 
+1. Click the ‘add worker’ tab on the top right side of the page
+1. Click ‘create new request’ under the EOR worker block
+1. Select the candidates country on the drop down 
+1. Click next
+1. You be will be on the ‘worker details’ page - fill in the candidates details 
+    -Please ignore the following: Company ID
+1. Click next
+1. You will now be on the ‘employment terms’ page - fill in the details 
+    -Please ignore the following: expected end date in the case of an indefinite contract & the organizational attributes
+1. Click continue
+1. You will be on the ‘contract compensation’ page - fill in the contract details 
+    -Please ignore the following: allowances & miscellaneous 
+    -Under contract terms, select the mandatory requirements by local law tabs for all 
+1. Click next
+1. You will be on the ‘initial employment terms letter’ page - fill in the contract details	
+1. Should papaya send the candidate the initial employment terms letter prior to the contract - click ‘yes’
+1. Click next
+1. You will now be able to review all the candidate and contract details, you are able to edit them should you wish.
+    -Select all the term of the consent clause
+    -When should papaya contact the worker - select ‘as soon as possible’
+1. Click submit
+1. Your candidate has been submitted successfully. You will be redirected to the papaya homepage
+
 ## Employment Agreements for GitLab team members in China
 
 GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/index.html) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
