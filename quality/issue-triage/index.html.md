@@ -416,12 +416,6 @@ any owner of that group for access.
 
 During triage rounds you may come across issues that look like Spam. These issues can be reported to the abuse team in the `#abuse` Slack channel or using the "Report User" function on the issue author's profile page
 
-## Events
-
-We also hold regular, quarterly events where the Community, Core Team Members and
-Team Members can contribute to tackling some of our open issues.
-Please see [the dedicated page](/community/issue-bash/) for further information and upcoming event dates.
-
 ## Notes
 
 The original issue about these policies is [#17693][17693]. We'll be working to improve the situation from within GitLab itself as time goes on.
