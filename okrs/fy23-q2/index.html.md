@@ -43,7 +43,7 @@ Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams/40502/obj
 1. **CEO KR:** Achieve internal support service-level agreement (SLA goals) for a list of marquee customers, have recordings of internal fireside chats with 2 GitLab customers viewed by 50% of team members, and have 50 team members outside of the Support Team work on support tickets.
 
 ### 3. CEO: Leadership Development
-1. **CEO KR:** Document [Managing so Everyone Can Contribute (MECC)](/handbook/mecc/) in the handbook. Use MECC handbook content to create a self-certified free course that can be used by non-team-members as well. Certify 1,000 team members.
+1. **CEO KR:** Document [Managing so Everyone Can Contribute (MECC)](/teamops/) in the handbook. Use MECC handbook content to create a self-certified free course that can be used by non-team-members as well. Certify 1,000 team members.
 1. **CEO KR:** Do a cost/benefit analysis for offering the right to migrate to 3 more countries (Germany / UK / US ?)
 1. **CEO KR:** Launch Get Togethers with 80% of team members attending and achieve 80% team member approval for new engagement plan captured in the upcoming employee survey.
 
