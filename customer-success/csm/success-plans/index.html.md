@@ -32,7 +32,7 @@ Success plans are another facet of [account engagement](/handbook/customer-succe
 As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the CSM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 
 ### Success Plan Training Certification 
-Follow this link for the Success Plan certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)
+Follow this link for the Success Plan certification on LevelUp: [Click here](https://levelup.gitlab.com/courses/elearning-tam-building-success-plans)
 
 ## Success Plan Prerequisites
 
