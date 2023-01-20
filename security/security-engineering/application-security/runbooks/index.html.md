@@ -11,6 +11,11 @@ title: "Application Security Runbooks"
 
 ## Application Security Runbooks
 
+_**Note for new joiners:** whenever you are on a rotation ([HackerOne][1] or [Triage Rotation][4]) or doing your onboarding process and need help or advice, reach out in the `#sec-appsec` Slack channel or ask during an AppSec Sync meeting. Here are some examples on scenarios where you may need ask or need help:_
+_- You're doing your onboarding tasks on threat model or appsec reviews, and you're stuck on it, or don't know how to tackle something in particular_
+_- You're on ping rotation, and you don't know how to deal with a particular situation, or what to do with a specific question_
+_- You're on HackerOne rotation and have to deal with a hard report_
+
 - [HackerOne Process][1]
 - [Procedures for Handling severity::1/priority::1 Issues][2]
 - [Security Engineer Process for both Regular and Critical Security Releases][5]
