@@ -74,7 +74,7 @@ Users may also be external to an organization, so the number of users may not re
 They also may have just the version ping on, in which case we won't see the number of users.
 This should not be interpreted as having instances but no users.
 
-For the process of working these accounts, appending contacts from third-party tools, and reaching out, please refer to the [business operations](/handbook/business-ops/) section of the handbook.
+For the process of working these accounts, appending contacts from third-party tools, and reaching out, please refer to the [business operations](/handbook/business-technology/) section of the handbook.
 
 ## Use Case Technology Tracking
 
