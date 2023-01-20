@@ -59,7 +59,7 @@ also refer to insights around the demonstration purpose and area of product walk
   * The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
   * The SA debriefed internally with their SAL/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
 
-- **Ride Along** - This activity type is used when one SA is shadowing another SA to help support the opportunity, provide feedback for the primary solutions architect, and to learn how the primary solutions architect works. Please leverage [the Ride Alongs](/handbook/customer-success/solutions-architects/sa-practices/ride-alongs/) handbook page to learn more about how Ride Alongs work.
+- **Ride Along** - This activity type is used when one SA is shadowing another SA to help support the opportunity, provide feedback for the primary solutions architect, and to learn how the primary solutions architect works. Please leverage [the Ride Alongs](/handbook/customer-success/solutions-architects/sa-practices/ride-alongs/) handbook page to learn more about how Ride Alongs work. Record this activity on Account level. Recording at the account level is required because ride alongs that are inter-segment or inter-region will not have their opportunities available to the riders. 
 
 - **Guided Trial** - This activity type is used in case a prospect or existing customer needs support from an SA during their self-evaluation via the GitLab Free trial offering.
 
