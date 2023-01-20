@@ -34,7 +34,7 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Marcella Summers - Manager, Alliance Operations
 - Jack Cassidy - Alliance Operations Analyst 
 
-### Department Responsiblities
+### Department Responsibilities
 
 #### Alliance Operations (Marcella, Jack)
 - Provide operational support and enablement to our [Alliances team](https://about.gitlab.com/handbook/alliances/) focusing on improving efficiency, effectiveness, and productivity
