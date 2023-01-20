@@ -124,7 +124,7 @@ Please contact [Payroll](mailto:payroll@gitlab.com) for any tax-related question
 
 ### Academic Study
 
-**Desription:** GitLab supports team members who wish to continue their education and growth within their professional career. The benefit will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment.
+**Description:** GitLab supports team members who wish to continue their education and growth within their professional career. The benefit will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment.
 
 The course must be from a credentialed college or university and must be relevant to your career development goals and development. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program. The relevance of the classes taken for each semester will be subject to the approval of the manager. The grade must be equivalent to a “B”.
 
@@ -134,7 +134,7 @@ The course must be from a credentialed college or university and must be relevan
 
 ### [Your 4th Trimester Coaching](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit)
 
-**Desription:** Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD.
+**Description:** Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD.
 
 **Eligibility for Reimbursement:** Team members returning from Parental Leave. The provider will invoice GitLab directly.
 
@@ -162,7 +162,7 @@ Coaching Right Now is our preferred and vetted coaching partner. If for some rea
 
 ### English Language Courses
 
-**Desription:** As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills. 
+**Description:** As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills. 
 
 Examples of English Language Courses:
      1. [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
@@ -181,7 +181,7 @@ Examples of English Language Courses:
 
 ### Professional Development/Certifications/Licenses
 
-**Desription:** Any certifications/licenses that you and your manager think will be relevant to your development. 
+**Description:** Any certifications/licenses that you and your manager think will be relevant to your development. 
 
 **Eligibility for Reimbursement:** Certifications and licenses related to your career development goals. For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement.
 
@@ -189,7 +189,7 @@ Examples of English Language Courses:
 
 ### Professional Dues/Membership
 
-**Desription:** Any professional development membership or dues that will be relevant to your growth and development. 
+**Description:** Any professional development membership or dues that will be relevant to your growth and development. 
 
 **Eligibility for Reimbursement:** Professional membership to an accredited organization that aligns with your role. Professional dues needed in order to continue members in an accredited organization. An invoice for the dues/membership is required.
 
@@ -197,7 +197,7 @@ Examples of English Language Courses:
 
 ### Workshops and Conferences
 
-**Desription:** Work-related conferences including registration, lodging, and meals. **The training budget does not include the cost for traveling to and from an event.** We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
+**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
 
 **Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/#business-essential) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. 
 
@@ -205,7 +205,7 @@ Examples of English Language Courses:
 
 ### Self-Service Learning (Skillserve, Coursera, Others)
 
-**Desription:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission](/company/mission/) of GitLab as a company.
+**Description:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission](/company/mission/) of GitLab as a company.
 
 **Eligibility for Reimbursement:** A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
 
@@ -213,7 +213,7 @@ Examples of English Language Courses:
 
 ### Code Based Learning
 
-**Desription:**The company will pay for courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. 
+**Description:**The company will pay for courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. 
 
 **Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
 
@@ -223,7 +223,7 @@ Examples of English Language Courses:
 
 **Before using your Growth & Development Benefit for a LinkedIn Learning license, check in the #learninganddevelopment Slack channel if there are any L&D allocated licenses available.**
 
-**Desription:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
+**Description:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
 
 **Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Expensify. 
 
