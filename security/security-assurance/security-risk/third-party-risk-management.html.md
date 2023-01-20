@@ -164,12 +164,14 @@ GitLab TPRM Engineers reserve the right to perform additional procedures at thei
 *Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange Controllers.
 **Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
 
-
 ### Other Types of Third Party Assessments
 
-#### Third Party Application Integrations
+#### Change Requests
+Change requests relating to previously-approved requisitions in Coupa will be reviewed by the on-call Engineer to determine whether a material change is being requested to (1) the scope of services provided, (2) the data elements transmitted to the vendor, or (3) the timeframe of the services provided. If material changes occur as defined here or that are otherwise identified resulting in a change to data classification or movement outside of the 12-month approval window from the previous review, a security assessment should be launched according to the TPRM assessment requirements detailed above. Changes requested specific to the cost of services and that do not present a material change impacting Security can be approved based on inheritance of approval from the parent requisition. 
 
-Third party integrations with GitLab's current [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) are also subject to a TPRM assessment process for instances where an integration that is provided by a vendor has not gone through the [standard TPRM Procedure](#procedure). The Team Member Enablement team will not enable third party integrations prior to an assessment being completed as mentioned on the [App Integrations](/handbook/business-technology/team-member-enablement/app-integrations/) handbook page. Details on the level of review performed for this type of request are available in the [Reviewing App Integration Requests runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/Runbooks/reviewing-app-integration-requests.md).
+_For example: We performed a TPRM assessment for Vendor X which was completed on December 31, 2021, resulting in a 12 month coverage period lasting to December 31, 2022. A change request was created in January 2023 (outside of coverage period) related to overage charges for services provided during November 2022 (within coverage period). This example change request can be approved without a new TPRM assessment._
+
+Engineers are advised to use professional judgment in determining the scope of changes and are encouraged to perform additional review prior to approving the Change Request if there is potential for introduction of additional risk. For other non-material adjustments not defined here that may not warrant additional review, Engineers should ping the Security Risk team or discuss with the Security Risk Manager prior to moving forward to ensure alignment with GitLab's due diligence requirements. Rationale should be documented when approving the Change Order in alignment with the low-risk approval language in the [TPRM README](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/Readme.md).
 
 #### Independent Contractors
 Independent Contractors requiring access to Orange or Red data in the provision of services must be vetted by Security prior to being granted system access. The below items are required prior to granting Security approval:
@@ -180,6 +182,11 @@ Independent Contractors requiring access to Orange or Red data in the provision 
     - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf.
 
 _Please note the above guidance applies to Independent Contractors that are not sourced through an approved contracting agency. Contracting agencies are assessed via the full vendor security review process detailed earlier in this page._
+
+#### Third Party Application Integrations
+
+Third party integrations with GitLab's current [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) are also subject to a TPRM assessment process for instances where an integration that is provided by a vendor has not gone through the [standard TPRM Procedure](#procedure). The Team Member Enablement team will not enable third party integrations prior to an assessment being completed as mentioned on the [App Integrations](/handbook/business-technology/team-member-enablement/app-integrations/) handbook page. 
+
 
 #### Independent Assessments
 
