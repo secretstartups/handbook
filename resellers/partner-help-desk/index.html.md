@@ -242,3 +242,19 @@ More information to come soon!
 ### Partner Invoices
 Partner invoices can be found on the Partner Account Record in SFDC under `Invoices.` It helps to either have the date of the transaction and/or when the related opportunity was Closed-Won in the system. 
 
+## Service Attach PoE
+Operational instructions for the Partner Help Desk's role in Service Attach PoEs can be found on the [Channel Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#service-attach-opportunities).
+
+When a partner emails partnersupport@gitlab.com with a Statement of Work (SOW) or Proof of Execution (PoE):
+1. Open the document and ensure the following data is included (if any information is missing, reply back to the partner and ask for it):
+   - Partner Name
+   - Customer Name
+   - Service Attach Deal ID
+2. Save a copy of the document for later upload to the system
+3. Search SFDC using the provided Deal ID
+4. Click on the Registration Record (and take note of the assigned Channel Manager)
+5. Change the Deal Registration `Status` from "Approved" to "Closed-Won"
+6. Navigate to the `Linked Opportunity` and chatter the Channel Manager who approved the Deal Registration
+   - In the chatter, upload the downloaded PoE document and tell the Channel Manager you've uploaded the document as well as updated the Service Attach registration to "Closed-Won."
+7. Reply to the partner and let them know that the PoE has been submitted. 
+
