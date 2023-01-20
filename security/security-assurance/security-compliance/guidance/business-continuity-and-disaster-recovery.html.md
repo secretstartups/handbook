@@ -44,7 +44,7 @@ The business continuity and disaster recovery plan is comprehensive by nature an
 * [GitLab Business Continuity Plan in Handbook](/handbook/business-ops/gitlab-business-continuity-plan/)
 * [Business Continuity Test handbook link](/handbook/business-ops/gitlab-business-continuity-plan/#business-continuity-testing)
 * [GitLab Disaster Recovery](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
-* [GitLab Reference Architectures](https://about.gitlab.com/solutions/reference-architectures/)
+* [GitLab Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
 * [GitLab Infra Epic for Geo](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1)
 * [GitLab Handbook listing of DR for Databases](/handbook/engineering/infrastructure/database/disaster_recovery.html)
 * [NIST Guidance on Business Continuity](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf)
