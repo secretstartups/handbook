@@ -44,10 +44,12 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 
 ## FY24 Yearlies
 
+FY24 Yearlies and additional detail can be found by [searching for the FY24 Yearlies Google Doc](https://drive.google.com/drive/search?q=%22FY24%20Yearlies%22).
+
 ### Strategic Pillar 1: [Customer Results](/company/strategy/#1-customer-results) 
 
 Improve customers results through:
-1. Ultimate Enablement
+1. Increasing NetARR from Ultimate up-tiers by $X
 1. Increasing Sales Efficiency
 1. Increasing User Awareness
 
