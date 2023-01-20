@@ -18,8 +18,8 @@ title: "GitLab Positioning FAQs"
     - GitLab EE.  GitLab Enterprise Edition builds on top of the Community Edition and includes extra features mainly aimed at organizations with more than 100 users. It has LDAP group sync, audit logs and multiple roles. It includes deeper authentication and authorization integration, has fine-grained workflow management, has extra server management options and it integrates with your tool stack.
     - Know the comparison charts
         - Overview of [feature availability by version](/features/)
-        - GitLab.com [comparison by tier](/pricing/gitlab-com/feature-comparison/)
-        - GitLab self-managed [comparison by tier](/pricing/self-managed/feature-comparison/)
+        - GitLab.com [comparison by tier](/pricing/feature-comparison/)
+        - GitLab self-managed [comparison by tier](/pricing/feature-comparison/)
 
 ### What is the benefit of using GitLab?
 
