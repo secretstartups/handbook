@@ -38,7 +38,7 @@ title: "GitLab tiers for sales assessment"
 
 Below table shows new capabilities added per tier.
 
-For further details on individual feature - visit [Why starter](https://about.gitlab.com/pricing/starter/), [Why premium](https://about.gitlab.com/pricing/premium/), [Why ultimate](https://about.gitlab.com/pricing/ultimate/) pages.
+For further details on individual feature - visit [Why starter](https://about.gitlab.com/pricing/premium/), [Why premium](https://about.gitlab.com/pricing/premium/), [Why ultimate](https://about.gitlab.com/pricing/ultimate/) pages.
 
 |	 | New in [Premium](https://about.gitlab.com/pricing/premium/) |	New in [Ultimate](https://about.gitlab.com/pricing/ultimate/) |
 | ------- | ---------------   | ---------------- | ---------------- |

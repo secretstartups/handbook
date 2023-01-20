@@ -85,7 +85,7 @@ Related Reading:
             - Software-defined Infrastructure
             - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
             - [Geographically distributed teams](/features/gitlab-geo/)
-            - [High availability development](/high-availability/)
+            - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
             - [DevSecOps](/solutions/dev-sec-ops/)
             - [Product page](/stages-devops-lifecycle/)
             - [Comparison page](/competition/)
@@ -110,7 +110,7 @@ Related Reading:
           - Software-defined Infrastructure
           - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
           - [Geographically distributed teams](/features/gitlab-geo/)
-          - [High availability development](/high-availability/)
+          - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
           - [Auto DevOps](/stages-devops-lifecycle/auto-devops/)
           - [CI/CD](/stages-devops-lifecycle/continuous-integration/)
           - [Product page](/stages-devops-lifecycle/)
@@ -128,7 +128,7 @@ Related Reading:
             - [Concurrent DevOps](/topics/concurrent-devops/)
             - [Auto DevOps](/stages-devops-lifecycle/auto-devops/)
             - [Geographically distributed teams](/features/gitlab-geo/)
-            - [High availability development](/high-availability/)
+            - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
             - [DevSecOps](/solutions/dev-sec-ops/)
             - [Product page](/stages-devops-lifecycle/)
             - [Comparison page](/competition/)

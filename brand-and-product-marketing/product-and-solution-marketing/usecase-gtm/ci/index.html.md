@@ -364,7 +364,7 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 **Why choose GitLab Premium for CI?**
 As you scale CI throughout your organization and onboard additional teams, GitLab Premium unlocks a faster path to value for any number of teams with expert support, advanced configurations, and consistent standards.
 - Gain peace of mind: take advantage of enterprise level priority support, including 24/7 uptime support, a named Customer Success Manager (CSM), and upgrade assistance.
-- Reliability and compliance: get the ability to [audit logs](https://docs.gitlab.com/ee/administration/audit_events.html), [auditor users](https://docs.gitlab.com/ee/administration/auditor_users.html), and have an actionable [disaster recovery strategy](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html) with support for [High Availability](https://about.gitlab.com/solutions/reference-architectures/).
+- Reliability and compliance: get the ability to [audit logs](https://docs.gitlab.com/ee/administration/audit_events.html), [auditor users](https://docs.gitlab.com/ee/administration/auditor_users.html), and have an actionable [disaster recovery strategy](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html) with support for [High Availability](https://docs.gitlab.com/ee/administration/reference_architectures/).
 
 **Key features with Premium:**
 * [Multi Project Pipelines](https://docs.gitlab.com/ee/ci/multi_project_pipelines.html)- link CI pipelines from multiple projects.
