@@ -507,7 +507,7 @@ To create the contract:
 
 ## How to add the New Hire to the remote platform
 
-1. Log into the remote platform 
+1. Log into the [Remote](https://employ.remote.com/dashboard) platform
 1. Click the onboarding tab on the left side of the page
 1. Click ‘add new employee’ on the top right corner of the page
 1. Click ‘employee’
@@ -518,7 +518,7 @@ To create the contract:
 Kindly note the following when filling in this section:
 
 1. Contract Duration: Most contracts will be indefinite, unless specified by the Recruiter    
-    - Probation Period: Use the default or minimum options specified by Remote. Please utilize this section of the handbook to determine probation. 
+    - Probation Period: Use the default or minimum options specified by Remote. Please utilize the [Probation Section](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) of the handbook to determine probation. 
     - For Mexico: When adding a team member to the Remote platform you should select 30 days as a Christmas bonus, not 15.
 1. Type of employee: Full time
 1. Annual Gross salary: as stated in the offer details in GH
@@ -554,31 +554,45 @@ Kindly note the following when filling in this section:
 1. Once you have reviewed, and everything is in order, click ‘invite now’. 
 1. Your candidate has been submitted successfully. You are able to see the progress on the Remote homepage. 
 
-## How to add the New Hire to the Papaya platform
+## How to add the New Hire to the Papaya platform?
 
-1. Log into the Papaya platform 
+1. Log into the [Papaya](https://gitlab.papayaglobal.com/backoffice/org/1826/dashboard) platform
 1. Click the ‘add worker’ tab on the top right side of the page
 1. Click ‘create new request’ under the EOR worker block
-1. Select the candidates country on the drop down 
-1. Click next
+1. Select the candidates country on the drop down
+1. Click next 
 1. You be will be on the ‘worker details’ page - fill in the candidates details 
-    -Please ignore the following: Company ID
+1. Please ignore the following: Company ID
 1. Click next
-1. You will now be on the ‘employment terms’ page - fill in the details 
-    -Please ignore the following: expected end date in the case of an indefinite contract & the organizational attributes
-1. Click continue
+1. You will now be on the ‘employment terms’ page - fill in the details
+1. Please ignore the following: expected end date in the case of an indefinite contract & the organizational attributes
+1. Click continue 
 1. You will be on the ‘contract compensation’ page - fill in the contract details 
-    -Please ignore the following: allowances & miscellaneous 
-    -Under contract terms, select the mandatory requirements by local law tabs for all 
+1. Please ignore the following: allowances & miscellaneous
+1. Under contract terms, select the mandatory requirements by local law tabs for all
 1. Click next
 1. You will be on the ‘initial employment terms letter’ page - fill in the contract details	
-1. Should papaya send the candidate the initial employment terms letter prior to the contract - click ‘yes’
-1. Click next
+1. Should papaya send the candidate the initial employment terms letter prior to the contract - click ‘yes’ 
+1. Click next 
 1. You will now be able to review all the candidate and contract details, you are able to edit them should you wish.
-    -Select all the term of the consent clause
-    -When should papaya contact the worker - select ‘as soon as possible’
+1. Select all the term of the consent clause
+1. When should papaya contact the worker - select ‘as soon as possible’
 1. Click submit
-1. Your candidate has been submitted successfully. You will be redirected to the papaya homepage
+1. Your candidate has been submitted successfully. You will be redirected to the papaya homepage  
+ 
+## Once the candidate is upload onto the Papaya platform:
+
+1. Once you submit the candidate, an alert will be sent to Papaya to inform them of the new project 
+1. Katie Taylor - KatieTa@papayaglobal.com (Customer Success Manager at Papaya who looks after GitLab) will reach out to the CES to confirm that she has received the alert. Should she ask for permission to contact the candidate directly - please confirm this ASAP. Papaya will validate the information submitted into the platform and reach out to CES or the candidate should there be any immediate questions regarding the contract information shared
+1. An offer overview (Offer Template) with the basic offer details will be sent to CES to approve (resembles our PEO Template) - once approved, a welcome email will be sent to the candidate - accompanied by the offer template. The Welcome Email will introduce the PEO to the candidate.
+1. At this stage, the candidate is also requested to verify their information and provide documents needed to complete the request. 
+1. Once the candidate has verified their information and provided the required documents, Papaya sends the offer draft to the Local Team (a contact person in the candidates country) to review the contract against the in-country laws - Duration: 48 hours 
+1. The Local Team then sends the offer to Papaya’s Legal Team once they have done their part. The Legal Team then approves the final offer. - Duration: 24 hours
+1. The approved offer will then be uploaded onto the Papaya Platform under hidden documents. CES will be informed to go and approve the final draft before it can be issued to the candidate.
+1. Should there be any questions or amendments that need to be made, depending on their complexity, they could have to be directed back to the Local Team (48 hours), then back to the Legal Team  (24 hours), before making its way back to us again.
+1. Once CES approves the offer, Papaya will extend it to the candidate.
+1. Should there be any questions or amendments that need to be made, depending on their complexity, they could have to be directed to the Local Team (48 hours), then back to the Legal Team (24 hours), before making its way back to us again for reapproval, then issued to the candidate again. 
+1. Once the candidate accepts, Papaya will inform us.  
 
 ## Employment Agreements for GitLab team members in China
 
