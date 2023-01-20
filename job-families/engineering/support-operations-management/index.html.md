@@ -147,7 +147,7 @@ Additional details about our process can be found on our
 
 ### Compensation Calculator
 
-To find out more about the compensation for this role, please apply to a open role on our [careers page](/jobs/careers/) first. Once you've applied and are selected for a screening call, you'll be able to sign up here to view our
+To find out more about the compensation for this role, please apply to a open role on our [careers page](/jobs/) first. Once you've applied and are selected for a screening call, you'll be able to sign up here to view our
 [compensation calculator](https://comp-calculator.gitlab.net/?role=Support%20Engineer).
 Be sure to use the same email address for both.
 
