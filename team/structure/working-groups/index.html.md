@@ -77,7 +77,7 @@ The first step is to carefully map out what type of activities are required for 
 
 The DRI should identify key folks who will be members of the Working Group. They could do this in a few ways:
 
-1. Reach out to the exec sponsor (if there is one) to help identify leads/contacts throughout the organization who could provide support
+1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
 1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
