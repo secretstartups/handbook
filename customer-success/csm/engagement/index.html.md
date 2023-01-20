@@ -89,7 +89,7 @@ Recommended options to review with the customer include:
 
 - Troubleshooting, errors, outages, and basic "how to" technical questions should go to Support.
 - Complex "how to" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
-- If disengagement is due to the customer downgrading/churning, identify the features they will lose access to with the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) page. 
+- If disengagement is due to the customer downgrading/churning, identify the features they will lose access to with the [feature comparison](https://about.gitlab.com/pricing/feature-comparison/) page. 
 - Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
 
 ## Customer Personas
