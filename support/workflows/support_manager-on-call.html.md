@@ -136,7 +136,7 @@ When GitLab experiences a [security incident](/handbook/security/security-operat
 
 ## Provide assistance with Upgrade Assistance Requests
 
-[Upgrade assistance requests](https://about.gitlab.com/support/scheduling-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
+[Upgrade assistance requests](https://about.gitlab.com/support/scheduling-upgrade-assistance/) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
 
 #### Example situations and potential solutions
 

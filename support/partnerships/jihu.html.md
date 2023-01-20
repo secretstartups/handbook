@@ -24,4 +24,4 @@ When JiHu Partnership members need to send files to GitLab Support, we have 2
 methods available to them:
 
 * Standard ticket uploads (20MB max)
-* [Support Uploader](https://about.gitlab.com/support/providing-large-files.html#support-uploader)
+* [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)

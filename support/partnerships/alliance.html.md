@@ -34,7 +34,7 @@ When Alliance Partners need to send files to GitLab Support, we have 3
 methods available to them:
 
 * Standard ticket uploads (20MB max)
-* [Support Uploader](https://about.gitlab.com/support/providing-large-files.html#support-uploader)
+* [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
 * A specialized connection to an s3 bucket
   * For this method, Support will use an application that is already
     available to them for listing and downloading the files as needed.

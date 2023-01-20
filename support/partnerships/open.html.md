@@ -42,7 +42,7 @@ When Open Partners needs to send support files, we have 2 methods
 available to accommodate this:
 
 * Standard ticket uploads (20MB max)
-* [Support Uploader](https://about.gitlab.com/support/providing-large-files.html#support-uploader)
+* [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
 
 ## Examples of Support Ticket Submission and Handling for Open Partners
 
