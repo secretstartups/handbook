@@ -11,7 +11,7 @@ As a team member responsible for helping to bridge the gap between business and 
 
 * Collaborate with team members to collect business requirements, define successful analytics outcomes, and design data models
 * Build trust in all interactions and with [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development)
-* Serve as the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](/handbook/business-ops/data-team/data-edw)
+* Serve as the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/)
 * Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
 * Create and maintain architecture and systems documentation in the [Data Team Handbook](/handbook/business-technology/data-team/)
 * Maintain the [Data Catalog](/handbook/business-technology/data-team/data-catalog/), a scalable resource to support Self-Service and Single-source-of-truth analytics
