@@ -65,7 +65,7 @@ Our customers get the most value out of the GitLab product when they use multipl
 |<span style="color: orange">Awareness</span>|  Impressions/Share of Voice                                                    | Marketing             | Blog, SEO, Ads, Campaign, AR, PR                  |
 | Initial Contact    | Get in touch with us                                                                                   | Marketing             | Trial, chat, or contact sales                     |
 |<span style="color: orange">Consideration</span>  | Willingness to talk                                                      | Marketing and Sales   | Initial Qualifying Meeting                    |
-| Enter Buying Cycle | [Pipeline stage movement](/handbook/business-ops/#opportunity-stages)                                  | Sales                 | Progress through pipeline stages                  |
+| Enter Buying Cycle | [Pipeline stage movement](/handbook/business-technology/#opportunity-stages)                                  | Sales                 | Progress through pipeline stages                  |
 |<span style="color: orange">Decision/Purchase</span>       | Dollar amount in contract                                                | Sales, Finance, Legal | Sign our paper/submit PO                          |
 | Adoption           | Usage ping of different DevOps stages                                                                  | Customer Success      |                                                   |
 | Reference          | Scale of reference-ability: e.g. more points for video; then blog; public reference; private reference | Customer Advocates    | Published material or entry to reference database |
