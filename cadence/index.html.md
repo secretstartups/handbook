@@ -68,27 +68,23 @@ Successfully achieving our KR of a beta value stream means progress against our 
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
 
-## Vision
-
-**10 years**
+## 10 years
 
 - [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
 - [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
 - Time needed for category creation
 - Commitment of DZ
 
-## Strategy
+## 3 years
 
-**3 years**
-
-1. Most of [3-year company strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+1. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
 1. [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook)
 1. [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
 1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 
-## Year
+## Year 
 
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
 1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
