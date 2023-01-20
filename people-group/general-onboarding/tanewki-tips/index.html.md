@@ -75,7 +75,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | IPO | Initial Public Offering | 
 | LGTM | Looks good to (me/merge)! |
 | KPIs| Key Performance Indicators |
-| MECC| [Managing so Everyone Can Contribute](/handbook/mecc/)|
+| MECC| [Managing so Everyone Can Contribute](/teamops/)|
 | MR | Merge Request  | 
 | MVC| [Minimum Viable Change](/handbook/values/#minimal-viable-change-mvc) (not related to Model-View-Controller)|
 | OKRs | [Objectives & Key Results](https://about.gitlab.com/company/okrs) |
