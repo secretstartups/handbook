@@ -36,7 +36,9 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 ## Scheduling preferences for Sid Sijbrandij, Co-founder and CEO
 
 1. Meetings before 8am and after 6pm Pacific require Sid's approval before scheduling. Please reach out to the EBA to the CEO with your rationale for an exception. If Sid agrees to a meeting at 7am or earlier, please schedule a block on his calendar on the previous day reminding him that he has a meeting before 7:30am PT the following day.
-1. Don't schedule over the Weekly E-group call unless approved by Sid
+1. If all meeting attendees are located in United States timezones, the meeting should not be scheduled before 10am PST. Morning times should be held for team members and external folks whose timezones make it harder for them to meet later in the day. 
+1. The EBA to the CEO will confirm that recipients have accepted invites. If a recipient has not accepted, the EBA to the CEO will reach out to confirm attendance at least 24 hours before the meeting is scheduled to begin.
+1. Don't schedule over the Weekly E-group call unless approved by Sid.
 1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent and important (unless there is a Board conflict)
 1. Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
 1. The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EBA
