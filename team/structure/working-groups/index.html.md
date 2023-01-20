@@ -147,7 +147,7 @@ Any material changes to the direction or plan for the Working Group should be pu
 
 ### Trust Building
 
-When a Working Group forms, it is important to [build trust](/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc... that allow Working Group members to build a personal connection.
+When a Working Group forms, it is important to [build trust](/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc. that allow Working Group members to build a personal connection.
 
 ### Disband the working group
 
