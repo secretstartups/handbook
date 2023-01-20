@@ -204,7 +204,7 @@ Our values should be top of mind in administering a PIP.
 
 #### Experience
 
-It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](/handbook/general-guidelines);
+It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](/handbook/);
 
 **GitLab team member:**
 
