@@ -51,7 +51,7 @@ GitLab is built on an open core model. That means there are two versions of GitL
 
 GitLab Community Edition is open source, with an MIT Expat license. GitLab Enterprise Edition is built on top of Community Edition: it uses the same core, but adds additional features and functionality on top of that. This is under a proprietary license.
 
-It is a good idea to familiarize yourself with the differences between CE and EE. As a Product Designer here at GitLab, you will have access to all the features within EE. The [tiers within CE and EE are listed here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). Review the [feature comparison](/pricing/self-managed/feature-comparison/) to understand the features available within each tier.
+It is a good idea to familiarize yourself with the differences between CE and EE. As a Product Designer here at GitLab, you will have access to all the features within EE. The [tiers within CE and EE are listed here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). Review the [feature comparison](/pricing/feature-comparison/) to understand the features available within each tier.
 
 ## GitLab design
 
