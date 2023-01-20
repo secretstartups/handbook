@@ -1287,7 +1287,7 @@ This video will walk you through the process of making an announcement:
 
 - To be added by Product Managers or Engineering Managers and merged by Technical Writers at least 3 milestones ahead of the planned removal date.
 
-  _For example, if the intended removal milestone is `16.0`, given the following release schedule: `15.9, 15.10, 15.11, 16.0`, then `15.8` is the third milestone preceding intended removal._
+  _For example, if the intended removal milestone is `16.0`, given the following release schedule: `15.9, 15.10, 15.11, 16.0`, then `15.9` is the third milestone preceding intended removal._
 - Create a separate MR for each announcement.
 - Do not edit the `features.yml` file until the feature has been removed from the product, or the breaking change has been implemented.
 - If you want to bundle multiple announcements in one MR, for example if it's a group of dependent deprecations that will happen on the same date as "all or none," reach out and first discuss this with the Release Post Manager.
