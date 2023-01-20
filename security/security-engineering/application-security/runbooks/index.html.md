@@ -29,6 +29,7 @@ title: "Application Security Runbooks"
 - [Appsec Frequenty Asked Questions][7]
 - [How to plan and measure engagement with Secure Code Warrior][9]
 - [Holiday and Friends and Family day coverage](./holiday-coverage.html)
+- [Gem Review Guidelines for AppSec Engineers][10]
 
 [1]: ./hackerone-process.html
 [2]: ./handling-s1p1.html
@@ -39,6 +40,7 @@ title: "Application Security Runbooks"
 [7]: ./faq.html
 [8]: ./bug-hunting-day.html
 [9]: ./scw-engagement-plan.html
+[10]: ./gem-review-guidelines.html.md
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
