@@ -72,7 +72,7 @@ In order to effectively identify, manage, and treat operational risks, GitLab ha
 
 The Security Risk Team conducts security operational Risk Identification interviews with individuals operating in at least a Manager capacity/level at GitLab in order to identify security operational risks within their respective departments. Risks identified will always be framed in terms of threat sources and threat events, and then assessed against the likelihood of occurrence and the impact to GitLab if the risk event occurs. Additionally, these risks will be assessed against the current internal controls in place to determine the overall residual risk remaining. 
 
-For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page. For guidance on drafting risk language see the [Risk Drafting Guidance](/handbook/security/security-assurance/security-risk/storm-program/index.html.md#risk-drafting-guidance) below. Risks will be quality reviewed by the Security Risk Manager or delegate and approval captured via comment in the GRC application.
+For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page. For guidance on drafting risk language see the [Risk Drafting Guidance](/handbook/security/security-assurance/security-risk/storm-program/#step-2-risk-identification) below. Risks will be quality reviewed by the Security Risk Manager or delegate and approval captured via comment in the GRC application.
 
 ### Step 3: Risk Tracking and Reporting
 
