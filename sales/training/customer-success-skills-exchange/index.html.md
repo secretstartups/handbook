@@ -19,23 +19,22 @@ description: "Continuous education webcast series for GitLab Customer Success te
 The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics for the Customer Success Team. 
 
 * Each training session has a [speaker](#speaker-responsibilities) and a [moderator](#moderator-responsibilities)
-* Sessions are approximatly 60 minutes long
-* The presentation/ demo portion should be about 20 minutes long, leaving 40 minutes for discussion and Q&A
+* Sessions are approximatly 50 minutes long
 
 
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Q3 2022 Lineup**
+**Q1 2023 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|  
-| 2022-08-03 | TBD | TBD | 
-| 2022-08-17 | Customer Reference Program Relaunch | Laura Clymer | 
-| 2022-09-07 | Storage, Transfer, Free User Limits | Josh Lambert | 
-| 2022-09-21 | TBD | TBD | 
-| 2022-10-05 | TBD | TBD | 
-| 2022-10-19 | Turning Customers into Contributors | Brendan O'Leary |
+| 2023-02-08 | Effective Communication | Cat Tran & Pallavi Daliparthi | 
+| 2023-02-22 | Monthly Product Overview | TBD | 
+| 2023-03-08 | Tech Skill | TBD | 
+| 2023-03-22 | Monthly Product Overview | TBD | 
+| 2023-04-05 | Professional Services | TBD | 
+| 2023-04-19 | Monthly Product Overview | TBD | 
 
 ## Past Sessions
 <details>
@@ -43,6 +42,11 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |                          
+| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Public |  
+| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Public | 
+| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** | Public | 
+| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** | Public | 
+| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | Public | 
 | 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** | Public |  
 | 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** | Public | 
 | 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | Public | 
@@ -139,14 +143,6 @@ As the moderator for the CS Skills Exchnage, you are responsible for identifying
 - One week before the webinar, confirm with the speaker that they are prepared and vailable for the session. This can help eliminate the need for last minute cancelations.
 - Day before webinar, send an announcement in the #customer-success Slack Channel. 
 
-Sample Accouncement:
-
-> Hey Team! 
-
-> Please join us for tomorrow's, < Insert Date>,  CS Skills Exchange at 10:30 AM US EST with <Name of Presenter> discussing <Copy of the session’s summary>
-
-> We hope to see you there! 
-
 
 **During the Webinar**
 
@@ -155,14 +151,8 @@ The moderator for each webinar should serve as the host of the call and overall 
 * Log in to zoom 5 minutes ahead of time
 * The video should not be recording, but pause if this is the case
 * Promptly welcome everyone to the call and remind them that the presentation will be public/private. Specifically mention how to talk about sensitive info on every intro. Be sure to start the meeting as close to the start time as possible. 
-
-> Hello and welcome to today's cs skills exchange session. As a reminder we'll be posting this session to YouTube. Please remember to not share any private info such as the names of non-referenceable customers.
-
-* Record the call to your local computer.
-
-> For today's GitLab CS Skills Exchange training we are pleased to have `<speaker name>` talk to us about `<topic>`. With that, I'd like to pass it over to `<speaker name>`
-
-* Monitor the time. If the presentation goes longer than 20 minutes, interrupt to remind the speaker that we are at 20 minutes and we want to leave time for Q&A.
+* Record the call.
+* Monitor the time. 
 * After the session, upload the video to  the [YouTube Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). 
 
 
@@ -173,11 +163,7 @@ The moderator for each webinar should serve as the host of the call and overall 
 
 Sample Announcement:
 
-> Hey Team,  
-
 > If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on YouTube!
 
 > You can find links to all previously recorded sessions on the [handbook page](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
-
-> I hope y'all have a great day!
 
