@@ -46,7 +46,7 @@ To serve as Support Manager for an Account Escalation, use the following steps.
 
 ### Step 0: Preparation
 
-- Ensure the [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/) has been followed.
+- Ensure the [Customer Success Escalations Process](/handbook/customer-success/csm/escalations/) has been followed.
 - Review all recent support tickets that have been opened by the customer to help you determine the right Lead Support Engineer for the escalation.
 
 ### Step 1: Lead Support Engineer Assignment
