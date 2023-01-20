@@ -56,15 +56,15 @@ Read more about the topic area from the links below:
   - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
   - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
   - [Group Direction - AI Assisted](https://about.gitlab.com/direction/modelops/ai_assisted/)
-  - [AI Assisted Group](https://about.gitlab.com/handbook/engineering/development/modelops/ai-assisted/)
+  - [AI Assisted Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)
 
 ### Related GitLab projects
 
   - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
     - [Architecture Diagram](https://gitlab.com/gitlab-org/spamcheck#architecture-diagram)
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
-  - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/ai-assisted/projects/unreview/)
-    - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/#architecture)
+  - [UnReview](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/projects/unreview/)
+    - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/data-science/appliedml/projects/unreview/#architecture)
 
 ### Related ML Slack channels
  - #g_applied_ml
