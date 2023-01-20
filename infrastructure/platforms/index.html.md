@@ -76,6 +76,10 @@ Once per week, we hold a `Platforms leads call` to align on action items related
 
 We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
 
+### Tools
+
+The Platforms section builds and maintains various tools to help deploy, operate and monitor our SaaS platforms. You can view a list of these tools in the [Platforms Tools Index](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/tools/).
+
 ### OKR
  
 OKRs (or other items outside of projects) that require status tracking should be updated each Wednesday. When updating the progress percentage of any given KR, it is not necessary to provide extensive notes. One sentence with a link to a larger update is sufficient in most cases. It is also acceptable to do a check-in without providing a note, but be advised that several updates in a row with no percentage change, and no additional details will need to be discussed with your manager.
