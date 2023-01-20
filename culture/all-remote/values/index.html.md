@@ -32,7 +32,7 @@ It also means lending a hand and speaking up when you believe certain values are
 
 This is particularly meaningful in an all-remote setting. With [less physical interaction](/company/culture/all-remote/informal-communication/), there's less buffer to compensate for indifference towards company values. Team morale is closely linked to the overall respect given to values. 
 
-Two, an overarching belief in a company's values contributes to less ambiguity in [decision making](/handbook/leadership/#making-decisions). Respected values serve as a universal north star, aligning team members on how to address any challenge or disagreement, even when there's [debate](/handbook/general-guidelines/#getting-things-done) related to approach or outcome. 
+Two, an overarching belief in a company's values contributes to less ambiguity in [decision making](/handbook/leadership/#making-decisions). Respected values serve as a universal north star, aligning team members on how to address any challenge or disagreement, even when there's [debate](/handbook/) related to approach or outcome. 
 
 ## There's as much to unlearn as there is to learn
 
@@ -58,7 +58,7 @@ It's critical that values be understood as early as the interview process, reite
 
 ![GitLab collaboration](/images/all-remote/gitlab-collaboration.jpg){: .medium.center}
 
-[Collaboration](/handbook/values/#collaboration) should not be conflated with [consensus](/handbook/general-guidelines/#getting-things-done). By establishing collaboration as a value, and defining it clearly, this allows GitLab to function more effectively as an all-remote company. When individuals and teams are [dispersed geographically](/company/culture/inclusion/#fully-distributed-and-completely-connected), it is imperative for collaboration to be active rather than passive. 
+[Collaboration](/handbook/values/#collaboration) should not be conflated with [consensus](/handbook/). By establishing collaboration as a value, and defining it clearly, this allows GitLab to function more effectively as an all-remote company. When individuals and teams are [dispersed geographically](/company/culture/inclusion/#fully-distributed-and-completely-connected), it is imperative for collaboration to be active rather than passive. 
 
 In a colocated company, collaboration can occur spontaneously by being in a shared space and overhearing something that leads to a broader discussion. All-remote forces our team to not leave collaboration to chance. Rather, we embrace collaboration and rely on the [feedback](/handbook/values/#give-feedback-effectively) of others to make improvements. 
 

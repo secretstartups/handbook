@@ -401,7 +401,7 @@ quickly rejected as 'won't work' or 'not interested' without much explanation."
 1. "Better supervision in the first two months"
    * Always be sure to reach out to your manager if you feel that you need more guidance. Your peers are a Slack message away.
 1. "Maybe a more competitive salary"
-   * From the [handbook](/handbook/general-guidelines): "If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer) please let your boss, or the CEO, know as soon as you realize it. We want to solve problems while they are small."
+   * From the [handbook](/handbook/): "If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer) please let your boss, or the CEO, know as soon as you realize it. We want to solve problems while they are small."
 1. "A step between review/QA and deployment."
    * Review happens through merge requests, and QA happens as part of the release process. We can't think of anything else at the moment that would not introduce gates that cause delay and inefficiency.
 1. "Off-site meetings during the year and/or team-specific summits, like a hackathon"
