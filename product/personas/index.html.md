@@ -69,7 +69,6 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Ingrid, Infrastructure Operator](/handbook/product/personas/#ingrid-infrastructure-operator)
   1. [Dakota, Application Development Director](/handbook/product/personas/#dakota-application-development-director)
 
-
 #### Cameron (Compliance Manager)
 
 - **Alternative Job Titles:** Compliance Program Manager, Audit Report Analyst, Audit Events Analyst
@@ -468,6 +467,11 @@ Dakota is a key IT leader who manages and leads several teams of developers supp
 ### Internal personas
 
 Internal personas reflect the workflow, needs, and challenges faced by GitLab team members. These personas support and influence the work of GitLab groups that serve internal use cases.
+
+#### List of internal personas
+
+  1. [Eddie, Content Editor (Internal persona)](/handbook/product/personas/#eddie-content-editor)
+  1. [Dana, Data Analyst (Internal persona)](/handbook/product/personas/#dana-data-analyst)
 
 #### Eddie (Content Editor)
 
