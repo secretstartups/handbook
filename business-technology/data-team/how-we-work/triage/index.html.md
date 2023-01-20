@@ -70,18 +70,18 @@ Steps to uplevel triaging process:
 
 #### Data Platform weekly rotation schedule
 
-The Data Platform Team will run an experiment in FY23-Q4 to have a weekly rotation schedule. This means that a Data Platform Team member is performing triage responsibilities from Monday - Friday. With running a weekly schedule Team members could focus more and better on outstanding issues and incidents and prevent doing handovers each and every day.
+In FY23-Q4 the Data Platform Team ran an experiment to move from a daily triage schedule to a weekly triage schedule. At the end of the quarter evaluation showed that: 
+- Average completion time of issues and incidents was trending **downwards**.
+- Close ratio of issues and incidents was trending **upwards**.
+ 
+Also a pulse check amongst Data Platform Team members learned that triage was more efficient because Team members were able to focus better. 
+The Data Platform Team will run on a weekly rotation schedule moving forward. This means that a Data Platform Team member is performing triage responsibilities from Monday - Friday. With running a weekly schedule Team members could focus more and better on outstanding issues and incidents and prevent doing handovers each and every day.
 
-Before the start of the quarter the Data Platform Team alligns on the weekly rotation schedule via an issue.
+Before the start of the quarter the Data Platform Team aligns on the weekly rotation schedule via an issue.
 - FY23-Q4: https://gitlab.com/gitlab-data/analytics/-/issues/14815
+- FY24-Q1: https://gitlab.com/gitlab-data/analytics/-/issues/15407
 
 Because of public holidays or unforeseen circumstances (Family and Friends day excluded, on these days we do not perform triage), the schedule can change throughout the quarter where there is still a possibility to handover a single day amongst Data Platform Team members. These changes are arranged between team members and are reflected in the Data Team calendar. 
-
-At the end of FY23-Q4 we will evaluate the experiment and decide how we will do triage in the Data Platform Team moving forward. As we try to make this fact based and data driven we will look at the following KPIs:
-- Average completion time of issues and incidents
-- Close ratio of issues and incidents
- 
-Second we will also run a pulse check amongst Data Platform Team members to hear the general impression of the new triage process. The combination of both will determine how we move forward.
 
 ### Enterprise Data Program Triage Instructions 
 
