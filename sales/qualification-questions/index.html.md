@@ -150,13 +150,13 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
     * Standard support: Next business day support (response within 24 hours 24x5)
     * Priority support: 4 hour response time for regular business support and 24x7 uptime support with a guaranteed 30 minute response time (best choice for minimizing outages and downtime
 * How confident are you in your team’s ability to roll out GitLab? What would be the impact if you had expert help to assist in guiding, planning, and shaping your deployment and implementation?
-    * Position how [Customer Success Manager](https://about.gitlab.com/services/technical-account-management/) access can help to mitigate deployment risk, accelerate time to value, and optimize ROI and TCO
+    * Position how [Customer Success Manager](https://about.gitlab.com/services/customer-success-management/) access can help to mitigate deployment risk, accelerate time to value, and optimize ROI and TCO
 * How do you normally handle software upgrades? Would it be helpful to have GitLab support to help you through the process to ensure there aren't any surprises?
     * If yes, position GitLab’s *Upgrade Assistance*
 
 #### Achieve High Availability and Disaster Recovery
 * What is your organization’s HA (High Availability) strategy? Do you have one? Why / why not?
-    * If HA support is needed, position Premium’s HA support via our [Reference Architectures](https://about.gitlab.com/solutions/reference-architectures/); note: Free offers HA capabilities with self-support vs. expert GitLab support
+    * If HA support is needed, position Premium’s HA support via our [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/); note: Free offers HA capabilities with self-support vs. expert GitLab support
 * How does your organization handle [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html)?
     * GitLab’s Disaster Recovery feature, only available in Premium and Ultimate SKUs, handles fail-over to another data center within minutes
 * Are your development teams centrally located in generally the same vicinity or are they distributed across the world? If distributed, how do you ensure that latency between geographically dispersed developers is minimized?

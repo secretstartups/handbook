@@ -87,7 +87,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
 *  **GitLab Features & Functionality**
-   - GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate. GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity. Check out this [reference guide](https://about.gitlab.com/product/) to learn more about what is included in each of the different stages of GitLab.
+   - GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate. GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity. Check out this [reference guide](https://about.gitlab.com/stages-devops-lifecycle/) to learn more about what is included in each of the different stages of GitLab.
 * **Product Tiering Quiz (Assignment - 25 Minutes - 10 Points - Pre Work)**
    - Take a moment to complete this short knowledge check [quiz](https://docs.google.com/forms/d/e/1FAIpQLScahosIQoghrijLvRacseegt65O3SBycTIubvzJsaFn5wp2RQ/viewform)
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
