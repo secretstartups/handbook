@@ -25,8 +25,7 @@ We think that it is logical that our collaboration tools are a collaborative
 work themselves. More than [3,000 people from the wider community](http://contributors.gitlab.com/) have
 contributed to GitLab to make that a reality.
 
-Our Mission is on a 30 year [cadence](/company/cadence/#mission){:data-ga-name="mission"}{:data-ga-location="body"}. Our [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} is on a 10 year cadence. Our [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} is on a 3-year cadence.
-
+Our Mission is on a 30 year [cadence](/company/cadence/#mission){:data-ga-name="mission"}{:data-ga-location="body"}. [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission. [Our Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} is on a 10 year cadence. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} is on a 3-year cadence.
 
 ## Mission
 
@@ -42,6 +41,10 @@ Our [BHAG](https://www.jimcollins.com/concepts/bhag.html) over
 is to become
 the most popular collaboration tool for knowledge workers in any industry. For
 this, we need to make the DevOps lifecycle much more user friendly.
+
+## Purpose
+
+Our mission is the way we realize [our purpose](/company/purpose/) of helping people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
 
 ## Values
 
