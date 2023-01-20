@@ -201,6 +201,7 @@ If you are interested in participating in an active working group, it is general
 1. [Expense Management](/company/team/structure/working-groups/expense-management/)
 1. [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 1. [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
+1. [GitLab Dedicated](/company/team/structure/working-groups/gitlab-dedicated/)
 1. [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 1. [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
 1. [Revenue Globalization](/company/team/structure/working-groups/globalization/)
