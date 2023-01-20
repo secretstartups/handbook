@@ -616,6 +616,14 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 1. Host the Retrospective Discussion and press livestream to Youtube.
 1. After the Retrospective Discussion, close the Retrospective planning and execution issue.
 
+### Utilizing Internal Notes in Retrospective Issues
+
+Monthly retrospectives are usually performed in a confidential issue made public upon close. Content of these issues while public aligns with [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/). 
+
+Where unSAFE information must be discussed in a retrospective, [Internal Notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) should be utilized in order to adhere to SAFE Guidelines. Internal notes remain confidential to participants of the retrospective even after the issue is made public, including Guest users of the parent group.
+
+Examples of information that should remain Confidential per SAFE guidelines are any company confidential information that is not public, or any data that reveals information not generally known or not available externally which may be considered sensitive information. Specific examples of information that should be carefully submitted to the retrospective include impact on revenue, information relating to the security of the platform, or specific customer data.
+
 ### Triaging retrospective improvements
 
 At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure) is responsible for triaging improvement items identified from the retrospective.
