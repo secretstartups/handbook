@@ -17,14 +17,13 @@ The period of each cadence differs.
 The timescale between periods are about 4x, varying from 3x to 5x.
 Below are the cadences we have at GitLab:
 
-1. Mission (30 years, 3x)
-1. Vision (10 years, 3.3x)
-1. Strategy (3 years)
-1. Year (4 quarters)
-1. Quarter (3 months)
-1. Month (4.3 weeks)
-1. Week (5 workdays)
-1. Day
+1. 30 years (3x 10 years)
+1. 10 years (3.3x 3-years)
+1. Strategy (3x year)
+1. Year (4x quarter)
+1. Quarter (3 month)
+1. Month (4.3x week)
+1. Week
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
@@ -58,12 +57,10 @@ Below is an example of how we will accomplish our longer term cadence goals by s
 
 Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, mission of everyone contributing, and purpose of people increasing their earnings. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals. 
 
-## Mission
+## 30 years
 
-**30 years**
-
-- [Our mission](/company/mission/#mission).
-- [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission.
+- [Our purpose](/company/purpose/) of increasing lifetime earnings
+- [Our mission](/company/mission/#mission) is how we achieve our purpose, by allowing everyone to contribute
 - [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
@@ -114,11 +111,6 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
 1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
-
-## Day
-
-1. [Group conversation](/handbook/group-conversations/){:data-ga-name="group conversation"}{:data-ga-location="body"}
-
 
 ```mermaid
 gantt
