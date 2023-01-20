@@ -258,3 +258,44 @@ When a partner emails partnersupport@gitlab.com with a Statement of Work (SOW) o
    - In the chatter, upload the downloaded PoE document and tell the Channel Manager you've uploaded the document as well as updated the Service Attach registration to "Closed-Won."
 7. Reply to the partner and let them know that the PoE has been submitted. 
 
+## Partner Certifications
+More information to come soon!
+
+
+### Pulling a Certification Report from the Partner Portal (Impartner PRM)
+1. In the Impartner PRM, click on the "Users" tab
+2. To the right of the long search box, click the filter (funnel) icon. This will open a "Filter Criteria" popup.
+3. Filter the criteria and click "Apply."
+  - Field = Account Name
+  - Operator = equals
+  - Value = the name of the account
+4. The resulting report will populate according to the standard columns. On the far right of the gray heading, click the icon that looks like an open book. It's the last icon on the page.
+5. Choose the following fields in the order provided below. (This will match what the partner sees when they visit the "manage team members" section.)
+  - User: Full Name
+  - User: Email
+  - User: Mailing Street
+  - User: Mailing City
+  - User: Mailing State
+  - User: Mailing Country
+  - User: Phone
+  - User: Account Activated
+  - User: Display on Partner Locator?
+  - User: Administrative Privileges
+  - User: SA Verified
+  - User: Sales Badged
+  - User: Sales Certified
+  - User: PSE Certified 2020
+  - User: PSE Certified 2021
+6. Click "Apply". You can also "Save this configuration" by marking the checkbox.
+7. To the right of the long search box, click the last icon to the right, which looks like a page with a down arrow in it, to download the report. This will open an "Export" popup.
+8. For "Which Records," choose "All found records." For "Which Columns?" choose "Current view." Then click "Export."
+9. Open the download in either Numbers or Excel.
+10. Change the column names from the Training Fields to the Names of the courses.
+  - SA Verified = Solution Architect Core Training
+  - Sales Badged = Sales Core Training
+  - Sales Certified = Sales Professional Accreditation
+  - PSE Certified 2020 = PSE Certified 2020
+  - PSE Certified 2021 = PSE Certified 2021
+10. Change all the fields labeled "False" to a blank.
+11. Change all the fields labeled “True” to an “X.” 
+12. Save the spreadsheet as a .csv file, and attach that to the email to the partner.
