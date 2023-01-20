@@ -107,11 +107,11 @@ The labels are (from left to right):
 
 ### Scheduling Professional Services
 
-Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. If there are lead time or availability questions, please ask the Enagagement Manager or Project Coordinator by tagging the group @ps-scheduling in the [professional services slack channel](#slack).
+Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. As part of the Discovery phase, please update the Project Scheduling Intake issue. The Project Coordinator will use this information to review staffing. If there are lead time or availability questions, please ask the Enagagement Manager or Project Coordinator by tagging the group @ps-scheduling in the [professional services slack channel](#slack).
 Please do not commit any project start dates prior to the SOW/contracts being signed without confirming with the PS Project Coordinator.
 
 Once the opportunity is updated to Close/ Won, here are the next steps:
 
 - The PS Project Coordinator will review the SOW and Order Form and work to set up the project in Mavenlink.
-- The PS Project Coordinator will reach out the account team to confirm customer contacts.
+- The PS Project Coordinator will reach out the account team for the customer contacts if the information has not been provided in the Project Scheduling Intake issue.
 - The PS Project Coordinator will send a Welcome to PS email within 72 business hours of the opportunity booking to the customer and copy the account team and Professional Services leaders.
