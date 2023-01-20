@@ -45,3 +45,9 @@ Manager in determining those that are not clear.
 For tickets to delete, you should simply select all of them (via the
 checkboxes), click the arrow next to the black button at the top right, and
 select Delete x ticket forever.
+
+**Notes**: 
+
+- As mentioned in the description of the [zd-sfdc-sync-global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global), accounts that have expired 3 or more years ago are checked and then all tickets and users associated with the organization in Zendesk are deleted. After doing so, the organization itself is then deleted. This means that you may encounter tickets that have been deleted by the *GitLab SupportOps Bot* user that appear to be legitimate, but have in fact been deleted intentionally. 
+
+If you are unsure if a ticket has been deleted intentionally or not, please review the deleted ticket with a fellow Support Ops team member. 
