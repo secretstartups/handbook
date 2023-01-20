@@ -113,7 +113,7 @@ Support GitLab team members in excelling within GitLab and beyond. Be a company 
     1. Gender
     1. Geo
 1. Great training
-    1. [TeamOps](/handbook/teamops/) 
+    1. [TeamOps](/teamops/) 
     1. [Low voluntary turnover](/handbook/people-group/people-success-performance-indicators/#voluntary-team-member-turnover-rolling-12-months)
     1. People who leave voluntarily do very well
   	  1. Note: we are confirming our ability to measure this
