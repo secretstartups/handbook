@@ -38,7 +38,7 @@ Lead select cross-functional initiatives of importance to GitLab.
 | ------ | ------ |------ | ------ |
 | SaaS Free User Efficiency | @ipedowitz | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1) |
 | Leading Organizations Strategy | @epetoskey| Increase number of monthly unique contributors as part of the User Engagement Initiative. | [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880), [User Engagement Initiative](https://gitlab.com/groups/gitlab-com/-/epics/1794#note_1039614259) |
-| TeamOps | @dmurph and @jessicareeder | TeamOps is a new people practice that brings precision and operations to how people work together. | [Handbook](https://about.gitlab.com/handbook/teamops/) [Certification](https://levelup.gitlab.com/learn/course/managing-so-everyone-can-contribute-mecc) [MR Label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&state=merged&label_name%5B%5D=TeamOps)|
+| TeamOps | @dmurph and @jessicareeder | TeamOps is a new people practice that brings precision and operations to how people work together. | [Handbook](https://about.gitlab.com/teamops/) [Certification](https://levelup.gitlab.com/learn/course/managing-so-everyone-can-contribute-mecc) [MR Label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&state=merged&label_name%5B%5D=TeamOps)|
 
 ## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
