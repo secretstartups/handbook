@@ -30,7 +30,7 @@ For more information on general Product Usage Reporting, see [Using Product Usag
 | [GS] Geo? | Is your customer using Geo? Manually filled by the CSM |  | [Link](https://about.gitlab.com/solutions/geo/) |
 | [GS] GitLab Issue Link | Account related Gitlab Issue(s) |  |  |
 | [GS] Google Doc Notes | Google Doc Notes URL Manually filled by the CSM |  |  |
-| [GS] High Availability? | Does your customer require High Availability (HA) solutions and/or zero-downtime upgrade? Manually filled by the CSM |  | [Link](https://about.gitlab.com/solutions/reference-architectures/) |
+| [GS] High Availability? | Does your customer require High Availability (HA) solutions and/or zero-downtime upgrade? Manually filled by the CSM |  | [Link](https://docs.gitlab.com/ee/administration/reference_architectures/) |
 | [GS] Hosting | What is their (primary) hosting setup? Manually filled by the CSM |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/deployment-types/#hosting) |
 | [GS] Last Activity Date | This field reflects the latest Call, Meeting, or Email activity entry logged for the customer. See handbook for details |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |
 | [GS] Last CSM Activity Date | Last activity as recorded in GS by CSMs to track synchronous conversations with their customer |  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#last-activity-date) |

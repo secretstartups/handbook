@@ -189,7 +189,7 @@ These are suggestions that can be used at any time on customer calls.
 - Discuss if their users have any feedback, pain points, or blockers
 - Ask if there is anything the CSM can assist on towards resolution (feature requests, support tickets, etc.)
 - Ask about any gaps in or outdated information in Gainsight (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
-- If self-managed, review their current version, planned upgrades, and if they need [Upgrade Assistance](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance)
+- If self-managed, review their current version, planned upgrades, and if they need [Upgrade Assistance](/support/scheduling-upgrade-assistance/#how-do-i-schedule-upgrade-assistance)
 - If self-managed, review if there are any planned, upcoming, or ongoing deployment changes (e.g. Geo, HA, etc.) and ensure they are familiar with support
 - If self-managed, discuss their backup/recovery plans and if they have recently tested restoring from a backup
 - If self-managed, discuss if they have [signups enabled](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html)
