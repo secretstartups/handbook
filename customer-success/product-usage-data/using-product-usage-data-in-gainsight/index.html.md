@@ -50,7 +50,7 @@ For a high level overview (7 minutes), see the [Using Product Usage Reporting in
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">SaaS Free/Trial <br>Usage Reporting</a>
-<a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Product Usage Reporting FAQs</a>
+<a href="/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Product Usage Reporting FAQs</a>
 </div>
 
 

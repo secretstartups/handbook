@@ -171,7 +171,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) 
 ### Other Sales Topics
 
 - [Sales Handbook](/handbook/sales/)
-- [Sales Operations](/handbook/business-ops/)
+- [Sales Operations](/handbook/business-technology/)
 - [Sales Skills Best Practices](/handbook/sales-training/)
 - [Sales Discovery Questions](/handbook/sales-qualification-questions/)
 - [EE Product Qualification Questions](/handbook/sales-qualification-questions/)
