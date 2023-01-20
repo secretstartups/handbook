@@ -17,13 +17,13 @@ The period of each cadence differs.
 The timescale between periods are about 4x, varying from 3x to 5x.
 Below are the cadences we have at GitLab:
 
-1. 30 years (3x 10 years)
-1. 10 years (3.3x 3-years)
-1. Strategy (3x year)
-1. Year (4x quarter)
-1. Quarter (3 month)
-1. Month (4.3x week)
-1. Week
+1. [30 years](#30-years) (3x 10 years)
+1. [10 years](#10-years) (3.3x 3-years)
+1. [3 years](#3-years) (3x year)
+1. [Year](#year) (4x quarter)
+1. Quarter](#quarter) (3x month)
+1. Month](#month) (4.3x week)
+1. Week](#week)
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
@@ -69,8 +69,8 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 - [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
 - [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
+- [Commitment of DZ](https://about.gitlab.com/blog/2021/11/10/a-special-farewell-from-gitlab-dmitriy-zaporozhets/)
 - Time needed for category creation
-- Commitment of DZ
 
 ## 3 years
 
