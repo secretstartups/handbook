@@ -11,10 +11,6 @@ canonical_path: "/company/purpose/"
 - TOC
 {:toc}
 
-## Mission
-
-GitLab believes that [everyone can contribute](/company/mission/){:data-ga-name="mission"}{:data-ga-location="body"}. 
-
 ## Purpose
 
 GitLab’s purpose is to help people increase their lifetime earning through training, access to opportunities, and the DevOps platform.
@@ -30,6 +26,9 @@ GitLab's purpose lies at the intersection of these four circles.
 1. Passionate about: open (to contributions, transparency)
 1. Economic value: bundling into a single application 
 
+## Mission
+
+[Our mission](/company/mission) is the way we realize our purpose of increasing lifetime earnings, we do that by allowing **everyone to contribute**, to both our product, and our company.
 
 ## How we support the purpose
 
