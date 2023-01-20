@@ -40,7 +40,7 @@ title: "Application Security Runbooks"
 [7]: ./faq.html
 [8]: ./bug-hunting-day.html
 [9]: ./scw-engagement-plan.html
-[10]: ./gem-review-guidelines.html.md
+[10]: ./gem-review-guidelines.html
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
