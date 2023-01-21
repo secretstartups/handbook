@@ -17,7 +17,7 @@ This lab uses SAST to identify security vulnerabilities in your code.
 1. Go to `CI Test` > `.gitlab-ci.yml`.
 1. **Open Web IDE** to edit the yaml file.
 1. Pull up the [SAST docs page](https://docs.gitlab.com/ee/user/application_security/sast/) to assist with this lab. This page shows instructions for including SAST in CI/CD pipelines and lists the languages and frameworks that SAST supports.
-1. On the docs page, scroll down to the **Configure SAST manually** header and read that section.
+1. On the docs page, scroll down to the **Configure SAST in your CI/CD YAML** header and read that section.
 1. Copy the following lines:
 ```yaml
 include:
