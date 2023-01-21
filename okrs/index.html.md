@@ -196,12 +196,7 @@ Executives should consider how their OKR efforts can have the greatest impact on
 
 When ready for review or when changes to objectives or KRs are made, relevant objectives and KR links from GitLab should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO. The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
 
-Function objective should cascade from one of the CEO's OKRs in GitLab using the steps below:
-   1. In GitLab, navigate to the OKRs project and click [add objective](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
-   1. Enter the title of the objective. 
-   1. Click on the objective to add additional details.
-   1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
-   1. Set the your team as the owner for the OKR by assigning the proper labels.
+See [How to Use GitLab for OKRs](/#how-to-use-gitlab-for-okrs) for how to create and align OKRs to CEO OKRs using GitLab.
 
 ### OKR Draft Review Meeting
 
@@ -268,7 +263,7 @@ Functional leaders are responsible for updating their objectives and KRs in GitL
 
 ## How to Use GitLab for OKRs
 
-#### Creating Objectives
+### Creating Objectives
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in GitLab, follow the steps below:
 1. In the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), navigate to OKRs by selecting **Issues** on the left sidebar. 
@@ -277,6 +272,7 @@ To add new objectives in GitLab, follow the steps below:
       1. If objective contains confidential information, the objective can be set to confidential by checking the box that states `This objective is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the objective.
 1. Select the objective from the list to open in an editable view and add more details:
       1. Identify the owner for the objective and assign them.
+         1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the objective. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
       1. Identify the quarter for the objective and set the corresponding milestone.
       1. Add labels so objective is [searchable/filterable](#search-and-filter-okrs): 
          1. Add `OKR` label.
@@ -290,7 +286,7 @@ To add new objectives in GitLab, follow the steps below:
 
 `Objective Example Placeholder: 1x example full product/R&D hierarchy of labels, 1x example just division`
 
-#### Creating Key Results
+### Creating Key Results
 Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Key Results must be created as part of an Objective and cannot be created independent of an Objective. Since KRs [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an objective, KRs cannot be created independent of an objective.
 To add new key results in GitLab, follow the steps below:
 1. Navigate to the the objective that you want to add a child key result to by opening the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), selecting **Issues** on the left sidebar, then clicking on the target objective. 
@@ -299,6 +295,7 @@ To add new key results in GitLab, follow the steps below:
    1. If key result contains confidential information, the key result can be set to confidential by checking the box that states `This key result is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the key result.
 1. Select the key result from the list in the **Child objectives and key results** section to open in an editable view and add more details:
       1. Identify the owner for the key result and assign them.
+         1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
       1. Identify the quarter for the key result and set the start date as the first date of that quarter and set the due date to the last day of that quarter.
       1. Add labels so that KR is [searchable/filterable](#search-and-filter-okrs): 
          1. Add `OKR` label.
@@ -318,7 +315,7 @@ Watch this video for a demo on how to use GitLab for OKR management:
   <iframe src="https://www.youtube.com/embed/MFDnUzNadOQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-#### How to Align Team OKRs to the CEO OKRs
+### How to Align Team OKRs to the CEO OKRs
 Once team OKRs have been added to GitLab, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not relate to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
 
 Follow the steps below to align team OKRs to the CEO OKRs: 
