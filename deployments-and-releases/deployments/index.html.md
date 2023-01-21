@@ -9,31 +9,8 @@ title: "Deployments"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Resources
-
-| Description        | Location            |
-|--------------------|---------------------|
-| Deployment orchestration | [Link](https://gitlab.com/gitlab-org/release-tools/) |
-| Deployment documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
-| Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
-| Delivery group issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
-| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
-| Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
-
 ## Overview and terminology
-
-* **GitLab.com deployment**: [Auto-deploy][process-auto-deploy-release] that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
-* **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
-
-**The main priority** of both deployments and [releases](/handbook/engineering/releases/) **[is GitLab availability & security](/handbook/engineering/development/principles/#prioritizing-technical-decisions)**
-as an application running on both GitLab.com and for users running GitLab
-in their own infrastructure.
-
-We follow a Continuous Deployment approach with the goal of deploying as frequently as possible to keep batch sizes small. This means that GitLab.com **lives in the now** with changes tracked using commit SHAs rather than [semver] versioning as used by self-managed installations.
-
-Releases for self-managed users are built from a collection of many successfully deployed `auto-deployments` on GitLab.com. Users on GitLab.com therefore receive features and bug fixes earlier than users of self-managed installations.
-
-The [Deployment and Release process overview] shows how the GitLab.com deployment process is related to releases for self-managed users
+This page describes the individual steps involved in deploying application changes to GitLab.com. Guidance on how to follow the deployment process are also described. For a high-level view of the overall deployment and release approach please see the [Deployments and Releases handbook page](/handbook/engineering/deployments-and-releases/).  
 
 ### GitLab.com deployments process
 
@@ -86,11 +63,13 @@ When a release manager executes the post-deploy migration pipeline:
 
 Details of this pipeline can be found in the [post-deploy migration pipeline documentation].
 
+To determine if a post-deploy migration has been executed [please see this guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/post_deploy_migration/readme.md) for more information.
+
 ### Deployment blockers
 
-Anyone can **halt or block a deployment** by:
+Anyone can **halt or block a deployment to Production** by:
 1. Declaring a [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
-2. Applying the `blocks deployments` label. This prevent automated deployments from starting.
+2. Applying the `blocks deployments` label. This prevent automated deployments to the Production environment from starting.
 3. Alerting the Release Managers in the [#releases] channel. 
 
 In addition, automated deployments to **any production environment** (including [canary]), are
@@ -158,11 +137,16 @@ If a regression is found in a new feature, and only that feature is affected, fo
 
 For high severity bugs found in the lead up to the 22nd of the month please also alert the Release Managers in [#releases].
 
-### How can I determine if a post-deploy migration has been executed?
+## Resources
 
-See [this](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/post_deploy_migration/readme.md#how-to-determine-if-a-post-deploy-migration-has-been-executed-on-gitlabcom)
-guide for more information.
-
+| Description        | Location            |
+|--------------------|---------------------|
+| Deployment orchestration | [Link](https://gitlab.com/gitlab-org/release-tools/) |
+| Deployment documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
+| Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
+| Delivery group issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
+| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
 
 [semver]: https://semver.org
 [Deployment and Release process overview]: /handbook/engineering/deployments-and-releases/#deployment-and-release-process-overview
