@@ -188,7 +188,7 @@ Exceptional community members may be able to participate, as well.
 | 2022-03-06 | 2023-03-10 | [Aleksandr Lyubenkov](https://gitlab.com/alyubenkov) - Sr. SDET | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr. Solutions Architect |
 | 2022-03-13 | 2023-03-17 | AVAILABLE - REMOTE | [Aleksandr Lyubenkov](https://gitlab.com/alyubenkov) - Sr. SDET |
 | 2022-03-20 | 2023-03-24 | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE | AVAILABLE - REMOTE |
-| 2022-03-27 | 2023-03-31 | AVAILABLE - REMOTE | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE |
+| 2022-03-27 | 2023-03-31 | [Matthew Taylor](https://gitlab.com/m_taylor) Sr. Director Legal Commercial | [Torsten Linz](https://gitlab.com/tlinz) - REMOTE |
 
 If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
