@@ -53,14 +53,14 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 ### Customer Success Manager (CSM)
 - Trusted strategic advisor to the customer
 - [Responsible](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
-   - Onboarding
-   - Success Planning 
-   - Stage adoption & expansion
-   - Executive Business Reviews
-   - Risk Mitigation
-   - Renewal Discussions
-- Leads regular cadence calls and keeps the customer collaboration projects up-to-date
-- Maintains Gainsight records of customer health and triaging as necessary
+   - [Onboarding]](/handbook/customer-success/csm/onboarding/)
+   - [Success Planning](/handbook/customer-success/csm/success-plans/) 
+   - [Stage adoption & expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/)
+   - [Executive Business Reviews](/handbook/customer-success/csm/ebr/)
+   - [Risk Mitigation](/handbook/customer-success/csm/risk-mitigation/)
+   - [Renewal Discussions](/handbook/customer-success/csm/renewals/)
+- Leads regular [cadence calls](/handbook/customer-success/csm/cadence-calls/) and keeps the [customer collaboration projects](/handbook/customer-success/csm/customer-collaboration-project/) up-to-date
+- Maintains [Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) records of customer health and triaging as necessary
 - Account escalation point of contact for [High or Critical Escalations](/handbook/customer-success/csm/escalations/)
 
 ## Account Team Meetings
@@ -88,7 +88,7 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 - [Working Agreement](/handbook/customer-success/solutions-architects/processes/#working-agreements) 
 - Salesforce
 - Gainsight
-- Customer collaboration project
+- [Customer collaboration project](/handbook/customer-success/csm/customer-collaboration-project/)
 - Customer meeting notes
 
 ## Working Together throughout the Customer's Lifecycle  
