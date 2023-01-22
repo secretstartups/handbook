@@ -73,8 +73,10 @@ We monitor our features using different dashboards. It is recommended to check t
 
 These dashboards are all internal and can be only accessed by GitLab Team members.
 
-- [Package Dashboard](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package) (Grafana)
-- [Package Error Budgets (7 days)](https://dashboards.gitlab.net/d/stage-groups-detail-package/stage-groups-package-group-error-budget-detail?from=now-7d&to=now&orgId=1) (Grafana)
+- [Package Registry Dashboard](https://dashboards.gitlab.net/d/stage-groups-package_registry/stage-groups-package-registry-group-dashboard) (Grafana)
+- [Container Registry Dashboard](https://dashboards.gitlab.net/d/stage-groups-container_registry/stage-groups-container-registry-group-dashboard?orgId=1 (Grafana)
+- [Package Registry Error Budgets (7 days)](https://dashboards.gitlab.net/d/stage-groups-detail-package_registry/stage-groups-package-registry-group-error-budget-detail?from=now-7d&to=now&orgId=1) (Grafana)
+- [Container Registry Error Budgets (7 days)](https://dashboards.gitlab.net/d/stage-groups-detail-container_registry/stage-groups-container-registry-group-error-budget-detail?from=now-7d&to=now&orgId=1) (Grafana)
 - [Container Registry](https://log.gprd.gitlab.net/goto/e7b62a23a5a9cdc88aa1de3cdb392758) (Kibana)
 - [Container Registry garbage collection details](https://dashboards.gitlab.net/d/registry-gc/registry-garbage-collection-detail?orgId=1&from=now-30d&to=now&var-PROMETHEUS_DS=Global&var-environment=pre&var-cluster=pre-gitlab-gke&var-stage=main&var-namespace=gitlab&var-Deployment=gitlab-registry) (Grafana)
 - [Cleanup policies for Container Images](https://log.gprd.gitlab.net/goto/b03da1dcaf2ac281994f72687347f40a) (Kibana)
