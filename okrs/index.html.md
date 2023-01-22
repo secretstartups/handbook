@@ -263,6 +263,12 @@ Functional leaders are responsible for updating their objectives and KRs in GitL
 
 ## How to Use GitLab for OKRs
 
+Watch this video for a demo on how to use GitLab for OKR management: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/GbnixzsRjNs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Creating Objectives
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in GitLab, follow the steps below:
@@ -309,11 +315,13 @@ To add new key results in GitLab, follow the steps below:
 
 `KR Example Placeholder: 1x example full product/R&D hierarchy of labels, 1x example just division`
 
-Watch this video for a demo on how to use GitLab for OKR management: 
+Watch this video for a demo on how to create objectives and key results: 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/MFDnUzNadOQ" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/QmOM7J0Tu0o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+
 
 ### How to Align Team OKRs to the CEO OKRs
 Once team OKRs have been added to GitLab, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not relate to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
@@ -329,6 +337,12 @@ Follow the steps below to align team OKRs to the CEO OKRs:
       1. [This view](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=division%3A%3AEngineering&first_page_size=100) shows all engineering division OKRs. Division::engineering label can be swapped out for any other division/stage/section/group scoped label.
       2. [This view](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=sytses&first_page_size=100) shows all OKRs assigned to `@sytses` 
 2. You can bookmark or share the URL for future reference. 
+
+Watch this video for a demo on how to find the OKRs you're looking for: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/-wFJqtJQMHo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Maintaining the status of OKRs
 
