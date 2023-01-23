@@ -194,7 +194,7 @@ To invite the users, do the following:
 ### Organization update
 
 Finally, update the organization within Zendesk. You want to set the
-`AM Project ID` field to have the project ID.
+`Contact Management Project ID` field to have the project ID.
 
 ## Final stage
 
