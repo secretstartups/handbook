@@ -12,7 +12,6 @@ description: "The System Usability Scale (SUS) is a performance indicator we use
 
 The [System Usability Scale](https://measuringu.com/sus/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Our current and past SUS scores can be found in the [UX Department Performance Indicators](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score).
 
-
 Collectively, SUS consists of ten questions, which are positively and negatively oriented:
 
 1. *I think that I would like to use GitLab frequently.*
@@ -106,19 +105,19 @@ Even though SUS scores are on a 100-point scale, they are not percentages and sh
 Company targets for our SUS score are: 73 by Q4-FY24, 77 by Q4-FY25, and 82 by Q4-FY26.
 
 | Grade | SUS | Percentile | Adjective |
-| ----- | ----- | ----- | ----- |
-| A+ | 84.1-100 | 96-100 | Best Imaginable |
-| A | 80.8-84.0 | 90-95 | Excellent |
-| A- | 78.9-80.7 | 85-89 |  |
-| B+ | 77.2-78.8 | 80-84 |  |
-| B | 74.1 – 77.1 | 70 – 79 |  |
-| B- | 72.6 – 74.0 | 65 – 69 |  |
-| C+ | 71.1 – 72.5 | 60 – 64 | Good |
-| C | 65.0 – 71.0 | 41 – 59 |  |
-| C- | 62.7 – 64.9 | 35 – 40 |  |
-| D | 51.7 – 62.6 | 15 – 34 | OK |
-| F | 25.1 – 51.6 | 2– 14 | Poor |
-| F | 0-25 | 0-1.9 | Worst Imaginable |
+| ----- | ----------- | ------- | ---------------- |
+| A+    | 84.1-100    | 96-100  | Best Imaginable  |
+| A     | 80.8-84.0   | 90-95   | Excellent        |
+| A-    | 78.9-80.7   | 85-89   |                  |
+| B+    | 77.2-78.8   | 80-84   |                  |
+| B     | 74.1 – 77.1 | 70 – 79 |                  |
+| B-    | 72.6 – 74.0 | 65 – 69 |                  |
+| C+    | 71.1 – 72.5 | 60 – 64 | Good             |
+| C     | 65.0 – 71.0 | 41 – 59 |                  |
+| C-    | 62.7 – 64.9 | 35 – 40 |                  |
+| D     | 51.7 – 62.6 | 15 – 34 | OK               |
+| F     | 25.1 – 51.6 | 2– 14   | Poor             |
+| F     | 0-25        | 0-1.9   | Worst Imaginable |
 
 ## Communicating out the themes
 
@@ -127,22 +126,22 @@ Every quarter, we review feedback from survey respondents and code the responses
 ### SUS verbatims share out by stage 
 Every quarter, an issue will be created and assigned to the PDMs to categorize the verbatims that fall into their stage(s). Once the verbatim is categorized by stage, it will automatically get populated in the stage-specific tab within the SUS document. The stage-specific verbatims then will be distributed via designated Slack channels. 
 
-| Stage       |Slack channel(s) to communicate findings UXR| 
-|-------------|-------------------------------|
-| Manage     |   #s_manage                    |      
-| Plan       |   #s_plan                      |      
-| Create     |   #s_create                    |      
-| Verify     |  #s_verify, #ops_section       |      
-| Package    |  #s_package, #ops_section      |      
-| Release    |  #s_release, #ops_section      |      
-| Configure  |  #s_configure, #ops_section    |      
-| Monitor    |  #s_monitor, #ops_section      |      
-| Secure     |  #s_secure                     |      
-| Govern     |  #s_govern                     |      
-| Growth     |  #s_growth                     |      
-| Fulfillment|  #s_fulfillment                |      
-| Enablement |      #s_enablement             |      
-| Foundations|     #g_manage_foundations   | 
+| Stage      | Slack channel(s) to communicate findings UXR| 
+|------------|-------------------------------|
+| Manage     |  #s_manage                    |      
+| Plan       |  #s_plan                      |      
+| Create     |  #s_create                    |      
+| Verify     |  #s_verify, #ops_section      |      
+| Package    |  #s_package, #ops_section     |      
+| Release    |  #s_release, #ops_section     |      
+| Configure  |  #s_configure, #ops_section   |      
+| Monitor    |  #s_monitor, #ops_section     |      
+| Secure     |  #s_secure                    |      
+| Govern     |  #s_govern                    |      
+| Growth     |  #s_growth                    |      
+| Fulfillment|  #s_fulfillment               |      
+| Enablement |  #s_enablement                |      
+| Foundations|  #g_manage_foundations        | 
 
 Use the following sample messaging text when sharing out the stage-specific insights:
 
@@ -154,7 +153,6 @@ Use the following sample messaging text when sharing out the stage-specific insi
 > You can view the remaining `#` quotes here --> `link to the Sheet, on the specific tab`
 
 > Let me know if you have any questions or if you're interested in pursuing some of these!
-
 
 ## SUS Responder Outreach
 We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html).
@@ -191,4 +189,5 @@ A: There isn’t a single answer to this question, as sample size depends on how
 A: Issues that relate to SUS will have one of the labels indicated in the [How we use labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) section of the UX Department Handbook. If you see an issue that relates to usability problems that fall in line with recent SUS findings, feel free to add one of the labels to it. When in doubt, reach out to your manager or ask in the `#ux` Slack channel.
 
 **Q: Does our SUS Database keep all of the past SUS surveys?**
+
 A: The SUS Database stores our SUS surveys going back to our FY21Q4 Survey, but surveys from FY20Q1 to FY21Q3 are not stored. This is because prior to FY21Q4, our collection process was different, and the format of the results do not match our SUS Database structure. If you would like to see surveys from FY20Q1 to FY21Q3, you can message the `#ux_research` Slack channel.
