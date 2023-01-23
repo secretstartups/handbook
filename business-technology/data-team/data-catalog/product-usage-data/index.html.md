@@ -103,7 +103,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 
 ### Key Terms
 
-1. [Customer](/handbook/sales/sales-term-glossary/#customer)
+1. [Customer](/handbook/sales/sales-term-glossary/)
 1. [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/)
 1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)

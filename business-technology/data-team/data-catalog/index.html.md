@@ -170,15 +170,15 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 * [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
-* ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
-* CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)
-* LTV: [_customer_ LifeTime Value](/handbook/sales/sales-term-glossary/#life-time-value-ltv)
+* ATR: Available To Renew
+* CAC: Customer Aquisition Cost
+* LTV: _customer_ LifeTime Value
 * [Namespace](https://docs.gitlab.com/ee/user/group/#namespaces)
 * NDR: [Net Dollar Retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 * PQL: [Product Qualified Lead](/handbook/product/product-principles/#product-qualified-leads-pqls)
 * [Product Stage](/handbook/product/product-categories/#devops-stages)
 * SM: [Self-Managed aka Self-Hosted](/features/)
-* UPA: [Ultimate Parent Account](/handbook/sales/sales-term-glossary/#additional-customer-definitions)
+* UPA: Ultimate Parent Account
 * xMAU: [x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
 
 # Legend
