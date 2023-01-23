@@ -522,6 +522,8 @@ Kindly note the following when filling in this section:
     - For Mexico: When adding a team member to the Remote platform you should select 30 days as a Christmas bonus, not 15.
 1. Type of employee: Full time
 1. Annual Gross salary: as stated in the offer details in GH
+1. Annual leave: Is usually the statutory minimum. You can also utilize the [General & Entity Specific Benefits page](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com/)
+   - Mexico you can input 20 days 
 1. Is this employee approved for outside employment: No
 1. Signing bonus: as stated in the offer details in GH
 1. Other Bonus: Do not include guaranteed draw. If asked, please loop in Marissa. Remote does not currently have enough of an in-depth understanding of our bonus structure to be able to include this information.
