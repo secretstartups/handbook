@@ -207,7 +207,7 @@ Building a remote team or starting your first all-remote job? Check out our [tip
 
 Browse our [resources page](/company/culture/all-remote/resources/) to learn more about GitLab's approach, read about remote work in the news, and see what other companies are leading the way.
 
-We've also compiled a [list of companies](/handbook/got-inspired/) that have been inspired by GitLab's culture.
+We've also compiled a [list of companies](/handbook/inspired-by-gitlab/) that have been inspired by GitLab's culture.
 
 ## Hiring
 

@@ -43,7 +43,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |     | Published Diversity, Inclusion & Belonging  Events Page                     |
 | Apr      | [Kickoff Women in Sales Mentoring Initiative](https://about.gitlab.com/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot)                              |
 |          | Kickoff DIB in Engineering Initiatives                          | 
-|          | Created the [Parental Leave Toolkit](https://about.gitlab.com/handbook/total-rewards/benefits/parental-leave-buddy/) for Managers and Team Members|
+|          | Created the [Parental Leave Toolkit](https://about.gitlab.com/handbook/total-rewards/benefits/parental-leave-toolkit/) for Managers and Team Members|
 |          | DIB Sessions at Virtual Contribute 2020                         |
 | May      | Moved from Diversity & Inclusion to Diversity, Inclusion & Belonging  |
 | Jun      | Conducted Live Learning on Recognizing Bias                     | 
