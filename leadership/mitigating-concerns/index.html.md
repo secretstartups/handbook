@@ -110,7 +110,7 @@ If we don't do this smaller competitors may gain marketshare there and then have
 We serve smaller users by having:
 
 1. A great free open source product that [gets the majority of new features](/company/stewardship/#promises).
-1. A focus on [memory consumption reduction](/handbook/engineering/development/enablement/memory/) to ensure it is affordable to run our open source version.
+1. A focus on [memory consumption reduction](/handbook/engineering/development/enablement/data_stores/application_performance/) to ensure it is affordable to run our open source version.
 1. A [tiered pricing model](/company/pricing/#three-tiers) with a very low pricepoint for our lowest tier.
 
 ### Infrastructure Bundling
