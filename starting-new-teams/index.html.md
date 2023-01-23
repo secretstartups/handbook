@@ -47,7 +47,7 @@ Examples of Fullstack Teams:
 - [Package Team](/handbook/engineering/development/ops/package/)
 - [Acquisition Team](/handbook/engineering/development/growth/acquisition/)
 - [Activation Team](/handbook/engineering/development/growth/)
-- [Geo Team](/handbook/engineering/development/enablement/geo/)
+- [Geo Team](/handbook/engineering/development/enablement/systems/geo/)
 
 ## Team Page Template
 
