@@ -685,7 +685,7 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 
 #### Airfare
 
-Airfare can be booked according to our [travel policy](/handbook/travel/#booking-travel-and-lodging) or [spending company money](/handbook/spending-company-money/) policy.
+Airfare can be booked according to our [travel policy](/handbook/travel/) or [spending company money](/handbook/spending-company-money/) policy.
 In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
 ##### Rideshare from airport
