@@ -112,5 +112,34 @@ This performance indicator tracks the time it took to roll out a new system vs t
 - Creating a roadmap for system changes
 - Understanding bandwidth constraints on the IT team
 
+## IT Security
+
+### Security Tool Coverage
+
+These performance indicators track the coverage of security tools on systems belonging to active Okta accounts. An account is considered active if it has logged into Okta at least once within the last 21 days. Contractor, service and admin accounts are excluded from the count of active Okta accounts. Active accounts are further split between MacOS and Linux systems, although some users may use both (and will be counted in both totals). 
+
+To avoid double counting, only one system per operating system type (i.e. MacOS or Linux) is counted per Okta account.
+
+#### Jamf Coverage
+
+This metric counts the number of MacOS systems that have reported to the Jamf console in the last 21 days, and divides it by the total number of active Okta MacOS accounts.  
+
+#### SentinelOne MacOS coverage
+
+This metric counts the number of MacOS systems that have reported to the SentinelOne console in the last 21 days, and divides it by the total number of active Okta MacOS accounts.
+
+#### Filesystem (FS) MacOS encrypted
+
+This metric counts the number of MacOS systems that have reported to the Jamf console that their filesystem is encrypted, and divides it by the total number of active Okta MacOS accounts.
+
+#### DriveStrike Linux Coverage
+
+This metric counts the number of Linux systems that have reported to DriveStrike console in the last 21 days, and divides it by the total number of active Okta Linux accounts.
+
+#### SentinelOne Linux coverage
+
+This metric counts the number of Linux systems that have reported to the SentinelOne console in the last 21 days, and divides it by the total number of active Okta Linux accounts.
+
+
 
 
