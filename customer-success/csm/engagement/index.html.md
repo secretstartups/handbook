@@ -216,8 +216,8 @@ There are occasions that warrant a customer to be prioritized differently than t
 
 Examples of when an exception may be appropriate include:
 
-- A large, strategic customer with no [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)
-- A customer with large [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) but no clear & active growth path
+- A large, strategic customer with no [LAM](/handbook/sales/sales-term-glossary/)
+- A customer with large [LAM](/handbook/sales/sales-term-glossary/) but no clear & active growth path
 - A customer with [risk](/handbook/customer-success/csm/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk)
 
 In order to make an exception, the CSM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
