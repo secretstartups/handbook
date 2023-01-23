@@ -107,6 +107,7 @@ Below is a full list of our UX Research team handbook content:
 - [UX Research growth and development](/handbook/product/ux/ux-research/ux-research-growth-and-development/)
 - [Non-Disclosure Agreements for UX Research](/handbook/product/ux/ux-research-coordination/NDAs/)
 - [How to publish a blog post to encourage community contributions on Actionable Insights](/handbook/product/ux/ux-research/community-contributions-for-actionable-insights/)
+- [How to Conduct UX Research Workshops](/handbook/product/ux/ux-research/how-to-conduct-ux-research-workshops)
 
 ### Resources for UX Research Operations Coordinators
 
