@@ -31,7 +31,7 @@ Team members are encouraged to take part in an initiative within their local com
 The first `GitLab Donation Drive` in 2020 started as an internal challenge to GitLab team members to donate 5,000 meals to [US Food Banks](https://www.feedingamerica.org/find-your-local-foodbank) over the course of a week. This initiative quickly gained traction and saw over 100,000 meals being donated across 19 countries. 2021's campaign expanded to include any type of donation, including donations of time as part of [Global Volunteer Month](#global-volunteer-month).
 
 ### Upstream Diversity Working Group
-Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups) was established.
+Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](/handbook/incentives/) was established.
 
 Geared toward knowledge sharing, the [recently piloted program](/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
 

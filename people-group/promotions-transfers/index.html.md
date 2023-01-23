@@ -408,7 +408,7 @@ _Interviews are not required role Acting roles as they generally do not end in p
 - The hiring manager will determine the most suitable team member for the acting role.
 - *Please make sure that the department head is in the loop and supportive of the acting period and candidate selected before moving forward.*
 
-_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
+_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/) for the team member._
 
 ### Updating Interim Movements in Workday
 

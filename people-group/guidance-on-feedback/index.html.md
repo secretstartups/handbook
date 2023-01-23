@@ -225,7 +225,7 @@ _"Thank you for helping troubleshoot sessions on XYZ tickets so we could resolve
 1. Share an update of the team member(s) recognition during the next team meeting
 1. Highlight the recognition of the team members during a group conversation with the broader organization 
 1. Showcase the recognition during an e-group meeting to executives
-1. Consider a [discretionary bonus per team member](/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
+1. Consider a [discretionary bonus per team member](/handbook/incentives/) as a form of superior recognition 
 1. Managers can also recognize team members during 1-1 meetings
 1. Quarterly [Skip Level](/handbook/leadership/skip-levels/) Meetings.
 
