@@ -1221,7 +1221,7 @@ to the post.
 
 _To be added by Engineering Managers, Product Managers and Product Design Managers._
 
-The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Product Designers can also contribute to usability improvements. Read more about [Contributing to Usability Improvements](#contributing-to-usability-improvements).
+The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Product Design Managers and Product Designers can also contribute to usability improvements. Read more about [Contributing to Usability Improvements](#contributing-to-usability-improvements).
 
 For items that are feature flagged, it is recommended they are `enabled by default` by the 15th to ensure inclusion into the self-managed release.
 
