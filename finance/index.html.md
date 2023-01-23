@@ -27,7 +27,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Expense Guidelines](/handbook/finance/expenses/)
 
-[Operating Metrics](/handbook/finance/operating-metrics/)
+[Operating Metrics](/handbook/key-review/)
 
 [Procurement](/handbook/finance/procurement/)
 
