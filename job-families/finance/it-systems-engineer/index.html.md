@@ -77,6 +77,42 @@ The Senior IT Systems Engineer has all the same responsibilities as the ones out
 * Advanced knowledge of container and microservice technologies
 * Ability to use GitLab
 
+### Staff IT Systems Engineer
+
+A Staff IT Systems Engineer focuses on multiple disciplines and cross-department meta-level challenges related to IT to tactically improve efficiency across the organization. They provide technical and thought leadership, and drive innovation through next-generation architecture and iterating on larger problems while leading efforts to reduce tech debt across the organization. 
+
+#### Staff Job Grade
+The IT Systems Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Responsibilities
+The Senior IT Systems Engineer has all the same responsibilities as the intermediate position plus the following:
+
+* Architecting next-generation automation and integration between IT managed systems that provides data consistency, reliability, strong security, and audibility.
+* Building relationships with cross-department system owners and proposing solutions to ensure our tech stack applications conform to our latest IT and Security best practices in collaboration with the Security Department Staff and Principal engineers.
+* Consolidating and refactoring legacy tech debt.
+* Designing and developing software that improves back office automation.
+* Escalation engineering and emergency response for IT Operations and Security teams, and providing assistance to team members with all of the systems that we build and manage.
+* Factor in cost, security, compatibility, maintainability and user experience when making decisions.
+* Growing other team members’ skill sets through mentorship to improve operational efficiency and encourage professional development.
+* Handbook documentation for processes and systems architecture.
+* Identifying and communicating the technical direction of our broader IT department to team members, stakeholders, and engineers.
+* Joint collaboration with Compliance, IT, People, and Security team members for improving automation efficiency, security posture, and vulnerability management.
+*  Keeping leaders and stakeholders informed of next-gen initiatives and contributing to creating automated analytics for day-to-day IT operations.
+*  Leading innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope.
+* Making technical decisions on behalf of the department and organization while providing presentation support to leaders during technical discussions.
+
+
+#### Staff Requirements
+The Senior IT Systems Engineer has all the same responsibilities as the ones outlined above plus the following:
+
+* 10+ years of experience in IT in a high growth SaaS environment
+* 5+ years of experience in user support in a cloud-first modern IT environment
+* Knowledge of software engineering practices and devops lifecycle
+* Advanced knowledge of identity and access management
+* Advanced knowledge in one of the following scripting languages - Python or Ruby
+* Advanced knowledge of container and microservice technologies
+* Ability to use GitLab
+
 ## Performance Indicators
 * [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
 * [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
