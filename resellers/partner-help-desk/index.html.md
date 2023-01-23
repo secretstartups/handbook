@@ -105,23 +105,12 @@ When updating the Account Owner on a partner account, make sure to also update t
 
 #### Channel Managers by GEO
 <details>
-<summary markdown="span">AMER Select</summary>
-- East: Maria Henry 
-- West: TBD/Lisa Cartagena (acting)
-- Central: Joe McAninch
-- Canada: TBD/Lisa Cartagena (acting)
-- LATAM: Rodrigo Rios
+<summary markdown="span">AMER </summary>
+- Jay Bahar: CT, MA, ME, NH, NJ, NY, Eastern PA, RI, VT
+- Lisa Cartagena: AK, AZ, CA, CO, HI, IA, ID, MN, MT, ND, NM, NV, OR, SD, UT, WA, WI
+- Maria Henry: DE, FL, GA, KY, MD, NC, Western PA, PR, SC, TN, VA, Washington DC, WV
+- Joe McAninch: AL, AR, IL, IN, KS, LA, MI, MO, MS, NE, OH, OK, TX 
 
-</details>
-
-
-<details>
-<summary markdown="span">AMER Open</summary>
-- East: Jay Bahar
-- West: Lisa Cartagena
-- Central: Lisa Cartagena
-- Canada: Lisa Cartagena
-- LATAM: Rodrigo Rios 
 
 </details>
 
