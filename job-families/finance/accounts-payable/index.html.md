@@ -123,6 +123,45 @@ The Senior Manager, Accounts Payable is a [grade 9](/handbook/total-rewards/comp
 - Strong analytical skills
 - Prior experience implementing systems, tools and process improvements
 
+### Director, Accounts Payable
+
+The Director, Accounts Payable position provides the strategic vision for accounts payable and expense management at GitLab. The Director is responsible for the performance and effectiveness of this department. Responsibilities include, but are not limited to; managing the daily work-flow of the department, monitoring processes and performance to identify trending issues and develop training solutions or procedures to address these issues, and will lead an AP/Expense management team to ensure key performance goals are attained and exceeded.
+
+The Director, Accounts Payable reports to the VP, Corporate Controller (or PAO in absence).
+
+#### Job Grade
+
+The Director, Accounts Payable is a grade 10.
+
+#### Director, Accounts Payable Responsibilities
+
+- Leads the Accounts Payable and Expenses team and effectively manages company wide payments while ensuring the DPO and cash disbursement is kept within acceptable limits as set forth by Finance Leadership
+- Deploy interim solutions for business-critical needs; must have ability to quickly assess unfamiliar situations and provide remediation, including modifying standard processes to address longer term issues
+- Drive transformation, improve productivity and streamline business operations
+- Manage review and analysis of business systems and upgrades
+- Define and manage performance metrics of AP and Expense Teams
+- Build, optimize and automate performance reporting
+- Partners with the General Ledger, Financial Planning and Analysis and Procurement teams to drive process improvement and implementation
+- Manages high level accounts payable and expense escalations and makes related business decisions
+- Analyzes departmental performance and advises the teams on high risk decisions
+- Educates, trains, monitors, problem-solves, and ensures company policies are followed across the Accounts Payable department and provides strategic direction to management and their team
+- Ensures all team members are effectively trained and have the tools available to carry out their tasks in an accurate and efficient manner
+- Responsible for oversight of the monthly accounts close process (accounts payable), resulting in timely delivery of accurate data for management reporting
+- Responsible to participate in external and internal audits as they relate to accounts payable functions
+- Responsible to supervise and direct activities of accounts payable staff to ensure consistent application of best practice, productivity, and adherence to internal controls for accounts payable compliance
+
+#### Director, Accounts Payable Requirements
+
+- Bachelor's Degree in Accounting, Finance, or Business Administration required
+- 10+ years in Accounts Payable experience, 5+ years in management role
+- 3+ Years experience with procure to pay and expense related software
+- Proven ability to perform strategic planning and set priorities for an accounts payable department
+- Proven track record for improving processes and problem- solving
+- Strong leadership skills with an ability to coach and motivate
+- Solid understanding of accounts payable and financial concepts
+- Strong analytical and problem-solving skills
+- Excellent verbal and written communication skills and ability to collaborate with cross-functional teams. Able to work in stressful situations with firm deadlines
+
 ## Performance Indicators
 
 - [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
