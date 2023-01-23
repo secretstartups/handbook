@@ -69,7 +69,7 @@ When using the Account C360 page, these topics are most relevant for evaluating 
 | **Summary** | Shows Company-wide License Utilization and Total Licenses Sold | Use this to quickly identify the depth of adoption, if the account is Reporting  |
 | **User Adoption Metrics** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
 | **Product Usage Trends** | Month-over-Month trend analyses for use cases such as SCM, CI, DevSecOps, and License Utilization | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
-| **Instance and Namespace Details** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self-managed-instance-type) |
+| **Instance and Namespace Details** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#self-managed) |
 
 ## Ways to use these metrics
 
@@ -97,40 +97,148 @@ A variety of product usage statistics are pushed back from Gainsight to Salesfor
 
 <br>
 
-## CSM/CSE Actions
+## Labeling Customer Instances and Namespaces
 
-### Viewing all unknown self-managed instances
+### Definitions
+
+* **Instance**: a customer’s _self-managed_ deployment of GitLab 
+* **Namespace**: a customer’s _SaaS_ deployment of GitLab on gitlab.com
+* **Labeling**: the practice of internally identifying instances as Production, Non-Production, etc. within Gainsight and syncing to Snowflake. See [link](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#viewing-all-unknown-self-managed-instances) for more information
+* **Project**: a specific project or folder within a customer’s GitLab instance (e.g., “field operations” project within the Gitlab-com use)
+
+### Why it matters
+
+For GitLab and customers, we must know which instance(s) are used by our customers as their `Production` instance where they develop their production code. This is required to ensure we are accurately helping customers appropriately adopt GitLab ([Product Usage Reporting Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/)).
+
+As a general rule, each subscription has one production instance **or** namespace attached to it. Covered below is how the instances are determined, labeled, and the data is applied within GitLab.
+
+#### Self-Managed
+
+A customer’s server lacks identification of the type (production, test, non-production, mirror, etc.). When GitLab receives a customer’s service ping, we do not know if it is used to deploy production code, a test server, or as a mirror. 
+
+**Problem**: this is critical for self-managed customers because a customer may have anywhere from one to ten instances tied to a single subscription and GitLab could be receiving data from one production instance, several, or none based on whether the customer is air-gapped, blocking our IP ports, etc. 
+
+#### SaaS
+
+For namespaces, this is irrelevant because the customer pays directly for the namespace and any testing can be done in various _projects_ within the namespace. For SaaS, it is generally solved before it becomes a problem. 
+
+### How are labeled instances used?
+
+1. To calculate Customer Health based on the production instance
+2. To provide insights to the account team on what their customers are doing in their production instances (Gainsight and Snowflake)
+3. License Utilization reporting for customer subscriptions (Gainsight, Snowflake, and Salesforce)
+4. Company-wide reporting capabilities for aggregate usage (Snowflake)
+5. Propensity model input (Snowflake)
+6. Track our Usage Data coverage (how many accounts are sending us Operational Metrics?) (Snowflake)
+
+### How instances are labeled
+
+#### Self-Managed
+
+##### CSM-Owned Accounts (Strategic and Growth)
+
+For self-managed customers, a CSM labels their customers' instances as Production, Staging, or Obsolete. Steps:
+
+1. Go to the customer in Gainsight
+2. In the left nav panel, click **Instance and Namespace Details** at the bottom
+3. Click **⋮** for the instance you want to update
+4. Click **Edit**
+5. For the field `Instance Type`, select the proper option
+6. Click **Update** and do not make any other changes
+
+**Notes**: 
+
+1. If unsure of the instance type, check with the customer or in the left nav panel click on **Product Usage Trends** and then toggle to the **NOT Production Instance Usage** report to see usage trends for that instance
+2. Anything labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
+
+##### Non-CSM Owned Accounts (Scale and Digital)
+
+While the above process works for any account, we do require automation for the smaller accounts that do not have CSM ownership. The automation in Gainsight falls under two methods:
+
+1. **Rule**: _NEW Admin: Set Instance Type - Programmatically by License Utilization_
+   1. **Context**: This sets self-managed instances as `Production` based on License Utilization or UMAU utilization of 20% or greater. This is intended to quickly identify new instances while excluding test instances attached to a single subscription that is only used by a few users
+1. **Rule**: _NEW Admin: Set Instance Type - Programmatically by Instance Count = 1_
+   1. **Context**: Because most subscriptions (especially small ones) 
+
+#### SaaS
+
+Namespaces are automatically labeled within Gainsight, using the Gainsight Rule “[Load to Instance Data - Label SaaS Instances as Production](https://gitlab.gainsightcloud.com/v1/ui/rules#v2/rule/3027ca2b-34e6-4dbb-be5f-8f640a636074)”.
+
+### Caveats and risks
+
+1. Because of our licensing, a few customers have unique licensing deals that allow them to use one subscription across multiple production instances. This causes difficulty in calculating how many licenses are deployed
+2. Because of required automation with small accounts, we have incorrectly labeled some instances as production and have neglected others
+3. Because Strategic/Growth CSM-owned accounts are manually labeled, there will be a delay in propagating through all systems
+
+### **CSM/CSE Actions**
+
+#### **Viewing all unknown self-managed instances**
 
 New self-managed instances come online all the time. The different types include:
 
-- Production: The production instance tied to the subscription
-- Non-production: A test, staging, or dev server
-- Obsolete: No longer in use server
-- Unknown: Not yet labeled server
-- Geo Secondary Node: a secondary or mirror server
+* **Production**: The production instance tied to the subscription
+* **Non-production**: A test, staging, or dev server
+* **Obsolete**: No longer in use server
+* **Unknown**: Not yet labeled server
+* **Geo Secondary Node**: a secondary or mirror server
 
 To make sure we're correctly identifying Production vs. other types, use these instructions to see a full list of instances yet to be labeled:
 
-1. Go to Product Usage Data Dashboard.
-1. Filter to your name.
-1. Review Hostnames under Accounts with Unknown Instance Names Report. Click **Maximize Report** to enhance viewing.
-   1. Optional: If you want to view hostname usage, use this dashboard and filter via Hostname to see the usage for any specific hostnames.
+1. Go to the `CSM Burn-Down Dashboard`
+2. Filter to your name
+3. Scroll down to the `* Unknown Instances - CSM Owned` report 
+4. Click on it to see the full list
+5. Click on the account
+    1. In the account and on the left nav panel, click on `Product Usage Trends`
+    2. Toggle to the `NOT Production Instance Usage` report
+    3. Review usage for insights
+6. Under the `Instance and Namespace Details` section, label the instance accordingly
 
-This process is critical, as a customer can have multiple subscriptions and each subscription can have multiple instances. See example diagram:
+This process is critical, as a customer can have multiple subscriptions and each subscription can have multiple instances. See the example diagram:
 
 ![Fictitious Self-Managed diagram](https://lucid.app/publicSegments/view/74e7b4aa-6e71-4f60-83bb-6439c459358c/image.png)
 
-### Updating self-managed instance type
+### Snowflake Sync
 
-For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete. Steps:
+The instance types are synced from Gainsight to Snowflake weekly and updated Sunday nights PST. Gainsight collects the data and uploads it to an S3 bucket using the rule _[Admin - Drop Instance Type to S3 for Snowflake Pickup](https://gitlab.gainsightcloud.com/v1/ui/rules#v2/rule/46570bbe-742c-4e2a-8475-1dd1973b7b49/basicInfo)_ and then Snowflake processes and updates tables every Sunday night.
 
-1. Go to the customer in Gainsight.
-1. In the left nav panel, click **Instance and Namespace Details** at the bottom.
-1. Click ***...*** for the instance you want to update.
-1. Click **Edit**.
-1. For the field `Instance Type`, select the proper option.
+### Multiple Production Instances Health Scoring
+ 
+When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](#self-managed)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. 
 
-**Note**: Anything labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
+_Note: this is less than 5% of the time because the vast majority of accounts have a single production instance._
+
+#### Solution
+
+[Video Instructions](https://youtu.be/N0JUABX88Hg) to update instance data in Gainsight to include only one instance in Product Usage health measure.
+
+1. On the account C360 scroll to the **Instance and Namespace Details Section**
+2. Scroll right to see the **Included in Health Measure** column
+3. To exclude instances, click **⋮**, **Edit**, and then select “Opt-Out” in the `Included in Health Measures` to EXCLUDE the instance section. NOTE: Make sure you select “Opt-Out” rather than null, or the system may overwrite your update. Then click Update
+4. To select your **primary** instance for health scoring, click on **⋮**, Edit, and click “Included in Health Score” then click "Update"
+
+**Best Practices**: 
+1. Only have ONE instance marked as "Included in Health Measure" 
+2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
+3. Select "Opt-Out" rather than null, or the system may overwrite your update
+
+<details>
+
+<summary markdown='span'>Multiple Production Instances: Gainsight Admin Processes</summary>
+<br>
+
+Because the DevSecOps health measure looks to the account as "Ultimate", this step was added to make sure the correct production instance is scored in the case of multiple subscriptions under a given account. 
+
+If a CSM has marked a production instance under a Premium subscription, DevSecOps health will appear as be “NA”. Meaning, even if there are two subscriptions with one Premium and another Ultimate, as long as the CSM marked the Premium one for health scoring, you will no longer see a DevSecOps health score (generally red) on the account.
+
+**Gainsight Rules:**
+
+1. `NEW: Admin: Update Plan Name on Product Usage Instance Metrics`
+   1. This pushes `Plan Name` from the Customer Subscription object to the Product Usage Instance Metrics object
+2. `Set Score: DevSecOps Adoption Individual Measures`
+   1. The rule looks at the `Plan Name` on the Product Usage Instance Metrics object instead of the `Products Purchased` on the Company object
+
+</details>
 
 ## Field definitions
 
@@ -224,7 +332,7 @@ Examples of new metrics can include:
 #### Why does my customer not have any product usage stats?
 
 - Self-managed - They are not opted into Service Ping, or they turned it off.
-- Self-managed - None of their instances are labeled as Production. [Here are instructions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type) on how to label instances as Production.
+- Self-managed - None of their instances are labeled as Production. [Here are instructions](#self-managed) on how to label instances as Production.
 
 #### What does it mean if I see details in instance and namespace details but no usage trends?
 

@@ -217,41 +217,6 @@ Health score criteria is either manually or automatically applied to determine t
 | 51-75% | Green   | Yellow | Red     |
 | > 75%  | Green   | Green   | Green |
 
-### Multiple Production Instances Health Scoring
- 
-When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
-
-#### Solution
-
-[Video Instructions](https://youtu.be/N0JUABX88Hg) to update instance data in Gainsight to include only one instance in Product Usage health measure.
-
-1. On the account C360 scroll to the Instance and Namespace Details Section
-2. Scroll right to see the “Included in Health Measure” column
-3. To exclude instances, click the three dots, "Edit", and then select “Opt-Out” in the `Included in Health Measures` to EXCLUDE the instance section. NOTE: Make sure you select “Opt-Out” rather than null, or the system may overwrite your update. Then click Update
-4. To select your **primary** instance for health scoring, click on the three dots, Edit, and click “Included in health Score” then click "Update"
-
-**Important Notes**: 
-1. Best practice is to only have ONE instance marked as "Included in Health Measure" 
-2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
-3. Select "Opt-Out" rather than null, or the system may overwrite your update
-
-<details>
-
-<summary markdown='span'>Multiple Production Instances: Gainsight Admin Processes</summary>
-<br>
-
-Because the DevSecOps health measure looks to the account as "Ultimate", this step was added to make sure the correct production instance is scored in the case of multiple subscriptions under a given account. 
-
-If a CSM has marked a production instance under a Premium subscription, DevSecOps health will appear as be “NA”. Meaning, even if there are two subscriptions with one Premium and another Ultimate, as long as the CSM marked the Premium one for health scoring, you will no longer see a DevSecOps health score (generally red) on the account.
-
-**Gainsight Rules:**
-
-1. `NEW: Admin: Update Plan Name on Product Usage Instance Metrics`
-   1. This pushes `Plan Name` from the Customer Subscription object to the Product Usage Instance Metrics object
-2. `Set Score: DevSecOps Adoption Individual Measures`
-   1. The rule looks at the `Plan Name` on the Product Usage Instance Metrics object instead of the `Products Purchased` on the Company object
-
-</details>
 
 <br>
 
