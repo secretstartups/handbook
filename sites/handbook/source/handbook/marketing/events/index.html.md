@@ -235,7 +235,7 @@ cc @jburton to create list upload issue and DMA request as required
    - Order extra storage at the event if all swag will not fit witin the booth.
 1. Leads and Campaign Setup
    - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with MktgOps within 24 hours of event close or as soon as received by event coordinators.
-   - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
+   - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/).
    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
 ### Securing a hotel room block 
@@ -391,7 +391,7 @@ If an offline event is cancelled after the set up of the issues, epic, and track
 
 #### Event Types
 
-For a full breakdown of our various types of events, please review [this list](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
+For a full breakdown of our various types of events, please review [this list](/handbook/marketing/marketing-operations/).
 
 #### Important Planning Note
 
@@ -646,7 +646,7 @@ Common lead questions:
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
-- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
+- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
 
