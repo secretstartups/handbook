@@ -92,7 +92,7 @@ Recommendations to explore this path:
 - Read about [what you can expect in a Support Engineering Manager role](/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
 - Read about the [Support Engineering Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html).
 - Read about why [candidates should apply for a Support Manager role](/job-families/engineering/support-management/#you-should-apply-if) to understand general expectations of this role.
-- Read [Transitioning from Individual Contributor to Manager](/handbook/engineering/development/dev/create/engineers/training/ic-to-manager/).
+- Read [Transitioning from Individual Contributor to Manager](/handbook/engineering/development/dev/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](/handbook/engineering/career-development/#trying-the-management-track).
 - Read about the [Interim Manager](/handbook/engineering/career-development/#interim-manager) role.
 - Read about [Elevate](/handbook/people-group/learning-and-development/elevate/) and consider participating.
