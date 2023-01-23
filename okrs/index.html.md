@@ -323,13 +323,28 @@ Watch this video for a demo on how to create objectives and key results:
 
 
 
-### How to Align Team OKRs to the CEO OKRs
-Once team OKRs have been added to GitLab, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not relate to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
+### How to Align Division OKRs to the CEO OKRs
+Once division OKRs have been added to GitLab, they can then be aligned to relevant CEO OKRs. Division OKRs should align to a CEO objective when it contributes to the progress of that objective. If a division level OKR does not contribute to progress of CEO objective but is still related, crosslink the CEO OKR and division OKR in the description of each OKR for visibility.
 
-Follow the steps below to align team OKRs to the CEO OKRs: 
+Follow the steps below to align division OKRs to the CEO Objectives: 
 1. Click on the CEO objective you want to be the new parent for an objective/key result.  
-1. In the Child objectives and key results search bar, [find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results).
+1. Clicking **Add** in the **Child objectives and key results** section of the CEO objective.
+1. [Find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results) by typing in the search bar that appears in the **Child objectives and key results** section. See [documentation to add a child objective](https://docs.gitlab.com/ee/user/okrs#add-a-child-objective). 
 1. Your objective or key result is now aligned to the CEO's objective. 
+
+When a division level OKR is the child of a CEO Key Result, follow the [explicit alignment](https://about.gitlab.com/company/okrs/#explicit-alignment) process. 
+
+#### Explicit Alignment
+
+Although KRs are not meant to have children, [the concept of Explicit Alignment](https://www.whatmatters.com/series_entries/s3-5-okr-alignment#:~:text=Explicit%20alignment%20is%20when%20you%E2%80%99ve%20been%20given%20a%20Key%20Result%20as%20an%20Objective.%20We%20also%20call%20this%20%E2%80%9Cinheriting%E2%80%9D%20an%20Objective.) means a Key Result of a higher level can be inherited as an Objective at a lower level.
+
+Steps when a CEO KR is a “parent” of a division Objective: 
+1. Replicate the CEO KR as a Division Objective
+1. Create sub-objectives and KRs under that division objective
+1. Align the Division Objective to the CEO OKR by making the division objective a child objective of the CEO objective
+1. Cross-link the CEO KR and Division Objective by pasting the link for each in the description of CEO KR and Division Objective 
+ 
+Now progress for the CEO KR will be measured in the division’s parent objective and ladder up the CEO objective.
 
 ### Search and Filter OKRs
 
