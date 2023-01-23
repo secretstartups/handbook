@@ -23,7 +23,7 @@ The first phase of any discovery process is to determine whether or not you shou
 Ideally, effective qualification also includes identification of the prospect's: 
 - Cloud strategy
 - Preferred cloud partner(s)
-- Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)), and 
+- Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/)), and 
 - Preference for [SaaS or Self-Managed](/features/)
 
 ## Understand Value Points

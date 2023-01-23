@@ -141,7 +141,7 @@ See the [events handbook page](/handbook/marketing/events/) for more details.
 
 ### MQL Definition and Scoring
 
-A breakdown of MQLs and lead scoring can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations#mql-scoring-model).
+A breakdown of MQLs and lead scoring can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations/).
 
 ### Segmentation
 
@@ -429,7 +429,7 @@ Territories are assigned based on [Sales Segmentation](#segmentation) and routin
 
 LEAD/CONTACT Records with the `Initial Source` of `GitLab.com` are **not** to be engaged, prospected or targeted unless they have taken a handraising 'active' activity, such as `Trial - Enterprise`, `Trial - GitLab.com`, `Contact Us`, `Demo`, 'Webcast', 'Content' and/or engaged in `Web Chat`.
 
-For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](/handbook/marketing/marketing-operations/index.html#email-communication-policy).
+For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](/handbook/marketing/marketing-operations/).
 
 #### Active vs. Passive
 
@@ -465,7 +465,7 @@ To ensure that we're engaged with those customers who were a part of the Starter
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](/handbook/marketing/marketing-operations/#campaigns)
+You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](/handbook/marketing/marketing-operations/)
 
 ### Reports and Dashboard Naming Convention
 

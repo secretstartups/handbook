@@ -12,7 +12,7 @@ description: GitLab sales process for engaging and educating the customer
 
 # Engage & Educate the Customer
 
-Your goal as a sales representative is to build 2.5 -3x your annual **[ARR](/handbook/sales/sales-term-glossary/#annual-recurring-revenue-arr)** quota. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
+Your goal as a sales representative is to build 2.5 -3x your annual **[ARR](/handbook/sales/sales-term-glossary/)** quota. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
 
 In this Sales Standard Operating Procedures page, the four phases of the sales cycle are:
 
