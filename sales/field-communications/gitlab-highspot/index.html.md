@@ -277,7 +277,17 @@ Once these steps are complete, you will see your custom signature included under
    * Learn more: [Create a Pitch Template](https://help.highspot.com/hc/en-us/articles/360048380134-Use-Pitch-Templates-and-Pitch-Styles-to-Customize-Pitches#h_01EZAZFVEEMHPZ4NWS71ZYYGD0)
 
 **Pitch Analytics**
-   * After you've sent a pitch to a prospect or customer, you can view how they've interacted with the content and for how long.
+   * After you've sent a pitch to a prospect or customer, you can view how they've interacted with the content.
+   * The default tracking for pitches is currently on for all users, except for regions/teams where privacy policies require a different treatment (ex. EMEA).
+   * Highspot pitch analytics currently track:
+        * When the email is opened if it's an email pitch from Highspot.
+        * When the link in the email is clicked.
+        * How long the recipient looks at the content as well as each slide.
+        * When content is downloaded.
+        * If content is shared through the share button, including which email it was sent to.
+   * At the Group level, Highspot can:
+        * Ask recipients for consent to track. If the recipient opts-out, we don't track anything. If they opt-in, all data listed above is tracked, except email opens.
+        * Disable pitch tracking.
    * Learn more: [View Pitch Activity](https://help.highspot.com/hc/en-us/articles/216042403-View-pitch-activity-)
 
 ### Editing Content in Highspot 
