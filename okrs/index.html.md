@@ -375,6 +375,12 @@ We should aspire to set quantitative goals in which scoring is straightforward a
 
 Please update scores in addition to status in Key Result Meetings.
 
+Watch this video for a demo on how to updated progress in OKR management: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/kHkk-U22DBo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Everyone can contribute
 
 Everyone is welcome to a suggestion to improve any OKR.
