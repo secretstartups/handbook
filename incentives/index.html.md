@@ -20,7 +20,7 @@ The following incentives are available for GitLab team members. Also see our sep
 
 1. Every now and then, individual GitLab team members really shine as they live our values.  We especially like to celebrate the special moments that exemplify the behavior we want to see in all GitLab team members.
 1. We recognize this through the #thanks channel, and sometimes also through a discretionary bonus.
-1. [Any GitLab team member can recommend a discretionary bonus for another GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/#process-for-recommending-a-team-member-for-a-discretionary-bonus) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.
+1. [Any GitLab team member can recommend a discretionary bonus for another GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.
 1. Only [GitLab team members](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) are eligible to receive a discretionary bonus / working group bonus or nominate other GitLab team members. Hence, `Temporary Contractors` (Not included in GitLab Team Member Types) are not eligible to receive or nominate discretionary bonus / working group bonus. Any such nominations for the temporary contractors will not be approved by the People Connect team.
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
 1. A general guideline is that 1 in 10 team members might receive a discretionary bonus each month. This can vary greatly as we don't give out bonuses just to hit a quota, nor would we hold one back because a certain number had already been awarded.
@@ -139,7 +139,7 @@ graph TD;
 #### Working Group Bonus
 1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, use the  Working Group Bonus.
 1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a Working Group Bonus.
-1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-workday) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
+1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
 #### Process for Recommending Working Group Bonus in Workday
 
@@ -327,7 +327,7 @@ If a team member has been referred, the People Connect team will review team mem
 
 1. Talent Acquisition Manager will track all referrals set to hired in the time period of Add-on campaign.
 2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referred new hire's 3 month employment at GitLab.
-3. People Connect will follow [steps outlined above](/handbook/incentives/#referral-bonus-in-processing)
+3. People Connect will follow [steps outlined above](/handbook/incentives/)
 
 #### GitLab Anniversaries
 
@@ -409,7 +409,7 @@ In addition to transportation, team members can expense hotels when traveling ou
 
 ##### Additional spending guidelines
 
-All individual plane travel must be booked through [TripActions](/handbook/travel/#booking-travel-and-lodging) when possible. You may also choose to book lodging and other travel through TripActions. In TripActions, you should put "FY23-Q3 Visiting Grant" in the *Purpose* field when booking. For flights booked outside of TripActions, team members should expense tickets up to the maximum amount through Expensify. Be aware that by not using TripActions, team members will be responsible for potential fees associated with any transport issues (ie. cancellations). 
+All individual plane travel must be booked through [TripActions](/handbook/travel/) when possible. You may also choose to book lodging and other travel through TripActions. In TripActions, you should put "FY23-Q3 Visiting Grant" in the *Purpose* field when booking. For flights booked outside of TripActions, team members should expense tickets up to the maximum amount through Expensify. Be aware that by not using TripActions, team members will be responsible for potential fees associated with any transport issues (ie. cancellations). 
 
 If team members have layovers related to travel to and from the event, please expense the airfare as one trip. If something happens in transit that cannot be supported through TripActions, you will be responsible for the fees. If you decide to stay over during the layover, you will be responsible for any related expenses to the extended stay. 
 
