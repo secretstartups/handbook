@@ -139,6 +139,14 @@ Interested reviewers for the projects below should complete the listed tasks in 
 * Work on issues to gain familiarity with the project.
 * _Optional:_ Reach out to an (existing maintainer)[https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer/-/project_members?with_inherited_permissions=exclude] to [help you become](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) a maintainer.
 
+#### Project maintainer process for [`customers-gitlab-com`](https://gitlab.com/gitlab-org/customers-gitlab-com)
+
+* Understand our [standards and style guidelines](https://docs.gitlab.com/ee/development/development_processes.html).
+* Understand the [software architecture](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/main/doc/architecture) used in Fulfillment systems.
+* Read through [CustomersDot documentation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/index.md).
+* Contribute to issues and gain familiarity with the project.
+* Contribute to reviews demonstrating domain expertise and consistency with reviewer responsibilities.
+
 #### After becoming a maintainer
 
 If you've become a new maintainer, follow these instructions to request relevant permissions that will allow you to fulfill your role:
@@ -287,7 +295,7 @@ Definitions of metrics:
 
 Explanation of charts:
 * Available Maintainers VS Need - An overall, high-level look at our maintainer targets, totals, and availability.
-* Projects where maintainers are needed - Based on the previous months data, this is an output of any area predicted to need more available maintainers. 
+* Projects where maintainers are needed - Based on the previous months data, this is an output of any area predicted to need more available maintainers.
 * Project/Area Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required over time.
 * Unhealthy Core Areas of Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required, and are receiving more than 100 Incoming Merge Requests per month over time.
 * Part of Product Repos - Full Data - An all-inclusive chart for each project, area, and month that includes all metrics noted above.
@@ -309,7 +317,7 @@ To add a custom target to an area using the `maintainer_custom_targets` Sisense 
 
 #### Caveats
 
-* **Total Maintainer counts may show as 0** - This data is using reviewer roulette to determine the number of total maintainers because we do not have access to the project memberships in Sisense, and because many projects have maintainers/owners who are not truly active. One reason this may be showing 0 despite having maintainers on the project is because the project name displayed does not match the project name used in the `team.yml` for reviewer roulette. Another reason might be that the project is not using reviewer roulette. In these cases, the project will need to be set up and configured correctly to use reviewer roulette. Finally, the `team.yml` must match the requirements of the project or area - for example, if reviews in your project are able to go to any maintainer, the `team.yml` should specify `maintainer`. If the reviews in your project are separated by specialty, the `team.yml` must specify `maintainer [SPECIALTY]` and the merge request should be labeled according to that specialty. 
+* **Total Maintainer counts may show as 0** - This data is using reviewer roulette to determine the number of total maintainers because we do not have access to the project memberships in Sisense, and because many projects have maintainers/owners who are not truly active. One reason this may be showing 0 despite having maintainers on the project is because the project name displayed does not match the project name used in the `team.yml` for reviewer roulette. Another reason might be that the project is not using reviewer roulette. In these cases, the project will need to be set up and configured correctly to use reviewer roulette. Finally, the `team.yml` must match the requirements of the project or area - for example, if reviews in your project are able to go to any maintainer, the `team.yml` should specify `maintainer`. If the reviews in your project are separated by specialty, the `team.yml` must specify `maintainer [SPECIALTY]` and the merge request should be labeled according to that specialty.
 
 
 ### Maintainer/Reviewer Availability
