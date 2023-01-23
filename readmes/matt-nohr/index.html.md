@@ -19,7 +19,7 @@ I've previously worked on these teams at GitLab:
 - Ecosystem
 - [Create:Editor](https://about.gitlab.com/handbook/engineering/development/dev/create/editor/)
 - Create:Knowledge
-- [Monitor:APM](https://about.gitlab.com/handbook/engineering/development/ops/monitor/monitor/) and Monitor:Health
+- [Monitor:APM](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/) and Monitor:Health
 
 My Links:
 
