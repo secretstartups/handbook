@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jan 19 | FY23-Q4 Sales Ops Update (Win / Loss Code Changes) | Sales Ops Team |
 | Jan 26 | *No session during the last week of the quarter* | N/A |
                                                                                                                                    
 ## Past Sessions
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-01-19 | [**FY23-Q4 Sales Ops Update (Win / Loss Code Changes)**](https://youtu.be/p1HWwFGDuLM) | Private |
 | 2023-01-12 | **[Working with Analyst Relations](https://youtu.be/cJQkqr5CArg)** | Private  |
 | 2023-01-05 | **[FY23 - Q4 Competitive Corner: Winning Against  Github](https://youtu.be/FKtbXfHMVBA)**  | Private  |
 | 2022-12-15 | **[FY23-Q4 Product Spotlight: Winning with Ultimate](https://youtu.be/z2jLBwUcrDg)** | Private   |
