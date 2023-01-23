@@ -88,7 +88,7 @@ At Gitlab, as of Jan 2023, we are creating these offline touchpoints through the
 
 The current campaign sync rules in place can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and are based mostly on values found in field like `Campaign Type`, `Campaign Member Status`, `Campaign Name`, `Campaign Member Created Date`. As long as the SFDC campaign is created correctly, has the correct naming and campaign type, the AMM touchpoints will be created automatically.  
 
-[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/#campaign-type--progression-status)
+[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/)
 
 ## Attribution Models
 

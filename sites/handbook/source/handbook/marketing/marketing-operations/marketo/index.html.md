@@ -183,7 +183,7 @@ A Marketing Qualified Lead is a lead that has reached a threshold of `100` point
 ### Re-MQL
 For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
-A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model) again. 
+A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations/) again. 
 
 The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 

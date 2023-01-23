@@ -54,7 +54,7 @@ If you are using a google form, you must give mops access to the google sheet co
 ## Mops Directions for Setup Google Sheets
 Google Sheets is the most common zap we currently use, but other connectors (like EventBrite) are set up in a very similar way. If you can set one up, you can set them all up! Not covered is different filters, paths and delays you can add in addition to the steps above. 
 
-The Marketo program needs to be set up prior to connecting to Zapier. Ensure there is a list in Marketo that Zapier can push the leads to. Setup instructions are found [here](/handbook/marketing/marketing-operations/#marketo-program-and-salesforce-campaign-set-up). Make sure that form responses are properly configured to match picklists found in [list uploads](/handbook/marketing/marketing-operations/list-import/), otherwise you will run into errors when syncing the lead to SFDC from Marketo.
+The Marketo program needs to be set up prior to connecting to Zapier. Ensure there is a list in Marketo that Zapier can push the leads to. Setup instructions are found [here](/handbook/marketing/marketing-operations/). Make sure that form responses are properly configured to match picklists found in [list uploads](/handbook/marketing/marketing-operations/list-import/), otherwise you will run into errors when syncing the lead to SFDC from Marketo.
 
 #### Step 1:  Access to proper accounts
 - Make sure you have edit access to the google sheet, and that your account has been set up in Zapier.
