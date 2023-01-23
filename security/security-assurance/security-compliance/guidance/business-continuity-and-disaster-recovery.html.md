@@ -49,7 +49,7 @@ The business continuity and disaster recovery plan is comprehensive by nature an
 * [GitLab Handbook listing of DR for Databases](/handbook/engineering/infrastructure/database/disaster_recovery.html)
 * [NIST Guidance on Business Continuity](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf)
 * [PCI DSS v3.2.1 - Business Continuity Plan](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf?agreement=true&time=1551196697261#page=113)
-* [Geo and Disaster Recovery](/handbook/engineering/development/enablement/geo/)
+* [Geo and Disaster Recovery](/handbook/engineering/development/enablement/systems/geo/)
 * [GitLab DR Design](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md#design)
 * [GitLab DR for Databases](/handbook/engineering/infrastructure/database/disaster_recovery.html)
 * [Project Plan for GitLab's Business Continuity Test - Q1 2020](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/1721)
