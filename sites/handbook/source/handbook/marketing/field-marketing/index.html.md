@@ -233,7 +233,7 @@ After Field Marketing has run a campaign, the Field Marketing Manager is respons
 - If a follow-up email was to go out to all attendees and no-shows, the FMM is responsible for ensuring that emails were sent.
 - Did the campaign respondents receive the correct amount of MQL points they should have received for the activity the took?
     - Person score is available to be viewed in our `Custom Links` section of each SFDC campaign. This allows you to view the MQL score of the campaign members, whether they be a lead or contact, all within one view.
-- Did a lead/contact hit our MQL threshold and have the SDRs followed up with this record and moved them beyond the [MQL stage](/handbook/marketing/marketing-operations/#mql-scoring-model)?
+- Did a lead/contact hit our MQL threshold and have the SDRs followed up with this record and moved them beyond the [MQL stage](/handbook/marketing/marketing-operations/)?
 - Update all the relevant tabs in the field marketing campaign event planning sheet.
 
 # ROI tracking for Field Marketing

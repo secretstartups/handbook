@@ -473,7 +473,7 @@ If you would like your on-demand webcast to be hosted on the [Resources page](ht
 **DRI: FMM and FMC**  
 
 ### Emergency Rescheduling of a Workshop
-There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/#-how-to-get-help) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
 
 **DRI: FMM**  
 
