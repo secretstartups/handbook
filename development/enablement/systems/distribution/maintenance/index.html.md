@@ -11,7 +11,7 @@ title: "Distribution Team Infrastructure and Maintenance"
 
 ## Common links
 
-* [Distribution Team Handbook](/handbook/engineering/development/enablement/distribution/)
+* [Distribution Team Handbook](/handbook/engineering/development/enablement/systems/distribution/)
 
 ## Infrastructure
 

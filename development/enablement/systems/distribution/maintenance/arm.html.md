@@ -41,6 +41,6 @@ as a production platform. Due to this, we only build packages for the
 Community Edition.
 
 [verify-ci]: /handbook/engineering/development/ops/verify/
-[distribution]: /handbook/engineering/development/enablement/distribution/
+[distribution]: /handbook/engineering/development/enablement/systems/distribution/
 [community-relations]: /handbook/marketing/community-relations/
 [memory requirements]: https://docs.gitlab.com/ee/install/requirements.html#memory

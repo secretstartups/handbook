@@ -57,7 +57,7 @@ Work can be (very) roughly divided as:
 
 * Work in [the omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab/) project
 * Work in [the GitLab Helm chart](https://gitlab.com/gitlab-org/charts/gitlab) project
-* Other work (in [projects owned by the team](/handbook/engineering/development/enablement/distribution/#projects))
+* Other work (in [projects owned by the team](/handbook/engineering/development/enablement/systems/distribution/#projects))
 
 All scheduled work for omnibus-gitlab, Helm charts and team projects is shown on the [Deliverable board](https://gitlab.com/groups/gitlab-org/-/boards/1282058?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Deliverable&label_name[]=group%3A%3Adistribution). Use additional filters to see specific milestones, etc.
 
@@ -69,8 +69,8 @@ but there is a priority, first being the highest:
 * `Deliverable` - Issues with this label are agreed between team EM and the PM and have the highest overall priority. If you are looking for new work to pick up,
 unassigned issues should be tackled in order of priority label. Deliverable issues not closed in a given milestone are auto forwarded
 via [milestone cleanup](/handbook/engineering/workflow/#milestone-cleanup) workflow.
-* `Distribution:Build` - Issues specific to, and MR's authored by [build](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#distributionbuild-charter) group. Label is not scoped.
-* `Distribution:Deploy` - Issues specific to, and MR's authored by [deployment](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#distributiondeploy-charter) group. Label is not scoped.
+* `Distribution:Build` - Issues specific to, and MR's authored by [build](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributionbuild-charter) group. Label is not scoped.
+* `Distribution:Deploy` - Issues specific to, and MR's authored by [deployment](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributiondeploy-charter) group. Label is not scoped.
 * `Stretch` - Items with this label are scheduled for work similar like
 the items with `Deliverable` label but with lower priority. If items with this label are not delivered in the current cycle, they will become `Deliverable` in the next release.
 * `Unscheduled` - Items with this label are being worked on in this release but have not been previously scheduled by the EM and PM. Work on this items is

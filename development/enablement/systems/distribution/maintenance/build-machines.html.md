@@ -13,8 +13,8 @@ description: "Details and maintenance tasks for the Distribution Team's build no
 
 ## Common links
 
-- [Distribution Team Handbook](/handbook/engineering/development/enablement/distribution/)
-- [Distribution Team Infrastructure and Maintenance](/handbook/engineering/development/enablement/distribution/maintenance/)
+- [Distribution Team Handbook](/handbook/engineering/development/enablement/systems/distribution/)
+- [Distribution Team Infrastructure and Maintenance](/handbook/engineering/development/enablement/systems/distribution/maintenance/)
 
 ## Build Machines
 

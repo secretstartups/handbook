@@ -28,7 +28,7 @@ The Distribution team uses the [Reviewers feature](https://docs.gitlab.com/ee/de
 
 ## Reviewers
 
-By default, every Distribution Engineer team member who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at Merge Requests in any of our [projects](/handbook/engineering/development/enablement/distribution/#projects) that have the "workflow::ready for review" label.
+By default, every Distribution Engineer team member who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at Merge Requests in any of our [projects](/handbook/engineering/development/enablement/systems/distribution/#projects) that have the "workflow::ready for review" label.
 
 Reviewers are responsible for working with contributors to ensure that changes meet our standards, before approving and passing them on to a Maintainer for final review and merge. Reviewers should confirm that the Merge Request addresses the problem the linked Issue describes. Reviewers are also responsible for verifying that all applicable Merge Request checklist items have been completed. In situations where a checklist item is not applicable, Reviewers should verify that the item is indeed not necessary. When you encounter a situation as Reviewer where you are unsure whether something meets our standards, ping a Maintainer directly within the Merge Request with the question.
 
@@ -64,7 +64,7 @@ Because the squash and merge feature is set to [encourage](https://docs.gitlab.c
 
 ## References
 
-1. [Distribution team projects](/handbook/engineering/development/enablement/distribution/#projects) - The full list of projects the Distribution team maintains
+1. [Distribution team projects](/handbook/engineering/development/enablement/systems/distribution/#projects) - The full list of projects the Distribution team maintains
 1. [Engineering Projects](/handbook/engineering/projects/) - The full list of supported GitLab projects. Clicking on the project name will bring you to the list of Maintainers and Reviewers for each project.
 
 [Merge Request Report]: https://gitlab-org.gitlab.io/distribution/monitoring/mrs/
