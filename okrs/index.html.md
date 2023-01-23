@@ -266,7 +266,7 @@ Functional leaders are responsible for updating their objectives and KRs in GitL
 Watch this video for a demo on how to use GitLab for OKR management: 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/GbnixzsRjNs" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/OgJI_Yf4zXs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Creating Objectives
