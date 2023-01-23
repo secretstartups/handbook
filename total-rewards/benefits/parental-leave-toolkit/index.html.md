@@ -85,13 +85,13 @@ Visit the [GitLab Team page](/company/team/) and search for 'Parental Leave Reen
 
    ```
       expertise:  |
-                  <li><a href="/handbook/people-group/general-onboarding/parental-leave-buddy/">Parental Leave Reentry buddy</a></li>
+                  <li><a href="/handbook/total-rewards/benefits/parental-leave-toolkit/">Parental Leave Reentry buddy</a></li>
    ```
 
 4. If you already have an `expertise` section, add the list item portion of the above code:
    
    ```
-                 <li><a href="/handbook/people-group/general-onboarding/parental-leave-buddy/">Parental Leave Reentry buddy</a></li>
+                 <li><a href="/handbook/total-rewards/benefits/parental-leave-toolkit/">Parental Leave Reentry buddy</a></li>
    ```
 
 ## Virtual Baby (or Growing Your Family) Shower
