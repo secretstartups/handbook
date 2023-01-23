@@ -232,6 +232,10 @@ To maintain confidentiality, we follow the following guidelines:
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
 
+### Social Media
+
+As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments.  
+
 ## Prioritizing Acquisition Opportunities
 
 Each quarter the Corporate Development team defines a set of [three categories](/handbook/acquisitions/#acquisition-strategy) which are prioritized for that quarter for outbound activity. We commonly refer to them as Quarterly Focus Areas. While this is true especially for our outbound efforts, these categories will be at the center of our overall efforts and focus for that quarter, taking into account inbound prospects as well. 
