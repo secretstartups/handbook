@@ -234,7 +234,9 @@ To maintain confidentiality, we follow the following guidelines:
 
 ### Social Media
 
-As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments.  
+As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments. 
+
+If you have an existing connection, or a regular cadence of interaction, with a company that then becomes engaged in M&A discussion with GitLab you do not need to disassociate. The spirit of this guidance is intended to keep the status-quo and not create the perception of change in relationship between GitLab and the company being evaluated.
 
 ## Prioritizing Acquisition Opportunities
 
