@@ -112,81 +112,96 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
 1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
 
+## Gantt Chart
+
+Below is a visual example of our cadence and is subject to change based on company and team schedules.
+
 ```mermaid
 gantt
     title Year Overview
-    dateFormat  YYYY-MM-DD
+    dateFormat MM-DD 
+    axisFormat %b
 
     section Fiscal Year at a Glance
-    FY starts                   :2021-02-01, 1d
-    End of Q1                   :2021-04-30, 1d
-    End of Q2                   :2021-07-31, 1d
-    End of Q3                   :2021-10-31, 1d
-    End of Q4                   :2022-01-31, 1d
-
-    section Major Events
-    SKO                         :2021-02-08, 5d
+    FY starts                   :02-01, 1d
+    Quarter Kickoff             :02-05, 1d
+    End of Q1                   :04-30, 1d
+    Quarter Kickoff             :05-05, 1d
+    End of Q2                   :07-31, 1d
+    Quarter Kickoff             :08-05, 1d
+    End of Q3                   :10-31, 1d
+    Quarter Kickoff             :11-05, 1d
+    End of Q4                   :01-31, 1d
 
     section E Group Offsite
-    January                    :2021-01-11, 4d
-    April                       :2021-04-12, 4d
-    June                        :2021-06-28, 4d
-    November (date estimated)   :2021-10-12, 4d
+    January                     :01-05, 4d
+    April                       :04-04, 4d
+    June                        :06-04, 4d
+    October                     :10-04, 4d
 
     section Board Meeting
-    Prep led by CFO             :2021-02-14, 21d
-    March                       :2021-03-18, 1d
-    Prep led by CFO             :2021-05-14, 21d
-    June (date estimated)       :2021-06-17, 1d
-    Prep led by CFO             :2021-08-14, 21d
-    September (date estimated)  :2021-09-30, 1d
-    Prep led by CFO             :2021-11-14, 21d
-    December (date estimated)   :2021-12-14, 1d
+    Prep led by CFO             :02-14, 21d
+    March                       :03-18, 1d
+    Prep led by CFO             :05-14, 21d
+    June                        :06-17, 1d
+    Prep led by CFO             :08-14, 21d
+    September                   :09-15, 1d
+    Prep led by CFO             :11-14, 21d
+    December                    :12-14, 1d
 
     section Monthly Releases
-    13.7                        :2021-01-22, 1d
-    13.8                        :2021-02-22, 1d
-    13.9                        :2021-03-22, 1d
-    13.10                       :2021-04-22, 1d
-    13.11                       :2021-05-22, 1d
-    14.0                        :2021-06-22, 1d
-    14.1                        :2021-07-22, 1d
-    14.2                        :2021-08-22, 1d
-    14.3                        :2021-09-22, 1d
-    14.4                        :2021-10-22, 1d
-    14.5                        :2021-11-22, 1d
-    14.6                        :2021-12-22, 1d
+    Release                        :01-22, 1d
+    Release                        :02-22, 1d
+    Release                        :03-22, 1d
+    Release                        :04-22, 1d
+    Major Release                        :05-22, 1d
+    Release                        :06-22, 1d
+    Release                        :07-22, 1d
+    Release                        :08-22, 1d
+    Release                        :09-22, 1d
+    Release                        :10-22, 1d
+    Release                        :11-22, 1d
+    Release                        :12-22, 1d
 
     section OKR
-    OKR prep                    :2021-03-30, 31d
-    next FQ starts              :2021-05-01, 1d
-    OKR prep                    :2021-06-30, 31d
-    next FQ starts              :2021-08-01, 1d
-    OKR prep                    :2021-08-30, 31d
-    next FQ starts              :2021-10-01, 1d
+    OKR prep                    :03-30, 31d
+    next FQ starts              :05-01, 1d
+    OKR prep                    :06-30, 31d
+    next FQ starts              :08-01, 1d
+    OKR prep                    :08-30, 31d
+    next FQ starts              :10-01, 1d
 
     section Sales Key Dates
-    Q2 QBRs                     :2021-05-05, 5d
-    Q3 QBRs                     :2021-08-04, 4d
-    Q4 QBRs                     :2021-11-03, 3d
+    SKO                         :02-13, 4d
+    Q1 QBRs                     :02-04 5d
+    Q2 QBRs                     :05-05, 5d
+    Q3 QBRs                     :08-04, 5d
+    Q4 QBRs                     :11-03, 5d
 
     section Compensation Review Cycle
-    Audit FY 2021 Annual Compensation Review :2021-02-01
-    Canada Benefits Implementation :2021-02-01
-    Job Family Alignment         :2021-03-01
-    Compensation Philosophy Training :2021-04-01
-    Benefits Survey Released FY21 :2021-06-01
-    Benefits Survey Results FY21 Analyzed :2021-07-01
-    Catch-up Compensation Review Manager Review :2021-08-01
-    Catch-up Compensation Review  :2021-09-01
-    Compensation Training         :2021-10-01
-    Performance Factor Review            :2021-11-01
-    Annual Comp Review Inputs Evaluated/Proposed to Compensation Group for FY22 :2021-12-01
+    Audit Annual Compensation Review :02-01
+    Canada Benefits Implementation :02-01
+    Job Family Alignment         :03-01
+    Compensation Philosophy Training :04-01
+    Benefits Survey Released  :06-01
+    Benefits Survey Results Analyzed :07-01
+    Catch-up Compensation Review Manager Review :08-01
+    Catch-up Compensation Review  :09-01
+    Compensation Training         :10-01
+    Performance Factor Review            :11-01
+    Annual Comp Review Inputs Evaluated/Proposed to Compensation Group for next FY :12-01
 
 
     section People Dates
-    DIB Survey                      :2021-04-08, 14d
-    Code of Conduct Acknowledgement :2021-02-01, 30d
-    360s                            :2021-Q2, 30d
-    Engagement Survey(estimated)    :2021-10-26, 14d
+    DIB Survey                      :05-02, 14d
+    Code of Conduct Acknowledgement :04-01, 30d
+    360s                            :07-25, 60d
+    Engagement Survey(estimated)    :05-16, 14d
+
+    section Annual Mandated Compliance Reports
+    California Pay Data Report      :01-03, 24d
+    EEO-1 Report                    :01-03, 32d
+    AAP                             :01-03, 116d
+    Australia WGEA                  :03-13, 80d
+    VETS-4212                       :05-01, 25d
 ```
