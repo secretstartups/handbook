@@ -294,7 +294,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
-| [IT](/handbook/business-technology/it) | Craig Mestel | Yes | Quarterly | | EBA to VP of Business Technology |
+| [IT](/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |
 
 | AMAs | DRI |  AMA Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ------------ | --------------- | -------------- |
@@ -355,7 +355,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday April 20 | Support | Tom Cooney | April 12 |  
 | Tuesday April 25 | People | Wendy Barnes | April 19 |
 | Wednesday April 26 | Infrastructure | Steve Loyd | April 13 |
-| Thursday April 27 | IT | Craig Mestel | April 20 |  
+| Thursday April 27 | IT | Nabitha Rao | April 20 |  
 | Tuesday May 2 | **Available** | DRI | Key Review Date |
 | Wednesday May 3 | Security | Security Leadership | April 25 |
 | Thursday May 4 | **Available** | DRI | Key Review Date |  
@@ -394,7 +394,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 20 | People | Wendy Barnes | July 11 
 | Tuesday July 25 | Infrastructure | Steve Loyd | July 13 |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
-| Thursday July 27 | IT | Craig Mestel | July 19 |
+| Thursday July 27 | IT | Nabitha Rao | July 19 |
 | Tuesday August 1 | Finance | Brian Robins | July 26 |
 | Wednesday August 2 | **Available** | DRI | Key Review Date |
 | Thursday August 3 | **Available** | DRI | Key Review Date |
@@ -446,7 +446,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
 | Wednesday November 29 | **Available** | DRI | Key Review Date |
 | Thursday November 30 | Support | Tom Cooney | November 8 |
-| December 5 | IT | Craig Mestel | November 28 |
+| December 5 | IT | Nabitha Rao | November 28 |
 
 ## Examples of Past Group Conversations
 
