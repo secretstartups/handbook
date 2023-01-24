@@ -1,0 +1,7 @@
+{{- with . -}}
+<ul>
+  {{ range . }}
+  <li>{{ . | markdownify }}</li>
+  {{ end }}
+</ul>
+{{- end -}}

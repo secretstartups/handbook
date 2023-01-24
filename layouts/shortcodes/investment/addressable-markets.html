@@ -1,0 +1,66 @@
+{{ $investment := partial "investment/data" . }}
+{{ $totals := newScratch }}
+
+<table class="table-center">
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>TAMkt</th>
+      <th>% Served</th>
+      <th>2024 SAM</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $stage := site.Data.public.addressable_markets }}
+    <tr>
+      {{ $sam := mul (div ($stage.percent_servicable | float) 100) $stage.tamkt }}
+      {{ $totals.Add "sam" $sam }}
+      {{ $totals.Add "tamkt" $stage.tamkt }}
+
+      <td class="table-active">{{ $stage.stage }}</th>
+      <td>${{ $stage.tamkt | lang.FormatNumber 0 }}M</td>
+      <td>
+        <a class="external-link" href="{{ $stage.serviceable_url }}">
+          {{ $stage.percent_servicable | lang.FormatPercent 2 }}
+        </a>
+      </td>
+      <td>${{ $sam | lang.FormatNumber 0 }}M</td>
+    </tr>
+    {{ end }}
+  </tbody>
+  <tfoot>
+    <tr>
+      {{ $totals = $totals.Values }}
+      <th class="table-active">Total</th>
+      <th>${{ $totals.tamkt | lang.FormatNumber 0 }}M</th>
+      <th>
+        {{- if $totals.tamkt }}
+        {{- (div $totals.sam $totals.tamkt) | mul 100 | lang.FormatPercent 2 }}
+        {{- end }}
+      </th>
+      <th>${{ $totals.sam | lang.FormatNumber 0 }}M</th>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- <%
+  totalTAMkt = 0
+  totalSAM = 0
+
+  lines = ""
+
+  data.addressable_markets.each do |stage|
+    stageLine=[]
+    sam = (stage.percent_servicable.to_f/100)*stage.tamkt.to_f
+    stageLine << "#{stage.stage}"
+    stageLine << "$#{number_with_delimiter(stage.tamkt, :delimiter => ',')}M" if stage.tamkt
+    totalTAMkt += stage.tamkt.to_f
+    stageLine << "[#{stage.percent_servicable}%](#{stage.serviceable_url})" if stage.serviceable_url
+    stageLine << "#{stage.percent_servicable}%" if !stage.serviceable_url
+    stageLine << "$#{number_with_delimiter(sam.round(0), :delimiter => ',')}M"
+    totalSAM += sam.round(0)
+    lines << "| #{stageLine.join(' | ')} |\n" if stageLine
+  end
+%>
+<%= lines.strip %>
+<%= "| <b>Total</b> | $#{number_with_delimiter(totalTAMkt.round(0), :delimiter => ',')}M | #{(totalSAM/totalTAMkt*100).round(2)}% | $#{number_with_delimiter(totalSAM.round(0), :delimiter => ',')}M |"%> -->

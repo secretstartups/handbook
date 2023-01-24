@@ -1,0 +1,2 @@
+{{- $health := index site.Data.health_codes (string .) | default site.Data.health_codes.default }}
+<span class="badge badge-{{ $health.color }}">{{ $health.text }}</span>

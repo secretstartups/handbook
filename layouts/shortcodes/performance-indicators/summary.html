@@ -1,0 +1,36 @@
+{{- $all := partial "performance-indicators/filter" . }}
+{{- $detailed := eq true (.Get "detailed") }}
+
+{{ with $all }}
+<table class="table">
+  <thead>
+    <tr>
+      <th>Performance Indicator</th>
+      <th>Health</th>
+      {{- if $detailed }}
+      <th>PI Type</th>
+      <th>SaaS/SM</th>
+      <th>Implementation</th>
+      {{- end }}
+    </tr>
+  </thead>
+  <tbody>
+    {{ range . }}
+    <tr>
+      <td>
+        {{ $link := printf "%s#%s" $.Page.RelPermalink (anchorize .name) }}
+        <a href="{{ $link }}">{{ .name }}</a>
+      </td>
+      <td>
+        {{ partial "performance-indicators/health-badge" .health.level }}
+      </td>
+      {{- if $detailed }}
+      <td>{{ delimit (default slice .pi_type) ", " }}</td>
+      <td>{{ .product_analytics_type }}</td>
+      <td>{{ .implementation.status }}</td>
+      {{- end }}
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{ end }}

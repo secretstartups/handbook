@@ -1,0 +1,57 @@
+{{ $all := partial "performance-indicators/filter" . }}
+
+{{ range $all }}
+<div class="card mb-3">
+  <h5 class="card-header" id="{{ .name | anchorize }}">{{ .name }}</h5>
+  <div class="card-body">
+    <p class="card-text"><small class="text-muted">{{ .definition | markdownify }}</small></p>
+
+    {{- with .health }}
+    <div class="card-text">
+      {{ $health := index site.Data.health_codes (.level | default "default" | string) }}
+      {{- partial "alert" (dict
+          "color" $health.color
+          "title" $health.text
+          "description" (partial "text-list" .reasons)
+        )
+      }}
+    </div>
+    <hr>
+    {{- end }}
+
+    {{ with .target }}
+    <p class="card-text"><strong>Target:</strong> {{ . }}</p>
+    {{ end }}
+
+    {{ with .implementation }}
+    <p class="card-text"><strong>Implementation Status:</strong> {{ .status }}{{ partial "text-list" .reasons }}</p>
+    {{ end }}
+
+    {{ with .urls }}
+    <p class="card-text"><strong>URL(s)</strong>{{ partial "text-list" . }}</p>
+    {{ end }}
+
+    {{ with .monthly_focus }}
+    <p class="card-text"><strong>Monthly Focus</strong>{{ partial "text-list" .goals }}</p>
+    {{ end }}
+
+    {{ with .lessons }}
+    <p class="card-text"><strong>Lessons Learned</strong>{{ partial "text-list" .learned }}</p>
+    {{ end }}
+  </div>
+
+  {{- with .sisense_data }}
+  <div class="card-img-bottom">{{- partial "performance-indicators/chart" . }}</div>
+  {{- end }}
+
+  {{- with .sisense_data_secondary }}
+  <div class="card-img-bottom">{{- partial "performance-indicators/chart" . }}</div>
+  {{- end }}
+
+  {{- with .sisense_data_tertiary }}
+  <div class="card-img-bottom">{{- partial "performance-indicators/chart" . }}</div>
+  {{- end }}
+
+</div>
+
+{{ end }}

@@ -1,0 +1,73 @@
+# NB Do not move this entry from the top of this file
+
+[Content Sites]
+* @marshall007 @jamiemaynard
+.gitlab/CODEOWNERS @marshall007 @jamiemaynard
+/content/docs/ @marshall007 @jamiemaynard
+
+[CEO]
+/content/handbook/ @sytses @streas
+
+[Comms]
+/content/news/ @sliang2
+
+[Engineering]
+/content/handbook/engineering/ @akramer
+/content/handbook/engineering/horse/ @marin
+/content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
+/content/handbook/engineering/infrastructure @sloyd @marin
+/content/handbook/engineering/fedramp-compliance @connorgilbert @corey-oas @Julia.Lake
+/content/handbook/engineering/security/ @Julia.Lake @rschulman
+/content/handbook/engineering/security/infrastructure_security/ @joe-dub @mlancini @pmartinsgl
+
+[Finance]
+/content/handbook/finance/ @brobins
+/content/handbook/finance/documents/ @james.shen @watson.lin
+
+[Product]
+/content/handbook/direction/ @david @fseifoddini @brhea
+/content/handbook/product/ @david @fseifoddini @brhea
+/content/handbook/product/efficiency/ @joshlambert
+/content/handbook/product/saas-efficiency/ @ipedowitz @dsteer @s_awezec @joshlambert @gl-free-saas-user-efficiency-leaders
+/data/performance_indicators/ @david @fseifoddini @brhea
+/content/handbook/company/performance-indicators/product/ @david @fseifoddini @brhea
+/data/performance_indicators/enablement_section.yml @joshlambert
+/content/handbook/company/performance-indicators/product/ops-section/ @kbychu @jreporter
+/data/performance_indicators/ops_section.yml @kbychu @jreporter
+/data/performance_indicators/sec_section.yml @hbenson
+/data/performance_indicators/dev_section.yml @ogolowinski
+/data/performance_indicators/data_science_section.yml @hbenson @tmccaslin
+/content/handbook/product/fulfillment/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
+/content/handbook/product/fulfillment/cloudlicensing/ @courtmeddaugh
+/content/handbook/product/fulfillment/provision/ @courtmeddaugh
+/content/handbook/handbook/product/fulfillment/licensingissues/ @courtmeddaugh
+/content/handbook/product/fulfillment/self-service-purchase/ @alex_martin
+/content/handbook/product/fulfillment/qsr/ @tgolubeva
+/content/handbook/product/fulfillment/auto-renewal/ @tgolubeva
+/content/handbook/company/performance-indicators/product/fulfillment-section/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
+
+[Legal]
+/content/handbook/legal-and-compliance/ @rschulman
+
+[Sales]
+/content/handbook/sales/ @dhong
+/content/handbook/company/performance-indicators/sales.md @dhong
+/data/performance_indicators/sales.yml @dhong
+
+[Marketing]
+/content/handbook/marketing/ @akramer
+/content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
+/content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
+/content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
+
+[TotalRewards]
+/content/handbook/total-rewards/ @brittanyr @mwilkins
+
+[Alliances]
+/content/handbook/alliances/ @nbadiey
+
+[Support]
+/content/handbook/support/ @lyle @tcooney
+
+[customer-success]
+/content/handbook/customer-success @spatching @christiaanconover @mrleutz
