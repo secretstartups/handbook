@@ -21,9 +21,9 @@ Below are the cadences we have at GitLab:
 1. [10 years](#10-years) (3.3x 3-years)
 1. [3 years](#3-years) (3x year)
 1. [Year](#year) (4x quarter)
-1. Quarter](#quarter) (3x month)
-1. Month](#month) (4.3x week)
-1. Week](#week)
+1. [Quarter](#quarter) (3x month)
+1. [Month](#month) (4.3x week)
+1. [Week](#week)
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
