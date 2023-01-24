@@ -175,9 +175,9 @@ Engineers are advised to use professional judgment in determining the scope of c
 
 #### Independent Contractors
 Independent Contractors requiring access to Orange or Red data in the provision of services must be vetted by Security prior to being granted system access. The below items are required prior to granting Security approval:
-- Evidence of completed background check, which will be monitored and adjudicated by the Sr. Background Check Specialist.
+- Evidence of initiated background check, which will be monitored and adjudicated by the Sr. Background Check Specialist. 
     - This helps ensure that personnel with criminal backgrounds that may pose a threat to GitLab assets, customer relationships, and sensitive information are identified. 
-    - More information on the background screening process can be found on the [People Policies](https://about.gitlab.com/handbook/people-policies/#background-screenings) page and the Sr. Background Check Specialist can be contacted @ `backgroundchecks@gitlab.com`.
+    - _Note: Background check requirements are subject to change at the discretion of the People Operations team. Please refer to the background screening entry within the [People Policies handbook](https://about.gitlab.com/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the sr. Background Check Specialist at `backgroundchecks@gitlab.com`._
 - GitLab Laptop Request Issue OR Assignment of VDI Environment Access
     - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf.
 
