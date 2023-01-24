@@ -204,6 +204,15 @@ The video below is a recording of the Live Learning that took place in August 20
 
 ### Having Career Development Conversations with your Team
 
+Team Members: Take the [Support your team with Career Conversations course in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/support-your-team-with-career-conversations) to review the material below!
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/support-your-team-with-career-conversations" class="btn btn-purple" style="width:200px;margin:5px;">Take the Course</a>
+  </div>
+</div>
+
+
 #### Manager responsibilities
 
 | During career conversations, managers: | Description |
