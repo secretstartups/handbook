@@ -11,8 +11,6 @@ canonical_path: "/company/strategy/"
 - TOC
 {:toc}
 
-**This strategy page is an early draft to better align the strategy to the OKR process. Expect updates as we discuss this within the company.**
-
 ## Three Year Strategy
 
 Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy){:data-ga-name="strategy"}{:data-ga-location="body"}. It also maps to and reflects GitLab's [mission](/company/mission/){:data-ga-name="mission"}{:data-ga-location="body"}, [vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} and [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}. It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration){:data-ga-name="iterate"}{:data-ga-location="body"} when there is reason to do so.
