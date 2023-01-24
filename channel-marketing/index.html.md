@@ -77,6 +77,8 @@ In partnership with field sales, drive MQL's to convert to SAO's.  The field mar
 Develops the strategy and conversion targets for the team in partnership with field sales leadership.
 *   ## Global Channel Marketing Director
 Develops scalable demand generation campaigns and tactics for partners to generate Partner Sourced opportunities.
+*   ## Channel Marketing Manager
+Responsible for supporting CAMS in specific geographies, by creating demand generation marketing plans with Focus Partners. In charge of planning MDF activites and improving Partner's participating in various Channel programs.
 
 Once a plan for the quarter has been established it is imperative that the channel account manager and the field marketing manager stay in close, consistent alignment about plan execution.  The strategy is driven by the channel account manager, while the field marketing manager is responsible for executing on that strategy in partnership with various support teams, including but not limited to the channel account managers.
 
