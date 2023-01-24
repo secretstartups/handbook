@@ -142,6 +142,8 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 #### Laptop Wipe Schedules for IT Analysts
 
+- Mic Rohr - [appointment schedule](https://calendar.app.google/QrBCkxhvAxkhA36M8) - AMER
+
 - Jeff Ford - [appointment schedule](https://calendar.app.google/Qc1wwN94q6RqEyGL9) - AMER
 
 - Alex Kruseic - [appointment schedule](https://calendar.app.google/xsTHAQWxHmT3tpr86) - AMER
@@ -153,3 +155,5 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 - Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA 
 
 - Steve Ladgrove - [appointment schedule](https://calendar.app.google/sno1aJBB9YhQUHXh8) - APAC
+
+- Max Hirata - [appointment schedule](https://calendar.app.google/CMK6dKUN2otv1wsWA) - APAC
