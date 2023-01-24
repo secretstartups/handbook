@@ -48,21 +48,21 @@ FY24 Yearlies and additional detail can be found by [searching for the FY24 Year
 
 ### Strategic Pillar 1: [Customer Results](/company/strategy/#1-customer-results) 
 
-Improve customers results through:
-1. Increasing NetARR from Ultimate up-tiers by $X
-1. Increasing Sales Efficiency
-1. Increasing User Awareness
+In order to make progress on our strategic pillar of [Customer Results](/company/strategy/#1-customer-results), we will: 
+1. Increase Ultimate adoption to increase Ultimate up-tiers by $X
+1. Increase Sales Efficiency to grow operating income (NGOI) by X% 
+1. Increase User Awareness as evidenced by Y% uplift in aided/unaided awareness
 
 ### Strategic Pillar 2: [Mature the Platform](/company/strategy/#2-mature-the-platform)
 
-Mature the Platform by: 
-1. Closing BIC gaps
-1. GitLab Dedicated GA
-1. Scaling GitLab.com
+In order to make progress on our strategic pillar of [Maturing the Platform](#2-mature-the-platform), we will:  
+1. Close the gap with the best in class (BIC) competitors for each of our stages as evidenced by meeting or exceeding [BIC competitor capabilities](https://about.gitlab.com/competition/) for every stage
+1. Launch [GitLab Dedicated](https://about.gitlab.com/direction/saas-platforms/dedicated/) full GA
+1. Scale GitLab.com via disaster recovery and [Pods](/direction/pods/)
 
 ### Strategic Pillar 3: [Grow Careers](/company/strategy/#3-grow-careers) 
 
-Career Building Platform through:
-1. Faster Pace 
-1. Increase Team Diversity
-1. Enabling People Managers through [Elevate](/handbook/people-group/learning-and-development/elevate/)
+In order to make progress on our strategic pillar of [Grow Careers](/company/strategy/#3-grow-careers), we will: 
+1. Maintain GitLab's fast pace as measured by MRs per team member
+1. Increase Team Diversity as evidenced by increasing URG from X% to Y%
+1. Enable People Managers to deliver results as evidenced by 95% of people managers completing [Elevate](/handbook/people-group/learning-and-development/elevate/)
