@@ -76,6 +76,8 @@ The CSM should review the available content for [Workshops](https://drive.google
 
 CSMs should review the speaker notes to ensure they understand each slide, and add clarifications and notes to them as needed. Ensure you have a plan for what you want to communicate for each slide, but don't try to memorize what you are going to say.
 
+Recordings of sessions that CSMs have previously run can be found [here](https://drive.google.com/drive/folders/11LeQbvUBwdqqWMplSb4iUTlxm7e7uXtD?usp=share_link) and may also be helpful to review as part of the preparation process.
+
 ### Conducting the session
 
 Have your champion introduce you if possible. Use Presenter View in Google Slides to have the speaker notes available in a separate window. Run your slides off of your smaller monitor or on your MacBook screen if possible so the screen resolution is not an issue for participants with lower resolutions.
