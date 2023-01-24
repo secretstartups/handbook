@@ -60,7 +60,7 @@ Senior leadership representative (Snr. Dir +) from each Department and a person 
 
 ## Accountabilities and Commitments:
 
-These are the Accountabilities and Commitments that members of the Leadership DIB Council will commit to during their tenure on the Dhe Leadership DIB Council: 
+These are the Accountabilities and Commitments that members of the Leadership DIB Council will commit to during their tenure on the The Leadership DIB Council: 
 
 * To being an active member of the Leadership DIB Council this includes but is not limited:
     * Attending a regular sync meeting that is suitable for your working hours. We will host two meetings: One in AM PST and one in PM PST or switch the times on rotation to allow all members to attend bi-monthly
