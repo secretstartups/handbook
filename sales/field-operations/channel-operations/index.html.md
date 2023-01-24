@@ -505,10 +505,10 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 ### Additional Information
 - The resale discount will be administered as an upfront discount from the GitLab license price on the most recent product sale net license price. The Service Attach incentive will be paid out at the end of each GitLab fiscal quarter.
 - Partner Service Attach incentives are as follows:
-  - 2-4 Services per quarter: 2.5% on license net ARR (Max payout $2500/closed-won opportunity)
-  - 5-9 Services per quarter: 5% on license net ARR (Max payout $5000/closed-won opportunity)
-  - 10 or more Services per quarter: 7.5% on license net ARR (Max payout $7500/closed-won opportunity)
-- Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
+  - 1-3 Service attach deliveries in a quarter: 3% rebate on license net ARR up to $2,500
+  - 4+ Service attach deliveries in a quarter:  6% rebate on license net ARR up to $5,000
+  - Total cap is $25,000 per partner per quarter
+- Partners must register a Services Attach deal registration and provide proof of performance/execution to qualify for the incentive.
 - Rebates and referral fees may require CRO approval. 
 - Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Channel Account Manager must agree on the negotiated discount amount.
  
