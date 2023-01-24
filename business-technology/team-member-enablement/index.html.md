@@ -132,6 +132,8 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 
+- IT Analyst APAC -  [Max Hirata](https://about.gitlab.com/company/team/#mraetz), mraetz@gitlab.com, @mraetz 
+
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 
 - Senior IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
