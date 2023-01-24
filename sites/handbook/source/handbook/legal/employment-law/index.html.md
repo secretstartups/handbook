@@ -301,9 +301,3 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [The Act on Equal Opportunity and Work-Family Balance Assistance Act](https://www.law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=180140&viewCls=engLsInfoR&urlMode=engLsInfoR#0000)
 - [The Act on the Prohibition, Etc. of Age Discrimination in Employment and Elderly Employment Promotion](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=37583&lang=ENG#:~:text=The%20purposes%20of%20this%20Act,to%20ensure%20they%20have%20occupations)
 - [The Act on the Employment Promotion and Vocational Rehabilitation of Persons with Disabilities](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=45669&type=part&key=40)
-
-## Employment Document Management
-- All employment documents/contracts for Team Members hired under a GitLab entity are stored in BambooHR upon execution. This includes: offer letters, contracts, resignation letters, and severance agreements. 
-- Team Members who are employed via a PEO executed between said Team Members and the PEO entity. These Agreements remain between those two parties and a copy may be requested. 
-- Standard templates are used by the People Group to create employment documents. In the event a non-standard document is needed, the People Group will work with the Director of Legal, Employment to approve any deviations from our standard template(s). 
-- Overview sheet of executed contracts will be made available, on a monthly basis, to the Finance / Audit team, including Corporate Controller. 
