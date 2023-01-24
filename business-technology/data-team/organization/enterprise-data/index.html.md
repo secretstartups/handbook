@@ -14,7 +14,7 @@ description: "GitLab Enterprise Data Team Handbook"
 
 ----
 
-# Enterprise Data at GitLab
+# Enterprise Data at GitLab (Under Construction)
 
 ## Mission
 
@@ -22,9 +22,7 @@ To collaborate with the business units and data teams in establishing and facili
 
 ## Team Structure
 
-- [@iweeks](https://gitlab.com/iweeks)
-- [@snalamaru](https://gitlab.com/snalamaru)
-- [@tpoole](https://gitlab.com/tpoole1)
+Under Construction...
 
 ## Handbook First
 
