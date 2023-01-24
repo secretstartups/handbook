@@ -1,0 +1,43 @@
+{{ $epics := partial "gitlab/api" (dict
+    "path" (printf "groups/%s/epics" .Params.group)
+    "query" (dict
+      "assignee_username" .Params.assignee
+      "author_username" .Params.author
+      "search" .Params.search
+      "scope" (.Params.scope | default "all")
+      "labels" .Params.labels
+      "milestone" .Params.milestone
+      "sort" .Params.sort
+      "order_by" .Params.order_by
+      "with_labels_details" true
+    )
+  )
+}}
+
+{{ range $epics }}
+  <section>
+    <details>
+      <summary>
+        <h2 style="display: inline-block;">
+          <a href="{{ .web_url }}">{{ .references.short }}</a> &dash;
+          {{ .title }}
+        </h2>
+
+        <div>
+          {{ range .labels }}
+            {{ partial "gitlab/label" . }}
+          {{ end }}
+        </div>
+      </summary>
+
+      {{ .description | markdownify }}
+    </details>
+  </section>
+{{ end }}
+
+<br>
+
+<details>
+  <summary>JSON</summary>
+  <pre><code>{{ $epics | jsonify (dict "indent" "  ") }}</code></pre>
+</details>

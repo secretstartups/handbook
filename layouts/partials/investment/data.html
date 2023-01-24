@@ -1,0 +1,48 @@
+{{ $results := newScratch }}
+{{ $stages := site.Data.public.stages.stages }}
+
+{{ range $stage_key, $stage := $stages }}
+  {{ $stage_score := partial "partials/investment/weighted-scores" $stage }}
+  {{ $stage_score.Set "display_name" $stage.display_name }}
+
+  {{ range $group_key, $group := $stage.groups }}
+    {{ $group_score := partial "partials/investment/weighted-scores" $group }}
+    {{ $group_score.Set "display_name" (printf "%s:%s" $stage.display_name $group.name) }}
+
+    {{ $headcount := partial "partials/investment/headcount" $group }}
+
+    {{ $group_score.Set "total_headcount" $headcount }}
+    {{ $stage_score.Add "total_headcount" $headcount }}
+    {{ $stage_score.Add "total_score" ($group_score.Get "combined_score") }}
+    {{ $stage_score.SetInMap "groups" $group_key $group_score.Values }}
+  {{ end }}
+
+  {{ $results.Add "total_headcount" ($stage_score.Get "total_headcount") }}
+  {{ $results.Add "total_score" ($stage_score.Get "total_score") }}
+  {{ $results.Add "combined_score" ($stage_score.Get "combined_score") }}
+  {{ $results.SetInMap "stages" ($stage_key | lower) $stage_score.Values }}
+{{ end }}
+
+{{ return $results.Values }}
+
+{{ define "partials/investment/weighted-scores" }}
+  {{ $result := newScratch }}
+  {{ $revenue_driver_score := default (index . "revenue_driver_score") (index . "asp_driver_score") }}
+  {{ $data := merge . (dict "revenue_driver_score" $revenue_driver_score) }}
+
+  {{ range $key, $weight := site.Data.investment_weights }}
+    {{ $score := mul (default 0.0 (index $data $key)) (float $weight) }}
+    {{ $result.Set $key $score }}
+    {{ $result.Add "combined_score" $score }}
+  {{ end }}
+
+  {{ return $result }}
+{{ end }}
+
+{{ define "partials/investment/headcount" }}
+  {{ $engineers := partial "team/data" (dict
+      "departments" (slice .be_team_tag .fe_team_tag .fs_team_tag)
+    )
+  }}
+  {{ return (len $engineers | float) }}
+{{ end }}

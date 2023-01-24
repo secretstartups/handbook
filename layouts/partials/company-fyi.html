@@ -1,0 +1,15 @@
+<div class="home-section-h row justify-content-center td-box--100"><h2>Top Updates</h2></div>
+<div class="row td-box--100 pb-3 fyi-padding">
+  <div class="card-deck mb-3 deck-center">
+  {{ $regular_pages := .regular_pages }}
+
+    {{ range first 3 (where $regular_pages "Params.tags" "intersect" (slice "company-fyi")) }}
+    <div class="card mb-3">
+      <div class="card-body mb-3 card-padding">
+        <p><strong>{{ .Title }}</strong></p>
+        <p><a href="{{ .Permalink }}" class="selenium-link">Read More <i class="fas fa-caret-right"></i></a></p>
+      </div>
+    </div>
+  {{ end }}
+  </div>
+</div>

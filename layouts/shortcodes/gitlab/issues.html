@@ -1,0 +1,56 @@
+{{ $issues := partial "gitlab/api" (dict
+    "path" (printf "groups/%s/issues" .Params.group)
+    "query" (dict
+      "assignee_username" .Params.assignee
+      "author_username" .Params.author
+      "search" .Params.search
+      "scope" (.Params.scope | default "all")
+      "labels" .Params.labels
+      "milestone" .Params.milestone
+      "with_labels_details" true
+    )
+  )
+}}
+
+<table>
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Assignee</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $issues }}
+      <tr>
+        <td>
+          <a href="{{ .author.web_url }}">
+            <code>@{{ .author.username }}</code>
+          </a>
+        </td>
+        <td>
+          {{ with .assignee }}
+          <a href="{{ .web_url }}">
+            <code>@{{ .username }}</code>
+          </a>
+          {{ end }}
+        </td>
+        <td>
+          <div>
+            <a href="{{ .web_url }}">{{ .title }}</a>
+          </div>
+          {{ range .labels }}
+            {{ partial "gitlab/label" . }}
+          {{ end }}
+        </td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+<br>
+
+<details>
+  <summary>JSON</summary>
+  <pre><code>{{ $issues | jsonify (dict "indent" "  ") }}</code></pre>
+</details>

@@ -1,0 +1,109 @@
+baseURL: https://gitlab-com.gitlab.io/content-sites/handbook
+languageCode: en-us
+title: The GitLab Handbook
+
+params:
+  branch: main
+  project: https://gitlab.com/gitlab-com/content-sites/handbook
+  plantuml:
+    enable: true
+    # svg: true
+  mermaid:
+    enable: true
+  offlineSearch: true
+  ui:
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: true
+    navbar_logo: true
+  copyright: "GitLab"
+  links:
+    user:
+      - name: "Contribute"
+        url: "docs/"
+        icon: "fa fa-pen"
+        desc: "Contribute to the internal handbook"
+      - name: "GitLab Repository"
+        url: "https://gitlab.com/gitlab-com/content-sites/handbook"
+        icon: "fab fa-gitlab"
+        desc: "Contribute on GitLab"
+      - name: "Slack Discussions"
+        url: "https://gitlab.slack.com/archives/C81PT2ALD"
+        icon: "fab fa-slack"
+        desc: "Discuss GitLab Handbook on Slack"
+    handbooks:
+      - name: "Legacy Handbook"
+        url: "https://about.gitlab.com/handbook/"
+        icon: "fa fa-book"
+        desc: "GitLab Public Handbook"
+
+menu:
+  main:
+    # - weight: 10
+    #   name: '#internal-handbook'
+    #   url: https://gitlab.slack.com/archives/C02GABPC4UV
+    #   pre: '<i class="fab fa-slack"></i>'
+    # - weight: 11
+    #   name: '#company-fyi-private'
+    #   url: https://gitlab.slack.com/archives/C02E7JGBU4E
+    #   pre: '<i class="fab fa-slack"></i>'
+    # - weight: 20
+    #   name: Project
+    #   url: https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
+    #   pre: '<i class="fa fa-code"></i>'
+    - weight: 30
+      name: Legacy Handbook
+      url: https://about.gitlab.com/handbook/
+      pre: '<i class="fa fa-book"></i>'
+
+mediaTypes:
+  text/netlify:
+    delimiter: ""
+    suffixes: [ "" ]
+outputs:
+  home: [ "HTML", "REDIRECTS" ]
+  section: [ "HTML" ]
+outputformats:
+  redirects:
+    baseName: "_redirects"
+    isPlainText: true
+    mediaType: "text/netlify"
+    notAlternative: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+  highlight:
+    style: monokailight
+    lineNos: true
+    tabWidth: 2
+  tableOfContents:
+    startLevel: 2
+    endLevel: 5
+    ordered: false
+
+security:
+  funcs:
+    getenv: [ "^HUGO_", "PERISCOPE_EMBED_API_KEY", "PRODUCT_ANALYTICS_APP_KEY", "PRODUCT_ANALYTICS_HOST" ]
+
+canonifyURLs: true
+enableGitInfo: true
+pluralizeListTitles: false
+enableEmoji: true
+
+theme:
+- gitlab.com/gitlab-com/content-sites/docsy-gitlab
+- github.com/google/docsy
+
+module:
+  hugoVersion:
+    extended: true
+    min: 0.95
+  imports:
+  - path: gitlab.com/gitlab-com/content-sites/docsy-gitlab
+    disable: false
+  - path: github.com/google/docsy
+    disable: false
+  imports:
+  - path: github.com/google/docsy/dependencies
+    disable: false

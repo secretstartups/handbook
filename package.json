@@ -1,0 +1,20 @@
+{
+  "name": "internal-handbook",
+  "private": true,
+  "description": "View the internal handbook at <https://internal-handbook.gitlab.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/internal-handbook/internal-handbook.gitlab.io.git"
+  },
+  "scripts": {
+    "sync-data": "./scripts/sync-data.sh",
+    "build": "npm run sync-data && hugo",
+    "start": "hugo server"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "chalk": "^4.1.2",
+    "postcss": "^8.3.7",
+    "postcss-cli": "^9.1.0"
+  }
+}

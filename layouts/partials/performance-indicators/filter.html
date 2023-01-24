@@ -1,0 +1,32 @@
+{{ $all := slice }}
+{{ $org := .Get "org" }}
+
+{{ if $org }}
+{{ $all = index .Site.Data.performance_indicators $org | default slice }}
+{{ else }}
+{{ range $key, $values := .Site.Data.performance_indicators }}
+{{ $all = append $all $values }}
+{{ end }}
+{{ end }}
+
+{{ with .Get "is_key" | string }}
+{{ $all = where $all "is_key" (eq . "true")  }}
+{{ end }}
+
+{{ with .Get "is_primary" | string }}
+{{ $all = where $all "is_primary" (eq . "true") }}
+{{ end }}
+
+{{/*  {{ with .Get "org" }}
+{{ $all = where $all "org" .  }}
+{{ end }}  */}}
+
+{{ with .Get "sections" }}
+{{ $all = where $all "section" "in" (split . ",")  }}
+{{ end }}
+
+{{ with .Get "pi_types" }}
+{{ $all = where $all "pi_type" "intersect" (split . ",")  }}
+{{ end }}
+
+{{ return $all }}
