@@ -303,7 +303,10 @@ To add new objectives in GitLab, follow the steps below:
 `Objective Example Placeholder: 1x example full product/R&D hierarchy of labels, 1x example just division`
 
 ### Creating Key Results
-Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Key Results must be created as part of an Objective and cannot be created independent of an Objective. Since KRs [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an objective, KRs cannot be created independent of an objective.
+Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Sub-objectives are only used to cascade OKR down a level in [organizational structure](/team/structure/#layers) while [Key Results are the measure](#what-are-okrs) which helps us understand if we’ve met our objective and can be cascaded down a level of organization structure to become an objective one level down. Key Results must be created as part of an Objective and cannot be created independent of an Objective since Key Results [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an Objective. 
+
+Since [Key Results are the measure](#what-are-okrs) that helps us understand if we’ve met our Objective, Key Results are aligned to the same, single layer of the [organizational structure](/team/structure/#layers) as their parent Objective and not a Key Result for multiple layers of organizational structure. However, Key Results can be cascaded down from this single organizational structure layer by becoming Objectives in the next organizational level down - see [Cascading OKRs](/#cascading-okrs).
+
 To add new key results in GitLab, follow the steps below:
 1. Navigate to the the objective that you want to add a child key result to by opening the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), selecting **Issues** on the left sidebar, then clicking on the target objective. 
 1. [Add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result) by clicking **Add** in the **Child objectives and key results** section of an objective and then select **New key result**.
@@ -331,6 +334,13 @@ Watch this video for a demo on how to create objectives and key results:
   <iframe src="https://www.youtube.com/embed/QmOM7J0Tu0o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+### Cascading OKRs
+
+Cascading is the process by which top-level CEO OKRs cascade down from company-level to division, department, teams, and sometimes individual level. There are two methods to cascade:
+1. [Explicit Alignment](/#Explicit-Alignment) - adopt a higher-level Key Result as an Objective.
+2. Directional Alignment - Using objective from higher level of the organization in order to guide creation of your team's objective(s), then align your team's objective to higher-level objective.
+
+Through these two cascade methods, a lower level team can either inherit or create an Objective. However, in both cases, the lower level team creates net new Key Results for the new Objective at team's level of [organizational structure](/team/structure/#layers).
 
 
 ### How to Align Division OKRs to the CEO OKRs
