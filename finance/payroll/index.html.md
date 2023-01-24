@@ -230,7 +230,7 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 ### Changing bank information
 
-1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update Workday accordingly.
+1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update Workday accordingly. Please see WorkDay guide [here](https://about.gitlab.com/handbook/people-group/workday/workday-guide/#workday-guides). 
 
 ### Global Upside - France
 
@@ -361,6 +361,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1-vVN6clWo0_E5L6TFXPLuMYQq2LsbU1MK7_aO4D78yY/edit#gid=888530536)
 - GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1s7x3DtsQyx8vSdZMkKdaAmPAILkDkj5P3f1c28l52RE/edit#gid=727433444)
 - GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=1611696861)
+- GitLab BV (Finland) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=1611696861)
 - GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CrvD-_P2vIQFtIUbqxeYc5erroiij87biNRJqB77n20/edit#gid=250040130)
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/1HCKIZTVBYjQOTOp4syfHssDMceujRmEfF75ZGM85d1g/edit#gid=1657503088)
 - GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1O_YFh783JMGj0MC_tCb56Mqk762XaAZQSQfZAnm5aWE/edit#gid=648164152)
@@ -372,8 +373,8 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1419993369)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=794676582)
-    -  Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden & Brazil) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
-    - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
+    -  Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden, Brazil, Luxembourg & Denmark) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
+    - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
 
 ## Performance Indicators
 
