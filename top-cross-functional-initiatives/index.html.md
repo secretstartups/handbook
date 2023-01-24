@@ -104,7 +104,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q4
 1. Leading Organization Growth
-   1. DRI / Sponsor: @epetoskey / @akramer
+   1. DRI / Sponsor: @esalvadorp / @akramer
    1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25-Q4. Follows User Engagement Initiative.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
    1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
