@@ -37,12 +37,10 @@ this workflow.
       template. A Fulfillment PM will review the request and move it to the
       relevant team and trackers if they accept it.
 1. Add the appropriate labels to the issue or epic:
-   - Add `Support::Interest` to indicate that GitLab Support wants to see this
+   - Add `Support Interest::Categorize` to indicate that GitLab Support wants to see this
      addressed
    - If it is impacting a customer's ability to use the GitLab licensing
      functionality successfully, then add `Customer::Impact` and `UX`
-   - If the issue is impacting L&R Support's ability to serve customers, then
-     add `Support::Impact`
 
 - For general guidance on adding comments and required labels for issues, please
   see the [Working with issues workflow](../../workflows/working-with-issues.html#adding-comments-on-existing-issues)
@@ -65,16 +63,16 @@ The issue list spreadsheet is available to all GitLab Team Members. To access it
 #### List contents
 
 The spreadsheet should always contain on its main sheet the full list of all
-epics and issues that have the `Support::Interest` label, and no other epics or
-issues.
+epics and issues that have any `Support Interest::xxx` label, and no other epics
+or issues.
 
-We encourage everyone who applies the `Support::Interest` label to take an extra
-moment to add the labeled issue or epic to the end of the list in the
-spreadsheet. The [Regional DRIs](../index.html#regional-dris) will also look for
-newly-labeled items each month and will add them to the list before beginning
-the prioritization exercises.
+We encourage everyone who applies the `Support Interest::Categorize` label to
+take an extra moment to add the labeled issue or epic to the end of the list in
+the spreadsheet. The [Regional DRIs](../index.html#regional-dris) will also look
+for newly-labeled items each month and will add them to the list before
+beginning the prioritization exercises.
 
-#### List structure - rows
+#### List structure - sections
 
 ##### Top 10 - Prioritized
 
@@ -83,7 +81,10 @@ items that L&R Support has decided are the most important product issues for
 the Fulfillment Team to address. **The only people who should move items in or
 out of the Top 10 section, or change the order within the section, are the
 [Regional DRIs](../index.html#regional-dris).** This section of the list is
-colored with a red theme, indicating the hottest issues.
+colored with a red theme, indicating the hottest issues. All items in this
+section, except those being
+[reviewed for possible reprioritization](#review-for-possible-reprioritization),
+have the label `Support Interest::Now`.
 
 ##### Next 10 - NOT Ordered
 
@@ -92,14 +93,28 @@ top 10. They are listed in no particular order. As a group, they represent the
 product issues that L&R Support would like Fulfillment to address once the top
 10 are resolved. **The only people who should move items in or out of this
 section are the [Regional DRIs](../index.html#regional-dris).** This section
-of the list is colored with a yellow theme - almost hot.
+of the list is colored with a yellow theme - almost hot. All items in this
+section, except those being
+[reviewed for possible reprioritization](#review-for-possible-reprioritization),
+have the label `Support Interest::Next`.
 
 ##### All the Rest - Not Ordered
 
 The third and final section contains all the remaining items in no particular
 order. All issues and epics should be added to this section when they are
-first labeled with `Support::Interest`. This section of the list is colored
-with a green theme.
+first labeled with `Support Interest::Categorize`. At the next prioritization
+exercise, those items will be moved to one of the other two sections of the
+list (and appropriately labeled) or relabeled `Support Interest::Later`. This
+section of the list is colored with a green theme.
+
+#### Review for possible reprioritization
+
+Anyone who wants to request that any issue or epic in the list be reviewed for
+possible reprioritization should:
+
+1. Apply the `Support Interest::Review` label
+1. Add a comment to the issue or epic outlining how they think it should be
+   prioritized and their reasoning
 
 #### List structure - columns
 
@@ -113,23 +128,26 @@ with a green theme.
   - indicate product group ownership and product DRI assignment
   - ask questions and provide status updates
   - select items to be worked
-  - move items to the `Completed/Done` sheet and provide final status and comments on those
+  - move items to the `Completed/Done` sheet and provide final status and
+    comments on those
 - Engineering Managers
   - ask questions and provide status updates
 - L&R Support [Regional DRIs](../index.html#regional-dris)
   - move items between the list sections
-  - add newly-labeled items to the list and remove no-longer-needed items from the list
-  - Sort the Top 10 list
+  - add items labeled `Support Interest::Categorize` to the list and remove
+    no-longer-needed items from the list
+  - Populate and sort the Top 10 list
+  - Populate the Next 10 list
   - ask and answer questions
 - L&R SEs
-  - add newly-labeled items to the list
+  - add items labeled `Support Interest::Categorize` to the list
   - ask and answer questions
 
 #### Prioritizing the Top 10
 
 On a monthly basis, aligned with the product release cycle, L&R Support will
-determine what changes, if any, are needed in the Top 10 list. By agreement
-with the Fulfillment Product Management Team, Support will keep this list as
+determine what changes, if any, are needed in the list. By agreement with the
+Fulfillment Product Management Team, Support will keep the Top 10 list as
 stable as possible, making changes only when:
 
 - an issue was fixed or otherwise closed within the last month and has been
