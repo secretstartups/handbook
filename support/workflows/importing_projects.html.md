@@ -67,11 +67,9 @@ Once you've determined that GitLab Support is able to process the import, procee
 
 ### Pre-Approved Cases
 
-In addition to the above criteria, we can automatically offer to import a project for a customer if their case falls under the criteria of any of the following sections.
+At this time there are no pre-approved cases.
 
-#### User Mapping
-
-User Mapping is no longer a pre-approved case with the turning on of the [`bulk_import_projects` feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/339941#note_1170723626). Inquiring users should be redirected to [Migrating Groups with GitLab Migration](https://docs.gitlab.com/ee/user/group/import/) to have users mapped.
+The previously pre-approved case on user mapping is now covered by [direct transfers](https://docs.gitlab.com/ee/user/group/import/#migrate-groups-by-direct-transfer-recommended).
 
 #### Other Cases
 
