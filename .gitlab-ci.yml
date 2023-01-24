@@ -90,7 +90,7 @@ pages-review:
     name: review/$CI_COMMIT_REF_SLUG
     # There is no predefined CI variable that is formatted quite right
     # neither $CI_PAGES_URL nor $CI_JOB_URL have /-/ directly after the hostname
-    url: https://gitlab-com.gitlab.io/-/content-sites/handbook.gitlab.io/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    url: https://gitlab-com.gitlab.io/-/content-sites/handbook/-/jobs/$CI_JOB_ID/artifacts/public/index.html
     on_stop: stop-pages-review
   variables:
     HUGO_ENVIRONMENT: review
