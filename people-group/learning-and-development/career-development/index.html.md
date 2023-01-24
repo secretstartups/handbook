@@ -46,7 +46,21 @@ Navigate to various career development resources located throughout the GitLab h
   <div>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/people-group/learning-and-development/internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
+  </div>
+</div>
+
+#### Shadow Programs at GitLab
+<div class="flex-row" markdown="0">
+  <div>
     <a href="/handbook/ceo/shadow/" class="btn btn-purple" style="width:200px;margin:5px;">CEO Shadow</a>
+    <a href="/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow" class="btn btn-purple" style="width:200px;margin:5px;">Chief of Staff to CEO Shadow</a>
+    <a href="/handbook/finance/growth-and-development/cfo-shadow-program/" class="btn btn-purple" style="width:200px;margin:5px;">CFO Shadow</a>
+    <a href="/handbook/marketing/cmo-shadow/" class="btn btn-purple" style="width:200px;margin:5px;">CMO Shadow</a>
+    <a href="/handbook/engineering/development/shadow/director-shadow-program.html" class="btn btn-purple" style="width:200px;margin:5px;">Development Director Shadow</a>
+    <a href="/handbook/engineering/fellow/shadow/" class="btn btn-purple" style="width:200px;margin:5px;">Engineering Fellow</a>
+    <a href="/handbook/people-group/people-connect-shadow-program/" class="btn btn-purple" style="width:200px;margin:5px;">People Connect Team Shadow</a>
+    <a href="/handbook/security/security-shadow.html" class="btn btn-purple" style="width:200px;margin:5px;">Security Team Shadow</a>
+    <a href="https://gitlab.com/gitlab-com/support/support-team-meta/-/blob/master/.gitlab/issue_templates/Support%20Shadow%20Program.md" class="btn btn-purple" style="width:200px;margin:5px;">Support Team Shadow</a>
   </div>
 </div>
 
