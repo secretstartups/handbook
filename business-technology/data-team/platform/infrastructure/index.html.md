@@ -106,9 +106,24 @@ Follow the same steps for Creating the airflow secret in the testing namespace. 
 
 Execute below command `kubectl create -f kube_secret_testing.yaml` from the directory path  `airflow_image/manifests/`.
 
-All the values for secret file is present in the 1 password data team secure vault as document add the value to the secret file from one that document. 
-To edit the document in the testing  namespace use command  `kubectl edit secret airflow  -o yaml --namespace=testing`  and to create in default use `kubectl edit secret airflow  -o yaml`. 
-**Note:-** This has to be executed and created before we try to apply deployment.yml file
+All the values for secret file is present in the 1 password data team secure vault as document, i.e `kube_secret_testing_namespace`. Add the new secret to the 1pass document.
+
+#### Add/Edit secret
+To edit the kube secrets yaml file:
+- for testing  namespace use command  `kubectl edit secret airflow  -o yaml --namespace=testing`  
+- for default (prod) namespace use `kubectl edit secret airflow  -o yaml --namespace=default` 
+
+This will open a `kubectl...yaml` file where a new secret can be added or existing secret can be edited.
+
+The secret needs to be base64 encoded prior to adding it to the yaml file. This can be done like so:
+`echo -n 'some_secret'| base64`
+
+And to decode a secret (for general reference, not needed when adding a secret):
+`echo -n "encoded_message"|base64 --decode`
+
+Lastly add the new secret to the 1pass secret document, i.e `kube_secret_testing_namespace`, this serves as a backup in case the kube cluster goes down.
+
+**Note:-** Updates to the secret file should be done prior to applying the deployment.yml file
 
 
 ##### DNS
