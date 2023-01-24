@@ -28,69 +28,23 @@ Ensure maximum operational uptime of mission critical infrastructure and informa
 
 The following people are permanent members of the SIRT
 
-<table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Joaquin Fuentes</td>
-<td><a href="/job-families/security/security-incident-response-team/#manager-security-incident-response-team">Director, SIRT</a></td>
-</tr>
-<tr>
-<td>Valentine Mairet</td>
-<td><a href="/job-families/security/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
-</tr>
-<tr>
-<td>Lance Callaghan</td>
-<td><a href="/job-families/security/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
-</tr>
-<tr>
-<td>Matt Coons</td>
-<td><a href="/job-families/security/security-incident-response-team/#manager-security-incident-response-team">Security Manager, SIRT</a></td>
-</tr>
-<tr>
-<td>Mitra Jozenazemian</td>
-<td><a href="/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer">Staff Security Engineer, SIRT</a></td>
-</tr>
-<td>Harjeet Sharma</td>
-<td><a href="/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer">Staff Security Engineer, SIRT</a></td>
-<tr>
-<td>Corey McCarty</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Tuan Lam</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Janina Roppelt</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Laurens Van Dijk</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<td>Andy Lockhart</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Chathura Kuruwita</td>
-<td><a href="/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer">Senior Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Bala Allam</td>
-<td><a href="/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate">Security Engineer, SIRT</a></td>
-</tr>
-<tr>
-<td>Leslie Anzures</td>
-<td><a href="/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate"> Security Engineer, SIRT</a></td>
-</tr>
-</tbody>
-</table>
+|Person|Role|
+|---|---|
+|Joaquin Fuentes|[Director, Security Operations](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
+|Valentine Mairet|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
+|Lance Callaghan|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
+|Matt Coons|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
+|Mitra Jozenazemian|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
+|Harjeet Sharma|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
+|Corey McCarty|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Tuan Lam|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Janina Roppelt|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Laurens Van Dijk|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Andy Lockhart|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Chathura Kuruwita|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
+|Bala Allam|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
+|Leslie Anzures|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
+
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Services We Provide:
 1. Reactive - Services design to respond to active incident handling, including but not limited to 
