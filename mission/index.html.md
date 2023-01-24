@@ -11,55 +11,9 @@ canonical_path: "/company/mission/"
 - TOC
 {:toc}
 
-## Background
-
-We believe in a world where **everyone can contribute**. We believe that all
-digital products should be open to contributions; from legal documents to movie
-scripts, and from websites to chip designs.
-
-Allowing everyone to make a proposal is the core of what a DVCS
-([Distributed Version Control System](https://en.wikipedia.org/wiki/Distributed_version_control))
-such as Git enables. No invite needed: if you can see it, you can contribute.
-
-We think that it is logical that our collaboration tools are a collaborative
-work themselves. More than [3,000 people from the wider community](http://contributors.gitlab.com/) have
-contributed to GitLab to make that a reality.
-
-Our Mission is on a 30 year [cadence](/company/cadence/#mission){:data-ga-name="mission"}{:data-ga-location="body"}. [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission. [Our Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} is on a 10 year cadence. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} is on a 3-year cadence.
-
 ## Mission
 
 It is GitLab's mission to make it so that **everyone can contribute**.
-
-When **everyone can contribute**, users become contributors and we greatly
-increase the rate of innovation.
-
-## Big Hairy Audacious Goal (BHAG)
-
-Our [BHAG](https://www.jimcollins.com/concepts/bhag.html) over
-[the next 30 years](/company/cadence/#mission){:data-ga-name="next 30 years"}{:data-ga-location="body"}
-is to become
-the most popular collaboration tool for knowledge workers in any industry. For
-this, we need to make the DevOps lifecycle much more user friendly.
-
-## Purpose
-
-Our mission is the way we realize [our purpose](/company/purpose/) of helping people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
-
-## Values
-
-Our mission guides our path, and we live our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} along this path.
-
-## Goals
-
-Ensure that **everyone can contribute** in the four ways outlined below:
-
-1. Become the most used software for the software development lifecycle and collaboration on all digital content by following [the sequence below](#sequence){:data-ga-name="sequence below"}{:data-ga-location="body"}.
-1. Complete our [product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"} of a [single application](/handbook/product/single-application/){:data-ga-name="create: single application"}{:data-ga-location="body"} based on [convention over configuration](/handbook/product/product-principles/#convention-over-configuration){:data-ga-name="create: convention over configuration"}{:data-ga-location="body"}.
-1. Offer a sense of progress [in a supportive environment with smart colleagues](http://pandodaily.com/2012/08/10/dear-startup-genius-choosing-co-founders-burning-out-employees-and-lean-vs-fat-startups).
-1. Preserve our [values](/handbook/values/). As GitLab grows it's important that we continue to maintain the CREDIT values of [**🤝Collaboration**](/handbook/values/#collaboration), [**📈 Results**](/handbook/values/#results), [**⏱️ Efficiency**](/handbook/values/#efficiency), [**🌐 Diversity, Inclusion & Belonging**](/handbook/values/#diversity-inclusion), [**👣 Iteration**](/handbook/values/#iteration), and [**👁️ Transparency**](/handbook/values/#transparency).
-
-##  Everyone can contribute
 
 Everyone can contribute to digital products with GitLab, to GitLab itself, and to our organization.
 There are three ways you can contribute,
@@ -81,7 +35,10 @@ To ensure that **everyone can contribute with GitLab** we allow anyone to create
 ### Everyone can contribute to GitLab, the application
 {:#contribute-to-gitlab-application}
 
-We actively welcome contributors to ensure that **everyone can contribute to GitLab, the application**.
+We actively welcome contributors to ensure that **everyone can contribute to GitLab, the application**. When **everyone can contribute**, users become contributors and we greatly
+increase the rate of innovation. We think that it is logical that our collaboration tools are a collaborative
+work themselves. More than [3,000 people from the wider community](http://contributors.gitlab.com/) have contributed to GitLab to make that a reality.
+
 We do this by having quality code, tests, documentation, popular frameworks,
 and offering a comprehensive [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit){:data-ga-name="gitlab development kit"}{:data-ga-location="body"}
 and a dedicated [GitLab Design System](https://design.gitlab.com/){:data-ga-name="design"}{:data-ga-location="body"}.
@@ -122,7 +79,19 @@ by [our values](/handbook/values/){:data-ga-name="our values"}{:data-ga-location
 
 We welcome all contributors in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com){:data-ga-name="gitlab project"}{:data-ga-location="body"} so that **everyone can contribute to about.gitlab.com**. GitLab uses about.gitlab.com to share our expertise with the world and believe we can build even greater levels of trust with contributions from our team and community. We strive to provide a great experience for our existing and new community members by reviewing changes and integrating the contributions into our regularly planned updates.
 
-### Customer acceptance
+## Purpose
+
+Our mission is the way we realize [our purpose](/company/purpose/) of helping people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
+
+## Cadence
+
+Our Mission is on a 30 year [cadence](/company/cadence/#mission){:data-ga-name="mission"}{:data-ga-location="body"}. [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission. [Our Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} is on a 10 year cadence. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} is on a 3-year cadence.
+
+## Values
+
+Our mission guides our path, and we live our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} along this path.
+
+## Customer acceptance
 
 We firmly adhere to laws including trade compliance laws -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d){:data-ga-name="code of business conduct and ethics"}{:data-ga-location="body"}, in countries where we do business, and welcome everyone abiding by those legal restrictions to be customers of GitLab. In some circumstances, we may opt to not work with particular organizations, on a case-by-case basis. Some reasons we may choose not to work with certain entities include, but are not limited to:
 
@@ -140,13 +109,7 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 * Related topic: At GitLab, we want to avoid an environment where people feel alienated for their religious or political opinions. Therefore, we encourage GitLab team members to refrain from taking positions on specific [religious or political issues](/handbook/values/#religion-and-politics-at-work){:data-ga-name="religion or politics at work"}{:data-ga-location="body"} in public company forums (such as on the GitLab Contribute stage or Slack channels) because it is easy to alienate people that may have a minority opinion. It is acceptable to bring up these topics in social contexts such as coffee chats and real-life meetups with other coworkers, but always be aware of cultural sensitivities, exercise your best judgement, and make sure you stay within the boundaries of our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d){:data-ga-name="code of business and ethics"}{:data-ga-location="body"}. We always encourage [discussion and iteration](/handbook/values/#anyone-and-anything-can-be-questioned){:data-ga-name="discussion and iteration"}{:data-ga-location="body"} on any company policy, including this one.
 
-### Mitigating Concerns
+## Mitigating Concerns
 
 We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](/handbook/leadership/mitigating-concerns/){:data-ga-name="mitigating concerns"}{:data-ga-location="body"}.
-
-## Why is this page public?
-
-Our strategy is completely public because transparency is one of our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}.
-We're not afraid of sharing our strategy because, as Peter Drucker said,
-"Strategy is a commodity, execution is an art."
 
