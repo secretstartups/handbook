@@ -12,6 +12,10 @@ title: Investigating Package Hunter Findings
 
 ## Investigating Package Hunter Findings
 
+### List of Package Hunter Findings
+
+Any Package Hunter related finding can be found on this [dashboard](https://gitlab.com/gitlab-org/gitlab/-/security/vulnerability_report/?severity=UNKNOWN&scanner=GitLab.DEPENDENCY_SCANNING&state=DETECTED) (internal link).
+
 ### Network Connection Findings
 
 We're going to use [this finding][1] as an example. In this finding,
