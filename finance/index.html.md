@@ -102,10 +102,10 @@ GitLab's Fiscal Year runs from February 1 to January 31.
 
 | Fiscal Year | Calendar Year |
 | ----------- | ------------- |
-| FY23-Q1 | 2022-02-01 to 2022-04-30 |
-| FY23-Q2 | 2022-05-01 to 2022-07-31 |
-| FY23-Q3 | 2022-08-01 to 2022-10-31 |
-| FY23-Q4 | 2022-11-01 to 2023-01-31 |
+| FY24-Q1 | 2023-02-01 to 2023-04-30 |
+| FY24-Q2 | 2023-05-01 to 2023-07-31 |
+| FY24-Q3 | 2023-08-01 to 2023-10-31 |
+| FY24-Q4 | 2023-11-01 to 2024-01-31 |
 
 Refer to our [writing style guidelines](/handbook/communication/#writing-style-guidelines) for proper use of date formats.
 
