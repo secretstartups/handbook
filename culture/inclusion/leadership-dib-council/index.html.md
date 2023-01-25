@@ -103,6 +103,9 @@ We will follow the agenda as closely as possible but ensuring that live answers 
 * Once completed the members will close the issue 
 * The members of the Leadership DIB Council should ensure they do not take on more actions than they are able to
 
+### Communication
+All DIB council members will be added to our internal [Google Group](https://groups.google.com/a/gitlab.com/g/dib-council) for invitations and communication.  
+
 
 
 
