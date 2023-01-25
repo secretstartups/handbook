@@ -95,7 +95,7 @@ Video of how this works tbd.
      - Field events that have not gained consent from the attendees that their name will be shared **are not** compliant.
      - Agreements to be contacted must explicitly state the individual has `opted-in` to receive communication and cannot leave room for nuance
      - Getting someone's name and/or business card from a meetup **does not** qualify as compliant.
-1. Remove all [embargoed country](/handbook/business-ops/trade-compliance/) records. 
+1. Remove all [embargoed country](/handbook/legal/trade-compliance/) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
 1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).

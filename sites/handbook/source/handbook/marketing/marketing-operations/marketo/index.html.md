@@ -111,7 +111,7 @@ All forms should follow these guidelines:
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
-- Country should not include [embargoed countries](/handbook/business-ops/trade-compliance/) 
+- Country should not include [embargoed countries]/handbook/legal/trade-compliance/) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
 
 

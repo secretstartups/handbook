@@ -237,7 +237,7 @@ The following data cleanup is required for any list prior to sending it to the M
 
   
 
-1. Remove all [embargoed country](/handbook/business-ops/trade-compliance/) records.
+1. Remove all [embargoed country](/handbook/business-technology/trade-compliance/) records.
 
   
 
