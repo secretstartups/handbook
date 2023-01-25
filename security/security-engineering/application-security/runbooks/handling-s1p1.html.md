@@ -52,7 +52,7 @@ Some past short term options have been:
 ### Long term
 
 1. Handle it like you normally would for a [critical security release](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/security-engineer.md#critical).
-1. Open an [AppSec RCA issue](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-rcas/-/issues/) to start the AppSec RCA process.
+1. Open an [RCA issue](https://gitlab.com/gitlab-com/gl-security/rcas/-/issues/) to start the RCA process.
 
 ## Handoff
 

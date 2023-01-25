@@ -99,5 +99,5 @@ Learn how to identify or remediate security issues using real examples with GitL
 [7]: https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics
 [8]: https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit
-[10]: /handbook/security/security-engineering/application-security/appsec-rcas.html
+[10]: /handbook/security/root-cause-analysis.html
 [11]: /handbook/security/security-engineering/application-security/reproducible-vulnerabilities.html
