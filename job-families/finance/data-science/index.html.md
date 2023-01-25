@@ -65,7 +65,7 @@ The Data Scientist (Intermediate)  is a [grade 6](/handbook/total-rewards/compen
 #### Data Scientist (Intermediate) Performance Indicators
 
 * Number of Models Operationalized
-* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 2 or higher)
+* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 2 or higher)
 * Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 * Merge Request Rate
 
@@ -103,7 +103,7 @@ The Senior Data Scientist meets all of the requirements of an Intermediate Data 
 #### Senior Data Scientist Performance Indicators
 
 * Number of Models Operationalized
-* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
+* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
 * Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 * Merge Request Rate
 

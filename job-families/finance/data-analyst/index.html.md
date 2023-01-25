@@ -5,7 +5,7 @@ title: "Data Analytics"
 
 ##  Data Analyst Roles at GitLab
 
-Read more about this role in the [Data Analytics Handbook Page](/handbook/business-ops/data-team/organization/analytics/).
+Read more about this role in the [Data Analytics Handbook Page](/handbook/business-technology/data-team/organization/analytics/).
 
 ## Responsibilities
 
