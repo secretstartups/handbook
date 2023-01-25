@@ -19,7 +19,7 @@ other directors launch their own.
 ## Survey results
 
 Survey results are presented in a Sisense Dashboard called [Engineering Pulse Survey](https://app.periscopedata.com/app/gitlab/449194/)
-([Resources on Sisense](/handbook/business-ops/data-team/platform/periscope/)).
+([Resources on Sisense](/handbook/business-technology/data-team/platform/periscope/)).
 
 The dashboard includes a number of filters, including the engineering group (e.g. Configure, Monitor, Plan, etc) and the engineering team (backend, frontend, security, etc);
 survey results can also be aggregated to different levels (weekly, monthly, quarterly, or yearly) and the date range can be updated to reflect a specific time period.
@@ -44,7 +44,7 @@ The four columns should then import.
 The columns should be the timestamp then each of the three questions.
 Do not edit any column names or results.
 
-The next step is to be sure [Sheetload](/handbook/business-ops/data-team/platform/#using-sheetload) can read and ingest the new tab.
+The next step is to be sure [Sheetload](/handbook/business-technology/data-team/platform/#using-sheetload) can read and ingest the new tab.
 The [Sheetload readme](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) is the SSOT for the following steps, but an abbreviated version is included for ease of info.
 1. Add the new tab to the [sheets.txt](https://gitlab.com/gitlab-data/analytics/blob/master/extract/sheetload/sheets.txt) file following the `pulse_survey.pulse_survey_group_team` convention (there are examples in the file.)
 2. Add a new dbt model to `analytics/transform/snowflake-dbt/models/sheetload/base` ([location](https://gitlab.com/gitlab-data/analytics/tree/master/transform/snowflake-dbt/models/sheetload/base)) following the naming convention of `sheetload_pulse_survey_group_team.sql`; this is a pretty straightforward SQL file and should follow an [existing example](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/base/sheetload_pulse_survey_configure_be.sql).
