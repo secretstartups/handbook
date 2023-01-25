@@ -50,10 +50,10 @@ The IT Systems Engineer position has all the same requirements as the ones outli
 
 ### Senior IT Systems Engineer
 
-#### Senior Job Grade
-The IT Systems Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### Senior IT Systems Engineer Job Grade
+The Senior IT Systems Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Responsibilities
+#### Senior IT Systems Engineer Responsibilities
 The Senior IT Systems Engineer has all the same responsibilities as the intermediate position plus the following:
 
 * Provide senior level technical guidance and serve as an escalation point for engineering and Security teams
@@ -67,8 +67,8 @@ The Senior IT Systems Engineer has all the same responsibilities as the intermed
 * Build roadmaps for acquiring, integrating, and implementing high-value technology and processes. Oversee efforts (e.g. proof of concepts) to measure and prove new technology value
 * Design and deploy best practices regarding system monitoring, change control, service level agreements, and in the creation of the company’s infrastructure policies and standards
 
-#### Senior Requirements
-The Senior IT Systems Engineer has all the same responsibilities as the ones outlined above plus the following:
+#### Senior IT Systems Engineer Requirements
+The Senior IT Systems Engineer has all the same requirements as the ones outlined above plus the following:
 
 * 7+ years of experience in IT in a high growth SaaS environment
 * 5+ years of experience in user support in a cloud-first modern IT environment
@@ -81,11 +81,11 @@ The Senior IT Systems Engineer has all the same responsibilities as the ones out
 
 A Staff IT Systems Engineer focuses on multiple disciplines and cross-department meta-level challenges related to IT to tactically improve efficiency across the organization. They provide technical and thought leadership, and drive innovation through next-generation architecture and iterating on larger problems while leading efforts to reduce tech debt across the organization. 
 
-#### Staff Job Grade
-The IT Systems Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### Staff IT Systems Engineer Job Grade
+The Staff IT Systems Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Responsibilities
-The Senior IT Systems Engineer has all the same responsibilities as the intermediate position plus the following:
+#### Staff IT Systems Engineer Responsibilities
+The Staff IT Systems Engineer has all the same responsibilities as the senior position plus the following:
 
 * Architecting next-generation automation and integration between IT managed systems that provides data consistency, reliability, strong security, and audibility.
 * Building relationships with cross-department system owners and proposing solutions to ensure our tech stack applications conform to our latest IT and Security best practices in collaboration with the Security Department Staff and Principal engineers.
@@ -102,8 +102,8 @@ The Senior IT Systems Engineer has all the same responsibilities as the intermed
 * Making technical decisions on behalf of the department and organization while providing presentation support to leaders during technical discussions.
 
 
-#### Staff Requirements
-The Senior IT Systems Engineer has all the same responsibilities as the ones outlined above plus the following:
+#### Staff IT Systems Engineer Requirements
+The Staff IT Systems Engineer has all the same responsibilities as the ones outlined above plus the following:
 
 * 10+ years of experience in IT in a high growth SaaS environment
 * 5+ years of experience in user support in a cloud-first modern IT environment
