@@ -81,9 +81,23 @@ The following instructions apply to both customer tickets and Internal Requests.
 
 >**WARNING:** When starring a US Federal case, **do not** fill in the customer's name, instead populate the `Customer` field with a link to the organization in SFDC.
 
+There are two ways of STAR'ing a ticket:
+
+### Manually via the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/STAR/)
+
 1. Go to the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/STAR/).
 1. Fill out each field. **All of them are required**.
 1. Click `Submit Support Ticket Attention Request`.
+
+### Via the Zendesk `STAR` app
+
+This will automatically populate some of the required fields already, which makes it easier to STAR a ticket. Only the following information is required:
+
+- Urgency
+- Plan
+- GitLab.com group URL or name
+- Reason this ticket needs additional attention
+- Desired result
 
 ### Definition of STAR Urgency Levels
 
