@@ -189,10 +189,10 @@ The list may not be up to date.  If something is missing, please add it.
 
 Every SRE should register for a “Light Agent” account in ZenDesk. Often times incidents are generated from customer reports, and it’s useful to see their submission and the back and forth with support. You can also leave internal notes for support engineers so that they can gather more information for troubleshooting purposes. See ['Light Agent' Zendesk accounts available for all GitLab staff](/handbook/support/internal-support/#viewing-support-tickets)
 
-## PTO by Roots
+## PTO by Deel
 
-We use PTO by Roots to notify and delegate for planned timeoff. When setting up your integrations with Slack,
-be sure to run the `/pto-roots help` command then click _Go to Home Tab_ then in the drop-down select _Calendar Sync_ then _Add Calendar_ to add the team's shared Google Calendar
+We use PTO by Deel to notify and delegate for planned timeoff. When setting up your integrations with Slack,
+be sure to run the `/pto-deel help` command then click _Go to Home Tab_ then in the drop-down select _Calendar Sync_ then _Add Calendar_ to add the team's shared Google Calendar
 (ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional calendars to include?".
 
 ## Suggested Software Tools
