@@ -62,7 +62,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | Modern Health                    | Employee Assistance Program                         | Employee                                                                   | Read-Only                        |
 | Navex Global                     | LMS Training tool                                   | Employee                                                                   | Read-Only                        |
 | Okta                             | Identity and Single Sign On                         | User                                                                       | Read-Only                        |
-| PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       | Read+Write                       |
+| PTO by Deel            | PTO tool                                            | User                                                                       | Read+Write                       |
 | TripActions                      | Travel booking                                      | Employee                                                                   | Read+Write                       |
 | Slack                            | GitLab async communications                         | Member                                                                     | Read+Write                       |
 | Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       | Read-Only                        |
