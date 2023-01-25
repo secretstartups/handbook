@@ -28,14 +28,14 @@ words of the snow queen, Elsa, "let it go."**
 team calendar.
    1. You should have been granted access during Support Onboarding. If you don't have it, verify whether you are part of the Support Google Group (supportteam@); if you are not, ask to be added (as per the role based entitlements) via the #support_operations Slack channel (cc @jcolyer).
 
-1. Set up the Google Calendar integration with PTO by Roots, so that you do not need to populate your personal and "Support - Time Off" calendars manually.
+1. Set up the Google Calendar integration with PTO by Deel, so that you do not need to populate your personal and "Support - Time Off" calendars manually.
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
-   1. Search for 'PTO by Roots' and click 'View'
+   1. Search for 'PTO by Deel' and click 'View'
    1. Under 'Home', click on 'Your Events' to show a dropdown
    1. Click on 'Calendar Sync' under the Settings break
-   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO by Roots
+   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO by Deel
       - You will see a 'Success! Your calendar has been connected.' message and
-        your calendar listed under 'Your synced calendar' in PTO by Roots on Slack
+        your calendar listed under 'Your synced calendar' in PTO by Deel on Slack
       - ***NOTE: this also serves to block your availability in Calendly, and ensures your OOO is included in the [regional capacity calendars](https://gitlab.com/gitlab-com/support/toolbox/support-calendar)***
    1. After your personal calendar is linked, click 'Add calendar' under
    'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
@@ -71,9 +71,9 @@ to take reasonable actions to prepare the team and your customers for your
 absence. By making these preparations, you will also be making it easier for
 yourself to disconnect from work and make your time off effective.
 
-If you're taking off **less than half a day,** you do not need to make entries in PTO by Roots or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
+If you're taking off **less than half a day,** you do not need to make entries in PTO by Deel or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
-If you're taking off **a half day or more,** enter the time off in PTO by Roots. 
+If you're taking off **a half day or more,** enter the time off in PTO by Deel. 
 
 At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
@@ -189,7 +189,7 @@ truly make the most of your time off, and make it easier to return to work:
 1. Set up some email filters to move emails into buckets that you can address
    one-at-a-time when you return.
 1. Disconnect yourself from Slack and Gmail in any of these ways:
-   *NOTE: PTO by Roots is supposed to turn off Slack notifications on your phone and
+   *NOTE: PTO by Deel is supposed to turn off Slack notifications on your phone and
    set DND mode. But just in case, you may want to do one of these:*
    1. log out from Slack and Gmail on your phone, or
    1. remove Slack and Gmail from your phone, or

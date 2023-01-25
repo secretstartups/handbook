@@ -43,7 +43,7 @@ included here to get you started.
 - Set up a "time off" pairing session with your buddy 1-2 days prior to going on vacation to discuss tickets and expectations.
 - Set up a "catch-up" pairing session with your buddy 1-2 days after your return to get up-to-speed on the state of your tickets.
 - Inform your buddy of upcoming OOO as soon as it's scheduled
-- Set your buddy as covering for ticket reopens (and other agreed-upon responsibilities) in PTO by Roots
+- Set your buddy as covering for ticket reopens (and other agreed-upon responsibilities) in PTO by Deel
 
 ### Use pairings
 
