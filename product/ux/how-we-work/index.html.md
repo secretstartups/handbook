@@ -127,7 +127,7 @@ When returning to work, you are not responsible for responding to every To Do th
 
 ### Coverage during time off
 
-No matter how much time off you are taking: Always use [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to set a role for your backup person during your PTO, and add the [UX Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_9psh26fha3e4mvhlrefusb619k%40group.calendar.google.com) (_internal only_) to your settings (its calendar ID is in the Google Calendar settings), so your PTO events are visible to everyone in the department.
+No matter how much time off you are taking: Always use [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) to set a role for your backup person during your PTO, and add the [UX Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_9psh26fha3e4mvhlrefusb619k%40group.calendar.google.com) (_internal only_) to your settings (its calendar ID is in the Google Calendar settings), so your PTO events are visible to everyone in the department.
 
 **If you are taking at least 1 week off:** In the GitLab Design project, open a new issue using the [UX Coverage template](https://gitlab.com/gitlab-org/gitlab-design/-/blob/master/.gitlab/issue_templates/UX%20Coverage.md) and list the priorities and issues that the responsible backups need to cover while you are on PTO.
 
