@@ -1173,11 +1173,12 @@ Make sure to add the category `name` exactly as typed on the data file.
 
 #### Related issue, epic, merge request, or webpage
 
-- `issue_url`: link to the issue on GitLab.com where the feature is discussed
+- `issue_url`: link to the issue(s) on GitLab.com where the feature is discussed
 and developed. Using this link the reviewer can check the status of the specific
-feature for consistency and additional references. Try to avoid linking to a confidential issue so the wider community can get context about the change.
+feature for consistency and additional references. Avoid linking to a confidential
+issue so the wider community can get context about the change.
 It is a required field, but can be replaced with `mr_url`, `issueboard_url`, or `epic_url`.
-Always wrap links in single quotes (`'https://example.com'`).
+Always wrap links in single quotes (`'https://example.com'`). Multiple links are allowed.
 - `issueboard_url`: link to the issue board related to the feature. Not required, but available.
 - `mr_url`: link to the MR that introduced the feature. Not required, but available.
 - `epic_url`: link to the epic related to the feature. Not required, but available.
