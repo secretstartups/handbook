@@ -37,7 +37,7 @@ Information about reporting done by the Digital Marketing Programs team and acro
 
 ## Digital Marketing Tools
 
-We use a variety of tools to support other teams within the company. Details about the tech stack, who has access and the system admins are found on the [Tech Stack Applications](/handbook/business-ops/tech-stack-applications/) page of the Business Operations handbook section.
+We use a variety of tools to support other teams within the company. Details about the tech stack, who has access and the system admins are found on the [Tech Stack Applications](/handbook/business-technology/tech-stack-applications/) page of the Business Operations handbook section.
 
 
 
