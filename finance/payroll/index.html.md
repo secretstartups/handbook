@@ -236,7 +236,7 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 1. All new hires will receive an invite from Global Upside to access the Egnyte platform (for uploading new hire documents securely) and all team members should receive access to the Mihi platform (for time & leave tracking) 
 1. Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com       
-1. Team members in France will need to use PTO by Roots in Slack to show that they are out of office, and will also need to enter the same into the Mihi platform.
+1. Team members in France will need to use PTO by Deel in Slack to show that they are out of office, and will also need to enter the same into the Mihi platform.
 1. Expenses are to be submitted on Expensify and should be final approved as per the Payroll calendar, Payroll will forward these to Global Upside for processing.
 
 ### iiPay - Australia
