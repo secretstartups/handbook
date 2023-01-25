@@ -486,6 +486,10 @@ To be sure that the test is quarantined quickly, ask in the `#quality` Slack cha
 
 Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/83575/diffs).
 
+> **Note** Be aware that for blocked release cycle auto deploy with quarantined test will not work. During canary deployment we trigger tests against both staging and canary. Spec is not quarantined on staging yet because quarantined MR didn't reach it. That leads to environment circular dependency problem. 
+>
+> In that case the Release Managers should decide whether it is possible to rollback Staging, or whether to [manually deploy the quarantined MR to Staging](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/deploy-to-a-single-environment.md). Manually deploying the fix to Staging will reduce the amount of mixed-version testing but may be the only option to allow deployment pipelines to continue.  
+
 #### Quarantined Test Types
 
 If a test is placed under quarantine, it is important to specify _why_. By specifying a quarantine type we can see
