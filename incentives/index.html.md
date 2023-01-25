@@ -387,7 +387,7 @@ All events should include at least *4 people.* Please ensure the activity is one
 Please list any events or activities in our [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing), so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
 
 When traveling and attending the event, please:
-- Use "Conference" PTO in PTO by Roots to mark your plan timeframe.
+- Use "Conference" PTO in PTO by Deel to mark your plan timeframe.
 - Change your GitLab status to reflect that you are not available for work. 
 - Make sure your manager and your team are aware of your plans.
 
