@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "PTO by Roots"
+title: "PTO by Deel"
 ---
 
 ## On this page
@@ -11,7 +11,7 @@ title: "PTO by Roots"
 
 ---
 
-## PTO by Roots (Slack)
+## PTO by Deel (Slack)
 
 ### Goal
 

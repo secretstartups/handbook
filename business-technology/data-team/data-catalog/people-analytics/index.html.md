@@ -38,6 +38,6 @@ The study of people at work! Human resource departments are flipping their appro
 HR management system.
 ### Greenhouse
 Recruiting and Applicant Management System
-### PTO By Roots
+### PTO by Deel
 A slack application that captures team member time off
 
