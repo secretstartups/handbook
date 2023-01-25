@@ -175,19 +175,19 @@ The information in this section is specific to GitLab's 16-week paid Parental Le
 
 ### Planning Your Parental Leave Dates
 
-In some cases a team member may choose to begin their leave earlier. While we encourage you to begin your leave when your child arrives (to be able to capture as much time as possible with the newest addition to your family) if you would like to start your leave on a different date please notify leaves@gitlab.com; otherwise your Parental Leave will be administered according to the start date entered in PTO by Roots.
+In some cases a team member may choose to begin their leave earlier. While we encourage you to begin your leave when your child arrives (to be able to capture as much time as possible with the newest addition to your family) if you would like to start your leave on a different date please notify leaves@gitlab.com; otherwise your Parental Leave will be administered according to the start date entered in PTO by Deel.
 
 You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as all time is used prior to the child's first birth or first anniversary of the adoption event. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
 
 **A few things to note:**
 * If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
-* When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your PTO by Roots request.
+* When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your PTO by Deel request.
 
 ### How to Initiate Your Parental Leave
 
 Some team members may feel comfortable sharing their news sooner than other team members. You can share your news with your Manager whenever you feel comfortable, but we recommend communicating your plan to your manager at least 2-3 months before your leave starts for workload planning purposes. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) (if any). 
 
-**To initiate your Parental Leave, submit your time off by selecting `Parental Leave` in PTO by Roots 30 days before your leave starts.** We understand that Parental Leave dates may change, so you can edit your PTO by Roots at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date 30 days in advance, but some countries have their own reporting requirements.  Please review your own [country's] (#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations. 
+**To initiate your Parental Leave, submit your time off by selecting `Parental Leave` in PTO by Deel 30 days before your leave starts.** We understand that Parental Leave dates may change, so you can edit your PTO by Deel at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date 30 days in advance, but some countries have their own reporting requirements.  Please review your own [country's] (#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations. 
 
 We realize that if you are going on adoptive parental leave, a 30 day notice period may not be possible. In these situation, you should notify your manager as soon as possible. 
 
@@ -197,16 +197,16 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 
 **A few things to note:**
 * If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
-*When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your PTO by Roots request.
+*When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your PTO by Deel request.
 * Parental leave includes public holidays and scheduled Family and Friends Days that occur within the start and end date of parental leave, but some countries allow team members to rollover holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
-    * If eligible to roll over these holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in PTO by Roots and add a note indicating "rolling over holidays which occured while on parental leave".
+    * If eligible to roll over these holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in PTO by Deel and add a note indicating "rolling over holidays which occured while on parental leave".
 * Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](#entity-benefits).
 
 ### Taking PTO After Taking Parental Leave
 
 If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). This time should be discussed with your Manager prior to the start of your Parental leave, and you will need to return to work for at least 7 calendar days before PTO can begin.
 
-Please submit the dates of your PTO in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) by selecting `Vacation`.
+Please submit the dates of your PTO in [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) by selecting `Vacation`.
 
 ### Commission Payout and Quota Relief
 
@@ -242,7 +242,7 @@ You are entitled to and need to comply with your local regulations. They overrid
 
 #### Confirming your return
 
-A day before you return from Parental Leave, you'll receive a PTO by Roots [Welcome Back message](/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.
+A day before you return from Parental Leave, you'll receive a PTO by Deel [Welcome Back message](/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.
 * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
     - *Please add the date you are intending to return to this email.*
 * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
@@ -314,16 +314,16 @@ If you're interested in learning about how other GitLab team members approach pa
 
 For the Absence Management team:
 
-  * PTO by Roots will notify the Absence Management Team of any upcoming parental leave.
+  * PTO by Deel will notify the Absence Management Team of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
-  * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
+  * PTO by Deel will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
   * 3 days after the End of Parental Leave date, BambooHR will send a notification to the Absence Management team. Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
   * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
-  * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.
+  * If the dates in PTO by Deel change, update the payroll changes file and the BambooHR status accordingly.
 
 ## Team Member Relief Program
 

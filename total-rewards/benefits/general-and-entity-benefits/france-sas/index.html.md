@@ -60,6 +60,6 @@ Please see the Scheme Conditions in the [Unilateral Employer Decision Life & Dis
 * Team members are entitled to be paid by their employer for the first 3 days of paternity leave. [Eligible](https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-paternite-accueil-enfant) team members may apply for paternity benefits through social security. Statutory paternity leave runs concurrently with GitLab Parental Leave. If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for GitLab Parental Leave and you receive a paternity leave allowance, GitLab will supplement your pay so that you receive 100% of yor salary for the first 16 weeks of leave.
 
 #### Applying for Parental Leave in France
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 

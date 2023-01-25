@@ -105,10 +105,10 @@ If a team member would want to purchase a bike more expensive than the 1200 EUR 
 * Statutory Sick Leave
   - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. This leave runs concurrently with GitLab's [Sick Time Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting). Team members will receive 100% of their salary for the first 25 days of illness. 
   - GitLab complies with [Dutch local Laws](https://business.gov.nl/regulation/reporting-employee-illness-recovery/) regarding sick leave. Local laws override any leave policy we have in the benefit of the team members.
-  - Team members must select `Out Sick` in PTO by Roots to ensure that all sick time is properly tracked. For complete reporting procedures, please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
+  - Team members must select `Out Sick` in PTO by Deel to ensure that all sick time is properly tracked. For complete reporting procedures, please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
 
 * Statutory Vacation Leave
-  - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+  - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Deel to ensure that vacation entitlement is properly tracked.
 
 People Ops will consult with HRSavvy to ensure that the statute is met.
 
@@ -131,7 +131,7 @@ Team members are eligible for leaves as included in the Work and Care Act. Pleas
 ### Adoption and Foster Leave
 Team members who have adopted or taken in a foster child are entitled to 6 weeks of leave and [adoption or foster care allowance](https://www.uwv.nl/particulieren/zwanger-adoptie-pleegzorg/adoptie-pleegzorg/ik-word-adoptie-of-pleegouder/detail/krijg-ik-een-adoptie-of-pleegzorguitkering#hoe-hoog-is-mijn-adoptie-of-pleegzorguitkering).
   - This leave runs concurrently with GitLab Parental Leave. GitLab will supplement adoption or foster care allowance for [eligible team members](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) so that they receive 100% of their pay for the first 16 weeks of leave.
-  - Team members must notify the Absence Management team at `leaves@gitlab.com` of their intent to take adoption or foster leave at least three weeks in advance, and must designate this time off as `Parental Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+  - Team members must notify the Absence Management team at `leaves@gitlab.com` of their intent to take adoption or foster leave at least three weeks in advance, and must designate this time off as `Parental Leave` in PTO by Deel to ensure that statutory entitlements are properly tracked.
 
 #### Effective 2022-08-02 
 Adoptive and foster parents of children under 8 years old will be eligible for up to [9 weeks of partial payment through the UWV](https://www.rijksoverheid.nl/onderwerpen/ouderschapsverlof/invoering-van-2-maanden-betaald-ouderschapsverlof).  Parents are eligible for paid leave within the child's first year after the date of adoption or placement.  

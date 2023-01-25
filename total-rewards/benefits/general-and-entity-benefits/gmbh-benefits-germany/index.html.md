@@ -40,7 +40,7 @@ GitLab does not plan to offer different Life Insurance Benefits because team mem
 
 ### GitLab GmbH Germany Parental Leave
 
-To initiate your Parental Leave, submit the dates in PTO by Roots under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy [here](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your Parental Leave, submit the dates in PTO by Deel under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy [here](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Statutory Leave Entitlement
 
@@ -83,7 +83,7 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 - Team members must register their parental leave, in writing (wet signature), 7 weeks before the desired start date if your child is under 3 years old, and 13 weeks prior to the desired start date if your child is between 3 and 8 years old. At the same time it must be declared for which periods within two years parental leave is to be taken.
 - A request for parental leave by facsimile or email does not comply with the written form requirement and is therefore void.
 - Please register your leave, in addition to the written application, by emailing leaves@gitlab.com.
-- Submit your Parental Leave in PTO by Roots by selecting the `Parental Leave` option.
+- Submit your Parental Leave in PTO by Deel by selecting the `Parental Leave` option.
 
 - Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
@@ -103,7 +103,7 @@ https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-bene
 
 **Vacation Leave**
 
-Team members are entitled to at least 20 vacation days which run concurrently with GitLab's PTO policy. The days will accrue from the team member's start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+Team members are entitled to at least 20 vacation days which run concurrently with GitLab's PTO policy. The days will accrue from the team member's start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Deel to ensure that vacation entitlement is properly tracked.
 
 ## Long-term Care Insurance (Pflegeversicherung)
 
@@ -136,7 +136,7 @@ How to Apply:
 Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's [Sick Time](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) policy. 
 * If a team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
-Beginning January 1, 2023 team members with statutory health insurance are not required to provide GitLab with a hard copy of their certificate of incapacity to work (AU certificate). Instead, the health insurance company will provide corresponding incapacity data electronically and GitLab will then "call up" this data.  Team members are still required to report their absence to GitLab by selecting the `Out Sick` label in PTO by Roots.  
+Beginning January 1, 2023 team members with statutory health insurance are not required to provide GitLab with a hard copy of their certificate of incapacity to work (AU certificate). Instead, the health insurance company will provide corresponding incapacity data electronically and GitLab will then "call up" this data.  Team members are still required to report their absence to GitLab by selecting the `Out Sick` label in PTO by Deel.  
 * Team Members with private health insurance will still be required to email leaves@gitlab.com a hard copy of their certificate no later than the 4th day of illness.
 
 #### During COVID-19

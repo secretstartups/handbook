@@ -135,13 +135,13 @@ GitLab will be required to pay a minimum of 70% of an team member’s gross wage
 
 #### Applying for Statutory Sick Leave
 * If your absences exceed 2 consecutive days, please contact the Absence Management Team `leaves@gitlab.com` and include your medical certificate in the email.  
-* Team members must designate all time off for illness as `Out Sick` in PTO by Roots to ensure the Sick Leave is properly tracked. 
+* Team members must designate all time off for illness as `Out Sick` in PTO by Deel to ensure the Sick Leave is properly tracked. 
 
 #### Illness Benefit
 Team Members may also be eligible for Ireland's [Illness Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/disability_and_illness/disability_benefit.html). Please contact `leaves@gitlab.com` for more information.
 
 ### Vacation Leave
-* Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess may be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+* Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess may be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Deel to ensure that vacation entitlement is properly tracked.
  
 ### GitLab Ireland LTD Maternity, Adoptive, Paternity, Parent’s and Parental Leave
  
@@ -200,7 +200,7 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
 The Vhi Midwife Support Service is a new and improved benefit that’s available to team members. The midwife service gives expectant parents the opportunity to have three antenatal consultations staged throughout each trimester of their pregnancy. Once the team members new baby arrives, you can avail of four postnatal consultations over the following six weeks. The team member's dedicated midwife will guide them through the pregnancy journey offering education and support for each stage along the way. Expectant parents can register via the Vhi App or by emailing midwife@vhi.ie. Once registered, you will receive an email confirmation followed by a call from the Vhi midwife team within 2 working days. For more information please see the [Midwife Support Service flyer](https://drive.google.com/file/d/1NpfuZN0GUbenPVH3hsVuTSwu4NhmgPWk/view?usp=sharing) 
  
 #### Applying for Maternity, Adoptive, Paternity, Parent’s or Parental Leave in Ireland
-To initiate your leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts and contact total-rewards@gitlab.com. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts and contact total-rewards@gitlab.com. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
  
 <details>
 <summary markdown="span">Other Types of Statutory Leave</summary>
@@ -230,7 +230,7 @@ To initiate your leave, submit your time off by selecting the `Parental Leave` c
  
 **Jury Service**
  
-* Team members are entitled to paid time off to attend jury selection/jury duty. This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+* Team members are entitled to paid time off to attend jury selection/jury duty. This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Deel to ensure that statutory entitlements are properly tracked.
 
 ## Company stamp
 

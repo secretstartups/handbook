@@ -101,12 +101,12 @@ If the baby is sick or suffers from a disability, the female worker may take add
 
 After the female worker resumes work, she is entitled to one or two additional breaks each day for nursing her child. The duration of the two breaks must not exceed one hour. The woman is entitled to such breaks for 6 months following the date of delivery. Such breaks are fully paid for.
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` label. The Absence Management team will reach out to you with more information.
+To apply for leave, please enter the dates into PTO by Deel and select the `Parental Leave` label. The Absence Management team will reach out to you with more information.
 
 ### Parental Leave
 Team members of the private sector are entitled to a parental leave of 5 working days from the day of the birth of their child to six months. The parental leave is a paid leave that can be applied for by both mother and father of the baby.
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` label. The Absence Management team will reach out to you with more information.
+To apply for leave, please enter the dates into PTO by Deel and select the `Parental Leave` label. The Absence Management team will reach out to you with more information.
 
 ### Sabatical Leave (National Service)
 As per 'UAE Labour Law', Emiratis working in the private sector are entitled to a paid sabbatical leave (extended break from work) to perform [national service](https://u.ae/en/information-and-services/social-affairs/preserving-the-emirati-national-identity#the-uae-national-service-law).

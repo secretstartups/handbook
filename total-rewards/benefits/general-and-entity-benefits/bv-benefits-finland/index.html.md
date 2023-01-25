@@ -60,7 +60,7 @@ Annual holiday entitlement is based on the number of holiday credit months earne
 ### Family Leave 
 Recent reforms of family leave types in Finland will apply to parents expecting a baby with a due date of 4 September 2022 or later and to parents adopting a child if the child is placed in the parents’ care on or after 31 July 2022. The types of leave are pregnancy leave and parental leave and in order to be eligible to receive the benefits, you must live in Finland or be covered by the Finnish social security system.
 
-Whenever allowed by law GitLab's 16 weeks [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) will run concurrently with these benefits. Team members can request pregnancy or parental leave by selecting the Parental Leave option in PTO by Roots. The Absence Management team will contact you with more details after your request is received.
+Whenever allowed by law GitLab's 16 weeks [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) will run concurrently with these benefits. Team members can request pregnancy or parental leave by selecting the Parental Leave option in PTO by Deel. The Absence Management team will contact you with more details after your request is received.
 
 #### Pregnancy Leave
 
@@ -119,7 +119,7 @@ If you can work part time during the illness, without compromising your health o
 #### Eligibility
 Sickness allowance is paid to those between the ages of 16 and 67. The entitlement to sickness allowance commences nine working days after the illness begins (not counting the day of onset). A doctor's certificate is required for the period during which you are unable to work.
 
-Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.  If the time away extends beyond 9 days, team members should contact the Absence Management team (leaves@gitlab.com).
+Team members must designate any time off for illness as `Out Sick` in PTO by Deel to ensure that sick leave entitlement is properly tracked.  If the time away extends beyond 9 days, team members should contact the Absence Management team (leaves@gitlab.com).
 
 #### Sickness Allowance
 If you become ill, you can [claim](https://www.kela.fi/web/en) sickness allowance (sairauspäiväraha) as compensation for loss of earnings.

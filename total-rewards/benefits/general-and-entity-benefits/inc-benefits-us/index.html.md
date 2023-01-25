@@ -685,7 +685,7 @@ Team members must have 12 months of continuous service and 1250 hours worked in 
 All FMLA entitled leave will run concurrently with any State specific leave or pay program (if applicable), GitLab's PTO and sick leave policies (including COVID leave), and/or Short-Term disability benefits.  GitLab’s extended 25-day “don’t ask, must tell” PTO policy can not be used to delay, extend, or in lieu of FMLA.
 
 ### How to Apply:
-Any medical related absence (for yourself or a family member) requiring you to be away from work for 5 or more calendar days (either continuously or non-continuous but related to the same condition) must be reported to leaves@gitlab.com. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via PTO by Roots request utilizing the `Out Sick` option.
+Any medical related absence (for yourself or a family member) requiring you to be away from work for 5 or more calendar days (either continuously or non-continuous but related to the same condition) must be reported to leaves@gitlab.com. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via PTO by Deel request utilizing the `Out Sick` option.
 
 ### Payroll Processing During FMLA
 The Absence Management team will review the team members eligibility for Short-Term Disability benefits, State pay benefits, and/or GitLab's Sick Time policy, and will communicate how the team member can expect to receive their pay while on leave.
@@ -724,7 +724,7 @@ The Absence Management team will review the team members eligibility for Short-T
       - Next steps for STD benefits and/or State paid benefits (if applicable)
       - Company Sponsored Benefit information
       - TM will remain on company sponsored benefits (medical, dental, etc) until they have exhausted all eligible job-protected leave and then will be made COBRA eligible 
-3.  TM: tracks time away as `Out Sick` in PTO by Roots.
+3.  TM: tracks time away as `Out Sick` in PTO by Deel.
 
 **If Denied:**  
 1. AP: Adjust “status” column to denied in the Leave tracker 
@@ -742,7 +742,7 @@ The Absence Management team will review the team members eligibility for Short-T
 ## Parental Leave
 ### Apply For Parental Leave in the US
  
-1. Submit your Parental Leave request in PTO by Roots by selecting the `Parental Leave` option at least 30 days in advance.
+1. Submit your Parental Leave request in PTO by Deel by selecting the `Parental Leave` option at least 30 days in advance.
 2. The Absence Management team will contact you within 48hrs of receiving your initial request for Parental Leave and provide you with information related to GitLab's Parental Leave policy, the Family Medical Leave Act (FMLA), and other [State leave](/handbook/people-policies/leave-of-absence/us/#state-specific-leaves) and/or pay programs (if eligible).
 3. Birthing parents will also receive an application for [Short Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) benefits and an [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form.  
      - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this is to keep payroll consistent for the team member and reducing the number of sources for pay while on leave. GitLab will continue to offset any state related payments if applicable.
@@ -753,7 +753,7 @@ The Absence Management team will review the team members eligibility for Short-T
 1. Enter details of the team member and the dates of their Parental Leave request in the current year tab on the "Parental Leave Log" Google sheet on the drive.
 2. Review the team members eligibility for FMLA and other State Leave/Pay programs.
 3. US Non-Birthing Team Members:  Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, and other required State Leave and Pay notices as attachments. 
-    - PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually.
+    - PTO by Deel will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually.
 4. US Birthing Parents Only: Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, medical certificate, Short-Term Disability application, Assignment of Benefits forms, and other required State Leave and Pay program notices.
 5. Add a note to Column L stating the due dates for these forms to be returned to the Absence Management Team.
 6. Confirm via email how the team members payments will be processed and complete a Parental Leave Pay Schedule report if the team member is eligible for State pay benefits.
@@ -762,7 +762,7 @@ The Absence Management team will review the team members eligibility for Short-T
 9. Add the team member's leave information on the "Top Up Pay" tab in the Parental Leave Log google sheet.
 10. Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
 11. If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
-12. If the dates in PTO by Roots change, update the BambooHR status accordingly, and begin again at Step 8.
+12. If the dates in PTO by Deel change, update the BambooHR status accordingly, and begin again at Step 8.
  
 ### Payroll Processing During Parental Leave
 **Non-Birthing Parent Pay**

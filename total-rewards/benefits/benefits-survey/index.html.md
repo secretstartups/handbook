@@ -583,7 +583,7 @@ By demographic:
       * Family first/family time.
       * Addressing burn out/taking time to rest.
       * Example from peers.
-      * PTO by Roots reminders.
+      * PTO by Deel reminders.
       * Family and Friends Day specifically.
 
 1. I participated in the Simple Habit free trial and would like to see this benefit offered permanently (survey respondents were instructed to select one).

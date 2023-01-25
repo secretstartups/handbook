@@ -107,7 +107,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 **Government-paid maternity leave entitlement**
 - For 1st and 2nd births, team members are entitled to 8 weeks paid by their employer and 8 weeks paid by the government.
 - The first 8 weeks of leave must be taken in one continuous block. The following 8 weeks may be broken up into different periods; however, it must end no later than 12 months from the child's date of birth.
-- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in PTO by Roots at least 30 days before leave starts.
+- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in PTO by Deel at least 30 days before leave starts.
 
 **Applying for government paid maternity leave**
 - Team members must submit a [GPML Declaration](https://file.go.gov.sg/gpml1form.pdf) to [the Absence Management team](mailto:leaves@gitlab.com) as soon as possible. 
@@ -118,7 +118,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 - Eligible team members may be entitled to 12 weeks of maternity leave. This entitlement includes 8 weeks of leave paid by their employer and 4 weeks of unpaid leave.
 
 **To initiate leave:**
-- Team members must submit their leave request through PTO by Roots by choosing the `Parental Leave` option. 
+- Team members must submit their leave request through PTO by Deel by choosing the `Parental Leave` option. 
 - For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid maternity leave. 
 
 #### Paternity Leave
@@ -127,12 +127,12 @@ Team members who have been continuously employed by GitLab for at least 3 months
 - For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid paternity leave. 
 
 **Applying for Government-Paid Paternity Leave**
-- Team members must submit their leave request through PTO by Roots by choosing the `Parental Leave` option.
+- Team members must submit their leave request through PTO by Deel by choosing the `Parental Leave` option.
 - Team members must submit a [GPPL Declaration](https://file.go.gov.sg/gppl1form.pdf) to the Absence Management team at `leaves@gitlab.com` as soon as possible. 
 - GitLab will continue to pay the team member's salary during their leave and [submit a claim for reimbursement](https://www.profamilyleave.msf.gov.sg/).
 
 #### **Annual Leave** 
-- Team members in Singapore are entitled to Fourteen (14) days of annual leave per year which accrues on a pro rata basis throughout the year. This leave runs concurrently with GitLab PTO. Team members should initiate leave by entering their time off into PTO by Roots and selecting the `Vacation` option.
+- Team members in Singapore are entitled to Fourteen (14) days of annual leave per year which accrues on a pro rata basis throughout the year. This leave runs concurrently with GitLab PTO. Team members should initiate leave by entering their time off into PTO by Deel and selecting the `Vacation` option.
 - Team members must coordinate with their team prior to taking time off to ensure business continuity. The Company may in its absolute discretion rescind its approval for any leave applied for where the exigencies of work so require.
 - Unused annual leave may not be carried forward from any year to a succeeding year except with the prior approval of the Company.
 - Unless the Company approves or requires otherwise, annual leave may not be used to offset any notice periods related to a team member's resignation or termination.

@@ -32,13 +32,13 @@ Below is the information related to Brazil's statutory leave policies.  Please n
 
 Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy. In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
 
-To ensure all statutory annual leave is tracked appropriately, please enter all requested into PTO by Roots by selecting the `Vacation` option.
+To ensure all statutory annual leave is tracked appropriately, please enter all requested into PTO by Deel by selecting the `Vacation` option.
 
 ### Statutory Pregnancy & Maternity leave: 
 
 Team members in Brazil, including contractors, are entitled to 120 days of statutory maternity leave.  This leave will run concurrently with GitLab's 16-week [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Team members are eligible to receive up to 100% of their regular salary, paid by the employer who is later refunded by the government. This leave applies to adoption as well. 
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
+To apply for leave, please enter the dates into PTO by Deel and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
 
 ### Statutory Partner/Paternity leave:
 
@@ -48,24 +48,24 @@ Team members will receive up to 100% of their regular salary during their statut
 
 Same-sex couples in Brazil may apply to receive full maternity leave benefits beginning on the day the caregiver takes leave from work.
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
+To apply for leave, please enter the dates into PTO by Deel and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
 
 ### Bereavement leave: 
 
 Team members are entitled to two consecutive days of paid leave following the death of an immediate family member such as a spouse, parent, or child.
 
-Please enter the dates in PTO by Roots and select the `Bereavement` option.
+Please enter the dates in PTO by Deel and select the `Bereavement` option.
 
 ### Marriage Leave: 
 
 Team Members in Brazil are entitled to three consecutive days of paid leave when they get married.  Team members needing more time away should refer to our [PTO policy](/handbook/paid-time-off/).
 
-Please enter the time away in PTO by Roots and select the `Vacation` option.
+Please enter the time away in PTO by Deel and select the `Vacation` option.
 
 ### Statutory Sick Leave:
 In the event a team member in Brazil is unable to work due to illness, their pay will be supplemented up to 100% of their base salary until the 15th day of absence. After the 16th day of absence, team members are eligible to receive compensation paid by the Social Security Authorities.  
 
-To ensure all statutory sick leave is tracked appropriately, please email the Absence Management Team (leaves@gitlab.com) to report your leave.  Then enter the dates into PTO by Roots by selecting the `Out Sick` option.
+To ensure all statutory sick leave is tracked appropriately, please email the Absence Management Team (leaves@gitlab.com) to report your leave.  Then enter the dates into PTO by Deel by selecting the `Out Sick` option.
 
 ## Denmark
 
@@ -144,7 +144,7 @@ If you have not received the letter shortly after you have gone on leave, you mu
 
 To help you plan for your leave, click on [Calculating your Maternity Leave](https://www.borger.dk/Handlingsside?selfserviceId=9afd00f4-efd1-448f-94b9-6d66fd95d505&referringPageId=a2a65391-2201-4d47-ad25-2b0e0a343fad&type=DK).
 
-Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
+Please submit the dates of your leave in PTO by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
 
 #### Paternity Leave 
 Fathers are entitled to 2 weeks of paternity leave before the birth and 14 weeks after. There is no statutory right to salary, but the father may receive leave benefits from Danish authorities.
@@ -152,13 +152,13 @@ Fathers are entitled to 2 weeks of paternity leave before the birth and 14 weeks
 #### Paternity Leave Payment
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave for up to 16 weeks. GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
-Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
+Please submit the dates of your leave in PTO by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
 
 #### Parental leave
 Parents are entitled to 32 weeks leave with a possibility to extend to a maximum of 46 weeks. Leave pay is due for 32 weeks given relevant conditions are met.
 
 #### Applying for Parental Leave in Denmark
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
 
 #### Other Leave Policies
 * **Adoption Leave:** Adoptive parents are entitled to 4 weeks of leave prior to receiving the child, if the adoptive parents have to reside outside of Denmark to adopt. If the child is adopted in Denmark, and it is necessary to reside where the place child is situation, parents are eligible for one week of leave before the adoption. **In all cases of adoption, one of the adoptive parents is entitled to adoption leave of 14 weeks and the other with to leave with statutory benefits for 2 weeks. The remaining 12 weeks can be split between the adoptive parents.**
@@ -256,11 +256,11 @@ For more details on benefits managed by Discovery: [Remote Technology Employee B
 ### Parental Leave
 Below is the information related to South Africa's statutory leave policies.  Please note that team members hired in South Africa are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
-To initiate your parental leave, submit the dates via PTO by Roots under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy on the [general benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit the dates via PTO by Deel under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy on the [general benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 If you are eligible to for GitLab's parental leave, your payments will be made up of payments from UIF and then supplemented up to 100%. 
 
-Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in PTO by Roots, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process. 
+Please submit the dates of your leave in PTO by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in PTO by Deel, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process. 
 
 
 ## Spain
@@ -317,7 +317,7 @@ If you don’t meet this requirement, you can still get your maternity leave and
 
 To help plan your leave click: [How Much Exactly Will You Get Paid On Leave](https://balcellsgroup.com/maternity-leave-spain/#How_much_exactly_will_you_get_paid_during_maternity_leave).
 
-Please enter the dates of your leave in PTO by Roots by selecting the `Parental leave` option.  The Absence Management team will contact you with more information.
+Please enter the dates of your leave in PTO by Deel by selecting the `Parental leave` option.  The Absence Management team will contact you with more information.
 
 #### Unpaid Maternity Leave
 Excedencia sin sueldo offers the right to take extended leave from work for up to a maximum of three years in total for a mother to care for her children and still return to the same employer. You can request that your exact post be held for a maximum of one year, after which you may be offered a similar post for up to 2 years.
@@ -329,7 +329,7 @@ Team Members in Spain are eligible for 16 weeks of Paternity leave.  The first s
 
 This leave must be taken in batches of one week as a minimum, but the weeks can be split over time if desired. The father is also entitled to take unpaid childcare leave until the child is three years old.
 
-Please enter the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
+Please enter the dates of your leave in PTO by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
 
 #### Paternity Leave Payments
 As long as the father has correctly paid his social security contributions—for a minimum of 180 working days within the past seven years or 360 total days in his entire professional life — 100% of his salary will be covered (as long as payment does not exceed 4070.10 EUR). 
@@ -337,7 +337,7 @@ As long as the father has correctly paid his social security contributions—for
 This money comes from the Spanish government, not his employer, though employers are liable for certain taxes that pertain to the salary, such as withholding.
 
 #### Applying for Parental Leave in Spain
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Breastfeeding leave
 Parents can take an additional breastfeeding leave after parental leave. This breastfeeding leave can be enjoyed in two ways:
@@ -382,9 +382,9 @@ Based on the NCLA applied by Remote ROL every employee has right to:
 36 hours per year of ROL, with seniority > 2 years, but < 4 years
 72 hours per year of ROL, with seniority > 4 years
 
-When submitting holiday leave via PTO roots team members must add a comment on which type of leave they are taking, EG: "Ex Festiva" this will then be submitted to & processed by Remote accordingly. 
+When submitting holiday leave via PTO by Deel team members must add a comment on which type of leave they are taking, EG: "Ex Festiva" this will then be submitted to & processed by Remote accordingly. 
 
-To ensure all holiday leave is tracked accurately, please enter all holiday leave requests in PTO by Roots by selecting the `Vacation` option.
+To ensure all holiday leave is tracked accurately, please enter all holiday leave requests in PTO by Deel by selecting the `Vacation` option.
 
 #### Pregnancy & Maternity leave
 Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
@@ -397,7 +397,7 @@ These pensions are funded by the INPS (National Institute for Social Security) w
 If eligible, a team member's first 16 weeks of leave will be supplemented the remaining 20% per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
 #### Applying for Maternity Leave in Italy
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Paternity Leave
 Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
@@ -407,7 +407,7 @@ Fathers are also obligated to take a seven-day paid leave of absence from work d
 If eligible, team members can take up to 16 weeks of time away (in total) per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
 #### Applying for Paternity Leave in Italy
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Parental Leave
 In addition to maternity and paternity leave, parents can take extended unpaid parental leave for up to 10 months. For a mother this can be up to 6 months in addition to the maternity leave.  Parental leave allowance is significantly less than maternity leave allowance; only 30% of one's wages, and is paid through the INPS.
@@ -453,7 +453,7 @@ If eligible, a team member's leave pay will be supplemented the remaining 20% pe
 
 #### Applying for Maternity Leave in Switzerland
 
-To initiate your maternity leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your maternity leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Partner/Paternity leave
 Since 1 January 2021, new fathers can take two weeks of paid paternity leave (14 days’ daily allowance). 
@@ -465,7 +465,7 @@ Paternity allowance amounts to 80% of earnings up to a maximum of CHF 196 per da
 
 If eligible, a team member's leave pay will be supplemented the remaining 20% per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
-To initiate your paternity leave, please enter the dates of your leave into PTO by Roots by selecting the `Parental Leave` option at least 30 days prior to the start of your leave.
+To initiate your paternity leave, please enter the dates of your leave into PTO by Deel by selecting the `Parental Leave` option at least 30 days prior to the start of your leave.
 
 #### Sick leave
 
@@ -544,7 +544,7 @@ Below is the information related to Mexico's statutory leave policies.  Please n
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from Remote for up to 16 weeks.
 
 #### Applying for Parental Leave in Mexico
-To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Mexico Sick Leave
 
@@ -605,7 +605,7 @@ Team members can take unpaid leave to care for their child until the child reach
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus State Treasury benefits) for up to 16 weeks. 
 
 #### Applying for Parental Leave in Hungary
-To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Deel at least 30 days before your leave starts. 
 
 ## Luxembourg
 
@@ -653,13 +653,13 @@ Instead of wages, an allowance is given by the Children’s Future Fund.
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus any statutory benefits received) for up to 16 weeks.
 
 #### Applying for Maternity, Paternity, and/or Parental Leave in Luxembourg
-To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots. 
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Deel. 
 
 #### Sick leave
 
 Sick employees are entitled to their full wages paid by the employer for the 77 days (or the end of the month after the 77th day of illness elapses) after which an employee will draw sickness benefits from the Caisse Nationale de Santé equivalent to 100% of the normal wages, without exceeding 500% of the minimum wage, i.e. roughly capped at ~€12,000 per month.
 
-Employees should enter their Sick Time into PTO by Roots by selecting `Out Sick`.  After the 5th consecutive workshift missed due to illness, employees should contact leaves@gitlab.com.
+Employees should enter their Sick Time into PTO by Deel by selecting `Out Sick`.  After the 5th consecutive workshift missed due to illness, employees should contact leaves@gitlab.com.
 
 ## Austria
 
@@ -692,7 +692,7 @@ The statutory entitlement for maternity leave (Mutterschaftsurlaub) is 16 weeks.
 * For high-risk births, leave after the birth can be extended to 12 weeks. 
 
 #### Applying for Maternity Leave in Austria
-To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Deel at least 30 days before your leave starts. 
 
 ##### Statutory Parental Leave
 
@@ -702,4 +702,4 @@ During the time of parental leave, and provided the conditions are satisfied, pa
 
 #### Applying for Parental Leave in Austria
 
-To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Deel at least 30 days before your leave starts. 
