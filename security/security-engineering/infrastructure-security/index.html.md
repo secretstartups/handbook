@@ -67,6 +67,14 @@ SIRT's goal is detection and response of anomalies and security events - on the 
 <td>Dhruv Jain</td>
 <td><a href="/job-families/security/infrastructure-security/#senior-infrastructure-security-engineer">Senior Security Engineer, Infrastructure Security</a></td>
 </tr>
+<tr>
+<td>Matt Morrison</td>
+<td><a href="/job-families/security/infrastructure-security/#senior-infrastructure-security-engineer">Senior Security Engineer, Infrastructure Security</a></td>
+</tr>
+<tr>
+<td>Uday Govindia</td>
+<td><a href="/job-families/security/infrastructure-security/#senior-infrastructure-security-engineer">Senior Security Engineer, Infrastructure Security</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -90,7 +98,7 @@ The team does have set of regular synchronous calls:
 
 * A weekly team sync to discuss progress, blockers, and anything related to the InfraSec team.
     * Everyone in the company is welcome to join.
-    * The [agenda is public within GitLab](https://docs.google.com/document/d/1s_8N1W9TuBe46C2Z3okzgrSSHpE0yjJ3f7N69NLIxH4/edit#heading=h.mj69479zc34c) as well.
+    * The [agenda is public within GitLab](https://docs.google.com/document/d/1mvmPrG66JpTkj3dbDpnhNybADrUVQwP96DM1trQT89Y) as well.
 * A quarterly team retrospective to reflect on what went well in the previous quarter, and discuss what can be improved going forward.
 * 1-1s between Individual Contributors and the Engineering Manager.
 
