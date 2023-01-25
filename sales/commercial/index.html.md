@@ -140,7 +140,7 @@ We have found following steps beneficial to make the process of time off easy fo
   - It may be helpful to create a shared doc of action items, and follow reference from the handbook
   - There may be cases where double coverage or support from your manager is needed if no one else is available
   - Note: For [Family & Friends Day](https://about.gitlab.com/company/family-and-friends-day/), there is no need for backup coverage as it is a publicly visible shutdown for GitLab. Please message in your below OOO auto-reply as such including the handbook page, and contact details for technical support 
-- [ ] Submit time-off in PTO Roots in Slack, and add your chosen team member who is covering for you as the assignee role for all tasks, you can label it something like “immediate and general”
+- [ ] Submit time-off in PTO by Deel in Slack, and add your chosen team member who is covering for you as the assignee role for all tasks, you can label it something like “immediate and general”
 - [ ] Create calendar invite with title:
   - Ex: “First and Last Name OOO - (First and Last Name) is Covering”. Optional invite to your manager and person covering. 
 - [ ] Block the morning of your return date on your calendar so you can return to work with catch-up time for things like:
