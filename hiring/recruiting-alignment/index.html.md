@@ -8,9 +8,11 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter   | Candidate Experience Specialist    |
 |--------------------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn & Zach Choquette   | Davie Soomalelagi  |
-| Enterprise Sales, NA | Kevin Rodrigues |Sruthy Menon |
-| Enterprise Sales, NA | Jill Hind |Sruthy Menon |
+| Executive          | Rich Kahn    | Michelle Jubrey  |
+| Executive          | Zach Choquette   | Sruthy Menon  |
+| Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
+| Enterprise Sales, NA | Jill Hind |Mathea Gervolino |
+| Enterprise Sales, NA | Harinder May | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter | Fernando Khubeir |
 | Commercial Sales,	AMER | Hannah Stewart  | Sruthy Menon |
 | Commercial Sales,	EMEA | Ben Cowdry | Lerato Thipe |
@@ -19,21 +21,23 @@ description: "This page is an overview of the search team alignment and the tale
 | Customer Success, EMEA | Joanna Muttiah & Ornella Gerca | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
-| Marketing, Global | Sarah Sherwood | Davie Soomalelagi |
-| Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
+| Marketing, Global | Sarah Sherwood | Sruthy Menon |
+| Marketing, BDR/SDR (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A, Legal | Elizabeth Owen | Fernando Khubeir  |
 | G&A, Accounting, People | Rachelle Druffel | Fernando Khubeir |
 | G&A, IT | Kelsey Hart | Fernando Khubeir |
+| Internal | Jenna VanZutphen | Sruthy Menon |
 | Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Guido Rolli |
 | Development: Ops | Riley Smith |  Guido Rolli |
-| Development: Dev | Sara Currie |  Teranay Dixon |
+| Development: Dev | Sara Currie |  Mathea Gervolino |
 | Development: Analytics, Growth, Secure | Dielle Kuffel |  Mathea Gervolino |
 | Quality: Quality Engineering | Sumi Anand & Cameron Wallen-Halliwell|  Guido Rolli |
-| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell  | Alice Crosbie |
+| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell  | Guido Rolli |
 | UX  | Rupert Douglas  | Guido Rolli |
-| Support | Joanna Michniewicz  |  Alice Crosbie |
-| Security | Nicky Kunstman & Sumi Anand | Teranay Dixon |
-| Incubation | Matt Angell  | Alice Crosbie |
+| Support | Joanna Michniewicz  |  Mathea Gervolino |
+| Security | Nicky Kunstman | Michelle Jubrey|
+| Security | Sumi Anand | Guido Rolli|
+| Incubation | Matt Angell  | Mathea Gervolino |
 | Infrastructure   | Josh Barker  | Michelle Jubrey |
 | Product Management  | Matt Allen | Mathea Gervolino |
 
