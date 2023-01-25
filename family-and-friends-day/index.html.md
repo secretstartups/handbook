@@ -104,6 +104,6 @@ If you'd like to take a different day off for personal reasons, refer to the [Pa
 ### How do I communicate that I'm off that day?
 We'll assume that most people are off on Family and Friends Day, but we know that some people will take other days.
 
-Please update [PTO by Roots](/handbook/paid-time-off/#pto-by-roots){:data-ga-name="PTO by roots"}{:data-ga-location="body"} in Slack. You can select `Create an OOO Event` and find `Family and Friends Day` in the drop-down menu of `What type of OOO is this?`.
+Please update [PTO by Deel](/handbook/paid-time-off/#pto-by-deel){:data-ga-name="PTO by Deel"}{:data-ga-location="body"} in Slack. You can select `Create an OOO Event` and find `Family and Friends Day` in the drop-down menu of `What type of OOO is this?`.
 
 Feel free to block your calendar with "Family and Friends Day" to share whatever day you take.
