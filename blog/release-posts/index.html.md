@@ -1499,36 +1499,43 @@ For entries that support Markdown, use regular [Markdown Kramdown](/handbook/mar
 
 #### Videos
 
-You can add YouTube videos to content blocks that can either override the image or add it within the Markdown description as described below.
+You can add videos to release post content blocks in two ways:
 
-##### Videos in content blocks
+1. By using the `video:` entry in the content block
+1. By including the video in the `description:` of the content block
 
-For content blocks, you can add a video instead of an image by using the entry `video:`.
-If both are present, the video will override the image (it won't display the image, only the video). Example:
+In either case, the video must first be uploaded to [GitLab's Unfiltered YouTube channel](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload).
 
-```yaml
-- name: "Awesome Feature"
-  available_in: [premium, ultimate]
-  documentation_link: 'doc-link'
-  video: "https://www.youtube-nocookie.com/embed/eH-GuoqlweM"
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, provident.
-```
+##### Uploading videos to GitLab Unfiltered YouTube channel
 
-- Make sure to add the `/embed/` video URL from YouTube. Follow the steps
-described on the [Markdown guide](/handbook/markdown-guide/#display-videos-from-youtube) to find the correct path.
-- The domain `https://www.youtube-nocookie.com/` will allow YouTube videos to display in the review app correctly.
-- Loading HTML videos from the source also work with no further adjustments. For example:
+When adding videos to content blocks, it is important to ensure that the correct video URL is used and that the video's visibility settings are set to "Public". Follow the steps below to properly prepare a video for inclusion in a content block.
 
-   ```yaml
-   video: '/images/13_8/create_code_review-click-drag-multi-line-comments.mp4'
+1. Upload the video to [GitLab's Unfiltered YouTube channel](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload)
+1. Make sure that the visibility settings are set to "Public".
+1. Copy the video URL and add /embed/ to it.
+1. Replace `youtube.com` with `youtube-nocookie.com`. This is the URL you will use in the content block.
+
+   For example: `https://www.youtube.com/watch?v=dQw4w9WgXcQ` becomes `https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ`
+
+
+1. Review the auto-generated captions for your video, and clean them up for accuracy. Machine-generated captions often mangle technical terms.
+
+##### Adding videos to content blocks
+
+
+1. In the content block, use the entry `video:` followed by the video's URL
+
+   ```
+   video: https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ
    ```
 
-- Review the auto-generated captions for your video, and [clean them up for accuracy](https://www.youtube.com/watch?v=uJnhnA1fELY). Machine-generated captions often mangle technical terms.
+1. If both a video and an image are present, the video will override the image and only the video will be displayed
 
-##### Videos added to the description
+##### Adding videos to descriptions
 
-When added to an entry that supports Markdown, every [video should be wrapped into a figure tag](/handbook/markdown-guide/#videos), as shown below:
+When adding videos to a content block description, it is important to use the correct markup to ensure that the video is displayed correctly.
+
+To add a video to a description, wrap the video in a <figure> element and add the class `video_container`. This assures that the video is displayed responsively. For example:
 
 ```yaml
 - name: "Awesome Feature"
@@ -1536,18 +1543,14 @@ When added to an entry that supports Markdown, every [video should be wrapped in
   description: |
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, provident.
 
-    <!-- Leave a blank line above and below the code below. Do not change the code block in any ways, except for the video URL. Leave the indentation as-is and do not remove the whitespace before </iframe>. Remove this comment when ready. -->
+    <!-- Leave a blank line above and below the code below. Do not change the code block in any ways, except for the video URL. Leave the indentation as-is and do not remove the space prior to </iframe>. -->
 
     <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/PoBaY_rqeKA" frameborder="0" allowfullscreen="true"> </iframe>
+      <iframe src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen="true"> </iframe>
     </figure>
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, provident.
 ```
-
-The `<figure>` element is recommended for semantic SEO and the `video_container` class will assure the video is displayed responsively.
-
-Consult the [Markdown guide](/handbook/markdown-guide/#videos) for the correct Markdown markup to apply to different sources (YouTube, Google Drive, HTML video).
 
 ## Technical aspects
 
