@@ -36,7 +36,7 @@ metrics.
  
 <div class="flex-row" markdown="0" style="height:80px">
  <a href="https://metrics.gitlab.com/" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Ping Metrics Dictionary</a>
- <a href="/handbook/business-ops/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Self-Managed Estimation Algorithm</a>
+ <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Self-Managed Estimation Algorithm</a>
  <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Manager Toolkit</a>
 </div>
  
@@ -363,8 +363,8 @@ GitLab's Non public financial information, none of which should be publicly avai
 should be taken when sharing data from this dashboard to ensure that the detail stays within
 GitLab as an organization and that appropriate approvals are given for any external sharing. In
 addition, when working with row or record level customer metadata care should always be taken
-to avoid saving any data on personal devices or laptops. This data should remain in [Snowflake](/handbook/business-ops/data-team/platform/#data-warehouse)
-and [Sisense](/handbook/business-ops/data-team/platform/periscope/) and should ideally be shared
+to avoid saving any data on personal devices or laptops. This data should remain in [Snowflake](/handbook/business-technology/data-team/platform/#data-warehouse)
+and [Sisense](/handbook/business-technology/data-team/platform/periscope/) and should ideally be shared
 only through those applications unless otherwise approved.
  
 **Orange**

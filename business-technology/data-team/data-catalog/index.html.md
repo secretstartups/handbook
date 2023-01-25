@@ -156,7 +156,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/)
 * [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html)
 * [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
-* [Talent Acquisition Metrics](/handbook/business-ops/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
+* [Talent Acquisition Metrics](/handbook/business-technology/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
 * [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
 # Data Team

@@ -58,7 +58,7 @@ Give responses to Geekbot that truly communicate to your team what you're workin
 
 Every Tuesday from 1400-1700 UTC we focus on results delivery within the business-focused Fusion Teams and Platform Enhancements Team.
 Data Team Leadership are expected to regularly attend most sessions and review all meeting agendas.
-Because we work in [2-week milestone intervals](/handbook/business-ops/data-team/how-we-work/#milestone-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
+Because we work in [2-week milestone intervals](/handbook/business-technology/data-team/how-we-work/#milestone-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
 
 | Time (CET/UTC/ET/PT) | Meeting                                                                                                                                |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |

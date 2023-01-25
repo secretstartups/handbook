@@ -143,7 +143,7 @@ Last 7 calendar days and first 7** calendar days of each quarter
 
 Business Technology change requests are important because they help us track and manage the risk of making wide-reaching configuration and setting changes. All requests for Application, Process, and/or Policy changes are initiated by the requestor submitting a [Business Technology Change Request](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=Business%20Technology%20Change%20Management) issue.
 
-To make a global configuration or settings change to a [third-party application or service](/handbook/business-ops/tech-stack-applications/):
+To make a global configuration or settings change to a [third-party application or service](/handbook/business-technology/tech-stack-applications/):
 
 - [Create an issue in the Change Management project](https://gitlab.com/gitlab-com/business-ops/change-management/-/issues)
 - Dependent on the Change Type:
