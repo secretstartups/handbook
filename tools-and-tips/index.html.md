@@ -518,7 +518,7 @@ This is especially the case when third parties could be customers' competitors.
 ## Slack Status
 
 Slack allows you to set your [status](https://slackhq.com/set-your-status-in-slack) for your fellow GitLab team members by using your choice of standard messages such as "Away" and "Lunch" or a custom message and your choice of emoji.
-If you're off work for a holiday or vacation you can update your status by using [PTO by Roots](/handbook/paid-time-off/#pto-by-roots).
+If you're off work for a holiday or vacation you can update your status by using [PTO by Deel](/handbook/paid-time-off/#pto-by-deel).
 This is a great way to let your team know whether you are available.
 
 To have your Slack status automatically set to "In a meeting" based on your Google Calendar, add the [Google Calendar app](https://gitlab.slack.com/apps/ADZ494LHY-google-calendar?next_id=0) to your Slack account.
