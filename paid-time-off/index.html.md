@@ -34,15 +34,15 @@ Another great example of taking time off is a GitLab team member taking a day to
 
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/people-policies/leave-of-absence/#parental-leave).
 
-Paid time off is in addition to any [official public holidays](#holidays) that apply to the country where you live. When accounting for such holidays in [PTO by Roots](#pto-by-roots), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
+Paid time off is in addition to any [official public holidays](#holidays) that apply to the country where you live. When accounting for such holidays in [PTO by Deel](#pto-by-deel), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
 
-As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [PTO by Roots](#pto-by-roots) as the single source of truth to accurately track and communicate all time off.**
+As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [PTO by Deel](#pto-by-deel) as the single source of truth to accurately track and communicate all time off.**
 
 1. As of 2022-05-01, we’ve created a Flexible PTO policy to better outline communication expectations for team members and managers. This means that:
     * Our move to a Flexible PTO policy means that as long as you have coordinated your planned time off with your manager, you are free to take PTO. There continues to be no set limit per year on the amount of PTO a team member can take.
     * As a guideline, you should inform your manager of your planned PTO at least twice as many days advance notice as the total amount of days that you plan to take off. For example, if you plan to take 3 days off, you should let your manager know at a minimum of 6 business days before.
     * If your planned leave exceeds the 25 calendars days (including weekends and holidays), please make sure to reach out to your Manager, relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), and the Absence Management Team at `leaves@gitlab.com` for a special request. You will need additional permission if you want to take more than 25 consecutive calendar days (including weekends and holidays) off. The 25 calendar day limit is per vacation, not per year. You can have multiple vacations per year that add up to more than 25 calendar days in total; there is no limit to this.
-    * When planning your time off make sure your manager is aware of your absence by telling your manager about your plans. Documenting specific dates you’ll be away can be done by using [PTO by Roots](#pto-by-roots) as it will create an event, capture your out-of-office dates in Workday, and notify your manager.
+    * When planning your time off make sure your manager is aware of your absence by telling your manager about your plans. Documenting specific dates you’ll be away can be done by using [PTO by Deel](#pto-by-deel) as it will create an event, capture your out-of-office dates in Workday, and notify your manager.
     * What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time. Some departments have specific windows during the quarter where the team’s presence is critical to accomplishing key results. Check out your departments’ handbook page for more information if applicable.
     * If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-policies/#job-abandonment).
     * It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off and at minimum 25 days total throughout the year.
@@ -56,10 +56,10 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave, or other needs. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
 1. GitLab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
 1. It's important to take PTO while you have something you *want* to do – taking a mental health day, for example – rather than waiting until you *need* the time off.
-   - When taking PTO for a mental health day, please select the `🌴 Vacation` option in PTO by Roots.
+   - When taking PTO for a mental health day, please select the `🌴 Vacation` option in PTO by Deel.
 1. GitLab runs as usual during regional official days off (including public or statutory holidays): we still help clients during those days, unless they are official days off in both the Netherlands *and* the U.S. On those days, only vital functions (such as incident remediation, and emergency on-call) will be staffed. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
-1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
+1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-deel-events). Events can only be changed after the PTO by Deel event has completed itself.
 
 ### Holidays
 1. We encourage all team members to take time off for holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a [family & friends first](/handbook/values/#family-and-friends-first-work-second) approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take off as well. For a listing of official holidays by country, follow these steps:
@@ -71,13 +71,13 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
    ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
 
-3. Please note that Public Holidays will be listed in PTO Roots with a Length of 0 days (0 hours).
+3. Please note that Public Holidays will be listed in PTO by Deel with a Length of 0 days (0 hours).
 
 ### Communicating Your Time Off
 
 Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.
-1. You should add the time off using [PTO by Roots](#pto-by-roots) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
-    * PTO by Roots will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.
+1. You should add the time off using [PTO by Deel](#pto-by-deel) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
+    * PTO by Deel will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.
 1. As outlined above, it's expected that you provide your manager and team members who may expect to work with you with as much advanced notice as possible about your planned time off. You should give other team members advanced notice that is at least twice as many days as the time that you plan to take off. For example, if you plan to take 3 days off, you should let other team members know **at least** 6 business days before.
 1. Add an out of office automated response including the dates you plan to be away in your automated response.
 1. Consider using [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
@@ -116,7 +116,7 @@ Communicate broadly when you will be away so other people can manage time effici
 
 ### Communicating Time Off for Emergency Situations
 
-Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in Workday. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone. We also recommend that if you are able, to use the `Public Emergency` OOO category in PTO by Roots.
+Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in Workday. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone. We also recommend that if you are able, to use the `Public Emergency` OOO category in PTO by Deel.
 
 ### Returning from PTO
 
@@ -149,7 +149,7 @@ Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member
 
 **Non-Continuous Absences or absences less than 5 continuous days:**
 
-If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it, but you still need to report when you take sick time by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems if needed.
+If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it, but you still need to report when you take sick time by entering the dates as an `Out Sick` type of OOO event in [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) via Slack. Once entered in PTO by Deel, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems if needed.
 
 If you end up needing sick leave for more than 5 consecutive calendar days, or 5 non-continuous calendar days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
@@ -164,7 +164,7 @@ Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-reward
 
 Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](/handbook/contracts/#employee-contractor-agreements):
 
-- Team members should report sick time via PTO by Roots as aligned above.
+- Team members should report sick time via PTO by Deel as aligned above.
 - If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@gitlab.com` by the Manager and (if possible) team member.
 - If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team and your People Business Partner to discuss.
 - Once the Absence Management team has been notified of the sick time they will inform HRSavvy.
@@ -203,45 +203,45 @@ For managers it is ok to reach out to a team member every 3-4 weeks to just to s
 ## Unpaid Leave of Absence
 Details relating to Unpaid Personal Leave can be found on the [Leave of Absence page](/handbook/people-policies/leave-of-absence/).
 
-## PTO by Roots
-All team members and Managers, including those employed under a PEO, are expected to log all time away requests into PTO by Roots (Vacation, Public Holiday, Friends & Family, Sick Time, etc.)
+## PTO by Deel
+All team members and Managers, including those employed under a PEO, are expected to log all time away requests into PTO by Deel (Vacation, Public Holiday, Friends & Family, Sick Time, etc.)
 
-[PTO by Roots](https://www.tryroots.io/pto) allows team members and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
+[PTO by Deel](https://www.deel.com/engage/pto) allows team members and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Deel will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Deel also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
-[PTO by Roots Training Video](https://vimeo.com/469045356)
+[PTO by Deel Training Video](https://vimeo.com/469045356)
 
-Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Connect Team member know in your onboarding issue.
+Please be aware that new team members' PTO by Deel accounts are activated and synced automatically once a day, so if you try to access PTO by Deel on your first day and receive an error message, please attempt to access PTO by Deel on Day 2. If you still receive an error message, let your assigned People Connect Team member know in your onboarding issue.
 
-GitLab teammate questions about PTO by Roots can be directed to `#people-connect` Slack channel.
+GitLab teammate questions about PTO by Deel can be directed to `#people-connect` Slack channel.
 
 ### Slack Commands
-* `/pto-roots ooo` Create an OOO event.
-* `/pto-roots whosout` See upcoming OOO for everyone in the channel where this command is used.
-* `/pto-roots @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
-* `/pto-roots @usergroup` See upcomming OOO for everyone on the particular user group.
-* `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
-* `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
+* `/pto-deel ooo` Create an OOO event.
+* `/pto-deel whosout` See upcoming OOO for everyone in the channel where this command is used.
+* `/pto-deel @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
+* `/pto-deel @usergroup` See upcomming OOO for everyone on the particular user group.
+* `/pto-deel feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
+* `/pto-deel help` A top-level look at PTO by Deel items that you may need help with, and how to receive help.
 
 ### Home Tab
 
-You can find the Home Tab by visiting `Apps` in the menu bar within Slack, and search for or select PTO by Roots. From the Home Tab you  can do the follwoing.
+You can find the Home Tab by visiting `Apps` in the menu bar within Slack, and search for or select PTO by Deel. From the Home Tab you  can do the follwoing.
 
 * View your OOO dashboard to edit, add or remove OOO events.
 * Modify your profile and calendar settings.
 * Opt-in and out for reminders, including monthly messages prompting you to consider what PTO you may take this month.
 
-### PTO by Roots / BambooHR Time Off Sync
+### PTO by Deel / BambooHR Time Off Sync
 
-It should be noted that the sync between PTO by Roots and BambooHR will only take place after an PTO event has taken place. BambooHR cannot see scheduled/future PTO events.
+It should be noted that the sync between PTO by Deel and BambooHR will only take place after an PTO event has taken place. BambooHR cannot see scheduled/future PTO events.
 
-* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
-* The **Public Service / Volunteer** OOO type in PTO by Roots syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
-* The **Public Emergency** OOO type in PTO by Roots syncs to **Employee Accruals** in the Team Members Time Off tab in BambooHR.
-* The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team members Time Off tab in BambooHR.
-* The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team members Time Off tab in BambooHR.
-* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots **do not sync** to BambooHR.
+* The **Vacation** OOO type in PTO by Deel syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
+* The **Public Service / Volunteer** OOO type in PTO by Deel syncs to **Employee Accruals** in the team members Time Off tab in BambooHR.
+* The **Public Emergency** OOO type in PTO by Deel syncs to **Employee Accruals** in the Team Members Time Off tab in BambooHR.
+* The **Out Sick** OOO type in PTO by Deel syncs to **Sick Time** in the team members Time Off tab in BambooHR.
+* The **Parental Leave** OOO type in PTO by Deel syncs to **Parental Leave** in the team members Time Off tab in BambooHR.
+* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Deel **do not sync** to BambooHR.
 
-### Communicating Other Status Using PTO by Roots
+### Communicating Other Status Using PTO by Deel
 
 Other OOO options include:
 
@@ -256,9 +256,9 @@ Other OOO options include:
 
 These other types of OOO categories do not count as PTO. These categories are an easy way to correctly track your time and communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service or Jury Duty, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
-### Unable to access PTO by Roots 
+### Unable to access PTO by Deel 
 
-If you receive an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps.
+If you receive an error message **"Uh-oh! It doesn't look like you have access to PTO by Deel"** please attempt the following steps.
 1. Check to see if your email address (GitLab) in your slack profile matches your email address in BambooHR -  it is important to note in this instance that BambooHR is case sensitive and that the addresses must match exactly.
 1. If these two are not the same exact email then the application will not recognize you as a team member.
    - Update your Slack email - OR - 
@@ -275,7 +275,7 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
 
 #### Google Calendar Sync
 
-PTO by Roots allows you to sync time off requests with your Google Calendar.
+PTO by Deel allows you to sync time off requests with your Google Calendar.
 
 A calendar invite will also be sent to your manager to help them keep track of their team's time away. This event will always be based on the calendar date and will not adjust for timezones. If you are a manager with team members in varying timezones, you may end up with calendar invites that do not accurately reflect the actual time away. As a manager, you can simply decline the calendar invite and manually create a correct entry on your own calendar without affecting the actual time off request.
 
@@ -283,11 +283,11 @@ More information regarding this sync can be found on the [Team PTO Calendar](htt
 
 #### Automatic Status + Do Not Disturb Updates
 
-PTO by Roots can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
+PTO by Deel can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
 
 #### Roles and Task Handoffs
 
-PTO by Roots provides an experience that allows you to set roles and tasks for co-workers while
+PTO by Deel provides an experience that allows you to set roles and tasks for co-workers while
 you’re away. Accepted roles then become a part of a Slack away message that appears as
 co-workers try to tag you in discussions while you’re OOO.
 
@@ -296,16 +296,16 @@ Especially in large channels and during popular vacation times, PTO's role remin
 
 #### Bulk Add holidays
 
-You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Roots in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
+You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Deel in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
-* Visit `Apps` in the menu bar within Slack, and search for or select PTO by Roots
+* Visit `Apps` in the menu bar within Slack, and search for or select PTO by Deel
 * Choose `Holidays` from the dropdown menu
 * Choose the desired year
 * Click on `Bulk Add By Region`
 
 #### Monthly reminder to consider taking PTO
 
-We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. PTO by Roots allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/company/culture/all-remote/mental-health/).
+We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. PTO by Deel allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/company/culture/all-remote/mental-health/).
 
 The reminder will read as follows.
 
@@ -313,28 +313,28 @@ The reminder will read as follows.
 
 To subscribe or unsubscribe, follow the below instructions and [see an associated screenshot](/images/handbook/people-group/gitlab-slack-pto-reminder.png).
 
-* Visit `Apps` in the menu bar within Slack and search for or select `PTO by Roots`
+* Visit `Apps` in the menu bar within Slack and search for or select `PTO by Deel`
 * On the application's `Home` tab, select `Notifications` from the dropdown
 * Beneath the dropdown, you'll see a line that says "Send me a monthly reminder about taking time off." Click the **Subscribe** button to trigger the notification, which will begin on the first *working* day (e.g. not a weekend or a public holiday) in the month following your subscription.
-* To unsubscribe, revisit PTO by Roots within Slack Apps and click the button that says **Unsubscribe**.
+* To unsubscribe, revisit PTO by Deel within Slack Apps and click the button that says **Unsubscribe**.
 
 ##### Checking "Who's Out?"
 
 Considering GitLab has a [flexible time off policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), it is helpful to know who else on your team is out of office prior to requesting time. In order to see who is out of your team, follow the steps below:
 
-* Go to the PTO by Roots application in Slack
+* Go to the PTO by Deel application in Slack
 * In the `Home` section, select `Who's Out?` from the dropdown list
 * Click `new search` to view who is out by `#channel`, `@usergroup`, or `@username`
 
-#### Requesting and documenting new PTO by Roots features
+#### Requesting and documenting new PTO by Deel features
 
-You can request a new PTO by Roots feature by using the aforementioned `/pto-roots feedback` command in Slack. If you receive feedback from the PTO by Roots team, or a new feature is implemented, please document the discussion in [this GitLab issue](https://gitlab.com/gitlab-com/people-group/General/issues/285). You can also create an issue in the [People Group general project](https://gitlab.com/gitlab-com/people-group/General) and ping CEO Kevin Corliss `@pto-ninja` and CTO Doug Franklin `@doug17` for review.
+You can request a new PTO by Deel feature by using the aforementioned `/pto-deel feedback` command in Slack. If you receive feedback from the PTO by Deel team, or a new feature is implemented, please document the discussion in [this GitLab issue](https://gitlab.com/gitlab-com/people-group/General/issues/285). You can also create an issue in the [People Group general project](https://gitlab.com/gitlab-com/people-group/General) and ping CEO Kevin Corliss `@pto-ninja` and CTO Doug Franklin `@doug17` for review.
 
-### Instructions for People Ops and Total Rewards to Update PTO by Roots Events
+### Instructions for People Ops and Total Rewards to Update PTO by Deel Events
 
 If a OOO event is in progress:
 
-1. People Specialist: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Specialist: In the PTO by Deel app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Specialist: Select the team members name and find the OOO event in their history.
 1. People Specialist: Edit said entry.
 1. Total Rewards: No tasks are needed in BambooHR.
@@ -342,46 +342,46 @@ If a OOO event is in progress:
 If a OOO event has completed and synced to BambooHR:
 
 1. Total Rewards: Delete the relevant PTO entry from the team members BambooHR Time Off tab. People Connect Team members must contact Total Rewards to ask for their support here.
-1. People Connect Team: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Connect Team: In the PTO by Deel app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Connect Team: Select the team members name and find the OOO event in their history.
 1. People Connect Team: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. People Specialist: Add a new OOO event(s) by clicking the +Add Event button.
 1. People Specialist: Monitor BambooHR for the next 24 hours to ensure that the corrected event synced successfully.
 
-To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO by Roots events have to be deleted for the new correct event to be saved to BambooHR.
+To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO by Deel events have to be deleted for the new correct event to be saved to BambooHR.
 
 ## Management’s Role in Paid Time Off
 
 Managers have a duty to manage their direct reports wellbeing and ensure that time off is being taken. Sometimes, when working remotely from home, it can be hard to find a good work-life balance. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
 
-For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth. Whether a team member is taking one day off, or 25+ calendar days off, all team members must use [PTO by Roots](#pto-by-roots).
+For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Deel](#pto-by-deel) as the single source of truth. Whether a team member is taking one day off, or 25+ calendar days off, all team members must use [PTO by Deel](#pto-by-deel).
 
 For audit and compliance purposes, managers have a responsibility to be aware of their direct reports' [statutory time off policies](/handbook/paid-time-off/#statutory-vacation-requirements), as applicable in countries in which GitLab is the employer. Some countries require employers to ensure team members are taking time off, so it is recommended that managers review their direct reports' OOO time frequently, using the reports described in the section below. Managers do not need to understand the ins and outs of the policies; just that team member in specific country receives certain amount of days/year. The specifics of these policies (accrual maximums, rollover, accrual rates, etc) will still be managed within the People Ops team. Please feel free to reach out to `leaves@gitlab.com` with any questions.
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans. Reminders can be sent in Slack, shared on a team calendar, or noted during team meetings.
 
-If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Connect Team at `people-connect@gitlab.com` without disclosing private medical information in compliance with applicable privacy laws. The People Connect Team will submit an OOO request on the team members behalf and mark the reason as `Per Manager Name`, and save the email thread in the team members `Sickness` folder in Workday. This documentation will be unshared and will not contain any personal medical information.
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Deel and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Connect Team at `people-connect@gitlab.com` without disclosing private medical information in compliance with applicable privacy laws. The People Connect Team will submit an OOO request on the team members behalf and mark the reason as `Per Manager Name`, and save the email thread in the team members `Sickness` folder in Workday. This documentation will be unshared and will not contain any personal medical information.
 
-### PTO by Roots Manager Reporting
+### PTO by Deel Manager Reporting
 
-Reporting from the PTO by Roots app helps managers:
+Reporting from the PTO by Deel app helps managers:
 
 1. Be sure their direct reports are taking enough PTO
 1. Review upcoming PTO of direct reports to make project management decisions and manage team member burnout
 
-PTO by Roots sends an automated report to managers like the one below at the beginning of every month:
+PTO by Deel sends an automated report to managers like the one below at the beginning of every month:
 
 ![example of auto PTO reports](automatic-pto-reports.png)
 
-Managers can also access the **Reporting** view at any time by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
+Managers can also access the **Reporting** view at any time by using the dropdown menu in the **Home** tab of the PTO by Deel Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Deel app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
 
-![how to pull pto by roots reports](pto-reports.png)
+![how to pull PTO by Deel reports](pto-reports.png)
 
-More training materials for PTO by Roots are found in the [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) and the [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing).
+More training materials for PTO by Deel are found in the [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) and the [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing).
 
-#### How to use PTO by Roots data to support your team
+#### How to use PTO by Deel data to support your team
 
-Understanding the PTO that teams have taken, and plan to take, helps managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Roots data.
+Understanding the PTO that teams have taken, and plan to take, helps managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Deel data.
 
 #### Discuss team member burnout
 
@@ -389,8 +389,8 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 1. Notice the kind of PTO that your team has taken. Consider the following questions and manager actions:
     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
      - How much sick leave did your team take? If you have a team member who has taken 5 or more consecutive sick days, or non-consecutive if related to the same illness, please contact the Absence Management Team at `leaves@gitlab.com` to address the next steps to take in line with applicable law.
-     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative) and labeling the time away as `Friends and Family` in PTO by Roots.
-     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and lableing the time away as `Public Holiday` in PTO by Roots.
+     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative) and labeling the time away as `Friends and Family` in PTO by Deel.
+     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and lableing the time away as `Public Holiday` in PTO by Deel.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
@@ -404,7 +404,7 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 1. If your team does not have any planned PTO when you run the report, consider sending a message or encouraging them in your next 1:1 to plan ahead to take PTO. Getting ahead of burnout is important and can be partially addressed with adequate rest.
 1. Confirm that you're getting calendar invitations for your direct reports PTO. This way, you can use your weekly and monthly calendar views to plan for your team. If you're not, ask your reports to add you following these steps:
 
-![how to pull pto by roots reports](calendar-sync.png)
+![how to pull PTO by Deel reports](calendar-sync.png)
 
 ### Supporting Team Members Taking Time Off
 
