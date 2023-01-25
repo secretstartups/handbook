@@ -259,6 +259,8 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
 
 If a 2FA ticket is opened by an organization that has had this workflow configured for them, perform the following steps to process the request depending on whether or not the customer has a shared Slack channel with us.
 
+>**Note:** 2FA removal for the user is approved by the Customer via the 2FA Verification template. This means the Customer will confirm with the User having 2FA removed and not support.
+
 #### 1. Create Issue
 {:.no_toc}
 
