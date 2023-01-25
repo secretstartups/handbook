@@ -28,7 +28,7 @@ Sales Operations main focus is on the Sales organization.
     <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
     <a href="/handbook/sales/commissions/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Commissions</a>
     <a href="/handbook/marketing/marketing-operations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
-    <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Operations</a>
+    <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Operations</a>
 </div>
 
 <div class="flex-row" markdown="0" style="height:80px">

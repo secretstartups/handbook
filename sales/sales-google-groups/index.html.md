@@ -50,7 +50,7 @@ See the below chart for a visualization of the Google Group hierarchy
 
 ![Sales Google Groups](/handbook/sales/images/newsalesgg_v5.jpg)
 
-To confirm if you are in a particular Google Group, see the [Google Workspace Group Membership Reports.](/handbook/business-ops/team-member-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
+To confirm if you are in a particular Google Group, see the [Google Workspace Group Membership Reports.](/handbook/business-technology/team-member-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
 
 ## Slack Channels and Groups
 

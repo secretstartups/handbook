@@ -39,7 +39,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
-    *   [Trade Compliance](/handbook/business-ops/trade-compliance/)
+    *   [Trade Compliance](/handbook/legal/trade-compliance/)
 
 *   **Other Resources**
 
@@ -345,7 +345,7 @@ To add our SaaS SLA Addendum to an order form, please open a Legal case after al
 	1. IT’S THE LAW!
 	1. Not complying could result in fines or penalties for GitLab and/or GitLab team members
 	1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
-1. For more information see the [Trade Compliance ](/handbook/business-ops/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
+1. For more information see the [Trade Compliance ](/handbook/legal/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
 1. This tool checks Account information against various databases to ensure no matches, Accounts are checked repeatedly to ensure GitLab's continued compliance
 

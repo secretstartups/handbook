@@ -484,7 +484,7 @@ GitLab.com Trials & Subscription Management
 
 #### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
-Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
+Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-technology/enterprise-applications/)
 
 ### Quotes | Sales Order Processing
 
@@ -538,7 +538,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 - [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
 - [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
-- [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
+- [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-technology/enterprise-applications/)
 - [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
 - [Customer Health Check Process](https://about.gitlab.com/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
 - [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
