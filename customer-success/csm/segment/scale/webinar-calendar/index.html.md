@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### Americas Webinars
 
-#### Getting Started with DevOps Metrics
-##### January 24th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-Come learn about DevOps metrics in GitLab and why it is useful to track them. We will cover an overview of DORA metrics, Value Stream Analytics, and Insight dashboards, and what it looks like in Gitlab.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Aj--MN3ESgi6ESabnaarPw)
-
 #### DevSecOps/Compliance
 ##### January 31st, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
