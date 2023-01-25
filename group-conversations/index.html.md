@@ -327,10 +327,10 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday February 15 | **Available** | DRI | Key Review Date |
 | Thursday February 16 | **Available** | DRI | Key Review Date |  
 | Tuesday February 21 | **Available** | DRI | Key Review Date |
-| Wednesday February 22 | People | Wendy Barnes | February 14 |
+| Wednesday February 22 | **Available** | DRI | Key Review Date |
 | Thursday February 23 | **Available** | DRI | Key Review Date | 
 | Tuesday February 28 | Product | Product Leadership | February 9 |
-| Wednesday March 1 | **Available** | DRI | Key Review Date |
+| Wednesday March 1 | People | Wendy Barnes | February 22 |
 | Thursday March 2 | **Available** | DRI | Key Review Date |  
 | Tuesday March 7 | Finance | Brian Robins | March 1 |
 | Wednesday March 8 | **Available** | DRI | Key Review Date |
