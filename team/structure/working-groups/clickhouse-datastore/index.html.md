@@ -55,10 +55,11 @@ This Working Group has the following goals:
 
 | Criteria | Start Date | Completed Date | Progress | DRI |
 |----------|------------|------------|------------|------------|
-| [Document and review current ClickHouse uses/capabilities and future use cases](https://gitlab.com/groups/gitlab-com/-/epics/2075) | | | 0% | `@you?` |
-| [Develop and socialize architecture strategy for ClickHouse usage](https://gitlab.com/groups/gitlab-com/-/epics/2076) | | | 0% | `@you?` |
-| [Develop a ClickHouse rollout strategy and plan](https://gitlab.com/groups/gitlab-com/-/epics/2077) | | | 0% | `@you?` |
-| [Develop and implement a communication plan for the working group](https://gitlab.com/groups/gitlab-com/-/epics/2078) | | | 0% | `@you?` |
+| [Document and review current ClickHouse uses/capabilities and future use cases](https://gitlab.com/groups/gitlab-com/-/epics/2075) | 2022-12-08 | | 0% | Marshall Cottrell |
+| [Develop and socialize architecture strategy for ClickHouse usage](https://gitlab.com/groups/gitlab-com/-/epics/2076) | 2023-01-05 | | 0% | Nick Nguyen |
+| [Develop a ClickHouse rollout strategy and plan](https://gitlab.com/groups/gitlab-com/-/epics/2077) | 2023-01-05 | | 0% | Sam Goldstein |
+| [Develop Recommendation for ClickHouse Ownership Model](https://gitlab.com/groups/gitlab-com/-/epics/2094) | | | 0% | |
+| [Develop and implement a communication plan for the working group](https://gitlab.com/groups/gitlab-com/-/epics/2078) | 2023-01-18 | | 0% | Nicole Williams |
 
 ### Current and Planned Use Cases
 
