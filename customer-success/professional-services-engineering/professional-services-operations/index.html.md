@@ -41,7 +41,7 @@ If project work is required to start the project prior to the opportunity bookin
 
 #### Customer Consulting Project Scheduling
 
-The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utilized to track the progress of each project as we work through Kantata project set up, project team assignment and partner paperwork. There is also a Project Scheduling Intake issue in which we request information pertinent to the scheduling process.
+The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utilized to track the progress of each project as we work through Kantata project set up, project team assignment and partner paperwork. There is also a [Project Scheduling Intake Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingPreparation.md) in which we request information pertinent to the scheduling process.
 
 #### Scheduling Request for Consulting Projects
 
@@ -56,7 +56,7 @@ We do understand we may have circumstances to plan for a project before a SF Sta
 | Executed MSA/PSA | Opportunity Owner |
 | Agreed close plan with the customer | Opportunity Owner |
 | Skills pushed to the Customer Epic | Assigned Engagement Manager |
-| [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist)  | Requestor of Scheduling Request |
+| [Project Scheduling Intake Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingPreparation.md) populated with required details | Assigned Engagement Manager |
 
 For staffing requirements or questions, add the details to the Project Scheduling Intake Issue and tag the assigned Project Coordinator.  If there is not a Project Coordinator assigned, tag the Operations Manager for assistance and assignment will be completed at that time. Moving forward, the Project Scheduling Intake Issue will house all information and discussions regarding scheduling. The PC Checklist will only be used internally by the Project Coordinator.
 
