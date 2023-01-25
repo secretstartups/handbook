@@ -50,7 +50,7 @@ Please don't hesitate to schedule one with me!
 
 ## My Remote Work Setup
 
-- [Macbook Pro](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/#apple-hardware)
+- [Macbook Pro](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware)
 - Paper notebook, I like [Moleskins](https://www.amazon.com/Moleskine-Classic-Cover-Notebook-Ruled/dp/8883701127)
 - [Fully Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
 - Office chair
