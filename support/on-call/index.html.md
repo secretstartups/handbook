@@ -133,7 +133,7 @@ Note that support manager on call shifts remain the full 8 hours.
 
 Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
-PTO by Roots, selecting the `On-Call Time in Lieu` option.
+PTO by Deel, selecting the `On-Call Time in Lieu` option.
 
 For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
 page.
