@@ -370,7 +370,7 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
 
 ## Items required by FMM to request moving an issue from Plan to WIP
 
-- Contract is fully executed (if applicable) - For contract approval, FMM is to obtain the agreement from the vendor, review and make any changes needed with the vendor, then submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to the FMC for processing through Coupa.
+- Contract is fully executed (if applicable) - For contract approval, FMM is to obtain the agreement from the vendor, review and make any changes needed with the vendor, then submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to the FMC for processing through Zip.
 - Event Details and FMC Checklist sections in the main issue are updated and complete
 - Allocadia sub-category and line item detail panels are updated and complete
 
@@ -701,10 +701,9 @@ Once you feel confident that you have chosen the right 3rd party vendor, now is 
 1. FMM to open a Field Marketing issue and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
 1. FMM to open a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) issue and assign to the regional FMC.
     - SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
-1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process). Remember to attach your executed NDA when opening your Coupa requisition in the steps below.
+1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process). Remember to attach your executed NDA when opening your Zip requisition in the steps below.
 1. If you're requesting a new tool, FMM to open a [Marketing Ops Eval](/handbook/marketing/marketing-operations/#requesting-a-new-tool) issue. Marketing Ops will help evaluate the product and will assist in the procurement process. They will also help you determine if an integration is required with any products in our current tech stack and if so, which team will be the DRI for the integration.
-1. FMC to check to see if the vendor is [already in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier). If not, the FMC will submit a [new supplier request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier). The Coupa requisition cannot be opened until the vendor is in Coupa. 
-1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) for opening a Coupa requisition. Please note that you can submit the Coupa requisition even before a contract has been provided. This template details the following approvals:
+1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for opening a Zip requisition. Please note that you can submit the Zip requisition even before a contract has been provided. This template details the following approvals:
     - NDA requirement
     - Privacy review (if applicable)
     - Security review
@@ -719,7 +718,7 @@ The below epic is for tracking venues we would like to utilize for future events
 
 # Field Marketing Contract Requests
 
-In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
+In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
 
 # Corporate Memberships Owned by GitLab Field Marketing
 
