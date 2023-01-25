@@ -242,8 +242,8 @@ The queue should not be used for the following:
 
 * [CustomersDot Admin Docs](/handbook/product/fulfillment-guide)
 * [Business Ops](/handbook/business-technology/)
-  * [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-ops/enterprise-applications/applications/)
-  * [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-ops/enterprise-applications/applications/troubleshooting/)
+  * [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-technology/enterprise-applications/integrations/)
+  * [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting//)
 * [Sales](/handbook/sales/)
   * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
   * [Sales Territories](/handbook/sales/territories/)
