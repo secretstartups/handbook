@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{< blocks/cover title="Welcome to the GitLab Handbook" image_anchor="top" color="orange" >}}
+{{< blocks/cover title="Welcome to the alpha version of the new GitLab handbook" image_anchor="top" color="orange" >}}
 
 <div class="mx-auto">
 	<a class="btn btn-lg btn-info mr-3 mb-4" href="{{< relref "/docs/" >}}">
@@ -15,4 +15,25 @@ title: Home
 
 {{% /blocks/cover %}}
 
+{{< blocks/lead color="primary">}}
+<div class="col">
+<h1 class="text-center">This is the alpha version of a new Gitlab Handbook</h1>
+</div>
 
+{{< /blocks/lead >}}
+
+{{< blocks/section color="light" >}}
+
+{{% blocks/feature icon="fa-book" title="Main Handbook" url="https://about.gitlab.com/handbook" %}}
+For the current handbook please see <a href="https://about.gitlab.com/handbook">https://about.gitlab.com/handbook</a>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-warning" title="Not the Current Handbook" url="https://about.gitlab.com/handbook/values/" %}}
+This is not the current handbook.  We live our values and as we iterate towards a new handbook we wanted be transparent about the work we're doing.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-gitlab" title="Contributions welcome!" url="https://gitlab.com/gitlab-com/content-sites/handbook/" %}}
+We do a [Merge Request](https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests) contributions workflow on **GitLab**. New users are always welcome!
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}
