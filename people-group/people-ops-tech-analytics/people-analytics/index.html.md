@@ -79,7 +79,7 @@ It is not necessary to have a large suite of tools in order to be an effective P
 HR management system.
 ### Greenhouse
 Recruiting and Applicant Management System
-### PTO By Roots
+### PTO by Deel
 A slack application that captures team member time off
 ### CultureAmp
 The application we use to conduct surveys within GitLab.

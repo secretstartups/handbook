@@ -12,7 +12,7 @@ description: Setup instructions for a shared Google Calendar of PTO events of yo
 
 ## Overview
 
-As a way of tracking PTO in a shared team calendar, the steps outlined below will walk you through how to configure your PTO Roots to automatically sync your OOO events to your teams shared calendar.
+As a way of tracking PTO in a shared team calendar, the steps outlined below will walk you through how to configure your PTO by Deel to automatically sync your OOO events to your teams shared calendar.
 
 ### Steps
 
@@ -20,7 +20,7 @@ As a way of tracking PTO in a shared team calendar, the steps outlined below wil
    1. Under the `My calendars` section on the left navigation bar, find the shared calendar with your name.
    1. Point to the shared calendar and click `More` > `Settings and sharing`.
    1. Scroll down to the `Integrate Calendar` section and copy the Calendar ID.
-1. Under **Slack** -> **PTO by Roots** -> **Home**, click on the dropdown **Settings** > and select `Calendar Sync`
+1. Under **Slack** -> **PTO by Deel** -> **Home**, click on the dropdown **Settings** > and select `Calendar Sync`
 1. Click on `Add Calendar` and add your teams shared **Calendar ID**.
 1. Give yourself a pat on the back as you are now successfully synced to your teams shared calendar!
 
@@ -31,9 +31,9 @@ To get the entire team on the same calendar it is recommend to create an issue u
 Here is an example markdown template for requesting this addition from your team:
 
 ```markdown
-As a way of tracking our PTO in a shared calendar, the steps outlined below will walk you through how to configure your PTO Roots to link to this calendar.
+As a way of tracking our PTO in a shared calendar, the steps outlined below will walk you through how to configure your PTO by Deel to link to this calendar.
 
-1. Under **Slack** -> **PTO by Roots** -> **Home**, click on the dropdown **Settings** > and select `Calendar Sync`
+1. Under **Slack** -> **PTO by Deel** -> **Home**, click on the dropdown **Settings** > and select `Calendar Sync`
 1. Click on `Add Calendar` and add your teams shared **Calendar ID** `CALENDAR ID HERE`.
 1. :tada: Give yourself a pat on the back as you are now successfully synced to your teams shared calendar!
 1. When you have completed these tasks, please mark as done below ✅ and unassign yourself.

@@ -45,7 +45,7 @@ A scheduled pipeline runs every day to check who's coming back from parental lea
 For those team members we send them a Direct Message reminding them that they can take more
 PTO if needed and links to the handbook related to coming back after parental leave.
 
-For this pipeline we have a direct integration with PTO by Roots.
+For this pipeline we have a direct integration with PTO by Deel.
 
 ### Informing People Connect Team about details missing in BambooHR for upcoming new hires
 
