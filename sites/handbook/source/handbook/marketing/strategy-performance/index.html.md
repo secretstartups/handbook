@@ -44,7 +44,7 @@ We are a small team with a leader and data analysts.
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
-    <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
+    <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
 
 </div>
 
@@ -176,7 +176,7 @@ Periodically Marketing Strategy and Analytics becomes aware of significant chang
 
 ## <i id="biz-tech-icons" class="fas fa-toolbox"></i>Tech Stack
 
-For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Analytics.
+For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-technology/tech-stack-applications/) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Analytics.
 
 <details>
 <summary markdown='span'>
@@ -213,4 +213,4 @@ We use Bizible for tracking times when there is engagement with our prospects. L
 
 ## Web Traffic Analysis
 
-Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)
+Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)
