@@ -93,6 +93,24 @@ The Talent DRI (in partnership with the EBA to the CEO ) will run point on any c
 
 The Talent DRI (in partnership with the vendor) is responsible for maintaining the progress call agendas and surfacing any urgent requirements via Email and Slack to the relevant party when necessary.
 
+**Interview documentation**
+
+If the search is confidential and not able to be added to Greenhouse, interview notes documents will need to be created.
+* The Talent DRI is responsible for creating an interview feedback notes document for each interview. 
+* The Talent DRI will notify the appropriate EBA to ensure the notes document is attached to the calendar invitation
+* The Talent DRI will ensure the document is shared with the Hiring DRI, interviewer and appropriate members of the search team before the interview takes place.
+* The Talent DRI will ensure the document is linked to any internal tracker used for the search.
+
+The interview notes document should include the following information:
+* Document title: Confidential - (Candidate Initials) - Interview with (Interviewer Name)
+* Candidate name (with link to LinkedIn profile)
+* Interviewer name
+* Position
+* Job Family
+* Date / Time
+* Link to search firm briefing document
+* Decision: (Strong yes / Yes / No)
+
 **Feedback Calls**
 
 At certain intervals, the Hiring DRI may want to set up a call with all interviewers to discuss feedback live. These calls will serve to discuss feedback that has already been submitted.
