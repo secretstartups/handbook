@@ -300,7 +300,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 
 1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar. Please see [Communicating your time off](/handbook/paid-time-off/#communicating-your-time-off) for more.
 1. Set your working hours in your Google Calendar settings.
-1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
+1. Utilize [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) to keep other GitLab team members aware of your planned time away within Slack.
 
 ### Informal communication
 
