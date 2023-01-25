@@ -340,7 +340,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
     1. PAO: No material weaknesses identified by Audit Firm. => 90% (internal controls work not finalized by auditor)
 1. **CFO: Build a scalable data infrastructure that ensures completeness of data, quality and ability for anyone in the organization to access data and perform analysis.**
     1. Data Team: [Embedded/Central analyst/engineer model implemented so each function has at least one embedded data analyst.](https://gitlab.com/gitlab-data/analytics/issues/3023)
-    1. Data Team: Sensitive data [is identified](https://gitlab.com/groups/gitlab-data/-/epics/74) in 66% of [data sources](/handbook/business-ops/data-team/platform/#extract-and-load) at the database object level (columns, tables, etc.) [in a file in our repository for use in automated and dynamic modeling, administering, and auditing of the warehouse.](https://gitlab.com/groups/gitlab-data/-/epics/65)
+    1. Data Team: Sensitive data [is identified](https://gitlab.com/groups/gitlab-data/-/epics/74) in 66% of [data sources](/handbook/business-technology/data-team/platform/#extract-and-load) at the database object level (columns, tables, etc.) [in a file in our repository for use in automated and dynamic modeling, administering, and auditing of the warehouse.](https://gitlab.com/groups/gitlab-data/-/epics/65)
     1. Data Team: [66% of data sources of Data quality measures and tests documented and implemented for data sources.](https://gitlab.com/groups/gitlab-data/-/epics/63)
 1. **CFO: Create an IT organization that prepares the company for growth over next 18 months.**
     1. IT: Create an IT SLA framework and issue initial target of less than three days.
