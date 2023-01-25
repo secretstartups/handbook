@@ -1386,7 +1386,7 @@ You will be notified via the Geekbot plug in on slack at 9 AM your local time on
 We follow the processes documented in the [Communicating your time off section](/handbook/paid-time-off/#communicating-your-time-off) of our handbook page. 
 
 Specifically: 
-1. Add your OOO to PTO by Roots 
+1. Add your OOO to PTO by Deel 
 1. Add an OOO for your email 
 1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
 1. Add an OOO to your Slack profile 
