@@ -67,7 +67,7 @@ The owner of this control is IT Operations and People Operations.
 * [Access Removal Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master)
 * [Unique Account Identifiers](/handbook/security/#unique-account-identifiers)
 * [Access Control Policy and Procedures including Shared account restrictions](/handbook/security/#access-control-policy-and-procedures)
-* [Section on shared accounts in Okta handbook page](/handbook/business-ops/okta/#i-have-an-application-that-uses-a-shared-password-for-my-team-can-i-move-this-to-okta) 
+* [Section on shared accounts in Okta handbook page](/handbook/business-technology/okta/#i-have-an-application-that-uses-a-shared-password-for-my-team-can-i-move-this-to-okta) 
 * [NIST IA-4 IDENTIFIER MANAGEMENT](https://nvd.nist.gov/800-53/Rev4/control/IA-4)
 * [Password Policy Guidelines](/handbook/security/#gitlab-password-policy-guidelines)
 * [Access Management process documented in teh handbook including service account template](/handbook/security/access-management-policy.html#access-management)
@@ -81,7 +81,7 @@ The owner of this control is IT Operations and People Operations.
 * [People Ops Vault Shared Passwords](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/issues/13)
 * [Shared Account Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#shared-account-access-request)
 * [Access Control Policy and Procedures](/handbook/security/#access-control-policy-and-procedures)
-* [Okta documentation on shared accounts](/handbook/business-ops/okta/#i-have-an-application-that-uses-a-shared-password-for-my-team-can-i-move-this-to-okta)
+* [Okta documentation on shared accounts](/handbook/business-technology/okta/#i-have-an-application-that-uses-a-shared-password-for-my-team-can-i-move-this-to-okta)
 * [New Shared Account Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#shared-account-access-request)
 * [Shared Account Access Request Handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
 

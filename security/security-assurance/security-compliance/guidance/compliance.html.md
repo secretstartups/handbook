@@ -56,10 +56,10 @@ This control is owned by Security Compliance.
     - [Vulnerability Management](/handbook/security/threat-management/vulnerability-management/#vulnerability-management-overview)
   - [Support Team](/handbook/support/)
   - [GitLab Security Practices](/handbook/security/)
-    - [Business Continuity Plan](/handbook/business-ops/gitlab-business-continuity-plan/)
+    - [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
     - [Data Team](/handbook/business-technology/data-team/) Policies and Standards
-    - [Team Member Enablement Policies and Standards](/handbook/business-ops/team-member-enablement/onboarding-access-requests/)
-      - [Inventory Management](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) <!-- Fleetsmith will be deprecated for DriveStrike. When this happens, this link needs to be updated. -->
-    - [IT Help Team](/handbook/business-ops/team-member-enablement/self-help-troubleshooting/) Policies and Standards
+    - [Team Member Enablement Policies and Standards](/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
+      - [Inventory Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) <!-- Fleetsmith will be deprecated for DriveStrike. When this happens, this link needs to be updated. -->
+    - [IT Help Team](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/) Policies and Standards
 - General Policies and Standards
   - [Offboarding Procedures](/handbook/people-group/offboarding/offboarding_guidelines/)

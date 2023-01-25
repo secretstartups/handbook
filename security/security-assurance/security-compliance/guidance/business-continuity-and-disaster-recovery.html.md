@@ -41,8 +41,8 @@ The business continuity and disaster recovery plan is comprehensive by nature an
 * *Test of Operating Effectiveness* - (TOE) - used for verifying that the control is in place and it operates as it was designed.
 
 ### Policy Reference
-* [GitLab Business Continuity Plan in Handbook](/handbook/business-ops/gitlab-business-continuity-plan/)
-* [Business Continuity Test handbook link](/handbook/business-ops/gitlab-business-continuity-plan/#business-continuity-testing)
+* [GitLab Business Continuity Plan in Handbook](/handbook/business-technology/gitlab-business-continuity-plan/)
+* [Business Continuity Test handbook link](/handbook/business-technology/gitlab-business-continuity-plan/)
 * [GitLab Disaster Recovery](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
 * [GitLab Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
 * [GitLab Infra Epic for Geo](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1)
@@ -57,7 +57,7 @@ The business continuity and disaster recovery plan is comprehensive by nature an
 * [Business Continuity Exercise Runbook Template](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/new?issuable_template=Business_Continuity_Exercise_Runbook)
 * [Business Continuity Plan for Malicious Software Attack(s)](https://gitlab.com/gitlab-com/business-ops/Business-Operations/-/issues/264)
 * [Business Continuity Test - April 30th, 2020 - Retrospective](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/1838)
-* [Business Impact Analysis in the handbook](/handbook/business-ops/gitlab-business-continuity-plan#business-impact-analysis)
+* [Business Impact Analysis in the handbook](/handbook/business-technology/gitlab-business-continuity-plan/)
 * [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy/index.html)
 * [Data Protection Impact Assessments or DPIAs](/handbook/legal/privacy/#data-protection-impact-assessments-dpias)
 * [Data Protection Office and the Privacy Office](https://about.gitlab.com/privacy/#data-protection)	

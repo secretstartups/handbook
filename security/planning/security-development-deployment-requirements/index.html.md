@@ -260,7 +260,7 @@ reviewed periodically as part of scheduled reviews and maintenance.
 
 ## Identity Providers
 
-[Okta](/handbook/business-ops/okta/) is our corporate identity and authentication provider. Configuration of
+[Okta](/handbook/business-technology/okta/) is our corporate identity and authentication provider. Configuration of
 applications using Okta as a SAML provider is the preferred solution. It meets
 operation needs for security monitoring of activity and can be provisioned by
 IT Ops using the standard Access Request process. Applications designed
