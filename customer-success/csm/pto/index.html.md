@@ -17,7 +17,7 @@ As part of GitLab's [paid time off policy](/handbook/paid-time-off/), team membe
 
 ## Before you go
 
-To take PTO, please follow the guidelines in the [PTO policy](/handbook/paid-time-off/) and be sure to enter your time off in PTO Roots.
+To take PTO, please follow the guidelines in the [PTO policy](/handbook/paid-time-off/) and be sure to enter your time off in PTO by Deel.
 
 Before your PTO begins, please follow these additional guidelines:
 
@@ -35,7 +35,7 @@ You can ask [another CSM](#backup-csms) to cover for you as well, but they likel
 
 For any specific customer needs (escalating tickets, logging issues, etc.), the CSM should rely on either the SA or backup CSM, and higher-level or sales-related items should be handled by the SAL/AE.
 
-Be sure to confirm with whoever will be covering for you the dates you'll be out to ensure they don't also have PTO scheduled or other conflicts. Then, add them and their coverage responsibilities into PTO Roots.
+Be sure to confirm with whoever will be covering for you the dates you'll be out to ensure they don't also have PTO scheduled or other conflicts. Then, add them and their coverage responsibilities into PTO by Deel.
 
 ### Backup CSMs
 
@@ -52,7 +52,7 @@ GitLab.com:
 
 Please note that while any simple questions or requests should be answered when possible, if it's more complicated or will require more work than you are able to do, please still comment in response to the customer letting them know that their CSM is on PTO and will return on X date. This way, the customer has an update and an idea of when they might expect an answer. This is especially helpful on GitLab.com as there is no native out of office responder.
 
-PTO Roots will ping you the day before the CSM returns. Be sure to let the CSM know about any requests or situations that occurred when they return so they can follow up, as well as any actions you took while they were out.
+PTO by Deel will ping you the day before the CSM returns. Be sure to let the CSM know about any requests or situations that occurred when they return so they can follow up, as well as any actions you took while they were out.
 
 #### Americas East PTO Buddy Program
 
@@ -70,7 +70,7 @@ In accordance with our ["no ask, must tell"](/handbook/paid-time-off/#a-gitlab-t
 
 - SAL/AE and SA for the accounts you cover
 - [Backup CSM](#backup-csms)
-- Your manager (via PTO Roots)
+- Your manager (via PTO by Deel)
 
 Please ensure that everyone knows about the following items during your scheduled PTO:
 
