@@ -99,7 +99,7 @@ ORDER BY
 
 </details>
 
-
+<!--- TO DO: Uncomment once current_member_count column is fixed in https://gitlab.com/gitlab-data/analytics/-/issues/12566
 **Project Namespaces by Membership**
 analysis is needed to show the overall usage of Project Namespaces by users.
 
@@ -142,6 +142,7 @@ ORDER BY
     current_member_count DESC
 ``` 
 </details>
+--->
 
 **Top-Level Group with Most Sub-Groups and Projects**
 analysis is needed to show where the namespace is being utilized most.     
