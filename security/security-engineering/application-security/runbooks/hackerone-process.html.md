@@ -150,6 +150,15 @@ Sometimes researchers will report a vulnerability in features behind a [feature 
 
 For a CVSS, use `AC:H` to reflect that _"A certain setting has to have a non-default value to make the attack possible"_.
 
+#### Triaging DNS record takeovers
+
+DNS record takeovers typically require multiple teams in order to triage. The workflow is slightly different:
+- Instead of pinging the team responsible for the given page (or service, in the case of MX or TXT records) we collaborate with SIRT and the SRE Oncall
+- We import the HackerOne report to the infrastructure repository via `/h1 import $REPORT infrastructure`
+- Engage SIRT via `/security` in Slack. This will allow SIRT to perform their investigatory duties related to this type of attack.
+- Engage `@sre-oncall` in Slack. This notifies the SRE (but does not intiate a PagerDuty ping) on-call of a situation requiring their attention. In the relevant SIRT issue, the responder should be added to the issue by the GitLab SIRT.
+Remediation of this vulnerability happens within the SIRT issue and typically involves deleting the dangling CNAME record. For issues involving MX record takeovers we typically work with our MX SaaS vendor, Mailgun to obtain control of the record. More information on MX record takeovers can be found [here](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/334).
+
 #### Awards
 
 - See [GitLab's H1 Policy](https://hackerone.com/gitlab), under `Rewards`, for portions of bounty rewards which are awarded at the time of triage
