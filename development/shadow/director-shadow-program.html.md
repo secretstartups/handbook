@@ -45,7 +45,6 @@ For GitLab team member prospective shadows:
 For non-GitLab prospective shadows:
 1. You must be willing to sign a [non-disclosure agreement](/handbook/legal/NDA/) - this is required so that we can protect confidential information.
 1. You must describe why you want to participate in this program, including what you would like to learn.
-1. You must be an active [GitLab community open-source contibutor](/community/contribute/), or a member of an [under represented group](/company/culture/inclusion/#examples-of-select-underrepresented-groups), or not have current employment. This allows us to make the program available to those who can most benefit from it.
 
 ## Process for requesting to be a shadow
 
@@ -156,7 +155,7 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| Jan 30 | Available | |
+| Jan 30 | [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
 | Feb 6| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
 | Feb 13 | Available | |
 | February 20|  Available | |
