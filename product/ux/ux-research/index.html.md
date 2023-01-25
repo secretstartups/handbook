@@ -39,6 +39,7 @@ Below is a full list of our UX Research team handbook content:
 - [Choosing a methodology](/handbook/product/ux/ux-research/choosing-a-research-methodology/)
 - [Longitudinal studies](/handbook/product/ux/ux-research/longitudinal-studies/)
 - [Diary studies](/handbook/product/ux/ux-research/diary-studies/)
+- [Mental modeling studies](/handbook/product/ux/ux-research/mental-modeling)
 - [Kano Model for feature prioritization](/handbook/product/ux/ux-research/kano-model/)
 - [User story mapping](/handbook/product/ux/ux-research/user-story-mapping/)
 - [Rapid Iterative Testing and Evaluation (RITE)](/handbook/product/ux/ux-research/rite/)
