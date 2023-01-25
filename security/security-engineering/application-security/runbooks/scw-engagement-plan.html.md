@@ -5,6 +5,18 @@ title: "AppSec's Engagement Plan and Ways to Measure Usage of Secure Code Warrio
 
 # Engagement Goal, Plan, and, Ways to Measure Usage of Secure Code Warrior
 
+## How can AppSec Engineers Contribute to the Secure Code Warrior Training Program?
+
+If anyone from the AppSec team is interested in contributing to the Secure Code Warrior (SCW) training program and you don't have access to the [Secure Code Warrior training portal](https://portal.securecodewarrior.com/), please post a comment in the `#sec-appsec` Slack channel requesting access.
+
+Once you have access to the Secure Code Warrior training portal, please do the following:
+- Join the `#security-secure-code-warrior` Slack channel
+- Watch [Secure Code Warrior platform walkthrough](https://www.youtube.com/watch?v=IwTJ-DOqmXQ) for a quick overview of the platform
+- Please read through SCW's documentation on [Getting Started](https://help.securecodewarrior.com/hc/en-us/categories/360001975872-Getting-Started)
+- Go through our old [SCW Trial](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1365) issue to get an idea on how we have organized [Tournaments](https://help.securecodewarrior.com/hc/en-us/articles/360036293731-Tournaments-Module-Overview) in SCW.
+
+Once you have done the above, you will be in a great shape to start contributing to the SCW training program. Please feel free to post in `#sec-appsec` if you have any questions.
+
 ## Engagement Goal
 
 Developer = Backend + Frontend Engineers. See [Org Chart](https://comp-calculator.gitlab.net/org_chart) for more information on the number and types of developers at GitLab.
