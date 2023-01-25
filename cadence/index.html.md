@@ -82,11 +82,11 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 ## Year 
 
-1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
+1. [Yearlies](/company/yearlies/) for setting annual company goals 
 1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
+1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
 1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
 1. [Fiscal Year Product Investment Themes](/direction/#fiscal-year-product-investment-themes)
-1. [Yearlies](/company/yearlies/) for setting annual company goals 
 1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/)
 
 ## Quarter
