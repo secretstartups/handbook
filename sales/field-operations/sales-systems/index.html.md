@@ -172,21 +172,21 @@ Persuant with GitLab's [best practices for password security](https://about.gitl
 |Refresh step|Owner|To be completed by|Environments|Action steps|
 |-----|-----|-----|-----|-----|
 |Reconnect RingLead user|@ksavage|@ksavage/@rrosu|STAGING|1. Login to RingLead.<br>2. Locate the SFDC connections page.<br>3. Authenticate with the RingLead Integration user using the user password for this account in the production org (stored in 1Password).|
-|Disable Scheduled Apex Jobs|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Disable Outbound Messages or point them to QA server endpoints|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Reconfigure External Web Service calls for a non-production environment|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Disable Analytic Snapshots [ If any ]|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Get the new Sandbox Org ID and instance Id if required|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Remove the email suffix for required users to send email with new sandbox link<br/><br/>Required Users in Staging Sandbox<br/><br/>jbren<br/>jpetr<br/>msnow<br/>mclyn<br/>lscho<br/>svisw|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-| Create any required users who don't exist in Production|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-| Regenerate (or completely disable) Inbound Email Services|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Delete / modify entries in Remote Site Settings if you don't want to perform certain callouts.|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Disable "Big Deal Alert" on Opportunities [ If any]|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|If you have managed packages with API keys ask support teams to regenerate the keys [If Needed]|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|If you have "power users" that will coordinate User Acceptance Testing - create entries in Delegated Administration area so they can "login as"|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Break Email addresses on Contacts, Leads etc. with suffix like it's done for users (if there's any risk of routine communication kicking in for example from workflow email alerts)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Disable Weekly Data Export|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
+|Disable Scheduled Apex Jobs|@sheelaviswanathan |@sheelaviswanathan |||
+|Disable Outbound Messages or point them to QA server endpoints|@sheelaviswanathan |@sheelaviswanathan  |||
+|Reconfigure External Web Service calls for a non-production environment|@sheelaviswanathan |@sheelaviswanathan  |||
+|Disable Analytic Snapshots [ If any ]|@sheelaviswanathan |@sheelaviswanathan  |||
+|Get the new Sandbox Org ID and instance Id if required|@sheelaviswanathan |@sheelaviswanathan  |||
+|Remove the email suffix for required users to send email with new sandbox link<br/><br/>Required Users in Staging Sandbox<br/><br/>jbren<br/>jpetr<br/>msnow<br/>mclyn<br/>lscho<br/>svisw|@sheelaviswanathan |@sheelaviswanathan  |||
+| Create any required users who don't exist in Production|@sheelaviswanathan |@sheelaviswanathan  |||
+| Regenerate (or completely disable) Inbound Email Services|@sheelaviswanathan |@sheelaviswanathan  |||
+|Delete / modify entries in Remote Site Settings if you don't want to perform certain callouts.|@sheelaviswanathan |@sheelaviswanathan  |||
+|Disable "Big Deal Alert" on Opportunities [ If any]|@sheelaviswanathan |@sheelaviswanathan  |||
+|If you have managed packages with API keys ask support teams to regenerate the keys [If Needed]|@sheelaviswanathan |@sheelaviswanathan |||
+|If you have "power users" that will coordinate User Acceptance Testing - create entries in Delegated Administration area so they can "login as"|@sheelaviswanathan |@sheelaviswanathan |||
+|Break Email addresses on Contacts, Leads etc. with suffix like it's done for users (if there's any risk of routine communication kicking in for example from workflow email alerts)|@sheelaviswanathan |@sheelaviswanathan  |||
+|Disable Weekly Data Export|@sheelaviswanathan |@sheelaviswanathan  |||
+|For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)|@sheelaviswanathan |@sheelaviswanathan  |||
 |Disable Marketo sync|Marketing Operations|Marketing Operations|Staging|Contact MOPs to disable the SFDC sync (before refresh).|
 |Create and turn on |Marketing Operations|Marketing Operations|Marketing Sandbox/Staging| Must create fields for `Marketo Sync` (Boolean) on Leads and Contacts in staging before reconnecting. This box should be unchecked, but editable by Mops profile and added to page layout for Mops. Mops will need to request Marketo support to set up custom sync before reconnecting. |
 |Re-authenticate Marketo Sync (Systems Tasks)|Sales Systems|Sales Systems|Staging|[Configure connected Oauth App](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=en), provide consumer secret, key and new OrgID to Mops.
