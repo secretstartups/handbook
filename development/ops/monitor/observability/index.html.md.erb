@@ -16,6 +16,50 @@ description: "The Observability group is responsible for the Observability of th
 
 The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain.
 
+### Monitor Stage
+
+#### What is a stage?
+
+Stages align with the eight loop [stages](https://about.gitlab.com/handbook/product/categories/#hierarchy) of Plan, Create, Verify, Secure, Package, Release, Configure, and Monitor. These stages are based on [Gartner's original research](https://drive.google.com/file/d/171L2SiUEQJdJqUGumaXgYSSNNN6NQxQp/view) on how organizations can sequentially build a successful DevOps process by mapping business priorities to DevOps activities. A stage doesn't necessarily align with products in the market.
+
+#### What is the Monitor stage?
+
+The Gartner definition of Monitor stage comprises:
+
+- Application Performance Monitoring
+- Assess Metrics
+- End-user experience
+- IT Infrastructure
+- Network
+- Application performance and availability
+- Observability
+
+This list of business priorities maps together as a group of activities you typically think about together in DevOps. At GitLab, we have added some adjacent business priorities we want to solve for our users in Incident Management, ITSM (IT Service Management), and service desk.
+
+#### How does a general person or GitLab user understand "Monitor"?
+
+_Monitor_ is generally understood to mean _application performance monitoring_ or _infrastructure monitoring_. This is because these functions are offered by some of the most widely used software development tools, such as Prometheus, Datadog, and New Relic. However, Monitor sometimes also encompasses incident management. Strictly speaking, incident management is not about _monitoring_ application performance, but what you do when something goes wrong. These are related, but different, areas.
+
+Given the close relationship between these two areas, people can quickly and intuitively find _incident management_ under Monitor within the GitLab UI. Furthermore, many monitoring tools are also branching into incident management as a logical expansion, so the lines are becoming blurry.
+
+#### How does Observability fit in?
+
+Observability is an old term originating from [control theory](https://en.wikipedia.org/wiki/Control_theory). The term became popular because traditionally, monitoring is about defining metrics in advance, then hoping you've defined good metrics that can indicate when your system is encountering or about to encounter problems.
+
+This approach is insufficient in modern computing, as today's applications are often built on ephemeral and elastic infrastructure. With microservices, the interesting information often lies in the _connection between_ the services, rather than within the services themselves.
+
+We no longer operate in a space where we can confidently predict what might go wrong. Observability is all about operating on the assumption that although we know _some_ things, we need a tool to help us understand exactly what's happening in those murkier areas, a tool that immediately alerts us to anomalies, errors, and downtime.
+
+Observability extends monitoring by providing visibility into the entire software system, not just the individual services or functions. To achieve this perspective, observability relies on three types of telemetry data:
+
+- logs (event records)
+- metrics (performance data measured over time)
+- traces (information about the flow of data throughout the system)
+
+### The product we are building
+
+We want to build an observability product, a tool that's a fit for the modern developer building modern applications. Monitoring is good, but ultimately insufficient.
+
 ## Team Organization
 
 ### Async Standups
