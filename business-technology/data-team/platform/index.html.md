@@ -469,6 +469,20 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 
 For data warehouse use cases that require us to store data for our users without updating it automatically with dbt we use the `STATIC` database. This also allows for analysts and other users to create their own data resources (tables, views, temporary tables). There is a sensitive schema for sensitive data within the static database. If your use case for static requires the use or storage of sensitive data please create an issue for the data engineers.
 
+Scenario's we have been using the `STATIC` database:
+
+A request comes in to upload a set of data into one of our data sources.
+This set of data is going to be uploaded once and never updated again.
+
+In this case we have created a new table in the STATIC database and loaded the data there via `BULK UPLOAD` / `COPY` command. Then this model has been exposed to the `PREP` layer. The final model reads from this table via a `UNION` statement.
+
+This way we have the data in the `STATIC` database and even if we perform a full-refresh of the data source, we will be able to include this manually uploaded set of records.
+
+Examples of this implementation can be found below:
+
+- Qualtrics, [Link to the MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7676)
+- Clari, [Link to the MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7655)
+
 ### Data Masking
 
 We use data masking obfuscate private or sensitive information with our data warehouse.  Masking can be applied in a dynamic or static manner depending on the particular data needs.  Masking can be applied at the request of the data source system owner or at discretion of the Data Team.  As our current data masking methods are applied procedurally using dbt they can only be applied in the `PREP` and `PROD` database.  If masking is required in the `RAW` database alternant methods of masking should be investigated.
