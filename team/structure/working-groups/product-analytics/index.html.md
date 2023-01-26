@@ -24,7 +24,7 @@ canonical_path: "/company/team/structure/working-groups/product-analytics/"
 
 Fast track GitLab to becoming a data-driven organisation by meeting the data needs of the Product team. Specifically:
 * Enable Product to measure stage-specific usage activity, including read activity (frontend; a user in GitLab views a page) and write activity (backend; an object is created)
-* Track stage-specific health metrics like [SMAU](https://about.gitlab.com/handbook/product/metrics/#sts=Stage%20Monthly%20Active%20Users%20(SMAU)).
+* Track stage-specific health metrics like [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/).
 
 ## Exit Criteria
 
