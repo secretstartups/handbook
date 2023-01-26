@@ -93,7 +93,7 @@ Candidates for this speciality can expect the hiring process to follow the order
 
 ## Relevant links
 
-- [Product Vision - Growth](/direction/growth/)
+- [Product Vision - Growth](/handbook/marketing/growth/)
 - [Engineering Handbook](/handbook/engineering/)
 - [Engineering Workflow](/handbook/engineering/workflow/)
 

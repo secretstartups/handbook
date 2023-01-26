@@ -292,7 +292,7 @@ The Senior Director of Product Monetization is a [grade 11](/handbook/total-rewa
 #### Senior Director of Product Monetization - Responsibilities
 * Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:    
 
-1. [Growth Product Management](https://about.gitlab.com/direction/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
+1. [Growth Product Management](https://about.gitlab.com/handbook/marketing/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
 1. [Fulfillment Product Management](https://about.gitlab.com/direction/fulfillment/).  Ensure a world class purchasing experience for GitLab customers, and drive towards 100% of sales transactions flowing through automated fulfillment systems.
 1. [Pricing](https://about.gitlab.com/company/pricing/).  Drive pricing and packaging improvements to increase Average Selling Price and Average Revenue Per User.
 
