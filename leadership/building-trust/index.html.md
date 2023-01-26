@@ -135,7 +135,7 @@ One of our Managers said this about the Zoom Background Ice-Breaker:
 
 ### Give Credit to Team Members
 
-Use the '#thanks' [Slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments weekly, monthly, and quarterly. Meet with each team member to review their accomplishments. 
+Use the '#thanks' [Slack channel](/handbook/communication/) to give recognition to team members in a public setting. Review team accomplishments weekly, monthly, and quarterly. Meet with each team member to review their accomplishments. 
 
 Take a [coaching approach](/handbook/leadership/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for [executives](/company/team/structure/#executives) to recognize the team. They should also look for opportunities to recognize the team in front of executives. 
 
