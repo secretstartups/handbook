@@ -16,7 +16,7 @@ On this page, you'll find an overview as well as links to helpful resources for 
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
-We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Growth Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Developing, Growing, and Exceeding in [Growth Output](/handbook/people-group/talent-assessment/#growth-output) instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
+We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Growth Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Developing, Growing, and Exceeding in [Growth Output](/handbook/people-group/talent-assessment/#growth-output) instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
 
 ***
 
@@ -194,7 +194,7 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](/job
 * Rapport with direct reports
 
 ### Evaluating Product Manager's potential
-When evaluating a product manager's potential, in addition to the [generic information](/handbook/people-group/performance-assessments-and-succession-planning/#what-is-potential) outlined, we also want to evaluate potential based on the unique and outsized impact PMs can have. We acknowledge that the evaluation will remain more qualitative than quantitative, but rather than shy away from making an evaluation, we will lean in using the information below.
+When evaluating a product manager's potential, in addition to the [generic information](/handbook/people-group/talent-assessment/#what-is-potential) outlined, we also want to evaluate potential based on the unique and outsized impact PMs can have. We acknowledge that the evaluation will remain more qualitative than quantitative, but rather than shy away from making an evaluation, we will lean in using the information below.
 
 We can think about the Product Manager's potential primarily on two axis: value creation and leadership.
 
@@ -226,7 +226,7 @@ We expect product managers to be a leader at the following levels. When evaluati
 | **VP** |  company-wide |
 
 #### A framework for evaluating potential
-It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
+It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
 
 | Attribute | Reasoning|
 | ------ | ------ |

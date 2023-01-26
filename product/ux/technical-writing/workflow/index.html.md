@@ -433,7 +433,7 @@ documentation](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/release
 
 ## Documentation feedback and improvements
 
-To make a documentation change that is not associated with a specific code change, the Technical Writing team encourages contributors to [start with an MR](/handbook/communication/#everything-starts-with-a-merge-request) and follow the [documentation update procedures](https://docs.gitlab.com/ee/development/documentation/workflow.html).
+To make a documentation change that is not associated with a specific code change, the Technical Writing team encourages contributors to [start with an MR](/handbook/communication/) and follow the [documentation update procedures](https://docs.gitlab.com/ee/development/documentation/workflow.html).
 
 If you do start with an issue rather than an MR, use the [Documentation template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Documentation). Labels should include:
 

@@ -53,7 +53,7 @@ A Job to be Done ([JTBD](/handbook/product/ux/ux-resources/#jobs-to-be-done-jtbd
 
 ## Shared UX
 
-We divided the Verify stage into dedicated experience groups to align with a similar [split](/handbook/product/product-categories/#verify-stage) undertaken by our engineering and PM counterparts. To deliver seamless user experiences, we share responsibility in the overall vision, goals, and research initiatives related to overlapping features. The UX teams work closely together and have shared coverage in the following areas:
+We divided the Verify stage into dedicated experience groups to align with a similar [split](/handbook/product/categories/#verify-stage) undertaken by our engineering and PM counterparts. To deliver seamless user experiences, we share responsibility in the overall vision, goals, and research initiatives related to overlapping features. The UX teams work closely together and have shared coverage in the following areas:
 
 - `gitlab-ci.yml`
 - Pipelines

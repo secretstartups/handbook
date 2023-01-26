@@ -58,7 +58,7 @@ The template can also be copied into the main issue that is the SSOT.
 
 #### Collaboration 
 
-There is a lot of overlap between Fulfillment groups, so we work very closely. To keep things simple and clear, we follow [GitLab internal communication](/handbook/communication/internal-communications) guidelines. In addition the following tips will make it easier to collaborate with Product Designers who span multiple groups:
+There is a lot of overlap between Fulfillment groups, so we work very closely. To keep things simple and clear, we follow [GitLab internal communication](/handbook/people-group/employment-branding/people-communications/) guidelines. In addition the following tips will make it easier to collaborate with Product Designers who span multiple groups:
 
 We collaborate with each other on issues across different Fulfillment Groups. On our monthly planning issues, each designer should indicate high priority or time consuming issues from other groups. A link to the other planning issue is fine too, just so it's easy for the Product Design Manager and Product Managers to navigate to this information.
 
