@@ -77,7 +77,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook)
 1. [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
-1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
+1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 
 ## Year 
