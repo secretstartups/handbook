@@ -17,30 +17,37 @@ Any GitLab team-member can triage issues. Keeping the number of un-triaged issue
 
 Currently the Quality Department takes on triaging all new issues in the main [GitLab](https://gitlab.com/gitlab-org/gitlab) project via the [newly created unlabelled issues](/handbook/engineering/quality/triage-operations/#newly-created-untriaged-issues) triage report.
 
-## Triage levels
-
-We define two levels of triage.
-
-### Partial Triage
+## Partial Triage
 
 The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) is currently responsible for completing partial triage.
 
-An issue is considered partially triaged when all of the following criteria are met:
+### Partial Triage checklist
 
-- Issue has a [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
-- Issue has a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
-- Issue has a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
-- Issue has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied for `~"type::bug"` and `~"UX Debt"`.
-  - If the Contributor Success team requires more context to accurately apply severity, they should tag the group's corresponding [Software Engineer in Test (SET)](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) to help triage.
-  - For groups with no assigned SET, the group's corresponding [Quality Engineering Manager (QEM)](https://about.gitlab.com/handbook/engineering/quality/#management-team) should be tagged instead.
+- Issue is spam: [report](#reporting-spam-issues) and close it.
+- Issue is request for help: [respond](/handbook/engineering/quality/contributor-success/#community-issues-workflow-manual-process) and close it.
+- Issue is [duplicate](#duplicates): call the `/duplicate` action.
+- Assign a [type label](#type-labels).
+- `~"type::bug"`: assign a [severity label](#severity).
+- Assign a [group label](#group-labels).
+  - If there is no suitable group label: assign a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels).
 
-### Complete Triage
+## Complete Triage
 
 An issue is considered completely triaged when all of the following criteria are met:
 
 - It is partially triaged.
 - It has a milestone set.
 - It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied for `~"type::bug"` and `~"UX Debt"`.
+
+## Type Labels
+
+Type labels are defined on the [issue workflow page](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels).
+If you are unsure about the type, you can tag the product or engineering manager for the [group](#group-labels) and ask their opinion.
+
+## Group labels
+
+Assigning a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) allows `gitlab-bot` to automatically assign the right stage label.
+The [Features by Group](/handbook/product/categories/features) listing can help find the right group.
 
 ## Priority
 
@@ -58,9 +65,12 @@ The priority label is used to indicate the importance and guide the scheduling o
 | `~"priority::4"` | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM, EM, or QEM of that product group, based on work type |
 
 ## Severity
-Note: Theses severity definitions apply to issues only. Please see [Severity Levels section](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#severities) of the [Incident Management page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) for details on incident severity.
 
-Severity labels help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`. Severity is also applicable to non-`type::bug` `~SUS::Impacting` issues.
+If you need help estimating severity, tag the group's corresponding [Software Engineer in Test](/handbook/engineering/quality/#individual-contributors) or [Quality Engineering Manager](/handbook/engineering/quality/#management-team) in the respective issue.
+
+Note: Theses severity definitions apply to issues only. Please see [Severity Levels section](/handbook/engineering/infrastructure/incident-management/#severities) of the [Incident Management page](/handbook/engineering/infrastructure/incident-management/) for details on incident severity.
+
+[Severity labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`. Severity is also applicable to non-`type::bug` `~SUS::Impacting` issues.
 
 The presence of bug category labels `~"bug::availability"`, `~"bug::performance"`, `~"bug::vulnerability"`, and `~UX` denotes to use the severity definition in that category. When a `~"type::bug"` correspond to multiple categories, the severity to apply should be the higher, for example, if an issue has a `~"severity::2"` for `~"bug::availability"` and a `~"severity::1"` for `~"bug::performance"` then the severity assigned to the issue should be `~"severity::1"`.
 
@@ -288,9 +298,6 @@ Apply each label that seems appropriate. Issues with a security impact should be
 If the issue seems unclear - you aren't sure which labels to apply - ask the requester to clarify matters for you.
 Keep our [user communication guidelines](/handbook/communication/#user-communication-guidelines) in mind at all times, and commit to keeping up the conversation until you have enough information to complete triage.
 
-Check for duplicates! Searching for some keywords in the issue should give you a short list of possibilities to scan through.
-Check both open and closed issues, as it may be a duplicate of a solved problem.
-
 Consider whether the issue is still valid. Especially for older issues, a `~"type::bug"` may have been fixed since it was reported, or a `~"type::feature"` may have already been implemented.
 
 Be sure to check cross-reference notes from other issues or merge requests, they are a great source of information!
@@ -312,45 +319,45 @@ That said, we can't automate everything. In this section we'll describe some of
 the practices we're doing manually.
 
 ### Shared responsibility issues
- 
+
 From time to time you may encounter issues for which it is difficult to pick a group or stage that should be responsible. It is likely that these issues address what is called [Shared Responsibility Functionality](/handbook/product/categories/#shared-responsibility-functionality) of the product.
- 
+
 The approach for these is to use a decentralized triage process. The triage is not centralized in a single report or list, and it does not fall to one individual or group to have the responsibility to review those issues. This helps with scaling our triage operations to address a large number of issues that may fall into this shared responsibility category on an ongoing basis rather than in a recurring scheduled event.
- 
+
 The goal is to empower leadership at the group level (i.e. Product Manager and/or Engineering Manager) to make decisions on who, when and how these issues should be addressed. Higher-level management individuals and groups act as a backup to address escalations and make decisions when competing priorities make it difficult to decide on a course of action.
- 
+
 #### Initial triage
- 
+
 If you are triaging one of these issues as a GitLab engineer or as a quality department manager, or if you are the author of the issue, please make your best effort to assign a group label to the issue as soon as possible after creation. You don't have to get it perfect, but just make a conscious effort to identify the group that is the best one set up for success to work on the issue.
- 
+
 You can ask yourself these questions when picking a group:
- 
+
 - Does the group directly lists this area in their product categories?
 - Does the group works with the underlying technologies of the issue at hand?
 - Have they done similar work in the past?
 - Are they a foundational group that regularly engages in similar cross-cutting features?
 - Can you identify the affected file and use git blame to see who was the author of the last change?
 - Can you identify the Code Owners of the file?
- 
+
 To help with initially narrowing down the list of possible groups, you may review the [Product Categories](https://about.gitlab.com/handbook/product/categories/) page or the [Stage Groups Ownership Index](https://gitlab-com.gitlab.io/gl-infra/platform/stage-groups-index/) page.
- 
+
 In any case, you should attempt to understand the nature of the issue by asking follow-up questions to the author if necessary, and then map the requirements to the group that best matches the skills or expertise required.
- 
+
 #### Secondary triage
- 
+
 Secondary triage happens when the issue has already been assigned to a group and now someone within the group (typically the PM or EM) is assessing the issue for prioritization and/or estimation. If you are the one doing this triage you may take one of the following courses of action:
- 
+
 1. If you determine that it falls squarely within your group's categories, then follow your own internal triage procedure.
 1. If you think it falls squarely into another group's product categories, then ping the EM or PM of that other group async in a comment thread on the issue. Explain your reasoning as to why you think it falls under their purview and ask them to take ownership. Please ask and **let them be the one to update** the label when they have seen your comment and agreed that they are better suited to take on the issue.
 1. If you think the issue falls into the shared responsibility category, first consider carefully having your team be the one contributing to the issue and owning it to see it through to completion. However, if you think your team does not have the skill or can not ramp up the necessary knowledge and skills to contribute to the issue in a timely manner, then try to identify other groups who might be better suited (or with whom your group can collaborate to deliver the functionality together). At that point, engage with them in a conversation and coordinate further triage of the issue until it has a clear owner. Alternatively, through this triage process you may collectively decide that the issue is not worth pursuing (e.g. perhaps considering its value vs effort). In this case, make sure to close the issue while providing a clear rationale for the decision.
- 
+
 As you work through the triage, exercise your judgement to decide when it is time to escalate issues to a higher level (i.e. senior management, directors or above) if you and your EM/PM peers can’t agree on the value, severity, priority or group purview of the issue. For now, the method to escalate is flexible and you can choose the right communication channel and modality for the situation.
 
 As the DRI you should consider take additional steps to ensure the continued support of the affected area. This may involve putting forward proposals for the creation of new platform groups that can take the ongoing responsibility and technical strategy for the components in question. This of course does not preclude the need to take immediate action on the issue assigned to your group.
 
 If as a result of the triage process a group is identified as qualified and willing to take ownership on a permanent basis, product and engineering leaders should officially document the type of ownership model and the team in the [shared services components](/handbook/engineering/development/#shared-services-and-components) section of the Development handbook. Multiple groups may permanently share ownership of the same component if deemed appropriate.
 
- 
+
 It is important to keep in mind that throughout this process, as a leader in your group, you are deemed the initial Directly Responsible Individual ([DRI](/handbook/people-group/directly-responsible-individuals/)) until the issue is resolved or someone else agrees to take over. Simply removing your group label without further triage conversations with other groups is not an acceptable or helpful action to take in this process. This aligns with our value of [Results: global optimization](/handbook/values/#global-optimization).
 
 
@@ -367,7 +374,9 @@ Before opening a new issue, make sure to **search for keywords** and verify your
 
 Checking for and/or reporting duplicates when you notice them.
 
-All things held equal, the earliest issue should be considered the canonical version. If one issue has a better title, description, and/or more comments and positive reactions, it should be prioritized over earlier issues even if it's a duplicate.
+Open the issue tracker for the project the issue is for and search for relevant keywords from the issue. Scan through the first page of the result list.
+Check both open and closed issues.
+Use the issue with the better title, description, or more comments and positive reactions as the canonical version. If you can't decide, keep the earlier issue.
 
 ### Lean toward closing
 
