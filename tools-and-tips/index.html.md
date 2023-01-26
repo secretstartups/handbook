@@ -679,18 +679,20 @@ To use Find a Time:
     - Guests who are optional will not appear in the availability table by default.
     You can add them by checking their name in the "Guests" area on the right hand side.
 
-### GitLab Availability Calendar
+### GitLab availability calendar
 
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
 We have created [tools and tips for managing your time off](/handbook/paid-time-off/).
 
-### Setting Working Hours
+### Setting working hours & location
 
-To help other team members to schedule meetings with you, you can set your normal [working hours in Google Calendar](https://support.google.com/calendar?p=working_location). The preferred times will show up when someone tries to schedule a meeting with you.
+To help other team members to schedule meetings with you, you can set your normal [working hours & location in Google Calendar](https://support.google.com/calendar/answer/7638168). The preferred times will show up when someone tries to schedule a meeting with you.
 
-To set your working hours, go to Settings -> General -> Working Hours and Location.
+To set your working hours, go to `Settings` -> `General` -> `Working Hours & Location`. `Working location` can be set here or on your calendar directly by clicking on the pill in the `All day` row. In Settings there's a helpful `Copy to all` option as well.
 
-### GitLab Team Meetings Calendar
+Since all GitLab Team Members work remotely `Home` can be an ambiguous choice as folks may travel and it doesn't provide any context on timezones. If you'd like, you can choose `Somewhere else` (in Settings) or `Edit pencil` -> `+` -> `Another location` (from the pill) to set this to something such as `City, State, Country` and keep it up to date when traveling, which can help folks with planning and understanding timezones.
+
+### GitLab Team Meetings calendar
 
 The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list after it's added. To add the GitLab Team Meetings Calendar to your list of calendars:
 
@@ -738,10 +740,10 @@ Then click Create filter:
 - Skip the Inbox
 - Apply the label (of your choosing)
 
-### Modifying Events
+### Modifying events
 
 Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels.
-You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
+You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).
 
 ![Google Calendar - Guests can modify events setting](/images/handbook/tools-and-tips/google-calendar-guestsmodifyevent.png)
 
@@ -751,7 +753,7 @@ You can change the default notification settings by calendar (add or remove noti
 
 If you change the default notifications, all existing events will inherit that as well (unless their notifications have been customized).
 
-### Restore Deleted Calendar Items
+### Restore deleted calendar items
 
 (This assumes you are using [Google's new Calendar](https://support.google.com/calendar/answer/7541906)).
 
@@ -788,14 +790,14 @@ If you'd like to share your calendar with e.g. your partner you can use the 'Sha
 
 ![Share with specific people](/images/handbook/tools-and-tips/share-with-specific-people.png)
 
-### Speedy Meetings
+### Speedy meetings
 
 Enable speedy meetings to automatically provide a buffer at the end of events you schedule.
 This thoughtfully allows participants with back-to-back events the opportunity to use the restroom or grab a cup of coffee without being late to their next function.
 
 ![Google Calendar - Enable speedy meetings](/images/handbook/tools-and-tips/google-calendar-speedy-meetings.png)
 
-### World Clock
+### World clock
 
 Add as many time zone world clocks as you wish by, in Google Calendar, going to `Settings -> World Clock` in order to see team members' local times. 
 
@@ -803,7 +805,7 @@ Add as many time zone world clocks as you wish by, in Google Calendar, going to 
 
 You can also use sites like [TimeAndDate](https://www.timeanddate.com/worldclock/converter.html) to convert times to/from UTC for example. 
 
-### Time Zone
+### Time zone
 
 Check `Display secondary time zone` and select `(GMT+00:00) Coordinated Universal Time` (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
 
