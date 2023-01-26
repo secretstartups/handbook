@@ -10,12 +10,11 @@ description: "How to plan, design and evaluate experiments"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 # Experimentation for the User Experience Team
 
 *Ever wonder if we do AB Testing, aka Experiments?*
 
-Yes, we do experiments in our app! Most experiments are run by the Growth team on the SaaS product, and the majority are done on our registration, trial and purchase flows. We also collaborate with stage groups and run experiments around increasing the visibiliy, usability and learnability of a feature. These experiments are ultimately aimed at improving KPIs that tie back to revenue. Things like increasing engagement with the product, increasing the speed at which a customer uses a feature or upgrades their account, or even increasing the number of stages used by a namespace.
+Yes, we do experiments in our app! Most experiments are run by the Growth team on the SaaS product, and the majority are done on our registration, trial and purchase flows. We also collaborate with stage groups and run experiments around increasing the visibility, usability and learnability of a feature. These experiments are ultimately aimed at improving KPIs that tie back to revenue. Things like increasing engagement with the product, increasing the speed at which a customer uses a feature or upgrades their account, or even increasing the number of stages used by a namespace.
 
 ## What is experimentation?
 Experimentation is a way to validate and measure improvements to a digital product against particular goals. Basically, we have an idea that if we change something in our product, our users will respond to it, and the metric that we want to impact will be affected by that. Experimentation works well when there's a large number of users and a good baseline product (see the [When is an experiment not a good idea?](#when-is-an-experiment-not-a-good-idea) section). 
@@ -94,7 +93,3 @@ Experimenation is an awesome way to improve your product. There are a lot of con
 ## Have an idea for an experiment?
 
 Get in touch with one of the [product designers on Growth](https://about.gitlab.com/company/team/?department=growth-ux-team) or open an issue with the [dedicated template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea).
-
-
-
-
