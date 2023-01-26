@@ -48,7 +48,7 @@ Feelings aside, it can be difficult to sort out how to balance the demands of as
 
 Various pieces of the Handbook can be used to justify a range of behaviors:
 
-- The ["Video Calls" section on the Communication page of the Handbook](/communication/#video-calls) says
+- The ["Video Calls" section on the Communication page of the Handbook](/handbook/communication/#video-calls) says
 > Use video calls if you find yourself going back and forth in an issue/via email or over chat. Guideline: if you have gone back and forth 3 times, it's time for a video call.
 
 - Our ["Bias towards asynchronous communication" operating principle of our DIB Value](/handbook/values/#bias-towards-asynchronous-communication) says:
