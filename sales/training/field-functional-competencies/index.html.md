@@ -58,9 +58,9 @@ To drive efficiency, field team members should leverage the tools and processes 
 # Proficiency Levels
 
 Competency proficiency rating levels align with GitLab’s enterprise-wide performance categories:
-- [Developing](/handbook/people-group/performance-assessments-and-succession-planning/#developing)
-- [Performing](/handbook/people-group/performance-assessments-and-succession-planning/#performing)
-- [Exceeding](/handbook/people-group/performance-assessments-and-succession-planning/#exceeding) 
+- [Developing](/handbook/people-group/talent-assessment/#developing)
+- [Performing](/handbook/people-group/talent-assessment/#performing)
+- [Exceeding](/handbook/people-group/talent-assessment/#exceeding) 
 
 # Practical Application
 
