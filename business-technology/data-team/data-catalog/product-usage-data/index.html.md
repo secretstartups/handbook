@@ -118,7 +118,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. [Data Mart - Metric Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0)
 1. [Event-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
 1. [User-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-1. [Stage and Group Performance Indicators](https://about.gitlab.com/handbook/product/stage-and-group-performance-indicators/)
+1. [Stage and Group Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/)
 1. [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
 
 
