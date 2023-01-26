@@ -65,6 +65,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
         * When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
             * If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template.
         * While the `Social media` field is not required, we highly encourage that the referral's LinkedIn URL is provided.
+        * If your referral is interested in multiple roles, please refer them to their top choice role. In the referral notes you can mention in which roles the person is interested as well. The recruiter will review the referral and take the appropriate action.
 1. Click `Add this referral` and you'll see the referral in the `My Referrals` section of your dashboard.
 1. If you'd like to introduce a candidate to the TA team, but do not have enough information to feel confident making a referral, you can follow the instructions in Greenhouse to share your social referral link with those people rather than submitting a referral on their behalf.
 
