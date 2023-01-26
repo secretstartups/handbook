@@ -155,7 +155,7 @@ The example how variable `NAMESPACE_BACKFILL_VAR` should look like:
 ```
 
 ##### Change the metrics definiton
-In case you want to change the metrics type from **database** to *redis** in the metrics definition file, do the following steps:
+In case you want to change the metrics type from **database** to **redis** in the metrics definition file, do the following steps:
 * Got to metrics definition [page](https://metrics.gitlab.com/)
 * Find the metrics you want to change
 * Press the link, and you will be redirected to the `.yaml` file
