@@ -105,7 +105,7 @@ In addition to the knowledge assessments for each value, you can take this [Know
 
 ### Remote Work Competencies
 1. [Manager of One](/handbook/leadership/#managers-of-one)
-1. [Effective Communication](/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/communication/youtube/)
+1. [Effective Communication](/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/marketing/marketing-operations/youtube/)
 1. [Handbook first](/handbook/handbook-usage/#handbook-first-competency)
 1. [Using GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency)
 
@@ -121,7 +121,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 In addition to our values, remote work, and functional competencies, we have identified manager competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.
 
-1. [Emotional Intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
+1. [Emotional Intelligence](/handbook/leadership/emotional-intelligence/)
 2. [Modeling a Culture of Feedback](/handbook/people-group/guidance-on-feedback/#modeling-a-culture-of-feedback-manager-competency)
 3. [Coaching](/handbook/leadership/coaching/)
 4. [Conflict Resolution](/handbook/leadership/managing-conflict/)
