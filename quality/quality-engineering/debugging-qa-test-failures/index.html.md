@@ -30,6 +30,94 @@ In addition to notifying that a test in their domain fails, enlist help from the
 - **Everyone can fix a test, the responsibility falls on the last who worked on it**: Anyone can fix a failing/flaky test, but to ensure that a quarantined test isn't ignored,
 the last engineer who worked on the test is responsible for taking it out of [quarantine](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/README.md#quarantined-tests).
 
+### Triage flow
+
+The flow of triaging the pipelines as a decision tree (nodes link to the relevant sections of the handbook)
+
+```mermaid
+flowchart TB
+        %% nodes
+        slack_channels{check slack channel}
+        next_channel(move to next slack channel)
+        failed_pipeline(identify failure)
+        existing_issue{issue\nalready\nreported?}
+        new_issue(create issue if does not already exist)
+        tag_pipeline(notate issue in comment on pipeline run)
+        incident{incident\nworthy?}
+        notify_announcements(post in #announcements)
+        open_incident(open incident)
+        eyes(tag pipeline run with :eyes: emoji)
+        fire_engine(replace :eyes: with :fire_engine: emoji)
+        boom(replace :eyes: with :boom: emoji)
+        another_failure{more\nfailures?}
+        investigate(investigate root cause for found failures)
+        notify_groups(notify relevant groups )
+        fix_tests(fix tests if possible)
+        quarantine_tests(quarantine tests if necessary)
+        monitor_incident(participate in incident process)
+    		tag_issue_for_report(add your emoji to issue for the DRI gem)
+		    publish_results(publish your results to the triage issue with the DRI gem)
+		    dri_handoff(handoff to next DRI anything that is still in flight)
+      
+        %% external links
+        click failed_pipeline "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#review-the-failure-logs"
+        click new_issue "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#create-an-issue"
+        click existing_issue "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#known-failures"
+        click investigate "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#investigate-the-root-cause"
+        click incident "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#failure-needs-escalation"
+        click notify_groups "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#notify-group-in-all-cases"
+        click fix_tests "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#fixing-the-test"
+        click quarantine_tests "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#quarantining-tests"
+        click open_incident "https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#failure-needs-escalation"
+        click tag_pipeline "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#linking-issue"
+        click eyes "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
+        click fire_engine "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
+        click boom "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
+      	click tag_issue_for_report "https://gitlab.com/gitlab-org/quality/dri#configuration"
+			  click publish_results "https://gitlab.com/gitlab-org/quality/dri#4-publish"
+
+        %% diagram
+        slack_channels -->|failed pipeline run| eyes
+			  slack_channels -->|no failed pipeline runs| next_channel
+
+				open_incident --> next_channel
+   			another_failure -->|no| next_channel
+        incident -->|yes| notify_announcements
+
+				next_channel --> investigate
+				next_channel --> publish_results
+
+				subgraph report the failure
+				  eyes --> failed_pipeline
+				  failed_pipeline --> existing_issue
+          existing_issue -->|new failure| new_issue
+				  existing_issue -->|existing issue| fire_engine
+					new_issue --> boom
+					boom --> notify_groups
+					notify_groups --> incident
+	    		incident -->|no| tag_issue_for_report
+		    	tag_issue_for_report --> tag_pipeline
+					
+					fire_engine --> tag_issue_for_report
+					tag_pipeline --> another_failure
+					another_failure -->|yes| failed_pipeline
+				end
+
+				subgraph escallate issue
+				  notify_announcements --> open_incident
+				  open_incident --> monitor_incident
+				end
+
+				subgraph follow up on test failures
+				  investigate --> fix_tests
+					investigate --> quarantine_tests
+				end
+					
+				subgraph end of your day
+			    publish_results --> dri_handoff
+				end
+```
+
 ### QA test pipelines
 
 The test pipelines run on a scheduled basis, and their results are posted to Slack. The following are the QA test pipelines that are monitored every day.
@@ -54,6 +142,7 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [GitLab `master` package-and-test](https://gitlab.com/gitlab-org/gitlab/pipelines)     | Full                          | When the `package-and-test` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://storage.googleapis.com/gitlab-qa-allure-reports/e2e-package-and-test/master/index.html) |
 | [GitLab `master` review app](https://gitlab.com/gitlab-org/gitlab/pipelines)                      | Smoke, Reliable                | When the `review-app` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://storage.googleapis.com/gitlab-qa-allure-reports/e2e-review-qa/master/index.html) |
 
+#### Emojis used
 For each pipeline there is a notification of success or failure (except for `master` pipelines, which only report failures).
 If there's a failure, we use emoji to indicate the state of its investigation:
 
@@ -85,6 +174,7 @@ After triaging failed tests, possible follow up actions are:
 Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage responsibilities](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#responsibility) for further guidance.
 
 If there are multiple failures we recommend that you identify whether each one is new or old (and therefore already has an issue open for it). For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
+[](){: name="known-failures"}
 
 The reason for reporting all new failures first is to allow faster discovery by engineers who might find the test failing in their own merge request test pipeline. If there is no open issue about that failure, the engineer will have to spend time trying to figure out if their changes caused it.
 
@@ -99,11 +189,12 @@ Known failures should be linked to the current [pipeline triage report](https://
 1. If the issue has already been reported please use the existing issue to track the latest status.
 1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#classify-and-triage-the-test-failure) via the steps below.
 
+[](){: name="linking-issue"}
 In the relevant Slack channel:
 
 1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
 1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
-1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
+1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.  
 1. If you create a new issue, add a :boom: emoji.
 
 #### Create an issue
@@ -420,11 +511,15 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 
 ### Notify relevant groups about the failure
 
-If the failure is in a `smoke` or a `reliable` test, it will block deployments. Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com you can use `@gitlab-org/release/managers`. In Slack you can use `@release-managers`.
+#### Failure needs escalation
 
-Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. You may also want to post to Quality's Slack channel, `#quality`, depending on the impact of the failure.
+If the failure is in a `smoke` or a `reliable` test, it will block deployments. Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com, you can use `@gitlab-org/release/managers`. In Slack, you can use `@release-managers`.
 
 If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` Slack channel, this will automatically prevent deployments (if the incident is at least an S2).
+
+#### Notify group in all cases
+
+Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. The SET/EM can be identified by looking for who is assigned to that [stage/group](https://about.gitlab.com/handbook/product/categories/#devops-stages). Many tests are tagged with a `product_group` which will help with identification. You may also want to post in Quality's Slack channel `#quality` depending on the impact of the failure.
 
 ## Following up on test failures
 
