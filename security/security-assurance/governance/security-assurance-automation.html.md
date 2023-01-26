@@ -37,6 +37,22 @@ Security Assurance Automation Engineers will respond to new requests within **1 
 
 Once a Security Assurance related automation request is prioritized, Security Assurance Automation Engineers meet with the appropriate stakeholders to identify requirements and expectations. This information gathering process is critical to supporting development and to ensure the final output meets or exceeds initial expectations.
 
+### What does Security Assurance Automation own?
+
+The Security Assurance Automation team is continuously engineering new automated solutions to manual processes. Below are a few projects that the team maintains.
+
+### Feedback Bot
+[The Feedback Bot](https://gitlab.com/gitlab-com/gl-security/security-assurance/feedback-bot) - A bot that enables team members to send private feedback to other team members through Slack.
+
+### Escalation Engine
+[The Escalation engine](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/escalator) - An engine that allows users to take automated actions on issues based on a predetermined set of criteria. The engine runs in a scheduled CI pipeline.
+
+### Dashboarding
+[Sisense Dashboarding](https://app.periscopedata.com/app/gitlab/1092210/ZenGRC_Observations) - Custom dashboards using our analytic tool that integrates with data sources across GitLab.
+
+[Insight Dashboarding](https://docs.gitlab.com/ee/user/group/insights/index.html#configure-your-insights) - Custom issue analytic dashboards native to GitLab.
+
+
 ### Maintenance
 
 Routine and break-fix maintenance of automated controls and processes is performed by Security Assurance Automation Engineers for automation related to the department. Pro-active requests for maintenance can submitted through the [Security Assurance Automation project](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue).
