@@ -58,7 +58,7 @@ No action is needed by the CES team on this step. For additional information:
 - If no response within 48 hours, CES will send a follow up request for availability and set the due date of the issue to 24 hours after the next email to check for availability again.
    - After the 2nd email to candidate with no response, the CES will make the Recruiter aware of the no response and no longer attempt to receive availability. They can close the issue temporarily, and reopen if the Recruiter receives a response from the candidate.
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse and will track preferences within the CES Service Desk [repo](https://gitlab.com/gl-talent-acquisition/ces-service-desk/-/tree/master).
-   - CES will be using the Zoom integration with [Prelude](https://about.gitlab.com/handbook/hiring/interview-schedule/) for interviews
+   - CES will be using the Zoom integration with [Prelude](https://about.gitlab.com/handbook/hiring/prelude/) for interviews
    - After the candidate has provided the availability, as an optional step the CES team members can send the Candidate First Touch Email from Greenhouse if there are scheduling challenges and are pausing on sending the Guide for 24 hours. 
  - This email is sent to inform the candidates that their interview scheduling is in the process and to ensure better engagement with the candidates.
 - If CES sees an alert to merge applicant profiles, and those profiles are a match (candidates' email address, phone number, or resume matches), they will merge the applicant profiles. Visit [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions.
@@ -148,7 +148,7 @@ When a candidate or an interviewer reaches out to CES via slack / email / Guide 
 
 Please ensure you have the [guide Chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your Chrome Browser.
 
-Guide processes can be found [here](/handbook/hiring/resource-guide/).
+Guide processes can be found [here](/handbook/hiring/guide/).
 
 #### If a Candidate Withdraws from the Hiring Process
 

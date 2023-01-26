@@ -25,7 +25,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
-- [Resource Guide](/handbook/hiring/resource-guide/)
+- [Resource Guide](/handbook/hiring/guide/)
 - [Sourcing](/handbook/hiring/sourcing/)
 - [Vacancies](/handbook/hiring/vacancies/)
 
