@@ -9,32 +9,18 @@ title: "Deployments and Releases"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Resources
-
-| Description        | Location            |
-|--------------------|---------------------|
-| Release documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
-| Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
-| Delivery team issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
-| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
-| Deployment process | [Link](/handbook/engineering/deployments-and-releases/deployments/) |
-| Release process | [Link](/handbook/engineering/releases/) |
-| Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
-
-This page describes how code changes are [deployed to GitLab.com](/handbook/engineering/deployments-and-releases/deployments) and [released to Self-Managed users](/handbook/engineering/releases/). 
-
 ## Overview and terminology
-
+This page describes the deployment and release approach used to deliver changes to users. The overall process consists of two significant parts:  
 * **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
-* **GitLab.com deployment**: [Auto-deploy][process-auto-deploy] that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
+* **GitLab.com deployment**: A Continous Delivery process to deploy [branches created from master branch][auto-deploy], on regular intervals. 
+
+
+For more details on the individual processes and how to use them please see the [Deployments page](/handbook/engineering/deployments-and-releases/deployments) for GitLab.com changes and the [Releases page](/handbook/engineering/releases/) for changes for self-managed users. 
+
 
 **The main priority** of both deployments and releases **[is GitLab availability & security](/handbook/engineering/development/principles/#prioritizing-technical-decisions)**
 as an application running on both GitLab.com and for users running GitLab
 in their own infrastructure.
-
-With these two types of releases, GitLab Inc. has to balance _at the same time_
-the workflows normally found in SaaS companies with the ones found in companies
-that publish packaged software.
 
 ### Deployment and Release Process overview
 
@@ -60,6 +46,18 @@ The overall coordination and operation of the deployment and release process is 
 
 See the GitLab [Release Managers schedule] to find out who the current release managers are.
 
+## Resources
+
+| Description        | Location            |
+|--------------------|---------------------|
+| Release documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
+| Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
+| Delivery team issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
+| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Deployment process | [Link](/handbook/engineering/deployments-and-releases/deployments/) |
+| Release process | [Link](/handbook/engineering/releases/) |
+| Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
+
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
 [process-monthly-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md
 [process-patch-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md
@@ -67,3 +65,6 @@ See the GitLab [Release Managers schedule] to find out who the current release m
 [process-security-release-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases
 [process-security-release-non-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases
 [Release Managers schedule]: https://about.gitlab.com/community/release-managers/
+
+
+
