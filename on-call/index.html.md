@@ -49,8 +49,8 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 
 ### Engineering Incident Manager
 
-- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#who-are-the-incident-managers).
-- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#who-are-the-incident-managers). 
+- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
+- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/). 
 
 ### Development Team On-Call Rotation
 
