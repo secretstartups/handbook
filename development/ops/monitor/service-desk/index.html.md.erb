@@ -1,0 +1,301 @@
+---
+layout: handbook-page-toc
+title: "Service Desk Group"
+description: "The Service Desk Group a part of the Monitor Stage of the DevOps lifecycle."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Service Desk
+The **Service Desk** group at GitLab is responsible for building tools that enable support teams to help internal and external customers.
+
+## Exciting things and accomplishments
+This section details the happenings within the Service Desk group. At any given time this section will have the top exciting things and/or accomplishments of the team.
+1.
+1.
+1.
+
+## Peformance Indicators
+
+### PI Dashboards
+
+- [Monitor:Respond error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-respond/stage-groups-group-dashboard-monitor-respond?orgId=1): The Respond Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
+
+
+## Snowplow Events
+Please view this [sisense chart]() for a list of events we have instrumented for Service Desk Events.
+
+
+## Service Ping
+Service Ping is used for self-managed customers.  The table below was generated from https://metrics.gitlab.com/.
+
+## Communication
+
+- Slack channel: [#f_service-desk](https://gitlab.slack.com/archives/C440Z22MC)
+- Slack alias: [TBD]()
+- The Service Desk group team meetings are scheduled on our [Service Desk team calendar]()
+  - The team holds a weekly sync meeting (TBD) and [meetings are recorded]().
+    - 1st week of the month - At the start of the quarter review the [roadmap]() and [product direction]().
+    - 2nd week of the month - Walk through in-progress work on the [workflow dashboard]().
+    - 3rd week of the month - Review the [planning issue]() for the upcoming milestone.
+    - 4th week of the month - Demo new features and showcase any interesting work done within or outside of our team (in-person or recorded demos).
+
+## Team members
+
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+
+## Responsibilities
+{: #monitoring}
+
+This team maps to the [Respond Group](/handbook/product/categories/#respond-group) category and focuses on:
+
+* [Service Desk](https://about.gitlab.com/direction/monitor/service_desk/)
+
+## Dashboards
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Respond" } %>
+
+## Working Agreements
+
+### 🤝 [Collaboration](/handbook/values/#collaboration)
+
+* Anything in an issue description is allowed to change. And YOU'RE allowed to do it. Since we have the description history, we can always go back to an old version with negligible effort.  If making a substantial change to the description, provide some explanation to explain why it's changing. **Issue descriptions are documentation, not a single person's opinion**.
+    * Related: try to keep “I”s out of the issues you write, or differentiate your personal opinions/context by adding a disclaimer/bold/italics.  Personal opinions could also be added to the comments section so that others can respond and discuss them. If a description is less personal, it's easier for anyone else to feel like they can improve or refine it.
+* It's ok to ask people to do things directly. It may feel uncomfortable, but you have to trust that they can manage their own time and priorities.
+    * **"Someone should probably do X."** is a trap. Prefer "Would anyone be willing to do X?" or "Who can take on X?".  Identifying a specific owner for each new task or subtask (write tests, update docs, add a follow-up, etc) will prevent it from getting lost or forgotten.
+* Conversely, it's ok to say no or offer hard limits.
+    * **When you do say "no", propose alternatives or a potential path forward** for that person to get what they want/need.
+
+### 📈 [Results](/handbook/values/#results)
+
+* **Just declare a plan.** If people don't agree, they'll tell you.
+    * If requirements are unclear, ask for help and explain exactly what you're looking for. Prefer questions like "What should happen in scenario X?" to "I'm not sure how Y should work." The responder should be able to tell whether they've unblocked you simply by making sure each of your questions has an answer.
+    * If the discussion has gotten off-track, you can't tell what the action item should be, or you don't have an opinion yourself, make the plan up! Then communicate it.
+* It's also ok to express a direct opinion about what you think is best when presenting a set of options.
+    * It's way easier to engage with your work if you believe in what you're building. Advocate for it.
+* Sometimes it’s necessary to accept risk to make progress.  
+
+### ⏱️ [Efficiency](/handbook/values/#efficiency)
+
+* It's ok to say "I'm so confused, can you explain it differently?"
+* When answering questions or posing questions, **always think "who is my audience, and what info do they need right now?"**
+    * Make it easy for the reader to just pick an option or take action.
+    * If posing a question/problem to multiple groups, **categorize information & label it**. Let the reader choose what they want to read.
+    * A question posed to a designer *should* be different from a question asked of an engineer. Our designer needs to know the impact of the decision on the user, how big of a pain a given solution is, or whether an option has implications for the design down the line. Conversely, an engineer needs to know which code is being discussed, any implicit assumptions that have been made, which requirements are already known, or why certain options have been ruled out. But in either circumstance, you want to provide the responder with exactly what they need to make an informed choice by the time they reach the end of the question/comment.
+
+### 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)
+
+* Communication is hard. Our attention spans are short. If possible, supplement with pictures.
+    * If you are verbose, that's ok. **Include summaries, tldrs, tables, headers, and style your text to make it easier to consume your writing.**
+
+### 👣 [Iteration](/handbook/values/#iteration)
+
+* If you already took an action down one path, but now you need to go a different direction, that's ok. That's iteration. You did not waste time or do anything wrong. You just moved forward.
+
+### 👁️ [Transparency](/handbook/values/#transparency)
+
+* If there's 80% of a decision but still some unknowns, **it can be ok to use "I'm just going to improvise" as the plan** for the remaining pieces. Just state it explicitly in advance & communicate the outcome afterward.
+    * The best path forward is sometimes the path of least resistance. **It often doesn't matter *what* you do, as long as it's well communicated.**
+
+## Issue boards
+
+* [Monitor - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1160198) - Issue board organized by workflow labels
+* [Monitor Bugs](https://gitlab.com/groups/gitlab-org/-/boards/979406) - Issue board organized by Priority labels so that we make sure we meet our bug fix SLA
+
+## Development Processes
+
+### Surfacing blockers
+
+To surface blockers, mention your Engineering Manager in the issues, and then contact them via slack and or 1:1's. Also make sure to raise any blockers in your daily async standup using Geekbot.
+
+The engineering managers want to make unblocking their teams their highest priority. Please don't hesitate to raise blockers
+
+### Scheduling
+
+#### Scheduling issues in milestones
+
+The Product Manager is responsible for scheduling issues in a given milestone. The engineering team will make sure that issues are scoped and well-defined enough to implement and whether they need UX involvement and/or technical investigation.
+
+As we approach the start of the milestone, Engineering Managers are responsible for adding the ~deliverable label to communicate which issues we are committing to finish in the given milestone. Generally, the Engineering Manager will use the prioritized order of issues in the milestone to determine which issues to label as ~deliverable. The Product Manager will have follow-up conversations with the Engineering Managers if the deliverables do not meet their expectations or if there are other tradeoffs we should make.
+
+#### Estimating
+
+We use the following values for estimating the effort of issues to help determine our capacity during the planning process.
+
+- **XS**: 1 to 2 days to merge
+- **S**: 2 days to a week to merge
+- **M**: 1 to 2 weeks to merge
+- **L**: 2 weeks to 1 cycle to merge
+- **XL**: Bigger than 1 cycle (needs to be broken down further)
+
+#### Scheduling bugs
+
+When new bugs are reported, the engineering managers ensure that they have proper Priority and Severity labels. Bugs are discussed in the weekly triage issue and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
+
+#### Scheduling technical debt
+
+As new technical debt issues are created, the engineering manager and product manager will triage, prioritize and schedule these issues.   When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
+
+Priorities for scheduling technical debt will apply as follows:
+- **P1**: Interrupt the current milestone or schedule in the next milestone
+- **P2**: Schedule in the next 1-2 milestones
+- **P3**: To be scheduled at a later date
+- **P4**: Backlog, awaiting higher demand
+
+### Weekly async issue updates
+
+Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
+
+```
+<!---
+Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
+- ~"workflow::in dev"
+- ~"workflow::in review"
+- ~"workflow::verification"
+- ~"workflow::blocked"
+-->
+### Async issue update
+1. Please provide a quick summary of the current status (one sentence).
+1. When do you predict this feature to be ready for maintainer review?
+1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
+```
+
+We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
+
+### Interacting with community contributors
+
+Community contributions are encouraged and prioritized at GitLab. Please check out the [Contribute page](/community/contribute/) on our website for guidelines on contributing to GitLab overall.
+
+Within the Monitor stage, Product Management will assist a community member with questions regarding priority and scope. If a community member has technical questions on implementation, Engineering Managers will connect them with [MR coaches](https://about.gitlab.com/job-families/expert/merge-request-coach) within the team to collaborate with.
+
+### Using spikes to inform design decisions
+
+<!-- this section should be edited to refer to the technical breakdown issue template -->
+Engineers use spikes to conduct research, prototyping, and investigation to gain knowledge necessary to reduce the risk of a technical approach, better understand a requirement, or increase the reliability of a story estimate (paraphrased from [this overview](/handbook/product/product-processes/#spikes)). When we identify the need for a spike for a given issue, we will create a new issue, conduct the spike, and document the findings in the spike issue. We then link to the spike and summarize the key decisions in the original issue.
+
+### Assigning MRs for code review
+
+Engineers should typically ignore the suggestion from [Dangerbot's](https://docs.gitlab.com/ee/development/dangerbot.html) Reviewer Roulette and assign their MRs to be reviewed by a [frontend engineer](https://about.gitlab.com/company/team/?department=monitor-respond-fe-team) or [backend engineer](https://about.gitlab.com/company/team/?department=monitor-respond-be-team) from the Respond Group. If the MR has domain specific knowledge to another team or a person outside of the Respond Group, the author should assign their MR to be reviewed by an appropriate domain expert. The MR author should use the Reviewer Roulette suggestion when assigning the MR to a maintainer.
+
+Advantages of keeping most MR reviews inside the Respond Group include:
+
+* Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
+* Knowledge sharing among the engineers in the Respond Group.
+* Design reviews currently follow a [different process](https://about.gitlab.com/handbook/product/ux/product-designer/mr-reviews/#how-to-assign-mr-reviews). For design reviews, follow the "Reviewer roulette" recommendation (will only be shown if the MR is non-draft and has a ~UX label applied), and ensure you provide context for how to set up the feature they will be testing. For example, for testing alerts:
+
+```
+<!---
+1. Navigate to Settings > Monitor
+1. Expand the Alert section, and click the button to "Enable a new integration"
+1. Select "HTTP endpoint" in the integration type dropdown. Add an integration name, turn the toggle to "active", and click to "Save the integration"
+1. Once the integration is added, click on the settings icon button in the integration table
+1. Click on the "Send test alert" tab
+1. Enter the sample payload shown below, and click send.
+1. Navigate to Monitor > Alerts, where you will see the new alert appear.
+-->
+{  "title": "Gitaly latency is too high",  "description": "https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/gitaly/gitaly-latency.md",  "service": "service not affected",  "monitoring_tool": "GitLab scripts",  "severity": "high", "host": "fe-2" }
+```
+
+### Preparing UX designs for engineering
+
+Product designers generally try to work one milestone ahead of the engineers, to ensure scope is defined and agreed upon before engineering starts work. So, for example, if engineering is planning on getting started on an issue in 12.2, designers will assign themselves the appropriate issues during 12.1, making sure everything is ready to go before 12.2 starts.
+
+To make sure this happens, early planning is necessary. In the example above, for instance, we'd need to know by the end of 12.0 what will be needed for 12.2 so that we can work on it during 12.1. This takes a lot of coordination between UX and the PMs. We can (and often do) try to pick up smaller things as they come up and in cases where priorities change. But, generally, we have a set of assigned tasks for each milestone in place by the time the milestone starts so anything we take on will be in addition to those existing tasks and dependent on additional capacity.
+
+The current workflow:
+
+* Though Product Designers make an effort to keep an eye on all issues being worked on, PMs add the UX label to specific issues needing UX input for upcoming milestones.
+
+* The week before the milestone starts, the Product Designers divide up issues depending on interest, expertise and capacity.
+
+* Product Designers start work on assigned issues when the milestone starts. We make an effort to start conversations early and to have them often. We collaborate closely with PMs and engineers to make sure that the proposed designs are feasible.
+
+* In terms of what we deliver: we will provide what's needed to move forward, which may or may not include a high-fidelity design spec. Depending on requirements, a text summary of the expected scope, a balsamiq sketch, a screengrab or a higher fidelity measure spec may be provided.
+
+* When we feel like we've achieved a 70% level of confidence that we're aligned on the way forward, we change the label to ~'workflow::ready for development' as a sign that the issue is appropriately scoped and ready for engineering.
+
+* We usually stay assigned to issues after they are ~'workflow::ready for development' to continue to answer questions while the development process is taking place.
+
+* Finally, we review MRs following the [guidelines](/handbook/product/ux/product-designer/mr-reviews/) as closely as possible to reduce the impact on velocity whilst maintaining quality.
+
+## Repos we own or use
+* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/ruby/gems/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
+* [GitLab FOSS](https://gitlab.com/gitlab-org/gitlab-foss) and [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives
+* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
+
+## Service accounts we own or use
+
+### Zoom sandbox account
+
+In order to develop and test Zoom features for the [integration with GitLab](https://gitlab.com/groups/gitlab-org/-/epics/1439) we now have our own Zoom sandbox account.
+
+#### Requesting access
+
+To request access to this Zoom sandbox account please open [an issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) providing your **non-GitLab email address** (which can already be associated an existing non-GitLab Zoom account).
+
+The following people are owners of this account and can [grant access](https://zoom.us/account/user) to other [GitLab Team Members](/handbook/communication/top-misused-terms/):
+
+* [Andrew Newdigate](https://gitlab.com/andrewn)
+* [Peter Leitzen](https://gitlab.com/splattael)
+* [Allison Browne](https://gitlab.com/allison.browne)
+
+#### Granting access
+
+1. Log in to [Zoom](http://zoom.us/) with your non-GitLab email
+1. Go to [**User Management > Users**](https://zoom.us/account/user)
+1. Click on `Add User`
+1. Specify email addresses
+1. Choose `User Type` - most likely `Pro`
+1. Click `Add` - the users receive invitations via email
+1. Add the linked name to [the list in "Requesting access"](#requesting-access)
+
+#### Documentation
+
+For more information on how to use Zoom see theirs [guides](https://marketplace.zoom.us/docs/guides) and [API reference](https://marketplace.zoom.us/docs/api-reference/introduction).
+
+## Recurring Meetings
+While we try to keep our process pretty light on meetings, we do hold a [Monitor:Respond Team](https://docs.google.com/document/d/1_z-VJYnobq5UN0PbFoABWLK3PNn9IXlDo8WO51DF2Ls/edit#heading=h.8jytjqyq0he2) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
+
+## Labels
+The Respond team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
+
+### Issue Labels
+
+|                | Label                             | Required            | Description                                               |
+|----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
+| **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
+| **Group**      | `~group::respond`                 | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
+|                | `~frontend`                       |                     |                                                            |
+|                | `~backend`                        |                     |                                                            |
+| **Category**   |                                   | No                 | Identifies the correct [Monitor category](https://about.gitlab.com/direction/monitor/#categories) the issue falls under. |
+|                | `~Category:Service Desk`     |                     |                                                            |
+| **Milestone**  | %#.##                             | No                  | While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty. |
+| **Priority**   |                                   | Yes, when scheduled | If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label. |
+|                | `~deliverable`                    |                     | Issues committed to being completed in the current milestone.  |
+|                | `~filler`                         |                     | Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing. |
+| **Issue Type** |                                   | Yes                 | |
+|                | `~"type::feature"`                |                     | [Feature Issues](/handbook/product/product-processes/#feature-issues) |
+|                | `~"type::bug"`                    |                     | [Bug Issues](/handbook/product/product-processes/#bug-issues) |
+|                | `~technical debt`                 |                     | [Technical Debt](/handbook/product/product-processes/#feature-issues) |
+| **Workflow**   |                                   | Yes                 | |
+|                | `workflow::refinement`            |                     | Issues that need further input from team members in order for it to be `workflow::ready for development`. |
+|                | `workflow::blocked`               |                     | Waiting on external factors or another issue to be completed before work can resume. |
+|                | `workflow::ready for development` |                     | The issue is refined and ready to be scheduled in a current or future milestone. |
+|                | `workflow::in dev`                |                     | Issues that are actively being worked on by a developer. |
+|                | `workflow::in review`             |                     | Issues that are undergoing code review by the development team. |
+|                | `workflow::verification`          |                     | Everything has been merged, waiting for verification after a deploy. |
+
+### Deliverable Labels
+In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
+
+## Respond PTO
+Just like the rest of the company, we use [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-deel whosout` command in the `#g_respond_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
