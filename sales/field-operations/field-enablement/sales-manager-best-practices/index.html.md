@@ -48,7 +48,7 @@ description: "Successful management includes onboarding, reviewing Command Plans
 
 ## Performance Management
 
-*   [Performance Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
+*   [Performance Assessment and Succession Planning](/handbook/people-group/talent-assessment/)
 *   [Performance Management Overview for Sales Managers](https://youtu.be/mIPFhq0Th1w) (May 2020, 18 minutes, private)
 
 ## Leadership Handbook 
