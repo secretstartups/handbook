@@ -26,7 +26,7 @@ If taking time off for medical needs or sick time, whether physical or mental, p
  
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-## A GitLab Team Members Guide to Time Off
+## A GitLab Team Member's Guide to Time Off
 
 A support engineer remarked that “In the 3 months I've been at GitLab, I've taken more time off than the last 2 years at my previous job.”
 
@@ -40,7 +40,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
 1. As of 2022-05-01, we’ve created a Flexible PTO policy to better outline communication expectations for team members and managers. This means that:
     * Our move to a Flexible PTO policy means that as long as you have coordinated your planned time off with your manager, you are free to take PTO. There continues to be no set limit per year on the amount of PTO a team member can take.
-    * As a guideline, you should inform your manager of your planned PTO at least twice as many days advance notice as the total amount of days that you plan to take off. For example, if you plan to take 3 days off, you should let your manager know at a minimum of 6 business days before.
+    * As a guideline, you should inform your manager of your planned PTO at least twice as many days in advance as the total number of days that you plan to take off. For example, if you plan to take 3 days off, you should let your manager know at a minimum of 6 business days before.
     * If your planned leave exceeds the 25 calendars days (including weekends and holidays), please make sure to reach out to your Manager, relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), and the Absence Management Team at `leaves@gitlab.com` for a special request. You will need additional permission if you want to take more than 25 consecutive calendar days (including weekends and holidays) off. The 25 calendar day limit is per vacation, not per year. You can have multiple vacations per year that add up to more than 25 calendar days in total; there is no limit to this.
     * When planning your time off make sure your manager is aware of your absence by telling your manager about your plans. Documenting specific dates you’ll be away can be done by using [PTO by Deel](#pto-by-deel) as it will create an event, capture your out-of-office dates in Workday, and notify your manager.
     * What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time. Some departments have specific windows during the quarter where the team’s presence is critical to accomplishing key results. Check out your departments’ handbook page for more information if applicable.
