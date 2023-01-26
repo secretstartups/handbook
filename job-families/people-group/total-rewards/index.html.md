@@ -274,8 +274,8 @@ The Director, Total Rewards is a [grade 10](/handbook/total-rewards/compensation
 - Keep it efficient and DRY.
 
 ## Total Rewards Performance Indicators
-- [Percentage over compensation band](/handbook/people-group/people-operations-metrics/#percent-over-compensation-band)
-- [Average location factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
+- [Percentage over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
+- [Average location factor](/handbook/people-group/people-group-metrics/#average-location-factor)
 - [New hire location factor](/#new-hire-location-factor)
 - [Pay equality](/company/culture/inclusion/#performance-indicators)
 

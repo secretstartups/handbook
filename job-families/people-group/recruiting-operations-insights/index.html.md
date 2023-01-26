@@ -192,7 +192,7 @@ The Senior Manager, Recruiting Operations and Insights is a [grade 9](/handbook/
 
 ### Performance Indicators
 
-* [Average Location Factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
+* [Average Location Factor](/handbook/people-group/people-group-metrics/#average-location-factor)
 * [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
 * [Candidates Sourced by Recruiting Department vs. Candidates Hired](/#candidates-sourced-by-recruiting-department-vs-candidates-hired)
 * [Hires vs. Plan](/#hires-vs-plan)

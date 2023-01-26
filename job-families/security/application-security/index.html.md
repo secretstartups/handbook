@@ -151,7 +151,7 @@ In addition to the general requirements for [Application Security Engineers](#ma
 * Experience working for or closely with the United States government or associated contractors. 
 * Ability and willingness to obtain a federal security clearance should it be necessary to perform job responsibilities.
 * Experience working with Defense Information Security Agency (DISA) Security Technical Implementation Guides (STIGs). 
-* Successful completion of a [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks).
+* Successful completion of a [background check](https://about.gitlab.com/handbook/people-policies/).
 
 #### Responsibilities
 
