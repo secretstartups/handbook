@@ -45,12 +45,13 @@ The process is comprised of five key stages:
     1. Concise roadmap overview with a focus on near-term plans
     1. [GitLab roadmap](https://about.gitlab.com/direction/) fit - discuss which features could be built into GitLab and into which product stage
     1. Start the discussion about what an integration into GitLab's code base will look like
+
+    A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](/handbook/legal/).
 1. Initial internal review: preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](/direction/) as well as integration options into GitLab. If the product lead is supportive of moving forward towards developing a more in depth business case, confirm whether the proposed acquisition can be funded with planned headcount allocations. Otherwise, set up a discussion with the Chief Product Officer before proceeding with further diligence.
 
 ### Early Diligence
 
 1. Select [code name](#acquisitions-are-confidential) to use instead of target company name. Update Slack channel: `#project-code_name`.
-1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
 1. [Form the acquisition team](#acquisition-team) and add the entire team to the channel and documents.
 1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale and a successful integration process. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary diligence - below is a list of documents to share with GitLab:
