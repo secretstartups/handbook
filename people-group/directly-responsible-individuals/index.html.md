@@ -39,7 +39,7 @@ We would much rather foster a culture where DRIs are willing to put their ideas 
 
 As part of a Harvard Business School case study [interview](https://youtu.be/jdN5mj5ieLk) (shown above), GitLab co-founder and CEO Sid Sijbrandij spoke with Professor Prithwiraj Choudhury on various elements of GitLab's all-remote structure, including a question on DRIs.
 
-> How do we get the best of consensus organizations? When we're about to make a decision, we [tell everyone](/handbook/communication/#making-a-companywide-announcement). Everyone can give input.
+> How do we get the best of consensus organizations? When we're about to make a decision, we [tell everyone](/handbook/communication/). Everyone can give input.
 >
 > How we keep the best of hierarchical organizations is by having a DRI — one person who will decide.
 >
