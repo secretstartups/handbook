@@ -60,7 +60,7 @@ These Fulfillment Reseller Flow-Through Terms (the “Agreement”) are made as 
 - not make any misrepresentations in relation to the GitLab Products and Services;
 - use GitLab's trademarks and trade names relating to the GitLab Products and Services only in the registered or agreed style in connection with the resale of the GitLab Products and Services and shall not use such trademarks or trade names in connection with any other products or services or as part of the corporate or any trade name of Partner;
 - not alter, obscure, remove, interfere with or add to any of the trademarks, trade names, markings or notices affixed to or contained in the GitLab Products and Services; and
-- Comply with the GitLab Partner Code of Ethics as found at https://about.gitlab.com/handbook/people-operations/code-of-conduct/.
+- Comply with the GitLab Partner Code of Ethics as found athttps://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/.
 
 3.7 Fulfillment Reseller shall not purchase, use, or deploy GitLab Products under this Agreement for Fulfillment Reseller’s internal purposes (“Internal Use”). In the event Fulfillment Reseller desires to purchase, use, or deploy GitLab Products for Internal Use, the Parties shall enter into an Order Form and such Internal Use shall be subject to either: (i) the GitLab Terms and Conditions, or, (ii) (if applicable) a definitive agreement executed between GitLab and Fulfillment Reseller which specifically contemplates Fulfillment Reseller Internal Use. 
 
