@@ -198,7 +198,7 @@ The team follows GitLab meeting practices and standards.
 - All agendas are stored in the Enterprise Applications [google drive](https://drive.google.com/drive/folders/1kJiUhuW78WEP1LSx6UHpuofo1ktOsKer).
 
 ### No-Meetings Fridays
-While we can't promise we'll never have meetings on Fridays, the team has adopted [No Meetings Fridays](/handbook/communication/#no-meetings-fridays), and uses these days for focus work.
+While we can't promise we'll never have meetings on Fridays, the team has adopted [No Meetings Fridays](/handbook/communication/), and uses these days for focus work.
 
 ### Recurring Meetings
 

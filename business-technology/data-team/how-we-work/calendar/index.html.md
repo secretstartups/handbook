@@ -24,7 +24,7 @@ When creating an event for the entire Data Team, it might be helpful to check th
 
 ### No-Meetings Fridays
 
-While we can't promise we'll never have meetings on Fridays, the team has adopted _[No Meetings Fridays](/handbook/communication/#no-meetings-fridays)_.
+While we can't promise we'll never have meetings on Fridays, the team has adopted _[No Meetings Fridays](/handbook/communication/)_.
 
 ### Bias For The Maker's Schedule
 

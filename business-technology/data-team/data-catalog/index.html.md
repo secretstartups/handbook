@@ -176,7 +176,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [Namespace](https://docs.gitlab.com/ee/user/group/#namespaces)
 * NDR: [Net Dollar Retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 * PQL: [Product Qualified Lead](/handbook/product/product-principles/#product-qualified-leads-pqls)
-* [Product Stage](/handbook/product/product-categories/#devops-stages)
+* [Product Stage](/handbook/product/categories/#devops-stages)
 * SM: [Self-Managed aka Self-Hosted](/features/)
 * UPA: Ultimate Parent Account
 * xMAU: [x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
