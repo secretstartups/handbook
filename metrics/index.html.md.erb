@@ -95,14 +95,7 @@ These handbook dashboard pages are populated from the following filterable Sisen
 #### How to navigate Engineering Metrics Dashboards
 To navigate to section metrics, click on the `___ Section Dashboards` link above. To navigate to stage metrics, click on the `___ Stage Dashboards` link above or redirect from the section dashboards pages. To navigate to group metrics, find the stage that contains the group and click on the corresponding `___ Stage Dashboards` link above.
 
-Group metrics can be queried using labels or determining which group the team member is a part of.
-
-**Label Based**: For example, the `~"group::authentication and authorization"` label is used to query MRs or issues belonging to the Authentication and Authorization group. If a group is missing from the filter dropdown in the embedded dashboards above, check if it’s included in this [spreadsheet](https://docs.google.com/spreadsheets/d/1_IFiLaHK9BfpaomwFU864OQWjVgXR3jokwOKIuhXLd8/edit#gid=0). If it’s missing, add a new row with the corresponding stage and section. This spreadsheet flows to our data warehouse once a day so you may not see updates in Sisense until the next day. In order to display this new group in the handbook dashboard pages, please reach out to a member of the [Engineering Analytics Team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#how-to-engage-with-us) to get this added to the handbook dashboard page filters.
-
-**Author Based**: A common metric using author based metric methodology is [MR Rate](https://about.gitlab.com/handbook/engineering/metrics/#merge-request-rate). Instead of looking at labels to determine what group this MR belongs to, we look at the team member who authored the MR to determine the group. Specifically, we use the `job title specialty` field in Bamboo HR. Per the [handbook](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr), managers are responsible for updating the `job title speciality` field in for any/all specialty changes.
-* Troubleshooting #1: Ensure that your job title specialty is entered in Bamboo HR. A missing value means you aren't being counted in the metrics.
-* Troubleshooting #2: If a team member isn’t counted in the organization metrics but their group information (job title specialty) is correct in Bamboo HR, check that the [notification email in their GitLab.com profile](https://gitlab.com/-/profile/notifications) matches the work email in Bamboo HR. We use this email to connect MRs back to the team member. If there is a mismatch, update the Bamboo HR profile email to match the [GitLab.com notification email](https://gitlab.com/-/profile/notifications).
-* Troubleshooting #3: If a group was recently added or moved to a different section, update this [mapping file](https://docs.google.com/spreadsheets/d/1_IFiLaHK9BfpaomwFU864OQWjVgXR3jokwOKIuhXLd8/edit#gid=0). This mapping file links each job title speciality to the corresponding stage and section and flows to our database once a day.
+Group metrics can be queried using labels. For example, the `~"group::authentication and authorization"` label is used to query MRs or issues belonging to the Authentication and Authorization group. If a group is missing from the filter dropdown in the embedded dashboards above, check if it’s included in this [spreadsheet](https://docs.google.com/spreadsheets/d/1_IFiLaHK9BfpaomwFU864OQWjVgXR3jokwOKIuhXLd8/edit#gid=0). If it’s missing, add a new row with the corresponding stage and section. This spreadsheet flows to our data warehouse once a day so you may not see updates in Sisense until the next day. In order to display this new group in the handbook dashboard pages, please reach out to a member of the [Engineering Analytics Team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#how-to-engage-with-us) to get this added to the handbook dashboard page filters.
 
 ### Metrics list
 
@@ -112,7 +105,7 @@ The Engineering Analytics team reserves the urgency for these dashboards to prov
 #### Development indicators
 
 * MRs vs Issues
-* [MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+* [MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mr-rate)
 * [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 * MRs by team members vs Community
 * [Merged Product MRs by Type](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
@@ -156,7 +149,7 @@ Merge Request (MR) Rate is a measure of productivity and efficiency. The numerat
 
 MR Rate begins with an `[Identity]` prefix which defines the group of people (the denominator) taken into calculation. This is usually a Division, Department, Sub-Department, or Team name from our [Organizational Structure](/company/team/structure/#organizational-structure). The calculation for MR rate is the number of authored MRs by the team members divided by the number of team members in the group. `~group::*` labels are **not** used to filter the authored MRs. For example:
 * [Engineering MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate)
-* [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+* [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate)
 
 Previously MR Rate was called "Narrow MR Rate," but [that term was removed](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78269).
 
