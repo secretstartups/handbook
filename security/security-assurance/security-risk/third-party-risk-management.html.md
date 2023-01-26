@@ -153,10 +153,10 @@ The following table describes the procedures followed by TPRM engineers for vend
 
 GitLab TPRM Engineers reserve the right to perform additional procedures at their professional discretion.
 
-| Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and Successful Failover Report |
+| Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |------ |------ |
 |Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	If applicable|	Yes|	If applicable| Yes |
-|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| No |
+|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
 |Orange	|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
 |Yellow	|-|	-|	-|	-|	-|	-| No |
 |Green	|-|	-|	-|	-|	-|	-| No |
