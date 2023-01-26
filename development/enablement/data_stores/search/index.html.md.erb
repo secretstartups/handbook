@@ -103,6 +103,15 @@ We use the Fibonacci rating system to assign weights to Search issues. Below are
 | 3      | Medium effort |
 | 5      | High effort |
 
+### MR reviews
+
+We have the following guidelines for doing reviews on Global Search Team MRs:
+
+* The MR author is responsible for deciding if the initial or maintainer reviews should be done by a Global Search Team member and can indicate that in a comment or by assigning the reviewers.
+* Draft status indicates that the MR is not ready to be merged, but the author could decide to assign a reviewer while in draft mode. Unless a review is urgent, the author should wait for the pipeline to pass before assigning a reviewer.
+* We use [Conventional Comments](https://conventionalcomments.org/) to communicate effectively in review comments.
+* The merge request author resolves only the threads they feel they have fully addressed and all discussions have been closed, anything else is resolved by the reviewer. When a merge request has many threads, it is helpful for the reviewer to go back to open threads to pick up where the previous discussions were left off.
+
 ### Oncall escalation coverage
 
 As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other groups to cover the on-call escalation when we are understaffing, especially during the holiday seasons. In general, we will follow the [dev](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) on-call process. The Elasticsearch domain experts, identified by domain_expertise on their profile, may be contacted when SRE and dev on-call engineers cannot resolve the production incidents. We don't expect the domain experts to work outside their normal working hours. In case of emergency, we will follow the rules and best practices outlined in our [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) handbook. To assist team members in catching up on the latest development status and resolving potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
