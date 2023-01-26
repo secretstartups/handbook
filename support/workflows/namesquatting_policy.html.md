@@ -14,7 +14,7 @@ subcategory: Accounts
 
 ### Overview
 
-According to the [statement of support](/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of paid namespace) or [sales approved prospects](../internal-support/#trials-and-prospect-support). You can identify a sales approved prospect by the following properties:
+According to the [statement of support](/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of a paid namespace or a self-managed customer migrating to SaaS) or [sales approved prospects](../internal-support/#trials-and-prospect-support). You can identify a sales approved prospect by the following properties:
 
 - The user would be in an org where the SFDC ID is `PRIORITY PROSPECT`
 - The name of the org would start with `PP:`
