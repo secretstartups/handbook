@@ -90,7 +90,7 @@ Advisory Services typically follow a 3-step approach:
 ## How to order
 
 Ordering services is done through an **Off-the-shelf SKU** or a custom-scoped **Statement of Work**.  See the [selling services workflow](/handbook/customer-success/professional-services-engineering/selling/) for more details.
-For custom SOW's, initiate a scoping issue to capture the requirement using the [Services Calculator](https://services-calculator.gitlab.io/), and collaborate with your local [Professional Services Engagement Manager](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/).
+For custom SOWs, initiate a scoping issue to capture the requirement using the [Services Calculator](https://services-calculator.gitlab.io/), and collaborate with your local [Professional Services Engagement Manager](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/).
 
 ## Resources
 
