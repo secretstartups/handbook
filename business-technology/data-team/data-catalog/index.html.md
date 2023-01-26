@@ -123,7 +123,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 ## Dashboards
 
 * [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
-* [Growth Dashboards](/direction/growth/#dashboards)
+* [Growth Dashboards](/handbook/marketing/growth/)
 * [Junkmail Domain Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/939155/Growth:Conversion-SaaS-PII-Trial-Analysis)
 
 ## Analytics Projects
@@ -135,8 +135,8 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
 * [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
 * [2021-10 SpO Retention Analysis](https://docs.google.com/presentation/d/1RR5qwaE2E2OUtfSgU53GMs8FHjexNx2CFJcUbtiNS-0/edit#slide=id.g29a70c6c35_0_68)
-* [Growth Insights](/direction/growth/#insights)
-* [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
+* [Growth Insights](/handbook/marketing/growth/)
+* [Concluded Growth Experiments](/handbook/marketing/growth/)
 * [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
 
 # Customer Success

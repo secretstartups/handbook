@@ -279,7 +279,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	Sales - Field Operations	|		|		|	
 |	|		|		|		|		|		
 |	[**Product**](/handbook/product/)	|		|		|		|		|		
-|	[Growth](/direction/growth/)	|	@s_awezec 	|	[#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV)	|	Monthly x-functional series	|		|
+|	[Growth](/handbook/marketing/growth/)	|	@s_awezec 	|	[#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV)	|	Monthly x-functional series	|		|
 |	[Product Data Insights](/handbook/product/product-analysis/)	|	@cbraza	|	[#data](https://gitlab.slack.com/archives/C8D1LGC23)	|	Weekly (team meeting), Bi-weekly (office hours), X-functional series	|		|
 |	|		|		|		|		|		
 |	**Engineering**	|		|		|		|		|		|		|
