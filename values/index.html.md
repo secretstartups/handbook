@@ -96,7 +96,7 @@ If you are unhappy with anything (your duties, your colleague, your boss, your s
 
 ##### Say thanks
 {:.no_toc}
-Recognize the people that helped you publicly, for example in our [#thanks chat channel](/handbook/communication/internal-communications).
+Recognize the people that helped you publicly, for example in our [#thanks chat channel](/handbook/people-group/employment-branding/people-communications/).
 
 When publicly thanking, it's important to recognize the following:
 
@@ -112,7 +112,7 @@ When providing feedback, always make it about the work itself;
 focus on the business impact and not the person.
 Make sure to provide at least one clear and recent example.
 If a person is going through a hard time in their personal life, then take that into account.
-An example of giving positive feedback is our [thanks chat channel](/handbook/communication/internal-communications).
+An example of giving positive feedback is our [thanks chat channel](/handbook/people-group/employment-branding/people-communications/).
 For managers, it's important to realize that team members react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one.
 Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself.
 In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the team member's performance going forward.
