@@ -680,6 +680,9 @@ For more information on ARR calculation for Contract Resets, see [ARR in Practic
 
 Concurrent Subscriptions are two unique subscriptions (instances) for Self Managed and SaaS issued for the purpose of supporting a large customer migration over an extended period. **This does not allow the customer to use Self Managed and SaaS on the same instance.** 
 
+SaaS Subscription with Privilege Access Token (P.A.T) cannot be extended via trial. If your client (almost) expired subscription with P.A.T need to be extended, a $0 order for 1 month new subscription is required. **Rep  will build new opportunity & new sub quote (Initial Term & Renewal Term = 1 month), then collaborate with Deal Desk tag `@Sales-Support` and [legal](https://about.gitlab.com/handbook/legal/customer-negotiations/#requesting-content) to finalize the Order Form.**
+
+
 Approvals for this deal strucutre will follow the [standard approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.f8920bj8v6l9).
 
 **Deal Structure Requirements** 
