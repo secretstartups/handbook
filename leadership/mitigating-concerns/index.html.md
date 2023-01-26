@@ -227,7 +227,7 @@ To keep our pace, we need to:
 1. Ensure we get [8 Merge Requests (MRs) per engineer per month](/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month)
 1. Have [acquired organizations](/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/)
 1. Have a [quality group](/handbook/engineering/quality/) that keeps our developer tooling efficient
-1. Achieve our [category maturity targets](/handbook/product/metrics/#category-maturity-achievement)
+1. Achieve our [category maturity targets](/handbook/product/performance-indicators/)
 1. Ensure each [group has non-overlapping scope](/company/team/structure/#product-groups)
 
 We were voted [The World's Most Productive Remote Team](https://noonies.hackernoon.com/award/cjxvsz6576k8u0b40czyb7xhj) by HackerNoon.
