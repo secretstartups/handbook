@@ -674,7 +674,7 @@ We have intentionally provided a longer timeline to ensure different business gr
  
 ## Succession Planning
 
-Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group](https://about.gitlab.com/company/team/structure/#s-group) and depending on structure the [Director-Group](https://about.gitlab.com/company/team/structure/#director-group)), a recommended next step following the Performance/Growth Potential assessment is to do succession planning. 
+Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment](/handbook/people-group/talent-assessment/) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group](https://about.gitlab.com/company/team/structure/#s-group) and depending on structure the [Director-Group](https://about.gitlab.com/company/team/structure/#director-group)), a recommended next step following the Performance/Growth Potential assessment is to do succession planning. 
 
 Succession planning ensures we are identifying and developing future GitLab leaders to ensure business continuity in the event of an unforeseen change, and providing the current leadership team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership team by developing our internal bench of talent. Note, potential alone does not determine who will be a successor. Strong succession candidates should demonstrate sustained exceeding performance and growth, aspire to have a role at the next level, and be ready for a much larger role in the near term. 
 
@@ -692,7 +692,7 @@ Questions we should ask ourselves when thinking about succession planning (and t
 
 The succession planning process might vary slightly for different areas of the business depending on size and structure, but at a high level the process should flow as follows:
 
-1. **Leaders go through the [Performance/Growth Potential Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) process for all of their direct reports.** Ideally, this process includes [calibration](/handbook/people-group/talent-assessment/#calibration-session-guidelines) to generate a level of initial familiarity amongst leadership peers with the talent in the organization. 
+1. **Leaders go through the [Performance/Growth Potential Assessment](/handbook/people-group/talent-assessment/#the-performancepotential-matrix) process for all of their direct reports.** Ideally, this process includes [calibration](/handbook/people-group/talent-assessment/#calibration-session-guidelines) to generate a level of initial familiarity amongst leadership peers with the talent in the organization. 
 2. **Leaders identify and document their respective successors** (and emergency coverage plans if the identified successor could not currently cover in an emergency situation) leveraging [this template](https://docs.google.com/presentation/d/1w-ODnm-S_sV7TAEDqfU6kUpZqr7-cDIFwAlPZI10HzU/edit#slide=id.p). 
 3. **Succession plans are reviewed with peers** (I.E. all other executives, all other senior leaders in the function, etc.) and your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), ideally during a synchronous session to facilitate discussion and questions. 
 4. **Development plans are finalized** for successors and documented in the successor slide.
@@ -748,8 +748,8 @@ If the team member were to leave there would be:
 
 Performance and being identified as key talent can influence one another, but they are _not directly related_. For example:
 
-- A team member that has a performance assessment of [“exceeding”](/handbook/people-group/performance-assessments-and-succession-planning/#exceeding), is not automatically indicated as key talent. Perhaps they are doing exceptionally well in their role, but the impact to the business would not be considered “critical” if they were to leave.
-- A team member that is new to the role and still ["developing"](/handbook/people-group/performance-assessments-and-succession-planning/#developing) could be identified as key talent if they work in an area of the business that is highly specialized and particularly difficult to hire for. 
+- A team member that has a performance assessment of [“exceeding”](/handbook/people-group/talent-assessment/#exceeding), is not automatically indicated as key talent. Perhaps they are doing exceptionally well in their role, but the impact to the business would not be considered “critical” if they were to leave.
+- A team member that is new to the role and still ["developing"](/handbook/people-group/talent-assessment/#developing) could be identified as key talent if they work in an area of the business that is highly specialized and particularly difficult to hire for. 
 
 _Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values._
 
@@ -771,7 +771,7 @@ The process to determine Key Talent is as follows:
 
 A very small portion of our business (roughly ~10% of the population) is considered to be key talent. As such, a team members’ value in the organization should not be determined based on whether or not they are identified as key talent. 
 
-While some team members are identified as key talent, this does not mean the rest of our team is not valued and important to our organization’s success. Aligned with our [expected performance distribution](/handbook/people-group/performance-assessments-and-succession-planning/#expected-distribution-company-wide), approximately 60-65% of our team are core performers (or ["performing"](/handbook/people-group/performance-assessments-and-succession-planning/#performing)). Core performers are responsible for keeping things consistently moving forward. This group comprises the largest population in companies across the board for a reason and is an essential part of any organization’s success. 
+While some team members are identified as key talent, this does not mean the rest of our team is not valued and important to our organization’s success. Aligned with our [expected performance distribution](/handbook/people-group/talent-assessment/#expected-distribution-company-wide), approximately 60-65% of our team are core performers (or ["performing"](/handbook/people-group/talent-assessment/#performing)). Core performers are responsible for keeping things consistently moving forward. This group comprises the largest population in companies across the board for a reason and is an essential part of any organization’s success. 
 
 ## Impact of Being Identified as Key Talent 
 

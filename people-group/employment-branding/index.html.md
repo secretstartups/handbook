@@ -291,7 +291,7 @@ Here are samples of the statements team members were asked to consider:
 
 ### Team member turnover
 
-[Defined](/handbook/people-group/people-operations-metrics/#team-member-turnover) on the People Group Metrics page.
+[Defined](/handbook/people-group/people-group-metrics/#team-member-turnover) on the People Group Metrics page.
 
 ### Team member referrals
 
