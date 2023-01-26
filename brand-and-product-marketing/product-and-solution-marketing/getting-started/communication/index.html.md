@@ -11,7 +11,7 @@ title: "Keeping Yourself Informed"
 
 ## Communications within Product and Solution  Marketing
 
-As a distributed organization, GitLab and [our Product and Solution Marketing department and teams](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) use [asynchronous](/handbook/communication/internal-communications), [transparent](/handbook/values/#transparency), [frequent](/handbook/values/#iteration), and [multimodal communication](/handbook/communication/#multimodal-communication) to keep ourselves informed.
+As a distributed organization, GitLab and [our Product and Solution Marketing department and teams](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) use [asynchronous](/handbook/people-group/employment-branding/people-communications/), [transparent](/handbook/values/#transparency), [frequent](/handbook/values/#iteration), and [multimodal communication](/handbook/communication/#multimodal-communication) to keep ourselves informed.
 
 Our most important communication channels are issues, boards, and GitLab itself, followed by [this handbook](/handbook/), Slack, Zoom, and other tools. See [the general GitLab Communication page](/handbook/communication/) and [Tools and Tips](/handbook/tools-and-tips/) for more information.
 
@@ -30,7 +30,7 @@ _Reminder: Slack data are only retained for 90 days. If you share, discover, or 
 
 #### GitLab
 ##### Read all of
-* [#whats-happening-at-gitlab](https://gitlab.slack.com/messages/C0259241C): usually redundant with [company calls](/handbook/communication/#company-call) but keep up with
+* [#whats-happening-at-gitlab](https://gitlab.slack.com/messages/C0259241C): usually redundant with [company calls](/handbook/communication/) but keep up with
 * [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN): company-wide announcements channel
 * [#contribute2020](https://gitlab.slack.com/messages/CLERRHMC2): until and around [the big event, March 22-27, 2020](/events/gitlab-contribute/)
 
