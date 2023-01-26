@@ -19,75 +19,27 @@ As a result, Engineering will begin communicating with Product **6 weeks before 
 
 As this is earlier than the typical company timeline for OKRs, the exact timeline may shift depending on the [CEO OKR timeline](/company/okrs/#okr-process-at-gitlab), and drafting should begin based on top business need including [top initiatives](/company/top-cross-functional-initiatives/), [3 year strategy](/company/strategy/#three-year-strategy), and especially [FY direction](/direction/).
 
-## Ally.io for OKRs
-As of 2021-05-01 the Product and Engineering Divisions are using a third-party vendor, [Ally.io](https://ally.io/), for OKRs.
+## OKR Kickoff
 
-1. OKR owners should author new OKRs in their corresponding Department/Sub-department/Compartment/Team in Ally.
-   - In Ally, navigate to your Team by selecting **All Teams** from the lefthand side. If you do not see your team, contact your manager.
-   - Verify you are in your Team and in the relevant Fiscal Quarter, and click **Add an Objective**
-   - Enter the title of the Objective. Starting in FY22-Q2 in Ally, we **will not** reference the FY, Quarter, type of OKR/KR, or score in the title. These are all calculated and tracked automatically in Ally
-   - Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assign to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
-   - If related to a GitLab Issue, link the GitLab Issue in the description **(More Options > Description)**. We are currently working with Ally on their [GitLab integration](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/6).
-   - Define how the **Outcome** will be measured (a numeric K/RPI with starting value and target is preferred)
-   - Select how **Progress** will be tracked
-   - Using the search and filters such as the time period, **Align** your OKR to one or multiple parent OKRs if applicable. Alignment needs to be configured from child up to parent.
-1. Get approval from your manager
-   - Once your OKRs are entered into Ally, review them with your manager in your next 1:1 to obtain feedback.
-   - Once approved, the manager will comment their approval on the OKRs in Ally
-1. OKR Status
-   - Update the OKR **whenever you have additional information** so that the OKR in Ally represents the current status of the OKR
-   - Provide your manager an update in **each weekly 1:1**
+This process should begin no later than two weeks before the end of the preceding quarter. And kickoff should happen on or before the first day of the new quarter.
 
-### Embed Ally OKR in Handbook
-Ally has provided a feature that allows you to embed OKR views into our Handbook. This is done via a sharing option that produces an embeddable iFrame link.
-This option is available for any "OKR View." For example, you might embed OKRs from the "Active period" view (current quarter) or the "Previous period" (last quarter), or you might embed granular views of Sub-Team OKRs. The embedded OKRs use a dynamic link that automatically updates each quarter without additional effort.
+If you need guidance on writing OKRs, please refer to the [fundamentals of OKR at GitLab](/company/okrs/#fundamentals-of-impactful-okrs), which includes OKR examples and additional resources.
 
-- In Ally, navigate to your desired department.
-- Click the dropdown in the upper-left of the screen, and select the desired OKR view (for example, "Active period OKRs").
-- Next to the dropdown, click the "Three Horizontal Dots" button.
-- Select the "Share" option.
-- Select the "Embed" tab.
-- Click the "Generate Link" button.
-- Optionally, expand "Customize view," and toggle one or more customization options:
-  - Include/Exclude First-level children
-  - Include/Exclude Owner
-  - Include/Exclude Team
-  - Include/Exclude KR Status
-  - Include/Exclude KR other Status attributes, Progress bar & Metric
-- Click "Preview" to see what your embed will look like.
-- Once satisfied, copy the link. (Note that there is a "Copy Link" button.)
-- Create your Handbook MR. In your location of choice, add the following iFrame code, with the copied URL replacing the text `INSERT_URL_HERE`.
+1. OKR owners should author OKRs.
+1. Get approval **prior to the first day of the quarter** from your manager.
+    - Use 1:1 with CTO to review
+    - For everyone else: Ask you manager to do an async review of your OKRs, or discuss in a 1:1.
+1. Communicate dependencies to other divisions, departments, or teams. Encourage them to take on corollary OKRs.
 
-``` markdown
-<iframe src="INSERT_URL_HERE" class="dashboard-embed" height="1500" width="100%" style="border:none;"> </iframe>
-```
+## Scoring guidelines
 
-- You can adjust the iFrame height. We've found that, in general, `1400` to `1500` is optimal for Engineering's structure (3 OKRs x 3 KRs).
-- Preview the MR in the Review App and merge.
+We will use the following guidelines for consistency.
 
-### Feature Requests
-
-We are actively tracking the following important feature requests to improve our workflow efficiency.
-
-* [Handbook embedding](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/10)
-* [GitLab Integration](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/6)
-
-### Guidelines
-
-We will use the following guidelines to a clear standard and consistency.
-
-* We drop the OKR: and KR: Prefixes. Objectives and key results are a single object in Ally so you can fluidly make someone else’s OKR, one of your KRs.
-* All Ally KRs should have a link to a GitLab issue if it exists. GitLab issue should be in the Ally KR Description.
-* Ally labels are used for additional information that Ally does not have a dedicated field for examples `“CultureAmp Survey Action Item”`, `“ReverseAMA Action Item”`
-  * Do not use Ally labels for Team, Time periods or normal OKR attributes. Ally should already handle this.
-* Don’t create a KR object if it only has one child. Just use the child as your KR instead. Only create a placeholder object if it needs to scores from aggregate 2+ other items.
-* We should follow the "3x3" structure for OKRs x KRs as described in the [company OKR page](https://about.gitlab.com/company/okrs/#executives-propose-okrs-for-their-functions). The goal is to only have 3 OKRs per quarter and each OKR should only have 1 to 3 KRs.
-* We use full team names (people structure) with the layer nomenclature e.g.
-  * Division
-  * Department
-  * Sub-department
-  * Team
-* For scoring KRs that apply to a **rate** (for instance, [MR rate](/handbook/engineering/metrics/#merge-request-rate)), we score them as follows:
+1. Progress percentage is automatically updated based on child objectives or KRs.
+1. For manually updated percentages, ensure to include an explanation of how the percentage is calculated in the OKR description.
+  * The calculation can be simple "% of goal, 30 S2 bugs from <link>".
+  * Consider breaking down project or task KRs. For example, "10% gathering data, 20% analyzing data, 20% summary of data, 20% write proposal, 10% gather feedback, 20% decide and open epic with issues with work required".
+1. For scoring KRs that apply to a **rate** (for instance, [MR rate](../metrics/#merge-request-rate)), we score them as follows:
   * Take the initial rate before the quarter. For example, this is 10.
   * Take the target rate at the end of the quarter. In this example, it is 17.
   * Subtract initial rate and target rate to determine the target increase: 17 - 10 = 7.
@@ -100,73 +52,110 @@ We will use the following guidelines to a clear standard and consistency.
       * Month 2: 3 / 7 / 3 ~= 14%. Added to the previous month, the score is now 23.5%.
       * Month 3: 5 / 7 / 3 ~= 24%. Added to the previous months, the final score is 47.5%.
 
-### Ally How-to Videos
+## Entering OKRs
 
-* [Ally.io Software Essentials](https://learn.ally.io/ally-software-essentials) (16 mins)
-* [Advanced Software Features](https://learn.ally.io/advanced-ally-software-features) (19 mins)
-  * Prerequisite: We strongly recommend taking the Ally.io Software Essentials course first, in order to establish a basic understanding of how the Ally software connects to your OKRs and to your Organization.
-* [Product Group Aligned OKR/KR in Ally](https://www.youtube.com/watch?v=pRl5QkvJEq8)
-* [Ally x GitLab Issue Integration Overview](https://www.youtube.com/watch?v=cLgrylX8ufw)
-* [Ally Projects (native checklist) in KRs](https://www.youtube.com/watch?v=rook1IygOA8)
-* [Ally OKR Handbook Embedding](https://www.youtube.com/watch?v=znbTlu17vUM)
+For instructions, please refer to the ["How to use GitLab for OKRs" section on the OKR page](/company/okrs/#how-to-use-gitlab-for-okrs).
 
-## OKR Kickoff
+Some specific guidance:
 
-This process should begin no later than two weeks before the end of the preceding quarter. And kickoff should happen on or before the first day of the new quarter.
+1. [Decide on an objective or key result](#deciding-between-an-objective-and-key-result-in-gitlab).
+1. Title: Avoid adding a "FYXX-QX" prefix as it's indicated by the milestone.
+1. Description:
+    1. If a GitLab issue or epic exists, make sure to include a link to it.
+    1. Mention [how the OKR is scored](#scoring-guidelines).
+1. All other fields including assignee and labels: follow the [company guidance](/company/okrs/#how-to-use-gitlab-for-okrs).
 
-1. OKR owners should **author new OKRs** in Ally
-    - Add your Key results to Ally and align them with the relevant Objectives. Valid Key results are:
-    - Raising a KPI from one specific value to another
-    - Building out a new KPI
-    - Failing either of the first two... Completing a high-profile project with specific outcomes
-    - _e.g._ `* Raise first reply-time SLA for premium from 92% to 95%`
-    - Add your manager's and your direct report's handles to the _CC line_
-    - _Assign_ the Objective or KR to yourself
-    - Ensure it is being entered for the correct quarter
-    - Align related OKRs of your manager and direct reports using the **[alignment functionality](https://help.ally.io/en/articles/2300147-okr-alignment)** in Ally.
-1. Get approval **prior to the first day of the quarter** from your manager
-    - Use 1:1 with CTO to review
-    - For everyone else: Ask you manager to do an async review of your OKRs in Ally via Slack or email and address any changes. Alternatively, discuss in a 1:1.
-1. Communicate dependencies to other divisions, departments, or teams. Encourage them to take on corollary OKRs.
+### Deciding between an objective and key result in GitLab
+
+Create a new or "child" objective if the OKR will be broken down further and will be scored based on its children (see next section). If there will be no children, create a key result.
+
+If you're unsure, we recommend creating a child objective.
+If an objective or key result needs to be changed to the other type, you will need to re-create it and delete the "old" work item.
+
+### CTO OKR alignment and scoring
+
+To ensure scoring is updated correctly, all OKRs that are CTO aligned should be children of the CTO-level OKRs.
+The Department OKRs directly aligned to the CTO-level OKRs must be updated manually or automatically from its children.
+
+If your department has OKRs that are aligned to *CEO OKRs* that are not CTO aligned, follow the guidelines in this section, then [CEO alignment](/company/okrs/#how-to-align-division-okrs-to-the-ceo-okrs).
+
+Using a hypothetical example:
+
+1. CTO Objective 1: Grow the team. == Objective
+    1. KR 1.1: Hit hiring target of 30 new hires. == Child objective
+        1. Development: Hire 15 new hires. == Child objective
+            1. Dev: Hire 5 new hires. == Key result
+            1. Ops: Hire 5 new hires. == Key result
+            1. Sec: Hire 5 new hires. == Key result
+        1. Support: Hire 5 new hires. == Key result
+        1. Infrastructure: Hire 10 new hires. == Key result
+
+In this example, Infrastructure has 1 Director who wants to track hiring in their sub-department, so they create a separate GitLab objective with KRs for each manager.
+However, the objective would not be a child of the Infrastructure "10 new hires" because they are only hiring 3 of the 10 roles. Without the other 7, it would not rollup the score correctly.
+The description of the Infrastructure key result and the sub-department objective can have links to each other.
+
+### Tracking joint OKRs
+
+Joint OKRs across different divisions must be duplicated with one OKR item in each division. Each OKR should be aligned for scoring to each C-level (for example, one for CTO and one for CProdO for an Engineering-Product joint OKR). Titles can vary for joint OKRs, but otherwise, follow the duplicating guidance below.
+
+For Engineering-Product joints:
+
+1. Generally the Product OKR will be the SSoT with regular _detailed_ progress reports.
+1. Ensure the Eng OKR has the `vp-development` label if the VP of Development needs to track on it.
+
+### Tracking department OKRs
+
+If you would like a video walkthrough, team members can view [this private video](https://youtu.be/MkKRyuhDYtE).
+
+As GitLab objectives can only have one parent, there are various options to track OKR progress for a specific department, sub-department, or team:
+
+1. Duplicate OKRs.
+    - If you duplicate a work item, copy the wording of the title exactly. In both, ensure the description has cross-links with an indication of which one is the [SSoT](../../values/#single-source-of-truth). When updating, change the % completed on both OKRs, with a status report on the SSoT.
+    - Example: See next section.
+1. Track CTO aligned and non-CTO aligned OKRs separately, using assignee or label(s) to pull a list of all relevant objectives.
+    - Example: [FY24-Q1 Customer Support](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=all&milestone_title=FY24-Q1&label_name%5B%5D=Department%3A%3ACustomer%20Support)
+1. Don't create department objectives and track on department KRs only. Recommend using a label to pull relevant KRs.
+    - Example: [VP Development label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=all&milestone_title=FY24-Q1&label_name%5B%5D=vp-development)
+1. Track only in linked epic or issue.
+    - It is common that work is tracked in a `gitlab-org` issue or epic. While the OKR % needs to be updated in the OKR project, overview and all status updates could reside in the linked issue or epic.
+
+#### Example: Duplicating OKR for tracking
+
+Using the hypothetical example from the previous section, Development may want to track hiring at the department level.
+If using the duplication method, the structure may look something like this:
+
+1. CTO Objective 1: Grow the team. == Objective
+    1. KR 1.1: Hit hiring target of 30 new hires. == Child objective
+        1. Development: Hire 15 new hires. == Key result, Description links to Development 1.1 for progress updates
+        1. Support: Hire 5 new hires. == Key result
+        1. Infrastructure: Hire 10 new hires. == Key result
+1. Development Objective 1: Grow the team. == Objective
+    1. KR 1.1: Hire 15 new hires. == Child objective, Description notes % also needs to be updated in CTO 1.1.1
+        1. Dev: Hire 5 new hires. == Key result
+        1. Ops: Hire 5 new hires. == Key result
+        1. Sec: Hire 5 new hires. == Key result
 
 ## OKR Status
 
-- Update the OKR issue **whenever you have additional information** so that the status in Ally has the current state of the OKR
-- For direct reports of the CTO, expect to give an update in **each weekly 1:1**
+- Update the OKR issue **whenever you have additional information** so that the status has the current state of the OKR.
+- For direct reports of the CTO, expect to give an update in **each weekly 1:1**.
 - For individuals that do a **monthly key review meeting**, expect to give an OKR update there.
 
-### GitLab integration issue scoring
-
-Please be aware of these completion rules for KRs that are linked to GitLab issues with the GitLab integration:
-
-1. Closed issues are always 100% complete.
-1. Open issues with no tasks are 0% complete.
-1. Open issues with tasks will update the key result percent compete based on the checked task checkboxes. For example, a linked issue with 2 out of 4 tasks checked would be 50% complete.
-
-For example:
-
-- [Ally KR 1](https://app.ally.io/objectives/1442569) is 50% complete and linked to [this issue](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/17) which has 1/2 checkboxes completed.
-- [Ally KR 2](https://app.ally.io/objectives/1442565?skipQuickView=true) is 69% completed based on these 4 Gitlab issues:
-  - [Issue 1](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/16) is open and 0%
-  - [Issue 2](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/19) has 7/9 checkboxes completed and adds 19.5% (25*(7/9)) to the KR progress.
-  - [Issue 3](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/18) is closed and adds 25% to the KR progress even though only 2/3 checkboxes are completed.
-  - [Issue 4](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/20) is closed and adds another 25% to the KR progress.
-
-The Key Result percent completion will roll up to the objective equally unless the objective is manually configured for unequal KR contributions under the Progress -> Manage Contributions setting in the objective.
+At this time, there is no automatic scoring from GitLab issues. All OKRs need to be updated either manually or through rollup scoring.
 
 ## OKR Retrospection
 
 This process should begin on the first day of the subsequent quarter, and complete no later than two weeks after.
 
 1. After the end of each quarter, OKR owners should ensure their OKR/KR(s) progress is accurate before retrospection and closing.
-1. Each OKR owner should add retrospection notes in Ally when closing out their OKR/KR(s).
-   1. OKR owners should retrospect as Ally comments following our retrospection [guidelines](/handbook/engineering/workflow/#retrospective) (good, bad, and try)
+1. Each OKR owner should add retrospection notes closing out their OKR/KR(s).
+   1. OKR owners should retrospect as comments following our retrospection [guidelines](../workflow/#retrospective) (good, bad, and try).
    1. It's recommended that OKR owners document retrospection at the OKR (parent object) to optimize the number of retrospections/roll-ups.
-1. OKR owners should review with their manager in the next 1:1 and they should discuss and close the OKR/KR(s) synchronously
-1. Managers can summarize their retrospections by closing each KR (child object) aligned to their OKR (parent object) and leaving a brief "Good/Bad/Try" in the Closing Note. If the OKR/KR object was unintentionally closed, adding a comment achieves the same outcome.
-   1. If retrospection notes for KR(s) assigned to your direct report(s) have not been populated, please `@` mention your direct report DRI in Ally and ensure retrospection is captured in that OKR/KR object.
-1. After the [OKR Restrospective Meeting](/handbook/engineering/#okr-retrospective-meeting), once all outstanding conversations have been documented & applicable action items assiged to DRI(s), the leaders of each departments will ensure closure of all department's OKR/KR(s).
+1. OKR owners should review with their manager in the next 1:1 and they should discuss and close the OKR/KR(s) synchronously.
+1. Managers can summarize their retrospections by closing each KR (child object) aligned to their OKR (parent object) and leaving a brief "Good/Bad/Try" in the Closing Note.
+   1. If retrospection notes for KR(s) assigned to your direct report(s) have not been populated, please `@` mention your direct report DRI and ensure retrospection is captured in that OKR object.
+1. After the [OKR Restrospective Meeting](../#okr-retrospective-meeting), once all outstanding conversations have been documented & applicable action items assiged to DRI(s), the leaders of each departments will ensure closure of all department's OKR/KR(s).
 
 ### OKR Retrospective Meeting
 
-The Chief Technology Officer and the leaders of each department meet synchonously on the second Tuesday in the month after each quarter ends to [discuss the OKRs from the previous quarter](https://docs.google.com/document/d/1OYoxv_5iD-_kHujiq_6Zh9GAY8WX2FUJ1zqWzznH8RI/edit). This is an opportunity to collaborate on cross-functional initiaties with the focus being the retrospective. Leaders will voice-over the good, bad and try items from the past quarter. The meeting will not cover the status and scores of the OKRs.
+The Chief Technology Officer and the leaders of each department meet synchonously on the second Tuesday in the month after each quarter ends to [discuss the OKRs from the previous quarter](https://drive.google.com/drive/search?q=Engineering%20OKR%20Retrospective). This is an opportunity to collaborate on cross-functional initiaties with the focus being the retrospective. Leaders will voice-over the good, bad and try items from the past quarter. The meeting will not cover the status and scores of the OKRs.
