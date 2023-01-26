@@ -204,7 +204,7 @@ Examples of prep work include:
 - [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
 - Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
 - Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
-- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/direction/growth/)
+- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/handbook/marketing/growth/)
 - Executives propose [draft Key Results for their functions](/company/okrs/#executives-propose-okrs-for-their-functions)  
 - [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/){:data-ga-name="growth"}{:data-ga-location="body"}
 
