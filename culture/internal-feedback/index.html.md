@@ -375,7 +375,7 @@ We also received a many responses stating we should not change or add anything, 
    large portion of the team are contractors (21 out of 46). At GitLab, as everywhere
    else, job security relies mostly on how you are performing as a team member,
    and how the company performs as a whole. By the way, the contracts that we use
-   are all viewable on /handbook/contracts/
+   are all viewable on /handbook/people-group/contracts-probation-periods/
 1. "More patience and consideration with ideas from newer people, things are sometimes
 quickly rejected as 'won't work' or 'not interested' without much explanation."
    * It is difficult to comment on what may have been specific circumstances,

@@ -262,11 +262,11 @@ Learn more at our [Country Hiring Guidelines](/handbook/people-group/employment-
 Rather than attempting to incorporate in every country where an all-remote company has even a single employee, organizations must weigh the benefits of creating a legal entity with other options. There are four means of engagement with GitLab. These are commonly used arrangements that can be considered by other all-remote companies.
 
 * **GitLab Entity**: Individuals can be employed directly with GitLab Inc, BV, LTD, GmbH, PTY, Federal.
-* **Professional Employer Organization (PEO)**: In select countries where GitLab does not have an entity, we hire professional employment organizations to serve as the [employer of record (EOR)](/handbook/contracts/#employer-of-record-providers) in order to facilitate payments.
+* **Professional Employer Organization (PEO)**: In select countries where GitLab does not have an entity, we hire professional employment organizations to serve as the [employer of record (EOR)](/handbook/people-group/contracts-probation-periods/#employer-of-record-providers) in order to facilitate payments.
 * **C2C (Contractor)**: A corp to corp arrangement, whereby a corporation or LLC invoices GitLab BV for GitLab related work.
 * **IND (Contractor)**: By far the most widely applicable. The individual contractor arrangement can be used in countries where GitLab is hiring, yet does not have an entity or PEO agreement in place. This allows an individual to invoice GitLab BV as an individual or via their own company with no partners.
 
-Learn more about [employee types and hiring partners](/handbook/contracts/#employee-types-at-gitlab) across countries in the [Contracts](/handbook/contracts/) section of GitLab's Handbook.
+Learn more about [employee types and hiring partners](/handbook/people-group/contracts-probation-periods/#employee-types-at-gitlab) across countries in the [Contracts](/handbook/people-group/contracts-probation-periods/) section of GitLab's Handbook.
 
 It is not always practical to understand the nuances of local regulations in-house. Wherever GitLab has an entity or contractor, we have external counsel to advise and ensure that we are compliant.
 
