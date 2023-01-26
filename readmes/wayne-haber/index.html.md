@@ -114,5 +114,13 @@ A subset of my Q4 OKRs can be public and are in these categories:
 
 # 2023 Q1 OKRs
 
-Draft: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/388434)
+[OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q1&first_page_size=20)
+
+Themes:
+* Application health
+* Team member career growth
+* Mature the Platform to be the leading DevSecOps platform 
+* Increase revenue by growing a customer result mindset and delivering results 
+
+
 
