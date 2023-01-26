@@ -104,7 +104,7 @@ Incoming work of all kind (both projects and ad-hoc interrupts) passes by EM and
 fit with the product's strategy roadmap etc. Some will get scheduled, some goes to the backlog. If the effort is not deemed necessary or not believed
 to align with the roadmap, we will close the issue with commentary as to why it is not being pursued for future reference.
 
-We aim to scope milestones such that we have a task list that is ambitious, but not overwhelming. We deliberatly leave some capacity 
+We aim to scope milestones such that we have a task list that is ambitious, but not overwhelming. We deliberatly leave some capacity
 for incoming incidents.
 We want to avoid the feeling of a never ending mountain of work to promote a healthy work / life balance.
 It is also important to stress, that milestones are recommendations only and we work on the best effort basis.
@@ -114,17 +114,16 @@ For issues with a strict SLO, we follow the process defined [below](#handling-is
 We use the following workflow labels on the issues:
 
 1. `workflow::problem validation` - A good spot to put features that we may / may not want to pursue. This is where product can do some user interviews, cost analysis, market fit, etc to decide if it's an opportunity we wish to pursue.
-1. `workflow::planning breakdown` - Use this label at the epic level when we're looking to break down issues / features between the Gitaly teams. I would then expect issues underneath this to be allocated to either Git / Gitaly Cluster.
-1. `workflow::solution validation` - Use this label for features / issues where Engineering needs to investigate / propose a solution going forward
-1. `workflow::scheduling` - This should be a bucket of work that is broken down, has validated solutions, and is ready for scheduling in the current or an upcoming milestone.
-1. `workflow::ready for development` - Work that is scheduled for a milestone (either the current one, or one in the future)
+1. `workflow::solution validation` - Use this label for features / issues where Engineering needs to investigate / propose a solution going forward, or break it down into smaller issues.
+1. `workflow::planning breakdown` - Issues ready to be scheduled in the next few milestones (unblocked or soon unblocked, with a known solution). Leaders of long-running (pre-approved) projects use this to communicate with PM.
+1. `workflow::ready for development` - Work that is scheduled for a milestone (either the current one, or one in the future).
 1. `workflow::in dev` - Actively being worked by the Engineering team
 1. `workflow::in review` - Work that is in review
 1. `workflow::verification` - code is in production and pending verification by the DRI engineer
 1. `workflow::production` - changes are verified, issue can be closed
 
 Issues scheduled for the milestone (with `workflow::ready for development` and a specific release milestone assigned)
-can be further prioritized by moving them up or down on the dashboard. 
+can be further prioritized by moving them up or down on the dashboard.
 
 Issues that we definitely want to prioritize for a release receive a `Deliverable` label and are moved to the top of the list.
 These `Deliverable` issues help show our commitment to GitLab and our customers around working on these issues.
@@ -136,10 +135,10 @@ Everyone can file new issues as more work is discovered, and feed them into this
 
 Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized.
 
-A weekly call is held between the product manager and engineering manager.
-Everyone is welcome to join and
-these calls are used to discuss any roadblocks, concerns, status updates,
-deliverables, or other thoughts that impact the group.
+A weekly call is held between the product manager and engineering managers (of both Cluster and Git teams).
+Everyone is welcome to join and these calls are used to discuss any roadblocks,
+concerns, status updates, deliverables, or other thoughts that impact the
+group.
 
 ### From OKRs to projects and tasks
 
