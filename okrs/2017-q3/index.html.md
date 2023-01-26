@@ -106,7 +106,7 @@ With a great team make a popular next generation product that grows revenue.
     * Production: Provide reliable [internal & external](/handbook/engineering/performance/#standards-we-use-to-measure-performance)
     baseline monitoring of overall service health. Implement baseline end to end
     monitoring for GitLab.com (api/web/git(ssh/https)) and define
-    [SLO’s](/handbook/engineering/infrastructure/production-architecture/#infra-services)
+    [SLO’s](/handbook/engineering/infrastructure/production/architecture/)
     based on this baseline. => Baseline not defined.
     * Production: Solve performance issues. Implement [CDN for GitLab.com](https://gitlab.com/gitlab-com/infrastructure/issues/2092). => CDN was implemented but had to be rolled back.
   * VP Eng: Lower latency in application
