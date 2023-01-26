@@ -256,4 +256,4 @@ In an all-remote organization, people managers model a culture of feedback that 
 - Promotes a culture of ongoing feedback that occurs any time of year and is done in real-time
 - Creates a welcoming environment for feedback and enables team members to value open discussions and debates where they continually learn from one another
 - Turns challenges into learning opportunities
-- Champions a team environment where feedback occurs all the time and is not done one or twice a year during performance review cycles
+- Champions a team environment where feedback occurs all the time and is not done once or twice a year during performance review cycles
