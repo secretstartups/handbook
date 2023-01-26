@@ -516,8 +516,8 @@ Prior to submitting a Coupa requisition, please adjust the Billing portion of th
 
 **Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval. 
 
-**Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](https://about.gitlab.com/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. 
-When submitting expenses for reimbursement, please add the “TMRG” classification to your expense when submitting the report.
+**Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](https://about.gitlab.com/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
+When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
 
 
 ## Key Milestones for TMRGs (Suggested)
