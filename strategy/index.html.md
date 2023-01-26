@@ -174,7 +174,7 @@ graph BT;
 
 | Part of flywheel | Key Performance Indicator (KPI) | Department |
 |-------------- ---|---------------------------------|------------|
-| More Users | [Stage Monthly Active Users](/handbook/product/metrics/#stage-monthly-active-user){:data-ga-name="stage monthly active user"}{:data-ga-location="body"} | Product |
+| More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/){:data-ga-name="stage monthly active user"}{:data-ga-location="body"} | Product |
 | More Contributions | [Unique Wider Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month){:data-ga-name="community contributors per month"}{:data-ga-location="body"} | Community Relations and Engineering |
 | More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr){:data-ga-name="MRARR"}{:data-ga-location="body"} | Community Relations and Engineering |
 | More Contributions | [Wider community contributions per release](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone){:data-ga-name="wider community contributors per release"}{:data-ga-location="body"} | Community Relations and Engineering |
@@ -223,7 +223,7 @@ Legend with links to the relevant metrics:
 1. [Wider community contributions Turbo](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone){:data-ga-name="contributions per milestone"}{:data-ga-location="body"}{:data-ga-name="contributions per milestone"}{:data-ga-location="body"}
 1. [R&D Overall MR Rate](/handbook/engineering/performance-indicators/#rd-overall-mr-rate){:data-ga-name="mr rate"}{:data-ga-location="body"}
 1. [Stage maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} increase
-1. [MAU](/handbook/product/metrics/#monthly-active-users-mau){:data-ga-name="MAU"}{:data-ga-location="body"} increase
+1. [MAU](/handbook/product/performance-indicators/){:data-ga-name="MAU"}{:data-ga-location="body"} increase
 1. [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo){:data-ga-name="spo"}{:data-ga-location="body"} increase Turbo which is only possible in a [single application with multiple stages](/handbook/product/single-application/){:data-ga-name="single application with multiple stages"}{:data-ga-location="body"}
 1. More [Licensed users](/handbook/sales/#licensed-users){:data-ga-name="licensed users"}{:data-ga-location="body"} is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo){:data-ga-name="spo"}{:data-ga-location="body"} leading to a higher conversion from free to paid and a higher gross retention.
 1. Higher [Revenue per licensed user](/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu){:data-ga-name="revenue per licensed user"}{:data-ga-location="body"} due to the [Advantages of a single application](/handbook/product/single-application/){:data-ga-name="advantages of a single application"}{:data-ga-location="body"}
