@@ -84,7 +84,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 - [Minimum Viable Experiment](/handbook/engineering/development/growth/experimentation/#minimum-viable-experiment-mve)
 - [How Growth launches experiments](/handbook/product/growth/#how-growth-launches-experiments)
-- [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
+- [Growth Experiments Knowledge Base](/handbook/marketing/growth/)
 
 ### Videos
 

@@ -390,7 +390,7 @@ Individual contributor product managers and managers of product managers are lea
 {:.alert .alert-info}
 
 ##### Managing Team Performance
-Successfully [managing team performance](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab) enables Product Managers to bring the most successful product to market in the most efficient manner.
+Successfully [managing team performance](/handbook/leadership/build-high-performing-teams/) enables Product Managers to bring the most successful product to market in the most efficient manner.
 
 ##### Facilitating Career Development Conversations
 
@@ -410,7 +410,7 @@ To support product leaders at being effective at career coaching and mentorship,
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
 | --- | --- | --- |
-| **IC PMs** | Sets the goals and priorities for their group. Exemplifies the [leadership qualities](/handbook/leadership/) in their group. Skilled at [making decisions](/handbook/leadership/#making-decisions) to help unblock and enable groups to move forward confidently. Helps curate a team dynamic that has [direct communication](/handbook/leadership/#communication-should-be-direct-not-hierarchical) and is [open to feedback](/handbook/leadership/#giving-feedback). Exhibits the skills, behaviors to build [high performing teams](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab). | TBD |
+| **IC PMs** | Sets the goals and priorities for their group. Exemplifies the [leadership qualities](/handbook/leadership/) in their group. Skilled at [making decisions](/handbook/leadership/#making-decisions) to help unblock and enable groups to move forward confidently. Helps curate a team dynamic that has [direct communication](/handbook/leadership/#communication-should-be-direct-not-hierarchical) and is [open to feedback](/handbook/leadership/#giving-feedback). Exhibits the skills, behaviors to build [high performing teams](/handbook/leadership/build-high-performing-teams/). | TBD |
 | **Manager of IC PMs** | [Hires and retains](/handbook/leadership/#talent-acquisition-and-retention) talented product managers. Enables Product Managers to be a [manager of one](/handbook/leadership/#managers-of-one). Helps direct reports thrive and improve via CDF Reviews. Coaches direct reports to stretch their skillset and sharpen existing skills. Are available to provide strategic or tactical input. Recognizes when [process](/handbook/leadership/#process-gets-a-bad-rep) can improve efficiency, is important for [global optimization](/handbook/values/#global-optimization), or is detrimental to autonomy and team performance and actively acts to address. Enables direct reports to [take time off](/handbook/product/product-manager-role/#taking-time-off) yet maintain group's forward momentum. | TBD |
 | **Manager of PM Managers** |TBD||
 

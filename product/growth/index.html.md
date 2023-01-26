@@ -20,7 +20,7 @@ rapid experimentation.
 - [Product Intelligence](https://about.gitlab.com/direction/analytics/product-intelligence/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
-Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/direction/growth/) we outline the Growth section's long term direction and near term focus areas.
+Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/handbook/marketing/growth/) we outline the Growth section's long term direction and near term focus areas.
 
 ## How the Growth section works
 [All the Growth team members are listed here](/handbook/product/categories/#growth-section)

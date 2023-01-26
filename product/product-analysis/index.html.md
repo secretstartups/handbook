@@ -376,8 +376,8 @@ Recordings from office hours, analysis/read-outs, etc
 ## Other helpful resources & links
 
 1. [Data Definitive Guide Series](/handbook/business-technology/data-team/data-catalog/#definitive-guides)
-1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
-1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
+1. [Growth Insights Knowledge Base](/handbook/marketing/growth/)
+1. [Growth Experiments Knowledge Base](/handbook/marketing/growth/)
 1. [Growth Product Handbook](/handbook/product/growth/)
 1. [Data Team Handbook](/handbook/business-technology/data-team/)
 1. [Data Catalog](/handbook/business-technology/data-team/data-catalog/)

@@ -97,5 +97,5 @@ The issues and merge requests below are examples of how we have used data for de
 - [Snowplow Inspector Chrome Extension](https://docs.gitlab.com/ee/development/snowplow/index.html)
 - [Example SQL reference from docs.gitlab.com](https://docs.gitlab.com/ee/development/snowplow/index.html#reference-sql)
 - [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
-- [Growth Experiments Knowledge Base](https://about.gitlab.com/direction/growth/#growth-experiments-knowledge-base)
+- [Growth Experiments Knowledge Base](https://about.gitlab.com/handbook/marketing/growth/)
 - [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/)
