@@ -36,7 +36,7 @@ Potential applicants should refer to the [jobs FAQ page](/handbook/hiring/candid
 - [Background checks](/handbook/people-policies/#background-checks)
 - [Benefits](/handbook/total-rewards/benefits/)
 - [Compensation](/handbook/total-rewards/compensation/)
-- [Contracts](/handbook/contracts)
+- [Contracts](/handbook/people-group/contracts-probation-periods/)
 - [GitLab talent ambassador](/handbook/hiring/gitlab-ambassadors/)
 - [Onboarding](/handbook/people-group/general-onboarding)
 - [Stock options](/handbook/stock-options)
