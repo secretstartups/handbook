@@ -211,7 +211,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
 1. VP of Product Management: Create stage level product demos to build customer empathy.  Deliver one recorded demo for each stage.
 1. Director of Product, Growth: Establish a rapid cadence of testing & learning.  At least one deliverable per week, per growth group.
 1. Director of Product, Growth: Improve the customer experience with billing related workflows.  Make material improvements to direct signup, trial, seat true-up, upgrade, and renewal workflows, both for .com and self-managed customers, driving at least $570k in incremental ACV (IACV).
-1. Director of Product, Growth: Improve the quality of product usage data. Deliver accurate [SMAU](/handbook/product/metrics/#adoption) dashboards for each stage, including both .com and self-managed customer usage data.
+1. Director of Product, Growth: Improve the quality of product usage data. Deliver accurate [SMAU](/handbook/product/performance-indicators/) dashboards for each stage, including both .com and self-managed customer usage data.
 1. Director of Product, Secure & Defend; Group Manager, Enablement: Communicate updated product visions at the Section level to inform product investment decisions. Deliver product vision content for Secure & Defend and Enablement sections by end of Q4.
 1. **VP of Engineering: [Raise productivity thru iteration without jeopardizing availability](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5564)**
     1. VP of Engineering KR: Raise MR Rate from 8 to 10

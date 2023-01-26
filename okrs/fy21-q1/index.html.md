@@ -219,11 +219,11 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
             1. Director, Contracts & Legal Operations KR: Create training and enablement for WW sales team on, (i) best practices for negotiations of terms, (ii) how to close deals as efficiently as possible, and (iii) processes for engaging with legal
 
 ### 2. CEO: Popular next generation product
-1. CEO KR: [SMAU](/handbook/product/metrics/#stage-monthly-active-users-smau) is being measured and reported in 100% of Sales and Product [Key Reviews](/handbook/key-review/).
+1. CEO KR: [SMAU](/handbook/product/performance-indicators/) is being measured and reported in 100% of Sales and Product [Key Reviews](/handbook/key-review/).
     1. **Director of Product, Growth:  Ensure accurate data collection and reporting of AMAU and SMAU metrics.** [gitlab-com&265](https://gitlab.com/groups/gitlab-com/-/epics/265)
         1. Director of Product, Growth KR: Deliver AMAU and SMAU tracking with less than 2% uncertainty. [gitlab-com/Product#729](https://gitlab.com/gitlab-com/Product/issues/729)
-1. CEO KR: [SPU](/handbook/product/metrics/#stages-per-user) increases by 0.25 stages from EOQ4 to EOQ1.
-    1. **CRO: Increase stage usage for 10 of top 50 accounts with only 1-2 stages in use as measured by [Stages per User](https://about.gitlab.com/handbook/product/metrics/#stages-per-user) <= 2.** [gitlab-com&254](https://gitlab.com/groups/gitlab-com/-/epics/254)
+1. CEO KR: [SPU](/handbook/product/performance-indicators/) increases by 0.25 stages from EOQ4 to EOQ1.
+    1. **CRO: Increase stage usage for 10 of top 50 accounts with only 1-2 stages in use as measured by [Stages per User](https://about.gitlab.com/handbook/product/performance-indicators/) <= 2.** [gitlab-com&254](https://gitlab.com/groups/gitlab-com/-/epics/254)
         1. CRO KR: Targeted account based plan to offer services and support to utilize a new stage at each of the 50 targeted accounts. => Transitioned priority to support Efficiency improvement project [Executive Sponsor Program](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/715)
         1. CRO KR: 10 accounts add at least one stage with SMAU moving from <5% to >25% in a specific stage.
             1. **VP Alliances: Increase stage usage through joint use cases with Alliance Partners**
@@ -286,12 +286,12 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
         1. **CS: Provide adoption support for our Commercial/Enterprise customers, leveraging digital assets [gitlab-com/Customer-Success#24](https://gitlab.com/gitlab-com/customer-success/okrs/issues/24).**
            1. CS KR: Deliver GitLab CI and GitLab 101 webinar series for Commercial Customers => DONE
            1. CS KR: Update TAM handbook to clarify differences in Commercial segment engagement model and prescriptively describe how to leverage new digital campaigns => 25%
-1. CEO KR: [MAU](/handbook/product/metrics/#monthly-active-users-mau) increases 5% from EOQ4 to EOQ1.
+1. CEO KR: [MAU](/handbook/product/performance-indicators/) increases 5% from EOQ4 to EOQ1.
 1. **Chief Product Officer: Proactively validate problems and solutions with customers.** [gitlab-com&266](https://gitlab.com/groups/gitlab-com/-/epics/266)
     1. Chief Product Officer KR: At least 2 validation cycles completed per Product Manager. [gitlab-com/Product#730](https://gitlab.com/gitlab-com/Product/issues/730)
 1. **Chief Product Officer: Create [walk-throughs](/handbook/product/product-processes/#communication#recording-videos-to-showcase-features) of the top competitor in each stage to compare against our own demos completed in Q4 or Q1.** [gitlab-com&267](https://gitlab.com/groups/gitlab-com/-/epics/267)
     1. Chief Product Officer KR: Deliver one recorded walk-through for each stage. [gitlab-com/Product#731](https://gitlab.com/gitlab-com/Product/issues/731)
-1. **Principal Product Manager, Product Operations: Roll out [Net Promoter Score (NPS)](/handbook/product/metrics/#paid-net-promoter-score) tracking.** [gitlab-com&268](https://gitlab.com/groups/gitlab-com/-/epics/268)
+1. **Principal Product Manager, Product Operations: Roll out [Net Promoter Score (NPS)](/handbook/product/performance-indicators/) tracking.** [gitlab-com&268](https://gitlab.com/groups/gitlab-com/-/epics/268)
     1. Principal Product Manager, Product Operations KR: Survey at least 25% of GitLab's paid customer base, with a reponse rate of >4%. [gitlab-com/Product#732](https://gitlab.com/gitlab-com/Product/issues/732)
 1. **Director, Product, Ops:  Work with GitLab's infrastructure team to dogfood our APM metrics.** [gitlab-com&269](https://gitlab.com/groups/gitlab-com/-/epics/269)
     1. Director, Product, Ops KR:  Ensure APM metric dogfooding is properly prioritized. [gitlab-com/Product#733](https://gitlab.com/gitlab-com/Product/issues/733)
