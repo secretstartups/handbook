@@ -135,7 +135,7 @@ In some cases, it may not be practical, fitting with the interim timeline or hea
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
 - Performing career development conversations with direct reports successfully;
-- Perform a [Talent Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#talent-assessment-options) with the manager's manager to determine readiness for the role;
+- Perform a [Talent Assessment](/handbook/people-group/talent-assessment/) with the manager's manager to determine readiness for the role;
 - Gather 360 feedback via Culture Amp for the manager.
 
 Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager and Manager can work together to create and submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) for approval.
