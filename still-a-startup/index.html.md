@@ -59,4 +59,4 @@ We empower individuals to innovate. For example, we have designated coaches who 
 
 ### Dogfooding
 
-The best way to quickly improve GitLab is to use it ourselves, or [dogfood](https://about.gitlab.com/handbook/engineering/principles/#dogfooding) it, so that we have a quick feedback loop. We use our own product even when a feature is in its early stages of development. This helps us to develop empathy with users and better understand what to build next.
+The best way to quickly improve GitLab is to use it ourselves, or [dogfood](https://about.gitlab.com/handbook/engineering/development/principles/) it, so that we have a quick feedback loop. We use our own product even when a feature is in its early stages of development. This helps us to develop empathy with users and better understand what to build next.
