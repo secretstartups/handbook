@@ -150,7 +150,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. Following Board Meeting Month: September
 1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) including scenarios, capabilities and dependencies
 1. Finish [**Yearlies**](/company/yearlies/) (1.5 hrs)
-1. [**Talent** assessment and succession planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
 **Q3 Offsite**
 1. E-Group Offsite Month: October
@@ -166,7 +166,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. Final [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets 
 1. Start review of [**Three Year Strategy**](/company/strategy/) (0.5 day)
 1. Product **Roadmap** including competitive differentiation
-1. [**Talent** assessment and succession planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
 ### Recurring discussion topics
 
@@ -202,7 +202,7 @@ One of the ways we do this is by asking participants to do prep work ahead of ti
 
 Examples of prep work include:
 - [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
-- Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
+- Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/talent-assessment/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
 - Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
 - Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/handbook/marketing/growth/)
 - Executives propose [draft Key Results for their functions](/company/okrs/#executives-propose-okrs-for-their-functions)  
