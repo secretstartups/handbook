@@ -87,8 +87,8 @@ Getting to know your people through personality assessments is a tool to build t
 
 An abundance of free personality assessments are available. Several are outlined below:
 
-- [Understanding Social Styles](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/#discover-your-social-style/)
-- [Emotional Intelligence Assessments](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-eq-assessments/)
+- [Understanding Social Styles](/handbook/leadership/emotional-intelligence/social-styles/)
+- [Emotional Intelligence Assessments](/handbook/leadership/emotional-intelligence/)
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
 - [16 Personalities](https://www.16personalities.com/) (also known as Myers-Briggs)
 - [DISC Personality Test](https://discpersonalitytesting.com/free-disc-test/)

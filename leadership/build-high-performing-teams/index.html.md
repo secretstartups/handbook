@@ -144,7 +144,7 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 **Stage 2 Manager Tasks:**
 
 1. Have each team member share where they see themselves in one to five years
-1. Conduct a group assessment (e.g. Myers Brigg, Gallup StrengthsFinder, [Social Styles](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/))
+1. Conduct a group assessment (e.g. Myers Brigg, Gallup StrengthsFinder, [Social Styles](/handbook/leadership/emotional-intelligence/social-styles/))
 1. Have each team member reveal their pet peeves and unique attributes
 1. Have each team member complete a skills and knowledge profile and share it with the team. Encourage team members to utilize each other’s skills and knowledge. If someone wants to build skills in a specific area, encourage peer mentoring
 1. Establish team ground rules and communication protocol

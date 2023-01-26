@@ -323,7 +323,7 @@ The coach might also want to end the conversation with a few statements about wh
 
 ## Live Learning Session 
 
-During Week 2 of our Manager Challenge Pilot, we had a course covering [Building Trust](/handbook/people-group/learning-and-development/building-trust/) and [Coaching](/handbook/leadership/coaching/). The [slide deck](https://docs.google.com/presentation/d/1PT8x7lUR0-X-M_H7n_tvYKsC1HRtKTiMy0BtmtPcO4Q/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1eHhOfgqllzAiGOf6gI98wegaxm5-8eLnZ8Qpq7KOLaY/edit?usp=sharing) follow along with the session. 
+During Week 2 of our Manager Challenge Pilot, we had a course covering [Building Trust](/handbook/leadership/building-trust/) and [Coaching](/handbook/leadership/coaching/). The [slide deck](https://docs.google.com/presentation/d/1PT8x7lUR0-X-M_H7n_tvYKsC1HRtKTiMy0BtmtPcO4Q/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1eHhOfgqllzAiGOf6gI98wegaxm5-8eLnZ8Qpq7KOLaY/edit?usp=sharing) follow along with the session. 
 
 A recording of the first of two sessions can be found here:
 
