@@ -46,7 +46,7 @@ Performance Indicators:
 ## Other Related Pages
 {:.no_toc}
 
-- [GitLab.com (infra) Architecture](/handbook/engineering/infrastructure/production-architecture/)
+- [GitLab.com (infra) Architecture](/handbook/engineering/infrastructure/production/architecture/)
 - [Monitoring GitLab.com](/handbook/engineering/monitoring/)
 - [Application Architecture Documentation](https://docs.gitlab.com/ee/development/architecture.html)
 - [GitLab.com Settings](/gitlab-com/settings/)
@@ -199,7 +199,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
     1. <a name="HAProxy2NGINX"></a> [HAProxy to NGINX](#tb-HAProxy-SSL) (not measured)
        - HAProxy forwards the request to NGINX in one of our front end workers.
        In this case, since we are tracking a web request, it would be the NGINX box in the
-         "Web" box in the [production-architecture diagram](/handbook/engineering/infrastructure/production-architecture/); but alternatively the request can come in via API or a git command
+         "Web" box in the [production-architecture diagram](/handbook/engineering/infrastructure/production/architecture/); but alternatively the request can come in via API or a git command
          from the command line, hence the API, and git "boxes" in that diagram.
         - Since all of our servers are in ONE Azure VNET, the overhead of SSL
           handshake and teardown between HAProxy and NGINX should be close to negligible.
