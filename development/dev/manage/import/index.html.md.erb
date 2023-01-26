@@ -56,9 +56,9 @@ The breakdown phase will be used for:
 
 **Tasks**:
 1. PM: Milestone planning issue gets created.
-  We utilize a planning issue to keep our team organized during the planning phase. 
-1. PM: Moves and orders issues of interest into the `~"workflow::refinement"` list of the [Refinment Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport) 
-1. PM and EM add `~"ready for next refinement"` to top priority issues every week by Thursday end of day. 
+  We utilize a planning issue to keep our team organized during the planning phase.
+1. PM: Moves and orders issues of interest into the `~"workflow::refinement"` list of the [Refinment Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport)
+1. PM and EM add `~"ready for next refinement"` to top priority issues every week by Thursday end of day.
 
 1.  Engineering and Product Designer to refine issues with `~"ready for next refinement"` label on [Refinement Board](https://gitlab.com/groups/gitlab-org/-/boards/4175527?label_name%5B%5D=group%3A%3Aimport)
 1. Engineering: weight issues
@@ -69,7 +69,7 @@ The breakdown phase will be used for:
 
 **Definition of done**
 1. By the 6th of the month, engineering completes issue refinement for the next upcoming milestone, and the goal is to have between 10 to 12 refined issues with  `~"workflow::Ready for refinement"` label are weighted & have a rough technical plan if weight is above 2.
-1. Engineering updates issue label to `~"workflow::ready for development"`, and set weight for each. 
+1. Engineering updates issue label to `~"workflow::ready for development"`, and set weight for each.
 
 #### 2. Planning Phase
 
@@ -80,7 +80,7 @@ The breakdown phase will be used for:
 1. Engineering: Capacity planning for Milestone.
 1. Engineering: Async review of `ready for development` issues considering total Milestone weight or weight per available Engineer.
 1. EM: adds the `~"Deliverable"` label to all relevant issues.
-2. PM or EM: assigns the upcoming milestone for all issues with `~"Deliverable"` label. 
+2. PM or EM: assigns the upcoming milestone for all issues with `~"Deliverable"` label.
 
 **Definition of done**:
 1. List of issues with Milestone assigned (15th)
@@ -158,7 +158,7 @@ It's very important that we make sure any proposal details, pending action items
 
 #### Working with Security
 
-The Import group has an existing [threat model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/blob/master/gitlab-org/gitlab/GitLab%20Migration.md) to assist in identifying issues that may have security implications, but there are other considerations. 
+The Import group has an existing [threat model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/blob/master/gitlab-org/gitlab/GitLab%20Migration.md) to assist in identifying issues that may have security implications, but there are other considerations.
 
 An [Application Security Review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
 - falls under the threat model
@@ -212,11 +212,14 @@ The following people are permanent members of the group:
 
 <%= stable_counterparts(role_regexp: /Manage.+Import/) %>
 
-## Dashboards 
+## Dashboards
 
 - [Backend overview](https://app.periscopedata.com/app/gitlab/698723/Manage::Import-Backend-Overview)
 - [North star metrics](https://app.periscopedata.com/app/gitlab/661967/Manage:Import-Dashboard)
-
+- Kibana dashboards (Internal only)
+  - [Project Import/Export - Overview](https://log.gprd.gitlab.net/app/dashboards#/view/03a11c50-ba46-11ec-b73f-692cc1ae8214)
+  - [GitHub Import - Overview](https://log.gprd.gitlab.net/app/dashboards#/view/62965d10-9c0e-11ed-9f43-e3784d7fe3ca)
+  - [GitHub Import - Project import debug](https://log.gprd.gitlab.net/app/dashboards#/view/be0fb6d0-9c24-11ed-85ed-e7557b0a598c)
 
 ## Links and resources
 {: #links}
