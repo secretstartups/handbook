@@ -17,6 +17,35 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 ----
 This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, CSM responsibilities and instructions for the account triage issue creation.
 
+## CSM Responsibilities
+
+The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group ([detailed below](#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
+
+### Gainsight Responsibilities
+
+CSMs are responsible for keeping Gainsight up to date regarding all of their renewals.
+
+**Timeline Entries**
+- For at-risk renewals occurring this fiscal quarter and next, update Timeline with an At-Risk Update on a **weekly** basis with progress towards risk mitigation over the past week and plans for the upcoming week
+- For at-risk renewals occurring beyond next fiscal quarter, update Timeline with an At-Risk Update on a **monthly** basis with progress towards risk mitigation over the past month and plans for the upcoming month
+
+For those customers not at risk, CSMs should be ensuring they still update CSM Sentiment on at least a quarterly basis to avoid the [score going stale](/handbook/customer-success/csm/health-score-triage/#clearing-stale-health-measures).
+
+**At-Risk CTAs**
+
+CSMs are responsible for managing the CTA for all at-risk accounts including:
+- Create an at-risk CTA as soon as the risk is identified, using the appropriate playbook
+   - `At-Risk` is the generic playbook that is applicable for most situations, but CSMs can select more specific playbooks relevant to the risk type
+- In the CTA, update the `Risk Reason`
+   - By default, the CTA will have `Other Risk Reason`; this needs to be changed to the appropriate reason why the customer is at risk, for example, do they not find value in our product, have they lost budget via layoffs, are we not engaged with them, etc.
+- In the CTA, update the `Risk Impact`
+   - This field does not appear when opening the CTA, and CSMs need to click back into the CTA details after creation to update it
+- In the CTA, update `Stage Name` and `Competitor` fields if applicable
+
+### Mitigation Strategies
+
+See the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/csm/risk-mitigation) page.
+
 ## Customer Health Categories and Risks
 
 Health primarily considers the business impact to GitLab by evaluating the delivery of value and outcomes to customers. The following guideline will provide Customer Success Managers (CSMs) guidance to choose the right health assessment for their customer account. The following are the categories to assess and associated risks with each.
@@ -136,17 +165,9 @@ The following are guidelines on who to notify when an account is yellow or red. 
 - Area Sales Manager and Regional Director
 - Vice President of Customer Success
 
-## Responsibilities
+## Gainsight
 
-The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
-
-### Mitigation Strategies
-
-- See the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/csm/risk-mitigation) page.
-
-### Gainsight
-
-#### CSM Sentiment
+### CSM Sentiment
 
 CSMs update CSM Sentiment in determining overall account health. The guidelines are as follows:
 
@@ -233,11 +254,12 @@ If a CSM has marked a production instance under a Premium subscription, DevSecOp
 
 </details>
 <br>
-### GitLab Account Triage Project
+
+## GitLab Account Triage Project
 
 An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [CSM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
 
-#### Update Frequency
+### Update Frequency
 
 When an account is in triage, keep the triage issue updated as follows:
 
@@ -246,7 +268,7 @@ When an account is in triage, keep the triage issue updated as follows:
 
 If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
 
-#### Issue Template
+### Issue Template
 
 When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project, the default template will set up the details you should include. Follow the instructions laid out in the issue description by the template for what information should be documented in the issue.
 
