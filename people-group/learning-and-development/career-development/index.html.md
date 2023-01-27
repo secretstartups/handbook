@@ -12,44 +12,38 @@ description: "Resources and direction for career development and mobility for al
 
 ## What is Career Development
 
-Career development is the non-linear, lifelong growth process integrating learning, work, leisure, and change. It happens in all directions, including subject matter and skill expertise, lateral growth to new and adjacent teams, and linear growth through a job family. Utilize the recources on this page to help you navigate your career development journey at GitLab.
+Career development is the non-linear, lifelong growth process integrating learning, work, leisure, and change. It happens in all directions, including subject matter expertise, lateral growth to new teams, and linear growth through a job family. Use the recources on this page to navigate your career growth at GitLab.
 
 ![infographic with examples of career growth at gitlab](non-linear.png){: .shadow.medium.center}
 
-### Self authorship and your career development
-
-A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) gets to the 'why' of career development. Embrace your own self-authorship while using the following tools to fit your goals. In the session, Lavinia spoke about:
-
-1. The impact of growth mindet on career development, and tips for shifting out of a fixed mindset
-1. Trust building in an all remote space and the role that people managers play in building this trust
-1. Learning and building out loud, sharing career development externally, and the power of social learning
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UsGlTOmM2DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Directory
 
-Navigate to various career development resources located throughout the GitLab handbook:
+Navigate to career development resources located throughout the GitLab handbook:
 
-### Resources
+### Resources and Tools
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:250px;margin:5px;"> Growth and Development Benefit </a>
-    <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:250px;margin:5px;">Programs for Individual Contributors</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
-    <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-purple" style="width:200px;margin:5px;">Career Development Workshop</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/skill-of-the-month" class="btn btn-purple" style="width:250px;margin:5px;">Skill of the Month Recordings</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;">Career Development Conversations </a>
+    <a href="/company/team/structure/#job-frameworks" class="btn btn-purple" style="width:200px;margin:5px;">Job Frameworks</a>
+    <a href="https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit" class="btn btn-purple" style="width:250px;margin:5px;">Tips for Creating Effective Growth Plans</a>
   </div>
 </div>
 
-### Programs
+### Learning Programs
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/people-group/learning-and-development/internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
+    <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-purple" style="width:200px;margin:5px;">Career Development Workshop</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/skill-of-the-month" class="btn btn-purple" style="width:250px;margin:5px;">Skill of the Month Recordings</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:250px;margin:5px;">Programs for Individual Contributors</a>
   </div>
 </div>
 
-#### Shadow Programs at GitLab
+#### Job Shadow Programs at GitLab
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/ceo/shadow/" class="btn btn-purple" style="width:200px;margin:5px;">CEO Shadow</a>
@@ -64,16 +58,6 @@ Navigate to various career development resources located throughout the GitLab h
   </div>
 </div>
 
-### Organization Tools
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;">Career Development Conversations </a>
-    <a href="/company/team/structure/#job-frameworks" class="btn btn-purple" style="width:200px;margin:5px;">Job Frameworks</a>
-    <a href="https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit" class="btn btn-purple" style="width:250px;margin:5px;">Tips for Creating Effective Growth Plans</a>
-  </div>
-</div>
-
 ## Roles and Responsibilities
 
 | Role | Responsibilities |
@@ -82,47 +66,49 @@ Navigate to various career development resources located throughout the GitLab h
 | Manager Facilitated| - Take time with team members to discuss their career aspirations <br/> - Listen and provide feedback, ideas and contacts <br/> - Make choices to support their development |
 | GitLab Supported | - Communicate future direction and skills requirements <br/> - Provide information and tools when applicable <br/> - Communicate internal opportunities |
 
+### Self authorship and your career development
+
+A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) gets to the 'why' of career development. Embrace your own self-authorship while using the following tools to fit your goals. In the session, Lavinia spoke about:
+
+1. The impact of growth mindet on career development, and tips for shifting out of a fixed mindset
+1. Trust building in an all remote space and the role that people managers play in building this trust
+1. Learning and building out loud, sharing career development externally, and the power of social learning
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/UsGlTOmM2DM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ### 70-20-10 Rule for Development
 
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 75.93%; padding-top: 0; height: 0;"><iframe frameborder="0" width="600" height="550" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fd2aa9021efd0018b7c8eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 75.93%; padding-top: 0; height: 0;"><iframe frameborder="0" width="400" height="350" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fd2aa9021efd0018b7c8eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 1. 70% of your development should come from on-the-job and action learning.  This can include development experiences like managing a project, serving on a cross-functional team, taking on a new task, job shadowing, job rotation, etc.
 1. 20% of your development should come from interactions with others.  This includes having a mentor, being a mentor, coaching, participating in communities of practice, providing and receiving feedback, serving as a leader in your organization, etc.
 1. 10% of your development should come from training, including classes, seminars, webinars, podcasts, reading, conferences, etc. GitLab offers a [growth and development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to help with this.
 
 
-## Career Development versus Career Mobility
+### Career Development versus Career Mobility
 
-GitLab team members [should not feel pressure to climb the proverbial ladder](/handbook/leadership/1-1/#key-points). We recognize that not everyone wants to advance or move to a new level. Skill development and promotion are not mutually exclusive.
+GitLab team members [should not feel pressure to climb the career ladder](/handbook/leadership/1-1/#key-points). Skill development and promotion are not mutually exclusive. [Unique experience influences problem solving](/company/culture/inclusion/) and views of success. 
 
-[Unique characteristics and experiences influence how we solve problems](/company/culture/inclusion/) and view success. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
-
-Team members are encouraged to be [open and honest](/handbook/values/#transparency) with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
+You are encouraged to learn and develop skills without pressure to in turn seek promotion. Team members will not be thought less of or penalized if they don't view promotion as a success measure. If you feel you are not being supported in this way, please [reach out to People Connect or your People Business Partner](/handbook/people-group/people-connect/#-connect-with-us).
 
 | Topic | Definition | Examples |
 | ----- | ----- | ----- | 
 | Development | Choosing and building a career path that accelerates professional growth. | Learn new skills, complete a course, be a mentee |
 | Mobility | Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. Mobility involves applying experience and skills as leverage for a new role. | Mentor to learn leadership skills with the intention of applying for a manager role; Complete a job shadow or internship and upskill to transfer to a new team.  |
 
-## Career Development and Wellbeing
+### Career Development and Wellbeing
+
+Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
 
 ## Document your Career Development
-
-### Start Here
-
-| Purpose | Resource |
-| --------------- | ----- |
-| I want to plan and document my career and skill-based goals at GitLab. | [Individual Growth Plan, or IGP](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) |
-| I want to keep track of my value-aligned contributions. | [Accomplishment Tracker](/handbook/people-group/learning-and-development/career-development/#tracking-your-accomplishments) |
-| I want to monitor the status of my goals and achievements. | [Health Tracker: Growth Plan](/handbook/people-group/learning-and-development/career-development/#health-tracker-growth-plan)|
-| I prefer to use GitLab to track my career goals. | [Using GitLab Epics](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) |
-| I need advice on what skills to develop based on my role at GitLab. | [Job Frameworks](/company/team/structure/#job-frameworks) |
 
 ### Individual Growth Plan 
 
@@ -154,9 +140,10 @@ Watch: interivew with a GitLab team member who's used the Individual Growth Plan
 
 1. Watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning for guidance on how to get started filling out your IGP. 
 1. [August 2021 Live Learning on filling out the IGP](https://www.youtube.com/embed/dJezH0ToqLk)
-1. 
 
-### Tracking your Accomplishments
+### Tracking your Progress
+
+#### Accomplishment Tracker
 
 Some call it a "brag sheet". Some call it a CREDIT Tracker. Either way, it's a great place to collect your accomplishments and feedback. Utizlize the accomplishment tracker in conjunction with the IGP and GitLab Epics. 
 
@@ -166,11 +153,11 @@ Some call it a "brag sheet". Some call it a CREDIT Tracker. Either way, it's a g
 1. Start filling it out (check out the video below for a walkthrough) with links, notes, and screenshots
 1. Set a weekly or monthly calendar reminder to continuosly add to your tracker
 
-### Health Tracker: Growth Plan
+#### Health Tracker: Growth Plan
 
 Make a copy of this [health tracker in Google Sheets](https://docs.google.com/spreadsheets/d/1Pr_yl8TRAXucSr4qYml6TdsO86PgiaKB/edit#gid=2104005676) and save it to your drive. Use it to track the current status and long term goals you've set for your growth.
 
-### Use GitLab Epics to track your career development
+#### Use GitLab Epics to track your career development
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
