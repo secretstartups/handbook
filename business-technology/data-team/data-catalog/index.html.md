@@ -19,7 +19,7 @@ The purpose of this **Data Catalog** is to help you understand and make use of t
 
 - See [Data Sources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources) for a list of all data sourced into Snowflake. Not all Tech Stack Application Data is sourced into Snowflake, but most critical application data is. If there is data you would like sourced into Snowflake, follow our [New Data Source](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/) guide.
 - Refer to the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for a comprehensive list of all Tech Stack Applications. The YAML file is the SSOT for key application information, such as business owner, technical owner, data classification, and access request process.
-- This Data Catalog is organized by [function and results](https://about.gitlab.com/handbook/handbook-usage/#organized-by-function-and-results), with a separate section focusing on cross-functional analysis.
+- This Data Catalog is organized by the major cross functional workflows and then by the [function and results](https://about.gitlab.com/handbook/handbook-usage/#organized-by-function-and-results).
 
 ## Important: How Data Extraction, Loading, and Transformation Works
 
@@ -29,127 +29,111 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 - **Transformation**: [dbt](https://www.getdbt.com/) is used for all in transformations. See our [dbt guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/) for more details on why and how we use this tool. All dbt code is stored in our [Analytics Project](https://about.gitlab.com/handbook/business-technology/data-team/platform/#folder-structure-in-analytics-project).
 
+## Sisense Enterprise BI Tool
 
-## Definitive Guides
+[Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
 
-* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
-* [Definitive Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/)
-* [Definitive Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
-* [Definitive Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
+## Lead to Cash Catalog
 
-## [GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
+### Analytics Hubs
 
+- [GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
 - [Marketing Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/969815/Marketing-Analytics-Hub)
 - Sales Analytics Hub `Coming Soon`
+- Finance Analytics Hub `Coming Soon`
 
-## R&D Analytics Hub 
+### Data Guides
+
+* [Data Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
+* [Data Guide to Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
+* [Data Guide to Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
+* [Data Guide to Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+* [Data Guide to Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
+
+### Entity Relationship Diagrams
+
+`Coming Soon`
+
+### Analysis
+
+#### Sales
+
+`Coming soon`
+
+#### Marketing
+
+`Coming soon`
+
+#### Finance
+
+`Coming soon`
+
+#### Data Science and Business Insights
+
+* [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
+* [2022-01-10 Free Account conversion to First-Order Closed Won](https://docs.google.com/presentation/d/1_kNZww2gEBlMINa67PXpkhllHsU16mVzo_dM0Qx8d14/edit#slide=id.gedf1d4ec40_0_0)
+* Propensity to Expand: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
+* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
+
+
+
+## Product Release to Adoption Catalog
+
+### Analytics Hubs
 
 - [Engineering Analytics Hub](https://app.periscopedata.com/app/gitlab/1052283/)
 - [Product Analytics Hub](https://app.periscopedata.com/app/gitlab/1052689/Product-Analytics-Hub)
 
-## G&A Analytics Hub 
+### Data Guides
 
-- [People Analytics Hub](https://app.periscopedata.com/app/gitlab/1104972/People-Analytics-Hub)
-- Finance Analytics Hub `Coming Soon`
+* [Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
+* [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
+* [Data Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+* [Data Guide to Self-Managed Estimation Methodology](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html)
+* [Data Guide for Growth](/handbook/product/product-analysis/growth-data-guide/)
+* [Data Guide to Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
+* [Data Guide to SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
+* [Data Guide to CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
+* [Data Guide to Manual Usage Data Upload Process](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
+* [Data Guide to MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate)
+* [Data Guide to Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation/)
+* [Data Guide to Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
+* [Data Guide to Service Data Inspector](/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
+* [Data Guide to SaaS Service Ping Automation](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 
-## Snowflake Dimensional Models
+### Entity Relationship Diagrams
 
-### Product 
+`Coming Soon`
 
-* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
-* [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
-* [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
+### Analysis
 
-## Sisense Dashboards
+#### Product Data Insights
 
-[Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
-
-# Marketing
-
-## Dashboards
-
-* [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
-* [TD: SDR Performance Dashboard](https://app.periscopedata.com/app/gitlab/894285/TD-SDR-Performance-Dashboard---V1.0)
-
-## Analytics Projects
-
-* [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
-* [2022-01-10 Free Account conversion to First-Order Closed Won](https://docs.google.com/presentation/d/1_kNZww2gEBlMINa67PXpkhllHsU16mVzo_dM0Qx8d14/edit#slide=id.gedf1d4ec40_0_0)
-
-# Sales
-
-## Dashboards
-
-* [TD: Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation/)
-* [TD: Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel/)
-* [Manual Usage Data Upload Process](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
-
-## Analytics Projects
-
-* Propensity to Expand: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
-* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
-
-# Finance
-
-## Dashboards
-
-* [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
-* [Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
-* [Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
-* [TD: Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
-
-# Product
-
-## Dashboards
-
-* [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation/)
-* [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
-* [TD: Service Data Inspector](/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
-
-## Data Models and Processes
-
-* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
-* [SaaS Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
-* [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
-* [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
-* [Namespace Data](/handbook/business-technology/data-team/data-catalog/namespace/) 
-
-## Analytics Projects
-
-* [2020-12 Product Analytics Offsite](https://docs.google.com/presentation/d/1y9iTbHBNSCoq26Wxb0MnGAP7vlcPdAG5Ehigsyr3Hpw/edit#slide=id.g29a70c6c35_0_68)
-
-# Growth
-
-## Dashboards
-
-* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
-* [Growth Dashboards](/handbook/marketing/growth/)
-* [Junkmail Domain Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/939155/Growth:Conversion-SaaS-PII-Trial-Analysis)
-
-## Analytics Projects
-
+* [Collection of Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
+* [PDI Data Model Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
+* [PDI Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
+* [PDI Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 * [FY22-Q1 Growth Team KPI Review](https://docs.google.com/presentation/d/1VX85L9UTD7PQbb_aPJolqhRkq2KE7r8up2dSOzWNTeo/edit#slide=id.gdd1aebac8e_0_0)
 * [2021-08 Customer Centric Product Insights](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
 * [2021-08 Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/edit#slide=id.gca4c496ea4_0_0)
-* [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
-* [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
-* [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
-* [2021-10 SpO Retention Analysis](https://docs.google.com/presentation/d/1RR5qwaE2E2OUtfSgU53GMs8FHjexNx2CFJcUbtiNS-0/edit#slide=id.g29a70c6c35_0_68)
-* [Growth Insights](/handbook/marketing/growth/)
-* [Concluded Growth Experiments](/handbook/marketing/growth/)
-* [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
 
-# Customer Success
+#### Customer Success
 
-* Account IQ (url to be included)
+* Account IQ (`Coming Soon`)
 
-# Engineering
+#### Engineering
 
-* [MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate)
+`Coming Soon`
 
-# People
 
-## Dashboards
+## Team Member Catalog
+
+### Analytics Hubs
+
+- [People Analytics Hub](https://app.periscopedata.com/app/gitlab/1104972/People-Analytics-Hub)
+* [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
+
+### Data Guides
 
 * [People Analytics Overview](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [PTO by Deel (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
@@ -157,14 +141,39 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html)
 * [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
 * [Talent Acquisition Metrics](/handbook/business-technology/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
-* [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
-# Data Team
+### Entity Relationship Diagrams
 
-## Dashboards
+`Coming Soon`
 
+### Analysis
+
+#### People Group
+
+`Coming Soon`
+
+
+
+## Central Data Team Catalog
+
+### Analytics Hubs
+
+* Central Data Team Analytics Hub `Coming Soon`
 * [Sisense Usage and Adoption](https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb)
 * [Trusted Data Health](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
+
+### Data Guides
+
+`Coming Soon`
+
+### Entity Relationship Diagrams
+
+`Coming Soon`
+
+### Analysis
+
+`Coming Soon`
+
 
 # Metrics and Terms Index
 
