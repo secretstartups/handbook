@@ -13,8 +13,8 @@ title: "Security Compliance Team"
 
 It is the goal of the GitLab Security Compliance team to:
 
-1. Enable GitLab sales by providing customers information and assurance about our information security program and remove security as a barrier to adoption by our customers.
-1. Enable security to scale through the definition of security controls and determining the boundaries and applicability of the information security management system to establish its scope.
+1. Enable GitLab sales by providing customers information and assurance about our information security program and removing security as a barrier to adoption by our customers.
+1. Enable security to scale through the definition of security controls and determine the boundaries and applicability of the information security management system to establish its scope.
 1. Work across industries and verticals to support GitLab customers in their own compliance journey.
 1. Identify and mitigate GitLab information security risk through continuous control monitoring and automation.
 
@@ -70,7 +70,7 @@ A member of the [Security Assurance](/handbook/security/security-assurance/) org
 
 * [Security Certifications](/handbook/security/security-assurance/security-compliance/certifications.html)
 * [GCF Security Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html)
-* [GCF Secrity Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html)
+* [GCF Security Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html)
 * [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
 * [Observation Methodology](/handbook/security/security-assurance/observation-management-procedure.html)
 * [Gap Analysis Program](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html)
