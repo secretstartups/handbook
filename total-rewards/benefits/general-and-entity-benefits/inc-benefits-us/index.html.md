@@ -493,29 +493,29 @@ For more information and how to access these benefits, please see the [EAP flyer
  
 ### Group Long-Term and Short-Term Disability Insurance
  
-GitLab provides, at no cost to our Inc and Federal team members, a disability policy through New York Life (administered by Cigna) that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500.
+GitLab provides, at no cost to our Inc and Federal team members, a disability policy through NY Life that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability, there is a monthly benefit maximum of $12,500.
 
 Short-term disability insurance has a 7-calendar day waiting period before payments begin. Benefits coverage (medical, dental, vision, etc.) and vesting will continue for the time the team member is receiving short-term disability pay. 
 
 **GitLab Process for Disability Claim**
  
-1. Team Members unable to work due to disability, as defined by the applicable short term disability plan, should contact the Absence Management team (leaves@gitlab.com) as soon as possible.  See [Sick Time reporting proceedures in the US](/handbook/paid-time-off/#sick-time-procedures---usa).  
+1. Team Members unable to work due to disability, as defined by the applicable short-term disability plan, should contact the Absence Management team (leaves@gitlab.com) as soon as possible.  See [Sick Time reporting proceedures in the US](/handbook/paid-time-off/#sick-time-procedures---usa).  
 1. The Absence Management team will complete the Employer portion of the the [Short-Term disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and email the completed portion along with the [Assignment of Benefits](https://drive.google.com/file/d/1nd0r5qj9PS21HDFH97Jbft9dZzlpTOsr/view?usp=sharing) form. 
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work.
    * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization form from their physician stating that they are able to return to work and listing any accommodations needed, if applicable, at least 5 calendar days before their return date. The Absence Management team will request this at least 5 business days before the team member's anticipated return to work date if not already provided by the team member.
    * If the team member is unable to return, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
  
-**Short-Term Disability Claim Process via Cigna**
+**Short-Term Disability Claim Process via NYLife**
  
 1. Team member will submit the Claimant portion of the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and remit to their physician to complete the rest. 
-     - The completed application can be sent directly to Cigna (using the mail or fax number at the top of the form) or can be returned to the Absence Management team and will be submitted on the team member's behalf. 
-     - This is completely at the preference of the team member or the requirement from the Doctor, but the team member should confirm the choice with the Absence Management team.
-2. If the team member opts to send the form directly to Cigna, the Absence Management team will email the completed employer portion of the Short-Term Disability form to Cigna via email: `dallasfco.intake2@cigna.com`and `TeamArakeliansMailbox@Cigna.com`.
-3. Cigna Claims Process:  
-     - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
+     - The completed application can be sent directly to NYLife (using the mail or fax number at the top of the form) or can be returned to the Absence Management team and will be submitted on the team member's behalf. 
+     - This is completely at the preference of the team member or the requirement from the doctor, but the team member should confirm the choice with the Absence Management team.
+2. If the team member opts to send the form directly to NYLife, the Absence Management team will email the completed employer portion of the Short-Term Disability form to NYLife via email: `dallasfco.intake2@cigna.com`and `TeamArakeliansMailbox@Cigna.com`.
+3. NYLife Claims Process:  
+     - Within 3 business days of NYLife receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
      - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
-     - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so. 
-     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Management team will also receive a notification of the denial and process any pay owed to the team member.
+     - The NYLife claims team will immediately begin reviewing the information available to make a decision. NYLife may also contact the team member's physician (if needed) once NYLife has the team members authorization to do so. 
+     - If the claim is denied, the team member will receive a call from NYLife explaining the decision. The Absence Management team will also receive a notification of the denial and process any pay owed to the team member.
      - If approved, communication is sent to the Absence Management team and claim status reports with approval date and estimated return-to-work date is provided.  
 5. The Absence Management team will process the approval or denial and file all related paperwork in BambooHR. 
  
