@@ -24,7 +24,9 @@ We also have private repositories for infrastructure-related least privilege on 
 
 All labels are created in the `gitlab.com/gitlab-com` top-level group so they can be applied to any projects that we work on. We do not use labels in our `ops.gitlab.net` projects. 
 
-* [it-eng-metric::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-eng-metric)
+* [it-difficulty::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-difficulty)
+* [it-metric::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-metric)
+* ~~[it-eng-metric::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-eng-metric)~~
 * [it-eng-priority::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-eng-priority)
 * [it-eng-service::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-eng-service)
 * [it-eng-status::*](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=it-eng-status)
@@ -37,7 +39,7 @@ If you're not sure what labels to use on a new issue, here are suggested default
 * `~"it-eng-type::ops-triage"`
 * `~"it-eng-priority::p2"`
 * `~"it-eng-service::(choose from list)"`
-* `~"it-eng-status::not-started"`
+* `~"it-eng-status::inbox"`
 
 ## Issue Boards and Project Management
 
