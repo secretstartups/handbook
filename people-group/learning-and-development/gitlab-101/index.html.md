@@ -13,10 +13,15 @@ title: GitLab 101 Tool Certification
 
 Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab. 
 
+#### GitLab Team Members
+
 Please visit Level Up and create an account to complete the [GitLab 101 Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101) and earn the GitLab 101 Badge!
 
 Team members can also complete the [GitLab Team Members Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-team-members-certification). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on Level Up. 
 
+#### Community Members
+
+Please visit Level Up and create an account to complete the [GitLab 101 Certification](https://levelup.gitlab.com/courses/gitlab101) and earn the GitLab 101 Badge!
 
 ### Who can benefit from this 101 training?
 
@@ -121,10 +126,6 @@ Before taking the quiz, practice your knowledge on technical terminology with th
 
 To use the flashcards, click on the link above. You can review the flashcards in a variety of different ways. You can use them like normal (virtual) index card flashcards with the vocab word on the front and click on the index card to reveal the definition on the back. You can also use the other flashcard functions like Memorize and Test.
 
-### Quiz - Lesson 1: Technical Terminology
-
-Please complete the Lesson 1 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
-
 ## Lesson 2: GitLab Issues
 
 ### What is a GitLab Issue
@@ -222,10 +223,6 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 ### Other Helpful Tips for Issues
    1. Marking issues as "Confidential" - This means everyone at GitLab still has access to see the issue. People outside of GitLab would not have access to view the issue, though.
 
-### Quiz - Lesson 2: GitLab Issues
-
-Please complete the Lesson 2 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
-
 ## Lesson 3: GitLab Merge Requests
 
 ### What is a GitLab Merge Request
@@ -267,12 +264,9 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
    1. Squash Commits - when obtaining a merge request, there is an option to enable or disable [“Squash commits when merge request is accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html). If enabled, it combines all your merge request’s commits into one and retain a clean history.
    1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#deleting-the-source-branch) option.
 
-### Quiz - Lesson 3: GitLab Merge Requests
-
-Please complete the Lesson 3 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101)
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
 ## Feedback
 
-We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101).
+We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out the feedback section which appears when completing the course.
