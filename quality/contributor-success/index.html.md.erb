@@ -259,6 +259,29 @@ See [Sisense SQL snippets](sisense-sql-snippets.html)
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
   - [First-time contributors](/handbook/marketing/community-relations/code-contributor-program/#first-time-contributors) are also awarded a gift as our way to say thanks.
 
+### Granting additional CI minutes to a contributor
+
+You can use [ChatOps](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html) commands to grant extra CI minutes to a community contributor.
+
+- Investigate the account:
+
+  ```
+  /chatops run namespace find USERNAME
+  ```
+
+- Adjust the _extra minutes_ for the account.
+  These extra minutes go on top of their [base amount](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#cost-factor-for-community-contributions-to-gitlab-projects) of minutes.
+
+  ```
+  /chatops run namespace minutes USERNAME 1000
+  ```
+
+  There is only one contingent of extra minutes per account.
+  If you execute the above command twice, the account still has only 1000 extra minutes because you set the amount of extra minutes to 1000 twice.
+
+- Track the added extra minutes.
+  These extra minutes apply automatically every month until manually canceled, and will be audited regularly.
+
 ### Community issues workflow manual process
 
 1. If the issue is spam, [report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [`#abuse`](https://gitlab.slack.com/messages/C0HPYBJ3D) Slack channel with a link to the issue and alert the `@abuse-team`.
