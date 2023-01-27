@@ -157,7 +157,7 @@ We are developing [GitLab Access Manager (GLAM)](/handbook/business-technology/e
 
 ### Cloud Infrastructure Management
 
-The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-operations/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
+The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
 Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 
