@@ -135,3 +135,21 @@ Use iteration to better control scope and deliver measurable value in each relea
 * If the project goes 3 milestones without meeting success criteria, then a larger evaluation should be performed with the section leaders.
 
 The goal is to catch scope creep, ensure we are iterating in ways that deliver measurable value, and establish circuit breakers to address earlier as needed.
+
+## Distribution dependency maintenance policy
+
+Distribution team follows below dependency maintenance policy in order to achieve our [technology vision](handbook/engineering/development/enablement/systems/distribution/#vision).
+
+### OS
+
+All the operating systems supported by GitLab and their EOL policy are listed in the [Supported OS doc page](https://docs.gitlab.com/ee/administration/package_information/supported_os.html) and [installation page](https://about.gitlab.com/install/).
+
+For new OS release, Distribution team aims to provide Linux package support per the below timeline:
+
+| OS | Expected to be supported by |
+| ------ | ------ |
+| Ubuntu LTS release | within 2 milestones after OS release date |
+| RHEL(& RHEL Clones) major and minor release | within 3 milestones after OS release date |
+| Debian LTS and minor release | within 3 milestones after OS release date |
+| All others minor release | within 3 milestones after OS release date |
+| All others major release | within 4 milestones after OS release date |
