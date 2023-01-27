@@ -752,7 +752,7 @@ To find out what upcoming events GitLab will be involved in please visit our [Ev
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
 
-## [Marketing SSOT calendar](/handbook/marketing/#fy22-calendar) 
+## [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar) 
 
 ## [AMER Field Marketing Event Tracker for Sales](https://docs.google.com/spreadsheets/d/1-McecmJ7MVgdmVrjzBdrxrx6CfJ6U0dqnMILBNl67j0/edit#gid=0) 
 
