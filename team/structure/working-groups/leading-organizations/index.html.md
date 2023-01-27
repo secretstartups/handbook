@@ -49,7 +49,7 @@ Build scalable model to activate 100 Leading Organizations by the end of FY24-Q4
 
 | Working Group Role             | Team Member     | Functional Title                           |
 |--------------------------------|-----------------|--------------------------------------------|
-| Facilitator                    | Liz Petoskey    | Director, Strategy and Operations          |
+| DRI                    | Emilio Salvador   | VP, Developer Relations and Community          |
 | Executive Stakeholder          | Ashley Kramer   | Chief Marketing & Strategy Officer         |
 | Functional Lead: Contributor Success | Nick Veenhof | Director, Contributor Success           |
 | Functional Lead: Developer Evangelism | John Coghlan | Sr. Manager, Developer Evangelism       |
