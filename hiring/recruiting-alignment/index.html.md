@@ -8,20 +8,20 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter   | Candidate Experience Specialist    |
 |--------------------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn    | Michelle Jubrey  |
+| Executive          | Rich Kahn    | Sruthy Menon  |
 | Executive          | Zach Choquette   | Sruthy Menon  |
 | Enterprise Sales, NA | Kevin Rodrigues |Fernando Khubeir |
 | Enterprise Sales, NA | Jill Hind |Mathea Gervolino |
 | Enterprise Sales, NA | Harinder May | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter | Fernando Khubeir |
-| Commercial Sales,	AMER | Hannah Stewart  | Sruthy Menon |
+| Commercial Sales,	AMER | Hannah Stewart  | Fernando Khubeir |
 | Commercial Sales,	EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, US/EMEA | Kanwal Matharu  | Lerato Thipe |
 | Field Operations,	US/EMEA | Kelsey Hart  | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Muttiah & Ornella Gerca | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
-| Marketing, Global | Sarah Sherwood | Sruthy Menon |
+| Marketing, Global | Sarah Sherwood | Michelle Jubrey |
 | Marketing, BDR/SDR (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A, Legal | Elizabeth Owen | Fernando Khubeir  |
 | G&A, Accounting, People | Rachelle Druffel | Fernando Khubeir |
