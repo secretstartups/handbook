@@ -10,26 +10,27 @@ description: "Product designer pairs rotation schedule"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This is the rotation schedule for FY23-Q3 and Q4 (August 2022 - January 2023). Learn more about [Pair Designing](/handbook/product/ux/how-we-work/#pair-designing).
+This is the rotation schedule for FY24-Q1 and Q2 (February 2023 - July 2023). Learn more about [Pair Designing](/handbook/product/ux/how-we-work/#pair-designing).
 
 [//]: # TIP: Create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table)
 
 | Designer               | Design Pair            |
 |------------------------|------------------------|
-| Katie Macoy            | Matt Nearents          |
-| Veethika Mishra        | Michael Le             |
-| Matej Latin            | Jeremy Elder           |
-| Ali Ndlovu             | Daniel Mora            |
-| Sunjung Park           | Gina Doyle             |
-| Kevin Comoli           | Andy Volpe             |
-| Dan Mizzi-Harris       | Sascha Eggenberger     |
-| Mike Nichols           | Nick Brandt            |
-| Michael Fangman        | Emily Bauman           |
-| Emily Sybrant          | Amelia Bauerly         |
-| Becka Lippert          | Philip Joyce           |
-| Alexis Ginsberg        | Annabel Gray           |
-| Austin Regnery         | Libor Vanc             |
-| Camellia Yang          | Nick Leonard           |
+| Katie Macoy	         | Matt Nearents          |
+| Veethika Mishra	 | Julia Miocene          |
+| Gina Doyle	         | Libor Vanc, Emily Sybrant |
+| Ali Ndlovu	         | Andy Volpe             |
+| Sunjung Park	         | Becka Lippert          |
+| Daniel Mora	         | Pedro Moreira da Silva |
+| Kevin Comoli	         | Camellia Yang          |
+| Emily Bauman	         | Philip Joyce           |
+| Dan Mizzi-Harris	 | Jeremy Elder           |
+| Sascha Eggenberger	 | Annabel Gray           |
+| Matej Latin	         | Michael Fangman        |
+| Mike Nichols	         | Amelia Bauerly         |
+| Nick Leonard	         | Nick Brandt            |
+| Austin Regnery	 | Alexis Ginsberg        |
+| Alex Fracazo	         | Michael Le             |
 
 ### Temporary pairing
 
