@@ -275,9 +275,11 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 1. Add a positive filter on `json.user.username` for the username of the account used to make the purchase.
 1. Add a positive filter on `json.tags.feature_category` for `purchase`.
 
-Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/a2f75d60-6cc9-11ed-85ed-e7557b0a598c` and just update the username value.
+Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/6aac4580-9d9b-11ed-85ed-e7557b0a598c` and update the value of `json.user.username`.
 
-**Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and just update the username value.
+If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
+
+**Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and update the value of `json.username`.
 
 #### CustomersDot purchase errors
 
@@ -289,4 +291,6 @@ Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/a2f75d60-6cc9-11ed-85ed-e7
 1. Add a positive filter on `json.customer_id` for the username of the account used to make the purchase.
 1. Add a positive filter on `json.severity` for `ERROR`.
 
-Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/44969c50-6ccd-11ed-85ed-e7557b0a598c` and just update the value of `json.customer_id`. 
+Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/9c28ba80-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.customer_id`. 
+
+In case you have the namespace details, get the **Namespace ID** then go to `https://log.gprd.gitlab.net/goto/b598dfe0-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.params.gl_namespace_id`

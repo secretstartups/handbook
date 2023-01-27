@@ -40,7 +40,7 @@ To find the error specifically related to a customer on sentry, try the followin
    - Open sentry issue → Click on `EVENTS`
    - Use customer email to search for the relevant event
 
-## Getting error messages from CustomersDot Kibana logs
+### Getting error messages from CustomersDot Kibana logs
 
 You can access the CustomersDot production logs or staging logs in [Kibana](https://log.gprd.gitlab.net/) by filtering using `prdsub*` or `stgsub*` respectively.
 
