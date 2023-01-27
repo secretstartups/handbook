@@ -39,7 +39,7 @@ To indicate a customer's interest in an existing issue, add the link to their Sa
 
 Make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
 
-Product uses the [RICE framework](/handbook/product/product-management/process/#prioritization) to determine prioritization of features and issues. Adding customer interest to issues helps increase the RICE score and the visibility of the issue.
+Product uses the [RICE framework](/handbook/product/product-processes/) to determine prioritization of features and issues. Adding customer interest to issues helps increase the RICE score and the visibility of the issue.
 
 #### Sisense
 
@@ -70,7 +70,7 @@ If there is a lot of discussion with the customer about a specific feature reque
 
 #### High priority requests
 
-If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
+If a customer has [identified an issue that is high priority](/handbook/product/product-processes/), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
 
 #### Medium Priority Requests
 

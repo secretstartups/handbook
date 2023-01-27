@@ -88,7 +88,7 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 
 
 - [Declare a GitLab.com Incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
-- [Escalate an individual support ticket to Support Management](/handbook/support/internal-support/support-escalations.html) for cases with context that necessitate they should be handled outside of standard priority order.
+- [Escalate an individual support ticket to Support Management](/handbook/support/internal-support/support-ticket-attention-requests.html) for cases with context that necessitate they should be handled outside of standard priority order.
 - Have the customer [trigger Emergency Support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) for S1/instance down issues to connect directly with the Support Engineer on-call.
    - You can also [page the on-call support manager](/handbook/support/on-call/#paging-the-on-call-manager) in cases where you've received word that a customer attempted to raise an emergency, but the on-call engineer was not paged. 
 - This page outlines the additional support and operational procedures for the varying levels of account escalation.
@@ -172,7 +172,7 @@ When a customer is in an escalated state, the path to resolution must continue t
 
 ## Support Engineering's role in Escalations
 
-See the [Support Engineering Guide to Escalations](/handbook/support/internal-support/support-escalations.html) for more specific information on how support manages customers in an escalated state.
+See the [Support Engineering Guide to Escalations](/handbook/support/internal-support/support-ticket-attention-requests.html) for more specific information on how support manages customers in an escalated state.
 
 ## Related Links
 
