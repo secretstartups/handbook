@@ -57,6 +57,13 @@ Some MRs may not need triaging and as an MR coach you should feel empowered to a
 * MRs that include only whitespace or stylistic changes.
 * MRs that resolve ignored Rubocop violations.
 
+#### Giving a contributor more CI minutes
+
+When a contributor runs out of CI minutes, you can either:
+
+- Move the MR into the [community fork](https://gitlab.com/gitlab-community/meta) to take advantage of the unlimited CI minutes and many other [benefits](https://gitlab.com/gitlab-community/meta#why) there.
+- Tag **@gl-quality/contributor-success** to have them add more CI minutes to this user account for a limited time.
+
 ### Finishing merge requests
 
 Sometimes a contributor will either become unresponsive or state that they will not be able to finish a merge request. If a Merge Request Coach deems the effort worthwile and has the knowledge and the bandwidth to complete it, they will bring the MR to the finish line instead of [closing it](#closing-merge-requests).
