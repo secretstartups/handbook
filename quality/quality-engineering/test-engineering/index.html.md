@@ -110,9 +110,9 @@ You can see the all the existing test plans here: [GitLab Test Plans](https://gi
 
 #### Security
 
-In addition to quality, [security](../../../security/) is also one of our top concerns. With every change and every new feature we need to consider security risks and mitigate them early in the development process.
+In addition to quality, [security](security) is also one of our top concerns. With every change and every new feature we need to consider security risks and mitigate them early in the development process.
 
-See also when and how to request a [security review](../../../security/#internal-application-security-reviews).
+See also when and how to request a [security review](/handbook/security/).
 
 The test plan template has a risk column dedicated to security, however, whether or not a test plan is not created, it is essential that a discussion about security risks takes place as early as possible.
 
