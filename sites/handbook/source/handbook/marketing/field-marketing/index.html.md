@@ -722,10 +722,15 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 
 # Corporate Memberships Owned by GitLab Field Marketing
 
-- [AFCEA](https://www.afcea.org/site/) - Membership is handled by the Public Sector Field Marketing Manager. Account information is stored in the marketing 1Pass vault.
-- [ACT-ICT](https://www.actiac.org) - Membership is handled by the Public Sector Field Marketing Manager. Please ping the PubSec FMM for details if you'd like to join.
-- [Charleston DCA](https://www.charlestondca.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping the PubSec FMM for details if you'd like to join.
-- [G2xExchange](https://www.g2xchange.com/join-today/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping the PubSec FMM for details if you'd like to join.
+- [AFCEA](https://www.afcea.org/site/) - Membership is handled by the Public Sector Field Marketing Manager. Account information is stored in the marketing 1Pass vault. Please ping Kira Aubrey or Haley McComber for assistance. 
+- [ACT-IAC](https://www.actiac.org) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
+- [Charleston DCA](https://www.charlestondca.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
+- [G2xExchange](https://www.g2xchange.com/join-today/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details if you'd like to join.
+- [NASCIO](https://www.nascio.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details.
+- [GBEF](https://gbef.tech/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details.
+- [INSA](https://www.insaonline.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details.
+- [USGIF](https://usgif.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details.
+- [NASTD](https://www.nastd.org/home) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details.
 
 # What's currently scheduled in my region?
 
@@ -735,7 +740,8 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 | [AMER - South Central & LATAM](https://gitlab.com/groups/gitlab-com/marketing/-/boards/4435497?label_name[]=South%20Central%20-%20LATAM) | Jonathan Santiago  | `@JonathanSanti` |
 | [AMER - North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Julie Wyatt | `@Julie Wyatt` |
 | [AMER - Southwest & Northwest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
-| [AMER - Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey |  `@KiraAubrey` | Haley McComber |  `@Haley McComber` |
+| [AMER - Public Sector DoD/NSG/Alliances](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey |  `@KiraAubrey` |
+| [AMER - Public Sector SLED/Civ](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Haley McComber |  `@Haley McComber` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Kate Baker | `@kbaker4` |
 | Japan - link WIP | Shu Kawaguchi | `@skawaguchi1` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
