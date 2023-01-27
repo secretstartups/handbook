@@ -865,6 +865,9 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 **Adding poll questions to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIo88jv88tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+10. **ADDING WEBCAST SURVEY**: In the tools manager located in the `ON24 Console` choose `Take Survey` and add it to your event console. You can then set it to appear as post event survey, during the webcast, or both in the `Configuration` settings tab. 
+    * Note. Although there is no standard survey template built into our templates currently, you can copy/paste from this [standard post-webcast survey](https://docs.google.com/document/d/1kBG_eXRLYRmgqH2DIpapOUbCkOxjSsRc_f6m8nXOxxE/edit) we are using for tech demos.
+
 ### Step 2: Set up the webcast in Marketo/SFDC and connect to ON24
 {: #on24-mkto-setup} <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -982,8 +985,8 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 ### Add the webcast to the /events/ and /resources/ pages
 {: #on24-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
-*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
+*  To add the webcast to the /events/ page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+*  To add the webcast to the /resources/ page follow this [step by step guide](/https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#add-to-resources-page).
 
 ### ON24 Webcast Testings / QA
 {: #on24-webcast-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
