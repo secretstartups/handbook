@@ -57,5 +57,7 @@ The Security Assurance Automation team is continuously engineering new automated
 
 Routine and break-fix maintenance of automated controls and processes is performed by Security Assurance Automation Engineers for automation related to the department. Pro-active requests for maintenance can submitted through the [Security Assurance Automation project](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue).
 
+### Compliance control monitoring and evidence gathering automation
+Conversion of manual compliance control monitoring and evidence gathering processes to partially or fully automated processes. This will save time and reduce the opportunity for human error or oversight as our control framework expands.
 
 
