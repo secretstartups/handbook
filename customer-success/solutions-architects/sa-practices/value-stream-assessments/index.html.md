@@ -190,6 +190,9 @@ The process which we will go through, at a high level, is as follows:
     - [Google Sheets - Lite Value Stream Mapping Template](https://docs.google.com/spreadsheets/d/1ioMIf_wV95mGUwjHezjT3zOTkEeG_gEnKanVS4hJB0k/edit?usp=sharing)
     - Zoom, MS Teams, or Google Meet
     - LucidChart for Value Stream Map visulization
+      - LucidChart is an IT-managed application. If you are unsure if you have LucidChart access, go to the Okta interface in your browser, then select "Search Your Apps" and see if `LucidChart SSO` is available. If yes, LucidChart has been assigned to you and you can launch it from Okta and collaborate on any LucidChart Documents your team has shared with you. If no, then `LucidChart SSO` has not been assigned to you yet.
+      - If you do not have `LucidChart SSO` assigned to you in Okta, please navigate to the ["access-requests" Project](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/) and submit an Issue requesting "Lucid Chart". Assign the Issue to your Manager and add the `IT::to do` label. An example Access Request Issue may be found [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/19341).
+      - If your Access Request is urgent, paste the link to your Access Request Issue into the #it_help Slack channel and @ mention `it-help` with a note on why it is urgent.
 - Onsite:
     - Stickies
     - Pens
