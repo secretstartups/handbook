@@ -67,13 +67,13 @@ We will assist in managing and providing guidance to carry out day to day activi
 
 
 [Donovan Felton](https://about.gitlab.com/company/team/#dfelton), @dfelton, Security Assurance Engineer, Automation
-   * [Automation design, development, and implementation](/handbook/engineering/security/security-assurance/governance/security-assurance-automation.html)
-   * [GRC application administration](https://about.gitlab.com/handbook/engineering/security/security-assurance/#core-tools-and-systems-1)
+   * [Automation design, development, and implementation](/handbook/security/security-assurance/governance/security-assurance-automation.html)
+   * [GRC application administration](https://about.gitlab.com/handbook/security/security-assurance/#core-tools-and-systems-1)
 
 [Joe Longo](https://about.gitlab.com/company/team/#jlongo_gitlab), @jlongo_gitlab, Manager, Governance and Field Security
-   * [Controlled Documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-program.html)
-   * [Security compliance training](https://about.gitlab.com/handbook/engineering/security/security-assurance/governance/sec-training.html)
-   * [GCF control maintenance](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/sec-controls.html)
+   * [Controlled Documents](https://about.gitlab.com/handbook/security/controlled-document-program.html)
+   * [Security compliance training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html)
+   * [GCF control maintenance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html)
 
 [Julia Lake](https://about.gitlab.com/company/team/#Julia.Lake), @julia.lake, Sr. Director, Security Assurance
 

@@ -357,7 +357,7 @@ As observations are identified, assigned and then move into remediation, there m
 For detailed procedures relating to observation remediation, refer to the [observation remediation procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
 
 ## Metrics and Reporting
-Please refer to the internal handbook page - [Observation Management](https://internal-handbook.gitlab.io/handbook/engineering/security/security-assurance/observation-management-section/) for a breakdown of all observations by risk, status, Security Assurance program and department. Given the sensitivity of this information visibility is limited to internal use only. 
+Please refer to the internal handbook page - [Observation Management](https://internal-handbook.gitlab.io/handbook/security/security-assurance/observation-management-section/) for a breakdown of all observations by risk, status, Security Assurance program and department. Given the sensitivity of this information visibility is limited to internal use only. 
 
 ## Exceptions
 

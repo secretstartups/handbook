@@ -27,7 +27,7 @@ the life cycle of the feature, to facilitate the creation of the required docume
 artifacts.
 
 The framework relies heavily on the [data
-classification](/handbook/engineering/security/data-classification-standard.html) of the feature in
+classification](/handbook/security/data-classification-standard.html) of the feature in
 scope. It is not necessary for features managing Green data, and more activities are required as the
 level increases, up to Red data.
 
@@ -48,7 +48,7 @@ and more precisely for changes in:
 1. The [GitLab Architecture](https://docs.gitlab.com/ee/development/architecture.html)
 1. The [GitLab.com
    infrastructure](/handbook/engineering/infrastructure/production/architecture/)
-1. The [classification](/handbook/engineering/security/data-classification-standard.html) of
+1. The [classification](/handbook/security/data-classification-standard.html) of
    the data being managed (stored, transferred, or updated)
 
 ## Getting Started
@@ -96,7 +96,7 @@ A value among: `Green`, `Yellow`, `Orange`, or `Red`.
 ##### Resources:
 
 1. The [Data Classification
-   Standard](/handbook/engineering/security/data-classification-standard.html) handbook page
+   Standard](/handbook/security/data-classification-standard.html) handbook page
 
 #### Architecture
 
@@ -119,8 +119,8 @@ Create or update a corresponding [Threat Model](handbook/security/threat_modelin
 ## Additional resources and references
 
 
-[Security Assurance]: /handbook/engineering/security/security-assurance/
-[Security Architects]: /handbook/engineering/security/architecture/
-[InfraSec]: /handbook/engineering/security/security-engineering-and-research/infrastructure-security/
-[AppSec]: /handbook/engineering/security/security-engineering-and-research/application-security/
+[Security Assurance]: /handbook/security/security-assurance/
+[Security Architects]: /handbook/security/architecture/
+[InfraSec]: /handbook/security/security-engineering-and-research/infrastructure-security/
+[AppSec]: /handbook/security/security-engineering-and-research/application-security/
 

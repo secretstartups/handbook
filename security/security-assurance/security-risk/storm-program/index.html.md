@@ -120,7 +120,7 @@ Examples of Tech Debt include systems/apps that:
 
 ### Scope
 
-Systems/apps that support and/or enable GitLab's security controls are in-scope for the purposes of the Tech Debt Analysis. A list of in-scope systems can be found [here](https://internal-handbook.gitlab.io/handbook/engineering/security/#security-tooling). This list is supplemented by other tools that are owned outside of Security (e.g., Okta or NIRA) that can be found in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+Systems/apps that support and/or enable GitLab's security controls are in-scope for the purposes of the Tech Debt Analysis. A list of in-scope systems can be found [here](https://internal-handbook.gitlab.io/handbook/security/#security-tooling). This list is supplemented by other tools that are owned outside of Security (e.g., Okta or NIRA) that can be found in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
 
 ### Process Overview
 

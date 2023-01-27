@@ -39,4 +39,4 @@ The AppSec team will post a Slack message in `#sec-appsec` with information on w
 
 Each AppSec team member providing coverage will have their mobile phone number available in their Slack profile.
 
-Should an incident occur, the ["Handling S1/P1s procedure"](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/handling-s1p1.html) will be followed, which includes handing over to the next AppSec engineer.
+Should an incident occur, the ["Handling S1/P1s procedure"](https://about.gitlab.com/handbook/security/security-engineering-and-research/application-security/runbooks/handling-s1p1.html) will be followed, which includes handing over to the next AppSec engineer.

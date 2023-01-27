@@ -47,4 +47,4 @@ SIRT is the sole carrier of the Security On-Call (SEOC) rotation, which ensures 
   - If number of pages to SEOC per year exceeds +100% of previous year
   - If number of total team members increases by +20% compared to previous year
 
-This gearing ratio is owned by the [Security Operations](https://about.gitlab.com/handbook/security/operations/) Sub-department.
+This gearing ratio is owned by the [Security Operations](https://about.gitlab.com/handbook/security/security-operations/) Sub-department.
