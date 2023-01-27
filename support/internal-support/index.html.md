@@ -52,7 +52,7 @@ There are several reasons why Support cannot respond to customer-specific reques
 - When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
-If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html)).
+If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html)).
 
 ### Requesting support for GitLab.com users that have account or login issues
 
