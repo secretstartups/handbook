@@ -16,20 +16,27 @@ description: "RStudio Guide"
 
 ## What is R?
 
-Similar to [Python](https://www.python.org/), [R](https://cran.r-project.org/)  is an open-source statistical software that is used to clean and analyze data. It is popular within the data science community and has many packages that make statistical modeling easier for statisticians and data scientists. To get an idea of why it might be worth learning R, [this blog post](https://www.dataquest.io/blog/three-mighty-good-reasons-to-learn-r-for-data-science/) give a great explanation and is worth a read.
+Similar to [Python](https://www.python.org/), [R](https://cran.r-project.org/)  is an open-source statistical software that is used to clean and analyze data. It is popular within the data science community and has many packages that make statistical modeling easier for statisticians and data scientists. To get an idea of why it might be worth learning R, [this blog post](https://www.dataquest.io/blog/three-mighty-good-reasons-to-learn-r-for-data-science/) gives a great explanation and is worth a read.
 
-To download R, go to the [CRAN website](https://cran.r-project.org/) and download the version of R for your system. 
+To download R, go to the [Comprehensive R Archive Network (CRAN) website](https://cran.r-project.org/) and download the version of R for your system. 
+
+You'll want to download the file similar to `R-4.2.2.pkg`. Once you've downloaded R to your machine, follow the prompts (it's best to accept the defaults) to install the software.
 
 ## What is RStudio?
 
-[RStudio](https://www.rstudio.com/) is an integrated development environment (IDE) for R that is availble in both open source and commercial editions. RStudio is also the group responsible for many R resources and package development. Take a look at the resources page on the RStudio website for more information, but below are just a couple of useful resources from RStudio.
+RStudio is an integrated development environment (IDE) for R that is availble in both open source and commercial editions. RStudio is developed by [Posit](https://posit.co/), a company that creates open source software for data science, scientific research, and technical communication. They are also responsible for many R resources and package development. Take a look at the resources page on the Posit website for more information, but below are just a couple of useful resources from RStudio.
 
 - [Books](https://www.rstudio.com/resources/books/)
 - [Tidyverse Blog](https://www.tidyverse.org/blog/)
-- [RStudio Blog](https://www.rstudio.com/blog/)
+- [Posit Blog](https://posit.co/blog/)
 - [RMarkdown Documents](https://rmarkdown.rstudio.com/)
+- [A ModernDive into R and the Tidyverse](https://moderndive.netlify.app/index.html) - This book is extremly helpful to beginners explaining the difference of R and RStudio and getting familiar with how to use RStudio
 
-To download RStudio, go to the [RStudio website](https://www.rstudio.com/products/rstudio/download/) and download the version of RStudio for your system.
+**Before you download RStudio** you must first download R. _RStudio will not run if you have not downloaded R on your machine_. 
+
+**To download RStudio**, go to the Posit website and navigate through _Products > RStudio IDE > (click) Download RStudio > Download RStudio Desktop_. 
+
+Or you can just go [here](https://posit.co/download/rstudio-desktop/) and follow the steps on their website. 
 
 **NOTE** _R and RStudio may be used interchangeably throughout this page._
 
