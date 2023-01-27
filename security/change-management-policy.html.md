@@ -32,10 +32,10 @@ These requirements are meant to provide a level of consistency across how change
 
 # Scope
 
-Changes, in the context of this policy, are defined as **modifications** to the production environment, to include supporting infrastructure, and key corporate systems. The policy applies to changes that are made to systems assigned a [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) of `Tier 1 Product`, `Tier 1 Business`, `Tier 2 Core`, and `Tier 2 Support`. 
+Changes, in the context of this policy, are defined as **modifications** to the production environment, to include supporting infrastructure, and key corporate systems. The policy applies to changes that are made to systems assigned a [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) of `Tier 1 Mission Critical`, `Tier 2 Business Critical`, `Tier 3 Business Operational`, and `Tier 4 Administrative`. 
 
 **Modifications** include, but are not limited to:
-- Creation/development/implementation of a new systems, integrations, features, key reports, databases, etc.
+- Creation/development/implementation of new systems, integrations, features, key reports, databases, etc.
 - Changes to configurations 
 - Deployment of patches or vendor supplied changes not managed by the vendor
 - Modifications to data schemas
@@ -43,7 +43,7 @@ Changes, in the context of this policy, are defined as **modifications** to the 
 - New access or role creation
 - Broadly speaking, any change that will impact how team members carry out their responsibilities
 
-**Note:** While Tier 3 / Non-critical systems are not subject to the scope of this policy, team members are encouraged to proactively adopt the requirements established by this policy across all systems, especially if there is a good probability that a system may move from a `Tier 3 / Non-Critical` system to a [higher system tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) handbook page.
+**Note:** While Tier 4 Administrative systems are not subject to the scope of this policy, team members are encouraged to proactively adopt the requirements established by this policy across all systems, especially if there is a good probability that a system may move from a `Tier 4 Administrative` system to a [higher system tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) handbook page.
 {: .note}
 
 ## Applicable Change Management Procedures: 
