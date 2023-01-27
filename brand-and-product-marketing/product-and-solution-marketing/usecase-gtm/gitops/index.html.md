@@ -82,17 +82,17 @@ In this approach, an agent is installed in your cluster to pull changes whenever
 ### User Persona
 Infrastructure as Code requires understanding of the platform and the desired state of the application environment. Users of Infrastructure as Code have a good understanding of both Git as a SCM tool as well as the platform they are expected to provision and manage. Below are a few power users Infrastructure as Code:
 
-* [Sam, the SRE](/handbook/marketing/product-marketing/roles-personas/#site-reliability-engineer)
+* [Sam, the SRE](/handbook/product/personas/)
   Sam works embedded into a service team with feature developers. They works on keeping the service up, deploying it, and managing the infrastruture needs of that service. They collaborate with the Platform team to systamatize best practices.
 
 
-* [Devon, the DevOps Engineer](/handbook/marketing/product-marketing/roles-personas/#devon-devops-engineer)
+* [Devon, the DevOps Engineer](/handbook/product/personas/)
   Devon is often the Ops interface for the development team. He provides support for infrastructure, environments and integrations. Devon is fairly conversant with code and would prefer administering infrastructure via code rather than a multitude of different tools and context switches.
 
-* [Priyanka, the Platform Operator](/handbook/marketing/product-marketing/roles-personas/#priyanka-platform-operator)
+* [Priyanka, the Platform Operator](/handbook/product/personas/)
   Infrastructure management is one of the main responsibilities of the platform team. [Priyanka](/handbook/product/personas/#priyanka-platform-engineer) is responsible for providing, maintaining, and operating a shared platform - either traditional or modern cloud platform  - which the development teams utilize to ship and operate software more quickly.
 
-* [Sydney, the System Administrator](/handbook/marketing/product-marketing/roles-personas/#sidney-systems-administrator)
+* [Sydney, the System Administrator](/handbook/product/personas/#sidney-systems-administrator)
   Sydney defines, maintains and scales the infrastructure and configuration for the application teams. She often receives repetitive requests on the same task. Sydney's primary motivation is to automate repetitive tasks to minimize errors and save time as well as define the infrastructure and configuration in a way that changes are tracked and to stop infrastructure changes becoming the [wild west](https://en.wikipedia.org/wiki/Cowboy_coding).
 
 ### Buyer Personas

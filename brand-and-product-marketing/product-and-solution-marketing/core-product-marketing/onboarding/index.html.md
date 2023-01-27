@@ -65,7 +65,7 @@ Pay special attention to the [**coffee chats**](https://about.gitlab.com/company
 | ------ | ------ |
 |  1. [GitLab communication overview](/handbook/communication/)  |  tbd  |
 |  2. [GitLab Slack tips](/handbook/communication/#slack)  |  tbd |
-|  3. [Markdown 101](/handbook/product/technical-writing/markdown-guide/) | [Recording](https://www.youtube.com/watch?v=Ix416lAYRSg)  |
+|  3. [Markdown 101](/handbook/product/ux/technical-writing/) | [Recording](https://www.youtube.com/watch?v=Ix416lAYRSg)  |
 |  4. [GitLab project management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/index.html) | [Recording](https://drive.google.com/open?id=1CSUvzrPhWtP7082e0iTCfjVsPU8U6WTR)  |
 |  5. [Working Remotely to update the website with Git](/handbook/git-page-update/) | [Recording](https://drive.google.com/open?id=1lPxAJsq9k4GN_d3H4zCGVzlNcDKVgqrm)  |
 

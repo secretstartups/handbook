@@ -63,10 +63,10 @@ The operations specialist ensures that the deployed application is available and
 
 The typical **buyer personas** for this use case are:
 
-#### [Infrastructure Engineering Director](/handbook/marketing/product-marketing/roles-personas/buyer-persona/#kennedy---the-infrastructure-engineering-director), Kennedy
+#### [Infrastructure Engineering Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Kennedy
 The Infrastructure Engineering Director is responsible for building and scaling highly available environments. He/She frequently has the agenda of Cloud initiatives and Cost Optimization in the organization.
 
-#### [Release and Change Management Director](/handbook/marketing/product-marketing/roles-personas/buyer-persona/#casey---the-release-and-change-management-director), Casey
+#### [Release and Change Management Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Casey
 The Release and Change Management Director is responsible for managing complex releases from concept to delivery. The CIO may be the final decision maker or buyer, but the Release and Change Management Director has significant influence in the buying process.
 
 ## Industry Analyst Resources
