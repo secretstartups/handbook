@@ -51,7 +51,7 @@ The Data Classification Standard applies to all GitLab team members, contractors
 
 * Personal Data: As defined by [General Data Protection Regulation (GDPR)](https://gdpr.eu/article-4-definitions/): ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-* Customer Data: Refers to the electronic data uploaded or created by GitLab customers and processed in the GitLab application labeled as Private by the customer and subject to legal or contractual obligations. 
+* Customer Data: Refers to the electronic data uploaded or created by GitLab customers and processed in the GitLab application with a label of Private, Confidential, or Internal by the customer and subject to legal or contractual obligations. 
 
 ### Data Classification Levels
 
