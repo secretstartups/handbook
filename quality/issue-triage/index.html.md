@@ -23,13 +23,23 @@ The [Contributor Success team](https://about.gitlab.com/handbook/engineering/qua
 
 ### Partial Triage checklist
 
-- Issue is spam: [report](#reporting-spam-issues) and close it.
-- Issue is request for help: [respond](/handbook/engineering/quality/contributor-success/#community-issues-workflow-manual-process) and close it.
-- Issue is [duplicate](#duplicates): call the `/duplicate` action.
+- Issue is spam:
+  - [Report the issue](https://docs.gitlab.com/ee/user/report_abuse.html#report-abuse-from-an-issue).
+  - Make the issue confidential.
+  - Post a link to the issue in the `#abuse` slack channel.
+- Issue is request for help:
+  - Respond with the `/issuesupport` TextBlaze template and close it.
+  - Alternatively, ask for more information and apply the ~"awaiting feedback" label.
+- Issue is [duplicate](#duplicates):
+  - Post the [duplicate message](#duplicate-issue-message).
+  - Call the `/duplicate` action to create the link to the original and close the issue.
 - Assign a [type label](#type-labels).
+  - If it is unclear whether the issue is a bug or a support request, tag the PM/EM for the [group](#group-labels) and ask for their opinion.
 - `~"type::bug"`: assign a [severity label](#severity).
+  - If ~"severity::1" or ~"severity::2": mention the PM/EM from the [group](#group-labels)
 - Assign a [group label](#group-labels).
-  - If there is no suitable group label: assign a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels).
+  - If there is no suitable group label: assign a [stage ("devops") label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels).
+- Optionally tag relevant [domain experts](https://about.gitlab.com/company/team/structure/#expert).
 
 ## Complete Triage
 
@@ -370,13 +380,28 @@ If they respond at any point in the future, the issue can be considered for reop
 
 ### Duplicates
 
-Before opening a new issue, make sure to **search for keywords** and verify your issue isn't a duplicate.
+To find duplicates:
 
-Checking for and/or reporting duplicates when you notice them.
+- Open the issue tracker for the project the issue is for.
+- Enter relevant keywords from the issue.
+- Scan through the first page of the result list.
+- Check both open and closed issues.
 
-Open the issue tracker for the project the issue is for and search for relevant keywords from the issue. Scan through the first page of the result list.
-Check both open and closed issues.
 Use the issue with the better title, description, or more comments and positive reactions as the canonical version. If you can't decide, keep the earlier issue.
+
+#### Duplicate issue message
+
+If you find duplicates, you can post this message:
+
+```md
+Hey @author. Thanks for creating this issue, but it looks like a duplicate of #issue. I'm closing this issue in favour of #issue.
+
+Please add your thoughts and feedback on #issue. Don't forget to upvote feature proposals.
+
+/duplicate #issue
+```
+
+Don't make any forward looking statements around milestone targets that the duplicate issue may be assigned.
 
 ### Lean toward closing
 
@@ -420,10 +445,6 @@ If possible, ask the reporter to reproduce the issue in a public project
 on GitLab.com. You can also try to do so yourself in the
 [issue-reproduce group](https://gitlab.com/issue-reproduce). You can ask
 any owner of that group for access.
-
-### Reporting Spam Issues
-
-During triage rounds you may come across issues that look like Spam. These issues can be reported to the abuse team in the `#abuse` Slack channel or using the "Report User" function on the issue author's profile page
 
 ## Notes
 
