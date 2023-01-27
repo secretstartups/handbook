@@ -49,7 +49,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 - [Build Qualitative & Quantitive Feedback Loops](https://about.gitlab.com/direction/product-operations/#building-qualitative--quantitative-feedback-loops)
    - Help streamline intelligence as a whole between product management and its stable counterparts within GitLab the company through process/frameworks refinements and automation
    - Leverage automation to boost internal and external knowledge about GitLab's key product communications such as:
-     - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](/handbook/product/product-management/process/#kickoff-meetings)
+     - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](/handbook/product/product-processes/)
      - Presentation and discoverability of release post and release notes
      - Design and build systems to better share knowledge and align product management and its stable counterparts such as Marketing, Support, Sales and Customer Support
      - Develop tools for collecting and aggregating larger volumes of customer and user feedback from GitLab issues
