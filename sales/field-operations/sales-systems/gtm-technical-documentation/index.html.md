@@ -21,7 +21,7 @@ Please see the dedicated [ARR Technical Documentation Page](https://about.gitlab
  
 ## Gainsight
  
-Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
+Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
  
 ## Xactly
  
@@ -29,7 +29,7 @@ More information to come. If you need a new field brought into Xactly please lev
 
 ## Territory Success Planning
  
-**Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
+**Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/)
  
 **Overview:** The goal of TSP is to keep a set of staging fields consistently up to date from a variety of data sources, then at given intervals copy these values to the "Actual" set of fields for general use. This allows for us to constantly receive changes but only apply those changes in a controlled fashion. This also allows us to easily track exceptions. Note: This project was originally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
  
@@ -205,7 +205,7 @@ Manage Approval Process For:
  
 ## Salesforce Chatter to Cases
  
-**Business Process this supports:** The field needs a streamlined process to address their concerns on specific salesforce records [within salesforce](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). This is also used by the finance team to help address record specific billing issues, as well as the Community Advocate team to manage the influx of requests the team receives.
+**Business Process this supports:** The field needs a streamlined process to address their concerns on specific salesforce records [within salesforce](/handbook/sales/field-operations/sales-operations/). This is also used by the finance team to help address record specific billing issues, as well as the Community Advocate team to manage the influx of requests the team receives.
  
 **Overview:** The goal of the Chatter To Cases functionality is to allow a streamlined communication channel that the field can leverage while also providing a streamlined case management system for the supporting team members to manage the requests that are sent to them from the field. If a team member uses an appropriate tag in salesforce a salesforce case record will automatically be created. Once these records are created supporting team members can work through the respective cases that are created to address the needs and concerns of the field team.
  
