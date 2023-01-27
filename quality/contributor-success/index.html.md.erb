@@ -282,46 +282,6 @@ You can use [ChatOps](https://docs.gitlab.com/ee/development/chatops_on_gitlabco
 - Track the added extra minutes.
   These extra minutes apply automatically every month until manually canceled, and will be audited regularly.
 
-### Community issues workflow manual process
-
-1. If the issue is spam, [report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [`#abuse`](https://gitlab.slack.com/messages/C0HPYBJ3D) Slack channel with a link to the issue and alert the `@abuse-team`.
-1. If the issue is a request for help, you can use this template to provide resources and close the issue:
-
-    ```
-    Hey @author. Based on the information given, this request for support is out of the scope of the issue tracker (which is for new bug reports and feature proposals). Unfortunately, I won't be able to help get it resolved. However, for support requests we have several resources that you can use to find help and support from the Community, including:
-    * [Technical Support for Paid Tiers](https://about.gitlab.com/support/)
-    * [Community Forum](https://forum.gitlab.com/)
-    * [Reference Documents and Videos](https://about.gitlab.com/get-help/#references)
-
-    Please refer to our [Support page](https://about.gitlab.com/support/) for more information.
-
-    If you believe this was closed in error, please feel free to re-open the issue.
-
-    /label ~"support request"
-    /close
-    ```
-    * If the issue is re-opened after you closed it, you should get an email notification and would then be responsible for re-evaluating the issue.
-    * (Optional) Alternatively, instead of closing the issue when using the template above, you could take on the role of customer support and ask the reporter for more information so we can properly assist them. If you do this, add the ~"awaiting feedback" label.
-1. Check for [duplicate issues](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#duplicates). If identified as a duplicate, the new issue can be closed with a note similar to:
-
-    ```
-    Hey @author. Thanks for creating this issue, but it looks like a duplicate of #issue. I'm closing this issue in favour of #issue.
-
-    Please add your thoughts and feedback on #issue (don't forget to upvote feature proposals).
-
-    /duplicate #issue
-    ```
-    * Do not make any forward looking statements around milestone targets that the duplicate issue may be assigned.
-1. If it is unclear whether the issue is a bug or a support request:
-    * `@mention` the PM/EM for the [relevant group](https://about.gitlab.com/handbook/product/categories/#devops-stages) and ask for their opinion.
-1. Add a [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels).
-    * If identified as a bug, add a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels).
-    * If the severity is ~"severity::1" or ~"severity::2", [mention relevant PM/EMs from the relevant stage group from product devstages categories](https://about.gitlab.com/handbook/product/categories/#devops-stages).
-1. Add a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels).
-1. Add a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels).
-1. Add relevant [category](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#category-labels) labels to facilitate automatic addition of stage and group labels.
-1. If needed, [mention relevant domain experts](https://about.gitlab.com/company/team/structure/#expert) if the issue requires further attention.
-
 ### Community merge request workflow automations
 
 Community merge requests are MRs opened by a person that's not present on https://about.gitlab.com/company/team/ (excluding any bot and service account users).
