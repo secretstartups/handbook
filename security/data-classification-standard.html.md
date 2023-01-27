@@ -49,9 +49,9 @@ The Data Classification Standard applies to all GitLab team members, contractors
 
 ### Data Classification Definitions
 
-* Personal Data: As defined by [General Data Protection Regulation (GDPR)](https://gdpr.eu/article-4-definitions/): ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+* Personal Data: As defined by [General Data Protection Regulation (GDPR)](https://gdpr.eu/article-4-definitions/): ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
 
-* Customer Data: Refers to the electronic data uploaded or created by GitLab customers and processed in the GitLab application labeled as Private by the customer and subject to legal or contractual obligations. 
+* Customer Data: Refers to the electronic data uploaded or created by GitLab customers and processed in the GitLab application with a label of Private, Confidential, or Internal by the customer and subject to legal or contractual obligations. 
 
 ### Data Classification Levels
 
@@ -77,6 +77,16 @@ Examples include:
 * Audit logs
 * Open security incidents, vulnerabilities and risks
 
+<div class="panel panel-gitlab-purple">
+**Personal Data Exception**
+{: .panel-heading}
+<div class="panel-body">
+
+While Personal Data is classified as Orange, there is an exception for GitLab Team Member names and their work email addresses, which are classified as Yellow. These two Personal Data elements are not considered high-risk or sensitive types of Personal Data. Given GitLab's value of [transparency](/handbook/values/#transparency) and because GitLab is [public by default](/handbook/values/#public-by-default), most Team Member names are available [publicly](/company/team/#close-modal). As they are often processed in support of everyday corporate operations, the application of Orange-level controls for these lower risk data elements would disproportionately inhibit GitLab's business functions.
+
+</div>
+</div>
+
 #### YELLOW
 Data and information that should not be made publicly available that is created and used in the normal course of business. Unauthorized access or disclosure could cause minimal risk or harm and/or adversely impact GitLab, its partners, employees, contractors, and customers. 
 
@@ -85,6 +95,7 @@ Examples include:
 * General internal company communications
 * Vendor contracts
 * GitLab runbooks/work instructions/manuals/policies/procedures containing data NOT appropriate for [public consumption](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public)
+* GitLab team member names
 
 #### GREEN
 Data that is publicly shareable, and does not expose GitLab or its customers to any harm or material impact. 
