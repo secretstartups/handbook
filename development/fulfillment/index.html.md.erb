@@ -429,6 +429,26 @@ We also have a flag `VCR` that mocks external calls to Zuora by default. We have
 
 Any test failure is notified to #s_fulfillment_status including a link to the pipeline. Pipeline failures will prevent deployments to staging and production.
 
+### Security
+
+#### Access review
+
+Fulfillment Engineering Engineering Managers and Senior Leadership are responsible for the Fulfillment system (e.g., CustomersDot) access review on a quarterly basis. We use the following guidance to perform [access reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html), `access for systems will be reviewed based on the job roles and departments`. As such, reviewers use their best judgement when evaluating the list of team members who currently have access while evaluating their current roles and department associations.
+
+The following list contains some of the standard departments and teams who should retain access:
+
+**Read-only Access**
+- Sales Team
+
+**Write Access**
+- AppSec Team
+- Billing Team
+- Fulfillment Sub-department (engineering, product, quality, and other counterparts)
+- IT Helpdesk
+- Support Team
+
+When in doubt, err on the side of rejecting access as it can be easily restored through another [access request](handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+
 ### Deployment
 
 #### Revenue impacting changes
