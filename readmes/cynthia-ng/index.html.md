@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
 title: "Cynthia 'Arty' Ng README"
-description: "Personal readme page for Cynthia 'Arty' Ng, Senior Support Engineer, GitLab"
-job: "Senior Support Engineering"
+description: "Personal readme page for Cynthia 'Arty' Ng, Staff Support Engineer, GitLab"
+job: "Staff Support Engineering"
 ---
 
 This page is meant to provide a bit of information about me and how I work,
@@ -43,7 +43,7 @@ I prefer asynchronous communication, but also love to chat and get to know team 
 - Not urgent? Mention me on an issue.
 - Urgent or time sensitive? Ping me on Slack.
 
-I love to chat and learn more about others, especially how I can help, so please reach out.
+I'm a big fan of donut/coffee chats, and learning more about others, especially how I can help, so please reach out.
 
 If you would like a synchronous meeting, feel free to find a free time on my calendar and send an invite.
 If it's outside my working hours, you can still send an invite to propose a time.
@@ -54,9 +54,9 @@ You will find me regularly in [my monthly office hours](https://docs.google.com/
 AMER [Support meetings](https://about.gitlab.com/handbook/support/#weekly-meetings) and ticket working sessions,
 weekly meetings for [counterpart teams](/handbook/support/#cross-functional-non-product-counterparts) and in various [donut](https://www.donut.com/) channels.
 
-I also participate in the following [TMRGs](https://about.gitlab.com/company/culture/inclusion/erg-guide/):
-  - Women+ including the Professional Member Development subcommittee
-  - Minorities in Tech (MIT)
+I also participate in [TMRGs](https://about.gitlab.com/company/culture/inclusion/erg-guide/), namely Women+.
+
+Ways to connect with me:
 
 - Slack: arty-chan
   - GitLab (internal)
@@ -67,6 +67,22 @@ I also participate in the following [TMRGs](https://about.gitlab.com/company/cul
 - LinkedIn: [Cynthia Ng](https://www.linkedin.com/in/cynthiasng)
 - Personal Blog: [cynthiang.ca](https://cynthiang.ca)
 - Digital card: [About.Me](https://about.me/cynthiang)
+
+## Expertise
+
+- Technical topics:
+  - Import/Export
+  - Authentication/Authorization (SAML, SCIM, permissions, etc.)
+  - CI
+  - Almost anything SaaS specific, including GitLab.com console
+  - CustomersDot, especially CDot &lt;&gt; GitLab.com connections, and console
+- Workflow/Process
+- Training
+- Documentation
+- UX/Accessibility
+- Ticket communication/management
+- Tracking and prioritizing work, including for performance reviews and promotions
+- Mentoring/coaching and being a non-manager leader
 
 ## Stengths and weaknesses
 
