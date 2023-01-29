@@ -13,7 +13,9 @@ canonical_path: "/company/team/structure/working-groups/"
 
 ## What's a Working Group?
 
-Like all groups at GitLab, a [working group](https://en.wikipedia.org/wiki/Working_group) is an arrangement of people from different functions. What makes a working group unique is that it has defined roles and responsibilities, and is tasked with achieving a high-impact business goal. A working group disbands when the goal is achieved (defined by exit criteria) so that GitLab doesn't accrue bureaucracy.
+Like all groups at GitLab, a [working group](https://en.wikipedia.org/wiki/Working_group) is an arrangement of people from different functions. What makes a working group unique is that it has defined roles and responsibilities, and is tasked with achieving a high-impact business goal fast. A working group disbands when the goal is achieved (defined by exit criteria) so that GitLab doesn't accrue bureaucracy.
+
+Working groups are for important work that needs to be done quickly, when asynchronous work would be too slow. 
 
 ### CEO Handbook Learning Discussion on Working Groups
 
