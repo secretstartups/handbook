@@ -40,7 +40,6 @@ Please review the coverage owner closest available per their timezone when decid
 
 **Typical Team Timezones:**
 * Amy: PST Pacific Standard Time UTC:-8:00 
-* David: PST Pacific Standard Time UTC:-8:00
 * Jenny: PST Pacific Standard Time UTC:-8:00
 * Nikki: MST Mountain Time UTC:-7:00
 * Bryce: MST Mountain Time UTC:-7:00
@@ -51,8 +50,8 @@ Please review the coverage owner closest available per their timezone when decid
 [Timezone Converter](https://dateful.com/time-zone-converter)
 
 **Escalation Path:**
+* #mktgops 
 * Manager (Amy Waller)
-* Director (David Brown)
 * If still no response, #marketing-campaigns team can help
 
 For Marketing Operations - When OOO/PTO please add this to the backup team members calendar for awareness.
@@ -148,7 +147,7 @@ The following approvers are needed for the copy and list size:
 
 - List loads greater than 20k take time. Millions may take hours/days.
 - Each platform has their own limits as to size of CSV that can be uploaded.
-- Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to send. 
+- Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. 
 
 ## Other considerations and questions for requestors
 
@@ -207,6 +206,7 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
 This section should be used for all customer communications to communicate product or security issues and risk. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
 
 For low-priority, non-security and non-emergency customer communications, you may skip getting the approvals from VP level of your department if your manager and the VP of Customer Success signs off on it. 
+
 ### Recommended format for customer emails
 The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and acted upon. 
 
@@ -267,13 +267,10 @@ The requestor (Security, CSM, etc.) will follow the process below to create the 
 * [Copy Document]() `to be added by requestor ` ([use this template](https://docs.google.com/document/d/1hv0XF7j6SibLgHgGFxxlrbPrufxbcXHrO8ZRG04nFjU/edit#))
 * [Target List]() `to be added by requestor when final`
 * [Email Program]() `to be added by MOps` [shortcut](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4267A1)
-* **Determine email platform:**
-   - [ ] If list less than 20k, most likely deploy with Marketo
-   - [ ] If list 20-30k, most likely deploy with MailJet
-   - [ ] If list greater than 50k, most likely deploy with MailGun
+ 
 
 ### :books: Issues for requestor to create (shortcuts below)
-* [ ] [Request target list issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) (Data Download Request template) - requestor open, Data Team DRI
+* [ ] [Request target list issue (internal link)](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) 
 * [ ] [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) - requestor open, MOps DRI
   - the email issue is blocked until requestor provides final copy
 * [ ] If landing page required: [Landing Page request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request) (optional, will increase scope and delay timeline) - requestor open, MOps DRI
@@ -286,5 +283,5 @@ The requestor (Security, CSM, etc.) will follow the process below to create the 
 
 /confidential
 /label ~"MktgOps-Urgency::P1" ~"MktgOps-Priority::High Priority" ~"Customer Success" ~CSM 
-/cc @amy.waller
+/cc @amy.waller @bweatherford
 ```
