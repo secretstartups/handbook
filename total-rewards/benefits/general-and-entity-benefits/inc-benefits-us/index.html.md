@@ -580,7 +580,7 @@ GitLab contributes $100 per month for those enrolled in the HSA.
 
 If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. 
 
-If you would like to adjust your HSA contributions please log into [PlanSource](https://benefits.plansource.com/. 
+If you would like to adjust your HSA contributions please log into [PlanSource](https://benefits.plansource.com/). 
 
 HSAs roll over completely year-to-year and are 'owned' by the team member. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee.
  
