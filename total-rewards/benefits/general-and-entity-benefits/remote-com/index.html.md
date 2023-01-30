@@ -471,6 +471,30 @@ To initiate your paternity leave, please enter the dates of your leave into PTO 
 
 Employees are entitled to ongoing payments during sick leave, depending on how long they have worked for the company. Typically, employees receive three weeks of sick leave during the first year. Employers commonly have benefits insurance schemes in lieu of sick leave, under which employees can receive 80% of their most recent salary for up to 720 days.
 
+### Family Allowance
+
+Team members may be eligible for family allowances once the required [criteria](https://www.ch.ch/en/family-and-partnership/maternity-and-paternity/pregnancy-and-birth/family-allowance/) has been met. The amount can vary depending on the canton.
+
+The family allowance is not paid out automatically, it must be applied for.
+
+#### How to apply via Remote
+
+- Write an email to help@remote.com to request an application form for the family allowance.
+- Remote will send the required documents that need to be filled.
+- Once the forms are filled they must be sent via post to the following address for processing:
+
+**Madison Hofmann - Intertrust Services,** 
+
+**Zählerweg 6, 6300, Zug**
+- Intertrust will reach out directly if anything further is needed. 
+- Once approved by the local authority the family allowance will be paid out in the next coming paychecks.
+
+**On the form please note:**
+
+- Section G - Requires a signature and stamp from the local municipality - please note if for any reason the local municipality will not sign, the local provider can still proceed without.
+- Section H - Lists the supporting documents that need to be sent.
+- Section F - Will be filled out by Remote's local partner (Intertrust Services) once the application form is complete with the supporting documents.
+
 ## Mexico
 
 ### Social Security
