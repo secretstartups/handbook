@@ -80,16 +80,22 @@ A few examples are listed below. These examples are not meant to be all encompas
 | **Technical Owner** | Work with the Business Requestor to ensure requested change is documented, tested, and approval(s) have been completed |
 | | Ensure Peer Review is completed prior to obtaining Business Approval |
 | **Peer Review** | Review and ensure requested change has been documented and there are no undocumented downstream impacts |
+| **Post Implementation Review** | Review of the change in production after the change is made to ensure everything is working as expected |
 | **Business Owner** | Review and provide approval prior to change being implemented |
 
 ### Change Request Types
+
+**Minor Change**
+
+A **minor change** is a low risk, well-understood change which does not require testing (such as with a record change, as opposed to a configuration change).  Changes may be implemented directly in Production, have no financial impact, are related to general maintenance, and can be easily reversed.
+* A minor change requires Manager Approval and Post-Implementation Review.
 
 **Standard**
 
 A **standard change** is a pre-authorized change that is low risk, relatively common and follows a specified procedure or work instruction.
 * A standard change is one that is frequently implemented, has repeatable implementation steps, and has a proven history of success.
 * Standard changes have to go through the change management process.
-* **They require a peer review and Impacted Team(s) Management (or Code Owner) approval.**
+* **They require a peer review, Impacted Team(s) Management (or Code Owner) approval, and post-implementation review.**
   * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Comprehensive**
@@ -97,7 +103,7 @@ A **standard change** is a pre-authorized change that is low risk, relatively co
 A **comprehensive change** is *high risk, high impact,* or has a *more complex procedure.*
 * All changes to **financially significant applications** also are considered comprehensive due to the type of systems that they affect and the potential impact that could occur if there is an issue.
 * **Infrastructure changes** are also considered comprehensive.
-* **They require peer review, Impacted Team(s) Management approval (or Code Owner), Business Owner Approval, and Head of IT Approval.**
+* **They require peer review, Impacted Team(s) Management approval (or Code Owner), Business Owner Approval, Head of IT Approval, and Post-Implementation Review.**
   * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Emergency**
@@ -109,12 +115,13 @@ An **emergency change** follows the same approval process as comprehensive.
 
 ### Approval Matrix
 
-|	**Approval Type**	|	**Description**	|	**Standard**	|	**Comprehensive**	|	**Emergency**
-|	-----	|	-----	|	-----	|	-----	|	-----
-|	**Peer Review**	|	Peer Reviews are performed by a peer of the change Requestor or Developer and are intended to identify any potential issues with the planned change or change process. **Note:** The peer review process was established to mitigate the risk of the lack of segregation of duties between developer and implementer. The review provides comfort that changes to the production environment are valid.	|	Yes	|	Yes	|	Yes
-|	**Impacted Team(s) Management/Code Owner approval**	|	Approval by Management that is responsible for the particular system	|	Yes	|	Yes	|	Yes
-|	**Business Approval**	|	Approval by Impacted Team(s) Management approval that is responsible for the particular system or is impacted by the change.	|	No	|	Yes	|	Yes
-|	**Head of IT, Business**	|	The Head of IT must approve all changes made during blackout periods	|	No	|	Yes	|	Yes* |
+|	**Approval Type**	|	**Description**	| **Minor** |    **Standard**	|	**Comprehensive**	|	**Emergency**
+|	-----	|	-----	|	-----	|	-----	|	-----  | -----
+|	**Peer Review**	|	Peer Reviews are performed by a peer of the change Requestor or Developer and are intended to identify any potential issues with the planned change or change process. **Note:** The peer review process was established to mitigate the risk of the lack of segregation of duties between developer and implementer. The review provides comfort that changes to the production environment are valid.	| No |	No	|	Yes	|	Yes
+| **Post-Implementation Review** | Performed by a peer of the change Requestor or Developer and are intended to ensure the change is working as expected after the change has been implemented in Production. | Yes | Yes | Yes | Yes |
+|	**Impacted Team(s) Management/Code Owner approval**	|	Approval by Management that is responsible for the particular system	| Yes |	Yes	|	Yes	|	Yes
+|	**Business Approval**	|	Approval by Impacted Team(s) Management approval that is responsible for the particular system or is impacted by the change.	| No |	No	|	Yes	|	Yes
+|	**Head of IT, Business**	|	The Head of IT must approve all changes made during blackout periods	| No |	No	|	Yes	|	Yes* |
 
 * (*) Refer to Emergency Change section under [Change Request Types](https://about.gitlab.com/handbook/business-technology/change-management/#change-request-types) for approval requirement details. 
 
