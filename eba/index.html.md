@@ -23,17 +23,17 @@ This page details processes and general guidelines specific to the Executive Bus
 * Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
 * Marisa Carlson (Sr. EBA) supporting Ashley Kramer (acting CTO)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO and acting CISO)
-* Gena Schwam (Sr. EBA) supporting David DeSanto (VP of Product)
+* Gena Schwam (Sr. EBA) supporting David DeSanto (Chief Product Officer)
 
 
 
 ### All-Directs EBAs 
-* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations) & David Helfer (Interim, VP of Worldwide Channels)
 * Victoria Reinhardt (Sr. EBA) supporting Ryan O’Nell (VP of Commercial Sales) & Mike Pyle (VP of Enterprise Sales)
-* Rebecca Piccone (Sr. EBA) supporting David Sakamoto (VP of Customer Success) & Nima Badiey (VP of Alliances)
+* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations) 
+* Rebecca Piccone (Sr. EBA) supporting David Sakamoto (VP of Customer Success) & Nima Badiey (VP of Alliances, Interim VP of Channels)
 * Cindy King (Sr. EBA) supporting Dale Brown (Principal Accounting Officer), Jim Gladen (VP Tax), and Brijen Joshi (VP on Internal Audit)
 * Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate), Robert Nalen (Sr. Director, Contracts & Legal Operations), and Stacy Cline (Sr. Director, ESG)
-* Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Jack Andrews (VP of Investor Relations)
+* Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology) & Jack Andrews (VP of Investor Relations)
 * Jennifer Garcia (EBA) supporting Justin Farris (Sr Director of Product Monetization)
 
 
@@ -177,6 +177,10 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
 EBAs research the best option for a flight and book it according to their executive's schedule. If the Executive requires approving the flights beforehand, please follow that process before booking.
 Make sure to add a calendar item for 2 hours before take off for check in and add a separate one for travel time before that in the exec's calendar.
 If a flight was changed or not taken due to delays or other circumstances, make sure to check with the airline for the current flight status.
+
+## TripActions Liquid
+* Coming Soon.
+
 
 ## Expensify
 * When you’re logged in, you can find wingman account access for other team members in the top right corner menu.
