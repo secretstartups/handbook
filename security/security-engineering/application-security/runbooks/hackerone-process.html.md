@@ -260,6 +260,14 @@ Where appropriate, follow HackerOne's "See something, say something" policy as d
 
 When GitLab receives reports, via HackerOne or other means, which might affect third parties the reporter will be encouraged to report the vulnerabilities upstream. On a case-by-case basis, e.g. for urgent or critical issues, GitLab might proactively report security issues upstream while being transparent to the reporter and making sure the original reporter will be credited. GitLab team members however will not attempt to re-apply unique techniques observed from bug bounty related submissions towards unrelated third parties which might be affected.
 
+Vulnerabilities on third-party software are accepted according to the following rules, as stated in our [HackerOne policy](https://hackerone.com/gitlab?type=team):
+The report includes a new vulnerability, for which a patch is not available, or
+  - A patch has been available for more than 30 days.
+  - It has a clear and working proof of concept that illustrates the impact to GitLab.
+  - It has Critical or High impact to GitLab.
+  
+This does not include websites of third party software and services and only includes dependencies & packaged software.
+
 #### Awarding Ultimate Licenses
 
 GitLab reporters with 3 or more valid reports are eligible for a 1-year Ultimate license for up to 5 users. As per the [H1 policy](https://gitlab.com/gitlab-com/gl-security/hackerone/configuration/-/blob/master/program-policy.md#gitlab-ultimate-license), reporters will request the license through a comment on one of their issues. When a reporter has requested a license, the following steps should be taken:
