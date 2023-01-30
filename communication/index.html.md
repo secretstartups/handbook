@@ -1526,15 +1526,19 @@ Once service is restored, go back to Zoom.
 Join the [Slack Down!](https://chat.google.com/preview/room/AAAAGAd_BaQ) room on Hangouts Chat.
 Once service is restored, go back to Slack and Zoom.
 
-## Google Docs
+## Types of documents
+
+### Google Docs
 
 Never use a Google Doc / Presentations for something non-confidential that has to end up on the website or the **handbook**. Work on these edits via commits to a merge request. Then link to the merge request or diff to present the change to people. This prevents a duplication of effort and/or an out of date handbook.
 
-### Pageless is the GitLab preferred format
+Google Docs can be useful when rapidly [iterating](/handbook/values/#iteration)/commenting/suggesting on the content, but if the content is meant to be long lived it should be moved to the handbook as an SSOT and deprecated with a link to the handbook page. If the content is short lived, e.g. one-time report that won't be referred to beyond 2-3 weeks, it can remain in a Google Doc or [presentation](#presentations).
+
+#### Pageless is the GitLab preferred format
 
 Google Docs [Pageless format](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en) is the preferred format for company documents that won't be printed. If a document is likely going to be printed (for example, a contract) the older paged style is acceptable. See [Good practices and helpful tips](#good-practices--helpful-tips) for help navigating the pageless format.
  
-### Link sharing
+#### Link sharing
 
 If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
 account and set the visibility and access controls according to the following guidelines.
@@ -1559,7 +1563,7 @@ To our knowledge, it is not possible to set the default to **Can Edit** and you 
 
 Reference Google's [documentation](https://support.google.com/drive/answer/2494822?visit_id=637102981721473693-3129607436&p=link_sharing_options&hl=en&rd=1#link_sharing) on Link Sharing to learn more.
 
-### Good practices & helpful tips
+#### Good practices & helpful tips
 
 1.  If you have content in a Google Doc that is later moved to the website or handbook, [deprecate the Google Doc](#how-to-deprecate-a-google-doc).
 1.  When referring to a Google Doc or folder on the Google Drive in the handbook, refrain from directly linking it. Instead, indicate the name of the doc. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes. (In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.) This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link. To save people time you can also [link to the search results page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22) which allows people to quickly get to the doc without anyone being able to request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
@@ -1580,7 +1584,7 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
    1. Makes it easier to paste the content as formatting free text (not rich text), which we prefer and is sometimes the only option.
 
 
-### How to publish a Google Doc
+#### How to publish a Google Doc
 
 1. Under the 'File' menu, go to 'Publish to the web'.
 1. A new pop-up 'Publish to the web' will appear, click 'Publish'.
@@ -1589,12 +1593,28 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 1. Add the link to the top of the document after the text: "Publicly shared via"
 1. Use this link to share to your audience.
 
-### How to deprecate a Google Doc
+#### How to deprecate a Google Doc
 
 1. Add 'Deprecated: ' to the start of the title.
 1. Remove the content you moved.
 1. Add a link to the new location at the beginning of the doc/first slide/first tab.
 1. Add a link to the merge request or commit that moved it (if applicable).
+
+### Handbook page
+
+Pages like this are part of the [handbook](/handbook/). The GitLab handbook is the central repository for how we run the company.
+
+### Product documentation
+
+[GitLab Docs](https://docs.gitlab.com/) - `docs.gitlab.com` is where you can find documentation on GitLab, the product.
+
+### GitLab repositories
+
+`repository`/`repositories` are where files are kept under [source code management](/stages-devops-lifecycle/source-code-management/). In most cases, requires MRs to merge. The Handbooks are in a repository, our code is in a repository, etc.
+
+### READMEs
+
+`README` - `README.md` files are what are shown by default when you browse a repository. Contains useful information to give context on what the project/reposiroty are for. These can also be used for [user profiles](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) as personal READMEs.
 
 ## Zoom
 
