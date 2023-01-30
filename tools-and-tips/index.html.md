@@ -690,7 +690,7 @@ To help other team members to schedule meetings with you, you can set your norma
 
 To set your working hours, go to `Settings` -> `General` -> `Working Hours & Location`. `Working location` can be set here or on your calendar directly by clicking on the pill in the `All day` row. In Settings there's a helpful `Copy to all` option as well.
 
-Since all GitLab Team Members work remotely `Home` can be an ambiguous choice as folks may travel and it doesn't provide any context on timezones. If you'd like, you can choose `Somewhere else` (in Settings) or `Edit pencil` -> `+` -> `Another location` (from the pill) to set this to something such as `City, State, Country` and keep it up to date when traveling, which can help folks with planning and understanding timezones.
+Since all GitLab Team Members work remotely `Home` can be an ambiguous choice as folks may travel and it doesn't provide any context on timezones. If you'd like, you can choose `Somewhere else` (in Settings) or `Edit pencil` -> `+` -> `Another location` (from the pill) to set this to something such as `City, State, Country (GMT-#)` and keep it up to date when traveling or timezones shift, which can help folks with planning and understanding timezones.
 
 ### GitLab Team Meetings calendar
 
