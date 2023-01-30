@@ -123,7 +123,11 @@ All Epics are part of the [GitLab Data Group](https://gitlab.com/groups/gitlab-d
 1. For each Objective, add 1 **Epic per Key Result**
     - [ ] Give each new Key Result Epic a title in the format `FYxx-Qx Data Objective X, KR Y: <name of key result>`
     - [ ] An example title is `FY23-Q1 Data Objective 1, KR 1: Deliver a New Adoption Performance Dashboard to Product with 10 Users Trained`
-    - [ ] Add detail to this Key Result Epic, including Direction, Teams Supported, Business Partners, and the Key Result Measures. Include objective measures and dates if available.
+    - [ ] Add detail to this Key Result Epic, including:
+        - header bullets to support [weekly status roll-up reporting](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting)
+        - a description of the work
+        - the expected business impact
+        - objective measures and dates if available.
 1. At this point, the structure is complete and the Team owners will work with their respective teams to develop **Work Breakdowns** for each KR Epic.
 1. Once all of the Epics are created and defined, share the **Key Result Epic** with appropriate business partners and stakeholders through the #data channel and @ mentions of the business partners to solicit review and feedback. All feedback should be added as comments into the Key Result Issue.
 
