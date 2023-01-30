@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Sisense SQL snippets"
+title: "Metrics & SiSense Dashboards"
 description: Learn about the Sisense SQL snippets that are used in community-related dashboards!
 ---
 
@@ -14,6 +14,26 @@ description: Learn about the Sisense SQL snippets that are used in community-rel
 {::options parse_block_html="true" /}
 
 - - -
+
+## Metrics & Sisense Dashboards
+
+### Dashboards we use
+
+- [Wider Community PIs](https://app.periscopedata.com/app/gitlab/729542/Wider-Community-PIs)
+   - Unique Wider Community Contributors per Month
+   - Amount of MRs created, merged & closed
+   - Time between MR created and merged (OCMA)
+   - Time between MR ready for review & reviewed
+- [Leading Organizations PIs](https://app.periscopedata.com/app/gitlab/1064389/Leading-Organizations-PIs)
+   - Time to review SLO
+   - Open MRs from Leading Organizations & their age
+- [MRARR Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965062/MRARR-Dashboard)
+   - Customers ARR * Number of MRs
+   - Shows how we are doing towards the target
+- [MRARR Diagnostics](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965418/MRARR-Diagnostics)
+   - Identifies MRs from customers that are not being tracked yet
+   - Identifies projects with contributions that are not being tracked yet
+   - See [Contributing Orgs tracker](/handbook/engineering/quality/contributor-success/contributing-org-tracker.html) for details   
 
 ## Sisense SQL snippets
 

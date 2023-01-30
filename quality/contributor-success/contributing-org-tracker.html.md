@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Sisense SQL snippets"
-description: Learn about the Sisense SQL snippets that are used in community-related dashboards!
+title: "How to recognize organizations within the contributor ecosystem for GitLab"
+description: Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
 ---
 
 ## On this page
@@ -15,7 +15,13 @@ description: Learn about the Sisense SQL snippets that are used in community-rel
 
 - - -
 
-[https://docs.google.com/spreadsheets/d/1yIASbQOS2TcHIFmSW_e3xTiQzgkYSLSgiujFJ7Dg834/edit#gid=447581669](https://docs.google.com/spreadsheets/d/1yIASbQOS2TcHIFmSW_e3xTiQzgkYSLSgiujFJ7Dg834/edit#gid=447581669)
+# How to recognize organizations within the contributor ecosystem for GitLab
+
+Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
+
+## Where is the tracking sheet?
+
+[Contributing Orgs tracker](https://docs.google.com/spreadsheets/d/1yIASbQOS2TcHIFmSW_e3xTiQzgkYSLSgiujFJ7Dg834/edit#gid=447581669)
 
 ## What is this sheet used for?
 
@@ -23,11 +29,11 @@ description: Learn about the Sisense SQL snippets that are used in community-rel
 - Format this in a form digestible to our BI tools by formatting it into JSON
 - List the entry & exit dates of organizations into our Leading Organizations program
 
+## Tabs
+
 ### MRARR Organization
 
 Each customer known to GitLab to have contributed in the past is listed here with their Salesforce ID, a validation if they are already in the sheet and a tabular list of known user accounts that belong to that organization. 
-
-If a user is not listed here, you can add it to the respective row, or add a new row at the bottom with the same structure.
 
 ### MRARR Concise
 
