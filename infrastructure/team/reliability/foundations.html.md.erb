@@ -1,0 +1,87 @@
+---
+layout: handbook-page-toc
+title: "Reliability:Foundations Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+## Mission
+
+The Reliability:Foundations team at GitLab mission is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com to allow Infrastructure, Development & Product teams to build their services for GitLab.com.
+
+The team is focused on owning the reliability, scalability, and security of the existing core infrastructure, introducing new capabilities that enable other teams to self serve core infrastructure more efficiently/effectively run their services for GitLab.com and reducing the effort required to provide our core infrastructure services.
+
+Other teams include in their missions to build their services on top of the services provided by Reliability:Foundations so we should be looking to make their consumption of our services as simple as possible.
+
+The team should be seeking to build their services on top of GitLab features and cloud vendor managed products to reduce complexity, improve efficiency and deliver new capabilities quicker where they are the right choice.
+
+The team does not explicitly have any product responsibilities but we should contribute the lessons we learn running at scale production systems back to the product teams and we should advocate for GitLab to contain features that would allow us to DogFood. 
+
+## Vision
+
+The Foundations Team supports the rest of Infrastructure and Development by providing the resources that other teams build upon. We do so by working collaboratively, iteratively, and striking the right balance between delivering results quickly yet safely.
+
+## Ownership
+
+### Services
+The Services that the Foundations team is responsible for fall into two general categories: Core and Edge.
+
+#### Core
+| Service | Description | Notes |
+| ------- | ----------- | --------- |
+| K8s | K8S workloads deployments, Cluster addons | Autodeploy remains with Delivery, and anything Delivery related is co-owned with Delivery |
+| Config | Terraform, Chef, Image Builds | The core TF repos are owned by Foundations, while specific modules may be maintained by the teams that use them |
+| Service discovery | Consul | |
+| Secrets Management | Vault | |
+| Ops | Ops.gitlab.net, Ops Runners | |
+
+#### Edge
+| Service | Description | Notes |
+| ------- | ----------- | --------- |
+| CDN | Cloudflare, Fastly | |
+| DNS | AWS Route 53, Cloudflare | |
+| Load Balancing | HAProxy, Ingress | |
+| Networking | HAProxy | |
+
+#### Access Provisioning
+| Service | Description | Notes |
+| ------- | ----------- | --------- |
+| Authenticated Access | Teleport | |
+| GCP | Manage IAM permissions and CGP Project creation | |
+
+### Overlap
+Given the nature of this team's scope, several services the Foundation team works with are either co-owned by other teams or impact their work.
+
+## Performance Indicators
+
+ * OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
+   * Success Criteria: 85% of OKRs achieved
+ * Issue Metrics
+   * Corrective Actions Over Time (specific to the Foundations Team)
+     * Success Criteria: Must meet or exceed the [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+   * Lead Time
+     * Success Criteria: Meets or exceeds current [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+ * Customer Satisfaction
+    * Success Criteria: TBD
+ 
+## Team Members
+
+TBD
+
+## Key Technical Skills
+The Foundations Team must maintain a broad and diverse set of technical skills while also maintaining the ability to switch contexts frequently.  Some of these technical skills include:
+
+ * Cloudnative Engineering - Proficiency in Kubernetes and the associated ecosystem of running cloudnative services.
+
+ * Infrastructure as Code - Proficiency in Chef and Terraform
+ 
+ * Network Systems - Understanding of network concepts and experience with our Edge stack (see Edge services above)
+ 
+
+## Common Links
+
+ * Slack Channel: [#infra-foundations-squad](https://gitlab.slack.com/archives/C0313V3L5T6)
+ * [Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Squad%3A%3AFoundations)
+ * [Foundations team meeting agenda](https://docs.google.com/document/d/1JSG6Cbyf4ssqEScGo6emnzhLq-3OdmF4prLimfvXWb0/edit?usp=sharing)
+ 
