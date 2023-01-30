@@ -139,6 +139,32 @@ Recommended workflow for anyone running a Mac system.
 #### Why do we use a virtual environment for local dbt development?
 We use virtual environments for local dbt development because it ensures that each developer is running exactly the same dbt version with exactly the same dependencies. This minimizes the risk that developers will have different development experiences due to different software versions, and makes it easy to upgrade everyone’s software simultaneously. Additionally, because our staging and production environments are containerized, this approach ensures that the same piece of code will execute as predictably as possible across all of our environments.
 
+#### Cloning models locally
+
+The following commands enable zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encourage to use these commands to set up your environment. 
+- Ensure you have dbt setup and are able to run models
+- These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.  
+- These commands run using the same logic as the dbt CI pipelines, using the DBT_MODELS as a variable to select a given lineage. 
+- If you encounter an error as below:
+``` 
+Compilation Error
+  dbt found 7 package(s) specified in packages.yml, but only 0 package(s) installed in dbt_packages. Run "dbt deps" to install package dependencies.
+```
+  - Run `make dbt-deps` from the root of the analytics folder and retry the command.  
+
+##### Cloning into local user DB 
+
+- This clones the given DBT model lineage into the active branch DB (ie. `{user_name}_PROD`) 
+  - `make DBT_MODELS=<dbt_selector> clone-dbt-select-local-user`
+  - eg. `make DBT_MODELS=+dim_subscription clone-dbt-select-local-user`
+
+##### Cloning into branch DB 
+
+- This clones the given DBT model lineage into the active branch DB (ie. `{branch_name}_PROD`), this is equivalent to running the CI pipelines clone step.
+- It does not work on Master. 
+  - `make DBT_MODELS=<dbt_selector> clone-dbt-select-local-branch`
+  - eg. `make DBT_MODELS=+dim_subscription clone-dbt-select-local-branch`
+
 ### Docker Workflow
 {: #docker-workflow}
 
@@ -222,7 +248,7 @@ If you're interested in contributing to dbt, here's our recommended way of setti
 - Run `which dbt` to ensure it's pointing to the venv
 - Develop code locally, commit your changes as you would, and push up to your namespace on GitHub
 
-When you're ready to submit your code for a PR, ensure you've [signed their CLA](https://github.com/fishtown-analytics/dbt/blob/dev/0.15.1/CONTRIBUTING.md#signing-the-cla).
+When you're ready to submit your code for an MR, ensure you've [signed their CLA](https://github.com/fishtown-analytics/dbt/blob/dev/0.15.1/CONTRIBUTING.md#signing-the-cla).
 
 ## Style and Usage Guide
 
