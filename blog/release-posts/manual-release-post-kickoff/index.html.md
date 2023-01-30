@@ -34,37 +34,6 @@ Create a merge request with the introductory changes _after the previous post ha
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for usability improvements, bugs, and performance improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
-### Create MRs for usability improvements, bugs, and performance improvements
-
-Create dedicated MRs from the sample templates for these content blocks (usability improvements, bugs, performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
-
-**Note for people adding content:** The MRs for usability improvements, bugs, and performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule. Make sure to immediately apply any suggestion you make to avoid race conditions where your suggestion is considered as applied if someone else has directly pushed a commit ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/96728#note_806133408)). The TW lead will review the changes anyway, so no need to ask for a pre-review.
-{:.alert .alert-info}
-
-1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 [new
-   branches](https://gitlab.com/gitlab-com/www-gitlab-com/-/branches/new) from master: one for bugs, one for usability improvements, and one for performance improvements.
-   Name the branches `release-X-Y-bugs` `release-X-Y-usability-improvements` and `release-X-Y-performance-improvements`.
-1. From each of these newly created branches, open a merge request (MR)
-   targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs`, `Draft: release-X-Y-usability-improvements`, and
-   `Draft: release-X-Y-performance-improvements`, and use the
-   [`Release-Post-Bug-Usability-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
-   template.
-1. Add appropriate milestone to the MRs.
-1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs when the merge request is ready for review.
-1. Confirm that **Delete source branch when merge request is accepted** is
-   selected.
-1. After the MRs are created, confirm they have the following labels:
-   - `release post`
-   - `release post item`
-   - `Technical Writing`
-1. In each MR, replace the `@mentions` with the actual task owner names.
-1. On the `release-X-Y-bugs` branch, add a new file to the `data/release_posts/unreleased/` folder called bugs.yml and populate it with the content of [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
-1. On the `release-X-Y-usability-improvements` branch, add
-a new file to the `data/release_posts/unreleased/` folder called release-post-ux-improvements.yml and populate it with the content of 
-   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml).
-1. On the `release-X-Y-performance-improvements` branch, add
-a new file to the `data/release_posts/unreleased/` folder called performance_improvements.yml and populate it with the content of    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml).
-
 ## Create Retrospective Issue
 
 1. Create a release post retrospective issue by using the [Release post retrospective template](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates/Release-Post-Retrospective.md), and use `Release Post X.Y Retrospective` as a title.

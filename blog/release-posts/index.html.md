@@ -47,14 +47,12 @@ At a high level, the Release post schedule is:
 
 ### By the 15th
 
-- **EMs, PMs, Product Design Managers and Product Designers** contribute MRs for [Usability, Performance Improvements, and Bug Fixes](#usability-improvements-performance-improvements-and-bug-fixes)
 - **EMs and PMs** make sure items that are feature flagged are `enabled by default` to ensure inclusion into the self-managed release.
 - Deprecation and removal MRs are assigned to TWs for final review and merge.
 
 ### By the 16th
 
 - **TW Reviewers** finish review of Features, Deprecations, Removals, Upgrades, and Extras
-- **TW Lead** reviews usability, bugs and performance improvement MRs
 - **PMMs, Product Design Managers, Product Designers, and PM Leaders** do optional reviews of release post item MRs
 
 ### By the 17th
@@ -62,8 +60,6 @@ At a high level, the Release post schedule is:
 - **EMs**:
   - Merge feature release post item MRs if the underlying code was merged _before_ the 17th
   - Merge feature release post item MRs if manually verified to be in the release
-
-- **Release Post Manager** merges usability, performance improvements, and bug fixes MRs
 
 - **TW Reviewers** merge deprecation and removal MRs
 
@@ -271,9 +267,7 @@ The due dates for various reviews across all participants can be found on the [r
 
 Keeping an eye on the various content reviews (TW, PMM, and Director) for the individual release post items (content block MRs) is the responsibility of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy-edit and link check items as new items appear. It's also important to do this because this page is LIVE to users and should be error free.
 
-The content review of the usability, performance improvements, and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
-
-The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
+The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
 
 After the Review App for the release post has been generated, the Release Post Manager solicits additional feedback from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Clearly communicate when they can expect to start their review 24 hours in advance; this is especially important when the review must happen over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
 
@@ -443,7 +437,7 @@ Before pinging the release post manager, ask yourself if your content absolutely
 
 ### Adding, editing, or removing merged content blocks after the 22nd
 
-You can make changes to the release post after it's live to make edits to any content blocks (features, bugs, usability and performance improvements, or removals).
+You can make changes to the release post after it's live to make edits to feature content blocks.
 
 To edit a content block:
 
@@ -511,30 +505,6 @@ Please add the `documentation_link` at the same time you add a content block to 
 
 Always link to the "EE" version of GitLab docs `https://docs.gitlab.com/ee/` (not `/ce/`) in the blog post, even if it is a CE feature.
 
-#### Contributing to Bug Fixes
-
-It's the PMs discretion on which bugs or performance improvements to include in a release post. When evaluating what to include consider the following factors:
-
-- Amount of impacted users - if the bug you're fixing impacts many users consider adding it to the release post. Not all high volume bugs are worth calling out, be sure to consider severity as well.
-- Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvement it's worth calling out.
-- Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues.
-- Bugs with high demand - demand being interest from customers (in the form of upvotes, discussions on issues) or the wider community.
-
-It's also recommended you collaborate with your EM in deciding what to include.
-
-Note that security fixes should be included in, and announced with, the [Patch and Security release posts](/handbook/marketing/blog/release-posts/#patch-and-security-release-posts) which is a different process than the monthly release post.
-
-#### Contributing to Usability Improvements
-
-It's up to the Product Manager's, Product Designer's and Product Design Manager's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage Product Design Managers to make sure all items that don't make it into this section are added to the [UI Polish gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), with a link from the release post.
-
-
-When evaluating what to include consider the following factors:
-
-- Reach - if it impacts 50% or more of our users, prospects, or customers, consider including it.
-- Impact - if it **does not** have a trivial or minimal impact, consider including it. Also, if the reach is low but it has a high or massive impact, consider including it.
-- In the event there are more than 12 suggested improvements, the Release Post Manager will review the list and work with Design Leadership to trim to the most noteworthy improvements.
-
 ## PMM Reviewers
 
 ### Messaging review
@@ -573,9 +543,6 @@ The TW Lead is responsible for a final review of:
 - [Release post top feature](#top-feature) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
 - [Release post primary features](#primary-features) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
 - [Frontmatter check](#frontmatter)
-- [Bugs](#bugs-mr)
-- [Performance improvements](#performance-improvements-mr)
-- [Usability improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
 - Verifying the deprecations and removals sections in the release post link to GitLab the corresponding pages in GitLab Docs.
 
@@ -664,64 +631,6 @@ If you want only the release number to be dark, uncomment
 
 These two variables work independently; you can assign either of them
 or both of them to the same post.
-
-Note: Because there are no individual TW reviewers for the performance improvements and bug fixes (#usability-improvements-performance-improvements-and-bug-fixes) content block MRs, Engineering Managers, and Product Managers will contribute to MRs created by the Release Post Manager. The MR will be assigned to the TW Lead by the 16th to review, mark with Ready label and assign to the Release Post Manager to merge.
-
-### Bugs MR
-
-As the TW Lead, you're responsible for reviewing the bug fixes MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
-
-Bugs included in the description:
-
-- The title of the bug, for syntax and clarity.
-- The link to the bug report.
-- Whether the bug has been closed or merged:
-  - If the bug is closed or merged, was it on or before the current milestone?
-  - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the bug will not be closed or merged by the 16th of the month, remove the entry from the Bugs MR.
-
-YAML data:
-
-- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
-- `- name: "Bug fixes"`
-- `bug_fixes_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=closed&milestone_title=XX.Y&label_name%5B%5D=type%3A%3Abug&first_page_size=20` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=closed&milestone_title=15.5&label_name%5B%5D=type%3A%3Abug&first_page_size=20` - this links to closed issues for the 15.5 milestone with the `~"type::bug"` label.
-
-### Performance improvements MR
-
-As the TW Lead, you're responsible for reviewing the performance improvements MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
-
-Performance improvements added to the description:
-
-- The title of the performance improvement issue, for syntax and clarity.
-- The link to the performance issue.
-- Whether the issue/MR has been closed.
-  - If the issue/MR is still open, make sure that the responsible EM, PM, or performance improvement author is aware of the situation.
-  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Performance Improvements MR.
-
-YAML data:
-
-- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
-- `- name: "Performance improvements"`
-- `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?sort=updated_desc&state=closed&label_name[]=bug::performance&milestone_title=XX.Y` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?sort=updated_desc&state=closed&label_name[]=bug::performance&milestone_title=15.5` - this links to merged merge requests for the 15.5 milestone with the `~bug::performance` label.
-
-### Usability improvements MR
-
-As the TW Lead, you're responsible for reviewing the usability improvements MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
-
-Usability improvements included in the description:
-
-- The title of the improvement, for syntax and clarity.
-- The link to the improvement issue/MR.
-- Whether the issue/MR has been closed:
-  - If the issue/MR is closed, was it closed on or before the current milestone?
-  - If the issue/MR is still open, make sure that the responsible EM, PM, PD, or usability author is aware of the situation.
-  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the usability MR.
-
-YAML data:
-
-- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
-- `- name: "Usability improvements"`
-- `ux_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name%5B%5D=SUS::Impacting&milestone_title=XX.Y` - replace XX.Y with the current milestone. For example, for GitLab 15.5, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name%5B%5D=SUS::Impacting&milestone_title=15.5` - this links to closed issues for the 15.5 milestone with the `~SUS::Impacting` label.
 
 ### MVP entry
 
@@ -1220,11 +1129,13 @@ to the post.
 
 ### Usability improvements, performance improvements, and bug fixes
 
-_To be added by Engineering Managers, Product Managers and Product Design Managers._
+The release post will link directly to closed issues for the relevant milestone filtered by the following labels:
 
-The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Product Design Managers and Product Designers can also contribute to usability improvements. Read more about [Contributing to Usability Improvements](#contributing-to-usability-improvements).
+- Bug fixes: `type::bug` `workflow::complete` `workflow::verification` `workflow::production`
+- Performance improvements: `bug::performance` `workflow::complete` `workflow::verification` `workflow::production`
+- Usability improvement: `SUS::impacting` `workflow::complete` `workflow::verification` `workflow::production`
 
-For items that are feature flagged, it is recommended they are `enabled by default` by the 15th to ensure inclusion into the self-managed release.
+`workflow::verification` and `workflow::production` are being included while we adopt the [addition of the `workflow::complete` label](/handbook/product-development-flow/#required-labels-2). `workflow::complete` is the desired label to indicate an issue is considered by users to be delivered.
 
 ### Omnibus improvements
 
@@ -1631,9 +1542,6 @@ If the script fails to run or there are pipeline issues, you can run `bundle exe
    if you want to re-run the script.
 1. The [MVP template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/mvp.yml)
    is used to create the MVP file (`data/release_posts/X_Y/mvp.yml`).
-1. The [performance improvement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml) sample file is used to create the performance improvement MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
-1. The [bugs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) sample file is used to create the bugs MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
-1. The [usability improvements](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml) sample file is used to create the usability improvements MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
 1. The retro issue is generated and assigned using the [Release-Post-Retrospective template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
 1. The script performs a find and replace to update the following values in all of the MRs and Issues above using content from `data/release_post_managers.yml`:
 
@@ -1834,7 +1742,6 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
 - [Deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md)
 - [Deprecation MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
 - [Removal MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md)
-- [Release post bug, usability and performance improvements MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
 - [MVP issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/release-post-mvp-nominations.md)
 - [Release Post retrospective issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
 - [YML content block samples](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
