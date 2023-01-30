@@ -150,6 +150,10 @@ Sometimes researchers will report a vulnerability in features behind a [feature 
 
 For a CVSS, use `AC:H` to reflect that _"A certain setting has to have a non-default value to make the attack possible"_.
 
+#### Triaging deprecated features 
+
+Vulnerabilities in deprecated features are triaged normally. [See discussion](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/336) for more information.
+
 #### Triaging DNS record takeovers
 
 DNS record takeovers typically require multiple teams in order to triage. The workflow is slightly different:
