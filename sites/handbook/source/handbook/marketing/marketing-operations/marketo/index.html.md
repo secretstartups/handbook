@@ -307,6 +307,12 @@ The following segmentations that are approved and live.
 
 <details>
 <summary markdown='span'>
+[Buyer Personas](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL53164392B2)
+</summary>
+</details>
+
+<details>
+<summary markdown='span'>
 [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 </summary>
 </details>

@@ -116,7 +116,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 
 White Paper or other content offer.
 
-**Bizible:** This is tracked as an _online_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
+**Bizible:** This is tracked as an _online_ channel. 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -162,7 +162,7 @@ This is used for non-traditional list uploads in which we are looking to a) avoi
 
 This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit or Meetups). Also considered in this grouping would be 3rd party auxiliary events that are added on to a conference sponsorship (i.e a happy hour or VIP dinner at a conference).  
 
-**Bizible:** This is tracked as an _online_ channel because we manage the registration through our website.
+**Bizible:** This is tracked as an _online_ and as an _offline_ channel because we manage the registration process through our website. Whenever someone registers, a TP will be created based on that online activity while another  TP is added based on the campaign sync rules, for the campaign members with success statuses. 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -179,7 +179,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Attended On-demand| Watched/consumed the presentation materials post-event on-demand| Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
-#### Pail Social
+#### Paid Social
 
 **Bizible:** This program is designated to house leads and programs brought in by social related campaigns (e.g. Linkedin campaigns) and is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -311,7 +311,7 @@ Any webcast that is hosted and held by GitLab. There are a few different groups 
 - [Partner webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
 - [On24 webcasts](/handbook/marketing/marketing-operations/on24)
 
-**Bizible:** This is tracked as an _online_ Bizible channel.
+**Bizible:** This is tracked as an _online_ Bizible channel as well as an _offline_ channel. We own the registration process so whenever a person registers to a webcast, a TP will be created based on the Bizible snippet that lives on our landing pages, while another TP is created for campaign members with success/responded statuses. 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -482,7 +482,7 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Select the `02a - Interesting Moments` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
-     * Select the `02b - Manual Upload Processing` smart campaign - This smart campaign looks for an addition to the lead list to update the status of the lead based on what list they are in. It's called manual upload because there needs to be a list upload to get these people updated in Marketo. If your campaign will need a list upload, you can turn this on.
+     * LIST UPLOAD ONLY: Only complete this step if you are uploading a list. Select the `02b - Manual Upload Processing` smart campaign - This smart campaign looks for an addition to the lead list to update the status of the lead based on what list they are in. It's called manual upload because there needs to be a list upload to get these people updated in Marketo. If your campaign will need a list upload, you can turn this on.
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`           
 * If this is an `Owned Event` (Hopin), follow the `Update the Salesforce campaign` instructions in Step 5, then follow the activation instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector)).
@@ -650,7 +650,7 @@ These steps are not yet configured. If you are planning to do this for your next
 
 ### Step 4: Activate Marketo smart campaign
 
-- In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
+- In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List` or `Program Status is Changed > Status is Downloaded`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
     - The correct program should automatically apply when cloned, so _you don't need to do anything here._
 - In the `01 Downloaded` smart campaign, the "Flow" will trigger a program status change `Content Syndication > Downloaded`, that will trigger a scoring update. An interesting moment to be applied, the `Person Source` (note: this maps to `Initial Source` in Salesforce) will update IF a `Person Source` does not already exist (i.e. it is blank), the `Acquisition Program` will set if blank, the Marketo `Initial Source` will populate if blank, and the `Person Status` will update to `Inquiry` if `Blank` or `Raw`.
 - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.

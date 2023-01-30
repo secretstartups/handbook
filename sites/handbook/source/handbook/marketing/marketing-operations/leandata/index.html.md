@@ -36,6 +36,8 @@ Leads that match to accounts but are not able to be routed via owner mappings or
 #### Queue assignment
 Leads that are not yet MQLs or that are no longer being worked by the Sales Development team, are assigned to "holding" queues until they re-MQL. 
 
+Leandata runs a weekly job that looks for leads in `Recycle`, `Bad Data`, `Ineligible`, `Inquiry`, and `Disqualified` statuses, not in an active sequence, and owned by a Sales Dev user and reassigns the lead to the appropriate queue based on status. 
+
 #### Exceptions to these rules
 ##### US PubSec lead assignment
 US PubSec leads are assigned to US PubSec BDRs regardless of `Lead Status`, if they have been identified as part of a US PubSec account. This is an exception to our standard lead management process where non-US PubSec leads that have not yet MQLed would be assigned to a [queue](#queue-assignment) until that condition is met.  
