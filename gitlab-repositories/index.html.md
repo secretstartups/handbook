@@ -93,14 +93,20 @@ sast:
     - gitlab-org-docker
 ```
 
-If a job requires the usage of Windows (not yet supported), it needs to be defined only in the context of the specific
-job with the `gitlab-org-windows` tag:
+If a job requires the usage of Windows, it needs to be defined only in the context of the specific
+job with the `shared-windows` tag:
 
 ``` yaml
 windows_job:
   tags:
-    - gitlab-org-windows
+    - shared-windows
 ```
+
+If a job requires specific Windows version, use one of the following tags:
+- `windows-1809`
+- `windows-2004`
+- `windows-20H2`
+- `windows-21H1`
 
 ### Publishing a Project
 
