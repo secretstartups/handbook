@@ -87,49 +87,53 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
 Please reference this page for an overview of the [CSM Rhythm of Business (daily to yearly)](https://about.gitlab.com/handbook/customer-success/csm/rhythm/)
 Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](/handbook/customer-success/csm/services/)
 
-## FY23 Goals (Big Rocks)
-**Objective:**  Define the 3 ‘big rocks’ to take on in FY23 with the overall goal of moving our team forwards.  These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
+## FY24 Annual OKRs (Big Rocks)
 
-**What are 'big rocks'?**  
-As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through CSM leadership discussions and final input from individual contributors.
+**Objective:**  The 3 ‘big rocks’ to take on in FY24 with the overall goal of moving our team forwards. These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
 
-### Big Rock 1: (Re)Define the CSM Role
-[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/77) (GitLab Internal-Only)
+**What are 'big rocks'?** As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through CSM leadership discussions and final input from individual contributors.
 
-The goal of the CSM is to drive growth. However, the role of the CSM has become increasingly broad over the past few years, deterring from the growth conversation with customers.  As we have added more to the role (migration & infrastructure guidance, cross-functional escalation ownership, consultative support), the ability to focus as a CSM on growth has become increasingly challenging. 
+### Big Rock 1: Invest in the team to drive customer value
 
-To continue to build a scalable CSM team focused on excellent customer experience and driving customer growth, we need to refine the role of the CSM.  This initiative will include what a CSM is and what a CSM is not.  
+Investing in the CSM team is a top priority, and this year we will provide team members with education and enablement to empower them in their role with customers and other GitLab team members, specifically related to:
+- Cross-functional collaboration
+- Executive engagement
+- Sales approach best practices
+- Book of business ownership
 
-Key areas of exploration:
-1. Definition by CSM segment: High-touch, Mid-touch, Scale
-1. Reducing overlap: Looping in of support/timing
-1. Infrastructure conversations and ownership
-1. Escalation improvements; streamlining
+CSMs will exit FY24 with skills to help them throughout their career, and they will be better equipped to drive customer results and ROI, through improved confidence, leadership, collaboration, and ownership.
 
-### Big Rock 2: Expertise in driving CI and DevSecOps adoption & expansion
-[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/78) (GitLab Internal-Only)
+Our goals with this big rock include the following initiatives:
+- Develop and launch enablement materials for skills key to being a successful CSM:
+   - Neurodiversity awareness
+   - Cross-departmental collaboration
+   - Executive engagement and presence
+   - Sales expertise
+   - Strategic long-term planning
+- Close gaps across CSM and Sales ICs and managers by establishing regular cadences and documenting agreed-upon expectations
+- Invest in CSMs' personal and professional development through provided training, growth & development budget, and regular growth conversations
+- Ensure fundamentals learned in onboarding are regularly reinforced with all members of the team
+- Foster an inclusive environment for CSMs and elevate diversity as a core value
 
-In FY22 we put considerable focus into use case expansion.  The team have developed a well-rounded understanding of the use cases, but have not been given the space needed to become experts in driving any one use case.  In FY23 we will seek to become experts in driving CI and DevSecOps expansion and maturity, knowing these use cases are the key drivers for customer stickiness and growth. 
+For more information and specifics, please review the [epic for Big Rock 1](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/97) (GitLab-internal only), which includes quarterly OKRs for FY24.
 
-Key areas of exploration:
-1. Iteration on playbooks
-1. Supporting materials
-1. Webinars
-1. Digital enablement/expansion strategies
-1. Reporting & visualization
-1. Maturity scoring (customer)
 
-### Big Rock 3: Deepen our customer engagement
-[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/79) (GitLab Internal-Only)
+### Big Rock 2: Drive product adoption and growth for your customers
 
-The CSM relationship with the customer has been architected primarily on engagement with GitLab admins, who are not responsible for platform adoption or business case value.  Due to the CSM being pigeon-holed into these admin conversations, we are often not engaging with the right people in order to ensure excellent customer experience, use case adoption and growth.  In FY23 we will seek to engage the development team leads and key users of the GitLab platform early and often, to ensure consistent growth strategies with our customers. 
+[Epic for Big Rock 2](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/95)
 
-Key areas of exploration: 
-1. Expectation setting: from presales
-1. Defining engagement strategies for target personas
-1. Supporting content creation and digital programs
-1. Exec sponsor program
-1. User groups/customer forums
+Equip team members to speak to product capabilities, value propositions, business impact, and help customers with use case adoption.
+
+### Big Rock 3: Know our customers 
+
+[Epic for Big Rock 3](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/96) (GitLab-internal only)
+
+
+Position CSMs to identify opportunity & risk through excellent account management practices. To ascend beyond transactional Q&A, and build relationships as a trusted advisor.
+
+### Big Rock Archive
+
+- [FY23](/handbook/customer-success/csm/fy23)
 
 ## Handbook Directory
 
