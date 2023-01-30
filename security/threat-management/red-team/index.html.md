@@ -52,7 +52,9 @@ If these activities are detected by SecOps, they should be treated as potentiall
 
 When vulnerabilities are manually discovered during open-scope work, an issue will be opened inside the [Red Team Operations issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-operations/-/issues) using the "Open Scope Finding" template. If immediate action is required, we will [contact SIRT](https://about.gitlab.com/handbook/security/#-contacting-the-team) and reference the issue. For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
 
-## Red Team Metrics
+## Red Team Logistics
+
+### Red Team Metrics
 
 We want to measure the things that matter. We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
 
@@ -64,11 +66,23 @@ This is done by opening individual issues for each recommendation generated duri
 
 We will not measure our team's performance based on simply counting the number of recommendations over a specific time period. Instead, we will try to understand how the recommendations ultimately impact the organization and what we can do to become a more effective Red Team.
 
-## Red Team Technique Handover
+### Red Team Technique Handover
 
 The Red Team will develop new adversary emulation techniques on a regular basis, both during official operations as well as informal [open-scope](#open-scope-work) activities. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
 
 While this may result in product fixes or infrastructure changes, it is possible that vulnerable configurations may reappear in the environment. At this point, GitLab's [Vulnerability Management](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/) group will take over any ongoing scanning required to monitor for this scenario. The Red Team will share any tools they used for the initial discovery, but Vulnerability Management will generally implement a more production-ready permanent scanning solution.
+
+### Red Team Tooling Development
+
+The Red Team writes a lot of code, most of which will not be used in production environments. We want to prioritize simplicity and usability when writing it. This means writing code that is easy to understand and maintain, rather than worrying about optimization or unnecessary advanced functionality.
+
+We will generally use Python because it is widely adopted in the security industry and has a large selection of libraries that can help us quickly develop tools.
+
+When we need to create a single portable application, such as emulated malware, we will use Go.
+
+Other factors may influence the decision on which language to use, such as forking an existing project or a requirement to emulate a specific attack scenario.
+
+To help ensure consistency, we have created a [project template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/templates/red-team-tooling-template) available internally. This template includes a standard set best practices for testing, building, and relasing new tools.
 
 ## Is This the Red Team?
 
