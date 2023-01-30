@@ -34,10 +34,10 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Sales VPs
 
-**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, David Helfer (interim), Nima Badiey**
+**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, & Nima Badiey**
 
 * Please reach out to Victoria Reinhardt (Sr. EBA) to schedule or reschedule any meetings for Ryan O'Nell and Mike Pyle
-* Please reach out to Dana Pelton (Sr. EBA) to schedule or reschedule any meetings for David Hong and David Helfer (interim)
+* Please reach out to Dana Pelton (Sr. EBA) to schedule or reschedule any meetings for David Hong 
 * Please reach out to Becky Piccone (Sr. EBA) to schedule or reschedule any meetings for David Sakamoto and Nima Badiey
 * Don't schedule over DNB or any CRO calls without reaching out for approval from VP and EBA
 * For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
