@@ -29,8 +29,7 @@ graph TD
     B --> |alerts for imminent saturation|D[Pager Duty]
     C --> |historical saturation data|E[Tamland]
     E --> |generates|F[Tamland Report]
-    E --> G[Push Gateway]
-    G --> H[Capacity Planning Issue Tracker]
+    E --> F[Capacity Planning Issue Tracker]
 ```
 
 1. **[Saturation Monitoring Jsonnet Configuration](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)** - for saturation monitoring definition, recording rule generation, short term alerting configuration generation.
@@ -42,8 +41,8 @@ graph TD
 1. **[Facebook Prophet](https://facebook.github.io/prophet/)** - forecasting.
 1. **[GitLab Pages Tamland Report Site](https://gitlab-com.gitlab.io/gl-infra/tamland)** - static site hosting of the generated forecasts.
 1. **Prometheus Pushgateway** - accepting key metrics from Tamland forecasts.
-1. **[GitLab Capacity Planning Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues)** - GitLab project used for tracking capacity planning forecast warnings. Alerts use the GitLab AlertManager integration.
-1. **GitLab Slack Integration** - Slack notifications of new alerts in Tamland, to the [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W) channel.
+1. **[GitLab Capacity Planning Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues)** - GitLab project used for tracking capacity planning forecast warnings. Issues are created by Tamland directly.
+1. **GitLab Slack Integration** - Slack notifications of new issues in the capacity planning project, to the [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W) channel.
 
 ### Source Data
 
@@ -72,23 +71,16 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 ### Reviewing Tamland Data
 
 1. The Tamland report is generated.
-1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated.
-1. An issue is created for every relevant forecast alert after reviewing.
-1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
+1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 90 days, it creates an issue.
+1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker following the [process described on the Scalability:Projections team page](/handbook/engineering/infrastructure/team/scalability/projections.html#triage-duties).
    1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for
 example, a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue
 requires investigation.
 1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate. We use the
-[Infradev Process] (/handbook/engineering/workflow/#infradev) to assist with the prioritization of these capacity alerts.
+[Infradev Process](/handbook/engineering/workflow/#infradev) and the [Engineering Allocation meeting](/handbook/engineering/#engineering-allocation) to assist with the prioritization of these capacity alerts.
    1. These issues can be the catalyst for other issues to be created in the 'gitlab-org/gitlab' tracker by the stage groups for further investigation. These
 issues must be connected to the capacity planning issues as related issues.
 1. Any issue concerning resource saturation or capacity planning in any tracker should have the "GitLab.com Resource Saturation' label applied.
-
-### Duplicate Issues
-
-While working on automation for parts of the process, we ran into a bug that caused duplicate issues to be created. 
-These issues are labelled with `duplication-saturation-incident` and linked to the original issue. 
-They need to remain open until the original issue is created to prevent further duplicates from being created.
 
 ### Due Dates
 
@@ -106,6 +98,15 @@ Capacity Planning issues are created without a state. After the initial assessme
 1. `capacity-planning::monitor` - we need to wait for time to pass to gather further data on this issue to make a decision on how to proceed
 1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
 1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
+
+### Saturation Labels
+
+Each issue has saturation labels, indicating which thresholds it exceeds and how. An issue can have multiple saturation labels; for instance, any issue with `saturation` will, by definition, also have the other three.
+
+1. `saturation` - this issue is predicted (by the median line) to reach 100% saturation in the next 90 days.
+1. `violation` - this issue is predicted (by the median line) to reach the saturation threshold (which varies by component) in the next 90 days.
+1. `saturation-80%-confidence` - this issue is predicted (by the upper end of the 80% confidence interval) to reach 100% saturation in the next 90 days.
+1. `violation-80%-confidence` - this issue is predicted (by the upper end of the 80% confidence interval) to reach the saturation threshold (which varies by component) in the next 90 days.
 
 ### Capacity Planning is a shared activity
 
