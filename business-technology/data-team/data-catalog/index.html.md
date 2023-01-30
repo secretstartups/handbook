@@ -49,6 +49,9 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [Data Guide to Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
 * [Data Guide to Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
 * [Data Guide to Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
+* [Data Guide to Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
+* [Data Guide to Sales Funnel Analysis](/handbook/business-technology/data-team/data-catalog/sales-funnel/)
+* [Data Guide to Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation/)
 
 ### Entity Relationship Diagrams
 
