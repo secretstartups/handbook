@@ -19,6 +19,8 @@ description: "A comprehensive list of all of Channel, Partner and Alliances's ep
 
 Create epic here: https://gitlab.com/groups/gitlab-com/marketing/-/epics/new
 
+**Note:** Do not pay out invoice/P.O. until MDF proof of performance (POP), lead list and Invoice have been processed and noted as approved by the Partner Marketing team.
+
 
 ```
 <!-- Name this Epic:  MDF - PartnerName - Activity -->

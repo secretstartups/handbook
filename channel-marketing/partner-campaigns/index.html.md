@@ -110,7 +110,7 @@ There is no marketo program or SFDC campaign setup necessary to track SaaS trial
 
 **NOTE**: For Vartopia sync, the campaign field, `Is Channel Partner Involved?` = `Yes`.
 
-First, use the general set up is found [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page. 
+First, use the general set up, found in [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page. 
 
 All Marketo templates will have 2 tokens added to them that the campaign owner should update, {{My.Partner Name}} and {{My.CRM Partner ID}}
 - Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{My.Partner Name}} event....`
@@ -131,7 +131,7 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
 1. Processing Campaign for partner campaings is separate from the typical one. Do not activate both.
     1. Processing smart campaign's smart list must reference `FORM 3146: Partners w/ consent+token` or another partner form (translations)
 1. Set up asset expiration as [described here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration), if needed.
- 1.  (no setup needed) Marketo will process..
+ 1.  (no setup needed) Marketo will process.
     1. If there is a `CRM Partner ID`
         1. Set `Vartopia Partner Account`
         1. Set `Partner Consent` = `True` 
@@ -195,8 +195,6 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 - Update `Will there be MDF Funding?`
 - Update `Is a Channel Partner Involved?`
 - Update `Channel Partner Name`
-- Update `Is an Alliance Partner Involved?`
-- Update `Alliance Partner Name`
 - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -212,23 +210,103 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 - Once list is loaded, loader should go to the `01 - Processing` campaign and `Run Once`
     - Campaign will assign leads to the partner you specified in step 3 in Vartopia
 
+# Alliance Marketing Campaigns
+
+This section is to walk through the technical setup of webcasts hosted by GitLab and/or Alliance Partner. Unlike Channel leads, Alliance leads follow the regular [lead and contact statuses](/handbook/marketing/marketing-operations/#lead-and-contact-statuses) and [scoring model](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).
+
+## Webcast Setup
+
+All Marketo templates will have 2 tokens added to them that the campaign owner should update,`{{My.Partner Name}}` and `{{My.CRM Partner ID}}`.
+
+The `CRM Partner ID` can be retrieved by identifying the `Account ID (18)` of the Alliance Partner - refer to this [list](https://gitlab.my.salesforce.com/00O8X000008mxIb).
+
+First, use the general set up found in [campaigns and programs page](https://stackedit.io/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
+
+### On24 Webcast Hosted by GitLab (Lead capture via forms) 
+
+GitLab can drive webcasts with Alliance Partners using [On24](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup). To incorporate the steps required for partners, follow these additional steps.
+
+#### Step 1: Setup in Marketo
+
+ 1. Update  `{{my.CRM Partner ID}}`  with the [Account (18)](https://gitlab.my.salesforce.com/00O8X000008mxIb) of the partner.
+ 2. Update  `{{my.Partner Name}}`  with the name of the partner. 
+ 3. The registration landing page must have the following:
+    -   `FORM 3299: Alliances` with a hidden field that captures  `utm_partnerid`.
+    -   The **URL must include the utm parameter with the CRM Partner ID** to the landing page to lead to be associated with the Alliance partner.
+ 4. Activate `01a Registration Flow (single timeslot)` 
+ 5.  Activate `00 Interesting Moments` and interesting moments will dynamically change if there is a partner involved to reflect that.
+ 6. (no setup needed) Marketo will process. 
+	 1. If there is a  `CRM Partner ID`
+	    1.  Set  `CRM Partner ID (Look up)`
+	    2.  Set  `Partner Type` = `Alliance Partner` (by Salesforce) 
+
+#### Step 2: Update SFDC Campaign
+
+ -   Update  `Campaign Type Details` 
+-   Change the  `Campaign Owner`  to your name
+-   Update  `Large Bucket`  based on  [criteria](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
+-   Update  `Start Date`  to the date of launch
+-   Update  `End Date`  to when the campaign concludes
+-   Update  `Budgeted Cost`  - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
+-   Update  `Region`  and  `Sub-region`  if you have the data available
+-   Update  `Budget Holder`
+-   Update  `Is an Alliance Partner Involved?`
+-   Update  `Alliance Partner Name`
+-   Click Save
+
+### Webcast Hosted by Alliance Partner (Lead capture via list uploads)
+
+**NOTE:** Upon list import, ensure the Google sheet column for `CRM Partner ID` is populated, this will help associate the partner lead with the Alliance partner.  
+
+If a form isn't available to capture registration, follow these additional steps:
+
+#### Step 1: Update Tokens in Marketo 
+
+-   Update  `{{my.CRM Partner ID}}`  with the [Account (18)](https://gitlab.my.salesforce.com/00O8X000008mxIb) of the partner.
+-   Update  `{{my.Partner Name}}`  with the name of the partner.
+- (No setup required)  Interesting moments will dynamically change if there is a partner involved to reflect that.
+
+#### Step 2: Update SFDC Campaign
+
+ -   Update  `Campaign Type Details` 
+-   Change the  `Campaign Owner`  to your name
+-   Update  `Large Bucket`  based on  [criteria](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
+-   Update  `Start Date`  to the date of launch
+-   Update  `End Date`  to when the campaign concludes
+-   Update  `Budgeted Cost`  - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
+-   Update  `Region`  and  `Sub-region`  if you have the data available
+-   Update  `Budget Holder`
+-   Update  `Is an Alliance Partner Involved?`
+-   Update  `Alliance Partner Name`
+-   Click Save
+
+#### Step 3: Update `CRM Partner ID` Column in Google Sheet
+
+ - In the list upload, include the `CRM Partner ID` value in the [spreadsheet](https://docs.google.com/spreadsheets/d/1dzFqwjoBat8sna0uZu9RSVTsPvAZnJ4Xx4GkZllAUD0/edit#gid=257616838) column. If the lead is not associated with an Alliance partner, leave the column blank.
+
+
+#### Step 4: Update List Upload Request Issue
+
+-   Please follow the  [list import criteria and guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
+
+
 # Field Glossary
 Below are the glossary of fields used for Channel and Alliance partner campaigns and workflows.
 
-|                                                                                                 |                                          | Channel Partner | Channel Partner | Distributor | Distributor | Alliance Partner | Alliance Partner |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------- | --------------- | ----------- | ----------- | ---------------- | ---------------- |
-|                                                                                                 | Field API Name                           | Leads           | Records         | Leads       | Records     | Leads            | Records          |
-| [Alliance Record](https://gitlab.my.salesforce.com/00N4M00000IW0Al?setupid=LeadFields)          | Alliance_Record__c                       |                 |                 |             |             |                  | X                |
-| [Channel Record](https://gitlab.my.salesforce.com/00N8X00000HNJde?setupid=LeadFields)           | Channel_Record__c                        |                 | X               |             | X           |                  |                  |
-| [CRM Partner ID](https://gitlab.my.salesforce.com/00N4M00000IbfCn?setupid=LeadFields)           | CRM_Partner_ID__c                        | X               |                 | X           |             | X                |                  |
-| [CRM Partner ID (Look Up)](https://gitlab.my.salesforce.com/00N4M00000IjeO1?setupid=LeadFields) | CRM_Partner_ID_lookup__c                 | X               |                 | X           |             | X                |                  |
-| [Lead Acquisition Source](https://gitlab.my.salesforce.com/00N8X00000FnjX0?setupid=LeadFields)  | Lead_Acquisition_Source__c               | X               |                 |             |             | X                |                  |
-| [Partner Consent](https://gitlab.my.salesforce.com/00N4M00000IbfCo?setupid=LeadFields)          | Partner_Consent__c                       | X               |                 | X           |             |                  |                  |
-| [Partner Managed](https://gitlab.my.salesforce.com/00N8X00000FoY1r?setupid=LeadFields)          | Partner_Managed__c                       | X               |                 |             |             |                  |                  |
-| [Partner Manager](https://gitlab.my.salesforce.com/00N8X00000HNDnd?setupid=LeadFields)          | Partner_Manager__c                       | X               |                 |             |             |                  |                  |
-| [Partner Type](https://gitlab.my.salesforce.com/00N8X00000HNKlG?setupid=LeadFields)             | Partner_Type__c                          | X               |                 | X           |             | X                |                  |
-| Subscribe - Partner                                                                             | subscribePartner (resides in Marketo)    | X               |                 | X           |             | X                |                  |
-| [Vartopia Partner Account](https://gitlab.my.salesforce.com/00N8X00000FnjVo?setupid=LeadFields) | VartopiaDRS__Vartopia_Partner_Account__c | X               |                 |             |             |                  |                  |
+|                                                                                                 | Channel Partner | Channel Partner | Distributor | Distributor | Alliance Partner | Alliance Partner |
+| ----------------------------------------------------------------------------------------------- | --------------- | --------------- | ----------- | ----------- | ---------------- | ---------------- |
+|                                                                                                 | Leads           | Records         | Leads       | Records     | Leads            | Records          |
+| [Alliance Record](https://gitlab.my.salesforce.com/00N4M00000IW0Al?setupid=LeadFields)          |                 |                 |             |             |                  | X                |
+| [Channel Record](https://gitlab.my.salesforce.com/00N8X00000HNJde?setupid=LeadFields)           |                 | X               |             | X           |                  |                  |
+| [CRM Partner ID](https://gitlab.my.salesforce.com/00N4M00000IbfCn?setupid=LeadFields)           | X               |                 | X           |             | X                |                  |
+| [CRM Partner ID (Look Up)](https://gitlab.my.salesforce.com/00N4M00000IjeO1?setupid=LeadFields) | X               |                 | X           |             | X                |                  |
+| [Lead Acquisition Source](https://gitlab.my.salesforce.com/00N8X00000FnjX0?setupid=LeadFields)  | X               |                 |             |             | X                |                  |
+| [Partner Consent](https://gitlab.my.salesforce.com/00N4M00000IbfCo?setupid=LeadFields)          | X               |                 | X           |             |                  |                  |
+| [Partner Managed](https://gitlab.my.salesforce.com/00N8X00000FoY1r?setupid=LeadFields)          | X               |                 |             |             |                  |                  |
+| [Partner Manager](https://gitlab.my.salesforce.com/00N8X00000HNDnd?setupid=LeadFields)          | X               |                 |             |             |                  |                  |
+| [Partner Type](https://gitlab.my.salesforce.com/00N8X00000HNKlG?setupid=LeadFields)             | X               |                 | X           |             | X                |                  |
+| Subscribe - Partner                                                                             | X               |                 | X           |             | X                |                  |
+| [Vartopia Partner Account](https://gitlab.my.salesforce.com/00N8X00000FnjVo?setupid=LeadFields) | X               |                 |             |             |                  |
 
 
 Go to the [Vartopia page](handbook/marketing/marketing-operations/vartopia/) to review fields that are relevant to Vartopia.
@@ -244,7 +322,7 @@ This field shows when a record belongs to a Channel Partner meaning they are an 
 
 This field is the Salesforce `Account ID (18)` associated with the partner account. 
 
-For a running list of Channel Partners and their CRM IDs, which is critical to the processes below, click [here](https://gitlab.my.salesforce.com/00O4M000004aSq6).
+For a running list of Channel Partners and their CRM IDs, which is critical to the channel partner lead flow, click [here](https://gitlab.my.salesforce.com/00O4M000004aSq6), while the `CRM Partner ID` for Alliance Partners can be found [here](https://gitlab.my.salesforce.com/00O8X000008mxIb).
 
 If you are working with an Open or Select partner who is not listed in the linked SFDC report, their partner ID which can be found in their Partner Account record within SFDC, in the 9th section called `Vartopia Deal Registration Access`. If you can't find the field, do a quick `commandF` for the word `Account ID (18)` and that will take you to the ID or you can retrieve the 18 character ID from the Salesforce URL. If for some reason the ID is missing, reach out in the [#channel-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF) slack room.
 
