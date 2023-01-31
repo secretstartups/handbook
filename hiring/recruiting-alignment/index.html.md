@@ -27,12 +27,13 @@ description: "This page is an overview of the search team alignment and the tale
 | G&A, Accounting, People | Rachelle Druffel | Fernando Khubeir |
 | G&A, IT | Kelsey Hart | Fernando Khubeir |
 | Internal | Jenna VanZutphen | Sruthy Menon |
-| Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Guido Rolli |
+| Development: Fulfillment, Enablement, Acquisitions | Mark Deubel| Guido Rolli |
 | Development: Ops | Riley Smith |  Guido Rolli |
 | Development: Dev | Sara Currie |  Mathea Gervolino |
 | Development: Analytics, Growth, Secure | Dielle Kuffel |  Mathea Gervolino |
+| Development: AML/ModelOps | Matt Angell |  Mathea Gervolino |
 | Quality: Quality Engineering | Sumi Anand & Cameron Wallen-Halliwell|  Guido Rolli |
-| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell  | Guido Rolli |
+| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Cameron Wallen-Halliwell | Guido Rolli |
 | UX  | Rupert Douglas  | Guido Rolli |
 | Support | Joanna Michniewicz  |  Mathea Gervolino |
 | Security | Nicky Kunstman | Michelle Jubrey|
