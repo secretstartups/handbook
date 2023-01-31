@@ -113,6 +113,22 @@ Each issue has saturation labels, indicating which thresholds it exceeds and how
 The Scalability:Projections team owns the Capacity Planning process and we aim to enable others to take responsibility for the 
 capacity demands of their features and services. 
 
+### Prioritization Framework
+
+The Scalability:Frameworks team uses capacity planning issues to drive prioritization. By taking saturation data as an input into the planning process, Frameworks team can identity potential projects to balance proactive and reactive work streams.
+
+The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix), a 2x2 matrix based on _urgency_ and _importance_:
+
+|---|---|
+| **Quadrant 1: Do**<br>_Urgent, Important_<br>Reactive: Non-horizontally scalable resources forecasted to saturate 100% in 90 days. | **Quadrant 2: Decide**<br>_Less Urgent, Important_<br>Proactive: Non-horizontally scalable resources forecasted to violate hard SLO in 90 days. |
+| **Quadrant 3: Delegate**<br>_Urgent, Less Important_<br>Reactive: Horizontally scalable resources forecasted to saturate 100% in 90 days. | **Quadrant 4: Deny**<br>_Less Urgent, Less Important_<br>Proactive: Horizontally scalable resources forecasted to violate hard SLO in 90 days. |
+
+ **Urgent** is based on forecast threshold (e.g. `100% saturation` vs. `hard SLO violation`) and **important** is based on scalable resources (e.g. `non_horizontal` vs. `horizontal`). The following resources are available for prioritization:
+
+ * [Quadrant board](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards/5273449)
+ * [Issues sorted by priority](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/?sort=label_priority&state=opened)
+ * [Scoped prioritized labels](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/labels?subscribed=&search=capacity-planning%3A%3Apriority)
+
 ### Relaying Capacity Incidents to Engineering
 
 The forecasts are reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
