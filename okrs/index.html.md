@@ -300,8 +300,6 @@ To add new objectives in GitLab, follow the steps below:
       1. If objective contains confidential information, but objective has already been created, the objective can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
 1. Review to ensure that the objective should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 
-`Objective Example Placeholder: 1x example full product/R&D hierarchy of labels, 1x example just division`
-
 ### Creating Key Results
 Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Sub-objectives are only used to cascade OKR down a level in [organizational structure](/team/structure/#layers) while [Key Results are the measure](#what-are-okrs) which helps us understand if we’ve met our objective and can be cascaded down a level of organization structure to become an objective one level down. Key Results must be created as part of an Objective and cannot be created independent of an Objective since Key Results [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an Objective. 
 
@@ -325,8 +323,6 @@ To add new key results in GitLab, follow the steps below:
       1. If KR contains confidential information, but KR has already been created, the KR can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
 1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. The key result now appears in the **Child objectives and key results** section of the corresponding parent objective. 
-
-`KR Example Placeholder: 1x example full product/R&D hierarchy of labels, 1x example just division`
 
 Watch this video for a demo on how to create objectives and key results: 
 
