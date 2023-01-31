@@ -54,7 +54,7 @@ Individual teams in the Platforms Section have a number of metrics, and measures
 * Streamlining and increasing involvement in processes that better our application reliability and performance (e.g. InfraDev, capacity planning). (Scalability, link to be added)
 * Understanding every component of MTTP on GitLab.com, measuring turnaround time for a self-managed releases, and similar. (Delivery, link to be added)
 
-### 4. Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check
+### 4. Increase GitLab's resilience to planned and unplanned growth, while keeping the cost of running the platform in check
 
 With the work we've been doing in previous years, we are all in alignment that as a group we are focused on scaling horizontally and vertically, whether we are talking about GitLab (the application), GitLab.com (the infrastructure), or processes that support serving our users. In FY23, we added one more dimension, the cost. In FY24 we will continue to focus on:
 
