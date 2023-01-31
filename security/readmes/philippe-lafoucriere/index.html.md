@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: "Philippe Lafoucrière README (Security Architect)"
-description: "Learn more about working with Philippe Lafoucrière"
+title: "Philippe Lafoucrière README"
+job: "Security Architect"
 ---
 
 ## On this page
