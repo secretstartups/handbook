@@ -187,7 +187,43 @@ Example:
 
 ## Tips for making calls successful
 
-Under development in MR: [www-gitlab-com!117224](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117224/diffs)
+1. **Come prepared**: do your research, have a plan for how the call should go
+1. **Be curious**: Sometimes things don't go according to plan and you'll have to adapt your plan, or end the call early and come up with a new plan.
+1. **Treat customers as a technical peer**: Be courteous and professional, but be human and try and connect with the other humans on the call.
+1. **If you don't know, say you don't know (and what you'll do to find the answer)**: customers don't expect you to know the intimate details of every configuration of GitLab live. If you don't know, that's okay - it's better to be transparent and explain what the path forward is. You can:
+   - look things up in the docs live on the call
+   - move async to [request help from development](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) or a peer
+   - try something in your own environment or (if it's safe) in the customer's environment
+1. **Adapt your tactics to the situation**: Large calls with many teams represented require a different level of formality and precision than a single engineer on a lower priority case. 
+
+### Ending calls gracefully
+
+Setting context and expectations before you start the call is the best way to a graceful exit. Review [tips to keep calls within the scheduled time](#tips-to-keep-calls-within-the-scheduled-time) for some tips on handling the overall call flow.
+
+Some calls _can_ be difficult to exit though:
+
+- The customer has an unrelated topic to discuss
+- A delay on the customer side has resulted in the call time not being long enough
+- Progress through the issue being discussed was slower than anticipated
+- No further progress can be made because of reasons outside of anyone's control
+
+Depending on the specifics of the situation you may need to [get manager help](#getting-manager-help), but often careful handling can be enough to reassure the customer of your commitment to seeing a timely resolution to their problem. It can be helpful to remember: you are responsible for coordinating the ticket and finding subject matter expertise to guide it to resolution. You are not responsible for directly reproducing and solving everything.
+
+1. **Establish context**: what impact is the issue having? Have you found any workarounds to reduce the severity of the issue? Does this issue need to be escalated or handed over with urgency? Does another ticket need to be opened?
+1. **Explain your constraints**: are you at the edge of your knowledge and need time to find a subject matter expert? Do you have another call coming up? Do you need additional time to research?
+1. **Provide a path forward**: what's the next step? What homework do you have? What homework does the customer have?
+1. **Agree on conditions to rejoin**: Will you meet once you've finished reproduction in your own environment? Will you set a time tomorrow or later in the week to continue the work?
+
+Overall: communicate that the customer can trust that you and that you are proactively managing the situation.
+
+A customer who has an understanding of what work will happen next and has secured commitments from you (that you will fulfill) for how you'll engage in the future will feel taken care of.
+
+### Getting manager help 
+
+Managers can be called in by [paging the on-call manager](/handbook/support/on-call/#paging-the-on-call-manager) or tagging them in Slack if:
+- a call can't be ended gracefully 
+- the customer is being abusive / bullying
+- there is another situation that requires urgent manager involvement
 
 ### Customer No Shows
 
