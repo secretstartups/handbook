@@ -63,6 +63,8 @@ end of each week with a list of support team contributions merged in the past we
 ### External tools
 
 - [ExplainShell](https://explainshell.com/) - Break down a terminal command
+- [Espanso](https://espanso.org/) - An extremely versatile text expander (a.k.a. text replacer or canned response tool)
+- [LanguageTool](https://languagetool.org/) - A Grammarly-like, free, **offline** grammar, spelling, and style checker
 
 ### Useful Browser Extensions
 
