@@ -32,13 +32,18 @@ You have two options when setting up jupyter via the data-science project. Choos
 
 ### Installation Instructions
 
+1. Prerequisites - before installing please make sure your system is setup with the following:
+   - [Python3](https://www.python.org/)
+   - [Pip3](https://pypi.org/project/pip/) (usually aliased as `pip`).
+   - [pipevn](https://pypi.org/project/pipenv/). If not installed, can be installed on the command line `pip install pipenv`.
+   - On certain versions of MacOS, it may be required to install Xcode Command Line Tools. From the command line, `xcode-select --install`
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
-2. Navigate to the directory: `cd data-science`
-3. Based on which version you would like to install, run one of the following:
+1. Navigate to the directory: `cd data-science`
+1. Based on which version you would like to install, run one of the following:
     - **_For full install_**: `make setup-jupyter-local`
     - **_For minimal install_**: `make setup-jupyter-local-no-mamba` 
-4. `make jupyter-local`
-5. Jupyter Lab will launch automatically in your default browser. 
+1. `make jupyter-local`
+1. Jupyter Lab will launch automatically in your default browser. 
 
 #### Linting the repository
 
@@ -116,15 +121,14 @@ By default, rancher will allocate a small percentage of your machine's memory to
 
 #### ML libraries
 
-* [Scikit-Learn](https://scikit-learn.org/stable/index.html)
-* [Py-earth](https://contrib.scikit-learn.org/py-earth/content.html) (linear and logistic regression) 
-* [Autots](https://pypi.org/project/AutoTS/) (time series)
-* [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html) (powerful black-box method) 
-* [Tensorflow & Keras](https://www.tensorflow.org/api_docs/python/tf)
-* [MLFlow](https://mlflow.org/docs/latest/index.html)
+* [Scikit-Learn](https://scikit-learn.org/stable/index.html): Suite of commonly used algorithms
+* [Autots](https://pypi.org/project/AutoTS/): Automated time series forcasting
+* [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html) + [Optuna](https://optuna.org/): Powerful black-box method with automated hyperparameter optimization
+* [Tensorflow & Keras](https://www.tensorflow.org/api_docs/python/tf): Deep learning and neural networks
+* [MLFlow](https://mlflow.org/docs/latest/index.html): Experiment tracking and model registry
 
 #### Easy concurrency
 
-* [Modin](https://modin.readthedocs.io/en/latest/#)
-* [Dask](https://dask.org/) (must be self-installed)
+* [Modin](https://modin.readthedocs.io/en/latest/#): Pandas optimization
+* [Dask](https://dask.org/) (must be self-installed): Parallel computing
 
