@@ -73,7 +73,7 @@ Normally you would approve or deny each of the licenses for your project's depen
 The security team decides that your project *generally* shouldn't use dependencies with the MIT License, but is willing to consider some exceptions. MRs that introduce dependencies with denied licenses are normally blocked from being merged, but you can make an approval rule that allows any member of the security team to override blocked MRs. GitLab calls this special approval ruleset **License-Check**.
 
 1. Select **Manage licenses**.
-1. Select the **License Approvals** button (not the link with the same name). This shows the special **License-Check** approval ruleset, which is currently empty.
+1. Select the **Update Approvals** button (not the link with the same name). This shows the special **License-Check** approval ruleset, which is currently empty.
 1. Leave **Approvals required** set to `1` so the MR can be unblocked by any single member of the security team.
 1. In **Add approvers** select any user other than yourself (you can't give the project owner permission to approve license compliance overrides). If there had been a "security team" group defined, you could have added that group instead.
 1. Click away from the **Add approvers** dropdown to close it, and confirm that an approver has been configured.
