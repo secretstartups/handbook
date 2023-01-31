@@ -394,11 +394,10 @@ Use the issue with the better title, description, or more comments and positive 
 If you find duplicates, you can post this message:
 
 ```md
-Hey @author. Thanks for creating this issue, but it looks like a duplicate of #issue. I'm closing this issue in favour of #issue.
+Hey {{author}}! Thanks for submitting this issue. It looks like a duplicate of {{issue}}. I'm marking your issue as a duplicate and close it.
+Please add your thoughts and feedback on {{issue}}. Don't forget to upvote feature proposals.
 
-Please add your thoughts and feedback on #issue. Don't forget to upvote feature proposals.
-
-/duplicate #issue
+/duplicate {{issue}}
 ```
 
 Don't make any forward looking statements around milestone targets that the duplicate issue may be assigned.
