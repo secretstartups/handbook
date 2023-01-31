@@ -28,7 +28,7 @@ The [Contributor Success team](https://about.gitlab.com/handbook/engineering/qua
   - Make the issue confidential.
   - Post a link to the issue in the `#abuse` slack channel.
 - Issue is request for help:
-  - Respond with the `/issuesupport` TextBlaze template and close it.
+  - Post the [support message](#support-issue-message) and close the issue.
   - Alternatively, ask for more information and apply the ~"awaiting feedback" label.
 - Issue is [duplicate](#duplicates):
   - Post the [duplicate message](#duplicate-issue-message).
@@ -388,6 +388,27 @@ To find duplicates:
 - Check both open and closed issues.
 
 Use the issue with the better title, description, or more comments and positive reactions as the canonical version. If you can't decide, keep the earlier issue.
+
+#### Support issue message
+
+If the issue is really a support request for help, you can post this message:
+
+```
+Hey {{author}} thanks for reaching out, but it looks like this might be a request for support. The issue tracker is for new bug reports and feature proposals. For support requests we have several resources that you can use to find help and support from the Community, including:
+
+* [Technical Support for Paid Tiers](https://about.gitlab.com/support/)
+
+* [Community Forum](https://forum.gitlab.com/)
+
+* [Reference Documents and Videos](https://about.gitlab.com/get-help/#references)
+
+Please refer to our [Support page](https://about.gitlab.com/support/) for more information.
+
+I'm closing this issue but if you believe this was closed in error, please feel free to reopen the issue.
+
+/label ~"support request"
+/close
+```
 
 #### Duplicate issue message
 
