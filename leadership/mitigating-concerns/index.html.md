@@ -29,14 +29,12 @@ Our customers entrust their application code and data to GitLab.
 A security breach that erodes that trust is a significant concern.
 To ensure we safeguard our customers data, we:
 
-1. Maintain a strong [Security Operations](/handbook/security/#security-operations) team
-1. Hit our Application Security [remediation SLAs](/handbook/security/#severity-and-priority-labels-on-security-issues)
-1. Ensure our developers complete [secure code training](/handbook/security/#secure-coding-training)
+1. Maintain a strong [Security Operations](/handbook/security/security-operations/) team
+1. Hit our Application Security [remediation SLAs](/handbook/security/threat-management/vulnerability-management/#remediation-slas)
+1. Ensure our developers complete [secure code training](/handbook/security/secure-coding-training.html)
 1. Regularly perform [internal application security reviews](/handbook/security/#internal-application-security-reviews)
 1. [Utilize bug bounty programs](/handbook/security/#vulnerability-reports-and-hackerone) like HackerOne
-1. Conduct [threat intelligence](/handbook/security/#threat-intelligence)
-1. Have an [internal Red Team](/handbook/security/#red-team)
-1. Enable our customers to secure their applications via our [Govern Stage](/handbook/product/categories/#govern-stage) categories and features
+1. Have an [internal Red Team](/handbook/security/threat-management/red-team/)
 1. Prioritize meeting the [security](https://about.gitlab.com/security/) requirements of team members, users, customers, and other community members
 
 ## 2. GitLab.com Reliability
@@ -54,11 +52,10 @@ We address this concern in a number of ways:
 * we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
 * we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.
 * the [Quality Engineering Department](/handbook/engineering/quality) makes sure everyone is aware of what the quality of the product is, empirically.
-* the [Application Security team](/handbook/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
-* the [Security Operations team](/handbook/security/#security-operations), who are responsible for managing security incidents across GitLab and GitLab.com.
-* the [Abuse Operations team](/handbook/security/#abuse-operations), who are responsible for investigating and mitigating the malicious use of our systems.
-* the [Red Team](/handbook/security/#red-team), who emulate adversary activity to improve the security of GitLab.com.
-* the [Threat Intelligence team](/handbook/security/#threat-intelligence) who research and provide information about specific threats to help us protect GitLab.com from attacks.
+* the [Application Security team](/handbook/security/security-engineering/application-security/) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
+* the [Security Incident Response team](/handbook/security/security-operations/sirt/), who are responsible for managing security incidents across GitLab and GitLab.com.
+* the [Trust and Safety team](/handbook/security/security-operations/trustandsafety/), who are responsible for investigating and mitigating the malicious use of our systems.
+* the [Red Team](/handbook/security/threat-management/red-team/), who emulate adversary activity to improve the security of GitLab.com.
 
 ## 3. Competition
 {:#competition}
