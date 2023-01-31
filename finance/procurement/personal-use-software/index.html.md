@@ -33,6 +33,7 @@ title: Individual Use Software
 | Adobe Acrobat Pro | Orange | 06/28/2023 | N/A |
 |Alfred Powerpack|Green|N/A| Base application only, does not apply to Alfred Workflows or Alfred Remote |
 |Brain.fm|Green|N/A| Base application only |
+| Burp Suite Professional | Green | N/A | N/A |
 | Calendly | Orange | 11/24/2022 | N/A |
 | Clockwise | Orange | 8/16/2023 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
@@ -40,4 +41,5 @@ title: Individual Use Software
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
 | Krisp.ai | Green | N/A | N/A |
 |Microsoft Office- Home & Student|Green|N/A| Approval applies to the offline version only. Microsoft Office 365 is not approved.|
+| Parallels Desktop Pro | Green | N/A | Approval applies to Parallels Desktop only, not to the optional "Parallels Toolbox" utilities that can be installed separately. |
 
