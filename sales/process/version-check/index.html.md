@@ -106,7 +106,38 @@ hidden and set to reappear in 3 days.
 
 ## How does the GitLab Version Check work?
 
-[Documentation WIP](https://gitlab.com/gitlab-org/gitlab/-/issues/387879)
+{::options parse_block_html="true" /}
+
+<div class="panel panel-info">
+**Important**
+{: .panel-heading}
+<div class="panel-body">
+In the past we used to provide the version check to the UI through an API call that you could see in your Network tab.  **This has changed** and is now provided to the UI [through Rails](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103248).
+</div>
+</div>
+
+The current architecture is a bit complicated due to the nature of the [`ReactiveCaching`](https://docs.gitlab.com/ee/development/reactive_caching.html) mechanism we are using. This cache is powered by [Sidekiq](https://github.com/mperham/sidekiq) and is executed through Background Jobs (`/admin/background_jobs`) with the goal of housing and rehydrating your instance's version status. We have an aggressive caching mechanism due to the nature of this data being fetched from an external endpoint and being needed throughout the GitLab application.
+
+We have an exploration started into transitioning to [Cron](https://en.wikipedia.org/wiki/Cron) with a more traditional [caching approach](https://gitlab.com/gitlab-org/gitlab/-/issues/385017).
+
+Below is a visual representation of how Version Check is managed behind the scenes:
+
+```mermaid
+graph TD
+    Z[Start] --> A
+    A[Version Request] --> B(Is Cached?)
+    B -->|Yes| C(Get Cache)
+    B -->|No| F[Schedule Immediate Sidekiq Job]
+    C --> |Data| A
+    C --> D(Reset 12hr Job Timer)
+    D --> E[Schedule 12hr Sidekiq Job]
+    E --> G
+    F --> G(Fetch Version from External API)
+    G --> H(Success?)
+    H --> |No| F
+    H --> |Yes| I(Write to Cache)
+    I --> D
+```
 
 ## Which information does the browser request contain?
 
@@ -151,6 +182,27 @@ this instance is owned by GitLab.
 Because an HTTP referrer can be easily spoofed and because a local hostname can
 be named anything, it is impossible to be completely sure if any derived
 information is actually valid.
+
+## Troubleshooting
+
+### Use the internal API to check the cache
+
+By hitting the  `/admin/version_check.json` endpoint you can see if there is cached data and what is being provided to the UI through Rails.
+    
+If the response is `null` there are few steps you can take:
+
+- Ensure your network is whitelisting/allowing an external API request to reach out to `version.gitlab.com`.
+- Ensure there is a background job scheduled in Sidekiq and it [isn't stuck](#ensure-sidekiq-jobs-are-in-healthy-state) behind something.
+
+### Ensure Sidekiq jobs are in healthy state
+
+By visiting `/admin/background_jobs`, you can look into what jobs are scheduled/running/pending on your instance.
+The job you will be looking for is called `external_service_reactive_caching`.
+
+If the [internal API](#use-the-internal-api-to-check-the-cache) is returning `null` or the upgrade badge is missing:
+ 
+- Ensure there is a job scheduled ASAP and determine how to unblock it from executing.
+- If the job is scheduled far out, force it to execute because something may have mis-queued in Sidekiq.
 
 ## How do I disable GitLab Version Check
 
