@@ -145,14 +145,16 @@ Every quarter, an issue will be created and assigned to the PDMs to categorize t
 
 Use the following sample messaging text when sharing out the stage-specific insights:
 
-> Hello :wave: - We just completed analyzing the `Q# FY##` System Usability Scale (SUS) data! I wanted to share the verbatim that's relevant to us in the `fill in stage name here` stage. Here's a sampling:
+```
+Hello :wave: - We just completed analyzing the `Q# FY##` System Usability Scale (SUS) data! I wanted to share the verbatim that's relevant to us in the `fill in stage name here` stage. Here's a sampling:
 
-> * `Stage UXR to paste example in italics`
-> * `Stage UXR to paste example in italics`
+* `Stage UXR to paste example in italics`
+* `Stage UXR to paste example in italics`
 
-> You can view the remaining `#` quotes here --> `link to the Sheet, on the specific tab`
+You can view the remaining `#` quotes here --> `link to the Sheet, on the specific tab`
 
-> Let me know if you have any questions or if you're interested in pursuing some of these!
+Let me know if you have any questions or if you're interested in pursuing some of these!
+```
 
 ## SUS Responder Outreach
 We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html).
