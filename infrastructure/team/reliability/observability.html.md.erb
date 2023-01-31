@@ -1,0 +1,97 @@
+## Mission
+
+The Reliability::Observability team at GitLab mission is to Build, Run and Own the entire lifecycle of the suite of services that enable observability of 
+the GitLab SaaS environments.  These services allow Infrastructure, Development & Product teams to observe running products and 
+contribute to our overall reliability and scalability goals.
+
+
+## Vision
+
+The team is focused on owning the reliability/scalability/security of the existing observability services.  This means introducing new observability capabilities 
+for existing services that improve the overall observability/reliability/scalability of the GitLab SaaS environments and reducing the effort required 
+to provide these services.
+
+The team should be seeking to build their services on top of Reliability::Foundations services and cloud vendor managed products to reduce complexity, 
+improve efficiency and deliver new capabilities quicker.
+
+Observability services includes providing: 
+* [Log shipping, storage and analysis platforms](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) 
+* Metric shipping, storage and analysis platforms (Promethues, Thanos & Grafana)
+* On-call management (PagerDuty)
+* Best practises for observing services at GitLab
+* Tracing?
+* Data feeds? (Logs to SIEM?, others?)
+* Others?
+
+The team does not explicitly have any product responsibilities in the Monitor stage group but we should contribute the lessons we learn running at scale 
+production systems back to the product team and we should advocate for GitLab to contain features that would allow us to DogFood.
+
+The team does not explicitly own the Observability for [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/).  The current team 
+focus as of early 2023 is for GitLab.com, but in the long run, we would like to build a platform usable for all SaaS products.
+
+
+## Services we Own
+
+* [Grafana](https://gitlab.com/gitlab-com/runbooks/-/blob/master/dashboards/README.md)
+* [Prometheus](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#instrumentation)
+* [Thanos](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#scaling-prometheus-thanos) 
+* [Logging](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) 
+* Big Query - When [used for logs in GCS](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#searching-in-object-storage-gcs)
+* [PagerDuty](https://gitlab.pagerduty.com) 
+* [Sentry](https://sentry.gitlab.net)
+* Pingdom
+* Dead Mans Snitch
+
+
+## Overlap
+1.  With Scalability on
+   a. [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) for use of Thanos 
+   b. [Frameworks team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/frameworks.html) in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2098)
+2.  With the Reliability:Foundations team to use the underlying platforms (GKE) they provide
+3.  With [Observability Group](/handbook/product/categories/#observability-group) for dogfooding overlaps and feedback for Infra team needs
+4.  With data team on Sisense dashboards.
+
+
+
+## Performance Indicators
+* Reliability SLx of Grafana and underlying dashboards.
+* Reliability SLx of Kibana - including ingestion delays.
+
+
+## Team Members 
+
+TBD
+
+
+## Key Technical Skills
+* Kibana/Elastic cluster management.  Fluentd/log shipping pipeline.
+* GKE, for example, we will likely be containerizing/K8s for things O11y runs.  Also 
+* knowledge of how log shipping with sidecars works.
+* Grafana, Prometheus, Thanos management.
+
+
+## Common Links
+
+* [Current Working board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5041767?label_name[]=Squad%3A%3AObservability)
+* [Current Triage board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/1676912?label_name[]=Squad%3A%3AObservability)
+
+Runbooks:
+* [Log Shipping](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging)
+* [Dashboards](https://gitlab.com/gitlab-com/runbooks/-/tree/master/dashboards)
+* [Sentry](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/sentry)
+
+* Examples of work:
+   * [Prometheus Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3APrometheus)
+   * [Thanos Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Service%3A%3AThanos&first_page_size=100)
+   * [Elastic Search Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3AElasticsearch)
+
+### Useful links / videos for learning;
+
+How our monitoring stack works:
+* https://www.youtube.com/watch?v=CbX1nZL7biQ
+* https://www.youtube.com/watch?v=6sfr2IGJQXk                 
+* https://www.youtube.com/watch?v=YHV0qkKBz7o
+* https://vimeo.com/341141334
+* https://www.youtube.com/watch?v=2zL9DymXi1E  
+* https://www.youtube.com/watch?v=swnj6KTRg08
+
