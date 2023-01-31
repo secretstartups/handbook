@@ -20,13 +20,15 @@ This handbook page is intended to provide a high-level overview of the most comm
 
 * [Documentation on data pipelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
 
+* [Table of data sources and refresh schedules](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources) to understand standard load times for each data source.
+
 ## Data Model Categories
 
 These categories are grouped by data source and subject area.
 
 ### Service Ping
 
-Service Ping is the GitLab process that is used to collect data and generate a JSON payload that is then sent weekly to GitLab. It provides aggregated data to our product, support, and sales team to understand how GitLab is used. 
+[Service Ping](https://docs.gitlab.com/ee/development/service_ping/) is GitLab's mechanism to collect data by generating a JSON payload of usage data every week to be sent to GitLab. It provides aggregated data to our Product, Customer Success, Support, and Sales teams to understand how GitLab is used. Service Ping is our only data source for understanding Self-Managed product behavior. Service Ping methodology allows us to protect our Self-Managed users' privacy by aggregating metrics at the installation level.
 
 #### FAQs
 
@@ -63,9 +65,8 @@ Service Ping is the GitLab process that is used to collect data and generate a J
 | --- | --- | --- | --- | --- |
 | common_mart | [mart_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ping_instance) | `dim_ping_instance_id` | Ping-level data with information with additional attributes for installation, subscription, account, and product information.  | No metrics are included in this data. |
 | common_mart | [mart_ping_instance_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ping_instance_metric)| `dim_ping_instance_id`, `metrics_path`  | Ping- and metric-level data with additional attributes for installation, subscription, account, and product information.  | This is a UNION of other tables that are filtered by a certain timeframe: `mart_ping_instance_metric_28_day` `mart_ping_instance_metric_7_day` `mart_ping_instance_metric_all_time` |
+| common | [fct_ping_instance_metric_none_null](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_none_null) | `dim_ping_instance_id`, `metrics_path` | Ping- and metric-level data about metrics with `none` and `null` timeframes. | |
 | common_mart_product | [rpt_ping_latest_subscriptions_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly) | `ping_created_date_month`, `latest_subscription_id`, `dim_installation_id` | Active Self-Managed subscriptions by month, including seat count. If a subscription sends Service Ping, then installation-level data is provided.| This includes seat count and can be used to calculate Service Ping opt-in rate |
-| workspace_product | [wk_fct_ping_instance_metric_none](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_fct_ping_instance_metric_none) | `dim_ping_instance_id`, `metrics_path` | Ping- and metric-level data about metrics with a `none` timeframe | |
-| workspace_product | [wk_fct_ping_instance_metric_null](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_fct_ping_instance_metric_null) | `dim_ping_instance_id`, `metrics_path` | Ping- and metric-level data about metrics that do not appear in `dim_ping_metric` (and therefore have a `NULL` timeframe)  | |
 | common_mart_product | [rpt_ping_metric_totals_w_estimates_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly) | `ping_created_date_month`, `metrics_path`, `ping_edition`, `estimation_grain`, `ping_edition_product_tier`, `ping_delivery_type` | This model is used for xMAU/PI reporting and is the source for Service Ping data in the [td_xmau] snippet. | |
 
 
@@ -76,7 +77,9 @@ Service Ping is the GitLab process that is used to collect data and generate a J
 
 <details markdown="1"><summary>Click to expand</summary>
 
-* Operational vs. optional data
+* [Categories of data collected: Subscription, Operational, Optional](/handbook/legal/privacy/services-usage-data/#categories-of-data-collected)
+  * [Operational metrics](https://metrics.gitlab.com/?q=operational)  
+  * [Optional metrics](https://metrics.gitlab.com/?q=optional)
 
 * Installations are randomly assigned a day of week to generate service pings, but that assignment is persistent over time. For example, if an installation is assigned Tuesdays to generate pings, it will always generate pings on Tuesdays. We generate and load service ping on different days to distribute the payload load evenly over the entire week. 
 
@@ -128,7 +131,7 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 | --- | --- | --- | --- | --- |
 | common_mart | [mart_event_user_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_user_daily) | `event_date`, `event_name`, `dim_user_id`, `dim_ultimate_parent_namespace_id` | Daily user-, namespace-, and event-level data, including attributes about the namespace and plan |  |
 | common_mart | [mart_event_namespace_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_namespace_daily) | `event_date`, `event_name`, `dim_ultimate_parent_namespace_id` | Daily namespace- and event-level data, including attributes about the namespace and plan |  |
-| common_mart_product | [rpt_event_xmau_metric_monthly][https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly] | `event_calendar_month`, `user_group`, `section_name`, `stage_name`, `group_name`  | Monthly user group- and xMAU metric-level data | This is the model used in reporting paid SaaS xMAU and is used in the `[td_xmau]` snippet |
+| common_mart_product | [rpt_event_xmau_metric_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly) | `event_calendar_month`, `user_group`, `section_name`, `stage_name`, `group_name`  | Monthly user group- and xMAU metric-level data | This is the model used in reporting paid SaaS xMAU and is used in the `[td_xmau]` snippet |
 | common_mart_product | [rpt_event_plan_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_plan_monthly) | `event_calendar_month`, `plan_id_at_event_month`, `event_name` | Monthly plan- and event-level data |  |
 
 </details>
@@ -197,25 +200,31 @@ New and improved Snowplow models are in development.
 
 </details>
 
-### Namespaces, users, members & memberships
+### Namespaces, users, & memberships
 
-Description of this category
+This category of data models includes GitLab.com (SaaS) [namespaces](https://docs.gitlab.com/ee/user/namespace/) (which include both projects and groups), their firmographic attributes, and individual members.
 
 #### FAQs
 
-> 
-* 
+> What is a namespace?
+* Starting with the basics! GitLab has two categories of namespaces; groups and projects. In general, a namespace provides one place to organize your related projects. Read more [here](https://docs.gitlab.com/ee/user/namespace/). Namespaces exist within GitLab SaaS and Self-Managed products, but to product the privacy of our Self-Managed users, we only collect identifiable namespace data for SaaS.
 
-> 
-* 
+> What types of namespaces do we normally analyze?
+* We normally perform analyses at the Ultimate parent namespace level. 
 
-> 
-*
+> Do we have access to membership history data?
+* No. Membership history at GitLab is not recorded in any data models.
+
 
 #### Documentation
 
-
 <details markdown="1"><summary>Click to expand</summary>
+
+* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) contains comprehensive documentation on namespace analytics and example SQL code. 
+
+* [This knowledge base page](https://docs.gitlab.com/ee/topics/set_up_organization.html) covers an overview of namespaces, members and groups.
+
+* [Member-specific knowledge base page](https://docs.gitlab.com/ee/user/project/members/index.html) explaining direct and indirect memberships as well as shared group memberships. 
 
 
 </details>
@@ -228,11 +237,12 @@ Description of this category
 
 | Schema | Table Name | Data Grain | Description | Notes |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| common | [dim_namespace](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace) | `dim_namespace_id` | Dimension table that contains all Gitlab.com namespaces and namespace attributes including plan. |  |
+| common | [dim_namespace_hist](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace_hist) | `namespace_snapshot_id`, `dim_namespace_id`, `valid_from`, `valid_to` | Historical snapshot of `common.dim_namespace` model. |  |
+| common | [dim_user](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_user) | `dim_user_id` | Dimension table that contains all Gitlab.com Users. |  |
+| common | [dim_user_hist](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_user_hist) | `dim_user_snapshot_hist_id`, `dim_user_id`, `valid_from`, `valid_to` | Historical snapshot of `common.dim_user` model. |  |
+| legacy | [gitlab_dotcom_memberships](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships) | `membership_source_id`, `user_id` | This model unions together all of the other models that represent a user having (full or partial) access to a namespace, AKA "membership". | Includes both direct and indirect membership types. |
+| legacy | [gitlab_dotcom_members](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members) | `member_id`, `user_id` | Base model for Gitlab.com members. | Only includes direct membership links. Used for invite related fields. |
 
 </details>
 
@@ -240,30 +250,32 @@ Description of this category
 
 
 <details markdown="1"><summary>Click to expand</summary>
+
+* `member_count` fields found in any `common` models are not accurate and should not be used. Use `legacy.gitlab_dotcom_memberships` for any analyses intended to measure # members per namespace. [Here is the Issue](https://gitlab.com/gitlab-data/analytics/-/issues/12566) representing work to correct these accuracy problems. 
 
 
 </details>
 
 ### Trials, Subscriptions & Charges
 
-Description of this category
+Models used to report on trials, subscriptions and charges.
 
 #### FAQs
 
-> 
-* 
+> How mature is the [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) approach to namespace and installation trial and paid conversion analysis?
+* This category of data models is the next priority for refactoring and aligning with the [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf).
 
-> 
-* 
-
-> 
-*
 
 #### Documentation
 
 
 <details markdown="1"><summary>Click to expand</summary>
 
+* [How GitLab SaaS subscriptions work](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/) is a handbook page that covers SaaS subscriptions in depth.
+
+* [GitLab Tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) covers all SM and SaaS Tiers in the GitLab handbook.
+
+* [This pricing page](https://about.gitlab.com/pricing/) is our customer facing page covering all GitLab tiers.
 
 </details>
 
@@ -275,11 +287,9 @@ Description of this category
 
 | Schema | Table Name | Data Grain | Description | Notes |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| legacy | [customers_db_charges_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_charges_xf) | `rate_plan_charge_id` | This model first unions the 2 ephemeral models customers_db_charges_with_valid_charges and customers_db_charges_with_incomplete_charges which provides a clean list of all orders that have been created in the subscription portal and that can be linked to Zuora subscriptions and charges. |  Product Data Insights will use this model to calculate paid conversion analyses until customers_db_charges_xf is refactored using the TD framework. |
+| legacy | [customers_db_trial_histories](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_trial_histories) | `gl_namespace_id`, `start_date`, `expired_on` | Historical table of namespaces with trials. |  |
+
 
 </details>
 
@@ -288,6 +298,9 @@ Description of this category
 
 <details markdown="1"><summary>Click to expand</summary>
 
+* [SSOT Historical Namespace Subscriptions](https://gitlab.com/gitlab-data/analytics/-/issues/14401) is an Issue for Data to clarify and refactor models used for subscription and charge analysis.
+
+* Findings from Issue intended to [record differences between using legacy.customers_db_charges_xf vs common.dim_order_hist for namespace paid conv. analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/820#note_1227834945).
 
 </details>
 
