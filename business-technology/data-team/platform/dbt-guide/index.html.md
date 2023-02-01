@@ -1300,6 +1300,11 @@ Views and snippets included in the output will be surrounded by square brackets 
     }
 ```
 
+### Dropping DBT Models
+
+Models are dropped by removing files in your local IDE session and committing these changes to be run in the CI Pipes on the MR.  Snowflake tables in Production have to be removed separately by a DE.  This should be specified on the MR and communicated directly to the DE. Some tables may need to be retained as history, even though the Dbt Models are removed.   
+Here is an [Example MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/6990) that shows Models being deprecated with some of the tables being retained in the database. 
+
 ## Model Performance
 
 Performance should be balanced between model execution times, which directly affect Snowflake Credit spend, and developer time, which impacts how long a developer is waiting during development, troubleshooting, and bug fixes. Generally, model execution should strike a balance between running as fast as possible and with as little cost as possible. This can be a difficult balance as some of the methods to improve run time also increase the cost, however there are methods and techniques that can be used to achieve both improved run time and decreased cost. As the number and complexity of models grow, general model run time performance criteria is needed. The overall performance goals for the data warehouse are that:  
