@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/engineering-internship/"
 | Property        | Value                                                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------------------------|
 | Date Created    | March, 2022                                                                                                     |
-| Target End Date | January 31, 2023                                                                                               |
+| Target End Date | February 28, 2023                                                                                               |
 | Slack           | [#wg_engineering_internship_program](https://gitlab.slack.com/archives/C03GW8WMVA9)                             |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1hcuE6I6rvdISFk_zzYYdxFdJM4ONhRrGY499ydDUiWc/edit#)   |
 | Docs            | [Handbook Page](https://about.gitlab.com/handbook/engineering/internships/)                                     |
