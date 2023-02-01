@@ -333,7 +333,7 @@ Watch this video for a demo on how to create objectives and key results:
 ### Cascading OKRs
 
 Cascading is the process by which top-level CEO OKRs cascade down from company-level to division, department, teams, and sometimes individual level. There are two methods to cascade:
-1. [Explicit Alignment](/#Explicit-Alignment) - adopt a higher-level Key Result as an Objective.
+1. [Explicit Alignment](#explicit-alignment) - adopt a higher-level Key Result as an Objective.
 2. Directional Alignment - Using objective from higher level of the organization in order to guide creation of your team's objective(s), then align your team's objective to higher-level objective.
 
 Through these two cascade methods, a lower level team can either inherit or create an Objective. However, in both cases, the lower level team creates net new Key Results for the new Objective at team's level of [organizational structure](/team/structure/#layers).
