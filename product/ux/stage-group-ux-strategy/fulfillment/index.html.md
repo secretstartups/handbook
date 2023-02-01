@@ -27,6 +27,7 @@ One of the ways we track our progress is by measuring the UX of our different wo
 [View Fulfillment Cross-Functional Dashboard](https://about.gitlab.com/handbook/engineering/development/fulfillment/#cross-functional-backlog)
 
 ### [Fulfillment Platform](https://about.gitlab.com/direction/fulfillment/platform/)
+
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
 |[SSO: Registering for CDot](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2189) |  | Backlog | |
