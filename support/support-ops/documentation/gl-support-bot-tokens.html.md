@@ -30,6 +30,7 @@ For many of our automations, we use tokens owned by the
 | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests) | Support Ops - Internal Requests |
 | [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) | Support Ops - Mechanizer |
 | [Mechanizer Reports](https://gitlab.com/gitlab-com/support/toolbox/mechanizer-reports) | Support Ops - Mechanizer Reports |
+| [SGG Slackbot](https://ops.gitlab.net/gitlab-com/support/other-software/sgg-slackbot) | SGG Slackbot |
 | [Support Pairing](https://gitlab.com/gitlab-com/support/support-pairing) | Support Ops - Support Pairing |
 | [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) | Support Ops - support-team-meta |
 | [Ticket Round Robin (Global)](https://ops.gitlab.net/gitlab-com/support/zendesk-global/ticket-round-robin) | Support Ops - Ticket round robin (Global) |
