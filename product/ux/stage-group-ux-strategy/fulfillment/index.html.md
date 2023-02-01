@@ -63,18 +63,20 @@ One of the ways we track our progress is by measuring the UX of our different wo
 [View Open SUS:Impacting Issues for Purchase](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Apurchase&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
 ### [Utilization](https://about.gitlab.com/direction/fulfillment/utilization/)
+
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
 | [Determining where my storage is high in order to reduce it](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2179) | D | Jan 2023 | |
 | [Removing a user from my SaaS subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177)| D | Sep 2022 |- Improve clarity around who uses a seat <br/>- Improve workflow clarity (buttons, alerts) |
-|Removing a user from my self-managed subscription |  | To be scheduled | | 
+| Removing a user from my self-managed subscription |  | To be scheduled | | 
 | Exclude a user from billing in my self-managed subscription |  |To be scheduled| | 
-| Determine how to make a single user non-billable (self-managed) |  |To be scheduled | | 
-| Set up auto-provisioning such that users are non-billable (self-managed) |  | To be scheduled| | 
+| Determine how to make a single user non-billable (self-managed) |  | To be scheduled | | 
+| Set up auto-provisioning such that users are non-billable (self-managed) |  | To be scheduled | | 
 
 [View Open SUS:Impacting Issues for Utilization](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
 ### [Provision](https://about.gitlab.com/direction/fulfillment/provision/)
+
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
 | Activate a self-managed license |  | To be scheduled | |
