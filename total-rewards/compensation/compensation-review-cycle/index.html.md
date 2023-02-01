@@ -96,11 +96,9 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. January 30th: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
-1. February 1st: A "Cash Compensation Statement" that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24 will be generated in Workday. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24.
-
-Cash Compensation Conversation window: February 1st - February 9th
-    * February 7th: Last day for Managers to communicate compensation increases to contractors by February 7th in order for contractors to submit invoice.
-    * February 9th: Last day for Managers communicate compensation increases to all remaining team members.
+1. February 1st: Communication Window Opens: A "Cash Compensation Statement" that outlines compensation changes related to On Target Earnings (Base + Variable  pay) for FY24 will be generated in Workday. In March, a “Total Compensation Statement” with cash compensation and equity value information, including new refresh and promotional grants, will be generated for managers to use in communicating compensation changes in FY24.
+    * February 1- 7th: Managers communicate compensation increases to contractors by February 7th in order for contractors to submit invoice.
+    * February 1- 9th: Managers communicate compensation increases to all remaining team members.
 1. February 1st - February 4th: Total Rewards will audit all of the updates to Workday and provide Payroll with a report of all increases effective February 1
 1. February 16th: Compensation and job title visibility will be returned to team members in Workday.
 
