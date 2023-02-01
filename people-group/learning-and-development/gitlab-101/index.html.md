@@ -11,13 +11,13 @@ title: GitLab 101 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab. 
+Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab.
 
 #### GitLab Team Members
 
 Please visit Level Up and create an account to complete the [GitLab 101 Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101) and earn the GitLab 101 Badge!
 
-Team members can also complete the [GitLab Team Members Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-team-members-certification). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on Level Up. 
+Team members can also complete the [GitLab Team Members Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-team-members-certification). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on Level Up.
 
 #### Community Members
 
@@ -57,7 +57,7 @@ Summarized: GitLab is a complete DevOps platform, delivered as a single applicat
 This will make more sense once you understand all of the terminology.
 
 ### Terminology
-1. Board 
+1. Board
    1. **Definition:** make it possible to visualize and manage lists of issues which can be defined by one of three ways: Labels, Team members, and Milestones.
 1. Branch
    1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
@@ -198,7 +198,7 @@ Knowing how to search for a GitLab issue can be very helpful, especially if you 
 1. Type in text you want to search for and hit enter
 1. On the next screen, select the group the issue is in that you are searching for. In this instance the group is `people-group`
 1. Then, select the project the issue is in that you are searching for. In this instance the project is `gitlab-tool-training`
-1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project. 
+1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project.
 
 This [docs resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
 
@@ -262,7 +262,7 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
       1. If you assign your MR to someone who isn't a Maintainer, there will be a yellow triangle with an exclamation point by their picture.
    1. Soft Wrap - when you are editing your MR, you can either select soft wrap or no wrap. If you select "soft wrap" you will be able to see all of the text in one screen. If you select "no wrap" (which is the default) you will have to scroll to the right if the text on the line is wider than the page.
    1. Squash Commits - when obtaining a merge request, there is an option to enable or disable [“Squash commits when merge request is accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html). If enabled, it combines all your merge request’s commits into one and retain a clean history.
-   1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#deleting-the-source-branch) option.
+   1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/#delete-the-source-branch-on-merge-by-default) option.
 
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
