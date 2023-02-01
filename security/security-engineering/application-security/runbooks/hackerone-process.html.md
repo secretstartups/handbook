@@ -128,7 +128,8 @@ Exposure of information and secrets is handled a little differently to vulnerabi
 - Use the `/security` slack command to initiate an incident
   + Learn more about engaging the SEOC: https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call
   + In the description section, include a link to the HackerOne report and any other useful information
-  + In the remediation section, document what time and from what IP you revoked the token
+    + Share the reporter's IP address(es) and time(s) the reporter accessed the sensitive data to assist with incident response.
+  + In the remediation section, document what time and from what IP used to revoke the token or validate the leak.
   + If in doubt, choose "Urgent".
   + If you've been able to mitigate the incident, choosing "Not Urgent" is fine. The SEOC typically responds quickly anyway.
 - Add information to the SIRT issue.
