@@ -56,7 +56,7 @@ Non-exhaustive list of behaviors to incentivize:
 
 #### Automatic rewards
 
-While nominations are set manually GitLab team members, some actions can be automatically rewarded with points.  
+While nominations are set manually GitLab team members, some actions can be automatically rewarded with points.
 This is the case for security merge requests, which are merge requests labeled with `~security` and a `~severity::x`, and located under [`gitlab-org/security`](https://gitlab.com/gitlab-org/security).
 
 | Action | Who | Points |
@@ -72,7 +72,7 @@ This is the case for security merge requests, which are merge requests labeled w
 
 These actions can still be nominated (by adding the `~security-awards::nomination` label to the merge request) if someone wants to highlight extra efforts or great achievement: the two are not mutually exclusive.
 
-[Reviewers](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#reviewer) of these Merge Requests are also rewarded automatically, 
+[Reviewers](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/) of these Merge Requests are also rewarded automatically,
 as soon as they're still assigned as reviewers at the time of the reward, so after the merge. People who unassign themselves after their review are not recognized at the moment
 (please discuss in this [issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-awards/-/issues/18)).
 
@@ -118,13 +118,13 @@ Rest of the company: Marketing, Product, Sales, Legal, PeopleOps, ...
 
 ### Community contributions
 
-Only security fixes and contributions from the community are considered.  
-We already have a [Bug Bounty Program](https://hackerone.com/gitlab) for external contributors to report security issues and bugs. 
+Only security fixes and contributions from the community are considered.
+We already have a [Bug Bounty Program](https://hackerone.com/gitlab) for external contributors to report security issues and bugs.
 
 ## Leaderboard
 
 Every action approved entitles the nominee for the quarterly and yearly contests.
-The ranking of participants with their score is displayed on the leaderboards listed below.  
+The ranking of participants with their score is displayed on the leaderboards listed below.
 
 For confidentiality reasons, the details of rewarded actions are not publicly available, but all the data used to build these leaderboards is compiled in these [YAML files](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-awards/-/tree/main/data).
 
@@ -166,8 +166,8 @@ The following [scoped](https://docs.gitlab.com/ee/user/project/labels.html#scope
 - `~security-awards::nomination`
 - `~security-awards::awarded`
 
-On Mondays, a new issue is created in the [Security Meta project](https://gitlab.com/gitlab-com/gl-security/security-department-meta/) with the title 
-`Security Awards Program Council Discussion week of [date]` and the 
+On Mondays, a new issue is created in the [Security Meta project](https://gitlab.com/gitlab-com/gl-security/security-department-meta/) with the title
+`Security Awards Program Council Discussion week of [date]` and the
 [`~Security Awards Council`](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues?label_name[]=Security%20Awards%20Council) label.
 
 A reminder is sent on Slack, in the `#sec-appsec` channel to remind everyone to vote for their favorite nominations.
