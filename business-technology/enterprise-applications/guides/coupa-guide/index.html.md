@@ -16,11 +16,14 @@ description: "Coupa End Users Guide"
 
 ## Business Need
 
-The business had identified the need to optimize the Procure to Pay process with a tool that would allow the creation of Purchase Requests, Purchase Orders, 3-way invoice matching, vendor payments, and accounting protocols for SOX Compliance.
+The Business had identified the need to optimize the Procure to Pay process with tools that would allow the creation of Purchase Requests, Purchase Orders, 3-way invoice matching, vendor payments, and accounting protocols for SOX Compliance.
 
 ## Business Solution
 
-The business decided to move forward with the implementation of Coupa for the Procurement and Payment Program. Coupa provides these functionalities within one platform and is integrated to decrease procurement approval turn-times and reduce manual workflow delays.
+The Business decided to move forward with the implementation of `Coupa` for the procurement to payment platform and `Zip` for the purchase request platform. Together they provide the needed functionalities and is integrated to decrease procurement approval turn-times and reduce manual workflow delays.
+
+To learn more about `Zip`, check the [`Zip Handbook page`](/handbook/business-technology/enterprise-applications/guides/zip-guide).
+{: .alert .alert-info}
 
 ## What is Coupa
 
@@ -37,23 +40,19 @@ Please note that every month all Coupa access will be reviewed and users who hav
 If you need to request access again, please reopen your initial Access Request issue and tag the Finance Systems Admins team using `@gitlab-com/business-technology/enterprise-apps/financeops` in a comment.
 {: .alert .alert-warning}
 
-If your job function requires you to submit purchase requests in Coupa, follow the below steps:
+If your job function requires you to manage budget and management approvals, purchase orders and invoice approvals in Coupa, follow the below steps:
 1. Open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Coupa using the `Individual_Bulk_Access_Request` template.
-1. In Step 2, in the _Justification for this access_ question, please describe:
-   - What you need to buy.
-   - What is the total cost of the purchase. 
-   - How often you will need to purchase it.
-   - When does it need to be submitted in Coupa.
-1. Add the labels ~"FinSys - Coupa" and ~"FinSys::Service Desk".
+1. In Step 2, in the _Justification for this access_ question, please describe what budget, management approvals, purchase orders and invoices approvals you will manage.
+1. Add the labels `FinSys - Coupa` and `FinSys::Service Desk`.
 1. **After the AR is approved, you must review the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and follow the instructions for provisioning (either assign to the provisioner, add the correct labels or both if not clearly stated) to avoid any provisioning delays.**
-1. If you require immediate Coupa access, please ping in the **#coupa_help** Slack channel.
+1. If you require immediate Coupa access, please ping in the `#coupa_help` Slack channel.
 
 <div class="panel panel-success">
 **Best Practices**
 {: .panel-heading}
 <div class="panel-body">
 
-Due to the limited number of licenses available for Coupa, it is recommended that each department identify power users responsible for creating purchase requests on the team’s behalf.
+Due to the limited number of licenses available for Coupa, it is recommended that each department identify power users responsible for managing requisition budget and management approvals, purchase orders and invoice approvals on the team’s behalf.
 
 
 </div>
@@ -63,17 +62,17 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 
 ### Home Page Overview
 
-![coupa-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa1.png)
+![coupa-image-40](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa40.png)
 
 1. **Home Icon** - This icon will bring you back to the homepage.
 1. **Account Name** - Contains a number of personal settings related to managing your account in Coupa.
 1. **Cart** - Links to your shopping cart, which contains any items selected but not yet submitted for approval.
 1. **Search Bar** - Used to search or browse catalog items and create free text requests.
-1. **Recent Activity** - Displays your 5 most recent transactions. Selecting “View All” will bring you to Activity to display all of your previous requisitions and other transactions.
-1. **To Do’s** - Displays a list of action items within Coupa that are assigned to you. Selecting "View All" will bring you to your Coupa Inbox to display all of your to do’s.
+1. **Recent Activity** - Displays your 5 most recent transactions. Selecting `View All` will bring you to Activity to display all of your previous requisitions and other transactions.
+1. **To Do’s** - Displays a list of action items within Coupa that are assigned to you. Selecting `View All` will bring you to your Coupa Inbox to display all of your To Do’s.
 1. **Additional Stores (“Punchouts”)** - Offers the possibility to search, select and submit purchases directly from the Supplier’s portal.
 1. **GitLab - Important Links and Resources** - Displays important information about Coupa, along with links to training material and other important documents.
-1. **Forms and Quick Links** - Displays shortcut icons for various forms and quick links.
+1. **Coupa Community** - Connect or join to engage with other Coupa customers, partners, product managers, and the Coupa success team.
 
 ### User Account
 
@@ -107,7 +106,7 @@ For each type of notification, the User can choose whether to receive notificati
 - **Inbox** - Displays all current and previous notifications.
 - **Sign Out** - to exit the application.
 
-#### How to add a Delegate in Coupa
+### How to add a Delegate in Coupa
 
 ![coupa-image-19](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa19.png)
 
@@ -120,7 +119,7 @@ Assigned delegates must be of an equivalent or greater management level.<br>
 For approvals as part of an approval group, the individual must be a member of that group.
 {: .alert .alert-info}
 
-#### How to Enable Two-Factor Authentication
+### How to Enable Two-Factor Authentication
 1. Go to your "Account Name" > "Settings".
 1. Click on the "Two-Factor Authentication" subtab.
 1. Click the "Enable" button.
@@ -132,139 +131,55 @@ For approvals as part of an approval group, the individual must be a member of t
 
 ### How to Create a Requisition
 
-For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#coupa) to understand how to create Coupa requisitions directly from Allocadia. 
+Effective 2023-02-01, all purchase requisitions will be created in `Zip`. To learn more about `Zip`, check the [`Zip Handbook page`](/handbook/business-technology/enterprise-applications/guides/zip-guide).
 {: .alert .alert-info}
 
-#### Free-Form Requisition
-
-- Click on the "Pen" icon on the homepage (upper left corner).
-
-<br>
-![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
-
 <br>
 
-- Complete the form with the following information:
+### How to Review a Requisition in Coupa
 
-![coupa-image-5b](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5b.png)
-
-- a) Item Description _(required)_<br>
-- b) Choose if Amt (amount) or Qty (quantity)_(required)_<br>
-   - Amount should be selected for a service-based requisition.
-   - Quantity should be selected for an item-based requisition and Receiving of goods will be required.
-   - When Professional Services are bought together with a software, they should be added in different lines (since they will fall under different commodities). Software purchases are usually based in the amount and not the quantity.
-- c) Supplier _(required)_<br>
-   - **The supplier has to be onboarded into Coupa in order to be displayed in this dropdown.** Check the _[How to Request a New Supplier](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)_ section for more information.
-- d) Commodity _(required)_<br>
-- e) Unit Price _(required)_<br>
-- f) Currency _(required)_<br>
-- g) Qty _(required if Qty based)_<br>
-- h) UOM _(required if Qty based)_<br>
-- i) Need by _(optional)_<br>
-- j) Supplier Part Number _(optional)_<br>
-- k) Manufacturer Name _(optional)_<br>
-- l) Manufacturer Part Number _(optional)_<br>
-- m) Is this a prepaid? _(optional) - if yes, check the box and review the [Coupa Prepaid Automation Process](/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/) for more details on completing the request. <br>
-- n) Amortization Schedule _(if prepaid box is checked, then required)_<br>
-- o) Service Start Date _(required)_<br>
-- p) Service End Date _(required)_<br>
-- q) Allocadia ID _(optional)_<br>
-- r) Payment Structure _(optional)_<br>
-- s) Requested Virtual Card Supplier _(optional)_ <br>
-- t) Attachments _(optional)_<br>
-- u) Write Multiple Request _(check the box if you will create multiple lines)_<br><br>
-- Click "Add to Cart" once completed.
-- Review your cart by clicking on the "Cart" button at the top of the page.
-   - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
-
-
-If a supplier is exclusively paid by credit card, please see [How to Request a Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#how-to-request-a-virtual-card) for instructions.
-{: .alert .alert-warning}
 
 **REQUISITION HEADER LEVEL**
 
-![coupa-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa7.png)
+![coupa-image-42](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa42.png)
 
-- a) On Behalf Of _(optional)_<br>
-   - Use this to create a request on behalf of another user. The approval chain will update following the person selected as “on behalf of”. This user will then have to approve the invoice once received.
-- b) Description of Purchase _(optional)_<br>
+- a) On Behalf Of _(synced from `Zip`)_<br>
+   - This is used to create a request on behalf of another user. The approval chain will update following the person selected as “on behalf of”. This user will then have to approve the invoice once received.
+- b) Description of Purchase _(synced from `Zip`)_<br>
 - c) Hide Price _(optional)_<br>
-   - Usually used by Procurement to hide Purchase Order price from the Vendor.
-- d) Attachments _(required)_<br>
-   - Add as many attachments as needed: Unsigned Contract, Previous Contracts and Security Documents.
-   - After uploading the documentation, check the "supplier" box if any specific document needs to be shared with the supplier.
+   - Used by Procurement to hide Purchase Order price from the Vendor.
+- d) Attachments _(synced from `Zip`)_<br>
+
 
 If an invoice is attached, it will also need to be emailed to **ap@gitlab.com** for processing.
 {: .alert .alert-warning}
 
-- e) Vendor has access to red/orange data? _(required)_<br>
-   - If the requestor is unsure about the type of data, tag the `@security` and `@procurement` groups in a comment before submitting the requisition for approval.
-   - Requisitions can be saved for later.
-- f) Vendor’s Security Contact Email _(optional)_<br>
-- g) Address _(required)_<br>
-   - Defaulted based on the user entity. Click on the magnifying glass icon to select or create a different address.
-- h) Attention (defaults from the User record).<br>
+- e) Vendor's Contact Email _(optional)_<br>
+- f) Vendor has access to red/orange data? _(optional)_<br>
+- g) List data and systems involved _(optional)_<br>
+- h) Vendor’s Security Contact Email _(optional)_<br>
+   - Click on the magnifying glass icon to select or create a different address.
+- i) Virtual Card Supporting Documentation _(optional)_<br>
+- j) Address _(defaults from the User record)_<br>
+- k) Attn _(defaults from the User record)_<br>
 
-<div class="panel panel-info">
-**NOTES**
-{: .panel-heading}
-<div class="panel-body">
-
-- If you have any questions about the **entity** of the request, tag the `@taxinvoiceapproval` group in a comment before submitting the requisition for approval.
-   - Requisitions can be saved for later.
-
-</div>
-</div>
+<br>
 
 **REQUISITION LINE LEVEL**
 
-![coupa-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa8.png)
 
-- Line Item
-   - Click on this section to launch the edit mode and update line details as needed.
-- Greyed-out fields are non-editable.
-- Fields marked with a red asterisk are required fields.
-- Click Save to apply the changes.
+![coupa-image-43](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa43.png)
 
-#### Adding a class/campaign tag
+- The above information is synced from `Zip` or updated by FP&A Team if falls under [Coupa Prepaid Automation Process](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/).
 
-If the item being purchased requires a class/campaign tag, the user needs to manually add it **after** adding the line item to the request but **before** submitting the PR.
+<br>
 
-The class field is located in the `Billing String` section which only appears to the user after the line item has been added to the request.
-{: .alert .alert-info}
-
-![coupa-image-23](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa23.png)
-
-![coupa-image-24](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa24.png)
-
-To add a class, follow the below steps for more detail:
-
-1. After adding line items to your cart, from the homepage, click on the "Cart" button at the top of the page.
-1. Click on the "Cart Item" tab or scroll down to the requisition line level.
-1. Click on the magnifying glass of the Billing string for the requested item.
-1. On the "Choose an Account" pop up, find your tag by expanding the `clas - Class` field and click "Choose" when done.
+### Punchout Requisition
 
 
-<div class="panel panel-info">
-**NOTES**
-{: .panel-heading}
-<div class="panel-body">
+![coupa-image-48](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa48.png)
 
-- If you need to request a new  **class**, please navigate to [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing) and enter the information required for the GL team to create the tag. 
-   * The GL team will create the tags at the end of each day. 
-   * The tag is created in Netsuite and syncs with Expensify and Coupa.
-   * Requisitions can be saved for later, while you complete the tag creation process.
-- The FP&A and Procurement teams will review the commodity for each line item during their approval and ping @GLTeam in a comment if there are any questions.
-
-
-</div>
-</div>
-
-#### Punchout Requisition
-
-![coupa-image-12](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa12.png)
-
-1. On the Homepage Screen, click on any Punchout supplier located under Additional Stores section.
+1. On the Homepage Screen, click on any Punchout supplier located under `Additional Stores` section.
 1. Clicking on the Punchout link will take you to an approved supplier website where you start ordering your items, just like any online shopping experience.
 1. Start searching and add items to your cart.
 1. When done adding items in your cart, click “Checkout”.
@@ -284,16 +199,17 @@ To add a class, follow the below steps for more detail:
 </div>
 </div>
 
+<br>
 
 ### Approvals
 
-Once all the required information (including the billing string) is populated on the cart, based on the system approval rules, the applicable approvers are displayed beneath the cart line.
+Once the requisition integrates from `Zip` into `Coupa`, the applicable approvers are displayed beneath the cart line.
 
 > The greater the amount of the requisition, the more approvers will be needed.
 
-![coupa-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa9.png)
+![coupa-image-44](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa44.png)
 
-#### How to Add an Approver
+### How to Add an Approver
 
 - Click on the "Add" button.
 - Type in a few letters of the approver name and the system displays all possible entries. 
@@ -301,18 +217,14 @@ Once all the required information (including the billing string) is populated on
 - Select if the person is to be added after the current approver, end of the chain, or only as a watcher.
    - A watcher cannot approve or reject the cart but will receive notifications about the requisition.
 
-![coupa-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa10.png)
+![coupa-image-45](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa45.png)
+![coupa-image-46](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa46.png)
+![coupa-image-47](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa47.png)
 
-- At the bottom-right section of the review cart screen the user can:
-   - a) Save the Purchase Request but not keep it active in their Cart by clicking on “Save for Later”.
-      - The Purchase Request will be available on “Draft” status on the user’s “Activity” page under the ”Requisitions” section.
-   - b) Save the Purchase Request on their cart by clicking on “Save”.
-      - In this case the Purchase Request will be available on the requester’s “Cart” Icon (On the top right of the screen).
-   - c) Once the cart has been verified for correct information, the User can submit the cart for approval by clicking on the “Submit for Approval” button below the approval chain.
+<br>
+<br>
 
-![coupa-image-11](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa11.png)
-
-#### Methods to Approve Transactions
+### Methods to Approve Transactions
 
 There are several ways to approve transactions in Coupa:
 
@@ -361,53 +273,35 @@ There are several ways to approve transactions in Coupa:
 <div class="panel-body">
 
 - If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and is being reviewed by the procurement team who will respond as soon as possible, no longer than 1-2 business days. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email, Slack or in your To Do List (depending on your notification setup in Coupa). 
-- If you see "Onboarding" next to the Supplier's name on the line items of your requisition (see below screenshot), please reach out to your Supplier and request them to join Coupa's Supplier Portal to complete the onboarding process. Suppliers have to complete their onboarding in Coupa before the requisition can be finalized. 
+- If you see "Onboarding" next to the Supplier's name on the line items of your requisition (see below screenshot), the Supplier has not completed the onboarding process. Suppliers have to complete their onboarding in Coupa before the requisition can be finalized. 
 
 ![coupa-image-25](/handbook/business-technology/enterprise-applications/guides/coupa-guide/Coupa25.png)
 
 </div>
 </div>
 
-### How to Copy a Requisition
-
-Users can copy requisitions so they do not have to re-create the same order details multiple times again.
-
-![coupa-image-14](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa14.png)
-
-1. Go to “Recent Activity” or “Activity” section.
-2. Click on the “Copy” icon and a copy of the requisition will automatically be added to your cart.
-   - **Note**: on the “Recent Activity” section you have to click on the “Actions” dropdown to be able to see the “Copy” button.
-
-<div class="panel panel-warning">
-**Notes**
-{: .panel-heading}
-<div class="panel-body">
-
-- If you are planning to create a similar requisition with some different details, copy a requisition you already made before then edit the details on the cart.
-- Punchout Requisitions cannot be copied!
-
-</div>
-</div>
+<br>
 
 ### How to Withdraw a Requisition
 
-Provided that a Purchase Requisition has not been approved and flipped into an Order, the user can withdraw the Purchase Request and make any changes before submitting again.
+Provided that a Purchase Requisition has not been fully approved and flipped into an Order, only Procurement can withdraw the Purchase Request and make any changes before submitting again. Please reach out to the `#procurement` Slack Channel (including link to the Coupa requisition) for any requests or questions.
 
 ![coupa-image-15](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa15.png)
 
 1. Go to “Recent Activity” or “Activity” section.
-1. Find your Purchase Request on “Pending Approval” status and click on the “withdraw requisition” icon (Red Arrow).
+1. Find the Purchase Request on “Pending Approval” status and click on the “withdraw requisition” icon (Red Arrow).
 
 <div class="panel panel-warning">
 **NOTES**
 {: .panel-heading}
 <div class="panel-body">
 
-- On “Activity”, the user can select the “Pending Approval” view.
-- If a Requisition has already been flipped into an Order, the user cannot withdraw the requisition. They will have to create a [Purchase Order Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request).
+- On “Activity”, select the “Pending Approval” view.
+- If a Requisition has already been flipped into an Order, it cannot be withdrawn. A [Purchase Order Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request) will have to created.
 
 </div>
 </div>
+
 
 ### How to Receive an Order
 
@@ -432,6 +326,7 @@ Receiving is only required for an item-based (quantity) requisition.
 
 </div>
 </div>
+
 
 ### How to Void a Receipt
 
@@ -459,71 +354,46 @@ As **Central Receiver**, follow the below steps:
 
 ### How to do a Purchase Order Change Request
 
-Requesters can take certain actions to manage their orders.
 
-1. Under “Activity”, click the “Orders” subtab and select the purchase order which requires change.
-1. Scroll down to the bottom of the screen and click on the "Request Change*" button to edit the contents of the Purchase Order.
-1. The Purchase Order fields become editable and the user can make any changes needed to the information:
-   - Request Purchase Order Cancellation (if not yet received or invoiced).
-   - Save the Change Request (can be edited later).
-   - Submit Change Request if ready for approval.
-1. Once submitted, the Purchase Order will be routed for approval.
-1. The requester can "Click to view pending change" to view the difference between the original and the changed Purchase Order.
-
-![coupa-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa16.png)
-
-<br>
-Click [here](https://drive.google.com/file/d/1q3x_9OiYGQ04NvVEQiZqFCJqBQTOHwg6/view?usp=sharing) for a quick video showing how to request a Purchase Order change for an amount increase.
+Effective 2023-02-01, all purchase order change requests will be submitted in `Zip`. To learn more about `Zip`, check the [`Zip Handbook page`](/handbook/business-technology/enterprise-applications/guides/zip-guide).
 
 <br>
 
-Under Activity > Orders, the requestor can click on **Supplier Print View** to print or re-send a Purchase Order to another email address of their choosing.
-{: .alert .alert-info}
+<div class="panel panel-danger">
+**IMPORTANT NOTE**
+{: .panel-heading}
+<div class="panel-body">
+
+**With the implementation of `Zip` effective 2023-02-01, all New Supplier Requests and Updates to Suppliers Requests will be created by the Procurement Team in Coupa.**
+
+</div>
+</div>
 
 ### How to Request a New Supplier
 
-A supplier must exist in Coupa prior to submitting a requisition for that supplier. To complete a New Supplier Request form:
-- Click on "Request a New Supplier" icon on the Home page; under "Forms and Quick Links" section.
+A supplier must exist in `Zip` prior to submitting a requisition for that supplier. To learn more about requesting a new supplier, check the [`Zip Handbook page`](/handbook/business-technology/enterprise-applications/guides/zip-guide).
 
-![coupa-image-29](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa29.png)
+
+To complete a New Supplier Request form:
+- Click on the `Forms` dropdown on the Home page
+- Select `PROC: New Supplier`
+
+![coupa-image-41](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa41.png)
 
 
 - Complete the form details and click the "Review" button (located at the bottom of the page/screen).
    - Review the information and if any changes need to be made, click the "Edit" button (located at the bottom of the page/screen) to make necessary changes.
-   - If the information is correct, click the "Submit for Approval" button (located at the bottom of the page/screen) to route the request to Approvers. 
-- Once the New Supplier request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
+   - If the information is correct, click the "Submit" button (located at the bottom of the page/screen).
+- An External Supplier Form will be automatically sent to the Supplier to gather additional information.
    - The Supplier must complete the form and submit it back.
 - After supplier submission, the external form will be routed to the Accounts Payable Approval Group for review and approval.
-- After approval, the Supplier details will be integrated to NetSuite and it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available in Coupa when creating Purchase Requests and Invoices.
+- After approval, the Supplier details will be integrated to NetSuite and it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available in `Zip` when creating Purchase Requests.
 
-### How to Search for a Supplier
 
-- On the Coupa Homepage, click the "Pen" icon (upper left corner).
+### How to Request Updates to a Supplier
 
-<br>
-![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
+To learn how to request updates to a supplier, check the [training video](https://www.loom.com/share/21201b257967414793aec40656959bc5).
 
-<br>
-
-- Type the supplier’s name on the Supplier field.
-   - If the Supplier is active, the system will display the Supplier.
-   - If a "No results match" message popped below the supplier box, then the Supplier is inactive or not yet existing in Coupa.
-
-![coupa-image-18](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa18.png)
-
-### How to complete the Professional Services Request Form
-
-The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase. To complete the Professional Services Request form:
-- Click on "Professional Services request" button on the Home page; under "Forms and Quick Links" section.
-
-![coupa-image-30](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa30.png)
-
-- Fill out all the form questions and click "Submit".
-   - The cart will be automatically updated with the provided answers in the line item.
-
-![coupa-image-22](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa22.png)
-
-The user can now proceed with the [creation of the purchase request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) by adding the remaining details to the line item.
 
 ## How to Use Coupa for Invoicing and Payments
 
@@ -531,27 +401,20 @@ For further instructions on the invoicing and payment modules in Coupa, please v
 - [Invoicing in Coupa](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa)
 - [Payments in Coupa](https://about.gitlab.com/handbook/finance/accounting/#processing-payment-for-invoices-in-coupa)
 
+
 ## How to Request a Coupa Virtual Card
 
-For futher instructions on how to request a virtual card in Coupa, please visit the below links to the guide or training video:
-- [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
-- [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) video
+To learn more about requesting a Virtual Card, check the 
+[Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
 
-
-## Coupa Training Videos
-
-All Coupa related videos can be found in our ["Coupa" playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) on youtube.
 
 ## Coupa Support
 
-### GitLab Internal Escalation Process
-
-For any Coupa requests, [open an issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the `Coupa Request` template.
+For any Coupa requests that are technical related, [open an issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the `Coupa Request` template. 
 
 If your request involves a change to the current business process, either the Procurement and/or Accounts Payable Team will have to approve it depending on the type of request.  
 {: .alert .alert-info}
 
-If you have an urgent issue, send a message to the _#coupa_help_ slack channel explaining what you need. The Enterprise Apps team will help determine what is the best process to solve the request.
-
+If you have an urgent issue, send a message to the `#coupa_help` Slack Channel explaining your issue. 
 
 {::options parse_block_html="false" /}
