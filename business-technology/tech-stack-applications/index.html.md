@@ -58,7 +58,6 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | ------ | ------ |------ |------ |
 | title | Text | The name of the system you are adding to the tech stack. Please enter the full and correct brand name associated with the tool. Example: "[Zendesk](https://www.zendesk.com/), not ZenDesk."  | MR Author and contributors |
 | team_member_baseline_entitlement | Boolean* | A baseline entitlement is a system that **ALL** GitLab Team Members get access to. Example: "Zoom". Most systems in our Tech Stack are not baseline entitlements. | MR Author and contributors |
-| subprocessor | Boolean* or Unknown** | Decided upon by the legal team. This information can be found in the tool's privacy review issue. A subprocessor is a tool that has or potentially will have access to or process Service Data (which may contain Personal Data).|Legal and Security teams|
 | description | Text/Markdown | Business Purpose of the system. Please add links to handbook pages or websites that can provide people with more information on what the system is used for. Example: "[ContractWorks](https://www.contractworks.com/) is a contract managing software. [This process](/handbook/legal/vendor-contract-filing-process/) is used to file contract or related vendor documents after they are fully executed." | MR Author and contributors |
 | access_to | Text | Define which individuals or teams need access to this system. Example: Strategic Marketing and Product Managers | MR Author and contributors |
 | provisioner | Text in single quotes, GitLab Username | Add the username of the people in charge of provisioning access to this system, separated by commas. We require at least 2 people to be listed as provisioners of a tool. Example: '`@username`, `@username1`'  | MR Author and contributors |
@@ -73,7 +72,6 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 |critical_systems_tier|Text (Tier 1 Mission Critical, Tier 2 Business Critical, Tier 3 Business Operational, Tier 4 Administrative, TBD) or Unknown**|This field classifies the system based on GitLab's [Critical System Tier Definitions](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). The assignment of a critical system tier is dependent on the completion of a [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) (BIA) questionnaire. The Security Risk Team will coordinate the completion of a BIA if it has not yet been completed at the time a system is being added to the Tech Stack.|Security Risk|
 | compliance_scope | Text | Comma separated list of the system's compliance scope: (e.g. SOX, SOC2, PCI). Decided upon by the Internal Audit and Security Compliance Teams, please leave as null while this process is completed. | Internal Audit and Security Compliance Teams |
 | collected_data | Text or Unknown**  | Data that is collected by the tool | MR Author and contributors |
-| processing_customer_data | Text or Unknown**  | Decided upon by the Legal team, please leave as `null` while this process is completed.| Legal team |
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
 | notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. Examples include the GitLab Epic for implementation and rollout. | Optional, MR Author and contributors |
 | saas | Boolean* or Unknown** | Is the tool a Software as a Service (SaaS) tool? | Optional, MR Author and contributors |
@@ -98,7 +96,6 @@ Copy the content below and please add your system to the stack in its appropriat
 ```
 - title:
   team_member_baseline_entitlement:
-  subprocessor:
   description:
   access_to:
   provisioner:
@@ -113,7 +110,6 @@ Copy the content below and please add your system to the stack in its appropriat
   critical_systems_tier: null
   compliance_scope:
   collected_data: null
-  processing_customer_data: null
   employee_or_customer_facing_app:
   notes: null
   saas: null
