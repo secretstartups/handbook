@@ -19,9 +19,9 @@ When creating a new project, please follow these steps:
 1. Ensure the project is under a subgroup of:
    * [`gitlab-org`](https://gitlab.com/gitlab-org) for anything related to the application.
    * [`gitlab-com`](https://gitlab.com/gitlab-com) for anything strictly company related.
-   
-   To avoid complications with context and permissions inheritance, creating projects directly under these root namespaces (e.g. `gitlab-org/NEW_PROJECT`) is discouraged. Only Maintainers can create projects there when necessary, but should also avoid doing so for the reason mentioned before. 
-   If you don't have the permissions to create a project there, you can create an [Access Request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and ping one of the Maintainers ([gitlab-org](https://gitlab.com/groups/gitlab-org/-/group_members?sort=access_level_desc), and [gitlab-com](https://gitlab.com/groups/gitlab-com/-/group_members?sort=access_level_desc)) for approval. 
+
+   To avoid complications with context and permissions inheritance, creating projects directly under these root namespaces (e.g. `gitlab-org/NEW_PROJECT`) is discouraged. Only Maintainers can create projects there when necessary, but should also avoid doing so for the reason mentioned before.
+   If you don't have the permissions to create a project there, you can create an [Access Request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and ping one of the Maintainers ([gitlab-org](https://gitlab.com/groups/gitlab-org/-/group_members?sort=access_level_desc), and [gitlab-com](https://gitlab.com/groups/gitlab-com/-/group_members?sort=access_level_desc)) for approval.
 1. Configure the project repository to use `main` as the name of the default branch.
 1. [Add the project to the list of GitLab projects in `projects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/projects.md).
 1. Help [AppSec](/handbook/security/security-engineering/application-security/) [categorizing your new project](/handbook/security/security-engineering/application-security/inventory.html#how-to-categorize-projects).
@@ -31,9 +31,9 @@ When creating a new project, please follow these steps:
 1. Add a [CODEOWNERS](https://docs.gitlab.com/ee/user/project/code_owners.html) file, to make it easy for contributors to figure out which teams are best suited to review their changes.
     - Use teams rather than individuals as owners, to make it self updating over time and resilient to people taking time off
     - You can scope ownership to subdirectories or individual files, but it should contain at the very least a top-level catch all for any new or non explicitly mentionned file.
-1. When possible, projects should have the following [Merge request settings enabled](https://docs.gitlab.com/ee/user/project/settings/#merge-request-settings):
+1. When possible, projects should have the following [Merge request settings enabled](https://docs.gitlab.com/ee/user/project/settings/#delete-the-source-branch-on-merge-by-default):
     - [Merge Trains](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html).
-    - [Delete source branch after merge](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#deleting-the-source-branch).
+    - [Delete source branch after merge](https://docs.gitlab.com/ee/user/project/settings/).
     - [Merge only if pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html).
     - [Merge only when all threads are resolved](https://docs.gitlab.com/ee/user/discussions/index.html#only-allow-merge-requests-to-be-merged-if-all-threads-are-resolved).
 1. When possible, projects should have the following [Pipeline settings enabled](https://docs.gitlab.com/ee/ci/pipelines/settings.html):
