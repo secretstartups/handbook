@@ -81,6 +81,9 @@ Includes RFP Templates, scorecards and Vendor Guidelines for doing business with
    <a href="/handbook/finance/procurement/trial-agreement/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Demo/Trial Agreements</a>
 </div>
 
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  New Zip tool launched 2023-02-01 for all Purchase Requests!
+- Reasons why we chose Zip and the Business Case can be found here.
+
 ## <i class="fas fa-stream" id="biz-tech-icons"></i>  When does procurement negotiate my contract and how long does that take?
 - The procurement team negotiates SaaS contracts >$25K, and one-time contracts > $100K. 
 - Plan on the negotiation, review and approval cycle to take 3-4 weeks. Large and/or complex contracts can take longer to negotiate and finalize.
