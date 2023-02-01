@@ -97,7 +97,7 @@ You are encouraged to learn and develop skills without pressure to in turn seek 
 | Topic | Definition | Examples |
 | ----- | ----- | ----- | 
 | Development | Choosing and building a career path that accelerates professional growth. | Learn new skills, complete a course, be a mentee |
-| Mobility | Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. Mobility involves applying experience and skills as leverage for a new role. | Mentor to learn leadership skills with the intention of applying for a manager role; Complete a job shadow or internship and upskill to transfer to a new team.  |
+| Mobility | Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. Mobility involves applying experience and skills as leverage for a new role. | Mentor to learn leadership skills with the intention of applying for a manager role; Complete a job shadow or internship and upskill to transfer to a new team. 
 
 ### Career Development and Wellbeing
 
@@ -238,7 +238,21 @@ Managers should support their direct reports with their professional development
 1. Does your feedback from others tell you anything about how feasible your aspirations are?
 1. Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-#### Cadence
+### Inclusive Growth
+
+It’s critical to understand how the diverse experiences and perspectives of individuals influence their approach to career growth. Without the right support, behaviors by team members [from underrepresented groups](/company/culture/inclusion/#examples-of-select-underrepresented-groups) might influence their growth. Consider how the following might influence growth on your team
+
+| Behavior | Example | 
+| ----- | --------------- |
+| Raised Hands | Who opts in? Who doesn’t? Who’s your go to person for stretch projects? Lack of opting in might be influenced by imposter syndrome, not a lack of interest. |
+| Starting the Conversation | Who already set up career conversations with you? Who hasn’t? Like opting in, this could indicate different expectations of growth rather than disinterest. |
+| Stretch Projects | Share equitably across your team. Be aware of who got the last opportunity. Ask open and honestly about everyone’s interests and capacity before allocating stretch projects. |
+| Beyond Work | Consider the jobs we have outside of work. These responsibilities might influence our career growth but do not have to limit it. |
+| Cultural|  Career growth expectations vary around the world. Ask your team individually about their expectations rather than making assumptions based on your experience. |
+| Bias | Biases that might especially be prevalent in career conversations could include past roles and companies, performance, and authority. |
+
+#### Career Mapping and Development
+{:#career-mapping-and-development}
 
 Aim to have career converations with your team 2 times per year. Consider having these conversations in Q2 and Q4, aligning after talent conversations and planning for the next year.
 
