@@ -13,18 +13,15 @@ description: "Learn about GitLab's engineering internship program."
 {:toc .hidden-md .hidden-lg}
 
 # <i class="far fa-newspaper" id="biz-tech-icons"></i>  About
-GitLab has established an ongoing internship program that offers students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. Our goal is to run an inclusive engineering internship program to provide all qualifying candidates with a fair and equal opportunity. This program allows us to create opportunities for candidates, diversify the experience levels of our teams, and bring fresh perspectives to our initiatives.
+GitLab has established an internship program that offers students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. Our goal is to run an inclusive engineering internship program to provide all qualifying candidates with a fair and equal opportunity. This program allows us to create opportunities for candidates, diversify the experience levels of our teams, and bring fresh perspectives to our initiatives.
 
-On this page, you'll learn more about how we first began this program, how to get involved as [an applicant](/handbook/engineering/internships/#how-to-apply-for-an-internship) or as an engineering team, and [how to request an intern for your team](/handbook/engineering/internships/#how-to-request-an-intern-for-your-team). 
+On this page, you'll learn more about how we first began this program, how to get involved as an engineering team, and [how to request an intern for your team](/handbook/engineering/internships/#how-to-request-an-intern-for-your-team). 
+
+As positions become available we will post the link to apply on this page.
 
 ## Engineering Internship Program
 
 To validate and refine our approach to offering internships at an [all-remote company](/company/culture/all-remote/getting-started/), we launched a program between May 2020 and August 2020. Due to its success at GitLab, we have decided to roll out internships on a more continuous basis. 
-
-### How to apply for an internship
-
-We are currently accepting expressions of interest for future internships.  See the [job post](https://grnh.se/b2f2be562us) for more details.
-
 
 # <i class="fas fa-users" id="biz-tech-icons"></i> Get involved
 
