@@ -28,14 +28,14 @@ description: "GitLab Data Team Workflow"
 
 We're happy to help you achieve your goals with Data. Most of our work is driven through our [Data Fusion Teams](/handbook/business-technology/data-team/#how-data-teams-work-together), but we do [reserve some capacity](/handbook/business-technology/data-team/how-we-work/#standing-priorities) to work on  requests not linked to these initiatives. Here's the process to follow to create a new Data issue:
 
-1. Open a **New Issue** in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues) 
+1. Open a **New Issue** in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues)
 2. Choose a **Template** from the table below that best matches the work you'd like us to perform
 3. Complete the templated **Description** as completely as possible.
 4. Leave the **Assignees** blank. The Data Team will process your request as a part of our [Daily Triage](/handbook/business-technology/data-team/how-we-work/triage/).
 
 **New Issue**
 
-| Request Type | Template To Choose | 
+| Request Type | Template To Choose |
 | ----- | ----- |
 | [New Dashboard](https://gitlab.com/gitlab-data/analytics/-/issues) | 'Visualization or Dashboard - New Request' |
 | [Add Data Source](https://gitlab.com/gitlab-data/analytics/-/issues) | 'New Data Source' |
@@ -55,9 +55,9 @@ Not all data solutions require the same level of quality, scalability, and perfo
 
 The below steps should be followed when performing a **Design Spike**:
 
-1. **Calculate Value**: Establish the Value the data solution can provide GitLab. Value can be measured in a variety of ways, ranging from efficiency, to increased Sales, to reduced compute. 
-1. **Define Requirements**: Create a Requirements document for the **Design Spike** to define the business and technical requirements the data solution must meet to be successful. Indicate whether each requirement is a `Must Have` or `Nice to Have`. 
-1. **Experimentation Design**: This is the most complex part of the **Design Spike**. We need to decide how to test the data solutions versus defined requirements. Oftentimes, successfully testing data solutions requires simulating production workloads. We need to define the **minimal viable sample size** of data to include in the design to achieve experimentation results that would be representative of the whole data set in scope for the solution.   
+1. **Calculate Value**: Establish the Value the data solution can provide GitLab. Value can be measured in a variety of ways, ranging from efficiency, to increased Sales, to reduced compute.
+1. **Define Requirements**: Create a Requirements document for the **Design Spike** to define the business and technical requirements the data solution must meet to be successful. Indicate whether each requirement is a `Must Have` or `Nice to Have`.
+1. **Experimentation Design**: This is the most complex part of the **Design Spike**. We need to decide how to test the data solutions versus defined requirements. Oftentimes, successfully testing data solutions requires simulating production workloads. We need to define the **minimal viable sample size** of data to include in the design to achieve experimentation results that would be representative of the whole data set in scope for the solution.
 1. **Perform the experiment**: This involves putting "fingers on the keyboard" and standing up a data solution in the **Explorational** data development environment. It also involves collecting the results of the experiment pursuant to what has been defined in the **Define Requirements** phase.
 1. **Assessment**: After the experimentation is complete, we should perform an analysis of how well each data solution performed against the requirements from the **Define Requirements** phase and see how well each data solution performed against the `Must Have` or `Nice to Have` requirements. We should put this analysis into a document along with a recommended solution based on the results of the **Design Spike**. We can then submit this to the respective DRIs and Stakeholders on the project for review, feedback, and final decisions on how we will proceed with the use case.
 
@@ -103,7 +103,7 @@ Business Technology developed [Rolly Bot](https://about.gitlab.com/handbook/busi
 
 Process:
 1. Create Epics for tracking KRs related to our Quarterly Objectives
-2. Add the appropriate Label to each epic 
+2. Add the appropriate Label to each epic
     - Data Platform Team: `Data-Platform-weekly-rollup`
     - Data Fusion Team: `Data-Fusion-weekly-rollup`
     - Data Science Team: `Data-Science-weekly-rollup`
@@ -213,7 +213,7 @@ Generally issues should move through this process linearly. Some templated issue
 
 #### Issue Labeling
 
-Think of each of these groups of labels as ways of bucketing the work done. 
+Think of each of these groups of labels as ways of bucketing the work done.
 
 All issues should get the following classes of labels assigned to them:
 
@@ -251,7 +251,7 @@ _Ideally_, your workflow should be as follows:
     - e.g. if you're working on dbt changes, run the job most appropriate for your changes. See the [CI jobs page](/handbook/business-technology/data-team/platform/ci-jobs/) for an explanation of what each job does.
 
 1. Document in the MR description what the purpose of the MR is, any additional changes that need to happen for the MR to be valid, and if it's a complicated MR, how you verified that the change works. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/658) for an example of good documentation. The goal is to make it easier for reviewers to understand what the MR is doing so it's as easy as possible to review.
-1. Request a review by assigning the MR to a peer using the [Merge Request Reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started#reviewer) feature.
+1. Request a review by assigning the MR to a peer using the [Merge Request Reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/) feature.
     - Requesting a review in this manner indicates to the person that you would like their code review and approval if everything is good. This does not mean they will merge the MR if they approve it.
     - The peer reviewer should use the native approve button in the MR after they have completed their review and approve of the changes in the MR.
     - After approval, the reviewer can unassign themselves from the Reviewer list. The reviewer is not responsible for the final tasks. The author is responsible for finalizing the checklist, closing threads, removing Draft, and getting it in a merge-ready state.
@@ -300,7 +300,7 @@ _Ideally_, your workflow should be as follows:
 
 ### Removal and deletion process
 
-After some time, environments will have software/code/components that are not needed any more. It feels risky to delete software and code, even when its not being used, seems not being used or asked not to being used (i.e. users access). 
+After some time, environments will have software/code/components that are not needed any more. It feels risky to delete software and code, even when its not being used, seems not being used or asked not to being used (i.e. users access).
 
 There are multiple reasons to perform deletions. I.e:
 1. We see software (or parts of software) that is not used anymore
@@ -312,7 +312,7 @@ To address observations and requests, and ensure that deletion will take place i
 
 #### State down in the issue the scope of deletion
 
-Write down what will be deleted and where possible link to existings issues. 
+Write down what will be deleted and where possible link to existings issues.
 
 #### Calculate a Risk score
 The Risk score is build upon 2 variables.
@@ -424,7 +424,7 @@ We encourage everyone to record videos and post to GitLab Unfiltered. The [handb
 
 1. Review the [People Interviewing Guide](/handbook/hiring/interviewing/) to ensure you are up-to-date on the current process and policies.
 1. Contact your People BP (Business Partner) and alert them of the opening. The People BP is responsible for managing the job opening, requisition, and interview processes.
-1. Ask your People BP to provide you a Requisition # for tracking purposes. If you have multiple openings to fill, communicate with your People BP using this Req# because juggling multiple openings gets confusing fast. 
+1. Ask your People BP to provide you a Requisition # for tracking purposes. If you have multiple openings to fill, communicate with your People BP using this Req# because juggling multiple openings gets confusing fast.
 1. Develop an Interview Plan, which will cover Responsibilities, Tips, Reminders, and custom Interview questions for each Interview Job Role type. For examples, see the [Data Scientist Interview Plan](https://docs.google.com/document/d/1slPL8qy6IW01DcNBP26YVC3mHtkwApHGmA29d6Y9nlg/edit#heading=h.6mqvxi38wull) and [Analytics Engineer Interview Plan](https://docs.google.com/document/d/1wspMpA6Z-UQXZsqYJ7vqhZ5pHNErv54lyF-kOilpkDw/edit).
 1. Each Data Job Role and Job Grade has a customized [Homework Assessment](https://drive.google.com/drive/folders/1cQeCKu_Nu2kBLa4oiAVrp7hu7LdnIB3C). Review and update the Homework Assessment as needed. If a Homework Assessment is not available for the Job Role, create one and save it in the [Homework Assessment Google Drive](https://drive.google.com/drive/folders/1cQeCKu_Nu2kBLa4oiAVrp7hu7LdnIB3C)
 1. Send a Homework Assessment to the People BP for inclusion in the Hiring process. The Hiring Process is included in each Data Job Family to help set candidate and interviewer expectations. An example is the [Data Engineer Hiring Process](https://about.gitlab.com/job-families/finance/data-engineer/#hiring-process).
