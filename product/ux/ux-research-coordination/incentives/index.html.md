@@ -11,6 +11,13 @@ description: "Learn about how UX Research Operations Coordinators recruit"
 {:toc .hidden-md .hidden-lg}
 As a small token of thanks (and to ensure a higher participation/completion rate) we send gifts to research participants for partaking in UX research studies. These can be requested by opening an issue in the [UX research project](https://gitlab.com/gitlab-org/ux-research/blob/master/.gitlab/issue_templates/Incentives%20request.md).
 
+### Study qualification 
+To determine if your study qualifies for incentives distrubution through the ReOps team we use the following criteria: 
+- A project that is oriented on researching/learning about GitLab, proposed new features, or evaluating GitLab
+- Has an associated UXR (not a requirement but something we look for)
+  - If there is no associated Research and/or ReOps issue - reach out to the Research Operations team through Slack on the #uxr_reops channel to see if we can process the gratuities for you. We request that you have approval before offering an incentive to your participants.
+
+If you are unsure as to whether your study qualifies for incentives, reach out to the #uxr_reops channel prior to conducting your project to seek approval. We are happy to process incentives for other departments on a case-by-case basis. 
 
 ### Gratuity recommendations 
 * User interviews or usability testing research: $60 (or equivalent currency) Amazon gift card per 30 minutes. In the table below is a quick view of the incentives based on different interview lengths.
