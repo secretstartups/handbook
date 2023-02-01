@@ -82,36 +82,6 @@ Corresponding handbook pages:
 * [Data Science](https://about.gitlab.com/handbook/engineering/development/data-science/#dashboards)
 * [Growth](https://about.gitlab.com/handbook/engineering/development/growth/#cross-functional-backlog)
 
-# 2022 Q4 OKRs (Objectives and Key Results)
-
-My OKRs can be found in [Ally](https://app.ally.io/users/158956/objectives?tab=0&time_period_id=135090)
-
-A subset of my Q4 OKRs can be public and are in these categories:
-
-## Grow team member's careers
-
-* 10 starts in Q4
-* Complete annual team member assessments
-* [50% of team has taken TeamOps training](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/14185)
-* Do >=3 engineering director shadow weeks
-
-## Application health
-
-* UX: 18 Pajama component migrations
-* Support Ruby 3 upgrade
-* Resolve 3 S1/S2 customer facing bugs.  Issue searches: [sec](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=section%3A%3Asec), [growth](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Agrowth), [modelops](https://gitlab.com/groups/gitlab-org/-/boards/4671839?label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=devops%3A%3Amodelops)
-* Add 8 maintainers
-
-## Increase revenue by delivering customer results
-
-* [FedRamp](https://about.gitlab.com/company/team/structure/working-groups/fedramp-execution/)
-* [AI Assist](https://about.gitlab.com/handbook/engineering/incubation/ai-assist/)
-
-## Ship features to achieve Best in Class 
-
-* License database / license finder
-* Static rule tuning and refinement
-
 # 2023 Q1 OKRs
 
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q1&first_page_size=20)
