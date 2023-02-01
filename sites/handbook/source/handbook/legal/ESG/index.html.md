@@ -25,23 +25,162 @@ Six key topics were identified in GitLab’s materiality assessment. These key t
 
 GitLab’s current key topics are:
 
-**Environment**
+**Environment** 
 
-* Climate action and greenhouse gas emissions
+
+<table>
+  <tr>
+   <td>Key Topic
+   </td>
+   <td>Drivers of Topic
+   </td>
+  </tr>
+  <tr>
+   <td>Climate action & greenhouse gas emissions
+   </td>
+   <td>
+<ul>
+
+<li>Measurement and reduction of scope 1, 2 and 3 emissions
+
+<li>Greenhouse gas reduction targets, goals and commitments 
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
 
 **Social**
 
-* Diversity, inclusion and belonging 
 
-* Talent management and engagement
+<table>
+  <tr>
+   <td>Key Topic
+   </td>
+   <td>Drivers of Topic
+   </td>
+  </tr>
+  <tr>
+   <td>Diversity, inclusion and belonging
+   </td>
+   <td>
+<ul>
+
+<li>Diverse hiring and recruitment of underrepresented groups
+
+<li>Culture of DIB (events, TMRGs, courses, etc) 
+
+<li>Pay and promotion equity and inclusive benefits
+
+<li>Board, leadership and workforce diversity KPIs
+
+<li>Product accessibility 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Talent management and engagement
+   </td>
+   <td>
+<ul>
+
+<li>Talent attraction and recruitment 
+
+<li>Team member learning and development
+
+<li>Leadership programs
+
+<li>Succession planning
+
+<li>Talent retention 
+
+<li>Workplace culture and remote work
+
+<li>Engagement surveys
+
+<li>Comp and benefits 
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
 
 **Governance**
 
-* Cybersecurity and data privacy
 
-* Business ethics
+<table>
+  <tr>
+   <td>Key Topic
+   </td>
+   <td>Driver of Key Topic
+   </td>
+  </tr>
+  <tr>
+   <td>Cybersecurity & data privacy
+   </td>
+   <td>
+<ul>
 
-* Responsible product development
+<li>Data, system and network breaches
+
+<li>Monitoring of emerging threats
+
+<li>Information security training
+
+<li>Customer data use transparency
+
+<li>Data processing and storage
+
+<li>Data security and PII 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Business ethics
+   </td>
+   <td>
+<ul>
+
+<li>Up to date Code of conduct, anti-corruption, anti-bribery policies
+
+<li>Regulatory compliance
+
+<li>Legal proceedings and monetary losses
+
+<li>Internal compliance
+
+<li>Oversight and ethics training 
+
+<li>Human rights policies, risk assessments and due diligence 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Responsible product development
+   </td>
+   <td>
+<ul>
+
+<li>Open source
+
+<li>Human rights issues from product use
+
+<li>Product data privacy, security, reliability
+
+<li>Environmental impact considerations for product
+
+<li>Data processing and storage
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
 
 
 
