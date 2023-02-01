@@ -21,6 +21,72 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 - [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Purchase
 - [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment and Growth
 
+## UX Health
+One of the ways we track our progress is by measuring the UX of our different workflows (scorecards) and progress towards closing out issues that impact UX (issues labeled SUS:Impacting).
+
+[View Fulfillment Cross-Functional Dashboard](https://about.gitlab.com/handbook/engineering/development/fulfillment/#cross-functional-backlog)
+
+### [Fulfillment Platform](https://about.gitlab.com/direction/fulfillment/platform/)
+| JTBD                                     | Score  | Date | Opportunities                |
+|------------------------------------------|--------|------|------------------------------|
+|[SSO: Registering for CDot](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2189) |  | Backlog | |
+|[SSO: Signing in to CDot](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2190) |  | Backlog | |
+
+[View Open SUS:Impacting Issues for Fulfillment Platform](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
+
+
+### [Billing and Subscription Management](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/)
+
+| JTBD                                     | Score  | Date | Opportunities                |
+|------------------------------------------|--------|------|------------------------------|
+| Renew a subscription (concerning SaaS and SM) (based on renewals research) | NA  | Jan 2023 | - Consolidate and improve renewal messaging in app and emails <br/>- Improve seat usage visibility |
+| [Manually renewing a GitLab subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160) | In progress |  | | 
+| [Upgrade a GitLab.com subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/947) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+| Upgrade a self-managed subscription| C- | Jan 2021 | Needs to be re-scored to identify opportunities | 
+| Cancel a subscription | |To be scheduled | |
+| Add additional seats to my subscription | |To be scheduled | |
+| Link to a different namespace to use my plan with a different group | | To be scheduled| | 
+| Change/update subscription contact | |To be scheduled | |
+
+[View Open SUS:Impacting Issues for Billing & Subscription Management](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Abilling%20and%20subscription%20management&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
+
+### [Purchase](https://about.gitlab.com/direction/fulfillment/purchase/)
+
+| JTBD                                     | Score  | Date | Opportunities                |
+|------------------------------------------|--------|------|------------------------------|
+| [Purchasing a GitLab.com Subscription (new user via a Trial)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103)| C | Oct 2022 | - Auto sign-in users after email verification <br/> - Allow users to verify email later <br/> - Improve findability of upgrade link <br/> - More immediate access to paid features after purchase |
+| [Purchasing a GitLab.com Subscription (existing user)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103) | C | Oct 2022 |- Improve findability of purchase link for a group <br/> - More immediate access to paid features after purchase | 
+| [Purchasing a Self-Managed Subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177) | In progress | Jan 2023 | | 
+| Purchase add-on storage | | | |
+| [Buy add-on CI minutes](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+
+[View Open SUS:Impacting Issues for Purchase](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Apurchase&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
+
+### [Utilization](https://about.gitlab.com/direction/fulfillment/utilization/)
+| JTBD                                     | Score  | Date | Opportunities                |
+|------------------------------------------|--------|------|------------------------------|
+| [Determining where my storage is high in order to reduce it](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2179) | D | Jan 2023 | |
+| [Removing a user from my SaaS subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177)| D | Sep 2022 |- Improve clarity around who uses a seat <br/>- Improve workflow clarity (buttons, alerts) |
+|Removing a user from my self-managed subscription |  | To be scheduled | | 
+| Exclude a user from billing in my self-managed subscription |  |To be scheduled| | 
+| Determine how to make a single user non-billable (self-managed) |  |To be scheduled | | 
+| Set up auto-provisioning such that users are non-billable (self-managed) |  | To be scheduled| | 
+
+[View Open SUS:Impacting Issues for Utilization](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
+
+### [Provision](https://about.gitlab.com/direction/fulfillment/provision/)
+| JTBD                                     | Score  | Date | Opportunities                |
+|------------------------------------------|--------|------|------------------------------|
+| Activate a self-managed license |  | To be scheduled | |
+| Opt out of usage data and get offline license |  | To be scheduled | |
+| Linking a sales-assisted subscription to GitLab.com |  | To be scheduled | |
+
+[View Open SUS:Impacting Issues for Provision](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Aprovision&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
+
+
+
+
+
 
 ## How We Work
 
@@ -37,7 +103,7 @@ We follow the [Product Designer workflows](/handbook/product/ux/product-designer
 
 #### Getting Work Ready for Design
 
-We use the Product Development Flow to help move issues through the product lifecycle. For the design phase to being, the following are important:
+We use the Product Development Flow to help move issues through the product lifecycle. For the design phase to begin, the following are important:
 - [ ] Problem is well understood and has been validated
 - [ ] JTBD is well understood and has been validated
 - [ ] PM has communicated the opportunity canvas to stable counterparts and group stakeholders, including the Product Designer and Product Design Manager
@@ -45,15 +111,6 @@ We use the Product Development Flow to help move issues through the product life
 [Link to issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5Bmilestone_id%5D=#)
 
 The template can also be copied into the main issue that is the SSOT.
-
-#### Prioritizing Work 
-
-| Type                         | % of Milestone | Description                                                                                     |
-|------------------------------|----------------|-------------------------------------------------------------------------------------------------|
-| Deliverable                  | 65%            | business priorities, includes design and solution validation                                    |
-| Proactive UX and Measurement | 25%            | research and ideation for future improvements, CM Scorecards, competitive evaluation fixes      |
-| UX Department Priorities     | 5%             | Pajamas, UX OKRs, professional development                                                      |
-| Other                        | 5%             | designer picks, attending company wide meetings, administrative tasks, professional development |
 
 
 #### Collaboration 
