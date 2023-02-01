@@ -40,6 +40,7 @@ along with other functional analytics groups across the GitLab Data Program.
 * [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
 * [Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
 * [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
+* [dbt Cheat Sheet for Functional Analysts](/handbook/product/product-analysis/dbt-cheat-sheet/)
 
 ## Working With Us
 
@@ -378,6 +379,7 @@ Recordings from office hours, analysis/read-outs, etc
 1. [Data Guide Series](/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)
 1. [Data Team Handbook](/handbook/business-technology/data-team/)
 1. [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
+1. [Product Manager Toolkit](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 1. [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
 1. [Functional Analytics Center of Excellence (FACE) Source of Truth Fields for Reporting](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
