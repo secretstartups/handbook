@@ -71,21 +71,6 @@ The Reliability team uses the following response time SLAs for  all `~Reliabilit
 
 ## Classifying work
 
-In analyzing incoming work we need to determine if the work belongs to one of the following classifications, by default all incoming work will be put into the `work::general` category until it has been classified.
-
-### General
-
-Any issue that doesn't belong to a larger project and is able to be completed in 5 days should be considered a general issue.  General issues are smaller and are worked on by individuals as opposed to project squads.  General issues are labeled as `work::general`.
-
-### Incident
-
-Incident related work will be labeled as `work::incident`. Investigation work is normally completed by the EOC during or shortly after their shift ends.
-Corrective actions follow the [corrective action process](/handbook/engineering/infrastructure/team/reliability/#how-we-work--corrective-actions-workflow) and will also have the `work::incident` label.
-
-### Project
-
-Any issue that is associated with a larger effort that will take longer than 5 days is considered a project.  Once an issue is determined to be a project vs a general work item, it will need to be prioritized within the already existing backlog of projects.  Project issues are labeled as `work::project`
-
 ### Corrective Actions and Security issues
 
 Corrective actions and security issues labeled as `~"corrective action"` or `~"security"` are labeled differently in the Reliability issue tracker.
@@ -117,8 +102,6 @@ Issues should always fall in to one of the following states, as defined by the f
    - Example: [Discussion: Should we recreate our zonal/regional clusters differently](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15192)
   - Issues that discuss possible courses of action and are looking to solicit input from the greater Reliability team.
 3. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
-  - Is this issue a Project or a General issue?
-      - Apply `work::general` if the issue can reasonably be completed by a single SRE in less than 5 days.  Apply `work::project` for anything that would take longer.
   - What is the priority of the issue as defined by the [prioritization matrix](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority)?
       - `~Reliability::P1`, `~Reliability::P2`, `~Reliability::P3`, `~Reliability::P4`, or `~Reliability::P5` based on the prioritization matrix.
 4. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
@@ -126,25 +109,26 @@ Issues should always fall in to one of the following states, as defined by the f
 
 #### Service Labels
 
-`service::` labels are used to route issues to standing squads within the Reliability Team.  All issues should have a `service::` label specified during the triage process.  If multiple services are involved choose the service that best fits based on the details in the issue.  
+`service::` labels are used to route issues to the right team within Reliability.  All issues should have a `service::` label specified during the triage process.  If multiple services are involved choose the service that best fits based on the details in the issue.
 
 ##### Examples
-| Service | Squad | Issue |
+| Service | Team | Issue |
 | ------ | ------ | ------ |
-| `service::Terraform`| [Foundations Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#reliability-foundations-squad)| [Issue#17010](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/17010) |
-| `service::Prometheus` | [Observability Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#observability-squad) | [Issue#14574](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/14574)|
-| `service::Gitaly` | [Gitaly Stable Counterpart Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/stable-counterpart.html) | [Issue#16271](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/16271) |
-| `service::Sidekiq` | [General Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#general-squad) | [Issue#15720](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15720) |
+| `service::Terraform`| [Foundations](/handbook/engineering/infrastructure/team/reliability/#foundations) | [Issue#17010](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/17010) |
+| `service::Prometheus` | [Observability](/handbook/engineering/infrastructure/team/reliability/#observability) | [Issue#14574](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/14574)|
+| `service::Gitaly` | [Gitaly Stable Counterpart](/handbook/engineering/infrastructure/team/stable-counterpart.html) | [Issue#16271](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/16271) |
+| `service::Sidekiq` | [General](/handbook/engineering/infrastructure/team/reliability/#general) | [Issue#15720](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15720) |
 
-#### Squad Labels
-During the traige process, issues will be routed to [Standing Squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#standing-squads) where appropriate.  See the table below for the current list of active Standing Squad Labels:
+#### Team Labels
+During the traige process, issues will be routed to a [Reliability Team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) where appropriate.  See the table below for the current list of active team Labels:
 
-| Label | Standing Squad |
+| Label | Team |
 | -------- | --------- |
-| `~Squad::Foundations` | [Reliability Foundations Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#reliability-foundations-squad) |
-| `~Squad::General` | [General Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#general-squad) |
-| `~Squad::Observability` | [Observability Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#observability-squad) |
-| `~Squad::Database` | [Database Reliability Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#database-reliability-squad) |
+| `~team::Foundations` | [Foundations](/handbook/engineering/infrastructure/team/reliability/foundations.html) |
+| `~team::Observability` | [Observability](/handbook/engineering/infrastructure/team/reliability/observability.html) |
+| `~team::Database Reliability` | [Database Reliability](/handbook/engineering/infrastructure/team/reliability/database-reliability.html) |
+| `~team::Practices` | [Practices](/handbook/engineering/infrastructure/team/reliability/practices.html) |
+| `~team::General` | [General](/handbook/engineering/infrastructure/team/reliability/general.html) |
 
 #### T-shirt Labels
 T-shirt labels are used to estimate the size of issues.  These are always a rough estimate and often need to be adjusted once the full scope of an issue is defined.
@@ -165,15 +149,15 @@ T-shirt labels are used to estimate the size of issues.  These are always a roug
 
 The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753) is reviewed twice a week by Reliability Leadership Team.  If you have an urgent issue that you believe should be prioritized ahead of other work, please reach out to any Engineering Manager on the Reliability Team to discuss.
 
-## Issue Triage 
+## Issue Triage
+
 Issue Triage is performed twice weekly by members of the Reliability Leadership Team.  The process consists of four parts.
 
 ### 1. General Triage
 
 1. Locate issues that need to be triaged using [this view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage) which shows `workflow-infra::Triage` tickets lists most recently updated issues first.
 1. Choose the first issue in the list and ask the following questions:
-    1. For issues where the squad ownership of the involved service is clear, choose a [standing squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#standing-squads) to assign the issue to and apply the appropriate [squad label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#squad-labels).
-    1. Can the issue be potentially be completed by a single SRE in less than 5 working days?  If so, add the `work::general` label.  If the scope of work is larger add the `work::project` label.
+    1. For issues where the team ownership of the involved service is clear, choose a [Reliability Team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) to assign the issue to and apply the appropriate [team label](/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels).
     1. What is the priority of the issue?  Read the issue and assign a priority as defined by [our process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  Once priority has been determined, add the appropriate [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#priority).  NOTE: Prioritized issues are reviewed by Reliability Leadership multiple times a week, so it is OK if an issue is prioritized incorrectly.
 1. Add the `workflow-infra::Ready` label.  This indicates that the issue has been through the prioritization process and is ready to be looked at by an engineer.
 1. Return the `workflow-infra::Triage` [list view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage), select the next issue in the list and put it through the same process.
@@ -201,10 +185,9 @@ The overall backlog of general issues is reviewed to assess and adjust [priority
    1. [Observability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3AObservability)
    1. [Foundations](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AFoundations)
    1. [Gitaly Stable Counterpart](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AGitaly-StableCounterpart)
-   1. [CI Runners Stable Counterpart Squad](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ACI-RunnersStableCounterpart)
-   1. [Database](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ADatabase)
+   1. [CI Runners Stable Counterpart](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ACI-RunnersStableCounterpart)
+   1. [Datastores::Postgres](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ADatabase)
 
-    
 ### 4. External Issue Review
 
 1. [All Active Incident Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Incident%3A%3AActive&first_page_size=100)
