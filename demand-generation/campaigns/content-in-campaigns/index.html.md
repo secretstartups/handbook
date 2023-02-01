@@ -141,7 +141,7 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
 
-When a GitLab team member (i.e. AR) determines that they will be purchasing or recieving content to be used in campaigns, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content, as well as creating the epics and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
+When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a decision matrix issue (Agnes will link). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
 
 All external content should be planned in advance of purchase with `at least a 30 business day time to launch date`. This allows time to plan activation into existing and future integrated campaigns and GTM Motions.
 
@@ -151,10 +151,10 @@ All external content should be planned in advance of purchase with `at least a 3
 
 ##### [Watch this video overview of the process >>](https://youtu.be/RbQ8Hr6DuQo)
 
-If you have any questions on this process, please contact `@jgragnola` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
+If you have any questions on this process, please contact `@aoetama` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
 
-1. **External Content Epics:** `Content Owner (i.e. AR, Digital, etc.)` creates epic (using code below) and associates to primary GTM Motion epic
-1. **Related Issues:** `Content Owner (i.e. AR, Digital, etc.)` creates the issues as designated in the epic code, and associates to the external content epic
+1. **External Content Epics:** `Campaign Manager` creates epic (using code below) and associates to primary GTM Motion epic
+1. **Related Issues:** `Campaign Manager` creates the issues as designated in the epic code, and associates to the external content epic
 
 As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
@@ -195,27 +195,43 @@ As a guide in developing timeline, please view the workback timeline calculator 
 [Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
-* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
-* [ ] :dart: Not an issue, but an action item for content owner: Add to HighSpot
-* [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
+
+**Content Owner**
+* [ ] :link: Not an issue, but an action item: Provide reprint link and expiration date
+* [ ] Not an issue, but an action item: Secure analyst citation review / approval
+
+**Product Marketing**
+* [ ] :dart: Not an issue, but an action item: Add to HighSpot
+
+**Campaign Managers to create**
+* [ ] :calendar: Not an issue, but an action item for campaign manager: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
 * [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
-* [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
-* [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
+* [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Assign to Content, Lifecycle & Campaigns
+* [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Assign to Campaigns
+* [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Assign to Campaigns
 * [ ] [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple Teams
 
-**Supplemental issues:** 
-* [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 
 <details>
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
-* [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page) - Analyst Relations
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing (DO NOT OPEN FOR ANALYST CONTENT)
-* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social (DO NOT OPEN FOR ANALYST CONTENT)
-* [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
-* [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
-* [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
+**Analyst Relations to create**
+
+* [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page)
 * [ ] Add to the open Product Marketing / Field Communications Planning epic (see [handbook entry](https://about.gitlab.com/handbook/sales/field-communications/#recurring-announcements) for more detail & link to latest epic) - AR
+
+
+**Campaign Managers to create**
+* [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Assign to Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Assign to digital
+* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Assign to Social
+
+
+**Product Marketing to create**
+* [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - Assign to PR
+* [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Assign to Editorial
+* [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Assign to Growth Marketing
+
 
 </details>
 
