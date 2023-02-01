@@ -43,10 +43,9 @@ Upon completion of the self paced material you will earn an official Crucical Co
 
 If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform).
 
-**FY23** 
+**FY24** 
 
-- FY23 Q3: 2 cohorts, dates TBD
-- FY23 Q4: 2 cohorts, dates TBD
+- FY24-Q1: 1 cohort, dates TBD
 
 ## Results
 
