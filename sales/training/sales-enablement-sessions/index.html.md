@@ -19,11 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Winter 2022 Lineup**
+**Spring 2023 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jan 26 | *No session during the last week of the quarter* | N/A |
+| Feb 2 | SKO Preview | Field Enablement Team |
+| Feb 9 | Channel Update | Channel Team |
+| Feb 16 | **No Session - SKO** | N/A |
+| Feb 23 | Sales Ops Update: Quote Studio | Deal Desk Team |
+| Mar 2 | FY24-Q1 Revenue Play | Marketing |
+| Mar 16 | Alliances: OCI Enablement | Alliances Team |
+| Mar 23 | FY24-Q1 Competition Corner  | Joe K. |
+| Mar 30 | TBD | TBD |
+| Apr 6 | ISV Partner Program Launch | Alliances Team |
+| Apr 13 | TBD | TBD |
+| Apr 20 | *No session during the last week of the quarter* | N/A |
+| Apr 27 | *No session during the last week of the quarter* | N/A |
+
                                                                                                                                    
 ## Past Sessions
 <details>
