@@ -12,6 +12,8 @@ title: Product Data Insights Data Models Cheat Sheet
 
 This handbook page is intended to provide a high-level overview of the most common data models used by the Product Data Insights team as well as some known nuances and/or caveats about those data models that are helpful to be aware of. 
 
+To collaborate on the content in this page, please either submit an MR (preferred) or start a discussion in [this Epic](https://gitlab.com/groups/gitlab-data/-/epics/771).
+
 ## Helpful places to start
 
 * [DBT Docs](https://dbt.gitlabdata.com/#!/overview) - This resource contains comprehensive documentation on all available dbt models. When in doubt, search DBT! 
