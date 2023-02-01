@@ -530,13 +530,13 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 ### Administrative Details of 401k Plan
  
 1. You are eligible to participate in GitLab’s 401k as of your hire date. There is no auto-enrollment. You must actively elect your deductions.
-1. You will receive an invitation from [Betterment](https://www.betterment.com) who is GitLab's plan fiduciary. For more information about Betterment please check out this [YouTube Video](https://www.youtube.com/watch?v=A-9II-zBq1k).
+1. You will receive an invitation to register for access to your account on Fidelity [NetBenefits](https://www.netbenefits.com) who is GitLab's plan recordkeeper. For more information about Fidelity, please check out this [Brainshark video](https://https://www.brainshark.com/1/player/fidelityemg?fb=0&r3f1=&custom=gitlab).
 1. Any changes to your plan information will be effective on the next available payroll.
 1. Once inside the platform you may elect your annual/pay-period contributions and investments.
-1. If you have any questions about making changes to your elections, we recommend that you reach out to Betterment directly, by chat in the app, by phone at 855-906-5281, or by email at `support@betterment.com`. There is also a [Help section](https://www.betterment.com/resources/tags/help/) on the Betterment site.
+1. If you have any questions about making changes to your elections, we recommend that you reach out to Fidelity directly, by chat in the app, or by phone at 800-835-5097. 
 1. Please review the [Summary Plan Document](https://drive.google.com/file/d/1k1xWqZ-2HjOWLv_oFCcyBkTjGnuv1l_B/view?usp=sharing) and [QDIA & Fee Disclosure](https://drive.google.com/file/d/16NeEohph3ycw7ARff240dZWTzdRshDbv/view?usp=sharing). If you have any questions about the plan or the documents, please reach out to Total Rewards at `total-rewards@gitlab.com`. Total Rewards is not able to advise you on your financial decisions.
 1. ADP payroll system monitors and will stop the 401(k) contribution when you have reached the IRS limit for the year. Please keep in mind, if you have prior contributions from another employer, ADP will not have access to this information.
-1. If your employment with GitLab terminates and you are unable to access your Betterment account due to this being connected to your GitLab email, please contact Betterment at 646-600-8263 to have the email address on file updated.
+1. If your employment with GitLab terminates and you are unable to access your Fidelity account due to this being connected to your GitLab email, please contact Fidelity at 800-835-5097 to have the email address on file updated.
  
 ### 401(k) Match
  
@@ -556,7 +556,7 @@ All employer contributions are pre-tax contributions. Team members can still mak
  
 ### 401(k) Rollover
  
-If you leave GitLab and would like to rollover your 401(k) account, contact Betterment directly to get more information about this process. If you are needed to locate your account number, you can find it by clicking Settings and then Accounts. You can reach Betterment, by Chat in the app, by phone at 855-906-5281, and by email at `support@betterment.com`. They also have a Rollovers section on their site going into detail.
+If you leave GitLab and would like to rollover your 401(k) account, contact Fidelity directly to get more information about this process. If you need to locate your account number, you can find it by clicking Settings and then Accounts. You can reach Fidelity, by Chat in the app, or by phone at 800-835-5097. They also have a Rollovers section on their site going into detail.
  
 ### 401(k) Committee
  
