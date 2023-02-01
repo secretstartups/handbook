@@ -14,14 +14,25 @@ description: "Coupa Prepaid Automation Process (as of 2022-04-01)"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-To facilitate an improved and efficient process, the Accounting Team has implemented the automation of amortization entries. The following changes will be needed when generating a new requisition in Coupa only if it is either a:
+<div class="panel panel-info">
+**IMPORTANT NOTE**
+{: .panel-heading}
+<div class="panel-body">
+
+**With the implementation of Zip effective 2023-02-01, FP&A will be responsible for the Prepaid fields in Coupa.**
+
+</div>
+</div>
+
+
+To facilitate an improved and efficient process, the Accounting Team has implemented the automation of amortization entries. As part of the review/approval process of requisitions in Coupa, the FP&A Team will determine if changes are needed if the item is either a:
 
 1. Prepayment **OR**
 1. Deposit - which is any service charge that needs to be amortized/ capitalized according to [Prepaid Expense Policy](https://about.gitlab.com/handbook/finance/accounting/#prepaid-expense-policy), or those that correspond to events or services that will occur in the future.
 
 <br>
 
-When entering a new requisition in Coupa:
+If the item is a prepayment or deposit, the FP&A Team will edit the `Cart Items` section as listed below:
 
 1. Check the box **Is this a prepaid?** if the requisition needs to be treated as Prepaid. 
 1. If **Is this is a prepaid? = Yes**, then for the **Amortization Schedule**, select **Prepaid Expense Amortization** from the drop down list.
@@ -37,7 +48,7 @@ When entering a new requisition in Coupa:
 
 <br>
 
-- Select the appropriate Commodity for this requisition. **It will no longer need a special Prepaid commodity since Coupa has been modified to recognize a Prepaid by just checking the Prepaid box.**
+- Select the appropriate Commodity for this requisition.
 
 ![coupaprepaid-image-3](/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/coupaprepaid3a.png)
 
