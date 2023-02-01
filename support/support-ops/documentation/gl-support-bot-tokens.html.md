@@ -47,6 +47,7 @@ For many of our automations, we use tokens owned by the
 | [Zap 140595556](https://zapier.com/editor/140595556/published) | Support Ops - Zap 140595556 |
 | [Zap 140604030](https://zapier.com/editor/140604030/published) | Support Ops - Zap 140604030 |
 | [Zap 155828670](https://zapier.com/editor/155828670/published) | Support Ops - Ticket Escalations |
+| [Zap 141986381](https://zapier.com/editor/141986381/published) | Support Ops - Auto-work account blocked tickets (Global) |
 
 ## Requesting a token
 
