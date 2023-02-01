@@ -22,7 +22,7 @@ The process for creating and maintaining GitLab product documentation depends on
   This documentation has the highest priority.
 
 - [Changes outside a specific milestone](https://docs.gitlab.com/ee/development/documentation/workflow.html): Usually not associated with a specific code change, is of lower priority, and
-  is open to all GitLab contributors. 
+  is open to all GitLab contributors.
 
 
 Documentation [is required](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done)
@@ -78,7 +78,7 @@ The author of this MR, either a frontend or backend developer, should write the 
 members.
 {: .note}
 
-#### Authoring 
+#### Authoring
 
 Because the documentation is an essential part of the product, if a `~"type::feature"`
 issue also contains the `~documentation` label, you must ship the new or
@@ -340,7 +340,7 @@ changes might need to happen to a team's current workflow:
   are correct. They *don't* need to worry about style, grammar, and so on.
 - The Technical Writer must be assigned the MR directly and not only pinged.
   Thanks to the ability to have
-  [multiple assignees for any MR](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#multiple-assignees),
+  [multiple assignees for any MR](https://docs.gitlab.com/ee/user/project/merge_requests/#assign-multiple-users),
   this can be done at any time, but must be before the code maintainer review.
   It's common to have both the documentation and code reviews happening at the
   same time, with the author, reviewer and Technical Writer discussing the
@@ -459,7 +459,7 @@ The Technical Writing team is always working to improve the quality of the docum
 Specifically, we are working to implement [topic types](https://docs.gitlab.com/ee/development/documentation/topic_types/).
 
 We are currently tracking updates to the [**Use GitLab**](https://docs.gitlab.com/ee/user/)
-section of the global navigation. 
+section of the global navigation.
 
 | Date         | # of pages done | # of pages total | Percent complete |
 |--------------|-----------------|------------------|------------------|
@@ -484,7 +484,7 @@ We often create documentation issues for a Hackathon. These issues are typically
      This script uses the [`Doc cleanup` issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Doc_cleanup.md).
    - Create issues one at a time by using the `Doc cleanup` issue template.
    - Create issues in bulk by using the [Issues API](https://docs.gitlab.com/ee/api/issues.html#new-issue).
-   
+
 Ensure that the labels assigned to the issues match those in the `Doc cleanup` issue template.
 
 ### Assign an issue to a community contributor
@@ -620,4 +620,3 @@ If a Technical Writer is presented with an open issue or MR with a
 `tw::finished` label that has more work required for it, the writer should
 re-add the `tw::doing` scoped label to the issue/MR, and then continue with
 the normal workflow process.
-
