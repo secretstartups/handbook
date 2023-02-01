@@ -14,16 +14,14 @@ job: "Security Architect"
 
 ### About me
 
-Hi! I'm currently a [Security
-Architect](/job-families/security/security-engineer/#security-architect) at
+Hi! I'm a [Security Architect](/job-families/security/security-engineer/#security-architect) at
 GitLab, which is a specialty on top of my [Security Distinguished
-Engineer](/job-families/security/security-engineer/#distinguished-security-engineer)
-role.
+Engineer](/job-families/security/security-engineer/#distinguished-security-engineer) role.
 
 I have an Engineering background, having graduated from the [Université de Technologie de
 Compiègne](https://www.utc.fr/en/) (France) with a Master's Degree in Computer Science.
-Nevertheless, my career almost involved an Entrepreneur aspect. This makes me a "Jack of all
-trades", and a "Master of none".
+Nevertheless, my career almost involved an Entrepreneur aspect. This makes me a Jack of all
+trades and a master of none.
 
 I have worked in the various industries, ranging from telecoms to online betting.
 
@@ -38,39 +36,68 @@ A few facts about me:
 
 ### Background story at GitLab
 
-I joined GitLab after the [acquisition of
+I joined GitLab with the [acquisition of
 Gemnasium](/press/releases/2018-01-30-gemnasium-acquisition.html) in 2018, when I become the first
-manager of the [Secure Stage](/direction/secure/). After designing and developing security products,
-I decided to switch to the other side of the mirror, and joined the [Security
+manager of the [Secure Stage](/direction/secure/). After having designed and developed security
+products, I decided to switch to the other side of the mirror, and joined the [Security
 Department](/handbook/security/) in 2020. 
 
 ![timeline](images/timeline.png)
 
+### Communicating with me
+
+I'm pretty informal, message me on Slack, send an email, or tag me on a thread, and I'll respond as
+soon as I can. I don't use TODOs in GitLab, preferring to use emails instead. This allows me to see
+updates on issues where I've been involved, without getting pinged explicitly.
+
+You can always book a slot in my agenda (during working hours) if you want to talk to me, no need to
+ask.
+
+My English is not perfect. The best way for me to improve is to correct me when I’m using wrong
+words or expressions.
+
+Also, you can tell I’m tired when my English is worse than usual! 
+
+## Working at GitLab
+
+I live by our [values](/handbook/values/) and embrace every one of them as much as I can. By
+default, I will go async via an issue or a merge request. I create a lot of issues, but they not all
+translate into an action item. I use issues as a placeholder for discussions too. Sometimes, it's
+to document why I or we think it's not a good idea to do something. We can re-evaluate the topic
+long after, and still get the context which might have changed in the meantime. 
+
+I love merge requests too, and consider them as the new workspace. They invite everyone to contribute, 
+keep track of context and changes, let us loop in whoever is needed to review or approve, and least
+but not least have a great flexibility for approval rules.
+
+I love UX and by extension simplicity, which is something I will always strive for. Complexity is
+growing exponentially, so I tend to push back on ideas that can be simplified. 
+
 ### Typical workday
 
-I wake up at 6 am, train until 8 am, breakfast until 8:30 am. I usually don’t work before this time,
-but always check my emails and slack messages when I wake up (old CEO habit).
+I wake up at 6 a.m., exercise until 8 a.m., breakfast until 8:30 a.m. I usually don’t work before
+this time, but always check my emails and slack messages when I wake up (old CEO habit).
 
-I take a 1-hour break for lunch, usually between 11:30-12:30.
+I take a 1-hour break for lunch, usually between 11:30 a.m - 12:30 p.m.
 
 I end the day around 6pm to cook dinner for the family. 
 
 I get back to the computer between 7 and 8pm. After that, Slack and emails are still in “monitor
 mode”, but it’s usually family time.
 
-### Communicating with me
+### Projects
 
-I'm pretty informal, message me on Slack, send an email, or tag me on a thread, and I'll respond as
-soon as I can.  
+I maintain the [GitLab Inventory
+Builder](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib) as well as our
+[internal inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory)
+(private project).
 
-I tend to ignore LinkedIn invitations to connect if I haven't talked at least one to the person,
-even if that person is a GitLab team member.
+### Office Hours
 
-My English is not perfect. The best way for me to improve is to correct me when I’m using the wrong
-word or expression.
-
-Also, you can tell I’m tired when my English is worse than usual! 
-
+As a Distinguished Engineer, I host Office Hours for the Security Department, but anyone else is
+free to join if you want to talk about security. These Office Hours usually happen on Mondays at
+9:30 AM PST (the event is stored in the "Security" shared calendar, available to all team members of
+the department). Reach out to me if you're not in this department and want to be invited.
 
 ### Roadmap and Vision
 
