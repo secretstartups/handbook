@@ -33,7 +33,7 @@ How elements of our cadence fit together over time:
 
 1. [Our Purpose](/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
 1. [Our Mission](/company/mission) is the way we realize that income increase, we do that by allowing **everyone to contribute**, to both our product, and our company.
-1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years.
+1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years, **AllOps**.
 1. [Our Strategy](/company/strategy/) consists of the three following **pillars** that we'll focus on over the next three years: Customer Results, Maturing the Platform, and Growing Careers.
 1. [Our Yearlies](/company/yearlies/) are annual goals to make progress to our three year strategy. We have 3 goals around every pillar, for **9 goals** in total.
 1. [Our OKRs](/company/okrs) are **quarterly objectives** to make progress towards the yearly goals. They have a hierarchy in them with which they flow from the CEO level to the level of teams.
