@@ -37,6 +37,21 @@ graph TD
 | Internal Coach | Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. Consider searching on [this list of available mentors](/handbook/people-group/learning-and-development/mentor/#find-a-mentor).
 | Alternative Professional Coach | If some reason the coaches offered via Coaching Right Now or Modern Health do not fit your needs, team members with a Job Grade 8+ can seek and get approval for alternate external coaches. |
 
+### Why you might need or want a coach
+
+Coaching is a powerful career growth tool. Individual contributors and people leaders can both benefit from coaching. It's a common misconception that coaches are a last resort resource, or only for team members who are on a performance improvement plan. It's also a misconception that coaching is only for senior leaders.
+
+Review examples of why you might want to, or benefit from, meeting with a professional coach. This list is not exhaustive. 
+
+1. A new people manager wants to define and develop their individual leadership style.
+1. An individual contributor has a general idea of their growth goals and wants to refine their goal and stay accountable.
+1. An experienced people manager is developing their communication style and skill to meet the needs of their new team.
+1. A team member is thinking about moving into a new role and wants guidance on the transition.
+1. A team member has a new manager or direct report and is trying to adapt their working style.
+
+![examples of coaching from coaching right now](why-coaching.png){: .shadow.medium.center}
+
+
 ## How coaches coach
 
 Coaches help team members focus their attention on the future while recognizing their strengths and areas for development. Coaches help the coachee tap into their potential, identify desired outcomes, and achieve goals. 
