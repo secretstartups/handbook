@@ -66,6 +66,8 @@ For information on how Field Security uses AnswerBase and how it can support you
 
 The Field Security Team has the unique privilege of conversing with and receiving feedback from both customers and fellow GitLab team members. To ensure we always support our customers, Field Security follows GitLab's [observation creation procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html) to relay customers' requirements or concerns internally to the appropriate teams. To proactively request feedback from Field Security, use the [Internal Feedback](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html#collaborate-with-field-security) button to open a request.
 
+**Note:** Field Security's observations must follow the [Field Security Observation and OFI Quality Guide](handbook/security/security-assurance/field-security/field_security_observation_and_ofi_quality_guide.html)
+
 ---
 
 ## Public Documentation
