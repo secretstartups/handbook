@@ -55,7 +55,7 @@ The UX Research Operations Coordinator (Intermediate) is a [grade 6](/handbook/t
 
 #### UX Research Operations Coordinator (Intermediate) Requirements
 
-* Some SQL query skills and willing to grow those skills.
+* Willingness to grow SQL skills.
 * Exquisite organizational skills: regularly managing multiple research projects at a time.
 * Experience in UX Research Operations Coordination or a related role that involves administration and coordination.
 * In-depth experience with scheduling sessions and communicating with internal and external participants/stakeholders. 
@@ -86,7 +86,6 @@ The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/co
 #### Senior UX Research Operations Coordinator Requirements
 
 * Extends the UX Research Operations Coordinator (Intermediate) requirements.
-* Strong SQL query skills.
 * Experience in UX Research Operations Coordination or a related role that involves administration and coordination.
 
 ## Performance Indicators
