@@ -240,7 +240,7 @@ The idea is to get them through the weekend so they can solve this with their CS
 
 A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
 
-1. Use the mechanizer app from the ticket in the `Update GitLab Plan` option and making sure to add the existing subscription name.  
+1. Use the mechanizer app from the ticket in the `Manage GitLab Plan and Trials` option and making sure to add the existing subscription name.  
 1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
 
 ## SaaS Emergencies
