@@ -9,7 +9,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-short-course/"
 
 ### Introduction
 
-In this course you will read or watch content created by the Diversity, Inclusion & Belonging team, curated from experts in the field via Linkedin Learning and hear from GitLab Team Members who are Neurodiverse. I am excited for GitLab Team Members to learn more about Neurodiversity and I want you all to remember the experiences that you will read or watch are all individuals, everyone's experience is different, what works for one person may not work for another. This course will hopefully give you some methods to help appreciate people as individuals with individual needs and to be more inclusive to neurodiverse team members. This is not a certification and the learning is a continuous process. 
+In this course you will read or watch content created by the Diversity, Inclusion & Belonging team, curated from experts in the field via Linkedin Learning and hear from GitLab Team Members who are neurodivergent. I am excited for GitLab Team Members to learn more about Neurodiversity and I want you all to remember the experiences that you will read or watch are all individuals, everyone's experience is different, what works for one person may not work for another. This course will hopefully give you some methods to help appreciate people as individuals with individual needs and to be more inclusive to neurodivergent team members. This is not a certification and the learning is a continuous process. 
 
 ### Exploring Neurodiversity 
 
@@ -46,13 +46,13 @@ Neurodiversity is an umbrella term but there are some impairments more commonly 
 
 * And then last, we have the broad area of general learning difficulties. This refers to a condition in the brain that causes difficulties comprehending or processing information and is caused by several different factors. Individuals impacted may experience difficulty learning in a typical manner, but not the inability to learn. Keep in mind that each of these conditions lives on a spectrum, just because two people identify as autistic doesn't mean they present in the same way. 
 
-My son in his early years, had difficulty speaking, exhibited stimulatory behaviors that distracted him from learning and auditory processing that made him unable to correctly hear people talking, but we knew others who were also neurodiverse and were unable to speak. All these individuals were diagnosed with autism, yet it was impacting them differently in various aspects of their life. 
+My son in his early years, had difficulty speaking, exhibited stimulatory behaviors that distracted him from learning and auditory processing that made him unable to correctly hear people talking, but we knew others who were also neurodivergent and were unable to speak. All these individuals were diagnosed with autism, yet it was impacting them differently in various aspects of their life. 
 
 It's important that your company supports the whole person, so you could include all the conditions that fall under the neurodiversity umbrella. When you think about your neurodivergent employees, consider what opportunities exist to use their special, creative and innovative talents to gain a competitive advantage.
 
 #### [Understanding the challenges for five groups via Linkedin Learning](https://www.linkedin.com/learning/hiring-and-supporting-neurodiversity-in-the-workplace/understanding-the-challenges-for-five-groups?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2255073)
 
-One of the most important reasons a professional must understand neurodiversity is to fully appreciate and acknowledge the toll working in a neuro-typical world has on many neurodivergent people. It starts with recognizing the natural differences in the way the human brain interprets information. By understanding these differences, you can begin to show empathy for those that experience life differently than you. 
+One of the most important reasons a professional must understand neurodiversity is to fully appreciate and acknowledge the toll working in a neurotypical world has on many neurodivergent people. It starts with recognizing the natural differences in the way the human brain interprets information. By understanding these differences, you can begin to show empathy for those that experience life differently than you. 
 
 So let's chat about some of the common challenges for neurodivergent people in the workplace, starting with executive functioning. 
 
@@ -72,7 +72,7 @@ So let's chat about some of the common challenges for neurodivergent people in t
 
 The key to becoming a workplace that is built for all team members is to ensure that how you operate with all team members is from a personal perspective. It is easy to have one way of doing things, whether that is how you communicate with colleagues, manage team members, how you deliver feedback and much more. 
 
-Unfortunately, those modes are not going to work for everyone, each person has different needs and this is especially true for neurodivergent team members. As we saw, there are several potential challenges that neurodivergent people can face. To combat those challenges we should be asking questions of all team members regardless of whether they are neurodiverse when we are working closely with them or managing them. We do this so those team members who do not want to disclose they have a neurodiversity, people who are undiagnosed and more generally trying to make a workplace that is inclusive so all team members can thrive. Some examples could be. 
+Unfortunately, those modes are not going to work for everyone, each person has different needs and this is especially true for neurodivergent team members. As we saw, there are several potential challenges that neurodivergent people can face. To combat those challenges we should be asking questions of all team members regardless of whether they are neurodivergent when we are working closely with them or managing them. We do this so those team members who do not want to disclose they have a neurodivergence, people who are undiagnosed and more generally trying to make a workplace that is inclusive so all team members can thrive. Some examples could be. 
 
 **1. What is your preferred work, learning & communication style?**
 
@@ -108,7 +108,7 @@ People who are neurodivergent can miss social cues or not provide certain social
 
 #### Our Team Members 
 
-You will learn from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
+You will learn from team members who are neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
 
 Kaitlyn Chappell: [Transcript](https://docs.google.com/document/d/14IXQimwsBqf8ppI3mtmDE2Ts9yhxqUCYAOKQgXRLlhE/edit?usp=sharing) - [Video](https://www.youtube.com/watch?v=FMTG9VL_bzs)
 
@@ -116,7 +116,7 @@ Matt Wilson: [Transcript](https://docs.google.com/document/d/1Ii78o4MizjGI8Hygkg
 
 Mike Lindsay: [Transcript](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG669-UwDcVuvS88JZwlw_TM4QdqsY/edit?usp=sharing) - [Video](https://www.youtube.com/watch?v=qM3FYf5sUXs)
 
-#### What can you do next: Building a more inclusive environment for neurodiverse team members 
+#### What can you do next: Building a more inclusive environment for neurodivergent team members 
 
 * Build [**team member profiles**](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) or build your own team member profile and share it with your colleagues/manager. Personalisation is key, by focussing on the team members' individual working styles, communication styles and feedback loops, you will negate the need for disclosure and allow all team members to thrive. You can use this issue template [insert template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md)
 
@@ -124,7 +124,7 @@ Mike Lindsay: [Transcript](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG66
 
 **Reasonable Accommodations**
 
-This is covered in the [Neurodiversity Resources Handbook Page](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/) but here are some articles that provide specific examples of reasonable accommodations for neurodiverse team members. 
+This is covered in the [Neurodiversity Resources Handbook Page](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/) but here are some articles that provide specific examples of reasonable accommodations for neurodivergent team members. 
 
 [Neurodiversity Hub for Employers](https://www.neurodiversityhub.org/resources-for-employers)
 
@@ -134,7 +134,7 @@ This is covered in the [Neurodiversity Resources Handbook Page](https://about.gi
 
 [Workplace Accommodations](https://www.us.specialisterne.com/workplace-accommodations-part-2/)
 
-**What can you do if someone discloses they are neurodiverse to you?**
+**What can you do if someone discloses they are neurodivergent to you?**
 
 - Team Member 
     1. Be supportive
