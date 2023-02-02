@@ -25,24 +25,9 @@ Six key topics were identified in GitLab’s materiality assessment. These key t
 
 GitLab’s current key topics are:
 
-**Environment** 
+![Six Key Topics](/images/legal/six_key_topics.png "Six Key Topics")
 
-* Climate action and greenhouse gas emissions
-
-
-**Social**
-
-* Diversity, inclusion and belonging
-* Talent management & engagement 
-
-
-**Governance**
-
-* Cybersecurity and data privacy
-* Business ethics
-* Responsible product development
-
-
+![2023 Materiality Matrix](/images/legal/Gitlab_materiality_matrix_2023.png "Materiality Matrix")
 
 ## Our Progress
 
