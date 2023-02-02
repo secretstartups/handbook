@@ -21,6 +21,7 @@ twitter_creator: gitlab
     * Tell the GitLab story through engaging events
     * Make customers the hero
     * Build lasting and trusting vendor and internal relationships
+    * Help elevate the attendee/customer's GitLab experience during events
 
 
 ## What does the Corporate Events team handle?
@@ -38,8 +39,8 @@ twitter_creator: gitlab
 
 
 ## Meet the Corporate Events Team and How to Reach Us
-* Michelle Lee - @eelellehcimebi - Corporate Events Manager
-* Suli Stuelpnagel Corporate Events Content Manager - @sstuelp 
+* Michelle Lee - Corporate Events Manager - @eelellehcimebi
+* Suli Stuelpnagel - Corporate Events Content Manager - @sstuelp 
 * Amanda Shen - Corporate Events Coordinator - @amandawshen
 
 ### Current Slack Corporate Event Channels
@@ -59,15 +60,15 @@ twitter_creator: gitlab
    </td>
   </tr>
   <tr>
-   <td><strong>#commit-standup</strong>
+   <td><strong>#commit-on-the-road</strong>
    </td>
-   <td>Communication hotline between Events, PMM, MPM, TE, Social/ PR, Community, and any other process/ planning/ logistics-specific conversations. 
+   <td>General Commit On the Road planning questions and open to all team members to ask any questions 
    </td>
   </tr>
   <tr>
-   <td><strong>#gitlabcommit</strong>
+   <td><strong>#gitlab-16-launch-virtual-event</strong>
    </td>
-   <td>General Commit related questions
+   <td>General GitLab 16 planning questions and open to all team members to ask questions
    </td>
   </tr>
 </table>
@@ -101,9 +102,9 @@ All GitLab events must check at least  three or more of the goals of our events 
 10. Promote Partnerships and Alliances
 
 
-### Corporate events must also meet:
+### Corporate Events must also meet:
 
-1. Audience minimum requirement of 5000+ attendees NA, 3000+ for other territories (50% or more of audience is national or global)
+1. Audience minimum requirement will vay based on the type of sponsored event
 2. Audience demographic requirements. We consider the balance of roles represented (contributor, user, customer, potential hires), and the Global reach of the audience. Audience profile must be over 50% national/ global.
 
 **If you are looking to request a new Corporate Event, please use the following [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Request)
@@ -134,11 +135,10 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
     * Audience Minimum Requirements- volume, relevance (our buyer persona, thought leaders, contributors), reach (thought leaders?), and duration of user/ buyer journey considered.
 * ROI
     * Work closely with Integrated Marketing colleagues to ensure events are driving results and touching the right audience.
-    * Exceed minimum threshold of ROI for any events that also have a demand gen or field component- 5 to 1 pipe to spend within a 1-year horizon.
+    * Exceed minimum threshold of 8X ROI for any events that also have a demand generation.
     * Aim to keep the cost per lead for a live event around $100.
-    * [ROI Calculator](https://docs.google.com/spreadsheets/d/1SAYGXysUHGXPKrTDFf9yRcQrh9TYNxR9_Ts6H9dq8JY/edit?usp=sharing) we aim to make 5x ROI on pipeline focused events but this can be used to estimate what return we might get on an event.
 * Thought Leadership and Education
-* Corporate Events Team OKRs are algined quarterly to the CMO OKRs. 
+* Corporate Events Team OKRs are algined quarterly to the Integrated Marketing (therefore the CMO) OKRs. 
 
 ### Tiering of 3rd party conferences 
 * Tier 1 - 
@@ -160,54 +160,11 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
     * [Leading Organization Team](/handbook/marketing/community-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
    
 
-## GitLab Commit User Conferences
+## GitLab Commit On the Road
 
-* Commit 2022- [Planning Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2534)
-* Goal Call for proposals (CFP) and agenda-setting process:
-    * 9+ months pre-event: Open an internal call for track issue (GitLab team members)
-    * 7+ months pre-event: Select Commit track(s)
-    * 6+ months pre-event: Open a public call for proposals (CFP) form and invite contributions
-        * Track manager trainings and establishment of deadlines and workflows
-    * 5+ months pre-event: Convene the CFP selection committee
-    * 4+ months pre-event: Early session acceptances begin
-    * 3+ months pre-event: CFP closes; Next round of acceptances sent
-    * 2+ months pre-event: Final acceptances sent; sponsorships close
-        * Any submissions not selected are thanked and – should the proposal be a potential fit for a future event – invited to stay in touch for participation at a later date
-        * Draft agenda is reviewed by stakeholders for strength and diversity of content and speakers
-    * 1+ month pre-event: Agenda is final and publishable
-* GitLab's event experience is unique for speakers in the hands-on approach that the Corporate Events team takes to ensure that speakers feel supported and prepared. A typical Commit speaker experience will include:
-    * Access to a speaker page with all relevant deadlines, resources, and contact information
-    * One-on-one access to a presentation support team, including the session track manager and production manager
-    * Dedicated working document or email thread between the speaker, track manager, and production manager to work through final session title, description, and slide content
-    * 2-3 Zoom meetings to discuss session flow and practice for timing, pace, and polish
-    * Weekly communication and updates
-    * Optional training and slide creation support
-* Commit Virtual for GitLab team members:
-    * We need support the day of the event with such tasks as chat moderator, booth staffing, social monitoring support…
-* Onsite at Commit for GitLab team members:
-    * You will be assigned one or multiple onsite tasks. It is critical you show up for your set duty and communicate any changes in your plans. Clean your schedule on the day of the event, as it will be a full day commitment.
-        * Tasks include:
-            * Track Scanning- it is essential you show up and stay for this if you are assigned. Our partners have paid to get leads from their talks and it is our promise to provide said leads. All talk attendees must be scanned for this purpose.
-            * Check in Support
-            * Swag table
-            * Questions/ help desk
-            * Booth Duty (Hiring, UX, Support, Security, Demo..) - do not leave the booth unstaffed. We have back up. Ask for help on coverage if you need it.
-    * Dress code: casual to business casual. Wear what you feel comfortable in. No open toed shoes for safety reasons.
-    * Team Travel
-        * Team members may come in the day before the event and stay the night of the event. No additional days will be covered unless you have arranged a special circumstance with the Commit planning team.
-        * We can only provide Visa support for speakers and external attendees for this event series.
-        * If you live within 60 miles of the event you will be asked to commute to the event unless you have a specific arrangement with the Commit planning team.
-        * If you have been approved for travel to an in-person conference/event, please request travel using the following [Event Travel Staffing Issue Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/Event-Travel-Staffing-Template.md)
-
-
-### RFP Process
-
-
-* See finance handbook for when you need to go through RFP process
-* Use RFP Templates for uniform evaluation of vendors
-    * [Questionnaire](https://docs.google.com/spreadsheets/d/154wEnFfBBOq0l_dq23LfGBWI1JHPwL1U_ERDZNjF67k/edit?usp=sharing) to send to vendors bidding
-    * [DMC RFP Template](https://docs.google.com/document/d/1dGEffBse3FMnsM3YSVDUs848AU7Rn4DJRfn2l_nTcTQ/edit?usp=sharing)
-    * Questions on using the templates ask them in the corporate-events-team Slack channel.
+* Commit On the Road - [Planning Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3618)
+* GitLab Commit On the Road, GitLab’s user conference, is an event that connects you to the ideas, technologies, and people that are driving DevSecOps transformation and is for the technology champions responsible for building, operating and securing applications. 
+* This event will be a one day event with a single track featuring GitLab team members, customers, and partners. This roadshow will start in Q2 across 10+ cities.
 
 
 ### Event Execution
@@ -273,12 +230,6 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
    <td><strong>GitLab Commit </strong>
    </td>
    <td>For all Commit Event related 
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Contribute2022 </strong>
-   </td>
-   <td>For all Contribute 2022 Nashville Event
    </td>
   </tr>
 </table>
