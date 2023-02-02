@@ -97,29 +97,79 @@ If you wish to add further privacy and security to your home network, you can fu
 
 ### How do I install the SentinelOne agent on Linux?
 
-Pre-requisite: If you are using Advanced Intrusion Detection Environment (AIDE) to monitor file integrity and detect intrusions, you will need to create an exclusion in AIDE. When both AIDE and the SentinelOne Agent are running together, AIDE is not able to update its database correctly.  AIDE tries to scan a SentinelOne Directory and cannot scan it.
+{::options parse_block_html="true" /}
 
-To resolve, in AIDE, create an exclusion for SentinelOne:
-Edit /etc/aide.conf and add the following line to the end to ignore the SentinelOne Agent mount directory: `!/opt/sentinelone/mount`
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
 
-1. [Download](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) the configuration file and appropriate installer (DEB/RPM)
-1. Get your laptop serial number - one method is `sudo dmidecode -s system-serial-number` 
-1. Edit the `config.cfg file and update `S1_AGENT_CUSTOMER_ID`.
+If you are using Advanced Intrusion Detection Environment (AIDE) to monitor file integrity and detect intrusions, you will need to create an exclusion in AIDE. When both AIDE and the SentinelOne Agent are running together, AIDE is not able to update its database correctly. AIDE tries to scan a SentinelOne Directory and cannot scan it.
+
+To create an exclusion for SentinelOne, edit `/etc/aide.conf` and add
+`!/opt/sentinelone/mount` to the end to ignore the SentinelOne Agent mount directory:
+
+```shell
+echo '!/opt/sentinelone/mount' | sudo tee -a /etc/aide.conf
+```
+
+</div>
+</div>
+
+Prerequisites:
+
+- Make sure you are using an approved [Linux distro](/handbook/it/operating-systems/).
+
+1. [Download](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) the configuration file and the appropriate installer (DEB/RPM).
+1. Get your laptop's serial number:
+
+   ```shell
+   sudo dmidecode -s system-serial-number
+   ```
+
+1. Edit `config.cfg` and update `S1_AGENT_CUSTOMER_ID`:
 
    1. Replace `tanuki` with your GitLab email username.
-   1. Replace `ABCD123` with your laptop serial number.
-   1. Verify that the edited variable is formatted correctly with a hyphen separating the GitLab email and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe@gitlab.com-ABCD1234`
+   1. Replace `ABCD123` with your laptop's serial number.
+   1. Verify that the edited variable is formatted correctly with a hyphen separating the GitLab email and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe@gitlab.com-ABCD1234`.
 
-1. `export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"`
-1. If you use the RPM package as root, run: `rpm -i --nodigest package_pathname`  
-Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
-`sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" rpm -i --nodigest  package_pathname`
-1. If you use the DEB package as root, run: `dpkg -i package_pathname`  
-Note: If you are not running as root, use the sudo command to define the absolute path and run the installer.
-`sudo S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg" dpkg -i package_pathname`
-1. Verify connectivity with `sentinelctl management status` and look for `Connectivity: On` and a valid SentinelOne URL. If this is not your result, reach out for assisstance in the #sentinelone channel.
+1. Install the package:
+
+   - For RPM:
+
+     ```shell
+     sudo rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     ```
+
+   - For DEB:
+
+     ```shell
+     sudo dpkg -i --nodigest <sentinelone>.deb S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     ```
+
+1. Wait five minutes, and then verify connectivity:
+
+   ```shell
+   sentinelctl management status
+   ```
+
+   You should see `Connectivity: On` and a valid SentinelOne URL.
+   If this is not your result, reach out for assistance in the
+   [`#sentinelone`](https://gitlab.slack.com/archives/C043PF9TU4X) channel.
+   
+### How do I calculate how much CPU is being used by SentinelOne on MacOS?
+
+If you are using Activity Monitor to monitor CPU usage, be aware that it is calculated as the percent utilized for a single CPU thread. For example, an M1 Max laptop has 10 threads, so total CPU capacity is 1000%. To view the number of threads available on your system, open Terminal and run:
+
+```shell
+sysctl -n hw.cpu
+```
+
+Expect SentinelOne to use less than 10% of total CPU power (for example, marked as less than 100% on a M1 Max).
+
 
 ### How do I collect metrics for support on MacOS due to an issue with high CPU or RAM?
+
 1. In a terminal, run:
 `sudo sentinelctl metrics enable`
 1. Reproduce the scenario that caused the issue, or run it for a few minutes. It will run in the background. You will not see output.
@@ -127,4 +177,4 @@ Note: If you are not running as root, use the sudo command to define the absolut
 `sudo sentinelctl metrics dump >> /tmp/metrics_dump.txt`
 1. Turn off metric collection:
 `sudo sentinelctl metrics disable`
-1. Share the file with #sentinelone and we will get a ticket open with SentinelOne support.
+1. Analyze the data as below, and then if needed share the file with #sentinelone and we will get a ticket open with SentinelOne support.
