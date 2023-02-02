@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "TMRG - Team Member Resource Group Guide"
-description: "An overview of what is needed to start and sustain a Team Member Resource Group or a Team Member Discussion Group"
+description: "An overview of what is needed to start and sustain a Team Member Resource Group or a Team Member Advocacy Group"
 canonical_path: "/company/culture/inclusion/erg-guide/"
 ---
 
@@ -12,7 +12,7 @@ canonical_path: "/company/culture/inclusion/erg-guide/"
 {:toc}
 
 ##  Introduction
-On this page you will be provided an overview of what is needed to start and sustain a GitLab TMRG (Team Member **Resource** Group) or a Team Member **Discussion** Group.
+On this page you will be provided an overview of what is needed to start and sustain a GitLab TMRG (Team Member **Resource** Group) or a Team Member **Advocacy** Group.
 
 ## Definition of the TMRG - Team Member Resource Groups
 TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
@@ -20,10 +20,9 @@ TMRGs are voluntary, team member-led groups focused on fostering diversity, incl
 Team Member **Resource Group** provide support for an underrepresented group
 - The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
 
-Team Member **Discussion Group** that is for the purposes of discussions and/or allyship 
-- The purpose of these groups is to provide a space for team members who would like peer and company-backed support but do not fit into the underrepresented group definition, such as early career professionals. Alternatively, these groups could provide either an avenue to perform more meaningful allyship activities and bring together ideas on how to be effective allies to underrepresented groups or discuss issues that may effect them at GitLab. There could be a variety of examples of TMDGs including allyship groups, religion & faith based groups or other areas which merit discussions. 
-
-These types of groups must have a much clearer mission and purpose. Allyship groups in particular must be action orientated. Any budget assigned to these groups should be used in support of other TMRGs or Diversity, Inclusion & Belonging initiatives. 
+Team Member **Advocacy Group**
+- Team Member Advocacy Groups provide company-backed support to GitLab team members through action, enablement and opportunity. As a result, they meet the specific and unique needs of demographics that are outside the scope of TMRGs. These groups provide education, resources, and community to enable increased visibility to leadership and the broader organization. A successful TMAG promotes team member engagement, well-being, retention, mobility and equity. 
+ 
 
 ### What is not an TMRG at GitLab
 There are many types of groups and not all of them meet the criteria of being a GitLab supported TMRG. Here are some examples of those that would not be considered TMRGs here at GitLab:
@@ -56,7 +55,7 @@ Ordered alphabetically to avoid the perception that any TMRG is more important t
 
 ## Executive Sponsorship 
 
-An Executive Sponsor can be any leader at GitLab who is at VP level or above. The role of an executive sponsor is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLabs mission & goals and provide mentorship to TMRG leaders. 
+An Executive Sponsor can be any leader at GitLab who is at VP level or above. The role of an executive sponsor is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLab's mission & goals and provide mentorship to TMRG leaders. 
 
 **Requirements:**
 - An executive sponsor does not have to be a member of the underrepresented group but has the capacity to be an ally to the group
@@ -67,7 +66,7 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 **Choosing an Executive Sponsor:**
 
 - Any E-Group member with the capacity to be an executive sponsor for a TMRG will be the first to be allocated as an executive sponsor. E-Group members should only be an executive sponsor to one TMRG but this is not a hard and fast rule. 
-- If an E-Group Member is not available for executive sponsorship, TMRG Leaders can identify a VP level team member to be their executive sponsor. This nomination by the TMRG must be approved by the E-Group in the E-Group weekly meeting. 
+- If an E-Group Member is not available for executive sponsorship, TMRG leaders can identify a VP level team member to be their executive sponsor. This nomination by the TMRG must be approved by the E-Group in the E-Group weekly meeting. 
 - Alternatively, the TMRG can ask the DIB Team to identify a suitable Executive Sponsor. Upon which the DIB Team will ask the E-Group (Via the E-Group Weekly Meeting) for recommendations from their Direct Reports who are at VP level who could be suitable executive sponsors. 
 - The Chief of Staff to the CEO or the Chief People Officer will ensure that this is added to the agenda of the E-Group Weekly Meeting when the situation occurs. 
 
