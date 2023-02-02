@@ -477,66 +477,99 @@ Take care not to burn yourself out!
 
 The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, team members can still make use of GitLab's Flexible time off policy.
 
-1. GitLab LTD (UK)
-    * Team members are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However, given the situation surrounding COVID-19 team members may be eligible to carry over unused vacation days if team members have a COVID-related reason that prevented them from being able to utilize vacation.  [UK government announcement](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19).
-1. GitLab BV (Netherlands)
-    * Team members are entitled to at least 20 statutory vacation days per calendar year. The days will accrue at 1.67 days/month from the team members start date. Any unused statutory vacation days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
-1. GitLab BV (Finland)
-    * Team members with less than 1 year of tenure are entitled to 2 days/month totaling 2 weeks per year.  Team members with 1 year or more of tenure are entitled to 2.5 day/month totaling 30 days per year.  Team members are allowed to carry over up to 24 workdays into the next calendar year, but expire 1 year from the accrual on April 1st. 
-1. GitLab BV (Belgium)
-    * Team members are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
-1. GitLab IT BV (Contractors)
-    * Contractors do not have statutory vacation requirements, but are eligible for our Flexible Time Off Policy.
-1. GitLab GmbH (Germany)
-    * team members are entitled to at least 20 vacation days. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
-1. GitLab PTY (Australia & New Zealand)
-    * Team members are entitled to a minimum of four weeks’ annual holidays per year. Annual leave does not expire and can be carried over each year.   
-    * New Zealand Only:  GitLab may set expectations on how much annual leave team members may accumulate and may require team members to take entitled leave with 14 days notice.
-1. GitLab GK (Japan)
-    * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when team members leave companies unless otherwise provided in the work rules or employment contracts.
-1. GitLab Inc. (USA)
-    * The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
-1. GitLab Ireland
-    * Team members are entitled to accrue 20 days per year at a rate of 1.67 days/month from the team member's start date. The holiday year will run from January 1st to December 31st of each year. Unused vacation days cannot ordinarily be carried forward into the following holiday year, however, if the team member is unable to take vacation due to long-term sick leave, then unused vacation days can be carried forward for up to 15 months from the end of the relevant holiday year.
-1. GitLab Korea Limited
-    * Team members with 0-1 year of service are entitled to 1 day/month or 12 days/year.
-    * Team members with 1-3 years of service are entitled to 1.25 days/month or 15 days/year.
-    * Team members with 3+ years of service are entitled to one additional day for every two years continuously worked up to 25 days/year.
-    * Accrual balances reset January 1st of every year.
-1. GitLab PTE Ltd. (Singapore)
-    * After 3 months of employment, accrual rates will be based on tenure. Team members are allowed to carry over unused vacation up to the statutory accrual limit based on tenure.
-    * 1 year of service:  7 days/year
-    * 2 years of service:  8 days/year
-    * 3 years of service:  9 days/year
-    * 4 years of service:  10 days/year
-    * 5 years of service:  11 days/year
-    * 6 years of service:  12 days/year
-    * 7 years of service:  13 days/year
-    * 8 years of service:  14 days/year
-1. GitLab S.A.S (France)
-    * Team members are entitled to a minimum of 5 weeks of statutory vacation per year. The accrual period in France is June 1st - May 31st and accruals are prorated based on the number of months worked in the accrual period.  Any unused statutory vacation days will be carried into the next accrual period, but expire one year after it's accrued. 
-    * Reduction of working time (RTT):
-The 25-day holiday entitlement is an employee's right based on a 35-hour workweek. In cases where employees need to work beyond the legal 35 hours, certain roles within GitLab may benefit from reduced working time (RTT)of up to two days per month to compensate for the extended working hours. RTT is calculated by taking the working days in the year and subtracting the contracted days. Employees cannot carry RTT days to the following year. 
-1. GitLab Canada Corp (Canada)
-    * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
-    * GitLab Canada Corp observes provincial laws regarding vacation time and vacation pay. For more information, refer to the applicable employment standards legislation of the Province in which you reside:
-        - [Alberta Employment Standards](https://www.alberta.ca/employment-standards.aspx)
-        - [British Columbia Employment Standards](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards)
-        - [Manitoba Employment Standards](https://www.gov.mb.ca/labour/standards/doc,quick_guide,factsheet.html)
-        - [New Brunswick Employment Standards](https://laws.gnb.ca/en/showfulldoc/cs/E-7.2//20220106)
-        - [Newfoundland and Labrador Labor Standards](https://www.gov.nl.ca/ecc/labour/lsaissues/)
-        - [Northwest Territories Employment Standards](https://www.ece.gov.nt.ca/en/services/employment-standards)
-        - [Nova Scotia Labor Standards](https://novascotia.ca/lae/employmentrights/docs/LabourStandardsCodeGuide.pdf)
-        - [Nunavut Labor Standards](http://www.nu-nlsb.ca/)
-        - [Ontario Employment Standards](https://www.labour.gov.on.ca/english/es/)
-        - [Prince Edward Island Employment Standards](https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/employment-standards-in-pei)
-        - [Quebec Labor Standards](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/labour-standards-quebec.pdf)
-        - [Saskatchewan Employment Standards](https://www.saskatchewan.ca/business/employment-standards)
-        - [Yukon Employment Standards](https://yukon.ca/en/employment/employment-standards)
-    * In most provinces in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
-    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
-    * Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
-    * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
+### GitLab LTD (UK)
+
+Team members are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However, given the situation surrounding COVID-19 team members may be eligible to carry over unused vacation days if team members have a COVID-related reason that prevented them from being able to utilize vacation.  [UK government announcement](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19).
+
+### GitLab BV (Netherlands)
+
+Team members are entitled to at least 20 statutory vacation days per calendar year. The days will accrue at 1.67 days/month from the team members start date. Any unused statutory vacation days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
+
+### GitLab BV (Finland)
+
+Team members with less than 1 year of tenure are entitled to 2 days/month totaling 2 weeks per year.  Team members with 1 year or more of tenure are entitled to 2.5 day/month totaling 30 days per year.  Team members are allowed to carry over up to 24 workdays into the next calendar year, but expire 1 year from the accrual on April 1st.
+
+### GitLab BV (Belgium)
+
+Team members are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
+
+### GitLab IT BV (Contractors)
+
+Contractors do not have statutory vacation requirements, but are eligible for our Flexible Time Off Policy.
+
+### GitLab GmbH (Germany)
+
+Team members are entitled to at least 20 vacation days. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
+
+### GitLab PTY (Australia & New Zealand)
+
+Team members are entitled to a minimum of four weeks’ annual holidays per year. Annual leave does not expire and can be carried over each year. 
+
+***New Zealand Only***:  GitLab may set expectations on how much annual leave team members may accumulate and may require team members to take entitled leave with 14 days notice.
+
+### GitLab GK (Japan)
+
+An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when team members leave companies unless otherwise provided in the work rules or employment contracts.
+
+### GitLab Inc. (USA)
+
+The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
+
+### GitLab Ireland
+
+Team members are entitled to accrue 20 days per year at a rate of 1.67 days/month from the team member's start date. The holiday year will run from January 1st to December 31st of each year. Unused vacation days cannot ordinarily be carried forward into the following holiday year, however, if the team member is unable to take vacation due to long-term sick leave, then unused vacation days can be carried forward for up to 15 months from the end of the relevant holiday year.
+
+### GitLab Korea Limited
+
+- Team members with 0-1 year of service are entitled to 1 day/month or 12 days/year.
+- Team members with 1-3 years of service are entitled to 1.25 days/month or 15 days/year.
+- Team members with 3+ years of service are entitled to one additional day for every two years continuously worked up to 25 days/year.
+- Accrual balances reset January 1st of every year.
+
+### GitLab PTE Ltd. (Singapore)
+
+- After 3 months of employment, accrual rates will be based on tenure. Team members are allowed to carry over unused vacation up to the statutory accrual limit based on tenure.
+- 1 year of service:  7 days/year
+- 2 years of service:  8 days/year
+- 3 years of service:  9 days/year
+- 4 years of service:  10 days/year
+- 5 years of service:  11 days/year
+- 6 years of service:  12 days/year
+- 7 years of service:  13 days/year
+- 8 years of service:  14 days/year
+
+### GitLab S.A.S (France)
+
+Team members are entitled to a minimum of 5 weeks of statutory vacation per year. The accrual period in France is June 1st - May 31st and accruals are prorated based on the number of months worked in the accrual period.  Any unused statutory vacation days will be carried into the next accrual period, but expire one year after it's accrued. 
+
+#### Reduction of working time (RTT):
+- The 25-day holiday entitlement is an employee's right based on a 35-hour workweek. In cases where employees need to work beyond the legal 35 hours, certain roles within GitLab may benefit from reduced working time (RTT)of up to two days per month to compensate for the extended working hours. RTT is calculated by taking the working days in the year and subtracting the contracted days (formula below). The accrual period for RTT days is January 1st - December 31st each year. 
+- Employees cannot carry RTT days to the following year and we encourage all team members to use RTT accruals first before statutory accruals.
+- The formula for calculating each years RTT balances is:  Days In a Year - weekend days - 25 statutory vacation days - public holidays in weekdays - 218 = RTT
+    
+### GitLab Canada Corp (Canada)
+
+GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
+
+#### GitLab Canada Corp observes provincial laws regarding vacation time and vacation pay. For more information, refer to the applicable employment standards legislation of the Province in which you reside:
+- [Alberta Employment Standards](https://www.alberta.ca/employment-standards.aspx)
+- [British Columbia Employment Standards](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards)
+- [Manitoba Employment Standards](https://www.gov.mb.ca/labour/standards/doc,quick_guide,factsheet.html)
+- [New Brunswick Employment Standards](https://laws.gnb.ca/en/showfulldoc/cs/E-7.2//20220106)
+- [Newfoundland and Labrador Labor Standards](https://www.gov.nl.ca/ecc/labour/lsaissues/)
+- [Northwest Territories Employment Standards](https://www.ece.gov.nt.ca/en/services/employment-standards)
+- [Nova Scotia Labor Standards](https://novascotia.ca/lae/employmentrights/docs/LabourStandardsCodeGuide.pdf)
+- [Nunavut Labor Standards](http://www.nu-nlsb.ca/)
+- [Ontario Employment Standards](https://www.labour.gov.on.ca/english/es/)
+- [Prince Edward Island Employment Standards](https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/employment-standards-in-pei)
+- [Quebec Labor Standards](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/labour-standards-quebec.pdf)
+- [Saskatchewan Employment Standards](https://www.saskatchewan.ca/business/employment-standards)
+- [Yukon Employment Standards](https://yukon.ca/en/employment/employment-standards)
+
+- In most provinces in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
+- ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
+- Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
+- GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
 
 | Policy Locations             | Statutory Minimum Vacation Time               | Statutory Minimum Vacation Pay             |
 |------------------------------|-----------------------------------------------|--------------------------------------------|
@@ -549,12 +582,12 @@ The 25-day holiday entitlement is an employee's right based on a 35-hour workwee
 
 Review above section `Statutory Minimum Vacation Time` for questions around dates and amounts. Due to BambooHR's settings, it cannot automatically make some adjustments to the accruals. To keep these figures accurate we must perform some manual work.
 
-##### GitLab BV (Netherlands)
-1. In **January**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure no team members are rolling over a negative balance. 
+### GitLab BV (Netherlands)
+- In **January**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure no team members are rolling over a negative balance. 
 
-1. In **June**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure team member's PTO does not exceed 10 days in accordance with The Netherlands regulations. 
+- In **June**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure team member's PTO does not exceed 10 days in accordance with The Netherlands regulations. 
 
-##### GitLab BV (Belgium)
-1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year.
-1. Review the balance from December 31st of the previous year. If this balance is negative, move to the next step.
-1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover."
+### GitLab BV (Belgium)
+- In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year.
+- Review the balance from December 31st of the previous year. If this balance is negative, move to the next step.
+- To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover."
