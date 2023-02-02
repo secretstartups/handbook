@@ -1,21 +1,21 @@
 ---
 layout: markdown_page
 title: "Neurodiversity Resources"
-description: "This page provides resources for team members, managers and those who identify as neurodiverse"
+description: "This page provides resources for team members, managers and those who identify as neurodivergent"
 canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 ---
 
 ## The purpose of Neurodiversity Resources 
 
-- Provide resources for those who identify as neurodiverse, to help them navigate remote work, management difficulties and other situations and challenges that they may face at work. 
-- Provide team members and managers+ resources to help provide a better team member experience for their colleagues and direct reports who identify as neurodiverse. 
+- Provide resources for those who identify as neurodivergent, to help them navigate remote work, management difficulties and other situations and challenges that they may face at work. 
+- Provide team members and managers+ resources to help provide a better team member experience for their colleagues and direct reports who identify as neurodivergent. 
 
-## Resources for those who identify at Neurodiverse
+## Resources for those who identify as neurodivergent
 
--  GitLab's Employee Assistance Program, [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/), offers resources to support team members that identify as Neurodiverse:
+-  GitLab's Employee Assistance Program, [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/), offers resources to support team members that identify as neurodivergent:
     - **Digital Content**: Modern Health offers [digital resources](https://my.joinmodernhealth.com/resources) that may be helpful, such as meditations for sensory mindfulness and programs that offer strategies for focus. 
     - **Coaching & Therapy**: GitLab Team Members have access to [coaching and therapy sessions](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/#care). Modern Health has counselors and therapist who specialize in working with people across the spectrum of neurodiversity. Any member can write into help@joinmodernhealth.com and ask for a provider with this kind of specialization (the more specific, the better).
-- [Neurodiverse is a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
+- [Neurodiversity as a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [ADHD in the workplace](https://www.webmd.com/add-adhd/adhd-in-the-workplace)
 - [Free neurodiversity peer mentorships](https://www.neurodiver-city.org/)
 - [Digital magazine with articles on ADD/ADHD including latest research](https://www.additudemag.com/)
@@ -24,7 +24,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [The Autistic Life Resources Store](https://www.theautistic.life/shop?Collection=Worksheets)
 - Join the [#neurodiversity](https://gitlab.slack.com/archives/CQRDJ0TLN) Slack Channel for support & community with other GitLab Team Members or to learn more about the experiences of others
 - Join the [#bodydouble_friends](https://gitlab.slack.com/archives/C03EX45QPGB) Slack Channel to find others to participate in a ["body-doubling"](https://healthyadhd.com/body-doubling-for-adhd/) virtual work session that can help you begin projects or tasks with the support of another person as a "virtual-anchor" and accountability buddy. Use this channel to request a body double session with another GitLab Team Member which aligns with our value of [collaboration](https://about.gitlab.com/handbook/values/#collaboration) and [diversity, inclusion, and belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion). 
-- Join the [#neurodiverse-coffee-chat](https://gitlab.slack.com/archives/C01LPT0LGVC) Slack Channel to get paired for a coffee chat with others in the Neurodiverse GitLab Community
+- Join the [#neurodiverse-coffee-chat](https://gitlab.slack.com/archives/C01LPT0LGVC) Slack Channel to get paired for a coffee chat with others in the neurodiverse GitLab community
 
 ## Do you want to disclose or not?
  
@@ -34,7 +34,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 
 ## Resources for Team Members and Managers+
 
-- [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) provides Coaching sessions for team members and managers supporting people in the Neurodiverse community. Team Members can schedule a coaching sessions via the modern health platform. Please reach out to the Total-Rewards@gitlab.com should you need any help with scheduling a session. 
+- [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) provides Coaching sessions for team members and managers supporting people in the neurodiverse community. Team Members can schedule a coaching sessions via the modern health platform. Please reach out to the Total-Rewards@gitlab.com should you need any help with scheduling a session.
 - [How to embed neurodiversity into your people management practices](https://www.hrzone.com/perform/people/how-to-embed-neurodiversity-into-your-people-management-practices)
 - [Autistic Advocacy Resources](https://autisticadvocacy.org/resources/accessibility/)
 - [Certified Neurodiverse Workplace](https://ibcces.org/certified-neurodiverse-workplace/)
@@ -47,7 +47,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 
 ## Team Member Profile 
 
-As a way to support all team members and ensure that neurodiverse team members who choose not to disclose or may be undiagnosed are being provided the support they need. All team members have individual needs and employing personalisation will go along way to ensuring everyone feels included. 
+As a way to support all team members and ensure that neurodivergent team members who choose not to disclose or may be undiagnosed are being provided the support they need. All team members have individual needs and employing personalisation will go along way to ensuring everyone feels included. 
 
 You can use this template (insert) to help build a simple team member profile of communication, working and feedback styles. 
 
