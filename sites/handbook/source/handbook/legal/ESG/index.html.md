@@ -25,7 +25,7 @@ Six key topics were identified in GitLab’s materiality assessment. These key t
 
 GitLab’s current key topics are:
 
-![Six Key Topics](/images/legal/six_key_topics.png "Six Key Topics")
+![Six Key Topics](/images/legal/key_topics.png "Six Key Topics")
 
 ![2023 Materiality Matrix](/images/legal/Gitlab_materiality_matrix_2023.png "Materiality Matrix")
 
