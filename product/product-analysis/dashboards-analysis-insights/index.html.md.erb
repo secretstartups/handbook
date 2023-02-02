@@ -9,15 +9,17 @@ title: PDI Dashboards, Analysis, & Insights
 - TOC
 {:toc}
 
-This is a WIP page to aggregate dashboards, analysis, and insights generated or owned by the 
+This is a page to aggregate dashboards, analysis, and insights generated or owned by the 
 Product Data Insights team.
-
-
-
 
 ### Dashboards
 
-Please see the chart below ([or follow this link](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights?widget=15499554&udv=1634665)) to see a list of the most-used dashboards that are owned by members of the Product Data Insights team.Note that viewing dashboards in the `gitlab:safe-dashboard` space may require additional steps to [obtain SAFE Dashboard access](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). If you have any questions about using and interpreting the insights from these dashboards, please reach out to the dashboard owner or tag `@product-analysts` in the `#data` channel on Slack.
+Please see the chart below ([or follow this link](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights?widget=15499554&udv=1634665)) 
+to see a list of the most-used dashboards that are owned by members of the Product Data 
+Insights team. Note that viewing dashboards in the `gitlab:safe-dashboard` space may require 
+additional steps to [obtain SAFE Dashboard access](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
+If you have any questions about using and interpreting the insights from these dashboards, 
+please reach out to the dashboard owner or tag `@product-analysts` in the `#data` channel on Slack.
 
 <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 1013112, chart: 15499554, embed: 'v2') %>">
 
@@ -29,6 +31,7 @@ Please see the chart below ([or follow this link](https://app.periscopedata.com/
 | [Stages per Organization (SpO) Deep Dive](https://app.periscopedata.com/app/gitlab:safe-dashboard/919345/Stages-per-Organization-Deep-Dive---SpO) | What are the most common stage adoption paths for new group namespaces? How does the adoption of certain stages correlate with long-term engagement, expansion, and conversion? | FY22 Q1 | Y |
 | [Cross-Stage Adoption Dashboard](https://app.periscopedata.com/app/gitlab/869174/Cross-Stage-Adoption-Dashboard) | Analyze how organizations engage with different combinations of stages | FY22 | N |
 | [Golden Journey Pathways](https://app.periscopedata.com/app/gitlab/897587/Golden-Journey-Paths) | How effectively are namespaces and instances funneling from one stage to another? | FY 22 Q3 | N |
+| [Junkmail Domain Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/939155/Growth:Conversion-SaaS-PII-Trial-Analysis) | How many junkmail and freemail domains are registering for SaaS trials? | FY22 Q4 | Y |
 | [Feature Retention](https://app.periscopedata.com/app/gitlab/1003214/Feature-Retention) | Which features continue to be used for months after its initial adoption? Sortable by delivery type (SaaS and Self-Managed) and plan tier | FY23 Q1 | N |
 | [Cancellation Reasoning](https://app.periscopedata.com/app/gitlab:safe-dashboard/919393/Cancellation-Reasoning-Dashboard) | Self-reported reasons and verbatims that Saas customers are cancelling in CustomersDot | Ongoing | Y |
 | [Trial Feature Adoption](https://app.periscopedata.com/app/gitlab:safe-dashboard/919403/Trial-Feature-Adoption-Dashboard) |  |  | Y |
@@ -50,6 +53,11 @@ Please see the chart below ([or follow this link](https://app.periscopedata.com/
 | [Stage Adoption Patterns: SCM <> Code Review <> CI](https://docs.google.com/presentation/d/1BcRhn8kJZTw8QcWSQLAk9mv72lJfk4d2jteGWCBYfo4/edit?usp=sharing) | How do organizations go from using SCM to Verify, and is Code Review used between or after these stages? | FY22 Q1 |
 | [Secure Free-to-Paid Funnel and Feature Adoption Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit?usp=sharing) | Which Secure features are the most adopted during trials and which features have the highest correlation with Ultimate plan paid conversion? | FY22 Q2 |
 | [Paid SpO Trends among Retained and Churned Namespaces](https://docs.google.com/presentation/d/1RR5qwaE2E2OUtfSgU53GMs8FHjexNx2CFJcUbtiNS-0/edit?usp=sharing) | What stage adoption trends are present when looking at churning namespaces vs.retained namespaces? | FY22 Q3 |
+| [SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit?usp=sharing) |  | FY22 Q3 |
+| [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit?usp=sharing) | Exploration into viability of different Self-Managed estimation methodologies using data models available in August 2021 | FY22 Q3 |
+| [SaaS Trial Firmographic Analysis](https://docs.google.com/presentation/d/1ME_rD5pweUKIkkD-xXsEZkWjdxqRwzxrfEqEph_dJ4o/edit?usp=sharing) |  | FY22 Q4 |
+| [SaaS & Self-Managed Purchase Funnel Analysis Overview](https://docs.google.com/presentation/d/1OGRGCia7cmXRELBmYV3-b59tmonmAQgOCPXMZ91qw5Y/edit#slide=id.g120637fa0fc_0_0) | Deep dive analysis with multiple insights for SaaS & Self-Managed purchase funnel| FY23 Q2 |
+| [FY23-Q2 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1lKAvTid3agGfgOAgmreBZBVa2_7YU5DViYw-AvRKFyM/edit?usp=sharing)| Exploration into viability of different Self-Managed estimation methodologies using data models available in July 2022 | FY23 Q2 |
 | [Characterize CI -> SAST Funnel among Free Projects](https://gitlab.com/gitlab-data/product-analytics/-/issues/709#note_1109629880) |Analysis to understand how SAST usage churns over time, and how much of this churn is due to dormant projects (that aren't using CI) vs. active projects that disable SAST. | FY23 Q3 | 
 | [Relationship between Sec Section Featuers & Ultimate Customer's Purchase Decisions](https://gitlab.com/gitlab-data/product-analytics/-/issues/624#note_1041184439) | Disection of post purchase survey data to identify how important Sec features were in motivating Ultimate plan purchases. | FY23 Q3 | 
 | [Free vs. Paid. vs OSS/EDU Subscriptions: Engagement Comparison](https://gitlab.com/gitlab-data/product-analytics/-/issues/549#note_1019828866) | Comparison of similar metrics (SpO, user-stage engagement, Service Ping Opt-In rate, version adoption rate, etc) based on subscription type (Paid, Free, OSS/EDU) | FY23 Q3 | 
@@ -57,5 +65,3 @@ Please see the chart below ([or follow this link](https://app.periscopedata.com/
 | [Quality SaaS Signup Metric 2022](https://docs.google.com/presentation/d/1xHBrnvwdMxQGqmX0TtcQz5tUYsAeU6CAMnpcDlhHUpc/edit?usp=sharing) | Covers the development of a Growth and Marketing metric used to narrow down to a subset of the Gitlab.com user population with a higher likelihood of converting to paid. | FY23 Q3 | 
 | [SaaS Team Activation Metric 2022](https://docs.google.com/presentation/d/1rJG8FaqEjfgA-Nz9Ww3blgcUwRGzri7CeKkn1e2eEHY/edit?usp=sharing) | Covers the development of a Growth and Marketing metric used to identify team actions performed in the 1st 14 days that are predictive of paid conversion and retention. | FY23 Q4 | 
 | [Delayed Value Analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/781#note_1153295255) | Studies key feature usage among Trial-to-Paid conversions and presents how trial feature adoption expedites paid feature adoption.| FY23 Q4 |
-| [SaaS & Self-Managed Purchase Funnel Analysis Overview](https://docs.google.com/presentation/d/1OGRGCia7cmXRELBmYV3-b59tmonmAQgOCPXMZ91qw5Y/edit#slide=id.g120637fa0fc_0_0) | Deep dive analysis with multiple insights for SaaS & Self-Managed purchase funnel| FY23 Q2 |
-
