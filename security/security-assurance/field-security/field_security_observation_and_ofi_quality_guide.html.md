@@ -15,7 +15,7 @@ This guide is designed to establish the quality expectations for observatiions a
 
 ## Scope
 
-This quality guide covers observations and OFIs identified by Field Security through customer [assurance activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) in accordance with GitLab's [observation management program](handbook/security/security-assurance/observation-management-procedure.html).
+This quality guide covers observations and OFIs identified by Field Security through customer [assurance activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) in accordance with GitLab's [observation management program](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html).
 
 ## Quality expectations
 
@@ -38,7 +38,7 @@ Field Security observations and OFIs should have the following characteristics:
     - Help us better support customer requests and expectations
 
 
-**Note** Field Security observations and OFIs should be created in accordance with [observation creation procedure](handbook/security/security-assurance/observation-management-procedure.html).
+**Note** Field Security observations and OFIs should be created in accordance with [observation creation procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html).
 
 
 
