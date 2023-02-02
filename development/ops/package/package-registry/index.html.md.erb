@@ -28,6 +28,41 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'ckroutil') %>
 
+## How We Work
+
+### Directly Responsible Individual (DRI)
+
+A [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to every substantial project or initiative the team works on. A project is considered substantial when the work involved is expected to span more than two milestones. When projects take that long to deliver, tasks such as the planning and breakdown of deliverables and regular async updates become increasingly important for the project's success. Therefore, it makes sense to enforce the assignment of a DRI, who will be personally accountable for those tasks.
+
+We strongly encourage everyone on the team to step forward and sign up as DRI for new projects. Ideally, all team members should experience this role over time. This promotes shared ownership, accountability and development opportunities for all team members.
+
+In case of critical, unusually long, or highly complex projects, a specific DRI with the most experience on the subject may be assigned by the Engineering Manager. In these situations, other team members may volunteer or be assigned to shadow the assigned DRI and act as backup. This provides not only a learning opportunity for newer team members but also redundancy.
+
+Apart from what is described in the [DRI handbook page](/handbook/people-group/directly-responsible-individuals/), DRIs leading projects on the team must perform the following tasks:
+
+- Make sure the epic that serves as single source of truth for the project is kept up to date, and so are the individual sub epics and issues under;
+- Make sure to consistently provide a weekly async update on the related epic. Low-level updates on sub-epics are optional. High-level updates on the root epic are required.
+- Ensure there is at least one issue ready to be scheduled on the next milestone;
+- Engage with the Product Manager to have the issue(s) ready for development scheduled in the next milestone;
+- Keep the Engineering Manager and Product Manager aware of any unexpected changes to the plan;
+- Consult and collaborate with other DRIs when inter project dependencies or blockers are identified;
+- Consult with other engineers when the project's technical scope changes.
+
+The DRI for a given project can be identified by looking at the corresponding epic's description, where a section as follows should be added:
+
+```md
+## Owners
+
+* Team: [Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/)
+* Most appropriate slack channel to reach out to: `#g_package-registry`
+* Best individual to reach out to: <!-- GitLab handle of the DRI, or "TBD" if none has been assigned yet -->
+* PM: @trizzi
+* EM: @ckroutil
+```
+
+Additionally, we maintain a list of active projects and the assigned DRI on this page, in [What Are We Working On](#what-are-we-working-on).
+
+
 ## 📈 Measuring results
 
 ### OKRs
@@ -43,3 +78,21 @@ Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/c
 We measure the value we contribute by using [performance indicator metrics](/handbook/product/performance-indicators/). The primary metric used for the Package Registry group is the number of monthly active users or GMAU.
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Package Registry" } %>
+
+### What Are We Working On
+
+Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/):
+
+| Project                                                                                                                                        | DRI                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [Automated packages import from Artifactory or Sonatype](https://gitlab.com/groups/gitlab-org/-/epics/8730)                                    | [@10io](https://gitlab.com/10io)                                                          |
+| [GitLab Events for the Package Registry](https://gitlab.com/groups/gitlab-org/-/epics/9677)                                                    | [@10io](https://gitlab.com/10io)                                                          |
+| [Phase 2 of the Package Registry cleanup policies](https://gitlab.com/groups/gitlab-org/-/epics/8021)                                          | [@10io](https://gitlab.com/10io)                                                          |
+| [Investigate: Improve the performance of package metadata generation](https://gitlab.com/gitlab-org/gitlab/-/issues/338485)                    | [@dmeshcharakou](https://gitlab.com/dmeshcharakou)                                        |
+| [Eliminating duplicate npm packages](https://gitlab.com/groups/gitlab-org/-/epics/9812)                                                        | [@dmeshcharakou](https://gitlab.com/dmeshcharakou)                                        |
+| [Key improvements for the npm registry](https://gitlab.com/groups/gitlab-org/-/epics/7037)                                                     | [@radbatnag](https://gitlab.com/radbatnag)                                                |
+
+
+## Documentation
+
+Package Registry documentation is available [here](https://docs.gitlab.com/ee/user/packages/package_registry).
