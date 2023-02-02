@@ -142,3 +142,7 @@ PS uses a file called services.yml as the single source of truth (SSoT) for offe
 ### Developing software for a new service/initiative
 
 Refer to [Developing Software For Professional Services](../professional-services-tooling) to check out our common software stack and development processes
+
+### Setting up your development environment
+
+For new Practice Engineers and Professional Services Engineers, refer to the [setting up a development environment](../development-environment) tutorial to install all the necessary underlying tools we use for development.
