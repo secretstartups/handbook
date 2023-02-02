@@ -26,10 +26,6 @@ GitLab's purpose lies at the intersection of these four circles.
 1. Passionate about: open (to contributions, transparency)
 1. Economic value: bundling into a single application 
 
-## Mission
-
-[Our mission](/company/mission) is the way we realize our purpose of increasing lifetime earnings, we do that by allowing **everyone to contribute**, to both our product, and our company.
-
 ## How we support the purpose
 
 ### Training
@@ -111,6 +107,20 @@ The DevOps Platform brings together developers, operations and security professi
 1. Allow anyone to be a creator
 1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/product/ux/performance-indicators/system-usability-scale/) score
 1. Visibility into DevOps success
+
+## Cadence and Alignment
+
+Our purpose is on a 30 year cadence 
+
+### Mission
+
+Our purpose informs [our mission](/company/mission), and our mission is the way we realize our purpose. [Our mission](/company/mission) is to make it so **everyone can contribute** by using our product, to our product, and to our company.
+
+By making it so **everyone can contribute**, we increase access for people to be creators. With more contributors and more creators, we increase both the volume and velocity of innovation. More innovation drives economic progress that [benefits consumers, businesses, and the economy as a whole](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/growth.en.html). As a result, innovation both directly and indirectly increases the total volume of available opportunities and average value of each individual opportunity. 
+
+Access to a broader set of more valuable opportunities ultimately **increases people's lifetime earnings**. 
+
+[Our mission](/company/mission) is on the same 30 year cadence as our purpose. Our purpose informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/company/cadence/). As a result, our purpose indirectly informs all of the items in [our cadence](/company/cadence/), and progress for the items on our [cadence page](/company/cadence/) like [Yearlies](/company/yearlies/) creates progress for both our mission and purpose.
 
 ## Purpose Resources 
 
