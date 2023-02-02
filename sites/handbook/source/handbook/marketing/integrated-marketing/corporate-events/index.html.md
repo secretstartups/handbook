@@ -159,6 +159,45 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
     * Large & MidMarket sales teams - Attending & setting up meetings
     * [Leading Organization Team](/handbook/marketing/community-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
    
+### Staffing 3rd party sponsored event booths 
+The Corporate Events team collaborates with teams listed above to determine who should help to staff our 3rd party sponsored event booths. We aim to have a certain number of staff to booth size ratio that enables GitLab representatives to be diverse, knowledgeable, and welcoming for attendees. The number of staff we need is also dependent on how many days the conference schedule is. We try to utilize the following formula to staff our booths:
+
+10x10 booth or smaller and a 2 day conference = 8-10 staff members 
+10x10 booth or smaller and a 3 day conference = 12-15 staff members 
+
+#### Staffing for a 10X10 Booth 
+
+Example of our staffing requirements for our 10x10 or smaller booth over 2 days:
+1-2 - Sales/Field
+6 - Demos/Technical questions 
+1 - Corp Events 
+TBD	Speakers - dependent on numbers of CFP accepted
+
+10x20 booth and a 2 day conference = 14-16 staff members 
+10x20 booth and a 3 day conference = 18-20 staff members
+
+#### Staffing for a 10X20 Booth 
+
+Example of our staffing requirements for our 10x20 booth over 2 days:
+4 - Sales/Field
+10 - Demos/Technical questions 
+1 - Corp Events 
+TBD	Speakers - dependent on numbers of CFP accepted
+
+20x20 booth or larger and a 3 day conference = 32-35 staff members  
+20x20 booth or larger and a 4 day conference = 40 staff members 
+
+#### Staffing for a 20X20 Booth
+Example of the staffing requirements for our 20x20 booth over 3 days:
+6 -	Sales/Field
+12 - Demos/Technical Questions
+4 - Host Counters
+3 - Corp Events 
+8 - Lightning Talks
+TBD	Speakers - dependent on numbers of CFP accepted
+
+These are estimated numbers that the Corporate Events team uses to account for budget and passes. Numbers may vary based on expected number of attendees at the show and how many days the conference is. We understand there are serveral business use cases where team members can travel and attend these same conferences to meet with partners, customers, and prospects. However, if the staff member is not staffing the booth or there for other purposes, the Corporate Events team is unable to cover the team member's travel and pass. 
+
 
 ## GitLab Commit User Conferences
 
