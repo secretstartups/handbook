@@ -86,14 +86,14 @@ Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party v
 
 | Step | Description | Label applied to the Vulnerability Issue | Label applied to the Deviation Request Issue |
 | ------ | ------ | ------ | ------ |
-| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `workflow::verification` , `FedRAMP DR Status::Open` | n/a |
-| 2 | Submit a Deviation Request using the appropriate issue template for review by security engineer | _label remains unchanged_ | `FedRAMP DR Status::Ready for review` (_applied automatically using the issue templates_) |
-| 3 | Security (Vulnerability Management team) performs a technical review of the vulnerability and classification/justification provided in the Deviation Request | If approved, _label remains unchanged_ or if denied, `FedRAMP DR Status::Denied` | If approved `FedRAMP DR Status::Compliance review` or if denied `FedRAMP DR Status::Denied` |
-| 4 | Security Compliance reviews and if approved, tracks vulnerability deviation on POA&M and discusses with Authorizing Official during next monthly meeting | If approved _label remains unchanged_ or if denied `FedRAMP DR Status::Denied` | If approved `FedRAMP DR Status::AO review`; If denied `FedRAMP DR Status::Denied` |
-| 5 | Security Compliance seeks Authorizing Official approval during next monthly meeting | If approved `FedRAMP DR Status::Approved`; If denied `FedRAMP DR Status::Denied` | If approved `FedRAMP DR Status::AO approved`; If denied `FedRAMP DR Status::AO denied` |
-| 6 | The DR may no longer be needed once a patch is made available and applied. | If remediated, close the issue and apply `FedRAMP DR Status::Vuln Remediated` | If remediated, close the issue and apply `FedRAMP DR Status::Vuln Remediated` |
+| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `workflow::verification` , `FedRAMP::DR Status::Open` | n/a |
+| 2 | Submit a Deviation Request using the appropriate issue template for review by security engineer | _label remains unchanged_ | `FedRAMP::DR Status::Ready for review` (_applied automatically using the issue templates_) |
+| 3 | Security (Vulnerability Management team) performs a technical review of the vulnerability and classification/justification provided in the Deviation Request | If approved, _label remains unchanged_ or if denied, `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::Compliance review` or if denied `FedRAMP::DR Status::Denied` |
+| 4 | Security Compliance reviews and if approved, tracks vulnerability deviation on POA&M and discusses with Authorizing Official during next monthly meeting | If approved _label remains unchanged_ or if denied `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::AO review`; If denied `FedRAMP::DR Status::Denied` |
+| 5 | Security Compliance seeks Authorizing Official approval during next monthly meeting | If approved `FedRAMP::DR Status::Approved`; If denied `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::Approved`; If denied `FedRAMP::DR Status::Denied` |
+| 6 | The DR may no longer be needed once a patch is made available and applied. | If remediated, close the issue and apply `FedRAMP::DR Status::Vuln Remediated` | If remediated, close the issue and apply `FedRAMP::DR Status::Vuln Remediated` |
 
-**Vulnerability Issues should remain open with the `FedRAMP DR Status::Open` label applied unless the vulnerability has been remediated.** This allows Security Compliance to keep track of DRs that still impact the FedRAMP environment. 
+**Vulnerability Issues should remain open unless the vulnerability has been remediated.** This allows Security Compliance to keep track of DRs that still impact the FedRAMP environment. 
 
 #### Grouping Multiple Vulnerabilities in a Deviation Request
 Multiple CVEs can be grouped in a single DR if **all** of the following criteria are met:
@@ -108,7 +108,7 @@ Deviation requests are often not permanent as patches are eventually made availa
 
 **Please note that the patch / fix must be in production in order to close a DR issue, not just scheduled for release.**
 
-Once the vulnerability is remediated, apply the label `FedRAMP DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
+Once the vulnerability is remediated, apply the label `FedRAMP::DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
 
 ## Exceptions
 There are no exceptions allowed to this procedure. 
