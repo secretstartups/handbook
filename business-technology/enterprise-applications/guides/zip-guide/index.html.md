@@ -40,9 +40,13 @@ Zip is available via Okta. To access the platform:
 ### How to initiate a new request?
 
 1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
-2. Click on `+New Request` on the right side of the top menu.
-3. Select the specific type of request needed.
-4. Complete the requisition form
+1. Click on `+New Request` on the right side of the top menu.
+1. Select the specific type of request needed.
+1. Complete the requisition form.
+1. If you are the requestor, then add your name, or behalf of whom you are requesting.
+1. 'What are you looking to purchase?' is asking which commodity you are purchasing. For example: if this purchase is for the Marketing team, then please select `Marketing Programs` and then the appropriate subcategory that describes your purchase.
+1. Select if the payment is to be made by a Coupa virtual card.
+
 
 ![zip-image-2](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request4.png)
 
@@ -55,6 +59,7 @@ Zip is available via Okta. To access the platform:
 **Note:** Depending on the selection for `What are you looking to purchase?`, the following question `Which detailed category best describes your purchase?` will update with the relevant response options.
 {: .alert .alert-info}
 
+### How to request a new supplier
 
 ### How to keep track of a request?
 
