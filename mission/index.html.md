@@ -79,17 +79,27 @@ by [our values](/handbook/values/){:data-ga-name="our values"}{:data-ga-location
 
 We welcome all contributors in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com){:data-ga-name="gitlab project"}{:data-ga-location="body"} so that **everyone can contribute to about.gitlab.com**. GitLab uses about.gitlab.com to share our expertise with the world and believe we can build even greater levels of trust with contributions from our team and community. We strive to provide a great experience for our existing and new community members by reviewing changes and integrating the contributions into our regularly planned updates.
 
-## Purpose
+## Cadence and Alignment 
 
-Our mission is the way we realize [our purpose](/company/purpose/) of helping people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
+Our Mission is on a 30 year [cadence](/company/cadence/#30-years){:data-ga-name="mission"}{:data-ga-location="body"}. 
 
-## Cadence
+### Purpose
 
-Our Mission is on a 30 year [cadence](/company/cadence/#mission){:data-ga-name="mission"}{:data-ga-location="body"}. [Our purpose](/company/purpose/) is on the same 30 year cycle as the mission. [Our Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"} is on a 10 year cadence. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} is on a 3-year cadence.
+Our purpose is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform, and we accomplish this purpose , 
 
-## Values
+Our mission is the way we realize [our purpose](/company/purpose/). By making it so **everyone can contribute**, we increase access for people to be creators. With more contributors and more creators, we increase both the volume and velocity of innovation. More innovation drives economic progress that [benefits consumers, businesses, and the economy as a whole](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/growth.en.html). As a result, innovation both directly and indirectly increases the total volume of available opportunities and average value of each individual opportunity.
 
-Our mission guides our path, and we live our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} along this path.
+Access to a broader set of more valuable opportunities ultimately **increases people's lifetime earnings**. 
+
+[Our purpose](/company/purpose/) is on the same 30 year cadence as our mission. Our purpose informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/company/cadence/). As a result, progress for the items on our [cadence page](/company/cadence/) like [Yearlies](/company/yearlies/) creates progress for both our mission and purpose.
+
+### Vision
+
+Our mission is the inspiration for [our vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}. Our vision is on a 10 year cadence.
+
+### Values
+
+Our mission guides our path, and our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} are the principles we live along this path.
 
 ## Customer acceptance
 
