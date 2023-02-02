@@ -16,30 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars for the Americas and EMEA timezones in the months of January and February.
+We’d like to invite you to our free upcoming webinars for the Americas and EMEA timezones in the month of February.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## January 2023
-
-### Americas Webinars
-
-#### DevSecOps/Compliance
-##### January 31st, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_EctIA046QJydBCNo4kJK3Q)
-
-### EMEA Webinars
-
-#### Advanced CI/CD
-##### January 31st, 2023 at 10:00AM-11:00AM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_by9imGk0SvaXYL1jlVugLQ)
-
 
 ## February 2023
 
