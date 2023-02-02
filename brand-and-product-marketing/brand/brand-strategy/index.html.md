@@ -36,7 +36,7 @@ In FY24, our goal is to establish a global, always-on digital presence with brea
 
 ## Objectives and Key Results (OKRs)
 
-Want to learn more about our current projects, objectives, and key results? GitLab team members can find the Brand Strategy team’s OKRs here (WIP).
+Want to learn more about our current projects, objectives, and key results? GitLab team members can find the Brand Strategy team’s OKRs [here](https://docs.google.com/document/d/1Dq29rh7oFmZlj16KkFwpdgPN3R7Iim3Eh6OwBZjNz1I/edit?usp=sharing) (soon to be added to the GitLab OKR tool).
 
 # How to work with us 
 
