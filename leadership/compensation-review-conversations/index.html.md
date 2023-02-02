@@ -53,27 +53,26 @@ After Equity planning has taken place, a more robust [Total Compensation Stateme
  
 * Avoid making future promises (For example: “In the next review, I will get you a large adjustment.”)
  
-* The FY24 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the [compensation calculator](https://comp-calculator.gitlab.net/) to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. It is important to note that all team members may perceive equity value differently based on their local tax implications, country of residence, or other factors.
- 
-* The FY24 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits.
- 
 ## Compensation Conversations Scenarios
 
 This section provides and overview of potential compensation conversation scenarios with recommendations on how to approach and navigate these conversations. Scenarios are broken out by compensation topic: cash compensation and equity refresh program. 
 
-### Total Compensation 
+### Compensation 
 
-1. **Receiving a cash increase & equity refresh grant**:
-   * Sample Script: 
+1. **Receiving a Cash Compensation Increase**:
+Sample Script: 
    * "I am so pleased to inform you that you will be getting a cash compensation adjustment and equity refresh grant as a result of this year’s compensation review. Your compensation increase is based on one or more the following factors (Talent Assessment, Location Factor/Geo Region, Benchmark change and/or Discretionary). 
    * Your salary will be increased to (insert $ amount in local currency) which is a (insert %) adjustment effective, February 1st.
-   * Your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly board approval. 
-   * Based on this increase and your current equity holdings, your potential total compensation for this fiscal year is (insert x USD) assuming a trading price of (insert USD).  
-   * Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?" 
+2. **Equity Refresh Grant (if applicable)**:
+Sample Script: 
+    * "Your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly board approval." 
+
+   * "Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?" 
+
     * **Recommended: If identified as [Key Talent](/handbook/people-group/talent-assessment/#key-talent)**: "Based on the impact you have on the business/ARR/Product/essential processes and your performance within that responsibility, I (or Senior Leadership) have identified you as Key Talent. This means we feel you fulfill a key role within GitLab and we value your skills and what you deliver to the company." 
 
 1. **Not receiving an increase or refresh grant:**   A team member is not receiving an adjustment:
-   * Sample Script:
+Sample Script:
    * "As you know, GitLab just went through our Annual Compensation Review. I wanted to inform you that you are not getting a compensation adjustment at this time. This is due to (examples below)...
        * A team member is new to the team and at the market range for your aligned role.  "You are meeting performance expectations at this time (if applicable), however, we hire new team members at a competitive market rate and considering your recent start at GitLab, we feel that you are compensated accurately for your role at this time. 
        * A team member is not receiving because they are above range for their role.   "Your compensation is above the market pay range for your role and therefore you are not receiving an additional increase as a part of the Annual Compensation Review. You are meeting performance expectations at this time (if applicable), so let's discuss what you want to work on in the future and create a [development plan](/handbook/people-group/learning-and-development/career-development/) together."
