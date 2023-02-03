@@ -636,7 +636,7 @@ From this list if any table get the data and we need to add the entry to snowfla
 
 
 ### For Derived table 
-Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in extract/zuora_revenue/README.md in repo. 
+Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in [extract/zuora_revenue/README.md](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/zuora_revenue) in repo. 
 
 ## Zoominfo
 ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to get these kind of enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
@@ -841,3 +841,14 @@ The final data ends up in Snowflake under the `TAP_ZENDESK_COMMUNITY_RELATIONS` 
 ## Xactly
 
 The Xactly data source uses a singer tap we developed in [gitlab-data/tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a daily schedule at midnight UTC and at 5:00AM UTC. The midnight UTC is the regular extract and we do an [extra](https://gitlab.com/gitlab-data/analytics/-/issues/14780#note_1185764844) extract at 5:00AM UTC incase of network errors. Network errors do occur from time to time when extracting data out of Xactly which gets resolved automatically. Instead of rerunning the extract manually with the risk of missing the SLO we do an extra try at 5:00AM UTC.
+
+## Clari
+Clari is a revenue platform currently used by GitLab to forecast salesperson sales for the quarter. Clari data is loaded into Snowflake via a custom [script](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/clari/src/clari.py), which requests data from the [Clari API](https://developer.clari.com/documentation/external_spec).
+
+For each quarter, the API returns a forecast record for each user/week/metric.
+
+The [Clari child page](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/clari-pipeline) in the handbook has more technical details, including various gotcha's such as:
+- API is not idempotent - returns only records for *current* active users, making backfills inadvisable
+- Need two DAG's to support the following edge cases: 
+    - late updated records
+    - weeks in the quarter starting prematurely
