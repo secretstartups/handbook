@@ -43,19 +43,23 @@ Please consider using the [Support::L&R::Change Customers Portal Contact](https:
 
 ## Add subscription management contact workflow
 
-<i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: We should try to always retain the original CustomersDot account with access to the Zuora subscription
-until [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) is resolved. See [Reason](#important).
-
 If a customer requests to **add** another subscription management contact without removing the current contact,
 first verify their identity as outlined under [ownership verification](#ownership-verification).
 
 Once we have received one of the verification requirements, we can proceed to add a subscription management contact:
 
-1. Locate the proper accounts in the CustomersDot and navigate to the `Edit` page
+##**Important** 
+
+Any time a CustomersDot account is linked with a `Zuora ID`, the Zuora account `Sold To` address is replaced.  When adding additional subscription managers it is important to press `save` on the cDot account properties of the original contact LAST, to ensure they remain the primary contact on their account.
+
+1. Locate the `Sold to` contact in CustomersDot and navigate to the `Edit` page
 1. Copy the `Zuora ID` and `Salesforce Account ID` from the existing account to the new account
 1. Navigate to the Zuora Customer Account and check the value of `SSPChannel`. If it is marked as **Reseller**, ensure the `Login activated` checkbox is **unchecked**.
 **Note:** Make sure you tell the customer that they cannot log in to the account because they purchased through a reseller.
 1. Click `Save`
+1. Return to the original `Sold To` contact in CustomersDot and click Save on the `Edit` page to ensure this contact remains the Sold To.
+
+
 
 ## Change subscription management contact workflow
 
