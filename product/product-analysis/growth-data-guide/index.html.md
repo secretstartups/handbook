@@ -516,7 +516,7 @@ _Provides helpful fields on every namespace such as the `dim_namespace_id`, `cre
 
 `common.dim_namespace` [(dbt)](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace)
 
-**[Data Team's Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)** 
+**[Data Team's Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)** 
 
 **[Product Data Insights documented differences between legacy and common models](https://gitlab.com/gitlab-data/product-analytics/-/issues/363)** 
 

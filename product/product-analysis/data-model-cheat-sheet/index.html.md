@@ -18,7 +18,7 @@ To collaborate on the content in this page, please either submit an MR (preferre
 
 * [DBT Docs](https://dbt.gitlabdata.com/#!/overview) - This resource contains comprehensive documentation on all available dbt models. When in doubt, search DBT! 
 
-* [Definitive guides to data subject areas](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team. 
+* [Data guides to data subject areas](/handbook/business-technology/data-team/data-catalog/) managed by the Data team. 
 
 * [Documentation on data pipelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
 
@@ -51,9 +51,9 @@ These categories are grouped by data source and subject area.
 
 * [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-* [Definitive Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
+* [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
 
-* [Definitive Guide to xMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+* [Data Guide to xMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 
 </details>
 
@@ -117,7 +117,7 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 
 * [DBT documentation on the prep_event model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event) contains compiled SQL logic to better understand any filtering applied to events. 
 
-* [Definitive Guide to xMAU Analysis](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+* [Data Guide to xMAU Analysis](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 
 * [Schema file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) containing SQL logic for the creation of each postgres table available in production.
 
@@ -225,7 +225,7 @@ This category of data models includes GitLab.com (SaaS) [namespaces](https://doc
 
 <details markdown="1"><summary>Click to expand</summary>
 
-* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) contains comprehensive documentation on namespace analytics and example SQL code. 
+* [Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) contains comprehensive documentation on namespace analytics and example SQL code. 
 
 * [This knowledge base page](https://docs.gitlab.com/ee/topics/set_up_organization.html) covers an overview of namespaces, members and groups.
 
