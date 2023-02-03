@@ -10,7 +10,7 @@ description: "Resources and direction for career development and mobility for al
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Internship for Learning
+# Internship for Learning
 
 If your manager has coverage, you can spend a percentage of your time working (through an 'internship') with another team.
 
@@ -18,7 +18,7 @@ This could be for any reason: maybe you want to broaden your skills or maybe you
 
 If your team has someone working part-time on it, it's on the manager of that team to ensure that the person has the support and training they need, so they don't get stuck. Maybe that's a buddy system, or maybe it's just encouragement to use existing Slack channels - whatever works for the individuals involved.
 
-#### How does this work?
+## How does this work?
 
 **What percentage of time should be allocated?** Well, 10% time and 20% time are reasonably common. As long as you and your manager have the capacity the decision is theirs and yours.
 
@@ -43,7 +43,7 @@ allocated headcount in the time-frame in which you complete your internship.
 
 If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](/handbook/people-group/promotions-transfers/#internal-department-transfers).
 
-#### Starting Your New Internship
+## Starting Your New Internship
 
 Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `internship_for_learning` template, and fill out the placeholders.
 
@@ -51,7 +51,7 @@ No internship for learning should be approved without both managers having a con
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
-#### Recommendations
+## Recommendations
 
 We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.
 
