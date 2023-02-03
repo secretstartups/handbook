@@ -40,7 +40,7 @@ _For passengers interested in the public sector, information within the public s
 
 _Any solutions architect is eligible to be a driver. If you opt-in, please ensure your calendar is available for others to view_
 
-To become a driver, submit an MR (or [use this open merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/117290)) to this page adding yourself to the table below and assign your manager as a reviewer.
+To become a driver, submit an MR to this page adding yourself to the table below and assign your manager as a reviewer.
 
 | Team Member            | Segment                      |
 |------------------------|------------------------------|
@@ -53,6 +53,8 @@ To become a driver, submit an MR (or [use this open merge request](https://gitla
 | **Sameer Kamani**      | PubSec                       |
 | **Linc Williams**      | PubSec USN, USMC,DHA         |
 | **Ben Ridley**         | APAC PubSec                  |
+| **Sophia Manicor**     | Americas SMB, Mid-Market     |
+| **Julie Byrne**        | Americas SMB, Mid-Market     |
 | **__**                 |                              |
 
 ##### Sync before Call
