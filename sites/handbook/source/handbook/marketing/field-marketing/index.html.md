@@ -736,10 +736,12 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 
 | Region | FM DRI | GitLab User ID | Slack Channel |
 | ------ | ------ | -------------- | -------------- |
-| [AMER - East & Canada ](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?label_name[]=East) | Beth Parker | `@BParker` |
-| [AMER - South Central & LATAM](https://gitlab.com/groups/gitlab-com/marketing/-/boards/4435497?label_name[]=South%20Central%20-%20LATAM) | Jonathan Santiago  | `@JonathanSanti` |
-| [AMER - North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Julie Wyatt | `@Julie Wyatt` |
-| [AMER - Southwest & Northwest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
+| [AMER - East - NE SE & NYC Metro](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290066?label_name[]=East%20-%20Canada&label_name[]=East%20-%20NE%20SE%20%26%20NYC%20Metro)| Beth Parker | `@BParker` |
+| [AMER - East Canada](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290066?label_name[]=East%20-%20Canada&label_name[]=East%20-%20NE%20SE%20%26%20NYC%20Metro)| Beth Parker | `@BParker` |
+| [AMER - East - South Central & Mid Atlantic](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290100?label_name[]=East%20-%20South%20Central%20%26%20Mid%20Atlantic&label_name[]=East-%20LATAM)| Jonathan Santiago  | `@JonathanSanti` |
+| [AMER - East - LATAM](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290100?label_name[]=East%20-%20South%20Central%20%26%20Mid%20Atlantic&label_name[]=East-%20LATAM) | Jonathan Santiago  | `@JonathanSanti` |
+| [AMER - West -Northwest & North Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290156?label_name[]=WEST%20-%20NW%20%26%20North%20Central) | Julie Wyatt | `@Julie Wyatt` |
+| [AMER - Southwest & Bay](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5290054?label_name[]=WEST%20-%20SW%20%26%20Bay%20Area) |  Lisa Rom | `@lrom`  |
 | [AMER - Public Sector DoD/NSG/Alliances](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey |  `@KiraAubrey` |
 | [AMER - Public Sector SLED/Civ](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Haley McComber |  `@Haley McComber` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Kate Baker | `@kbaker4` |
