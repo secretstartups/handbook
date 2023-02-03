@@ -68,11 +68,9 @@ For information on how to position Professional Services to your customer, see [
 Often we are asked "what is your lead time for getting started with a project" or a customer may have a specific timeframe in which they want a project delivered.
 As there may be many projects and proposals in flight at any time, there are a few rules we use when prioritizing and scheduling engagements:
 
-* No engagement schedule can be committed to until the PS Opportunity is closed/ won and the PS Project Coordinator has scheduled the project on the PS Calendar. While we can make a good faith effort to try and match a schedule ahead of that time, to be fair to customers who have committed to a services engagement we must prioritize those first.
-* Our typical lead time for starting an engagement is 4- 6 weeks or less, but this can vary as we scale the team and engagements.
-* Please, check with the PS Project Coordinator by tagging the group `@ps-scheduling` for the latest lead time details in the [professional services slack channel](#slack) if you need a more accurate estimate.  
-* Depending on the lead time and if the opportunity is working to close the PS Project Coordinator will track the opportunity and start planning tentative project dates in anticipitation of the executed sow and opportunity updated to "Close/Won". 
- 
+* No engagement schedule can be committed to until the PS Opportunity is closed/ won and the PS Operations team has scheduled the project. While we can make a good faith effort to try and match a schedule ahead of that time, to be fair to customers who have committed to a services engagement we must prioritize those first.
+* Please, check with the PS Operations Team by tagging the group `@ps-scheduling` for the latest lead time details in the [professional services slack channel](#slack) if you need a more accurate estimate.  
+* The PS Operations team does review projects that are SFDC Stage 5.  As we strive to start the projects within days of the SFDC Stage of closed/won.    
 
 
 #### Custom services SOW creation and approval
@@ -112,6 +110,6 @@ Please do not commit any project start dates prior to the SOW/contracts being si
 
 Once the opportunity is updated to Close/ Won, here are the next steps:
 
-- The PS Project Coordinator will review the SOW and Order Form and work to set up the project in Mavenlink.
+- The PS Project Coordinator will review the SOW and Order Form and work to set up the project in Kantata
 - The PS Project Coordinator will reach out the account team for the customer contacts if the information has not been provided in the Project Scheduling Intake issue.
 - The PS Project Coordinator will send a Welcome to PS email within 72 business hours of the opportunity booking to the customer and copy the account team and Professional Services leaders.
