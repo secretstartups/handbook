@@ -15,22 +15,18 @@ description: "This page serves as the Channel Operations team page and includes 
 {::options parse_block_html="true" /}
 
 
-
-# Welcome to the Channel Operations page
-
-## _Pinned Announcement_
-New partner program changes are effective on August 15, 2021. Please visit the [Channel Ops Document Library](https://docs.google.com/document/d/1K12I8-UOuC6f92duKB24iypOo_igox1bQMMbUooqbx0/edit) for updates and collateral. For information about the program, visit the [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/).
+# Welcome to the Channel Operations Page!
  
 ## Meet the Team
 ### Who We Are
 - Colleen Farris - Senior Director, Channel and Alliance Operations
-- Niles Jamshaid - Manager, Partner Operations
-- Dennis Zeissner - Partner Operations Analyst
+- Niles Jamshaid - Senior Manager, Partner Operations
+- Dennis Zeissner - Senior Partner Operations Analyst
+- Yinying Huang - Partner Operations Manager
 - Nick Scala - Director, Channel Operations
-- Bhano Pippala - Channel Operations Specialist
-- Jeff Cho - Channel Operations Specialist
-- Morgan Fuller - Channel Operations Specialist
-- Nikhil Mordia - Channel Operations Specialist
+- Bhano Pippala - Channel Sales Operations Analyst
+- Jeff Cho - Channel Sales Operations Analyst
+- Morgan Fuller - Channel Sales Operations Analyst
 - Marcella Summers - Manager, Alliance Operations
 - Jack Cassidy - Alliance Operations Analyst 
 
@@ -41,13 +37,13 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Onboard new alliance partners, develop and document quote-to-cash processes and best practices
 - Collaborate with our alliance partners, marketplace vendors, and internal departments to create systems integrations that support marketplace transactions
 
-#### Channel Operations (Nick, Bhano, Jeff, Morgan, Nikhil)
+#### Channel Operations (Nick, Bhano, Jeff, Morgan)
 - Develop, manage, and improve operational processes for the Channel (Distributor and Reseller) sales organization
 - Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g., opportunities, quotes and orders, pricebooks, reporting)
 
 Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreadsheets/d/1kzlowacL9c5bh3C5lN2FWVA9gFO8RXf2OmFg8qmd69E/edit?usp=sharing) for details on Channel Operations Specialist alignment by Geo, Channel Sales Director, and Distributor.
 
-#### Partner Operations (Niles, Aura, Dennis)
+#### Partner Operations (Niles, Dennis, Yinying)
 - Operationalize process changes for the partner organizaition (Channel and Alliances)
 - Translate business requirements to technical deliverables, test deliverables in staging environments, deploy changes and communicate process changes to the broader field team
 - Oversee compensation close cycles, SSOT reporting and process automation
@@ -61,6 +57,8 @@ If you are reporting a problem or have suggestions, changes, or similar, please 
 On the [Channel Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops), each column represents a type of request (feature request, alliances, data & reporting, etc.). When you submit a request to the Channel Operations board, the team will assign the issue and add the corresponding tags. The Channel Operations Board also uses progress tags on issues to show the status of open issues. Each issue is updated regularly with notes and progress tags and should be checked before reaching out to the team for status updates. 
  
 To open an issue with Channel Operations and select [New Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues).
+
+#### Issue Templates
 
 [**Utilizing Issue Templates:**](https://docs.google.com/presentation/d/13E7WITgquG-oqnvTwP_aIh4zdqbMnRjB1NCZEX7Xc1U/edit#slide=id.g20a53d489f_0_213) In an effort to have a standard way of taking in requests from the cross-functional teams and help **guide users** through providing the right information to diagnose issues, the Channel Operations team has created issue templates.
 
@@ -594,7 +592,9 @@ Distributor and Reseller partners can access the [Partner Portal](https://partne
 
 Price Files can be found [in this folder](https://drive.google.com/drive/folders/1pouTUH1BHNQjKt-lNsIEu5IQppIRinbg).
 
-**Only Channel Managers should be sharing Channel Price Files. **When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or download a copy and email to a partner. No partners should be given access to this folder. 
+Only Channel Managers should be sharing Channel Price Files. 
+
+When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or download a copy and email to a partner. No partners should be given access to this folder. 
  
 ### Naming Conventions and Which File to Use
  
@@ -617,9 +617,9 @@ Once the price book is updated, Channel Operations will tag the product and prof
 
 The following departments/people will be tagged for gathering this information:
 
-* **Professional Services** - Bryan May 
+* **Professional Services** - Bryan May, Brian Will 
 * **Channel Services** - Boughty Canton
-* **Product/Finance** -  Mark Quitevis 
+* **Product/Finance** -  Brian Wong 
 
 The following departments/people will be tagged for FYI/Additional Input:
 
@@ -634,7 +634,9 @@ After all product approvals are complete, Channel Operations will request approv
 * **Programs:** Ed Cepulis
 * **Public Sector**: Chris Novello
 
-***For updates to core GitLab products (Ultimate and Premium), exceptions will be made. **Please reach out to the #channel-programs-ops Slack channel for assistance. 
+Please reach out to the #channel-programs-ops Slack channel for assistance. 
+
+*Exceptions can be made for updates to core GitLab products (Ultimate and Premium)
 
 ### Internal Price File Communications
 
@@ -643,14 +645,8 @@ Channel Operations will post a message on the slack channel #partner-fyi to shar
 ### External Price File Communications
 
 Updated Price Files will be uploaded to the Partner Portal approximately 30 days before the upcoming fiscal quarter. 
-The following contacts will provide updated Price Files directly to distributors and work with the distributor to ensure any applicable contract vehicles are updated (e.g., Public Sector contracts):
 
-- Commercial - David Forsch
-- Public Sector - Pilar Meija 
-
-### Channel Operations SKU/Price Change Tracker
-
-The Channel Operations team maintains an internal SKU/Price Change tracker to keep the channel teams updated on product launches and pricing changes. This is not meant to replace the responsibility of the above departments to communicate any SKU or pricing changes.
+Channel Operations will share a copy of the pricelists to the main contacts of each distributor and work with the distributor to ensure any applicable contract vehicles are updated (e.g., Public Sector contracts).
 
 ## SFDC Channel Manager Activity Tracker
 
