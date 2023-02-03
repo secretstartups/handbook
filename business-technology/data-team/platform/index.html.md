@@ -93,6 +93,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 |                                                    [Adobe / Bizible](https://experienceleague.adobe.com/docs/bizible/using/home.html) |                                            [Airflow](https://airflow.gitlabdata.com/home)                                             |             `bizible`             |          `sensitive`          |             Marketing             |  24h / 36h  |  No  | Tier 2 |
 |                                                                                                [Airflow](https://airflow.apache.org/) |                                                 [Stitch](https://www.stitchdata.com/)                                                 |         `airflow_stitch`          |           `airflow`           |             Data Team             |  24h / 24h  |  No  | Tier 3 |
 |                                                                                                 [BambooHR](https://www.bamboohr.com/) |                                            [Airflow](https://airflow.gitlabdata.com/home)                                             |            `bamboohr`             |          `sensitive`          |              People               |  12h / 24h  |  No  | Tier 2 |
+|                                                                                                 [Clari](https://www.clari.com/) |                                            [Airflow](https://airflow.gitlabdata.com/home)                                             |            `clari`             |          `clari`          |              Sales               |  24h / 24h  |  Yes  | Tier 2 |
 |                                                                                                     [Clearbit](https://clearbit.com/) |                                                                   x                                                                   |                 x                 |               x               |               x / x               |             |  No  | Tier 3 |
 | [CustomersDot](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) |                        [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline)                        |          `tap_postgres`           |          `customers`          |              Product              |   24h / x   |  No  | Tier 1 |
 |                                                                                             [Demandbase](https://www.demandbase.com/) |  [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake)   |           `demandbase`            |         `demandbase`          |             Marketing             |   24h / x   |  No  | Tier 2 |
@@ -856,10 +857,10 @@ As of right now (subject to further iterations and changes), the steps are the f
 1. A Sales Analyst works on a Python Notebook (example notebook) and makes it ready for production (making sure the cell execution results are cleared, no local variables/secrets are laying around etc.)
 2. The Sales Analyst uploads the notebook and its respective query in the corresponding folder, depending on what schedule the notebook should run on. The available schedules (and therefore folders) under https://gitlab.com/gitlab-data/analytics/-/tree/master/sales_analytics_notebooks are:
 
-	- daily - daily at 6AM
-	- weekly - every Monday at 6AM
-	- monthly - every 7th day of the month, at 6AM
-	- quarterly - every 7th day of the quarter, at 6AM
+    - daily - daily at 6AM
+    - weekly - every Monday at 6AM
+    - monthly - every 7th day of the month, at 6AM
+    - quarterly - every 7th day of the quarter, at 6AM
 
 This has been implemented by creating 4 main DAGs (one per schedule) consisting of as many tasks as there are notebooks for that schedule. New tasks are dynamically added to the DAG as notebooks are committed to the repository.
 
