@@ -62,4 +62,11 @@ Please see the Scheme Conditions in the [Unilateral Employer Decision Life & Dis
 #### Applying for Parental Leave in France
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
+## Gitlab France S.A.S. Paid Time Off (Vacation)
+* Team members can review statuatory requirements for paid time off in relation to vacation as per this Handbook [page](https://about.gitlab.com/handbook/paid-time-off/#gitlab-sas-france).
+* Team members should always submit their leave via [PTO by Deel](https://about.gitlab.com/handbook/paid-time-off/#pto-by-deel) in Slack & also via the [Mihi Platform](https://2.mihi.info/Account/Login?ReturnUrl=%2F). _Please note_, the mihi platform currently tracks other leave such as RTT days where required. 
+
+## Tracking Working Hours
+* Team members located in France are required to track their working hours via the Mihi platform. If you do not have access please reach out to the Global Upside team for further assistance. Please include people-connect@gitlab.com and leaves@gitlab.com in the CC field.
+
 
