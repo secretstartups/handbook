@@ -26,21 +26,32 @@ We [hire smart humans to provide smart support](/handbook/support/workflows/how-
  - time, efficiency and your own energy
 
 Calls can be a vulnerable experience that hit on core human fears:
+
+**Ignored (Opposite of Significant)**
+ - **Being lost** - in a call with many stakeholders, not being able to influence the group towards the right outcome
+ - **Being trapped** - not being able to control or escape a tense or challenging situation
+ - **Being alone** - having no support or guidance as you work through a challenging situation
+
+**Humiliated (Opposite of Competent)**
  - **Being wrong** - providing incorrect information or poor guidance
+ - **Being thought of as incompetent** - operating from an area of weakness when there are opportunities to contribute your strengths 
+ - **Being drained** - spending so much energy on preparing, running and following-up on a call you don't have energy to contribute elsewhere
+
+**Rejected (Opposite of Likeable)**
  - **Being in conflict / tension** - having to work with customers in heightened emotional states 
  - **Being rejected** - having a customer judge you as insufficient, incompetent or inadequate to meet the challenge 
- - **Being drained** - spending so much energy on preparing, running and following-up on a call you don't have energy to contribute elsewhere
- - **Being alone** - having no support or guidance as you work through a challenging situation
- - **Being trapped** - not being able to escape a tense or challenging situation
- - **Missing out** - operating from an area of weakness when there are opportunities to contribute your strengths 
+ - **Being attacked** - an angry customer yells at you or insults you
 
-If you're feeling one of the results of one of these headwinds it can be easy to rationalize why you shouldn't move the ticket to a call. The feelings you're feeling though shouldn't be ignored. Before judging whether or not to move to a call: 
+If you're feeling the results of any of these headwinds it can be easy to rationalize why you shouldn't move the ticket to a call. The feelings you're having shouldn't be ignored. Before judging whether or not to move to a call: 
 
 1. **Stop** and experience what you're feeling without judgement.
 1. **Be curious about your feelings**: is any of your resistance related to a core fear?
 1. **Try and separate out the facts of the case**: form ["steel man" arguments](/handbook/values/#assume-positive-intent) for resolution time, SSAT or customer experience to round things out.
 1. **Empathize** with the customer and try and see the case from their perspective.
 1. **Talk with a peer or manager** to give yourself a second / more objective opinion.
+
+### It goes both ways
+Customers also have fears going into calls... 
 
 ## When should a ticket go to a call?
 
