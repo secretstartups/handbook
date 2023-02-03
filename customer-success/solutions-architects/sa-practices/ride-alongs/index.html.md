@@ -52,6 +52,7 @@ To become a driver, submit an MR (or [use this open merge request](https://gitla
 | **Idir Ouhab Meskine** | EMEA Enterprise              |
 | **Sameer Kamani**      | PubSec                       |
 | **Linc Williams**      | PubSec USN, USMC,DHA         |
+| **Ben Ridley**         | APAC PubSec                  |
 | **__**                 |                              |
 
 ##### Sync before Call
