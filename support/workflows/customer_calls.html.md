@@ -182,7 +182,7 @@ This will (potentially):
 - allow you to cancel the call completely
 - give you breathing room in the call to point to previously documented answers within the ticket
 
-Remember: you don't have to solve everything while you're on the call. It is okay to schedule a follow-up if you hit time or knoledge constraints. Here are some phrases that could be helpful in moving _back_ to async:
+Remember: you don't have to solve everything while you're on the call. It is okay to schedule a follow-up if you hit time or knowledge constraints. Here are some phrases that could be helpful in moving _back_ to async:
 
 1. _I'll need to do some additional research on that and follow-up with you in the ticket._
 1. _To the best of my knowledge, the answer is X - but let me confer with a subject matter expert and get back to you._
@@ -214,14 +214,14 @@ for that, please modify it as you see fit.
 
 Example:
 
-> Today we're going to be looking at the configuration of your object storage for attachements. In the ticket you were able to provide the `values.yaml` for the deployment and we were able to capture some errors for viewing attachments. We were also able to verify that attachments were correctly being stored in S3. We haven't been able to verify if the IAM roles you're using have appropriate permissions to retrieve objects. We're going to spend 30 min. today running through a few scenarios that I've detailed in the ticket.
+> Today we're going to be looking at the configuration of your object storage for attachments. In the ticket you were able to provide the `values.yaml` for the deployment and we were able to capture some errors for viewing attachments. We were also able to verify that attachments were correctly being stored in S3. We haven't been able to verify if the IAM roles you're using have appropriate permissions to retrieve objects. We're going to spend 30 min. today running through a few scenarios that I've detailed in the ticket.
 
 
 ## Tips for making calls successful
 
 1. **Come prepared**: do your research, have a plan for how the call should go
 1. **Be curious**: Sometimes things don't go according to plan and you'll have to adapt your plan, or end the call early and come up with a new plan.
-1. **Treat customers as a technical peer**: Be courteous and professional, but be human and try and connect with the other humans on the call.
+1. **Treat customers as technical peers**: Be courteous and professional, and be human and try to connect with the other humans on the call.
 1. **If you don't know, say you don't know (and what you'll do to find the answer)**: customers don't expect you to know the intimate details of every configuration of GitLab live. If you don't know, that's okay - it's better to be transparent and explain what the path forward is. You can:
    - look things up in the docs live on the call
    - move async to [request help from development](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) or a peer
@@ -246,7 +246,7 @@ Depending on the specifics of the situation you may need to [get manager help](#
 1. **Provide a path forward**: what's the next step? What homework do you have? What homework does the customer have?
 1. **Agree on conditions to rejoin**: Will you meet once you've finished reproduction in your own environment? Will you set a time tomorrow or later in the week to continue the work?
 
-Overall: communicate that the customer can trust that you and that you are proactively managing the situation.
+Overall: communicate that the customer can trust you and that you are proactively managing the situation.
 
 A customer who has an understanding of what work will happen next and has secured commitments from you (that you will fulfill) for how you'll engage in the future will feel taken care of.
 
@@ -259,7 +259,7 @@ Managers can be called in by [paging the on-call manager](/handbook/support/on-c
 
 ### Customer No Shows
 
-There are many reasons that a customer may not be able to join a call. If a customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link to schedule a new call. Your response on the ticket should just state that you're sorry you didn't get a chance to meet and would they please use the link to schedule a new call.
+There are many reasons that a customer may not be able to join a call. If a customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link to schedule a new call. Your response on the ticket should just state that you're sorry you didn't get a chance to meet and that you invite them to use the link to schedule a new call.
 
 ## Post-call
 
