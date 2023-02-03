@@ -31,15 +31,23 @@ Navigate to career development resources located throughout the GitLab handbook:
   </div>
 </div>
 
-### Learning Programs
+### Career Growth Opportunities
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/people-group/learning-and-development/internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-purple" style="width:200px;margin:5px;">Career Development Workshop</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/skill-of-the-month" class="btn btn-purple" style="width:250px;margin:5px;">Skill of the Month Recordings</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:250px;margin:5px;">Programs for Individual Contributors</a>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Work with a Coach</a>
+    <a href="/handbook/people-group/learning-and-development/elevate/" class="btn btn-purple" style="width:200px;margin:5px;">Elevate Manager Training</a>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/#how-to-access-linkedin-learning" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning Courses</a>
+    <a href="/handbook/people-group/learning-and-development/self-paced-learning/#linux-foundation-courses" class="btn btn-purple" style="width:200px;margin:5px;">Linux Foundation Courses</a>
+    <a href="/handbook/people-group/learning-and-development/self-paced-learning/#oreilly-learning" class="btn btn-purple" style="width:200px;margin:5px;">O'Reilly Learning</a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#professional-developmentcertificationslicenses" class="btn btn-purple" style="width:200px;margin:5px;">Professional Certifications</a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#workshops-and-conferences" class="btn btn-purple" style="width:200px;margin:5px;">Attend a Workshop/Conference</a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training" class="btn btn-purple" style="width:200px;margin:5px;">Crucial Conversations</a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#academic-study" class="btn btn-purple" style="width:200px;margin:5px;">Academic Study</a>
+    
   </div>
 </div>
 
