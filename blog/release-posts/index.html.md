@@ -69,7 +69,7 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 ### On the 18th
 
 - At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, another **release post automation** task ([scheduled pipeline](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L290-299); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L373-399)) performs content assembly
-- **Release Post Manager** adds the [MVP](#mvp) for the release and selects a cover image
+- **Contributor Success** adds the [MVP](#mvp)
 - **Release Post Manager** picks features to highlight and creates the introduction content
 
 ### 18th - 20th
@@ -189,7 +189,6 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Running a weekly sync or async standup with the release post team (sync standup required for major releases)
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Including the Release Post Manager Shadow as much as possible on activities so they learn prior to their rotation
-- Soliciting/collecting votes for the [MVP](#mvp), getting the write-up from the nominator of the winning candidate
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
@@ -543,7 +542,6 @@ The TW Lead is responsible for a final review of:
 - [Release post top feature](#top-feature) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
 - [Release post primary features](#primary-features) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
 - [Frontmatter check](#frontmatter)
-- [MVP check](#mvp-entry)
 - Verifying the deprecations and removals sections in the release post link to GitLab the corresponding pages in GitLab Docs.
 
 While individual TW reviewers and product managers have ultimate responsibility for the style and language of their release post items, including [deprecations, removals, breaking changes](#deprecations-removals-and-breaking-changes), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found.
@@ -631,15 +629,6 @@ If you want only the release number to be dark, uncomment
 
 These two variables work independently; you can assign either of them
 or both of them to the same post.
-
-### MVP entry
-
-As the TW Lead, you're responsible for reviewing the entry for the [MVP of the month](#mvp).
-This MR has **not** been reviewed by any other TW. For this MR, you'll check this MR for:
-
-- Consistency, as requested by the PMM.
-- All links from the MVP description.
-- "Look and feel" as built. Sometimes it's better to collect all info for the MVP in one or two paragraphs.
 
 ### Versioned documentation release
 
@@ -830,30 +819,9 @@ Should you prefer to continue to contribute to an issue under active development
 
 ### MVP
 
-The Release Post Manager will solicit [MVP](/handbook/marketing/community-relations/code-contributor-program/#appreciation-for-highlighted-contributions) nominations via an [MVP Issue](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L45) and [instructions in the Release Post MR](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L246).
+The Contributor Success team is taking over the process of soliciting nominations, choosing an MVP, and adding the content to the release post. ([Issue](https://gitlab.com/gitlab-org/quality/contributor-success/team-task/-/issues/163))
 
-#### Process and eligibility
-
-- The Release Post Manager will choose an MVP based on feedback in the MVP Issue.
-- They should not wait for consensus.
-- There can only be one MVP per release post.
-- A contributor is eligible to be MVP once per major release cycle. For example, if they are MVP during any 13.* milestone, they cannot be an MVP again until the 14.0 milestone.
-- The MVP will receive a GitLab swag pack in celebration of their contribution.
-
-#### MVP content block
-
-The MVP section should contain:
-
-- A brief description of the feature.
-- A link to the GitLab profile of the MVP.
-- A link to the issue, MR, issue board, or epic that introduced the change by the MVP.
-
-If it is a major feature, it must be accompanied by:
-
-- A `top`, `primary`, or `secondary` feature content block.
-- A link to the content block from the MVP section.
-- A link to any relevant documentation.
-{:.alert .alert-warning}
+The release post manager no longer has any MVP-related tasks.
 
 ### Features
 
