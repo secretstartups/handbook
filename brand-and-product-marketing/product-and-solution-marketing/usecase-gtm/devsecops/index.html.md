@@ -465,7 +465,7 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 
 ### Blogs
 * [How application security engineers can use GitLab to secure their projects](https://about.gitlab.com/blog/2020/07/07/secure-stage-for-appsec/)
-* [How to capitalize on GitLab Security tools with external CI](https://about.gitlab.com/blog/2020/07/10/jenkins-migration/)
+* [How to capitalize on GitLab Security tools with external CI](https://docs.gitlab.com/ee/integration/jenkins.html)
 
 ### Other DevSecOps Videos
 * [Deep Dive into a Security demo](https://youtu.be/k4vEJnGYy84)

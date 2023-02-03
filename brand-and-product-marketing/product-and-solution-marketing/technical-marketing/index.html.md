@@ -154,7 +154,7 @@ GitLab Technical Marketing Demo Resources - (Planned Q2)
 
 [How to secure your dependencies with GitLab and WhiteSource](https://about.gitlab.com/blog/2020/08/10/whitesource-for-dependency-scanning/) - Aug 10, 2020 
 
-[How to capitalize on GitLab Security tools with external CI](https://about.gitlab.com/blog/2020/07/10/jenkins-migration/) - Jul 10, 2020 
+[How to capitalize on GitLab Security tools with external CI](https://docs.gitlab.com/ee/integration/jenkins.html) - Jul 10, 2020 
 
 [How GitLab's application security dashboard helps AppSec engineers](https://about.gitlab.com/blog/2020/07/07/secure-stage-for-appsec/) - Jul 7, 2020
 
