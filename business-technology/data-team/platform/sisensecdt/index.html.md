@@ -157,11 +157,11 @@ Our [dbt Docs site](https://dbt.gitlabdata.com/) lists all of the tables availab
 </div>
 </div>
 
-#### Definitive Guides
+#### Data Guides
 
-* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
-* [Definitive Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/)
-* [Definitive Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+* [Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
+* [Data Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/)
+* [Data Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 
 #### Dashboard Hubs
 

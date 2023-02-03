@@ -160,10 +160,11 @@ The Data Directory is designed to provide quick access to / better organize key 
   <summary markdown="span">Enablement Resources</summary>
   
   * [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/) 
-  * [Definitive Guide to xMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+  * [PDI Data Model Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
+  * [Data Guide to xMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
   * [Self-Managed Estimation Algorithm](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html)
-  * [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)
-  * [Definitive Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
+  * [Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)
+  * [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
   * [Product Manager Toolkit](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
   * [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
   * [Data Guide for Growth](/handbook/product/product-analysis/growth-data-guide/)
@@ -174,21 +175,18 @@ The Data Directory is designed to provide quick access to / better organize key 
     * [Snowplow structured event taxonomy](https://docs.gitlab.com/ee/development/snowplow/index.html#structured-event-taxonomy)
   * [GitLab Data Team: Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
   * [Snowplow Metrics Dictionary](https://metrics.gitlab.com/snowplow)
-  * [Snowplow docs: column definitions](https://docs.snowplowanalytics.com/docs/understanding-your-pipeline/canonical-event/)
+  * [Snowplow docs: column definitions](https://docs.snowplow.io/docs/understanding-your-pipeline/canonical-event/)
   * [FACE SSoT Fields for Reporting - gitlab.com](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/#gitlabcom-db)
   * [SaaS Product Events Data](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
   * [GitLab.com db table ownership](https://docs.google.com/spreadsheets/d/1Rb4YgFz-2BP81v1efWxLn6TeKuf37SKvAdo91WQHqP0/edit?usp=sharing)
   * [GitLab.com db table docs](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs)
+  * [GitLab.com db table structure (columns, etc)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql)
   * [Customers dot db schema](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/master/db/schema.rb)
   * [Product Intelligence Guide](/handbook/product/product-intelligence-guide/)
     * [Data used as identifiers](/handbook/product/product-intelligence-guide/#data-used-as-identifiers)
   * [Product Intelligence 101](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit?usp=sharing)
   * [GitLab Product Data Training](https://docs.google.com/presentation/d/1ySP9sndhF9BdRhaZhMK6kGbc8txO_UkAu48HmoxLtfI/edit?usp=sharing)
 
-</details>
-
-<details>
-  <summary markdown="span">Posthog</summary>
 </details>
 
 <details>

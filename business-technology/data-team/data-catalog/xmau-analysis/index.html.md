@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Definitive Guide to xMAU Analysis"
+title: "Data Guide to xMAU Analysis"
 description: "This page explains key terms, concepts, and data models used in xMAU reporting and analysis"
 ---
  

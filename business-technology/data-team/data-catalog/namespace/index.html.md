@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Definitive Guide to Namespace Analysis"
+title: "Data Guide to Namespace Analysis"
 description: "This page defines the Namespace along with the relationship to Workflow groups as well as give directions for Namespace Data Analysis"
 ---
 
