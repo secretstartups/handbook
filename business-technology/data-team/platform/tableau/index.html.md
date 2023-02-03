@@ -23,28 +23,7 @@ description: "Tableau at GitLab"
 
 ## Tableau
 
-[Tableau](https://www.tableau.com) is our newest Business Intelligence tool. It is a [leader](https://interworks.com/blog/2021/02/24/the-2021-gartner-bi-magic-quadrant-visualized-in-tableau/) in the Business Intelligence space. We are currently deploying it as part of a pilot project for key use cases. 
-
-## Acceptable Use
-
-Acceptable use:
--  Ad-hoc analysis and data exploration
-- One-off or temporary dashboards or reporting
-- Creating data visualizations for screenshots in presentations
-- Dashboard prototyping, mockups and proof-of-value
-- Dashboards for specific use cases accessed only by a single-team
-
-It should not be used for:
-- SSOT reporting
-- Replacing Sisense for Cloud Data Teams
-- Cross-departmental reporting
-- Use cases with an audience of greater than 5-10 people
-- Embedding data visualizations in the handbook
-- Reporting in key meetings
-
-Our Tableau Online environment is treated as a [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) environment, just like our [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
-
-Every user that is granted access to Tableau Online needs to [sign off](https://gitlab.com/gitlab-data/analytics/-/issues/13742) on our acceptable use policy before access is provided.
+[Tableau](https://www.tableau.com) is our newest Business Intelligence tool. It is a [leader](https://interworks.com/blog/2021/02/24/the-2021-gartner-bi-magic-quadrant-visualized-in-tableau/) in the Business Intelligence space. We are currently deploying it as part of a pilot project for key use cases and are readying the environment for a full production release. 
 
 ## Access
 
@@ -52,19 +31,20 @@ Every user that is granted access to Tableau Online needs to [sign off](https://
 
 Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
 
-Access to Tableau requires having [SAFE Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/), for most Creators it also requires [Snowflake access](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/), a defined use case, manager approval, and approval by your respective Tableau department owner. Please tag the designated Lead Approver(s) for your team / department from below for review and approval in your AR issue:
+For most Creators Tableau access also requires [Snowflake access](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/), manager approval, and approval by your respective Tableau department owner. Please tag the designated Lead Approver(s) for your team / department from below for review and approval in your AR issue:
 
 | **Team / Department** | **Approver(s) / Project Leader** |
 | ------- |------- |
-| Business Insights | (TBD) |
 | Customer Success  | `@jdbeaumont`  |
-| Data              | `@mlaanen`, `@ttnguyen28` |
+| Data & Business Insights  | `@mlaanen`, `@ttnguyen28` |
 | Marketing         | `@jahye1` |
 | People            | `@aperez349`, `@mccormack514` |
 | Product           | `@cbraza` |
 | Sales             | `@aileenlu` |
 | Finance: Sales Finance  | `@ofalken` |
 | Finance: FP&A | `@james.shen` |
+
+Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. One can be requested using a by filling in a [form](https://docs.google.com/forms/d/e/1FAIpQLScKJ2Th2TU2YZ97WMfU_y2nC5AQKsiNeZ7kXea6-IS2CrEyzA/viewform).
 
 Once approved, the Data Collaboration team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups). 
 
@@ -76,15 +56,14 @@ Once approved, the Data Collaboration team will then add the user to the `okta-t
 | Primary | `@mlaanen` | Yes |
 | Backup  | `@snalamaru`  | Yes |
 | Backup  | `@pempey`  | Yes |
-| Okta  | `@mwhitaker` |
 
 ### Permissions Best Practices for Admins & Project Leaders
 
-- Don’t “Deny” permissions unless you absolutely have to. Just leave the permission “blank”.
 - Don’t publish in the parent folder(s) and create nested subfolders instead.
 - Set permission on a project folder level, not an individual workbook.
 - Assign permissions to a group, not an individual person.
 - Required course to complete: [Site Management](https://elearning.tableau.com/path/site-administrator/site-management)
+- Ensure non-SAFE users cannot access SAFE content. This is the only time you should make use of the "deny" permissions functionality.
 
 ### Tableau Online Status
 
@@ -109,14 +88,14 @@ Alternatively, Account Owners in the Data Team assign a Creator License Code und
 
 ### Licenses
 
-GitLab has 120 user licenses available for the duration of the Tableau Pilot project. These licenses can be reassigned during the pilot project.
+GitLab has 120 user licenses available for the duration of the Tableau Pilot project. These licenses can be reassigned during the pilot project. More licenses will be acquired in FY24 =. 
 - 60 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. 
 - 10 Explorers: Ability to edit Data Visualizations.
 - 50 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying. 
 
 GitLab also has 60 eLearning credits available for Creators. These cannot be reassigned.
 
-The number of licenses is limited for the duration of the pilot, and is meant for teams working on specific use cases. The Data Team will unassign licenses by people who are not using it, or are in breach of the acceptable use policy listed above. Tableau account admins can access license codes through the [Tableau Customer Portal](https://customer-portal.tableau.com/s/). eLearning credits cannot be reassigned, therefor will only be assigned for users who are committed to making the most use of them.
+Licences will be revoked if not used for 90 days. 
 
 ### Data Source Access
 
@@ -189,16 +168,6 @@ The number of licenses is limited for the duration of the pilot, and is meant fo
     1. Click on the Google Sheet you want to use
     1. Click Connect
 
-
-### Dashboard Access
-
-In keeping with the GitLab value of [Transparancy](https://about.gitlab.com/handbook/values/#transparency), all data sources and workbooks in Tableau are visible to all users during the pilot, unless a specific use cases requires making an exception. All users will treat content as [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
-
-Only Creators belonging to the corresponding teams can publish in their respective project folders:
-* Department/Team Name - Sandbox: For all WIP/Draft workbooks, data connections and flows. Sub-project folders can be created where needed.
-* Department/Team Name - Production: For all production workbooks, data connections and flows. Sub-project folders can be created where needed.
-* Department/Team Name - Restricted: For all workbooks, data connections and flows that should have access restricted to a smaller audience. Currently, only members of that Department/Team can access the contents.
-
 ### Tracking Usage
 
 * [Assigned Licenses](https://10az.online.tableau.com/#/site/gitlab/users) (Admins only)
@@ -207,6 +176,62 @@ Only Creators belonging to the corresponding teams can publish in their respecti
 * [eLearning Usage](https://dashboard.skilljar.com/analytics/) (Admins only)
 
 Unused licenses will be reclaimed by the data team.
+
+## Production and Pilot environment
+
+In FY24 we are readying our environment for true production releases. 
+
+### Timeline
+
+- FY24Q1
+    - Ready Tableau Online environment for Production Releases
+    - Move the first dashboards to full Production
+    - Focus on GTM and Finance
+- Middle of FY24: 
+    - Purchase additional user licenses
+    - Focus on the rest of the organization
+    - Business teams to migrate key content
+- Late FY24
+    - Complete migration efforts
+
+### Folder structure and permissions
+
+|  Folder Environment |  What can be published |  Who can publish | Who can view |
+| ------ |  ------ |  ------ | ------ |
+| Development - SAFE | Any data from Snowflake and GSheets  | Any SAFE Creator in their own department’s folders | Any SAFE Creator can see their own department’s folders |
+| Development - General Access | Any non-SAFE data from Snowflake and GSheets | Any non-SAFE Creator in their own department’s folders | Any non-SAFE Creator can see their own department’s folders |
+| Sandbox - SAFE | Any data from Snowflake and GSheets | Any SAFE Creator in their own department’s folders | Any SAFE User |
+| Sandbox - General Access | Any non-SAFE data from Snowflake and GSheets | Any non-SAFE Creator in their own department’s folders | Any User  |
+| Production - SAFE | Any trusted data from Snowflake EDM | Site Admin (data team)  | Any SAFE User |
+| Production - General Access |  Any non-SAFE trusted data from Snowflake EDM | Site Admin (data team)  | Any User  |
+| Pilot (SAFE) | Any data from Snowflake and GSheets | Any SAFE Creator in their own department’s folders | Any SAFE User |
+| Future: Public Broadcast | Any publicly shareable data | Site Admin (data team) | Public |
+
+- Restricted subfolders have access limited to only users from their departments
+- SAFE Creators can access, but not publish in non-SAFE environments
+- Non-SAFE Creators cannot access nor publish in SAFE environments
+- Only Site Admins can publish in Production, after review
+- All users are added to appropriate User Groups:  department group, SAFE or non-SAFE, developer or not, admin or not
+- Publishing permissions are based on Site role (Creator or Viewer) and RBAC permissions (see previous slide)
+
+Environments designated as SAFE, including our Pilot folders, are treated as a [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) environment, just like our [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
+
+### Production Requirements
+
+Production releases need to meet the following criteria:
+* Data has been validated
+* Business owner has signed off on both the functionality of the content and the validity of the numbers
+* Uses virtual connections, or a service account. If not, have data team change credentials to using the service account
+* Data source is published separately
+* Data comes from trusted enterprise data models (EDM) in Snowflake. If data comes from other sources, including legacy tables in Snowflake, there is an open issue with the Data Team to get data added to the EDM. 
+* Where possible, Custom SQL statements are avoided. 
+* GitLab's standard colors are used in the UI
+* Performance tuning has been performed
+* Content has been reviewed by the Data Team
+* For general access (non-SAFE) data, confirm that no restricted (SAFE) data is used
+* Data and content is not duplicated in other production dashboards
+
+Production releases will be reviewed bi-weekly. 
 
 ## Training Resources & Support
 
