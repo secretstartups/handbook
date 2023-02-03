@@ -533,6 +533,18 @@ Current type labels with subtype labels are:
   - The type label in the issue is applied to the merge request
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
 
+### Database-related reactive workflow automation
+
+#### Database Review Experience Feedback
+
+* Automation conditions:
+  - MR was merged or closed
+  - The MR has the `database::reviewed` or `database::approved` label set
+  - No existing note asking for feedback
+* Automation actions:
+  - Posts a note to ask MR author for feedback to improve the database review process
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/database/database_review_experience_feedback.rb>
+
 ## Scheduled workflow automation
 
 Scheduled triage automation is run to label and update issues which help with
