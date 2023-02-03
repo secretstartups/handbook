@@ -46,7 +46,7 @@ This procedure applies to all third party providers that access, store, process 
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure | 
 
 ## Third Party Minimum Security Standards
-At a minimum, third party suppliers are expected to adhere to the [same measures required for GitLab.com](https://about.gitlab.com/handbook/security/security-assurance/technical-and-organizational-measures.html). TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
+TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
 
 Additionally, effective FY23 Q3, all third party applications that house GitLab data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta). Risk acceptances will be required in all cases where Okta is not supported regardless of security status. 
 
@@ -67,24 +67,20 @@ graph TB
         zgClass{Data Classification}
                     zgGreen[Green]:::Green
                     zgYellow[Yellow]:::Yellow
-                    zgOR[Orange/Tier 2 Criticality]:::Orange
-                    zgRed[Red/Tier 1 Criticality]:::Red
-
+                    zgOR[Orange]:::Orange
+                    zgRed[Red]:::Red
 
         %% Data Classification Specific Procedures
             %% Green
                 zgGApprov[Security Approves]:::Green
 
             %% Yellow
-                zgNDA[NDA Required]
                 zgYApprov[Security Approves]:::Green
-
 
             %% Orange
                 zgFM{Field Marketing Event?}
                     zgFMY[Yes]
                     zgFMN[No]
-                    zgDPA[DPA Required]
                     zgAssess{Third Party Security Assessment Begins}
                         zgQuest[Security Questionnaire Sent]
                         zgTPResponse[Third Party Responds]
@@ -101,10 +97,7 @@ graph TB
                 zgORApprov[Security Approves]:::Green
                 zgFMApprov[Security Approves]:::Green
 
-    %% Red
-       %% zgAppSec[Application Security Assessment Begins]
-
-
+             %% Red
 
     %% Linking nodes together
         ProcIntake-->zgOneTrust
@@ -116,9 +109,9 @@ graph TB
     zgClass--> zgRed
 
         zgGreen --> zgGApprov
-        zgYellow --> zgNDA -->zgYApprov
+        zgYellow --> zgYApprov
         zgOR --> zgFM
-            zgFM --> zgFMY --> zgDPA --> zgFMApprov
+            zgFM --> zgFMY --> zgFMApprov
             zgFM --> zgFMN --> zgAssess
     zgRed --> zgAssess
 
@@ -130,12 +123,9 @@ graph TB
                     zgIssueY --> zgStop
                 zgIssues --> zgIssueN --> zgORApprov
 
-
-
     %% Clickable Nodes
          click zgOneTrust "https://gitlab.my.onetrust.com/cyber-risk/exchange" _blank
          click ProcIntake "https://about.gitlab.com/handbook/finance/procurement/professional-services" _blank
-         %%click zgAppSec "ttps://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/tprm-review-process.html" _blank
 
     %% Dedicated styling
       %%  classDef clickme fill:#6E49CB,stroke:#88DDFD,stroke-width:4px,color:#FFFFFF;
@@ -151,17 +141,23 @@ graph TB
 
 The following table describes the procedures followed by TPRM engineers for vendors storing/processing different [classifications of GitLab data](https://about.gitlab.com/handbook/security/data-classification-standard.html). These procedures are initiated by the [Procurement](https://about.gitlab.com/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where vendors have not been reviewed in the past 12 months.
 
+If a vendor has been reviewed and approved within 12 months of a new procurement request, GitLab TPRM Engineers must review the request to determine that no material changes have occured which may require a new assessment before approving. Material changes include:
+
+1. Change in data classification (e.g., going from Yellow to Orange data classification)
+1. New system from vendor not previously reviewed (e.g., we've reviewed Zuora for the purchase of it's Billing system, but a new request has come in for the purchase of it's Revenue system)
+1. Change of location where data is stored or accessed from (e.g., moving data from GitLab-hosted app to vendor-hosted SaaS)
+1. Added contractor from vendor not previously reviewed (e.g., we've reviewed Upwork and a freelancer from Upwork service to support Marketing, but a new request has come in for a new freelancer to support the People team)
+
 GitLab TPRM Engineers reserve the right to perform additional procedures at their professional discretion.
 
 | Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |------ |------ |
 |Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	If applicable|	Yes|	If applicable| Yes |
-|Orange |(SaaS System)	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
-|Orange	|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
-|Yellow	|-|	-|	-|	-|	-|	-| No |
-|Green	|-|	-|	-|	-|	-|	-| No |
+|Orange (SaaS System)|	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
+|Orange	(non-SaaS)|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
+|Yellow/Green	|-|	-|	-|	-|	-|	-| No |
 
-*Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange Controllers.
+*Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange vendors.<br>
 **Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
 
 ### Other Types of Third Party Assessments
@@ -188,11 +184,11 @@ Third party integrations with GitLab's current [tech stack](https://gitlab.com/g
 
 #### Independent Assessments
 
-Want to vet a third party before contract renewals hit Coupa? Would you like to obtain approval for software/services we may purchase at a later date? [Click here to open a new Third Party Risk Assessment](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new#).
+Want to vet a third party before contract renewals hit Coupa? Would you like to obtain approval for software/services we may purchase at a later date? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
 
 ### TPRM Risk Acceptance Process
 
-Risk acceptance can be pursued when the business acknowledges that potential loss from a risk is not great enough to warrant spending the resources necessary to avoid it. When Risk Acceptance is a viable option TPRM will fill out the [Risk Acceptance Issue template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new#) and assign it to the Business Owner. Note that business justification and [approvals](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) are required.
+Risk acceptance can be pursued when the business acknowledges that potential loss from a risk is not great enough to warrant spending the resources necessary to avoid it. When Risk Acceptance is a viable option TPRM will fill out the [Risk Acceptance Issue template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) and assign it to the Business Owner. Note that business justification and [approvals](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) are required.
 
 There are two TPRM Risk Acceptance types:
 
