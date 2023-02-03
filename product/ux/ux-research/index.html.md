@@ -37,6 +37,7 @@ Below is a full list of our UX Research team handbook content:
 ### Research methods we use at GitLab
 
 - [Choosing a methodology](/handbook/product/ux/ux-research/choosing-a-research-methodology/)
+- [Surveys](/handbook/product/ux/ux-research/surveys/index.html.md)
 - [Longitudinal studies](/handbook/product/ux/ux-research/longitudinal-studies/)
 - [Diary studies](/handbook/product/ux/ux-research/diary-studies/)
 - [Mental modeling studies](/handbook/product/ux/ux-research/mental-modeling)
