@@ -27,15 +27,15 @@ Below are the cadences we have at GitLab:
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
-### Cadence Hierarchy
+### Cadence Definitions
 
 How elements of our cadence fit together over time:
 
-1. [Our Purpose](/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
-1. [Our Mission](/company/mission) is the way we realize that income increase, we do that by allowing **everyone to contribute**, to both our product, and our company.
-1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years, **AllOps**.
-1. [Our Strategy](/company/strategy/) consists of the three following **pillars** that we'll focus on over the next three years: Customer Results, Maturing the Platform, and Growing Careers.
-1. [Our Yearlies](/company/yearlies/) are annual goals to make progress to our three year strategy. We have 3 goals around every pillar, for **9 goals** in total.
+1. [Our Purpose](/company/purpose/) is the reason GitLab exists. Our purpose is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
+1. [Our Mission](/company/mission) is the way we realize our purpose of increasing people's lifetime earnings. Our mission is to make it so that **everyone can contribute** by using our product, to our product, and to our company.
+1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years, **AllOps** - a single application for DevSecOps, ModelOps, and a Servicedesk.
+1. [Our Strategy](/company/strategy/) is what we'll focus on over the next 3 years in order to make progress towards our vision. Our strategy is to be the leading **DevSecOps Platform** by focusing on our three strategic pillars: Customer Results, Maturing the Platform, and Growing Careers.
+1. [Our Yearlies](/company/yearlies/) are annual goals to make progress to our three year strategy. We have 3 goals per strategic pillar, for **9 goals** in total.
 1. [Our OKRs](/company/okrs) are **quarterly objectives** to make progress towards the yearly goals. They have a hierarchy in them with which they flow from the CEO level to the level of teams.
 
 How other elements relate to our cadence:
@@ -58,8 +58,8 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 ## 30 years
 
-- [Our purpose](/company/purpose/) of increasing lifetime earnings
-- [Our mission](/company/mission/#mission) is how we achieve our purpose, by allowing everyone to contribute
+- [Our purpose](/company/purpose/)
+- [Our mission](/company/mission/)
 - [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
