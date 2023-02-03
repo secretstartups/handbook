@@ -84,7 +84,7 @@ Systems are assigned a critical system tier based on the following matrix:
   <tr>
     <td class="tg-e02t">Tier 1 Mission Critical<span style="color:#DB3B21;">**</span></td>
     <td class="tg-zqun">Disruption or breach has an immediate and significant impact to the availability/security of GitLab subscriptions and [customer data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions).</td>
-    <td class="tg-zqun">Cloudflare, GitLab.com, Rackspace</td>
+    <td class="tg-zqun">Cloudflare, GitLab.com, Teleport</td>
     <td class="tg-zqun">Tier 1 Product</td>
   </tr>
   <tr>
