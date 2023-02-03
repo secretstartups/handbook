@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Feb 2 | SKO Preview | Field Enablement Team |
 | Feb 9 | Channel Update | Channel Team |
 | Feb 16 | **No Session - SKO** | N/A |
 | Feb 23 | Sales Ops Update: Quote Studio | Deal Desk Team |
@@ -44,7 +43,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-| 2023-01-19 | [**FY23-Q4 Sales Ops Update (Win / Loss Code Changes)**](https://youtu.be/p1HWwFGDuLM) | Private |
+| 2023-02-02 | **[SKO Preview](https://youtu.be/9FnxFK9RKzM)** | Private |
+| 2023-01-19 | **[FY23-Q4 Sales Ops Update (Win / Loss Code Changes)](https://youtu.be/p1HWwFGDuLM)** | Private |
 | 2023-01-12 | **[Working with Analyst Relations](https://youtu.be/cJQkqr5CArg)** | Private  |
 | 2023-01-05 | **[FY23 - Q4 Competitive Corner: Winning Against  Github](https://youtu.be/FKtbXfHMVBA)**  | Private  |
 | 2022-12-15 | **[FY23-Q4 Product Spotlight: Winning with Ultimate](https://youtu.be/z2jLBwUcrDg)** | Private   |
