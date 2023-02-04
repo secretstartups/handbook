@@ -86,6 +86,9 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 - [Gainsight Administration](/handbook/sales/field-operations/customer-success-operations/gainsight/)
 - [SalesForce and Zendesk Sync](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing)
 
+#### Gainsight University
+- [Gainsight End Users eLearning path - Gainsight University](https://education.gainsight.com/page/end-user-training-for-nxt)
+
 #### Video enablement
 The videos listed here are internal to GitLab only. You will need to be logged in to the "GitLab Unfiltered" YouTube channel to access them.
 - [Gainsight Overview and Demo](https://youtu.be/6NuyNSNipgc)
