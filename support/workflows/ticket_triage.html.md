@@ -28,7 +28,7 @@ graph TD
     B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
     D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
-    J --> |No| E[Use Needs Org workflow: Find and associate the organization]
+    J --> |No| E[Contact Support Ops!]
     J --> |Yes| I[Does it qualify for Support?]
     I --> |No| K[Set form to 'Community']
     I --> |Yes| E
@@ -77,7 +77,6 @@ If the request falls outside of such scenarios, see the [Other Requests section]
 ## After applying the correct form
 
 - Apply the correct `Problem type` if possible (this may need to happen after looking up the organization information).
-- Use the [Needs Org workflow](associating_needs_org_tickets_with_orgs.html) to tie a ticket to the right organization.
 - With help from the [Looking up customer details](looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
 - Check [SLA and Zendesk views page](sla_and_views.html) for after an org is assigned.
 
