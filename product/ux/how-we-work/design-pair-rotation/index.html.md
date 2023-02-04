@@ -16,9 +16,9 @@ This is the rotation schedule for FY24-Q1 and Q2 (February 2023 - July 2023). Le
 
 | Designer               | Design Pair            |
 |------------------------|------------------------|
-| Katie Macoy	         | Matt Nearents          |
+| Katie Macoy	         | Libor Vanc             |
 | Veethika Mishra	 | Julia Miocene          |
-| Gina Doyle	         | Libor Vanc, Emily Sybrant |
+| Gina Doyle	         | Matt Nearents, Emily Sybrant |
 | Ali Ndlovu	         | Andy Volpe             |
 | Sunjung Park	         | Becka Lippert          |
 | Daniel Mora	         | Pedro Moreira da Silva |
