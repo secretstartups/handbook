@@ -68,7 +68,7 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 
 <summary><b>Entity Relationship Diagrams</b></summary>
 
-[Lead to Cash ERDs](/handbook/business-technology/data-team/platform/edw/#order-to-cash-erds)
+[Lead to Cash ERDs](/handbook/business-technology/data-team/platform/edw/#lead-to-cash-erds)
 
 </details>
 
