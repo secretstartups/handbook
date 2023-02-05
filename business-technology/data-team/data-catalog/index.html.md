@@ -3,7 +3,6 @@ layout: handbook-page-toc
 title: "Data Catalog"
 description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and Terms."
 ---
-{::options parse_block_html="true" /}
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -35,59 +34,182 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 ## Lead to Cash Catalog
 
-### Analytics Hubs
+### Analytics Hubs, Data Guides, and ERDs
+
+The analytics hubs provide links to the current SSOT dashboards for an area of business analysis. The data guides provide solution recipes to develop reporting, insights, and analysis for a business area. The ERDs provide the entity relationships between data objects in the enterprise dimensional model.
+
+<details markdown=1>
+
+<summary><b>Analytics Hubs</b></summary>
 
 - [GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
 - [Marketing Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/969815/Marketing-Analytics-Hub)
 - Sales Analytics Hub `Coming Soon`
 - Finance Analytics Hub `Coming Soon`
 
-### Data Guides
+</details>
 
-* [Data Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
-* [Data Guide to Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
-* [Data Guide to Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
-* [Data Guide to Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
-* [Data Guide to Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
-* [Data Guide to Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
-* [Data Guide to Sales Funnel Analysis](/handbook/business-technology/data-team/data-catalog/sales-funnel/)
-* [Data Guide to Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation/)
+<details markdown=1>
 
-### Entity Relationship Diagrams
+<summary><b>Data Guides</b></summary>
 
-`Coming Soon`
+- [Data Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
+- [Data Guide to Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
+- [Data Guide to Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
+- [Data Guide to Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+- [Data Guide to Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
+- [Data Guide to Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
+- [Data Guide to Sales Funnel Analysis](/handbook/business-technology/data-team/data-catalog/sales-funnel/)
+- [Data Guide to Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation/)
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Entity Relationship Diagrams</b></summary>
+
+[Lead to Cash ERDs](/handbook/business-technology/data-team/platform/edw/#order-to-cash-erds)
+
+</details>
+
+### dbt Data Lineage Diagrams
+
+These data lineage diagrams illustrate how the data from critical Lead to Cash source tables flow through the Snowflake data models.
+
+<details markdown=1>
+
+<summary><b>Zuora Data Lineages</b></summary>
+
+- [Zuora Account Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.zuora_account_source?g_v=1&g_i=zuora_account_source%2B)
+- [Zuora Rate Plan Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.zuora_rate_plan_source?g_v=1&g_i=zuora_rate_plan_source%2B)
+- [Zuora Rate Plan Charge Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.zuora_rate_plan_charge_source?g_v=1&g_i=zuora_rate_plan_charge_source%2B)
+- [Zuora Subscription Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.zuora_subscription_source?g_v=1&g_i=zuora_subscription_source%2B)
+- [Zuora Contact Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.zuora_contact_source?g_v=1&g_i=zuora_contact_source%2B)
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Salesforce Data Lineages</b></summary>
+
+- [Salesforce Opportunity Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_opportunity_source?g_v=1&g_i=sfdc_opportunity_source%2B)
+- [Salesforce Account Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_account_source?g_v=1&g_i=sfdc_account_source%2B)
+- [Salesforce Zuora Quote Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_zqu_quote_source?g_v=1&g_i=sfdc_zqu_quote_source%2B)
+- [Salesforce Zuora Quote Rate Plan Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_zqu_quote_rate_plan_source?g_v=1&g_i=%2Bsfdc_zqu_quote_rate_plan_source%2B)
+- [Salesforce Zuora Quote Rate Plan Charge Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_zqu_quote_rate_plan_charge_source?g_v=1&g_i=sfdc_zqu_quote_rate_plan_charge_source%2B)
+
+</details>
+
+<details markdown=1>
+
+<summary><b>CustomerDot Data Lineages</b></summary>
+
+- [CustomerDot License Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_licenses_source?g_v=1&g_i=customers_db_licenses_source%2B)
+- [CustomersDot Orders Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_orders_source?g_v=1&g_i=customers_db_orders_source%2B)
+- [CustomersDot Lead Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_leads_source?g_v=1&g_i=customers_db_leads_source%2B)
+- [CustomersDot Trial History Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_trial_histories_source?g_v=1&g_i=customers_db_trial_histories_source%2B)
+- [CustomerDot Versions Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_versions_source?g_v=1&g_i=customers_db_versions_source%2B)
+- [CustomerDot Customers Source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_customers_source?g_v=1&g_i=customers_db_customers_source%2B)
+
+</details>
+
+### dbt Data Dictionaries
+
+These data dictionaries provide definitions for the Lead to Cash fields used in the Snowflake Enterprise Dimensional Data Model.
+
+<details markdown=1>
+
+<summary><b>Lead to Cash Dimensions (Context)</b></summary>
+
+- [dim_billing_account](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_billing_account#columns)
+- [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription#columns)
+- [dim_amendment](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_amendment#columns)
+- [dim_product_detail](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_product_detail#columns)
+- [dim_product_tier](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_product_tier#columns)
+- [dim_charge](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_charge#columns)
+- [dim_crm_account](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_crm_account#columns)
+- [dim_crm_person](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_crm_person#columns)
+- [dim_crm_user](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_crm_user#columns)
+- [dim_license](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_license#columns)
+- [dim_order](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_order#columns)
+- [dim_order_action](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_order_action#columns)
+- [dim_crm_opportunity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_crm_opportunity#columns)
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Lead to Cash Facts (Measures)</b></summary>
+
+- [fct_charge](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_charge#columns)
+- [fct_mrr](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_mrr#columns)
+- [fct_crm_account](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_crm_account#columns)
+- [fct_crm_person](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_crm_person#columns)
+- [fct_crm_opportunity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_crm_opportunity#columns)
+- [fct_invoice](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_invoice#columns)
+- [fct_invoice_item](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_invoice_item#columns)
+- [fct_quote](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_quote#columns)
+- [fct_quote_item](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_quote_item#columns)
+
+</details>
 
 ### Analysis
 
-#### Sales
+The analysis section provides references to analytical projects developed by the Functional Analysts teams.
+
+<details markdown=1>
+
+<summary><b>Sales</b></summary>
 
 `Coming soon`
 
-#### Marketing
+</details>
+
+<details markdown=1>
+
+<summary><b>Marketing</b></summary>
 
 `Coming soon`
 
-#### Finance
+</details>
+
+<details markdown=1>
+
+<summary><b>Finance</b></summary>
 
 `Coming soon`
 
-#### Data Science and Business Insights
+</details>
+
+<details markdown=1>
+
+<summary><b>Data Science and Business Insights</b></summary>
 
 * [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
 * [2022-01-10 Free Account conversion to First-Order Closed Won](https://docs.google.com/presentation/d/1_kNZww2gEBlMINa67PXpkhllHsU16mVzo_dM0Qx8d14/edit#slide=id.gedf1d4ec40_0_0)
 * Propensity to Expand: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
 * Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
 
-
+</details>
 
 ## Product Release to Adoption Catalog
 
-### Analytics Hubs
+### Analytics Hubs, Data Guides, and ERDs
+
+The analytics hubs provide links to the current SSOT dashboards for an area of business analysis. The data guides provide solution recipes to develop reporting, insights, and analysis for a business area. The ERDs provide the entity relationships between data objects in the enterprise dimensional model.
+
+<details markdown=1>
+
+<summary><b>Analytics Hubs</b></summary>
 
 - [Engineering Analytics Hub](https://app.periscopedata.com/app/gitlab/1052283/)
 - [Product Analytics Hub](https://app.periscopedata.com/app/gitlab/1052689/Product-Analytics-Hub)
 
-### Data Guides
+</details>
+
+<details markdown=1>
+
+<summary><b>Data Guides</b></summary>
 
 * [Data Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
 * [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
@@ -104,13 +226,47 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [Data Guide to Service Data Inspector](/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
 * [Data Guide to SaaS Service Ping Automation](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 
-### Entity Relationship Diagrams
+</details>
+
+<details markdown=1>
+
+<summary><b>Entity Relationship Diagrams</b></summary>
+
+[Product Release to Adoption ERDs](/handbook/business-technology/data-team/platform/edw/#product-release-to-adoption-erds)
+
+</details>
+
+### dbt Data Lineage Diagrams
+
+These data lineage diagrams illustrate how the data from critical Release to Adoption source tables flow through the Snowflake data models.
+
+<details markdown=1>
+
+<summary><b>Release to Adoption Data Lineage Diagrams</b></summary>
 
 `Coming Soon`
 
+</details>
+
+### dbt Data Dictionaries
+
+These data dictionaries provide definitions for the Release to Adoption fields used in the Snowflake Enterprise Dimensional Data Model.
+
+<details markdown=1>
+
+<summary><b>Release to Adoption Data Dictionaries</b></summary>
+
+`Coming Soon`
+
+</details>
+
 ### Analysis
 
-#### Product Data Insights
+The analysis section provides references to analytical projects developed by the Functional Analysts teams.
+
+<details markdown=1>
+
+<summary><b>Product Data Insights</b></summary>
 
 * [Collection of Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
 * [PDI Data Model Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
@@ -120,23 +276,43 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [2021-08 Customer Centric Product Insights](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
 * [2021-08 Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/edit#slide=id.gca4c496ea4_0_0)
 
-#### Customer Success
+</details>
+
+<details markdown=1>
+
+<summary><b>Customer Success</b></summary>
 
 * Account IQ (`Coming Soon`)
 
-#### Engineering
+</details>
+
+<details markdown=1>
+
+<summary><b>Engineering</b></summary>
 
 `Coming Soon`
+
+</details>
 
 
 ## Team Member Catalog
 
-### Analytics Hubs
+### Analytics Hubs, Data Guides, and ERDs
+
+The analytics hubs provide links to the current SSOT dashboards for an area of business analysis. The data guides provide solution recipes to develop reporting, insights, and analysis for a business area. The ERDs provide the entity relationships between data objects in the enterprise dimensional model.
+
+<details markdown=1>
+
+<summary><b>Analytics Hubs</b></summary>
 
 - [People Analytics Hub](https://app.periscopedata.com/app/gitlab/1104972/People-Analytics-Hub)
-* [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
+- [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
-### Data Guides
+</details>
+
+<details markdown=1>
+
+<summary><b>Data Guides</b></summary>
 
 * [People Analytics Overview](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [PTO by Deel (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
@@ -145,37 +321,122 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
 * [Talent Acquisition Metrics](/handbook/business-technology/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
 
-### Entity Relationship Diagrams
+</details>
+
+<details markdown=1>
+
+<summary><b>Entity Relationship Diagrams</b></summary>
+
+[Team Member ERDs](/handbook/business-technology/data-team/platform/edw/#team-member-erds)
+
+</details>
+
+### dbt Data Lineage Diagrams
+
+These data lineage diagrams illustrate how the data from critical Team Member source tables flow through the Snowflake data models.
+
+<details markdown=1>
+
+<summary><b>Team Member Data Lineage Diagrams</b></summary>
 
 `Coming Soon`
+
+</details>
+
+### dbt Data Dictionaries
+
+These data dictionaries provide definitions for the Team Member fields used in the Snowflake Enterprise Dimensional Data Model.
+
+<details markdown=1>
+
+<summary><b>Team Member Data Dictionaries</b></summary>
+
+`Coming Soon`
+
+</details>
 
 ### Analysis
 
-#### People Group
+The analysis section provides references to analytical projects developed by the Functional Analysts teams.
+
+<details markdown=1>
+
+<summary><b>People Group</b></summary>
 
 `Coming Soon`
 
+</details>
 
 
 ## Central Data Team Catalog
 
-### Analytics Hubs
+### Analytics Hubs, Data Guides, and ERDs
+
+The analytics hubs provide links to the current SSOT dashboards for an area of business analysis. The data guides provide solution recipes to develop reporting, insights, and analysis for a business area. The ERDs provide the entity relationships between data objects in the enterprise dimensional model.
+
+<details markdown=1>
+
+<summary><b>Analytics Hubs</b></summary>
 
 * Central Data Team Analytics Hub `Coming Soon`
 * [Sisense Usage and Adoption](https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb)
 * [Trusted Data Health](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
-### Data Guides
+</details>
+
+<details markdown=1>
+
+<summary><b>Data Guides</b></summary>
 
 `Coming Soon`
 
-### Entity Relationship Diagrams
+</details>
+
+<details markdown=1>
+
+<summary><b>Entity Relationship Diagrams</b></summary>
 
 `Coming Soon`
+
+</details>
+
+### dbt Data Lineage Diagrams
+
+These data lineage diagrams illustrate how the data from critical Team Member source tables flow through the Snowflake data models.
+
+<details markdown=1>
+
+<summary><b>Central Data Lineage Diagrams</b></summary>
+
+`Coming Soon`
+
+</details>
+
+### dbt Data Dictionaries
+
+These data dictionaries provide definitions for the Team Member fields used in the Snowflake Enterprise Dimensional Data Model.
+
+<details markdown=1>
+
+<summary><b>Central Data Dictionaries</b></summary>
+
+`Coming Soon`
+
+</details>
 
 ### Analysis
 
+The analysis section provides references to analytical projects developed by the Central Data Team.
+
+<details markdown=1>
+
+<summary><b>Central Data Team</b></summary>
+
 `Coming Soon`
+
+</details>
+
+
 
 
 # Metrics and Terms Index

@@ -121,7 +121,7 @@ Our FY22 Direction was to accelerate the development of Trusted Data platform co
 
 ### FY22-Q3
 
-With [GitLab's IPO on 2021-10-14](https://ir.gitlab.com/), FY22-Q3 turned out to be an incredible quarter for all of GitLab. But business carries on and the Data Team delivered several important projects over the quarter, including a new Solutions Architect Dashboard and new Working Group Issue-Prioritization Dashboard for [Customer Success ](/handbook/business-technology/data-team/data-catalog/#customer-success), advancements to [SAFE Data Controls](/handbook/business-technology/data-team/platform/safe-data/#accessing-a-safe-dashboard) for the entire company, new [Xactly](https://www.xactlycorp.com/) and [Marketo](https://www.marketo.com/) data for Finance and Marketing, respectively, and our first Data Science predictive model with [Propensity to Expand](/handbook/business-technology/data-team/organization/data-science/#projects) for Sales Strategy. A very solid quarter all around!
+With [GitLab's IPO on 2021-10-14](https://ir.gitlab.com/), FY22-Q3 turned out to be an incredible quarter for all of GitLab. But business carries on and the Data Team delivered several important projects over the quarter, including a new Solutions Architect Dashboard and new Working Group Issue-Prioritization Dashboard for [Customer Success ](/handbook/business-technology/data-team/data-catalog/index.html#analysis-1), advancements to [SAFE Data Controls](/handbook/business-technology/data-team/platform/safe-data/#accessing-a-safe-dashboard) for the entire company, new [Xactly](https://www.xactlycorp.com/) and [Marketo](https://www.marketo.com/) data for Finance and Marketing, respectively, and our first Data Science predictive model with [Propensity to Expand](/handbook/business-technology/data-team/organization/data-science/#projects) for Sales Strategy. A very solid quarter all around!
 
 - [FY22-Q3 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/260)
 - [FY22-Q3 Release Roundup (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
@@ -141,7 +141,7 @@ FY22-Q2 carried forward and completed several multi-quarter initiatives begun in
 
 ### FY22-Q1
 
-FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with [Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams), the first major release of the Trusted Data solutions and [Sales Funnel Dashboard](/handbook/business-technology/data-team/data-catalog/#sales), integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
+FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with [Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams), the first major release of the Trusted Data solutions and [Sales Funnel Dashboard](/handbook/business-technology/data-team/data-catalog/sales-funnel/), integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
 
 - [FY22-Q1 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/248) 
 - [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
