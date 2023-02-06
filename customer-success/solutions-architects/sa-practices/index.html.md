@@ -27,6 +27,8 @@ Solution Architects have various practices:
 
 [Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/)
 
+[SA Office Hours for AE/CSM/SA Collaboration](/handbook/customer-success/solutions-architects/sa-practices/sa-office-hours/)
+
 ## SA Practices - Pre-sales
 
 The following practice and process are lead by the Solutions Architects during pre-sales:
