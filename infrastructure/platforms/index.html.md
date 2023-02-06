@@ -72,7 +72,9 @@ We collaborate on the section level items in the [#s_platforms](https://gitlab.s
 
 For communication between managers, we have [#infra-platforms-reports](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have a confidential managers channel that is used to discuss staffing issues affecting all teams that require additional coordination.
 
-Once per week, we hold a `Platforms leads call` to align on action items related to carreer development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
+Once per week, we hold a `Platforms leads call` to align on action items related to career development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
+
+We hold a monthly **Infrastructure Office Hours** for any questions and feedback you may have for the Platforms team. More details can be found on the [Infrastructure Home](../#infrastructureofficehours). 
 
 ### Projects
 
