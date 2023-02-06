@@ -23,15 +23,15 @@ Compiègne](https://www.utc.fr/en/) (France) with a Master's Degree in Computer 
 Nevertheless, my career almost involved an Entrepreneur aspect. This makes me a Jack of all
 trades and a master of none.
 
-I have worked in the various industries, ranging from telecoms to online betting.
+I have worked in various industries, ranging from telecoms to online betting.
 
 A few facts about me:
 
 - I live in Quebec City, Quebec, Canada.
 - I have dual citizenships: French & Canadian
 - I have 2 mostly wonderful kids and a fantastic wife
-- I have lived, studied and worked in France and other European countries, but also South East Asia, and now Canada
-- I have spent quite some time in Pacific Islands near Australia 
+- I have lived, studied and worked in France and other European countries, but also in South East Asia
+- I spent some of my childhood in Pacific Islands near Australia 
 - I love all things outdoors
 
 ### Background story at GitLab
@@ -39,7 +39,7 @@ A few facts about me:
 I joined GitLab with the [acquisition of
 Gemnasium](/press/releases/2018-01-30-gemnasium-acquisition.html) in 2018, when I become the first
 manager of the [Secure Stage](/direction/secure/). After having designed and developed security
-products, I decided to switch to the other side of the mirror, and joined the [Security
+products, I decided to switch to the other side of the mirror and joined the [Security
 Department](/handbook/security/) in 2020. 
 
 ![timeline](images/timeline.png)
@@ -53,36 +53,36 @@ updates on issues where I've been involved, without getting pinged explicitly.
 You can always book a slot in my agenda (during working hours) if you want to talk to me, no need to
 ask.
 
-My English is not perfect. The best way for me to improve is to correct me when I’m using wrong
+My English is not perfect. The best way for me to improve is to correct myself when I’m using wrong
 words or expressions.
 
 Also, you can tell I’m tired when my English is worse than usual! 
 
-## Working at GitLab
+### My working style
 
 I live by our [values](/handbook/values/) and embrace every one of them as much as I can. By
-default, I will go async via an issue or a merge request. I create a lot of issues, but they not all
-translate into an action item. I use issues as a placeholder for discussions too. Sometimes, it's
-to document why I or we think it's not a good idea to do something. We can re-evaluate the topic
-long after, and still get the context which might have changed in the meantime. 
+default, I will go async via an issue or a merge request. I create a lot of issues, but they do not
+all translate into an action item. I use issues as a placeholder for discussions too. Sometimes,
+it's to document why I or we think it's not a good idea to do something. We can re-evaluate the
+topic long after, and still get the context which might have changed in the meantime. 
 
 I love merge requests too, and consider them as the new workspace. They invite everyone to contribute, 
 keep track of context and changes, let us loop in whoever is needed to review or approve, and least
-but not least have a great flexibility for approval rules.
+but not least have great flexibility for approval rules.
 
 I love UX and by extension simplicity, which is something I will always strive for. Complexity is
 growing exponentially, so I tend to push back on ideas that can be simplified. 
 
 ### Typical workday
 
-I wake up at 6 a.m., exercise until 8 a.m., breakfast until 8:30 a.m. I usually don’t work before
+I wake up at 6 am, exercise until 8 am, breakfast until 8:30 am I usually don’t work before
 this time, but always check my emails and slack messages when I wake up (old CEO habit).
 
-I take a 1-hour break for lunch, usually between 11:30 a.m - 12:30 p.m.
+I take a 1-hour break for lunch, usually between 11:30 am - 12:30 pm.
 
-I end the day around 6pm to cook dinner for the family. 
+I end the day around 6 pm to cook dinner for the family. 
 
-I get back to the computer between 7 and 8pm. After that, Slack and emails are still in “monitor
+I get back to the computer between 7 and 8 pm After that, Slack and emails are still in “monitor
 mode”, but it’s usually family time.
 
 ### Projects
