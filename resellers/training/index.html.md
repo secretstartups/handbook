@@ -36,7 +36,7 @@ description: >-
 
 
 
-### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verifed Sales Core Associate</span>
+### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verified Sales Core Associate</span>
 
 <span class="colour" style="color: rgb(0, 0, 0);">The GitLab Sales Core course provides the fundamental knowledge for individuals new to selling and delivering GitLab services. The GitLab Sales Core course is the prerequisite for all pre-sales technical and sales professionals. By completing this course and scoring above 80% on the exams, you will earn a GitLab Verified Sales Core completion badge and will contribute to the Sales Accreditation program requirements for your company. </span>
 
