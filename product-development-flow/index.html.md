@@ -302,7 +302,7 @@ When an issue is in `workflow::in review`, the Application Security Engineer wou
 Documentation for the work will be developed by the engineer and the Technical Writer (see [Documentation with code as workflow](https://about.gitlab.com/handbook/product/ux/technical-writing/workflow/#documentation-with-code-as-a-workflow)). The Technical Writer should review the documentation as part of the development process. Items discovered during a documentation review should not block issues moving into the next phase. This may drive the creation of follow-on improvement MRs for the documentation, after release.
 
 After the feature code has been merged, the issue should be moved to `workflow::verification`.
-When an issue is in `workflow::verification`, the responsible engineer will [manually test the feature](../engineering/index.html) in either the Staging or Production environment.
+When an issue is in `workflow::verification`, the responsible engineer will [manually test the feature](../engineering/index.html#manual-verification) in either the Staging or Production environment.
 
 *Note: Work deemed out-of-scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
 
