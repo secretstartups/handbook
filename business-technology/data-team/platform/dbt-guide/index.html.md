@@ -762,6 +762,12 @@ This configuration can be done using the `generate_warehouse_name` macro within 
 }}
 ```
 
+### Sample Data in Development
+
+To streamline local development on local models, a way to sample, or use a subset of the data, will be made available to the developers.  This tool will allow developers the option of using sample data, or full data depending on what the situation calls for, allowing them to iterate quickly on the structure of models using sample data and then switch to full data when validation is needed.  Using this in conjunction with local cloning of tables should improve the developer cycle time.
+
+
+
 ### Trusted Data Framework
 
 See the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) section of our Platform page for a deeper dive into the philosophy behind the Trusted Data Framework.
