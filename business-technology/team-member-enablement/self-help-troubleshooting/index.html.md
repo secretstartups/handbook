@@ -321,7 +321,7 @@ Update your existing OS to the most recent version
 
 macOS Monterey and newer includes Erase All Content and Settings, a way to quickly and securely erase all of your settings, data and apps, while maintaining the operating system currently installed. You can use Jamf's self service to do this for you. This functionality is only available when using macOS Monterey on a Mac with Apple silicon or a Mac with the Apple T2 Security Chip.
 
-If you are needing to wipe a machine because you have received a new (refreshed) system for GitLab work, please contact #it_help to perform the wipe and decommission from Jamf management.
+If you are needing to wipe a machine because you have received a new (refreshed) system for GitLab work, please [schedule a time](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) with an IT Analyst to perform the wipe and decommission from Jamf management.
 
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
