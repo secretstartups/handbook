@@ -38,11 +38,12 @@ Like most GitLab teams, we spend a lot of time working in Rails and Vue.js on th
 
 ## How we measure Success
 We use performance indicator dashboards to determine if we are successfully delivering on the [Development Department KPIs](/handbook/engineering/development/performance-indicators/). We also
-define quarterly Objectives & Key Results (OKRs) to set and track measureable team goals. 
-  
+define quarterly Objectives & Key Results (OKRs) to set and track measureable team goals.
+
 ### Dashboards
 
-- [Release error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1)
+- [Release error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-release-group-dashboard?orgId=1)
+- [Detailed release error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-detail-release/stage-groups-release-group-error-budget-detail?orgId=1)
 - [Release development metrics dashboard](https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard?filter=team_group+eq+release)
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Release" } %>
@@ -78,7 +79,7 @@ We use following Youtube playlists:
 - [GitLab Group Kickoffs - Release:Release](https://www.youtube.com/playlist?list=PL05JrBw4t0KplRWO9xUtTAtgZvVf5CqtW) - Milestone kickoff videos
 
 ### Community Contributions
-We hold recurring office hours to give community members a chance to discuss any questions, issues, or merge requests. For details about 
+We hold recurring office hours to give community members a chance to discuss any questions, issues, or merge requests. For details about
 upcoming office hours, [check out the epic](https://gitlab.com/groups/gitlab-org/-/epics/4512) or the [playlist on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KpH7NVc9_K70mbFemd5qFq7).
 
 #### Applying labels
@@ -97,12 +98,12 @@ can assist with contributions, primarily by:
 - commenting on or reviewing merge requests
 - offering to pair program through Zoom if a contributor needs additional assistance
 
-If a merge request becomes a high priority task and the contributor has become less active or stalled, consider adding an explanation comment and finishing the merge request. Always remember to give credit and 
+If a merge request becomes a high priority task and the contributor has become less active or stalled, consider adding an explanation comment and finishing the merge request. Always remember to give credit and
 appreciation to the community contributor in order to encourage future participation.
 
 ## Planning and Workflow
 
-We are always striving to improve and iterate on our planning process as a team. To maximize our velocity and meet our deliverables, we follow the process outlined on our 
+We are always striving to improve and iterate on our planning process as a team. To maximize our velocity and meet our deliverables, we follow the process outlined on our
 [planning page](./planning).
 
 ### Product Workflow
@@ -133,24 +134,58 @@ Below is a high level description of each stage, its meaning, and any requiremen
 * `workflow::complete`
   * The work has been verified and the issue is closed.
 
-### Error budget
-The [Release Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1) is used to identify and prioritize issues that are impacting our customers and infrastructure performance. 
+### Error Budget
+The [Release Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-detail-release/stage-groups-release-group-error-budget-detail?orgId=1) is used to identify and prioritize issues that are impacting our customers and infrastructure performance.
 
-To ensure that we are consistently monitoring and addressing these issues, each milestone the engineering manager will review the error budget dashboard to monitor changes and determine whether or not we're exceeding our budget. If needed, investigation issues will be opened to identify what is contributing to our error budget spend, and the `~release::error-budget` label 
-will be applied to facilitate tracking and measurement. These issues will be added to the upcoming milestone, and an engineer will be assigned to help determine the root cause. Once a potential solution has been identified, the issue will be triaged based on the [regular triage process](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) and scheduled per the regular async planning process. 
+To ensure that we are consistently monitoring and addressing these issues, each milestone the engineering manager will review the error budget dashboard to monitor changes and determine whether or not we're exceeding our budget. If needed, investigation issues will be opened to identify what is contributing to our error budget spend, and the `~release::error-budget` label
+will be applied to facilitate tracking and measurement. These issues will be added to the upcoming milestone, and an engineer will be assigned to help determine the root cause. Once a potential solution has been identified, the issue will be triaged based on the [regular triage process](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) and scheduled per the regular async planning process.
 
-In some instances, we may determine that a service is functioning properly and that an adjustment needs to be made to our [Service Level Indicators (SLI)](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). If it is determined that the current thresholds are too low for a given service, the Product Manager who is the DRI for error budget spend, will work with the team to determine an appropriate SLI for that service. 
+In some instances, we may determine that a service is functioning properly and that an adjustment needs to be made to our [Service Level Indicators (SLI)](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). If it is determined that the current thresholds are too low for a given service, the Product Manager who is the DRI for error budget spend, will work with the team to determine an appropriate SLI for that service.
 
 More information about [error budgets](https://about.gitlab.com/handbook/engineering/error-budgets/) and how they are calculated can be found in the [error budget dashboard documentation](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget).
 
+#### Investigating Error Budget
+
+To investigate a decrease or a discrepancy in the error budget, an engineer can utilize one of the following dashboards.
+
+- [Release error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-release-group-dashboard?orgId=1)
+- [Detailed release error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-detail-release/stage-groups-release-group-error-budget-detail?orgId=1)
+
+The Release error budget dashboard provides a good overview of all the key metrics for the Release team. The Detailed release error budget dashboard is more focused on [Service Level Indicators (SLIs)](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). Both of them share an overview of the error budget and the budget spend attribution.
+
+The budget spend attribution is often very helpful in determining where failures might be coming from. Violations are separated by the following types and components, respectively:
+
+- API – `rails_request`: for API requests with violations on the framework (rails) level.
+- API - `puma`: for API requests with violations on the server (puma) level.
+- Web - `rails_request`: for Web requests with violations on the framework (rails) level.
+- Web - `puma`: for Web requests with violations on the server (puma) level.
+- Sidekiq - `sidekiq_execution`: for background jobs executed by Sidekiq.
+
+There are also two types of a violation, an `apdex` or an `error`:
+
+- `apdex`: an operation succeeded but not within set threshold.
+- `error`: an operation that failed, e.g. failed background job, a request returning 500 response error.
+
+**Note**: not all components are implemented, so `GraphQL` failures for example will not be adding up to the budget spend.
+
+#### How to investigate the budget?
+
+Before you start, it is important to keep in mind that sometimes, there might be an infrastructure issue or some other underlying problem that affects the error budget negatively (check [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/389380#note_1261620712) for instance). In such cases, the steps below might not be very helpful for an investigation. If unsure about this, it might be a good idea to check with the engineering manager or fellow team members. Also look out for discussions in any of these slack channels: `#infrastructure-lounge`, `#incident-management`, or `#f_error_budgets`, as similar cases are often discussed there.
+
+1. It is usually a good idea for an engineer to start their investigation by looking at the budget spend attribution section (often collapsed), as this will help them identify where a discrepancy is coming from. On the left side of that section, you can start by exploring the [budget failures panel](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-release-group-dashboard?orgId=1&viewPanel=14). The panel shows the aggregated number of failures for the past 28 days, and the total number of measurements (i.e. how many total operations happened for that particular type and component). Having both numbers available is a good way to see the percentage of failures in comparison to total operations. Usually, the item with top failures will have the biggest impact on the error budget spend.
+2. After determining the type of violation and the component, the next step would be to check the [failure log links panel](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-release-group-dashboard?orgId=1&viewPanel=16) to the right side. This one, as the name implies, links to the logs for failed and slow operations, and engineers can find more information about them in the panel.
+3. When accessing one of these links, an engineer will find they provide an aggregated count of the violating operations and their callers (e.g. a job or a controller, etc.). They also display the threshold, which is based on the [request urgency](https://docs.gitlab.com/ee/development/application_slis/rails_request_apdex.html#adjusting-request-urgency). This serves as a good overview of all violating callers, and will make it easier for the engineer to investigate the exact error as they could identify which endpoint or method is the root cause for the decline in error budget.
+4. The last step is to uncover the error itself, which can be done by accessing the [production logs](https://log.gprd.gitlab.net/app/discover), using the same filters used in any of the links aforementioned.
+5. If an engineer determines the error is a bug (i.e. not a network or database timeout for example), they should create an issue and add it to this [epic](https://gitlab.com/groups/gitlab-org/-/epics/9149) were similar investigations and improvements are handled. There are times when limitations and timeouts should also be investigated and fixed. It's the engineer's responsibility to decide whether the error is due to some invalid configuration that can be fixed or not.
+
 ### Quality
-Our goal is to ship software at scale without sacrificing quality or velocity. In order to do that, we believe that the quality of our product must be a shared responsibility. 
+Our goal is to ship software at scale without sacrificing quality or velocity. In order to do that, we believe that the quality of our product must be a shared responsibility.
 
 Every member of the Release team contributes to quality through better software design, proper testing practices and bug prevention strategies. We ensure these best practices are followed by:
 
-1.  Being a champion for better software design through thoughtful and thorough code reviews, following the [Gitlab code review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+1. Being a champion for better software design through thoughtful and thorough code reviews, following the [Gitlab code review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 2. Resolving small bugs or fixing flakey tests immediately, using the `stuff that should just work` label.
-3. Writing meaningful unit tests and integration tests for every feature, and working with our Software Engineers in Test (SETs) to contribute to our End to End tests as needed in alignment with the [test coverage pyramid](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/testing_guide/testing_levels.md). 
+3. Writing meaningful unit tests and integration tests for every feature, and working with our Software Engineers in Test (SETs) to contribute to our End to End tests as needed in alignment with the [test coverage pyramid](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/testing_guide/testing_levels.md).
 4. Reviewing our bug [Triage report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports)  for bugs and regressions regularly and working with key stakeholders to prioritize and take action.
 
 #### Code Review
@@ -160,9 +195,9 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 
 ## Team Process
 #### Async Issue Updates
-Our daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no change in progress. It's preferable to update the issue rather than the related merge requests, 
+Our daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no change in progress. It's preferable to update the issue rather than the related merge requests,
 as those do not provide a view of the overall progress.
-The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. Finally, if there are multiple MRs associated with an issue, please include an entry for each. 
+The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. Finally, if there are multiple MRs associated with an issue, please include an entry for each.
 A couple of suggestions to consider when adding your async updates:
 * It may be good to include whether this is a front end or back end update if there are multiple people working on it
 * Adding technical notes as you work through an issue is a great way to create an opening for others to engage and collaborate.
@@ -210,16 +245,16 @@ The **Weekly Status Update** is configured to run at noon on Fridays, and contai
     This helps to ensure that the others on the team know you'll need their help and will surface any issues earlier.
 
 #### Taking Time Off
-When going out of office (OOO), be sure to clearly communicate it with other people. 
-1. In [PTO by Deel](/handbook/paid-time-off/#pto-by-deel), set a role for your backup person during your PTO. If you will be out for an extended period (greater than two days), 
-consider assigning the team slack channel `#s_release` as your backup to help distribute the workload. 
+When going out of office (OOO), be sure to clearly communicate it with other people.
+1. In [PTO by Deel](/handbook/paid-time-off/#pto-by-deel), set a role for your backup person during your PTO. If you will be out for an extended period (greater than two days),
+consider assigning the team slack channel `#s_release` as your backup to help distribute the workload.
 1. Add the [Release Shared Calendar](https://calendar.google.com/calendar/u/0/embed?src=gitlab.com_8josslksslj9avafu2p77csbkc@group.calendar.google.com&ctz=America/Chicago) to your PTO by Deel settings so your PTO events are visible to everyone in the team. The calendar ID is: `gitlab.com_8josslksslj9avafu2p77csbkc@group.calendar.google.com`
 Read more in the [Paid time off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) page.
 
 #### Personal Growth Day (Pilot)
-To help team members carve out time for their own personal development, the Release team will be piloting an **optional** Personal Growth Day once per milestone. Team members should consider using the first Friday of every milestone to minimize impact on our deliverables. However, individuals should use their discretion and choose a day that works best for them based on their current priorities. 
+To help team members carve out time for their own personal development, the Release team will be piloting an **optional** Personal Growth Day once per milestone. Team members should consider using the first Friday of every milestone to minimize impact on our deliverables. However, individuals should use their discretion and choose a day that works best for them based on their current priorities.
 
-On our dedicated personal growth day: 
+On our dedicated personal growth day:
 * Syncs meetings are cancelled or moved
 * Time is used to focus on career development - This can include working on the career matrix, learning a new skill or deepening current skills
 
