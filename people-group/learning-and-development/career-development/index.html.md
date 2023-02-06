@@ -47,7 +47,7 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#workshops-and-conferences" class="btn btn-purple" style="width:200px;margin:5px;">Attend a Workshop/Conference</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training" class="btn btn-purple" style="width:200px;margin:5px;">Crucial Conversations</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#academic-study" class="btn btn-purple" style="width:200px;margin:5px;">Academic Study</a>
-    
+    <a href="https://about.gitlab.com/job-families/expert/merge-request-coach/" class="btn btn-purple" style="width:200px;margin:5px;">MR Coaching</a>
   </div>
 </div>
 
