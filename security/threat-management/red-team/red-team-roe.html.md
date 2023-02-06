@@ -9,50 +9,92 @@ title: "Red Team Rules of Engagement"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Red Team Rules of Engagement
+## Overview
 
-Red team exercises are meant to provide comprehensive assessments that reflect real-world conditions and demonstrate tangible risks posed by a malicious actor during a legitimate attack. The results of these exercises are intended to be used to improve security awareness and training and to assess levels of security control effectiveness.  Please see more about the [principles and vision](./index.html) of our red team and the security team as a whole.
+This page outlines the general rules that apply to all work conducted by the Red Team. Individual operations may include additional rules defined during planning stages.
 
-We choose to operate under the following rules of engagement to provide the most benefit to the organization with as little ambiguity as possible for each engagement.  In short, the intent is to give guidance to GitLab organization as a whole as to how engagements are defined, communicated, and executed, as well as how the resulting information is disseminated to aid the organization.
+Please refer to [our general handbook page](/handbook/security/threat-management/red-team) to learn more about our team and what we do.
 
-### Scope Definition
+## Systems in Scope
 
-In general, a scope definition for an engagement should be *exclusive* vs. inclusive in nature. It should be scenario driven, with specific goals, based on real security threats. Those scenarios can be elaborated with to the input of other security teams, such as the Threat Intelligence team. They should be recorded ahead of the engagement, validated by the Director of Security, and should include the following details:
+All systems managed by GitLab are in scope for all types of Red Team operations. No prior approval is required to conduct any activity that meets the rules documented on this page.
 
-1. Describe any systems that should be *excluded* from the engagement such as IP addresses, applications, and personnel.
-1. Testing time period expressed in either [UTC or PT](/handbook/communication/).
-1. Define techniques that should be excluded from the engagement such as social engineering, Denial of Service attacks, etc.
-1. Define the controls that prevent infinite escalation in the event of a successful engagement if applicable.  In other words, not every vulnerability exploited as part of a Red Team engagement should end up classified with an overall risk of [very high](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/risk-assessments/blob/master/Risk%20Scoring%20Matrix.md#overall-impact) and engage an [incident response](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html).
+Third-party systems that are used by GitLab for official business purposes are also considered in scope, but these often require permission from the system owners. This permission will be obtained when necessary.
 
-### Ethics
+Team members can request that a system be excluded from our scope by [opening an issue here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-operations/-/issues/new).
 
-A tangible artifact of authorization from someone with the authority to give it should exist prior to the opening of the engagement.  This means getting permission in writing from GitLab representatives when systems or teams they manage may be impacted.  We obtain the proper permission from any third party providers such as  Amazon Web Services, Google Cloud, etc. should those systems be relevant.  These artifacts can be either persistent or transitive and should be stored securely should retrieval of evidence become necessary.
+## Stealth Operations
 
-The process for obtaining the necessary permission can be different per engagement and service provider and will require due diligence.  For example, AWS has its own unique set of guidelines for performing assessments that can be found here:  https://aws.amazon.com/security/penetration-testing/.  In contrast, Google Cloud's policy is completely different from the evidence illustrated here:  https://support.google.com/cloud/answer/6262505?hl=en.  
+[Stealth Operations](/handbook/security/threat-management/red-team/#stealth-operations) are conducted without being widely announced. These operations require careful planning. We will use the same [logistics issue template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates/-/blob/main/.gitlab/issue_templates/02-logistics.md) used for Purple Team operations, but it will only be visible to trusted participants until the operation is disclosed.
 
-As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks in the wild.  We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the Employee Information Privacy section of the Code of Business Conduct & Ethics page of the handbook during our engagements.  As a GitLab employee, it is expressly important to review the statements in this documentation regarding privacy of personal information and personal devices used for GitLab business.
+The logistics phase will define detailed rules for each specific operation. The sections below contain general rules that apply to all stealth operations.
 
-### Communication and Collaboration
+### Prior Approval
 
-The Red Team is an extension of the Security Team as a whole.  We actively collaborate with other members of the Security Team to improve the security posture of the organization.  We take every reasonable opportunity to share knowledge before, during, and after an engagement.  Some engagements, specifically those intended to test the organization's response to a security event without prior warning, are of course communicated differently. It is expected that the red team will need to maintain a certain separation from the organization it is protecting in order to maintain the proper scope, independence, and authority to act as an actual attacker and produce effective results and aid the organization.
+- Approval is required from at least one layer of SIRT leadership. This starts at the SIRT managers and goes up to the CISO.
+- Approval is required from the Senior Manager of Threat Management.
+- Approval is required from everyone defined as a "trusted participant" in the logistics phase.
 
-### Results, Remediation, and Escalation
+### Deconfliction Process
 
-As we are a results driven organization, engagement results are properly and securely documented, communicated, and actionable with proper respect given to the [sensitivity of information](/handbook/security/data-classification-standard.html).  In order to make results actionable, we collaborate with our teammates in ours and other departments to track remediation through [existing organizational processes](/handbook/security/#creating-new-security-issues), making issues confidential where necessary.  Specifically, we follow the functional and operational escalation points mentioned in the previous link for tracking remediation. 
+- Red Team members will refer to ["Is This The Red Team?"](/handbook/security/threat-management/red-team/#is-this-the-red-team) if asked about specific activities.
+- Trusted participants can use private channels (Slack, phone calls, etc) to directly contact any Red Team member to inquire about specific activities. It is important not to do this in view of team members not designated as trusted participants.
+- Stealth operation activities will be paused until the Red Team can provide proof of whether or not a specific activity or indicator of compromise (IoC) belongs to them.
+- The logistics phase will define what happens if the Red Team is detected during a stealth operation and the incident is escalated to the trusted participants. Some examples are:
+  - The operations continue in stealth, with the trusted participant helping to ensure any escalation is in-line with the operation goals.
+  - The operation is disclosed internally and continues in the open to further validate security controls and detection mechanisms. Incident response is discontinued for known Red Team activities.
+  - The entire operation is not disclosed internally, but the trusted participant informs the team that a specific activity or IoC belongs to the Red Team. The systems involved are considered "virtually contained" and the Red Team relinquishes any access to those systems.
+  - The operation ceases completely.
+
+### Engaging with SIRT
+
+At GitLab, our Red Team and Blue Team have a long history of working collaboratively towards a common goal. Despite playing roles that are adversarial in nature, we want to maintain a very high level of trust and respect between the teams.
+
+We define some specific rules below, but in general we want to remember to always be kind and compassionate in our work. If something feels like it conflicts with [GitLab's values](/handbook/values), we need to re-evaluate exactly what we are doing and why we are doing it.
+
+- The Red Team will not intentionally distract or mislead SIRT using official company communication channels under the team's legitimate user accounts.
+- The Red Team will make an effort to avoid triggering on-call incidents outside of normal business hours. In general, this means not conducting attack techniques during hours when it is a weekend or holiday globally.
+- SIRT will not proactively monitor specific Red Team resources. If any alerts or standard incident response procedures lead to these resources, of course they may be investigated by SIRT. The intent of this rule is to avoid prematurely uncovering a Red Team operation in an unrealistic manner. These resources include:
+  - Red Team members' laptops
+  - Red Team's group project inside Google Cloud
+  - Red Team's private projects on GitLab.com
+  - Red Team's private Slack channels and direct messages
+
+## General Safety Guidelines
+
+The sections below outline general rules all Red Team operations.
+
+### Team Member Privacy
+
+As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks. We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) during our engagements.
 
 ### Critical Vulnerabilities and Exploits
 
-Critical vulnerabilities and exploits found during an engagement that are currently or have immediate propensity to impact normal GitLab business operations should engage the security on-call and follow our [incident response guide](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html).  [Sensitive information](/handbook/security/data-classification-standard.html) and communicated by creating a confidential security issue using [existing Security Issue Triage process](/handbook/security/#issue-triage) in the appropriate project.
+The Red Team may discover and exploit vulnerabilities during an engagement. These will not always be reported immediately to SIRT, as we want to provide a realistic opportunity to detect and respond to that exploitation.
+
+If a vulnerability is exposed that meets the following criteria, we will document the issue and follow [the process to engage SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html#engaging-sirt) immediately:
+
+- Vulnerability is exposed publicly
+- Vulnerability is realistically exploitable
+- Exploitation of the vulnerability would impact business operations and/or expose sensitive data
 
 ### Emergencies
 
-All red team testing and engagements are first carefully planned in advance and will not intentionally impact production system or customers.  However, accidents do happen and in the case of a production system being impacted during an engagement, either directly or indirectly, we escalate the incident by notifying the red team manager.  We also engage our security operations team using our [incident response guide](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html) at the earliest reasonable time giving full disclosure of what caused the issue.  Depending on the circumstances, the infrastructure team may need to be made aware through an [incident report](/handbook/engineering/infrastructure/incident-management/) to negate or reduce the impact to our customers.  Proper [root cause analysis](/handbook/engineering/root-cause-analysis/) is recorded following resolution of the incident.
+Red Team operations are carefully planned to avoid impacting production systems and customer activities. However, accidents may occur and production systems may respond in an unpredictable manner.
 
-## Red Team Common Techniques
+If we ever suspect an impact to production, we will do the following:
+
+1. Suspend any activities related to the impact
+1. Immediately inform everyone defined as a "trusted participant" for the operation
+1. If a security incident is required, [engage SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html#engaging-sirt)
+1. If an infrastructure incident is required, [engage the on-call SRE](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. Perform a proper [root cause analysis](/handbook/engineering/root-cause-analysis/) following resolution of the incident
+
+## Common Techniques
 
 This section describes techniques that are commonly used by the Red Team. These lists are not all inclusive, but are meant to provide team members reasonable expectations of things the Red Team may or may not do.
 
-If any team members have questions or concerns about these operations, please contact us in the `#security-department` Slack channel using the tag `@red-team`.
+If any team members have questions or concerns about these operations, please contact us in the `#g_security_redteam` Slack channel.
 
 ### Open Scope Techniques
 
