@@ -151,6 +151,11 @@ You then need to create a new webhook using the following information:
 
 Once all that is in place, click the blue `Add webhook` button.
 
+### Organization update
+
+Next, you will need to update the organization within Zendesk. You want to set the
+`Contact Management Project ID` field to have the project ID.
+
 ### Files setup
 
 Next, you will add the contact's and add the organization ID to the
@@ -190,11 +195,6 @@ To invite the users, do the following:
 1. Enter the email(s) to use under the `Username or email address ` text box
 1. Under `Select a role`, select `Developer`
 1. Click the blue `Invite` button on the bottom-right of the modal
-
-### Organization update
-
-Finally, update the organization within Zendesk. You want to set the
-`Contact Management Project ID` field to have the project ID.
 
 ## Final stage
 
