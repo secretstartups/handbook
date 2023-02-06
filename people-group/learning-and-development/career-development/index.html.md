@@ -34,7 +34,7 @@ Navigate to career development resources located throughout the GitLab handbook:
 ### Career Growth Opportunities
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/people-group/learning-and-development/internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-purple" style="width:200px;margin:5px;">Career Development Workshop</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
