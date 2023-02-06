@@ -2,7 +2,6 @@
 layout: handbook-page-toc
 title: Candidate Handbook Page
 description: "This page outlines what hiring looks like at GitLab. We share the latest information about our processes and practices to ensure you have the information you need to feel confident during the interview process."
-canonical_path: "/company/candidate/faq/"
 ---
 
 ## On this page
