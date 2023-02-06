@@ -987,7 +987,15 @@ There are many variables and considerations that need to be evaluated when deter
 1. **Are snapshot models eligible for incremental configuration:** Yes, snapshot models that are 100% recreations of prior days can be set to incremental. However, snapshot models that have joins to live dimension tables will need to be periodically full refreshed. 
 1. **Size of data:** Medium, depending on the table. Total schema size for all Salesforce Stitch data is 15GB. Full refresh for the entire schema takes ~24 hours
 1. **Are there incremental dbt models in this lineage:** Not on the SFDC level but some of the snapshot & EDM models built on top of this lineage are incremental. 
-1. **Can the model be set to not full refresh:** Yes, but SFDC will be a more challenging data source to do this for. The integration from Stitch often receives late arriving data, so we would first need to confirm how late these can arrive and set the incremental model to allow for a longer time period (i.e. delete/insert or insert new arrivals for last week of data on each refresh) 
+1. **Can the model be set to not full refresh:** Yes, but SFDC will be a more challenging data source to do this for. The integration from Stitch often receives late arriving data, so we would first need to confirm how late these can arrive and set the incremental model to allow for a longer time period (i.e. delete/insert or insert new arrivals for last week of data on each refresh)
+
+Salesforce opportunity data is refreshed on a six-hourly schedule. This is done using the [`dbt build`](https://docs.getdbt.com/reference/commands/build) command in the `dbt_six_hourly` DAG. These models are relatively small and can be fully refreshed in under five-minutes. The models included in this schedule are tagged as `six_hourly`:
+1. [`sfdc_opportunity_source`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.sfdc_opportunity_source)
+1. [`prep_crm_opportunity`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_crm_opportunity)
+1. [`dim_crm_opportunity`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_crm_opportunity)
+1. [`fct_crm_opportunity`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_crm_opportunity)
+1. [`mart_crm_opportunity`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_crm_opportunity)
+
 
 #### Zuora
 
