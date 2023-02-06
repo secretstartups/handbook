@@ -16,7 +16,7 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 **All laptops must be wiped by a member of the IT team on or before your last day of employment. If you perform the laptop wipe yourself, you will be forced to wipe it again, so please refrain from doing that twice, and contact us instead.**
 
-**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) on your last day your laptop will be pin code locked. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
+**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) on your last day your laptop will be pin code locked 24 hours later. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
 
 
 ### Before your last day.
