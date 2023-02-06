@@ -13,7 +13,7 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 
 
 
-## UX team members
+## UX team members  
 
 - [Jacki Bauer](/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
 - [Emily Sybrant](/company/team/#esybrant) - Product Designer, Billing & Subscription Management
@@ -40,14 +40,15 @@ One of the ways we track our progress is by measuring the UX of our different wo
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
-| Renew a subscription (concerning SaaS and SM) (based on renewals research) | NA  | Jan 2023 | - Consolidate and improve renewal messaging in app and emails <br/>- Improve seat usage visibility |
-| [Manually renewing a GitLab subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160) | In progress |  | | 
-| [Upgrade a GitLab.com subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/947) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+| Renew a subscription (SaaS and SM) (based on renewals research) | NA  | Jan 2023 | - Consolidate and improve renewal messaging in app and emails <br/>- Improve seat usage visibility |
+| [Manually renewing a GitLab subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160) | C- | Jan 2023 | - customize email content and timing to customer context <br/> - improve SSO for seamless log in <br/> - improve UI with better readability and workflow | 
 | Upgrade a self-managed subscription| C- | Jan 2021 | Needs to be re-scored to identify opportunities | 
-| Cancel a subscription | |To be scheduled | |
+| [Upgrade a GitLab.com subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/947) | C | April 2020 | Needs to be re-scored to identify opportunities | 
 | Add additional seats to my subscription | |To be scheduled | |
 | Link to a different namespace to use my plan with a different group | | To be scheduled| | 
+| Cancel a subscription | |To be scheduled | |
 | Change/update subscription contact | |To be scheduled | |
+
 
 [View Open SUS:Impacting Issues for Billing & Subscription Management](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Abilling%20and%20subscription%20management&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
@@ -55,9 +56,9 @@ One of the ways we track our progress is by measuring the UX of our different wo
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
+| [Purchasing a Self-Managed Subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177) | C | Jan 2023 | - update emails to all use same template <br/> - Improve navigation from purchase to activation | 
 | [Purchasing a GitLab.com Subscription (new user via a Trial)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103)| C | Oct 2022 | - Auto sign-in users after email verification <br/> - Allow users to verify email later <br/> - Improve findability of upgrade link <br/> - More immediate access to paid features after purchase |
 | [Purchasing a GitLab.com Subscription (existing user)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103) | C | Oct 2022 |- Improve findability of purchase link for a group <br/> - More immediate access to paid features after purchase | 
-| [Purchasing a Self-Managed Subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177) | In progress | Jan 2023 | | 
 | Purchase add-on storage | | | |
 | [Buy add-on CI minutes](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities | 
 
@@ -67,7 +68,7 @@ One of the ways we track our progress is by measuring the UX of our different wo
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
-| [Determining where my storage is high in order to reduce it](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2179) | D | Jan 2023 | |
+| [Determining where my storage is high in order to reduce it](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2179) | D | Jan 2023 |- Support setting up good storage policies <br/> - Improve transparency into storage by project and type, including history <br/> Ensure accurate documentation |
 | [Removing a user from my SaaS subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177)| D | Sep 2022 |- Improve clarity around who uses a seat <br/>- Improve workflow clarity (buttons, alerts) |
 | Removing a user from my self-managed subscription |  | To be scheduled | | 
 | Exclude a user from billing in my self-managed subscription |  |To be scheduled| | 
