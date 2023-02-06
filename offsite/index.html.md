@@ -148,7 +148,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 **Q2 Offsite**
 1. E-Group Offsite Month: June
 1. Following Board Meeting Month: September
-1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) including scenarios, capabilities and dependencies
+1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro) including scenarios, capabilities and dependencies
 1. Finish [**Yearlies**](/company/yearlies/) (1.5 hrs)
 1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
