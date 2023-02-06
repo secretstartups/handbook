@@ -109,6 +109,14 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - If you really don't know, it really is okay to ask!
 
+#### Administrative Tasks on Status.io 
+{:.no_toc}
+
+Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be iniated with [an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/). 
+
+Example with [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4880) that was created to add a component to the GitLab System Status page. 
+
+
 ### About Contact Requests
 
 Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests.
