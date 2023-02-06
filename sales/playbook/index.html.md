@@ -26,15 +26,18 @@ Besides this page, there are a few bookmarks you’ll want to set that will be y
 - **[Enterprise Sales Highspot landing page](https://gitlab.highspot.com/spots/6329c1e293fedc634e196730):** You’ll receive access to Highspot in Okta during your first week of onboarding. It’s where all sales content is stored - whether you’re looking for competitive intelligence, solution selling guidance, templates to use in proposals, or the latest marketing assets. 
 - **[The Customer-Ready Shadow Program](https://about.gitlab.com/handbook/sales/shadow-program/):** Shadowing customer calls offers a hands-on way to learn how different GitLab roles represent GitLab. We often learn best when we have the opportunity to learn from our peers, practice, and get feedback in an interactive way. It’s also a great way to make new hires feel welcome and a part of our sales culture at GitLab. All sellers in Enterprise Sales participate in the shadow program in some way - whether they shadow or host their peers. 
 
+
 ## The Enterprise Seller playbook
 [The Enterprise Seller playbook](https://docs.google.com/presentation/d/1S-8Jvr-NcMAEjqB5j0i53WZg4aEtTGTicCpWbZ9JaNk/edit#slide=id.g10c6ab6d93e_0_318) is how a typical, high-performing SAL runs their business on an annual, quarterly, monthly, and weekly basis. Use it as a guide to understand the basics of what key activities and collaboration points are required for things to run smoothly in your territory. This includes collaborating with your deal team. This playbook aligns directly to [the manager version used by Area Sales Managers in Enterprise Sales](https://about.gitlab.com/handbook/sales/manager-operating-rhythm/enterprise-sales/).
+
 
 #### Collaborating with your team
 As the account lead, your role centers on successfully orchestrating all of the resources and support available to you and your prospect or customer to reach their defined outcome on a reasonable timeline. That means knowing who's who and how to collaborate with them. 
 
 [View the Enterprise Seller playbook](https://docs.google.com/presentation/d/1DSaVx25EmzGN9vbjsE1llXRl7hnNzHWYxOH8eBORIF4/edit#slide=id.g116c2ce1845_0_0) for guidance on what types of meetings to host with your deal team and extended team, as well as how their roles and responsibilities might intersect with yours. 
 
-<details><summary> At a glance: How to collaborate with extended deal team members </summary>
+<details> 
+<summary> At a glance: How to collaborate with extended deal team members</summary>
 
 |Extended deal team members | How you collaborate |
 |---------------------------|---------------------|
@@ -48,8 +51,8 @@ As the account lead, your role centers on successfully orchestrating all of the 
 |[Strategic Field Organization](https://about.gitlab.com/handbook/customer-success/solutions-architects/strategic-field-org/)| Or the strategic field team for large engagements that require a high degree of strategic planning - such as DevSecOps transformation, solution recommendations, and advisory for our customer's senior technical leadership in high-value, strategic deals ($400k+).|
 | Compete:| You may also bring in the compete team to help with intelligence or positioning. Use the #competition channel on Slack to collaborate and view important resources in their bookmarks.  |
 | [Customer Advocacy team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/sales-support/):| You may want to construct a deal where the customer agrees to be reference or to logo usage, or perhaps you've delivered incredible value and they are ready to be a case study. |
-
 </details>
+
 
 ## Sales planning
 Every Strategic Account Leader in Enterprise Sales should have a **territory plan** for how they're approaching their patch. 
@@ -60,12 +63,14 @@ Every Strategic Account Leader in Enterprise Sales should have a **territory pla
 - And view additional data sources and reports in the plan template (beneath the slides) as well as at the [bottom of this page](https://about.gitlab.com/handbook/sales/playbook/#quick-links-to-common-tools).
 - If an account is moving to a new seller, use the [Account Handover issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1240) and associated process to give the new rep everything they need to best support their customer.
 
+
 ## Prospecting and keeping your pipeline healthy
 *View important guidance on the [Sales Prospecting](/handbook/sales/prospecting/) handbook page. The expectation for Enterprise Sellers is that they have 3.5x pipe coverage.*
 
 Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target. When forecasting, use the **[Sales Forecasting handbook page](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)** and [Clari cheat sheet](https://docs.google.com/presentation/d/1ZvQzFrmmqsJPUIk_FxfTy5X0G59IIWDve0Rfmfw1Wec/edit#slide=id.g133719dda83_2_102) to help you.
 
 **Validate, validate, validate.** Effective qualification is just the first step. As you invest in a prospect, it’s important to continuously validate the opportunity throughout the sales cycle and make sure it can deliver results for you and that we are the effective solution for the prospect.
+
 
 ## Moving a deal through the pipeline
 **Pipeline management** is key to predictable, scalable revenue attainment and can make the difference between simply hitting your number and overachieving. It helps you allocate your time correctly, increase deal velocity, and increase total deal volume, size, and revenue through accurate forecasting practices. 
@@ -80,6 +85,7 @@ Generally, surprises - whether in the form of sudden, major deals or sudden, maj
 **Additional resources for opportunity management:**
 At the bottom of each stage in the detailed spreadsheet, you'll also see major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7).
 
+
 #### Opportunity management
 Opp management starts with [effective discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/). At GitLab, that means [MEDDPPICC](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#meddppicc) and having a complete [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) for all $50k+ NARR opportunities. 
 
@@ -92,6 +98,7 @@ Opp management starts with [effective discovery](https://about.gitlab.com/handbo
 **Keep your opps squeaky clean:** Pay attention to how long something has been sitting in a specific stage, and close it out when the time is right. For a tech company, the average strategic deal takes 6 months to a year to close. While it’s normal for an opportunity to sit, holding it prevents another team (or other resources) from helping it progress.
 
 Holding hurts our prospective customers because while they’re sitting there, they aren’t getting any real value from us (and likely to get more value from a competitor). It’s for their benefit that we push deals along or move them to close.
+
 
 ## Sales enablement resources
 If you're looking for templates, guides, customer 1-pagers, and other editable sales content, head to the [Enterprise Sales Highspot page](https://gitlab.highspot.com/spots/6329c1e293fedc634e196730). If you're looking for skills-based training, [LevelUp](https://levelup.gitlab.com/learn/dashboard?_gl=1*1ejz71x*_ga*MTEwMjkzNzM1MS4xNjI1NTI2MTE3*_ga_ENFH3X7M5Y*MTY3NDI1MjgyMS4zOS4xLjE2NzQyNTU4MjYuMC4wLjA.) is where you need to go. 
@@ -136,6 +143,7 @@ If you don’t have access to the items below and believe you should, open an [A
 #### **Understanding your customers current product usage**
 - [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your CSM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight.
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see [overview video here](https://youtu.be/G9JuHXqV5LM)): most customers have an account that breaks down their purchases and provides some insight into SaaS usage. Also good for linking purchases to VersionDot usage data
+
 
 
 
