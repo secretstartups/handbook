@@ -38,6 +38,11 @@ Below is a full list of our UX Research team handbook content:
 
 - [Choosing a methodology](/handbook/product/ux/ux-research/choosing-a-research-methodology/)
 - [Surveys](/handbook/product/ux/ux-research/surveys/)
+     - [Designing your survey](/handbook/product/ux/ux-research/surveys/designing-your-survey/)
+     - [Common types of survey questions](/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/)
+     - [Survey question scales](/handbook/product/ux/ux-research/surveys/survey-question-scales/)
+     - [Sample sizes for surveys](/handbook/product/ux/ux-research/surveys/sample-sizes-for-surveys/)
+     - [Piloting your survey](/handbook/product/ux/ux-research/surveys/piloting-your-survey/)
 - [Longitudinal studies](/handbook/product/ux/ux-research/longitudinal-studies/)
 - [Diary studies](/handbook/product/ux/ux-research/diary-studies/)
 - [Mental modeling studies](/handbook/product/ux/ux-research/mental-modeling)
