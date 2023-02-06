@@ -53,5 +53,5 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 ### 3. CEO: [Grow careers through encouraging a customer result mindset](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121988698)
 1. **CEO KR**: Get closer to our customers through conducting value stream assessments with 100% of global top 30 customers by Ultimate ARR: https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994290
 1. **CEO KR**: Increase underrepresented group manager from 13% to >=15% (US): https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/123087603
-1. **CEO KR**: Maintain GitLab's fast pace and focus on results through [bias for action](/handbook/values#bias-for-action), [iteration](/handbook/values#move-fast-by-shipping-the-minimal-viable-change), and [sense of urgency](/handbook/values#sense-of-urgency): https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994365
+1. **CEO KR**: Maintain GitLab's fast pace through delivering first [Elevate](/people-group/learning-and-development/elevate/) trainings and improving post-onboarding survey scores: https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994365
 1. **CEO KR**: Co-create with our customers by activating 20 [leading orgs](/marketing/community-relations/leading-organizations): https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994401 
