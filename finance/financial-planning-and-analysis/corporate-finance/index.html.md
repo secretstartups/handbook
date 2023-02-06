@@ -74,6 +74,6 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 ### Key Processes
 - [Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#quarterly--monthly-cycle-incl-close-variance-forecast-guidance)
 - [Plan](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan)
-- [Long Range Outlook](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-range-outlook)
+- [Long Range Outlook](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro)
 - [Headcount](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth)
 - [Adaptive Insights](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#adaptive-planning)

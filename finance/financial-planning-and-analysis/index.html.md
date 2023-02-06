@@ -25,7 +25,7 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 
 ## How GitLab’s FP&A plans to get there….
 1. Manage the budget and planning processes for GitLab's [Board Plan](/handbook/finance/financial-planning-and-analysis/#annual-plan-and-target)
-2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) that identifies long-term strategy and financial targets
+2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro) that identifies long-term strategy and financial targets
 3. Define business drivers and [KPIs](https://about.gitlab.com/company/kpis/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan
 4. Own the rolling forecast process and provide actionable insights to ensure departmental performance vs. plan and strategy
 5. Drive quarterly earnings process as public company, including guidance and investor narratives
@@ -50,7 +50,7 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - [FP&A Job Ladder](/job-families/finance/finance-planning-and-analysis/)
 - [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
-### Key Slack Channels:
+### Key Slack Channels
 - [#fpanda](https://gitlab.slack.com/archives/CLT54CDFE)
 - [#fpa-ap-gl-collaboration](https://gitlab.slack.com/archives/C017VQ3G7V4)
 - [#month-end-close-and-gl-team](https://gitlab.slack.com/archives/C02JHRNENE7)
@@ -98,7 +98,7 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 
 
 
-## Long Range Outlook
+## Long Range Outlook ("LRO")
 
 - **What**: The Outlook is a three to five year strategic and financial plan
 - **Purpose**: 
@@ -119,6 +119,26 @@ FP&A comprises five different sub-teams to support our FP&A goals:
    - Cross-functional leadership buy-in required; not a finance-only numbers exercise
    - Public company benchmarking drive decisions around GitLab long-term targets
 - **Governance**: The Outlook is reviewed and discussed by the board of directors every year.
+
+### LRO Updates
+The LRO is refreshed on an annual basis, occurring shortly after the fiscal year plan is finalized. After the LRO is refreshed, there may be additional updates throughout the remainder of the year, on a quarterly and ad-hoc basis to determine whether near-term priorities and funding are needed in order to achieve long-term goals and financial targets. 
+
+As part of the quarterly and ad-hoc updates to LRO, the following are included:
+- Comparison to last LRO refresh across bookings, P&L, and cash flow
+- 6 quarter rolling forecast, including bookings, P&L, and cash flow
+- Comparison to peer benchmarking of similar revenue size for growth and efficiency metrics
+
+The following are inputs in the LRO refresh and subsequent LRO updates:
+- Capabilities and key investments across each business function (GTM, R&D, G&A), along with key cross-functional dependencies, risks/blockers
+- GTM modeling: demand, productivity and supply capacity
+- Total rewards strategy 
+- Expense YoY and % of revenue targets, HC/non-HC spend by department
+- Book to bill to cash collection assumptions
+- Seasonality of bookings and expenses
+- Cash commissions 
+- PP&E/Capex purchases 
+
+The Corporate Finance team leads the LRO refresh and updates in collaboration with: eGroup members to determine key investments, capabilities, and dependencies; GTM Finance team for sales productivity/capacity models, CTB, and bookings attainment; G&A Finance team for total rewards strategy, benefit assumptions; and the R&D Finance team to help inform on allocations, hosting/infrastructure expenses.
 
 
 ## Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance)
