@@ -14,6 +14,16 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q1-FY24
+
+### 2023-02-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/267))
+
+**Sales Ops: [Okta Single Sign On Enabled for Clari](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/532)**
+
+**Renewal Ops: [Subscription Renewal Date field on Renewal Opportunities](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3703)**
+
+**Renewal Ops: [Updated Renewal Risk Category Dropdown](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3603)**
+
 ## Q4-FY23
 
 ### 2023-01-09 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/247))
