@@ -342,7 +342,7 @@ You don't always get results and this will lead to criticism from yourself and/o
 
 ##### Global optimization
 {:.no_toc}
-This name comes from the [quick guide to Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
+Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
 In the context of [collaboration](#collaboration), this means that if anyone is blocked by you on a question, your approval, or a merge request review, your top priority is always to unblock them, either directly or through helping them find someone else who can, even if this takes time away from your own or your team's priorities.
 
 ##### Tenacity
