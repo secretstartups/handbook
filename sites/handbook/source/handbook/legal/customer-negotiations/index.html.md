@@ -34,6 +34,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
 | [**Escalation Process**](#escalation-process) |  [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitlab-legal-commercial-coverage-model-and-best-practices-for-a-legal-call) |
+| [**RFP Process**](#rfp-process) |  |   
 
 ## OPERATIONAL
 
@@ -143,6 +144,9 @@ GitLab includes a signed version of the DPA on the [Terms of Service](https://ab
 ## Escalation Process
 In instances where a Customer or a Partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the Overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable Escalation Form(s) _Note This document is only available for GitLab Team Members._ 
 
+
+## RFP Process
+With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html) handbook page. 
 
 
 ## EDUCATIONAL
