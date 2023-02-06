@@ -63,6 +63,16 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 - Have the capacity to learn more about the underrepresented group if they are unfamiliar with the needs of the group
 - Have taken the [psychological safety course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/psychological-safety-understanding-empowerment-and-self-reflection) 
 
+**Accountabilities and Commitments:** 
+
+- Provide TMRG leads with key business insights (eg.,Company OKRs) and ensure leads understand the company’s strategic vision
+- Allocate time to TMRG leaders (bi-monthly or as agreed upon with TMRG leads) to understand TMRG needs and resources 
+- Advocate for the TMRG with DIB team and E-Group to gain leadership buy-in 
+- Provide leadership guidance to TMRG leads when goals are misaligned to company or DIB goals
+- Provide TMRG updates to E-Group once/quarter with the assistance of DIB Team
+- Minimum one year commitment
+- If you are no longer able to maintain these Accountabilities and Commitments you should let the DIB team know as soon as possible.
+
 **Choosing an Executive Sponsor:**
 
 - Any E-Group member with the capacity to be an executive sponsor for a TMRG will be the first to be allocated as an executive sponsor. E-Group members should only be an executive sponsor to one TMRG but this is not a hard and fast rule. 
