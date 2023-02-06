@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "RFP Process - Field Security"
+title: "RFP Process"
 ---
 
 ## On this page
@@ -10,19 +10,19 @@ title: "RFP Process - Field Security"
 {:toc .hidden-md .hidden-lg}
 
 
-## Shared RFP Process
+## RFP Process
 
-The Field Security Team has created a process to assist and simplify the RFP process for the Field Teams. We will utilize our [current submission process](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) and our tool [Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html) (by OneTrust) to collaborate cross-departmentally with the required SME's and expedite completion. 
+The Field Security Team, Legal & Corporate Affairs, Field Ops and Sales have created a process to assist and simplify the RFP process for the Field Team. With regards to RFP's, the Field Team should follow the below steps:
 
-_For any Legal RFP documents including but not limited to_:
-- Contractual Agreements
-- Custom Master Subscription Agreemtns
-- Terms of Contract
-- Documents requiring signatures
+1. Upon receipt of an RFP, the Sales Team Member should ensure that an Account and Opportunity are created in SFDC;
+1. If the RFP will require more than a quote being created (e.g. insight and assistance from various stakeholders), the Sales Team Member should request and receive ASM (or higher) approval via Chatter in the SFDC Opportunity. 
+1. The Sales Team Member will review content in [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries) for any questions related to Security, Legal and ESG. _NOTE:_ All Team Members have a base-line entitlement.
+1. Sales Team Member should engage [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team), per standard process, for any question related to pricing and/or quoting. 
+1. For questions related to Product, Marketing, Legal and/or ESG which were not answered following the steps above, the Sales Team Member can open an Issue [here](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) and **SELECT THE RFP Intake Issue Template**,
+1. RFP Intake Issues will be assigned to applicable DRIs and AnswerBase will be updated accordingly. 
 
-Please open a [legal case](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template) in **Salesforce** and include the relevant documents in the case. A team member from [Commercial Legal](https://about.gitlab.com/handbook/legal/commercial/) will review them. 
 
-## What We Can't Do
+## What Field Security Can't Do
 
 There are parts of the RFP process that fall outside of Field Security's scope. _We cannot write the proposals or provide the following: product or service specifications, implementation schedule, and plans; training or support specifications and terms; information surrounding GitLab's ability to provide the appropriate resources; other GitLab customers' experiences; and anything related to costs, values, pricing, payments, etc._
 
@@ -38,30 +38,14 @@ If you receive a `Vendor Set Up Form`, you can find more information [here](http
 If you need an `NDA`, you can find more information on obtaining one [here](https://about.gitlab.com/handbook/legal/NDA/). 
 
 
-### Submission
-
-<div class="flex-row" markdown="0" style="height:80px">
-       <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=main_template" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Click here to submit a Customer Request!</a>
-    
-</div>
-
-Click the purple box above or use the [Main Template](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=main_template) on the Field Security Issue board and title it 'RFP - Customer'. 
-
-You must include all requested information. 
-
-Our team will then input the RFP into Vendorpedia and run the automated completion as a first pass. Any questions unable to be answered will be assigned to relevant SME's and completed within SLA (10 business days).
-
-### Completion
-
-Once completed, our team will return the completed document to the person who submitted the issue along with any relevant documentation. 
-
-`Please note` that an NDA may be required for some documentation (items listed in our Customer version of the CAP). 
-
 
 ### Participants
 The following GitLab groups participate in the shared RFP program:
 
 - Legal Privacy, DRIs: @emccrann ; @Bronwyn  
+- Legal Operations, DRIs: @rnalen; @ktesh
+- Legal, DRI: @mtaylor
+- ESG, DRI: @slcline 
 - People Ops, DRI: @cgudgenov
 - Security, DRI: @marieclairecerny
 
