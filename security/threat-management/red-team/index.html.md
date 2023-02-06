@@ -99,7 +99,3 @@ If the activity was indeed the Red Team, they will provide proof and the operati
 If the Red Team is ever asked *"Is this you?"* by someone who is not fully informed on an active operation, they will respond with the following text:
 
 > Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [https://about.gitlab.com/handbook/security/#contact-gitlab-security](https://about.gitlab.com/handbook/security/#contact-gitlab-security).<br><br>Red team operations provide an opportunity to practice these processes, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
-
-## Red Team Office Hours
-
-Every two weeks the Red Team will host Red Team Office Hours. This meeting will be open to the entire company and will alternate between EMEA and APAC friendly times. For the most part these will be an open discussion with members of the Red Team but we will also use this time to perform "read outs" of recently completed Red Team Operations. Note that in some cases, depending on the content these will not be recorded or made public.
