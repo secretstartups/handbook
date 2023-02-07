@@ -161,3 +161,73 @@ We upload and pull work locally from the [corporate-marketing repository](https:
 - Trade Show booths should default to using our general GitLab brand. General events such as these are organized by year within the repository.
 - Recurring events that we host (Sales Kickoff, Contribute, Commit) have a different theme each year, which inspires a new creative direction. These events have their own folder, and are then organized within by year.
 
+#### Brand Guidelines
+
+The Brand Design team mantains the Brand Guidelines on [design.gitlab.com](https://design.gitlab.com/brand/overview) ([Pajamas](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main)). For our team's purposes, we can make updates to the guidelines using [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/#web-ide-beta). 
+
+To get started, follow the workflow outlined below and check out our [demo](https://youtu.be/d8vUeHCkbnk) with the Product team.
+
+**Using Web IDE**
+
+1. Open [Pajamas](https://design.gitlab.com/) and navigate to the page you need to make updates to. 
+1. Scroll to the bottom of the page and select `Open Web IDE`.
+
+**Pajamas structure**
+
+Our Brand Guideline pages are located in the `Contents` folder and organized accordingly:
+
+1. `brand:` This folder contains the Brand Guidelines Overview page.
+1. `brand-design:` This contains pages related to design guidelines.
+1. `brand-logo:` This contains pages relating to logo guidelines.
+1. `static` > `img` > `brand:` The `brand` folder is where all media will be stored that links back to the Brand Guidelines.
+1. `nav.json:` This file dictates the structure reflected in the navigation bar on Pajamas.
+
+**Creating a new page**
+1. Right click on the folder where the page will be located. Select `New File`.
+1. Add your file name (this is what will be reflected in the URL path). End with the `.md` extension to denote a new markdown page. 
+1. Update the navigation bar with your new page by opening the `nav.json` file.
+1. Follow the [navbar configuration](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/blob/main/doc/navigation.md) to organize your pages. Nesting pages below other pages will create dropdowns in the navigation bar. 
+   1. `title` is how you want your name to display on the page. 
+   1. `path` is what is reflected in the URL path (this should match the file name of the page you made).
+
+**Note:** Pajamas uses markdown and the heading styles match the handbook. Add content as you normally would. 
+
+**Optimizing and uploading media**
+1. `.svg` format is ideal because it scales with the page. Optimize your file before uploading by using [SVGO](https://jakearchibald.github.io/svgomg/).
+1. `.png` or `.jpg` work well for graphics that contain images. [Optimize](https://tinypng.com/) your graphic before uploading.
+1. `.gif` format is not accepted.
+1. Upload all files to `static` > `img` > `brand` folder. 
+1. Videos can be embedded (either from Vimeo or Youtube).
+
+**Adding media**
+
+Add media using `figures`, which connect the visual with a caption. Here is the breakdown of their structure:
+
+1. `aria-label=` This text can be the same as the `fig caption`.
+1. `img class=` This formats the image's display size. `img-50` scales the width down to 50% of the page. `gl-p-5` scales to the full width of the page.
+1. `src=` This correspond's with the image's location. This should match the file name that corresponds with what you’ve uploaded to the `static` > `img` > `brand` folder.
+1. `alt=` This is alternate text that displays in the case that the media does not populate on the page; this should be more descriptive and unique from the `aria-label` and `fig caption`.
+1. `fig caption` This is the descriptive text displayed below the graphic.
+
+**Pushing your merge request**
+
+Smaller commits make collaboration easier. 
+
+1. Use [conventional commits](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/blob/main/doc/commits.md#pajamas-commit-conventions). The title of your commit can be generic, and the merge request description can be more detailed. `Type:feature` covers most of the updates our team makes.
+   1. `type:feature:` Effort to deliver new features, feature changes & improvements. 
+   1. `type:maintenance:` Up-keeping efforts & catch-up corrective improvements that are not Features nor Bugs. 
+   1. `type:bug:` Defects in shipped code and fixes for those defects. 
+   1. **Commit example:** `feat(BrandMotion): embed samples`. 
+      1. '_feat_' indicates the '_type_' of commit.
+      1. '_BrandMotion_' identifies the page the changes were made to.
+      1. '_embed samples_' describes the update that was made.
+1. `push` your commit to a `new branch`. Then select `create MR`. 
+1. Use the merge request description to add more detail that would be helpful for the reviewer. 
+1. Assign the merge request to yourself. 
+1. Add the label that reflects the commit type you made.
+1. Select `create merge request`. 
+1. Wait for the pipeline to complete, then assign either Jeremy or Taurie as the `reviewer`. 
+1. Once the pipeline has passed, check out the `review app` to preview changes. 
+
+
+ 
