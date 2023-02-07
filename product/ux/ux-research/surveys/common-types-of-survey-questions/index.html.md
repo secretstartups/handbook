@@ -17,15 +17,14 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: qualitative data such as providing feedback
      - Things to watch for: don’t use too many of these types of questions, time-consuming to analyze, participants tend to skip them and/or leave limited detail
 
-     ![OpenEndedImage](/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/open_ended.png)
+     <img src='open_ended.png' ALT='Example of an open ended survey question'>
 
 
 - **Multiple choice** - Offers respondents one or more options to choose from. Intuitive for respondents to complete. Can also be used with images as choices.
      - Best for: you have informed data to support the options, the options are distinct
      - Things to watch for: offering too many choices
 
-     ![MultipleChoiceImage](/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/multiple_choice.png)
-
+     <img src='multiple_choice.png' ALT='Example of a multiple choice survey question'>
 
 
 - **Rating scale** - Allows the respondent to select a number as their response.
@@ -33,8 +32,7 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: research questions that require numerical measures as data (example: scores, ratings, etc.)
      - Things to watch for: the scale needs to be defined (example: if the scale is ‘1-5’…define what 1 and 5 mean)
 
-     ![RatingImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/rating.png)
-
+     <img src='rating.png' ALT='Example of a rating scale survey question'>
 
 
 - [**Likert scale**](https://www.nngroup.com/articles/rating-scales/) - A type of a rating scale question that lets respondents choose words/phrases that align with their feelings.
@@ -42,8 +40,7 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: measuring feelings, attitudes, or opinions
      - Things to watch for: the scale needs to be balanced (has an equal number of positive and negative items)
 
-     ![LikertImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/Likert.png)
-
+     <img src='Likert.png' ALT='Example of a Likert scale survey question'>
 
 
 - **Matrix** - A set of questions that all have the same scale and are presented as a grid.  Often used in conjunction with Rating scale or Likert scale questions.
@@ -51,8 +48,7 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: consolidating questions that have the same scale into an efficient experience
      - Things to watch for: presenting too many questions in the matrix, keeping the scale the same, making sure the questions are clear and related
 
-     ![MatrixImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/matrix.png)
-
+     <img src='matrix.png' ALT='Example of a matrix survey question'>
 
 
 - **Ranking** - Allows respondents to rank a list of items, typically by preference.
@@ -60,7 +56,7 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: understanding how users rank certain items in relation to other items (example: ranking possible features to build)
      - Things to watch for: offering too many items to rank (very common) which can impact how much time it takes respondents to rank items, making sure respondents understand each item clearly (can be accomplished by [piloting the survey first](/handbook/product/ux/ux-research/surveys/piloting-your-survey/).
 
-     ![RankingImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/ranking.png)
+     <img src='ranking.png' ALT='Example of a ranking survey question'>
 
 ### Survey question examples
 
