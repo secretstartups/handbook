@@ -21,7 +21,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 |     Product Marketing    |    Technical Marketing    |
 | ------------------------ | ------------------------- |
-| Heather Simpson (@heather)  | Itzik Gan Baruch (@itzik ) |
+| Heather Simpson (@heather)  | Itzik Gan Baruch (@iganbaruch) |
 
 
 ## Background (2 min read)
