@@ -626,6 +626,8 @@ At the end of the process below will be output.
 2) Any file for the date range wil be present in the GCS bucket. 
 </details>
 
+**Note :** Zuora performs deletes/reconciliations(monthly and/or quarterly) at the source system and since zuora is a full refresh system, we get volume anomalies in Monte carlo which can be marked as expected.
+
 ## In order to add table for extraction to Snowflake.
 From this list if any table get the data and we need to add the entry to snowflake then we need to follow below steps.    
 **Step 1:** Add the entry `extract/zuora_revenue/zuora_revenue_table_name.yml` to add task in the `zuora_revenue_load_snow` DAG.  
