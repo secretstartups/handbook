@@ -40,8 +40,8 @@ We will resume the [by-the-book schedule](/company/okrs/#okr-process-at-gitlab) 
 The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=key_result&label_name%5B%5D=CEO%20OKR&first_page_size=20). CEO objectives and KRs are captured on this page. 
 
 ### 1. [CEO: Increase adoption through **customer results** and increasing operating income (NGOI)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121988141) 
-1. **CEO KR**: [Increase Ultimate adoption by X% and prevent churn by Y% versus current FY24-Q1 estimates](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994401)
-1. **CEO KR**: [Remove all manual steps in Fulfillment to enable self-serve](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121991887)
+1. **CEO KR**: [Increase Ultimate adoption by X% and prevent churn by Y% versus current FY24-Q1 estimates](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121991849)
+1. **CEO KR**: [Improve GitLab subscription purchase and management by completing 4 Fulfillment Efficiency initiatives](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121991887)
 1. **CEO KR**: [Deliver Value Stream Dashboards MVC 1 Beta](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121991904)
 
 ### 2. CEO: [Mature the Platform to be the leading DevSecOps platform](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121988427)
