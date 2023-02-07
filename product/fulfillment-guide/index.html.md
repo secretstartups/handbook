@@ -9,19 +9,22 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
-
-You can learn more about Fulfillment, what we do, our priorities and our roadmap by reading the [Fulfillment Direction](/direction/fulfillment).
-
-This page is for product and process documentation. 
-
-## Key Links
+## Key Fulfillment Documentation links
 
 1. [Fulfillment Direction](/direction/fulfillment): Outlines the Fulfillment vision and what we are working on next. 
-2. Fulfillment Guide (this page): documentation around CustomersDot Admin tools and process documentation that is not part of the [core product documentation](https://docs.gitlab.com/).
-3. [Dev - Fulfillment Sub Department](/handbook/engineering/development/fulfillment/): R&D team, priorities, prioritization processes, and more.
-4. [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/): documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, such as revenue-based KPIs or sensitive project documentation.
+2. [docs.gitlab.com Subscription documentation](https://docs.gitlab.com/ee/subscriptions/): includes customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information.
+3. Fulfillment Guide (this page): documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above.
+4. [Dev - Fulfillment Sub Department](/handbook/engineering/development/fulfillment/): R&D team, priorities, prioritization processes, and more.
+5. [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/): documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, such as revenue-based KPIs or sensitive project documentation.
+6. [UX Scorecards for Fulfillment](https://gitlab.com/groups/gitlab-org/-/epics/2015): A good way to see Fulfillment workflows in action is to view our scorecards. This is when we take a critical look at our UX and see where we can improve.
 
+## How to connect with us
+
+If your question is not answered by the key links above or this guide: 
+
+* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
+* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
+* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
 
 ## Fulfillment Feature Availability
 
@@ -42,18 +45,47 @@ Not all Fulfillment features are available at the time for all types of customer
 | GitLab for Education, Open Source and Startups Customers | No | No | No | No |
 | Free Tier Users | No | No | No | No |
 
-## Customer subscription lifecycle
+### User cap for groups on SaaS
 
-This section shows how customers interact with GitLab Fulfillment systems during their trial and purchase journey.
+We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
 
-### User Experiences
+### Billing & Subscription Management Features
 
-A good way to see Fulfillment workflows in action is to view [UX Scorecards for Fulfillment](https://gitlab.com/groups/gitlab-org/-/epics/2015). This is when we take a critical look at our UX and see where we can improve.
+List of features managed by the [billing and subscription management group](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
 
+#### Renew Subscription
+
+The renew subscription feature allows customers to renew their SaaS or Self-managed subscriptions. This feature is available through the `Renew` button on the subscription card in the [Customers Portal](https://customers.gitlab.com/).
+
+##### GitLab Docs for SaaS (public)
+
+- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#prepare-for-renewal-by-reviewing-your-account)
+- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#renew-or-change-a-gitlab-saas-subscription)
+- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
+
+##### GitLab Docs for Self-managed (public)
+
+- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#prepare-for-renewal-by-reviewing-your-account)
+- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-subscription-manually)
+- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
+
+##### Developer docs
+
+- [Walkthrough video](https://www.youtube.com/watch?v=OnjxaAUQb98)
+- [Snapshot of steps](https://app.mural.co/t/gitlab2474/m/gitlab2474/1674849812502/a4f3c7b6a1026911837d1c78d903b4d6522ab21d?sender=d04730c1-f654-453a-ba0a-208f33c27b93)
+- [Creating a subscription in Zuora to renew it in a local environment](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_tips_and_tricks.md#create-a-subscription)
+- [Generating coupon codes for community programs renewals](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/community_programs/coupons.md#coupons)
+
+##### Related terminology
+
+- [QSR](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
+- [True-up](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
+- [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
+- [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
 
 ## CustomersDot Admin Panel
 
-The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [CustomersDot](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/index.html) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
+The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [CustomersDot](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
 
 ### Sales Use of CustomersDot Admin
 
@@ -108,12 +140,6 @@ The list of namespaces are:
 1. Click on the `GitLab Groups`.
 1. If the trial is expired and needs to be extended, click on the `Renew Trial` button.
 1. Change the trial date as necessary and click on `Update`. **Warning:** Do not change the date to a date prior to today's date in UTC timezone.
-
-## How to connect with us
-
-* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
-* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
-* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
 
 ## Action plan for Fulfillment-impacting bugs
 
@@ -241,41 +267,3 @@ During these quarterly reviews we will aim to commit up to 70% of Fulfillment’
 #### Communicating roadmap changes
 
 Any proposed changes to the roadmap will be first communicated to cross-functional partners async in a relevant Slack channel with the relevant context and rationale, and ask for feedback. As needed, a synchronous meeting will be scheduled to discuss. All feedback will be considered by the product team and a final decision will be made and communicated once made.
- 
-## User cap for groups on SaaS
-
-We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
-
-## Billing & Subscription Management Features
-
-List of features managed by the [billing and subscription management group](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
-
-### Renew Subscription
-
-The renew subscription feature allows customers to renew their SaaS or Self-managed subscriptions. This feature is available through the `Renew` button on the subscription card in the [Customers Portal](https://customers.gitlab.com/).
-
-#### GitLab Docs for SaaS (public)
-
-- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#prepare-for-renewal-by-reviewing-your-account)
-- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#renew-or-change-a-gitlab-saas-subscription)
-- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
-
-#### GitLab Docs for Self-managed (public)
-
-- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#prepare-for-renewal-by-reviewing-your-account)
-- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-subscription-manually)
-- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
-
-#### Developer docs
-
-- [Walkthrough video](https://www.youtube.com/watch?v=OnjxaAUQb98)
-- [Snapshot of steps](https://app.mural.co/t/gitlab2474/m/gitlab2474/1674849812502/a4f3c7b6a1026911837d1c78d903b4d6522ab21d?sender=d04730c1-f654-453a-ba0a-208f33c27b93)
-- [Creating a subscription in Zuora to renew it in a local environment](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_tips_and_tricks.md#create-a-subscription)
-- [Generating coupon codes for community programs renewals](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/community_programs/coupons.md#coupons)
-
-#### Related terminology
-
-- [QSR](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
-- [True-up](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
-- [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
-- [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
