@@ -17,14 +17,14 @@ There are many types of survey questions to choose from when designing your surv
      - Best for: qualitative data such as providing feedback
      - Things to watch for: don’t use too many of these types of questions, time-consuming to analyze, participants tend to skip them and/or leave limited detail
 
-     ![OpenEndedImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/open_ended.png)
+     ![OpenEndedImage](/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/open_ended.png)
 
 
 - **Multiple choice** - Offers respondents one or more options to choose from. Intuitive for respondents to complete. Can also be used with images as choices.
      - Best for: you have informed data to support the options, the options are distinct
      - Things to watch for: offering too many choices
 
-     ![MultipleChoiceImage](sites/handbook/source/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/multiple_choice.png)
+     ![MultipleChoiceImage](/handbook/product/ux/ux-research/surveys/common-types-of-survey-questions/multiple_choice.png)
 
 
 
