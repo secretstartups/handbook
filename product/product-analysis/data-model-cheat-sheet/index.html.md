@@ -171,6 +171,8 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 
 * [Snowplow docs on standard fields](https://docs.snowplow.io/docs/understanding-your-pipeline/canonical-event/)
 
+* [Snowplow schema definitions in GitLab docs](https://docs.gitlab.com/ee/development/snowplow/schemas.html)
+
 
 </details>
 
