@@ -460,7 +460,7 @@ If any changes are required to a team members Job Title Speciality, the manager 
 ### For People Connect: Processing Manager changes
 1. The People Connect Specialist logs into Workday via Okta to approve the transfer in Workday > click on Inbox in top right corner
 1. Review the business process titled 'Transfer' and reason 'Manager to Another Manager' > click: approve
-1. Log into BambooHR and update the manager, as this is currently connected to PTO by Deel: Click on tab: Job > scroll to: Job Information > Click on: Update Job Information > Fill in the following fields: Under 'Effective Date' add the same effective date as in Workday and select under 'Reports To' the applicable new manager > click: save
+1. Log into BambooHR and update the manager, as this is currently connected to PTO by Deel: Click on tab: Job > scroll to: Job Information > Click on: Add Entry > Fill in the following fields: Under 'Effective Date' add the same effective date as in Workday and select under 'Reports To' the applicable new manager > click: save
 
 **Process for EBA to update senior leadership:**
 1. Send an email to People Connect, `people-connect@gitlab.com` requesting the changes to be made in Workday
