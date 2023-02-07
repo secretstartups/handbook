@@ -66,7 +66,7 @@ We have a number of automations around tickets in an `On-Hold` status:
 * Tickets without an assignee will be automatically reopened by the trigger
 [`Automatically reopen on-hold tickets without assignee`](https://gitlab.zendesk.com/agent/admin/triggers/360028981853).
 * Tickets with an assignee will be automatically reopened in 4 days by the
-  automation [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
+  automation [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393), unless the ticket is of type **Task**.
 
 ## SLA clock
 

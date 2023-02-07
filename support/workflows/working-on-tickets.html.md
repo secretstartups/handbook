@@ -209,7 +209,16 @@ There will be times when you may be leading an escalation or otherwise working t
    Please see the [Support Team Member Time Off page](/handbook/support/support-time-off.html)
    for a full description of this situation.
 
-### 4. May I reassign a ticket to someone else?
+### 4. The customer is absent and wants to keep the ticket open until they're back
+
+   The best course of action in this case is to acknowledge the customer's wish with a public response
+   and then set the ticket to **On-Hold** _and_ change it to type **Task** with a reminder for yourself
+   to check in with the customer x days after their planned return.
+   This way, the ticket will permanently stay **On-Hold** for the duration of the customer's absence. See
+   [Behavior of `On-Hold` tickets](/handbook/support/workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets)
+   for details.
+
+### 5. May I reassign a ticket to someone else?
 
    There are some situations in which it is appropriate to reassign a ticket:
 
@@ -236,7 +245,7 @@ There will be times when you may be leading an escalation or otherwise working t
       meessage informing the user that you’ve asked another support engineer to
       take the ticket due to your time constraints.
 
-### 5. A customer has confirmed a ticket can be closed but the ticket has no assignee - what should I do?
+### 6. A customer has confirmed a ticket can be closed but the ticket has no assignee - what should I do?
 
    This should only happen on rare occasions since in the SGG system all tickets
    should be assigned from the time the first response is made. When it does
