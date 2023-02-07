@@ -245,3 +245,37 @@ Any proposed changes to the roadmap will be first communicated to cross-function
 ## User cap for groups on SaaS
 
 We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
+
+## Billing & Subscription Management Features
+
+List of features managed by the [billing and subscription management group](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
+
+### Renew Subscription
+
+The renew subscription feature allows customers to renew their SaaS or Self-managed subscriptions. This feature is available through the `Renew` button on the subscription card in the [Customers Portal](https://customers.gitlab.com/).
+
+#### GitLab Docs for SaaS (public)
+
+- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#prepare-for-renewal-by-reviewing-your-account)
+- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#renew-or-change-a-gitlab-saas-subscription)
+- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
+
+#### GitLab Docs for Self-managed (public)
+
+- [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#prepare-for-renewal-by-reviewing-your-account)
+- [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-subscription-manually)
+- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
+
+#### Developer docs
+
+- [Walkthrough video](https://www.youtube.com/watch?v=OnjxaAUQb98)
+- [Snapshot of steps](https://app.mural.co/t/gitlab2474/m/gitlab2474/1674849812502/a4f3c7b6a1026911837d1c78d903b4d6522ab21d?sender=d04730c1-f654-453a-ba0a-208f33c27b93)
+- [Creating a subscription in Zuora to renew it in a local environment](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_tips_and_tricks.md#create-a-subscription)
+- [Generating coupon codes for community programs renewals](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/community_programs/coupons.md#coupons)
+
+#### Related terminology
+
+- [QSR](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
+- [True-up](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
+- [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
+- [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
