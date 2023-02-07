@@ -66,12 +66,21 @@ all translate into an action item. I use issues as a placeholder for discussions
 it's to document why I or we think it's not a good idea to do something. We can re-evaluate the
 topic long after, and still get the context which might have changed in the meantime. 
 
-I love merge requests too, and consider them as the new workspace. They invite everyone to contribute, 
+I enjoy merge requests too, and consider them as the new workspace. They invite everyone to contribute, 
 keep track of context and changes, let us loop in whoever is needed to review or approve, and least
 but not least have great flexibility for approval rules.
 
 I love UX and by extension simplicity, which is something I will always strive for. Complexity is
 growing exponentially, so I tend to push back on ideas that can be simplified. 
+
+Having managed a company for a decade, I have an affinity for:
+- added value: Return On Investment (ROI) is a great way to think about the value provided when a
+  decision is made. In everything I'm doing or planning to do, I'm always asking
+  myself what my added value in this matter is. How do I contribute to the success of the Security
+  Department and GitLab, the product and the company. 
+- risk assessment and management: Blind spots and dark corners keep me up at night. Legal and
+  security risks can arise everywhere, and I usually have a natural ability to find and recognize
+  them.
 
 ### Typical workday
 
@@ -102,3 +111,22 @@ the department). Reach out to me if you're not in this department and want to be
 ### Roadmap and Vision
 
 My roadmap and vision can be found [here](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/174).
+
+### Tooling
+
+These tools make my day, every single day. I would have a really hard time working without:
+
+#### Alfred:
+
+[Alfred](https://www.alfredapp.com/) is a productivity app for mac. It's a blazing-fast application
+launcher with some nice extra features. The best is the [clipboard
+history](https://www.alfredapp.com/help/features/clipboard/) that stacks everything copied in the
+clipboard. I can copy many different links for example and then switch to another window to paste
+them. It's also smart enough to remove secrets from 1password from the history once pasted.
+
+#### Little Snitch
+
+[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) is a smart firewall for Mac.
+It monitors all traffic and lets me choose what I accept or not. More importantly, it will trigger a
+pop-up when a new and unexpected connection is initiated, so I can spot if a program is trying to
+send something behind my back.
