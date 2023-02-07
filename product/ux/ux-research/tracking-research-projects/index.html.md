@@ -27,7 +27,6 @@ The labels are used to generate [this dashboard (internal only)](https://app.per
 
 Collectively, these data visualizations helps us understand more about the volume of UX research occurring, the lifecycle of a UX research project, and where UX research projects are taking place.
 
-<iframe id="sisenseContainer" width="100%" height="100%" frameborder="0"
- src="https://app.periscopedata.com/app/gitlab/1063612/embed=true" scrolling="auto"></iframe>
+ <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 15250081, dashboard: 1063612 embed: 'v2') %>">
 
 
