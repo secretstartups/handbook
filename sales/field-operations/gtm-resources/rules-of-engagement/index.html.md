@@ -26,7 +26,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY23 GTM
 
 ### Account Ownership Rules of Engagement 
 
-**Effective FY23-Q1**
+**Effective FY24-Q1**
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership. Before investing any effort, it is the responsibility of the sales rep to confirm that an account listed as owned by them in SFDC is in fact in their territory.**
 
@@ -105,7 +105,7 @@ An account that is owned by a local account rep regardless of the Global Account
 
 #### Holdover Accounts:
 
-An account that is being held by a Sales Rep that has been promoted or moved to a new territory. Holdover accounts will be marked using the Holdover Expiration date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as Named and must have manager approval from both the current manager and the global account rep’s manager.
+An account that is being held by a Sales Rep that has been promoted or moved to a new territory. Holdover accounts will be marked using the Holdover Expiration date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer must have manager approval from both the requestor's current manager and receiving manager of the account owner.
 
 #### Stand-alone Child Account:
 
@@ -116,36 +116,8 @@ An account that clearly has their own buying authority and purchasing process.
     1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
     2. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
         1. **APAC:** All countries covered by Enterprise.
-        2. **EMEA:**
-            - **Covered by Enterprise:**
-                1. UK and Ireland
-                1. Benelux
-                1. Nordics
-                1. Germany
-                1. France
-                1. Italy
-                1. Spain
-                1. Saudi Arabia
-                1. Israel
-            - **Any other country in EMEA not listed above is covered by Commercial**, including:
-                1. CIS (incl. Russian Federation)
-                1. CEE
-                1. Baltics
-                1. Gulf Countries (Excl. Saudi Arabia)
-                1. Any African country
-                1. Switzerland
-                1. Austria
-                1. Balkans
-                1. Greece
-                1. Portugal
-                1. Turkey
-                1. Middle East
-        2. **AMER:** 
-            - **Covered by Enterprise:**
-                1. Canada
-                1. Brazil
-                1. Mexico
-            - **Any other country in AMER not listed above is covered by Commercial** (Excl. United States)  
+        2. **EMEA:** All countries covered by Enterprise.
+        3. **AMER:** All countries covered by Enterprise.
                
             
 #### Franchises or Consultants  - Child Accounts:
@@ -246,6 +218,8 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
      - However, holdovers delay account transition and the formation of new pipeline by the new account owner because new account owners are not paid on holdover net ARR.
 1. **Minimize holdover volume** - volume should be minimized to the most impactful and mature deals in flight at the time of account transition
 1. Stage based criteria is not applicable for opportunities moving out of the Commercial segment. Stage criteria does not apply to holdovers for Commercial because Commercial leadership does not want this criteria to artificially inflate the value of the pipeline. Holdovers should be selected wisely as there will be no extensions to the holdover timeline.
+
+
 #### Opportunity Holdover Criteria
 The following criteria make a deal eligible for a holdover:
 
@@ -253,15 +227,15 @@ The following criteria make a deal eligible for a holdover:
 
 **Enterprise**
 1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo. Amount is >$5K for PS Only opportunities
-1. The deal is in stage 3+
+1. The deal is in stage 3+ 
 1. Close date must be within 90 days prior to holdover expiration date
 1. Requires evidence of engagement in the 30 days prior to announcement of the change
-1. Deals that meet this criteria are given a 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
+1. Deals that meet this criteria are given a maximum 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
 
 **Commercial**
 1. All opportunities that are **moving to Enterprise** that meet the Enterprise holdover policy thresholds (these opps are identified and flagged by Sales Operations)
      - Deals that meet this criteria are given a 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
-1. For opportunities that are **moving within Commercial**,  each affected Account Executive can hold over 2 opportunities.
+1. For opportunities that are **moving within Commercial**, each affected Account Executive can hold over 2 opportunities.
      - Opportunities will be discussed during AE/ASM 1:1’s and a final list will be shared with Sales Operations to be updated in SFDC. 
      - Deals that meet this criteria are given a 30 day holdover expiration period. If the deal does not close in 30 days it will be moved to the current account owner.
 
@@ -273,12 +247,21 @@ The following criteria make a deal eligible for a holdover:
 - There will be no considerations made to extend a holdover if the opportunity moves stages during the 90 day holdover period. 
 
 #### Additional Guidelines:
-- **Sell What You See Period** The interim period between the end of FY22 and when accounts have been aligned to FY23 owners in SFDC (2022-02-14 ETA) 
+- **Sell What You See Period** The interim period between the end of FY23 and when accounts have been aligned to FY24 owners in SFDC (2023-02-06 ETA) 
      - In this scenario, whoever closes the opportunity & his/her corresponding management will get paid (even if it’s going to a different owner)
-- **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience. (More details to come)
+- **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
+     - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
 - **For cross segment holdovers**, the governing rules are dictated by the team that is giving up/losing the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise team member would have a 30 day holdover period to close before it would be moved to the receiving Enterprise owner.
-- **Holdovers do not apply to FY23 ASMs/AVPs Sales Leaders** if the account is moving Areas.  
-     - Example:  If a Holdover opportunity closes during the 90-day period, and the account is moving to a new ASM / AVP, the receiving ASM / AVP of the account will receive 100% Bookings and Commissions credit.  The reason for this is the receiving ASM / AVP is carrying the quota associated with that account.  If the account is staying within the same Area, and not changing ASMs, the ASM will receive full Bookings as Commissions credit.  
+- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM to promote teamwork and alignment. During the 90 day holdover period, the bookings & commissions credit will be allocated as follows:
+    1. Month 1: 100% to the "Giving AE/ASM" and 0% to the "Receiving AE/ASM", 
+    1. Month 2: 75% to the "Giving AE/ASM" and 25% to the "Receiving AE/ASM",
+    1. Month 3: 50% to the "Giving AE/ASM" and 50% to the "Receiving AE/ASM"
+
+Within a Region under one ASM (or acting ASM), it is the ASM's responsibility to obtain and document agreement in chatter between the two AEs in that region.
+
+Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain agreement between the two ASMs in that Geo and document in chatter.
+
+     
 - **Sales Leaders** are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunities are not moved prematurely to stage 3.
 - Holdovers do not apply to TAMs or SAs. 
 - Holdovers do not apply to ISRs and Renewal Managers.
