@@ -34,6 +34,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
 | [**Escalation Process**](#escalation-process) |  [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitlab-legal-commercial-coverage-model-and-best-practices-for-a-legal-call) |
+| [**CLM Process**](#clm-process) |  |   
 | [**RFP Process**](#rfp-process) |  |   
 
 ## OPERATIONAL
@@ -144,6 +145,12 @@ GitLab includes a signed version of the DPA on the [Terms of Service](https://ab
 ## Escalation Process
 In instances where a Customer or a Partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the Overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable Escalation Form(s) _Note This document is only available for GitLab Team Members._ 
 
+## CLM Process
+- Contract Lifecycle Management (CLM) is a tool that enables the Commercial Legal Team to capture and report data related to legal and business terms. The ultimate goal of the CLM is to make the Legal process more efficient during the CPQ / quote-to-cash process and provide more visibility into the internal request process. Steps the Commercial Legal Team follows after an Agreement has been fully executed include:
+    1. Upload the fully executed version, which is to be saved in the SFDC Legal Request by the Sales Team Member, into the CLM tool via the Legal Request Case;
+    2. Complete the "Upload Intake Form" with the elements / information related to the Agreement being uploaded; and 
+    3. Hit "Save" 
+-  By uploading / saving the document in the CLM, the information supplied via the Intake Form will be stored in both the CLM, as well as in the Account details in SFDC. In addition, the fully executed version will be stored in the CLM Repository for ease of retrieval. 
 
 ## RFP Process
 With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html) handbook page. 
