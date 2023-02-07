@@ -10,7 +10,7 @@ Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [th
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
 
 ## Turnaround time
-Our "SLA": The blog team will review all blog post "pitches" within two business days and get back to you with suggestions/go-forward approval. Once a blog draft is received, our goal is to edit _urgent posts_ within one business day and non-urgent posts within three business days. **NB: As of November 2021, all blog posts must still be reviewed by legal, and that could add time to process, just to set expectations. 
+Our "SLA": The blog team will review all blog post "pitches" within two business days and get back to you with suggestions/go-forward approval. Once a blog draft is received, our goal is to edit _urgent posts_ within one business day and non-urgent posts within three business days. All blog posts must be reviewed by legal, and that could add time to process, just to set expectations. 
 
 If you're just looking for feedback on an idea, Slack us for a same-day turnaround.
 
