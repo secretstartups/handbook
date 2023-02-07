@@ -218,6 +218,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
+1. [Vue.js 3 Upgrade](/company/team/structure/working-groups/vuejs-3-migration/)
 
 
 ## Past Working Groups (alphabetic order)
