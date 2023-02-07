@@ -19,7 +19,7 @@ Within the industry, there are many strong opinions on survey scales, which have
 
 - **Try to use industry standards.** There are reasons why survey questions use certain scales.  More than likely, they’ve been heavily researched and tested already. Spend some time researching them to find something that works best for your survey questions—for example, [SUS](https://measuringu.com/sus/), [NPS](https://www.netpromoter.com/know/), or [CSAT](https://www.qualtrics.com/experience-management/customer/what-is-csat/).  Similarly, if you are using a 5-point scale for satisfaction, there are predefined languages around the options—for example: _very dissatisfied, dissatisfied, neutral, satisfied, very satisfied_. Qualtrics has a helpful library of these options built in.
 
-![Qualtrics image](sites/handbook/source/handbook/product/ux/ux-research/surveys/survey-question-scales/scale_option.png)
+<img src='scale_option.png' ALT='Screenshot of Qualtrics showing built-in scales to choose from'>
 
 - **Balance your scale.** Ensure there are options on each end of the spectrum. For example, for a survey question on satisfaction, the scale ranges from very dissatisfied to very satisfied. The ends of your scale should be opposites, and the middle should be neutral. 
 - **Avoid using scale options that can have varied interpretations.** Using emojis or language that can be misinterpreted could bias your results—for example, using an emoji scale. Emojis can have varied interpretations and thus lead to inconsistent responses, so it’s best to avoid using them in scale options. Similarly, be intentional about the language you use in the scale options, focusing on clear language that is not easily misinterpreted. When in doubt, pilot your survey as outlined above. 
