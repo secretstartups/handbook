@@ -37,7 +37,8 @@ A package is deployed to GitLab.com in the following steps:
 4. Like with deployment to staging-canary above, two sets of automated QA end-to-end/integration tests are run. One targets the canary stage of production, the other targets the main stage (to ensure the new and old code are still functional).
 5. After 30 minutes in the [canary stage of gitlab.com](/handbook/engineering/infrastructure/environments/#production-canary), and provided no new exceptions or alerts are reported, the package is considered to be ready for deployment to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging)
 6. The promotion to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging) is triggered manually by the release
-managers. Ongoing incidents or Change Requests with the `blocks deployments` label will prevent a deployment from continuing. 
+managers. Ongoing incidents or Change Requests with the `blocks deployments` label will prevent a package from being deployed to gstg (staging) and gprd (production). Note that deployments to canary (both gstg-cny and gprd-cny)
+will not be blocked. Migrations will also not be blocked since they are executed during canary deployments. However, post deploy migrations will be blocked.
 7. Deployment to the staging envionment
 8. Production checks are performed to asses the health of the environment. If considered to be healthy the pipeline will automatically continue
 9. Deployment to the production environment runs delayed to staging
