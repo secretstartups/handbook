@@ -76,11 +76,11 @@ Surveys rely on self-reported data, which is important to note.  As a guideline,
 ### How to conduct a survey
 If you’ve decided that a survey is the right method to use, you can follow the steps below to conduct a survey:
 1. [Define goals, objectives, and hypotheses](/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/)
-1. Determine your sample and sampling method
-1. Design your survey
+1. [Determine your sample and sampling method](/handbook/product/ux/ux-research/surveys/sample-sizes-for-surveys/)
+1. [Design your survey](/handbook/product/ux/ux-research/surveys/designing-your-survey/)
 1. Peer review
      - Have at least one other person review your survey.  It’s ideal if they’re experienced in conducting surveys and know to look for common pitfalls.
-1. Pilot your survey 
+1. [Pilot your survey ](/handbook/product/ux/ux-research/surveys/piloting-your-survey/)
 1. [Create a recruitment request issue to distribute your survey](/handbook/product/ux/ux-research/recruiting-participants/#open-a-recruitment-request-issue)
 1. [Analyze the data](/handbook/product/ux/ux-research/quantitative-data/)
 
