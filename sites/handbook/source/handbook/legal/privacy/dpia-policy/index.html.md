@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Data Protection Impact Assessment (DPIA)"
+title: "Data Protection Impact Assessment (DPIA) Policy"
 ---
 
 ## On this page

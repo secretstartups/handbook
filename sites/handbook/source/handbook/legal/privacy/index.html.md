@@ -8,115 +8,168 @@ description: "This page helps GitLab Team Members understand the privacy practic
 
 {:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-  {:toc .hidden-md .hidden-lg}
+TOC {:toc .hidden-md .hidden-lg}
 
-Much of the conversation about privacy references the GDPR, but this is only part of GitLab's dedication to user and team member privacy. The GDPR applies only to processing data of European Union subjects. However, GitLab treats all its users and team members the same, using the same standards for respecting privacy regardless of where the individual is located. This page is intended to help GitLab team members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our team members and users.
+## Overview
 
-## Privacy Training
+The Privacy Team is part of the Legal and Corporate Affairs Team. We provide support and guidance to uphold consistent business processes around the proteciton of personal data as it relates to GitLab customers, users, Team Members, and other natural persons. We collaborate cross-functionally and serve as advocates to ensure that the data privacy practices of GitLab meet the needs of our cross-functional partners and are continually balanced with an ever-changing global data privacy and protection landscape.
 
-Team members are required to to complete an annual training course covering general privacy practices worldwide. The goal of the course is to ensure team members understand how to handle personal data not only to ensure GitLab is compliant with legal and regulatory obligations but also to maintain the trust our customers have placed in us. The Slack channel #compliance-training is available for questions and concerns.
+## Quick Links
 
-## Privacy Glossary
+- [What is data privacy](/handbook/legal/privacy/#what-data-privacy-means)
+- [Privacy Terms](/handbook/legal/privacy/#privacy-terms)
+- [Vendor Privacy Review Process](/handbook/legal/privacy/#privacy-review-process)
+- [Internal Product Feature/Release Privacy Review](/handbook/legal/privacy/#internal-privacy-review)
 
-**Privacy by Design.** Privacy by Design is a concept predating the GDPR that focuses on intentionally designing a product that addresses privacy concerns of the individual. Under the GDPR ([Art. 25 GDPR](https://gdpr-info.eu/art-25-gdpr/)), data controllers have an obligation to consider appropriate technical and organizational measures when making product design decisions, such as determining the means of processing Personal Data. "Such measures could consist, inter alia, of minimising the processing of personal data, pseudonymising personal data as soon as possible, transparency with regard to the functions and processing of personal data, enabling the data subject to monitor the data processing, enabling the controller to create and improve security features." ([GDPR Recital 78](https://gdpr-info.eu/recitals/no-78/))
+## Privacy Statement Links
 
-**Privacy by Default.** Similar to Privacy by Design, Privacy by Default is an important concept to keep in mind during product development. This GDPR requirement of means that a user's privacy settings should prioritize privacy when left in the default setting. In other words, users should not have to customize settings in order to secure their privacy.
+- [GitLab Privacy Statement](https://about.gitlab.com/privacy/)
+- [GitLab Cookie Policy](https://about.gitlab.com/privacy/cookies/)
+- [GitLab Team Member Privacy Notice](/handbook/legal/privacy/employee-privacy-policy/)
 
-> The extent to which humans can enjoy their fundamental rights depends not only on legal frameworks and social norms, but also on the features of the technology at their disposal. - European Data Protection Supervisor, _Preliminary Opinion on Privacy by Design_ ([Opinion 5/2018 at iii](https://edps.europa.eu/sites/edp/files/publication/18-05-31_preliminary_opinion_on_privacy_by_design_en_0.pdf))
 
-**Privacy Rights.** The GDPR acknowledges several individual rights related to privacy. These definitions are outlined on our [Privacy Compliance page](https://about.gitlab.com/privacy/privacy-compliance/).
+## Contact the Team
 
-**Personal Data.** Generally, when we use the term _Personal Data_, we are using it as defined in the GDPR, regardless of whether we are talking about the GDPR or other privacy initiatives/regulations.
+Slack channel - #legal is the best place for questions relating to our team that do not require legal advice, deliverables, or any discussion of confidential information.
 
-> ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person ([Art 4 GDPR](https://gdpr-info.eu/art-4-gdpr/))
+For issues that require action from the Privacy Team, apply the label `Privacy::Intake`. This will update the [Privacy_Legal Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/5278056) and allow the team to triage the issue appropriately. We also use the following labels:
 
-**Sensitive Personal Data.** There is some data that is particularly personal and intimately tied to the core identity of a person. This type of information is considered sensitive and is defined by the GDPR as a special category of data that requires special regulations in processing. The categories are outlined in [Article 9 of the GDPR](https://gdpr-info.eu/art-9-gdpr/):
+- `Privacy::In Process` - when the Privacy Team is actively working on the issue
+- `Privacy::Pending Requestor` - when the Privacy Team has a requirement or task that must be met by the business owner before the issue progresses
+- `Privacy::Done` - when the Privacy Team has finished their portion of the issue
+- `Privacy::Attention` for awareness only, no action needed.
 
-> Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited.
+For sensitive, private, or confidential requests email legal_internal@gitlab.com. Please do not send emails to this address for engineering, marketing, sales or procurement requests. These should be directed to #legal or an issue should be created in the [Legal and Compliance](https://gitlab.com/gitlab-com/legal-and-compliance) project.
 
-Protected Health Information (PHI), which is defined in the United States by HIPAA, includes sensitive information about a person’s health or medical condition
 
-It is important to note that, sometimes, a particular piece of data may _feel_ sensitive - for example, a social security number - but this does not necessarily mean that it is legally protected in an extra-special way. Other examples of non-sensitive , but sensitive _feeling_ personal data are
 
-- Personal Credit Information (PCI) which includes credit card information
-- Personally Identifiable Financial Information (PIFI) which includes banking information, account numbers, and account information
+## What Data Privacy Means
 
-Sensitive data is typically data that is associated with who an individual is on a deep level, rather than merely identification information.
+Tell people what you are doing with personal data and why you are doing it so that the person can make an informed decision about whether they want to allow it to happen. Do not be creepy about what personal data is collected or how it is used and do not change the way personal data is used without first giving people notice and an opportunity to object, or, where required, obtaining prior consent. Make it easy for people to tell us their privacy preferences and honor those preferences even if they change over time. Build a product or service that has privacy-focused settings turned on by default and let the consumer decide if and when they want to change that. Transparency is a core value and every team member is responsible for the proper collection and use of personal data consistent with our [Privacy Statement](https://about.gitlab.com/privacy/).
 
-**Data Classifications.** GitLab uses a color system to label different types of data by associated risk. Please see Security's [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html) for more information.
+## Privacy Terms
 
-**Confidential Information.** This includes the business data that helps GitLab run strategically and includes business development plans/strategies, non-public financial information, third party data and government protected information. It also includes a special category of CI called "Trade Secrets."
+<details>
+<summary markdown="span">Privacy Term Definitions</summary>
 
-**Trade Secrets.** A subset of Confidential Information, Trade Secrets are defined by the [United States Patent and Trademark Office](https://www.uspto.gov/ip-policy/trade-secret-policy) as information that meets three distinct criteria. All three of these criteria must be met in order for the information to be classified as a trade secret:
+***Anonymization*** - the process of permanently and irreversibly altering personal data in a way that it is no longer capable of being related back to a specific individual.
 
-1. has either actual or potential independent economic value by virtue of not being generally known
-2. has value to others who cannot legitimately obtain the information
-3. is subject to reasonable efforts to maintain its secrecy
+***Consent*** - a freely given, specific, informed and unambiguous indication of an individual's wishes. Consent is captured by an unticked checkbox or other unequivocal statement which signifies agreement to the processing of personal data before or at the time of collection.
+
+***Data Classification*** - a method of determining types of data associated by risk. See [GitLab Security Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html) for more information.
+
+***Data Controller*** - a natural or legal person, agency, or other entity which alone, or jointly with others, determines the purpose and means of processing personal data. For example, GitLab is a Data Controller is in the areas of marketing and sales where the personal data of prospects and leads is managed solely at our discretion. GitLab also serves as a Data Controller for all personal data collected from Team Members for employment purposes and any administration of benefits.
+
+***Data Processor*** - a natural or legal person, agency, or other entity which processes personal data on behalf of a Data Controller. GitLab acts as a Data Processor when we manage personal data native to a Customer's instance or namespace.  GitLab acts as a Processor in these situations because the Customer is the ultimate owner of the data it submits to the service offerings, and our contracts servce as Customer's instructions to GitLab regarding the processing of their data.  
+
+***Data Subject*** - an identified or identifiable natural person.
+
+***Data Subject Rights*** - Rights granted to individuals in relation to personal data or information processed about them.  Because Data Subjct Rights are instrumental to the privacy and protection of data subjects, many of these rights are codified under global privacy legilsation, such as the GDPR, CCPA, and LGDP. If a business processes personal data pursuant to certain bases such as consent or legitimate interest, then a data subject may assert one of its fundamnetal rights and a business is obligated to respond under law.  The rights granted vary slightly by country, region, province or state. GitLab treats all users and Team Members the same and will respond to a data subject request from any individual user or team member even if they live in a country, region, or state/province without specific data protection laws. Expand the following section for more information about the data subject rights available.
+
+<details>
+<summary markdown="span">Data Subject Rights</summary>
+
+**Right of Access**.  A request seeking access to the specific pieces of personal data that have been collected and used by a Data Controller.
+
+**Right to Correct**. A request asking for inaccurate or incomplete personal data to be corrected.
+
+**Right to Delete**. A request which seeks the erasure of personal data relating to the data subject. Deletion requests must meet certain conditions and businesses are not required to delete any personal data that is processed to meet legal obligations, including that data which may be processed in pursuit or in defense of claims.
+
+**Right to Portability**. A request where the data subject wants to transfer their data to another Data Controller; typically seen when the individual changes service providers that share a compatible electronic filing system.
+
+**Right to Restrict Processing**.  This is a request for the Data Controller to stop processing personal data under certain circumstances. This may also include a request to limit the use and disclosure of Sensitive Personal Data.
+
+**Right to Object**. A request to opt-out of all data processing or specific processing of personal data based on consent or legitimate interest. Generally this is a request to opt-out of processing for targeted advertising, which includes the sale or sharing of personal data for profiling or cross-context behavioral advertising.
+
+**Right Not to be Subject to Fully Automated Decisions**.  This is a request that the data subject not be subjected to a decison based solely on automated processing, including profiling, which would have a significant legal impact. An example might be an algorithm that excludes someone of a certain race from obtaining a credit card.  
+
+</details>
+
+***DPIA*** - A Data Protection Impact Assessment is a method to review and document identified privacy compliance risks, as well as evalute higher risks to the rights and freedoms of individuals, including any that pose potential for significant harm. Learn more about GitLab's process for completing DPIAs [here](/handbook/source/handbook/legal/privacy/dpia/index.html.md/).
+
+***Personal Data*** - Any data, individually or when combined with other data, that identifies, relates to, describes or is reasonably capable of being associated with or linked to an identifiable natural person (a ‘data subject’), whether directly or indirectly. See also, Sensitive Personal Data.
+
+***Privacy by Default*** - A concept that should be implemented at the product development stage and uses appropriate measures to ensure that, by default, the only personal data processed is what is truly necessary. In practice, this means a user's privacy settings prioritize privacy in their default state.
+
+***Privacy by Design*** - A concept which focuses on intentionally designing a product that incorporates foundational privacy principles and ensures that Controllers and Processors are able to fulfill data protection obligations. This may include appropriate technical and organizational measures such as pseudonymisation and encryption.
+
+***Pseudonymization*** - the process of altering personal data so that it can no longer be attributed to a specific individual without the use of additional re-identifying information.  In order to practice successful Pseudonymization, the re-identifying information should be kept separate from the pseudonymized data.
+
+***Publicly Available Personal Data*** - refers to personal data that is publicly available from federal, state, or local government records or made manifestly public by the data subject. Under limited data privacy laws this may also include personal data made public through widely distributed media.
+
+***Sensitive Personal Data*** - Data that is particularly personal and intimately tied to the core identity of a person. This type of data generally includes racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data related to health, data related to sex life or sexual orientation, criminal offenses, and citizenship/immigraion status.  In some jurisdictions, Sensitive Personal Data includes government identifiers and financial data.
+
+</details>
+
+
+
 
 ## Privacy Review Process
 
-As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process), every vendor that handles Personal Data needs to go through a Privacy Review. Additionally, when new product features are being designed, there may be times when a formal privacy review is required. This section outlines the process for these reviews.
+Every vendor that handles personal data is required to go through a Privacy Review prior to being onboarded. Certain vendors who are classified as handling red or orange data under our [Data Classification Standards](/handbook/security/data-classification-standard.html) are reviewed annually. Additionally, when new product features are designed, there are times when a formal privacy review is required.
 
-### Vendor Privacy Review Process
+This section outlines the process for these reviews.
 
-1. In your Procurement issue, Business Owners will be asked a screening question about whether the vendor and/or tool they are procuring is collecting or processing Personal Data. If the answer to this question is `yes` then they will need to create a [Vendor Procurement Privacy Review issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=vendor-procurement-Privacy-Review) in the Legal and Compliance issue tracker.
-2. Business Owners are responsible to complete Steps 1-4 of the issue description in order to provide the relevant information to the Privacy department.
-3. Once the privacy review issue has been submitted, Privacy staff will review the answers and the vendor's policies, as well as GitLab's security review to ensure that risks and mitigations are documented correctly. This may involve asking the Business Owner for additional information.
-4. When the information in the review is deemed accurate and complete, the information will be reviewed determine the scale and severity of the risk. This risk will then be weighed against existing mitigations to determine if the tool is okay to approve as is or whether additional mitigations must be put into place.
+## Vendor Privacy Review
+```mermaid
+graph LR
+   A[Evaluating Potential<br> New Vendor] --> Did1[(Is there a Zip Request?)]
+   B[Pilot with<br> New Vendor] --> Did1[(Is there a Zip Request?)]
+   C[Renewing<br> Vendor] --> Did1[(Is there a Zip Request?)]
+   Did1 --> E1[Yes]
+   Did1 --> E2[No]
+   E1 --> F[Privacy Review runs<br> concurrently with <br> Security and Legal in Zip]
+   E2 --> G[Is there an existing Issue?]
+   G --> H1[Yes]
+   G --> H2[No]
+   H1 --> I[Add `Privacy::Intake`<br> label to the Issue]
+   H2 --> J[Create New Issue]
+   F --> K[Privacy Review SLA<br> is 2 weeks]
+   I --> K
+   J --> K
+   K --> L[If DPIA required<br> SLA for DPIA<br> is 4 weeks]
 
-(_Note: A DPA will be required for any vendor that processes Personal Data on GitLab's behalf. The reviewer will advise the Business Owner when to send our DPA to the vendor for review. When the DPA has been accepted by the vendor, it should be uploaded to the Procurement issue to be sent for internal signatures._)
+   click Did1 "https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/"
+   click J "gitlab.com/gitlab-com/legal-and-compliance/-/blob/master/.gitlab/issue_templates/Vendor-Procurement-Privacy-Review.md" _blank
 
-5. After the Business Owner acknowledges the necessary mitigations, the reviewer will mark the privacy review issue and the related Procurement issue on whether the tool will require additional review prior to implementation.
-6. The reviewer will close the privacy review issue when the review is complete.
+   style A fill:#9370DB
+   style B fill:#9370DB
+   style C fill:#9370DB
+   style Did1 fill:#FF8C00
+   style E1 fill:#696969
+   style E2 fill:#696969
+   style F fill:#FF8C00
+   style G fill:#FF8C00
+   style H1 fill:#696969
+   style H2 fill:#696969
+   style I fill:#3CB371
+   style J fill:#3CB371
+   style K fill:#4169E1	
+   style L fill:#4169E1	
 
-### Implementation Privacy Review Process
 
-On occassion, the initial privacy review identifies a tool that will need additional review prior to implementation of the tool. Other times, we may plan to begin using a current tool in a new way. In both of these cases, an Implementation Privacy Review will facilitate further documentation of what specific risks exist and what mitigations are put in place.
 
-1. Business Owners [create and complete an issue for this](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=gitlab-release-Privacy-Review) using the GitLab Release Privacy Review template.
-   - The review asks if and how the tool will collect _new_ Personal Data, as well as if and how the tool will process _existing_ Personal Data. Please answer every question, using `n/a` if the question is not relevant to this particular use of the tool.
-   - Tables should be filled out as completely as possible for efficiency of the process.
-2. The Privacy Officer will review the answers, asking follow up questions as needed, and determine what additional mitigations will be utilized to control the risks.
-3. After the Privacy Officer documents the additional mitigations, the Business Owner must comment with acknowledgement and deadline commitment to put controls in place prior to implementation.
 
-## Data Protection Impact Assessments (DPIAs)
 
-In some rare cases, the privacy review process will uncover even risk that a full Data Protection Impact Assessment (DPIA) will be necessary. A DPIA ensures all the necessary controls are in place to cover your most important assets - personal information.
+```
 
-The DPIA is a legal strategy document that will be presented to the relevant authorities if necessary. Because the document is privileged, it is confidential and accessible only by the Legal team and those individuals who are necessary to assist with its completion.
 
-For more information, check out GitLab's [DPIA Policy](/handbook/legal/privacy/dpia-policy)
 
-### DPIA FAQ
+## Internal Privacy Review
 
-**What is a Data Protection Impact Assessment (DPIA)?**
-A DPIA is a tool that is utilized to identify and analyze risks for individuals, which exist due to the use of a certain technology or system by an organization in their various roles (as citizens, customers, patients, etc.). On the basis of the outcome of the analysis, the appropriate measures to remedy the risks should be chosen and implemented. A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation is required.
+<details>
+<summary markdown="span">Internal Product Feature/Release Privacy Review Process</summary>
 
-DPIAs are addressed in [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/).
 
-**When is a DPIA required?**
-A DPIA is only required when the data processing is “likely to result in a high risk to the rights and freedoms of natural persons” (GDPR Article 35(1)), but processors must continuously assess the risks created by their processing activities to identify when a type of processing requires them to conduct a DPIA. The questions in pay to procure process are to assist you in assessing whether a DPIA is required and should be re-evaluated periodically in light of the list of processing operations that the Supervising authority deems subject to the requirement of a DPIA.
+Anytime a new feature or a change to an existing feature is planned, Product Managers and Engineering Managers should evaluate if the planned development presents a legal risk where personal data is involved. If Personal Data is impliciated, utilize the [Legal Risk Checklist and Workflow](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/legal-risk-checklist/) (_internal only_)
 
-The assessment of whether there is a need for a DPIA, as well as any required DPIA should be carried out _prior to_ processing.
+</details>
 
-**Why is a DPIA Conducted?**
-A DPIA aims to accomplish two outcomes:
 
-1.  Identify the risks associated with processing the collected personal data
-2.  Establish mitigation strategies and tactics to lessen the identified risks
+## Privacy Training
 
-**Who is involved in the DPIA process?**
-The GDPR establishes that data controllers are responsible to carry out the assessments. Controllers also seek the advice of the data protection officer and "where appropriate" seek the view of data subjects themselves. (Article 35(2) and (9).)
+GitLab Team Members are required to complete annual training which covers general privacy practices worldwide. The goal of annual training is to ensure that Team Members understand what personal data is and how to handle it to ensure that GitLab maintains the trust our customers have placed in us as well as to ensure that GitLab remains compliant with frequently changing legal and regulatory obligations.
 
-At GitLab, the DPIA process is initiated by a tool's Business Owner during the [Procure to Pay Process](/handbook/finance/procurement/), during which the Business Owner must complete a [Privacy Review issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). If a DPIA is required, the Privacy Officer will work with the Business Owner to accomplish this.
 
-### GitLab's DPIA Process
 
-As noted above the DPIA is a confidential document that is only accessible on a need-to-know basis. The document will be shared only with Legal team members and others who are necessary to complete it. When the Privacy Officer deems it necessary to complete a DPIA on a tool, the process is as follows:
 
-1. The GitLab Privacy team uses the DPIA template to create a new document in Drive.
-2. Privacy team staff will complete the DPIA based on previously completed Privacy reviews.
-3. The Business Owner will then be brought in to assist with additional information, as necessary.
-4. Security will be consulted on current and recommended controls.
-5. Privacy will ensure that all sections are complete and that supporting documentation is attached as appendices.
