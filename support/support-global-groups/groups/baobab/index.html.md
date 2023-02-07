@@ -116,8 +116,8 @@ In case you need to change or reschedule your focus time, please notify your reg
 
 | SE/DAY | Monday| Tuesday | Wednesday | Thursday | Friday |
 | ------------| -------------- | --------| ----------| ---------| -------|
-| Matthew Badeau | | | | | |
-| James Reed |
+| Matthew Badeau | | | 06:00 - 09:00 AM | 06:00 - 09:00 AM | |
+| James Reed | | | | | |
 | Shaik Azhar |
 | Sam Hewitt |
 | Justin Farmiloe |
