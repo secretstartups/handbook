@@ -12,39 +12,15 @@ title: "Security OKRs"
 ## Security OKRs
 The Security organization executes quarterly [Objectives and Key Results or OKRs](https://about.gitlab.com/company/okrs/).
 
-## Security OKR Dashboards
-For added transparency, the following shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
+### How We Plan, Assign, and Execute Work
 
-### Current Quarter
+Four Mondays before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, the CISO proposes OKRs for the Security department in the OKR draft review meeting agenda for a maximum of 3 objectives. Security leaders are to propose draft OKRs to the CISO prior to the meeting for inclusion. 
 
-<iframe src="https://app.ally.io/public/LapgIqsF71w504a" class="dashboard-embed" height="1700" width="100%" style="border:none;"> </iframe>
+From FY24 Q1 forward all Security OKRs are documented in the [GitLab OKR project](https://gitlab.com/gitlab-com/gitlab-OKRs). For easy filtering, all Security Objective and KR issues have [Label = Department::Security](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Department%3A%3ASecurity&first_page_size=100) applied.
 
-### Previous Quarter
+Larger initiatives that span the scope of multiple teams or projects may require a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/).
 
-<iframe src="https://app.ally.io/public/fTPSYA36v3Li69f" class="dashboard-embed" height="1590" width="100%" style="border:none;"> </iframe>
-
-## How We Plan, Assign, and Execute Work
-
-OKRs are documented in [Ally](https://ally.io/). Any work that is related to an OKR is tracked with a GitLab.com issue(s) in the appropriate team or project tracker and linked to the OKR in Ally.
-
-Larger initiatives that span the scope of multiple teams or projects may require a [Planning](./planning) handbook page to further developer requirements.
-
-### New Security OKR - Ally Template 
-
-:scissors: Copy and paste the below into the Ally OKR Description 
-
-```
-## Objective: 
-`what is the desired outcome of this OKR and how does it align with organizational strategy? How will you measure success?`
-### Security Roadmap: 
-`what security roadmap item does this OKR support`  
-### Dependencies:  
-* [ ] `dependency description` (tag stakeholder)
-* [ ] `dependency description` (tag stakeholder)
-* [ ] `dependency description` (tag stakeholder)
-## Budget: 
-`Any budget required to execute this OKR?`
-```
+## Templates
 
 ### New Security KR - GitLab Template 
 
@@ -53,9 +29,8 @@ Larger initiatives that span the scope of multiple teams or projects may require
 ```
 `Issue Title: Fiscal Year Quarter KR# (OKR Title Reference) measurable title. Example: FY22 Q3 KR1 (Security Training) Achieve 90% completion rate org wide for annual security training.`
 
-## Ally OKR: `link to Ally OKR record`
-## Objective: 
-`what is the desired outcome of this KR? How will you measure success?`
+## Dependencies 
+`what do you need to be succcessful with this KR`
 ## Milestones
 - [ ] Milestone 1: Description: `add here` Due Date: `add here` DRI: `add here` 
 - [ ] Milestone 2: Description: `add here` Due Date: `add here` DRI: `add here`
@@ -64,22 +39,36 @@ Larger initiatives that span the scope of multiple teams or projects may require
 `Additional instructions: update due date of issue to final milestone due date and assign issue to overall DRI. For additional details around KR DRI responsibilities please refer to [this runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/quarterly-okrs/-/blob/main/runbooks/kr_ownership_responsibilities.md).`
 ```
 
-### Security OKR Weekly Update - Ally Template 
+### Security Objective Monthly Update - Objective Template 
 
-:scissors: Copy and paste the below into the Ally OKR Check-in Note 
+Field updates: 
+- Progress %
+- Health Status: On Track/Needs Attention/At Risk
+
+:scissors: Copy and paste the below into the GitLab.com Objective Issue(s)
 
 ```
-## Weekly update
+# Monthly update
 `On Schedule/At Risk/Behind Schedule`
 
-## What was accomplished
-`What did you accomplish this week?`
+## Major deliverables
+`What did you accomplish this month?`
+
+## Risks
+`What risks are you tracking that could impact this obective`
+
+## Asks
+'Any new asks that have emerged for this objective'
 
 ## Next steps
-`What will you work on next week?`
+`What will you work on next month?`
 ```
 
-### Security KR Weekly Update - GitLab.com or Ally Template (optional)
+### Security KR Weekly Update - GitLab.com or Ally Template
+
+Field updates: 
+- Progress %
+- Health Status: On Track/Needs Attention/At Risk
 
 :scissors: Copy and paste the below into the GitLab.com KR Issue(s) 
 
@@ -88,12 +77,9 @@ Larger initiatives that span the scope of multiple teams or projects may require
 Status: :white_check_mark: - On Track, :warning: - Requires Escalation, :octagonal_sign: - Blocked (Leave the relevant status, remove the rest and this note)
 Percentage complete: XX%
 
-## Completed
-* (List of what tasks were completed since last update)
+## What was accomplished this week
+`What did you accomplish this week?`
 
-## Next steps
-* (List of what needs to happen in the next 1-2 weeks)
+## What will be accomplished next week
+`What will you work on next week?`
 ```
-
-## Additional Ally Instructions
-- Refer to the parent [Engineering OKR process](https://about.gitlab.com/handbook/engineering/#engineering-okr-process).
