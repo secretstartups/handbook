@@ -106,7 +106,7 @@ This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other S
 
 The number or complexity of features owned by a team, existing product priorities, or the team size does not influence the budget.
 
-## Budget spend announcements
+## Budget Reporting
 
 On the 4th of each month, the Error Budget Report is delivered for the Budget Spend by Stage Group.
 The announcements appear in `#product`, `#eng-managers`, `#f_error_budgets` and `#development`.
@@ -115,7 +115,12 @@ There can be months where many stage groups are over budget because of an underl
 When the report is generated, if there are more than 5 groups over budget (where the group's traffic share is >0.1%), the Scalability Group will investigate the increased spend before issuing the report. We will announce in the Slack channels that we are investigating before issuing the report. 
 The intention is to prevent duplicate investigations by multiple teams. 
 
-Feature categories with monthly spend above the allocated budget for three consecutive months are reported as part of the Engineering Allocation meeting.
+Stage groups are expected to review the monthly Error Budget Report and comment on any overspend in their feature categories. 
+
+### Error Budgets in the Engineering Allocation Meeting
+
+Stage groups are not expected to report weekly on their Error Budget spend. 
+Feature categories with monthly spend above the allocated budget for three consecutive months will be added to the agenda for discussion.
 
 ## Budget spend(by service)
 
