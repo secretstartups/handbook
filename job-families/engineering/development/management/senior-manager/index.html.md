@@ -5,8 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. 
-A Senior Engineering Manager will manage [Backend Engineering Managers](/job-families/engineering/development/backend/manager/), 
+Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. Senior Engineering Managers may or may not manage engineering managers in their role but they must be capable of managing [Backend Engineering Managers](/job-families/engineering/development/backend/manager/), 
 [Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/),  
 and [Fullstack Engineering Managers](/job-families/engineering/development/management/fullstack-manager/).
 
@@ -15,18 +14,21 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Hire and build a globally-distributed, happy, and successful team
 * Plan and execute long term strategies that benefit your team and the product stage(s)
 * Understand [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators) and seek to improve them
-* Manage two or more [engineering teams](/handbook/engineering/#engineering-departments-sub-departments--teams) with at least two managers, engineering.
-* Conduct managerial interviews for candidates, and train engineering managers to do said interviews
+* Lead and drive significant results for multiple teams. Examples include, but are not limited to:
+    * Managing 3 or more [engineering teams](/handbook/engineering/#engineering-departments-sub-departments--teams) with at least three engineering manager direct reports.
+    * Managing two or more [engineering teams](/handbook/engineering/#engineering-departments-sub-departments--teams) with individual contributor direct reports.
+    * Leading business critical cross-functional initiatives in addition to managing a team. 
+* Conduct managerial interviews for candidates, and train engineering managers to do managerial interviews
 * Generate and implement process improvements, especially cross-team processes
-* Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and [skip-level](/handbook/leadership/skip-levels/) 1:1s with all members of their team
-* Provide your team with management mentorship
+* Hold regular [1:1s](/handbook/leadership/1-1/) with team members and [skip-level](/handbook/leadership/skip-levels/) 1:1s with indirect reports
+* Provide management mentorship
 * Enable [quad planning team](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/company/team/structure/#product-groups)
 * Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
-* Ensure psychological safety on your team
+* Contribute to the sense of psychological safety of multiple teams.
 * Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
 * Improve product quality, security, and performance
-* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members
 
 ## Requirements
 
@@ -58,14 +60,14 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Be a user of GitLab, or familiar with our company
 * Prior Developer Platform or Tool industry experience
 * Prior high-growth startup experience
-* Experience working on systems at massive (that is, consumer) scale
+* Experience working on systems at massive, consumer scale
 * Deep open source experience
 * Experience working with global teams
 * Be inquisitive: Ask great questions
 
 ## Job Grade
 
-The  Senior Engineering Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
 
