@@ -40,15 +40,6 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup onboarding buddy is available to offer support.
 1. **Consider a long-term mentorship program**. It can take a long time before new team members are comfortable in their new role, and having a mentor during that process goes a long way to help the transition into their role's responsibilities go as smooth as possible. Consider setting up a weekly, or bi-weekly one-hour mentorship session, which your buddy can use to bring up any matter they are struggling with along the way.
 
-## Buddy Program
-
-In an effort to recognize buddies who go above and beyond to support new / transitioning team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Connect team will evaluate the onboarding / career mobility buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) or [Career Mobility Survey](https://docs.google.com/forms/d/e/1FAIpQLSdhH9vJ_Ztf0fR6MI3U165EJn6mytBk2gbC2wG0B381IpBfyw/viewform) filled out by the team members after their first 30 days at GitLab or 14 days after transition to the new role. To qualify, the buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter.
-
-The People Connect team will randomly select 3 winners giveaway link to order a prize from our swag collection (approx $25 value).
-
-- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Survey**, the buddy will not be entered into the raffle.
-- In case of a buddy being selected twice, a re-draw will take place.
-
 ## How Can I Become An Onboarding Buddy?
 
 Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
@@ -105,18 +96,4 @@ This is an example template you can use to introduce yourself to a new team memb
 
 ## That's it!
 
-That's all there is to it! Thanks for your help welcoming the newest GitLab team-member to the team and getting them on board. If you have questions that are not answered on this page, please [reach out to People Ops](/handbook/people-group/)!
-
-## Procedures
-
-### Onboarding Buddies Procedures for People Connect
-
-1. Open a new issue for the Onboarding/Career Mobility Buddy Quarterly raffle using the available [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/quarterly_onboarding_buddy_winner.md). This allows the People Connect Team to track the progress of outstanding tasks and iterations.
-1. Go through the relevant names in the OSAT Survey [results](https://docs.google.com/spreadsheets/d/1sAaQntIaQAnj8Z1NY6WRyQGRIyIoKa_6TratKWtScdo/edit#gid=63110344) and Career Mobility Survey [results](https://docs.google.com/spreadsheets/d/1rxrtgxZUrSVHwBj3ZGtn8UUDV32juBknlx6BKQBjHTE/edit#gid=1057162945) sheet.
-1. Create a new tab in the `Onboarding Buddy Raffle Names` [spreadsheet](https://docs.google.com/spreadsheets/d/17_DKxVvT277YnJcEnN-j4Th8I_WmSAUo9GJ4Znh_xPk/edit#gid=525713889) in Google Drive for the respective quarter and add the relevant onboarding buddy names.
-1. Make a comment in the top of the spreadsheet marking which rows from the survey results are being used.
-1. Place all names in the wheel of names and design according to GitLab colors.
-1. Record yourself spinning the wheel of names for the winners of the raffle.
-   - [To Record yourself](https://support.apple.com/en-us/HT208721), use Command, Shift, 5 on your keyboard to record your screen.
-1. Post the recording and announcement of the winners in the #whats-happening-at-gitlab Slack channel - making sure to tag the winners.
-1. Once the draw has taken place, send the winners an email with the Printfection link in order to redeem their prize. The link can be found in the People Operations 1Password vault under `Gift & Flower Vendors` - `Printfection Onboarding Buddy Prize Link`
+That's all there is to it! Thanks for your help welcoming the newest GitLab team-member to the team and getting them on board. If you have questions that are not answered on this page, please [reach out to the People Connect Team](https://about.gitlab.com/handbook/people-group/people-connect/)!
