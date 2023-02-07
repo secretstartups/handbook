@@ -21,8 +21,8 @@ One of the team's initiatives has been to conduct short training sessions on dif
 
 ## Finance System Guides
 * [How to create custom fields in Netsuite](./ns-custom-field)
-* [BambooHR Integration with Finance Systems](./bhr-finance-automation)
-* [Zuora Collect module](./zuora-collect/)
-* [Coupa P2P](./coupa-guide)
+* [Coupa End User Guide](./coupa-guide)
+* [Zip End User Guide](./zip-guide)
 * [Product Catalog Guide](./product-catalog)
+* [Navan Expense End User Guide](./navan-expense-guide)
 
