@@ -14,11 +14,11 @@ description: "Available development paths and resources for Customer Success Man
 As a Customer Success Manager, it is essential to understand what resources are available for your personal and professional development.   This page strives to be a place for leadership and CSMs to contribute to resources available for the progression and development of the CSM team.
 
 ## Key handbook sections, roadmaps and L&D platforms for enablement:
-1. [CSM Planned Enablement Roadmap for Q4 FY23](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g16fc16e7b48_0_0)
-1. [CSM Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit) (updated Quarterly with Key Dates and CSM required actions)
+1. [CSM Planned Enablement Roadmap for FY24](https://docs.google.com/presentation/d/1maP9grsRJTlEsPsvQSw3d2jxw6BB-tgnURmA2lvOC_I/edit#slide=id.g1d865653f95_8_0)
+1. [CSM Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit?usp=sharing) (updated Quarterly with Key Dates and CSM required actions)
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfxhniPy9BWx7I4e9VZrZmWlYLAijmVP5whTGYbCOBCVE5aQk9Bh9sZcI3zlN8pCmQmTNRhpFLNxSq/embed?start=false&loop=false&delayms=3000&slide=id.g16fc16e7b48_0_0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9tOQWZ771-M2nrIQkqIpx3XF7f9q1xXbBRkW5D-_UAyksak626FVn0Ovrj0j7rHDurML4N8f83IY/embed?start=false&loop=false&delayms=3000&slide=id.g2060538b15c_0_0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
