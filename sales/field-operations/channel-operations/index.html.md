@@ -697,7 +697,7 @@ Below are descritpions of the different columns in the Channel Forecasting modul
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
 For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
  
-### Opportunity Tagging for GCP and AWS Deals
+### Opportunity Tagging for Marketplace Deals
 ***Use Case 1: Partner Co-Sell (Marketplace transaction with no source credit)*** 
 
 If a deal is being transacted through **GCP Marketplace** or **AWS Marketplace**, then the following fields need to be filled out on the opportunity:
@@ -719,6 +719,17 @@ If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting 
 
 If GCP or AWS support a deal and help drive the customer to buy GitLab, but were not the original source of the opportunity nor are they transacting the deal, then the following field should be filled out on the Opportunity:
 - **Influence Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
+
+### Quote Tagging for Marketplace Deals
+ - If a deal is being transacted through the **Google Cloud Marketplace**, use the following values in the quote:
+   - Invoice Owner = Google Cloud Marketplace 
+   - Invoice Owner Contact = Cloud Marketplace Payments
+         _Note: search “Payments” (with quotation marks) for the correct contact to populate in this field)_
+   - Resale Partner = Google Cloud (Partner)
+ - If a deal is being transacted through the **Amazon Web Services Marketplace**, use the following values in the quote: 
+   - Invoice Owner = Amazon Web Services, Inc. 
+   - Invoice Owner Contact = Accounts Payable (AWS) 
+   - Resale Partner = Amazon Web Services
 
 ### Marketplace Transaction Fees
 Deals booked through the Amazon and Google markeplaces use the fee schedules as shown in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.16z0a5v6j1e2).
