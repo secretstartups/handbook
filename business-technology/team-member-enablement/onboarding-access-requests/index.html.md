@@ -259,7 +259,7 @@ You must open an issue in the [Team Member Enablement Issue Tracker](https://git
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [JAMF for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 
@@ -361,38 +361,11 @@ To provide proof of Full Disk Encryption, please do the following depending on t
 
 GitLab has a large and ever-growing fleet of laptops, which IT Operations is responsible for maintaining.
 In order to do this and combined with our Zero Trust security policies and various Compliance needs, there must be some measure of intelligence and reporting in place.
-To accomplish this goal we are utilizing JAMF for MAC devices to obtain only the essential information required. For Linux machines we will be utilizing DriveStrike as a light-touch mechanism.
+To accomplish this goal we are utilizing Jamf for MacOS devices to obtain only the essential information required. For Linux machines we will be utilizing DriveStrike as a light-touch mechanism.
 
-For more information regarding JAMF, refer to our [Endpoint Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) handbook page.
+For more information regarding Jamf, refer to our [Endpoint Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) handbook page.
 
-**DriveStrike**
-
-DriveStrike is available for Linux operating systems, and also meets security needs for remote lock or wipe in emergencies.
-
-DriveStrike installs for GitLab will NOT have the ability to execute remote commands.
-DriveStrike installs for GitLab WILL have the ability to remotely lock or wipe hardware, for use in emergency or offboarding situations.
-DriveStrike may be installed on non-GitLab hardware, opting-in to the same data collection and security.
-DriveStrike collects the following information for GitLab:
-
-- Usernames & Accounts present on the machine
-- Machine Name, Make, Model, MAC, Serial #
-- Hardware Specifications (CPU, RAM, HDD + % Used)
-- Firewall status
-- OS Version & Patch/Update status
-- Disk encryption status
-- Battery Health
-- All nearby WiFi networks, including SSID, signal strength, channel, and MAC address
-
-This light-touch reporting allows us to meet business and compliance needs, while maintaining the privacy of the GitLab team member. This will remain a top consideration throughout the process.
-
-
-**Drivestrike Installation Process**
-
-If you are retaining your laptop/receiving a new laptop upgrade we will need to wipe your old laptop. The team member enablement team will email you a link with Drivestrike to install on the laptop that needs attention. To install follow the below workflow : -
-
-1. Open the email on the device you want protected.
-2. Click the link provided in the email to install
-3. Use your `@gitlab.com` if installing DriveStrike prompts you for an email address.
+For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/index.html.md) handbook page.
 
 ### Slack Emoji Workflow
 
