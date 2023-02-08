@@ -85,7 +85,7 @@ The last step is to bring the results from the calculator to the quarterly resea
 
 2. @ mention the team to provide awareness that the prioritization is complete and is open for discussion. Discuss decisions around the prioritized list of projects and the timelines.
 
-3. Add the applicable [research prioritization label](/handbook/product/ux/ux-research/tracking-research-projects/index.html.md.erd) to each research issue to generate [this dashboard (internal only)](https://app.periscopedata.com/app/gitlab/1063612/UX-research-projects).
+3. Add the applicable [research prioritization label](/handbook/product/ux/ux-research/tracking-research-projects/index.html.md.erb) to each research issue to generate [this dashboard (internal only)](https://app.periscopedata.com/app/gitlab/1063612/UX-research-projects).
 
 _Timeline guidance for Step 3:_ This should be completed within one week
 
