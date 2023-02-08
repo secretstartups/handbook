@@ -226,11 +226,6 @@ If moderate or low risk observations are noted during the review process the Bus
 
 Please refer to our [StORM Methodology Handbook](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers.
 
-### Privacy Review
-Privacy review is required for vendors/applications interacting with personal data relating to GitLab team members, vendors, or customers. Inquiries related to privacy controls are included in the Orange/Red TPRM questionnaire template, and are available as a standalone template if needed.
-
-Sign-off of the mapped Privacy Questions Assessment in ZenGRC must be provided by a member of the Privacy/Exports team prior to Security granting approval.
-
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
