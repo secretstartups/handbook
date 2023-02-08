@@ -59,7 +59,6 @@ If the number of encrypted drives is below 2% and the number of out of date OS i
 After assessing our endpoints it was determined that the number of encrypted devices and the number of out of date OS was falling outside of our accetable percentages. As a result, Gitlab has decided to move forward with implementing and enforcing end-point management as a requirmenet for all Mac OS users.  
 
 
-
 ### Why is this necessary?
 
 In order to achieve compliance with frameworks such as SOX (required as part of public company readiness), [SOC](https://www.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf), and in preparation of [FedRAMP](https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf) and [ISO 27001](https://www.isms.online/iso-27001/annex-a-8-asset-management/), certain protections of company assets are mandated.

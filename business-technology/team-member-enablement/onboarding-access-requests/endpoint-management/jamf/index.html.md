@@ -134,18 +134,39 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 <br/>
 
 
-
 - You should see a "Self Service" tool/app in your Applications folder
 
 <img src="self-service.png" alt="Self Service" width="400">
 
 - The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
 
+
+
 # Frequently Asked Questions
 
-Please note, this section is continuously being updated with answers to common questions that GitLab team members have. This section is expected to grow significantly.
+### How do I verify my connection to Jamf or re-initate a connection to the Jamf console?
 
-## Problem description
+1. Open Terminal on your MacBook. One way to do so is to access the `Spotlight Search` via a CMD + Space combination, and search for the word `Terminal`.
+
+1. In Terminal:
+
+``` shell
+sudo jamf recon && sudo jamf policy && sudo jamf manage && sudo jamf update && sudo jamf version
+```
+1. It will prompt for your MacBook password, type it and > press Enter. *Note: you will not be able to see the characters you are typing.*
+1. Results should appear as follows:
+<img src="jamf-verify.png" alt="Jamf Commands" width="600">
+
+*If you receive a message containing "Device Signature Error", which often occurs after using Migration Assistant when migrating files from an old laptop, please run the following:*
+
+``` shell
+sudo profiles renew -type enrollment
+```
+
+After doing so, you should be prompted for your password and able to finish the enrollment.
+
+If you receive any other result, please share the outcome of these commands with #it_help.
+
 
 ### Is endpoint management necessary?
 
