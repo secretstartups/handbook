@@ -55,6 +55,7 @@ To become a driver, submit an MR to this page adding yourself to the table below
 | **Ben Ridley**         | APAC PubSec                  |
 | **Sophia Manicor**     | Americas SMB, Mid-Market     |
 | **Julie Byrne**        | Americas SMB, Mid-Market     |
+| **Ken McKnight**       | Americas Enterprise West     |
 | **__**                 |                              |
 
 ##### Sync before Call
