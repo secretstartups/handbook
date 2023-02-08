@@ -43,7 +43,7 @@ Before booking any flights please ensure that you have the proper [visas](/handb
 
 When your accommodation booking is confirmed, you may want to communicate the dates and address with your manager.
 
-### Setting up your TripActions account
+### Setting up your Navan account
 
 Below is some more information to help you get set up with your [TripActions](https://tripactions.com/) account.
 
@@ -84,7 +84,7 @@ To ensure a trouble-free experience with air travel booked through TripActions:
 
 1. Please note that some budget airlines might not show, so, if you want that, make sure
 to check those to be sure there is no better option out there. (SouthWest, JetBlue, etc.).
-1. Login to your account. If you've not yet set up your account, do this [first](#setting-up-your-tripactions-account).
+1. Login to your account. If you've not yet set up your account, do this [first](#setting-up-your-navan-account).
 1. The dashboard gives you the option to start a booking directly. The options are
 to book flights, hotels, trains, or rental cars.
 1. Input info for the flight you want to book. You can pick return as a combo or each leg separately
