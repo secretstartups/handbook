@@ -264,10 +264,13 @@ Use only **one** of the following categories per post.
 otherwise you'll create another category, which is something we don't want to do accidentally.
 
 If you're not sure which category your post belongs in, just put a placeholder in your MR and leave a comment for your reviewer noting that.
-
-- `devops platform` - All posts mentioning GitLab's DevOps Platform, or DevOps platforms more generically.
+- `DevOps` - general reference to DevOps
+- `devops platform` - posts mentioning GitLab's DevOps Platform, or DevOps platforms more generically.
+- `DevSecOps` - posts more generally about DevSecOps
 - `engineering` – technical, actionable content. Anything covering how to do something, use something, or solve a problem should fall under this category
 - `open source` – stories from or about our community, users, or the wider open source community
+- `product` - posts more generally about our product 
+- `careers` – posts about careers, salaries, education, and more
 - `culture` – posts about remote work, working together, or GitLab culture
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
