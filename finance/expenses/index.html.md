@@ -202,7 +202,7 @@ If you are able to find hidden gems in these markets, please go ahead and make t
 
 #### CXC Global
 
-* The list of CXC countries can be found [here](/handbook/people-group/employment-solutions/
+* The list of CXC countries can be found [here](/handbook/people-group/employment-solutions/).
 * Team members must submit their expenses through Navan.
 * All expenses must be submitted and approved by the Accounts Payable team (for out of policy expenses) on or before the 6th of each month to ensure it is included in the current month's payroll.
 * GitLab Payroll Team will send the approved expense amount to CXC EMEA Payroll to include with the monthly salary.
