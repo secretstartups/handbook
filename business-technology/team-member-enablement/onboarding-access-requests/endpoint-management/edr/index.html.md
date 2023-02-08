@@ -33,11 +33,11 @@ Equally important is the security and privacy of our team members and their lapt
 If you need help with the SentinelOne agent on your endpoint please reach out to in the #sentinelone Slack channel. If you have security concerns please reach out to the Security team in the #security Slack channel.
 
 ### Exception request process
-If SentinelOne is causing issues with your ability to fulfill the responsibilities of your role, you may request an exception to be granted using the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process). Exceptions will be granted based on the goal of least needs, attempting to maximize effectiveness, efficiency, and security risk mitigation of SentinelOne while minimizing the negative impact on the team member. For this reason, rarely will an exception be granted to completely disable SentinelOne. Rather, an exception will be granted for specific directory paths, specific applications, or specific collections of data that SentinelOne may be negatively impacting through quarantine or system performance degradation. 
+If SentinelOne is causing issues with your ability to fulfill the responsibilities of your role, you may request an exception to be granted using the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process). Exceptions will be granted based on the goal of least needs, attempting to maximize effectiveness, efficiency, and security risk mitigation of SentinelOne while minimizing the negative impact on the team member. For this reason, rarely will an exception be granted to completely disable SentinelOne. Rather, an exception will be granted for specific directory paths, specific applications, or specific collections of data that SentinelOne may be negatively impacting through quarantine or system performance degradation.
 
 ### What is the difference between EDR and Antivirus?
 
-Antivirus can be seen as one part of the EDR complete security technology solution. Traditionally, antivirus software is a single program which serves basic purposes like scanning, detecting and removing viruses and different types of malware. For EDR, real time status, remediation paths, endpoint firewalls, and system behavioral analytics come together to create a comprehensive technology stack to protect against modern day digital attacks. 
+Antivirus can be seen as one part of the EDR complete security technology solution. Traditionally, antivirus software is a single program which serves basic purposes like scanning, detecting and removing viruses and different types of malware. For EDR, real time status, remediation paths, endpoint firewalls, and system behavioral analytics come together to create a comprehensive technology stack to protect against modern day digital attacks.
 
 ### How does EDR technology work?
 
@@ -78,7 +78,7 @@ While this effort is certainly appreciated, we need a way to be able to audit la
 
 ### Who owns and manages the EDR solution at GitLab?
 
-Jointly, the Security Department and IT will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [IT Security](https://about.gitlab.com/handbook/business-technology/#security-and-compliance) will handle the configuration and deployment of agents (via Jamf), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership. 
+Jointly, the Security Department and IT will be responsible for different components. [SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [IT Security](https://about.gitlab.com/handbook/business-technology/#security-and-compliance) will handle the configuration and deployment of agents (via Jamf), and [Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership.
 
 ### What safeguards are in place to ensure that owners of this process can prevent abuse?
 
@@ -130,42 +130,43 @@ Prerequisites:
 1. Edit `config.cfg` and update `S1_AGENT_CUSTOMER_ID`:
 
    1. Replace `tanuki` with your GitLab email username.
-   1. Replace `ABCD123` with your laptop's serial number.
+   1. Replace `ABCD1234` with your laptop's serial number.
    1. Verify that the edited variable is formatted correctly with a hyphen separating the GitLab email and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe@gitlab.com-ABCD1234`.
 
-1. Install the package:
+1. Install the package (commands may differ slightly based on distro):
 
-   - For RPM:
+   - For Fedora 37:
 
      ```shell
-     sudo rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     sudo _E rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
      ```
 
-   - For DEB:
+   - For Ubuntu 22.04:
 
      ```shell
-     sudo dpkg -i --nodigest <sentinelone>.deb S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     sudo S1_AGENT_INSTALL_CONFIG_PATH=/path/to/config.cfg dpkg -i <sentinelone>.deb
      ```
 
 1. Wait five minutes, and then verify connectivity:
 
    ```shell
-   sentinelctl management status
+   sudo sentinelctl management status
    ```
 
    You should see `Connectivity: On` and a valid SentinelOne URL.
    If this is not your result, reach out for assistance in the
    [`#sentinelone`](https://gitlab.slack.com/archives/C043PF9TU4X) channel.
-   
+
 ### How do I calculate how much CPU is being used by SentinelOne on MacOS?
 
 If you are using Activity Monitor to monitor CPU usage, be aware that it is calculated as the percent utilized for a single CPU thread. For example, an M1 Max laptop has 10 threads, so total CPU capacity is 1000%. To view the number of threads available on your system, open Terminal and run:
 
 ```shell
-sysctl -n hw.cpu
+sysctl -n hw.ncpu
 ```
 
-Expect SentinelOne to use less than 10% of total CPU power (for example, marked as less than 100% on a M1 Max).
+Expect SentinelOne to use less than 10% of total CPU power (for example, displayed as less than 100% in Activity Monitor on a M1 Max).
 
 
 ### How do I collect metrics for support on MacOS due to an issue with high CPU or RAM?
