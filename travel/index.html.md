@@ -13,15 +13,145 @@ title: Travel
 
 1. The company will cover all work-related travel expenses. This includes lodging and meals during the part of the trip that is work-related. Depending on the distance of your travel, it can also include one day before and one day after the work related business. For example, if you are attending a 3 day conference in a jetlag-inducing location, the company will cover your lodging and meals those 3 days as well as one day before and one day after.
 1. The company will cover costs related to transiting to and from a destination or airport which is work-related. This includes public transit, ride-sharing services (Lyft, Uber, etc.), or personal vehicle mileage between one's home and airport, bus/rail station, or work-related meeting.
-    - When [expensing](/handbook/finance/expenses/#travel-and-expense-guidelines) personal vehicle mileage within Expensify, navigate to `New Expense`, `Manually Create`, and select the `Distance` tab for [automatic calculation and map receipt creation](/images/handbook/travel/expensify-personal-vehicle-mileage-reimbursement-distance-tab-example.png).
 1. The company can accommodate custom requests. It is OK to stay longer on your trip. However, the extra days will not be covered by the company.
-1. Understand that the guidelines of [Spending Company Money](/handbook/spending-company-money), especially the part about spending it like it is your own money, still apply for all [expenses](/handbook/finance/expenses/).
+1. Understand the guidelines of our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/) before you travel.
 1. Always bring a credit card with you when traveling for company business if you have one.
 1. Hotels will generally expect you to have a physical credit card to present upon check-in. This credit card will be kept on file for the duration of your stay. Even if your lodging was pre-paid by the company or by using a company credit card, the Hotel may still require a card to be on file for "incidentals".
 1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Expensify or include the receipts on your next monthly invoice.
 
-### Supporting nursing mothers
+
+
+## Booking travel and lodging<a name="TripActions"></a>
+
+Before booking any flights please ensure that you have the proper [visas](/handbook/people-group/visas/#arranging-a-visa-for-travel) in place.
+
+When your accommodation booking is confirmed, you may want to communicate the dates and address with your manager.
+
+### Setting up your Navan (formerly known as TripActions) account
+
+Below is some more information to help you get set up with your [Navan](https://tripactions.com/) account.
+
+1. Log into [Okta](https://gitlab.okta.com) and click the Navan tile.
+1. Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
+1. Add your passport information to your profile (only passport information is accepted), this will populate your info directly when booking a flight.
+1. Now let's start booking!
+
+### Booking travel through Navan <a name="booking-travel"></a>
+
+**Flights**
+
+All flights need to be booked through [Navan](https://tripactions.com) (Business related flights), the costs will be added to the GitLab invoice and **no credit card is needed**. Please note that all business related flights will not have the option to pay with a personal credit card. Also to note that while it is possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company. Flights should not exceed $1K USD (or local currency equivalent) per team member per month for economy class, with a booking lead time of 7 days to be within policy.  The exception is for the Sales teams, in which flights should not exceed $3K (or local currency equivalent) per team member per month.  Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.  If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
+
+**Hotels and Cars**
+
+If you book Hotels and/or Cars through Navan Travel, the costs will need to be charged to a personal credit card. For business related bookings, you can submit the costs for reimbursement via the Navan Expense reimbursement tool.  Hotel stays are reimbursable up to $300 USD (or equivalent local currency) inclusive of tax per night for standard rooms, with a 7 day booking lead time.  Always choose the refundable room booking unless the only available option is a non refundable room.  Rental Cars are reimbursable for the intermediate car class, with a 7 day booking lead time.  Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.  If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
+
+**Additional Car Rental Guidelines**
+
+A. Third Party Liability
+
+Purchase the liability insurance that is excess of the standard inclusion of State minimum coverage in the rental agreement at the rental agency. GitLab’s insurance policy provides liability insurance for rental cars while conducting company business, but it may be excess over any underlying liability coverage through the driver or credit card company used to purchase the rental.
+
+Purchase the liability offered at the rental counter if there are foreign employees renting autos in the US or Canada. While workers' compensation would protect an injured US employee, other passengers may have the right to sue. To ensure that GitLab has protection when a foreign employee invites another person into the car we recommend the purchase of this insurance when offered at the rental counter.
+
+B. Physical Damage - Collision Damage Waiver
+
+Do Not purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases coverage for damage to rented vehicles. If travel to Mexico is required, purchase the liability insurance for Mexico offered at the rental counter. You should verify that the rental agreement clearly states that the vehicle may be driven into Mexico and liability coverage will apply.
+
+Countries other than the US and Canada
+
+Third Party Liability
+
+Purchase the liability insurance offered at the rental counter when traveling outside the US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are required by law in almost every country. Please verify this coverage is included with the rental agreement.
+
+Physical Damage - Collision Damage Waiver
+
+Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the rental agency when traveling outside the US and Canada.
+
+In the event of an accident resulting in damage to the rental car, the foreign rental agency will charge the credit card used to make the reservation with an estimated amount of repair costs if insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired Auto Physical Damage Coverage to reimburse for damages.
+
+
+**Additional Hotel Guidelines**
+
+Dry cleaning is allowable if the stay is over 3 days. Room service is allowable as a meal for ex. breakfast/lunch/dinner. Meals are to be segregated from the hotel bill and tagged under “Meals Company Provided” Category. Parking must be segregated and tagged under “Transportation”. Movies, mini bars are not allowed as a claim.
+
+
+**Trains**
+
+If you book Trains through Navan, business related bookings should be, upon receipt of manager's approval, paid upfront and expensed through Navan Expense reimbursement tool. Train rides are reimbursable up to $100 USD (or equivalent local currency) per ride for standard cabin class, with a 7 day booking lead time.  Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.  If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
+
+**Personal Bookings**
+
+In Navan, you have the ability to book Personal trips. Note that when selecting this option, a personal credit card will be required at time of booking. Personal trips will not have the option to be added to the GitLab invoice.
+
+#### Basic economy in Navan
+
+Many airlines offer [basic economy](https://en.wikipedia.org/wiki/Basic_economy) fares by default. This can create confusion and stress on the traveler if the conditions of their airline ticket aren't known.
+
+To ensure a trouble-free experience with air travel booked through Navan:
+
+- If basic economy conditions are unsuitable, [filter out basic economy fares](https://tripactions.com/blog/basic-economy-fares-in-tripactions) from search results.
+- Ahead of time, using the value in the `CONFIRMATION` field in a TripActions trip entry, look up your flights with the airline's own website to ensure times and conditions are what you expect.
+- Check in using the airline's website (not Navan) as soon as check-in becomes available. This will make it clear ahead of time if checked baggage must be added to a flight at additional cost, and provide time to contact the airline in case of any other issues.
+
+#### How to book
+
+1. Please note that some budget airlines might not show, so, if you want that, make sure to check those to be sure there is no better option out there. (SouthWest, JetBlue, etc.). With the Navan tool, you can book both your travel and submit your expenses with ease, as your trips will integrate with your expenses, making coding and submission faster.  Refer to the Navan End Users Guide for more details.
+1. Login to your account. If you've not yet set up your account, do this [first](#setting-up-your-navan-formerly-known-as-tripactions-account).
+1. The dashboard gives you the option to start a booking directly. The options are
+to book flights, hotels, trains, or rental cars.
+1. Input info for the flight you want to book. You can pick return as a combo or each leg separately
+1. Select "continue to checkout" and fill out the reasons for booking.
+1. Once confirming all details are correct you can select "complete booking".
+1. If your trip is out of policy, you will have the ability to continue booking the trip and a "soft" approval email will be sent to your direct manager. Please refer to "Booking shows Out of Policy" below.
+1. You can add a hotel or car by clicking the boxes between the flight details and "complete booking" and go through the same steps.
+
+Note: Once a flight is booked, re-routing is at the person’s own cost unless requested by the company or force majeure (in the latter case often the airline will cover the difference).
+
+#### Meals and Internet While Traveling
+
+1. Meals while traveling are reimbursable for up to $100 USD (or local equivalent currency) per day.  Each team member must submit their own receipts for reimbursement, so ensure to separate billing when going to meals with groups of team members.
+1. Internet while traveling is reimbursable for up to $50 USD (or local equivalent currency) per day.
+
+
+### FAQ about travel
+
+Please read through these FAQ **entirely**.
+
+1. If you have trouble finding travel within a budget, contact **your manager** about this, _not_ Navan.
+1. If your flight hasn't been approved, contact **your manager**, they are responsible, _not_ Navan.
+1. If your flight does not have a seat selection or checked bags included, you need to arrange that with **the airline**. Usually done upon check-in online, 24H before your flight.
+1. If part of your travel has been changed after you've booked, contact **Navan Support** about this, they can help.
+
+#### FAQ about travel upgrades
+
+1. If you exceed `193.6cm` or `6'4"` in height (i.e. you exceed the [95th percentile height distribution for a male human](https://ourworldindata.org/human-height#height-is-normally-distributed)) you may:
+    - Expense the full cost for an upgrade to Economy Plus on any flight
+    - Expense up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours
+1. If your height does not match the exact cm/inch requirement, and you feel unsafe to travel, you may:
+    - Expense up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus on flights longer than 8 hours
+    - Review upgrade options with your manager
+1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
+
+> We base eligibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
+>
+> It is common for manufacturers to design seating that comfortably accommodates only a certain percentage of the population. For example, see [how Herman Miller designs their chairs to accomodate the 95th percentile](https://www.hermanmiller.com/research/categories/white-papers/the-evolution-of-anthropometrics-and-user-control/).
+
+#### Booking shows Out of Policy
+
+- Sometimes there is no way around booking a flight or hotel that is out of policy.
+- This means that the option selected is more expensive than the cheapest option + our buffer.
+- When you try to book this, an email will be sent to your manager for approval.
+- Please provide extensive reasoning to make approval easier and faster.
+- After 24 hours without any manual action (approved/denied) the booking will automatically be accepted.
+
+#### Booking accommodations through Airbnb
+
+- You can book Airbnb via Navan! Navan has a feature allowing you to view results based on Property Type.
+- If you are booking the trip yourself, you may be reimbursed for the portion of your stay that was business related by submitting in Navan or on your monthly invoice.
+
+#### Supporting nursing mothers
 
 If you are nursing while traveling on GitLab approved business, you can reimburse costs in order to travel with breast milk or ship your breast milk back home. You can expense:
 
@@ -37,117 +167,7 @@ Check with your health plan to see if you are eligible for reimbursement for the
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
 the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides. This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice. Team Members Employed through a GitLab Entity should submit the screenshot for approval via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#-introduction).
 
-## Booking travel and lodging<a name="TripActions"></a>
 
-Before booking any flights please ensure that you have the proper [visas](/handbook/people-group/visas/#arranging-a-visa-for-travel) in place.
-
-When your accommodation booking is confirmed, you may want to communicate the dates and address with your manager.
-
-### Setting up your Navan account
-
-Below is some more information to help you get set up with your [TripActions](https://tripactions.com/) account.
-
-1. Log into [Okta](https://gitlab.okta.com) and click the TripActions tile.
-1. Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
-1. Add your passport information to your profile (only passport information is accepted), this will populate your info directly when booking a flight.
-1. Now let's start booking!
-
-### Booking travel through TripActions <a name="booking-travel"></a>
-
-**Flights**
-
-All flights need to be booked through [TripActions](https://tripactions.com) (Business related flights), the costs will be added to the GitLab invoice and **no credit card is needed**. Please note that all business related flights will not have the option to pay with a personal credit card. Also to note that while it is possible to find a cheaper flight outside of TripActions, we get overall better rates in the aggregate with the buying power of the whole company.
-
-**Hotels and Cars**
-
-If you book Hotels and/or Cars through TripActions, the costs will need to be charged to a personal credit card. For business related bookings, you can submit the costs for reimbursement via our corporate expense reimbursement tool.
-
-**Trains**
-
-If you book Trains through TripActions, business related bookings should be, upon receipt of manager's approval, paid upfront and expensed through expensify.
-
-**Personal Bookings**
-
-In TripActions, you have the ability to book Personal trips. Note that when selecting this option, a personal credit card will be required at time of booking. Personal trips will not have the option to be added to the GitLab invoice.
-
-#### Basic economy in TripActions
-
-Many airlines offer [basic economy](https://en.wikipedia.org/wiki/Basic_economy) fares by default. This can create confusion and stress on the traveler if the conditions of their airline ticket aren't known.
-
-To ensure a trouble-free experience with air travel booked through TripActions:
-
-- If basic economy conditions are unsuitable, [filter out basic economy fares](https://tripactions.com/blog/basic-economy-fares-in-tripactions) from search results.
-- Ahead of time, using the value in the `CONFIRMATION` field in a TripActions trip entry, look up your flights with the airline's own website to ensure times and conditions are what you expect.
-- Check in using the airline's website (not TripActions) as soon as check-in becomes available. This will make it clear ahead of time if checked baggage must be added to a flight at additional cost, and provide time to contact the airline in case of any other issues.
-
-#### How to book
-
-1. Please note that some budget airlines might not show, so, if you want that, make sure
-to check those to be sure there is no better option out there. (SouthWest, JetBlue, etc.).
-1. Login to your account. If you've not yet set up your account, do this [first](#setting-up-your-navan-account).
-1. The dashboard gives you the option to start a booking directly. The options are
-to book flights, hotels, trains, or rental cars.
-1. Input info for the flight you want to book. You can pick return as a combo or each leg separately
-1. Select "continue to checkout" and fill out the reasons for booking.
-1. Once confirming all details are correct you can select "complete booking".
-1. If your trip is out of policy, you will have the ability to continue booking the trip and a "soft" approval email will be sent to your direct manager. Please refer to "Booking shows Out of Policy" below.
-1. You can add a hotel or car by clicking the boxes between the flight details and "complete booking" and go through the same steps.
-
-Note: Once a flight is booked, re-routing is at person’s own cost unless requested by the company or force majeure (in the latter case often the airline will cover the difference).
-
-### FAQ about travel
-
-Please read through these FAQ **entirely**.
-
-1. If you have trouble finding travel within a budget, contact **your manager** about this, _not_ TripActions.
-1. If your flight hasn't been approved, contact **your manager**, they are responsible, _not_ TripActions.
-1. If your flight does not have a seat selection or checked bags included, you need to arrange that with **the airline**. Usually done upon check-in online, 24H before your flight.
-1. If part of your travel has been changed after you've booked, contact **TripActions Support** about this, they can help.
-
-#### FAQ about travel upgrades
-
-1. If you exceed `193.6cm` or `6'4"` in height (i.e. you exceed the [95th percentile height distribution for a male human](https://ourworldindata.org/human-height#height-is-normally-distributed)) you may:
-    - Expense the full cost for an upgrade to Economy Plus on any flight
-    - Expense up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours
-1. If your height does not match the exact cm/inch requirement, and you feel unsafe to travel, you may:
-    - Expense up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus on flights longer than 8 hours
-    - Review upgrade options with your manager (keeping in mind the guidance on ["spending company money like it is your own"](/handbook/spending-company-money/#guidelines))
-1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
-    - There are other things that [the company will not reimburse](/handbook/finance/accounting/#non-reimbursable-expenses), such as dog boarding.
-
-> We base eligibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
->
-> It is common for manufacturers to design seating that comfortably accomodates only a certain percentage of the populate. For example, see [how Herman Miller designs their chairs to accomodate the 95th percentile](https://www.hermanmiller.com/research/categories/white-papers/the-evolution-of-anthropometrics-and-user-control/).
-
-#### FAQ regarding transition from NexTravel to TripActions
-
-[TripActions FAQs](https://tripactions.com/faq#) is a great resource for questions surrounding TripActions features.
-
-1. Does TripActions integrate with Okta?
-    - Yes! Access to TripActions is a baseline entitlement and should be automatically added to a team member's Okta profile.
-1. Will we be able to use personal credit cards to pay for trips booked through TripActions?
-    - Yes, you can add and maintain personal credit cards in your user profile under the "Payments & Clubs" tab. Once a personal credit card has been added, you can select this payment method at time of booking. **Please note that TripActions allows team members the ability to book "Personal Trips". If/When selecting a "Personal Trip", any "Corporate" payment method will not be available for use.**
-1. Are we requiring all travel to be booked through this portal? Or is it still the same as before eg. book based on what works best in options and price?
-    - We desire Team Members to book with TripActions, as it assists in our negotiations and tracking of where team members are.  We will not deny reimbursement of business flights booked outside TripActions, but we do desire all flights to be booked through TripActions.  By booking with TripActions, we can bundle flight and hotel bookings, prompting increased discounts to GitLab.
-1. Is there documentation on how to erase our account with NextTravel?
-    - The Business Operations Team and Security Team are actively working on deleting PII data in NexTravel.
-1. I’d like to know if I can seamlessly integrate with booking personal travel as well - e.g. if I can book for my partner and I to be sat next to each other, for example, or that we are stopping in Canada first, etc.
-    - TripActions has a lot of neat features! You have the ability to choose the Multi-City as well as the option to choose your seats. From [TripActions FAQs](https://tripactions.com/faq#) **TripActions recently added the ability to pick your seat from all platforms (being a mobile first company, you used to have to use our mobile apps). Some airlines need the flight confirmation code verified before you can select a seat. Confirmation numbers are granted and verified after ticketing is complete. This means that once ticketing is complete you will need to return to the ‘My Trips’ section within TripActions to select your seat. We are continuously working with our partners as well as expanding our features and functionality to improve your experience.**
-
-**Please also review our [TripActions Q&A doc](https://docs.google.com/document/d/1fDWBzJV3YjojZN5t7anPzJYixhCjpkiP9flWemJS2LM/edit?usp=sharing).**
-
-#### Booking shows Out of Policy
-
-- Sometimes there is no way around booking a flight or hotel that is out of policy.
-- This means that the option selected is more expensive than the cheapest option + our buffer.
-- When you try to book this, an email will be sent to your manager for approval.
-- Please provide extensive reasoning to make approval easier and faster.
-- After 24 hours without any manual action (approved/denied) the booking will automatically be accepted.
-
-### Booking accommodations through Airbnb <a name="airbnb"></a>
-
-- You can book Airbnb via TripActions! TripActions has a feature allowing you to view results based on Property Type.
-- If you are booking the trip yourself, you may be reimbursed for the portion of your stay that was business related by submitting in Expensify or on your monthly invoice.
 
 ## Travel Insurance
 
