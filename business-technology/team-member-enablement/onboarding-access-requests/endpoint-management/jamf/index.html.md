@@ -140,7 +140,17 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 
 - The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
 
+## MacOS Updates with Nudge
 
+[Nudge](https://marketplace.jamf.com/details/nudge) is the current process for encouraging users to keep their macOS up to date. Once a new version of macOS is out and properly tested, a nudge window will pop up for end users to update their OS. Depending on the level of urgency for the given update, the deferral window will run between 3-14 days. Once past the deferral, Users will need to initiate an OS update or the Nudge window will continue to appear for the user. 
+
+<img src="GitLab-Nudge.png" alt="GitLab Nudge" width="400">
+
+### Known issues with Nudge
+
+There is a notification pop up called "Clever DevOps Co." that may say Nudge is installed. It is currently a work in progress to change the naming. 
+
+<img src="clever-devops.png" alt="Clever Devops" width="300">
 
 # Frequently Asked Questions
 
