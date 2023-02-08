@@ -20,37 +20,38 @@ title: "Sales Quick Start (SQS) Workshop"
 
 ## Sales Quick Start In-Person Workshop Agenda
 
-This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7JEydEIkUeGZ16nQuLxNgD6RXEM2zEgws/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
+This [SQS 2023 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7JEydEIkUeGZ16nQuLxNgD6RXEM2zEgws/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
 
 
 ## Sales Quick Start Remote Agenda:
 
 
-### SQS 31 - January 2023
+### SQS 32 - March 2023
 
 * Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -4)
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-| Jan 11 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
-| Jan 17 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement  |
-| Jan 18| 10:30a ET | 11:50a ET | Value Card Exercise | Field Enablement  |
-| Jan 19 | 10:30a ET | 11:50a ET | Discovery Question Exercise | Field Enablement  |
-| Jan 20 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement |
-| Jan 20 | 12:00p ET | 12:50p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-| Jan 23 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence   |
-| Jan 23 | 12:00p ET | 12:30p ET | Field Security | Field Security Team    |
-| Jan 24 | 10:00a ET | 10:50a ET | Discovery Call 1 (EMEA) | Mock Customers  |
-| Jan 24 | 12:00p ET | 12:50p ET | Customer Success Manager Overview | CSM Team |
-| Jan 24 | 1:00p ET | 1:50p ET | Discovery Call 1 (AMER) | Mock Customers  |
-| Jan 25 | 10:00a ET | 10:50a ET | Discovery Call 2 (EMEA) | Mock Customers |
-| Jan 25 | 11:00a ET | 11:50a ET  | Discussion: Professional Services | Professionakl Services Team  |
-| Jan 25 | 12:00p ET | 12:50p ET | Alliances |   |
-| Jan 25 | 1:00p ET | 1:50p ET | Discovery Call 2 (AMER) | Mock Customers |
-| Jan 26 | 10:00a ET | 10:50a ET | Discovery Call 3 (EMEA) | Mock Customers  |
-| Jan 26 | 11:00a ET | 11:50a ET  | Legal / Deal Desk | Legal / Deal Desk Team  |
-| Jan 26 | 1:00p ET | 1:50p ET | Discovery Call 3 (AMER) | Mock Customers |
-| Jan 27 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
+| Mar 8 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
+| Mar 13 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement  |
+| Mar 14| 10:30a ET | 11:50a ET | Value Card Exercise | Field Enablement  |
+| Mar 15 | 10:30a ET | 11:50a ET | Discovery Question Exercise | Field Enablement  |
+| Mar 16 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement |
+| Mar 17 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+| Mar 20 | 10:30a ET | 11:00a ET | Field Security | Field Security Team    |
+| Mar 20 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence   |
+| Mar 21 | 10:00a ET | 10:50a ET | Discovery Call 1 (EMEA) | Mock Customers  |
+| Mar 21 | 12:00p ET | 12:50p ET | Alliances |  Alliances Team  |
+| Mar 21 | 1:00p ET | 1:50p ET | Discovery Call 1 (AMER) | Mock Customers  |
+| Mar 22 | 10:00a ET | 10:50a ET | Discovery Call 2 (EMEA) | Mock Customers |
+| Mar 22 | 11:00a ET | 11:50a ET  | Legal / Deal Desk | Legal / Sales Ops Team  |
+| Mar 22 | 1:00p ET | 1:50p ET | Discovery Call 2 (AMER) | Mock Customers |
+| Mar 23 | 10:00a ET | 10:50a ET | Discovery Call 3 (EMEA) | Mock Customers  |
+| Mar 23 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
+| Mar 23 | 1:00p ET | 1:50p ET | Discovery Call 3 (AMER) | Mock Customers |
+| Mar 24 | 12:00p ET | 12:50p ET | Customer Success Manager Overview | CSM Team |
+| Mar 27 | 11:00a ET | 11:50a ET  | Discussion: Professional Services | Professional Services Team  |
+
 
 
 
