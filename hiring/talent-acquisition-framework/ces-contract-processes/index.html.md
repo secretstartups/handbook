@@ -327,11 +327,13 @@ When a team member applies for and receives a new position through Greenhouse, a
 Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes. 
 Please note that LOAs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
+When generating a letter of adjustment for a PEO, the steps remains the same as outlined below. However, select the LOA template that does not include RSUs, and send the RSU details via DocuSign email.
+
 The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to Workday & BambooHR. The signed letter is uploaded into Workday under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. 
 
 When an internal transition is taking place and the start date for that LOA is amended, please ensure to update the People Connect team via Slack in the `#people-exp_ces` channel of the new start date.
 
-If a team member goes through a promotion through BambooHR versus Greenhouse, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is prepared by the Total Rewards team as listed on their handbook page.
+If a team member goes through a promotion through WorkDay versus Greenhouse, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is prepared by the Total Rewards team as listed on their handbook page.
 
 CES: Follow the instructions below on how to create and send a letter of adjustment. 
 
