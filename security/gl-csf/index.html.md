@@ -116,6 +116,14 @@ system helps to get started with the Threat Modeling activity.
 
 Create or update a corresponding [Threat Model](handbook/security/threat_modeling/).
 
+#### OSS Ecosystem Testing
+
+In case the proposed architectural change introduces new Open Source Software components to our
+infrastructure or our product inform the Security Research Team
+(`@gitlab-com/gl-security/security-research`) for potential inclusion of the dependency into the 
+[OSS Ecosystem Testing](/handbook/security/threat-management/security-research/#gitlab-ecosystem-security-testing)
+efforts.
+
 ## Additional resources and references
 
 
