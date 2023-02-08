@@ -24,7 +24,8 @@ of complex problems both technically and organizationally.
 
 Blueprints are the primary artifact that the workflow revolves around.
 They are version controlled documents that are released alongside our
-[user-facing documentation](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints).
+[user-facing documentation](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
+and you can find [a list of published ones](https://docs.gitlab.com/ee/architecture) there too.
 
 Long-term iterations, either on features or complex architectural changes, are
 challenging because it is easy to lose consensus, conceptual integrity,
@@ -35,7 +36,11 @@ we move forward. It acts as guardrails to keep team aligned. A blueprint gets
 constantly updated with new insights and knowledge, after every iteration, to
 become even more useful as we make progress with implementing it.
 
-### Why are blueprints tracked?
+You can start with a blueprint that is one paragraph long, and evolve the
+content as you move forward with your exploratory work, depending on what you
+learn along the way.
+
+### Why are blueprints tracked in merge requests?
 
 Blueprints are tracked as version controlled documents. This enables anyone to propose
 changes in the form of merge requests. By doing so we can ensure that:
@@ -43,6 +48,7 @@ changes in the form of merge requests. By doing so we can ensure that:
 - there is always a single document that represents the current state of a given proposal
 - you do not have to traverse multiple issues or threaded discussions to grok our direction
 - feedback can be given and applied in the form of concrete suggestions
+- proposals / changes are being made in merge requests, it is "proposals as code" workflow
 
 ### Does my thing require a blueprint?
 
@@ -74,8 +80,10 @@ a Principal+ Engineer for input.
 1. Determine with your manager whether to invoke the workflow.
 1. Start writing a blueprint somewhere! Depending on whether the content can be
    considered [SAFE](/handbook/legal/safe-framework/) or not you may want to do
-   that in a private space first. If you don't know how what content to start
-   with you can use [a template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/_template.md?plain=1).
+   that in a private space first. If you don't know what content to start with
+   you can use [a template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/_template.md?plain=1).
+   You will find a couple of suggestions there and a markdown front matter we
+   use for status tracking.
 1. Post a link to your blueprint with a brief description in the internal
    [`#architecture`](https://gitlab.slack.com/archives/CJ4DB7517) channel on Slack.
 1. Involve Architecture Evolution Coach, a Principal+ Engineer who will
@@ -83,8 +91,10 @@ a Principal+ Engineer for input.
 1. Open an architecture evolution blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
    if you have not done it already.
 1. Work with Architecture Evolution Coach, a Product Manager, Engineering
-   Manager, and Domain Experts to get the blueprint properly reviewed,
-   commented, refined, and eventually merged!
+   Manager, and Domain Experts to get the blueprint reviewed, refined, and
+   merged!
+1. Assign DRIs: an Engineer, an Engineering Leader, a Product Management
+   Leader. Those people will be responsible for the blueprint moving forward.
 
 ### Getting things done
 
@@ -136,6 +146,10 @@ fairly short and simple) new processes and workflows become available for you,
 to make the proposal visible to the right people. See the section about
 [amplification](#amplification).
 
+A proposal can be merged early, being still in an initial `proposed` state, but
+it is advised to have at least a prior input from Architecture Evolution Coach
+before merging your blueprint.
+
 ### Roles
 
 #### The Author
@@ -144,15 +158,15 @@ As the original author of a proposal, you are the primary DRI.
 
 #### The Architecture Evolution Coach
 
-Architecture Evolution Coaching is a Principal+ Engineers, who has been already
+Architecture Evolution Coach is a Principal+ Engineer, who has been already
 involved in work on the complex technical initiatives, who can guide the author
 throughout the process as a mentor and a coach.
 
 The purpose of involving a coach in the process of creating a blueprint is to
 allow people that know most about GitLab to share their knowledge and
 perspective on introducing complex architectural changes, help navigate
-organizational, ensure the proposal is aligned with our roadmap, and help
-management Engineering Leaders prioritize the work.
+organizational challenges, ensure the proposal is aligned with our roadmap, and
+help management Engineering Leaders prioritize the work.
 
 #### The Engineering Management Leader
 
@@ -197,10 +211,10 @@ another person.
 #### Functional Experts
 
 Functional Experts are engineers with deep knowledge across specific functional
-areas, which include [Security](/handbook/security/#-contacting-the-team), QA, Database, and Infrastructure. You should
-always involve these functional experts during the generation of blueprint so
-that we generate awareness early in the cycle and so that they can provide
-appropriate input into the blueprint.
+areas, which include [Security](/handbook/security/#-contacting-the-team), QA,
+Database, and Infrastructure. You should always involve these functional
+experts during the generation of blueprint so that we generate awareness early
+in the cycle and so that they can provide appropriate input into the blueprint.
 
 It is a responsibility of a proposal DRIs, especially Architecture Evolution
 Coach and managers to figure it out which Functional Experts need to get
@@ -221,7 +235,8 @@ even though it usually does not describe the path to the success in detail. As
 we move forward with implementation and iterate on a project, we continuously
 incorporate feedback gained after each of the iterations, into the blueprint
 itself. The blueprint evolves as we move forward, hence it supports "an
-evolutionary architecture" practice.
+evolutionary architecture" practice. It is fine to start with a very simple
+blueprint after it gets reviewed by an Architecture Evolution Coach.
 
 Blueprints are mostly written by engineers, but their content should not be
 deeply technical. The audience are Product Team Members, management Engineering
@@ -230,12 +245,14 @@ that is easy to understand: use simple diagrams, and avoid technical jargon
 overload. Technical details will be fleshed out in subsequent epics and issues
 associated with a blueprint once we enter the execution phase.
 
-Merged blueprints will be published on [GitLab Architecture Docs](https://docs.gitlab.com/ee/architecture/)
-public pages.
+Merged blueprints will be published on [GitLab Architecture Blueprints](https://docs.gitlab.com/ee/architecture/)
+public pages. You fill find a list of published blueprints at that address.
 
 If you don't know what content you should put into a blueprint, you can use
 [this template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/_template.md?plain=1)
-as a starting point.
+as a starting point. You will also find there a list of acceptable blueprints'
+statuses, that we typically use in a Markdown front matter (blueprint metadata
+section).
 
 Please be conscious of our [SAFE](/handbook/legal/safe-framework/) framework
 guidelines, and start collaborating on a blueprint in a private space (like a
