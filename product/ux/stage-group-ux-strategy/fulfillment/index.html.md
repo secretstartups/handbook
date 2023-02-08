@@ -26,6 +26,8 @@ One of the ways we track our progress is by measuring the UX of our different wo
 
 [View Fulfillment Cross-Functional Dashboard](https://about.gitlab.com/handbook/engineering/development/fulfillment/#cross-functional-backlog)
 
+View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playlist?list=PL05JrBw4t0KplrSGPYZAG8ZDCcyYPBEcz) on YouTube
+
 ### [Fulfillment Platform](https://about.gitlab.com/direction/fulfillment/platform/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
