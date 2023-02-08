@@ -142,11 +142,13 @@ As work is being fleshed out and sub-projects are identified, some issues should
 
 Like the handbook, issues and epics should be public by default. If an issue or epic contains material that needs to remain internal, they should be made [confidential](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html) or be in a [project](https://docs.gitlab.com/ee/user/project/) which is [private](https://docs.gitlab.com/ee/user/public_access.html#private-projects-and-groups). If an issue or epic can remain public, but a comment needs to be added that is internal only, you can use [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) to allow the issue to remain public while having a confidential conversation.
 
-### Communicating status and updates
+### Communicating status, updates, and changes
 
 Communicate outcomes using [multimodal communication](/handbook/communication/#multimodal-communication). For example, you can use a primary epic to communicate current status and updates. The description of the epic should be kept up to date with the latest status, and a running log of updates should be left as comments to the epic. In the comment tag the respective E-Group sponsor (if applicable) as well as the relevant DRIs with `@` mentions. Additionally, ping the link to the current status comment to the Slack channel created in [establishing team norms](#establishing-team-norms) `@` mentioning the relevant folks.
 
 Any material changes to the direction or plan for the Working Group should be put into the handbook page created, but general status and updates can be kept in the epic.
+
+Changes to the timeline or schedule can have rippling downstream impacts. It is important to communicate these changes as early as possible to all relevant stakeholders. Shifting dates have the potential to negatively impact team members who may be tasked with communicating/guiding users/customers through these changes.
 
 ### Trust Building
 
