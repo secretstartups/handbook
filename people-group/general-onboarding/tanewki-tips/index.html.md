@@ -173,7 +173,7 @@ Want to learn more about Onboarding from current team members? View their feedba
 ### Equipment and Expenses
 **Q: Am I able to buy things prior to my start date then expense once started?**
 
-A: Absolutely! We recommend reviewing our [expenses](/handbook/finance/expenses/) handbook page about items are are expensable vs. non-expensable. 
+A: Absolutely! We recommend reviewing our [expenses](https://about.gitlab.com/handbook/finance/expenses/) handbook page about items are are expensable vs. non-expensable. 
 
 **Q: I haven't received my GitLab issued laptop yet. Is it okay to use a personal one until it arrives?**
 
@@ -181,11 +181,15 @@ A: Yes. You can absolutely use a personal laptop until your GitLab one arrives. 
 
 **Q: I purchased my own laptop for work. How do I go about expensing it?**
 
-A: You will get access to Expensify during your first week and you'll want to submit your receipts for reimbursement through the program. 
+A: You will get access to Navan during your first week and you'll want to submit your receipts for reimbursement through the program. 
 
 **Q: I would like to work in a co-working space instead of my home. Is that possible?** 
 
 A: It is! You'll just want to make sure to review our co-working space details listed out [here](/handbook/finance/expenses/#-coworking-or-external-office--space) before signing any agreements.
+
+**Q: Will GitLab provide me with money to purchase office equipment?**
+
+A: Yes! All new hires starting after 2023-02-08, will receive $1,500 USD (or local equivalent) in a virtual card to obtain office equipment. You can review the handbook page regarding this [here](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/).
 
 ### HR Based Questions 
 **Q: When will my first paycheck be?** 
@@ -201,9 +205,9 @@ A: That's absolutely okay. You'll want to make sure to talk with your manager as
 A: You have 30 days from your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
 
 ### Stock 
-**Q: When will I receive access to Schwab?**
+**Q: When will I receive access to E*Trade?**
 
-A: Once the board approves your grant, you will receive an email to create your account in Schwab and accept your grants. Depending on your start date, the email might arrive a few months after your first day.
+A: Once the board approves your grant, you will receive an email to create your account in E*Trade and accept your grants. Depending on your start date, the email might arrive a few months after your first day.
 
 **Q: Is the value of the restricted stock anchored to the share price at the time I signed the contract?**
 
