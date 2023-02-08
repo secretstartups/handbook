@@ -246,9 +246,9 @@ For Talent Acquisition Enablement:
 1. When the revised contract is uploaded by the CES, verify if the core fields on the offer remain the same. If it remains the same, bypass offer approvals and inform the CES once completed.
 1. Once the CES team marks the candidate as hired in Greenhouse, close the duplicated opening and save changes.
 
-### How to Keep Candidates Informed of Any Delays in the Contract Process
+### How to Keep Candidates Informed of Any Delays in the PEO Contract Process
 
-Occasionally, there can be delays between the candidate receiving the Statement of Work and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not recieved their full contract from our PEO informed of any delays outside of the PEO SLAs.
+Occasionally, there can be delays between the candidate receiving the PEO New Hire Document issued by the CES team and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not recieved their full contract from our PEO informed of any delays outside of the PEO SLAs.
 
 The Candidate Experience Specialist who initiated the contract process is expected to follow up with the PEO every 24-48 hours until the contract is sent and will note of follow-up dates in the [PEO Tracker](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0). This communciation should be sent in Greenhouse, so that the communication is captured in the activity feed. If there are any extreme circumstances that will result in a contract getting to the candidate outside of the PEO SLA's, the CES will also note those in the PEO Tracker. Recruiter is expected to keep the candidate updated on the progress of their contract every 24-48 hours until the candidate recieves their contract. A simple message that explains the delay is all that is neccessary. As a Candidate Experience Specialist or Recruiter, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.
 
