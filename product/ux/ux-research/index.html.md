@@ -136,5 +136,5 @@ Below is a full list of our UX Research team handbook content:
     - [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
     - [Category Maturity - Competitor Comparison](/handbook/product/ux/category-maturity/competitor-comparison/)
 - [Tracking research velocity](/handbook/product/ux/ux-research/tracking-research-velocity/) 
-- [Tracking gold, silver, and bronze UX research projects](/handbook/product/ux/ux-research/tracking-research-projects/) 
+- [Tracking gold, silver, and bronze UX research projects](/handbook/product/ux/ux-research/tracking-research-projects/index.html.md.erd) 
 
