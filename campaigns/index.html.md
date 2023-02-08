@@ -115,6 +115,23 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 * **Field Enablement:** Sales DRI for sales enablement and training, and collaborating with GTM core teams on launch timeline.
 * **Sales Leadership:** Responsible for providing insight into the prioritization of value plays.
 
+**DACI for Public Sector**
+
+|Item | Driver | Approver| Contributor|Informed| Note|
+| ------ | ------ |-----|------|-------|-------|
+|  Messaging or Message house  |   Product Marketing     |     | Federal CTO or Content| PubSec sales or marketing| |
+|  Personas  |     Product Marketing   |     | Federal CTO| PubSec sales or marketing| |
+|  Awareness/Consideration/Purchase Content  |     Product Marketing   |     | Federal CTO| PubSec sales or marketing| |
+|  Content Strategy |   Product Marketing   |     | Content | PubSec sales or marketing |  |
+|  Page/Keyword Rank/Research, SEO  |    Search  |     |     | PubSec marketing |  |
+|  Buyer's Journey  |    Product Marketing |      | Federal CTO | PubSec sales or marketing |  |
+|  Campaign epic/issue creation  |    Campaigns  |     |    | Multiple teams/individuals |  |
+|  Internal content activation epic/issue creation  |    Campaigns   |  Various individuals/teams, Legal (if applicable)   | Product Marketing, Various | Multiple teams/individuals | Includes non-paid digital (organic/social), Paid digital |
+|  External content activation epic/issue creation  |    Content   |  Various individuals/teams, Legal (if applicable)   | Various individuals/teams|    | Example: Analyst reports|
+|  Campaign Development  |    Campaigns   |      | Product Marketing, Various individuals/teams |    | Examples: Strategy. Tactics such as email, webcasts, paid digital, organic social, content syndication |
+|  Legal approval  |    Product Marketing   |     |   |   | Campaigns team creates issue and assigns to legal/product marketing|
+|  Setting targets  |    Campaigns or Digital   |      |    | PubSec Sales/PubSec Marketing | Targets are set by campaigns for programs they drive end-to-end, such as webcasts. Digital team sets targets for programs driven primarily by their team, such as display.|
+
 #### Campaign Core Team Communication
 {: #core-team-communication}
 
