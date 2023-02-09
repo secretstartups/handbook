@@ -17,6 +17,16 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 4. [Dev - Fulfillment Sub Department](/handbook/engineering/development/fulfillment/): R&D team, priorities, prioritization processes, and more.
 5. [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/): documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, such as revenue-based KPIs or sensitive project documentation.
 6. [UX Scorecards for Fulfillment](https://gitlab.com/groups/gitlab-org/-/epics/2015): A good way to see Fulfillment workflows in action is to view our scorecards. This is when we take a critical look at our UX and see where we can improve.
+7. [Licensing FAQ](/pricing/licensing-faq/)
+8. [Cloud Licensing Overview](/pricing/licensing-faq/cloud-licensing/)
+9. [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) - EntApps documentation including systems and process diagrams.
+10. [Sales Order Processing - Deal Desk Docs](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+
+## Helpful data links
+
+1. [Supersonics dashboard (Cloud Licensing, QSRs, Auto-renewal, operational data sync)](https://app.periscopedata.com/app/gitlab:safe-dashboard/919356/Supersonics-Executive-Dashboard) - **Limited Access**
+1. [L&R Ticket Ratio](https://app.periscopedata.com/app/gitlab:safe-dashboard/919342/SM-SaaS-Subscription-to-L&R-Ticket-Ratio) **Limited Access**
+1. [Version Upgrade Rate](https://app.periscopedata.com/app/gitlab/406972/Version-Upgrade-Rate) **Not Public**
 
 ## How to connect with us
 
@@ -160,6 +170,38 @@ The following individuals should be looped into the issue, depending on the impa
 1. For bookings impact, and/or to assess and coordinate Salesforce solution needs: `Jesse Rabbits - Sr. Manager, Deal Desk` 
 1. If customer outreach is needed, PM should work with: `Lyle Kozloff - Director of Support, Global Readiness`
 1. For product monetization decisions needed: `Justin Farris - Sr. Dir, Product Monetization`
+
+## Fulfillment debugging and FAQ
+
+### License Activation issues
+
+**License won't activate due to a true-up or seat overage mismatch**
+
+1. For customers on 14.3+ we allow activating a license even if there's a 10% seat overage [issue #333851](https://gitlab.com/gitlab-org/gitlab/-/issues/333851). You can learn more about this [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/user/admin_area/license.md#users-exceed-license-limit-upon-renewal) and see the associated [MR #67507](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67507) and [MR #67508](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67508)
+1. With Cloud Licensing, we won't block activation due to mismatch seats. If a customer applies a license with less seats than their currently active users, we will reconcile it in their following QSR or true-up event.
+
+**What type of connection does the GitLab instance require to activate Cloud Licensing?**
+
+The instance would need to have a 443 port connection to customers.gitlab.com in order to activate. This is also used for license synchronization as outlined in [our documentation here](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-data-synchronization).
+
+### Data collection
+
+**Can customers opt out of telemetry or sharing license sync data?**
+
+The data transmitted with Cloud License is covered in [this documentation](https://docs.gitlab.com/ee/subscriptions/self_managed/#license-sync). In short, it's aggregate user counts and some license metadata. This data is required for Cloud Licensing. It's intended to only include necessary data to support our needs for administering a license, supporting future renewals, supporting add-ons, and any seat reconciliations.
+
+You can look at sample code that generates the counts by searching for `subscription` events in [metrics.gitlab.com](https://metrics.gitlab.com/).
+
+**What is Operational vs Optional Data?**
+
+Our [service usage data](/handbook/legal/privacy/services-usage-data/) primarily aggregate counts from your instance (e.g. counts of issues or MRs) and is sent to GitLab on a weekly (or slower) cadence.
+
+1. Operational Data: This is the data that is tied to your subscription account/license. Our goal with this data is to capture aggregate counts to help the GitLab Customer Success and Sales teams help customers better adopt GitLab and get value out of their investment. Those counters can be viewed on metrics.gitlab.com by searching for "operational" and looking for the operational category. These operational events are agnostic of how you've activated your instance.
+2. Optional Data: [Optional Data](/handbook/legal/privacy/services-usage-data/#optional-data) is a similar type of metric (aggregate counts) but a much larger set than the Operational metrics. This is configured/opted-out by you, in your instance, and has nothing to do with your subscription. If you choose to share that data our Product teams would appreciate the insights to understand where to invest R&D resources to continue to mature our platform. Otherwise, you can ignore for your renewal and follow the opt-out steps documented [here](https://docs.gitlab.com/ee/development/service_ping/index.html#disable-service-ping).
+
+**Can a customer send subscription data ad-hoc, while keeping their GitLab instance airgapped/not connected to the internet?**
+
+Please see [Offline Cloud Licensing](/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing) for more information.
 
 
 ## Fulfillment Roadmap Prioritization 
