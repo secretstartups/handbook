@@ -36,11 +36,6 @@ The following members of other functional teams are our stable counterparts:
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "source code" } %>
 
-## Hiring
-
-Check out our [jobs page](/jobs/) for current openings.
-
-
 ## Workflow
 
 We use the standard GitLab [engineering workflow](/handbook/engineering/workflow/). To create an issue for the Create:Source Code BE team, add these labels:
@@ -144,11 +139,6 @@ Each month a planning issue is created by the PM, using the [Source code templat
 ##### Planning Board
 
 The [Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/2822491?milestone_title=14.1&label_name%5B%5D=group%3A%3Asource%20code) is created for each release by the PM, and is a curated list of issues by category. The EM requests engineers to allocate weights to all issues on this board via the [Needs weight issue](https://gitlab.com/gitlab-org/create-stage/-/issues/12837)
-
-#### Needs Weight issue
-
-A list of candidate issues for the release will be distributed to team members in a Needs Weight issue [_example_](https://gitlab.com/gitlab-org/create-stage/-/issues/12797) to "weight" or estimate the capacity needed to complete the work. The EM attempts to limit each team member to 4-5 issues, and the estimates should be timeboxed to \~4 hours. If an issue can't be weighted in this window, it requires a research spike.
-See [Weighting Issues](#weighting-issues) for more details on how weights are allocated.
 
 ##### Capacity Planning Spreadsheet
 
@@ -272,11 +262,6 @@ Once availability has been determined, weights have been assigned, and the PM/EM
 * A reasoning behind why you have been assigned more than your weight budget, if applicable
 * A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
 
-Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
-
-##### Kickoff emails
-
-The Kick-off emails are sent manually by the EM
 
 You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
 * Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
@@ -293,10 +278,6 @@ Many issues require work on both the backend and frontend, but the weight of tha
 ### Workflow labels
 
 <%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::source code' }) %>
-
-### Async standup
-
-<%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
 
 ### Retrospectives
 
