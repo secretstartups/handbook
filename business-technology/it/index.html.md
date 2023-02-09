@@ -250,19 +250,20 @@ We use animated movie and theme park references. We are careful to avoid tradema
 |-----------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|
 | [Rob Rea](/company/team/#rrea1)               | Senior Director, IT Operations           | Assets, Security, Tech Stack Vendors, Compliance, Helpdesk, etc.    |
 | [Peter Kaldis](/company/team/#pkaldis)        | Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering, Infrastructure        |
+| [Michael Beltran](/company/team/#mbeee)       | Manager, IT End User Services            | End User Services IT Manager                                        | 
 
 ### IT Support Team
 {: #who-support}
 
 | Name                                                                        | Role                            | Timezone Coverage | 
 |-----------------------------------------------------------------------------|---------------------------------|-------------------|
-| [Open Role](https://boards.greenhouse.io/gitlab/jobs/5851360002) | Manager, IT End User Services | N/A |
-| [Marc DiSabatino](/company/team/#marc_disabatino)   | Senior IT Helpdesk Analyst      | AMER              |
-| [Paul L.](/company/team/#plaurinavicius)            | IT Helpdesk Analyst             | EMEA              |
-| [Steve Ladgrove](/company/team/#sladgrove)          | IT Helpdesk Analyst             | APAC              |
-| [Ian Forde](/company/team/#iforde)                  | IT Helpdesk Analyst             | EMEA              |
+| [Steve Ladgrove](/company/team/#sladgrove)          | Senior IT Helpdesk Analyst      | APAC              |
 | [Jenny Wong](/company/team/#jwong6)                 | IT Helpdesk Analyst             | AMER              |
 | Jeff Ford                                           | IT Helpdesk Analyst             | AMER              |
+| Alex Krusiec                                        | IT Helpdesk Analyst             | AMER              |
+| Mic Rohr                                            | IT Helpdesk Analyst             | AMER              |
+| Max Hirata                                          | IT Helpdesk Analyst             | APAC              |
+
 
 ### Engineering Team
 {: #who-engineering}
