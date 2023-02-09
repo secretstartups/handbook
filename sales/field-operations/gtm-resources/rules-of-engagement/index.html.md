@@ -203,7 +203,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
         1. Holdover opportunities
-        1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+        1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
         1. Stage of the opportunity at time of account ownership change
 1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
@@ -264,7 +264,7 @@ Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain a
      
 - **Sales Leaders** are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunities are not moved prematurely to stage 3.
 - Holdovers do not apply to TAMs or SAs. 
-- Holdovers do not apply to ISRs and Renewal Managers.
+- Holdovers do not apply to Renewals Managers.
 - Holdover opportunities are flagged in SFDC using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 - Credit will be given to the AE on the holdover opportunity if it closes before the expiration date.
 
@@ -366,14 +366,13 @@ Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes
 5. Sales Operations will update LeanData.
 6. Territory Management updates will be uploaded to LeanData by Sales Operations.
 
-#### Territory Ownership (ISR)
+#### Territory Ownership (Renewals Managers)
 
-1. Create an issue in the Sales Operations project - utilizing the [ISR Territory Change template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange).
+1. Create an issue in the Sales Operations project - utilizing the [Renewal Manager Territory Change Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange).
 2. Follow the directions within the template and provide all requested details.
-3. Sales Operations and Sales Systems to update SFDC.
-4. Sales Operations to update the [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).
-5. To request ISR ownership exceptions for individual opportunities, please chatter your ISR manager on the opportunity for approval before looping in Sales-Support.
-If the opportunity is in a closed period, the ISR Manager and Sales Comp need to approve having the ISR added to the opportunity before tagging Jesse Rabbits directly to make the update. 
+3. Renewal Operations and Sales Systems to update SFDC.
+4. To request Renewals Manager ownership exceptions for individual opportunities, please chatter your Manager, Renewals on the opportunity for approval before looping in Sales-Support.
+If the opportunity is in a closed period, the Manager, Renewals and Sales Comp need to approve having the Renewals Manager added to the opportunity before tagging Jesse Rabbits directly to make the update. 
     - Note: Only James Harrison or Jesse Rabbits can update closed opportunities at this time. 
 
 **Warning:** Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
