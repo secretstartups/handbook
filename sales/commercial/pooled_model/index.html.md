@@ -27,21 +27,21 @@ All Pooled SMB customers are now auto ranked/ tiered based on a criteria devised
 
 Rank 2 & 3 accounts are re-ranked on a monthly basis, and should any meet the criteria to be a Rank 1 account, their rank will be updated and the account auto assinged to a Pooled AE. 
 
-If they are re ranked from Rank 2/3 to Rank 1, it will be due of 1 of 3 scenarios;
+If they are re-ranked from Rank 2/3 to Rank 1, it will be due of 1 of 3 scenarios;
 
 1. Renewal Uptier = An increase in CARR moved them to Rank 1
 2. Non renewal Uptier = A recent change in funding or LAM Dev count moved them to Rank 1.
 3. New Account moving from FO to Pool = A new account enters the Pool that hits the criteria to be a Rank 1.
 
-Rank 1 accounts will not be re ranked on a weekly basis.  They will only be re ranked at time of renewal. This means that the Pooled AE owning this account will own them throughout their subscription term.  
+Rank 1 accounts will not be re-ranked on a monthly basis.  They will only be re-ranked at time of renewal. This means that the Pooled AE owning this account will own them throughout their subscription term.  
 
 If an account churns, it is possible that the account will be downtiered, and moved to the Pooled Sales User. 
 
 If an AE engages with a Rank 2/3 account via a case (Rank 2/3 account case creation is detailed below), they can nomiate the account to be uptiered to a Rank 1.
 
-They can only do this if stict criteria is met;
+They can only do this if strict criteria is met;
 
-1a. The account was enriched incorrectly, i.e the website does not match the company name.  This would mean that industry, funding, LAM dev count are void and the autmated rank cnnot be relied upon, AND
+1. The account was enriched incorrectly, i.e the website does not match the company name.  This would mean that industry, funding, LAM dev count are void and the autmated rank cnnot be relied upon, AND
 2. The renewal date is not in the next 30 days, AND
 3. The AE has engaged, and logged an activity on the contact/ acount/ case/ opp within the last 7 days, AND
 4. Add on/ License increase quote with nARR >$0 has been created.
@@ -66,7 +66,7 @@ These customers are mainly self serve and do not warrant dedicated AE focus. The
 ## Opportunity Ownership
 
 Each Pooled AE will own all opportunities under the accounts they own (Pooled Accounts where the Rank = 1/1.5)
-This includes QSR and Web Direct opp that are auto created under these accounts.
+This includes QSR and Web Direct opp that are auto created & auto closed won under these accounts.
 
 The Pooled Sales User will own all opportunities under Pooled accounts (Pooled Accounts where the Rank = 2/3), including scenarios where an AE was required to engage to transact the renewal opportunity. 
 This includes QSR and Web Direct opportunities that are auto created & auto closed won under these accounts.
@@ -96,7 +96,7 @@ Every month, the Product team identifies all Auto Renewal Opps that are destined
 Once identified, this list of renewal opportunities, that now require Sales Assistance, is published via Highspot, and on a SFDC dashbaord. 
 Once the list is published, Self Service Ops will create cases for each opp due to fail.  
 
-The cases are expected to enter the Pooled Sales Teah Case Queue at least 30 days before the opp close date. 
+The cases are expected to enter the [Pooled Sales Team Case Queue at least 30 days before the opp close date. 
 Once these cases enter the queue, they should be picked up on a first in first out basis.  
 Should the AE need to adjust the close date, add notes, create a new quote on the opp in question (which will be listed in the case), they are free to do so.  
 Once resolved, the case and the opp should be closed by the AE.
@@ -108,9 +108,9 @@ When they work the case, and set to the opp to close won, credit will fall under
 
 #### AE Steps
 
-- View the Pooled Sales Team Case Dash or Pooled Sales Team Case Queue to view the open case.
-- (The case will have the subject 'RT: Upcoming Auto Renewal Due to Fail: XX.XX.XXXX'
-- Click on the Case number an open case
+- View the [Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01Z8X000001Dk59) or [Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0) to view the open case.
+- (The case will have the subject **RT: Upcoming Auto Renewal Due to Fail: XX.XX.XXXX**
+- Click on the Case number
 - Confirm there are no open Pooled Cases currently on the account.  If there are, transfer the case to the AE that is working the other case.
 - Click **Change** next to the Case Owner field
 - Enter your name in the Owner Name box, and click **Save**
@@ -202,7 +202,7 @@ As detailed under the preceeding trigger.
 
 #### AE Steps
 
-s detailed above, however the case will have the subject **RT:Upcoming Non Auto Renewal: XX.XX.XXXX**
+Ss detailed above, however the case will have the subject **RT:Upcoming Non Auto Renewal: XX.XX.XXXX**
 
 ### Overdue Renewals - Reactive Trigger
 
@@ -225,11 +225,11 @@ As detailed above, however the case will have the subject **RT: Past Due Renewal
 
 ### New 5* PTE Accounts - Proactive Trigger
 
-Accounts that were recently updated and now have a PTE listed of 5, indicating there is potential for growth.
+Accounts that were recently updated and now have a PTE of 5, indicating there is potential for growth.
 
 #### Process
 
-On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to 5* PTE.
+On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to 5* PTE in the last 30 days.
 Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
 
 #### Policy
@@ -242,11 +242,11 @@ As detailed above, however the case will have the subject **PRO: New 5* PTE Acco
 
 ### New 1* PTC Accounts - Proactive Trigger
 
-Accounts that were recently updated and now have a PTC listed of 1, indicating there is a high chance they will churn.
+Accounts that were recently updated and now have a PTC of 1, indicating there is a high chance they will churn.
 
 #### Process
 
-On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to 1* PTC.
+On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to 1* PTC in the last 30 days.
 Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
 
 #### Policy
@@ -263,7 +263,7 @@ Similar to accounts with a high PTE, these customers could benefit from features
 
 #### Process
 
-On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to say 'Likely to upgrade to Ultimate = True'
+On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to say 'Likely to upgrade to Ultimate = True'. 
 Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
 
 #### Policy
@@ -341,7 +341,7 @@ As detailed above, however the case will have the subject **HR: Hand Raise PQL**
 
 ### NPS/ CSAT Survey Response - HR
 
-A customer is willing to share thier feedback, and has submitted a survey response.
+A customer is willing to share their feedback, and has submitted a survey response.
 
 #### Process
 
@@ -390,17 +390,15 @@ As detailed above, however the case will have the subject **HR: SDR Created**
 
 ### Support Ticket
 
-The customer rasied a support ticket, however assigned Support Engineer is requesting that Sales contact the customer. 
+If the Pooled Customer raises a support ticket, it will be picked up via zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is the Pooled Sales User, the below process should be followed.
 
-#### Process
-
-A Support Engineer should follow the below steps in order to lopp in Sales;
+#### Process/ Support Engineer Steps
 
 - Navigate in Salesforce to the Pooled Account needing attention from a Pooled AE.
 - Log a case on the Account (please do NOT Chatter).
 - Select **Create New Case** and select **Pooled Sales Case** as the case record type.
 - Change **Case Origin** to **SMB Pool Internal Created**.
-- Search the **Contact Name** of the end user contact to reach out to.
+- Search the **Contact Name** of the end user contact.
 - Describe the ask of the AE in the case **Description**. Include any relevant links or resources.
 - Enter **Support Ticket** in the **Subject** field.
 - Select a **Case Reason** based on the customers needs. If you are unsure of what **Case Reason** to select, please refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
@@ -420,12 +418,11 @@ If the Support Engineer does not have Salesforce access, they can follow the bel
 ### How Pooled AEs work Cases
 
 - If a Pooled AE has capacity, they will click on an open case in the [Pooled Sales Team Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0) and assign it to themselves, by changing the **Case Owner**.
-- Based on the email address entered during case creation, a Contact and Account will automatically be populated to the case. If there is no match, the Pooled AE should manually add in the customer Contact. This will then auto populate the Account field.
+- Based on the email address entered during case creation, the Contact and Account will be automatically populated on the case. If there is no match, the Pooled AE should manually add in the customer Contact. This will then auto populate the Account field.
 - Information pertaining to the case will be displated in the **Web Form Details Section**, and/ or the **Description** box, based on the trigger that created the case.
 - Once assigned to a Pooled AE, the **Status** should be set to **In Progress**. This will also update the **Date/ Time First Responded** and **Time to First Response** fields.
 - The **Case Reason** should be updated based on the nature of the customer's request. If the case owner is unsure of what **Case Reason** to select, they can refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
 - To work the case, the Pooled AE should contact the customer, adding relevant activities to the case, and/ or the related opportunity. They are also able to update the **Notes** field on the case,
-- They should also log activities on the Case, and relate them to the applicable opportunity. 
 - Once a Case is considered resolved, the **Status** should be set to one of the four Closed options, and the **Resolution Action** updated. This will automatically update the **Date/ Time Closed** field.
 - If applicable, the related opportunity should also be closed. 
 - At any time, a Pooled AE can view their cases by navigating to the **My Cases** list view in Salesforce.
