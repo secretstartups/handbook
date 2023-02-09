@@ -126,10 +126,6 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 
-- IT Analyst EMEA - [Paulius Laurinavicius](https://about.gitlab.com/company/team/#plaurinavicius), plaurinavicius@gitlab.com, @plaurinavicius
-
-- IT Analyst EMEA - [Ian Forde](https://about.gitlab.com/company/team/#iforde), iforde@gitlab.com, @iforde
-
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 
 - IT Analyst APAC -  [Max Hirata](https://about.gitlab.com/company/team/#mraetz), mraetz@gitlab.com, @mraetz 
@@ -151,10 +147,6 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 - Alex Kruseic - [appointment schedule](https://calendar.app.google/xsTHAQWxHmT3tpr86) - AMER
 
 - Jenny Wong - [appointment schedule](https://calendar.app.google/HJoCYkbf4XnApqSU6) - AMER
-
-- Paul Laurinavicius - [appointment schedule](https://calendar.app.google/k89MSDJKPb9fZtwW6) - EMEA
-
-- Ian Forde - [appointment schedule](https://calendar.app.google/T5Tu4M6UbDXPQ1kLA) - EMEA 
 
 - Steve Ladgrove - [appointment schedule](https://calendar.app.google/sno1aJBB9YhQUHXh8) - APAC
 
