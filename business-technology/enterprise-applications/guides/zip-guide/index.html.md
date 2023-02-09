@@ -19,19 +19,33 @@ description: "Zip End Users Guide"
 
 Zip is an add-on to Coupa that will streamline the approval process to ensure we are gathering all the right information to manage the associated approvals, and get you the services you need as soon as possible. As a result, you will now have visibility into your purchase requests including the ability to see status and current stage of the approval process.
 
-### How to access Zip
-
-Zip is available via Okta. To access the platform:
-1. Login to your [Okta home page](https://gitlab.okta.com/app/UserHome)
-2. Find the `Zip` tile.
-- _Zip should open in a new tab with your user logged in._
-- _The Zip  main page should look like the one below._
-
-![zip-image-1](/handbook/business-technology/enterprise-applications/guides/zip-guide/login-page.png)
 
 **Note:** Check this [2 Minute Zip Overview Video](https://ziphq.wistia.com/medias/d7isqa87qz) to learn more about Zip and how to submit a purchase request.
 {: .alert .alert-info}
 
+
+### How to access Zip
+
+To request access to Zip:
+1. Open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Zip and Coupa using the `Individual_Bulk_Access_Request` template. All users requesting access to Zip also need a Coupa license to manage POs and invoices
+
+
+   -a)In Step 2, in the _Justification for this access_ question, please describe what budget, management approvals, purchase orders and invoices approvals you will manage.
+
+   -b)Add the labels `FinSys - Coupa`,`FinSys - Zip` and `FinSys::Service Desk`.
+
+   -c)**After the AR is approved, you must review the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and follow the instructions for provisioning (either assign to the provisioner, add the correct labels or both if not clearly stated) to avoid any provisioning delays.**
+   
+   -d)If you require immediate Zip/Coupa access, please ping in the `#coupa_help` Slack channel.
+
+
+
+2. Once you are provisioned acces, Login to your [Okta home page](https://gitlab.okta.com/app/UserHome)
+3. Find the `Zip` tile.
+- _Zip should open in a new tab with your user logged in._
+- _The Zip  main page should look like the one below._
+
+![zip-image-1](/handbook/business-technology/enterprise-applications/guides/zip-guide/login-page.png)
 
 
 ## Zip - Getting Started
@@ -40,12 +54,12 @@ Zip is available via Okta. To access the platform:
 ### How to initiate a new request?
 
 1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
-1. Click on `+New Request` on the right side of the top menu.
-1. Select the specific type of request needed.
-1. Complete the requisition form.
-1. If you are the requestor, then add your name, or behalf of whom you are requesting.
-1. 'What are you looking to purchase?' is asking which commodity you are purchasing. For example: if this purchase is for the Marketing team, then please select `Marketing Programs` and then the appropriate subcategory that describes your purchase.
-1. Select if the payment is to be made by a Coupa virtual card.
+2. Click on `+New Request` on the right side of the top menu.
+3. Select the specific type of request needed.
+4. Complete the requisition form
+5. If you are the requestor, then add your name, or behalf of whom you are requesting.
+6. In the `What are you looking to purchase?` question, is asking which commodity you are purchasing. For example: if this purchase is for the Marketing team, then please select Marketing Programs and then the appropriate subcategory that describes your purchase.
+7. Select if the payment is to be made by a Coupa virtual card.
 
 
 ![zip-image-2](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request4.png)
@@ -56,10 +70,91 @@ Zip is available via Okta. To access the platform:
 
 ![zip-image-4](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request5.png)
 
-**Note:** Depending on the selection for `What are you looking to purchase?`, the following question `Which detailed category best describes your purchase?` will update with the relevant response options.
+
+### Purchase requests commodity categories and sub-categories
+
+1. Consulting, Professional Services & Training
+   -  Consulting Fees
+   -  Professional dues, membership fees
+   -  Revenue Partner Payments
+2. Finance & Legal
+   -  Accounting
+   -  Insurance - Business
+   -  Legal
+   -  Licenses & Registrations
+   -  Tax Commodities
+3. General & Admin
+   -  Employee Benefit - Bike to work
+   -  Security Deposits (Greater than 12 months)
+   -  Credit Card Transaction fees
+   -  Gifts & Donations
+   -  Partner Growth Fees
+   -  Postage & Shipping
+   -  Printing & Copying
+   -  Rent or Lease
+   -  Coworking Space
+4. Hosting
+   -  Hosting Services
+5. Marketing Programs
+   -  Marketing Site
+   -  Demand Advertising
+   -  Field Events
+   -  Swag
+   -  Email
+   -  Brand
+   -  Prospecting
+   -  Channel Partner Rebates
+6. Office Equipment & Supplies
+   -  Computer & Office Equipment
+   -  Office Supplies
+   -  Computer & Office Equipment (Capitalized)
+7. People & Recruiting
+   -  Employee Training
+   -  Training & Development
+8. Software
+   -  Software Subscription
+9. Telecom
+   -  Internet
+   -  Telephone
+10. Travel & Entertainment, Company Events
+   -  Airfare
+   -  Business Meals & Entertainment
+   -  Company Functions
+   -  Hotels & Lodging
+   -  Meals - Company Provided
+   -  Parking, Gas, Tolls, Mileage
+   -  Taxis, Car Service, Public Transportation
+   -  IACV Evangelism Dinner Incentive
+   -  Team Building
+
+
+### How to request a new vendor?
+
+The process to set up a new vendor starts in `Zip`. Simply by creating a new purchase request you have the option to add a new vendor. Once the request has been submitted, the **Procurement** team would be notified and add the new vendor in `Coupa`.
+
+
+### How to do a request change?
+
+If there is an existing purchase order that needs a change, follow the steps below to process a change request:
+
+1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
+2. Click on `+New Request` on the right side of the top menu.
+3. Select the `Request a Change (amend contracts or PO chnage)`
+4. Complete the requisition form. Make sure that you enter the existing `Coupa` purchase order number.
+5. Fill in all the required information and the `Procurement` team will amend the PO in `Coupa` on your behalf.
+6. Attach supporting documentation from the supplier for the change. This could be a SOW, Change Request, and/or Order Form based on the purchase type.
+
+Please note that a change request will require the same approvals as a new request.
 {: .alert .alert-info}
 
-### How to request a new supplier
+
+### How does the virtual card process work?
+Virtual card requests will go through Zip as a regular purchase request.
+
+   1. Select `Yes` for the question `Will a virtual card be used to pay this vendor?` and fill in all the relevant information.
+   2. Once the Zip request is approved and is integrated into Coupa, where financial and management approvals will take place, it will trigger virtual card creation in Coupa. 
+   3. You will receive an email once the virtual card is ready, and you can also access it directly in Coupa.
+
 
 ### How to keep track of a request?
 
@@ -74,6 +169,38 @@ Zip is available via Okta. To access the platform:
 
 **Note:** See which approvals are complete and which have yet to be completed. Automatic notifications via Slack and email will go out as the request is approved by different parties.
 {: .alert .alert-info}
+
+
+### How to cancel a request?
+
+1. On the Zip home page click on the `Submitted` tab.
+2. Find and select the purchase request you would like to cancel.
+3. Once you have selected the purchase request, click on the `…` logo and `Cancel Request`.
+4. Provide a short cancellation reason and click `Confirm`.
+
+![zip-image-14](/handbook/business-technology/enterprise-applications/guides/zip-guide/cancel-request1.png)
+
+
+![zip-image-15](/handbook/business-technology/enterprise-applications/guides/zip-guide/cancel-request2.png)
+
+
+![zip-image-16](/handbook/business-technology/enterprise-applications/guides/zip-guide/cancel-request3.png)
+
+
+### How to clone a request?
+
+1. On the Zip home page click on the `Submitted` tab.
+2. Find and select the purchase request you would like to clone.
+3. Once you have selected the purchase request, click on the `…` logo and `Clone request`.
+4. Click on `Clone`.
+
+![zip-image-17](/handbook/business-technology/enterprise-applications/guides/zip-guide/clone-request1.png)
+
+
+![zip-image-18](/handbook/business-technology/enterprise-applications/guides/zip-guide/clone-request2.png)
+
+
+![zip-image-19](/handbook/business-technology/enterprise-applications/guides/zip-guide/clone-request3.png)
 
 
 ### How to comment on a request?
