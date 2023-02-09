@@ -204,13 +204,13 @@ There are several ways to submit for reimbursement, and all manual expenses can 
 - **Personal card import:** Link your personal card(s) and import transactions for reimbursement.
    - Note: This option is only available to users with a United States-based bank account.
 - **Type in expenses:** Manually type in your transaction details if you cannot link a personal card or have misplaced your receipt. 
-- **Receipt Import:** Email Navan (_receipt@navan.com_) a copy of your receipt(s) and they will automatically be added to an existing Navan Expense transaction or created as a transaction draft.
+- **Receipt Import:** Email Navan (_receipts@navan.com_) a copy of your receipt(s) and they will automatically be added to an existing Navan Expense transaction or created as a transaction draft.
 
 <div class="panel panel-danger">
 **IMPORTANT NOTE**
 {: .panel-heading}
 <div class="panel-body">
-- Receipts need to be forwarded from your GitLab email to _receipt@navan.com_ in order to be attached to your Navan Expense account. After sending the email, the receipt should show up within a few minutes to a few hours.
+- Receipts need to be forwarded from your GitLab email to _receipts@navan.com_ in order to be attached to your Navan Expense account. After sending the email, the receipt should show up within a few minutes to a few hours.
 </div>
 </div>
 
@@ -598,7 +598,7 @@ If you do not link your personal card to Navan Expense and you owe GitLab a repa
 
 #### In what countries are direct reimbursements available? 
 
-Direct reimbursements are currently available for employees with bank accounts created in the following countries: Andorra, Australia, Austria, Belgium, Brazil, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hong Kong, Hungary, India, Indonesia, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Thailand, Turkey, United Kingdom, USA, Vietnam.
+Please check [this section](https://about.gitlab.com/handbook/finance/expenses/#reimbursement-payout-timelines) of the Expense handbook page for information on reimbursements and payout timelines.
 
 #### How can I receive my funds if my reimbursement fails?
 If your reimbursement fails, unlink, then relink your bank account from the `My reimbursements` tab on your mobile app or the `Settings` tab on the web app. Once relinked, Navan will resend the funds to your bank.
