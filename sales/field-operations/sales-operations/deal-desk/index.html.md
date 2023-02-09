@@ -722,9 +722,8 @@ Customer pays upfront or annually, for all users planned in the ramp schedule.
 
 ##### How to Create a Ramp Deal
 
-To create a Ramp Deal, tag @Sales-Support in chatter on the opportunity. Deal Desk will create the quotes and Order Form. **Provide the following information for each ramp period:**
+To create a Ramp Deal, tag @Sales-Support in chatter on the opportunity. Deal Desk will create the quotes and Order Form. For ramp add-ons, create a new add-on opportunity. **Provide the following information for each ramp period:**
 *   Start date and term length
-*   Proposed ramp schedule
 *   Product, quantity, discount
 *   Bill To and Sold To Contact
 *   Invoice Owner and Invoice Owner Contact (If Partner Deal)
