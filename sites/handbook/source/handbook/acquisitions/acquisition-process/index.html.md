@@ -222,7 +222,7 @@ To assign the engineering team member, contact the engineering manager of the re
 
 At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unnecessary exposure. 
 
-To ensure confidentiality during the acquisition process, we assign code names to each potential transaction once we enter the Early Diligence stage.
+To ensure confidentiality during the acquisition process, we assign [code names](/handbook/communication/confidentiality-levels/#project-names) to each potential transaction once we enter the Early Diligence stage. Project name themes are defined by GitLab Legal, Corporate Development's theme is Movie / TV Show characters.
 
 To maintain confidentiality, we follow the following guidelines:
 
