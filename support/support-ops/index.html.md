@@ -41,14 +41,14 @@ product.
 
 ## The Support Operations Team
 
-| Name | Role  | Slack Handle |
-|--|--|--|
-| [Lyle Kozloff](https://gitlab.com/lyle) | Director of Support, Global Readiness | @lyle |
-| [Jason Colyer](https://gitlab.com/jcolyer) | Support Operations Manager | @jcolyer |
-| [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Global Instance) | @nabeel.bilgrami |
-| [Dan Nolan](https://gitlab.com/dnolan1) | Support Operations Specialist (US Federal)} | @dnolan1
-| [Alyssa Villa](https://gitlab.com/avilla4) | Support Operations Specialist (Global Instance) | @avilla4 |
-| [Dylan Tragjasi](https://gitlab.com/dtragjasi) | Support Operations Specialist (Global Instance) | @dtragjasi |
+| Name                                                  | Role                                            |
+|-------------------------------------------------------|-------------------------------------------------|
+| [Lyle Kozloff](https://gitlab.com/lyle)               | Director of Support, Global Readiness           |
+| [Jason Colyer](https://gitlab.com/jcolyer)            | Support Operations Manager                      |
+| [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Global Instance) |
+| [Alyssa Villa](https://gitlab.com/avilla4)            | Support Operations Specialist (Global Instance) |
+| [Dylan Tragjasi](https://gitlab.com/dtragjasi)        | Support Operations Specialist (Global Instance) |
+| [Sarah Cole](https://gitlab.com/Secole)               | Support Operations Specialist (Global Instance) |
 
 ## Support Operations Important Links
 
@@ -141,15 +141,15 @@ team. The current division of responsibilities is:
 
 | Category            | Area                       | Primary DRI      | Secondary DRI    |
 |---------------------|----------------------------|------------------|------------------|
-| Access Requests     | Internal License Requests  | @nabeel.bilgrami | @dnolan1         |
+| Access Requests     | Internal License Requests  | @nabeel.bilgrami | @jcolyer         |
 |                     | Offboarding                | @jcolyer         | @nabeel.bilgrami |
 |                     | Onboarding                 | @jcolyer         | @lyle            |
-| [Audits](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits) | | @jcolyer | @dnolan1 |
+| [Audits](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits) | | @jcolyer | @jcolyer |
 | Calendly            | Management                 | @avilla4         | @dtragjasi       |
 |                     | Procurement                | @jcolyer         | @lyle            |
 | Forms | [Account Deletions](https://gitlab.com/gitlab-com/support/support-ops/forms/account-deletion) | @dtragjasi | @jcolyer |
 | | [Internal Requests](https://gitlab.com/gitlab-com/support/internal-requests-form) | @dtragjasi | @jcolyer |
-| | [Usage Ping Requests](https://gitlab.com/support/usage-ping-request) | @dtragjasi | @dnolan1 |
+| | [Usage Ping Requests](https://gitlab.com/support/usage-ping-request) | @dtragjasi | @jcolyer |
 | | [Customer Ticket Generator](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) | @jcolyer | @avilla4 |
 | Pagerduty | [Management](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty) | @jcolyer | @dtragjasi |
 |                     | Provisioning               | @jcolyer         | @dtragjasi       |
@@ -171,19 +171,19 @@ team. The current division of responsibilities is:
 | | [Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views) | @avilla4 | @dtragjasi |
 | | [ZD<>SFDC Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global) | @jcolyer | @nabeel.bilgrami |
 | | [Zendesk Apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps) | @dtragjasi | @avilla4 |
-| Zendesk US Federal  | [Agent Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents) | @dnolan1 | @jcolyer |
-| | [Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations) | @dnolan1 | @jcolyer |
-| | [Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)           | @jcolyer | @dnolan1 |
-| | [Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)                     | @dnolan1 | @jcolyer |
-| | Organizations | @dnolan1 | @jcolyer |
+| Zendesk US Federal  | [Agent Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents) | @jcolyer | @jcolyer |
+| | [Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations) | @jcolyer | @jcolyer |
+| | [Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)           | @jcolyer | @jcolyer |
+| | [Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)                     | @jcolyer | @jcolyer |
+| | Organizations | @jcolyer | @jcolyer |
 | | Procurement | @jcolyer | @lyle |
-| | SLAs | @jcolyer | @dnolan1 |
-| | [Theme](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme) | @dnolan1 | @jcolyer |
-| | [Ticket Round Robin](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-round-robin) | @dnolan1 | @jcolyer |
-| | [Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers) | @dnolan1 | @jcolyer |
-| | [Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views) | @dnolan1 | @jcolyer |
-| | [ZD<>SFDC Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal) | @jcolyer | @dnolan1 |
-| | [Zendesk Apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps) | @dnolan1 | @jcolyer |
+| | SLAs | @jcolyer | @jcolyer |
+| | [Theme](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme) | @jcolyer | @jcolyer |
+| | [Ticket Round Robin](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-round-robin) | @jcolyer | @jcolyer |
+| | [Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers) | @jcolyer | @jcolyer |
+| | [Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views) | @jcolyer | @jcolyer |
+| | [ZD<>SFDC Sync](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal) | @jcolyer | @jcolyer |
+| | [Zendesk Apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps) | @jcolyer | @jcolyer |
 
 ## Code freeze
 
