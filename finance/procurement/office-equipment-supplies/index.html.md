@@ -15,6 +15,8 @@ As you onboard and start your Gitlab journey, new hires after 2/8/2023 will rece
 
 In addition, as of 2/8/2023, team members will get a yearly refresh of $500 USD (or equivalent local currency) to purchase upgrades, replacements, or enhancements to your home office setup. This excludes laptops - please connect with the IT team if you require a replacement laptop.
 
+Team members who have started during the year before this expense policy took effect, and have not yet expensed key parts of their home office equipment (such as office chair, desk and monitor) are also eligible for the New Hire $1,500 stipend. In order to claim this, please email expenses@gitlab.com and explain your situation. The team will assist you with provisioning the Virtual Card. 
+
 ### New Hires- $1,500 USD (or equivalent local currency) Guidelines
 1. These amounts were set after a thorough analysis and review of team members’ expense data during the previous two years and benchmarked with other remote companies.  Anything over this amount will be at the expense of the team member and no exceptions will be made.
 2. The virtual card provided will expire after one year of issue.  
@@ -27,5 +29,8 @@ In addition, as of 2/8/2023, team members will get a yearly refresh of $500 USD 
 2. This is a yearly refresh amount.  It will reset at the beginning of each year.
 3. Any unused funds will not roll over to the next year. 
 4. We want you to do you and refresh your office the way you want it.  There is not a restriction of the office equipment you can or cannot purchase, with the exception of Airpods (they are highly discouraged and not reimbursable).  Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
+
+
+
 
 For any questions about this process or about utilizing your Virtual Card, please reach out in the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel.
