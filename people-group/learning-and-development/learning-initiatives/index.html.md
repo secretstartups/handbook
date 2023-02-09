@@ -213,3 +213,7 @@ The following process outlines steps for the L&D team to take when planning and 
 Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
+
+### Learning Resource: Building Resilience
+
+[This Building Resilience learning resource](https://docs.google.com/presentation/d/1nZLRZojXpZu_1FxGLJtpfne9AnUD51nMYlEb_O_PkD4/) is available to help team members understand and build resilience. It also highlights additional resources to support team members' well-being, mental health, and growth of resilience.
