@@ -78,24 +78,20 @@ graph TB
                 zgYApprov[Security Approves]:::Green
 
             %% Orange
-                zgFM{Field Marketing Event?}
-                    zgFMY[Yes]
-                    zgFMN[No]
-                    zgAssess{Third Party Security Assessment Begins}
-                        zgQuest[Security Questionnaire Sent]
-                        zgTPResponse[Third Party Responds]
-                        zgReview[Security Reviews]
-                        zgMeets{Response Satisfies GitLab Standards?}
-                            zgMeetsNo[No]
-                            zgMeetsYes[Yes]
-                            zgFup[Follow-up Required]
-                        zgIssues{Issues Identified}
-                            zgIssueY{Yes}
-                            zgIssueN[No]
-                            zgAccept[Business Owner Accepts Risk]
-                            zgStop[Business Owner Chooses Not to Work with Third Party]
-                zgORApprov[Security Approves]:::Green
-                zgFMApprov[Security Approves]:::Green
+                zgAssess{Third Party Security Assessment Begins}
+                    zgQuest[Security Questionnaire Sent]
+                    zgTPResponse[Third Party Responds]
+                    zgReview[Security Reviews]
+                    zgMeets{Response Satisfies GitLab Standards?}
+                        zgMeetsNo[No]
+                        zgMeetsYes[Yes]
+                        zgFup[Follow-up Required]
+                    zgIssues{Issues Identified}
+                        zgIssueY{Yes}
+                        zgIssueN[No]
+                        zgAccept[Business Owner Accepts Risk]
+                        zgStop[Business Owner Chooses Not to Work with Third Party]
+            zgORApprov[Security Approves]:::Green
 
              %% Red
 
@@ -110,9 +106,7 @@ graph TB
 
         zgGreen --> zgGApprov
         zgYellow --> zgYApprov
-        zgOR --> zgFM
-            zgFM --> zgFMY --> zgFMApprov
-            zgFM --> zgFMN --> zgAssess
+        zgOR --> zgAssess
     zgRed --> zgAssess
 
         zgAssess --> zgQuest --> zgTPResponse --> zgReview --> zgMeets
