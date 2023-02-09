@@ -73,12 +73,12 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/renewals/">Renewal</a></td>
-    <td><ul><li>It is the job of the CSM to ask the [‘soft’](/handbook/customer-success/csm/renewals/#renewal-question) renewal question 3-4 months before the renewal</li><li>This conversation and the outcome of this conversation are tracked in Gainsight using the 'renewal call’ meeting type (within the timeline entry)</li></ul></td>
+    <td><ul><li>It is the job of the CSM to ask the 'soft' <a href="/handbook/customer-success/csm/renewals/#renewal-question">renewal question</a> 3-4 months before the renewal</li><li>This conversation and the outcome of this conversation are tracked in Gainsight using the 'renewal call' meeting type (within the timeline entry)</li></ul></td>
     <td>Every customer regardless of segment or priority</td>
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/risk-mitigation/">Managing Risk</a></td>
-    <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for often communicating to the account team and their manager about risk in their accounts and [triggering/leading the escalation process](/handbook/customer-success/csm/escalations/) where needed</li></ul></td>
+    <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for often communicating to the account team and their manager about risk in their accounts and <a href="/handbook/customer-success/csm/escalations/">triggering/leading the escalation process</a> where needed</li></ul></td>
     <td><ul><li>Risk is actively managed for both Strategic and Growth</li><li>Once red, a customer becomes PR1 in both segments</li></ul></td>
   </tr>
 </tbody>
