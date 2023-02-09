@@ -17,9 +17,23 @@ The Competitive Intelligence function at GitLab has two primary constituencies (
 
 **Sales Team**: Another GitLab core value is **[results](/handbook/values/#results)**.  Sales is a key constituency that helps GitLab achieve results.  Hence parts of the Competitive Intelligence material is targeted at helping our sales teams effectively sell to our prospects, thereby delivering value that fulfills the customer's business needs.
 
-## Quick Link - Comparison Assets
+## Comparison Assets - Externally-facing
 
-All our comparison assets - pages that compare other vendor products with GitLab are found in the **[DevOps Tools Landscape page](/competition/)**
+All our comparison assets - pages that compare other vendor products with GitLab are found in the **[DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/)** and the **[DevOps Maturity Comparison chart](/competition/)**
+
+These assets have two different purposes:
+- The DevOps Tools Landscape visualizes how we consider ourselves in each stage, ranking GitLab compared to the Best In Class competitors for each stage.
+- The DevOps Maturity Comparison Chart visualizes how we compare on a category level to each of the Best In Class competitors in each stage.
+
+## Comparison Assets - Internal Competitive Assets
+
+All our internal competitive intelligence (competitor cards, internal webinars and documents) are hosted on our [Highspot page](https://gitlab.highspot.com/spots/615dd78be6303bc4429268a1), leveraging our [Crayon](app.crayon.co) competitive intelligence tool, which hosts the competitor cards. 
+
+For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/brand-and-product-marketing/)
+
+Access to Crayon has been opened to all our Sales, Product, Engineering, and Marketing teams. You can access Crayon through the Okta tile (search for it within Okta if it doesn't appear on your list). In the spirit of the GitLab value of collaboration, all accounts are given "collaborator" level access, meaning all users can create and edit content in the same way as the competitive intelligence team. Users may be downgraded to "viewer" access if neccessary.
+
+If you are not in these teams and require access, reach out to @jkempton on slack with your request.
 
 ## Account-Specific Support
 
