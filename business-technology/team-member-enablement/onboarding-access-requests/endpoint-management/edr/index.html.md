@@ -120,7 +120,7 @@ Prerequisites:
 
 - Make sure you are using an approved [Linux distro](/handbook/it/operating-systems/).
 
-1. [Download](https://drive.google.com/drive/search?q=type:folder%20sentinelone%20installers) the configuration file and the appropriate installer (DEB/RPM).
+1. [Download](https://gitlab.com/gitlab-com/it/security/sentinelone-installers) the configuration file and the appropriate installer (DEB/RPM).
 1. Get your laptop's serial number:
 
    ```shell
@@ -139,7 +139,7 @@ Prerequisites:
 
      ```shell
      export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
-     sudo _E rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     sudo -E rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
      ```
 
    - For Ubuntu 22.04:
