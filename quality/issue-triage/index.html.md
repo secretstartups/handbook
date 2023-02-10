@@ -131,7 +131,12 @@ If a issue seems to fall between two severity labels, assign it to the higher se
   - Incorrect colors.
   - Misalignment.
 
-### Availability
+## Re-evaluating closed issues
+
+As the triager of an issue you are responsible for adjusting your decision based on additional information that surfaces later.
+To do that, track subsequent activity on issues that you have closed and adjust your decision as needed.
+
+## Availability
 
 Issues with `~"bug::availability"` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`.
 
