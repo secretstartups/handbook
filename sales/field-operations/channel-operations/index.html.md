@@ -100,7 +100,7 @@ There are a number of different slack channels to serve the different needs of t
 | channel-sales |  Questions and comments about opportunities, partner connections, field engagement, and other channel sales questions |  | any | any |
 | channels-emea | A channel for the EMEA channels team and stakeholders to collaborate |  | any | any |
 | channels-amer | A channel for the AMER channels team and stakeholders can collaborate |  | any | any |
-| pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  [Team Coverage](https://docs.google.com/spreadsheets/d/1fCaRgYn0qJ5lT3Qgaq-Vqkw3X6wa53py3Qm7yPYYlA4/edit#gid=0) | any | any |
+| pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  | any | any |
 | apac_partners | A channel for the APAC channels team and stakeholders can collaborate |  | any | any |
 | channel-services | Questions and comments about channel services program, enablement and field engagement |  | any | any |
 | alliances | A channel for collaboration with the alliances Team | https://about.gitlab.com/handbook/alliances/ | any | any |
@@ -118,7 +118,7 @@ All [**Partner Co-Sell**](https://about.gitlab.com/handbook/sales/field-operatio
 2. An upsell/add-on for an existing GitLab customer
 Partner Sourced Deal Registration logic needs to match `Sales Qualified Source = Channel Generated` on the opportunity.  
 
-For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
+For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview).
 
 ### Billing Contacts in Partner Accounts
 When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. Partner accounts that will transact via distribution do not need a billing account set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
@@ -292,7 +292,7 @@ In order to transact with GitLab, a partner must both be authorized by GitLab, a
 ### Partner Co-Sell
 All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration or the Opportunities Sales Qualified Source = Channel Generated. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
 
-### US Public Sector Preferred Partner CoSell Request Process
+### US Public Sector Preferred Partner Co-Sell Request Process
 
 The Partner Sourced Deal Registration process is the same for commercial and US Pubsec business. The instructions below apply _only_ to US Public Sector CoSell opportunities.
 
@@ -312,7 +312,7 @@ Any other partner receiving a quote for the same opportunity will be provided MS
 Further enablement for GitLab Team Members is available. For further information, contact the #channel-programs-ops slack channel.   
 
 
-###Guidelines for approving US Public Sector Co-Sell Partner Submissions
+### Guidelines for approving US Public Sector Co-Sell Partner Submissions
 
 The following are explicit guidelines for approved US Public Sector Partners to receive preferred pricing on Gitlab-sourced opportunities.   
 
@@ -373,7 +373,7 @@ Once a Channel Manager is assigned a Partner Sourced Deal Registration, they rec
 - [Deal Registration Object Fields & Definitions](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view)
 - [Adding the Registration Record to your Salesforce view](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view)
 - [Creating personal deal registration views](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view)
-- [Partner-facing Deal Registration instructions](https://about.gitlab.com/handbook/resellers/#deal-registration-instructions)
+- [Partner-facing Deal Registration instructions](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-instructions)
  
 ### Partner Sourced Deal Registration: Resale Opportunities
 Partner Sourced Deal Registrations for resale opportunities reward partners for bringing net-new business to GitLab. With an approved Partner Sourced Deal Registration, a partner will receive a deeper discount than Partner Co-Sell opportunities, according to the [GitLab Partner Program(https://handbook/resellers/).
@@ -513,7 +513,7 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 For more information on quoting or the Partner Program, please visit:
 - [Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 - [Partner Program](https://about.gitlab.com/handbook/resellers/)
-- [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).  
+- [Channel Discount Matrices for GitLab Team Members](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing).  
 
 ## Channel Approvals
 Channel Approvers for opportunities are based on the Opportunity Owner’s User Region. Whenever an approver changes, an [issue must be opened with Sales Systems](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bmilestone_id%5D=) to replace the old approver with the new. Current channel approvers can be seen in our [channel approver matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.jxrpmpixprez). 
@@ -567,13 +567,7 @@ Most partner-facing questions and changes to the Impartner (Partner Portal) syst
  
 - The GitLab Partner Program provides partners with set discounts based on their program status and whether or not there is an active deal registration.
 - At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
-- GitLab employees can access the discount tables using the links below:
-  - [Commercial Matrix](https://gitlab.my.salesforce.com/0694M00000DsShm?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
-  - [Public Sector Matrix](https://gitlab.my.salesforce.com/0694M00000DsShr?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
-  - [MSP Matrix](https://gitlab.my.salesforce.com/0694M00000DsShw?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
-
-  _These matrices represent the discounts effective August 15, 2021_.  
-
+- GitLab employees can access the [partner discount guidance here](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing)
 - Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com/).
  
 
