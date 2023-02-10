@@ -61,7 +61,8 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - aligning column aliases within the SELECT statement
 - excluding the use of hanging indents
 - selecting the tab size to be 2 spaces
-- selecting Key words and Functions to always be upper case
+- selecting Key words, Data Types and Functions to always be upper case
+- require table aliases to be a minimum of four characters 
 
 
 The configuration file that the Data Team uses can be found in the [GitLab Data Team repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/.sqlfluff).
@@ -199,17 +200,17 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
     ```sql
     -- Preferred
     SELECT
-        budget_forecast_cogs_opex.account_id,
+        budget_forecast.account_id,
         date_details.fiscal_year,
         date_details.fiscal_quarter,
         date_details.fiscal_quarter_name,
         cost_category.cost_category_level_1,
         cost_category.cost_category_level_2
-    FROM budget_forecast_cogs_opex
+    FROM budget_forecast_cogs_opex AS budget_forecast
     LEFT JOIN date_details
-        ON date_details.first_day_of_month = budget_forecast_cogs_opex.accounting_period
+        ON date_details.first_day_of_month = budget_forecast.accounting_period
     LEFT JOIN cost_category
-        ON budget_forecast_cogs_opex.unique_account_name = cost_category.unique_account_name
+        ON budget_forecast.unique_account_name = cost_category.unique_account_name
 
  
     -- vs 
@@ -419,16 +420,17 @@ This example code has been processed though SQLFluff linter and had the style gu
 
 WITH my_data AS (
 
-  SELECT *
-  FROM prod.my_data
-  WHERE filter = 'my_filter'
+  SELECT my_data.*
+  FROM prod.my_data_with_a_long_table_name AS my_data
+  INNER JOIN prod.other_thing
+  WHERE my_data.filter = 'my_filter'
 
 ),
 
 some_cte AS (
 
   SELECT DISTINCT
-    id AS other_id,
+    id                                                       AS other_id,
     other_field_1,
     other_field_2,
     date_field_at,
@@ -452,23 +454,23 @@ final AS (
 
   SELECT
     -- This is a singel line comment
-    my_data.field_1 AS detailed_field_1,
-    my_data.field_2 AS detailed_field_2,
+    my_data.field_1                                              AS detailed_field_1,
+    my_data.field_2                                              AS detailed_field_2,
     my_data.detailed_field_3,
-    DATE_TRUNC('month', some_cte.date_field_at) AS date_field_month,
-    some_cte.data_by_row['id']::NUMBER AS id_field,
-    IFF(my_data.detailed_field_3 > my_data.field_2, TRUE, FALSE) AS is_boolian,
+    DATE_TRUNC('month', some_cte.date_field_at)                  AS date_field_month,
+    some_cte.data_by_row['id']::NUMBER                           AS id_field,
+    IFF(my_data.detailed_field_3 > my_data.field_2, TRUE, FALSE) AS is_boolean,
     CASE
-      WHEN
-        my_data.cancellation_date IS NULL
+      WHEN my_data.cancellation_date IS NULL
         AND my_data.expiration_date IS NOT NULL
         THEN my_data.expiration_date
       WHEN my_data.cancellation_date IS NULL
         THEN my_data.start_date + 7 -- There is a reason for this number
       ELSE my_data.cancellation_date
-    END AS adjusted_cancellation_date,
-    SUM(some_cte.field_4) AS field_4_sum,
-    MAX(some_cte.field_5) AS field_5_max
+    END                                                          AS adjusted_cancellation_date,
+    COUNT(*)                                                     AS number_of_records,
+    SUM(some_cte.field_4)                                        AS field_4_sum,
+    MAX(some_cte.field_5)                                        AS field_5_max
   FROM my_data
   LEFT JOIN some_cte
     ON my_data.id = some_cte.id
@@ -489,6 +491,6 @@ FROM final
 ### Other SQL Style Guides
 
 - [Brooklyn Data Co](https://github.com/brooklyn-data/co/blob/master/sql_style_guide.md)
-- [Fishtown Analytics](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md#sql-style-guide)
+- [dbt Labs](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md)
 - [Matt Mazur](https://github.com/mattm/sql-style-guide)
 - [Kickstarter](https://gist.github.com/fredbenenson/7bb92718e19138c20591)
