@@ -770,6 +770,10 @@ but if you need pretty advanced table layouts, you are free to add them in HTML 
 As explained by John Gruber, the creator of markdown, it was not created to replace HTML,
 so there are situations we can't avoid using HTML. With complex tables, that's the case.
 
+**Note:** For very simple 2 column tables it is better to use [lists](#lists) with strong text in preference
+to the complexity of using markdown tables.
+{: .note}
+
 The following table has a header (first line), then markup to define the desired alignment (dashes and colons),
 then the table body. You can go ahead and add separators to create subsequent table bodies.
 
