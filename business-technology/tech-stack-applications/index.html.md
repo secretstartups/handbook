@@ -20,7 +20,7 @@ extra_js:
 The Tech Stack is a list of all the technology that GitLab currently uses to support the business. The Tech Stack lists systems/applications/tools/data used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
 
 - The Tech Stack single source of truth is the **[Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).**
-- The browseable **[Tech Stack Index](/handbook/business-technology/tech-stack/)** is built from the YAML file.
+- The browsable **[Tech Stack Index](/handbook/business-technology/tech-stack/)** is built from the YAML file.
 - Many applications have a **[Tech Stack Guide](/handbook/business-technology/tech-stack-guide/)** to help you understand how the app is used and implemented.
 - This [Jupyter Notebook view](https://colab.research.google.com/drive/1C0sikfvoY46p2-dbYNtHwo77VJLixCe2?usp=sharing) of the Tech Stack enables filtering and copying CSV/JSON/Markdown versions of the Tech Stack.
 
@@ -28,7 +28,7 @@ The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be fou
 
 ## Tech Stack Support Hierarchy
 
-1. Business and technical owners
+1. Business and Technical Owners
 1. IT Team
 
 Business and technical owners will remain the point of contact for provisioning and issues involving administration of the systems they manage. The IT team empowers business and technical owners to maintain accountability for tech systems through efforts involving automation, monitoring, and visibility.
@@ -36,7 +36,7 @@ Business and technical owners will remain the point of contact for provisioning 
 ## Tech Stack definitions:
 
 - **Business Owner**: The Business Owner is the individual(s) responsible for all budget and decision making around the tool. They should define how the tool is used and by whom. This person(s) usually has login access to the tool as `Owner` but login access isn't necessary in all cases. Please make sure you list individual people in this field, rather than teams.
-- **Technical Owner**: The Technical Owner(s) are all of the `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it.
+- **Technical Owner**: The Technical Owner is someone with understanding of the application's architecture, functionality (including types of data involved), and overall criticality/impact to GitLab. Technical Owner(s) are typically `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it.
 - **Provisioner/Deprovisioner**: People in charge of granting and removing team member access to a tool. At least two provisioners/deprovisioners should be named for every tool in the handbook. Provisioners can be contacted as a group in Slack using the `@provisioners` handle and in GitLab using the `@tech-stack-provisioner` handle.
 
 ## Tech Stack Updates
@@ -66,16 +66,16 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | group_owner_slack_channel | Text | Add the Slack channel where the group owner  can be reached out for help. Example: #infrastructure-lounge | MR Author and contributors |
 | business_owner | Text | The Business Owner is the individual(s) responsible for all budget and decision making around the tool. They should define how the tool is used and by whom. This person(s) usually has login access to the tool as `Owner` but login access isn't necessary in all cases. Please make sure you list individual people in this field, rather than teams. Example: Jane Doe, John Doe | MR Author and contributors |
 | technical_owner | Text | The Technical Owner(s) all the `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it. Example: Jane Doe, John Doe | MR Author and contributors |
-| data_classification | Text (Red, Orange, Yellow, Green) or Unknown** | Decided upon by the Security team, please leave as `null` while this process is completed. More information on [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html).| IT Compliance Team |
+| data_classification | Text (Red, Orange, Yellow, Green) or Unknown** | Decided upon by the Security team, please leave as `null` while this process is completed. More information on [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html).| Security Risk |
 | integration_method | Text (SWA, SAML, other) or Unknown** | Login method used to access the system. It can be [SWA](https://help.okta.com/en/prod/Content/Topics/Apps/Apps_Overview_of_Managing_Apps_and_SSO.htm), [SAML](https://support.okta.com/help/s/article/Beginner-s-Guide-to-SAML?language=en_US) or other such as direct access (email and password login).  | MR Author and contributors |
-| need_move_to_okta | Text or Unknown** | EMPTY | MR Author and contributors |
+| need_move_to_okta | Text or Unknown** | If the system is compatible with Okta but is not currently integrated with it put `true` and open a [new Okta application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=change_management_okta) | MR Author and contributors |
 |critical_systems_tier|Text (Tier 1 Mission Critical, Tier 2 Business Critical, Tier 3 Business Operational, Tier 4 Administrative, TBD) or Unknown**|This field classifies the system based on GitLab's [Critical System Tier Definitions](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). The assignment of a critical system tier is dependent on the completion of a [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) (BIA) questionnaire. The Security Risk Team will coordinate the completion of a BIA if it has not yet been completed at the time a system is being added to the Tech Stack.|Security Risk|
 | compliance_scope | Text | Comma separated list of the system's compliance scope: (e.g. SOX, SOC2, PCI). Decided upon by the Internal Audit and Security Compliance Teams, please leave as null while this process is completed. | Internal Audit and Security Compliance Teams |
 | collected_data | Text or Unknown**  | Data that is collected by the tool | MR Author and contributors |
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
 | notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. Examples include the GitLab Epic for implementation and rollout. | Optional, MR Author and contributors |
 | saas | Boolean* or Unknown** | Is the tool a Software as a Service (SaaS) tool? | Optional, MR Author and contributors |
-| handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Finance handbook contains the [ContractWorks Tech Stack Guide](https://www.contractworks.com/)." | Optional, MR Author and contributors |
+| handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Marketing handbook contains the [Marketo Tech Stack Guide](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/)." | Optional, MR Author and contributors |
 | external_link | Text/Markdown or Unknown** | Link to the app's primary website. Example: "[ContractWorks](https://www.contractworks.com/)" | Optional, MR Author and contributors |
 | google_group | Text or Unknown** | Google group being used to manage access to the systems through Okta | Optional, MR Author and contributors |
 
@@ -91,7 +91,7 @@ To add a new system to the tech stack, you must start a merge request in the [te
 
 **Step 1**
 
-Copy the content below and please add your system to the stack in its appropriate alphabetical placement. Make sure you fill out anything that the 'MR Author and contributors' are responsible for according to [Tech Stack Data section](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack). Make sure to use the correct data type for each required field.
+Copy the content below (including the `- ` before `title`) and please add your system to the stack in its appropriate alphabetical placement. Make sure you fill out anything that the 'MR Author and contributors' are responsible for according to [Tech Stack Data section](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack). Make sure to use the correct data type for each required field.
 
 ```
 - title:
@@ -108,19 +108,19 @@ Copy the content below and please add your system to the stack in its appropriat
   integration_method:
   need_move_to_okta: null
   critical_systems_tier: null
-  compliance_scope:
+  compliance_scope: null
   collected_data: null
   employee_or_customer_facing_app:
   notes: null
   saas: null
   handbook_link: null
   external_link:
-  google_group:
+  google_group: null
 ```
 
 **Step 2**
 
-Submit MR and select the template `tech-stack-new-system.md`. Fill out all the information required in the description.
+Submit MR and select the template `tech-stack-add-new-system.md`. Fill out all the information required in the description.
 
 **Step 3**
 
@@ -130,7 +130,7 @@ The Legal, IT Compliance, Internal Audit, Security Risk, and Business Systems te
 
 _**We recommend using the Web IDE for Tech Stack Updates as we have a [JSON Schema](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/schemas/tech_stack.schema.json) that will automatically validate your changes.**_
 
-To update any system information listed in the Tech Stack, you must start a merge request in the [tech stack yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). Please use the `tech-stack-update.md` template when submitting your MR and follow the instructions in the template. Ensure to update the information following the instructions in the [Tech Stack Data section](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
+To update any system information listed in the Tech Stack, you must start a merge request in the [tech stack yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). Please use the `tech-stack-update-existing-system.md` template when submitting your MR and follow the instructions in the template. Ensure to update the information following the instructions in the [Tech Stack Data section](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
 
 ### [**Removing a system from the Tech Stack**](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new?issuable_template=offboarding_tech_stack)
 
@@ -150,18 +150,22 @@ Do you want to procure a new application/system? Visit the [Procurement handbook
 
 Are you experiencing issues with an application/system? Visit our [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and under `Group Owner/Slack Channel`, you can find out what Slack channel you need to reach out to request support.
 
-### Updating the offboarding template
+### Updating the Offboarding Templates
 
-The offboarding templates need to be updated when a new system is added to the tech stack in order for GitLab to be compliant and remove team members from systems once they leave GitLab. There is two different ways to update the offboarding process:
+The offboarding templates need to be updated when a new system is added to the Tech Stack in order for GitLab to be compliant and remove Team Members from systems once they leave GitLab. There are two different ways to update the offboarding templates.  Pick the option which best suits the usage of the new system.
 
-1. Update the [main offboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md): The main template is divided in two sections, the main `Offboarding Tasks` section which is applicable to all team members and it is done by the Manager, People, Finance and Business Technology teams. The `Tech Stack System Deprovisioning / Offboarding - Tasks that need to be completed within 5 days` section is where we want to add new systems that are added to the teck stack. 
+<details>
+<summary markdown="span">Option 1: New system used by all/many Team Members, across multiple departments</summary>
+Update the [main Team Member Offboarding](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) template.
 
-The format to follow is:
+The main template is divided into two sections.  The first section is the [Offboarding Tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md#offboarding-tasks) section.  This section is applicable to all GitLab Team Members and is performed by the Manager, People, Business Technology, and Finance/Accounting teams.
+
+The second section is the [Tech Stack System Deprovisioning / Offboarding](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md#tech-stack-system-deprovisioning-offboarding-tasks-that-need-to-be-completed-within-5-days) section.  Update this section with the new system being added to the Tech Stack.  Use the format below to make the update:
 
 ```
-## Department the system is owned by. If system is owned by multiple departments, department the main deprovisioner belongs to. Please make sure the department doesn't currenly exist. If it does, ignore this header and just add the rest of the information under the existing header.
+## Department that owns the new system. If new system is owned by multiple departments, list the department the main deprovisioner belongs to. Please make sure the department does not already exist within the template. If it does, ignore this header and just add the following information underneath the existing department header.
 
-#### <summary>Name of deprovisioner @usernameofdeprovisioner, Name of deprovisioner 2 @usernameofdeprovisioner2, etc </summary>
+#### <summary>Name of deprovisioner @usernameofdeprovisioner, Name of deprovisioner 2 @usernameofdeprovisioner2, etc. </summary>
 
 <table >
 	<tbody>
@@ -169,21 +173,25 @@ The format to follow is:
 			<td> `System name`  </td>
 			<td>
 
-- [ ] Access Deprovisioned
-- [ ] Not Applicable to Team Member 
+- [ ] Access Deprovisioned - System name
+- [ ] Not Applicable to Team Member - System name
 
 </td>
 		</tr>
 	</tbody>
 </table>
 ```
+When finished, link the MR in the "Access Tasks" section of the 'Tech Stack - Add New System' MR.
+</details>
 
+<details>
+<summary markdown="span">Option 2: New system used by a limited number of Team Members, all in SAME department</summary>
+Update the [department-level Offboarding template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/offboarding_tasks) within this directory.
 
-1. Update the [offboarding templates per department](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/.gitlab/issue_templates/offboarding_tasks): If only a limited number of users will be added to the system, it is better to deprovision at the division/department level. In that case, please find the offboarding tasks per department and add the new system to the template for that department. Example: If only security will have access to a system, then you can go to the [Security folder](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding_tasks/department_security.md) and add the system name to that template following this format:
+Using the link above, locate the template of the department owning the new system and update it. Example: If only the Security team will have access to a new system, locate the [Security template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding_tasks/department_security.md) and add the new system to that template following this format:
 
-`- [ ]  @usernameofdeprovisioner @usernameofdeprovisioner2: Remove the team member from System Name`
+`- [ ]  @usernameofdeprovisioner @usernameofdeprovisioner2: Remove the team member from System name`
 
-If the system will be accessed by multiple departments, update all the relevant templates. Once your MR is ready, you can mention `@gl-people-connect-team` for approval and merge.
+When finished, link the MR in the "Access Tasks" section of the 'Tech Stack - Add New System' MR.
+</details>
 
-
-<div id="js-tech-stack-overview"></div>
