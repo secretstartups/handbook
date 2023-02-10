@@ -50,6 +50,9 @@ The [Usability Benchmarking template](https://docs.google.com/spreadsheets/d/1FK
 A few guidelines when selecting tasks for your study:
 
 - Relate every task to a Job To Be Done for one of our personas.
+- Review SUS feedback to identify areas that users provide negative feedback on. This is a useful exercise for two reasons: 
+     1) **To help in task creation** - If there are pain points identified through SUS, or other feedback mechanisms, it's good practice to look for opportunities where your tasks can explore them further. Doing so allows you to witness the pain points in person and understand more details around them.
+     2) **For data triangulation** - After you analyze the benchmark data, you will have identified pain points through your tasks. You can use SUS data to understand if the pain points you identified in your benchmark were also seen in the SUS feedback. This is useful, because triangulation can help strengthen insights; for example, we can state "this pain point was also a theme in our SUS feedback in Q1." If the benchmark pain points weren't previously identified through SUS feedback, that's also worth pointing out and exploring further.
 - Group individual tasks by workflow and in a sensible order (for example, don't have a 'close issue' task before an 'open issue' task).
 - Determine a happy medium of complexity for tasks. Too easy is not meaningful. Too complex makes measuring specific parts of a workflow difficult.
 - Consider setting a 'cut off' time limit for each task to ensure you get through all of them.
@@ -250,6 +253,8 @@ A: As it stands, no. You should consider maturity during the analysis and when s
 A: For benchmarking, the UX Researcher is responsible for much of the 'processing'. The UX Research team has an [FY23 objective](https://gitlab.com/groups/gitlab-org/-/epics/7367) to better utilize actionable insights. One of the main outputs of benchmarking is a set of recommendations that will then go through the process of turning into actionable insights or informative insights. Part of this [process](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights) involves categorizing actionable insights into either 'exploration needed' or 'product change' categories, each of which becomes an issue with this label.
 
 The UX Researcher is responsible for sharing the list of recommendations, along with all other findings from the benchmarking with all relevant stakeholders (specifically Product Designers and Product Managers). The exact structure of this will likely vary between different groups and stages, but part of this process needs to involve the communication and handoff of all 'product change' actionable insights. From there, the team should work together to prioritize these issues and ensure they are completed (which leads to the next question).
+
+It's important to make sure that actionable insights are broken down into smaller, more immediately achievable chunks. Check with your team(s) (during the workshop is a good time) to make sure the actionable insights aren't too big by asking how they could be broken down into smaller issues. 
 
 **Q: How can I prevent recommendations from going stale (not prioritized/implemented)?**
 
