@@ -290,6 +290,20 @@ Ensure any changes you make are approved by legal and saved within the OneTrust 
 1. **Notice only:** If you select Notice Only as the default consent model, all cookie categories will be set to Always Active and cannot be disabled by website visitors. A banner informing the visitor that the website uses cookies will be displayed on the landing page of the website.
 1. **Custom:** If you select this option, you can set a different default status for each category of cookie on your site. You can customize the consent model to suit your organization's needs and can set the Do Not Track status for each category of cookie.
 
+### Banner Rules 
+
+The OneTrust banner is only visible to new website visitors based on a set of logic listed below. In regions where the banner does not display, the user can still consent to cookie categories from the Preference Center window by clicking on the "Cookie Settings" or "Do not sell..." link located in the footer section. 
+
+| Region   | Consent Model | Banner Visibility    | Buttons    |
+|-------|---------------|---------------|------------------|
+| California    | Opt out       | Not visible          |     |
+| Colorado   | Opt out       | Not visible          |     |
+| US     | Opt out       | Not visible          |       |
+| Europe, Colombia, Russia, Liechtenstein, United Kingdom, Iceland, Norway, Peru | Opt in        | Visible to new users | Cookie Settings, Accept All Cookies  |
+| Korea, Brazil, Canada, South Africa, Macao   | Opt out       | Visible to new users | Cookie Settings, Accept All Cookies  |
+| France, Spain     | Opt in        | Visible to new users | Cookie Settings, Reject All, Accept All Cookies |
+| Global     | Opt out       | Not visible          |              |
+
 ### Accessing Scripts
 
 1. To access the scripts, click `Scripts` in the left menu of the `Cookie Compliance` module. 
@@ -331,6 +345,20 @@ Here you can confirm the publication settings of the script. Note: enabling or d
 1. **Enable language detection on scripts:** if the language cannot be determined, the templates default language will be used (options: determine the language from the site visitor's browser settings or determine the language from HTML page)
 
 Click `Publish Test Scripts`. Implement the script into the HTML of your staging site.
+
+#### Auto-Blocking 
+
+When the Auto-blocking feature is toggled ON under publication settings, an `optanon...` class is appended to all script tags that store cookies on the browser. The script will only load if the user consent to the cookie category. For example, the following Vimeo script contains the `optanon-category-C0002` class value, meaning the Vimeo script will only load if the user consent to the Performance cookie category: 
+`<script src="https://extend.vimeocdn.js" class="optanon-category-C0002">`
+
+To override the `optanon` class and remove the autoblocking feature from certain scripts, the script will need to be removed from the cookie's source on OneTrust:
+
+1. Under Setup > Categorizations > select All Cookies
+1. Click on the filter icon > click on Add Filter > click on Add Field: Default Category > select the category from the `optanon` script > click Apply
+1. Click into each cookie > click Source
+1. Remove the desired script from the cookie's source 
+1. Publish the script 
+
 
 ### Do Not Sell & Cookie Setting Button
 
