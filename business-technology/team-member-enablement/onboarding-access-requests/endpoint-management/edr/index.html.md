@@ -116,11 +116,16 @@ echo '!/opt/sentinelone/mount' | sudo tee -a /etc/aide.conf
 </div>
 </div>
 
-Prerequisites:
+1. Make sure you are using an approved [Linux distribution](/handbook/it/operating-systems/).
+1. [Download](https://gitlab.com/gitlab-com/it/security/sentinelone-installers)
+   the configuration file and the appropriate installer (DEB/RPM). In the following
+   examples, we'll assume you put those in the following locations and that you
+   renamed the package name to be `sentinelagent`:
 
-- Make sure you are using an approved [Linux distro](/handbook/it/operating-systems/).
+   - Configuration file: `~/.config/sentinelone/config.cfg`
+   - DEB package: `~/Downloads/sentinelagent.deb`
+   - RPM package: `~/Downloads/sentinelagent.rpm`
 
-1. [Download](https://gitlab.com/gitlab-com/it/security/sentinelone-installers) the configuration file and the appropriate installer (DEB/RPM).
 1. Get your laptop's serial number:
 
    ```shell
@@ -135,18 +140,82 @@ Prerequisites:
 
 1. Install the package (commands may differ slightly based on distro):
 
-   - For Fedora 37:
+   - For Fedora 37 and other supported RPM-based distributions:
 
      ```shell
-     export S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
-     sudo -E rpm -i --nodigest <sentinelone>.rpm S1_AGENT_INSTALL_CONFIG_PATH="/path/to/config.cfg"
+     export S1_AGENT_INSTALL_CONFIG_PATH=~/.config/sentinelone/config.cfg
+     sudo -E rpm -i --nodigest ~/Downloads/sentinelagent.rpm
      ```
 
-   - For Ubuntu 22.04:
+   - For Ubuntu 22.04 and other supported Debian or Ubuntu-based distributions:
 
      ```shell
-     sudo S1_AGENT_INSTALL_CONFIG_PATH=/path/to/config.cfg dpkg -i <sentinelone>.deb
+     export S1_AGENT_INSTALL_CONFIG_PATH=~/.config/sentinelone/config.cfg
+     sudo -E apt install ~/Downloads/sentinelagent.deb
      ```
+
+1. To verify that it installed correctly, you should see the following output
+   after the installation:
+
+   ```plaintext
+   Setting registration token...
+   Registration token successfully set
+   Setting management device type...
+   Device type successfully set
+   Setting customer ID...
+   Customer ID successfully set
+   Starting agent...
+   Agent is running
+   ```
+
+   You can also check if the systemd service is running:
+
+   ```shell
+   $ systemctl status sentinelone
+
+   ● sentinelone.service - Monitor SentinelOne Agent
+     Loaded: loaded (/lib/systemd/system/sentinelone.service; enabled; vendor preset: enabled)
+     Active: active (running) since Fri 2023-02-10 09:37:35 CET; 4min 5s ago
+    Process: 298024 ExecStart=/opt/sentinelone/bin/sentinelctl control run (code=exited, status=0/SUCCESS)
+   Main PID: 298039 (s1-agent)
+     Status: "Starting agent..."
+      Tasks: 50
+     Memory: 594.6M (limit: 7.9E)
+        CPU: 1min 19.288s
+     CGroup: /system.slice/sentinelone.service
+             ├─298034 s1-orchestrator "" "" "" "" "" "" "" ""
+             ├─298035 s1-network "" "" "" "" "" "" "" "" "" ""
+             ├─298037 s1-scanner "" "" "" "" "" "" "" "" "" ""
+             ├─298039 s1-agent "" "" "" "" "" "" "" "" "" "" "
+             ├─298041 s1-firewall "" "" "" "" "" "" "" "" "" "
+             ├─298043 s1-fanotify "" "" "" "" "" "" "" "" "" "
+             └─298045 s1-perf "" "" "" "" "" "" "" "" "" "" ""
+   ```
+
+   <div class="panel panel-info">
+   **You don't see the previous outputs?**
+   {: .panel-heading}
+   <div class="panel-body">
+
+   If you don't see the previous outputs, it means that SentinelAgent was not
+   installed correctly, most probably it didn't take into account the configuration
+   file, or you didn't set it up correctly. In that case, you must first uninstall
+   the package before trying to install it again:
+
+   - For Fedora 37 and other supported RPM-based distributions:
+
+     ```shell
+     sudo dnf remove sentinelagent
+     ```
+
+   - For Ubuntu 22.04 and other supported Debian or Ubuntu-based distributions:
+
+     ```shell
+     sudo apt purge sentinelagent
+     ```
+
+   </div>
+   </div>
 
 1. Wait five minutes, and then verify connectivity:
 
