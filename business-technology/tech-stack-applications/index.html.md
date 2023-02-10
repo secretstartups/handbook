@@ -154,8 +154,11 @@ Are you experiencing issues with an application/system? Visit our [Tech Stack YA
 
 The offboarding templates need to be updated when a new system is added to the Tech Stack in order for GitLab to be compliant and remove Team Members from systems once they leave GitLab. There are two different ways to update the offboarding templates.  Pick the option which best suits the usage of the new system.
 
+{::options parse_block_html="true" /}
+
 <details>
 <summary markdown="span">Option 1: New system used by all/many Team Members, across multiple departments</summary>
+
 Update the [main Team Member Offboarding](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) template.
 
 The main template is divided into two sections.  The first section is the [Offboarding Tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md#offboarding-tasks) section.  This section is applicable to all GitLab Team Members and is performed by the Manager, People, Business Technology, and Finance/Accounting teams.
@@ -186,6 +189,7 @@ When finished, link the MR in the "Access Tasks" section of the 'Tech Stack - Ad
 
 <details>
 <summary markdown="span">Option 2: New system used by a limited number of Team Members, all in SAME department</summary>
+
 Update the [department-level Offboarding template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/offboarding_tasks) within this directory.
 
 Using the link above, locate the template of the department owning the new system and update it. Example: If only the Security team will have access to a new system, locate the [Security template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding_tasks/department_security.md) and add the new system to that template following this format:
