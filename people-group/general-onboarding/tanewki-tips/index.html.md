@@ -136,19 +136,7 @@ If you're nearing your start date and still haven't received your laptop, please
 
 **New user to Mac?** Don't worry, many of us were also first time users! When you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). If you are switching from Windows to macOS, these [keyboard tips](https://support.apple.com/en-us/HT204216) may be useful.
 
-GitLab utitilizes Expensify as our team member [expense](/handbook/finance/expenses/) reimbursement tool. All team members will have access to Expensify within 2 days from their hire date. If you didn't receive an email from Expensify for your access, please contact `ap@gitlab.com`. 
-
-There are a few commonly expensed items among new hires that are listed below and a guide to how they can be categorized within Expensify.
-
-| Item| Expensify Category| 
-|:---------------|:---------------:|
-| Desk | Office Equipment  | 
-| Keyboard    | Office Equipment         |
-| Monitor     | Office Equipment         | 
-| Mouse | Office Equipment | 
-| Headphones | Office Equipment | 
-| Computer Case | Office Supplies | 
-| Monthly Internet Subscription | Telecom Internet | 
+GitLab utitilizes Navan as our team member [expense](/handbook/finance/expenses/) reimbursement tool. All team members will have access to Navan within 2 days from their hire date. If you don't see a tile for Navan in your Okta dashboard, please contact `ap@gitlab.com`. 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations 
 
@@ -173,7 +161,7 @@ Want to learn more about Onboarding from current team members? View their feedba
 ### Equipment and Expenses
 **Q: Am I able to buy things prior to my start date then expense once started?**
 
-A: Absolutely! We recommend reviewing our [expenses](https://about.gitlab.com/handbook/finance/expenses/) handbook page about items are are expensable vs. non-expensable. 
+A: It is best to wait until your start date to start purchasing items due to the fact that you will receive a [virtual card](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/) with funds on it to use. However, should you decide to purchase things prior to your start date, you will need to let the Expenses team know as soon as possible by emailing `expenses@gitlab.com` as this will still count against your onboarding funds if you want to be reimbursed for them. 
 
 **Q: I haven't received my GitLab issued laptop yet. Is it okay to use a personal one until it arrives?**
 
