@@ -13,14 +13,6 @@ description: "This page shows the data structure, integrations, and other techni
 
 {::options parse_block_html="true" /}
 
-## How to contribute to this page
-
-When creating a merge request to update this page, please use the following options:
-
-- Reviewer: Jeff Beaumont
-- Approver: Jeff Beaumont
-
-Assign to Jeff Beaumont.
 
 ## Gainsight overview
 
@@ -543,8 +535,6 @@ We are currently using the following scorecard groups and measures:
 
 We bring in product usage data to Gainsight directly from Snowflake. We use a Data Designer project called `MonthlyMart SelfManager Usage Data`.
 
-**Note**: This is only self-managed customer data.
-
 The Gainsight integration with Snowflake is still new, so we use a Data Designer project to import the data. Once Gainsight enhances the Snowflake connection we will be able to use a Connector job if needed.
 
 (To be completed:)
@@ -572,11 +562,15 @@ The namespaces list used by SaaS Namespace Service Ping is driven by a clone of 
 
 **Caveat**: Redis-sourced metrics (noted in the metric dictionary as either redis or redis_hll) are not yet available at the namespace level. For the time being, SaaS Namespace Service Ping will only have Postgres-sourced metrics (as of 2021-09-08).
 
+
+
 ### Data definitions
 
 - [UUID](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#uuid): originally intended as unique identifier
 - `Hostname`: the url for the company’s on-prem server (e.g., gitlab.gainsight.com)
-- Metric definitions: https://docs.gitlab.com/ee/development/usage_ping/dictionary.html 
+- `Namespace id`: the GitLab-defined ID for namespaces (SaaS)
+- `Namespace name`: the customer-defined name for their namespace. Note: many are listed as "BLOCKED" because of PII
+- Metric definitions: https://metrics.gitlab.com/
 - `Ping_date`: The specific date of the Service Ping (e.g., 2021-08-11 12:00). This is a weekly ping so the rows of data are updated with the latest ping values.
   - Use case: Use this field to see the exact date that the ping was sent.
 - `Snapshot_month`: each row of data is tied to the snapshot month. The ping_date field will update the values in `Snapshot_month` for the current month.
