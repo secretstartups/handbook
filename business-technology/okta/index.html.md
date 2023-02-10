@@ -193,6 +193,14 @@ Your gitlab.com account will have 2FA installed as required by our policy.
 Note that the 2FA for GitLab.com is different to the MFA you use to log into Okta.
 [This issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/7397) has been opened to propose a solution.
 
+## When adding my GitLab Google Workspace account to my Android device, the biometrics or security key verification never prompts after signing in to Okta.
+
+When attempting to add a Google Workspace account to an Android device, Okta authentication proceeds in the Android's embedded browser (WebView).
+
+Since [Okta does not support embedded web browsers for WebAuthn based verification](https://help.okta.com/en-us/Content/Topics/Security/mfa/webauthn-compatibility.htm), which causes an issue where nothing prompts you after you sign-in to Okta, so you cannot add the Google Workspace account to Android devices.
+
+Please reach out to [`#it_help`](https://gitlab.slack.com/messages/it_help) Slack channel to request temporary enable Okta Verify as a workaround.
+
 ## Where do I go if I have any questions?
 
 - For Okta help, setup and integration questions: `#it_help` slack channel
