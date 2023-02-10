@@ -27,7 +27,47 @@ Six key topics were identified in GitLab’s materiality assessment. These key t
 
 GitLab’s current key topics are:
 
-![Six Key Topics](/images/legal/key_topics.png "Six Key Topics")
+### Environment
+| Key Topic                                       | Drivers of Key Topic                                      |
+| ------                                          | ------                                                    |
+| **Climate action and greenhouse gas emissions** | - Measurement and reduction of scope 1, 2 and 3 emissions |
+|                                                 | - Greenhouse gas reduction targets, goals and commitments |
+
+### Social
+| Key Topic                              | Drivers of Key Topic                                        |
+| ------                                 | ------                                                      |
+| **Diversity, inclusion and belonging** | - Diverse hiring and recruitment of underrepresented groups |
+|                                        | - Culture of DIB (events, TMRGs, courses, etc.)             |
+|                                        | - Pay and promotion equity and inclusive benefits           |
+|                                        | - Board, leadership and workforce diversity KPIs            |
+|                                        | - Product accessibility                                     |
+| **Talent management and engagement**   | - Talent attraction and recruitment                         |
+|                                        | - Team member learning and development                      |
+|                                        | - Leadership programs                                       |
+|                                        | - Succession planning                                       |
+|                                        | - Talent retention                                          |
+|                                        | - Workplace culture and remote work                         |
+|                                        | - Comp and benefits                                         |
+
+### Governance
+| Key Topic                           | Drivers of Key Topic                                                        |
+| ------                              | ------                                                                      |
+| **Cybersecurity and data privacy**  | - Data, system and network breaches                                         |
+|                                     | - Monitoring of emerging threats                                            |
+|                                     | - Information security training                                             |
+|                                     | - Customer data use transparency                                            |
+|                                     | - Data processing and storage                                               |
+|                                     | - PII                                                                       |
+| **Business ethics**                 | - Up to date code of conduct, anti-corruption, anti-bribery policies        |
+|                                     | - Regulatory compliance                                                     |
+|                                     | - Legal proceedings and monetary losses                                     |
+|                                     | - Internal compliance                                                       |
+|                                     | - Oversight and ethics training                                             |
+|                                     | - Human rights policies, risk assessments and due diligence                 |
+| **Responsible product development** | - Open source                                                               |
+|                                     | - Human rights issues from product use                                      |
+|                                     | - Environmental impact considerations for product                           |
+|                                     | - Data processing and storage                                               |
 
 
 ## Our Progress
