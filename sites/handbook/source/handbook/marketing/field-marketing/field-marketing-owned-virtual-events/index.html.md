@@ -622,9 +622,9 @@ Please follow the instructions [here](/handbook/marketing/field-marketing/field-
 Please note that our new demo environment, gitlab.com group Learn Labs + Instruqt, still requires a demo code, but we no longer provide that code to attendees in advance via the reminder email. The FMC will no longer need to include that code in the Marketo token and the reminder email Marketo templates have been updated with the new instructions. Our reminder emails are sent the business day before the workshop date.
 
 #### On-Demand for Workshops
-**DRI: Verticurl and Campaign Manager** 
+**DRI: FMM & FMC** 
 
-We do not offer the webcast recording on demand.  However, we do provide a link to the slides via Pathfactory in the attendee follow-up email. This will be auto-populated in the follow-up email through the Marketo tokens.
+Please see instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#converting-the-webcast-to-an-on-demand-gated-asset).
 
 #### Workshop Registration Caps and Closing Registration
 **DRI: FMC and FMM**  
@@ -859,7 +859,7 @@ Now that the event is over, it is important to consolidate all of the informatio
 - The attendee list with contact information (see instructions below)
 - The Post Event Survey results
 - The data from Zoom Q&A queue (FMMs to pull this data utilizing the below instructions) 
-- Workshop recordings should be posted to the [shared drive](https://drive.google.com/drive/folders/1dDyuT92zZOodi9mytf6--rq7kseX7EeE).
+- Workshop recordings should be posted to the [shared drive](https://drive.google.com/drive/folders/1dDyuT92zZOodi9mytf6--rq7kseX7EeE) and to the main issue.
 
 #### Finalizing Presentation Deck
 - Send final presentation slides to your FMC for Pathfactory track upload. **This is needed as soon as slides are final as Pathfactory track is linked to follow up email.**
