@@ -14,10 +14,6 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ----
 
-## Specific to UK based employees
-
-[GitLab LTD Homeworking and Flexible Working Policy](https://docs.google.com/document/d/1zUNgTR-PBPNbL0mNJMNs8kSDOJm_VDqil_Rv3EHAb2E/edit?usp=sharing)
-
 For any queries related to UK benefits, please email `total-rewards@gitlab.com` for further assistance. 
 
 ## Medical Insurance
