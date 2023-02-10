@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: General & Entity Specific Benefits
-description: A list of the General & Entity Specific Benefits that GitLab offers.
+title: General & Entity Specific Benefits & Information
+description: A list of the General & Entity Specific Benefits that GitLab offers as well as other entity-specific information.
 ---
 
 ## On this page
@@ -24,7 +24,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [Global Upside (India, Philippines, Kenya, Chile, Costa Rica, and Latvia)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
-- [GitLab GmbH (Germany)](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany)
+- [GitLab GmbH (Germany)](/handbook/entity/gmbh-germany)
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
