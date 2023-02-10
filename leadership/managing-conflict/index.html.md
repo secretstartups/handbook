@@ -120,7 +120,7 @@ Managers need to be well versed in managing and facilitating conflict resolution
 
 - Facilitates conflict resolution between co-workers by surfacing and clarifying areas of disagreement
 - Creates an enviornment where resolution is possible
-- Works to resolve conflict by engaging in open, productive dialogue that clarify differences, identify common ground, and work towards agreemtn or acceptance
+- Works to resolve conflict by engaging in open, productive dialogue that clarify differences, identify common ground, and work towards agreement or acceptance
 - Provides guidance to team members on conflict management as needed
 - Advises team or others on conflict management strategies especially for difficult or complex situations
 
