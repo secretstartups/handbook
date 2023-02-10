@@ -247,12 +247,12 @@ The following criteria make a deal eligible for a holdover:
 - There will be no considerations made to extend a holdover if the opportunity moves stages during the 90 day holdover period. 
 
 #### Additional Guidelines:
-- **Sell What You See Period** The interim period between the end of FY23 and when accounts have been aligned to FY24 owners in SFDC (2023-02-06 ETA) 
+- **Sell What You See Period** The interim period between the end of FY23 and when accounts have been aligned to FY24 owners in SFDC (2023-02-08) 
      - In this scenario, whoever closes the opportunity & his/her corresponding management will get paid (even if it’s going to a different owner)
 - **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
      - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
-- **For cross segment holdovers**, the governing rules are dictated by the team that is giving up/losing the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise team member would have a 30 day holdover period to close before it would be moved to the receiving Enterprise owner.
-- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM to promote teamwork and alignment. During the 90 day holdover period, the bookings & commissions credit will be allocated as follows:
+- **For cross segment holdovers**, the governing rules are dictated by the team that is receiving the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise AE/ASM would have a 90 day holdover period to close before it would be moved to the receiving Enterprise owner.
+- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM in all Segments** to promote teamwork and alignment. During the 90 day holdover period, the bookings & commissions credit will be allocated as follows:
     1. Month 1: 100% to the "Giving AE/ASM" and 0% to the "Receiving AE/ASM", 
     1. Month 2: 75% to the "Giving AE/ASM" and 25% to the "Receiving AE/ASM",
     1. Month 3: 50% to the "Giving AE/ASM" and 50% to the "Receiving AE/ASM"
