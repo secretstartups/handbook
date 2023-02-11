@@ -192,32 +192,39 @@ Once a technical discovery has been completed, SA will work within the account t
 
 ## Solution Architect Engagement Models
 
-### U.S. Strategic Account Engagement Model
+## U.S. Enterprise Account and Opportunity Engagement Model
 
-U.S. Enterprise SA's are aligned regionally with Strategic Account Leaders and aligned in their respective account activities. Each team collaborates according to their own Working Agreements.
+The Enterprise Strategic SA Engagement Model intends to foster collaboration and influence an even greater iteration amongst ourselves and customers.
 
-When workload exceeds the SA's capacity or when there is a request from other departments, please submit the request for assistance on either of the enterprise triage boards based on region: [US EAST Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-east-enterprise-triage/boards) or [US WEST Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-west-enterprise-triage/boards). The issue creation and triage processes are described in detail below.
+Given that Landed Addressable Market (LAM or LAM Dev) might not always be correct and the Opportunity Net ARR isn't always indicative of the potential, this model segments an SA team's engagement by the AE role, so that the SA engagement model is aligned with the AE team structures.  
 
-### U.S. Strategic New Logo Account Engagement Model
+Solutions architects are responsible for owning their engagement on opportunities. The "engagement model" is a general recommendation, not a rule, and will be left to the discretion of the solutions architect.
 
-Initial discovery with sales have led to assignment of 1 SA/new logo account team. The proposed model includes 2-3 SA touches/accounts. SA will play an active role in discovery due to early qualification needed in the account. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+For Major Account Executives, SAs are aligned with the account executives in their respective account activities.
 
-- Please provide active SFDC opportunity ID
-- Any additional opportunity information (i.e. company overview and background, initiatives, pain points, personas, etc.)
-- The successful outcome of the meeting
+For Strategic Account Executives, SAs are aligned with the account executives based on ongoing opportunities.
 
-Sales Plays that SAs are expected to be involved in includes:
-- Discovery (more important here)
-- Demo (following at least one SA led Discovery call)
-- Workshops
-- Guided Trials where the account team will be expected to utilize support for technical issues. Guided Trials should involve max of 3 SA touch points and include success criteria
-Please note no hands-on POVs are permitted for opportunities less than 100k. 
+For Strategic Account Executives, the below process can be used to request a SA.: 
 
-Please submit an exception request [here](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-west-enterprise-new-logo-exceptions/-/boards) if you need additional support from the SA team. Please include the below information in the new issue.
-- Title:account-name-exception
-- SFDC Opp
-- SAL & ASM name
-- Any additional running docs, chorus recordings that qualifies the opportunities. Exceptions will be granted on case by case basis.
+- The Strategic Account Executives will click on the "SA Request" button in salesforce after creation of a qualified opportunity.
+- This requires information regarding the customer's pain points, why now and any additional information needed to get SA help.
+- This information is pre filled from command plan and close plan if it exists. If this doesn't exist, then this will also be added back to the command plan and close plan
+- This request is triaged through a slack channel and will be accepted by a SA which will populate the Primary SA field.
+- The turn around time for a SA allocation is 24 hrs.
+- Enterprise SAs will be dedicated through out the lifetime of the opportunity.
+- Retaining SAs for multiple opportunities throughout the life cycle of an account or dedicated SA for SAL will be at SA/ASM manager discretion.
+- The SA/SAL alignment will be visible on a report
+
+
+Async Slack support
+
+In some cases SA support might be required in early stage or not fully qualified opportunities. Slack can be used for answering technical questions, providing additional customer outreach materials or helping an Account Executive with a narrowly-scoped customer inquiry. These requests can be served asynchronously via Slack:
+
+AMER EAST: #us-amer-east-sa-support
+AMER WEST: #us-amer-west-sa-support
+
+These Slack channels are considered to be a safe harbor for all enterprise AE <-> SA communication. When asking questions, please ensure you provide as much context as possible; including the SFDC URL, and type of subscription (SaaS or Self-Managed). Solutions Architecture will monitor and provide best effort support on these requests.
+
 
 ### EMEA Account Engagement Model
 
