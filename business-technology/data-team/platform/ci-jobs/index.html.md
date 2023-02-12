@@ -46,7 +46,7 @@ CI jobs are grouped by stages.
 
 ### ❄️ Snowflake
 
-These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml).
+These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml). All Snowflake objects created by a CI clone job will exist until dropped, either manually or by the [weekly clean up of Snowflake objects](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#what-to-do-if-a-pipeline-fails).
 
 #### clone_prep_specific_schema
 
@@ -68,15 +68,15 @@ Run this if you need to do a real clone of the `prod` and `prep` databases. This
 
 Run this if you need to run extract, freshness, or snapshot jobs. Subsequent runs of this job will be fast as it only verifies if the clone exists.
 
-### clone_raw_postgres_pipeline
+#### clone_raw_postgres_pipeline
 
 Run this if you only need a clone of the raw `tap_postgres` schema in order to test changes to postgres pipeline or a manifest file.  If the raw clone already exists, this will do nothing.
 
-### clone_raw_sheetload
+#### clone_raw_sheetload
 
 Run this if you only need a clone of the raw `sheetload` schema in order to test changes or additions to sheetload.  If the raw clone already exists, this will do nothing.
 
-### clone_raw_specific_schema
+#### clone_raw_specific_schema
 
 Run this if you need a clone of any other raw schema in order to test changes or additions. Specify which raw schema to clone with the `SCHEMA_NAME` variable. If the raw clone already exists, this will do nothing. 
 
