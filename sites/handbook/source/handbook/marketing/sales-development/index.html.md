@@ -1582,5 +1582,5 @@ The [Community Programs team](/handbook/marketing/community-relations/community-
      -   [GitLab for Startups](https://about.gitlab.com/solutions/startups/)
      -   [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/)
 - Questions
-     - Chatter the relevant Program Manager in Salesforce. For EDU and Startups `@Christina Hupy` for OSS `@Bryan Behrenshausen`.
+     - Chatter the relevant Program Manager in Salesforce. For EDU and Startups `@Alex Karsten` for OSS `@Bryan Behrenshausen`.
      - Slack channel: `#community-programs`
