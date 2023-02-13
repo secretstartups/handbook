@@ -138,7 +138,7 @@ Please do not reopen issues that have been closed in a previous milestone. If yo
 
 
 ### OKRs
-To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
+To track progress on and provide visibility to team OKRs each quarter, Marketing Operations uses the OKR feature in GitLab to organize our team-wide work. Current Marketing Operations OKRs can be found [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=MktgOps&first_page_size=100).
 
 Check out our [quarterly highlights trackers](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/?sort=created_date&state=all&label_name%5B%5D=mktgops-highlights&first_page_size=20) to learn more about the key results we've accomplished. 
 
@@ -162,15 +162,28 @@ We use labels for four purposes:
 Categories
 </summary>
 
-- `MktgOps/Systems-Request`: Used on issues that require Sales Systems support
+
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `OneTrust`, `On24`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `On24`: used to highlight one of our tech stack tools
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
+- `SMOps/Systems - Changelog`: Used to track changelog issues that will impact Sales Operations or Systems
 - `MktgOps-Support`: Internal label used by MktgOps team to track non-issue work and support
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 - `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests. 
+
+</details>
+
+<details>
+<summary markdown='span'>
+Collaboration with Sales Systems
+</summary>
+
+- `MktgOps/Systems-Request`: Used on issues that require Sales Systems support
+- `MktgOpsPrio::00: Requested`: Issues that are ready for prioritization with Sales Systems
+- `MktgOpsPrio::01: In Queue`: Added to prioritization call agenda or `fast track` slack channel
+- `MktgOpsPrio::02: Actioned`: Discussed in prioritization and added to a future milestone - refer to Sales Systems labels moving forward for issue status
 
 </details>
 
@@ -298,7 +311,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
-- Reachdesk
+- [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [Rev](/handbook/marketing/marketing-operations/rev)
 - [Smartling](/handbook/marketing/localization/smartling/) (Until Localization team is built out)
 - Survey Monkey
@@ -331,6 +344,34 @@ If you are working with a contractor or consultant that requires access to a too
 ### Requesting a new tool
 
 If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
+
+The general process for a new tool evaluation is:
+1. Discovery - understand the request
+1. Requirements gathering - document user stories, requirements, and features
+1. Evaluation - attend demos and compare features
+1. Stakeholder alignment - align stakeholders on vendor of choice
+1. Privacy and security reviews - ensure that the selected tool is compliant 
+1. Negotiations and procurement 
+1. Implementation
+1. Post-Implementation Review & Retro
+
+### Roles and Responsibilities
+
+| Role | Responsibility |
+| ------ | ------ |
+| **Marketing Operations Lead** | Serve as facilitators for tool evaluations |
+| |  Establish norms (meeting cadence, status updates, communicating results, etc.) |
+| | Document and report any risks or conflicts identified during tool evaluation |
+| | Facilitate meetings and support operational efficiencies of the evaluation |
+| **Functional Lead** | Complete the tool evaluation issue |
+| | Work with the Marketing Operations Lead to document requirements and user stories, and obtain approval(s) for tool |
+| | Review and provide approval to ensure everything is working as expected |
+| **Technical Lead** | Work with the Business Requestor and  Marketing Operations Lead to ensure that technical requirements are documented and feasible  |
+| | Ensure Peer Review is completed prior to obtaining Business Approval |
+| | Document and report any technical risks or conflicts identified during tool evaluation |
+| **Leadership Sponsor** | Responsible for staying plugged into the project, supporting the leads, and supporting escalations (if required) |
+| **Peer Reviewer (optional)** | Review and ensure requested change has been documented and there are no undocumented downstream impacts |
+| **Post-Implementation Reviewer (optional)** | Review of the change in production after the change is made to ensure everything is working as expected |
 
 ### Tool usage and tool access
 
@@ -368,22 +409,24 @@ The MktgOps team frequently works with the [Sales Systems team](https://about.gi
 
 Video: [Marketing Salesforce.com Sandbox Training](https://www.youtube.com/watch?v=tTaepVgxoe8)
 
-If a field needs to be created in Marketo AND SFDC, you must create in SFDC first and add it to the Marketo User Permission set. **Use [documentation for Marketo](https://developers.marketo.com/rest-api/lead-database/fields/field-types/) for field types. For updating a permission set only, see step 1.B. 
+If a field needs to be created in Marketo AND SFDC, it must be created in SFDC first and then added to the Marketo User Permission set within SFDC. From there, the field will sync down to Marketo. If you miss this order of operations and the field is created in Marketo first, you will need to still follow the directions above and then open a support to re-map the fields. **Use [documentation for Marketo](https://developers.marketo.com/rest-api/lead-database/fields/field-types/) for field types.
 
-| **Steps** | **Owner** | **SLAs** |
-|----------------------------------------------- | ------------- | ------------- | 	
-| 1.A Create the new field builds within the marketing sandbox and create the changeset. Document SLA for testing/approving in sandbox.<br><br>1.B **OR to update permission set only**, identity this within the [systems issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) and add note to add to Marketo Permission set. This is a separate part of the process that will bypass prompting to change set steps below and Systems will have a 72 hour SLA to complete. Once done, confirm field in Marketo. Suggest a weight 1 in the issue comment and tag Christine Lee, Jack Brennan, and Sheela Viswanathan. Christine to flag the issue in the prior Slack channel.| MktgOps | - 72-hour SLA to deploy permission set updates<br><br>- 1-week SLA to deploy new/updated fields |
-| 2. Create a [systems issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) explaining the context of the field builds/changes and to promote changeset. Add notes above about pagelayout, etc. Add note to add to Marketo Permission set (Systems does not promote  permission sets in their change sets and will take place after Salesforce field is created).<br><br>Suggest a weight 1 in the issue comment and tag Christine Lee, Jack Brennan, and Sheela Viswanathan. Christine to flag the issue in the prior Slack channel. | MktgOps |    |
-| 3. Promote the change set in the marketing sandbox to staging | Sales Systems |  |
-| 4. Push the change set to staging sandbox first & then push the same to Production Sandbox | Sales Systems |		|	
-| 5. Systems team member will deploy the change set in production assuming no errors/challenges within sandbox. | Sales Systems |		|	
-| 6. Update the issue & close out | Sales Systems |	|
-| 7.  Once done, confirm the field in Marketo/Salesforce| MktgOps |	|
-
-**SLAs when working with Sales Systems:**
-
-- 72-hours to deploy permission set updates once Sales System issue is created
-- 1-week to deploy new/updated field once Sales System issue is created (assuming cut and dry request)
+If you need assistance with Sales Systems follow the next steps:
+1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
+2. Determine the type of request you have:
+    - Fast Track Requests: 
+       1. Permission Set only updates (72 hour SLA w/ Systems)
+       2. New Field Creation (1 week SLA w/ Systems)
+            - if able, create a changeset in the Marketing Sandbox and link to it in the issue for faster deployment.
+    - All other requests that will need separate prioritization based on size and scope
+3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
+    - If a *Fast Track* Request, slack #mktgops and tag Amy Waller to flag to the System Prioritization Slack Channel
+4. Prioritization labels will be updated on a regular cadence. If they are labeled `MktgOpsPrio::01: In Queue`, they have been added to the agenda for the Sales Systems Prioritization call that occurs each Tuesday.
+5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call. 
+    * Once the label has been updated to `MktgOpsPrio::02: Actioned`, follow along with the Sales Systems labels for next steps.
+6. Systems will first push any updates to the Staging environment first, and will require Business Owner Acceptance before they will deploy to production. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.
+7. Once in production, MktgOps should confirm the field/update in SFDC and corresponding/impacted systems.
+8. Issue is closed and completed.
 
 **Other helpful links:**
 
@@ -462,7 +505,7 @@ Status in the table below means:
 | Virtual Sponsorship | paid demand gen |  | Active |
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
-| Channel Qualified Lead | referral| GitLab partner sourced, previously `partner`| Active|
+| Partner Qualified Lead | referral| GitLab partner sourced, previously `partner` or `Channel Qualified Lead`| Active|
 | Word of Mouth | referral |  | Active |
 | Existing Client | referral |  | Active |
 | External Referral | referral |  | Active |

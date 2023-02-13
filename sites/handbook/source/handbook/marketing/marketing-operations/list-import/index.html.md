@@ -11,7 +11,7 @@ description: "The MktgOps team is responsible for importing records into Marketo
 {:toc .hidden-md .hidden-lg}
 
 ### FYI - Future State
-Mops is in the process of moving list imports to a [self-service and automated model](/handbook/marketing/marketing-operations/automated-list-import). We are still manually importing, but the future state will remove Mops uploading lists.
+MktgOps is in the process of moving list imports to a [self-service and automated model](/handbook/marketing/marketing-operations/automated-list-import). We are still manually importing, but the future state will remove Mops uploading lists. For `event` related imports, please default to the `self-service` procedure as noted in the handbook and [event-clean-upload-list](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/event-clean-upload-list.md) issue template but ask for assistance from MktgOps, if needed. For `general` list imports, please continue using the issue template found in the Marketing Operations project titled [general-list-import-request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/general-list-import-request.md).
 
 Currently, the MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.
 

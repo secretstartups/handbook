@@ -415,7 +415,7 @@ If this is to set up a program that involves a channel partner, you must also fo
    - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
 
 ##### Other Tactic Marketo Templates
-- Conference - `Virtual`: [YYYYMMDD_Conference_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
+- Conference - `Virtual`: [YYYYMMDD_YYYYMMDD_Vendor_VirtualConfName1 (Virtual Conference Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
 - Conference - `In person`: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-in-person-conferences)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Direct Mail: [YYYYMMDD_DirectMail_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
@@ -460,7 +460,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4a: Activate Marketo smart campaign(s)
-* If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
+* If this is a `Vendor Arranged Meeting` skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `01a Registration Flow` smart campaign
@@ -468,6 +468,10 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Click to the `Schedule` tab and click `Activate`     
      * (NO ACTION) If a list is used to import registrants/attendants, the `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
      * For `Speaking Session` also select the `02-Interesting Moments` smart campaign, click to the `Schedule` tab and click `Activate` 
+* If this is an `Executive Roundtable`
+     * Click on the `Campaigns` folder
+     * Click on `Interesting Moments`, click to the `Schedule` tab and click `Activate`    
+     * If you are creating a Marketo landing page for this event, click on `01 Registration Flow`, click to the `Schedule` tab and click `Activate`. If you are doing a list upload, this step is not necessary.
 * If this is `Workshop` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `00 Interesting Moment` smart campaign, navigate to the Schedule tab and select `Activate`
@@ -476,26 +480,24 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Click to the `Schedule` tab and click `Activate` 
 * If this is an `Owned Event` (not Hopin) follow the below activation instructions:
      * Click the `Campaigns` folder
-     * Select the `01b - Registration` smart campaign
+     * If you have a Marketo registration page for this event, select the `01b - Registration` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`      
      * Select the `02a - Interesting Moments` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
-     * LIST UPLOAD ONLY: Only complete this step if you are uploading a list. Select the `02b - Manual Upload Processing` smart campaign - This smart campaign looks for an addition to the lead list to update the status of the lead based on what list they are in. It's called manual upload because there needs to be a list upload to get these people updated in Marketo. If your campaign will need a list upload, you can turn this on.
-     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-     * Click to the `Schedule` tab and click `Activate`           
+     * LIST UPLOAD ONLY: If you do not have a registration page and responses will be uploaded via a list load, MOps will activate the `02b - Manual Upload Processing` campaign if necessary.
 * If this is an `Owned Event` (Hopin), follow the `Update the Salesforce campaign` instructions in Step 5, then follow the activation instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector)).
 * For all other campaign types, follow the below activation instructions:
      * Click the "Smart Campaigns" folder
      * Select the `Interesting Moments` smart campaign. 
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
-     * Select the `01 Processing` smart campaign.
+     * Select the `01 Processing` smart campaign. (Does not apply to Virtual Conference or External Webcast)
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
-      
 
+      
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 - For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
 
@@ -595,9 +597,9 @@ Once you click `Registered`, the status will change and the `01c Waitlist to Reg
 
 ### Step 4: Activate Marketo smart campaign
 - `00 Send Sales-Driven Invite` (optional) can be turned on and scheduled to send on a reoccuring basis if sales and XDRs are going to be inviting people to the conference. This is not required on all campaigns, and Verticurl will activate after building the Sales-Driven email. After scheduling, Sales can add someone to the campaign in SFDC and that person will be automatically sent an email invite. There is a separate email for sales invites listed in the `email` folder
-- `01 Processing` smart campaign triggers when people are uploaded to lists after the conference. You can keep this off, but must be turned on during list upload.
+- `01 Manual upload processing` this will be activated by MOps if a manual upload is required. If you upload using the self-service process, this is not required.
 - `02 Add as Marketing Invited` should only be used if XDRs are planning to follow up and drive attendance to the event. This should be scheduled AFTER the first email invite is scheduled to send. It will update everyone who had the email invite sent to them as `Marketing Invited`. They will be updated in the campaign and visible in SFDC. **Do not use this unless there is planned event drivers**
-- `03 Interesting Moments` should be turned on before any lists are uploaded.
+- `03 Interesting Moments` Activate this campaign. This should be turned on before any lists are uploaded.
 
 ### Step 4a. Meeting Request Processing
 These steps are not yet configured. If you are planning to do this for your next event, please create an issue with the Marketing Operations team.
@@ -644,17 +646,20 @@ These steps are not yet configured. If you are planning to do this for your next
 ### Step 3: Update Marketo tokens
 
 - Change the `Content Title` to be the title as it appears in the Content Syndication program
+     - If you have multiple assets, you can add additional tokens by dragging the text token into the main window and naming it (for example Content Title2)  
 - Change the `Content Type` to be the type of content
     - The only available options are `Whitepaper`, `eBook`, `Report`, `Video`, or `General`
     - If you add a Content Type value other than the above, the record will hit an error when syncing to Salesforce because these are the only currently available picklist items for `Initial Source`
+  
 
 ### Step 4: Activate Marketo smart campaign
 
-- In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List` or `Program Status is Changed > Status is Downloaded`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
-    - The correct program should automatically apply when cloned, so _you don't need to do anything here._
-- In the `01 Downloaded` smart campaign, the "Flow" will trigger a program status change `Content Syndication > Downloaded`, that will trigger a scoring update. An interesting moment to be applied, the `Person Source` (note: this maps to `Initial Source` in Salesforce) will update IF a `Person Source` does not already exist (i.e. it is blank), the `Acquisition Program` will set if blank, the Marketo `Initial Source` will populate if blank, and the `Person Status` will update to `Inquiry` if `Blank` or `Raw`.
+
+- `02 Interesting Moments` If you have multiple assets, you can create different interesting moments to indicate which asset was downloaded. To do this, click on Flow. In step 1 (Interesting Moment), click Add Choice. Choice 1 will appear. Select If `Last Event Notes` contains [name of asset]. Then, Type: Milestone, Description: Enter the Interesting Moment that you would like to appear. You can do this for as many assets as you have. Activate this campaign. This should be turned on before any lists are uploaded. 
 - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
-    - When the leads are loaded to the campaign by Marketing Ops, the leads will immediately have an interesting moment, +15 score, and initial source, person source and person status update as needed.
+    - IMPORTANT: When you do your list upload, you must use the exact same wording in the `Last Event Notes` field so the automation will trigger. For example, you can say `Downloaded Guide to Software Supply Chain Security" in the Last Events Notes field. In Marketo, you can use `software supply chain` in the choice and the correct Description will trigger. Do not use the same string of words in your choices. You can see an example of the Interesting Moments set-up in the flow of [program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21549C3ZN19). Disregard the rest of the processing as our process has changed.
+- `01 Manual upload processing` - this will be activated by MOps if it is required. It will only be used on a manual upload and is not necessary if you use the self-service upload process.
+    - When the leads are loaded to the campaign, the leads will immediately have an interesting moment, +15 score, and initial source, person source and person status update as needed.
 
 ### Step 4a: Set-up Asset Expiration
 - `Content syndication` or Campaigns where the end of the campaign is difficult to pinpoint: there are 2 different options to consider: 

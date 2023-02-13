@@ -238,7 +238,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
 |* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event,<br> Conference > Visited Booth	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Program Low |Vendor Arranged Meetings,<br> Conference > Attended	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
-|* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
+|* Content - High|Analyst Reports| +45|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
 |* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
@@ -278,7 +278,7 @@ These are boosters to scores that occur when a special action takes place above 
 
 #### Demographic Scoring
 
-For Job role/function and seniority descriptions can be found [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing).
+For Job role/function and seniority descriptions can be found [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing). As of February 2023, there is a 70 pt limit on demographic scoring that applies to both demographic and person score. 
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
@@ -307,8 +307,19 @@ The following segmentations that are approved and live.
 
 <details>
 <summary markdown='span'>
-[Buyer Personas](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL53164392B2)
+[Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)
 </summary>
+Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#buyer-personas).
+- App Dev
+- Back Office
+- Blank title
+- Compliance
+- InfoSec
+- Platform
+- PMO
+- Release
+- Tech Leader
+- Default
 </details>
 
 <details>
@@ -405,7 +416,7 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 
 <details>
 <summary markdown='span'>
-[Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)
+[Personas - Role](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)
 </summary>
 
 - Developer

@@ -26,7 +26,12 @@ Users will be able to access Outreach through OKTA within 24 hours of gaining ac
 ##### Admin users
 When provisioning new users or altering current users' credentials for role changes, there are a few things to keep in mind:
 - A user's SFDC profile  cannot be loaded into Outreach for up to 24 hours after creation in Salesforce. However, the profile will automatically create in Outreach and will just need to be unlocked. The new user will also need to be added to the [Google Okta Group](https://groups.google.com/a/gitlab.com/g/okta-outreach-users) for access
-- When adding a new user into Outreach, immediately place them in their appropriate Teams via the admin menu. When a user changes roles, remember to move them to the appropriate Team
+- When adding a new user into Outreach, immediately place them in their appropriate Teams via the admin menu. When a user changes roles, remember to move them to the appropriate  team
+- After adding them to a team, make sure to select the correct governance role based on their role:
+  - PubSec team members should be added to the role: PubSec
+  - Pubsec Managers should be added to the role : PubSec Managers
+  - All other managers- incl XDR/Sales/CSMs managers should be added to : Sales Org Management
+  - Anyone not in a management or pub sec should be added to : Sales Org- XDR, AE, SALs, CSM
 - When a current user changes roles, sales-ops will create a new SFDC profile for their new role. These means _every_ role change will require remapping between Outreach profiles and SFDC profiles. Remap a user by:
     - Proceed to `Plugins` under Outreach settings
     - Click into the `Salesforce` plugin, then select `User`, followed by `Mappings`

@@ -68,6 +68,7 @@ Please note, you will not be able to access these trainings until you have an ON
 - Customize your webcast list view by using the 3 vertical lines as seen in the screenshot. Use this to see additional webcast information
 -  Reminder emails, follow up emails and registration emails are all being handled by Marketo at this time. We may consider a different workflow as we become more accustomed to the platform
 - Our On24 contract includes up to 1,000 live attendees per webinar. If we were to exceed that number, attendees will still be able to join the live event and our account would be billed overages. The fee structure for attendee overages past 1,000 and up to 2,500 is $500 per 250 additional attendees.
+- Live tech support (provided by On24) is available on a per-webcast basis. Live support costs $850 per 90 minutes of support and includes 30 minutes of presenter prep and video checks before the start of the webinar. As a best practice, we recommend requesting support for webcasts with more than 500 attendees and multiple presenters. Support can be requested by clicking the `Order Services` button in the top right corner of the webcast overview in the On24 platform.
 
 
 ## Use of tags
@@ -231,16 +232,16 @@ After completing the creation of an On24 web event, the next step is to connect 
 1. Next step will be to connect the Marketo program to the On24 webcast. In the Smart Campaigns folder of the newly cloned program, add the On24 `Event ID` to the following smart campaigns on the `ON24 Attendee is Updated` trigger filter:
     1. 04 On24 Processing - Attended
     1. 04 On24 Processing - Follow Up Requested
-    1. 04 On24 Processing - On Demand
+    1. 04 On24 Processing - On Demand - On24
     1. 04 On24 Processing - No Show
         - This smart list filter uses `Has On24 Attendee` instead of `On24 Attendee is Updated` like the others
 1. Next activate the following smart trigger campaigns:
-    1. 01 Registration Flow (choose single or multi)
+    1. 01 Registration Flow 
     1. 00 Interesting Moments
     1. 01a Registration flow (single timeslot) or 01b Registration Flow (Multi-timeslot)
     1. 04 On24 Processing - Attended
     1. 04 On24 Processing - Follow Up Requested
-    1. 04 On24 Processing - On Demand
+    1. 04 On24 Processing - On Demand - On24
         - Only activate this smart campaign if it is appropriate for the webinar, such as in the event the webinar will be left available for on-demand viewing. 
     1. 04 On24 Processing - No Show. 
         - No Show will not be activated as a trigger, but as a batch campaign scheduled to run 6 hours after the event is scheduled to start. If event will go longer than 6 hours, make appropriate adjustments.
@@ -255,6 +256,13 @@ After completing the creation of an On24 web event, the next step is to connect 
     - Update others as needed, but be sure to preview **each** asset to understanding what needs to be updated and where. 
 8. `Invitation` email campaigns are supplied within the template. 
 9. Utilize `Waitlist` email and smart campaigns as needed.
+
+##### Attended On-Demand
+After accomodations have been made to add the webcast recording in Pathfactory for `Attended On-Demand` purposes, some additional steps must be taken. 
+1. `04 On24 Processing - On Demand - On24` should already be activated and it will remain so as long as the webcast is available to registrants in On24. Only registrants who have signed up via the original webcast registration form should be able to view this in On24, at least as of February 2023.
+2. Add in additional tokens as needed to send out the `On-demand auto responder` asset via the `04 On24 Processing - On Demand - Pathfactory` smart campaign. The main token to fill in is {{my.ondemandURL}}, which is the link to the on-demand PF track.
+3. Activate `04 On24 Processing - On Demand - Pathfactory` when preparations are complete. This smart campaign will email a link to the Pathfactory track where viewers can watch the webcast.
+
 
 ##### Workshops
 
@@ -271,7 +279,7 @@ Much of the process to set up On24 and Marketo for Workshops is similar to the W
 
 ### Contact Us widget form data collection
 
-The `contact us` widget on the On24 console requires the use of email. In order to accommodate this and get `contact us` form fills to sales faster, we are utilizing the email address `On24questions@gitlab.com`. Once requests are received, Zapier is being utilized to append the email contents to the `Last Event Notes` field. The custom object trigger found on the `Follow Up Requested` smart campaign found in the On24 programs is being utilzied to change program status based on 
+The `contact us` widget on the On24 console requires the use of email. In order to accommodate this and get `contact us` form fills to sales faster, we are utilizing the email address `On24questions@gitlab.com`. Once requests are received, Zapier is being utilized to append the email contents to the `Last Event Notes` field. The custom object trigger found on the `Follow Up Requested` smart campaign is being utilzied to change program status 
 
 ### Adding Event Notes to Marketo/SFDC
 
