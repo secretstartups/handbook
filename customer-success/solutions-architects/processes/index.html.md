@@ -228,11 +228,15 @@ These Slack channels are considered to be a safe harbor for all enterprise AE <-
 
 ### EMEA Account Engagement Model
 
-EMEA Enterprise SA's are aligned regionally with Strategic Account Leaders and aligned in their respective account activities. Each team collaborates according to standard [Working Agreements](#working-agreements), but they can be adjusted by teams individually.
+EMEA Enterprise Solutions Architects support the Major Account Executives (MAE) with an alignment model and the Stratigic Account Executives (SAE) with an SA Pool.
 
-Default alignment is maintained in the [EMEA SAL-SA Alignment page](https://gitlab.com/groups/gitlab-com/customer-success/solutions-architecture/-/wikis/EMEA-SAL-SA-Alignment). Exceptions will happen, especially in the case where SAL's work with named accounts.
+SAs are regionaly aligned to MAEs and aligned in their respective account activities. Each team collaborates according to standard [Working Agreements](#working-agreements), but they can be adjusted by teams individually.
 
-When workload exceeds the SA's capacity or when there is a request from other departments, please reach out via **#emea-sa-tam** Slack channel for assistance.
+SAEs are asked to request support on Opportunity basis via [this request form](https://enterprise-sa-request.vercel.app/).
+
+Default alignment is maintained in the [EMEA AE-SA Alignment page](https://gitlab.com/groups/gitlab-com/customer-success/solutions-architecture/-/wikis/EMEA-SAL-SA-Alignment). 
+
+When workload exceeds the SA's capacity or when there is a request from other departments, please reach out via **#emea-customer-success* Slack channel for assistance.
 
 ### Commercial Engagement Model
 
