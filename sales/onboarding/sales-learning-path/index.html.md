@@ -191,7 +191,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - There are a lot of [DevOps tools](https://about.gitlab.com/competition/) out there. As a single application for the entire DevOps life cycle, GitLab can remove the pain of having to choose, integrate, learn, and maintain the multitude of tools necessary for a successful DevOps tool chain. However, GitLab does not claim to contain all the functionality of all the tools listed here. Click on a DevOps tool to compare it to GitLab. Last thing dont forget to log into [Crayon](https://app.crayon.co/intel/gitlab/battlecards/), our competitive intelligence platform to view all of our latest competitive advantages.
 *  **GitLab vs. GitHub (Material - Video - 3 Minutes)**
    - No... we are not the same company! This short YouTube video on [GitLab vs. GitHub](https://www.youtube.com/watch?v=s8DCpG1PeaU) covers some basic differences.
-   - Check out the [GitLab vs. GitHub](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
+   - Check out the [GitLab vs. GitHub](https://about.gitlab.com/competition/github/)
 *  **Cloudbees + Jenkins (Material - Video and Battlecard - 35 minutes)**
    - Watch the [YouTube Video](https://www.youtube.com/watch?v=a95DQqRTOHw&feature=youtu.be)
    - Check out the [GitLab vs. Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)

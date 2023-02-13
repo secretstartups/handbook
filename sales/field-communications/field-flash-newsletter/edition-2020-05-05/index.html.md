@@ -17,7 +17,7 @@ Happy Q2! In this month's [Field Flash](/handbook/sales/field-communications/fie
 
 ### New Resources to Take on GitHub
 On April 14, 2020, GitHub [announced](https://github.blog/2020-04-14-github-is-now-free-for-teams/?_lrsc=30bee600-df35-4e13-b625-d50725bd0880) pricing changes, including private repositories with unlimited collaborators. **Looking for more information and in-depth competitive resources?** Check out:
-1. [Updated GitHub vs. GitLab Comparison Page](https://about.gitlab.com/devops-tools/github-vs-gitlab/) - Includes a comparison infographic and a complete list of GitHub’s gaps and associated impacts.
+1. [Updated GitHub vs. GitLab Comparison Page](https://about.gitlab.com/competition/github/) - Includes a comparison infographic and a complete list of GitHub’s gaps and associated impacts.
 1. [GitHub License Competitive Update](https://docs.google.com/presentation/d/1xVwIBrsrEIKjfdev9E4T7YaSQT_LVtH_kuex7wqAA_U/edit#slide=id.g29a70c6c35_0_68) - A deep-dive into GitHub license changes as a result of their announcement.
 1. [New GitHub-GitLab Comparison Summary](https://docs.google.com/presentation/d/1WAim4zkwaurifcaJn3bZp31CIzzf8AhnGTcbIdXpug8/edit#slide=id.g6fc8bb1d32_0_190) - GitLab capabilities missing in GitHub.
 1. [GitHub CI/CD Analysis](https://docs.google.com/presentation/d/1fDzXpgmvKyLpT0QTsGFnisFUeceNPsaL66vRVJ-sdpg/edit#slide=id.g730aeab9dc_0_262) - Comparison of how GitLab and GitHub deliver certain CI/CD capabilities.

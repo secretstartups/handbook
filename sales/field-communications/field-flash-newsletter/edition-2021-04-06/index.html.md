@@ -37,12 +37,12 @@ Check out Marsja’s [custom deck here](https://docs.google.com/presentation/d/1
 ### New and Noteworthy Resources 📓
 The Competitive Intelligence team has created a Competing Against GitHub Free Analysis as a resource to help you in customer conversations. Reach out in #competition with questions or feedback. [Check it Out -->](https://docs.google.com/presentation/d/12mcakNQBhrGyu9ugIWvGEONYhtzNE5lttcIMOmo4uG8/edit#slide=id.gc276fb3eaf_0_0)
 
-The Competitive Intelligence team has created five new pages to compare how GitLab vs. GitHub address common Business (BDM) and Technical Decision Makers (TDM) problems. [See the DevOps Tools Page -->](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
-1. [GitLab vs. GitHub for BDM](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
-1. [GitLab vs. GitHub for VCC](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
-1. [GitLab vs. GitHub for CI](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
-1. [GitLab vs. GitHub for CD](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
-1. [GitLab vs. GitHub for Security](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
+The Competitive Intelligence team has created five new pages to compare how GitLab vs. GitHub address common Business (BDM) and Technical Decision Makers (TDM) problems. [See the DevOps Tools Page -->](https://about.gitlab.com/competition/github/)
+1. [GitLab vs. GitHub for BDM](https://about.gitlab.com/competition/github/)
+1. [GitLab vs. GitHub for VCC](https://about.gitlab.com/competition/github/)
+1. [GitLab vs. GitHub for CI](https://about.gitlab.com/competition/github/)
+1. [GitLab vs. GitHub for CD](https://about.gitlab.com/competition/github/)
+1. [GitLab vs. GitHub for Security](https://about.gitlab.com/competition/github/)
 
 Customer Reference has updated the approved customer logo deck for use in Sales presentations! This deck is refreshed every 6 months, and you can always find the latest on the Customer Reference or Command of the Message handbook pages. [Access it Here -->](https://docs.google.com/presentation/d/1UKVfxDm6KNpWCjoAcWp0AfX1yaLT10FK-zbbFZLAwZE/edit#slide=id.gc300321b28_0_273)
 
