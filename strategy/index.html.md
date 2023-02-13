@@ -54,7 +54,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
 Build upon our current platform to meet current and future user needs. 
 
 1. Be recognized as the leader in the DevSecOps Platform Category
-    1. [GitHub best in class comparison](/devops-tools/github-vs-gitlab/) and differentiation 
+    1. [GitHub best in class comparison](/competition/github/) and differentiation 
     1. GitHub Differentiation 
     1. DIY best in class comparison
     1. [Plan](/direction/plan/)
