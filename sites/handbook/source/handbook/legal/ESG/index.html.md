@@ -162,7 +162,6 @@ A: GitLab will conduct a formal greenhouse gas inventory in 2023. [Click here](/
 
 A: Not yet. GitLab will conduct a formal greenhouse gas inventory in 2023. This inventory will measure our current emissions and help us identify opportunities for reductions. 
 
-
 **Q: Does GitLab track employment by gender and ethnicity?**
 
 A: Yes, [view the most recent identity data](/company/culture/inclusion/identity-data/). 
@@ -178,6 +177,10 @@ A: An underrepresented group describes a subset of a population that holds a sma
 **Q: Is GitLab certified as a diverse supplier?**
 
 A: GitLab is a publicly traded company (NASDAQ: GTLB) and is not defined as a diverse supplier and is unable to be certified as such, accordingly. Nevertheless, diversity, inclusion, and belonging (DIB) is a [core value](https://about.gitlab.com/handbook/values/) at GitLab. On a daily basis, we strive to keep our operations, employment practices, and supplier selection in line with [this value](https://about.gitlab.com/company/culture/inclusion/). GitLab's [DIB team](https://about.gitlab.com/job-families/people-group/diversity-inclusion-partner/) builds an environment where all team members feel a [sense of belonging](https://about.gitlab.com/job-families/people-group/diversity-inclusion-partner/), which results in a truly inclusive and welcoming work environment. Moreover, GitLab's Procurement team selects potential suppliers with [responsible sourcing and diversity](https://about.gitlab.com/handbook/finance/procurement/) in mind.
+
+**Q: I'm a GitLab team member and I received an ESG questionnaire through an RFP. What do I do?**
+
+A: Please follow the steps outlined in the [RFP process](/handbook/security/security-assurance/field-security/Field-Security-RFP/).
 
 **Q: Does GitLab sponsor/fund nonprofit organizations?**
 
