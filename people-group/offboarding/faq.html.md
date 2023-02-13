@@ -75,9 +75,9 @@ Any final commissions earned up until your last working day will be paid (direct
 
 #### When do I submit my final reimbursable expenses?
 
-Please create your final expense report to Expensify (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner. We ask that you submit these at least one week before your departure date.
+Please create your final expense report in Navan (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner. We ask that you submit these at least one week before your departure date.
 
-#### How do I submit reimbursable expenses if I don’t have a GitLab access to Expensify?
+#### How do I submit reimbursable expenses if I don’t have a GitLab access to Navan?
 
 Please follow the process as listed on the Expense Handbook [page](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
 
