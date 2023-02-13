@@ -365,7 +365,7 @@ To accomplish this goal we are utilizing Jamf for MacOS devices to obtain only t
 
 For more information regarding Jamf, refer to our [Endpoint Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) handbook page.
 
-For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/index.html.md) handbook page.
+For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/) handbook page.
 
 ### Slack Emoji Workflow
 
