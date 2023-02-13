@@ -104,24 +104,24 @@ graph BT;
 
 | Name | Maturity | Objective | Sponsor | Status | Deliverables |
 | ----- | -----| -----| ----- | ----- | ----- |
-| [Propensity to Expand](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand) (PtE) | Optimized | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months; Identify uptier opportunities | Sales | Last update: FY23-Q3, Next update: FY23-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1054667/PtE-Performance-Results) |
-| [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn) (PtC) | Optimized | Determine which paid accounts are likely to reduce their ARR by > 10% or leave GitLab permanently in the next 6 months| Customer Success | Last update:  FY23-Q4, Next update: FY24-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/971581/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1055609/PtC-Performance-Results) |
+| [Propensity to Expand](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand) (PtE) | Optimized | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months; Identify uptier opportunities | Sales | Last update: FY23-Q4, Next update: TBD | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1054667/PtE-Performance-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn) (PtC) | Optimized | Determine which paid accounts are likely to reduce their ARR by > 10% or leave GitLab permanently in the next 6 months | Customer Success | Last update:  FY23-Q4, Next update: FY24-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/971581/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1055609/PtC-Performance-Results)|
 | [Propensity to Downtier](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-downtier) | Complete | Determine which Ultimate accounts are likely to downtier to Premium product tier| Customer Success Management | Last update:  FY23-Q4, Next update: FY24-Q1 |[Downtier Executive Read Out](https://docs.google.com/presentation/d/1kcTPP5NKnqTKnOTm2HGSSVsYP3x6TdeKGxv28U702yo/edit#slide=id.g1b861242c79_0_522), [Downtier Read Out](https://docs.google.com/presentation/d/13xcuQE6G3alvHoklWvmDm-MOIb0V7QhckgXCd5IHHuc/edit#slide=id.g123a13deda8_0_405), [Health of Ultimate Accounts Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1098020/Health-of-Ultimate-Accounts)|
+| [Propensity to Purchase](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-purchase)<sup>*</sup> (PtP) | Viable | Identify which free and trials accounts are likely to become paid accounts | Sales & Marketing | Last Update: FY24-Q1, Next update: FY24-Q2 | [SaaS Trials Model Readout](https://docs.google.com/presentation/d/1EyS9Wq6F0qlQwt5sj7x8VnSSGD1vIy3AcSpMGddZdbk/edit?usp=sharing), [SaaS Free Namespaces Readout](https://docs.google.com/presentation/d/1UNfthItOOfT3L4v5PkZh4z4hVPKdCcn8aQg_raVflxg/edit#slide=id.g12e25a29994_0_0), [SaaS Trials Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1056823/PtPT-Performance-Results) | 
 | [Namespace Segmentation](https://gitlab.com/gitlab-data/data-science-projects/namespace-segmentation) | Optimized | v1 - Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions v2 - Defined groups for paid SaaS only | Growth | Last update: FY23-Q3 | [Namespace Segmentation slide deck](https://docs.google.com/presentation/d/1HsyzflYcXedBm75A4Wkdp2TdbV5ikcjr8zEZoUzFN2o/edit#slide=id.g122f5829a10_0_143), [Namespace Segmentation Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1014510/Draft:-Namespace-Segmentation), [Namespace Segmentation v2 slide deck](https://docs.google.com/presentation/d/1Pmm0g1mUquBR6P_aguGkOiGBVqO1ZtDzIyRrbR-r9jA/edit#slide=id.g29a70c6c35_0_68), [Namespace Segmentation v2 Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1081864/Namespace-Segmentation-(Paid-only)) |
-| [Propensity to Purchase](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-purchase)<sup>*</sup> (PtP) | In Progress | Identify which free and trials accounts are likely to become paid accounts | Growth | Last Update: FY23-Q2, Next update: FY23-Q3 | [Tracking Epic](https://gitlab.com/groups/gitlab-data/-/epics/637) , [SaaS Trials Model Readout](https://docs.google.com/presentation/d/1EyS9Wq6F0qlQwt5sj7x8VnSSGD1vIy3AcSpMGddZdbk/edit?usp=sharing), [SaaS Trials Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1056823/PtPT-Performance-Results) | 
+| Prospect/Lead Scoring | Planned | Identify leads and prospects most likely to convert to closed won opportunities | Marketing & Sales Dev | FY24-Q1 | |
+| GitLab MLOps Product Development | In progress (Ongoing) | Dogfood new MLOps product features and enhancements  | Product | Next Update: FY24-Q1 | | 
 | Adoption Index | Planned | Define way to measure adoption and customer journey | TBD | Next update: FY24-Q1 | |
 | Product Usage Event | Planned | - | | TBD | |
-| Prospect/Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | FY23-Q4 / FY24-Q1 | |
 | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth | TBD | | 
 | Expansion Predicted ARR | Planned | Predict expansion ARR dollar amount | Sales | TBD | |
 | Stage Adoption MRI | Planned | - | | TBD | | 
 | Community Sentiment Analysis | Unplanned | - | Product | | | 
 | Feature $ARR Uplift Prediction | Unplanned | Attribute incremental ARR lift based on feature adoption | Product | | | 
-| GitLab MLOps Product Development | Unplanned | - | Product | | | 
 
-_<sup>*</sup>Propensity to Purchase is currently implented for: SaaS Trials. Propensity to Purchase is currently in the process of being created for: SaaS free accounts, self-managed trials, self-managed free accouts_
+_<sup>*</sup>Propensity to Purchase is currently implented for: SaaS Free namesapces and Trials. Propensity to Purchase is currently in the process of being created for: Self-managed free accounts and trials_
 
-For implimentation details and where to find model predictions/scores, please see the [Propesnity Models Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)
+For implementation details and where to find model predictions/scores, please see the [Propensity Models Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)
 
 ### Maturity
 
@@ -137,10 +137,10 @@ Maturity of data science projects is similar to the [GitLab product maturity mod
 
 | Name | Current Sources | Additional Planned Sources |
 | ----- | ------ | ----- |
-| PtE | Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); Firmographics; ZenDesk (help tickets) | Prior expansion type (product change, seat licenses), amount, and time laspe; buy personas attached to opportunities |
+| PtE | Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); Firmographics; ZenDesk (help tickets); prior expansion type (product change, seat licenses), amount, and time laspe; account health scores |  Buyer personas attached to opportunities |
 | PtC | Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); ZenDesk (help tickets); Firmographics, account health fields; security score | # of answered emails, ratio sent/answered emails |
 | Namespace Segmentation | Product usage: SaaS & Self Managed - free and paid tiers; Product stage usage: SaaS & Self Managed - free and paid tiers; Salesforce (account); Zuora (billing); Bizible (marketing) | # of consecutive days of product/stage usage |
-| PtPT | Product usage: SaaS Only - free tiers; Product stage usage and adoption: SaaS Only - Free Tiers; Registration; Namespace metadata; User-level | Self-managed product usage data; buy personas |
+| PtPT | Product usage: SaaS Only - free tiers; Product stage usage and adoption: SaaS Only - Free Tiers; Registration; Namespace metadata; User-level | Self-managed product usage data; buyer personas |
 
 ### Project Slack Channels
 
@@ -185,12 +185,11 @@ The [Data Science Team approach to model development](https://about.gitlab.com/h
 Our current platform consists of:
 - the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
-- MLFlow for model experiment tracking
-- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management
+- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, and [experiment tracking](https://about.gitlab.com/handbook/engineering/incubation/mlops/ml_experiment_tracking.html)
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
 - Sisense (soon to transition to Monte Carlo) for model monitoring and performance evaluation
 
-Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
+Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. As more MLOps features come online we will update our platform and processes accordingly. Our immediate next step is to better automate `Current State Data Flows` using a combination of python, airflow, and CI/CD.
 
 ### Current State Data Flows
 
@@ -208,7 +207,7 @@ graph
     D[Salesforce/Marketo: CRM Use Cases]
     E[Sisense/Monte Carlo: Model Monitoring and Reporting]
     G[GitLab: Source Code Management]
-    H[MLFlow: Experiment tracking]
+    H[Experiment tracking]
     A --> |ODBC| B
     B --> H
     H --> B
