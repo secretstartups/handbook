@@ -168,7 +168,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 * If applicable, work with digital marketing (paid advertising), Campaign Manager on where the budget coming for paid advertising will come from.
   + *Provide guidance on targeting which includes but is not limited to job titles to target and twitter accounts and hashtags recommended.*
 * Set up SDR outreach issue with SDR outreach template in the Product Marketing Board.
-  + *Tag [global SDR managers and SDR enablement manager](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)*
+  + *Tag [global SDR managers and SDR enablement manager](https://about.gitlab.com/handbook/marketing/sales-development/)*
   + *Post the issue in the #sdr_global slack channel for visibility* 
 * Work with Campaign Manager to set up organic social promotion with the [social marketing team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
 
