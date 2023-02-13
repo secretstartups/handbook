@@ -14,7 +14,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 
 ### Project management
 #### Issue Tracking
-- [Atlassian Jira](/devops-tools/jira-vs-gitlab/)
+- [Atlassian Jira](/competition/atlassian/)
 - [Asana](https://asana.com/)
 - [Microsoft TFS/VSTS/Asure DevOps](/devops-tools/azure-devops-vs-gitlab/)
 - [Pivotal Tracker](https://www.pivotaltracker.com/)
@@ -33,7 +33,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - FogBugz
 
 #### Issue Boards
-- [Atlassian Jira](/devops-tools/jira-vs-gitlab/)
+- [Atlassian Jira](/competition/atlassian/)
 - [Asana](https://asana.com/)
 - [Trello](https://trello.com/)
 - [CollabNet VersionOne](https://www.collab.net/)
@@ -62,8 +62,8 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - [CA Service Desk Manager](https://www.ca.com/us/products/ca-service-desk-manager.html)
 
 ### Source code management
-- [GitHub](/devops-tools/github-vs-gitlab/)
-- [Atlassian Bitbucket](/devops-tools/bitbucket-vs-gitlab/)
+- [GitHub](/competition/github/)
+- [Atlassian Bitbucket](/competition/bitbucket/)
 - [Microsoft TFS/VSTS/Azure DevOps](/devops-tools/azure-devops-vs-gitlab/)
 - [CA Technologies / Rally](https://www.ca.com/us.html)
 - IBM Rational Clear case
@@ -103,7 +103,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - [Jenkins](/devops-tools/jenkins-vs-gitlab/)
 - [Travis CI](https://travis-ci.org/)
 - Atlassian Bamboo
-- [Atlassian Bitbucket](/devops-tools/bitbucket-vs-gitlab/)
+- [Atlassian Bitbucket](/competition/bitbucket/)
 - [CircleCI](https://circleci.com/)
 - [Microsoft TFS/VSTS/Azure DevOps](/devops-tools/azure-devops-vs-gitlab/)
 - CodeFresh

@@ -184,7 +184,7 @@ Please see the [Jenkins-specific questions](https://docs.google.com/document/d/1
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.
 
 ## Competitive Comparison
-Amongst the many competitors in the DevOps space, [Jenkins](/devops-tools/jenkins-vs-gitlab/) and [CircleCI](/devops-tools/circle-ci-vs-gitlab/) are the closest competitors offering continuous integration capabilities.
+Amongst the many competitors in the DevOps space, [Jenkins](/devops-tools/jenkins-vs-gitlab/) and [CircleCI](/competition/circleci/) are the closest competitors offering continuous integration capabilities.
 
 ## Proof Points - Customer Recognitions
 
