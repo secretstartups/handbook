@@ -443,7 +443,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
 * [MURAL of campaign user journey](https://app.mural.co/t/gitlab5736/m/gitlab5736/1584992460277/f66e45f8067dded0ae81d711aeb897c1547e2a80)
-* [Live landing page](/devops-tools/github-vs-gitlab/)
+* [Live landing page](/competition/github/)
 * [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
 
