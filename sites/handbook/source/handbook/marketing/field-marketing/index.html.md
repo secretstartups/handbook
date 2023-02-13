@@ -7,17 +7,17 @@ description: "The role of Field Marketing at GitLab is to work closely with sale
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
- 
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Field Marketing Mission 
+# Field Marketing Mission
 
-The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go-to-market teams at **a regional level** through in-person and virtual interactions (quality vs. quantity) as well as serving as the voice of the regional go-to-market teams to the wider marketing team, and being the voice of marketing into the go-to-market teams we support, in order to create, accelerate, and expand the sales pipeline with our direct sellers and partner ecosystem. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers. 
+The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go-to-market teams at **a regional level** through in-person and virtual interactions (quality vs. quantity) as well as serving as the voice of the regional go-to-market teams to the wider marketing team, and being the voice of marketing into the go-to-market teams we support, in order to create, accelerate, and expand the sales pipeline with our direct sellers and partner ecosystem. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers.
 
 # Field Marketing Vision
 
-We want to be the most innovative and pipeline centric team within the marketing organization that uses data to make informed decisions while also continuing to invest in ourselves to promote career growth and opportunities. 
+We want to be the most innovative and pipeline centric team within the marketing organization that uses data to make informed decisions while also continuing to invest in ourselves to promote career growth and opportunities.
 
 # Field Marketing Goals
 
@@ -25,26 +25,26 @@ We want to be the most innovative and pipeline centric team within the marketing
     - Engaging with existing customers
     - New growth opportunities
 - Demand
-    - Unique inquiries 
-    - Influence of [sales accepted opportunties](/handbook/marketing/revenue-marketing/sdr/#common-sales-development-org-terms-and-definitions) 
-    - Influence of sales pipeline 
-    - Both direct and channel driven 
+    - Unique inquiries
+    - Influence of [sales accepted opportunties](/handbook/marketing/sales-development/#common-sales-development-org-terms-and-definitions)
+    - Influence of sales pipeline
+    - Both direct and channel driven
 - Market Intelligence
-    - Test out new messaging or positioning 
+    - Test out new messaging or positioning
 
-# Countries of Focus 
-Our countries of focus can be [found here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in our internal handbook. 
+# Countries of Focus
+Our countries of focus can be [found here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in our internal handbook.
 
-# Cities of Focus 
+# Cities of Focus
 
-## Tier 1 Cities 
+## Tier 1 Cities
 A Field Marketer should have no more than 5 cities - cities with the largest LAM - that you want to build a ground swell in and be physically present at least 2/quarter.
 
-## Tier 2 Cities  
+## Tier 2 Cities
 
 A Field Marketer should have no more than 3 Tier 2 cities - cities you want to be physically present in at least 1/quarter.
 
-FMMs should work with Large & MM sales teams to determine these cities. 
+FMMs should work with Large & MM sales teams to determine these cities.
 
 # Types of Programs Field Marketing Runs
 
@@ -102,16 +102,16 @@ The Field marketing team can use the GitLab Brand LinkedIn channel to create eve
 ##### [Field Marketing Linkedin admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
 - The Field Marekting LinkedIn events admin can create, edit and maintain the events listings on the GitLab LinkedIn page. Please message the field marketing team in the #fieldmarketing Slack channel to request the admin to create an event.
 
-###### Field Marketing admins who will respond to your request: 
-* Kira Aubrey - AMER 
-* Helena Dixon - EMEA 
-- Information to be included on event pages: Title of event, date, time, region,registration link and About or description. 
+###### Field Marketing admins who will respond to your request:
+* Kira Aubrey - AMER
+* Helena Dixon - EMEA
+- Information to be included on event pages: Title of event, date, time, region,registration link and About or description.
 - Field marketing are not authorized to write posts, edit the page or its contents, or to respond to users via the corporate LinkedIn account.
 - LinkedIn events should only be used for events and not for campaigns.
 
 Find out more on the social media page[here](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#field-marketing-team-access-to-linkedin-events-feature)
 
-### Best Practices 
+### Best Practices
 - The LinkedIn Event CTA button ATTEND is not synced to the registration link on our marketo registration page. The admin should include additional instructions in the About section of the LinkedIn event, for example: Please use the registration link to enter your details to register for this event.
 - Add the LinkedIn events links into the SDR Request issue. A suggestion would be for the SDR team to check the LinkedIn events attendee list one week before each event to see who has clicked "ATTEND" on LinkedIn and compare the list with our registration list in SFDC. Then reach out to those who didn't register with a personalised LinkedIn inmail to invite them to register.
 
@@ -120,8 +120,8 @@ Find out more on the social media page[here](/handbook/marketing/integrated-mark
 - To run plays where we are targeting a specific geography or where we would like to propose content syndication, we work through our Digital Marketing Programs team. Please create an issue utilizing DMPs [Paid Digital Request Issue Template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) if you'd like them to do work for you.
 - To run plays where we are targeting a specific list of accounts, we utilize [Demandbase](/handbook/marketing/account-based-marketing/demandbase/).
 
-### Tracking success of digital tactics 
-Please ensure you are using our UTM tracker (look up `Google Analytics Campaign Tagging Tool - UTM generator for tracking` in the Gdrive to find doc). In order to identify which campaigns are from the Field Marketing team, you must add the letters fmm at the end of your campaign name in column E. All lowercase with no spaces or special characters. This allows us to pull ROI reporting, so please don't leave these letters out or else you will lose reporting from a dashboard standpoint. 
+### Tracking success of digital tactics
+Please ensure you are using our UTM tracker (look up `Google Analytics Campaign Tagging Tool - UTM generator for tracking` in the Gdrive to find doc). In order to identify which campaigns are from the Field Marketing team, you must add the letters fmm at the end of your campaign name in column E. All lowercase with no spaces or special characters. This allows us to pull ROI reporting, so please don't leave these letters out or else you will lose reporting from a dashboard standpoint.
 
 ## Individual Tactics
 
@@ -141,7 +141,7 @@ Remember, an account-centric micro-campaign consists of at least 2 different acc
 
 # Confidentiality in GitLab Issues and Epics
 
-When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accesible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1pass](/handbook/security/#security-process-and-procedures-for-team-members). 
+When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accesible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1pass](/handbook/security/#security-process-and-procedures-for-team-members).
 
 For more information regarding confidentiality levels and compliancy, please visit [this handbook page](/handbook/communication/confidentiality-levels/).
 
@@ -242,21 +242,21 @@ For a complete picture of GitLab Marketing Metrics, please refer to our [Marketi
 
 This section will go into specifics on the workflow for a Field Marketer to check their results.
 
-At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns.
+At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns.
 
-## The Field Marketing Dashboard 
-Our FMM Dashboard lives in the SAFE Intermediate space within the platform and provides an overview on the performance of the Field Marketing programs. 
+## The Field Marketing Dashboard
+Our FMM Dashboard lives in the SAFE Intermediate space within the platform and provides an overview on the performance of the Field Marketing programs.
 
-- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)) 
+- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP))
 
 ## Adding SFDC Campaigns to Leads for Attribution
 
 For instructions on how to add a SFDC campaign to a lead for attribution, please watch this two minute [instructional video](https://youtu.be/IYzkR3h4Ajo) (you must be signed into GitLab Unfiltered to view).
 
 ## Useful Links
-This section provides links to relevant reports that may live outside of the Field Marketing Dashboard. 
+This section provides links to relevant reports that may live outside of the Field Marketing Dashboard.
 - [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution)
-- [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - SSOT lives in Sisense. The SFDC version exists to allow further drill ins. 
+- [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - SSOT lives in Sisense. The SFDC version exists to allow further drill ins.
 - [Digital spend Dashboard via PMG Agency country detail](https://datastudio.google.com/u/0/reporting/1NL1FxHvoXRul4vlQJCVfWWfwsu8Jz1XZ/page/kmnGB)
 - [Field Marketing Specific digital spend Dashboard via PMG agency](https://datastudio.google.com/reporting/17t7s-cbcFUghpBHD1xlU8hBe8P7IHZGK/page/mPgDB)
 - [SAOs accepted by last touch = Field Marketing Campaigns](https://gitlab.my.salesforce.com/00O4M000004FYB0)
@@ -269,31 +269,31 @@ This section provides links to relevant reports that may live outside of the Fie
    - [EMEA FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aQLV)
 - [FY23 SFDC reporting fields](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100#important-fields-for-fy23-reporting)
 
-### Field Marketing ROI to GitLab Channel 
+### Field Marketing ROI to GitLab Channel
 GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
 
-* [Sisense Marketing influenced opportiunity report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced) 
-* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/WIP:-Partner-Lead-Status) 
+* [Sisense Marketing influenced opportiunity report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced)
+* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/WIP:-Partner-Lead-Status)
 
 #### Back up SFDC leads passed to partner report
-* [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7) 
-* [Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC) 
+* [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7)
+* [Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC)
 
-Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture. 
+Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture.
 
-#### Back up SFDC detailed reports 
-We have 3 reports we use that shows different types of contribution to the GitLab channel program. 
+#### Back up SFDC detailed reports
+We have 3 reports we use that shows different types of contribution to the GitLab channel program.
 
 * [FMM_DP_Channel_AllCampaigns](https://gitlab.my.salesforce.com/00O4M000004opQ0) - Field Marketing Deal Path = Channel. Field Marketing impact on all deal path = Channel. Includes MORE than just channel generated opps & regardless if a specific channel partner was directly involved with campaign.
 * [FMM_SQS_Channel_Generated](https://gitlab.my.salesforce.com/00O4M000004opqh) - Field Marketing Sales Qualified Source = Channel. FMM impact on Deal path = channel AND channel generated opps and regardless if a specific channel partner was directly involved with campaign.
-* [FMM CAMPAIGNS specific impact DP channel](https://gitlab.my.salesforce.com/00O4M000004opqr) - Field Marketing Campaigns impact to Deal Path = Channel.  Opp Deal path = Channel - Impact from FMM campaigns runs specifically with channel. 
+* [FMM CAMPAIGNS specific impact DP channel](https://gitlab.my.salesforce.com/00O4M000004opqr) - Field Marketing Campaigns impact to Deal Path = Channel.  Opp Deal path = Channel - Impact from FMM campaigns runs specifically with channel.
 
-The above reports are Bizible attribution reports at the person level, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity. 
+The above reports are Bizible attribution reports at the person level, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity.
 
-[Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.  
+[Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.
 
-* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events), we would like to understand the status of records we've passed to partners, this report give us that insight. 
- 
+* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events), we would like to understand the status of records we've passed to partners, this report give us that insight.
+
 ### Contribution to sales pipeline
 
 This can be calculated by heading to the [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution). NOTE: Ensure you’ve got your filters properly dialed in.
@@ -353,7 +353,7 @@ Via our Marketing Operations team, Field Marketers can request Author Role acces
 1. Optimisation: Viewing each asset/track's performance can help Field Marketing refine and optimise the content with monthly or quarterly refreshes.
 
 ### Getting Started
-Visit the [user role](/handbook/marketing/marketing-operations/pathfactory/#user-roles) section of the PathFactory page to learn more about the author role. 
+Visit the [user role](/handbook/marketing/marketing-operations/pathfactory/#user-roles) section of the PathFactory page to learn more about the author role.
 
 ### Required Training
 Please review the [Pathfactory Training](/handbook/marketing/marketing-operations/pathfactory/#training) videos (specifically the author role training) before submitting an AR to request author role access.
@@ -388,14 +388,14 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
    - [GitLab Hosted Self-Service Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
    - [External Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
    - [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- FMC adds the event to the [GitLab Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents), if applicable (specified by the FMM in the FMC Checklist section of the issue) 
+- FMC adds the event to the [GitLab Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents), if applicable (specified by the FMM in the FMC Checklist section of the issue)
 - When all the above tasks have been completed, the FMC will ping the FMM in the main issue to confirm completion of the above tasks and will move the issue label `mktg-status::plan` to `mktg-status::wip`.
 - FMC and FMM to follow the [Copy Deadline Process](/handbook/marketing/field-marketing/#field-marketing-event-copy-deadline-process) for any assets the FMM has requested in the main issue's FMC Checklist.
 - FMC and FMM to follow the [Lead List Deadline Process](/handbook/marketing/field-marketing/#lead-list-deadline-process) for lead list upload process and SLAs.
 - If applicable, FMC is to shut down the Marketo LP due to capacity, or after event is complete using [these instructions](/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms).
 
-### Plan to WIP video walk through 
-[Plan to WIP Video](https://youtu.be/7l59sm_5aD4) - You must be logged into GitLab Unfiltered to view. 
+### Plan to WIP video walk through
+[Plan to WIP Video](https://youtu.be/7l59sm_5aD4) - You must be logged into GitLab Unfiltered to view.
 
 # Rescheduling or Cancelling Events
 
@@ -421,11 +421,11 @@ Please see process [here](/handbook/marketing/virtual-events/#calendar-reschedul
 
 ## Marketo Asset Expiration
 
-As of Nov 2022, when applicable, please follow the instructions found on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) handbook page to set expirations on program assets during program set up. 
+As of Nov 2022, when applicable, please follow the instructions found on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) handbook page to set expirations on program assets during program set up.
 
 ## Options for Closing LPs and LP Forms
 
-There are two options for closing Marketo landing pages:  
+There are two options for closing Marketo landing pages:
 
 1. Closing the LP registration form (which removes the registration form from the LP so registrations can no longer be accepted) and updating the LP to explain why the registration form is no longer available (either the event has reached capacity or the event has occurred).
 2. Closing the entire LP. If someone clicks on the LP link, it will take them to our about.gitlab.com page instead of a registration LP. This option is now done automatically during the [Marketo Asset Expiration process](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration). Asset expiration occurs 4 weeks after the event date, so it is important to close the registration form and update the LP verbiage once an event reaches capacity or has occurred so the LP does not remain open and active during this time.
@@ -442,12 +442,12 @@ To close the LP registration form, the FMC will re-open the Marketo LP issue and
 - There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
-*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form after an event has occurred.*  
+*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form after an event has occurred.*
 
-Thank you for your interest in this [insert event type]. This event has concluded and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.  
+Thank you for your interest in this [insert event type]. This event has concluded and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
 ## Standard verbiage for closing a Marketo LP if an event is at capacity
-*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form if an event is at capacity.*  
+*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form if an event is at capacity.*
 
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
@@ -460,11 +460,11 @@ See instructions [here](/handbook/marketing/field-marketing/field-marketing-owne
 
 ### Closing a Webcast Marketo LP Form
 
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page).  
+See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page).
 
 ### Closing a Workshop Marketo LP Form
 
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).  
+See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).
 
 ## Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
 
@@ -481,11 +481,11 @@ Verticurl will follow the instructions in [this video](https://www.youtube.com/e
 - [AMER Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7547B2) - Verticurl
 - [EMEA Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7582A1LA1) - Verticurl
 - [APAC Workshop/Demo Page - General](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
-- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team  
+- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
 
 For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
 
-## Closing a Marketo LP 
+## Closing a Marketo LP
 These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page. If you have set up [asset expiration](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) previously, this step will occur automatically.
 
 - Sign into Marketo
@@ -493,7 +493,7 @@ These instructions are standard across all campaign types and will close down th
 - Click into `Assets`
 - Click `Registration Landing Page`
 - At the top of the page click `Landing Page Actions`
-- In the drop down list click `Unapprove` 
+- In the drop down list click `Unapprove`
 - Click the orange `Unapprove` button in the pop up box
 - Go to your landing page URL and make sure the landing page is no longer active (the site that should pop up is `about.gitlab.com`)
 - Go to the `01a or 01b Registration Flow and deactivate the smart campaign
@@ -522,7 +522,7 @@ You can use these steps to add anyone to a Marketo program.
 ## Registration Problems on a GitLab Landing Page
 
 If a registrant is having issues registering for an event on a GitLab landing page, please have them first try the below fixes. If these still do not work, open a [bug issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md?_gl=1%2a1652726%2a_ga%2aMTg4MDU0MzY5Ni4xNjAxMTI2MTEw%2a_ga_ENFH3X7M5Y%2aMTY2NzU3MzczMi4xNTAuMS4xNjY3NTc3MDQyLjAuMC4w) with Marketing Ops to help determine if there is a problem with the landing page.
-- Ask what browser they are utilizing and if there are any plugins potentially blocking the registration page. 
+- Ask what browser they are utilizing and if there are any plugins potentially blocking the registration page.
 - If they have not already, have them try registering utilizing Chrome.
 - Have them try registering using Incognito Mode.
 
@@ -533,7 +533,7 @@ There are times that Field Marketing will run campaigns that involve building a 
 When collecting addresses on our Marketo landing pages, make sure to always include the following verbiage on the page - `By giving us your address, you are giving us permission to mail items to your home or office. We will not use this data for any other purposes.`
 
 ## Pulling Addresses for Swag Sends
-Please note that due to PII compliancy, addresses collected in Marketo landing pages are not synced to SFDC. As a result, Marketing Ops support is required to pull the address list from Marketo (Field Marketing does not have this level of access in Marketo). 
+Please note that due to PII compliancy, addresses collected in Marketo landing pages are not synced to SFDC. As a result, Marketing Ops support is required to pull the address list from Marketo (Field Marketing does not have this level of access in Marketo).
 
 ## Removing PII from Marketo
 Once the report is downloaded (or the event/tactic has ended and all swag has been sent), Marketing Ops will then also delete the PII information directly in Marketo. To request this support, please review [this page](/handbook/marketing/marketing-operations/marketo/#list-exports) and open an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request) to specify when a list pull and PII deletion is needed. Also remember to delete PII from any order spreadsheets once swag has shipped.
@@ -579,27 +579,27 @@ For complete details on Smartling, our translation tool, please see the [Smartli
 - Make sure it is 100% aligned to achieve partner goals
 - Needs functional leader approval
 
-# Field Marketing Swag 
+# Field Marketing Swag
 
-## AMER Field Marketing Swag 
+## AMER Field Marketing Swag
 
-The AMER Field Marketing team utilizes GitLab's swag and fulfillment vendor [Boundless](https://www.boundlessnetwork.com/), and their contracted warehouse, [A51 Logistics](https://a51logistics.weebly.com/) for all of our swag and event asset requirements. Boundless is available to produce, ship and store swag and event assets. 
+The AMER Field Marketing team utilizes GitLab's swag and fulfillment vendor [Boundless](https://www.boundlessnetwork.com/), and their contracted warehouse, [A51 Logistics](https://a51logistics.weebly.com/) for all of our swag and event asset requirements. Boundless is available to produce, ship and store swag and event assets.
 
 ### Boundless Portal
 
-Field Marketers are responsible for accessing the [Boundless Portal](https://gitlabstore.mybrightsites.com) via their individual logins to order all swag and assets for their events.  
+Field Marketers are responsible for accessing the [Boundless Portal](https://gitlabstore.mybrightsites.com) via their individual logins to order all swag and assets for their events.
 
 #### Boundless Portal Training
 
-[**Watch Training Video Here**](https://youtu.be/GGFunX7JOK0)  *(Note: You must be logged in to GitLab Unfiltered to view)*   
+[**Watch Training Video Here**](https://youtu.be/GGFunX7JOK0)  *(Note: You must be logged in to GitLab Unfiltered to view)*
 
 ### Boundless Support
 
 For Boundless support, please reach out directy to our Boundless Branded Merchandise Specialist, Savanah Sporer. For any questions or concerns, please reach out to `@krogel`.
 
-Savanah Sporer  
-sporer@boundlessnetwork.com   
-785.672.2647  
+Savanah Sporer
+sporer@boundlessnetwork.com
+785.672.2647
 
 ### Details Regarding Swag and Event Asset Ordering
 
@@ -615,17 +615,17 @@ It is recommended that each Field Marketer keep a separate GitLab tablecloth, po
 
 ### Returning AMER Field Marketing Event Assets and Swag
 
-It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. Every order placed through the Boundless portal will include a clearly marked return label inside of each box. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels and of their responsibility to ship the items back. 
+It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. Every order placed through the Boundless portal will include a clearly marked return label inside of each box. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels and of their responsibility to ship the items back.
 
 **PLEASE NOTE:** Trash should not be put into the return shipping boxes. All event assets are to be packed up cleanly and securely in their original boxes. All tool kit items should be returned to the tool kits for future event use. Do not send small numbers of swag back to the warehouse if the items were bundled. Only send full bundles back to the warehouse for restock. Example: If pens come in bundles of ten, please do not send back 2 pens as these cannot be rebundled. Feel free to keep small quantities of extra swag to give out to customers, if appropriate. Also, only open swag bundles as they are needed so items can be returned if not used. If you have any questions, please contact `@krogel`.
 
-### A51 Logistics Warehouse Address 
+### A51 Logistics Warehouse Address
 
-A51 Logistics  
-Account: GitLab  
-4465 W Hacienda, Suite 105  
-Las Vegas, NV 89118  
-702-353-4547 
+A51 Logistics
+Account: GitLab
+4465 W Hacienda, Suite 105
+Las Vegas, NV 89118
+702-353-4547
 
 ### Stickers
 
@@ -636,7 +636,7 @@ For sticker orders, please utilize our [Stickermule](https://www.stickermule.com
 In order to stay environmentally-friendly, we generally do not provide large quantities of print collateral at events. However, if you do need printouts or gift bag stuffers for events, we utilize [Vistaprint](https://www.vistaprint.com/). Please log in using the Marketing 1pass. Another option in lieu of hundreds of printed handouts is to have a handful of printed and laminated pieces of collateral to utilize for visual reference while speaking with customers at an event. Additionally, you can create a [QR Code](/handbook/marketing/events/#field-marketing-qr-codes-for-events) to display at your event with that same piece of content for customers to download to their own devices.
 
 ### Requesting New Swag in AMER
- 
+
 If you are interested in ordering new swag, please open a [Swag Request Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Swag_Request_Template) and assign `@krogel`. If you believe the swag item is something the entire AMER team would be interested in utilizing, you can add an item to our weekly team agenda or send a message in the `#amerfmteamctf` Slack channel to check and see if any other FMMs would be interested in also ordering the item and splitting the cost. If splitting the cost between regions, please remember to utilize the `ALL AMER` plan in Allocadia for [budgeting](/handbook/marketing/field-marketing/#the-field-marketing-budget) and to indicate which regions are sharing the cost in the Swag Request Issue.
 
 ## EMEA Field Marketing Swag
@@ -759,13 +759,13 @@ For details on how we handle events please visit the [GitLab Event Information](
 
 ## [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar) 
 
-## [AMER Field Marketing Event Tracker for Sales](https://docs.google.com/spreadsheets/d/1-McecmJ7MVgdmVrjzBdrxrx6CfJ6U0dqnMILBNl67j0/edit#gid=0) 
+## [AMER Field Marketing Event Tracker for Sales](https://docs.google.com/spreadsheets/d/1-McecmJ7MVgdmVrjzBdrxrx6CfJ6U0dqnMILBNl67j0/edit#gid=0)
 
-It is the responsibility of each field marketing manager to ensure that this tracker is up to date with all AMER Field Marketing initiatives. Sales should consider this spreadsheet live and current daily. 
+It is the responsibility of each field marketing manager to ensure that this tracker is up to date with all AMER Field Marketing initiatives. Sales should consider this spreadsheet live and current daily.
 
-## Google Calendar links 
-If you prefer to see the events in an actual calendar view please refer to the following: 
-* [External virtual events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+## Google Calendar links
+If you prefer to see the events in an actual calendar view please refer to the following:
+* [External virtual events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [GitLab hosted Zoom webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [GitLab Hosted Self-Service Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [In person Events and Sponsorship](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
@@ -795,7 +795,7 @@ The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/m
 ## Field Marketing QBRs
 Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Field Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field Marketing Manager to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
 
-This deck should also be used to present the regional plans to the sales teams. 
+This deck should also be used to present the regional plans to the sales teams.
 
 ### FMM QBR attendees
 
@@ -812,13 +812,13 @@ This deck should also be used to present the regional plans to the sales teams.
 | Regional Campaign Manager (optional)  |
 | Anyone else the Manager of FMM REGION deems necessary |
 
-## Next Steps after Quarterly  plans are complete 
-In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed. 
+## Next Steps after Quarterly  plans are complete
+In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed.
 
-### Marketing Calendar 
-Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Director of Field Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar). 
+### Marketing Calendar
+Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Director of Field Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
 
-If any dates change after the upload has happened the FMC will make the date update within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
+If any dates change after the upload has happened the FMC will make the date update within the [marketing calendar](/handbook/marketing/#marketing-calendar).
 
 In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload. 
 
@@ -829,26 +829,26 @@ The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjD
 ### Channel plans 
 All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
-### Asks into Digital Campaigns 
-Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/). 
+### Asks into Digital Campaigns
+Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/).
 
 ### Asks into Product Marketing 
 ~~By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review.~~ 
 
 This section is WIP as we have new team members and will need to build a new process. 
 
-#### Asks into the Customer Reference team 
-After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.  
+#### Asks into the Customer Reference team
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.
 
 You will note in Allocadia in the details panel if you need a customer speaker. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
-### Asks into BDR org 
-After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of BDR and Director, Sales Dev Operations. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the BDR org. Further details on this process can be [found here.](/handbook/marketing/revenue-marketing/sdr/#approvals-required) 
+### Asks into BDR org
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of BDR and Director, Sales Dev Operations. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the BDR org. Further details on this process can be [found here.](/handbook/marketing/sales-development/#approvals-required)
 
 You will note in Allocadia in the details panel if you need BDR support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
-### Asks into the SA org 
-After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of SAs. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the SA org. 
+### Asks into the SA org
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of SAs. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the SA org.
 
 You will note in Allocadia in the details panel if you need SA support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
@@ -884,15 +884,15 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | EMEA CEE | Sarina Kraft | Ilaria Pazienza |
 | EMEA Russia | Elena Sheveleva | Matthew Coughlan |
 
-## Field Marketing initiated and funded campaigns 
+## Field Marketing initiated and funded campaigns
 
-Jointly with their regionally algined CAM, Field Marketers should be executing 50% of their in region campaigns with Select level regional partners. The primary goal of this activity is to convert MQLs to PSOs. 
+Jointly with their regionally algined CAM, Field Marketers should be executing 50% of their in region campaigns with Select level regional partners. The primary goal of this activity is to convert MQLs to PSOs.
 
 In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
 
-Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#quarterly-planning-field-and-channel). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).  
+Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#quarterly-planning-field-and-channel). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).
 
-Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement. 
+Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
 
 Select Partner marketing activities can be:
 - Fully funded by FMM budget
@@ -909,19 +909,19 @@ Select Partner marketing activities can be:
 
 ### Lead Management in the Channel
 
-Please refer to the [Channel Partner Joint GitLab events handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) for details on how we set up our joint campaign and also lead sharing with the channel as a result of those campaings. 
+Please refer to the [Channel Partner Joint GitLab events handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) for details on how we set up our joint campaign and also lead sharing with the channel as a result of those campaings.
 
-All campaigns we are working with channel partners must flow through the outlined process as a way to ensure we are tracking the success of the campaign properly. 
+All campaigns we are working with channel partners must flow through the outlined process as a way to ensure we are tracking the success of the campaign properly.
 
 ### Tracking success of FMM campaigns with Channel
- 
+
 Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
 
-### Useful Fields in SFDC that relate to Vartopia 
-1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#sfdc-partner-prospect-admin) for further details. 
+### Useful Fields in SFDC that relate to Vartopia
+1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#sfdc-partner-prospect-admin) for further details.
 
-### Channel Program 
-The below list is not exhaustive. 
+### Channel Program
+The below list is not exhaustive.
 
 1. Manage/create SPIFFs
 1. Manage Partner Advisory Boards
@@ -943,17 +943,17 @@ For more details on what the Channel Programs team does, please head to their [p
 As incentive for attending an event, GitLab can promote and process a monetary donation per participant to a charitable organization. For example: GitLab promotes a $25 donation per attendee for attending an event, 100 attendees participate in the event and GitLab donates $2,500 to the selected charity. **Please Note**: Donations are not to be made in a participant's name or reference a participant's organization.
 
 ## PubSec FMM Calendar share
-In alignment with the PubSec team's [process to lock down shared data](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/150) that is accessible to teams outside of our US PubSec team - (will link to handbook page once its been created!) the Public Sector Field Marketing Managers, by default, will mark their calendar details as private. Google calendar [has a feature](https://support.google.com/calendar/answer/37082?hl=en#zippy=%2Cunderstand-permission-settings-for-shared-calendars%2Cstop-sharing-your-calendar-publicly-with-your-organization-or-with-specific-people) that allows you to share your calendar with individuals once its been marketed as private and at a minimum, the FMM team member should share their calendar with both their direct manager as well as their aligned Field Marketing Specialist, pending those people are US Citizens. 
+In alignment with the PubSec team's [process to lock down shared data](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/150) that is accessible to teams outside of our US PubSec team - (will link to handbook page once its been created!) the Public Sector Field Marketing Managers, by default, will mark their calendar details as private. Google calendar [has a feature](https://support.google.com/calendar/answer/37082?hl=en#zippy=%2Cunderstand-permission-settings-for-shared-calendars%2Cstop-sharing-your-calendar-publicly-with-your-organization-or-with-specific-people) that allows you to share your calendar with individuals once its been marketed as private and at a minimum, the FMM team member should share their calendar with both their direct manager as well as their aligned Field Marketing Specialist, pending those people are US Citizens.
 
 ## PubSec Website
 
-Please see the PubSec website page [here](https://about.gitlab.com/solutions/public-sector/). 
+Please see the PubSec website page [here](https://about.gitlab.com/solutions/public-sector/).
 
 ### How to Edit the PubSec Website
 
-The content for the PubSec page lives in the `Buyer Experience` repository, in the [public-sector.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/solutions/public-sector.yml#L240) file (starting around line 240). To edit this file, please keep the same structure as the current content to avoid any errors. Feel free to use the Web IDE or single file editor to update the information. 
+The content for the PubSec page lives in the `Buyer Experience` repository, in the [public-sector.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/solutions/public-sector.yml#L240) file (starting around line 240). To edit this file, please keep the same structure as the current content to avoid any errors. Feel free to use the Web IDE or single file editor to update the information.
 
-The event cards section of the file will look something like this: 
+The event cards section of the file will look something like this:
 ```
     -   icon: "/nuxt-images/features/resources/icon_partners.svg"
         event_type: "Conference"
@@ -966,25 +966,25 @@ The event cards section of the file will look something like this:
         data_ga_location: resource cards
 ```
 - **icon:** Can be either `/nuxt-images/icons/slp-webcast.svg` or `/nuxt-images/icons/slp-calendar.svg`.
-- **event_type:** Can be any value. 
+- **event_type:** Can be any value.
 - **header:** Can be any free text. If any colons or apostrophies are used, feel free to wrap in double quotes such as `header: "Space: The Final Frontier"`.
 - **date:** Can be any free text, but similar format is preferred for visual consistency.
-- **link_text:** Ideally this stays as "Event Details" for consistency. 
+- **link_text:** Ideally this stays as "Event Details" for consistency.
 - **href:** Full link to the event.
 - **image:** Can be any image from this [folder](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/static/nuxt-images/features/resources) that starts with `resources_`
 - **data_{value}**: These are used for analytics - please don't edit.
 
-After making your edits, please tag an Engineer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) as a `Reviewer`. For further assistance, feel free to post a question in the #digital-experience-team slack channel. 
+After making your edits, please tag an Engineer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) as a `Reviewer`. For further assistance, feel free to post a question in the #digital-experience-team slack channel.
 
 
-## GitLab Government User Group Program  
+## GitLab Government User Group Program
 
-### Purpose, Mission and Values 
+### Purpose, Mission and Values
 
 #### Purpose
 To build a community of GitLab users within Government and Education where peers can share best practices, connect with GitLab Team members and collaborate on how to best serve the public sector.
 
-#### Mission Statement 
+#### Mission Statement
 To provide opportunities for discussion, education and community building for individuals who serve the Public Sector through Meetups (both virtual and in person), training and team building
 
 #### User Group Values
@@ -1008,12 +1008,12 @@ We are committed to providing opportunities for discussion, education and commun
 ### Branches
  - Caffeine and Collaboration #caffeineandcollaboration
  - User Group Workshops #usergroupworkshop
- - Iterate! Start something new! 
+ - Iterate! Start something new!
 
-### Recommended Formats for Event  
+### Recommended Formats for Event
  - Roughly 1.5 hours in length
- - Series of 2-3 speakers (one GitLab and 1-2 customers)  
- - AMA or Panel  
+ - Series of 2-3 speakers (one GitLab and 1-2 customers)
+ - AMA or Panel
 
 ### [Sample Agenda/Example Slide Deck](https://docs.google.com/presentation/d/1hwU1nt8wb8ADtj9JFq-zTg1bbZNf3L5H/edit?usp=sharing&ouid=114806938780598580840&rtpof=true&sd=true)
 
@@ -1021,127 +1021,127 @@ We are committed to providing opportunities for discussion, education and commun
  - Encourage members, registrants and attendees to get involved and open up discussions on the [GitLab Forum page](https://forum.gitlab.com/c/gitlab-government-user-group/44) for the GitLab Government User Group.
 
 ### Imagery
- - Branding should remain consistent across the entire User Group program leveraging marketing approved Tanuki graphics.  
+ - Branding should remain consistent across the entire User Group program leveraging marketing approved Tanuki graphics.
    - Press kit for Tanuki designs can be found [here](https://about.gitlab.com/press/press-kit/)
 
 ### Hashtags and Social Media Promotion
- - The following hashtags should be used when promoting on social platforms: 
-   - #gitlabgovernmentusergroup 
-   - #caffeineandcollaboration (when applicable) 
-   - #gitlab 
-   - #devops 
-   - #devsecops 
-   - #gitlabusergroupworkshop (when applicable)  
- - Event should be promoted via GitLab's corporate LinkedIn Events page. Reach out to @KiraAubrey in Field Marketing to have the event placed on the site.  
- - Event should be promoted via Bambu. Reach out to @KiraAubrey to get a post created, approved and ready for team sharing. 
- - Encourage relevant people from the sales, marketing and technical teams to promote via their social pages.  
+ - The following hashtags should be used when promoting on social platforms:
+   - #gitlabgovernmentusergroup
+   - #caffeineandcollaboration (when applicable)
+   - #gitlab
+   - #devops
+   - #devsecops
+   - #gitlabusergroupworkshop (when applicable)
+ - Event should be promoted via GitLab's corporate LinkedIn Events page. Reach out to @KiraAubrey in Field Marketing to have the event placed on the site.
+ - Event should be promoted via Bambu. Reach out to @KiraAubrey to get a post created, approved and ready for team sharing.
+ - Encourage relevant people from the sales, marketing and technical teams to promote via their social pages.
 
 ### When Engaging a Partner
 
-**Consider the following items**:  
-- Will the partner be hosting the meeting? (applicable to both in-person and virtual versions)  
+**Consider the following items**:
+- Will the partner be hosting the meeting? (applicable to both in-person and virtual versions)
 - Will the partner be collecting the registrations and how/when will those be shared with GitLab?
-- Ensure that the partner is aware this is NOT a marketable event.  
-- Ensure branding is in alignment with GitLab Government User Group branding.  
+- Ensure that the partner is aware this is NOT a marketable event.
+- Ensure branding is in alignment with GitLab Government User Group branding.
 
-### Backend Processes:  
+### Backend Processes:
 
-**Getting Started with Meetup.com**  
-1. Create your meetup page on meetup.com  
-1. Reach out to the community team to let them know you've created a new meetup and request the GitLab Corporate Account code  
-1. The community team will provide you a unique ticket link. Click and follow prompts to have your meetup page join larger GitLab network on Meetup.com  
+**Getting Started with Meetup.com**
+1. Create your meetup page on meetup.com
+1. Reach out to the community team to let them know you've created a new meetup and request the GitLab Corporate Account code
+1. The community team will provide you a unique ticket link. Click and follow prompts to have your meetup page join larger GitLab network on Meetup.com
 1. Once page is established alert your team that it is live and encourage page engagement
-1. Once an event has been established it should be announced on the [GitLab Government User Group meetup.com page](https://www.meetup.com/gitlab-government-user-group/). Please reach out to @pmejia and/or @KiraAubrey to have the event published.  
-   - **Please Note**: Meetup.com will be leveraged for announcements and save the date messaging. Actual registration will take place on external registration sites via GitLab or the involved partner.  
-   - **Best Practice**: Create a Save the Date event for your upcoming event on meetup.com!  
+1. Once an event has been established it should be announced on the [GitLab Government User Group meetup.com page](https://www.meetup.com/gitlab-government-user-group/). Please reach out to @pmejia and/or @KiraAubrey to have the event published.
+   - **Please Note**: Meetup.com will be leveraged for announcements and save the date messaging. Actual registration will take place on external registration sites via GitLab or the involved partner.
+   - **Best Practice**: Create a Save the Date event for your upcoming event on meetup.com!
 
-### Best Practices - Sample Timeline for a User Group Run Through Carahsoft  
+### Best Practices - Sample Timeline for a User Group Run Through Carahsoft
 
-- GitLab Team Member nominates a Speaker and Proposed Topic/ Speaker submission form is received  
-- Intro call with GitLab and Speaker  
-   - **Agenda**    
-     - Confirm topic  
-     - Confirm availability for the event  
-        - Confirm ability to reference agency in promo materials  
-        - What approvals do they need  
-        - What details do they need from GitLab to secure approvals  
-   - **Discuss Desired Format**   
-        - Presentation   
+- GitLab Team Member nominates a Speaker and Proposed Topic/ Speaker submission form is received
+- Intro call with GitLab and Speaker
+   - **Agenda**
+     - Confirm topic
+     - Confirm availability for the event
+        - Confirm ability to reference agency in promo materials
+        - What approvals do they need
+        - What details do they need from GitLab to secure approvals
+   - **Discuss Desired Format**
+        - Presentation
         - Interview
-        - Panel Interview  
-   - **Review Logistics**  
-        - Carahsoft hosts via Fed Zoom  
-        - Meetup.com page will be leveraged (ask speaker to join our user group on meetup!)  
-   - **Outline Next Steps**  
-        - GitLab to provide speaker with any information needed for approvals  
-        - Speaker to secure approvals  
-        - GitLab to introduce Carahsoft to schedule the dry run  
-        - GitLab and speaker walk through the agenda prior to Dry Run  
-        - Speakers will need to provide a headshot and bio  
-        - Carahsoft will host Dry Run  
-   - **Event Completed**  
-        - Follow up between GitLab and Speaker on approvals until they are secured  
-        - Team effort between marketing channel and nominator  
-        - Follow up between GitLab and Carahsoft once approvals are in flight  
-   - **Invite email copy**  
-        - Confirmation email copy and resources  
-        - Assets  
-        - Coffee order form if applicable  
-   - **Request Graphics from Carahsoft**  
-        - Email banner  
-        - Social media  
-   - **Update Meetup.com with a Save the Date or Event Placeholder**   
-        - Once Approvals are secured Introduce Speakers to Carahsoft  
-        - Carahsoft to work on scheduling dry run  
-        - Carahsoft to share invite for speakers to leverage  
-        - Carahsoft/GitLab to prompt speakers for headshots and bio  
-   - **GitLab and Carahsoft to Collaborate on Event Assets**  
-        - Slide Deck  
-        - Script  
-        - Polling Questions  
-        - Best practice: separate doc for polling questions  
-   - **GitLab and Speaker Sync to Review Content for the Event**   
-        - Dry Run for GitLab, Carahsoft and Speaker  
-        - Review Zoom logistics  
-        - Early login for all participants  
-        - Polling question logistics  
-        - Review Script and flow for the day of the event  
-        - Ensure speakers are comfortable  
-        - Reminder to join user group on Meetup.com  
-        - Reminder to order coffee if applicable  
-   - **Carahsoft and GitLab to leverage cadence call prior to event for moderator prep**  
-        - Review script and define responsibilities around hosting, muting, poll questions etc.  
-        - Review slides  
-   - **Finalize copy for Thank you email and confirm CTA’s and resources**  
+        - Panel Interview
+   - **Review Logistics**
+        - Carahsoft hosts via Fed Zoom
+        - Meetup.com page will be leveraged (ask speaker to join our user group on meetup!)
+   - **Outline Next Steps**
+        - GitLab to provide speaker with any information needed for approvals
+        - Speaker to secure approvals
+        - GitLab to introduce Carahsoft to schedule the dry run
+        - GitLab and speaker walk through the agenda prior to Dry Run
+        - Speakers will need to provide a headshot and bio
+        - Carahsoft will host Dry Run
+   - **Event Completed**
+        - Follow up between GitLab and Speaker on approvals until they are secured
+        - Team effort between marketing channel and nominator
+        - Follow up between GitLab and Carahsoft once approvals are in flight
+   - **Invite email copy**
+        - Confirmation email copy and resources
+        - Assets
+        - Coffee order form if applicable
+   - **Request Graphics from Carahsoft**
+        - Email banner
+        - Social media
+   - **Update Meetup.com with a Save the Date or Event Placeholder**
+        - Once Approvals are secured Introduce Speakers to Carahsoft
+        - Carahsoft to work on scheduling dry run
+        - Carahsoft to share invite for speakers to leverage
+        - Carahsoft/GitLab to prompt speakers for headshots and bio
+   - **GitLab and Carahsoft to Collaborate on Event Assets**
+        - Slide Deck
+        - Script
+        - Polling Questions
+        - Best practice: separate doc for polling questions
+   - **GitLab and Speaker Sync to Review Content for the Event**
+        - Dry Run for GitLab, Carahsoft and Speaker
+        - Review Zoom logistics
+        - Early login for all participants
+        - Polling question logistics
+        - Review Script and flow for the day of the event
+        - Ensure speakers are comfortable
+        - Reminder to join user group on Meetup.com
+        - Reminder to order coffee if applicable
+   - **Carahsoft and GitLab to leverage cadence call prior to event for moderator prep**
+        - Review script and define responsibilities around hosting, muting, poll questions etc.
+        - Review slides
+   - **Finalize copy for Thank you email and confirm CTA’s and resources**
    - **Carahsoft to Load Poll questions into Zoom meeting**
-   - **Day Before Event**   
-        - Carahsoft sends reminder email  
-        - GitLab sends reminder email via meetup.com prompting RSVP’s to register if they haven’t already  
-        - Carahsoft confirms all poll questions are loaded  
-   - **Day of Event**   
-        - GitLab checks meetup.com for any questions and updates invite with zoom link (in case folks want to attend but don’t want to register via Carahsoft)  
-        - Carahsoft and moderators to join 30 minutes early  
-        - Speakers to join 15 minutes early  
-        - Carahsoft to kick off event a couple minutes past the start time  
-   - **Follow Up**    
-        - Carahsoft to send thank you email with resources and prompt to join the next event  
+   - **Day Before Event**
+        - Carahsoft sends reminder email
+        - GitLab sends reminder email via meetup.com prompting RSVP’s to register if they haven’t already
+        - Carahsoft confirms all poll questions are loaded
+   - **Day of Event**
+        - GitLab checks meetup.com for any questions and updates invite with zoom link (in case folks want to attend but don’t want to register via Carahsoft)
+        - Carahsoft and moderators to join 30 minutes early
+        - Speakers to join 15 minutes early
+        - Carahsoft to kick off event a couple minutes past the start time
+   - **Follow Up**
+        - Carahsoft to send thank you email with resources and prompt to join the next event
 
-**User Group Event Checklist**  
+**User Group Event Checklist**
 
-        - Invite Copy  
-        - Confirmation email copy  
-        - Resources for confirmation email  
-        - Coffee order link (if applicable)  
-        - Graphics  
-        - Email banner  
-        - Social  
-        - Slide template  
-        - Zoom background  
-        - Script  
-        - Poll questions  
-        - Thank you email  
-        - Resources  
-        - Invite for next event (or meetup.com save the date link)  
+        - Invite Copy
+        - Confirmation email copy
+        - Resources for confirmation email
+        - Coffee order link (if applicable)
+        - Graphics
+        - Email banner
+        - Social
+        - Slide template
+        - Zoom background
+        - Script
+        - Poll questions
+        - Thank you email
+        - Resources
+        - Invite for next event (or meetup.com save the date link)
 
 
 # GitLab Company Information (Including Tax ID)
@@ -1249,7 +1249,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `Russia`: Issues that are related to the EMEA Russia & Ukraine sales team
 - `MEA`: Issues that are related to the EMEA MEA (Middle East & Africa) sales team
 - `East - NE & NYC Metro`: Issues that are related to the US East - NE sales team and East - NYC sales team
-- `East - SE & Mid Atlantic`: Issues that are related to the East - SE sales team and East - Mid-Atlantic sales team 
+- `East - SE & Mid Atlantic`: Issues that are related to the East - SE sales team and East - Mid-Atlantic sales team
 - `EAST - South Central`: Issues that are related to the EAST - South Central sales team
 - `WEST - SW & Bay Area`: Issues that are related to the West - SW sales team and West Bay Area sales team
 - `WEST - NW & North Central`: Issues that are related to the West - NW sales team and Central - North Central sales team
@@ -1281,8 +1281,8 @@ For more information on how Field Marketing utilizes GitLab for agile project ma
 Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-performance/allocadia/). Specific instructions on how we manage our expenses:
 
 1. Each FMM will have a quarterly allocation of money to spend based on territory pipeline needs.
-1. Every month on t -6 days (so 6 business days before the start of the next month) finance will do a pull of this data and push it into the company planning tool called Adaptive. Field Marketing Managers must always keep their budgets up to date, but it is essential the budget is accurate for the month prior to t -6 days, as FMM Leadership reviews the budget vs. actuals on a monthly basis. 
-   * Via Geekbot, each FMM will receive a reminder t-8 days before the start of the next month - or 2 days before the monthly forecast is due to Finance. 
+1. Every month on t -6 days (so 6 business days before the start of the next month) finance will do a pull of this data and push it into the company planning tool called Adaptive. Field Marketing Managers must always keep their budgets up to date, but it is essential the budget is accurate for the month prior to t -6 days, as FMM Leadership reviews the budget vs. actuals on a monthly basis.
+   * Via Geekbot, each FMM will receive a reminder t-8 days before the start of the next month - or 2 days before the monthly forecast is due to Finance.
 1. Direct Mail accrual process - Spend should be planned and expensed in the month in which they are sent out to recipients vs. the month in which the recipient could use the direct mail piece, as we have no control over when a gift card (as an example) is used.
 1. Survey accrual process - If you are using a 3rd party to complete a survey, it’s the responsibility of the FMM DRI to account for the percent of work that was completed in that month in the budget. As an example, if you signed a contract with a vendor to complete 100 surveys, and in month 1, 50 of the 100 contracted for surveys were completed, then you would account for 50% of the expense in month 1.
    * This update in monthly expense is due to be updated directly in the budget document, in the correct month, in advance of the t -6 days before the end of the month, which is when Finance does a pull of our budget doc to run a budget vs. actuals comparison
@@ -1290,19 +1290,19 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
    * This update in monthly expense is due to be updated directly in the budget document, in the correct month, in advance of the t -6 days before the end of the month, which is when Finance does a pull of our budget doc to run a budget vs. actuals comparison
 1. The entire cost of the program is to be forecasted for - Sponsorship + lead scanners + monitor + any other auxiliary cost that the company will incur.
 1. If the event is just 1 day, then the start and end date would be the same.
-1. Any expense that is less than $5,000 USD will be expensed against your budget in the month it is paid. This is in alignment with our [GitLab Prepaid Expense Policy](/handbook/finance/accounting/#prepaid-expense-policy). It is essential that you have this expense in the correct month within Allocadia. 
-1. For expenses more than $5,000 USD (also in alignment with our Accounting rules), we recognize the expense in the month when the work happens, NOT when we the cash leaves our doors. 
-   * As such, when you are running paid digital ads to support campaign work, you must account for the spend in a separate line item (this is aligned with our practice of [creating separate line items for each individual invoice/spend](/handbook/marketing/strategy-performance/allocadia/#buttons). You will keep the same campaign name for the digital spend, but you will need to account for the different vendor and different time frame in the additional line item. 
+1. Any expense that is less than $5,000 USD will be expensed against your budget in the month it is paid. This is in alignment with our [GitLab Prepaid Expense Policy](/handbook/finance/accounting/#prepaid-expense-policy). It is essential that you have this expense in the correct month within Allocadia.
+1. For expenses more than $5,000 USD (also in alignment with our Accounting rules), we recognize the expense in the month when the work happens, NOT when we the cash leaves our doors.
+   * As such, when you are running paid digital ads to support campaign work, you must account for the spend in a separate line item (this is aligned with our practice of [creating separate line items for each individual invoice/spend](/handbook/marketing/strategy-performance/allocadia/#buttons). You will keep the same campaign name for the digital spend, but you will need to account for the different vendor and different time frame in the additional line item.
 1. If you are running a campaign that has more than one tactic, and there are specific dates for the tactics, then each tactic will need its own line item in Allocadia.
     - As an example: If you are running a country specific campaign on CI/CD and there are 2 webinars and a workshop included in that campaign with a different specific date, then each webinar and the workshop will need its own tag, in addition to its own line item in the budget.
-1. Each folder in Allocadia is protected based on the managers/DRI's for each region. Only those with permissions will be able to edit each folder. Please reach out in the #allocadia_mktg-budget-holders slack channel if you need permissions updated. 
-1. At times, expenses are shared across an entire region. These expenses are housed in the ALL region folders. Any activity plans should transfer money to the ALL folder when looking to share the cost of expense. The same expense should NOT live in multiple activity plans if its an expense that is shared amongst more than 1 activity plan. 
-   * As an example: If all regions within AMER want to collaborate on the same campaign and they each want to spend $5k on the campaign, the FMMs would use the [transfer budget feature within Allocadia](/handbook/marketing/strategy-performance/allocadia/#request-transfer) to transfer that money into the All AMER activity plan. Once in All AMER,  the correct sub-geos should be selected in the details panel so its clear how this campaign will support the different regions/sub-geos. Transferring to the All folders also prevents FMMs from having to divide out the MQLs amongst the various regions as well for ROI calculation purposes. 
+1. Each folder in Allocadia is protected based on the managers/DRI's for each region. Only those with permissions will be able to edit each folder. Please reach out in the #allocadia_mktg-budget-holders slack channel if you need permissions updated.
+1. At times, expenses are shared across an entire region. These expenses are housed in the ALL region folders. Any activity plans should transfer money to the ALL folder when looking to share the cost of expense. The same expense should NOT live in multiple activity plans if its an expense that is shared amongst more than 1 activity plan.
+   * As an example: If all regions within AMER want to collaborate on the same campaign and they each want to spend $5k on the campaign, the FMMs would use the [transfer budget feature within Allocadia](/handbook/marketing/strategy-performance/allocadia/#request-transfer) to transfer that money into the All AMER activity plan. Once in All AMER,  the correct sub-geos should be selected in the details panel so its clear how this campaign will support the different regions/sub-geos. Transferring to the All folders also prevents FMMs from having to divide out the MQLs amongst the various regions as well for ROI calculation purposes.
    * In order for the shared activity to be pulled into the regional pipeline reporting for QBRs, the FMM will need to remember to also select the ALL folder in addition to their activity plan name in order to pull their full plan noted in [reports 3 & 4 here.](/handbook/marketing/strategy-performance/allocadia/#reports-field-marketing-uses)
    * [Video walk through](https://youtu.be/w3Vs5lbBogU) - must be logged into YouTube Unfiltered
    * SFDC campaign owner will be the specific DRI for the overall campaign if running a shared campaign.
-1. When splitting a tactic between territories, all money should be transferred to one activity plan and the PO should be raised from that one line item.     
-1. For budgeting purposes we need to stipulate the amount in USD (as we currently operate in USD) in the FMM budget. Allocadia does have a multicurrency function where you right click in the planned or forecasted sections and the converstion amount is compelted for you pulling exchange rates that are loaded on the back end by our finance team. 
+1. When splitting a tactic between territories, all money should be transferred to one activity plan and the PO should be raised from that one line item.
+1. For budgeting purposes we need to stipulate the amount in USD (as we currently operate in USD) in the FMM budget. Allocadia does have a multicurrency function where you right click in the planned or forecasted sections and the converstion amount is compelted for you pulling exchange rates that are loaded on the back end by our finance team.
 1. VAT and GST does not need to be included into budget planning as these do not attribute to program expenses, however sales tax in the US does.
 1. As it relates to procurement issues being approved, it is essential that the contract details are submitted with the procurement issue, that way the approver is clear about what they are signing off on.
     - We aim for an MQL to not cost us more than $500, should a contract be submitted that is over the $500 goal, there needs to be a documented reason + path to success shown in the procurement issue. It is the responsibility of the FMM Country Manager to ensure this documentation is listed in the procurement issue before the issue is sent on to further leadership to review/approve. For C-level and other campaign where we target decision makers, the customer journey needs to be documented and we acknowledge that the MQL might be higher.
@@ -1311,7 +1311,7 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
 
 Please note that there is a limit of $75 USD annually per person on customer speaker gifts.
 
-# Field Marketing and Legal 
+# Field Marketing and Legal
 
 ## Legal Approvals
 
@@ -1321,22 +1321,22 @@ It should be a rare occasion (and not a result of poor planning), that a contrac
 
 ## Sweepstakes
 
-Field Marketing follows the legal team's process [here](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes. 
+Field Marketing follows the legal team's process [here](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes.
 
-## Working with vendors that are brand new 
-New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor: 
+## Working with vendors that are brand new
+New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor:
 
 1.  If contacted via social media or other manner by an unknown individual and/or individual(s) related to an event, review all event/program materials, including a detailed review of the organizers website to confirm past events. In addition, review various social media materials.
 1. If an event is unknown, new or first time, the Team Member can engage with Alliance and Channel Team Members to gather feedback on the events organizer and ensure value, use your netowrk internally and ask around if folks know this vendor.
-- Where applicable, request details and documentation related to previous event(s) hosted by the organizer. 
-- In situations where an organizer is hosting an inaugural event, Team Members can ask for other partners / sponsors who are participating, and receive direct confirmation from the event space host (e.g, hotel). 
-- In situations with first events, the field marketing team can engage the GitLab Legal Team for additional review. 
-- [Video walk through](https://youtu.be/Ao-HUl15c1A) with our legal team outlining this process can be found on GitLab Unfiltered. 
+- Where applicable, request details and documentation related to previous event(s) hosted by the organizer.
+- In situations where an organizer is hosting an inaugural event, Team Members can ask for other partners / sponsors who are participating, and receive direct confirmation from the event space host (e.g, hotel).
+- In situations with first events, the field marketing team can engage the GitLab Legal Team for additional review.
+- [Video walk through](https://youtu.be/Ao-HUl15c1A) with our legal team outlining this process can be found on GitLab Unfiltered.
 
 
 # Field Marketing Communications
 
-## Regional Email Aliases 
+## Regional Email Aliases
 
 Field Marketing utilizes regional email aliases for pre and post tactic outreach. Please see [this section](/handbook/marketing/events/#email-alias-usages-for-outreach) for more details.
 
@@ -1390,39 +1390,39 @@ As Field Marketers, we travel up to 50% of the time. Sharing where you are is im
 These top 3 priorities should be focused on what you plan to accomplish that week.
 1. _**Anything blocking your progress?**_
 Of those 1-3 items listed, do you need any roadblocks removed in order to accomplish the priorities?
-1. A question that is related to which [GitLab Value](/handbook/values/) we are focusing on for the month. 
+1. A question that is related to which [GitLab Value](/handbook/values/) we are focusing on for the month.
 
 You will be notified via the Geekbot plug in on slack at 9 AM your local time on Mondays, as stated above. It is important to note, that unless you answer all questions in the Geekbot plug in, your answers will NOT be shared with your colleagues, so please be sure to complete all questions!
 
-## Out of Office Processes 
-We follow the processes documented in the [Communicating your time off section](/handbook/paid-time-off/#communicating-your-time-off) of our handbook page. 
+## Out of Office Processes
+We follow the processes documented in the [Communicating your time off section](/handbook/paid-time-off/#communicating-your-time-off) of our handbook page.
 
 Specifically: 
 1. Add your OOO to PTO by Deel 
 1. Add an OOO for your email 
 1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
-1. Add an OOO to your Slack profile 
+1. Add an OOO to your Slack profile
 1. Ad an OOO to your GitLab profile and mark yourself as `busy`
-1. If you are a manager of people, please [assign a delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) so you will not hold approvals while you're enjoying your time off. 
+1. If you are a manager of people, please [assign a delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) so you will not hold approvals while you're enjoying your time off.
 
 # Field Marketing MR process
 
-Everyone can contribute, although not everyone has merge rights. Within the Field Marketing team, when someone submits an MR, the submitter needs to assign to their direct line manager to review, and then their manager will assign to the Director of Field Marketing to review. Once the Director has reviewed/approved, it is their responsibility to ensure all threads are addressed and resolved and all merge conflicts are resolved, then merge. 
+Everyone can contribute, although not everyone has merge rights. Within the Field Marketing team, when someone submits an MR, the submitter needs to assign to their direct line manager to review, and then their manager will assign to the Director of Field Marketing to review. Once the Director has reviewed/approved, it is their responsibility to ensure all threads are addressed and resolved and all merge conflicts are resolved, then merge.
 
 Should a Country Manager of Field Marketing or Director of Field Marketing submit a process change in the handbook, then all Country Managers should sign off via approving the MR or commenting their approval. At which point, the Director ensures all threads are addressed and resolved and all merge conflicts are resolved, then the Director will merge.
 
-# Creating a spif for sales 
-At times, Field Marketers may want to create a SPIF (sales performance incentive fund) to help drive sales behavior in a campaign they are running. While this should not be our standard to offer a SPIF, should one need to be used, we do need to report back to payroll any incentve that was paid and to who. The process is as follows: 
-1. There is no payment threshold that would not need to be reported. All SPIFs must be reported. 
-1. The SPIF DRI should send the legal name of the winners to payroll 
+# Creating a spif for sales
+At times, Field Marketers may want to create a SPIF (sales performance incentive fund) to help drive sales behavior in a campaign they are running. While this should not be our standard to offer a SPIF, should one need to be used, we do need to report back to payroll any incentve that was paid and to who. The process is as follows:
+1. There is no payment threshold that would not need to be reported. All SPIFs must be reported.
+1. The SPIF DRI should send the legal name of the winners to payroll
 1. The SPIF DRI should include the amount of money (or value of the prize, if a prize was offered) to payroll
-1. Contact info for payroll can be found [here on their handbook page](/handbook/finance/payroll/). 
+1. Contact info for payroll can be found [here on their handbook page](/handbook/finance/payroll/).
 
 # Other pages to review for a full understanding of how Field Marketing at GitLab operates
 
 - [Events at GitLab](/handbook/marketing/events/)
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
-- [Sales Development](/handbook/marketing/revenue-marketing/sdr/)
+- [Sales Development](/handbook/marketing/sales-development/)
 - [Verticurl - 3rd party Marketo contractor](/handbook/marketing/lifecycle-marketing/agency-verticurl/)
 - [Field Marketing onboarding videos](https://drive.google.com/open?id=1m8ReMIiymMTqqk5PJAG7u_IG-Q5pkusV) - NOTE - these are also in the Field Marketing Onboarding issue that is kept in the [Marketing onboarding project](https://gitlab.com/gitlab-com/marketing/onboarding#onboarding)
 
@@ -1434,35 +1434,35 @@ Account based marketing is separate but sits next to field marketing. For info o
 Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases)
 
 # Field Marketing during COVID-19 Pandemic
-The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section. 
+The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section.
 
-# Tiers of support from Field Marketing for Corporate lead events 
-In an effort to support the events the corporate marketing team runs, Field Marketing will rank the shows on an annual basis that corporate marketing runs. 
+# Tiers of support from Field Marketing for Corporate lead events
+In an effort to support the events the corporate marketing team runs, Field Marketing will rank the shows on an annual basis that corporate marketing runs.
 
-## Tier 1 
-Field Marketing will: 
+## Tier 1
+Field Marketing will:
 1. Run a meeting setting program at this event - this means that sales leadership has agreed that they want their sales team spending time on driving these meetings.
-1. Evangelize the event is taking place with all regional sales teams. 
-1. If not already being planned by the corporate marketing team, run an auxiliary event driving registration with the sales teams. 
-1. Be onsite to support the event as needed 
-1. Participate in Corporate Events lead stakeholder calls 
+1. Evangelize the event is taking place with all regional sales teams.
+1. If not already being planned by the corporate marketing team, run an auxiliary event driving registration with the sales teams.
+1. Be onsite to support the event as needed
+1. Participate in Corporate Events lead stakeholder calls
 
-### FY24 Tier 1 
-1. AWS re:Invent 
+### FY24 Tier 1
+1. AWS re:Invent
 1. Gartner Application Summits - AMER, EMEA, APAC
 1. Gartner Security Summit - AMER
 
-## Tier 2 
-Field Marketing will: 
-1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or 
-1. Will not be on onsite to support the event. 
+## Tier 2
+Field Marketing will:
+1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or
+1. Will not be on onsite to support the event.
 
-### FY24 Tier 2 
+### FY24 Tier 2
 1. KubeCon EU/US
 1. Black Hat US
 
 # Deprecated handbook content
-We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
+We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day...
 
 ## Printfection Direct Mail Giveaways
 
@@ -1705,13 +1705,13 @@ SimplyDirect defines engagement by targets filling out the survey.  The SimplyDi
 # Working with our Digital team
 
 - For [paid social campaigns](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#paid-social), details on how we collaborate with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#agency).
-- We are not running ads for webcasts or workshops - as that is handled by our campaigns team. 
+- We are not running ads for webcasts or workshops - as that is handled by our campaigns team.
 - We will run paid ads to drive registration to regional in person events.
 
 
 #### Helpful Links
-* [**Survey Details**](/handbook/marketing/field-marketing/#survey)  
-* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)  
+* [**Survey Details**](/handbook/marketing/field-marketing/#survey)
+* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)
 * [**Pathfactory Request**](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
 </details>
