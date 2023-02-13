@@ -217,7 +217,7 @@ GitLab believes this indicates that the market for a DevOps platform delivered a
 ## Competitive comparisons
 Amongst the many competitors in the DevOps space, few provide the scope to call themselves a platform, and none have been architected fromt he ground up as a single application. 
 
-When viewed through the lens of "the most comprehensive suite of end-to-end functionality provided in a single solution," the nearest competitor is Microsoft's [Azure DevOps]. Microsoft continues to build toward the same vision with [GitHub](/devops-tools/github-vs-gitlab/), as well.
+When viewed through the lens of "the most comprehensive suite of end-to-end functionality provided in a single solution," the nearest competitor is Microsoft's [Azure DevOps]. Microsoft continues to build toward the same vision with [GitHub](/competition/github/), as well.
 
 ### Industry Analyst Relations (IAR) plan
 - The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
