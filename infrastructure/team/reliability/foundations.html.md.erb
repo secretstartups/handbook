@@ -8,15 +8,15 @@ title: "Reliability:Foundations Team"
 
 ## Mission
 
-The Reliability:Foundations team at GitLab mission is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com to allow Infrastructure, Development & Product teams to build their services for GitLab.com.
+The mission of the Reliability:Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
 
-The team is focused on owning the reliability, scalability, and security of the existing core infrastructure, introducing new capabilities that enable other teams to self serve core infrastructure more efficiently/effectively run their services for GitLab.com and reducing the effort required to provide our core infrastructure services.
+The team is focused on owning the reliability, scalability, and security of the existing core infrastructure. We seek to reduce the effort required to provide our core infrastructure services, and to enable other teams to self-serve core infrastructure that allows them to more efficiently/effectively run their services for GitLab.com.
 
-Other teams include in their missions to build their services on top of the services provided by Reliability:Foundations so we should be looking to make their consumption of our services as simple as possible.
+In order to enable Infrastructure, Development & Product teams to build their services for GitLab.com and fulfill their respective missions, we work to make the consumption of our services as simple as possible.
 
-The team should be seeking to build their services on top of GitLab features and cloud vendor managed products to reduce complexity, improve efficiency and deliver new capabilities quicker where they are the right choice.
+We seek to build our services on top of GitLab features, and use cloud vendor managed products to reduce complexity, improve efficiency and deliver new capabilities more quickly, where they are the right choice.
 
-The team does not explicitly have any product responsibilities but we should contribute the lessons we learn running at scale production systems back to the product teams and we should advocate for GitLab to contain features that would allow us to DogFood.
+While the team does not explicitly have any product responsibilities, we endeavor to contribute the lessons we learn from running at-scale production systems back to the product teams, and advocate for GitLab to contain features that would allow us to DogFood.
 
 ## Vision
 
@@ -30,7 +30,7 @@ The Services that the Foundations team is responsible for fall into two general 
 
 #### Core
 
-| Service | Description | Notes |
+| Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
 | K8s | K8S workloads deployments, Cluster addons | Autodeploy remains with Delivery, and anything Delivery related is co-owned with Delivery |
 | Config | Terraform, Chef, Image Builds | The core TF repos are owned by Foundations, while specific modules may be maintained by the teams that use them |
@@ -40,23 +40,23 @@ The Services that the Foundations team is responsible for fall into two general 
 
 #### Edge
 
-| Service | Description | Notes |
+| Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
 | CDN | Cloudflare, Fastly | |
 | DNS | AWS Route 53, Cloudflare | |
 | Load Balancing | HAProxy, Ingress | |
-| Networking | HAProxy | |
+| Networking | HAProxy, Cloudflare | |
 
 #### Access Provisioning
 
-| Service | Description | Notes |
+| Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
 | Authenticated Access | Teleport | |
 | GCP | Manage IAM permissions and CGP Project creation | |
 
 ### Overlap
 
-Given the nature of this team's scope, several services the Foundation team works with are either co-owned by other teams or impact their work.
+Given the nature of this team's scope, several services the Foundation team works with are either co-owned by other teams or directly impact their work, as noted above.
 
 ## Performance Indicators
 
@@ -87,5 +87,5 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 ## Common Links
 
  * Slack Channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6)
- * [Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Team%3A%3AFoundations)
- * [Foundations team meeting agenda](https://docs.google.com/document/d/1JSG6Cbyf4ssqEScGo6emnzhLq-3OdmF4prLimfvXWb0/edit?usp=sharing)
+ * [Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5309050?label_name%5B%5D=team%3A%3AFoundations)
+ * [Foundations team meeting agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
