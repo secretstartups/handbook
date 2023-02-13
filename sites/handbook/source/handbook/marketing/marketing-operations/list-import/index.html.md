@@ -106,7 +106,7 @@ Video of how this works tbd.
 ##### Notes at the record level 
 We strive to gather as many notes as possible about each person who stops by the GitLab booth and talks with us. In an effort to speed up our list upload process, when notes are present, the campaign member status should ALWAYS be `Follow Up Requested`. The FMM no longer needs to read through the notes and make a judgement call on the status. If there are notes, campaign member status should ALWAYS be `Follow Up Requested`. 
 
-With a record marked as `Follow Up Requested`, this will score the record with 100pts, as [noted here](/handbook/marketing/marketing-operations/marketo/#behavior-scoring), which will then in turn show up in the [Sales Dev's team P1 (Priority 1) view](/handbook/marketing/revenue-marketing/sdr/#bdr-event-promotion-and-sales-dev-org-follow-up). The Sales Dev team is happy to have potential unrelevant records routed to them in an effort to speed up the records getting to them. 
+With a record marked as `Follow Up Requested`, this will score the record with 100pts, as [noted here](/handbook/marketing/marketing-operations/marketo/#behavior-scoring), which will then in turn show up in the [Sales Dev's team P1 (Priority 1) view](/handbook/marketing/sales-development/#bdr-event-promotion-and-sales-dev-org-follow-up). The Sales Dev team is happy to have potential unrelevant records routed to them in an effort to speed up the records getting to them. 
 
 Its also super important that if there are notes, the notes are clear to someone who both was onsite and those who were not. Think to yourself, if someone was not there onsite, will they know what action to take as a result of these notes? 
 

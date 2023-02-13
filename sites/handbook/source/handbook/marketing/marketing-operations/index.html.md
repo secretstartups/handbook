@@ -65,7 +65,7 @@ The team is split into 3 main pillars, click on them below for additional inform
     <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strat & Analytics</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/marketing/revenue-marketing/sdr/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
+    <a href="/handbook/marketing/sales-development/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
     <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
    <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
@@ -600,7 +600,7 @@ Notice any test leads? Please open an [issue](https://gitlab.com/gitlab-com/mark
 
 ### Internal DNC (Do Not Call) Lists
 
-Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#cold-calling-checklist) section to find out more about it. 
+Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/sales-development/#cold-calling-checklist) section to find out more about it. 
 
 ### External DNC (Do Not Call) Lists
 
