@@ -26,11 +26,10 @@ Though automation exists, the CSM must still ensure customers take additional st
 To add important static notes that will appear on each new ticket to help the support team with context, review the [support handbook](/handbook/support/internal-support/#i-want-to-add-important-information-about-the-organizationuser) to request this be attached to the customer's Zendesk organization.
 
 ### Steps for the CSM to take to add support users:
-1. Collect a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
-1. Add these contacts as a "Contact" on the account in Salesforce.
-1. Advise the customer to have those people [create an account on the support portal](https://about.gitlab.com/support/portal/#first-time-reaching-support)
+1. Identfiy the sold-to email for that account via SFDC
+1. Send an email to the sold-to email to follow the procedures outlined in [Managing Support Contacts](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts)
 
-Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resolution.
+Users who aren't associated with their organization will not be able to access GitLab Support
 
 ## Support Ticket Best Practice
 
