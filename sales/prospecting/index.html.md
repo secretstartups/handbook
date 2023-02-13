@@ -39,7 +39,7 @@ _How to determine your target?_ A general rule of thumb is to plan to create 3.5
 
 Working backwards from your target, you'll be able to calculate how many accounts and opportunities you need to be successful. When looking at your target list, make sure you have a mix of those who are likely to buy now and those who may take a year or longer. Strategic partnerships take time so you need to diversify both your list and your outreach.
 
-Work with your [Sales Development team member](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-sales) to: 
+Work with your [Sales Development team member](https://about.gitlab.com/handbook/marketing/sales-development/#working-with-sales) to: 
 - Get input on your territory plan and how that maps to their activities.
 - Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/).
 - Develop your approach and identify the right messaging.

@@ -40,7 +40,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 - Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
 - Schedule discovery call with AE or SAL
-- For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos) criteria.
+- For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos) criteria.
 - SDR schedules call, sends invites, creates an event on the account object, names the event: GitLab Introductory Meeting - {{Account Name}}. - 
 - Input the next step date to highlight when the meeting is set for. Once the invite is accepted by both parties the opportunity ownership will be transferred to the AE/SAL.
 - After the discovery conversation and once the sales team has validated that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE will move the opportunity to the next stage (Stage 1) and the Amount field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the Sales Accepted Date field on the opportunity record.

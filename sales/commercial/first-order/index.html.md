@@ -111,11 +111,11 @@ Collaboration with Field Marketing helps to speed up outbound efforts by changin
 
 ### SDR/BDR Team
 
-The BDR and SDR team are responsible for pre-qualifying leads and setting meetings (IQM’s) for the First Order team. [BDR’s](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#sales-development-representatives-sdrs---inbound-focused)  are focused on outbound while [SDR’s](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#sales-development-representatives-sdrs---inbound-focused) are responsible for the inbound lead flow. It’s important to understand how to collaborate with both teams: 
+The BDR and SDR team are responsible for pre-qualifying leads and setting meetings (IQM’s) for the First Order team. [BDR’s](https://about.gitlab.com/handbook/marketing/sales-development/#sales-development-representatives-sdrs---inbound-focused)  are focused on outbound while [SDR’s](https://about.gitlab.com/handbook/marketing/sales-development/#sales-development-representatives-sdrs---inbound-focused) are responsible for the inbound lead flow. It’s important to understand how to collaborate with both teams: 
 
 #### BDR's
 
-1. Get yourself familiar with the [outbound responsibilities](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#outbound-workflow) of the BDR team and their way of working
+1. Get yourself familiar with the [outbound responsibilities](https://about.gitlab.com/handbook/marketing/sales-development/#outbound-workflow) of the BDR team and their way of working
 1. Set up time with your aligned BDR and discuss expectations before starting to work together. Discuss how the BDR can help you succeed and understand how you can help the BDR to succeed. 
 1. Schedule a weekly or bi-weekly cadence with your BDR to strategize outbound efforts for your territory. During this meeting discuss: 
     *  Which accounts to go after and why. Select X number of accounts that match with what BDR’s are expected to go after per week
@@ -130,7 +130,7 @@ The BDR and SDR team are responsible for pre-qualifying leads and setting meetin
 
 ### SDR's 
 
-1. Get yourself familiar with the [inbound responsibilities](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#bdr-and-sdr-inbound-workflow--process) of the SDR team and their way of working
+1. Get yourself familiar with the [inbound responsibilities](https://about.gitlab.com/handbook/marketing/sales-development/#bdr-and-sdr-inbound-workflow--process) of the SDR team and their way of working
 1. FO AEs are not meant to be working leads. This is why it is critical to be aware of incoming leads your SDRs are receiving for your territory and work effectively and together to drive conversations with leads
 2. The SDR team works round-robin which means you will work with all the SDR’s in your region. It’s recommended to set up a coffee chat with all of them so you know which SDR’s you’re going to collaborate with
 3. SDR’s don’t have visibility into accounts that are important to you. That’s why it’s recommended to create visibility into the leads that are coming in for your own territory. 
