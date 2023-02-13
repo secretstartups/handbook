@@ -213,7 +213,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 *  **Short answer**: Coming soon
 *  **Context video**: Coming soon
-*  **Learn more**: Check out the [JFrog Artifactory vs. GitLab comparison](/devops-tools/jfrog-vs-gitlab/)
+*  **Learn more**: Check out the [JFrog Artifactory vs. GitLab comparison](/competition/jfrog/)
 
 
 ### Secure

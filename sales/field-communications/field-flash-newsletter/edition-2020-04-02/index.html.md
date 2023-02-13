@@ -50,7 +50,7 @@ New case study alert for a company that we all know and love – Chorus. Read fo
 
 Ever wonder what happens to the command plan after the deal is signed? Check out this model success plan from Jamie Reid (CSM), Ken KcKnight (SA), and Joe Miklos (SAL) to see how that data lives on post-sale to determine a customer’s positive business outcomes and the plan for how GitLab will help them get there. [Check it Out -->](https://docs.google.com/document/d/1SG3-iMWbw5sieC5AHzu8jtgccGS9cVeV7TwQfxfmB_E/edit#)
 
-There's a notable update to the [GitHub comparison page](https://about.gitlab.com/devops-tools/github-vs-gitlab/) that highlights GitHub Enterprise challenges in scaling, HA, and ZeroDowntime upgrades and contrasts how GitLab delivers those requirements. Also, check out these shiny new comparison pages:
+There's a notable update to the [GitHub comparison page](https://about.gitlab.com/competition/github/) that highlights GitHub Enterprise challenges in scaling, HA, and ZeroDowntime upgrades and contrasts how GitLab delivers those requirements. Also, check out these shiny new comparison pages:
 - Buildkite: A continuous integration tool thats main value proposition is the ability to run multiple parallel tests that shorten time to deployment.
 - LaunchDarkly: A feature delivery and feature management service offering.
 

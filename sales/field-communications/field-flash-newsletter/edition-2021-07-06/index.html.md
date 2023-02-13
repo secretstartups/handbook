@@ -23,7 +23,7 @@ https://gitlab.edcast.com/insights/rahim (GitLab internal only)
 ### New and Noteworthy Resources 📓
 ICYMI, check out this 6-min video from our Product team demonstrating where the GitLab product is headed over the next 3 years and why a single DevOps Platform approach is the key to current and future success. [Watch Now -->](https://www.youtube.com/watch?v=2By7ipuQk1o)
 
-The Competitive Intelligence team has created two brand new resources to help you compete against Microsoft. [See the DevOps Tools Page -->](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
+The Competitive Intelligence team has created two brand new resources to help you compete against Microsoft. [See the DevOps Tools Page -->](https://about.gitlab.com/competition/github/)
 1. [GitLab vs. Microsoft for Agile Planning](https://docs.google.com/presentation/d/1MREoycGuFj-48watw0ary-Bm9o0wtEaKeYa_ZnpqrQM/edit#slide=id.gdc8eca6747_0_0) 
 1. [Microsoft Competitive Overview](https://docs.google.com/presentation/d/1-XJif6GwOl9coah5YQjOr6APM4fSGNpScOAtQJbpnWg/edit#slide=id.gdc8eca6747_0_0) 
 

@@ -27,7 +27,7 @@ Check out a Chorus recording of the [H-E-B POV Retro call](https://chorus.ai/con
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
 ### New and Noteworthy Resources 📓
-The GitLab vs. GitHub decision kit has been updated to include [GitLab SAST vs. GitHub Code Scanning](https://about.gitlab.com/devops-tools/github-vs-gitlab/) and [GitLab vs. GitHub Container Registry](https://about.gitlab.com/devops-tools/github-vs-gitlab/) comparison tables. Also, the CircleCI Decision Kit now includes CircleCI product gaps identified by their user community. [See all Competitive Content -->](https://about.gitlab.com/competition/)
+The GitLab vs. GitHub decision kit has been updated to include [GitLab SAST vs. GitHub Code Scanning](https://about.gitlab.com/competition/github/) and [GitLab vs. GitHub Container Registry](https://about.gitlab.com/competition/github/) comparison tables. Also, the CircleCI Decision Kit now includes CircleCI product gaps identified by their user community. [See all Competitive Content -->](https://about.gitlab.com/competition/)
 
 Developer-led (consumed, influenced, purchased) products account for $40B in annual revenues, and the market is growing at 19%. Check out more meaningful insights in this full analysis of the developer-led landscape. [Read More -->](https://tylerjewell.substack.com/p/c7c150f4-1f04-453f-a97f-0902ee782416)
 
