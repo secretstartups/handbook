@@ -28,14 +28,16 @@ Six key topics were identified in GitLab’s materiality assessment. These key t
 GitLab’s current key topics are:
 
 ### Environment
+
 | Key Topic                                       | Drivers of Key Topic                                      |
-|-------------------------------------------------|-----------------------------------------------------------|
+| ----------------------------------------------- | --------------------------------------------------------- |
 | **Climate action and greenhouse gas emissions** | - Measurement and reduction of scope 1, 2 and 3 emissions |
 |                                                 | - Greenhouse gas reduction targets, goals and commitments |
 
 ### Social
+
 | Key Topic                              | Drivers of Key Topic                                        |
-|----------------------------------------|-------------------------------------------------------------|
+| -------------------------------------- | ----------------------------------------------------------- |
 | **Diversity, inclusion and belonging** | - Diverse hiring and recruitment of underrepresented groups |
 |                                        | - Culture of DIB (events, TMRGs, courses, etc.)             |
 |                                        | - Pay and promotion equity and inclusive benefits           |
@@ -50,8 +52,9 @@ GitLab’s current key topics are:
 |                                        | - Comp and benefits                                         |
 
 ### Governance
+
 | Key Topic                           | Drivers of Key Topic                                                 |
-|-------------------------------------|----------------------------------------------------------------------|
+| ----------------------------------- | -------------------------------------------------------------------- |
 | **Cybersecurity and data privacy**  | - Data, system and network breaches                                  |
 |                                     | - Monitoring of emerging threats                                     |
 |                                     | - Information security training                                      |
@@ -68,7 +71,6 @@ GitLab’s current key topics are:
 |                                     | - Human rights issues from product use                               |
 |                                     | - Environmental impact considerations for product                    |
 |                                     | - Data processing and storage                                        |
-
 
 ## Our Progress
 
