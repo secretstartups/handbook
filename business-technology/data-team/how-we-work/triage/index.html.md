@@ -57,16 +57,16 @@ Steps to uplevel triaging process:
 | ---------     | -----------------    | -------| -------|---------| ----------|----------|--------|
 | `@GTMAnalyticsTriage` | Sales Strategy and Analytics |	|	`@melia` |	|	`@Noel Figuera` 	|	| |
 |	                  | Marketing Strategy and Performance | |		|	`@David Egan` |	|	`@rkohnke`	| |
-|	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	`@Jay Zhang` |	`@Kelly Chen` |	`@charan karthikeyan` |	`@Jay Stemmer` |
+|	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	 |	 |	`@charan karthikeyan` |	`@Jay Stemmer` |
 |	                  | GTM Data Fusion |	| `@Peter Empey` |	 | `@Michelle Cooper`	| 	`@Jean Peguero`	 |  |
-| `@R&DAnalyticsTriage` | Product Data Insights |  | `@Matthew Petersen` `@Carolyn Braza` | `@Dave Peterson` | `@Emma Neuberger` | `@Nicole Galang` | `@Neil Raisinghani` |
-|	                  | R&D Data Fusion	|	| 	| `@Tim Poole`	| `@Chris Sharp` 	| `@snalamaru` (`@lisvinueza` back up) | `@Miles Russell`	 |
+| `@R&DAnalyticsTriage` | Product Data Insights |  | `@Matthew Petersen` `@Carolyn Braza` | `@Dave Peterson` | `@Emma Neuberger` | `@Nicole Hervas` | `@Neil Raisinghani` |
+|	                  | R&D Data Fusion	|	| 	| 	| `@Chris Sharp` 	| `@snalamaru` (`@lisvinueza` back up) | `@Miles Russell`	 |
 | `@PeopleAnalyticsTriage` | People Analytics	|	|	|	|	| `@Adrian Pérez` | |	
-|	                  | G&A Data Fusion |	| `@Peter Empey` |	 	| | | |		
+|	                  | G&A Data Fusion |	| `@Peter Empey` |	`@lisvinueza` 	| | | |		
 | `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 | `@Raul Rendon` | |  `@lily` |	
-|	                  | Engineering Data Fusion |		| `@Peter Empey` 	| 	|		|     |     |
+|	                  | Engineering Data Fusion |		| `@Peter Empey` 	| `@lisvinueza`	|		|     |     |
 | `@DataPlatformTriage` | Data Platform | | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) |
-| `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Ken` |	`@Ken` 	| `@Ken` | |	
+| `@DataCollaborationTriage` | Data Collaboration |	 |	 |	 |	 	| | |	
 
 #### Data Platform weekly rotation schedule
 
