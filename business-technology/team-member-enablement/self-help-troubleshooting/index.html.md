@@ -130,6 +130,11 @@ If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/busine
 
 - We will send you an email which will contain install instructions for Drivestrike
 
+#### Transferring of data to new mac
+
+- We do NOT recommend the use of Migration Assistant to transfer your data to your new mac as this will break the connectivity of JAMF
+- Please use GitLab's Google Drive function to back up what is needed and then you're able to download this onto your new mac
+
 ## Self-Help and Troubleshooting Tips
 
 This section should provide some quick and easy troubleshooting tips anyone can do to possibly remedy an IT issue before reaching out.
