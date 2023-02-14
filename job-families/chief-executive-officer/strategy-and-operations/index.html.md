@@ -45,7 +45,7 @@ The Senior Manager Strategy and Operations is a [grade 7](/handbook/total-reward
 
 ### Staff Strategy and Operations 
 
-The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
+The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) or another designated individual within the Strategy and Operations Team.
 
 #### Staff Strategy and Operations Job Grade
 
@@ -110,7 +110,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 #### Director of Strategy and Operations Responsibilities
 
-- Responsible for the success of 2-3 high priority, cross-functional initiatives at any given moment. For example, market entries, pricing and packaging projects, important communications, and organizational realignments
+- Responsible for the success of 1-3 high priority, cross-functional initiatives at any given moment. For example, market entries, pricing and packaging projects, important communications, and organizational realignments
 - Fill in gaps in other parts of the business when there are short-term vacancies or a lack of relevant skills or capacity
 - Collaborate cross-functionally with senior counterparts throughout the business 
 - Identify opportunities to improve business efficiency and make changes to improve the business
@@ -133,6 +133,51 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Experience at a strategy consulting firm and/or working across multiple functions at a fast growing company
 - 8+ years of work experience. Ideally, 4+ years experience in high growth startup environments
 - Familiarity with the industry is a plus
+- Ability to use GitLab
+
+### Senior Director of Strategy and Operations 
+
+The Senior Director of Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
+
+#### Senior Director of Strategy and Operations Job Grade
+
+The Senior Director of Strategy and Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
+#### Senior Director of Strategy and Operations Responsibilities
+
+- Owns initiatives of great importance to the business and consistently delivers great results
+- Act as a [DRI](/handbook/people-group/directly-responsible-individuals/) for top priority initiatives. Play a leadership role in achieving desired business outcomes for projects of high importance to the business
+- Exercise great autonomy in guiding a project, including leading decision making. This means both having good discretion in making decisions and escalating and involving others, as appropriate
+- Enter projects of great complexity at any point (scoping, alignment, execution, etc.) and can successfully align key stakeholders and steward them toward results
+- Can lead when projects have limited scoping and asks are abstract
+- Fill in gaps in other parts of the business when there are short-term vacancies or a lack of relevant skills or capacity
+- Collaborate cross-functionally with senior counterparts throughout the business 
+- Identify opportunities to improve business efficiency and make changes to improve the business
+- Prepare materials (documents, decks) for the Chief of Staff to the CEO and the CEO
+- Translate practical needs into technical and/or business requirements
+- Execute on projects and ongoing assignments for the Chief of Staff to the CEO and/or CEO
+- Demonstrate GitLab values in all work
+
+#### Senior Director of Strategy and Operations Requirements
+
+- Evidences the ability to seemlessly align cross-functional stakeholders in important initiatives with tradeoffs and 
+dependencies to achieve project goals 
+- Can directly partner with the CEO and other E-Group leaders on projects of importance. Proactively flags areas that need input, and can proactively lead projects
+- Exercises great discretion. Knows when to ask for input, how to effectively work with other team members, and is aware of business sensitivities
+- Can fill in for the Chief of Staff to the CEO on an interim basis
+- Track record of leadership independent of role
+- Strategic and operational work experience
+- Can build strong partnership relationships with other Director+ leaders
+- Detail-oriented forward thinker
+- Excellent written, verbal, and technical communicator
+- Experience making data-driven decisions
+- Able to manage multiple tasks with competing timelines and deliverables
+- History of working cross-functionally to move projects forward
+- Evidence of success in leading key business initiatives. Demonstrated ability to take a project from ideation through to implementation
+- Is viewed as a role model for how to work within GitLab
+- Experience at a strategy consulting firm and/or working across multiple functions at a fast growing company
+- 8+ years of work experience. Ideally, 4+ years experience in high growth startup environments
+- Some familiarity with DevOps
 - Ability to use GitLab
 
 ### Specialties
