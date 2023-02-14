@@ -72,6 +72,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | DRI | Directly Responsible Individual | 
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
+| IC | Individual Contributor | 
 | IPO | Initial Public Offering | 
 | LGTM | Looks good to (me/merge)! |
 | KPIs| Key Performance Indicators |
