@@ -133,12 +133,43 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
     * For Sponsored Events: Get the GitLab brand in front of 15% of the event audience. 40,000 person event we would hope to get 4,000+ leads (10%) and 5% general awareness and visibility with additional branding and activities surrounding participation.
     * Human touches- Tracked by leads collected, social interactions, number of opportunities created, referrals, current customers met, and quality time spent on each interaction.
     * Audience Minimum Requirements- volume, relevance (our buyer persona, thought leaders, contributors), reach (thought leaders?), and duration of user/ buyer journey considered.
-* ROI
+* **ROI**
     * Work closely with Integrated Marketing colleagues to ensure events are driving results and touching the right audience.
     * Exceed minimum threshold of 8X ROI for any events that also have a demand generation.
     * Aim to keep the cost per lead for a live event around $100.
 * Thought Leadership and Education
 * Corporate Events Team OKRs are algined quarterly to the Integrated Marketing (therefore the CMO) OKRs. 
+
+## Third Party Sponsored Events
+
+### Third party sponsored events speaking session & CFP process
+
+**Corporate Events speaking session & CFP process references:**
+* [Corporate Events FY 24 Sponsored Events Speaking Session + CFP Tracker](https://docs.google.com/spreadsheets/d/1zX5gP_YI0wbn6791Ho6Qmvensy_dZEGaN7l1KpgIy4k/edit?usp=sharing)
+* [FY24 Sponsored Events & Epics](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3526)
+* [FY24 Dev Evangelism Event Strategy](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w)
+* [Developer Evangelism CFPs](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/cfps/)
+* [Developer Evangelism CFP Workflow](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/workflow/#cfp-workflow)
+
+### Process
+
+**Goal:** ensure that GitLab’s presence is widely recognized at all sponsored events. 
+
+Each fiscal year the Corporate Events Content Manager (ECM) will created a Sponsored Events Speaking Session + CFP Tracker that keeps track of whether our sponsorship includes a speaking session and if not ensuring that, if possible, our Developer Evangelism team is submitting to present in the event's CFP. This tracker will be linked in the [FY24 Sponsored Events & Epics](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3526).
+
+#### If our sponsorship **does include** speaking session
+
+If our sponsorship does include a speaking session, the sponsored events manager will create an issue with all pertinent information provided by the event. They will tag the ECM and all pertinent parties that will assist in choosing a session topic into the issue. 
+
+Once a session topic is chosen, the sponsored events manager will hand off to the ECM and they will ensure that that all deadlines are met and content is submitted per the events requirements, content is approved by legal if needed, social cards and social copy is made and provided to speakers, and calendar hold is sent to the speakers so they know where they are going on the day of their session.
+
+#### If our sponsorship **does not include** speaking session
+
+If our sponsorship does not include a speaking session, the ECM will ensure that our Developer Evangelism team has it on their radar via the [FY24 Dev Evangelism Event Strategy](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w) to submit during the event’s open CFP.
+
+If a session is chosen by an event for a CFP that was submitted, the sponsored events manager will create an issue with all pertinent information provided by the event. They will tag the ECM and all pertinent parties that will assist in creating the presentation into the issue. The sponsored events manager will hand off to the ECM and they will ensure that that all deadlines are met and content is submitted per the events requirements, content is approved by legal if needed, social cards and social copy is made and provided to speakers, and calendar hold is sent to the speakers so they know where they are going on the day of their session.
+
+If the event we are sponsoring is not on the Developer Evangelism team's radar to submit the CFP the ECM will start the conversation with the DE team via a comment on the [strategy issue](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w).
 
 ### Tiering of 3rd party conferences 
 * Tier 1 - 
