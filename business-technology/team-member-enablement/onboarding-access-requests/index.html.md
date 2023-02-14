@@ -221,7 +221,7 @@ Laptops being returned to the company that are no longer fit for service will be
 
 Laptops that are being returned that are still fit for service (less then 1 year old) will be warehoused with AnythingIT and repurposed as needed. 
 
-We no longer encourage Apple's Trade-In program, any laptop being returned regardless of condition should be sent to Anything IT.
+We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to AnythingIT.
 
 ## Laptop Donations 
 
