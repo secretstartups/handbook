@@ -1,9 +1,0 @@
-{{ $title := default "Raw Data (JSON)" (.Get "title") }}
-{{ $investment := partial "investment/data" . }}
-
-<p>
-  <details>
-    <summary>{{ $title }}</summary>
-    {{- transform.Highlight ($investment | jsonify (dict "indent" "  ")) "json" -}}
-  </details>
-</p>

@@ -31,10 +31,10 @@ params:
         icon: "fab fa-slack"
         desc: "Discuss GitLab Handbook on Slack"
     handbooks:
-      - name: "Legacy Handbook"
+      - name: "Current Public Handbook"
         url: "https://about.gitlab.com/handbook/"
         icon: "fa fa-book"
-        desc: "GitLab Public Handbook"
+        desc: "The current GitLab Public Handbook"
 
 menu:
   main:
@@ -51,7 +51,7 @@ menu:
     #   url: https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
     #   pre: '<i class="fa fa-code"></i>'
     - weight: 30
-      name: Legacy Handbook
+      name: Current Public Handbook
       url: https://about.gitlab.com/handbook/
       pre: '<i class="fa fa-book"></i>'
 

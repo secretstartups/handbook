@@ -1,5 +1,0 @@
-{{ $color := .color | default "primary" }}
-<div class="alert alert-{{ $color }}" role="alert">
-{{ with .title }}<h4 class="alert-heading">{{ . | safeHTML }}</h4>{{ end }}
-{{ .description | markdownify }}
-</div>
