@@ -51,7 +51,6 @@ Once we have received one of the verification requirements, we can proceed to ad
 #### Important
 
 Any time a CustomersDot customer is edited via the Admin, the Zuora account contact associated with the customer is updated. In case there is no Zuora contact with the same email, the Zuora account `Sold To` address is replaced. When adding additional subscription managers requires to edit the customer, it is important to press `save` on the original contact LAST, to ensure they remain the primary contact on their Zuora account.
-
 Ensure alignment between the customer and the Zuora account:
 
 1. Navigate to the provided Zuora account and check the value of `SSPChannel`. If it is marked as **Reseller**:
@@ -62,6 +61,8 @@ Ensure alignment between the customer and the Zuora account:
        1. Click `Save`.
        1. Locate the original `Sold To` contact in CustomersDot and click Save on the `Edit` page to ensure this contact remains the Sold To.
 
+**Note:** Make sure you tell the customer that they cannot log in to the account because they purchased through a reseller.
+
 Set the customer as a subscription management contact by creating a billing account membership:
 
 1. Locate the CustomersDot billing account for the provided Zuora account
@@ -70,18 +71,7 @@ Set the customer as a subscription management contact by creating a billing acco
 1. Select the proper customer and CustomersDot billing account for the new subscription management request
 1. Click `Save`
 
-
-**Note:** Make sure you tell the customer that they cannot log in to the account because they purchased through a reseller.
-
-
-1. Locate the `Sold to` contact in CustomersDot and navigate to the `Edit` page
-1. Copy the `Zuora ID` and `Salesforce Account ID` from the existing account to the new account
-1. Navigate to the Zuora Customer Account and check the value of `SSPChannel`. If it is marked as **Reseller**, ensure the `Login activated` checkbox is **unchecked**.
-**Note:** Make sure you tell the customer that they cannot log in to the account because they purchased through a reseller.
-1. Click `Save`
-1. Return to the original `Sold To` contact in CustomersDot and click Save on the `Edit` page to ensure this contact remains the Sold To.
-
-
+**Note:** If a customer already has a billing account membership, it is not currently possible to create a second billing account membership for this customer.
 
 ## Change subscription management contact workflow
 
