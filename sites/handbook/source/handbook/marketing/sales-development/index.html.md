@@ -10,11 +10,7 @@ description: "As a Sales Development Representative (SDR), you focus on outreach
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-<<<<<<< HEAD:sites/handbook/source/handbook/marketing/revenue-marketing/sdr/index.html.md
-As a Sales Development Representative (SDR) or Business Development Representative (BDR) in the Sales Development Organization you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal [tools](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/sales-development-tools/) and processes. This handbook page will act as a guide to those topics as well as general information about the Sales Development Organization. 
-=======
-As a Business Development Associate (BDA), Sales Development Representative (SDR), or Business Development Representative (BDR), senior BDRs, in the Sales Development Organization you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal [tools](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/) and processes. This handbook page will act as a guide to those topics as well as general information about the Sales Development Organization.
->>>>>>> 7346a8480b7 (Move /revenue-marketing/sdr to /sales-development handbook):sites/handbook/source/handbook/marketing/sales-development/index.html.md
+As a Sales Development Representative (SDR) or Business Development Representative (BDR) in the Sales Development Organization you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal [tools](/handbook/marketing/sales-development/sales-development-tools/) and processes. This handbook page will act as a guide to those topics as well as general information about the Sales Development Organization.
 
 ## Reaching the Sales Development Organization (internally)
 
@@ -23,7 +19,7 @@ As a Business Development Associate (BDA), Sales Development Representative (SDR
 * **Main Channel - (Global Manager - Jean-Baptiste "JB" Larramendy)** = [`#sales_dev_global`](https://gitlab.slack.com/messages/C2V1KLY0Z)
     *  Sales Dev related shoutouts, questions, concerns, fun related invites
 * **Announcements - (SDR Ops/Enablement - Chris Wang)** = [`#sales_dev_fyi`](https://app.slack.com/client/T02592416/C011P828JRL)
-    * Announcements and Reminders that involve multiple teams or are of high importance . More information can be [found here](https://about.gitlab.com/handbook/marketing/sales-development/#sales-development-org-announcement-process)
+    * Announcements and Reminders that involve multiple teams or are of high importance . More information can be [found here](/handbook/marketing/sales-development/#sales-development-org-announcement-process)
     * It is requested  when a post in the Sales Dev FYI channel pertains to you that you leave a 👀 emoiji on the post to let management know that you read it.
 
 **Global**
@@ -41,20 +37,12 @@ As a Business Development Associate (BDA), Sales Development Representative (SDR
 
 
 **EMEA**
-<<<<<<< HEAD:sites/handbook/source/handbook/marketing/revenue-marketing/sdr/index.html.md
-* **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)   
-* **SDR EMEA - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)   
+* **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
+* **SDR EMEA - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR COMM EMEA MM - (Manager - Panos Rodopoulos)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
 * **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
 * **BDR ENTG EMEA NEUR META - (Manager - Miguel Nunes)** = [`#bdr_entg_emea_neur_meta`](https://gitlab.slack.com/archives/C04NGL7H4JG)
 * **BDR ENTG EMEA SEUR - (Manager - Tati Fernandez)** = [`#bdr_entg_emea_seur`](https://gitlab.slack.com/archives/C04NE65S6AE)
-=======
-* **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
-* **SDR EMEA - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR Mid-Market - (Manager - Panos Rodopoulos)** = [`#bdr_emea_mm`](https://gitlab.slack.com/messages/CM0BYV7CM)
-* **BDR Enterprise Expand - (Manager - Tati Fernandez)** = [`#bdr_emea_expand`](https://gitlab.slack.com/archives/C01LHENNLKD)
-* **BDR Enterprise Land - (Manager - Miguel Nunes)** = [`#bdr_emea_land`](https://gitlab.slack.com/archives/C01M76N9NTA)
->>>>>>> 7346a8480b7 (Move /revenue-marketing/sdr to /sales-development handbook):sites/handbook/source/handbook/marketing/sales-development/index.html.md
 
 **APAC**
 * **SDR APAC - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
@@ -97,7 +85,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 | Sales Development Resources    |  Description       |
 | :---- | :---- |
-|  [Territory Alignment](https://about.gitlab.com/handbook/marketing/sales-development/#sdr-team-overview)| *Currently the single source of truth for BDR and SDR/Territory Alignment, Public Sector BDR territory [**here**](https://about.gitlab.com/handbook/marketing/sales-development/#pubsec-amer-sdrs)* |
+|  [Territory Alignment](/handbook/marketing/sales-development/#expand-and-territory-alignments)| *Currently the single source of truth for BDR and SDR/Territory Alignment, Public Sector BDR territory* |
 |  [Enterprise BDR Outbound Process Framework](https://drive.google.com/drive/search?q=%20Outbound%20Process%20Framework%22%40gitlab.com) | *Outbound process framework for the Enterprise BDR team. Note: These vary by team and geo*|
 |  [Sales Development Enablement Videos](https://www.youtube.com/playlist?list=PL05JrBw4t0KrjbznnEEiCtxUfT8-OV6X8)| *Enablement videos and how-tos for BDRs and SDRs* |
 |  [Outreach sequence naming convention](https://docs.google.com/spreadsheets/d/12YXwIE126g0rmmNi7QYy2s0SewIV-2JWCr9YUPcqfaQ/edit#gid=0)| * BDRs and SDRs should leverage the naming convention structure and speak to their team about whether the sequence should is approved to be a part of their team's collection of sequences
@@ -206,8 +194,8 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 
 ## Segmentation of BDR Team
-The Business Development team aligns to the [Commercial](/handbook/sales/commercial/),Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is  Zoominfo.
-* [Sales segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+The Business Development team aligns to the [Commercial](/handbook/sales/commercial/),Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is  Zoominfo.
+* [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 * Sales territories(Link to Come)
 * [Determining if a lead is in your territory](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
 * [BDR and Sales alignment](/handbook/marketing/sales-development/sales-sdr-alignment/) - working with your SAL or AE!
@@ -218,43 +206,43 @@ We hold our Sales Development Org accountable to three pillars:
 
 - **Uphold daily activity metrics**, in terms of sequencing new leads, researching outbound accounts and actioning sequence steps in time.
 
-    - MQLs to be sequenced within expected [activity metrics](https://about.gitlab.com/handbook/marketing/sales-development/#lead-views).
+    - MQLs to be sequenced within expected [activity metrics](/handbook/marketing/sales-development/#bdr-lead-views).
 
-    - Work lead records within Salesforce by leveraging [relevant sequence libraries in Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#collections).
+    - Work lead records within Salesforce by leveraging [relevant sequence libraries in Outreach](/handbook/marketing/marketing-operations/outreach/#collections).
 
 
     - Use our Business Intelligence platforms like ZoomInfo or LinkedIn to verify the validity of inbound lead datapoints. Take appropriate actions to clean up and assure accuracy and consistency of SFDC/Outreach data. Add any additional information sourced from your research, or correct wrong data altogether.
 
-    - Maintain a sense of ownership of data integrity in [Salesforce](https://about.gitlab.com/handbook/sales/field-operations/sfdc/) and [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#outreach-merge-and-delete). Clean up and assure accuracy and consistency of data. Add any additional information gathered from our Business Intelligence platforms, ZoomInfo or LinkedIn for example. about a LEAD, CONTACT, or ACCOUNT from our data source Zoominfo where you can into SFDC.
+    - Maintain a sense of ownership of data integrity in [Salesforce](/handbook/sales/field-operations/sfdc/) and [Outreach](/handbook/marketing/marketing-operations/outreach/#outreach-merge-and-delete). Clean up and assure accuracy and consistency of data. Add any additional information gathered from our Business Intelligence platforms, ZoomInfo or LinkedIn for example. about a LEAD, CONTACT, or ACCOUNT from our data source Zoominfo where you can into SFDC.
 
-    - [Sequence steps](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#activity) to be actioned within the same day of them being due. Move steps to a further date only because of national holidays affecting outreach (ie. Christmas day)
+    - [Sequence steps](/handbook/marketing/marketing-operations/outreach/#activity) to be actioned within the same day of them being due. Move steps to a further date only because of national holidays affecting outreach (ie. Christmas day)
 
-    - Maintain SFDC data integrity by [following the outbound workflow](https://about.gitlab.com/handbook/marketing/sales-development/#outbound-workflow) in researching and prospecting accounts.
+    - Maintain SFDC data integrity by [following the outbound workflow](/handbook/marketing/sales-development/#outbound-workflow) in researching and prospecting accounts.
 
 
-    - Maintain [cross-functional relationships](https://about.gitlab.com/handbook/marketing/sales-development/#working-with-sales-1) in terms of outbound account planning. Attend each initial qualifying meeting (IQM) with the AE/SAL you work with. Document accurate up-to-date notes in SFDC, including adding the Contacts you have been in communication with and attaching all corresponding connects and attempts to the Contact record. Communicating with the AE/SAL teams before and after the meeting to ensure accurate briefs are provided and tangible mutually agreed-upon next steps are set.
+    - Maintain [cross-functional relationships](/handbook/marketing/sales-development/#working-with-sales-1) in terms of outbound account planning. Attend each initial qualifying meeting (IQM) with the AE/SAL you work with. Document accurate up-to-date notes in SFDC, including adding the Contacts you have been in communication with and attaching all corresponding connects and attempts to the Contact record. Communicating with the AE/SAL teams before and after the meeting to ensure accurate briefs are provided and tangible mutually agreed-upon next steps are set.
 
 - **Displaying business and sales accumen** in terms of appropriate use of sales methodologies and strategic preparation prior to each touchpoint with prospects.
 
     - Display business accumen and sales skills in personalizing inbound/outbound leads, in accordance with our [CoM email writing principles](https://docs.google.com/document/d/1-DF6bEtS9QF9idqBcK77RiLL04CKiFMuc0LDEM5N6RA/edit).
 
-    - Display business accumen and sales skills is preparing for cold-calls, in accordance with our [CoM cold-calling principles](https://about.gitlab.com/handbook/marketing/sales-development/#cold-calling-checklist)
+    - Display business accumen and sales skills is preparing for cold-calls, in accordance with our [CoM cold-calling principles](/handbook/marketing/sales-development/#cold-calling-checklist)
 
-    - Display business accumen and sales skills is preparing for scheduled discovery calls, in accordance with our [CoM sales training](https://about.gitlab.com/handbook/sales/command-of-the-message/)
+    - Display business accumen and sales skills is preparing for scheduled discovery calls, in accordance with our [CoM sales training](/handbook/sales/command-of-the-message/)
 
     - Outbound accounts to be added in a weekly cadence, according with the expectations set within each regional team, in terms of outbound cycle (monthly, weekly) and volume of accounts.
 
 - **Maintain cross-functional relationships**, with the relevant stakeholders of your territory or segment, while enforcing the principles outlined above.
 
-    - [Collaborate with the Sales team](https://about.gitlab.com/handbook/marketing/sales-development/#working-with-sales) in terms of [account planning](https://about.gitlab.com/handbook/sales/account-planning/)
+    - [Collaborate with the Sales team](/handbook/marketing/sales-development/#working-with-sales) in terms of [account planning](/handbook/sales/account-planning/)
 
-    - [Collaborate with the Field Marketing team](https://about.gitlab.com/handbook/marketing/sales-development/#bdr-event-promotion-and-sales-dev-org-follow-up) in terms of event outreach
+    - [Collaborate with the Field Marketing team](/handbook/marketing/sales-development/#bdr-event-promotion-and-sales-dev-org-follow-up) in terms of event outreach
 
 
 ## BDR and SDR Compensation and Quota
 
 Quota is made up of the following depending on [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation):
-- [Sales Accepted Opportunities (SAOs)](https://about.gitlab.com/handbook/marketing/sales-development/sales-sdr-alignment/#goals--targets)
+- [Sales Accepted Opportunities (SAOs)](/handbook/marketing/sales-development/sales-sdr-alignment/#goals--targets)
 - [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
 - 2-way communication must be documented on the Contact in the Opportunity to receive credit. Opportunities missing this documentation will not be considered for compensation and will not retire quota.
 - For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company.
@@ -352,12 +340,12 @@ While the below measurements do not impact your quota attainment, they are monit
     * Completion of BDR Q1-Q4 Tanuki Techs
         * NOTE: All promotions require a formal application + interview. Performance and adherence to our values will guarantee an interview but the BDR will have to demonstrate that they are the best candidate during the interview process. Factors such as interview performance, headcount, language requirements can influence promotion timelines.
 
-**Some examples of potential next roles after the Sales Dev Org are [Inside Sales Rep](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/), [SMB Account Executive](https://about.gitlab.com/job-families/sales/smb-customer-advocate/), [Associate Solutions Architect](https://about.gitlab.com/job-families/sales/solutions-architect/), [Customer Success Manager](https://about.gitlab.com/handbook/customer-success/csm/), and many more!**
+**Some examples of potential next roles after the Sales Dev Org are [Inside Sales Rep](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/), [SMB Account Executive](https://about.gitlab.com/job-families/sales/smb-customer-advocate/), [Associate Solutions Architect](https://about.gitlab.com/job-families/sales/solutions-architect/), [Customer Success Manager](/handbook/customer-success/csm/), and many more!**
 
 #### Visualization of Sales Development Career Path
 
 
-![Sales Dev Career Path Visual](SalesDevCareer2.png)
+![Sales Dev Career Path Visual](/images/handbook/marketing/sales-development/SalesDevCareer2.png)
 
 
 
@@ -377,7 +365,7 @@ In short, working at GitLab means that if you start the day early you can take a
 
 ## Sales Development Tools
 
-You can find a detailed breakdown of the Sales Development Organizations tools and best practices on [this page of the handbook](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/)
+You can find a detailed breakdown of the Sales Development Organizations tools and best practices on [this page of the handbook](/handbook/marketing/sales-development/sales-development-tools/)
 
 ## BDR and SDR Inbound Workflow & Process
 As a BDR or SDR, you will be focused on leads - both inbound and outbound. At the highest level, a lead is a person who shows interest in GitLab through inbound lead generation tactics or through outbound prospecting.
@@ -392,7 +380,7 @@ The GitLab marketing team uses digital channels - social media, email, mobile/we
 #### Inbound Process
 SDRs are responsible for following up with MQLs by reviewing their information, reaching out, and working with them to understand their goals, needs, and problems. BDRs have the same responsibility for MQLs that come from one of their “actively working” accounts. Once you have that information, you can use our [qualification criteria](/handbook/sales/field-operations/gtm-resources/) to determine if this is someone who has strong potential to purchase our product and therefore should be connected with sales for next steps. As you are the connection between Marketing and Sales you want to make sure every lead you pass to the Sales team is as qualified as possible.
 
-These MQLs will show up in your S1 or B1 lead and contact views in Salesforce. The other views, listed [here](https://about.gitlab.com/handbook/marketing/sales-development/#lead-and-contact-views), allow you to see your leads in a categorized way to simplify your workflow. Leads are routed to you and flow into your views via the tool [LeanData](/handbook/marketing/marketing-operations/leandata/) which takes each lead through a series of conditional questions to ensure it goes to the right person. Even though all SDRs leverage the same views, they will only show you leads that have been specifically routed to you. You will be responsible for following up with all of the leads in your MQL views by sequencing them using [Outreach.io](/handbook/marketing/marketing-operations/outreach/). Once sequenced, their lead status will change and they will move from your MQL views allowing you to have an empty view. Managers monitor all views to ensure they are cleared out. If you choose not to work a lead please unqualify it and state your reasons in the lead record.
+These MQLs will show up in your S1 or B1 lead and contact views in Salesforce. The other views, listed [here](/handbook/marketing/sales-development/#lead-and-contact-views), allow you to see your leads in a categorized way to simplify your workflow. Leads are routed to you and flow into your views via the tool [LeanData](/handbook/marketing/marketing-operations/leandata/) which takes each lead through a series of conditional questions to ensure it goes to the right person. Even though all SDRs leverage the same views, they will only show you leads that have been specifically routed to you. You will be responsible for following up with all of the leads in your MQL views by sequencing them using [Outreach.io](/handbook/marketing/marketing-operations/outreach/). Once sequenced, their lead status will change and they will move from your MQL views allowing you to have an empty view. Managers monitor all views to ensure they are cleared out. If you choose not to work a lead please unqualify it and state your reasons in the lead record.
 
 
 ### SDR Lead Routing Levels
@@ -439,13 +427,13 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 
 #### SDR Lead Views
 
-* **S1 View** - [MQL’s,](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring)and "Hot" leads that need to be actioned within 60 minutes (i.e event)s, and Drift conversation leads for tenured SDRs
+* **S1 View** - [MQL’s,](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring)and "Hot" leads that need to be actioned within 60 minutes (i.e event)s, and Drift conversation leads for tenured SDRs
 * **S2 View** - Only leads that are active in a HT touch sequence and have a phone number
 * **S3 View** - Qualifying leads. These are leads that you are actively qualifying in a back and forth conversation either by email or through phone calls.  Each lead needs to either be active in a follow-up sequence, have an active task, or have a future meeting scheduled which can be seen in a future “last activity” date.
 
 #### BDR Lead Views
 
-* **B1 View** - [MQL’s](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and "Hot" leads that need to be actioned within 60 minutes
+* **B1 View** - [MQL’s](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and "Hot" leads that need to be actioned within 60 minutes
 * **B2 View** - This is a view that you will clone in order to see leads associated with “Actively Working” accounts where you are the BDR Assigned. After you clone and modify the name of the view to include your name, you should enter your name into the 1st rule. Save and run the view. Sort by Last Interesting Moment Date to see the most recent. Here you can select which leads you should reach out to as part of your strategy for those account. You'll select the ones you want and change the owner to yourself. These will then show up in your B3 view so that you can easily sequence them.
 * **B3 View** - Needs to be sequenced. They’re leads you chose to move into your name but they have not yet been sequenced.
 * **B4 View** - Active HT sequenced leads that have a phone number - to help with call downs
@@ -493,7 +481,7 @@ BDRs will work these leads.
 ### Duplicate Lead and Contact Videos
 
 * [**Video on How to Merge Leads Together**](https://www.youtube.com/watch?v=Q_EyDQdaLZw&ab_channel=GitLabUnfiltered)
-* [**Video on How to Merge a Lead and a Contact Together**](https://www.youtube.com/watch?v=qHrCyKiNwDQ&ab_channel=GitLabUnfiltered) 
+* [**Video on How to Merge a Lead and a Contact Together**](https://www.youtube.com/watch?v=qHrCyKiNwDQ&ab_channel=GitLabUnfiltered)
 
 
 ## Rules of Engagement Quick Guide
@@ -575,9 +563,9 @@ If the lead is yours to work based on all of the above, sequence them in Outreac
 *  [**Sequence collection**](https://app1a.outreach.io/content-collections): a group of sequences compiled by region
     * [FY24 Global Inbound High Touch Collection](https://app1a.outreach.io/sequences?queryFilters=%5B%7B%22attribute%22%3A%22collection%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%5B%2269%22%5D%7D%5D&sortBy=recent&sortDirection=desc)
     * [FY24 Global Inbound Low Touch Collection](https://app1a.outreach.io/sequences?queryFilters=%5B%7B%22attribute%22%3A%22collection%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%5B%2271%22%5D%7D%5D&sortBy=recent&sortDirection=desc)
-    * [FY24 Inbound Languages Collection](https://app1a.outreach.io/sequences?queryFilters=%5B%7B%22attribute%22%3A%22collection%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%5B%2270%22%5D%7D%5D&sortBy=recent&sortDirection=desc)   
+    * [FY24 Inbound Languages Collection](https://app1a.outreach.io/sequences?queryFilters=%5B%7B%22attribute%22%3A%22collection%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%5B%2270%22%5D%7D%5D&sortBy=recent&sortDirection=desc)
 *  **Last Interesting Moment**: data pulled in from our marketing automation software, [Marketo](/handbook/marketing/marketing-operations/marketo/), that tells you the last action a lead took.
-*  [**Initial source**](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#initial-source): first known action someone took when they entered our database
+*  [**Initial source**](/handbook/sales/field-operations/gtm-resources/#initial-source): first known action someone took when they entered our database
 *  [**Marketo Sales Insights (MSI)**](/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight): a section on the lead/contact/account in Salesforce that shows you compiled data around actions a lead/contact has taken
 
 #### High touch and Low touch sequences:
@@ -632,9 +620,9 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 * Once a lead has been placed in an Outreach sequence, the lead status will automatically change from MQL, Inquiry, or Raw to Accepted marking that you are actively working on this lead.
 * When a lead responds to you via email, their status will again automatically change. This time it will change from Accepted to Qualifying. You will manage these leads from your S3 and B5 lead views.
     * If you are not working on qualifying this lead further, you will need to manually change the status to Nurture so that this lead is back in Marketing nurture and isn’t stuck in your My Qualifying view. If you have spoken to the lead by phone and are qualifying them, you need to manually change the status to from Accepted to Qualifying
-* When looking at your qualifying view please sequence leads that have no recent last activity + no active tasks + are not actively being sequenced into one of our follow up sequences that have the "Follow up Ruleset Sequences". You can read more about our [rulesets here](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#rulesets)
+* When looking at your qualifying view please sequence leads that have no recent last activity + no active tasks + are not actively being sequenced into one of our follow up sequences that have the "Follow up Ruleset Sequences". You can read more about our [rulesets here](/handbook/marketing/marketing-operations/outreach/#rulesets)
 * If a lead finishes an Outreach sequence without responding, the lead status will automatically change to unresponsive or nurture in seven days if there is still no response.
-* If a lead responds, the BDR/SDR is to schedule a call/meeting using [Outreach’s meetings feature.](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#outreach-meetings)
+* If a lead responds, the BDR/SDR is to schedule a call/meeting using [Outreach’s meetings feature.](/handbook/marketing/marketing-operations/outreach/#outreach-meetings)
 * The only time you will need to manually change lead status outside of what is mentioned in the previous bullets is if you for some reason don't use an Outreach sequence to reach out to someone or if you need to unqualify a lead for bad data etc.
 * If you check the `Inactive lead` or `Inactive contact` checkbox, signifying that this person no longer works at the company, any running sequence will automatically be marked as finished.
 
@@ -651,13 +639,13 @@ Whether it be from inbound follow up or outbound prospecting, you’re going to 
 
 ### Qualification Criteria and SAOs
 
-Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities)
+Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](/handbook/sales/field-operations/gtm-resources/#opportunities)
 
 As an SDR or BDR, you will work to connect with inbound/outbound leads that you get a response from to obtain the applicable information required. This information is tracked on the qualification criteria on the LEAD, CONTACT, and OPPORTUNITY objects in Salesforce. In order to obtain an SAO, you will need to have the 'required' information filled out on the opportunity including documented 2-way communication on the Contacts in the Opportunity.
 
 #### When do I create an Opportunity?
 
-1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
+    1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
 If you are scheduling time with an AE/SAL to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in.
 
 2. **You have obtained a commitment/willigness from a prospect to discuss further.** <br>
@@ -673,14 +661,14 @@ At this point, the opportunity will be in your ownership but you can not have yo
 #### When will it be credited as an SAO?
 After the SAL/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
 
-If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
+If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
 
 
-* [ How to create an opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#creating-a-new-business-opportunity-from-lead-record)
+* [ How to create an opportunity](/handbook/sales/field-operations/gtm-resources/#creating-a-new-business-opportunity-from-lead-record)
 
 Before scheduling the meeting with the AE/SAL, you will need to verify the sales organization RoE
 
-1. On ZoomInfo or other sources, verify the [parent/child segmentation:](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). All accounts in a hierarchy will adopt the MAX segmentation of any account in the hierarchy and ownership between segments is determined accordingly.
+1. On ZoomInfo or other sources, verify the [parent/child segmentation:](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). All accounts in a hierarchy will adopt the MAX segmentation of any account in the hierarchy and ownership between segments is determined accordingly.
 2. On ZoomInfo or other sources, verify the HQ of the company or the ultimate user. Unless the account is Named, lead ownership is determined based on the HQ of a company, regardless of the lead's location geographically.
 3. If there's an account already assigned to a different segment, please do not immediately pass leads that your research says should be for another segment. Instead, please chatter ASM and the current account owner with your data. If there is a consensus, please then tag Sales Support for the reassignment. Please be mindful of discrepancies between our SSOT and LinkedIn. There are many cases where LI employee count does not indicate the reality of their employee size. For example, in companies with commonly used names, LI can overstate their employee count. On the other hand, LI can understate the employee count of companies that do not have a very strong tech presence.
 
@@ -702,7 +690,7 @@ Your manager will review the information and decide whether SAO credit is warran
 
 #### Opportunity Creation Workflow
 
-![Opportunity Creation Workflow](/handbook/marketing/sales-development/Opportunitycreationworkflow.png)
+![Opportunity Creation Workflow](/images/handbook/marketing/sales-development/Opportunitycreationworkflow.png)
 
 ## BDR Outbound Process
 
@@ -766,7 +754,7 @@ In each of the tools you may find a library of pre-saved searches that may be in
 
 ### 3. Cross-Referencing with DemandBase
 
-In additional to our B2B toolstack, we also use DemandBase to narrow down the validity of our results. Demandbase offers a lot of additional datapoints like [qualification scores](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/), that can be used to narrow down a big data set to a hyper-targetted prospecting list.
+In additional to our B2B toolstack, we also use DemandBase to narrow down the validity of our results. Demandbase offers a lot of additional datapoints like [qualification scores](/handbook/marketing/account-based-marketing/demandbase/), that can be used to narrow down a big data set to a hyper-targetted prospecting list.
 
 To cross-reference with Demandbase, please follow the steps below:
 
@@ -839,7 +827,7 @@ After having manually shortlisted the accounts that are applicable to your campa
 
 **To export to CRM, please follow the guidelines below:**
 
-1. Click the Export to CRM button on [ZoomInfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/#training)
+1. Click the Export to CRM button on [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/#training)
 2. That's it
 3. No, really.
 
@@ -856,7 +844,7 @@ After having manually shortlisted the accounts that are applicable to your campa
     ii. Prospects with sequence steps past due
     iii. Prospects that have been moved to `Qualifying` status but have not had any outreach since. <br>
 
-2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SALs that you collaborate with, please follow the [link here](https://about.gitlab.com/handbook/marketing/sales-development/sales-sdr-alignment/#expectations-and-strategic-processes) for a list or report templates that may be cloned and customized.
+2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SALs that you collaborate with, please follow the [link here](/handbook/marketing/sales-development/sales-sdr-alignment/#expectations-and-strategic-processes) for a list or report templates that may be cloned and customized.
 
 **Important Note**
 You do not have to wait until the end of the month or quarter to change the BDR prospecting status, you just have to make sure you stay under the limit for your segment and move the account to either “Queued” or “Worked in FY” based on criteria.
@@ -871,18 +859,18 @@ BDR Account views are to help with territory organization. It is very important 
 
 **Before moving an account into “Actively Working Status”**, the BDR will do a search using this [Demandbase list](https://web.demandbase.com/o/d/p/l/261084/l) to make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
 
-If a related AE or SDR relays information that was not picked up in the BDR's research, the BDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member whose been engaged so they can reach out. If the BDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the BDR and the related team member. **Note: Only activity logged in SFDC will be recognized as activity.** 
+If a related AE or SDR relays information that was not picked up in the BDR's research, the BDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member whose been engaged so they can reach out. If the BDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the BDR and the related team member. **Note: Only activity logged in SFDC will be recognized as activity.**
 
-Exception to the process: 
+Exception to the process:
 * the BDR can see that the MQL was put into a low touch sequence, or;
-* the existing MQL is from a large account where BDR outreach can be made into different units or subsidiaries in that account. 
+* the existing MQL is from a large account where BDR outreach can be made into different units or subsidiaries in that account.
 If so, can ask SAL to request via chatter on the lead record that this account be placed into “Actively Working” so that BDR can reach out to others at the account.
 
 Accounts should not be moved to “Actively Working” until the BDR is ready to begin account research, strategy, and sequencing leads. There will be a set # of days that a BDR has to complete these actions before the account moves back to a BDR prospecting status of “Queued”
 
 Ideas for account research and strategy: "coming soon"
 
-* Example: You can focus on Closed Lost Opportunities once they are older than 30 days, in line with the Sales Handbook [Opportunity Stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages)
+* Example: You can focus on Closed Lost Opportunities once they are older than 30 days, in line with the Sales Handbook [Opportunity Stages](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)
 
 ### Best Practices for Outbound BDRs
 
@@ -908,7 +896,7 @@ Explore the main documentation [here](https://docs.google.com/document/d/1Y7qEq8
 
 ### Decision Maker Discovery
 
-The questions below are suggestions to be used while doing a discovery call, in order to identify the decision making process, and to meet the outbound accepted SAO as per the guidelines [here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#criteria-for-outbound-sales-accepted-opportunity-sao)
+The questions below are suggestions to be used while doing a discovery call, in order to identify the decision making process, and to meet the outbound accepted SAO as per the guidelines [here](/handbook/sales/field-operations/gtm-resources/#criteria-for-outbound-sales-accepted-opportunity-sao)
 
 * Who gets involved while evaluating a tool at {{company}}?
 * Would you expect anyone to challenge your initiative, and if so can I help by connecting with anyonse else on your end?
@@ -964,7 +952,7 @@ The [BDR outbound framework](https://drive.google.com/drive/search?q=%20Outbound
 When creating new prospects in SFDC these should be added as Leads to the system. New Leads can for example be prospects you are talking to on LinkedIn, prospects you are introduced to by someone at GitLab, or by other Leads or Contacts in SFDC.
 Everyone you are contacting should exist on SFDC so that you, your manager, and the Account owner have a full picture of who you are prospecting into. LinkedIn conversations can be sent to SFDC using the "Copy to CRM" feature within the LinkedIn Sales Navigator chat platform.
 
-If you have a list you would like to import to SFDC please follow this [List Import](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/) process on our Marketing Operations page which outlines how to import CSVs and ZoomInfo Prospects into the system.
+If you have a list you would like to import to SFDC please follow this [List Import](/handbook/marketing/marketing-operations/list-import/) process on our Marketing Operations page which outlines how to import CSVs and ZoomInfo Prospects into the system.
 
 ### Outbound Messaging
 
@@ -982,7 +970,7 @@ If you have a list you would like to import to SFDC please follow this [List Imp
  - [Increase Operational Efficiencies](https://app1a.outreach.io/sequences/5678)
  - [Reduce Security & Compliance Risk](https://app1a.outreach.io/sequences/5746)
 
-**Value Driver Messaging:** *Developed to align to the [GitLab value framework](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)*
+**Value Driver Messaging:** *Developed to align to the [GitLab value framework](/handbook/sales/command-of-the-message/#customer-value-drivers)*
  - [Deliver Better Products Faster](https://app1a.outreach.io/sequences/5815)
  - [Increase Operational Efficiencies](https://app1a.outreach.io/sequences/5816)
  - [Reduce Security & Compliance Risk](https://app1a.outreach.io/sequences/5817)
@@ -1013,11 +1001,7 @@ Double credit nor double compensation will be given
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 
-<<<<<<< HEAD:sites/handbook/source/handbook/marketing/revenue-marketing/sdr/index.html.md
-To increase engagement at Field and Corporate Marketing events, it’s helpful to have BDR’s involved with pre-event outreach, on-site participation, or a combination of both. 
-=======
-To increase engagement at Field and Corporate Marketing events, it’s helpful to have BDR’s and BDA's involved with pre-event outreach, on-site participation, or a combination of both.
->>>>>>> 7346a8480b7 (Move /revenue-marketing/sdr to /sales-development handbook):sites/handbook/source/handbook/marketing/sales-development/index.html.md
+To increase engagement at Field and Corporate Marketing events, it’s helpful to have BDR’s involved with pre-event outreach, on-site participation, or a combination of both.
 Learn more about [Field](/handbook/marketing/field-marketing/) and [Corporate Marketing](/handbook/marketing/corporate-marketing/) via their linked handbook pages.
 
 ### Approvals Required
@@ -1040,10 +1024,10 @@ BDRs should not support joint partner related events where there the routing pla
 * MQLs or Good/Hot leads related to BDR Actively Working Accounts + leads in qualifying status + leads active in sequence should not be passed to the partner but rather to the BDR Assigned or the current sales development lead owner.
 * Any meetings booked at the event via Drift will automatically route to the SDR team.
 
-### Routing nuances 
+### Routing nuances
 * Any BDR 'Sales Nominated' prospects added to the campaign who respond to invite sequence will be worked by the BDR Assigned. If the account isn't in Actively Working status, they will be notified to move the account into Actively Working status so they can continue to work the engaged lead as well as begin strategic outreach to others at the account leveraging this compelling engagement.
 * Drift meetings scheduled related to an Actively Working account will be facilited by the BDR Assigned. All others will route to the SDR org per the normal routing workflow.
-* To test whether speed to lead increases conversion of event leads we will be moving High Priority campaign leads directly into BDR priority views with corresponding [SLA of 60 minute response time](https://about.gitlab.com/handbook/marketing/sales-development/#lead-and-contact-views). Any campaign checked as High Priority will have any members that relate to Actively Working accounts marked as High Priority irregardless of their lead status. These will show up in the BDR's priority view.
+* To test whether speed to lead increases conversion of event leads we will be moving High Priority campaign leads directly into BDR priority views with corresponding [SLA of 60 minute response time](/handbook/marketing/sales-development/#lead-and-contact-views). Any campaign checked as High Priority will have any members that relate to Actively Working accounts marked as High Priority irregardless of their lead status. These will show up in the BDR's priority view.
 * All other leads will route based on our normal routing workflow.
 
 #### Routing Workflow Chart
@@ -1108,8 +1092,8 @@ The corporate process is the same as the field process detailed above with the e
 
 **White Glove Event Follow Up Sequence (SALs Included)**
 - For more personal events, such as Executive Roundtables, there many be more detailed Last Event Notes that have an ask to include the people who interacted with the prospect at the event. For these situations we have a [specialized white glove sequence](https://app1a.outreach.io/sequences/12260). The goal of this sequence is to reach out to the prospect quickly and to include our SALs/AEs in the conversation.
-- The first step is to put the prospect in [the Sequence](https://app1a.outreach.io/sequences/12260). From there customize the first email step to include the people mentioned in the Last Event Notes. You can also delay the time that the first email goes out so you have more time to get feedback from the SAL/AE if needed. 
-- Next send a screenshot of the first email step to the SAL/AE's that will be CC'd. Explain to them that this strategy creates space for them to engage with more specific messaging if the prospect is unresponsive. NOTE: There is a generic task on Day 12 to reach out to the SAL/SA if there has not been any engagement. The goal is to keep them in the loop and for you to work together to engage the prospect. 
+- The first step is to put the prospect in [the Sequence](https://app1a.outreach.io/sequences/12260). From there customize the first email step to include the people mentioned in the Last Event Notes. You can also delay the time that the first email goes out so you have more time to get feedback from the SAL/AE if needed.
+- Next send a screenshot of the first email step to the SAL/AE's that will be CC'd. Explain to them that this strategy creates space for them to engage with more specific messaging if the prospect is unresponsive. NOTE: There is a generic task on Day 12 to reach out to the SAL/SA if there has not been any engagement. The goal is to keep them in the loop and for you to work together to engage the prospect.
 
 #### Outbound Campaign Process
 
@@ -1287,7 +1271,7 @@ Examples of the Outbound Prospecting Framework [Can be found here](https://docs.
 
 ## Global Enterprise Expand BDR Team
 The Global Enterprise Expand BDR team is responsible for creating qualified meetings, sales accepted opportunities, and pipeline within existing customer accounts (Accounts with total CARR in parent/children/subsidiaries in a hierarchy) in the Large - Enterprise Segment.
-The team is composed of BDRs who focus on strategic account-based, persona-based outreach, strategic outbound prospecting, social selling, and creative outreach to create and expand internal champions that align with the [GitLab value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) and use cases.
+The team is composed of BDRs who focus on strategic account-based, persona-based outreach, strategic outbound prospecting, social selling, and creative outreach to create and expand internal champions that align with the [GitLab value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and use cases.
 The aim for the BDR is to find new business units within these customer account hierarchies who are looking to move from a competitor/GitLab Core/CE to a paid version of GitLab.
 SALs alone are responsible for renewing/uptiering existing paid customer instances to a higher paid version of the product, eg from Standard to Premium.
 
@@ -1299,8 +1283,10 @@ Total CARR of $48 and below is deemed as a Land Account and these accounts are f
 
 Accounts with no check in the box fall to the Expand team.
 
+## Expand and Territory Alignments
 
-## AMER Enterprise Expand Alignment
+
+### AMER Enterprise Expand Alignment
 
 AMER Enterprise BDR Expand Team is aligned to account territories in US West and US East regions. Each region has verified Growth scores/CARR per territory that help determine the equitable spread of BDR alignments as shown below. Target accounts are based on SAL strategy, potential CARR, Intent data (propensity to buy), and industry.
 
@@ -1315,7 +1301,7 @@ AMER Enterprise BDR Expand Team is aligned to account territories in US West and
 | AMER   | John Belardi       | Large-AMER-Bay Area-3, Large-AMER-Bay Area-5, Large-AMER-PNW/MW-2, Large-AMER-PNW/MW-4, Large-AMER-Rockies/SoCal-4                               | Michael Nevolo, Philip Wieczorek, Joe Drumtra, Steve Clark, Nico Ochoa   |
 | AMER   | Tyler Thompson     | Large-AMER-West-2, Large-AMER-Bay Area-1, Large-AMER-Bay Area-2, Large-AMER-Bay Area-6, Large-AMER-PNW/MW-5, Large-AMER-Rockies/SoCal-5                               | Jim McMahon, Michael Scott, Alyssa Belardi, Lydia Pollitt, Robert Hyry   |
 
-## EMEA Enterprise Expand Alignment
+### EMEA Enterprise Expand Alignment
 
 EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Europe, DACH, France/Southern Europe, and emerging markets. Target accounts are based on SAL strategy, potential CARR, Intent data (propensity to buy), and industry.
 
@@ -1328,45 +1314,22 @@ EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Eu
 | Benelux / Nordics / Balkans      |  Tatiana Fernandez   | Annette Kristensen, Aslihan Kurt, Nasser Mohunlol, Nicolas Poulakakis  |
 | UKI       |  Tom Elliott   | Godwill NDulor, Warren Searle, Justin Haley, Nicholas Lomas, Steven Challis  |
 
-## EMEA Mid-Market BDR Alignment
+### EMEA Mid-Market BDR Alignment
 
 The EMEA MM FO team is split equally between North and South Europe. The 100-500 Segment is primarily targetting UKI, France and Germany as a P0 territory and the P1 territories below as a secondary target.
 
 The team's baseline outbound activity revolves around at least 20 accounts per SDR per week. 15 from the P0 territories and 5 from their P1 territories. First Order BDRs source all 20 accounts from their territories.
 
-<<<<<<< HEAD:sites/handbook/source/handbook/marketing/revenue-marketing/sdr/index.html.md
 |**BDR**|**Territory**|**Territory Codes**| BDR Secondary Language Profficiency |
-| ------ | ------ | ------ | ------ | 
+| ------ | ------ | ------ | ------ |
 | Luis Calixto | South Europe  | COMM_EMEA_MM_EMEA_SOUTH_TERR_01, COMM_EMEA_MM_EMEA_SOUTH_TERR_02 | Spanish |
 | Daniel Fuller |  Nordics | COMM_EMEA_MM_EMEA_NORBEN_TERR_01, COMM_EMEA_MM_EMEA_NORBEN_TERR_02, COMM_EMEA_MM_EMEA_NORBEN_TERR_03, COMM_EMEA_MM_EMEA_NORBEN_TERR_04 | N/A |
 | Denis Stete | Eastern Europe | COMM_EMEA_MM_EMEA_SOUTH_TERR_03, COMM_EMEA_MM_EMEA_SOUTH_TERR_04, COMM_EMEA_MM_EMEA_SOUTH_TERR_05 | Spanish |
 | Barbara Schreuder | BeNeLux | COMM_EMEA_MM_EMEA_NORBEN_TERR_05, COMM_EMEA_MM_EMEA_NORBEN_TERR_06, COMM_EMEA_MM_EMEA_NORBEN_TERR_07 | Dutch |
 | Anastasiia Bakunovets | France | COMM_EMEA_MM_EMEA_SOUTH_TERR_08, COMM_EMEA_MM_EMEA_SOUTH_TERR_09, COMM_EMEA_MM_EMEA_SOUTH_FO_01, COMM_EMEA_MM_EMEA_SOUTH_FO_02 | French, Russian |
 | Israel Akinniranye | Israel & North Africa | COMM_EMEA_MM_EMEA_SOUTH_TERR_06, COMM_EMEA_MM_EMEA_SOUTH_TERR_07 | French |
-| Eamon Keanne | UK&I | COMM_EMEA_MM_EMEA_NORTH_FO_01, COMM_EMEA_MM_EMEA_NORTH_FO_02, COMM_EMEA_MM_EMEA_NORTH_TERR_01, COMM_EMEA_MM_EMEA_NORTH_TERR_02, COMM_EMEA_MM_EMEA_NORTH_TERR_03 | N/A | 
+| Eamon Keanne | UK&I | COMM_EMEA_MM_EMEA_NORTH_FO_01, COMM_EMEA_MM_EMEA_NORTH_FO_02, COMM_EMEA_MM_EMEA_NORTH_TERR_01, COMM_EMEA_MM_EMEA_NORTH_TERR_02, COMM_EMEA_MM_EMEA_NORTH_TERR_03 | N/A |
 | Svitlana Balitska | DACH  | COMM_EMEA_MM_EMEA_CTL_FO_01, COMM_EMEA_MM_EMEA_CTL_FO_02, COMM_EMEA_MM_EMEA_CTL_TERR_01, COMM_EMEA_MM_EMEA_CTL_TERR_02, COMM_EMEA_MM_EMEA_CTL_TERR_03, COMM_EMEA_MM_EMEA_CTL_TERR_04,  COMM_EMEA_MM_EMEA_CTL_TERR_05, COMM_EMEA_MM_EMEA_CTL_TERR_06, COMM_EMEA_MM_EMEA_CTL_TERR_07 | German, Russian |
-=======
-|**BDR**|**Territory / Segment**|**Territory Codes**| BDR Secondary Language Profficiency |
-| ------ | ------ | ------ | ------ |
-| Luis Calixto | South Europe / 501-1999  | COM_MM_EMEA_SOUTH_FO_2 | Spanish |
-| Daniel Fuller |  GB, Nordics / 100-500 | COM_MM_EMEA_NORTH_TERR_2, COM_MM_EMEA_NORTH_TERR_1, COM_MM_EMEA_NORTH_TERR_5 | N/A
-| Denis Stete | South Europe / 100-500 | COM_MM_EMEA_SOUTH_TERR_1, COM_MM_EMEA_SOUTH_TERR_4TBH, COM_MM_EMEA_SOUTH_TERR_3TBH, COM_MM_EMEA_SOUTH_TERR_6TBH, COM_MM_EMEA_SOUTH_TERR_2 | Spanish
-| Barbara Schreuder | BeNeLux, DACH / 100-500 | COM_MM_EMEA_NORTH_TERR_3TBH, COM_MM_EMEA_NORTH_TERR_4, COM_MM_EMEA_CENTRAL_TERR_2, COM_MM_EMEA_CENTRAL_TERR_1, COM_MM_EMEA_CENTRAL_TERR_5TBH | Dutch
-| Omar Meflah | France / 100-500 | COM_MM_EMEA_SOUTH_TERR_5TBH, COM_MM_EMEA_SOUTH_TERR_7TBH | French, Arabic
-| Israel Akinniranye | France / 501-1999 | COM_MM_EMEA_SOUTH_FO_1 | French
-| Eamon Keanne | GB, Nordics / 501-1999 | COM_MM_EMEA_NORTH_FO_1, COM_MM_EMEA_NORTH_FO_2 | N/A |
-| New Hire Q4 | DACH / 100-500, 501-1999 | COM_MM_EMEA_CENTRAL_FO_2, COM_MM_EMEA_CENTRAL_TERR_4TBH, COM_MM_EMEA_CENTRAL_FO_1, COM_MM_EMEA_CENTRAL_TERR_3TBH | Germany
-
-
-
-
-
-
-
-
-In case of any AE requests for outbounding, the go-to BDRs for each Sales territory are below and [may also be found here](https://docs.google.com/spreadsheets/d/1Zx9SEcPmOtSFPjJEQgoRsO3n4GFAJehxvgbS1-onqZg/edit#gid=2102471434). The BDR team is briefed to incorporate as a priority any request for OB collaboration from AEs.
-
->>>>>>> 7346a8480b7 (Move /revenue-marketing/sdr to /sales-development handbook):sites/handbook/source/handbook/marketing/sales-development/index.html.md
 
 In case of any AE requests for outbounding, the go-to BDRs above are briefed to incorporate these requests to their pipeline as a priority.
 
@@ -1398,7 +1361,7 @@ Expand BDRs should prioritize communication with the SALs within territories the
 - Research the account with the SALs/CSMs/ISRs, see if LinkedIn introductions can be made
 - Research the account on LISN and select 10 - 15 contacts who follow GitLab or who fall into the personas we target
 - Review outbound BDR plays, campaigns, field tactics, and other offers
-- Review [Outreach persona sequences](https://about.gitlab.com/handbook/marketing/sales-development/#outbound-messaging) with SAL:
+- Review [Outreach persona sequences](/handbook/marketing/sales-development/#outbound-messaging) with SAL:
 - Document the plan using docs, a spreadsheet, and/or the BDR quarterly issue plan
 
 Recurring SAL|BDR meetings can be scheduled or take place on an as-needed basis.
@@ -1413,7 +1376,7 @@ Slack is encouraged for informal communication (team slack channel), however, an
 Create a LEAD for that account and then convert to CONTACT to create the ACCOUNT when you qualify your first lead.
 - Free to paid upgrades: Existing Core/CE users can be targeted to upgrade to a paid version of GitLab
 
-### [Ranking](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#definitions-for-enterprise-account-ranking) and prioritization of accounts:
+### [Ranking](/handbook/sales/field-operations/gtm-resources/#definitions-for-enterprise-account-ranking) and prioritization of accounts:
 - Rank 1: Expand with Purpose (EwP) accounts should be closely/strategically worked with SALs. These accounts have High Demandbase intent scores and should therefore be High touch by BDR.
 - Rank 2: ICP Ultimate parent accounts that have Core/CE-Users in a hierarchy, Total CARR/LAM for account, Med/Low Demandbase intent scores, and small renewals in current FQ.
 - Rank 3: As above but are not our ICP
@@ -1422,22 +1385,8 @@ Create a LEAD for that account and then convert to CONTACT to create the ACCOUNT
 
 A **Professional Services Opportunity** will be used to cover any integration, consulting, training or other service that a Sales rep will sell to a prospect/client and needs or wants to be invoiced separately. To invoice separately a new quote and opportunity must be created.
 
-More information on the steps needed to create a Professional Services Opp can be [found here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#creating-a-professional-services-opportunity)
+More information on the steps needed to create a Professional Services Opp can be [found here](/handbook/sales/field-operations/gtm-resources/#creating-a-professional-services-opportunity)
 
-<<<<<<< HEAD:sites/handbook/source/handbook/marketing/revenue-marketing/sdr/index.html.md
-=======
-## Leveraging Business Development Associate (BDA) Team
-
-Having the Business Development Associate Team gives us the ability to develop individuals with loads of alignment to our GitLab values and limited Sales Development experience into strong SDR ready candidates. We do this by exposing them to different projects that strengthen their familiarity with our [tools](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/), processes, systems, messaging, teams, and GitLab culture. These projects ultimately are also aimed to support the Sales Development Organization in reaching their goals so that it's an all around win-win. Projects could include:
-- Conducting research for Priority accounts to find compelling insights to be used in messaging
-- Leveraging intent data to find new set of accounts to be moved into actively working, marking them as queued and populating research fields
-- Re-sequencing past unresponsive leads to set up meetings for BDR
-- Sourcing net new leads from a specific set of accounts and then sequencing on behalf of the BDRs
-- Identifying leads related to targeted accounts that haven't been sequenced and yet are still currently at the organization
-- Reaching out to Drift leads that did not get to have a conversation with someone
-- Participating in new tool initial roll-out group
-- Helping set up next step tasks for leads in qualifying status
->>>>>>> 7346a8480b7 (Move /revenue-marketing/sdr to /sales-development handbook):sites/handbook/source/handbook/marketing/sales-development/index.html.md
 
 ### Sourcing Process
 The manager will create a list of their focus area and criteria similar to what's outlined [here](https://docs.google.com/document/d/1oOzjd2j8trQLU_5h_oiBbyg-saRMe-TA8HTDBuiPuEM/edit?usp=sharing).
@@ -1452,16 +1401,16 @@ Past Business Development Representatives have shared their best practice steps 
 * **I do not know what this person did to score as an MQL**: First check the last interesting moment description on Salesforce and then check the Scoring tab of the Marketo Sales Insight widget that is also on the Salesforce lead page. If no points were allocated to behavior and only to demographic type information please Slack the Marketing Ops group so they are aware that this lead did not take any new action.
 * **I received a personal data subject request by a prospect**: Our MOPs team has set up a process to address any data subject requests for deletion or access to data. If you receive a request for deletion or access to data, please re-direct inquiries to the [Personal Data Subject Request](https://support.gitlab.io/account-deletion/). This messaging snippet [can be used and tailored.](https://app1a.outreach.io/snippets/1903)
 * **Why are BDRs no longer the Account Owner in Outreach?**: BDRs are no longer listed as the account Owner in Outreach to improve Sales Dev and Sales visibility across all prospects/accounts (excluding PubSec). If you want to filter to see just your accounts, please use the  ‘BDR Assigned’ field.
-* **A prospect said they were going to buy through our website (known as a Web Direct). How can I tell if they did?**: SDRs get credit for opportunities where the SDR had meaningful two way communication with a prospect shortly before they bought GitLab through our website. The best way to search for a web direct opportunity is to use [this report](https://gitlab.my.salesforce.com/00O4M000004dkX4). First, set the date range to the time you think the prospect would have bought. Next, find the opportunity that is tied to your prospect's account. Then follow [this process](https://about.gitlab.com/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity) to request SAO credit.
+* **A prospect said they were going to buy through our website (known as a Web Direct). How can I tell if they did?**: SDRs get credit for opportunities where the SDR had meaningful two way communication with a prospect shortly before they bought GitLab through our website. The best way to search for a web direct opportunity is to use [this report](https://gitlab.my.salesforce.com/00O4M000004dkX4). First, set the date range to the time you think the prospect would have bought. Next, find the opportunity that is tied to your prospect's account. Then follow [this process](/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity) to request SAO credit.
     * Note: Sometimes someone else from your prospect's company actually made the GitLab purchase, leading to the opportunity being related to them instead
 
 ## Sales Development Organization Time Off
 
-While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to [fully unplug from work](https://about.gitlab.com/company/culture/all-remote/mental-health/mental-health-awareness-learning-path/#part-1-your-mental-health-matters) during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](https://about.gitlab.com/handbook/leadership/#managers-of-one).
+While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to [fully unplug from work](https://about.gitlab.com/company/culture/all-remote/mental-health/mental-health-awareness-learning-path/#part-1-your-mental-health-matters) during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
 
 To help BDRs and SDRs who are on PTO please review [this video](https://www.youtube.com/watch?v=sDzeqbd0Jes) on how to sequence on behalf of your teammembers.
 
-Please also review [this video](https://www.youtube.com/watch?v=vsJBP4-WIBk&ab_channel=GitLabUnfiltered) on how to clone a teammates B1 or S1 lead view in order to sequence MQL leads for them. 
+Please also review [this video](https://www.youtube.com/watch?v=vsJBP4-WIBk&ab_channel=GitLabUnfiltered) on how to clone a teammates B1 or S1 lead view in order to sequence MQL leads for them.
 
 To log a PTO Territory Planning request, please go to the Issue list on the SDR GitLab project [here](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new#) and choose `PTO_Planning_Issue` from the `Description` drop-down list.
 
@@ -1511,7 +1460,7 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
     * Send your announcement to one of the people in the positions above depending on the type of announcement
     * If the request has to do with enablement, reach out to the Sales Dev Enablement Manager
 * Where can I find info on how to title my Sales_Dev_FYI posts?
-    * You can find the logic behind our naming convention on [this handbook page](https://about.gitlab.com/handbook/marketing/sales-development/sdr-manager-resources/#sales_dev_fyi-channel-information)
+    * You can find the logic behind our naming convention on [this handbook page](/handbook/marketing/sales-development/sdr-manager-resources/#sales_dev_fyi-channel-information)
 
 
 ## Issue Boards & Team Labels
