@@ -211,7 +211,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 The CEO does a Quarterly Kickoff in the first month of each quarter. 
 
-This is a forum to review our long-term goals, recognize progress made in the previous quarter, and discuss what we aim to accomplish in the coming quarter. Material shared is internal only. 
+This is a forum to review our long-term goals, recognize progress made in the previous quarter, recap significant recent events, and discuss what we aim to accomplish in the coming quarter. Material shared is internal only. 
 
 The Quarterly Kickoff is followed by an AMA hosted by the CEO. 
 
