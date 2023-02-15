@@ -17,7 +17,7 @@ Welcome to the Caregivers Team Member Resource Group space! Join us in our Slack
 
 Resources:
 * [Caregivers TMRG Slide Deck](https://docs.google.com/presentation/d/1Fn5c9a_jn1mvECzSALaYCaPckK_6ONzsPZsJGLhRRLQ/edit?usp=sharing)
-* [Caregivers TMRG GitLab Project](https://gitlab.com/caregiver-tmrg/caregiver-trmrg)
+* [Caregivers TMRG GitLab Project](https://gitlab.com/gitlab-com/caregivers-tmrg)
 * [Caregivers TMRG Slack Channel](https://gitlab.slack.com/archives/C04N06LM5EV)
 * [Caregivers TMRG Google Group]()
 
