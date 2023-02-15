@@ -141,7 +141,9 @@ In keeping with our values of [CREDIT](/handbook/values/), we have crafted the f
 
 *Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance.
 
-#### Sick Time Procedures - All Team Members
+#### Sick Time Procedures - All Team Members 
+
+*Team members in France, Netherlands, and U.S, please read specific reporting procedures below. All other team members please review your country's statutory [sick time reporting requirements](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
 
 **Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
 
@@ -172,6 +174,10 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 - GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
 - If the team members is on long-term sick leave (8 days of more), Team Member Relations will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
 - Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
+
+#### Sick Time Procedures - France
+
+See the [France S.A.S. benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/france-sas/#sick-time).
 
 #### Medical Certificate/Doctor's Note
 
