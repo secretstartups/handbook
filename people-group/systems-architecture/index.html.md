@@ -40,7 +40,7 @@ flowchart TD
     W[DocuSign]
     X[Glassdoor]
     Y[Zoom]
-    Z[Expensify]
+    Z[Navan Expense]
     AA[Netsuite]
 
     A --> P 
@@ -116,7 +116,7 @@ flowchart TD
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
 | Compaas | TBD | one-way (reads from BambooHR) |TBD |
-| Expensify | Workato (API) | one-way (reads from BambooHR) | TBD |
+| Navan Expense | Workato (API) | one-way (reads from BambooHR) | TBD |
 | Netsuite | Workato (API) | one-way (reads from BambooHR) | TBD |
 
 ### Greenhouse

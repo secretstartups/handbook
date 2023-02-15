@@ -120,7 +120,7 @@ The manager and the team member should have walked through the guidelines on [un
 ##### All Team Members
 1. **Final Pay:** "Your final check (or invoice period) is for the pay period of X and includes X days of pay”.
 1. **Company Property:** “Please return all property as explained in the handbook, also please delete GitLab’s email connection from your phone”.
-1. **Business Expenses:** “Please create your final expense report to Expensify (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner”.
+1. **Business Expenses:** “Please create your final expense report to Navan Expense (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner”.
 1. **Confidentiality and Non-Disclosure:** “We know you are a professional, please keep in mind the agreement you signed when you were hired”.
 1. **Personal Particulars:** If you would like GitLab to share your personal email with the rest of the company, please send an email to People Ops or a farewell message that can be forwarded on your behalf.
 
@@ -353,10 +353,10 @@ For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-tec
 
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 
-#### Expensify
+#### Navan Expense
 This section of the Accounting Department.
 
-To remove someone from Expensify Log in to [Expensify](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
+To remove someone from Navan Expense Log in to [Navan Expense](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
 Select the right policy based upon the entity that employs the team member. Select "People" in the left menu.
 Select the individual's name and click "Remove".
 If the person has a Corporate Credit Card assigned to them, please notify Accounts Payable before un-assigning it.

@@ -15,7 +15,7 @@ These events may come without any warning and/or they could be driven by seasona
 
 ### Team Member Assistance
 
-GitLab reimburses ground transport to all team members to get out of the location they are in, via a vendor of choice e.g.: Uber/ Taxify/ Lyft/ Via etc. to a safe location.  Team members should use Expensify for all reimbursements. 
+GitLab reimburses ground transport to all team members to get out of the location they are in, via a vendor of choice e.g.: Uber/ Taxify/ Lyft/ Via etc. to a safe location.  Team members should use Navan Expense for all reimbursements. 
 
 ### Time Off From Work
 

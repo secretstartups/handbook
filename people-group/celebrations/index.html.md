@@ -36,7 +36,7 @@ The cost of the gifts provided to GitLab Team Members will be allocated to the s
 
 GitLab has allocated $100 per team member for holiday celebrations.  If you would like to buy holiday gifts for your team, these need to be done personally and should not be expensed.
 
-People Managers are to use their own personal card for expense reimbursement, EBA's Corporate Cards are not to be used for these gifts.  People Managers will need to be sure to use `EmployeeGiftsFlowers` and the account 6028 in [Expensify](/handbook/finance/expenses/) for the expense.   
+People Managers are to use their own personal card for expense reimbursement, EBA's Corporate Cards are not to be used for these gifts.  People Managers will need to be sure to use `EmployeeGiftsFlowers` and the account 6028 in [Navan Expense](/handbook/finance/expenses/) for the expense.   
 
 For further questions regarding expensing of gifts, please reach out to the AP team via the `#expense-reporting-inquiries` Slack channel or through email (`ap@gitlab.com`).
 
@@ -58,7 +58,7 @@ Recommended sites:
 
 The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
 
-To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `EmployeeGiftsFlowers` in the `classification` section of the expense.  
+To make sure the reports in Navan Expense are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `EmployeeGiftsFlowers` in the `classification` section of the expense.  
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 

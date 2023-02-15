@@ -81,7 +81,7 @@ Modules/functionality being implemented:
 
 | Workday will replace | Workday will enhance |Workday will integrate with |What remains the same in this phase|
 | ------ | ------ |------ |------ |
-| BambooHR (with a few exceptions to certain business processes) | Reporting, Auditing, Organization hierarchy, Management hierarchy, Business process workflows |Greenhouse, Culture Amp, EdCast, Expensify, LawLogix, Modern Health, Navex, Netsuite, GitLab, E-trade, ADP, Okta, Nominator bot, People Connect bot,Employment Automation, Sync BambooHR entities to GitLab groups, Sync new team members to team page, Sync specialty to team files, Team page readiness check,Anniversary Announcement, New Hire Announcement|PTO by Deel, BambooHR Documents, BambooHR Contractor Invoices|
+| BambooHR (with a few exceptions to certain business processes) | Reporting, Auditing, Organization hierarchy, Management hierarchy, Business process workflows |Greenhouse, Culture Amp, EdCast, Navan Expense, LawLogix, Modern Health, Navex, Netsuite, GitLab, E-trade, ADP, Okta, Nominator bot, People Connect bot,Employment Automation, Sync BambooHR entities to GitLab groups, Sync new team members to team page, Sync specialty to team files, Team page readiness check,Anniversary Announcement, New Hire Announcement|PTO by Deel, BambooHR Documents, BambooHR Contractor Invoices|
 
 #### Phase 1 Integrations
 
@@ -92,7 +92,7 @@ Modules/functionality being implemented:
 | Culture Amp | Daily feed that sends new hires and terminations from Workday over to Culture Amp. | Daily (1am PST) |  @mpatel8 | @Laura-Janssen @demina |
 | E-Trade | - _E-Trade User Account File_: Used to provide demographic information for new participants and to maintain this information for existing participants.<br> - _E-Trade User Termination File_: Used to provide termination dates and termination codes to EEO (Equal Employment Opportunity).<br> - _E-Trade Rehires File_: Used to provide rehire information for previously terminated participants. Rehire date provided will replace the current hire date on EEO (Equal Employment  | Daily (4:30am PST) | @rhark @sguillory | @droystang @Laura-Janssen @demina |
 | EdCast | Automatically adds and removes team members to EdCast to avoid manual work for the team and streamline the onboarding process. | Real Time | @jallen16 | @droystang |
-| Expensify<>Netsuite | Utilizing Workato to automatically synchronize team members and their managers from Workday into the correct Expensify policy as well as creating a vendor record in Netsuite. | Real Time | @edelongpre @mbrown6 | @droystang |
+| Navan Expense<>Netsuite | Utilizing Workato to automatically synchronize team members and their managers from Workday into the correct Navan Expense policy as well as creating a vendor record in Netsuite. | Real Time | @edelongpre @mbrown6 | @droystang |
 | Greenhouse (New Hires) | Creates new hires in Workday when a new applicant is marked as hired in Greenhouse | Real Time | @anechan @MarissaFerber @mpatel8 | @droystang @Laura-Janssen @demina |
 | LawLogix/Guardian | Daily feed that adds new US team members from Workday to LawLogix/Guardian for completion of their I-9 form. | Daily | @ashjameson @alex_venter @Mowry | @Laura-Janssen @droystang |
 | Modern Health | Automatically adds and removes team members to Modern Health to avoid manual work for the team and streamline the onboarding process. | Weekly | @brittanyr @Rkole | @droystang |
