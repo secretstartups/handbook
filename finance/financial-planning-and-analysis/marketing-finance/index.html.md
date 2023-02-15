@@ -24,13 +24,13 @@ title: "Marketing Finance"
  
 | Roll Up | Department | Name |
 | -------- | ---- | -------- |
-| Brand & Product Marketing | Awareness | @eaminzada |
-| Brand & Product Marketing | Brand Design | @eaminzada |
-| Brand & Product Marketing | Brand Campaigns | @eaminzada |
-| Brand & Product Marketing | Content | @eaminzada |
-| Brand & Product Marketing | Search Marketing | @eaminzada |
-| Brand & Product Marketing | Product Marketing | @eaminzada |
-| Community Relations | Community Relations | @eaminzada |
+| Brand & Product Marketing | Awareness | @rcallam |
+| Brand & Product Marketing | Brand Design | @rcallam |
+| Brand & Product Marketing | Brand Campaigns | @rcallam |
+| Brand & Product Marketing | Content | @rcallam |
+| Brand & Product Marketing | Search Marketing | @rcallam |
+| Brand & Product Marketing | Product Marketing | @rcallam |
+| Community Relations | Community Relations | @rcallam |
 | Revenue Marketing | Sales Development| @rcallam |
 | Growth | Growth | @rcallam |
 | Strategy, Operations, & Analytics | Marketing Ops | @rcallam |
@@ -51,16 +51,15 @@ Subscribe to Marketing Finance Dates Google calendar [here](https://calendar.goo
 
 | Date | DRI | Task | Detail |
 | -------- | ---- |  ---- |   ---- |
-| 2022-11-01 | Marketing Budget Owners | Q4 Plan due in Allocadia. | Adjust Allocadia Plan values for Nov, Dec, and Jan to represent the work that is occuring in Q4 |
-| 2022-11-21 | Marketing Budget Owners | Nov Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in November, not invoice timing. Invoice timing can occur at anytime. |
-| 2022-11-22 | Finance | November AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
-| 2022-11-29 | Marketing Budget Owners | Finalized November AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
-| 2022-12-20 | Marketing Budget Owners | Dec Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in December, not invoice timing. Invoice timing can occur at anytime. |
-| 2022-12-21 | Finance | December AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
-| 2022-12-29 | Marketing Budget Owners | Finalized December AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
-| 2023-01-20 | Marketing Budget Owners | Jan Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in January, not invoice timing. Invoice timing can occur at anytime. |
-| 2023-01-23 | Finance | January AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
-| 2023-01-27 | Marketing Budget Owners | Finalized January AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
+| 2023-02-23 | Marketing Budget Owners | February Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in February, not invoice timing. Invoice timing can occur at anytime. |
+| 2023-02-24 | Finance | February AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
+| 2023-02-28 | Marketing Budget Owners | Finalized February AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
+| 2023-03-23 | Marketing Budget Owners | March Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in March, not invoice timing. Invoice timing can occur at anytime. |
+| 2023-03-27 | Finance | March AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
+| 2023-03-30 | Marketing Budget Owners | Finalized March AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
+| 2023-04-24 | Marketing Budget Owners | April Forecast due in Allocadia | Adjust Allocadia forecast values to represent the work that is occuring in Q1, not invoice timing. Invoice timing can occur at anytime. |
+| 2023-04-25 | Finance | April AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
+| 2023-04-28 | Marketing Budget Owners | Finalized April AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
 
 ## Finance Terminology
  
