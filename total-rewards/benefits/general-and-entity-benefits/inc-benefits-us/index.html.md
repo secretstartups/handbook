@@ -626,7 +626,6 @@ To be eligible for the Travel HRA benefit, team members and their dependents mus
 
 The HRA Benefit is split into a pre-tax account, in which team members can receive reimbursement of up to $2,100 USD for eligible pre-tax travel expenses, and a post-tax account of $900 USD for eligible travel expenses that exceed the pre-tax travel limits.
 
-
 Please see the [HRA Summary of Benefits and Coverage](https://drive.google.com/file/d/1NWUiDsVV9ECaACkjJujgt_oU-jfGVDN6/view?usp=sharing) document for information on coverage and the [Navia Navigation Guide](https://drive.google.com/file/d/1mTGCLX73yFTEbBWYhabaYwhM7kOsBKMx/view?usp=sharing) for information on claim eligibility and how to submit claims. Additional details can be found in our [Health Reimbursement Arrangement (HRA) FAQ](https://docs.google.com/document/d/1ZpVaDB62vG2djOOjYNBjHnoKVEvwcbELF9gMdwwM2Go/edit?usp=sharing)
 
 #### How to Submit an HRA Claim
@@ -675,110 +674,6 @@ To access LifeMart through ADP:
 1. Click on the "MYSELF" tab in the navigation bar, hover your mouse over "Benefits" in the dropdown menu, and click "Employee Discounts - Life Mart".
 1. Confirm the email you use to access ADP and click "View my discounts" to enter the website.
  
-## GitLab Inc. United States Leave Policy
- 
-### Family Medical Leave Act
-The Family Medical Leave Act [FMLA](https://www.dol.gov/agencies/whd/fmla) provides eligible U.S team members up to 12-weeks, or up to 26- workweeks (in one 12 month period to care for an injured service member), unpaid time away from work for their own serious health condition, to care for a family member with a serious health condition, or to bond with a newborn or newly adopted child.  FMLA eligible leave time can be taken in continuous segments or intermittently as certified by a physician.  If FMLA is used to bond with a child, or newly adopted child, all eligible time must be used prior to the child’s first birthday or date of adoption. For more information  please see [Employee Rights Under the Family Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf).
-
-Team members must have 12 months of continuous service and 1250 hours worked in the year immediately before the start of their leave to be eligible for FMLA leave.  Working hours are calculated as actual hours worked and does not include PTO or vacation time.  GitLab calculates FMLA eligibility as a “rolling” 12-month period measured backward from the date of any FMLA leave usage. (Each time a team member takes FMLA leave, the remaining leave is the balance of the 12 weeks not used during the 12 months immediately before the FMLA leave is to start.)  
-
-All FMLA entitled leave will run concurrently with any State specific leave or pay program (if applicable), GitLab's PTO and sick leave policies (including COVID leave), and/or Short-Term disability benefits.  GitLab’s extended 25-day “don’t ask, must tell” PTO policy can not be used to delay, extend, or in lieu of FMLA.
-
-### How to Apply:
-Any medical related absence (for yourself or a family member) requiring you to be away from work for 5 or more calendar days (either continuously or non-continuous but related to the same condition) must be reported to leaves@gitlab.com. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via PTO by Deel request utilizing the `Out Sick` option.
-
-### Payroll Processing During FMLA
-The Absence Management team will review the team members eligibility for Short-Term Disability benefits, State pay benefits, and/or GitLab's Sick Time policy, and will communicate how the team member can expect to receive their pay while on leave.
-
-### Admin Steps
-**Initial Leave Request:**
-1. Team Member (TM): Emails leaves@gitlab.com to notify them of their need for a medical related leave
-2. Absence Partner (AP): Review BambooHR to verify TM meets FMLA eligibility requirements (1yr of service AND 1250hrs worked in the year immediately prior to the leave)
-   - If Eligible:  Complete Entire Form
-   - If Ineligible:  Complete only Section 1
-        - Add Denial form to TM's "Leaves and Attestations" folder in BambooHR
-3. AP: Review any [state entitlements](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#state-specific-allowed-leaves) that the TM is eligible for
-4. AP: Email TM any State Leave program attachments required for employers (California-CFRA and Washington)
-5. AP: Email TM notifying them of receipt of their request for leave, provide them with resources the TM can review, and [FMLA Notice of Eligibility & Rights and Responsibilities](https://drive.google.com/file/d/1dOIT5jVwU_9dP3ziH_Ns_uicQP51ov3J/view?usp=sharing) within 5 days of the initial request for a leave of absence
-    - Include [Certification form](https://drive.google.com/file/d/1g0f7k07wpGbaufYTUmfBQzjMOozp7kRt/view?usp=sharing)
-       - TM has 15 days to return certification form
-    - Provide TM with [Short Term Disability paperwork](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view) (if time away if for the employee’s own condition)
-6. TM: Print off or email the Certification form for your provider to complete
-    - TMs may request reimbursement for the cost of printing forms if needed
-7. AP: Add FMLA Notice of Eligibility & Rights and Responsibilities notice to TM’s “Leaves and Attestations” folder in BambooHR
-8. AP: Add TM leave to the leave tracker
-9. AP: Add leave information in BambooHR (if leave is beginning immediately)
-
-**FMLA Certification Received:**
-1. TM:  Return certification form to AP within 15 days of beginning of the leave
-2. AP:  Reviews the form and either provides the [Designation Notice](https://drive.google.com/file/d/1gZLopSzgAw8bvdhovcKs8oZn4Qb7jeFh/view?usp=sharing) within 5 days of receiving the certification noting the approval/denial OR provide TM with an additional 7 days to provide more information or get a 2nd/3rd opinion (GitLab pays for these opinions)
-    - Include any State Entitlements the employee is approved for
-
-**If Approved:**  
-1. AP: adjust “status” column to approved in the Leave tracker
-2. AP: Edit leave status information into BambooHR
-    - Add approval letter to “Leaves and Attestations” folder in BambooHR
-    - Email both the TM and the Manager include: 
-      - Approval status
-      - Dates of approved leave
-      - Next steps for STD benefits and/or State paid benefits (if applicable)
-      - Company Sponsored Benefit information
-      - TM will remain on company sponsored benefits (medical, dental, etc) until they have exhausted all eligible job-protected leave and then will be made COBRA eligible 
-3.  TM: tracks time away as `Out Sick` in PTO by Deel.
-
-**If Denied:**  
-1. AP: Adjust “status” column to denied in the Leave tracker 
-2. AP: Add denial form to TM's “Leaves and Attestations” folder in BambooHR
-3. AP: Notify both the TM and the Manager of the denial and requirements for returning to work
-
-**FMLA Certification NOT Received:**
-1. AP: Send the [Designation Notice](https://drive.google.com/file/d/1gZLopSzgAw8bvdhovcKs8oZn4Qb7jeFh/view?usp=sharing) with Section 2 completed and provided TM 5 more days to return the completed certification
-2. AP: Add Designation Notice form to TM's “Leaves and Attestations” folder in BambooHR
-3. AP: Add the new form deadline to tracker
-    - If not received after 5 day extension:  Send the  Designation Notice with Section 1 completed
-    - Add form “Leaves and Attestations” folder in BambooHR
-    - Change “status” field in tracker to Denied
-
-## Parental Leave
-### Apply For Parental Leave in the US
- 
-1. Submit your Parental Leave request in PTO by Deel by selecting the `Parental Leave` option at least 30 days in advance.
-2. The Absence Management team will contact you within 48hrs of receiving your initial request for Parental Leave and provide you with information related to GitLab's Parental Leave policy, the Family Medical Leave Act (FMLA), and other [State leave](/handbook/people-policies/leave-of-absence/us/#state-specific-leaves) and/or pay programs (if eligible).
-3. Birthing parents will also receive an application for [Short Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) benefits and an [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form.  
-     - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this is to keep payroll consistent for the team member and reducing the number of sources for pay while on leave. GitLab will continue to offset any state related payments if applicable.
-     - Please see the Short-Term Disability claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance).
-4. Team Members will need to review and email all completed documents to leaves@gitlab.com by the deadlines given.
-
-### Absence Management Team Administrative Processing During Parental Leave
-1. Enter details of the team member and the dates of their Parental Leave request in the current year tab on the "Parental Leave Log" Google sheet on the drive.
-2. Review the team members eligibility for FMLA and other State Leave/Pay programs.
-3. US Non-Birthing Team Members:  Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, and other required State Leave and Pay notices as attachments. 
-    - PTO by Deel will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually.
-4. US Birthing Parents Only: Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, medical certificate, Short-Term Disability application, Assignment of Benefits forms, and other required State Leave and Pay program notices.
-5. Add a note to Column L stating the due dates for these forms to be returned to the Absence Management Team.
-6. Confirm via email how the team members payments will be processed and complete a Parental Leave Pay Schedule report if the team member is eligible for State pay benefits.
-7. When completed documents are returned review for approval under FMLA and/or State Leave, email Assignment of Benefits form and employer completed portion of the STD application to Cigna, and upload all documents received into the team member's BambooHR 'Leaves and Attestations" folder.
-8. Email the team members applicable FMLA Designation Notice and explain how many hours of eligible leave time (both FMLA, State, and Parental Leacvce) will be used per the dates they requested.
-9. Add the team member's leave information on the "Top Up Pay" tab in the Parental Leave Log google sheet.
-10. Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
-11. If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
-12. If the dates in PTO by Deel change, update the BambooHR status accordingly, and begin again at Step 8.
- 
-### Payroll Processing During Parental Leave
-**Non-Birthing Parent Pay**
-Non-Birthing parents are not eligible to receive Short-Term Disability pay during Parental Leave, so if the team member is not eligible for State Paid Family Leave, they will receive 100% of their regular salary from GitLab following our normal bi-monthly pay cycle.  
-
-If a non-birthing parent is eligible for State paid benefits, the Absence Management team will calculate their pay minus these benefits on the Top Up Pay tab, and report those wages via the Pay Changes report at least 7 days before payday.
- 
-**Birthing Parent Pay**
-Unless a Birthing Parents is eligible for State paid disability benefits and/or State paid family leave beneits, they will continue to receive 100% of their regular salary from GitLab following our normal bi-monthly pay cycle.
-
-If a birthing parent is eligible for State paid benefits, the Absence Management team will calculate their pay minus these benefits on the Top Up Pay tab, and report those wages via the Pay Changes report at least 7 days before payday.
-
-## State-Specific Allowed Leaves
- 
-To learn more about State-specific leave laws, please visit the [US Leaves of Absence page](/handbook/people-policies/leave-of-absence/us/)/
- 
 ## COBRA
  
 If you are enrolled in medical, dental, and/or vision when you terminate from GitLab (either voluntarily or involuntarily), you may be eligible to continue your coverage through [COBRA](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf).
@@ -793,6 +688,19 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
  
 If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact WEX (Discovery) Benefits directly: (866) 451-3399.
  
+## GitLab Inc. United States Leave Policy
+ All information regarding leave policies in the United States (including FMLA, CFRA) can be found on the [Leave of Absence - US](/handbook/people-policies/leave-of-absence/us/) handbook page.
+
+## Parental Leave
+
+### Apply For Parental Leave in the US
+
+Information regarding GitLab's Parental Leave policy and how to apply, can be found on our [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) overview on our Benefits handbook page. 
+
+## State-Specific Allowed Leaves
+ 
+To learn more about State-specific leave laws, please visit the [Leave of Absence - US](/handbook/people-policies/leave-of-absence/us/) handbook page.
+
 #### 2022 
 **Medical**
  
