@@ -43,10 +43,10 @@ Onboarding is essential for all Engineering Managers at GitLab. As part of onboa
 
 Each Engineering Manager (EM) is responsible for developing a Backup Plan in the case that an EM has to take an unplanned extended OOO.  In order to minimize the team disruptions, this plan should be executed once an EM decides it is the best course of action.  An example is below:
 
-| Peer EM Backup (preferably FE / BE pairs) | Senior Team Member | Manager of EM |
+| Peer EM Backup (preferably FE / BE pairs) | Senior Team Member | Manager of EM                  |
 | ------ | ------ |  ------ |
-| Participate in the Team Retrospective, highlight items to company-wide retro, read items on call if necessary | Work with PM on Backlog Refinement and Milestone Planning	 |  Complete Expensify Reports | 
-| Conduct Synchronous / Asynchronous 1-1’s (if more than 1 week) | New Hire Onboarding |  Handle Expense Questions |
+| Participate in the Team Retrospective, highlight items to company-wide retro, read items on call if necessary | Work with PM on Backlog Refinement and Milestone Planning	 | Complete Navan Expense Reports | 
+| Conduct Synchronous / Asynchronous 1-1’s (if more than 1 week) | New Hire Onboarding | Handle Expense Questions       |
 | Manager Approvals (Access to staging, etc)
  
 Please, consider including timing details. Example: If outage spans last/first week of the milestone, participate in planning the milestone with PM. 
