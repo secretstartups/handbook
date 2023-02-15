@@ -83,35 +83,244 @@ Use GL Code COGS if you are with the following Department, otherwise please use 
    - Customer Support
    - Education Delivery
 
-| Expense Category | Policy | GL Code NON-COGS | GL Code COGS | Navan Policy Category | Limit |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| AirFare | Refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/). | 6003 - Airfare | 5003 - Airfare COGS | Airfare & fees | - To be booked in Navan.<br>- When booked outside Navan - will flag approval required by AP Admin. |
-| Books (Audio /E-Books included) | All books are reimbursable if used to optimize your job position. | 6021 - Professional dues, membership fees | 5021 - Professional dues, membership fees COGS | Books, dues & subscriptions | Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense. |
-| Business Cards | Business cards are ordered from Moo as per the instructions provided by the People Experience team. Urgent Business cards needed for the day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service. | 6040 - Office Supplies | 5040 - Office Supplies COGS | Office Supplies | To be ordered via Moo, attach receipt from Moo. |
-| Car Rental | Refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/). | 6063 - Taxis, Car Service, Public Transportation | 5063 - Taxis, Car Service, Public Transportation COGS | Rental cars | - To be booked in Navan.<br>- When booked outside Navan - will flag approval required by AP Admin. |
-| Co-Working Space | Coworking space is reimbursable. Must be pre-approved by Manager, and Finance (via email to expenses@gitlab.com ) before expensing. No contracts are allowed to be under the GitLab name and it must be under team members. Gitlab will not cover security deposits or advance payments for co-working space. The co-working space must be submitted monthly in the month it pertains to. | 6076 - Co Working Space | 5076 - Co Working Space | Other | - $700.00 Limit per month.<br>- Full Receipts to the provided.<br>- Copy of approved email must be submitted with first month submission.<br>- If co-working space is expensed in the month then you are only able to expense the internet reimbursement  for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis. |
-| Conferences | All costs associated with attending a conference to represent GitLab are reimbursable and an approved [completed G&D issue](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses. | 6065 - Training & Development | 5065 - Training & Development COGS | Conference attendance | - Needs to have approved G&D Development issue.<br>- AP Admin needs to review expense for approved issue. |
-| Equipment | Please refer to our [Home Office Equipment Handbook Page](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/). | 6016 - Computer & Office Equipment - Expensed | 5016 - Computer & Office Equipment - Expensed COGS | Work from home | - For Year 1 ($1,500.00) Stipend through Virtual Card.<br><br>- Year 2 onwards ($500.00) - Expensed via Navan. |
-| Get Together/Visiting Grant | Please refer to our [Incentives at Gitlab Handbook Page](https://about.gitlab.com/handbook/incentives/#get-together-grant) | 6039 - Get Togethers | 5039 - Get Together COGS | Team events & meals | Set by management when available. |
-| Gifts for Significant Life Events and Team Member Gifts | Please refer to our [Celebrations and Significant Life Events Handbook Page](https://about.gitlab.com/handbook/people-group/celebrations/). | 6028 - Gifts internal | 5028 - Gifts Internal COGS | Gifts - internal | - Gift Cards/Cash are not Allowed; Qualified gifts are capped at $125 per transaction.<br>- Approval required by AP Admin for Navan for all purchases. |
-| Hotel | Refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/). | 6027 - Hotels & Lodging | 5027 - Hotels & Lodging COGS | Lodging | - To be booked in Navan.<br>- When booked outside Navan - approval required by AP Admin. |
-| Internet | Monthly service charges for the internet are reimbursable, but GitLab will not reimburse for any initial setup/change fees. Please expense internet costs monthly, reflecting current charges only (even if you pay by a different cadence).<br><br>**For team members in the Netherlands:** if you have not already completed the form as part of onboarding with our Netherlands payroll provider, fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at people-exp@gitlab.com. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".<br><br>**Important:** This is the process to be followed for compliance reasons for Internet expenses for the Netherlands. Please do not expense your Internet costs via Navan - these will be rejected.<br><br>If your address changes or the amount changes, please send a new form to the People Experience team, along with the invoice/letter for processing.<br><br>This is a taxable expense for GitLab Ltd. team members assuming that the internet connection is used partially for personal use as well as business use. | 6031 - Internet | 5031 - Internet COGS | Internet access | - Policy is set at $80, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.<br>- Itemized Receipt required.<br>- If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- If co-working space is also expensed in the month then you are only able to expense the internet reimbursement for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis. |
-| Laptops, insurance and repairs | All laptops are purchased through GitLab unless an employee is in a region where GitLab cannot deliver a laptop. Team member laptops can be refreshed after three years of employment. If a team member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See [Laptop handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops) for your reference.<br><br>**Repairs to company issued equipment**<br><br>If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed. The category to use in Navan is 'Tools and Materials'.<br>Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.<br>For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [Laptop Repair](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-repair) page for more info. | 1403 - Computer and Office Equipment (Laptop Purchase)<br><br>6016 - Computer and Office Equipment - Expense (Laptop Repair) | 1403 - Computer and Office Equipment (Laptop Purchase )<br><br>5016 - Computer and Office Equipment - Expense (Laptop Repair) | Tools and Materials | - Needs to have approved issue from IT team.<br>- AP Admin needs to review expense for approved issue. |
-| Marketing- related expenses | Small purchases for marketing events which are under $2,500 USD and which cannot be paid through the Procurement Process (Zip) are reimbursable. | Multiple- will be required to choose GL account | Multiple- will be required to choose GL account | Other | - Up to $2500 can be expensed via Navan.<br><br>- >$2500 needs to go through procurement process in [Zip](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/). |
-| Meals with Clients and Partners | These are reimbursable, however team members should use their discretion while claiming meals with clients and partners. | 6013 - Business Meals & Entertainment | 5013 - Business Meals & Entertainment COGS | Entertaining clients | $1,500.00 per transaction. |
-| Meals: Company Provided while Traveling | To be used for team activities and food/beverages associated with travel. Refer to our [Travel Handbook Page](https://about.gitlab.com/handbook/travel/) | 6041 - Meals - Company Provided | 5041 - Meals - Company Provided COGS | Traveling: meals for myself | $100 per day. |
-| Mileage | Mileage is reimbursed according to local law: US rate per mile, rate per km in the Netherlands, or rate in Belgium. Refer to "How Mileage Rates are Based" section below. | 6046 - Parking, Gas, Tolls, Mileage | 5046 - Parking, Gas, Tolls, Mileage COGS | Distance Driven | - Based on Mileage driven, reimbursed depending on country/local law.<br>- Should Show Start and End point of trip in Navan. |
-| Office Supplies & consumables | To maintain your home office equipment, items like compressed air, pens, etc may be required from time to time. | 6040 - Office Supplies | 5040 - Office Supplies COGS | Office Supplies | $15.00 per month. |
-| Phone Service | Monthly service charges for cell phones are reimbursable for employees whose phones are vital to their position.  Actual cell phone, phone accessories and family plans are not reimbursable. | 6064 - Telephone | 5064 - Telephone COGS | Cell phone | - Policy is set at $50, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.  A note that employees using their phone service outside of their country should try to obtain a contract which includes roaming services.<br>- Itemized Receipt required.<br>- If itemized bill, is not available, then the costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- Tablets. Watches, Phone Device are not reimbursable. |
-| Postage/Shipping/Customs Fees | Postage/shipping/custom charges related to the sending and or receiving of work documentation or special packages can be reimbursed. | 6049 - Postage & Shipping | 5049 - Postage & Shipping COGS | Shipping & postage | $100.00 per transaction. |
-| Professional dues, membership fees | All costs associated with professional dues and membership fees are reimbursable and an approved [completed G&D issue](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses. | 6021 - Professional dues, membership fees | 5021 - Professional dues, membership fees COGS | Books, dues & subscriptions | - Needs to have approved G&D Development issue.<br>- AP Admin needs to review expense for approved issue. |
-| Software | All software subscriptions are not reimbursable. Team members that would like to purchase software will need to go through the Procurement process. Please refer to the [Individual Use Software Handbook Page](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/) | N/A | N/A | N/A | - Not Reimbursable.<br>- Please follow Guidance from Handbook. |
-| Team Building | To be used for team activities and food/beverages associated with special team events. Amount allowed is dependent on their department budget for the year. | 6071 - Team Building | 5071 - Team Building COG | Team events & meals | $50 a quarter. |
-| Training/Tuition | All costs associated with training or tuition are reimbursable (up to $10K) and an approved [completed G&D issue](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses. | 6065 - Training & Development COGS | 5065 - Training & Development COGS | Other | - Needs to have approved G&D Development issue.<br>- AP Admin needs to review expense for approved issue. |
-| Transportation/Parking | Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable | 6046 - Parking, Gas, Tolls, Mileage | 5046 - Parking, Gas, Tolls, Mileage COGS | Public transport, tolls & parking | $300.00 per transaction. |
-| Travel (Other) | Includes internet while traveling. Please refer to our [Travel Handbook Page](https://about.gitlab.com/handbook/travel/) | N/A | N/A | N/A | N/A |
-| VPN Subscription | Please read [Why We Don't Have A Corporate VPN](https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn), and check out our [Personal VPN page](https://about.gitlab.com/handbook/tools-and-tips/personal-vpn/) regarding usage at GitLab. | 6060 - Software Subscriptions | 5060 - Software Subscriptions | Other | - To be claimed per month.<br>- Itemized Receipt required. |
-| Wire fees (Equity compensation) | Team members **outside of the USA** where there is no option to disburse equity funds from E*TRADE without incurring wire fees may expense those fees. | 6008 - Bank Fees | 5008 - Bank Fees COGS | Other | Will flag approval required by AP Admin. |
+<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 200px">
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 220px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-fymr">Expense Category</th>
+    <th class="tg-fymr">Policy</th>
+    <th class="tg-fymr">GL Code NON-COGS</th>
+    <th class="tg-fymr">GL Code COGS</th>
+    <th class="tg-fymr">Navan Policy Category</th>
+    <th class="tg-fymr"><span style="font-weight:bold">Limit</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-btxf">AirFare</td>
+    <td class="tg-btxf">Refer to the <a href="https://about.gitlab.com/handbook/travel/"><span style="color:#905">Travel Handbook Page</span></a>.</td>
+    <td class="tg-btxf">6003 - Airfare</td>
+    <td class="tg-btxf">5003 - Airfare COGS</td>
+    <td class="tg-btxf">Airfare &amp; fees</td>
+    <td class="tg-btxf">- To be booked in Navan.<br> - When booked outside Navan - will flag approval required by AP Admin.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Books (Audio /E-Books included)</td>
+    <td class="tg-0pky">All books are reimbursable if used to optimize your job position.</td>
+    <td class="tg-0pky">6021 - Professional dues, membership fees</td>
+    <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
+    <td class="tg-0pky">Books, dues &amp; subscriptions</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Business Cards</td>
+    <td class="tg-btxf">Business cards are ordered from Moo as per the instructions provided by the People Experience team. Urgent Business cards needed for the day of start can be requested by emailing <a href="mailto:&#112;&#101;&#x6f;&#x70;&#108;&#101;&#x2d;&#101;&#x78;&#x70;&#64;&#103;&#105;&#x74;&#x6c;&#97;&#x62;&#46;&#99;&#111;&#x6d;"><span style="color:#905">people-exp@gitlab.com</span></a>. As a last resort, Moo does offer 3 to 4 Day Express service.</td>
+    <td class="tg-btxf">6040 - Office Supplies</td>
+    <td class="tg-btxf">5040 - Office Supplies COGS</td>
+    <td class="tg-btxf">Office Supplies</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Car Rental</td>
+    <td class="tg-0pky">Refer to the <a href="https://about.gitlab.com/handbook/travel/"><span style="color:#905">Travel Handbook Page</span></a>.</td>
+    <td class="tg-0pky">6063 - Taxis, Car Service, Public Transportation</td>
+    <td class="tg-0pky">5063 - Taxis, Car Service, Public Transportation COGS</td>
+    <td class="tg-0pky">Rental cars</td>
+    <td class="tg-0pky">- To be booked in Navan.<br> - When booked outside Navan - will flag approval required by AP Admin.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Co-Working Space</td>
+    <td class="tg-btxf">Coworking space is reimbursable. Must be pre-approved by Manager, and Finance (via email to <a href="mailto:&#x65;&#x78;&#x70;&#101;&#110;&#x73;&#101;&#115;&#64;&#103;&#105;&#116;&#x6c;&#97;&#x62;&#x2e;&#99;&#111;&#109;"><span style="color:#905">expenses@gitlab.com</span></a> ) before expensing. No contracts are allowed to be under the GitLab name and it must be under team members. Gitlab will not cover security deposits or advance payments for co-working space. The co-working space must be submitted monthly in the month it pertains to.</td>
+    <td class="tg-btxf">6076 - Co Working Space</td>
+    <td class="tg-btxf">5076 - Co Working Space</td>
+    <td class="tg-btxf">Other</td>
+    <td class="tg-btxf">- $700.00 Limit per month.<br> - Full Receipts to the provided.<br> - Copy of approved email must be submitted with first month submission.<br> - If co-working space is expensed in the month then you are only able to expense the internet reimbursement for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Conferences</td>
+    <td class="tg-0pky">All costs associated with attending a conference to represent GitLab are reimbursable and an approved <a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/"><span style="color:#905">completed G&amp;D issue</span></a> will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses.</td>
+    <td class="tg-0pky">6065 - Training &amp; Development</td>
+    <td class="tg-0pky">5065 - Training &amp; Development COGS</td>
+    <td class="tg-0pky">Conference attendance</td>
+    <td class="tg-0pky">- Needs to have approved G&amp;D Development issue.<br> - AP Admin needs to review expense for approved issue.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Equipment</td>
+    <td class="tg-btxf">Please refer to our <a href="https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/"><span style="color:#905">Home Office Equipment Handbook Page</span></a>.</td>
+    <td class="tg-btxf">6016 - Computer &amp; Office Equipment - Expensed</td>
+    <td class="tg-btxf">5016 - Computer &amp; Office Equipment - Expensed COGS</td>
+    <td class="tg-btxf">Work from home</td>
+    <td class="tg-btxf">- For Year 1 ($1,500.00) Stipend through Virtual Card.<br> - Year 2 onwards ($500.00) - Expensed via Navan.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Get Together/Visiting Grant</td>
+    <td class="tg-0pky">Please refer to our <a href="https://about.gitlab.com/handbook/incentives/#get-together-grant"><span style="color:#905">Incentives at Gitlab Handbook Page</span></a></td>
+    <td class="tg-0pky">6039 - Get Togethers</td>
+    <td class="tg-0pky">5039 - Get Together COGS</td>
+    <td class="tg-0pky">Team events &amp; meals</td>
+    <td class="tg-0pky">Set by management when available.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Gifts for Significant Life Events and Team Member Gifts</td>
+    <td class="tg-btxf">Please refer to our <a href="https://about.gitlab.com/handbook/people-group/celebrations/"><span style="color:#905">Celebrations and Significant Life Events Handbook Page</span></a>.</td>
+    <td class="tg-btxf">6028 - Gifts internal</td>
+    <td class="tg-btxf">5028 - Gifts Internal COGS</td>
+    <td class="tg-btxf">Gifts - internal</td>
+    <td class="tg-btxf">- Gift Cards/Cash are not Allowed; Qualified gifts are capped at $125 per transaction.<br> - Approval required by AP Admin for Navan for all purchases.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hotel</td>
+    <td class="tg-0pky">Refer to the <a href="https://about.gitlab.com/handbook/travel/"><span style="color:#905">Travel Handbook Page</span></a>.</td>
+    <td class="tg-0pky">6027 - Hotels &amp; Lodging</td>
+    <td class="tg-0pky">5027 - Hotels &amp; Lodging COGS</td>
+    <td class="tg-0pky">Lodging</td>
+    <td class="tg-0pky">- To be booked in Navan.<br> - When booked outside Navan - approval required by AP Admin.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Internet</td>
+    <td class="tg-btxf">Monthly service charges for the internet are reimbursable, but GitLab will not reimburse for any initial setup/change fees. Please expense internet costs monthly, reflecting current charges only (even if you pay by a different cadence).<br><br><span style="font-weight:bold">For team members in the Netherlands:</span> if you have not already completed the form as part of onboarding with our Netherlands payroll provider, fill in and sign the <a href="https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq"><span style="color:#905">Regeling Internet Thuis</span></a> form and send it to the People Experience team at <a href="mailto:&#112;&#101;&#111;&#x70;&#108;&#x65;&#x2d;&#x65;&#x78;&#112;&#64;&#x67;&#x69;&#x74;&#108;&#97;&#x62;&#x2e;&#99;&#x6f;&#109;"><span style="color:#905">people-exp@gitlab.com</span></a>. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".<br><br><span style="font-weight:bold">Important:</span> This is the process to be followed for compliance reasons for Internet expenses for the Netherlands. Please do not expense your Internet costs via Navan - these will be rejected.<br><br>If your address changes or the amount changes, please send a new form to the People Experience team, along with the invoice/letter for processing.<br><br>This is a taxable expense for GitLab Ltd. team members assuming that the internet connection is used partially for personal use as well as business use.</td>
+    <td class="tg-btxf">6031 - Internet</td>
+    <td class="tg-btxf">5031 - Internet COGS</td>
+    <td class="tg-btxf">Internet access</td>
+    <td class="tg-btxf">- Policy is set at $80, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.<br>- Itemized Receipt required.<br>- If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- If co-working space is also expensed in the month then you are only able to expense the internet reimbursement for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Laptops, insurance and repairs</td>
+    <td class="tg-0pky">All laptops are purchased through GitLab unless an employee is in a region where GitLab cannot deliver a laptop. Team member laptops can be refreshed after three years of employment. If a team member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops"><span style="color:#905">Laptop handbook page</span></a> for your reference.<br><br><span style="font-weight:bold">Repairs to company issued equipment</span><br><br>If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed. The category to use in Navan is 'Tools and Materials'.Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-repair"><span style="color:#905">Laptop Repair</span></a> page for more info.</td>
+    <td class="tg-0pky">1403 - Computer and Office Equipment (Laptop Purchase)<br><br>6016 - Computer and Office Equipment - Expense (Laptop Repair)</td>
+    <td class="tg-0pky">1403 - Computer and Office Equipment (Laptop Purchase )<br><br>5016 - Computer and Office Equipment - Expense (Laptop Repair)</td>
+    <td class="tg-0pky">Tools and Materials</td>
+    <td class="tg-0pky">- Needs to have approved issue from IT team.<br>- AP Admin needs to review expense for approved issue.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Marketing- related expenses</td>
+    <td class="tg-btxf">Small purchases for marketing events which are under $2,500 USD and which cannot be paid through the Procurement Process (Zip) are reimbursable.</td>
+    <td class="tg-btxf">Multiple- will be required to choose GL account</td>
+    <td class="tg-btxf">Multiple- will be required to choose GL account</td>
+    <td class="tg-btxf">Other</td>
+    <td class="tg-btxf">- Up to $2500 can be expensed via Navan.<br>- &gt;$2500 needs to go through procurement process in <a href="handbook/business-technology/enterprise-applications/guides/zip-guide/"><span style="color:#905">Zip</span></a>.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Meals with Clients and Partners</td>
+    <td class="tg-0pky">These are reimbursable, however team members should use their discretion while claiming meals with clients and partners.</td>
+    <td class="tg-0pky">6013 - Business Meals &amp; Entertainment</td>
+    <td class="tg-0pky">5013 - Business Meals &amp; Entertainment COGS</td>
+    <td class="tg-0pky">Entertaining clients</td>
+    <td class="tg-0pky">$1,500.00 per transaction.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Meals: Company Provided while Traveling</td>
+    <td class="tg-btxf">To be used for team activities and food/beverages associated with travel. Refer to our <a href="https://about.gitlab.com/handbook/travel/"><span style="color:#905">Travel Handbook Page</span></a></td>
+    <td class="tg-btxf">6041 - Meals - Company Provided</td>
+    <td class="tg-btxf">5041 - Meals - Company Provided COGS</td>
+    <td class="tg-btxf">Traveling: meals for myself</td>
+    <td class="tg-btxf">$100 per day.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Mileage</td>
+    <td class="tg-0pky">Mileage is reimbursed according to local law: US rate per mile, rate per km in the Netherlands, or rate in Belgium. Refer to "How Mileage Rates are Based" section below.</td>
+    <td class="tg-0pky">6046 - Parking, Gas, Tolls, Mileage</td>
+    <td class="tg-0pky">5046 - Parking, Gas, Tolls, Mileage COGS</td>
+    <td class="tg-0pky">Distance Driven</td>
+    <td class="tg-0pky">- Based on Mileage driven, reimbursed depending on country/local law.<br>- Should Show Start and End point of trip in Navan.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Office Supplies &amp; consumables</td>
+    <td class="tg-btxf">To maintain your home office equipment, items like compressed air, pens, etc may be required from time to time.</td>
+    <td class="tg-btxf">6040 - Office Supplies</td>
+    <td class="tg-btxf">5040 - Office Supplies COGS</td>
+    <td class="tg-btxf">Office Supplies</td>
+    <td class="tg-btxf">$15.00 per month.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Phone Service</td>
+    <td class="tg-0pky">Monthly service charges for cell phones are reimbursable for employees whose phones are vital to their position.  Actual cell phone, phone accessories and family plans are not reimbursable.</td>
+    <td class="tg-0pky">6064 - Telephone</td>
+    <td class="tg-0pky">5064 - Telephone COGS</td>
+    <td class="tg-0pky">Cell phone</td>
+    <td class="tg-0pky">- Policy is set at $50, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.  A note that employees using their phone service outside of their country should try to obtain a contract which includes roaming services.<br>- Itemized Receipt required.<br>- If itemized bill, is not available, then the costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- Tablets, Watches, Phone Device are not reimbursable.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Postage/Shipping/Customs Fees</td>
+    <td class="tg-btxf">Postage/shipping/custom charges related to the sending and or receiving of work documentation or special packages can be reimbursed.</td>
+    <td class="tg-btxf">6049 - Postage &amp; Shipping</td>
+    <td class="tg-btxf">5049 - Postage &amp; Shipping COGS</td>
+    <td class="tg-btxf">Shipping &amp; postage</td>
+    <td class="tg-btxf">$100.00 per transaction.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Professional dues, membership fees</td>
+    <td class="tg-0pky">All costs associated with professional dues and membership fees are reimbursable and an approved <a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/"><span style="color:#905">completed G&amp;D issue]</span></a> will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses.</td>
+    <td class="tg-0pky">6021 - Professional dues, membership fees</td>
+    <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
+    <td class="tg-0pky">Books, dues &amp; subscriptions</td>
+    <td class="tg-0pky">- Needs to have approved G&amp;D Development issue.<br>- AP Admin needs to review expense for approved issue.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Software</td>
+    <td class="tg-btxf">All software subscriptions are not reimbursable. Team members that would like to purchase software will need to go through the Procurement process. Please refer to the <a href="https://about.gitlab.com/handbook/finance/procurement/personal-use-software/"><span style="color:#905">Individual Use Software Handbook Page</span></a></td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">- Not Reimbursable.<br>- Please follow Guidance from Handbook.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Team Building</td>
+    <td class="tg-0pky">To be used for team activities and food/beverages associated with special team events. Amount allowed is dependent on their department budget for the year.</td>
+    <td class="tg-0pky">6071 - Team Building</td>
+    <td class="tg-0pky">5071 - Team Building COG</td>
+    <td class="tg-0pky">Team events &amp; meals</td>
+    <td class="tg-0pky">$50 a quarter.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Training/Tuition</td>
+    <td class="tg-btxf">All costs associated with training or tuition are reimbursable (up to $10K) and an approved <a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/"><span style="color:#905">completed G&amp;D issue</span></a> will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses.</td>
+    <td class="tg-btxf">6065 - Training &amp; Development COGS</td>
+    <td class="tg-btxf">5065 - Training &amp; Development COGS</td>
+    <td class="tg-btxf">Other</td>
+    <td class="tg-btxf">- Needs to have approved G&amp;D Development issue.<br>- AP Admin needs to review expense for approved issue.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Transportation/Parking</td>
+    <td class="tg-0pky">Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable</td>
+    <td class="tg-0pky">6046 - Parking, Gas, Tolls, Mileage</td>
+    <td class="tg-0pky">5046 - Parking, Gas, Tolls, Mileage COGS</td>
+    <td class="tg-0pky">Public transport, tolls &amp; parking</td>
+    <td class="tg-0pky">$300.00 per transaction.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Travel (Other)</td>
+    <td class="tg-btxf">Includes internet while traveling. Please refer to our <a href="https://about.gitlab.com/handbook/travel/"><span style="color:#905">Travel Handbook Page</span></a></td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">N/A</td>
+    <td class="tg-btxf">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">VPN Subscription</td>
+    <td class="tg-0pky">Please read <a href="https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn"><span style="color:#905">Why We Don't Have A Corporate VPN</span></a>, and check out our <a href="https://about.gitlab.com/handbook/tools-and-tips/personal-vpn/"><span style="color:#905">Personal VPN page</span></a> regarding usage at GitLab.</td>
+    <td class="tg-0pky">6060 - Software Subscriptions</td>
+    <td class="tg-0pky">5060 - Software Subscriptions</td>
+    <td class="tg-0pky">Other</td>
+    <td class="tg-0pky">- To be claimed per month.<br>- Itemized Receipt required.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">Wire fees (Equity compensation)</td>
+    <td class="tg-btxf">Team members <span style="font-weight:bold">outside of the USA</span> where there is no option to disburse equity funds from E*TRADE without incurring wire fees may expense those fees.</td>
+    <td class="tg-btxf">6008 - Bank Fees</td>
+    <td class="tg-btxf">5008 - Bank Fees COGS</td>
+    <td class="tg-btxf">Other</td>
+    <td class="tg-btxf">Will flag approval required by AP Admin.</td>
+  </tr>
+</tbody>
+</table>
 
 ### Missing a Receipt?
 
