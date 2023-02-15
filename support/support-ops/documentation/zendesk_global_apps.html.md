@@ -52,29 +52,30 @@ App information:
   available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/advanced-search/).
 
-### Due Date Picker
+### Zendesk Super App
 
-This is a GitLab built app that allows you to customize what the Due Date for a
-Task ticket is set for. By default, Zendesk only allows setting the date. This
-enables you to set the date, time, and timezone.
+A plugin controlled app that can do several things Zendesk related
+
+The current plugins are:
+
+* **Due date picker**
+  > This allows you to customize what the Due Date for a Task ticket is set for. By default, Zendesk only allows setting the date. This enables you to set the date, time, and timezone.
+  > 
+  > You can also set the Due Date Note and disable (or enable) task notifications using this app.
+* **Escalated tickets**
+  > This searches for tickets under the organization that have been escalated within the last 6 months.
+* **Related tickets**
+  > This looks for tickets related to the current one based off the category (or subcategory) the ticket is currently using. It then displays up to 5 of them (sorted by the update_at value of the ticket, descending).
+* **Support Uploader**
+  > A simple app to create FTP credentials for a ticket.
+* **Attachments**
+  > Displays attachments present on the ticket.
 
 App information:
 
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
-  [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/due-date-picker).
-
-### Support Uploader
-
-This app acts as a bridge between the files uploaded via
-[support uploader](https://about.gitlab.com/handbook/support/workflows/large_files.html#support-uploader)
-and Zendesk.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed in-house and can be found
-  [Support Uploader project](https://gitlab.com/gitlab-com/support/support-uploader).
+  [Zendesk Supper App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
 
 ### Unbabel for Zendesk Support
 
@@ -294,20 +295,6 @@ App information:
 * This application was developed in-house and can be found
   [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-reminders-app).
 
-### Show Related Tickets
-
-This uses the ticket subject to search for other tickets with a similar
-subject. This helps to locate potentially related tickets you can check to see
-how they were solved.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed by
-  [Zendesk](https://www.zendesk.com/marketplace/partners/zendesk/) and is
-  available in the
-  [Zendesk Marketplace](https://www.zendesk.com/apps/support/show-related-tickets/).
-
 ### Ticket Redaction App
 
 This allows for redacting content in a ticket. You input a string or URL for
@@ -358,18 +345,6 @@ App information:
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
   [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-architecture).
-
-### Gainsight
-
-Gainsight aggregates and turns disparate customer data from multiple sources
-into a single source of truth. This is largely used by the Sales team, but it
-might contain some information about the Organization that could prove useful.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed by Gainsight and is available in the
-  [Zendesk Marketplace](https://www.zendesk.com/apps/support/gainsight/).
 
 ### SFDC Tool
 
