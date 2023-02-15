@@ -73,3 +73,4 @@ This Working Group has the following goals:
 | Member             | Mark Florian          | Staff Frontend Engineer, Manage:Foundations                  |
 | Member             | Laura Meckley         | Frontend Engineer, Fulfillment::Billing & Subscription Mgmt  |
 | Member             | Andrei Zubov          | Frontend Engineer, Release                                   |
+| Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring            |
