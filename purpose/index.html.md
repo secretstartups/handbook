@@ -13,7 +13,7 @@ canonical_path: "/company/purpose/"
 
 ## Purpose
 
-GitLab’s purpose is to help people increase their lifetime earning through training, access to opportunities, and the DevOps platform.
+GitLab’s purpose is to help people increase their lifetime earnings through access to opportunities and the DevOps platform.
 
 ## Identifying GitLab's Purpose
 
