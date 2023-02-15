@@ -107,8 +107,8 @@ Communicate broadly when you will be away so other people can manage time effici
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
 - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 calendar days.
-- Expensify: delegate expense approval to your back-up team member by following these steps:
-        - Expensify
+- Navan Expense: delegate expense approval to your back-up team member by following these steps:
+        - Navan Expense
         - Settings
         - Your Account
         - Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
