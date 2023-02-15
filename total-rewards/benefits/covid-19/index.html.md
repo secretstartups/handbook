@@ -58,7 +58,7 @@ Many countries have adopted their own statutory [COVID leave policies](/handbook
 
 To continue supporting our team members globally, we will be offering to cover the cost of the COVID-19 vaccine for team members where the cost is not fully covered by the local government. 
 
-Team members can use our [expense reimbursement](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. When adding this expense to Expensify, team members should use the tag (classification) `FY22_COVIDVaccine`. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.  
+Team members can use our [expense reimbursement](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. When adding this expense to Navan Expense, team members should use the tag (classification) `FY22_COVIDVaccine`. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.  
 
 ## Resources for COVID-19
 
