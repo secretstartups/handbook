@@ -26,11 +26,19 @@ The following people are members of the Reliability:Practices team
 
 Currently, Practices team supports Infrastructure Reliability related to the below services;
 
-| Service | Description |
-| ------- | ----------- |
-| Git, Cluster | Systems:Gitaly|
-| Runner, Runner SaaS | Verify:Runner |
-| Fulfillment | Fulfillment:Fulfillment Platform |
+|**Stage Group**|**Reliability:Practices Team Members**|
+|--------------|-----------------------------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% if stage.groups %>
+      <% stage.groups.each do |groupKey, group| %>
+        <% if group.infra_reliability_team_tag %>
+          <%= "| [#{stage.display_name}:#{group.name}](/handbook/product/categories/##{group.name.downcase}-group) | #{team_links_from_group(group: group.infra_reliability_team_tag)} |" %>
+        <% end %>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %>
 
 ## Useful Links
 
@@ -137,22 +145,6 @@ Participants:
    * If members are pulled in to incidents or other unrelated work.
    * Service problems or work that could impact other services
    * Link discussions regarding the future of the service here.
-
-### Ongoing Stage group engagements
-
-|**Stage Group**|**Reliability:Practices Team Members**|
-|--------------|-----------------------------|
-<% data.sections.each do |sectionKey, section| %>
-  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
-    <% if stage.groups %>
-      <% stage.groups.each do |groupKey, group| %>
-        <% if group.infra_reliability_team_tag %>
-          <%= "| [#{stage.display_name}:#{group.name}](/handbook/product/categories/##{group.name.downcase}-group) | #{team_links_from_group(group: group.infra_reliability_team_tag)} |" %>
-        <% end %>
-      <% end %>
-    <% end %>
-  <% end %>
-<% end %>
 
 ## Best practices
 
