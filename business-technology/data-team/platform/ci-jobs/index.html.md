@@ -24,13 +24,6 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing. 
 * If still uncertain or facing any issues, request assistance in the #data Slack channel  
 
-### Pipeline variables not being passed to the job
-
-* There is currently an issue with the GitLab CI pipelines. Pipelines which require variables to be passed through to them only allow for this to happen once.
-* This means that if you would like to test using the dbt models pipelines to run the process for a second time you should create a new pipeline. 
-* The easiest way to do to this is to click the blue run pipeline button as below: 
-![run_pipeline_button.png](run_pipeline_button.png)
-
 ### Variable Name not found in the CI Pipeline job
 This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to [CI/CD setting](https://gitlab.com/gitlab-data/analytics/-/settings/ci_cd) i.e. settings --> ci_cd --> variable, also provide the variable value.      
 **Notes:-** Turn off the Flags, so the variable is accessible from the CI pipeline.   
