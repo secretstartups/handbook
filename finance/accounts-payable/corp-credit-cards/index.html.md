@@ -28,6 +28,15 @@ decription: >-
 - Navan Physical Cards are limited to team members in certain positions that require a card.  These cards are not for company wide use.
 - If you believe your position qualifies for a card, please reach out to ap@gitlab.com and we will send you the instructions on next steps.
 
+
+<div class="panel panel-danger">
+**IMPORTANT NOTE**
+{: .panel-heading}
+<div class="panel-body">
+When ordering your Navan Physical Card, please be sure to customize and use your physical address to which the card should be delivered. If you choose the GitLab address (defaulted), there will be additional shipping delays and unnecessary shipping costs associated with forwarding to your home.
+</div>
+</div>
+
 ## <i id="biz-tech-icons" class="fas fa-stream"></i> Guidelines for Card Use
 - Navan Physical card should not be used to bypass the Procurement process.
 - All card charges require a receipt. You can add the receipt once the charge reflects in Navan Physical.
