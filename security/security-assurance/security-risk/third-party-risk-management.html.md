@@ -78,11 +78,11 @@ graph TB
                 zgYApprov[Security Approves]:::Green
 
             %% Orange
-                zgAssess{Third Party Security Assessment Begins}
+                zgAssess{Third Party Security<br>Assessment Begins}
                     zgQuest[Security Questionnaire Sent]
                     zgTPResponse[Third Party Responds]
                     zgReview[Security Reviews]
-                    zgMeets{Response Satisfies GitLab Standards?}
+                    zgMeets{Response Satisfies<br>GitLab Standards?}
                         zgMeetsNo[No]
                         zgMeetsYes[Yes]
                         zgFup[Follow-up Required]
@@ -90,7 +90,7 @@ graph TB
                         zgIssueY{Yes}
                         zgIssueN[No]
                         zgAccept[Business Owner Accepts Risk]
-                        zgStop[Business Owner Chooses Not to Work with Third Party]
+                        zgStop[Business Owner Chooses<br>Not to Work with Third Party]
             zgORApprov[Security Approves]:::Green
 
              %% Red
@@ -106,8 +106,8 @@ graph TB
 
         zgGreen --> zgGApprov
         zgYellow --> zgYApprov
+        zgRed --> zgAssess
         zgOR --> zgAssess
-    zgRed --> zgAssess
 
         zgAssess --> zgQuest --> zgTPResponse --> zgReview --> zgMeets
             zgMeets --> zgMeetsNo --> zgFup --> zgQuest
@@ -147,12 +147,59 @@ GitLab TPRM Engineers reserve the right to perform additional procedures at thei
 | Data Classification | Request | Supplemental Questionnaire in Zen? | CUEC Mapping? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |------ |------ |
 |Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	If applicable|	Yes|	If applicable| Yes |
-|Orange (SaaS System)|	3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
-|Orange	(non-SaaS)|3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	-	|Yes	|-| No|
-|Yellow/Green	|-|	-|	-|	-|	-|	-| No |
+|Orange SaaS System| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
+|Orange	GL/GL Team Member-hosted System| 3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	No	|Yes	|No| No|
+|Professional Services | 3rd Party Attest or SIG (See Below)|	No|	No|	No| No|	No| No|
+|Yellow/Green	|-|	-|	-|	-|	-|	-| - |
 
 *Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange vendors.<br>
 **Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
+
+#### The Standard Information Gathering (SIG) Questionnaire
+
+The Security Risk Team leverages a [Standard Information Gathering (SIG)](https://sharedassessments.org/sig/) Questionnaire to gain a more in-depth understanding of a vendor's Security environment beyond what is attained by reviewing a Third-Party Attestation (such as an ISO certification or SOC-2 report). Responses within the SIG questionnaire, or an equivalent document such as a CAIQ, should be reviewed alongside the vendor's third-party attestation (if available) and their responses to our Security Questionnaire when assessing the Security environment in place within the service organization.
+
+Security Risk maintains multiple templated versions of the SIG questionnaire for use depending on the product or service being assessed, as some vendors may not have a SIG questionnaire or equivalent to provide. Note that these SIG templates include multiple tabs which are not required for our procedures to gain assurance over a vendor's environment. When distributing these templates the vendor should be instructed that we only require Inquiry responses within Columns D and E of the main questionnaire tab, as additional requests for information or documentation within the SIG are generallt not required. Note that potential fringe cases _could_ exist wherein professional discretion may dictate the necessity for additional documentation requests to supplement vendor responses. Theses scenarios should be discussed with the Security Risk Manager to determine what is needed. Further, professional discretion should be applied when making decisions as to which version of the SIG questionnaire should be sent. For cases in which the level of review required is unclear, engineers are encouraged to send the full SIG Lite Plus questionnaire or discuss with the @Security-Risk team in the #Sec-Assurance-Team channel to come to a decision.
+- SIG Lite Plus
+    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Managemenet" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
+    - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
+        - A. Enterprise Risk Management (Full SIG Content)
+        - B. Security Policy
+        - C. Organizational Security
+        - D. Asset and Info Management
+        - E. Human Resources Security (Full SIG Content)
+        - F. Physical and Environmental
+        - G. IT Operations Management
+        - H. Access Control
+        - I. Application Security
+        - J. Cybersecurity Incident Mgmt
+        - K. Operational Resilience
+        - L. Compliance and Ops Risk
+        - M. Endpoint Device Security
+        - N. Network Security
+        - P. Privacy
+        - T. Threat Management
+        - U. Server Security
+        - V. Cloud Hosting Services
+
+- Professional Services SIG
+    - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a new system being transmitted sensitive GitLab data. In these cases it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
+    - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
+        - D. Asset and Info Management
+        - E. Human Resources Security (Full SIG Content)
+        - F. Physical and Environmental
+        - H. Access Control
+        - L. Compliance and Ops Risk
+        - M. Endpoint Device Security
+        - N. Network Security
+        - P. Privacy
+        - T. Threat Management
+
+_SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due dilligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains._
+
+Vendor responses documented within the SIG questionnaire should be reviewed in the context of the services provided by the vendor, with care taken to understand the broader control environment and how certain insufficient controls may be mitigated by other existing controls. For example, a vendor that does not rely on 3rd party service providers in the provision of services would be unlikely to maintain a Third Party Risk Management program, which is unlikely to pose a risk to GitLab in the broader context of services being provided. Cases such as this should be flagged during the review and noted within the SIG questionnaire with an explaination on why the deficiency does not present a risk to GitLab data. Mitigating controls, if identified, should be defined within these notes as well. Engineers are encouraged to perform follow-up inquiries with vendors as necessary to determine whether a control deficiency exists. These inquiries should be further noted within the SIG document or within the TPRM Assessment Report.
+
+Deficiencies noted presenting a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the Risk Acceptance Process detailed below.
 
 ### Other Types of Third Party Assessments
 
