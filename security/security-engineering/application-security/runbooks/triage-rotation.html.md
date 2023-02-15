@@ -32,7 +32,7 @@ The following rotations are defined:
   - First responder to automated messages posted in the `#public_merge_requests_referencing_confidential_issues` Slack channel
     - Add a check mark emoji if the merge request can be public
     - If the merge request references a legitimate security issue
-      + If the issue has a `~security-fix-in-public` label, indicating it [has been approved by an AppSec team member to be fixed in public](https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html#fixing-in-public), link to the comment or "added a label" note in the Slack thread
+      + If the issue has a `~security-fix-in-public` label, indicating it [has been approved by an AppSec team member to be fixed in public](https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html#fixing-in-public), link to the comment granting approval or include a message in Slack denoting that the `~security-fix-in-public` label was added.
       + Decide if it can be public anyway, and apply the fix in public label retrospectively
       + Otherwise contact SIRT and the merge request author to get the merge request removed.
       + Use the `Urgent - SEOC should be paged right away` option if waiting up to 24 hours for a resolution would be too long.
