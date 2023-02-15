@@ -254,9 +254,46 @@ These data dictionaries provide definitions for the Release to Adoption fields u
 
 <details markdown=1>
 
-<summary><b>Release to Adoption Data Dictionaries</b></summary>
+<summary><b>Release to Adoption Dimensions (Context)</b></summary>
 
-`Coming Soon`
+- [dim_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ping_instance#columns)
+- [dim_ping_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ping_metric#columns)
+- [dim_installation](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_installation#columns)
+- [dim_gitlab_releases](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_gitlab_releases#columns)
+- [dim_user](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_user#columns)
+- [dim_namespace](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace#columns)
+- [dim_project](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_project#columns)
+- [dim_ci_build](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ci_build#columns)
+- [dim_ci_pipeline](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ci_pipeline#columns)
+- [dim_ci_runner](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ci_runner#columns)
+- [dim_ci_stage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_ci_stage#columns)
+- [dim_epic](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_epic#columns)
+- [dim_issue](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_issue#columns)
+- [dim_issue_links](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_issue_links#columns)
+- [dim_merge_request](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_merge_request#columns)
+- [dim_note](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_note#columns)
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Release to Adoption Facts (Measures)</b></summary>
+
+- [fct_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event#columns)
+- [fct_event_valid](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_valid#columns)
+- [fct_event_user_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_user_daily#columns)
+- [fct_event_namespace_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_namespace_daily#columns)
+- [fct_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance#columns)
+- [fct_ping_instance_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric#columns)
+- [fct_ping_instance_metric_7_day](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_7_day#columns)
+- [fct_ping_instance_metric_28_day](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_28_day#columns)
+- [fct_ping_instance_metric_all_time](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_all_time#columns)
+- [fct_ping_instance_metric_none_null](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_none_null#columns)
+- [fct_ping_instance_metric_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_monthly#columns)
+- [fct_ping_instance_metric_weekly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_weekly#columns)
+- [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity#columns)
+- [fct_usage_ci_minutes](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_usage_ci_minutes#columns)
+- [fct_usage_storage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_usage_storage#columns)
 
 </details>
 
