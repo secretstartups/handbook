@@ -18,7 +18,7 @@ This workflow is to determine if a blocked user can be re-instated if it has bee
 
 All blocked accounts should have an admin note with a link to a relevant issue.
 
-## Locked accounts
+# Locked accounts
 
 Sometimes users believe they are blocked, but their accounts are locked.
 
@@ -30,7 +30,7 @@ There is a [`Support::SaaS::Account Locked` macro](https://gitlab.com/gitlab-com
 
 If the user cannot find the email to unlock their account in their email account, they can [request a password reset](https://gitlab.com/users/password/new) email. Going through the password reset process should unlock their account.
 
-## Process
+# Blocked Account Process
 
 1. Only proceed with the next steps if any of the following scenarios is true:
     1. The email address the user has used to raise their request matches an email address associated with the account the request is intended for. 
@@ -47,10 +47,12 @@ If the user cannot find the email to unlock their account in their email account
 1. If established it is not a Trust and Safety block, or is blocked as a result of a SM-to-SaaS migration (conducted with or without Professional Services), a paid account can be unblocked with authorization from a user with the Owner role in the top level namespace. Free accounts can be unblocked at the discretion of the Support Engineer. 
 1. If account is unblocked, use the [`Support::SaaS::Blocked Accounts::Account Reinstated- Success`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360054271234) macro to notify the user the account has been unblocked. Otherwise, provide the reasoning from the Unblock Request as to why their account will remain blocked.
 
-> **Note:** The rest of this page is for **reference** only and should be updated to point to Security's workflow.
+---
 
-## NOTE
+NOTE:
+The rest of this page is for **reference** only and should be updated to point to Security's workflow.
 
+## Policy Reference
 1. All decisions about account reinstation are final and there is no process for appeals.
 1. These criteria are to be taken as examples **only**, and **not** as binding principles.
 1. If the account violates our ToS again within a 12 month period, it could result in being permanently banned.
