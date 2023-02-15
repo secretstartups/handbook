@@ -1,12 +1,16 @@
 ---
 layout: job_family_page
 title: "VP of Incubation Engineering"
-canonical_path: "/job-families/engineering/vp-of-incubation-engineering/"
+canonical_path: "/job-families/engineering/incubation/management/vp/"
 ---
 
-## Summary
-
 The VP of Incubation Engineering runs the [Incubation Engineering Department](/handbook/engineering/incubation/) within the Engineering Division. The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](https://internal-handbook.gitlab.io/handbook/product/investment/). Long term, the budget for this area will be ~10% of R&D. This position reports to our Chief Technical Officer.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ### Q&A with the CEO
 
@@ -15,8 +19,6 @@ While watching this video, keep in mind that this position and department was pr
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/VOpKIKiY-KI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-
 
 ## Responsibilities
 
@@ -28,7 +30,7 @@ While watching this video, keep in mind that this position and department was pr
 * Stay informed about other products' functionality and positioning
 * Advocate for broad changes in the GitLab project to stay ahead of scalability and performance bottlenecks
 
-## Must-have Requirements
+## Requirements
 
 * Able to enable people to go from 0 to 1: get something shipped
 * Maintain the prioritized, justified list of future investment opportunities
@@ -41,7 +43,7 @@ While watching this video, keep in mind that this position and department was pr
 * Be effective in an all-remote setting
 * Humility
 
-## Nice-to-have Requirements
+### Nice-to-haves
 
 We'd like the successful candidate to have at least a simple majority of the following attributes:
 

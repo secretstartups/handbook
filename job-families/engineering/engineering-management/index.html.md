@@ -279,7 +279,7 @@ The Chief Technology Officer is a [grade 12](/handbook/total-rewards/compensatio
 #### Chief Technology Officer Responsibilities
 
 * Drive recruiting of a world class team
-* Collaborate with the CEO and [VP of Incubation Engineering](/job-families/engineering/vp-of-incubation-engineering/) on the 3-5 year vision
+* Collaborate with the CEO and [VP of Incubation Engineering](/job-families/engineering/incubation/management/vp/) on the 3-5 year vision
 * Help their directors, senior managers, managers, and engineers grow their skills and experience
 * Measure and improve the happiness of Engineering
 * Make sure the handbook is used and maintained in a transparent way
