@@ -815,11 +815,15 @@ We also rotate Snowflake user passwords the first Sunday of every 3rd month of t
 
 ### Software User Provisioning
 
-The data team is responsible for provisioning users within the tools managed by the Data Team. This includes tools like Fivetran, Stitch, and Snowflake.
+The data team is responsible for provisioning users within the tools managed by the Data Team. This includes tools like Sisense, MonteCarlo, Fivetran, Stitch, and Snowflake.
 
 For Snowflake, we have a robust process documented in the [Snowflake Permissions Paradigm](/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm) section of this page.
 
-For other tools, add users via the UI and in the appropriate [Google Group](https://groups.google.com/my-groups) if one exists.
+For other tools, add users via the UI and in the appropriate [Google Group](https://groups.google.com/my-groups) if one exists. 
+
+#### Stitch provisioning
+
+A new user in Stitch should by default be added to the `General` role. This role gives sufficient access to Stitch to create new, change existing and troubleshoot running extractions.
 
 ## Google Data Studio
 
