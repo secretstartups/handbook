@@ -2,6 +2,7 @@
 layout: markdown_page
 title: "Procurement Guide: Collaborating with GitLab Legal"
 ---
+
 ## Overview
 Thank you for visiting! The purpose of this resource is to provide GitLab team members with information on how legal assists and interacts with the procurement of products and services at GitLab. 
 
@@ -36,7 +37,6 @@ GitLab Legal will review any and all purchases made to ensure adequate terms are
 
 ## Additional Requests & Information
 
-
 NDA Request(s): [NDA Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process)
 
 Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#negotiating-terms)
@@ -57,7 +57,10 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
     1. Click "Add" Approver;
     2. Will include the name of the GitLab Legal Commercial (Procurement) Team Member who will review the request (which may be themself) and select "After Current Approver", and then hit "Add"; and
     3. The Team Member will then add a comment that the Req. is being "Approved" to the applicbale Team Member, and will hit "Approve". 
-- By carrying out the above steps, the Req. will be added to the applicable Team Memebrs "To-Do" and will result in ensuring Team Members are not carrying out duplicative work. 
+- By carrying out the above steps, the Req. will be added to the applicable Team Memebrs "To-Do" and will result in ensuring Team Members are not carrying out duplicative work.
+
+## Requesting a Certificate of Insurance
+To request a COI, open an issue in the Legal and Compliance project using the [general legal template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template&_gl=1*1aumr6r*_ga*MTc1Mjg0Mzg3NS4xNjc1NzE0NjA5*_ga_ENFH3X7M5Y*MTY3NjQ4OTU3Ny4xMC4xLjE2NzY0ODk2ODkuMC4wLjA). Be sure to apply the `legal-procurement::to do` label and tag `@rnalen`, `@chilling32`, and `@ddowney` in your request.
 
 ## Helpful Resources
 - Many Vendors require basic information about GitLab to be setup as a Customer, visit [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) for general information about each GitLab legal entity
