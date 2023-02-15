@@ -72,3 +72,4 @@ This Working Group has the following goals:
 | Functional Lead    | Andrew Fontaine       | Senior Frontend Engineer, Release                            |
 | Member             | Mark Florian          | Staff Frontend Engineer, Manage:Foundations                  |
 | Member             | Laura Meckley         | Frontend Engineer, Fulfillment::Billing & Subscription Mgmt  |
+| Member             | Andrei Zubov          | Frontend Engineer, Release                                   |
