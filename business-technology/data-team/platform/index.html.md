@@ -792,6 +792,9 @@ The process for setting up a new Data Spigot is as follows:
 | Gainsight        |  | `prod.common_mart_product.mart_product_usage_paid_user_metrics_monthly` | No |
 | Gainsight        |  | `prod.common_mart_product.mart_product_usage_free_user_metrics_monthly` | No |
 | Gainsight        |  | `prod.restricted_safe_common_mart_sales.mart_arr` | Yes | 
+| Salesforce       | [Snowflake API](/handbook/business-technology/data-team/platform/#Sales-Systems-Use-Case:-Using-the-Snowflake-API) | `mart_product_usage_paid_user_metrics_monthly`, `mart_product_usage_paid_user_metrics_monthly_report_view` | No | 
+
+Sales Systems Use-Case: Using the Snowflake API
 
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 
@@ -890,3 +893,21 @@ In order to change the desired day of the week/time of these schedules, the Sale
 - Send dag failure alerts towards the `#sales-analytics-pipelines` (analytics#14861), so the Sales Analysts can monitor errors with the notebooks
 
 - If the errors seem to be platform-related, the Sales Analyst can reach out to the data platform engineers either via Slack (via the `#data-engineering` channel), or by opening an issue on the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project
+
+## Sales Systems Use-Case: Using the Snowflake API
+
+The [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) team needs to run the same query several times per day against Snowflake and load that data into Salesforce.
+
+The data team provided an API user so the Sales Analytics team can automate this process, instead of manually downloading the data and uploading it into Salesforce.
+More detail on this use-case can be found in the original issue [#15456](https://gitlab.com/gitlab-data/analytics/-/issues/15456).
+
+The data pulled from the database is encapsulated in a view that strictly exposes only the requested data and the sales systems team will be querying this view directly via the Snowflake API.
+A new role was created specifically, called `SALES_SYSTEMS_SNOWFLAKE_API_ROLE` for this use-case on Snowflake and it has been configured to only have read access on the underlying view.
+
+The Snowflake API user has been created following the steps in the official Snowflake documentation on [Using Key Pair Authentication](https://docs.snowflake.com/en/developer-guide/sql-api/authenticating.html#using-key-pair-authentication) and the credential is stored in our Data Team Secure vault and is to be shared with the Sales Systems team.
+
+We created a runbook with a step-by-step guide on how to create the user and role for this purpose - [link to the Snowflake API User](https://gitlab.com/gitlab-data/runbooks/-/tree/main/snowflake_api_user) runbook.
+
+
+
+
