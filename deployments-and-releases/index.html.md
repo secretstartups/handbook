@@ -46,6 +46,16 @@ The overall coordination and operation of the deployment and release process is 
 
 See the GitLab [Release Managers schedule] to find out who the current release managers are.
 
+### How to contact a Release Manager
+
+You can contact the current Release Managers:
+1. On GitLab issues and epics by using `@gitlab-org/release/managers` handle 
+2. On Slack by using the `@release-managers` handle
+
+We use the `#releases` and `#f_upcoming_releases` channels to discuss and coordinate deployments and releases. Automated deployment status announcements are made to the `#announcements` channel. 
+
+If you need to escalate a request, please use the [release management escalation process](/handbook/engineering/infrastructure/team/delivery/#release-management-escalation)
+
 ## Resources
 
 | Description        | Location            |
