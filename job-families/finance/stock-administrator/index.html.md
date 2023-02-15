@@ -76,13 +76,13 @@ The Senior Stock Administrator is a [grade 7](/handbook/total-rewards/compensati
 * Experience with Online systems.
 * Ability to use GitLab
 
-## Manager, Stock Administration
+## Stock Administration Manager
 
-### Manager, Stock Administration
+### Stock Administration Manager
 
-The Manager, Stock Administration is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Stock Administration Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Stock Administration Responsibilities
+#### Stock Administration Manager Responsibilities
 
 
 * Everything under Senior Stock Administrator" plus the following items:
@@ -92,7 +92,7 @@ The Manager, Stock Administration is a [grade 8](/handbook/total-rewards/compens
 * Ensure global equity reporting and compliance with international tax and regulatory requirements, including year end equity related tax filings
 
 
-#### Manager, Stock Administration Requirements
+#### Stock Administration Manager Requirements
 
 
 * Considered a specialist in the field within the function.
