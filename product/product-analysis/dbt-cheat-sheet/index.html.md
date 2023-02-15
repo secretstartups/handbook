@@ -12,6 +12,8 @@ description: "data build tool (dbt) Cheat Sheet for Functional Analysts"
 
 ---
 
+{::options parse_block_html="true" /}
+
 ## Objective of this page
 {:.no_toc}
 
@@ -192,7 +194,7 @@ The first thing you will need to do is clone the dependencies required for your 
 There are a couple of ways to do this, but the fastest, preferred method is to use 
 [⚙️ dbt Run > 🔆⚡️clone_model_dbt_select](/handbook/business-technology/data-team/platform/ci-jobs/#clone_model_dbt_select).
 
-![clone_model_dbt_select on pipelines page](/images/product-data-insights/clone_model_dbt_select_on_pipelines_page.png){: .shadow}
+![clone_model_dbt_select on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_on_pipelines_page.png){: .shadow}
 
 ⚙️ dbt Run > 🔆⚡️clone_model_dbt_select requires you to pass which models to clone using 
 the `DBT_MODELS` variable.
@@ -200,7 +202,7 @@ the `DBT_MODELS` variable.
 * Key: `DBT_MODELS`
 * Value: `+[changed_model_name]` (this will clone all the specified model and all its parents)
 
-![clone_model_dbt_select variables](/images/product-data-insights/clone_model_dbt_select_variables.png){: .shadow}
+![clone_model_dbt_select variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_variables.png){: .shadow}
 
 
 Other options for cloning models are: 
@@ -214,7 +216,7 @@ this job clones the schema provided in the `SCHEMA_NAME` variable
 Once the dependencies are cloned, you can actually build the model you are changing. To do this, 
 use [⚙️ dbt Run > 🏗🛺️run_changed_models_sql](/handbook/business-technology/data-team/platform/ci-jobs/#run_changed_models_sql).
 
-![run_changed_models_sql on pipelines page](/images/product-data-insights/run_changed_models_sql_on_pipelines_page.png){: .shadow}
+![run_changed_models_sql on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_on_pipelines_page.png){: .shadow}
 
 ⚙️ dbt Run > 🏗🛺️run_changed_models_sql will run all .sql models in the MR diff where the SQL 
 has been edited. Please note that there are actually 3 versions of the `run_changed_models_sql` 
@@ -243,7 +245,7 @@ in the [Data team documentation](/handbook/business-technology/data-team/platfor
   * Key: `DEPENDENT_TYPE`
   * Value: `+`
 
-![run_changed_models_sql variables](/images/product-data-insights/run_changed_models_sql_variables.png){: .shadow}
+![run_changed_models_sql variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_variables.png){: .shadow}
 
 #### Specify model
 
@@ -251,7 +253,7 @@ Sometimes you need to build a single model when re-running the pipeline or in te
 that do not change any SQL files (ex: updates to dbt docs). In this case, you want to use 
 [⚙️ dbt Run > 🐭specify_model](/handbook/business-technology/data-team/platform/ci-jobs/#specify_model). 
 
-![specify_model on pipelines page](/images/product-data-insights/specify_model_on_pipelines_page.png){: .shadow}
+![specify_model on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_on_pipelines_page.png){: .shadow}
 
 Like `run_changed_models_sql`, there are different versions of ⚙️ dbt Run > 🐭specify_model, 
 each using a different sized warehouse. Again, you should select the job that is best suited 
@@ -267,7 +269,38 @@ This job requires a single variable, `DBT_MODELS` to specify which model you wan
 * Key: `DBT_MODELS`
 * Value: `[model_name]`
 
-![specify_model variables](/images/product-data-insights/specify_model_variables.png){: .shadow}
+![specify_model variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_variables.png){: .shadow}
+
+#### Grant access to MR database
+
+Once the models are rebuilt, you will want to do testing against the new version of the 
+models. The CI jobs above clone and build models in a database specific to the MR branch. 
+Functional analysts do not automatically gain access to these databases. In order to grant 
+access, you need to run [❄️ Snowflake > 🔑grant_clones](/handbook/business-technology/data-team/platform/ci-jobs/#grant_clones).
+
+![grant_clones on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_on_pipelines_page.png){: .shadow}
+
+<div class="panel panel-info">
+**IMPORTANT**
+{: .panel-heading}
+<div class="panel-body">
+1. This job only creates grants on existing objects and will not apply to any additional 
+models created after the job runs. Be sure to clone and build all required models _before_ 
+running the job.
+1. This job only creates grants on objects that already exist in PREP or PROD (i.e., existing 
+models). If it is a net-new model, you still need to ping a DE to grant access to the new 
+model in the MR database.
+</div>
+</div>
+
+This job requires a single variable, `GRANT_TO_ROLE` to specify the Snowflake role you want 
+to grant SELECT access to. Snowflake roles are usually first initial + last name (ex: Jane 
+Smith's role would be `JSMITH`). There is an exhaustive list of roles in [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml).
+
+* Key: `GRANT_TO_ROLE`
+* Value: `[SNOWFLAKE_ROLE]`
+
+![grant_clones variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_variables.png){: .shadow}
 
 ### MRs to add new tables or columns to the Postgres/GitLab.com pipeline
 
@@ -285,10 +318,10 @@ Before assigning any reviewers, make sure that you go through the checklist in t
 This will ensure that you completed all required steps before a member of the Data team starts 
 reviewing the code.
 
-In the `Auditing` section, make sure that all queries refer to the MR branch database. 
-(Once all of the CI jobs are done running, ask the data engineer on triage for access 
-to the database so that you can query it in Snowplow). Analytics Engineers reviewing the 
-MR will also have access to the MR database and that is how they will review and validate.
+In the `Auditing` section, make sure that all queries refer to the MR branch database. (See 
+instructions on how to gain access to the MR database [here](#grant-access-to-mr-database)).
+Other team members (ex: Analytics Engineers) reviewing the MR will also have access to the 
+MR database and that is how they will review and validate the changes.
 
 Once the MR is ready for review, tag code owners and assign as reviewers (you will see 
 code owners listed in the approval section of the MR).
