@@ -32,7 +32,7 @@ A support engineer remarked that “In the 3 months I've been at GitLab, I've ta
 
 Another great example of taking time off is a GitLab team member taking a day to do some spring cleaning. Vacations don't have to be trips to exotic places, but instead could be taking some time for oneself at home.
 
-If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/people-policies/leave-of-absence/#parental-leave).
+If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 Paid time off is in addition to any [official public holidays](#holidays) that apply to the country where you live. When accounting for such holidays in [PTO by Deel](#pto-by-deel), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
 
@@ -158,7 +158,7 @@ If you end up needing sick leave for more than 5 consecutive calendar days, or 5
 #### Sick Time Procedures - USA
 In the United States, team members may experience a qualifying condition under the Family Medical Leave Act (FMLA) after 3 days of continuous or non-continuous absences (if related to the same condition).  If you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes. Team Members may notify GitLab as of the 3rd day of their absence, but are required to notify the Absence Management Team [leaves@gitlab.com] no later than the 5th consecutive/non-consecutive absence so that the team can process your time off under the applicable leave laws. 
 
-* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away.
+* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/people-policies/leave-of-absence/us/) handbook section to report your time away.
 
 Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), and/or the equivalent State pay benefits. 
 
