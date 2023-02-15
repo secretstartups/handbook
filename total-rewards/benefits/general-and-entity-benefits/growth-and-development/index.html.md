@@ -87,17 +87,17 @@ The Growth and Development policy is meant to further team members' learning and
 
 ## Bulk Applications
 * If multiple team members are doing the same training or attending the same conference, please open one issue.
-* For ease of processing, it is recommended that bulk applications are paid via [Coupa](/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Expensify or the Growth & Development email per the [reimbursement process](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) below.
+* For ease of processing, it is recommended that bulk applications are paid via [Coupa](/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Navan Expense or the Growth & Development email per the [reimbursement process](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) below.
 
 ## Reimbursements of Growth and Development Applications
 
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
-* Claim your expenses via [Expensify](/handbook/finance/expenses/#-introduction):
+* Claim your expenses via [Navan Expense](/handbook/finance/expenses/#-introduction):
   - Include a screenshot of your approved Growth & Development issue. 
-  - In your Expensify report, select the classification or tag "Growth and Development".
-  - Please make sure the issue matches your Expensify claim amount. Your Expensify claim will be audited against the Growth & Development issue amount. 
-* Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Expensify](/handbook/finance/expenses/#-introduction).
+  - In your Navan Expense report, select the classification or tag "Growth and Development".
+  - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount. 
+* Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](/handbook/finance/expenses/#-introduction).
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 * For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab.com` once you have signed up. 
@@ -175,7 +175,7 @@ Examples of English Language Courses:
      8. [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
      9. English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university. 
 
-**Eligibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Expensify.
+**Eligibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Navan Expense.
 
 **Approver (above $1,000 USD):** Course amount aren't likely to exceed $1,000 USD. If this does exceed $1,000 USD, the academic study criteria would apply.
 
@@ -225,7 +225,7 @@ Examples of English Language Courses:
 
 **Description:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
 
-**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Expensify. 
+**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Navan Expense. 
 
 **Approver (above $1,000 USD):**  N/A as an annual license cost does not exceed $1,000 USD.
 
