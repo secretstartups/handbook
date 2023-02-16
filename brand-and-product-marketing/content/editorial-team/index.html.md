@@ -227,29 +227,16 @@ With the exception of time-sensitive announcements and news, we are aiming to ha
 - We don't consider operational posts (patch releases, for example) or announcements as conflicting with other publishing, so we may publish a post on the same day that one of those goes live.
 - We aim to ensure that posts that are likely to be popular are live in time to be included in the bi-weekly newsletter that goes out on the 10th and 25th of each month.
 
-## Blog calendar
-
-The [editorial calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9hbWU5ODQzYzYwOTRmZmM0NzV2ZWE5ZnRuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) documents when posts will be published, as well as industry awareness days and anniversaries we may cover. Please bear this in mind when requesting a specific publish date for a post. If you can't view the calendar, please make sure that you are logged into your GitLab G Suite account.
-
-_Please note that all dates are subject to change to accommodate urgent posts and announcements._
-
 ## Labels
 
 - `blog post`: every blog post idea, proposal, draft, etc. **MUST** have this label
 - `priority`: blog posts that should be worked on immediately (please provide a rationale in your issue description)
 - `Blog::Pitch`: blog post ideas that are waiting for triage
-- `Blog::Planning/in progress`: accepted pitches and blog posts that are assigned to a member of the Content Marketing/Editorial team
 - `Blog::Review`: blog posts that are ready for an editorial review
-- `Blog::Freeze`: blog post is being reviewed by the Editorial team. No additional changes should be made until the label is lifted.
-- `Blog::Waiting for author`: blog posts that have been reviewed by the Editorial team and assigned back to the author to address feedback or approve for scheduling
-- `Blog::Scheduled`: Blog posts that have completed reviews and are scheduled for publishing
-- `Guest/Partner post`: blog posts that are authored and submitted from a contributor outside of GitLab
-- `customer story`: blog posts that include a customer interview
-- `CEO interview`: blog posts submitted by the GitLab CEO and require their subject matter expertise
 
 ## Reviewing blog post pitches
 
-Every Monday, a member of the Editorial team reviews [blog post pitches](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?label_name=Blog%3A%3APitch). There is a recurring event on the [Editorial calendar](/handbook/marketing/brand-and-product-marketing/content/#editorial-calendar) for every Monday. The Editorial team member reviewing pitches that week is invited to the event.
+The Editorial team reviews the `Blog::Pitch` list on a rolling basis and will respond to authors about how to proceed in comments. 
 
 ### What to look for
 
@@ -269,70 +256,18 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
     - **A web article** – If the content is evergreen, it may be more appropriate as a [web article](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#web-article).
     - **The handbook** – This is great for evergreen content that documents how we do things at GitLab or why we do things a certain way. Blog posts generally should have an element of "newness" or news to them. If the topic of a pitched blog post won't age, or the audience is primarily internal, the handbook is a better option. Because our handbook is public, pages from it can be shared in the same way as a blog post.
         - Example: This page on [Why GitLab uses the term all-remote to describe its 100% remote workforce](/company/culture/all-remote/terminology/) was originally suggested as a blog post, but works better as a handbook page, because the content is evergreen and can be built on over time.
-    - <b>The [Unfiltered blog](/handbook/marketing/blog/unfiltered/)</b> – This is a good choice for blog posts that are more personal in nature. Think of the Unfiltered blog like a peer-to-peer publishing platform. This can lend greater credibility to personal stories because they haven't gone through Marketing, and it relieves the burden of having to align with the blog strategy. The Unfiltered blog is also a good home for posts that may appeal to a smaller, more niche audience (including internal) than the branded blog. We have seen plenty of Unfiltered blog posts succeed because they resonate with readers, regardless of where they were published.
-        - Example: [Contribute through the eyes of a new GitLabber](/blog/2020/02/25/contribute-through-the-eyes-of-a-new-gitlabber/) is a personal account of one team member's experience of their first Contribute, and the intended audience is primarily internal.
-    - **The writer's personal blog** – Similar to the Unfiltered blog, this makes sense for personal stories that don't lend themselves to the branded blog.
-        - Example: [First time all remote: My first week at GitLab](https://dnsmichi.at/2020/03/09/first-time-all-remote-my-first-week-at-gitlab/)
     - **An external publication** – If the pitch sounds like a great story but doesn't seem like a good fit for our blog [scope and audience](#scope), it might work as a contributed article to an external publication, where it could have a better chance of reaching the right audience. In this case, please ping `@cweaver1` for product-related stories or `@JMLeslie` for company-related or corporate stories.
-
-### Responding to pitches
-
-Following the review above, the pitch should fall into one of three categories:
-
-- Aligns with blog goals and strategy: Approved and `Blog::Planning/in progress` label applied
-- Needs adjusted angle/focus: Approved with recommendations, `Blog::Planning/in progress` label applied
-- Better suited to another channel: Alternative suggested
-
-When responding to the person who pitched, be sure to include your rationale for your response and any relevant data or examples to justify your decision.
 
 ## Sourcing blog posts
 
 In addition to reviewing pitches submitted by team members, the Editorial team (ping @sgittlen with questions) also actively sources topics for potential blog posts in the following ways:
 
-#### Sweep of Unfiltered YouTube Channel
--  Twice a month, review the GitLab Unfiltered YouTube channel for videos discussing topics that are popular on the blog, such as Kubernetes, CI/CD, GitOps.
-- Check to see if there are any videos that follow up on a topic that has been covered in a past blog post in case there is an update we can share.
-- Check to see if there are any videos that are receiving a lot of views (a high number of views in a short period of time, or a high number of views over a longer period of time). Once one or more videos are identified, check with the Digital Production team to see if the number of views accurately represents viewer engagement with the video, since sometimes a lot of people click videos but don't watch more than a few seconds.
-- Once one or more GitLab Unfiltered videos are identified as a good candidate for a blog post, open an issue and connect with the team members featured in the video. Some questions to ask them: Why do you think viewers were interested in this video? Would you be interested in writing a blog post about this video, or being interviewed for a blog post about this topic?
-- An example of a blog post based on an Unfiltered video: "[How we used parallel CI/CD jobs to increase our productivity](/blog/2021/01/20/using-run-parallel-jobs/)"
-
-### Follow up on top-performing posts
-
-During [quarterly traffic analysis](#blog-traffic-analyses), identify high-traffic blog posts (published at any time, not necessarily from that quarter).
-
-We can optimize these in a few ways:
-
-#### Follow up
-
-Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there.
-
-This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.
-
-For example, [this post about Praefect](/blog/2021/01/21/high-availability-git-storage-with-praefect/) is a follow-up to a [popular post from 2018 about Gitaly](/blog/2018/09/12/the-road-to-gitaly-1-0/).
-
-#### Update
-
-Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Product and Solution Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
-
-This works for tutorials and how-to posts that are no longer current. Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/).
-
-#### Repurpose
-
-[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#blog-repurpose).
-
-This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
-
-### #trending Slack channel
-
-The #trending channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video).
-
-We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
-
-- Team members can post in the channel ad hoc, or participate in the channel's weekly Geekbot prompts. Feel free to suggest edits to the Geekbot questions.
-- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-suggest-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas.
-- It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team.
-- Whoever intends to write a post inspired by #trending will need to open [a blog post issue](/handbook/marketing/blog/#how-to-suggest-a-blog-post) to get started.
-- We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts.
+- Technical and topical discussions in Slack channels, including our Editorial Advisory Board channel
+- Unfiltered YouTube Channel
+- Pitches
+- Topical and technical issues being discussed in the industry
+- Blog pitches from contributors (internal, alliances, partners, etc.)
+- Follow up on blogs that performed well to see if there is an opportunity for another post
 
 ## Checklist for blog post issues
 
@@ -343,49 +278,10 @@ If you are planning to write or even just considering writing a blog post:
 - Include links to any relevant background information or resources in the issue description
 - Review and check off any relevant checklist items in the blog post issue template
 - Make sure the appropriate [labels](#labels) are applied
-- If you are definitely going to write the blog post, choose a publish date that is available on the [Editorial calendar](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-calendar) and include that date in your issue title
-- Give the issue a due date a minimum of two working days before your chosen publish date
-- Apply the appropriate milestone to the issue (e.g. `April blogs 2020`)
+- If you are definitely going to write the blog post, choose a publish date and include that date in your issue title
+- Give the issue a due date a minimum of one week before your chosen publish date
 - Assign the issue to yourself
-- [Add an item to the Editorial calendar](/handbook/marketing/brand-and-product-marketing/content/#adding-an-event-to-the-editorial-calendar) for your blog post on your chosen publish date, using the appropriate emoji
-
-### If you reschedule a blog post
-
-Please ensure that you update:
-
-- Issue title
-- Due date
-- Milestone (if applicable)
-- Calendar entry
-
-If the post is postponed and you don't yet have a specific reschedule date, please remove:
-
-- Date in the title (replace with TBD)
-- Due date
-- Milestone
-- Calendar entry
-
-## Choosing featured posts
-
-Each week, one blog post is selected as the [featured post](/handbook/marketing/blog/#featured) on the blog homepage.
-
-Ahead of the beginning of the month, the managing editor will open a `featured post` issue in the [Editorial project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues/new?issuable_template=featured-post), listing the blog posts scheduled to go live in the coming month.
-
-Editorial team members will nominate a post to be featured for each week, based on the following criteria:
-
-- Past performance of similar topics
-- Supporting a key activity or campaign
-- High-profile company/product announcement
-
-When the featured post for a given week has been agreed on:
-
-1. Update the `featured post` issue description to confirm the featured post for that week
-1. Leave a comment to confirm in the issue for the chosen post (or MR, if one exists already)
-1. Link the blog post issue to the `featured post` issue where this was decided.
-
-The managing editor will review the issue at the beginning of each week to ensure the schedule is up to date, any rescheduled/new posts have been accounted for, and that a featured post has been confirmed for the coming week.
-
-At the end of the month, close the `featured post` issue.
+- Make sure @sgittlen is tagged - when you are done with all your technical reviews, assign @sgittlen as Reviewer
 
 ## Process for blog posts that require approval
 
@@ -423,44 +319,16 @@ All blog posts related to the Board must be reviewed by Legal prior to publicati
 
 If the team member is unsure who from Legal to ping for approval, share in #legal on Slack.
 
-### Other sensitive topics
+### Making sure the blog is SAFE
 
 Most blog posts requiring approval are accounted for above, but occasionally there may be other topics that are potentially sensitive and should be run by PR and possibly Legal for risk assessment before proceeding.
 
-In these cases, please check the following box on the blog post issue and follow the instructions:
+- If the article needs PR attention, tag @nwoods
+- If the article needs Legal attention, follow the process outlined [here](/handbook/legal/materials-legal-review-process/)
 
-> If wide-spread customer impacting or sensitive
->
->
-> - Add sensitive label
-> - Mention @nwoods to give her a heads up ASAP
+##### Cross-linking
 
-Example: [Our journey to a more diverse and inclusive workplace](/blog/2020/06/16/our-journey-to-a-diverse-and-inclusive-workplace/) is on a hot-button issue, where GitLab is committing to taking action that we need to ensure we are prepared to follow through on.
-
-## Featuring Unfiltered posts
-
-The Editorial team will monitor the GitLab Unfiltered blog for posts that are suitable for featuring on the branded blog on a weekly basis.
-
-### Process for reviewing and featuring Unfiltered posts
-
-Every Monday, a member of the Editorial team will read new Unfiltered posts published during the previous week and select any posts that are likely to perform well on the branded blog for a full editorial review.
-
-#### Criteria for a featured post
-
-- Post has >500 sessions already, according to the [Content Marketing dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb), and/or
-- Post has the [attributes of an historically successful blog post](/handbook/marketing/blog/)
-
-This is not an exhaustive list of criteria, as the Editorial team member will also use their best judgment regarding what tends to perform well on the branded blog:
-
-##### Other considerations
-
-- It's an extra bonus if the post links to related posts either on the main blog or to other posts on Unfiltered. Cross-linking helps the reader and boosts search engine optimization, meaning more people will see the post!
-- In some cases, an Unfiltered post may be drawing a lot of traffic, but the topic is outside the [scope of the blog](#scope). In this case we will not move the post, for example [Introducing the WoW rule: A formula for growth for SaaS Startups](/blog/2020/05/05/wow-rule/).
-- We may need to tweak the post to adhere to our [best practices](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#writing-blog-posts--best-practices) (e.g., adding more context, making the value for our audience clearer).
-- It might help to think about the Unfiltered post in the same way that we approach [reviewing pitches](#what-to-look-for). Is the topic likely to be of interest to our audience of software developers and related professions? Is there practical, actionable content from which our audience can learn? If the answers are "yes" then it's worth thinking about how we can adjust or adapt the post for the main blog.
-- If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases/), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
-
-#### Review process
+- It's an extra bonus if the post links to related posts on the main blog or on the docs pages. Cross-linking helps the reader and boosts search engine optimization, meaning more people will see the post!
 
 ## Updating the handbook or issue/MR templates
 
@@ -470,7 +338,7 @@ Team members are strongly encouraged to work [handbook first](/handbook/handbook
 
 If you open an MR, please assign it to the managing editor to merge, and ping the rest of the Editorial team so everyone is aware of the change and can contribute to the discussion. Looping everyone in, even in cases where a change has been discussed and agreed on in a meeting, for example, is to ensure that the MR accurately captures what was agreed on, and that the whole team is aware of and understands any changes in case we need to explain anything to team members from other groups.
 
-If the managing editor is unavailable, you can assign to another Editorial team member to merge, but please cc the managing editor so they are aware of the changes.
+If the managing editor (@sgittlen) is unavailable, you can assign to another Editorial team member to merge, but please cc the managing editor so they are aware of the changes.
 
 Note: This principle applies to process changes. Don't worry about pinging everyone if you open an MR to fix a typo or a broken link!
 {: .note}
@@ -850,7 +718,7 @@ When you are ready to merge a scheduled blog post, check the review app for the 
 
 - Is the date on the blog post correct?
 - Does the filename (which will become the URL for the post) correspond with the headline?
-- Should this blog post be [featured](#choosing-featured-posts)? Add or remove `featured: yes` from the frontmatter accordingly.
+- Should this blog post be featured? Add or remove `featured: yes` from the frontmatter accordingly. Editorial team has final decision-making on this.
 - Are all images and formatting rendering as expected?
 - Has the blog post been reviewed by any other necessary parties (as indicated in issue/MR description)?
 - Is the post likely to get a lot of attention/engagement/traffic? Is it about a hot-button topic like compensation or big industry news? Please give the community advocates a heads up in #community-advocates on Slack before you publish.
