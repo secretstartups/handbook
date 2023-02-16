@@ -16,13 +16,13 @@ As an interviewer, you play a significant part in creating a seamless, candidate
 
 To provide you with the knowledge and skills necessary to conduct effective and equitable interviews and to make informed hiring decisions, please visit this [handbook page](https://about.gitlab.com/handbook/hiring/conducting-a-gitlab-interview/).
 
-**{+Inclusive Interviewing+}**
+## Inclusive Interviewing
 
 At Gitlab we strive to ensure our hiring teams are well versed in every aspect of diversity, inclusion, and cultural competence. A positive and comfortable candidate experience needs to be our priority. As an interviewer at Gitlab, we urge you to be committed to creating a welcoming and inclusive environment for all candidates.
 
 We do not ask for the candidate's pronouns in the application form. This information is "sensitive information" according to GDPR and other applicable privacy acts. We encourage our interviewers to utilize Zoom's Pronoun feature and you're welcome to disclose your pronouns in any way you feel comfortable doing so.
 
-**{+Tips for keeping your Google Calendar up to date+}**
+## Tips for keeping your Google Calendar up to date
 
 [Ensure your working hours are documented correctly](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop). Update your OOO in a timely manner. Communicating with the recruiters in advance about anything that impacts your availability to interview candidates is appreciated. This can include:
 - Public holidays
@@ -35,7 +35,7 @@ We do not ask for the candidate's pronouns in the application form. This informa
 - Set a free calendar appointment for 1-2 days after you return from vacation indicating "No Interviews" if you would prefer not to interview during that time.
 - Set up designated time blocks on your calendar and name them as "Interviews Only" or "Hold for Interviews" in the anticipation of upcoming interviews. Our Candidate Experience team can book interviews within that time slot.
 
-**{+How to decline interviews+}**
+## How to decline interviews
 
 CES uses your Google calendar to schedule interviews. Our scheduling tool, Prelude will provide us with open times during your working hours to schedule. This is why it is _incredibly_ important to maintain your calendar. Declined interviews prolong our recruiting process and negatively impact the experience of our candidates and hiring teams. Please only decline an interview invitation for an extenuating circumstance, such as an emergency, illness or childcare. We urge you to attend any scheduled interview to avoid a negative candidate experience. Please see best practices below when needing to decline and reschedule an interview.
 
@@ -45,7 +45,7 @@ CES uses your Google calendar to schedule interviews. Our scheduling tool, Prelu
 - If you need to decline an interview within 48 hours of the scheduled time and  you are able to provide CES a replacement interviewer, that would be preferred.
 - **Special Note:** Please do not add anyone else to your interview. If you need to swap with another interviewer or you would like to add a shadow, please tag @ces in your respective hiring channel or email ces@gitlab.com and we will happily make the adjustment to the invite.
 
-**{+Prelude+}**
+## Prelude
 
 Prelude is the scheduling tool that the Candidate Experience Team uses to book interviews. Prelude is integrated with Greenhouse via API. DRI: Candidate Experience Team
 
@@ -58,7 +58,7 @@ Within Prelude, interviewers can set their interviewing availability, set daily 
 **Note** - if you cannot log in, it may be because you do not have a Greenhouse account, which is required. Please submit an Access Request if this is the case for you.
 - Scroll down to add notes and adjust the dates and times to match your preferences. Then ensure that your time zone is correct so that it matches your availability.
 
-![Screenshot_2023-01-23_at_7.40.27_PM](/uploads/9cf1f18031a7b8744c3641d9e2fe3f2f/Screenshot_2023-01-23_at_7.40.27_PM.png)
+
 
 **_Examples of helpful notes include:_**
 - “Can schedule 1 hour outside of availability with advance notice”
@@ -74,7 +74,7 @@ In Preferences, interviewers also have the ability to set daily and weekly Inter
 
 ![Screenshot_2023-01-23_at_7.47.31_PM](/uploads/0be5fde39a4ae6507442b73618f64d1a/Screenshot_2023-01-23_at_7.47.31_PM.png)
 
-**{+Greenhouse+}**
+## Greenhouse
 
 Greenhouse is our Applicant Tracking System. To activate your greenhouse profile, simply log into Greenhouse via Okta. This will launch the application and activate your profile. If you do not have a Greenhouse tile in your Okta account, please reach out to IT and submit and AR to have this added.
 
