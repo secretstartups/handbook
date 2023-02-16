@@ -118,9 +118,9 @@ possible reprioritization should:
 
 #### List structure - columns
 
-| Request Name | Description | Epic or Issue | Product Group | Product DRI | Update |
-| ------------ | ----------- | ------------- | ------------- | ----------- | ------ |
-| A simple, short description of the issue or epic. Could be the title if the title is clear. | A longer description of the issue or epic, still no more than a few sentences.  | The issue or epic number, title and URL | The product group that owns the item. **This is set by the Product Managers** | The Product Manager. **This is set by the Product Managers** | Status information. Questions from Product or Development to each other or Support. This is the only really dynamic column. |
+| Epic or Issue | Title | Description | Support Interest Label |Product Group | Product DRI | Update |
+| ------------ | ----------- | ------------- | ------------- | ------------- | ----------- | ------ |
+| The issue or epic number, with link | Exact title from the epic or issue | A longer description of the issue or epic, still no more than a few sentences.  | The part of the label after `Support Interest::` | The product group that owns the item. **This is set by the Product Managers** | The Product Manager. **This is set by the Product Managers** | Status information. Questions from Product or Development to each other or Support. This is the only really dynamic column. |
 
 #### Primary contributors
 
