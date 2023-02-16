@@ -18,18 +18,17 @@ This is the rotation schedule for FY24-Q1 and Q2 (February 2023 - July 2023). Le
 |------------------------|------------------------|
 | Katie Macoy	         | Libor Vanc             |
 | Veethika Mishra	 | Julia Miocene          |
-| Gina Doyle	         | Matt Nearents, Emily Sybrant |
+| Gina Doyle	         | Emily Sybrant |
 | Ali Ndlovu	         | Andy Volpe             |
 | Sunjung Park	         | Becka Lippert          |
-| Daniel Mora	         | Pedro Moreira da Silva |
+| Pedro Moreira da Silva | Matt Nearents |
 | Kevin Comoli	         | Camellia Yang          |
 | Emily Bauman	         | Philip Joyce           |
 | Dan Mizzi-Harris	 | Jeremy Elder           |
 | Sascha Eggenberger	 | Annabel Gray           |
-| Matej Latin	         | Michael Fangman        |
 | Mike Nichols	         | Amelia Bauerly         |
 | Nick Leonard	         | Nick Brandt            |
-| Austin Regnery	 | Alexis Ginsberg        |
+| Austin Regnery	 | Michael Fangman        |
 | Alex Fracazo	         | Michael Le             |
 
 ### Temporary pairing
