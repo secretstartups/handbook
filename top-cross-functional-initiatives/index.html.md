@@ -89,7 +89,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q3
 1. Fulfillment Efficiency
-   1. DRI / Sponsor: @ofernandez2 / @sytses
+   1. DRI / Sponsor: @ofernandez2 / @david
    1. Description: Rollout new Quote Studio using new Zuora Orders API and Ramps functionality. Move CustomersDot to use Zuora Orders APIs. Align to Zuora Billing Account as a Customer Account. SSO / combine CDot and Gitlab user databases. Link ArrowSphere to CustomersDot.
    1. Links: [FY23 Roadmap](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
    1. Quarter Started/Starting: FY23-Q3
