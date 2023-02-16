@@ -19,6 +19,7 @@ description: "Define and align our product design teams on elements regarding da
 | Slack           | [#wg_dashboards](https://gitlab.slack.com/archives/C04BMT6SL9F)   |
 | Agenda Doc      | [Doc](https://docs.google.com/document/d/1rK7UsZ8nbZ9lyklb0NiH3FO-UqpgQT1jhRNBpjNkZko/edit)             |
 | Epic            | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/9353)       | 
+| Final Definition sheet            | [Sheet](https://docs.google.com/spreadsheets/d/1UE3Xgvl1TB6ow9hvzx7PRGWTZUGyYGegnQvP_xxZGYA/edit#gid=0)       | 
 | Recordings      | [YouTube Playlist](https://youtube.com/playlist?list=PL05JrBw4t0KqbrWIdqhPCu4MffTPI-gC0) |
 
 ## Goals
@@ -35,8 +36,8 @@ Due dates by phase:
 1. ✅ **Investigation** - 2023-01-10
 1. ✅ **Map all the pieces** - 2023-01-13
 1. **Definition of the objects** - 2023-02-28
-   1. Draft by: 2023-01-31
-   1. Feedback by: 2023-02-10
+   1. ✅ Draft by: 2023-01-31
+   1. ✅ Feedback by: 2023-02-10
    1. Done/Done: 2023-02-28 (FFD on the 27th)
 
 
