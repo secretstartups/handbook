@@ -11,7 +11,7 @@ For information on the Procurement Team, policies and process, visit [The Procur
 For general questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*.
 
 ## Contacting Legal
-You don't need to reach out to GitLab Legal directly, instead the GitLab Legal Team will be enaged directly by the Procurement Team, as applicable. 
+You don't need to reach out to GitLab Legal directly. Instead, the GitLab Legal Team will be engaged directly by the Procurement Team, as applicable. 
 
 ## When is Legal involved
 GitLab Legal will review any and all purchases made to ensure adequate terms are present for GitLab. Examples of types of purchases include:
@@ -52,12 +52,15 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
 - For information regarding purchase requests and negotiation thresholds, please visit the [Procurement handbook](/handbook/finance/procurement/).
 
 ## GitLab Legal Procurement Process
-- Within the GitLab PO tool, the GitLab Legal Commercial (Procurement) team is grouped as "Legal", and is listed as part of the "Approval Chain Requirements". 
-- Upon a Req. being opened, a GitLab Legal Commercial (Procurement) Team Member will carry out the following actions:
-    1. Click "Add" Approver;
-    2. Will include the name of the GitLab Legal Commercial (Procurement) Team Member who will review the request (which may be themself) and select "After Current Approver", and then hit "Add"; and
-    3. The Team Member will then add a comment that the Req. is being "Approved" to the applicbale Team Member, and will hit "Approve". 
-- By carrying out the above steps, the Req. will be added to the applicable Team Memebrs "To-Do" and will result in ensuring Team Members are not carrying out duplicative work.
+- Within the GitLab Procurement tool, the Legal Procurement team is an approval group called "Legal". 
+- When a req is submitted, a Legal Procurement Team Member will carry out the following actions:
+    1. When the status is set to "Ready to Start" (by Procurement) it will be transitioned into the "Legal" queue;
+    2. A Legal Team Member will be assigned to the request, and change the status to "In Progress"; 
+    3. Red-lines (if applicable) will be saved under the original version of the document(s) provided, in the Request;
+    4. Legal Team Members will notify the requestor(s) (via chat) to highlight when red-lines are ready to be sent to the vendor;
+    5. Once agreeable terms are achieved, the Legal Team Member will attach a clean PDF version (named "Executable" to start) with the GitLab Legal stamp of approval. 
+- By completing the above steps, reqs are added to the applicable team member's queue, which ensures the team is not carrying out duplicative work.
+- Contact the Legal Team Member by tagging them directly in the GitLab Procurement Tool. _Note_ Please do not contact team members in Slack unless an urgent matter arises.  
 
 ## Requesting a Certificate of Insurance
 To request a COI, open an issue in the Legal and Compliance project using the [general legal template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template&_gl=1*1aumr6r*_ga*MTc1Mjg0Mzg3NS4xNjc1NzE0NjA5*_ga_ENFH3X7M5Y*MTY3NjQ4OTU3Ny4xMC4xLjE2NzY0ODk2ODkuMC4wLjA). Be sure to apply the `legal-procurement::to do` label and tag `@rnalen`, `@chilling32`, and `@ddowney` in your request.
