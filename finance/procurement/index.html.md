@@ -280,6 +280,7 @@ Exceptions to the PO Policy are:
 #### Documentation
 
 * [Non-Disclosure Agreement (NDA) Process](https://about.gitlab.com/handbook/legal/NDA/)
+* [Certificate of Insurance Request Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#requesting-a-certificate-of-insurance)
 * [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines) - information regarding the usage of GitLab's trademark
