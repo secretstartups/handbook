@@ -123,33 +123,59 @@ If the project requirements exceed the current capacity of the available resourc
 
 
 1. Partner Projects
-    - PS Ops Team reaches out to list of viable partners looking for a specific role that needs to be staffed for a customer project
-    - Partner responds with candidates and availability 
-        - If not vetted, go to Step 2
-        - If vetted, go to Step 4, activity # 3
-    - PS Ops Team initiates SOW using partner specific SOW template (if available), or generic GitLab SOW template
-        - Director or PS negotiates rate on a per project basis, unless predetermined
-        - SOW modifications include, but not limited to:
-             - Scope 
+
+### Consulting Subcontractor Prime Partner Statement of Work (SOW) Process (WIP)
+
+Consulting subcontracting Prime SOWs include the terms and conditions, such as rates and dollar amount for a partner to deliver Consulting on GitLab's behalf. Each partner has a dollar amount specified on the Prime Partner SOW. After the funds are exhausted, a new Prime Partner SOW is generated. Each Prime Partner SOW has corresponding Coupa requisition and Work Authorization assignments.
+
+The Consulting Subcontracting Prime Partner SOW references the Master Professional Services Agreement, so this agreement, along with a Data Processing Agreement, must also be fully executed.
+
+Sr. Channel Solutions Manager is responsible for managing the relationship with our subcontracting partners.
+
+**Process**
+
+- Sr. Channel Solutions Manager and Consulting Coordinator verify that there is a fully executed Master Professional Services and Data Processing Agreements in place with the customer. Follow up with the PS Sr. Channel Solutions Manager if necessary.
+- After a mutual agreement has been achieved for the partnership, the  Sr. Channel Solutions Manager sends an initial version of the Consulting Subcontracting Prime Partner SOW to the partner for review. 
+- If the partner makes redlines to the SOW, then the  Sr. Channel Solutions Manager works with GitLab's Legal team and the partner to receive a mutually agreed SOW.
+- The  Sr. Channel Solutions Manager notifies the Consulting Coordinator of the partner Consulting subcontracting Prime Partner SOW initiation. The Consulting Coordinator will create a new checklist issue to be added to the PC Partner SOW Tracker board for tracking purposes.
+- Upon receiving SOW mutual agreement between GitLab and the partner, the Sr. Channel Solutions Manager submits a legal case to add a legal stamp to the Prime Partner SOW.  
+- After receiving the legal stamped version of the Prime Partner SOW, the Sr Channel Solutions Manager sends it for GitLab and partner signature via DocuSign. Refer to this video for DocuSign basics.
+- After receiving the fully executed SOW, the Consulting Coordinator follows the Zip process steps to submit a request and PO for the Prime Partner SOW.
+- As the Prime Partner SOW is undergoing the signature and approval processes, the Consulting Coordinator will monitor the status and update the checklist issue on the PC Partner SOW Tracker board accordingly.
+- After the SOW, Coupa req and PO are approved:
+  - Consulting Coordinator saves a copy of the fully executed Prime Partner SOW in the partner SFDC account and the applicable partner Google drive folder.
+  - Consulting Coordinator creates a partner and SOW-specific version of the Partner Invoicing SOW Consulting Funds Tracker within the applicable partner G-Drive folder.
+ - Sr. Channel Solutions Manager sends a copy of the fully executed Prime Partner SOW to the partner.
+    
+ **Consulting Work Authorization Form**
+
+The Consulting subcontracting Prime Partner SOW includes a work authorization form. The work authorization form is used to contractually secure a partner trainer for a Consulting delivery. One consulting project should be listed on the Consulting work authorization form.
+- PS Ops Team initiates Work Authorization 
+    - Director or PS negotiates rate on a per project basis, unless predetermined
+        - Work Authorization include, but not limited to:
+            - Scope 
              - Technical requirements
              - Background check/security clearance requirements
              - Hourly rate
              - Billing terms as determined in MSA, MPA or Sub-contracting Agreement
              - Travel and expenses (if on site required)
-    - PS OPs: SOW Approval process:
-        - Verbal or written approval from the partner to proceed with SOW
-        - GitLab submits legal case attached to the customer opportunity, requesting legal stamp on the SOW
-        - GitLab submits stamped SOW for Finance Signature via Docusign
-        - Signed/stamped SOW is sent to the Partner for signature via Docusign or email
-        - Final SOW is posted to SFDC opportunity, and in partner folder in G Drive, Mavenlink, Coupa
-        - PS Ops Team ensures background checks/security clearance meets the needs of the customer 
-        - PS Ops Team sets Consultant up in Mavenlink
-             - PS Ops Team meets with Consultant to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
-             - PS Ops Team adds Consultant OOO schedule to Mavenlink
-Utilize project escalation process as needed
-                - [Work at Risk (WAR)](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
-                - [Work Exception](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) 
-                - [Change Order](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
+
+    - PS Ops Team reaches out to list of viable partners looking for a specific role that needs to be staffed for a customer project
+    - Partner responds with candidates and availability 
+        - If not vetted, go to Step 2
+        - If vetted, go to Step 4, activity # 3  
+
+After a Consulting Coordinator works with the partner lead on an agreed project assignment, 
+the Consulting Coordinator will send the work authorization form for the partner to review and execute.
+The Consulting Coordinator will track the Work Authorizations against the funding on the Prime Partner SOW.   
+  
+    
+  
+  
+    
+  1. Partner Onboarding
+        - PS Ops Team sets Consultant up in Kantata
+             - PS Ops Team meets with Consultant to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.             
         - PS Ops Team submits Access Request Issues
             - Requesting access to appropriate technical tools (hardware & software)
             - Requesting to add Consultant to appropriate slack channel(s)
