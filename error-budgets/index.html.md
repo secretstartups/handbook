@@ -210,7 +210,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 |------------------|---------------------|---------------------|---------------------|
 | Fulfillment:Provision, Fulfillment:Platform, Fulfillment:Biling and Subscription Management, Fulfillment:Commerce Integrations, Fulfillment:Purchase | 80% | Currently we are not able to analyze requests/metrics due to [this bug](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/5119) that is actively worked on by Scalability. We'll then need time to investigate and fix the issues to be within budget |  2023-02-28 |
 | Manage:Workspace | 99.85% | To allow time for the group to address issues with the endpoints connected with listing many projects at once, cooperate with other teams and API working group on that problem. Described in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108039) | 2022-12-31 |
-| Govern:Threat Insights | 99.5% | Epics to address the major contributor to budget spend are in progress, but won't finish for another 3 milestones: [Deprecate and remove Vulnerabilities::Feedback](https://gitlab.com/groups/gitlab-org/-/epics/5629), and [Extend the use of `security_findings`](https://gitlab.com/groups/gitlab-org/-/epics/8341) | 2023-02-22 |
+| Govern:Threat Insights | 99.5% | Epic to address the endpoint responsible for 40% of the budget: [Deprecate and remove Vulnerabilities::Feedback](https://gitlab.com/groups/gitlab-org/-/epics/5629). [All error budget-impacting issues](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Athreat%20insights&label_name%5B%5D=Error%20Budget%20Improvement&first_page_size=100) | 2023-05-22 |
 
 **Exceptions**
 
