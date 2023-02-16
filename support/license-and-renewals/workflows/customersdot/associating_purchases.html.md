@@ -51,6 +51,9 @@ Once we have received one of the verification requirements, we can proceed to ad
 #### Important
 
 Any time a CustomersDot customer is edited via the Admin, the Zuora account contact associated with the customer is updated. In case there is no Zuora contact with the same email, the Zuora account `Sold To` address is replaced. When adding additional subscription managers requires to edit the customer, it is important to press `save` on the original contact LAST, to ensure they remain the primary contact on their Zuora account.
+
+> Note this only occurs when editing a Customer record - creating a new Billing Account Membership for a customer will not update the Zuora Sold To contact.
+
 Ensure alignment between the customer and the Zuora account:
 
 1. Navigate to the provided Zuora account and check the value of `SSPChannel`. If it is marked as **Reseller**:
