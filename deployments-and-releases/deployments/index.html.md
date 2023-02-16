@@ -66,6 +66,30 @@ Details of this pipeline can be found in the [post-deploy migration pipeline doc
 
 To determine if a post-deploy migration has been executed [please see this guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/post_deploy_migration/readme.md) for more information.
 
+### Deployment Rollbacks
+
+Rollbacks can be a fast and safe way to mitigate an incident. By rolling back to a previous package we remove the cause of the incident but we also block all further deployments until a fix has been merged, packaged and is ready to deploy. Because of the potential disruption to the release process only [Release Managers](/handbook/engineering/deployments-and-releases/#release-managers) have permissions to execute a rollback.  
+
+Factors to consider before deciding to rollback:
+
+1. Is a rollback available? We can only rollback to the package of the last execution of [post-deploy migrations](/handbook/engineering/deployments-and-releases/deployments/#post-deploy-migration-pdm-execution). [A chatops command](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/rollback-a-deployment.md#1-gather-package-information) is available to test for suitability. 
+2. Is the incident able to be mitigated with a feature flag? Many new changes include a feature flag. Identifying, and turning off is usually the fastest mitigation. 
+3. Be aware that a package may include several hundred changes, rolling back will remove them all and could impact multiple teams especially close to the monthly release deadline.
+
+Because of the level of disruption a rollback causes we would normally only consider rollbacks an option for an S1 or S2 incident. More details about how to assess incident mitigation options are available in the [incidents runbook](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/incident.md).
+
+If we decide to go ahead with a rollback, Release Managers should follow the [rollbacks runbook](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/rollback-a-deployment.md#overview).
+
+#### Rollback Pipeline
+
+A rollback is essentially a new deployment but of a previously deployed package. As a previously deployed package we already know it is stable and can safely reduce the amount of time spent testing throughout the rollout.
+
+Gitaly and Praefect have a dependency on the GitLab Rails version which means we need to rollback in the reverse order to the one we deploy in. To achieve this we have a separate rollback pipeline rather than simply re-running the deployment pipeline.  
+
+Example of the Staging environment rollback pipeline:
+
+![Example of the Staging environment rollback pipeline](rollback-pipeline.png)
+
 ### Deployment blockers
 
 Anyone can **halt or block a deployment to Production** by:
