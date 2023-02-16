@@ -405,6 +405,10 @@ No. Please refer to [How do Last 28 Days metrics work?](#how-do-last-28-days-met
 
 You may notice usage stats missing for the first week of a month up until a ping is collected from the customer. The ping snapshot date will differ for each customer.
 
+### Is it true that if you set your CSM sentiment to yellow or green for an account that is Red for DevSecOps, you cannot influence the overall Red health score?
+
+There’s no DevSecOps-specific override, however, there is one option to override which is the CSM Sentiment. The CSM can change that to Red, making the overall account red. (HB Reference)[https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#csm-sentiment]. CSM Sentiment overall weighting is 25%, whereas Product is 50%
+
 ---
 
 ## Data Definitions
