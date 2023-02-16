@@ -31,7 +31,7 @@ It is typically expected for new hires to focus on and complete their onboarding
 
 Please avoid in-person interviews. In-person interviews or meetings are reserved for candidates if an offer is approved or if the candidate is hired. Anyone wanting to do in-person interviews should reach out to People Business Partners to discuss beforehand and have a clear reason which should be documented in their Greenhouse profile.
 
-Read about how to organize your calendar on the [Interviewer Calendar Maintenance](/handbook/hiring/prelude/calendar/) page. 
+Read about how to organize your calendar on the [Interviewer Calendar Maintenance](/handbook/) page. 
 
 Remember, interviewing candidates is everyone's job as part of our collaboration value! You may be asked to participate on an interview team, as we continue to hire great talent.
 
