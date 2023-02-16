@@ -77,6 +77,33 @@ App information:
 * This application was developed in-house and can be found
   [Zendesk Supper App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
 
+### GitLab Super App
+
+A plugin controlled app that can do several things GitLab related
+
+The current plugins are:
+
+* **User Lookup**
+  > This lets you search gitlab.com for a username or email. It then displays information based on the results.
+* **Namespace Lookup**
+  > This lets you search gitlab.com for a namespace. It then displays information based on the results.
+* **Collaboration Project**
+  > This checks the organization for a collaboration project ID. If one exists, it then provides a link to said project.
+* **Two Factor Auth Helper**
+  > This creates a usable form to checking if a 2FA verification has passed. It calculates the Risk Factor from the Data Classification and modifies it to reflect the passed challenges.
+* **Email Suppressions**
+  > This searches mailgun for suppressions from bounces (note it does not do it on complaints or unsubscribes). It will display the results (with the message for the suppression).
+  > 
+  > It also gives the option of removing the suppression (if one if found). Doing so deletes it from mailgun and adds an intenral comment on the ticket with the results of the suppression deletion.
+* **Fieldnotes**
+  > This app checks the [Fieldnotes project](https://gitlab.com/gitlab-com/support/fieldnotes/-/issues) for any existing Issues which reference the current Zendesk ticket ID. If no existing Issues are found, then agents are able to create a new Fieldnotes Issue from directly within the Zendesk ticket.
+
+App information:
+
+* Located in the ticket sidebar
+* This application was developed in-house and can be found
+  [Zendesk Supper App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
+
 ### Unbabel for Zendesk Support
 
 Powered by state-of-the-art AI and a worldwide community of translators,
@@ -226,54 +253,6 @@ be changed, as it can cause significant problems.
 * [Unbabel for agent](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239500)
 * [Unbabel for user](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239480)
 
-### SaaS Account Ticket Helper
-
-This app helps work SaaS Account tickets. It can do the following via manual
-intervention:
-
-* Check for Email Suppressions in mailgun
-* Perform Namesquatting checks
-
-It will also automatically work new SaaS Account tickets if the Problem Type is
-one of the following:
-
-* Did not receive confirmation email
-* Forgot password
-
-Both types can result in an automatic reply, so give the app a chance to
-activate and do the work before updating the ticket!
-
-App information:
-
-* Located in the sidebar
-* Restricted by Role
-  * Administrator
-  * Support Managers
-  * Support Staff
-  * Support Staff - Explore
-* This application was developed in-house and can be found
-  [SaaS Account Ticket Helper project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/saas-account-ticket-helper).
-
-### 2FA App
-
-This app takes what was in the
-[Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99)
-and transcribes it into a side panel. As you check the various boxes, it
-adjusts the Risk Factor score. Once you are done checking boxes, you can then
-have the app make an internal comment on the ticket showing your work!
-
-App information:
-
-* Located in the ticket sidebar
-* Restricted by Group
-  * Support AMER
-  * Support APAC
-  * Support EMEA
-  * Support Managers
-  * Support Ops
-* This application was developed in-house and can be found
-  [2FA App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/2fa-app).
-
 ### GitLab Reminders App
 
 The Reminders App appears in the navbar and allows the agent a more specialized
@@ -314,51 +293,6 @@ App information:
   [Zendesk](https://www.zendesk.com/marketplace/partners/zendesk/) and is
   available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/ticket-redaction/).
-
-### GitLab User Lookup
-
-This app looks in Salesforce and GitLab.com for a contact or account based on
-the requestor’s email address and provided GitLab.com username. If it finds a
-GitLab.com account, it will present some basic account information as well as
-the membership of the user (and the corresponding plans of said memberships).
-The app also does checks to determine if the requester is an enterprise user.
-If it determines they are, it displays this in the app's output and auto-tags
-the ticket using the `enterprise_user` tag.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed in-house and can be found
-  [GitLab User Lookup](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-user-lookup).
-
-### Architecture Diagrams
-
-This app uses the Organization field `AM Project ID` to check for an existing
-Account Management project. If it finds it, it will then link to that
-project’s Architecture Diagram.
-
-**NOTE**: The AM Project ID field is manually populated. To get that added in,
-you would want to submit a Support Ops Project issue.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed in-house and can be found
-  [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-architecture).
-
-### SFDC Tool
-
-This app grabs the account information from SFDC and displays it in the
-sidebar. Currently, it pulls in the chatter data.
-
-It also checks if the requester is a contact in the org. If not, a handy button
-appears allowing you to add the user as a contact under the organization.
-
-App information:
-
-* Located in the ticket sidebar
-* This application was developed in-house and can be found
-  [SFDC Tool project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/sfdc_tool).
 
 ### Mechanizer
 
