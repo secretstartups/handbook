@@ -15,26 +15,25 @@ This page details processes and general guidelines specific to the Executive Bus
 
 ## Executive Business Administrator Team
 
-### E-Group Member EBAs
-* Liki Simonot supporting Sid Sijbrandij (CEO) 
-* Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO)
-* Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO and acting CTO) 
-* Darci Tadich (Sr. EBA) supporting Brian Robins (CFO) 
-* Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
-* Marisa Carlson (Sr. EBA) supporting Ashley Kramer (acting CTO)
-* Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO and acting CISO)
-* Gena Schwam (Sr. EBA) supporting David DeSanto (Chief Product Officer)
+| ORG |  EBA / SR EBA  | EXECUTIVE  | 
+| --- | --- | --- | 
+| [CEO](https://about.gitlab.com/job-families/chief-executive-officer/) | **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)<br>Stella Treas (Chief of Staff)  
+| [Engineering](https://about.gitlab.com/handbook/engineering/) | **Marisa Carlson**<br>Sr EBA  | Jörg Heilig (Interim CTO) 
+| [Finance](https://about.gitlab.com/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO) 
+| [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Dale Brown (Principal Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit) 
+| [Finance](https://about.gitlab.com/handbook/finance/) | **Anita Mall**<br>Sr EBA | Craig Mestel (VP of Finance & Business Technology)<br>Jack Andrews (VP of Investor Relations) 
+| [Legal](https://about.gitlab.com/handbook/legal/) | **Sharlene Seemungal**<br>Sr EBA  | Robin Schulman (CLO and acting CISO) 
+| [Legal](https://about.gitlab.com/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (Sr. Director of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (Sr. Director of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Robert Nalen (VP of Legal Operations)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
+| [Marketing](https://about.gitlab.com/handbook/marketing/)| **Jeanette McCarthy**<br>Sr EBA| Ashley Kramer (CMSO) 
+| [Marketing](https://about.gitlab.com/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br>Lisa Boughner (VP of Communications)
+| [People](https://about.gitlab.com/handbook/people-group/) | **Stephanie Kusimirek**<br>Sr EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging) 
+| [Product](https://about.gitlab.com/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO) 
+| [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization) 
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Michael McBride (CRO)  
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) | [Sales](https://about.gitlab.com/handbook/sales/) 
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Dana Pelton**<br>Sr EBA | David Hong (VP of Field Operations)
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Ryan O’Nell (VP of Commercial Sales)<br>Mike Pyle (VP of Enterprise Sales) 
 
-
-
-### All-Directs EBAs 
-* Victoria Reinhardt (Sr. EBA) supporting Ryan O’Nell (VP of Commercial Sales) & Mike Pyle (VP of Enterprise Sales)
-* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations) 
-* Rebecca Piccone (Sr. EBA) supporting David Sakamoto (VP of Customer Success) & Nima Badiey (VP of Alliances, Interim VP of Channels)
-* Cindy King (Sr. EBA) supporting Dale Brown (Principal Accounting Officer), Jim Gladen (VP Tax), and Brijen Joshi (VP on Internal Audit)
-* Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (VP - Legal, Privacy & IP), Matt Taylor (Sr.Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate), Robert Nalen (VP - Legal Operations), Stacy Cline (Sr. Director, ESG), and Dan Hodes (Sr. Director - Legal, Risk Management and Dispute Resolution)
-* Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology) & Jack Andrews (VP of Investor Relations)
-* Jennifer Garcia (EBA) supporting Justin Farris (Sr Director of Product Monetization)
 
 
 
