@@ -82,7 +82,7 @@ Daily Activities
 - [ ] Review Project Task Tracker
 - [ ] Post messages, updates and files for project communication
 - [ ] Track time
-- [ ] Create,Log and submit expenses (Expensify)
+- [ ] Create,Log and submit expenses (Navan)
 
 Weekly
 - To ensure everything is up to date, review and/or update these items on a weekly basis.
