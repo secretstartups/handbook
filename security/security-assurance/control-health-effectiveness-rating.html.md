@@ -271,9 +271,9 @@ CHER is assigned on a control by control basis but in instances where we want to
 </tbody>
 </table>
 
-#### CHER Override
+#### CHER and SHR Override
 
-To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined GitLab Observation Management methodology, the final CHER can be downgraded (i.e move from 3 to 2) at the discretion of the Security Compliance Director if it is determined that the observation's risk rating and therefore CHER does not appropriately reflect the current control or control environment health. The rating cannot be upgraded (i.e move from 3 to 4) to ensure a conservative approach to securing the organization and managing risk.
+To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined GitLab Observation Management methodology, the final CHER or SHR can be downgraded (i.e move from 2 to 3) at the discretion of the Security Compliance Senior Director if it is determined that the observation's risk ratings and therefore CHER or SHR does not appropriately reflect the current control or control environment health. The rating cannot be upgraded (i.e move from 4 to 3) to ensure a conservative approach to securing the organization and managing risk.
 
 
 ## Exceptions
