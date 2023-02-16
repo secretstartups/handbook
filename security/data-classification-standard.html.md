@@ -87,6 +87,16 @@ While Personal Data is classified as Orange, there is an exception for GitLab Te
 </div>
 </div>
 
+<div class="panel panel-gitlab-purple">
+**Personal Data and Team Member Safety**
+{: .panel-heading}
+<div class="panel-body">
+
+Please be aware of how combining data elements could lead to impacting a Team Member's safety. For example, Team Member names are classified as [Yellow](#yellow), per the classification description below. But if you combine a Team Member's name along with their dates of travel and site for a work event, then you are possibly revealing that Team Member's exact location, which is Orange level Personal Data. Any document or Issue containing a Team Member's specific location should be set as "Confidential" in accordance with our [Orange Data](#orange) and [Confidentiality Levels](https://about.gitlab.com/handbook/communication/confidentiality-levels/) guidelines.
+
+</div>
+</div>
+
 #### YELLOW
 Data and information that should not be made publicly available that is created and used in the normal course of business. Unauthorized access or disclosure could cause minimal risk or harm and/or adversely impact GitLab, its partners, employees, contractors, and customers. 
 
