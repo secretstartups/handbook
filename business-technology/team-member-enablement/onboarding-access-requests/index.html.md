@@ -312,8 +312,7 @@ See the [returning old/offboarded laptops](#returning-oldoffboarded-laptops) sec
 Part of the IT Ops replacement laptop process is providing each team-member with instructions about how to return their old laptop (whether outdated or broken).
 All laptops must be returned **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
 
-If an offboarded employee decides not to purchase and is not under a current litigation hold, then we will have them ship to our 3rd party vendor that handles sell backs, AnythingIT.
-AnythingIT will send them a shipping label, and in the US, a shipping box as well. **Please note shipping times may vary, expect between 2-4 weeks for AnythingIT to provide shipping information and packaging**
+If an offboarded employee decides not to purchase and is not under a current litigation hold, then we will provide a shipping label free of charge so the laptop can be sent to an IT Support Analyst for data santization and storage or repurposing.
 
 (If the IT department has record of a current litigation hold for the offboarded employee please consult with Legal before proceeding.)
 
