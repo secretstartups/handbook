@@ -8,14 +8,14 @@ Welcome to the GitLab Blog handbook! The [GitLab Blog](/blog/) is managed by [th
 
 ## What is a blog post
 At GitLab, blog posts fall into several categories:
-*Technical tutorials - Example: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/)
-*Point of view/topical articles - Example: [It’s time to really put the Sec in DevSecOps](https://about.gitlab.com/blog/2023/02/02/its-time-to-put-the-sec-in-devsecops/)
-*Feature/integration/partner introductions - Example: [Accelerate cloud adoption with GitLab's open source partnership with Google Cloud](https://about.gitlab.com/blog/2022/10/11/accelerate-cloud-adoption-with-gitlabs-open-source-partnership-with-google-cloud/)
-*Open source industry participation information - Example: [Git security audit: Inside the hunt for - and discovery of - CVEs](https://about.gitlab.com/blog/2023/01/24/git-security-audit/)
-*Customer case studies/interviews - Example: [Cube reduces toolchain complexity and speeds software delivery with GitLab](https://about.gitlab.com/blog/2023/02/07/how-cube-uses-gitlab-to-increase-efficiency-and-productivity/)
-*Company announcement (done in partnership with Executive comms team)
-*Feature/change/etc. announcement [process for such announcements](htttps://about.gitlab.com/handbook/marketing/corporate-communications/#requests-for-external-announcements)
-*Guest blog to highlight partnerships/alliances - Example: [How GitLab's integration with Rezilion reduces vulnerability backlog and identifies exploitable risks](https://about.gitlab.com/blog/2022/03/23/gitlab-rezilion-integration-reduces-vulnerability-backlog-identifies-exploitable-risks-to-fix/)
+- Technical tutorials - Example: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/)
+- Point of view/topical articles - Example: [It’s time to really put the Sec in DevSecOps](https://about.gitlab.com/blog/2023/02/02/its-time-to-put-the-sec-in-devsecops/)
+- Feature/integration/partner introductions - Example: [Accelerate cloud adoption with GitLab's open source partnership with Google Cloud](https://about.gitlab.com/blog/2022/10/11/accelerate-cloud-adoption-with-gitlabs-open-source-partnership-with-google-cloud/)
+- Open source industry participation information - Example: [Git security audit: Inside the hunt for - and discovery of - CVEs](https://about.gitlab.com/blog/2023/01/24/git-security-audit/)
+- Customer case studies/interviews - Example: [Cube reduces toolchain complexity and speeds software delivery with GitLab](https://about.gitlab.com/blog/2023/02/07/how-cube-uses-gitlab-to-increase-efficiency-and-productivity/)
+- Company announcement (done in partnership with Executive comms team)
+- Feature/change/etc. announcement [process for such announcements](htttps://about.gitlab.com/handbook/marketing/corporate-communications/#requests-for-external-announcements)
+- Guest blog to highlight partnerships/alliances - Example: [How GitLab's integration with Rezilion reduces vulnerability backlog and identifies exploitable risks](https://about.gitlab.com/blog/2022/03/23/gitlab-rezilion-integration-reduces-vulnerability-backlog-identifies-exploitable-risks-to-fix/)
 
 ## We're looking for technical content!
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
