@@ -115,33 +115,46 @@ These items must be triaged continuously throughout the milestone which means th
 
 We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans.
 
+#### FedRAMP vulnerability report
+
+1. By the 1<sup>st</sup> of the month, review all `HIGH` and `CRITICAL` vulnerabilities that are no longer detected, and [resolve](#resolving-a-vulnerability) those that have been confirmed as fixed.
+  - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
+    - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) and [license compliance](#license-compliance) projects, and apply the `No longer detected` activity filter.
+  - [Upstream scanner vulnerabilities that are no longer detected][Upstream scanner vulnerabilities that are no longer detected]
+    - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects, and apply the `No longer detected` activity filter.
+1. On the 1<sup>st</sup> of the month, execute the security triage automation cli to [create](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project) and [update](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#update-existing-issues) the remaining FedRAMP vulnerability issues.
+
+> All vulnerabilities **must** be remediated by their respective [SLA][Vulnerability SLAs]. This process only describes how to generate the required FedRAMP vulnerability issues required for the report.
+
 #### Security Policy
 
-We currently focus on security findings with these severity levels:
+We priortize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
+
 - Critical
 - High
 
 An exception is made for `Container scanning` findings - we focus only on findings with `Critical` severity.
 
-Please utilize all the time you have set aside. if you complete all the ones at Critical and High please continue to triage - we want to address all findings but we are working in a risk based order.
+Please utilize all the time you have set aside. If you complete all the ones at Critical and High, please continue to triage - we want to address all findings but we are working in a risk based order.
 
 #### Triaging vulnerabilities
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
-1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=6126012&projectId=9450192&projectId=9450195&projectId=9450197&projectId=13150952&projectId=15369510&projectId=17450826&projectId=18446184&projectId=24673064)
-1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
+1. [Analyzers Vulnerability Report][Analyzers Vulnerability Report]
+  - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) and [license compliance](#license-compliance) projects.
+1. [Upstream Scanners Vulnerability Report][Upstream Scanners Vulnerability Report]
+  - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects.
 
-For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or confirm it and [create an issue](#creating-security-issues) for discussion. When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
-
-If necessary, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/) to establish whether there's indeed a threat.
+For each "Detected" item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/).
 
 For vulnerabilities discovered in upstream scanners, an issue must be created in GitLab's issue tracker, and we should work with the relevant Open Source community to help provide a resolution. As a last resort, we can patch locally or fork the upstream project temporarily to fix the vulnerability sooner.
 
 #### Dismissing a vulnerability
 
 When there is no doubt a vulnerability is a false-positive, it can be "Dismissed".
-When doing so, make sure to comment on the vulnerability status change to explain why.
+Select the "Dismiss" option from the vulnerability status options.
+Finally, make sure to comment on the vulnerability status change notification to explain why.
 
 ##### Low risk findings that can be dismissed
 
@@ -160,7 +173,23 @@ The following class of container scan vulnerabilities can be considered low risk
 
   __To add items to the list above discuss repeatable finding patterns with Application Security, get approval from a leader in the security section, and add to this list.__
 
-#### Creating Security issues
+#### Confirming a vulnerability
+
+If the vulnerability impacts a dependency:
+
+1. Evaluate if the dependency (software library, system library, base image, etc.) can be upgraded *or* removed.
+1. Set the vulnerability status to "Confirmed".
+1. Release a new version of the analyzer with the dependency upgrade/removal and follow the process on [resolving a vulnerability](#resolving-a-vulnerability).
+
+For all other confirmed vulnerabilities, [create a security issue](#creating-security-issues) to discuss and track the remediation.
+
+#### Resolving a vulnerability
+
+When a vulnerability has been remediated, it can be "Resolved". When doing so, comment how it was
+remediated, then select the "Resolve" option from the vulnerability status options, and close the
+related vulnerability issue.
+
+#### Creating security issues
 
 Unfortunately, creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating an issue in the same project where the error was reported and we've disabled the embedded issue tracker in our projects.
 
@@ -314,6 +343,8 @@ To do so, we mirror their repository and execute our security scans on them:
 - [trivy](https://gitlab.com/gitlab-org/security-products/dependencies/trivy)
 - [trivy-db](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db)
 - [trivy-db-data](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-data)
+- [trivy-db-glad](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-glad)
+- [vuln-list-update](https://gitlab.com/gitlab-org/security-products/dependencies/vuln-list-update)
 
 
 The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report][Upstream scanners Vulnerability Report] and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
@@ -363,4 +394,8 @@ We are currently in the process of reviewing our error budget and identifying wh
 As part of FY21-Q4 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&var-browser=chrome&var-connectivity=cable&var-domains=gitlab_com&var-function=median&var-namespace=sitespeed_io&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-path=desktop).
 
 
-[Upstream scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=25586931
+[Analyzers Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=6126012&projectId=9450192&projectId=9450195&projectId=9450197&projectId=13150952&projectId=15369510&projectId=17450826&projectId=18446184&projectId=24673064
+[Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=25586931,30616761,30684590,35335143,39545454,39545481
+[Upstream scanner vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=25588419,30616761,30684590,35335143,39545454,39545481
+[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&projectId=13150952,15369510,17450826,18446184,24673064,6126012,9450192,9450195,9450197&activity=NO_LONGER_DETECTED&severity=CRITICAL,HIGH
+[Vulnerability SLAs]: /handbook/security/threat-management/vulnerability-management/#remediation-slas
