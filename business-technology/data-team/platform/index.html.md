@@ -30,6 +30,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](/
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
 - [Data Pipelines](/handbook/business-technology/data-team/platform/pipelines/)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
+- [Data Quality](/handbook/business-technology/data-team/platform/data-quality/)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
 - [Data Pump](/handbook/business-technology/data-team/platform/#data-pump)
