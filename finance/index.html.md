@@ -123,7 +123,7 @@ Non-US contractors not from Hungary, Italy, Japan, New Zealand, Nigeria, South A
 - enter bank information in BambooHR under Bank Information tab. Note - new contractor should enter their bank information within 3 business days from their start date.
 - enter VAT number if it is available
 - submit monthly salary/bonus/commission invoice in BambooHR under Contractor Invoice tab (select the currency based on contract agreement) by the 8th of each month
-- submit expenses through Expensify by the 8th of each month
+- submit expenses through Navan Expense by the 8th of each month
 - the scheduled payment date is the 22nd of each month
 - iiPay will send out remittance advice along with the scheduled payment via your gitlab email address
 
