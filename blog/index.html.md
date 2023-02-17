@@ -7,7 +7,7 @@ description: "Everything you need to know about suggesting and publishing a post
 Welcome to the GitLab Blog handbook! The [GitLab Blog](/blog/) is managed by [the Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editor of the blog is Sandra Gittlen (@sgittlen).
 
 ## What is a blog post
-At GitLab, blog posts largely focus on sharing helpful information with the audience (DevSecOps professionals). When you suggest or write a blog post, always consider what is offers the reader. If the post is more internal-focused or a personal essays of sorts, it is likely not a fit for the blog.
+At GitLab, blog posts largely focus on sharing helpful information with the audience ([DevSecOps professionals](https://about.gitlab.com/handbook/product/personas/)). When you suggest or write a blog post, always consider what it offers the reader. If the post is more internal-focused or a personal essays of sorts, it is likely not a fit for the blog (but could go on your personal LinkedIn page).
 
 Blogs fall into the following categories:
 - Technical tutorials - Example: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/)
