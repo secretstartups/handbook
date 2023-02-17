@@ -33,11 +33,16 @@ Sales Operations main focus is on the Sales organization.
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations/deal-desk/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Deal Desk</a>
+    <a href="/handbook/sales/field-operations/data-intellience/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Data Intelligence</a>
     <a href="/handbook/sales/field-operations/sales-operations/order-management/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Order Management</a>
     <a href="/handbook/resellers/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel Partner</a>
     <a href="/handbook/sales/field-operations/field-enablement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Field Enablement</a>
     <a href="/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy</a>
   </div>
+
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="/handbook/sales/field-operations/data-intelligence/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Data Intelligence</a>
+
 
 ## **Sales Operations Process Links**
 1. [Quote-to-Cash / Buyer Experience Documentation](/handbook/sales/field-operations/sales-operations/buyer-experience/)
@@ -49,7 +54,6 @@ Sales Operations main focus is on the Sales organization.
 ## **Sales Operations Tech Stack**
 
 1. Clari
-1. ZoomInfo
 1. Leandata
 1. RingLead
 1. [Salesforce Inbox](https://docs.google.com/document/d/1b7_xJHra448hNKwP5pp2ZzhBmTtv8A6ni-SX5v71dqw/edit#heading=h.aj14ljatuu6r)
