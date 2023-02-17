@@ -1,0 +1,59 @@
+---
+layout: handbook-page-toc
+title: Product Analytics Group
+description: "The Product Analytics group works on the tools that enable customers to use GitLab to analyze the use of their deployed applications."
+---
+## Vision
+
+The Product Analysis Group is part of the [Analytics section](/handbook/product/categories/analytics/).
+
+How we work:
+- We work in accordance with our [GitLab values](/handbook/values/).
+- We work [transparently](/handbook/values/#transparency) with everything public.
+- We have a [bias for action](/handbook/values/#bias-for-action).
+- Everyone can contribute to our work.
+
+Learn more about what we work on and the problems we are solving on our public [direction page](https://about.gitlab.com/direction/analytics/product-analytics/).
+## Team members
+
+<%= shared_team_members(role_regexps: [/Analyze:Product Analytics/, /Product, Analytics/])  %>
+
+## Onboarding engineer? Start here.
+
+Welcome! Start by familiarizing yourself with the [developer onboarding guide](https://about.gitlab.com/handbook/developer-onboarding/). After that you'll need to set up a few things specific to the Product Analytics team.
+
+### Docker
+
+We use Docker to run our development environment. You can find installation instructions [here](https://docs.docker.com/install/). Free alternatives such as Rancher are not fully compatible with our development stack.
+
+Docker is not expensable, so you will need to open an access request to get a valid license. Further instructions are [here](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop).
+
+### DevKit
+
+Our internal development kit is a Docker Compose project which will run the entire product analytics stack comprised of:
+
+* Event tracker (Jitsu)
+* Clickhouse
+* Cube
+
+It is pre-configured and the [repository](https://gitlab.com/gitlab-org/analytics-section/product-analytics/devkit) contains all the required information and steps to get started.
+
+### Feature flags
+
+Your GDK should also be running with a valid Ultimate license, and you should enable the following flags in your GDK environment:
+
+* [`cube_api_proxy`](https://gitlab.com/gitlab-org/gitlab/-/issues/385600)
+* [`product_analytics_admin_settings`](https://gitlab.com/gitlab-org/gitlab/-/issues/385602)
+* [`product_analytics_internal_preview`](https://gitlab.com/gitlab-org/gitlab/-/issues/376347)
+* [`combined_analytics_dashboards`](https://gitlab.com/gitlab-org/gitlab/-/issues/389067)
+
+## Communication
+
+### Slack
+
+We have dedicated Slack channels for the Product Analytics group, `#g_analyze_product_analytics` for general posts and `#g_analyze_product_analytics_daily` for our daily asynchronous stand-ups.
+
+### Meetings
+
+* Our weekly sync meeting is usually at 14:00UTC on Tuesdays. All GitLab team members are welcome to join. Attendance is not mandatory and the meeting is recorded on GitLab Unfiltered. You can find the meeting link in the `#g_analyze_product_analytics` channel.
+* All analytics meetings can be found by searching for the `Analytics Shared` meeting room in Google calendar and all GitLab team members are welcome to join.
