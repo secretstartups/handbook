@@ -12,7 +12,7 @@ title: "GitLab Communication Chat"
 ## Introduction
 At GitLab, Slack is critical to our communication with each other.  While it enables real-time communication, we also are careful to remain true to our asynchronous mindset, suggesting that GitLab team-members set "do not disturb" and not expect real-time answers from others all the time.
 
-There are groups of channels that can help with various areas of GitLab.  This page speaks to a few subsets of those channel groups.
+There are groups of channels that can help with various areas of GitLab. This page speaks to a few subsets of those channel groups.
 
 ## Search
 
@@ -35,7 +35,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 
 * **`#people-connect`**: For general People Operations tasks such us onboarding, offboarding, letter of employment, Team calender events management etc
 * **`#it-help`**: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
-* **`#payroll_expenses`**: For Expensify issues, delayed reimbursements and salaries, payslips, etc
+* **`#payroll_expenses`**: For Navan Expense issues, delayed reimbursements and salaries, payslips, etc
 * **`#talent acquisition`**: For referrals based questions, candidate alignments, general talent acquisition etc
 * **`#total-rewards`**: For general questions on [Total Rewards](/handbook/total-rewards/) including compensation, benefits, and equity
 
