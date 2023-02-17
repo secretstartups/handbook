@@ -67,6 +67,10 @@ We want to make our corner of the internet a little safer, but also be the best 
 <td><a href="/job-families/security/trust-and-safety">Security Analyst, Trust & Safety</a></td>
 </tr>
 <tr>
+<td>Ruby Nealon</td>
+<td><a href="/job-families/security/trust-and-safety">Security Engineer, Trust & Safety</a></td>
+</tr>
+<tr>
 <td>Charl de Wit</td>
 <td><a href="/job-families/security/trust-and-safety">Security Manager, Trust & Safety</a></td>
 </tr>
