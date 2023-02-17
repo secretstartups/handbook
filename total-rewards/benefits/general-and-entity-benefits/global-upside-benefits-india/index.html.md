@@ -269,42 +269,6 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 Team members who adopt a child are entitled to 3 months’ paid leave starting from the date of child birth. To take adoption leave, team members need to submit a certificate from the National Foundation for Children or a family court confirming the adoption, to the employer.
 
-## Denmark
-
-All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
-
-### Medical
-
-GitLab does not plan to offer Private Health Insurance at this time because team members in Denmark can access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
-
-### Pension
-
-GitLab will directly contribute to the Team Members private pension saving plan. The GitLab team member will contribute 4% of the monthly base salary, with GitLab contributing 8% of the team members monthly base salary. The Employer contribution to the pension savings plan will be paid directly into the insurance or bank account (as the case may be) in conjunction with the Employer’s payment of the monthly salary to the team member. 
-
-### Life Insurance
-
-GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability.
-
-### Global Upside -  Denmark Leave Policy
-
-#### Statutory Parental Leave
-
-**Maternity Leave:** Team members can take up to 50 weeks of Maternity Leave,  made up of 4 weeks before expected childbirth, 14 weeks after childbirth, and 32 weeks of additional parental leave subsequent to the 14th week of childbirth.
-
-**Paternity Leave:** Team members receive paid leave of 5 days for the birth or adoption of a child. In case the mother dies during childbirth, or during her maternity leave, the father is entitled to her unused leave. The same leave policies apply to adoptive parents..
-
-#### Maternity Leave Payment
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 50 weeks. This paid salary on account of maternity leave may get reimbursed from the public authority Udbetaling Danmark. 
-
-#### Paternity Leave Payment
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
-
-#### Applying for Parental Leave in Denmark
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
-
-#### Adoption Leave
-
-Adoptive parents can take paid leave for 14 weeks post-adoption. The adoptive parents can share the leave of 14 weeks between them, but only one of them can take leave at a given time. Additionally, one of the adoptive parents is entitled to paid leave of 2 consecutive weeks within the first 14 weeks after adoption of the child, allowing the adoptive parents to be on leave together during this period.
 
 ## Latvia
 
