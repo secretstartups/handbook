@@ -176,8 +176,6 @@ The role of alliances partner marketing manager is to own and develop the demand
 
 **Account assignment/alignment as of Sept 2022:** 
 
-* **Lindsey Lopez**: AWS, Microsoft aligned to Pete Goldberg
-* **Hank Belz**: GCP aligned to Jason Mero and Oracle, Cisco and Nutanix aligned to Vick Kelkar
 * **Gabby Chorny**: IBM and RedHat aligned to Brett Egloff and VMware aligned to Vick Kelkar.
 
   Gabby will also provide support to the **ISV partners** in the form of up to 5 solution briefs per quarter at the direction/priority of Mike LeBeau, Alliances manager. 
@@ -236,12 +234,7 @@ Our team is small but mighty and there are a few things that are simply **outsid
         
 **Alliances Marketing Team**
         
-*  **Hank Belz**: Senioar Alliances Marketing Manager. GCP, Oracle, Nutanix and Cisco.
-
 *   **Gabby Chorny**: Senior Alliances Marketing Manager.  IBM, RedHat, VMware and developing solution brief for up to 5 ISV partners per quarter.
-        
-*   **Lindsey Lopez**:  Alliances Marketing Manager. AWS and Microsoft.
-
 
 
 ## The best way to contact our team is through our Slack channels
