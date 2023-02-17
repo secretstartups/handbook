@@ -21,19 +21,27 @@ Data Intelligence reports into Sales Operations under Field Operations.
 <BR>
 The detailed Data Intelligence Handbook is located in the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/data-intelligence/).
 
-<div class="flex-row" markdown="0" style="height:80px">
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
-    <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
-    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-    <a href="/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy and Analytics</a>
-    <a href="/handbook/marketing/marketing-operations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
-</div>   
 
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
+    <a href="/handbook/marketing/brand-and-product-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
+    <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy & Analytics</a>
+    <a href="/handbook/marketing/growth/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Growth</a>
+    <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strat & Analytics</a>
+</div>
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="/handbook/marketing/sales-development/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
+    <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
+   <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
+    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
+</div>   
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
     <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
-    <a href="/handbook/internal-audit/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Internal Audit</a>
+    <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
+    <a href="/handbook/support/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Support</a>
 </div>
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
