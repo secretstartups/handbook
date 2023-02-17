@@ -283,6 +283,7 @@ These data dictionaries provide definitions for the Release to Adoption fields u
 - [fct_event_valid](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_valid#columns)
 - [fct_event_user_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_user_daily#columns)
 - [fct_event_namespace_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_namespace_daily#columns)
+- [fct_event_namespace_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_namespace_monthly#columns)
 - [fct_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance#columns)
 - [fct_ping_instance_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric#columns)
 - [fct_ping_instance_metric_7_day](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_7_day#columns)
