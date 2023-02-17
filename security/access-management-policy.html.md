@@ -263,6 +263,15 @@ For example, if a user account is identified with a username, there can only be 
 
 This is required to allow the actions of any given account to be associated back with that particular account. If two accounts share an identifier, if a malicious action were taken, we'd have no way of identifying which of the two accounts performed that malicious action. It's also important to preserve the confidentiality of information; if access or permission are given to an account, they should only be given to the specific account for which they were intended.
 
+### Reclaiming GitLab Accounts during Offboarding
+
+For anyone hired **after** 2020-03-23: GitLab will block and reclaim team-members gitlab accounts during the offboarding process. The reasoning behind this is due to the case of visibility into confidential issues; if the `closed-assigned` or `participant` issues are in public projects, the former team-member will continue to have access to the closed issues and will continue to be updated and can access the confidential issues where they are a `participant`. For this reason, we advise team members to not utilize your work GitLab account for personal projects. 
+
+For anyone hired **before** 2020-03-23: Upon offboarding - IT Operations will update your email address on your GitLab account to be your personal email that is on file in Workday and you will be allowed to take your account with you. Please note: should you ever be rehired at GitLab, you will be required to make a new GitLab account. Access to all GitLab related projects and groups will be removed. 
+
+###  Access to all systems
+
+Access to all systems including gitlab accounts should be removed throughout the off boarding process to mitigate the risk of off-boarded employees retaining access to our systems and confidentail information.  In line with our SOX requirements please refer to our [SOX ITGC Compliance HB page](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html) control LA.2 for additional information related to our ITGC controls.
 ## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
