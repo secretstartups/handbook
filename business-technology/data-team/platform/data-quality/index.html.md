@@ -16,6 +16,10 @@ In an effort to improve Data Quality at GitLab, the Central Data Team is conduct
 
 ## Governance Plan Runbook
 
+<details markdown=1>
+
+<summary><b>Runbook</b></summary>
+
 The governance plan runbook is intended to facilitate the implementation and adoption of the governance plan. It is meant to make data management easy and provide flexibility and continuous improvement. The below steps should be considered when implementing the plan:
 
 1. Determine the DRI that will write the problem statement in step #1, will open the epic in the Data Quality Project, and will be responsible for guiding the cross-functional team through the remaining steps of the data governance plan. 
@@ -26,35 +30,67 @@ The governance plan runbook is intended to facilitate the implementation and ado
 
 1. All data quality issues should be opened in the Data Quality Project. If there is an existing epic that addresses the root cause of the problem, then the issue should be linked to that epic. If there is no epic opened that addresses the problem, then a DRI needs to be identified to complete step #1 below and faciliate the execution of the data quality governance plan.
 
+</details>
+
 ## Data Quality Project in GitLab
+
+<details markdown=1>
+
+<summary><b>Project</b></summary>
 
 Coming soon. A link will be provided to the Data Quality Project as well as guidance on the operations of the issues and labels in the project.
 
+</details>
+
 ## Data Quality Governance Planning and Process
 
-### 1. Develop Data Quality Problem Statement 
+<details markdown=1>
+
+<summary><b>1. Develop Data Quality Problem Statement</b></summary>
 
 The problem statement should define what the data quality problem is and what impact it has on business outcomes. The problem statement should be added to an epic in the Data Quality Project using the data quality epic template. 
 
-### 2. Develop Potential Root Causes
+</details>
+
+<details markdown=1>
+
+<summary><b>2. Develop Potential Root Causes</b></summary>
 
 The root causes for the data quality issue identified in the problem statement should be determined and added to the epic. These root causes can be business process related or they can be related to technical configurations in source system applications. All issues related to the same problem statement and root causes should be opened in the Data Quality Project and linked to the related epic. Oftentimes, many data quality issues are opened for the same problem statement. This approach of having a high level epic with the problem statement and root causes and linking related issues to it will help correlate data quality problems to the right root cause Epic.
 
-### 3. Define Data Definitions
+</details>
+
+<details markdown=1>
+
+<summary><b>3. Define Data Definitions</b></summary>
 
 Pursuant to the root causes identified in the problem statement, identify the source system, source system database table, source system field, and source system field definition. This step is meant to document the source system entities and defintions at the point of data production before that data is emitted in a data pipeline. 
 
-### 4. Develop Mid-Level Diagram for the System and Problem
+</details>
+
+<details markdown=1>
+
+<summary><b>4. Develop Mid-Level Diagram for the System and Problem</b></summary>
 
 Solving data quality problems requires a cross-functional team working collaboratively to resolve the issues. It can be challenging to align on the various systems, applications, and data when team members may not be familiar with certain areas of the data pipelines. Therefore, a mid-level diagram that is simple to understand for all stakeholders and provides an overview of the systems, applications, and data should be provided.
 
-### 5. Define Quality Standards and Monitoring
+</details>
+
+<details markdown=1>
+
+<summary><b>5. Define Quality Standards and Monitoring</b></summary>
 
 Quality standards relating to the issues defined in the problem statement should be identified. For example, for mapping SaaS Namespaces to subscriptions, should the quality standard be 95% or 100% coverage, or somewhere inbetween? A Sisense or Tableau chart should be developed to provide the data detection rule results to monitor the quality standard. Also, a business impact detection chart should be provided to illustrate the impact to the business for not meeting the quality standard. 
 
-### 6. Determine Data Table and Column Ownership
+</details>
+
+<details markdown=1>
+
+<summary><b>6. Determine Data Table and Column Ownership</b></summary>
 
 All applicable data tables and fields should be listed. The four main tables to focus on are the source system table, the source table in Snowflake, either the common_prep or common enterprise dimensional model table in Snowflake, and a mart or report table in Snowflake. Team members should be assigned to each table and column as DRIs for the quality of data in the respective table and field. Generally speaking, the Backend Engineer and/or Product Manager should be DRI for the source system table, the Data Platform Engineer should be DRI for the source table in Snowflake, the Analytics Engineer should be DRI for the common_prep or common table, and the Functional Analyst should be the DRI for any mart or reporting table.
+
+</details>
 
 ## Data Quality Program Design Spike: Governance Plan for SaaS Namespace <> Subscription Mapping
 
