@@ -32,41 +32,9 @@ Integral part of this vision is to:
 1. [Use our own product](#dogfooding) to prepare, build, deliver work, and support [the company strategy][strategy].
 1. Align our [strategy](#strategy) with the industry trends, company direction, and end customer needs.
 
-## FY23 Direction
-
-In FY23 we will work towards added stability and resiliency to support the ongoing growth of GitLab SaaS offerings and contribute ongoing efficiency towards GitLab development productivity.
-
-In support of improving these results, we are focusing on:
-
-### 1) Strengthened Reliability
-
-Continuing the collaborative efforts from the previous year throughout FY23 to gain additional reliability.
-1. Allocating effort towards managing tech debt backlog both through [Corrective Action](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#corrective-action-slo) burndown, [Infradev efficiency](https://app.periscopedata.com/app/gitlab/899982/InfraDev) (internal only), and investing further in key project focus.
-1. Achieve key deliverables for our database platform in collaboration with Development. Key among these are current decomposition efforts and additional scaling efforts arising from that project.
-1. Deliver results from the focus on key cross-functional efforts specifically targeting Reliability. Efforts starting in Q3 will focus more specifically on Disaster Recovery. These efforts are expected to continue through FY24.
-
-### 2) Platform Improvements to Power New Revenue
-
-Contribute new platform management capabilities to expand our ability to meet our customers SaaS offering needs. GitLab Dedicated has been and will continue to be the focus of this effort. Much of our investment in Dedicated will also fuel other future platform efforts to continue offering customers our services where they want to consume them and to also scale our SaaS platform to many times future growth.
-
-### 3) Develop Depth in Key Technical Areas
-
-1. Continue current Redis focus from the new second Scalability team and evolve that focus as the scale increases but the maintenance becomes more boring. This may involve new teams focused on a vertical technology (like Redis) while Scalability moves on to a new challenge.
-1. Build on what we’ve started in the Squad project model and see more results from small groups focusing on fewer concurrent efforts.
-1. Partner with Development teams to fulfill initial [Stable Counterpart](/handbook/engineering/infrastructure/team/stable-counterpart.html) influence. As our staffing increases above the minimum oncall level, dedicate a larger percentage of new team member capacity towards enabling more efficiency and ownership across all of Engineering.
-
-### 4) Invest in Team Members Capabilities
-
-1. Increase allocation of effort and time for training and career development focus of managers and individual contributors.
-1. Deliver incident training opportunities and resources both within Infrastructure and across GitLab.  We don’t want to be focused only on incidents, but we do want to do them well when they occur.
-1. Build better awareness and a deeper set of information for [SRE role expectations](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/103). Every new and existing SRE deserves a better understanding of how to onboard and keep on top of our changing technology environment.
-
-
----
+## Direction
 
 The direction is accomplished by using [Objectives and Key Results (OKRs)](https://gitlab.com/groups/gitlab-com/-/epics/1420).
-
-Initiatives driven within the Infrastructure Department, often spanning multiple quarters, are represented on the [Infrastructure Department epic](https://gitlab.com/groups/gitlab-com/-/epics/1049). This epic description also includes a [stack-ranked centralized roadmap table](https://gitlab.com/groups/gitlab-com/-/epics/1049#centralized-roadmap) meant to help inform relative prioritization for all material projects across Infrastructure Departments.
 
 Other strategic initiatives to achieve this vision are driven by the needs of enterprise customers looking to adopt GitLab.com. [The GitLab.com strategy](https://about.gitlab.com/direction/enablement/dotcom/) catalogs top customer requests for the SaaS offering and outlines strategic initiatves across both Infrastructure and Stage Groups needed to address these gaps.
 
@@ -105,26 +73,20 @@ In addition to tracking the backlog, Infrastructure Department projects are capt
 
 ## Teams
 
-The Infrastructure Department is comprised of three distinct groups:
+The Infrastructure Department is comprised of two distinct groups:
 
-* [**Reliability**](/handbook/engineering/infrastructure/team/reliability/), which operate all user-facing GitLab services.
-* [**Delivery**](/handbook/engineering/infrastructure/team/delivery/), which focuses on GitLab's delivery of software releases to GitLab.com and the public at large.
-* [**Scalability**](/handbook/engineering/infrastructure/team/scalability/), which focuses on improving GitLab application at GitLab.com scale.
+* [**Platforms**](/handbook/engineering/infrastructure/platforms/), responsible for software delivery, scaling and operations of single and multi tenant GitLab SaaS
+* [**Reliability**](/handbook/engineering/infrastructure/team/reliability/), which operate all user-facing GitLab.com services.
 
 ### Getting Assistance from Infrastructure Teams
 
-To create an issue for the related teams you can use the links below:
+To create an issue, or find how to engage with the related teams you can use the links below:
 
-* [Delivery](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/new)
-  * To learn more about how Delivery [prioritizes issues you can read this page](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#priority-labels).
+* [Delivery](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/new) - Follow [directions how to reach us urgently](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#reaching-our-team)
 * [Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default)
   * To learn more about how these issues are triaged you can [read more about how reliability triages issues here.](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-board)
-* [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/new)
-  * The following page [explains how to engage with the Scalability Group.](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#working-with-us)
-
-
-
-Product Management duties for the Infrastructure Department are handled by the [Infrastructure PM](/handbook/engineering/infrastructure/product-management/), who reports into the Enablement Stage.
+* [Scalability](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#working-with-us)
+* [GitLab Dedicated](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#working-with-us)
 
 For details on the Department's structure, see the [**Infrastructure Teams Handbook section**](/handbook/engineering/infrastructure/team/).
 
@@ -157,7 +119,7 @@ Meetings may have multiple topics. For each topic there should be one meeting. T
 ##### Infrastructure Key Review
 [Key Review meetings](https://about.gitlab.com/handbook/key-review/) provide the Infrastructure leadership the opportunity to inform the executive team of our [performance indicator](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/) progress, results on OKRs, and updates on any [Cross-functional Key Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives) which we are leading.
 
-Infrastructure Key Review meetings are facilitated and led by VP of Infrastructure, Director of Infrastructure Platform, and Director of Reliability Engineering.
+Infrastructure Key Review meetings are facilitated and led by currently responsible VP, Director of Infrastructure Platform, and Director of Reliability Engineering.
 
 ##### Infrastructure Group Conversation
 [Group Conversation meetings](https://about.gitlab.com/handbook/group-conversations/) take the information from the Key Review (plus any additional topics) and present this to an audience that is all of GitLab, and for Infrastructure, is a Public livestream.
@@ -175,24 +137,16 @@ Quick checklist for the host (time order):
 5. 20 minutes before - open up Zoom and check for any updates.
 
 |**GC Date**|**DRI**|
-|Feb 1, 2023| Anthony F|
-|Mar 14, 2023| Amy P|
-|Apr 26, 2023| Dave C |
-|June 8, 2023| Dave S|
-|July 25, 2023| Stephen D |
-|August 29, 2023| Kenn W |
-|October 12, 2023| Oriol L |
-|November 16, 2023| Anna Liisa M|
-|TBD| Rachel N|
+|Feb 1, 2023| Anthony F |
+|Mar 14, 2023| Amy P |
+|Apr 26, 2023| Dave S |
+|June 8, 2023| Stephen D |
+|July 25, 2023| Kenn W |
+|August 29, 2023| Oriol L |
+|October 12, 2023| Anna Liisa M |
+|November 16, 2023| Rachel N |
 |TBD| Liam M |
 |TBD| Michele B |
-
-##### GitLab SaaS Infrastructure
-
-This weekly meeting has been discontinued as of Aug 23, 2021. Topics in this meeting became redundant to other coordination in the Engineering Allocation, GitLab.com Standup, and Incident Review meetings.
-
-##### Reliability & Security Daily Standup
-This daily meeting has been discontinued as of Oct 17, 2022. Improved maturity of other process along with overall improved reliability and security results led to reduced need for this session. It is expected that, as needed, follow-up sync discussions may be required for high-severity incident follow-up and these are to be scheduled as part of the overall incident management process.
 
 ##### Reliability discussions and firedrills
 
@@ -213,7 +167,7 @@ We have weekly infrastructure oncall handover and staff meetings. These meetings
 
 ##### mStaff
 
-Infrastructure mStaff is a loose denomination for the group of people who report directly to the Vice President of Infrastructure. This is a group composed of both managers and individual contributors, and they are responsible for the overall direction of Infrastructure and the achievement of our goals:
+Infrastructure mStaff is a loose denomination for the group of people who report directly to the active VP. This is a group composed of both managers and individual contributors, and they are responsible for the overall direction of Infrastructure and the achievement of our goals:
 
 The weekly mStaff brings together Infrastructure's management team for a weekly sync to prepare for the week and address issues that require attention. The meeting is organized by the VP of Infrastructure.
 

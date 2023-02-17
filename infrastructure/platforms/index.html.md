@@ -12,7 +12,7 @@ title: "The Infrastructure Platforms Section"
 
 ## Mission
 
-The Infrastructure Platforms section enables GitLab Engineering to build and deliver **safe**, **scalable** and **efficient** features.
+The Infrastructure Platforms section enables GitLab Engineering to build and deliver **safe**, **scalable** and **efficient** features for multi-tenant and single-tenant GitLab SaaS platforms (GitLab.com and GitLab Dedicated).
 
 ## Vision
 
@@ -27,6 +27,8 @@ This vision has been partially discussed by the team members of the Infrastructu
 ## FY24 Direction
 
 In FY24, teams in the Platforms Section of the Infrastructure Department will continue to focus on expanding their role as an enabler across the Engineering function. With the growth of this section, it is becoming imperative that the Platforms section teams collaborate more closely, and use the influence they have built individually to take our engineering processes to the next stage.
+
+Initiatives driven within the Platforms section, often spanning multiple quarters, are represented on the [SaaS Platforms section epic](https://gitlab.com/groups/gitlab-com/-/epics/2115).
 
 In FY24, the focus is on:
 
@@ -68,7 +70,7 @@ With the work we've been doing in previous years, we are all in alignment that a
 
 We collaborate on the section level items in the [#s_platforms](https://gitlab.slack.com/archives/C02D1HQRTKQ) Slack channel. This channel is used to share important information with the wider team, but also serves to align all teams in Platfroms with the common topic.
 
-For communication between managers, we have [#infra-platforms-reports](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have a confidential managers channel that is used to discuss staffing issues affecting all teams that require additional coordination. This channel receives 1-3 messages every month.
+For communication between managers, we have [#infra-platforms-reports](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have a confidential managers channel that is used to discuss staffing issues affecting all teams that require additional coordination.
 
 Once per week, we hold a `Platforms leads call` to align on action items related to carreer development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
 
@@ -90,10 +92,12 @@ All team members are encouraged to schedule time for personal development. The f
 
 ### Learn about Platforms, and the Platforms Groups
 
-1. [SaaS Platforms - product direction](https://about.gitlab.com/direction/saas-platforms/)
-1. [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#history)
-2. [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#history)
-3. [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#mission),[Vision](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#vision) 
+| Group | Topic |
+|-------|-------|
+| SaaS Platforms | [Product direction](https://about.gitlab.com/direction/saas-platforms/) |
+| [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#history) |
+| [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#history) |
+| [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#mission) |
 
 ### Learn about tools and technologies used within Platforms
 
