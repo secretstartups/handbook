@@ -47,23 +47,25 @@ This handbook page focuses on how our department operates internally and the ini
 
 ## Department Structure
 
-### IT Compliance and Security
+### IT Compliance
 
 <details>
-<summary markdown="span">Compliance</summary>
+<summary markdown="span">IT Compliance</summary>
 
 <a href="/handbook/business-technology/it/compliance">Handbook Page</a><br />
 <br />
-IT Security and Compliance works collaboratively with multiple functional teams throughout the GitLab organization. We partner with our Security and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations. We also partner with Management, Business Teams, and our Data Team to implement solutions.
+The IT Compliance team works collaboratively with multiple functional teams throughout the GitLab organization. We partner with our Security and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations. We also partner with Management, Business Teams, and our Data Team to implement solutions.
 
 </details>
 
+### IT Security Operations
+
 <details>
-<summary markdown="span">Security Operations</summary>
+<summary markdown="span">IT Security Operations</summary>
 
 <a href="/handbook/business-technology/it/security">Handbook Page</a><br />
 <br />
-The IT Security Operations team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the <a href="/handbook/security/#departmental-structure">Engineering Security</a> department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.<br />
+The IT Security Operations team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the <a href="/handbook/security/#departmental-structure">Security</a> department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.<br />
 <br />
 The best practices and policies for team members can be found on the <a href="/handbook/security">security practices</a> handbook page.
 
@@ -248,9 +250,11 @@ We use animated movie and theme park references. We are careful to avoid tradema
 
 | Name                                                                  | Role                                     | Business Engagement Focus Areas                                     |
 |-----------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|
-| [Rob Rea](/company/team/#rrea1)               | Senior Director, IT Operations           | Assets, Security, Tech Stack Vendors, Compliance, Helpdesk, etc.    |
-| [Peter Kaldis](/company/team/#pkaldis)        | Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering, Infrastructure        |
-| [Michael Beltran](/company/team/#mbeee)       | Manager, IT End User Services            | End User Services IT Manager                                        | 
+| [Rob Rea](/company/team/#rrea1)               | Senior Director, IT Operations                  | Assets, Security, Tech Stack Vendors, Compliance, Helpdesk, etc.    |
+| [Peter Kaldis](/company/team/#pkaldis)        | Senior Manager, IT Systems Engineering          | Access Manager, Okta, Google, IT Engineering, Infrastructure        |
+| [Michael Beltran](/company/team/#mbeee)       | Senior Manager, IT End User Services            | End User Services IT Manager                                        | 
+| [Eric Rubin](/company/team/#ericrubin)        | Senior Manager, IT Security Operations          | Endpoint Security, Okta, Nira                                       |
+| [Derek Isla](/company/team/#disla)            | Manager, IT Compliance                          | IT Compliance
 
 ### IT Support Team
 {: #who-support}
@@ -262,7 +266,7 @@ We use animated movie and theme park references. We are careful to avoid tradema
 | Jeff Ford                                           | IT Helpdesk Analyst             | AMER              |
 | Alex Krusiec                                        | IT Helpdesk Analyst             | AMER              |
 | Mic Rohr                                            | IT Helpdesk Analyst             | AMER              |
-| Max Hirata                                          | IT Helpdesk Analyst             | APAC              |
+| [Max Hirata](/company/team/#mraetz)                 | IT Helpdesk Analyst             | APAC              |
 
 
 ### Engineering Team
@@ -270,19 +274,28 @@ We use animated movie and theme park references. We are careful to avoid tradema
 
 | Name                                                | Role                              | Focus Areas (Specialties)                                    |
 |-----------------------------------------------------|-----------------------------------|--------------------------------------------------------------|
-| [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)       | Senior IT Systems Engineer        | Development, Engineering Mgmt, Infrastructure, Demo Systems, Security, Support  |
-| [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker)         | Senior IT Systems Engineer        | Access Management, Okta, Operations                                |
-| [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler)      | IT Systems Engineer               | Development, Google, Security                   |
-| [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy)    | IT Systems Administrator          | Infrastructure, Operations, Support                                |
+| [Jeff Martin](/company/team/#jeffersonmartin)       | Staff IT Systems Engineer        | Development, Engineering Mgmt, Infrastructure, Demo Systems, Security, Support  |
+| [Marcus Whitaker](/company/team/#mwhitaker)         | Senior IT Systems Engineer        | Access Management, Okta, Operations                                |
+| [Dillon Wheeler](/company/team/#dillonwheeler)      | IT Systems Engineer               | Development, Google, Security                   |
+| [Mohammed Al Kobaisy](/company/team/#malkobaisy)    | IT Systems Administrator          | Infrastructure, Operations, Support                                |
+| [Vlad Stoianovici](/company/team/#vlad)             | Senior IT Site Reliability Engineer | Infrastructure, Operations, Support                        |
 
-### Security and Compliance Team
-{: #who-security-compliance}
+### IT Compliance Team
+{: #who-it-compliance}
 
 | Name                                                                        | Role                              |
 |-----------------------------------------------------------------------------|-----------------------------------|
-| [Open Role](https://boards.greenhouse.io/gitlab/jobs/5851344002)            | Manager, IT Security Operations   |
-| [Derek Isla](/company/team/#disla)                                          | Senior IT Compliance Manager      |
-| [Adam Huss](/company/team/#adamhuss)                                        | IT Security Analyst               | 
+| [Sarah Pang](/company/team/#arahpang)                                       | Senior IT Compliance Engineer     |
+
+
+### IT Security Operations Team
+{: #who-it-security}
+
+| Name                                                                        | Role                              |
+|-----------------------------------------------------------------------------|-----------------------------------|
+| [Adam Huss](/company/team/#adamhuss)                                        | IT Security Analyst               |
+| [Clayton Shank](/company/team/#cshankgitlab)                                | Senior IT Security Engineer       |
+
 
 ### Cross-Department System Owners
 
