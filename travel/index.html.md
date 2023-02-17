@@ -19,7 +19,7 @@ title: Travel
 1. Hotels will generally expect you to have a physical credit card to present upon check-in. This credit card will be kept on file for the duration of your stay. Even if your lodging was pre-paid by the company or by using a company credit card, the Hotel may still require a card to be on file for "incidentals".
 1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Navan Expense or include the receipts on your next monthly invoice.
-
+  
 
 
 ## Booking travel and lodging<a name="TripActions"></a>
@@ -148,8 +148,8 @@ Please read through these FAQ **entirely**.
 
 #### Booking accommodations through Airbnb
 
-- You can book Airbnb via Navan! Navan has a feature allowing you to view results based on Property Type.
-- If you are booking the trip yourself, you may be reimbursed for the portion of your stay that was business related by submitting in Navan or on your monthly invoice.
+- To be booked on AIRBNB platform. Same restrictions in amount applies as the hotel expense.
+- Team member to submit a manual expense in Navan using expense type "Lodging" and attach the receipt/invoice.
 
 #### Supporting nursing mothers
 
