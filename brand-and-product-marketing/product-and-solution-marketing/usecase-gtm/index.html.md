@@ -85,7 +85,7 @@ Core DevOps Solutions have DRIs and a wealth of internally-focused and externall
 
 |  | **Automated Software Delivery** | **Security/DevSecOps** | **Compliance** | Platform |
 | --- | ----------- | ------------------ | ----------- | -------------- |
-| **PMM** | Saumya Upadhyaya | Cindy Blake | Cindy Blake |  Cormac Foster | 
+| **PMM** | Saumya Upadhyaya | Brian Mason | Brian Mason |  Saumya Upadhyaya | 
 | **TMM** | Itzik | Fern | Fern |  William Arias |
 | **PM** | Jackie Porter | Hillary Benson | Orit Golowinski | Kenny Johnston |
 | **Resource page** | [Automated Software Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/) | [DevSecOps page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/) | [Compliance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/) | [Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/) |
@@ -96,9 +96,10 @@ Core DevOps Solutions have DRIs and a wealth of internally-focused and externall
 | **Slack channel** | #gtm-autosd | #gtm-ci-cd (it was security focused) | na | #gtm-platform |
 
 ### Capabilities / use cases
-|  | **CI/CD** | **SCM** | **GitOps** | Agile planning |
+
+| --- | **CI/CD** | **SCM** | **GitOps** | Agile planning |
 | --- | ----------- | ------------------ | ----------- | ------------- |
-| **PMM** | Saumya Upadhyaya  | Brian Glanz | Saumya Upadhyaya | Cormac |
+| **PMM** | Heather Simpson / Aathira Nair  | Heather Simpson | Aathira Nair | Heather Simpson / Saumya Upadhyaya |
 | **TMM** | Itzik | William Arias | Cesar Saavedra | William Arias |
 | **PM** | Jackie Porter  | Daniel Gruesso | Viktor Nagy | n/a |
 | **Resource page** | [CI resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)| [SCM resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) | [GitOps resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/) | [Agile planning](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/) |
@@ -111,6 +112,7 @@ Core DevOps Solutions have DRIs and a wealth of internally-focused and externall
 For solutions that have a GTM (campaign) Motion built around them, DRIs for the motion are based on the [GTM Motion Core team](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams).
 
 Use cases coming next
+
 | VSM | Observability | supply chain security |
 | --- | --- | --- | 
 
