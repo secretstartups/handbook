@@ -42,7 +42,7 @@ Coming soon. A link will be provided to the Data Quality Project as well as guid
 
 </details>
 
-## Data Quality Governance Planning and Process
+## Governance Planning and Process
 
 <details markdown=1>
 
@@ -92,7 +92,7 @@ All applicable data tables and fields should be listed. The four main tables to 
 
 </details>
 
-## Data Quality Program Design Spike: Governance Plan for SaaS Namespace <> Subscription Mapping
+## Governance Plan for SaaS Namespace <> Subscription Mapping
 
 <details markdown=1>
 
