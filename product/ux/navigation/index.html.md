@@ -23,3 +23,9 @@ Listed in [Pajamas](https://design.gitlab.com/patterns/navigation) are the eleme
 Before opening an issue, review the [guidelines in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. If you would like to propose a navigation change, then you can use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team. 
 
 The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary.
+
+### Utilizing feature flags
+
+[Feature flags](https://docs.gitlab.com/ee/operations/feature_flags.html) are a great way for teams to merge changes in smaller batches without negatively impacting the user experience.
+
+When shipping navigation changes behind a feature flag, it is required to present a proposal that considers the future state with a clear, validated vision of the final outcome. We do not merge iterative navigation changes behind a feature flag without having an understanding of the end state.
