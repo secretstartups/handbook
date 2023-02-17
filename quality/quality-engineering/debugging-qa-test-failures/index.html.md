@@ -225,6 +225,18 @@ Click on the diagram below to visit the announcement issue for more context and 
 
 Note the diagram has been updated as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
 
+#### Special considerations for Staging Ref
+
+[Staging Ref](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/) is a Sandbox environment used for pre-production testing of the latest Staging Canary code. It is a shared
+environment with wide access permissions and as a result of engineers testing their code, the environment may become unstable and may need to be rebuilt.
+
+As such failures in any QA pipelines on Staging Ref are _not blocking_ the deployment. QA suites are triggered when a new GitLab version
+is deployed to the environment. They are used to check that the environment is healthy and functionality is working as expected.
+Quality team maintains the environment and has full access to its resources for in-depth debugging.
+
+Staging Ref deployment runs parallel to Staging Canary deployment. These two environments share the same GitLab version, if a failure happens
+on Staging Ref but not on Staging Canary, it may indicate that the failure is environment specific. See [QA pipeline debugging guide](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit-configs/staging-ref/-/blob/main/doc/qa_failure_debug.md) for more information on how to investigate QA failures in E2E tests triggered after Staging Ref deployment.
+
 #### Special considerations for Preprod
 
 [`Preprod`](/handbook/engineering/infrastructure/environments/#pre) is used to perform validation of release candidates. Every month around the 22nd, and the few days before, it is essential that there are no unexpected failures in the pipeline that will delay the release. There is a pipeline scheduled to run prior to deployment of the release candidate, to give us a chance to identify and resolve any issues with tests or the test environment. This scheduled pipeline should be given equal priority with `Production` and `Staging` pipelines because of the potential impact failures can have on a release.
@@ -514,7 +526,7 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 
 #### Failure needs escalation
 
-If the failure is in a `smoke` or a `reliable` test, it will block deployments. Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com, you can use `@gitlab-org/release/managers`. In Slack, you can use `@release-managers`.
+If the failure is in a `smoke` or a `reliable` test, it will block deployments ([except for Staging Ref failures](#special-considerations-for-staging-ref)). Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com, you can use `@gitlab-org/release/managers`. In Slack, you can use `@release-managers`.
 
 If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` Slack channel, this will automatically prevent deployments (if the incident is at least an S2).
 
