@@ -47,6 +47,8 @@ We have an automation in place: The Support Team Bot posts a message in our Slac
 
 Aim to grab a ticket from the FRT stage and become the DRI for that ticket. If you do not have capacity to take on assignment, or if the customer would benefit from having the ticket handled by another region, send out an FRT and ask in the group channel if another group member can become DRI – or at least add themselves to the CCs and help assume collective responsibility for moving the ticket forward.
 
+**Important**: If you cannot afford the time to put together a public reply, or do not have capacity to become the DRI for the ticket, assume that someone else will. In order to minimize the mental effort necessary for the next engineer to catch up with the ticket request and come up with ideas to move it forward, consider leaving an internal note with a concise summary of the problem, and as much helpful information and relevant links as you're able to muster.
+
 #### NRT Stage
 
 There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles. 
