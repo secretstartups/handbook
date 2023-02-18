@@ -141,25 +141,6 @@ This report contains community merge requests that may require some attention fr
 
 ### Team reports
 
-#### Newly created untriaged issues
-
-This is a daily generated report that contains the most recent unlabelled issues requiring initial triage. Currently, the number of issues indexed is based on the number of active Quality Department Engineering Managers for that day. This is 4 items per active Manager, so at most 16 items per day. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
-
-* Triage owner: Quality Department Managers
-* Triage action: Follow the instructions in the triage report.
-  * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
-  * Example: <https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/5362>
-
-##### Manual creation
-
-Sometimes the unlabelled triage report creation fails due to spam detection. When the issue is not created, a notification for failure of the `verify-unlabelled` job will be raised to the `#triage-automations` channel.
-
-The issue can be created manually using the following command:
-
-```
-bundle exec gitlab-triage --debug --r ./plugins/all.rb --token PERSONAL_API_TOKEN --source projects --source-id gitlab-org/gitlab -f ./policies/stages/report/unlabelled-issues.yml
-```
-
 #### Group level bugs, features, and UX debt
 
 This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/categories/#devops-stages).

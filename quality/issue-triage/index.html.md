@@ -15,11 +15,10 @@ GitLab believes in [Open Development][open-development], and we encourage the co
 
 Any GitLab team-member can triage issues. Keeping the number of un-triaged issues low is essential for maintainability, and is our collective responsibility. Consider triaging a few issues around your other responsibilities, or scheduling some time for it on a regular basis.
 
-Currently the Quality Department takes on triaging all new issues in the main [GitLab](https://gitlab.com/gitlab-org/gitlab) project via the [newly created unlabelled issues](/handbook/engineering/quality/triage-operations/#newly-created-untriaged-issues) triage report.
-
 ## Partial Triage
 
-The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) is currently responsible for completing partial triage.
+The [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
+We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/c003f65c94ff55a6b43c0b5c8c8ac0173618c0a5/policies/stages/report/untriaged-issues.yml#L70) and [tanuki-stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan) to ensure group labels are added, and issues are seen/triaged by the relevant group.
 
 ### Partial Triage checklist
 

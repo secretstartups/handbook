@@ -48,7 +48,7 @@ These internal Slack channels may be helpful to join.
   * [#quality](https://gitlab.slack.com/messages/C3JJET4Q6) - general department channel
   * [#quality-weeklystandup](https://gitlab.slack.com/messages/CGZQCTU8J) - Weekly standup update channel for Quality
   * [#g_engineering-productivity](https://gitlab.slack.com/messages/CMA7DQJRX) - Engineering Productivity team channel
-  * [#triage](https://gitlab.slack.com/messages/C39HX5TRV) - channel to aid in [triaging unlabelled issues](/handbook/engineering/quality/triage-operations/#newly-created-untriaged-issues)
+  * [#triage](https://gitlab.slack.com/messages/C39HX5TRV) - channel to aid in [triaging unlabelled issues](/handbook/engineering/quality/issue-triage/)
   * [#qa-nightly](https://gitlab.slack.com/messages/CGLMP1G7M) - channel with semi-nightly end to end test results
   * [#qa-staging](https://gitlab.slack.com/messages/CBS3YKMGD) - channel with daily `staging` end to end test results
   * [#qa-production](https://gitlab.slack.com/messages/CCNNKFP8B) - channel with daily `production` end to end test results
