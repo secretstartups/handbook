@@ -114,17 +114,17 @@ In addition to the [status process from Dedicated team page](/handbook/engineeri
 
 Below are the functional areas involved in this Cross-Functional Initiative as well as the Functional DRI representing that functional area. 
 
-| Working Group Role (alphabetical order) | Team Member        | Functional Title                                 
+| Working Group Functions (alphabetical)  | Team Member        | Title                                 
 |-----------------------------------------|--------------------|--------------------------------------------------|
 | Functional Lead: Channel Partners       | Honora Duncan      | Senior Channel Services Manager                  |
 | Functional Lead: Comms & PMM            | Saumya Upadhyaya   | Principal Product Marketing Manager              |
 | Functional Lead: Enablement             | Kelley Shirazi     | Manager, Sales Enablement                        |
 | Functional Lead: Engineering            | Marin Jankovski    | Director, Infrastructure Platforms               |
 | Functional Lead: FP&A                   | Shuang Shackleford | Director, FP&A                                   |
-| Functional Lead: Market Opportunity     | Laura Clymer       | Director, Market Strategy and Insights           |
 | Functional Lead: Post-Sales (CS/PS)     | Brian Will         | Senior Manager, Professional Services            |
-| Functional Lead: Pricing                | Justin Farris      | Senior Director, Product Monetization            |
+| Functional Lead: Pricing & Fulfillment  | Justin Farris      | Senior Director, Product Monetization            |
 | Functional Lead: Product                | Andrew Thomas      | Principal Product Manager                        |
+| Functional Lead: Sales                  | Aileen Lu          | Director, Sales Strategy                         |
 | Member                                  | Josh Lambert       | Director of Product, Enablement                  |
 | Member                                  | Jake Bielecki      | VP, Sales Strategy & Analytics                   |
 
@@ -135,8 +135,6 @@ Functional DRIs are also mentioned at the top of the description of their functi
 Please see [Functional Lead on Working Group page](company/team/structure/working-groups/#required-roles). 
 
 Functional DRIs are responsible for maintaining their function's epics by following process mentioned in [Epic Owner Responsibilities](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-owner-responsibilities) and [Epic Structure](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure).
-
-Additionally, for any functional epic with currently active projects or work, the Functional DRIs provides weekly status updates according to the [status update process from the Dedicated Team Page](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-updates). 
 
 ## Dedicated Team DRIs
 
