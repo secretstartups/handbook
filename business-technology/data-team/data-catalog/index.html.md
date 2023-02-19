@@ -185,10 +185,12 @@ The analysis section provides references to analytical projects developed by the
 
 <summary><b>Data Science and Business Insights</b></summary>
 
+
+* Propensity to Expand: [Project](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand), [Handbook](/handbook/business-technology/data-team/organization/data-science/#revenue-expansion), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
+* Propensity to Contract and Churn: [Project](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn), [Handbook](/handbook/business-technology/data-team/organization/data-science/#loss-prevention), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
+* Propensity to Purpchase: [Project](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-purchase), [Handbook](/handbook/business-technology/data-team/organization/data-science/#conversion), [Trails Presentation](https://docs.google.com/presentation/d/1EyS9Wq6F0qlQwt5sj7x8VnSSGD1vIy3AcSpMGddZdbk/edit#slide=id.g12e25a29994_0_0), [Free Presentation](https://docs.google.com/presentation/d/1UNfthItOOfT3L4v5PkZh4z4hVPKdCcn8aQg_raVflxg/edit#slide=id.g12e25a29994_0_0)
 * [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
 * [2022-01-10 Free Account conversion to First-Order Closed Won](https://docs.google.com/presentation/d/1_kNZww2gEBlMINa67PXpkhllHsU16mVzo_dM0Qx8d14/edit#slide=id.gedf1d4ec40_0_0)
-* Propensity to Expand: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
-* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
 
 </details>
 
