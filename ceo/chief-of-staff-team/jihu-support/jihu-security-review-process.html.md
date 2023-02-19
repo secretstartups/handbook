@@ -65,6 +65,7 @@ When performing the security review of a JiHu contribution, the reviewer needs t
 AppSec approvals are revoked when subsequent changes are added to the merge requests and requires a re-review from AppSec before merging. The process is as follows:
 
 1. `~sec-planning::complete` will be revoked when the MR is updated (additional commits or rebase) and the original AppSec approver will have a [request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to re-review and approve.
+1. Use [the "Compare Versions" feature](https://docs.gitlab.com/ee/user/project/merge_requests/versions.html#selecting-a-version) to see what changed between the AppSec-approved version and the latest version. The automated approval comment contains the approved version's SHA hash.
 1. Use the [suggested quick action](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to unapprove and re-approve after re-reviewing.
 
 Merging of `gitlab-org/gitlab` `~JiHu contribution` MRs is blocked if the `~sec-planning::complete` label is missing from the merge request, since the `verify-approvals` job will fail.
